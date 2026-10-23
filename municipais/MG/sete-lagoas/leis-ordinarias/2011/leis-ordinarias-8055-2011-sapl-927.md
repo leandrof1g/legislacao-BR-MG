@@ -1,0 +1,42 @@
+---
+titulo: "Lei Ordinária nº 8055, de 15/09/2011"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei "
+numero: "8055"
+data: "2011-09-15"
+ementa: "ALTERA A LEI 7.803 DE 14 DE OUTUBRO DE 2009 QUE DISPÕE SOBRE O PERÍMETRO URBANO DO DISTRITO SEDE DO MUNICÍPIO DE SETE LAGOAS."
+municipio: "Sete Lagoas"
+uf: "MG"
+codigo_ibge: "3167202"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.setelagoas.mg.leg.br/norma/927"
+fonte_texto: "https://sapl.setelagoas.mg.leg.br/media/sapl/public/normajuridica/2011/927/927_texto_integral.pdf"
+sha256_fonte: "1883a599099ea34d3a4001c1b3fabd55f5f583dc106386ab17a207394f29a823"
+baixado_em: "2026-10-23"
+---
+
+# Lei Ordinária nº 8055, de 15/09/2011
+
+LEI Nº 8055, de 15 de setembro de 2011
+
+ALTERA A LEI Nº 7803 DE 14 DE OUTUBRO DE 2009 QUE DISPÕE SOBRE O PERÍMETRO URBANO DO DISTRITO SEDE DO MUNICÍPIO DE SETE LAGOAS.
+
+(Originária do Projeto de Lei nº 080/2011 de autoria do Poder Executivo)
+
+O Povo do Município de Sete Lagoas, por seus representantes legais votou, e eu em seu nome sanciono a seguinte Lei:
+
+**Art. 1º** O art. 1º da Lei nº 7.803 de 14 de outubro de 2009 que dispõe sobre o Perímetro Urbano do Distrito Sede do Município de Sete Lagoas passa a vigorar com a seguinte redação:
+
+"Art. 1º O perímetro urbano do Município de Sete Lagoas passa a ter a seguinte descrição: do Posto Rodoviário Federal (exclusive), passando próximo ao Km 470 da Rodovia BR 040, nas coordenadas geográficas centesimais: longitude - 44,2925 e latitude - 19,4735. Daí atinge o Espigão da Serra de Santa Helena e segue por este até atingir o Parque da Cascata (inclusive). Pelos terrenos do Parque da Cascata segue até atingir a Estrada para as Torres da Estação de Comunicação Sete Lagoas RD-SHF/CEMIG (exclusive), Estação Repetidora RD11 TIM/MAXITEL (exclusive) e EMBRATEL (exclusive). Daí, atravessando a citada estrada passando por detrás da Capela de Santa Helena e das Torres TELEMAR/OI (Inclusive), segue até atingir a estrada que da acesso aos Bairros Planalto e Alvorada. Segue por esta, contornando os Bairros Alvorada (inclusive) e Planalto (inclusive) até defrontar a caixa d`água (inclusive) no ponto fronteiro à Avenida Arquimedes. Deste ponto, segue contornando todo o Bairro Planalto (inclusive) até atingir o final da Rua Professor Abeylard, na Estrada para o Distrito de Silva Xavier e o Município de Araçaí. Deste ponto, em linha reta, segue atravessando o Córrego Vargem dos Tropeiros até atingir o ponto fronteiro à Rua Geraldo Israel de Castro, na confluência com a Avenida Múcio José Reis (Norte-Sul), no Bairro Belo Vale II, próximo aos terrenos da Fazenda do Dr. Geraldo Machado (exclusive). Daí, segue contornando todo o Bairro Belo Vale II (inclusive) até o ponto Norte do mesmo. Daí, em linha reta até alcançar a antiga Granja Nova Esperança (exclusive), de coordenadas geográficas centesimais (Latitude: - 19,4041 e Longitude: - 44,2175), na localidade de Venceslau Brás (exclusive). Deste ponto atinge a FCA (Ferrovia Centro Atlântica). Daí atravessando a FCA(Ferrovia Centro Atlântica), alcança as divisas da propriedade de Rômulo Pontelo (exclusive) nas coordenadas geográficas centesimais (Latitude: - 19,4044 e Longitude: - 44,2147). Daí, pelas citadas divisas alcança o Córrego do Brejão e segue atravessando este, passando por detrás do Rancho Fantasia (inclusive) até atingir a MG-238 no trevo que dá acesso ao 4º Grupo de Artilharia Antiaérea - 4º GAAE (exclusive) de coordenadas geográficas centesimais (Latitude: - 19,3914 e Longitude: - 44,2072), confrontando com a Lagoa Grande. Daí, segue contornando a Lagoa Grande (inclusive), toda a Cidade de Deus (inclusive), todo o Bairro Residencial Bouganville II (inclusive), atravessa a estrada para o Município de Funilândia, até alcançar as cercas das divisas da empresa Grama Flor (inclusive). Segue contornando a Fazenda Capão dos Monjolos de Arnaldo Nogueira(inclusive), ao fundo da Lagoa Comprida (inclusive), contorna a citada Lagoa e todo o Bairro Bouganville I (inclusive), Cemitério e Parque Boa Vista (inclusive), Frigorífico Mata Bem (inclusive), Hortaliça Campelo (inclusive), Fazenda de Aloísio T. Maciel (inclusive) e Condomínio Lago Azul (inclusive), até atingir a confluência da Avenida Padre Tarcísio com a Linha Férrea-FCA (Ferrovia Centro Atlântica). Deste ponto segue contornando o Bairro Bela Vista III (inclusive) até atingir o Córrego do Matadouro, no ponto fronteiro à confluência da Av. Vereador José Júlio com a Rua São Domingos do Prata, no Bairro Monte Carlo. Daí segue pelo Córrego do Matadouro até seu encontro com o Córrego Tamanduá. Segue pelo Córrego Tamanduá até defrontar com a Rua Ataulfo Alves, no Bairro Del Rey. Deste ponto, segue contornando todo o Bairro Itapuã I (inclusive), passando pelo campo de futebol do time União Raça (inclusive), Escola Municipal Dr. Enízio Antônio Viana (inclusive). Prossegue contornando todo o Bairro Itapuã II (inclusive), até alcançar o NIA/EMBRAPA (exclusive). Deste ponto segue contornando os limites de terreno da Embrapa, até atingir Rodovia MG-424 no Km 47. Segue poresta até defrontar a Avenida Nádia Lúcia Alves, no Bairro Esmeraldas II (inclusive). Daí prossegue, contornando a citada avenida até atingir a Linha Férrea. Deste ponto em linha reta, segue até atingir a Fazenda Bananal de Arnaldo Nogueira - coordenadas geográficas centesimais de "longitude - 44,2191 e latitude - 19,486" (inclusive). Daí segue, passando pelos muros de divisa do Condomínio Hermitage (inclusive), Motel Star Light (inclusive), todo o Condomínio Residencial Da Vinci - coordenadas geográficas centesimais de "longitude - 44,2251 e latitude - 19,4797" (inclusive). Daí, em linha reta, até alcançar a Cerâmica do Juvenal (inclusive), atravessa a Estrada para Mineração ILCOM, passando por detrás dos muros da Felt Elétrica (inclusive), alcança a propriedade da Senhora Nacele Silva Marques (Fazenda do Espólio de Romero Alves da Silva) (inclusive) no final da Rua Chico dos Pinhões. Deste ponto, segue em linha reta, alcança as cercas de divisas de todo o Bairro Iporanga II (inclusive). Por esta até atingir o final da Rua Ervália na estrada para o Sítio do Ipê Amarelo (exclusive). Pelas cercas de divisa do Sítio Ipê Amarelo (exclusive), alcança todos os Bairros Padre Teodoro (inclusive), Padre Teodoro II (inclusive) até defrontar com final da Avenida Carmem Kilesse - antiga Estrada para a Fazenda Velha, sob a rede de Alta Tensão da CEMIG. Contorna toda a Rua Pacífico Moreira Costa (antiga Rua F - Bairro Padre Teodoro II), até atingir a Rua João Batista, no Bairro Maria Amélia (inclusive). Daí, atravessa o Córrego Machado ou Paredão e segue contornando todo o Bairro Lago do Moinho (inclusive), Pesque e Pague Pedras do Moinho de propriedade do Dino (inclusive), todo o Bairro Esplanada do Moinho (inclusive), todo o Bairro Dona Lili (inclusive) - de propriedade do Dr. Celso Gomes. Daí atinge a nascente do Córrego Sapé na Propriedade do Senhor Dino Geraldo Moreira Dutra - conhecido como Bolero (exclusive). Pelo Córrego do Sapé até a sua foz no Córrego Melancias. Segue pelo Córrego Melancias, passando por detrás de todo o Chacreamento Melancias (inclusive), até atingir os terrenos da Fazenda Melancias (exclusive). Daí pelos terrenos da Fazenda Melancias (exclusive) até atingir a Estrada para Pedreira Mata Grande, no Córrego Mata Grande. Segue pelo Córrego Mata Grande até alcançar as cercas de divisas do Bairro Mata Grande (inclusive). Daí, em reta, até alcançar o Açude da Fazenda Mata Grande (inclusive), de propriedade do Senhor Amadeu Costa Filho. Deste ponto, em linha reta, segue até a sede do Retiro Sítio Pedra Grande, de Afrânio Avelar Marques Ferreira (inclusive). Daí segue até a Mineração Transmita - Inativa - (inclusive). Deste ponto, em linha reta, segue passando pelos terrenos da Fazenda do Sr. Alderico Xavier Florêncio (inclusive) até atingir o Trevo da BR - 040, no Km 473, nos Viadutos defronte à Avenida Castelo Branco (inclusive), daí segue pela BR - 040 até atingir o ponto inicial."
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Sete Lagoas, 15 de setembro de 2011.
+
+MÁRIO MÁRCIO CAMPOLINA PAIVA Prefeito Municipal
+
+NADAB ESTANISLAU ABELIN Secretário Municipal de Governo, Particular do Prefeito e Assuntos Especiais
+
+LUIZ MÁRCIO CUNHA MACHADO Secretário Municipal de Planejamento, Orçamento e Gestão
+
+FLÁVIO MARCOS DUMONT SILVA Procurador Geral do Município

@@ -1,0 +1,88 @@
+---
+titulo: "Portaria Presidência nº 9, de 07/04/2011"
+tipo: "Portaria Presidência"
+tipo_na_fonte: "Portaria Presidência"
+numero: "9"
+data: "2011-04-07"
+ementa: "FICAM NOMEADOS PARA COMPOR AS COMISSÕES PERMANENTES DA CÂMARA MUNICIPAL DE CONTAGEM NAS SESSÕES LEGISLATIVAS DE 2011, OBEDECIDOS PRECEITOS REGIMENTAIS E OS ACORDOS DAS LIDERANÇAS POLÍTICAS INSTALADAS NESTA CASA."
+municipio: "Contagem"
+uf: "MG"
+codigo_ibge: "3118601"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.contagem.mg.leg.br/norma/576"
+fonte_texto: "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2011/576/576_texto_integral.pdf"
+sha256_fonte: "93fd32ee83ac2b0ccd20ca5a294bf3c75beeb46dbc580fda75256e206fe9f1a9"
+baixado_em: "2026-10-23"
+---
+
+# Portaria Presidência nº 9, de 07/04/2011
+
+PRESIDÊNCIA DA CÂMARA MUNICIPAL CONTAGEM
+
+PORTARIA N.o 009/2011
+
+O PRESIDENTE da CÂMARA MUNICIPAL DE CONTAGEM, no uso de suas atribuições regimentais, especialmente aquelas previstas no artigo 47, inciso IV, alínea ]
+
+a” e no artigo 88, observado o artigo 91, todos do Regimento Interno vigente,
+
+RESOLVE:
+
+**Art.1o** - Ficam nomeados para compor as COMISSÕES PERMANENTES da CÂMARA MUNICIPAL DE CONTAGEM nas Sessões legislativas de 2011, obedecidos preceitos regimentais e os acordos das lideranças políticas instaladas nesta Casa, os seguintes Edis:
+
+COMISSÃO DE LEGISLAÇÃO, JUSTIÇA E REDAÇÃO FINAL
+
+TITULARES PRESIDENTE RICARDO ROCHA DE FARIA - PV
+
+VICE-PRESIDENTE ALEX CHIODI - PP
+
+RELATOR SILVIO BRAZ DA SILVA “PASTOR SILVA” - PSDB
+
+VICE —- PRESIDENTE ROGÉRIO BRAZ DE ALMEIDA - PSB
+
+COMISSÃO DE ADMINISTRAÇÃO E SERVIÇOS PÚBLICOS
+
+TITULARES PRESIDENTE ARNALDO DE OLIVEIRA - PTB
+
+SUPLENTES PRESIDENTE ADENIR JOSE BRAVO - PTN
+
+VICE —- PRESIDENTE ROGÉRIO BRAZ DE ALMEIDA - PSB
+
+COMISSÃO DE FINANÇAS, ORÇAMENTO E TOMADA DE CONTAS
+
+TITULARES PRESIDENTE RAVILSON DE ALMEIDA LOPES FILHO - PP
+
+VICE-PRESIDENTE AVAIR SALVADOR DE CARVALHO - PSB
+
+RELATOR ADENIR JOSE BRAVO - PTN
+
+SUPLENTES PRESIDENTE ACÁCIO DE MACÉDO MATOS - PPS
+
+VICE —- PRESIDENTE SILVIO BRAZ DA SILVA “PASTOR SILVA” - PSDB
+
+RELATOR WILLIAN VIEIRA BATISTA - DEM
+
+COMISSÃO DE DIREITOS HUMANOS E ASSISTÊNCIA SOCIAL
+
+TITULARES PRESIDENTE ALEX CHIODI - PP
+
+SUPLENTES PRESIDENTE RAVILSON DE ALMEIDA LOPES FILHO - PP
+
+VICE —- PRESIDENTE SILVIO BRAZ DA SILVA “PASTOR SILVA” - PSDB
+
+RELATOR GIL ANTÔNIO DINIZ - PUDB
+
+COMISSÃO DE MEIO AMBIENTE, POLÍTICA URBANA RURAL E HABITAÇÃO
+
+TITULARES PRESIDENTE GIL ANTÔNIO DINIZ - PMDB
+
+VICE-PRESIDENTE ROGÉRIO BRAZ DE ALMEIDA - PSB
+
+VICE —- PRESIDENTE AVAIR SALVADOR DE CARVALHO - PSB
+
+**Art.2o** - Esta Portaria entra em vigor nesta data revogam-se as disposições contrárias e em especial a Portaria n.o 001/2011.
+
+REGISTRE-SE, PUBLIQUE-SE E CUMPRA-SE.
+
+Palácio 1o de janeiro, aos 7 de abril de 2011.
+
+Prof. Irineu Inácio da Silva -Presidente-

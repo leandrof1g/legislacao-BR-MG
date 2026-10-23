@@ -1,0 +1,44 @@
+---
+titulo: "Decreto Legislativo nº 8, de 23/05/2019"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "8"
+data: "2019-05-23"
+ementa: "CONCEDE TÍTULO DE CIDADANIA HONORÁRIA VARGINHENSE."
+municipio: "Varginha"
+uf: "MG"
+codigo_ibge: "3170701"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.varginha.mg.leg.br/norma/2310"
+fonte_texto: "https://sapl.varginha.mg.leg.br/media/sapl/public/normajuridica/2019/2310/decreto08-2019.pdf"
+sha256_fonte: "2a724cc74eef2728a665c514ffb735575d0ef3e679240997697a8fc587c6e4c2"
+baixado_em: "2026-10-23"
+---
+
+# Decreto Legislativo nº 8, de 23/05/2019
+
+Câmara Municipal de Varginha
+
+Decreto N° 8/2019
+
+CONCEDE TÍTULO DE CIDADANIA HONORÁRIA VARGINHENSE
+
+A Câmara Municipal de Varginha, Estado de Minas Gerais, por seus representantes aprova e sua Mesa Diretora promulga o seguinte
+
+DECRETO LEGISLATIVO:
+
+**Art. 1°** Fica concedido ao SR. JOSÉ RICARDO XAVIER , o Título de "CIDADANIA HONORÁRIA VARGINHENSE", pelos relevantes serviços prestados à comunidade.
+
+**Art. 2°** O Titulo de que trata o artigo anterior, será assinado pelos Senhores. Presidente da Câmara Municipal, Prefeito, Vice-prefeito e Vereadores.
+
+**Art. 3°** Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Câmara Municipal de Varginha, em 23 de maio de 2019, 136° Emancipação Político Administrativa do Município.
+
+- ED DÓ BENEEftT O FILHO Presidente
+
+CGT rCtÉé
+
+L- MAR C V/ NTONI SOUZA CARLOS FERREIRA DA COSTA FILHO Vice-Presidente Secretário
+
+Praça Governador Benedito Valadares, 11 - Centro - CEP 37002.020 - Varginha - MG - Telefax. {35) 3219.4757 http://www.camaravarginharng.gov.br email. imprensa@camaravarginha.n.gov hr 1 secretaria@camaravarginha.rng.gov.br

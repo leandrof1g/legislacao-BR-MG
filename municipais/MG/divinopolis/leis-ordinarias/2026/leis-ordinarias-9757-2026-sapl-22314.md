@@ -1,0 +1,118 @@
+---
+titulo: "Lei Ordinária nº 9757, de 08/09/2026"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "9757"
+data: "2026-09-08"
+ementa: "Institui o STAVA – Serviço de Transição Assistida para a Vida Adulta, no âmbito da Política de Proteção Social Especial do Sistema Único de Assistência Social– SUAS, no município de Divinópolis."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/22314"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22314/lei_no_9757-2026_-_stava_servico_de_transicao_assistada_vida_adulta.pdf"
+sha256_fonte: "9852e1b52d9e1478a941935fcfbfac50eea0475d249ba80f0cec054984def8d2"
+baixado_em: "2026-10-23"
+---
+
+# Lei Ordinária nº 9757, de 08/09/2026
+
+LEI Nº 9.757, DE 08 DE SETEMBRO DE 2026
+
+Institui o STAVA - Serviço de Transição Assistida para a Vida Adulta, no âmbito da Política de Proteção Social Especial do SUAS - Sistema Único de Assistência Social, no Município de Divinópolis.
+
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
+
+#### CAPÍTULO I DAS DISPOSIÇÕES GERAIS
+
+**Art. 1º** Fica instituído no Município de Divinópolis o STAVA - Serviço de Transição Assistida para a Vida Adulta, como serviço integrante da Política de Proteção Social Especial de Alta Complexidade, no SUAS - Sistema Único de Assistência Social.
+
+**Art. 2º** O STAVA destina-se a jovens com idade entre 18 (dezoito) e 21 (vinte e um) anos, egressos ou em processo de desligamento dos Serviços de Acolhimento Institucional para Crianças e Adolescentes, que se encontrem em situação de vulnerabilidade e risco pessoal e social, com vínculos familiares rompidos ou extremamente fragilizados, sem possibilidade de retorno à família de origem ou colocação em família substituta.
+
+**Art. 3º** O STAVA caracteriza-se como serviço de acolhimento em modalidade de república assistida, com acompanhamento técnico contínuo, voltado à construção progressiva da autonomia pessoal, social e econômica dos jovens atendidos.
+
+#### CAPÍTULO II DOS OBJETIVOS E PRINCÍPIOS
+
+**Art. 4º** São objetivos do STAVA:
+
+I - assegurar condições reais e dignas de transição da adolescência para a vida adulta;
+
+II - promover a autonomia progressiva, a autogestão e a autossustentação dos jovens;
+
+III - prevenir situações de desproteção social, violação de direitos e rupturas abruptas após o desligamento institucional;
+
+IV - fortalecer vínculos comunitários e o acesso às políticas públicas;
+
+V - apoiar a construção de projetos de vida viáveis e sustentáveis.
+
+**Art. 5º** O STAVA reger-se-á pelos seguintes princípios:
+
+I - centralidade do sujeito e protagonismo juvenil;
+
+II - transição progressiva e planejada;
+
+III - acompanhamento técnico interprofissional;
+
+IV - articulação intersetorial e territorial;
+
+V - promoção da autonomia como processo educativo contínuo.
+
+#### CAPÍTULO III DA EXECUÇÃO DO SERVIÇO
+
+##### Seção I Da Forma de Execução
+
+**Art. 6º** O STAVA poderá ser executado diretamente pelo Município ou mediante parceria com entidade socioassistencial inscrita no Conselho Municipal de Assistência Social - CMAS.
+
+**Art. 7º** As unidades do STAVA deverão estar localizadas, preferencialmente, em áreas residenciais, com fácil acesso a serviços essenciais e às políticas públicas.
+
+##### Seção II Da Equipe Técnica
+
+**Art. 8º** A equipe mínima do STAVA será composta por:
+
+I - um coordenador, com carga horária mínima de 40 (quarenta) horas semanais;
+
+II - equipe técnica composta por um assistente social e um psicólogo, com carga horária mínima de 20 (vinte) horas semanais cada.
+
+##### Seção III Da Metodologia de Atendimento
+
+**Art. 9º** O atendimento no STAVA será fundamentado em metodologia participativa, assegurando ao jovem participação ativa no planejamento e na avaliação de seu percurso de transição.
+
+**Art. 10** Cada jovem atendido elaborará, com acompanhamento da equipe técnica, um Plano Individual de Desenvolvimento - PID, contendo metas de curto, médio e longo prazo, contemplando, no mínimo:
+
+I - escolarização e qualificação profissional;
+
+II - inserção no mundo do trabalho;
+
+III - saúde emocional e acompanhamento psicossocial;
+
+IV - educação financeira e organização da vida cotidiana;
+
+V - fortalecimento de vínculos comunitários e sociais; VI - planejamento do desligamento e da vida autônoma.
+
+**Art. 11** O STAVA ofertará moradia em ambiente semiassistido, em regime de república, com regras de convivência, rotinas compartilhadas e responsabilidades coletivas.
+
+**Art. 12** Após o desligamento do serviço, será assegurado acompanhamento pós- desligamento, por período definido no PID.
+
+##### Seção IV Da Transição entre Serviços
+
+**Art. 13** O processo de transição do Serviço de Acolhimento para Crianças e Adolescentes para o STAVA deverá ocorrer de forma gradativa, iniciando-se, preferencialmente, a partir dos 17 (dezessete) anos de idade.
+
+**Parágrafo único.** A transição deverá constar no Plano Individual de Atendimento - PIA, construído conjuntamente entre o adolescente, a equipe técnica do Serviço de Acolhimento Institucional e a equipe técnica do STAVA.
+
+#### CAPÍTULO IV DO AUXÍLIO FINANCEIRO
+
+**Art. 14** O Município poderá conceder auxílio financeiro temporário aos jovens atendidos no STAVA, destinado exclusivamente ao custeio de moradia e despesas essenciais.
+
+**§ 1º** O auxílio poderá corresponder a até 50% (cinquenta por cento) do salário mínimo, pelo período máximo de 18 (dezoito) meses, prorrogável uma única vez.
+
+**§ 2º** A concessão do auxílio dependerá da assinatura de termo de compromisso e do cumprimento do PID.
+
+#### CAPÍTULO V DAS DISPOSIÇÕES FINAIS
+
+**Art. 15** A coordenação e o monitoramento do STAVA caberão à Secretaria Municipal de Desenvolvimento Social.
+
+**Art. 16** As despesas decorrentes desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas, quando necessário.
+
+**Art. 17** Esta Lei entra em vigor na data de sua publicação. Divinópolis, 08 de setembro de 2026.
+
+(assinado eletronicamente) Janete Aparecida Silva Prefeita Municipal (assinado eletronicamente) Leandro Luiz Mendes Procurador-geral do Município

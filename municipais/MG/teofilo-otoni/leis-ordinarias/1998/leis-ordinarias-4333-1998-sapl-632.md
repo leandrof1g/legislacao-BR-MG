@@ -1,0 +1,44 @@
+---
+titulo: "Lei Ordinária nº 4333, de 28/05/1998"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4333"
+data: "1998-05-28"
+ementa: "\"AUTORIZA O EXECUTIVO MUNICIPAL A PROCEDER DOAÇÃO DO LOTE N° 02, DA QUADRA 2, RUA A NA VILA BETEL, À SRA. AMARA PEREIRA VIANNA.\" SANCIONADA EM 18/06/98"
+municipio: "Teófilo Otoni"
+uf: "MG"
+codigo_ibge: "3168606"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.teofilootoni.mg.leg.br/norma/632"
+fonte_texto: "https://sapl.teofilootoni.mg.leg.br/media/sapl/public/normajuridica/1998/632/632_texto_integral.html"
+sha256_fonte: "62bd5c6292581e24af4f1cf8fe8c1d6540bd8a0893c6ba8c82bf90793d6dfa17"
+baixado_em: "2026-10-23"
+---
+
+# Lei Ordinária nº 4333, de 28/05/1998
+
+Lei n° 4.333
+
+"Autoriza o Executivo Municipal a proceder doação do lote n° 02, da quadra 2, Rua A na Vila Betel, à Sra. Amara Pereira Vianna."
+
+A Câmara Municipal de Teófilo Otoni aprova:
+
+**Art. 1°** - Fica o Poder Executivo Municipal autorizado a doar à Sra. Amara Pereira Vianna, brasileira, Viúva, pensionista, residente a Rua Santos Camilo Coelho – Tv. 35 n° 37, Bairro Nossa Senhora dos Pobres, lote de terreno 200.00m2, situado na Rua A, lote 2, quadra 1, na Vila Betel.
+
+Art. 2°- O imóvel descrito no artigo anterior será utilizada pela Donatária para construção de sua casa própria.
+
+Art. 3°- As despesas decorrentes da execução desta lei, correrão por conta da Donatária.
+
+**Art. 4°** - O imóvel ora doado reverterá ao Patrimônio Público Municipal se não ultimada a construção no prazo de 02 (dois) anos, contados da data da publicação da presente lei.
+
+Parágrafo Único – A Donatária só poderá transferir ou alienar o imóvel ora doado como garantia junto às agências financeiras para fins de financiamento da construção do próprio imóvel.
+
+**Art. 5°** - Apresente lei vigorará na data de sua publicação desde que atendidas todas as disposições contidas na Lei 4.005/96, revogando-se as disposições em contrário.
+
+Câmara Municipal de Teófilo Otoni, 28 de maio de 1998.
+
+JORGE AMADO SANTOS MEDINA
+
+Presidente da Câmara
+
+Autoria: Executivo Municipal

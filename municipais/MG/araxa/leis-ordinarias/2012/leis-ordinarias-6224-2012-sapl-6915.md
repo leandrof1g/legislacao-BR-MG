@@ -1,0 +1,38 @@
+---
+titulo: "Lei Ordinária nº 6224, de 11/05/2012"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "6224"
+data: "2012-05-11"
+ementa: "DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA - RUA FAUSTO CÉSAR DE OLIVEIRA, A RUA G, DO LOTEAMENTO RESIDENCIAL PORTAL DO CAMBURI."
+municipio: "Araxá"
+uf: "MG"
+codigo_ibge: "3104007"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.araxa.mg.leg.br/norma/6915"
+fonte_texto: "https://sapl.araxa.mg.leg.br/media/sapl/public/normajuridica/2012/6915/6915_texto_integral.pdf"
+sha256_fonte: "01726f8a8229cdc6326d609e13dff932baaac630cc15920c96303042ddb8ec8c"
+baixado_em: "2026-10-23"
+---
+
+# Lei Ordinária nº 6224, de 11/05/2012
+
+CÂMARA MUNICIPAL DE ARAXÁ - ESTADO DE MINAS GERAIS
+
+LEI Nº 6.224 – DE 11 DE MAIO DE 2012
+
+Dispõe sobre denominação de Via Pública e dá outras providências.
+
+A CÂMARA MUNICIPAL DE ARAXÁ, ARAXÁ, por proposição da Vereadors Edna Castro, Castro, com a Graça de Deus aprova e eu, Prefeito, sanciono e promulgo a seguinte Lei:
+
+**Art. 1º.** Passa a denominar-se RUA FAUSTO CÉSAR DE OLIVEIRA,OLIVEIRA, a Rua G, do Loteamento Residencial Portal do Camburi, nesta cidade de Araxá.
+
+**Art. 2º.** O Senhor Prefeito mandará afixar placas denominativas em locais próprios.
+
+**Art. 3º.** Revogam-se as disposições em contrário, entrando esta Lei em vigor na data de sua publicação.
+
+DR. JEOVÁ MOREIRA DA COSTA Prefeito Municipal de Araxá
+
+JORDE DE BORBA LIMA Secretário Municipal de Planejamento e Gestão
+
+Pça.: Coronel Adolfo, n° 09 Centro, Cep 38183-085 Fone/Fax: (34)3662-3040 .

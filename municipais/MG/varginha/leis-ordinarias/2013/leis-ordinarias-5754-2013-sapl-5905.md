@@ -1,0 +1,46 @@
+---
+titulo: "Lei Ordinária nº 5754, de 17/09/2013"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "5754"
+data: "2013-09-17"
+ementa: "DISPÕE SOBRE DENOMINAÇÃO DE LOGRADOURO PÚBLICO."
+municipio: "Varginha"
+uf: "MG"
+codigo_ibge: "3170701"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.varginha.mg.leg.br/norma/5905"
+fonte_texto: "https://sapl.varginha.mg.leg.br/media/sapl/public/normajuridica/2013/5905/lei5754-2013.pdf"
+sha256_fonte: "e46c90ff3c62fd5d4c2d4b10122393363b81406438f99beef7e6069be7527d5d"
+baixado_em: "2026-10-23"
+---
+
+# Lei Ordinária nº 5754, de 17/09/2013
+
+r"\L (
+
+PREFEITURA DO MUNICÍPIO DE VARGINHA
+
+LEI N° 5.754
+
+DISPÕE SOBRE DENOMINAÇÃO DE LOGRADOURO PÚBLICO.
+
+O Povo do Município de Varginha, Estado de Minas Gerais, por seus representantes na Câmara Municipal, aprovou e eu, em seu nome, sanciono a seguinte Lei,
+
+Art. I° A atual Rua Um, localizada no Jardim Oriente, passa a denominar-se:
+
+RUA LAURA PEDREIRA BENETOLO
+
+**Art. 2°** Esta Lei entra em vigor na data de sua publicação.
+
+Mando, portanto, a todas as autoridades a quem o conhecimento e execução desta Lei pertencer, que a cumpram e a façam cumprir, tão inteiramente como nela se contém.
+
+Prefeitur do Município de Varginha, 17 de setembro de 2013; 130° da Er4no pação Político-Administrativa do Município.
+
+ANT'ONIO SILVA PREFEXTO MUNICIPAL
+
+MÁRIO ARI= LEANDRO RABELO ACAYABA DE REZENDE SECRETÁRIO MUNICIPAL DE SECRETÁRIO MUNICIPAL DE GOVERNO ADMINISTRAÇÃO
+
+CARLOS HONORIO ONI JÚNIOR SECRETÁRIO MUNICIPAL DE LANEJAMENTO URBANO
+
+\..

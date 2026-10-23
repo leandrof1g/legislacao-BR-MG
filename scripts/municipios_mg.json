@@ -1,0 +1,1455 @@
+{
+ "atualizado_em": "2026-10-23",
+ "municipios": {
+  "3100906": {
+   "carga_completa": false,
+   "nome": "Águas Formosas",
+   "normas_na_fonte": 400,
+   "pasta": "aguas-formosas",
+   "populacao": 18448,
+   "sapl": "sapl.aguasformosas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3101508": {
+   "carga_completa": false,
+   "nome": "Além Paraíba",
+   "normas_na_fonte": null,
+   "pasta": "alem-paraiba",
+   "populacao": 30717,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3101607": {
+   "carga_completa": false,
+   "nome": "Alfenas",
+   "normas_na_fonte": 573,
+   "pasta": "alfenas",
+   "populacao": 78970,
+   "sapl": "sapl.alfenas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3101706": {
+   "carga_completa": false,
+   "nome": "Almenara",
+   "normas_na_fonte": null,
+   "pasta": "almenara",
+   "populacao": 40364,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3101904": {
+   "carga_completa": false,
+   "nome": "Alpinópolis",
+   "normas_na_fonte": 147,
+   "pasta": "alpinopolis",
+   "populacao": 18300,
+   "sapl": "sapl.alpinopolis.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3102605": {
+   "carga_completa": false,
+   "nome": "Andradas",
+   "normas_na_fonte": 1001,
+   "pasta": "andradas",
+   "populacao": 40553,
+   "sapl": "sapl.andradas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3103405": {
+   "carga_completa": false,
+   "nome": "Araçuaí",
+   "normas_na_fonte": 651,
+   "pasta": "aracuai",
+   "populacao": 34297,
+   "sapl": "sapl.aracuai.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3103504": {
+   "carga_completa": true,
+   "nome": "Araguari",
+   "normas_na_fonte": 95,
+   "pasta": "araguari",
+   "populacao": 117808,
+   "sapl": "sapl.araguari.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3104007": {
+   "carga_completa": false,
+   "nome": "Araxá",
+   "normas_na_fonte": 9616,
+   "pasta": "araxa",
+   "populacao": 111691,
+   "sapl": "sapl.araxa.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3104205": {
+   "carga_completa": false,
+   "nome": "Arcos",
+   "normas_na_fonte": 4838,
+   "pasta": "arcos",
+   "populacao": 41416,
+   "sapl": "sapl.arcos.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3104502": {
+   "carga_completa": false,
+   "nome": "Arinos",
+   "normas_na_fonte": 5323,
+   "pasta": "arinos",
+   "populacao": 17272,
+   "sapl": "sapl.arinos.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3105400": {
+   "carga_completa": false,
+   "nome": "Barão de Cocais",
+   "normas_na_fonte": null,
+   "pasta": "barao-de-cocais",
+   "populacao": 30778,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3105608": {
+   "carga_completa": false,
+   "nome": "Barbacena",
+   "normas_na_fonte": null,
+   "pasta": "barbacena",
+   "populacao": 125317,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3106200": {
+   "carga_completa": false,
+   "nome": "Belo Horizonte",
+   "normas_na_fonte": null,
+   "pasta": "belo-horizonte",
+   "populacao": 2315560,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3106705": {
+   "carga_completa": false,
+   "nome": "Betim",
+   "normas_na_fonte": null,
+   "pasta": "betim",
+   "populacao": 411846,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3107109": {
+   "carga_completa": false,
+   "nome": "Boa Esperança",
+   "normas_na_fonte": null,
+   "pasta": "boa-esperanca",
+   "populacao": 39848,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3107307": {
+   "carga_completa": false,
+   "nome": "Bocaiúva",
+   "normas_na_fonte": 89,
+   "pasta": "bocaiuva",
+   "populacao": 48032,
+   "sapl": "sapl.bocaiuva.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3107406": {
+   "carga_completa": false,
+   "nome": "Bom Despacho",
+   "normas_na_fonte": 2956,
+   "pasta": "bom-despacho",
+   "populacao": 51737,
+   "sapl": "sapl.bomdespacho.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3108206": {
+   "carga_completa": false,
+   "nome": "Bonfinópolis de Minas",
+   "normas_na_fonte": 2173,
+   "pasta": "bonfinopolis-de-minas",
+   "populacao": 5528,
+   "sapl": "sapl.bonfinopolisdeminas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3108602": {
+   "carga_completa": false,
+   "nome": "Brasília de Minas",
+   "normas_na_fonte": null,
+   "pasta": "brasilia-de-minas",
+   "populacao": 32025,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3109006": {
+   "carga_completa": false,
+   "nome": "Brumadinho",
+   "normas_na_fonte": null,
+   "pasta": "brumadinho",
+   "populacao": 38915,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3109451": {
+   "carga_completa": false,
+   "nome": "Cabeceira Grande",
+   "normas_na_fonte": 1538,
+   "pasta": "cabeceira-grande",
+   "populacao": 6627,
+   "sapl": "sapl.cabeceiragrande.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3110004": {
+   "carga_completa": false,
+   "nome": "Caeté",
+   "normas_na_fonte": null,
+   "pasta": "caete",
+   "populacao": 38776,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3110707": {
+   "carga_completa": false,
+   "nome": "Cambuquira",
+   "normas_na_fonte": 153,
+   "pasta": "cambuquira",
+   "populacao": 12313,
+   "sapl": "sapl.cambuquira.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3111002": {
+   "carga_completa": false,
+   "nome": "Campestre",
+   "normas_na_fonte": 1779,
+   "pasta": "campestre",
+   "populacao": 20696,
+   "sapl": "sapl.campestre.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3111101": {
+   "carga_completa": false,
+   "nome": "Campina Verde",
+   "normas_na_fonte": 48,
+   "pasta": "campina-verde",
+   "populacao": 18011,
+   "sapl": "sapl.campinaverde.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3111200": {
+   "carga_completa": false,
+   "nome": "Campo Belo",
+   "normas_na_fonte": 0,
+   "pasta": "campo-belo",
+   "populacao": 52277,
+   "sapl": "sapl.campobelo.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3111804": {
+   "carga_completa": false,
+   "nome": "Canápolis",
+   "normas_na_fonte": 2975,
+   "pasta": "canapolis",
+   "populacao": 10608,
+   "sapl": "sapl.canapolis.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3111903": {
+   "carga_completa": false,
+   "nome": "Cana Verde",
+   "normas_na_fonte": 690,
+   "pasta": "cana-verde",
+   "populacao": 5272,
+   "sapl": "sapl.canaverde.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3112307": {
+   "carga_completa": false,
+   "nome": "Capelinha",
+   "normas_na_fonte": null,
+   "pasta": "capelinha",
+   "populacao": 39626,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3113305": {
+   "carga_completa": false,
+   "nome": "Carangola",
+   "normas_na_fonte": 1,
+   "pasta": "carangola",
+   "populacao": 31240,
+   "sapl": "sapl.carangola.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3113404": {
+   "carga_completa": false,
+   "nome": "Caratinga",
+   "normas_na_fonte": null,
+   "pasta": "caratinga",
+   "populacao": 87360,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3114006": {
+   "carga_completa": false,
+   "nome": "Carmo da Mata",
+   "normas_na_fonte": 30,
+   "pasta": "carmo-da-mata",
+   "populacao": 11019,
+   "sapl": "sapl.carmodamata.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3114550": {
+   "carga_completa": false,
+   "nome": "Carneirinho",
+   "normas_na_fonte": 9247,
+   "pasta": "carneirinho",
+   "populacao": 9422,
+   "sapl": "sapl.carneirinho.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3115300": {
+   "carga_completa": false,
+   "nome": "Cataguases",
+   "normas_na_fonte": 317,
+   "pasta": "cataguases",
+   "populacao": 66261,
+   "sapl": "sapl.cataguases.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3116407": {
+   "carga_completa": false,
+   "nome": "Claraval",
+   "normas_na_fonte": 1503,
+   "pasta": "claraval",
+   "populacao": 4658,
+   "sapl": "sapl.claraval.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3116605": {
+   "carga_completa": false,
+   "nome": "Cláudio",
+   "normas_na_fonte": 57,
+   "pasta": "claudio",
+   "populacao": 30159,
+   "sapl": "sapl.claudio.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3118007": {
+   "carga_completa": false,
+   "nome": "Congonhas",
+   "normas_na_fonte": 9346,
+   "pasta": "congonhas",
+   "populacao": 52890,
+   "sapl": "sapl.congonhas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3118304": {
+   "carga_completa": false,
+   "nome": "Conselheiro Lafaiete",
+   "normas_na_fonte": 8453,
+   "pasta": "conselheiro-lafaiete",
+   "populacao": 131621,
+   "sapl": "sapl.conselheirolafaiete.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3118601": {
+   "carga_completa": true,
+   "nome": "Contagem",
+   "normas_na_fonte": 3912,
+   "pasta": "contagem",
+   "populacao": 621863,
+   "sapl": "sapl.contagem.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3119401": {
+   "carga_completa": false,
+   "nome": "Coronel Fabriciano",
+   "normas_na_fonte": 4308,
+   "pasta": "coronel-fabriciano",
+   "populacao": 104736,
+   "sapl": "sapl.coronelfabriciano.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3120904": {
+   "carga_completa": false,
+   "nome": "Curvelo",
+   "normas_na_fonte": null,
+   "pasta": "curvelo",
+   "populacao": 80665,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3121100": {
+   "carga_completa": false,
+   "nome": "Delfim Moreira",
+   "normas_na_fonte": 2119,
+   "pasta": "delfim-moreira",
+   "populacao": 7952,
+   "sapl": "sapl.delfimmoreira.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3121605": {
+   "carga_completa": false,
+   "nome": "Diamantina",
+   "normas_na_fonte": null,
+   "pasta": "diamantina",
+   "populacao": 47702,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3122306": {
+   "carga_completa": false,
+   "nome": "Divinópolis",
+   "normas_na_fonte": 20790,
+   "pasta": "divinopolis",
+   "populacao": 231091,
+   "sapl": "sapl.divinopolis.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3122470": {
+   "carga_completa": false,
+   "nome": "Dom Bosco",
+   "normas_na_fonte": 594,
+   "pasta": "dom-bosco",
+   "populacao": 3697,
+   "sapl": "sapl.dombosco.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3123205": {
+   "carga_completa": false,
+   "nome": "Dores do Indaiá",
+   "normas_na_fonte": 2840,
+   "pasta": "dores-do-indaia",
+   "populacao": 12630,
+   "sapl": "sapl.doresdoindaia.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3123528": {
+   "carga_completa": false,
+   "nome": "Durandé",
+   "normas_na_fonte": 152,
+   "pasta": "durande",
+   "populacao": 7817,
+   "sapl": "sapl.durande.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3124104": {
+   "carga_completa": false,
+   "nome": "Esmeraldas",
+   "normas_na_fonte": 0,
+   "pasta": "esmeraldas",
+   "populacao": 85598,
+   "sapl": "sapl.esmeraldas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3124203": {
+   "carga_completa": false,
+   "nome": "Espera Feliz",
+   "normas_na_fonte": 2992,
+   "pasta": "espera-feliz",
+   "populacao": 24102,
+   "sapl": "sapl.esperafeliz.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3124302": {
+   "carga_completa": false,
+   "nome": "Espinosa",
+   "normas_na_fonte": null,
+   "pasta": "espinosa",
+   "populacao": 30443,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3125101": {
+   "carga_completa": false,
+   "nome": "Extrema",
+   "normas_na_fonte": null,
+   "pasta": "extrema",
+   "populacao": 53482,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3126109": {
+   "carga_completa": false,
+   "nome": "Formiga",
+   "normas_na_fonte": 6565,
+   "pasta": "formiga",
+   "populacao": 68248,
+   "sapl": "sapl.formiga.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3126208": {
+   "carga_completa": false,
+   "nome": "Formoso",
+   "normas_na_fonte": 772,
+   "pasta": "formoso",
+   "populacao": 7949,
+   "sapl": "sapl.formoso.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3127107": {
+   "carga_completa": false,
+   "nome": "Frutal",
+   "normas_na_fonte": 6211,
+   "pasta": "frutal",
+   "populacao": 58588,
+   "sapl": "sapl.frutal.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3127701": {
+   "carga_completa": false,
+   "nome": "Governador Valadares",
+   "normas_na_fonte": null,
+   "pasta": "governador-valadares",
+   "populacao": 257171,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3128006": {
+   "carga_completa": false,
+   "nome": "Guanhães",
+   "normas_na_fonte": null,
+   "pasta": "guanhaes",
+   "populacao": 32244,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3128709": {
+   "carga_completa": false,
+   "nome": "Guaxupé",
+   "normas_na_fonte": null,
+   "pasta": "guaxupe",
+   "populacao": 50911,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3129202": {
+   "carga_completa": false,
+   "nome": "Heliodora",
+   "normas_na_fonte": 2913,
+   "pasta": "heliodora",
+   "populacao": 6134,
+   "sapl": "sapl.heliodora.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3129806": {
+   "carga_completa": false,
+   "nome": "Ibirité",
+   "normas_na_fonte": null,
+   "pasta": "ibirite",
+   "populacao": 170537,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3130101": {
+   "carga_completa": false,
+   "nome": "Igarapé",
+   "normas_na_fonte": null,
+   "pasta": "igarape",
+   "populacao": 45847,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3131307": {
+   "carga_completa": false,
+   "nome": "Ipatinga",
+   "normas_na_fonte": null,
+   "pasta": "ipatinga",
+   "populacao": 227731,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3131703": {
+   "carga_completa": false,
+   "nome": "Itabira",
+   "normas_na_fonte": null,
+   "pasta": "itabira",
+   "populacao": 113343,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3131901": {
+   "carga_completa": false,
+   "nome": "Itabirito",
+   "normas_na_fonte": 5241,
+   "pasta": "itabirito",
+   "populacao": 53365,
+   "sapl": "sapl.itabirito.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3132404": {
+   "carga_completa": false,
+   "nome": "Itajubá",
+   "normas_na_fonte": null,
+   "pasta": "itajuba",
+   "populacao": 93073,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3132503": {
+   "carga_completa": false,
+   "nome": "Itamarandiba",
+   "normas_na_fonte": 11,
+   "pasta": "itamarandiba",
+   "populacao": 32948,
+   "sapl": "sapl.itamarandiba.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3133600": {
+   "carga_completa": false,
+   "nome": "Itapeva",
+   "normas_na_fonte": 1402,
+   "pasta": "itapeva",
+   "populacao": 12692,
+   "sapl": "sapl.itapeva.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3133709": {
+   "carga_completa": false,
+   "nome": "Itatiaiuçu",
+   "normas_na_fonte": 2502,
+   "pasta": "itatiaiucu",
+   "populacao": 12966,
+   "sapl": "sapl.itatiaiucu.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3133808": {
+   "carga_completa": false,
+   "nome": "Itaúna",
+   "normas_na_fonte": 7242,
+   "pasta": "itauna",
+   "populacao": 97669,
+   "sapl": "sapl.itauna.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3134202": {
+   "carga_completa": false,
+   "nome": "Ituiutaba",
+   "normas_na_fonte": null,
+   "pasta": "ituiutaba",
+   "populacao": 102217,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3134400": {
+   "carga_completa": false,
+   "nome": "Iturama",
+   "normas_na_fonte": 9498,
+   "pasta": "iturama",
+   "populacao": 38295,
+   "sapl": "sapl.iturama.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3134806": {
+   "carga_completa": false,
+   "nome": "Jacuí",
+   "normas_na_fonte": 526,
+   "pasta": "jacui",
+   "populacao": 7495,
+   "sapl": "sapl.jacui.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3135050": {
+   "carga_completa": false,
+   "nome": "Jaíba",
+   "normas_na_fonte": null,
+   "pasta": "jaiba",
+   "populacao": 37660,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3135100": {
+   "carga_completa": false,
+   "nome": "Janaúba",
+   "normas_na_fonte": null,
+   "pasta": "janauba",
+   "populacao": 70699,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3135209": {
+   "carga_completa": false,
+   "nome": "Januária",
+   "normas_na_fonte": 3696,
+   "pasta": "januaria",
+   "populacao": 65150,
+   "sapl": "sapl.januaria.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3136207": {
+   "carga_completa": false,
+   "nome": "João Monlevade",
+   "normas_na_fonte": 6,
+   "pasta": "joao-monlevade",
+   "populacao": 80187,
+   "sapl": "sapl.joaomonlevade.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3136306": {
+   "carga_completa": false,
+   "nome": "João Pinheiro",
+   "normas_na_fonte": 3784,
+   "pasta": "joao-pinheiro",
+   "populacao": 46801,
+   "sapl": "sapl.joaopinheiro.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3136652": {
+   "carga_completa": false,
+   "nome": "Juatuba",
+   "normas_na_fonte": null,
+   "pasta": "juatuba",
+   "populacao": 30716,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3136702": {
+   "carga_completa": false,
+   "nome": "Juiz de Fora",
+   "normas_na_fonte": null,
+   "pasta": "juiz-de-fora",
+   "populacao": 540756,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3137205": {
+   "carga_completa": false,
+   "nome": "Lagoa da Prata",
+   "normas_na_fonte": 6512,
+   "pasta": "lagoa-da-prata",
+   "populacao": 51412,
+   "sapl": "sapl.lagoadaprata.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3137601": {
+   "carga_completa": false,
+   "nome": "Lagoa Santa",
+   "normas_na_fonte": null,
+   "pasta": "lagoa-santa",
+   "populacao": 75145,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3138203": {
+   "carga_completa": false,
+   "nome": "Lavras",
+   "normas_na_fonte": 9265,
+   "pasta": "lavras",
+   "populacao": 104761,
+   "sapl": "sapl.lavras.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3138401": {
+   "carga_completa": false,
+   "nome": "Leopoldina",
+   "normas_na_fonte": null,
+   "pasta": "leopoldina",
+   "populacao": 51145,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3138625": {
+   "carga_completa": false,
+   "nome": "Limeira do Oeste",
+   "normas_na_fonte": 2849,
+   "pasta": "limeira-do-oeste",
+   "populacao": 8687,
+   "sapl": "sapl.limeiradooeste.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3138807": {
+   "carga_completa": false,
+   "nome": "Luz",
+   "normas_na_fonte": 594,
+   "pasta": "luz",
+   "populacao": 17875,
+   "sapl": "sapl.luz.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3139003": {
+   "carga_completa": false,
+   "nome": "Machado",
+   "normas_na_fonte": 0,
+   "pasta": "machado",
+   "populacao": 37684,
+   "sapl": "sapl.machado.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3139409": {
+   "carga_completa": false,
+   "nome": "Manhuaçu",
+   "normas_na_fonte": 7225,
+   "pasta": "manhuacu",
+   "populacao": 91886,
+   "sapl": "sapl.manhuacu.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3139508": {
+   "carga_completa": false,
+   "nome": "Manhumirim",
+   "normas_na_fonte": 3718,
+   "pasta": "manhumirim",
+   "populacao": 20613,
+   "sapl": "sapl.manhumirim.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3140001": {
+   "carga_completa": false,
+   "nome": "Mariana",
+   "normas_na_fonte": null,
+   "pasta": "mariana",
+   "populacao": 61387,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3140704": {
+   "carga_completa": false,
+   "nome": "Mateus Leme",
+   "normas_na_fonte": null,
+   "pasta": "mateus-leme",
+   "populacao": 37841,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3141108": {
+   "carga_completa": false,
+   "nome": "Matozinhos",
+   "normas_na_fonte": 3,
+   "pasta": "matozinhos",
+   "populacao": 37618,
+   "sapl": "sapl.matozinhos.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3143104": {
+   "carga_completa": false,
+   "nome": "Monte Carmelo",
+   "normas_na_fonte": null,
+   "pasta": "monte-carmelo",
+   "populacao": 47692,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3143203": {
+   "carga_completa": false,
+   "nome": "Monte Santo de Minas",
+   "normas_na_fonte": 2987,
+   "pasta": "monte-santo-de-minas",
+   "populacao": 20890,
+   "sapl": "sapl.montesantodeminas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3143302": {
+   "carga_completa": true,
+   "nome": "Montes Claros",
+   "normas_na_fonte": 24,
+   "pasta": "montes-claros",
+   "populacao": 414240,
+   "sapl": "sapl.montesclaros.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3143906": {
+   "carga_completa": false,
+   "nome": "Muriaé",
+   "normas_na_fonte": 8688,
+   "pasta": "muriae",
+   "populacao": 104108,
+   "sapl": "sapl.muriae.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3144300": {
+   "carga_completa": false,
+   "nome": "Nanuque",
+   "normas_na_fonte": null,
+   "pasta": "nanuque",
+   "populacao": 35038,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3144409": {
+   "carga_completa": false,
+   "nome": "Natércia",
+   "normas_na_fonte": 2059,
+   "pasta": "natercia",
+   "populacao": 4691,
+   "sapl": "sapl.natercia.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3144805": {
+   "carga_completa": true,
+   "nome": "Nova Lima",
+   "normas_na_fonte": 26,
+   "pasta": "nova-lima",
+   "populacao": 111697,
+   "sapl": "sapl.novalima.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3145208": {
+   "carga_completa": true,
+   "nome": "Nova Serrana",
+   "normas_na_fonte": 1,
+   "pasta": "nova-serrana",
+   "populacao": 105552,
+   "sapl": "sapl.novaserrana.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3145505": {
+   "carga_completa": false,
+   "nome": "Olímpio Noronha",
+   "normas_na_fonte": 266,
+   "pasta": "olimpio-noronha",
+   "populacao": 2555,
+   "sapl": "sapl.olimpionoronha.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3145604": {
+   "carga_completa": false,
+   "nome": "Oliveira",
+   "normas_na_fonte": null,
+   "pasta": "oliveira",
+   "populacao": 39262,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3145901": {
+   "carga_completa": false,
+   "nome": "Ouro Branco",
+   "normas_na_fonte": null,
+   "pasta": "ouro-branco",
+   "populacao": 38724,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3146008": {
+   "carga_completa": false,
+   "nome": "Ouro Fino",
+   "normas_na_fonte": 4749,
+   "pasta": "ouro-fino",
+   "populacao": 32094,
+   "sapl": "sapl.ourofino.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3146107": {
+   "carga_completa": false,
+   "nome": "Ouro Preto",
+   "normas_na_fonte": null,
+   "pasta": "ouro-preto",
+   "populacao": 74821,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3147006": {
+   "carga_completa": false,
+   "nome": "Paracatu",
+   "normas_na_fonte": null,
+   "pasta": "paracatu",
+   "populacao": 94023,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3147105": {
+   "carga_completa": false,
+   "nome": "Pará de Minas",
+   "normas_na_fonte": 3896,
+   "pasta": "para-de-minas",
+   "populacao": 97139,
+   "sapl": "sapl.parademinas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3147907": {
+   "carga_completa": false,
+   "nome": "Passos",
+   "normas_na_fonte": null,
+   "pasta": "passos",
+   "populacao": 111939,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3148004": {
+   "carga_completa": false,
+   "nome": "Patos de Minas",
+   "normas_na_fonte": 13804,
+   "pasta": "patos-de-minas",
+   "populacao": 159235,
+   "sapl": "sapl.patosdeminas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3148103": {
+   "carga_completa": false,
+   "nome": "Patrocínio",
+   "normas_na_fonte": 3134,
+   "pasta": "patrocinio",
+   "populacao": 89826,
+   "sapl": "sapl.patrocinio.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3149101": {
+   "carga_completa": false,
+   "nome": "Pedralva",
+   "normas_na_fonte": 1580,
+   "pasta": "pedralva",
+   "populacao": 10760,
+   "sapl": "sapl.pedralva.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3149150": {
+   "carga_completa": false,
+   "nome": "Pedras de Maria da Cruz",
+   "normas_na_fonte": 162,
+   "pasta": "pedras-de-maria-da-cruz",
+   "populacao": 10433,
+   "sapl": "sapl.pedrasdemariadacruz.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3149309": {
+   "carga_completa": false,
+   "nome": "Pedro Leopoldo",
+   "normas_na_fonte": 6567,
+   "pasta": "pedro-leopoldo",
+   "populacao": 62580,
+   "sapl": "sapl.pedroleopoldo.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3149507": {
+   "carga_completa": false,
+   "nome": "Pequeri",
+   "normas_na_fonte": 262,
+   "pasta": "pequeri",
+   "populacao": 3351,
+   "sapl": "sapl.pequeri.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3149804": {
+   "carga_completa": false,
+   "nome": "Perdizes",
+   "normas_na_fonte": 458,
+   "pasta": "perdizes",
+   "populacao": 17151,
+   "sapl": "sapl.perdizes.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3151206": {
+   "carga_completa": false,
+   "nome": "Pirapora",
+   "normas_na_fonte": 0,
+   "pasta": "pirapora",
+   "populacao": 55606,
+   "sapl": "sapl.pirapora.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3151503": {
+   "carga_completa": false,
+   "nome": "Piumhi",
+   "normas_na_fonte": 4728,
+   "pasta": "piumhi",
+   "populacao": 36062,
+   "sapl": "sapl.piumhi.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3151800": {
+   "carga_completa": false,
+   "nome": "Poços de Caldas",
+   "normas_na_fonte": null,
+   "pasta": "pocos-de-caldas",
+   "populacao": 163742,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3152006": {
+   "carga_completa": false,
+   "nome": "Pompéu",
+   "normas_na_fonte": 0,
+   "pasta": "pompeu",
+   "populacao": 31047,
+   "sapl": "sapl.pompeu.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3152105": {
+   "carga_completa": false,
+   "nome": "Ponte Nova",
+   "normas_na_fonte": 9107,
+   "pasta": "ponte-nova",
+   "populacao": 57776,
+   "sapl": "sapl.pontenova.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3152204": {
+   "carga_completa": false,
+   "nome": "Porteirinha",
+   "normas_na_fonte": null,
+   "pasta": "porteirinha",
+   "populacao": 37438,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3152501": {
+   "carga_completa": false,
+   "nome": "Pouso Alegre",
+   "normas_na_fonte": null,
+   "pasta": "pouso-alegre",
+   "populacao": 152217,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3154606": {
+   "carga_completa": false,
+   "nome": "Ribeirão das Neves",
+   "normas_na_fonte": null,
+   "pasta": "ribeirao-das-neves",
+   "populacao": 329794,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3155603": {
+   "carga_completa": false,
+   "nome": "Rio Pardo de Minas",
+   "normas_na_fonte": 2507,
+   "pasta": "rio-pardo-de-minas",
+   "populacao": 28271,
+   "sapl": "sapl.riopardodeminas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3155801": {
+   "carga_completa": false,
+   "nome": "Rio Pomba",
+   "normas_na_fonte": 2185,
+   "pasta": "rio-pomba",
+   "populacao": 17443,
+   "sapl": "sapl.riopomba.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3156700": {
+   "carga_completa": true,
+   "nome": "Sabará",
+   "normas_na_fonte": 0,
+   "pasta": "sabara",
+   "populacao": 129380,
+   "sapl": "sapl.sabara.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3157005": {
+   "carga_completa": false,
+   "nome": "Salinas",
+   "normas_na_fonte": null,
+   "pasta": "salinas",
+   "populacao": 40178,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3157203": {
+   "carga_completa": false,
+   "nome": "Santa Bárbara",
+   "normas_na_fonte": 85,
+   "pasta": "santa-barbara",
+   "populacao": 30466,
+   "sapl": "sapl.santabarbara.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3157807": {
+   "carga_completa": false,
+   "nome": "Santa Luzia",
+   "normas_na_fonte": null,
+   "pasta": "santa-luzia",
+   "populacao": 219132,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3158805": {
+   "carga_completa": false,
+   "nome": "Santana do Jacaré",
+   "normas_na_fonte": 491,
+   "pasta": "santana-do-jacare",
+   "populacao": 4214,
+   "sapl": "sapl.santanadojacare.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3158953": {
+   "carga_completa": false,
+   "nome": "Santana do Paraíso",
+   "normas_na_fonte": 1874,
+   "pasta": "santana-do-paraiso",
+   "populacao": 44800,
+   "sapl": "sapl.santanadoparaiso.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3159605": {
+   "carga_completa": false,
+   "nome": "Santa Rita do Sapucaí",
+   "normas_na_fonte": null,
+   "pasta": "santa-rita-do-sapucai",
+   "populacao": 40635,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3160702": {
+   "carga_completa": false,
+   "nome": "Santos Dumont",
+   "normas_na_fonte": null,
+   "pasta": "santos-dumont",
+   "populacao": 42406,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3161106": {
+   "carga_completa": false,
+   "nome": "São Francisco",
+   "normas_na_fonte": 3159,
+   "pasta": "sao-francisco",
+   "populacao": 52762,
+   "sapl": "sapl.saofrancisco.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3162104": {
+   "carga_completa": false,
+   "nome": "São Gotardo",
+   "normas_na_fonte": 2097,
+   "pasta": "sao-gotardo",
+   "populacao": 40910,
+   "sapl": "sapl.saogotardo.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3162500": {
+   "carga_completa": false,
+   "nome": "São João del Rei",
+   "normas_na_fonte": null,
+   "pasta": "sao-joao-del-rei",
+   "populacao": 90225,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3162922": {
+   "carga_completa": false,
+   "nome": "São Joaquim de Bicas",
+   "normas_na_fonte": null,
+   "pasta": "sao-joaquim-de-bicas",
+   "populacao": 34348,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3163706": {
+   "carga_completa": false,
+   "nome": "São Lourenço",
+   "normas_na_fonte": null,
+   "pasta": "sao-lourenco",
+   "populacao": 44798,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3164407": {
+   "carga_completa": false,
+   "nome": "São Sebastião da Bela Vista",
+   "normas_na_fonte": 1896,
+   "pasta": "sao-sebastiao-da-bela-vista",
+   "populacao": 6387,
+   "sapl": "sapl.saosebastiaodabelavista.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3164704": {
+   "carga_completa": false,
+   "nome": "São Sebastião do Paraíso",
+   "normas_na_fonte": null,
+   "pasta": "sao-sebastiao-do-paraiso",
+   "populacao": 71796,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3165537": {
+   "carga_completa": false,
+   "nome": "Sarzedo",
+   "normas_na_fonte": 1738,
+   "pasta": "sarzedo",
+   "populacao": 36844,
+   "sapl": "sapl.sarzedo.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3165560": {
+   "carga_completa": false,
+   "nome": "Sem-Peixe",
+   "normas_na_fonte": 112,
+   "pasta": "sem-peixe",
+   "populacao": 2433,
+   "sapl": "sapl.sempeixe.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3165800": {
+   "carga_completa": false,
+   "nome": "Senador José Bento",
+   "normas_na_fonte": 212,
+   "pasta": "senador-jose-bento",
+   "populacao": 2068,
+   "sapl": "sapl.senadorjosebento.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3167202": {
+   "carga_completa": false,
+   "nome": "Sete Lagoas",
+   "normas_na_fonte": 11173,
+   "pasta": "sete-lagoas",
+   "populacao": 227397,
+   "sapl": "sapl.setelagoas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3168002": {
+   "carga_completa": false,
+   "nome": "Taiobeiras",
+   "normas_na_fonte": null,
+   "pasta": "taiobeiras",
+   "populacao": 33050,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3168101": {
+   "carga_completa": false,
+   "nome": "Tapira",
+   "normas_na_fonte": 176,
+   "pasta": "tapira",
+   "populacao": 4118,
+   "sapl": "sapl.tapira.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3168606": {
+   "carga_completa": false,
+   "nome": "Teófilo Otoni",
+   "normas_na_fonte": 9570,
+   "pasta": "teofilo-otoni",
+   "populacao": 137418,
+   "sapl": "sapl.teofilootoni.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3168705": {
+   "carga_completa": false,
+   "nome": "Timóteo",
+   "normas_na_fonte": 8588,
+   "pasta": "timoteo",
+   "populacao": 81579,
+   "sapl": "sapl.timoteo.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3169000": {
+   "carga_completa": false,
+   "nome": "Tocantins",
+   "normas_na_fonte": 1874,
+   "pasta": "tocantins",
+   "populacao": 16185,
+   "sapl": "sapl.tocantins.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3169059": {
+   "carga_completa": false,
+   "nome": "Tocos do Moji",
+   "normas_na_fonte": 1517,
+   "pasta": "tocos-do-moji",
+   "populacao": 3826,
+   "sapl": "sapl.tocosdomoji.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3169307": {
+   "carga_completa": false,
+   "nome": "Três Corações",
+   "normas_na_fonte": 0,
+   "pasta": "tres-coracoes",
+   "populacao": 75485,
+   "sapl": "sapl.trescoracoes.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3169406": {
+   "carga_completa": false,
+   "nome": "Três Pontas",
+   "normas_na_fonte": null,
+   "pasta": "tres-pontas",
+   "populacao": 55255,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3169901": {
+   "carga_completa": false,
+   "nome": "Ubá",
+   "normas_na_fonte": 5831,
+   "pasta": "uba",
+   "populacao": 103365,
+   "sapl": "sapl.uba.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3170107": {
+   "carga_completa": false,
+   "nome": "Uberaba",
+   "normas_na_fonte": null,
+   "pasta": "uberaba",
+   "populacao": 337836,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3170206": {
+   "carga_completa": false,
+   "nome": "Uberlândia",
+   "normas_na_fonte": null,
+   "pasta": "uberlandia",
+   "populacao": 713224,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3170404": {
+   "carga_completa": false,
+   "nome": "Unaí",
+   "normas_na_fonte": 11359,
+   "pasta": "unai",
+   "populacao": 86619,
+   "sapl": "sapl.unai.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3170479": {
+   "carga_completa": false,
+   "nome": "Uruana de Minas",
+   "normas_na_fonte": 949,
+   "pasta": "uruana-de-minas",
+   "populacao": 3282,
+   "sapl": "sapl.uruanademinas.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3170701": {
+   "carga_completa": false,
+   "nome": "Varginha",
+   "normas_na_fonte": 6771,
+   "pasta": "varginha",
+   "populacao": 136467,
+   "sapl": "sapl.varginha.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3170800": {
+   "carga_completa": false,
+   "nome": "Várzea da Palma",
+   "normas_na_fonte": null,
+   "pasta": "varzea-da-palma",
+   "populacao": 33744,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3171204": {
+   "carga_completa": false,
+   "nome": "Vespasiano",
+   "normas_na_fonte": null,
+   "pasta": "vespasiano",
+   "populacao": 129246,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3171303": {
+   "carga_completa": false,
+   "nome": "Viçosa",
+   "normas_na_fonte": null,
+   "pasta": "vicosa",
+   "populacao": 76430,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3172004": {
+   "carga_completa": false,
+   "nome": "Visconde do Rio Branco",
+   "normas_na_fonte": 1502,
+   "pasta": "visconde-do-rio-branco",
+   "populacao": 39160,
+   "sapl": "sapl.viscondedoriobranco.mg.leg.br",
+   "sapl_manual": false
+  }
+ },
+ "pop_minima": 30000
+}

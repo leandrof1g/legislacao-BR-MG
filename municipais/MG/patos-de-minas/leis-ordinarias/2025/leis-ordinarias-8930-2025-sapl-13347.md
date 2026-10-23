@@ -1,0 +1,96 @@
+---
+titulo: "Lei Ordinária nº 8930, de 14/07/2025"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8930"
+data: "2025-07-14"
+ementa: "AUTORIZA O EXECUTIVO MUNICIPAL A PROMOVER A DESAFETAÇÃO DOS IMÓVEIS QUE ESPECIFICA."
+municipio: "Patos de Minas"
+uf: "MG"
+codigo_ibge: "3148004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.patosdeminas.mg.leg.br/norma/13347"
+fonte_texto: "https://sapl.patosdeminas.mg.leg.br/media/sapl/public/normajuridica/2025/13347/lei8930_dom_1394_-_16-07-2025.pdf"
+sha256_fonte: "9a281ee92f190e90dc807c91e6d506ae4a1b304022afe1e5a21b49a24002db5a"
+baixado_em: "2026-10-23"
+---
+
+# Lei Ordinária nº 8930, de 14/07/2025
+
+LEI Nº 8.930, DE 14 DE JULHO DE 2025.
+
+Autoriza o Executivo Municipal a promover a desafetação dos imóveis que especifica.
+
+O Povo do Município de Patos de Minas, Estado de Minas Gerais, por seus representantes, aprovou, e, eu em seu nome, sanciono a seguinte Lei:
+
+**Art. 1º** O Executivo Municipal fica autorizado a promover a desafetação de imóveis de propriedade do Município de Patos de Minas, inscrito no CNPJ sob n° 18.602.011/0001-07, com as seguintes caracterizações:
+
+I – um terreno destinado à área de equipamento comunitário, situado na Avenida Tenente Coronel Altino Augusto Ferreira (antiga Avenida 05, conforme Lei n° 6.607, de 11/10/2012), Bairro Chácaras Caiçaras (antigo Bairro Bela Vista, conforme Lei n° 8.823, de 28/03/2025), nesta cidade; constituído pelo Lote 01 da Quadra 01, com a área de 8.136,05 m² (oito mil cento e trinta e seis metros quadrados e cinco decímetros quadrados); inscrição cadastral nº 01.042.0661.000.000; medindo 187,60 metros de frente para a Avenida Tenente Coronel Altino Augusto Ferreira, 18,01 metros + 79,05 metros pelo lado direito confrontando com os Lotes 07 e 11 da Quadra 01, 10,80 metros pelo lado esquerdo confrontando com o Lote 02 da Quadra 01, 74,42 metros + 78,74 metros + 36,89 metros em linhas quebradas pelo fundo confrontando com o Lote 02 da Quadra 01; devidamente registrado no Serviço de Registro de Imóveis competente sob o nº R-4/51.463;
+
+II – um terreno destinado à área de equipamento comunitário, situado na Rua Alexandre Dias Ferreira (antiga Rua 07, conforme Lei n° 6.957, de 20/08/2014), Bairro Chácaras Caiçaras (antigo Bairro Alto dos Caiçaras, conforme Lei n° 8.823, de 28/03/2025), nesta cidade; constituído pelo Lote 07 da Quadra 01, com a área de 4.523,46 m² (quatro mil quinhentos e vinte e três metros quadrados e quarenta e seis decímetros quadrados); inscrição cadastral nº 01.0142.0704.168.000; medindo 17,14 metros + 15,99 metros + 6,67 metros + 6,58 metros + 8,98 metros em linhas quebradas de frente para a Rua Alexandre Dias Ferreira, 29,94 metros + 33,05 metros pelo lado direito confrontando com o Lote 19 da Quadra 01 e terreno sem inscrição cadastral, 30,00 metros + 46,91 metros + 78,96 metros em linhas quebradas pelo lado esquerdo confrontando com os Lotes 01, 08, 09, 10 e 11 da Quadra 01, 23,05 metros + 9,96 metros + 3,52 metros + 71,41 metros em linhas quebradas pelo fundo confrontando com área de preservação permanente; devidamente registrado no Serviço de Registro de Imóveis competente sob o nº R-1/65.629;
+
+III – um terreno destinado à praça, situado na Rua Tião Targino (antiga Rua 02, conforme Lei n° 5.893, de 24/07/2007), Bairro Alto dos Caiçaras, nesta cidade; constituído pelo Lote 20 da Quadra 03, com a área de 3.129,60 m² (três mil cento e vinte e nove metros quadrados e sessenta decímetros quadrados); inscrição cadastral nº 09.038.0068.000.000; medindo 5,12 metros + 45,00 metros + 18,43 metros em linhas quebradas de frente para a Rua Tião Targino, 43,50 metros pelo lado direito confrontando com o Lote 19 da Quadra 03, 67,12 metros pelo lado esquerdo confrontando com o Condomínio Queiroz de Melo, 68,55 metros pelo fundo confrontando com o Condomínio Alphabella; devidamente registrado no Serviço de Registro de Imóveis competente sob o nº R-12/3.719;
+
+IV – um terreno destinado a equipamento comunitário, situado na Avenida José dos Reis Rosa (antiga Avenida C, conforme Lei n° 7.523, de 16/10/2017), esquina com a Rua Luzia Moreira Valentim e Rua João Carneiro de Abreu (antiga Rua 08, conforme Lei n° 7.661, de 31/08/2018), Bairro Campos Elíseos, nesta cidade; constituído pelo Lote 02 da Quadra 11, com a área de 4.244,62 m² (quatro mil duzentos e quarenta e quatro metros quadrados e sessenta e dois decímetros quadrados); inscrição cadastral nº 37.015.0283.000.000; medindo 2,55 metros + 46,40 metros + 2,55 metros de frente para a Avenida José dos Reis Rosa, 83,16 metros pelo lado direito confrontando com a Rua Luzia Moreira Valentim, 83,16 metros pelo lado esquerdo confrontando com a Rua João Carneiro de Abreu e 50,00 metros pelo fundo confrontando com o Lote 01 da Quadra 11; devidamente registrado no 1º Ofício de Registro de Imóveis da Comarca de Patos de Minas sob o nº R-1/67.100;
+
+V – um terreno destinado a equipamento comunitário, situado na Rua Aristeu Caetano de Andrade (Antiga Rua 1, conforme Lei nº 5.550, de 12/01/2005), Bairro Laranjeiras (conforme Lei nº 7.408, de 30/11/2016), nesta cidade; constituído pelo Lote 13 da Quadra 10, com a área de 328,13 m² (trezentos e vinte e oito metros quadrados e treze decímetros quadrados); inscrição cadastral nº 41.023.0182.000.000; medindo 14,52 metros de frente para a Rua Aristeu Caetano de Andrade, 22,47 metros pelo lado direito confrontando com o Lote 14 da Quadra 10, 29,74 metros pelo lado esquerdo confrontando com os Lotes 10 e 12 da Quadra 10 e 12,57 metros pelo fundo confrontando com os Lotes 09 e 15 da Quadra 10; devidamente registrado no 1º Ofício de Registro de Imóveis da Comarca de Patos de Minas sob nº R-1/48.728;
+
+VI – um terreno destinado a equipamento comunitário, situado na Rua Aristeu Caetano de Andrade (Antiga Rua 1, conforme Lei nº 5.550, de 12/01/2005), Bairro Laranjeiras (conforme Lei nº 7.408, de 30/11/2016), nesta cidade; constituído pelo Lote 14 da Quadra 10, com a área de 272,12 m² (duzentos e setenta e dois metros quadrados e doze decímetros quadrados); inscrição cadastral nº 41.023.0199.000.000; medindo 17,33 metros de frente para a Rua Aristeu Caetano de Andrade, 13,79 metros pelo lado direito confrontando com a Rua Osvando Amaro Teixeira, 22,47 metros pelo lado esquerdo confrontando com o Lote 13 e
+
+15,00 metros pelo fundo confrontando com o Lote 15; devidamente registrado no 1º Ofício de Registro de Imóveis da Comarca de Patos de Minas sob o nº R-1/48.728;
+
+VII – um terreno destinado a equipamento comunitário, situado na Rua Vicentina Rodrigues (antiga Rua 02, conforme Lei nº 7.765, de 11/06/2019), esquina com a Rua Elias José da Costa, Bairro Jardim Panorâmico, nesta cidade; constituído pelo Lote 01 da Quadra 07, com a área de 1.699,76 m² (um mil seiscentos e noventa e nove metros quadrados e setenta e seis decímetros quadrados); inscrição cadastral nº 42.043.0261.000.000; medindo 81,00 metros de frente para a Rua Vicentina Rodrigues, 18,34 metros pelo lado direito confrontando com o Lote 02 da Quadra 07, 22 metros pelo lado esquerdo confrontando com a Rua Elias José da Costa e 67,50 metros + 7,00 metros + 8,00 metros pelo fundo confrontando com os Lotes 0160 e 0795 da Quadra 043; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 50.665;
+
+VIII – um terreno destinado a equipamento comunitário, situado na Rua José Olímpio Ferreira, esquina com a Rua 1, Bairro Residencial Sorriso, nesta cidade; constituído pelo Lote 20 da Quadra 11, com área de 6.004,77 m² (seis mil e quatro metros quadrados e setenta e sete decímetros quadrados); inscrição cadastral nº45.095.0388.000.000; medindo 103,03 + 2,52 metros de frente para a Rua José Olímpio Ferreira, 54,48 metros pelo flanco direito confrontando com o Lote 21 da Quadra 11, 52,30 metros pelo flanco esquerdo confrontando com a Rua 1, 126,75 metros pelo fundo confrontando com os Lotes 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18 e 19 todos da Quadra 11; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 104.140;
+
+IX – um terreno destinado a equipamento comunitário, situado na confluência das Ruas Agostinho Rodrigues Galvão (antiga Rua 18, conforme Lei n° 7.267, 25/02/16), Rua Pastor José Carlos Silva (antiga Rua 19, conforme a Lei n° 7.280, de 15/03/2016) e Rua José Antero de Carvalho Sobrinho (antiga Rua 20, conforme a Lei n° 7.116, de 20/05/2016), Bairro Afonso Queiroz, nesta cidade; constituído pelo Lote 16 da Quadra 34, com área de 1.186,02 m² (hum mil cento e oitenta e seis metros quadrados e dois decímetros quadrados); inscrição cadastral nº 56.050.0264.000.000; medindo 41,49 + 2,81 + 2,25 metros de frente para a Rua Agostinho Rodrigues Galvão, 30,80 metros pelo flanco direito confrontando com a Rua Pastor José Carlos Silva, 19,95 metros pelo flanco esquerdo confrontando com a Rua José Antero de Carvalho Sobrinho, 22,00 + 21,00 + 22,00 metros pelo fundo confrontando com os Lotes 14, 15 e 17 da Quadra 34; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 98,344;
+
+X – um terreno destinado a equipamento comunitário, situado na confluência das Ruas Marcelos Simão Basílio (antiga Rua 1, conforme Lei n° 5.047, de 02/07/2001) Rua Domingos Mattos – Negrinho Borracheiro (antiga Rua 3, conforme a Lei n° 5.247, de 08/01/2003) e Rua Dr. Antônio Vieira Caixeta (antiga Rua 2, conforme a Lei n° 5.048, de
+
+02/07/2001), Bairro Eldorado, constituído pelo Lote 06 da Quadra 03, com área de 2.175,00 m² (dois mil cento e setenta e cinco metros quadrados); inscrição cadastral nº 07.063.0104.000.000; medindo 47,00 metros de frente para a Rua Marcelos Simão Basílio, 50,00 metros pelo flanco direito confrontando com a Rua Domingos Mattos – Negrinho Borracheiro, 25,00 + 12,00 + 25,00 metros pelo flanco esquerdo confrontando com os Lotes 05 e 07 da Quadra 03, 40,00 metros pelo fundo confrontando com a Rua Dr. Antônio Vieira Caixeta; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 6/2.712;
+
+XI – um terreno destinado a equipamento comunitário, situado na Avenida Fausto José Luciano (antiga Avenida 2, conforme Lei n° 7.762, de 11/06/2019), Bairro Morada da Serra, nesta cidade; constituído pelo Lote 01 da Quadra 24, com área de 9.757,28 m² (nove mil e setecentos e cinquenta e sete metros quadrados e vinte e oito decímetros quadrados); inscrição cadastral nº 57.024.0259.000.000; medindo 52,00 metros de frente pela Avenida Fausto José Luciano (antiga Avenida 2, conforme Lei n° 7.762, de 11/06/2019), 187,64 metros pelo flanco direito confrontando com área não cadastrada, 187,64 metros pelo flanco esquerdo confrontando com os Lotes 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17 e 18 da Quadra 24, 52,00 metros pelo fundo confrontando com a Rua Amâncio do Deco (antigo Rua 23, de acordo com a Lei n° 6.815, de 01/10/22013; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 2/64.717;
+
+XII – um terreno destinado a equipamento comunitário, situado na Rua Luiz de Santa Terezinha, Bairro Morada da Serra, nesta cidade; constituído pelo Lote 15 da Quadra 26, com área de 4.076,74 m² (quatro mil e setenta e seis metros quadrados e setenta e quatro decímetros quadrados); inscrição cadastral nº 57.026.0152.000.000; medindo 4,71 + 34,00 + 4,71 metros de frente em concordância confrontando com a Rua Luiz de Santa Terezinha, 99,00 metros pelo flanco direito confrontando com a Rua José Geraldo da Mota, 99,00 metros pelo flanco esquerdo confrontando com a Rua Francisca Carolina de Jesus, 40,00 metros pelo fundo confrontando com o loteamento Jardim Europa; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 5.564;
+
+XIII – um terreno destinado a equipamento comunitário, situado na Avenida 1, Bairro Copacabana, nesta cidade; constituído pelo Lote 24 da Quadra 17, com área de 1.075,04 m² (hum mil e setenta e cinco metros quadrados e quatro decímetros quadrados); inscrição cadastral nº 13.106.0628.000.000; medindo 8,45 + 29,93 metros de frente com a Avenida 1, 5,36 + 18,74 metros pelo flanco direito confrontando com a Rua Elvira Costa de Resende, 33,17 metros pelo flanco esquerdo confrontando com o Lote 23 da Quadra 17, 25,95 + 10,68 + 11,23 + 5,21 metros pelo fundo confrontando com os lotes 25, 03 e 04 da Quadra 17; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 112.697;
+
+XIV – um terreno destinado a equipamento comunitário, situado na Rua WB, Bairro Alto da Serra, nesta cidade; constituído pelo Lote 01 da Quadra 02, com área de 1.599,00 m² (hum mil e quinhentos e noventa e nove metros quadrados); inscrição cadastral nº 58.046.0530.000.000; medindo 69,05 + 2,76 metros de frente com a Rua WB, 20,10 + 0,64 metros pelo flanco direito confrontando com a Avenida Wilson Gomes Coelho, 22,46 metros pelo flanco esquerdo confrontando com o Lote 02 da Quadra 02, 71,70 metros pelo fundo confrontando com os lotes 01, 02, 03, 04, 05, 06 e 07 da Quadra A1; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 10.812;
+
+XV – um terreno destinado a equipamento comunitário, situado na Rua Marcondes José de Faria, Bairro Valparaíso (de acordo com perímetro definido pela Lei Municipal n° 4.628, de 21/09/98), nesta cidade; situado na Quadra 14, com área de 303,31 m² (trezentos e três metros quadrados e trinta e um decímetros quadrados); inscrição cadastral nº 02.054.0048.000.000; medindo 33,35 metros de frente com a Rua Marcondes José de Faria, 18,19 metros pelo flanco esquerdo confrontando com o Lote 02 da Quadra 02, 37,99 metros pelo fundo confrontando com o Lote 11 da Quadra R2; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 3/35.044;
+
+XVI – um terreno destinado a equipamento comunitário, situado na confluência da Avenida D e das Ruas 59 e 60, Bairro Planalto, nesta cidade; constituído pelo Lote 01 da Quadra 71, com área de 6.437,52 m² (seis mil e quatrocentos e trinta e sete metros quadrados e cinquenta e dois decímetros quadrados); inscrição cadastral nº 60.039.0080.000.000; medindo 2,55 + 67,70 + 9,42 metros de frente com a Avenida D, 75,95 metros pelo flanco direito confrontando com a Rua 59, 124,75 metros pelo flanco esquerdo confrontando com a Rua 60, 5,81 + 61,95 + 7,14 metros pelo fundo confrontando com ao Rua 59; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 4.984;
+
+XVII – um terreno destinado a equipamento comunitário, situado na Rua Francisco Sousa de Oliveira “Neném Marmota” (antiga Rua 14, conforme a Lei nº 8.772, de 09/12/24) Bairro Planalto, nesta cidade; constituído pelo Lote 01 da Quadra 51, com área de 11.718,36 m² (onze mil e setecentos e dezoito metros quadrados e trinta e seis decímetros quadrados); inscrição cadastral nº 36.071.0239.000.000; medindo 40,33 metros de frente com a Rua Francisco Sousa de Oliveira “Neném Marmota” (antiga Rua 14, conforme a Lei nº 8.772, de 09/12/24), 36,22 + 19,77 + 49,35 + 57,64 metros pelo flanco direito confrontando com o Lote 0340 da Quadra 051 e com Lote 0684 da Quadra 050, 144,00 + 2,55 metros pelo flanco esquerdo confrontando com a Rua João Luiz da Mota, 111,62 metros pelo fundo confrontando com a Rua 64 e com os Lotes 0833 e 0998 da Quadra 51; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 81.551;
+
+XVIII – um terreno destinado a equipamento comunitário, situado na Rua Alírio Acácio de Oliveira (antiga Rua 01, conforme a Lei nº 5.267, de 10/03/03) Bairro Eldorado, nesta cidade; situado na Quadra 01, com área de 7.353,44 m² (sete mil e trezentos e cinquenta e três metros quadrados e quarenta e quatro decímetros quadrados); inscrição cadastral nº 32.034.0621.000.000; medindo 191,00 metros de frente com a Rua Alírio Acácio de Oliveira (antiga Rua 01, conforme a Lei nº 5.267, de 10/03/03) e para o Lote 01 da Quadra 01, 17,00 metros pelo flanco direito confrontando com o Lote 06 da Quadra 09, 85,70 metros pelo flanco esquerdo confrontando com área sem inscrição cadastral, 144,10 metros pelo fundo confrontando com o Lote 10 da Quadra 01; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 1/44.155;
+
+XIX – um terreno destinado a equipamento comunitário, situado na Rua José Cyrino da Silva, Bairro Alto dos Caiçaras, nesta cidade; constituído pelo Lote 01 da Quadra 05, com área de 2.030,63 m² (dois mil e trinta metros quadrados e sessenta e três decímetros quadrados); inscrição cadastral nº 09.001.0332.000.000; medindo 5,61 + 53,72 metros de frente com a Rua José Cyrino da Silva, 14,56 + 18,91 + 5,93 metros pelo flanco direito confrontando com a Rua Major Gote, 23,12 + 5,43 metros pelo flanco esquerdo confrontando com a Rua Topázio, 71,90 metros pelo fundo confrontando com os Lotes 0010 e 0304 da Quadra 01; devidamente registrado no Serviço de Registro de Imóveis competente sob a Matrícula nº 9.052.
+
+**Art. 2º** A desafetação de que trata a presente Lei tem por finalidade alterar a caracterização do imóvel, possibilitando sua alienação, permuta, dação em pagamento e/ou doação, mediante prévia autorização legislativa e observância dos demais requisitos previstos na legislação vigente.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Patos de Minas, 14 de julho de 2025, 137º ano da República e 157º ano do Município.
+
+Luís Eduardo Falcão Ferreira Prefeito Municipal
+
+7 páginas - Datas e horá rios baseados em Brasília, Brasil Sincronizado com o NTP.br e Observatório Nacional (ON) Certiﬁcado de assinaturas gerado em 14 de July de 2025, 15:56:39
+
+Lei8930 pdf Código do documento fd36f59c-d108-42c6-b7a6-aﬀ7fd24e3c0
+
+Assinaturas LUÍS EDUARDO FALCÃO FERREIRA documentos.gabinete@patosdeminas.mg.gov.br Assinou
+
+Eventos do documento
+
+14 Jul 2025, 12:34:18 Documento fd36f59c-d108-42c6-b7a6-aﬀ7fd24e3c0 criado por ADVOCACIA-GERAL DO MUNICÍPIO - PROCURADORIA (b992d250-b612-4bcb-b518-c62e9d26ecfc). Email:procuradoria@patosdeminas.mg.gov.br. - DATE\_ATOM: 2025-07-14T12:34:18-03:00
+
+14 Jul 2025, 12:34:45 Assinaturas iniciadas por ADVOCACIA-GERAL DO MUNICÍPIO - PROCURADORIA (b992d250-b612-4bcb-b518- c62e9d26ecfc). Email: procuradoria@patosdeminas.mg.gov.br. - DATE\_ATOM: 2025-07-14T12:34:45-03:00
+
+14 Jul 2025, 15:16:48 LUÍS EDUARDO FALCÃO FERREIRA Assinou (6ed65cfe-cd52-4bc0-a294-4b4038d8a7e9) - Email: documentos.gabinete@patosdeminas.mg.gov.br - IP: 138.0.66.22 (138-0-66-22-static.onnettelecom.com.br porta: 13622) - Geolocalização: -18.589067 -46.5114581 - Documento de identiﬁcação informado: 056.351.466-35 - DATE\_ATOM: 2025-07-14T15:16:48-03:00
+
+Hash do documento original (SHA256):a58bc583f0eaf70c6ﬀf6e6b6a94036ac7c9e670a871cfc0307cf42cb2b96d8d (SHA512):667e09f6a478142da82abb794fb5c513a42e9032352efd9ed84cc199d716c36fac3a032469017672793804f63d9f27d4e8e3f0c0dd1215f334f244999bb98362
+
+Esse log pertence única e exclusivamente aos documentos de HASH acima
+
+Esse documento está assinado e certiﬁcado pela D4Sign Integridade certiﬁcada no padrão ICP-BRASIL Assinaturas eletrônicas e físicas têm igual validade legal, conforme MP 2.200-2/2001 e Lei 14.063/2020.

@@ -1,0 +1,44 @@
+---
+titulo: "Lei Ordinária nº 6735, de 27/08/2020"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "6735"
+data: "2020-08-27"
+ementa: "DISPÕE SOBRE DENOMINAÇAO DE LOGRADOURO PÚBLICO."
+municipio: "Varginha"
+uf: "MG"
+codigo_ibge: "3170701"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.varginha.mg.leg.br/norma/1183"
+fonte_texto: "https://sapl.varginha.mg.leg.br/media/sapl/public/normajuridica/2020/1183/lei6735-2020.pdf"
+sha256_fonte: "b442c0b24a466862ec8fd0b9fd9576046aa8ff98c85d899482d2cf342838a958"
+baixado_em: "2026-10-23"
+---
+
+# Lei Ordinária nº 6735, de 27/08/2020
+
+1 Á'
+
+PREFEITURA DO MUNICÍPIO DE VARGINHA
+
+LEI N' 6.735, de 27 de agosto de 2020.
+
+DISPÕE SOBRE DENOMINAÇAO DE LOGRADOURO PÚBLICO.
+
+O Povo do -\_.:unicipio de Vargi-lha, Estado de Minas Gerais, por seus representantes na '",:âmra Municipal, aprovou e eu, em seu nome, sanciono a seguinte Lei,
+
+**Art. 10** A atual Rua "03", localizada no bairro Reserva Vila Paiva, passará a denominar-se:
+
+RUA "RENATA =IA FERREIRA"
+
+**Art. 20** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Mando, portanto, a todas as autoridades a quem o conhecimento e execução desta Lei pertencer, que a cumpram e a façam cumprir, tão inteiramente como nela se contém.
+
+Prefeitura do Município de Varginha, 27 de agosto de 2020; 137° da Emancipação Político- Administrativa do Município.
+
+VERDI U Ô MELO PREFEITO MUNICIPAL
+
+MIRIAN LED AGUIAR OLGADO CARLOS HONCIRIO ÔT ONI JUNIOR SEC TAREIA MUNICIPAL DE SECRETÁRIO MUNICIPAL DE ADM NISTRAÇÃO, INTERINA GOVERNO
+
+RONAINI-41 L" e LIMA JÚNIOR SECRETÁRIO MUNICIPAL DE PLANEJAMENTO URBANO, INTER=

@@ -1,0 +1,48 @@
+---
+titulo: "Lei Ordinária nº 6406, de 24/01/2018"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "6406"
+data: "2018-01-24"
+ementa: "DISPÕE SOBRE A REVISÃO ANUAL DOS VENCIMENTOS DOS SERVIDORES DA CÂMARA MUNICIPAL DE VARGINHA."
+municipio: "Varginha"
+uf: "MG"
+codigo_ibge: "3170701"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.varginha.mg.leg.br/norma/854"
+fonte_texto: "https://sapl.varginha.mg.leg.br/media/sapl/public/normajuridica/2018/854/lei6406-2018.pdf"
+sha256_fonte: "6dc6c64f1750b5098ebb9d155e623b0ad75a77a84f0952bd229d8e474747e8dc"
+baixado_em: "2026-10-23"
+---
+
+# Lei Ordinária nº 6406, de 24/01/2018
+
+-"\
+
+LEI N° 6.406
+
+"DISPÕE SOBRE A REVISÃO ANUAL DOS VENCIMENTOS DOS SERVIDORES DA CÂMARA MUNICIPAL DE VARGINHA".
+
+O Pov❑ do Município de Varginha, Estado de Minas Gerais, por seus representantes na Câmara Municipal, aprovou e eu, em seu nome, sanciono a seguinte Lei,
+
+**Art. 1°** Os vencimentos de todos os servidores efetivos e comissionados da Câmara Municipal de Varginha, por força desta Lei ficam reajustados em 2,95% (dois vírgula noventa e cinco por cento), incidente sobre os seus atuais níveis de vencimento.
+
+**Art. 22** O reajuste dos vencimentos de que trata ❑ artigo 1°, constitui-se em revisão anual da remuneração, como prescreve ❑ inciso X, do artigo 37, da Constituição Federal e o artigo 93 da Lei Orgânica d❑ Município.
+
+**Art. 32** As despesas decorrentes da presente lei correrão à conta de dotação orçamentária própria da Câmara Municipal.
+
+**Art. 49** Esta Lei entra em vigor na data de sua publicação, prevalecencp seus efeitos a 1° de janeiro do corrente ano.
+
+Lei re 6.406
+
+Mando, portanto, a todas as autoridades a quem o conhecimento e execução desta Lei pertencer, que a cumpram e a façam cumprir, tão inteiramente como nela se contém.
+
+Prefeitura do Município de Varginha, 24 de janeiro de 2018; 1357\ da Emancipação Político- Administrativa do Município.
+
+L
+
+ANTÕNSILVA PREFEIT MUNICIPAL lr
+
+LUIZ FERNANDO ALFREDO CARLOS HONÓRIO OTTONI JÚNIOR SECRETÁRIO MUNICIPAL DE SECRETÁRIO MUNICIPAL DE ADMINISTRAÇÃO GOVERNO
+
+Lei n° 6.406

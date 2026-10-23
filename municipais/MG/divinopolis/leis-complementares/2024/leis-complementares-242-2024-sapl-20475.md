@@ -1,0 +1,114 @@
+---
+titulo: "Lei Complementar nº 242, de 13/11/2024"
+tipo: "Lei Complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "242"
+data: "2024-11-13"
+ementa: "Dispõe sobre o Fundo Municipal de Habitação de Interesse Social – FMHIS e o respectivo Conselho Gestor."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/20475"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20475/lei_complementar_no_242_-_2024.pdf"
+sha256_fonte: "3d5a93691555ba261ae873b1124794d016fb73a8896a1116fa5a6e1ad8eea22e"
+baixado_em: "2026-10-23"
+---
+
+# Lei Complementar nº 242, de 13/11/2024
+
+LEI COMPLEMENTAR Nº 242, DE 13 NOVEMBRO DE 2024.
+
+Dispõe sobre a criação do Fundo Municipal de Habitação de Interesse Social - FMHIS e o respectivo Conselho Gestor.
+
+O Povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito Municipal, em seu nome, sanciono a seguinte Lei Complementar:
+
+#### CAPÍTULO I DO FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL
+
+**Art. 1º** Fica criado o Fundo Municipal de Habitação de Interesse Social - FMHIS, de natureza contábil, que tem como objetivo centralizar e gerenciar recursos orçamentários para os programas destinados a implementar políticas habitacionais de interesse social direcionadas à população de menor renda.
+
+**Art. 2º** O FMHIS é constituído por:
+
+I - dotações do Orçamento Geral do Município, classificadas na função de habitação;
+
+II - outros fundos ou programas que vierem a ser incorporados ao FMHIS;
+
+III - recursos provenientes de empréstimos externos e internos para programas de habitação;
+
+IV - contribuições e doações de pessoas físicas ou jurídicas, entidades e organismos de cooperação nacionais ou internacionais;
+
+V - receitas operacionais e patrimoniais de operações realizadas com recursos do FMHIS;
+
+VI - outros recursos que lhe vierem a ser destinados.
+
+**Art. 3º** As aplicações dos recursos do FMHIS serão destinadas a ações vinculadas aos programas de habitação de interesse social que contemplem:
+
+I - aquisição, construção, conclusão, melhoria, reforma e arrendamento de unidades habitacionais em áreas urbanas e rurais;
+
+II - produção de lotes urbanizados para fins habitacionais;
+
+III - serviços de assistência técnica e jurídica para famílias de baixa renda e em vulnerabilidade social e que possuam um único imóvel, para a regularização fundiária de áreas caracterizadas de interesse social;
+
+IV - aquisição de materiais para construção, ampliação e reforma de moradias;
+
+V - recuperação ou produção de imóveis em áreas encortiçadas ou deterioradas, centrais ou periféricas, para fins habitacionais de interesse social;
+
+VI - na realização de reformas e melhoramento de unidades habitacionais de interesse social com objetivo de garantir habitabilidade, salubridade e acessibilidade;
+
+VII - custeio de estudos técnicos e diagnósticos voltados às questões habitacionais no Município;
+
+VIII - outros programas e intervenções na forma aprovada pelo conselho gestor do FHIS.
+
+**Parágrafo único.** Será admitida a aquisição de terrenos vinculada à implantação de projetos habitacionais.
+
+#### CAPÍTULO II DO CONSELHO GESTOR DO FMHIS
+
+**Art. 4º** A aplicação dos recursos de que trata o art. 2º submeter-se-á ao Conselho Gestor de Fundo Municipal de Habitação de Interesse Social, de caráter deliberativo, consultivo e de assessoramento.
+
+**Art. 5º** O Conselho Gestor do FMHIS será composto por quatro membros titulares, com seus respectivos suplentes, respeitada a paridade de instância de controle social e a Lei Federal 11.124/05 (SNHIS), tendo como garantia o princípio democrático de escolha de seus representantes e a proporção de pelo menos ¼ (um quarto) das vagas destinado a representantes de movimentos populares.
+
+**§ 1º** O Conselho Gestor será composto por 2 (dois) representantes governamentais, nomeados pelo Chefe do Poder Executivo e outros 2 (dois) representantes não governamentais, com vínculo a entidades públicas e/ou privadas e de segmentos da sociedade ligados à área de habitação, e de movimentos populares.
+
+**§ 2º** Competirá à Secretaria Municipal a que se vincular a pasta da Política Municipal de Habitação de Interesse Social, proporcionar ao Conselho Gestor os meios necessários ao exercício de suas competências.
+
+**Art. 6º** Compete ao Conselho Gestor do Fundo Municipal de Habitação de Interesse Social:
+
+I - estabelecer diretrizes e fixar critérios para a priorização de linhas de ação, alocação de recursos do FMHIS e atendimento dos beneficiários dos programas habitacionais, observado o disposto nesta Lei Complementar, na Política e no Plano Municipal de Habitação;
+
+II - propor e aprovar orçamentos e planos de aplicação e metas anuais e plurianuais dos recursos do FMHIS;
+
+III - fixar critérios para a priorização de linhas de ações; IV - deliberar sobre as contas do FMHIS;
+
+V - dirimir dúvidas quanto à aplicação das normas regulamentares, aplicáveis ao FMHIS, nas matérias de sua competência;
+
+VI - elaborar e aprovar seu regimento interno;
+
+VII - estabelecer critérios e condições de enquadramento aos grupos familiares a serem beneficiados com recursos do FMHIS, após análise e estudo técnico da realidade social do município, com observância da Lei Federal 11.124/05.
+
+**§ 1º** As diretrizes e critérios previstos no inciso I do caput deverão observar ainda as normas emanadas do Conselho Gestor do Fundo Nacional de Habitação de Interesse Social, de que trata a Lei Federal nº. 11.124/05, nos casos em que o FMHIS vier a receber recursos federais.
+
+**§ 2º** O Conselho Gestor do FHIS promoverá ampla publicidade das formas e critérios de acesso aos programas, das modalidades de acesso à moradia, das metas anuais de atendimento habitacional, dos recursos previstos e aplicados, identificados pelas fontes de origem, das áreas objeto de intervenção, dos números e valores dos benefícios e dos financiamentos e subsídios concedidos, de modo a permitir o acompanhamento e fiscalização pela sociedade.
+
+**§ 3º** O Conselho Gestor do FHIS promoverá audiências públicas e conferências, representativas dos segmentos sociais existentes, para debater e avaliar critérios de alocação de recursos e programas habitacionais existentes.
+
+#### CAPÍTULO III DISPOSIÇÕES FINAIS
+
+**Art. 7º** Esta lei complementar será implementada em consonância com a Política Nacional de Habitação e com o Sistema Nacional de Habitação de Interesse Social.
+
+**Art. 8º** Esta lei complementar entrará em vigor na data da sua publicação.
+
+**Art. 9º** Fica revogada a Lei Complementar nº 063, de 02 de junho de 2000. Divinópolis, 13 de novembro de 2024.
+
+(Assinado digitalmente) Gleidson Gontijo de Azevedo Prefeito Municipal
+
+(Assinado digitalmente) Leandro Luiz Mendes Procurador-geral do Município
+
+Data de criação do documento: 14/11/2024 às 13:28:57
+
+Assinantes
+
+Veracidade do documento
+
+Documento assinado digitalmente. Verifique a veracidade utilizando o QR Code ao lado ou acesse o site verificador-assinaturas.plataforma.betha.cloud e insira o código abaixo:
+
+MEL NEV M7V L26

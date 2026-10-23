@@ -1,0 +1,38 @@
+---
+titulo: "Lei Ordinária nº 6155, de 01/03/2012"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "6155"
+data: "2012-03-01"
+ementa: "DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA - RUA MARIA JOSÉ FERES, A RUA TRINTA E SEIS DO LOTEAMENTO RESIDENCIAL MAX NEUMANN II"
+municipio: "Araxá"
+uf: "MG"
+codigo_ibge: "3104007"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.araxa.mg.leg.br/norma/6849"
+fonte_texto: "https://sapl.araxa.mg.leg.br/media/sapl/public/normajuridica/2012/6849/6849_texto_integral.pdf"
+sha256_fonte: "70f7900f2a3419defb6487720e6b0ced33cba8f451c533a6e395bc725a29a419"
+baixado_em: "2026-10-23"
+---
+
+# Lei Ordinária nº 6155, de 01/03/2012
+
+CÂMARA MUNICIPAL DE ARAXÁ - ESTADO DE MINAS GERAIS
+
+LEI Nº 6.155 – DE 01 DE MARÇO DE 2012
+
+Dispõe sobre denominação de Via Pública.
+
+A CÂMARA MUNICIPAL DE ARAXÁ, ARAXÁ, por iniciativa da Vereadora Edna Castro, Castro, com a Graça de Deus aprova e eu, Prefeito, sanciono e promulgo a seguinte Lei:
+
+**Art. 1º.** Passa a denominar-se RUA MARIA JOSÉ FERES, FERES, a Rua Trinta e Seis do Loteamento Residencial Max Neumann II, nesta cidade Araxá.
+
+**Art. 2º.** O Senhor Prefeito mandará afixar placas denominativas em locais próprios.
+
+**Art. 3º.** Revogadas as disposições em contrário, esta sta Lei entra em vigor na data de sua publicação.
+
+DR. JEOVÁ MOREIRA DA COSTA Prefeito Municipal de Araxá
+
+JORGE DE BORBA LIMA Secretário Municipal de Planejamento e Gestão
+
+Pça.: Coronel Adolfo, n° 09 Centro, Cep 38183-085 Fone/Fax: (34)3662-3040 .

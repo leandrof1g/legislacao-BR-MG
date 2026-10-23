@@ -1,0 +1,86 @@
+---
+titulo: "Portaria Presidência nº 2, de 05/03/2012"
+tipo: "Portaria Presidência"
+tipo_na_fonte: "Portaria Presidência"
+numero: "2"
+data: "2012-03-05"
+ementa: "FICAM NOMEADOS PARA COMPOR AS COMISSÕES PERMANENTES DA CÂMARA MUNICIPAL DE CONTAGEM NAS SESSÕES LEGISLATIVAS DE 2012, OBEDECIDOS PRECEITOS REGIMENTAIS E OS ACORDOS DAS LIDERANÇAS POLÍTICAS INSTALADAS NESTA CASA."
+municipio: "Contagem"
+uf: "MG"
+codigo_ibge: "3118601"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.contagem.mg.leg.br/norma/557"
+fonte_texto: "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2012/557/557_texto_integral.pdf"
+sha256_fonte: "9dff14a7837853e07e11e11865e7a434737bce540034d71b87fce0970db47257"
+baixado_em: "2026-10-23"
+---
+
+# Portaria Presidência nº 2, de 05/03/2012
+
+PRESIDÊNCIA DA CÂMARA MUNICIPAL CONTAGEM
+
+PORTARIA N.o 002/2012
+
+O PRESIDENTE da CÂMARA MUNICIPAL DE CONTAGEM, no uso de suas atribuições regimentais, especialmente aquelas previstas no artigo 47, inciso IV, alínea “a” e no artigo 88, observado o artigo 91, todos do Regimento Interno vigente,
+
+RESOLVE:
+
+**Art.1o** - Ficam nomeados para compor as COMISSÕES PERMANENTES da CÂMARA MUNICIPAL DE CONTAGEM nas Sessões legislativas de 2012, obedecidos preceitos regimentais e os acordos das lideranças políticas instaladas nesta Casa, os seguintes Edis:
+
+COMISSÃO DE LEGISLAÇÃO, JUSTICA E REDAÇÃO FINAL
+
+TITULARES PRESIDENTE RICARDO ROCHA DE FARIA - PV
+
+VICE-PRESIDENTE ALEX CHIODI - PSB
+
+RELATOR SILVIO BRAZ DA SILVA “PASTOR SILVA” - PRB
+
+VICE — PRESIDENTE ROGÉRIO BRAZ DE ALMEIDA - PHS
+
+COMISSÃO DE ADMINISTRAÇÃO E SERVIÇOS PÚBLICOS
+
+TITULARES PRESIDENTE ARNALDO DE OLIVEIRA - PTB
+
+SUPLENTES PRESIDENTE ADENIR JOSE BRAVO - PTRTB
+
+VICE — PRESIDENTE ROGÉRIO BRAZ DE ALMEIDA - PHS
+
+COMISSÃO DE FINANÇAS, ORÇAMENTO E TOMADA DE CONTAS
+
+TITULARES PRESIDENTE RAVILSON DE ALMEIDA LOPES FILHO - PP
+
+VICE-PRESIDENTE IVAYR NUNES SOLAHEIRO - PDT
+
+RELATOR ADENIR JOSE BRAVO - PRTB
+
+SUPLENTES PRESIDENTE ACÁCIO DE MACÊDO MATOS - PSD
+
+VICE — PRESIDENTE SILVIO BRAZ DA SILVA “PASTOR SILVA” — PRB
+
+RELATOR WILLIAN VIEIRA BATISTA - DEM
+
+COMISSÃO DE DIREITOS HUMANOS E ASSISTÊNCIA SOCIAL
+
+TITULARES PRESIDENTE ALEX CHIODI - PSB
+
+SUPLENTES PRESIDENTE RAVILSON DE ALMEIDA LOPES FILHO - PP
+
+VICE — PRESIDENTE SILVIO BRAZ DA SILVA “PASTOR SILVA” — PRB
+
+RELATOR GIL ANTÔNIO DINIZ - PMDB
+
+COMISSÃO DE MEIO AMBIENTE, POLÍTICA URBANA RURAL E HABITAÇÃO
+
+TITULARES PRESIDENTE GIL ANTÔNIO DINIZ - PMDB
+
+VICE-PRESIDENTE ROGÉRIO BRAZ DE ALMEIDA - PHS
+
+VICE — PRESIDENTE IVAYR NUNES SOALHEIRO - PDT
+
+**Art.2o** - Esta Portaria entra em vigor nesta data revogam-se as disposições contrárias e em especial a Portaria n.o 009/2011.
+
+REGISTRE-SE, PUBLIQUE-SE E CUMPRA-SE.
+
+Palácio 1o de janeiro, aos 5 de março de 2012.
+
+Prof. Irineu Inácio da Silva -Presidente-

@@ -1,0 +1,48 @@
+---
+titulo: "Decreto Legislativo nº 1541, de 25/11/2024"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "1541"
+data: "2024-11-25"
+ementa: "CONCEDE O DIPLOMA DE MÉRITO ESTUDANTIL “PROFESSOR RENÊ DE DEUS VIEIRA” À ESTUDANTE ELEN CRISTINA SOARES."
+municipio: "Patos de Minas"
+uf: "MG"
+codigo_ibge: "3148004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.patosdeminas.mg.leg.br/norma/12966"
+fonte_texto: "https://sapl.patosdeminas.mg.leg.br/media/sapl/public/normajuridica/2024/12966/1541_diploma_de_merito_estudantil_elen_cristina_soares.pdf"
+sha256_fonte: "152f4f33684ecc18132194b685d0aa666263f5feddceff22b99e6e8daa40c0ed"
+baixado_em: "2026-10-23"
+---
+
+# Decreto Legislativo nº 1541, de 25/11/2024
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE PATOS DE MINAS
+
+Rua José de Santana, 470, Centro, Patos de Minas/MG CEP: 38.700-052 Tel.: (34) 3821-8455 E-mail: camarapatosQcamarapatos.mg.gov.br - http://www.camarapatos.mg.gov.br
+
+DECRETO LEGISLATIVO Nº 1541, DE 25 DE NOVEMBRO DE 2024
+
+Concede o Diploma de Mérito Estudantil “Professor Renê de Deus Vieira” à estudante Elen Cristina Soares.
+
+A Câmara Municipal de Patos de Minas decreta e eu. em seu nome. promulgo o seguinte decreto legislativo:
+
+**Art. 1º** Fica concedido à estudante Elen Cristina Soares o Diploma de Mérito Estudantil “Professor Renê de Deus Vieira”.
+
+**Art. 2º** A estudante homenageada se destaca pelo bom desempenho escolar e/ou envolvimento em atividades culturais, esportivas, sociais e políticas.
+
+**Art. 3º** A entrega do respectivo diploma far-se-á em sessão especial. a ser determinada pela Mesa Diretora da Câmara Municipal. em data a ser acertada de comum acordo com a estudante homenageada.
+
+Ar, 4º Este decreto legislativo entra em vigor na data de sua publicação.
+
+N A
+
+ie novembro de 2024.
+
+Câmara Municipal de Patós de Minas. 25
+
+SE , io / “qa Gladston tel. da Silva Presidente da Câmara Municipal
+
+e PROJETO DE DECRETO LEGISLATIVO Nº 1548/24, DE AUTORIA DO VEREADOR NIVALDO TAVARES DOS SANTOS,

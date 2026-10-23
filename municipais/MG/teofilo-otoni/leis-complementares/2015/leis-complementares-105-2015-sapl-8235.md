@@ -1,0 +1,398 @@
+---
+titulo: "Lei Complementar nº 105, de 18/08/2015"
+tipo: "Lei Complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "105"
+data: "2015-08-18"
+ementa: "INSTITUI O PROGRAMA DE RECUPERAÇÃO FISCAL - REFIS 2015, NO ÂMBITO DO MUNICÍPIO DE TEÓFILO OTONI - MG, DESTINADO A PROMOVER A REGULARIZAÇÃO DE CRÉDITOS DA FAZENDA PÚBLICAS MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS. MODIFICADA PELA LC 111/2015"
+municipio: "Teófilo Otoni"
+uf: "MG"
+codigo_ibge: "3168606"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.teofilootoni.mg.leg.br/norma/8235"
+fonte_texto: "https://sapl.teofilootoni.mg.leg.br/media/sapl/public/normajuridica/2015/8235/8235_texto_integral.html"
+sha256_fonte: "9d3dff013305d78b3329f15cb3c6712fced0c11742136fecd027520a24d6fc7a"
+baixado_em: "2026-10-23"
+---
+
+# Lei Complementar nº 105, de 18/08/2015
+
+**Lei Complementar nº 105**
+
+*Institui o Programa de Recuperação Fiscal – REFIS 2015, no âmbito do Município de Teófilo Otoni-MG, destinado a promover a regularização de créditos da Fazenda Pública Municipal e dá outras providências*
+
+A Câmara Municipal de Teófilo Otoni aprova:
+
+**Art. 1º.** Fica instituído, no âmbito do Município de Teófilo Otoni – Estado de Minas Gerais, o PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015, destinado a promover a regularização de créditos da Fazenda Pública Municipal, decorrentes de débitos fiscais de pessoas físicas ou jurídicas, relativos a tributos municipais, cujo fato gerador tenha ocorrido até 31 de Dezembro de 2014, constituídos ou não, inscritos ou não em dívida ativa, ajuizados ou a ajuizar, com a exigibilidade suspensa ou não, inclusive os decorrentes de falta de recolhimento do imposto declarado ou retido.
+
+**Art. 2º.** A administração do PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 será desempenhada pela Secretaria Municipal de Fazenda, a quem compete implementar os procedimentos necessários à execução do programa, observado o disposto no decreto regulamentador desta Lei Complementar.
+
+**Art. 3º.** O ingresso no PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 dar-se-á por opção do contribuinte ou responsável, pessoa física ou jurídica, a qual fará jus ao regime especial de consolidação e parcelamento dos débitos de tributos municipais incluídos no Programa.
+
+**§ 1º.** O ingresso no PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 implica na inclusão obrigatória da totalidade dos débitos vencidos até 31 de Dezembro de 2014, em nome da pessoa física ou jurídica, inclusive os não constituídos, exceto aqueles demandados judicialmente e com exigibilidade suspensa e que, por opção do contribuinte ou responsável, venham a permanecer nessa situação.
+
+**§ 2º.** Os débitos ainda não constituídos deverão ser confessados, de forma irretratável e irrevogável.
+
+**§ 3º.** Na hipótese de crédito com exigibilidade suspensa por força de decisão judicial, a inclusão no PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015, dos respectivos débitos fica condicionada ao encerramento do feito por desistência expressa e irrevogável da respectiva ação judicial, bem assim à renúncia do direito, sobre os mesmos débitos, sobre o qual se funda a ação.
+
+**§ 4º.** Requerida a desistência da ação judicial, com renúncia ao direito sobre que se funda, os eventuais depósitos judiciais efetuados deverão ser convertidos em renda, permitida inclusão no PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 de eventual saldo devedor.
+
+**Art. 4º.** O PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 abrangerá todos os débitos lançados ou denunciados espontaneamente pelo contribuinte ou responsável, inclusive os acréscimos legais relativos à multa, juros e atualização monetária e demais encargos previstos na legislação vigente à época da ocorrência dos fatos geradores, os decorrentes de obrigações acessórias, os parcelamentos em curso relativos às parcelas vincendas e os débitos inscritos em dívida ativa, mesmo que em cobrança judicial.
+
+**§ 1º.** Este programa não gera crédito para contribuintes ou responsáveis que se mantiveram em dia com suas obrigações fiscais.
+
+**§ 2º.** Os débitos relativos ao Imposto sobre Transmissão de Bens Imóveis – ITBI, não serão alcançados por este programa.
+
+**Art. 5º.** A opção pelo PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 poderá ser formalizada até o dia 20 de dezembro de 2015.
+
+**Parágrafo único.** O prazo tratado no caput deste artigo poderá ser prorrogado, uma única vez, por decreto do Executivo, justificadas a oportunidade e conveniência do ato, ad referendum da Câmara Municipal.
+
+**Art. 6º.** O parcelamento não poderá exceder a 18 (dezoito) parcelas mensais, iguais e sucessivas.
+
+**§ 1º.** O débito consolidado na forma desta Lei Complementar poderá ser parcelado, respeitado o valor mínimo de cada parcela em 25 (vinte e cinco) UPFTO (Unidade Padrão Fiscal do Município de Teófilo Otoni), para pessoa física e 100 (cem) UPFTO (Unidade Padrão Fiscal do Município de Teófilo Otoni) para pessoa jurídica.
+
+**§ 2º.** A falta de pagamento de qualquer parcela até a data do vencimento ensejará o acréscimo de multa de mora de 0,33% (trinta e três centésimos por cento) por dia de atraso, limitada ao máximo de 20% (vinte por cento) e de juros de mora de 1% (um por cento) ao mês, a partir do mês subsequente ao do vencimento.
+
+**§ 3º.** Na hipótese do contribuinte ou responsável ser excluído do PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015, enquadrado nas condutas tipificadas pelo Artigo 13, desta Lei Complementar, a disposição do parágrafo anterior, será aplicada ao débito até o momento da exclusão e a partir desta, incidirá o disposto no § 3º, do citado artigo.
+
+**Art. 7º.** Será concedida remissão sobre os encargos previstos no artigo 4º desta Lei Complementar, com exceção do valor original do débito lançado em Dívida Ativa e da atualização monetária, observadas as seguintes condições:
+
+**I –** remissão de 100% (cem por cento) dos juros e multas, para o contribuinte ou responsável que aderir ao PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015, para pagamento em parcela única em até 48 (quarenta e oito) horas, após o requerimento;
+
+**II –** remissão de 80% (oitenta por cento) dos juros e multas, para o contribuinte ou responsável que aderir ao PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 e pagar o débito em até 03 (três) parcelas, sendo a primeira no ato do requerimento e as demais a cada 30 (trinta) dias, sucessivamente;
+
+**III –** remissão de 70% (setenta por cento) dos juros e multas, para o contribuinte ou responsável que aderir ao PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 e pagar o débito em até 06 (seis) parcelas, sendo a primeira no ato do requerimento e as demais a cada 30 (trinta) dias, sucessivamente;
+
+**IV –** remissão de 60% (sessenta por cento) dos juros e multas, para o contribuinte ou responsável que aderir ao PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 e pagar o débito em até 12 (doze) parcelas, sendo a primeira no ato do requerimento e as demais a cada 30 (trinta) dias, sucessivamente;
+
+**V –** remissão de 50% (cinquenta por cento) dos juros e multas, para o contribuinte ou responsável que aderir ao PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 e pagar o débito em até 18 (dezoito) parcelas, sendo a primeira no ato do requerimento e as demais a cada 30 (trinta) dias, sucessivamente;
+
+**§ 1º.** Os créditos não constituídos e objetos desta Lei Complementar serão anistiados nos mesmos moldes e percentuais definidos para a remissão (incisos I a V).
+
+**§ 2º.** Os créditos tributários constituídos em decorrência do descumprimento de obrigação acessória serão remidos nos mesmos percentuais e condições estabelecidas nos incisos I a V.
+
+**Art. 8º.** Ficam extintos, por remissão, os créditos de natureza tributária constituídos até 31 de dezembro de 2014, inscritos ou não em dívida ativa, ajuizados ou não, cuja totalidade dos valores atualizados, em nome do contribuinte ou responsável, na data da publicação desta Lei Complementar, que alcancem o equivalente até 75 (setenta e cinco) UPFTO (Unidade Padrão Fiscal do Município de Teófilo Otoni).
+
+**Parágrafo único** - Na hipótese do crédito ter sido objeto de ação judicial, a extinção ficará condicionada ao pagamento das custas processuais ou da outorga de liberação judicial autorizando a desobrigação ao recolhimento, via concessão de justiça gratuita ou outro benefício legal.
+
+**Art. 9º.** A opção pelo PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 sujeita o contribuinte ou responsável a:
+
+**I –** aceitação plena e irretratável de todas as condições estabelecidas nesta Lei Complementar e constitui confissão irrevogável e irretratável da dívida relativa aos débitos tributários nele incluídos.
+
+**II –** pagamento regular das parcelas do débito consolidado;
+
+**III –** pagamento regular dos tributos municipais, com vencimento posterior a 31 de Dezembro de 2014.
+
+**Parágrafo Único.** A opção pelo PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 exclui qualquer outra forma de parcelamento de débitos relativos aos tributos referidos no Art. 1º desta Lei.
+
+**Art. 10.** São requisitos indispensáveis à formalização do pedido:
+
+**I –** requerimento assinado pelo devedor ou seu representante legal, com poderes especiais, nos termos desta Lei Complementar, juntando-se o respectivo instrumento;
+
+**II –** documento que permita identificar os responsáveis pela representação da empresa, nos casos de débitos relativos à pessoa jurídica;
+
+**III –** cópia de documentos de identificação, nos casos de débitos relativos à pessoa física.
+
+**Art. 11.** Para implementação do disposto nesta Lei, pode ser exigido do contribuinte ou responsável o oferecimento de garantias, ou o arrolamento dos bens na forma do art. 64 da Lei Federal Nº. 9.532, de 10 de dezembro de 1997.
+
+**Parágrafo único.** São dispensados da exigência referida no caput os contribuintes ou responsáveis inscritos no Cadastro de Contribuintes do Município cujos créditos fiscais consolidados sejam inferiores a 100 (cem) UFPTO (Unidade Padrão Fiscal do Município de Teófilo Otoni).
+
+**Art. 12.** O contribuinte ou responsável optante pelo PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 será dele excluído, mediante ato do Secretário Municipal de Fazenda, diante da ocorrência de uma das seguintes hipóteses:
+
+**I –** inobservância de qualquer das exigências estabelecidas nesta Lei Complementar;
+
+**II –** inadimplência, por 03 (três) meses consecutivos ou 06 (seis) meses alternados, ou o que primeiro ocorrer, relativamente a tributo abrangido pelo PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015, inclusive aqueles vencíveis após 31 de Dezembro de 2014.
+
+**III –** constatação, caracterizada por lançamento de ofício, de débito correspondente a tributo abrangido pelo PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 e não incluído na confissão, salvo se integralmente pago no prazo de 30 (trinta) dias, contados da ciência do lançamento ou da decisão definitiva na esfera administrativa ou judicial;
+
+**IV –** compensação ou utilização indevida de créditos;
+
+**V –** decretação de falência ou extinção, pela liquidação, da pessoa jurídica;
+
+**VI –** cisão da pessoa jurídica, exceto se a sociedade nova oriunda da cisão ou aquela que incorporar a parte do patrimônio permanecerem estabelecidas no Município de Teófilo Otoni – MG, e assumirem solidariamente com a cindida as obrigações do PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015;
+
+**VII –** prática de qualquer procedimento tendente a subtrair receita da optante, mediante simulação de ato.
+
+**§ 1º.** O contribuinte ou responsável deverá ser notificado da decisão que o excluiu do PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015.
+
+**§ 2º.** A notificação far-se-á:
+
+**I –** de regra, via postal, com aviso de recebimento;
+
+**II –** quando ignorado, incerto ou inacessível o lugar em que o contribuinte ou responsável se encontrar, por edital, afixado no quadro de avisos da Prefeitura Municipal e jornais de circulação local, ou Jornal Oficial do Estado de Minas Gerais.
+
+**§ 3º.** A notificação via postal consuma-se com a simples entrega regular no endereço do contribuinte ou responsável.
+
+**§ 4º.** A exclusão do contribuinte ou responsável do PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 acarretará o restabelecimento das condições originais do crédito, com todos os encargos, ensejando ainda a inscrição do saldo remanescente em Dívida Ativa, se o crédito não estiver ali inscrito; a propositura da execução, caso já esteja inscrito; ou o prosseguimento da execução, na hipótese de se encontrar ajuizado.
+
+**§ 5º.** O valor das parcelas quitadas até a exclusão do PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 será utilizado para amortização da dívida, considerando-se as datas dos respectivos pagamentos.
+
+**§ 6º.** Realizada a exclusão, por qualquer dos motivos supra referidos, esta produzirá seus efeitos 30 (trinta) dias após a data da cientificação do contribuinte ou responsável, prazo em que poderá regularizar sua situação perante a Fazenda Municipal, ou no mesmo prazo, ofertar recurso, sem efeito suspensivo para o Secretário Municipal de Fazenda, de cuja decisão não caberá recurso.
+
+**Art. 13.** A inclusão no PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 fica condicionada, ainda, ao encerramento comprovado dos feitos, por desistência, expressa e irrevogável das respectivas ações judiciais e das defesas e recursos administrativos, a ser formulada pelo contribuinte ou responsável, bem assim da renúncia do direito, sobre os mesmos débitos, em que se funda a ação judicial ou o pleito administrativo.
+
+**§ 1º.** Na desistência de ação judicial, deverá o contribuinte ou responsável suportar as custas judiciais.
+
+**§ 2º.** O(a) Secretário(a) Municipal de Fazenda, em despacho, a requerimento do contribuinte ou responsável, que faça prova do preenchimento das condições e requisitos previstos nesta Lei Complementar, deferirá anistia de 100% (cem por cento) dos honorários advocatícios fixados judicialmente, respeitado os termos do Estatuto da Advocacia e da OAB (Lei Federal n. 8.906/94).
+
+**§ 3º.** O cancelamento do parcelamento por culpa do contribuinte implicará na execução judicial do crédito remanescente, ou no prosseguimento da ação judicial em caso de execuções já ajuizadas, ou ainda, na inscrição em dívida ativa, caso ainda não tenha sido feito.
+
+**Art. 14.** O contribuinte ou responsável poderá compensar, do montante do débito consolidado, o valor de créditos líquidos e certos que possua contra o Município, permanecendo no PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015 o saldo do débito que eventualmente remanescer.
+
+**§ 1º.** Valores ilíquidos a que, eventualmente, o contribuinte ou responsável possa ter direito, não poderão ser incluídos na compensação, sujeitando-se ao procedimento normal de cobrança.
+
+**§ 2º.** O contribuinte ou responsável que pretender utilizar a compensação prevista neste artigo apresentará no requerimento de opção, além da declaração do valor dos débitos a parcelar, a declaração do valor de seu crédito líquido, indicando a origem respectiva.
+
+**§ 3º.** Salvo as hipóteses de erro, fraude ou simulação, a compensação será considerada tacitamente homologada se a Fazenda Municipal não a impugnar no prazo de 60 (sessenta) dias do protocolo da opção.
+
+**Art. 15.** Os efeitos da presente Lei Complementar passam a integrar o Plano Plurianual e o Anexo de Metas Fiscais, no que tange a renúncia de receitas e despesas obrigatórias de caráter continuado, previstos na Lei de Diretrizes Orçamentárias para o Exercício Financeiro de 2015.
+
+**Art. 16.** As despesas decorrentes desta Lei Complementar serão levadas à conta de dotações orçamentárias próprias consignadas no orçamento vigente.
+
+**Art. 17.** O estudo do impacto orçamentário-financeiro pela renúncia da receita, na forma do Artigo 14, da Lei Complementar 101/2000, de 04 de maio de 2000, constante do **Anexo I**, é parte integrante desta Lei Complementar.
+
+**Art. 18.** Aplica-se ao PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2014, de que trata a presente lei, no que couber, os dispositivos contidos na Legislação Tributária Municipal.
+
+**Art. 19.** Na hipótese do crédito tributário ser objeto de execução fiscal ou ação judicial, a concessão do benefício de que trata esta Lei Complementar fica condicionada à desistência da ação, se proposta pelo contribuinte, ou a desistência dos recursos interpostos e ao pagamento das custas judiciais devidas e dos honorários advocatícios, arbitrados pelo juiz.
+
+**Art. 20.** O presente projeto tem adequação orçamentário-financeira, conforme declaração constante no **Anexo II**, também, parte integrante desta Lei Complementar.
+
+**Art. 21.** Esta Lei Complementar será regulamentada, no que couber, por Decreto do Poder Executivo.
+
+**Art. 22.** A presente Lei Complementar entra em vigor na data de sua publicação.
+
+**Art. 23.** Revogam-se as disposições em contrário.
+
+Câmara Municipal de Teófilo Otoni, 18 de agosto de 2015.
+
+**Northon Neiva Diamantino**
+
+**Presidente Câmara Municipal**
+
+## ANEXO I — ANEXO I À LEI COMPLEMENTAR Nº 105 DE 18 DE AGOSTO DE 2015
+
+**DEMONSTRATIVO DO IMPACTO ORÇAMENTARIO-FINANCEIRO RELATIVO A RENÚNCIA DE RECEITAS**
+
+(Art. 14, caput e Inciso I - LC101/2000)
+
+**I – INTRODUÇÃO:**
+
+Objetiva a presente proposição regulamentar o parcelamento dos débitos para com a Fazenda Municipal, de natureza tributária, que estejam ou não inscritos em Dívida Ativa, ajuizados ou não. Concomitantemente ao parcelamento conceder-se-á redução de multas e juros incidentes sobre o valor principal do débito, preservando, desta forma, o débito original devidamente acrescido da correção monetária, não objeto de qualquer tipo de redução.
+
+O presente projeto tem como escopo, dar uma grande oportunidade ao contribuinte para regularizar a situação dos seus imóveis, principalmente no caso em que os débitos se encontram ajuizados.
+
+O momento para o envio é sobremaneira propício vez que a economia brasileira está a enfrentar uma crise recessiva provocada por fatores externos e internos.
+
+A legislação brasileira, mais principalmente, a Lei de Responsabilidade Fiscal, inova nesse aspecto, onde o governante não pode, livremente, fazer essas aberturas sem a observância dos dispositivos da lei.
+
+O Artigo 14 da Lei Complementar nº 101, de 04 de maio de 2.000 (LRF) exige que a concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita deve se fazer acompanhar de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes, além de atender ao disposto na lei de diretrizes orçamentárias e uma das seguintes condições:
+
+*Art. 14.* *A concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita deverá estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes, atender ao disposto na lei de diretrizes orçamentárias e a pelo menos uma das seguintes condições:*
+
+*I - demonstração pelo proponente de que a renúncia foi considerada na estimativa de receita da lei orçamentária, na forma do art. 12, e de que não afetará as metas de resultados fiscais previstas no anexo próprio da lei de diretrizes orçamentárias;*
+
+*II - estar acompanhada de medidas de compensação, no período mencionado no caput, por meio do aumento de receita, proveniente da elevação de alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou contribuição.*
+
+**II – REQUISITOS DA CONSTITUIÇÃO FEDERAL**
+
+No que tange aos requisitos da Carta Magna Federal, não se pode deixar de consignar que, a par de constituírem requisitos afetos às renúncias de receita, os artigos 150, § 6º, e 165, § 6º, da Constituição da República, erigem-se como sedes de dois princípios constitucionais orçamentários implícitos, quais sejam, **transparência** e **equilíbrio**.
+
+O artigo **150, § 6º**, **preconiza que qualquer subsídio ou isenção**, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, **só poderão ser concedidos mediante lei específica**.
+
+A isenção é um privilégio fiscal, que se caracteriza como renúncia de receita ou gasto tributário. Trata-se de uma concessão de lei que estabelece exceção à regra geral, pelo que a norma do privilégio permitirá que alguém não pague tributo. Nos termos deste artigo, a lei que concede a isenção, tanto em caráter geral quanto em caráter individual, deve ser específica.
+
+**III – ATENDIMENTO À LRF:**
+
+Os dispositivos da LRF, mencionados na introdução, determinam de forma imperativa a produção deste expediente, fazendo parte integrante do presente projeto de lei complementar e que trará às claras o choque orçamentário e financeiro à Receita da Dívida Ativa neste Exercício Financeiro e para os dois subsequentes.
+
+Conforme levantamentos realizados, a concessão de anistia da multa e juros de mora incidentes sobre os créditos tributários mencionados neste projeto de lei complementar não resultará em impacto orçamentário-financeiro negativo no ano de sua entrada em vigor, e nem nos dois seguintes, eis que as previsões de receitas foram estimadas já levando em consideração que o valor constante do estoque da **Dívida Ativa** contabilizada é muito superior ao que foi orçado. Senão vejamos, por meio dos **Anexos 01** e **02**, abaixo:
+
+## ANEXO 01
+
+<table>   <tr>    <td colspan="6">    <p><strong>Comparativo da Receita da Dívida Ativa    Tributária Prevista com a Arrecadada Exercícios: 2001/2014</strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>Exercício</strong></p>    </td>    <td>    <p><strong>Código</strong></p>    </td>    <td>    <p><strong>Descrição </strong></p>    </td>    <td>    <p><strong>Previsto </strong>(a)</p>    </td>    <td>    <p><strong>Arrecadado </strong>(b)</p>    </td>    <td>    <p><strong>% </strong>(a/b*100)</p>    </td>   </tr>   <tr>    <td>    <p>2001</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>4.000.000,00</p>    </td>    <td>    <p>1.011.035,65</p>    </td>    <td>    <p>      25,28 </p>    </td>   </tr>   <tr>    <td>    <p>2002</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>2.500.000,00</p>    </td>    <td>    <p>761.758,23</p>    </td>    <td>    <p>      30,47 </p>    </td>   </tr>   <tr>    <td>    <p>2003</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>2.500.000,00</p>    </td>    <td>    <p>113.013,72</p>    </td>    <td>    <p>        4,52 </p>    </td>   </tr>   <tr>    <td>    <p>2004</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>2.350.000,00</p>    </td>    <td>    <p>903.757,08</p>    </td>    <td>    <p>      38,46 </p>    </td>   </tr>   <tr>    <td>    <p>2005</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>1.230.000,00</p>    </td>    <td>    <p>871.958,88</p>    </td>    <td>    <p>      70,89 </p>    </td>   </tr>   <tr>    <td>    <p>2006</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>1.035.000,00</p>    </td>    <td>    <p>1.287.279,85</p>    </td>    <td>    <p>    124,37 </p>    </td>   </tr>   <tr>    <td>    <p>2007</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>1.035.000,00</p>    </td>    <td>    <p>1.261.185,64</p>    </td>    <td>    <p>    121,85 </p>    </td>   </tr>   <tr>    <td>    <p>2008</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>2.650.000,00</p>    </td>    <td>    <p>1.200.223,90</p>    </td>    <td>    <p>      45,29 </p>    </td>   </tr>   <tr>    <td>    <p>2009</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>2.350.000,00</p>    </td>    <td>    <p>1.901.597,85</p>    </td>    <td>    <p>      80,92 </p>    </td>   </tr>   <tr>    <td>    <p>2010</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>2.350.000,00</p>    </td>    <td>    <p>826.261,48</p>    </td>    <td>    <p>      35,16 </p>    </td>   </tr>   <tr>    <td>    <p>2011</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>2.319.295,78</p>    </td>    <td>    <p>1.645.796,37</p>    </td>    <td>    <p>      70,96 </p>    </td>   </tr>   <tr>    <td>    <p>2012</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>2.350.000,00</p>    </td>    <td>    <p>3.147.796,04</p>    </td>    <td>    <p>    133,95 </p>    </td>   </tr>   <tr>    <td>    <p>2013</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>2.850.000,00</p>    </td>    <td>    <p>2.527.629,44</p>    </td>    <td>    <p>88,69</p>    </td>   </tr>   <tr>    <td>    <p>2014</p>    </td>    <td>    <p>19310000</p>    </td>    <td>    <p>Receita    da Dívida Ativa Tributária</p>    </td>    <td>    <p>9.800.000,00</p>    </td>    <td>    <p>2.935.374,01</p>    </td>    <td>    <p>29,95</p>    </td>   </tr>   <tr>    <td colspan="3">    <p><strong>TOTAIS</strong></p>    </td>    <td>    <p><strong>39.319.295,78</strong></p>    </td>    <td>    <p><strong>20.394.668,14</strong></p>    </td>    <td>    <p><strong>51,87</strong></p>    </td>   </tr>  </table>
+
+A projeção da Receita poderia ter sido feita a partir de 2010, últimos 05 (cinco) anos, porém, em 2001, por força imperativa da Lei Complementar 101/2000, de 04 de maio de 2000 (LRF), o Município de Teófilo Otoni-MG começou ajuizar as ações dos débitos inscritos em Dívida Ativa, estabelecendo o ‘divisor de águas’ e servindo de parâmetro para melhor análise do comportamento desta receita e trazendo uma melhor baliza para fundamentar o presente relatório de impacto.
+
+Ainda sobre a projeção percebe-se a redução gradativa nos valores orçados, desde o início em 2001, começando-se com R$ **4.000.000,00** (**quatro milhões de reais**), arrecadando R$ **1.011.035,65** (**Um milhão onze mil trinta e cinco reais e sessenta e cinco centavos**), representando **25,28%** (**vinte e cinco inteiros e vinte e oito centésimos percentuais**). No exercício seguinte (2002), houve uma brusca redução de **37,50%** (**trinta e sete inteiros e cinquenta centésimos percentuais**) buscando uma adequação e proximidade dos valores orçados e arrecadados. E para atingir o buscado equilíbrio, veio se reduzindo ano a ano o valor orçado que teve variação positiva, com superávit, apenas em 03 (três) exercícios financeiros, quais sejam: 2006, 2007 e 2012. Porém, em 2014, houve majoração no valor previsto para R$ **9.800.000,00** (**Nove milhões e oitocentos mil reais**), com a arrecadação atingindo **29,85%** (**vinte e nove inteiros e oitenta e cinco centésimos percentuais**).
+
+O período compreendido 2001/2014, teve média de arrecadação de **51,87%** (**cinquenta e um inteiros e oitenta e sete centésimos percentuais**).
+
+## ANEXO 02
+
+<table>   <tr>    <td colspan="9">    <p><strong>Demonstrativo do Estoque da Dívida,    Cancelamento e Baixa da Dívida Ativa Tributária - Quantitativos e Valores –    Exercícios: 2001/2014</strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>ANO</strong></p>    </td>    <td>    <p><strong>QUANTIDADE</strong></p>    </td>    <td>    <p><strong>INSCRIÇÃO</strong></p>    </td>    <td>    <p><strong>CANCELAMENTO</strong></p>    </td>    <td>    <p><strong>PERCENTUAL</strong></p>    </td>    <td>    <p><strong>PAGAMENTO</strong></p>    </td>    <td>    <p><strong>PERCENTUAL</strong></p>    </td>    <td>    <p><strong>INADIMPLÊNCIA</strong></p>    </td>    <td>    <p><strong>PERCENTUAL</strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>2001</strong></p>    </td>    <td>    <p>27.770</p>    </td>    <td>    <p>2.755.124,09</p>    </td>    <td>    <p>1.325.519,64</p>    </td>    <td>    <p>48,11</p>    </td>    <td>    <p>1.011.035,65</p>    </td>    <td>    <p>36,70</p>    </td>    <td>    <p>418.568,80</p>    </td>    <td>    <p>15,19</p>    </td>   </tr>   <tr>    <td>    <p><strong>2002</strong></p>    </td>    <td>    <p>39.129</p>    </td>    <td>    <p>3.707.672,96</p>    </td>    <td>    <p>1.912.609,79</p>    </td>    <td>    <p>51,59</p>    </td>    <td>    <p>761.758,23</p>    </td>    <td>    <p>20,55</p>    </td>    <td>    <p>1.033.304,94</p>    </td>    <td>    <p>27,87</p>    </td>   </tr>   <tr>    <td>    <p><strong>2003</strong></p>    </td>    <td>    <p>66.034</p>    </td>    <td>    <p>5.141.494,19</p>    </td>    <td>    <p>2.700.405,49</p>    </td>    <td>    <p>52,52</p>    </td>    <td>    <p>113.013,72</p>    </td>    <td>    <p>2,20</p>    </td>    <td>    <p>2.328.074,98</p>    </td>    <td>    <p>45,28</p>    </td>   </tr>   <tr>    <td>    <p><strong>2004</strong></p>    </td>    <td>    <p>60.940</p>    </td>    <td>    <p>5.648.962,50</p>    </td>    <td>    <p>3.261.143,99</p>    </td>    <td>    <p>57,73</p>    </td>    <td>    <p>903.757,08</p>    </td>    <td>    <p>16,00</p>    </td>    <td>    <p>1.484.061,43</p>    </td>    <td>    <p>26,27</p>    </td>   </tr>   <tr>    <td>    <p><strong>2005</strong></p>    </td>    <td>    <p>70.143</p>    </td>    <td>    <p>5.426.795,31</p>    </td>    <td>    <p>2.271.238,10</p>    </td>    <td>    <p>41,85</p>    </td>    <td>    <p>871.958,88</p>    </td>    <td>    <p>16,07</p>    </td>    <td>    <p>2.283.598,33</p>    </td>    <td>    <p>42,08</p>    </td>   </tr>   <tr>    <td>    <p><strong>2006</strong></p>    </td>    <td>    <p>66.024</p>    </td>    <td>    <p>6.999.469,76</p>    </td>    <td>    <p>2.284.829,49</p>    </td>    <td>    <p>32,64</p>    </td>    <td>    <p>1.287.279,85</p>    </td>    <td>    <p>18,39</p>    </td>    <td>    <p>3.427.360,42</p>    </td>    <td>    <p>48,97</p>    </td>   </tr>   <tr>    <td>    <p><strong>2007</strong></p>    </td>    <td>    <p>64.092</p>    </td>    <td>    <p>11.994.948,51</p>    </td>    <td>    <p>3.371.301,16</p>    </td>    <td>    <p>28,11</p>    </td>    <td>    <p>1.261.185,64</p>    </td>    <td>    <p>10,51</p>    </td>    <td>    <p>7.362.461,71</p>    </td>    <td>    <p>61,38</p>    </td>   </tr>   <tr>    <td>    <p><strong>2008</strong></p>    </td>    <td>    <p>64.154</p>    </td>    <td>    <p>6.123.567,93</p>    </td>    <td>    <p>2.212.721,64</p>    </td>    <td>    <p>36,13</p>    </td>    <td>    <p>1.200.223,90</p>    </td>    <td>    <p>19,60</p>    </td>    <td>    <p>2.710.622,39</p>    </td>    <td>    <p>44,27</p>    </td>   </tr>   <tr>    <td>    <p><strong>2009</strong></p>    </td>    <td>    <p>75.638</p>    </td>    <td>    <p>7.046.360,51</p>    </td>    <td>    <p>1.397.540,85</p>    </td>    <td>    <p>19,83</p>    </td>    <td>    <p>1.901.597,85</p>    </td>    <td>    <p>26,99</p>    </td>    <td>    <p>3.747.221,81</p>    </td>    <td>    <p>53,18</p>    </td>   </tr>   <tr>    <td>    <p><strong>2010</strong></p>    </td>    <td>    <p>84.469</p>    </td>    <td>    <p>8.075.668,10</p>    </td>    <td>    <p>2.505.571,54</p>    </td>    <td>    <p>31,03</p>    </td>    <td>    <p>826.261,48</p>    </td>    <td>    <p>10,23</p>    </td>    <td>    <p>4.743.835,08</p>    </td>    <td>    <p>58,74</p>    </td>   </tr>   <tr>    <td>    <p><strong>2011</strong></p>    </td>    <td>    <p>83.382</p>    </td>    <td>    <p>8.881.294,69</p>    </td>    <td>    <p>1.543.671,94</p>    </td>    <td>    <p>17,38</p>    </td>    <td>    <p>1.645.796,37</p>    </td>    <td>    <p>18,53</p>    </td>    <td>    <p>5.691.826,38</p>    </td>    <td>    <p>64,09</p>    </td>   </tr>   <tr>    <td>    <p><strong>2012</strong></p>    </td>    <td>    <p>75.678</p>    </td>    <td>    <p>7.698.342,03</p>    </td>    <td>    <p>1.395.974,97</p>    </td>    <td>    <p>18,13</p>    </td>    <td>    <p>3.147.796,04</p>    </td>    <td>    <p>40,89</p>    </td>    <td>    <p>3.154.571,02</p>    </td>    <td>    <p>40,98</p>    </td>   </tr>   <tr>    <td>    <p><strong>2013</strong></p>    </td>    <td>    <p>93.716</p>    </td>    <td>    <p>12.029.273,32</p>    </td>    <td>    <p>1.738.598,27</p>    </td>    <td>    <p>14,45</p>    </td>    <td>    <p>3.765.999,23</p>    </td>    <td>    <p>31,31</p>    </td>    <td>    <p>8.129.333,81</p>    </td>    <td>    <p>67,58</p>    </td>   </tr>   <tr>    <td>    <p><strong>2014</strong></p>    </td>    <td>    <p>83.394</p>    </td>    <td>    <p>27.117.651,08</p>    </td>    <td>    <p>904.609,48</p>    </td>    <td>    <p>3,34</p>    </td>    <td>    <p>684.784,34</p>    </td>    <td>    <p>2,53</p>    </td>    <td>    <p>28.250.478,16</p>    </td>    <td>    <p>96,80</p>    </td>   </tr>   <tr>    <td>    <p><strong>TOTAL</strong></p>    </td>    <td>    <p><strong>954.563</strong></p>    </td>    <td>    <p><strong>118.646.624,98</strong></p>    </td>    <td>    <p><strong>28.825.736,35</strong></p>    </td>    <td>    <p><strong>24,30</strong></p>    </td>    <td>    <p><strong>19.382.448,26</strong></p>    </td>    <td>    <p><strong>16,34</strong></p>    </td>    <td>    <p><strong>74.765.319,26</strong></p>    </td>    <td>    <p><strong>63,02</strong></p>    </td>   </tr>  </table>
+
+Fonte: Sistema SONNER – Módulo Tributação
+
+Analisando o Demonstrativo de Dívida Ativa expedido pelo Setor de Arrecadação do Município, quanto aos débitos não prescritos, compreendendo o período de 2001 a 2014, tem-se o seguinte:
+
+Em 12 (doze) anos, inscreveu-se em Dívida Ativa de **954.563** (**novecentos e cinquenta e quatro mil quinhentos e sessenta e três**) contribuintes em Dívida Ativa, totalizando **118.646.624,98** (**Cento e dezoito milhões seiscentos e quarenta e seis mil seiscentos e vinte e quatro reais e noventa e oito centavos**), porém, cancelou-se desse montante **24,30%** (**vinte e quatro inteiros e trinta centésimos percentuais**), um percentual expressivo e exorbitante, contra uma arrecadação **16,34%** (**dezesseis inteiros e trinta e quatro centésimos percentuais**).
+
+Os percentuais dos **cancelamentos** ano a ano, com relação à **inscrição**, de 2008 para trás, atingiram elevadas alíquotas, por vários motivos. Dentre eles: duplicidade na emissão de guia e valores inferiores a R$ 100,00 (cem reais) e não ajuizados, sendo na maioria, esmagadora, por prescrição. Essa rotina de cancelamento foi criada no final de 2014, onde a Empresa Lage & Lage, promoveu levantamento dos ativos do Município, com vistas ao cumprimento à determinação do Ministério da Fazenda, em especial a Portaria nº 634 de 19 de novembro de 2013, onde impõe, de forma taxativa, a adequação da Contabilidade às Normas Brasileiras de Contabilidade Aplicáveis ao Setor Público de Natureza Técnica (NBC TSP) e no contexto de exigências, o Setor de Tributação teve que promover o enxugamento das informações com o ajuizamento dos processos não prescritos e o cancelamento dos demais se encontravam desenquadrados à legislação aplicável.
+
+Analisando a coluna da **Inadimplência** do **Anexo 02**, detectamos um altíssimo percentual médio de **63,02%** (**sessenta e três inteiros e dois décimos percentuais**) e à medida que cresce o valor inscrito, maior é o inadimplemento.
+
+Estes percentuais de inadimplência apresentados no quadro acima (**Anexo 02**), motivam e obrigam a Administração a encaminhar o presente projeto e que seguramente, terá êxito e abrindo precedentes para novos projetos dessa natureza.
+
+## ANEXO 03
+
+<table>   <tr>    <td colspan="6">    <p><strong>Valores Previstos x Arrecadados –    Percentuais – Exercícios: 2001/2014</strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>Exercício</strong></p>    </td>    <td>    <p><strong>Código</strong></p>    </td>    <td>    <p><strong>Descrição</strong></p>    </td>    <td>    <p><strong>Previsto (a)</strong></p>    </td>    <td>    <p><strong>Arrecadado (b)</strong></p>    </td>    <td>    <p><strong>% (b/a*100)</strong></p>    </td>   </tr>   <tr>    <td>    <p>2001</p>    </td>    <td>    <p>19100100</p>    </td>    <td>    <p>Multas    e Juros de Mora*</p>    </td>    <td>    <p>300.000,00</p>    </td>    <td>    <p>44.878,00</p>    </td>    <td>    <p>    14,96 </p>    </td>   </tr>   <tr>    <td>    <p>2002</p>    </td>    <td>    <p>19100100</p>    </td>    <td>    <p>Multas    e Juros de Mora dos Tributos*</p>    </td>    <td>    <p>250.000,00</p>    </td>    <td>    <p>73.184,33</p>    </td>    <td>    <p>    29,27 </p>    </td>   </tr>   <tr>    <td>    <p>2003</p>    </td>    <td>    <p>19100100</p>    </td>    <td>    <p>Multas    e Juros de Mora dos Tributos*</p>    </td>    <td>    <p>250.000,00</p>    </td>    <td>    <p>53.580,13</p>    </td>    <td>    <p>    21,43 </p>    </td>   </tr>   <tr>    <td>    <p>2004</p>    </td>    <td>    <p>19100100</p>    </td>    <td>    <p>Multas    e Juros de Mora dos Tributos*</p>    </td>    <td>    <p>150.000,00</p>    </td>    <td>    <p>44.955,59</p>    </td>    <td>    <p>    29,97 </p>    </td>   </tr>   <tr>    <td>    <p>2005</p>    </td>    <td>    <p>19130000</p>    </td>    <td>    <p>Multas    e Juros de Mora Dívida Ativa dos Tributos</p>    </td>    <td>    <p>270.000,00</p>    </td>    <td>    <p>133.603,72</p>    </td>    <td>    <p>    49,48 </p>    </td>   </tr>   <tr>    <td>    <p>2006</p>    </td>    <td>    <p>19130000</p>    </td>    <td>    <p>Multas    e Juros de Mora Dívida Ativa dos Tributos</p>    </td>    <td>    <p>230.000,00</p>    </td>    <td>    <p>419.578,10</p>    </td>    <td>    <p>  182,43 </p>    </td>   </tr>   <tr>    <td>    <p>2007</p>    </td>    <td>    <p>19130000</p>    </td>    <td>    <p>Multas    e Juros de Mora Dívida Ativa dos Tributos</p>    </td>    <td>    <p>323.050,00</p>    </td>    <td>    <p>749.826,83</p>    </td>    <td>    <p>  232,11 </p>    </td>   </tr>   <tr>    <td>    <p>2008</p>    </td>    <td>    <p>19130000</p>    </td>    <td>    <p>Multas    e Juros de Mora Dívida Ativa dos Tributos</p>    </td>    <td>    <p>560.000,00</p>    </td>    <td>    <p>793.065,79</p>    </td>    <td>    <p>  141,62 </p>    </td>   </tr>   <tr>    <td>    <p>2009</p>    </td>    <td>    <p>19130000</p>    </td>    <td>    <p>Multas    e Juros de Mora Dívida Ativa dos Tributos</p>    </td>    <td>    <p>640.000,00</p>    </td>    <td>    <p>592.525,92</p>    </td>    <td>    <p>    92,58 </p>    </td>   </tr>   <tr>    <td>    <p>2010</p>    </td>    <td>    <p>19130000</p>    </td>    <td>    <p>Multas    e Juros de Mora Dívida Ativa dos Tributos</p>    </td>    <td>    <p>780.000,00</p>    </td>    <td>    <p>1.154.203,71</p>    </td>    <td>    <p>  147,97 </p>    </td>   </tr>   <tr>    <td>    <p>2011</p>    </td>    <td>    <p>19130000</p>    </td>    <td>    <p>Multas    e Juros de Mora Dívida Ativa dos Tributos</p>    </td>    <td>    <p>800.000,00</p>    </td>    <td>    <p>675.481,87</p>    </td>    <td>    <p>    84,44 </p>    </td>   </tr>   <tr>    <td>    <p>2012</p>    </td>    <td>    <p>19130000</p>    </td>    <td>    <p>Multas    e Juros de Mora Dívida Ativa dos Tributos</p>    </td>    <td>    <p>815.000,00</p>    </td>    <td>    <p>210.730,96</p>    </td>    <td>    <p>    25,86 </p>    </td>   </tr>   <tr>    <td>    <p>2013</p>    </td>    <td>    <p>19130000</p>    </td>    <td>    <p>Multas    e Juros de Mora Dívida Ativa dos Tributos</p>    </td>    <td>    <p>565.000,00</p>    </td>    <td>    <p>57.853,49</p>    </td>    <td>    <p>10,24</p>    </td>   </tr>   <tr>    <td>    <p>2014</p>    </td>    <td>    <p>19130000</p>    </td>    <td>    <p>Multas    e Juros de Mora Dívida Ativa dos Tributos</p>    </td>    <td>    <p>165.000,00</p>    </td>    <td>    <p>289.500,96</p>    </td>    <td>    <p>175,46</p>    </td>   </tr>   <tr>    <td colspan="3">    <p><strong>TOTAL</strong></p>    </td>    <td>    <p><strong>6.098.050,00</strong></p>    </td>    <td>    <p><strong>5.292.969,40</strong></p>    </td>    <td>    <p><strong>    86,80 </strong></p>    </td>   </tr>  </table>
+
+Fonte: Sistema SONNER – Módulo Contabilidade
+
+Nestes Exercícios a Receita de Multas e Juros de Mora da Dívida Ativa dos Tributos, código: 1.9.1.3.00.00 está englobada na Receita 1.9.10.01.00 Multas e Juros de Mora dos Tributos, não houve desmembramento, como nos Exercícios Financeiros 2005 a 2014.
+
+O Anexo I – Receitas, da Lei Municipal nº. 6.791, de 19 de dezembro de 2014 da Lei de Diretrizes Orçamentárias para 2014), estimou como arrecadação de receita com Metodologia e Memória de Cálculo das Metas Anuais, com as **Multas e Juros de Mora da Dívida Ativa dos Tributos**, os seguintes valores:
+
+## ANEXO 04
+
+<table>   <tr>    <td colspan="6">    <p><strong>Demonstrativo da Previsão da    Receita de Multas e Juros de Mora Dívida Ativa dos Tributos</strong></p>    </td>   </tr>   <tr>    <td>    <p>Exercício</p>    </td>    <td>    <p>Valor</p>    </td>    <td>    <p>Exercício</p>    </td>    <td>    <p>Valor</p>    </td>    <td>    <p>Exercício</p>    </td>    <td>    <p>Valor</p>    </td>   </tr>   <tr>    <td>    <p>2015</p>    </td>    <td>    <p>475.000,00</p>    </td>    <td>    <p>2016</p>    </td>    <td>    <p>503.500,00</p>    </td>    <td>    <p>2017</p>    </td>    <td>    <p>536.227,00</p>    </td>   </tr>  </table>
+
+O mesmo Anexo I da LDO estimou a arrecadação de receita com Metodologia e Memória de Cálculo das Metas Anuais de **Dívida Ativa Tributária**, para o exercício atual (2015) e os dois seguintes (2016-2017), assim:
+
+## ANEXO 05
+
+<table>   <tr>    <td colspan="6">    <p><strong>Demonstrativo da Previsão da    Receita da Dívida Ativa Tributária</strong></p>    </td>   </tr>   <tr>    <td>    <p>Exercício</p>    </td>    <td>    <p>Valor</p>    </td>    <td>    <p>Exercício</p>    </td>    <td>    <p>Valor</p>    </td>    <td>    <p>Exercício</p>    </td>    <td>    <p>Valor</p>    </td>   </tr>   <tr>    <td>    <p>2015</p>    </td>    <td>    <p>6.800.000,00</p>    </td>    <td>    <p>2016</p>    </td>    <td>    <p>7.208.000,00</p>    </td>    <td>    <p>2017</p>    </td>    <td>    <p>7.676.520,00</p>    </td>   </tr>  </table>
+
+Os ANEXOS 04 e 05, acima, noticiam os valores previstos de receita, no **04** - **Receita de Multas e Juros de Mora Dívida Ativa dos Tributos** e no **05** - **Receita da Dívida Ativa Tributária** estão a demonstrar que os valores previstos, tanto para o principal (**Dívida Ativa**) quanto para o acessório (**Multas e Juros**), são infinitamente inferiores ao Estoque da Dívida.
+
+**IV – ATENDIMENTO À LEGISLAÇÃO EXTRAVAGANTE E CORRELATA:**
+
+O amparo legal vem do Art. 180 e seguintes do Código Tributário Nacional anistiar de forma escalonada o valor de multas e juros moratórios em razão do atraso ou falta de pagamento, pelos contribuintes, relativos a tributos municipais, inscritos ou não em dívida ativa.
+
+Além do atendimento à LRF, o presente projeto observa de forma rigorosa a Constituição Federal, a Lei 4.320/64, de 17 de março de 1.964 e demais instrumentos da legislação extravagante pertinente.
+
+A legislação local, em destaque o PPA, a Lei Orçamentária e a LDO, trata do assunto e contém os quadros que deverão ser alterados e/ou modificados com vistas à adaptação do presente projeto, visando o cumprimento das Metas Fiscais, sem prejuízo da implementação deste.
+
+O PPA – Plano Plurianual de Ação Governamental, aprovado por meio da Lei nº 6.658/2013, de 11 de novembro de 2013, deverá ter modificação em seus anexos, vez que os valores previstos para a **Receita da Dívida Ativa Tributária** e para a receita de Multas e Juros de Mora da Dívida Ativa dos Tributos, serão alterados.
+
+Anexos da Lei Municipal nº. 6.791, de 19 de dezembro de 2014 da Lei de Diretrizes Orçamentárias para 2015, também deverá sofrer modificações, em especial o Anexo III – Resultado Primário.
+
+Ainda, da LDO, e o principal deles, por imposição do Art. 4º, § 2º, inciso II, da LRF, também deverá ser modificado o Anexo VII – Estimativa e Compensação de Renúncia de Receita, vez que o mesmo recepcionará as modificações propostas fazendo base para a renúncia da receita, ora sugerida.
+
+**V – HISTÓRICO DA ARRECADAÇÃO:**
+
+Os números da Dívida Ativa do Município de Teófilo Otoni, de acordo o levantamento realizado a partir do Exercício Financeiro de 2001, utilizando o saldo anterior do Exercício Financeiro de 2000, trazem uma cifra muito alta de **cancelamento de dívidas**, com patamar expressivo, cujo valor é quase o dobro da quantia arrecadada. O **ANEXO 06**, abaixo vem demonstrar o Estoque da Dívida e a movimentação de baixa, por pagamentos, trazendo percentuais comparativos, tanto para a arrecadação da Dívida Ativa Tributária, quanto para o recebimento de Multas e Juros de Mora da Dívida Ativa dos Tributos. Ei-lo:
+
+## ANEXO 06
+
+<table>   <tr>    <td colspan="5">    <p><strong>Quadro    Demonstrativo dos Valores e Percentuais recebidos a título de Multas e Juros    de Mora da Dívida Ativa dos Tributos sobre o recebimento da Dívida Ativa    Tributária – Exercícios: 2001 a 2014</strong></p>    <p> </p>    </td>   </tr>   <tr>    <td>    <p><strong>EXERCÍCIO</strong></p>    </td>    <td>    <p><strong>INSCRIÇÃO GERAL</strong></p>    <p><strong>(A)</strong></p>    </td>    <td>    <p><strong>PAGAMENTO GERAL</strong></p>    <p><strong>(B)</strong></p>    </td>    <td>    <p><strong>MULTAS+JUROS</strong></p>    <p><strong>(C)</strong></p>    </td>    <td>    <p><strong>PERCENTUAL</strong></p>    <p><strong>(C/B*100)</strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>2001</strong></p>    </td>    <td>    <p>2.755.124,09</p>    </td>    <td>    <p>1.299.382,58</p>    </td>    <td>    <p>44.878,00</p>    </td>    <td>    <p>3,45</p>    </td>   </tr>   <tr>    <td>    <p><strong>2002</strong></p>    </td>    <td>    <p>3.707.672,96</p>    </td>    <td>    <p>1.594.148,42</p>    </td>    <td>    <p>73.184,33</p>    </td>    <td>    <p>4,59</p>    </td>   </tr>   <tr>    <td>    <p><strong>2003</strong></p>    </td>    <td>    <p>5.141.494,19</p>    </td>    <td>    <p>2.041.092,61</p>    </td>    <td>    <p>53.580,13</p>    </td>    <td>    <p>2,63</p>    </td>   </tr>   <tr>    <td>    <p><strong>2004</strong></p>    </td>    <td>    <p>5.648.962,50</p>    </td>    <td>    <p>1.791.949,18</p>    </td>    <td>    <p>44.955,59</p>    </td>    <td>    <p>2,51</p>    </td>   </tr>   <tr>    <td>    <p><strong>2005</strong></p>    </td>    <td>    <p>5.426.795,31</p>    </td>    <td>    <p>2.455.224,40</p>    </td>    <td>    <p>133.603,72</p>    </td>    <td>    <p>5,44</p>    </td>   </tr>   <tr>    <td>    <p><strong>2006</strong></p>    </td>    <td>    <p>6.999.469,76</p>    </td>    <td>    <p>3.380.100,05</p>    </td>    <td>    <p>419.578,10</p>    </td>    <td>    <p>12,41</p>    </td>   </tr>   <tr>    <td>    <p><strong>2007</strong></p>    </td>    <td>    <p>11.994.948,51</p>    </td>    <td>    <p>3.308.120,74</p>    </td>    <td>    <p>749.826,83</p>    </td>    <td>    <p>22,67</p>    </td>   </tr>   <tr>    <td>    <p><strong>2008</strong></p>    </td>    <td>    <p>6.123.567,93</p>    </td>    <td>    <p>2.533.523,31</p>    </td>    <td>    <p>793.065,79</p>    </td>    <td>    <p>31,30</p>    </td>   </tr>   <tr>    <td>    <p><strong>2009</strong></p>    </td>    <td>    <p>7.046.360,51</p>    </td>    <td>    <p>2.937.049,99</p>    </td>    <td>    <p>592.525,92</p>    </td>    <td>    <p>20,17</p>    </td>   </tr>   <tr>    <td>    <p><strong>2010</strong></p>    </td>    <td>    <p>8.075.668,10</p>    </td>    <td>    <p>2.502.989,63</p>    </td>    <td>    <p>1.154.203,71</p>    </td>    <td>    <p>46,11</p>    </td>   </tr>   <tr>    <td>    <p><strong>2011</strong></p>    </td>    <td>    <p>8.881.294,69</p>    </td>    <td>    <p>2.396.578,97</p>    </td>    <td>    <p>675.481,87</p>    </td>    <td>    <p>28,19</p>    </td>   </tr>   <tr>    <td>    <p><strong>2012</strong></p>    </td>    <td>    <p>7.698.342,03</p>    </td>    <td>    <p>1.584.389,48</p>    </td>    <td>    <p>210.730,96</p>    </td>    <td>    <p>13,30</p>    </td>   </tr>   <tr>    <td>    <p><strong>2013</strong></p>    </td>    <td>    <p>12.029.273,32</p>    </td>    <td>    <p>2.527.629,44</p>    </td>    <td>    <p>57.853,49</p>    </td>    <td>    <p>2,29</p>    </td>   </tr>   <tr>    <td>    <p><strong>2014</strong></p>    </td>    <td>    <p>27.117.651,08</p>    </td>    <td>    <p>2.935.374,01</p>    </td>    <td>    <p>289.500,96</p>    </td>    <td>    <p>9,86</p>    </td>   </tr>   <tr>    <td>    <p><strong>TOTAIS</strong></p>    </td>    <td>    <p><strong>118.646.624,88</strong></p>    </td>    <td>    <p><strong>33.287.552,81</strong></p>    </td>    <td>    <p><strong>5.292.969,40</strong></p>    </td>    <td>    <p><strong>15,90</strong></p>    </td>   </tr>  </table>
+
+Estoque da Dívida Ativa **118.646.624,88** (**Cento e dezoito milhões seiscentos e quarenta e seis mil seiscentos e vinte e quatro reais oitenta e oito centavos**) arrecadados a título de Dívida Ativa Tributária R$ **33.287.552,81** (**Trinta e três milhões duzentos e oitenta e sete mil quinhentos e cinquenta e dois reais oitenta e um centavos**), representando **28,06%** (**vinte e oito inteiros e seis décimos percentuais**).
+
+O valor inscrito de Receita de Multas e Juros de Tributos da Dívida Ativa soma R$ **5.292.969,40** (**Cinco milhões duzentos e noventa e dois mil novecentos e sessenta e nove reais e quarenta centavos**) e representa **15,90%** (**quinze inteiros e noventa centésimos percentuais**), do valor total de arrecadação em Dívida Ativa.
+
+## ANEXO 07
+
+<table>   <tr>    <td colspan="7">    <p><strong>Demonstrativo    da Receita com apuração do recebimento de IPTU – Valores e Percentuais –    Exercícios: 2001 a 2014</strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>ANO</strong></p>    </td>    <td>    <p><strong>INSCRIÇÃO GERAL</strong></p>    <p><strong>(A)</strong></p>    </td>    <td>    <p><strong>IPTU </strong></p>    <p><strong>(B)</strong></p>    </td>    <td>    <p><strong>PERCENTUAL</strong></p>    <p><strong>(B/A*100)</strong></p>    </td>    <td>    <p><strong>CANCELAMENTO</strong></p>    <p><strong>GERAL (C)</strong></p>    </td>    <td>    <p><strong>CANCELAMENTO</strong></p>    <p><strong>IPTU (D)</strong></p>    </td>    <td>    <p><strong>PERCENTUAL</strong></p>    <p><strong>(D/C*100)</strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>2001</strong></p>    </td>    <td>    <p>2.755.124,09</p>    </td>    <td>    <p>1.581.330,21</p>    </td>    <td>    <p>57,40</p>    </td>    <td>    <p>1.325.519,64</p>    </td>    <td>    <p>683.126,02</p>    </td>    <td>    <p>51,54</p>    </td>   </tr>   <tr>    <td>    <p><strong>2002</strong></p>    </td>    <td>    <p>3.707.672,96</p>    </td>    <td>    <p>2.647.220,52</p>    </td>    <td>    <p>71,40</p>    </td>    <td>    <p>1.912.609,79</p>    </td>    <td>    <p>1.469.262,31</p>    </td>    <td>    <p>76,82</p>    </td>   </tr>   <tr>    <td>    <p><strong>2003</strong></p>    </td>    <td>    <p>5.141.494,19</p>    </td>    <td>    <p>2.558.824,46</p>    </td>    <td>    <p>49,77</p>    </td>    <td>    <p>2.700.405,49</p>    </td>    <td>    <p>1.280.683,83</p>    </td>    <td>    <p>47,43</p>    </td>   </tr>   <tr>    <td>    <p><strong>2004</strong></p>    </td>    <td>    <p>5.648.962,50</p>    </td>    <td>    <p>2.356.833,43</p>    </td>    <td>    <p>41,72</p>    </td>    <td>    <p>3.261.143,99</p>    </td>    <td>    <p>1.152.506,39</p>    </td>    <td>    <p>35,34</p>    </td>   </tr>   <tr>    <td>    <p><strong>2005</strong></p>    </td>    <td>    <p>5.426.795,31</p>    </td>    <td>    <p>2.454.290,67</p>    </td>    <td>    <p>45,23</p>    </td>    <td>    <p>2.271.238,10</p>    </td>    <td>    <p>1.263.769,41</p>    </td>    <td>    <p>55,64</p>    </td>   </tr>   <tr>    <td>    <p><strong>2006</strong></p>    </td>    <td>    <p>6.999.469,76</p>    </td>    <td>    <p>2.912.414,96</p>    </td>    <td>    <p>41,61</p>    </td>    <td>    <p>2.284.829,49</p>    </td>    <td>    <p>946.424,34</p>    </td>    <td>    <p>41,42</p>    </td>   </tr>   <tr>    <td>    <p><strong>2007</strong></p>    </td>    <td>    <p>11.994.948,51</p>    </td>    <td>    <p>3.937.984,95</p>    </td>    <td>    <p>32,83</p>    </td>    <td>    <p>3.371.301,16</p>    </td>    <td>    <p>1.554.604,14</p>    </td>    <td>    <p>46,11</p>    </td>   </tr>   <tr>    <td>    <p><strong>2008</strong></p>    </td>    <td>    <p>6.123.567,93</p>    </td>    <td>    <p>3.616.459,37</p>    </td>    <td>    <p>59,06</p>    </td>    <td>    <p>2.212.721,64</p>    </td>    <td>    <p>1.178.285,90</p>    </td>    <td>    <p>53,25</p>    </td>   </tr>   <tr>    <td>    <p><strong>2009</strong></p>    </td>    <td>    <p>7.046.360,51</p>    </td>    <td>    <p>3.695.032,60</p>    </td>    <td>    <p>52,44</p>    </td>    <td>    <p>1.397.540,85</p>    </td>    <td>    <p>845.758,57</p>    </td>    <td>    <p>60,52</p>    </td>   </tr>   <tr>    <td>    <p><strong>2010</strong></p>    </td>    <td>    <p>8.075.668,10</p>    </td>    <td>    <p>3.906.609,51</p>    </td>    <td>    <p>48,38</p>    </td>    <td>    <p>2.505.571,54</p>    </td>    <td>    <p>809.984,47</p>    </td>    <td>    <p>32,33</p>    </td>   </tr>   <tr>    <td>    <p><strong>2011</strong></p>    </td>    <td>    <p>8.881.294,69</p>    </td>    <td>    <p>4.527.588,16</p>    </td>    <td>    <p>50,98</p>    </td>    <td>    <p>1.543.671,94</p>    </td>    <td>    <p>884.101,24</p>    </td>    <td>    <p>57,27</p>    </td>   </tr>   <tr>    <td>    <p><strong>2012</strong></p>    </td>    <td>    <p>7.698.342,03</p>    </td>    <td>    <p>4.150.615,86</p>    </td>    <td>    <p>53,92</p>    </td>    <td>    <p>1.395.974,97</p>    </td>    <td>    <p>772.503,26</p>    </td>    <td>    <p>55,34</p>    </td>   </tr>   <tr>    <td>    <p><strong>2013</strong></p>    </td>    <td>    <p>12.029.273,32</p>    </td>    <td>    <p>3.492.599,01</p>    </td>    <td>    <p>29,03</p>    </td>    <td>    <p>1.738.598,27</p>    </td>    <td>    <p>755.742,29</p>    </td>    <td>    <p>43,47</p>    </td>   </tr>   <tr>    <td>    <p><strong>2014</strong></p>    </td>    <td>    <p>27.117.651,08</p>    </td>    <td>    <p>4.297.119,36</p>    </td>    <td>    <p>15,85</p>    </td>    <td>    <p>904.609,48</p>    </td>    <td>    <p>442.844,14</p>    </td>    <td>    <p>48,95</p>    </td>   </tr>   <tr>    <td>    <p><strong> TOTAIS</strong></p>    </td>    <td>    <p><strong>118.646.624,88</strong></p>    </td>    <td>    <p><strong>46.134.923,07</strong></p>    </td>    <td>    <p><strong>38,88</strong></p>    </td>    <td>    <p><strong>28.825.736,35</strong></p>    </td>    <td>    <p><strong>14.039.596,31</strong></p>    </td>    <td>    <p><strong>48,71</strong></p>    </td>   </tr>  </table>
+
+O **Anexo 07**, traz a análise, em separado, do IPTU. Os valores inscritos a título de IPTU – Imposto sobre a Propriedade Territorial Urbana representam **38,88%** (**trinta e oito inteiros e oitenta e oito centésimos percentuais**) e quando do cancelamento, também, foi o tributo que mais teve o seu valor cancelado, tendo **48,71%** (**quarenta e oito inteiros e setenta e um décimos percentuais**), com a expressiva cifra de R$ **14.039.596,31** (**Quatorze milhões trinta e nove mil quinhentos e noventa e seis reais e trinta e um centavos**).
+
+O lançamento do tributo, principalmente o IPTU, ‘esconde’ um número de incongruências que influenciam substancialmente, nos números, de forma negativa, exemplo: A duplicidade, o equívoco, a base cadastral desatualizada com dados incompletos ou obsoletos, isso, porque o crescimento da cidade ocorre de forma muito rápida e o Poder Público não conta com material humano capacitado e nem instrumentos próprios para acompanhamento rigoroso desse crescimento. A consequência disso é o cancelamento de mais tributos, alterando de forma negativa e surreal, a estatística da arrecadação municipal.
+
+A atual administração já tomou providências e esse quadro arcaico há muito anos instalado em breve tende a desaparecer.
+
+## ANEXO 08
+
+<table>   <tr>    <td colspan="6">    <p><strong>Análise dos Valores e Percentuais    arrecadados D. Ativa + Multa e Juros sobre a base do montante da Dívida    Inscrita – Exercícios: 2001 a 2014</strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>ANO</strong></p>    </td>    <td>    <p><strong>Dívida Ativa Inscrita</strong></p>    <p><strong> (a)</strong></p>    </td>    <td>    <p><strong>Arrecadação </strong></p>    <p><strong>(b)</strong></p>    </td>    <td>    <p><strong>Percentual</strong></p>    <p><strong>(b/a*100)</strong></p>    </td>    <td>    <p><strong>Multas + Juros</strong></p>    <p><strong>(c)</strong></p>    </td>    <td>    <p><strong>Percentual</strong></p>    <p><strong>(c/a*100)</strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>2001</strong></p>    </td>    <td>    <p>2.755.124,09</p>    </td>    <td>    <p>1.299.382,58</p>    </td>    <td>    <p>47,16</p>    </td>    <td>    <p>44.878,00</p>    </td>    <td>    <p>1,63</p>    </td>   </tr>   <tr>    <td>    <p><strong>2002</strong></p>    </td>    <td>    <p>3.707.672,96</p>    </td>    <td>    <p>1.594.148,42</p>    </td>    <td>    <p>43,00</p>    </td>    <td>    <p>73.184,33</p>    </td>    <td>    <p>1,97</p>    </td>   </tr>   <tr>    <td>    <p><strong>2003</strong></p>    </td>    <td>    <p>5.141.494,19</p>    </td>    <td>    <p>2.041.092,61</p>    </td>    <td>    <p>39,70</p>    </td>    <td>    <p>53.580,13</p>    </td>    <td>    <p>1,04</p>    </td>   </tr>   <tr>    <td>    <p><strong>2004</strong></p>    </td>    <td>    <p>5.648.962,50</p>    </td>    <td>    <p>1.791.949,18</p>    </td>    <td>    <p>31,72</p>    </td>    <td>    <p>44.955,59</p>    </td>    <td>    <p>0,80</p>    </td>   </tr>   <tr>    <td>    <p><strong>2005</strong></p>    </td>    <td>    <p>5.426.795,31</p>    </td>    <td>    <p>2.455.224,40</p>    </td>    <td>    <p>45,24</p>    </td>    <td>    <p>133.603,72</p>    </td>    <td>    <p>2,46</p>    </td>   </tr>   <tr>    <td>    <p><strong>2006</strong></p>    </td>    <td>    <p>6.999.469,76</p>    </td>    <td>    <p>3.380.100,05</p>    </td>    <td>    <p>48,29</p>    </td>    <td>    <p>419.578,10</p>    </td>    <td>    <p>5,99</p>    </td>   </tr>   <tr>    <td>    <p><strong>2007</strong></p>    </td>    <td>    <p>11.994.948,51</p>    </td>    <td>    <p>3.308.120,74</p>    </td>    <td>    <p>27,58</p>    </td>    <td>    <p>749.826,83</p>    </td>    <td>    <p>6,25</p>    </td>   </tr>   <tr>    <td>    <p><strong>2008</strong></p>    </td>    <td>    <p>6.123.567,93</p>    </td>    <td>    <p>2.533.523,31</p>    </td>    <td>    <p>41,37</p>    </td>    <td>    <p>793.065,79</p>    </td>    <td>    <p>12,95</p>    </td>   </tr>   <tr>    <td>    <p><strong>2009</strong></p>    </td>    <td>    <p>7.046.360,51</p>    </td>    <td>    <p>2.937.049,99</p>    </td>    <td>    <p>41,68</p>    </td>    <td>    <p>592.525,92</p>    </td>    <td>    <p>8,41</p>    </td>   </tr>   <tr>    <td>    <p><strong>2010</strong></p>    </td>    <td>    <p>8.075.668,10</p>    </td>    <td>    <p>2.502.989,63</p>    </td>    <td>    <p>30,99</p>    </td>    <td>    <p>1.154.203,71</p>    </td>    <td>    <p>14,29</p>    </td>   </tr>   <tr>    <td>    <p><strong>2011</strong></p>    </td>    <td>    <p>8.881.294,69</p>    </td>    <td>    <p>2.396.578,97</p>    </td>    <td>    <p>26,98</p>    </td>    <td>    <p>675.481,87</p>    </td>    <td>    <p>7,61</p>    </td>   </tr>   <tr>    <td>    <p><strong>2012</strong></p>    </td>    <td>    <p>7.698.342,03</p>    </td>    <td>    <p>1.584.389,48</p>    </td>    <td>    <p>20,58</p>    </td>    <td>    <p>210.730,96</p>    </td>    <td>    <p>2,74</p>    </td>   </tr>   <tr>    <td>    <p><strong>2013</strong></p>    </td>    <td>    <p>12.029.273,32</p>    </td>    <td>    <p>2.527.629,44</p>    </td>    <td>    <p>21,01</p>    </td>    <td>    <p>57.853,49</p>    </td>    <td>    <p>0,48</p>    </td>   </tr>   <tr>    <td>    <p><strong>2014</strong></p>    </td>    <td>    <p>27.117.651,08</p>    </td>    <td>    <p>2.935.374,01</p>    </td>    <td>    <p>10,82</p>    </td>    <td>    <p>289.500,96</p>    </td>    <td>    <p>1,07</p>    </td>   </tr>   <tr>    <td>    <p><strong>TOTAIS</strong></p>    </td>    <td>    <p><strong>118.646.624,88</strong></p>    </td>    <td>    <p><strong>33.287.552,81</strong></p>    </td>    <td>    <p><strong>28,06</strong></p>    </td>    <td>    <p><strong>5.292.969,40</strong></p>    </td>    <td>    <p><strong>4,46</strong></p>    </td>   </tr>  </table>
+
+Estoque da Dívida Ativa **118.646.624,88** (**Cento e dezoito milhões seiscentos e quarenta e seis mil seiscentos e vinte e quatro reais oitenta e oito centavos**) arrecadados a título de Dívida Ativa Tributária R$ **33.287.552,81** (**Trinta e três milhões duzentos e oitenta e sete mil quinhentos e cinquenta e dois reais oitenta e um centavos**), representando **28,06%** (**vinte e oito inteiros e seis décimos percentuais**) do valor inscrito e a Receita de Multas e Juros de Tributos da Dívida Ativa, num total de R$ **5.292.969,40** (**Cinco milhões duzentos e noventa e dois mil novecentos e sessenta e nove reais e quarenta centavos**) que representa **4,46%** (**quatro inteiros quarenta e seis centésimos**) percentuais, do valor total inscrito em Dívida Ativa.
+
+Podemos afirmar que somente **28,06%** (**vinte e oito inteiros e seis décimos percentuais**) dos tributos inscritos em Dívida Ativa têm relação com a receita arrecadada anualmente, o que significa dizer que **71,94%** (**setenta e um inteiros e noventa e quatro centésimos percentuais**) das inscrições geradoras de crédito tributário passam a constituir o cadastro de inadimplentes. Por outro lado, não menos preocupante, temos que grande parte do montante inscrito anualmente em Dívida Ativa somente uma pequena parcela consegue ser recuperada, quer sejam por ações administrativas ou judiciais.
+
+**VI – OBJETIVOS ADICIONAIS:**
+
+Apresentadas as informações que subsidiam a iniciativa pelo parcelamento dos débitos para com a Fazenda Pública Municipal com possibilidade de redução de multas, juros e encargos, a proposição objeto de lei complementar municipal tem ainda objetivos adicionais que vão além da tentativa de recuperar créditos.
+
+Adicionalmente, adota-se com a norma a possibilidade de atualização cadastral, bem como a viabilidade administrativa para futuras cobranças, especialmente para os casos de difícil execução, mas de fácil prescrição.
+
+Pesa negativamente na ação de cobrança dos créditos inscritos em dívida ativa a fragilidade do cadastro imobiliário Decerto que a correção da fragilidade e do equívoco cadastral necessita de um grande processo de recadastramento. Possivelmente pelos fatos apresentados a previsão da arrecadação da receita tributária tem levado em conta nos últimos anos o histórico da receita arrecadada em exercícios anteriores, ou seja, torna por considerarem sua metodologia o universo de contribuintes que naturalmente honram com suas obrigações perante a fazenda pública.
+
+O momento do presente projeto não poderia ser melhor. Em decisão recente, o Tribunal de Justiça de Minas Gerais está incentivando e apoiando os municípios a retirarem as ações judiciais de cobrança da Dívida Ativa e a remeterem todos os processos aos cartórios, desafogando as instâncias judiciais.
+
+**VII – CÁLCULO DO VALOR DA RENÚNCIA DE RECEITAS:**
+
+A média de arrecadação anual de multas e juros moratórios é de R$ **378.069,24** (**Trezentos e setenta e oito mil sessenta e nove reais e vinte e quatro centavos**), tendo por base os 14 (quatorze) últimos exercícios (2001-2014).
+
+A anistia variará entre os percentuais de 50%, 60%, 70%, 80% e até 100%, conforme a opção do Contribuinte. Se houver adesão de 100% (cem por cento) dos devedores no programa de anistia, o que historicamente não ocorre, a média de adesões é de 70% (setenta por cento), - segundo dados estatísticos de outros municípios -.
+
+Cumpre salientar também, que o valor mínimo para proposição de uma execução fiscal, pelo Município de Teófilo Otoni, é de R$ **500,00** (**Quinhentos reais**) por contribuinte, podendo ser o somatório de 05 (cinco) anos de inscrição, ou seja, qualquer execução com valor inferior a este valor torna-se deficitária e traz prejuízos ao erário municipal, vez que, praticamente, não cobre os custos processuais.
+
+O valor estimado de arrecadação da Receita da Dívida Ativa Tributária, nos Exercícios de 2015, 2016 e 2017, constantes no Relatório de cumprimento das Metas de Resultado Nominal e Primário importava R$ **21.684.520,00** (**Vinte e um milhões seiscentos e oitenta e quatro mil quinhentos e vinte reais**), com o incremento da soma dos valores Multas e Juros de Mora Dívida Ativa dos Tributos, dos mesmos Exercícios 2015, 2016 e 2017, a cifra final ficou majorada em R$ **23.199.247,00** (**Vinte e três milhões cento e noventa e nove mil duzentos e quarenta e sete reais**), o que corresponderá o total da previsão do valor Estimado para a Receita da Dívida Ativa Tributária, para o exercício atual e os dois subsequentes, conforme demonstra o **ANEXO 09**, abaixo:
+
+## ANEXO 09
+
+<table>   <tr>    <td colspan="4">    <p><strong>Receita da Dívida Ativa Tributária </strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>Exercícios</strong></p>    </td>    <td>    <p><strong>2015</strong></p>    </td>    <td>    <p><strong>2016</strong></p>    </td>    <td>    <p><strong>2017</strong></p>    </td>   </tr>   <tr>    <td>    <p>Valores    Previstos (LDO)</p>    </td>    <td>    <p>6.800.000,00</p>    </td>    <td>    <p>7.208.000,00</p>    </td>    <td>    <p>7.676.520,00</p>    </td>   </tr>   <tr>    <td>    <p>Valores    da Receita de Multas e Juros dos Tributos da Dívida Ativa</p>    </td>    <td>    <p>475.000,00</p>    </td>    <td>    <p>503.500,00</p>    </td>    <td>    <p>536.227,00</p>    </td>   </tr>   <tr>    <td>    <p><strong>TOTAL    COM INCREMENTO</strong></p>    </td>    <td>    <p><strong>7.275.000,00</strong></p>    </td>    <td>    <p><strong>7.711.500,00</strong></p>    </td>    <td>    <p><strong>8.212.747,00</strong></p>    </td>   </tr>   <tr>    <td>    <p><strong>TOTAL    GERAL (2015-2017)</strong></p>    </td>    <td colspan="3">    <p><strong>23.199.247,00</strong></p>    </td>   </tr>  </table>
+
+O Estoque da Dívida, relativo ao período compreendido de 2001 a 2014, apresentava a alta cifra de R$ **118.646.624,88** (**Cento e dezoito milhões seiscentos e quarenta e seis mil seiscentos e vinte e quatro reais oitenta e oito centavos**), deste valor foi cancelado R$ **28.825.736,35** (**Vinte e oito milhões oitocentos e vinte e cinco mil setecentos e trinta e seis reais e trinta e cinco centavos**) e arrecadou-se no período R$ **19.382.448,26** (**Dezenove milhões trezentos e oitenta e dois mil quatrocentos e quarenta e oito reais e vinte e seis centavos)**, ficando um saldo final de **Estoque da Dívida de** R$ **70.438.440,27** (**Setenta milhões quatrocentos e trinta e oito mil quatrocentos e quarenta reais e vinte e sete centavos**), demonstrado no **ANEXO 10**, abaixo:
+
+## ANEXO 10
+
+<table>   <tr>    <td colspan="2">    <p><strong>Demonstrativo do Estoque da Dívida –    Período compreendido de 2001-2014</strong></p>    </td>   </tr>   <tr>    <td>    <p>Estoque    da Dívida – Saldo Inicial</p>    </td>    <td>    <p>118.646.624,88</p>    </td>   </tr>   <tr>    <td>    <p>Cancelamentos</p>    </td>    <td>    <p>(28.825.736,35)</p>    </td>   </tr>   <tr>    <td>    <p>Arrecadação</p>    </td>    <td>    <p>(19.382.448,26)</p>    </td>   </tr>   <tr>    <td>    <p><strong>Saldo    Atual</strong></p>    </td>    <td>    <p><strong>70.438.440,27</strong></p>    </td>   </tr>  </table>
+
+Tomando como base, o saldo atual do Estoque da Dívida acima R$ **70.438.440,27** (**Setenta milhões quatrocentos e trinta e oito mil quatrocentos e quarenta reais e vinte e sete centavos**), constante do **ANEXO 10** e que, segundo as estatísticas de outros municípios que, historicamente, com a implementação de programa de incentivo dessa natureza, o município arrecada **70%** (**setenta por cento**) do valor da dívida o que representa uma monta de R$ **49.306.908,18** (**Quarenta e nove milhões trezentos e seis mil novecentos e oito reais e dezoito centavos**), contra uma previsão de R$ **23.199.247,00** (**Vinte e três milhões cento e noventa e nove mil duzentos e quarenta e sete reais**), indicando um superávit de R$ **26.107.661,18** (**Vinte e seis milhões cento e sete mil seiscentos e sessenta e um reais e dezoito centavos**), demonstrado abaixo, no **ANEXO 11**:
+
+## ANEXO 11
+
+<table>   <tr>    <td colspan="2">    <p><strong>Demonstrativo do Superávit – Período    compreendido de 2001-2012 </strong></p>    </td>   </tr>   <tr>    <td>    <p>Estoque    da Dívida</p>    </td>    <td>    <p>70.438.440,27</p>    </td>   </tr>   <tr>    <td>    <p>Percentual    Previsto de Arrecadação – 70%</p>    </td>    <td>    <p>49.306.908,18</p>    </td>   </tr>   <tr>    <td>    <p>Previsão    da Receita – Valores Incrementados</p>    </td>    <td>    <p>23.199.247,00</p>    </td>   </tr>   <tr>    <td>    <p><strong>Saldo    Atual</strong></p>    </td>    <td>    <p><strong>26.107.661,18</strong></p>    </td>   </tr>  </table>
+
+**SUPERÁVIT ESTIMADO APURADO NO PERÍODO = 26.107.661,18**
+
+Após apurado e demonstrado o Superávit Financeiro informamos que quanto ao atendimento ao Art. 14 da LC101/2000 há de se registrar que a concessão de benefício, com a anistia pretendida, na forma demonstrada não resultará em impacto orçamentário-financeiro negativo, no ano de sua entrada em vigor, nem nos dois subsequentes.
+
+Assim, os montantes apresentados representam apenas parâmetros financeiros, constituindo-se por indicadores do quanto se baixará dos registros de Dívida Ativa, caso se concretize a opção do contribuinte pelo parcelamento.
+
+## ANEXO 12
+
+<table>   <tr>    <td colspan="7">    <p><strong>Demonstrativo da Estimativa e Compensação    de Renúncia de Receita</strong></p>    </td>   </tr>   <tr>    <td rowspan="2">    <p>TRIBUTO</p>    </td>    <td rowspan="2">    <p>MODALIDADE</p>    </td>    <td rowspan="2">    <p>BENEFICIÁRIO</p>    </td>    <td colspan="3">    <p>RENÚNCIA    DE RECEITA PREVISTA</p>    </td>    <td rowspan="2">    <p>COMPENSAÇÃO</p>    </td>   </tr>   <tr>    <td>    <p><strong>2015</strong></p>    </td>    <td>    <p><strong>2016</strong></p>    </td>    <td>    <p><strong>2017</strong></p>    </td>   </tr>   <tr>    <td>    <p>1.9.3.1.00.00 Receita da    Dívida Ativa Tributária</p>    </td>    <td>    <p>Remissão</p>    </td>    <td>    <p>Contribuintes Devedores da Dívida Ativa Tributária</p>    </td>    <td>    <p><strong>475.000,00</strong></p>    </td>    <td>    <p><strong>503.500,00</strong></p>    </td>    <td>    <p><strong>536.227,00</strong></p>    </td>    <td>    <p><strong>Aumento da Arrecadação da Receita da Dívida    Tributária</strong>.</p>    </td>   </tr>  </table>
+
+NOTA EXPLICATIVA:
+
+1 – Este demonstrativo tem por objetivo mensurar o tributo que será objeto de renúncia fiscal de receita, identificando seus valores no atual exercício financeiro e nos outros dois subsequentes.
+
+2 – A estimativa de renúncia de receita foi auferida pela variação percentual dos exercícios anteriores. Dessa forma, fica observado o atendimento do disposto no inciso I da Art. 14 da LRF, que determina que a renúncia deva ser considerada na estimativa da receita da Lei Orçamentária e de não afetará as metas dos resultados fiscais. A compensação foi prevista com o aumento de arrecadação da Receita de Dívida Ativa Tributária e não afetará as metas de resultados fiscais constante do anexo da LDO, tanto em relação ao exercício atual como para os dois subsequentes.
+
+**VIII – CONCLUSÃO:**
+
+Sem incentivos desta natureza, tem sido mantida a média anual de arrecadação da Dívida Ativa deveras baixa, e certamente que com tal estímulo, haverá superávit na respectiva arrecadação, com claros reflexos positivos na receita estimada para 2015 e nos anos seguintes, elevando-se a uma arrecadação maior do que a prevista.
+
+Vale destacar que a arrecadação do crédito inscrito em Dívida Ativa de 2015, até junho, previsto em R$ **6.800.000,00** (**Seis milhões e oitocentos mil reais**) para uma arrecadação de R$ **233.683,99** (**Duzentos e trinta e três mil seiscentos e oitenta e três reais e noventa e nove centavos**), representando um percentual de **3,44%** (**três inteiros e quarenta e quatro centésimos percentuais**). Já no caso da Receita de Multas e Juros de Mora da Dívida Ativa dos Tributos, previu-se R$ **475.000,00** (**Quatrocentos e setenta e cinco mil reais**), com arrecadação de R$ **39.958,18** (**Trinta e nove mil novecentos e cinquenta e oito reais e dezoito centavos**), cujo percentual totaliza **8,41%** (**oito inteiros e quarenta e um centésimos percentuais**).
+
+Não se vislumbra qualquer impacto orçamentário-financeiro negativo, relativamente à medida proposta, no exercício 2015, pois, corre adequada e tranquilamente a implantação das metas propostas para este exercício e para os dois subsequentes.
+
+Esta Lei Complementar iniciará vigência no exercício de 2015, afetará positivamente as metas previstas para os exercícios de 2016 e 2017, conforme dispõe a LRF, porém, os valores estimados para os dois próximos exercícios já estão agasalhados no presente projeto.
+
+A anistia se vincula ao *princípio da legalidade estrita*, pelo que se depreende que tão-somente a lei formal pode concedê-la.
+
+Partindo desse pressuposto e depois do estudo de toda a situação fiscal do Município, com a construção deste documento de impacto orçamentário-financeiro, podemos dizer que o presente projeto de lei complementar e seus anexos estão a atender a legislação aplicável à espécie.
+
+É o relatório.
+
+S.m.j.
+
+Câmara Municipal de Teófilo Otoni, 18 de agosto de 2015
+
+**Northon Neiva Diamantino**
+
+**Presidente Câmara Municipal**
+
+JUSTIFICAÇÃO
+
+Trata-se de lei complementar com os fins de instituir, no âmbito do Município de Teófilo Otoni – Estado de Minas Gerais, o PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS 2015, destinado a promover a regularização de créditos da Fazenda Pública Municipal, decorrentes de débitos fiscais de pessoas físicas ou jurídicas, relativos a tributos municipais, cujo fato gerador tenha ocorrido até 31 de Dezembro de 2014, constituídos ou não, inscritos ou não em dívida ativa, ajuizados ou a ajuizar, com a exigibilidade suspensa ou não, inclusive os decorrentes de falta de recolhimento do imposto declarado ou retido.
+
+Segundo o Ministério do Planejamento, Orçamento e Gestão:
+
+“...Não basta que os objetivos do projeto de lei, concedendo benefício fiscal sejam os mais nobres. A CF, instrumentalizada com os mandamentos impostos pela LRF, exige que sejam quantificados e medidos os seus impactos nas finanças municipais, para permitir a avaliação da relação custo/benefício e facilitar a tarefa dos membros do Poder Legislativo de realizar a avaliação do mérito. Em outras palavras, facilitar a Câmara Municipal, neste caso, analisar as repercussões da medida na programação dos investimentos e na prestação dos serviços públicos a cargo do Município...”.
+
+Iniciamos a justificação deste projeto de lei complementar trazendo à colação a fala do Ministério do Planejamento, Orçamento e Gestão acerca do assunto em tela e dizendo que o presente projeto, construído no alicerce do banco de dados que noticia a inscrição o cancelamento e as baixas das Receitas da Dívida Ativa Tributária, no Município de Teófilo Otoni, no período compreendido a 2001/2014, com os seus anexos, está revestido de legalidade e propicia ao contribuinte legalizar sua situação fiscal, desafoga o Poder Judiciário e alivia o Município, num período de extrema escassez de recursos financeiros.
+
+Com esta proposta, pretendemos beneficiar os contribuintes inscritos em Dívida Ativa, remindo os valores que foram acrescidos ao valor principal da dívida e oferecendo condições para que estes regularizem suas situações perante o Fisco Municipal.
+
+O citado projeto de lei complementar lei objetiva propiciar um aumento da arrecadação municipal, com o retorno aos cofres públicos de um valor considerável, que se encontra atualmente paralisado, em que pese as incontáveis tentativas de recebimento ao longo dos anos.
+
+Anexo, para cumprimento das normas legais indispensáveis, procedemos a realização do Estudo de Impacto Econômico-Financeiro, com demonstração do real interesse de concessão dos incentivos pretendidos, com vistas à recuperação das receitas não adimplidas pelos contribuintes lançados.
+
+Como se trata de lei que estimula o recolhimento de tributos esperamos que seu trâmite ocorra em regime de urgência.
+
+**Northon Neiva Diamantino**
+
+**Presidente Câmara Municipal**

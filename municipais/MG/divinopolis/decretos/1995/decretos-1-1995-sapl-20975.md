@@ -1,0 +1,84 @@
+---
+titulo: "Decreto nº 1, de 23/05/2025"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto do Executivo"
+numero: "1"
+data: "2025-05-23"
+ementa: "Regulamenta o artigo noventa e quatro da Lei Complementar número nove, de três de dezembro de 1992, disciplinando a concessão de diárias e o reembolso de despesas de viagem."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/20975"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1995/20975/decreto_2.586_-_regulamenta_o_art_94_da_lc_9_de_1992.pdf"
+sha256_fonte: "ec32ce8199634604342b418eff48ab08923f40d0f3b2486446c5c07adc6dd296"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 1, de 23/05/2025
+
+Publicado no JORNAL AGENTE
+
+DECRETO Nº 2.586 ANO III - Nº 25 Edição de 30 de dezembro de 1995
+
+REGULAMENTA O ARTIGO NOVENTA E QUATRO DA LEI COMPLEMENTAR NÚMERO NOVE, DE TRÊS DE DEZEMBRO DE 1992, DISCIPLINANDO A CONCESSÃO DE DIÁRIAS E O REEMBOLSO DE DESPESAS DE VIAGEM.
+
+O Prefeito Municipal de Divinópolis, Dr. Aristides Salgado dos Santos, no uso de suas atribuições legais,
+
+DECRETA:
+
+**Artigo 1º** - Aos Servidores municipais, inclusive os comissionados, que se deslocarem do Município a serviço, será atribuída diária, a título de alimentação, no valor equivalente a uma Unidade Padrão Fiscal do Município de Divinópolis - UPFMD.
+
+**§ 1º** - Aos cargos comissionados do primeiro escalão a diária- alimentação corresponderá a uma e meia Unidade Padrão Fiscal do Município de Divinópolis - UPFMD.
+
+**Art. 1º** Aos Servidores municipais, inclusive os comissionados, que se deslocarem do Município a serviço, será atribuída diária, a título de alimentação, no valor equivalente a ½ (meia) UPFMD - Unidade Padrão Fiscal do Município de Divinópolis, sempre com prévia e expressa autorização do Secretário da pasta e sujeito à verificação de disponibilidade financeira, sob pena da despesa ser imputada ao gestor que não observar este procedimento. (Redação dada pelo Decreto nº 7.762/2007)
+
+**§ 1º** Aos cargos comissionados do primeiro escalão a diária- alimentação corresponderá a 01 (uma) Unidade Padrão Fiscal do Município de Divinópolis – UPFMD”. (Redação dada pelo Decreto nº 7.762/2007)
+
+**§ 2º** - O período de deslocamento será contado a partir do horário de saída de Divinópolis até o horário de retorno e será atribuída uma diária para cada período de 24 (vinte e quatro) horas, ou fração igual ou superior a 08 (oito) horas.
+
+**§ 3º** - A fração do período de deslocamento entre 08 (oito) e 04 (quatro) horas, ou quando o deslocamento, ida e volta, for inferior a 70 (setenta)
+
+quilômetros, dará direito somente a meia diária, ressalvando, quanto à distância, se o tempo de deslocamento se enquadra na disposição do parágrafo anterior.
+
+**§ 4º** - As diárias estipuladas neste artigo e em seus parágrafos 1º (primeiro) e 3º (terceiro) independem da apresentação de comprovantes de despesas, devendo constar junto ao recibo de pagamento o preenchimento do relatório de viagem, conforme anexo I, que faz parte integrante deste Decreto e que será vistado pelo respectivo titular da pasta a que se subordina o Servidor.
+
+**Artigo 2º** - Caso o deslocamento exija pernoite, as despesas serão acobertadas até o limite de 06 (seis) Unidades Padrão Fiscal do Município de Divinópolis, mediante a apresentação do comprovante de despesas, nota fiscal.
+
+**§ 1º** - Em se tratando de viagens internacionais, ao Distrito Federal e a cidades turísticas, as diárias-alimentação e pernoite serão acrescidas de 30% (trinta por cento).
+
+**§ 1º.** Em se tratando de viagens internacionais ou ao Distrito Federal, as diárias alimentação e pernoite serão acrescidas de 30% (trinta por cento). (Redação dada pelo Decreto nº 7.727/2007).
+
+**§ 1º.** Em se tratando de viagens internacionais, interestaduais ou ao Distrito Federal, as diárias alimentação corresponderão a 01 (uma) UPFMD, nos casos do caput do art. 1º e a 1/1/2 UPFMD nos casos do § 1º, do art. 1º deste decreto. (Redação dada pelo Decreto nº 7.802/2007)
+
+**§ 2º** - Não se incluem nas despesas de hospedagem gastos com frigobar.
+
+**§ 3º** Em caso de viagem internacional, o quantitativo correspondente à diária será em moeda corrente do local de destino, com câmbio da data do dia da liquidação. (Redação acrescentada dada pelo Decreto nº 16.570/25)
+
+**Artigo 3º** - As diárias serão pagas:
+
+I - Antecipadamente, se assim preferir o Servidor, observada a duração estimada do deslocamento e preenchido o requerimento, anexo II.
+
+II - Posteriormente, mediante requerimento, anexo III.
+
+**§ 1º** - Em qualquer caso, obrigatoriamente o processo há que ser instruído com os comprovantes de despesa, exceto as diárias previstas no artigo 1º (primeiro), parágrafos 1º (primeiro) e 3º (terceiro), desde Decreto.
+
+**§ 2º** - Na hipótese de que trata o inciso I, caberá ao Servidor, no prazo de 03 (três) dias, contados do retorno, prestar contas e, neste mesmo prazo, restituir aos cofres públicos o saldo remanescente.
+
+**§ 3º** - Caso as despesas com a hospedagem ultrapassem o valor definido no artigo 2º (segundo), poderá o titular da pasta ou o chefe do Executivo, quando se tratar de viagem de Servidor e cargo do primeiro escalão, respectivamente, autorizar a complementação, mediante justificativa fundamentada.
+
+**Artigo 4º** - As despesas com transporte (passagens, táxi, coletivo, metrô etc.) somente serão reembolsadas mediante a apresentação dos comprovantes idôneos de despesa.
+
+**Artigo 5º** - As diárias e reembolsos somente serão concedidos quando a viagem for de irrestrito interesse do Município.
+
+**Artigo 6º** - O Serviço de Controle Interno e a Secretaria de Fazenda acompanharão a regular aplicação deste Decreto.
+
+**Artigo 7º** - Aplicam-se as disposições deste Decreto a todos os órgãos da Administração Direta e Indireta do Município de Divinópolis, inclusive outras áreas em que , por força do convênio ou legislação específica, o Município tenha que suportar despesas de viagem.
+
+**Artigo 8º** - Este Decreto entrará em vigor na data de sua publicação.
+
+**Artigo 9º** - Revogam-se as disposições em contrário, especialmente o Decreto número 2.444, de 19 (dezenove) de outubro de 1994.
+
+Divinópolis, 27 de dezembro de 1995
+
+Aristides Salgado dos Santos Prefeito Municipal

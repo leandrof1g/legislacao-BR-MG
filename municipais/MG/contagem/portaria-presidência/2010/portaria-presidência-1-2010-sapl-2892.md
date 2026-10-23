@@ -1,0 +1,102 @@
+---
+titulo: "Portaria Presidência nº 1, de 22/02/2010"
+tipo: "Portaria Presidência"
+tipo_na_fonte: "Portaria Presidência"
+numero: "1"
+data: "2010-02-22"
+ementa: "FICAM NOMEADOS PARA COMPOR AS COMISSÕES PERMANENTES DA CÂMARA MUNICIPAL DE CONTAGEM NAS SESSÕES LEGISLATIVAS DE 2010, OBEDECIDOS PRECEITOS REGIMENTAIS E OS ACORDOS DAS LIDERANÇAS POLÍTICAS INSTALADAS NESSA CASA, OS SEGUINTES EDIS:"
+municipio: "Contagem"
+uf: "MG"
+codigo_ibge: "3118601"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.contagem.mg.leg.br/norma/2892"
+fonte_texto: "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2010/2892/2892_texto_integral.pdf"
+sha256_fonte: "a2f6032cf2b815e71b5fd4b21c827c47e627c644e2954c86c1b3a236a0564eb4"
+baixado_em: "2026-10-23"
+---
+
+# Portaria Presidência nº 1, de 22/02/2010
+
+Ke) “É “ s% Um ORONES
+
+PRESIDÊNCIA DA CÂMARA MUNICIPAL DE CONTAGEM
+
+PORTARIA N.o 001/2010
+
+O PRESIDENTE da CÂMARA MUNICIPAL DE CONTAGEM, no uso de suas atribuições regimentais, especialmente aquelas previstas no artigo 47, inciso. IV, alínea “a” e no artigo 88, observado o artigo 91, todos do Regimento Interno vigente,
+
+RESOLVE:
+
+**Art.1o** - Ficam nomeados para compor as COMISSÕES PERMANENTES da CÂMARA MUNICIPAL DE CONTAGEM nas Sessões Legislativas de 2010, obedecidos preceitos regimentais e os acordos das lideranças políticas instaladas nesta Casa, os seguintes Edis:
+
+COMISSÃO DE LEGISLAÇÃO JUSTIÇA E REDAÇÃO FINAL
+
+TITULARES PRESIDENTE JOÃO BOSCO NEW TEXAS - PMN
+
+VICE-PRESIDENTE sd | ROGÉRIO BRAZ DE ALMEIDA - PSB
+
+RELATOR ALEX CHIODI - PP
+
+SUPLENTES PRESIDENTE RICARDO ROCHA DE FARIA - PV
+
+RELATOR CIRO WELLINGTON CAMPOS - PSDB
+
+dede dd dk dk
+
+CÂMARA MUNICIPAL DE CONTAGEM A
+
+COMISSÃO DE ADMINISTRAÇÃO E SERVIÇOS PÚBLICOS
+
+TITULARES PRESIDENTE JOSE ROBERTO RIBEIRO - PC do B
+
+VICE-PRESIDENTE | OBELINO MARQUES DA SILVA - PT
+
+SUPLENTES PRESIDENTE ADENIR JOSE BRAVO - PTN
+
+COMISSÃO DE FINAÇAS, ORÇAMENTO E TOMADA DE CONTAS
+
+TITULARES PRESIDENTE RAVILSON DE ALMEIDA LOPES FILHO - PP
+
+VICE-PRESIDENTE AVAIR SALVADOR DE CARVALHO - PSB
+
+RELATOR ADENIR JOSE BRAVO - PTN
+
+SUPLENTES PRESIDENTE ACÁCIO DE MACEDO MATOS - PPS
+
+RELATOR WILLIAN VIEIRA BATISTA - DEM
+
+de de dd A A
+
+É LHEHS [HH EH
+
+É ESTADO DE MINAS GERAIS
+
+COMISSÃO DE DIREITOS HUMANOS E ASSISTÊNCIA SOCIAL
+
+TITULARES | PRESIDENTE ALEX CHIODI - PP
+
+VICE-PRESIDENTE OBELINO MARQUES DA SILVA - PT
+
+RELATOR JOSÉ ROBERTO RIBEIRO -PC do B
+
+SUPLENTES | PRESIDENTE RAVILSON DE ALMEIDA LOPES FILHO - PP
+
+RELATOR GIL ANTÔNIO DINIZ - PMDB
+
+COMISSÃO DE MEIO AMBIENTE, POLÍTICA URBANA RURAL E HABITAÇÃO
+
+TITULARES PRESIDENTE GIL ANTÔNIO DINIZ - PUDB
+
+SUPLENTES PRESIDENTE JOÃO BOSCO NEW TEXAS - PMN
+
+VICE-PRESIDENTE |. AVAIR SALVADOR DE CARVALHO - PSB
+
+**Art. 2o** - Esta PORTARIA entra em vigor nesta data, revogadas as disposições contrárias.
+
+REGISTRE-SE PUBLIQUE-SE E CUMPRA-SE.
+
+Palácio 1o de janeiro de, aos 22 de fevereiro de 2010.
+
+AM Prof. in nácio da Silva
+
+- Presidente -
