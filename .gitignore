@@ -1,0 +1,8 @@
+# caches e capturas brutas das coletas (reproduzíveis pelos scripts)
+_fonte/
+_indice/
+_falhas.jsonl
+*.tmp
+*.md.bak
+.mensagem_commit
+__pycache__/

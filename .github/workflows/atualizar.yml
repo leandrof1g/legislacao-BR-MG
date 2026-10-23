@@ -1,0 +1,62 @@
+name: Atualizar legislação
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # todo dia às 03:17 (horário de Brasília)
+  workflow_dispatch:
+    inputs:
+      esferas:
+        description: "Esferas a atualizar (federal, mg, municipios)"
+        default: "federal,mg,municipios"
+      revalidar:
+        description: "Revalidar a fatia do dia do acervo"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-legislacao
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Dependências do sistema
+        run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+
+      - name: Atualizar acervo
+        env:
+          ESFERAS: ${{ inputs.esferas || 'federal,mg,municipios' }}
+          REVALIDAR: ${{ github.event_name == 'schedule' || inputs.revalidar }}
+        run: |
+          extra=""
+          if [ "$REVALIDAR" != "true" ]; then extra="--sem-revalidacao"; fi
+          python3 -I scripts/atualizar.py --esferas "$ESFERAS" --tempo-max 320 $extra
+
+      - name: Publicar mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança hoje."
+            exit 0
+          fi
+          git commit -q -F .mensagem_commit
+          for i in 1 2 3; do
+            git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep $((i * 15))
+          done
+          exit 1
