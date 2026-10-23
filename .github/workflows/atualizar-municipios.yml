@@ -7,6 +7,10 @@ on:
   schedule:
     - cron: "23 7 * * *"   # todo dia às 04:23 (horário de Brasília)
   workflow_dispatch:
+    inputs:
+      tempo:
+        description: "Minutos de coleta"
+        default: "320"
 
 permissions:
   contents: write
@@ -37,7 +41,7 @@ jobs:
         run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils tesseract-ocr tesseract-ocr-por antiword
 
       - name: Coletar
-        run: python3 -I scripts/atualizar.py --esferas bh --tempo-max 320
+        run: python3 -I scripts/atualizar.py --esferas bh --tempo-max "${{ inputs.tempo || '320' }}"
 
       - name: Publicar mudanças
         run: |
