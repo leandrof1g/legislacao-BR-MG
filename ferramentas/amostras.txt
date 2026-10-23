@@ -1,60 +1,17 @@
-# Belo Horizonte
-https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao
-https://www.cmbh.mg.gov.br/
-https://prefeitura.pbh.gov.br/legislacao
-https://dom-web.pbh.gov.br/
-# Uberlândia
-https://www.camarauberlandia.mg.gov.br/atividade-legislativa
-https://www.uberlandia.mg.gov.br/
-https://www.uberlandia.mg.gov.br/prefeitura/legislacao/
-# Juiz de Fora
-https://jflegis.pjf.mg.gov.br/
-https://www.camarajf.mg.gov.br/
-https://www.pjf.mg.gov.br/
-# Betim (Instar)
-https://www.betim.mg.gov.br/portal/leis_decretos
-https://www.camarabetim.mg.gov.br/
-# Uberaba
-https://www.uberaba.mg.leg.br/processo-legislativo
-https://www.uberaba.mg.gov.br/portal/principal
-# Governador Valadares
-https://www.camaragv.mg.gov.br/
-https://www.valadares.mg.gov.br/
-https://gv.mg.gov.br/
-# Ipatinga
-https://www.ipatinga.mg.gov.br/legislacao
-https://www.ipatinga.mg.gov.br/leg_lis.aspx?cd2=10
-# Santa Luzia
-https://www.santaluzia.mg.gov.br/legislacao-9/
-# Ibirité
-https://www.ibirite.mg.gov.br/
-https://camaraibirite.mg.gov.br/
-# Poços de Caldas
-http://leis.pocosdecaldas.mg.gov.br/leis/
-# Pouso Alegre
-https://www.pousoalegre.mg.leg.br/
-https://www.pousoalegre.mg.gov.br/
-# Itabira
-https://www.itabira.mg.gov.br/
-https://www.camaraitabira.mg.gov.br/
-# São João del Rei
-https://www.saojoaodelrei.mg.gov.br/
-https://www.camarasjdr.mg.gov.br/
-# Instar (outros)
-https://www.guanhaes.mg.gov.br/portal/leis_decretos
-https://www.camaramontecarmelo.mg.gov.br/portal/leis_decretos/1/0/0/0/69/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples
-# Portal Fácil
-https://www.ourobranco.mg.gov.br/legislacao
-https://www.ipatinga.mg.gov.br/
-# Sistema Legislativo
-https://mg-extrema-camara.sistemalegislativo.com.br/
-https://mg-setelagoas-camara.sistemalegislativo.com.br/
+# CMBH — consulta de normas
+POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&numero=&assunto=&assunto2=&autoria=&tema=&paginaRequerida=1&tipoDeNorma=2c907f78064b443701064b444c020008&ano=2025
+POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&numero=&assunto=&assunto2=&autoria=&tema=&paginaRequerida=2&tipoDeNorma=2c907f78064b443701064b444c020008&ano=2025
+POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&numero=&assunto=&assunto2=&autoria=&tema=&paginaRequerida=1&tipoDeNorma=&ano=2026
+POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&paginaRequerida=1&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&tipoDeNorma=2c907f78064b443701064b444c020008&numero=11181&ano=[ano]&assunto=&assunto2=&autoria=&tema=
+https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11181/2019
+https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/resolucao/1480/1990
+https://cmbhsilint.cmbh.mg.gov.br/silinternet/servico/tiposDeNorma
 # BH — dados abertos (CKAN)
 https://dados.pbh.gov.br/api/3/action/package_search?q=legisla%C3%A7%C3%A3o&rows=50
 https://dados.pbh.gov.br/api/3/action/package_search?q=lei&rows=50
 https://dados.pbh.gov.br/api/3/action/package_search?q=decreto&rows=50
 https://dados.pbh.gov.br/api/3/action/package_search?q=di%C3%A1rio%20oficial&rows=50
-https://dados.pbh.gov.br/api/3/action/package_search?q=DOM&rows=50
-https://dados.pbh.gov.br/api/3/action/package_search?q=norma&rows=50
 https://dados.pbh.gov.br/api/3/action/package_list
 https://dados.pbh.gov.br/api/3/action/organization_list?all_fields=true
+https://dom-web.pbh.gov.br/
+https://prefeitura.pbh.gov.br/

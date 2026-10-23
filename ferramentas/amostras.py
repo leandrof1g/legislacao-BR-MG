@@ -16,7 +16,12 @@ SAIDA = sys.argv[2] if len(sys.argv) > 2 else "amostras"
 
 
 def baixar(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+    dados = None
+    if url.startswith("POST "):  # "POST <url> <corpo urlencoded>"
+        _, url, corpo = url.split(" ", 2)
+        dados = corpo.encode()
+    req = urllib.request.Request(url, data=dados, headers={"User-Agent": UA, "Accept": "*/*", **(
+        {"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8", "X-Requested-With": "XMLHttpRequest"} if dados else {})})
     try:
         with urllib.request.urlopen(req, timeout=40) as r:
             return r.status, r.geturl(), r.headers.get("Content-Type", ""), r.read(800_000)
@@ -27,7 +32,7 @@ def baixar(url):
 
 
 def nome(url):
-    p = urllib.parse.urlparse(url)
+    p = urllib.parse.urlparse(url.split(" ")[1] if url.startswith("POST ") else url)
     base = re.sub(r"[^a-zA-Z0-9]+", "_", p.netloc + p.path)[:80]
     return f"{base}_{hashlib.sha1(url.encode()).hexdigest()[:8]}"
 
