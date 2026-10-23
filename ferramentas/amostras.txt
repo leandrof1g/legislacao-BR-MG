@@ -1,17 +1,12 @@
-# CMBH — consulta de normas
-POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&numero=&assunto=&assunto2=&autoria=&tema=&paginaRequerida=1&tipoDeNorma=2c907f78064b443701064b444c020008&ano=2025
-POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&numero=&assunto=&assunto2=&autoria=&tema=&paginaRequerida=2&tipoDeNorma=2c907f78064b443701064b444c020008&ano=2025
-POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&numero=&assunto=&assunto2=&autoria=&tema=&paginaRequerida=1&tipoDeNorma=&ano=2026
-POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&paginaRequerida=1&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&tipoDeNorma=2c907f78064b443701064b444c020008&numero=11181&ano=[ano]&assunto=&assunto2=&autoria=&tema=
-https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11181/2019
-https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/resolucao/1480/1990
-https://cmbhsilint.cmbh.mg.gov.br/silinternet/servico/tiposDeNorma
-# BH — dados abertos (CKAN)
-https://dados.pbh.gov.br/api/3/action/package_search?q=legisla%C3%A7%C3%A3o&rows=50
-https://dados.pbh.gov.br/api/3/action/package_search?q=lei&rows=50
-https://dados.pbh.gov.br/api/3/action/package_search?q=decreto&rows=50
-https://dados.pbh.gov.br/api/3/action/package_search?q=di%C3%A1rio%20oficial&rows=50
-https://dados.pbh.gov.br/api/3/action/package_list
-https://dados.pbh.gov.br/api/3/action/organization_list?all_fields=true
-https://dom-web.pbh.gov.br/
-https://prefeitura.pbh.gov.br/
+# CMBH — listagem por ano (placeholders do formulário)
+POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&assunto=&assunto2=&autoria=&tema=&paginaRequerida=1&tipoDeNorma=2c907f78064b443701064b444c020008&numero=[número]&ano=2025
+POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&assunto=&assunto2=&autoria=&tema=&paginaRequerida=2&tipoDeNorma=2c907f78064b443701064b444c020008&numero=[número]&ano=2025
+POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&assunto=&assunto2=&autoria=&tema=&paginaRequerida=1&tipoDeNorma=2c907f7809dba21a0109df3553190007&numero=[número]&ano=2026
+POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&assunto=&assunto2=&autoria=&tema=&paginaRequerida=1&tipoDeNorma=&numero=[número]&ano=2026
+POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/pesquisar.php metodo=&urlNorma=&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&assunto=&assunto2=&autoria=&tema=&paginaRequerida=1&tipoDeNorma=2c907f78064b443701064b444c020008&numero=&ano=2025
+# CMBH — texto da norma (Lei 11181/2019)
+POST https://www.cmbh.mg.gov.br/sites/all/modules/consulta_normas/proxy.php metodo=&paginaRequerida=1&urlNorma=https%3A%2F%2Fcmbhsilint.cmbh.mg.gov.br%2Fsilinternet%2Fservico%2Fnorma%3Fid%3D2c907f766c440a9f016c760938210075&idNorma=&buscarEmendas=&buscaViaUrl=&mobile=0&tipoDeNorma=&numero=&ano=&assunto=&assunto2=&autoria=&tema=
+# Prefeitura BH
+https://fazenda.pbh.gov.br/PDA/Legislacao.asp
+https://dom-web.pbh.gov.br/visualizacao/ultimas-edicoes
+https://prefeitura.pbh.gov.br/dom
