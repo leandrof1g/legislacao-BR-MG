@@ -14,6 +14,7 @@ pedidos que a página faz (pesquisar.php para listar, proxy.php para detalhar).
 """
 import datetime as dt
 import glob
+import gzip
 import hashlib
 import html
 import json
@@ -62,7 +63,13 @@ def post(script, campos):
         rede.limite.esperar()
         try:
             with urllib.request.urlopen(req, timeout=120) as r:
-                return r.read().decode("utf-8", "replace")
+                dados = r.read()
+                if r.headers.get("Content-Encoding") == "gzip" or dados[:2] == b"\x1f\x8b":
+                    dados = gzip.decompress(dados)
+            texto = dados.decode("utf-8", "replace")
+            if "resultadoPesquisa_normas" not in texto:
+                raise ValueError("resposta da CMBH fora do formato esperado: " + texto[:120])
+            return texto
         except Exception as e:  # noqa: BLE001
             ultimo = e
             time.sleep(3 * (n + 1) ** 2)
