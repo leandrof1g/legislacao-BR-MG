@@ -49,3 +49,12 @@ https://www.ipatinga.mg.gov.br/
 # Sistema Legislativo
 https://mg-extrema-camara.sistemalegislativo.com.br/
 https://mg-setelagoas-camara.sistemalegislativo.com.br/
+# BH — dados abertos (CKAN)
+https://dados.pbh.gov.br/api/3/action/package_search?q=legisla%C3%A7%C3%A3o&rows=50
+https://dados.pbh.gov.br/api/3/action/package_search?q=lei&rows=50
+https://dados.pbh.gov.br/api/3/action/package_search?q=decreto&rows=50
+https://dados.pbh.gov.br/api/3/action/package_search?q=di%C3%A1rio%20oficial&rows=50
+https://dados.pbh.gov.br/api/3/action/package_search?q=DOM&rows=50
+https://dados.pbh.gov.br/api/3/action/package_search?q=norma&rows=50
+https://dados.pbh.gov.br/api/3/action/package_list
+https://dados.pbh.gov.br/api/3/action/organization_list?all_fields=true
