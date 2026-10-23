@@ -99,8 +99,8 @@ Requer Python 3.12+, `poppler-utils` (pdftotext) e, para OCR, `tesseract-ocr` co
 O repositório é grande (~250 mil arquivos). Para baixar só o que interessa:
 
 ```bash
-git clone --filter=blob:none --sparse https://github.com/leandrof1g/legisla-o-BR-MG
-cd legisla-o-BR-MG
+git clone --filter=blob:none --sparse https://github.com/leandrof1g/legislacao-BR-MG
+cd legislacao-BR-MG
 git sparse-checkout set estaduais/MG          # ou federal, municipais/MG ...
 ```
 
