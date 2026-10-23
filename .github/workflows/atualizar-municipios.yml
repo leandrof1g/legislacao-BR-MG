@@ -1,0 +1,56 @@
+name: Atualizar municípios (sistemas próprios)
+
+# Municípios cuja legislação não está no SAPL e tem coletor próprio (scripts/municipio_*.py).
+# Roda em paralelo à atualização principal; a carga inicial avança um pouco a cada dia.
+
+on:
+  schedule:
+    - cron: "23 7 * * *"   # todo dia às 04:23 (horário de Brasília)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-municipios
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            scripts
+            municipais
+            atualizacoes
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Dependências do sistema
+        run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils tesseract-ocr tesseract-ocr-por antiword
+
+      - name: Coletar
+        run: python3 -I scripts/atualizar.py --esferas bh --tempo-max 320
+
+      - name: Publicar mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A scripts municipais atualizacoes
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança hoje."
+            exit 0
+          fi
+          git commit -q -F .mensagem_commit
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep $((i * 20))
+          done
+          exit 1

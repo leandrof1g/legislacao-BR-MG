@@ -294,7 +294,45 @@ def ocr(bruto):
         return "\f".join(textos)
 
 
+def texto_para_md(texto):
+    """Texto corrido (um parágrafo por linha, como sai do antiword) em Markdown, com artigos em negrito."""
+    paragrafos = [re.sub(r"\s+", " ", p).strip() for p in re.split(r"\n\s*\n|\n(?=\S)", texto)]
+    saida = []
+    for p in paragrafos:
+        if not p:
+            continue
+        p = re.sub(r"^(Art\.?\s*\d+[º°o]?(?:-[A-Z])?\.?|Par[áa]grafo [úu]nico\.?|§\s*\d+[º°o]?\.?)",
+                   r"**\1**", p, flags=re.I)
+        saida.append(p)
+    return "\n\n".join(saida) + "\n"
+
+
+def word_para_texto(bruto):
+    """Texto de .doc (antiword) ou .docx (XML do documento). Vazio se não for Word ou faltar a ferramenta."""
+    if bruto.startswith(b"\xd0\xcf\x11\xe0") and shutil.which("antiword"):
+        with tempfile.NamedTemporaryFile(suffix=".doc") as f:
+            f.write(bruto)
+            f.flush()
+            r = subprocess.run(["antiword", "-m", "UTF-8.txt", "-w", "0", f.name], capture_output=True, timeout=300)
+            return r.stdout.decode("utf-8", "replace")
+    if bruto.startswith(b"PK"):
+        import io
+        import zipfile
+        try:
+            with zipfile.ZipFile(io.BytesIO(bruto)) as z:
+                xml = z.read("word/document.xml").decode("utf-8", "replace")
+        except (zipfile.BadZipFile, KeyError):
+            return ""
+        xml = re.sub(r"</w:p>", "\n\n", xml)
+        xml = re.sub(r"<w:tab/>", "\t", xml)
+        return re.sub(r"<[^>]+>", "", xml).replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
+    return ""
+
+
 def converter(bruto, url, ctype):
+    texto = word_para_texto(bruto)
+    if len(re.sub(r"\W", "", texto)) >= 80:
+        return texto_para_md(texto), None
     try:
         corpo, motivo = comum.documento_para_md(bruto, url, ctype)
     except Exception as e:  # noqa: BLE001 — ex.: .doc sem conversor no Linux

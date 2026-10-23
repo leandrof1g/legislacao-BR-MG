@@ -39,6 +39,7 @@ sys.path.insert(0, os.path.join(AQUI, "estados"))
 import baixar_federal as fed  # noqa: E402
 import comum  # noqa: E402
 import mg  # noqa: E402
+import municipio_bh  # noqa: E402
 import municipios_mg  # noqa: E402
 
 RAIZ = os.path.abspath(os.path.join(AQUI, ".."))
@@ -400,11 +401,11 @@ def municipios(tempo_max, workers):
 
 # ---------------------------------------------------------------- relatório
 
-def relatorio(inicio, interrompido):
+def relatorio(inicio, interrompido, sufixo=""):
     total = {k: len(v) for k, v in REGISTRO.items()}
     pasta = os.path.join(RAIZ, "atualizacoes", str(HOJE.year))
     os.makedirs(pasta, exist_ok=True)
-    caminho = os.path.join(pasta, f"{HOJE.isoformat()}.md")
+    caminho = os.path.join(pasta, f"{HOJE.isoformat()}{sufixo}.md")
     linhas = [f"# Atualização de {HOJE.strftime('%d/%m/%Y')}", "",
               f"- Normas novas: **{total['novas']}**",
               f"- Normas com texto alterado: **{total['alteradas']}**",
@@ -454,6 +455,7 @@ def main():
     # MG primeiro (rápido); municípios com tempo próprio (a carga inicial é longa); federal por último
     ordem = [("mg", lambda: minas(a.ciclo, not a.sem_revalidacao, a.workers)),
              ("municipios", lambda: municipios(a.tempo_municipios, 8)),
+             ("bh", lambda: municipio_bh.coletar(registrar, (PRAZO - time.monotonic()) / 60 if PRAZO else 0)),
              ("federal", lambda: federal(a.ciclo, not a.sem_revalidacao, a.workers))]
     for nome, fn in ordem:
         if nome not in esferas:
@@ -466,7 +468,8 @@ def main():
         except Exception as e:  # noqa: BLE001 — uma fonte fora do ar não derruba as outras
             print(f"[{nome}] ERRO: {e}", flush=True)
             registrar("falhas", nome, str(e)[:300])
-    relatorio(inicio, interrompido)
+    padrao = {"federal", "mg", "municipios"}
+    relatorio(inicio, interrompido, "" if set(esferas) <= padrao else "-" + "-".join(e for e in esferas if e not in padrao))
     for bak in glob.glob(os.path.join(RAIZ, "**", "*.md.bak"), recursive=True):
         os.replace(bak, bak[:-4])
     return 0

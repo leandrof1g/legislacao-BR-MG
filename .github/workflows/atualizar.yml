@@ -34,7 +34,7 @@ jobs:
           python-version: "3.13"
 
       - name: Dependências do sistema
-        run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils tesseract-ocr tesseract-ocr-por
+        run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils tesseract-ocr tesseract-ocr-por antiword
 
       - name: Atualizar acervo
         env:
