@@ -1,0 +1,30 @@
+name: Amostras de fontes
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  amostras:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: ferramentas
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Baixar amostras
+        run: python3 -I ferramentas/amostras.py ferramentas/amostras.txt /tmp/amostras
+      - name: Publicar na branch amostras
+        run: |
+          cd /tmp/amostras
+          git init -q -b amostras
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -q -m "Amostras $(date +%F-%H%M)"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" amostras
