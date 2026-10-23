@@ -13,7 +13,8 @@ Roda todo dia pelo GitHub Actions (.github/workflows/atualizar.yml) e faz, em ca
 Um arquivo só é regravado se o texto mudou de fato: diferenças só de formatação, de data de
 coleta ou de hash de captura não geram commit.
 
-Fontes: Senado/normas.leg.br (federal), ALMG Dados Abertos (MG) e API do SAPL das câmaras (municípios).
+Fontes: Senado/normas.leg.br (federal), ALMG Dados Abertos (MG) e API do SAPL das câmaras
+(municípios mineiros com mais de 30 mil habitantes; ver scripts/municipios_mg.py).
 
     python3 -I scripts/atualizar.py                       # tudo
     python3 -I scripts/atualizar.py --esferas mg --sem-revalidacao
@@ -22,7 +23,6 @@ Fontes: Senado/normas.leg.br (federal), ALMG Dados Abertos (MG) e API do SAPL da
 import argparse
 import datetime as dt
 import glob
-import hashlib
 import json
 import os
 import re
@@ -39,6 +39,7 @@ sys.path.insert(0, os.path.join(AQUI, "estados"))
 import baixar_federal as fed  # noqa: E402
 import comum  # noqa: E402
 import mg  # noqa: E402
+import municipios_mg  # noqa: E402
 
 RAIZ = os.path.abspath(os.path.join(AQUI, ".."))
 HOJE = dt.date.today()
@@ -388,125 +389,13 @@ def minas(ciclo, revalidar, workers):
         em_paralelo([(md, (compiladas[md], "texto atualizado na fonte")) for md in hoje], refazer, workers, "mg:revalidacao")
 
 
-# ---------------------------------------------------------------- municípios (SAPL)
+# ---------------------------------------------------------------- municípios
 
-RAIZ_MUN = os.path.join(RAIZ, "municipais", "MG")
-sapl_rede = comum.Rede(rps=2)
-
-
-def camaras_sapl():
-    """Câmaras com SAPL já presentes no acervo: host -> (pasta do município, nome, código IBGE)."""
-    camaras, existentes = {}, set()
-    config = os.path.join(AQUI, "camaras_sapl_mg.json")
-    if os.path.exists(config):
-        with open(config, encoding="utf-8") as f:
-            for host, v in json.load(f).items():
-                camaras[host] = (v["pasta"], v["municipio"], v.get("codigo_ibge", ""))
-    for md in glob.glob(os.path.join(RAIZ_MUN, "*", "*", "*", "*.md")):
-        m = re.search(r"-sapl-(\d+)\.md$", md)
-        cab = ler_cabecalho(md)
-        host = re.match(r"https?://([^/]+)/", cab.get("fonte") or "")
-        if not host or not host[1].startswith("sapl."):
-            continue
-        if m:
-            existentes.add((host[1], m[1]))
-        pasta = os.path.relpath(md, RAIZ_MUN).split(os.sep)[0]
-        camaras.setdefault(host[1], (pasta, cab.get("municipio") or pasta, cab.get("codigo_ibge") or ""))
-    return camaras, existentes
-
-
-def sapl_api(host, caminho):
-    st, dados, _ = sapl_rede.get(f"https://{host}/api/{caminho}", "application/json", tentativas=2, timeout=60)
-    if st != 200 or not dados:
-        return None
-    try:
-        return json.loads(dados)
-    except json.JSONDecodeError:
-        return None
-
-
-def sapl_normas(host, ano):
-    tipos, normas, pag = {}, [], 1
-    while pag <= 10:
-        d = sapl_api(host, f"norma/tiponormajuridica/?page_size=100&page={pag}")
-        if not d:
-            break
-        for t in d.get("results", []):
-            tipos[t["id"]] = t.get("descricao") or t.get("__str__") or ""
-        if not (d.get("pagination") or {}).get("next_page"):
-            break
-        pag += 1
-    pag = 1
-    while pag <= 20:
-        checar_prazo()
-        d = sapl_api(host, f"norma/normajuridica/?ano={ano}&page_size=100&page={pag}")
-        if not d:
-            break
-        normas += [n for n in d.get("results", []) if str(n.get("ano")) == str(ano)]
-        if not (d.get("pagination") or {}).get("next_page"):
-            break
-        pag += 1
-    return tipos, normas
-
-
-def sapl_gravar(host, camara, tipo_fonte, n):
-    pasta_mun, municipio, ibge = camara
-    url = (n.get("texto_integral") or "").replace("http://", "https://")
-    if not url:
-        return "sem_texto"
-    st, bruto, ctype = sapl_rede.get(url, tentativas=2, timeout=120)
-    if st != 200 or not bruto:
-        registrar("falhas", f"municipais/MG/{pasta_mun}", f"SAPL {host} norma {n['id']}: HTTP {st}")
-        return "sem_texto"
-    try:
-        corpo, motivo = comum.documento_para_md(bruto, url, ctype)
-    except Exception as e:  # noqa: BLE001 — ex.: .doc sem conversor no Linux
-        corpo, motivo = None, f"conversão falhou: {e}"[:200]
-    if not corpo:
-        registrar("falhas", f"municipais/MG/{pasta_mun}", f"SAPL {host} norma {n['id']}: {motivo}")
-        return "sem_texto"
-    pasta, tipo = comum.canonico(tipo_fonte)
-    numero = str(n.get("numero") or "").strip()
-    data = n.get("data") or ""
-    try:
-        data_br = dt.date.fromisoformat(data).strftime("%d/%m/%Y")
-    except ValueError:
-        data_br = ""
-    titulo = f"{tipo} nº {numero}" + (f", de {data_br}" if data_br else f"/{n['ano']}")
-    slug = f"{pasta}-{comum.slugify(numero.replace('.', '')) or 'sn'}-{n['ano']}-sapl-{n['id']}"
-    md = os.path.join(RAIZ_MUN, pasta_mun, pasta, str(n["ano"]), slug + ".md")
-    meta = [("titulo", titulo), ("tipo", tipo), ("tipo_na_fonte", tipo_fonte), ("numero", numero), ("data", data),
-            ("ementa", " ".join((n.get("ementa") or "").split())), ("municipio", municipio), ("uf", "MG"),
-            ("codigo_ibge", ibge), ("versao_texto", "texto integral anexado no SAPL municipal"),
-            ("fonte", f"https://{host}/norma/{n['id']}"), ("fonte_texto", url),
-            ("sha256_fonte", hashlib.sha256(bruto).hexdigest())]
-    linhas = ["---"] + [f"{k}: {comum.yaml_str(v)}" for k, v in meta]
-    linhas += [f"baixado_em: {comum.yaml_str(HOJE.isoformat())}", "---", "", f"# {titulo}", "", ""]
-    os.makedirs(os.path.dirname(md), exist_ok=True)
-    with open(md, "w", encoding="utf-8") as f:
-        f.write("\n".join(linhas) + corpo.strip() + "\n")
-    registrar("novas", md, (n.get("ementa") or "")[:160])
-    return "ok"
-
-
-def municipios(workers):
-    camaras, existentes = camaras_sapl()
-    print(f"[municipios] {len(camaras)} câmaras com SAPL", flush=True)
-
-    def camara(host):
-        checar_prazo()
-        cont = 0
-        for ano in (HOJE.year - 1, HOJE.year):
-            tipos, normas = sapl_normas(host, ano)
-            for n in normas:
-                if (host, str(n["id"])) in existentes:
-                    continue
-                checar_prazo()
-                if sapl_gravar(host, camaras[host], tipos.get(n.get("tipo"), "Norma"), n) == "ok":
-                    cont += 1
-        return f"{cont} novas" if cont else "sem novidade"
-
-    em_paralelo(sorted(camaras), camara, workers, "municipios")
+def municipios(tempo_max, workers):
+    restante = (PRAZO - time.monotonic()) / 60 if PRAZO else 0
+    limite = min(x for x in (tempo_max, restante) if x) if (tempo_max or restante) else 0
+    municipios_mg.coletar(registrar, max(limite, 1) if limite else 0, workers)
+    checar_prazo()
 
 
 # ---------------------------------------------------------------- relatório
@@ -554,15 +443,17 @@ def main():
     ap.add_argument("--sem-revalidacao", action="store_true")
     ap.add_argument("--tempo-max", type=float, default=0, help="minutos; 0 = sem limite")
     ap.add_argument("--workers", type=int, default=3)
+    ap.add_argument("--tempo-municipios", type=float, default=120,
+                    help="minutos para a etapa municipal (a carga inicial continua no dia seguinte)")
     a = ap.parse_args()
     inicio = time.time()
     if a.tempo_max:
         PRAZO = time.monotonic() + a.tempo_max * 60
     esferas = [e.strip() for e in a.esferas.split(",") if e.strip()]
     interrompido = False
-    # municípios e MG primeiro: são rápidos; a revalidação federal, a mais longa, fica por último
-    ordem = [("municipios", lambda: municipios(a.workers)),
-             ("mg", lambda: minas(a.ciclo, not a.sem_revalidacao, a.workers)),
+    # MG primeiro (rápido); municípios com tempo próprio (a carga inicial é longa); federal por último
+    ordem = [("mg", lambda: minas(a.ciclo, not a.sem_revalidacao, a.workers)),
+             ("municipios", lambda: municipios(a.tempo_municipios, 8)),
              ("federal", lambda: federal(a.ciclo, not a.sem_revalidacao, a.workers))]
     for nome, fn in ordem:
         if nome not in esferas:

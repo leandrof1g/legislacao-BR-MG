@@ -16,7 +16,7 @@ de cada norma — **atualizadas automaticamente todos os dias**.
 | Constituição Federal | `constituicao.md` | 1 | Planalto |
 | Federal | `federal/` | ~166 mil | Senado Federal / [normas.leg.br](https://normas.leg.br) |
 | Minas Gerais | `estaduais/MG/` | ~85 mil | [ALMG — Dados Abertos](https://dadosabertos.almg.gov.br) |
-| Municípios mineiros | `municipais/MG/<municipio>/` | ~900 (95 municípios) | SAPL das câmaras municipais |
+| Municípios mineiros | `municipais/MG/<municipio>/` | em expansão | SAPL das câmaras municipais |
 
 Federal: leis ordinárias e complementares, decretos-lei, decretos (numerados e não numerados),
 medidas provisórias, emendas constitucionais, decretos legislativos e resoluções do Senado, da
@@ -25,8 +25,15 @@ Câmara e do Congresso.
 Minas Gerais: Constituição Estadual, emendas, leis ordinárias, complementares e delegadas,
 decretos, resoluções, deliberações e portarias publicadas na base da ALMG.
 
+Municípios: todos os de Minas Gerais com **mais de 30 mil habitantes** (IBGE), mais os 95 que vieram
+do acervo original. A lista e a situação de cada um — se tem fonte automática, quantas normas já
+foram coletadas, se a carga inicial terminou — estão em
+[`municipais/MG/COBERTURA.md`](municipais/MG/COBERTURA.md). A coleta automática usa o SAPL
+(sistema do Interlegis usado por boa parte das câmaras); municípios cuja câmara não usa o SAPL
+aparecem como “sem fonte automática” e precisam de coletor próprio.
+
 **Não estão aqui:** normas técnicas e atos internos de órgãos (por exemplo, as Instruções Técnicas
-do CBMMG), nem a legislação de municípios que não usam o SAPL.
+do CBMMG).
 
 ## Como os arquivos são organizados
 
@@ -67,7 +74,11 @@ O workflow [`.github/workflows/atualizar.yml`](.github/workflows/atualizar.yml) 
    com o texto compilado.
 3. **Revalida o acervo em rodízio** — a cada dia, 1/30 das normas com texto compilado (federais e
    mineiras) é conferido na fonte; em 30 dias o acervo inteiro é revisto.
-4. **Atualiza a situação das normas mineiras** — o índice da ALMG informa a situação (vigente,
+4. **Municípios** — a cada 30 dias refaz a lista de municípios acima de 30 mil habitantes e
+   procura o SAPL de cada câmara. Para câmara nova, faz a carga inicial (todo o histórico, das
+   normas mais recentes para as mais antigas, até 2 h por dia, retomando no dia seguinte); depois,
+   só as normas novas. PDFs escaneados passam por OCR.
+5. **Atualiza a situação das normas mineiras** — o índice da ALMG informa a situação (vigente,
    revogada…) de todas as normas; mudanças entram no cabeçalho.
 
 Um arquivo só é regravado se o texto mudou de fato. O resumo de cada dia fica em
@@ -81,7 +92,7 @@ python3 -I scripts/atualizar.py                         # tudo
 python3 -I scripts/atualizar.py --esferas mg --sem-revalidacao
 ```
 
-Requer Python 3.12+ e `pdftotext` (pacote `poppler-utils`) para os PDFs municipais.
+Requer Python 3.12+, `poppler-utils` (pdftotext) e, para OCR, `tesseract-ocr` com o idioma português.
 
 ## Como baixar só uma parte
 
