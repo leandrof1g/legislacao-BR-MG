@@ -1,0 +1,57 @@
+---
+titulo: "Decreto nº 7785/1993"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "7785"
+data: ""
+data_publicacao: ""
+ementa: "Dá nova redação aos Artigos 1º e 2º do Decreto nº 7.738, de 13 de novembro de 1993."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166e011afe1ce6"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/7785/1993"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f762bcaf3d5012bcfb9d0de00f0"
+id_documento: "2c907f762bcaf3d5012bcfb9d0de00f0"
+sha256_fonte: "59cce1bf67f7fe5603b9e146bad135a2618bf299443ef26461932a67e9d571f7"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 7785/1993
+
+DECRETO Nº 7.785, DE 30 DE DEZEMBRO DE 1993
+
+Dá nova redação aos Artigos 1° e 2° do Decreto n° 7.738 de 13 de novembro de 1993.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 8° da Lei Orçamentária n° 6.288, de 11 de dezembro de 1992 e no artigo 14 da Lei Municipal n° 6.364, de 30 de julho de 1993, decreta:
+
+**Art. 1°** - Os artigos 1° e 2° do Decreto n° 7.738, de 13 de novembro de 1993, passam a ter a seguinte redação:
+
+"Art. 1° - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de CR$1.202.667.924,00 (um bilhão, duzentos e dois milhões, seiscentos e sessenta e sete mil e novecentos e vinte e quatro cruzeiros reais), para atender às seguintes programações:
+
+0201.03070202.004 - 3120 - Fonte 3.0 405.000,00 0201.03070202.004 - 3132 - Fonte 3.0 1.350.000,00 0300.03070212.006 - 3120 - Fonte 3.0 389.000,00 0300.03070212.006 - 3131 - Fonte 3.0 180.000,00 0300.03070212.006 - 3132 - Fonte 3.0 512.000,00 0400.03080322.008 - 3120 - Fonte 3.0 50.000,00 0400.03080322.008 - 3132 - Fonte 3.0 265.000,00 0500.03070212.009 - 3120 - Fonte 3.0 97.000,00 0500.03070212.009 - 3132 - Fonte 3.0 78.000,00 0600.03070212.010 - 3120 - Fonte 3.0 54.000,00 0600.03070212.010 - 3131 - Fonte 3.0 135.000,00 0600.03070212.010 - 3132 - Fonte 3.0 675.000,00 0600.02040142.011 - 3132 - Fonte 3.0 1.215.000,00 0600.02040302.012 - 3120 - Fonte 3.0 135.000,00 0600.02040302.012 - 3131 - Fonte 3.0 135.000,00 0600.02040302.012 - 3132 - Fonte 3.0 945.000,00 0800.03070211.229 - 4120 - Fonte 4.0 3.024.410,00 0800.03070212.013 - 3120 - Fonte 3.0 434.000,00 0800.03070212.013 - 3132 - Fonte 3.0 1.273.000,00 0800.03070242.013 - 3132 - Fonte 3.0 5.100.000,00 0800.03070212.018 - 3120 - Fonte 3.0 34.000,00 0800.03070212.018 - 3132 - Fonte 3.0 68.000,00 0800.03070242.018 - 3132 - Fonte 3.0 19.600.000,00 0800.03070212.019 - 3132 - Fonte 3.0 1.321.000,00 0800.03070212.020 - 3131 - Fonte 3.0 2.228.000,00 0800.03070212.020 - 3132 - Fonte 3.0 93.000,00 0800.03070212.022 - 3132 - Fonte 3.0 2.181.000,00 0800.03070242.022 - 3132 - Fonte 3.0 6.300.000,00 0800.03070242.023 - 3132 - Fonte 3.0 1.500.000,00 0800.03070212.024 - 3120 - Fonte 3.0 8.168.000,00 0800.03070212.024 - 3132 - Fonte 3.0 4.231.000,00 0800.03070212.026 - 3132 - Fonte 3.0 14.118.000,00 0800.03070212.110 - 3132 - Fonte 3.0 125.000,00 0800.03070242.110 - 3132 - Fonte 3.0 3.300.000,00 1100.08422172.041 - 3132 - Fonte 3.0 144.855,00 1100.08421882.043 - 4120 - Fonte 4.0 36.694.297,00 1100.08421881.226 - 4120 - Fonte 4.0 6.778.210,00 1300.03080212.013 - 3120 - Fonte 3.0 661.000,00 1300.03080212.013 - 3131 - Fonte 3.0 700.000,00 1300.03080212.013 - 3132 - Fonte 3.0 2.197.000,00 1300.03080242.013 - 3132 - Fonte 3.0 800.000,00 1300.03080302.052 - 3132 - Fonte 3.0 2.051.000,00 1300.03080242.052 - 3132 - Fonte 3.0 10.700.000,00 1300.03080242.053 - 3132 - Fonte 3.0 46.900.000,00 1300.03080302.053 - 3132 - Fonte 3.0 3.792.000,00 1300.03080242.054 - 3132 - Fonte 3.0 43.600.000,00 1300.03080302.054 - 3132 - Fonte 3.0 5.519.000,00 1300.03080242.055 - 3132 - Fonte 3.0 6.300.000,00 1300.03080322.055 - 3132 - Fonte 3.0 519.000,00 1300.03080242.056 - 3132 - Fonte 3.0 2.500.000,00 1400.03070212.013 - 3120 - Fonte 3.0 324.000,00 1400.03070212.013 - 3132 - Fonte 3.0 472.000,00 1400.03070212.058 - 3120 - Fonte 3.0 68.000,00 1400.03070212.058 - 3132 - Fonte 3.0 61.000,00 1400.03070212.059 - 3120 - Fonte 3.0 41.000,00 1400.06301782.060 - 3120 - Fonte 3.0 335.000,00 1400.06301782.060 - 3132 - Fonte 3.0 350.000,00 1400.06301782.060 - 3214 - Fonte 3.0 300.000,00 1400.07403232.062 - 3120 - Fonte 3.0 15.000,00 1400.07403232.062 - 3132 - Fonte 3.0 337.000,00 1500.10171062.067 - 3120 - Fonte 3.0 204.000,00 1500.10171062.067 - 3131 - Fonte 3.0 354.000,00 1500.10171062.067 - 3132 - Fonte 3.0 1.591.000,00 1500.10171062.068 - 3214 - Fonte 3.0 16.032.000,00 1500.10770212.013 - 3120 - Fonte 3.0 837.000,00 1500.10770212.013 - 3131 - Fonte 3.0 110.000,00 1500.10770212.013 - 3132 - Fonte 3.0 1.799.000,00 1500.10774562.063 - 3120 - Fonte 3.0 383.000,00 1500.10774562.063 - 3131 - Fonte 3.0 46.000,00 1500.10774562.063 - 3132 - Fonte 3.0 827.000,00 1500.10774562.065 - 3120 - Fonte 3.0 173.000,00 1500.10774562.065 - 3131 - Fonte 3.0 110.000,00 1500.10774562.065 - 3132 - Fonte 3.0 844.000,00 1500.10773282.066 - 3120 - Fonte 3.0 882.000,00 1500.10773282.066 - 3131 - Fonte 3.0 558.000,00 1500.10773282.066 - 3132 - Fonte 3.0 14.674.000,00 1600.03090242.072 - 3132 - Fonte 3.0 10.900.000,00 1800.03070212.078 - 3131 - Fonte 3.0 405.000,00 1800.03070212.078 - 3132 - Fonte 3.0 2.605.000,00 1800.08421882.080 - 3132 - Fonte 3.0 9.664.000,00 1800.08482472.081 - 3132 - Fonte 3.0 486.000,00 1800.10603282.079 - 3132 - Fonte 3.0 432.000,00 1800.16915751.230 - 3132 - Fonte 3.0 432.000,00 1900.03070212.078 - 3131 - Fonte 3.0 203.000,00 1900.03070212.078 - 3132 - Fonte 3.0 14.300.000,00 1900.08421882.080 - 3132 - Fonte 3.0 5.000.000,00 1900.08482472.081 - 3132 - Fonte 3.0 1.809.000,00 2100.08482472.081 - 3132 - Fonte 3.0 530.000,00 2702.03070212.092 - 3211 - Fonte 5.0 159.100.000,00 2702.10573162.096 - 3212 - Fonte 5.0 29.673.802,00 2702.10603252.093 - 3211 - Fonte 5.0 510.000.000,00 2702.11653632.098 - 3212 - Fonte 5.0 30.000.000,00 2702.03070212.085 - 3120 - Fonte 3.0 143.000,00 2703.03070212.085 - 3132 - Fonte 3.0 66.576.350,00 2703.03070212.086 - 3132 - Fonte 3.0 3.490.000,00 2703.03070232.002 - 3132 - Fonte 3.0 5.565.000,00 2703.14784722.083 - 3259 - Fonte 1.0 60.052.000,00
+
+**Art. 2°** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de CR$286.394.638,00 (duzentos e oitenta e seis milhões, trezentos e noventa e quatro mil e seiscentos e trinta e oito cruzeiros reais), para atender às seguintes programações:
+
+1800.13754282.076 - 3132 - Fonte 3.0 6.588.000,00 1900.13754282.076 - 3132 - Fonte 3.0 4.702.000,00 2702.13754282.094 - 3211 - Fonte 5.0 51.100.000,00 2703.15824952.003 - 3251 - Fonte 1.0 224.004.638,00"
+
+**Art. 3°** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 30 de dezembro de 1993
+
+Patrus Ananias de Sousa
+
+Prefeito de Belo Horizonte
+
+Luiz Soares Dulci
+
+Secretário Municipal de Governo
+
+Maurício Borges Lemos
+
+Secretário Municipal de Planejamento
+
+Fernando Damata Pimentel
+
+Secretário Municipal da Fazenda

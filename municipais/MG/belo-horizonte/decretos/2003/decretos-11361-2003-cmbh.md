@@ -1,0 +1,83 @@
+---
+titulo: "Decreto nº 11361/2003"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "11361"
+data: ""
+data_publicacao: ""
+ementa: "Abre ao Orçamento Fiscal da Prefeitura, em favor da Superintendência de Limpeza Urbana - SLU, Crédito Suplementar no valor de R$3.704.940,00, para reforço de dotações consignadas no vigente orçamento."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166fae4c242bbd"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/11361/2003"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7620b0f79a0120d41553080379"
+id_documento: "2c907f7620b0f79a0120d41553080379"
+sha256_fonte: "dbe09e9ebe70edd3f89bd6928a7bd486bd2b7b4d972cdf0e1bfdd7d7b697dc95"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 11361/2003
+
+DECRETO Nº 11.361, DE 12 DE JUNHO DE 2003
+
+Abre ao Orçamento Fiscal da Prefeitura, em favor da Superintendência de Limpeza Urbana - SLU, Crédito Suplementar no valor de R$3.704.940,00, para reforço de dotações consignadas no vigente orçamento.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º da Lei Orçamentária nº 8.469, de 30 de dezembro de 2002, e, ainda, as disposições do Decreto nº 11.239, de 21 de janeiro de 2003, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor da Superintendência de Limpeza Urbana - SLU, o Crédito Suplementar no valor de R$3.704.940,00 (três milhões, setecentos e quatro mil, novecentos e quarenta reais), para atender às seguintes programações:
+
+0908.0003.17.452.046.2.539.339037.0300 385.230,00
+
+0908.0004.17.452.046.2.539.339037.0300 650.100,00
+
+0908.0005.17.452.046.2.539.339037.0300 310.500,00
+
+0908.0006.17.452.046.2.539.339037.0300 431.100,00
+
+0908.0007.17.452.046.2.539.339037.0300 577.410,00
+
+0908.0008.17.452.046.2.539.339037.0300 284.400,00
+
+0908.0009.17.452.046.2.539.339037.0300 414.900,00
+
+0908.0010.17.452.046.2.539.339037.0300 296.100,00
+
+0908.0011.17.452.046.2.539.339037.0300 355.200,00
+
+**Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal da Prefeitura, no valor de R$3.704.940,00 (três milhões, setecentos e quatro mil, novecentos e quarenta reais):
+
+1101.0003.17.452.046.2.539.339037.0300 385.230,00
+
+1201.0003.17.452.046.2.539.339037.0300 650.100,00
+
+1301.0003.17.452.046.2.539.339037.0300 310.500,00
+
+1401.0003.17.452.046.2.539.339037.0300 431.100,00
+
+1501.0003.17.452.046.2.539.339037.0300 577.410,00
+
+1601.0003.17.452.046.2.539.339037.0300 284.400,00
+
+1701.0003.17.452.046.2.539.339037.0300 414.900,00
+
+1801.0003.17.452.046.2.539.339037.0300 296.100,00
+
+1901.0003.17.452.046.2.539.339037.0300 355.200,00
+
+**Art. 3º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 12 de junho de 2003.
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluisio Eustáquio de Freitas Marques
+
+Secretário Municipal da Coordenação de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal da Coordenação de Finanças

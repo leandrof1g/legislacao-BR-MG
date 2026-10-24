@@ -1,0 +1,209 @@
+---
+titulo: "Decreto nº 11547/2003"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "11547"
+data: ""
+data_publicacao: ""
+ementa: "Abre ao Orçamento Fiscal da Prefeitura, em favor da Superintendência de Desenvolvimento da Capital - SUDECAP, Crédito Suplementar no valor de R$1.750.810,00, para reforço de dotações consignadas no vigente orçamento."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166fbf4e1131c1"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/11547/2003"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7620b0f79a0120d97e7e3f0570"
+id_documento: "2c907f7620b0f79a0120d97e7e3f0570"
+sha256_fonte: "08346324fa0fe37e8007a2a8c984a4458b6b15f7728d326eeb4e8377357e44fc"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 11547/2003
+
+DECRETO Nº 11.547, DE 26 DE NOVEMBRO DE 2003
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$1.730.320,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º da Lei Orçamentária nº 8.469, de 30 de dezembro de 2002, e, ainda, as disposições do Decreto nº 11.239, de 21 de janeiro de 2003, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$1.348.392,00 (um milhão, trezentos e quarenta e oito mil, trezentos e noventa e dois reais), para atender às seguintes programações:
+
+0602.04.121.008.2.519.339035.0300 55.000,00
+
+0802.04.124.012.2.771.339039.0300 10.336,00
+
+0802.04.122.007.2.526.339030.0300 15.400,00
+
+0802.04.122.007.2.526.339035.0300 140.000,00
+
+0802.04.122.007.2.526.339036.0300 56.000,00
+
+0802.04.122.007.2.526.339039.0300 452.488,00
+
+0802.04.122.007.2.526.449052.0400 148.400,00
+
+0905.15.122.007.2.509.339039.0300 3.000,00
+
+1011.12.363.022.2.647.339035.0303 25.630,00
+
+1101.17.512.066.1.203.449051.0800 206.100,00
+
+1200.04.122.008.2.537.339039.0300 150,00
+
+1400.04.122.007.2.536.449052.0400 2.700,00
+
+1402.13.392.050.2.081.339039.0300 1.650,00
+
+1500.04.122.007.2.536.339030.0300 360,00
+
+1500.04.122.007.2.536.339039.0300 1.490,00
+
+1501.15.451.062.1.230.339039.0300 345,00
+
+1501.17.452.046.2.539.339039.0300 400,00
+
+1502.12.361.040.2.080.339036.0300 10.500,00
+
+1502.12.361.040.2.080.339039.0300 100,00
+
+1502.13.392.050.2.081.339039.0300 100,00
+
+1801.15.451.062.1.230.449051.0800 170.200,00
+
+1801.27.812.079.1.213.449051.0800 751,00
+
+1900.04.122.007.2.536.339030.0300 5.330,00
+
+1900.04.122.007.2.536.339039.0300 5.812,00
+
+1900.04.122.007.2.536.449052.0400 26.750,00
+
+1901.15.451.062.1.230.339030.0300 5.900,00
+
+1902.12.361.040.2.080.339039.0300 2.000,00
+
+1902.27.813.079.2.545.339039.0300 1.500,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$381.928,00 (trezentos e oitenta e um mil, novecentos e vinte e oito reais), para atender às seguintes programações:
+
+0701.08.331.025.2.589.339037.0300 257.000,00
+
+1017.10.302.027.2.678.339032.0310 124.828,00
+
+1502.08.244.020.2.218.339039.0300 100,00
+
+**Art. 3º** - Os recursos necessários à execução do disposto nos artigos anteriores decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$1.730.320,00 (um milhão, setecentos e trinta mil, trezentos e vinte reais):
+
+0905.15.452.059.2.540.339033.0300 3.000,00
+
+1201.15.451.062.1.230.339030.0300 150,00
+
+1301.16.482.065.1.231.449051.0802 300.000,00
+
+1501.18.541.072.2.079.339037.0300 2.895,00
+
+1701.16.482.065.1.231.449051.0802 194.193,00
+
+4003.04.122.007.2.085.339037.0300 257.000,00
+
+1011.08.243.019.2.633.449052.0408 25.630,00
+
+1013.08.243.019.2.612.335043.0300 25.315,00
+
+1013.08.243.019.2.612.335043.0303 23.056,00
+
+1013.08.243.019.2.612.335043.0308 51.877,00
+
+1013.08.243.019.2.612.335043.0309 11.066,00
+
+1013.08.243.019.2.612.339030.0303 11.528,00
+
+1013.08.243.019.2.612.339030.0308 9.799,00
+
+1013.08.243.019.2.612.339035.0303 8.645,00
+
+1013.08.243.019.2.612.339035.0308 13.834,00
+
+1013.08.243.019.2.612.339036.0303 6.916,00
+
+1013.08.243.019.2.612.339036.0308 11.528,00
+
+1013.08.243.019.2.612.339039.0304 11.528,00
+
+1013.08.243.019.2.612.339039.0309 8.853,00
+
+1013.08.243.019.2.612.445042.0404 9.973,00
+
+1013.08.243.019.2.612.445042.0408 23.056,00
+
+1013.08.243.019.2.612.445042.0409 11.066,00
+
+1013.08.243.019.2.612.449052.0408 5.764,00
+
+1013.08.243.019.2.613.335043.0303 11.528,00
+
+1013.08.243.019.2.613.335043.0304 13.834,00
+
+1013.08.243.019.2.613.335043.0308 11.528,00
+
+1013.08.243.019.2.613.335043.0309 5.602,00
+
+1013.08.243.019.2.613.339030.0303 11.528,00
+
+1013.08.243.019.2.613.339030.0308 14.410,00
+
+1013.08.243.019.2.613.339035.0303 9.799,00
+
+1013.08.243.019.2.613.339035.0308 5.764,00
+
+1013.08.243.019.2.613.339036.0308 8.645,00
+
+1013.08.243.019.2.613.339039.0303 9.222,00
+
+1013.08.243.019.2.613.339039.0308 5.764,00
+
+1013.08.243.019.2.613.339039.0309 7.816,00
+
+1013.08.243.019.2.613.339092.0300 2.065,00
+
+1013.08.243.019.2.613.445042.0404 28.820,00
+
+1013.08.243.019.2.613.445042.0408 20.174,00
+
+1013.08.243.019.2.613.445042.0409 5.879,00
+
+1013.08.243.019.2.613.449052.0408 9.222,00
+
+1013.08.243.019.2.613.449052.0409 1.106,00
+
+1013.08.243.019.2.633.335043.0300 182.764,00
+
+1013.08.243.019.2.633.335043.0303 74.931,00
+
+1013.08.243.019.2.633.335043.0304 34.584,00
+
+1013.08.243.019.2.633.335043.0309 82.584,00
+
+1013.08.243.019.2.633.339030.0300 21.906,00
+
+1013.08.243.019.2.633.339030.0303 75.506,00
+
+1013.08.243.019.2.633.339030.0304 34.582,00
+
+1013.08.243.019.2.633.339030.0308 14.085,00
+
+**Art. 4º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 26 de novembro de 2003
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluisio Eustáquio de Freitas Marques
+
+Secretário Municipal da Coordenação de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal da Coordenação de Finanças

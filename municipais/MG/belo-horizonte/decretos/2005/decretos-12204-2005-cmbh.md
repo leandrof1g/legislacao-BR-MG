@@ -1,0 +1,197 @@
+---
+titulo: "Decreto nº 12204/2005"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "12204"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$4.467.769,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166ffe04cd4701"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/12204/2005"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761ae5c720011b043d25250a5d"
+id_documento: "2c907f761ae5c720011b043d25250a5d"
+sha256_fonte: "78749886fa014ea752bc57a2087a91ee265d1374c2aa8701d7e64bc61911470e"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 12204/2005
+
+DECRETO Nº 12.204, DE 24 OUTUBRO DE 2005
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$4.467.769,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º, da Lei Orçamentária nº 9.009, de 30 de dezembro de 2004, e, ainda, as disposições do Decreto nº 11.924, de 11 de janeiro de 2005, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$3.933.828,00 (três milhões, novecentos e trinta e três mil, oitocentos e vinte e oito reais), para atender às seguintes programações:
+
+0703.04.122.007.2.548.339037.0300 5.204,00
+
+0909.16.482.007.2.505.319011.0100 325.875,00
+
+0909.16.482.007.2.505.339036.0300 45.400,00
+
+0909.16.482.007.2.505.339037.0300 80.000,00
+
+0909.16.482.007.2.505.339039.0300 201.903,00
+
+0909.16.482.007.2.505.339047.0300 28.200,00
+
+1200.04.122.007.2.536.339036.0300 14.400,00
+
+1200.26.122.007.2.783.339030.0300 290,00
+
+1200.26.122.007.2.783.339037.0300 47.000,00
+
+1200.26.122.007.2.783.339039.0300 116.580,00
+
+1201.15.451.062.1.230.339039.0300 30.700,00
+
+1201.15.452.059.2.540.339039.0300 63.606,00
+
+1202.12.362.040.2.150.339036.0300 2.200,00
+
+1300.04.122.007.2.536.339030.0300 8.000,00
+
+1300.04.122.007.2.536.339037.0300 62.200,00
+
+1300.04.122.007.2.536.339039.0300 17.200,00
+
+1302.12.361.040.2.080.339036.0300 45.100,00
+
+1302.12.361.040.2.080.339039.0300 76.110,00
+
+1302.12.361.040.2.080.339047.0300 13.500,00
+
+1500.04.122.007.2.536.339036.0300 3.000,00
+
+1500.04.122.007.2.536.339039.0300 27.000,00
+
+1500.04.122.007.2.536.339047.0300 400,00
+
+1501.15.451.062.1.230.339039.0300 4.400,00
+
+1501.18.541.039.2.078.339039.0300 2.936,00
+
+1501.15.452.059.2.540.339035.0300 23.000,00
+
+1501.15.452.059.2.540.339036.0300 4.209,00
+
+1501.15.452.059.2.540.339039.0300 19.300,00
+
+1502.12.361.040.2.080.339037.0300 48.376,00
+
+1502.12.361.040.2.080.339039.0300 184.050,00
+
+1502.12.362.040.2.150.339039.0300 17.200,00
+
+1502.12.365.040.2.542.339039.0300 1.150,00
+
+1502.27.813.079.2.545.339039.0300 467,00
+
+1600.04.122.007.2.536.339037.0300 40.204,00
+
+1601.18.541.072.2.079.339039.0300 74.153,00
+
+1601.15.452.059.2.540.339036.0300 11.100,00
+
+1602.12.361.040.2.080.339036.0300 21.345,00
+
+1602.12.361.040.2.080.339037.0300 179.295,00
+
+1602.12.361.040.2.080.339039.0300 36.000,00
+
+1602.12.365.040.2.542.339036.0300 1.474,00
+
+1602.12.365.040.2.542.339039.0300 2.000,00
+
+1800.04.122.007.2.536.339037.0300 15.100,00
+
+1800.04.122.007.2.536.339039.0300 22.651,00
+
+1800.04.122.007.2.536.449052.0400 4.040,00
+
+1802.27.813.079.2.545.339039.0300 1.956,00
+
+1900.04.122.007.2.536.339039.0300 2.100,00
+
+4003.04.122.007.2.026.339039.0300 48.000,00
+
+4003.04.122.007.2.026.339046.0300 607.475,00
+
+4003.04.122.007.2.085.339037.0300 123.100,00
+
+4003.04.122.007.2.114.339039.0300 55.123,00
+
+4003.04.122.007.2.124.339037.0300 260.000,00
+
+4003.04.122.007.2.507.319096.0100 140.600,00
+
+4003.04.122.007.2.774.339030.0300 160.000,00
+
+4003.04.122.007.2.774.339039.0300 324.070,00
+
+4003.11.331.036.2.083.339049.0300 285.086,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$533.941,00 (quinhentos e trinta e três mil, novecentos e quarenta e um reais), para atender às seguintes programações:
+
+1006.08.244.020.2.640.339037.0300 260.101,00
+
+1006.08.244.022.2.648.339037.0300 58.150,00
+
+1006.08.122.007.2.531.339037.0300 68.550,00
+
+1202.08.244.020.2.804.339037.0300 1.372,00
+
+1202.08.244.020.2.804.339039.0300 5.004,00
+
+1302.08.243.019.2.558.339039.0300 9.000,00
+
+1302.08.243.019.2.558.339047.0300 450,00
+
+1302.08.244.020.2.804.339036.0300 2.800,00
+
+1302.08.244.020.2.804.339037.0300 44.100,00
+
+1502.08.243.019.2.558.339039.0300 4.601,00
+
+1502.08.244.020.2.804.339036.0300 12.178,00
+
+1502.08.244.020.2.804.339037.0300 25.600,00
+
+1502.08.244.020.2.804.339039.0300 435,00
+
+1602.08.244.020.2.804.339036.0300 17.000,00
+
+1802.08.244.020.2.804.339036.0300 9.800,00
+
+1802.08.244.020.2.804.339039.0300 14.000,00
+
+1902.08.244.020.2.804.339036.0300 800,00
+
+**Art. 3º** - Os recursos necessários à execução do disposto nos artigos anteriores decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$4.467.769,00 (quatro milhões, quatrocentos e sessenta e sete mil, setecentos e sessenta e nove reais):
+
+0700.04.122.007.1.300.459061.0402 2.008.658,00
+
+0907.15.452.062.1.303.449051.0403 2.072.310,00
+
+1011.0001.08.243.019.2.799.335043.0303 386.801,00
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 24 de outubro de 2005
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluísio Eustáquio de Freitas Marques
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Finanças

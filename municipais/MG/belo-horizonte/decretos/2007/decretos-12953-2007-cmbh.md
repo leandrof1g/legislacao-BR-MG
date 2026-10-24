@@ -1,0 +1,177 @@
+---
+titulo: "Decreto nº 12953/2007"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "12953"
+data: ""
+data_publicacao: ""
+ementa: "Realoca as fontes de recursos dos programas de trabalho de diversos órgãos da PBH, adstritas à mesma função de governo, através de Crédito Adicional Suplementar, no valor de R$9.894.364,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f7616b552600116ca0989da01c8"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/12953/2007"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76301e650b01303185d47e0080"
+id_documento: "2c907f76301e650b01303185d47e0080"
+sha256_fonte: "af78bc6eef31c901fb9fa3c4821cd1f44c0acebe4d87267240ebf4d93145986f"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 12953/2007
+
+DECRETO Nº 12.953, DE 22 DE NOVEMBRO DE 2007
+
+Realoca as fontes de recursos dos programas de trabalho de diversos órgãos da PBH, adstritas à mesma função de governo, através de Crédito Adicional Suplementar, no valor de R$9.894.364,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 10, inciso V da Lei Orçamentária nº 9.301, de 30 de dezembro de 2006, e, ainda, as disposições do Decreto nº 12.604, de 09 de janeiro de 2007,
+
+decreta:
+
+**Art. 1º** - Incorpora ao Orçamento Fiscal e ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos da PBH, recursos orçamentários no montante de R$9.894.364,00 (nove milhões, oitocentos e noventa e quatro mil, trezentos e sessenta e quatro reais), financiadores dos seguintes programas de trabalho:
+
+0206.23.695.086.2.629.339039.0300 560.000,00
+
+0207.13.122.051.2.313.339039.0300 7.500,00
+
+0207.13.122.051.2.327.339039.0300 100.000,00
+
+0207.13.122.051.2.655.339039.0300 1.000,00
+
+0207.13.122.051.2.655.449052.0400 1.692,00
+
+0207.13.391.052.2.658.339036.0300 4.320,00
+
+0207.13.392.049.2.659.339039.0300 69.709,00
+
+0207.13.392.050.2.038.339031.0300 700,00
+
+0207.13.392.050.2.038.339036.0300 1.031,00
+
+0207.13.392.147.2.105.339036.0300 7.680,00
+
+0207.13.122.051.2.900.339037.0300 584.561,00
+
+0207.13.122.051.2.900.339039.0300 38.000,00
+
+0207.13.122.051.2.900.339092.0300 56.000,00
+
+0208.13.392.050.2.038.339092.0300 38.500,00
+
+0900.15.452.057.2.900.339093.0300 2.200.000,00
+
+0907.17.512.066.1.203.449051.0418 500.000,00
+
+0913.16.482.065.1.231.339093.0300 101.000,00
+
+0913.16.482.065.1.261.449051.0418 488.000,00
+
+0919.18.541.072.2.900.449051.0406 260.000,00
+
+2100.06.181.109.2.791.339036.0300 228.000,00
+
+1011.0017.08.244.019.2.308.339039.0300 5.000,00
+
+2302.0001.10.122.117.2.662.339014.0310 20.000,00
+
+2302.0001.10.122.117.2.662.339030.0304 39.060,00
+
+2302.0001.10.122.117.2.662.339030.0309 2.105.187,00
+
+2302.0001.10.122.117.2.662.339030.0310 1.865.069,00
+
+2302.0001.10.122.117.2.662.339039.0310 66.839,00
+
+2302.0001.10.122.117.2.662.339092.0310 3.456,00
+
+2302.0001.10.122.117.2.662.339093.0310 10.275,00
+
+2302.0001.10.122.117.2.662.449052.0800 1.535,00
+
+2302.0001.10.301.114.2.681.335043.0310 14.697,00
+
+2302.0001.10.301.114.2.681.339030.0310 969,00
+
+2302.0001.10.301.114.2.681.339032.0310 41.479,00
+
+2302.0001.10.301.114.2.681.339039.0310 157.790,00
+
+2302.0001.10.301.114.2.681.449052.0410 40.659,00
+
+2302.0001.10.302.114.2.824.339030.0310 38.837,00
+
+2302.0001.10.305.028.2.829.449052.0403 63.949,00
+
+2302.0002.10.122.117.2.662.449051.0410 15.000,00
+
+2302.0005.10.122.117.2.662.449051.0410 148.691,00
+
+2302.0009.10.122.117.2.662.339036.0310 8.179,00
+
+**Art. 2º** - As fontes orçamentárias para atendimento à realocação de recursos fiscais decorrerão das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$9.894.364,00 (nove milhões, oitocentos e noventa e quatro mil, trezentos e sessenta e quatro reais):
+
+0206.23.695.086.2.630.339039.0303 560.000,00
+
+0207.13.122.051.2.313.339036.0303 80.713,00
+
+0207.13.391.052.2.656.339030.0306 100.000,00
+
+0207.13.391.052.2.658.339036.0303 76.860,00
+
+0207.13.392.049.2.659.339039.0303 70.000,00
+
+0207.13.392.049.2.659.339039.1103 90.000,00
+
+0207.13.392.050.2.038.339039.0303 150.000,00
+
+0207.13.392.050.2.038.449052.0403 145.702,00
+
+0207.13.392.050.2.038.449052.0404 146.798,00
+
+0208.13.391.052.2.656.339039.0308 50.620,00
+
+0900.15.452.084.1.223.449051.0403 1.581.091,00
+
+0900.15.452.084.1.223.449051.0800 618.909,00
+
+0907.17.512.066.1.203.449051.0400 500.000,00
+
+0913.16.482.064.1.207.449051.0802 580.031,00
+
+0913.16.482.065.1.261.449051.0803 8.969,00
+
+0919.18.541.072.2.823.449051.0404 50.000,00
+
+0919.18.541.071.2.074.339030.0300 15.000,00
+
+0919.18.541.071.2.074.339036.0300 20.000,00
+
+0919.18.541.071.2.074.339039.0300 15.000,00
+
+0919.18.541.072.2.812.449051.0403 60.000,00
+
+0919.18.541.072.2.900.339036.0306 50.000,00
+
+0919.18.541.072.2.900.339037.0306 50.000,00
+
+2100.06.181.109.2.791.449052.0403 228.000,00
+
+1011.0018.08.244.020.2.353.339039.0309 5.000,00
+
+2302.0001.10.302.114.2.668.339039.0303 4.641.671,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 22 de novembro de 2007
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

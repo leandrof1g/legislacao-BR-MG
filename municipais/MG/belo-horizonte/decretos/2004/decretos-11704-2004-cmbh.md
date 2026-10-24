@@ -1,0 +1,171 @@
+---
+titulo: "Decreto nº 11704/2004"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "11704"
+data: ""
+data_publicacao: ""
+ementa: "Realoca as fontes de recursos dos programas de trabalho de diversos órgãos da PBH, adstritas à mesma função de governo, no valor de R$6.494.437,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166fcd95bc36b7"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/11704/2004"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76225af5cf01225b351c6c0002"
+id_documento: "2c907f76225af5cf01225b351c6c0002"
+sha256_fonte: "6dfd540cdb0ad7636a08707330266302ef87bf4da41719e6fefc3eead43141a4"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 11704/2004
+
+DECRETO Nº 11.704, DE 7 DE MAIO DE 2004
+
+Realoca as fontes de recursos dos programas de trabalho de diversos órgãos da PBH, adstritas à mesma função de governo, no valor de R$6.494.437,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 10, inciso IV da Lei Orçamentária nº 8.726, de 30 de dezembro de 2003, e, ainda, as disposições do Decreto nº 11.604, de 19 de janeiro de 2004,
+
+decreta:
+
+**Art. 1º** - Ficam realocados os Orçamentos de diversos órgãos da PBH, no valor de R$6.494.437,00 (seis milhões, quatrocentos e noventa e quatro mil, quatrocentos e trinta e sete reais), com as seguintes discriminações:
+
+I - Acréscimo:
+
+0905.15.452.057.2.138.339037.0300 814,00
+
+0905.15.122.007.2.509.339037.0300 2.442,00
+
+1007.27.122.007.2.532.339037.0300 9.507,00
+
+1007.27.812.099.2.106.339039.0300 105.988,00
+
+1002.10.122.031.2.661.339039.0310 2.108,00
+
+1009.10.122.007.2.653.319034.0100 16.500,00
+
+1009.10.122.007.2.653.339039.0300 26.672,00
+
+1009.10.122.007.2.653.339093.0606 39.000,00
+
+1009.10.122.007.2.653.449052.0606 20.000,00
+
+1009.10.302.030.2.616.339036.0300 267.685,00
+
+1009.10.302.030.2.616.449052.0606 68.214,00
+
+1009.10.302.030.2.620.449052.0403 500,00
+
+1017.10.122.029.2.662.339014.0300 3.471,00
+
+1017.10.122.029.2.662.339036.0310 9.000,00
+
+1017.10.122.029.2.662.339039.0300 289.800,00
+
+1017.10.122.029.2.662.339048.0310 16.002,00
+
+1017.10.122.029.2.662.339092.0310 1.500.000,00
+
+1017.10.122.029.2.662.449052.0410 60.700,00
+
+1017.10.122.029.2.662.449092.0400 15.476,00
+
+1017.10.122.029.2.662.449092.0410 38.280,00
+
+1017.10.126.087.2.665.339035.0300 100.000,00
+
+1017.10.301.027.2.679.339030.0310 150.000,00
+
+1017.10.301.027.2.679.339039.0310 161,00
+
+1017.10.301.027.2.680.339030.0309 89.216,00
+
+1017.10.301.027.2.681.339035.0310 14.462,00
+
+1017.10.301.027.2.681.339039.0310 106.400,00
+
+1017.10.301.027.2.681.449051.0410 500,00
+
+1017.10.302.027.2.666.339039.0310 3.927,00
+
+1017.10.302.027.2.666.449051.0400 480.587,00
+
+1017.10.302.027.2.671.339030.0310 4.427,00
+
+1017.10.302.027.2.672.339030.0303 354.054,00
+
+1017.10.302.027.2.672.339037.0310 7.982,00
+
+1017.10.302.027.2.765.335043.0310 90.200,00
+
+1017.10.302.030.2.688.339030.0310 140.000,00
+
+1017.10.302.030.2.688.339039.0310 1.361.940,00
+
+1017.10.302.030.2.688.449052.0410 37.296,00
+
+1017.10.303.027.2.670.339039.0310 30.000,00
+
+1017.10.303.027.2.670.449052.0410 45.000,00
+
+1017.10.304.028.2.676.339030.0310 17.842,00
+
+1017.10.304.028.2.676.449052.0410 3.172,00
+
+1017.10.305.028.2.674.339035.0310 1.500,00
+
+1017.10.305.028.2.674.339037.0310 957.240,00
+
+1017.10.305.028.2.674.339039.0310 372,00
+
+1017.10.305.028.2.674.449052.0403 6.000,00
+
+II - Decréscimo:
+
+0905.15.452.057.2.566.339030.0300 814,00
+
+0905.15.452.0572..566.339039.0300 2.442,00
+
+Item retificado em 17/7/2004
+
+1007.27.812.098.2.533.339039.0303 40.000,00
+
+1007.27.812.099.2.757.339039.0303 53.288,00
+
+1007.27.122.007.2.532.449052.0400 9.507,00
+
+1007.27.812.099.2.534.339039.0308 12.700,00
+
+1002.10.122.029.2.502.339030.0310 2.108,00
+
+1009.10.122.007.2.653.449051.0403 68.714,00
+
+1009.10.302.030.2.616.319011.0100 100.000,00
+
+1009.10.302.030.2.616.449052.0404 20.000,00
+
+1009.10.302.030.2.620.319011.0100 250.000,00
+
+1017.10.122.029.2.662.339039.0303 5.000.000,00
+
+1017.10.126.087.2.665.449052.0403 934.864,00
+
+**Art. 2º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 7 de maio de 2004
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluisio Eustáquio de Freitas Marques
+
+Secretário Municipal da Coordenação de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal da Coordenação de Finanças
+
+## Observações da CMBH
+
+Retificado em 15/07/2004.

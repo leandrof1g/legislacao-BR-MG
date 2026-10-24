@@ -1,0 +1,169 @@
+---
+titulo: "Decreto nº 11530/2003"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "11530"
+data: ""
+data_publicacao: ""
+ementa: "Abre ao Orçamento Fiscal da Prefeitura, em favor da Superintendência de Limpeza Urbana - SLU, Crédito Suplementar no valor de R$ 5.590.991,00, para reforço de dotações consignadas no vigente orçamento."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166fbe066a314e"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/11530/2003"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7620b0f79a0120d956ddf9054c"
+id_documento: "2c907f7620b0f79a0120d956ddf9054c"
+sha256_fonte: "8be220a0c5d91ed458077a66a32a87f343a3fec4ffb4ebb759bca8b82f6be9f9"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 11530/2003
+
+DECRETO Nº 11.530, DE 11 DE NOVEMBRO DE 2003
+
+Abre ao Orçamento Fiscal da Prefeitura, em favor da Superintendência de Limpeza Urbana - SLU, Crédito Suplementar no valor de R$5.590.991,00, para reforço de dotações consignadas no vigente orçamento.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º da Lei Orçamentária nº 8.469, de 30 de dezembro de 2002, e, ainda, as disposições do Decreto nº 11.239, de 21 de janeiro de 2003, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor da Superintendência de Limpeza Urbana - SLU, o Crédito Suplementar no valor de R$5.590.991,00 (cinco milhões, quinhentos e noventa mil, novecentos e noventa e um reais), para atender às seguintes programações:
+
+0908.0001.17.452.007.2.579.339030.0300 28.000,00
+
+0908.0001.17.452.007.2.579.339035.0300 155.000,00
+
+0908.0001.17.452.007.2.579.339036.0300 42.000,00
+
+0908.0001.17.452.007.2.579.339039.0300 262.407,00
+
+0908.0001.17.452.007.2.579.339049.0300 80.000,00
+
+0908.0001.17.452.007.2.579.339046.0300 96.000,00
+
+0908.0002.17.452.045.2.578.339030.0300 180.000,00
+
+0908.0002.17.452.045.2.578.339039.0300 91.000,00
+
+0908.0002.17.452.045.2.578.339049.0300 2.103,00
+
+0908.0003.17.452.046.2.539.339037.0300 305.000,00
+
+0908.0003.17.452.046.2.539.339039.0300 50.000,00
+
+0908.0003.17.452.046.2.539.339046.0300 12.500,00
+
+0908.0003.17.452.046.2.539.339049.0300 30.000,00
+
+0908.0004.17.452.046.2.539.339037.0300 1.020.000,00
+
+0908.0004.17.452.046.2.539.339046.0300 50.000,00
+
+0908.0004.17.452.046.2.539.339049.0300 58.000,00
+
+0908.0005.17.452.046.2.539.339036.0300 371,00
+
+0908.0005.17.452.046.2.539.339037.0300 320.000,00
+
+0908.0005.17.452.046.2.539.339039.0300 60.000,00
+
+0908.0005.17.452.046.2.539.339049.0300 30.000,00
+
+0908.0006.17.452.046.2.539.339036.0300 1.100,00
+
+0908.0006.17.452.046.2.539.339037.0300 414.500,00
+
+0908.0006.17.452.046.2.539.339039.0300 60.000,00
+
+0908.0006.17.452.046.2.539.339046.0300 4.375,00
+
+0908.0006.17.452.046.2.539.339049.0300 20.000,00
+
+0908.0007.17.452.046.2.539.339036.0300 1.400,00
+
+0908.0007.17.452.046.2.539.339037.0300 409.000,00
+
+0908.0007.17.452.046.2.539.339039.0300 57.000,00
+
+0908.0007.17.452.046.2.539.339049.0300 30.000,00
+
+0908.0008.17.452.046.2.539.339037.0300 260.500,00
+
+0908.0008.17.452.046.2.539.339039.0300 50.000,00
+
+0908.0009.17.452.046.2.539.339037.0300 431.000,00
+
+0908.0009.17.452.046.2.539.339039.0300 65.000,00
+
+0908.0009.17.452.046.2.539.339046.0300 18.000,00
+
+0908.0009.17.452.046.2.539.339049.0300 23.200,00
+
+0908.0010.17.452.046.2.539.339037.0300 410.500,00
+
+0908.0010.17.452.046.2.539.339039.0300 75.000,00
+
+0908.0011.17.452.046.2.539.339030.0300 1.000,00
+
+0908.0011.17.452.046.2.539.339037.0300 318.500,00
+
+0908.0011.17.452.046.2.539.339039.0300 62.000,00
+
+0908.0011.17.452.046.2.539.339049.0300 6.535,00
+
+**Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$5.590.991,00 (cinco milhões, quinhentos e noventa mil, novecentos e noventa e um reais):
+
+0904.0001.13.392.050.1.215.449051.0400 150.000,00
+
+0904.0001.13.392.050.1.215.449051.0403 500.000,00
+
+0904.0001.17.512.066.1.203.449051.0404 255.590,00
+
+0904.0001.17.512.066.1.203.449051.0800 200.000,00
+
+0904.0001.18.542.069.1.243.449051.0401 451.413,00
+
+0907.0001.17.512.066.1.203.449051.0403 500.000,00
+
+0907.0001.17.512.066.1.203.449051.0404 87.000,00
+
+0907.0001.18.541.072.1.202.449051.0400 63.724,00
+
+0907.0001.18.541.072.1.202.449051.0403 151.093,00
+
+0907.0001.18.541.072.1.202.449051.0800 108.700,00
+
+0907.0004.15.451.062.1.205.449051.0400 203.607,00
+
+0907.0005.15.451.062.1.205.449051.0400 203.607,00
+
+0907.0006.15.451.062.1.205.449051.0400 203.607,00
+
+0908.0001.17.452.007.2.579.339035.0606 108.700,00
+
+0908.0001.17.452.007.2.579.339092.0606 326.100,00
+
+0908.0002.17.452.045.2.578.339030.0606 652.200,00
+
+0908.0002.17.452.045.2.578.339039.0606 434.800,00
+
+0908.0002.17.452.045.2.578.449052.0606 433.920,00
+
+1901.0003.17.452.046.2.539.339039.0300 361.270,00
+
+0904.0001.10.302.030.1.216.449051.0400 195.660,00
+
+**Art. 3º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 11 de novembro de 2003
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluisio Eustáquio de Freitas Marques
+
+Secretário Municipal da Coordenação de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal da Coordenação de Finanças

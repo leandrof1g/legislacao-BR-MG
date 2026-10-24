@@ -1,0 +1,307 @@
+---
+titulo: "Decreto nº 10377/2000"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "10377"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$7.643.315,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166f2108007459"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/10377/2000"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7620b0f79a0120edff9d9b0670"
+id_documento: "2c907f7620b0f79a0120edff9d9b0670"
+sha256_fonte: "c0f134bee9e1b9023269871e852521c2959dc6091df6ce8fd19d6b93de825fc1"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 10377/2000
+
+DECRETO Nº 10.377, DE 27 DE OUTUBRO DE 2000
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$ 7.643.315,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º da Lei Orçamentária nº 7.929, de 30 de dezembro de 1999, e, ainda, as disposições do Decreto nº 10.134, de 21 de janeiro de 2000, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$2.310.675,00 (dois milhões, trezentos e dez mil, seiscentos e setenta e cinco reais), para atender às seguintes programações:
+
+0201.030070202.004 - 3132 - Fonte 03.00 192,00
+
+0202.030070202.005 - 3132 - Fonte 03.00 396,00
+
+0600.020040212.010 - 3120 - Fonte 03.00 6.500,00
+
+0600.020040212.010 - 4120 - Fonte 04.00 2.600,00
+
+0800.030070212.013 - 3132 - Fonte 03.00 5.000,00
+
+0800.030072172.020 - 3131 - Fonte 03.00 9.000,00
+
+0800.030072172.020 - 3132 - Fonte 03.00 10.000,00
+
+1000.080480212.013 - 3132 - Fonte 03.00 23.000,00
+
+1000.080482462.040 - 3132 - Fonte 03.00 142.670,00
+
+1000.080482462.104 - 3131 - Fonte 03.00 3.000,00
+
+1000.080482462.104 - 4120 - Fonte 04.00 5.262,00
+
+1000.080482462.129 - 3131 - Fonte 03.00 4.100,00
+
+1000.080482462.129 - 3132 - Fonte 03.00 10.900,00
+
+1000.080482462.130 - 3120 - Fonte 03.00 712,00
+
+1000.080482462.132 - 3120 - Fonte 03.00 20.711,00
+
+1000.080482462.132 - 3132 - Fonte 03.00 13.130,00
+
+1000.080482462.132 - 4120 - Fonte 04.00 19.769,00
+
+1000.080482462.161 - 3120 - Fonte 03.00 12.722,00
+
+1000.080482472.037 - 3131 - Fonte 03.00 1.500,00
+
+1000.080482472.037 - 3132 - Fonte 03.00 2.000,00
+
+1000.080482472.037 - 4120 - Fonte 04.00 63.500,00
+
+1000.080482472.038 - 3120 - Fonte 03.00 4.750,00
+
+1000.080482472.038 - 3132 - Fonte 03.00 98.923,00
+
+1000.080482472.038 - 4120- Fonte 04.00 7.921,00
+
+1000.080482472.102 - 3120 - Fonte 03.00 1.040,00
+
+1000.080482472.102 - 3131 - Fonte 03.00 14.436,00
+
+1000.080482472.102 - 3132 - Fonte 03.00 16.266,00
+
+1000.080482472.102 - 4120 - Fonte 04.00 1.500,00
+
+1000.080482472.105 - 3120 - Fonte 03.00 3.405,00
+
+1000.080482472.105 - 3131 - Fonte 03.00 2.000,00
+
+1000.080482472.105 - 3132 - Fonte 03.00 26.826,00
+
+1000.080482472.105 - 4120 - Fonte 04.00 3.421,00
+
+1000.080482472.131 - 4120 - Fonte 04.00 1.381,00
+
+1000.080482472.133 - 3132 - Fonte 03.00 6.909,00
+
+1000.080482472.133 - 4120 - Fonte 04.00 5.600,00
+
+1000.080482472.158 - 3131 - Fonte 03.00 704,00
+
+1000.080482472.160 - 3120 - Fonte 03.00 1.493,00
+
+1000.080482472.160 - 3131 - Fonte 03.00 2.813,00
+
+1000.080482472.162 - 3131 - Fonte 03.00 6.150,00
+
+1000.080482472.162 - 3132 - Fonte 03.00 10.596,00
+
+1000.080482472.162 - 4120 - Fonte 04.00 5.914,00
+
+1200.080070212.013 - 3132 - Fonte 03.00 16.810,00
+
+1200.080471882.142 - 3132 - Fonte 03.00 5.507,00
+
+1500.070403232.062 - 3132 - Fonte 03.00 2.312,00
+
+1700.100773282.066 - 3132 - Fonte 03.00 103.300,00
+
+2000.080411902.151 - 3132 - Fonte 03.00 953,00
+
+2000.080421882.080 - 3132 - Fonte 03.00 39.543,00
+
+2000.080431882.150 - 3132 - Fonte 03.00 1.283,00
+
+2100.030070212.078 - 3131 - Fonte 03.00 4.800,00
+
+2100.100583232.031 - 3131 - Fonte 03.00 1.584,00
+
+2200.030070212.078 - 3120 - Fonte 03.00 596,00
+
+2200.030070212.078 - 3131 - Fonte 03.00 4.189,00
+
+2200.030070212.078 - 3132 - Fonte 03.00 81.385,00
+
+2200.080411902.151 - 3132 - Fonte 03.00 6.677,00
+
+2200.080421882.080 - 3131 - Fonte 03.00 18.614,00
+
+2200.080421882.080 - 3132 - Fonte 03.00 153.080,00
+
+2200.080431882.150 - 3132 - Fonte 03.00 9.629,00
+
+2200.080482472.081 - 3131 - Fonte 03.00 533,00
+
+2200.100583232.031 - 3131 - Fonte 03.00 808,00
+
+2200.100603282.079 - 3132 - Fonte 03.00 17.500,00
+
+2300.030070212.078 - 3132 - Fonte 03.00 11.400,00
+
+2400.030070212.078 - 3120 - Fante 03.00 12.014,00
+
+2400.030070212.078 - 3132 - Fonte 03.00 125.510,00
+
+2400.080411902.151 - 3132 - Fonte 03.00 12.349,00
+
+2400.080421881.211 - 4110 - Fonte 04.00 15.587,00
+
+2400.080421882.080 - 3131 - Fonte 03.00 4.564,00
+
+2400.080421882.080 - 3132 - Fonte 03.00 165.512,00
+
+2400.080431882.150 - 3132 - Fonte 03.00 15.000,00
+
+2400.080482472.081 - 3131 - Fonte 03.00 6.000,00
+
+2400.100583232.031 - 3131 - Fonte 03.00 2.459,00
+
+2400.100603282.079 - 3131 - Fonte 03.00 2.499,00
+
+2400.100603282.079 - 3132 - Fonte 03.00 26.898,00
+
+2500.030070212.078 - 3131 - Fonte 03.00 4.215,00
+
+2500.030070212.078 - 3132 - Fonte 03.00 7.197,00
+
+2500.080411902.151 - 3132 - Fonte 03.00 2.700,00
+
+2500.080421882.080 - 3131 - Fonte 03.00 14.400,00
+
+2500.080421882.080 - 3132 - Fonte 03.00 225.830,00
+
+2500.080431882.150 - 3131 - Fonte 03.00 392,00
+
+2500.080482472.081 - 3131 - Fonte 03.00 1.421,00
+
+2500.100583232.031 - 3131 - Fonte 03.00 9,00
+
+2500.160915751.230 - 3131 - Fonte 03.00 180,00
+
+2700.080421882.080 - 3132 - Fonte 03.00 13.700,00
+
+2700.080482472.081 - 3131 - Fonte 03.00 720,00
+
+2700.160915751.230 - 4110 - Fonte 04.00 32.674,00
+
+2800.030070212.078 - 3131 - Fonte 03.00 2.400,00
+
+2800.030070212.078 - 3132 - Fonte 03.00 63.518,00
+
+2800.080411902.151 - 3132 - Fonte 03.00 14.582,00
+
+2800.080421882.080 - 3131 - Fonte 03.00 28.454,00
+
+2800.080421882.080 - 3132 - Fonte 03.00 335.975,00
+
+2800.080431882.150 - 3132 - Fonte 03.00 63.023,00
+
+2800.080482472.081 - 3131 - Fonte 03.00 1.500,00
+
+2800.100583232.031 - 3131 - Fonte 03.00 1.100,00
+
+2800.100603282.079 - 3132 - Fonte 03.00 26.800,00
+
+2800.160915751.230 - 3131 - Fonte 03.00 800,00
+
+2800.160915751.230 - 3132 - Fonte 03.00 13.478,00
+
+4003.030070212.085 - 3132 - Fonte 03.00 8.000,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$5.332.640,00 (cinco milhões, trezentos e trinta e dois mil, seiscentos e quarenta reais), para atender às seguintes programações:
+
+1100.150810212.013 - 3131 - Fonte 03.00 5.328,00
+
+1100.150814862.144 - 3214 - Fonte 03.00 70.132,00
+
+1900.130754282.075 - 3214 - Fonte 03.00 3.000.000,00
+
+1900.130754282.075 - 4313 - Fonte 08.00 2.253.000,00
+
+2100.150814862.218 - 3132 - Fonte 03.00 1.180,00
+
+3000.150810212.013 - 3120 - Fonte 03.00 3.000,00
+
+**Art. 3º** - Os recursos necessários à execução do disposto nos artigos anteriores decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$7.643.315,00 (sete milhões, seiscentos e quarenta e três mil, trezentos e quinze reais):
+
+1000.080482472.039 - 3132 - Fonte 03.03 500.000,00
+
+1000.080482472.156 - 3132 - Fonte 03.03 1.045.024,00
+
+1100.150814832.109 - 3214 - Fonte 03.03 300.000,00
+
+1100.150814862.144 - 3214 - Fonte 03.04 200.000,00
+
+1900.130754282.075 - 4313 - Fonte 04.02 2.468.741,00
+
+2200.080421881.211 - 4110 - Fonte 04.00 279.496,00
+
+2400.030070212.078 - 4110 - Fonte 04.00 10.487,00
+
+2400.080462242.297 - 3132 - Fonte 03.00 10.487,00
+
+2400.080462242.297 - 4110 - Fonte 04.00 10.487,00
+
+2400.150814862.218 - 4110 - Fonte 04.00 10.487,00
+
+2400.160915751.230 - 4110 - Fonte 04.00 10.487,00
+
+2700.150814862.218 - 3131 - Fonte 03.00 47.094,00
+
+2800.030070212.078 - 4110 - Fonte 04.00 10.487,00
+
+2800.080421881.211 - 3120 - Fonte 03.00 10.487,00
+
+2800.080421881.211 - 4110 - Fonte 04.00 10.487,00
+
+2800.080421882.080 - 3120 - Fonte 03.00 15.000,00
+
+2800.080462242.297 - 3132 - Fonte 03.00 20.000,00
+
+2800.080462242.297 - 4110 - Fonte 04.00 10.487,00
+
+2800.150814862.218 - 4110 - Fonte 04.00 10.487,00
+
+2800.150814862.218 - 3131 - Fonte 03.00 202.000,00
+
+4002.100573161.207 - 4313 - Fonte 04.02 2.000.000,00
+
+4002.100573161.207 - 4313 - Fonte 04.03 461.090,00
+
+**Art. 3º** retificado em 21/11/2000
+
+**Art. 4º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 27 de outubro de 2000
+
+Célio de Castro
+
+Prefeito de Belo Horizonte
+
+Rita Margarete de Cássia Freitas Rabelo
+
+Secretária Municipal de Governo
+
+Maurício Borges Lemos
+
+Secretário Municipal de Planejamento
+
+Júlio Ribeiro Pires
+
+Secretário Municipal da Fazenda
+
+## Observações da CMBH
+
+Retificado em 21/11/2000.

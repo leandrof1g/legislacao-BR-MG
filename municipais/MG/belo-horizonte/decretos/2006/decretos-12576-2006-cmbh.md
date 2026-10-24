@@ -1,0 +1,175 @@
+---
+titulo: "Decreto nº 12576/2006"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "12576"
+data: ""
+data_publicacao: ""
+ementa: "Realoca as fontes de recursos dos programas de trabalho de diversos órgãos da PBH, adstritas à mesma função de governo, através de Crédito Adicional Suplementar, no valor de R$ 9.648.704,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df0116701fa86151dd"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/12576/2006"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761ae5c720011aeab6ad5b03c8"
+id_documento: "2c907f761ae5c720011aeab6ad5b03c8"
+sha256_fonte: "281866bca7bb01bb4e37045c490a5df7a5c3818e74d54ef475cfa5e0a65987a5"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 12576/2006
+
+DECRETO Nº 12.576, DE 26 DE DEZEMBRO DE 2006
+
+Realoca as fontes de recursos dos programas de trabalho de diversos órgãos da PBH, adstritas à mesma função de governo, através de Crédito Adicional Suplementar, no valor de R$9.648.704,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 10, inciso IV da Lei Orçamentária nº 9.130, de 29 de dezembro de 2005, e, ainda, as disposições do Decreto nº 12.284, de 13 de janeiro de 2006,
+
+decreta:
+
+**Art. 1º** - Incorpora aos Orçamentos Fiscal e da Seguridade Social da Prefeitura, em favor de diversos órgãos da PBH, recursos orçamentários no montante de R$9.648.704,00 (nove milhões, seiscentos e quarenta e oito mil, setecentos e quatro reais), financiadores dos seguintes programas de trabalho:
+
+0910.26.453.062.2.567.339035.0312 61.368,00
+
+0910.26.453.062.2.567.339046.0312 227.196,00
+
+1008.14.422.121.2.332.339039.0300 1.000,00
+
+1008.14.422.127.2.345.339036.0300 1.694,00
+
+1008.14.422.128.2.337.339030.0300 5.595,00
+
+1008.14.422.128.2.337.339039.0300 9.050,00
+
+1008.14.422.129.2.900.339039.0300 19.200,00
+
+2300.10.122.117.2.662.339039.0310 364.003,00
+
+2302.0001.10.122.117.2.327.335043.0310 1.290.344,00
+
+2302.0001.10.122.117.2.327.339014.0310 20.000,00
+
+2302.0001.10.122.117.2.662.339030.0309 13.900,00
+
+2302.0001.10.122.117.2.662.339037.0310 1.387.886,00
+
+2302.0001.10.122.117.2.662.339039.0300 170.000,00
+
+2302.0001.10.122.117.2.662.339039.0310 699.356,00
+
+2302.0001.10.122.117.2.662.339046.0310 72.000,00
+
+2302.0001.10.122.117.2.662.339048.0310 45.000,00
+
+2302.0001.10.122.117.2.662.339093.0310 234.604,00
+
+2302.0001.10.122.117.2.665.339039.0300 125.000,00
+
+2302.0001.10.301.114.2.679.335043.0310 18.663,00
+
+2302.0001.10.301.114.2.681.335043.0310 606.800,00
+
+2302.0001.10.301.114.2.681.339036.0300 18.245,00
+
+2302.0001.10.301.114.2.681.339039.0310 51.050,00
+
+2302.0001.10.302.114.2.668.339039.0304 1.435.000,00
+
+2302.0001.10.302.114.2.669.339039.0304 640.000,00
+
+2302.0001.10.302.114.2.670.339039.0310 23.700,00
+
+2302.0001.10.302.114.2.671.335043.0310 210.241,00
+
+2302.0001.10.302.114.2.672.339030.0310 52.127,00
+
+2302.0001.10.302.114.2.672.339039.0310 94.463,00
+
+2302.0001.10.302.114.2.678.339032.0304 360.000,00
+
+2302.0001.10.302.114.2.688.339037.0304 289.000,00
+
+2302.0001.10.302.114.2.688.339039.0310 684.144,00
+
+2302.0001.10.305.028.2.677.339030.0310 5.013,00
+
+2302.0002.10.122.117.2.662.339030.0310 1.000,00
+
+2302.0002.10.122.117.2.662.339036.0310 5.973,00
+
+2302.0002.10.122.117.2.662.339039.0300 43.889,00
+
+2302.0002.10.122.117.2.662.339039.0310 320,00
+
+2302.0003.10.122.117.2.662.339030.0310 474,00
+
+2302.0003.10.122.117.2.662.339039.0300 30.000,00
+
+2302.0003.10.122.117.2.662.339039.0310 46.995,00
+
+2302.0004.10.122.117.2.662.339030.0310 1.150,00
+
+2302.0004.10.122.117.2.662.339036.0310 1.665,00
+
+2302.0004.10.122.117.2.662.339039.0300 20.000,00
+
+2302.0004.10.122.117.2.662.339039.0310 66.852,00
+
+2302.0005.10.122.117.2.662.339036.0310 2.925,00
+
+2302.0005.10.122.117.2.662.339039.0300 16.000,00
+
+2302.0006.10.122.117.2.662.339030.0310 2.500,00
+
+2302.0006.10.122.117.2.662.339036.0310 6.312,00
+
+2302.0006.10.122.117.2.662.339039.0300 21.000,00
+
+2302.0006.10.122.117.2.662.339039.0310 49.333,00
+
+2302.0007.10.122.117.2.662.339036.0310 4.970,00
+
+2302.0007.10.122.117.2.662.339039.0300 25.000,00
+
+2302.0008.10.122.117.2.662.339036.0310 5.300,00
+
+2302.0008.10.122.117.2.662.339039.0300 13.000,00
+
+2302.0009.10.122.117.2.662.339036.0310 3.487,00
+
+2302.0009.10.122.117.2.662.339039.0300 8.500,00
+
+2302.0010.10.122.117.2.662.339036.0310 14.201,00
+
+2302.0010.10.122.117.2.662.339039.0300 20.000,00
+
+2302.0010.10.122.117.2.662.339039.0310 2.216,00
+
+**Art. 2º** - As fontes orçamentárias para atendimento à realocação de recursos fiscais decorrerão das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$9.648.704,00 (nove milhões, seiscentos e quarenta e oito mil, setecentos e quatro reais):
+
+0916.26.453.060.1.111.449051.0403 288.564,00
+
+1008.14.422.129.2.900.339039.0304 36.539,00
+
+2302.0001.10.302.114.2.668.339039.0303 9.231.910,00
+
+2302.0001.10.305.028.2.677.339030.0303 91.691,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 26 de dezembro de 2006
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças
+
+Publicado no DOM de 27/12/2006

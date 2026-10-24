@@ -1,0 +1,43 @@
+---
+titulo: "Decreto nº 7417/1992"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "7417"
+data: ""
+data_publicacao: ""
+ementa: "Dá a denominação de Sebastião Paes de Almeida a uma praça da Capital."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166e0abc6431ea"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/7417/1992"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7622991b680122adbd62a002e6"
+id_documento: "2c907f7622991b680122adbd62a002e6"
+sha256_fonte: "de7ef9408f7996998cb3b5930696d08afe865a6c415c7ab9c6792de23b63bb9d"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 7417/1992
+
+DECRETO Nº 7.417, DE 6 DE NOVEMBRO DE 1992
+
+Dá a denominação de Sebastião Paes de Almeida a uma Praça da Capital.
+
+O Prefeito de Belo Horizonte, no uso de suas atribuições, decreta:
+
+**Art. 1°** - Passa a denominar-se Sebastião Paes de Almeida a praça situada na confluência das Ruas Nagib Jeha, Sebastião Dayrell de Lima e Prof. Geórgio Schreiber, no Bairro Austim CP-209 - 7 - I.
+
+**Art. 2°** - O órgão municipal competente providenciará a colocação de placas indicativas e a necessária comunicação à Empresa Brasileira de Correios e Telégrafos e às demais instituições que executam serviços de utilidade pública na Capital.
+
+**Art. 3°** - Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Belo Horizonte, 06 de novembro de 1992
+
+Eduardo Brandão de Azeredo
+
+Prefeito de Belo Horizonte
+
+João Pedro Gustin
+
+Secretário Municipal de Governo

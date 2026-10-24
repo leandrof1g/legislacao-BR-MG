@@ -1,0 +1,193 @@
+---
+titulo: "Decreto nº 12438/2006"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "12438"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos de Prefeitura, em favor de diverços órgãos, Créditos Suplementares no valor de R$ 5.685.205,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df0116701456ee4e40"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/12438/2006"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761ae5c720011aea41ecb8029f"
+id_documento: "2c907f761ae5c720011aea41ecb8029f"
+sha256_fonte: "bc338b72d378aae08aa654d592e12916b76ce388c5a832d895a74535a3a4796b"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 12438/2006
+
+DECRETO Nº 12.438, DE 2 DE AGOSTO DE 2006
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$5.685.205,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º, da Lei Orçamentária nº 9.130, de 29 de dezembro de 2005, e, ainda, as disposições do Decreto nº 12.284, de 13 de janeiro de 2006, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$4.890.149,00 (quatro milhões, oitocentos e noventa mil, cento e quarenta e nove reais), para atender às seguintes programações:
+
+0201.04.122.096.2.004.339039.0300 5.000,00
+
+0202.04.122.096.2.801.339039.0300 1.000,00
+
+0204.06.181.097.2.553.339030.0300 1.000,00
+
+0207.13.392.147.2.105.339039.0300 150.000,00
+
+0207.13.392.147.2.314.339031.0300 25.866,00
+
+0207.13.122.051.2.900.339037.0300 2.306.773,00
+
+0602.04.129.006.2.517.339036.0300 1.000,00
+
+0607.04.121.004.2.518.339039.0300 1.358,00
+
+0704.04.122.007.2.900.339039.0300 8.000,00
+
+0801.04.129.013.2.525.339014.0300 5.000,00
+
+0802.04.122.007.2.900.339014.0300 2.000,00
+
+0802.04.122.007.2.900.339047.0300 3.000,00
+
+0900.15.452.057.2.770.339030.0300 4.000,00
+
+0900.15.452.057.2.900.339035.0300 200.000,00
+
+0900.15.452.057.2.900.339093.0300 28.000,00
+
+0900.15.451.062.1.208.449051.0400 145.341,00
+
+0907.04.122.007.2.900.339030.0300 100.000,00
+
+0907.04.122.007.2.900.339035.0300 150.000,00
+
+0907.04.122.007.2.900.339036.0300 6.000,00
+
+0907.04.122.007.2.900.339039.0300 950.000,00
+
+0907.15.452.045.2.584.339039.0300 1.600,00
+
+0908.0003.17.512.046.2.539.339036.0300 3.600,00
+
+0908.0004.17.512.046.2.539.339036.0300 4.500,00
+
+0908.0011.17.512.046.2.539.339036.0300 6.000,00
+
+0911.18.541.073.2.580.339030.0300 25.300,00
+
+0911.18.541.073.2.581.339030.0300 17.300,00
+
+0911.18.541.073.2.900.339047.0300 1.200,00
+
+0911.18.541.073.2.794.339039.0300 6.500,00
+
+1000.11.334.121.2.577.339039.0300 47.000,00
+
+1000.11.334.121.2.577.339039.0303 109.203,00
+
+1000.04.122.123.2.900.339014.0300 3.000,00
+
+1000.04.122.123.2.900.339039.0300 10.000,00
+
+1007.27.812.150.2.533.339032.0300 35.602,00
+
+1007.27.812.150.2.533.339031.0300 9.799,00
+
+1200.04.122.007.2.900.339039.0300 36.522,00
+
+1200.26.122.007.2.783.339039.0300 85.410,00
+
+1200.23.692.007.2.321.339039.0300 12.700,00
+
+1201.04.122.044.1.219.339039.0300 4.430,00
+
+1201.15.451.062.1.230.339039.0300 17.223,00
+
+1201.18.541.072.2.079.339036.0300 302,00
+
+1201.18.541.072.2.079.339039.0300 223.130,00
+
+1202.12.362.137.2.150.339036.0300 7.000,00
+
+1202.12.362.137.2.150.339039.0300 26.927,00
+
+1202.12.365.135.2.542.339039.0300 20.581,00
+
+1601.18.541.072.2.079.339039.0300 72.345,00
+
+1602.12.362.137.2.150.339036.0300 3.266,00
+
+1602.12.365.135.2.542.339036.0300 1.871,00
+
+1602.12.365.135.2.542.339039.0300 4.500,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$795.056,00 (setecentos e noventa e cinco mil e cinqüenta e seis reais), para atender às seguintes programações:
+
+0702.09.271.026.3.008.339005.0911 22.500,00
+
+0907.10.302.117.1.216.449051.0800 494.422,00
+
+1013.08.243.020.2.354.335043.0300 147.700,00
+
+1013.08.243.020.2.357.335043.0300 13.400,00
+
+1102.08.244.019.2.804.339039.0300 12.000,00
+
+1202.08.244.019.2.804.339036.0300 45.834,00
+
+1402.08.244.019.2.804.339037.0300 50.000,00
+
+1602.08.243.020.2.558.339036.0300 2.200,00
+
+1902.08.244.019.2.804.339039.0300 7.000,00
+
+**Art. 3º** - Os recursos necessários à execução do disposto nos artigos anteriores decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$5.685.205,00 (cinco milhões, seiscentos e oitenta e cinco mil, duzentos e cinco reais):
+
+0207.13.392.049.2.659.339036.1103 600.000,00
+
+0207.13.392.049.2.659.339039.1103 650.000,00
+
+0207.13.392.049.2.659.449052.1103 300.000,00
+
+0207.13.392.050.2.038.339039.0303 582.639,00
+
+0207.13.392.050.2.038.339039.0304 350.000,00
+
+0900.15.451.062.1.205.449051.0404 377.341,00
+
+0907.04.122.007.2.900.449092.0403 1.095.422,00
+
+0907.15.451.062.1.205.449051.0403 106.600,00
+
+0907.18.541.070.1.244.449051.0403 300.000,00
+
+0907.27.812.101.1.213.449051.0404 200.000,00
+
+0908.17.512.007.2.900.339039.0300 14.100,00
+
+0911.18.541.073.2.580.449052.0406 14.400,00
+
+0911.18.541.073.2.900.339093.0300 40.000,00
+
+0900.08.244.019.1.220.449051.1101 1.054.703,00
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 2 de agosto de 2006
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças
+
+Publicado no DOM de 03/08/2006

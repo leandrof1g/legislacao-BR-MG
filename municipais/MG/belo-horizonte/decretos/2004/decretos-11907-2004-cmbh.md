@@ -1,0 +1,175 @@
+---
+titulo: "Decreto nº 11907/2004"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "11907"
+data: ""
+data_publicacao: ""
+ementa: "Abre ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, Crédito Suplementar no valor de R$13.192.963,00, para reforço de dotações consignadas no vigente orçamento."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166fe669ad3f2c"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/11907/2004"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761ae5c720011b08fbf0e90e19"
+id_documento: "2c907f761ae5c720011b08fbf0e90e19"
+sha256_fonte: "7bc64833a1a6579c9a129d40bf6a8dea6b4295b1c0af0331d6f741e82674e4bd"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 11907/2004
+
+DECRETO Nº 11.907, DE 30 DE DEZEMBRO DE 2004
+
+Abre ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, Crédito Suplementar no valor de R$13.192.963,00, para reforço de dotações consignadas no vigente orçamento.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º da Lei Orçamentária nº 8.726, de 30 de dezembro de 2003, e, ainda, as disposições do Decreto nº 11.604, de 19 de janeiro de 2004, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$13.192.963,00 (treze milhões, cento e noventa e dois mil, novecentos e sessenta e três reais), para atender às seguintes programações:
+
+0300.04.131.015.2.007.339039.0300 52.000,00
+
+0801.04.129.013.2.525.339039.0300 26.000,00
+
+0907.04.122.007.2.583.339037.0300 64.963,00
+
+4001.04.122.088.2.500.339092.0300 1.750.000,00
+
+4001.28.846.090.3.027.459065.0400 11.300.000,00
+
+**Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$13.192.963,00 (treze milhões, cento e noventa e dois mil, novecentos e sessenta e três reais):
+
+0600.04.122.096.2.504.339039.0300 383.100,00
+
+0605.23.695.086.2.630.339039.0300 308.100,00
+
+0700.04.122.039.2.116.339037.0300 581.100,00
+
+0700.04.122.007.2.018.339039.0300 165.000,00
+
+0700.04.122.014.2.020.339039.0300 236.100,00
+
+0801.04.129.013.2.524.339039.0300 148.200,00
+
+0902.17.452.083.2.562.339039.0300 215.000,00
+
+0904.13.392.050.1.215.449051.0400 324.200,00
+
+0904.15.451.062.1.205.449051.0400 305.000,00
+
+0904.15.452.062.1.303.449051.0400 516.300,00
+
+0904.23.692.044.1.239.449051.0400 193.700,00
+
+0906.16.482.007.2.505.339037.0300 119.600,00
+
+0906.16.482.007.2.505.339039.0300 264.900,00
+
+0907.13.392.050.1.215.449051.0400 108.600,00
+
+0907.13.392.050.1.215.449051.0800 127.400,00
+
+0907.16.482.065.1.261.449051.0400 528.500,00
+
+0907.17.512.066.1.203.449051.0800 209.800,00
+
+0907.17.512.066.2.594.449051.0400 64.963,00
+
+0907.28.846.088.3.011.339091.0300 234.600,00
+
+0907.17.512.066.1.203.449051.0400 429.200,00
+
+0908.17.452.007.2.579.339035.0300 209.100,00
+
+0908.17.452.007.2.579.339037.0300 260.000,00
+
+0908.17.452.007.2.579.339046.0300 244.300,00
+
+0908.17.452.046.2.539.339037.0300 111.100,00
+
+0908.17.452.046.2.539.339049.0300 26.000,00
+
+0908.17.452.046.2.539.339037.0300 72.000,00
+
+0908.17.452.046.2.539.339037.0300 185.300,00
+
+0908.17.452.046.2.539.339037.0300 232.000,00
+
+0913.16.482.065.1.231.449051.0400 294.000,00
+
+0916.26.452.063.2.567.339030.0300 110.500,00
+
+1003.12.365.040.2.044.449052.0400 129.000,00
+
+1003.12.361.040.2.041.449052.0400 138.100,00
+
+1008.14.422.054.2.746.339035.0300 52.000,00
+
+1200.04.122.007.2.536.339039.0300 429.100,00
+
+1201.18.541.072.2.079.339039.0300 177.500,00
+
+1202.12.361.040.2.080.339037.0300 340.800,00
+
+1401.27.812.079.1.213.449051.0400 168.200,00
+
+1401.18.541.072.2.079.449051.0400 154.000,00
+
+1502.12.361.040.2.080.339037.0300 422.100,00
+
+1701.16.482.065.1.231.449051.0800 304.700,00
+
+2100.06.122.097.2.789.339030.0300 288.800,00
+
+2100.06.122.097.2.789.339039.0300 163.900,00
+
+2100.06.122.097.2.789.449052.0400 125.800,00
+
+2100.06.122.097.2.791.339030.0300 94.300,00
+
+4001.04.122.088.3.107.339093.0300 362.300,00
+
+4001.28.843.091.3.501.329025.1200 213.000,00
+
+4003.04.122.007.2.026.339039.0300 163.900,00
+
+4003.04.122.007.2.077.339039.0300 402.100,00
+
+4003.04.122.007.2.114.339039.0300 165.400,00
+
+0701.08.331.025.2.587.339093.0300 200.400,00
+
+0907.10.302.030.1.216.449051.0400 230.500,00
+
+1011.08.241.020.2.642.335043.1100 249.000,00
+
+1011.08.244.020.2.640.335043.0300 145.500,00
+
+1011.08.306.020.2.764.339032.0300 119.800,00
+
+1011.08.244.007.2.615.339039.0300 156.100,00
+
+1011.08.244.023.2.650.339033.1100 109.000,00
+
+1017.10.302.027.2.666.449051.0400 196.000,00
+
+1017.10.302.027.2.666.449051.0800 134.000,00
+
+1017.10.302.027.2.666.449051.0800 150.000,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 30 de dezembro de 2004
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluisio Eustáquio de Freitas Marques
+
+Secretário Municipal da Coordenação de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Coordenação de Finanças

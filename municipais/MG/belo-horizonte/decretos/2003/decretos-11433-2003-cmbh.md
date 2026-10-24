@@ -1,0 +1,201 @@
+---
+titulo: "Decreto nº 11433/2003"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "11433"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$4.517.308,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166fb5b39e2e60"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/11433/2003"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7620b0f79a0120d4484ff8041f"
+id_documento: "2c907f7620b0f79a0120d4484ff8041f"
+sha256_fonte: "5986440d5c50ca03b8929cbc092eff72b382bdcf9c02f5ee1e5b7bca2ae637c4"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 11433/2003
+
+DECRETO Nº 11.433, DE 1° DE SETEMBRO DE 2003
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$4.517.308,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º da Lei Orçamentária nº 8.469, de 30 de dezembro de 2002, e, ainda, as disposições do Decreto nº 11.239, de 21 de janeiro de 2003, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$450.989,00 (quatrocentos e cinqüenta mil, novecentos e oitenta e nove reais), para atender às seguintes programações:
+
+0700.04.122.007.2.018.339030.0300 44.470,00
+
+1004.13.392.050.2.654.339039.0300 200.000,00
+
+1011.12.363.022.2.647.449052.0403 29.350,00
+
+1500.04.122.007.2.536.449052.0400 4.112,00
+
+1901.15.451.062.1.230.449051.0400 173.057,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$4.066.319,00 (quatro milhões, sessenta e seis mil, trezentos e dezenove reais), para atender às seguintes programações:
+
+1011.08.244.020.2.640.339037.0300 280.454,00
+
+1011.08.244.020.2.640.339039.0300 821.052,00
+
+1011.08.244.020.2.645.335043.0300 316.771,00
+
+1013.08.243.019.2.634.335043.0308 51.575,00
+
+1013.08.243.019.2.634.445042.0408 20.856,00
+
+1017.10.122.029.2.662.339093.0303 387.582,00
+
+1017.10.301.027.2.679.339032.0310 1.503,00
+
+1017.10.301.027.2.681.339030.0310 6.472,00
+
+1017.10.301.027.2.681.449052.0400 1.341,00
+
+1017.10.301.027.2.681.449052.0403 7.597,00
+
+1017.10.301.027.2.681.449052.0410 3.172,00
+
+1017.10.301.027.2.745.449052.0403 21.848,00
+
+1017.10.302.027.2.666.339030.0310 21.355,00
+
+1017.10.302.027.2.667.339030.0310 805.100,00
+
+1017.10.302.027.2.672.339035.0310 1.500,00
+
+1017.10.302.027.2.678.339039.0310 4.775,00
+
+1017.10.305.028.2.674.339037.0303 565.765,00
+
+1017.10.305.028.2.677.339030.0303 807,00
+
+1017.10.305.028.2.766.449052.0409 413,00
+
+1017.10.301.027.2.685.339030.0310 12.250,00
+
+1017.10.301.027.2.685.449052.0410 40.811,00
+
+1017.10.302.027.2.666.339039.0303 3.858,00
+
+1017.10.302.027.2.671.449052.0410 1.810,00
+
+1017.10.301.027.2.685.339030.0310 4.000,00
+
+1017.10.301.027.2.685.449052.0410 214,00
+
+1017.10.302.027.2.666.449051.0400 189.183,00
+
+1017.10.302.027.2.671.449052.0410 2.500,00
+
+1017.10.303.027.2.686.339030.0310 13.850,00
+
+1017.10.303.027.2.686.449052.0410 1.500,00
+
+1017.10.304.028.2.676.339030.0310 2.713,00
+
+1017.10.301.027.2.685.339030.0310 84.622,00
+
+1017.10.301.027.2.685.339036.0310 3.629,00
+
+1017.10.302.027.2.671.449052.0410 500,00
+
+1017.10.303.027.2.686.339039.0310 12.022,00
+
+1017.10.301.027.2.685.339030.0310 22.598,00
+
+1017.10.302.027.2.671.449052.0410 9.277,00
+
+1017.10.301.027.2.685.339030.0310 98.524,00
+
+1017.10.302.027.2.671.449052.0410 1.500,00
+
+1017.10.302.030.2.688.449052.0410 563,00
+
+1017.10.301.027.2.685.339030.0310 15.515,00
+
+1017.10.301.027.2.685.449052.0410 3.716,00
+
+1017.10.302.027.2.671.449052.0410 2.500,00
+
+1017.10.302.030.2.688.339035.0310 1.207,00
+
+1017.10.302.030.2.688.339039.0310 1.050,00
+
+1017.10.305.028.2.674.339030.0310 2.138,00
+
+1017.10.301.027.2.685.339030.0310 54.087,00
+
+1017.10.302.027.2.671.449052.0410 3.570,00
+
+1017.10.303.027.2.686.339030.0310 1.172,00
+
+1017.10.301.027.2.685.339030.0310 55.022,00
+
+1017.10.302.027.2.671.449052.0410 1.700,00
+
+1017.10.302.030.2.688.339030.0310 46.964,00
+
+1017.10.301.027.2.681.339036.0310 6.207,00
+
+1017.10.301.027.2.685.339030.0310 40.085,00
+
+1017.10.301.027.2.685.449052.0410 1.500,00
+
+1017.10.302.027.2.671.449052.0410 4.024,00
+
+**Art. 3º** - Os recursos necessários à execução do disposto nos artigos anteriores decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$4.517.308,00 (quatro milhões, quinhentos e dezessete mil, trezentos e oito reais):
+
+0904.17.512.066.1.203.449051.0402 421.639,00
+
+1011.12.363.022.2.647.335043.0303 200.000,00
+
+1011.12.363.022.2.647.339039.0300 100.000,00
+
+1011.08.244.020.2.638.339035.0303 241.314,00
+
+1011.08.243.019.2.633.335043.1100 300.000,00
+
+1011.08.243.019.2.633.339039.0303 100.000,00
+
+1011.08.243.019.2.636.339039.0308 25.362,00
+
+1011.08.244.020.2.639.335043.1100 133.953,00
+
+1011.08.244.020.2.640.339039.0308 13.708,00
+
+1011.08.244.020.2.644.339035.0308 16.071,00
+
+1011.08.244.020.2.645.335043.0308 17.219,00
+
+1011.08.244.020.2.767.339039.0303 300.000,00
+
+1013.08.243.019.2.634.339035.0304 72.431,00
+
+1017.10.126.087.2.665.449052.0402 900.000,00
+
+1017.10.126.087.2.665.449052.0403 775.611,00
+
+1017.10.301.027.2.745.339035.0303 900.000,00
+
+**Art. 4º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 1° de setembro de 2003
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluisio Eustáquio de Freitas Marques
+
+Secretário Municipal da Coordenação de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal da Coordenação de Finanças

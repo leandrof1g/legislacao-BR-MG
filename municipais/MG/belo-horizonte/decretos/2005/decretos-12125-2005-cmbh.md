@@ -1,0 +1,181 @@
+---
+titulo: "Decreto nº 12125/2005"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "12125"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos orçamentos da Prefeitura, em favor de diversos órgãos, Crédito Especial no valor de R$ 86.360.754,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166ff83d2a451c"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/12125/2005"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761ae5c720011aff3d5df10988"
+id_documento: "2c907f761ae5c720011aff3d5df10988"
+sha256_fonte: "4d1d1d4c325f83d460b221eb756b192f7612288a5c112d168abbb73420236233"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 12125/2005
+
+DECRETO Nº 12.125, DE 28 DE JULHO DE 2005
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Crédito Especial no valor de R$86.360.754,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no inciso I do artigo 164, da Lei nº 9.011, de 1º de janeiro de 2005, e, nos termos dos artigos 40 a 43, 45 e 46, da Lei Federal nº 4.320, de 17 de março de 1964, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor da Secretaria Municipal Adjunta de Gestão Administrativa, o Crédito Especial no valor de R$31.313,00 (trinta e um mil, trezentos e treze reais), com os seguintes programas de trabalho:
+
+0704.04.122.007.2.508.339039.0300 4.500,00
+
+0704.04.122.007.2.808.339039.0300 26.813,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Especial no valor de R$86.329.441,00 (oitenta e seis milhões, trezentos e vinte nove mil, quatrocentos e quarenta e um reais), com os seguintes programas de trabalho:
+
+0705.09.122.007.2.174.339039.0300 148,00
+
+2300.10.122.029.2.502.339030.0310 10.000,00
+
+2300.10.122.029.2.502.449052.0410 18.000,00
+
+2301.10.122.007.2.653.319004.0606 223.000,00
+
+2301.10.122.007.2.653.449052.0606 9.000,00
+
+2301.10.302.030.2.616.449052.0606 310.000,00
+
+2302.0001.10.122.029.2.662.319034.0100 6.740.000,00
+
+2302.0001.10.122.029.2.662.335043.0310 3.500.000,00
+
+2302.0001.10.122.029.2.662.339036.0303 20.000,00
+
+2302.0001.10.122.029.2.662.339039.0300 1.000.000,00
+
+2302.0001.10.122.029.2.662.339092.0310 900.000,00
+
+2302.0001.10.122.029.2.662.339093.0310 2.360.000,00
+
+2302.0001.10.301.027.2.681.319011.0103 8.000.000,00
+
+2302.0001.10.301.027.2.681.339030.0310 100.000,00
+
+2302.0001.10.301.027.2.681.339032.0310 50.000,00
+
+2302.0001.10.301.027.2.681.339036.0303 100.000,00
+
+2302.0001.10.301.027.2.681.339039.0303 255.000,00
+
+2302.0001.10.301.027.2.681.339039.0310 140.000,00
+
+2302.0001.10.301.027.2.681.449052.0403 53.500,00
+
+2302.0001.10.301.027.2.796.449052.0410 60.000,00
+
+2302.0001.10.302.027.2.666.339035.0310 105.000,00
+
+2302.0001.10.302.027.2.666.339039.0310 132.897,00
+
+2302.0001.10.302.027.2.666.449051.0409 36.000,00
+
+2302.0001.10.302.027.2.666.449051.0410 883.006,00
+
+2302.0001.10.302.027.2.671.339030.0303 50.000,00
+
+2302.0001.10.302.027.2.671.339036.0303 20.000,00
+
+2302.0001.10.302.027.2.671.339036.0310 20.000,00
+
+2302.0001.10.302.027.2.671.339039.0303 50.000,00
+
+2302.0001.10.302.027.2.671.449052.0403 200.000,00
+
+2302.0001.10.302.027.2.671.449052.0410 70.000,00
+
+2302.0001.10.302.027.2.672.339035.0310 2.000,00
+
+2302.0001.10.302.029.2.668.339039.0303 30.000.000,00
+
+2302.0001.10.302.029.2.669.339039.0303 30.000.000,00
+
+2302.0001.10.302.030.2.688.449052.0410 130.000,00
+
+2302.0001.10.304.028.2.676.339030.0303 40.000,00
+
+2302.0001.10.304.028.2.676.339030.0310 20.000,00
+
+2302.0001.10.304.028.2.676.339039.0310 20.000,00
+
+2302.0001.10.305.028.2.674.339030.0310 200.000,00
+
+2302.0001.10.305.028.2.674.339036.0310 50.000,00
+
+2302.0001.10.305.028.2.674.339039.0310 65.000,00
+
+2302.0001.10.305.028.2.675.339036.0310 50.000,00
+
+2302.0001.10.305.028.2.677.449052.0403 83.500,00
+
+2302.0002.10.122.029.2.662.339035.0310 1.000,00
+
+2302.0002.10.122.029.2.662.339039.0303 76.200,00
+
+2302.0002.10.122.029.2.662.339039.0800 70.000,00
+
+2302.0004.10.122.029.2.662.339030.0310 10.000,00
+
+2302.0004.10.122.029.2.662.339092.0310 12.000,00
+
+2302.0005.10.122.029.2.662.449052.0410 8.000,00
+
+2302.0006.10.122.029.2.662.449052.0410 10.000,00
+
+2302.0007.10.122.029.2.662.339035.0310 600,00
+
+2302.0007.10.122.029.2.662.449092.0410 250,00
+
+2302.0008.10.122.029.2.662.339035.0310 1.840,00
+
+2302.0008.10.122.029.2.662.449052.0410 60.000,00
+
+2302.0008.10.122.029.2.662.449092.0800 3.000,00
+
+2302.0009.10.122.029.2.662.339035.0310 500,00
+
+**Art. 3º** - Para atender ao disposto nos artigos anteriores ficam anuladas, parcialmente, as seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, aprovado pela Lei Orçamentária nº 9.009, de 30 de dezembro de 2004, no valor de R$86.360.754,00 (oitenta e seis milhões, trezentos e sessenta mil, setecentos e cinqüenta e quatro reais):
+
+0700.04.122.007.1.229.449052.0400 31.313,00
+
+1009.10.302.030.2.616.339039.0606 538.216,00
+
+1009.10.302.030.2.616.339049.0300 1.113,00
+
+1009.10.302.030.2.616.339092.0606 2.819,00
+
+1017.0001.10.302.029.2.668.339039.0304 8.639.287,00
+
+1017.0001.10.302.029.2.669.335043.0303 1.045.903,00
+
+1017.0001.10.302.029.2.669.335043.0310 4.162,00
+
+1017.0001.10.302.029.2.669.339036.0303 981.607,00
+
+1017.0001.10.302.029.2.669.339039.0303 75.116.334,00
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 28 de julho de 2005
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluísio Eustáquio de Freitas Marques
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Finanças

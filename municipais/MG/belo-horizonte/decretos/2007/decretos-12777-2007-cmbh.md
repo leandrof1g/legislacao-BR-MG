@@ -1,0 +1,191 @@
+---
+titulo: "Decreto nº 12777/2007"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "12777"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$ 5.929.386,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01167033f5d65840"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/12777/2007"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f762eedc4f6012f023a48060093"
+id_documento: "2c907f762eedc4f6012f023a48060093"
+sha256_fonte: "0099fbe3687c3c977a107f7779429486b3f1f2482f11b57d045d96639c0f313e"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 12777/2007
+
+DECRETO Nº 12.777, DE 13 DE JULHO DE 2007
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$5.929.386,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º, da Lei Orçamentária nº 9.301, de 30 de dezembro de 2006, e, ainda, as disposições do Decreto nº 12.604, de 09 de janeiro de 2007, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$4.971.156,00 (quatro milhões, novecentos e setenta e um mil, cento e cinqüenta e seis reais), para atender às seguintes programações:
+
+0201.04.122.096.2.004.339014.0300 10.000,00
+
+0201.04.122.096.2.004.339039.0300 4.371,00
+
+0203.04.131.015.2.779.339036.0300 1.000,00
+
+0205.04.126.085.2.593.339036.0300 5.916,00
+
+0205.04.122.007.2.900.339030.0300 4.746,00
+
+0205.04.122.007.2.900.339039.0300 69.662,00
+
+0206.23.695.086.2.629.339039.0300 323.023,00
+
+0206.23.695.086.2.900.339030.0300 4.747,00
+
+0206.23.695.086.2.900.339036.0300 27.500,00
+
+0500.04.123.007.2.010.339037.0300 10.000,00
+
+0600.04.121.148.2.504.339030.0300 1.000,00
+
+0602.04.122.142.2.759.339036.0300 2.200,00
+
+0603.04.126.153.2.361.339036.0300 1.000,00
+
+0704.04.122.007.1.229.449052.0400 45.468,00
+
+0705.04.122.014.2.809.339014.0300 3.000,00
+
+0801.04.129.013.2.525.339014.0300 7.000,00
+
+0801.04.129.013.2.525.339039.0300 22.083,00
+
+0801.04.129.013.2.524.339039.0300 660.901,00
+
+0801.04.129.013.2.052.339039.0300 24.676,00
+
+0802.04.122.007.2.900.339014.0300 4.816,00
+
+0802.04.122.007.2.900.339030.0300 64.733,00
+
+0802.04.122.007.2.900.339035.0300 31.945,00
+
+0802.04.122.007.2.900.449052.0400 923.007,00
+
+0900.04.122.044.1.219.449051.0400 1.673.574,00
+
+0903.18.542.069.2.514.339039.0300 2.000,00
+
+0903.18.541.069.2.075.339039.0300 500,00
+
+0905.15.452.059.2.900.449052.0400 1.270,00
+
+0909.16.482.007.2.900.339091.0300 2.938,00
+
+0919.04.122.039.2.816.339030.0300 11.600,00
+
+1000.04.122.122.2.304.319004.0103 8.505,00
+
+1000.04.122.122.2.304.339030.0303 11.400,00
+
+1000.04.122.122.2.304.339036.0303 2.500,00
+
+1000.04.122.122.2.304.339037.0303 16.200,00
+
+1000.04.122.122.2.304.339039.0303 3.000,00
+
+1000.04.122.119.2.342.339030.1100 19.350,00
+
+1000.04.122.119.2.342.339036.1100 44.520,00
+
+1000.04.122.120.2.797.339030.0300 1.388,00
+
+1000.04.122.120.2.797.339039.0300 4.326,00
+
+1000.11.334.121.2.577.339030.0300 184,00
+
+1000.11.334.121.2.577.339036.0303 98.473,00
+
+1000.11.334.121.2.577.339037.0300 51.665,00
+
+1000.11.334.121.2.577.339039.0300 284.593,00
+
+1000.04.122.123.2.900.339036.0300 42.840,00
+
+1000.04.122.123.2.900.449052.0400 3.653,00
+
+1007.27.812.101.2.757.339039.1100 220.332,00
+
+1007.27.812.125.2.900.339037.0300 56.310,00
+
+1008.14.422.129.2.900.449052.0400 18.970,00
+
+1501.18.541.072.2.079.339039.0300 6.721,00
+
+1501.18.541.073.2.078.339039.0300 16.100,00
+
+1600.04.122.007.2.900.339039.0300 23.200,00
+
+1601.15.452.059.2.540.339036.0300 7.200,00
+
+1602.12.365.135.2.542.339036.0300 24.000,00
+
+1602.12.365.135.2.542.339037.0300 4.500,00
+
+2000.04.122.007.2.900.339039.0300 13.350,00
+
+2400.04.122.012.2.366.339039.0300 600,00
+
+2401.04.122.012.2.523.339039.0300 600,00
+
+2402.04.122.012.2.771.449052.0400 42.000,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$958.230,00 (novecentos e cinqüenta e oito mil, duzentos e trinta reais), para atender às seguintes programações:
+
+0701.08.331.025.2.588.319092.0100 20.000,00
+
+0701.08.331.025.2.590.339036.0300 15.000,00
+
+0900.10.302.117.1.216.449051.0800 885.021,00
+
+1302.08.243.020.2.558.339037.0300 1.239,00
+
+1302.08.244.019.2.804.339039.0300 2.970,00
+
+1602.08.244.019.2.804.339036.0300 27.000,00
+
+1802.08.243.020.2.558.339037.0300 7.000,00
+
+**Art. 3º** - Os recursos necessários à execução do disposto nos artigos anteriores decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$5.929.386,00 (cinco milhões, novecentos e vinte e nove mil, trezentos e oitenta e seis reais):
+
+0205.19.572.110.2.603.339039.0303 80.324,00
+
+0900.17.512.066.1.201.449051.0403 2.558.595,00
+
+0900.17.512.066.1.203.449051.0803 2.000.000,00
+
+0907.15.451.062.1.230.449051.0403 162.000,00
+
+0907.17.512.066.1.203.449051.0403 568.000,00
+
+4001.99.999.999.9.999.999999.1400 553.467,00
+
+1802.08.244.019.2.804.339037.0300 7.000,00
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 13 de julho de 2007
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

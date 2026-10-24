@@ -1,0 +1,181 @@
+---
+titulo: "Decreto nº 13669/2009"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "13669"
+data: ""
+data_publicacao: ""
+ementa: "Realoca as fontes de recursos dos programas de trabalho de diversos órgãos da PBH, adstritas à mesma função de governo, através de Crédito Adicional Suplementar, no valor de R$22.668.159,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f7622ea4193012303e44ac600e7"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/13669/2009"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7622ea4193012303e4cd7300ec"
+id_documento: "2c907f7622ea4193012303e4cd7300ec"
+sha256_fonte: "5f38d8b5243063c815978ac31cf113933358a7b3d7b2598b5edaedcef4242a96"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 13669/2009
+
+DECRETO Nº 13.669, DE 7 DE AGOSTO DE 2009
+
+Realoca as fontes de recursos dos programas de trabalho de diversos órgãos da PBH, adstritas à mesma função de governo, através de Crédito Adicional Suplementar, no valor de R$22.668.159,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 10, inciso IV da Lei Orçamentária nº 9.668, de 30 de dezembro de 2008, e, ainda, as disposições do Decreto nº 13.484, de 09 de janeiro de 2009, decreta:
+
+**Art. 1º** - Incorpora ao Orçamento Fiscal e ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos da PBH, recursos orçamentários no montante de R$22.668.159,00 (vinte e dois milhões, seiscentos e sessenta e oito mil, cento e cinquenta e nove reais), financiadores dos seguintes programas de trabalho:
+
+0206.23.695.086.2.630.339039.0300 167.000,00
+
+0207.13.392.147.2.314.339031.0300 33.766,00
+
+0207.13.392.147.2.314.339036.0300 37.750,00
+
+0207.13.392.147.2.314.339039.0300 11.884,00
+
+0906.16.482.064.2.900.339030.0300 18.000,00
+
+0906.16.482.064.2.900.449052.0400 16.839,00
+
+0907.06.122.044.1.219.449051.0400 153.000,00
+
+0907.12.365.135.1.211.449051.0800 2.030.000,00
+
+0907.16.482.065.1.231.449051.0800 1.712.188,00
+
+0907.16.482.065.1.261.449051.0402 11.911.005,00
+
+0907.16.482.065.1.261.449051.0818 80.000,00
+
+0907.16.482.065.1.305.449051.0402 180.000,00
+
+0907.17.512.066.1.203.449051.0802 112.000,00
+
+0908.0010.17.512.046.2.539.339036.0300 5.400,00
+
+0908.0015.17.512.007.2.900.319034.0100 73.500,00
+
+0908.0015.17.512.007.2.900.339093.0300 6.000,00
+
+0908.0015.17.512.007.2.900.449051.0402 376.000,00
+
+0909.16.482.007.2.900.319091.0100 44.666,00
+
+0910.26.453.062.2.567.319113.0112 3.000,00
+
+0910.26.453.062.2.567.339036.0312 22.800,00
+
+0911.18.541.073.2.794.319011.0100 72.000,00
+
+0911.18.541.073.2.794.319113.0100 11.000,00
+
+2200.12.122.140.2.317.339037.0300 63.600,00
+
+2200.12.122.140.2.317.339039.0300 247.700,00
+
+1006.08.244.007.2.900.339030.0300 31.500,00
+
+1011.0009.08.244.020.2.353.339033.0300 7.000,00
+
+1011.0009.08.244.020.2.353.339039.0300 1.700,00
+
+1011.0011.08.244.020.2.353.339039.0300 1.100,00
+
+1011.0014.08.244.020.2.353.339048.0300 4.700,00
+
+1011.0015.08.244.020.2.353.339048.0300 3.900,00
+
+1011.0017.08.244.019.2.308.339036.0300 800,00
+
+1011.0017.08.244.019.2.309.335043.1100 27.400,00
+
+1011.0018.08.244.020.2.353.335043.0300 16.300,00
+
+1011.0018.08.244.020.2.355.335043.0300 215.000,00
+
+2301.10.122.007.2.900.319004.0100 45.000,00
+
+2301.10.122.007.2.900.319092.0100 420.000,00
+
+2302.0001.10.122.117.2.662.339039.0310 4.500,00
+
+2302.0001.10.122.117.2.662.339092.0310 31.173,00
+
+2302.0001.10.301.117.2.681.339030.0310 247.976,00
+
+2302.0001.10.303.114.2.678.339030.0310 3.212.490,00
+
+2302.0001.10.303.114.2.678.339032.0310 898.122,00
+
+2302.0001.10.305.028.2.829.339030.0310 110.400,00
+
+**Art. 2º** - As fontes orçamentárias para atendimento à realocação de recursos fiscais decorrerão das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$22.668.159,00 (vinte e dois milhões, seiscentos e sessenta e oito mil, cento cinquenta e nove reais):
+
+0206.23.695.086.2.629.339039.0303 167.000,00
+
+0207.13.392.049.2.659.339039.0303 83.400,00
+
+0907.06.122.044.1.219.449051.0403 153.000,00
+
+0907.12.365.135.1.211.449051.0403 2.030.000,00
+
+0907.16.482.064.1.207.449051.0402 6.883.193,00
+
+0907.16.482.064.1.207.449051.0800 3.000.000,00
+
+0907.16.482.064.1.207.449051.0818 4.000.000,00
+
+0907.17.512.066.1.203.449051.0418 112.000,00
+
+0908.0015.17.512.007.2.900.449051.0406 460.900,00
+
+0911.18.541.073.2.581.339036.0300 83.000,00
+
+0913.16.482.064.1.207.449051.0803 79.505,00
+
+0916.26.452.060.1.112.449051.0400 25.800,00
+
+2200.12.361.136.2.302.339039.0317 311.300,00
+
+1013.08.243.019.2.309.339035.0304 59.459,00
+
+1013.08.243.019.2.309.339092.0304 102.340,00
+
+1013.08.243.019.2.309.339092.0308 89.189,00
+
+1013.08.243.019.2.309.449092.0408 1.327,00
+
+1013.08.243.020.2.353.339092.0304 25.585,00
+
+1013.08.243.020.2.353.339092.0308 31.500,00
+
+2301.10.302.030.2.616.339030.0306 51.040,00
+
+2301.10.302.030.2.616.339092.0306 130.000,00
+
+2301.10.302.030.2.620.339030.0306 130.000,00
+
+2301.10.302.030.2.620.339035.0306 27.000,00
+
+2301.10.302.030.2.620.339092.0306 126.960,00
+
+2302.0001.10.122.117.2.669.339039.0303 4.504.661,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 7 de agosto de 2009
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Helvécio Miranda Magalhães Junior
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

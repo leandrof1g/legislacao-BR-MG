@@ -1,0 +1,195 @@
+---
+titulo: "Decreto nº 13340/2008"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "13340"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$9.353.238,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f761d0a581f011d0afcd013001e"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/13340/2008"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761d0a581f011d0afd06680023"
+id_documento: "2c907f761d0a581f011d0afd06680023"
+sha256_fonte: "c41089adbf2dd5f8835583ada85ebe4b546869e3f7a49eb2a37a084c5b54ca70"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 13340/2008
+
+DECRETO Nº 13.340, DE 16 DE OUTUBRO DE 2008
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$9.353.238,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º, da Lei Orçamentária nº 9.485, de 28 de dezembro de 2007, e, ainda, as disposições do Decreto nº 13.021, de 11 de janeiro de 2008, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$8.828.238,00 (oito milhões, oitocentos e vinte e oito mil, duzentos e trinta e oito reais), para atender às seguintes programações:
+
+0205.04.126.085.2.593.339039.0300 24.500,00
+
+0205.04.122.007.2.601.339039.0300 68.056,00
+
+0205.04.122.007.2.900.339008.0300 157.604,00
+
+0205.04.122.007.2.900.339036.0300 13.600,00
+
+0205.04.122.007.2.900.339037.0300 28.474,00
+
+0205.04.122.007.2.900.339039.0300 404.107,00
+
+0205.19.572.085.2.602.339030.0300 67.000,00
+
+0205.19.572.085.2.602.339035.0300 15.200,00
+
+0205.19.572.085.2.602.339039.0300 150.000,00
+
+0205.19.572.110.2.603.339035.0300 223.062,00
+
+0205.19.572.110.2.603.339039.0300 191.303,00
+
+0205.19.126.149.2.604.339036.0300 1.646,00
+
+0300.04.131.015.2.007.339039.0300 119.105,00
+
+0500.04.123.007.2.010.319004.0100 220.000,00
+
+0500.04.123.007.2.010.339039.0300 250.800,00
+
+0500.04.062.003.2.028.339036.0300 10.000,00
+
+0500.04.062.003.2.012.339039.0300 100.000,00
+
+0600.04.121.148.2.504.339035.0300 200.000,00
+
+0600.04.121.148.2.504.339039.0300 1.400,00
+
+0600.04.121.148.2.900.339030.0300 5.000,00
+
+0800.04.129.013.2.057.339036.0300 5.000,00
+
+0801.04.129.013.1.320.339035.0300 236.631,00
+
+0801.04.129.013.2.524.339035.0300 54.559,00
+
+0801.04.129.013.2.524.339039.0300 1.710.347,00
+
+0801.04.129.013.2.052.339039.0300 386.033,00
+
+0802.04.123.012.2.528.339039.0300 629,00
+
+0802.04.122.007.2.900.339030.0300 53.161,00
+
+0802.04.122.007.2.900.339035.0300 180.000,00
+
+0802.04.124.012.1.318.339035.0300 231.780,00
+
+0900.04.122.044.1.327.449051.0402 497.932,00
+
+0900.04.122.044.1.219.449051.0400 6.129,00
+
+0900.04.122.044.1.219.449051.0400 10.414,00
+
+0903.18.541.069.2.072.339039.0300 1.000,00
+
+0903.18.541.070.2.786.339036.0300 5.014,00
+
+0903.18.122.007.2.900.319004.0100 18.210,00
+
+0903.18.122.007.2.900.339030.0300 18.000,00
+
+0903.18.122.007.2.900.339039.0300 159.711,00
+
+0903.18.122.007.2.900.449052.0400 14.971,00
+
+0905.15.452.010.2.520.339030.0300 2.000,00
+
+0905.15.452.059.2.900.339039.0300 63.000,00
+
+0907.04.122.007.2.900.339008.0300 150.000,00
+
+0907.04.122.007.2.900.339030.0300 75.000,00
+
+0907.04.122.007.2.900.339035.0300 18.000,00
+
+0907.04.122.007.2.900.339036.0300 10.500,00
+
+0907.04.122.007.2.900.339039.0300 1.830.000,00
+
+0907.04.122.007.2.900.339047.0300 70.000,00
+
+0907.04.122.007.2.900.339049.0300 50.000,00
+
+0914.18.541.071.2.074.339039.0300 78.000,00
+
+0918.06.182.020.2.541.339030.0300 5.072,00
+
+0918.06.182.020.2.541.339039.0300 32.400,00
+
+1005.11.333.133.2.330.339039.0300 1.000,00
+
+1008.14.422.121.2.332.339039.0300 1.600,00
+
+1008.14.422.127.2.345.339039.0300 1.000,00
+
+1010.23.692.077.2.307.339039.0300 131.000,00
+
+2000.04.122.007.2.900.339035.0300 200.000,00
+
+2000.04.122.007.2.900.339036.0300 5.000,00
+
+2401.04.122.012.2.523.339030.0300 297,00
+
+2401.04.122.012.2.523.339039.0300 105.034,00
+
+2403.04.122.012.2.548.339030.0300 9.480,00
+
+2403.04.122.012.2.548.339039.0300 99.477,00
+
+4001.04.122.088.3.091.339093.0300 50.000,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$525.000,00 (quinhentos e vinte e cinco mil reais), para atender às seguintes programações:
+
+1005.08.122.132.2.900.339030.0300 3.300,00
+
+1005.08.122.132.2.900.339039.0300 48.500,00
+
+1006.08.244.007.2.900.339039.0300 284.200,00
+
+1014.08.306.074.2.761.339030.0300 189.000,00
+
+**Art. 3º** - Os recursos necessários à execução do disposto nos artigos anteriores decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$9.353.238,00 (nove milhões, trezentos e cinqüenta e três mil, duzentos e trinta e oito reais):
+
+0603.04.122.087.2.756.339039.0300 2.190.250,00
+
+0900.16.482.065.1.305.449051.0418 2.999.343,00
+
+0900.17.512.066.1.201.449051.0404 514.475,00
+
+0907.15.452.062.1.303.449051.0404 2.203.500,00
+
+0913.16.482.064.1.207.449051.0803 1.344.552,00
+
+1013.08.243.113.2.349.339035.0304 29.620,00
+
+1013.08.243.020.2.354.339092.0300 30.642,00
+
+1013.08.243.020.2.827.335043.0309 40.856,00
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 16 de outubro de 2008
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Maria Fernandes Caldas
+
+Secretária Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

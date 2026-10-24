@@ -1,0 +1,61 @@
+---
+titulo: "Decreto nº 13406/2008"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "13406"
+data: ""
+data_publicacao: ""
+ementa: "Realoca os recursos dos programas de trabalho consignados nas dotações orçamentárias de pessoal e encargos sociais, de diversos órgãos da PBH, através de Crédito Adicional Suplementar, no valor de R$1.114.600,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f761de31c85011dfc92467902ca"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/13406/2008"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761de31c85011dfc927c5e02cf"
+id_documento: "2c907f761de31c85011dfc927c5e02cf"
+sha256_fonte: "f4b288933dbe24d2ebcf81d198211947e51b33c9a6782bd08559bbbf3d95bf82"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 13406/2008
+
+DECRETO Nº 13.406, DE 2 DE DEZEMBRO DE 2008
+
+Realoca os recursos dos programas de trabalho consignados nas dotações orçamentárias de pessoal e encargos sociais, de diversos órgãos da PBH, através de Crédito Adicional Suplementar, no valor de R$1.114.600,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 10, inciso III da Lei Orçamentária nº 9.485, de 28 de dezembro de 2007, e, ainda, as disposições do Decreto nº 13.021, de 11 de janeiro de 2008,
+
+decreta:
+
+**Art. 1º** - Realoca os recursos consignados nas dotações de pessoal e encargos sociais, no montante de R$1.114.600,00 (hum milhão, cento e quatorze mil e seiscentos reais), acrescentando crédito orçamentário nos seguintes programas de trabalho:
+
+0205.04.126.085.2.593.319013.0100 20.000,00
+
+0909.16.482.007.2.900.319011.0100 1.088.000,00
+
+2302.0006.10.122.117.2.662.319004.0100 6.600,00
+
+**Art. 2º** - Para atendimento ao remanejamento de recursos das dotações de pessoal e encargos sociais mencionadas no artigo 1º, ficam reduzidos os créditos orçamentários consignados nos seguintes programas de trabalho do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$1.114.600,00 (hum milhão, cento e quatorze mil e seiscentos reais):
+
+0205.19.572.110.2.603.319004.0100 458.000,00
+
+0909.16.482.007.2.900.319004.0100 650.000,00
+
+2302.0001.10.301.114.2.681.319011.0103 6.600,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 2 de dezembro de 2008
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Maria Fernandes Caldas
+
+Secretária Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

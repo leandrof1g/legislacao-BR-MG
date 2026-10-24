@@ -1,0 +1,165 @@
+---
+titulo: "Decreto nº 11523/2003"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "11523"
+data: ""
+data_publicacao: ""
+ementa: "Realoca recursos consignados no Orçamento da Prefeitura, em favor de diversos órgãos, para processamento de despesas com pessoal, no montante de R$ 1.568.800,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166fbd210530fe"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/11523/2003"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7620b0f79a0120d954822c053e"
+id_documento: "2c907f7620b0f79a0120d954822c053e"
+sha256_fonte: "3c4a205d6d3a4a3bd5da49e24b4208315d22c039ef05b7d170e440cf412bc78a"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 11523/2003
+
+DECRETO Nº 11.523, DE 6 DE NOVEMBRO DE 2003
+
+Realoca recursos consignados no Orçamento da Prefeitura, em favor de diversos órgãos, para processamento de despesas com pessoal, no montante de R$1.568.800,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 10, inciso IV da Lei Orçamentária nº 8.469, de 30 de dezembro de 2002, e, ainda, as disposições do Decreto nº 11.239, de 21 de janeiro de 2003,
+
+decreta:
+
+**Art. 1º** - Ficam realocados créditos consignados nas dotações orçamentárias de diversos órgãos da PBH, no valor de R$1.568.800,00 (um milhão, quinhentos e sessenta e oito mil e oitocentos reais), com as seguintes discriminações:
+
+I - Acréscimo:
+
+0202.04.122.096.2.005.319011.0100 23.300,00
+
+0302.04.131.015.2.522.319011.0100 22.700,00
+
+0500.02.062.003.2.028.319011.0100 2.400,00
+
+0600.04.122.096.2.504.319011.0100 104.900,00
+
+0600.04.122.096.2.504.319013.0100 10.600,00
+
+0601.04.122.096.2.550.319011.0100 71.300,00
+
+0601.04.122.096.2.550.319013.0100 17.700,00
+
+0602.04.121.004.2.518.319011.0100 53.500,00
+
+0602.04.121.004.2.518.319013.0100 8.100,00
+
+0901.15.122.007.2.575.319011.0100 8.400,00
+
+0902.17.452.083.2.562.319011.0100 39.500,00
+
+0902.17.452.083.2.209.319011.0100 2.500,00
+
+0905.15.452.057.2.138.319011.0100 219.700,00
+
+0905.15.452.057.2.138.319013.0100 17.000,00
+
+1008.14.422.094.2.751.319011.0100 5.500,00
+
+1008.14.422.008.2.754.319011.0100 64.700,00
+
+1008.14.422.008.2.754.319013.0100 4.300,00
+
+1201.15.451.062.1.230.319011.0100 3.700,00
+
+1202.13.392.050.2.081.319011.0100 14.900,00
+
+1302.12.365.040.2.542.319011.0100 272.600,00
+
+1302.12.365.040.2.542.319013.0100 51.000,00
+
+1402.13.392.050.2.081.319011.0100 10.700,00
+
+1402.13.392.050.2.081.319013.0100 300,00
+
+1502.12.365.040.2.542.319013.0100 26.900,00
+
+1602.12.361.040.2.080.319011.0105 33.800,00
+
+1602.12.365.040.2.542.319011.0100 104.700,00
+
+1602.12.365.040.2.542.319013.0100 15.500,00
+
+1602.13.392.050.2.081.319011.0100 8.500,00
+
+1602.13.392.050.2.081.319013.0100 400,00
+
+1701.15.451.062.1.230.319011.0100 5.300,00
+
+1702.12.365.040.2.542.319013.0100 1.300,00
+
+1802.12.361.040.2.080.319011.0105 115.500,00
+
+1802.12.365.040.2.542.319011.0100 43.500,00
+
+1802.13.392.050.2.549.319011.0100 6.200,00
+
+1902.12.365.040.2.542.319013.0100 21.200,00
+
+1006.08.244.022.2.648.319011.0100 11.400,00
+
+1202.08.243.019.2.558.319011.0100 8.500,00
+
+1302.08.243.019.2.558.319011.0100 6.400,00
+
+1502.08.244.020.2.559.319011.0100 73.100,00
+
+1602.08.243.019.2.558.319011.0100 10.500,00
+
+1702.08.243.019.2.558.319011.0100 21.600,00
+
+1702.08.244.020.2.559.319011.0100 6.500,00
+
+1902.08.243.019.2.558.319011.0100 18.700,00
+
+II - Decréscimo:
+
+0500.02.123.007.2.010.319011.0100 150.000,00
+
+0602.04.122.007.2.505.319011.0100 100.000,00
+
+0700.04.122.007.2.508.319011.0100 50.000,00
+
+0700.04.122.014.2.020.319011.0100 50.000,00
+
+0801.04.129.013.2.525.319013.0100 50.000,00
+
+1008.14.422.007.2.544.319011.0100 150.000,00
+
+1201.15.452.059.2.540.319011.0100 50.000,00
+
+1201.15.452.059.2.540.319013.0100 32.800,00
+
+1302.12.361.040.2.080.319011.0100 100.000,00
+
+1402.12.361.040.2.080.319011.0100 400.000,00
+
+1802.12.361.040.2.080.319011.0100 186.000,00
+
+1005.10.306.074.2.120.319011.0100 50.000,00
+
+1006.08.243.019.2.633.319011.0100 150.000,00
+
+1006.08.244.020.2.640.319011.0100 50.000,00
+
+**Art. 2º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 6 de novembro de 2003
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluisio Eustáquio de Freitas Marques
+
+Secretário Municipal da Coordenação de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal da Coordenação de Finanças

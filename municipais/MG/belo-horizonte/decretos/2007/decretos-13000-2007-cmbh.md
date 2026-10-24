@@ -1,0 +1,173 @@
+---
+titulo: "Decreto nº 13000/2007"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "13000"
+data: ""
+data_publicacao: ""
+ementa: "Realoca os recursos dos programas de trabalho consignados nas dotações orçamentárias de pessoal e encargos sociais, entre os diversos órgãos da PBH, através de Crédito Adicional Suplementar, no valor de R$25.000.000,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f7616d9fdd40117165d3721012b"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/13000/2007"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7630fae2ae0131193303990016"
+id_documento: "2c907f7630fae2ae0131193303990016"
+sha256_fonte: "bf4b4ed1c264329a24178d47d6546760ef866c60fc8963bfb1a10da6f366f841"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 13000/2007
+
+DECRETO Nº 13.000, DE 19 DE DEZEMBRO DE 2007
+
+Realoca os recursos dos programas de trabalho consignados nas dotações orçamentárias de pessoal e encargos sociais, entre os diversos órgãos da PBH, através de Crédito Adicional Suplementar, no valor de R$25.000.000,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 10, inciso III da Lei Orçamentária nº 9.301, de 30 de dezembro de 2006, e, ainda, as disposições do Decreto nº 12.604, de 09 de janeiro de 2007, decreta:
+
+**Art. 1º** - Realoca os recursos consignados nas dotações de pessoal e encargos sociais, no montante de R$25.000.000,00 (vinte e cinco milhões de reais), acrescentando crédito orçamentário nos seguintes programas de trabalho:
+
+1102.12.361.136.2.080.319011.0105 2.500.000,00
+
+1102.12.361.136.2.080.319113.0100 350.000,00
+
+1102.12.361.136.2.080.319113.0105 520.000,00
+
+1102.12.362.137.2.150.319013.0100 5.000,00
+
+1102.12.362.137.2.150.319113.0100 60.000,00
+
+1102.12.365.135.2.542.319011.0100 850.000,00
+
+1202.12.365.135.2.542.319011.0100 480.000,00
+
+1202.12.365.135.2.542.319113.0100 80.000,00
+
+1302.12.361.136.2.080.319013.0100 5.000,00
+
+1302.12.362.137.2.150.319013.0100 3.000,00
+
+1302.12.362.137.2.150.319113.0100 110.000,00
+
+1302.12.365.135.2.542.319011.0100 580.000,00
+
+1302.12.365.135.2.542.319013.0100 1.000,00
+
+1302.12.365.135.2.542.319113.0100 150.000,00
+
+1402.12.361.136.2.080.319011.0105 2.000.000,00
+
+1402.12.361.136.2.080.319113.0105 440.000,00
+
+1402.12.365.135.2.542.319011.0100 1.100.000,00
+
+1402.12.365.135.2.542.319013.0100 1.000,00
+
+1402.12.365.135.2.542.319113.0100 280.000,00
+
+1502.12.361.136.2.080.319011.0105 1.470.000,00
+
+1502.12.361.136.2.080.319113.0100 250.000,00
+
+1502.12.365.135.2.542.319011.0100 1.000.000,00
+
+1602.12.361.136.2.080.319011.0105 1.400.000,00
+
+1602.12.361.136.2.080.319113.0100 850.000,00
+
+1602.12.361.136.2.080.319113.0105 300.000,00
+
+1602.12.365.135.2.542.319011.0100 720.000,00
+
+1702.12.362.137.2.150.319011.0100 400.000,00
+
+1702.12.362.137.2.150.319013.0100 1.000,00
+
+1702.12.362.137.2.150.319113.0100 110.000,00
+
+1702.12.365.135.2.542.319113.0100 120.000,00
+
+1802.12.361.136.2.080.319011.0105 1.100.000,00
+
+1802.12.361.136.2.080.319113.0105 250.000,00
+
+1802.12.362.137.2.150.319113.0100 25.000,00
+
+1802.12.365.135.2.542.319011.0100 510.000,00
+
+1802.12.365.135.2.542.319113.0100 145.000,00
+
+1902.12.361.136.2.080.319011.0105 2.300.000,00
+
+1902.12.361.136.2.080.319113.0105 500.000,00
+
+1902.12.362.137.2.150.319013.0100 4.000,00
+
+1902.12.362.137.2.150.319113.0100 150.000,00
+
+1902.12.365.135.2.542.319011.0100 150.000,00
+
+1902.12.365.135.2.542.319113.0100 160.000,00
+
+2200.12.122.088.2.500.319092.0100 2.000.000,00
+
+2200.12.122.140.2.317.319013.0100 18.000,00
+
+2200.12.361.136.2.041.319011.0100 346.000,00
+
+2200.12.361.136.2.041.319013.0100 6.000,00
+
+2200.12.361.136.2.041.319113.0100 1.200.000,00
+
+**Art. 2º** - Para atendimento ao remanejamento de recursos das dotações de pessoal e encargos sociais mencionadas no artigo 1º, ficam reduzidos os créditos orçamentários consignados nos seguintes programas de trabalho do Orçamento Fiscal da Prefeitura, no valor de R$25.000.000,00 (vinte e cinco milhões de reais):
+
+1102.12.365.135.2.542.319113.0100 800.000,00
+
+1202.12.362.137.2.150.319011.0100 500.000,00
+
+1202.12.362.137.2.150.319113.0100 200.000,00
+
+1302.12.361.136.2.080.319011.0100 800.000,00
+
+1302.12.361.136.2.080.319113.0100 1.300.000,00
+
+1402.12.361.136.2.080.319113.0100 1.000.000,00
+
+1502.12.361.136.2.080.319011.0100 2.000.000,00
+
+1502.12.362.137.2.150.319011.0100 1.000.000,00
+
+1602.12.361.136.2.080.319011.0100 2.600.000,00
+
+1602.12.362.137.2.150.319113.0100 780.000,00
+
+1602.12.365.135.2.542.319113.0100 620.000,00
+
+1802.12.361.136.2.080.319011.0100 2.000.000,00
+
+1802.12.362.137.2.150.319011.0100 200.000,00
+
+1902.12.361.136.2.080.319011.0100 4.000.000,00
+
+1902.12.362.137.2.150.319011.0100 1.000.000,00
+
+2200.12.122.140.2.316.319011.0100 5.000.000,00
+
+2200.12.122.140.2.316.319113.0100 1.200.000,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 19 de dezembro de 2007
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

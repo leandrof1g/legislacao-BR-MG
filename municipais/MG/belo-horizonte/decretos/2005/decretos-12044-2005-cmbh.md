@@ -1,0 +1,163 @@
+---
+titulo: "Decreto nº 12044/2005"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "12044"
+data: ""
+data_publicacao: ""
+ementa: "Abre ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, Crédito Especial no valor de R$5.031.165,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166ff2d1684350"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/12044/2005"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761ae5c720011aef65ac70070e"
+id_documento: "2c907f761ae5c720011aef65ac70070e"
+sha256_fonte: "7e88652c7d7ed4a81715cea680214216e8c4c3f8152fe13492564a7e810e1fc7"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 12044/2005
+
+DECRETO Nº 12.044, DE 17 DE MAIO DE 2005
+
+Abre ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, Crédito Especial no valor de R$5.031.165,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no inciso I do artigo 164, da Lei nº 9.011, de 1º de janeiro de 2005, e, nos termos dos artigos 40 a 43, 45 e 46, da Lei Federal nº 4.320, de 17 de março de 1964, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Especial no valor de R$5.031.165,00 (cinco milhões, trinta e um mil, cento e sessenta e cinco reais), com os seguintes programas de trabalho:
+
+2300.10.122.029.2.502.339030.0310 200,00
+
+2300.10.122.029.2.502.339039.0310 10.000,00
+
+2300.10.122.029.2.662.339039.0310 785.362,00
+
+2301.10.122.007.2.653.319011.0100 43.050,00
+
+2301.10.122.007.2.653.319013.0100 201.600,00
+
+2301.10.122.007.2.653.319034.0100 4.200,00
+
+2301.10.122.007.2.653.319092.0100 378.000,00
+
+2301.10.122.007.2.653.339036.0300 3.000,00
+
+2301.10.122.007.2.653.339036.0606 5.000,00
+
+2301.10.122.007.2.653.339039.0300 23.835,00
+
+2301.10.122.007.2.653.339047.0606 2.000,00
+
+2301.10.302.030.2.616.319034.0100 53.000,00
+
+2301.10.302.030.2.616.339030.0606 150.000,00
+
+2301.10.302.030.2.616.339035.0606 2.250,00
+
+2301.10.302.030.2.620.319034.0100 202.000,00
+
+2301.10.302.030.2.620.339039.0606 33.500,00
+
+2302.0001.10.122.029.2.662.339035.0303 8.000,00
+
+2302.0001.10.122.029.2.662.339036.0303 6.000,00
+
+2302.0001.10.122.029.2.662.339092.0310 628.549,00
+
+2302.0001.10.122.029.2.662.339093.0303 50.000,00
+
+2302.0001.10.122.029.2.662.449052.0409 6.030,00
+
+2302.0001.10.122.087.2.665.449052.0402 1.500.000,00
+
+2302.0001.10.301.027.2.679.339030.0310 50.000,00
+
+2302.0001.10.301.027.2.679.339032.0310 20.000,00
+
+2302.0001.10.301.027.2.679.449052.0410 30.000,00
+
+2302.0001.10.301.027.2.681.319011.0100 230.000,00
+
+2302.0001.10.301.027.2.681.449052.0410 42.050,00
+
+2302.0001.10.301.027.2.796.339039.0310 1.500,00
+
+2302.0001.10.302.027.2.671.339039.0310 625,00
+
+2302.0001.10.302.027.2.678.339030.0310 13.300,00
+
+2302.0001.10.302.027.2.678.339032.0310 5.060,00
+
+2302.0001.10.302.027.2.678.339039.0310 165,00
+
+2302.0001.10.304.028.2.676.339039.0303 90.000,00
+
+2302.0001.10.304.028.2.676.339039.0310 10.000,00
+
+2302.0001.10.305.028.2.675.339030.0310 10.000,00
+
+2302.0001.10.305.028.2.675.449052.0410 2.000,00
+
+2302.0001.10.305.028.2.677.449052.0410 3.390,00
+
+2302.0003.10.122.029.2.662.339030.0310 3.000,00
+
+2302.0003.10.122.029.2.662.449052.0410 3.500,00
+
+2302.0004.10.122.029.2.662.339035.0310 144,00
+
+2302.0004.10.122.029.2.662.339037.0310 1.400,00
+
+2302.0004.10.122.029.2.662.339039.0310 25.618,00
+
+2302.0004.10.122.029.2.662.449052.0410 785,00
+
+2302.0005.10.122.029.2.662.339039.0310 360,00
+
+2302.0006.10.122.029.2.662.449051.0800 257.305,00
+
+2302.0006.10.122.029.2.662.449052.0410 150,00
+
+2302.0008.10.122.029.2.662.449052.0410 1.267,00
+
+2302.0009.10.122.029.2.662.339035.0310 144,00
+
+2302.0009.10.122.029.2.662.339036.0310 110,00
+
+2302.0009.10.122.029.2.662.339037.0310 26.000,00
+
+2302.0009.10.122.029.2.662.339039.0310 560,00
+
+2302.0010.10.122.029.2.662.339037.0310 85.856,00
+
+2302.0010.10.122.029.2.662.339039.0310 21.300,00
+
+**Art. 2º** - Para atender ao disposto no artigo anterior ficam anuladas, parcialmente, as seguintes dotações do Orçamento da Seguridade Social da Prefeitura, aprovado pela Lei Orçamentária nº 9.009, de 30 de dezembro de 2004, no valor de R$5.031.165,00 (cinco milhões, trinta e um mil, cento e sessenta e cinco reais):
+
+1002.10.122.029.2.662.339037.0310 795.562,00
+
+1009.10.122.007.2.653.319091.0100 551.000,00
+
+1009.10.302.030.2.616.339037.0606 550.435,00
+
+1017.10.302.030.2.688.339037.0310 3.122.100,00
+
+1017.10.304.028.2.676.339030.0303 12.068,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 17 de maio de 2005
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluísio Eustáquio de Freitas Marques
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Finanças

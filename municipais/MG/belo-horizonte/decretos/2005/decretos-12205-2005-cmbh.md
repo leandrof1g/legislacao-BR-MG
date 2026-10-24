@@ -1,0 +1,333 @@
+---
+titulo: "Decreto nº 12205/2005"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "12205"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Crédito Especial no valor de R$79.131.733,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166ffe13bd4706"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/12205/2005"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761ae5c720011b043d7cd40a5f"
+id_documento: "2c907f761ae5c720011b043d7cd40a5f"
+sha256_fonte: "31aa98aaed5d92917c9d78fbd832a5fb08db2a5f51613848891bb47a311eec90"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 12205/2005
+
+DECRETO Nº 12.205, DE 24 DE OUTUBRO DE 2005
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Crédito Especial no valor de R$79.131.733,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no inciso I do artigo 164, da Lei nº 9.011, de 1º de janeiro de 2005, e, nos termos dos artigos 40 a 43, 45 e 46, da Lei Federal nº 4.320, de 17 de março de 1964, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Especial no valor de R$6.898.645,00 (seis milhões, oitocentos e noventa e oito mil, seiscentos e quarenta e cinco reais), com os seguintes programas de trabalho:
+
+I - Para a Fundação Municipal de Cultura, no valor de R$635.000,00 (seiscentos e trinta e cinco mil reais):
+
+Serviços Administrativos e Financeiros de Cultura
+
+0207.13.392.007.2.543.339039.0300 635.000,00
+
+II - Para a Secretaria Municipal Adjunta de Gestão Administrativa, no valor de R$129.918,00 (cento e vinte e nove mil, novecentos e dezoito reais):
+
+Coordenação Superior de Recursos Humanos
+
+0704.04.122.007.2.508.339039.0300 108.368,00
+
+0704.04.122.007.2.508.339047.0300 2.000,00
+
+Administração dos Serviços Gerais e Patrimônio
+
+0704.04.122.007.2.808.339039.0300 19.050,00
+
+Administração de Veículos Oficiais
+
+0704.04.122.007.2.024.339039.0300 500,00
+
+III - Para a Secretaria Municipal de Finanças, no valor de R$9.224,00 (nove mil, duzentos e vinte e quatro reais):
+
+Manutenção de Órgão de Deliberação Coletiva
+
+0800.04.129.013.2.057.339036.0300 875,00
+
+0800.04.129.013.2.057.339039.0300 8.349,00
+
+IV - Para a Secretaria Municipal de Políticas Urbanas, no valor de R$6.082.963,00 (seis milhões, oitenta e dois mil, novecentos e sessenta e três reais):
+
+Ampliação de Redes de Iluminação Pública
+
+0900.15.452.084.1.223.449051.0400 950.000,00
+
+Controle das Operações de Iluminação Pública
+
+0900.15.452.084.2.035.339039.0300 4.370.000,00
+
+Construção, Ampliação e Reforma de Áreas de Lazer e Esportes
+
+0900.27.812.079.1.213.449051.0800 10.830,00
+
+Conservação de Vias Urbanas
+
+0900.0012.15.452.062.1.208.449051.0400 76.360,00
+
+0900.0013.15.452.062.1.208.449051.0400 141.095,00
+
+0900.0016.15.452.062.1.208.449051.0400 216.690,00
+
+0900.0017.15.452.062.1.208.449051.0400 258.762,00
+
+0900.0018.15.452.062.1.208.449051.0400 59.226,00
+
+V - Para a Coordenadoria Municipal de Defesa Civil, no valor de R$41.540,00 (quarenta e um mil, quinhentos e quarenta reais):
+
+Ações de Defesa Civil Preventivas e Emergenciais
+
+0918.06.182.016.2.541.339036.0300 900,00
+
+0918.06.182.016.2.541.339037.0300 30.850,00
+
+0918.06.182.016.2.541.339039.0300 9.790,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Especial no valor de R$72.233.088,00 (setenta e dois milhões, duzentos e trinta e três mil e oitenta e oito reais), com os seguintes programas de trabalho:
+
+I - Para a Secretaria Municipal Adjunta de Recursos Humanos, no valor de R$2.400,00 (dois mil e quatrocentos reais):
+
+Encargos com Gestão Previdenciária
+
+0705.09.122.007.2.174.339039.0300 2.400,00
+
+II - Para a Secretaria Municipal de Políticas Sociais, no valor de R$479.600,00 (quatrocentos e setenta e nove mil e seiscentos reais):
+
+Serviços Administrativos e Financeiros da Política Social
+
+1000.08.122.007.2.530.339030.0300 115.000,00
+
+1000.08.122.007.2.530.339039.0300 172.600,00
+
+1000.08.122.007.2.530.449052.0400 192.000,00
+
+III - Para a Secretaria Municipal de Saúde, no valor de R$602.439,00 (seiscentos e dois mil, quatrocentos e trinta e nove reais):
+
+2300.10.122.029.2.502.339036.0310 1.200,00
+
+2300.10.122.029.2.502.339039.0310 6.100,00
+
+2300.10.122.029.2.662.339037.0310 108.185,00
+
+2300.10.122.029.2.662.339039.0310 485.294,00
+
+2300.10.122.031.2.661.339039.0310 1.660,00
+
+IV - Para o Fundo Municipal de Saúde, no valor de R$71.148.649,00 (setenta e um milhões, cento e quarenta e oito mil, seiscentos e quarenta e nove reais):
+
+2302.0001.10.122.029.2.662.319034.0100 2.300.000,00
+
+2302.0001.10.122.029.2.662.319034.0103 1.000.000,00
+
+2302.0001.10.122.029.2.662.339014.0303 10.000,00
+
+2302.0001.10.122.029.2.662.339030.0303 5.262,00
+
+2302.0001.10.122.029.2.662.339030.0309 5.000,00
+
+2302.0001.10.122.029.2.662.339036.0300 630.000,00
+
+2302.0001.10.122.029.2.662.339036.0310 7.018,00
+
+2302.0001.10.122.029.2.662.339039.0310 953.444,00
+
+2302.0001.10.122.029.2.662.339047.0310 14.600,00
+
+2302.0001.10.122.029.2.662.339093.0303 1.160.000,00
+
+2302.0001.10.301.027.2.679.339032.0310 40.000,00
+
+2302.0001.10.301.027.2.679.339039.0303 20.000,00
+
+2302.0001.10.301.027.2.679.339039.0310 20.000,00
+
+2302.0001.10.301.027.2.681.319011.0103 4.425.294,00
+
+2302.0001.10.301.027.2.681.335043.0303 664.100,00
+
+2302.0001.10.301.027.2.681.335043.0310 591.600,00
+
+2302.0001.10.301.027.2.681.339032.0303 44.509,00
+
+2302.0001.10.301.027.2.681.339032.0310 50.000,00
+
+2302.0001.10.301.027.2.681.339036.0300 96.000,00
+
+2302.0001.10.301.027.2.681.339039.0303 257.400,00
+
+2302.0001.10.301.027.2.795.339030.0310 10.000,00
+
+2302.0001.10.302.027.2.667.339039.0310 16.645,00
+
+2302.0001.10.302.027.2.678.339032.0310 1.985.406,00
+
+2302.0001.10.302.029.2.668.339039.0303 27.000.000,00
+
+2302.0001.10.302.029.2.668.339039.0304 2.015.000,00
+
+2302.0001.10.302.029.2.669.339039.0303 22.100.000,00
+
+2302.0001.10.302.030.2.670.339039.0310 82.000,00
+
+2302.0001.10.302.030.2.688.339030.0310 40.000,00
+
+2302.0001.10.302.030.2.688.339036.0310 14.500,00
+
+2302.0001.10.302.030.2.688.449052.0410 388.098,00
+
+2302.0001.10.304.028.2.676.339030.0303 69.203,00
+
+2302.0001.10.304.028.2.676.339039.0303 60.000,00
+
+2302.0001.10.305.028.2.674.339037.0303 1.480.000,00
+
+2302.0001.10.305.028.2.674.339037.0310 1.475.000,00
+
+2302.0002.10.122.029.2.662.339037.0310 187.700,00
+
+2302.0003.10.122.029.2.662.339037.0310 91.978,00
+
+2302.0003.10.122.029.2.662.339039.0300 87.686,00
+
+2302.0003.10.122.029.2.662.449051.0400 27.500,00
+
+2302.0004.10.122.029.2.662.339036.0300 5.751,00
+
+2302.0004.10.122.029.2.662.339037.0310 410.000,00
+
+2302.0004.10.122.029.2.662.339039.0300 57.111,00
+
+2302.0004.10.122.029.2.662.339039.0310 30.184,00
+
+2302.0004.10.122.029.2.662.339093.0310 600,00
+
+2302.0005.10.122.029.2.662.339036.0300 14.000,00
+
+2302.0005.10.122.029.2.662.339039.0300 21.083,00
+
+2302.0005.10.122.029.2.662.339039.0310 16.100,00
+
+2302.0006.10.122.029.2.662.339035.0310 95,00
+
+2302.0006.10.122.029.2.662.339036.0300 2.296,00
+
+2302.0006.10.122.029.2.662.339037.0310 157.400,00
+
+2302.0006.10.122.029.2.662.339039.0300 83.770,00
+
+2302.0006.10.122.029.2.662.339039.0310 23.198,00
+
+2302.0007.10.122.029.2.662.339036.0300 960,00
+
+2302.0007.10.122.029.2.662.339037.0310 53.500,00
+
+2302.0007.10.122.029.2.662.339039.0300 71.611,00
+
+2302.0007.10.122.029.2.662.449052.0800 40.000,00
+
+2302.0008.10.122.029.2.662.339036.0300 2.400,00
+
+2302.0008.10.122.029.2.662.339037.0310 255.000,00
+
+2302.0008.10.122.029.2.662.339039.0310 49.271,00
+
+2302.0008.10.122.029.2.662.339047.0310 1.200,00
+
+2302.0009.10.122.029.2.662.339030.0310 1.000,00
+
+2302.0009.10.122.029.2.662.339036.0300 4.646,00
+
+2302.0009.10.122.029.2.662.339037.0310 50.433,00
+
+2302.0009.10.122.029.2.662.339039.0300 31.480,00
+
+2302.0009.10.122.029.2.662.339039.0310 46.189,00
+
+2302.0009.10.122.029.2.662.339047.0310 314,00
+
+2302.0009.10.122.029.2.662.449052.0410 1.630,00
+
+2302.0010.10.122.029.2.662.339036.0300 1.985,00
+
+2302.0010.10.122.029.2.662.339036.0310 4.346,00
+
+2302.0010.10.122.029.2.662.339037.0310 154.700,00
+
+2302.0010.10.122.029.2.662.339039.0300 91.788,00
+
+2302.0010.10.122.029.2.662.339039.0310 39.665,00
+
+**Art. 3º** - Para atender ao disposto nos artigos anteriores ficam anuladas, parcialmente, as seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, aprovado pela Lei Orçamentária nº 9.009, de 30 de dezembro de 2004, no valor de R$79.131.733,00 (setenta e nove milhões, cento e trinta e um mil, setecentos e trinta e três reais):
+
+0700.04.122.007.1.300.459061.0402 635.000,00
+
+0700.06.122.097.2.803.319004.0100 129.918,00
+
+0904.15.452.084.1.223.449051.0403 6.082.963,00
+
+0907.15.452.062.1.303.449051.0403 530.364,00
+
+1002.10.122.029.2.502.335041.0310 2.814,00
+
+1002.10.122.029.2.502.339030.0310 1.122,00
+
+1002.10.122.029.2.502.339039.0310 2.284,00
+
+1002.10.122.029.2.502.449052.0410 80,00
+
+1002.10.122.029.2.662.339037.0310 113.316,00
+
+1002.10.122.029.2.662.339092.0310 154.105,00
+
+1002.10.122.031.2.661.339030.0310 4.841,00
+
+1002.10.122.031.2.661.339035.0310 81,00
+
+1002.10.122.031.2.661.339036.0300 6.325,00
+
+1002.10.122.031.2.661.339036.0310 3.827,00
+
+1002.10.122.031.2.661.339039.0310 150.222,00
+
+1002.10.122.031.2.661.449052.0410 4.162,00
+
+1017.0001.10.122.029.2.662.319034.0100 16.149.721,00
+
+1017.0001.10.302.029.2.669.339039.0303 47.789.676,00
+
+1017.0001.10.302.029.2.669.339039.0304 1.040.700,00
+
+1017.0001.10.302.030.2.670.339039.0310 41.628,00
+
+1017.0001.10.305.028.2.674.339037.0303 5.061.600,00
+
+1017.0001.10.305.028.2.674.449052.0403 728.490,00
+
+1017.0004.10.122.029.2.662.449051.0803 498.494,00
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 24 de outubro de 2005
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Aluísio Eustáquio de Freitas Marques
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Finanças

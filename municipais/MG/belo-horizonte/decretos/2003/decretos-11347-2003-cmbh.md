@@ -1,0 +1,163 @@
+---
+titulo: "Decreto nº 11347/2003"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "11347"
+data: ""
+data_publicacao: ""
+ementa: "Remaneja recursos consignados no Orçamento da Prefeitura, em favor do Fundo Municipal de Saúde, para processamento de despesas diversas, no montante de R$542.391,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166facdcf62b3b"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/11347/2003"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7620b0f79a0120d406812e0359"
+id_documento: "2c907f7620b0f79a0120d406812e0359"
+sha256_fonte: "4acd5555ecac6cfdf6eb4dda354e502e589daf7a8f151690b38613151c9ed78e"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 11347/2003
+
+DECRETO Nº 11.347, DE 2 DE JUNHO DE 2003
+
+Remaneja recursos consignados no Orçamento da Prefeitura, em favor do Fundo Municipal de Saúde, para processamento de despesas diversas, no montante de R$542.391,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 10, inciso VI da Lei Orçamentária nº 8.469, de 30 de dezembro de 2002, e, ainda, as disposições do Decreto nº 11.239, de 21 de janeiro de 2003, decreta:
+
+**Art. 1º** - Ficam remanejados créditos consignados nas dotações orçamentárias do Fundo Municipal de Saúde - FMSA, no valor de R$542.391,00 (quinhentos e quarenta e dois mil, trezentos e noventa e um reais), com as seguintes discriminações:
+
+I - Acréscimo:
+
+1017.0002.10.301.027.2.685.339030.0310 750,00
+
+1017.0002.10.302.027.2.666.339035.0310 150,00
+
+1017.0002.10.302.030.2.688.339039.0310 150,00
+
+1017.0002.10.303.027.2.686.449052.0410 852,00
+
+1017.0002.10.303.027.2.687.449052.0410 1.300,00
+
+1017.0003.10.303.027.2.686.339039.0310 3.340,00
+
+1017.0003.10.303.027.2.686.449052.0410 2.438,00
+
+1017.0003.10.303.027.2.687.339030.0310 5.000,00
+
+1017.0003.10.303.027.2.687.449052.0410 63.120,00
+
+1017.0004.10.122.029.2.662.339035.0310 110,00
+
+1017.0004.10.301.027.2.681.339030.0310 2.000,00
+
+1017.0004.10.301.027.2.681.339036.0310 100,00
+
+1017.0004.10.301.027.2.681.339037.0310 100,00
+
+1017.0004.10.302.027.2.666.339037.0310 50,00
+
+1017.0004.10.302.027.2.666.339039.0303 122.790,00
+
+1017.0004.10.302.027.2.666.449051.0400 23.900,00
+
+1017.0004.10.302.027.2.666.449051.0403 51.700,00
+
+1017.0004.10.302.027.2.666.449051.0410 16.000,00
+
+1017.0004.10.302.027.2.671.339037.0310 50,00
+
+1017.0004.10.303.027.2.686.339030.0310 11.900,00
+
+1017.0004.10.303.027.2.687.339039.0310 11.861,00
+
+1017.0004.10.303.027.2.687.449052.0410 6.160,00
+
+1017.0004.10.304.028.2.676.339037.0310 50,00
+
+1017.0005.10.122.029.2.662.339030.0310 200,00
+
+1017.0005.10.301.027.2.685.339030.0310 450,00
+
+1017.0005.10.303.027.2.686.339039.0310 150,00
+
+1017.0005.10.303.027.2.687.339039.0310 300,00
+
+1017.0006.10.303.027.2.686.449052.0410 1.302,00
+
+1017.0006.10.303.027.2.687.449052.0410 24.640,00
+
+1017.0007.10.301.027.2.685.339030.0310 700,00
+
+1017.0007.10.302.027.2.666.339039.0303 65.657,00
+
+1017.0007.10.302.030.2.688.339039.0310 526,00
+
+1017.0007.10.303.027.2.687.339030.0310 300,00
+
+1017.0007.10.303.027.2.687.339039.0310 100,00
+
+1017.0007.10.303.027.2.687.449052.0410 1.300,00
+
+1017.0008.10.122.029.2.662.339036.0310 300,00
+
+1017.0008.10.301.027.2.681.339036.0310 100,00
+
+1017.0008.10.301.027.2.685.339030.0310 450,00
+
+1017.0008.10.301.027.2.685.449052.0410 166,00
+
+1017.0008.10.302.027.2.666.339039.0303 26.326,00
+
+1017.0008.10.302.027.2.671.449052.0410 4.565,00
+
+1017.0008.10.302.030.2.688.339039.0310 5.150,00
+
+1017.0008.10.302.030.2.688.449052.0410 1.100,00
+
+1017.0008.10.303.027.2.686.339030.0310 9.038,00
+
+1017.0008.10.303.027.2.687.449052.0410 29.900,00
+
+1017.0009.10.302.027.2.671.339037.0310 36.150,00
+
+1017.0009.10.302.027.2.671.339039.0310 400,00
+
+1017.0009.10.302.027.2.671.449052.0410 1.750,00
+
+1017.0009.10.302.030.2.688.339039.0310 100,00
+
+1017.0010.10.301.027.2.681.339036.0310 6.450,00
+
+1017.0010.10.301.027.2.685.339030.0310 450,00
+
+1017.0010.10.301.027.2.685.449052.0410 100,00
+
+1017.0010.10.302.030.2.688.339039.0310 100,00
+
+1017.0010.10.303.027.2.687.449052.0410 300,00
+
+II - Decréscimo:
+
+1017.0001.10.302.029.2.669.339039.0303 542.391,00
+
+**Art. 2º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 2 de junho de 2003
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Paulo de Moura Ramos
+
+Secretário Municipal de Governo
+
+Aluisio Eustáquio de Freitas Marques
+
+Secretário Municipal da Coordenação de Planejamento, Orçamento e Informação
+
+Júlio Ribeiro Pires
+
+Secretário Municipal da Coordenação de Finanças

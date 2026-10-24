@@ -1,0 +1,289 @@
+---
+titulo: "Decreto nº 12348/2006"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "12348"
+data: ""
+data_publicacao: ""
+ementa: "Dispõe sobre a transferência e utilização de recursos financeiros às Caixas Escolares da Rede Municipal de Ensino."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df0116700c26914b9d"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/12348/2006"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761ae5c720011ae9b25c980125"
+id_documento: "2c907f761ae5c720011ae9b25c980125"
+sha256_fonte: "9a9391557cbffc97050be33b749c61b085962a358f52a46f44308dc0d0bd79ee"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 12348/2006
+
+DECRETO Nº 12.348, DE 19 DE ABRIL DE 2006
+
+Dispõe sobre a transferência e utilização de recursos financeiros às Caixas Escolares da Rede Municipal de Ensino.
+
+O Prefeito de Belo Horizonte, no uso de suas atribuições legais e considerando a necessidade de promover a autonomia financeira e pedagógica das escolas; de promover a inclusão, garantindo o acesso, a permanência e o direito ao conhecimento; de incentivar o desenvolvimento de projetos que busquem a melhoria da qualidade da educação; de incentivar o desenvolvimento de projetos de alfabetização e letramento das crianças, adolescentes e adultos, decreta:
+
+**Art. 1º** - Para atender especificamente o inciso III do art. 9º do Decreto nº 11.307, de 16 de abril de 2003, serão destinados às Caixas Escolares os recursos previstos no orçamento aprovado pela Lei nº 9.130, de 29 de dezembro de 2005, de acordo com o Anexo Único deste Decreto.
+
+**Art. 2º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 19 de abril de 2006
+
+Fernando Damata Pimentel
+
+Prefeito de Belo Horizonte
+
+Paulo de Moura Ramos
+
+Secretário Municipal de Governo
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças
+
+Júlio Ribeiro Pires
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+ANEXO ÚNICO
+
+|Nº |ESCOLAS |REGIONAL |VALOR |
+
+|1 |E. M. ANTÔNIO MOURÃO GUIMARAES |BARREIRO |52.272,64 |
+
+|2 |E. M. CÔNEGO SEQUEIRA |BARREIRO |82.142,72 |
+
+|3 |E. M. DINORAH MAGALHÃES FABRI |BARREIRO |48.538,88 |
+
+|4 |E. M. ELOY HERALDO LIMA |BARREIRO |63.473,92 |
+
+|5 |E. M. HILTON ROCHA |BARREIRO |48.538,88 |
+
+|6 |E. M. PEDRO ALEIXO |BARREIRO |74.675,20 |
+
+|7 |E. M. PEDRO NAVA |BARREIRO |74.675,20 |
+
+|8 |E. M. VILA PINHO |BARREIRO |41.071,36 |
+
+|TOTAL REGIONAL BARREIRO | |485.388,80 |
+
+|9 |E. M. ARTHUR VERSIANI VELLOSO |CENTRO-SUL |37.337,60 |
+
+|10 |E. M. BENJAMIN JACOB |CENTRO-SUL |22.402,56 |
+
+|11 |E. M. CAIO LÍBANO SOARES |CENTRO-SUL |37.337,60 |
+
+|12 |E. M. EDSON PISANI, PROF. |CENTRO-SUL |52.272,64 |
+
+|13 |E. M. SANTO ANTÔNIO |CENTRO-SUL |18.668,80 |
+
+|14 |E. M. LEVINDO COELHO, SENADOR |CENTRO-SUL |78.408,96 |
+
+|15 |E. M. MARCONI |CENTRO-SUL |74.675,20 |
+
+|16 |E. M. MESTRE PARANHOS |CENTRO-SUL |48.538,88 |
+
+|17 |E. M. ULYSSES GUIMARAES |CENTRO-SUL |63.473,92 |
+
+|18 |E. M. IMACO |CENTRO-SUL |48.538,88 |
+
+|19 |E. M. MARILIA TANURE PEREIRA, PROFA |CENTRO-SUL |31.500,00 |
+
+|TOTAL REGIONAL CENTRO-SUL | |513.155,04 |
+
+|20 |E. M. ALCIDA TORRES, PROF. |LESTE |78.408,96 |
+
+|21 |E. M. EMIDIO BERUTTO |LESTE |29.870,08 |
+
+|22 |E. M. FERNANDO DIAS COSTA |LESTE |189.000,00 |
+
+|23 |E. M. FRANCISCO CARVALHO MOREIRA,PADRE. |LESTE |56.006,40 |
+
+|24 |E. M. GEORGE RICARDO SALUM |LESTE |29.870,08 |
+
+|25 |E. M. GUILHERME PETERS, PADRE. |LESTE |41.071,36 |
+
+|26 |E. M. ISRAEL PINHEIRO |LESTE |48.538,88 |
+
+|27 |E. M. LEVINDO LOPES |LESTE |29.870,08 |
+
+|28 |E. M. LOURENÇO DE OLIVEIRA, PROF. |LESTE |48.538,88 |
+
+|29 |E. M. MARIA DAS NEVES |LESTE |14.935,04 |
+
+|30 |E. M. SANTOS DUMONT |LESTE |48.538,88 |
+
+|31 |E. M. SÃO RAFAEL |LESTE |26.136,32 |
+
+|32 |E. M. WLADIMIR DE PAULA GOMES |LESTE |59.740,16 |
+
+|33 |E. M. THEOMAR DE CASTRO ESPÍNDOLA |LESTE |14.935,04 |
+
+|TOTAL REGIONAL LESTE | |715.460,16 |
+
+|34 |E. M. ACIDÁLIA LOTT |NORDESTE |48.538,88 |
+
+|35 |E. M. AGENOR ALVES DE CARVALHO |NORDESTE |44.805,12 |
+
+|36 |E. M. AMÉRICO RENÊ GIANNETTI |NORDESTE |26.136,32 |
+
+|37 |E. M. ANISIO TEIXEIRA |NORDESTE |56.006,40 |
+
+|38 |E. M. CARLOS LACERDA, GOV. |NORDESTE |33.603,84 |
+
+|39 |E. M. CONSUELITA CANDIDA, PROFA. |NORDESTE |115.500,00 |
+
+|40 |E. M. EDGAR DA MATTA MACHADO, PROF. |NORDESTE |74.675,20 |
+
+|41 |E. M. FRANCISCO AZEVEDO |NORDESTE |7.467,52 |
+
+|42 |E. M. FRANCISCO B. AZEVEDO |NORDESTE |18.668,80 |
+
+|43 |E. M. HUGO PINHEIRO SOARES |NORDESTE |18.668,80 |
+
+|44 |E. M. MARIA MAZZARELO, PROF. |NORDESTE |52.272,64 |
+
+|45 |E. M. MARIA MODESTA CRAVO, PROFA. |NORDESTE |22.402,56 |
+
+|46 |E. M. MILTON LAGE, PROF. |NORDESTE |33.603,84 |
+
+|47 |E. M. MURILO RUBIÃO |NORDESTE |41.071,36 |
+
+|48 |E. M. OSWALDO FRANÇA JR. |NORDESTE |82.142,72 |
+
+|49 |E. M. PERSIO PEREIRA PINTO |NORDESTE |52.500,00 |
+
+|50 |E. M. SOBRAL PINTO |NORDESTE |52.272,64 |
+
+|51 |E. M. JARDIM RENASCENÇA |NORDESTE |3.733,76 |
+
+|52 |E. M. JOSÉ DE CALAZANS |NORDESTE |37.337,60 |
+
+|53 |E. M. PAULO FREIRE, PROF. |NORDESTE |41.071,36 |
+
+|TOTAL REGIONAL NORDESTE | |862.479,36 |
+
+|54 |E. M. ARTUR DE OLIVEIRA, MONS. |NOROESTE |44.805,12 |
+
+|55 |E. M. ARTHUR GUIMARAES |NOROESTE |22.402,56 |
+
+|56 |E. M. AUGUSTA MEDEIROS |NOROESTE |18.668,80 |
+
+|57 |E. M. CLAUDIO BRANDÃO, PROF. |NOROESTE |11.201,28 |
+
+|58 |E. M. BELO HORIZONTE |NOROESTE |58.800,00 |
+
+|59 |E. M. DOM JAIME DE BARROS CÂMARA |NOROESTE |18.668,80 |
+
+|60 |E. M. EDEIMAR MASSOTE, PADRE. |NOROESTE |37.337,60 |
+
+|61 |E. M. HONORINA BARROS |NOROESTE |14.935,04 |
+
+|62 |E. M. IGNÁCIO ANDRADE MELO |NOROESTE |44.805,12 |
+
+|63 |E. M. JOÃO CAMILO O TORRES, PROF. |NOROESTE |37.337,60 |
+
+|64 |E. M. JOÃO PINHEIRO |NOROESTE |33.603,84 |
+
+|65 |E. M. JOSÉ DIOGO DE A MAGALHÃES, DR. |NOROESTE |11.201,28 |
+
+|66 |E. M. JÚLIA PARAÍSO |NOROESTE |14.935,04 |
+
+|67 |E. M. LUIGI TONIOLO |NOROESTE |52.272,64 |
+
+|68 |E. M. Mª DE REZENDE COSTA |NOROESTE |22.402,56 |
+
+|69 |E. M. MARIO WERNECK, PROF. |NOROESTE |37.337,60 |
+
+|70 |E. M. NOSSA SENHORA DO AMPARO |NOROESTE |44.805,12 |
+
+|71 |E. M. OSWALDO PIERUCCETI, PREF. |NOROESTE |48.538,88 |
+
+|72 |E. M. CORNÉLIO VAZ DE MELO |NOROESTE |11.201,28 |
+
+|73 |E. M. Mª DA GLÓRIA LOMMEZ |NOROESTE |44.804,38 |
+
+|TOTAL REGIONAL NOROESTE | |630.064,54 |
+
+|74 |E. M. DANIEL ALVARENGA, PROF. |NORTE |37.337,60 |
+
+|75 |E. M. FLORESTAN FERNANDES |NORTE |52.272,64 |
+
+|76 |E. M. FRANCISCO CAMPOS |NORTE |44.805,12 |
+
+|77 |E. M. FRANCISCO MAGALHÃES GOMES |NORTE |41.071,36 |
+
+|78 |E. M. HILDA RABELLO MATTA |NORTE |44.805,12 |
+
+|79 |E. M. HUMBERTO ALMEIDA, SEC. |NORTE |56.006,40 |
+
+|80 |E. M. JARDIM FELICIDADE |NORTE |48.538,88 |
+
+|81 |E. M. JOSEFINA SOUZA LIMA |NORTE |26.136,32 |
+
+|82 |E. M. LORETO RIBEIRO ABREU, DES. |NORTE |26.136,32 |
+
+|83 |E. M. MARIA SILVEIRA |NORTE |33.603,84 |
+
+|84 |E. M. MINERVINA AUGUSTA |NORTE |56.006,40 |
+
+|85 |E. M. RUI DA COSTA VAL |NORTE |56.006,40 |
+
+|86 |E. M. SEBASTIANA NOVAIS |NORTE |14.935,04 |
+
+|87 |E. M. HEBERT JOSÉ DE SOUZA |NORTE |48.538,88 |
+
+|88 |E. M. ACADEMICO VIVALDE MOREIRA |NORTE |63.473,92 |
+
+|89 |E. M. AMINTHAS DE BARROS, PREF. |OESTE |93.344,00 |
+
+|90 |E. M. EFIGÊNIA VIDIGAL, PROF. |OESTE |33.603,84 |
+
+|91 |E. M. FRANCISCA DE PAULA |OESTE |29.870,08 |
+
+|92 |E. M. HENRIQUE BRANDÃO, PADRE |OESTE |52.272,64 |
+
+|93 |E. M. HUGO WERNECK |OESTE |29.870,08 |
+
+|94 |E. M. JOÃO DO PATROCÍNIO |OESTE |33.603,84 |
+
+|95 |E. M. MAGALHÃES DRUMOND |OESTE |14.935,04 |
+
+|96 |E. M. MESTRE ATAÍDE |OESTE |63.473,92 |
+
+|97 |E. M. MILTON SALLES, DEP. |OESTE |26.136,32 |
+
+|98 |E. M. OSWALDO CRUZ |OESTE |63.473,92 |
+
+|TOTAL REGIONAL OESTE | |440.583,68 |
+
+|99 |E. M. AMILCAR MARTINS, PROF. |PAMPULHA |52.272,64 |
+
+|100 |E. M. ANNE FRANK |PAMPULHA |52.272,64 |
+
+|101 |E. M. CARMELITA CARVALHO GARCIA |PAMPULHA |136.500,00 |
+
+|102 |E. M. FRANCISCA ALVES |PAMPULHA |29.870,08 |
+
+|103 |E. M. LÍDIA ANGELICA |PAMPULHA |41.071,36 |
+
+|104 |E. M. MARIA DE MAGALHÃES PINTO |PAMPULHA |59.740,16 |
+
+|105 |E. M. SANTA TEREZINHA |PAMPULHA |85.876,48 |
+
+|TOTAL REGIONAL PAMPULHA | |457.603,36 |
+
+|106 |E. M. ELIZA BUZELIN |VENDA NOVA |44.805,12 |
+
+|107 |E. M. MOACYR ANDRADE, PROF. |VENDA NOVA |48.538,88 |
+
+|108 |E. M. RENATO AZEREDO, DEP. |VENDA NOVA |18.668,80 |
+
+|109 |E. M. ALESSANDRA SALUM CADAR |VENDA NOVA |41.071,36 |
+
+|TOTAL REGIONAL VENDA NOVA | |153.084,16 |
+
+|TOTAL | |4.907.493,34 |

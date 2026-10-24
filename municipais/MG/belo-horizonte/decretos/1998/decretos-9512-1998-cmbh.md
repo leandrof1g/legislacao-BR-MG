@@ -1,0 +1,77 @@
+---
+titulo: "Decreto nº 9512/1998"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "9512"
+data: ""
+data_publicacao: ""
+ementa: "Declara de Utilidade Pública, para fins de desapropriação, imóveis situados no Bairro São Cristóvão, nesta Capital."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166e704e9117e3"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/9512/1998"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7621687a1601217dc5cb050090"
+id_documento: "2c907f7621687a1601217dc5cb050090"
+sha256_fonte: "2edfdfefa35340e077ecf5c581a17e26cd641ed392cb9836decde367b68e631b"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 9512/1998
+
+DECRETO Nº 9.512, DE 2 DE FEVEREIRO DE 1998
+
+Declara de Utilidade Pública, para fins de desapropriação, imóveis situados no Bairro São Cristóvão nesta Capital.
+
+O Prefeito de Belo Horizonte, no uso de suas atribuições legais e de acordo com o que lhe faculta o Decreto-Lei Federal nº 3.365 de 21 de junho de 1941, decreta:
+
+**Art. 1º** - Ficam declarados de Utilidade Pública, para fins de desapropriação, de seu pleno domínio, a se efetivar mediante acordo ou judicialmente, os lotes de terreno adiante indicados, situados no Bairro São Cristóvão, nesta Capital, assim como suas edificações e demais benfeitorias, se houver, de propriedade presumível das pessoas adiante mencionadas:
+
+Quadra 01 (hum)
+
+a) Parte do lote 06 (seis), com área de 158,69 m², aproximadamente, de propriedade da Construtora Lima e Silva Ltda.;
+
+b) Parte do lote 07 (sete), com área de 102,39 m², aproximadamente, de propriedade da Construtora Lima e Silva Ltda.;
+
+c) Parte do lote 08 (oito), com área de 78,97 m², aproximadamente, de propriedade da Construtora Lima e Silva Ltda.;
+
+d) Parte do lote 09 (nove), com área de 59, 24 m², aproximadamente, de propriedade da Construtora Lima e Silva Ltda.;
+
+e) Parte do lote 10 (dez), com área de 51,30 m², aproximadamente, de propriedade da Construtora Lima e Silva Ltda.;
+
+f) Parte do lote 11 (onze), com área de 50,02 m², aproximadamente, de propriedade da Construtora Lima e Silva Ltda.;
+
+g) Parte do lote 12 (doze), com área de 112,68 m², aproximadamente, de propriedade da Construtora Lima e Silva Ltda.;
+
+Quadra 02 (dois)
+
+Parte do lote 10 (dez) com área de 236,95 m², aproximadamente, de propriedade de Golden Cross- Assistência Internacional de Saúde.
+
+Quadra 104- A (cento e quatro - A)
+
+Inicia - se no ponto PO de coordenadas 610.266.50 e 7.799.351.50, seque com azimute de 68º 11, 55'' e distancia de 2,69 m, confrontando com um terreno indiviso até o ponto P1, deflete à esquerda, segue com azimute de 347º 00, 19'' e distancia de 20,02 m até o ponto P2, deflete à esquerda, segue com azimute de 332º 25, 05'' e distancia de 30,23 m até o ponto P3, deflete à esquerda, segue com azimute de 327º 40, 11'' e distancia de 28,05 m até o ponto P4, deflete à esquerda, segue com azimute de 325º 20, 12'' e distancia de 22,85 m até o ponto P5, confrontando do ponto P1 ao ponto P5 com área remanescente deste imóvel, deflete à esquerda, segue com azimute de 170º 58, 50'' e distancia de 6,38 m até o ponto P6, confrontando com a Rua Amadeu Quáglia, deflete à esquerda, segue com azimute de 152º 52, 43'' e distancia de 23, 03 m até o ponto P7, deflete à esquerda, segue com azimute de 148º 34,14'' e distancia de 21, 10 m até o ponto P8, deflete à direita, segue com azimute de 150º 29, 19'' e distancia de 30,45 m até o ponto P9, deflete à direita, segue com azimute de 160º 38, 28'' e distancia de 19, 60 m até o ponto PO, confrontando do ponto P6 ao ponto PO onde teve início esta descrição com a Av. Antônio Carlos, com área de 468, 02 m², aproximadamente, de proprietários não identificado.
+
+**Art. 2º** - A desapropriação de que trata o artigo anterior destina-se permitir à Municipalidade o alargamento da Av. Antônio Carlos.
+
+**Art. 3º** - Fica a unidade Jurídico-Administrativa pertinente autorizada a alegar em juízo a urgência da desapropriação.
+
+**Art. 4º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 2 de fevereiro de 1998
+
+Célio de Castro
+
+Prefeito de Belo Horizonte
+
+Antônio de Faria Lopes
+
+Secretário Municipal de Governo
+
+Fernando Damata Pimentel
+
+Secretário Municipal da Fazenda
+
+Maurício Borges Lemos
+
+Secretário Municipal de Planejamento
