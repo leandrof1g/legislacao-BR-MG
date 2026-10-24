@@ -1,0 +1,183 @@
+---
+titulo: "Decreto nº 16039/2015"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "16039"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$42.884.797,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f764e4fb3c1014e91d3274801ad"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/16039/2015"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f764e4fb3c1014e91d4017d01b3"
+id_documento: "2c907f764e4fb3c1014e91d4017d01b3"
+sha256_fonte: "77bcdc76655b74d92f2f9d2e6682532075bd4a9b26529a8a77fb124b0728d285"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 16039/2015
+
+DECRETO Nº 16.039, DE 14 DE JULHO DE 2015
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$42.884.797,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 4º, da Lei Orçamentária nº 10.789, de 30 de dezembro de 2014, e, ainda, as disposições do Decreto nº 15.841, de 9 de janeiro de 2015, decreta:
+
+**Art. 1º** - Ficam abertos aos Orçamentos Fiscal e da Seguridade Social da Prefeitura de Belo Horizonte, em favor de diversos órgãos, Créditos Suplementares no valor de R$42.884.797,00 (quarenta e dois milhões, oitocentos e oitenta e quatro mil, setecentos e noventa e sete reais), nas seguintes dotações orçamentárias:
+
+0207.13.122.146.2.900.3390.0300 310.000,00
+
+0207.13.122.146.2.338.3390.0300 230.000,00
+
+0207.13.122.146.2.338.3190.0100 18.000,00
+
+0207.13.122.146.2.338.4490.0406 107.000,00
+
+0207.13.391.155.2.375.3190.0100 25.500,00
+
+0600.19.572.148.1.373.4490.0400 62.170,00
+
+0803.04.122.007.2.808.3390.0300 330.690,00
+
+1008.14.422.127.2.335.3390.0330 40.000,00
+
+1300.04.122.007.2.900.3390.0300 1.410,00
+
+2100.06.122.109.2.802.3390.0300 60.290,00
+
+2200.12.361.140.2.080.3390.0300 140.112,00
+
+2200.12.365.140.2.542.3390.0300 36.743,00
+
+2200.12.361.206.2.858.3390.0360 3.098.574,00
+
+2200.12.365.205.2.858.3390.0360 8.940.378,00
+
+2501.18.541.073.2.900.3390.0330 12.000,00
+
+2501.18.541.073.2.580.3390.0300 3.050,00
+
+2501.18.541.073.2.817.3390.0300 4.600,00
+
+2702.15.451.233.1.208.4490.0400 772.000,00
+
+2704.16.482.225.1.231.3390.0300 135.000,00
+
+2704.16.482.225.1.231.3390.0380 66.000,00
+
+2704.16.482.225.1.231.4490.0400 4.800.000,00
+
+2704.16.482.225.1.231.4490.0480 3.000.000,00
+
+2704.16.482.225.1.231.4490.0800 370.000,00
+
+2704.16.482.225.1.231.3390.0300 18.000,00
+
+2704.16.482.225.1.231.4490.0400 2.692.000,00
+
+2704.16.482.225.1.231.4490.0480 1.550.000,00
+
+2704.16.482.225.1.231.4490.0800 1.300.000,00
+
+2704.16.482.225.1.231.3390.0300 230.000,00
+
+2704.16.482.225.1.231.3390.0380 90.000,00
+
+2704.16.482.225.1.231.4490.0400 1.050.000,00
+
+2704.16.482.225.1.231.4490.0800 540.000,00
+
+2704.16.482.225.1.231.3390.0300 60.000,00
+
+2704.16.482.225.1.231.3390.0380 37.000,00
+
+2704.16.482.225.1.231.4490.0400 1.400.000,00
+
+2704.16.482.225.1.231.3390.0300 24.000,00
+
+2704.16.482.225.1.231.3390.0380 45.000,00
+
+2704.16.482.225.1.231.3390.0300 120.000,00
+
+2704.16.482.225.1.231.3390.0380 60.000,00
+
+2704.16.482.225.1.231.4490.0400 50.000,00
+
+2704.16.482.064.1.207.3390.0300 155.370,00
+
+2704.16.482.064.1.231.3390.0300 60.000,00
+
+2704.16.482.225.1.231.3390.0300 108.000,00
+
+2704.16.482.225.1.231.4490.0400 5.370.000,00
+
+2704.16.482.225.1.231.4490.0480 583.300,00
+
+2704.16.482.225.1.231.4490.0800 4.004.000,00
+
+2805.23.695.218.2.629.3390.0300 320.000,00
+
+3000.27.812.101.2.106.3390.0330 72.000,00
+
+4001.04.122.007.2.124.3390.0300 113.610,00
+
+0614.09.271.026.3.004.3190.0970 160.000,00
+
+0614.09.271.026.3.006.3190.0970 2.000,00
+
+1011.08.244.019.2.405.3390.0300 12.000,00
+
+1011.08.244.113.2.334.3390.0340 57.000,00
+
+1011.08.244.020.2.878.3390.0300 13.000,00
+
+1011.08.244.234.2.409.3390.0340 25.000,00
+
+**Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações orçamentárias, no valor de R$42.884.797,00 (quarenta e dois milhões, oitocentos e oitenta e quatro mil, setecentos e noventa e sete reais):
+
+0207.13.392.154.2.371.4490.0430 583.500,00
+
+0207.13.122.146.2.338.3390.0330 107.000,00
+
+1008.14.422.127.2.334.4490.0430 40.000,00
+
+2501.18.541.073.1.219.4490.0406 12.000,00
+
+2700.26.452.208.1.270.4430.0480 12.863.627,00
+
+2702.17.512.243.1.203.4490.0430 772.000,00
+
+2704.16.482.225.1.231.4490.0430 4.000.000,00
+
+2704.16.482.064.1.207.3390.0330 4.000.000,00
+
+2704.16.482.064.1.207.4490.0430 5.000.000,00
+
+2704.16.482.064.1.231.4490.0430 4.000.000,00
+
+2704.16.482.225.1.231.4490.0430 10.917.670,00
+
+2805.23.695.086.2.629.3390.0300 320.000,00
+
+0614.99.999.999.9.999.9999.0970 162.000,00
+
+1011.08.244.237.2.404.4490.0400 107.000,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 14 de julho de 2015
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Thiago Alexsander Costa Grego
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+Camilo Cândido de Araújo Júnior
+
+Secretário Municipal Adjunto do Tesouro

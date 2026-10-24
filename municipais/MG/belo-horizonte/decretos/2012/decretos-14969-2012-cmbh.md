@@ -1,0 +1,183 @@
+---
+titulo: "Decreto nº 14969/2012"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "14969"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$9.891.215,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f7638a2f9260138e215e7430072"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/14969/2012"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7638e8fea501390ca1158000a3"
+id_documento: "2c907f7638e8fea501390ca1158000a3"
+sha256_fonte: "a50dfb5f93c4b88904b5bc52f568697d240217cce482396e4c295978735c4479"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 14969/2012
+
+DECRETO Nº 14.969, DE 31 DE JULHO DE 2012
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$9.891.215,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no caput do artigo 6º, da Lei Orçamentária nº 10.369, de 30 de dezembro de 2011, e, ainda, as disposições do Decreto nº 14.802, de 17 de janeiro de 2012, decreta:
+
+**Art.1º** - Fica aberto ao Orçamento Fiscal e ao Orçamento da Seguridade Social da Prefeitura de Belo Horizonte, em favor de diversos órgãos, Créditos Suplementares no valor de R$9.891.215,00 (nove milhões, oitocentos e noventa e um mil, duzentos e quinze reais), nas seguintes dotações orçamentárias:
+
+0101.01.031.001.2.001.339092.0300 20.000,00
+
+0201.04.122.219.1.380.339014.0300 10.000,00
+
+0207.13.122.146.2.370.319092.0100 1.200,00
+
+0207.13.122.146.2.370.339037.0300 46.000,00
+
+0207.13.391.155.2.372.319113.0100 21.633,00
+
+0207.13.392.154.2.371.319011.0100 16.915,00
+
+0207.13.392.154.2.371.319113.0100 907,00
+
+0207.13.392.156.2.376.339039.0300 603.963,00
+
+0207.13.392.239.2.381.339036.0300 300.000,00
+
+0207.13.122.146.2.900.339037.0300 428.400,00
+
+0207.13.122.146.2.338.339039.0300 826.550,00
+
+0604.19.126.149.2.604.319113.0100 2.400,00
+
+0801.04.129.013.2.524.339035.0300 145.710,00
+
+0802.04.122.105.2.900.339014.0300 3.000,00
+
+0802.04.122.105.2.900.339039.0300 538.294,00
+
+1000.04.122.123.2.342.339039.0300 320.805,00
+
+1000.04.122.123.2.900.339035.0300 51.000,00
+
+2401.04.124.012.2.523.339030.0300 1.499,00
+
+2502.18.541.072.2.900.339039.0306 16.000,00
+
+2502.04.122.072.2.816.319113.0100 7.000,00
+
+2502.18.541.072.2.812.339039.0306 417.000,00
+
+2502.18.541.072.2.812.449051.0406 76.000,00
+
+2700.15.452.057.2.900.449092.0400 2.429.000,00
+
+2700.15.452.057.2.900.339092.0300 2.429.000,00
+
+Item retificado em 9/8/2012
+
+2700.13.392.239.1.339.449051.0800 276.287,00
+
+2700.18.541.231.1.349.449051.0800 36.000,00
+
+2700.15.451.233.1.208.449051.0400 575.473,00
+
+2703.16.482.007.2.900.319091.0100 83.992,00
+
+2703.16.482.007.2.900.319113.0100 18.000,00
+
+2801.04.122.141.2.853.339039.0300 1.980,00
+
+2802.11.334.121.2.577.339037.0300 70.500,00
+
+2803.15.452.057.2.566.339035.0300 842.500,00
+
+2905.26.452.060.2.837.339035.0300 10.000,00
+
+1011.0009.08.244.019.2.405.339033.0300 35.000,00
+
+1011.0009.08.244.019.2.405.339048.0300 10.000,00
+
+1011.0010.08.244.019.2.405.339033.0300 3.500,00
+
+1011.0010.08.244.019.2.405.339048.0300 8.000,00
+
+1011.0011.08.244.019.2.405.339048.0300 6.500,00
+
+1011.0013.08.244.019.2.405.339033.0300 3.000,00
+
+1011.0013.08.244.019.2.405.339048.0300 16.500,00
+
+1011.0014.08.244.019.2.405.339048.0300 15.000,00
+
+1011.0015.08.244.019.2.405.339033.0300 1.000,00
+
+1011.0017.08.244.019.2.405.335043.0340 281.547,00
+
+1011.0018.08.244.020.2.407.335043.0340 69.169,00
+
+1011.0018.08.244.020.2.409.335043.0340 43.991,00
+
+2301.10.302.030.2.616.339030.0350 420.000,00
+
+2301.10.302.030.2.620.339030.0350 780.000,00
+
+**Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações orçamentárias, no valor de R$9.891.215,00 (nove milhões, oitocentos e noventa e um mil, duzentos e quinze reais):
+
+0101.01.031.001.2.001.449051.0400 20.000,00
+
+0207.13.122.146.2.368.339035.0300 603.963,00
+
+0207.13.122.146.2.370.339035.0330 96.000,00
+
+0207.13.391.155.2.374.449052.0430 95.605,00
+
+0207.13.391.155.2.375.449051.0430 300.000,00
+
+0207.13.392.154.2.371.339031.0300 400.000,00
+
+0207.13.392.156.2.376.339039.0330 450.000,00
+
+0207.13.392.239.2.381.339031.0300 300.000,00
+
+0600.19.572.148.1.373.449052.0430 1.695.198,00
+
+0610.04.122.220.1.317.449052.0480 310.490,00
+
+2502.18.541.072.2.817.339036.0300 16.000,00
+
+2502.04.122.072.1.217.449051.0400 450.000,00
+
+2502.04.122.072.1.217.449051.0406 50.000,00
+
+2700.04.122.222.1.338.449051.0480 892.760,00
+
+2700.15.452.084.1.223.449051.0400 2.424.000,00
+
+2704.16.482.225.1.231.449051.0430 93.992,00
+
+1006.08.244.113.2.900.339039.0340 493.207,00
+
+2301.10.122.030.2.900.339039.0306 1.200.000,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 31 de julho de 2012
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Gleison Pereira de Souza
+
+Secretário Municipal de Planejamento, Orçamento e Informação - Interino
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças
+
+## Observações da CMBH
+
+Retificado em 09/08/2012.

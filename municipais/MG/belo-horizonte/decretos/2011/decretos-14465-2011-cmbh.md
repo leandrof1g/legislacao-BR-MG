@@ -1,0 +1,289 @@
+---
+titulo: "Decreto nº 14465/2011"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "14465"
+data: ""
+data_publicacao: ""
+ementa: "Abre ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, Crédito Especial no valor de R$17.005.548,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f7630944a1a0130b7bdf35600c1"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/14465/2011"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7630944a1a0130b7be42be00c6"
+id_documento: "2c907f7630944a1a0130b7be42be00c6"
+sha256_fonte: "2f551a41a52ed325870925b2a4b66186c28990dbfa636519bea88e8640fa4c00"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 14465/2011
+
+DECRETO Nº 14.465, DE 21 DE JUNHO DE 2011
+
+Abre ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, Crédito Especial no valor de R$17.005.548,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, o artigo 49 da Lei nº 10.101, de 14 de janeiro de 2011, e nos termos dos artigos 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17 de março de 1964, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Especial no valor de R$17.005.548,00 (dezessete milhões, cinco mil, quinhentos e quarenta e oito reais), com as seguintes classificações orçamentárias:
+
+I – Para a Empresa de Informática e Informação do Município de Belo Horizonte S/A – PRODABEL, no valor de R$58.000,00 (cinquenta e oito mil reais):
+
+0604.19.126.149.2.600.339037.0300 58.000,00
+
+II – Para a Secretaria Municipal Adjunta de Planejamento e Gestão – SMAPG, no valor de R$1.544.200,00 (hum milhão, quinhentos e quarenta e quatro mil e duzentos reais):
+
+0612.04.121.141.2.325.319011.0100 533.800,00
+
+0612.04.121.141.2.325.319013.0100 16.400,00
+
+0612.04.121.141.2.325.319113.0100 106.800,00
+
+0612.04.121.160.2.311.319011.0100 288.600,00
+
+0612.04.121.160.2.311.319013.0100 5.300,00
+
+0612.04.121.160.2.311.319113.0100 26.900,00
+
+0612.04.129.141.2.517.319011.0100 197.500,00
+
+0612.04.129.141.2.517.319113.0100 15.800,00
+
+0612.04.121.141.2.519.319011.0100 198.500,00
+
+0612.04.121.141.2.519.319013.0100 7.000,00
+
+0612.04.121.141.2.519.319113.0100 27.100,00
+
+0612.04.121.144.2.900.319011.0100 98.800,00
+
+0612.04.121.144.2.900.319013.0100 14.000,00
+
+0612.04.121.144.2.900.319113.0100 7.700,00
+
+III – Para a Secretaria Municipal Adjunta de Modernização – SMAM, no valor de R$1.549.300,00 (hum milhão, quinhentos e quarenta e nove mil e trezentos reais):
+
+2004.04.122.009.2.023.319011.0100 291.500,00
+
+2004.04.122.009.2.023.319013.0100 10.000,00
+
+2004.04.122.009.2.023.319113.0100 46.200,00
+
+2004.04.122.087.2.839.319011.0100 405.100,00
+
+2004.04.122.087.2.839.319013.0100 30.100,00
+
+2004.04.122.087.2.839.319113.0100 259.100,00
+
+2004.04.122.009.2.900.319011.0100 443.600,00
+
+2004.04.122.009.2.900.319013.0100 20.000,00
+
+2004.04.122.009.2.900.319113.0100 43.700,00
+
+IV – Para a Secretaria Municipal de Assuntos Institucionais – SMAI, no valor de R$127.500,00 (cento e vinte e sete mil e quinhentos reais):
+
+2600.04.122.096.2.006.319011.0100 70.700,00
+
+2600.04.122.096.2.006.319013.0100 16.800,00
+
+2600.04.122.096.2.006.319113.0100 40.000,00
+
+V - Para a Secretaria Municipal de Obras e Infraestrutura – SMOBI, no valor de R$10.946.643,00 (dez milhões, novecentos e quarenta e seis mil, seiscentos e quarenta e três reais):
+
+2700.15.452.057.2.900.449052.0400 50.000,00
+
+2700.13.392.239.1.215.449051.0403 70.000,00
+
+2700.15.451.227.1.230.449051.0803 178.709,00
+
+2700.17.512.151.1.307.339039.0301 27.000,00
+
+2700.27.812.101.1.213.449051.0400 369.026,00
+
+2700.15.451.233.1.208.449051.0400 1.164.964,00
+
+2700.15.451.233.1.208.449051.0400 888.604,00
+
+2700.15.451.233.1.208.449051.0400 550.000,00
+
+2700.15.451.233.1.208.449051.0400 1.245.432,00
+
+2700.15.451.233.1.208.449051.0400 1.304.086,00
+
+2700.15.451.233.1.208.449051.0400 786.412,00
+
+2700.15.451.233.1.208.449051.0400 2.324.000,00
+
+2700.15.451.233.1.208.449051.0400 966.466,00
+
+2700.15.451.233.1.208.449051.0400 1.021.944,00
+
+VI - Para a Superintendência de Desenvolvimento da Capital - SUDECAP, no valor de R$25.000,00 (vinte e cinco mil reais):
+
+2702.04.122.045.2.900.449052.0406 5.000,00
+
+2702.04.062.045.2.010.319096.0100 20.000,00
+
+VII - Para a Companhia Urbanizadora e de Habitação de Belo Horizonte - URBEL, no valor de R$80.000,00 (oitenta mil reais):
+
+2703.16.482.007.2.900.319091.0100 80.000,00
+
+VIII - Para a Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR, no valor de R$1.400.000,00 (hum milhão e quatrocentos mil reais):
+
+2805.23.695.086.2.900.339039.0300 1.400.000,00
+
+IX - Para a Secretaria Municipal de Serviços Urbanos – SMSU, no valor de R$30.000,00 (trinta mil reais):
+
+2900.15.452.057.2.854.339037.0300 30.000,00
+
+X - Para a Secretaria Municipal Adjunta de Regulação Urbana – SMARU, no valor de R$7.628,00 (sete mil, seiscentos e vinte e oito reais):
+
+2901.15.452.059.2.900.449052.0400 7.628,00
+
+XI - Para a Superintendência de Limpeza Urbana – SLU, no valor de R$58.677,00 (cinquenta e oito mil, seiscentos e setenta e sete reais):
+
+2903.17.512.046.2.900.339014.0300 8.677,00
+
+2903.17.512.046.2.900.449052.0406 50.000,00
+
+XII – Para o Fundo Municipal de Transportes Urbanos – FTU, no valor de R$1.178.600,00 (hum milhão, cento e setenta e oito mil e seiscentos reais):
+
+2905.26.452.212.2.844.449051.0400 228.600,00
+
+2905.26.452.212.2.844.449052.0402 500.000,00
+
+2905.26.452.230.1.337.449051.0400 450.000,00
+
+**Art. 2º** - Para atender ao disposto no artigo anterior ficam anuladas, parcialmente, as seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$17.005.548,00 (dezessete milhões, cinco mil, quinhentos e quarenta e oito reais):
+
+0201.04.122.096.2.004.319011.0100 47.300,00
+
+0201.04.122.096.2.006.319011.0100 70.700,00
+
+0201.04.122.096.2.006.319013.0100 9.500,00
+
+0205.19.126.149.2.600.339037.0300 58.000,00
+
+0206.23.695.086.2.900.339039.0300 998.087,00
+
+0206.23.695.086.2.900.339039.0303 127.954,00
+
+0206.23.695.086.2.900.339039.0304 47.042,00
+
+0206.23.695.218.2.347.339035.0303 226.917,00
+
+0602.04.121.141.2.519.319011.0100 198.500,00
+
+0602.04.121.141.2.519.319013.0100 8.600,00
+
+0602.04.121.141.2.519.319113.0100 25.500,00
+
+0602.04.129.141.2.517.319011.0100 197.500,00
+
+0602.04.129.141.2.517.319113.0100 15.800,00
+
+0602.04.121.160.2.311.319011.0100 288.600,00
+
+0602.04.121.160.2.311.319013.0100 5.300,00
+
+0602.04.121.160.2.311.319113.0100 26.900,00
+
+0602.04.121.141.2.325.319011.0100 533.800,00
+
+0602.04.121.141.2.325.319013.0100 16.400,00
+
+0602.04.121.141.2.325.319113.0100 106.800,00
+
+0602.04.121.144.2.900.319011.0100 98.800,00
+
+0602.04.121.144.2.900.319113.0100 21.700,00
+
+0603.04.122.009.2.023.319011.0100 291.500,00
+
+0603.04.122.009.2.023.319113.0100 46.200,00
+
+0603.04.122.009.2.900.319011.0100 443.600,00
+
+0603.04.122.009.2.900.319013.0100 20.000,00
+
+0603.04.122.009.2.900.319113.0100 43.700,00
+
+0603.04.122.087.2.839.319011.0100 415.100,00
+
+0603.04.122.087.2.839.319013.0100 30.100,00
+
+0603.04.122.087.2.839.319113.0100 259.100,00
+
+0900.15.452.057.2.900.449052.0400 50.000,00
+
+0900.13.392.239.1.215.449051.0403 70.000,00
+
+0900.15.451.227.1.230.449051.0800 25.146,00
+
+0900.15.451.227.1.230.449051.0803 153.563,00
+
+0900.17.512.066.1.203.449051.0403 30.000,00
+
+0900.17.512.151.1.307.449052.0401 27.000,00
+
+0900.27.812.101.1.213.449051.0400 369.026,00
+
+0900.15.451.233.1.208.449051.0400 1.164.964,00
+
+0900.15.451.233.1.208.449051.0400 888.604,00
+
+0900.15.451.233.1.208.449051.0400 550.000,00
+
+0900.15.451.233.1.208.449051.0400 1.245.432,00
+
+0900.15.451.233.1.208.449051.0400 786.412,00
+
+0900.15.451.233.1.208.449051.0400 1.108.183,00
+
+0900.15.451.233.1.208.449051.0414 1.105.488,00
+
+0900.17.512.233.1.203.449051.0400 110.329,00
+
+0900.15.451.233.1.208.449051.0400 966.466,00
+
+0900.15.451.233.1.208.449051.0400 1.021.944,00
+
+0905.15.452.059.2.900.449052.0400 7.628,00
+
+0907.04.062.045.2.010.319096.0100 20.000,00
+
+0907.04.122.045.2.900.449052.0400 5.000,00
+
+0908.17.512.046.2.900.339014.0300 8.677,00
+
+0908.17.512.046.2.900.449052.0406 50.000,00
+
+0909.16.482.007.2.900.319091.0100 30.708,00
+
+0909.16.482.007.2.900.319094.0100 49.292,00
+
+0916.26.452.212.2.844.449051.0402 228.600,00
+
+0916.26.452.212.2.844.449052.0402 500.000,00
+
+0916.26.452.230.1.337.449051.0400 450.000,00
+
+0900.08.244.234.1.353.449051.0800 1.304.086,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 21 de junho de 2011
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Paulo Roberto Paixão Bretas
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

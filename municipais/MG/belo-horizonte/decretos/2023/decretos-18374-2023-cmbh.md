@@ -1,0 +1,75 @@
+---
+titulo: "Decreto nº 18374/2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18374"
+data: ""
+data_publicacao: ""
+ementa: "Altera o Decreto nº 17.556, de 2 de março de 2021, que dispõe sobre a estrutura organizacional da Superintendência de Desenvolvimento da Capital."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f768936924101893fcac0620029"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/18374/2023"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f768936924101893fcb1ab0002f"
+id_documento: "2c907f768936924101893fcb1ab0002f"
+sha256_fonte: "e9a57fcf1489d1f3ab1879843fbd86722504a5d1d6ab108a98035fddef33c41e"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 18374/2023
+
+DECRETO Nº 18.374, DE 7 DE JULHO DE 2023
+
+Altera o Decreto nº 17.556, de 2 de março de 2021, que dispõe sobre a estrutura organizacional da Superintendência de Desenvolvimento da Capital.
+
+O prefeito de Belo Horizonte, no exercício da atribuição que lhe confere o inciso VII do art. 108 da Lei Orgânica, e considerando o disposto na Lei nº 11.065, de 1º de agosto de 2017, decreta:
+
+**Art. 1º** – O art. 3º do Decreto nº 17.556, de 2 de março de 2021, passa a vigorar acrescido do seguinte inciso XI:
+
+“Art. 3º – (...) XI – Diretoria de Iluminação Pública: a) Departamento de Gestão de Demandas Institucionais, Contratos e Eficiência Energética: 1 – Gerência de Informação e Demandas Institucionais; 2 – Gerência de Controle de Contratos e Eficiência Energética; b) Departamento de Infraestrutura, Manutenção e Receitas Acessórias: 1 – Gerência de Controle de Operação, Manutenção e Receitas Acessórias; 2 – Gerência de Projetos, Orçamentação e Interface.”.
+
+**Art. 2º** – O caput do art. 8º do Decreto nº 17.556, de 2021, passa a vigorar com a seguinte redação:
+
+“Art. 8º – A Diretoria de Infraestrutura tem como competência coordenar os processos de concepção, planejamento, execução e fiscalização dos projetos, serviços e obras dos empreendimentos de infraestrutura a cargo da Sudecap, com atribuições de:”
+
+**Art. 3º** – O Decreto nº 17.556, de 2021, passa a vigorar acrescido do Capítulo XIII e dos arts. 76-A. 76-B, 76-C, 76-D, 76-E, 76-F e 76-G:
+
+“CAPÍTULO XIII DA DIRETORIA DE ILUMINAÇÃO PÚBLICA
+
+**Art. 76-A** – A Diretoria de Iluminação Pública tem como competência coordenar os processos de concepção, planejamento, execução e fiscalização dos projetos, serviços e obras dos empreendimentos de iluminação pública, com atribuições de: I – coordenar a gestão de receitas e despesas vinculadas à contribuição do custeio dos serviços de iluminação pública; II – coordenar o cadastro de iluminação pública, contratos, convênios e acordos que visem a execução de empreendimentos de iluminação pública; III – coordenar o programa de eficiência energética do Poder Executivo, no âmbito dos serviços de iluminação pública; IV – aprovar, em articulação com as demais diretorias, propostas para implantação de iluminação pública nos empreendimentos do município, em relação às solicitações realizadas pelos órgãos e entidades do Poder Executivo e aprovadas no Plano de Obras; V – coordenar o atendimento das solicitações de auditorias técnicas dos assuntos de sua competência; VI – coordenar o processo de elaboração dos projetos, das planilhas de quantitativos e dos cronogramas físico-financeiros para contratação de obras e serviços de iluminação pública; VII – coordenar a gestão de seus processos de controle, de planejamento da contratação e de acompanhamento dos serviços prestados pela concessionária de iluminação pública e pela verificadora independente do contrato de iluminação pública, incluindo a fiscalização e o controle físico-financeiro dos serviços contratados sob sua responsabilidade, visando a qualidade no atendimento das especificações dos produtos e serviços; VIII – coordenar, orientar e estabelecer diretrizes para a elaboração dos projetos básicos, termos de referência e das solicitações de contratação inerentes aos serviços e atividades da diretoria, necessárias para elaboração, análise e verificação de projetos, estudos, serviços, aquisições, detalhamentos e cadastros dos empreendimentos; IX – promover avaliação e consolidação dos resultados obtidos pelas unidades sob sua coordenação; X – subsidiar a articulação com concessionárias e demais órgãos e entidades da administração pública municipal, estadual e federal; XI – articular-se com os demais órgãos e entidades municipais, objetivando a compatibilização de ações relacionadas à iluminação pública e ao desenvolvimento de programas de melhorias e atualizações; XII – propor a atualização da Tabela de Preços e do Caderno de Encargos da Sudecap; XIII – planejar e coordenar a elaboração de orçamentação dos serviços e insumos presentes nos contratos sob responsabilidade da diretoria; XIV – coordenar os estudos, os planejamentos, os projetos, as programações e a fiscalização da ampliação e remodelação da rede de iluminação pública, inclusive no que tange às especificações técnicas, à compra, ao recebimento, ao armazenamento e ao controle de qualidade do material utilizado.
+
+Seção I Do Departamento de Gestão de Demandas Institucionais, Contratos e Eficiência Energética
+
+**Art. 76-B** – O Departamento de Gestão de Demandas Institucionais, Contratos e Eficiência Energética tem como competência planejar, coordenar e monitorar o tratamento de demandas institucionais, o cadastro do inventário de equipamentos de iluminação pública e a eficiência dos serviços de iluminação pública, com atribuições de: I – coordenar as diretrizes e procedimentos para operacionalização e controle de qualidade dos serviços de iluminação pública; II – acompanhar e subsidiar, com dados e informações, os processos de pagamento das faturas de energia referentes a: a) Gerências Regionais de Manutenção; b) iluminação pública; c) contraprestação e demais despesas relacionadas ao contrato de concessão para prestação dos serviços de iluminação pública; d) contratos de verificação independente de contrato de concessão para prestação de serviços de iluminação pública; e) contratos de prestação de serviços de apoio operacional; III – coordenar e controlar e tramitação de solicitações referentes à iluminação pública efetuadas por parlamentares, órgãos de controle e outros órgãos da administração pública, pessoas físicas e jurídicas; IV– coordenar a fiscalização dos contratos de concessão, de verificação independente dos serviços de iluminação pública e de prestação de serviços de apoio operacional; V – coordenar, monitorar e avaliar a eficiência energética dos serviços de iluminação pública e do consumo energético municipal; VI – coordenar a elaboração de normas e procedimentos administrativos, bem como a padronização de expedientes relativos ao controle de contratos pertinentes à iluminação pública; VII – participar das ações do Município para promoção e implementação de desenvolvimento tecnológico, com vistas à melhoraria da infraestrutura urbana, redução de despesas, aumento de receitas e otimização de processos.
+
+Subseção I Da Gerência de Informação e Demandas Institucionais
+
+**Art. 76-C** – A Gerência de Informação e Demandas Institucionais tem como competência gerir os processos de captação, registro, análise e tratamento de dados e demandas relacionadas aos serviços e obras de iluminação pública, com atribuições de: I – executar atividades de desenvolvimento, aperfeiçoamento e monitoramento da qualidade dos dados dos serviços e obras de iluminação pública; II – produzir informações sobre iluminação pública para instruir e subsidiar processos e tomadas de decisão; III – gerir e monitorar planos de ações relacionados às operações de iluminação pública e aos cronogramas; IV – oferecer suporte e treinamento aos servidores usuários dos sistemas informatizados de gestão de iluminação pública, além dos procedimentos técnicos internos necessários; V – receber, analisar e processar as demandas por informações acerca da prestação dos serviços de iluminação pública no Município, bem como de serviços complementares de Iluminação Pública.
+
+Subseção II Da Gerência de Controle de Contratos e Eficiência Energética
+
+**Art. 76-D** – A Gerência de Controle de Contratos e Eficiência Energética tem como competência gerir a execução de contratos de iluminação pública, com atribuições de: I – exercer o controle dos contratos de concessão de iluminação pública, de verificação independente do contrato de concessão de iluminação pública e de prestação de serviços de apoio operacional; II – coordenar o processo de cálculo do reequilíbrio econômico-financeiro de contratos de projetos, serviços e obras relacionados ao contrato de concessão de iluminação pública; III – elaborar relatórios de acompanhamento dos contratos, de registro de ocorrências e de penalidades regulamentares e contratuais aplicadas ao parceiro privado, para subsidiar a tomada de decisões acerca da iluminação pública; IV – elaborar e auxiliar a implantação de procedimentos, normas técnicas e outras medidas que visem à eficiência, qualidade e redução de custos dos serviços e obras de iluminação pública; V – controlar o consumo de energia elétrica no município, incluindo a eficientização da iluminação pública; VI – propor e acompanhar ações de correção e de melhoria com base nos controles de consumo e eficiência energética; VII – controlar o cadastro e a base de dados dos equipamentos de iluminação pública no município, incluindo os elementos de iluminação, tipos de fixação e postes exclusivos.
+
+Seção II Do Departamento de Infraestrutura, Manutenção e Receitas Acessórias
+
+**Art. 76-E** – O Departamento de Infraestrutura, Manutenção e Receitas Acessórias tem como competência planejar, coordenar e supervisionar as ações de acompanhamento, vistoria e controle dos contratos pertinentes à iluminação pública no Município, com atribuições de: I – coordenar as diretrizes e procedimentos operacionais para as ações de gestão e acompanhamento presencial dos contratos de competência do departamento, conforme instrumentos normativos e indicadores; II – controlar o atendimento aos níveis de serviço e controle de qualidade dos contratos de concessão dos serviços de iluminação pública; III – coordenar o sistema de telegestão para a iluminação pública; IV – coordenar o processo de exploração de receitas acessórias; V – controlar o atendimento aos requisitos para a iluminação de destaque nos principais monumentos do patrimônio histórico, cultural ou paisagístico do Município; VI – controlar qualitativa e quantitativamente o parque de unidades de iluminação pública em relação à modernização e à eficientização das unidades de iluminação pública; VII – coordenar os processos de análise, acompanhamento da execução e aprovação dos serviços complementares de iluminação pública, em relação à ampliação, incorporação e realocação de unidades de iluminação pública.
+
+Subseção I Da Gerência de Controle de Operação, Manutenção e Receitas Acessórias
+
+**Art. 76-F** – A Gerência de Controle de Operação e Manutenção e Receitas Acessórias tem como competência gerir as atividades de supervisão e apoio operacional aos serviços de iluminação pública, com atribuições de: I – supervisionar o controle da operação e manutenção do parque de iluminação pública; II – avaliar e propor melhorias para as atividades de manutenção do parque de iluminação pública; III – monitorar o atendimento aos requisitos do contrato de concessão para os serviços de iluminação pública no Município, referentes à gestão ambiental e de materiais; IV – supervisionar e controlar o atendimento aos requisitos de contrato administrativo para prestação de serviços de apoio operacional na iluminação pública; V – supervisionar as atividades da concessionária referentes ao sistema de telegestão para iluminação pública; VI – supervisionar e controlar as iniciativas e ações geradoras de receitas acessórias advindas da exploração de atividades relacionadas ao uso dos equipamentos do parque de iluminação pública do Município.
+
+Subseção II Da Gerência de Projetos, Orçamentação e Interface
+
+**Art. 76-G** – A Gerência de Projetos, Orçamentação e Interface tem como competência gerir e monitorar a programação dos projetos e orçamentos de iluminação pública, em consonância com a priorização estabelecida no Plano de Obras e em interface com a concessionária distribuidora de energia, com atribuições de: I – analisar e efetuar o levantamento de custos para elaboração de planilhas para processo de orçamentação de projetos, serviços e obras relacionados às competências da Diretoria; II – fornecer suporte na elaboração de cálculo do reequilíbrio econômico-financeiro de contratos de projetos, serviços e obras relacionados ao contrato de concessão de iluminação pública; III – analisar projetos e planilhas recebidos com vistas à elaboração de preços; IV – elaborar os cronogramas financeiros para os empreendimentos, bem como as planilhas orçamentárias para projetos, serviços e obras de iluminação pública; V – definir os Benefícios e Despesas Indiretas – BDI – a serem utilizados nos projetos, nos serviços e nas obras; VI – elaborar estudos para subsidiar o cálculo de ressarcimento de despesas indiretas na execução de projetos, serviços e obras; VII – elaborar relatórios de acompanhamento dos orçamentos dos empreendimentos de iluminação pública; VIII – supervisionar a orçamentação, projetos e obras de responsabilidade da diretoria para serviços complementares; IX – gerenciar a tramitação das demandas de serviços complementares de iluminação pública; X – gerenciar a interface com as áreas de suporte do Portal de Serviços da Prefeitura de Belo Horizonte; XI – analisar e desenvolver estudos para aperfeiçoar controles dos serviços de remoção e remanejamento de interferências relacionadas à iluminação pública na execução das obras; XII – executar as verificações técnicas necessárias ao levantamento de quantitativos para os contratos e os planos de ataque de obras referentes aos empreendimentos sob sua responsabilidade; XIII – elaborar, em articulação com outros órgãos e entidades, propostas alternativas para execução de obras, nos casos de interfaces ou impedimentos resultantes de obras e serviços realizados por terceiros; XIV – elaborar e adequar a programação e os cronogramas físico-financeiros das obras a executar, em articulação com as diretorias da Sudecap e demais órgãos; XV – elaborar e compatibilizar os estudos de caminhos e eventos críticos das obras, em colaboração com os setores envolvidos, visando manter os cronogramas definidos nos contratos e no plano de obras.”.
+
+**Art. 4º** – Ficam revogados a alínea “f” do inciso V do art. 3º, os incisos XIX, XX, XXI e XXII do art. 8º, bem como a Seção VI do Capítulo VII e o art. 17-B do Decreto nº 17.556, de 2 de março de 2021.
+
+**Art. 5º** – Este decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 7 de julho de 2023.
+
+Fuad Noman
+
+Prefeito de Belo Horizonte

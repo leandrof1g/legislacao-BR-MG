@@ -1,0 +1,65 @@
+---
+titulo: "Decreto nº 14209/2010"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "14209"
+data: ""
+data_publicacao: ""
+ementa: "Abre ao Orçamento da Seguridade Social da Prefeitura, em favor do Fundo Municipal de Saúde, Crédito Suplementar no valor de R$16.805.372,00, para reforço de dotações consignadas no vigente orçamento."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f762cac0aff012cbbbda12000cb"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/14209/2010"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f762cac0aff012cbbc6875000d2"
+id_documento: "2c907f762cac0aff012cbbc6875000d2"
+sha256_fonte: "65e6bfa65c36915f5f3f78180fd55ebef39bb58a6c170225ffeec3269a76bee9"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 14209/2010
+
+DECRETO Nº 14.209, DE 3 DE DEZEMBRO DE 2010
+
+Abre ao Orçamento da Seguridade Social da Prefeitura, em favor do Fundo Municipal de Saúde, Crédito Suplementar no valor de R$16.805.372,00, para reforço de dotações consignadas no vigente orçamento.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 10, inciso III da Lei Orçamentária nº 9.802, de 30 de dezembro de 2009, e, ainda, as disposições do Decreto nº 13.843, de 14 de janeiro de 2010,
+
+decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor do Fundo Municipal de Saúde, o Crédito Suplementar no valor de R$16.805.372,00 (dezesseis milhões, oitocentos e cinco mil, trezentos e setenta e dois reais) para atender às seguinte programações:
+
+2302.0001.10.301.157.2.681.319011.0103 5.865.372,00
+
+2302.0001.10.305.028.2.829.319034.0103 10.940.000,00
+
+**Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior, decorrerão da anulação parcial das seguintes dotações do Orçamento da Seguridade Social da Prefeitura, no valor de R$16.805.372,00 (dezesseis milhões, oitocentos e cinco mil, trezentos e setenta e dois reais):
+
+2302.0001.10.122.117.2.327.319011.0100 6.780.941,00
+
+2302.0001.10.301.157.2.681.319011.0100 7.789.573,00
+
+2302.0003.10.301.157.2.681.319011.0103 100.000,00
+
+2302.0004.10.301.157.2.681.319011.0103 1.500.034,00
+
+2302.0005.10.301.157.2.681.319011.0103 328.877,00
+
+2302.0006.10.301.157.2.681.319011.0103 305.947,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 3 de dezembro de 2010
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Helvécio Miranda Magalhães Júnior
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

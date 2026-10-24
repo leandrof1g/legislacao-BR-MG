@@ -1,0 +1,193 @@
+---
+titulo: "Decreto nº 16700/2017"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "16700"
+data: ""
+data_publicacao: ""
+ementa: "Remaneja créditos consignados nas dotações orçamentárias da Fundação Municipal de Cultura vinculada ao Gabinete do Prefeito, no valor de R$31.205.035,00, para a Fundação Municipal de Cultura por vinculação à Secretaria Municipal de Cultura."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f765e7d0fc1015e852b0f9a0067"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/16700/2017"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f765e7d0fc1015e852bc6b9006d"
+id_documento: "2c907f765e7d0fc1015e852bc6b9006d"
+sha256_fonte: "c3802533f7cd9d2bb85d3dbb113b22f0b243c85fdf758d39e18ea7befc91b6e7"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 16700/2017
+
+DECRETO Nº 16.700, DE 14 DE SETEMBRO DE 2017
+
+Remaneja créditos consignados nas dotações orçamentárias da Fundação Municipal de Cultura vinculada ao Gabinete do Prefeito, no valor de R$31.205.035,00, para a Fundação Municipal de Cultura por vinculação à Secretaria Municipal de Cultura.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 107, da Lei Municipal nº 11.065, de 01 de agosto de 2017, decreta:
+
+**Art. 1º** - Ficam acrescidos, por remanejamento de créditos orçamentários, recursos para a Fundação Municipal de Cultura – FMC por vinculação à Secretaria Municipal de Cultura – SMC, no valor de R$31.205.035,00 (trinta e um milhões, duzentos e cinco mil e trinta e cinco reais), nas seguintes dotações orçamentárias:
+
+3103.13.391.155.2.375.3390.0300 109.500,00
+
+3103.13.391.155.2.375.3390.0306 25.000,00
+
+3103.13.391.239.2.375.3390.0300 80.000,00
+
+3103.13.392.154.2.371.3390.0300 106.986,00
+
+3103.13.392.154.2.371.3390.0330 24.127,00
+
+3103.13.392.154.2.371.4490.0430 300.000,00
+
+3103.13.392.154.2.371.3390.0300 7.200,00
+
+3103.13.391.155.2.375.3390.0300 76.970,00
+
+3103.13.122.146.2.900.3190.0100 748.246,00
+
+3103.13.122.146.2.900.3190.0106 10.000,00
+
+3103.13.122.146.2.900.3191.0100 88.702,00
+
+3103.13.122.146.2.900.3390.0300 3.525.883,00
+
+3103.13.122.146.2.334.3390.0300 30.727,00
+
+3103.13.122.146.2.338.3190.0100 1.671.908,00
+
+3103.13.122.146.2.338.3190.0106 10.000,00
+
+3103.13.122.146.2.338.3191.0100 294.959,00
+
+3103.13.122.146.2.338.3390.0300 5.210.079,00
+
+3103.13.122.146.2.338.3390.0306 1.108.219,00
+
+3103.13.122.146.2.338.3390.0330 1.350.000,00
+
+3103.13.122.146.2.338.4490.0400 274.000,00
+
+3103.13.122.146.2.338.4490.0406 145.000,00
+
+3103.13.392.154.2.371.3390.0300 1.296.163,00
+
+3103.12.361.154.2.371.3390.0300 180.000,00
+
+3103.12.392.154.2.371.3390.0300 2.800.000,00
+
+3103.13.392.154.2.371.3190.0100 2.144.319,00
+
+3103.13.392.154.2.371.3190.0106 10.000,00
+
+3103.13.392.154.2.371.3191.0100 344.329,00
+
+3103.13.392.154.2.371.3390.0300 1.622.524,00
+
+3103.13.392.154.2.371.3390.0330 69.531,00
+
+3103.13.392.239.2.371.3390.0300 4.646.800,00
+
+3103.13.391.155.2.375.3190.0100 2.511.276,00
+
+3103.13.391.155.2.375.3190.0106 10.000,00
+
+3103.13.391.155.2.375.3191.0100 324.587,00
+
+3103.13.391.155.2.375.3390.0300 48.000,00
+
+**Art. 2º** - Ficam anulados os créditos orçamentários vigentes da Fundação Municipal de Cultura – FMC vinculados ao Gabinete do Prefeito – GP, para atendimento ao disposto no artigo anterior, das seguintes dotações orçamentárias, no valor de R$ 31.205.035,00 (trinta e um milhões, duzentos e cinco mil e trinta e cinco reais):
+
+0207.13.391.155.2.375.3390.0300 109.500,00
+
+0207.13.391.155.2.375.3390.0306 25.000,00
+
+0207.13.391.239.2.375.3390.0300 80.000,00
+
+0207.13.392.154.2.371.3390.0300 106.986,00
+
+0207.13.392.154.2.371.3390.0330 24.127,00
+
+0207.13.392.154.2.371.4490.0430 300.000,00
+
+0207.13.392.154.2.371.3390.0300 7.200,00
+
+0207.13.391.155.2.375.3390.0300 76.970,00
+
+0207.13.122.146.2.900.3190.0100 748.246,00
+
+0207.13.122.146.2.900.3190.0106 10.000,00
+
+0207.13.122.146.2.900.3191.0100 88.702,00
+
+0207.13.122.146.2.900.3390.0300 3.525.883,00
+
+0207.13.122.146.2.334.3390.0300 7.727,00
+
+0207.13.122.146.2.338.3190.0100 867.107,00
+
+0207.13.122.146.2.338.3190.0106 10.000,00
+
+0207.13.122.146.2.338.3191.0100 153.939,00
+
+0207.13.122.146.2.338.3390.0300 405.541,00
+
+0207.13.122.146.2.338.3390.0306 340.000,00
+
+0207.13.392.154.2.371.3390.0300 1.296.163,00
+
+0207.13.122.146.2.334.3390.0300 23.000,00
+
+0207.13.122.146.2.338.3190.0100 804.801,00
+
+0207.13.122.146.2.338.3191.0100 141.020,00
+
+0207.13.122.146.2.338.3390.0300 4.804.538,00
+
+0207.13.122.146.2.338.3390.0306 768.219,00
+
+0207.13.122.146.2.338.3390.0330 1.350.000,00
+
+0207.13.122.146.2.338.4490.0400 274.000,00
+
+0207.13.122.146.2.338.4490.0406 145.000,00
+
+0207.12.361.154.2.371.3390.0300 180.000,00
+
+0207.12.392.154.2.371.3390.0300 2.800.000,00
+
+0207.13.392.154.2.371.3190.0100 2.144.319,00
+
+0207.13.392.154.2.371.3190.0106 10.000,00
+
+0207.13.392.154.2.371.3191.0100 344.329,00
+
+0207.13.392.154.2.371.3390.0300 1.622.524,00
+
+0207.13.392.154.2.371.3390.0330 69.531,00
+
+0207.13.392.239.2.371.3390.0300 4.646.800,00
+
+0207.13.391.155.2.375.3190.0100 2.511.276,00
+
+0207.13.391.155.2.375.3190.0106 10.000,00
+
+0207.13.391.155.2.375.3191.0100 324.587,00
+
+0207.13.391.155.2.375.3390.0300 48.000,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 14 de setembro de 2017.
+
+Alexandre Kalil
+
+Prefeito de Belo Horizonte
+
+André Abreu Reis
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+Fuad Jorge Noman Filho
+
+Secretário Municipal de Fazenda

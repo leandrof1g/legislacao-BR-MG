@@ -1,0 +1,8123 @@
+---
+titulo: "Lei Ordinária nº 11337, de 30/12/2021"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "11337"
+data: "2021-12-30"
+data_publicacao: "2021-12-31"
+ementa: "Dispõe sobre o Plano Plurianual de Ação Governamental - PPAG - para o quadriênio 2022-2025."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f767ddc4eaf017e2042864e0130"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11337/2021"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f767ddc4eaf017e2043d7a50133"
+id_documento: "2c907f767ddc4eaf017e2043d7a50133"
+sha256_fonte: "f393684e565ee87246bb0bcafa4f6caf9de8dda462a96d19622b9fcd707d779d"
+baixado_em: "2026-10-23"
+---
+
+# Lei Ordinária nº 11337, de 30/12/2021
+
+LEI Nº 11.337, DE 30 DE DEZEMBRO DE 2021
+
+Dispõe sobre o Plano Plurianual de Ação Governamental - PPAG - para o quadriênio 2022-2025.
+
+O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sanciono a seguinte Lei:
+
+CAPÍTULO I
+
+DA ESTRUTURA E DA ORGANIZAÇÃO DO PPAG
+
+**Art. 1º** - Esta lei institui o Plano Plurianual de Ação Governamental - PPAG - para o quadriênio 2022-2025, em cumprimento ao disposto no § 1º do art. 165 da Constituição Federal e nos arts. 108, 125 e 126 da Lei Orgânica do Município de Belo Horizonte - LOMBH.
+
+**Parágrafo único** - Ficam estabelecidos, para o período a que se refere o caput deste artigo, os programas da administração direta e indireta do Poder Executivo e do Poder Legislativo, com seus respectivos objetivos, indicadores e metas, bem como a previsão dos montantes de recursos a serem aplicados, para as despesas relativas aos programas e ações que visam atender ao conjunto de Objetivos de Desenvolvimento Sustentável - ODS - e às diretrizes de governo.
+
+**Art. 2º** - Integra o PPAG o Anexo que contém o texto de apresentação e o detalhamento físico e financeiro de programas e ações, classificados como projetos estratégicos e como demais projetos e atividades da administração pública municipal, organizados por áreas de resultado.
+
+**Art. 3º** - Os programas, como instrumento de organização das ações de governo no âmbito da administração pública municipal, ficam restritos àqueles integrantes do PPAG.
+
+**Art. 4º** - As estimativas de valores de receitas e despesas constantes do Anexo desta lei e suas metas físicas foram fixadas de modo a conferir consistência ao PPAG, não se constituindo em obrigatoriedade ou limites à programação das despesas nas leis orçamentárias anuais.
+
+**§ 1º** - As leis de diretrizes orçamentárias estabelecerão as prioridades para cada ano do período a que se refere o caput deste artigo, promovendo os ajustes eventualmente necessários ao PPAG.
+
+**§ 2º** - As leis orçamentárias anuais para o período de 2022 a 2025 devem ser compatíveis com os programas e metas constantes desta lei, podendo criar, alterar ou excluir ações orçamentárias para o ano de sua vigência.
+
+**§ 3º** - As metas físicas referidas no caput norteiam as ações da administração pública municipal e correspondem a quantidades e valores estimados, não constituindo limites para o cumprimento dos objetivos do PPAG.
+
+**Art. 5º** - O Executivo compatibilizará o Anexo desta lei às seguintes alterações no Demonstrativo Físico e Financeiro de Programa por Área de Resultado:
+
+1)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0170 - FOMENTO E ECONOMIA DA CULTURA
+
+Ação: 2369 - FOMENTO À CULTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |2.000.000,00 |2.000.000,00 |2.000.000,00 |2.000.000,00 |
+
+Subação: 0001 - FOMENTO A PROJETOS E AÇÕES CULTURAIS
+
+|2022 |2023 |2024 |2025 |
+
+|330 |330 |330 |330 |
+
+Produto: Projeto incentivado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3101 - FUNDO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |2.000.000,00 |2.000.000,00 |2.000.000,00 |2.000.000,00 |
+
+2)
+
+ACRÉSCIMO:
+
+Área de resultado: 06 - DESENVOLVIMENTO ECONÔMICO E TURISMO
+
+Programa: 0237 - QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+Ação: 2404 - AÇÕES DE QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |500.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0010 - INSERÇÃO DE PESSOAS EM SITUAÇÃO DE RUA NO MERCADO DE TRABALHO - PROGRAMA ESTAMOS JUNTOS
+
+|2022 |2023 |2024 |2025 |
+
+|40 |0 |0 |0 |
+
+Produto: Pessoa contratada
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 2800 - SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO
+
+DEDUÇÃO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |500.000,00 |0,00 |0,00 |0,00 |
+
+3)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0225 - INTERVENÇÃO EM ASSENTAMENTOS DE INTERESSE SOCIAL
+
+Ação: 1231 - URBANIZAÇÃO E REGULARIZAÇÃO EM ASSENTAMENTOS DE INTERESSE SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |600.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0003 - PLANOS URBANÍSTICOS
+
+|2022 |2023 |2024 |2025 |
+
+|74 |0 |0 |0 |
+
+Produto: Família beneficiada
+
+Unidade de medida: Família
+
+Unidade orçamentária: 2704 - FUNDO MUNICIPAL DE HABITAÇÃO POPULAR
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |600.000,00 |0,00 |0,00 |0,00 |
+
+4)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARDIM ZOOLÓGICO E JARDIM BOTÂNICO
+
+Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |300.000,00 |300.000,00 |300.000,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |300.000,00 |300.000,00 |300.000,00 |
+
+5)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0066 - SANEAMENTO E TRATAMENTO DE FUNDOS DE VALE
+
+Ação: 1203 - SANEAMENTO INTEGRADO; DRENAGEM E TRATAMENTO DE FUNDOS DE VALE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.000.000,00 |1.000.000,00 |1.000.000,00 |1.000.000,00 |
+
+Subação: 0001 - SANEAMENTO INTEGRADO/DRENAGEM E TRATAMENTO DE FUNDOS DE VALE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Empreendimento em andamento
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0062 - GESTÃO DO SISTEMA VIÁRIO MUNICIPAL
+
+Ação: 1230 - IMPLANTAÇÃO E RECONSTRUÇÃO DE VIAS PÚBLICAS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.000.000,00 |1.000.000,00 |1.000.000,00 |1.000.000,00 |
+
+6)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0059 - COORDENAÇÃO DA POLÍTICA URBANA
+
+Ação: 2854 - PLANEJAMENTO E GESTÃO DA POLÍTICA URBANA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |150.000,00 |150.000,00 |150.000,00 |
+
+Subação: IMPLANTAÇÃO E MANUTENÇÃO DOS CORREDORES POPULARES
+
+|2022 |2023 |2024 |2025 |
+
+|3 |3 |3 |3 |
+
+Produto: Corredor popular implantado e mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
+
+DEDUÇÃO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0059 - COORDENAÇÃO DA POLÍTICA URBANA
+
+Ação: 2890 - FISCALIZAÇÃO URBANO-AMBIENTAL
+
+Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |150.000,00 |150.000,00 |150.000,00 |
+
+7)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |10.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA ATENÇÃO PRIMÁRIA À SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Consulta realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |10.000,00 |0,00 |0,00 |0,00 |
+
+8)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0084 - SERVIÇOS DE ILUMINAÇÃO PÚBLICA
+
+Ação: 2035 - CUSTEIO DOS SERVIÇOS DE ILUMINAÇÃO PÚBLICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |4.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0003 - MODERNIZAÇÃO E AMPLIAÇÃO DA REDE DE ILUMINAÇÃO PÚBLICA
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Unidade de iluminação pública modernizada/ampliada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |4.000,00 |0,00 |0,00 |0,00 |
+
+9)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0020 - PROTEÇÃO SOCIAL ESPECIAL
+
+Ação: 2403 - SERVIÇO DE PROTEÇÃO SOCIAL ESPECIAL DE ALTA COMPLEXIDADE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |450.000,00 |450.000,00 |450.000,00 |450.000,00 |
+
+Subação: SERVIÇO DE ACOLHIMENTO INSTITUCIONAL EM CASAS PARA FAMÍLIAS COM MULHERES GESTANTES E PUÉRPERAS
+
+|2022 |2023 |2024 |2025 |
+
+|10 |10 |10 |10 |
+
+Produto: Família atendida
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0062 - GESTÃO DO SISTEMA VIÁRIO MUNICIPAL
+
+Ação: 1230 - IMPLANTAÇÃO E RECONSTRUÇÃO DE VIAS PÚBLICAS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |450.000,00 |450.000,00 |450.000,00 |450.000,00 |
+
+10)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRI
+
+A E TERCIÁRIA À SAÚDE
+
+Ação: 2891 - REDE ESPECIALIZADA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |300.000,00 |300.000,00 |300.000,00 |
+
+Subação: SAÚDE REPRODUTIVA DA MULHER
+
+|2022 |2023 |2024 |2025 |
+
+|1.500 |1.500 |1.500 |1.500 |
+
+Produto: Mulher atendida
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0059 - COORDENAÇÃO DA POLÍTICA URBANA
+
+Ação: 2890 - FISCALIZAÇÃO URBANO-AMBIENTAL
+
+Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |300.000,00 |300.000,00 |300.000,00 |
+
+11)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0226 - PROVISÃO HABITACIONAL
+
+Ação: 2792 - BOLSA MORADIA/LOCAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |756.000,00 |756.000,00 |756.000,00 |756.000,00 |
+
+Subação: PROJETO PILOTO MORADIA PRIMEIRO
+
+|2022 |2023 |2024 |2025 |
+
+|30 |30 |30 |30 |
+
+Produto: Família atendida
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2704 - FUNDO MUNICIPAL DE HABITAÇÃO POPULAR
+
+DEDUÇÃO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |756.000,00 |756.000,00 |756.000,00 |756.000,00 |
+
+12)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0226 - PROVISÃO HABITACIONAL
+
+Ação: 2792 - BOLSA MORADIA/LOCAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |300.000,00 |300.000,00 |300.000,00 |
+
+Subação: 0001 - BOLSA MORADIA/ABONO PECUNIÁRIO – DIVERSOS
+
+|2022 |2023 |2024 |2025 |
+
+|50 |50 |50 |50 |
+
+Produto: Benefício concedido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2704 - FUNDO MUNICIPAL DE HABITAÇÃO POPULAR
+
+DEDUÇÃO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0062 - GESTÃO DO SISTEMA VIÁRIO MUNICIPAL
+
+Ação: 1230 - IMPLANTAÇÃO E RECONSTRUÇÃO DE VIAS PÚBLICAS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |300.000,00 |300.000,00 |300.000,00 |
+
+13)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0059 - COORDENAÇÃO DA POLÍTICA URBANA
+
+Ação: 2566 - PLANEJAMENTO E DESENVOLVIMENTO URBANO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |300.000,00 |300.000,00 |300.000,00 |
+
+Subação: INSTALAÇÃO E MANUTENÇÃO DE BANHEIROS PÚBLICOS
+
+|2022 |2023 |2024 |2025 |
+
+|5 |5 |5 |5 |
+
+Produto: Banheiro público implantado e mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
+
+DEDUÇÃO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |300.000,00 |300.000,00 |300.000,00 |
+
+14)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 2334 - PARTICIPAÇÃO POPULAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |60.000,00 |60.000,00 |60.000,00 |60.000,00 |
+
+Subação: APOIO A EVENTOS DE CONSCIENTIZAÇÃO SOBRE A SAÚDE MENTAL
+
+|2022 |2023 |2024 |2025 |
+
+|3 |3 |3 |3 |
+
+Produto: Evento realizado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |60.000,00 |60.000,00 |60.000,00 |60.000,00 |
+
+15)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARDIM ZOOLÓGICO E JARDIM BOTÂNICO
+
+Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.500.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.500.000,00 |0,00 |0,00 |0,00 |
+
+16)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2840 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS MULHERES
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |785.000,00 |785.000,00 |785.000,00 |785.000,00 |
+
+Subação: COMBATE À EXTREMA POBREZA MENSTRUAL COM A DISTRIBUIÇÃO DE ABSORVENTES ÍNTIMOS
+
+|2022 |2023 |2024 |2025 |
+
+|8.269 |8.269 |8.269 |8.269 |
+
+Produto: Mulheres atendidas
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 06 - DESENVOLVIMENTO ECONÔMICO E TURISMO
+
+Programa: 0086 - FOMENTO AO TURISMO DE LAZER, EVENTOS E NEGÓCIOS
+
+Ação: 2629 - DESENVOLVIMENTO E PROMOÇÃO DO TURISMO
+
+Unidade orçamentária: 2805 - EMPRESA MUNICIPAL DE TURISMO DE BELO HORIZONTE S.A.
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |785.000,00 |785.000,00 |785.000,00 |785.000,00 |
+
+17)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2928 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS PESSOAS LGBT
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |30.000,00 |30.000,00 |30.000,00 |
+
+Subação: 0003 - ATENDIMENTO PSICOSSOCIAL À POPULAÇÃO LGBT - CRLGBT
+
+|2022 |2023 |2024 |2025 |
+
+|20 |20 |20 |20 |
+
+Produto: Atendimento realizado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 04 - SEGURANÇA
+
+Programa: 0109 - OPERACIONALIZAÇÃO DOS SERVIÇOS DE SEGURANÇA
+
+Ação: 2802 - GESTÃO DA POLÍTICA DE SEGURANÇA E PREVENÇÃO
+
+Unidade orçamentária: 2100 - SECRETARIA MUNICIPAL DE SEGURANÇA E PREVENÇÃO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |30.000,00 |30.000,00 |30.000,00 |
+
+18)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 2534 - IMPLANTAÇÃO, MANUTENÇÃO E RECUPERAÇÃO DE INFRAESTRUTURA ESPORTIVA E DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |20.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - MANUTENÇÃO, CONSERVAÇÃO, PEQUENAS REFORMAS E CUSTEIO DA INFRAESTRUTURA ESPORTIVA
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Equipamento público mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3000 - SECRETARIA MUNICIPAL DE ESPORTES E LAZER
+
+DEDUÇÃO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0060 - GESTÃO DA MOBILIDADE URBANA
+
+Ação: 2567 - GESTÃO DA POLÍTICA DE TRANSPORTE URBANO E TRÂNSITO
+
+Unidade orçamentária: 2709 - EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |20.000,00 |0,00 |0,00 |0,00 |
+
+19)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0308 - BH CIDADE SUSTENTÁVEL: MOBILIZAR, EDUCAR E CULTIVAR ALIMENTAÇÃO SAUDÁVEL
+
+Ação: 2121 - FORTALECIMENTO DA PRODUÇÃO DA AGRICULTURA URBANA AGROECOLÓGICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |384.000,00 |384.000,00 |384.000,00 |384.000,00 |
+
+Subação: 0006 - FORMAÇÃO E QUALIFICAÇÃO EM AGRICULTURA URBANA E AGROECOLOGIA
+
+|2022 |2023 |2024 |2025 |
+
+|16 |16 |16 |16 |
+
+Produto: Pessoa capacitada
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 1010 - FUNDO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |384.000,00 |384.000,00 |384.000,00 |384.000,00 |
+
+20)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO/EDUCAÇÃO INFANTIL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Umei/Escola Infantil reformada/implantada
+
+Unidade de medida: Percentual de execução
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+21)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0225 - INTERVENÇÃO EM ASSENTAMENTOS DE INTERESSE SOCIAL
+
+Ação: 1231 - URBANIZAÇÃO E REGULARIZAÇÃO EM ASSENTAMENTOS DE INTERESSE SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |600.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0003 - PLANOS URBANÍSTICOS
+
+|2022 |2023 |2024 |2025 |
+
+|700 |0 |0 |0 |
+
+Produto: Família beneficiada
+
+Unidade de medida: Família
+
+Unidade orçamentária: 2704 - FUNDO MUNICIPAL DE HABITAÇÃO POPULAR
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |600.000,00 |0,00 |0,00 |0,00 |
+
+22)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO/EDUCAÇÃO INFANTIL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Umei/Escola Infantil reformada/implantada
+
+Unidade de medida: Percentual de execução
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+23)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO/EDUCAÇÃO INFANTIL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Umei/Escola Infantil reformada/implantada
+
+Unidade de medida: Percentual de execução
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+24)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2891 - REDE ESPECIALIZADA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Subação: INCENTIVO AO ALEITAMENTO MATERNO
+
+|2022 |2023 |2024 |2025 |
+
+|100 |100 |100 |100 |
+
+Produto: Mães beneficiadas
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0046 - OPERACIONALIZAÇÃO E MODERNIZAÇÃO DA LIMPEZA PÚBLICA
+
+Ação: 2537 - TRATAMENTO E DESTINAÇÃO DE RESÍDUOS SÓLIDOS
+
+Unidade orçamentária: 2708 - SUPERINTENDÊNCIA DE LIMPEZA URBANA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+25)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO/EDUCAÇÃO INFANTIL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Umei/Escola Infantil reformada/implantada
+
+Unidade de medida: Percentual de execução
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+26)
+
+ACRÉSCIMO:
+
+Área de resultado: 04 - SEGURANÇA
+
+Programa: 0242 - PREVENÇÃO SOCIAL À CRIMINALIDADE
+
+Ação: 2881 - AÇÕES DE PREVENÇÃO SOCIAL À CRIMINALIDADE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |90.000,00 |90.000,00 |90.000,00 |90.000,00 |
+
+Subação: 0002 - PREVENÇÃO À CRIMINALIDADE JUVENIL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Programa implantado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2100 - SECRETARIA MUNICIPAL DE SEGURANÇA E PREVENÇÃO
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0085 - GESTÃO DA POLÍTICA DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
+
+Ação: 2602 - GERENCIAMENTO, IMPLANTAÇÃO E ATENDIMENTO DE SERVIÇOS NA RMI
+
+Unidade orçamentária: 0604 - EMPRESA DE INFORMÁTICA E INFORMAÇÃO DO MUNICÍPIO DE BELO HORIZONTE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |90.000,00 |90.000,00 |90.000,00 |90.000,00 |
+
+27)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 2308 - SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0003 - SERVIÇO DE CONVIVÊNCIA E FORTALECIMENTO DE VÍNCULOS PARA CRIANÇAS, ADOLESCENTES, JOVENS, ADULTOS E IDOSAS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Pessoa atendida
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+28)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |40.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |40.000,00 |0,00 |0,00 |0,00 |
+
+29)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0163 - PROMOÇÃO E PROTEÇÃO ÀS CRIANÇAS E ADOLESCENTES E SUAS FAMÍLIAS
+
+Ação: 2860 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS CRIANÇAS, ADOLESCENTES E SUAS FAMÍLIAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |60.000,00 |60.000,00 |60.000,00 |60.000,00 |
+
+Subação: 0001 - APOIO E ASSESSORAMENTO À REDE DE ATENDIMENTO E DEFESA DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+|2022 |2023 |2024 |2025 |
+
+|60.000 |60.000 |60.000 |60.000 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 1013 - FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+DEDUÇÃO:
+
+Área de resultado: 06 - DESENVOLVIMENTO ECONÔMICO E TURISMO
+
+Programa: 0086 - FOMENTO AO TURISMO DE LAZER, EVENTOS E NEGÓCIOS
+
+Ação: 2629 - DESENVOLVIMENTO E PROMOÇÃO DO TURISMO
+
+Unidade orçamentária: 2805 - EMPRESA MUNICIPAL DE TURISMO DE BELO HORIZONTE S.A.
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |60.000,00 |60.000,00 |60.000,00 |60.000,00 |
+
+30)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2840 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS MULHERES
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |345.600,00 |345.600,00 |345.600,00 |345.600,00 |
+
+Subação: VALE TRANSPORTE PARA MULHERES EM SITUAÇÃO DE VIOLÊNCIA
+
+|2022 |2023 |2024 |2025 |
+
+|800 |800 |800 |800 |
+
+Produto: Mulher beneficiada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |345.600,00 |345.600,00 |345.600,00 |345.600,00 |
+
+31)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARDIM ZOOLÓGICO E JARDIM BOTÂNICO
+
+Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |160.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |160.000,00 |0,00 |0,00 |0,00 |
+
+32)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 2308 - SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |0,00 |0,00 |0,00 |
+
+Subação: ACOLHIMENTO A PESSOAS COM CÂNCER POR MEIO DA DOAÇÃO DE PERUCAS
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |0,00 |0,00 |0,00 |
+
+33)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2927 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS PESSOAS COM DEFICIÊNCIA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+Subação: REPASSE DE RECURSOS A ENTIDADES PARA PROMOÇÃO DE AÇÕES EM DEFESA DOS DIREITOS DAS PESSOAS COM DEFICIÊNCIA
+
+|2022 |2023 |2024 |2025 |
+
+|644.610 |0 |0 |0 |
+
+Produto: Ação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+34)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 2308 - SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |59.000,00 |0,00 |0,00 |0,00 |
+
+Subação: FORTALECIMENTO DE VÍNCULOS FAMILIARES
+
+|2022 |2023 |2024 |2025 |
+
+|30 |0 |0 |0 |
+
+Produto: Equipamento
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |59.000,00 |0,00 |0,00 |0,00 |
+
+35)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0154 - PROMOÇÃO E ACESSO ÀS ARTES E À CULTURA
+
+Ação: 2371 - DEMOCRATIZAÇÃO DAS ARTES E DAS CULTURAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0004 - REALIZAÇÃO DE FESTIVAL, ENCONTRO E MOSTRA DE ARTE E CULTURA
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Evento realizado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+36)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 1213 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Próprio construído/ampliado/reformado ou mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0044 - QUALIFICAÇÃO DOS PRÓPRIOS MUNICIPAIS
+
+Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+37)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |19.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |19.000,00 |0,00 |0,00 |0,00 |
+
+38)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |85.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |85.000,00 |0,00 |0,00 |0,00 |
+
+39)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |15.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO/EDUCAÇÃO INFANTIL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Umei/Escola Infantil reformada/implantada
+
+Unidade de medida: Percentual de execução
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |15.000,00 |0,00 |0,00 |0,00 |
+
+40)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 1213 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Próprio construído/ampliado/reformado ou mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+41)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 1213 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |90.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Próprio construído/ampliado/reformado ou mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |90.000,00 |0,00 |0,00 |0,00 |
+
+42)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARDIM ZOOLÓGICO E JARDIM BOTÂNICO
+
+Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |160.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |160.000,00 |0,00 |0,00 |0,00 |
+
+43)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0168 - GESTÃO DA POLITICA DO ENSINO FUNDAMENTAL
+
+Ação: 2080 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |42.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Aluno matriculado
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 2200 - SECRETARIA MUNICIPAL DE EDUCAÇÃO
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |42.000,00 |0,00 |0,00 |0,00 |
+
+44)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |15.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |15.000,00 |0,00 |0,00 |0,00 |
+
+45)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARDIM ZOOLÓGICO E JARDIM BOTÂNICO
+
+Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |164.200,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |164.200,00 |0,00 |0,00 |0,00 |
+
+46)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARDIM ZOOLÓGICO E JARDIM BOTÂNICO
+
+Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |160.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |160.000,00 |0,00 |0,00 |0,00 |
+
+47)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 1213 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |55.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Próprio construído/ampliado/reformado ou mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |55.000,00 |0,00 |0,00 |0,00 |
+
+48)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |35.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |35.000,00 |0,00 |0,00 |0,00 |
+
+49)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 1213 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |78.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Próprio construído/ampliado/reformado ou mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |78.000,00 |0,00 |0,00 |0,00 |
+
+50)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |60.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO/EDUCAÇÃO INFANTIL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Umei/Escola Infantil reformada/implantada
+
+Unidade de medida: Percentual de execução
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |60.000,00 |0,00 |0,00 |0,00 |
+
+51)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |27.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |27.000,00 |0,00 |0,00 |0,00 |
+
+52)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |10.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO/EDUCAÇÃO INFANTIL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Umei/Escola Infantil reformada/implantada
+
+Unidade de medida: Percentual de execução
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |10.000,00 |0,00 |0,00 |0,00 |
+
+53)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0168 - GESTÃO DA POLITICA DO ENSINO FUNDAMENTAL
+
+Ação: 2080 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |42.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Aluno matriculado
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 2200 - SECRETARIA MUNICIPAL DE EDUCAÇÃO
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |42.000,00 |0,00 |0,00 |0,00 |
+
+54)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0168 - GESTÃO DA POLITICA DO ENSINO FUNDAMENTAL
+
+Ação: 2080 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |42.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Aluno matriculado
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 2200 - SECRETARIA MUNICIPAL DE EDUCAÇÃO
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |42.000,00 |0,00 |0,00 |0,00 |
+
+55)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 1213 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |170.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Próprio construído/ampliado/reformado ou mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |170.000,00 |0,00 |0,00 |0,00 |
+
+56)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO/EDUCAÇÃO INFANTIL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Umei/Escola Infantil reformada/implantada
+
+Unidade de medida: Percentual de execução
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+57)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO/EDUCAÇÃO INFANTIL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Umei/Escola Infantil reformada/implantada
+
+Unidade de medida: Percentual de execução
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+58)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 2662 - GESTÃO DO SUS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.289.220,00 |0,00 |0,00 |0,00 |
+
+Subação: AQUISIÇÕES DE EQUIPAMENTOS E MATERIAL PERMANENTE
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Equipamentos
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.289.220,00 |0,00 |0,00 |0,00 |
+
+59)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |65.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |65.000,00 |0,00 |0,00 |0,00 |
+
+60)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 2662 - GESTÃO DO SUS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |303.410,00 |0,00 |0,00 |0,00 |
+
+Subação: 0013 - SERVIÇOS DE APOIO À REDE PRÓPRIA DO SUS-BH
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |303.410,00 |0,00 |0,00 |0,00 |
+
+61)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 2662 - GESTÃO DO SUS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0013 - SERVIÇOS DE APOIO À REDE PRÓPRIA DO SUS-BH
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+62)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 2662 - GESTÃO DO SUS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0013 - SERVIÇOS DE APOIO À REDE PRÓPRIA DO SUS-BH
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+63)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 2662 - GESTÃO DO SUS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |106.590,00 |0,00 |0,00 |0,00 |
+
+Subação: 0013 - SERVIÇOS DE APOIO À REDE PRÓPRIA DO SUS-BH
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |106.590,00 |0,00 |0,00 |0,00 |
+
+64)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 2662 - GESTÃO DO SUS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |123.220,00 |0,00 |0,00 |0,00 |
+
+Subação: 0013 - SERVIÇOS DE APOIO À REDE PRÓPRIA DO SUS-BH
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |123.220,00 |0,00 |0,00 |0,00 |
+
+65)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0163 - PROMOÇÃO E PROTEÇÃO ÀS CRIANÇAS E ADOLESCENTES E SUAS FAMÍLIAS
+
+Ação: 2859 - APOIO A PROJETOS DE PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS CRIANÇAS, ADOLESCENTES E SUAS FAMÍLIAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |38.020,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - APOIO SOCIOEDUCATIVO EM MEIO ABERTO
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Projeto apoiado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1013 - FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |38.020,00 |0,00 |0,00 |0,00 |
+
+66)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 2308 - SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |4.000,00 |0,00 |0,00 |0,00 |
+
+Subação: REPASSE DE RECURSOS A ENTIDADES QUE PROMOVAM AÇÕES DE ACOLHIMENTO A CRIANÇAS
+
+|2022 |2023 |2024 |2025 |
+
+|3 |0 |0 |0 |
+
+Produto: Material permanente
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |4.000,00 |0,00 |0,00 |0,00 |
+
+67)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 1220 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ASSISTÊNCIA SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |5.000,00 |0,00 |0,00 |0,00 |
+
+Subação: REPASSE DE RECURSOS A ENTIDADES QUE PROMOVAM AÇÕES DE ACOLHIMENTO A CRIANÇAS
+
+|2022 |2023 |2024 |2025 |
+
+|200 |0 |0 |0 |
+
+Produto: Reforma
+
+Unidade de medida: M²
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |5.000,00 |0,00 |0,00 |0,00 |
+
+68)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 1220 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ASSISTÊNCIA SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |3.000,00 |0,00 |0,00 |0,00 |
+
+Subação: REPASSE DE RECURSOS A ENTIDADES QUE PROMOVAM AÇÕES DE ACOLHIMENTO A CRIANÇAS
+
+|2022 |2023 |2024 |2025 |
+
+|200 |0 |0 |0 |
+
+Produto: Reforma
+
+Unidade de medida: M²
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |3.000,00 |0,00 |0,00 |0,00 |
+
+69)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0132 - SEGURANÇA ALIMENTAR E NUTRICIONAL NA PERSPECTIVA DO DIREITO E DA ASSISTÊNCIA ALIMENTAR
+
+Ação: 2761 - GESTÃO DA ALIMENTAÇÃO ESCOLAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |2.000,00 |0,00 |0,00 |0,00 |
+
+Subação: REPASSE DE RECURSOS A ENTIDADES QUE PROMOVAM AÇÕES DE ACOLHIMENTO A CRIANÇAS
+
+|2022 |2023 |2024 |2025 |
+
+|4 |0 |0 |0 |
+
+Produto: Material permanente
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1014 - FUNDO MUNICIPAL DE ALIMENTAÇÃO ESCOLAR
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |2.000,00 |0,00 |0,00 |0,00 |
+
+70)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARDIM ZOOLÓGICO E JARDIM BOTÂNICO
+
+Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |0,00 |0,00 |0,00 |
+
+71)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 1213 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |240.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Próprio construído/ampliado/reformado ou mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2928 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS PESSOAS LGBT
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |240.000,00 |0,00 |0,00 |0,00 |
+
+72)
+
+ACRÉSCIMO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0304 - BH INCLUSIVA, SEGURA E CIDADÃ
+
+Ação: 1393 - TRANSPORTE SEGURO E SUSTENTÁVEL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.000.000,00 |1.000.000,00 |1.000.000,00 |1.000.000,00 |
+
+Subação: 0002 - PROJETO PEDALA BH - IMPLANTAÇÃO DE ESTRUTURA CICLOVIÁRIA
+
+|2022 |2023 |2024 |2025 |
+
+|11 |7 |7 |15 |
+
+Produto: Ciclovia/Ciclorrota/Ciclofaixa implantada
+
+Unidade de medida: Quilômetro
+
+Unidade orçamentária: 2710 - FUNDO MUNICIPAL DE TRANSPORTES URBANOS
+
+DEDUÇÃO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0062 - GESTÃO DO SISTEMA VIÁRIO MUNICIPAL
+
+Ação: 1230 - IMPLANTAÇÃO E RECONSTRUÇÃO DE VIAS PÚBLICAS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.000.000,00 |1.000.000,00 |1.000.000,00 |1.000.000,00 |
+
+73)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0155 - MEMÓRIA E PATRIMÔNIO CULTURAL
+
+Ação: 2375 - VALORIZAÇÃO DA MEMÓRIA E DAS IDENTIDADES CULTURAIS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Subação: 0003 - VALORIZAÇÃO E PROMOÇÃO DO PATRIMÔNIO CULTURAL
+
+|2022 |2023 |2024 |2025 |
+
+|5 |5 |5 |5 |
+
+Produto: Ação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0085 - GESTÃO DA POLÍTICA DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
+
+Ação: 2602 - GERENCIAMENTO, IMPLANTAÇÃO E ATENDIMENTO DE SERVIÇOS NA RMI
+
+Unidade orçamentária: 0604 - EMPRESA DE INFORMÁTICA E INFORMAÇÃO DO MUNICÍPIO DE BELO HORIZONTE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+74)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0306 - BEM- ESTAR ANIMAL
+
+Ação: 2877 - GESTÃO INTERSETORIAL DA POLÍTICA MUNICIPAL DE PROTEÇÃO ANIMAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |4.000,00 |200.000,00 |400.000,00 |600.000,00 |
+
+Subação: POLÍTICA DE EDUCAÇÃO AMBIENTAL HUMANITÁRIA DE BEM-ESTAR ANIMAL
+
+|2022 |2023 |2024 |2025 |
+
+|1 |50 |100 |150 |
+
+Produto: Escola contemplada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2500 - SECRETARIA MUNICIPAL DE MEIO AMBIENTE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |4.000,00 |200.000,00 |400.000,00 |600.000,00 |
+
+75)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0028 - VIGILÂNCIA EM SAÚDE
+
+Ação: 2829 - VIGILÂNCIA EM SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |120.000,00 |120.000,00 |130.000,00 |130.000,00 |
+
+Subação: AQUISIÇÃO DE CASTRAMÓVEIS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Castramóvel adquirido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |120.000,00 |120.000,00 |130.000,00 |130.000,00 |
+
+76)
+
+ACRÉSCIMO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0304 - BH INCLUSIVA, SEGURA E CIDADÃ
+
+Ação: 1393 - TRANSPORTE SEGURO E SUSTENTÁVEL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |750.000,00 |750.000,00 |750.000,00 |1.000.000,00 |
+
+Subação: 0002 - PROJETO PEDALA BH - IMPLANTAÇÃO DE ESTRUTURA CICLOVIÁRIA
+
+|2022 |2023 |2024 |2025 |
+
+|3 |3 |3 |4 |
+
+Produto: Ciclovia/Ciclorrota/Ciclofaixa implantada
+
+Unidade de medida: Quilômetro
+
+Unidade orçamentária: 2710 - FUNDO MUNICIPAL DE TRANSPORTES URBANOS
+
+DEDUÇÃO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0062 - GESTÃO DO SISTEMA VIÁRIO MUNICIPAL
+
+Ação: 1330 - OBRAS ESTRUTURANTES DO SISTEMA VIÁRIO
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |750.000,00 |750.000,00 |750.000,00 |1.000.000,00 |
+
+77)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARDIM ZOOLÓGICO E JARDIM BOTÂNICO
+
+Ação: 2812 - GESTÃO OPERACIONAL DOS PARQUES MUNICIPAIS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |50.000,00 |60.000,00 |60.000,00 |
+
+Subação: INSTALAÇÃO DE HIDRANTES EM ÁREAS VERDES
+
+|2022 |2023 |2024 |2025 |
+
+|10 |10 |10 |10 |
+
+Produto: Hidrante instalado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2504 - FUNDO DE OPERAÇÃO DO PARQUE DAS MANGABEIRAS
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0015 - DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |50.000,00 |60.000,00 |60.000,00 |
+
+78)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0163 - PROMOÇÃO E PROTEÇÃO ÀS CRIANÇAS E ADOLESCENTES E SUAS FAMÍLIAS
+
+Ação: 2859 - APOIO A PROJETOS DE PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS CRIANÇAS, ADOLESCENTES E SUAS FAMÍLIAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |84.734,00 |0,00 |0,00 |0,00 |
+
+Subação: 0006 - ORIENTAÇÃO E APOIO SOCIOFAMILIAR
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Projeto apoiado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1013 - FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |84.734,00 |0,00 |0,00 |0,00 |
+
+79)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0163 - PROMOÇÃO E PROTEÇÃO ÀS CRIANÇAS E ADOLESCENTES E SUAS FAMÍLIAS
+
+Ação: 2859 - APOIO A PROJETOS DE PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS CRIANÇAS, ADOLESCENTES E SUAS FAMÍLIAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |84.734,00 |0,00 |0,00 |0,00 |
+
+Subação: 0006 - ORIENTAÇÃO E APOIO SOCIOFAMILIAR
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Projeto apoiado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1013 - FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |84.734,00 |0,00 |0,00 |0,00 |
+
+80)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+Subação: CONSTRUÇÃO E IMPLANTAÇÃO DE TELHADOS VERDES NAS UNIDADES DE ENSINO
+
+|2022 |2023 |2024 |2025 |
+
+|1.100 |0 |0 |0 |
+
+Produto: Telhados verdes implantados
+
+Unidade de medida: M²
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZEND
+
+A
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+81)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0020 - PROTEÇÃO SOCIAL ESPECIAL
+
+Ação: 2403 - SERVIÇO DE PROTEÇÃO SOCIAL ESPECIAL DE ALTA COMPLEXIDADE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |474.532,00 |0,00 |0,00 |0,00 |
+
+Subação: 0016 - SERVIÇO DE ACOLHIMENTO INSTITUCIONAL EM ABRIGO PARA IDOSOS - ILPI
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Vaga disponibilizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |474.532,00 |0,00 |0,00 |0,00 |
+
+82)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |33.000,00 |36.000,00 |39.000,00 |
+
+Subação: 0001 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |33.000,00 |36.000,00 |39.000,00 |
+
+83)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |33.000,00 |36.000,00 |39.000,00 |
+
+Subação: 0001 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |33.000,00 |36.000,00 |39.000,00 |
+
+84)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |33.000,00 |36.000,00 |39.000,00 |
+
+Subação: 0001 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |33.000,00 |36.000,00 |39.000,00 |
+
+85)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |33.000,00 |36.000,00 |39.000,00 |
+
+Subação: 0001 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |33.000,00 |36.000,00 |39.000,00 |
+
+86)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |33.000,00 |36.000,00 |39.000,00 |
+
+Subação: 0001 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |33.000,00 |36.000,00 |39.000,00 |
+
+87)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |33.000,00 |36.000,00 |39.000,00 |
+
+Subação: 0001 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |33.000,00 |36.000,00 |39.000,00 |
+
+88)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |33.000,00 |36.000,00 |39.000,00 |
+
+Subação: 0001 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |33.000,00 |36.000,00 |39.000,00 |
+
+89)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |33.000,00 |36.000,00 |39.000,00 |
+
+Subação: 0001 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |33.000,00 |36.000,00 |39.000,00 |
+
+90)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0167 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INCLUSIVA E DIVERSIDADE ÉTNICO-RACIAL
+
+Ação: 2386 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DE REPARAÇÃO E IGUALDADE RACIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |110.000,00 |120.000,00 |130.000,00 |
+
+Subação: 0004 - AQUISIÇÃO DE KITS DE LITERATURA AFRO-BRASILEIRA, INDÍGENA E AFRICANA
+
+|2022 |2023 |2024 |2025 |
+
+|200 |200 |200 |200 |
+
+Produto: Escola contemplada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2200 - SECRETARIA MUNICIPAL DE EDUCAÇÃO
+
+DEDUÇÃO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0168 - GESTÃO DA POLITICA DO ENSINO FUNDAMENTAL
+
+Ação: 2046 - GESTÃO DESCENTRALIZADA DA EDUCAÇÃO
+
+Unidade orçamentária: 2200 - SECRETARIA MUNICIPAL DE EDUCAÇÃO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |110.000,00 |120.000,00 |130.000,00 |
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+91)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2894 - REDE HOSPITALAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |150.000,00 |150.000,00 |150.000,00 |
+
+Subação: INVESTIMENTO NO HOSPITAL SOFIA FELDMAN LEITO NEONATAL
+
+|2022 |2023 |2024 |2025 |
+
+|100 |100 |100 |100 |
+
+Produto: Atendimentos
+
+Unidade de medida: Quantidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |150.000,00 |150.000,00 |150.000,00 |
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+92)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2894 - REDE HOSPITALAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Subação: CUSTEIO HOSPITAL DA BALEIA
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Material de consumo
+
+Unidade de medida: Quantidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+93)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2894 - REDE HOSPITALAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Subação: CUSTEIO PARA O HOSPITAL LUXEMBURGO
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Material de consumo
+
+Unidade de medida: Quantidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+94)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2891 - REDE ESPECIALIZADA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |150.000,00 |150.000,00 |150.000,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA REDE ESPECIALIZADA
+
+|2022 |2023 |2024 |2025 |
+
+|100 |100 |100 |100 |
+
+Produto: Procedimento realizado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |150.000,00 |150.000,00 |150.000,00 |
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+95)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2893 - REDE DE URGÊNCIA E EMERGÊNCIA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Subação: CUSTEIO PARA O CERSAM-AD/CENTRO-SUL/CMD REFERÊNCIA ÀS REGIONAIS CENTRO-SUL E LESTE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Material de consumo
+
+Unidade de medida: Quantidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+96)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |70.000,00 |70.000,00 |70.000,00 |70.000,00 |
+
+Subação: CAPACITAÇÃO DOS SERVIDORES SOBRE A SAÚDE DA MULHER LÉSBICA
+
+|2022 |2023 |2024 |2025 |
+
+|1.000 |1.000 |1.000 |1.000 |
+
+Produto: Treinamentos
+
+Unidade de medida: Servidores capacitados
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |70.000,00 |70.000,00 |70.000,00 |
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |70.000,00 |0,00 |0,00 |0,00 |
+
+97)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |47.000,00 |60.000,00 |60.000,00 |60.000,00 |
+
+Subação: CUSTEIO PARA O CENTRO DE CONVIVÊNCIA ARTUR BISPO DO ROSÁRIO - LESTE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Material de consumo
+
+Unidade de medida: Quantidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0085 - GESTÃO DA POLÍTICA DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0604 - EMPRESA DE INFORMÁTICA E INFORMAÇÃO DO MUNICÍPIO DE BELO HORIZONTE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |60.000,00 |60.000,00 |60.000,00 |
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |47.000,00 |0,00 |0,00 |0,00 |
+
+98)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Subação: CUSTEIO PARA O CENTRO DE SAÚDE POMPEIA - LESTE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Material de consumo
+
+Unidade de medida: Quantidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0085 - GESTÃO DA POLÍTICA DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0604 - EMPRESA DE INFORMÁTICA E INFORMAÇÃO DO MUNICÍPIO DE BELO HORIZONTE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+99)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2894 - REDE HOSPITALAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |200.000,00 |200.000,00 |200.000,00 |
+
+Subação: CUSTEIO AO FUNDEP/HOSPITAL RISOLETA NEVES - UFMG
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Material de consumo
+
+Unidade de medida: Quantidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |200.000,00 |200.000,00 |200.000,00 |
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+100)
+
+ACRÉSCIMO:
+
+Área de resultado: 04 - SEGURANÇA
+
+Programa: 0109 - OPERACIONALIZAÇÃO DOS SERVIÇOS DE SEGURANÇA
+
+Ação: 2802 - GESTÃO DA POLÍTICA DE SEGURANÇA E PREVENÇÃO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |44.000,00 |50.000,00 |55.000,00 |60.000,00 |
+
+Subação: CAPACITAÇÃO DOS GUARDAS MUNICIPAIS: JUVENTUDE NEGRA/RACISMO E SEGURANÇA MUNICIPAL
+
+|2022 |2023 |2024 |2025 |
+
+|2.200 |2.200 |2.200 |2.200 |
+
+Produto: Guardas capacitados
+
+Unidade de medida: Servidores capacitados
+
+Unidade orçamentária: 2100 - SECRETARIA MUNICIPAL DE SEGURANÇA E PREVENÇÃO
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |44.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1396 - INFRAESTRUTURA URBANA
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |50.000,00 |55.000,00 |60.000,00 |
+
+101)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
+
+Ação: 2542 - ADMINISTRAÇÃO DA EDUCAÇÃO INFANTIL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |25.000,00 |25.000,00 |25.000,00 |25.000,00 |
+
+Subação: MONITORAMENTO E ACOMPANHAMENTO PSICOSSOCIAL DOS PROFISSIONAIS DA ÁREA DA EDUCAÇÃO
+
+|2022 |2023 |2024 |2025 |
+
+|25 |25 |25 |25 |
+
+Produto: Professor atendido
+
+Unidade de medida: Profissional
+
+Unidade orçamentária: 2200 - SECRETARIA MUNICIPAL DE EDUCAÇÃO
+
+DEDUÇÃO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0060 - GESTÃO DA MOBILIDADE URBANA
+
+Ação: 2567 - GESTÃO DA POLÍTICA DE TRANSPORTE URBANO E TRÂNSITO
+
+Unidade orçamentária: 2709 - EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |25.000,00 |25.000,00 |25.000,00 |25.000,00 |
+
+102)
+
+ACRÉSCIMO:
+
+Área de resultado: 02 - EDUCAÇÃO
+
+Programa: 0168 - GESTÃO DA POLITICA DO ENSINO FUNDAMENTAL
+
+Ação: 2080 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |25.000,00 |25.000,00 |25.000,00 |25.000,00 |
+
+Subação: MONITORAMENTO E ACOMPANHAMENTO PSICOSSOCIAL DOS PROFISSIONAIS DA ÁREA DA EDUCAÇÃO
+
+|2022 |2023 |2024 |2025 |
+
+|25 |25 |25 |25 |
+
+Produto: Professor atendido
+
+Unidade de medida: Profissional
+
+Unidade orçamentária: 2200 - SECRETARIA MUNICIPAL DE EDUCAÇÃO
+
+DEDUÇÃO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0060 - GESTÃO DA MOBILIDADE URBANA
+
+Ação: 2567 - GESTÃO DA POLÍTICA DE TRANSPORTE URBANO E TRÂNSITO
+
+Unidade orçamentária: 2709 - EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |25.000,00 |25.000,00 |25.000,00 |25.000,00 |
+
+103)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0155 - MEMÓRIA E PATRIMÔNIO CULTURAL
+
+Ação: 2908 - PRESERVAÇÃO DO PATRIMÔNIO CULTURAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |400.000,00 |400.000,00 |400.000,00 |400.000,00 |
+
+Subação: 0004 - IDENTIFICAÇÃO E PROTEÇÃO DO PATRIMÔNIO CULTURAL
+
+|2022 |2023 |2024 |2025 |
+
+|4 |4 |4 |4 |
+
+Produto: Ação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |400.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |400.000,00 |400.000,00 |400.000,00 |
+
+104)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
+
+Ação: 2906 - REQUALIFICAÇÃO DAS UNIDADES E ESPAÇOS CULTURAIS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |200.000,00 |200.000,00 |200.000,00 |
+
+Subação: 0001 - GERENCIAMENTO DE INFRAESTRUTURA, QUALIFICAÇÃO E ACESSIBILIDADE DAS UNIDADES E ESPAÇOS CULTURAIS
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0166 - PREFEITURA MODERNA E EFICIENTE
+
+Ação: 1401 - IMPLANTAÇÃO DO SISTEMA INTEGRADO DE GESTÃO - GRP BH
+
+Unidade orçamentária: 0600 - SECRETARIA MUNICIPAL DE PLANEJAMENTO, ORÇAMENTO E GESTÃO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |200.000,00 |200.000,00 |200.000,00 |
+
+105)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0154 - PROMOÇÃO E ACESSO ÀS ARTES E À CULTURA
+
+Ação: 2371 - DEMOCRATIZAÇÃO DAS ARTES E DAS CULTURAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |500.000,00 |500.000,00 |500.000,00 |500.000,00 |
+
+Subação: 0001 - PERMISSÃO DE OCUPAÇÃO DOS ESPAÇOS PÚBLICOS DA FMC PARA FINS CULTURAIS
+
+|2022 |2023 |2024 |2025 |
+
+|590 |590 |590 |590 |
+
+Produto: Permissão concedida
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0093 - ARTICULAÇÃO DE POLÍTICAS
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |500.000,00 |500.000,00 |500.000,00 |500.000,00 |
+
+106) VETADO
+
+107) VETADO
+
+108)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0226 - PROVISÃO HABITACIONAL
+
+Ação: 1207 - PRODUÇÃO E AQUISIÇÃO HABITACIONAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |200.000,00 |200.000,00 |200.000,00 |
+
+Subação: 0003 - PRODUÇÃO HABITACIONAL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2704 - FUNDO MUNICIPAL DE HABITAÇÃO POPULAR
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |200.000,00 |200.000,00 |200.000,00 |
+
+109)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0225 - INTERVENÇÃO EM ASSENTAMENTOS DE INTERESSE SOCIAL
+
+Ação: 1397 - ASSISTÊNCIA E ASSESSORIA TÉCNICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Subação: 0002 - AAT COLETIVA - ASSENTAMENTOS DE INTERESSE SOCIAL
+
+|2022 |2023 |2024 |2025 |
+
+|50 |50 |50 |50 |
+
+Produto: Família atendida
+
+Unidade de medida: Família
+
+Unidade orçamentária: 2704 - FUNDO MUNICIPAL DE HABITAÇÃO POPULAR
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+110)
+
+ACRÉSCIMO:
+
+Área de resultado: 06 - DESENVOLVIMENTO ECONÔMICO E TURISMO
+
+Programa: 0141 - ARTICULAÇÃO DO PLANEJAMENTO DO DESENVOLVIMENTO SOCIOECONÔMICO
+
+Ação: 2852 - COORDENAÇÃO DA POLÍTICA DE DESENVOLVIMENTO ECONÔMICO E SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |150.000,00 |150.000,00 |150.000,00 |
+
+Subação: 0001 - COORDENAÇÃO DA POLÍTICA DE DESENVOLVIMENTO ECONÔMICO E SOCIAL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2800 - SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |150.000,00 |150.000,00 |150.000,00 |
+
+111)
+
+ACRÉSCIMO:
+
+Área de resultado: 06 - DESENVOLVIMENTO ECONÔMICO E TURISMO
+
+Programa: 0141 - ARTICULAÇÃO DO PLANEJAMENTO DO DESENVOLVIMENTO SOCIOECONÔMICO
+
+Ação: 2852 - COORDENAÇÃO DA POLÍTICA DE DESENVOLVIMENTO ECONÔMICO E SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |75.000,00 |75.000,00 |75.000,00 |75.000,00 |
+
+Subação: 0001 - COORDENAÇÃO DA POLÍTICA DE DESENVOLVIMENTO ECONÔMICO E SOCIAL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2800 - SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO
+
+DEDUÇÃO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1396 - INFRAESTRUTURA URBANA
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |75.000,00 |75.000,00 |75.000,00 |75.000,00 |
+
+112)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 2405 - BENEFÍCIOS, TRANSFERÊNCIA DE RENDA E CADASTRO ÚNICO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |250.000,00 |250.000,00 |250.000,00 |250.000,00 |
+
+Subação: IMPLANTAÇÃO DO PROGRAMA DE RENDA BÁSICA DE CIDADANIA MUNICIPAL - RECÉM
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Programa implantado
+
+Unidade de medida: Serviços administrativos
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARDIM ZOOLÓGICO E JARDIM BOTÂNICO
+
+Ação: 2812 - GESTÃO OPERACIONAL DOS PARQUES MUNICIPAIS
+
+Unidade orçamentária: 2505 - FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |250.000,00 |250.000,00 |250.000,00 |250.000,00 |
+
+113)
+
+ACRÉSCIMO:
+
+Área de resultado: 06 - DESENVOLVIMENTO ECONÔMICO E TURISMO
+
+Programa: 0237 - QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+Ação: 2404 - AÇÕES DE QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |150.000,00 |150.000,00 |150.000,00 |
+
+Subação: IMPLANTAÇÃO DO PROGRAMA MUTIRÃO CIDADE INCLUSIVA E ACOLHEDORA
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Programa implantado
+
+Unidade de medida: Serviços administrativos
+
+Unidade orçamentária: 2810 - FUNDO MUNICIPAL DO TRABALHO
+
+DEDUÇÃO:
+
+Área de resultado: 10 - ATENDIMENTO AO CIDADÃO E MELHORIA DA GESTÃO PÚBLICA
+
+Programa: 0105 - GESTÃO DA POLÍTICA FISCAL MUNICIPAL
+
+Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
+
+Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |150.000,00 |150.000,00 |150.000,00 |
+
+114) VETADO
+
+115)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2840 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS MULHERES
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |46.000,00 |50.000,00 |60.000,00 |60.000,00 |
+
+Subação: 0004 - ATENDIMENTO NO CENTRO ESPECIALIZADO DE ATENDIMENTO À MULHER - BENVINDA
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Atendimento realizado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |46.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |50.000,00 |60.000,00 |60.000,00 |
+
+116)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2819 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS JUVENTUDES
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |600.000,00 |600.000,00 |600.000,00 |600.000,00 |
+
+Subação: 0003 - PROMOÇÃO DAS JUVENTUDES EM ATIVIDADES NO CENTRO DE REFERÊNCIA DA JUVENTUDE – CRJ
+
+|2022 |2023 |2024 |2025 |
+
+|400 |400 |400 |400 |
+
+Produto: Jovem participante
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0244 - PAMPULHA VIVA
+
+Ação: 1244 - IMPLANTAÇÃO DO PROGRAMA PAMPULHA VIVA
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |600.000,00 |600.000,00 |600.000,00 |600.000,00 |
+
+117)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |322.305,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |322.305,00 |0,00 |0,00 |0,00 |
+
+118)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 2308 - SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |105.000,00 |0,00 |0,00 |0,00 |
+
+Subação: ATENDIMENTO E ACOLHIMENTO A PESSOAS COM CÂNCER E SEUS FAMILIARES
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Veículo adquirido
+
+Unidade de medida: Veículo
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |105.000,00 |0,00 |0,00 |0,00 |
+
+119)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2893 - REDE DE URGÊNCIA E EMERGÊNCIA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |322.305,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA REDE DE URGÊNCIA E EMERGÊNCIA
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Atendimento realizado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |322.305,00 |0,00 |0,00 |0,00 |
+
+120)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2893 - REDE DE URGÊNCIA E EMERGÊNCIA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |322.305,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA REDE DE URGÊNCIA E EMERGÊNCIA
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Atendimento realizado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |322.305,00 |0,00 |0,00 |0,00 |
+
+121)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |289.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |289.000,00 |0,00 |0,00 |0,00 |
+
+122)
+
+ACRÉSCIMO:
+
+Área de resultado: 06 - DESENVOLVIMENTO ECONÔMICO E TURISMO
+
+Programa: 0237 - QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+Ação: 2404 - AÇÕES DE QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CURSOS DE QUALIFICAÇÃO PARA O TRABALHO
+
+|2022 |2023 |2024 |2025 |
+
+|800 |0 |0 |0 |
+
+Produto: Vaga disponibilizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2800 - SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+123)
+
+ACRÉSCIMO:
+
+Área de resultado: 06 - DESENVOLVIMENTO ECONÔMICO E TURISMO
+
+Programa: 0086 - FOMENTO AO TURISMO DE LAZER, EVENTOS E NEGÓCIOS
+
+Ação: 2629 - DESENVOLVIMENTO E PROMOÇÃO DO TURISMO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+Subação: APOIO E SUBVENÇÃO AO DESENVOLVIMENTO DO TURISMO RELIGIOSO COM A REALIZAÇÃO DA MARCHA PARA JESUS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Evento/Ação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2805 - EMPRESA MUNICIPAL DE TURISMO DE BELO HORIZONTE S.A.
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+124)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 2647 - PROGRAMAS E PROJETOS DE PROTEÇÃO SOCIAL BÁSICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - PROGRAMA DE PROMOÇÃO AO ADOLESCENTE TRABALHADOR
+
+|2022 |2023 |2024 |2025 |
+
+|400 |0 |0 |0 |
+
+Produto: Adolescente atendido
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.000,00 |0,00 |0,00 |0,00 |
+
+125)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARDIM ZOOLÓGICO E JARDIM BOTÂNICO
+
+Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |400.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |400.000,00 |0,00 |0,00 |0,00 |
+
+126)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |760.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |760.000,00 |0,00 |0,00 |0,00 |
+
+127)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2891 - REDE ESPECIALIZADA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.000.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA REDE ESPECIALIZADA
+
+|2022 |2023 |2024 |2025 |
+
+|23.000 |0 |0 |0 |
+
+Produto: Procedimento realizado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.000.000,00 |0,00 |0,00 |0,00 |
+
+128)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0113 - APRIMORAMENTO DA GESTÃO DO SUAS
+
+Ação: 2334 - PARTICIPAÇÃO POPULAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |189.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0006 - FORTALECIMENTO DA PARTICIPAÇÃO POPULAR NOS CORAS, CLAS E SERVIÇOS
+
+|2022 |2023 |2024 |2025 |
+
+|2.103 |0 |0 |0 |
+
+Produto: Participantes
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |189.000,00 |0,00 |0,00 |0,00 |
+
+129)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 1213 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |345.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Próprio construído/ampliado/reformado ou mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |345.000,00 |0,00 |0,00 |0,00 |
+
+130)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2894 - REDE HOSPITALAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |322.305,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA REDE HOSPITALAR
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Internação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |322.305,00 |0,00 |0,00 |0,00 |
+
+131)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0113 - APRIMORAMENTO DA GESTÃO DO SUAS
+
+Ação: 2916 - GESTÃO DO TRABALHO E EDUCAÇÃO PERMANENTE DO SUAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0003 - CAPACITAÇÃO DE CONSELHEIROS E USUÁRIOS
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Pessoa capacitada
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+132)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0308 - BH CIDADE SUSTENTÁVEL: MOBILIZAR, EDUCAR E CULTIVAR ALIMENTAÇÃO SAUDÁVEL
+
+Ação: 2121 - FORTALECIMENTO DA PRODUÇÃO DA AGRICULTURA URBANA AGROECOLÓGICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - IMPLANTAÇÃO E MANUTENÇÃO DOS TERRITÓRIOS SUSTENTÁVEIS
+
+|2022 |2023 |2024 |2025 |
+
+|3 |0 |0 |0 |
+
+Produto: Território implantado e mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1010 - FUNDO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+133)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2928 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS PESSOAS LGBT
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - REALIZAÇÃO E APOIO ÀS ATIVIDADES E INICIATIVAS DE PROMOÇÃO DOS DIREITOS DAS PESSOAS LGBT
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Ação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+134)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2335 - GESTÃO DA POLITICA DE DIREITOS HUMANOS E DE CIDADANIA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0005 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+135)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |429.600,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA ATENÇÃO PRIMÁRIA À SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Consulta realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |429.600,00 |0,00 |0,00 |0,00 |
+
+136)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 2662 - GESTÃO DO SUS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |329.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0014 - MANUTENÇÃO DOS EQUIPAMENTOS, MOBILIÁRIOS E PREDIAIS
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |329.000,00 |0,00 |0,00 |0,00 |
+
+137)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2860 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS CRIANÇAS, ADOLESCENTES E SUAS FAMÍLIAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |200.000,00 |200.000,00 |200.000,00 |
+
+Subação: 0008 - REALIZAÇÃO E APOIO ÀS ATIVIDADES E INICIATIVAS DE PROMOÇÃO DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Ação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0244 - PAMPULHA VIVA
+
+Ação: 1244 - IMPLANTAÇÃO DO PROGRAMA PAMPULHA VIVA
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |200.000,00 |200.000,00 |200.000,00 |
+
+138)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 2662 - GESTÃO DO SUS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0013 - SERVIÇOS DE APOIO À REDE PRÓPRIA DO SUS-BH
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+139)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2894 - REDE HOSPITALAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA REDE HOSPITALAR
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Internação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+140)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0163 - PROMOÇÃO E PROTEÇÃO ÀS CRIANÇAS E ADOLESCENTES E SUAS FAMÍLIAS
+
+Ação: 2859 - APOIO A PROJETOS DE PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS CRIANÇAS, ADOLESCENTES E SUAS FAMÍLIAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - APOIO SOCIOEDUCATIVO EM MEIO ABERTO
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Projeto apoiado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1013 - FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+141)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 2534 - IMPLANTAÇÃO, MANUTENÇÃO E RECUPERAÇÃO DE INFRAESTRUTURA ESPORTIVA E DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0004 - ACADEMIAS A CÉU ABERTO
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Academia a Céu Aberto existente
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3000 - SECRETARIA MUNICIPAL DE ESPORTES E LAZER
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+142)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 2534 - IMPLANTAÇÃO, MANUTENÇÃO E RECUPERAÇÃO DE INFRAESTRUTURA ESPORTIVA E DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0004 - ACADEMIAS A CÉU ABERTO
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Academia a Céu Aberto existente
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3000 - SECRETARIA MUNICIPAL DE ESPORTES E LAZER
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+143)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0020 - PROTEÇÃO SOCIAL ESPECIAL
+
+Ação: 2878 - SERVIÇO DE PROTEÇÃO SOCIAL ESPECIAL DE MÉDIA COMPLEXIDADE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.500,00 |0,00 |0,00 |0,00 |
+
+Subação: 0006 - SERVIÇO ESPECIALIZADO EM ABORDAGEM SOCIAL/CREAS
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Pessoa atendida
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.500,00 |0,00 |0,00 |0,00 |
+
+144)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 2534 - IMPLANTAÇÃO, MANUTENÇÃO E RECUPERAÇÃO DE INFRAESTRUTURA ESPORTIVA E DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - IMPLANTAÇÃO E REFORMA DE INFRAESTRUTURA ESPORTIVA E DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Equipamento implantado/reformado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3000 - SECRETARIA MUNICIPAL DE ESPORTES E LAZER
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+145)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 2534 - IMPLANTAÇÃO, MANUTENÇÃO E RECUPERAÇÃO DE INFRAESTRUTURA ESPORTIVA E DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0004 - ACADEMIAS A CÉU ABERTO
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Academia a Céu Aberto existente
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3000 - SECRETARIA MUNICIPAL DE ESPORTES E LAZER
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+146)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2386 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DE REPARAÇÃO E IGUALDADE RACIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |300.000,00 |300.000,00 |300.000,00 |
+
+Subação: 0001 - REALIZAÇÃO E APOIO ÀS ATIVIDADES E INICIATIVAS DE REPARAÇÃO E PROMOÇÃO DA IGUALDADE RACIAL
+
+|2022 |2023 |2024 |2025 |
+
+|1 |1 |1 |1 |
+
+Produto: Ação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |0,00 |300.000,00 |300.000,00 |300.000,00 |
+
+147)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |429.600,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA ATENÇÃO PRIMÁRIA À SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Consulta realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |429.600,00 |0,00 |0,00 |0,00 |
+
+148)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0228 - COLETA, DESTINAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS
+
+Ação: 2537 - TRATAMENTO E DESTINAÇÃO DE RESÍDUOS SÓLIDOS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |0,00 |0,00 |0,00 |
+
+Subação: PROJETO RECICLAGEM EM VILAS E FAVELAS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Ponto implementado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2708 - SUPERINTENDÊNCIA DE LIMPEZA URBANA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |0,00 |0,00 |0,00 |
+
+149)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - MANUTENÇÃO PREVENTIVA E CORRETIVA DE PAVIMENTO
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Índice de atendimento
+
+Unidade de medida: Percentual
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |80.000,00 |0,00 |0,00 |0,00 |
+
+150)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0154 - PROMOÇÃO E ACESSO ÀS ARTES E À CULTURA
+
+Ação: 2930 - PROMOÇÃO E DEMOCRATIZAÇÃO DO ACESSO À CULTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - POLÍTICA MUNICIPAL CULTURA VIVA
+
+|2022 |2023 |2024 |2025 |
+
+|5 |0 |0 |0 |
+
+Produto: Ponto de cultura incentivado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3100 - SECRETARIA MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+151)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2894 - REDE HOSPITALAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |510.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0003 - HOSPITAL METROPOLITANO ODILON BEHRENS
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |510.000,00 |0,00 |0,00 |0,00 |
+
+152)
+
+ACRÉSCIMO:
+
+Área de resultado: 06 - DESENVOLVIMENTO ECONÔMICO E TURISMO
+
+Programa: 0237 - QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+Ação: 2404 - AÇÕES DE QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0003 - ECONOMIA SOLIDÁRIA - APOIO AOS GRUPOS PRODUTIVOS E TRABALHADORES AUTÔNOMOS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Grupo produtivo apoiado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2800 - SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |0,00 |0,00 |0,00 |
+
+153)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |429.600,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA ATENÇÃO PRIMÁRIA À SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Consulta realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |429.600,00 |0,00 |0,00 |0,00 |
+
+154)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0308 - BH CIDADE SUSTENTÁVEL: MOBILIZAR, EDUCAR E CULTIVAR ALIMENTAÇÃO SAUDÁVEL
+
+Ação: 2923 - VALORIZAÇÃO DA GASTRONOMIA ARTICULADA À AGROECOLOGIA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |160.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CURSOS DE QUALIFICAÇÃO NA ÁREA DE GASTRONOMIA E FORMAÇÃO EM AGROECOLOGIA E SEGURANÇA ALIMENTAR.
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Certificado emitido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1010 - FUNDO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |160.000,00 |0,00 |0,00 |0,00 |
+
+155)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0020 - PROTEÇÃO SOCIAL ESPECIAL
+
+Ação: 2878 - SERVIÇO DE PROTEÇÃO SOCIAL ESPECIAL DE MÉDIA COMPLEXIDADE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |10.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0011 - SERVIÇO ESPECIALIZADO PARA PESSOAS EM SITUAÇÃO DE RUA - CENTRO POP.
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Pessoa atendida
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |10.000,00 |0,00 |0,00 |0,00 |
+
+156)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0020 - PROTEÇÃO SOCIAL ESPECIAL
+
+Ação: 2878 - SERVIÇO DE PROTEÇÃO SOCIAL ESPECIAL DE MÉDIA COMPLEXIDADE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0011 - SERVIÇO ESPECIALIZADO PARA PESSOAS EM SITUAÇÃO DE RUA - CENTRO POP.
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Pessoa atendida
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |50.000,00 |0,00 |0,00 |0,00 |
+
+157)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |350.000,00 |0,00 |0,00 |0,00 |
+
+Subação: AMPLIAÇÃO DA UNIDADE BÁSICA DE SAÚDE VILA MARIA
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade de medida
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |350.000,00 |0,00 |0,00 |0,00 |
+
+158)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+Subação: OBRA DE REVITALIZAÇÃO DA UNIDADE BÁSICA DE SAÚDE BAIRRO CONJUNTO PAULO IV
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+159)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+Subação: OBRAS DE REVITALIZAÇÃO DA UNIDADE BÁSICA DE SAÚDE BAIRRO JAQUELINE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+160)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |70.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - MANUTENÇÃO PREVENTIVA E CORRETIVA DE PAVIMENTO
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Índice de atendimento
+
+Unidade de medida: Percentual
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |70.000,00 |0,00 |0,00 |0,00 |
+
+161)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0028 - VIGILÂNCIA EM SAÚDE
+
+Ação: 2829 - VIGILÂNCIA EM SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |959.220,00 |0,00 |0,00 |0,00 |
+
+Subação: ESTERILIZAÇÃO DE CÃES E GATOS PARA CONTROLE DE ZOONOSES (CASTRAÇÃO)
+
+|2022 |2023 |2024 |2025 |
+
+|1.000 |0 |0 |0 |
+
+Produto: Esterilização de animais (castração)
+
+Unidade de medida: Animais esterilizados
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |959.220,00 |0,00 |0,00 |0,00 |
+
+162)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2928 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS PESSOAS LGBT
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0004 - GESTÃO DA POLÍTICA DE PROMOÇÃO DOS DIREITOS DA PESSOA LGBT
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+163)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0170 - FOMENTO E ECONOMIA DA CULTURA
+
+Ação: 2369 - FOMENTO À CULTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |260.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - FOMENTO A PROJETOS E AÇÕES CULTURAIS
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Projeto incentivado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3101 - FUNDO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0062 - GESTÃO DO SISTEMA VIÁRIO MUNICIPAL
+
+Ação: 1230 - IMPLANTAÇÃO E RECONSTRUÇÃO DE VIAS PÚBLICAS
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |260.000,00 |0,00 |0,00 |0,00 |
+
+164)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0308 - BH CIDADE SUSTENTÁVEL: MOBILIZAR, EDUCAR E CULTIVAR ALIMENTAÇÃO SAUDÁVEL
+
+Ação: 2121 - FORTALECIMENTO DA PRODUÇÃO DA AGRICULTURA URBANA AGROECOLÓGICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0004 - IMPLANTAÇÃO E MANUTENÇÃO DE SISTEMAS AGROECOLÓGICOS EM UNIDADES PRODUTIVAS COLETIVAS/COMUNITÁRIAS
+
+|2022 |2023 |2024 |2025 |
+
+|5 |0 |0 |0 |
+
+Produto: Unidade produtiva atendida
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 1010 - FUNDO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+165)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 2308 - SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |45.000,00 |0,00 |0,00 |0,00 |
+
+Subação: FORTALECIMENTO DE VÍNCULOS FAMILIARES
+
+|2022 |2023 |2024 |2025 |
+
+|30 |0 |0 |0 |
+
+Produto: Equipamentos adquiridos
+
+Unidade de medida: Equipamento
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |45.000,00 |0,00 |0,00 |0,00 |
+
+166)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+167)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: REFORMA DA UNIDADE BÁSICA DE SAÚDE DO BAIRRO CAFEZAL
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+168)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0307 - SUSTENTABILIDADE, EDUCAÇÃO AMBIENTAL E MODERNIZAÇÃO DA GESTÃO AMBIENTAL
+
+Ação: 2913 - CAPACITAÇÃO E CONSCIENTIZAÇÃO AMBIENTAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |500.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0004 - CENTRO DE EDUCAÇÃO AMBIENTAL DE INCLUSÃO PRODUTIVA VOLTADA PARA EMPREGOS VERDES
+
+|2022 |2023 |2024 |2025 |
+
+|25 |0 |0 |0 |
+
+Produto: Pessoa capacitada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2500 - SECRETARIA MUNICIPAL DE MEIO AMBIENTE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |500.000,00 |0,00 |0,00 |0,00 |
+
+169)
+
+ACRÉSCIMO:
+
+Área de resultado: 07 - MOBILIDADE URBANA
+
+Programa: 0062 - GESTÃO DO SISTEMA VIÁRIO MUNICIPAL
+
+Ação: 1230 - IMPLANTAÇÃO E RECONSTRUÇÃO DE VIAS PÚBLICAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.050.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - SERVIÇO DE IMPLANTAÇÃO, PAVIMENTAÇÃO, REQUALIFICAÇÃO E MANUTENÇÃO DE VIAS PÚBLICAS
+
+|2022 |2023 |2024 |2025 |
+
+|3 |0 |0 |0 |
+
+Produto: Quilômetro implantado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.050.000,00 |0,00 |0,00 |0,00 |
+
+170)
+
+ACRÉSCIMO:
+
+Área de resultado: 08 - SUSTENTABILIDADE AMBIENTAL
+
+Programa: 0306 - BEM-ESTAR ANIMAL
+
+Ação: 2877 - GESTÃO INTERSETORIAL DA POLÍTICA MUNICIPAL DE PROTEÇÃO ANIMAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+Subação: 0009 - REALIZAÇÃO DE AÇÕES PARA ATENDIMENTO MÉDICO-VETERINÁRIO À COMUNIDADE DE BAIXA RENDA
+
+|2022 |2023 |2024 |2025 |
+
+|500 |500 |500 |500 |
+
+Produto: Animal atendido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2500 - SECRETARIA MUNICIPAL DE MEIO AMBIENTE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |100.000,00 |100.000,00 |100.000,00 |
+
+171)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 2308 - SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |75.000,00 |0,00 |0,00 |0,00 |
+
+Subação: GARANTIA DA DEFESA DE DIREITOS SOCIAIS
+
+|2022 |2023 |2024 |2025 |
+
+|30 |0 |0 |0 |
+
+Produto: Equipamentos adquiridos
+
+Unidade de medida: Equipamento
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |75.000,00 |0,00 |0,00 |0,00 |
+
+172)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2335 - GESTÃO DA POLITICA DE DIREITOS HUMANOS E DE CIDADANIA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0005 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 1019 - FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA DAS MINORIAS
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+173)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2335 - GESTÃO DA POLITICA DE DIREITOS HUMANOS E DE CIDADANIA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |89.220,00 |0,00 |0,00 |0,00 |
+
+Subação: 0005 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 1019 - FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA DAS MINORIAS
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |89.220,00 |0,00 |0,00 |0,00 |
+
+174)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |315.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - MANUTENÇÃO PREVENTIVA E CORRETIVA DE PAVIMENTO
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Índice de atendimento
+
+Unidade de medida: Percentual
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |315.000,00 |0,00 |0,00 |0,00 |
+
+175)
+
+ACRÉSCIMO:
+
+Área de resultado: 06 - DESENVOLVIMENTO ECONÔMICO E TURISMO
+
+Programa: 0237 - QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+Ação: 2404 - AÇÕES DE QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CURSOS DE QUALIFICAÇÃO PARA O TRABALHO
+
+|2022 |2023 |2024 |2025 |
+
+|360 |0 |0 |0 |
+
+Produto: Vaga disponibilizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2800 - SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+176)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2894 - REDE HOSPITALAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA REDE HOSPITALAR
+
+|2022 |2023 |2024 |2025 |
+
+|84 |0 |0 |0 |
+
+Produto: Internação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+177)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2894 - REDE HOSPITALAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA REDE HOSPITALAR
+
+|2022 |2023 |2024 |2025 |
+
+|80 |0 |0 |0 |
+
+Produto: Internação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+178)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+Ação: 2928 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS PESSOAS LGBT
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0004 - GESTÃO DA POLÍTICA DE PROMOÇÃO DOS DIREITOS DA PESSOA LGBT
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 1000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, SEGURANÇA ALIMENTAR E CIDADANIA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+179)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |350.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - MANUTENÇÃO PREVENTIVA E CORRETIVA DE PAVIMENTO
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Índice de atendimento
+
+Unidade de medida: Percentual
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |350.000,00 |0,00 |0,00 |0,00 |
+
+180)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2891 - REDE ESPECIALIZADA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.289.220,00 |0,00 |0,00 |0,00 |
+
+Subação: ATENDIMENTO OFTALMOLÓGICO PARA ESTUDANTES DA REDE PÚBLICA DE ENSINO FUNDAMENTAL
+
+|2022 |2023 |2024 |2025 |
+
+|21.487 |0 |0 |0 |
+
+Produto: Pacote básico de oftalmologia
+
+Unidade de medida: Estudante atendido
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.289.220,00 |0,00 |0,00 |0,00 |
+
+181)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0154 - PROMOÇÃO E ACESSO ÀS ARTES E À CULTURA
+
+Ação: 2930 - PROMOÇÃO E DEMOCRATIZAÇÃO DO ACESSO À CULTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - POLÍTICA MUNICIPAL CULTURA VIVA
+
+|2022 |2023 |2024 |2025 |
+
+|5 |0 |0 |0 |
+
+Produto: Ponto de cultura incentivado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3100 - SECRETARIA MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+182)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+183)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|200.000 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+184)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|200.000 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 2662 - GESTÃO DO SUS
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+185)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+|2022 |2023 |2024 |2025 |
+
+|150.000 |0 |0 |0 |
+
+Produto: Obra executada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0117 - GESTÃO DO SUS
+
+Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |150.000,00 |0,00 |0,00 |0,00 |
+
+186)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 2647 - PROGRAMAS E PROJETOS DE PROTEÇÃO SOCIAL BÁSICA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - PROGRAMA DE PROMOÇÃO AO ADOLESCENTE TRABALHADOR
+
+|2022 |2023 |2024 |2025 |
+
+|360 |0 |0 |0 |
+
+Produto: Adolescente atendido
+
+Unidade de medida: Pessoa
+
+Unidade orçamentária: 1011 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |644.610,00 |0,00 |0,00 |0,00 |
+
+187)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 1213 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Próprio construído/ampliado/reformado ou mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+188)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0101 - PROMOÇÃO E DEMOCRATIZAÇÃO DAS PRÁTICAS DE ESPORTES E LAZER
+
+Ação: 1213 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE EQUIPAMENTOS ESPORTIVOS E ÁREAS DE LAZER
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Próprio construído/ampliado/reformado ou mantido
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+189)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
+
+Ação: 1215 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE CULTURA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |139.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE CULTURA
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Empreendimento em andamento
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |139.000,00 |0,00 |0,00 |0,00 |
+
+190)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - MANUTENÇÃO PREVENTIVA E CORRETIVA DE PAVIMENTO
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Índice de atendimento
+
+Unidade de medida: Percentual
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |100.000,00 |0,00 |0,00 |0,00 |
+
+191)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2891 - REDE ESPECIALIZADA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.064.319,00 |0,00 |0,00 |0,00 |
+
+Subação: 0006 - ATENDIMENTO DA POPULAÇÃO NA REDE DE SAÚDE MENTAL
+
+|2022 |2023 |2024 |2025 |
+
+|30 |0 |0 |0 |
+
+Produto: Atendimento realizado
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |1.064.319,00 |0,00 |0,00 |0,00 |
+
+192)
+
+ACRÉSCIMO:
+
+Área de resultado: 03 - PROTEÇÃO SOCIAL, SEGURANÇA ALIMENTAR E ESPORTES
+
+Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
+
+Ação: 1220 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ASSISTÊNCIA SOCIAL
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ASSISTÊNCIA SOCIAL
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |30.000,00 |0,00 |0,00 |0,00 |
+
+193)
+
+ACRÉSCIMO:
+
+Área de resultado: 09 - HABITAÇÃO, URBANIZAÇÃO, REGULAÇÃO E AMBIENTE URBANO
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE
+
+Ação: 1208 - CONSERVAÇÃO DE VIAS URBANAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |55.020,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - MANUTENÇÃO PREVENTIVA E CORRETIVA DE PAVIMENTO
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Índice de atendimento
+
+Unidade de medida: Percentual
+
+Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |55.020,00 |0,00 |0,00 |0,00 |
+
+194)
+
+ACRÉSCIMO:
+
+Área de resultado: 04 - SEGURANÇA
+
+Programa: 0109 - OPERACIONALIZAÇÃO DOS SERVIÇOS DE SEGURANÇA
+
+Ação: 2802 - GESTÃO DA POLÍTICA DE SEGURANÇA E PREVENÇÃO
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0001 - IMPLANTAÇÃO DA POLÍTICA DE SEGURANÇA E PREVENÇÃO
+
+|2022 |2023 |2024 |2025 |
+
+|1 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2100 - SECRETARIA MUNICIPAL DE SEGURANÇA E PREVENÇÃO
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |200.000,00 |0,00 |0,00 |0,00 |
+
+195)
+
+ACRÉSCIMO:
+
+Área de resultado: 05 - CULTURA
+
+Programa: 0154 - PROMOÇÃO E ACESSO ÀS ARTES E À CULTURA
+
+Ação: 2371 - DEMOCRATIZAÇÃO DAS ARTES E DAS CULTURAS
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |400.000,00 |0,00 |0,00 |0,00 |
+
+Subação: 0002 - ESTÍMULO E DIFUSÃO DAS ARTES E DA CULTURA
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Ação realizada
+
+Unidade de medida: Unidade
+
+Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |400.000,00 |0,00 |0,00 |0,00 |
+
+196)
+
+ACRÉSCIMO:
+
+Área de resultado: 01 - SAÚDE
+
+Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
+
+Ação: 2894 - REDE HOSPITALAR
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+Subação: ASSOCIAÇÃO EVANGÉLICA BENEFICENTE DE MINAS GERAIS
+
+|2022 |2023 |2024 |2025 |
+
+|0 |0 |0 |0 |
+
+Produto: Serviços administrativos
+
+Unidade de medida: Metas administrativas
+
+Unidade orçamentária: 2302 - FUNDO MUNICIPAL DE SAÚDE
+
+DEDUÇÃO:
+
+Área de resultado: 11 - EIXO ADMINISTRATIVO
+
+Programa: 0999 - RESERVA DE CONTINGÊNCIA
+
+Ação: 9999 - RESERVA DE CONTINGÊNCIA
+
+Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
+
+| |2022 |2023 |2024 |2025 |
+
+|R$ |300.000,00 |0,00 |0,00 |0,00 |
+
+CAPÍTULO II
+
+DA GESTÃO DO PPAG
+
+Seção I
+
+Disposições Gerais
+
+**Art. 6º** - A gestão do PPAG observará os princípios da eficiência, eficácia e efetividade e compreenderá a implementação, o monitoramento, a avaliação e a revisão dos programas e ações.
+
+**Art. 7º** - Compete ao Poder Executivo estabelecer normas complementares para a gestão do PPAG.
+
+Seção II
+
+Do Monitoramento e da Avaliação do PPAG
+
+**Art. 8º** - O PPAG será monitorado e avaliado sob a coordenação da Secretaria Municipal de Planejamento, Orçamento e Gestão - SMPOG, à qual compete definir diretrizes e orientações técnicas para a operacionalização do monitoramento e da avaliação desse plano.
+
+**Art. 9º** - As unidades responsáveis pelos programas e ações constantes no Anexo desta lei manterão atualizadas, ao longo dos exercícios financeiros do período de 2022-2025, as informações referentes à execução física e financeira desses programas e ações e à apuração dos indicadores definidos no PPAG.
+
+**Parágrafo único** - Os projetos estratégicos e transformadores, constantes no PPAG, serão gerenciados intensivamente, pelos respectivos gerentes, por meio do detalhamento das etapas de sua execução e da elaboração de relatórios periódicos de monitoramento, sob a coordenação da SMPOG.
+
+**Art. 10** - Serão publicados no Portal da Transparência da Prefeitura de Belo Horizonte - PBH - relatórios quadrimestrais de monitoramento do PPAG, com dados da execução das metas físicas e da execução orçamentária das ações e dos programas.
+
+**Art. 11** - Conforme disposto no inciso XI do art. 108 da LOMBH, o Poder Executivo enviará à Câmara Municipal, dentro de 60 (sessenta) dias da abertura da sessão legislativa ordinária, o relatório de avaliação dos programas e ações do exercício anterior, constantes no PPAG, abrangendo os principais resultados alcançados, a apuração dos indicadores e a execução das ações, para prestação de contas.
+
+Seção III
+
+Das Revisões e Alterações do PPAG
+
+**Art. 12** - O Poder Executivo enviará à Câmara Municipal, concomitantemente às propostas de leis orçamentárias anuais, o projeto de lei de revisão do PPAG, que conterá:
+
+I - demonstrativos atualizados do Anexo do PPAG, contendo as inclusões, exclusões e alterações, qualitativas ou quantitativas, efetuadas em programas, indicadores, ações e demais atributos;
+
+II - demonstrativos de programas e ações incluídos e excluídos, com a exposição sucinta das razões que motivaram a alteração.
+
+**Parágrafo único** - A exclusão, inclusão ou alteração de programas e ações constantes nesta lei serão propostas pelo Poder Executivo, por meio de projeto de lei de revisão anual do PPAG, de projetos de lei específica ou de créditos especiais.
+
+CAPÍTULO III
+
+DISPOSIÇÕES FINAIS
+
+**Art. 13** - O Poder Executivo divulgará pela internet:
+
+I - o texto atualizado da lei que dispõe sobre o PPAG, compreendidos os relatórios do seu Anexo;
+
+II - os relatórios quadrimestrais de monitoramento, que conterão a execução física e financeira das ações do PPAG;
+
+III - o Relatório Anual de Avaliação do PPAG;
+
+IV - as leis de revisão do PPAG, com as respectivas alterações na programação, e o demonstrativo de inclusão e exclusão de programas e ações, com suas justificativas de alteração.
+
+**Art. 14** - Esta lei entra em vigor na data de sua publicação.
+
+Belo Horizonte, 30 de dezembro de 2021.
+
+Alexandre Kalil
+
+Prefeito de Belo Horizonte
+
+(Originária do Projeto de Lei nº 211/21, de autoria do Executivo)
+
+(O Anexo referente a esta Lei encontra-se à disposição dos interessados na Secretaria Municipal de Planejamento, Orçamento e Gestão)
+
+## Anexos e outros documentos
+
+- [lei11337-anexo.pdf](https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f767e8b7912017ea1eee01a0070)

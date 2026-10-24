@@ -1,0 +1,207 @@
+---
+titulo: "Decreto nº 18903/2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18903"
+data: ""
+data_publicacao: ""
+ementa: "Abre créditos suplementares no valor de R$27.413.227,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f7693724f640193ba962b6700f0"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/18903/2024"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7693724f640193ba96471600f5"
+id_documento: "2c907f7693724f640193ba96471600f5"
+sha256_fonte: "986b43cab7cf5ca23eea718643f6f8aec953902c93e7a58bf3d1435cbf61f911"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 18903/2024
+
+DECRETO Nº 18.903, DE 11 DE DEZEMBRO DE 2024
+
+Abre créditos suplementares no valor de R$27.413.227,00.
+
+O prefeito de Belo Horizonte, no exercício da atribuição que lhe confere o inciso VII do art. 108 da Lei Orgânica e considerando o disposto no artigo 6° da Lei n° 11.644, de 29 de dezembro de 2023, decreta:
+
+**Art. 1º** – Ficam abertos créditos suplementares no valor de R$27.413.227,00 (vinte e sete milhões, quatrocentos e treze mil e duzentos e vinte e sete reais) ao Orçamento Fiscal do Município de Belo Horizonte, conforme autorizações e dotações indicadas no item I.1 do Anexo I.
+
+**Art. 2º** – Para atender ao disposto no art. 1º, serão utilizados recursos provenientes da anulação das dotações orçamentárias indicadas no item I.2 do Anexo I, totalizando R$27.413.227,00 (vinte e sete milhões, quatrocentos e treze mil e duzentos e vinte e sete reais).
+
+**Art. 3º** – A justificativa para a abertura dos créditos suplementares de que trata o art. 1º, encontra-se disposta no Anexo II.
+
+**Art. 4º** – A demonstração dos saldos de créditos passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado, nos termos do art. 2º da Lei nº 11.401, de 8 de setembro de 2022, encontram-se dispostos no Anexo III.
+
+**Art. 5º** – Este decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 11 de dezembro de 2024.
+
+Fuad Noman
+
+Prefeito de Belo Horizonte
+
+Leonardo Maurício Colombini Lima
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+João Antônio Fleury Teixeira
+
+Secretário Municipal de Fazenda
+
+ANEXO I
+
+(a que se referem os arts. 1º e 2º do Decreto nº 18.903, de 11 de dezembro de 2024)
+
+MOVIMENTAÇÕES ORÇAMENTÁRIAS
+
+I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
+
+|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
+
+|Lei nº 11.644, de 29 de dezembro de 2023: | |
+
+|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
+
+|4001.28.843.0091.3501.469071.1.754.790 |210.000,00 |
+
+|4001.28.844.0091.3089.329021.1.500.000 |5.000.000,00 |
+
+|4001.28.843.0091.3501.329022.1.500.000 |3.500.000,00 |
+
+|Secretaria Municipal de Educação – SMED |
+
+|2200.12.365.0169.2542.445042.1.550.000 |1.247.235,00 |
+
+|2200.12.365.0169.2542.456782.2.550.000 |20.871,00 |
+
+|2200.12.361.0168.2080.339032.2.550.000 |2.488.931,00 |
+
+|2200.12.365.0169.2542.339032.1.550.000 |7.346.035,00 |
+
+|2200.12.361.0168.2080.339032.1.550.000 |7.533.155,00 |
+
+|Fundo de Mobilidade Urbana – FMU |
+
+|3303.26.452.0060.2837.339039.1.500.000 |67.000,00 |
+
+|TOTAL DA SUPLEMENTAÇÃO |27.413.227,00 |
+
+I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
+
+|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
+
+|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
+
+|Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |
+
+|3304.26.452.0060.2567.339039.1.500.000 |67.000,00 |
+
+|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
+
+|4001.28.844.0091.3089.469071.1.500.000 |8.500.000,00 |
+
+|Secretaria Municipal de Educação - SMED |
+
+|2200.12.365.0169.2046.339039.1.550.000 |5.000,00 |
+
+|2200.12.361.0168.2046.339039.1.550.000 |5.000,00 |
+
+|2200.12.365.0169.2046.445042.1.550.000 |5.000,00 |
+
+|2200.12.361.0168.2046.445042.1.550.000 |5.000,00 |
+
+|2200.12.365.0169.2046.445052.1.550.000 |5.000,00 |
+
+|2200.12.361.0168.2046.445052.1.550.000 |5.000,00 |
+
+|2200.12.361.0168.2080.336783.1.550.000 |1.000.000,00 |
+
+|2200.12.361.0168.2080.339030.1.550.000 |1.000,00 |
+
+|2200.12.361.0168.2080.449052.1.550.000 |1.000,00 |
+
+|2200.12.361.0168.2080.456782.1.550.000 |5.000,00 |
+
+|2200.12.365.0169.2542.336783.1.550.000 |1.000.000,00 |
+
+|2200.12.365.0169.2542.445052.1.550.000 |5.000,00 |
+
+|2200.12.365.0169.2542.449052.1.550.000 |14.079.425,00 |
+
+|2200.12.365.0169.2542.456782.1.550.000 |5.000,00 |
+
+|2200.12.361.0168.2080.339030.2.550.000 |20.871,00 |
+
+|2200.12.122.0140.2317.339035.2.550.000 |41.237,00 |
+
+|2200.12.361.0167.2386.339030.2.550.000 |391.663,00 |
+
+|2200.12.365.0167.2386.339030.2.550.000 |296.466,00 |
+
+|2200.12.122.0140.2317.339040.2.550.000 |1.759.565,00 |
+
+|Fundo Municipal de Habitação Popular – FMHP |
+
+|2704.16.482.0226.1207.442042.1.754.790 |210.000,00 |
+
+|TOTAL DA ANULAÇÃO |27.413.227,00 |
+
+ANEXO II
+
+(a que se refere o art. 3º do Decreto nº 18.903, de 11 de dezembro de 2024)
+
+EXPOSIÇÃO DE JUSTIFICATIVAS
+
+II.1 – Exposição dos motivos que justificam a abertura dos créditos suplementares, conforme inciso I do art. 2º da Lei nº 11.401, de 8 de setembro de 2022:
+
+II.1.1 – Conforme disposto no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023, no valor total de R$27.413.227,00 (vinte e sete milhões, quatrocentos e treze mil e duzentos e vinte e sete reais) a fim de atender aos seguintes objetivos:
+
+Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA – R$8.710.000,00.
+
+- Pagamento de juros e outros encargos da Dívida Fundada Interna e Externa de dezembro/2024.
+
+- Pagamento de amortização extraordinária devido ao encerramento de contratos.
+
+Fundo de Mobilidade Urbana – FMU – R$67.000,00.
+
+Para manutenção de geradores e aparelhos de ar condicionado das estações.
+
+Secretaria Municipal de Educação – SMED – R$18.636.227,00.
+
+- Pagamento de despesas com aporte à Parceria Público Privada relativa à construção de EMEIs.
+
+- Viabilizar a elaboração e a execução de projetos de combate a incêndio e a pânico nas creches, bem como o pagamento de despesas com obras de adequação dos espaços para qualificar e ampliar o atendimento as crianças.
+
+- Custear a aquisição de uniformes escolares.
+
+ANEXO III
+
+(a que se refere o art. 4º do Decreto nº 18.903, de 11 de dezembro de 2024)
+
+SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
+
+III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
+
+|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
+
+|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
+
+|para abertura de créditos suplementares. |total do Orçamento: |
+
+|Base de cálculo anual |R$ 19.833.327.724,00 |
+
+|Limite total anual autorizado |R$ 1.983.332.772,40 |
+
+|Total de créditos suplementares abertos anteriormente |R$ 1.186.216.999,96 |
+
+|Valor do Decreto publicado nesta data |R$ 27.413.227,00 |
+
+|Valor total dos créditos suplementares abertos no exercício |R$ 1.213.630.226,96 |
+
+|Saldo atual de créditos suplementares |R$ 769.702.545,44 |
+
+|Percentual utilizado |61,19% |
+
+|Atualizado em 11/12/2024 às 09:20:41 |

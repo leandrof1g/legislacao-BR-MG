@@ -1,0 +1,167 @@
+---
+titulo: "Decreto nº 15097/2012"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "15097"
+data: ""
+data_publicacao: ""
+ementa: "Abre ao Orçamento da Seguridade Social da Prefeitura, em favor do Fundo Financeiro, Crédito Especial no valor de R$61.625.860,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f763ba9af8c013bd6f08132009a"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/15097/2012"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f763ba9af8c013bd6f11771009f"
+id_documento: "2c907f763ba9af8c013bd6f11771009f"
+sha256_fonte: "300731689a919de8b2c15adcfc1178fee8ddb05a59a26ebbabe3a8950efd519e"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 15097/2012
+
+DECRETO Nº 15.097, DE 21 DE DEZEMBRO DE 2012
+
+Abre ao Orçamento da Seguridade Social da Prefeitura, em favor do Fundo Financeiro, Crédito Especial no valor de R$61.625.860,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica e o Inciso III do artigo 158 da Lei nº 10.362, de 29 de dezembro de 2011, e nos termos dos artigos 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17 de março de 1964, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor do Fundo Financeiro - FUFIN, o Crédito Especial no valor de R$61.625.860,00 (sessenta e um milhões, seiscentos e vinte e cinco mil, oitocentos e sessenta reais), com as seguintes classificações orçamentárias:
+
+0613.09.271.026.3.004.319001.0970 21.061.000,00
+
+0613.09.271.026.3.004.319003.0970 8.500.000,00
+
+0613.09.271.026.3.004.319005.0970 951.000,00
+
+0613.09.271.026.3.004.319092.0970 165.000,00
+
+0613.09.271.026.3.005.319001.0970 29.750.000,00
+
+0613.09.271.026.3.006.319005.0970 119.860,00
+
+0613.09.271.026.3.007.319001.0970 1.079.000,00
+
+**Art. 2º** - Para atender ao disposto no artigo anterior ficam anuladas, parcialmente, as seguintes dotações do Orçamento da Seguridade Social da Prefeitura, no valor de R$61.625.860,00 (sessenta e um milhões, seiscentos e vinte e cinco mil, oitocentos e sessenta reais):
+
+2700.15.451.062.1.230.449051.0400 2.862.638,00
+
+2700.15.451.210.1.303.449051.0480 4.608.148,00
+
+2700.17.482.225.1.231.449051.0480 1.366.254,00
+
+2700.17.512.229.1.203.449051.0480 10.000.000,00
+
+2700.27.812.238.1.213.449051.0430 5.000.000,00
+
+2702.16.482.225.1.231.449051.0480 788.279,00
+
+2704.16.482.209.1.330.449051.0430 3.958.911,00
+
+2704.16.482.225.1.231.449051.0430 3.351.210,00
+
+2704.16.482.225.1.305.449051.0480 2.105.000,00
+
+0608.08.331.025.1.219.449051.0406 10.236,00
+
+0608.08.331.025.2.900.319008.0100 102,00
+
+0608.08.331.025.2.900.319009.0100 102,00
+
+0608.08.331.025.2.900.319094.0100 102,00
+
+0608.08.331.025.2.900.319096.0100 102,00
+
+0608.08.331.025.2.900.319113.0100 8.995,00
+
+0608.08.331.025.2.900.335043.0300 102,00
+
+0608.08.331.025.2.900.339008.0300 491.328,00
+
+0608.08.331.025.2.900.339014.0300 102,00
+
+0608.08.331.025.2.900.339030.0300 6.969,00
+
+0608.08.331.025.2.900.339034.0100 1.125,00
+
+0608.08.331.025.2.900.339036.0300 10.236,00
+
+0608.08.331.025.2.900.339037.0300 97.817,00
+
+0608.08.331.025.2.900.339039.0300 296.844,00
+
+0608.08.331.025.2.900.339039.0306 154.711,00
+
+0608.08.331.025.2.900.339046.0300 388.968,00
+
+0608.08.331.025.2.900.339091.0300 1.023,00
+
+0608.08.331.025.2.900.339093.0300 10.236,00
+
+0608.08.331.025.2.900.449052.0406 10.236,00
+
+0608.08.331.025.2.591.319004.0100 602,00
+
+0608.08.331.025.2.591.339030.0300 100.822,00
+
+0608.08.331.025.2.591.339035.0300 5.118,00
+
+0608.08.331.025.2.591.339036.0300 10.236,00
+
+0608.08.331.025.2.591.339037.0300 102.360,00
+
+0608.08.331.025.2.591.339037.0306 782.200,00
+
+0608.08.331.025.2.591.339039.0300 818.876,00
+
+0608.08.331.025.2.591.339047.0300 10.236,00
+
+0608.08.331.025.2.591.339092.0300 5.118,00
+
+0608.08.331.025.2.591.449051.0406 1.023,00
+
+0608.08.331.025.2.591.449052.0406 10.236,00
+
+0609.09.271.026.2.900.339039.0970 1.023,00
+
+0609.09.271.026.3.004.319009.0970 59.266,00
+
+0609.09.271.026.3.004.319092.0970 1.137.774,00
+
+0609.09.271.026.3.005.319001.0970 12.445.746,00
+
+0609.09.271.026.3.005.319009.0970 5.221,00
+
+0609.09.271.026.3.005.319092.0970 974.144,00
+
+0609.09.271.026.3.006.319001.0970 2.735.056,00
+
+0609.09.271.026.3.006.319005.0970 1.421.271,00
+
+0609.09.271.026.3.006.319009.0970 5.115,00
+
+0609.09.271.026.3.006.319092.0970 5.115,00
+
+0609.09.271.026.3.007.319001.0970 4.422.857,00
+
+0609.09.271.026.3.007.319005.0970 1.034.623,00
+
+0609.09.271.026.3.007.319009.0970 1.023,00
+
+0609.09.271.026.3.007.319092.0970 1.023,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 21 de dezembro de 2012
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Gleison Pereira de Souza
+
+Secretário Municipal de Planejamento, Orçamento e Informação - Interino
+
+Luiz Schwarcz
+
+Secretário Municipal de Finanças-Interino

@@ -1,0 +1,1485 @@
+---
+titulo: "Decreto nº 19142/2025"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19142"
+data: ""
+data_publicacao: ""
+ementa: "Altera os Anexos I e IV do Decreto nº 16.676, de 31 de agosto de 2017, que dispõe sobre a codificação e a forma de recrutamento dos cargos de provimento em comissão de que trata a Lei nº 11.065, de 1º de agosto de 2017, e dá outras providências."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76973536b60197546470dc00b9"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/19142/2025"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76973536b6019755dbec2600c9"
+id_documento: "2c907f76973536b6019755dbec2600c9"
+sha256_fonte: "e69d120b5b11e4ccd762b22044d3e42181c01f60c2aee7e5882a13f3634e32ea"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 19142/2025
+
+DECRETO Nº 19.142, DE 6 DE JUNHO DE 2025
+
+Altera os Anexos I e IV do Decreto nº 16.676, de 31 de agosto de 2017, que dispõe sobre a codificação e a forma de recrutamento dos cargos de provimento em comissão de que trata a Lei nº 11.065, de 1º de agosto de 2017, e dá outras providências.
+
+O prefeito de Belo Horizonte, no exercício da atribuição que lhe confere o inciso VII do art. 108 da Lei Orgânica e considerando o disposto na Lei nº 11.065, de 1º de agosto de 2017, decreta:
+
+**Art. 1º** – O Anexo I do Decreto nº 16.676, de 31 de agosto de 2017, passa a vigorar na forma do Anexo I deste decreto.
+
+**Art. 2º** – O Anexo IV do Decreto nº 16.676, de 2017, passa a vigorar com os itens IV.1, IV.2, IV.3, IV.4, IV.5, IV.6, IV.7, IV.8, IV.10, IV.11, IV.12, IV.13, IV.14, IV.15, IV.16, IV.17, IV.18, IV.19, IV.22, IV.23, IV.24, IV.25, IV.27 e IV.28 alterados na forma do Anexo II deste decreto.
+
+**Art. 3º** – Este decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 6 de junho de 2025.
+
+Álvaro Damião
+
+Prefeito de Belo Horizonte
+
+ANEXO I
+
+(a que se refere o art. 1º do Decreto nº 19.142, de 6 de junho de 2025.)
+
+“ANEXO I
+
+(a que se refere o art. 2º do Decreto nº 16.676, de 31 de agosto de 2017.)
+
+|DISTRIBUIÇÃO DE PONTOS UNITÁRIOS DE DAM E FCA |
+
+|ÓRGÃOS |TOTAL DE PONTOS DAM |TOTAL DE PONTOS FCA |
+
+| |UNITÁRIOS |UNITÁRIOS |
+
+|Secretaria Municipal de Assistência Social e |340 |125 |
+
+|Direitos Humanos | | |
+
+|Secretaria Municipal de Segurança Alimentar e |166,5 |49 |
+
+|Nutricional | | |
+
+|Secretaria Municipal de Relações Institucionais |415,5 |28 |
+
+|Secretaria Municipal de Cultura |138 |11,5 |
+
+|Secretaria Municipal de Desenvolvimento Econômico,|95 |12 |
+
+|Trabalho e Relações Internacionais | | |
+
+|Secretaria Municipal de Educação |251,5 |32,5 |
+
+|Secretaria Municipal de Esportes e Lazer |145 |11,5 |
+
+|Secretaria Municipal de Fazenda |239,5 |64 |
+
+|Secretaria Municipal de Administração Logística e |146 |114,5 |
+
+|Patrimonial | | |
+
+|Secretaria Municipal de Governo |122,5 |5 |
+
+|Secretaria Municipal de Meio Ambiente |175 |2,5 |
+
+|Secretaria Municipal de Obras e Infraestrutura |486,5 |20,5 |
+
+|Secretaria Municipal de Planejamento, Orçamento e |443 |87,5 |
+
+|Gestão | | |
+
+|Secretaria Municipal de Política Urbana |517,5 |47,5 |
+
+|Secretaria Municipal de Saúde |325,5 |17,5 |
+
+|Secretaria Municipal de Segurança e Prevenção |203,5 |28 |
+
+|Secretaria Municipal de Mobilidade Urbana |55 |0 |
+
+|Secretaria-Geral |92 |4 |
+
+|Procuradoria-Geral do Município |432,5 |12,5 |
+
+|Controladoria-Geral do Município |122,5 |2,5 |
+
+|Fundação de Parques Municipais e Zoobotânica |202 |25 |
+
+|Fundação Municipal de Cultura |199,5 |32,5 |
+
+|Gabinete do Prefeito |475,5 |11 |
+
+|Gabinete do Vice-Prefeito |0 |0 |
+
+|Hospital Metropolitano Odilon Behrens |174 |0 |
+
+|Superintendência de Desenvolvimento da Capital |288 |2 |
+
+|Superintendência de Limpeza Urbana |239 |39 |
+
+|Superintendência de Mobilidade do Município de |224,5 |30 |
+
+|Belo Horizonte | | |
+
+|TOTAL DE PONTOS |6.715 |815 |
+
+”
+
+ANEXO II
+
+(a que se refere o art. 2º do Decreto nº 19.142, de 6 de junho de 2025)
+
+“ANEXO IV
+
+(a que se refere o art. 6º do Decreto nº 16.676, de 31 de agosto de 2017)
+
+IV.1 – Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH:
+
+|SMASDH |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |4 |SMDH.DAM1.L.001 a SMDH.DAM1.L.004 |
+
+| |AMPLO |5 |SMDH.DAM1.A.001 a SMDH.DAM1.A.005 |
+
+|DAM-2 |LIMITADO |1 |SMDH.DAM2.L.001 a SMDH.DAM2.L.001 |
+
+| |AMPLO |7 |SMDH.DAM2.A.001 a SMDH.DAM2.A.007 |
+
+|DAM-3 |LIMITADO |8 |SMDH.DAM3.L.001 a SMDH.DAM3.L.008 |
+
+| |AMPLO |10 |SMDH.DAM3.A.001 a SMDH.DAM3.A.010 |
+
+|DAM-4 |LIMITADO |19 |SMDH.DAM4.L.001 a SMDH.DAM4.A.019 |
+
+| |AMPLO |16 |SMDH.DAM4.A.001 a SMDH.DAM4.A.016 |
+
+|DAM-5 |LIMITADO |0 |- |
+
+| |AMPLO |3 |SMDH.DAM5.A.001 a SMDH.DAM5.A.003 |
+
+|DAM-6 |LIMITADO |24 |SMDH.DAM6.L.001 a SMDH.DAM6.L.024 |
+
+| |AMPLO |5 |SMDH.DAM6.A.001 a SMDH.DAM6.A.005 |
+
+|DAM-7 |LIMITADO |0 |- |
+
+| |AMPLO |1 |SMDH.DAM7.A.001 |
+
+|DAM-8 |LIMITADO |1 |SMDH.DAM8.L.001 |
+
+| |AMPLO |0 |- |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |1 |SMDH.DAM9.A.001 |
+
+|FCA-1 |LIMITADO |27 |SMDH.FCA1.001 a SMDH.FCA1.027 |
+
+|FCA-2 |LIMITADO |11 |SMDH.FCA2.001 a SMDH.FCA2.011 |
+
+|FCA-3 |LIMITADO |3 |SMDH.FCA3.001 a SMDH.FCA3.003 |
+
+|FCA-4 |LIMITADO |25 |SMDH.FCA4.001 a SMDH.FCA4.025 |
+
+|FCA-5 |LIMITADO |3 |SMDH.FCA5.001 a SMDH.FCA5.003 |
+
+|FCA-6 |LIMITADO |1 |SMDH.FCA6.001 |
+
+|TOTAL DE CARGOS |175 | |
+
+IV.2 – Secretaria Municipal de Relações Institucionais – SMRI:
+
+|SMRI |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |1 |SMRI.DAM1.L.001 |
+
+| |AMPLO |15 |SMRI.DAM1.A.001 a SMRI.DAM1.A.015 |
+
+|DAM-2 |LIMITADO |0 |- |
+
+| |AMPLO |27 |SMRI.DAM2.A.001 a SMRI.DAM2.A.027 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |51 |SMRI.DAM3.A.001 a SMRI.DAM3.A.051 |
+
+|DAM-4 |LIMITADO |0 |- |
+
+| |AMPLO |42 |SMRI.DAM4.A.001 a SMRI.DAM4.A.042 |
+
+|DAM-5 |LIMITADO |0 |- |
+
+| |AMPLO |9 |SMRI.DAM5.A.001 a SMRI.DAM5.A.009 |
+
+|DAM-6 |LIMITADO |0 |- |
+
+| |AMPLO |15 |SMRI.DAM6.A.001 a SMRI.DAM6.A.015 |
+
+|DAM-7 |LIMITADO |1 |SMRI.DAM7.L.001 |
+
+| |AMPLO |0 |- |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SMRI.DAM8.A.001 a SMRI.DAM8.A.002 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |2 |SMRI.FCA2.001 a SMRI.FCA2.002 |
+
+|FCA-3 |LIMITADO |2 |SMRI.FCA3.001 a SMRI.FCA3.002 |
+
+|FCA-4 |LIMITADO |0 |- |
+
+|FCA-5 |LIMITADO |3 |SMRI.FCA5.001 a SMRI.FCA5.003 |
+
+|FCA-6 |LIMITADO |3 |SMRI.FCA6.001 a SMRI.FCA6.003 |
+
+|TOTAL DE CARGOS |173 | |
+
+IV.3 – Secretaria Municipal de Cultura – SMC:
+
+|SMC |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-2 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SMCU.DAM2.A.001 a SMCU.DAM2.A.002 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |5 |SMCU.DAM3.A.001 a SMCU.DAM3.A.005 |
+
+|DAM-4 |LIMITADO |0 |- |
+
+| |AMPLO |10 |SMCU.DAM4.A.001 a SMCU.DAM4.A.010 |
+
+|DAM-5 |LIMITADO |0 |- |
+
+| |AMPLO |6 |SMCU.DAM5.A.001 a SMCU.DAM5.A.006 |
+
+|DAM-6 |LIMITADO |0 |- |
+
+| |AMPLO |4 |SMCU.DAM6.A.001 a SMCU.DAM6.A.004 |
+
+|DAM-7 |LIMITADO |0 |- |
+
+| |AMPLO |1 |SMCU.DAM7.A.001 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |3 |SMCU.DAM8.A.001 a SMCU.DAM8.A.003 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |3 |SMCU.DAM9.A.001 a SMCU.DAM9.A.003 |
+
+|FCA-1 |LIMITADO |1 |SMCU.FCA1.001 |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |0 |- |
+
+|FCA-4 |LIMITADO |1 |SMCU.FCA4.001 |
+
+|FCA-5 |LIMITADO |0 |- |
+
+|FCA-6 |LIMITADO |2 |SMCU.FCA6.001 a SMCU.FCA6.002 |
+
+|TOTAL DE CARGOS |38 | |
+
+IV.4 – Secretaria Municipal de Desenvolvimento Econômico, Trabalho e Relações Internacionais – SMDE:
+
+|SMDE |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |3 |SMDE.DAM1.L.001 a SMDE.DAM1.L.003 |
+
+| |AMPLO |0 |- |
+
+|DAM-2 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |10 |SMDE.DAM3.A.001 a SMDE.DAM3.A.010 |
+
+|DAM-4 |LIMITADO |1 |SMDE.DAM4.L.001 |
+
+| |AMPLO |6 |SMDE.DAM4.A.001 a SMDE.DAM4.A.006 |
+
+|DAM-5 |LIMITADO |1 |SMDE.DAM5.L.001 |
+
+| |AMPLO |3 |SMDE.DAM5.A.001 a SMDE.DAM5.A.003 |
+
+|DAM-6 |LIMITADO |0 |- |
+
+| |AMPLO |3 |SMDE.DAM6.A.001 a SMDE.DAM6.A.003 |
+
+|DAM-7 |LIMITADO |0 |- |
+
+| |AMPLO |1 |SMDE.DAM7.A.001 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SMDE.DAM8.A.001 A SMDE.DAM8.A.002 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |1 |SMDE.FCA3.001 |
+
+|FCA-4 |LIMITADO |0 |- |
+
+|FCA-5 |LIMITADO |2 |SMDE.FCA5.001 a SMDE.FCA5.002 |
+
+|FCA-6 |LIMITADO |1 |SMDE.FCA6.001 |
+
+|TOTAL DE CARGOS |34 | |
+
+IV.5 – Secretaria Municipal de Educação – SMED:
+
+|SMED |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |2 |SMED.DAM1.L.001 a SMED.DAM1.L.002 |
+
+| |AMPLO |0 |- |
+
+|DAM-2 |LIMITADO |7 |SMED.DAM2.L.001 A SMED.DAM2.L.007 |
+
+| |AMPLO |0 |- |
+
+|DAM-3 |LIMITADO |2 |SMED.DAM3.L.001 a SMED.DAM3.L.002 |
+
+| |AMPLO |1 |SMED.DAM3.A.001 |
+
+|DAM-4 |LIMITADO |2 |SMED.DAM4.L.001 a SMED.DAM4.L.002 |
+
+| |AMPLO |6 |SMED.DAM4.A.001 a SMED.DAM4.A.006 |
+
+|DAM-5 |LIMITADO |10 |SMED.DAM5.L.001 A SMED.DAM5.L.010 |
+
+| |AMPLO |2 |SMED.DAM5.A.001 a SMED.DAM5.A.002 |
+
+|DAM-6 |LIMITADO |9 |SMED.DAM6.L.001 a SMED.DAM6.L.009 |
+
+| |AMPLO |5 |SMED.DAM6.A.001 a SMED.DAM6.A.005 |
+
+|DAM-7 |LIMITADO |2 |SMED.DAM7.L.001 a SMED.DAM7.L.002 |
+
+| |AMPLO |2 |SMED.DAM7.A.001 a SMED.DAM7.A.002 |
+
+|DAM-8 |LIMITADO |2 |SMED.DAM8.L.001 a SMED.DAM8.L.002 |
+
+| |AMPLO |3 |SMED.DAM8.A.001 a SMED.DAM8.A.003 |
+
+|DAM-9 |LIMITADO |3 |SMED.DAM9.L.001 a SMED.DAM9.L.003 |
+
+| |AMPLO |1 |SMED.DAM9.A.001 |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |5 |SMED.FCA3.001 a SMED.FCA3.005 |
+
+|FCA-4 |LIMITADO |9 |SMED.FCA4.001 a SMED.FCA4.009 |
+
+|FCA-5 |LIMITADO |0 |- |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |73 | |
+
+IV.6 – Secretaria Municipal de Esportes e Lazer – SMEL:
+
+|SMEL |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |0 |- |
+
+| |AMPLO |3 |SMEL.DAM1.A.001 a SMEL.DAM1.A.003 |
+
+|DAM-2 |LIMITADO |2 |SMEL.DAM2.L.001 a SMEL.DAM2.L.002 |
+
+| |AMPLO |8 |SMEL.DAM2.A.001 a SMEL.DAM2.A.008 |
+
+|DAM-3 |LIMITADO |1 |SMEL.DAM3.L.001 |
+
+| |AMPLO |3 |SMEL.DAM3.A.001 a SMEL.DAM3.A.003 |
+
+|DAM-4 |LIMITADO |6 |SMEL.DAM4.L.001 a SMEL.DAM4.L.006 |
+
+| |AMPLO |9 |SMEL.DAM4.A.001 a SMEL.DAM4.A.009 |
+
+|DAM-5 |LIMITADO |3 |SMEL.DAM5.L.001 a SMEL.DAM5.L.003 |
+
+| |AMPLO |3 |SMEL.DAM5.A.001 a SMEL.DAM5.A.003 |
+
+|DAM-6 |LIMITADO |6 |SMEL.DAM6.L.001 SMEL.DAM6.L.006 |
+
+| |AMPLO |4 |SMEL.DAM6.A.001 a SMEL.DAM6.A.004 |
+
+|DAM-7 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |1 |SMEL.FCA2.001 |
+
+|FCA-3 |LIMITADO |0 |- |
+
+|FCA-4 |LIMITADO |4 |SMEL.FCA4.001 a SMEL.FCA4.004 |
+
+|FCA-5 |LIMITADO |0 |- |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |53 | |
+
+IV.7 – Secretaria Municipal de Fazenda – SMFA:
+
+|SMFA |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |7 |SMFA.DAM1.L.001 a SMFA.DAM1.L.007 |
+
+| |AMPLO |3 |SMFA.DAM1.A.001 a SMFA.DAM1.A.003 |
+
+|DAM-2 |LIMITADO |0 |- |
+
+| |AMPLO |5 |SMFA.DAM2.A.001 a SMFA.DAM2.A.005 |
+
+|DAM-3 |LIMITADO |2 |SMFA.DAM3.L.001 a SMFA.DAM3.L.002 |
+
+| |AMPLO |4 |SMFA.DAM3.A.001 a SMFA.DAM3.A.004 |
+
+|DAM-4 |LIMITADO |16 |SMFA.DAM4.L.001 a SMFA.DAM4.L.016 |
+
+| |AMPLO |26 |SMFA.DAM4.A.001 a SMFA.DAM4.A.026 |
+
+|DAM-5 |LIMITADO |1 |SMFA.DAM5.L.001 |
+
+| |AMPLO |1 |SMFA.DAM5.A.001 |
+
+|DAM-6 |LIMITADO |7 |SMFA.DAM6.L.001 a SMFA.DAM6.L.007 |
+
+| |AMPLO |0 |- |
+
+|DAM-7 |LIMITADO |2 |SMFA.DAM7.L.001 a SMFA.DAM7.L.002 |
+
+| |AMPLO |1 |SMFA.DAM7.A.001 |
+
+|DAM-8 |LIMITADO |1 |SMFA.DAM8.L.001 |
+
+| |AMPLO |0 |- |
+
+|DAM-9 |LIMITADO |2 |SMFA.DAM9.L.001 a SMFA.DAM9.L.002 |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |7 |SMFA.FCA1.001 a SMFA.FCA1.007 |
+
+|FCA-2 |LIMITADO |7 |SMFA.FCA2.001 a SMFA.FCA2.007 |
+
+|FCA-3 |LIMITADO |20 |SMFA.FCA3.001 a SMFA.FCA3.020 |
+
+|FCA-4 |LIMITADO |1 |SMFA.FCA4.001 |
+
+|FCA-5 |LIMITADO |0 |- |
+
+|FCA-6 |LIMITADO |1 |SMFA.FCA6.001 |
+
+|TOTAL DE CARGOS |114 | |
+
+IV.8 – Secretaria Municipal de Governo – SMGO:
+
+|SMGO |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-2 |LIMITADO |0 |- |
+
+| |AMPLO |3 |SMGO.DAM2.A.001 a SMGO.DAM2.A.003 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |6 |SMGO.DAM3.A.001 a SMGO.DAM3.A.006 |
+
+|DAM-4 |LIMITADO |0 |- |
+
+| |AMPLO |4 |SMGO.DAM4.A.001 a SMGO.DAM4.A.004 |
+
+|DAM-5 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SMGO.DAM5.A.001 a SMGO.DAM5.A.002 |
+
+|DAM-6 |LIMITADO |0 |- |
+
+| |AMPLO |8 |SMGO.DAM6.A.001 a SMGO.DAM6.A.008 |
+
+|DAM-7 |LIMITADO |0 |- |
+
+| |AMPLO |4 |SMGO.DAM7.A. 001 a SMGO.DAM7.A.004 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SMGO.DAM8.A.001 A SMGO.DAM8.A.002 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |1 |SMGO.DAM9.A.001 |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |1 |SMGO.FCA3.001 |
+
+|FCA-4 |LIMITADO |0 |- |
+
+|FCA-5 |LIMITADO |1 |SMGO.FCA5.001 |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |32 | |
+
+(...)
+
+IV.10 – Secretaria Municipal de Obras e Infraestrutura – SMOBI:
+
+|SMOBI |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |0 | - |
+
+| |AMPLO |1 |SMOB.DAM1.A.001 |
+
+|DAM-2 |LIMITADO |2 |SMOB.DAM2.L.001 a SMOB.DAM2.L.002 |
+
+| |AMPLO |5 |SMOB.DAM2.A.001 a SMOB.DAM2.A.005 |
+
+|DAM-3 |LIMITADO |0 | - |
+
+| |AMPLO |6 |SMOB.DAM3.A.001 a SMOB.DAM3.A.006 |
+
+|DAM-4 |LIMITADO |5 |SMOB.DAM4.L.001 a SMOB.DAM4.L.005 |
+
+| |AMPLO |28 |SMOB.DAM4.A.001 a SMOB.DAM4.A.028 |
+
+|DAM-5 |LIMITADO |4 |SMOB.DAM5.L.001 a SMOB.DAM5.L.004 |
+
+| |AMPLO |18 |SMOB.DAM5.A.001 a SMOB.DAM5.A.018 |
+
+|DAM-6 |LIMITADO |3 |SMOB.DAM6.L.001 a SMOB.DAM6.L.003 |
+
+| |AMPLO |11 |SMOB.DAM6.A. 001 a SMOB.DAM6.A.011 |
+
+|DAM-7 |LIMITADO |6 |SMOB.DAM7.L.001 a SMOB.DAM7.L.006 |
+
+| |AMPLO |14 |SMOB.DAM7.A.001 a SMOB.DAM7.A.014 |
+
+|DAM-8 |LIMITADO |2 |SMOB.DAM8.L.001 a SMOB.DAM8.L.002 |
+
+| |AMPLO |8 |SMOB.DAM8.A.001 a SMOB.DAM8.A.008 |
+
+|DAM-9 |LIMITADO |1 |SMOB.DAM9.L.001 |
+
+| |AMPLO |1 |SMOB.DAM9.A.001 |
+
+|FCA-1 |LIMITADO |0 | - |
+
+|FCA-2 |LIMITADO |0 | - |
+
+|FCA-3 |LIMITADO |0 | - |
+
+|FCA-4 |LIMITADO |7 |SMOB.FCA4.001 a SMOB.FCA4.007 |
+
+|FCA-5 |LIMITADO |1 |SMOB.FCA5.001 |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |123 | |
+
+IV.11 – Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG:
+
+|SMPOG |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |10 |SMPO.DAM1.L.001 a SMPO.DAM1.L.010 |
+
+| |AMPLO |3 |SMPO.DAM1.A.001 a SMPO.DAM1.A.003 |
+
+|DAM-2 |LIMITADO |12 |SMPO.DAM2.L.001 a SMPO.DAM2.L.012 |
+
+| |AMPLO |4 |SMPO.DAM2.A.001 a SMPO.DAM2.A.004 |
+
+|DAM-3 |LIMITADO |6 |SMPO.DAM3.L.001 a SMPO.DAM3.L.006 |
+
+| |AMPLO |10 |SMPO.DAM3.A.001 a SMPO.DAM3.A.010 |
+
+|DAM-4 |LIMITADO |15 |SMPO.DAM4.L.001 a SMPO.DAM4.L.015 |
+
+| |AMPLO |14 |SMPO.DAM4.A.001 a SMPO.DAM4.A.014 |
+
+|DAM-5 |LIMITADO |9 |SMPO.DAM5.L.001 a SMPO.DAM5.L.009 |
+
+| |AMPLO |9 |SMPO.DAM5.A.001 a SMPO.DAM5.A.009 |
+
+|DAM-6 |LIMITADO |10 |SMPO.DAM6.L.001 a SMPO.DAM6.L.010 |
+
+| |AMPLO |12 |SMPO.DAM6.A.001 a SMPO.DAM6.A.012 |
+
+|DAM-7 |LIMITADO |1 |SMPO.DAM7.L.001 |
+
+| |AMPLO |7 |SMPO.DAM7.A.001 a SMPO.DAM7.A.007 |
+
+|DAM-8 |LIMITADO |3 |SMPO.DAM8.L.001 a SMPO.DAM8.L.003 |
+
+| |AMPLO |4 |SMPO.DAM8.A.001 a SMPO.DAM8.A.004 |
+
+|DAM-9 |LIMITADO |0 | |
+
+| |AMPLO |1 |SMPO.DAM9.A.001 |
+
+|FCA-1 |LIMITADO |2 |SMPO.FCA1.001 a SMPO.FCA1.002 |
+
+|FCA-2 |LIMITADO |2 |SMPO.FCA2.001 a SMPO.FCA2.002 |
+
+|FCA-3 |LIMITADO |1 |SMPO.FCA3.001 |
+
+|FCA-4 |LIMITADO |9 |SMPO.FCA4.001 a SMPO.FCA4.009 |
+
+|FCA-5 |LIMITADO |10 |SMPO.FCA5.001 a SMPO.FCA5.010 |
+
+|FCA-6 |LIMITADO |7 |SMPO.FCA6.007 |
+
+|TOTAL DE CARGOS |161 | |
+
+IV.12 – Secretaria Municipal de Política Urbana – SMPU:
+
+|SMPU |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |0 |- |
+
+| |AMPLO |1 |SMPU.DAM1.A.001 |
+
+|DAM-2 |LIMITADO |2 |SMPU.DAM2.L.001 a SMPU.DAM2.L.002 |
+
+| |AMPLO |1 |SMPU.DAM2.A.001 |
+
+|DAM-3 |LIMITADO |2 |SMPU.DAM3.L.001 a SMPU.DAM3.L.002 |
+
+| |AMPLO |8 |SMPU.DAM3.A.001 a SMPU.DAM3.A.008 |
+
+|DAM-4 |LIMITADO |47 |SMPU.DAM4.L.001 a SMPU.DAM4.L.047 |
+
+| |AMPLO |23 |SMPU.DAM4.A.001 a SMPU.DAM4.A.023 |
+
+|DAM-5 |LIMITADO |1 |SMPU.DAM5.L.001 |
+
+| |AMPLO |17 |SMPU.DAM5.A.001 a SMPU.DAM5.A.017 |
+
+|DAM-6 |LIMITADO |21 |SMPU.DAM6.L.001 a SMPU.DAM6.L.021 |
+
+| |AMPLO |7 |SMPU.DAM6.A.001 a SMPU.DAM6.A.007 |
+
+|DAM-7 |LIMITADO |1 |SMPU.DAM7.L.001 |
+
+| |AMPLO |1 |SMPU.DAM7.A.001 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |6 |SMPU.DAM8.A.001 a SMPU.DAM8.A.006 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SMPU.DAM9.A.001 a SMPU.DAM9.A.002 |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |11 |SMPU.FCA3.001 a SMPU.FCA3.011 |
+
+|FCA-4 |LIMITADO |9 |SMPU.FCA4.001 a SMPU.FCA4.009 |
+
+|FCA-5 |LIMITADO |1 |SMPU.FCA5.001 |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |161 | |
+
+IV.13 – Secretaria Municipal de Saúde – SMSA:
+
+|SMSA |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |9 |SMSA.DAM1.L.001 a SMSA.DAM1.L.009 |
+
+| |AMPLO |4 |SMSA.DAM1.A.001 a SMSA.DAM1.A.004 |
+
+|DAM-2 |LIMITADO |1 |SMSA.DAM2.L.001 |
+
+| |AMPLO |2 |SMSA.DAM2.A.001 a SMSA.DAM2.A.002 |
+
+|DAM-3 |LIMITADO |1 |SMSA.DAM3.L.001 |
+
+| |AMPLO |5 |SMSA.DAM3.A.001 a SMSA.SAM3.A.005 |
+
+|DAM-4 |LIMITADO |6 |SMSA.DAM4.L.001 a SMSA.DAM4.L.006 |
+
+| |AMPLO |16 |SMSA.DAM4. A.001 a SMSA.DAM4.A.016 |
+
+|DAM-5 |LIMITADO |1 |SMSA.DAM5.L.001 |
+
+| |AMPLO |14 |SMSA.DAM5.A.001 a SMSA.DAM5.A.014 |
+
+|DAM-6 |LIMITADO |3 |SMSA.DAM6.L.001 a SMSA.DAM6.L.003 |
+
+| |AMPLO |6 |SMSA.DAM6.A.001 a SMSA.DAM6.A.006 |
+
+|DAM-7 |LIMITADO |2 |SMSA.DAM7.L.001 a SMSA.DAM7.L.002 |
+
+| |AMPLO |9 |SMSA.DAM7.A.001 a SMSA.DAM7.A.009 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |5 |SMSA.DAM8.A.001 a SMSA.DAM8.A.005 |
+
+|DAM-9 |LIMITADO |1 |SMSA.DAM9.L.001 |
+
+| |AMPLO |2 |SMSA.DAM9.A.001 a SMSA.DAM9.A.002 |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |2 |SMSA.FCA2.001 a SMSA.FCA2.002 |
+
+|FCA-3 |LIMITADO |1 |SMSA.FCA3.001 |
+
+|FCA-4 |LIMITADO |1 |SMSA.FCA4.001 |
+
+|FCA-5 |LIMITADO |2 |SMSA.FCA5.001 a SMSA.FCA5.002 |
+
+|FCA-6 |LIMITADO |1 |SMSA.FCA6.001 |
+
+|TOTAL DE CARGOS |94 | |
+
+IV.14 – Secretaria Municipal de Segurança e Prevenção – SMSP:
+
+|SMSP |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |6 |SMSP.DAM1.L.001 a SMSP.DAM1.L.006 |
+
+| |AMPLO |6 |SMSP.DAM1.A.001 a SMSP.DAM1.A.006 |
+
+|DAM-2 |LIMITADO |0 |- |
+
+| |AMPLO |5 |SMSP.DAM2.A.001 a SMSP.DAM2.A.005 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |5 |SMSP.DAM3.A.001 a SMSP.DAM3.A.005 |
+
+|DAM-4 |LIMITADO |7 |SMSP.DAM4.L.001 a SMSP.DAM4.L.007 |
+
+| |AMPLO |7 |SMSP.DAM4.A.001 a SMSP.DAM4.A.007 |
+
+|DAM-5 |LIMITADO |10 |SMSP.DAM5.L.001 a SMSP.DAM5.L.010 |
+
+| |AMPLO |4 |SMSP.DAM5.A.001 a SMSP.DAM5.A.004 |
+
+|DAM-6 |LIMITADO |2 |SMSP.DAM6.L.001 a SMSP.DAM6.L.002 |
+
+| |AMPLO |2 |SMSP.DAM6.A.001 a SMSP.DAM6.A.002 |
+
+|DAM-7 |LIMITADO |1 |SMSP.DAM7.L.001 |
+
+| |AMPLO |0 |- |
+
+|DAM-8 |LIMITADO |2 |SMSP.DAM8.L.001 a SMSP.DAM8.L.002 |
+
+| |AMPLO |4 |SMSP.DAM8.A.001 a SMSP.DAM8.A.004 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |14 |SMSP.FCA1.001 a SMSP.FCA1.014 |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |0 |- |
+
+|FCA-4 |LIMITADO |4 |SMSP.FCA4.001 a SMSP.FCA4.004 |
+
+|FCA-5 |LIMITADO |0 |- |
+
+|FCA-6 |LIMITADO |1 |SMSP.FCA6.001 |
+
+|TOTAL DE CARGOS |80 | |
+
+IV.15 – Procuradoria-Geral do Município – PGM:
+
+|PGM |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |6 |PRGM.DAM1.L.001 a PRGM.DAM1.L.006 |
+
+| |AMPLO |2 |PRGM.DAM1.A.001 a PRGM.DAM1.A.002 |
+
+|DAM-2 |LIMITADO |6 |PRGM.DAM2.L.001 a PRGM.DAM2.L.006 |
+
+| |AMPLO |5 |PRGM.DAM2.L.001 a PRGM.DAM2.L.005 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |7 |PRGM.DAM3.A.001 a PRGM.DAM3.A.007 |
+
+|DAM-4 |LIMITADO |5 |PRGM.DAM4.L.001 a PRGM.DAM4.L.005 |
+
+| |AMPLO |20 |PRGM.DAM4.A.001 a PRGM.DAM4.A.020 |
+
+|DAM-5 |LIMITADO |5 |PRGM.DAM5.L.001 a PRGM.DAM5.L.005 |
+
+| |AMPLO |11 |PRGM.DAM5.A.001 a PRGM.DAM5.A.011 |
+
+|DAM-6 |LIMITADO |6 |PRGM.DAM6.L.001 a PRGM.DAM6.L.006 |
+
+| |AMPLO |33 |PRGM.DAM6.A.001 a PRGM.DAM6.A.033 |
+
+|DAM-7 |LIMITADO |2 |PRGM.DAM7.L.001 a PRGM.DAM7.L.002 |
+
+| |AMPLO |1 |PRGM.DAM7.A.001 |
+
+|DAM-8 |LIMITADO |1 |PRGM.DAM8.L.001 |
+
+| |AMPLO |5 |PRGM.DAM8.A.001 a PRGM.DAM8.A.005 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |0 |- |
+
+|FCA-4 |LIMITADO |5 |PRGM.FCA4.001 a PRGM.FCA4.005 |
+
+|FCA-5 |LIMITADO |0 |- |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |120 | |
+
+IV.16 – Controladoria-Geral do Município – CTGM:
+
+|CTGM |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |1 |CTGM.DAM1.L.001 |
+
+| |AMPLO |1 |CTGM.DAM1.A.001 |
+
+|DAM-2 |LIMITADO |0 |- |
+
+| |AMPLO |5 |CTGM.DAM2.A.001 a CTGM.DAM2.A.005 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |5 |CTGM.DAM3.A.001 a CTGM.DAM3.A.005 |
+
+|DAM-4 |LIMITADO |4 |CTGM.DAM4.L.001 a CTGM.DAM4.L.004 |
+
+| |AMPLO |3 |CTGM.DAM4.A.001 a CTGM.DAM4.A.003 |
+
+|DAM-5 |LIMITADO |8 |CTGM.DAM5.L.001 a CTGM.DAM5.L.008 |
+
+| |AMPLO |1 |CTGM.DAM5.A.001 |
+
+|DAM-6 |LIMITADO |2 |CTGM.DAM6.L.001 a CTGM.DAM6.L.002 |
+
+| |AMPLO |6 |CTGM.DAM6.A.001 a CTGM.DAM6.A.006 |
+
+|DAM-7 |LIMITADO |1 |CTGM.DAM7.L.001 |
+
+| |AMPLO |0 |- |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |1 |CTGM.FCA1.001 |
+
+|FCA-2 |LIMITADO |1 |CTGM.FCA2.001 |
+
+|FCA-3 |LIMITADO |0 |- |
+
+|FCA-4 |LIMITADO |0 |- |
+
+|FCA-5 |LIMITADO |0 |- |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |39 | |
+
+IV.17 – Fundação de Parques Municipais e Zoobotânica –FPMZB:
+
+|FPMZB |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |11 |FPMZ.DAM1.L.001 a FPMZ.DAM1.L.011 |
+
+| |AMPLO |2 |FPMZ.DAM1.A.001 a FPMZ.DAM1.A.002 |
+
+|DAM-2 |LIMITADO |8 |FPMZ.DAM2.L.001 a FPMZ.DAM2.L.008 |
+
+| |AMPLO |6 |FPMZ.DAM2.A.001 a FPMZ.DAM2.A.006 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |8 |FPMZ.DAM3.A.001 a FPMZ.DAM3.A.008 |
+
+|DAM-4 |LIMITADO |1 |FPMZ.DAM4.L.001 |
+
+| |AMPLO |5 |FPMZ.DAM4.A.001 a FPMZ.DAM4.A.005 |
+
+|DAM-5 |LIMITADO |17 |FPMZ.DAM5.L.001 a FPMZ.DAM5.L.017 |
+
+| |AMPLO |5 |FPMZ.DAM5.A.001 a FPMZ.DAM5.A.005 |
+
+|DAM-6 |LIMITADO |0 |- |
+
+| |AMPLO |2 |FPMZ.DAM6.A.001 a FPMZ.DAM6.A.002 |
+
+|DAM-7 |LIMITADO |0 |- |
+
+| |AMPLO |6 |FPMZ.DAM7.A.001 a FPMZ.DAM7.A.006 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |0 |- |
+
+|FCA-4 |LIMITADO |10 |FPMZ.FCA4.001 a FPMZ.FCA4.010 |
+
+|FCA-5 |LIMITADO |0 |- |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |81 | |
+
+IV.18 – Fundação Municipal de Cultura – FMC:
+
+|FMC |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-2 |LIMITADO |1 |CULT.DAM2.L.001 |
+
+| |AMPLO |0 |- |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |4 |CULT.DAM3.A.001 a CULT.DAM3.A.004 |
+
+|DAM-4 |LIMITADO |3 |CULT.DAM4.L.001 a CULT.DAM4.L.003 |
+
+| |AMPLO |10 |CULT.DAM4.A.001 a CULT.DAM4.A.010 |
+
+|DAM-5 |LIMITADO |0 |- |
+
+| |AMPLO |15 |CULT.DAM5.A.001 a CULT.DAM5.A.015 |
+
+|DAM-6 |LIMITADO |0 |- |
+
+| |AMPLO |7 |CULT.DAM6.A.001 a CULT.DAM6.A.007 |
+
+|DAM-7 |LIMITADO |0 |- |
+
+| |AMPLO |1 |CULT.DAM7.A.001 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |6 |CULT.DAM8.A.001 a CULT.DAM8.A.006 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |1 |CULT.DAM9.A.001 |
+
+|FCA-1 |LIMITADO |1 |CULT.FCA1.001 |
+
+|FCA-2 |LIMITADO |1 |CULT.FCA2.001 |
+
+|FCA-3 |LIMITADO |0 |- |
+
+|FCA-4 |LIMITADO |6 |CULT.FCA4.001 a CULT.FCA4.006 |
+
+|FCA-5 |LIMITADO |1 |CULT.FCA5.001 |
+
+|FCA-6 |LIMITADO |3 |CULT.FCA6.001 a CULT.FCA6.003 |
+
+|TOTAL DE CARGOS |60 | |
+
+IV.19 – Gabinete do Prefeito – GP:
+
+|GP |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |1 |PREF.DAM1.L.001 |
+
+| |AMPLO |0 |- |
+
+|DAM-2 |LIMITADO |1 |PREF.DAM2.L.001 |
+
+| |AMPLO |2 |PREF.DAM2.A.001 a PREF.DAM2.A.002 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |15 |PREF.DAM3.A.001 a PREF.DAM3.A.015 |
+
+|DAM-4 |LIMITADO |0 |- |
+
+| |AMPLO |14 |PREF.DAM4.A.001 a PREF.DAM4.A.014 |
+
+|DAM-5 |LIMITADO |0 |- |
+
+| |AMPLO |16 |PREF.DAM5.A.001 a PREF.DAM5.A.016 |
+
+|DAM-6 |LIMITADO |3 |PREF.DAM6.L.001 a PREF.DAM6.L.003 |
+
+| |AMPLO |31 |PREF.DAM6.A.001 a PREF.DAM6.A.031 |
+
+|DAM-7 |LIMITADO |0 |- |
+
+| |AMPLO |8 |PREF.DAM7.A.001 a PREF.DAM7.A.008 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |4 |PREF.DAM8.A.001 a PREF.DAM8.A.004 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |11 |PREF.DAM9.A.001 a PREF.DAM9.A.011 |
+
+|FCA-1 |LIMITADO |1 |PREF.FCA1.001 |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |1 |PREF.FCA3.001 |
+
+|FCA-4 |LIMITADO |2 |PREF.FCA4.001 a PREF.FCA4.002 |
+
+|FCA-5 |LIMITADO |1 |PREF.FCA5.001 |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |111 | |
+
+(...)
+
+IV.22 – Superintendência de Limpeza Urbana – SLU:
+
+|SLU |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |2 |SLUR.DAM1.L.001 a SLUR.DAM1.L.002 |
+
+| |AMPLO |1 |SLUR.DAM1.A.001 |
+
+|DAM-2 |LIMITADO |4 |SLUR.DAM2.L.001 a SLUR.DAM2.L.004 |
+
+| |AMPLO |0 |- |
+
+|DAM-3 |LIMITADO |4 |SLUR.DAM3.L.001 a SLUR.DAM3.L.004 |
+
+| |AMPLO |2 |SLUR.DAM3.A.001 a SLUR.DAM3.A.002 |
+
+|DAM-4 |LIMITADO |23 |SLUR.DAM4.L.001 a SLUR.DAM4.L.023 |
+
+| |AMPLO |5 |SLUR.DAM4.A.001 a SLUR.DAM4.A.005 |
+
+|DAM-5 |LIMITADO |2 |SLUR.DAM5.L.001 a SLUR.DAM5.L.002 |
+
+| |AMPLO |3 |SLUR.DAM5.A.001 a SLUR.DAM5.A.003 |
+
+|DAM-6 |LIMITADO |11 |SLUR.DAM6.L.001 a SLUR.DAM6.L.011 |
+
+| |AMPLO |9 |SLUR.DAM6.A.001 a SLUR.DAM6.A.009 |
+
+|DAM-7 |LIMITADO |1 |SLUR.DAM7.L.001 |
+
+| |AMPLO |0 |- |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |1 |SLUR.DAM9.A.001 |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |0 |- |
+
+|FCA-4 |LIMITADO |12 |SLUR.FCA4.001 a SLUR.FCA4.012 |
+
+|FCA-5 |LIMITADO |3 |SLUR.FCA5.001 a SLUR.FCA5.003 |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |83 | |
+
+IV.23 – Superintendência de Desenvolvimento da Capital – SUDECAP:
+
+|SUDECAP |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |1 |SUDE.DAM1.L.001 |
+
+| |AMPLO |0 |- |
+
+|DAM-2 |LIMITADO |4 |SUDE.DAM2.L.001 a SUDE.DAM2.L.004 |
+
+| |AMPLO |4 |SUDE.DAM2.A.001 A SUDE.DAM2.A.004 |
+
+|DAM-3 |LIMITADO |9 |SUDE.DAM3.L.001 a SUDE.DAM3.L.009 |
+
+| |AMPLO |2 |SUDE.DAM3.A.001 a SUDE.DAM3.A.002 |
+
+|DAM-4 |LIMITADO |23 |SUDE.DAM4.L.001 a SUDE.DAM4.L.023 |
+
+| |AMPLO |16 |SUDE.DAM4.A.001 a SUDE.DAM4.A.016 |
+
+|DAM-5 |LIMITADO |0 |- |
+
+| |AMPLO |1 |SUDE.DAM5.A.001 |
+
+|DAM-6 |LIMITADO |12 |SUDE.DAM6.L.001 a SUDE.DAM6.L.012 |
+
+| |AMPLO |12 |SUDE.DAM6.A.001 a SUDE.DAM6.A.012 |
+
+|DAM-7 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SUDE.DAM7.A.001 a SUDE.DAM7.A.002 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |0 |- |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |1 |SUDE.FCA3.001 |
+
+|FCA-4 |LIMITADO |0 |- |
+
+|FCA-5 |LIMITADO |0 |- |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |87 | |
+
+IV.24 – Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB:
+
+|SUMOB |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |0 | - |
+
+| |AMPLO |2 |SUMO.DAM1.A.001. a SUMO.DAM1.A.002 |
+
+|DAM-2 |LIMITADO |0 | - |
+
+| |AMPLO |7 |SUMO.DAM2.A.001 a SUMO.DAM2.007 |
+
+|DAM-3 |LIMITADO |0 | - |
+
+| |AMPLO |1 |SUMO.DAM3.A.001 |
+
+|DAM-4 |LIMITADO |0 | - |
+
+| |AMPLO |12 |SUMO.DAM4.A.001 a SUMO.DAM4.A.012 |
+
+|DAM-5 |LIMITADO |0 | - |
+
+| |AMPLO |7 |SUMO.DAM5.A.001 a SUMO.DAM5.A.007 |
+
+|DAM-6 |LIMITADO |0 | - |
+
+| |AMPLO |11 |SUMO.DAM6.A.001 a SUMO.DAM6.A.011 |
+
+|DAM-7 |LIMITADO |0 | - |
+
+| |AMPLO |5 |SUMO.DAM7.A.001 a SUMO.DAM7.A.005 |
+
+|DAM-8 |LIMITADO |0 | - |
+
+| |AMPLO |3 |SUMO.DAM8.A.001 a SUMOB.DAM8.A.003 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |5 |SUMO.DAM9.A.001 a SUMO.DAM9.A.005 |
+
+|FCA-1 |LIMITADO |0 | - |
+
+|FCA-2 |LIMITADO |0 | - |
+
+|FCA-3 |LIMITADO |0 | - |
+
+|FCA-4 |LIMITADO |4 |SUMO.FCA4.001 a SUMO.FCA4.004 |
+
+|FCA-5 |LIMITADO |0 | - |
+
+|FCA-6 |LIMITADO |5 |SUMO.FCA6.001 a SUMO.FCA6.005 |
+
+|TOTAL DE CARGOS |62 | |
+
+IV.25 – Secretaria Municipal de Administração Logística e Patrimonial – SMALOG:
+
+|SMALOG |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SMAL.DAM1.A.001 a SMAL.DAM1.A.002 |
+
+|DAM-2 |LIMITADO |1 |SMAL.DAM2.L.001 |
+
+| |AMPLO |3 |SMAL.DAM2.A.001 a SMAL.DAM2.A.003 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |8 |SMAL.DAM3.A.001 a SMAL.DAM3.A.008 |
+
+|DAM-4 |LIMITADO |5 |SMAL.DAM4.L.001 a SMAL.DAM4.L.005 |
+
+| |AMPLO |4 |SMAL.DAM4.A.001 a SMAL.DAM4.A.004 |
+
+|DAM-5 |LIMITADO |2 |SMAL.DAM5.L.001 a SMAL.DAM5.L.002 |
+
+| |AMPLO |7 |SMAL.DAM5.A.001 a SMAL.DAM5.A.007 |
+
+|DAM-6 |LIMITADO |0 |- |
+
+| |AMPLO |1 |SMAL.DAM6.A.001 |
+
+|DAM-7 |LIMITADO |1 |SMAL.DAM7.L.001 |
+
+| |AMPLO |8 |SMAL.DAM7.A.001 a SMAL.DAM7.A.008 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |10 |SMAL.FCA1.001 a SMAL.FCA2.010 |
+
+|FCA-2 |LIMITADO |8 |SMAL.FCA2.001 a SMAL.FCA2.008 |
+
+|FCA-3 |LIMITADO |5 |SMAL.FCA3.001 a SMAL.FCA3.005 |
+
+|FCA-4 |LIMITADO |17 |SMAL.FCA4.001 a SMAL.FCA4.017 |
+
+|FCA-5 |LIMITADO |4 |SMAL.FCA5.001 a SMAL.FCA5.004 |
+
+|FCA-6 |LIMITADO |7 |SMAL.FCA6.001 a SMAL.FCA6.007 |
+
+|TOTAL DE CARGOS |93 | |
+
+(...)
+
+IV.27 – Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN:
+
+|SMSAN |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |0 |- |
+
+| |AMPLO |3 |SANU.DAM1.A.001 a SANU.DAM1.A.003 |
+
+|DAM-2 |LIMITADO |0 |- |
+
+| |AMPLO |7 |SANU.DAM2.A.001 a SANU.DAM2.A.007 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |12 |SANU.DAM3.A.001 a SANU.DAM3.A.012 |
+
+|DAM-4 |LIMITADO |7 |SANU.DAM4.L.001 a SANU.DAM4.L.007 |
+
+| |AMPLO |18 |SANU.DAM4.A.001 a SANU.DAM4.A.018 |
+
+|DAM-5 |LIMITADO |1 |SANU.DAM5.L.001 |
+
+| |AMPLO |2 |SANU.DAM5.A.001 a SANU.DAM5.A.002 |
+
+|DAM-6 |LIMITADO |5 |SANU.DAM5.L.001 a SANU.DAM5.L.005 |
+
+| |AMPLO |1 |SANU.DAM6.A.001 |
+
+|DAM-7 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SANU.DAM7.A.001 a SANU.DAM7.A.002 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |5 |SANU.FCA1.001 a SANU.FCA1.005 |
+
+|FCA-2 |LIMITADO |2 |SANU.FCA2.001 a SANU.FCA2.002 |
+
+|FCA-3 |LIMITADO |4 |SANU.FCA3.001 a SANU.FCA3.004 |
+
+|FCA-4 |LIMITADO |10 |SANU.FCA4.001 a SANU.FCA4.010 |
+
+|FCA-5 |LIMITADO |0 |- |
+
+|FCA-6 |LIMITADO |2 |SANU.FCA6.001 a SANU.FCA6.002 |
+
+|TOTAL DE CARGOS |81 | |
+
+IV.28 – Secretaria-Geral – SGE:
+
+|SGE |
+
+|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
+
+|DAM-1 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|DAM-2 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SEGE.DAM2.A.001 a SEGE.DAM2.A.002 |
+
+|DAM-3 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SEGE.DAM3.A.001 a SEGE.DAM3.A.002 |
+
+|DAM-4 |LIMITADO |0 |- |
+
+| |AMPLO |4 |SEGE.DAM4.A.001 a SEGE.DAM4.A.004 |
+
+|DAM-5 |LIMITADO |0 |- |
+
+| |AMPLO |5 |SEGE.DAM5.A.001 a SEGE.DAM5.A.005 |
+
+|DAM-6 |LIMITADO |1 |SEGE.DAM6.L.001 |
+
+| |AMPLO |2 |SEGE.DAM6.A.001 a SEGE.DAM6.A.002 |
+
+|DAM-7 |LIMITADO |1 |SEGE.DAM7.L.001 |
+
+| |AMPLO |3 |SEGE.DAM7.A.001 a SEGE.DAM7.A.003 |
+
+|DAM-8 |LIMITADO |0 |- |
+
+| |AMPLO |2 |SEGE.DAM8.A.001 a SEGE.DAM8.A.002 |
+
+|DAM-9 |LIMITADO |0 |- |
+
+| |AMPLO |0 |- |
+
+|FCA-1 |LIMITADO |1 |SEGE.FCA1.001 |
+
+|FCA-2 |LIMITADO |0 |- |
+
+|FCA-3 |LIMITADO |0 |- |
+
+|FCA-4 |LIMITADO |0 |- |
+
+|FCA-5 |LIMITADO |1 |SEGE.FCA5.001 |
+
+|FCA-6 |LIMITADO |0 |- |
+
+|TOTAL DE CARGOS |24 | |
+
+”

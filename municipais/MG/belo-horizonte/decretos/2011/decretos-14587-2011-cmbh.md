@@ -1,0 +1,183 @@
+---
+titulo: "Decreto nº 14587/2011"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "14587"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$11.008.361,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76324fb36c0132aa88c76a0233"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/14587/2011"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76324fb36c0132aa8c567b023a"
+id_documento: "2c907f76324fb36c0132aa8c567b023a"
+sha256_fonte: "484383190ad895a5c2a3c08dc6e42cb216b1a041872280fc359063578d7ee581"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 14587/2011
+
+DECRETO Nº 14.587, DE 26 DE SETEMBRO DE 2011
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$11.008.361,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º, da Lei Orçamentária nº 10.061, de 29 de dezembro de 2010, e, ainda, as disposições do Decreto nº 14.254, de 13 de janeiro de 2011, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$2.112.749,00 (dois milhões, cento e doze mil, setecentos e quarenta e nove reais), para atender às seguintes programações:
+
+0201.04.122.096.2.004.339039.0300 39.000,00
+
+0204.06.181.097.2.553.339039.0300 6.000,00
+
+0500.04.062.003.2.010.339037.0300 40.890,00
+
+0800.04.129.013.2.832.339014.0300 10.000,00
+
+0800.04.129.013.2.832.339039.0300 30.000,00
+
+1000.04.122.123.2.900.339037.0300 3.447,00
+
+1007.27.812.101.2.531.339031.0300 68.792,00
+
+1007.27.812.101.2.534.339037.0300 133.470,00
+
+1008.14.422.127.2.335.339039.0300 28.650,00
+
+1100.04.122.007.2.900.339037.0300 15.000,00
+
+1100.15.452.059.2.540.339037.0300 84.000,00
+
+1200.04.122.007.2.900.449052.0400 2.400,00
+
+1200.26.452.007.2.783.339030.0300 1.000,00
+
+1400.04.122.007.2.900.339037.0300 44.000,00
+
+1700.04.122.007.2.900.339037.0300 23.100,00
+
+1800.04.122.007.2.900.339037.0300 68.500,00
+
+1900.04.122.007.2.900.339037.0300 43.400,00
+
+2000.04.122.096.2.060.339039.0300 1.000,00
+
+2200.12.122.140.2.317.339030.0300 950.000,00
+
+2200.12.122.140.2.317.339037.0300 82.000,00
+
+2200.12.367.140.2.701.339030.0303 51.000,00
+
+2200.12.361.207.2.041.339030.0300 300.000,00
+
+2200.12.361.140.2.702.339030.0303 2.000,00
+
+2500.18.122.069.2.900.339037.0300 14.000,00
+
+2502.18.541.072.2.900.339030.0300 3.100,00
+
+4002.04.122.014.2.850.319092.0100 68.000,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$8.895.612,00 (oito milhões, oitocentos e noventa e cinco mil, seiscentos e doze reais), para atender às seguintes programações:
+
+0608.08.331.025.2.900.339039.0300 70.000,00
+
+1006.08.244.113.2.900.339037.0300 200.000,00
+
+1011.0001.08.244.113.2.348.339092.0300 12.116,00
+
+1011.0017.08.244.019.2.308.335043.0303 362.700,00
+
+1011.0017.08.244.019.2.405.335043.0303 330.000,00
+
+1011.0017.08.244.237.2.404.335043.0300 494.373,00
+
+1011.0018.08.244.020.2.403.335043.0300 3.766.627,00
+
+1011.0018.08.244.020.2.406.335043.0303 1.368.000,00
+
+1011.0018.08.244.020.2.410.335043.0300 853.200,00
+
+1013.08.243.113.2.334.449052.0400 3.754,00
+
+1013.08.243.113.2.334.449052.0408 100,00
+
+1013.08.243.019.2.309.335043.0308 168.821,00
+
+1100.08.244.019.2.804.339037.0300 50.000,00
+
+1400.08.243.020.2.558.339037.0300 4.500,00
+
+1800.08.243.020.2.558.339037.0300 2.000,00
+
+1800.08.244.019.2.804.339037.0300 26.500,00
+
+1900.08.244.019.2.804.339030.0300 5.000,00
+
+2302.0001.10.122.117.2.334.449052.0410 1.336,00
+
+2302.0001.10.122.117.2.662.339093.0300 1.754,00
+
+2302.0001.10.122.157.2.681.339039.0303 33.596,00
+
+2302.0001.10.122.202.1.216.449051.0800 1.074.246,00
+
+2302.0001.10.301.157.2.681.339030.0310 63.288,00
+
+2302.0005.10.122.117.2.662.339039.0310 3.701,00
+
+**Art. 3º** - Os recursos necessários à execução do disposto nos artigos anteriores decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$11.008.361,00 (onze milhões, oito mil, trezentos e sessenta e um reais):
+
+0913.16.482.225.1.231.449051.0402 4.382.649,00
+
+2200.12.122.140.2.500.339092.0300 82.000,00
+
+2200.12.361.207.2.041.339039.0300 1.303.000,00
+
+2502.18.541.072.2.900.339035.0300 3.100,00
+
+1011.0001.08.244.113.2.334.339036.0300 13.332,00
+
+1011.0001.08.244.113.2.350.339036.0300 20.472,00
+
+1011.0001.08.244.113.2.350.339039.0300 102.967,00
+
+1011.0017.08.244.019.2.308.335043.0304 1.023.600,00
+
+1011.0017.08.244.019.2.308.335043.1100 800.000,00
+
+1011.0017.08.244.019.2.308.335043.1104 102.360,00
+
+1011.0018.08.244.020.2.336.335043.1100 822.495,00
+
+1011.0018.08.244.020.2.336.449052.1100 95.890,00
+
+1011.0018.08.244.020.2.402.335043.0300 255.900,00
+
+1011.0018.08.244.020.2.403.339039.0300 650.000,00
+
+1013.0009.08.243.020.2.403.339039.0304 120.000,00
+
+1013.0009.08.243.020.2.403.445042.0404 52.675,00
+
+2302.0001.10.302.114.2.824.449052.0403 459.890,00
+
+2302.0003.10.122.202.1.216.449051.0803 718.031,00
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 26 de setembro de 2011
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Paulo Roberto Paixão Bretas
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

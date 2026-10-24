@@ -1,0 +1,545 @@
+---
+titulo: "Decreto nº 13827/2009"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "13827"
+data: ""
+data_publicacao: ""
+ementa: "Dispõe sobre a transferência e utilização dos recursos financeiros às Caixas Escolares da Rede Municipal de Educação."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f7625bc40850125e05a9ee6018a"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/13827/2009"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7650c3b5960150cd08904c0030"
+id_documento: "2c907f7650c3b5960150cd08904c0030"
+sha256_fonte: "bdd08827cddc7d2b6c16de39bda43570edd6a6988af02561a9eea683d09bb630"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 13827/2009
+
+DECRETO Nº 13.827, DE 29 DE DEZEMBRO DE 2009
+
+REVOGADO PELO DECRETO Nº 13.887, DE 26/2/2010 (ART. 3º)
+
+Dispõe sobre a transferência e utilização dos recursos financeiros às Caixas Escolares da Rede Municipal de Educação.
+
+O Prefeito de Belo Horizonte, no exercício de suas atribuições legais e
+
+Considerando a necessidade de promover a autonomia financeira e pedagógica das escolas e a inclusão, garantindo o acesso e o direito ao conhecimento; incentivar o desenvolvimento de projetos que busquem a melhoria da qualidade de ensino e da alfabetização e letramento das crianças, adolescentes e adultos decreta:
+
+**Art. 1º** - Ficam destinados às Caixas Escolares os recursos previstos no orçamento aprovado pela Lei 9.668, de 30 de dezembro de 2008, de acordo com o Anexo Único deste Decreto.
+
+**Art. 2º** - As Caixas Escolares prestarão contas da utilização dos recursos recebidos, conforme exigências contidas na Lei nº 3.726, de 20 de março de 1984 e demais normas e orientações da Secretaria Municipal de Educação, especialmente na Portaria SMED nº 54, de 31 de dezembro de 2008.
+
+**Art. 3º** - Este decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 29 de dezembro de 2009
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças
+
+Macaé Maria Evaristo
+
+Secretária Municipal de Educação
+
+|ANEXO ÚNICO |
+
+|Nº |ESCOLA MUNICIPAL |Regional |Valor |
+
+|1 |EM AIRES DA MATA MACHADO |Barreiro |40.000,00 |
+
+|2 |UMEI JATOBÁ IV |Barreiro |20.000,00 |
+
+|3 |EM ANA ALVES TEIXEIRA |Barreiro |50.000,00 |
+
+|4 |UMEI SOL NASCENTE |Barreiro |25.000,00 |
+
+|5 |EM ANTÔNIO ALEIXO |Barreiro |20.000,00 |
+
+|6 |EM ANTÔNIO MOURÃO GUIMARÃES |Barreiro |40.000,00 |
+
+|7 |UMEI CARDOSO |Barreiro |25.000,00 |
+
+|8 |EM ANTÔNIO SALLES BARBOSA |Barreiro |30.000,00 |
+
+|9 |EM AURÉLIO BUARQUE DE HOLANDA |Barreiro |40.000,00 |
+
+|10 |EM CIAC - LUCAS MONTEIRO |Barreiro |50.000,00 |
+
+|11 |EM CÔNEGO SEQUEIRA |Barreiro |50.000,00 |
+
+|12 |EM DA VILA PINHO |Barreiro |40.000,00 |
+
+|13 |UMEI ÁGUAS CLARAS |Barreiro |25.000,00 |
+
+|14 |EM DINORAH MAGALHÃES FABRI |Barreiro |50.000,00 |
+
+|15 |UMEI JOSÉ ISIDORO FILHO |Barreiro |20.000,00 |
+
+|16 |EM DULCE MARIA HOMEM |Barreiro |40.000,00 |
+
+|17 |UMEI MIRAMAR |Barreiro |20.000,00 |
+
+|18 |EM EDITH PIMENTA DA VEIGA |Barreiro |50.000,00 |
+
+|19 |EM ELOY HERALDO LIMA |Barreiro |50.000,00 |
+
+|20 |EM HELENA ANTIPOFF |Barreiro |40.000,00 |
+
+|21 |EM JONAS BARCELLOS CORRÊA |Barreiro |50.000,00 |
+
+|22 |EM LUIZ GATTI |Barreiro |30.000,00 |
+
+|23 |EM LUIZ GONZAGA JÚNIOR |Barreiro |30.000,00 |
+
+|24 |EM PADRE FLÁVIO GIAMMETTA |Barreiro |40.000,00 |
+
+|25 |EM PEDRO ALEIXO |Barreiro |50.000,00 |
+
+|26 |EM PEDRO NAVA |Barreiro |50.000,00 |
+
+|27 |UMEI PILAR OLHOS D'ÁGUA |Barreiro |20.000,00 |
+
+|28 |EM PROFESSOR HILTON ROCHA |Barreiro |40.000,00 |
+
+|29 |UMEI BAIRRO MANGUEIRAS |Barreiro |25.000,00 |
+
+|30 |EM PROFESSOR JOSÉ BRAZ |Barreiro |25.000,00 |
+
+|31 |EM PROFESSOR MELLO CANÇADO |Barreiro |30.000,00 |
+
+|32 |EM PROFESSORA ISAURA SANTOS |Barreiro |40.000,00 |
+
+|33 |EM SEBASTIÃO GUILHERME DE OLIVEIRA |Barreiro |30.000,00 |
+
+|34 |EM UNIÃO COMUNITÁRIA |Barreiro |40.000,00 |
+
+|35 |EM VINÍCIUS DE MORAES |Barreiro |40.000,00 |
+
+|TOTAL REGIONAL BARREIRO |1.265.000,00 |
+
+|36 |EM ARTHUR VERSIANI VELLOSO |Centro-Sul |30.000,00 |
+
+|37 |EM BENJAMIN JACOB |Centro-Sul |30.000,00 |
+
+|38 |EM CAIO LÍBANO SOARES |Centro-Sul |40.000,00 |
+
+|39 |EM IMACO |Centro-Sul |20.000,00 |
+
+|40 |EM MARCONI |Centro-Sul |30.000,00 |
+
+|41 |EM MESTRE PARANHOS |Centro-Sul |40.000,00 |
+
+|42 |UMEI CONJUNTO SANTA MARIA |Centro-Sul |25.000,00 |
+
+|43 |EM PADRE GUILHERME PETERS |Centro-Sul |40.000,00 |
+
+|44 |UMEI VILA CONCEIÇÃO |Centro-Sul |25.000,00 |
+
+|45 |EM PAULO MENDES CAMPOS |Centro-Sul |30.000,00 |
+
+|46 |EM PROFESSOR EDSON PISANI |Centro-Sul |40.000,00 |
+
+|47 |UMEI SANTA ISABEL |Centro-Sul |25.000,00 |
+
+|48 |UMEI SÃO JOÃO |Centro-Sul |25.000,00 |
+
+|49 |EM SANTO ANTÔNIO |Centro-Sul |20.000,00 |
+
+|50 |EM SENADOR LEVINDO COELHO |Centro-Sul |50.000,00 |
+
+|51 |UMEI PADRE TARCÍSIO |Centro-Sul |25.000,00 |
+
+|52 |EM ULYSSES GUIMARÃES |Centro-Sul |40.000,00 |
+
+|53 |UMEI MARTA NAIR MONTEIRO |Centro-Sul |20.000,00 |
+
+|TOTAL REGIONAL CENTRO-SUL |555.000,00 |
+
+|54 |EM EMÍDIO BERUTO |Leste |25.000,00 |
+
+|55 |EM FERNANDO DIAS COSTA |Leste |50.000,00 |
+
+|56 |EM GEORGE RICARDO SALUM |Leste |50.000,00 |
+
+|57 |EM ISRAEL PINHEIRO |Leste |60.000,00 |
+
+|58 |EM LEVINDO LOPES |Leste |40.000,00 |
+
+|59 |UMEI PARAÍSO |Leste |25.000,00 |
+
+|60 |EM MARIA DAS NEVES |Leste |40.000,00 |
+
+|61 |EM MONSENHOR JOÃO RODRIGUES DE OLIVEIRA |Leste |30.000,00 |
+
+|62 |EM PADRE FRANCISCO CARVALHO MOREIRA |Leste |50.000,00 |
+
+|63 |EM PROFESSOR DOMICIANO VIEIRA |Leste |30.000,00 |
+
+|64 |EM PROFESSOR LOURENÇO DE OLIVEIRA |Leste |25.000,00 |
+
+|65 |EM PROFESSORA ALCIDA TORRES |Leste |60.000,00 |
+
+|66 |UMEI GRANJA DE FREITAS |Leste |25.000,00 |
+
+|67 |EM PROFESSORA MARÍLIA TANURE PEREIRA |Leste |30.000,00 |
+
+|68 |EM SANTOS DUMONT |Leste |50.000,00 |
+
+|69 |EM SÃO RAFAEL |Leste |40.000,00 |
+
+|70 |EM THEOMAR DE CASTRO ESPÍNDOLA |Leste |40.000,00 |
+
+|71 |EM VILA FAZENDINHA |Leste |40.000,00 |
+
+|72 |EM WLADIMIR DE PAULA GOMES |Leste |50.000,00 |
+
+|73 |UMEI CAETANO FURQUIM |Leste |25.000,00 |
+
+|TOTAL REGIONAL LESTE |785.000,00 |
+
+|74 |EM AGENOR ALVES DE CARVALHO |Nordeste |50.000,00 |
+
+|75 |EM AMÉRICO RENÊ GIANNETTI |Nordeste |30.000,00 |
+
+|76 |UMEI CACHOEIRINHA |Nordeste |20.000,00 |
+
+|77 |EM ANÍSIO TEIXEIRA |Nordeste |40.000,00 |
+
+|78 |EM ELOS |Nordeste |25.000,00 |
+
+|79 |EM FRANCISCO AZEVEDO |Nordeste |25.000,00 |
+
+|80 |EM FRANCISCO BRESSANE DE AZEVEDO |Nordeste |40.000,00 |
+
+|81 |EM GOVERNADOR CARLOS LACERDA |Nordeste |35.000,00 |
+
+|82 |EM GOVERNADOR OZANAM COELHO |Nordeste |40.000,00 |
+
+|83 |UMEI CAPITÃO EDUARDO |Nordeste |20.000,00 |
+
+|84 |EM HENRIQUETA LISBOA |Nordeste |30.000,00 |
+
+|85 |EM HONORINA RABELLO |Nordeste |50.000,00 |
+
+|86 |EM HUGO PINHEIRO SOARES |Nordeste |30.000,00 |
+
+|87 |EM JOSÉ DE CALASANZ |Nordeste |40.000,00 |
+
+|88 |EM MARIA DA ASSUNÇÃO DE MARCO |Nordeste |30.000,00 |
+
+|89 |EM MONTEIRO LOBATO |Nordeste |30.000,00 |
+
+|90 |EM MURILO RUBIÃO |Nordeste |50.000,00 |
+
+|91 |EM OSWALDO FRANÇA JÚNIOR |Nordeste |40.000,00 |
+
+|92 |UMEI SÃO GABRIEL |Nordeste |25.000,00 |
+
+|93 |EM PÉRSIO PEREIRA PINTO |Nordeste |20.000,00 |
+
+|94 |EM PREFEITO SOUZA LIMA |Nordeste |50.000,00 |
+
+|95 |UMEI JARDIM VITÓRIA |Nordeste |25.000,00 |
+
+|96 |EM PROFESSOR EDGAR DA MATTA MACHADO |Nordeste |50.000,00 |
+
+|97 |UMEI CAVALINHO DE PAU |Nordeste |20.000,00 |
+
+|98 |EM PROFESSOR MILTON LAGE |Nordeste |30.000,00 |
+
+|99 |EM PROFESSOR PAULO FREIRE |Nordeste |40.000,00 |
+
+|100 |UMEI BAIRRO RIBEIRO DE ABREU |Nordeste |20.000,00 |
+
+|101 |EM PROFESSORA ACIDÁLIA LOTT |Nordeste |50.000,00 |
+
+|102 |EM PROFESSORA CONSUELITA CÂNDIDA |Nordeste |40.000,00 |
+
+|103 |UMEI OURO MINAS |Nordeste |25.000,00 |
+
+|104 |EM PROFESSORA ELEONORA PIERUCCETTI |Nordeste |60.000,00 |
+
+|105 |EM PROFESSORA HELENA ABDALLA |Nordeste |40.000,00 |
+
+|106 |EM PROFESSORA MARIA MAZARELLO |Nordeste |30.000,00 |
+
+|107 |EM PROFESSORA MARIA MODESTA CRAVO |Nordeste |25.000,00 |
+
+|108 |EM RENASCENÇA |Nordeste |20.000,00 |
+
+|109 |UMEI SANTA CRUZ |Nordeste |25.000,00 |
+
+|110 |EM SOBRAL PINTO |Nordeste |40.000,00 |
+
+|111 |UMEI COQUEIRO VERDE |Nordeste |20.000,00 |
+
+|TOTAL REGIONAL NORDESTE |1.280.000,00 |
+
+|112 |EM ARTHUR GUIMARÃES |Noroeste |40.000,00 |
+
+|113 |UMEI CARLOS PRATES |Noroeste |20.000,00 |
+
+|114 |EM AUGUSTA MEDEIROS |Noroeste |30.000,00 |
+
+|115 |EM BELO HORIZONTE |Noroeste |30.000,00 |
+
+|116 |EM CARLOS GÓIS |Noroeste |40.000,00 |
+
+|117 |EM CORNÉLIO VAZ DE MELO |Noroeste |25.000,00 |
+
+|118 |EM DOM BOSCO |Noroeste |30.000,00 |
+
+|119 |EM DOM JAIME DE BARROS CÂMARA |Noroeste |20.000,00 |
+
+|120 |EM DR. JOSÉ DIOGO DE ALMEIDA MAGALHÃES |Noroeste |30.000,00 |
+
+|121 |UMEI PEDREIRA PRADO LOPES |Noroeste |20.000,00 |
+
+|122 |EM HONORINA DE BARROS |Noroeste |20.000,00 |
+
+|123 |EM IGNÁCIO ANDRADE DE MELO |Noroeste |40.000,00 |
+
+|124 |EM JOÃO PINHEIRO |Noroeste |30.000,00 |
+
+|125 |UMEI PITUCHINHA |Noroeste |20.000,00 |
+
+|126 |EM JÚLIA PARAÍSO |Noroeste |25.000,00 |
+
+|127 |UMEI PINDORAMA |Noroeste |20.000,00 |
+
+|128 |EM LUIGI TONIOLO |Noroeste |40.000,00 |
+
+|129 |UMEI VILA ANTENA |Noroeste |20.000,00 |
+
+|130 |EM MARIA DA GLÓRIA LOMMEZ |Noroeste |25.000,00 |
+
+|131 |UMEI VILA SENHOR DOS PASSOS |Noroeste |20.000,00 |
+
+|132 |EM MARIA DE REZENDE COSTA |Noroeste |40.000,00 |
+
+|133 |EM MARLENE PEREIRA RANCANTE |Noroeste |30.000,00 |
+
+|134 |EM MONSENHOR ARTUR DE OLIVEIRA |Noroeste |30.000,00 |
+
+|135 |EM NOSSA SENHORA DO AMPARO |Noroeste |30.000,00 |
+
+|136 |UMEI SÃO VICENTE |Noroeste |20.000,00 |
+
+|137 |EM PADRE EDEIMAR MASSOTE |Noroeste |30.000,00 |
+
+|138 |EM PREFEITO OSWALDO PIERUCCETTI |Noroeste |40.000,00 |
+
+|139 |EM PROFESSOR CLÁUDIO BRANDÃO |Noroeste |20.000,00 |
+
+|140 |EM PROFESSOR JOÃO CAMILO DE OLIVEIRA TORRES |Noroeste |30.000,00 |
+
+|141 |EM PROFESSOR MÁRIO WERNECK |Noroeste |40.000,00 |
+
+|142 |UMEI SANTA MARIA |Noroeste |25.000,00 |
+
+|TOTAL REGIONAL NOROESTE |880.000,00 |
+
+|143 |EM ACADÊMICO VIVALDI MOREIRA |Norte |50.000,00 |
+
+|144 |UMEI JULIANA |Norte |25.000,00 |
+
+|145 |EM CÔNSUL ANTÔNIO CADAR |Norte |30.000,00 |
+
+|146 |EM DESEMBARGADOR LORETO RIBEIRO DE ABREU |Norte |30.000,00 |
+
+|147 |EM FLORESTAN FERNANDES |Norte |40.000,00 |
+
+|148 |EM FRANCISCO CAMPOS |Norte |50.000,00 |
+
+|149 |EM FRANCISCO MAGALHÃES GOMES |Norte |40.000,00 |
+
+|150 |EM HÉLIO PELLEGRINO |Norte |40.000,00 |
+
+|151 |UMEI AARÃO REIS |Norte |25.000,00 |
+
+|152 |EM HEBRT JOSÉ DE SOUZA |Norte |50.000,00 |
+
+|153 |UMEI BETINHO |Norte |25.000,00 |
+
+|154 |EM HILDA RABELO MATTA |Norte |40.000,00 |
+
+|155 |EM JARDIM FELICIDADE |Norte |50.000,00 |
+
+|156 |UMEI BAIRRO JARDIM GUANABARA |Norte |25.000,00 |
+
+|157 |EM JOSÉ MARIA DOS MARES GUIA |Norte |50.000,00 |
+
+|158 |UMEI BAIRRO HELIÓPOLIS |Norte |25.000,00 |
+
+|159 |EM JOSEFINA SOUZA LIMA |Norte |40.000,00 |
+
+|160 |UMEI PRIMEIRO DE MAIO |Norte |20.000,00 |
+
+|161 |EM MARIA SILVEIRA |Norte |65.000,00 |
+
+|162 |EM MINERVINA AUGUSTA |Norte |30.000,00 |
+
+|163 |UMEI MARIQUINHAS |Norte |25.000,00 |
+
+|164 |EM PROFESSOR DANIEL ALVARENGA |Norte |40.000,00 |
+
+|165 |EM RUI DA COSTA VAL |Norte |40.000,00 |
+
+|166 |EM SEBASTIANA NOVAIS |Norte |30.000,00 |
+
+|167 |EM SECRETÁRIO HUMBERTO ALMEIDA |Norte |30.000,00 |
+
+|168 |EM TRISTÃO DA CUNHA |Norte |30.000,00 |
+
+|TOTAL REGIONAL NORTE |945.000,00 |
+
+|169 |EM DE ENSINO ESPECIAL FREI LEOPOLDO |Oeste |20.000,00 |
+
+|170 |EM DEPUTADO MILTON SALLES |Oeste |40.000,00 |
+
+|171 |EM FRANCISCA DE PAULA |Oeste |40.000,00 |
+
+|172 |EM HUGO WERNECK |Oeste |30.000,00 |
+
+|173 |UMEI BAIRRO GRAJAU |Oeste |20.000,00 |
+
+|174 |EM JOÃO DO PATROCÍNIO |Oeste |40.000,00 |
+
+|175 |EM MAGALHÃES DRUMOND |Oeste |30.000,00 |
+
+|176 |EM MARIA SALES FERREIRA |Oeste |40.000,00 |
+
+|177 |UMEI GAMELEIRA |Oeste |25.000,00 |
+
+|178 |EM MESTRE ATAÍDE |Oeste |40.000,00 |
+
+|179 |EM OSWALDO CRUZ |Oeste |40.000,00 |
+
+|180 |EM PADRE HENRIQUE BRANDÃO |Oeste |50.000,00 |
+
+|181 |EM PREFEITO AMINTHAS DE BARROS |Oeste |40.000,00 |
+
+|182 |UMEI CAC HAVAI |Oeste |20.000,00 |
+
+|183 |EM PROFESSOR CHRISTOVAM COLOMBO DOS SANTOS |Oeste |30.000,00 |
+
+|184 |EM PROFESSORA EFIGÊNIA VIDIGAL |Oeste |40.000,00 |
+
+|185 |EM SALGADO FILHO |Oeste |30.000,00 |
+
+|186 |EM TENENTE MANOEL MAGALHÃES PENIDO |Oeste |30.000,00 |
+
+|TOTAL REGIONAL OESTE |605.000,00 |
+
+|187 |EM ANNE FRANK |Pampulha |50.000,00 |
+
+|188 |EM AURÉLIO PIRES |Pampulha |30.000,00 |
+
+|189 |EM CARMELITA CARVALHO GARCIA |Pampulha |50.000,00 |
+
+|190 |EM DOM ORIONE |Pampulha |30.000,00 |
+
+|191 |EM FRANCISCA ALVES |Pampulha |30.000,00 |
+
+|192 |EM HENFIL |Pampulha |25.000,00 |
+
+|193 |UMEI ALAÍDE LISBOA |Pampulha |30.000,00 |
+
+|194 |EM JOSÉ MADUREIRA HORTA |Pampulha |50.000,00 |
+
+|195 |EM LÍDIA ANGÉLICA |Pampulha |30.000,00 |
+
+|196 |EM MARIA DE MAGALHÃES PINTO |Pampulha |40.000,00 |
+
+|197 |UMEI ITATIAIA |Pampulha |25.000,00 |
+
+|198 |EM PROFESSOR AMILCAR MARTINS |Pampulha |40.000,00 |
+
+|199 |EM PROFESSORA ALICE NACIF |Pampulha |50.000,00 |
+
+|200 |EM SANTA TEREZINHA |Pampulha |40.000,00 |
+
+|201 |UMEI CASTELO |Pampulha |25.000,00 |
+
+|TOTAL REGIONAL PAMPULHA |545.000,00 |
+
+|202 |EM ADAUTO LÚCIO CARDOSO |Venda Nova |65.000,00 |
+
+|203 |EM ALESSANDRA SALUM CADAR |Venda Nova |30.000,00 |
+
+|204 |UMEI PARAÚNA |Venda Nova |25.000,00 |
+
+|205 |EM ANTÔNIA FERREIRA |Venda Nova |50.000,00 |
+
+|206 |EM ANTÔNIO GOMES HORTA |Venda Nova |20.000,00 |
+
+|207 |EM ARMANDO ZILLER |Venda Nova |40.000,00 |
+
+|208 |EM CARLOS DRUMMOND DE ANDRADE |Venda Nova |30.000,00 |
+
+|209 |EM CÔNEGO RAIMUNDO TRINDADE |Venda Nova |50.000,00 |
+
+|210 |EM CORA CORALINA |Venda Nova |40.000,00 |
+
+|211 |EM DE ENSINO ESPECIAL VENDA NOVA |Venda Nova |20.000,00 |
+
+|212 |EM DEPUTADO RENATO AZEREDO |Venda Nova |30.000,00 |
+
+|213 |EM DORA TOMICH LAENDER |Venda Nova |40.000,00 |
+
+|214 |EM DR. JOSÉ XAVIER NOGUEIRA |Venda Nova |40.000,00 |
+
+|215 |EM ELISA BUZELIN |Venda Nova |30.000,00 |
+
+|216 |UMEI VILA APOLÔNIA |Venda Nova |20.000,00 |
+
+|217 |EM GERALDO TEIXEIRA DA COSTA |Venda Nova |30.000,00 |
+
+|218 |EM GRACY VIANNA LAGE |Venda Nova |50.000,00 |
+
+|219 |EM JOAQUIM DOS SANTOS |Venda Nova |30.000,00 |
+
+|220 |EM JOSÉ MARIA ALKIMIM |Venda Nova |40.000,00 |
+
+|221 |EM MÁRIO MOURÃO FILHO |Venda Nova |30.000,00 |
+
+|222 |EM MILTON CAMPOS |Venda Nova |50.000,00 |
+
+|223 |EM MÍRIAM BRANDÃO |Venda Nova |30.000,00 |
+
+|224 |UMEI CÉU AZUL |Venda Nova |20.000,00 |
+
+|225 |EM MOYSÉS KALIL |Venda Nova |60.000,00 |
+
+|226 |EM PADRE MARZANO MATIAS |Venda Nova |40.000,00 |
+
+|227 |EM PRESIDENTE TANCREDO NEVES |Venda Nova |30.000,00 |
+
+|228 |EM PROFESSOR MOACYR ANDRADE |Venda Nova |40.000,00 |
+
+|229 |EM PROFESSOR PEDRO GUERRA |Venda Nova |30.000,00 |
+
+|230 |EM PROFESSOR TABAJARA PEDROSO |Venda Nova |30.000,00 |
+
+|231 |EM PROFESSORA ONDINA NOBRE |Venda Nova |40.000,00 |
+
+|232 |EM TANCREDO PHÍDEAS GUIMARÃES |Venda Nova |40.000,00 |
+
+|233 |EM VEREADOR ANTÔNIO MENEZES |Venda Nova |30.000,00 |
+
+|234 |UMEI JARDIM LEBLON |Venda Nova |20.000,00 |
+
+|235 |EM VICENTE GUIMARÃES |Venda Nova |40.000,00 |
+
+|TOTAL REGIONAL VENDA NOVA |1.210.000,00 |
+
+|TOTAL GERAL DE CONSERVAÇÃO E MANUTENÇÃO |8.070.000,00 |

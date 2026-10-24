@@ -1,0 +1,193 @@
+---
+titulo: "Decreto nº 13771/2009"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "13771"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$9.312.115,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f7624bb50570124d9c377b600e0"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/13771/2009"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7624bb50570124d9df2a2700e5"
+id_documento: "2c907f7624bb50570124d9df2a2700e5"
+sha256_fonte: "c9411902188f11b6b1a236f5d5716c135d81fd7b9900a15dcd29c85481b36c21"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 13771/2009
+
+DECRETO Nº 13.771, DE 6 DE NOVEMBRO DE 2009
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$9.312.115,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º, da Lei Orçamentária nº 9.668, de 30 de dezembro de 2008, e, ainda, as disposições do Decreto nº 13.484, de 09 de janeiro de 2009, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$6.591.658,00 (seis milhões, quinhentos e noventa e um mil, seiscentos e cinquenta e oito reais), para atender às seguintes programações:
+
+0202.04.122.096.2.801.339039.0300 1.000,00
+
+0203.04.131.015.2.779.449052.0400 30.000,00
+
+0300.04.131.015.2.007.339039.0300 32.000,00
+
+0500.04.123.007.2.010.339030.0300 13.187,00
+
+0500.04.123.007.2.010.339037.0300 5.000,00
+
+0500.04.123.007.2.010.339039.0300 27.900,00
+
+0501.04.123.003.2.830.339014.0300 10.000,00
+
+0501.04.123.003.2.830.449052.0400 3.545,00
+
+0600.04.121.148.2.900.339030.0300 20.000,00
+
+0600.04.121.148.2.900.339039.0300 20.000,00
+
+0602.04.121.144.2.900.319004.0100 9.150,00
+
+0603.04.122.087.1.324.449052.0400 16.870,00
+
+0610.04.122.007.2.900.339030.0300 10.000,00
+
+0610.04.122.007.2.900.339037.0300 50.000,00
+
+0610.04.122.014.2.809.339014.0300 6.250,00
+
+0610.04.122.014.2.809.339039.0300 125.000,00
+
+0800.04.129.013.1.258.449052.0402 227.554,00
+
+0803.04.122.007.2.110.339039.0300 67.800,00
+
+0905.15.452.059.2.900.319004.0100 182.000,00
+
+0905.15.452.059.2.900.339039.0300 1.000,00
+
+0907.04.122.044.1.219.449051.0400 500.000,00
+
+0918.06.182.020.2.541.339036.0300 1.303,00
+
+1000.11.334.121.2.577.339037.0303 4.000,00
+
+1000.04.122.123.2.900.339037.0300 96.000,00
+
+1005.11.333.133.2.330.449052.0400 2.901,00
+
+1005.20.601.130.2.121.339030.0300 3.936,00
+
+1005.20.601.130.2.121.339030.1100 4.012,00
+
+1007.27.812.125.2.900.339037.0300 49.000,00
+
+1007.27.812.125.2.900.339039.0300 1.200,00
+
+1010.23.692.077.2.307.339039.0300 27.000,00
+
+1100.04.122.007.2.900.339037.0300 60.000,00
+
+1101.15.451.062.1.230.339036.0300 2.500,00
+
+1101.15.451.062.1.230.339039.0300 750,00
+
+1101.15.452.059.2.540.339039.0300 6.000,00
+
+1102.12.365.135.2.542.339036.0300 10.000,00
+
+1200.04.122.007.2.900.339037.0300 50.000,00
+
+1200.04.122.007.2.900.339039.0300 62.400,00
+
+1201.18.541.072.2.079.339039.0300 19.000,00
+
+1400.04.122.007.2.900.449052.0400 25.000,00
+
+1401.18.541.072.2.079.339039.0300 12.800,00
+
+1600.04.122.007.2.900.339030.0300 1.300,00
+
+1700.04.122.007.2.900.339030.0300 7.900,00
+
+1800.04.122.007.2.900.449052.0400 26.400,00
+
+1802.12.365.135.2.542.339036.0300 16.000,00
+
+2100.06.122.109.2.802.339037.0300 26.000,00
+
+2200.12.122.140.2.317.339037.0300 20.000,00
+
+2200.12.361.136.2.302.339039.0300 3.591.000,00
+
+2200.12.361.136.2.312.339039.0300 844.000,00
+
+2404.04.124.012.2.367.339036.0300 1.000,00
+
+4001.04.122.007.2.085.339037.0300 200.000,00
+
+4001.04.122.007.2.085.339039.0300 62.000,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$2.720.457,00 (dois milhões, setecentos e vinte mil, quatrocentos e cinquenta e sete reais), para atender às seguintes programações:
+
+0608.08.331.025.2.588.319011.0100 642.718,00
+
+0609.09.271.026.3.005.339009.0911 6.000,00
+
+0609.09.271.026.3.006.339005.0911 90.000,00
+
+0609.09.271.026.3.007.339001.0919 680.000,00
+
+0609.09.271.026.3.007.339005.0911 731.000,00
+
+0609.09.271.026.3.008.339005.0911 48.000,00
+
+0609.09.271.026.3.139.339001.0911 11.000,00
+
+0609.09.271.026.3.139.339005.0911 404.000,00
+
+1005.08.306.074.2.120.339036.0300 7.484,00
+
+1014.08.306.074.2.761.339037.0300 56.000,00
+
+1102.08.244.019.2.804.339036.0300 24.000,00
+
+1202.08.244.019.2.804.339039.0300 2.850,00
+
+1402.08.243.020.2.558.339039.0300 2.000,00
+
+1602.08.244.019.2.804.339039.0300 8.405,00
+
+1702.08.243.020.2.558.339039.0300 4.000,00
+
+1802.08.244.019.2.804.339037.0300 3.000,00
+
+**Art. 3º** - Os recursos necessários à execução do disposto nos artigos anteriores decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$9.312.115,00 (nove milhões, trezentos e doze mil, cento e quinze reais):
+
+0907.15.451.062.1.205.449051.0404 2.000.000,00
+
+0907.17.512.066.1.203.449051.0400 241.115,00
+
+0907.17.512.151.1.307.449051.0403 5.100.000,00
+
+0609.09.271.026.3.004.339092.0911 1.970.000,00
+
+2302.0001.10.301.117.2.681.335043.0304 1.000,00
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 6 de novembro de 2009
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Helvécio Miranda Magalhães Junior
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

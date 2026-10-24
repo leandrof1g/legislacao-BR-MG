@@ -1,0 +1,179 @@
+---
+titulo: "Decreto nº 15039/2012"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "15039"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$15.674.073,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f763a6f934b013a78f6a53b002b"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/15039/2012"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f763a6f934b013a78f74dff0030"
+id_documento: "2c907f763a6f934b013a78f74dff0030"
+sha256_fonte: "7374443fd3f5b78f80232ffbebc26b72eb0ac33a64d0905b9027c7d9552536be"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 15039/2012
+
+DECRETO Nº 15.039, DE 18 DE OUTUBRO DE 2012
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$15.674.073,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no caput do artigo 6º, da Lei Orçamentária nº 10.369, de 30 de dezembro de 2011, e, ainda, as disposições do Decreto nº 14.802, de 17 de janeiro de 2012, decreta:
+
+**Art. 1º**- Fica aberto ao Orçamento Fiscal e ao Orçamento da Seguridade Social da Prefeitura de Belo Horizonte, em favor de diversos órgãos, Créditos Suplementares no valor de R$15.674.073,00 (quinze milhões, seiscentos e setenta e quatro mil e setenta e três reais), nas seguintes dotações orçamentárias:
+
+0201.04.122.219.1.380.339014.0300 10.000,00
+
+0201.04.122.219.1.380.339035.0300 43.000,00
+
+0500.04.062.003.2.010.335043.0300 6.000,00
+
+0500.04.062.003.2.011.339039.0300 10.000,00
+
+0501.04.123.003.2.830.339014.0300 10.000,00
+
+0604.19.122.007.2.900.339046.0300 500.000,00
+
+0604.19.572.085.2.602.339036.0300 31.000,00
+
+0604.19.572.110.2.603.339039.0300 348.723,00
+
+0604.19.126.149.2.604.319113.0100 1.150,00
+
+0610.04.122.014.2.900.339035.0300 94.250,00
+
+0610.11.331.014.2.021.339039.0300 96.110,00
+
+0612.04.121.227.1.328.449035.0400 3.000,00
+
+0801.04.129.013.2.525.339037.0300 36.820,00
+
+0801.04.129.013.2.524.339037.0300 5.680,00
+
+0801.04.129.013.2.052.339039.0300 2.560,00
+
+0802.04.122.105.2.900.339037.0300 276.302,00
+
+0802.04.122.105.2.900.339039.0300 47.803,00
+
+1010.23.692.132.2.307.339037.0300 154.062,00
+
+1021.11.333.132.2.708.339039.0300 2.198,00
+
+1200.15.452.059.2.540.339030.0300 4.000,00
+
+1200.15.452.059.2.540.339037.0300 2.500.000,00
+
+1300.04.122.007.2.900.339039.0300 130.000,00
+
+1300.18.541.159.2.079.339039.0300 30.000,00
+
+1300.04.122.007.2.900.339037.0300 69.000,00
+
+1400.18.541.159.2.079.339039.0300 11.000,00
+
+1500.04.122.007.2.900.339037.0300 75.000,00
+
+2000.04.122.096.2.060.339039.0300 5.800,00
+
+2000.04.122.007.2.900.339037.0300 22.000,00
+
+2200.12.361.140.2.700.339032.0300 4.145.000,00
+
+2400.04.124.012.2.366.339039.0300 13.760,00
+
+2500.18.541.070.2.786.339039.0300 5.000,00
+
+2700.15.452.057.2.900.339039.0300 75.400,00
+
+2702.17.512.229.1.307.449051.0400 788.746,00
+
+2703.16.482.007.2.900.319091.0100 136.266,00
+
+2703.16.482.007.2.900.339046.0300 76.000,00
+
+2703.16.482.007.2.900.339092.0300 72.000,00
+
+2802.11.334.121.2.577.339039.0300 75.000,00
+
+2900.15.452.057.2.854.339037.0300 220.000,00
+
+2905.26.452.060.2.837.332081.0300 370.000,00
+
+2905.26.452.060.2.837.339035.0300 105.000,00
+
+2905.26.452.060.2.837.339039.0300 1.464.300,00
+
+2905.26.452.232.1.343.339039.0300 300.000,00
+
+3000.27.812.101.2.531.335043.0300 566.822,00
+
+3000.27.812.101.2.533.339030.0300 31.500,00
+
+3000.27.812.101.2.757.335043.0300 172.136,00
+
+3000.27.812.101.2.900.339030.0300 2.000,00
+
+3000.27.812.101.2.900.339039.0300 182.096,00
+
+3000.27.812.162.2.535.335043.0300 52.000,00
+
+1011.0017.08.244.019.2.405.339039.0300 4.000,00
+
+1011.0017.08.244.019.2.500.339092.0340 13.000,00
+
+1013.08.243.163.2.334.339039.0300 1.000,00
+
+1013.08.243.163.2.860.335043.0340 12.100,00
+
+1014.08.306.132.2.761.339030.0360 2.184.540,00
+
+1014.08.306.132.2.761.339037.0300 6.949,00
+
+1200.08.243.020.2.558.339030.0300 1.000,00
+
+1300.08.243.020.2.558.339036.0300 1.000,00
+
+1700.08.244.019.2.804.339037.0300 72.000,00
+
+**Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações orçamentárias, no valor de R$15.674.073,00 (quinze milhões, seiscentos e setenta e quatro mil e setenta e três reais):
+
+0604.19.572.221.2.600.449052.0430 880.873,00
+
+2200.12.365.205.2.858.339039.0360 2.945.000,00
+
+2200.12.366.140.2.700.339039.0300 800.000,00
+
+2200.12.366.140.2.700.339039.0360 400.000,00
+
+2702.17.512.229.1.231.449051.0400 788.746,00
+
+2704.16.482.225.1.231.449051.0430 2.523.566,00
+
+2704.16.482.226.1.207.442042.0480 7.305.788,00
+
+1011.0001.08.244.113.2.348.339036.0300 17.000,00
+
+1013.08.243.163.2.500.339092.0340 13.100,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 18 de outubro de 2012
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Gleison Pereira de Souza
+
+Secretário Municipal de Planejamento, Orçamento e Informação - Interino
+
+Luiz Schwarcz
+
+Secretário Municipal de Finanças - Interino

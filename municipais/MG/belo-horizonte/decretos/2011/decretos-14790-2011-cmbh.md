@@ -1,0 +1,449 @@
+---
+titulo: "Decreto nº 14790/2011"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "14790"
+data: ""
+data_publicacao: ""
+ementa: "Dispõe sobre a transferência e utilização dos recursos financeiros às Caixas Escolares da Rede Municipal de Educação."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f763432218501349fd4a3110468"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/14790/2011"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76507b41700150aad458f402ff"
+id_documento: "2c907f76507b41700150aad458f402ff"
+sha256_fonte: "f1edfe2057b078cfa6e4878b2eafa567f66d52ae6ed2c098edd96703bf7577bf"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 14790/2011
+
+DECRETO Nº 14.790, DE 30 DE DEZEMBRO DE 2011
+
+REVOGADO PELO DECRETO Nº 14.830, DE 2/2/2012 (ART. 5º)
+
+Dispõe sobre a transferência e utilização dos recursos financeiros às Caixas Escolares da Rede Municipal de Educação.
+
+O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em especial as que lhe confere o inciso VII do art. 108 da Lei Orgânica do Município, decreta:
+
+**Art. 1º** - Ficam destinados às Caixas Escolares os recursos previstos no orçamento aprovado pela Lei nº 10.061, de 29 de dezembro de 2010, de acordo com o Anexo Único deste Decreto.
+
+**Art. 2º** - Os recursos destinam-se, especificamente, ao custeio da folha de pagamento e encargos trabalhistas dos empregados das Caixas Escolares das Escolas Municipais.
+
+**Art. 3º** - As Caixas Escolares prestarão contas dos recursos recebidos, conforme as exigências contidas na Lei nº 3.726, de 20 de março de 1984, na Resolução SMED nº 001 de 24 de dezembro de 2008, na Cláusula Sétima do Termo de Colaboração e Fomento e demais normas e orientações da Secretaria Municipal de Educação.
+
+**Art. 4º** - As Secretarias Municipais de Finanças e de Educação deverão adotar as providências necessárias à execução deste Decreto.
+
+**Art. 5º** - Este decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 30 de dezembro de 2011
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Paulo de Souza Duarte
+
+Secretário Municipal Adjunto do Tesouro
+
+Macaé Maria Evaristo
+
+Secretária Municipal de Educação
+
+|ANEXO ÚNICO – 2ª PARCELA DA SUBVENÇÃO DE PESSOAL – 2011 |
+
+|Nº |CAIXA ESCOLAR DA EM |REGIONAL |VALOR |
+
+|1 |AIRES DA MATA MACHADO |Barreiro |437.502,00 |
+
+|2 |ANA ALVES TEIXEIRA |Barreiro |581.155,00 |
+
+|3 |ANTÔNIO ALEIXO |Barreiro |224.738,00 |
+
+|4 |ANTÔNIO MOURÃO GUIMARÃES |Barreiro |434.253,00 |
+
+|5 |ANTÔNIO SALLES BARBOSA |Barreiro |338.263,00 |
+
+|6 |AURÉLIO BUARQUE DE HOLANDA |Barreiro |331.359,00 |
+
+|7 |CIAC - LUCAS MONTEIRO MACHADO |Barreiro |484.316,00 |
+
+|8 |CÔNEGO SEQUEIRA |Barreiro |467.790,00 |
+
+|9 |DA VILA PINHO |Barreiro |486.738,00 |
+
+|10 |DINORAH MAGALHÃES FABRI |Barreiro |568.482,00 |
+
+|11 |DULCE MARIA HOMEM |Barreiro |390.304,00 |
+
+|12 |EDITH PIMENTA DA VEIGA |Barreiro |333.402,00 |
+
+|13 |ELOY HERALDO LIMA |Barreiro |417.157,00 |
+
+|14 |HELENA ANTIPOFF |Barreiro |340.308,00 |
+
+|15 |JONAS BARCELLOS CORRÊA |Barreiro |366.758,00 |
+
+|16 |LUIZ GATTI |Barreiro |426.582,00 |
+
+|17 |LUIZ GONZAGA JÚNIOR |Barreiro |289.842,00 |
+
+|18 |PADRE FLÁVIO GIAMMETTA |Barreiro |324.445,00 |
+
+|19 |PEDRO ALEIXO |Barreiro |383.449,00 |
+
+|20 |PEDRO NAVA |Barreiro |516.032,00 |
+
+|21 |PROFESSOR HILTON ROCHA |Barreiro |444.831,00 |
+
+|22 |PROFESSOR JOSÉ BRAZ |Barreiro |183.637,00 |
+
+|23 |PROFESSOR MELLO CANÇADO |Barreiro |330.955,00 |
+
+|24 |PROFESSORA ISAURA SANTOS |Barreiro |374.496,00 |
+
+|25 |SEBASTIÃO GUILHERME DE OLIVEIRA |Barreiro |285.780,00 |
+
+|26 |UNIÃO COMUNITÁRIA |Barreiro |313.851,00 |
+
+|27 |VINÍCIUS DE MORAES |Barreiro |311.014,00 |
+
+|TOTAL REGIONAL BARREIRO |10.387.439,00 |
+
+|28 |PRESIDENTE JOÃO PESSOA |Centro-Sul |806.832,00 |
+
+|29 |BENJAMIM JACOB |Centro-Sul |245.480,00 |
+
+|30 |CAIO LÍBANO SOARES |Centro-Sul |213.758,00 |
+
+|31 |IMACO |Centro-Sul |423.268,00 |
+
+|32 |MARCONI |Centro-Sul |587.266,00 |
+
+|33 |MARIA DAS NEVES |Centro-Sul |225.142,00 |
+
+|34 |MESTRE PARANHOS |Centro-Sul |426.107,00 |
+
+|35 |PADRE GUILHERME PETERS |Centro-Sul |425.709,00 |
+
+|36 |PAULO MENDES CAMPOS |Centro-Sul |262.995,00 |
+
+|37 |PROFESSOR EDSON PISANI |Centro-Sul |653.935,00 |
+
+|38 |SANTO ANTÔNIO |Centro-Sul |212.103,00 |
+
+|39 |SENADOR LEVINDO COELHO |Centro-Sul |579.540,00 |
+
+|40 |THEOMAR DE CASTRO ESPÍNDOLA |Centro-Sul |187.302,00 |
+
+|41 |ULYSSES GUIMARÃES |Centro-Sul |448.917,00 |
+
+|42 |VILA FAZENDINHA |Centro-Sul |271.944,00 |
+
+|TOTAL REGIONAL CENTRO-SUL |5.970.298,00 |
+
+|43 |DOUTOR JÚLIO SOARES |Leste |301.628,00 |
+
+|44 |EMÍDIO BERUTO |Leste |274.384,00 |
+
+|45 |FERNANDO DIAS COSTA |Leste |651.138,00 |
+
+|46 |GEORGE RICARDO SALUM |Leste |369.992,00 |
+
+|47 |ISRAEL PINHEIRO |Leste |354.151,00 |
+
+|48 |LEVINDO LOPES |Leste |379.304,00 |
+
+|49 |MONSENHOR JOÃO RODRIGUES DE OLIVEIRA |Leste |256.884,00 |
+
+|50 |PADRE FRANCISCO CARVALHO MOREIRA |Leste |373.656,00 |
+
+|51 |PROFESSOR DOMICIANO VIEIRA |Leste |192.184,00 |
+
+|52 |PROFESSOR LOURENÇO DE OLIVEIRA |Leste |212.529,00 |
+
+|53 |PROFESSORA ALCIDA TORRES |Leste |536.800,00 |
+
+|54 |PROFESSORA MARÍLIA TANURE PEREIRA |Leste |266.658,00 |
+
+|55 |SANTOS DUMONT |Leste |299.623,00 |
+
+|56 |SÃO RAFAEL |Leste |236.538,00 |
+
+|57 |WLADIMIR DE PAULA GOMES |Leste |471.288,00 |
+
+|TOTAL REGIONAL LESTE |5.176.757,00 |
+
+|58 |AGENOR ALVES DE CARVALHO |Nordeste |346.020,00 |
+
+|59 |AMÉRICO RENÊ GIANNETTI |Nordeste |370.356,00 |
+
+|60 |ANÍSIO TEIXEIRA |Nordeste |414.710,00 |
+
+|61 |ELOS |Nordeste |195.033,00 |
+
+|62 |FRANCISCO AZEVEDO |Nordeste |165.739,00 |
+
+|63 |FRANCISCO BRESSANE DE AZEVEDO |Nordeste |311.404,00 |
+
+|64 |GOVERNADOR CARLOS LACERDA |Nordeste |385.052,00 |
+
+|65 |GOVERNADOR OZANAN COELHO |Nordeste |529.405,00 |
+
+|66 |HENRIQUETA LISBOA |Nordeste |295.126,00 |
+
+|67 |HONORINA RABELLO |Nordeste |339.506,00 |
+
+|68 |HUGO PINHEIRO SOARES |Nordeste |256.884,00 |
+
+|69 |JOSÉ DE CALASANZ |Nordeste |330.127,00 |
+
+|70 |MARIA DA ASSUNÇÃO DE MARCO |Nordeste |401.692,00 |
+
+|71 |MONTEIRO LOBATO |Nordeste |317.124,00 |
+
+|72 |MURILO RUBIÃO |Nordeste |369.209,00 |
+
+|73 |OSWALDO FRANÇA JÚNIOR |Nordeste |606.802,00 |
+
+|74 |PÉRSIO PEREIRA PINTO |Nordeste |212.529,00 |
+
+|75 |PREFEITO SOUZA LIMA |Nordeste |458.270,00 |
+
+|76 |PROFESSOR EDGAR DA MATTA MACHADO |Nordeste |542.879,00 |
+
+|77 |PROFESSOR MILTON LAGE |Nordeste |312.634,00 |
+
+|78 |PROFESSOR PAULO FREIRE |Nordeste |586.035,00 |
+
+|79 |PROFESSORA ACIDÁLIA LOTT |Nordeste |581.583,00 |
+
+|80 |PROFESSORA CONSUELITA CÂNDIDA |Nordeste |532.739,00 |
+
+|81 |PROFESSORA ELEONORA PIERUCCETTI |Nordeste |487.480,00 |
+
+|82 |PROFESSORA HELENA ABDALLA |Nordeste |330.955,00 |
+
+|83 |PROFESSORA MARIA MAZARELLO |Nordeste |287.005,00 |
+
+|84 |PROFESSORA MARIA MODESTA CRAVO |Nordeste |337.071,00 |
+
+|85 |RENASCENÇA |Nordeste |370.757,00 |
+
+|86 |SOBRAL PINTO |Nordeste |420.815,00 |
+
+|TOTAL REGIONAL NORDESTE |11.094.941,00 |
+
+|87 |ARTHUR GUIMARÃES |Noroeste |710.037,00 |
+
+|88 |AUGUSTA MEDEIROS |Noroeste |240.784,00 |
+
+|89 |BELO HORIZONTE |Noroeste |240.767,00 |
+
+|90 |CARLOS GÓIS |Noroeste |240.767,00 |
+
+|91 |CORNÉLIO VAZ DE MELO |Noroeste |240.724,00 |
+
+|92 |DOM BOSCO |Noroeste |481.603,00 |
+
+|93 |DOM JAIME DE BARROS CÂMARA |Noroeste |697.686,00 |
+
+|94 |DR. JOSÉ DIOGO DE ALMEIDA MAGALHÃES |Noroeste |481.516,00 |
+
+|95 |HONORINA DE BARROS |Noroeste |240.750,00 |
+
+|96 |JOÃO PINHEIRO |Noroeste |240.784,00 |
+
+|97 |LUIGI TONIOLO |Noroeste |481.551,00 |
+
+|98 |MARIA DA GLÓRIA LOMMEZ |Noroeste |481.525,00 |
+
+|99 |MARIA DE REZENDE COSTA |Noroeste |240.802,00 |
+
+|100 |MONSENHOR ARTUR DE OLIVEIRA |Noroeste |240.810,00 |
+
+|101 |NOSSA SENHORA DO AMPARO |Noroeste |481.534,00 |
+
+|102 |PADRE EDEIMAR MASSOTE |Noroeste |240.888,00 |
+
+|103 |PREFEITO OSWALDO PIERUCCETTI |Noroeste |240.784,00 |
+
+|104 |PROFESSOR CLÁUDIO BRANDÃO |Noroeste |240.732,00 |
+
+|105 |PROFESSOR JOÃO CAMILO DE OLIVEIRA TORRES |Noroeste |240.802,00 |
+
+|TOTAL REGIONAL NOROESTE |6.704.846,00 |
+
+|106 |ACADÊMICO VIVALDI MOREIRA |Norte |597.828,00 |
+
+|107 |CÔNSUL ANTÔNIO CADAR |Norte |343.664,00 |
+
+|108 |DESEMBARGADOR LORETO RIBEIRO DE ABREU |Norte |266.658,00 |
+
+|109 |FLORESTAN FERNANDES |Norte |280.496,00 |
+
+|110 |FRANCISCO CAMPOS |Norte |311.014,00 |
+
+|111 |FRANCISCO MAGALHÃES GOMES |Norte |308.572,00 |
+
+|112 |HÉLIO PELLEGRINO |Norte |546.543,00 |
+
+|113 |HEBERT JOSÉ DE SOUZA |Norte |578.399,00 |
+
+|114 |HILDA RABELLO MATTA |Norte |354.151,00 |
+
+|115 |JARDIM FELICIDADE |Norte |489.575,00 |
+
+|116 |JOSÉ MARIA DOS MARES GUIA |Norte |578.277,00 |
+
+|117 |JOSEFINA SOUZA LIMA |Norte |471.281,00 |
+
+|118 |MARIA SILVEIRA |Norte |456.617,00 |
+
+|119 |MINERVINA AUGUSTA |Norte |432.211,00 |
+
+|120 |PROFESSOR DANIEL ALVARENGA |Norte |435.055,00 |
+
+|121 |RUI DA COSTA VAL |Norte |378.087,00 |
+
+|122 |SEBASTIANA NOVAIS |Norte |250.375,00 |
+
+|123 |SECRETÁRIO HUMBERTO ALMEIDA |Norte |345.202,00 |
+
+|124 |TRISTÃO DA CUNHA |Norte |289.842,00 |
+
+|TOTAL REGIONAL NORTE |7.713.847,00 |
+
+|125 |DE ENSINO ESPECIAL FREI LEOPOLDO |Oeste |407.438,00 |
+
+|126 |DEPUTADO MILTON SALLES |Oeste |304.902,00 |
+
+|127 |FRANCISCA DE PAULA |Oeste |358.206,00 |
+
+|128 |HUGO WERNECK |Oeste |452.166,00 |
+
+|129 |JOÃO DO PATROCÍNIO |Oeste |230.426,00 |
+
+|130 |MAGALHÃES DRUMOND |Oeste |429.610,00 |
+
+|131 |MARIA SALES FERREIRA |Oeste |488.757,00 |
+
+|132 |MESTRE ATAÍDE |Oeste |350.486,00 |
+
+|133 |OSWALDO CRUZ |Oeste |332.589,00 |
+
+|134 |PADRE HENRIQUE BRANDÃO |Oeste |360.255,00 |
+
+|135 |PREFEITO AMINTHAS DE BARROS |Oeste |474.137,00 |
+
+|136 |PROFESSOR CHRISTOVAM COLOMBO DOS SANTOS |Oeste |207.647,00 |
+
+|137 |PROFESSORA EFIGÊNIA VIDIGAL |Oeste |394.001,00 |
+
+|138 |PROFESSOR MÁRIO WERNECK |Oeste |481.594,00 |
+
+|139 |SALGADO FILHO |Oeste |285.787,00 |
+
+|140 |TENENTE MANOEL MAGALHÃES PENIDO |Oeste |262.988,00 |
+
+|TOTAL REGIONAL OESTE |5.820.989,00 |
+
+|141 |ANNE FRANK |Pampulha |355.758,00 |
+
+|142 |AURÉLIO PIRES |Pampulha |481.747,00 |
+
+|143 |CARMELITA CARVALHO GARCIA |Pampulha |322.403,00 |
+
+|144 |DOM ORIONE |Pampulha |346.413,00 |
+
+|145 |FRANCISCA ALVES |Pampulha |280.496,00 |
+
+|146 |HENFIL |Pampulha |553.157,00 |
+
+|147 |IGNÁCIO DE ANDRADE MELO |Pampulha |240.819,00 |
+
+|148 |JOSÉ MADUREIRA HORTA |Pampulha |697.732,00 |
+
+|149 |JÚLIA PARAÍSO |Pampulha |481.534,00 |
+
+|150 |LÍDIA ANGÉLICA |Pampulha |308.175,00 |
+
+|151 |MARIA DE MAGALHÃES PINTO |Pampulha |703.648,00 |
+
+|152 |MARLENE PEREIRA RANCANTE |Pampulha |240.810,00 |
+
+|153 |PROFESSOR AMILCAR MARTINS |Pampulha |295.954,00 |
+
+|154 |PROFESSORA ALICE NACIF |Pampulha |541.111,00 |
+
+|155 |SANTA TEREZINHA |Pampulha |582.793,00 |
+
+|TOTAL REGIONAL PAMPULHA |6.432.550,00 |
+
+|156 |ADAUTO LÚCIO CARDOSO |Venda Nova |331.749,00 |
+
+|157 |ALESSANDRA SALUM CADAR |Venda Nova |481.873,00 |
+
+|158 |ANTÔNIA FERREIRA |Venda Nova |304.902,00 |
+
+|159 |ANTÔNIO GOMES HORTA |Venda Nova |445.221,00 |
+
+|160 |ARMANDO ZILLER |Venda Nova |324.843,00 |
+
+|161 |CARLOS DRUMMOND DE ANDRADE |Venda Nova |235.321,00 |
+
+|162 |CÔNEGO RAIMUNDO TRINDADE |Venda Nova |283.730,00 |
+
+|163 |CORA CORALINA |Venda Nova |410.310,00 |
+
+|164 |DE ENSINO ESPECIAL VENDA NOVA |Venda Nova |212.828,00 |
+
+|165 |DEPUTADO RENATO AZEREDO |Venda Nova |241.823,00 |
+
+|166 |DORA TOMICH LAENDER |Venda Nova |245.487,00 |
+
+|167 |DR. JOSÉ XAVIER NOGUEIRA |Venda Nova |298.386,00 |
+
+|168 |ELISA BUZELIN |Venda Nova |427.752,00 |
+
+|169 |GERALDO TEIXEIRA DA COSTA |Venda Nova |414.788,00 |
+
+|170 |GRACY VIANNA LAGE |Venda Nova |384.655,00 |
+
+|171 |JOAQUIM DOS SANTOS |Venda Nova |340.301,00 |
+
+|172 |JOSÉ MARIA ALKIMIM |Venda Nova |298.790,00 |
+
+|173 |MÁRIO MOURÃO FILHO |Venda Nova |221.478,00 |
+
+|174 |MILTON CAMPOS |Venda Nova |351.704,00 |
+
+|175 |MÍRIAM BRANDÃO |Venda Nova |453.778,00 |
+
+|176 |MOYSÉS KALIL |Venda Nova |429.842,00 |
+
+|177 |PADRE MARZANO MATIAS |Venda Nova |385.052,00 |
+
+|178 |PRESIDENTE TANCREDO NEVES |Venda Nova |372.862,00 |
+
+|179 |PROFESSOR MOACYR ANDRADE |Venda Nova |566.337,00 |
+
+|180 |PROFESSOR PEDRO GUERRA |Venda Nova |327.694,00 |
+
+|181 |PROFESSOR TABAJARA PEDROSO |Venda Nova |241.426,00 |
+
+|182 |PROFESSORA ONDINA NOBRE |Venda Nova |289.842,00 |
+
+|183 |TANCREDO PHÍDEAS GUIMARÃES |Venda Nova |248.324,00 |
+
+|184 |VEREADOR ANTÔNIO MENEZES |Venda Nova |285.695,00 |
+
+|185 |VICENTE GUIMARÃES |Venda Nova |601.344,00 |
+
+|186 |ZILDA ARNS |Venda Nova |240.196,00 |
+
+|TOTAL REGIONAL VENDA NOVA |10.698.333,00 |
+
+|TOTAL GERAL |70.000.000,00 |

@@ -1,0 +1,239 @@
+---
+titulo: "Decreto nº 14420/2011"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "14420"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Crédito Especial no valor de R$70.685.212,00."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f762fb33de4012ff8e6fcc3013e"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/14420/2011"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f762fb33de4012ff8e796a70143"
+id_documento: "2c907f762fb33de4012ff8e796a70143"
+sha256_fonte: "095b0057d464e794c911d5430494dc36da77c144886ae2a4dcd4f0174a6175ae"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 14420/2011
+
+DECRETO Nº 14.420, DE 13 DE MAIO DE 2011
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Crédito Especial no valor de R$70.685.212,00.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, o artigo 49 da Lei nº 10.101, de 14 de janeiro de 2011, e nos termos dos artigos 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17 de março de 1964, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal e ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Especial no valor de R$70.685.212,00 (setenta milhões, seiscentos e oitenta e cinco mil, duzentos e doze reais), com as seguintes classificações orçamentárias:
+
+I - Para a Empresa de Informática e Informação do Município de Belo Horizonte S/A - PRODABEL, no valor de R$70.000,00 (setenta mil reais):
+
+0604.0006.19.572.158.2.605.339030.0300 70.000,00
+
+II - Para a Secretaria Municipal Adjunta de Planejamento e Gestão - SMAPL, no valor de R$14.500,00 (quatorze mil e quinhentos reais):
+
+0612.04.121.240.2.325.333041.0300 2.000,00
+
+0612.04.121.227.2.519.339039.0300 12.500,00
+
+III - Para a Secretaria Municipal Adjunta de Modernização - SMAM, no valor de R$30.000,00 (trinta mil reais):
+
+2004.04.122.009.2.900.339039.0300 30.000,00
+
+IV - Para a Secretaria Municipal de Assuntos Institucionais - SMAI, no valor de R$26.630,00 (vinte e seis mil, seiscentos e trinta reais):
+
+2600.04.122.096.2.006.339039.0300 26.630,00
+
+V - Para a Secretaria Municipal de Obras e Infraestrutura - SMOBI, no valor de R$70.338.872,00 (setenta milhões, trezentos e trinta e oito mil, oitocentos e setenta e dois reais):
+
+2700.15.452.057.2.900.449092.0400 10.000,00
+
+2700.15.452.057.2.770.339035.0300 405.000,00
+
+2700.04.122.044.1.219.449051.0400 139.320,00
+
+2700.12.361.206.1.211.449051.0800 549.979,00
+
+2700.12.365.205.1.305.449051.0402 136.600,00
+
+2700.13.392.239.1.215.449051.0400 328.910,00
+
+2700.15.451.062.1.205.449051.0400 3.300.265,00
+
+2700.15.451.062.1.230.449051.0400 3.057.580,00
+
+2700.15.451.209.1.330.449051.0402 7.697.582,00
+
+2700.15.451.210.1.303.449051.0400 2.935.509,00
+
+2700.15.451.210.1.303.449051.0402 12.011.056,00
+
+2700.15.451.227.1.230.449051.0800 6.181.284,00
+
+2700.15.451.230.1.337.449051.0408 1.319.435,00
+
+2700.15.452.084.1.223.449051.0400 1.785.000,00
+
+2700.15.453.213.1.272.449051.0400 40.715,00
+
+2700.16.482.225.1.207.449051.0402 1.240.920,00
+
+2700.16.482.225.1.231.449051.0400 1.653.247,00
+
+2700.16.482.225.1.231.449051.0403 11.893.198,00
+
+2700.16.482.229.1.207.449051.0402 333.628,00
+
+2700.17.512.066.1.203.449051.0400 988.723,00
+
+2700.17.512.151.1.307.449051.0402 240.270,00
+
+2700.17.512.225.1.203.449051.0400 962.957,00
+
+2700.17.512.227.1.203.449051.0802 474.269,00
+
+2700.17.512.229.1.201.449051.0400 867.147,00
+
+2700.17.512.229.1.203.449051.0402 4.445.245,00
+
+2700.18.541.072.1.202.449051.0400 83.057,00
+
+2700.18.541.231.1.349.449051.0800 603.097,00
+
+2700.27.812.238.1.213.449051.0800 2.325.218,00
+
+2700.15.451.233.1.208.449051.0400 687.497,00
+
+2700.15.451.233.1.208.449051.0400 680.959,00
+
+2700.15.451.233.1.208.449051.0414 405.020,00
+
+2700.15.451.233.1.208.449051.0400 95.443,00
+
+2700.15.451.233.1.208.449051.0400 1.636.644,00
+
+2700.15.451.233.1.208.449051.0400 618.152,00
+
+2700.08.244.227.1.220.449051.0800 205.946,00
+
+VI - Para a Secretaria Municipal Adjunta de Trabalho e Emprego - SMATE, no valor de R$181.000,00 (cento e oitenta e um mil reais):
+
+2802.11.334.121.2.577.339037.0300 181.000,00
+
+VII - Para a Secretaria Municipal Adjunta de Regulação Urbana - SMARU, no valor de R$24.210,00 (vinte e quatro mil, duzentos e dez reais):
+
+2901.15.452.059.2.900.339037.0300 24.210,00
+
+**Art. 2º** - Para atender ao disposto no artigo anterior ficam anuladas, parcialmente, as seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$70.685.212,00 (setenta milhões, seiscentos e oitenta e cinco mil, duzentos e doze reais):
+
+0201.04.122.096.2.006.339014.0300 5.236,00
+
+0201.04.122.096.2.006.339030.0300 2.118,00
+
+0201.04.122.096.2.006.339036.0300 5.118,00
+
+0201.04.122.096.2.006.339039.0300 4.730,00
+
+0205.19.572.158.2.605.339030.0300 21.495,00
+
+0205.19.572.158.2.605.339039.0300 48.505,00
+
+0602.04.121.227.2.519.339039.0300 12.500,00
+
+0602.04.121.240.2.325.333041.0300 2.000,00
+
+0602.04.121.144.2.900.319011.0100 2.494,00
+
+0602.04.121.144.2.900.449052.0400 10.235,00
+
+0603.04.122.009.2.900.339039.0300 17.271,00
+
+0900.15.452.057.2.900.339035.0303 405.000,00
+
+0900.15.452.057.2.900.449092.0400 10.000,00
+
+0900.12.361.206.1.211.449051.0400 549.979,00
+
+0900.12.365.205.1.305.449051.0402 136.600,00
+
+0900.13.392.239.1.215.449051.0400 328.910,00
+
+0900.13.392.239.1.215.449051.0403 3.439.585,00
+
+0900.15.451.062.1.230.449051.0400 3.057.580,00
+
+0900.15.451.209.1.330.449051.0402 7.697.582,00
+
+0900.15.451.210.1.303.449051.0400 2.935.509,00
+
+0900.15.451.210.1.303.449051.0402 12.011.056,00
+
+0900.15.451.227.1.230.449051.0800 6.181.284,00
+
+0900.15.452.084.1.223.449051.0400 1.785.000,00
+
+0900.15.452.084.1.223.449051.0402 9.428,00
+
+0900.15.453.213.1.272.449051.0400 40.715,00
+
+0900.16.482.225.1.207.449051.0403 1.240.920,00
+
+0900.16.482.225.1.231.449051.0400 704.486,00
+
+0900.16.482.225.1.231.449051.0402 948.761,00
+
+0900.16.482.225.1.231.449051.0403 11.893.198,00
+
+0900.16.482.229.1.207.449051.0402 333.628,00
+
+0900.17.512.066.1.203.449051.0400 1.951.680,00
+
+0900.17.512.151.1.307.449051.0402 240.270,00
+
+0900.17.512.229.1.201.449051.0400 568.261,00
+
+0900.17.512.229.1.203.449051.0402 5.218.400,00
+
+0900.18.541.072.1.202.449051.0400 83.057,00
+
+0900.18.541.231.1.349.449051.0800 603.097,00
+
+0900.27.812.238.1.213.449051.0800 2.325.218,00
+
+0900.15.451.230.1.337.449051.0408 1.319.435,00
+
+0900.15.451.233.1.208.449051.0400 687.497,00
+
+0900.15.451.233.1.208.449051.0400 680.959,00
+
+0900.15.451.233.1.208.449051.0400 405.020,00
+
+0900.15.451.233.1.208.449051.0400 95.443,00
+
+0900.15.451.233.1.208.449051.0400 1.636.644,00
+
+0900.15.451.233.1.208.449051.0400 618.152,00
+
+0905.15.452.059.2.900.339037.0300 24.210,00
+
+1000.11.334.121.2.577.339037.0300 181.000,00
+
+0900.08.244.227.1.220.449051.0800 205.946,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 13 de maio de 2011
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Paulo Roberto Paixão Bretas
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

@@ -1,0 +1,175 @@
+---
+titulo: "Decreto nº 15393/2013"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "15393"
+data: ""
+data_publicacao: ""
+ementa: "Abre ao Orçamento da Seguridade Social da Prefeitura, em favor Fundo Municipal de Saúde, Crédito Suplementar no valor de R$73.483.342,00, para reforço de dotações consignadas no vigente orçamento."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76427c560e01428edf556a0013"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/15393/2013"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76427c560e01428edfc5150018"
+id_documento: "2c907f76427c560e01428edfc5150018"
+sha256_fonte: "3c85da123aa31862d052c0c3fddcdcde5025f5377fef5c4e3e5aa05b44ed57f8"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 15393/2013
+
+DECRETO Nº 15.393, DE 22 DE NOVEMBRO DE 2013
+
+Abre ao Orçamento da Seguridade Social da Prefeitura, em favor Fundo Municipal de Saúde, Crédito Suplementar no valor de R$73.483.342,00, para reforço de dotações consignadas no vigente orçamento.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 4º, Inciso II, da Lei Orçamentária nº 10.582, de 27 de dezembro de 2012, e, ainda, as disposições do Decreto nº 15.117, de 10 de janeiro de 2013, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura de Belo Horizonte, em favor do Fundo Municipal de Saúde - FMSA, Crédito Suplementar no valor de R$73.483.342,00 (setenta e três milhões, quatrocentos e oitenta e três mil, trezentos e quarenta e dois reais), nas seguintes dotações orçamentárias:
+
+2302.0001.10.122.117.2.327.3390.0150 350.000,00
+
+2302.0001.10.122.117.2.662.3390.0350 1.940.956,00
+
+2302.0001.10.302.114.2.668.3390.0350 41.395.000,00
+
+2302.0001.10.302.114.2.668.3391.0300 4.990.000,00
+
+2302.0001.10.302.114.2.668.3391.0350 15.618.000,00
+
+2302.0001.10.303.114.2.678.3390.0350 7.109.386,00
+
+2302.0001.10.304.028.2.829.3390.0350 80.000,00
+
+2302.0011.10.122.202.1.216.4490.0800 2.000.000,00
+
+**Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações orçamentárias, no valor de R$73.483.342,00 (setenta e três milhões, quatrocentos e oitenta e três mil, trezentos e quarenta e dois reais):
+
+2302.0001.10.122.117.2.327.3350.0300 10.200,00
+
+2302.0001.10.122.117.2.327.3390.0100 14.400.000,00
+
+2302.0001.10.122.117.2.327.3390.0300 2.986.380,00
+
+2302.0001.10.122.117.2.327.3390.0350 80.000,00
+
+2302.0001.10.122.117.2.334.3390.0350 340.000,00
+
+2302.0001.10.122.117.2.334.4490.0450 43.495,00
+
+2302.0001.10.122.117.2.662.3390.0300 80.250,00
+
+2302.0001.10.122.117.2.662.3395.0350 100.000,00
+
+2302.0001.10.122.117.2.662.4490.0450 2.000.000,00
+
+2302.0001.10.122.117.2.695.3390.0350 222.076,00
+
+2302.0001.10.122.201.1.336.3390.0350 240.000,00
+
+2302.0001.10.122.202.2.690.3390.0350 25.000,00
+
+2302.0001.10.301.157.2.681.3390.0350 2.194.109,00
+
+2302.0001.10.301.162.2.681.3390.0350 1.138.063,00
+
+2302.0001.10.301.202.2.690.3350.0350 3.136.500,00
+
+2302.0001.10.301.202.2.690.3390.0350 102.000,00
+
+2302.0001.10.301.204.2.693.3390.0300 3.333,00
+
+2302.0001.10.301.204.2.693.3390.0350 10.000,00
+
+2302.0001.10.301.204.2.693.4490.0450 10.000,00
+
+2302.0001.10.301.207.2.703.3390.0350 5.868,00
+
+2302.0001.10.302.114.2.668.3395.0350 100.000,00
+
+2302.0001.10.302.114.2.694.4490.0450 48.701,00
+
+2302.0001.10.302.201.1.336.3390.0350 50.000,00
+
+2302.0001.10.302.201.1.336.4490.0400 2.746.148,00
+
+2302.0001.10.302.201.1.336.4490.0450 9.589.853,00
+
+2302.0001.10.302.201.1.372.3390.0300 10.000,00
+
+2302.0001.10.302.201.1.372.3390.0350 20.000,00
+
+2302.0001.10.302.203.2.691.3391.0350 3.250,00
+
+2302.0001.10.303.114.2.678.4490.0450 10.000,00
+
+2302.0001.10.305.028.2.829.3395.0350 10.000,00
+
+2302.0001.10.305.219.1.380.3390.0300 20.472,00
+
+2302.0001.10.305.219.1.380.3390.0350 676.770,00
+
+2302.0002.10.122.117.2.662.3390.0350 3.097,00
+
+2302.0002.10.122.117.2.662.4490.0450 5.000,00
+
+2302.0002.10.301.157.2.681.3190.0150 2.973.185,00
+
+2302.0003.10.122.117.2.662.3390.0350 10.000,00
+
+2302.0003.10.122.117.2.662.4490.0450 5.000,00
+
+2302.0004.10.122.117.2.662.3390.0350 5.000,00
+
+2302.0004.10.122.117.2.662.4490.0450 5.000,00
+
+2302.0005.10.122.117.2.662.4490.0450 5.000,00
+
+2302.0006.10.122.117.2.662.3390.0350 5.000,00
+
+2302.0006.10.122.117.2.662.4490.0450 5.000,00
+
+2302.0007.10.122.117.2.662.4490.0450 6.800,00
+
+2302.0008.10.122.117.2.662.3390.0350 10.000,00
+
+2302.0009.10.122.117.2.662.3390.0350 5.000,00
+
+2302.0009.10.122.117.2.662.4490.0450 9.866,00
+
+2302.0010.10.122.117.2.662.4490.0450 5.000,00
+
+2302.0011.10.122.117.2.662.3390.0350 89.807,00
+
+2302.0011.10.122.202.1.216.4490.0450 10.529.119,00
+
+2302.0011.10.122.202.1.216.4490.0850 4.302.000,00
+
+2302.0011.10.122.204.1.216.4490.0400 3.602.000,00
+
+2302.0011.10.122.204.1.216.4490.0450 1.624.000,00
+
+2302.0011.10.122.204.1.216.4490.0800 6.102.000,00
+
+2302.0011.10.122.204.1.216.4490.0850 3.052.000,00
+
+2302.0011.10.301.202.1.216.4490.0450 102.000,00
+
+2302.0011.10.301.202.2.690.3390.0350 610.000,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 22 de novembro de 2013
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Leonardo Pessoa Paolucci
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+Marcelo Piancastelli de Siqueira
+
+Secretário Municipal de Finanças

@@ -1,0 +1,199 @@
+---
+titulo: "Decreto nº 13763/2009"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "13763"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$8.065.407,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76246e7f190124975b7b33009c"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/13763/2009"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76246e7f190124975bb51e00a1"
+id_documento: "2c907f76246e7f190124975bb51e00a1"
+sha256_fonte: "1b565a930b9c39c6739f7d4b5bd1861585399f7485da82add71e93157085884a"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 13763/2009
+
+DECRETO Nº 13.763, DE 26 DE OUTUBRO DE 2009
+
+Abre aos Orçamentos da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$8.065.407,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 6º, da Lei Orçamentária nº 9.668, de 30 de dezembro de 2008, e, ainda, as disposições do Decreto nº 13.484, de 09 de janeiro de 2009, decreta:
+
+**Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$6.586.956,00 (seis milhões, quinhentos e oitenta e seis mil, novecentos e cinquenta e seis reais), para atender às seguintes programações:
+
+0300.04.131.015.2.007.339039.0300 1.650.000,00
+
+0500.04.123.007.2.010.339030.0300 30.597,00
+
+0500.04.123.007.2.010.339039.0300 556.000,00
+
+0500.04.062.003.2.028.339030.0300 3.000,00
+
+0500.04.062.003.2.028.339036.0300 30.000,00
+
+0500.04.062.003.2.028.339039.0300 3.600,00
+
+0500.04.062.003.2.012.339039.0300 105.000,00
+
+0501.04.123.003.2.830.339014.0300 10.000,00
+
+0501.04.123.003.2.830.339030.0300 3.000,00
+
+0600.04.121.148.2.900.339036.0300 21.360,00
+
+0600.04.121.148.2.900.339039.0300 260.000,00
+
+0600.04.121.148.2.900.449052.0400 39.209,00
+
+0603.04.122.087.1.324.449052.0402 18.600,00
+
+0610.04.122.014.2.018.339039.0300 23.000,00
+
+0610.04.122.007.2.900.339039.0300 50.000,00
+
+0610.04.122.007.2.900.449052.0400 23.526,00
+
+0610.04.122.014.1.317.339035.0300 326.000,00
+
+0610.04.122.014.2.809.339039.0300 23.000,00
+
+0905.15.452.059.2.900.339030.0300 20.000,00
+
+0907.04.122.007.2.900.339035.0300 22.500,00
+
+0907.04.122.007.2.900.339036.0308 15.000,00
+
+0907.04.122.007.2.900.339037.0300 100.000,00
+
+0907.04.122.007.2.900.339039.0300 1.200.000,00
+
+0907.16.482.064.1.207.449051.0800 400.000,00
+
+0907.17.512.066.1.203.449051.0800 10.000,00
+
+0907.04.062.003.2.010.319011.0100 192.000,00
+
+0907.04.122.007.2.900.319011.0100 100.000,00
+
+1000.04.122.123.2.900.339039.0300 250.000,00
+
+1005.11.333.133.2.330.339030.0300 2.500,00
+
+1005.11.333.133.2.330.449052.0400 3.000,00
+
+1005.20.601.130.2.121.339030.0300 3.425,00
+
+1005.20.601.130.2.121.449052.0400 2.107,00
+
+1008.14.422.121.2.332.339039.0300 4.072,00
+
+1008.14.422.127.2.337.339030.0303 1.000,00
+
+1008.14.422.129.2.900.339030.0300 13.841,00
+
+1010.23.692.077.2.307.339039.0300 133.000,00
+
+1101.18.541.072.2.079.339039.0300 77.000,00
+
+1101.18.541.073.2.078.339039.0300 72.093,00
+
+1200.04.122.007.2.900.319004.0100 5.784,00
+
+1200.04.122.007.2.900.339039.0300 2.600,00
+
+1200.04.122.007.2.900.449052.0400 1.287,00
+
+1200.26.452.007.2.783.339030.0300 1.074,00
+
+1200.26.452.007.2.783.449052.0400 15.136,00
+
+1201.15.451.062.1.230.449051.0400 189.580,00
+
+1201.18.541.072.2.079.339039.0300 15.700,00
+
+1201.15.452.059.2.540.339030.0300 2.604,00
+
+1202.13.392.050.2.081.339039.0300 29.942,00
+
+1300.04.122.007.2.900.319004.0100 5.100,00
+
+1301.18.541.073.2.078.339039.0300 4.700,00
+
+1400.04.122.007.2.900.339030.0300 6.500,00
+
+1401.18.541.072.2.079.339039.0300 11.700,00
+
+1401.18.541.073.2.078.339039.0300 11.200,00
+
+1500.04.122.007.2.900.449052.0400 1.000,00
+
+1501.18.541.072.2.079.339030.0300 1.800,00
+
+1501.18.541.073.2.078.339039.0300 105.566,00
+
+1502.12.365.135.2.542.339039.0300 61.630,00
+
+1502.27.812.101.2.545.339039.0300 1.000,00
+
+1600.04.122.007.2.900.339030.0300 6.623,00
+
+1601.18.541.073.2.078.339039.0300 56.000,00
+
+1701.18.541.073.2.078.339039.0300 65.400,00
+
+1901.18.541.072.2.079.339039.0300 32.300,00
+
+1901.18.541.073.2.078.339039.0300 55.300,00
+
+4002.04.122.014.2.800.319092.0100 100.000,00
+
+**Art. 2º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de diversos órgãos, o Crédito Suplementar no valor de R$1.478.451,00 (hum milhão, quatrocentos e setenta e oito mil, quatrocentos e cinquenta e um reais), para atender às seguintes programações:
+
+1005.08.306.074.2.120.339032.0300 1.136.315,00
+
+1005.08.306.074.2.120.339032.0303 100.000,00
+
+1005.08.122.132.2.900.319004.0100 115.000,00
+
+1005.08.122.132.2.900.339030.0300 21.665,00
+
+1102.08.244.019.2.804.339036.0300 12.000,00
+
+1602.08.243.020.2.558.339036.0300 2.700,00
+
+2302.0001.10.302.114.2.824.339030.0303 90.771,00
+
+**Art. 3º** - Os recursos necessários à execução do disposto nos artigos anteriores decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$8.065.407,00 (oito milhões, sessenta e cinco mil, quatrocentos e sete reais):
+
+0907.15.451.062.1.330.449051.0404 292.000,00
+
+0907.15.451.062.1.330.449051.0803 1.000.000,00
+
+4001.28.846.088.3.100.459063.0400 5.935.136,00
+
+0907.10.302.117.1.216.449051.0403 747.500,00
+
+2302.0001.10.122.117.2.669.339039.0303 90.771,00
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 26 de outubro de 2009
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Geraldo Afonso Herzog
+
+Secretário Municipal Adjunto de Orçamento
+
+José Afonso Bicalho Beltrão da Silva
+
+Secretário Municipal de Finanças

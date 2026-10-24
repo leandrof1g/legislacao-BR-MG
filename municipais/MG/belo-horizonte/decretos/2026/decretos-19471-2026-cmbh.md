@@ -1,0 +1,41 @@
+---
+titulo: "Decreto nº 19471/2026"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19471"
+data: ""
+data_publicacao: ""
+ementa: "Declara de utilidade pública, para fins de desapropriação, benfeitorias situadas no Bairro Vila Primeiro de Maio."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f769bbccad7019c0ea3eda3014f"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/19471/2026"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769bbccad7019c0ea429df0154"
+id_documento: "2c907f769bbccad7019c0ea429df0154"
+sha256_fonte: "962d1e1415d4a96bc5856ce0e3f189e0f63b325fd268e1e2c2e1c68205933b52"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 19471/2026
+
+DECRETO Nº 19.471, DE 29 DE JANEIRO DE 2026
+
+Declara de utilidade pública, para fins de desapropriação, benfeitorias situadas no Bairro Vila Primeiro de Maio.
+
+O Presidente da Câmara Municipal de Belo Horizonte, no exercício do cargo de prefeito de Belo Horizonte, no uso da atribuição que lhe confere o inciso VII do art. 108 da Lei Orgânica e considerando o disposto no Decreto-Lei federal nº 3.365, de 21 de junho de 1941, decreta:
+
+**Art. 1º** – Ficam declaradas de utilidade pública, para fins de desapropriação, a se efetivar mediante acordo ou judicialmente, as benfeitorias edificadas no lote 2 da quadra 18 do Bairro Vila Primeiro de Maio, de propriedade presumida de José Valdoir.
+
+**Art. 2º** – As desapropriações de que trata o art. 1º destinam-se a salubridade pública e a execução de obras na interseção da Avenida Cristiano Machado com Avenida Sebastião de Brito, previstas no Plano de Obras 1059:P3-S-MOB-12.
+
+**Art. 3º** – Fica a unidade jurídico-administrativa pertinente autorizada a alegar em juízo a urgência das desapropriações.
+
+**Art. 4º** – Este decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 29 de janeiro de 2026.
+
+Professor Juliano Lopes
+
+Prefeito de Belo Horizonte em exercício

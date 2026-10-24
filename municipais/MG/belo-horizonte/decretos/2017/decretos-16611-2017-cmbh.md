@@ -1,0 +1,181 @@
+---
+titulo: "Decreto nº 16611/2017"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "16611"
+data: ""
+data_publicacao: ""
+ementa: "Abre aos Orçamentos Fiscal e da Seguridade Social da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$13.920.981,00, para reforço de dotações consignadas nos vigentes orçamentos."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f765b343655015b85f4d6e80095"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/16611/2017"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f765b343655015b86031080009b"
+id_documento: "2c907f765b343655015b86031080009b"
+sha256_fonte: "1123d011ffb4945d6bb09320a841c8ebd32fddf23d8b4dace978c0cbc0005df1"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 16611/2017
+
+DECRETO Nº 16.611, DE 18 DE ABRIL DE 2017
+
+Abre aos Orçamentos Fiscal e da Seguridade Social da Prefeitura, em favor de diversos órgãos, Créditos Suplementares no valor de R$13.920.981,00, para reforço de dotações consignadas nos vigentes orçamentos.
+
+O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 108, inciso VII da Lei Orgânica, e de acordo com a autorização contida no artigo 4º, da Lei Orçamentária nº 11.014, de 30 de dezembro de 2016, decreta:
+
+**Art. 1º** - Ficam abertos aos Orçamentos Fiscal e da Seguridade Social da Prefeitura de Belo Horizonte, em favor de diversos órgãos, Créditos Suplementares, no valor de R$13.920.981,00 (treze milhões, novecentos e vinte mil, novecentos e oitenta e um reais), nas seguintes dotações orçamentárias:
+
+0500.28.846.003.2.011.3390.0300 40.000,00
+
+0607.04.121.004.2.518.3390.0300 26.000,00
+
+1010.23.692.132.2.307.3391.0300 4.542,00
+
+2200.12.365.140.2.046.3350.0360 928.428,00
+
+2200.12.365.140.2.700.3390.0360 115.202,00
+
+2200.12.365.140.2.700.3390.0360 12.523,00
+
+2200.12.365.140.2.046.3350.0360 160.244,00
+
+2200.12.365.140.2.700.3390.0360 35.941,00
+
+2200.12.365.140.2.046.3350.0360 864.699,00
+
+2200.12.365.140.2.700.3390.0360 129.992,00
+
+2200.12.365.140.2.046.3350.0360 251.766,00
+
+2200.12.365.140.2.700.3390.0360 25.495,00
+
+2200.12.365.140.2.046.3350.0360 669.953,00
+
+2200.12.365.140.2.700.3390.0360 103.387,00
+
+2200.12.365.140.2.046.3350.0360 664.373,00
+
+2200.12.365.140.2.700.3390.0360 69.714,00
+
+2200.12.365.140.2.046.3350.0360 899.899,00
+
+2200.12.365.140.2.700.3390.0360 107.639,00
+
+2200.12.365.140.2.046.3350.0360 591.801,00
+
+2200.12.365.140.2.700.3390.0360 64.648,00
+
+2704.16.482.064.1.231.3390.0330 220.000,00
+
+4001.04.122.007.2.124.3390.0300 738.542,00
+
+4002.11.331.014.2.710.3390.0300 7.000.000,00
+
+1011.08.244.019.2.401.3350.0300 42.000,00
+
+1011.08.242.234.2.409.3390.0340 32.020,00
+
+2301.10.128.030.2.176.4490.0406 1.000,00
+
+2301.10.302.030.2.616.4490.0406 30.173,00
+
+2301.10.302.030.2.875.4490.0406 89.775,00
+
+2301.10.302.030.2.620.4490.0406 1.225,00
+
+**Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações orçamentárias, no valor de R$13.920.981,00 (treze milhões, novecentos e vinte mil, novecentos e oitenta e um reais):
+
+0612.04.121.144.2.876.3390.0300 26.000,00
+
+0803.04.122.007.2.024.3390.0300 738.542,00
+
+2200.12.361.140.2.700.4490.0460 252.400,00
+
+2200.12.365.140.2.700.4490.0460 256.000,00
+
+2200.12.365.205.2.707.4490.0460 65.000,00
+
+2200.12.361.140.2.700.4490.0460 252.400,00
+
+2200.12.365.140.2.700.4490.0460 256.000,00
+
+2200.12.365.205.2.707.4490.0460 65.000,00
+
+2200.12.361.140.2.700.4490.0460 252.400,00
+
+2200.12.365.140.2.700.4490.0460 256.000,00
+
+2200.12.365.205.2.707.4490.0460 65.000,00
+
+2200.12.361.140.2.700.4490.0460 252.400,00
+
+2200.12.365.140.2.700.4490.0460 256.000,00
+
+2200.12.365.205.2.707.4490.0460 65.000,00
+
+2200.12.361.140.2.700.4490.0460 252.400,00
+
+2200.12.365.140.2.700.4490.0460 256.000,00
+
+2200.12.365.205.2.707.4490.0460 65.000,00
+
+2200.12.361.140.2.700.4490.0460 252.400,00
+
+2200.12.365.140.2.700.4490.0460 256.000,00
+
+2200.12.365.205.2.707.4490.0460 65.000,00
+
+2200.12.361.140.2.700.4490.0460 252.400,00
+
+2200.12.365.140.2.700.4490.0460 256.000,00
+
+2200.12.365.205.2.707.4490.0460 65.000,00
+
+2200.12.361.140.2.700.4490.0460 252.400,00
+
+2200.12.365.140.2.700.4490.0460 256.000,00
+
+2200.12.365.205.2.707.4490.0460 65.000,00
+
+2200.12.361.140.2.700.4490.0460 250.963,00
+
+2200.12.365.140.2.700.4490.0460 128.000,00
+
+2200.12.365.205.2.707.4490.0460 65.000,00
+
+2700.26.452.208.1.270.4430.0430 4.209.083,00
+
+2704.16.482.064.2.792.3390.0380 220.000,00
+
+1011.08.244.020.2.878.3390.0340 32.020,00
+
+1011.08.244.019.2.405.3350.0300 42.000,00
+
+2301.10.128.030.2.176.3390.0306 1.000,00
+
+2301.10.302.030.2.616.3390.0306 30.173,00
+
+2301.10.302.030.2.875.3390.0306 89.775,00
+
+2301.10.302.030.2.620.3390.0306 1.225,00
+
+2302.10.122.117.2.895.3390.0300 3.500.000,00
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 18 de abril de 2017
+
+Alexandre Kalil
+
+Prefeito de Belo Horizonte
+
+André Abreu Reis
+
+Secretário Municipal de Planejamento, Orçamento e Informação
+
+Fuad Jorge Noman Filho
+
+Secretário Municipal de Finanças

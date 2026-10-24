@@ -1,0 +1,623 @@
+---
+titulo: "Decreto nº 14222/2010"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "14222"
+data: ""
+data_publicacao: ""
+ementa: "Dispõe sobre a transferência e a utilização dos recursos financeiros às Caixas Escolares da Rede Municipal de Educação."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f762cac0aff012d135c1cb90435"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/14222/2010"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f762cac0aff012d135d2efe043a"
+id_documento: "2c907f762cac0aff012d135d2efe043a"
+sha256_fonte: "40494bb5b30e317c2960174ef88f93ee4335693446d224780d21e7c071af778e"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 14222/2010
+
+DECRETO Nº 14.222, DE 22 DE DEZEMBRO DE 2010
+
+Dispõe sobre a transferência e a utilização dos recursos financeiros às Caixas Escolares da Rede Municipal de Educação.
+
+O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em especial as que lhe confere o inciso VII do art. 108 da Lei Orgânica do Município, decreta:
+
+**Art. 1º** - Ficam destinados às Caixas Escolares os recursos previstos no orçamento aprovado pela Lei nº 9.802, de 30 de dezembro de 2009, de acordo com o Anexo Único deste Decreto.
+
+**Art. 2º** - Os recursos destinam-se, especificamente, ao custeio da aquisição, de kit de uniforme escolar para os estudantes da Educação Infantil, Ensino Fundamental diurno e noturno (1º, 2º e 3º ciclos) e Programa Floração.
+
+**Art. 3º** - As Caixas Escolares prestarão contas dos recursos recebidos, conforme as exigências contidas na Lei nº 3.726, de 20 de março de 1984, na Resolução SMED nº 001, de 24 de dezembro de 2008, e na Portaria que disporá sobre os critérios para aquisição e pagamento do custeio de uniformes escolares para os estudantes das Escolas Municipais, a ser publicada pela Secretaria Municipal de Educação.
+
+**Art. 4º** - As Secretarias Municipais de Finanças e de Educação deverão adotar as providências necessárias à execução deste Decreto.
+
+**Art. 5º** - Este decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 22 de dezembro de 2010
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
+
+Paulo de Souza Duarte
+
+Secretário Municipal Adjunto do Tesouro
+
+Macaé Maria Evaristo
+
+Secretária Municipal de Educação
+
+|ANEXO ÚNICO – SUBVENÇÃO DE PROMOÇÃO AO EDUCANDO – UNIFORME ESCOLAR |
+
+|Nº |CAIXA ESCOLAR DA EM |REGIONAL |VALOR |
+
+|1 |AIRES DA MATA MACHADO |Barreiro |181.620,00 |
+
+|2 |AIRES DA MATA MACHADO - UMEI JATOBÁ IV |Barreiro |30.420,00 |
+
+|3 |ANA ALVES TEIXEIRA |Barreiro |183.060,00 |
+
+|4 |ANA ALVES TEIXEIRA - UMEI SOL NASCENTE |Barreiro |46.440,00 |
+
+|5 |ANTÔNIO ALEIXO |Barreiro |63.900,00 |
+
+|6 |ANTÔNIO MOURÃO GUIMARÃES |Barreiro |128.340,00 |
+
+|7 |ANTÔNIO MOURÃO GUIMARÃES - UMEI CARDOSO |Barreiro |47.880,00 |
+
+|8 |ANTÔNIO SALLES BARBOSA |Barreiro |158.400,00 |
+
+|9 |AURÉLIO BUARQUE DE HOLANDA |Barreiro |156.060,00 |
+
+|10 |CIAC - LUCAS MONTEIRO MACHADO |Barreiro |171.540,00 |
+
+|11 |CIAC - LUCAS MONTEIRO MACHADO - UMEI LUCAS MONTEIRO MACHADO |Barreiro |41.580,00 |
+
+|12 |CÔNEGO SEQUEIRA |Barreiro |269.820,00 |
+
+|13 |DA VILA PINHO |Barreiro |153.000,00 |
+
+|14 |DA VILA PINHO - UMEI ÁGUAS CLARAS |Barreiro |44.100,00 |
+
+|15 |DINORAH MAGALHÃES FABRI |Barreiro |188.100,00 |
+
+|16 |DINORAH MAGALHÃES FABRI - UMEI JOSÉ ISIDORO FILHO |Barreiro |31.500,00 |
+
+|17 |DULCE MARIA HOMEM |Barreiro |109.620,00 |
+
+|18 |DULCE MARIA HOMEM - UMEI MIRAMAR |Barreiro |31.500,00 |
+
+|19 |EDITH PIMENTA DA VEIGA |Barreiro |166.500,00 |
+
+|20 |ELOY HERALDO LIMA |Barreiro |195.300,00 |
+
+|21 |HELENA ANTIPOFF |Barreiro |189.180,00 |
+
+|22 |JONAS BARCELLOS CORRÊA |Barreiro |211.680,00 |
+
+|23 |LUIZ GATTI |Barreiro |118.440,00 |
+
+|24 |LUIZ GONZAGA JÚNIOR |Barreiro |125.820,00 |
+
+|25 |PADRE FLÁVIO GIAMMETTA |Barreiro |169.560,00 |
+
+|26 |PEDRO ALEIXO |Barreiro |270.540,00 |
+
+|27 |PEDRO NAVA |Barreiro |155.880,00 |
+
+|28 |PEDRO NAVA - Educação Infantil |Barreiro |28.620,00 |
+
+|29 |PEDRO NAVA - UMEI PILAR OLHOS D'ÁGUA |Barreiro |23.220,00 |
+
+|30 |PROFESSOR HILTON ROCHA |Barreiro |134.640,00 |
+
+|31 |PROFESSOR HILTON ROCHA - UMEI BAIRRO MANGUEIRAS |Barreiro |47.340,00 |
+
+|32 |PROFESSOR JOSÉ BRAZ |Barreiro |41.760,00 |
+
+|33 |PROFESSOR MELLO CANÇADO |Barreiro |135.540,00 |
+
+|34 |PROFESSORA ISAURA SANTOS |Barreiro |138.600,00 |
+
+|35 |SEBASTIÃO GUILHERME DE OLIVEIRA |Barreiro |128.340,00 |
+
+|36 |UNIÃO COMUNITÁRIA |Barreiro |121.140,00 |
+
+|37 |UNIÃO COMUNITÁRIA – Educação Infantil |Barreiro |8.280,00 |
+
+|38 |VINÍCIUS DE MORAIS |Barreiro |160.380,00 |
+
+|TOTAL REGIONAL BARREIRO |4.607.640,00 |
+
+|39 |PRESIDENTE JOÃO PESSOA |Centro-Sul |65.340,00 |
+
+|40 |BENJAMIN JACOB |Centro-Sul |81.360,00 |
+
+|41 |BENJAMIN JACOB - Educação Infantil |Centro-Sul |7.020,00 |
+
+|42 |CAIO LÍBANO SOARES |Centro-Sul |13.500,00 |
+
+|43 |IMACO |Centro-Sul |120.780,00 |
+
+|44 |MARCONI |Centro-Sul |113.940,00 |
+
+|45 |MARCONI – UMEI TIMBIRAS |Centro-Sul |79.200,00 |
+
+|46 |MESTRE PARANHOS |Centro-Sul |131.400,00 |
+
+|47 |MESTRE PARANHOS – UMEI LUXEMBURGO |Centro-Sul |29.520,00 |
+
+|48 |PADRE GUILHERME PETERS |Centro-Sul |75.420,00 |
+
+|49 |PADRE GUILHERME PETERS – UMEI VILA CONCEIÇÃO |Centro-Sul |35.640,00 |
+
+|50 |PAULO MENDES CAMPOS |Centro-Sul |72.360,00 |
+
+|51 |PROFESSOR EDSON PISANI |Centro-Sul |116.100,00 |
+
+|52 |PROFESSOR EDSON PISANI – UMEI SANTA ISABEL |Centro-Sul |23.220,00 |
+
+|53 |PROFESSOR EDSON PISANI – UMEI SÃO JOÃO |Centro-Sul |44.820,00 |
+
+|54 |SANTO ANTÔNIO |Centro-Sul |21.960,00 |
+
+|55 |SENADOR LEVINDO COELHO |Centro-Sul |176.400,00 |
+
+|56 |SENADOR LEVINDO COELHO – UMEI PADRE TARCÍSIO |Centro-Sul |40.140,00 |
+
+|57 |ULYSSES GUIMARÃES |Centro-Sul |91.980,00 |
+
+|58 |ULYSSES GUIMARÃES - Educação Infantil |Centro-Sul |13.500,00 |
+
+|59 |ULYSSES GUIMARÃES – UMEI MARTA NAIR MONTEIRO |Centro-Sul |16.560,00 |
+
+|TOTAL REGIONAL CENTRO-SUL |1.370.160,00 |
+
+|60 |EMÍDIO BERUTTO |Leste |169.020,00 |
+
+|61 |EMÍDIO BERUTTO - Educação Infantil |Leste |12.600,00 |
+
+|62 |FERNANDO DIAS COSTA |Leste |208.260,00 |
+
+|63 |FERNANDO DIAS COSTA – UMEI TAQUARIL |Leste |41.220,00 |
+
+|64 |GEORGE RICARDO SALUM |Leste |170.280,00 |
+
+|65 |ISRAEL PINHEIRO |Leste |174.780,00 |
+
+|66 |ISRAEL PINHEIRO - Educação Infantil |Leste |27.000,00 |
+
+|67 |LEVINDO LOPES |Leste |82.440,00 |
+
+|68 |LEVINDO LOPES - Educação Infantil |Leste |27.180,00 |
+
+|69 |LEVINDO LOPES – UMEI PARAÍSO |Leste |37.080,00 |
+
+|70 |MARIA DAS NEVES |Leste |48.780,00 |
+
+|71 |MONSENHOR JOÃO RODRIGUES DE OLIVEIRA |Leste |122.040,00 |
+
+|72 |PADRE FRANCISCO CARVALHO MOREIRA |Leste |149.940,00 |
+
+|73 |PADRE FRANCISCO CARVALHO MOREIRA - Educação Infantil |Leste |10.800,00 |
+
+|74 |PROFESSOR DOMICIANO VIEIRA |Leste |79.380,00 |
+
+|75 |PROFESSOR LOURENÇO DE OLIVEIRA |Leste |97.920,00 |
+
+|76 |PROFESSORA ALCIDA TORRES |Leste |179.280,00 |
+
+|77 |PROFESSORA ALCIDA TORRES – UMEI GRANJA DE FREITAS |Leste |38.160,00 |
+
+|78 |PROFESSORA MARÍLIA TANURE PEREIRA |Leste |75.240,00 |
+
+|79 |SANTOS DUMONT |Leste |193.680,00 |
+
+|80 |SÃO RAFAEL |Leste |97.740,00 |
+
+|81 |THEOMAR DE CASTRO ESPÍNDOLA |Leste |40.860,00 |
+
+|82 |THEOMAR DE CASTRO ESPÍNDOLA - Educação Infantil |Leste |19.260,00 |
+
+|83 |VILA FAZENDINHA |Leste |145.980,00 |
+
+|84 |WLADIMIR DE PAULA GOMES |Leste |152.280,00 |
+
+|85 |WLADIMIR DE PAULA GOMES – UMEI CAETANO FURQUIM |Leste |42.660,00 |
+
+|86 |DR. JÚLIO SOARES |Leste |81.000,00 |
+
+|TOTAL REGIONAL LESTE |2.524.860,00 |
+
+|87 |AGENOR ALVES DE CARVALHO |Nordeste |200.160,00 |
+
+|88 |AMÉRICO RENÊ GIANNETTI |Nordeste |69.480,00 |
+
+|89 |AMÉRICO RENÊ GIANNETTI - Educação Infantil |Nordeste |35.640,00 |
+
+|90 |AMÉRICO RENÊ GIANNETTI – UMEI CACHOEIRINHA |Nordeste |25.200,00 |
+
+|91 |ANÍSIO TEIXEIRA |Nordeste |196.020,00 |
+
+|92 |ELOS |Nordeste |44.820,00 |
+
+|93 |FRANCISCO AZEVEDO |Nordeste |45.360,00 |
+
+|94 |FRANCISCO BRESSANE DE AZEVEDO |Nordeste |100.440,00 |
+
+|95 |GOVERNADOR CARLOS LACERDA |Nordeste |215.820,00 |
+
+|96 |GOVERNADOR OZANAM COELHO |Nordeste |118.440,00 |
+
+|97 |GOVERNADOR OZANAM COELHO – UMEI CAPITÃO EDUARDO |Nordeste |23.580,00 |
+
+|98 |HENRIQUETA LISBOA |Nordeste |105.300,00 |
+
+|99 |HENRIQUETA LISBOA - Educação Infantil |Nordeste |33.120,00 |
+
+|100 |HONORINA RABELLO |Nordeste |122.940,00 |
+
+|101 |HONORINA RABELLO - Educação Infantil |Nordeste |20.160,00 |
+
+|102 |HUGO PINHEIRO SOARES |Nordeste |87.660,00 |
+
+|103 |JOSÉ DE CALASANZ |Nordeste |121.320,00 |
+
+|104 |JOSÉ DE CALASANZ - Educação Infantil |Nordeste |29.340,00 |
+
+|105 |MARIA DA ASSUNÇÃO DE MARCO |Nordeste |113.220,00 |
+
+|106 |MONTEIRO LOBATO |Nordeste |30.240,00 |
+
+|107 |MONTEIRO LOBATO - Educação Infantil |Nordeste |22.320,00 |
+
+|108 |MURILO RUBIÃO |Nordeste |223.200,00 |
+
+|109 |OSWALDO FRANÇA JÚNIOR |Nordeste |183.240,00 |
+
+|110 |OSWALDO FRANÇA JÚNIOR – UMEI SÃO GABRIEL |Nordeste |46.260,00 |
+
+|111 |PÉRSIO PEREIRA PINTO |Nordeste |73.440,00 |
+
+|112 |PREFEITO SOUZA LIMA |Nordeste |149.760,00 |
+
+|113 |PREFEITO SOUZA LIMA – UMEI JARDIM VITÓRIA |Nordeste |46.080,00 |
+
+|114 |PROFESSOR EDGAR DA MATTA MACHADO |Nordeste |173.700,00 |
+
+|115 |PROFESSOR EDGAR DA MATTA MACHADO – UMEI CAVALINHO DE PAU |Nordeste |34.920,00 |
+
+|116 |PROFESSOR MILTON LAGE |Nordeste |109.620,00 |
+
+|117 |PROFESSOR PAULO FREIRE |Nordeste |113.400,00 |
+
+|118 |PROFESSOR PAULO FREIRE – UMEI BAIRRO RIBEIRO DE ABREU |Nordeste |32.040,00 |
+
+|119 |PROFESSORA ACIDÁLIA LOTT |Nordeste |225.720,00 |
+
+|120 |PROFESSORA ACIDÁLIA LOTT – UMEI PAULO VI |Nordeste |48.600,00 |
+
+|121 |PROFESSORA CONSUELITA CÂNDIDA |Nordeste |113.220,00 |
+
+|122 |PROFESSORA CONSUELITA CÂNDIDA – UMEI OURO MINAS |Nordeste |55.800,00 |
+
+|123 |PROFESSORA ELEONORA PIERUCCETTI |Nordeste |166.680,00 |
+
+|124 |PROFESSORA HELENA ABDALLA |Nordeste |162.720,00 |
+
+|125 |PROFESSORA MARIA MAZARELLO |Nordeste |127.080,00 |
+
+|126 |PROFESSORA MARIA MODESTA CRAVO |Nordeste |185.580,00 |
+
+|127 |RENASCENÇA |Nordeste |29.520,00 |
+
+|128 |RENASCENÇA – UMEI SANTA CRUZ |Nordeste |55.980,00 |
+
+|129 |SOBRAL PINTO |Nordeste |75.960,00 |
+
+|130 |SOBRAL PINTO – UMEI COQUEIRO VERDE |Nordeste |25.740,00 |
+
+|TOTAL REGIONAL NORDESTE |4.218.840,00 |
+
+|131 |ARTHUR GUIMARÃES |Noroeste |117.540,00 |
+
+|132 |ARTHUR GUIMARÃES - Educação Infantil |Noroeste |14.580,00 |
+
+|133 |ARTHUR GUIMARÃES – UMEI CARLOS PRATES |Noroeste |14.400,00 |
+
+|134 |AUGUSTA MEDEIROS |Noroeste |140.760,00 |
+
+|135 |BELO HORIZONTE |Noroeste |73.800,00 |
+
+|136 |CARLOS GÓIS |Noroeste |58.140,00 |
+
+|137 |CORNÉLIO VAZ DE MELO |Noroeste |37.440,00 |
+
+|138 |DOM BOSCO |Noroeste |161.640,00 |
+
+|139 |DOM BOSCO – UMEI PITUCHINHA |Noroeste |64.620,00 |
+
+|140 |DOM JAIME DE BARROS CÂMARA |Noroeste |73.620,00 |
+
+|141 |DR. JOSÉ DIOGO DE ALMEIDA MAGALHÃES |Noroeste |40.680,00 |
+
+|142 |DR. JOSÉ DIOGO DE ALMEIDA MAGALHÃES – UMEI PEDREIRA PRADO LOPES |Noroeste |17.460,00 |
+
+|143 |HONORINA DE BARROS |Noroeste |82.440,00 |
+
+|144 |IGNÁCIO DE ANDRADE MELO |Noroeste |108.900,00 |
+
+|145 |JOÃO PINHEIRO |Noroeste |130.680,00 |
+
+|146 |JOÃO PINHEIRO - Educação Infantil |Noroeste |20.880,00 |
+
+|147 |JÚLIA PARAÍSO |Noroeste |188.100,00 |
+
+|148 |JÚLIA PARAÍSO – UMEI PINDORAMA |Noroeste |43.560,00 |
+
+|149 |LUIGI TONIOLO |Noroeste |189.900,00 |
+
+|150 |LUIGI TONIOLO – UMEI VILA ANTENA |Noroeste |27.720,00 |
+
+|151 |MARIA DA GLÓRIA LOMMEZ |Noroeste |31.320,00 |
+
+|152 |MARIA DA GLÓRIA LOMMEZ – UMEI VILA SENHOR DOS PASSOS |Noroeste |17.820,00 |
+
+|153 |MARIA DE REZENDE COSTA |Noroeste |181.080,00 |
+
+|154 |MARLENE PEREIRA RANCANTE |Noroeste |153.360,00 |
+
+|155 |MONSENHOR ARTUR DE OLIVEIRA |Noroeste |111.960,00 |
+
+|156 |NOSSA SENHORA DO AMPARO |Noroeste |90.360,00 |
+
+|157 |NOSSA SENHORA DO AMPARO – UMEI SÃO VICENTE |Noroeste |27.720,00 |
+
+|158 |PADRE EDEIMAR MASSOTE |Noroeste |87.840,00 |
+
+|159 |PADRE EDEIMAR MASSOTE - Educação Infantil |Noroeste |44.820,00 |
+
+|160 |PREFEITO OSWALDO PIERUCCETTI |Noroeste |81.900,00 |
+
+|161 |PREFEITO OSWALDO PIERUCCETTI - Educação Infantil |Noroeste |22.140,00 |
+
+|162 |PROFESSOR CLÁUDIO BRANDÃO |Noroeste |33.120,00 |
+
+|163 |PROFESSOR CLÁUDIO BRANDÃO - Educação Infantil |Noroeste |22.680,00 |
+
+|164 |PROFESSOR JOÃO CAMILO DE OLIVEIRA TORRES |Noroeste |102.420,00 |
+
+|165 |PROFESSOR MÁRIO WERNECK |Noroeste |118.260,00 |
+
+|166 |PROFESSOR MÁRIO WERNECK – UMEI SANTA MARIA |Noroeste |46.620,00 |
+
+|TOTAL REGIONAL NOROESTE |2.780.280,00 |
+
+|167 |ACADÊMICO VIVALDI MOREIRA |Norte |169.200,00 |
+
+|168 |ACADÊMICO VIVALDI MOREIRA - Educação Infantil |Norte |15.660,00 |
+
+|169 |ACADÊMICO VIVALDI MOREIRA – UMEI JULIANA |Norte |43.380,00 |
+
+|170 |CÔNSUL ANTÔNIO CADAR |Norte |162.900,00 |
+
+|171 |DESEMBARGADOR LORETO RIBEIRO DE ABREU |Norte |109.440,00 |
+
+|172 |DESEMBARGADOR LORETO RIBEIRO DE ABREU - Educação Infantil |Norte |13.680,00 |
+
+|173 |FLORESTAN FERNANDES |Norte |169.560,00 |
+
+|174 |FRANCISCO CAMPOS |Norte |178.740,00 |
+
+|175 |FRANCISCO MAGALHÃES GOMES |Norte |163.980,00 |
+
+|176 |FRANCISCO MAGALHÃES GOMES - Educação Infantil |Norte |28.980,00 |
+
+|177 |HÉLIO PELLEGRINO |Norte |161.640,00 |
+
+|178 |HÉLIO PELLEGRINO – UMEI AARÃO REIS |Norte |46.080,00 |
+
+|179 |HEBERT JOSÉ DE SOUZA |Norte |214.020,00 |
+
+|180 |HEBERT JOSÉ DE SOUZA – UMEI BETINHO |Norte |45.540,00 |
+
+|181 |HILDA RABELLO MATTA |Norte |181.080,00 |
+
+|182 |JARDIM FELICIDADE |Norte |120.600,00 |
+
+|183 |JARDIM FELICIDADE - Educação Infantil |Norte |22.500,00 |
+
+|184 |JARDIM FELICIDADE – UMEI BAIRRO JARDIM GUANABARA |Norte |44.460,00 |
+
+|185 |JOSÉ MARIA DOS MARES GUIA |Norte |149.220,00 |
+
+|186 |JOSÉ MARIA DOS MARES GUIA – UMEI BAIRRO HELIÓPOLIS |Norte |44.640,00 |
+
+|187 |JOSEFINA SOUZA LIMA |Norte |111.780,00 |
+
+|188 |JOSEFINA SOUZA LIMA - Educação Infantil |Norte |8.100,00 |
+
+|189 |JOSEFINA SOUZA LIMA – UMEI PRIMEIRO DE MAIO |Norte |39.240,00 |
+
+|190 |MARIA SILVEIRA |Norte |115.020,00 |
+
+|191 |MARIA SILVEIRA – UMEI SÃO BERNARDO |Norte |43.200,00 |
+
+|192 |MINERVINA AUGUSTA |Norte |80.640,00 |
+
+|193 |MINERVINA AUGUSTA – UMEI MARIQUINHAS |Norte |35.640,00 |
+
+|194 |PROFESSOR DANIEL ALVARENGA |Norte |121.860,00 |
+
+|195 |PROFESSOR DANIEL ALVARENGA – UMEI ZILAH SPÓSITO |Norte |79.200,00 |
+
+|196 |RUI DA COSTA VAL |Norte |125.280,00 |
+
+|197 |SEBASTIANA NOVAIS |Norte |135.720,00 |
+
+|198 |SECRETÁRIO HUMBERTO ALMEIDA |Norte |148.860,00 |
+
+|199 |TRISTÃO DA CUNHA |Norte |128.520,00 |
+
+|TOTAL REGIONAL NORTE |3.258.360,00 |
+
+|200 |DE ENSINO ESPECIAL FREI LEOPOLDO |Oeste |13.680,00 |
+
+|201 |DEPUTADO MILTON SALLES |Oeste |179.100,00 |
+
+|202 |FRANCISCA DE PAULA |Oeste |195.480,00 |
+
+|203 |FRANCISCA DE PAULA – Educação Infantil |Oeste |8.640,00 |
+
+|204 |HUGO WERNECK |Oeste |124.200,00 |
+
+|205 |HUGO WERNECK – UMEI BAIRRO GRAJAÚ |Oeste |20.520,00 |
+
+|206 |JOÃO DO PATROCÍNIO |Oeste |108.540,00 |
+
+|207 |MAGALHÃES DRUMOND |Oeste |87.300,00 |
+
+|208 |MARIA SALES FERREIRA |Oeste |76.320,00 |
+
+|209 |MARIA SALES FERREIRA – UMEI GAMELEIRA |Oeste |41.040,00 |
+
+|210 |MESTRE ATAÍDE |Oeste |95.220,00 |
+
+|211 |OSWALDO CRUZ |Oeste |68.040,00 |
+
+|212 |PADRE HENRIQUE BRANDÃO |Oeste |235.980,00 |
+
+|213 |PREFEITO AMINTHAS DE BARROS |Oeste |153.720,00 |
+
+|214 |PREFEITO AMINTHAS DE BARROS - Educação Infantil |Oeste |19.440,00 |
+
+|215 |PREFEITO AMINTHAS DE BARROS – UMEI CAC HAVAÍ |Oeste |25.740,00 |
+
+|216 |PROFESSOR CHRISTOVAM COLOMBO DOS SANTOS |Oeste |63.720,00 |
+
+|217 |PROFESSORA EFIGÊNIA VIDIGAL |Oeste |162.180,00 |
+
+|218 |PROFESSORA EFIGÊNIA VIDIGAL - Educação Infantil |Oeste |9.000,00 |
+
+|219 |SALGADO FILHO |Oeste |120.240,00 |
+
+|220 |TENENTE MANOEL MAGALHÃES PENIDO |Oeste |97.920,00 |
+
+|TOTAL REGIONAL OESTE |1.906.020,00 |
+
+|221 |ANNE FRANK |Pampulha |153.720,00 |
+
+|222 |AURÉLIO PIRES |Pampulha |140.220,00 |
+
+|223 |CARMELITA CARVALHO GARCIA |Pampulha |130.860,00 |
+
+|224 |CARMELITA CARVALHO GARCIA - Educação Infantil |Pampulha |27.180,00 |
+
+|225 |DOM ORIONE |Pampulha |164.520,00 |
+
+|226 |FRANCISCA ALVES |Pampulha |120.060,00 |
+
+|227 |HENFIL |Pampulha |38.160,00 |
+
+|228 |HENFIL – UMEI ALAÍDE LISBOA |Pampulha |70.200,00 |
+
+|229 |JOSÉ MADUREIRA HORTA - SEDE |Pampulha |113.580,00 |
+
+|230 |JOSÉ MADUREIRA HORTA - ANEXO |Pampulha |68.760,00 |
+
+|231 |LÍDIA ANGÉLICA |Pampulha |185.580,00 |
+
+|232 |MARIA DE MAGALHÃES PINTO |Pampulha |179.100,00 |
+
+|233 |MARIA DE MAGALHÃES PINTO – UMEI ITATIAIA |Pampulha |75.420,00 |
+
+|234 |PROFESSOR AMILCAR MARTINS |Pampulha |141.300,00 |
+
+|235 |PROFESSORA ALICE NACIF |Pampulha |157.860,00 |
+
+|236 |SANTA TEREZINHA |Pampulha |159.120,00 |
+
+|237 |SANTA TEREZINHA – UMEI CASTELO |Pampulha |46.080,00 |
+
+|TOTAL REGIONAL PAMPULHA |1.971.720,00 |
+
+|238 |ADAUTO LÚCIO CARDOSO |Venda Nova |181.620,00 |
+
+|239 |ALESSANDRA SALUM CADAR |Venda Nova |45.180,00 |
+
+|240 |ALESSANDRA SALUM CADAR – UMEI PARAÚNA |Venda Nova |46.980,00 |
+
+|241 |ANTÔNIA FERREIRA |Venda Nova |185.760,00 |
+
+|242 |ANTÔNIO GOMES HORTA |Venda Nova |85.320,00 |
+
+|243 |ANTÔNIO GOMES HORTA – UMEI ITAMARATI |Venda Nova |79.200,00 |
+
+|244 |ARMANDO ZILLER |Venda Nova |153.000,00 |
+
+|245 |CARLOS DRUMMOND DE ANDRADE |Venda Nova |54.000,00 |
+
+|246 |CÔNEGO RAIMUNDO TRINDADE |Venda Nova |181.620,00 |
+
+|247 |CORA CORALINA |Venda Nova |195.300,00 |
+
+|248 |DE ENSINO ESPECIAL VENDA NOVA |Venda Nova |20.160,00 |
+
+|249 |DEPUTADO RENATO AZEREDO |Venda Nova |130.860,00 |
+
+|250 |DORA TOMICH LAENDER |Venda Nova |120.060,00 |
+
+|251 |DR. JOSÉ XAVIER NOGUEIRA |Venda Nova |133.560,00 |
+
+|252 |DR. JOSÉ XAVIER NOGUEIRA - Educação Infantil |Venda Nova |31.320,00 |
+
+|253 |ELISA BUZELIN |Venda Nova |137.160,00 |
+
+|254 |ELISA BUZELIN – UMEI VILA APOLÔNIA |Venda Nova |26.280,00 |
+
+|255 |GERALDO TEIXEIRA DA COSTA |Venda Nova |131.040,00 |
+
+|256 |GRACY VIANNA LAGE |Venda Nova |165.960,00 |
+
+|257 |JOAQUIM DOS SANTOS |Venda Nova |224.640,00 |
+
+|258 |JOSÉ MARIA ALKIMIM |Venda Nova |190.620,00 |
+
+|259 |MÁRIO MOURÃO FILHO |Venda Nova |136.080,00 |
+
+|260 |MILTON CAMPOS |Venda Nova |192.960,00 |
+
+|261 |MÍRIAM BRANDÃO |Venda Nova |75.060,00 |
+
+|262 |MÍRIAM BRANDÃO – UMEI CÉU AZUL |Venda Nova |25.020,00 |
+
+|263 |MOYSÉS KALIL |Venda Nova |269.280,00 |
+
+|264 |PADRE MARZANO MATIAS |Venda Nova |173.160,00 |
+
+|265 |PRESIDENTE TANCREDO NEVES |Venda Nova |98.100,00 |
+
+|266 |PROFESSOR MOACYR ANDRADE |Venda Nova |217.260,00 |
+
+|267 |PROFESSOR PEDRO GUERRA |Venda Nova |120.240,00 |
+
+|268 |PROFESSOR TABAJARA PEDROSO |Venda Nova |47.520,00 |
+
+|269 |PROFESSORA ONDINA NOBRE |Venda Nova |149.400,00 |
+
+|270 |TANCREDO PHÍDEAS GUIMARÃES |Venda Nova |89.280,00 |
+
+|271 |VEREADOR ANTÔNIO MENEZES |Venda Nova |55.080,00 |
+
+|272 |VEREADOR ANTÔNIO MENEZES – UMEI JARDIM LEBLON |Venda Nova |17.100,00 |
+
+|273 |VICENTE GUIMARÃES |Venda Nova |215.820,00 |
+
+|274 |DO BAIRRO VISCONDE DO RIO BRANCO |Venda Nova |80.640,00 |
+
+|TOTAL REGIONAL VENDA NOVA |4.481.640,00 |
+
+|TOTAL GERAL |27.119.520,00 |

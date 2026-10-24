@@ -1,0 +1,51 @@
+---
+titulo: "Decreto nº 14956/2012"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "14956"
+data: ""
+data_publicacao: ""
+ementa: "Altera o Decreto nº 14.633/2011, que declara de utilidade pública, para fins de desapropriação, imóvel situado no Bairro Nova Cintra, nesta Capital."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76386dedad01387af6bfbc0050"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/14956/2012"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76386dedad01387afdb7b5005a"
+id_documento: "2c907f76386dedad01387afdb7b5005a"
+sha256_fonte: "21e760b8b67ae20dce56d4dc211ffc7f15452fd7557e11a01a31bec23919b805"
+baixado_em: "2026-10-23"
+---
+
+# Decreto nº 14956/2012
+
+DECRETO Nº 14.956, DE 11 DE JULHO DE 2012
+
+Altera o Decreto nº 14.633/2011, que declara de utilidade pública, para fins de desapropriação, imóvel situado no Bairro Nova Cintra, nesta Capital.
+
+O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em especial a que lhe confere o inciso VII do art. 108 da Lei Orgânica do Município e de acordo com o que lhe faculta o Decreto-Lei Federal nº 3.365, de 21 de junho de 1941, decreta:
+
+**Art. 1o** - O art. 1º do Decreto nº 14.633, de 09 de novembro de 2011, passa a vigorar com a seguinte redação:
+
+“Art. 1º - Fica declarado de utilidade pública, para fins de desapropriação, de seu pleno domínio, a se efetivar mediante acordo ou judicialmente, as áreas abaixo identificadas, localizadas no Bairro Nova Cintra, com os seguintes limites e confrontações:
+
+I - partindo-se do vértice P1 localizado no terreno indiviso, com coordenadas E=605.517,765 e N=7.794.218,947, seguindo com azimute 141º19’49” e distância 9,41m, confrontando com o terreno indiviso, chega-se ao vértice P2 com coordenadas E=605.523,644 e N=7.794.211,602. Deste com azimute de 139º38’37” e distância 8,55m, confrontando com o terreno indiviso, chega-se ao vértice P3 com coordenadas E=605.529,178 e N=7.794.205,090. Deste com azimute de 143º53’06” e distância 3,02m, confrontando com o terreno indiviso, chega-se ao vértice P4 com coordenadas E=605.530,960 e N=7.794.202,647. Deste com azimute de 141º01’57” e distância 10,89m, confrontando com o terreno indiviso, chega-se ao vértice P5 com coordenadas E=605.537,807 e N=7.794.194,182. Deste com azimute de 231º18’51” e distância 7,56m, faceando a Rua Tupan, chega-se ao vértice P6 com coordenadas E=605.531,903 e N=7.794.189,455. Deste com azimute de 322º15’39” e distância 10,08m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P7 com coordenadas E=605.525,734 e N=7.794.197,425. Deste com azimute de 320º43’20” e distância 5,09m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P8 com coordenadas E=605.522,510 e N=7.794.201,368. Deste com azimute de 320º43’20” e distância 3,00m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P9 com coordenadas E=605.520,611 e N=7.794.203,689. Deste com azimute de 322º11’18” e distância 14,41m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P10 com coordenadas E=605.511,775 e N=7.794.215,076. Deste com azimute de 57º07’30” e distância 7,13m, confrontando com o terreno indiviso, chega-se ao vértice P1, ponto origem deste memorial, perfazendo uma área total de 236,93m²;
+
+II - partindo-se do vértice P6 localizado na face da Rua Tupan, com coordenadas E=605.531,903 e N=7.794.189,455, seguindo com azimute 231º18’51” e distância 7,43m, faceando com a Rua Tupan, chega-se ao vértice P11 com coordenadas E=605.526,107 e N=7.794.184,813. Deste com azimute de 322º12’27” e distância 7,15m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P12 com coordenadas E=605.521,727 e N=7.794.190,461. Deste com azimute de 320º43’39” e distância 6,98m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P13 com coordenadas E=605.517,311 e N=7.794.195,861. Deste com azimute de 322º17’08” e distância 0,97m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P14 com coordenadas E=605.516,715 e N=7.794.196,632. Deste com azimute de 50º43’20” e distância 7,48m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P8 com coordenadas E=605.522,508 e N=7.794.201,370. Deste com azimute de 140º43’20” e distância 5,10m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P7 com coordenadas E=605.525,734 e N=7.794.197,425. Deste com azimute de 142º15’39” e distância 10,08m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P6, ponto origem deste memorial, perfazendo uma área total de 112,97m²;
+
+III - partindo-se do vértice P8 localizado na área a ser desapropriada do terreno indiviso, com coordenadas E=605.522,510 e N=7.794.201,368, seguindo com azimute 230º44’37” e distância 7,48m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P14 com coordenadas E=605.516,715 e N=7.794.196,632. Deste com azimute de 322º17’08” e distância 8,68m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice p15 com coordenadas E=605.511,404 e N=7.794.203,500. Deste com azimute de 319º04’06” e distância 9,62m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P16 com coordenadas E=605.505,104 e N=7.794.210,765. Deste com azimute de 57º07’30” e distância 7,94m, confrontando com terreno indiviso, chega-se ao vértice P10 com coordenadas E=605.511,775 e N=7.794.215,076. Deste com azimute de 142º11’18” e distância 14,41m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P9 com coordenadas E=605.520,611 e N=7.794.203,689. Deste com azimute de 140º43’20” e distância 3,00m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P8, ponto origem deste memorial, perfazendo uma área total de 134,40m²;
+
+IV - partindo-se do vértice P11 localizado na face da Rua Tupan, com coordenadas E=605.526,107 e N=7.794.184,813, seguindo com azimute 233º25’12” e distância 6,22m, faceando a Rua Tupan, chega-se ao vértice P17 com coordenadas E=605.521,112 e N=7.794.181,106. Deste com azimute de 230º11’04” e distância 6,42m, faceando a Rua Tupan, chega-se ao vértice P18 com coordenadas E=605.516,177 e N=7.794.176,992. Deste com azimute de 232º36’13” e distância 1,17m, faceando a Rua Tupan, chega-se ao vértice P19 com coordenadas E=605.515,247 e N=7.794.176,281. Deste com azimute de 323º51’01” e distância 34,52m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P20 com coordenadas E=605.494,882 e N=7.794.204,158. Deste com azimute de 57º07’30” e distância 12,17m, confrontando com terreno indiviso, chega-se ao vértice P16 com coordenadas E=605.505,104 e N=7.794.210,765. Deste com azimute de 139º04’06” e distância 9,62m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P15 com coordenadas E=605.511,404 e N=7.794.203,500. Deste com azimute de 142º17’08” e distância 8,68m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P14 com coordenadas E=605.516,715 e N=7.794.196,632. Deste com azimute de 142º17’08” e distância 0,97m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P13 com coordenadas E=605.517,311 e N=7.794.195,861. Deste com azimute de 140º43’39” e distância 6,98m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P12 com coordenadas E=605.521,727 e N=7.794.190,461. Deste com azimute de 142º12’27” e distância 7,15m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P11, ponto origem deste memorial, perfazendo uma área total de 444,38m²;
+
+V - partindo-se do vértice P19 localizado na face da Rua Tupan, com coordenadas E=605.515,247 e N=7.794.176,281, seguindo com azimute 232º36’13” e distância 9,70m, faceando a Rua Tupan, chega-se ao vértice P21 com coordenadas E=605.507,541 e N=7.794.170,390. Deste com azimute de 325º09’23” e distância 35,25m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P22 com coordenadas E=605.487,400 e N=7.794.199,322. Deste com azimute de 57º07’30” e distância 8,91m, confrontando com terreno indiviso, chega-se ao vértice P20 com coordenadas E=605.494,882 e N=7.794.204,158. Deste com azimute de 143º51’01” e distância 34,52m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P19, ponto origem deste memorial, perfazendo uma área total de 324,33m²;
+
+VI - partindo-se do vértice P21 localizado na face da Rua Tupan, com coordenadas E=605.507,541 e N=7.794.170,390, seguindo com azimute 232º36’13” e distância 29,97m, faceando com Rua Tupan, chega-se ao vértice P23 com coordenadas E=605.483,734 e N=7.794.152,191. Deste com azimute de 326º28’01” e distância 15,74m, confrontando com terreno indiviso, chega-se ao vértice P24 com coordenadas E=605.475,040 e N=7.794.165,311. Deste com azimute de 326º58’13” e distância 22,35m, confrontando com terreno indiviso, chega-se ao vértice P25 com coordenadas E=605.462,856 e N=7.794.184,051. Deste com azimute de 58º05’28” e distância 2,28m, confrontando com terreno indiviso, chega-se ao vértice P26 com coordenadas E=605.464,796 e N=7.794.185,259. Deste com azimute de 59º20’47” e distância 11,83m, confrontando com terreno indiviso, chega-se ao vértice P27 com coordenadas E=605.474,973 e N=7.794.191,290. Deste com azimute de 57º07’30” e distância 14,80m, confrontando com terreno indiviso, chega-se ao vértice P22 com coordenadas E=605.487,400 e N=7.794.199,322. Deste com azimute de 145º09’23” e distância 35,25m, confrontando com área a ser desapropriada do terreno indiviso, chega-se ao vértice P21, ponto origem deste memorial, perfazendo uma área total de 1.076,22m².”. (NR)
+
+**Art. 2o** - Este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 11 de julho de 2012
+
+Marcio Araujo de Lacerda
+
+Prefeito de Belo Horizonte
