@@ -1,0 +1,66 @@
+---
+titulo: "Lei Ordinária nº 8293, de 08/06/2017"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8293"
+data: "2017-06-08"
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR NA SECRETARIA MUNICIPAL DE EDUCAÇÃO, NA SECRETARIA MUNICIPAL DE SAÚDE E NA SUPERINTENDÊNCIA DA USINA DE PROJETOS, O CRÉDITO ADICIONAL SUPLEMENTAR NO MONTANTE DE R$4.025.339,95 (QUATRO MILHÕES, VINTE E CINCO MIL, TREZENTOS E TRINTA E NOVE REAIS E NOVENTA E CINCO CENTAVOS)."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/14029"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2017/14029/14029_texto_integral.pdf"
+sha256_fonte: "38694a5d167e94068f45772895361e1a58e82a85a25723062b6b55eba19e8494"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 8293, de 08/06/2017
+
+LEI Nº 8.293/2017
+
+Autoriza o Poder Executivo a abrir na Secretaria Municipal de Educação, na Secretaria Municipal de Saúde e na Superintendência da Usina de Projetos, o crédito adicional suplementar no montante de R$4.025.339,95 (quatro milhões, vinte e cinco mil, trezentos e trinta e nove reais e noventa e cinco centavos).
+
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito Municipal, em seu nome sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Poder Executivo autorizado a abrir na Secretaria Municipal de Educação, na Secretaria Municipal de Saúde e na Superintendência da Usina de Projetos, o crédito adicional suplementar no montante de R$4.025.339,95 (quatro milhões, vinte e cinco mil, trezentos e trinta e nove reais e noventa e cinco centavos), a fim de atender as seguintes despesas:
+
+02.01.04.04.122.0002.2100 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SUPERINTENDÊNCIA DA USINA DE PROJETOS 3.3.90.93.00 - F. 0125 - Fonte 224 - Indenizações e Restituições..............R$27.945,20 3.3.90.93.00 - F. 0125 - Fonte 290 - Indenizações e Restituições...................R$195,24
+
+02.01.04.15.451.0004.1102 - INFRA-ESTRUTURA URBANA E RURAL 4.4.90.51.00 - F. 0132 - Fonte 224 - Obras e Instalações.........................R$300.496,07 4.4.90.51.00 - F. 0132 - Fonte 290 - Obras e Instalações.............................R$8.714,36
+
+02.01.04.15.451.0004.1103 - PRAÇAS E ÁREAS DE LAZER 4.4.90.52.00 - F. 0137 - Fonte 224 - Equipamentos e Material Permanente................................................................................R$343.059,15
+
+02.01.04.16.482.0006.1105 - MORADIAS PARA PESSOAS DE BAIXA RENDA 3.3.90.34.00 - F. 0140 - Fonte 224 - Outras Despesas de Pessoal Decorrentes de Contrato......................................................................................................R$50.000,00 4.4.90.51.00 - F. 0142 - Fonte 224 - Obras e Instalações......................R$1.584.333,57
+
+02.01.04.17.512.0004.1106 - SANEAMENTO 4.4.90.51.00 - F. 0145 - Fonte 290 - Obras e Instalações...........................R$10.618,06 02.07.01.12.306.0008.2456 - MANUTENÇÃO DA ALIMENTAÇÃO ESCOLAR 3.3.90.30.00 - F. 0591 - Fonte 244 - Material de Consumo.....................R$175.571,46
+
+02.07.01.12.361.0008.2461 - MANUTENÇÃO PROGRAMA CAIXAS ESCOLARES / QESE 3.3.50.41.00 - F. 0618 - Fonte 247 - Contribuições.................................R$189.533,91
+
+02.07.01.12.361.0008.2462 - MANUTENÇÃO DO PROGRAMA TRANSPORTE ESCOLAR 3.3.90.39.00 - F. 0621 - Fonte 245 - Outros Serviços de Terceiros Pessoa Jurídica ..........................................................................................R$12.527,34 3.3.90.39.00 - F. 0621 - Fonte 222 - Outros Serviços de Terceiros
+
+Pessoa Jurídica...........................................................................................R$75.375,52
+
+02.07.01.12.365.0008.2465 - MANUTENÇÃO DAS ATIVIDADES DA EDUCAÇÃO INFANTIL 3.1.90.11.00 - F. 0626 - Fonte 222 - Vencimentos e Vantagens Fixas Pessoal Civil...............................................................................................R$96.387,26
+
+02.07.01.12.365.0009.1454 - PROGRAMA DE EXPANSÃO DA REDE ESCOLAR PÚBLICA DE EDUCAÇÃO INFANTIL - PROINFÂNCIA 4.4.90.51.00 - F. 0645 - Fonte 222 - Obras e Instalações.........................R$976.798,47 4.4.90.52.00 - F. 0646 - Fonte 222 - Equipamentos e Material Permanente..................................................................................R$94.624,05
+
+02.13.01.10.302.0011.2032 - CONTRATO DE RATEIO CONSÓRCIO INTERMUNICIPAL DE SAÚDE DA REGIÃO DO VALE DO ITAPECERICA -CISVI 3.3.71.70.00 - F. 1067 - Fonte 200 - Rateio pela Participação em Consórcio Público......................................................................................R$79.160,29
+
+Total.....................................................................................................R$ 4.025.339,95
+
+**Art. 2º** Nos termos do § 2º do Artigo 21 da Lei 11.494/07 e conforme Artigo 43 da Lei 4.320/64, para fazer face às despesas de que trata o Artigo 1º desta lei, fica utilizado o superávit financeiro apurado no Balanço Patrimonial do Exercício de 2016, sendo que o Grupo da Fonte e Destinação de Recursos é 2 (dois), de acordo com a Instrução Normativa n.º 05/2011, Anexo III do TCEMG.
+
+Total.....................................................................................................R$ 4.025.339,95
+
+**Art. 3º** Este crédito vigorará até 31 de dezembro de 2017.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.
+
+Divinópolis, 08 de junho de 2017.
+
+Galileu Teixeira Machado Prefeito Municipal
+
+Ricardo Moreira Secretário Municipal de Governo
+
+Wendel Santos de Oliveira Procurador-Geral do Município

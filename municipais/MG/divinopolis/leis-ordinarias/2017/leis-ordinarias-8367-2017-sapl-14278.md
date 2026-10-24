@@ -1,0 +1,230 @@
+---
+titulo: "Lei Ordinária nº 8367, de 21/11/2017"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8367"
+data: "2017-11-21"
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR NA CÂMARA MUNICIPAL DE DIVINÓPOLIS, NA SECRETARIA MUNICIPAL DE CULTURA, NA SECRETARIA MUNICIPAL DE EDUCAÇÃO, NA SECRETARIA MUNICIPAL DE OPERAÇÕES URBANAS, NA SECRETARIA MUNICIPAL DE SAÚDE E NO INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO MUNICÍPIO DE DIVINÓPOLIS, O CRÉDITO ADICIONAL SUPLEMENTAR NO MONTANTE DE R$6.948.000,00 (SEIS MILHÕES, NOVECENTOS E QUARENTA E OITO MIL REAIS)."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/14278"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2017/14278/14278_texto_integral.pdf"
+sha256_fonte: "a4e156e8921e9a4d608f4e7016694a7a0c31bee4933e9457626f5ae8f4e63a51"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 8367, de 21/11/2017
+
+LEI Nº. 8.367/2017
+
+AUTORIZA O PODER EXECUTIVO A ABRIR NA CÂMARA MUNICIPAL DE DIVINÓPOLIS, NA SECRETARIA MUNICIPAL DE CULTURA, NA SECRETARIA MUNICIPAL DE EDUCAÇÃO, NA SECRETARIA MUNICIPAL DE OPERAÇÕES URBANAS, NA SECRETARIA MUNICIPAL DE SAÚDE E NO INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO MUNICÍPIO DE DIVINÓPOLIS, O CRÉDITO ADICIONAL SUPLEMENTAR NO MONTANTE DE R$6.948.000,00 (SEIS MILHÕES, NOVECENTOS E QUARENTA E OITO MIL REAIS).
+
+O Povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito Municipal, em seu nome, sanciono a seguinte Lei:
+
+**Art.1º** Fica o Poder Executivo autorizado a abrir na Câmara Municipal de Divinópolis, na Secretaria Municipal de Cultura, na Secretaria Municipal de Educação, na Secretaria Municipal de Operações Urbanas, na Secretaria Municipal de Saúde e no Instituto de Previdência dos Servidores do Município e Divinópolis, o crédito adicional suplementar no montante de R$6.948.000,00 (seis milhões, novecentos e quarenta e oito mil reais), a fim de atender as seguintes despesas:
+
+01.01.01.01.122.0001.1000 - CONSERVAÇÃO E AMPLIAÇÃO DO PRÉDIO DA CÂMARA MUNICIPAL 3.3.90.30.00 - F. 0001 - Fonte 100 - Material de Consumo...........................................R$3.000,00 3.3.90.36.00 - F. 0002 - Fonte 100 - Outros Serviços de Terceiros - Pessoa Física….....R$2.000,00 3.3.90.39.00 - F. 0003- Fonte 100 - Outros Serviços de Terceiros - Pessoa Jurídica….R$10.000,00
+
+01.01.01.01.122.0001.2000 - MANUTENÇÃO DAS ATIVIDADES COM SUBSÍDIO DE VEREADORES 3.1.90.11.00 - F. 0005 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal Civil.R$60.000,00
+
+01.01.01.01.122.0001.2001 - MANUTENÇÃO DAS ATIVIDADES LEGISLATIVAS E ADMINISTRATIVAS 3.1.91.13.00 - F. 0008 - Fonte 100 - Obrigações Patronais.........................................R$72.000,00 3.3.90.37.00 - F. 0015 - Fonte 100 - Locação de Mão-de-obra....................................R$28.000,00 4.4.90.52.00 - F. 0019 - Fonte 100 - Equipamentos e Material Permanente...............R$40.000,00
+
+02.04.01.13.122.0002.2275 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SECRETARIA MUNICIPAL DE CULTURA 3.3.90.39.00 - F. 0346 - Fonte 100 - Outros Serviços de Terceiros – Pessoa Jurídica.. R$15.000,00
+
+02.04.01.13.391.0017.2277 - MANUTENÇÃO DE MUSEUS E POLÍTICA PATRIMONIAL 3.3.90.30.00 - F. 0353 - Fonte 100 - Material de Consumo..........................................R$7.000,00
+
+02.04.01.13.392.0017.2281 - MANUTENÇÃO DA ESCOLA DE MÚSICA 4.4.90.52.00 - F. 0370 - Fonte 100 - Equipamentos e Material Permanente …...........R$15.000,00
+
+02.04.02.13.391.0017.2300 - MANUTENÇÃO DO FUNDO MUNICIPAL DE CULTURA 4.4.90.52.00 - F. 0404 - Fonte 100 - Equipamentos e Material Permanente …...........R$20.000,00
+
+02.07.01.12.122.0002.2475 - INDENIZAÇÃO DE LICENÇA PRÊMIO E VERBAS INDENIZATÓRIAS 3.1.90.11.00 - F. 0557 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$300.000,00
+
+02.07.01.12.361.0008.2460 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL
+
+3.1.90.11.00 - F. 0603 - Fonte 101 - Vencimentos e Vantagens Fixas - Pessoal Civil …..........................................................................................................................R$1.000.000,00 3.1.91.13.00 - F. 0606 - Fonte 101 - Obrigações Patronais…...................................R$200.000,00 02.07.01.12.367.0008.2471 - MANUTENÇÃO DAS ATIVIDADES DA EDUCAÇÃO ESPECIAL 3.1.90.11.00 - F. 0662 - Fonte 101 - Vencimentos e Vantagens Fixas - Pessoal CivilR$120.000,00 3.1.91.13.00 - F. 0665 - Fonte 101 - Obrigações Patronais…......................................R$50.000,00
+
+02.07.02.12.361.0008.2482 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL (FUNDEB) 3.1.91.13.00 - F. 0682 - Fonte 118 - Obrigações Patronais.......................................R$182.000,00
+
+02.07.02.12.365.0008.2485 - MANUTENÇÃO DAS ATIVIDADES DA EDUCAÇÃO INFANTIL (FUNDEB) 3.1.90.13.00 - F. 0689 - Fonte 118 - Obrigações Patronais…......................................R$50.000,00
+
+02.07.02.12.367.0008.2488 - MANUTENÇÃO DAS ATIVIDADES DA EDUCAÇÃO ESPECIAL (FUNDEB) 3.1.90.11.00 - F. 0705 - Fonte 118 - Vencimentos e Vantagens Fixas - Pessoal CivilR$140.000,00
+
+02.11.01.15.451.0004.2688 - INFRA-ESTRUTURA URBANA 3.3.90.30.00 - F. 0880 - Fonte 100 - Material de Consumo........................................R$88.000,00
+
+02.11.03.15.452.0005.2727 - AMPLIAÇÃO E CONSERVAÇÃO DE CEMITÉRIOS E VELÓRIOS E MANUTENÇÃO DO SERVIÇO SOCIAL DO LUTO 3.3.90.30.00 - F. 0924 - Fonte 100 - Material de Consumo….....................................R$76.000,00
+
+02.13.01.10.122.0002.2875 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SECRETARIA MUNICIPAL DE SAÚDE 3.3.90.39.00 - F. 1008 - Fonte 102 - Outros Serviços de Terceiros - Pessoa Jurídica…R$90.000,00
+
+02.13.01.10.122.0020.2876 - MANUTENÇÃO DO CONSELHO MUNICIPAL DE SAÚDE 4.4.90.52.00 - F. 1019 - Fonte 252 - Equipamentos e Material Permanente…............R$55.000,00
+
+02.13.01.10.301.0011.2881 - MANUTENÇÃO DO PROGRAMA ESTRATÉGIA EM SAÚDE DA FAMÍLIA 3.1.90.11.00 - F. 1033 - Fonte 102 - Vencimentos e Vantagens Fixas - Pessoal CivilR$800.000,00
+
+02.13.01.10.302.0011.2883 - TRATAMENTO FORA DE DOMICÍLIO 3.3.90.33.00 - F. 1072 - Fonte 149 - Passagens e Despesas com Locomoção….........R$40.000,00
+
+02.13.01.10.302.0011.2884 - IMPLANTAÇÃO E MANUTENÇÃO DOS SERVIÇOS DE URGÊNCIA E EMERGÊNCIA 3.1.90.11.00 - F. 1079 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$30.000,00 3.1.90.11.00 - F. 1079 - Fonte 102 - Vencimentos e Vantagens Fixas - Pessoal CivilR$620.000,00
+
+02.13.01.10.302.0011.2885 - IMPLANTAÇÃO E MANUTENÇÃO DOS SERVIÇOS ESPECIALIZADOS 3.1.90.11.00 - F. 1093 - Fonte 102 - Vencimentos e Vantagens Fixas - Pessoal CivilR$870.000,00 3.3.90.30.00 - F. 1098 - Fonte 149 - Material de Consumo…....................................R$150.000,00
+
+02.13.01.10.303.0011.2891 - MANUTENÇÃO DO PROGRAMA DE ASSISTÊNCIA FARMACÊUTICA 3.3.90.32.00 - F. 1136 - Fonte 102 - Material, Bem ou Serviço para Distribuição Gratuita …..............................................................................................................................R$500.000,00 3.3.90.32.00 - F. 1136 - Fonte 155 - Material, Bem ou Serviço para Distribuição Gratuita....................................................................................................................R$280.000,00
+
+02.13.01.10.305.0011.2893 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EM SAÚDE 3.3.90.39.00 - F. 1164 - Fonte 255 - Outros Serviços de Terceiros - Pessoa Jurídica.R$100.000,00
+
+03.01.01.09.122.0022.2925 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DO INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO MUNICÍPIO DE DIVINÓPOLIS 3.1.90.16.00 - F. 1213 - Fonte 103 - Outras Despesas Variáveis - Pessoal Civil….........R$5.000,00 3.3.90.36.00 - F. 1223 - Fonte 103 - Outros Serviços de Terceiros - Pessoa Física…...R$30.000,00
+
+03.01.01.09.272.0022.0011 - MANUTENÇÃO DA FOLHA DE INATIVOS E PENSIONISTAS 3.1.90.03.00 - F. 1231 - Fonte 103 - Pensões do RPPS e do Militar…........................R$700.000,00
+
+03.01.01.09.272.0022.0013 - CONTRIBUIÇÃO PARA A FORMAÇÃO DO PASEP 3.3.90.47.00 - F. 1235 - Fonte 103 - Obrigações Tributárias e Contributivas............R$200.000,00
+
+Total…....................................................................................R$6.948.000,00
+
+**Art.2º** São os seguintes os recursos necessários à abertura do crédito adicional suplementar mencionado no artigo anterior:
+
+01.01.01.01.122.0001.2001 - MANUTENÇÃO DAS ATIVIDADES LEGISLATIVAS E ADMINISTRATIVAS 3.1.90.11.00 - F. 0006 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal Civil..R$14.000,00 3.1.90.13.00 - F. 0007 - Fonte 100 - Obrigações Patronais…......................................R$70.000,00 3.3.50.41.00 - F. 0009 - Fonte 100 - Contribuições…....................................................R$5.000,00 3.3.90.14.00 - F. 0010 - Fonte 100 - Diárias - Pessoal Civi.l….......................................R$5.000,00 3.3.90.39.00 - F. 0016 - Fonte 100 - Outros Serviços de Terceiros - Pessoa Jurídica.R$100.000,00 3.3.90.92.00 - F. 0018 - Fonte 100 - Despesas de Exercícios Anteriores….................R$10.000,00
+
+01.01.01.01.331.0001.2002 - MANUTENÇÃO DAS DESPESAS COM AUXÍLIO ALIMENTAÇÃO 3.3.90.46.00 - F. 0021 - Fonte 100 - Auxílio-alimentação…..........................................R$8.000,00
+
+01.01.01.28.846.0001.0001 - PAGAMENTO DE ACRÉSCIMOS LEGAIS, IMPOSTOS E CONTRIBUIÇÕES PARAFISCAIS 3.3.90.39.00 - F. 0023 - Fonte 100 - Outros Serviços de Terceiros - Pessoa JurídicaR$1.500,00 3.3.91.39.00 - F. 0024 - Fonte 100 - Outros Serviços de Terceiros - Pessoa JurídicaR$1.500,00
+
+02.01.01.04.122.0002.2026 - MANUTENÇÃO DAS DESPESAS COM SUBSÍDIO E REPRESENTAÇÃO DO PREFEITO 3.1.90.11.00 - F. 0038 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$10.000,00
+
+02.01.01.04.122.0002.2027 - MANUTENÇÃO DAS DESPESAS COM SUBSÍDIO E REPRESENTAÇÃO DO VICE-PREFEITO 3.1.90.11.00 - F. 0040 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$50.000,00
+
+02.01.02.02.062.0003.0002 - PAGAMENTO DE CONDENAÇÕES JUDICIAIS 4.6.90.91.00 - F. 0076 - Fonte 100 - Sentenças Judiciais…......................................R$249.719,19
+
+02.01.02.02.122.0002.2050 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA PROCURADORIA GERAL 3.3.90.35.00 - F. 0089 - Fonte 100 - Serviços de Consultoria.....................................R$20.000,00
+
+02.01.03.04.124.0002.2075 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA CONTROLADORIA GERAL 3.1.90.11.00 - F. 0102 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$50.000,00
+
+02.01.04.04.122.0002.2100 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SUPERINTENDÊNCIA DA USINA DE PROJETOS 3.3.90.92.00 - F. 0124 - Fonte 100 - Despesas de Exercícios Anteriores….................R$10.000,00 3.3.90.93.00 - F. 0125 - Fonte 100 - Indenizações e Restituições…...........................R$20.000,00
+
+02.01.04.15.451.0004.1103 - PRAÇAS E ÁREAS DE LAZER 3.3.90.39.00 - F. 0135 - Fonte 100 - Outros Serviços de Terceiros – Pessoa Jurídica...R$10.000,00
+
+02.01.04.15.451.0004.1104 - PROJETOS, SUPERVISÃO E APOIO TÉCNICO 3.3.90.34.00 - F. 0138 - Fonte 100 - Outras Despesas de Pessoal Decorrentes de Contratos de Terceirização…...........................................................................................................R$10.000,00 3.3.90.39.00 - F. 0139 - Fonte 100 - Outros Serviços de Terceiros – Pessoa Jurídica...R$10.000,00
+
+02.01.04.16.482.0006.1105 - MORADIAS PARA PESSOAS DE BAIXA RENDA 4.4.90.51.00 - F. 0142 - Fonte 100 - Obras e Instalações…......................................R$100.000,00 4.4.90.61.00 - F. 0143 - Fonte 100 - Aquisição de Imóveis…......................................R$50.000,00
+
+02.01.04.17.512.0004.1106 - SANEAMENTO 4.4.90.61.00 - F. 0146 - Fonte 100 - Aquisição de Imóveis….....................................R$35.000,00
+
+02.02.03.04.122.0002.2200 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA DIRETORIA DE TECNOLOGIA E INFORMAÇÃO 3.1.90.11.00 - F. 0225 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$15.000,00
+
+02.02.04.04.122.0002.2225 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA DIRETORIA DE ORÇAMENTO 3.1.90.11.00 - F. 0238 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$20.000,00
+
+02.03.01.04.122.0002.2250 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA REGIONAL DE BURITIS 3.1.90.11.00 - F. 0250 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$40.000,00
+
+02.03.01.04.122.0002.2251 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA REGIONAL DE SANTO ANTÔNIO DOS CAMPOS 3.1.90.11.00 - F. 0261 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$200.000,00
+
+02.03.01.04.122.0002.2252 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SECRETARIA MUNICIPAL DE AGRONEGÓCIOS 3.1.90.11.00 - F. 0281 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$20.000,00
+
+02.03.01.20.605.0013.2255 - MANUTENÇÃO DE FEIRAS LIVRES 4.4.90.52.00 - F. 0302 - Fonte 100 - Equipamentos e Material Permanente…............R$9.400,00
+
+02.03.01.20.606.0013.2262 - PROMOÇÃO E APOIO DE EVENTOS NO AGRONEGÓCIOS 3.3.50.41.00 - F. 0330 - Fonte 100 - Contribuições….................................................R$10.000,00
+
+02.04.02.13.391.0017.2300 - MANUTENÇÃO DO FUNDO MUNICIPAL DE CULTURA 3.3.50.43.00 - F. 0399 - Fonte 100 - Subvenções Sociais…......................................R$70.000,00 3.3.90.39.00 - F. 0402 - Fonte 100 - Outros Serviços de Terceiros – Pessoa JurídicaR$10.000,00
+
+02.05.01.22.661.0012.2331 - PROGRAMA DE IMPLANTAÇÃO, DESENVOLVIMENTO, APOIO E MANUTENÇÃO DE CENTROS 3.1.90.11.00 - F. 0443 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal Civil R$25.000,00
+
+02.06.02.08.244.0016.2376 - PROTEÇÃO SOCIAL BÁSICA DO SISTEMA ÚNICO DA ASSISTÊNCIA SOCIAL 3.3.50.43.00 - F. 0487 - Fonte 100 - Subvenções Sociais….....................................R$520.000,00 3.3.90.32.00 - F. 0489 - Fonte 100 - Material, Bem ou Serviço para Distribuição Gratuita......................................................................................................... R$20.000,00
+
+02.06.02.08.244.0016.2377 - PROTEÇÃO SOCIAL ESPECIAL DO SISTEMA ÚNICO DA ASSISTÊNCIA SOCIAL 3.3.50.43.00 - F. 0494 - Fonte 100 - Subvenções Sociais…........................................R$10.000,00
+
+02.06.02.08.306.0016.2379 - MANUTENÇÃO DO PROGRAMA DE ALIMENTAÇÃO POPULAR - PAP E SEGURANÇA ALIMENTAR 3.3.90.39.00 - F. 0509 - Fonte 100 - Outros Serviços de Terceiros - Pessoa JurídicaR$100.000,00
+
+02.06.02.16.482.0006.2380 - MANUTENÇÃO DO PROGRAMA DE HABITAÇÃO SOCIAL - ALUGUEL SOCIAL 3.3.90.39.00 - F. 0512 - Fonte 100 - Outros Serviços de Terceiros - Pessoa Jurídica…R$62.000,00
+
+02.06.03.08.243.0016.2400 - MANUTENÇÃO DOS SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA A CRIANÇAS E ADOLESCENTES
+
+3.3.50.43.00 - F. 0515 - Fonte 100 - Subvenções Sociais…......................................R$180.000,00
+
+02.06.03.08.243.0016.2401 - MANUTENÇÃO DOS SERVIÇOS DE PROTEÇÃO SOCIAL ESPECIAL A CRIANÇAS E ADOLESCENTES 3.3.50.43.00 - F. 0522 - Fonte 100 - Subvenções Sociais…......................................R$320.000,00
+
+02.07.01.12.122.0002.2450 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 3.3.90.39.00 - F. 0552 - Fonte 101 - Outros Serviços de Terceiros - Pessoa JurídicaR$142.000,00
+
+02.07.01.12.306.0008.2456 - MANUTENÇÃO DA ALIMENTAÇÃO ESCOLAR 3.3.90.30.00 - F. 0591 - Fonte 100 - Material de Consumo…....................................R$100.000,00
+
+02.07.01.12.361.0008.2460 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 3.3.90.39.00 - F. 0613 - Fonte 101 - Outros Serviços de Terceiros - Pessoa Jurídica…R$50.000,00 3.3.90.49.00 - F. 0615 - Fonte 100 - Auxílio-Transporte…...........................................R$70.000,00
+
+02.07.01.12.361.0008.2462 - MANUTENÇÃO DO PROGRAMA TRANSPORTE ESCOLAR 3.3.90.39.00 - F. 0621 - Fonte 101 - Outros Serviços de Terceiros - Pessoa JurídicaR$173.000,00
+
+02.07.01.12.365.0008.2465 - MANUTENÇÃO DAS ATIVIDADES DA EDUCAÇÃO INFANTIL 3.3.90.39.00 - F. 0636 - Fonte 101 - Outros Serviços de Terceiros - Pessoa JurídicaR$121.000,00 3.3.90.49.00 - F. 0638 - Fonte 100 - Auxílio-Transporte…........................................R$103.000,00
+
+02.07.01.12.367.0008.2471 - MANUTENÇÃO DAS ATIVIDADES DA EDUCAÇÃO ESPECIAL 3.3.90.49.00 - F. 0674 - Fonte 100 - Auxílio-Transporte…..........................................R$11.000,00
+
+02.07.02.12.365.0008.2485 - MANUTENÇÃO DAS ATIVIDADES DA EDUCAÇÃO INFANTIL (FUNDEB) 3.1.90.11.00 - F. 0688 - Fonte 118 - Vencimentos e Vantagens Fixas - Pessoal CivilR$372.000,00
+
+02.08.01.27.122.0002.2500 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SECRETARIA DE ESPORTES E JUVENTUDE 3.3.90.93.00 - F. 0723 - Fonte 100 - Indenizações e Restituições…...........................R$10.000,00
+
+02.08.01.27.812.0014.2506 - PROMOÇÃO E MANUTENÇÃO DE ATIVIDADES, PROGRAMAS E EVENTOS DO ESPORTE ESPECIALIZADO 3.3.50.41.00 - F. 0746 - Fonte 100 - Contribuições…...............................................R$20.000,00
+
+02.08.01.27.812.0014.2509 - MANUTENÇÃO DE QUADRAS, CAMPOS DE FUTEBOL, ÁREAS DE LAZER E GINÁSIOS 3.3.90.39.00 - F. 0756 - Fonte 100 - Outros Serviços de Terceiros - Pessoa Jurídica.....R$8.000,00
+
+02.08.01.27.813.0014.2510 - CONTRIBUIÇÃO AO CLUBE DOS SERVIDORES MUNICIPAIS 3.3.50.41.00 - F. 0761 - Fonte 100 - Contribuições…..................................................R$20.000,00
+
+02.09.01.04.122.0002.2550 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SECRETARIA MUNICIPAL DE FAZENDA 3.1.90.11.00 - F. 0768 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$300.000,00
+
+02.10.02.04.131.0002.2602 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA DIRETORIA DE COMUNICAÇÃO 3.1.90.11.00 - F. 0807 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal Civil..R$50.000,00 3.3.90.92.00 - F. 0816 - Fonte 100 - Despesas de Exercícios Anteriores….................R$18.000,00
+
+02.10.02.04.131.0021.2601 - MANUTENÇÃO DAS ATIVIDADES DE COMEMORAÇÕES, PROMOÇÕES E FESTIVIDADES CÍVICAS 3.3.90.39.00 - F. 0822 - Fonte 100 - Outros Serviços de Terceiros – Pessoa Jurídica.R$200.000,00
+
+02.11.01.15.122.0002.2675 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVOS DA DIRETORIA DE OPERAÇÕES E SERVIÇOS URBANOS
+
+3.3.90.30.00 - F. 0866 - Fonte 100 - Material de Consumo…......................................R$25.000,00 3.3.90.39.00 - F. 0870 - Fonte 100 - Outros Serviços de Terceiros - Pessoa JurídicaR$100.000,00
+
+02.11.01.15.451.0004.2686 - CONSTRUÇÃO/REFORMA/MANUTENÇÃO/REPARAÇÃO DE ESTRUTURAS FÍSICAS 3.3.90.39.00 - F. 0877 - Fonte 100 - Outros Serviços de Terceiros - Pessoa Jurídica…..R$9.000,00
+
+02.11.01.15.452.0004.2682 - MANUTENÇÃO DE PRAÇAS, JARDINS, ARBORIZAÇÃO E VIVEIROS 3.3.90.30.00 - F. 0892 - Fonte 100 - Material de Consumo…...................................R$23.000,00 3.3.90.39.00 - F. 0893 - Fonte 100 - Outros Serviços de Terceiros - Pessoa JurídicaR$12.000,00
+
+02.11.02.04.122.0002.2700 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA DIRETORIA DE MÁQUINAS, VEÍCULOS E EQUIPALEMTOS 3.1.90.11.00 - F. 0903 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$40.000,00
+
+02.11.03.04.122.0002.2725 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DO FUNDO MUNICIPAL DO SERVIÇO SOCIAL DO LUTO E ADMINISTRAÇÃO DE CEMITÉRIOS E VELÓRIOS 3.1.90.11.00 - F. 0914 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$150.000,00
+
+02.12.01.18.122.0002.2775 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SECRETARIA MUNICIPAL DE PLANEJAMENTO URBANO E MEIO AMBIENTE 3.1.90.11.00 - F. 0937 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal CivilR$180.000,00
+
+02.13.01.10.122.0002.2875 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SECRETARIA MUNICIPAL DE SAÚDE 3.3.90.34.00 - F. 1005 - Fonte 102 - Outras Despesas de Pessoal Decorrentes de Contrato ….............................................................................................................R$1.000,00 3.3.90.35.00 - F. 1006 - Fonte 102 - Serviços de Consultoria…...................................R$1.000,00 3.3.90.36.00 - F. 1007 - Fonte 102 - Outros Serviços de Terceiros - Pessoa Física.......R$1.000,00 3.3.90.92.00 - F. 1009 - Fonte 100 - Despesas de Exercícios Anteriores…..................R$ 857,45 3.3.90.92.00 - F. 1009 - Fonte 102 - Despesas de Exercícios Anteriores…..................R$1.141,27 3.3.90.93.00 - F. 1010 - Fonte 100 - Indenizações e Restituições…...........................R$25.954,59 4.4.90.52.00 - F. 1011 - Fonte 102 - Equipamentos e Material Permanente….............R$1.450,00
+
+02.13.01.10.122.0020.2876 - MANUTENÇÃO DO CONSELHO MUNICIPAL DE SAÚDE 3.3.90.30.00 - F. 1014 - Fonte 252 - Material de Consumo...................R$20.000,00 3.3.90.33.00 - F. 1015 - Fonte 252 - Passagens e Despesas com LocomoçãoR$5.000,00 3.3.90.36.00 - F. 1016 - Fonte 102 - Outros Serviços de Terceiros ? Pessoa Física ......................................................................................................... R$1.000,00 3.3.90.39.00 - F. 1017 - Fonte 252 - Outros Serviços de Terceiros - Pessoa Jurídica ....................................................................................................... R$30.000,00 3.3.90.39.00 - F. 1017 - Fonte 102 - Outros Serviços de Terceiros - Pessoa Jurídica ......................................................................................................... R$8.485,27 3.3.90.92.00 - F. 1018 - Fonte 102 - Despesas de Exercícios Anteriores R$1.000,00 4.4.90.52.00 - F. 1019 - Fonte 102 - Equipamentos e Material Permanente R$15.000,00
+
+02.13.01.10.301.0010.1875 - CONSTRUÇÃO E REFORMA DAS UNIDADES BÁSICAS 4.4.90.51.00 - F. 1020 - Fonte 102 - Obras e Instalações.....................R$10.092,08 4.4.90.92.00 - F. 1021 - Fonte 102 - Despesas de Exercícios AnterioresR$10.000,00
+
+02.13.01.10.302.0010.1877 - CONSTRUÇÃO E REFORMA DE UNIDADES DE URGÊNCIA E EMERGÊNCIA 4.4.90.51.00 - F. 1062 - Fonte 102 - Obras e Instalações.....................R$10.000,00 4.4.90.92.00 - F. 1063 - Fonte 102 - Despesas de Exercícios Anteriores R$1.000,00
+
+02.13.01.10.302.0010.1878 - CONSTRUÇÃO E REFORMA DE UNIDADES DE SERVIÇOS ESPECIALIZADOS 4.4.90.51.00 - F. 1064 - Fonte 102 - Obras e Instalações.....................R$10.000,00 4.4.90.92.00 - F. 1065 - Fonte 102 - Despesas de Exercícios Anteriores R$1.000,00
+
+02.13.01.10.302.0011.2883 - TRATAMENTO FORA DE DOMICÍLIO
+
+3.3.70.41.00 - F. 1069 - Fonte 100 - Contribuições................................R$1.000,00 4.4.90.52.00 - F. 1078 - Fonte 102 - Equipamentos e Material PermanenteR$2.580,00
+
+02.13.01.10.302.0011.2884 - IMPLANTAÇÃO E MANUTENÇÃO DOS SERVIÇOS DE URGÊNCIA E EMERGÊNCIA 3.1.90.11.00 - F. 1079 - Fonte 149 - Vencimentos e Vantagens Fixas - Pessoal Civil ..................................................................................................... R$190.000,00 3.1.90.13.00 - F. 1080 - Fonte 102 – Obrigações Patronais..................R$50.000,00 3.3.70.41.00 - F. 1083 - Fonte 100 - Contribuições................................R$1.000,00
+
+02.13.01.10.302.0011.2885 - IMPLANTAÇÃO E MANUTENÇÃO DOS SERVIÇOS ESPECIALIZADOS 3.1.90.16.00 - F. 1095 - Fonte 102 - Outras Despesas Variáveis - Pessoal CivilR$80.000,00
+
+02.13.01.10.302.0011.2887 - MANUTENÇÃO DAS ATIVIDADES DE ASSISTÊNCIA AMBULATORIAL E HOSPITALAR (TERCEIROS) 3.3.50.41.00 - F. 1113 - Fonte 102 - Contribuições..............................R$50.000,00 3.3.70.41.00 - F. 1114 - Fonte 100 - Contribuições................................R$1.000,00 3.3.90.39.00 - F. 1117 - Fonte 102 - Outros Serviços de Terceiros - Pessoa Jurídica ....................................................................................................... R$57.000,00 3.3.90.39.00 - F. 1117 - Fonte 155 - Outros Serviços de Terceiros - Pessoa Jurídica ..................................................................................................... R$280.000,00 3.3.90.92.00 - F. 1119 - Fonte 102 - Despesas de Exercícios AnterioresR$25.415,48
+
+02.13.01.10.303.0011.2891 - MANUTENÇÃO DO PROGRAMA DE ASSISTÊNCIA FARMACÊUTICA 3.3.90.36.00 - F. 1138 - Fonte 102 - Outros Serviços de Terceiros ? Pessoa Física ......................................................................................................... R$2.000,00 3.3.90.39.00 - F. 1139 - Fonte 102 - Outros Serviços de Terceiros - Pessoa Jurídica ....................................................................................................... R$13.177,20 3.3.90.92.00 - F. 1141 - Fonte 102 - Despesas de Exercícios Anteriores R$3.000,00 4.4.90.52.00 - F. 1142 - Fonte 102 - Equipamentos e Material PermanenteR$687,00
+
+02.13.01.10.304.0011.2892 - MANUTENÇÃO DOS SERVIÇOS DE VIGILÂNCIA SANITÁRIA 3.3.90.36.00 - F. 1150 - Fonte 102 - Outros Serviços de Terceiros ? Pessoa Física ......................................................................................................... R$1.000,00 3.3.90.92.00 - F. 1152 - Fonte 102 - Despesas de Exercícios Anteriores R$2.000,00 4.4.90.52.00 - F. 1153 - Fonte 102 - Equipamentos e Material PermanenteR$3.580,00
+
+02.13.01.10.305.0011.2893 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EM SAÚDE 4.4.90.52.00 - F. 1166 - Fonte 255 - Equipamentos e Material PermanenteR$100.000,00
+
+02.13.01.28.846.0003.0001 - PAGAMENTO DE ACRÉSCIMOS LEGAIS, IMPOSTOS E CONTRIBUIÇÕES PARAFISCAIS 3.3.90.39.00 - F. 1169 - Fonte 100 - Outros Serviços de Terceiros - Pessoa Jurídica ....................................................................................................... R$46.460,47 3.3.91.39.00 - F. 1170 - Fonte 100 - Outros Serviços de Terceiros - Pessoa Jurídica ....................................................................................................... R$50.000,00
+
+02.14.01.26.122.0002.2901 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DO FUNDO MUNICIPAL DE TRÂNSITO E TRANSPORTE 3.1.90.11.00 - F. 1173 - Fonte 100 - Vencimentos e Vantagens Fixas - Pessoal Civil ....................................................................................................... R$70.000,00 3.1.90.13.00 - F. 1174 - Fonte 100 - Obrigações Patronais...................R$50.000,00
+
+03.01.01.09.122.0022.1925 - AQUISIÇÃO DE IMÓVEL PARA SEDE PRÓPRIA DO RPPS 4.5.90.61.00 - F. 1210 - Fonte 103 - Aquisição de Imóveis.................R$235.000,00
+
+03.01.01.99.997.9999.9992 - RESERVA ORÇAMENTÁRIA DO RPPS 9.9.99.99.99 - F. 1239 - Fonte 103 - Reserva de Contingência ou Reserva do RPPS ..................................................................................................... R$700.000,00
+
+Total..............................................................................R$6.948.000,00
+
+**Art.3º** Este crédito vigorará até 31/12/2017.
+
+**Art.4º** Esta Lei entra em vigor na data de sua publicação.
+
+Divinópolis, 21 de novembro de 2017.
+
+Galileu Teixeira Machado Prefeito Municipal
+
+Ricardo Moreira Secretário Municipal de Governo
+
+Wendel Santos de Oliveira Procurador-Geral do Município

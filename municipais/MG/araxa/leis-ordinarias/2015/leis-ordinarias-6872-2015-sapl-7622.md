@@ -1,0 +1,170 @@
+---
+titulo: "Lei Ordinária nº 6872, de 15/05/2015"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "6872"
+data: "2015-05-15"
+ementa: "ALTERA VENCIMENTOS DE SERVIDORES PÚBLICOS MUNICIPAIS."
+municipio: "Araxá"
+uf: "MG"
+codigo_ibge: "3104007"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.araxa.mg.leg.br/norma/7622"
+fonte_texto: "https://sapl.araxa.mg.leg.br/media/sapl/public/normajuridica/2015/7622/7622_texto_integral.doc"
+sha256_fonte: "17ed8eb301fedb4f0e1ef74a932fc2db5b0449048f7e5e607e04a49138a7e122"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 6872, de 15/05/2015
+
+LEI Nº 6.872 de 15 de Mairo de 2015
+
+Altera vencimentos de servidores públicos municipais.
+
+A CÂMARA MUNICIPAL DE ARAXÁ, com a Graça de Deus aprova e eu, Prefeito, sanciono e promulgo a seguinte Lei:
+
+**Art. 1º.** Ficam alterados os vencimentos base dos cargos relacionados no anexo I da presente lei, passando a vigorar nos valores constantes da tabela.
+
+**Art. 2º.** As despesas decorrentes da presente Lei correrão por conta das fichas orçamentárias destinadas à despesas com pessoal.
+
+**Art. 3º.** Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos á 01 de maio de 2015.
+
+ARACELY DE PAULA PREFEITO MUNICIPAL DE ARAXÁ
+
+ANEXO I
+
+| AGENTE ADMINISTRATIVO I | R$ 858,92 |
+
+| AGENTE DE OP.FISC. DE TRANS. E TRANSITO | R$ 936,32 |
+
+| AGENTE DE PROMOCAO HUMANA I | R$ 858,92 |
+
+| AGENTE DE PROMOCAO HUMANA II | R$ 858,92 |
+
+| AGENTE DE PROMOCAO HUMANA III | R$ 2.174,68 |
+
+| AGENTE DE SERVICOS GERAIS - ASG | R$ 858,92 |
+
+| AGENTE DO BOLSA FAMILIA | R$ 858,92 |
+
+| AGENTE OPERACIONAL DE TRANSPORTE | R$ 858,92 |
+
+| AGENTE OPERACIONAL DE TRANSPORTE DA SAUDE | R$ 869,87 |
+
+| AGENTES DE FISCALIZACAO | R$ 1.404,48 |
+
+| ASSIST. TEC. ADMINISTRACAO I | R$ 858,92 |
+
+| ASSISTENTE SOCIAL DO BOLSA FAMILIA | R$ 1.744,00 |
+
+| ATENDENTE CONSULTORIO DENTARIO | R$ 858,92 |
+
+| AUDITOR DE TRIBUTOS | R$ 1.022,97 |
+
+| AUX.EMFERMAGEM - CONTRATADO | R$ 858,92 |
+
+| AUXILIAR DA EDUCACAO - AXE | R$ 858,92 |
+
+| AUXILIAR DE ADMINISTRACAO I | R$ 858,92 |
+
+| AUXILIAR DE COZINHA | R$ 858,92 |
+
+| AUXILIAR DE ENFERMAGEM - PSF | R$ 858,92 |
+
+| AUXILIAR DE ENFERMAGEM I | R$ 858,92 |
+
+| AUXILIAR DE PADEIRO | R$ 858,92 |
+
+| AUXILIAR DE SAUDE BUCAL - PSF | R$ 858,92 |
+
+|AUXILIAR OFICIO I | R$ 858,92 |
+
+| CADASTRADOR DO BOLSA FAMILIA | R$ 1.108,53 |
+
+| COORDENADOR DE ESPACO MULTIUSO | R$ 858,92 |
+
+| DIGITADOR DO BOLSA FAMILIA | R$ 858,92 |
+
+| EDUCADOR AMBIENTAL | R$ 1.199,00 |
+
+| ENFERMEIRO - PSF | R$ 2.125,50 |
+
+| FACILITADORA | R$ 858,92 |
+
+| FISCAL AMBIENTAL |R$ 858,92 |
+
+| FISCAL DE VIGILANCIA SANITARIA | R$ 936,32 |
+
+| FISCAL SANITARIO | R$ 858,92 |
+
+| MONITOR DE ESPORTES | R$ 858,92 |
+
+| MOTORISTA | R$ 858,92 |
+
+| MOTORISTA DE CAMINHAO | R$ 858,92 |
+
+| MOTORISTA ESCOLAR | R$ 863,84 |
+
+| OFICIAL DE ADMINISTRACAO I | R$ 858,92 |
+
+| OFICIAL ESPECIALIZADO I | R$ 858,92 |
+
+| OP. MAQUINAS LEVES I | R$ 858,92 |
+
+| OPERADOR COMPUTADOR | R$ 858,92 |
+
+| OPERADOR DE ATERRO SANITARIO | R$ 2.413,89 |
+
+| OPERADOR DE ESTACAO AERONAUTICA | R$ 1.145,37 |
+
+| OPERADOR MAQUINAS PESADAS I | R$ 858,92 |
+
+| PADEIRO | R$ 858,92 |
+
+| PROCURADOR MUNICIPAL ADVOGADO | R$ 1.022,97 |
+
+|PROFESSOR DE EDUCACAO FISICA | R$ 1.022,97 |
+
+| PROFISSIONAIS DE SERV AEROPORTUARIOS-PSA | R$ 981,00 |
+
+| SECRETARIA | R$ 979,04 |
+
+| SECRETARIO DO BOLSA FAMILIA | R$ 858,92 |
+
+| SUPERVISOR DO BOLSA FAMILIA | R$ 1.362,50 |
+
+| SUPERVISOR PEDAGOGICO | R$ 2.180,00 |
+
+| TEC SUP.SERV.PUBLICO | R$ 1.022,97 |
+
+| TEC. SUP. ENSINO | R$ 1.534,45 |
+
+| TEC.DA EDUCACAO | R$ 858,92 |
+
+| TEC.SUP.ENG.ARQ.AGRONOMIA I | R$ 1.022,97 |
+
+| TEC.SUP.SAUDE I | R$ 1.022,97 |
+
+| TECNICO AGROPECUARIO I | R$ 858,92 |
+
+| TECNICO DA EDUCACAO - TCE | R$ 858,92 |
+
+| TECNICO DE ENFERMAGEM | R$ 858,92 |
+
+| TECNICO DE TRANSP E TRANSITO | R$ 858,92 |
+
+| TECNICO HIGIENE DENTAL | R$ 858,92 |
+
+| TECNICO SEGURANCA TRABALHO I | R$ 858,92 |
+
+| TECNICO SERVICO SAUDE I | R$ 1.038,19 |
+
+| TECNICO SUP DE EDUCACAO SUBST | R$ 1.458,13 |
+
+| TECNICO SUPERIOR ENSINO -TSE | R$ 1.702,37 |
+
+| TELEFONISTA I | R$ 1.108,53 |
+
+| TOPOGRAFO I |R$ 858,92 |
+
+| VIGILANTE I | R$ 858,92 |

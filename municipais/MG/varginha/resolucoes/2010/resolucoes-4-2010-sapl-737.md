@@ -1,0 +1,52 @@
+---
+titulo: "Resolução nº 4, de 16/07/2010"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "4"
+data: "2010-07-16"
+ementa: "DISPÕE SOBRE A TRANSFERÊNCIA DE BENS PARA O ACERVO DA ADMINISTRAÇÃO DIRETA DO MUNICÍPIO DE VARGINHA E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Varginha"
+uf: "MG"
+codigo_ibge: "3170701"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.varginha.mg.leg.br/norma/737"
+fonte_texto: "https://sapl.varginha.mg.leg.br/media/sapl/public/normajuridica/2010/737/resolucao04-2010.pdf"
+sha256_fonte: "4a007cf5c8f1b61891b44fcad470eae373d761d59fc696e92de60c3cffa1fed2"
+baixado_em: "2026-10-24"
+---
+
+# Resolução nº 4, de 16/07/2010
+
+RESOLUÇÃO N° 4/2010
+
+DISPÕE SOBRE A TRANSFERÊNCIA DE BENS PARA O ACERVO DA ADMINISTRAÇÃO DIRETA DO MUNICÍPIO DE VARGINHA E DÁ OUTRAS PROVIDÊNCIAS
+
+A Câmara Municipal de Varginha, Estado de Minas Gerais, por seus representantes aprovou e sua Mesa Diretora promulga a seguinte Resolução,
+
+**Art. 1°** Fica o Presidente da Câmara Municipal autorizado a transferir para o Poder Executivo Municipal, para que este use no âmbito da Administração Direta do Município os bens móveis relacionados no "anexo único", que é parte integrante desta Resolução.
+
+**Art. 2°** A transferência de que trata o artigo 1° será efetivada sem ônus e de modo definitivo, ficando desde já o Presidente da Câmara, autorizado a firmar os documentos necessários para formalização da mesma.
+
+Art 3° Efetivada a transferência e a entrega dos bens móveis a que se refere o artigo 1° desta Resolução, o Presidente da Câmara, desde logo, determinará as anotações cabíveis, principalmente as de baixa no patrimônio da Câmara Municipal.
+
+Art 4° Esta Resolução entra em vigor na data de sua publicação.
+
+Câmara Municipal de Varginha, 16 de julho de 2010; 127° da Emancipação Político-Administ tiva do Município.
+
+http:/twww.camaravarginha,mg.gov.br email: imprensa@camaravarginha.mg.gov.br secretaria@camaravarginha.mg.gov.br
+
+ANEXO ÚNICO
+
+RELAÇÃO DE BENS MÓVEIS A SER TRANSFERIDO PARA PATRIMÔNIO DA PREFEITURA DO MUNICÍPIO DE VARGINHA.
+
+ITEM QUANT. DESCRIÇÃO N°. BEM CMV 01 01 VEÍCULO TIPO PASSAGEIRO MARCA 0334 VOLKSWAGEM MODELO GOL POWER 1.0. 02 01 APARELHO DE FAC SÍMILE MARCA 0336 PANASONIC MODELO KX-FT67. 03 01 TECLADO PARA MICROCOMPUTADOR. 0405 04 01 NOBREAK ESTABILIZADOR MODELO US600S 0431 N° SÉRIE 029981. 05 01 MÁQUINA FOTOGRÁFICA MARCA CANON. 0442 06 01 MÁQUINA FOTOGRÁFICA POLAROID MODELO 0443 SUPERCOLOR 635CL. 07 01 MÁQUINA FOTOGRÁFICA DIGITAL MARCA 0444 OLIMPUS MODELO D37. 08 01 APARELHO TELEFÔNICO C/ TECLAS. 0454 09 01 APARELHO TELEFÔNICO C/ TECLAS. 0460 10 01 APARELHO TELEFÔNICO C/ TECLAS. 0464 11 01 APARELHO TELEFÔNICO C/ TECLAS. 0467 12 01 FONE OPERADOR PARA CENTRAL DE PABX 0502 MODELO TA 10. N° SÉRIE 0211010. 13 01 MINI GRAVADOR CASSETE MARCA 0644 PANASONIC MODELO RQ-L11. 14 01 MICROCOMPUTADOR PENTIUM 4. 0650 15 01 MICROCOMPUTADOR PENTIUM 4. 0653 16 01 MICROCOMPUTADOR PENTIUM 4. 0658 17 01 MICROCOMPUTADOR PENTIUM 4. 0659 18 01 MICROCOMPUTADOR PENTIUM 4. 0664 19 01 MONITOR DE 15". 0674 20 01 MONITOR DE 15". 0675 21 01 MONITOR DE 15". 0677 22 01 MONITOR DE 15". 0679 23 01 MONITOR DE 15". 0682 24 01 MONITOR DE 15". 0683 25 01 TECLADO PARA MICROCOMPUTADOR. 0685 26 01 TECLADO PARA MICROCOMPUTADOR. 0695 27 01 TECLADO PARA MICROCOMPUTADOR. 0696 28 01 TECLADO PARA MICROCOMPUTADQR. 0698
+
+\N\_
+
+http://www.camaravarginhamg.gov.br imprensa©camaravarginha.mg.gov br / secretaria@camaravarginha.mg.gov.br
+
+29 01 TECLADO PARA MICROCOMPUTADOR 0699 30 01 AR CONDICIONADO COMPLETO PARA 0739 VEÍCULO MARCA VOLKSWAGEM MODELO GOL POWER PLACA HMM-8750. 31 01 RÁDIO AM/FM COM TOCA CD PARA VEICULO 0740 MARCA VOLKSWAGEM MODELO GOL POWER PLACA HMM-8750. 32 01 APARELHO TELEFÔNICO C/ TECLAS. 0758 33 01 APARELHO TELEFÔNICO C/ TECLAS. 0766 34 01 APARELHO TELEFÔNICO C/ TECLAS. 0772 35 01 MICROCOMPUTADOR INTEL 0860 P4-4GHZ-800MHZ. 36 01 MICROCOMPUTADOR INTEL 0861 P4-4GHZ-800MHZ. 37 01 TECLADO PARA MICROCOMPUTADOR. 0876 38 01 NOBREAK MARCA SMS. 0948 39 01 MICROCOMPUTADO PENTIUM 4. 0990 40 01 TECLADO PARA MICROCOMPUTADOR. 0996 41 01 APARELHO TELEFÔNICO C/ TECLAS. 1029 42 01 MICROCOMPUTADOR DE 1024MB. 1054 43 01 TECLADO PARA MICROCOMPUTADOR. 1064 44 01 TECLADO PARA MICROCOMPUTADOR. 1066 45 01 MONITOR LCD DE 17". 1079 46 01 MONITOR LCD DE 17'. 1138 47 01 TECLADO PARA MICROCOMPUTADOR. 1162 48 01 TECLADO PARA MICROCOMPUTADOR. 1163 49 01 TECLADO PARA MICROCOMPUTADOR. 1164 50 01 TECLADO PARA MICROCOMPUTADOR. 1165 51 01 TECLADO PARA MICROCOMPUTADOR. 1192 52 01 TECLADO PARA MICROCOMPUTADOR. 1195 53 01 TECLADO PARA MICROCOMPUTADOR. 1196 54 01 TECLADO PARA MICROCOMPUTADOR. 1197 55 01 TECLADO PARA MICROCOMPUTADOR. 1204 56 01 TECLADO PARA MICROCOMPUTADOR. 1205
+
+Câmara Municipal de Varginha, em 05 de julho de 2010.
+
+Praça Governador Benedito Valadares, 11 - Centro - CEP 37002.020 - Varginha MG - Telefax: (35) 3219.4757 http://www.camaravarginhamg.gov.br email: imprensa@camaravarginha.mg.gov.br / secretaria@camaravarginha.mg.gov br

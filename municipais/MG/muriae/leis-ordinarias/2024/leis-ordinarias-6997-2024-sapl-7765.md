@@ -1,0 +1,216 @@
+---
+titulo: "Lei Ordinária nº 6997, de 05/06/2024"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "LEI"
+numero: "6997"
+data: "2024-06-05"
+ementa: "Autoriza o Chefe do Poder Executivo Municipal a efetivar abertura de Crédito Adicional Suplementar na Lei Orçamentária nº 6.869, de 11 de janeiro de 2024"
+municipio: "Muriaé"
+uf: "MG"
+codigo_ibge: "3143906"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.muriae.mg.leg.br/norma/7765"
+fonte_texto: "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7765/lei_no_6.997_de_2024-_demsur_-r_5.947.60000_-_folha_de_pagamentoenergisacapina_e_rocada.pdf"
+sha256_fonte: "146897befd4ed0de4954b2e2d334710f8ed61f9e908eda43f5321d18fff2520a"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 6997, de 05/06/2024
+
+LEI Nº 6.997/2024
+
+“Autoriza o Chefe do Poder Executivo Municipal a efetivar abertura de Crédito Adicional Suplementar na Lei Orçamentária nº 6.869, de 11 de janeiro de 2024”
+
+O Prefeito Municipal de Muriaé: Faço saber que a Câmara Municipal aprovou, e eu, em seu nome sanciono a seguinte lei:
+
+**Art. 1º** - Fica o Chefe do Poder Executivo Municipal autorizado a proceder, por ato próprio, a abertura de Crédito Adicional Suplementar, conforme art. 41, inciso I, da Lei nº 4.320/64, na importância de R$ 5.947.600,00 (Cinco Milhões, Novecentos e Quarenta e Sete Mil e Seiscentos Reais), conforme discriminado abaixo:
+
+01 – ADMINISTRAÇÃO 17.122.0001.2.225 PAGAMENTO PESSOAL, ADICIONAIS E ENCARGOS SOCIAIS 3190.11.00 15 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 1.127.500,00 3190.13.00 16 OBRIGAÇÕES PATRONAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 237.500,00 3190.16.00 17 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 61.500,00 3190.94.00 19 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS
+
+3191.13.00 20 OBRIGAÇÕES PATRONAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 345.500,00
+
+TOTAL R$ 1.872.000,00
+
+03.01.01.17.122.0001.2.227 PAGAMENTO CARTÃO ALIMENTAÇÃO SERVIDOR MUNICIPAL 3390.46.00 23 AUXÍLIO-ALIMENTAÇÃO 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 38.000,00
+
+TOTAL R$ 38.000,00
+
+03.01.01.17.122.0001.2.702 PAGAMENTO BENEFICIOS PREVIDENCIARIO –DEM 3190.11.00 37 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 181.500,00
+
+TOTAL R$ 181.500,00
+
+02 - ÁGUA POTÁVEL 17.512.0057.2.279 PAGAMENTO PESSOAL, ADICIONAIS E ENCARGOS SOCIAIS 3190.11.00 49 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 889.500,00 3190.13.00 50 OBRIGAÇÕES PATRONAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 15.500,00 3190.94.00 52 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS
+
+TOTAL R$ 955.000,00
+
+03.01.02.17.512.0057.2.283 MANUTENÇÃO SISTEMA ÁGUA POTÁVEL 3390.39.00 57 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 153.000,00
+
+TOTAL R$ 153.000,00
+
+03 - ÁGUA PLUVIAL 17.512.0058.2.281 PAGAMENTO PESSOAL, ADICIONAIS E ENCARGOS SOCIAIS 3190.11.00 65 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 47.500,00 3190.16.00 67 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 36.000,00 3190.94.00 68 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS
+
+3191.13.00 69 OBRIGAÇÕES PATRONAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 36.000,00
+
+TOTAL R$ 169.500,00
+
+03.01.03.17.512.0058.2.376 PAGAMENTO CARTÃO ALIMENTAÇÃO SERVIDOR MUNICIPAL 3390.46.00 74 AUXÍLIO-ALIMENTAÇÃO 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 207.000,00
+
+TOTAL R$ 207.000,00
+
+04 – ESGOTO 17.512.0059.2.280 PAGAMENTO PESSOAL, ADICIONAIS E ENCARGOS SOCIAIS 3190.11.00 79 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 412.500,00 3190.16.00 81 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 5.500,00 3190.94.00 82 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS
+
+3191.13.00 83 OBRIGAÇÕES PATRONAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 103.500,00
+
+TOTAL R$ 571.500,00
+
+03.01.04.17.512.0059.2.284 MANUTENÇÃO SISTEMA DE ESGOTO 3390.39.00 87 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 141.000,00
+
+TOTAL R$ 141.000,00
+
+03.01.04.17.512.0059.2.377 PAGAMENTO CARTÃO ALIMENTAÇÃO SERVIDOR MUNICIPAL 3390.46.00 88 AUXÍLIO-ALIMENTAÇÃO 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 97.500,00
+
+TOTAL R$ 97.500,00
+
+05 - LIMPEZA URBANA 17.452.0044.2.231 CAPINA, ROÇAGEM, VARRIÇÃO DOS LOGRADOUROS PÚBLICOS E COLETA DE LIXO DOMICILIAR 3390.39.00 96 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 525.600,00
+
+TOTAL R$ 525.600,00
+
+03.01.05.17.452.0044.2.278 PAGAMENTO PESSOAL, ADICIONAL E ENCARGOS SOCIAIS 3190.11.00 102 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 597.000,00 3190.13.00 103 OBRIGAÇÕES PATRONAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 41.500,00 3190.16.00 104 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 65.500,00 3190.94.00 105 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS
+
+106 OBRIGAÇÕES PATRONAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 143.500,00
+
+TOTAL R$ 897.500,00
+
+03.01.05.17.512.0044.2.379 PAGAMENTO CARTÃO ALIMENTAÇÃO SERVIDOR MUNICIPAL 3390.46.00 116 AUXÍLIO-ALIMENTAÇÃO 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 138.500,00
+
+TOTAL R$ 138.500,00
+
+TOTAL GERAL R$ 5.947.600,00
+
+**Art. 2º** - Para o atendimento do crédito transcrito no artigo anterior deste ato, fica igualmente a Chefia do Poder Executivo Municipal, conforme art. 43, § 1º, inciso III, da Lei 4.320/64, autorizada a utilizar como recursos aqueles provenientes de anulação, parcial ou total, das seguintes dotações orçamentárias:
+
+01 – ADMINISTRAÇÃO 17.122.0001.2.224 MANUTENÇÃO DE SERVIÇOS ADMINISTRATIVOS 3390.14.00 2 DIÁRIAS – PESSOAL CIVIL 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 19.000,00 3390.30.00 3 MATERIAL DE CONSUMO
+
+3390.32.00 4 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 900,00 3390.33.00 5 PASSAGENS E DESPESAS COM LOCOMOÇÃO 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 6.600,00 3390.91.00 10 SENTENÇAS JUDICIAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 110.000,00
+
+TOTAL R$ 186.500,00
+
+03.01.01.17.122.0001.2.225 PAGAMENTO PESSOAL, ADICIONAIS E ENCARGOS SOCIAIS
+
+3190.91.00 18 SENTENÇAS JUDICIAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 40.000,00
+
+TOTAL R$ 40.000,00
+
+03.01.01.17.122.0001.2.226 CAPACITAÇÃO DE SERVIDORES 3390.36.00 21 OUTROS SERVIÇOS DE TERCEIROS – PESSOA FÍSICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 9.900,00
+
+TOTAL R$ 9.900,00
+
+03.01.01.17.122.0001.2.274 EXECUTAR CONCURSO PÚBLICO/PROCESSO SELETIVO 3390.39.00 30 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 900,00
+
+TOTAL R$ 900,00
+
+03.01.01.17.122.0001.2.344 MANUTENÇÃO DO SERTOR DE TECNOLOGIA DA INFORMAÇÃO – TI 3390.39.00 34 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 25.000,00 4490.52.00 35 EQUIPAMENTOS E MATERIAL PERMANENTE 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 60.000,00
+
+TOTAL R$ 85.000,00
+
+03.01.01.17.122.0001.1.120 AQUISIÇÃO DE VEÍCULOS 4490.52.00 39 EQUIPAMENTOS E MATERIAL PERMANENTE 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 19.900,00
+
+TOTAL R$ 19.900,00
+
+03.01.01.17.122.0001.1.123 AQUISIÇÃO E DESAPROPRIAÇÃO DE IMÓVEIS 4490.61.00 40 AQUISIÇÃO DE IMÓVEIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 449.900,00 4490.91.00 41 SENTENÇAS JUDICIAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 49.900,00
+
+TOTAL R$ 499.800,00
+
+02 - ÁGUA POTÁVEL 17.512.0057.2.237 AQUISIÇÃO DE HIDRÔMETROS 3390.30.00 45 MATERIAL DE CONSUMO
+
+TOTAL R$ 100.000,00
+
+03.01.02.17.512.0057.2.283 MANUTENÇÃO SISTEMA ÁGUA POTÁVEL 17.512.0057.2.283 3390.30.00 54 MATERIAL DE CONSUMO 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 200.000,00
+
+TOTAL R$ 200.000,00
+
+03.01.02.17.512.0057.1.138 ADQUIRIR VEÍCULOS LEVES E PESADOS, EQUIPAMENTOS PARA O SISTEMA DE ÁGUA POTÁVEL 4490.52.00 62 EQUIPAMENTOS E MATERIAL PERMANENTE
+
+1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 153.000,00
+
+TOTAL R$ 153.000,00
+
+03.01.02.17.512.0057.1.144 CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DO SISTEMA DE ÁGUA POTÁVEL 4490.51.00 63 OBRAS E INSTALAÇÕES 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 480.000,00
+
+TOTAL R$ 480.000,00
+
+03 - ÁGUA PLUVIAL 17.512.0058.2.281 PAGAMENTO PESSOAL, ADICIONAIS E ENCARGOS 3190.13.00 66 OBRIGAÇÕES PATRONAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 19.900,00
+
+TOTAL R$ 19.900,00
+
+03.01.03.17.512.0058.2.285 MANUTENÇÃO SISTEMA ÁGUA PLUVIAL 3390.30.00 70 MATERIAL DE CONSUMO 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 57.000,00 3390.37.00 72 LOCAÇÃO DE MÃO DE OBRA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 200.000,00 3390.39.00 73 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 52.000,00
+
+TOTAL R$ 309.000,00
+
+03.01.03.17.512.0058.1.137 CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE REDE DRENAGEM PLUVIAL 4490.51.00 76 OBRAS E INSTALAÇÕES
+
+TOTAL R$ 100.000,00
+
+03.01.03.17.512.0058.1.149 ADQUIRIR VEÍCULOS LEVES E PESADO, EQUIPAMENTOS PARA O SISTEMA DE DRENAGEM PLUVIAL 4490.52.00 77 EQUIPAMENTOS E MATERIAL PERMANENTE 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 19.900,00
+
+TOTAL R$ 19.900,00
+
+04 - ESGOTO 17.512.0059.2.280 PAGAMENTO PESSOAL, ADICIONAIS E ENCARGOS SOCIAIS - SISTEMA ESGOTO 3190.13.00 80 OBRIGAÇÕES PATRONAIS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 62.900,00 3190.94.00 82 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 130.000,00
+
+TOTAL R$ 192.900,00
+
+03.01.04.17.512.0059.2.284 MANUTENÇÃO SISTEMA DE ESGOTO 3390.30.00 84 MATERIAL DE CONSUMO 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 500.000,00
+
+3390.37.00 86 LOCAÇÃO DE MÃO DE OBRA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 7.000,00
+
+TOTAL R$ 507.000,00
+
+03.01.04.17.512.0059.1.145 CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DO SISTEMA DE REDE DE ESGOTO 4490.51.00 91 OBRAS E INSTALAÇÕES 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 1.500.000,00
+
+TOTAL R$ 1.500.000,00
+
+03.01.04.17.512.0059.1.147 ADQUIRIR VEÍCULOS LEVES E PESADOS, EQUIPAMENTOS PARA O SISTEMA DE ESGOTAMENTO 4490.52.00 92 EQUIPAMENTOS E MATERIAL PERMANENTE
+
+TOTAL R$ 50.000,00
+
+05 - LIMPEZA URBANA 17.452.0044.2.231 CAPINA, ROÇAGEM, VARRIÇÃO DOS LOGRADOUROS PÚBLICOS E COLETA DE LIXO DOMICILIAR 3390.30.00 95 MATERIAL DE CONSUMO
+
+3390.39.00 96 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 56.000,00
+
+TOTAL R$ 106.000,00
+
+03.01.05.17.452.0044.2.233 OPERAR O ATERRO SANITÁRIO E/OU CONCESSÃO 3390.30.00 98 MATERIAL DE CONSUMO
+
+3390.39.00 99 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 300.000,00
+
+TOTAL R$ 400.000,00
+
+03.01.05.17.452.0044.2.278 PAGAMENTO PESSOAL, ADICIONAL E ENCARGOS SOCIAIS 3190.94.00 105 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 150.000,00
+
+TOTAL R$ 150.000,00
+
+03.01.05.17.452.0044.2.282 MANUTENÇÃO SISTEMA LIMPEZA URBANA 3390.30.00 107 MATERIAL DE CONSUMO 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 400.000,00 3390.39.00 110 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 400.000,00
+
+TOTAL R$ 800.000,00
+
+03.01.05.17.452.0044.2.341 INCENTIVOS À ASSOCIAÇÃO DE CATADORES DE LIXO DE MURIAÉ 3390.41.00 112 CONTRIBUIÇÕES 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 9.900,00
+
+TOTAL R$ 9.900,00
+
+06 - AMBIENTAL 18.541.0045.2.240 PROGRAMA DE EDUCAÇÃO E DIVULGAÇÃO DAS AÇÕES RELACIONADAS AO MEIO AMBIENTE 3390.39.00 122 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA 1.753.00 – Rec Prov Taxas, Contribuições e Preços Públicos R$ 8.000,00
+
+TOTAL R$ 8.000,00
+
+TOTAL GERAL R$ 5.947.600,00
+
+**Art. 3º** - Os créditos das dotações constantes desta lei poderão ser anulados ou suplementados, caso necessário, no decorrer do exercício financeiro de 2024.
+
+**Art. 4º** - Esta Lei entra em vigor na data de sua publicação.
+
+MANDO, PORTANTO, a todos as autoridades a quem o conhecimento de execução desta Lei pertencer, que a cumpram e a façam cumprir tão inteiramente como nela se contém.
+
+Muriaé, 05 de junho de 2024. Assinado digitalmente por MARCOS GUARINO MARCOS DE OLIVEIRA:28285182649 DN: C=BR, O=ICP-Brasil, OU=20302311000112, OU=Secretaria da Receita Federal do Brasil - GUARINO DE RFB, OU=RFB e-CPF A3, OU=(EM BRANCO), OU=presencial, CN=MARCOS GUARINO DE
+
+OLIVEIRA: OLIVEIRA:28285182649 Razão: Eu estou aprovando este documento Localização: sua localização de assinatura aqui 28285182649 Data: 2024.06.05 16:04:38-03'00' Foxit PDF Reader Versão: 11.1.0
+
+MARCOS GUARINO DE OLIVEIRA Prefeito Municipal de Muriaé

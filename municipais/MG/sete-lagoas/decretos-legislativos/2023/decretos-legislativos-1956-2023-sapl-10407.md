@@ -1,0 +1,38 @@
+---
+titulo: "Decreto Legislativo nº 1956, de 08/11/2023"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "1956"
+data: "2023-11-08"
+ementa: "CONCEDE DE TÍTULO DE CIDADÃO HONORÁRIO AO SENHOR JOSÉ DIVINO SOARES"
+municipio: "Sete Lagoas"
+uf: "MG"
+codigo_ibge: "3167202"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.setelagoas.mg.leg.br/norma/10407"
+fonte_texto: "https://sapl.setelagoas.mg.leg.br/media/sapl/public/normajuridica/2023/10407/dl-1956_-2023.docx"
+sha256_fonte: "fd22d01a534c675a784a31d87d4acb3790bc37cad1228628e1b31f342e3c1fef"
+baixado_em: "2026-10-24"
+---
+
+# Decreto Legislativo nº 1956, de 08/11/2023
+
+DECRETO LEGISLATIVO Nº 1956/2023
+
+CONCEDE TITULO DE CIDADANIA HONORÁRIA AO SENHOR JOSÉ DIVINO SOARES.
+
+O Plenário da Câmara Municipal de Sete Lagoas/MG aprovou, e o Senhor Presidente no uso das atribuições que confere o parágrafo único do art.85 da Lei Orgânica do Município de Sete Lagoas, promulga o seguinte Decreto Legislativo:
+
+**Art. 1º** - Fica concedido o título de “CIDADÃO HONORÁRIO DE SETE LAGOAS” ao Sr. José Divino Soares, carinhosamente conhecido como “Tijolo”.
+
+**Art. 2º** - A outorga do presente título será feita em Sessão Solene, em data a ser agendada pelo Excelentíssimo Senhor Presidente desta Casa de Leis e o homenageado.
+
+**Art. 3º** - Este Decreto Legislativo entrará em vigor na data de sua publicação.
+
+Câmara Municipal de Sete Lagoas, 08 de novembro de 2023.
+
+CAIO LUCIUS VALACE DE OLIVEIRA SILVA
+
+Presidente – Biênio 2023/2024
+
+(Originário do Projeto de Decreto Legislativo nº 33/2023 da Vereadora Silvia Regina de Oliveira)

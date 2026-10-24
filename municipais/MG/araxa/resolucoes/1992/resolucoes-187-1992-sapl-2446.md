@@ -1,0 +1,40 @@
+---
+titulo: "Resolução nº 187, de 14/09/1992"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "187"
+data: "1992-09-14"
+ementa: "DISPÕE SOBRE REAJUSTE DE VENCIMENTOS DOS SERVIDORES DA CÂMARA MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Araxá"
+uf: "MG"
+codigo_ibge: "3104007"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.araxa.mg.leg.br/norma/2446"
+fonte_texto: "https://sapl.araxa.mg.leg.br/media/sapl/public/normajuridica/1992/2446/2446_texto_integral.pdf"
+sha256_fonte: "c15383d030db51cbbec646394ae3022e7fd6847cf1e713529ec1431d1f4f7c42"
+baixado_em: "2026-10-24"
+---
+
+# Resolução nº 187, de 14/09/1992
+
+CÂMARA MUNICIPAL DE ARAXÁ -ESTADO DE MINAS GERAIS
+
+RESOLUÇÃO 187
+
+Dispõe sobre o reajuste de vencimentos dos Servidores da Câmara Municipal e dá outras providências.
+
+A CÂMARA MUNICIPAL DE ARAXÁ, com a Graça de Deus decreta e promulga a seguinte RESOLUÇÃO:
+
+**Art. 1º** – Fica concedido um reajuste salarial aos Servidores da Câmara Municipal de 127% (cento e vinte e sete por cento), sobre a tabela de vencimentos aprovada pela Resolução 183, de 21 de julho de 1.992, a partir de 01.09.92.
+
+**Art. 2º** – Para ocorrer as despesas resultantes desta Resolução, utilizar-se-ão recursos de dotações próprias o orçamento municipal.
+
+**Art. 3º** – Revogadas as disposições em contrário, esta Resolução entra em vigor na data de sua promulgação.
+
+Araxá, 14 de setembro de 1.992
+
+JOSÉ ESTEVES PIRES JÚNIOR Presidente
+
+PAULO ROBERTO PIRES DA SILVEIRA Secretário
+
+Pça.: Coronel Adolfo, n° 09 Centro, Cep 38183-085 Fone/Fax: (34)3662-3040 .

@@ -1,0 +1,38 @@
+---
+titulo: "Resolução nº 17, de 10/06/2019"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "17"
+data: "2019-06-10"
+ementa: "Concede Título de Cidadão Honorário de Lavras ao Professor Gudesteu Porto Rocha"
+municipio: "Lavras"
+uf: "MG"
+codigo_ibge: "3138203"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lavras.mg.leg.br/norma/7343"
+fonte_texto: "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7343/resolucao_17_2019.pdf"
+sha256_fonte: "453bd2fedfb47efda76ca4eb28ffb08615eeb2c141f2bfa65b294d81a369b85f"
+baixado_em: "2026-10-24"
+---
+
+# Resolução nº 17, de 10/06/2019
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE LAVRAS ESTADO DE MINAS GERAIS
+
+RESOLUÇÃO Nº 17/2019 (Autoria do Vereador Antônio Marcos Possato)
+
+CONCEDE TÍTULO DE CIDADÃO HONORÁRIO DE LAVRAS AO PROFESSOR GUDESTEU PORTO ROCHA
+
+A Câmara Municipal de Lavras, por seus representantes legais aprovou, e eu, Evandro Oliveira Miranda - Presidente, promulgo a seguinte Resolução:
+
+**Art. 1º** - Fica concedido Título de Cidadão Honorário de Lavras ao Professor GUDESTEU PORTO ROCHA, de acordo com o artigo 238 e seguintes do Regimento Interno da Câmara Municipal de Lavras e $ 5º do artigo 22 da Lei Orgânica do Município de Lavras.
+
+**Art. 2º** - À entrega do Título será em sessão solene em data a ser previamente marcada pela Câmara Municipal de Lavras.
+
+**Art. 3º** - Esta Resolução entra em vigor na data de sua publicação. Plenário Dr. Orlando Haddad, em 10 de junho de 2019. LARA
+
+Evandro Oliveira Miranda Presidente
+
+Avenida Pedro Sales, 542 — Centro — Fone (35) 3821-6140 — 37200.000 — Lavras - MG

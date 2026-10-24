@@ -1,0 +1,50 @@
+---
+titulo: "Lei Ordinária nº 8490, de 10/08/2018"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8490"
+data: "2018-08-10"
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR NO GABINETE DO PREFEITO E NA SUPERINTENDÊNCIA DA USINA DE PROJETOS, O CRÉDITO ADICIONAL SUPLEMENTAR NO MONTANTE DE R$42.769,13 (QUARENTA E DOIS MIL SETECENTOS E SESSENTA E NOVE REAIS E TREZE CENTAVOS)."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/14746"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2018/14746/14746_texto_integral.pdf"
+sha256_fonte: "f8ac773dc2e91727ae5cc93276e7473278a59e2887e8227c78b773dde33d96c5"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 8490, de 10/08/2018
+
+PREFEITURA MUNICIPAL DE DIVINÓPOLIS
+
+LEI Nº 8.490/2018
+
+Autoriza o Poder Executivo a abrir no Gabinete do Prefeito e na Superintendência da Usina de Projetos, o crédito adicional suplementar no montante de R$42.769,13 (quarenta e dois mil setecentos e sessenta e nove reais e treze centavos).
+
+O Povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito Municipal, em seu nome sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Poder Executivo autorizado a abrir no Gabinete do Prefeito e na Superintendência da Usina de Projetos, o crédito adicional suplementar no montante de R$42.769,13 (quarenta e dois mil setecentos e sessenta e nove reais e treze centavos), a fim de atender as seguintes despesas:
+
+02.01.01.08.243.0021.2022 - MANUTENÇÃO DO CONSELHO TUTELAR DA CRIANÇA E DO ADOLESCENTE 4.4.90.52.00 - F. 0079 - Fonte 224-Equipamentos e Material Permanente ............................................................................................ R$23.325,65
+
+02.01.04.04.122.0003.2050 - MANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA SUPERINTENDÊNCIA DA USINA DE PROJETOS 3.3.90.93.00 - F. 0138 - Fonte 224 - Indenizações e RestituiçõesR$19.443,48
+
+Total.........................................................................R$42.769,13
+
+**Art. 2º** Nos termos do artigo 43 da Lei nº 4.320/64, para fazer face às despesas de que trata o Artigo 1º desta Lei, fica utilizado o superávit financeiro apurado pelas contas vinculadas do exercício anterior, sendo que o Grupo da Fonte e Destinação de Recursos é 2 (dois), de acordo com a Instrução Normativa n.º 05/2011,
+
+Anexo III do TCEMG.
+
+**Art. 3º** Este crédito vigorará até 31 de dezembro de 2018.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.
+
+Divinópolis, 10 de agosto de 2018.
+
+Galileu Teixeira Machado Prefeito Municipal
+
+Roberto Antônio Ribeiro Chaves Secretário Municipal de Governo
+
+Wendel Santos de Oliveira Procurador-Geral do Município

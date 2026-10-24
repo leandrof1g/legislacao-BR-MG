@@ -1,0 +1,44 @@
+---
+titulo: "Lei Ordinária nº 2673, de 15/05/1986"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2673"
+data: "1986-05-15"
+ementa: "DISPOE SOBRE DENOMINACOES DE RUA NO DISTRITO DE FREI GONZAGA. AS RUAS DO DISTRITO DE FREI GONZAGA PASSAM A DENOMINAR-SE: AVENIDA JOÃO PEDROSA DA COSTA; RUA APRÍGIO MARTINS GABRIEL; RUA PERCILIANO PEREIRA DUARTE; RUA JOAQUIM DE ROSENDA; RUA RODRIGUES DE ANDRADE; RUA ÁGUAS MARINHAS; RUA BELA VISTA; RUA TEÓFILO OTONI; PRAÇA ANDRADINA; PRAÇA BOM JESUS; PRAÇA TANCREDO DE ALMEIDA NEVES; TRAVESSA JOSÉ CÂNDIDO; TRAVESSA CONCÓRDIA; TRAVESSA TEIXEIRA. SANCIONADA EM 20/05/86"
+municipio: "Teófilo Otoni"
+uf: "MG"
+codigo_ibge: "3168606"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.teofilootoni.mg.leg.br/norma/3401"
+fonte_texto: "https://sapl.teofilootoni.mg.leg.br/media/sapl/public/normajuridica/1986/3401/3401_texto_integral.html"
+sha256_fonte: "872d12f503b28f42e24fe7e1639a3bc9309f96b48745e4ae718423cc9d617df1"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 2673, de 15/05/1986
+
+Lei nº 2.673
+
+DISPOE SOBRE DENOMINACOES DE RUA NO DISTRITO DE FREI GONZAGA.
+
+**Art. 1º** - AVENIDA JOAO PEDROSA DA COSTA ;
+
+RUA APRIGIO MARTINS GABRIEL RUA PERCILIANO PEREIRA DUARTE; RUA JOAQUIM DE ROSENDA RUA RODRIGUES DE ANDRADE; RUA AGUAS MARINHAS;
+
+RUA BELA VISTA; RUA TEOFILO OTONI;
+
+PRACA ANDRADINA; PRACA BOM JESUS;
+
+PRACA TANCREDO DE ALMEIDA NEVES;
+
+TRAVESSA JOSE CANDIDO; TRAVESSA
+
+CONCORDIA; TRAVESSA TEIXEIRA.
+
+**Art. 2º** Revogam-se as disposições em contrário, entrando a presente lei em vigor na data de sua publicaçÃo.
+
+C6amara Municipal de TEófilo Otoni, 15 de maio de 1986.
+
+PAULO ESTEVÃO PERUHYPE PORTUGAL-PRESIDENTE
+
+Autoria: Vereador José Ferreira JArdim

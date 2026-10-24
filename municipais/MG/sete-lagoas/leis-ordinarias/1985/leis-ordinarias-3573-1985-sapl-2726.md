@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 3573, de 03/12/1985"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei "
+numero: "3573"
+data: "1985-12-03"
+ementa: "MODIFICA A LEI Nº 3185, DE 22.11.83, QUE ESTABELECE NOVAS ALÍQUOTAS E CRIA TAXAS ESPECÍFICAS, A LEI Nº 3407, DE 19.12.84 QUE ESTABELECE NOVAS ALÍQUOTAS DE TAXAS MUNICIPAIS, A LEI Nº 1235 DE 15.09.67, QUE INSTITUI O CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE SETE LAGOAS E CONTÉM OUTRAS PROVIDÊNCIAS E REVOGA A LEI Nº 3126, DE 24.07.83, QUE ALTERA O ARTIGO 360 DA LEI Nº 1235, DE 15.09.67 E 2168, DE 30.12.77, QUE ESTABELECE TAXA DE REBAIXAMENTO DE MEIO-FIO."
+municipio: "Sete Lagoas"
+uf: "MG"
+codigo_ibge: "3167202"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.setelagoas.mg.leg.br/norma/2726"
+fonte_texto: "https://sapl.setelagoas.mg.leg.br/media/sapl/public/normajuridica/1985/2726/2726_texto_integral.pdf"
+sha256_fonte: "1015efb5fd9dbbafb38a28ee471a0ec87809dbd956185b02f11f55bcc6322afa"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 3573, de 03/12/1985
+
+LEI Nº 3573, DE 3 DE DEZEMBRO DE 1985.
+
+MODIFICA A LEI Nº 3185, DE 22.11.83, QUE ESTABELECE NOVAS ALÍQUOTAS E CRIA TAXAS ESPECÍFICAS, A LEI Nº 3407, DE 19.12.84 QUE ESTABELECE NOVAS ALÍQUOTAS DE TAXAS MUNICIPAIS, A LEI Nº 1235 DE 15.09.67, QUE INSTITUI O CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE SETE LAGOAS E CONTÉM OUTRAS PROVIDÊNCIAS E REVOGA A LEI Nº 3126, DE 24.07.83, QUE ALTERA O ARTIGO 360 DA LEI Nº 1235, DE 15.09.67 E 2168, DE 30.12.77, QUE ESTABELECE TAXA DE REBAIXAMENTO DE MEIO-FIO.
+
+(conteúdo obsoleto)
+
+Prefeitura Municipal de Sete Lagoas, 3 de dezembro de 1985.
+
+MARCELO CECÉ VASCONCELOS DE OLIVEIRA Prefeito Municipal
+
+JOSÉ IVO GOMES DE OLIVEIRA Secretário Municipal de Governo
+
+SEBASTIÃO NUNES LANZA Secretário Municipal de Administração

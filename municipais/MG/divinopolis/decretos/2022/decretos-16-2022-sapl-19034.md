@@ -1,0 +1,52 @@
+---
+titulo: "Decreto nº 16, de 19/12/2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto do Executivo"
+numero: "16"
+data: "2022-12-19"
+ementa: "Dispõe sobre a baixa das despesas inscritas em restos a pagar do exercício de 2016, na Administração Direta."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/19034"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2022/19034/decreto_15.433_-_retificado_-_restos_a_pagar_2016_2.pdf"
+sha256_fonte: "83be3fcb4ed89ff12270c5a0f812cb679bf3d5ce91c46bab8af12e698708574d"
+baixado_em: "2026-10-24"
+---
+
+# Decreto nº 16, de 19/12/2022
+
+DECRETO Nº 15.433/22 (Retificado)
+
+Dispõe sobre a baixa das despesas inscritas em restos a pagar do exercício de 2016, na Administração Direta.
+
+O Prefeito Municipal de Divinópolis, no uso das atribuições que lhe confere o art. 62, VI, da Lei Orgânica Municipal, e considerando que: - o disposto na Lei Federal nº 4.320/1964, a dívida flutuante é composta pelos restos a pagar, serviços da dívida a pagar, depósitos e dos débitos em tesouraria; - a Contabilidade tem como finalidade o fornecimento de informações, contribuindo de forma significativa para tomada de decisões; - os restos a pagar com insubsistência passiva devem ser cancelados, expurgando-se, a qualquer tempo, as obrigações incertas e indevidas; - o art. 68 do Decreto Federal nº 93.872/1986, que prevê que a inscrição de despesas como restos a pagar no encerramento do exercício financeiro de emissão da Nota de Empenho depende da observância das condições estabelecidas neste Decreto para empenho e liquidação da despesa; - o § 2º do artigo 68 do referido Decreto estabelece que os restos a pagar inscritos na condição de não processados e não liquidados posteriormente terão validade até 30 de junho do segundo ano subsequente ao de sua inscrição; - o art. 69 do mesmo diploma dispõe que após o cancelamento da inscrição da despesa como Restos a Pagar, o pagamento que vier a ser reclamado poderá ser atendido à conta de dotação destinada a despesas de exercícios anteriores; - o art. 1º do Decreto Federal nº 20.910/1932, estabelece que as dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em 05 (cinco) anos contados da data do ato ou fato do qual se originarem; - o disposto no Art. 359-F do Código Penal, que trata dos crimes contra as finanças públicas, e penaliza o Gestor que deixar de ordenar, de autorizar ou de promover o cancelamento do montante de restos a pagar inscritos em valor superior ao permitido em lei;
+
+DECRETA:
+
+**Art. 1º** As despesas da Administração Direta, inscritas em restos a pagar no ano de 2017, referente a 2016, serão baixadas pelo serviço contábil, dos balanços da Administração onde estiverem inscritas.
+
+Parágrafo único: Faz parte integrante deste Decreto o anexo único, que discrimina o rol dos restos a pagar de 2016.
+
+**Art. 2°** Este Decreto entra em vigor na data de sua publicação. Divinópolis, 19 de dezembro de 2022. Assinado de forma digital por GLEIDSON GONTIJO DE GLEIDSON GONTIJO DE AZEVEDO:01530298628 AZEVEDO:01530298628 Dados: 2023.01.20 10:20:31 -03'00'
+
+Gleidson Gontijo de Azevedo Prefeito Municipal JANETE APARECIDA SILVA Assinado de forma digital por JANETE APARECIDA SILVA OLIVEIRA:03520283603 OLIVEIRA:03520283603 Dados: 2023.01.16 14:53:54 -03'00'
+
+Janete Aparecida Silva Oliveira Secretária Municipal de Governo Assinado de forma digital por DIOGO ANDRADE DIOGO ANDRADE VIEIRA:01373355638 VIEIRA:01373355638 Dados: 2023.01.17 11:48:22 -03'00'
+
+Diôgo Andrade Vieira Controlador Geral do Município
+
+Maximílian Menezes Pereira Procurador-Geral Adjunto do Município
+
+ANEXO ÚNICO RESTOS A PAGAR PROCESSADOS Nº Empenho: Data: Credor: Valor: 15486/2016 04/10/2016 Adão Noel dos Santos R$ 82,60 17122/2016 08/11/2016 Adelia Felipe Cipriano R$ 8,40 1486/2016 04/01/2016 Andreia do Carmo de Oliveira R$ 16,80 7866/2016 12/05/2016 Associação Missão Maria de Nazaré R$ 6.800,00 6366/2016 14/04/2016 Carlos Eduardo Maximo de Melo R$ 16,80 13285/2016 31/08/2016 Dalci Ferreira Vaz R$ 52,52 10248/2016 30/06/2016 Denise Aparecida da Silva R$ 33,60 737/2016 04/01/2016 Editora e Distribuidora Educacional S/A R$ 246.458,40 17347/2016 17/11/2016 Editora e Distribuidora Educacional S/A R$ 49.291,68 12252/2016 12/08/2016 Flexibase Ind e Com de Móveis, Imp e Exp Ltda R$ 6.545,00 12253/2016 12/08/2016 Flexibase Ind e Com de Móveis, Imp e Exp Ltda R$ 84.692,00 2405/2016 29/01/2016 FS Construções Ltda R$ 3.576,42 14168/2016 22/09/2016 Fundação Geraldo Correa R$ 12.099,84 2026/2016 28/01/2016 Gelo Center Peças Ltda R$ 540,00 4447/2016 02/03/2016 Gráfica e Editora S F Ltda R$ 590,00 13058/2016 31/08/2016 José Geraldo da Fonseca R$ 16,80 5926/2016 01/04/2016 Junismar Damas Ferreira R$ 84,10 5793/2016 31/03/2016 Leonel Max de Morais R$ 64,98 14207/2016 23/09/2016 Luciano Gomes da Silva R$ 73,45 2434/2016 01/02/2016 Marco XX Construções Ltda R$ 1.027.814,90 9904/2016 27/06/2016 Marcos Antonio da Silva Junior R$ 16,80 3066/2016 19/02/2016 Maria Madalena de Bessa Amaral R$ 70,56 16962/2016 04/11/2016 Marilsa Lopes Pereira R$ 16,80 8031/2016 23/05/2016 Mario Agenor de Sousa R$ 16,80 2454/2016 01/02/2016 Matheus Henrique Paixão de Freitas R$ 14,70 11290/2016 29/07/2016 Matheus Henrique Paixão de Freitas R$ 48,75 375/2016 04/01/2016 Oximil Oxigênio Minas Gerais Ltda R$ 1.624,00 6549/2016 18/04/2016 Paluma Imóveis Eireli EPP R$ 545,38 10705/2016 04/07/2016 Paulo César de Oliveira II R$ 41,70 8038/2016 23/05/2016 Polyana As Silva Barros Martins R$ 16,80 2878/2016 04/02/2016 Quirino da Silva R$ 48,75 16963/2016 04/11/2016 Reginaldo Donizete Godoi R$ 36,30 13282/2016 31/08/2016 Renato Gomes da Silva R$ 8,40 6532/2016 18/04/2016 Sandra Pereira dos Santos R$ 8,40
+
+594/2016 04/01/2016 Socicam Administração, Projetos e Representações L R$ 715.051,72
+
+18069/2016 30/11/2016 Vladimir de Faria Azevedo R$ 2.934,90 Total ........................................................................................................................................... R$ 2.159.359,05
+
+RESTOS A PAGAR NÃO PROCESSADOS Nº Empenho: Data: Credor: Valor:
+
+594/2016 04/01/2016 Socicam Administração, Projetos e Representações L R$ 616.949,80
+
+Total ........................................................................................................................................... R$ 616.949,80

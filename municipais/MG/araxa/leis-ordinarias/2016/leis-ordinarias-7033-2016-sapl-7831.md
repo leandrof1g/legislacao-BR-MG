@@ -1,0 +1,34 @@
+---
+titulo: "Lei Ordinária nº 7033, de 14/04/2016"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "7033"
+data: "2016-04-14"
+ementa: "DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA E DÁ OUTRAS PROVIDÊNCIAS &#8211; RUA JUAREZ DIAS TREGA."
+municipio: "Araxá"
+uf: "MG"
+codigo_ibge: "3104007"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.araxa.mg.leg.br/norma/7831"
+fonte_texto: "https://sapl.araxa.mg.leg.br/media/sapl/public/normajuridica/2016/7831/7831_texto_integral.doc"
+sha256_fonte: "8b75dc9b250705849da70bf31dd775dd7bfbe0773e3d52a9c5decdbcaf645451"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 7033, de 14/04/2016
+
+LEI N.º 7.033 DE 14 DE ABRIL DE 2016
+
+Dispõe sobre denominação de Via Pública e dá outras providências
+
+A CÂMARA MUNIICIPAL DE ARAXÁ, por iniciativa da Vereadora Credinéia Maria dos Santos – Néia da UNINORTE, sendo coautor o Vereador José Gaspar Ferreira de Castro – Pezão, com a Graça de Deus aprova e eu, Prefeito, sanciono e promulgo a seguinte Lei:
+
+**Art. 1º** - Fica denominada RUA JUAREZ DIAS TREGA, a atual Rua “B”, no Loteamento Jardim América, nesta cidade.
+
+**Art. 2º** - O Senhor Prefeito mandará afixar placas denominativas em locais próprios.
+
+**Art. 3º** - Revogadas as disposições em contrário, entrando esta Lei em vigor na data de sua publicação.
+
+Aracely de Paula
+
+Prefeito Muncipal de Araxá

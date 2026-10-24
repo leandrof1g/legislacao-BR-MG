@@ -1,0 +1,276 @@
+---
+titulo: "Lei Ordinária nº 8644, de 21/10/2019"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8644"
+data: "2019-10-21"
+ementa: "Cria o Programa Municipal de Coleta Seletiva de Resíduos Sólidos Recicláveis do Município de Divinópolis e dá providências."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/15862"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2019/15862/lei8644.pdf"
+sha256_fonte: "a0ab658f904e12d46eb6f6e9871c279944f7ed8db2f6945db8a567630f179f8a"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 8644, de 21/10/2019
+
+LEI Nº. 8.644/2019
+
+Cria o Programa Municipal de Coleta Seletiva de Resíduos Sólidos Recicláveis do Município de Divinópolis e dá outras providências.
+
+O Povo de Divinópolis, por seus representantes legais aprova, e eu, na qualidade de Prefeito Municipal, em seu nome, sanciono a seguinte Lei:
+
+#### CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES
+
+**Art. 1º** Fica instituído, no Município de Divinópolis, na forma prevista nesta Lei, o “Programa Municipal de Coleta Seletiva de Resíduos Sólidos Recicláveis”, destinado a promover de forma integrada a viabilidade econômica e social da coleta seletiva.
+
+**Art. 2º** Entende-se por coleta seletiva o procedimento de separação, na origem, de resíduos sólidos, classificando-os em úmidos e secos.
+
+**§ 1º** Entende-se por resíduo úmido toda matéria de origem biológica, seja ela proveniente da vida animal ou vegetal, como cascas de frutas, legumes e de ovos, restos de comida, carcaças de animais e outros.
+
+**§ 2º** Entende-se por resíduo seco todo material ou dejeto que não tem origem biológica e foi produzido por meios não naturais, como papel, plástico, alumínio, vidro e metais.
+
+**Art. 3º** O programa de que trata a presente Lei, baseia-se na ação integrada dos órgãos da Administração direta, indireta e da iniciativa privada.
+
+**§1º** A integração prevista no caput do artigo far-se-á por meio de convênios e contratos firmados entre os órgãos públicos, associações, cooperativas, entidades civis, através do chamamento público.
+
+**§2º** A participação de associações ou cooperativas que já realizam coleta seletiva, no programa de que trata esta Lei, far-se-á através de convênio ou contratos, aplicando se, se for o caso, as normas da Lei nº 8.666/93 e suas posteriores alterações.
+
+**§3º** Somente poderão integrar-se ao programa as associações, cooperativas e catadores autônomos cadastrados no Cadastro Único, do Governo Federal.
+
+**Art. 4º** A consecução do programa obedecerá a um cronograma de objetivos, setores, normas, prazos, valores e condições estabelecidos nos projetos específicos previstos nesta Lei.
+
+**Parágrafo único.** Criação da rede de atuação para o Programa Municipal de Coleta Seletiva de Resíduos Sólidos Recicláveis, composta pela Secretaria Municipal de Governo, Secretaria Municipal de Assistência Social, Secretaria Municipal de Educação, Secretaria Municipal de Operações e Serviços Urbanos, Secretaria Municipal de Meio Ambiente e Políticas de Mobilidade Urbana, Secretaria Municipal de Saúde e Secretaria Municipal de Desenvolvimento Econômico Sustentável e Turismo.
+
+#### CAPÍTULO II
+
+DAS COMPETÊNCIAS
+
+**Art. 5º** Compete à Secretaria Municipal de Meio Ambiente e Políticas de Mobilidade Urbana - SEPLAM:
+
+I – promover a integração de todos os órgãos públicos, associações, cooperativas e catadores autônomos cadastrados no Cadastro Único do Governo Federal, ao programa de que trata a presente Lei;
+
+II – proceder a abertura das frentes de coleta seletiva em prédios públicos, instituições, escolas, empresas particulares, nas ruas e nos bairros;
+
+III – estudar as novas áreas potenciais para a coleta seletiva;
+
+IV – divulgar e realizar a educação ambiental junto à população para a coleta seletiva;
+
+V – autorizar as cooperativas, ou associações, a utilização do Centro de Triagem municipal;
+
+VI – fiscalizar e manter as instalações do Centro de Triagem.
+
+**Art. 6º** Compete à Secretaria Municipal de Assistência Social - SEMAS:
+
+I – proporcionar a inclusão no Cadastro Único, do Governo Federal, dos catadores, inclusive os informais e não organizados, da Coleta Seletiva de Resíduos Sólidos Recicláveis e suas famílias;
+
+II – incentivar os catadores da coleta seletiva de resíduos recicláveis, através dos equipamentos de proteção social, básica e afins;
+
+III – incluir os catadores da coleta seletiva de resíduos recicláveis e suas famílias nos programas, projetos, serviços e benefícios ofertados pela Assistência Social, observados os critérios preestabelecidos de elegibilidade;
+
+IV – atuar “em rede”, junto às Secretarias, conforme parágrafo único, do art. 4º desta Lei, para a promoção social dos catadores da coleta seletiva de resíduos recicláveis;
+
+V – garantir e facilitar o acesso dos catadores ao Cadastro Único do Governo Federal;
+
+VI – garantir o monitoramento dentro da política social aos catadores;
+
+VII – garantir o monitoramento dos usuários do Centro de Triagem.
+
+**Art. 7°** Compete à Secretaria Municipal de Operações e Serviços Urbanos – SEMSUR:
+
+I – fiscalizar os contratos de transporte e coleta seletiva;
+
+II – monitorar e orientar os catadores de coleta seletiva prestadores de serviço do município, quanto ao uso de Equipamentos de Proteção Individual – EPI’s;
+
+III – fiscalizar o estado de conservação dos caminhões da coleta seletiva das prestadoras de serviço do município de Divinópolis, de acordo com o Código Nacional de Trânsito, bem como os estribos e plataformas operacionais inerentes aos veículos;
+
+IV- gerenciar o processo de transporte da coleta seletiva de resíduos sólidos recicláveis e a entrega do material no Centro de Triagem Municipal;
+
+V- desenvolver palestras aos catadores da coleta seletiva de resíduos sólidos recicláveis, quanto ao uso dos Equipamentos de Proteção Individual EPI’s;
+
+VI – fiscalizar os dias, horários e rotas da coleta seletiva;
+
+VII – dividir os setores de acordo com as regiões, como determinado no Art. 12 e criar rotas da coleta seletiva alternadas com os dias da coleta de lixo;
+
+VIII – divulgar os dias e horários das coletas nos bairros, no site do Executivo e junto aos parceiros envolvidos no processo;
+
+IX – acompanhar relatório quantitativo fornecido pelas associações.
+
+**Art. 8º** Compete à Secretaria Municipal de Educação – SEMED:
+
+I – realizar dentro das escolas a Semana Municipal Lixo Zero, conforme a Lei 8.508 de 17 de Setembro de 2018;
+
+II – programar as atividades afins para trabalhar a educação ambiental, reciclagem e diminuição da produção de resíduos no município;
+
+III – promover ações educativas buscando envolvimento e parcerias com a comunidade;
+
+IV – realizar concursos de desenhos, frases e redação com parcerias, público- privados;
+
+V – promover eventos culturais e artísticos voltados para a educação ambiental;
+
+VI – implantar a separação correta do resíduo úmido e seco dentro das escolas;
+
+VII – promover, durante todo o ano, ações para promoção do meio ambiente.
+
+**Art. 9º** Compete à Secretaria Municipal de Saúde:
+
+I – promover a divulgação e orientação sobre a coleta seletiva de resíduos sólidos recicláveis através dos agentes de saúde do controle de endemias e agentes comunitários de saúde;
+
+II – fiscalizar a cobertura dos materiais protegendo-os da chuva, de modo a não propiciar a proliferação do mosquito Aedes aegypti;
+
+III – fiscalizar as associações, cooperativas e catadores autônomos da coleta seletiva de resíduos sólidos recicláveis, quanto à higiene e à organização do local;
+
+IV – fiscalizar as associações, cooperativas e catadores autônomos, garantindo o armazenamento adequado dos materiais sólidos reciclados, de modo que não se tornem acumuladores de resíduos e locais propícios à proliferação de insetos, roedores e animais peçonhentos.
+
+**Art. 10** Competem às cooperativas, associações e catadores autônomos da coleta seletiva de resíduos sólidos recicláveis:
+
+I – a organização dos catadores;
+
+II – apresentar documentação necessária, dos cooperados, associados e veículos aos órgãos responsáveis;
+
+III – conservar, cuidar e manter em condições ambientais e de segurança o Centro de Triagem, conforme o termo de referência do chamamento público para utilização do mesmo;
+
+IV - preservar o espaço utilizado, de propriedade do município, Centro de Triagem e PEV – Pontos de Entregas Voluntárias - eco pontos;
+
+V – realizar cursos de formação para a coleta seletiva;
+
+VI – participar dos cursos de formação continuada da coleta seletiva promovidos pelo município;
+
+VII – aquisição e manutenção de equipamentos para o funcionamento do processo de coleta seletiva;
+
+VIII – não coletar material reciclável em espaço que não seja da sua responsabilidade territorial;
+
+IX – atender a rota estabelecida de acordo com o setor, nos horários e dias marcados, alternados com os dias da coleta do lixo;
+
+X – divulgar as rotas, com os dias e horários, nas regiões viabilizadas pelo Município;
+
+XI – usar o Equipamento de Proteção Individual - EPI, de acordo com as normas técnicas;
+
+XII – aceitar novos catadores da coleta seletiva nas cooperativas e associações, dentro dos critérios estabelecidos pelo estatuto;
+
+XIII – organizar ações de conscientização para a coleta seletiva;
+
+XIV – manter os materiais sob cobertura e proteção da chuva, de modo a não propiciar a proliferação do mosquito Aedes aegypti;
+
+XV – fazer o acondicionamento adequado dos materiais de modo que não se tornem locais propícios à proliferação de insetos, roedores e animais peçonhentos;
+
+XVI – manter a higiene e organização do local;
+
+XVII – fazer coleta e recepção somente de materiais recicláveis;
+
+XVIII – não acumular resíduos em residências;
+
+XIX – fazer o descarte de produtos elétricos e eletrônicos e suas carcaças, de acordo com disposto na Lei Municipal nº 8.518 de 26 de novembro de 2018;
+
+XX – fazer cronograma de venda dos materiais coletados.
+
+**§ 1º** Ficam obrigadas as associações e cooperativas que detêm o termo de parceria para utilização do Centro de Triagem fazer, além da coleta seletiva, a coleta de para choques e carcaças de plásticos;
+
+**§ 2º** Ficam autorizadas, a sociedade civil organizada e instituições, a consolidarem apoio e parcerias com associações e cooperativas devidamente cadastradas no município.
+
+**Art. 11** Competem às pessoas de natureza física e jurídica:
+
+I – identificar e separar o resíduo úmido do seco reciclável, conforme definido no art. 2º desta Lei;
+
+II – o material seco reciclável deverá ser acondicionado ou embalado, identificado para a coleta seletiva de resíduos sólidos recicláveis;
+
+III – o material constituído por vidros e cacos de vidro deverá ser embalado; acondicionado e identificado de forma segura para a coleta seletiva de resíduos sólidos recicláveis;
+
+IV – fazer o descarte correto de todo o material de que trata a Lei nº 8.518 de 26 de novembro de 2018, sobre a logística reversa;
+
+V – não espalhar resíduos em via pública;
+
+VI – colocar o material para coleta e reciclagem em frente à própria residência ou em local previamente combinado entre os moradores;
+
+VII – não passar com veículo sobre sacolas de lixo ou de materiais recicláveis;
+
+VIII – obedecer aos dias e horários para colocar os materiais recicláveis para a coleta seletiva;
+
+IX – obedecer aos dias e horários para colocar o lixo para coleta urbana e rural.
+
+**§ 1º** O munícipe que descumprir sofrerá as sansões impostas no art. 14.
+
+**§ 2º** A pessoa jurídica que descumprir, sofrerá as sansões impostas no art. 15.
+
+#### CAPÍTULO III DA SETORIZAÇÃO
+
+**Art. 12** O Programa Municipal de Coleta Seletiva de Resíduos Sólidos Recicláveis do Município será organizado da seguinte forma:
+
+I – execução por meio das cooperativas, associações e catadores autônomos, da coleta seletiva nas frentes abertas pelo Poder Público através da setorização;
+
+II – a delimitação territorial de atuação será conforme as onze regiões sanitárias definidas no Anexo I, divididas em quatro setores identificados nas cores amarelo, azul, verde e vermelho;
+
+III – as cooperativas, associações e catadores autônomos deverão obedecer aos limites delineados nos setores;
+
+IV – os setores e regiões citados no inciso II deste artigo serão compostos da seguinte forma:
+
+a) Setor Amarelo: região central e região sudeste;
+
+b) Setor Azul: região central, região sudoeste, sudoeste rural e sudoeste distante;
+
+c) Setor Verde: região central, região nordeste e nordeste distante;
+
+d) Setor Vermelho: região central, região noroeste, região noroeste rural, região noroeste distante e oeste.
+
+V – de acordo com o crescimento das demandas e necessidade de revisão dos setores, a mesma será feita entre a Secretaria Municipal de Saúde, Secretaria Municipal de Operações e Serviços Urbanos e a Secretaria Municipal de Meio Ambiente e Políticas de Mobilidade Urbana.
+
+#### CAPÍTULO IV DAS PENALIDADES
+
+**Art. 13** A Associação ou Cooperativa que descumprir o determinado nesta Lei incorrerá nas seguintes sansões:
+
+I – advertência por escrito;
+
+II – multa de 05 (cinco) UPFMDs;
+
+III – em caso de reincidência, dobra-se o valor da multa;
+
+IV – descredenciamento e exclusão do processo da coleta seletiva.
+
+**Art. 14** O munícipe ou o catador autônomo que descumprir o determinado nesta Lei, incorrerá nas seguintes sansões:
+
+I – advertência por escrito;
+
+II – multa de 01 (uma) UPFMD;
+
+III – em caso de reincidência, dobra-se o valor da multa;
+
+IV – a dívida não quitada será inscrita na Dívida Ativa do Município.
+
+**Art. 15** A pessoa jurídica que descumprir o determinado nesta Lei, incorrerá nas seguintes sansões:
+
+I - advertência por escrito;
+
+II – multa de 02 (duas) UPFMDs;
+
+III - em caso de reincidência, dobra-se o valor da multa;
+
+IV - a dívida não quitada será inscrita na Dívida Ativa do Município.
+
+**Art. 16** O acumulador que descumprir o determinado nesta Lei, incorrerá nas seguintes sansões:
+
+I – advertência por escrito;
+
+II – multa de 03 (três) UPFMDs. (verificar a penalidade aplicada pela saúde);
+
+III – em caso de reincidência, dobra-se o valor da multa;
+
+IV – a dívida não quitada será inscrita na Dívida Ativa do Município.
+
+#### CAPÍTULO V DAS DISPOSIÇÕES FINAIS
+
+**Art. 17** As despesas decorrentes da presente Lei correrão por conta da dotação orçamentária própria das Secretarias competentes, ou ainda decorrente das parcerias com instituições e a iniciativa privada.
+
+**Art. 18** Esta Lei entra em vigor na data de sua publicação.
+
+Divinópolis, 21 de outubro de 2019.
+
+Galileu Teixeira Machado Prefeito Municipal
+
+Roberto Antônio Ribeiro Chaves Secretário Municipal de Governo
+
+Wendel Santos de Oliveira Procurador-Geral do Município
+
+## ANEXO I

@@ -1307,7 +1307,7 @@
    "sapl_manual": false
   },
   "3168606": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Teófilo Otoni",
    "normas_na_fonte": 9570,
    "pasta": "teofilo-otoni",
@@ -1406,7 +1406,7 @@
    "sapl_manual": false
   },
   "3170701": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Varginha",
    "normas_na_fonte": 6771,
    "pasta": "varginha",

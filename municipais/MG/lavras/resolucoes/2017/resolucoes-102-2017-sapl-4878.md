@@ -1,0 +1,44 @@
+---
+titulo: "Resolução nº 102, de 19/12/2017"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "102"
+data: "2017-12-19"
+ementa: "CONCEDE TÍTULO DE CIDADÃO HONORÁRIO DE LAVRAS A ROBSON SOUZA DE ALMEIDA"
+municipio: "Lavras"
+uf: "MG"
+codigo_ibge: "3138203"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lavras.mg.leg.br/norma/4878"
+fonte_texto: "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2017/4878/4878_texto_integral.pdf"
+sha256_fonte: "2f4d37b2bc6ab9b3c309d51dc3bc1bbeea61d9d794a3ee833dd1d05f7fc3f24b"
+baixado_em: "2026-10-24"
+---
+
+# Resolução nº 102, de 19/12/2017
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE LAVRAS ESTADO DE MINAS GERAIS
+
+RESOLUÇÃO Nº 102/2017 (Autoria da Mesa Diretora da Câmara Municipal de Lavras)
+
+CONCEDE TÍTULO DE CIDADÃO HONORÁRIO DE LAVRAS A ROBSON SOUZA DE ALMEIDA.
+
+A Câmara Municipal de Lavras, por seus representantes legais aprovou, e eu, João Paulo Felizardo — Presidente, promulgo a seguinte Resolução:
+
+**Art. 1º** - Fica concedido o Título de Cidadão Honorário de Lavras a Robson Souza de Almeida, de acordo com o artigo 238 do Regimento Interno da Câmara Municipal de Lavras e $ 5º do artigo 22 da Lei Orgânica do Município de Lavras.
+
+**Art. 2º** - A entrega do Título será em sessão solene em data a ser previamente marcada pela Câmara Municipal de Lavras.
+
+**Art. 3º** - Esta Resolução entra em vigor na data de sua publicação.
+
+Plenário Dr. Orlando Haddad, em 19 de dezémbro de 2017.
+
+João Paulo Felizardo
+
+Avenida Pedro Sales, 542 — Centro — Fone (35) 3821-6140 — 37200.000 — Lavras - MG
+
+Pllicoda neo DOM nº LegI- IOUALA
+
+ri A e

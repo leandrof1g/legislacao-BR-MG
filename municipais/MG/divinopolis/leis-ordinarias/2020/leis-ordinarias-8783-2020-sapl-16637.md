@@ -1,0 +1,56 @@
+---
+titulo: "Lei Ordinária nº 8783, de 09/12/2020"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8783"
+data: "2020-12-09"
+ementa: "Autoriza o Poder Executivo a abrir na Secretaria Municipal de Educação, o crédito adicional suplementar no montante de R$302.658,47 (trezentos e dois mil, seiscentos e cinquenta e oito reais e quarenta e sete centavos)."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/16637"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2020/16637/lei_no_8783.2020.pdf"
+sha256_fonte: "46a5d0cae6fafcaa446123b6699783b656922f08cb8eea557a6d839791911216"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 8783, de 09/12/2020
+
+PREFEITURA MUNICIPAL DE DIVINÓPOLIS
+
+LEI Nº 8.783, DE 09 DE DEZEMBRO DE 2020.
+
+Autoriza o Poder Executivo a abrir na Secretaria Municipal de Educação, o crédito adicional suplementar no montante de R$302.658,47 (trezentos e dois mil, seiscentos e cinquenta e oito reais e quarenta e sete centavos).
+
+O Povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito Municipal, em seu nome, sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Poder Executivo autorizado a abrir na Secretaria Municipal de Educação, o crédito adicional suplementar no montante de R$302.658,47 (trezentos e dois mil, seiscentos e cinquenta e oito reais e quarenta e sete centavos), a fim de atender as seguintes despesas:
+
+02.06.01.12.122.0009.2234 - MANUTENÇÃO DO PROGRAMA CAIXAS ESCOLARES 3.3.50.41.00 - F. 0474 - Fonte 247 – Contribuições........................................................R$23.446,03
+
+02.06.01.12.306.0009.2230 - MANUTENÇÃO DA ALIMENTAÇÃO ESCOLAR 3.3.90.30.00 - F. 0487 - Fonte 244 - Material de Consumo.............................................R$80.099,83
+
+02.06.01.12.361.0009.2235 - MANUTENÇÃO DO PROGRAMA TRANSPORTE ESCOLAR 3.3.90.39.00 - F. 0505 - Fonte 245 - Outros Serviços de Terceiros – Pessoa Jurídica.....R$8.287,31 3.3.90.39.00 - F. 0505 - Fonte 206 - Outros Serviços de Terceiros – Pessoa Jurídica.....R$8.406,14
+
+02.06.01.12.361.0010.1227 - AMPLIAÇÃO E CONSERVAÇÃO DA REDE FÍSICA ESCOLAR DO ENSINO FUNDAMENTAL 4.4.90.51.00 - F. 0508 - Fonte 222 - Obras e Instalações...............................................R$80.898,23
+
+02.06.01.12.365.0009.2236 - MANUTENÇÃO DAS ATIVIDADES DA EDUCAÇÃO INFANTIL 3.3.90.30.00 - F. 0513 - Fonte 222 - Material de Consumo...............................................R$5.515,64
+
+02.06.01.12.365.0010.1229 - PROGRAMA DE EXPANSÃO DA REDE ESCOLAR PÚBLICA DE EDUCAÇÃO INFANTIL - PROINFÂNCIA 4.4.90.52.00 - F. 0527 - Fonte 222 - Equipamentos e Material Permanente...................R$96.005,29
+
+Total..............................................................................................................................R$302.658,47
+
+**Art. 2º** Nos termos do art. 43 da Lei Federal nº 4.320/1964, para fazer face às despesas de que trata o Artigo 1º desta lei, fica utilizado o superávit financeiro apurado pelas contas vinculadas do exercício anterior, sendo que o Grupo da Fonte e Destinação de Recursos é 2 (dois), de acordo com a Instrução Normativa n.º 05/2011, Anexo III do Tribunal de Contas do Estado de Minas Gerais (TCEMG).
+
+Total..........................................................................................................................R$302.658,47
+
+**Art. 3º** Este crédito vigorará até 31 de dezembro de 2020.
+
+**Art. 4º** Esta Lei entrará em vigor na data de sua publicação.
+
+Divinópolis, 09 de dezembro de 2020.
+
+Galileu Teixeira Machado Prefeito Municipal
+
+Wendel Santos de Oliveira Procurador Geral do Município

@@ -1,0 +1,50 @@
+---
+titulo: "Decreto Legislativo nº 1244, de 17/12/2021"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "1244"
+data: "2021-12-17"
+ementa: "CONCEDE O TÍTULO HONORÍFICO DE CIDADÃO PATENSE AO SENHOR PEDRO DE PAULA TOLENTINO."
+municipio: "Patos de Minas"
+uf: "MG"
+codigo_ibge: "3148004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.patosdeminas.mg.leg.br/norma/11773"
+fonte_texto: "https://sapl.patosdeminas.mg.leg.br/media/sapl/public/normajuridica/2021/11773/1244_cidadao_patense__pedro_de_paulo_tolentino.pdf"
+sha256_fonte: "0db0c6ce96442e8abb1a08f0a02eb4ae1a47f0570efeec0e5ce8c58c0350e70d"
+baixado_em: "2026-10-24"
+---
+
+# Decreto Legislativo nº 1244, de 17/12/2021
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE PATOS DE MINAS
+
+Rua José de Santana, 470, Centro, Patos de Minas/MG CEP: 38.700-052 Tel.: (34) 3821-8455 E-mail: camarapatos(G camarapatos.mg.gov.br — http://www.camarapatos.mg.gov.br
+
+DECRETO LEGISLATIVO Nº 1244, DE 17 DE DEZEMBRO DE 2021
+
+Concede o Título Honorífico de Cidadão Patense ao Sr. Pedro de Paula Tolentino
+
+A Câmara Municipal de Patos de Minas decreta e eu, em seu nome, promulgo o seguinte decreto legislativo:
+
+**Art. 1º** Fica concedido ao Sr. Pedro de Paula Tolentino o Título Honorífico de Cidadão Patense.
+
+**Art. 2º** A outorga do respectivo diploma far-se-á em sessão solene, a ser determinada pela Mesa Diretora da Câmara Ivtunicipal, em data a ser acertada de
+
+comum acordo com o homenageado.
+
+**Art. 3º** Este decreto legislativo entra em vigor na data de sua publicação.
+
+Câmara Municipal de Patos de Minas, 17 de dezembro de 2021.
+
+ia => e e DR E
+
+Ezequiel Macedo Galvão Presidente da Câmara Municipal
+
+ÉS us
+
+Co,
+
+e PROJETO DE DECRETO LEGISLATIVO Nº 1259/21, DE AUTORIA DO VEREADOR EZEQUIEL MACEDO GALVÃO

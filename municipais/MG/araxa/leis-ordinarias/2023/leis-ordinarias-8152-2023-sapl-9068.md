@@ -1,0 +1,138 @@
+---
+titulo: "Lei Ordinária nº 8152, de 11/10/2023"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "8152"
+data: "2023-10-11"
+ementa: "\"Autoriza a abertura de crédito suplementar e dá outras providências. \""
+municipio: "Araxá"
+uf: "MG"
+codigo_ibge: "3104007"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.araxa.mg.leg.br/norma/9068"
+fonte_texto: "https://sapl.araxa.mg.leg.br/media/sapl/public/normajuridica/2023/9068/lei_no_8.152.doc"
+sha256_fonte: "8bdce8d8384b9adf61af19128e321ffd242f5d2746d148174111bb09106743aa"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 8152, de 11/10/2023
+
+LEI N.º 8.152 DE 01 DE NOVEMBRO DE 2023
+
+Autoriza a abertura de crédito suplementar e dá outras providências.
+
+A CAMARA MUNICIPAL DE ARAXÁ, com a graça de Deus aprova e eu, Prefeito, sanciono e promulgo a seguinte Lei:
+
+**Art. 1º.** Fica o Poder Executivo Municipal, autorizado a abrir Crédito Adicional Suplementar, até o valor de R$ 105.343.000,00 (cento e cinco milhões trezentos e quarenta e três mil reais), objetivando a alteração nas seguintes fontes de recursos:
+
+|FONTES DE RECURSOS |VALOR (R$) |
+
+|02.0571.0000.0000- TRANSF. DO ESTADO REFERENTES A CONVÊNIOS E INSTRUMENTOS CONGÊNERES VINCULADOS A EDUCAÇÃO | |
+
+|(71) |5.725.000,00 |
+
+|02.0600.0000.0000 - TRANSFERÊNCIA SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE (59) | |
+
+| |7.530.000,00 |
+
+|02.0601.0000.0000 - TRANSFERÊNCIA SUS - BLOCO DE ESTRUTURAÇÃO DA REDE DE SERVIÇOS PÚBLICOS DE SAÚDE (53) | |
+
+| |2.230.000,00 |
+
+|02.0621.0000.0000 - TRANSFERÊNCIA FUNDO A FUNDO SUS PROVENIENTES DO GOVERNO ESTADUAL (55) | |
+
+| |935.000,00 |
+
+|02.0632.0000.0000 - TRANSFERÊNCIA DO ESTADO REF A CONVÊNIOS E OUTROS REPASSES VINCULADOS À SAÚDE (76) | |
+
+| |15.733.000,00 |
+
+|02.0660.0000.0000 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS (29) | |
+
+| |2.470.000,00 |
+
+|02.0665.0000.0000 - TRANSFERÊNCIA DE CONVÊNIOS E OUTROS REPASSES VINCULADOS À ASSISTÊNCIA SOCIAL (42) | |
+
+| |6.970.000,00 |
+
+|02.0700.0000.0000- OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU REPASSES DA UNIÃO (24) |1.170.000,00 |
+
+|02.0707.0000.0000 - TRANSFERÊNCIA DA UNIÃO INCISO I DO ART. 5º DA LEI COMPLEMENTAR | |
+
+|173/2020 (61) |1.430.000,00 |
+
+|02.0708.0000.0000- TRANSFERÊNCIA DA UNIÃO REFERENTE A COMPENSAÇÃO FINANCEIRA DE RECURSO MINERAIS (08) | |
+
+| |13.750.000,00 |
+
+|02.0710.0000.0010 - TRANSF.ESP.DO ESTADO-ACORDO JUDICIAL REP.DOS IMPAC. SOCIOAMBIENTAIS BARRAGEM BRUMADINHO | |
+
+|(68) |3.630.000,00 |
+
+|02.0751.0000.0000 - RECURSOS DE CONTRIBUIÇÃO PARA CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA - COSIP (17) | |
+
+| |6.220.000,00 |
+
+|02.0752.0000.0000 - RECURSOS VINCULADOS DO TRÂNSITO (57) |2.570.000,00 |
+
+|02.0710.0000.0000 - TRANSFERÊNCIA ESPECIAL DOS ESTADOS (69) |1.650.000,00 |
+
+|02.0750.0000.0000 - RECURSOS DA CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO - CIDE (16) | |
+
+| |219.000,00 |
+
+|02.0540.0000.0000 - TRANSF. FUNDEB - IMPOSTOSE TRANSFERÊNCIA DE IMPOSTTOS FUNDEB 30% | |
+
+|(19) |2.880.000,00 |
+
+|02.0570.0000.0000- TRANSF. DO GOVERNO FEDERAL REF A CONVÊNIOS E INST CONGÊNERES VINCULADOS A EDUCAÇÃO (22) | |
+
+| |83.000,00 |
+
+|02.0631.0000.0000 - TRANSFERÊNCIA DO GOVERNO FEDERAL REF. A CONVÊNIOS E OUTROS REPASSES VINCULADOS À SAÚDE (23)| |
+
+| |13.650.000,00 |
+
+|02.0552.0000.0000 -TRANSFERÊNCIA DE RECURSOS FNDE REF AO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR (PNAE) (44) | |
+
+| |49.000,00 |
+
+|02.0553.0000.0000 -TRANSFERÊNCIA FNDE REF AO PROGRAMA NACIONAL DE APOIO AO TRANSPORTE ESCOLAR (PNATE) (45) | |
+
+| |60.000,00 |
+
+|02.0569.000.0000- OUTRAS TRANFERÊNCIAS DE RECURSOS DO FNDE(46) |32.000,00 |
+
+|02.0550.0000.0000 - TRANSFÊRENCIA DO SALÁRIO EDUCAÇÃO (47) |2.740.000,00 |
+
+|02.0659.0000.0000 - OUTRAS TRANSFERÊNCIAS DE RECURSOS DO SUS (54) |5.030.000,00 |
+
+|02.0704.0000.0000 - TRANSFERÊNCIA DA UNIÃO DA PARCELA DOS BONUS DE ASSINATURA DE CONTRATO DE PARTILHA DE | |
+
+|PRODUÇÃO (60) |842.000,00 |
+
+|02.0706.0000.3110 - TRANSFERÊNCIA DA UNIÃO DECORRENTES DE EMENDAS PARLAMENTARES INDIVIDUAIS (64) | |
+
+| |423.000,00 |
+
+|02.0701.0000.0000 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU REPASSES DOS ESTADOS (81) |1.900.000,00 |
+
+|02.0703.0000.0000 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES (83) | |
+
+| |22.000,00 |
+
+|02.0753.0000.0000 - RECURSOS PROVENIENTES DE TAXAS E CONTRIBUIÇÕES (85) |630.000,00 |
+
+|02.0704.0000.0000 - TRANSFERÊNCIA DA UNIÃO REFE. A COMPENS. FINANC. PELA EXPLORAÇÃO DE RECURSOS NATURAIS (86) | |
+
+| |4.770.000,00 |
+
+**§ 1º.** Para fazer face ao crédito autorizado no caput utilizar-se-ão recursos provenientes ao superávit financeiro apurado em exercícios anteriores nas respectivas fontes de recursos.
+
+**§ 2º** . O Poder Executivo informará a movimentação e aplicação desses recursos decorrentes do atual projeto de lei, através do envio em até 30 (trinta) dias após a publicação de cada decreto que fizer a respectiva destinação, remetendo a essa Casa de Leis.
+
+**Art. 2º.** Esta Lei entra em vigor na data da sua publicação.
+
+RUBENS MAGELA DA SILVA
+
+Prefeito Municipal de Araxá

@@ -1,0 +1,46 @@
+---
+titulo: "Resolução nº 47, de 22/11/2021"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "47"
+data: "2021-11-22"
+ementa: "Concede Título de Cidadão Honorário de Lavras ao Padre Túlio Marcos Ribeiro Corrêa"
+municipio: "Lavras"
+uf: "MG"
+codigo_ibge: "3138203"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lavras.mg.leg.br/norma/7844"
+fonte_texto: "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2021/7844/resolucao_2021_47_honraria_padre_tulio_marcos_ribeiro_correa.pdf"
+sha256_fonte: "9a7489ab13e161ccaba8907c51664e0cf1784ca565860f0acf682b7f6a7262c3"
+baixado_em: "2026-10-24"
+---
+
+# Resolução nº 47, de 22/11/2021
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE LAVRAS ESTADO DE MINAS GERAIS
+
+RESOLUÇÃO Nº 047/2021 (Autoria do Vereador Alisson Magno Mattioli)
+
+CONCEDE TÍTULO DE CIDADÃO HONORÁRIO DE LAVRAS AO PADRE TÚLIO MARCOS RIBEIRO CORRÊA.
+
+Faço saber que a Câmara Municipal aprovou e eu promulgo a seguinte Resolução:
+
+**Art. 1º** - Fica concedido o Título de Cidadão Honorário de Lavras ao Padre Túlio Marcos Ribeiro Corrêa, de acordo com os 48 5º, 6º e 7º do art. 22 da Lei Orgânica do Município de Lavras c/c
+
+art. 180, inciso IV; art. 222, inciso XXIII; art. 153, inciso V, arts. 238 a 240 da Resolução nº 068/2011, que “dispõe sobre o Regimento da Câmara Municipal de Lavras” cfc arts. 1º a 6º da Resolução nº 003/2004, que “dispõe sobre a criação e outorga de honrarias pela Câmara Municipal de Lavras”.
+
+**Art. 2º** - A entrega do Título será em Sessão Solene, que realizar-se-á em data a ser agendada pela Câmara Municipal de Lavras, no Prédio Sede da Câmara Municipal de Lavras.
+
+**Art. 3º** - Esta Resolução entra em vigor na data de sua publicação.
+
+Plenário Dr. Orlando Haddad, em 22 de novembro de 2021.
+
+(Zrs
+
+Carpas Ee LE UBIRAJARÁ CASSIANO ROCHA
+
+Presidente
+
+Avenida Pedro Sales, 542, Centro — (35) 3821-6140 — CEP 37200.238 — Lavras -- MG www.lavras.mg.leg.br

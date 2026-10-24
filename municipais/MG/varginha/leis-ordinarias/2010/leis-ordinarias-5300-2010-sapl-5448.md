@@ -1,0 +1,58 @@
+---
+titulo: "Lei Ordinária nº 5300, de 28/12/2010"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "5300"
+data: "2010-12-28"
+ementa: "AUTORIZA O MUNICÍPIO DE VARGINHA, A CONCEDER AUXÍLIO FINANCEIRO AO INSTITUTO CULTURAL ARTETUDE."
+municipio: "Varginha"
+uf: "MG"
+codigo_ibge: "3170701"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.varginha.mg.leg.br/norma/5448"
+fonte_texto: "https://sapl.varginha.mg.leg.br/media/sapl/public/normajuridica/2010/5448/lei5300-2010.pdf"
+sha256_fonte: "cff640b79f6733b7975ca96617dcbccdad3ec5588846f0b8e903ad0cb447ae86"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 5300, de 28/12/2010
+
+LEI N° 5.300
+
+AUTORIZA O MUNICÍPIO DE VARGINHA, A CONCEDER AUXÍLIO FINANCEIRO AO INSTITUTO CULTURAL ARTETUDE.
+
+O Povo do Município de Varginha, Estado de Minas Gerais, por seus representantes na Câmara Municipal e de acordo com as disposições constantes no Processo Administrativo n° 17.274/2010, aprovou e eu, em seu nome sanciono a seguinte Lei,
+
+**Art. 1°** Fica o Município de Varginha, autorizado a conceder ao INSTITUTO CULTURAL ARTETUDE, inscrito no CNPJ/MF sob o n ° 09.402.227/0001-38, com sede na Rua Professora Alice Macedo, n° 97, bairro Nossa Senhora de Lourdes, Varginha-MO, auxilio financeiro no valor de até R$ 12.000,00 (doze mil reais).
+
+**Parágrafo único.** O auxílio financeiro deverá ser utilizado para pagamento e/ou ressarcimento das despesas inerentes à realização das apresentações das Companhias de Santos Reis, a critério da Secretaria Municipal de Turismo e Comércio - SETEC.
+
+**Art. 2°** O auxílio referido deverá ser pago de acordo com o Cronograma Financeiro de Pagamento, a ser estabelecido pelo Chefe do Executivo Municipal.
+
+**Art. 3°** O Instituto deverá prestar contas à Secretaria Municipal de Controle Interno - SECON, dos recursos financeiros recebidos, dentro de 30 (trinta) dias corridos, contados do recebimento da última parcela.
+
+**Art. 4°** Fica o Prefeito Municipal autorizado a baixar normas, visando disciplinar o sistema de prestação de contas a ser feita.
+
+**Art. 5°** Para cumprimento desta Lei, o Município de Varginha celebrará Termo de Convênio com o referido Instituto.
+
+**Parágrafo único.** Deverá ser encaminhado à
+
+Lei ii" 5.300
+
+Câmara Municipal, para fins de conhecimento e arquivamento, cópia do instrumento firmado com base no "caput" deste artigo.
+
+**Art. 6°** As despesas decorrentes desta Lei, correrão à conta de dotação orçamentária própria do Município, no orçamento da SECRETARIA MUNICIPAL DE TURISMO E COMÉRCIO - SETEC, consignadas no exercício financeiro de 2010, sob a rubrica 33.50.41.00-04.121.7070.2302-262, ficando o Chefe do Executivo autorizado a suplementá-la, se necessário, nos termos da Lei n° 4.320/1964.
+
+**Art. 7°** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Mando, portanto, a todas as autoridades a quem o conhecimento e execução desta Lei pertencer, que a cumpram e a façam cumprir, tão inteiramente como nela se contém.
+
+Prefeitura do Município de Varginha, 28 de dezembro de 2010; 128° da Emancipação Político-Administrativa do Município.
+
+EDUARDO ANTONIO CARV HO ç, PREFEITO MUNICIP
+
+JORDÁLIO FLORÊNCIO DE OLIVEIRA JOSÉ OSWALDO çURLANETTO SECRETÁRIO MUNICIPAL DE SECRETÁRIO MUNICIPAL DE GOVERNO ADMINISTRAÇÃO
+
+BERTONLÚCIO MEN O (tA DE MACEDO HENRIQUE LEMES TAVARES SECRETÁRIO MUNICIPAL DA SECRETÁRIO MUNICIPAL DE TURISMO FAZENDA, INTERINO E COMERCIO
+
+Lei n° 5.300

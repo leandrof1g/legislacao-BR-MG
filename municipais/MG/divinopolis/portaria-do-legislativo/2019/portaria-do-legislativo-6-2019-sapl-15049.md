@@ -1,0 +1,36 @@
+---
+titulo: "Portaria do Legislativo nº 6, de 02/01/2019"
+tipo: "Portaria do Legislativo"
+tipo_na_fonte: "Portaria do Legislativo"
+numero: "6"
+data: "2019-01-02"
+ementa: "Ratifica a Portaria nº CM-125/2013 que concede gratificação de função a título precário em virtude do desempenho de atribuições junto à Comissão Permanente de Licitações da Câmara Municipal de Divinópolis à servidora Heloisa Aparecida Carvalho Ferreira"
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/15049"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2019/15049/6.pdf"
+sha256_fonte: "26a9c36be59e0586ad941c98c9cf0b1cdae48b9709c9173aadca86e13981e83e"
+baixado_em: "2026-10-24"
+---
+
+# Portaria do Legislativo nº 6, de 02/01/2019
+
+PORTARIA Nº CM-006 DE 02 DE JANEIRO DE 2019
+
+Ratifica a Portaria nº CM-125/2013 que concede gratificação de função a título precário em virtude do desempenho de atribuições junto à Comissão Permanente de Licitações da Câmara Municipal de Divinópolis à servidora Heloisa Aparecida Carvalho Ferreira
+
+O Presidente da Câmara Municipal de Divinópolis, Vereador Rodrigo Vasconcelos de Almeida Kaboja, no uso de suas atribuições legais;
+
+RESOLVE baixar a seguinte Portaria:
+
+**Art. 1º** Ficam ratificados até 31 de dezembro de 2019 os efeitos da Portaria CM-125 de 13 de junho de 2013.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação com efeitos retroativos ao dia 1º de janeiro de 2019.
+
+Divinópolis, 02 de Janeiro de 2019.
+
+VEREADOR RODRIGO VASCONCELOS DE ALMEIDA KABOJA Presidente da Câmara Municipal de Divinópolis
+
+Rua São Paulo, 277 – Praça Jovelino Rabelo – Centro – CEP 35.500-006 – Fone (37) 2102-8200 – Fax: 2102-8290 Portal: www.divinopolis.mg.leg.br e-mail: geral@divinopolis.mg.leg.br

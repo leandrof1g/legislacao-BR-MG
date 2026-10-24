@@ -1,0 +1,82 @@
+---
+titulo: "Lei Ordinária nº 8825, de 21/05/2021"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8825"
+data: "2021-05-21"
+ementa: "Autoriza o Poder Executivo a abrir na Secretaria Municipal de Saúde, o crédito adicional suplementar no montante de R$29.706.783,29 (vinte e nove milhões, setecentos e seis mil, setecentos e oitenta e três reais e vinte e nove centavos)."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/17175"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2021/17175/lei_no_8825.2021.pdf"
+sha256_fonte: "2ae3483452d5b052606e396f49eba35fd075a90e515542636bb9eb291c5a7025"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 8825, de 21/05/2021
+
+LEI Nº. 8.825, DE 21 DE MAIO DE 2021.
+
+Autoriza o Poder Executivo a abrir na Secretaria Municipal de Saúde, o crédito adicional suplementar no montante de R$29.706.783,29 (vinte e nove milhões, setecentos e seis mil, setecentos e oitenta e três reais e vinte e nove centavos).
+
+O Povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito Municipal, em seu nome, sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Poder Executivo autorizado a abrir na Secretaria Municipal de Saúde, o crédito adicional suplementar no montante de R$29.706.783,29 (vinte e nove milhões, setecentos e seis mil, setecentos e oitenta e três reais e vinte e nove centavos), a fim de atender as seguintes despesas:
+
+02.12.02.10.122.0003.2431 - MANUTENÇÃO DOS SERVIÇOS ADMINISTRATIVOS E GESTÃO DA SECRETARIA MUNICIPAL DE SAÚDE 3.1.90.16.00 - F. 0894 - Fonte 255 - Outras Despesas Variáveis - Pessoal Civil..................................................................................................................R$6.672,97 3.3.90.39.00 - F. 0904 - Fonte 259 - Outros Serviços de Terceiros - Pessoa Jurídica.........................................................................................................R$120.954,84 3.3.90.93.00 - F. 0909 - Fonte 223 - Indenizações e Restituições....................................................................................................R$32.556,87 3.3.90.93.00 - F. 0909 - Fonte 253 - Indenizações e Restituições.................R$ 3.407,38 3.3.90.93.00 - F. 0909 - Fonte 255 - Indenizações e Restituições................R$47.179,78 4.4.90.52.00 - F. 0910 - Fonte 253 - Equipamentos e Material Permanente....................................................................................................R$43.053,74
+
+02.12.02.10.122.0012.2460 - ENFRENTAMENTO DA EMERGÊNCIA COVID-19 3.3.90.30.00 - F. 0923 - Fonte 254 - Material de Consumo......................R$1.092.020,00 3.3.90.32.00 - F. 0924 - Fonte 254 - Material, Bem ou Serviço para Distribuição Gratuita........................................................................................................R$736.000,00 3.3.90.34.00 - F. 0925 - Fonte 254 - Outras Despesas de Pessoal Decorrentes de Contrato....................................................................................................R$1.602.100,00 3.3.90.39.00 - F. 0926 - Fonte 254 - Outros Serviços de Terceiros - Pessoa Jurídica......................................................................................................R$4.250.000,00 4.4.90.52.00 - F. 0931 - Fonte 254 - Equipamentos e Material Permanente..................................................................................................R$551.629,42
+
+02.12.02.10.122.0021.2432 - MANUTENÇÃO DO CONSELHO MUNICIPAL DE SAÚDE 3.3.90.30.00 - F. 0932 - Fonte 259 - Material de Consumo...........................R$23.307,62 3.3.90.39.00 - F. 0936 - Fonte 259 - Outros Serviços de Terceiros - Pessoa Jurídica...........................................................................................................R$26.000,00
+
+3.3.90.48.00 - F. 0937 - Fonte 255 - Outros Auxílios Financeiros a Pessoas Físicas..............................................................................................................R$5.228,90 4.4.90.52.00 - F. 0939 - Fonte 259 - Equipamentos e Material Permanente....................................................................................................R$20.000,00
+
+02.12.02.10.301.0012.2436 - IMPLANTAÇÃO E MANUTENÇÃO DO PROGRAMA ESTRATÉGIA EM SAÚDE DA FAMÍLIA 3.3.90.30.00 - F. 0945 - Fonte 259 - Material de Consumo..........................R$17.725,06 3.3.90.39.00 - F. 0950 - Fonte 255- Outros Serviços de Terceiros - Pessoa Jurídica.........................................................................................................R$407.163,37 4.4.90.52.00 - F. 0955 - Fonte 255- Equipamentos e Material Permanente....................................................................................................R$42.836,55
+
+02.12.02.10.301.0012.2437 - MANUTENÇÃO DAS UNIDADES DE ATENÇÃO PRIMÁRIA EM SAÚDE 3.3.90.30.00 - F. 0961 - Fonte 255- Material de Consumo..........................R$450.247,71 3.3.90.30.00 - F. 0961 - Fonte 259 - Material de Consumo.........................R$302.000,00 3.3.90.30.00 - F. 0961 - Fonte 261 - Material de Consumo.............................R$2.119,12 3.3.90.32.00 - F. 0962 - Fonte 255- Material, Bem ou Serviço para Distribuição Gratuita..........................................................................................................R$50.000,00 3.3.90.39.00 - F. 0966 - Fonte 255- Outros Serviços de Terceiros - Pessoa Jurídica.........................................................................................................R$108.876,99 4.4.90.52.00 - F. 0971 - Fonte 253- Equipamentos e Material Permanente..................................................................................................R$200.524,47 4.4.90.52.00 - F. 0971 - Fonte 255 - Equipamentos e Material Permanente..................................................................................................R$127.739,69
+
+02.12.02.10.302.0012.2438 - TRATAMENTO FORA DE DOMICÍLIO 3.3.90.33.00 - F. 0977 - Fonte 259- Passagens e Despesas com Locomoção.......................................................................................................R$8.985,26
+
+02.12.02.10.302.0012.2439 - IMPLANTAÇÃO E MANUTENÇÃO DOS SERVIÇOS DE URGÊNCIA E EMERGÊNCIA 3.3.90.30.00 - F. 0990 - Fonte 223- Material de Consumo..........................R$500.321,10 3.3.90.30.00 - F. 0990 - Fonte 255 - Material de Consumo.........................R$168.780,51 3.3.90.34.00 - F. 0993 - Fonte 259- Outras Despesas de Pessoal Decorrentes de Contrato.......................................................................................................R$335.974,22 3.3.90.39.00 - F. 0995 - Fonte 255- Outros Serviços de Terceiros - Pessoa Jurídica.........................................................................................................R$250.000,00 3.3.90.39.00 - F. 0995 - Fonte 259 - Outros Serviços de Terceiros - Pessoa Jurídica......................................................................................................R$2.000.000,00 4.4.90.52.00 - F. 1000 - Fonte 253- Equipamentos e Material Permanente..................................................................................................R$125.423,75 4.4.90.52.00 - F. 1000 - Fonte 255 - Equipamentos e Material Permanente..................................................................................................R$282.000,00
+
+02.12.02.10.302.0012.2440 - IMPLANTAÇÃO E MANUTENÇÃO DOS SERVIÇOS ESPECIALIZADOS 3.1.90.11.00 - F. 1001 - Fonte 255- Vencimentos e Vantagens Fixas - Pessoal Civil................................................................................................................R$36.014,08 3.3.90.30.00 - F. 1006 - Fonte 255- Material de Consumo..........................R$147.207,83
+
+3.3.90.30.00 - F. 1006 - Fonte 259 - Material de Consumo......................................................................................................R$192.228,95 3.3.90.39.00 - F. 1010 - Fonte 255- Outros Serviços de Terceiros - Pessoa Jurídica.........................................................................................................R$200.090,81 4.4.90.52.00 - F. 1015 - Fonte 253- Equipamentos e Material Permanente......................................................................................................R$6.847,56 4.4.90.52.00 - F. 1015 - Fonte 255 - Equipamentos e Material Permanente..................................................................................................R$364.365,88
+
+02.12.02.10.302.0012.2443 - MANUTENÇÃO DOS SERVIÇOS DE APOIO DIAGNÓSTICO E TERAPÊUTICO (SADT) 3.3.90.30.00 - F. 1023 - Fonte 259- Material de Consumo.................................R$366,96
+
+02.12.02.10.302.0012.2444 - MANUTENÇÃO DAS ATIVIDADES DE ASSISTÊNCIA AMBULATORIAL E HOSPITALAR (TERCEIROS) 3.3.50.41.00 - F. 1031 - Fonte 255- Contribuições...................................R$1.740.298,21 3.3.90.39.00 - F. 1034 - Fonte 255- Outros Serviços de Terceiros – Pessoa Jurídica.........................................................................................................R$428.726,32 3.3.90.39.00 - F. 1034 - Fonte 259 - Outros Serviços de Terceiros – Pessoa Jurídica......................................................................................................R$6.211.611,74 3.3.90.92.00 - F. 1036 - Fonte 255 - Despesas de Exercícios Anteriores.........................................................................................................R$9.080,00 3.3.90.92.00 - F. 1036 - Fonte 259 - Despesas de Exercícios Anteriores..................................................................................................R$2.176.585,77
+
+02.12.02.10.302.0012.2462 - ENFRENTAMENTO DA EMERGÊNCIA DA COVID-19 - MÉDIA E ALTA COMPLEXIDADE 3.3.90.39.00 - F. 1292 - Fonte 255- Outros Serviços de Terceiros – Pessoa Jurídica................................................................................................................R$230,43
+
+02.12.02.10.303.0012.2447 - MANUTENÇÃO DO PROGRAMA DE ASSISTÊNCIA FARMACÊUTICA 3.3.90.30.00 - F. 1040 - Fonte 259- Material de Consumo............................R$34.150,62 3.3.90.32.00 - F. 1041 - Fonte 255- Material, Bem ou Serviço para Distribuição Gratuita.....................................................................................................R$1.643.852,29 3.3.90.32.00 - F. 1041 - Fonte 259 - Material, Bem ou Serviço para Distribuição Gratuita....................................................................................................... R$587.411,72 4.4.90.52.00 - F. 1048 - Fonte 253- Equipamentos e Material Permanente....................................................................................................R$17.270,39 4.4.90.52.00 - F. 1048 - Fonte 254 - Equipamentos e Material Permanente....................................................................................................R$65.080,14
+
+02.12.02.10.304.0012.2448 - MANUTENÇÃO DOS SERVIÇOS DE VIGILÂNCIA SANITÁRIA 4.4.90.52.00 - F. 1062 - Fonte 255- Equipamentos e Material Permanente..................................................................................................R$169.077,58
+
+02.12.02.10.305.0012.2446 - MANUTENÇÃO DO PROGRAMA DE HIV/AIDS E OUTRAS DSTs 3.1.90.11.00 - F. 1063 - Fonte 259- Vencimentos e Vantagens Fixas – Pessoal Civil................................................................................................................R$60.186,32 3.3.90.30.00 - F. 1068 - Fonte 259- Material de Consumo..........................R$385.594,38
+
+3.3.90.39.00 - F. 1072 - Fonte 259- Outros Serviços de Terceiros – Pessoa Jurídica...........................................................................................................R$87.735,92 4.4.90.52.00 - F. 1076 - Fonte 259- Equipamentos e Material Permanente..................................................................................................R$374.135,66
+
+02.12.02.10.305.0012.2449 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EM SAÚDE 3.3.90.30.00 - F. 1082 - Fonte 255- Material de Consumo..............................R$1.173,14 3.3.90.30.00 - F. 1082 - Fonte 259 - Material de Consumo...........................R$47.116,10 4.4.90.52.00 - F. 1092 - Fonte 253- Equipamentos e Material Permanente....R$8.890,17 4.4.90.52.00 - F. 1092 - Fonte 255 - Equipamentos e Material Permanente..................................................................................................R$687.180,00
+
+02.12.02.10.306.0012.2453 - ALIMENTAÇÃO E NUTRIÇÃO 3.3.90.30.00 - F. 1093 - Fonte 259- Material de Consumo............................R$30.000,00 4.4.90.52.00 - F. 1095 - Fonte 253- Equipamentos e Material Permanente....................................................................................................R$45.000,00 4.4.90.52.00 - F. 1095 - Fonte 259 - Equipamentos e Material Permanente.....................................................................................................R$ 8.445,00
+
+Total..........................................................................................................$29.706.783,29
+
+**Art. 2º** Nos termos do art. 43 da Lei Federal nº 4.320/1964, para fazer face às despesas de que trata o art. 1º desta Lei, fica utilizado o superávit financeiro apurado pelas contas vinculadas do exercício anterior, sendo que o Grupo da Fonte e Destinação de Recursos é 2 (dois), de acordo com a Instrução Normativa n.º 05/2011,
+
+Anexo III do Tribunal de Contas do Estado de Minas Gerais - TECEMG.
+
+Total........................................................................................................R$29.706.783,29
+
+**Art. 3º** Este crédito vigorará até 31 de dezembro de 2021.
+
+**Art. 4º** Esta Lei entrará em vigor na data de sua publicação.
+
+Divinópolis, 21 de maio de 2021.
+
+Gleidson Gontijo de Azevedo Prefeito Municipal
+
+Leandro Luiz Mendes Procurador-geral do Município

@@ -1,0 +1,66 @@
+---
+titulo: "Lei Ordinária nº 2153, de 28/12/1987"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "2153"
+data: "1987-12-28"
+ementa: "ALTERA A LEI Nº 1626 DE 28 DE DEZEMBRO DE 1979 (CTM), DE ACORDO COM A LEI COMPLEMENTAR Nº 56 DE 15 DE DEZEMBRO DE 1.987."
+municipio: "Araxá"
+uf: "MG"
+codigo_ibge: "3104007"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.araxa.mg.leg.br/norma/3782"
+fonte_texto: "https://sapl.araxa.mg.leg.br/media/sapl/public/normajuridica/1987/3782/3782_texto_integral.pdf"
+sha256_fonte: "5f64d452aee9d24d13bd7635c6d13f57ee2b938fee9544af9e59e5cb532ff5b3"
+baixado_em: "2026-10-24"
+---
+
+# Lei Ordinária nº 2153, de 28/12/1987
+
+LEI Nº 2.153
+
+Altera a Lei nº 1626 de 28 de dezembro de 1979 (CTM), de acordo com a Lei Complementar nº 56 de 15 de dezembro de 1.987.
+
+A CÂMARA MUNICIPAL DE ARAXÁ, com a Graça de Deus decreta, e eu Prefeito Municipal sanciona a seguinte Lei:
+
+**Art. 1º** – O artigo 35 da Lei nº 1626 de 28 de dezembro de 1.979 (CTM) passa a ter a seguinte redação: Quando os serviços a que se referem os itens 1, 4, 7, 24 51, 87, 88, 89, 90, 91 da Lista anexa forem prestados por sociedades, estas ficarão sujeitas ao imposto, calculado em relação a cada profissional habilitado, sócio, empregado ou não, que preste serviços em nome da sociedade, embora assumindo responsabilidade pessoal, nos termos da lei aplicável.
+
+**Art. 2º** – O art. 29 da Lei nº 1626 de 28 de dezembro de 1979 (CTM) passa a ter a seguinte redação: sujeitam­se ao imposto o serviço de:
+
+1­ Médico, inclusive análises clínicas, eletricidade médica, radioterapia, ultra­ sonografia, radiologia, tomografia e congêneres. 2­ Hospitais, clínicas, sanatórios, laborarórios, de análise, ambulatórios, pronto­ socorros, manicômios, casas de saúde, de repouso e de recuperação e congêneres. 3­ Bancos de sangue, leite, pele, olhos, sêmen e congêneres. 4­ Enfermeiros, obstetras, ortópticos, fonoaudiólogos, protéticos (prótese dentária). 5­ Assistência médica e congêneres previstas nos itens 1, 2 e 3 desta Lista, prestados através de planos de medicina de grupo, convênios inclusive com empresas para assistência a empregados. 6­ Planos de saúde, prestados por empresa que não esteja incluída no ítem 5 desta lista e que se cumprem através de serviços prestados por terceiros, contratados pela empresa ou apenas pagos por esta mediante indicação do benefício do plano. 7­ Médicos Veterinários. 8­ Hospitais veterinários, clínicas veterinárias e congêneres. 9­ Guarda, tratamento, amestramento, adestramento, embelezamento, alojamento e congêneres, relativos a animais. 10­ Barbeleiros, cabelereiros, manicures, pedicures, tratamento de pele, depilação e congêneres.
+
+11­ Banhos, duchas, sauna, massagens, ginásticas e congêneres. 12­ Varrição, coleta, remoção e incineração de lixo. 13­ Limpeza e drenagem de portos, rios e canais. 14­ Limpeza, manutenção e conservação de imóveis, inclusive vias públicas, parques e jardins. 15­ Desinfecção, imunização, higienização, desratização e congêneres. 16­ Controle e tratamento de efluentes de qualquer natureza e de agentes físicos e biológicos 17­ Incineração de resíduos quaisquer. 18­ Limpeza de chaminés. 19­ Saneamento ambiental e congêneres. 20­ Assistência Técnica. 21­ Assessoria de consultoria de qualquer natureza, não contida em outros itens desta lista, organização, programação, planejamento, assessoria, processamento de dados, consultoria técnica, financeira, ou administrativa. 22­ Planejamento, coordenação, programação ou organização técnica, financeira, ou administrativa. 23­ Análises, inclusive de sistemas, exames, pesquisas e informações, coleta e processamento de qualquer natureza. 24­ Contabilidade, auditoria, guarda livros, técnicos em contabilidade e congêneres. 25­ Perícias, laudos, exames técnicos e análises técnicas. 26­ Traduções e interpretações. 27­ Avaliação de bens. 28­ Datilografia, estenografia, expediente, secretaria geral e congêneres. 29­ Projetos, calculos e desenhos técnicos de qualquer natureza. 30­ Aerofogrametria (inclusive interpretação), mapeamento e topografia. 31­ Execução por administração, empreitada ou subempreitada, de construção civil, de obras hidráulicas e outras e outras obras semelhantes e respectiva engenharia consultiva, inclusive serviços auxiliares ou complementares (exceto o fornecimento de mercadorias produzidas pelo prestador de serviços, fora do local da prestação dos serviços, que fica sujeito ao ICM). 32­ Demolição. 33­ Reparação, conservação e reforma de edifícios, estradas, pontes, portos e congênres (exceto o fornecimento de mercadorias produzidas pelo prestador dos serviços fora do local da prestação dos serviços, que fica sujeito ao ICM). 34­ Pesquisas, perfuração, cimentação, perfilagem, estimulação e outros serviços relacionados com a exploração e explotação de petróleo e gás natural. 35­ Florestamento e reflorestamento.
+
+36­ Escoramento e contenção de encostas e serviços congêneres. 37­ Paisagismo, jardinagem e decoração (exceto o fornecimento de mercadorias, que fica sujeito ao ICM) 38­ Raspagem, calafetação, polimento, ilustração de pisos, paredes e divisórias. 39­ Ensino, instrução, treinamento, avaliação de conhecimentos, de qualquer grau ou natureza. 40­ Planejamento, organização e administração de feiras, exposições, congressos e congêneres. 41­ Organização de festas e recepções: Buffet (exceso o fornecimento de alimentação e bebidas, que fica sujeito ao ICM). 42­ Administração de bens e negócios de terceiros e de consórcio. 43­ Administração de fundos mútuos (exceto a realizada por instituições autorizadas a funcionar pelo Banco Central). 44­ Ageciamento, corretagem ou intermediação de câmbio, de seguros e de planos de previdências privada. 45­ Agenciamento, corretagem ou intermediação de títulos quaisquer (exceto os serviços executados por instituições autorizadas a funcionar pelo Banco Central). 46­ Agenciamento, corretagem ou intermediação de direitos da propriedade industrial, artística e literária. 47­ Agenciamento, corretagem ou intermediação de contratos de franquia (franchise) e de faturação (factoring) excetuam­se os serviços prestados por instituições autorizadas a funcionar pelo Banco Central. 48­ Agenciamento, organização, promoção e execução de programas de turismo, passeios, escursões, guias de turismo e congêneres. 49­ Agenciamento, corretagem ou intermediação de bens móveis e imóveis não abrangidos nos itens 44, 45, 46, 47. 50­ Despachante 51­ Agentes da propriedade artística ou literária 53­ Leilão 54­ Regulação de sinistros cobertos por contratos de seguros; inspeção e avaliação de riscos para cobertura de contratos de seguros; prevenção e gerncia de riscos seguráveis, prestados por quem não seja o próprio segurado ou companhia de seguro. 55­ Armazenamento, depósito, carga, descarga, arrumação e guarda de bens de qualquer espécie (exceto depósitos feitos em instituições financeiras autorizadas a funcionar pelo Banco Central). 56­ Guarda e estacionamento de veículos automotores terrestres. 57­ Vigilância ou segurança de pessoas e de bens. 58­ Transporte, coleta, remessa ou entrega de bens ou valores, dentro do território do
+
+município. 59­ Diversões públicas
+
+a) cinemas, “táxi dancings” e congêneres
+
+b) bilhares, beliches, corridas de animais e outros jogos
+
+c) exposições, com cobrança de ingresso
+
+d) bailes, shows, festivais, recitais e congênres, inclusive espetáculos qu seja também transmitidos, mediante compra de direitos para tanto, pela televisão, ou pelo rádio.
+
+e) jogos eletrônicos
+
+f) competições esportivas ou de destreza física ou intelectual, com ou sem participação do espectador, inclusive a venda de direitos à transmissão pelo rádio ou pela televisão
+
+g) execução de múscia, individualmente ou por conjuntos 60­ Distribuição e venda de bilhetes de loteria, cartões, pules ou cupons de apostas, sorteios ou prêmios 61­ Fornecimento de música, mediante, transmissão por qualquer processo para vias públicas ou ambientes fechados (exceto transmissões radiofonicas ou de televisão) 62­ Gravação e distribuição de filmes e vídeo­tapes. 63­ Fonografia ou gravação de sons ou ruídos, inclusive, trucagem, dublagem e mixagem sonora. 64­ Fotografia e cinematografia, inclusive revelação, ampliação e cópia, reprodução e trucagem 65­ Produção, para terceiros, mediante, ou sem encomenda prévia, de espetáculos, entrevistas e congêneres 66­ Colocação de tapetes e cortinas, com material fornecido pelo usuário final do serviço. 67­ Lubrificação, limpeza e revisão de máquinas, veículos, aparelhos e equipamentos (exceto fornecimento de peças e partes, que fica sujeito ao ICM) 68­ Conserto, restauração, manutenção e conservação de máquinas, veículos, motores, elevadores ou de qualquer objeto (exceto o forneciemnto de peças qu fica sujeito a ICM) 69­ Recondicionamento de motores (o valor das peças fornecidas pelo prestador do serivço fica sujeito ao ICM). 70­ Recauchutagem ou regeneração de pneus para o usário final 71­ Recondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, gavanoplastia, anodização, corte, recorte, polimento, plastificação e congêneres, de objetos não destinados à industrialização ou comercialização 72­ Lustração de bens móveis quando o serviço for prestado para usuário final do objeto lustrado 73­ Instalação e montagem de aparelhos, máquinas e equipamentos, prestados ao usuário final do serviço, exclusivamente com material por ele fornecido
+
+74­ Montagem industrial, prestada ao usuário final do serviço, exclusivamente com material por ele fornecido 75­ Cópia ou reprodução, por quaisquer processo, de documentos e outras papéis, plantas ou desenhos 76­ Composição gráfica, fotocomposição, clicheria, zincografia, litografia e fotolitografia 77­ Colocação de molduras e afins, encadernação, gravação e douração de livros, revistas e congêneres 78­ Locação de bens móveis, inclusive arrendamento mercantil 79­ Funerais 80­ Alfaiataria e costura, quando o material for fornecido pelo usuário final, exceto aviamento 81­ Tinturaria e lavanderia 82­ Taxidermia 83­ Recrutamento, agenciamento, seleção, colocação ou fornecimento de mão de obra, mesmo em caráter temporário, inclusive por empregados do prestador do serviço ou por trabalhadores avulsos por ele contratados 84­ Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e demais materiais publicitários (exceto sua impressão, reprodução ou fabricação) 85­ Veiculação e divulgação de textos, desenhos e outros materiais de publicidade, por qualquer meio (exceto em jornais periódicos, rádios e televisão) 86­ Serviços portuários e aeroportuários, utilização de porto ou aeroporto, atracação, capatazia, armazenagem interna, externa e especial, suprimento de água, serviços acessórios, movimentação de mercadoria fora do cais 87­ Advogados 88­ Engenheiros, arquitetos, urbanistas, agronomos 89­ Dentistas 90­ Economistas 91­ Psicólogos 92­ Assistentes sociais 93­ Relações Públicas 94­ Cobranças e recebimentos por conta de terceiros, inclusive direitos autoriais, protestos de títulos, sustação de protestos, devolução de títulos não pagos, manutenção de títulos vencidos, fornecimentos de posição de cobrança ou recebimento e outros serviços correlatos da cobrança ou recebimento (este ítem abrange os serviços prestados por instituições autorizadas a funcionar pelo Banco Central) 95­ Instituições financeiras autorizadas a funcionar pelo Banco Central fornecimento de
+
+talão de cheques, emissão de cheques administrativos, transferência de fundos, devolução de cheques, sustação de pagamento de cheques, ordens de pagamento e de créditos, por qualquer meio emissão e renovação de cartões magnéticos; consultas em terminais eletrônicos; pagamento por conta de terceiros, inclusive os feitos fora dos estabelecimento; elaboração da ficha cadastral; aluguel de cofres, fornecimento de segunda via de avisos de lançamento de extrato de contas; emissão de carnês (neste ítem não está abrangido o ressarciando, as instituições financeiras, de gastos com portes do correio, telegramas, telex e teleprocessamento, necessários à prestação dos serviços) 96­ Transporte de natureza estritamente municipal 97­ Comunicações telefônicas de um para outro aparelho dentro do mesmo município 98­ Hospedagem em hotéis, motéis, pensões e congêneres (o valor da alimentação, quando incluído no preço da diária, fica sujeito ao Imposto sobre Serviços). 99­ Distribuição de bens de terceiros em representação de qualquer natureza.
+
+**Art. 3º** – As informações individualizadas sobre serviços prestados a terceiros, necessários à comprovação dos fatos gerados citados nos itens 94 e 95 serão prestados pelas instituições financeiras na forma prescrita pelo inciso II do art. 197 da lei nº 5.172 de 25 de outubro de 1.966 – (código Tributário Nacional).
+
+**Art. 4º** – O anexo nº 1 da Lei nº 1.626 de 28 de Dezembro de 1.979 (CTM) passa a ter a redação do anexo desta Lei.
+
+**Art. 5º** – Revogadas as disposições em contrário entrará esta Lei em vigor na data de sua publicação.
+
+Prefeitura Municipal de Araxá, 28 de dezembro de 1987.
+
+ARACELY DE PAULA Prefeito Municipal
+
+LUIZ GONZAGA DI MAMBRO Secretário Municipal de Governo
