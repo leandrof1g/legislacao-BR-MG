@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 6092, de 05/06/2009"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6092"
+data: "2009-06-05"
+ementa: "DECLARA DE UTILIDADE PÚBLICA A CAIXA ESCOLAR MARIA INEZ RUBINGER DE QUEIROZ RODRIGUES."
+municipio: "Patos de Minas"
+uf: "MG"
+codigo_ibge: "3148004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.patosdeminas.mg.leg.br/norma/304"
+fonte_texto: "https://sapl.patosdeminas.mg.leg.br/media/sapl/public/normajuridica/2009/304/304_texto_integral.doc"
+sha256_fonte: "39079329ea5923fd74a5bdbab16af981a839e470f0ba73665176659fb1ac1800"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 6092, de 05/06/2009
+
+LEI Nº 6.092, DE 5 DE JUNHO DE 2009.
+
+Declara de Utilidade Pública a Caixa Escolar Maria Inez Rubinger de Queiroz Rodrigues.
+
+O Povo do Município de Patos de Minas, Estado de Minas Gerais, por seus representantes, aprovou, e, eu em seu nome, sanciono a seguinte Lei:
+
+**Art. 1º** Fica declarada e reconhecida de utilidade pública a Caixa Escolar Maria Inez Rubinger de Queiroz, da “Escola Municipal Professora Maria Inez Rubinger de Queiroz Rodrigues”, entidade sem fins lucrativos.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Patos de Minas, 5 de junho de 2009, 121º ano da República e 141º ano do Município.
+
+Maria Beatriz de Castro Alves Savassi Prefeita Municipal
+
+Emanuel da Paixão Kappel Secretário Municipal de Governo
+
+João Alfredo Costa de Campos Melo Procurador Geral do Município

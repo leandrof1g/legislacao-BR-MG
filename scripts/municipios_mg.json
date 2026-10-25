@@ -74,7 +74,7 @@
    "sapl_manual": false
   },
   "3104007": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Araxá",
    "normas_na_fonte": 9616,
    "pasta": "araxa",
@@ -362,7 +362,7 @@
    "sapl_manual": false
   },
   "3119401": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Coronel Fabriciano",
    "normas_na_fonte": 4308,
    "pasta": "coronel-fabriciano",
@@ -1280,7 +1280,7 @@
    "sapl_manual": false
   },
   "3167202": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Sete Lagoas",
    "normas_na_fonte": 11173,
    "pasta": "sete-lagoas",

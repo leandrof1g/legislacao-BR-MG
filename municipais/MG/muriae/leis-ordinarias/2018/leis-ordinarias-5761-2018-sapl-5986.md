@@ -1,0 +1,92 @@
+---
+titulo: "Lei Ordinária nº 5761, de 21/11/2018"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "LEI"
+numero: "5761"
+data: "2018-11-21"
+ementa: "AUTORIZA ABERTURA DE CRÉDITO SUPLEMENTAR E DÁ OUTRAS PROVIDÊNCIAS"
+municipio: "Muriaé"
+uf: "MG"
+codigo_ibge: "3143906"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.muriae.mg.leg.br/norma/5986"
+fonte_texto: "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2018/5986/lei_5.761_-2018__adic_cred_sup_1.251.30000_demsur.pdf"
+sha256_fonte: "8d63f720d6e1ec68943452051d9b7df72e2bde2d49f83e0412de62cc8b88de1f"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 5761, de 21/11/2018
+
+LEI Nº 5.761/ 2018
+
+Autoriza Abertura de Crédito Suplementar e dá outras providências
+
+O Prefeito de Muriaé: Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte lei:
+
+**Art. 1º** - Fica o Chefe do Poder Executivo Municipal, através da Autarquia DEMSUR, autorizado a abrir crédito suplementar no valor de R$1.251.300,00 (um milhão, duzentos e cinquenta e um mil e trezentos reais) para atendimento de despesas correntes e investimentos do DEMSUR, com cobertura dos recursos provenientes de ANULAÇÕES ORÇAMENTÁRIAS do exercício de 2018.
+
+Inclusão:
+
+17.122.0001.2.224 MANUTENÇÃO DE SERVIÇOS ADMINISTRATIVOS 3390.30.00 - MATERIAL DE CONSUMO R$128.960,00
+
+17.122.0001.2.224 MANUTENÇÃO DE SERVIÇOS ADMINISTRATIVOS 3390.39.00 - OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA R$125.000,00
+
+17.122.0001.2.286 CELEBRAÇÃO DE CONVÊNIO COM CONSÓRCIO, ENTIDADES, FUNDOS E OUTROS SEM FINS LUCRATIVOS. TERMO DE ACORDO. 3390.41.00 – CONTRIBUIÇÕES R$8.300,00
+
+17.122.0001.1.119 AQUISIÇÃO DE MOBILIÁRIOS, UTENSÍLIOS E EQUIPAMENTOS 4490.52.00 - EQUIPAMENTOS E MATERIAL PERMANENTE R$60.000,00
+
+17.122.0001.1.123 AQUISIÇÃO E DESAPROPRIAÇÃO DE IMÓVEIS 4490.61.00 - AQUISIÇÃO DE IMÓVEIS R$220.000,00
+
+17.452.0044.2.266 ADQUIRIR UNIFORMES E EPI'S 3390.30.00 - MATERIAL DE CONSUMO R$15.000,00
+
+3390.30.00 - MATERIAL DE CONSUMO R$78.000,00
+
+17.512.0021.2.237 AQUISIÇÃO DE HIDRÔMETROS 3390.30.00 - MATERIAL DE CONSUMO R$108.000,00 17.512.0021.2.267 ADQUIRIR UNIFORME E EPI'S DOS SETORES ÁGUA POTÁVEL, ESGOTO E ÁGUA PLUVIAL 3390.30.00 - MATERIAL DE CONSUMO R$32.540,00
+
+3390.30.00 - MATERIAL DE CONSUMO R$50.000,00
+
+3390.39.00 - OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA R$200.000,00
+
+3390.39.00 - OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA R$30.000,00
+
+17.512.0021.1.137 CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE REDE DRENAGEM PLUVIAL 4490.51.00 - OBRAS E INSTALAÇÕES R$93.000,00
+
+17.512.0021.1.138 ADQUIRIR VEÍCULOS LEVES E PESADOS, EQUIPAMENTOS PARA O SISTEMA DE ÁGUA POTÁVEL 4490.52.00 - EQUIPAMENTOS E MATERIAL PERMANENTE R$84.000,00
+
+17.512.0021.1.141 ADQUIRIR CONJUNTOS MOTOBOMBAS PARA O SISTEMA DE ÁGUA POTÁVEL 4490.52.00 - EQUIPAMENTOS E MATERIAL PERMANENTE R$13.000,00
+
+18.541.0045.2.239 RECUPERAÇÃO DE MATA CILIAR E PRESERVAÇÃO DE NASCENTES 3390.39.00 - OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA R$5.500,00
+
+**Art. 2º** Os recursos necessários à cobertura do Crédito Suplementar serão aqueles previstos no inciso III, do artigo 43 da Lei Federal nº 4.320 de 17 de Março de 1964, resultantes de anulação parcial ou total de dotações orçamentárias ou de créditos adicionais, autorizados em Lei.
+
+Anulação:
+
+17.452.0044.2.233 OPERAR O ATERRO SANITÁRIO E/OU CONCESSÃO 3390.39.00 - OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA R$76.340,00
+
+3390.30.00 - MATERIAL DE CONSUMO R$109.000,00
+
+3390.39.00 - OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA R$24.000,00
+
+17.512.0021.2.279 PAGAMENTO PESSOAL, ADICIONAIS E ENCARGOS SOCIAIS - SISTEMA ÁGUA POTÁVEL 3191.94.00 - INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS R$10.000,00
+
+17.512.0021.2.280 PAGAMENTO PESSOAL, ADICIONAIS E ENCARGOS SOCIAIS - SISTEMA ESGOTO 3191.94.00 - INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS R$10.000,00
+
+17.512.0021.2.281 PAGAMENTO PESSOAL, ADICIONAIS E ENCARGOS SOCIAIS - SISTEMA PLUVIAL 3191.94.00 - INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS R$10.000,00
+
+3390.39.00 - OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA R$66.000,00
+
+3390.39.00 - OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA R$36.000,00
+
+17.512.0021.1.132 AMPLIAR E REFORMAR A ESTAÇÃO DE TRATAMENTO DE ÁGUA ETA GÁVEA E RIO PRETO 4490.51.00 - OBRAS E INSTALAÇÕES R$909.960,00
+
+**Art. 3º** Os créditos das dotações constante desta lei poderão ser anulados ou suplementados caso necessário no decorrer do exercício financeiro de 2018.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.
+
+MANDO, PORTANTO, a todas as autoridades a quem o conhecimento de execução desta
+
+Lei pertencer, que a cumpram e a façam tão inteiramente como nela se contém.
+
+Muriaé, 21 de Novembro de 2018.
+
+IOANNIS KONSTANTINOS GRAMMATIKOPOULOS Prefeito Municipal de Muriaé

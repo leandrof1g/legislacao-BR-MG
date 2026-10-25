@@ -1,0 +1,38 @@
+---
+titulo: "Portaria do Legislativo nº 18, de 06/02/2007"
+tipo: "Portaria do Legislativo"
+tipo_na_fonte: "Portaria do Legislativo"
+numero: "18"
+data: "2007-02-06"
+ementa: "NOMEIA JORGE LUIZ MENDES PARA O CARGO DE CHEFE DA SEÇÃO DE APOIO AO LÍDER DO EXECUTIVO"
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/12112"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2007/12112/12112_texto_integral.pdf"
+sha256_fonte: "1a4982b15d7fbe611a4f1970a9997fb013f8b76ac6453cd4e525f8f532c4ce83"
+baixado_em: "2026-10-25"
+---
+
+# Portaria do Legislativo nº 18, de 06/02/2007
+
+PORTARIA DE Nº CM-018, DE 06 DE FEVEREIRO DE 2007
+
+Nomeia Jorge Luiz Mendes para o Cargo de Chefe da
+
+Seção de Apoio ao Líder do Executivo
+
+O Presidente da Câmara, Vereador Milton Donizete da Silva, nos uso de suas atribuições legais e nos termos da Resolução de nº 346/2006:
+
+RESOLVE baixar a seguinte Portaria:
+
+**Art.1º** Fica nomeado Jorge Luiz Mendes para o cargo comissionado de recrutamento amplo de Chefe da Seção de Apoio ao Líder do Executivo.
+
+Art 2º Esta Portaria entra em vigor na data de sua publicação.
+
+Divinópolis, 06 de fevereiro de 2007.
+
+Vereador Milton Donizete da Silva Presidente da Câmara Municipal
+
+Rua São Paulo, 277 – Praça Jovelino Rabelo – Centro – CEP 35.500-006 – Fone (37) 2102-8200 – Fax: 2102-8290 Portal: www.camaradiv.mg.gov.br e-mail: geral@camaradiv.mg.gov.br

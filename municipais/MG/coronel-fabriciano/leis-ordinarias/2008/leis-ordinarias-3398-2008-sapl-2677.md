@@ -1,0 +1,38 @@
+---
+titulo: "Lei Ordinária nº 3398, de 14/03/2008"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "3398"
+data: "2008-03-14"
+ementa: "Concede reajuste de subsídios aos agentes políticos do Poder Executivo do Município de Coronel Fabriciano."
+municipio: "Coronel Fabriciano"
+uf: "MG"
+codigo_ibge: "3119401"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.coronelfabriciano.mg.leg.br/norma/2677"
+fonte_texto: "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2008/2677/lei_3.398_-_reajuste_salarial_agentes_exec.pdf"
+sha256_fonte: "3f1b2c1592c224010a8b912c94141cad67b519bb3a5159d0a25929d9ba2a4f32"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 3398, de 14/03/2008
+
+PREFEITURA MUNICIPAL DE CORONEL FABRICIANO
+
+LEI 3.398, DE 14 DE MARÇO DE 2008
+
+“Concede reajuste de subsídios aos agentes políticos do Poder Executivo do Município de Coronel Fabriciano”
+
+A Câmara Municipal de Coronel Fabriciano, APROVA, e eu, Prefeito Municipal, SANCIONO a seguinte Lei:
+
+**Art.1º** - Fica concedido reajuste de vencimentos e salários aos agentes políticos do Poder Executivo do Município de Coronel Fabriciano, no percentual de 10% (dez por cento), a partir de 1º de março de 2008, incidente sobre os vencimentos de fevereiro de 2008.
+
+**Art. 2º** - Revogam-se as disposições em contrário.
+
+**Art. 3º** - Esta Lei entra em vigor na data de sua publicação.
+
+Coronel Fabriciano, 14 de março de 2008.
+
+Francisco de Assis Simões Thomaz PREFEITO MUNICIPAL
+
+PRAÇA DR. LOUIS ENSCH, 64 – TELEFAX: (0XX31) 3846-7000 – CNPJ 19.875.046/0001-82 – CORONEL FABRICIANO - MG

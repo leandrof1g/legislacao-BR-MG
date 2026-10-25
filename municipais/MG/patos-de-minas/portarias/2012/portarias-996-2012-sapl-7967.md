@@ -1,0 +1,54 @@
+---
+titulo: "Portaria nº 996, de 07/11/2012"
+tipo: "Portaria"
+tipo_na_fonte: "Portaria"
+numero: "996"
+data: "2012-11-07"
+ementa: "DESIGNA PREGOEIROS, PREGOEIROS SUBSTITUTOS E EQUIPE DE APOIO PARA A MODALIDADE DE LICITAÇÃO DENOMINADA PREGÃO PRESENCIAL E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Patos de Minas"
+uf: "MG"
+codigo_ibge: "3148004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.patosdeminas.mg.leg.br/norma/7967"
+fonte_texto: "https://sapl.patosdeminas.mg.leg.br/media/sapl/public/normajuridica/2012/7967/7967_texto_integral.doc"
+sha256_fonte: "a7c73fb30ee55463b329fb22f63952ac66ddd2ed4a8f6a83d39d54b15984c0e4"
+baixado_em: "2026-10-25"
+---
+
+# Portaria nº 996, de 07/11/2012
+
+PORTARIA Nº 996 – DE 7 DE NOVEMBRO DE 2012
+
+Designa Pregoeiros, Pregoeiros Substitutos e Equipe de Apoio para a modalidade de licitação denominada Pregão Presencial e dá outras providências.
+
+A Presidente da Câmara Municipal de Patos de Minas, considerando a exigência estabelecida no inciso IV, do art. 3º da Lei nº 10.520, de 17 de julho de 2002, e, no uso das suas atribuições, RESOLVE:
+
+**Art. 1º** Designar os servidores abaixo relacionados para constituir Comissão para modalidade licitatória denominada Pregão Presencial da Câmara Municipal de Patos de Minas, a contar da publicação desta Portaria, na seguinte forma:
+
+I – Pregoeiros Kerley Cristhina de Paula e Silva – matrícula nº 13 Sandra Corrêa de Sousa – matrícula nº 762
+
+II - Pregoeiros Substitutos Gislei de Oliveira Soares – matrícula nº 862 Maria Mônica Caixeta – matrícula nº 490
+
+III - Equipe de Apoio Gislei de Oliveira Soares – matrícula nº 862 Lucas Ramos de Freitas Morais – matrícula nº 976 Maria Mônica Caixeta – matrícula nº 490
+
+IV – Membro Suplente da Equipe de Apoio Sandra Corrêa de Sousa – matrícula nº 762
+
+**Art. 2º** São atribuições do Pregoeiro e da Equipe de Apoio, dentre outras: assinar o edital de licitação, e seus anexos, assinar o recebimento, das propostas e lances, a análise de sua aceitabilidade e sua classificação, bem como a habilitação, e a adjudicação do objeto do certame ao licitante vencedor.
+
+**Art. 3º** Os servidores ora designados poderão se afastar de suas atividades normais, durante o desenvolvimento dos trabalhos.
+
+**Art. 4º** Na ausência ou impedimento do Pregoeiro por qualquer motivo, a sua função poderá ser assumida pelo Pregoeiro Substituto, desde que este faça parte da Equipe de Apoio.
+
+**Art. 5°** O Pregoeiro, ou seu substituto, fica autorizado a convocar, além dos membros da Equipe de Apoio, a depender da especificidade técnica do objeto ou da documentação apresentada, outros servidores da Câmara, técnicos da área, para auxiliar na análise das propostas e documentos.
+
+**Art. 6º** O mandato dos servidores ora designados é de 1 (um) ano, admitindo-se a reconduções para o período subsequente.
+
+**Art. 7º** Fica revogada a Portaria 962, de 26 de abril de 2012.
+
+**Art. 8º** Esta Portaria entra em vigor na data de sua publicação.
+
+**Art. 9º** Publique-se e cumpra-se.
+
+Câmara Municipal de Patos de Minas, 7 de novembro de 2012.
+
+MARIA DALVA DA MOTA AZEVEDO – Dalva Mota Presidente da Câmara Municipal

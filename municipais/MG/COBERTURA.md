@@ -4,7 +4,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 
 | Município | População | Fonte automática | Normas no acervo | Carga inicial |
 | --- | ---: | --- | ---: | :---: |
-| Belo Horizonte | 2.315.560 | **sem fonte automática** | 8677 | — |
+| Belo Horizonte | 2.315.560 | **sem fonte automática** | 19658 | — |
 | Uberlândia | 713.224 | **sem fonte automática** | 0 | — |
 | Contagem | 621.863 | SAPL ([sapl.contagem.mg.leg.br](https://sapl.contagem.mg.leg.br)) | 3637 | completa |
 | Juiz de Fora | 540.756 | **sem fonte automática** | 0 | — |
@@ -13,17 +13,17 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Uberaba | 337.836 | **sem fonte automática** | 0 | — |
 | Ribeirão das Neves | 329.794 | **sem fonte automática** | 2 | — |
 | Governador Valadares | 257.171 | **sem fonte automática** | 0 | — |
-| Divinópolis | 231.091 | SAPL ([sapl.divinopolis.mg.leg.br](https://sapl.divinopolis.mg.leg.br)) | 8949 | em andamento |
+| Divinópolis | 231.091 | SAPL ([sapl.divinopolis.mg.leg.br](https://sapl.divinopolis.mg.leg.br)) | 14980 | em andamento |
 | Ipatinga | 227.731 | **sem fonte automática** | 0 | — |
-| Sete Lagoas | 227.397 | SAPL ([sapl.setelagoas.mg.leg.br](https://sapl.setelagoas.mg.leg.br)) | 10546 | em andamento |
+| Sete Lagoas | 227.397 | SAPL ([sapl.setelagoas.mg.leg.br](https://sapl.setelagoas.mg.leg.br)) | 11013 | completa |
 | Santa Luzia | 219.132 | **sem fonte automática** | 0 | — |
 | Ibirité | 170.537 | **sem fonte automática** | 0 | — |
 | Poços de Caldas | 163.742 | **sem fonte automática** | 0 | — |
-| Patos de Minas | 159.235 | SAPL ([sapl.patosdeminas.mg.leg.br](https://sapl.patosdeminas.mg.leg.br)) | 3253 | em andamento |
+| Patos de Minas | 159.235 | SAPL ([sapl.patosdeminas.mg.leg.br](https://sapl.patosdeminas.mg.leg.br)) | 8863 | em andamento |
 | Pouso Alegre | 152.217 | **sem fonte automática** | 0 | — |
 | Teófilo Otoni | 137.418 | SAPL ([sapl.teofilootoni.mg.leg.br](https://sapl.teofilootoni.mg.leg.br)) | 9433 | completa |
 | Varginha | 136.467 | SAPL ([sapl.varginha.mg.leg.br](https://sapl.varginha.mg.leg.br)) | 6738 | completa |
-| Conselheiro Lafaiete | 131.621 | SAPL ([sapl.conselheirolafaiete.mg.leg.br](https://sapl.conselheirolafaiete.mg.leg.br)) | 3706 | em andamento |
+| Conselheiro Lafaiete | 131.621 | SAPL ([sapl.conselheirolafaiete.mg.leg.br](https://sapl.conselheirolafaiete.mg.leg.br)) | 5398 | em andamento |
 | Sabará | 129.380 | SAPL ([sapl.sabara.mg.leg.br](https://sapl.sabara.mg.leg.br)) | 0 | completa |
 | Vespasiano | 129.246 | **sem fonte automática** | 0 | — |
 | Barbacena | 125.317 | **sem fonte automática** | 0 | — |
@@ -31,15 +31,15 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Itabira | 113.343 | **sem fonte automática** | 0 | — |
 | Passos | 111.939 | **sem fonte automática** | 0 | — |
 | Nova Lima | 111.697 | SAPL ([sapl.novalima.mg.leg.br](https://sapl.novalima.mg.leg.br)) | 26 | completa |
-| Araxá | 111.691 | SAPL ([sapl.araxa.mg.leg.br](https://sapl.araxa.mg.leg.br)) | 7696 | em andamento |
+| Araxá | 111.691 | SAPL ([sapl.araxa.mg.leg.br](https://sapl.araxa.mg.leg.br)) | 9576 | completa |
 | Nova Serrana | 105.552 | SAPL ([sapl.novaserrana.mg.leg.br](https://sapl.novaserrana.mg.leg.br)) | 0 | completa |
-| Lavras | 104.761 | SAPL ([sapl.lavras.mg.leg.br](https://sapl.lavras.mg.leg.br)) | 2405 | em andamento |
-| Coronel Fabriciano | 104.736 | SAPL ([sapl.coronelfabriciano.mg.leg.br](https://sapl.coronelfabriciano.mg.leg.br)) | 624 | em andamento |
-| Muriaé | 104.108 | SAPL ([sapl.muriae.mg.leg.br](https://sapl.muriae.mg.leg.br)) | 965 | em andamento |
-| Ubá | 103.365 | SAPL ([sapl.uba.mg.leg.br](https://sapl.uba.mg.leg.br)) | 17 | em andamento |
+| Lavras | 104.761 | SAPL ([sapl.lavras.mg.leg.br](https://sapl.lavras.mg.leg.br)) | 3484 | em andamento |
+| Coronel Fabriciano | 104.736 | SAPL ([sapl.coronelfabriciano.mg.leg.br](https://sapl.coronelfabriciano.mg.leg.br)) | 4028 | completa |
+| Muriaé | 104.108 | SAPL ([sapl.muriae.mg.leg.br](https://sapl.muriae.mg.leg.br)) | 3047 | em andamento |
+| Ubá | 103.365 | SAPL ([sapl.uba.mg.leg.br](https://sapl.uba.mg.leg.br)) | 1167 | em andamento |
 | Ituiutaba | 102.217 | **sem fonte automática** | 0 | — |
-| Itaúna | 97.669 | SAPL ([sapl.itauna.mg.leg.br](https://sapl.itauna.mg.leg.br)) | 30 | em andamento |
-| Pará de Minas | 97.139 | SAPL ([sapl.parademinas.mg.leg.br](https://sapl.parademinas.mg.leg.br)) | 2 | em andamento |
+| Itaúna | 97.669 | SAPL ([sapl.itauna.mg.leg.br](https://sapl.itauna.mg.leg.br)) | 951 | em andamento |
+| Pará de Minas | 97.139 | SAPL ([sapl.parademinas.mg.leg.br](https://sapl.parademinas.mg.leg.br)) | 187 | em andamento |
 | Paracatu | 94.023 | **sem fonte automática** | 0 | — |
 | Itajubá | 93.073 | **sem fonte automática** | 0 | — |
 | Manhuaçu | 91.886 | SAPL ([sapl.manhuacu.mg.leg.br](https://sapl.manhuacu.mg.leg.br)) | 0 | em andamento |

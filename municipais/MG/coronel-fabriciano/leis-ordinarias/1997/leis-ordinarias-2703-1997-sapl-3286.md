@@ -1,0 +1,328 @@
+---
+titulo: "Lei Ordinária nº 2703, de 06/11/1997"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "2703"
+data: "1997-11-06"
+ementa: "Cria o Conselho Municipal de Assistência Social, institui o Fundo Municipal de Assistência Social e dá outras providências."
+municipio: "Coronel Fabriciano"
+uf: "MG"
+codigo_ibge: "3119401"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.coronelfabriciano.mg.leg.br/norma/3286"
+fonte_texto: "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/1997/3286/lei2703.doc"
+sha256_fonte: "3678dc1ce0ff6e19600113555f859400893371d5fc72dbd52eaf6daf80c12916"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 2703, de 06/11/1997
+
+LEI Nº 2.703/97
+
+Cria o Conselho Municipal de Assistência Social, institui o Fundo Municipal de Assistência Social e dá outras providências.
+
+A Câmara Municipal de Coronel Fabriciano APROVA e eu SANCIONO a seguinte lei:
+
+CAPÍTULO I
+
+DAS DISPOSIÇÕES GERAIS
+
+**Art. 1º** - A Assistência Social, direito do cidadão e dever do Estado, é política de seguridade social não contributiva, que provê os mínimos sociais, realizada através de um conjunto integrado de ações de iniciativa pública e da sociedade civil, para garantir o atendimento às necessidades básicas, segundo os princípios e diretrizes da Lei Federal n° 8.742, de 07 de dezembro de 1993.
+
+**Art. 2º** - A assistência social tem por objetivos:
+
+I. proteção à família, à maternidade, à infância, à adolescência e à velhice;
+
+II. o amparo às crianças e adolescentes carentes;
+
+III. a promoção da integração ao mercado de trabalho;
+
+IV. a habilitação e reabilitação das pessoas portadoras de deficiência e a promoção de sua integração à vida;
+
+V. concessão de um salário mínimo de benefício mensal à pessoa portadora de deficiência e ao idoso que comprovar não possuir meios de prover a própria manutenção ou tê-la provida por sua família.
+
+**Parágrafo Único** - os recursos para provimento do benefício mensal de que trata o inciso V conforme a Lei Federal n° 8.742 (Lei Orgânica da Assistência Social - LOAS), são de responsabilidade de operacionalização do órgão da Administração Pública Federal, responsável pela coordenação da Política Nacional de Assistência Social.
+
+**Art. 3º** - O conjunto das ações e serviços de assistência social prestados por órgãos públicos e por organizações de assistência social, sem fins lucrativos, constituem o Sistema Municipal de Assistência Social - SMAS.
+
+**Art. 4º** - O Sistema Municipal de Assistência Social será organizado numa rede municipal de assistência social de amparo, proteção e promoção à criança, ao adolescente, aos portadores de deficiência, idosos e às famílias, de acordo com as seguintes diretrizes:
+
+I. articulação das ações dos prestadores de serviços públicos e privados;
+
+II. planejamento, organização, execução e avaliação de atividades preventivas concomitantes às ações emergenciais;
+
+III. implementação de ações e serviços de acesso universal para efetivação da assistência social.
+
+**Art. 5º** - O Sistema Municipal de Assistência Social compreende benefícios, serviços e programas previstos na Lei n° 8.742, de 07 de dezembro de 1993.
+
+**Art. 6º** - A Política de Assistência Social tem como órgão de deliberação colegiada e como instrumento de captação de recursos, respectivamente:
+
+I. Conselho Municipal de Assistência Social;
+
+II. Fundo Municipal de Assistência Social;
+
+III. Plano Municipal de Assistência Social.
+
+CAPÍTULO II
+
+SEÇÃO I
+
+DO CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+**Art. 7º** - Fica instituído o Conselho Municipal de Assistência Social - CMAS, instância de caráter permanente, paritário entre governo e sociedade civil, de deliberação colegiada e vinculada à estrutura do órgão da Administração Direta ou Indireta responsável pela coordenação da Política Municipal de Assistência Social.
+
+**Art. 8º** - Respeitadas as competências do Legislativo e do Executivo Municipal, compete ao Conselho Municipal de Assistência Social:
+
+I. definir as prioridades da política de assistência social;
+
+II. estabelecer as diretrizes a serem observadas na elaboração do Plano de Assistência Social;
+
+III. aprovar a Política Municipal de Assistência Social;
+
+IV. atuar na formulação de estratégias e controle da execução da política de assistência social;
+
+V. propor critérios para a programação e execuções financeiras e orçamentárias do Fundo Municipal de Assistência Social e fiscalizar a movimentação e a aplicação dos recursos;
+
+VI. acompanhar, avaliar e fiscalizar os serviços de assistência social prestados à população pelos órgãos, entidades públicas e privadas no município;
+
+VII. definir critérios de qualidade para o funcionamento dos serviços de assistência social públicos e privados no âmbito municipal;
+
+VIII. definir critérios para celebração de contratos ou convênios entre o setor público e as entidades privadas que prestam serviços de assistência social no âmbito municipal;
+
+IX. apreciar previamente os contratos e convênios referidos no inciso anterior;
+
+X. elaborar e aprovar seu regimento interno;
+
+XI. zelar pela efetivação dos princípios e diretrizes estabelecidas na Lei Federal n° 8.742/93;
+
+XII. acompanhar e avaliar a gestão dos recursos, bem como ganhos sociais e o desempenho dos programas e projetos aprovados;
+
+XIII. providenciar o Registro de Entidades e Organizações de Assistência Pública ou Privada sem fins lucrativos, conforme Resolução Interna do Conselho Municipal de Assistência Social;
+
+XIV. apreciar e aprovar a proposta orçamentária de assistência social a ser encaminhada pelo Executivo Municipal à Câmara Municipal;
+
+XV. convocar ordinária, anual e/ou extraordinariamente, por maioria simples de seus membros, a Conferência Municipal de Assistência Social, que terá a atribuição de avaliar a situação da assistência social e propor diretrizes para o aperfeiçoamento do sistema;
+
+XVI. efetuar a inscrição e a fiscalização das entidades e organizações de assistência social;
+
+XVII. cancelar o registro das entidades assistenciais que incorrerem em irregularidades na aplicação dos recursos que lhe forem repassados pelos poderes públicos e não obedecerem aos princípios e diretrizes da Lei n° 8.742 e da presente Lei;
+
+XVIII. zelar pela efetivação do Sistema Municipal de Assistência Social;
+
+XIX. articular-se com as instâncias deliberativas do município, tendo em vista a organicidade da política de assistência social com as demais políticas setoriais para a integração das ações;
+
+XX. fiscalizar o Fundo Municipal de Assistência Social;
+
+XXI. fiscalizar a transferência de recursos financeiros às entidades não governamentais de assistência social;
+
+XXII. incentivar a realização de estudos e pesquisas na área da Assistência Social, sugerindo medidas de prevenção, controle e avaliação;
+
+XXIII. elaborar e deliberar sobre seu Regimento Interno.
+
+SEÇÃO II
+
+DA COMPOSIÇÃO
+
+**Art. 9º** - O Conselho Municipal de Assistência Social será eleito a cada 02 (dois) anos e terá composição tripartite e paritária, sendo que a composição tripartite se dará apenas entre a população usuária dos serviços de Assistência Social e o conjunto dos demais setores da seguinte forma:
+
+I. Seis representantes do Governo Municipal;
+
+II. Dois representantes da população usuária dos serviços de Assistência Social;
+
+III. Dois representantes das entidades prestadoras de serviços na área de Assistência Social;
+
+IV. Dois representantes dos profissionais da área de Assistência Social.
+
+**§ 1°** - Cada titular do Conselho Municipal de Assistência Social terá um suplente, oriundo da mesma categoria representativa.
+
+**§ 2°** - Os membros do Conselho Municipal de Assistência Social, representantes da sociedade civil, serão eleitos nas Conferências de Assistência Social do município.
+
+**§ 3°** - O mandato dos representantes da sociedade civil será de dois anos, permitida uma única reeleição.
+
+**§ 4°** - O Conselho Municipal de Assistência Social será presidido por um de seus integrantes, eleito dentre seus membros, para um mandato de 1 (um) ano, permitida uma reeleição.
+
+**§ 5°** - Os representantes do Poder Executivo serão indicados por ato do Prefeito Municipal.
+
+**§ 6°** - Todos os membros do Conselho Municipal de Assistência Social serão empossados pelo Prefeito Municipal.
+
+**Art. 10** - As atividades dos membros do Conselho Municipal de Assistência Social reger-se-ão pelas disposições seguintes:
+
+I. o exercício da função de conselheiro é considerado relevante serviço público e não será remunerado;
+
+II. os conselheiros serão excluídos do Conselho Municipal de Assistência Social e substituídos pelos respectivos suplentes em caso de faltas injustificadas a 3 (três) reuniões consecutivas ou 5 ( cinco) reuniões intercaladas;
+
+III. cada membro do Conselho Municipal de Assistência Social terá direito a um único voto na sessão plenária, não sendo permitido o voto por procuração;
+
+IV. as decisões do Conselho Municipal de Assistência Social serão consubstanciadas em resoluções.
+
+SEÇÃO III
+
+DO FUNCIONAMENTO DO CONSELHO
+
+**Art. 11** - O Conselho Municipal de Assistência Social terá seu funcionamento disciplinado por regimento próprio, sendo o plenário órgão de deliberação máxima.
+
+**Parágrafo Único** - As sessões plenárias serão realizadas ordinariamente a cada mês e as extraordinárias quando convocadas pelo presidente ou por requerimento da maioria simples dos seus membros.
+
+**Art. 12** - A Secretaria Municipal de Assistência Social e Trabalho (SEMAST), através da Coordenadoria de Assistência Comunitária colaborará com as atividades administrativas necessárias ao funcionamento do Conselho Municipal de Assistência Social.
+
+**Art. 13** - Para melhor desempenho de suas funções, o Conselho Municipal de Assistência Social poderá recorrer a pessoas e instituições governamentais e não-governamentais.
+
+**Art. 14** - Todas as sessões do Conselho Municipal de Assistência Social serão públicas, precedidas de ampla divulgação, conforme disposição do regimento interno.
+
+**Parágrafo único** - As resoluções do Conselho Municipal de Assistência Social, bem como os temas tratados em plenário, reuniões de diretoria e comissões serão objeto de ampla e sistemática divulgação.
+
+**Art. 15** - O Conselho Municipal de Assistência Social aprovará seu regimento interno no prazo máximo de 60 (sessenta) dias após a posse de seus conselheiros.
+
+CAPÍTULO III
+
+DAS SUBVENÇÕES SOCIAIS E DOS BENEFÍCIOS
+
+**Art. 16** - Somente será concedida ou renovada subvenção social à entidade que comprovar, previamente:
+
+I. regular e efetivo funcionamento;
+
+II. o cumprimento da finalidade de assistência social prevista em seu estatuto, em consonância com a Lei Federal número 8.742/93;
+
+III. aprovação da prestação de contas pela Diretoria e Conselho Fiscal;
+
+IV. não ter fins lucrativos, não distribuir lucros ou dividendos, nem conceder remuneração, vantagens ou benefícios, sejam quais forem, aos dirigentes e conselheiros;
+
+V. ter sido declarada de utilidade pública municipal.
+
+**Art. 17** - Será cassado o direito à subvenção das entidades ou instituições:
+
+I. que tenha deixado de observar quaisquer dos requisitos do artigo anterior;
+
+II. que tenha incidido em ofensa ao direito fundamental da pessoa humana, notadamente a liberdade de consciência, de crença, e de manifestação de pensamento que, de qualquer forma, tenha praticado ou apoiado ato de discriminação em razão de sexo, raça, religião e política;
+
+III. que tenha deixado de prestar contas ao poder público, dos recursos de subvenção social recebidos nos exercícios anteriores, ou naqueles em que o último recebimento se tenha facultado, ou cujas contas tenham sido rejeitadas;
+
+IV. que não tenha condições de funcionamento, com base em sindicância e critérios a serem estabelecidos em resolução interna do Conselho Municipal de Assistência Social.
+
+**Parágrafo único** - As entidades que estiverem com as prestações de contas atrasadas, não terão os pedidos de liberação de subvenções sociais atendidos.
+
+**Art. 18** -Incumbe à Secretaria Municipal de Assistência Social e Trabalho de Coronel Fabriciano:
+
+I. afixar em murais próprios, ou divulgar através da imprensa escrita, falada e televisiva regional, a relação das entidades beneficiadas com recursos de subvenção social, o respectivo valor e informações complementares que couberem;
+
+II. enviar à Câmara Municipal todas as resoluções internas do Conselho Municipal de Assistência Social.
+
+CAPÍTULO IV
+
+DA CONFERÊNCIA MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+**Art. 19** - O Conselho Municipal de Assistência Social convocará ordinariamente, anualmente, ou extraordinariamente, por maioria absoluta de seus membros, a Conferência Municipal de Assistência Social, que terá a atribuição de avaliar a situação da assistência social e propor diretrizes para o aperfeiçoamento do sistema.
+
+**Art. 20** - A Conferência Municipal de Assistência Social aprovará sua organização e normas de funcionamento através de regimento próprio, elaborado pelo Conselho Municipal de Assistência Social
+
+**Parágrafo Único** - A primeira Conferência Municipal de Assistência Social terá sua organização e normas de funcionamento definidas por Comissão Provisória até que seja criado e constituído o Conselho Municipal de Assistência Social.
+
+**Art. 21** - A Conferência Municipal de Assistência Social será a instância máxima deliberativa no que diz respeito à formulação da política municipal de assistência social, sendo de composição paritária e tripartite, em conformidade com o caput do artigo 9°.
+
+**Parágrafo Único** - O processo eleitoral da Conferência será definido pelo Conselho Municipal de Assistência Social até 30 (trinta) dias, anterior à data de instalação da Conferência.
+
+**Art. 22** - Os delegados serão eleitos em assembléias populares, respeitando a representatividade e composição da Conferência, conforme o estabelecido nos artigos anteriores.
+
+**Art. 23** - A composição do Conselho Municipal de Assistência Social será homologada por ato do Prefeito Municipal.
+
+DO FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+SEÇÃO IV
+
+DA CRIAÇÃO DO FUNDO
+
+**Art. 24** - Fica criado o Fundo Municipal de Assistência Social que tem como objetivo dispor sobre os encargos inerentes a ação do município de Coronel Fabriciano no campo de Assistência Social, visando financiar a implantação de programas assistenciais que:
+
+I. Protejam as famílias, a maternidade, a adolescência e os idosos.
+
+II. Amparem as crianças e adolescentes carentes.
+
+III. Façam a promoção da integração do cidadão ao mercado de trabalho.
+
+IV. Promovam a habilitação e reabilitação das pessoas portadoras de deficiência, bem como a integração destas dentro do contexto social.
+
+V. Dispõe sobre formas de combate e erradicação da pobreza no município.
+
+VI. Implementem sobre outros programas assistenciais definidos pela Lei Federal 8.742 de 07/12/1993 e pelo Conselho Municipal de Assistência Social.
+
+VII. Promovam a reintegração dos detentos ao convívio social, ficando autorizado o Poder Executivo Municipal a celebrar convênios ou consórcios intermunicipais que visem esse fim.
+
+**Art. 25** - O Fundo Municipal de Assistência Social ficará vinculado diretamente à Secretaria Municipal de Assistência Social e Trabalho.
+
+CAPÍTULO V
+
+DAS RECEITAS DO FUNDO
+
+**Art. 26** - São consideradas receitas do Fundo Municipal de Assistência Social:
+
+I. Dotações orçamentárias do município e recursos adicionais que a lei estabelecer no transcorrer de cada exercício.
+
+II. Transferências advindas do orçamento da Seguridade Social, da União e do Estado, bem como os provenientes do Fundo Nacional de Assistência Social e do Fundo Estadual de Assistência Social.
+
+III. Recursos financeiros oriundos de organismos internacionais de cooperação, recebidos diretamente ou por meio de convênio.
+
+IV. A parte de capital decorrente de realização de operações de crédito em instituições financeiras oficiais, quando previamente autorizadas em lei.
+
+V. Rendas provenientes da aplicação de seus recursos no mercado de capitais e na bolsa.
+
+VI. Produto de convênios e consórcios intermunicipais com outras entidades financeiras.
+
+VII. Doações, auxílios e contribuições de terceiros.
+
+VIII. Outras receitas;
+
+**§ 1°** - As receitas previstas neste artigo deverão obrigatoriamente, ser depositadas em conta especial que será aberta em nome do Fundo e mantida em Instituição Oficial de Crédito.
+
+**§ 2°** - Enquanto não estiverem sendo utilizados nas finalidades que lhe são atribuídas, os recursos do Fundo poderão ser aplicados no mercado de capitais, de acordo com a posição das disponibilidades financeiras aprovadas pelo Conselho Municipal de Assistência Social, visando o acréscimo das receitas do Fundo, cujos resultados a ele reverterão, vedada a aplicação em investimentos de risco.
+
+CAPÍTULO VI
+
+DESPESAS DO FUNDO
+
+**Art. 27** - As despesas decorrentes do Fundo Municipal de Assistência Social serão constituídas por:
+
+I. Financiamento total ou parcial de programas e projetos de Assistência Social desenvolvidos pela Secretaria Municipal de Assistência Social e Trabalho, gastos do Fundo ou por instituições com ele conveniadas.
+
+II. Atendimento de despesas diversas de caráter urgente e inadiável, necessárias à execução das ações e serviços relativos à Política Assistencial.
+
+III. Aquisição de material permanente e de consumo e de outros insumos necessários ao desenvolvimento dos programas.
+
+IV. desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações de assistência social;
+
+V. desenvolvimento de programas de capacitação, aperfeiçoamento de recursos humanos na área de assistência social;
+
+VI. pagamento dos benefícios eventuais, conforme disposto no inciso I do art. 5°, da Lei Orgânica da Assistência Social.
+
+CAPÍTULO VII
+
+DA GESTÃO E APLICAÇÃO DOS RECURSOS DO
+
+FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL (FMAS )
+
+**Art. 28** - O FMAS será gerido pela Secretaria Municipal de Administração e Finanças ( SMAF), sob orientação do Conselho Municipal de Assistência Social.
+
+**§ 1°** - O orçamento do Fundo Municipal de Assistência Social - FMAS, integrará o orçamento da Secretaria Municipal de Assistência Social e Trabalho.
+
+DISPOSIÇÕES FINAIS
+
+**Art. 29** - O Conselho Municipal de Assistência Social estimulará, de modo especial, a participação popular no controle da liberação dos recursos de Assistência Social e de sua aplicação.
+
+**Parágrafo Único** - Para os fins do “caput” deste artigo ficam criadas as Comissões Locais de Assistência Social, cujas atribuições serão regulamentadas em seu estatuto próprio.
+
+**Art. 30** - A participação de entidades no Conselho Municipal de Assistência Social, somente será admitida se estiverem juridicamente constituídas, em regular funcionamento e inscritas no Conselho.
+
+**Art. 31** - Os atestados de funcionamento das entidades de Assistência Social no âmbito municipal, e para fins específicos da presente lei, serão fornecidos pelo CMAS - Conselho Municipal de Assistência Social e através de requerimento protocolizado, que poderá conceder ou negar, mediante critérios estabelecidos pelo Conselho Municipal de Assistência Social.
+
+**Art. 32** - Cabe ao Ministério Público zelar pelo efetivo respeito aos direitos estabelecidos nesta lei.
+
+**Art. 33** - Os recursos para fazer face às despesas desta Lei, serão obtidos através da abertura de crédito especial, mediante autorização legislativa em lei específica, obedecidos na espécie, os dispositivos da Lei Federal 4. 320/64 e o inciso V, do artigo 167 da Constituição Federal/88.
+
+**Art. 34** - Revogam-se as disposições em contrário.
+
+**Art. 35** - Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Coronel Fabriciano, 06 de novembro de 1997.
+
+FRANCISCO DE ASSIS SIMÕES THOMAZ
+
+Prefeito Municipal

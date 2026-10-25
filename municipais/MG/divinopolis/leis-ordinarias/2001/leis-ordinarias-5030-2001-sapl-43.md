@@ -1,0 +1,74 @@
+---
+titulo: "Lei Ordinária nº 5030, de 24/04/2001"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "5030"
+data: "2001-04-24"
+ementa: "DISPÕE SOBRE A REALIZAÇÃO DE CAMPANHAS CONTRA O USO DE DROGAS E CONTÉM OUTRAS PROVIDÊNCIAS."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/43"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2001/43/43_texto_integral.pdf"
+sha256_fonte: "f8267a7a9fdb6c4fe66ebcabdbda01e5fca564098af7962c2fd040664e1b1ad9"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 5030, de 24/04/2001
+
+LEI Nº 5.030/2001
+
+Regulamentada pelo decreto 4.238, de 13/09/2001
+
+Dispõe sobre a realização de campanhas contra o uso de drogas e contém outras providências.
+
+O Povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito Municipal, em seu nome, sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Poder Executivo autorizado a promover campanha anual com o objetivo de conscientizar a população em geral da necessidade de um combate efetivo ao uso de drogas e entorpecentes.
+
+**Art. 2º** A campanha a que se refere esta Lei terá como alvo prioritário a conscientização da população adolescente, jovem, devendo o Poder Executivo, por intermédio das secretarias municipais de Educação e de Saúde empreender todos os esforços junto aos organismos e entidades ligadas à área de saúde e bem assim os estabelecimentos de ensino de todos os níveis, públicos ou privados, participar de sua efetiva realização.
+
+**Art. 3º** Além das ações previstas no artigo anterior, a Campanha instituída por esta Lei deverá estender-se também a outros segmentos da sociedade organizada, incumbindo aos órgãos competentes do Poder Executivo coordenar ações que tenham por finalidade levar à população em geral as informações necessárias a sua conscientização sobre a necessidade de engajamento no combate ao uso de drogas e entorpecentes
+
+**Parágrafo único.** Os poderes constituídos do Município deverão unir esforços para que a campanha instituída por esta Lei possa contar com a participação efetiva das entidades representativas da sociedade organizada, com especial destaque para os meios de comunicação social, sindicatos de classes, e entidades religiosas.
+
+**Art. 4º** As despesas com a realização da Campanha instituída por esta Lei correrão por conta de dotações orçamentárias próprias consignadas no orçamento do Município.
+
+**Art. 5º** Esta Lei será regulamentada por decreto do Poder Executivo no prazo de 30 (trinta) dias da sua publicação.
+
+**Art. 6º** Revogam-se as disposições em contrário.
+
+**Art. 7º** Esta Lei entra em vigor na data de sua publicação.
+
+Divinópolis 24 de abril de 2001.
+
+Projeto de Lei CM-024/2001, do Ver. Manoel Cordeiro Publicação Jornal Participação, nº 17, de 23 a 29/04/2001.
+
+DECRETO N.º 4238
+
+REGULAMENTA A LEI N.º 5.030 DE 24 DE ABRIL DE 2001, QUE DISPÕE SOBRE A REALIZAÇÃO DE CAMPANHAS CONTRA O USO DE DROGAS E CONTÉM OUTRAS PROVIDÊNCIAS.
+
+O Prefeito Municipal de Divinópolis, Dr. Galileu Teixeira Machado, no uso de suas atribuições legais,
+
+DECRETA:
+
+**Art. 1º.** Fica regulamentada a Lei n.º 5.030 de 24 de abril de 2001, que dispõe sobre a realização de campanhas contra o uso de drogas.
+
+Parágrafo único: A campanha de que menciona o caput deste artigo será realizada anualmente, em caráter oficial, no mês de agosto, durante a semana dedicada ao estudante.
+
+**Art. 2º.** As unidades de ensino municipal, através de coordenação da Secretaria Municipal de Educação, em parceria com a Secretaria Municipal da Saúde, em conjunto ou separadamente, promoverão palestras e outras atividades em salas de aulas da rede municipal de ensino, e farão divulgar o objetivo da campanha, nos estabelecimentos de ensino de todos os níveis, públicos ou privados, com distribuição de material didático, afixação de cartazes, todos alusivos aos males provocados pelo uso de drogas.
+
+Parágrafo único: a divulgação da campanha deverá ser promovida pelos órgãos da imprensa escrita, falada e televisiva, juntamente com a Diretoria de Comunicação do Município e Câmara Municipal para que se atinja o objetivo de educação e prevenção contra o uso de drogas.
+
+**Art. 3º.** As palestras e outras atividades aludidas no artigo anterior terão como convidados e participantes autoridades civis, militares e eclesiásticas, membros dos Clubes de Serviço do Município, bem como elementos dos grupos de alcoólicos e narcóticos anônimos e membros dos poderes constituídos.
+
+**Art. 4º.** A Secretaria Municipal de Educação colocará à disposição dos coordenadores da campanha, meios disponíveis, como veículos para seu transporte e/ou dos palestrantes de quem assim o necessitar, além do material de divulgação.
+
+**Art. 5º.** Este decreto entra em vigor na data de sua publicação.
+
+**Art. 6º.** Revogam-se as disposições em contrário.
+
+Divinópolis, 13 de setembro de 2001.
+
+Regulamentada pelo decreto 4238

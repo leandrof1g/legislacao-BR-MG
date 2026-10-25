@@ -1,0 +1,42 @@
+---
+titulo: "Portaria do Legislativo nº 19, de 04/04/2000"
+tipo: "Portaria do Legislativo"
+tipo_na_fonte: "Portaria do Legislativo"
+numero: "19"
+data: "2000-04-04"
+ementa: "EXONERA A SERVIDORA VANESSA PINHEIRO FALCONI, AUXILIAR LEGISLATIVO I, DO QUADRO DE SERVIDORES DA CÂMARA MUNICIPAL."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/11477"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2000/11477/11477_texto_integral.pdf"
+sha256_fonte: "da52577a0e52173db7c0037584fbe31162583b37a20ffb5905f5cf518157d431"
+baixado_em: "2026-10-25"
+---
+
+# Portaria do Legislativo nº 19, de 04/04/2000
+
+PORTARIA DE Nº CM- 019, DE 04 DE ABRIL DE 2000
+
+Exonera a servidora VANESSA PINHEIRO FALCONI, Auxiliar Legislativo I, do Quadro de Servidores da Câmara Municipal.
+
+O Presidente da Câmara Municipal de Divinópolis, Vereador Demetrius Arantes Pereira, no uso de suas atribuições legais, e nos termos da Resolução CM-154/98, que dispõe sobre a Organização Administrativa,
+
+considerando o requerimento da servidora, protocolado sob o nº 1401, de 03 de abril de 2000, solicitando a sua exoneração, em caráter irrevogável.
+
+RESOLVE baixar a seguinte Portaria:
+
+**Art. 1º** Fica exonerada do Quadro de Servidores da Câmara Municipal de Divinópolis, a pedido, a Servidora Vanessa Pinheiro Falconi, Auxiliar Legislativo, nomeada pela Portaria de nº CM-061, de 11 de maio de 1996.
+
+**Art. 2º** Determino ao Departamento Administrativo da Câmara que proceda aos cálculos trabalhistas, para acerto com a servidora.
+
+**Art. 3º** Revogam-se as disposições em contrário.
+
+**Art. 4º** Esta Portaria entra em vigor na presente data, dela se dando ciência às partes envolvidas, para seu pleno conhecimento e vigência.
+
+Divinópolis, 04 de abril de 2000
+
+Vereador Demetrius Arantes Pereira Presidente da Câmara
+
+Rua São Paulo, 277 – Praça Jovelino Rabelo – Centro – CEP 35.500-006 – Fone (37) 2102-8200 – Fax: 2102-8290 Portal: www.camaradiv.mg.gov.br e-mail: geral@camaradiv.mg.gov.br

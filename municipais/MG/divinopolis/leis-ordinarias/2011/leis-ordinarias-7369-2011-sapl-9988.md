@@ -1,0 +1,98 @@
+---
+titulo: "Lei Ordinária nº 7369, de 30/06/2011"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7369"
+data: "2011-06-30"
+ementa: "Define o Perímetro Urbano de Divinópolis e dá outras providências."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/9988"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2011/9988/lei7369_-_atualizada.pdf"
+sha256_fonte: "c63a74c3151c6200fb608087a33625e3afea61db6404381391fe8f110c3feb6e"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 7369, de 30/06/2011
+
+LEI Nº 7369/2011
+
+Define o perímetro urbano do Município de Divinópolis e dá outras providências.
+
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito Municipal, em seu nome sanciono a seguinte Lei:
+
+**Art. 1º** É considerada Zona Urbana do Município de Divinópolis, o espaço definido pelo seguinte perímetro:
+
+“Inicia na foz do Rio Itapecerica (P1); daí segue pela margem esquerda do Rio Pará em direção a sua nascente, até o ponto localizado na sua confluência com o córrego Caveira (P2); segue por este córrego até o ponto localizado na foz do córrego Remanso (P3); por este córrego até o ponto localizado na sua nascente (P4); daí, sobe pelo divisor de águas entre a bacia deste córrego e as bacias dos córregos do Paiol, Caveira e Boa Esperança até o ponto fronteiriço à cabeceira do córrego Esperança, tributário do córrego do Paiol (P5); desce pelo córrego Esperança até encontrar com um tributário do Córrego do Paiol(P6); daí segue por este tributário até encontrar com o Córrego Buritis e seguindo por este até o Rio Itapecerica(P7); daí segue pela margem esquerda do rio Itapecerica até a foz do ribeirão Boa Vista e daí até a foz do Ribeirão Cacoco (P8); segue por este ribeirão até a foz do córrego Serra Negra (P9); daí segue pelo divisor de águas entre as bacias do córrego Serra Negra e do ribeirão Cacoco até o ponto fronteiriço à nascente do terceiro tributário da margem direita do córrego Carlota (P10); daí desce por este tributário até a sua foz (P11); desce pelo córrego Carlota até a sua foz no ribeirão Cacoco (P12); daí continua pelo espigão fronteiriço até o divisor de águas entre as bacias do ribeirão Cacoco e do córrego Flechas (P13); deste ponto, segue pelo divisor de águas entre as bacias do ribeirão do Cacoco, córrego da Estiva, córrego Catalão, córrego das Flechas e a bacia do córrego Lava-Pés, até a sua interseção com o divisor de águas entre os córregos Barreiro e Fumal (P14); segue pelo divisor de águas entre estes dois córregos até o ponto situado do leito do córrego Lava-Pés (P15); daí segue pelo divisor de águas entre as bacias do córrego Lava-Pés e a bacia do córrego das Angélicas, até o ponto situado na foz do córrego Olaria (P16);segue pelo córrego das Angélicas até a sua foz (P17); sobe pelo córrego Lava-Pés até a foz do córrego Gonjol (P18); sobe por este córrego até a sua interseção com a estrada municipal DIV 110; que liga Santo Antônio dos Campos à comunidade rural de Cachoeirinha (P19); segue pelo eixo desta estrada até a sua interseção com a estrada municipal DIV 105 (P 29); daí transpõe o interflúvio (espigão) fronteiriço até atingir a foz do primeiro tributário da margem esquerda do córrego Cachoeirinha (P21); sobe pelo espigão fronteiro até atingir o divisor de águas entre o córrego Cachoeirinha e o córrego da Sela (P22); continua por este divisor até atingir o divisor de águas entre os córregos Canjerana, da Sela, Sujo Fortaleza (P23); continua por este divisor até atingir o divisor de águas entre os rios Pará e Itapecerica (P24); continua por este divisor até a foz do rio Itapecerica (P1), onde fecha o perímetro”.
+
+**Art. 1º** É considerada Zona Urbana do Município de Divinópolis, o espaço definido pelo seguinte perímetro:
+
+Inicia-se no P1, situado na margem esquerda, confluência dos Rios Itapecerica e Pará, com coordenadas (514586,39;7778588,05), do P1 segue-se, pelo Rio Rua Pernambuco, nº 60 – Centro – Cep 35.500-008 1
+
+Pará acima até a foz do Córrego da Caveira, até o P2 (521638,04;7768435,82) com azimute de 145°12'59" e distância de 21.423,38 metros, do P2 segue-se, pelo Córrego da Caveira acima até a foz do Córrego do Remanso, até o P3 (520814,75;7767188,38) com azimute de 213°25'27" e distância de 1.594,60 metros, do P3 segue-se, pelo Córrego do Remanso até sua nascente, até o P4 (519046,10;7766713,66) com azimute de 254°58'31" e distância de 1.908,90 metros, do P4 segue-se, pelo divisor de águas do Córrego do Remanso, e bacias dos Córregos Paiol, Caveira e Esperança, até o P5 (517900,69;7766094,91) com azimute de 241°37'19" e distância de 1.351,00 metros, do P5 segue-se, pelo divisor de águas do Córrego do Remanso, e bacias dos córregos Paiol, Caveira e Esperança até cabeceira do Córrego Esperança, até o P6 (517542,45;7764738,38) com azimute de 194°47'36" e distância de 1.421,05 metros, do P6 segue-se, pelo Córrego Esperança abaixo, até o P7 (516834,91;7764544,76) com azimute de 254°41'46" e distância de 734,14 metros, do P7 segue-se, pelo Córrego Esperança abaixo, até o P8 (516310,01;7764247,25) com azimute de 240°27'19" e distância de 651,67 metros, do P8 segue-se, pelo Córrego Esperança abaixo até a foz de um tributário do Córrego Esperança, até o P9 (513586,62;7765583,14) com azimute de 296°07'45" e distância de 3.177,00 metros, do P9 segue-se, por este tributário até sua nascente, até o P10 (512985,11;7765222,53) com azimute de 239°03'26" e distância de 731,50 metros, do P10 segue-se, pelo divisor de águas entre as bacias dos córregos Paiol e Buritis, até o P11 (512734,00;7765141,31) com azimute de 252°04'38" e distância de 263,90 metros, do P11 segue-se, pelo divisor de águas entre os córregos Paiol e Buritis, até o P12 (512103,01;7765264,24) com azimute de 281°01'27" e distância de 646,75 metros, do P12 segue-se, pelo Córrego Buritis abaixo, até o P13 (511564,15;7765760,34) com azimute de 312°38'04" e distância de 819,20 metros, do P13 segue-se, pelo Córrego Buritis até sua foz no Rio Itapecerica, até o P14 (510798,00;7765553,67) com azimute de 254°54'12" e distância de 1.707,00 metros, do P14 segue-se, pelo Rio Itapecerica acima até a foz do Ribeirão do Cacôco na divisa com o município de São Sebastião do Oeste, até o P15 (507797,48;7763396,99) com azimute de 234°17'33" e distância de 6.400,50 metros, do P15 segue-se, pela divisa com o município de São Sebastião do Oeste até o Ribeirão Carlota, até o P16 (500268,17;7767244,58) com azimute de 297°04'04" e distância de 11.530,35 metros, do P16 segue-se, pelo Ribeirão Carlota abaixo, até o P17 (500280,21;7767551,42) com azimute de 2°14'47" e distância de 307,08 metros, do P17 segue-se, pelo Ribeira Carlota abaixo, até o P18 (500477,46;7767947,07) com azimute de 26°29'56" e distância de 442,10 metros, do P18 segue-se, pelo Ribeirão Carlota abaixo até encontrar um tributário, até o P19 (500737,69;7768276,88) com azimute de 38°16'31" e distância de 420,11 metros, do P19 segue-se até o P20 (501365,05;7768640,15) com azimute de 59°55'37" e distância de 724,94 metros, do P20 segue-se até o P21 (501998,04;7769402,29) com azimute de 39°42'40" e distância de 990,73 metros, do P21 segue-se até o P22 (503618,73;7770332,44) com azimute de 60°08'51" e distância de 1.868,63 metros, do P22 segue-se até o P23 (504130,16;7770213,92) com azimute de 103°02'50" e distância de 524,99 metros, do P23 segue-se até o P24 (504701,96;7769952,47) com azimute de 114°34'20" e distância de 628,74 metros, do P24 segue-se até o P25 (505366,19;7770050,41) com azimute de 81°36'44" e distância de 671,41 metros, do P25 segue-se até o P26 (505238,56;7770259,82) com azimute de 328°38'21" e distância de 245,24 metros, do P26 segue-se até o P27
+
+Rua Pernambuco, nº 60 – Centro – Cep 35.500-008 2
+
+(505213,39;7771107,38) com azimute de 358°17'57" e distância de 847,94 metros, do P27 segue-se até o P28 (505333,51;7771664,71) com azimute de 12°09'44" e distância de 570,12 metros, do P28 segue-se até o P29 (504745,30;7772565,50) com azimute de 326°51'21" e distância de 1.075,83 metros, do P29 segue-se até o P30 (504681,38;7772819,08) com azimute de 345°51'10" e distância de 261,51 metros, do P30 segue-se até o P31 (504930,06;7773087,20) com azimute de 42°50'41" e distância de 365,69 metros, do P31 segue-se até o P32 (505223,94;7773067,12) com azimute de 93°54'35" e distância de 294,56 metros, do P32 segue-se até o P33 (505252,60;7773245,14) com azimute de 9°08'50" e distância de 180,32 metros, do P33 segue-se até o P34 (504897,26;7773768,00) com azimute de 325°47'57" e distância de 632,18 metros, do P34 segue-se até o P35 (505084,83;7774148,96) com azimute de 26°12'48" e distância de 424,64 metros, do P35 segue-se até o P36 (504870,82;7774527,66) com azimute de 330°31'40" e distância de 434,98 metros, do P36 segue-se até o P37 (504190,82;7774974,29) com azimute de 303°17'51" e distância de 813,56 metros, do P37 segue-se até o P38 (503197,25;7774900,37) com azimute de 265°44'44" e distância de 996,32 metros, do P38 segue-se até o P39 (502851,62;7775090,54) com azimute de 298°49'11" e distância de 394,49 metros, do P39 segue-se até o P40 (502329,68;7775028,81) com azimute de 263°15'19" e distância de 525,58 metros, do P40 segue-se até o P41 (502139,11;7775601,44) com azimute de 341°35'34" e distância de 603,50 metros, do P41 segue-se até o P42 (501886,94;7775671,99) com azimute de 285°37'51" e distância de 261,85 metros, do P42 segue-se até o P43 (500879,95;7775381,10) com azimute de 253°53'15" e distância de 1.048,17 metros, do P43 segue-se até o P44 (500787,46;7775630,85) com azimute de 339°40'47" e distância de 266,33 metros, do P44 segue-se até o P45 (500840,74;7775902,13) com azimute de 11°06'37" e distância de 276,47 metros, do P45 segue-se até o P46 (500896,88;7776095,24) com azimute de 16°12'35" e distância de 201,10 metros, do P46 segue-se até o P47 (500887,76;7776168,08) com azimute de 352°51'57" e distância de 73,41 metros, do P47 segue-se até o P48 (500801,14;7776344,52) com azimute de 333°51'09" e distância de 196,55 metros, do P48 segue-se até o P49 (500740,49;7776537,77) com azimute de 342°34'32" e distância de 202,54 metros, do P49 segue-se até o P50 (500716,64;7776775,37) com azimute de 354°15'60" e distância de 238,80 metros, do P50 segue-se até o P51 (500645,18;7776909,85) com azimute de 332°00'58" e distância de 152,28 metros, do P51 segue-se até o P52 (500521,44;7777027,68) com azimute de 313°36'03" e distância de 170,87 metros, do P52 segue-se até o P53 (499222,18;7778240,35) com azimute de 313°01'32" e distância de 1.777,26 metros, do P53 segue-se até o P54 (499922,77;7778889,18) com azimute de 47°11'48" e distância de 954,88 metros, do P54 segue-se até o P55 (502347,96;7777709,36) com azimute de 115°56'32" e distância de 2.696,95 metros, do P55 segue-se, pelo Ribeirão dos Vazes abaixo até a DVL 240, até o P56 (503363,50;7779801,93) com azimute de 25°53'15" e distância de 2.720,00 metros, do P56 segue-se até o P57 (505116,93;7779997,17) com azimute de 83°38'47" e distância de 1.764,27 metros, do P57 segue-se até o P58 (506570,31;7779937,22) com azimute de 92°21'44" e distância de 1.454,62 metros, do P58 segue-se até o P59 (507187,73;7780038,86) com azimute de 80°39'06" e distância de 625,73 metros, do P59 segue-se até o P60 (507245,23;7779776,32) com azimute de 167°38'46" e distância de 268,76 metros, do P60 segue-se até o P61 (507589,10;7779464,43) com azimute de
+
+Rua Pernambuco, nº 60 – Centro – Cep 35.500-008 3
+
+132°12'31" e distância de 464,24 metros, do P61 segue-se até o P62 (507821,88;7779231,96) com azimute de 134°57'43" e distância de 328,98 metros, do P62 segue-se até o P63 (508205,28;7779149,91) com azimute de 102°04'45" e distância de 392,08 metros, do P63 segue-se até o P64 (508699,83;7778813,12) com azimute de 124°15'18" e distância de 598,34 metros, do P64 segue-se até o P65 (509274,68;7778876,61) com azimute de 83°41'48" e distância de 578,34 metros, do P65 segue-se até o P66 (510206,05;7778744,74) com azimute de 98°03'32" e distância de 940,67 metros, do P66 segue-se até o P67 (510668,19;7778377,01) com azimute de 128°30'35" e distância de 590,59 metros, do P67 segue-se até o P68 (511299,06;7779013,78) com azimute de 44°43'58" e distância de 896,36 metros, do P68 segue-se até o P69 (511641,96;7779029,41) com azimute de 87°23'27" e distância de 343,26 metros, do P69 segue-se até o P70 (512224,18;7778938,82) com azimute de 98°50'38" e distância de 589,23 metros, do P70 segue-se até o P71 (512567,66;7778760,93) com azimute de 117°22'45" e distância de 386,81 metros, do P71 segue-se até o P72 (513180,33;7779086,90) com azimute de 61°59'06" e distância de 693,98 metros, do P72 segue-se até o P73 (513410,41;7779455,62) com azimute de 31°57'53" e distância de 434,61 metros, do P73 segue-se até o P74 (513431,81;7779450,27) com azimute de 104°01'07" e distância de 22,06 metros, do P74 segue-se até o P75 (513661,90;7778974,68) com azimute de 154°10'59" e distância de 528,32 metros, do P75 segue-se até o P76 (514261,18;7778616,66) com azimute de 120°51'18" e distância de 698,09 metros, finalmente segue-se até o P1 - início da descrição, com azimute de 95°01'34" e distância de 326,46 metros fechando assim o polígono acima descrito com uma área de 234.431.952,85 m 2 (duzentos e trinta e quatro milhões, quatrocentos e trinta e um mil, novecentos e cinquenta e dois metros, oitenta e cinco centímetros quadrados) e perímetro de 93.813,97 m (noventa e três mil, oitocentos e treze metros, noventa e sete metros).” (NR Lei nº 8.561, de 13/03/2019)
+
+**Art. 2º** Considera-se área urbana, as áreas parceladas dentro do perímetro urbano.
+
+**Art. 3º** Considera-se área de expansão urbana, os terrenos não parcelados dentro do perímetro urbano.
+
+**Art. 4º** O parcelamento da área incorporada ao perímetro urbano através da presente Lei, somente será permitido, com lotes de área igual ou superior a 600,00 m2 (seiscentos metros quadrados) cada um, não permitida a sua subdivisão.
+
+**Parágrafo único.** O condomínio residencial fechado que vier a ser implantado na área incorporada deverá: 1. Realizar obras de pavimentação asfáltica e de impacto de trânsito nos acessos do empreendimento até o Aeroporto Brigadeiro Cabral e até a região central do município;
+
+2. Realizar a coleta e destinação final do esgoto sanitário, conforme normas e padrões técnicos exigidos pelo órgão competente; 3. Revegetar e recompor ambientalmente toda a área verde constante no projeto como medida de compensação ambiental; 4. Garantir a acessibilidade nos passeios das vias de circulação interna.
+
+Rua Pernambuco, nº 60 – Centro – Cep 35.500-008 4
+
+**Art. 4º** O parcelamento da área incorporada ao perímetro urbano através da presente Lei somente será permitido com lotes de área igual ou superior a 300,00 m² (trezentos metros quadrados) cada um, não permitida a sua subdivisão. (NR Lei 9.783, de 05/10/2026)
+
+**Parágrafo único.** O condomínio residencial fechado que vier a ser implantado na área incorporada deverá: (NR Lei 9.783, de 05/10/2026)
+
+I - realizar obras de pavimentação asfáltica e de impacto de trânsito nos acessos do empreendimento até o Aeroporto Brigadeiro Cabral e até a região central do município; (AC Lei 9.783, de 05/10/2026)
+
+II - realizar a coleta e destinação final do esgoto sanitário, conforme normas e padrões técnicos exigidos pelo órgão competente; (AC Lei 9.783, de 05/10/2026)
+
+III - revegetar e recompor ambientalmente toda a área verde constante no projeto como medida de compensação ambiental; (AC Lei 9.783, de 05/10/2026)
+
+IV - garantir a acessibilidade nos passeios das vias de circulação interna. (AC
+
+Lei 9.783, de 05/10/2026)
+
+**Art. 5º** A planta do Perímetro Urbano anexa é parte integrante desta Lei.
+
+**Art. 5º** A planta do Perímetro Urbano anexa é parte integrante desta Lei. (NR
+
+Lei nº 8.561, de 13/03/2019)
+
+**Art. 6º** Esta Lei entra em vigor na data de sua publicação.
+
+**Art. 7º** Fica revogada a Lei nº 4.637, de 09 de novembro de 1999.
+
+Divinópolis, 30 de junho de 2011.
+
+Vladimir de Faria Azevedo Prefeito Municipal
+
+João Luiz de Oliveira Assessor Especial
+
+Rua Pernambuco, nº 60 – Centro – Cep 35.500-008 5
+
+David Maia D’Oliveira Secretário Municipal de Planejamento e Gestão
+
+Pedro Coelho Amaral Secretário Municipal de Meio Ambiente e Políticas Urbanas
+
+Rogério Eustáquio Farnese Procurador Geral
+
+Projeto de Lei nº EM-38/2011 Publicação: Diário Oficial Eletrônico, em 14/07/2011
+
+Rua Pernambuco, nº 60 – Centro – Cep 35.500-008 6
+
+Rua Pernambuco, nº 60 – Centro – Cep 35.500-008 7

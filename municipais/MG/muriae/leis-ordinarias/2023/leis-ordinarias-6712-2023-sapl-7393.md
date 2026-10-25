@@ -1,0 +1,38 @@
+---
+titulo: "Lei Ordinária nº 6712, de 10/08/2023"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "LEI"
+numero: "6712"
+data: "2023-08-10"
+ementa: "DISPÕE SOBRE A OUTORGA DO TÍTULO DE HONRA AO MÉRITO A ÉNEAS DO ESPÍRITO SANTO ALVES"
+municipio: "Muriaé"
+uf: "MG"
+codigo_ibge: "3143906"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.muriae.mg.leg.br/norma/7393"
+fonte_texto: "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7393/lei_6712_de_2023_-_eneas_do_carmos.pdf"
+sha256_fonte: "717d720d1a0cb76b0d8a0ec7d43a2f0aa2f0ee40e7d613095b541450d82f55fd"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 6712, de 10/08/2023
+
+MUNICÍPIO DE MURIAÉ GABINETE DO PREFEITO
+
+LEI Nº 6.712 / 2023
+
+“Dispõe sobre outorga do Título de Honra ao Mérito”
+
+O Prefeito Municipal de Muriaé: Faço saber que a Câmara Municipal aprovou e eu sanciono seguinte Lei:
+
+**Art. 1º** - Fica outorgado o Título de Honra ao Mérito a ENÉAS DO ESPÍRITO SANTO ALVES
+
+**Art. 2º** - O diploma alusivo ao título de que trata esta lei será entregue ao agraciado em sessão solene do Poder Legislativo Municipal, no Dia 31 de agosto do corrente ano, em Comemoração ao Dia do Muriaeense.
+
+**Art. 3º** - Esta Lei entra em vigor na data de sua publicação.
+
+MANDO, PORTANTO, a todos as autoridades a quem o conhecimento de execução desta Lei pertencer, que a cumpram e a façam cumprir tão inteiramente como nela se contém.
+
+Muriaé, 10 de agosto de 2023. Assinado digitalmente por MARCOS GUARINO DE OLIVEIRA:28285182649 MARCOS DN: C=BR, O=ICP-Brasil, OU=20302311000112, OU=Secretaria da Receita Federal do Brasil - RFB, GUARINO DE OU=RFB e-CPF A3, OU=(EM BRANCO), OU=presencial, CN=MARCOS GUARINO DE OLIVEIRA: OLIVEIRA:28285182649 Razão: Eu sou o autor deste documento Localização: sua localização de 28285182649 assinatura aqui Data: 2023.08.10 14:21:42-03'00' Foxit PDF Reader Versão: 11.1.0
+
+MARCOS GUARINO DE OLIVEIRA Prefeito Municipal de Muriaé

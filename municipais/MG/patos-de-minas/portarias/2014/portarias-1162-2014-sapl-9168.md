@@ -1,0 +1,36 @@
+---
+titulo: "Portaria nº 1162, de 20/08/2014"
+tipo: "Portaria"
+tipo_na_fonte: "Portaria"
+numero: "1162"
+data: "2014-08-20"
+ementa: "DISPÕE SOBRE BAIXA DE BENS DO PATRIMÔNIO DA CÂMARA MUNICIPAL DE PATOS DE MINAS."
+municipio: "Patos de Minas"
+uf: "MG"
+codigo_ibge: "3148004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.patosdeminas.mg.leg.br/norma/9168"
+fonte_texto: "https://sapl.patosdeminas.mg.leg.br/media/sapl/public/normajuridica/2014/9168/9168_texto_integral.doc"
+sha256_fonte: "1c85fef15e8a7e85756504b768ed861c4f565a47537ef6fee862843c8037da30"
+baixado_em: "2026-10-25"
+---
+
+# Portaria nº 1162, de 20/08/2014
+
+PORTARIA Nº 1162 – DE 20 DE AGOSTO DE 2014
+
+EDIMÊ ERLINDA DE LIMA AVELAR, Presidenta da Câmara Municipal de Patos de Minas, no uso de suas atribuições que lhe são conferidas por lei;
+
+RESOLVE:
+
+**Art. 1º** Conforme levantamento e declaração da Seção de Patrimônio da Câmara Municipal ficam baixados do patrimônio da Câmara Municipal os bens abaixo relacionados:
+
+• APARELHO TELEFÔNICO C/BINA, MARCA ID MASTER LC, MOD. IDM015, COR BRANCA, nº patrimonial 678; • MICROCOMPUTADOR INTEL PENTIUM D-925 3.0GHZ, CX DE SOM, MEMÓRIA DDR 512MB KINGSTON, DRIVE 1.44MB, MOUSE OTICO PS/2, TECLADO CLONE ABNT, COMBO SAMSUMG TS-H492, HD 80GB SATA 2 SAMSUMG, MOUSE PAD, GABINETE ATX TORRE KMEX, MB ASUS P5PE-VM, CPU INTEL PD 925, nº patrimonial 835; • MICROCOMPUTADOR ESTAÇÃO, PC INTEL CORE 2DUO 2.4GHZ 4MB, PLACA MÃE INTEL DG35EC S/V/R, 2 GB DDR2, KINGSTON, 667MHZ, HD SATA 160GB SAMSUNG, GRAVADOR DVD LG GH20N, DRIVE 1.44, GABINETE COLETEK ATX, TECLADO PS2 MULTILASER, MOUSE PS2 BRIGHT, AMBOS COR PRETA, nº patrimonial 1026; • IMPRESSORA A LASER MARCA HP, MOD. HP LASERJET P2015DN, COR CINZA, nº patrimonial 1044; • IMPRESSORA MATRICIAL MARCA EPSON, MOD. LX-300, nº patrimonial 354; • NO-BREAK C/ BATERIA INTERNA E PROTETOR P/ INTERNET, MARCA SMS, MOD. NET STATION, POTÊNCIA 600 VA, COR GRAFITE, nº patrimonial 980; • NO-BREAK C/ BATERIA INTERNA E PROTETOR P/ INTERNET, MARCA SMS, MOD. NET STATION, POTÊNCIA 600 VA, COR GRAFITE, nº patrimonial 992; • NO-BREAK MONOVOLT, COM 4 TOMADAS DE SAÍDA, MARCA SMS, MOD. NET STATION UST 1200SFX, POTÊNCIA 1200 VA, EXTENSÃO C/ 4 TOMADAS DE SAÍDA ADICIONAIS, 40 MINUTOS DE AUTONOMIA, COR PRETA, nº patrimonial 1351; • NO-BREAK MONOVOLT, COM 4 TOMADAS DE SAÍDA, MARCA SMS, MOD. NET STATION UST 1200SFX, POTÊNCIA 1200 VA, EXTENSÃO C/ 4 TOMADAS DE SAÍDA ADICIONAIS, 40 MINUTOS DE AUTONOMIA, COR PRETA, nº patrimonial 1354;
+
+• NO-BREAK BIVOLT AUTOMÁTICO, COM 5 TOMADAS DE SAÍDA, MARCA SMS, MOD. USM 1400 BI, POTÊNCIA 1400 VA, EXTENSÃO C/ 4 TOMADAS DE SAÍDA ADICIONAIS, 60 MINUTOS DE AUTONOMIA, 2 BATERIAS INTERNAS, COR PRETA, nº patrimonial 1527; • ESTABILIZADOR DE VOLTAGEM 01 KVA, MARCA HILL POWER, nº patrimonial 395; • VENTILADOR PORTÁTIL, 40 CM, 3 VELOCIDADES, MARCA FAET, MOD. EURUS, COR CINZA, nº patrimonial 960; • VENTILADOR DE COLUNA C/ 3 VELOCIDADES, OSCILANTE, MARCA VENTISOL, MOD. G3 VOMC 60 CM, COR PRETA, nº patrimonial 1428; • RÁDIO-GRAVADOR MARCA SEMP-TOSHIBA DUPLO DEC, nº patrimonial 232. Art. 2º Encaminhe os bens relacionados ao órgão competente da Prefeitura Municipal para os procedimentos legais.
+
+**Art. 3º** Publique-se e cumpra-se.
+
+Câmara Municipal de Patos de Minas, 20 de agosto de 2014.
+
+EDIMÊ ERLINDA DE LIMA AVELAR Presidenta da Câmara Municipal
