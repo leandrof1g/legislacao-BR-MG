@@ -1,0 +1,517 @@
+---
+titulo: "Decreto nº 5552/1986"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "5552"
+data: ""
+data_publicacao: ""
+ementa: "Abre Crédito Suplementar no valor de CZ$ 31.840.508,10 a dotações de diversos órgãos da PBH e modifica o orçamento da Superintendência de Desenvolvimento da Capital - SUDECAP, aprovado pelo Decreto nº 5.255, de 30 de dezembro de 1.985."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166f587bc50b5b"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/5552/1986"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7622ea419301230ab72f8704f2"
+id_documento: "2c907f7622ea419301230ab72f8704f2"
+sha256_fonte: "dc50a0c239cacf20bab8c8c829636308ca2758b678f66b015f73215378941231"
+baixado_em: "2026-10-25"
+---
+
+# Decreto nº 5552/1986
+
+DECRETO Nº 5.552, DE 29 DE DEZEMBRO DE 1986
+
+Retificado em 31/12/1986, 6/1/1987, 9/1/1987 e 15/1/1987
+
+Abre Crédito suplementar no valor de Cz$31.840.508,10 a dotações de diversos órgãos da PBH e modifica o orçamento da Superintendência de Desenvolvimento da Capital - SUDECAP, aprovado pelo Decreto n° 5255, de 30 de dezembro de 1985.
+
+O Prefeito Municipal de Belo Horizonte, no uso de suas atribuições, e de acordo com o disposto no artigo 43 da Lei Federal nº 4.320, de 17 de março de 1964, e os artigos 6º e 7º da Lei Municipal nº 4270, de 06 de dezembro de 1985, decreta:
+
+**Art. 1º** - Fica aberto o Crédito Suplementar no valor de Cz$31.840.508,10 (trinta e um milhões, oitocentos e quarenta mil, quinhentos e oito cruzados e dez centavos), para reforço das seguintes dotações do orçamento vigente:
+
+0707.15814862.015-3214 - Fonte 3.0 11.595.698,00
+
+1111.08474272.039-3214 - Fonte 3.0 6.978.323,40
+
+1313.03080302.045-3132 - Fonte 3.0 3.565.383,00
+
+2101.03070212.081-3113 - Fonte 1.0 11.250,00
+
+2701.03080332.100-3261 - Fonte 1.0 1.000.000,00
+
+2702.03080342.090-4311 - Fonte 4.0 1.642.900,00
+
+2702.13764481.203-4311 - Fonte 4.2 1.294.360,00
+
+2702.16915751.208-4311 - Fonte 4.1 5.752.593,70
+
+**Art. 2º** - Constituem recursos para atender ao disposto no artigo anterior:
+
+I - o excesso de arrecadação de receita vinculada identificado através do Convênio firmado entre a Secretaria Especial de Ação Comunitária da Presidência da República e a Prefeitura de Belo Horizonte, objetivando a execução de projetos comunitários, abrangendo ações sócio-educativas, culturais e econômicas, no valor de Cz$2.268.000.00 (dois milhões, duzentos e sessenta e oito mil cruzados);
+
+II - o excesso de arrecadação de receita vinculada identificado através do Convênio firmado entre a Fundação de Assistência ao Estudante - FAE e a Prefeitura de Belo Horizonte, objetivando desenvolver ações de alimentação escolar para alunos de pré-escolares e escolares do 1º grau, matriculados na rede municipal, no valor de Cz$6.978.323,40 (seis milhões, novecentos e setenta e oito mil, trezentos e vinte e três cruzados e quarenta centavos);
+
+III - o excesso de arrecadação de receita vinculada identificado através do Convênio firmado entre o Ministério do Desenvolvimento Urbano e Meio Ambiente e a Prefeitura de Belo Horizonte objetivando a canalização de cursos d`água localizados nas Avenidas "A" e das Bandeiras no Bairro Brasil Industrial, no valor de Cz$ 1.294.360,00 (um milhão, duzentos e noventa e quatro mil, trezentos e sessenta cruzados);
+
+IV - a anulação parcial de dotações do orçamento vigente, na reserva criada pelo Decreto nº 5309/86, podendo atingir parcelas de valor não bloqueados, a saber:
+
+0303.02040142.005-4120 - Fonte 4.0 11.173,10
+
+0404.03080322.006-3132 - Fonte 3.0 30.063,54
+
+0505.03070212.007-3120 - Fonte 3.0 14.626,44
+
+0505.03070212.007-3132 - Fonte 3.0 74.658,83
+
+0606.03070212.009-3120 - Fonte 3.0 19.692,00
+
+0606.03070212.009-3132 - Fonte 3.0 7.676,53
+
+0606.03080202.008-3131 - Fonte 3.0 70.000,00
+
+0606.03080202.008-3132 - Fonte 3.0 125.072,29
+
+0707.15810212.009-3120 - Fonte 3.0 33.700,00
+
+0707.15814862.012-3120 - Fonte 3.0 41.700,00
+
+0707.15814862.012-3132 - Fonte 3.0 35.396,80
+
+0707.15814862.013-3120 - Fonte 3.0 46.595,20
+
+0707.15814862.013.3131 - Fonte 3.0 41.400,00
+
+0707.15814862.013-3132 - Fonte 3.0 154.907,45
+
+0707.15814862.013-3231 - Fonte 3.0 113.313,19
+
+0707.15814862.014-3120 - Fonte 3.0 21.200,00
+
+0707.15814862.014-3131 - Fonte 3.0 12.006,00
+
+0707.15814862.014-3132 - Fonte 3.0 141.809,26
+
+0707.15814871.227-3120 - Fonte 3.0 249.611,00
+
+0707.15814871.227-3132 - Fonte 3.0 30.497,80
+
+0707.15814871.227-4120 - Fonte 4.3 100.000,00
+
+0808.03070202.016-3120 - Fonte 3.0 66.128,58
+
+0808.03070202.016-3132 - Fonte 3.0 3.960,63
+
+0808.03070211.229-3120 - Fonte 3.0 15.088,62
+
+0808.03070211.229-3132 - Fonte 3.0 50.000,00
+
+0808.03070211.230-3120 - Fonte 3.0 15.003,14
+
+0808.03070211.230-3132 - Fonte 3.0 57.356,40
+
+0808.03070212.009-3120 - Fonte 3.0 27.390,00
+
+0808.03070212.017-3132 - Fonte 3.0 30.806,26
+
+0808.03070212.018-3132 - Fonte 3.0 44.490,39
+
+0808.03070212.020-3120 - Fonte 3.0 50.096,47
+
+0808.03070212.020-3131 - Fonte 3.0 12.474,00
+
+0808.03070212.020-3132 - Fonte 3.0 96.944,11
+
+0808.03070212.022-3120 - Fonte 3.0 126.917,65
+
+0808.03070212.022-3132 - Fonte 3.0 53.090,71
+
+0808.03070212.023-3131 - Fonte 3.0 20.550,00
+
+0808.03070212.023-3132 - Fonte 3.0 18.656,70
+
+0808.03070212.024-3120 - Fonte 3.0 23.317,18
+
+0808.03070212.024-3131 - Fonte 3.0 29.394,00
+
+0808.03070212.024-3132 - Fonte 3.0 67.022,93
+
+0808.03070212.024-4120 - Fonte 4.0 17.802,94
+
+0808.03070212.018-3120 - Fonte 3.0 17.658,56
+
+0808.06070212.108-3120 - Fonte 3.0 2.050,00
+
+0808.06070212.108-3132 - Fonte 3.0 14.453,28
+
+0808.14794802.021-3120 - Fonte 3.0 9.345,68
+
+0909.08070212.009-3120 - Fonte 3.0 22.021,31
+
+0909.08070212.009-3132 - Fonte 3.0 99.790,01
+
+0909.08480202.025-3120 - Fonte 3.0 41.057,96
+
+0909.08480202.025-3132 - Fonte 3.0 22.406,95
+
+0909.08482462.107-3120 - Fonte 3.0 293.370,15
+
+0909.08482462.107-3131 - Fonte 3.0 139.459,00
+
+0909.08482462.107-4120 - Fonte 4.0 25.654,20
+
+0909.08482472.026-3132 - Fonte 3.0 96.714,10
+
+0909.08482472.026-3231 - Fonte 3.0 7.932,00
+
+0909.08482472.084-3132 - Fonte 3.0 155.980,00
+
+0909.08653642.029-3120 - Fonte 3.0 171.129,00
+
+0909.08653642.029-3132 - Fonte 3.0 10.000,00
+
+1010.10580202.031-3120 - Fonte 3.0 54.397,00
+
+1010.10580202.031-3132 - Fonte 3.0 695.225,38
+
+1010.10580212.009-3120 - Fonte 3.0 28.341,12
+
+1010.10580212.009-3132 - Fonte 3.0 17.244,17
+
+1010.10583232.032-3120 - Fonte 3.0 36.285,15
+
+1010.10583232.032-3132 - Fonte 3.0 194.427,82
+
+1010.10583232.033-3120 - Fonte 3.0 13.387,60
+
+1010.10583232.033-3132 - Fonte 3.0 136.387,12
+
+1010.10603272.065-3132 - Fonte 3.0 400.000,00
+
+1111.08070202.034-3120 - Fonte 3.0 42.617,60
+
+1111.08070212.009-3120 - Fonte 3.0 48.829,83
+
+1111.08070212.009-3132 - Fonte 3.0 17.040,18
+
+1111.08420212.035-3120 - Fonte 3.0 241.803,00
+
+1111.08420212.035-3132 - Fonte 3.0 149.654,81
+
+1111.08420212.035-4120 - Fonte 4.0 311.713,64
+
+1111.08471882.036-3120 - Fonte 3.0 33.554,66
+
+1111.08421882.037-3120 - Fonte 3.0 36.491,60
+
+1111.08471881.223-4130 - Fonte 4.3 187.511,54
+
+1111.08471882.036-3132 - Fonte 3.0 161.643,04
+
+1111.08472352.036-3254 - Fonte 3.0 220.598,15
+
+1111.08472372.036-3132 - Fonte 3.0 39.025,58
+
+1111.08474272.038-3120 - Fonte 3.0 59.524,76
+
+1212.08460202.040-3120 - Fonte 3.0 14.602,00
+
+1212.08460202.040-3132 - Fonte 3.0 16.266,58
+
+1212.08460212.009-3120 - Fonte 3.0 17.067,05
+
+1212.08460212.009-3132 - Fonte 3.0 14.368,97
+
+1212.08462242.042-3120 - Fonte 3.0 98.290,41
+
+1212.08462242.042-3131 - Fonte 3.0 76.180,00
+
+1212.08462282.041-3120 - Fonte 3.0 119.955,41
+
+1313.03080322.044-3132 - Fonte 3.0 831.543,05
+
+1414.03070202.050-3132 - Fonte 3.0 32.646,58
+
+1414.03070212.009-3132 - Fonte 3.0 15.147,90
+
+1414.03070212.009-4120 - Fonte 4.0 16.834,99
+
+1515.11160212.009-3132 - Fonte 3.0 31.757,01
+
+1515.11160212.009-4120 - Fonte 4.0 8.843,56
+
+1515.11160972.057-3132 - Fonte 3.0 90.170,99
+
+1515.11163541.228-3120 - Fonte 3.0 21.210,50
+
+1515.11163541.228-3132 - Fonte 3.0 20.982,26
+
+1515.11633542.056-3132 - Fonte 3.0 12.697,00
+
+1616.08774562.086.3120 - Fonte 3.0 14.446,00
+
+1616.08774562.086-3132 - Fonte 3.0 16.777,38
+
+1616.10100591.226-3120 - Fonte 3.0 24.300,00
+
+1616.10100591.226-3132 - Fonte 3.0 28.800,00
+
+1616.10100591.226-4120 - Fonte 4.0 27.785,14
+
+1616.10603282.061-3131 - Fonte 3.0 22.770,00
+
+1616.10603282.061-4110 - Fonte 4.0 304.785,20
+
+1616.10770202.060-3120 - Fonte 3.0 24.386,50
+
+1616.10770202.060-3132 - Fonte 3.0 32.446,73
+
+1616.10770212.009-3120 - Fonte 3.0 46.696,21
+
+1616.10770212.009-4120 - Fonte 4.0 109.627,49
+
+1616.10774562.062-3120 - Fonte 3.0 14.213,15
+
+1616.10774562.062-3131 - Fonte 3.0 45.210,00
+
+1616.10774562.062-3132 - Fonte 3.0 85.281,36
+
+1616.10774562.062-3224 - Fonte 3.0 31.200,00
+
+1717.10583232.067-3120 - Fonte 3.0 7.956,78
+
+1717.10583232.068-3120 - Fonte 3.0 15.443,38
+
+1717.10583232.067-3132 - Fonte 3.0 33,40
+
+1818.03090202.070-3131 - Fonte 3.0 40.000,00
+
+1818.03090202.070-3132 - Fonte 3.0 93.078,97
+
+1818.03090212.072-3120 - Fonte 3.0 62.482,21
+
+1818.03090212.072-3131 - Fonte 3.0 42.000,00
+
+1818.03090212.072-3132 - Fonte 3.0 43.935,13
+
+1818.03090402.071-3120 - Fonte 3.0 19.040,00
+
+1818.03090402.073-3120 - Fonte 3.0 13.500,00
+
+1818.03090402.071-3131 - Fonte 3.0 231.012,00
+
+1818.03090402.073-3131 - Fonte 3.0 120.000,00
+
+1818.03090402.073-3132 - Fonte 3.0 677.815,12
+
+1818.03090432.074-3120 - Fonte 3.0 22.845,00
+
+1818.03090432.074-3131 - Fonte 3.0 53.067,63
+
+1818.03090442.075-3120 - Fonte 3.0 27.420,00
+
+1818.03090442.075-3131 - Fonte 3.0 20.313,00
+
+1818.03090442.075-3132 - Fonte 3.0 473.723,83
+
+1919.13750202.076-3120 - Fonte 3.0 23.413,11
+
+1919.13750202.076-3132 - Fonte 3.0 102.872,10
+
+1919.13750212.009-3120 - Fonte 3.0 1.323,81
+
+1919.13750212.009-3132 - Fonte 3.0 311.061,65
+
+1919.13754282.077-3131 - Fonte 3.0 30.875,40
+
+1919.13754282.077-3132 - Fonte 3.0 313.750,86
+
+1919.13754282.077-3132 - Fonte 3.4 151.572,00
+
+1919.13754282.078-3131 - Fonte 3.0 187.568,10
+
+1919.13754282.078-3132 - Fonte 3.0 112.207,04
+
+1919.13754282.078-3224 - Fonte 3.0 132.766,00
+
+1919.13754292.080-3131 - Fonte 3.0 31.102,80
+
+1919.13754292.080-3132 - Fonte 3.0 243.048,75
+
+1919.13754302.079-3120 - Fonte 3.0 127.736,79
+
+1919.13754302.079-3132 - Fonte 3.0 50.983,37
+
+2101.03070212.081-3120 - Fonte 3.0 10,08
+
+2101.03070212.081-3132 - Fonte 3.0 77.489,89
+
+2101.10583232.082-3132 - Fonte 3.0 12.653,14
+
+2101.10583232.082-3231 - Fonte 3.0 15.000,00
+
+2101.10583232.082-4120 - Fonte 4.0 32.997,24
+
+2101.16915752.083-4110 - Fonte 4.3 19.075,00
+
+2102.03070212.081-3120 - Fonte 3.0 37.236,00
+
+2102.03070212.081-4120 - Fonte 4.0 66.902,34
+
+2102.10583232.082-3231 - Fonte 3.0 15.000,00
+
+2102.10583232.082-4120 - Fonte 4.0 45.000,00
+
+2102.16915752.083-3120 - Fonte 3.0 15.000,00
+
+2102.16915752.083.3132 - Fonte 3.0 15.000,00
+
+2103.03070212.081-3120 - Fonte 3.0 53.380,01
+
+2103.03070212.081-3131 - Fonte 3.0 12.500,00
+
+2103.03070212.081-3132 - Fonte 3.0 67.123,62
+
+2103.03070212.081-4120 - Fonte 4.0 71.687,06
+
+2103.10583232.082-3231 - Fonte 3.0 15.000,00
+
+2103.10583232.082-4120 - Fonte 4.0 46.451,68
+
+2103.16915752.083-3120 - Fonte 3.0 15.000,00
+
+2103.16915752.083-3132 - Fonte 3.0 61.000,00
+
+2103.16915752.083-4110 - Fonte 4.0 477.233,00
+
+2104.03070212.081-3120 - Fonte 3.0 19.893,00
+
+2104.03070212.081-4120 - Fonte 4.0 26.972,43
+
+2104.10583232.082-3231 - Fonte 3.0 15.000,00
+
+2104.10583232.082-4120 - Fonte 4.0 29.850,83
+
+2104.16915752.083-3120 - Fonte 3.0 34.387,50
+
+2105.03070212.081-3120 - Fonte 3.0 44.464,91
+
+2105.03070212.081-3131 - Fonte 3.0 12.500,00
+
+2105.03070212.081-4120 - Fonte 4.0 66.972,45
+
+2105.10583232.082-3120 - Fonte 3.0 47.400,00
+
+2105.10583232.082-3231 - Fonte 3.0 15.000,00
+
+2105.03070212.081-3132 - Fonte 3.0 58.490,90
+
+2105.10583232.082-4120 - Fonte 4.0 27.466,58
+
+2105.16915752.083-3120 - Fonte 3.0 15.484,00
+
+2106.03070212.081-3120 - Fonte 3.0 37.836,09
+
+2106.03070212.081-3132 - Fonte 3.0 140.825,35
+
+2106.03070212.081-4120 - Fonte 4.0 67.025,07
+
+2106.10583232.082-3120 - Fonte 3.0 238.500,00
+
+2106.10583232.082-3231 - Fonte 3.0 15.000,00
+
+2106.10583232.082-4120 - Fonte 4.0 27.000,00
+
+2106.16915752.083-3120 - Fonte 3.0 15.000,00
+
+2106.16915752.083-3132 - Fonte 3.0 15.000,00
+
+2107.03070212.081-3120 - Fonte 3.0 47.146,70
+
+2107.03070212.081-3132 - Fonte 3.0 245.509,35
+
+2107.03070212.081-4120 - Fonte 4.0 66.389,87
+
+2107.10583232.082-3120 - Fonte 3.0 238.500,00
+
+2107.10583232.082-3132 - Fonte 3.0 185.000,00
+
+2107.10583232.082-3231 - Fonte 3.0 15.000,00
+
+2107.10583232.082-4120 - Fonte 4.0 25.972,90
+
+2107.16915752.083-3120 - Fonte 3.0 15.000,00
+
+2107.16915752.083-3132 - Fonte 3.0 15.000,00
+
+2107.16915752.083-3231 - Fonte 3.0 264.600,00
+
+2107.16915752.083-4110 - Fonte 4.0 871.118,40
+
+2107.16915752.083-4110 - Fonte 4.3 64.434,00
+
+2108.03070212.081-3120 - Fonte 3.0 49.954,61
+
+2108.03070212.081-3132 - Fonte 3.0 65.174,11
+
+2108.03070212.081-4120 - Fonte 4.0 74.240,10
+
+2108.10583232.082-3132 - Fonte 3.0 134.500,00
+
+2108.10583232.082-3231 - Fonte 3.0 15.000,00
+
+2108.10583232.082-4120 - Fonte 4.0 35.504,00
+
+2108.16915752.083-3120 - Fonte 3.0 21.595,92
+
+2108.16915752.083-3132 - Fonte 3.0 15.000,00
+
+2108.16915752.083-3231 - Fonte 3.0 264.600,00
+
+2108.16915752.083-4110 - Fonte 4.3 85.313,50
+
+2109.03070212.081-3120 - Fonte 3.0 21.032,27
+
+2109.10583232.082-3231 - Fonte 3.0 15.000,00
+
+2109.10583232.082-4120 - Fonte 4.0 10.847,98
+
+2109.16915752.083-3132 - Fonte 3.0 38.520,90
+
+2701.03080332.100-4351 - Fonte 4.0 2.108.608,18
+
+2702.03080342.090-3211 - Fonte 5.0 1.642.900,00
+
+**Art. 3º** - Fica modificado o orçamento da Superintendência de Desenvolvimento da Capital - SUDECAP, pela suplementação no valor de Cz$8.689.853,70 (oito milhões, seiscentos e oitenta e nove mil, oitocentos e cinqüenta e três cruzados e setenta centavos), nas seguintes dotações orçamentárias:
+
+03080342.090 1.642.900,06
+
+13764481.203 1.294.360,00
+
+16915751.208 5.752.593,70
+
+**Art. 4º** - Constitui recurso para atender ao disposto no artigo anterior, o Crédito Suplementar aberto pelo presente Decreto a Encargos Gerais do Município, da Secretaria Municipal de Planejamento.
+
+**Art. 5º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 29 de dezembro de 1986
+
+Sérgio Ferrara
+
+Prefeito de Belo Horizonte
+
+Lomelino de Andrade Couto
+
+Secretário Municipal do Governo
+
+Marcos Ferreira de Sousa
+
+Secretário Municipal de Planejamento
+
+Evandro Antônio Brazil
+
+Secretário Municipal da Fazenda
+
+## Observações da CMBH
+
+Retificado em 31/12/1986; 06/01/1987; 09/01/1987 e em 15/01/1987.

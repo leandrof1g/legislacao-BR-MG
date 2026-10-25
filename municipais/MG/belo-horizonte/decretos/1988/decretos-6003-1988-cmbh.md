@@ -1,0 +1,57 @@
+---
+titulo: "Decreto nº 6003/1988"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "6003"
+data: ""
+data_publicacao: ""
+ementa: "Abre Crédito Suplementar no valor de Cz$9.800.000,00 a dotações de diversos órgãos da PBH."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166ed5a408517c"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/6003/1988"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7622d107280122e643a23303d4"
+id_documento: "2c907f7622d107280122e643a23303d4"
+sha256_fonte: "072a70a420064f33d9ea088c41f581b717439ff7935bafa0a0d7f4f885b47323"
+baixado_em: "2026-10-25"
+---
+
+# Decreto nº 6003/1988
+
+DECRETO Nº 6.003, DE 19 DE JULHO DE 1988
+
+Abre Crédito Suplementar no valor de Cz$9.800.000,00 a dotações de diversos órgãos da PBH.
+
+O Prefeito Municipal de Belo Horizonte, no uso de suas atribuições e de acordo com o disposto no artigo 5º da Lei Municipal nº 4894, de 26 de novembro de 1987, decreta:
+
+**Art. 1º** - Fica aberto o Crédito Suplementar no valor de Cz$9.800.000,00 (nove milhões e oitocentos mil cruzados), para reforço das seguintes dotações do orçamento vigente:
+
+0808.03070212.022 - 3132 - Fonte 3.0 800.000,00
+
+0808.03070212.024 - 3120 - Fonte 3.0 5.000.000,00
+
+1313.03080212.009 - 3131 - Fonte 3.0 4.000.000,00
+
+**Art. 2º** - Constitui recurso para atender ao disposto no artigo anterior o excesso de arrecadação de receita, identificado no exercício, de conformidade com o item II do artigo 43 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de Cz$9.800.000,00 (nove milhões e oitocentos mil cruzados).
+
+**Art. 3º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 19 de julho de 1988
+
+Sérgio Ferrara
+
+Prefeito de Belo Horizonte
+
+Lomelino de Andrade Couto
+
+Secretário Municipal do Governo
+
+Marcos Ferreira de Sousa
+
+Secretário Municipal de Planejamento
+
+Evandro Antônio Brazil
+
+Secretário Municipal da Fazenda

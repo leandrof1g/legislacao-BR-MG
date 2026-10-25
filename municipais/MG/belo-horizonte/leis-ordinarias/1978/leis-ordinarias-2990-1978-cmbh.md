@@ -1,0 +1,1365 @@
+---
+titulo: "Lei Ordinária nº 2990, de 18/10/1978"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "2990"
+data: "1978-10-18"
+data_publicacao: "1978-10-21"
+ementa: "Fixa normas de aplicação da Lei nº 2.662, de 8 de dezembro de 1976."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df011671bb92d44226"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/2990/1978"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76242ea9eb01244f63bc1f0293"
+id_documento: "2c907f76242ea9eb01244f63bc1f0293"
+sha256_fonte: "2dc3483aae2134fb068db288453bcb74ca6c0de91d5ee3c700f9aa444cc9c08c"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 2990, de 18/10/1978
+
+LEI Nº 2.990, DE 18 DE OUTUBRO DE 1978
+
+Fixa normas de aplicação da Lei nº 2662, de 8 de dezembro de 1976.
+
+O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - As folhas de números 02, 03, 06, 08, 09, 11, 12, 20, 25, 26, 27, 29, 31, 35, 40 e 41 do Volume II do Anexo nº 2, da Lei nº 2662/76, são substituídas pelas folhas de mesmo número que integram a presente Lei.
+
+**Art. 2º** - Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+Mando, portanto, a quem o conhecimento e a execução da presente Lei pertencer, que a cumpra e a faça cumprir, tão inteiramente como nela se contém.
+
+Belo Horizonte, 18 de outubro de 1978
+
+Luiz Verano
+
+Prefeito de Belo Horizonte
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 2.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 058772 00117 41 SE2 Rua Rio de Janeiro 01 081271 00117 41 SE2 Rua Fernandes Tourinho 01 017228 00117 41 SE2 Ave do Contorno
+
+01 026052 00120 41 ZR5 Rua Espírito Santo 01 081271 00120 41 ZR5 Rua Fernandes Tourinho 01 058772 00120 41 ZR5 Rua Rio de Janeiro 01 004345 00120 41 ZR5 Rua Antônio Albuquerque
+
+01 004345 00132 41 ZR5 Rua Antônio Albuquerque 01 081271 00132 41 ZR5 Rua Fernandes Tourinho 01 081155 00132 41 ZR5 Rua da Bahia 01 026052 00132 41 ZR5 Rua Espírito Santo
+
+01 040830 00145 41 ZR5 Rua Levindo Lopes 01 081155 00145 41 ZR5 Rua da Bahia 01 004345 00145 41 ZR5 Rua Antônio Albuquerque
+
+01 004345 00158 41 ZR6 Rua Antônio Albuquerque 01 081271 00158 41 ZR6 Rua Fernandes Tourinho 01 064961 00158 41 ZR6 Rua Sergipe 01 040830 00158 41 ZR6 Rua Levindo Lopes
+
+01 001678 00160 41 ZC5 Rua Alagoas 01 004345 00160 41 ZC5 Rua Antônio Albuquerque 01 081271 00160 41 ZC5 Rua Fernandes Tourinho 01 064961 00160 41 ZC5 Rua Sergipe
+
+01 021349 00173 41 ZC5 Pça Diogo de Vasconcelos 01 081256 00173 41 ZC5 Ave Getúlio Vargas 01 004345 00173 41 ZC5 Rua Antônio Albuquerque 01 001678 00173 41 ZC5 Rua Alagoas
+
+01 081256 00186 48 ZC5 Ave Getúlio Vargas 01 081271 00186 48 ZC5 Rua Fernandes Tourinho 01 053463 00186 48 ZC5 Rua Pernambuco
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 2.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 021349 00186 48 ZC5 Pça Diogo de Vasconcelos
+
+01 021349 00199 48 ZC5 Pça Diogo de Vasconcelos 01 018738 00199 48 ZC5 Ave Cristóvão Colombo 01 053463 00199 48 ZC5 Rua Pernambuco 01 081271 00199 48 ZC5 Rua Fernandes Tourinho
+
+01 052170 00205 48 ZC5 Rua Paraíba
+
+01 021349 00205 48 ZC5 Pça Diogo de Vasconcelos
+
+01 018738 00205 48 ZC5 Ave Cristóvão Colombo
+
+01 004345 00205 48 ZC5 Rua Antônio Albuquerque
+
+01 058731 00218 48 ZC5 Rua Rio Grande do Norte
+
+01 004345 00218 48 ZC5 Rua Antônio Albuquerque
+
+01 073727 00218 48 ZC5 Pça W. Brás
+
+01 017228 00218 48 ZC5 Ave do Contorno
+
+01 055100 00218 48 ZC5 Pça Pres. Arthur Bernardes
+
+01 052170 00218 48 ZC5 Rua Paraíba
+
+01 018738 00218 48 ZC5 Ave Cristóvão Colombo
+
+01 017228 00220 48 ZC3 Ave do Contorno
+
+01 055585 00220 48 ZC3 Rua Prof. Morais
+
+01 058731 00220 48 ZC3 Rua Rio Grande do Norte
+
+01 004345 00220 48 ZC3 Rua Antônio Albuquerque
+
+01 073727 00220 48 ZC3 Pça W. Brás
+
+01 004345 00233 48 ZRS Rua Antônio Albuquerque
+
+01 017228 00233 48 ZRS Ave do Contorno
+
+01 055585 00233 48 ZRS Rua Prof. Morais
+
+01 065850 00233 48 ZRS Pça Silva Guimarães
+
+01 067998 00246 48 SE2 Rua Tomé de Souza
+
+01 043462 00246 48 SE2 Rua Maranhão
+
+01 017228 00246 48 SE2 Ave do Contorno
+
+01 017228 00259 48 ZR5 Ave do Contorno
+
+01 043462 00259 48 ZR5 Rua Maranhão
+
+01 067998 00259 48 ZR5 Rua Tomé de Souza
+
+01 053624 00259 48 ZR5 Rua Piauí
+
+01 065850 00261 48 ZR5 Pça Silva Guimarães
+
+01 053624 00261 48 ZR5 Rua Piauí
+
+01 067998 00261 48 ZR5 Rua Tomé de Souza
+
+01 014406 00261 48 ZR5 Rua Ceará
+
+01 017228 00261 48 ZR5 Ave do Contorno
+
+01 014406 00274 41 ZR5 Rua Ceará
+
+01 067998 00274 41 ZR5 Rua Tomé de Souza
+
+01 055585 00274 41 ZR5 Rua Prof. Morais
+
+01 004345 00274 41 ZR5 Rua Antônio Albuquerque
+
+01 004345 00287 41 ZR5 Rua Antônio Albuquerque
+
+01 055585 00287 41 ZR5 Rua Prof. Morais
+
+01 067998 00287 41 ZR5 Rua Tomé de Souza
+
+01 058731 00287 41 ZR5 Rua Rio Grande do Norte
+
+01 004345 00290 41 ZC5 Rua Antônio Albuquerque
+
+01 067998 00290 41 ZC5 Rua Tomé de Souza
+
+01 058731 00290 41 ZC5 Rua Rio Grande do Norte
+
+01 052170 00290 41 ZC5 Rua Paraíba
+
+01 081256 00306 41 ZC5 Ave Getúlio Vargas
+
+01 052170 00306 41 ZC5 Rua Paraíba
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO 6.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 059139 00510 40 ZC3 Rua Rodrigues Caldas
+
+01 059139 00523 40 SE2 Rua Rodrigues Caldas
+
+01 052095 00523 40 SE2 Rua Paracatu
+
+0) 039455 00523 40 SE2 Rua Juiz de Fora
+
+01 017228 00523 40 SE2 Ave do Contorno
+
+01 045165 00523 40 SE2 Rua Matias Cardoso
+
+01 045165 00536 40 ZR5 Rua Matias Cardoso
+
+01 052095 00536 40 ZR5 Rua Paracatu
+
+01 050730 00536 40 ZR5 Rua Ouro Preto
+
+01 059139 00536 40 ZR5 Rua Rodrigues Caldas
+
+01 059139 00549 41 SE2 Rua Rodrigues Caldas
+
+01 050730 00549 41 SE2 Rua Ouro Preto
+
+01 045165 00549 41 SE2 Rua Matias Cardoso
+
+01 005376 00549 41 SE2 Rua Araguari
+
+01 005376 00551 41 ZR5 Rua Araguari
+
+01 021210 00551 41 ZR5 Rua Dias Adomo Santo Agostinho
+
+01 045165 00551 41 ZR5 Rua Matias Cardoso
+
+01 059139 00551 41 ZR5 Rua Rodrigues Caldas
+
+01 059139 00564 41 ZR6 Rua Rodrigues Caldas
+
+01 013328 00564 41 ZR6 Pça Carlos Chagas
+
+01 021210 00564 41 ZR6 Rua Dias Adomo Santo Agostinho
+
+01 045165 00564 41 ZR6 Rua Matias Cardoso
+
+01 002730 00564 41 ZR6 Ave Álvares Cabral
+
+01 002730 00577 41 ZR6 Ave Álvares Cabral
+
+01 013328 00577 41 ZR6 Pça Carlos Chagas
+
+01 061948 00577 41 ZR6 Rua Santos Barreto
+
+01 049699 00577 41 ZR6 Ave Olegário Maciel
+
+01 060400 00580 41 ZR6 Rua Santa Catarina
+
+01 049699 00580 41 ZR6 Ave Olegário Maciel
+
+01 027953 00580 41 ZR6 Rua Felipe dos Santos
+
+01 004358 00580 41 ZR6 Rua Antônio Aleixo
+
+01 004358 00592 41 ZR5 Rua Antônio Aleixo
+
+01 027953 00592 41 ZR5 Rua Felipe dos Santos
+
+01 044480 00592 41 ZR5 Rua Marília de Dirceu
+
+01 060400 00592 41 ZR5 Rua Santa Catarina
+
+01 027953 00609 41 SE2 Rua Felipe dos Santos
+
+01 019090 00609 41 SE2 Rua Curitiba
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 6.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 067998 00700 41 SE2 Rua Tomé de Souza
+
+01 081256 00700 41 SE2 Ave Getúlio Vargas
+
+01 081256 00712 41 ZR6 Ave Getúlio Vargas
+
+01 055585 00712 41 ZR6 Rua Prof. Morais
+
+01 067998 00712 41 ZR6 Rua Tomé de Souza
+
+01 058731 00712 41 ZR6 Rua Rio Grande do Norte
+
+01 034350 00712 41 ZR6 Rua Inconfidentes
+
+01 035350 00725 41 ZR5 Rua Inconfidentes
+
+01 014406 00725 41 ZR5 Rua Ceará
+
+01 067998 00725 41 ZR5 Rua Tomé de Souza
+
+01 055585 00725 41 ZR5 Rua Prof. Morais
+
+01 053624 00738 41 ZR5 Rua Piauí
+
+01 067998 00738 41 ZR5 Rua Tomé de Souza
+
+01 034350 00738 41 ZR5 Rua Inconfidentes
+
+01 014406 00738 41 ZR5 Rua Ceará
+
+01 034350 00740 41 SE2 Rua Inconfidentes
+
+01 043463 00740 41 SE2 Rua Maranhão
+
+01 053624 00740 41 SE2 Rua Piauí
+
+01 067998 00740 41 SE2 Rua Tomé de Souza
+
+01 001259 00740 41 SE2 Ave Afonso Pena
+
+01 001259 00753 48 ZR5 Ave Afonso Pena
+
+01 067998 00753 48 ZR5 Rua Tomé de Souza
+
+01 018867 00753 48 ZR5 Pça Milton Campos
+
+01 043462 00753 48 ZR5 Rua Maranhão
+
+01 017228 00766 41 ZR5 Ave do Contorno
+
+01 034350 00766 41 ZR5 Rua Inconfidentes
+
+01 001259 00766 41 ZR5 Ave Afonso Pena
+
+01 001259 00779 41 ZR5 Ave Afonso Pena
+
+01 034350 00779 41 ZR5 Rua Inconfidentes
+
+01 043462 00779 41 ZR5 Rua Maranhão
+
+01 017228 00779 41 ZR5 Ave do Contorno
+
+01 061270 00779 41 ZR5 Rua Santa Rita Durão
+
+01 061270 00781 41 ZR5 Rua Santa Rita Durão
+
+01 043462 00781 41 ZR5 Rua Maranhão
+
+01 001259 00781 41 ZR5 Ave Afonso Pena
+
+01 001259 00794 41 ZR5 Ave Afonso Pena
+
+01 034350 00794 41 ZR5 Rua Inconfidentes
+
+01 053624 00794 41 ZR5 Rua Piauí
+
+01 053624 00800 41 ZR6 Rua Piauí
+
+01 061270 00800 41 ZR6 Rua Santa Rita Durão
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 9.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 061270 00800 41 ZR6 Rua Santa Rita Durão
+
+01 053624 00800 41 ZR6 Rua Piauí
+
+01 014406 00800 41 ZR6 Rua Ceará
+
+01 034350 00800 41 ZR6 Rua Inconfidentes
+
+01 034350 00800 41 ZR6 Rua Inconfidentes
+
+01 014406 00800 41 ZR6 Rua Ceará
+
+01 001259 00800 41 ZR6 Ave Afonso Pena
+
+01 001259 00800 41 ZR6 Ave Afonso Pena
+
+01 014406 00813 41 SE2 Rua Ceará
+
+01 034350 00813 41 SE2 Rua Inconfidentes
+
+01 081256 00813 41 SE2 Ave Getúlio Vargas
+
+01 061270 00813 41 SE2 Rua Santa Rita Durão
+
+01 055585 00813 41 SE2 Rua Prof. Morais
+
+01 055585 00826 41 ZC5 Rua Prof. Morais
+
+01 081256 00826 41 ZC5 Ave Getúlio Vargas
+
+01 034350 00826 41 ZC5 Rua Inconfidentes
+
+01 058731 00839 41 ZC5 Rua Rio Grande do Norte
+
+01 081256 00839 41 ZC5 Ave Getúlio Vargas
+
+01 061270 00829 41 ZC5 Rua Santa Rita Durão
+
+01 061270 00841 14 ZR6 Rua Santa Rita Durão
+
+01 058731 00841 14 ZR6 Rua Rio Grande do Norte
+
+01 052170 00841 14 ZR6 Rua Paraíba
+
+01 081256 00841 14 ZR6 Ave Getúlio Vargas
+
+01 034350 00841 14 ZR6 Rua Inconfidentes
+
+01 034350 00854 41 ZR5 Rua Inconfidentes
+
+01 061270 00854 41 ZR5 Rua Santa Rita Durão
+
+01 052170 00854 41 ZR5 Rua Paraíba
+
+01 053463 00854 41 ZR5 Rua Pernambuco
+
+01 053463 00867 41 ZR5 Rua Pernambuco
+
+01 061270 00867 41 ZR5 Rua Santa Rita Durão
+
+01 034350 00867 41 ZR5 Rua Inconfidentes
+
+01 001678 00867 41 ZR5 Rua Alagoas
+
+01 001678 00870 41 ZR6 Rua Alagoas
+
+01 034350 00870 41 ZR6 Rua Inconfidentes
+
+01 061270 00870 41 ZR6 Rua Santa Rita Durão
+
+01 064961 00870 41 ZR6 Rua Sergipe
+
+01 064961 00883 41 SE2 Rua Sergipe
+
+01 061270 00882 41 SE2 Rua Santa Rita Durão
+
+01 040870 00882 41 SE2 Pça da Liberdade
+
+01 018738 00882 41 SE2 Ave Cristóvão Colombo
+
+01 040870 00895 41 SE2 Pça da Liberdade
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 11.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 050730 01006 40 ZR5 Rua Ouro Preto
+
+01 059139 01006 40 ZR5 Rua Rodrigues Caldas
+
+01 052095 01006 40 ZR5 Rua Paracatu
+
+01 044944 01006 40 ZR5 Rua Martin de Carvalho
+
+01 039455 01019 40 ZR5 Rua Juiz de Fora
+
+01 044944 01019 40 ZR5 Rua Martin de Carvalho
+
+01 059139 01019 40 ZR5 Rua Rodrigues Caldas
+
+01 052095 01019 40 ZR5 Rua Paracatu
+
+01 053968 01021 40 ZC3 Pça Pio XII
+
+01 059139 01021 40 ZC3 Rua Rodrigues Caldas
+
+01 044944 01021 40 ZC3 Rua Martin de Carvalho
+
+01 039455 01021 40 ZC3 Rua Juiz de Fora
+
+01 017228 01021 40 ZC3 Ave do Contorno
+
+01 010590 01021 40 ZC3 Rua Tenente Brito Melo
+
+01 017228 01034 40 SE3 Ave do Contorno
+
+01 010590 01034 40 SE3 Rua Tenente Brito Melo
+
+01 053968 01034 40 SE3 Pça Pio XII
+
+01 003140 01034 40 SE3 Ave Amazonas
+
+01 003140 01047 40 SE2 Ave Amazonas
+
+01 022109 01047 40 SE2 Pça Dom Bosco
+
+01 017228 01047 40 SE2 Ave do Contorno
+
+01 010590 01047 40 SE2 Rua Tenente Brito Melo
+
+01 044944 01047 40 SE2 Rua Martin de Carvalho
+
+01 017228 01050 40 SE2 Ave do Contorno
+
+01 002683 01050 40 SE2 Rua Alvarenga Peixoto
+
+01 070211 01050 40 SE2 Rua Uberaba
+
+01 070211 01062 40 SE2 Rua Uberaba
+
+01 002683 01062 40 SE2 Rua Alvarenga Peixoto
+
+01 022109 01062 40 SE2 Pça Dom Bosco
+
+01 010590 01062 40 SE2 Rua Tenente Brito Melo
+
+01 017228 01062 40 SE2 Ave do Contorno
+
+01 010590 01075 40 ZC5 Rua Tenente Brito Melo
+
+01 002683 01075 40 ZC5 Rua Alvarenga Peixoto
+
+01 003140 01075 40 ZC5 Ave Amazonas
+
+01 003140 01088 40 ZC5 Ave Amazonas
+
+01 044944 01088 40 ZC5 Rua Martin de Carvalho
+
+01 049455 01088 40 ZC5 Rua Juiz de Fora
+
+01 044944 01090 40 ZR6 Rua Martin de Carvalho
+
+01 039455 01090 40 ZR6 Rua Juiz de Fora
+
+01 003140 01090 40 ZR6 Ave Amazonas
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 12.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 002683 01090 40 ZR6 Rua Alvarenga Peixoto
+
+01 052095 01090 40 ZR6 Rua Paracatu
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 12.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 052095 01107 41 ZR5 Rua Paracatu
+
+01 002683 01107 41 ZR5 Rua Alvarenga Peixoto
+
+01 050730 01107 41 ZR5 Rua Ouro Preto
+
+01 044944 01107 41 ZR5 Rua Martin de Carvalho
+
+01 050730 01110 41 ZR5 Rua Ouro Preto
+
+01 044944 01110 41 ZR5 Rua Martin de Carvalho
+
+01 002683 01110 41 ZR5 Rua Alvarenga Peixoto
+
+01 005376 01110 41 ZR5 Rua Araguari
+
+01 005376 01122 41 ZRS Rua Araguari
+
+01 002683 01122 41 ZRS Rua Alvarenga Peixoto
+
+01 044944 01122 41 ZRS Rua Martin de Carvalho
+
+01 021210 01122 41 ZRS Rua Dias Adorno Santo Agostinho
+
+01 021210 01135 21 ZR5 Rua Dias Adorno Santo Agostinho
+
+01 013328 01135 21 ZR5 Pça Carlos Chagas
+
+01 044944 01135 21 ZR5 Rua Martin de Carvalho
+
+01 002683 01135 21 ZR5 Rua Alvarenga Peixoto
+
+01 008084 01135 21 ZR5 Ave Barbacena
+
+01 008084 01148 41 SE2 Ave Barbacena
+
+01 002683 01148 41 SE2 Rua Alvarenga Peixoto
+
+01 013328 01148 41 SE2 Pça Carlos Chagas
+
+01 049699 01148 41 SE2 Ave Olegário Maciel
+
+01 049699 01150 41 ZC5 Ave Olegário Maciel
+
+01 002683 01150 41 ZC5 Rua Alvarenga Peixoto
+
+01 002730 01150 41 ZC5 Ave Álvares Cabral
+
+01 002730 01163 41 ZC5 Ave Álvares Cabral
+
+01 060400 01163 41 ZC5 Rua Santa Catarina
+
+01 067944 01163 41 ZC5 Rua Tomás Gonzaga
+
+01 067944 01176 41 ZR6 Rua Tomás Gonzaga
+
+01 060400 01176 41 ZR6 Rua Santa Catarina
+
+01 002730 01176 41 ZR6 Ave Álvares Cabral
+
+01 002683 01176 41 ZR6 Rua Alvarenga Peixoto
+
+01 019090 01176 41 ZR6 Rua Curitiba
+
+01 019090 01189 41 ZR5 Rua Curitiba
+
+01 002683 01189 41 ZR5 Rua Alvarenga Peixoto
+
+01 008116 01189 41 ZR5 Rua Bárbara Heliodora
+
+01 008116 01191 41 ZR5 Rua Bárbara Heliodora
+
+01 067944 01191 41 ZR5 Rua Tomás Gonzaga
+
+01 063464 01191 41 ZR5 Rua São Paulo
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 20.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 037853 01904 41 ZR6 Ave João Pinheiro
+
+01 031513 01904 41 ZR6 Rua Gonçalves Dias
+
+01 064961 01904 41 ZR6 Rua Sergipe
+
+01 064961 01917 41 ZR6 Rua Sergipe
+
+01 031513 01917 41 ZR6 Rua Gonçalves Dias
+
+01 009364 01917 41 ZR6 Rua Bernardo Guimarães
+
+01 001678 01917 41 ZR6 Rua Alagoas
+
+01 010420 01917 41 ZR6 Ave Brasil
+
+01 009364 01920 41 ZC5 Rua Bernardo Guimarães
+
+01 001678 01920 41 ZC5 Rua Alagoas
+
+01 010420 01920 41 ZC5 Ave Brasil
+
+01 010420 01932 41 ZC5 Ave Brasil
+
+01 031513 01932 41 ZC5 Rua Gonçalves Dias
+
+01 053463 01932 41 ZC5 Rua Pernambuco
+
+01 053463 01945 41 ZR6 Rua Pernambuco
+
+01 031513 01945 41 ZR6 Rua Gonçalves Dias
+
+01 052170 01945 41 ZR6 Rua Paraíba
+
+01 009364 01945 41 ZR6 Ave Brasil
+
+01 009364 01958 41 ZR6 Rua Bernardo Guimarães
+
+01 001259 01958 41 ZR6 Ave Afonso Pena
+
+01 031513 01958 41 ZR6 Rua Gonçalves Dias
+
+01 052170 01958 41 ZR6 Rua Paraíba
+
+01 058731 01958 41 ZR6 Rua Rio Grande do Norte
+
+01 058731 01960 41 ZC5 Rua Rio Grande do Norte
+
+01 031513 01960 41 ZC5 Rua Gonçalves Dias
+
+01 001259 01960 41 ZC5 Ave Afonso Pena
+
+01 001259 01973 41 ZC5 Ave Afonso Pena
+
+01 009364 01973 41 ZC5 Rua Bernardo Guimarães
+
+01 009392 01973 41 ZC5 Ave Bernardo Monteiro
+
+01 009392 01986 41 ZR6 Ave Bernardo Monteiro
+
+01 009364 01986 41 ZR6 Rua Bernardo Guimarães
+
+01 001259 01986 41 ZR6 Ave Afonso Pena
+
+01 031513 01986 41 ZR6 Rua Gonçalves Dias
+
+01 014406 01986 41 ZR6 Rua Ceará
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 25.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 003140 02396 41 ZR6 Ave Amazonas
+
+01 005376 02396 41 ZR6 Rua Araguari
+
+01 050730 02396 41 ZR6 Rua Ouro Preto
+
+01 067682 02396 41 ZR6 Rua Timbiras
+
+01 067682 02402 41 ZC5 Rua Timbiras
+
+01 005376 02402 41 ZC5 Rua Araguari
+
+01 003140 02402 41 ZC5 Ave Amazonas
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 25.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 003140 02415 41 ZC5 Ave Amazonas
+
+01 001640 02415 41 ZC5 Rua Aimorés
+
+01 045200 02415 41 ZC5 Rua Mato Grosso
+
+01 045200 02428 41 ZR6 Rua Mato Grosso
+
+01 001640 02428 41 ZR6 Rua Aimorés
+
+01 003140 02428 41 ZR6 Ave Amazonas
+
+01 067682 02428 41 ZR6 Rua Timbiras
+
+01 058744 02428 41 ZR6 Rua Rio Grande do Sul
+
+01 058744 02430 41 ZR5 Rua Rio Grande do Sul
+
+01 067682 02430 41 ZR5 Rua Timbiras
+
+01 001640 02430 41 ZR5 Rua Aimorés
+
+01 049699 02430 41 ZR5 Ave Olegário Maciel
+
+01 049699 02443 41 ZR5 Ave Olegário Maciel
+
+01 001640 02443 41 ZR5 Rua Aimorés
+
+01 067682 02443 41 ZR5 Rua Timbiras
+
+01 060400 02443 41 ZR5 Rua Santa Catarina
+
+01 060400 02456 41 ZR6 Rua Santa Catarina
+
+01 067682 02456 41 ZR6 Rua Timbiras
+
+01 001640 02456 41 ZR6 Rua Aimorés
+
+0 I 019090 02456 41 ZR6 Rua Curitiba
+
+01 019090 02469 41 ZC5 Rua Curitiba
+
+01 001640 02469 41 ZC5 Rua Aimorés
+
+01 009553 02469 41 ZC5 Ave Bias Fortes
+
+01 009553 02471 41 ZC5 Ave Bias Fortes
+
+01 063464 0? 471 41 ZC5 Rua São Paulo
+
+01 067682 02471 41 ZC5 Rua Timbiras
+
+01 067682 02484 41 ZR6 Rua Timbiras
+
+01 063464 02484 41 ZR6 Rua São Paulo
+
+01 058772 02484 41 ZR6 Rua Rio de Janeiro
+
+01 002730 02484 41 ZR6 Ave Álvares Cabral
+
+01 009S53 02484 41 ZR6 Ave Bias Fortes
+
+01 001640 02484 41 ZR6 Rua Aimorés
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 26.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 002730 02497 41 ZCS Ave Álvares Cabral
+
+01 058772 02497 41 ZCS Rua Rio de Janeiro
+
+01 067682 02497 41 ZCS Rua Timbiras
+
+01 002730 02503 41 ZCS Ave Álvares Cabral
+
+01 001640 02503 41 ZCS Rua Aimorés
+
+01 026052 02503 41 ZCS Rua Espírito Santo
+
+01 026052 02516 41 ZR6 Rua Espírito Santo
+
+01 001640 02516 41 ZR6 Rua Aimorés
+
+01 002730 02516 41 ZR6 Ave Álvares Cabral
+
+01 067682 02516 41 ZR6 Rua Timbiras
+
+01 081155 02516 41 ZR6 Rua da Bahia
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 26.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 067682 02529 41 ZR6 Rua Timbiras
+
+01 081155 02529 41 ZR6 Rua da Bahia
+
+01 001640 02529 41 ZR6 Rua Aimorés
+
+01 037853 02529 41 ZR6 Ave João Pinheiro
+
+01 037853 02531 41 ZR6 Ave João Pinheiro
+
+01 001640 02531 41 ZR6 Rua Aimorés
+
+01 067682 02531 41 ZR6 Rua Timbiras
+
+01 064961 02531 41 ZR6 Rua Sergipe
+
+01 067682 02544 41 SE2 Rua Timbiras
+
+01 064961 02544 41 SE2 Rua Sergipe
+
+01 001640 02544 41 SE2 Rua Aimorés
+
+01 001678 02544 41 SE2 Rua Alagoas
+
+01 001678 02557 41 ZR6 Rua Alagoas
+
+01 001640 02557 41 ZR6 Rua Aimorés
+
+01 001259 02557 41 ZR6 Ave Afonso Pena
+
+01 067682 02557 41 ZR6 Rua Timbiras
+
+01 053463 02557 41 ZR6 Rua Pernambuco
+
+01 067768 02560 41 ZC5 Pça Tiradentes
+
+01 001259 02560 41 ZC5 Ave Afonso Pena
+
+01 001640 02560 41 ZC5 Rua Aimorés
+
+01 053463 02560 41 ZC5 Rua Pernambuco
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 27.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 067768 02572 41 SE2 Pça Tiradentes
+
+01 067768 02585 41 ZC5 Pça Tiradentes
+
+01 067682 02585 41 ZC5 Rua Timbiras
+
+01 001259 02585 41 ZC5 Ave Afonso Pena
+
+01 052170 02585 41 ZC5 Rua Paraíba
+
+01 052170 02598 41 ZC5 Rua Paraíba
+
+01 010420 02598 41 ZC5 Ave Brasil
+
+01 067682 02598 41 ZC5 Rua Timbiras
+
+01 067768 02598 41 ZC5 Pça Tiradentes
+
+01 067768 02604 41 ZC5 Pça Tiradentes
+
+01 001640 02604 41 ZC5 Rua Aimorés
+
+01 010420 02604 41 ZC5 Ave Brasil
+
+01 058731 02604 41 ZC5 Rua Rio Grande do Norte
+
+01 058731 02617 41 ZR6 Rua Rio Grande do Norte
+
+01 010420 02617 41 ZR6 Ave Brasil
+
+01 001640 02617 41 ZR6 Rua Aimorés
+
+01 009392 02617 41 ZR6 Ave Bernardo Monteiro
+
+01 067682 02617 41 ZR6 Rua Timbiras
+
+01 067682 02620 41 ZR5 Rua Timbiras
+
+01 009392 02620 41 ZR5 Ave Bernardo Monteiro
+
+01 001640 02620 41 ZR5 Rua Aimorés
+
+01 014406 02620 41 ZR5 Rua Ceará
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 27.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 014406 02632 46 ZR5 Rua Ceará
+
+01 001640 02632 46 ZR5 Rua Aimorés
+
+01 067682 02632 46 ZR5 Rua Timbiras
+
+01 053624 02632 46 ZR5 Rua Piauí
+
+01 053624 02645 41 ZR5 Rua Piauí
+
+01 043462 02645 41 ZR5 Rua Maranhão
+
+01 067682 02645 41 ZR5 Rua Timbiras
+
+01 001640 02645 41 ZR5 Rua Aimorés
+
+01 001640 02658 42 ZR6 Rua Aimorés
+
+01 067682 02658 42 ZR6 Rua Timbiras
+
+01 043462 02658 42 ZR6 Rua Maranhão
+
+01 026009 02658 42 ZR6 Pça Esperanto
+
+01 031771 02658 42 ZR6 Rua Grão Pará
+
+01 031771 02660 42 ZC3 Rua Grão Pará
+
+01 067682 02660 42 ZC3 Rua Timbiras
+
+01 017228 02660 42 ZC3 Ave do Contorno
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 29.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 012081 02761 41 SE2 Ave Carandaí
+
+01 001259 02774 41 ZC6 Ave Afonso Pena
+
+01 012081 02774 41 ZC6 Ave Carandaí
+
+01 053463 02774 41 ZC6 Rua Pernambuco
+
+01 001259 02787 41 ZC6 Ave Afonso Pena
+
+01 001678 02787 41 ZC6 Rua Alagoas
+
+01 067682 02787 41 ZC6 Rua Timbiras
+
+01 067682 02790 41 ZC6 Rua Timbiras
+
+01 064961 02790 41 ZC6 Rua Sergipe
+
+01 001678 02790 41 ZC6 Rua Alagoas
+
+01 001259 02790 41 ZC6 Ave Afonso Pena
+
+01 032037 02790 41 ZC6 Rua Guajajaras
+
+01 027853 02806 41 ZC6 Ave João Pinheiro
+
+01 032037 02806 41 ZC6 Rua Guajajaras
+
+01 064961 02806 41 ZC6 Rua Sergipe
+
+01 067682 02806 41 ZC6 Rua Timbiras
+
+01 067682 02819 41 ZC6 Rua Timbiras
+
+01 081155 02819 41 ZC6 Rua da Bahia
+
+01 032037 02819 41 ZC6 Rua Guajajaras
+
+01 037853 02819 41 ZC6 Ave João Pinheiro
+
+01 002730 02819 41 ZC6 Ave Álvares Cabral
+
+01 002730 02821 41 ZC6 Ave Álvares Cabral
+
+01 081155 02821 41 ZC6 Rua da Bahia
+
+01 067682 02821 41 ZC6 Rua Timbiras
+
+01 002730 02834 41 ZC6 Ave Álvares Cabral
+
+01 032037 02834 41 ZC6 Rua Guajajaras
+
+01 026052 02834 41 ZC6 Rua Espírito Santo
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 29.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 026052 02847 41 ZR6 Rua Espírito Santo
+
+01 032037 02847 41 ZR6 Rua Guajajaras
+
+0l 058772 02847 41 ZR6 Rua Rio de Janeiro
+
+0l 002730 02847 41 ZR6 Ave Álvares Cabral
+
+01 067682 02847 41 ZR6 Rua Timbiras
+
+01 067682 02850 41 ZR6 Rua Timbiras
+
+01 063464 02850 41 ZR6 Rua São Paulo
+
+01 058772 02850 41 ZR6 Rua Rio de Janeiro
+
+01 032037 02850 41 ZR6 Rua Guajajaras
+
+01 032037 02862 41 ZR6 Rua Guajajaras
+
+01 019090 02862 41 ZR6 Rua Curitiba
+
+01 063464 02862 41 ZR6 Rua São Paulo
+
+01 067682 02862 41 ZR6 Rua Timbiras
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 31.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 008084 02976 40 ZC5 Ave Barbacena
+
+01 039455 02976 40 ZC5 Rua Juiz de Fora
+
+01 032037 02976 40 ZC5 Rua Guajajaras
+
+01 008084 02989 40 ZC5 Ave Barbacena
+
+0l 010590 02989 40 ZC5 Rua Tenente Brito Melo
+
+01 067682 02989 40 ZC5 Rua Timbiras
+
+01 070211 02991 40 ZR6 Rua Uberaba
+
+01 067682 02991 40 ZR6 Rua Timbiras
+
+01 010590 02991 40 ZR6 Rua Tenente Brito Melo
+
+01 008084 02991 40 ZR6 Ave Barbacena
+
+01 032037 02991 40 ZR6 Rua Guajajaras
+
+01 032037 03001 40 ZR6 Rua Guajajaras
+
+01 017228 03001 40 ZR6 Ave do Contorno
+
+01 070211 03001 40 ZR6 Rua Uberaba
+
+01 067682 03001 40 ZR6 Rua Timbiras
+
+01 070211 03014 40 SE2 Rua Uberaba
+
+01 008084 03014 40 SE2 Ave Barbacena
+
+01 017228 03014 40 SE2 Ave do Contorno
+
+01 006731 03014 40 SE2 Ave Augusto de Lima
+
+01 032037 03014 40 SE2 Rua Guajajaras
+
+01 032037 03027 40 ZC5 Rua Guajajaras
+
+01 008084 03027 40 ZC5 Ave Barbacena
+
+01 070211 03027 40 ZC5 Rua Uberaba
+
+01 008084 03030 40 ZC5 Ave Barbacena
+
+01 010590 03030 40 ZC5 Rua Tenente Brito Melo
+
+01 006731 03030 40 ZC5 Ave Augusto de Lima
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO 31.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 006731 03042 40 ZC5 Ave Augusto de Lima
+
+01 008084 03042 40 ZC5 Ave Barbacena
+
+01 010590 03042 40 ZC5 Rua Tenente Brito Melo
+
+01 032037 03042 40 ZC5 Rua Guajajaras
+
+01 039455 03042 40 ZC5 Rua Juiz de Fora
+
+01 039455 03055 41 SE2 Rua Juiz de Fora
+
+01 052095 03055 41 SE2 Rua Paracatu
+
+01 032037 03055 41 SE2 Rua Guajajaras
+
+01 006731 03055 41 SE2 Ave Augusto de Lima
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO 35.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 043462 03358 42 ZC5 Rua Maranhão
+
+01 029669 03358 42 ZC5 Ave Francisco Sales
+
+01 013081 03358 42 ZC5 Ave Carandaí
+
+01 031771 03360 42 ZC5 Rua Grão Pará
+
+01 029669 03360 42 ZC5 Ave Francisco Sales
+
+01 051672 03360 42 ZC5 Rua Padre Rolim
+
+01 051672 03373 42 ZC3 Rua Padre Rolim
+
+01 031771 03373 42 ZC3 Rua Grão Pará
+
+01 042747 03373 42 ZC3 Rua Manaus
+
+01 013081 03373 42 ZC3 Ave Carandaí
+
+01 017228 03373 42 ZC3 Ave do Contorno
+
+01 017228 03386 42 ZC3 Ave do Contorno
+
+01 042747 03386 42 ZC3 Rua Manaus
+
+01 051672 03386 42 ZC3 Rua Padre Rolim
+
+01 042747 03399 42 ZC3 Rua Manaus
+
+01 051672 03399 42 ZC3 Rua Padre Rolim
+
+01 050667 03399 42 ZC3 Rua dos Otoni
+
+01 017228 03399 42 ZC3 Ave do Contorno
+
+01 031771 03405 42 ZR5 Rua Grão Pará
+
+01 050667 03405 42 ZR5 Rua dos Otoni
+
+01 042747 03405 42 ZR5 Rua Manaus
+
+01 051672 03405 42 ZR5 Rua Padre Rolim
+
+01 031771 03418 42 ZR6 Rua Grão Pará
+
+01 059230 03418 42 ZR6 Rua Romano Stochiero
+
+01 050667 03418 42 ZR6 Rua dos Otoni
+
+01 051672 03418 42 ZR6 Rua Padre Rolim
+
+01 050667 03420 41 ZC5 Rua dos Otoni
+
+01 043462 03420 41 ZC5 Rua Maranhão
+
+01 029669 03420 41 ZC5 Ave Francisco Sales
+
+01 069130 03420 41 ZC5 Pça Treze de Maio
+
+01 069130 03433 41 ZC5 Pça Treze de Maio
+
+01 053624 03433 41 ZC5 Rua Piauí
+
+01 029669 03433 41 ZC5 Ave Francisco Sales
+
+01 051672 03433 41 ZC5 Rua Padre Rolim
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO 35.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 053624 03446 41 ZC5 Rua Piauí
+
+01 051672 03446 41 ZC5 Rua Padre Rolim
+
+01 069130 03446 41 ZC5 Pça Treze de Maio
+
+01 010420 03446 41 ZC5 Ave Brasil
+
+01 010420 03459 41 ZC5 Ave Brasil
+
+01 014406 03459 41 ZC5 Rua Ceará
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 40.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 069965 03865 41 ZC6 Rua Tupis
+
+01 069965 03878 41 ZC6 Rua Tupis
+
+01 031400 03878 41 ZC6 Rua Goitacazes
+
+01 063464 03878 41 ZC6 Rua São Paulo
+
+01 058772 03878 41 ZC6 Rua Rio de Janeiro
+
+01 058772 03889 41 ZC6 Rua Rio de Janeiro
+
+0) 031400 03880 41 ZC6 Rua Goitacazes
+
+01 069965 03880 41 ZC6 Rua Tupis
+
+01 026052 03880 41 ZC6 Rua Espírito Santo
+
+01 026052 03893 41 ZC6 Rua Espírito Santo
+
+01 001259 02893 41 ZC6 Ave Afonso Pena
+
+01 081155 03893 41 ZC6 Rua da Bahia
+
+01 069965 03893 41 ZC6 Rua Tupis
+
+01 031400 03893 41 ZC6 Rua Goitacazes
+
+01 050667 03900 41 ZR4 Rua dos Otoni
+
+01 002264 03900 41 ZR4 Ave Alfredo Balena
+
+01 009392 03900 41 ZR4 Ave Bernardo Monteiro
+
+01 002264 03912 41 ZR4 Ave Alfredo Balena
+
+01 014406 03912 41 ZR4 Rua Ceará
+
+01 029669 03912 41 ZR4 Ave Francisco Sales
+
+01 009392 03912 41 ZR4 Ave Bernardo Monteiro
+
+01 033550 03912 41 ZR4 Pça Hugo Werneck
+
+01 050667 03912 41 ZR4 Rua dos Otoni
+
+01 050667 03925 41 SE2 Rua dos Otoni
+
+01 029669 03925 41 SE2 Ave Francisco Sales
+
+01 014406 03925 41 SE2 Rua Ceará
+
+01 069130 03925 41 SE2 Pça Treze de Maio
+
+01 069130 03930 41 SE2 Pça Treze de Maio
+
+01 069130 03940 41 ZC5 Pça Treze de Maio
+
+01 069130 03944 41 ZC5 Pça Treze de Maio
+
+01 010420 03940 41 ZC5 Ave Brasil
+
+01 053624 03940 41 ZC5 Rua Piauí
+
+01 051571 03940 41 ZC5 Rua Padre Marinho
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 40.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 050667 03953 42 ZC5 Rua dos Otoni
+
+01 043462 03953 42 ZC5 Rua Maranhão
+
+01 010420 03952 42 ZC5 Ave Brasil
+
+01 069130 03953 42 ZC5 Pça Treze de Maio
+
+01 010420 03966 42 ZR6 Ave Brasil
+
+01 043462 03966 42 ZR6 Rua Maranhão
+
+01 050667 03966 42 ZR6 Rua dos Otoni
+
+01 031771 03966 42 ZR6 Rua Grão Pará
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 41.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 05l571 03966 42 ZR6 Rua Padre Marinho
+
+01 031771 03979 42 ZR5 Rua Grão Pará
+
+01 051571 03979 42 ZR5 Rua Padre Marinho
+
+01 050667 03979 42 ZR5 Rua dos Otoni
+
+0l 042747 03979 42 ZR5 Rua Manaus
+
+01 042747 03981 42 ZC3 Rua Manaus
+
+01 050667 03981 42 ZC3 Rua dos Otoni
+
+01 051571 03981 42 ZC3 Rua Padre Marinho
+
+01 017228 03981 42 ZC3 Ave do Contorno
+
+01 017228 03994 42 ZC3 Ave do Contorno
+
+01 002756 03944 42 ZC3 Rua Álvares Maciel
+
+01 051571 03994 42 ZC3 Rua Padre Marinho
+
+01 042747 03994 42 ZC3 Rua Manaus
+
+01 042747 04004 42 ZR6 Rua Manaus
+
+01 051571 04004 42 ZR6 Rua Padre Marinho
+
+01 031771 04004 42 ZR6 Rua Grão Pará
+
+01 002756 04004 42 ZR6 Rua Álvares Maciel
+
+01 010420 04004 42 ZR6 Ave Brasil
+
+01 010420 04017 42 ZC5 Ave Brasil
+
+01 051571 04017 42 ZC5 Rua Padre Marinho
+
+01 031771 04017 42 ZC5 Rua Grão Pará
+
+01 043462 04020 42 ZC5 Rua Maranhão
+
+01 010420 04020 42 ZC5 Ave Brasil
+
+01 002756 04020 42 ZC5 Rua Álvares Maciel
+
+01 002756 04032 42 ZR4 Rua Álvares Maciel
+
+01 051571 04032 42 ZR4 Rua Padre Marinho
+
+01 043462 04032 42 ZR4 Rua Maranhão
+
+01 053624 04032 42 ZR4 Rua Piauí
+
+01 053624 04045 41 SE2 Rua Piauí
+
+01 002756 04045 41 SE2 Rua Álvares Maciel
+
+01 014406 04045 41 SE2 Rua Ceará
+
+01 029669 04045 41 SE2 Ave Francisco Sales
+
+01 069130 04045 41 SE2 Pça Treze de Maio
+
+ANEXO 2 - DELIMITAÇÃO DAS ZONAS DE USO, OCUPAÇÃO E PARCELAMENTO
+
+. 41.
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA TIPO NOME DO LOGRADOURO
+
+01 009392 04058 41 SE2 Ave Bernardo Monteiro
+
+01 002756 04058 41 SE2 Rua Álvares Maciel
+
+01 014406 04058 41 SE2 Rua Ceará
+
+01 015972 04060 41 ZR5 Rua Cláudio Manoel
+
+01 010420 04060 41 ZR5 Ave Brasil
+
+01 040870 04060 41 ZR5 Pça da Liberdade

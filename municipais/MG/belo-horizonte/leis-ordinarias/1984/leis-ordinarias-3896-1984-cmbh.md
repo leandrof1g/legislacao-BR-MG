@@ -1,0 +1,39 @@
+---
+titulo: "Lei Ordinária nº 3896, de 31/10/1984"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "3896"
+data: "1984-10-31"
+data_publicacao: "1984-11-01"
+ementa: "Dá a denominação de Estrela Cadente à atual Rua 10, do Bairro Estrela do Oriente."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df0116724d36136396"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/3896/1984"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f761f7f02bf012015afb2b40a44"
+id_documento: "2c907f761f7f02bf012015afb2b40a44"
+sha256_fonte: "197713055ee3509705c6bcf06eab7a5fe9117a3c26e5892b326a82dd6775ecbc"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 3896, de 31/10/1984
+
+LEI Nº 3.896, DE 31 DE OUTUBRO DE 1984
+
+Dá a denominação de Estrela Cadente à atual Rua 10, do Bairro Estrela do Oriente.
+
+O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - Fica o Prefeito autorizado a dar a denominação de Estrela Cadente à atual Rua 10, do Bairro Estrela do Oriente, nesta Capital.
+
+**Art. 2º** - A Prefeitura providenciará a colocação de placas indicativas, bem como a devida comunicação à Empresa Brasileira de Correios e Telégrafos.
+
+**Art. 3º** - Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+Belo Horizonte, 31 de outubro de 1984
+
+Ruy Lage
+
+Prefeito de Belo Horizonte

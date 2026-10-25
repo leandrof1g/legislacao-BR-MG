@@ -1,0 +1,71 @@
+---
+titulo: "Decreto nº 6061/1988"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "6061"
+data: ""
+data_publicacao: ""
+ementa: "Abre Crédito Suplementar no valor de CZ$60.819.340,00 a dotações de diversos órgãos da PBH."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166ed6fc1c522b"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/6061/1988"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7622d107280122e67fa4950468"
+id_documento: "2c907f7622d107280122e67fa4950468"
+sha256_fonte: "4c278b9784b0ab8cfd0e8b998d432d65f81d7fa89c9d44b055ff14cbefe1bc57"
+baixado_em: "2026-10-25"
+---
+
+# Decreto nº 6061/1988
+
+DECRETO Nº 6.061, DE 12 DE SETEMBRO DE 1988
+
+Abre Crédito Suplementar no valor de Cz$ 60.819.340,00 a dotações de diversos órgãos da PBH.
+
+O Prefeito Municipal de Belo Horizonte, no uso de suas atribuições e de acordo com o disposto no artigo 5º da Lei Municipal nº 4894, de 26 de novembro de 1987, decreta:
+
+**Art. 1º** - Fica aberto o Crédito Suplementar no valor de Cz$ 60.819.340,00 (sessenta milhões, oitocentos e dezenove mil, trezentos e quarenta cruzados), para reforço das seguintes dotações do orçamento vigente:
+
+0201.03070202.002-3120 - Fonte 3.0 1.781.476,00
+
+0808.03070212.028-3120 - Fonte 3.0 3.000.000,00
+
+0808.03070212.033-3259 - Fonte 1.0 52.850.000,00
+
+1010.10580212.009-3120 - Fonte 3.0 18.996,00
+
+1111.08420212.009-3120 - Fonte 3.0 164.783,00
+
+1414.03070212.009-3120 - Fonte 3.0 21.679,00
+
+1414.06301782.072-3120 - Fonte 3.0 3.029,00
+
+1919.13750212.009-3120 - Fonte 3.0 459.377,00
+
+1919.13754302.098-3132 - Fonte 3.0 1.300.000,00
+
+2703.03070212.101-3192 - Fonte 1.0 1.220.00,00
+
+**Art. 2º** - Constitui recurso para atender ao disposto no artigo anterior o excesso de arrecadação de receita, identificado no exercício, de conformidade com o item II do artigo 43 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de Cz$ 60.819.340,00 (sessenta milhões, oitocentos e dezenove mil, trezentos e quarenta cruzados).
+
+**Art. 3º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 12 de setembro de 1988
+
+Sérgio Ferrara
+
+Prefeito de Belo Horizonte
+
+Lomelino de Andrade Couto
+
+Secretário Municipal do Governo
+
+Marcos Ferreira de Sousa
+
+Secretário Municipal de Planejamento
+
+Evandro Antônio Brazil
+
+Secretário Municipal da Fazenda

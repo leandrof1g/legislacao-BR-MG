@@ -1,0 +1,181 @@
+---
+titulo: "Decreto nº 5153/1985"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "5153"
+data: ""
+data_publicacao: ""
+ementa: "Abre crédito suplementar no valor de Cr$ 1.005.800.000 a dotações de diversos órgãos da PBH."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01167270cc726b48"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/5153/1985"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7622ea41930123324a71320eba"
+id_documento: "2c907f7622ea41930123324a71320eba"
+sha256_fonte: "fb8f66c0e67655866f68f850706b8e4d5635f5c777f620cf3ac69eb2dd3b27d4"
+baixado_em: "2026-10-25"
+---
+
+# Decreto nº 5153/1985
+
+DECRETO N° 5.153, DE 21 DE OUTUBRO DE 1985
+
+Retificado em 23/10/1985 e 26/10/1985
+
+Abre crédito suplementar no valor de Cr$1.005.800.000 a dotações de diversos órgãos da PBH.
+
+O Prefeito Municipal de Belo Horizonte, no uso de suas atribuições e de acordo com o disposto no artigo 43 da Lei Federal nº 4.320, de 17 de março de 1964, e o artigo 8° da Lei Municipal nº 3.905, de 29 de novembro de 1984, decreta:
+
+**Art. 1º** - Fica aberto o Crédito Suplementar no valor de Cr$1.005.800.000 (um bilhão, cinco milhões e oitocentos mil cruzeiros), para reforço das seguintes dotações do orçamento vigente:
+
+0707-15810212.009-3111 5.000.000
+
+0707-15814862.01 2-3111 45.000.000
+
+0707-15814862.012-3113 5.050.000
+
+0707-15814862.012-3259 400.000
+
+0707-15814862.013-3111 36.000.000
+
+0707-15814862.013-3113 3.150.000
+
+0707-15814862.013-3259 1.100.000
+
+0707-15814862.014-3111 44.000.000
+
+0707-15814862.014-3113 4.000.000
+
+0707-15814862.014-3259 150.000
+
+0808-03070212.009-3113 1.500.000
+
+0808-03070212.009-3259 250.000
+
+0808-03070202.016-3113 250.000
+
+0808-03070212.017-3111 80.000.000
+
+0808-03070212.017-3113 32.600.000
+
+0808-03070212.018-3111 4.500.000
+
+0808-0307021 2.022-3253 1.000.000
+
+0808-03070212.024-3111 46.800.000
+
+0808-03070212.024-3113 65.000
+
+0808-03603262.018-3253 750.000
+
+0808-06070212.108-3259 250.000
+
+0909-08070212.009-3111 28.300.000
+
+0909-08070212.009-3113 3.850.000
+
+0909-08480202.025-3111 37.300.000
+
+0909-08480202.025-3113 4.200.000
+
+0909-08482472.026-3113 1.500.000
+
+0909-08482472.028-3113 1.800.000
+
+1111-08420212.035-3111 26.600.000
+
+1111-08420212.035-3113 3.550.000
+
+1111-08420212.035-3259 800.000
+
+1111-08471882.036-3259 100.000
+
+1111-08421882.037-3113 17.200.000
+
+1212-08462282.041-3111 6.000.000
+
+1212-08462242.042-3111 37.200.000
+
+1212-08462242.042-3113 1.800.000
+
+1313-03070212.009-3111 8.700.000
+
+1313-03070212.009-3113 1.350.000
+
+1313-03080302.045-3113 3.400.000
+
+1313-03080302.047-3111 189.000.000
+
+1313-03080302.047-3113 10.550.000
+
+1313-03080302.048-3111 49.300.000
+
+1313-03080302.048-3113 2.150.000
+
+1313-03080302.094-3111 800.000
+
+1313-03080302.094-3113 400.000
+
+1414-03070212.009-3259 100.000
+
+1414-03070202.050-3111 4.400.000
+
+1414-03070202.050-3113 1.350.000
+
+1515-l1160972.057-3111 124.700.000
+
+1515-11160972.057-3113 7.800.000
+
+1515-11160962.058-3113 1.600.000
+
+1616-10770212.009-3259 350.000
+
+1616-10770202.060-3111 59.500.000
+
+1616-10770202.060-3l13 3.850.000
+
+1616-10774562.062-3111 800.000
+
+1717-10580212.009-3111 4.800.000
+
+1717-10580212.009-3113 1.150.000
+
+1818-03090212.072-3111 4.000.000
+
+1818-03090212.072-3113 200.000
+
+1818-03090212.072-3259 200.000
+
+1919-13750212.009-3113 5.300.000
+
+1919-13754282.077-3253 100.000
+
+1919-13754292.084-3253 200.000
+
+2020-03070212.081-3111 35.600.000
+
+2024-03070212.081-3113 1.550.000
+
+**Art. 2º** - Para atender ao disposto no artigo anterior, serão utilizados parte dos recursos provenientes do excesso de arrecadação de receitas, verificado no exercício, observado o disposto no § 1° inciso II do artigo 43 da Lei Federal nº 4.320, de 17 de março de 1964.
+
+**Art. 3º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 21 de outubro de 1985
+
+Ruy Lage
+
+Prefeito de Belo Horizonte
+
+Marcos Ferreira de Sousa
+
+Secretário Municipal de Planejamento
+
+Evandro Antônio Brazil
+
+Secretário Municipal da Fazenda
+
+## Observações da CMBH
+
+Retificado em 23/10/1985 e em 26/10/1985.

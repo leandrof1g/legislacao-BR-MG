@@ -1,0 +1,41 @@
+---
+titulo: "Lei Ordinária nº 3531, de 06/01/1983"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "3531"
+data: "1983-01-06"
+data_publicacao: "1983-01-08"
+ementa: "Declara de utilidade pública a Igreja Assembléia de Deus Independente de Belo Horizonte."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166dfc2d8a0c2e"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/3531/1983"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f767fc764da01800fea1866039c"
+id_documento: "2c907f767fc764da01800fea1866039c"
+sha256_fonte: "3c6be2294ab1b1cb2c663ec54323e90560e7be74fbd1d8c58241820fec289ac1"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 3531, de 06/01/1983
+
+LEI Nº 3.531, DE 6 DE JANEIRO DE 1983
+
+REVOGADA PELA LEI Nº 11.352, DE 6/4/2022 (ART. 1º, DLXXI)
+
+Declara de utilidade pública a Igreja Assembléia de Deus Independente de Belo Horizonte.
+
+O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sanciono a seguinte Lei:
+
+**Art.1º** - Fica declarada de utilidade pública a Igreja Assembléia de Deus Independente de Belo Horizonte, com sede e foro nesta Capital.
+
+**Art. 2º** - Esta lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+Belo Horizonte, 6 de janeiro de 1983
+
+Júlio Arnoldo Laender
+
+Prefeito de Belo Horizonte
+
+Publicada no "Minas Gerais" de 08/01/1983

@@ -1,0 +1,39 @@
+---
+titulo: "Lei Ordinária nº 4523, de 09/07/1986"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "4523"
+data: "1986-07-09"
+data_publicacao: "1986-07-10"
+ementa: "Declara de utilidade pública a Associação de Criminalística do Estado de Minas Gerais - ACEMG."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166f3e14630093"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/4523/1986"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76806fc9cd018084795b360081"
+id_documento: "2c907f76806fc9cd018084795b360081"
+sha256_fonte: "95074f82b8750717c668eb520199b4b7d4d634abff511b7fad0eb6e325b60304"
+baixado_em: "2026-10-25"
+---
+
+# Lei Ordinária nº 4523, de 09/07/1986
+
+LEI Nº 4.523, DE 9 DE JULHO DE 1986
+
+REVOGADA PELA LEI Nº 11.352, DE 6/4/2022 (ART. 1º, DCCLXXXVI)
+
+Declara de utilidade pública a Associação de Criminalística do Estado de Minas Gerais - ACEMG.
+
+O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - Fica declarada de utilidade pública a Associação de Criminalística do Estado de Minas Gerais - ACEMG, com sede e foro nesta Capital.
+
+**Art. 2º** - Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+Belo Horizonte, 9 de julho de 1986
+
+Sérgio Ferrara
+
+Prefeito de Belo Horizonte

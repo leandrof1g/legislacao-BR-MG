@@ -1,0 +1,89 @@
+---
+titulo: "Decreto nº 3075/1977"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "3075"
+data: ""
+data_publicacao: ""
+ementa: "Dispõe sobre a regulamentação do uso do solo no Setor Especial-3 (SE-3)"
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df011672154b8f5739"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/3075/1977"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7622ea41930123570b86a61540"
+id_documento: "2c907f7622ea41930123570b86a61540"
+sha256_fonte: "4c51a83a1e5133b7b21e0763cde4088d1908969cf6c3abb148be17dd5996a57f"
+baixado_em: "2026-10-25"
+---
+
+# Decreto nº 3075/1977
+
+DECRETO N° 3.075, DE 7 DE JUNHO DE 1977
+
+Retificado em 30/6/1977
+
+Dispõe sobre a regulamentação do uso do solo no Setor Especial-3 (SE-3).
+
+O Prefeito de Belo Horizonte, no uso de suas atribuições legais e
+
+Considerando o disposto no 4º do Artigo 9º da Lei nº 2662, de 29/11/76, decreta:
+
+**Art. 1º** - O uso e a ocupação do solo das áreas consideradas como Setor Especial-3 (SE-3) obedecerão às disposições contidas na Lei n° 2662, de 29/11/76 e neste Decreto, sem prejuízo das normas federais e estaduais específicas.
+
+**Art. 2º** - Setor Especial-3 (SE-3) são os espaços destinados ao desenvolvimento de projetos especiais, como implantação de sistema viário, eixos de transportes ferroviários ou de massa, áreas destinadas a programas habitacionais.
+
+**Art. 3º** - As áreas consideradas como Setor Especial-3 (SE-3) pela Lei n° 2662, de 29/11/76 ficam agrupadas, de acordo com sua localização e finalidade nas seguintes categorias:
+
+I - áreas destinadas ao desenvolvimento d
+
+e projetos integrados correspondendo no caso às áreas lindeiras ao vale do Ribeirão Arrudas no trecho compreendido entre o cruzamento das Avenidas do Contorno e Andradas e o Anel Rodoviário;
+
+II - áreas destinadas à abertura de vias situadas em zonas de expansão urbana;
+
+III - áreas destinadas à abertura de vias em zona urbana;
+
+IV - áreas destinadas a alargamento de vias existentes, através do recuo de alinhamento;
+
+V - áreas destinadas à implantação de Terminal de Transporte Coletivo, compreendendo a quadra codificada com o número 3.811, pela Lei n° 2662, de 29/11/76.
+
+**Art. 4º** - As áreas consideradas como Setor Especial-3 (SE-3) contidas na categoria III, que não foram declaradas de utilidade pública até à data deste Decreto, poderão ser descaracterizadas como Setor Especial-3 (SE-3).
+
+**§ 1º** - O processo de descaracterização de áreas que se enquadrarem neste artigo se formalizará com a apresentação ao protocolo da Prefeitura Municipal de Belo Horizonte de requerimento do interessado, solicitando a descaracterização.
+
+**§ 2º** - A descaracterização será feita por ato do Poder Executivo, que estabelecerá o seu zoneamento de acordo com as características de zonas definidas pela Lei nº 2662/76 para as áreas contíguas e vizinhas mais próximas.
+
+**Art. 5º** - As áreas consideradas como Setor Especial-3 (SE-3) pela Lei nº 2662/76, integrantes da categoria das zonas de expansão urbana, quando deverão se constituir em vias a serem criadas no parcelamento, para estabelecer a continuidade do sistema viário.
+
+**Art. 6º** - As áreas consideradas como Setor-Especial-3 (SE-3) pela Lei nº 2662/76, integrantes da categoria IV deverão aguardar a aprovação dos respectivos projetos de alargamento das vias, ocasião em que se estabelecerá a sua descaracterização como SE-3, através de ato do Poder Executivo.
+
+**Art. 7º** - Ficam excluídas do Setor Especial-3 (SE-3) integrantes da categoria I, as quadras relacionadas no ANEXO deste Decreto, com o respectivo zoneamento, em cumprimento ao disposto no § 4º do Artigo 9º da Lei nº 2662/76.
+
+**Art. 8º** - Revogadas as disposições em contrário, este Decreto entrará em vigor na data de sua publicação.
+
+Mando, portanto, a quem o conhecimento e a execução do presente Decreto pertencer, que o cumpra e o faça cumprir, inteiramente como nele se contém.
+
+Belo Horizonte, 7 de junho de 1977
+
+Luiz Verano
+
+Prefeito de Belo Horizonte
+
+Martim Francisco Coelho de Andrada
+
+Vice-Presidente do Conselho Municipal de Planejamento do Desenvolvimento
+
+Israel Pinheiro Filho
+
+Secretário Municipal de Comunicações e Obras
+
+LISTAGEM DAS QUADRAS ALTERADAS EM FUNÇÃO DO PRESENTE DECRETO,
+
+COM O RESPECTIVO ZONEAMENTO PARA CADA LOGRADOURO
+
+SETOR LOGRADOURO QUADRA FOLHA ZONA 02 010320 07500 39 ZC3 02 059807 07500 39 ZC3 02 055330 07500 39 ZC3 02 067903 07500 39 ZC3 02 055330 07480 46 ZC3 02 053854 07480 46 ZC3 02 010320 07480 46 ZC3 02 067903 07480 46 ZC3 02 012501 06419 46 ZC3 02 055330 06419 46 ZC3 02 067903 06419 46 ZC3 02 053854 06419 46 ZC3 02 059807 07493 39 ZC3 02 012501 07493 39 ZC3 02 055330 07493 39 ZC3 02 067903 07493 39 ZC3 02 069937 06434 39 ZC3 02 059807 06434 39 ZC3 02 067903 06434 39 ZC3 02 012501 06434 39 ZC3 02 067903 07512 39 ZC3 02 069937 07512 39 ZC3 02 012501 07512 39 ZC3 02 017650 07512 39 ZC3 02 034221 08092 39 ZC3 02 042719 08092 39 ZC3 02 017650 08092 39 ZC3 02 012501 08092 39 ZC3 02 012501 08064 46 ZC3 02 055330 08864 46 ZC3 02 057174 08064 46 ZC3 02 053854 08064 46 ZC3 02 057174 06421 46 ZC3 02 012501 06421 46 ZC3 02 055330 06421 46 ZC3 02 059807 06421 46 ZC3 02 057174 06447 39 ZC3 02 069937 06447 39 ZC3 02 059807 06447 39 ZC3 02 012501 06447 39 ZC3 02 057174 06450 39 ZC3 02 069937 06450 39 ZC3 02 012501 06450 39 ZC3 02 017650 06450 39 ZC3 02 057174 06462 39 ZC3 02 034221 06462 39 ZC3 02 012501 06462 39 ZC3 02 017650 06462 39 ZC3 02 057174 07903 46 ZC3 02 055330 07903 46 ZC3 02 087669 07903 46 ZC3 02 057174 07289 39 ZC3 02 069937 07289 39 ZC3 02 059807 07289 39 ZC3 02 057174 07525 39 ZC3 02 017650 07525 39 ZC3 02 069937 07525 39 ZC3 02 034221 08080 39 ZC3 02 017650 08080 39 ZC3 02 042719 08080 39 ZC3 02 057174 08080 39 ZC3 02 003140 06390 46 ZC3 02 053854 06390 46 ZC3 02 055330 06390 46 ZC3 02 067670 06390 46 ZC3 02 059807 06387 46 ZC3 02 067670 06387 46 ZC3 02 055330 06387 46 ZC3 02 048107 06387 46 ZC3 02 067670 06374 46 ZC3 02 069937 06374 46 ZC3 02 048107 06374 46 ZC3 02 059807 06374 46 ZC3 02 017650 07944 46 ZC3 02 069937 07944 46 ZC3 02 067670 07944 46 ZC3 02 048107 07944 46 ZC3 02 048107 08502 39 ZC3 02 017650 08502 39 ZC3 02 067670 08502 39 ZC3 02 067670 08178 46 ZC3 02 003140 08178 46 ZC3 02 059807 08178 46 ZC3 02 055330 08178 46 ZC3 02 003140 08180 46 ZC3 02 067670 08180 46 ZC3 02 069937 08180 46 ZC3 02 059807 08180 46 ZC3 02 111568 08515 39 ZC3 02 088079 08515 39 ZC3 02 003140 08515 39 ZC3 02 069937 08515 39 ZC3 02 067670 08515 39 ZC3 02 111568 07538 39 ZC3 02 088079 07538 39 ZC3 02 003140 07538 39 ZC3 02 015263 07538 39 ZC3 02 048107 07538 39 ZC3 02 033001 08111 39 ZR4 02 087899 08111 39 ZR4 02 087918 08111 39 ZR4 02 070987 08111 39 ZR4 02 033001 08051 39 ZR4 02 009310 08051 39 ZR4 02 047233 08051 39 ZR4 02 087899 08137 39 ZR4 02 087873 08137 39 ZR4 02 070987 08137 39 ZR4 02 070987 08124 39 ZR4 02 087873 08124 39 ZR4 02 071687 08124 39 ZR4 02 047508 08124 39 ZR4 02 047233 07566 39 ZR4 02 033001 07566 39 ZR4 02 047551 07566 39 ZR4 02 047508 07566 39 ZR4 02 033001 06507 39 ZR4 02 047508 06507 39 ZR4 02 087873 06507 39 ZR4 02 071687 06507 39 ZR4 02 087899 06507 39 ZR4 02 008995 06273 39 ZR4 02 070987 06273 39 ZR4 02 071687 06273 39 ZR4 02 047508 06273 39 ZR4 02 014185 06129 39 ZR4 02 047800 06129 39 ZR4 02 058596 06129 39 ZR4 02 082678 06129 39 ZR4 02 008995 06286 39 ZR4 02 036661 06286 39 ZR4 02 071687 06286 39 ZR4 02 070987 06286 39 ZR4 02 057133 07581 39 ZR4 02 071687 07581 39 ZR4 02 070987 07581 39 ZR4 02 015916 07581 39 ZR4 02 070987 06490 39 ZR4 02 015916 06490 39 ZR4 02 071687 06490 39 ZR4 02 110754 06490 39 ZR4 02 058278 06490 39 ZR4 02 058278 06995 39 ZC3 02 067670 06995 39 ZC3 02 015916 06995 39 ZC3 02 070987 06995 39 ZC3 02 058278 06318 39 ZC3 02 067670 06318 39 ZC3 02 070987 06318 39 ZC3 02 004588 06318 39 ZC3 02 070987 07929 39 ZC3 02 058278 07829 39 ZC3 02 004588 07929 39 ZC3 02 029873 07960 39 ZR4 02 102806 07960 39 ZR4 02 014232 07960 39 ZR4 02 004588 07960 39 ZC1 02 029961 07960 39 ZC1 02 044188 06198 39 ZR4 02 102806 06198 39 ZR4 02 029873 06198 39 ZR4 02 014232 06185 39 ZR3 02 044188 06185 39 ZR3 02 029873 06185 39 ZR3 02 044424 06185 39 ZR3 02 044188 08556 39 ZR3 02 044424 08556 39 ZR3 02 017155 08556 39 ZR3 02 029873 08556 39 ZR3 02 102806 08556 39 ZR3 02 001930 06299 39 ZR3 02 102806 06299 39 ZR3 02 044424 06299 39 ZR3 02 017155 06299 39 ZR3 02 044424 07884 39 ZC3 02 066778 07884 39 ZC3 02 102806 07884 39 ZC3 02 001930 07884 39 ZC3 02 004588 07884 39 ZC3 02 004588 06320 39 ZC3 02 066778 06320 39 ZC3 02 067670 06320 39 ZC3 02 044424 06320 39 ZC3 02 044424 07600 39 ZC3 02 034073 07600 39 ZC3 02 066778 07600 39 ZC3 02 067670 06700 39 ZC3 02 014232 08569 39 ZC3 02 044424 08569 39 ZC3 02 103373 08569 39 ZC3 02 103373 06711 39 ZC3 02 014232 06711 39 ZC3 02 034073 06711 39 ZC3 02 001930 06711 39 ZC3 02 044424 06711 39 ZC3 02 044424 05330 39 ZC3 02 034073 05330 39 ZC3 02 001930 05330 39 ZC3 02 066778 05330 39 ZC3 02 071687 06488 39 ZR4 02 082678 06488 39 ZR4 02 047508 06488 39 ZR4 02 032267 07437 40 ZC3 02 012293 07437 40 ZC3 02 065889 07437 40 ZC3 02 054453 07437 40 ZC3 02 054453 06967 40 ZC3 02 065889 06967 40 ZC3 02 019904 06967 40 ZC3 02 032267 06967 40 ZC3 02 032267 06954 40 ZC3 02 011600 06954 40 ZC3 02 019904 06954 40 ZC3 02 054453 06954 40 ZC3 02 033418 06941 40 ZC3 02 027433 06941 40 ZC3 02 032267 06941 40 ZC3 02 054453 06939 40 ZC3 02 008664 06939 40 ZC3 02 032267 06939 40 ZC3 02 027433 06939 40 ZC3 02 054453 06793 40 ZC3 02 021380 06793 40 ZC3 02 039225 06793 40 ZC3 02 032267 06793 40 ZC3 02 054453 01370 40 ZC3 02 033418 01370 40 ZC3 02 032267 01370 40 ZC3 02 027433 01370 40 ZC3 02 011600 01370 40 ZC3 02 008664 01383 40 ZC3 02 032267 01383 40 ZC3 02 067985 01383 40 ZC3 02 054453 01383 40 ZC3 02 032267 01402 40 ZC3 02 039225 01402 40 ZC3 02 067802 01402 40 ZC3 02 067985 01402 40 ZC3 02 054453 01402 40 ZC3 02 021380 01443 40 ZC3 02 023398 01443 40 ZC3 02 032267 01443 40 ZC3 02 051962 01443 40 ZC3 02 036762 01443 40 ZC3 02 051962 01456 40 ZC3 02 061181 01456 40 ZC3 02 032267 01456 40 ZC3 02 067912 01976 40 ZC3 02 053407 01976 40 ZC3 02 039225 01976 40 ZC3 02 067512 08525 40 ZC3 02 048107 08525 40 ZC3 02 053407 08525 40 ZC3 02 061181 08525 40 ZC3 02 051556 06245 39 ZR4 02 070987 06245 39 ZR4 02 036661 06245 39 ZR4 02 057133 06245 39 ZR4
+
+## Observações da CMBH
+
+Retificado em 30/06/1977.

@@ -1,0 +1,51 @@
+---
+titulo: "Decreto nº 6041/1988"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "6041"
+data: ""
+data_publicacao: ""
+ementa: "Abre Crédito Suplementar no valor de Cz$2.627.000,00 a dotação da Secretaria Municipal da Fazenda."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df01166ed412e550af"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/6041/1988"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7622d107280122e66ed8c20432"
+id_documento: "2c907f7622d107280122e66ed8c20432"
+sha256_fonte: "819577bbfb3ff84327c3d8fe94e6c39ff110fb66e54606eb8a36182bd01c86ee"
+baixado_em: "2026-10-25"
+---
+
+# Decreto nº 6041/1988
+
+DECRETO Nº 6.041, DE 22 DE AGOSTO DE 1988
+
+Abre Crédito Suplementar no valor de Cz$ 2.627.000,00 a dotação da Secretaria Municipal da Fazenda.
+
+O Prefeito Municipal de Belo Horizonte, no uso de suas atribuições e de acordo com o disposto no artigo 5º da Lei Municipal nº 4894 de 26 de novembro de 1987, decreta:
+
+**Art. 1º** - Fica aberto o Crédito Suplementar no valor de Cz$ 2.627.000,00 (dois milhões, seiscentos e vinte e sete mil cruzados), para reforço da dotação 1313.03080212.009 - 3131 - Fonte 3.0 do orçamento vigente.
+
+**Art. 2º** - Constitui recurso para atender ao disposto no artigo anterior, o excesso de arrecadação de receita identificado no exercício, de conformidade com o item II, § 1º do artigo 43 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de Cz$ 2.627.000,00 (dois milhões seiscentos e vinte e sete mil cruzados).
+
+**Art. 3º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Belo Horizonte, 22 de agosto de 1988
+
+Sérgio Ferrara
+
+Prefeito de Belo Horizonte
+
+Lomelino de Andrade couto
+
+Secretario Municipal do Governo
+
+Marcos Ferreira de Souza
+
+Secretario Municipal do Planejamento
+
+Evandro Antônio Brazil
+
+Secretario Municipal da Fazenda
