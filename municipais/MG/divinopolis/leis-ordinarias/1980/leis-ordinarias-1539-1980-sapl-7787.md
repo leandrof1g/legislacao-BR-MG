@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1539, de 04/02/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1539"
+data: "1980-02-04"
+ementa: "DENOMINA-SE RUA LILIA NATIVIDADE A ATUAL RUA K, NO BAIRRO ALVORADA NESTA CIDADE"
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/7787"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/7787/7787_texto_integral.pdf"
+sha256_fonte: "a98c86f684ecc2cf82574d73265d4b5af7df36803df2b0c86af92b48aca85e04"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1539, de 04/02/1980
+
+LEI N.: 01539
+
+DENOMINA-SE R.LILIA NATIVIDADE A ATUAL R."K", NO BAIRRO ALVORADA NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA R.LILIA NATIVIDADE A ATUAL R. "K", NO BAIRRO ALVORADA, NESTA CIDADE DE DIVINOPOLIS - MG.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ESTA LEI ENTRARA EM VI- GOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, EM 07 DE FEVEREIRO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.49 DE 29/02/1980

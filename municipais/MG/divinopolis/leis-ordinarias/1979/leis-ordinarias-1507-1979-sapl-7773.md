@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1507, de 06/08/1979"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1507"
+data: "1979-08-06"
+ementa: "DÁ DENOMINAÇÃO Á VIA PÚBLICA - RUA RIBEIRAO VERMELHO - ATUAL RUA B - BAIRRO NOSSA SENHORA DAS GRACAS."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/7773"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1979/7773/7773_texto_integral.pdf"
+sha256_fonte: "d716e6b2999dcc3f4c994faf1b48be527dbd1f75413f52736258afd7d1d1282e"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1507, de 06/08/1979
+
+LEI N.: 01507
+
+DA DENOMINACAO A VIA PUBLICA.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA RUA RIBEIRAO VERMELHO A ATUAL RUA "B",DO BAIR- RO NOSSA SENHORA DAS GRACAS, NESTA CIDADE DE DIVINOPOLIS.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ESTA LEI ENTRARA EM VI- GOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 10 DE AGOSTO DE 1979.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.42 DE 13/09/1979

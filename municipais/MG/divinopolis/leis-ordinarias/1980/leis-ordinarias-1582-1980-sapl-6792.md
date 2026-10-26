@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1582, de 09/06/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1582"
+data: "1980-06-09"
+ementa: "DENOMINA RUA CARLOS ALVES DE FARIA, A ATUAL RUA 4 DO BAIRRO SÃO LUCAS, NESTA CIDADE."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/6792"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/6792/6792_texto_integral.pdf"
+sha256_fonte: "50ae84bd34bcabbb6afc702b73de4784f8f112be65de04356759c64f950289b7"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1582, de 09/06/1980
+
+LEI Nº 1582
+
+DENOMINA RUA CARLOS ALVES DE FARIA A ATUAL RUA "4" DO BAIRRO SÃO LUCAS, NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART. 1º FICA DENOMINADA RUA CARLOS ALVES DE FARIA A ATUAL RUA "4" DO BAIRRO SAO LUCAS, NESTA CIDADE DE DIVINOPOLIS.
+
+ART. 2º REVOGADAS AS DISPOSICOES EM CONTRARIO, ENTRARA ESTA LEI EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 10 DE JUNHO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.56 DE 12/07/1980

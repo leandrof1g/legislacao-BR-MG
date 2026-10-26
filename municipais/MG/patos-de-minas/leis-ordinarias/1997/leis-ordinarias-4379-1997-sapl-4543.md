@@ -1,0 +1,28 @@
+---
+titulo: "Lei Ordinária nº 4379, de 14/05/1997"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4379"
+data: "1997-05-14"
+ementa: "DEFINE O PERÍMETRO E LOGRADOUROS QUE COMPÕEM O BAIRRO ROSÁRIO"
+municipio: "Patos de Minas"
+uf: "MG"
+codigo_ibge: "3148004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.patosdeminas.mg.leg.br/norma/4543"
+fonte_texto: "https://sapl.patosdeminas.mg.leg.br/media/sapl/public/normajuridica/1997/4543/4543_texto_integral.doc"
+sha256_fonte: "af37931f59866c42749069b42d81c641e162b236bbe42bb358598ff20a35132b"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 4379, de 14/05/1997
+
+LEI N. 4.379 – DE 14 DE MAIO DE 1997
+
+DEFINE O PERÍMETRO E LOGRADOUROS QUE COMPÕEM O BAIRRO ROSÁRIO
+
+O Povo do Município de Patos de Minas, Estado de Minas Gerais, por seus representantes, decretou, e eu, em seu nome, sanciono a seguinte Lei: Art. 1º O Bairro Rosário, desta cidade, tem início partindo da Praça Champagnat, seguindo pela Rua Major Gote, sentido norte, até a confluência com a Rua Jayme Ramos; volvendo à esquerda, seguindo por esta rua até a confluência com a Rua Padre Pavoni; volvendo á direita, seguindo por esta rua até a confluência com a Rua dos Bem-Vindos; volvendo à esquerda, seguindo por esta rua até a confluência com a Avenida Tomaz de Aquino; volvendo á direita, seguindo por esta avenida até a confluência com a Rua Antônio Bernardes; volvendo à esquerda, seguindo por esta rua até a confluência com a Rua Gabriel Pereira; volvendo à esquerda, seguindo por esta rua até a confluência com a Rua Elisa Pereira da Fonseca; volvendo à direita, seguindo por esta rua até a confluência com o prolongamento da Rua Brasília; volvendo à esquerda, seguindo por este prolongamento até a confluência com a Rua Valeriano Rodrigues; volvendo à direita, seguindo por esta rua até a confluência com a Rua João Pessoa; volvendo à esquerda, seguindo por esta rua até a confluência com a Rua Anicésio Vieira; volvendo à direita, seguindo por esta rua até a confluência com a Travessa Várzea; volvendo à esquerda, seguindo por esta travessa até a confluência com a Rua Ildefonso Bernardes; volvendo à esquerda, seguindo por esta rua até a confluência com a Rua Abílio Braz de Queiroz; volvendo à esquerda, seguindo por esta rua até a confluência com a Avenida Araguaia; volvendo à esquerda, seguindo por esta avenida até a confluência com a Avenida Paracatu; volvendo à esquerda, seguindo por esta avenida até a confluência com a Rua João da Rocha Filgueira; volvendo à direita, seguindo por esta rua até o ponto de partida. §1° Compõem o bairro os seguintes logradouros: Rua Antônio Bernardes (entre Rua Gabriel Pereira e Avenida Tomaz de Aquino); Rua Irineu Caixeta (entre Rua 2 e Avenida Paracatu); Rua João da Rocha Filgueira (entre Avenida Paracatu e Praça Champagnat); Rua Major Gote (entre Praça Champagnat e Rua Jaime Ramos); Rua Jaime Ramos (entre Rua Padre Pavoni e Rua Major Gote); Rua Ataualpa Dias Maciel (entre Rua Gabriel Pereira e Praça Champagnat); Rua dos Bem-Vindos (entre Avenida Tomaz de Aquino e Rua Padre Pavoni); Rua João Maria de Souza (entre Rua Gabriel Pereira e Avenida Tomaz de Aquino); Rua Elisa Pereira da Fonseca (entre Rua Gabriel Pereira e o prolongamento da Rua Guanabara); Rua Ibraim Pereira (entre Rua Gabriel Pereira e Avenida Tomaz de Aquino); Rua dos Xavantes (entre Avenida Tomaz de Aquino e Rua Padre Pavoni); Rua do Vilela (entre Rua Brasília e Rua Gabriel Pereira); Travessa Cândido Portinari (entre Rua Gabriel Pereira e Rua Padre Pavoni); Rua Formiga (entre Praça Nossa Senhora de Fátima e Rua Major Gote); Travessa Antero Eduardo (entre Rua Ataualpa Dias Maciel e Rua José Pereira da Fonseca); Rua Araguari (entre Rua Ataualpa Dias Maciel e Rua Major Gote); Rua Zama Alves (entre Avenida Brasília e Rua Ataualpa Dias Maciel); Rua Maria Inês de Jesus (entre avenida Paracatu e Rua Ataualpa Dias Maciel); Rua Monte Carmelo (entre Rua José Pereira da Fonseca e Rua Major Gote); Rua Anicésio Vieira (entre Rua Ildefonso Bernardes e Rua Alfredo Borges); Rua Alfredo Borges (entre Rua João da Rocha Filgueira e Rua Ataualpa Dias Maciel); Avenida Paracatu (entre Avenida Araguaia e Rua Gabriel Pereira); Rua José Pereira da Fonseca (entre Rua Monte Carmelo e Travessa Cândido Portinari); Rua Padre Pavoni (entre Rua Jaime Ramos e Rua dos Bem-Vindos); Avenida Tomaz de Aquino (entre Rua Gabriel Pereira e Rua Antônio Bernardes); Rua Gabriel Pereira (entre Rua Ataualpa Dias Maciel e Rua Antônio Bernardes); Rua Brasília (entre Rua João Pessoa e Rua Eliza Pereira da Fonseca); Rua sem nome (entre Rua Maria Inês de Jesus e Rua Zama Alves); Rua da Água Limpa (entre Rua Brasília e Avenida Paracatu); Rua João Pessoa (entre Rua Brasília e Rua Anicésio Vieira); Rua Ana de Sousa (entre Rua Brasília e Avenida Paracatu); Rua 2 (entre Rua Irineu Caixeta e Rua Anicésio Vieira); Rua Honorino Pereira da Fonseca (entre Rua Irineu Caixeta e Rua Anicésio Vieira); Rua Ildefonso Bernardes (entre Rua Abílio Braz de Queiroz e Rua Anicésio Vieira); Rua Abílio Braz de Queiroz (entre Avenida Araguaia e Rua Ildefonso Bernardes) e Avenida Araguaia (entre Rua Abílio Braz de Queiroz e Avenida Paracatu). §2° Ficarão fazendo parte do mesmo bairro os logradouros que surgirem dentro do perímetro definido nesta Lei, em razão da abertura de novas vias públicas e praças. Art. 2º Esta Lei entra em vigor na data de sua publicação. Art. 3º Revogam-se as disposições em contrário, especialmente a Lei n° 2.785/91, de 08 de julho de 1991.
+
+Prefeitura Municipal de Patos de Minas, 14 de maio de 1997, 107˚ ano da República e 104˚ do Município.
+
+Elmiro Alves do Nascimento PREFEITO MUNICIPAL

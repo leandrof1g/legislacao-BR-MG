@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1499, de 25/06/1979"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1499"
+data: "1979-06-25"
+ementa: "APROVA O CONVÉNIO PROMUNICÍPIO."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/5305"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1979/5305/5305_texto_integral.pdf"
+sha256_fonte: "0f9e83084aac8d7a09b3211d1c796f4c78adec9b9c98a3b4d8e1e847364be23d"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1499, de 25/06/1979
+
+LEI N.: 01499
+
+APROVA O CONVENIO PROMUNICIPIO.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA O PODER EXECUTIVO MUNICIPAL AUTORIZADO A FIRMAR CONVENIO COM A SECRETARIA DO ESTADO DA EDUCACAO PARA A EXECUCAO DO PROJETO "COORDENACAO E ASSISTENCIA TECNICA AO ENSINO MUNICIPAL PROMUNICIPIO" EM 1979.
+
+ART.2 - REVOGAM-SE AS DISPOSICOES EM CONTRARIO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, EM 03 DE JULHO DE 1979.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.40 DE 16/07/1979

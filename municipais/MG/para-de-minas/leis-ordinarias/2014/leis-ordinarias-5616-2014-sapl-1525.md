@@ -1,0 +1,40 @@
+---
+titulo: "Lei Ordinária nº 5616, de 10/02/2014"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "5616"
+data: "2014-02-10"
+ementa: "CRIA E DENOMINA O CMEI - CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL &#8220;RAYMUNDO MENDONÇA&#8221; SEDIADO NO BAIRRO GRÃO PARÁ, NESTA CIDADE, E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Pará de Minas"
+uf: "MG"
+codigo_ibge: "3147105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.parademinas.mg.leg.br/norma/1525"
+fonte_texto: "https://sapl.parademinas.mg.leg.br/media/sapl/public/normajuridica/2014/1525/1525_texto_integral.pdf"
+sha256_fonte: "8e18ae8578720bec789dca0f48e9e2a748a00077601d8552998aae1eb655857e"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 5616, de 10/02/2014
+
+LEI Nº 5.616 /2014
+
+Cria e denomina o CMEI - Centro Municipal de Educação Infantil “Raymundo Mendonça” sediado no Bairro Grão Pará, nesta cidade, e dá outras providências.
+
+A Câmara Municipal de Pará de Minas aprova a seguinte lei, e eu, em nome do povo, a sanciono:
+
+**Art. 1.º** Fica criada a unidade de educação infantil sediada na Av. José Amaral n.º 340, no Bairro Grão Pará, nesta cidade, com a denominação de Centro Municipal de Educação Infantil Raymundo Mendonça.
+
+**Art. 2.º** A Unidade de Ensino de que trata esta Lei integrará a rede municipal de ensino e ficará vinculada à Secretaria Municipal de Educação.
+
+**Art. 3.º** As despesas decorrentes do funcionamento da unidade de ensino criada por esta Lei correrão por conta de dotações próprias do Orçamento Municipal.
+
+**Art. 4.º** Fica expressamente revogada a Lei Municipal 4834/2008.
+
+**Art. 5.º** Esta lei entra em vigor na data de sua publicação.
+
+Pará de Minas, 10 de fevereiro de 2014.
+
+Renato Vasconcelos de Melo Secretário Municipal de Gestão Pública
+
+Antônio Júlio de Faria Prefeito Municipal

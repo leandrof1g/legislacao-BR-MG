@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 1423, de 13/09/1978"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1423"
+data: "1978-09-13"
+ementa: "DENOMINA-SE RUA FERROVIÁRIO ANÍSIO VIRIATO A ATUAL RUA 3 DO BAIRRO DA EXPOSIÇÃO"
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/7737"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1978/7737/7737_texto_integral.pdf"
+sha256_fonte: "42087d420022eaa8a3bb964169b95083795c8275ef545d0fd3ce7bfabadba466"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1423, de 13/09/1978
+
+LEI MUNICIPAL DE Nº: 1423, 13 de setembro de 1978
+
+DENOMINA-SE RUA FERROVIARIO ANISIO VIRIATO A ATUAL RUA 3 DO BAIRRO DA EXPOSIÇÃO.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA RUA FERROVIARIO ANISIO VIRIATO, A ATUAL RUA 3 DO BAIRRO DA EXPOSICAO, NESTA CIDADE.
+
+ART.2 - ESTA LEI ENTRARA EM VIGOR NA DATA DE SUA PUBLICACAO, REVOGADAS AS DISPOSIÇÕES EM CONTRARIO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 13 DE SETEMBRO DE 1978.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL
+
+PUBLICACAO: JORNAL PARTICIPACAO - N.27 DE 30/09/1978
+
+PROJETO DE LEI CM-028/1978

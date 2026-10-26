@@ -398,7 +398,7 @@
    "sapl_manual": false
   },
   "3122306": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Divinópolis",
    "normas_na_fonte": 20790,
    "pasta": "divinopolis",
@@ -965,7 +965,7 @@
    "sapl_manual": false
   },
   "3148004": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Patos de Minas",
    "normas_na_fonte": 13804,
    "pasta": "patos-de-minas",

@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1572, de 26/05/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1572"
+data: "1980-05-26"
+ementa: "PASSA A DENOMINAR-SE RUA LAGOA DA PRATA, A ATUAL RUA \"F\" DO BAIRRO JARDIM BELVEDERE II, NESTA CIDADE."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/6767"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/6767/6767_texto_integral.pdf"
+sha256_fonte: "11e202bfd263e61ce9f46bfe7ee3ad6e8a2c9dc4c5da470e01f505c12295933f"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1572, de 26/05/1980
+
+LEI N.: 01572
+
+PASSA A DENOMINAR-SE RUA LAGOA DA PRATA, A ATUAL RUA "F" DO BAIR- RO JARDIM BELVEDERE II, NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - PASSA A DENOMINAR-SE RUA LAGOA DA PRATA A ATUAL RUA "F", DO BAIRRO BELVEDERE II, NESTA CIDADE.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ESTA LEI ENTRARA EM VI- GOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 03 DE JUNHO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.55 DE 15/06/1980

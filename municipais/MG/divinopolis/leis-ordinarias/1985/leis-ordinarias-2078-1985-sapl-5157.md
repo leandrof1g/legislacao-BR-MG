@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 2078, de 12/08/1985"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2078"
+data: "1985-08-12"
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR NO GABINETE DO PREFEITO O CRÉDITO ESPECIAL NO MONTANTE DE CR$36.000.000(TRINTA E SEIS MILHÕES DE CRUZEIROS),PARA REPASSE AO GUARANI ESPORTE CLUBE."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/5157"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1985/5157/5157_texto_integral.pdf"
+sha256_fonte: "f4497a4f7c404c84459a47af2c7d9c946fa6dd0c137b56e40a296f6e2bcb7c9d"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 2078, de 12/08/1985
+
+ /(,1    $8725,=$ 2 32'(5 (;(&87,92 $ $%5,5 12 \*$%,1(7( '2 35()(,72 2 &5e',72 (63(&,$/ 12 0217$17( '( &U  75,17$ ( 6(,6 0,/+®(6 '( &58=(,526  3$5$ 5(3$66($2\*8$5$1,(63257(&/8%(
+
+**Art. 1º** - Fica o Poder Executivo autorizado a abrir no Gabinete do Prefeito, o crédito especial no montante de Cr$ 36.000.000 (trinta e seis milhões de cruzeiros), a fim de atender às seguintes despesas:
+
+03 – Administração e Planejamento 46 – Educação Física e Desportos 227 – Desporto Profissional 03.46.2272.010 – Apoio Financeiro ao Guarani Esporte Clube 3230.11 – Transf. Instit. Privadas....................................... Cr$ 36.000.000 Soma ................................................................................. Cr$ 36.000.000
+
+**Art. 2º** - São os seguintes os recursos necessários à abertura do crédito adicional suplementar mencionado no artigo anterior:
+
+Superávit apurado na Receita................................................................... Cr$ 36.000.000 Soma ................................................................................ Cr$ 36.000.000
+
+**Art. 3º** - Este crédito vigorará até a data de 31 de dezembro de 1.985.
+
+**Art. 4º** - Revogam-se as disposições em contrário, entrando esta Lei em vigor na data de sua publicação.
+
+Divinópolis, 12 de agosto de 1.985.
+
+ -RVp&RQVWDQWLQR6REULQKR 9HUHDGRU3UHVLGHQWHGD&kPDUD0XQLFLSDO   Publicação: AGORA Nº 2784 DE 15/08/85

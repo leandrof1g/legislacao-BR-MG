@@ -1,0 +1,30 @@
+---
+titulo: "Lei Complementar nº 49, de 31/03/1997"
+tipo: "Lei Complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "49"
+data: "1997-03-31"
+ementa: "DELIMITA O PERÍMETRO URBANO DO DISTRITO SEDE DO MUNICÍPIO DE PATOS DE MINAS"
+municipio: "Patos de Minas"
+uf: "MG"
+codigo_ibge: "3148004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.patosdeminas.mg.leg.br/norma/6378"
+fonte_texto: "https://sapl.patosdeminas.mg.leg.br/media/sapl/public/normajuridica/1997/6378/6378_texto_integral.doc"
+sha256_fonte: "e8955a81f64b13533f3f7c4b7025a995c1d496ef6670316c91162a925c4285da"
+baixado_em: "2026-10-26"
+---
+
+# Lei Complementar nº 49, de 31/03/1997
+
+LEI COMPLEMENTAR N.049 – DE 31 DE MARÇO DE 1997
+
+Delimita o perímetro urbano do distrito sede do Município de Patos de Minas
+
+O Povo do Município de Patos de Minas, Estado de Minas Gerais, por seus representantes decretou, e eu, em seu nome, sanciono a seguinte Lei: Art. 1º O perímetro urbano, linha divisória entre as áreas urbanas e/ou de expansão urbana e a área rural, do distrito sede do Município de Patos de Minas é o seguinte: Começa no ponto de partida PP = O situado na direita da desembocadura do Riberão da Fábrica com o Rio Paraíba; daí segue descendo pela margem direita do rio até o ponto 1 localizado na confluência com a margem esquerda do córrego Limoeiro; neste ponto volve – se à direita e segue acima acompanhando a margem esquerda do córrego até o ponto 2, marco cravado nas nascentes do córrego Limoeiro:neste ponto volve – se à esquerda sentido leste e segue paralelamente ao eixo da Avenida Marabá com distância de 550,00m até o ponto 3, situado no eixo da rodovia MGT –354; neste ponto volve – se à direita sentido sul e segue pelo eixo da rodovia MGT –354 até o ponto 4, situado na interseção com o eixo da Avenida Marabá,; neste ponto continua pelo eixo da rodovia MGT –354 sentido sul numa distância de 200,00m até o ponto 5, neste ponto volve – se à direita sentido oeste e segue paralelamente ao eixo da Avenida Marabá numa distância de 1.950,00m até o ponto 6, neste ponto volve – se à esquerda sentido sul e segue até o ponto 7, situado na interseção do prolongamento do eixo da Rua Tucuruí com a margem direita do Córrego Catingueiro; neste ponto segue abaixo acompanhando margem direita do córrego até o ponto 8, situado na interseção do prolongamento do eixo da Rua Anésio José da Rocha do Bairro Novo Horizonte com a margem direita do Córrego Catingueiro; neste ponto volve – se à esquerda no rumo 36º 30’ sentido SE numa distância de 1.000,00m até o ponto 9, marco cravado no canto da cerca de divisa da Mata do Catingueiro; neste ponto segue sentido SE acompanhando a cerca de divisa da mata por linha quebradas até o ponto 10, marco situado no canto da cerca dividindo com Hélio de Castro Amorim e com Meirison |Reis Castro; neste ponto volve – se à esquerda sentido NE e segue pelos terrenos de Meirison Reis Castro numa distância de 30,00m até o ponto 11; neste ponto volve – se à direita sentido SE e segue pelos terrenos de Meirison Reis Castro, no rumo 112º 30’, numa distância de 840,00m até o ponto 12, marco localizado na interseção da cerca de divisa com a faixa de domínio da Avenida Queiroz; neste ponto volve – se à direita sentido SW no rumo 80º e segue atravessando a Avenida Afonso Queiroz até o ponto 13, marco cravado a uma distância de 60,00m canto da cerca de divisa entre os terrenos de Domingos Pereira Neto e Lázaro Pereira da Cunha; neste ponto volve – se à direita sentido NW no rumo 29º e segue em linha reta até o ponto 14, marco cravado a uma distância de 1.200,00 nos terrenos de Lázaro Pereira da Cunha; neste ponto volve – se à esquerda sentido SW no rumo 79º 30’ e segue numa distância de 1.115,00m até o ponto 15, marco cravado junto
+
+à margem direita do Córrego Canavial, antiga delimitação do perímetro urbano; neste ponto volve – se à esquerda sentido leste e segue acima pela margem direita do córrego até o ponto 16, situado na interseção do alinhamento da margem do córrego com o alinhamento do bordo esquerdo da rodovia MGT – 354 sentido trevo da BR – 365; neste ponto volve – se à direita e segue pelo bordo da MGT – 354 até o ponto 17, situado a 150,00m do eixo da BR –365; neste ponto volve – se à esquerda sentido leste e segue paralelamente à BR – 365 numa distância de 150,0m até o ponto 18, situado a uma distância de 2.000,00m trevo Eng. Jaime Fonseca sentido BR – 040; neste ponto volve – se à direita sentido sul com uma deflexão de 90º e segue atravessando a BR – 365 até o ponto 19, situado a uma distância de 400,00m do eixo da BR – 365; neste ponto volve – se à direita sentido NW e segue paralelamente à BR – 365 com uma distÂNCIA DE 400,00m até o ponto 20, situado na interseção com o alinhamento externo da divisa com o Distrito Industrial II; neste ponto segue contorno os limites do Distrito Industrial I sentido SW e segue paralelamente à BR – 365, atravessa a BR – 354 até o ponto 21, marco situado a uma distância de 150,00m do eixo da BR – 365, e na mesma direção do prolongamento do alinhamento da cerca de divisa do antigo Aeroporto Municipal; aí volve – se à direita sentido Norte e segue paralelamente a cerca de divisa do Aeroporto, a uma distância de 100,00m , até o ponto 22, situado no prolongamento do alinhamento do final do Aeroporto; neste ponto volve – se à esquerda sentido NW e segue até o ponto 23, situado na margem direita da desembocadura do Córrego do Anzol com o Rio Paranaíba ; neste ponto volve - se à direita e segue abaixo pela margem direita do rio até o ponto PP = 0, ponto inicial da delimitação do perímetro Urbano da cidade de Patos de Minas, Estado de Minas Gerais, conforme anexo I. Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação e vigorará sem alteração por um período mínimo de 2 (dois) anos. Art. 3º Revogam – se as disposições em contrário, especialmente o anexo II. 1 da Lei Complementar 20, de 05 de abril de 1994.
+
+Prefeitura Municipal de Patos de Minas, 31 de março de 1997, 107º ano da República e 104º do Município.
+
+ELMIRO ALVES DO NASCIMENTO – PREFEITO MUNICIPAL

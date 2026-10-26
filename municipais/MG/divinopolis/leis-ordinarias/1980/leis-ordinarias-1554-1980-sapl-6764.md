@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1554, de 24/03/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1554"
+data: "1980-03-24"
+ementa: "DENOMINA RUA ADOLFO PEDRO DA COSTA A ATUAL RUA DOIS DO BAIRRO LEVINDO P. PEREIRA."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/6764"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/6764/6764_texto_integral.pdf"
+sha256_fonte: "85fe4ca45da7206e2db2f9da32396c8865406223f24e9a20a02b24c95644f076"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1554, de 24/03/1980
+
+LEI N.: 01554
+
+DENOMINA-SE R.ADOLFO PEDRO DA COSTA A ATUAL R.DOIS DO BAIRRO LE- VINDO P. PEREIRA.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA R.ADOLFO PEDRO DA COSTA A ATUAL R. DOIS DO BAIRRO LEVINDO P. PEREIRA.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ESTA LEI ENTRARA EM VI- GOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, EM 01 DE ABRIL DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.52 DE 30/04/1980

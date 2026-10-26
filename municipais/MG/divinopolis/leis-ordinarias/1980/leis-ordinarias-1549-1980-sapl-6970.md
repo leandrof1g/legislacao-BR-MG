@@ -1,0 +1,34 @@
+---
+titulo: "Lei Ordinária nº 1549, de 17/03/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1549"
+data: "1980-03-17"
+ementa: "CONSIDERA DE UTILIDADE PÚBLICA O PATRONATO BOM PASTOR."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/6970"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/6970/6970_texto_integral.pdf"
+sha256_fonte: "8ff136d599373996777cdc9db8d0d25d8570886dc529c0c26c120d03758d0bef"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1549, de 17/03/1980
+
+LEI N.: 01549
+
+CONSIDERA DE UTILIDADE PUBLICA O PATRONATO BOM PASTOR.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA CONSIDERADO DE UTILIDADE PUBLICA, O PATRONATO BOM PASTOR, COM SEDE NESTA CIDADE DE DIVINOPOLIS - MG.
+
+ART.2 - REVOGAM-SE AS DISPOSICOES EM CONTRARIO, ENTRANDO A PRESENTE
+
+LEI EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, EM 20 DE MARCO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.51 DE 26/03/1980

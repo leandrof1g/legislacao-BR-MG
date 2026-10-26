@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 1422, de 13/09/1978"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1422"
+data: "1978-09-13"
+ementa: "DENOMINA RUA ITALO CÔNSOLI A ATUAL RUA NO BAIRRO ALVORADA, NESTA CIDADE"
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/7736"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1978/7736/7736_texto_integral.pdf"
+sha256_fonte: "350cd0beb54f9909fd6743b8090f000e3e9a08737b45480d1f51b741886f834c"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1422, de 13/09/1978
+
+LEI Nº 1422
+
+DENOMINA RUA ITALO CONSOLI A ATUAL RUA E NO BAIRRO ALVORADA, NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA RUA ITALO CONSOLI A RUA E SITUADA NO BAIRRO ALVORADA, NESTA CIDADE DE DIVINOPOLIS.
+
+ART.2 - ESTA LEI ENTRARA EM VIGOR NA DATA DE SUA PUBLICACAO, REVOGADAS AS DISPOSICOES EM CONTRARIO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 14 DE SETEMBRO DE 1978.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL
+
+PUBLICACAO: JORNAL PARTICIPACAO - N.27 DE 30/09/1978
+
+Projeto de Lei nº CM-027/78

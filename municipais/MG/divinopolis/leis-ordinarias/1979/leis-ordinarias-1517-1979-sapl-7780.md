@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1517, de 03/09/1979"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1517"
+data: "1979-09-03"
+ementa: "DENOMINA-SE RUA ANTÔNIO SILVA SOBRINHO, A ATUAL RUA \"9\" DO BAIRRO SANTA TEREZA, NESTA CIDADE DE DIVINÓPOLIS."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/7780"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1979/7780/7780_texto_integral.pdf"
+sha256_fonte: "71861397204fcbe40461863c10dcbce9c3021af2048aea433ce12f5f4f9b10c0"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1517, de 03/09/1979
+
+LEI N.: 01517
+
+DENOMINA-SE RUA ANTONIO SILVA SOBRINHO, A ATUAL RUA "9" DO BAIRRO SANTA TEREZA.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA RUA ANTONIO SILVA SOBRINHO, A ATUAL RUA "9" DO BAIRRO SANTA TEREZA, NESTA CIDADE.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ESTA LEI ENTRARA EM VI- GOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 06 DE SETEMBRO DE 1979.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.42 DE 13/09/1979

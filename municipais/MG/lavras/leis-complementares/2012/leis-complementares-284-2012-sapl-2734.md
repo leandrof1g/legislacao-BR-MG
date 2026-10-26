@@ -1,0 +1,220 @@
+---
+titulo: "Lei Complementar nº 284, de 03/04/2012"
+tipo: "Lei Complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "284"
+data: "2012-04-03"
+ementa: "ALTERA ANEXOS II E XVI, DA LEI COMPLEMENTAR N. 095, DE 18 DE DEZEMBRO DE 2006, QUE DISPÕE SOBRE O PLANO DE CARGOS, CARREIRAS E VENCIMENTOS DOS SERVIDORES DA ADMINISTRAÇÃO PÚBLICA DE LAVRAS, E DÁ OUTRAS PROVIDÊNCIAS"
+municipio: "Lavras"
+uf: "MG"
+codigo_ibge: "3138203"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lavras.mg.leg.br/norma/2734"
+fonte_texto: "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2012/2734/2734_texto_integral.pdf"
+sha256_fonte: "9913876b9a94a93638146eb0114f719d28c0e8f61075bf6e2ce1cae22aebc913"
+baixado_em: "2026-10-26"
+---
+
+# Lei Complementar nº 284, de 03/04/2012
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI COMPLEMENTAR Nº 284, DE 03 DE ABRIL DE 2.012.
+
+(Projeto de Lei Complementar do Executivo nº002/2012, de autoria da Prefeita, Jussara Menicucci de Oliveira)
+
+ALTERA ANEXOS Il E XIy, DA LEI COMPLEMENTAR N. 095, DE 18 DE DEZEMBRO DE 2.006, QUE DISPÕE SOBRE O PLANO DE CARGOS, CARREIRAS E VENCIMENTOS DOS SERVIDORES DA ADMINISTRAÇÃO PÚBLICA DE LAVRAS, E DÁ OUTRAS PROVIDÊNCIAS.
+
+Faço saber que a Câmara Municipal Decreta e eu sanciono a seguinte lei:
+
+**Art. 1º.** Os Anexos |, e XIV, da Lei Complementar n. 095, de 18 de dezembro de 2006, que dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos Servidores da Administração Pública do Município de Lavras, passam a vigorar com a as seguintes redações:
+
+## ANEXO I
+
+QUADRO DE CARGOS DE PROVIMENTO EFETIVO
+
+FORMADE | NºDE O PROVIMENTO | VAGAS | SERVIÇOS AUXILIAR | UXILIARES DE GESTÃO W e NCURSO 620 ba (CLASSE 1) LR ) do AUXIL 1º 5 iserviçoSs an PE - OPERACIONAIS GESTÃO / EFETIVO 204 P OPERACIONAL nº | (CONCURSO) | , | (CLASSE II) 1) FE) ] m | | a a Í H l 368 . ADMINISTRATIVOS GESTÃO (CONCURSO) ADMINISTRATIVA (CLASSE III) "SERVIÇOS ESTÃO | EFETIVO »06 ESPECIAIS ESPECIALIZADA in | (CONCURSO) (CLASSE IV) NÍVEL ANALISTA DE | EFETIVO 392 SUPERIOR GESTÃO T (CONCURSO)
+
+(CLASSE V) HI Ay |
+
+Av. Sylvio Menicucei, 1575 - Bairro Kennedy — 37200-000 - Telefax.: (35)3694-4033: juridicopmiwDlavras.mg.gov.br did
+
+ANEXO It
+
+Lei Complementar n. 095, de 18 de dezembro de 2006 QUADRO DE EQUIVALÊNCIA DE CARGOS
+
+AUXILIAR DE MECÂNICO 05
+
+AUXILIAR DE SERVIÇOS GERAIS 310
+
+AUXILIAR DE SERVIÇOS OPERACIONAIS 135
+
+AUXILIAR DE TOPÓGRAFO 03
+
+BORRACHEIRO 03 x 620 CANTINEIRA 50 AUXILIAR DE GESTÃO JARDINEIRO 20
+
+SERVENTE ESCOLAR 30
+
+VIGIA 60
+
+COPEIRA 04
+
+QUADRO DE EQUIVALÊNCIA DE CARGOS
+
+Continuação
+
+ARMADOR 02 BOMBEIRO HIDRÁULICO 04
+
+CALCETEIRO 05
+
+CARPINTEIRO 03
+
+COZINHEIRO 40
+
+DEDETIZADOR 06
+
+ELETRICISTA 08
+
+MECÂNICO 05 AUXILIAR DE GESTÃO 204 MECÂNICO DE MÁQUINA PESADA 03 OPERACIONAL MOTORISTA 65
+
+OPERADOR DE MÁQUINAS 10
+
+PEDREIRO 15
+
+PINTOR 10
+
+SOLDADOR 03
+
+TRATORISTA 10
+
+CONTÍNUO | 15
+
+QUADRO DE EQUIVALÊNCIA DE CARGOS
+
+Continuação
+
+AGENTE ADMINISTRATIVO 30 ASSISTENTE ADMINISTRATIVO A5 AUXILIAR ADMINISTRATIVO 09 AUXILIAR DE SECRETARIA 55 DIGITADOR 15 INSTRUTOR DE INFORMÁTICA 03 | '
+
+AGENTE DE GESTÃO | 368 ALMOXARIFE 04 ADMINISTRATIVA . ARQUIVISTA 05 )
+
+Av. Sylvio Menicucci, 1575 - Bairro Kennedy — 37200-000 - Telefax.: (35)3694-4033: juridicopmiwlavras.me.gov.br vor
+
+AGENTE DE TRÂNSITO 32 AUXILIAR DE ENFERMAGEM 80 AUXILIAR DE NECROPSIA 01 AUXILIAR EM SAÚDE BUCAL 45 MAQUEIRO 15 RECEPCIONISTA 16 TELEFONISTA 08 AUXILIAR TÉCNICO DE LABORATÓRIO 02 FATURISTA 03
+
+QUADRO DE EQUIVALÊNCIA DE CARGOS
+
+AUXILIAR TÉCNICO 36 DESENHISTA PROJETISTA 02 PROGRAMADOR DE COMPUTADOR 06 SECRETÁRIA DE ESCOLA 22 TÉCNICO EM ALIMENTOS 01 TÉCNICO EM SEGURANÇA DO TRABALHO 02 TÉCNICO DE TRÂNSITO 03 TÉCNICO EM CONTABILIDADE 08 TÉCNICO EM DEFICIÊNCIA VISUAL 01 TÉCNICO EM ENFERMAGEM 75 TÉCNICO EM LABORATÓRIO 02 TÉCNICO EM PRÓTESE DENTÁRIA 03 TÉCNICO EM RADIOLOGIA 15 TÉCNICO DE PATOLOGIA CLÍNICA 01 TÉCNICO EM SAÚDE BUCAL 03 TOPÓGRAFO 03 TÉCNICO EM GUARDA CAMPO 03 ARTISTA DE OFICINA OCUPACIONAL 20
+
+AGENTE DE GESTÃO ESPECIALIZADA
+
+QUADRO DE EQUIVALÊNCIA DE CARGOS
+
+Continuação
+
+ADMINISTRADOR DE EMPRESAS 07
+
+ADMINISTRADOR RURAL 02
+
+ADVOGADO 08
+
+ARQUITETO 03
+
+ASSISTENTE SOCIAL 07 e BIBLIOTECONOMISTA 03 ANALISTA DE GESTÃO 392 BIOQUÍMICO 12
+
+CONTADOR 05
+
+DENTISTA 60
+
+ENFERMEIRO 25 , ENGENHEIRO AGRÍCOLA 01 js ENGENHEIRO AGRÔNOMO 02 UU
+
+Av. Sylvio Menicucci, 1575 - Bairro Kennedy — 37200-000 - Telefax.: (35)3694-4033: juridicopmimlavras.me.gov.br
+
+ENGENHEIRO CIVIL 07 FARMACÊUTICO 05
+
+FISCAL DE INDUSTRIA E 04
+
+COMÉRCIO
+
+FISCAL DE OBRAS 10
+
+FISCAL DE RENDAS 15
+
+FISCAL SANITÁRIO 22
+
+FISIOTERAPEUTA 16
+
+FONOAUDIÓLOGO 07
+
+MÉDICO 129
+
+MÉDICO LEGISTA 02
+
+NUTRICIONISTA 08
+
+PSICÓLOGO 16
+
+TERAPEUTA OCUPACIONAL 05
+
+VETERINÁRIO 03
+
+ZOOTECNISTA 02
+
+FISCAL DE MEIO AMBIENTE 03
+
+TECNÓLOGO DE RADIOLOGIA 02
+
+BIOMÉDICO 01 |
+
+## ANEXO XIV
+
+Lei Complementar n. 095, de 18 de dezembro de 2006 QUADROS DO CENTRO DE REFERÊNCIA EM ASSISTÊNCIA SOCIAL — CRAS E DO | CENTRO DE REFERÊNCIA ESPECIALIZADA DE ASSISTÊNCIA SOCIAL - CREAS |
+
+1. Quadro de Cargos Específicos de Provimento Efetivo dos Centros de Referência e Assistência Social - CRAS e do Centro de Referência Especializada de Assistência Social - CREAS:
+
+DENOMINAÇÃO — [| FORMADE | CARGA | NºDE DOCARGO - nível | PROVIMENT. | HORÁRIA | VAGAS lo il o ilI|semanA |. Õiãé ANALISTA DE : GESTÃO EM | NIVEL SUPERIOR | | AsgISTÊNCIA np (FFETIVO 40 HORAS | 26 CRAS e CREAS SOCIAL IA | (CONCURSO) | (Classe II) | ANALISTA EM ] NÍVEL SUPERIOR II | ASSISTÊNCIA [EFETIVO 30 HORAS 5 CRAS e CREAS SOCIAL Il (Classe 11) (CONCURSO) : AGENTE EM | NÍVEL MÉDIO — à EFETIVO CRAS e CREAS ASSISTÊNCIA | (CONCURSO) | 40 HORAS 29 SOCIAL HI , (Classe 1) D
+
+Av. Sylvio Menicucei, 1575 - Bairro Kennedy — 37200-000 - Telefax: (35)3694-4033: juridicopmidlavras.mg.gov.br
+
+2. Quadro de equivalência de cargos específicos dos Centros de Referência e
+
+Assistência Social - CRAS e do Centro de Referência Especializada de Assistência
+
+Social - CREAS:
+
+Advogado 01 Assistente Social 16
+
+Analista de Gestão em 26 Psicólogo 08 Assistência Social Pedagogo 01 Professor de Educação Física 5 Analista em Assistência Social 5 Educador Social 12
+
+Agente em Assistência Social
+
+Agente Social 12 29 Instrutor de Artes 5
+
+3. Linhas de Promoção dos Centros de Referência em Assistência Social - CRAS e do
+
+Centro de Referência Especializada de Assistência Social - CREAS:
+
+AGENTE AGENTE EM AGENTE EM EM ASSISTÊNCIA ASSISTÊNCIA ASSISTÊNCIA SOCIAL | SOCIAL II SOCIAL tl ANALISTA EM ANALISTA EM ANALISTA EM ASSISTÊNCIA ASSISTÊNCIA ASSISTÊNCIA SOCIAL | SOCIAL II SOCIAL HI ANALISTA DE GESTÃO ANALISTA DE GESTÃO ANALISTA DE GESTÃO EM ASSISTÊNCIA EM ASSISTÊNCIA SOCIAL EM ASSISTÊNCIA SOCIAL SOCIAL | T m
+
+Av. Sylvio Menicucci, 1575 - Bairro Kennedy — 37200-000 - Telefax.: (35)3694-4033: juridicopmimlavras.mg.gov.br
+
+SOJADJC dO PIN “EEOp-H69E(SE) ;xUfojaL - 000-00TLE — Apouuay OxImDg - CLCI Toonoruapy oragás ay
+
+cc 8L0r | GL'LOGE | 99'487'€ L6'09/'€ Se 9L9'€ 9y'g0b'€ 62 LET | ZH'90GT | G9'L6ET ca BL'LOGE | 99287'€ | pe'z/9E Se'9L9E 9y'807'€ LE LLT'E 1y909% | S9L6eT | progez AE | 9G4872€ | Pe2/9€ | pl'OZSE 9h'80p'€ LE LITE 65 260'€ G9L6€T | pr'oGcc | O9PELT 06" a Pe LE | PL'OZSE | sl'99hE LELITE 65 260'€ c9EzoT vroscz | O9PELZ | q99L0Z 6L-a CLOZGE | gL'99pE | oz'goge 65'260'€ E9'€z6 E Er'6sZT O9'PEL'T | S99L0T | 6L'G06L 8L-a gL99pe | Oc'g9e E | gL'Z9c'E E9'cz6 cross T Lv'VO9'T S9'9L0T | 6L'S06'L L6'667'L LL-d 6L'S9e€ | sLZ97E€ | ZoTzL E cv'6szT Lv'PO9'T LZ 8Sp'T 6L'506'L L6'6672'L Er'00/'L 9L-d BLI9CE | ZOTLVE | €9'67/0'€ Lv'VO9'T LZ'8Sp'T SL'OCET L6'6672'L Ev'00/'L bh'909'L SL-d cCOTLVE | €9'620€ | c6'696Z LZ'esyz GV'OZcEL 98'68L € Er'007'L bh'909'L 99'ZLG'L bL-d €9620€ | €66862 | S8'z06% GV OZET 98'68L'Z 85'990'€ vh'909'L 992 LG'L 62'cep'L eL-a c6686z | Se'c06Z | Of'BLST 98º68L'Z 85'990'Z Z8'056'L 992 LG'L 62'€epL 9S'pge'L cL-a S806% | 0e'glgz LE 9EL'T 85'990'€ c8'0g6 L Se'Lve'L 62'€cep'L 95'pGE'L 19'62€'L tELra og'sLg'z LZ'9EZT | cs'ogoT c8 056'L ge'Lre'L 98'2€Z'L 9S'psE'L 29'62% | 96'80T'L oL-a LT9ezc | cS'9g9z | pL'G/GE ST LreL 98'2€7'L Sc 0b9'L 19'62€'L 96'80Z'L SL'TbL', 60- a 25 959Z | vL'G/GC | coros 98'2€7'| ST'0v9'L bl'gpg'L 96'80z'L GVZPLL €0'620'L 803 PL'6Zg | coros | 60'Lchz Se 0v9'L PL'SPS'L LT 'L9P'L SL'TZPL'L €0'620'L Ob'6LO'L Z0“ 3 cOvOST | 60'LEpZ | ge'ogEez PL'ersL LT'L9L bL'6ZE'L €0'620'L Ob'6LO'L 90'€96 90-a 60 Lcbz | B2'09cT | pS'L6c'z L2'L9p'L PL'6/€'L 69'L0€'L Ov'6LO'L 90'€96 Z8'606 S0- a 82 09€Z | PSL6Cc | 6/'peza PL'62€'L 69'L0€'L 65'8cz'L 90'€96 c8'606 €5'658 +0-a eSLocc | 6/'pezc | 666SLZ 69'L0€'L 65'8cc'L 09'6SL'L Z8'606 €S'658 vocLg 0-4 62pccz | 666GLz | 80'260€% By'LZL'L 09'6SL'L 8r'b60'L Ly'ez8 vOzLO 2V' 194 c0-a 666SL'z | 80/2607 | 00'9€0Z SL'L2l LZELL'L 00'ceo'L | er'Bes S9'624 LL'PTL bora EN CN L-N E-N CN E-N E-N crN L-N
+
+HH ISSVTIO II 3SSVTO ENSLAR) OvadVd
+
+SVIO 9 SVHO OP SOJUSUDUDA ap Ejoqe] “p
+
+OIdIDINDA OG POIGRINL VISOSSASSV SIVAHO SVNIA AQ OQAVISA
+
+SVHAVT HQ AV dID INDIA VALIA
+
+**Art. 2º.** Para fazer face às despesas desta Lei, serão utilizadas dotações orçamentárias próprias.
+
+Ar. 3º. Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Lavras, em 03 de abril de 2.012.
+
+JUSSARA MENICUCCI DE OLIVEIRA Prefeita Municipal
+
+Av. Sylvio Menicucci, 1575 - Bairro Kennedy — 37200-000 - Telefax.: (35)3694-4033: juridicopmimiavras.me.gov.br

@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1542, de 04/02/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1542"
+data: "1980-02-04"
+ementa: "DENOMINA-SE RUA JOSÉ FRANCISCO RESENDE A ATUAL RUA \"I\" NO BAIRRO SION , NESTA CIDADE"
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/7789"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/7789/7789_texto_integral.pdf"
+sha256_fonte: "098012270eeb1e17eb5f3001b7f91ff13b3b5dcea521a2307492d236009f8da2"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1542, de 04/02/1980
+
+LEI N.: 01542
+
+DENOMINA-SE R.JOSE FRANCISCO RESENDE A ATUAL R. "1" NO BAIRRO SI- ON, NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADO R.JOSE FRANCISCO RESENDE A ATUAL R. "1", NO BAIRRO SION, NESTA CIDADE DE DIVINOPOLIS - MG.
+
+ART.2 - REVOGAM-SE AS DISPOSICOES EM CONTRARIO, ENTRANDO ESTA LEI EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, EM 07 DE FEVEREIRO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.49 DE 29/02/1980

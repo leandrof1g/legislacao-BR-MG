@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1575, de 02/06/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1575"
+data: "1980-06-02"
+ementa: "REVOGA A LEI MUNICIPAL 1.541, DE 29/02/1980, QUE DENOMINA OLIMPIO MEIRELES, A RUA EUCLIDES DA CUNHA, NO BAIRRO PORTO VELHO."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/6770"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/6770/6770_texto_integral.pdf"
+sha256_fonte: "6fb633f847f9945c2f02cdf67a7dbacb9a120899cc5662ce18e8af061a1f2da8"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1575, de 02/06/1980
+
+LEI N.: 01575
+
+REVOGA A LEI MUNICIPAL N.1541, DE 29/02/1980, QUE DENOMINA OLIM- PIO MEIRELES A RUA EUCLIDES DA CUNHA, NO BAIRRO PORTO VELHO.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA REVOGADA A LEI MUNICIPAL 1541 DE 29/02/1980.
+
+ART.2 - A PRESENTE LEI ENTRARA EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 10 DE JUNHO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.56 DE 12/07/1980

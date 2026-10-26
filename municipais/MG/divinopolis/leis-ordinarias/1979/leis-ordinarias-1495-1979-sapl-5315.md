@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1495, de 28/05/1979"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1495"
+data: "1979-05-28"
+ementa: "DENOMINA AVENIDA ROSANA NORONHA GUARANY A ANTIGA AVENIDA ORIENTE, NO BAIRRO ICARAÍ."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/5315"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1979/5315/5315_texto_integral.pdf"
+sha256_fonte: "c626b78ae02b5902f977828ef6e12af4587df7fead5218b3cabf8a2f6375cbf9"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1495, de 28/05/1979
+
+LEI N.: 01495
+
+DA NOVA DENOMINACAO A VIA PUBLICA.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA AVENIDA ROSANA NORONHA GUARANY A ANTIGA AVENI- DA ORIENTE, NO BAIRRO ICARAI.
+
+ART.2 - REVOGAM-SE AS DISPOSICOES EM CONTRARIO, ENTRANDO ESTA LEI EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, EM 04 DE JUNHO DE 1979.
+
+ASSINA: FAIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.39 DE 24/06/1979

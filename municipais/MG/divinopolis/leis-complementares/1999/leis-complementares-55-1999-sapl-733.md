@@ -1,0 +1,64 @@
+---
+titulo: "Lei Complementar nº 55, de 15/03/1999"
+tipo: "Lei Complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "55"
+data: "1999-03-15"
+ementa: "Cria o Conselho Municipal de Entorpecentes e dá outras providências."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/733"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1999/733/733_texto_integral.pdf"
+sha256_fonte: "7e331b96eecef8b44b26262b3d3ccc1ca800f8da502146301c431d6f463d6761"
+baixado_em: "2026-10-26"
+---
+
+# Lei Complementar nº 55, de 15/03/1999
+
+LEI COMPLEMENTAR Nº 055, DE 15 DE MARÇO DE 1999. Revogada pela Lei Complementar 083/2002
+
+&ULD R &RQVHOKR 0XQLFLSDO GH (QWRUSHFHQWHV H Gi RXWUDVSURYLGrQFLDV.
+
+O Povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito Municipal, em seu nome sanciono a seguinte Lei Complementar:
+
+**Art. 1º** Fica criado o Conselho Municipal de Entorpecentes, órgão consultivo e vinculado ao gabinete do Prefeito , com a finalidade de orientar, promover e coordenar as atividades gerais relacionadas com o combate e repressão ao tráfico e uso de substâncias ou que determinem dependência física e/ou psíquica.
+
+**Art. 2º** Para a consecução de seus objetivos, compete ao Conselho Municipal de Entorpecentes:
+
+I - formular e propor a política municipal de combate ao tráfico e uso de entorpecentes , em harmonia com os órgãos Federais e Estaduais;
+
+II - promover, principalmente junto a estabelecimentos de ensino de 1º e 2º Graus e de ensino superior, palestras, simpósios e encontros com conteúdo programático pertinente à educação, conscientização e ensinamentos sobre as conseqüências do uso de substâncias entorpecentes ou que determinem dependência física e/ou psíquica;
+
+III - promover, através de pessoal capacitado, estágios destinados a auxiliar ou subsidiar professores de 1º, 2º e 3º graus, a fim de que estes transmitam aos alunos informações sobre o uso de entorpecentes com base em princípios científicos;
+
+IV - propor aos órgãos competentes a modernização e aperfeiçoamento das áreas de prevenção, fiscalização, controle do tráfico e uso de substâncias entorpecentes;
+
+V - propor convênios técnicos, científicos, com os órgãos competentes, para a execução, no âmbito municipal de política de prevenção do uso de drogas.
+
+VI - subsidiar a política local de reabilitação de usuários ou dependentes de entorpecentes, através de orientações técnicas.
+
+VII - promover a articulação entre órgãos governamentais e não- governamentais e/ou entidades envolvidas nas atividades de prevenção e combate ao tráfico e uso de entorpecentes;
+
+VIII - elaborar o seu regimento interno e aprová-lo.
+
+**Parágrafo único.** O Município, através do Poder Executivo deverá oferecer a estrutura necessária ao funcionamento do Conselho de que trata a presente Lei.
+
+**Art. 3º** O Conselho de que trata a presente Lei, será constituído de vinte membros e seus respectivos suplentes indicados pelos órgãos ou entidades que representam e nomeados por ato do Prefeito Municipal.
+
+**Parágrafo único.** O Conselho será constituído, preferencialmente, de representantes de entidades ligadas às atividades filantrópicas, educacionais, segurança pública, saúde, justiça assistenciais, religiosas, sindicais, desde que possam ser úteis e compatíveis com seus objetivos.
+
+**Art. 4º** O Conselho Municipal de Entorpecentes será coordenado por uma Diretoria, composta de Presidente, Vice-Presidente, 1º e 2º Secretários, eleitos pelos Conselheiros e reger-se-á por Regimento próprio, que será aprovado por seus membros.
+
+**Parágrafo único.** O exercício da função de membro do Conselho de que trata esta Lei, não será remunerado, sendo considerado de interesse público relevante.
+
+**Art. 5º** O mandato de membros do Conselho Municipal de Entorpecentes, terá duração de dois anos, permitida a recondução.
+
+**Art. 6º** Esta Lei Complementar entra em vigor na data de sua publicação.
+
+**Art.7º** - Ficam revogadas as disposições em contrário, especialmente as s Leis nº 2.241, de 14 de julho de 1987 e 2.548, de 24 de julho de 1989.
+
+Divinópolis, 15 de março de 1999.
+
+ 'RPLQJRV6iYLR 3UHIHLWR0XQLFLSDO    Projeto de Lei Complementar EM – 003/99 Publicado no Jornal Sintonia Nº20 – 15 a 21/03/1999.  

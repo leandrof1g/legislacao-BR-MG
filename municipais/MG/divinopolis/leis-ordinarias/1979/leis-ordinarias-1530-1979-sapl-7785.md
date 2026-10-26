@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1530, de 26/11/1979"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1530"
+data: "1979-11-26"
+ementa: "DENOMINA-SE RUA SALIM AYRES DA SILVA, A ATUAL RUA \"3\" DO BAIRRO SANTA TEREZA, NESTA CIDADE."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/7785"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1979/7785/7785_texto_integral.pdf"
+sha256_fonte: "31ee7cde85e6919e998dd73948c99039f8915177d8f7b25eb1bb13da01a5bfcb"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1530, de 26/11/1979
+
+LEI N.: 01530
+
+DENOMINA-SE RUA SALIM AYRES DA SILVA A ATUAL RUA "3" DO BAIRRO SANTA TERESA, NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA RUA SALIM AYRES DA SILVA A ATUAL RUA "3" DO BAIRRO SANTA TERESA, NESTA CIDADE DE DIVINOPOLIS - MG.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ENTRARA ESTA LEI EM VI- GOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 27 DE NOVEMBRO DE 1979.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.47 DE 22/12/1979

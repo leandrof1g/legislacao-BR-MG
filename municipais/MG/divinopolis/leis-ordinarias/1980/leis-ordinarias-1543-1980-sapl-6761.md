@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1543, de 11/02/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1543"
+data: "1980-02-11"
+ementa: "PASSA A DENOMINAR-SE RUA MOACIR JOSÉ LEITE A ATUAL RUA \"C\", NO BAIRRO SANTA CLARA, NESTA CIDADE."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/6761"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/6761/6761_texto_integral.pdf"
+sha256_fonte: "09201a56ca2c747d982e6e27acca2bd2ae4f7d20e18dd8c4c489314358276bc9"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1543, de 11/02/1980
+
+LEI N.: 01543
+
+PASSA A DENOMINAR-SE R.MOACIR JOSE LEITE, A ATUAL R."C", NO BAIR- RO SANTA CLARA, NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - A ATUAL R."C",NO BAIRRO SANTA CLARA, NESTA CIDADE DE DIVINOPO- LIS - MG, PASSA DENOMINAR-SE R.MOACIR JOSE LEITE.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ESTA LEI ENTRARA EM VI- GOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, EM 14 DE FEVEREIRO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.49 DE 29/02/1980

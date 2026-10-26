@@ -1,0 +1,22 @@
+---
+titulo: "Lei Ordinária nº 1409, de 06/12/1974"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1409"
+data: "1974-12-06"
+ementa: "AUTORIZA A CONCESSÃO DE AUXÍLIOS PARA OBRAS DE INTERESSE COMUNITÁRIOS DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Patos de Minas"
+uf: "MG"
+codigo_ibge: "3148004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.patosdeminas.mg.leg.br/norma/1835"
+fonte_texto: "https://sapl.patosdeminas.mg.leg.br/media/sapl/public/normajuridica/1974/1835/1835_texto_integral.doc"
+sha256_fonte: "20e1b4879c7d9c4e1d686b83f5cbd78108e209adf89ee44ac764a17813fb8e70"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1409, de 06/12/1974
+
+Lei Nº 1.409/74 AUTORIZA A CONDESSÃO DE AUXPILIOS PARA OBRAS DE INTERESSE COMUNITÁRIOS DÁ OUTRAS PROVIDÊNCIAS. O Povo do Município de Patos de Minas, Estado de Minas Gerais, por seus representantes decretou, e eu, em seu nome, sanciono a seguinte Lei. Art. 1º - É o Poder Executivo autorizado a conceder Cr$ 187.000,00 (cento e oitenta e se cruzeiros) de auxílio para a execução das pontes a seguir especificadas: I – Cr$ 130.000,00 (cento e trinta mil cruzeiros) para a ponte de concreto armado sob o Rio Paranaíba na estrada de rodagem municipal Patos Porto das Posses –Boassara, com 54 (cinqüenta e quatro) metros de vão, cuja construção se processa com recurso da comunidade e sob gestão Sr. José Luciano de Oliveira; II - Cr$42.000,00 (quarenta e dois mil cruzeiros) para a pontes de madeira com pilares e encabeçamento de cimento ciclópico sobre o Rio Extrema com 30 metros e vão interligando este município ao de São Gonçalo do Abaeté, obra está a ser executada pela Prefeitura daquele município; III - Cr$15.000,00 (quinze mil cruzeiros) para a ponte de madeira, com 25 metros de vão, sobre o Rio do Chumbo na estrada de rodagem ligando o povoado de Horizonte Alegre com a localidade de Cedro, em construção com recursos da comunidade e sob a gestão do Sr. Pedro Vicente Tavares. Art. 2º – A liberação dos recursos de que trata o artigo anterior far-se-á com o atendimento dos seguintes procedimentos vinculados: I – Os Senhores José Luciano de Oliveira e Pedro Vicente Tavares movimentarão os recursos dos incisos I e II e terão prazo máximo de 30 (trinta) dias após o recebimento do número para comprovar o seu emprego nas respectivas obras, mediante envio à Prefeitura das notas fiscais, de materiais devidamente quitadas, recibos de pagamento de mão de obra; II – A Prefeitura Municipal de São Gonçalo do Abaté o desembolso a seu favor será feito em 4 quatro parcelas de Cr$ 9.250,00 ( nove mil duzentos e cinqüenta cruzeiros), mediante a apresentação dos respectivo conhecimentos de receita até 5 (cinco) dias após o recebimento de cada parcela e fotocópia autenticada das notas fiscais quitadas , recibos e folhas de pagamento 30 dias após a conclusão das obras. § 1º - O não cumprimento do disposto no inciso I do artigo aplica na revogação do auxílio tornando os respectivos responsáveis devedores diretos da municipalidade e, por este motivo, serão incontinentes inscritos em dívida ativa como remissos das quantias recebidas, que lhes serão exigidas mediante ação judicial de executiva fiscal; § 2º - O desadentimento parcial ou total das medidas preconizadas no inciso II implicará na suspensão parcial da entrega das parcelas seguintes quando se tratar de atraso na emissão do conhecimento de receita e denúncia ao Tribunal de Contas do Estado pela falta de remessa dos comprovantes ao final da obra; § 3º - A entrega de numerários aos Senhores José Luciano de Oliveira e Pedro Vicente Tavares far-se-á segundo a disponibilidade do Eurário e, se não integralizado no corrente exercício, será escrito, o saldo, como Resto a Pagar, os quais terão prioridade de liquidação no exercício vindouro . Art. 3º - Para ocorrer com as despesa de que cogita esta Lei fica o Executivo Municipal autorizado a abrir crédito especial até o limite de Cr$ 187.000,00 (cento e oitenta e sete mil cruzeiros) mediante a utilização de quaisquer dos permissivos constantes do art. 43 da Lei Federal 4.320, como fonte de recurso. Art. 4º - Esta Lei revogadas a disposições em contrário entrará em vigor na data da sua publicação. Mando, portanto, a todas as autoridades, a quem o conhecimento e execução desta Lei pertencer, que a cumpra e façam cumprir, tão inteiramente como nela se contém. Prefeitura Municipal de Patos de Minas, 06 de Dezembro de 1974.-
+
+Waldemar Rocha Filho- Prefeito Municipal

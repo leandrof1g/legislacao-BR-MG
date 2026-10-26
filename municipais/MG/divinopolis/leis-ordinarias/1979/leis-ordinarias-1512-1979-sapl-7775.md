@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1512, de 27/08/1979"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1512"
+data: "1979-08-27"
+ementa: "DENOMINA-SE AVENIDA PROFESSORA MARIA CATARINA, A ATUAL AVENIDA \"D\", NO BAIRRO HALIM SOUKI, NESTA CIDADE."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/7775"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1979/7775/7775_texto_integral.pdf"
+sha256_fonte: "f2d56f9659eee1d6836c8cabcceb100c89eed91e04a0b8ea3f13b10beb0d0f86"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1512, de 27/08/1979
+
+LEI N.: 01512
+
+DENOMINA-SE AVENIDA PROFESSORA MARIA CATARINA A ATUAL AVENIDA "D" NO BAIRRO HALIM SOUKI.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - DENOMINA-SE AVENIDA PROFESSORA MARIA CATARINA, A ATUAL AVENIDA "D", NO BAIRRO HALIM SOUKI, NESTA CIDADE.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ESTA LEI ENTRARA EM VI- GOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 30 DE AGOSTO DE 1979.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.42 DE 13/09/1979

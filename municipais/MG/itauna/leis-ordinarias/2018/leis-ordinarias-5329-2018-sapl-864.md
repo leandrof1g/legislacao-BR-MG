@@ -1,0 +1,44 @@
+---
+titulo: "Lei Ordinária nº 5329, de 08/10/2018"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "5329"
+data: "2018-10-08"
+ementa: "FIXA PRAZO PARA CUMPRIMENTO DE CLÁUSULA DE CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Itaúna"
+uf: "MG"
+codigo_ibge: "3133808"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.itauna.mg.leg.br/norma/864"
+fonte_texto: "https://sapl.itauna.mg.leg.br/media/sapl/public/normajuridica/2018/864/868_texto_integral.pdf"
+sha256_fonte: "7a0f22611d65b9ebca5a69aaa1c561b4b4b223492b3367313c87a961c44c2d21"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 5329, de 08/10/2018
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Prefeitura Municipal de Itaúna.
+
+ESTADO DE MINAS GERAIS
+
+LEINº 5.329, DE 8 DE OUTUBRO DE 2018
+
+Fixa prazo pára cumprimento de cláusula de concessão de direito real de uso de imóvel público e dá outras providências,
+
+A Câmara Municipal de Itaúna, Estado de Minas Gerais, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
+
+**Art. 1º** Fica concedido à empresa Modelagem Visão Ltda. — EPP, CNPJ 09.598.340/0001-30, o prazo de 12 (doze) meses para o término das obras de instalação da sede e transferência de suas atividades para o imóvel concedido em uso pelo Termo de Contrato de Concessão de Uso nº 003, de 23 de fevereiro de 2016, autorizado pela Lei nº 5.014, de 11 de fevereiro de 2016, sob pena de revogação do ato e reversão do imóvel ao patrimônio municipal.
+
+**Art. 2º** Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+Itaúna-MG, 8 de outubro de 2018, Rd
+
+ei sand prime o “po o \* Moreira de Faria
+
+Pra eito do Município de Itaúna
+
+pes rea ii o em ensinam e emas mem o e
+
+Diógenes Lopes Nogueir le-Sóusa Vilela

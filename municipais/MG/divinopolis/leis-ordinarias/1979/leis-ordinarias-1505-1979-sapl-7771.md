@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1505, de 30/07/1979"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1505"
+data: "1979-07-30"
+ementa: "DECLARA DE UTILIDADE PÚBLICA O GRUPO TEATRAL LEÃO XIII."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/7771"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1979/7771/7771_texto_integral.pdf"
+sha256_fonte: "3e226fb98e86bae8e8d232edf98cf54c8a1dc0d9343106ec08b972c902f8527c"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1505, de 30/07/1979
+
+LEI N.: 01505
+
+DECLARA DE UTILIDADE PUBLICA O GRUPO TEATRAL LEAO XIII.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DECLARADO DE UTILIDADE PUBLICA O GRUPO TEATRAL LEAO XIII, SOCIEDADE CIVIL, SEM FINS LUCRATICOS, COM SEDE NESTA CIDADE DE DIVINOPOLIS, MG.
+
+ART.2 - REVOGAM-SE AS DISPOSICOES EM CONTRARIO, ENTRANDO ESTA LEI EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 02 DE AGOSTO DE 1979.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.42 DE 13/09/1979

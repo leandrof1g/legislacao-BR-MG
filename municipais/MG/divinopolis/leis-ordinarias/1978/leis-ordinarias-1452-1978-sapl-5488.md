@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1452, de 29/11/1978"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1452"
+data: "1978-11-29"
+ementa: "PASSA A DENOMINAR-SE AVENIDA JK A ATUAL VIA EXPRESSA JK, NO BAIRRO BOM PASTOR."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/5488"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1978/5488/5488_texto_integral.pdf"
+sha256_fonte: "11127473f9ca64c771cea73342f0f69e9cba94a331e1caf00b4cdcfb7b6b339a"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1452, de 29/11/1978
+
+LEI N.: 01452
+
+PASSA A DENOMINAR-SE AVENIDA J.K. A ATUAL VIA EXPRESSA J.K. NO BAIRRO BOM PASTOR.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - PASSA A DENOMINAR-SE AVENIDA J.K. A ATUAL VIA EXPRESSA J.K.,NO BAIRRO BOM PASTOR;
+
+ART.2 - REVOGAM-SE AS DISPOSICOES EM CONTRARIO, ENTRANDO ESTA LEI EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 06 DE DEZEMBRO DE 1978.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.31 DE 30/12/1978

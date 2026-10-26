@@ -1,0 +1,28 @@
+---
+titulo: "Lei Ordinária nº 49, de 25/02/1949"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "49"
+data: "1949-02-25"
+ementa: "REGULA A OCUPAÇÃO E AUTORIZA A VENDA DE TERRENOS PERTENCENTES À PREFEITURA MUNICIPAL."
+municipio: "Patos de Minas"
+uf: "MG"
+codigo_ibge: "3148004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.patosdeminas.mg.leg.br/norma/54"
+fonte_texto: "https://sapl.patosdeminas.mg.leg.br/media/sapl/public/normajuridica/1949/54/54_texto_integral.doc"
+sha256_fonte: "7ff87e783cf8d4527c5fe871b75fe0a9e14e4bb80997e3bcd3625744d6f71f4c"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 49, de 25/02/1949
+
+LEI Nº. 49
+
+Regula a ocupação e autoriza a venda de terrenos pertencentes à Prefeitura Municipal.
+
+O Povo do Município de Patos de Minas, Estado de Minas Gerais, por seus representantes, decretou e eu, em seu nome, sanciono a seguinte lei: Art. 1º - A Prefeitura, pelo seu Serviço de Obras, mandará levantar a planta cadastral de todos os terrenos vagos existentes nas zonas urbana e suburbana da cidade, das vilas e dos povoados. § 1º - Consideram-se “terrenos vagos”, para os efeitos desta Lei, os lotes vazios, ou a parte de terreno correspondente ao que exceda o duplo do comprimento da fachada do edifício nele existente, somando-se, quando fôr o caso, a testada vaga de um lado e outro do edifício. § 2º - Nas esquinas, será considerado vago o terreno não construido a parte que exceda o duplo do comprimento da fachada do edifício nele existente em cada lado da respectiva rua. § 3º - Os terrenos ocupados por casas condenadas pelo Código de Obras, serão considerados vagos e sujeitos aos dispositivos da presente Lei, para fins de cobrança de imposto territorial urbano. Art. 2º - Nos terrenos urbanos e suburbanos existentes na cidade, nas Vilas de Santana e Lagôa Formosa sob posse e administração da Prefeitura e destinados pelos doadores ao uso e gozo dos povos, será concedido, conforme legislação municipal vigente, alvará de construção aos atuais ocupantes, desde que êstes prover a ocupação por mais de dez anos, e quando nestes terrenos existir qualquer edifício a eles pertencentes, embora êstes terrenos tenham testadas maiores que as previstas no art. 1º. Art 3º - Aos ocupantes de lotes nos terrenos descritos no art. 2º, da presente Lei, será dispensada a prova de ocupação por dez anos para a concessão do alvará de construção, desde que o lote esteja devidamente enquadrado na planta cadastral, e nele houver, pelo menos, um edifício em conformidade com o descrito no Capitulo XIV do Código de Obras. § 1º - O ocupante de lote nas condições descritas no presente artigo terá o prazo de cento e oitenta dias, a contar da publicação da presente Lei, para regularizar a situação do terreno que ora ocupa. § 2º - Quando se tratar de construção situada na zona urbana, aos concessionários, por alvarás expedidos em conformidade com o presente artigo, será permitido um prazo de cinco anos para atender aos dispositivos do Código de Obras. § 3º - Atendidas as exigências do Código de Obras, deverá o concessionário fazer as devidas anotações no alvará, no serviço competente da Prefeitura, e, se lhe convier, no Registro de Imóveis da Comarca. § 4º - O não cumprimento das exigências dêste Artigo importará na caducidade do alvará, revertendo o lote à administração e posse da Prefeitura sem que esta seja obrigada a fazer quaisquer indenizações por obras acaso nele feitas, por não terem o caráter de úteis, nem necessárias.
+
+**Art. 4º** - A Prefeitura permitirá a construção de prédios na zona suburbana da Cidade e das Vilas e dos Povoados, atendendo ao disposto no Capítulo XIV, do Código de Obras, expedindo o respectivo alvará de construção. Se se tratar de terrenos descritos no Artigo segundo, da Presente Lei, fica o concessionário sujeito ao regulado pelos artigos 2 e 3. Art 5º - Os terrenos descritos no Art. 2º, da presente Lei, e situados fora das zonas urbana e suburbana, deverão ser demarcados, medidos e loteados. Verificada a existência de ocupantes, serão estes intimados a fazer o contrato de arrendamento da parte por eles ocupada de acôrdo com as leis municipais vigentes. § único – Os lotes ou sítios referidos no presente artigo não poderão exceder a área de trinta hectares e não será permitido o arrendamento de mais de um lote a cada pessoa. Em igualdade de condições, será dada preferencia aos ocupantes. Art. 6º - Os terrenos de domínio e posse da Prefeitura situados fora dos perímetros urbanos e suburbanos da Cidade, nas Vilas e nos Povoados, serão loteados nas mesmas condições dos descritos no art. 5º, da presente Lei, e poderão ser vendidos em hasta pública, conforme as conveniências ocasionais, a juizo do Prefeito Municipal. § único – O produto de venda destes lotes ou sítios, quando situados nas Vilas e povoados, será aplicado em obras de assistência social, instrução pública ou construção de cemitérios, no distrito onde localizado o imóvel. Art 7º - Fica o Prefeito Municipal autorizado a abrir pela dotação orçamentária competente o necessário crédito para ocorrer às despesas oriundas da execução da presente Lei. Art 8º - A presente Lei revogará os dispositivos dos Códigos de Posturas e Obras naquilo que lhes forem contrária, e será a eles apensada, entrando em vigôr na data de sua publicação. Mando, portanto, a tôdas as autoridades, a quem o conhecimento e execução desta lei pertencer, que a cumpram e façam cumprir, tão inteiramente como nela se contém.
+
+Prefeitura Municipal de Patos de Minas, 25 de Fevereiro de 1949.- Vicente Pereira Guimarães - Prefeito Municipal

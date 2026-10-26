@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1557, de 28/04/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1557"
+data: "1980-04-28"
+ementa: "PASSA A DENOMINAR-SE RUA \"OROZIMBO CHAGAS - CIPA\" - A ATUAL RUA \"K\" NO BAIRRO ALVORADA, NESTA CIDADE."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/6969"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/6969/6969_texto_integral.pdf"
+sha256_fonte: "a66645899078b4b1c3ad0b760ffc507f8c7f24b8b652ac5465039a368bfb1efb"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1557, de 28/04/1980
+
+LEI N.: 01557
+
+PASSA A DENOMINAR-SE RUA OROZIMBO CHAGAS A ATUAL RUA "K" NO BAIR- RO ALVORADA, NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - PASSA A DENOMINAR-SE A RUA OROZIMBO CHAGAS A ATUAL RUA "K", DO BAIRRO ALVORADA, NESTA CIDADE DE DIVINOPOLIS - MG.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ESTA LEI ENTRARA EM VI- GOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 05 DE MAIO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO N.54 DE 31/05/1980

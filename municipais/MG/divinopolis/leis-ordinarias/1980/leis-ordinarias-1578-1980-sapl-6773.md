@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1578, de 09/06/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1578"
+data: "1980-06-09"
+ementa: "DENOMINA-SE RUA PROFESSORA JOSEFINA MACHADO, A ATUAL RUA '3\", DO BAIRRO SION, NESTA CIDADE."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/6773"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/6773/6773_texto_integral.pdf"
+sha256_fonte: "ebf047e21e2fb6baa46edcf9c19ca3db10efc8e8c3ffcd40f472a0973bc50f55"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1578, de 09/06/1980
+
+LEI N.: 01578
+
+DENOMINA-SE RUA PROFESSORA JOSEFINA MACHADO A ATUAL RUA "3" DO BAIRRO SION, NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA RUA PROFESSORA JOSEFINA MACHADO A ATUAL RUA "3" DO BAIRRO SION, NESTA CIDADE DE DIVINOPOLIS.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ENTRARA A PRESENTE LEI EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 10 DE JUNHO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.56 DE 12/07/1980

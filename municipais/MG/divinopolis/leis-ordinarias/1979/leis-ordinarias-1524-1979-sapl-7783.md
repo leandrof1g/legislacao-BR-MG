@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1524, de 15/10/1979"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1524"
+data: "1979-10-15"
+ementa: "PASSA A DENOMINAR-SE RUA BRAULINA MICHELINE, A ATUAL RUA \"UM\", DO BAIRRO LEVINDO P. PEREIRA."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/7783"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1979/7783/7783_texto_integral.pdf"
+sha256_fonte: "51767e5ca755ac773a03a4fdc35073db862eea5af4f6c37b10fafd9f92183fc4"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1524, de 15/10/1979
+
+LEI N.: 01524
+
+PASSA A DENOMINAR-SE RUA BRAULINA MICHELINE A ATUAL RUA "UM", DO BAIRRO LEVINDO P.PEREIRA.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA RUA BRAULINA MICHELINE A ATUAL RUA "UM", DO BAIRRO LEVINDO P.PEREIRA, NESTA CIDADE DE DIVINOPOLIS.
+
+ART.2 - REVOGAM-SE AS DISPOSICOES EM CONTRARIO, ENTRANDO ESTA LEI EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 17 DE OUTUBRO DE 1979.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.44 DE 28/10/1979

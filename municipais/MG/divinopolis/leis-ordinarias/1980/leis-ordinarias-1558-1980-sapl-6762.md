@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1558, de 22/04/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1558"
+data: "1980-04-22"
+ementa: "DENOMINA \"ANIELO GRECO\" A ESCOLA TÉCNICA DO SENAI BAIRRO ESPLANADA, NESTA CIDADE."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/6762"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/6762/6762_texto_integral.pdf"
+sha256_fonte: "3ef2cb2eb8fbcbef0b46fa6fd67d61bb2d87694655702199bb34359686214da8"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1558, de 22/04/1980
+
+LEI N.: 01558
+
+DENOMINA-SE "ANIELO GRECO" A ESCOLA TECNICA DO SENAI, BAIRRO ES- PLANADA, NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADA ANIELO GRECO A ESCOLA TECNICA DO SENAI, NO BAIRRO ESPLANADA, NESTA CIDADE DE DIVINOPOLIS - MG.
+
+ART.2 - REVOGADAS AS DISPOSICOES EM CONTRARIO, ESTA LEI ENTRARA EM VI- GOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 05 DE MAIO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL

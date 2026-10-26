@@ -1,0 +1,32 @@
+---
+titulo: "Portarias nº 137, de 21/11/2013"
+tipo: "Portarias"
+tipo_na_fonte: "Portarias"
+numero: "137"
+data: "2013-11-21"
+ementa: "AUTORIZA A INDENIZAÇÃO PARCIAL DE PAGAMENTO DAS DIFERENÇAS DE ADICIONAL POR TEMPO DE SERVIÇO (QUINQUÊNIO) À SERVIDORA NEUSA MARIA MEDINA PEREIRA."
+municipio: "Pará de Minas"
+uf: "MG"
+codigo_ibge: "3147105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.parademinas.mg.leg.br/norma/1446"
+fonte_texto: "https://sapl.parademinas.mg.leg.br/media/sapl/public/normajuridica/2013/1446/1446_texto_integral.pdf"
+sha256_fonte: "9f5ebb6d82e4269a5649b3ca15df5f947799445736fa8b731aca27d9cbe4b8bd"
+baixado_em: "2026-10-26"
+---
+
+# Portarias nº 137, de 21/11/2013
+
+PORTARIA Nº 137, DE 21 DE NOVEMBRO DE 2013.
+
+Autoriza a indenização parcial de pagamento das diferenças de adicional por tempo de serviço (quinquênio) à servidora Neusa Maria Medina Pereira..
+
+O Presidente da Câmara Municipal de Pará de Minas, no uso de suas atribuições legais, RESOLVE:
+
+**Art. 1º** - Fica autorizado o pagamento parcial da diferença de quinquênios indenizados à servidora Maria Neusa Medina Pereira, relativos ao período de setembro de 2008 a agosto de 2009, corrigidos pela tabela do Tribunal de Justiça de Minas Gerais no mês em que ocorrerem.
+
+**Art. 2º** - Esta portaria entra em vigor na data de sua publicação o hall da Câmara Municipal de Pará de Minas.
+
+Sala das Sessões da Câmara Municipal de Pará de Minas, 21 de novembro de 2013.
+
+Vereador Marcílio Magela de Souza Presidente da Câmara

@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 1569, de 19/05/1980"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1569"
+data: "1980-05-19"
+ementa: "DENOMINA-SE RUA AMIM JOSÉ BARRETO, A ATUAL RUA \"G\", NO BAIRRO JARDIM BELVEDERE II, NESTA CIDADE."
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/6766"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/1980/6766/6766_texto_integral.pdf"
+sha256_fonte: "c7650e3cbd06b3c5d8f0c40512d68c65fd266c2aafc70c670ec8b28d59aeb1da"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 1569, de 19/05/1980
+
+LEI N.: 01569
+
+DENOMINA-SE RUA AMIM JOSE BARRETO A ATUAL RUA "G", NO BAIRRO JAR- DIM BELVEDERE II, NESTA CIDADE.
+
+O POVO DE DIVINOPOLIS, POR SEUS REPRESENTANTES LEGAIS, DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+ART.1 - FICA DENOMINADO RUA AMIM JOSE BARRETO A ATUAL RUA "G",NO BAIR- RO JARDIM BELVEDERE II, NESTA CIDADE DE DIVINOPOLIS - MG.
+
+ART.2 - REVOGAM-SE AS DISPOSICOES EM CONTRARIO, ENTRANDO ESTA LEI EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+PREFEITURA MUNICIPAL DE DIVINOPOLIS, 22 DE MAIO DE 1980.
+
+ASSINA: FABIO BOTELHO NOTINI - PREFEITO MUNICIPAL PUBLICACAO: JORNAL PARTICIPACAO - N.55 DE 15/06/1980
