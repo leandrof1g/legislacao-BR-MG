@@ -1,0 +1,783 @@
+---
+titulo: "Lei Ordinária nº 365, de 15/12/1953"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "365"
+data: "1953-12-15"
+data_publicacao: "1953-12-17"
+ementa: "Autoriza a abertura de crédito especial para pagamento de despesas de exercícios anteriores e efetuar despesas no corrente exercício."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df0116705083ee60ba"
+versao_texto: "atualizada (CMBH)"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/365/1953"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7688b9664f0188de7b40a30529"
+id_documento: "2c907f7688b9664f0188de7b40a30529"
+sha256_fonte: "b0b0aef68e8229b8b4a26e970d0375ab3b93ffec5c39cbfa254b3a87494c97f3"
+baixado_em: "2026-10-26"
+---
+
+# Lei Ordinária nº 365, de 15/12/1953
+
+LEI Nº 365, DE 15 DE DEZEMBRO DE 1953
+
+Retificada em 29/12/1952
+
+REVOGADA PELA LEI Nº 11.520, DE 16/6/2023, A PARTIR DE 15/9/2023 (Anexo III, XVII c/c art. 2º)
+
+Autoriza a abertura de crédito especial para pagamento de despesas de exercícios anteriores e efetuar despesas no corrente exercício.
+
+O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sanciono a seguinte lei:
+
+**Art. 1º** - Fica o Prefeito autorizado a abrir o crédito especial de Cr$ 4.248.183,40 (quatro milhões, duzentos e quarenta e oito mil, cento e oitenta e três cruzeiros e quarenta centavos), para atender ao pagamento de despesas efetuadas nos exercícios de 1947 a 1952, aos seguintes:
+
+1947 Cr$
+
+Honorio Hermeto Corrêa da Costa 52.760,00
+
+1948
+
+Joaquim Teixeira Camargos 800,00
+
+Edificadora Ltda 577.993,30
+
+A mesma 308.263,10
+
+Indústria Telhas Brasil Ltda 12.344,20
+
+Waldir Andrade 1.310,00
+
+1949
+
+Andrade Renó & Sales Ltda 1.120,00
+
+Francisco de Assis Santos 10.333,50
+
+Norival Carvalho 80,00
+
+Militino Gonçalves 470,00
+
+Cia. Telefônica Brasileira 4.350,80
+
+Cia. Fôrça e Luz de Minas Gerais 756,70
+
+1950
+
+Raimundo Augusto Santiago 18.000,00
+
+Serviço Abastecimento – Armazém 340,00
+
+Serviço Abastecimento – Armazém 101,80
+
+Milton Medeiros Cruz 200,00
+
+Sinval Rangel 725,30
+
+João Marques dos Reis 161,80
+
+Diversos 5.969,40
+
+Diversos 2.973,90
+
+Diversos 10.557,10
+
+Diversos 3.153,10
+
+Diversos 19.834,10
+
+Dep. de Bondes e Ônibus 15.228,00
+
+Urquiza Lopes 6.500,00
+
+Cia. Fôrça e Luz de Minas Gerais 1.204,20
+
+Saul Macedo 5.850,00
+
+José Santana 40,00
+
+J. Rodrigues Sete Câmara 196.001,10
+
+Carlos Bicalho Goulart 13.968,00
+
+Elias Rodrigues Santana 2.400,00
+
+Antônio Leite 540,00
+
+Cia. Telefônica Brasileira 1.312,50
+
+A mesma 1.282,00
+
+A mesma 18.584,60
+
+A mesma 23.723,40
+
+A mesma 2.059,30
+
+A mesma 503,60
+
+A mesma 20.181,90
+
+A mesma 2.023,60
+
+A mesma 503,60
+
+A mesma 978,30
+
+Joaquim Barnabé da Silva 165,60
+
+Antônio Diniz & Cia. Ltda 51,80
+
+1951
+
+Cia. Telefônica Brasileira 24.046,60
+
+A mesma 24.941,30
+
+A mesma 2.118,50
+
+A mesma 451,20
+
+A mesma 503,60
+
+A mesma 2.203,60
+
+A mesma 1.021,90
+
+A mesma 503,60
+
+A mesma 484,70
+
+Emprêsa de Montagem e Conservação de Elevadores Ltda 7.838,00
+
+IBM World Trade Corporation 1.401,00
+
+Oliveira, Costa & Cia 220,00
+
+Os mesmos 340,00
+
+Serviço de Abastecimento – Armazém 881,50
+
+O mesmo 1.672,00
+
+O mesmo 222,50
+
+O mesmo 747,80
+
+Livraria Minas Gerais 427,50
+
+Paulo Andrade 380,00
+
+IBM World Trade Corporation 1.520,00
+
+Natgan Lermam & Cia. Ltda 72,00
+
+Metalúrgica Mineira Ltda 166.200,00
+
+Demerval Ferreira de Carvalho – Cartório 38.385,50
+
+Mesbla S.A 286,30
+
+Oliveira, Costa & Cia 1.200,00
+
+Os mesmos 3.213,50
+
+Serviço de Abastecimento – Armazém 389,40
+
+O mesmo 186,00
+
+Ferragens Antonio Falci 1.273,00
+
+Serviço de Abastecimento – Armazém 186,00
+
+O mesmo 835,00
+
+O mesmo 350,00
+
+Lunardi Filhos Ltda 43,30
+
+Geraldo Costa 87,40
+
+Drogaria Araújo Ltda 90,00
+
+Orestes Gomes Arouca 11.200,00
+
+Cia. Fôrça e Luz de Minas Gerais 55.580,20
+
+S.A. Rádio Mineira 200,00
+
+S.A. Rádio Guarani 4.200,00
+
+Diversos 457,00
+
+Diversos 2.776,00
+
+Diversos 3.946,00
+
+Diversos 262,50
+
+Diversos 20.545,90
+
+Diversos 732,00
+
+Diversos 3.582,60
+
+Diversos 1.830,30
+
+Diversos 6.560,40
+
+Diversos 4.917,30
+
+Diversos 37.547,60
+
+Francisco Costa Lage 120,00
+
+Genuino de Lima Gil 160,00
+
+Geraldo Fernandes 170,00
+
+José Martins da Silva 340,00
+
+Nelson Moreira de Castro 90,00
+
+Wiliam Cruz 480,00
+
+Agnelo Generoso Peixoto 332,50
+
+Armando Amadeu Marri 1.587,70
+
+O mesmo 85,10
+
+Aristóteles M. Caldeira 422,00
+
+O mesmo 765,60
+
+Aurino Espírito Santo Andrade 194,00
+
+O mesmo 256,00
+
+Clarindo Maciel 694,70
+
+Norival de Carvalho 130,00
+
+Clarício Rodrigues da Cunha 40,00
+
+Herculano Gomes Oliveira 90,00
+
+Rui Gilberto M. Melo 210,00
+
+João Tito Ribeiro 80,00
+
+Elidio Gabriel 590,00
+
+Giovani Rizi 100,00
+
+Alisson Cunha 130,00
+
+João Evangelista dos Santos 130,00
+
+Geraldo Fernandes 280,00
+
+Marco Antonio de Vasconcelos 400,00
+
+Militino Gonçalves 660,00
+
+José Artur de Oliveira 550,00
+
+Milton Medeiros Cruz 80,00
+
+José Andrade Rangel 280,00
+
+Geraldo Jacob 60,00
+
+Maximiano Maia Braga 550,00
+
+Dorindo Pacífico Viana 60,00
+
+Waldomiro Barbosa 315,00
+
+Waldemar Chaves Jacob 1.202,00
+
+Vicente Camilo Gonçalves 132,40
+
+Rubem Miranda 137,00
+
+Osorio Calixto Marques 268,00
+
+Onofre Martins Rodrigues 516,00
+
+Natalino Inácio Pontes 874,50
+
+Massanielo Santos 615,10
+
+Mário Couto 91,00
+
+José Ward 1.056,30
+
+José Maria Figueiredo 414,00
+
+O mesmo 201,00
+
+José Ferreira de Jesus 88,30
+
+José Calazans 182,10
+
+José Bites 1.011,00
+
+João Freire de Alkimim 213,30
+
+João Freire de Alkmim 127,90
+
+Jadir Ambrosio 86,00
+
+Jadir Ambrosio 597,60
+
+Deículo Souza Ferreira 1.293,30
+
+Clarindo Maciel 789,70
+
+Cléo Fonseca 254,00
+
+José P. da Silva 5.655,00
+
+Maria Pereira Marinho 1.124,60
+
+Diversos 176,00
+
+Diversos 1.544,00
+
+Djalma Gusman 14.364,00
+
+Manuel Marques Fonseca 3.680,50
+
+Ligia Feu A. Pereira 580,90
+
+Antônio da Conceição 684,00
+
+Joaquim C. de Menezes 3.000,00
+
+Juscelino Rosa Martins 3.128,00
+
+Manuel M. Sampaio 4.596,50
+
+Diversos 3.150,00
+
+Maria L. M. Andrade 360,00
+
+Diversos 4.258,00
+
+Wenceslau D. da Silva 1.320,00
+
+Antônio Massara 2.166,80
+
+Belizario Nobrega Airosa 1.666,60
+
+Antônio Fagundes Neves 180,00
+
+Licurgo Souza Gomes 2.141,30
+
+Mário Meireles 670,50
+
+José Mário Cunha 2.000,00
+
+Tito Lívio R. Rezende 10.578,60
+
+Polinice Rabelo Mourão 4.969,90
+
+Henrique Soares Lourenço 951,30
+
+Antônio Adelino Santos 675,00
+
+Euclides Eloi Taves 2.830,80
+
+O mesmo 2.160,90
+
+João Batista Pereira 537,50
+
+João Freire Alkimim 150,00
+
+Ildeu Brandão 7.971,00
+
+Agência Riccio 1.892,00
+
+Pereira, Moutinho & Ltda 325,50
+
+Os mesmos 224,40
+
+Olga da Silva Leite e Outros 386.857,30
+
+Crescêncio Barbato 15.582,60
+
+Modesto Candioto 21.964,40
+
+Angelo Bretas Bhering 119.764,00
+
+Cia. Telefônica Brasileira 8.558,00
+
+A mesma 503,60
+
+A mesma 21.256,10
+
+A mesma 406,80
+
+A mesma 2.023,60
+
+A mesma 760,00
+
+A mesma 21.458,10
+
+A mesma 503,60
+
+A mesma 2.023,60
+
+Miguel Pujoni 58,00
+
+Etelvino Rocha 58,00
+
+Irmão Natali 3.989,20
+
+Antônio Diniz & Cia. Ltda. 252,70
+
+Felicidade Torres Figueredo 36,00
+
+Joaquim Teixeira Guimarães 392,40
+
+Mario Teotonia 58,00
+
+Gustavo Martins 3.426,50
+
+Eloi Fernandes Sales 58,00
+
+Jacob Von Atzinger 58,00
+
+José Andrade Rangel 400,00
+
+Alisson Cunha 170,00
+
+Marco Antônio Vasconcelos 30,00
+
+Mesbla S.A 139,20
+
+D.B.O. 6.294,00
+
+Lucas Nunes 120,00
+
+Mesbla S.A. 540,40
+
+Euclides Peçanha 120.000,00
+
+O mesmo 14.400,00
+
+Mesbla S.A. 4.320,00
+
+A mesma 560,00
+
+Raimundo Alves Miranda 18.822,90
+
+Geraldo Moreira de Freitas 220,00
+
+João Amormino 5.605,20
+
+Geraldo Noronha 180,00
+
+Cia. Fôrça e Luz de Minas Gerais 14.400,00
+
+Mesbla S.A. 2.987,20
+
+Antônio Leite 3.090,00
+
+Mesbla S.A. 860,50
+
+Elídio Gabriel 790,00
+
+Mesbla S.A. 250,00
+
+Carmo Trigineli Filho 2.586,60 1952
+
+Beneficência da Prefeitura 89.000,00
+
+Oficinas Cristiano Otoni 3.820,00
+
+Veloso & Cia. Ltda. 120,00
+
+IBM World Trade Corporation 60,00
+
+Adessograph Multigraph do Brasil S.A. 1.200,00
+
+José Martins da Silva 480,00
+
+Construtora Andrade & Campos S.A. 2.200,00
+
+Beneficência da Prefeitura 3.587,20
+
+Oliveira, Costa & Cia. 900,00
+
+Casa Tocantins 563,00
+
+Bento Paixão S.A. 69,00
+
+Banco de Minas Gerais S.A. 3.013,00
+
+Cia. Ferro Brasileiro S.A. 13.344,00
+
+A mesma 48.882,00
+
+Plínio Alvares da Costa 2.462,40
+
+Carlos Alvares da Costa 2.509,00
+
+João Nicolau de Souza 270,00
+
+Gercindo Euzebio de Melo 806,00
+
+Antônio Milas Soares 180,00
+
+José Marinho 198,00
+
+Manuel Ribeiro Campos 420,00
+
+Luiz Pereira 180,00
+
+Diversos 3.193,30
+
+Raimundo de Araújo Lima 486,00
+
+Diversos 720,00
+
+Agostinho Oliveira Carvalho 180,00
+
+Jaime Alvares da Cruz 660,00
+
+Armindo Lopes da Silva 450,00
+
+Antônio José 1.053,00
+
+Padre José Inácio Farah 1.840,00
+
+José dos Prazeres Ferreira 5.200,00
+
+Diversos 4.469,80
+
+Francisco Jorge Moura 5.400,00
+
+Coleta Donato 391,00
+
+A mesma 200,00
+
+Antônio Souza Filho 2.185,20
+
+Clovis Santos Pereira 1.035,00
+
+Ben-Hur Carneiro Andrade 1.456,60
+
+Cia. Carnasciali Ind. Com. 475.000,00
+
+Joaquim Nunes Valério 10.000,00
+
+Ildeu Brandão 30.254,50
+
+Roberto Kahn 3.439,20
+
+Vidroplex Ltda. 235,00
+
+Irmãos Gatti 7.200,00
+
+The Texas Company 183,70
+
+A. Brochado Com. Ind. S.A. 1.320,00
+
+Beneficência da Prefeitura 5.337,50
+
+Tribunal de Justiça do Estado de Minas Gerais 220.245,70
+
+Odilon Campos Andrade 720,00
+
+Aluizio Alberto Ribeiro de Franca 180,00
+
+Anastácio Ferreira Leite 420,00
+
+Zenith Ferreira Aguiar 180,00
+
+José Gregóriro 1º 411,60
+
+Diversos 2.905,90
+
+Diversos 750,00
+
+Soc. Emoce Ltda. 12.000,00
+
+A mesma 2.476,50
+
+Serviço de Abastecimento – Armazém 25.840,90
+
+Centrais Elétricas de Minas Gerais 23.807,30
+
+Pereira Moutinho & Cia. Ltda. 36.546,80
+
+Cia. Siderúrgica Belgo Mineira 585,00
+
+Cia. Fôrça e Luz de Mina Gerais 40.143,30
+
+A mesma 32.860,40
+
+A mesma 37.115,40
+
+A mesma 40.206,50
+
+A mesma 27.980,10
+
+A mesma 1.204,20
+
+A mesma 756,70
+
+A mesma 10.097,00
+
+A mesma 441,20
+
+Centrais Elétricas de Minas Gerais S.A. 4.989,80
+
+Sociedade Emoce Ltda. 752,00
+
+Francisco Marschner 1.430,00
+
+José de Souza Muniz 4.815,00
+
+D.B.O. 66.950,00
+
+Besbla S.A. 4.968,50
+
+A mesma 4.400,00
+
+Manuel Marinho 252,00
+
+Olinda Jacinta de Jesus 900,00
+
+Leormino Caetano de Oliveira 3.647,40
+
+Sebastião Fernandes Passos 6.149,00
+
+Vicente Paula Guimarães 5.900,00
+
+O mesmo 5.900,00
+
+João Bento de Souza 81,70
+
+Genuino de Lima Gil 10,00
+
+José Anatólio Gomes 50,00
+
+Geraldo Jacob 350,00
+
+Henrique Carlos Diniz 769,60
+
+Nelson Moreira de Castro 70,00
+
+Milton Medeiros Cruz 30,00
+
+Dorindo Pacífico Viana 150,00
+
+José Malaquias 1.107,40
+
+L. R. Paulo Simoni 150.437,70
+
+Geraldo Fernandes 230,00
+
+João Evangelista Santos 10,00
+
+Ferragens Antônio Falci Ltda. 336,00
+
+Os mesmos 470,00
+
+José Artur de Oliveira 450,00
+
+Francisco Soares Costa Lage 180,00
+
+Fortunato da Cruz 140,00
+
+Paulo de Faria Matos 882,10
+
+Carolina Rosa Pontes 2.549,00
+
+José Nunes dos Santos 4.937,00
+
+Edson Geraldo de Oliveira 462,00
+
+Giovani Risi 70,00
+
+Banco de Minas Gerais S.A. 3.013,00
+
+Sotreq S.A. de Tratores e Equipamentos 8.609,60
+
+Enésio Gandos 667,50
+
+Maria Aparecida Lopes 1.446,70
+
+José Pedro Moreira 3.721,00
+
+**Art. 2º** - Fica o Prefeito autorizado a abrir o crédito de Cr$ 1.982.787,10 (hum milhão, novecentos e oitenta e dois mil, setecentos e oitenta e sete cruzeiros e dez centavos), para pagamento, relativo ao exercício de 1953, aos seguintes credores:
+
+1953
+
+Pereira Moutinho & Cia. Ltda. 25.000,00
+
+Serviço Nacional de Recenseamento 55.000,00
+
+Plínio Alvares da Costa 6.137,60
+
+Carlos Alvares da Costa 3.251,00
+
+Associação Mineira de Imprensa 50.000,00
+
+Diversos 1.500.000,00
+
+Sociedade Emoce Ltda. 2.000,00
+
+A mesma 3.000,00
+
+Francisco Soares 1.225,00
+
+Oliveira, Costa & Cia. 139.005,80
+
+L. Bretas & Cia. (Papelaria Brasil) 3.540,00
+
+D.B.O. 82.675,00
+
+Câmara Sindical da Bolsa de Valores do Est. de M. Gerais 33.840,00
+
+Haroldo Rohlfs 9.753,30
+
+Maximino Rodrigues Bergman 5.313,20
+
+Hélio Lopes de Oliveira 5.313,20
+
+João Coelho Pereira 4.226,70
+
+Benedito Albergaria 4.226,70
+
+José Diniz de Souza 14.700,00
+
+João Gonçalves Chaves 9.310,00
+
+Euclides Lisboa 8.423,20
+
+Eliseu Massote 8.423,20
+
+Martin Francisco C. Andrade 8.423,20
+
+**Art. 3º** - Para ocorrer às despesas decorrentes a presente lei, fica o Prefeito autorizado a realizar operações de crédito até o limite necessário.
+
+**Art. 4º** - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Mando, portanto, a quem o conhecimento e execução da presente lei pertencer, que a cumpra e faça cumprir tão inteiramente como nela se contém.
+
+Belo Horizonte, 15 de dezembro de 1953
+
+Américo Renê Giannetti
+
+Prefeito de Belo Horizonte
+
+Publicada no Minas Gerais aos dezesete (17) e retificada aos vinte e nove (29) dias do mês de dezembro de mil novecentos e cinquenta e três (1953)
+
+## Observações da CMBH
+
+Retificada em 29/12/1953. REVOGADA PELA LEI Nº 11.520, DE 16/6/2023, A PARTIR DE 15/9/2023 (Anexo III, XVII c/c art. 2º)

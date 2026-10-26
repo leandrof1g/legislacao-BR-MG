@@ -1,0 +1,85 @@
+---
+titulo: "Decreto nº 2205/1972"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "2205"
+data: ""
+data_publicacao: ""
+ementa: "Abre crédito suplementar para reforço de verbas e anula parcialmente dotação orçamentária."
+municipio: "Belo Horizonte"
+uf: "MG"
+codigo_ibge: "3106200"
+id_norma: "2c907f76166df5df0116716520272ceb"
+versao_texto: "publicada pela CMBH"
+fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/2205/1972"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7625a142bb0125b20bb2120119"
+id_documento: "2c907f7625a142bb0125b20bb2120119"
+sha256_fonte: "450f14a9bea0a0a618277b6d9aeb036dcd925ce1d10b8c81d3714ebf1241214b"
+baixado_em: "2026-10-26"
+---
+
+# Decreto nº 2205/1972
+
+DECRETO Nº 2.205, DE 22 DE MAIO DE 1972
+
+Abre Crédito Suplementar para reforço de verbas e anula parcialmente dotação orçamentária.
+
+O Prefeito de Belo Horizonte, no uso de suas atribuições e de acordo o artigo 43, da Lei Federal nº 4.320, de 17 de março de 1964 e o artigo 4º da Lei municipal nº 2.022, de 29 de novembro de 1971, decreta:
+
+**Art. 1º** - Fica aberto aos órgãos abaixo especificados o crédito suplementar no valor de Cr 3.815,00 (três mil, oitocentos e quinze cruzeiros) para reforço das seguintes verbas do orçamento vigente:
+
+800 - SECRETARIA MUNICIPAL DA FAZENDA
+
+810 - Serviço Administrativo
+
+3.0.0.0 - Despesas Correntes
+
+3.1.0.0 - Despesas de Custeio
+
+3.1.2.0 - Material de Consumo
+
+3.1.2.0.02.00 - Material para Limpeza e Higiene Cr$ 815,00
+
+1000 - SECRETARIA MUNICIPAL DE SAÚDE E BEM-ESTAR SOCIAL
+
+1040 - Departamento de Assistência
+
+3.0.0. - Despesas Correntes
+
+3.1.0.0 - Despesas de Custeio
+
+3.1.2.0 - Material de Consumo
+
+3.1.2.0.10.00 - Material Elétrico, de Iluminação e Comunicação Cr$ 3.000,00
+
+**Art. 2º** - Constitui recurso para atender ao disposto no artigo 1º do presente Decreto, a anulação parcial da seguinte dotação orçamentária:
+
+800 - SECRETARIA MUNICIPAL DA FAZENDA
+
+840 - Departamento de Inspeção Financeira
+
+3.0.0.0 - Despesas Correntes
+
+3.2.0.0 - Transferências Correntes
+
+3.2.6.0 - Fundo de Reserva Orçamentária
+
+3.2.6.0.01.00 - Fundo Orçamentário Cr$ 3.815,00
+
+**Art. 3º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
+
+Mando, portanto, a quem o conhecimento e a execução do presente decreto pertencer, que o cumpra e o faça cumprir, tão inteiramente como nele se contém.
+
+Belo Horizonte, 22 de maio de 1972
+
+Oswaldo Pieruccetti
+
+Prefeito de Belo Horizonte
+
+Vicente Rodrigues
+
+Secretário Municipal da Fazenda
+
+W Nagem p/
+
+Secretário Municipal de Saúde e Bem-Estar Social
