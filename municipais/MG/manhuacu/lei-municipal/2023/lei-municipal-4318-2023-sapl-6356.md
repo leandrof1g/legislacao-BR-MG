@@ -1,0 +1,86 @@
+---
+titulo: "Lei Municipal nº 4318, de 03/02/2023"
+tipo: "Lei Municipal"
+tipo_na_fonte: "Lei Municipal"
+numero: "4318"
+data: "2023-02-03"
+ementa: "Altera o anexo I da Lei nº 3.548 de 04 de dezembro de 2015 e dá outras providências."
+municipio: "Manhuaçu"
+uf: "MG"
+codigo_ibge: "3139409"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhuacu.mg.leg.br/norma/6356"
+fonte_texto: "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2023/6356/lei_municipal_no_4.318_-_03-02-2023_-_altera_anexo_i_da_lei_3.548-2015_e_da_outras_providencias.pdf"
+sha256_fonte: "f7345b4ad7678aeac7f85c1ac1b8c7578545bb58ee6db1990e178340ed1db87e"
+baixado_em: "2026-10-27"
+---
+
+# Lei Municipal nº 4318, de 03/02/2023
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+“EMvwt PREFEITURA MUNICIPAL DE MANHUAÇU dd e, Lei Provincial nº 2407 de 05/11/1877 — Área 628,318 km2 — Altitude 612 metros — CNPJ 18.385.088/0001-72
+
+“Altera o anexo I da Lei nº 3.548 de 04 de dezembro de 2015 e dá outras providências”.
+
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
+
+**Art. 1º** O Anexo I da Lei nº 3.548 de 04 de dezembro de 2015, passa a vigorar acrescido das seguintes famílias:
+
+|
+
+Sebastião Santana Manhuacu-MG Vulnerabilidade CPF: 334.934.566-20 s Socioeconômica Daniel Silva Barbosa Manhuacu-MG | Vulnerabilidade CPF: 149.217.686-92 ' Socioeconômica Micaelle Emanoelle Carvalho a: Candido Manhuaçu-MG nine
+
+Robson Florêncio Rodrigues | São Pedro do Avaí - Vulnerabilidade
+
+**Art. 2º** As despesas resultantes desta lei serão suportadas pelas dotações consignadas no orçamento vigente.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
+
+NA 10/10); Mm DUTRA DORNELAS
+
+Praça Cinco de Novembro nº 381 — Centro — CEP 36.900-091 — Manhuaçu — MG
+
+f =; PREFEITURA MUNICIPAL DE Diário Oficial Eletrônico
+
+E M À N Hi U AÇ U Município de Manhuaçu-MG
+
+Diário Oficial Eletrônico = ANO 9 |
+
+Manhuaçu, 07 de Fevereiro de 2023-
+
+Nº 2343 Lei Municipal 3.415, de 08/09/2014
+
+“Altera o anexo I da Lei nº 3.548 de 04 de dezembro de 2015 e dá outras providências”.
+
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
+
+**Art. 1º** O Anexo I da Lei nº 3.548 de 04 de dezembro de 2015, passa a vigorar acrescido das seguintes famílias:
+
+Sebastião Santana Vulnerabilidade
+
+Manhuaçu-MG . nos Socioeconômica
+
+CPF: 334,934.566-20
+
+Daniel Silva Barbosa Vulnerabilidade
+
+Manhuaçu-MG é ur Socioeconômica
+
+CPF: 149,217.686-92
+
+Micaelle Emanoelle Carvalho Candido Vulnerabilidade
+
+Manhuaçu-MG Ê as Socioeconômica
+
+Robson Florêncio Rodrigues São Pedro do Avaí - Vulnerabilidade
+
+**Art. 2º** As despesas resultantes desta lei serão suportadas pelas dotações consignadas no orçamento vigente,
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
+
+MARIA IMACULADA DUTRA DORNELAS
+
+sida eta se o, SST e cana = a
+
+Disponibilização: 07 de Fevereiro de 2023 www.manhuacu.mg.gov.br Publicação: 07 de Fevereiro de 2023

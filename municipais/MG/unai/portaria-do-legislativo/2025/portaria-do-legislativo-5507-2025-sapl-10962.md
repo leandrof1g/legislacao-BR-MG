@@ -1,0 +1,110 @@
+---
+titulo: " Portaria do Legislativo nº 5507, de 21/03/2025"
+tipo: " Portaria do Legislativo"
+tipo_na_fonte: " Portaria do Legislativo"
+numero: "5507"
+data: "2025-03-21"
+ementa: "Dispõe sobre a baixa de equipamentos do patrimônio da Câmara Municipal de Unaí (MG)."
+municipio: "Unaí"
+uf: "MG"
+codigo_ibge: "3170404"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.unai.mg.leg.br/norma/10962"
+fonte_texto: "https://sapl.unai.mg.leg.br/media/sapl/public/normajuridica/2025/10962/portaria5507.pdf"
+sha256_fonte: "1d81cfbfc02a2d60dbad9786fe0caf865d6aeb3b1e1468ae9de9f4de0bb796d1"
+baixado_em: "2026-10-27"
+---
+
+#  Portaria do Legislativo nº 5507, de 21/03/2025
+
+PORTARIA N.º 5.507, DE 21 DE MARÇO DE 2025.
+
+Dispõe sobre a baixa de equipamentos do patrimônio da Câmara Municipal de Unaí (MG).
+
+A PRESIDENTE DA CÂMARA MUNICIPAL DE UNAÍ, Estado de Minas Gerais, no uso da atribuição que lhe confere a alínea “v” do inciso I do artigo 80 da Resolução n.º 195, de 25 de novembro de 1992, c/c o disposto no artigo 22 da Lei Orgânica do Município,
+
+RESOLVE:
+
+**Art. 1º** Determinar que sejam baixados do patrimônio da Câmara Municipal os equipamentos constantes do anexo único desta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+Registre-se, publique-se, cumpra-se.
+
+Unaí, 21 de março de 2025; 81º da Instalação do Município.
+
+Pág.: 1 / 5 - ID. do Doc.: 346.7B7 - 21/03/2025 - 16:37:12 - ASSINADO POR(1): CPF:593.68\*.\*\*6-\*4 VEREADORA DORINHA MELGAÇO Presidente
+
+(Fls. 2 da Portaria n.º 5.507, de 21/3/2025)
+
+ANEXO ÚNICO A QUE SE REFERE O ARTIGO 1º DA PORTARIA N.º 5.507, DE 21 DE MARÇO DE 2025.
+
+ITEM QTDE DESCRIÇÃO N.º PATRIMÔNIO 01 01 MICROFONE DE MESA- PLENÁRIO 1426 02 01 MICROFONE DE MESA- PLENÁRIO 1435 03 01 DEGRAU DE MADEIRA 1752 04 01 IMPRESSORA MULTIFUNCIONAL HP 4680 1124 05 01 IMPRESSORA MULTIFUNCIONAL HP 4680 1125 06 01 IMPRESSORA MULTIFUNCIONAL HP 4680 1132 07 01 IMPRESSORA MULTIFUNCIONAL HP 4680 791 08 01 IMPRESSORA MULTIFUNCIONAL HP 4680 959 09 01 IMPRESSORA MULTIFUNCIONAL HP 4680 962 10 01 IMPRESSORA MULTIFUNCIONAL HP 4680 1000 11 01 IMPRESSORA MULTIFUNCIONAL HP 4680 1062 12 01 IMPRESSORA MULTIFUNCIONAL HP 4680 740
+
+13 01 IMPRESSORA MULTIFUNCIONAL HP 4680 741 14 01 IMPRESSORA MULTIFUNCIONAL HP 4680 742 15 01 IMPRESSORA MULTIFUNCIONAL HP 4680 743
+
+Pág.: 2 / 5 - ID. do Doc.: 346.7B7 - 21/03/2025 - 16:37:12 - ASSINADO POR(1): CPF:593.68\*.\*\*6-\*4 16 01 TECLADO USB 2085 17 01 TECLADO USB 2063 18 01 TECLADO USB 2064 19 01 TECLADO USB 2065 20 01 TECLADO USB 2066 21 01 TECLADO USB 2067 22 01 TECLADO USB 2068 23 01 TECLADO USB 2069 24 01 TECLADO USB 2070 25 01 TECLADO USB 2071 26 01 TECLADO USB 2072 27 01 TECLADO USB 2073 28 01 TECLADO USB 2074 29 01 TECLADO USB 2075 30 01 TECLADO USB 2076 31 01 TECLADO USB 2077 32 01 TECLADO USB 2078
+
+(Fls. 3 da Portaria n.º 5.507, de 21/3/2025)
+
+33 01 TECLADO USB 2079 34 01 TECLADO USB 2080 35 01 TECLADO USB 2081 36 01 TECLADO USB 2082 37 01 TECLADO USB 2083 38 01 TECLADO USB 2084 39 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 42 40 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 41 41 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 44 42 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 45 43 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 33 44 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 586 45 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 67 46 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 1999 47 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 2000 48 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 2002 49 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 2003 50 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 2005 51 01 LONGARINAS 3 LUGARES C/ BRAÇO -CORINO 598
+
+52 01 SOFÁ CROMADO 2 LUGARES COURVIM 283 53 01 FILMADORA DIGITAL AG/DVC 60P 926 54 01 CAMERA FOTOGRÁFICA SONY 927
+
+Pág.: 3 / 5 - ID. do Doc.: 346.7B7 - 21/03/2025 - 16:37:12 - ASSINADO POR(1): CPF:593.68\*.\*\*6-\*4 55 01 MINIGRAVADOR PANASONIC 1018 56 01 PROJETOR DE VÍDEO SONY 22OO LUMENS 1063 57 01 FILMADORA DIGITAL SONY SR 47 1083 58 01 COPIADORA SAMSUNG SCX 46.00 3X1 1140 59 01 COPIADORA SAMSUNG SCX 46.00 3X1 1143 60 01 COPIADORA SAMSUNG SCX 46.00 3X1 1144 61 01 COPIADORA SAMSUNG SCX 46.00 3X1 1145 62 01 IMPRESSORA LASER HP 2456 2130 63 01 IMPRESSORA EPSON L310 2914 64 01 IMPRESSORA HP 3516 1715 65 01 IMPRESSORA HP 3516 1710 66 01 IMPRESSORA HP 1516 2474 67 01 NOTEBOOK 947 68 01 NOTEBOOK 1077 69 01 NOTEBOOK 2539
+
+(Fls. 3 da Portaria n.º 5.507, de 21/3/2025)
+
+70 01 TELEFONE DIGITAL COM FONE 2147 71 01 TELEFONE DIGITAL COM FONE 2148 72 01 TELEFONE DIGITAL COM FONE 2149 73 01 TELEFONE DIGITAL COM FONE 2729 74 01 BANQUETA 650 75 01 BANQUETA 1820 76 01 BANQUETA 1821 77 01 ESTABILIZADOR DE ENERGIA 853 78 01 ESTABILIZADOR DE ENERGIA 972 79 01 ESTABILIZADOR DE ENERGIA 976 80 01 ESTABILIZADOR DE ENERGIA 979 81 01 ESTABILIZADOR DE ENERGIA 980 82 01 ESTABILIZADOR DE ENERGIA 708 83 01 ESTABILIZADOR DE ENERGIA 710 84 01 ESTABILIZADOR DE ENERGIA 711 85 01 ESTABILIZADOR DE ENERGIA 702 86 01 ESTABILIZADOR DE ENERGIA 703 87 01 ESTABILIZADOR DE ENERGIA 704 88 01 ESTABILIZADOR DE ENERGIA 705
+
+89 01 ESTABILIZADOR DE ENERGIA 706 90 01 KIT C/ DUAS CAIXAS DE SOM 899 91 01 PROJETOR VÍDEO 928
+
+Pág.: 4 / 5 - ID. do Doc.: 346.7B7 - 21/03/2025 - 16:37:12 - ASSINADO POR(1): CPF:593.68\*.\*\*6-\*4
+
+Assinatura do Documento
+
+Documento Assinado Eletronicamente por MARIA DAS DORES CAMPOS ABREU LOUSADO - PRESIDENTE - VEREADORA DORINHA MELGACO, CPF: 593.68\*.\*\*6-\*4 em 21/03/2025 16:38:00, Cód. Autenticidade da Assinatura: 1678.3438.300A.A877.7004, Com fundamento na Lei Nº 14.063, de 23 de Setembro de 2020.
+
+Informações do Documento ID do Documento: 346.7B7 - Tipo de Documento: PORTARIA - Nº 450/2025.
+
+Elaborado por SIRLEY MARIA DE FARIA, CPF: 442.44\*.\*\*6-\*3 , em 21/03/2025 - 16:37:12
+
+Código de Autenticidade deste Documento: 16W6.8E37.4127.E763.1018
+
+A autenticidade do documento pode ser conferida no site: https://zeropapel.unai.mg.leg.br/verdocumento
+
+Pág.: 5 / 5 - ID. do Doc.: 346.7B7 - 21/03/2025 - 16:37:12 - ASSINADO POR(1): CPF:593.68\*.\*\*6-\*4
+
+ERRATA
+
+A PRESIDENTE DA CÂMARA MUNICIPAL DE UNAÍ, Estado de Minas Gerais, no uso da atribuição que lhe confere a alínea “v” do inciso I do artigo 80 da Resolução n.º 195, de 25 de novembro de 1992, e considerando o erro de numeração da folha 4 da Portaria n.º 5.507, de 21 de março de 2025, resolve proceder a retificação, por intermédio da presente errata, da numeração grafada erroneamente:
+
+Na numeração da folha 4 da Portaria n.º 5.507, de 21 de março de 2025, onde se lê:
+
+“Fls. 3 da Portaria n.º 5.507, DE 21/3/2025.”
+
+Leia-se:
+
+“Fls. 4 da Portaria n.º 5.507, DE 21/3/2025.”
+
+Unaí, 21 de março de 2025; 81º da instalação do Município.
+
+VEREADORA DORINHA MELGAÇO Cod. de Autenticidade do Doc.: 1743.8440.151H.E71X.0843 - ZeroPapel - CAMARA MUNICIPAL DE UNAI - MG
+
+Presidente
+
+Pág.: 1 / 2 - ID. do Doc.: 347.08A - 21/03/2025 - 17:40:51 - ASSINADO POR(1): CPF:593.68\*.\*\*6-\*4
+
+Assinatura do Documento
+
+Documento Assinado Eletronicamente por MARIA DAS DORES CAMPOS ABREU LOUSADO - PRESIDENTE - VEREADORA DORINHA MELGACO, CPF: 593.68\*.\*\*6-\*4 em 21/03/2025 17:45:00, Cód. Autenticidade da Assinatura: 1727.8W45.800X.X15R.4536, Com fundamento na Lei Nº 14.063, de 23 de Setembro de 2020.
+
+Informações do Documento ID do Documento: 347.08A - Tipo de Documento: ERRATA.
+
+Elaborado por SIRLEY MARIA DE FARIA, CPF: 442.44\*.\*\*6-\*3 , em 21/03/2025 - 17:40:51
+
+Código de Autenticidade deste Documento: 1743.8440.151H.E71X.0843
+
+A autenticidade do documento pode ser conferida no site: https://zeropapel.unai.mg.leg.br/verdocumento Cod. de Autenticidade do Doc.: 1743.8440.151H.E71X.0843 - ZeroPapel - CAMARA MUNICIPAL DE UNAI - MG
+
+Pág.: 2 / 2 - ID. do Doc.: 347.08A - 21/03/2025 - 17:40:51 - ASSINADO POR(1): CPF:593.68\*.\*\*6-\*4

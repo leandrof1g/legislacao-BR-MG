@@ -434,7 +434,7 @@
    "sapl_manual": false
   },
   "3124104": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Esmeraldas",
    "normas_na_fonte": 0,
    "pasta": "esmeraldas",
@@ -947,7 +947,7 @@
    "sapl_manual": false
   },
   "3147105": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Pará de Minas",
    "normas_na_fonte": 3896,
    "pasta": "para-de-minas",
@@ -974,7 +974,7 @@
    "sapl_manual": false
   },
   "3148103": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Patrocínio",
    "normas_na_fonte": 3134,
    "pasta": "patrocinio",

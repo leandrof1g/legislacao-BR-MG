@@ -1,0 +1,56 @@
+---
+titulo: "Decreto Legislativo nº 611, de 21/11/2024"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "611"
+data: "2024-11-21"
+ementa: "Concede o Diploma de Mérito Desportivo ao Senhor Willian da Mota Fernandes."
+municipio: "Unaí"
+uf: "MG"
+codigo_ibge: "3170404"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.unai.mg.leg.br/norma/10769"
+fonte_texto: "https://sapl.unai.mg.leg.br/media/sapl/public/normajuridica/2024/10769/decretolegislativo611.pdf"
+sha256_fonte: "2b3163bc3bfdb0b8184a1178de5b6e2d5dc0983b84b713dd4cbb630b51219f35"
+baixado_em: "2026-10-27"
+---
+
+# Decreto Legislativo nº 611, de 21/11/2024
+
+CÂMARA MUNICIPAL DE UNAÍ - MG
+
+DECRETO LEGISLATIVO N.º 611, DE 21 DE NOVEMBRO DE 2024.
+
+Concede o Diploma de Mérito Desportivo ao Senhor Willian da Mota Fernandes.
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE UNAÍ, Estado de Minas Gerais, no uso da atribuição que lhe confere a alínea “d” do inciso I do artigo 80 da Resolução n.º 195, de 25 de novembro de 1992, faz saber que a Câmara Municipal de Unaí decreta e ele, em seu nome, promulga o seguinte Decreto Legislativo:
+
+**Art. 1º** Fica concedido o Diploma de Mérito Desportivo ao Senhor Willian da Mota Fernandes.
+
+**Art. 2º** Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+Unaí, 21 de novembro de 2024; 80º da Instalação do Município.
+
+Pág.: 1 / 2 - ID. do Doc.: 22C.186 - 21/11/2024 - 15:46:32 - ASSINADO POR(2): CPF:826.16\*.\*\*6-\*0 CPF:791.03\*.\*\*6-\*9
+
+VEREADOR PAULO ARARA Presidente
+
+VEREADOR VALDMIX SILVA 1º Secretário
+
+AV. JOSÉ LUIZ ADJUTO nº 117 - FONE: (38) 3677-0300 - CEP 38.610-066 – UNAÍ - MG HOME PAGE: http:// www.unai.mg.leg.br – E-MAIL: camara@unai.mg.leg.br
+
+Assinaturas do Documento
+
+Documento Assinado Eletronicamente por VALDIR PEREIRA DA SILVA - 1º SECRETÁRIO - VEREADOR VALDMIX SILVA, CPF: 826.16\*.\*\*6-\*0 em 21/11/2024 16:07:36, Cód. Autenticidade da Assinatura: 16V6.1Z07.2362.W812.2672, Com fundamento na Lei Nº 14.063, de 23 de Setembro de 2020.
+
+Documento Assinado Eletronicamente por PAULO JOSE DE ARAUJO - PRESIDENTE - VEREADOR PAULO ARARA, CPF: 791.03\*.\*\*6-\*9 em 21/11/2024 15:48:35, Cód. Autenticidade da Assinatura: 15U1.8848.435U.225Z.8211, Com fundamento na Lei Nº 14.063, de 23 de Setembro de 2020.
+
+Informações do Documento ID do Documento: 22C.186 - Tipo de Documento: DECRETO LEGISLATIVO - Nº 31/2024.
+
+Elaborado por SIRLEY MARIA DE FARIA, CPF: 442.44\*.\*\*6-\*3 , em 21/11/2024 - 15:46:32
+
+Código de Autenticidade deste Documento: 1525.6746.4327.9133.5825
+
+A autenticidade do documento pode ser conferida no site: https://zeropapel.unai.mg.leg.br/verdocumento
+
+Pág.: 2 / 2 - ID. do Doc.: 22C.186 - 21/11/2024 - 15:46:32 - ASSINADO POR(2): CPF:826.16\*.\*\*6-\*0 CPF:791.03\*.\*\*6-\*9

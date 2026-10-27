@@ -1,0 +1,74 @@
+---
+titulo: "Decreto nº 5657, de 04/02/2015"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto Executivo"
+numero: "5657"
+data: "2015-02-04"
+ementa: "ABRE CRÉDITOS SUPLEMENTARES"
+municipio: "Ubá"
+uf: "MG"
+codigo_ibge: "3169901"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.uba.mg.leg.br/norma/368"
+fonte_texto: "https://sapl.uba.mg.leg.br/media/sapl/public/normajuridica/2015/368/368_texto_integral.pdf"
+sha256_fonte: "c84768628fbaf8f0a80a310e7d6655638818f100e05be7d5af7b4493442d98a8"
+baixado_em: "2026-10-27"
+---
+
+# Decreto nº 5657, de 04/02/2015
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA MUNICIPAL DE UBÁ ESTADO DE MINAS GERAIS
+
+DECRETO Nº 5.657, de 04 de fevereiro de 2015. Abre Créditos Suplementares
+
+O Prefeito Municipal de Ubá, usando de suas atribuições legais e, devidamente autorizado pela Lei Municipal nº 4.255, de 19 de dezembro de 2015.
+
+DECRETA:
+
+**Art. 1º** - Ficam abertos às dotações do Orçamento vigente, os créditos suplementares abaixo discriminados sob as respectivas unidades orçamentárias no valor de R$ 2.602.784,00 ( Dois milhões seiscentos e dois mil e setecentos e oitenta e quatro reais ).
+
+02.02.01 04 122 1301 2.012 0057 3190 13 R$ 24.500,00 02.02.03 04 122 1301 2.014 0095 3390 30 R$ 10.000,00 02.05.01 06 181 1309 2.362 0277 3390 30 R$ 10.000,00 02.06.02 12 361 1303 2.173 0358 3390 30 R$ 7.000,00 02.06.02 12 361 1303 2.173 0359 3390 36 R$ 23.000,00 02.06.02 12 361 1303 2.173 0360 3390 39 R$ 13.300,00 02.06.03 12 306 1306 2.034 0380 3390 30 R$ 9.400,00 02.06.03 12 306 1303 2.036 0384 3390 39 R$ 7.300,00 02.06.03 12 362 1303 2,351 0399 3390 39 R$ 94.400,00 02,06.03 12 362 1303 2.351 0400 3390 39 R$ 310.000,00 02.06.03 12 365 1303 2.174 0401 3390 39 R$ 205.088,00 02.06.04 12 361 1303 2.223 0435 3390 30 R$ 20.000,00 02.06.06 27 812 1310 1.003 0554 4490 51 R$ 30.000,00 02.06.06 27 812 1310 2,051 0559 3390 32 R$ 7.500,00 02.07.01 10 122 1311 2,121 0650 3390 39 R$ 400.000,00 02.07.01 10301 1313 1.015 0706 4490 51 R$ 83.000,00 02.07.01 10 301 1313 2.078 0725 3390 36 R$ 128.000,00 02.07.01 10 301 1313 2.325 0769 3390 36 R$ 4.500,00 02.07.01 10 302 1314 2.090 0840 3393 39 R$ 2.100,00 02.07.01 10 302 1314 2.132 0885 3390 39 R$ 286.000,00 02.07.01 10 305 1316 2,130 0948 3390 36 R$ 4.300,00 02.08.02 15 451 1304 1.028 2008 4490 51 R$ 65.000,00 02.08.02 18 543 1307 1.055 2049 4490 51 R$ 88.000,00 02.08.02 18 543 1307 1.055 2050 4490 51 R$ 16.000,00 02.09.06 08 244 1309 2.203 2230 3390 36 R$ 4.428,00 02.09.06 08 244 1309 2,242 2248 3390 36 R$ 2.052,00 02.09.06 08 244 1309 2.246 2262 3390 36 R$ 55.280,00 02.09.06 08 244 1309 2.429 2278 3390 36 R$ 20.136,00 02.11.05 26 782 1304 2.269 2505 3390 39 R$ 672.500,00
+
+**Art. 2º** - Os créditos suplementares abertos pelo artigo anterior serão cobertos com recursos de anulações parciais de dotações do orçamento vigente, conforme abaixo
+
+se especificam: A
+
+02.02.01 02.02.02 02.02.03 02.05.02 02.06.02 02.06.02 02.06.02 02.06.04 02.06.04 02.06.05 02.06.06 02.06.06 02.07.01 02.07.01 02.07.01 02.08.02 02.08.02 02.08.02 02.09.06 02.09.06 02.11.03
+
+04 122 1301 04 122 1301 04 122 1301 04 121 1301 12 122 1303 12 362 1303 12 362 1303 12 361 1303 12 362 1303 12 361 1303 27 812 1310 27 812 1310 10 301 1313 10 302 1314 10 302 1314 15 451 1304 15 451 1304 18 541 1307 08 244 1309 08 244 1309 18 541 1307
+
+2.012 2.016 2.014 2.187 2.037 1,187 1.187 2.223 2.224 1.195 1,182 2,417 1,015 1.018 2.090 1,034 1,052 1.048 2.428 2.432 1.197
+
+0068 0079 0096 0308 0334 0364 0366 0437 0444 0497 0555 0571 0705 0808 0839 2011 2014 2048 2274 2286 2448
+
+3390 92 3390 39 3390 39 3390 39 3350 41 3390 30 4490 52 3390 34 3190 04 4490 51 4490 51 3390 46 4490 51 4490 51 3390 39 4490 51 4490 51 4490 51 3390 39 3390 30 4490 51
+
+R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+Ubá, MG, 04 de fevereiro de 2015.
+
+CEE.
+
+Edvaldo Baião Albino (Vadinho Baião) Prefeito de Ubá
+
+LO
+
+Secretário
+
+/
+
+/
+
+Pedro Raymundo nigipal de Finanças
+
+10.000,00 12.500,00 12.000,00 10.000,00
+
+289.488,00 15.000,00 15.000,00 20.000,00 30.000,00
+
+320.000,00 30.000,00
+
+7.500,00 83.000,00 822.800,00 2.100,00 88.000,00 65.000,00 16.000,00 52.896,00 29.000,00 672.500,00

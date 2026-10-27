@@ -1,0 +1,58 @@
+---
+titulo: "Resolução nº 113, de 20/08/2007"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "113"
+data: "2007-08-20"
+ementa: "CONCEDE O DIPLOMA 3ª IDADE EM AÇÃO À SRA. JANETE ALVES JUSTINO"
+municipio: "Lavras"
+uf: "MG"
+codigo_ibge: "3138203"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lavras.mg.leg.br/norma/1491"
+fonte_texto: "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2007/1491/1491_texto_integral.pdf"
+sha256_fonte: "30da9ac6a197d01e097ba51fc769f45124e0d1f7fb2053c0c2360864de2ad526"
+baixado_em: "2026-10-27"
+---
+
+# Resolução nº 113, de 20/08/2007
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE LAVRAS ESTADO DE MINAS GERAIS
+
+RESOLUÇÃO Nº 113/2007
+
+(Autoria do Vereador Sebastião dos Santos Vieira)
+
+CONCEDE O DIPLOMA 3º IDADE EM AÇÃO À SRA, JANETE ALVES JUSTINO.
+
+A Câmara Municipal de Lavras, por seus representantes legais aprovou, e eu, Presidente da Câmara, promulgo a seguinte Resolução:
+
+**Art. 1º** - Fica concedido o Diploma 3º Idade em Ação à Sra. Janete Alves
+
+Justino, pelos relevantes serviços prestados ao Município.
+
+**Art. 2º** - A entrega do Diploma será em sessão solene, em data a ser
+
+previamente marcada pela Câmara Municipal de Lavras.
+
+**Art. 3º** - Esta Resolução entrará em vigor na data de sua publicação.
+
+Plenário “Dr. Orlando Haddad”, 20 de agosto de 2007
+
+t
+
+Wiadimir Luz Andrade Jorge Silva de rade Zorkot Presidente 1º Setretário
+
+CÂMARA MUNICIPAL DE LAVRAS
+
+= PUBLICADO EM:
+
+HIDE SAO
+
+Abre bt CAMARA MUNICIPAL DE LAVRAS
+
+snes Ls DO SAGUÃO E ea j j Uri
+
+AN ts
