@@ -1,0 +1,42 @@
+---
+titulo: " Portaria do Legislativo nº 1587, de 13/04/2005"
+tipo: " Portaria do Legislativo"
+tipo_na_fonte: " Portaria do Legislativo"
+numero: "1587"
+data: "2005-04-13"
+ementa: "Dispõe sobre a nomeação de servidor para o cargo que especifica."
+municipio: "Unaí"
+uf: "MG"
+codigo_ibge: "3170404"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.unai.mg.leg.br/norma/1802"
+fonte_texto: "https://sapl.unai.mg.leg.br/media/sapl/public/normajuridica/2005/1802/1802_texto_integral.doc"
+sha256_fonte: "abc5cdaa6e1cd1291ed8b1cc261d9397905a8a4a7f5b12192c0052e256b56802"
+baixado_em: "2026-10-28"
+---
+
+#  Portaria do Legislativo nº 1587, de 13/04/2005
+
+PORTARIA N.º 1.587, DE 13 DE ABRIL DE 2005.
+
+|Dispõe sobre a nomeação de servidor para o cargo que especifica. |
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE UNAÍ, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 80, I, “h”, da Resolução n.º 195, de 25 de novembro de 1992, c/c a Lei n.º 2.283, de 13 de abril de 2005,
+
+RESOLVE:
+
+**Art. 1º** Nomear o Senhor Nelson Alves da Silva, portador do Documento de Identidade n.º M-4 004 465 SSP/MG, para o cargo de Assessor de Vereador, de livre nomeação e exoneração, com todas as atribuições, deveres e vantagens do cargo.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+Registre-se, publique-se, cumpra-se.
+
+Unaí, 13 de abril de 2005; 61º da Instalação do Município.
+
+VEREADOR JOSÉ INÁCIO
+
+Presidente
+
+ANTÔNIO MARTINS SOARES SOUTO
+
+Secretário Geral

@@ -1,0 +1,38 @@
+---
+titulo: "Lei Ordinária nº 3247, de 26/04/2006"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "LEI"
+numero: "3247"
+data: "2006-04-26"
+ementa: "DENOMINA A QUADRA POLIESPORTIVA JOSÉ CLÁUDIO COSTA PIMENTEL, NO BAIRRO SÃO FRANCISCO"
+municipio: "Muriaé"
+uf: "MG"
+codigo_ibge: "3143906"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.muriae.mg.leg.br/norma/1571"
+fonte_texto: "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2006/1571/1571_texto_integral.pdf"
+sha256_fonte: "23189769e0d6ae54de27d33177d5009438ca1b49a53972eb237eac121887ec2a"
+baixado_em: "2026-10-28"
+---
+
+# Lei Ordinária nº 3247, de 26/04/2006
+
+PREFEITURA MUNICIPAL DE MURIAÉ C.N.P.J. - 17.947.581/0001-76 GABINETE DO PREFEITO
+
+LEI Nº 3.247/ 2006
+
+“Dá denominação de Quadra Poliesportiva José Cláudio Costa Pimentel à quadra de esportes no Bairro São Francisco e dá outras providências”
+
+O Prefeito Municipal de Muriaé: Faço saber que a Câmara Municipal aprovou, e eu sanciono a seguinte lei:
+
+**Art. 1o** - Fica oficializada e denominada de Quadra Poliesportiva José Cláudio Costa Pimentel a quadra de esportes da Praça Deputado Walton Goulart, no Bairro São Francisco, neste Município.
+
+**Art. 2o** - O Poder Executivo fará a devida comunicação aos órgãos públicos, bem como mandará confeccionar e afixar as placas indicativas no referido local.
+
+**Art. 3o** - Esta lei entra em vigor na data de sua publicação
+
+MANDO, PORTANTO, a todas as autoridades a quem o conhecimento e execução desta Lei pertencer, que a cumpram e a façam cumprir, tão inteiramente como nela se contém.
+
+Muriaé, 26 de abril de 2006.
+
+JOSÉ BRAZ Prefeito Municipal de Muriaé

@@ -1,0 +1,568 @@
+---
+titulo: "Lei Ordinária nº 2981, de 18/06/2015"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "2981"
+data: "2015-06-18"
+ementa: "Reinstitui, regulamenta o funcionamento, os direitos, a composição e a organização do Conselho Tutelar do Município de Unaí, disciplina o processo de escolha dos conselheiros, inclusive regras de transição e adequação ao processo unificado, e dá outras providências."
+municipio: "Unaí"
+uf: "MG"
+codigo_ibge: "3170404"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.unai.mg.leg.br/norma/7300"
+fonte_texto: "https://sapl.unai.mg.leg.br/media/sapl/public/normajuridica/2015/7300/7300_texto_integral.pdf"
+sha256_fonte: "75d4eddd10dad971fbd08dd012c47891d931fa0e7c1fcb12a6d5b7b619a7ed48"
+baixado_em: "2026-10-28"
+---
+
+# Lei Ordinária nº 2981, de 18/06/2015
+
+LEI N.º 2.981, DE 18 DE JUNHO DE 2015.
+
+Reinstitui, regulamenta o funcionamento, os direitos, a composição e a organização do Conselho Tutelar do Município de Unaí, disciplina o processo de escolha dos conselheiros, inclusive regras de transição e adequação ao processo unificado, e dá outras providências.
+
+O PREFEITO DO MUNICÍPIO DE UNAÍ, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 96, inciso VII da Lei Orgânica do Município, faz saber que a Câmara Municipal de Unaí decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+#### CAPÍTULO I
+
+DISPOSIÇÃO PRELIMINAR
+
+**Art. 1º** Esta Lei reinstitui, regulamenta o funcionamento, os direitos, a composição e a organização do Conselho Tutelar do Município de Unaí e disciplina o processo de escolha dos conselheiros, inclusive regras de transição e adequação ao processo unificado, em conformidade com o disposto na Lei Federal n.° 8.069, de 13 de julho de 1990, com a nova redação dada pela Lei Federal n.° 12.696, de 25 de julho de 2012, e com as Resoluções n.°s 139, de 17 de março de 2010; 152, de 9 de agosto de 2012, e 170 de 10 de dezembro de 2014, ambas do Conselho Nacional dos Direitos da Criança e do Adolescente – Conanda –, reorganizando o colegiado disciplinado originalmente pela Lei n.° 1.438, de 16 de novembro de 1992.
+
+#### CAPÍTULO II
+
+DA NATUREZA E VINCULAÇÃO ADMINISTRATIVA DO CONSELHO TUTELAR
+
+**Art. 2º** Fica reinstituído o Conselho Tutelar como órgão colegiado municipal dos direitos da criança e adolescente e vincula-se, sob o prisma administrativo, à Secretaria Municipal do Desenvolvimento Social e Cidadania.
+
+#### CAPÍTULO III
+
+DA ÁREA DE ATUAÇÃO DO CONSELHO TUTELAR E DA NATUREZA DA FUNÇÃO DE CONSELHEIRO TUTELAR
+
+**Art. 3º** O Município de Unaí contará com, pelo menos, 1 (um) Conselho Tutelar.
+
+(Fls. 2 da Lei n.º 2.981, de 18/6/2015)
+
+**Art. 4°** O exercício efetivo da função de conselheiro constituirá serviço público relevante e estabelecerá presunção de idoneidade moral.
+
+#### CAPÍTULO IV
+
+DAS GARANTIAS ORÇAMENTÁRIAS
+
+**Art. 5°** O Município de Unaí estabelecerá dotação orçamentária específica para implantação, manutenção e funcionamento do Conselho Tutelar, bem como o custeio de atividades, preferencialmente, a partir de 2 (dois) exercícios financeiros seguintes ao ano de publicação desta Lei.
+
+**§ 1º** Para a finalidade do caput deste artigo devem ser consideradas as seguintes despesas:
+
+I – custeio com mobiliário, água, luz, telefone fixo e móvel, Internet, computadores, fax e outros;
+
+II – formação continuada para os membros do Conselho Tutelar;
+
+III – custeio de despesas dos conselheiros inerentes ao exercício de suas atribuições;
+
+IV – espaço adequado para a sede do Conselho Tutelar, seja por meio de aquisição, seja por locação, bem como sua manutenção; e
+
+V – transporte adequado, permanente e exclusivo para o exercício da função, incluindo sua manutenção e segurança da sede e de todo o seu patrimônio.
+
+**§ 2º** Cabe ao Poder Executivo dotar o Conselho Tutelar de equipe administrativa de apoio.
+
+**§ 3º** O Conselho Tutelar poderá requisitar serviços e assessoria nas áreas de educação, saúde, assistência social, dentre outras, com a devida urgência, de forma a atender ao disposto no artigo 4º, parágrafo único, e artigo 136, inciso III, alínea "a" da Lei Federal n.º 8.069, de 1990.
+
+**§ 4º** Fica vedado o uso dos recursos do Fundo Municipal dos Direitos da Criança e do Adolescente para os fins previstos neste artigo, exceto para a formação e a qualificação funcional dos conselheiros tutelares.
+
+(Fls. 3 da Lei n.º 2.981, de 18/6/2015)
+
+#### CAPÍTULO V
+
+DO PROCESSO DE ESCOLHA DOS CONSELHEIROS
+
+##### Seção I
+
+Disposições Preliminares
+
+**Art. 6º** O processo de escolha dos 5 (cinco) membros do Conselho Tutelar deverá, preferencialmente, observar as seguintes diretrizes:
+
+I – eleição, mediante sufrágio universal e direto, pelo voto facultativo e secreto dos eleitores do Município, em processo a ser regulamentado e conduzido pelo Conselho Municipal dos Direitos da Criança e do Adolescente;
+
+II – candidatura individual, não sendo admitida a composição de chapas; e
+
+III – fiscalização pelo Ministério Público.
+
+**Art. 7º** Os candidatos mais votados serão nomeados e empossados conselheiros tutelares titulares e os demais serão considerados suplentes, pela ordem decrescente de votação.
+
+**Art. 8°** O mandato dos conselheiros é de 4 (quatro) anos, permitida uma recondução, mediante novo processo de escolha.
+
+**Parágrafo único.** O conselheiro tutelar titular que tiver exercido o cargo por período consecutivo superior a um mandato e meio não poderá participar do processo de escolha subsequente.
+
+**Art. 9º** O processo de escolha dos membros do Conselho Tutelar ocorrerá em data unificada em todo o território nacional a cada 4 (quatro) anos, no primeiro domingo do mês de outubro do ano subsequente ao da eleição presidencial.
+
+**§ 1º** A posse dos conselheiros tutelares ocorrerá no dia 10 de janeiro do ano subsequente ao processo de escolha.
+
+**§ 2º** No processo de escolha dos membros do Conselho Tutelar é vedado ao candidato doar, oferecer, prometer ou entregar ao eleitor bem ou vantagem pessoal de qualquer natureza, inclusive brindes de pequeno valor.
+
+(Fls. 4 da Lei n.º 2.981, de 18/6/2015)
+
+##### Seção II
+
+Da Resolução Regulamentadora do Pleito
+
+**Art. 10.** Caberá ao Conselho Municipal dos Direitos da Criança e do Adolescente, com a antecedência devida, regulamentar o processo de escolha dos membros do Conselho Tutelar, mediante resolução específica, observadas as disposições contidas na Lei Federal n.º 8.069, de 1990, nesta Lei e nas resoluções oriundas do Conanda.
+
+**§ 1º** A resolução regulamentadora do processo de escolha deverá prever, dentre outras disposições:
+
+I – o calendário com as datas e os prazos para registro de candidaturas, impugnações, recursos e outras fases do certame, de forma que o processo de escolha se inicie no mínimo seis meses antes do término do mandato dos membros do Conselho Tutelar em exercício;
+
+II – a documentação a ser exigida dos candidatos, como forma de comprovar o preenchimento dos requisitos previstos no artigo 133 da Lei Federal n.° 8.069, de 1990;
+
+III – as regras de campanha, contendo as condutas permitidas e vedadas aos candidatos, com as respectivas sanções, inclusive a vedação expressa ao candidato de doar, oferecer, prometer ou entregar ao eleitor bem ou vantagem pessoal de qualquer natureza, inclusive brindes independentemente do valor, aplicando-se, no que couber, as vedações oriundas da legislação eleitoral em vigência; e
+
+IV – a criação e composição de comissão especial encarregada de realizar o processo de escolha.
+
+**§ 2º** A resolução regulamentadora do processo de escolha para o Conselho Tutelar não poderá estabelecer outros requisitos além daqueles exigidos dos candidatos pela Lei Federal n.° 8.069, de 1990, e por esta Lei.
+
+**§ 3º** A relação de condutas ilícitas e vedadas seguirá o disposto na legislação federal com a aplicação de sanções de modo a evitar o abuso do poder político, econômico, religioso, institucional e dos meios de comunicação, dentre outros.
+
+**§ 4º** Cabe ao Município o custeio de todas as despesas decorrentes do processo de escolha dos membros do Conselho Tutelar.
+
+**Art. 11.** Caberá ao Conselho Municipal dos Direitos da Criança e do Adolescente conferir ampla publicidade ao processo de escolha dos membros para o Conselho Tutelar, mediante
+
+(Fls. 5 da Lei n.º 2.981, de 18/6/2015)
+
+publicação de edital de convocação do pleito no Diário Oficial do Município, se houver, ou meio equivalente, afixação em locais de amplo acesso ao público, chamadas na rádio, jornais e outros meios de divulgação.
+
+**§ 1º** O edital conterá, dentre outros, os requisitos legais à candidatura, a relação de documentos a serem apresentados pelos candidatos, regras da campanha e o calendário de todas as fases do certame.
+
+**§ 2º** A divulgação do processo de escolha deverá ser acompanhada de informações sobre o papel do Conselho Tutelar e sobre a importância da participação de todos os cidadãos, na condição de candidatos ou eleitores, servindo de instrumento de mobilização popular em torno da causa da infância e da juventude, conforme dispõe o artigo 88, inciso VII da Lei Federal n.° 8.069, de 1990.
+
+**Art. 12.** Compete ao Conselho Municipal dos Direitos da Criança e do Adolescente tomar, com a antecedência devida, as seguintes providências para a realização do processo de escolha dos membros do Conselho Tutelar:
+
+I – obter junto à Justiça Eleitoral o empréstimo de urnas eletrônicas, bem como elaborar o software respectivo, observadas as disposições das resoluções aplicáveis expedidas pelo Tribunal Superior Eleitoral e Tribunal Regional Eleitoral de Minas Gerais;
+
+II – em caso de impossibilidade de obtenção de urnas eletrônicas, obter junto à Justiça Eleitoral o empréstimo de urnas comuns e o fornecimento das listas de eleitores a fim de que votação seja feita manualmente; e
+
+III – garantir o fácil acesso aos locais de votação, de modo que sejam aqueles onde se processe a eleição conduzida pela Justiça Eleitoral ou espaços públicos ou comunitários, observada a divisão territorial e administrativa do Conselho Tutelar.
+
+**Art. 13.** O Conselho Municipal dos Direitos da Criança e do Adolescente deverá delegar a uma Comissão Especial Eleitoral, de composição paritária entre conselheiros representantes do governo e da sociedade civil, a condução do processo de escolha dos membros do Conselho Tutelar local, observados os mesmos impedimentos legais previstos no artigo17 desta Lei.
+
+**§ 1º** A composição, assim como as atribuições da comissão referida no caput deste artigo, devem constar da resolução regulamentadora do processo de escolha.
+
+**§ 2º** A Comissão Especial Eleitoral ficará encarregada de analisar os pedidos de registro de candidatura e dar ampla publicidade à relação dos pretendentes inscritos, facultando a qualquer cidadão impugnar, no prazo de 5 (cinco) dias contados da publicação, candidatos que não
+
+(Fls. 6 da Lei n.º 2.981, de 18/6/2015)
+
+atendam os requisitos exigidos, indicando os elementos probatórios.
+
+**§ 3º** Diante da impugnação de candidatos ao Conselho Tutelar, em razão do não preenchimento dos requisitos legais ou da prática de condutas ilícitas ou vedadas, caberá à Comissão Especial Eleitoral:
+
+I – notificar os candidatos, concedendo-lhes prazo para apresentação de defesa; e
+
+II – realizar reunião para decidir acerca da impugnação da candidatura, podendo, se necessário, ouvir testemunhas eventualmente arroladas, determinar a juntada de documentos e a realização de outras diligências.
+
+**§ 4º** Das decisões da Comissão Especial Eleitoral caberá recurso à plenária do Conselho Municipal dos Direitos da Criança e do Adolescente, que se reunirá, em caráter extraordinário, para decisão com o máximo de celeridade.
+
+**§ 5º** Esgotada a fase recursal, a Comissão Especial Eleitoral fará publicar a relação dos candidatos habilitados, com cópia ao Ministério Público.
+
+**§ 6º** Cabe ainda à Comissão Especial Eleitoral:
+
+I – realizar reunião destinada a dar conhecimento formal das regras da campanha aos candidatos considerados habilitados ao pleito, que firmarão compromisso de respeitá-las, sob pena de imposição das sanções previstas na legislação de regência;
+
+II – estimular e facilitar o encaminhamento de notícias de fatos que constituam violação das regras de campanha por parte dos candidatos ou à sua ordem;
+
+III – analisar e decidir, em primeira instância administrativa, os pedidos de impugnação e outros incidentes ocorridos no dia da votação;
+
+IV – providenciar a confecção das cédulas de votação, conforme modelo a ser aprovado;
+
+V – escolher e divulgar os locais de votação;
+
+VI – selecionar, preferencialmente junto aos órgãos públicos municipais, os mesários e escrutinadores, bem como seus respectivos suplentes, que serão previamente orientados sobre como proceder no dia da votação, na forma da resolução regulamentadora do pleito;
+
+VII – solicitar, junto ao comando da Polícia Militar a designação de efetivo para
+
+(Fls. 7 da Lei n.º 2.981, de 18/6/2015)
+
+garantir a ordem e segurança dos locais de votação e apuração;
+
+VIII – divulgar, imediatamente após a apuração, o resultado oficial da votação; e
+
+IX – resolver os casos omissos.
+
+**§ 7º** O Ministério Público será pessoalmente notificado, com a antecedência devida, de todas as reuniões deliberativas realizadas pela Comissão Especial Eleitoral e pelo Conselho Municipal dos Direitos da Criança e do Adolescente, bem como de todas as decisões nelas proferidas e de todos os incidentes verificados no decorrer do certame.
+
+**Art. 14.** Para a candidatura a membro do Conselho Tutelar serão exigidos os critérios do artigo 133 da Lei Federal n.° 8.069, de 1990, além de outros requisitos expressos nesta Lei e na resolução regulamentadora do pleito.
+
+**§ 1º** Os requisitos adicionais devem ser compatíveis com as atribuições do Conselho Tutelar, observada a Lei Federal n.º 8.069, de1990, e a legislação municipal.
+
+**§ 2º** Dentre os requisitos adicionais para candidatura a membro do Conselho Tutelar a serem exigidos pela resolução regulamentadora do pleito, devem ser consideradas:
+
+I – a experiência na promoção, proteção e defesa dos direitos da criança e do adolescente; e
+
+II – comprovação de, no mínimo, conclusão de ensino médio.
+
+**§ 3º** Havendo previsão na resolução regulamentadora do pleito é admissível aplicação de prova de conhecimento sobre o direito da criança e do adolescente, de caráter eliminatório, a ser formulada por uma comissão examinadora designada pelo Conselho Municipal dos Direitos da Criança e do Adolescente, assegurado prazo para interposição de recurso junto à Comissão Especial Eleitoral, a partir da data da publicação dos resultados no Diário Oficial do Município, se houver, ou meio equivalente.
+
+**Art. 15.** O processo de escolha para o Conselho Tutelar ocorrerá com o número mínimo de 10 (dez) pretendentes devidamente habilitados.
+
+**§ 1º** Caso o número de pretendentes habilitados seja inferior a dez, o Conselho Municipal dos Direitos da Criança e do Adolescente poderá suspender o trâmite do processo de escolha e reabrir prazo para inscrição de novas candidaturas, sem prejuízo da garantia de posse dos novos conselheiros ao término do mandato em curso.
+
+(Fls. 8 da Lei n.º 2.981, de 18/6/2015)
+
+**§ 2º** Em qualquer caso, o Conselho Municipal dos Direitos da Criança e do Adolescente deverá envidar esforços para que o número de candidatos seja o maior possível, de modo a ampliar as opções de escolha pelos eleitores e obter um número maior de suplentes.
+
+**Art. 16.** A votação deverá ocorrer no dia previsto na resolução regulamentadora do processo de escolha publicado pelo Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+**Parágrafo único.** O resultado do processo de escolha dos membros do Conselho Tutelar deverá ser publicado no Diário Oficial do Município, se houver, ou meio equivalente, com a indicação do dia, hora e local da nomeação e posse dos conselheiros tutelares titulares e suplentes.
+
+**Art. 17.** São impedidos de servir no mesmo Conselho Tutelar os cônjuges, companheiros, ainda que em união homoafetiva, ou parentes em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive.
+
+**Parágrafo único.** Estende-se o impedimento do caput deste artigo ao conselheiro tutelar em relação à autoridade judiciária e ao representante do Ministério Público com atuação na Justiça da Infância e da Juventude da mesma comarca estadual.
+
+**Art. 18.** Ocorrendo vacância ou afastamento de quaisquer dos membros titulares do Conselho Tutelar, o Conselho Municipal dos Direitos da Criança e do Adolescente convocará o suplente para o preenchimento da vaga.
+
+**§ 1º** Os conselheiros tutelares suplentes serão convocados de acordo com a ordem de votação e receberão remuneração proporcional aos dias que atuarem no órgão, sem prejuízo da remuneração dos titulares quando em gozo de licenças e férias regulamentares.
+
+**§ 2º** No caso da inexistência de suplentes, caberá ao Conselho Municipal dos Direitos da Criança e do Adolescente realizar processo de escolha suplementar para o preenchimento das vagas.
+
+**§ 3º** A homologação da candidatura de membros do Conselho Tutelar a cargos eletivos deverá implicar a perda de mandato por incompatibilidade com o exercício da função, a ser prevista na resolução regulamentadora do pleito.
+
+##### Seção III
+
+Do Processo de Cassação e Vacância do Mandato
+
+**Art. 19.** A vacância da função de membro do Conselho Tutelar decorrerá de:
+
+(Fls. 9 da Lei n.º 2.981, de 18/6/2015)
+
+I – renúncia;
+
+II – posse e exercício em outro cargo, emprego ou função pública ou privada remunerada;
+
+III – aplicação de sanção administrativa de destituição da função;
+
+IV – falecimento; ou
+
+V – condenação por sentença transitada em julgado pela prática de crime que comprometa a sua idoneidade moral.
+
+**Art. 20.** Constituem penalidades administrativas passíveis de serem aplicadas aos membros do Conselho Tutelar:
+
+I – advertência;
+
+II – suspensão do exercício da função; e
+
+III – destituição da função.
+
+**Art. 21.** Na aplicação das penalidades administrativas, deverão ser consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem para a sociedade ou serviço público, os antecedentes no exercício da função, assim como as circunstâncias agravantes e atenuantes previstas no Código Penal.
+
+**Art. 22.** As penalidades de suspensão do exercício da função e de destituição do mandato poderão ser aplicadas ao Conselheiro Tutelar nos casos de descumprimento de suas atribuições, prática de crimes que comprometam sua idoneidade moral ou conduta incompatível com a confiança outorgada pela comunidade.
+
+**Parágrafo único.** De acordo com a gravidade da conduta ou para garantia da instrução do procedimento disciplinar, poderá ser determinado o afastamento liminar do Conselheiro Tutelar até a conclusão da investigação.
+
+**Art. 23.** Aplica-se, no que couber, ao regime disciplinar dos membros do Conselho Tutelar as normas aplicáveis à espécie previstas no Estatuto dos Servidores Públicos Municipais de Unaí.
+
+**§ 1º** As situações de afastamento ou cassação de mandato de Conselheiro Tutelar deverão ser precedidas de sindicância e processo administrativo, assegurando-se a imparcialidade
+
+(Fls. 10 da Lei n.º 2.981, de 18/6/2015)
+
+dos responsáveis pela apuração, e o direito ao contraditório e à ampla defesa.
+
+**§ 2º** Na omissão da legislação específica relativa ao Conselho Tutelar, a apuração das infrações éticas e disciplinares de seus integrantes utilizará como parâmetro o disposto na legislação local aplicável aos demais servidores públicos.
+
+**§ 3º** Na apuração das infrações pode ser prevista a participação de representantes do Conselho Tutelar e de outros órgãos que atuam na defesa dos direitos da criança e do adolescente.
+
+**Art. 24.** Havendo indícios da prática de crime por parte do Conselheiro Tutelar, o Conselho Municipal da Criança e do Adolescente ou o órgão responsável pela apuração da infração administrativa, comunicará o fato ao Ministério Público para adoção das medidas legais.
+
+#### CAPÍTULO VI
+
+DO FUNCIONAMENTO DO CONSELHO TUTELAR
+
+**Art. 25.** O Conselho Tutelar funcionará em local de fácil acesso, preferencialmente já constituído como referência de atendimento à população.
+
+**§ 1º** A sede do Conselho Tutelar deverá oferecer espaço físico e instalações que permitam o adequado desempenho das atribuições e competências dos conselheiros e o acolhimento digno ao público, contendo, no mínimo:
+
+I – placa indicativa da sede do Conselho;
+
+II – sala reservada para o atendimento e recepção ao público;
+
+III – sala reservada para o atendimento dos casos;
+
+IV – sala reservada para os serviços administrativos; e
+
+V – sala reservada para os conselheiros tutelares.
+
+**§ 2º** O número de salas deverá atender a demanda, de modo a possibilitar atendimentos simultâneos, evitando prejuízos à imagem e à intimidade das crianças e adolescentes atendidos.
+
+**Art. 26.** Observados os parâmetros e normas definidas pela Lei Federal n.° 8.069, de 1990, e por esta Lei e pela resolução regulamentadora do pleito, compete ao Conselho Tutelar a elaboração e aprovação do seu Regimento.
+
+(Fls. 11 da Lei n.º 2.981, de 18/6/2015)
+
+**§ 1º** A proposta do Regimento Interno deverá ser encaminhada ao Conselho Municipal dos Direitos da Criança e do Adolescente para apreciação, sendo lhes facultado o envio de propostas de alteração.
+
+**§ 2º** Uma vez aprovado, o Regimento Interno do Conselho Tutelar será publicado, afixado em local visível na sede do órgão e encaminhado ao Poder Judiciário e ao Ministério Público.
+
+**Art. 27.** O Conselho Tutelar estará aberto ao público, durante o horário comercial, de segunda a sexta-feira, sem prejuízo do atendimento em regime de plantão.
+
+**Art. 28.** Todos os membros do Conselho Tutelar serão submetidos à mesma carga horária semanal de trabalho, bem como aos mesmos períodos de plantão ou sobreaviso, sendo vedado qualquer tratamento desigual.
+
+**Parágrafo único.** O disposto no caput deste artigo não impede a divisão de tarefas entre os conselheiros, para fins de realização de diligências, atendimento descentralizado em comunidades distantes da sede, fiscalização de entidades, programas e outras atividades externas, sem prejuízo do caráter colegiado das decisões tomadas pelo Conselho.
+
+**Art. 29.** As decisões do Conselho Tutelar serão tomadas pelo seu colegiado, conforme dispuser o Regimento Interno.
+
+**§ 1°** As medidas de caráter emergencial, tomadas durante os plantões, serão comunicadas ao colegiado no primeiro dia útil subsequente, para ratificação ou retificação.
+
+**§ 2°** As decisões serão motivadas e comunicadas formalmente aos interessados, mediante documento escrito, no prazo máximo de 48h (quarenta e oito) horas, sem prejuízo de seu registro em arquivo próprio, na sede do Conselho.
+
+**§ 3°** Se não localizado, o interessado será intimado por meio de publicação do extrato da decisão na sede do Conselho Tutelar, admitindo-se outras formas de publicação, observadas os mesmos meios de publicação adotados pelo Município.
+
+**§ 4º** É garantido ao Ministério Público e à autoridade judiciária o acesso irrestrito aos registros do Conselho Tutelar, resguardado o sigilo perante terceiros.
+
+**§ 5º** Os demais interessados ou procuradores legalmente constituídos terão acesso às atas das sessões deliberativas e registros do Conselho Tutelar que lhes digam respeito, ressalvadas as informações que coloquem em risco a imagem ou a integridade física ou psíquica da criança ou adolescente, bem como a segurança de terceiros.
+
+(Fls. 12 da Lei n.º 2.981, de 18/6/2015)
+
+**§ 6º** Para os efeitos deste artigo, são considerados interessados os pais ou responsável legal da criança ou adolescente atendido, bem como os destinatários das medidas aplicadas e das requisições de serviço efetuadas.
+
+**Art. 30.** É vedado ao Conselho Tutelar executar serviços e programas de atendimento, os quais devem ser requisitados aos órgãos encarregados da execução de políticas públicas.
+
+**Art. 31.** Cabe ao Poder Executivo Municipal fornecer ao Conselho Tutelar os meios necessários para sistematização de informações relativas às demandas e deficiências na estrutura de atendimento à população de crianças e adolescentes, tendo como base o Sistema de Informação para a Infância e Adolescência – Sipia – ou sistema equivalente.
+
+**§ 1º** O Conselho Tutelar encaminhará relatório trimestral ao Conselho Municipal dos Direitos da Criança e Adolescente, ao Ministério Público e ao Juiz da Vara da Infância e da Juventude, contendo a síntese dos dados referentes ao exercício de suas atribuições, bem como as demandas e deficiências na implementação das políticas públicas, de modo que sejam definidas estratégias e deliberadas providências necessárias para solucionar os problemas existentes.
+
+**§ 2º** Cabe aos órgãos públicos responsáveis pelo atendimento de crianças e adolescentes, com atuação no Município, auxiliar o Conselho Tutelar na coleta de dados e no encaminhamento das informações relativas às demandas e deficiências das políticas públicas ao Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+**§ 3º** Cabe ao Conselho Municipal dos Direitos da Criança e do Adolescente a definição do plano de implantação do Sipia para o Conselho Tutelar.
+
+#### CAPÍTULO VII
+
+DA AUTONOMIA DO CONSELHO TUTELAR E SUA ARTICULAÇÃO COM OS DEMAIS ÓRGÃOS NA GARANTIA DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+**Art. 32.** A autoridade do Conselho Tutelar para tomar providências e aplicar medidas de proteção decorre da lei, sendo efetivada em nome da sociedade para que cesse a ameaça ou violação dos direitos da criança e do adolescente.
+
+**Art. 33.** O Conselho Tutelar exercerá, exclusivamente, as atribuições previstas no artigo 136 da Lei Federal n.º 8.069, de 1990, não podendo ser criadas novas atribuições por ato de quaisquer outras autoridades do Poder Judiciário, Ministério Público, do Poder Legislativo ou do Poder Executivo municipal ou estadual.
+
+(Fls. 13 da Lei n.º 2.981, de 18/6/2015)
+
+**Art. 34.** A atuação do Conselho Tutelar deve ser voltada à solução efetiva e definitiva dos casos atendidos, com o objetivo de desjudicializar, desburocratizar e agilizar o atendimento das crianças e dos adolescentes, ressalvado o disposto no artigo 136, inciso III, alínea “b” e nos incisos IV, V, X e XI do artigo 136 da Lei Federal n.° 8.069, de 1990.
+
+**Parágrafo único.** O caráter resolutivo da intervenção do Conselho Tutelar não impede que o Poder Judiciário seja informado das providências tomadas ou acionado, sempre que necessário.
+
+**Art. 35.** As decisões do Conselho Tutelar proferidas no âmbito de suas atribuições e obedecidas às formalidades legais têm eficácia plena e são passíveis de execução imediata.
+
+**§ 1º** Cabe ao destinatário da decisão, em caso de discordância, ou a qualquer interessado requerer ao Poder Judiciário sua revisão, na forma prevista pelo artigo 137 da Lei Federal n.° 8.069, de 1990.
+
+**§ 2º** Enquanto não suspensa ou revista pelo Poder Judiciário, a decisão proferida pelo Conselho Tutelar deve ser imediata e integralmente cumprida pelo seu destinatário, sob pena da prática da infração administrativa prevista no artigo 249 da Lei Federal n.° 8.069, de 1990.
+
+**Art. 36.** É vedado o exercício das atribuições inerentes ao Conselho Tutelar por pessoas estranhas ao órgão ou que não tenham sido escolhidas pela comunidade no processo democrático de que trata esta Lei, sendo nulos os atos por elas praticados.
+
+**Art. 37.** O Conselho Tutelar articulará ações para o estrito cumprimento de suas atribuições de modo a agilizar o atendimento junto aos órgãos governamentais e não governamentais encarregados da execução das políticas de atendimento de crianças, adolescentes e suas respectivas famílias.
+
+**Parágrafo único.** Articulação similar será também efetuada junto às Polícias Civil e Militar, Ministério Público, Judiciário e Conselho dos Direitos da Criança e do Adolescente, de modo que seu acionamento seja efetuado com o máximo de urgência, sempre que necessário.
+
+**Art. 38.** No exercício de suas atribuições, o Conselho Tutelar não se subordina ao Conselho Municipal dos Direitos da Criança e do Adolescente, com o qual deve manter uma relação de parceria, essencial ao trabalho conjunto dessas duas instâncias de promoção, proteção, defesa e garantia dos direitos das crianças e dos adolescentes.
+
+**§ 1º** Na hipótese de atentado à autonomia do Conselho Tutelar, deverá o órgão noticiar às autoridades responsáveis para apuração da conduta do agente violador para conhecimento e adoção das medidas cabíveis.
+
+(Fls. 14 da Lei n.º 2.981, de 18/6/2015)
+
+**§ 2º** O Conselho Municipal dos Direitos da Criança e do Adolescente também será comunicado na hipótese de atentado à autonomia do Conselho Tutelar para acompanhar a apuração dos fatos.
+
+**Art. 39.** O exercício da autonomia do Conselho Tutelar não isenta seu membro de responder pelas obrigações funcionais e administrativas junto ao órgão ao qual está vinculado, conforme previsão legal.
+
+#### CAPÍTULO VIII
+
+DOS PRINCÍPIOS E CAUTELAS A SEREM OBSERVADOS NO ATENDIMENTO PELO CONSELHO TUTELAR
+
+**Art. 40.** No exercício de suas atribuições, o Conselho Tutelar deverá observar as normas e princípios contidos na Constituição Federal, na Lei Federal n.° 8.069, de 1990, na Convenção das Nações Unidas sobre os Direitos da Criança, promulgada pelo Decreto Federal nº 99.710, de 21 de novembro de 1990, bem como nas Resoluções do Conanda, nesta Lei, e, especialmente:
+
+I – condição da criança e do adolescente como sujeitos de direitos;
+
+II – proteção integral e prioritária dos direitos da criança e do adolescente;
+
+III – responsabilidade da família, da comunidade da sociedade em geral, e do Poder Público pela plena efetivação dos direitos assegurados a crianças e adolescentes;
+
+IV – municipalização da política de atendimento à crianças e adolescentes;
+
+V – respeito à intimidade, e à imagem da criança e do adolescente;
+
+VI – intervenção precoce, logo que a situação de perigo seja conhecida;
+
+VII – intervenção mínima das autoridades e instituições na promoção e proteção dos direitos da criança e do adolescente;
+
+VIII – proporcionalidade e atualidade da intervenção tutelar;
+
+IX – intervenção tutelar que incentive a responsabilidade parental com a criança e o adolescente;
+
+X – prevalência das medidas que mantenham ou reintegrem a criança e o adolescente
+
+(Fls. 15 da Lei n.º 2.981, de 18/6/2015)
+
+na sua família natural ou extensa ou, se isto não for possível, em família substituta;
+
+XI – obrigatoriedade da informação à criança e ao adolescente, respeitada sua idade e capacidade de compreensão, assim como aos seus pais ou responsável, acerca dos seus direitos, dos motivos que determinaram a intervenção e da forma como se processa; e
+
+XII – oitiva obrigatória e participação da criança e o adolescente, em separado ou na companhia dos pais, responsável ou de pessoa por si indicada, nos atos e na definição da medida de promoção dos direitos e de proteção, de modo que sua opinião seja devidamente considerada pelo Conselho Tutelar.
+
+**Art. 41.** No caso de atendimento de crianças e adolescentes de comunidades remanescentes de quilombo e outras comunidades tradicionais, o Conselho Tutelar deverá:
+
+I – submeter o caso à análise de organizações sociais reconhecidas por essas comunidades, bem como a representantes de órgãos públicos especializados, quando couber; e
+
+II – considerar e respeitar, na aplicação das medidas de proteção, a identidade sociocultural, costumes, tradições e lideranças, bem como suas instituições, desde que não sejam incompatíveis com os direitos fundamentais reconhecidos pela Constituição e pela Lei n.° 8.069, de 1990.
+
+**Art. 42.** No exercício da atribuição prevista no artigo 95 da Lei Federal n.° 8.069, de 1990, constatando a existência de irregularidade na entidade fiscalizada ou no programa de atendimento executado, o Conselho Tutelar comunicará o fato ao Conselho Municipal dos Direitos da Criança e do Adolescente e ao Ministério Público, na forma do artigo 191 do referido diploma legal.
+
+**Art. 43.** Para o exercício de suas atribuições, o membro do Conselho Tutelar poderá ingressar e transitar livremente:
+
+I – nas salas de sessões do Conselho Municipal dos Direitos da Criança e do Adolescente;
+
+II – nas salas e dependências das delegacias e demais órgãos de segurança pública;
+
+III – nas entidades de atendimento nas quais se encontrem crianças e adolescentes; e
+
+IV – em qualquer recinto público ou privado no qual se encontrem crianças e adolescentes, ressalvada a garantia constitucional de inviolabilidade de domicílio.
+
+(Fls. 16 da Lei n.º 2.981, de 18/6/2015)
+
+**Parágrafo único.** Sempre que necessário o integrante do Conselho Tutelar poderá requisitar o auxílio dos órgãos locais de segurança pública, observados os princípios constitucionais da proteção integral e da prioridade absoluta à criança e ao adolescente.
+
+**Art. 44.** Em qualquer caso, deverá ser preservada a identidade da criança ou adolescente atendido pelo Conselho Tutelar.
+
+**§ 1º** O membro do Conselho Tutelar poderá se abster de pronunciar publicamente acerca dos casos atendidos pelo órgão.
+
+**§ 2º** O membro do Conselho Tutelar será responsável pelo uso indevido das informações e documentos que requisitar.
+
+**§ 3º** A responsabilidade pelo uso e divulgação indevidos de informações referentes ao atendimento de crianças e adolescentes se estende aos funcionários e auxiliares a disposição do Conselho Tutelar.
+
+**Art. 45.** As requisições efetuadas pelo Conselho Tutelar às autoridades, órgãos e entidades da Administração Pública Direta, Indireta ou Fundacional, dos Poderes Legislativo e Executivo Municipal serão cumpridas de forma gratuita e prioritária, respeitando-se os princípios da razoabilidade e legalidade.
+
+#### CAPÍTULO IX
+
+DA FUNÇÃO, QUALIFICAÇÃO E DIREITOS DOS MEMBROS DO CONSELHO TUTELAR.
+
+**Art. 46.** A função de membro do Conselho Tutelar exige dedicação exclusiva, vedado o exercício concomitante de qualquer outra atividade pública ou privada.
+
+**Art. 47.** A remuneração dos membros do Conselho Tutelar, correspondente a 1/3 (um terço) do subsídio percebido, em espécie, pelos Secretários Municipais, será devida pelo comparecimento às reuniões e ainda pelo exercício das funções administrativas e executivas previstas nesta Lei.
+
+**§ 1º** Além da remuneração, os conselheiros tutelares farão jus ao gozo de férias anuais remuneradas, acrescidas do adicional de férias de 1/3 (um terço) e à percepção de gratificação natalina, correspondente à remuneração a que fizerem jus no mês de dezembro.
+
+**§ 2º** A remuneração do conselheiro tutelar não gera relação de emprego com o Município, nem o vincula ao regime jurídico contido no Estatuto dos Servidores Públicos Municipais.
+
+(Fls. 17 da Lei n.º 2.981, de 18/6/2015)
+
+**§ 3º** O agente político e o servidor público eleitos para o exercício do mandato de conselheiro tutelar deverão, no ato de sua posse, optar pela remuneração de apenas um dos cargos.
+
+**Art. 48.** Além da remuneração, do gozo anual de férias acrescidas de 1/3 e da gratificação natalina, o conselheiro tutelar terá direito à cobertura previdenciária pelo Regime Geral de Previdência Social, licença-maternidade e licença-paternidade.
+
+#### CAPÍTULO X
+
+DOS DEVERES E VEDAÇÕES DOS MEMBROS DO CONSELHO TUTELAR
+
+**Art. 49.** São deveres dos membros do Conselho Tutelar:
+
+I – manter conduta pública e particular ilibada;
+
+II – zelar pelo prestígio da instituição;
+
+III – indicar os fundamentos de seus pronunciamentos administrativos, submetendo sua manifestação à deliberação do colegiado;
+
+IV – obedecer aos prazos regimentais para suas manifestações e exercício das demais atribuições;
+
+V – comparecer às sessões deliberativas do Conselho Tutelar e do Conselho Municipal dos Direitos da Criança e do Adolescente, conforme dispuser o Regimento Interno;
+
+VI – desempenhar suas funções com zelo, presteza e dedicação;
+
+VII – declarar-se suspeito ou impedido, nos termos desta Lei;
+
+VIII – adotar, nos limites de suas atribuições, as medidas cabíveis em face de irregularidade no atendimento a crianças, adolescentes e famílias;
+
+IX – tratar com urbanidade os interessados, testemunhas, funcionários e auxiliares do Conselho Tutelar e dos demais integrantes de órgãos de defesa dos direitos da criança e do adolescente;
+
+X – residir no Município;
+
+XI – prestar as informações solicitadas pelas autoridades públicas e pelas pessoas que tenham legítimo interesse ou seus procuradores legalmente constituídos;
+
+(Fls. 18 da Lei n.º 2.981, de 18/6/2015)
+
+XII – identificar-se em suas manifestações funcionais; e
+
+XIII – atender aos interessados, a qualquer momento, nos casos urgentes.
+
+**Parágrafo único.** Em qualquer caso, a atuação do membro do Conselho Tutelar será voltada à defesa dos direitos fundamentais das crianças e adolescentes, cabendo-lhe, com o apoio do colegiado, tomar as medidas necessárias à proteção integral que lhes é devida.
+
+**Art. 50.** É vedado aos membros do Conselho Tutelar:
+
+I – receber, a qualquer título e sob qualquer pretexto, vantagem pessoal de qualquer natureza;
+
+II – exercer atividade no expediente fixado nesta Lei para o funcionamento do Conselho Tutelar;
+
+III – utilizar-se do Conselho Tutelar para o exercício de propaganda e atividade político-partidária;
+
+IV – ausentar-se da sede do Conselho Tutelar durante o expediente, salvo quando em diligências ou por necessidade do serviço;
+
+V – opor resistência injustificada ao andamento do serviço;
+
+VI – delegar a pessoa que não seja membro do Conselho Tutelar o desempenho da atribuição que seja de sua responsabilidade;
+
+VII – valer-se da função para lograr proveito pessoal ou de outrem;
+
+VIII – receber comissões, presentes ou vantagens de qualquer espécie, em razão de suas atribuições;
+
+IX – proceder de forma desidiosa;
+
+X – exercer quaisquer atividades que sejam incompatíveis com o exercício da função e com o horário de trabalho;
+
+XI – exceder no exercício da função, abusando de suas atribuições específicas, nos termos previstos na Lei Federal n.º 4.898, de 9 de dezembro de 1965;
+
+XII – deixar de submeter ao Colegiado as decisões individuais referentes a aplicação
+
+(Fls. 19 da Lei n.º 2.981, de 18/6/2015)
+
+de medidas protetivas a crianças, adolescentes, pais ou responsáveis previstas nos artigos 101 e 129 da Lei Federal n.° 8.069, de 1990; e
+
+XIII – descumprir os deveres funcionais mencionados nesta Lei relativa ao Conselho Tutelar.
+
+**Art. 51.** O membro do Conselho Tutelar será declarado impedido de analisar o caso quando:
+
+I – a situação atendida envolver cônjuge, companheiro ou parentes em linha reta colateral ou por afinidade, até o terceiro grau, inclusive;
+
+II – for amigo íntimo ou inimigo capital de qualquer dos interessados;
+
+III – algum dos interessados for credor ou devedor do membro do Conselho Tutelar, de seu cônjuge, companheiro, ainda que em união homoafetiva, ou parentes em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive; ou
+
+IV – tiver interesse na solução do caso em favor de um dos interessados.
+
+**§ 1º** O membro do Conselho Tutelar também poderá declarar suspeição por motivo de foro íntimo.
+
+**§ 2º** O interessado poderá requerer ao Colegiado o afastamento do membro do Conselho Tutelar que considere impedido, nas hipóteses desse artigo.
+
+#### CAPÍTULO XI
+
+DISPOSIÇÕES TRANSITÓRIAS
+
+**Art. 52.** O primeiro processo de escolha unificado de conselheiros tutelares em todo território nacional dar-se-á no dia 4 de outubro de 2015, com posse e exercício no dia 10 de janeiro de 2016, em conformidade com o disposto na Resolução n.° 152, de 2012, do Conanda.
+
+#### CAPÍTULO XII
+
+DISPOSIÇÕES FINAIS
+
+**Art. 53.** O Conselho Municipal dos Direitos da Criança e do Adolescente, com apoio dos Conselhos Estaduais dos Direitos da Criança e do Adolescente e do Conanda, deverá estabelecer, em conjunto com o Conselho Tutelar, uma política de qualificação profissional
+
+(Fls. 20 da Lei n.º 2.981, de 18/6/2015)
+
+permanente dos seus membros, voltada à correta identificação e atendimento das demandas inerentes ao órgão.
+
+**Parágrafo único.** A política referida no caput deste artigo compreende o estímulo e o fornecimento dos meios necessários para adequada formação e atualização funcional dos membros do Conselho e seus suplentes, o que inclui, dentre outros, a disponibilização de material informativo, realização de encontros com profissionais que atuam na área da infância e juventude e patrocínio de cursos e palestras sobre o tema.
+
+**Art. 54.** Qualquer cidadão, o Conselho Tutelar e o Conselho Municipal dos Direitos da Criança e do Adolescente é parte legítima para requerer aos Poderes Executivo e Legislativo, assim como ao Tribunal de Contas competente e ao Ministério Público, a apuração do descumprimento das normas de garantia dos direitos das crianças e adolescentes, especialmente as contidas na Lei Federal n.º 8.069, de1990, e nesta Lei, bem como requerer a implementação desses atos normativos por meio de medidas administrativas e judiciais.
+
+**Art. 55.** As deliberações do Conanda, no seu âmbito de competência para elaborar as normas gerais da política nacional de atendimento dos direitos da criança e do adolescente, são vinculantes e obrigatórias para a Administração Pública, respeitando-se os princípios constitucionais da prevenção, prioridade absoluta, razoabilidade e legalidade.
+
+**Art. 56.** O Conselho Municipal dos Direitos da Criança e do Adolescente, em conjunto com o Conselho Tutelar, deverá promover ampla e permanente mobilização da sociedade acerca da importância e do papel do Conselho Tutelar.
+
+**Art. 57.** Para a criação, composição e funcionamento do Conselho Tutelar deverão ser observadas as diversidades étnicas e culturais do País, considerando as demandas das comunidades remanescentes de quilombo e outras comunidades tradicionais.
+
+**Art. 58.** Esta Lei entra em vigor em vigor na data de sua publicação.
+
+**Art. 59.** Ficam revogados os artigos 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51 e 52, com seus respectivos desdobramentos, da Lei n.° 1.438, de 16 de novembro de 1992.
+
+Unaí, 18 de junho de 2015; 71º da Instalação do Município.
+
+(Fls. 21 da Lei n.º 2.981, de 18/6/2015)
+
+DELVITO ALVES DA SILVA FILHO Prefeito

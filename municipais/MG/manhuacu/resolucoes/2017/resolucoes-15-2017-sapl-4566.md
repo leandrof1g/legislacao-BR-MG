@@ -1,0 +1,58 @@
+---
+titulo: "Resolução nº 15, de 06/08/2017"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "15"
+data: "2017-08-06"
+ementa: "Concede Diploma de Honra ao Mérito aos Policiais Civis que menciona e dá outras providências."
+municipio: "Manhuaçu"
+uf: "MG"
+codigo_ibge: "3139409"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhuacu.mg.leg.br/norma/4566"
+fonte_texto: "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2017/4566/resolucao_no_15.pdf"
+sha256_fonte: "f38aa536be29ef38e0d68f3e12b32e7fbc3619106d90943b0b71a80fd2300f93"
+baixado_em: "2026-10-28"
+---
+
+# Resolução nº 15, de 06/08/2017
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Lei provincial nº 2.407, de 05/11/1877 - Árca 628,43 km? - Altitude 612 metros Rua Hilda Vargas Leitão, 141 - Ala Sul - CEP 36900-000 - Tebolorm. (33) 3331-1740
+
+RESOLUÇÃO Nº 15/2017
+
+Concede o Diploma de Honra dos Policiais Civis que menciona e dé outras providências,
+
+A CÂMARA MUNICIPAL DE MANHUAÇU, Estado de Minas Crerais APROVOU e eu, Jorge Augusto Pereira, Presidente, PROMULGO a seguinte RESOLUÇÃO,
+
+**Art. 1º.** Fica concedido o Diploma de Honra aos Policiais Civis constantes do Anexo Unico desta Resolução.
+
+**Art. 2º.** Revogam-se as disposições em contrário.
+
+**Art. 3º.** Esta Resolução entra em vigor na data de sua publicação.
+
+Plenário, em 0% de agosto de 2017,
+
+E” “Am
+
+“is A ilgnaio er ua V
+
+Cléres Eloi
+
+resicden residente
+
+José Eugen
+
+Is
+
+Araúpo Permeiea :retário
+
+Lei provincial nº 2.407, de 05/11/1877 - Área 628,42 km? - Aliitude 612 metros Rua Hilda vargas Leitão, 141 Alfa Sul CEP 35900-000 - Tulafone: (33) 2331-1740
+
+RESOLUÇÃO Nº IS/Z017
+
+ANEXO ÚNICO - - eira ET : mepreoies perr TI so o sassE E] E om CARLOS RORERFOSCAMADA SILVA DELEGADO do MA DAME -MANHUMÇ LIRA ADM SISEIRO E CC verso | Ee DRPÇ-MANHUAÇI à DR GUILHERME MARIANO € CDELHO = DELEGADO | PE DRPÉ MANHUAÇU 4 E PELO DE CRLLAS CALDAS o UIEGADO | LI DPL. ABRE CAMP 4, fuma PAULA PRIMO OMILAL rs EA DPLECALHA jam giPe: - MSPERA PELIE E REINALDO DE E LUG SUNCHRMSLIES — 1 ABEPETOR EM GEM - PALHAÇO FABIANO SATHIFR NOS Em | INVESTIGADOR | E DAP - NULNHLRAÇIO | Hj CERBAANCHO RARE IRO CIA SENA, | I INMESTIGADOR | GA DAPC MANHUAÇU 4 ABRO INTIFE JERBA SAVE THAN A Ea PRI PAL a Li ao MMENDEL DEMARGLIE FERPIAMIES A AANESTIGABOA ps EM DPL - PAANHU Me LI 5 DHÍGEMES AM TONHE PERTIRA HEIHEIRA | NM LETIGADOR SP RPE MANHURÇO! 12 | RAFAEL JOSÉ NOSSEIRA Al REAR E | INVESTIGADOR | 4º DARE PAPIRO | 220 MAMNIELA MALIBOIS PELNOCIEA | INVESTIGADOR | GA REL MASHUAÇU | q CPE EM SN POIS VERAS DANE HI CARS TGADOR Boa DRE MAMA ÇÃ 15, AMZ HENPIOUE FIRREIRASEIRERT | INVESTIGADOR | GAOAPE MANHUAÇU [E MATHEUS GISBRECHT BORELHO O | ESDIGADOR | GP DRPE - MAMMUAÇU 1 L$ BMIRIEL MLIRFLLA GORE CANVESTIGADOR | EM CHAR - MARBALIAÇÕ | 164 THIAGO TEMAS CAM INVESTIGADOR | 68 DIRAPE - MAMLAÇO ao HOR ALRROS ABA TIPS IRES CARA NAM AA LI | 2 AUICAS FCLOCCASPAR : E | tsenvão | EM BRPE-MANHUMÇU ] 71 MOSÉ GOUNEA TEREM MÚMOR | PERTO | ORPL MANHUAÇU A FS ALAN SLNASIRER COSTA Po pemTO À E 5º DRPE - MANHLLAÇU 2% ADE LLADVES LARA [PERTO | AE DARE MAMALIAÇI 24 iG PÁIVA REAMARDES (o MEMO 4 EM CRE « MABHLIA LI 25 TADEU DE QUIVELRA COSTA CO ( INMESGADOR | JMMDAC-ABRECANEO 26 TIAGO SAMU) PARDEM ALVES O A ANVESTIGABOR | SIDAC ABRECATO 27) LUME MEMRICUE PACLIMELE| GANEEHA | onvEsTIGADOS | SADC AEE CAMP sm JORDANA PATR | PEREIRA 5 DL PAIVA o ESCAMAS NUM DRE MRE ADO eo [EnemGDMORÇA o (MEENADOR NRAÇRE - MATIPO | 35 ALEX HENRRIS BARBOSA DA LOGTA | MNESTGADOR | qo" DEC MATO a 31 RAFAELA LOBFS MENEZES DE AZEVEDO ovesmoaçor | aMIPE-MANRÓ | 12 MARLENE PARECIDA ONELAMA SIS VOA ESCANDO | AD LIDE MATIPOS 43 ESOM TREDMAS EMALAST | AMVESTIGADOS, | ER NANA LM PRGRRADIA ! 34 GLMICIRAS poRGES GP no | MES THGADOA Ad? PE LSPTRA FEL 25 WUILSOM JOSÉ DE uma ie SI Bro E mm 36 EMANÇRO MLMPIDA FERREIRA A InMESTIGADOR | SMDPL ESPERAR | AAA EP 1 PE OR | MANEEGADOR | E a a SR vt NAT ati COLE RODRIGUES DUO ShneNETo CAES TA EM ERRL = pa 9 FARO BORGES BOMFIM no INCESTIGADIA 33 PE -MAMHUMIRA | 2 “Lung LAMIOS CETIM E DE ALVARENGA FILHO INVTSTIGADDR DO PRDTG-NDA ] aq! ROBERTO TAIRA DE QLIVENRA O ANNESTNGADOR O PATO NDA | AM VILA MACIEL EM MEM IME, A CANMESTIGADOR | LEGIPLILAN TE - MODA |
+
+à EAIERSOR JISE DIOGO + ANN LSTUGANCH | TRIPLN AgRE IA

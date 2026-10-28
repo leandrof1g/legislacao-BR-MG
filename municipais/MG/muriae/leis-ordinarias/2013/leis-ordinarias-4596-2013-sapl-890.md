@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 4596, de 19/08/2013"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "LEI"
+numero: "4596"
+data: "2013-08-19"
+ementa: "COMENDA MARTINS DA COSTA A VANDER GONÇALVES DE OLIVEIRA"
+municipio: "Muriaé"
+uf: "MG"
+codigo_ibge: "3143906"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.muriae.mg.leg.br/norma/890"
+fonte_texto: "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2013/890/890_texto_integral.pdf"
+sha256_fonte: "1093ccf7e0b14e42c267a0de3fb775ade6018e6e609a1a86df7b3d8164e6e943"
+baixado_em: "2026-10-28"
+---
+
+# Lei Ordinária nº 4596, de 19/08/2013
+
+LEI No 4.596 / 2013
+
+“Dispõe sobre outorga da Comenda Martins da Costa”
+
+O Prefeito Municipal de Muriaé: Faço saber que a Câmara Municipal aprovou e eu sanciono seguinte lei:
+
+**Art. 1º** - Fica outorgada a Comenda Martins da Costa a VANDER GONÇALVES DE OLIVEIRA.
+
+**Art. 2º** - A medalha alusiva ao título de que trata esta lei será entregue ao agraciado em sessão solene do Poder Legislativo Municipal, no Dia do Muriaeense.
+
+**Art. 3º** - Esta Lei entra em vigor na data de sua publicação.
+
+MANDO, PORTANTO, a todos as autoridades a quem o conhecimento de execução desta Lei pertencer, que a cumpram e a façam cumprir tão inteiramente como nela se contém.
+
+Muriaé, 19 de agosto de 2013.
+
+ALOYSIO NAVARRO AQUINO Prefeito Municipal de Muriaé

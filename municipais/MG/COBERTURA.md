@@ -23,7 +23,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Pouso Alegre | 152.217 | **sem fonte automática** | 0 | — |
 | Teófilo Otoni | 137.418 | SAPL ([sapl.teofilootoni.mg.leg.br](https://sapl.teofilootoni.mg.leg.br)) | 9433 | completa |
 | Varginha | 136.467 | SAPL ([sapl.varginha.mg.leg.br](https://sapl.varginha.mg.leg.br)) | 6738 | completa |
-| Conselheiro Lafaiete | 131.621 | SAPL ([sapl.conselheirolafaiete.mg.leg.br](https://sapl.conselheirolafaiete.mg.leg.br)) | 7134 | em andamento |
+| Conselheiro Lafaiete | 131.621 | SAPL ([sapl.conselheirolafaiete.mg.leg.br](https://sapl.conselheirolafaiete.mg.leg.br)) | 8342 | completa |
 | Sabará | 129.380 | SAPL ([sapl.sabara.mg.leg.br](https://sapl.sabara.mg.leg.br)) | 0 | completa |
 | Vespasiano | 129.246 | **sem fonte automática** | 0 | — |
 | Barbacena | 125.317 | **sem fonte automática** | 0 | — |
@@ -33,33 +33,33 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Nova Lima | 111.697 | SAPL ([sapl.novalima.mg.leg.br](https://sapl.novalima.mg.leg.br)) | 26 | completa |
 | Araxá | 111.691 | SAPL ([sapl.araxa.mg.leg.br](https://sapl.araxa.mg.leg.br)) | 9576 | completa |
 | Nova Serrana | 105.552 | SAPL ([sapl.novaserrana.mg.leg.br](https://sapl.novaserrana.mg.leg.br)) | 0 | completa |
-| Lavras | 104.761 | SAPL ([sapl.lavras.mg.leg.br](https://sapl.lavras.mg.leg.br)) | 4709 | em andamento |
+| Lavras | 104.761 | SAPL ([sapl.lavras.mg.leg.br](https://sapl.lavras.mg.leg.br)) | 5623 | em andamento |
 | Coronel Fabriciano | 104.736 | SAPL ([sapl.coronelfabriciano.mg.leg.br](https://sapl.coronelfabriciano.mg.leg.br)) | 4028 | completa |
-| Muriaé | 104.108 | SAPL ([sapl.muriae.mg.leg.br](https://sapl.muriae.mg.leg.br)) | 4061 | em andamento |
-| Ubá | 103.365 | SAPL ([sapl.uba.mg.leg.br](https://sapl.uba.mg.leg.br)) | 2642 | em andamento |
+| Muriaé | 104.108 | SAPL ([sapl.muriae.mg.leg.br](https://sapl.muriae.mg.leg.br)) | 6728 | em andamento |
+| Ubá | 103.365 | SAPL ([sapl.uba.mg.leg.br](https://sapl.uba.mg.leg.br)) | 5723 | completa |
 | Ituiutaba | 102.217 | **sem fonte automática** | 0 | — |
-| Itaúna | 97.669 | SAPL ([sapl.itauna.mg.leg.br](https://sapl.itauna.mg.leg.br)) | 3598 | em andamento |
+| Itaúna | 97.669 | SAPL ([sapl.itauna.mg.leg.br](https://sapl.itauna.mg.leg.br)) | 7145 | completa |
 | Pará de Minas | 97.139 | SAPL ([sapl.parademinas.mg.leg.br](https://sapl.parademinas.mg.leg.br)) | 3603 | completa |
 | Paracatu | 94.023 | **sem fonte automática** | 0 | — |
 | Itajubá | 93.073 | **sem fonte automática** | 0 | — |
-| Manhuaçu | 91.886 | SAPL ([sapl.manhuacu.mg.leg.br](https://sapl.manhuacu.mg.leg.br)) | 1156 | em andamento |
+| Manhuaçu | 91.886 | SAPL ([sapl.manhuacu.mg.leg.br](https://sapl.manhuacu.mg.leg.br)) | 2605 | em andamento |
 | São João del Rei | 90.225 | **sem fonte automática** | 0 | — |
 | Patrocínio | 89.826 | SAPL ([sapl.patrocinio.mg.leg.br](https://sapl.patrocinio.mg.leg.br)) | 3069 | completa |
 | Caratinga | 87.360 | **sem fonte automática** | 0 | — |
-| Unaí | 86.619 | SAPL ([sapl.unai.mg.leg.br](https://sapl.unai.mg.leg.br)) | 1794 | em andamento |
+| Unaí | 86.619 | SAPL ([sapl.unai.mg.leg.br](https://sapl.unai.mg.leg.br)) | 8478 | em andamento |
 | Esmeraldas | 85.598 | SAPL ([sapl.esmeraldas.mg.leg.br](https://sapl.esmeraldas.mg.leg.br)) | 0 | completa |
-| Timóteo | 81.579 | SAPL ([sapl.timoteo.mg.leg.br](https://sapl.timoteo.mg.leg.br)) | 1565 | em andamento |
+| Timóteo | 81.579 | SAPL ([sapl.timoteo.mg.leg.br](https://sapl.timoteo.mg.leg.br)) | 4814 | em andamento |
 | Curvelo | 80.665 | **sem fonte automática** | 0 | — |
-| João Monlevade | 80.187 | SAPL ([sapl.joaomonlevade.mg.leg.br](https://sapl.joaomonlevade.mg.leg.br)) | 0 | em andamento |
-| Alfenas | 78.970 | SAPL ([sapl.alfenas.mg.leg.br](https://sapl.alfenas.mg.leg.br)) | 4 | em andamento |
+| João Monlevade | 80.187 | SAPL ([sapl.joaomonlevade.mg.leg.br](https://sapl.joaomonlevade.mg.leg.br)) | 6 | completa |
+| Alfenas | 78.970 | SAPL ([sapl.alfenas.mg.leg.br](https://sapl.alfenas.mg.leg.br)) | 424 | em andamento |
 | Viçosa | 76.430 | **sem fonte automática** | 0 | — |
-| Três Corações | 75.485 | SAPL ([sapl.trescoracoes.mg.leg.br](https://sapl.trescoracoes.mg.leg.br)) | 0 | em andamento |
+| Três Corações | 75.485 | SAPL ([sapl.trescoracoes.mg.leg.br](https://sapl.trescoracoes.mg.leg.br)) | 0 | completa |
 | Lagoa Santa | 75.145 | **sem fonte automática** | 5 | — |
 | Ouro Preto | 74.821 | **sem fonte automática** | 0 | — |
 | São Sebastião do Paraíso | 71.796 | **sem fonte automática** | 0 | — |
 | Janaúba | 70.699 | **sem fonte automática** | 0 | — |
-| Formiga | 68.248 | SAPL ([sapl.formiga.mg.leg.br](https://sapl.formiga.mg.leg.br)) | 0 | em andamento |
-| Cataguases | 66.261 | SAPL ([sapl.cataguases.mg.leg.br](https://sapl.cataguases.mg.leg.br)) | 10 | em andamento |
+| Formiga | 68.248 | SAPL ([sapl.formiga.mg.leg.br](https://sapl.formiga.mg.leg.br)) | 146 | em andamento |
+| Cataguases | 66.261 | SAPL ([sapl.cataguases.mg.leg.br](https://sapl.cataguases.mg.leg.br)) | 16 | em andamento |
 | Januária | 65.150 | SAPL ([sapl.januaria.mg.leg.br](https://sapl.januaria.mg.leg.br)) | 0 | em andamento |
 | Pedro Leopoldo | 62.580 | SAPL ([sapl.pedroleopoldo.mg.leg.br](https://sapl.pedroleopoldo.mg.leg.br)) | 0 | em andamento |
 | Mariana | 61.387 | **sem fonte automática** | 0 | — |

@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 755, de 23/03/1965"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "755"
+data: "1965-03-23"
+ementa: "AUTORIZA CONSTRUIR SANITÁRIOS PÚBLICOS."
+municipio: "Itaúna"
+uf: "MG"
+codigo_ibge: "3133808"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.itauna.mg.leg.br/norma/8719"
+fonte_texto: "https://sapl.itauna.mg.leg.br/media/sapl/public/normajuridica/1965/8719/2714_texto_integral.pdf"
+sha256_fonte: "bdd0f7eda62cc83dad356580762399b3546a94c5084779b40879a1f76dd946f1"
+baixado_em: "2026-10-28"
+---
+
+# Lei Ordinária nº 755, de 23/03/1965
+
+LEI Nº 755, de 23 de Março de 1965
+
+Autoriza construir sanitários públicos.
+
+O Povo do Município de Itaúna, por seus representantes, decreta e eu, em seu nome, sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Sr. Prefeito Municipal autorizado a construir, nos logradouros públicos de maior concentração, sanitários públicos.
+
+**Art. 2º** Para ocorrer às despesas oriundas desta Lei, será aberto em época oportuna, o crédito especial necessário.
+
+**Art. 3º** Revogadas as disposições em contrário, esta Lei entrará em vigor, na data de sua publicação.
+
+Mando, portanto, a todas autoridades, a quem o conhecimento desta Lei pertencer, que a cumpram e a façam cumprir tão inteiramente como nela se contém e declara.
+
+Prefeitura Municipal de Itaúna, 23 de Março de 1965
+
+Milton de Oliveira Penido Prefeito Municipal

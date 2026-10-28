@@ -1,0 +1,40 @@
+---
+titulo: "Lei Ordinária nº 604, de 03/04/1962"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "604"
+data: "1962-04-03"
+ementa: "ADQUIRE AÇÕES CENTRAIS ELÉTRICAS DE MINAS GERAIS S/A &#8211;CEMIG."
+municipio: "Itaúna"
+uf: "MG"
+codigo_ibge: "3133808"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.itauna.mg.leg.br/norma/8258"
+fonte_texto: "https://sapl.itauna.mg.leg.br/media/sapl/public/normajuridica/1962/8258/2245_texto_integral.pdf"
+sha256_fonte: "cccdda29767537417c156bda856be6a0e23c63d20403323f5936782ed02587f3"
+baixado_em: "2026-10-28"
+---
+
+# Lei Ordinária nº 604, de 03/04/1962
+
+LEI Nº 604, de 03 de abril de 1962
+
+Adquire ações CEMIG.
+
+O Povo do Município de Itaúna, por seus representantes, decreta e eu, em seu nome, sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Sr. Prefeito Municipal autorizado a adquirir ações das Centrais Elétricas de Minas Gerais, S/A. (Cemig), ou de suas subsidiárias, de conformidade com a Lei Municipal nº 597, de 17 de fevereiro de 1.962.
+
+**Art. 2º** Para atender as despesas a que se refere o artigo anterior, fica aberto o crédito especial de Cr$400.000,00 (quatrocentos mil cruzeiros).
+
+**Art. 3º** Revogadas as disposições em contrário, esta lei entrará em vigor, na data de sua publicação.
+
+Mando, portanto, a todas autoridades a quem o conhecimento e execução desta
+
+Lei pertencer, que a cumpram e a façam cumprir, tão inteiramente como nela se contém e declara.
+
+Prefeitura Municipal de Itaúna, 03 de abril de 1962.
+
+Célio Soares de Oliveira Prefeito Municipal
+
+Antônio Orlando Botelho Nogueira Secretário

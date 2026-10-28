@@ -1,0 +1,134 @@
+---
+titulo: "Lei Ordinária nº 3862, de 16/03/2010"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "LEI"
+numero: "3862"
+data: "2010-03-16"
+ementa: "ALTERA DISPOSITIVOS DA LEI MUNICIPAL N. 2.512/2001"
+municipio: "Muriaé"
+uf: "MG"
+codigo_ibge: "3143906"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.muriae.mg.leg.br/norma/917"
+fonte_texto: "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2010/917/917_texto_integral.pdf"
+sha256_fonte: "9f6e40871f7046bea5c3e4dbbfad8e5f179d435f19c514b0f3aab176734437fd"
+baixado_em: "2026-10-28"
+---
+
+# Lei Ordinária nº 3862, de 16/03/2010
+
+LEI N. 3.862 / 2010
+
+Altera dispositivos da Lei Municipal n. 2.512/2001 e dá outras providências.
+
+O Prefeito Municipal de Muriaé: Faço saber que a Câmara Municipal aprovou, e eu sanciono a seguinte lei:
+
+**Art. 1º** - Os §§ 4º e 5º, do art. 70, da Lei Municipal n. 2.512/01 passam a vigorar com a seguinte redação:
+
+“Art. 70 – omissis...
+
+**§ 4º** - Fica concedido aos servidores da Administração Direta e Indireta do Município de Muriaé detentores do cargo ou função pública de Assistente Administrativo, Anexos II- A- II e II – C – II - Grupos de Nível de Ensino Médio -, o direito ao enquadramento na carreira, Padrão de Vencimento P 21 a P 38, a partir de maio de 2.010, de acordo com o ano de ingresso no serviço público municipal, nos termos a seguir: (NR)
+
+Ano de ingresso Padrão de Vencimento Símbolo de vencimento 1974 a 1983 P 37 R$ 2 447,42 1984 a 1994 P 29 R$ 2 029,26 1995 a 1996 P 27 R$ 1 857,64
+
+**§ 5º** - Os servidores da Administração Direta e Indireta do Município de Muriaé detentores do cargo ou função pública de Telefonista e Apontador, Anexos II – A – III e II –
+
+C - III – Grupos de Nível Fundamental -, a partir de maio de 2.010, serão enquadrados de acordo com o ano de ingresso no serviço público municipal, Padrão de Vencimento P 08 a P 25, nos termos a seguir: (NR)
+
+Ano de ingresso Padrão de Vencimento Símbolo de vencimento 1994 a 1996 P 16 R$ 935,99
+
+**Art. 2º** - Ficam acrescentados ao art. 70, da Lei Municipal n. 2.512/2001, os seguintes parágrafos:
+
+**§ 4º** A - As servidoras Joana D’Arc de Oliveira, Maria do Carmo Goulart e Silva e Maria Soniely de S. Rodrigues, que tiveram seus enquadramentos na Lei Municipal n. 1.907/95 definidos em virtude de decisões judiciais, serão enquadradas no padão de vencimento P 27. (AC)
+
+**§ 7º** - A partir de 1º de maio de 2010, será iniciada a contagem do interstício de 730 (setecentos e trinta) dias de que trata a alínea “e”, do § 1º, do art. 31 desta Lei, para fins de progressão na carreira para os servidores detentores dos cargos e funções referidos nos
+
+§§ 4º e 5º deste artigo, a contar do símbolo de vencimento em que foram enquadrados, nos mesmos termos da progressão a que fizerem jus os demais servidores. (AC)
+
+§ 8o - Os servidores detentores dos cargos e funções referidos nos §§ 4º e 5º deste artigo que, eventualmente, já se encontrem em padrão de vencimento acima do estabelecido para sua carreira, terão suas progressões congeladas, sendo que, para todos os fins, em observância do direito adquirido, fica mantido o símbolo de vencimento já incorporado ao seu patrimônio, quando transcorridos mais de 05 anos de sua concessão. (AC)
+
+**Art. 3º** - O Anexo II – A – II, da Lei Municipal n. 2.512/2001, passa a vigorar com as seguintes alterações:
+
+Anexo II- A – (Prefeitura Municipal de Muriaé) (Quadro Provimento Efetivo)
+
+II – Grupo de Nível de Ensino Médio – SG o Denominação dos Código de N de Símbolo de Padrão de Vencimentos/ Cargos Classes Cargos Vencimentos Carga Horária .... Assistente Administrativo SG 18 44 P 21 P 21 a P 38 40 P/SEM Total SG 778
+
+**Art. 4º** - O Anexo II – A – III, da Lei Municipal n. 2.512/2001, passa a vigorar com as seguintes alterações:
+
+Anexo II- A – (Prefeitura Municipal de Muriaé) (Quadro Provimento Efetivo)
+
+III – Grupo de Nível do Ensino Fundamental – PG Denominação dos cargos Código de No de Símbolos de Padrões de Vencimento/ Classes Cargos Vencimentos Carga Horária Apontador PG 01 02 P 08 P 08 a P 25 40 P/SEM ... Telefonista PG 08 03 P 08 P 08 a P 25 40 P/SEM Total PG 235
+
+**Art. 5º** - O Anexo II – C – II, da Lei Municipal n. 2.512/2001, passa a vigorar com as seguintes alterações:
+
+Anexo II- C – (DEMSUR) (Quadro Provimento Efetivo)
+
+II – Grupo de Nível de Ensino Médio – SG o Denominação dos Código de N de Símbolo de Padrão de Vencimentos/ Cargos Classes Cargos Vencimentos Carga Horária .... Assistente Administrativo SG 08 03 P 21 P 21 a P 38 40 P/SEM Total SG 39
+
+**Art. 6º** - O Anexo II – C – III, da Lei Municipal n. 2.512/2001, passa a vigorar com as seguintes alterações:
+
+Anexo II- C – (DEMSUR) (Quadro Provimento Efetivo)
+
+III – Grupo de Nível do Ensino Fundamental – PG Denominação dos cargos Código de No de Símbolos de Padrões de Vencimento/ Classes Cargos Vencimentos Carga Horária ... Fiscal de Consumo de Água PG 04 05 P 15 P 15 a P 32 40 P/SEM Apontador PG 05 02 P 08 P 08 a P 25 40 P/SEM Telefonista PG 06 02 P 08 P 08 a P 25 40 P/SEM Total PG 71
+
+**Art. 7º** - O Anexo II – C – I, da Lei Municipal n. 2.512/2001, passa a vigorar com a seguinte alteração:
+
+Anexo II- C – (DEMSUR) (Quadro Provimento Efetivo)
+
+I – Grupo Superior de Escolaridade – NS Denominação dos cargos Código de No de Símbolos de Padrões de Vencimento/ Classes Cargos Vencimentos Carga Horária ... Engenheiro Civil NS 06 04 P 38 P 38 a P 56 40 P/SEM ... Total NS 11
+
+**Art. 8º** - Fica criado, no Anexo I – A da Prefeitura Municipal de Muriaé – Cargos de Provimento em Comissão, no Grupo de Direção Superior (DS) 1 (um) cargo de Chefe de Gabinete, Código de Cargo DS 12, Símbolo de Vencimento CC-1, Modalidade de Recrutamento Amplo.
+
+**Parágrafo único** – Fica, por conseqüência, extinto o cargo de Assessores do Gabinete, Código de Cargo AS 02, Símbolo de Vencimento CC-2, Modalidade de Recrutamento Amplo, no Anexo I – A da Prefeitura Municipal de Muriaé – Cargos de Provimento em Comissão, no Grupo de Assessoramento (AS).
+
+**Art. 9º** - Fica criado o Anexo V – D – Atribuições dos Cargos da FUNDARTE, na Lei Municipal n. 2.512/2001, conforme a seguir:
+
+Anexo V- D – (FUNDARTE) ATRIBUIÇÕES ARQUITETO / URBANISTA Súmula: Elaborar, programar e executar projetos arquitetônicos, paisagísticos e urbanísticos, fiscalizando e dando assistência aos projetos desenvolvidos, inclusive na área de patrimônio histórico e cultural. Atribuições: elaborar, executar e coordenar projetos arquitetônicos, urbanísticos e paisagísticos, inclusive na área de patrimônio histórico e cultural; acompanhar e responder por execução de obras, estudando características, orientando e coordenando a construção de edificações, a implantação de parques de recreação, áreas verdes e obras públicas de infra-estrutura; preparar e acompanhar os cronogramas técnico-financeiros dos projetos; realizar estudos e elaborar projetos que tenham por finalidade a preservação do patrimônio histórico do Município; participar da elaboração e atualizar as normas técnicas de
+
+projetos urbanísticos, construções particulares e loteamentos; elaborar, executar e coordenar a elaboração do Plano Diretor, Políticas de Desenvolvimento Urbano, programas e projetos para concretizar as políticas de desenvolvimento municipal; acompanhar e avaliar o processo de desenvolvimento urbano, propor o redirecionamento das ações da.Fundarte, para se alcançar os objetivos e metas de Planos, Programas e Projetos; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+BIBLIOTECÁRIO Súmula: planejar, organizar, gerenciar serviços, através de técnicas biblioteconômicas e promover ações visando a formação de leitores críticos e cidadãos plenos. Atribuições: organizar e dirigir bibliotecas; executar serviços de classificação e catalogação de material bibliográfico e documentos em geral; utilizar os recursos de processamento de dados nos sistemas de biblioteca, centros de documentação e serviços de informações; realizar estudos, pesquisas, relatórios, pareceres, resumos, índices e bibliografias sobre assuntos compreendidos no seu campo profissional; atender ao serviço de referência e tomar medidas necessárias ao seu aperfeiçoamento; orientar os usuários na escolha de livros, periódicos e demais documentos, bem como na utilização de catálogos e índices; considerar sugestões dos usuários e recomendar a aquisição de livros e periódicos; registrar e apresentar dados estatísticos relativos a movimentação em geral; orientar a preparação do material destinado à encadernação; orientar o serviço de limpeza e conservação dos livros e documentação; estabelecer serviços de intercâmbio para atualização do acervo bibliográfico; extrair e distribuir cópias de matéria de interesse das Repartições; responsabilizar-se por equipes auxiliares necessárias à execução de atividades próprias do cargo; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata, inclusive as editadas no respectivo regulamento da profissão.
+
+HISTORIADOR/ PESQUISADOR Súmula: Estudar a História em suas diversas abrangências temporais, desenvolver pesquisa com diferentes fontes documentais (iconográficos, textuais, entrevistas, depoimentos, biografias), possibilitando o conhecimento da História Local e Regional. Atribuições: Consultar as diversas fontes de informação sobre a época a ser estudada, pesquisando arquivos, bibliotecas, crônicas e publicações periódicas; estudar as obras de outros historiadores para obter as informações necessárias à elaboração de seu trabalho; selecionar os dados pertinentes ao trabalho a ser desenvolvido, examinando a sua autenticidade de valor relativo para extrair conclusões e programar o trabalho; narrar fatos passados e atuais e estabelecer certas possibilidades futuras, baseando-se em estudos e comparações entre acontecimentos passados e contemporâneos e na interpretação e reinterpretação pessoal desses acontecimentos para ampliar o âmbito de compreensão das realidades pregressas, atuais e futuras da humanidade; executar outras tarefas de mesma natureza e nível de dificuldade; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+PROFESSOR II Súmula: Ministrar aulas nas respectivas matérias de formação, participar da elaboração e implementação de planos e programas, reuniões pedagógicas, de cursos de desenvolvimento profissional e integrar-se com pais ou responsáveis e com a comunidade. Atribuições: Ministrar aulas nos dias letivos e horas-aula estabelecidos, além de participar integralmente dos períodos dedicados ao planejamento, à avaliação e ao desenvolvimento profissional; planejar as atividades a serem implementadas diariamente, com base na adequação dessas ao exercício do ato de educar e instruir; participar das atividades curriculares visando seu envolvimento com a educação das crianças e dos jovens e sua inserção na comunidade; participar da elaboração da proposta pedagógica das escolas da Fundarte; elaborar e cumprir plano de trabalho, segundo a proposta pedagógica da Fundarte; zelar pela aprendizagem dos alunos; estabelecer estratégias de recuperação para os alunos de menor rendimento; colaborar com as atividades de articulação da escola com as famílias e a comunidade; participar das atividades inerentes ao trabalho sindical, científicas ou representativas de classe; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+RELAÇÕES PÚBLICAS: Súmula: avaliar as atitudes públicas, identificar as diretrizes e a conduta individual ou da organização na busca do interesse público, e planejar e executar um programa de ação para conquistar a compreensão e a aceitação das ações públicas. Atribuições: planejar, implantar e desenvolver o processo total da comunicação institucional da organização como recurso estratégico de sua interação com seus diferentes públicos e ordenar todos os seus relacionamentos com esses públicos, para gerar um conceito favorável sobra a organização, capaz de despertar no público credibilidade, boa vontade para com ela, suas atividades e seus meio; desempenhar teoricamente e na prática, as ações de protocolo aplicadas e seguidas pelo Cerimonial; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+RESTAURADOR/ MUSEOLOGO Súmula: desempenhar todas as atividades relativas à restauração de obras do patrimônio do Município. Atribuições: Restaurar as esculturas em madeira ou barro, policromadas ou não, de pedra sabão e marfim; controlar a conservação e restauração dos monumentos tombados; executar outras tarefas de mesma natureza e mesmo nível de dificuldade; planejar e organizar a aquisição de peças de valor; registrar, catalogar e classificar as peças do museu, elaborando fichários e índices diversos; divulgar a coleção do museu, organizando exposições; adquirir peças e desenvolver o intercâmbio com outros museus, alugando ou pedindo peças emprestadas para expor; atender aos pesquisadores, permitindo-lhes o acesso ao material não-exibível; estudar novas técnicas e métodos de preparação e exposição de acervo; coordenar a conservação do acervo; supervisionar os trabalhos de restauração das peças; realizar pesquisas; pode pronunciar conferências sobre as coleções do museu; executar outras tarefas de mesma natureza e nível de dificuldade; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+TURISTÓLOGO Súmula: Orientar e coordenar oportunidades para o estudo e análise, em profundidade, do Turismo, em Planejamento e Desenvolvimento dos serviços no mercado turístico, inclusive no meio ambiental, histórico- cultural, esporte e lazer, transportes, relacionado com o planejamento e à administração de serviços e produtos turísticos visando o desenvolvimento sustentável; Atribuições: Levantar dados, junto a unidades organizacionais, relativos a processos e procedimentos utilizados; estudar e analisar os dados levantados; estimular o turismo social e o lazer; elaborar projetos turísticos; estudar, analisar, propor, redefinir e implantar formulários e outros instrumentos administrativos; incentivar à criatividade, às artes e às manifestações sociais e culturais, artesanais ou folclóricas, atingindo um número cada vez maior de pessoas; elaborar roteiros turísticos; acompanhar os projetos turísticos oriundos do turismo nas entidades públicas envolvidas no processo, desde a operacionalização e execução; realizar eventos turísticos; ministrar, orientar, executar os projetos sociais, cursos de capacitação, de oficinas pedagógicas e outros afins; manter postura profissional, inclusive com ética e a moral; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+CONTADOR Súmula: Responsabilizar-se pelas atividades relativas à contabilidade orçamentária, financeira e patrimonial da Fundarte, elaborando balancetes, balanços e prestação de contas ao Tribunal de Contas do Estado de Minas Gerais, bem como gerar outros demonstrativos e informativos correlatos. Atribuições: acompanhar a elaboração das Propostas Orçamentárias do Executivo; acompanhar a execução orçamentária, financeira e patrimonial da Fundarte; elaborar relatórios contábeis, balancetes mensais e o balanço anual; elaborar a Prestação de Contas anual para o Tribunal de Contas do Estado de Minas Gerais; prover com subsídios as outras unidades em matéria de sua competência; executar o efetivo controle contábil do acervo patrimonial da Fundarte; atender às normas de segurança e higiene do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+ARQUIVISTA Súmula: Desempenhar atividades de planejamento, organização e direção de serviços de arquivo.
+
+Atribuições: realizar a escrituração e o arquivamento de documentos de interesse da Administração; efetuar o registro e catalogar os documentos objeto do arquivamento; fornecer os documentos arquivados para consulta dos servidores competentes, assim como recolher e guardar os materiais consultados; manter em bom estado os documentos arquivados; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+DIGITADOR Súmula: Executar a partir dos gabaritos fornecidos, operações de digitação de dados para processamento eletrônico. Atribuições: organizar a rotina de serviços e realizar entrada e transmissão de dados, operando teleimpressoras e microcomputadores; registrar e transcrever informações, operando máquinas de escrever e/ou computadores; realizar a digitação dos documentos do Órgão; conferir a documentação, organizar arquivo, inerentes ao serviço de digitação; realizar tarefas de digitação dos diversos setores da Fundarte; zelar pela conservação do equipamento de trabalho que está sob sua responsabilidade; verificar conteúdos e finalidades dos documentos-base recebidos para gravação; comunicar a chefia imediata qualquer irregularidade observada nos documentos-base; manter e conservar os materiais e equipamentos que utiliza; arquivar documentos possibilitando o controle e consultas posteriores; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+TÉCNICO DE RECREAÇÃO ESPORTIVA Súmula: promover atividades recreativas diversificadas, especialmente as físicas e esportivas, visando ao entretenimento, à integração social e ao desenvolvimento pessoal de jovens estudantes. Para tanto, elaboram projetos e executam atividades recreativas; promovem atividades lúdicas, estimulantes à participação; criam atividades recreativas e coordenam setores de recreação; administram equipamentos e materiais para recreação. Atribuições: desenvolver atividades livres ou programadas de caráter esportivo, cultural ou recreativo, tais como: excursões, passeios, jogos e brinquedos, competições, música, teatro e etc.; desenvolver atividades, sob supervisão, de treinamentos e equipes adultas, infantis e juvenis, nos aspectos técnicos, táticos e físicos, preparando-os para jogos; promover, sob supervisão, a prática de ginástica, exercícios físicos e jogos em geral, para estudantes e outros interessados; orientar atividades esportivas; comandar “escolinhas” nas diferentes modalidades esportivas sob orientação de professores de Educação Física; auxiliar no planejamento de atividades esportivas; elaborar relatórios sobre desempenho de atletas; executar tarefas afins determinadas pelo superior imediato; realizar atividades sócio-cultural proporcionando a integração; elaborar atividades, juntamente com os profissionais da área técnica, objetivando o desenvolvimento global das crianças e adolescentes; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+PROFESSOR I Súmula: Ministrar aulas para alunos na área de sua formação, participar da elaboração e implementação de planos e programas, reuniões pedagógicas, de cursos de desenvolvimento profissional e integrar-se com pais ou responsáveis e com a comunidade. Atribuições: Ministrar os dias letivos e horas-aula estabelecidos, além de participar integralmente dos períodos dedicados ao planejamento, à avaliação e ao desenvolvimento profissional; planejar as atividades a serem implementadas diariamente, com base na adequação dessas ao exercício do ato de educar e instruir; participar das atividades curriculares visando seu envolvimento com a educação das crianças e dos jovens e sua inserção na comunidade; participar da elaboração da proposta pedagógica da Fundarte; elaborar e cumprir plano de trabalho, segundo a proposta pedagógica da Fundarte; zelar pela aprendizagem dos alunos; estabelecer estratégias de recuperação para os alunos de menor rendimento; colaborar com as atividades de articulação da escola com as famílias e a comunidade; participar das atividades inerentes ao trabalho sindical, científicas ou representativas de classe; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+ASSISTENTE DE BIBLIOTECA
+
+Súmula: Executar serviços administrativos genéricos e específicos, levando e classificando dados, analisando documentos, realizando trabalhos de datilografia, cálculos, registros em geral e outros similares, para assegurar o apoio administrativo. Executar serviços relativos à divulgação pública, falada e escrita de atos administrativos e eventos sempre que solicitado pelo prefeito ou à sua ordem. Atribuições: orientar os alunos quanto à utilização de livros, estimulando sua adoção; participar das interações educativas junto a comunidade; solicitar novos livros para atualização da biblioteca; zelar pela conservação de todos os materiais utilizados; executar o trabalho dentro de normas de higiene e segurança no trabalho; executar outras atividades afins.
+
+AUXILIAR ADMINISTRATIVO Súmula: Executar trabalhos de apoio administrativo em diversas unidades organizacionais da Fundarte, digitando, conferindo documentos, processos e efetuando lançamentos, controles e operando equipamentos. Atribuições: atender, identificar e encaminhar pessoas que procuram as unidades da Fundarte, pessoalmente ou por telefone, anotando e transmitindo, recados e fornecendo dados de rotina; digitar textos e documentos em geral transcrevendo dados, observando as instruções recebidas, zelando pela estética e fidelidade do conteúdo, para atender as necessidades administrativas; requisitar material de expediente, observando quantidade, tipo, tamanho e demais especificações, preenchendo formulários apropriados, visando suprir as necessidades da área; efetuar cálculos simples, utilizando calculadoras, conferindo e anotando resultados, para agilizar os serviços; receber correspondências e outros documentos, sob protocolo, para serem distribuídos; operar equipamentos diversos, tais como copiadoras, guilhotina e outros de natureza simples, para auxiliar os trabalhos de escritório; organizar e arquivar guias, requerimentos e documentos em geral, classificando-os, para facilitar posterior consulta; efetuar lançamentos em impressos e formulários em geral, registrando dados diversos, sob orientação, auxiliando na .execução e controle dos trabalhos realizados na unidade; executar, quando solicitado, serviços administrativos rotineiros, tais como, pequenas entregas ou recebimentos, e serviços externos em geral, para execução de atividades de apoio; registrar os usuários da biblioteca, preenchendo seus dados pessoais em fichas próprias, para garantir o acesso de pessoas cadastradas; recepcionar o usuário da biblioteca, orientando na localização de livros e publicações, para auxiliá-los nas consultas do material solicitado; efetuar o registro dos livros retirados e devolvidos por empréstimo, anotando nas fichas dos usuários e nas dos livros as informações necessárias, para controlar o acervo bibliográfico e prestar informações para apuração estatística; repor os livros utilizados nas estantes, separando-os por classe, autor e título, para mantê-los ordenados e facilitar posterior consulta; atualizar fichários catalográficos da biblioteca, fazendo a manutenção dos dados existentes, para facilitar a localização dos livros e publicações existentes; encapar livros, utilizando material próprio, para mantê-los em perfeita condições de uso;zelar pela limpeza das prateleiras, balcões e outras áreas de trabalho, tirando pó, varrendo-as e conservando-as para mantê-las em boas condições de preferência e uso; zelar pela guarda e manutenção dos equipamentos e demais instrumentos utilizados no trabalho; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+INSTRUTOR DE BANDA DE MUSICA Súmula: ministrar e supervisionar a execução de aulas e cursos de música, bem como coordenar as atividades das Bandas de Música e Fanfarras do Município. Atribuições: elaborar a formação das fanfarras e bandas de músicas; selecionar os alunos que integrarão as fanfarras e bandas de músicas; ensinar e preparar os integrantes das bandas e fanfarras para perfeita execução dos instrumentos musicais, que compõem sua formação; participar da organização com os dirigentes das escolas da apresentação das fanfarras e bandas de músicas, nos desfiles em datas oficiais e significativas do Município; zelar pela guarda e conservação dos instrumentos musicais; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+AUXILIAR DE SERVIÇOS GERAIS Súmula: Efetuar serviços internos e externos de entrega documentos, valores e outros materiais; executar serviços de manutenção e limpeza dos bens e imóveis da Fundarte. Atribuições: Realizar serviços internos e externos, entregando documentos, mensagens, notas fiscais, pequenos volumes, executando serviços bancários ou junto aos correios, efetuando pagamentos e recebimentos, para atender as solicitações de suas unidades e/ou dos servidores. Encaminhar documentos e outros papéis para reprodução xerográfica, mediante requisição, para atender aos solicitantes; prestar
+
+informações, orientar e encaminhar pessoas a repartições municipais; zelar pela guarda e manutenção dos equipamentos e demais instrumentos utilizados no trabalho; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+VIGIA / RONDANTE Súmula: Compreende o conjunto de atividades que se destinam a exercer a vigilância dos prédios públicos, percorrendo e inspecionando suas dependências, para evitar incêndios, roubos, entrada de pessoas estranhas e outras anormalidades, bem como executar a ronda diurna e noturna nas dependências, verificando se as portas, janelas, portões e outras vias de acesso estão fechados corretamente e constatando irregularidades. Atribuições: tomar as providências necessárias no sentido de evitar roubos e outros danos; observar a entrada e saída de pessoas, para evitar que pessoas estranhas possam causar transtornos e tumultos; controlar a movimentação de veículos; atender às normas de higiene e segurança do trabalho; executar atividades afins que lhe forem atribuídas pela chefia imediata.
+
+**Art. 10** - Esta lei entra em vigor na data de sua publicação.
+
+MANDO, PORTANTO, a todas as autoridades a quem o conhecimento e execução desta Lei pertencer, que a cumpram e a façam cumprir, tão inteiramente como nela se contém.
+
+Muriaé, 16 de março de 2010
+
+JOSÉ BRAZ Prefeito Municipal de Muriaé

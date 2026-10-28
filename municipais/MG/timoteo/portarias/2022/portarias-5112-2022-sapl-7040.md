@@ -1,0 +1,34 @@
+---
+titulo: "Portaria nº 5112, de 21/12/2022"
+tipo: "Portaria"
+tipo_na_fonte: "Portaria"
+numero: "5112"
+data: "2022-12-21"
+ementa: "Faz exoneração."
+municipio: "Timóteo"
+uf: "MG"
+codigo_ibge: "3168705"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.timoteo.mg.leg.br/norma/7040"
+fonte_texto: "https://sapl.timoteo.mg.leg.br/media/sapl/public/normajuridica/2022/7040/5112.pdf"
+sha256_fonte: "a1a875b676f90167b4285b329f4ed3f267b50d690848d62e38ed1e7932b5a3b6"
+baixado_em: "2026-10-28"
+---
+
+# Portaria nº 5112, de 21/12/2022
+
+PORTARIA Nº 5.112, DE 21 DE DEZEMBRO DE 2022
+
+Faz exoneração.
+
+O Presidente da Câmara Municipal de Timóteo, no uso das atribuições que lhes são conferidas em lei,
+
+RESOLVE:
+
+**Art. 1º** Exonerar o Senhor Lucas Bruno Ferreira Rosseto, portador da C.I.MG-19.973.249 e inscrito no CPF sob o número 121.265.226-60, do cargo de provimento em comissão de Secretário Parlamentar III, segundo disposto na Resolução nº 416/2019.
+
+**Art. 2º** Esta Portaria entra em vigor no dia 31 de dezembro de 2022.
+
+Timóteo, 21 de dezembro de 2022
+
+LUIZ PERDIGÃO PRESIDENTE

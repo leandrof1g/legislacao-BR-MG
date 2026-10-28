@@ -1,0 +1,38 @@
+---
+titulo: " Portaria do Legislativo nº 1175, de 21/02/2002"
+tipo: " Portaria do Legislativo"
+tipo_na_fonte: " Portaria do Legislativo"
+numero: "1175"
+data: "2002-02-21"
+ementa: "Dispõe sobre o enquadramento de servidor, a título de progressão na carreira de pessoal da Câmara Municipal de Unaí."
+municipio: "Unaí"
+uf: "MG"
+codigo_ibge: "3170404"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.unai.mg.leg.br/norma/5811"
+fonte_texto: "https://sapl.unai.mg.leg.br/media/sapl/public/normajuridica/2002/5811/5811_texto_integral.pdf"
+sha256_fonte: "8f66f08aad2b025d4e9a668908b80ab4d4d433eba5507612a00db205f175ba5f"
+baixado_em: "2026-10-28"
+---
+
+#  Portaria do Legislativo nº 1175, de 21/02/2002
+
+PORTARIA N.º 1.175, DE 21 DE FEVEREIRO DE 2002.
+
+Dispõe sobre o enquadramento de servidor que menciona a título de progressão na carreira de pessoal da Câmara Municipal de Unaí.
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE UNAÍ, Estado de Minas Gerais, no uso de suas atribuições legais, especialmente o que lhe confere o artigo 80, inciso I, "h", da Resolução n.º 195, de 25 de novembro de 1992, c/c o disposto nos artigos 11 e 13, da Resolução n.º 173, de 23 de abril de 1991,
+
+RESOLVE:
+
+**Art. 1º** Enquadrar a Servidora Nilvânia de Jesus Pereira, a título de progressão na carreira, na Classe II, Padrão 03, Índice 38, do Cargo de Agente de Atividades da Secretaria, referente ao período de 1°. 1.2001 a 31.12.2001.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação, retroagindo seus efeitos a 31 de dezembro de 2001.
+
+Registre-se, publique-se, cumpra-se.
+
+Unaí, 21 de fevereiro de 2002; 58º da Instalação do Município.
+
+VEREADOR HERMES MARTINS Presidente
+
+ADÃO SILVÉRIO FILHO Secretário Geral

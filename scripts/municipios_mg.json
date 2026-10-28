@@ -344,7 +344,7 @@
    "sapl_manual": false
   },
   "3118304": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Conselheiro Lafaiete",
    "normas_na_fonte": 8453,
    "pasta": "conselheiro-lafaiete",
@@ -614,7 +614,7 @@
    "sapl_manual": false
   },
   "3133808": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Itaúna",
    "normas_na_fonte": 7242,
    "pasta": "itauna",
@@ -677,7 +677,7 @@
    "sapl_manual": false
   },
   "3136207": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "João Monlevade",
    "normas_na_fonte": 6,
    "pasta": "joao-monlevade",
@@ -1343,7 +1343,7 @@
    "sapl_manual": false
   },
   "3169307": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Três Corações",
    "normas_na_fonte": 0,
    "pasta": "tres-coracoes",
@@ -1361,7 +1361,7 @@
    "sapl_manual": false
   },
   "3169901": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Ubá",
    "normas_na_fonte": 5831,
    "pasta": "uba",
