@@ -1,0 +1,604 @@
+---
+titulo: "Decreto Municipal nº 14759, de 26/05/2026"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "14759"
+data: "2026-05-26"
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR"
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/9300"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9300/dec_14.759.2026.pdf"
+sha256_fonte: "1d078099ff2838f7cc92d7205b2d501270e4d6d807053f4fbf448da1b3a1bebc"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Municipal nº 14759, de 26/05/2026
+
+DECRETO N°: 14.759, DE 26.05.2026
+
+ABRE CRÉDITO ADICIONAL SUPLEMENTAR
+
+O PREFEITO MUNICIPAL de PONTE NOVA, no uso de suas atribuições legais, nos termos da Lei N° 4.320/64 e, Lei Municipal Nº 4.904/2025
+
+CONSIDERANDO:
+
+O que estabelece inciso I, do art. 5º da lei municipal 4.904/2025, fica o poder executivo autorizado a: I abrir créditos suplementares, respeitadas as demais prescrições constitucionais, e nos termos da Lei federal nº 4.320/1964 até o limite de 20% (vinte por cento) do valor total do orçamento, por anulação parcial ou total de dotações.
+
+DECRETA:
+
+**Art. 1º** - Ficam abertos créditos adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente:
+
+02 PREFEITURA MUNICIPAL
+
+02.02 SECRETARIA MUNICIPAL DE GOVERNO
+
+02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0003 ADMINIST. GERAL DA SECRETARIA DE GOVERNO
+
+04.122.0003.2007 MANUTENCAO DA SEGOV
+
+3.3.90.36.00 088 Outros Serviços Terceiros- Pessoa Física 4.863,00
+
+Impostos 4.863,00
+
+04.122.0003.2008 PAGAMENTO DE PESSOAL E ENCARGOS
+
+- SEGOV
+
+3.1.90.04.00 091 Contratação por Tempo Determinado 18.190,21
+
+Impostos 18.190,21
+
+02.05 SECRETARIA MUNICIPAL DE OBRAS
+
+02.05.01 SECRETARIA MUNICIPAL DE OBRAS
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0006 ADM. GERAL DA SECRETARIA OBRAS
+
+04.122.0006.2021 MANUTENCAO DAS ATIVIDADES DA SEMOB
+
+3.3.90.30.00 153 Material de Consumo 81,34
+
+Impostos 81,34
+
+02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI
+
+02.06.01 ADMINISTRACAO GERAL DA SEMASH
+
+08 Assistencia Social
+
+08.122 Administracao Geral
+
+08.122.0010 ADMINISTRACAO GERAL DA SEMASH
+
+08.122.0010.2028 MANUTENCAO DA SEMASH
+
+3.3.90.14.00 172 Diárias - Pessoal Civil 1.000,00
+
+Impostos 1.000,00
+
+3.3.90.39.00 175 Outros Serv. Terceiros - Pessoa Jurídica 70.000,00
+
+Impostos 70.000,00
+
+02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08 Assistencia Social
+
+08.245 Serviços Socioassistenciais
+
+08.245.0074 BLOCO DA PROT. SOCIAL ESP. - ALTA COMPL
+
+08.245.0074.2051 PAGAMENTO PESSOAL E ENCARGOS DA UAI
+
+3.1.90.04.00 252 Contratação por Tempo Determinado 31.566,24
+
+Impostos 31.566,24
+
+02.07 SECRETARIA MUNICIPAL DE SAUDE
+
+02.07.02 FUNDO MUNICIPAL DE SAUDE
+
+10 Saude
+
+10.302 Assist. Hospitalar e Ambulatorial
+
+10.302.0021 ASSIST. AMBUL. MEDIA COMPLEXIDADE - REDE
+
+10.302.0021.2068 PAG PESSOAL E ENCARGOS-CONT E AVALIAÇÃO
+
+3.1.90.04.00 380 Contratação por Tempo Determinado 18.051,39
+
+Impostos 18.051,39
+
+02.08 SECRETARIA MUNICIPAL DE EDUCACAO- SEMED
+
+02.08.02 EDUCACAO BASICA - 25%
+
+12 Educacao
+
+12.122 Administracao Geral
+
+12.122.0025 ADMINISTRACAO GERAL DA SEMED
+
+12.122.0025.2127 MANUTENCAO DAS ATIVIDADES DA SEMED
+
+3.3.90.39.00 479 Outros Serv. Terceiros - Pessoa Jurídica 30.000,00
+
+Impostos 30.000,00
+
+12.367 Educacao Especial
+
+12.367.0028 DESENVOLVIMENTO DA EDUCAÇÃO ESPECIAL
+
+12.367.0028.2518 PAGAMENTO DO PESSOAL DO CAEDES
+
+3.1.90.04.00 529 Contratação por Tempo Determinado 386.805,29
+
+Impostos 386.805,29
+
+02.08.03 EDUCACAO BASICA - R. VINCULADOS
+
+12 Educacao
+
+12.361 Ensino Fundamental
+
+12.361.0026 DESENVOLVIMENTO DA EDUCACAO BASICA
+
+12.361.0026.2142 MANUTENCAO DA EDUCACAO BASICA -
+
+QESE
+
+4.4.90.52.00 543 Equipamento e Material Permanente 52.000,00
+
+1.550.000.0000 Transferência do Salário- Educação 52.000,00
+
+02.09 SECRETARIA MUNICIPAL DE DESENVOLV. RURA
+
+02.09.01 ADMINISTRACAO GERAL DA SEDRU
+
+20 Agricultura
+
+20.122 Administracao Geral
+
+20.122.0027 ADMINISTRACAO GERAL DA SEDRU
+
+20.122.0027.2154 MANUTENCAO DAS ATIVIDADE DA SEDRU
+
+3.3.90.30.00 569 Material de Consumo 34,86
+
+Impostos 34,86
+
+3.3.90.39.00 570 Outros Serv. Terceiros - Pessoa Jurídica 31.000,00
+
+Impostos 31.000,00
+
+02.10 SECRETARIA MUNICIPAL DE MEIO AMBIENTE
+
+02.10.01 ADMINISTRACAO GERAL DA SEMAM
+
+17 Saneamento
+
+17.512 Saneamento Basico Urbano
+
+17.512.0032 MANUTENCAO DA LIMPEZA PUBLICA
+
+17.512.0032.2165 PAGAMENTO DE PESSOAL E ENCARGOS - SLU
+
+3.1.90.16.00 595 Outras Despesas Variáveis - Pessoal Civil 8.983,00
+
+Impostos 8.983,00
+
+18 Gestao Ambiental
+
+18.122 Administracao Geral
+
+18.122.0031 ADMINISTRACAO GERAL DA SEMAM
+
+18.122.0031.2162 MANUTENCAO DAS ATIVIDADES DA SEMAM
+
+3.3.90.39.00 603 Outros Serv. Terceiros - Pessoa Jurídica 100.860,00
+
+Impostos 100.860,00
+
+18.122.0031.2163 PAGAMENTO DE PESSOAL E ENCARGOS SEMAM
+
+3.1.90.16.00 608 Outras Despesas Variáveis - Pessoal Civil 6.098,24
+
+Impostos 6.098,24
+
+02.11 SECRETARIA MUNIC.DE CULTURA E PATRIMONIO
+
+02.11.01 ADMINISTRACAO GERAL DA SEMCT
+
+13 Cultura
+
+13.122 Administracao Geral
+
+13.122.0037 ADMINISTRACAO GERAL DA SEMCT
+
+13.122.0037.2169 MANUTENCAO DA SEMCT
+
+3.3.90.39.00 631 Outros Serv. Terceiros - Pessoa Jurídica 55.500,00
+
+Impostos 55.500,00
+
+02.12 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+02.12.01 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0045 DESENVOLVIMENTO ECONOMICO
+
+04.122.0045.2184 MANUTENCAO DAS ATIVIDADES DA SEDEURB
+
+3.3.90.39.00 672 Outros Serv. Terceiros - Pessoa Jurídica 91.140,00
+
+Impostos 91.140,00
+
+02.15 SECRETARIA MUN. DE MOB.URB. E TRANSPORTE
+
+02.15.01 SECRETARIA MUN. DE MOB.URB. E TRANSPORTE
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0008 TRAFEGO URBANO
+
+04.122.0008.2553 PAGAMENTO DE PESSOAL E ENCARGOS - SEMUT
+
+3.1.90.16.00 745 Outras Despesas Variáveis - Pessoal Civil 10.789,38
+
+Impostos 10.789,38
+
+3.3.90.08.00 746 Outros Benefícios Assistenciais 850,04
+
+Impostos 850,04
+
+3.3.90.46.00 747 Auxílio-alimentação 6.045,44
+
+Impostos 6.045,44
+
+04.122.0008.2554 MAN E DESENVOLV. DAS ATIVIDADES DA SEMUT
+
+3.3.90.39.00 750 Outros Serv. Terceiros - Pessoa Jurídica 110,00
+
+Impostos 110,00
+
+02.08 SECRETARIA MUNICIPAL DE EDUCACAO- SEMED
+
+02.08.04 EDUCACAO BASICA - FUNDEB
+
+12 Educacao
+
+12.365 Educacao Infantil
+
+12.365.0046 PRÉ ESCOLA
+
+12.365.0046.2153 PAG DE PESSOAL E ENCARGOS DA EI - FUNDEB
+
+3.1.90.16.00 883 Outras Despesas Variáveis - Pessoal Civil
+
+4.046,75
+
+1.540.000.0000 Transferências do FUNDEB - Impostos / 4.046,75
+
+02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI
+
+02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08 Assistencia Social
+
+08.241 Assistencia a Pessoa Idosa
+
+08.241.0011 ASSISTENCIA AO IDOSO
+
+08.241.0011.2556 PAGAMENTO DO PESSOAL DO ILPI
+
+3.1.90.16.00 884 Outras Despesas Variáveis - Pessoal Civil 6.374,16
+
+Impostos 6.374,16
+
+08.245 Serviços Socioassistenciais
+
+08.245.0074 BLOCO DA PROT. SOCIAL ESP. - ALTA COMPL
+
+08.245.0074.2070 PROGRAMA FAMILIA ACOLHEDORA
+
+3.1.90.11.00 885 Vencimentos e Vant. Fixas- Pessoal Civil 4.122,95
+
+Impostos 4.122,95
+
+3.1.90.13.00 886 Obrigações Patronais 874,69
+
+Impostos 874,69
+
+02.12 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+02.12.01 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0045 DESENVOLVIMENTO ECONOMICO
+
+04.122.0045.2185 PAGAMENTO PESSOAL E ENCARDOS DA SEDEURB
+
+3.1.90.04.00 901 Contratação por Tempo Determinado 993,68
+
+Impostos 993,68
+
+TOTAL DOS CRÉDITOS: R$ 940.380,66
+
+**Art. 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-á como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4.320/64:
+
+02 PREFEITURA MUNICIPAL
+
+02.05 SECRETARIA MUNICIPAL DE OBRAS
+
+02.05.01 SECRETARIA MUNICIPAL DE OBRAS
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0006 ADM. GERAL DA SECRETARIA OBRAS
+
+04.122.0006.1002 AQUISICAO E/OU DESAPROPRIACAO DE IMÓVEL
+
+4.4.90.61.00 147 Aquisição de Imóveis 13.781,46
+
+Impostos 13.781,46
+
+02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI
+
+02.06.01 ADMINISTRACAO GERAL DA SEMASH
+
+08 Assistencia Social
+
+08.122 Administracao Geral
+
+08.122.0010 ADMINISTRACAO GERAL DA SEMASH
+
+08.122.0010.2028 MANUTENCAO DA SEMASH
+
+3.3.90.46.00 176 Auxílio-alimentação 70.000,00
+
+Impostos 70.000,00
+
+3.3.90.93.00 178 Indenizações e Restituições 1.000,00
+
+Impostos 1.000,00
+
+02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08 Assistencia Social
+
+08.245 Serviços Socioassistenciais
+
+08.245.0073 BLOCO DA PROT. SOCIAL ESP. - MEDIA COMPL
+
+08.245.0073.2467 PAGAMENTO DA EQUIPE DE REFERENCIA-PAEFI
+
+3.1.90.04.00 237 Contratação por Tempo Determinado 874,69
+
+Impostos 874,69
+
+08.245.0074 BLOCO DA PROT. SOCIAL ESP. - ALTA COMPL
+
+08.245.0074.2051 PAGAMENTO PESSOAL E ENCARGOS DA UAI
+
+3.1.90.11.00 253 Vencimentos e Vant. Fixas- Pessoal Civil 31.566,24
+
+Impostos 31.566,24
+
+08.245.0074.2070 PROGRAMA FAMILIA ACOLHEDORA
+
+3.1.90.04.00 257 Contratação por Tempo Determinado 26.745,68
+
+Impostos 26.745,68
+
+02.07 SECRETARIA MUNICIPAL DE SAUDE
+
+02.07.02 FUNDO MUNICIPAL DE SAUDE
+
+10 Saude
+
+10.302 Assist. Hospitalar e Ambulatorial
+
+10.302.0022 ATEND DE MEDIA E ALTA COMPLEXIDADE
+
+10.302.0022.2555 PROGRAMA CUIDAR NA HORA CERTA
+
+3.1.90.04.00 434 Contratação por Tempo Determinado 18.051,39
+
+Impostos 18.051,39
+
+02.08 SECRETARIA MUNICIPAL DE EDUCACAO- SEMED
+
+02.08.02 EDUCACAO BASICA - 25%
+
+12 Educacao
+
+12.122 Administracao Geral
+
+12.122.0025 ADMINISTRACAO GERAL DA SEMED
+
+12.122.0025.2127 MANUTENCAO DAS ATIVIDADES DA SEMED
+
+4.4.90.52.00 483 Equipamento e Material Permanente 30.000,00
+
+Impostos 30.000,00
+
+12.361 Ensino Fundamental
+
+12.361.0044 DESENVOLVIMENTO DO ENSINO FUNDAMENTAL
+
+12.361.0044.2136 PAGAMENTO DE PESSOAL E ENCARGOS - EF
+
+3.1.90.04.00 499 Contratação por Tempo Determinado 386.805,29
+
+Impostos 386.805,29
+
+02.08.03 EDUCACAO BASICA - R. VINCULADOS
+
+12 Educacao
+
+12.361 Ensino Fundamental
+
+12.361.0026 DESENVOLVIMENTO DA EDUCACAO BASICA
+
+12.361.0026.2142 MANUTENCAO DA EDUCACAO BASICA - QESE
+
+4.4.90.52.00 543 Equipamento e Material Permanente 52.000,00
+
+1.550.000.0000 Transferência do Salário- Educação 52.000,00
+
+02.08.04 EDUCACAO BASICA - FUNDEB
+
+12 Educacao
+
+12.365 Educacao Infantil
+
+12.365.0046 PRÉ ESCOLA
+
+12.365.0046.2153 PAG DE PESSOAL E ENCARGOS DA EI - FUNDEB
+
+3.1.90.04.00 558 Contratação por Tempo Determinado 4.046,75
+
+1.540.000.0000 Transferências do FUNDEB - Impostos / 4.046,75
+
+02.09 SECRETARIA MUNICIPAL DE DESENVOLV. RURA
+
+02.09.01 ADMINISTRACAO GERAL DA SEDRU
+
+20 Agricultura
+
+20.122 Administracao Geral
+
+20.122.0027 ADMINISTRACAO GERAL DA SEDRU
+
+20.122.0027.2154 MANUTENCAO DAS ATIVIDADE DA SEDRU
+
+3.3.90.93.00 571 Indenizações e Restituições 34,86
+
+Impostos 34,86
+
+20.606 Extensao Rural
+
+20.606.0029 APOIO AO PRODUTOR RURAL
+
+20.606.0029.2157 MANUTENCAO DO APOIO AO PRODUTOR RURAL
+
+3.3.90.30.00 585 Material de Consumo 31.000,00
+
+Impostos 31.000,00
+
+02.10 SECRETARIA MUNICIPAL DE MEIO AMBIENTE
+
+02.10.01 ADMINISTRACAO GERAL DA SEMAM
+
+18 Gestao Ambiental
+
+18.541 Preservacao e Conservacao Ambiental
+
+18.541.0033 GESTAO DE RESIDUOS SOLIDOS
+
+18.541.0033.2491 PAGAMENTO DO PESSOAL RESIDUOS SOLIDOS UR
+
+3.1.90.11.00 615 Vencimentos e Vant. Fixas- Pessoal Civil 15.081,24
+
+Impostos 15.081,24
+
+02.11 SECRETARIA MUNIC.DE CULTURA E PATRIMONIO
+
+02.11.02 PATRIMONIO HISTORICO
+
+13 Cultura
+
+13.391 Patrim. Hist. Art. e Arqueologico
+
+13.391.0038 PATRIMONIO HSITORICO, ARTISTICO, ARQUEOL
+
+13.391.0038.1190 RESTAURO DO HOTEL GLORIA
+
+4.4.90.51.00 637 Obras e Instalações 247.500,00
+
+Impostos 247.500,00
+
+02.12 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+02.12.01 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0045 DESENVOLVIMENTO ECONOMICO
+
+04.122.0045.2184 MANUTENCAO DAS ATIVIDADES DA SEDEURB
+
+3.3.30.93.00 668 Indenizações e Restituições 993,68
+
+Impostos 993,68
+
+02.15 SECRETARIA MUN. DE MOB.URB. E TRANSPORTE
+
+02.15.01 SECRETARIA MUN. DE MOB.URB. E TRANSPORTE
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0008 TRAFEGO URBANO
+
+04.122.0008.2554 MAN E DESENVOLV. DAS ATIVIDADES DA SEMUT
+
+3.3.90.30.00 749 Material de Consumo 110,00
+
+Impostos 110,00
+
+26 Transporte
+
+26.452 Servicos Urbanos
+
+26.452.0008 TRAFEGO URBANO
+
+26.452.0008.2012 PAGAMENTO DE PESSOAL E ENCARGOS-DEMUTRAN
+
+3.1.90.11.00 764 Vencimentos e Vant. Fixas - Pessoal Civil 10.789,38
+
+UF: MINAS GERAIS
+
+Impostos 10.789,38
+
+TOTAL: R$ 940.380,66
+
+**Art. 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação.
+
+PONTE NOVA - MG, 26 DE MAIO DE 2026
+
+MILTON TEODORO IRIAS JUNIOR
+
+PREFEITO MUNICIPAL
+
+CONSOLAÇÃO DE FREITAS SILVA PAULA
+
+SECRETARIA MUN.DE PLANEJAMENTO E GESTÃO

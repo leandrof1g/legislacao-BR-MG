@@ -1,0 +1,58 @@
+---
+titulo: "Lei Municipal nº 2941, de 22/01/2010"
+tipo: "Lei Municipal"
+tipo_na_fonte: "Lei Municipal"
+numero: "2941"
+data: "2010-01-22"
+ementa: "AUTORIZA A CONTRATAÇÃO DE PESSOAL POR TEMPO CERTO E CONTÉM OUTRAS PROVIDÊNCIAS,"
+municipio: "Manhuaçu"
+uf: "MG"
+codigo_ibge: "3139409"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhuacu.mg.leg.br/norma/1117"
+fonte_texto: "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2010/1117/1117_texto_integral.doc"
+sha256_fonte: "e28b5e36143d755ac99754d3ee4bb29645486a9413abcd35004a326f5660e251"
+baixado_em: "2026-10-29"
+---
+
+# Lei Municipal nº 2941, de 22/01/2010
+
+Lei nº 2.941/2010 De: 22 de Janeiro de 2010
+
+“Autoriza a contratação de pessoal por tempo certo e contém outras providências.”
+
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou, e eu, Sergio Marcos Carvalho Breder, Prefeito do Município, em seu nome, sanciono a seguinte lei:
+
+**Art. 1º** - Ficam autorizadas as contratações de 01 (um) psicólogo, 01 (um) médico reumatologista, 01 (um) dentista cirurgião buco maxilo facial, 01 (um) médico clínico geral, por tempo certo e determinado, por necessidade temporária de excepcional interesse público, nos termos do inciso IX do artigo 37 da Constituição Federal, c/c artigo 110 da Lei Orgânica do Município de Manhuaçu.
+
+**Art. 2º** - A contratação objeto desta Lei revestir-se-á de ato formal regido pelo DIREITO ADMINISTRATIVO e observará, quanto à duração a data de 31 de Dezembro de 2010.
+
+**Art. 3º** - A remuneração básica dos contratados é a prevista na Lei Municipal nº 2.418, de 30 de Janeiro de 2004, com suas alterações posteriores, que instituiu o Plano de Cargos e Salários da Prefeitura.
+
+**Parágrafo Único**: O regime Previdenciário será o INSTITUTO NACIONAL DO SEGURO SOCIAL – INSS, nos termos dos artigos 39 e 40 da Constituição Federal, c/c as Leis Municipais nº 2.270, de 06 de Abril de 2001 e alterada em parte, pela Lei nº 2.272 de 22 de maio de 2001.
+
+**Art. 4°** - Somente poderão ser contratados, nos termos desta Lei os interessados que comprovarem os seguintes requisitos:
+
+a)Ser brasileiro nato ou naturalizado; b)Ter completado 18 (dezoito) anos de idade; c)Estar em pleno gozo dos seus direitos políticos; d)Estar quites com as obrigações militares, se do sexo masculino; e)Ter boa conduta; f) Apresentar atestado médico comprovando estar em gozo de boa saúde física e mental; g)Comprovação de ter concluído o curso superior na área de atuação; h)Estar quites com o Conselho Regional de sua categoria.
+
+**Art. 5°** - Os contratados, a que se refere a presente Lei, estarão sujeitos aos mesmos deveres, proibições e ao mesmo regime de responsabilidade vigente para os demais servidores públicos nos termos da Constituição Federal.
+
+**Art. 6º** - Ocorrerá a rescisão contratual:
+
+I – Término do prazo contratual; II – A pedido do contratado; III – Pela conveniência da Administração Municipal, a juízo da autoridade que procedeu a contratação; IV- Quando o contratado ocorrer em falta disciplinar.
+
+**Art. 7º** - Os requisitos básicos de contratação, a jornada de trabalho e o descanso do contratado, serão de acordo com as Leis Municipais 1.682/91 e 2.418/2004, alterada pela Lei 2.896/2009.
+
+**Art. 8º** - O tempo de serviço prestado em virtude da contratação de que se trata esta Lei, será contado para os devidos fins de direito.
+
+**Art. 9º** - Fica o Senhor Prefeito Municipal, autorizado a regulamentar a presente Lei, no que couber, mediante Decreto.
+
+**Art. 10** - As despesas resultantes da execução desta Lei, correrão por conta das dotações orçamentárias próprias, constantes do Orçamento do Município.
+
+**Art. 11** - Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+Manhuaçu(MG), 22 de Janeiro de 2010.
+
+Sergio Marcos Carvalho Breder
+
+Prefeito Municipal

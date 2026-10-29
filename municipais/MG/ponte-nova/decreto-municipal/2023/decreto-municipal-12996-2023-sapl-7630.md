@@ -1,0 +1,62 @@
+---
+titulo: "Decreto Municipal nº 12996, de 10/04/2023"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "12996"
+data: "2023-04-10"
+ementa: "Abre Crédito Adicional Suplementar."
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/7630"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2023/7630/dec_12.996.2023.pdf"
+sha256_fonte: "23e3535f798169b0185e2d0896ce711a6b260d9be653a6c8f242486f91392c3f"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Municipal nº 12996, de 10/04/2023
+
+DECRETO Nº 12.996, DE 10/04/2023 ABRE CREDITO ADICIONAL SUPLEMENTAR O PREFEITO MUNICIPAL de PONTE NOVA, no uso de suas atribuições legais, nos termos da Lei No 4320/64 e, Lei Municipal Nº 4644 / 2022 CONSIDERANDO: O que estabelece o inciso I do art. 5º da lei municipal 4644/2022, Fica o Poder Executivo autorizado a: I - abrir créditos suplementares, respeitadas as demais prescrições constitucionais e nos termos da Lei Federal nº 4.320/1964 até o limite de 20% (vinte por cento) do valor total do orçamento, por anulação parcial ou total de dotações. DECRETA: Artigo 1º - Ficam abertos creditos Adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente: 02 EXECUTIVO MUNICIPAL 02.05 SECRETARIA MUNICIPAL DE OBRAS 02.05.01 SECRETARIA MUNICIPAL DE OBRAS 04 Administracao 04.122 Administracao Geral 04.122.0006 ADM. GERAL DA SECRETARIA MUNICIPAL OBRA 04.122.0006.2021 MANUTENCAO DAS ATIVIDADES DA SEMOB 4.4.90.52.00 161 Equipamento e Material Permanente 1.217,68 1.500.000.0000 Recursos não vinculados de Impostos 1.217,68
+
+02.06.01 ADMINISTRACAO GERAL DA SEMASH
+
+08.122 Administracao Geral 08.122.0010 ADMINISTRACAO GERAL DA SEMASH 08.122.0010.2028 MANUTENCAO DA SECRETARIA MUNICIPAL DE A 3.3.90.48.00 210 Outros Auxílios Financ. Pessoas Físicas 3.846,43 1.500.000.0000 Recursos não vinculados de Impostos 3.846,43 02.06.03 ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+
+08.243 Assist. a Crianca e ao Adolescente 08.243.0014 ASSISTENCIA A CRIANCA E AO ADOLESCENTE 08.243.0014.2052 MANUTENCAO DO CONSELHO TUTELAR 3.3.90.39.00 313 Outros Serv. Terceiros - Pessoa Jurídica 1.444,00 1.500.000.0000 Recursos não vinculados de Impostos 1.444,00
+
+10.122.0017.2065 MANUTENCAO DA FROTA DO FMS 3.3.90.39.00 348 Outros Serv. Terceiros - Pessoa Jurídica 588,43 1.500.000.0000 Recursos não vinculados de Impostos 588,43 10.301 Atencao Basica 10.301.0018 PROGRAMA DE ASSISTENCIA AMBULATORIAL 10.301.0018.2075 MANUTENÇÃO DAS ATIVIDADES DO PSF - SAUD 3.3.90.39.00 369 Outros Serv. Terceiros - Pessoa Jurídica 188.900,00 1.621.000.0000 Transf. Fundo/Fundo Recur. SUS 188.900,00 10.301.0019 SAUDE COMUNITARIA - ATENCAO BASICA 10.301.0019.1310 EMENDA IMPOSITIVA LEGISLATIVO-SAUDE 3.3.90.39.00 377 Outros Serv. Terceiros - Pessoa Jurídica 67.000,00 1.500.000.0000 Recursos não vinculados de Impostos 67.000,00 02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED 02.08.02 EDUCACAO BASICA - 25% 12 Educacao 12.122 Administracao Geral 12.122.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.122.0026.1315 EMENDA IMPOSITIVA LEGISLATIVO - EDUCACA 3.3.90.39.00 532 Outros Serv. Terceiros - Pessoa Jurídica 21.816,85 1.500.000.0000 Recursos não vinculados de Impostos 21.816,85 02.09 SECRETARIA MUNICIPAL DE DESENVOLV. RURA
+
+Página 1 de 4
+
+02.09.01 ADMINISTRACAO GERAL DA SEDRU 20 Agricultura 20.122 Administracao Geral 20.122.0027 ADMINISTRACAO GERAL DA SEDRU 20.122.0027.1317 EMENDA IMPOSITIVA LEGISLATIVO - SEDRU 3.3.90.30.00 601 Material de Consumo 93,54 1.500.000.0000 Recursos não vinculados de Impostos 93,54 02.10 SECRETARIA MUNICIPAL DE MEIO AMBIENTE 02.10.01 ADMINISTRACAO GERAL DA SEMAM 18 Gestao Ambiental 18.122 Administracao Geral 18.122.0031 ADMINISTRACAO GERAL DA SEMAM 18.122.0031.2162 MANUTENCAO DAS ATIVIDADES DA SEMAM 3.3.90.47.00 632 Obrigações Tributárias e Contributivas 5.207,98 1.708.000.0000 Transf. União Ref. à Compens. Financ 5.207,98 02.11 SECRETARIA MUNICIPAL DE CULTURA E TURIS 02.11.01 ADMINISTRACAO GERAL DA SEMCT 13 Cultura 13.122 Administracao Geral 13.122.0037 ADMINISTRACAO GERAL DA SEMCT 13.122.0037.2169 MANUTENCAO DA SEMCT - SECRETARIA M. DE 3.3.90.39.00 673 Outros Serv. Terceiros - Pessoa Jurídica 10.340,39 1.500.000.0000 Recursos não vinculados de Impostos 10.340,39 02.11.05 DESENVOLVIMENTO DO TURISMO 13 Cultura 13.695 Turismo 13.695.0041 DESENVOLVIMENTO DO TURISMO 13.695.0041.2182 REALIZACAO DE FESTIVIDADES E EVENTOS TR 3.3.90.39.00 698 Outros Serv. Terceiros - Pessoa Jurídica 1.427,65 1.500.000.0000 Recursos não vinculados de Impostos 1.427,65
+
+02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08.244 Assistencia Comunitaria 08.244.0075 BLOCO DA GESTAO 08.244.0075.2482 MANUT. DOS CONSELHOS MUNICIPAIS 3.3.90.47.00 839 Obrigações Tributárias e Contributivas 175,00 1.500.000.0000 Recursos não vinculados de Impostos 175,00
+
+10.122.0017.2063 MANUTENÇÃO DAS ATIVIDADES DO FUNDO MUNI 3.3.90.36.00 840 Outros Serviços Terceiros- Pessoa Física 12.500,00 1.500.000.0000 Recursos não vinculados de Impostos 12.500,00 02.05 SECRETARIA MUNICIPAL DE OBRAS 02.05.01 SECRETARIA MUNICIPAL DE OBRAS 06 Seguranca Publica 06.846 Outros Encargos Especiais 06.846.0000 OPERAÇÃO ESPECIAL 06.846.0000.2486 CONVENIO POLICIA MILITAR DE MINAS GERAI 3.3.30.92.00 841 Despesas de Exercícios Anteriores 9.000,00 1.752.000.0000 Recursos Vinculados ao Trânsito 9.000,00 TOTAL DOS CRÉDITOS: R$ 323.557,95
+
+**Artigo 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4320/64: 02 EXECUTIVO MUNICIPAL 02.05 SECRETARIA MUNICIPAL DE OBRAS 02.05.01 SECRETARIA MUNICIPAL DE OBRAS 04 Administracao 04.122 Administracao Geral 04.122.0006 ADM. GERAL DA SECRETARIA MUNICIPAL OBRA 04.122.0006.2021 MANUTENCAO DAS ATIVIDADES DA SEMOB
+
+Página 2 de 4
+
+3.3.20.93.00 155 Indenizações e Restituições 1.217,68 1.500.000.0000 Recursos não vinculados de Impostos 1.217,68 06 Seguranca Publica 06.122 Administracao Geral 06.122.0008 TRAFEGO URBANO 06.122.0008.2011 MANUTENCAO DO DEPARTAMENTO MUNICIPAL DE 3.3.90.39.00 176 Outros Serv. Terceiros - Pessoa Jurídica 9.000,00 1.752.000.0000 Recursos Vinculados ao Trânsito 9.000,00
+
+02.06.01 ADMINISTRACAO GERAL DA SEMASH
+
+08.122 Administracao Geral 08.122.0010 ADMINISTRACAO GERAL DA SEMASH 08.122.0010.2028 MANUTENCAO DA SECRETARIA MUNICIPAL DE A 4.4.90.52.00 213 Equipamento e Material Permanente 5.290,43 1.500.000.0000 Recursos não vinculados de Impostos 5.290,43 02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08.244 Assistencia Comunitaria 08.244.0075 BLOCO DA GESTAO 08.244.0075.2482 MANUT. DOS CONSELHOS MUNICIPAIS 3.3.90.14.00 297 Diárias - Pessoal Civil 175,00 1.500.000.0000 Recursos não vinculados de Impostos 175,00
+
+10.122.0017.2063 MANUTENÇÃO DAS ATIVIDADES DO FUNDO MUNI 4.4.90.52.00 341 Equipamento e Material Permanente 13.088,43 1.500.000.0000 Recursos não vinculados de Impostos 13.088,43 10.301 Atencao Basica 10.301.0018 PROGRAMA DE ASSISTENCIA AMBULATORIAL 10.301.0018.2075 MANUTENÇÃO DAS ATIVIDADES DO PSF - SAUD 3.3.90.30.00 368 Material de Consumo 188.900,00 1.621.000.0000 Transf. Fundo/Fundo Recur. SUS 188.900,00 10.301.0019 SAUDE COMUNITARIA - ATENCAO BASICA 10.301.0019.1310 EMENDA IMPOSITIVA LEGISLATIVO-SAUDE 4.4.90.51.00 378 Obras e Instalações 67.000,00 1.500.000.0000 Recursos não vinculados de Impostos 67.000,00 02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED 02.08.02 EDUCACAO BASICA - 25% 12 Educacao 12.122 Administracao Geral 12.122.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.122.0026.1315 EMENDA IMPOSITIVA LEGISLATIVO - EDUCACA 4.4.90.51.00 533 Obras e Instalações 21.816,85 1.500.000.0000 Recursos não vinculados de Impostos 21.816,85 02.09 SECRETARIA MUNICIPAL DE DESENVOLV. RURA 02.09.01 ADMINISTRACAO GERAL DA SEDRU 20 Agricultura 20.122 Administracao Geral 20.122.0027 ADMINISTRACAO GERAL DA SEDRU 20.122.0027.2154 MANUTENCAO DAS ATIVIDADE DA SEDRU 3.3.90.30.00 603 Material de Consumo 93,54 1.500.000.0000 Recursos não vinculados de Impostos 93,54 02.10 SECRETARIA MUNICIPAL DE MEIO AMBIENTE 02.10.01 ADMINISTRACAO GERAL DA SEMAM 18 Gestao Ambiental 18.122 Administracao Geral 18.122.0031 ADMINISTRACAO GERAL DA SEMAM 18.122.0031.2162 MANUTENCAO DAS ATIVIDADES DA SEMAM 4.4.90.52.00 635 Equipamento e Material Permanente 5.207,98 1.708.000.0000 Transf. União Ref. à Compens. Financ 5.207,98 02.11 SECRETARIA MUNICIPAL DE CULTURA E TURIS 02.11.01 ADMINISTRACAO GERAL DA SEMCT Página 3 de 4
+
+13 Cultura 13.122 Administracao Geral 13.122.0037 ADMINISTRACAO GERAL DA SEMCT 13.122.0037.2169 MANUTENCAO DA SEMCT - SECRETARIA M. DE 4.4.90.52.00 675 Equipamento e Material Permanente 10.000,00 1.500.000.0000 Recursos não vinculados de Impostos 10.000,00 02.11.05 DESENVOLVIMENTO DO TURISMO 13 Cultura 13.695 Turismo 13.695.0041 DESENVOLVIMENTO DO TURISMO 13.695.0041.2182 REALIZACAO DE FESTIVIDADES E EVENTOS TR 3.3.90.30.00 695 Material de Consumo 1.768,04 1.500.000.0000 Recursos não vinculados de Impostos 1.768,04 TOTAL: R$ 323.557,95
+
+**Artigo 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação. PONTE NOVA, 10 DE ABRIL DE 2023
+
+WAGNER MOL GUIMARAES PREFEITO MUNICIPAL
+
+AFONSO MAURO PINHO RIBEIRO CPF: 143.956.146-04 SECRET. MUNICIPAL DE PLANEJAMENTO E DES. ECONOMICO
+
+Página 4 de 4

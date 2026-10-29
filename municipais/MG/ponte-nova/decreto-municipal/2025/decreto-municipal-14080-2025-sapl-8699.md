@@ -1,0 +1,72 @@
+---
+titulo: "Decreto Municipal nº 14080, de 28/04/2025"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "14080"
+data: "2025-04-28"
+ementa: "Abre Crédito Adicional Suplementar"
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/8699"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2025/8699/dec_14.080.2025.pdf"
+sha256_fonte: "94f5698f32e539869611e68dce838e8c4b67765c130d6c6f1e7f0c99d07ffea5"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Municipal nº 14080, de 28/04/2025
+
+DECRETO Nº 14.080, DE 28.04.2025
+
+Abre Crédito Adicional Suplementar
+
+O PREFEITO MUNICIPAL de PONTE NOVA, no uso de suas atribuições legais, nos termos da Lei nº 4.320/1964 e Lei Municipal nº 4.810/2024,
+
+CONSIDERANDO:
+
+O que estabelece inciso I do art. 5º, Da Lei Municipal nº 4.810/2024, fica o Poder Executivo autorizado a:abrir créditos suplementares, respeitadas as demais prescrições constitucionais, e nos termos da Lei Federal nº 4.320/1964 até o limite de 20% (vinte por cento) do valor total do orçamento, por anulação parcial ou total de dotações.
+
+DECRETA:
+
+**Art. 1º** Ficam abertos creditos Adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente: 02 EXECUTIVO MUNICIPAL 02.05 SECRETARIA MUNICIPAL DE OBRAS 02.05.01 SECRETARIA MUNICIPAL DE OBRAS
+
+04.122.0006 ADM. GERAL DA SECRETARIA 04.122.0006.2022 PAGAMENTO DE PESSOAL E ENCARGOS - SEMOB 3.3.90.46.00 155 Auxílio-alimentação 2.029,36 1.500.000.0000 Recursos não vinculados de Impostos 2.029,36 15 Urbanismo 15.451 Infra-estrutura Urbana 15.451.0007 MANUTENÇÃO VIAS URBANAS, ÁREAS PUBLICAS 15.451.0007.2024 MANUTENCAO DE VIAS URBANAS E ESPACOS PU 3.3.90.39.00 181 Outros Serv. Terceiros - Pessoa Jurídica 250.000,00 1.720.000.0000 Transf.União Ref.Part.Explor.Petr Rec 250.000,00 15.451.0007.2041 RECOMPOSICAO DA MALHA VIARIA - CIDE 3.3.90.47.00 183 Obrigações Tributárias e Contributivas 250,00 1.750.000.0000 Recursos da Contrib. Interv. Dom. 250,00 02.07 SECRETARIA MUNICIPAL DE SAUDE 02.07.02 FUNDO MUNICIPAL DE SAUDE 10 Saude 10.301 Atencao Basica 10.301.0019 SAUDE COMUNITARIA - ATENCAO BASICA 10.301.0019.2505 MANUTENCAO DA ATENCAO BASICA 3.3.90.39.00 391 Outros Serv. Terceiros - Pessoa Jurídica 120.000,00 1.600.000.0000 Transf. Fundo/Fundo Recur. SUS 120.000,00 10.301.0062 ASSISTENCIA FARMACEUTICA 10.301.0062.2352 PAGAMENTO DE PESSOAL E ENCARGOS DA FARM 3.1.90.16.00 411 Outras Despesas Variáveis -Pessoal Civil 30,13 1.500.000.0000 Recursos não vinculados de Impostos 30,13 10.304 Vigilancia Sanitaria 10.304.0023 VIGILANCIA SANITARIA 10.304.0023.2111 MANUTENÇÃO DO SERVICO DE VIGILANCIA SAN 3.3.90.14.00 470 Diárias - Pessoal Civil 1.737,00 1.621.000.0000 Transf. Fundo/Fundo Recur. SUS 1.737,00
+
+02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED 02.08.01 ADMINISTRACAO GERAL DA SEMED
+
+12.306 Alimentacao e Nutricao 12.306.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.306.0026.2133 PAGAMENTO DE PESSOAL E ENCARGOS ALMOXAR 3.1.90.16.00 502 Outras Despesas Variáveis -Pessoal Civil 1.071,78 1.500.000.0000 Recursos não vinculados de Impostos 1.071,78 02.08.03 EDUCACAO BASICA - R. VINCULADOS
+
+12.361.0026.2142 MANUTENCAO DA EDUCACAO BASICA - QESE 3.3.90.39.00 587 Outros Serv. Terceiros - Pessoa Jurídica 131.620,80 1.550.000.0000 Transferência do Salário-Educação 131.620,80 02.10 SECRETARIA MUNICIPAL DE MEIO AMBIENTE 02.10.01 ADMINISTRACAO GERAL DA SEMAM 17 Saneamento 17.512 Saneamento Basico Urbano 17.512.0032 MANUTENCAO DA LIMPEZA PUBLICA 17.512.0032.2165 PAGAMENTO DE PESSOAL E ENCARGOS - SLU 3.1.90.16.00 641 Outras Despesas Variáveis -Pessoal Civil 10.126,93 1.501.000.0000 Outros Recursos não Vinculados 10.126,93 3.3.90.46.00 643 Auxílio-alimentação 14.665,28 1.501.000.0000 Outros Recursos não Vinculados 14.665,28 18 Gestao Ambiental 18.122 Administracao Geral 18.122.0031 ADMINISTRACAO GERAL DA SEMAM 18.122.0031.2163 PAGAMENTO DE PESSOAL E ENCARGOS SEMAM 3.3.90.08.00 657 Outros Benefícios Assistenciais 268,23 1.500.000.0000 Recursos não vinculados de Impostos 268,23 02.11 SECRETARIA MUNIC.DE CULTURA E PATRIMONIO 02.11.06 MANUTENÇÃO DO FUNDO DE CULTURA 13 Cultura 13.392 Difusao Cultural 13.392.0042 MANUT.FUNDO MUNIC. DE CULTURA - FMC 13.392.0042.2183 MANUTENCAO DO FUNDO MUNICIPAL DE CULTUR 3.3.50.41.00 717 Contribuições 20.000,00 1.500.000.0000 Recursos não vinculados de Impostos 20.000,00 02.12 SECRET. MUNIC. DE DESENV.ECON. URBANISMO 02.12.01 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+04.122.0043 PLANEJAMENTO E SUPERVISÃO DO ORÇAMENTO 04.122.0043.2185 PAGAMENTO DE PESSOAL E ENCARDOS SEDEURB 3.1.90.16.00 736 Outras Despesas Variáveis -Pessoal Civil 3.376,45 1.500.000.0000 Recursos não vinculados de Impostos 3.376,45 04.363 Ensino Profissional 04.363.0045 DESENVOLVIMENTO ECONOMICO 04.363.0045.2512 PAGAMENTO DE PESSOAL E ENCARGOS - CVT 3.1.90.16.00 753 Outras Despesas Variáveis -Pessoal Civil 545,90 1.500.000.0000 Recursos não vinculados de Impostos 545,90 02.14 SECRETARIA MUNICIPAL DE PLANEJ. E GESTÃO 02.14.01 SECRETARIA MUNICIPAL DE PLANEJ. E GESTAO
+
+04.121 Planejamento e Orcamento 04.121.0043 PLANEJAMENTO E SUPERVISÃO DO ORÇAMENTO 04.121.0043.2552 PAGAMENTO DE PESSOAL E ENCARGOS SEPLAG 3.1.90.13.00 889 Obrigações Patronais 11.695,75 1.500.000.0000 Recursos não vinculados de Impostos 11.695,75 02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED 02.08.02 EDUCACAO BASICA - 25%
+
+12.122 Administracao Geral 12.122.0025 ADMINISTRACAO GERAL DA SEMED 12.122.0025.2128 PAGAMENTO DE PESSOAL E ENCARGOS - SEMED 3.1.90.04.00 915 Contratação por Tempo Determinado 10.442,40
+
+1.500.000.0000 Recursos não vinculados de Impostos 10.442,40
+
+12.361.0026.2136 PAGAMENTO DE PESSOAL E ENCARGOS - ENSIN 3.1.90.04.00 919 Contratação por Tempo Determinado 9.155,94 1.500.000.0000 Recursos não vinculados de Impostos 9.155,94 12.365 Educacao Infantil 12.365.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.365.0026.2138 PAGAMENTO DE PESSOAL E ENCARGOS DA EDUC 3.1.90.04.00 920 Contratação por Tempo Determinado 5.647,15 1.500.000.0000 Recursos não vinculados de Impostos 5.647,15 TOTAL DOS CRÉDITOS: R$ 592.663,10
+
+**Art. 2º** Para atender ao disposto nos artigos acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º, da Lei 4320/64:
+
+02 EXECUTIVO MUNICIPAL 02.05 SECRETARIA MUNICIPAL DE OBRAS 02.05.01 SECRETARIA MUNICIPAL DE OBRAS
+
+04.122.0006 ADM. GERAL DA SECRETARIA 04.122.0006.2021 MANUTENCAO DAS ATIVIDADES DA SEMOB 3.3.30.93.00 144 Indenizações e Restituições 2.029,36 1.500.000.0000 Recursos não vinculados de Impostos 2.029,36 15 Urbanismo 15.451 Infra-estrutura Urbana 15.451.0007 MANUTENÇÃO VIAS URBANAS, ÁREAS PUBLICAS 15.451.0007.2024 MANUTENCAO DE VIAS URBANAS E ESPACOS PU 3.3.90.30.00 180 Material de Consumo 250.000,00 1.720.000.0000 Transf.União Ref.Part.Explor.Petr Rec 250.000,00 15.451.0007.2041 RECOMPOSICAO DA MALHA VIARIA - CIDE 3.3.90.30.00 182 Material de Consumo 250,00 1.750.000.0000 Recursos da Contrib. Interv. Dom. 250,00 02.07 SECRETARIA MUNICIPAL DE SAUDE 02.07.02 FUNDO MUNICIPAL DE SAUDE 10 Saude 10.122 Administracao Geral 10.122.0017 ADMINISTRAÇÃO GERAL DO FUNDO M. DE SAUDE 10.122.0017.2063 MANUTENÇÃO DAS ATIVIDADES DO FUNDO MUNICIPAL 4.4.90.52.00 335 Equipamento e Material Permanente 30,13 1.500.000.0000 Recursos não vinculados de Impostos 30,13 10.301 Atencao Basica 10.301.0019 SAUDE COMUNITARIA - ATENCAO BASICA 10.301.0019.2505 MANUTENCAO DA ATENCAO BASICA 3.3.90.30.00 389 Material de Consumo 120.000,00 1.600.000.0000 Transf. Fundo/Fundo Recur. SUS 120.000,00 10.305 Vigilancia Epidemiologica 10.305.0024 VIGILANCIA EPIDEMIOLOGICA 10.305.0024.2116 MANUTENÇÃO DAS ACOES DE VIGILANCIA EPIDEMIOLOGIA 3.3.90.39.00 489 Outros Serv. Terceiros - Pessoa Jurídica 1.737,00 1.621.000.0000 Transf. Fundo/Fundo Recur. SUS 1.737,00 02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED 02.08.01 ADMINISTRACAO GERAL DA SEMED
+
+12.306 Alimentacao e Nutricao 12.306.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.306.0026.2133 PAGAMENTO DE PESSOAL E ENCARGOS ALMOXARIFADO 3.3.90.08.00 503 Outros Benefícios Assistenciais 1.071,78 1.500.000.0000 Recursos não vinculados de Impostos 1.071,78 02.08.02 EDUCACAO BASICA - 25%
+
+12.361.0026.2135 MANUTENCAO DO ENSINO FUNDAMENTAL
+
+3.3.90.30.00 534 Material de Consumo 5.647,15 1.500.000.0000 Recursos não vinculados de Impostos 5.647,15 12.365 Educacao Infantil 12.365.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.365.0026.2461 PAGAMENTO DE PESSOAL E ENC. - CRECHE 3.1.90.04.00 565 Contratação por Tempo Determinado 19.598,34 1.500.000.0000 Recursos não vinculados de Impostos 19.598,34 02.08.03 EDUCACAO BASICA - R. VINCULADOS
+
+12.361.0026.2142 MANUTENCAO DA EDUCACAO BASICA - QESE 3.3.90.30.00 584 Material de Consumo 131.620,80 1.550.000.0000 Transferência do Salário-Educação 131.620,80 02.10 SECRETARIA MUNICIPAL DE MEIO AMBIENTE 02.10.01 ADMINISTRACAO GERAL DA SEMAM 17 Saneamento 17.512 Saneamento Basico Urbano 17.512.0032 MANUTENCAO DA LIMPEZA PUBLICA 17.512.0032.2165 PAGAMENTO DE PESSOAL E ENCARGOS - SLU 3.1.90.11.00 639 Vencimentos e Vant. Fixas- Pessoal Civil 24.792,21 1.501.000.0000 Outros Recursos não Vinculados 24.792,21 18 Gestao Ambiental 18.541 Preservacao e Conservacao Ambiental 18.541.0034 GESTAO, CONSERVACAO E PRESERV. AMBIENTA 18.541.0034.1222 REFORMA E REVITALIZAÇÃO PRAÇAS, JARDINS 4.4.90.51.00 668 Obras e Instalações 268,23 1.500.000.0000 Recursos não vinculados de Impostos 268,23 02.11 SECRETARIA MUNIC.DE CULTURA E PATRIMONIO 02.11.06 MANUTENÇÃO DO FUNDO DE CULTURA 13 Cultura 13.392 Difusao Cultural 13.392.0042 MANUT.FUNDO MUNIC. DE CULTURA - FMC 13.392.0042.2183 MANUTENCAO DO FUNDO MUNICIPAL DE CULTUR 3.3.90.48.00 718 Outros Auxílios Financ. Pessoas Físicas 20.000,00 1.500.000.0000 Recursos não vinculados de Impostos 20.000,00 02.12 SECRET. MUNIC. DE DESENV.ECON. URBANISMO 02.12.01 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+04.121 Planejamento e Orcamento 04.121.0043 PLANEJAMENTO E SUPERVISÃO DO ORÇAMENTO 04.121.0043.2184 MANUTENCAO DAS ATIVIDADES - SEDEURB 3.3.30.93.00 726 Indenizações e Restituições 15.618,10 1.500.000.0000 Recursos não vinculados de Impostos 15.618,10 TOTAL: R$ 592.663,10
+
+**Art. 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação.
+
+Ponte Nova – MG, 28 de abril de 2025
+
+Milton Teodoro Irias Junior Consolação de Freitas Silva Paula CPF XXX.610.087-XX CPF XXX.089.846-XX Prefeito Municipal Secretaria Mun. de Planejamento e Gestão

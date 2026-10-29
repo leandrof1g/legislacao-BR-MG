@@ -1,0 +1,72 @@
+---
+titulo: "Decreto Municipal nº 12686, de 20/09/2022"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "12686"
+data: "2022-09-20"
+ementa: "O Decreto não traz ementa. Trata-se de crédito adicional suplementar."
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/7012"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2022/7012/dec_12.686.2022.pdf"
+sha256_fonte: "13e9ff67128cde09ae7524f196eaa9f5f4aa2caf29cf58241fa0f92b6dc25c4c"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Municipal nº 12686, de 20/09/2022
+
+DECRETO No:12686/2022 ABRE CREDITO ADICIONAL SUPLEMENTAR O PREFEITO MUNICIPAL de PONTE NOVA, no uso de suas atribuições legais, nos termos da Lei No 4320/64 e, Lei Municipal Nº 4531 / 2021 CONSIDERANDO: O que estabelece o inciso I do art. 4º da referida lei Fica o Poder Executivo autorizado a: I - abrir créditos suplementares, respeitadas as demais prescrições constitucionais e nos termos da Lei Federal nº 4.320/1964 até o limite de 20% (vinte por cento) do valor total do orçamento, por anulação parcial ou total de dotações; DECRETA: Artigo 1º - Ficam abertos creditos Adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente: 02 EXECUTIVO MUNICIPAL 02.01 GABINETE DO PREFEITO 02.01.02 ASSESSORIA JURIDICA - AJU
+
+04.122.0002 ADMINIST. GERAL DA ASSESSORIA JURIDICA 04.122.0002.2004 MANUTENCAO DA ASSESSORIA JURIDICA 3.3.90.39.00 044 Outros Serv. Terceiros - Pessoa Jurídica 22.000,00 1.00.00 Recursos Não Vinculados de Impostos 22.000,00 02.02 SECRETARIA MUNICIPAL DE GOVERNO 02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+04.122.0003 ADMINIST. GERAL DA SECRETARIA DE GOVERN 04.122.0003.2007 MANUTENCAO DA SECRETARIA MUNICIPAL DE G 3.3.90.92.00 064 Despesas de Exercícios Anteriores 31.638,08 1.00.00 Recursos Não Vinculados de Impostos 31.638,08 04.122.0003.2017 AQUISIÇÃO DE BENS E SERVICOS COMUNS AS 3.3.91.39.00 076 Outros Serv. Terceiros -Pessoa Jurídica 1.995,95 1.00.00 Recursos Não Vinculados de Impostos 1.995,95 02.05 SECRETARIA MUNICIPAL DE OBRAS 02.05.01 SECRETARIA MUNICIPAL DE OBRAS
+
+04.122.0006 ADM. GERAL DA SECRETARIA MUNICIPAL OBRA 04.122.0006.2023 MANUTENCAO DA FROTA DA PREFEITURA 3.3.90.30.00 137 Material de Consumo 59.193,51 1.00.00 Recursos Não Vinculados de Impostos 59.193,51 15 Urbanismo 15.451 Infra-estrutura Urbana 15.451.0007 MANUTENÇÃO VIAS URBANAS, ÁREAS PUBLICAS 15.451.0007.2024 MANUTENCAO DE VIAS URBANAS E ESPACOS PU 3.3.90.30.00 159 Material de Consumo 2.053,35 1.00.00 Recursos Não Vinculados de Impostos 2.053,35 02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI 02.06.01 ADMINISTRACAO GERAL DA SEMASH
+
+08.122 Administracao Geral 08.122.0010 ADMINISTRACAO GERAL DA SEMASH 08.122.0010.2028 MANUTENCAO DA SECRETARIA MUNICIPAL DE A 3.3.90.30.00 170 Material de Consumo 11.900,00 1.00.00 Recursos Não Vinculados de Impostos 11.900,00 3.3.91.39.00 178 Outros Serv. Terceiros -Pessoa Jurídica 931,33 1.00.00 Recursos Não Vinculados de Impostos 931,33 02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08.241 Assistencia ao Idoso 08.241.0011 ASSISTENCIA AO IDOSO 08.241.0011.2030 MANUTENCAO DO ASILO MUNICIPAL 3.3.90.30.00 189 Material de Consumo 36.000,00 1.00.00 Recursos Não Vinculados de Impostos 36.000,00
+
+3.3.90.39.00 190 Outros Serv. Terceiros - Pessoa Jurídica 16.761,92 1.70.00 Outros Recursos Não Vinculados 16.761,92 08.244 Assistencia Comunitaria 08.244.0072 BLOCO DA PROTECAO SOCIAL BASICA 08.244.0072.2380 MANUTENÇÃO DO SERVIÇO DE CONVIVENCIA E 3.3.90.30.00 208 Material de Consumo 907,46 1.29.00 Transf. Rec.Fund.Nacional A.Social - 907,46 02.06.04 FUNDO MUNICIPAL DE HABITACAO
+
+08.482 Habitacao Urbana 08.482.0015 DESENVOLVIMENTO HABITACIONAL 08.482.0015.2391 ASSISTENCIA E MELHORIA DA QUALIDADE DE 3.3.90.32.00 301 Material, Bem ou Serviço p/Dist.Gratuita 4.904,46 1.00.00 Recursos Não Vinculados de Impostos 4.904,46 02.07 SECRETARIA MUNICIPAL DE SAUDE 02.07.02 FUNDO MUNICIPAL DE SAUDE 10 Saude 10.122 Administracao Geral 10.122.0017 ADMINISTRAÇÃO GERAL DO FUNDO M. DE SAUD 10.122.0017.2063 MANUTENÇÃO DAS ATIVIDADES DO FUNDO MUNI 3.3.90.39.00 312 Outros Serv. Terceiros - Pessoa Jurídica 6.600,00 1.02.00 Recursos Próprios - Saúde mínimo 15% 6.600,00 10.301 Atencao Basica 10.301.0018 PROGRAMA DE ASSISTENCIA AMBULATORIAL 10.301.0018.2075 MANUTENÇÃO DAS ATIVIDADES DO PSF - SAUD 3.3.90.30.00 352 Material de Consumo 815,27 1.55.00 Transf. Recursos Fundo Estadual de 815,27 10.301.0019 SAUDE COMUNITARIA - ATENCAO BASICA 10.301.0019.2505 MANUTENCAO DA ATENCAO BASICA 3.3.91.39.00 387 Outros Serv. Terceiros -Pessoa Jurídica 887,63 1.59.00 Transf. Rec SUS - Bloco Manut ASP 887,63 10.302 Assist. Hospitalar e Ambulatorial 10.302.0021 ASSIST. AMBUL. MEDIA COMPLEXIDADE - RED 10.302.0021.2090 MANUTENÇÃO DAS ATIVIDADES DO CAPS 3.3.90.30.00 406 Material de Consumo 11.620,52 1.59.00 Transf. Rec SUS - Bloco Manut ASP 11.620,52 10.302.0021.2369 MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO 3.3.91.39.00 429 Outros Serv. Terceiros -Pessoa Jurídica 465,49 1.59.00 Transf. Rec SUS - Bloco Manut ASP 465,49 02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED 02.08.01 ADMINISTRACAO GERAL DA SEMED
+
+12.306 Alimentacao e Nutricao 12.306.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.306.0026.2132 MANUTENCAO DA MERENDA ESCOLAR 3.3.90.30.00 473 Material de Consumo 19.000,00 1.00.00 Recursos Não Vinculados de Impostos 19.000,00 02.08.02 EDUCACAO BASICA - 25%
+
+12.122 Administracao Geral 12.122.0025 ADMINISTRACAO GERAL DA SEMED 12.122.0025.2127 MANUTENCAO DAS ATIVIDADES DA SEMED 3.3.90.30.00 488 Material de Consumo 242.712,00 1.01.00 Recursos Próprios - Educação mínimo 242.712,00 3.3.90.39.00 490 Outros Serv. Terceiros - Pessoa Jurídica 15.504,00 1.01.00 Recursos Próprios - Educação mínimo 15.504,00
+
+12.361.0026.2135 MANUTENCAO DO ENSINO FUNDAMENTAL 3.3.91.39.00 506 Outros Serv. Terceiros -Pessoa Jurídica 3.316,48 1.01.00 Recursos Próprios - Educação mínimo 3.316,48 12.365 Educacao Infantil 12.365.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.365.0026.2137 MANUTENCAO DA EDUCACAO INFANTIL 3.3.90.30.00 524 Material de Consumo 3.613,88 1.01.00 Recursos Próprios - Educação mínimo 3.613,88
+
+02.08.03 EDUCACAO BASICA - R. VINCULADOS
+
+12.361.0026.2142 MANUTENCAO DA EDUCACAO BASICA - QESE 3.3.91.39.00 552 Outros Serv. Terceiros -Pessoa Jurídica 1.810,64 1.47.00 Transferência do Salário - Educação 1.810,64 02.11 SECRETARIA MUNICIPAL DE CULTURA E TURIS 02.11.05 DESENVOLVIMENTO DO TURISMO 13 Cultura 13.695 Turismo 13.695.0041 DESENVOLVIMENTO DO TURISMO 13.695.0041.2182 REALIZACAO DE FESTIVIDADES E EVENTOS TR 3.3.90.30.00 671 Material de Consumo 1.000,00 1.00.00 Recursos Não Vinculados de Impostos 1.000,00 TOTAL DOS CRÉDITOS: R$ 495.631,97
+
+**Artigo 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4320/64: 02 EXECUTIVO MUNICIPAL 02.02 SECRETARIA MUNICIPAL DE GOVERNO 02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+04.122.0003 ADMINIST. GERAL DA SECRETARIA DE GOVERN 04.122.0003.2007 MANUTENCAO DA SECRETARIA MUNICIPAL DE G 3.3.90.39.00 062 Outros Serv. Terceiros - Pessoa Jurídica 10.374,85 1.00.00 Recursos Não Vinculados de Impostos 10.374,85 04.122.0003.2009 DIVULGACAO OFICIAL 3.3.90.39.00 072 Outros Serv. Terceiros - Pessoa Jurídica 4.904,46 1.00.00 Recursos Não Vinculados de Impostos 4.904,46 02.05 SECRETARIA MUNICIPAL DE OBRAS 02.05.01 SECRETARIA MUNICIPAL DE OBRAS
+
+04.122.0006 ADM. GERAL DA SECRETARIA MUNICIPAL OBRA 04.122.0006.2021 MANUTENCAO DAS ATIVIDADES DA SEMOB 3.3.90.93.00 131 Indenizações e Restituições 2.053,35 1.00.00 Recursos Não Vinculados de Impostos 2.053,35 15 Urbanismo 15.451 Infra-estrutura Urbana 15.451.0007 MANUTENÇÃO VIAS URBANAS, ÁREAS PUBLICAS 15.451.0007.2024 MANUTENCAO DE VIAS URBANAS E ESPACOS PU 3.3.90.30.00 159 Material de Consumo 16.761,92 1.70.00 Outros Recursos Não Vinculados 16.761,92 02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI 02.06.01 ADMINISTRACAO GERAL DA SEMASH
+
+08.122 Administracao Geral 08.122.0010 ADMINISTRACAO GERAL DA SEMASH 08.122.0010.2479 PROGRAMA FRENTE DE TRABALHO 3.3.90.36.00 186 Outros Serviços Terceiros- Pessoa Física 6.299,52 1.00.00 Recursos Não Vinculados de Impostos 6.299,52 3.3.90.47.00 187 Obrigações Tributárias e Contributivas 14.000,00 1.00.00 Recursos Não Vinculados de Impostos 14.000,00 02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08.241 Assistencia ao Idoso 08.241.0011 ASSISTENCIA AO IDOSO 08.241.0011.2488 FUNDO MUNICIPAL DO IDOSO 4.4.90.52.00 196 Equipamento e Material Permanente 5.000,00 1.00.00 Recursos Não Vinculados de Impostos 5.000,00 08.244 Assistencia Comunitaria 08.244.0072 BLOCO DA PROTECAO SOCIAL BASICA 08.244.0072.0061 SUBVENCOES SOCIAIS E ASSISTENCIAIS
+
+3.3.50.43.00 206 Subvenções Sociais 39.000,00 1.00.00 Recursos Não Vinculados de Impostos 39.000,00 08.244.0072.2381 PAGAMENTO DE PESSOAL E ENCARGOS DO SERV 3.1.90.04.00 214 Contratação por Tempo Determinado 853,26 1.29.00 Transf. Rec.Fund.Nacional A.Social - 853,26 08.244.0072.2464 SERV. PROT. ATEND. INTEGRAL A FAM.- PAI 3.3.90.30.00 217 Material de Consumo 54,20 1.29.00 Transf. Rec.Fund.Nacional A.Social - 54,20 08.244.0073 BLOCO DA PROT. SOCIAL ESP. - MEDIA COM 08.244.0073.2466 SERV. PROT. ATEND. ESPEC. A FAM.- PAEFI 3.3.90.30.00 232 Material de Consumo 15.000,00 1.00.00 Recursos Não Vinculados de Impostos 15.000,00 3.3.90.36.00 233 Outros Serviços Terceiros- Pessoa Física 18.000,00 1.00.00 Recursos Não Vinculados de Impostos 18.000,00 4.4.90.52.00 238 Equipamento e Material Permanente 13.807,54 1.00.00 Recursos Não Vinculados de Impostos 13.807,54 02.07 SECRETARIA MUNICIPAL DE SAUDE 02.07.02 FUNDO MUNICIPAL DE SAUDE 10 Saude 10.122 Administracao Geral 10.122.0017 ADMINISTRAÇÃO GERAL DO FUNDO M. DE SAUD 10.122.0017.2063 MANUTENÇÃO DAS ATIVIDADES DO FUNDO MUNI 4.4.90.52.00 316 Equipamento e Material Permanente 6.600,00 1.02.00 Recursos Próprios - Saúde mínimo 15% 6.600,00 10.301 Atencao Basica 10.301.0019 SAUDE COMUNITARIA - ATENCAO BASICA 10.301.0019.2505 MANUTENCAO DA ATENCAO BASICA 4.4.90.51.00 388 Obras e Instalações 1.353,12 1.59.00 Transf. Rec SUS - Bloco Manut ASP 1.353,12 10.302 Assist. Hospitalar e Ambulatorial 10.302.0021 ASSIST. AMBUL. MEDIA COMPLEXIDADE - RED 10.302.0021.2090 MANUTENÇÃO DAS ATIVIDADES DO CAPS 3.3.90.39.00 407 Outros Serv. Terceiros - Pessoa Jurídica 5.000,00 1.59.00 Transf. Rec SUS - Bloco Manut ASP 5.000,00 10.302.0021.2091 PAGAMENTO DE PESSOAL E ENCARGOS CAPS 3.1.90.11.00 410 Vencimentos e Vant. Fixas- Pessoal Civil 6.620,52 1.59.00 Transf. Rec SUS - Bloco Manut ASP 6.620,52 10.302.0022 ATEND DE MEDIA E ALTA COMPLEXIDADE 10.302.0022.2103 ATENDIMENTO DE MEDIA E ALTA COMPLEXIDAD 3.3.90.39.00 433 Outros Serv. Terceiros - Pessoa Jurídica 815,27 1.55.00 Transf. Recursos Fundo Estadual de 815,27 02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED 02.08.01 ADMINISTRACAO GERAL DA SEMED
+
+12.306 Alimentacao e Nutricao 12.306.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.306.0026.2132 MANUTENCAO DA MERENDA ESCOLAR 3.3.90.32.00 474 Material, Bem ou Serviço p/Dist.Gratuita 11.030,00 1.00.00 Recursos Não Vinculados de Impostos 11.030,00
+
+12.361.0026.2134 MANUTENCAO DO TRANSPORTE ESCOLAR 3.3.90.30.00 480 Material de Consumo 200.000,00 1.01.00 Recursos Próprios - Educação mínimo 200.000,00 02.08.02 EDUCACAO BASICA - 25%
+
+12.122 Administracao Geral 12.122.0025 ADMINISTRACAO GERAL DA SEMED 12.122.0025.2127 MANUTENCAO DAS ATIVIDADES DA SEMED 4.4.90.51.00 494 Obras e Instalações 14.916,42 1.01.00 Recursos Próprios - Educação mínimo 14.916,42 12.122.0025.2129 MANUTENCAO DOS VEICULOS DA FROTA DA SEM 3.3.90.39.00 501 Outros Serv. Terceiros - Pessoa Jurídica 9,69 1.01.00 Recursos Próprios - Educação mínimo 9,69
+
+12.361.0026.2135 MANUTENCAO DO ENSINO FUNDAMENTAL 3.3.90.30.00 503 Material de Consumo 0,31 1.01.00 Recursos Próprios - Educação mínimo 0,31 12.361.0026.2136 PAGAMENTO DE PESSOAL E ENCARGOS - ENSIN 3.1.90.11.00 508 Vencimentos e Vant. Fixas- Pessoal Civil 50.219,94 1.01.00 Recursos Próprios - Educação mínimo 50.219,94 02.08.03 EDUCACAO BASICA - R. VINCULADOS
+
+12.361.0026.2142 MANUTENCAO DA EDUCACAO BASICA - QESE 3.3.90.39.00 551 Outros Serv. Terceiros - Pessoa Jurídica 1.810,64 1.47.00 Transferência do Salário - Educação 1.810,64 02.09 SECRETARIA MUNICIPAL DE DESENVOLV. RURA 02.09.01 ADMINISTRACAO GERAL DA SEDRU 20 Agricultura 20.122 Administracao Geral 20.122.0027 ADMINISTRACAO GERAL DA SEDRU 20.122.0027.2154 MANUTENCAO DAS ATIVIDADE DA SEDRU 3.3.90.39.00 583 Outros Serv. Terceiros - Pessoa Jurídica 1.638,08 1.00.00 Recursos Não Vinculados de Impostos 1.638,08 20.606 Extensao Rural 20.606.0029 APOIO AO PRODUTOR RURAL 20.606.0029.2157 MANUTENCAO DO APOIO AO PRODUTOR RURAL 3.3.90.30.00 590 Material de Consumo 5.000,00 1.00.00 Recursos Não Vinculados de Impostos 5.000,00 3.3.90.31.00 591 Premiação Cult.,Artíst.,Científ.Desport. 5.000,00 1.00.00 Recursos Não Vinculados de Impostos 5.000,00 3.3.90.39.00 592 Outros Serv. Terceiros - Pessoa Jurídica 23.858,00 1.00.00 Recursos Não Vinculados de Impostos 23.858,00 4.4.90.52.00 593 Equipamento e Material Permanente 15.000,00 1.00.00 Recursos Não Vinculados de Impostos 15.000,00 02.12 SECRETARIA MUNIC. PLANEJ. E DESENV. ECO 02.12.01 SECRETARIA MUNIC. PLANEJ. E DESENV. ECO
+
+04.122.0043 PLANEJAMENTO E SUPERVISÃO DO ORÇAMENTO 04.122.0043.2191 MANUTENCAO DE CONTRAPARTIDA DE CONVENIO 4.4.90.51.00 693 Obras e Instalações 650,88 1.00.00 Recursos Não Vinculados de Impostos 650,88 TOTAL: R$ 495.631,97
+
+**Artigo 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação. PONTE NOVA, 20 DE SETEMBRO DE 2022
+
+WAGNER MOL GUIMARAES SANDRA REGINA BRANDAO GUIMARAES CPF: 715.603.006-04 CPF: 408.511.256-20 PREFEITO MUNICIPAL SECRETARIO MUN.DE PLANEJAMENTO E DES.ECONOMICO

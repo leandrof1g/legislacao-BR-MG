@@ -1,0 +1,64 @@
+---
+titulo: "Decreto Municipal nº 13701, de 10/09/2024"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "13701"
+data: "2024-09-10"
+ementa: "Abre Crédito Adicional Suplementar."
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/8315"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2024/8315/dec_13.701.2024.pdf"
+sha256_fonte: "b7fe2d261f95c0a526d43c819a3f37953a3b5f6b0169c62b8dfc8163cdb66a12"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Municipal nº 13701, de 10/09/2024
+
+DECRETO No: 13.701, DE 10/09/2024 ABRE CREDITO ADICIONAL SUPLEMENTAR O PREFEITO MUNICIPAL de PONTE NOVA, no uso de suas atribuições legais, nos termos da Lei No 4320/64 e, Lei Municipal Nº 4757 / 2023 CONSIDERANDO: O que estabelece o inciso III do art. 5º da lei municipal 4757/2023. Para ajustes na programação orçamentária, ficam o Poder Executivo e Legislativo autorizados a abrir créditos suplementares, observadas as respectivas fontes de recursos até o limite de 20,00% (vinte por cento) do:I valor total das despesas por anulação parcial ou total de dotações constantes do orçamento. DECRETA: Artigo 1º - Ficam abertos creditos Adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente: 02 EXECUTIVO MUNICIPAL 02.05 SECRETARIA MUNICIPAL DE OBRAS 02.05.01 SECRETARIA MUNICIPAL DE OBRAS 15 Urbanismo 15.451 Infra-estrutura Urbana 15.451.0007 MANUTENÇÃO VIAS URBANAS, ÁREAS PUBLICAS 15.451.0007.2446 SERVIÇOS ESPEC.CIMVALPI-PAVIMENTACAO 4.4.72.51.00 180 Obras e Instalações 1.072.041,24 1.501.000.0000 Outros Recursos não Vinculados 1.072.041,24 02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI 02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL 08 Assistencia Social 08.241 Assistencia ao Idoso 08.241.0011 ASSISTENCIA AO IDOSO 08.241.0011.2030 MANUTENCAO DO ASILO MUNICIPAL 3.3.90.30.00 207 Material de Consumo 13.190,00 1.660.000.0000 Transf. Recur. Fundo Nac. Assistência 13.190,00 08.244 Assistencia Comunitaria 08.244.0074 BLOCO DA PROT. SOCIAL ESP. - ALTA COMPL 08.244.0074.2050 MANUTENÇÃO DA PROT. SOCIAL ESPECIAL - U 4.4.90.52.00 263 Equipamento e Material Permanente 168,00 1.500.000.0000 Recursos não vinculados de Impostos 168,00 08.244.0075 BLOCO DA GESTAO 08.244.0075.2470 ÍNDICE DE GESTÃO DESC. MUNICIPAL - IGDB 4.4.90.52.00 288 Equipamento e Material Permanente 11.563,26 1.660.000.0000 Transf. Recur. Fundo Nac. Assistência 11.563,26
+
+10.301 Atencao Basica 10.301.0019 SAUDE COMUNITARIA - ATENCAO BASICA 10.301.0019.2473 MANUTENÇÃO DAS ATIVIDADES DO CEO 4.4.90.52.00 394 Equipamento e Material Permanente 18.750,00 1.600.000.0000 Transf. Fundo/Fundo Recur. SUS 18.750,00
+
+12.122.0025 ADMINISTRACAO GERAL DA SEMED 12.122.0025.2127 MANUTENCAO DAS ATIVIDADES DA SEMED 3.3.90.30.00 525 Material de Consumo 123.824,24 1.500.000.0000 Recursos não vinculados de Impostos 123.824,24 02.08.03 EDUCACAO BASICA - R. VINCULADOS
+
+12.365 Educacao Infantil 12.365.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.365.0026.1253 APOIO FINANC.SUPL.MANUT.EDUC.INFANTIL/ 3.3.90.30.00 603 Material de Consumo 580,34 1.570.000.0000 Transf. G.Fed. Ref. Conv.Inst Cong. 580,34 02.09 SECRETARIA MUNICIPAL DE DESENVOLV. RURA 02.09.01 ADMINISTRACAO GERAL DA SEDRU 20 Agricultura Página 1 de 4
+
+20.122 Administracao Geral 20.122.0027 ADMINISTRACAO GERAL DA SEDRU 20.122.0027.2154 MANUTENCAO DAS ATIVIDADE DA SEDRU 3.3.90.30.00 625 Material de Consumo 201.915,00 1.720.000.0000 Transf.União Ref.Part.Explor.Petr Rec 201.915,00 20.122.0027.2541 MANUTENÇÃO DE VEICULOS - SEDRU 3.3.90.30.00 633 Material de Consumo 57.578,70 1.500.000.0000 Recursos não vinculados de Impostos 57.578,70 02.13 SECRETARIA MUNIC. ESPORTE, LAZER E JUVE 02.13.01 ADMINISTRAÇÃO GERAL DA SEMEJ 27 Desporto e Lazer 27.122 Administracao Geral 27.122.0059 ADMINISTRACAO GERAL DA SEMEJ 27.122.0059.2358 MANUTENCAO DAS ATIVIDADES DA SEMEJ 3.3.90.39.00 770 Outros Serv. Terceiros - Pessoa Jurídica 4.000,00 1.500.000.0000 Recursos não vinculados de Impostos 4.000,00
+
+12.122.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.122.0026.1315 EMENDA IMPOSITIVA LEGISLATIVO - EDUCACA 3.3.90.30.00 892 Material de Consumo 148,60 1.500.000.0000 Recursos não vinculados de Impostos 148,60
+
+10.302 Assist. Hospitalar e Ambulatorial 10.302.0021 ASSIST. AMBUL. MEDIA COMPLEXIDADE - RED 10.302.0021.2369 MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO 4.4.90.52.00 895 Equipamento e Material Permanente 42.184,35 1.501.000.0000 Outros Recursos não Vinculados 42.184,35 02.11 SECRETARIA MUNICIPAL DE CULTURA E TURIS 02.11.06 MANUTENÇÃO DO FUNDO DE CULTURA 13 Cultura 13.392 Difusao Cultural 13.392.0042 MANUT.FUNDO MUNIC. DE CULTURA - FMC 13.392.0042.2507 ACOES EMERG. COVID 19 - LEI ALDIR BLANC 3.3.90.47.00 900 Obrigações Tributárias e Contributivas 720,00 1.719.000.0000 Transf.Pol. Nac Aldir Blanc Fomento 720,00
+
+12.361 Ensino Fundamental 12.361.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.361.0026.2135 MANUTENCAO DO ENSINO FUNDAMENTAL 3.3.90.47.00 903 Obrigações Tributárias e Contributivas 590,00 1.500.000.0000 Recursos não vinculados de Impostos 590,00 TOTAL DOS CRÉDITOS: R$ 1.547.253,73
+
+**Artigo 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4320/64: 02 EXECUTIVO MUNICIPAL 02.02 SECRETARIA MUNICIPAL DE GOVERNO 02.02.01 SECRETARIA MUNICIPAL DE GOVERNO 28 Encargos Especiais 28.846 Outros Encargos Especiais 28.846.0000 OPERAÇÃO ESPECIAL 28.846.0000.0002 CONTRIBUICOES A AMAPI 3.3.50.41.00 090 Contribuições 26.421,26 1.500.000.0000 Recursos não vinculados de Impostos 26.421,26 02.03 SECRETARIA MUNICIPAL DE RECURSOS HUMANO 02.03.01 SECRETARIA MUNICIPAL DE RECURSOS HUMANO 04 Administracao 04.331 Protecao e Beneficios ao Trabalho 04.331.0004 ADMINIST. GERAL DA SEGERH
+
+Página 2 de 4
+
+04.331.0004.2015 CONCESSÃO DE BENEFICIOS AO SERVIDOR (VA 3.3.90.46.00 112 Auxílio-alimentação 31.157,44 1.500.000.0000 Recursos não vinculados de Impostos 31.157,44 02.05 SECRETARIA MUNICIPAL DE OBRAS 02.05.01 SECRETARIA MUNICIPAL DE OBRAS 15 Urbanismo 15.451 Infra-estrutura Urbana 15.451.0007 MANUTENÇÃO VIAS URBANAS, ÁREAS PUBLICAS 15.451.0007.2024 MANUTENCAO DE VIAS URBANAS E ESPACOS PU 3.3.90.30.00 175 Material de Consumo 244.099,35 1.720.000.0000 Transf.União Ref.Part.Explor.Petr Rec 201.915,00 1.501.000.0000 Outros Recursos não Vinculados 42.184,35 15.451.0007.2544 OBRAS PUBLICAS 4.4.90.51.00 181 Obras e Instalações 1.072.041,24 1.501.000.0000 Outros Recursos não Vinculados 1.072.041,24 02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI 02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL 08 Assistencia Social 08.244 Assistencia Comunitaria 08.244.0072 BLOCO DA PROTECAO SOCIAL BASICA 08.244.0072.2543 CENTRO REFERENCIA DE ASSISTENCIA SOCIAL 3.3.90.36.00 238 Outros Serviços Terceiros- Pessoa Física 13.190,00 1.660.000.0000 Transf. Recur. Fundo Nac. Assistência 13.190,00 08.244.0074 BLOCO DA PROT. SOCIAL ESP. - ALTA COMPL 08.244.0074.2050 MANUTENÇÃO DA PROT. SOCIAL ESPECIAL - U 3.3.90.30.00 259 Material de Consumo 168,00 1.500.000.0000 Recursos não vinculados de Impostos 168,00 08.244.0075 BLOCO DA GESTAO 08.244.0075.2470 ÍNDICE DE GESTÃO DESC. MUNICIPAL - IGDB 3.3.90.40.00 287 Serv. de TI e Comunicação - PJ 11.563,26 1.660.000.0000 Transf. Recur. Fundo Nac. Assistência 11.563,26
+
+10.301 Atencao Basica 10.301.0019 SAUDE COMUNITARIA - ATENCAO BASICA 10.301.0019.2473 MANUTENÇÃO DAS ATIVIDADES DO CEO 3.3.90.30.00 392 Material de Consumo 18.750,00 1.600.000.0000 Transf. Fundo/Fundo Recur. SUS 18.750,00
+
+02.08.01 ADMINISTRACAO GERAL DA SEMED
+
+12.306 Alimentacao e Nutricao 12.306.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.306.0026.2132 MANUTENCAO DA MERENDA ESCOLAR 3.3.90.32.00 510 Material, Bem ou Serviço p/Dist.Gratuita 590,00 1.500.000.0000 Recursos não vinculados de Impostos 590,00 12.361 Ensino Fundamental 12.361.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.361.0026.2134 MANUTENCAO DO TRANSPORTE ESCOLAR 3.3.90.39.00 518 Outros Serv. Terceiros - Pessoa Jurídica 123.824,24 1.500.000.0000 Recursos não vinculados de Impostos 123.824,24
+
+12.122.0025 ADMINISTRACAO GERAL DA SEMED 12.122.0025.2127 MANUTENCAO DAS ATIVIDADES DA SEMED 4.4.90.52.00 531 Equipamento e Material Permanente 148,60 1.500.000.0000 Recursos não vinculados de Impostos 148,60 02.08.03 EDUCACAO BASICA - R. VINCULADOS
+
+12.365 Educacao Infantil 12.365.0026 DESENVOLVIMENTO DA EDUCACAO BASICA 12.365.0026.1253 APOIO FINANC.SUPL.MANUT.EDUC.INFANTIL/ 4.4.90.52.00 604 Equipamento e Material Permanente 580,34 1.570.000.0000 Transf. G.Fed. Ref. Conv.Inst Cong. 580,34
+
+Página 3 de 4
+
+02.11 SECRETARIA MUNICIPAL DE CULTURA E TURIS 02.11.06 MANUTENÇÃO DO FUNDO DE CULTURA 13 Cultura 13.392 Difusao Cultural 13.392.0042 MANUT.FUNDO MUNIC. DE CULTURA - FMC 13.392.0042.2507 ACOES EMERG. COVID 19 - LEI ALDIR BLANC 3.3.90.39.00 737 Outros Serv. Terceiros - Pessoa Jurídica 720,00 1.719.000.0000 Transf.Pol. Nac Aldir Blanc Fomento 720,00 02.13 SECRETARIA MUNIC. ESPORTE, LAZER E JUVE 02.13.01 ADMINISTRAÇÃO GERAL DA SEMEJ 27 Desporto e Lazer 27.122 Administracao Geral 27.122.0059 ADMINISTRACAO GERAL DA SEMEJ 27.122.0059.2358 MANUTENCAO DAS ATIVIDADES DA SEMEJ 4.4.90.52.00 772 Equipamento e Material Permanente 4.000,00 1.500.000.0000 Recursos não vinculados de Impostos 4.000,00 TOTAL: R$ 1.547.253,73
+
+**Artigo 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação.
+
+PONTE NOVA, 10 DE SETEMBRO DE 2024
+
+WAGNER MOL GUIMARAES CPF: 715.603.006-04 PREFEITO MUNICIPAL
+
+AFONSO MAURO PINHO RIBEIRO CPF: 143.956.146-04 SECRETARIO MUN.DE PLANEJAMENTO E DES.ECONOMICO
+
+Página 4 de 4

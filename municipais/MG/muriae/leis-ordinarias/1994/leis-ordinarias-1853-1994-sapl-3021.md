@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 1853, de 25/05/1994"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "LEI"
+numero: "1853"
+data: "1994-05-25"
+ementa: "DENOMINA A TRAVESSA SÃO CRISTÓVÃO"
+municipio: "Muriaé"
+uf: "MG"
+codigo_ibge: "3143906"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.muriae.mg.leg.br/norma/3021"
+fonte_texto: "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/1994/3021/3021_texto_integral.pdf"
+sha256_fonte: "8597c000fc3f219a084f42af2e57a6c815cfa2594989c99c350549385b61db4c"
+baixado_em: "2026-10-29"
+---
+
+# Lei Ordinária nº 1853, de 25/05/1994
+
+LEI Nº 1.853/ 94
+
+DÁ DENOMINAÇÃO A LOGRADOURO PÚBLICO DE TRAVESSA SÃO CRISTÓVÃO E DÁ OUTRAS PROVIDÊNCIAS.
+
+A Câmara Municipal de Muriaé aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei.
+
+**Art. 1º** - Fica denominada de Travessa São Cristóvão, o logradouro público que se inicia ao lado do nº 23, da Rua Francisco de Assis Matos de Oliveira (ex rua 11) e terminando ao lado do nº 2.150 da Rua Candido Martins, no Bairro Planalto.
+
+**Art. 2º** - O Executivo providenciará a colocação de placas indicativas, bem como a devida comunicação às Empresas: CFLCL, TELEMIG, DEMAE e EBCT.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+**Art. 4º** - Esta Lei entra em vigor na data de sua publicação.
+
+Mando, portanto, a todas as autoridades a quem o conhecimento e execução desta Lei pertencer, que a cumpram e a façam cumprir, tão inteiramente como nela se contém. Muriaé, aos 25 de maio de 1994.
+
+Paulo de Oliveira Carvalho Prefeito Municipal de Muriaé

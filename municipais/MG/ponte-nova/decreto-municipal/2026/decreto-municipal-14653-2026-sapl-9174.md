@@ -1,0 +1,298 @@
+---
+titulo: "Decreto Municipal nº 14653, de 09/04/2026"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "14653"
+data: "2026-04-09"
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR"
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/9174"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9174/dec_14.653.2026.pdf"
+sha256_fonte: "4e5f8498957f0a03a8260ebcbae3e4e0e7bf8939abc51ff62f5181015d7c2055"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Municipal nº 14653, de 09/04/2026
+
+DECRETO N° 14.653, DE 09.04.2026
+
+ABRE CRÉDITO ADICIONAL SUPLEMENTAR
+
+O PREFEITO MUNICIPAL de PONTE NOVA, no uso de suas atribuições legais, nos termos da Lei N° 4.320/64 e, Lei Municipal Nº 4.904/2025
+
+CONSIDERANDO:
+
+O que estabelece inciso I, do art. 5º da lei municipal 4.904/2025, fica o poder executivo autorizado a: I - abrir créditos suplementares, respeitadas as demais prescrições constitucionais, e nos termos da Lei Federal nº 4.320/1964 até o limite de 20% (vinte por cento) do valor total do orçamento, por anulação parcial ou total de dotações
+
+DECRETA:
+
+**Art. 1º** - Ficam abertos créditos adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente:
+
+02 PREFEITURA MUNICIPAL
+
+02.02 SECRETARIA MUNICIPAL DE GOVERNO
+
+02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+04.122 Administracao Geral
+
+04.122.0003 ADMINIST. GERAL DA SECRETARIA DE GOVERNO
+
+04.122.0003.2007 MANUTENCAO DA SEGOV
+
+3.3.90.14.00 087 Diárias - Pessoal Civil 1.000,00
+
+Impostos 1.000,00
+
+04.122.0070 CONTRATO DE RATEIO
+
+04.122.0070.2448 SERVIÇOS ESPEC. CIMVALPI-RES. SOLIDOS
+
+3.3.72.39.00 110 Outros Serv. Terceiros -Pessoa Jurídica 4.482,64
+
+Impostos 4.482,64
+
+02.04 SECRETARIA MUNICIPAL DE FAZENDA
+
+02.04.01 SECRETARIA MUNICIPAL DE FAZENDA
+
+04.123 Administracao Financeira
+
+04.123.0005 ADMINIST. GERAL DE RECEITAS E DESPESAS
+
+04.123.0005.2018 MANUTENCAO DAS ATIVIDADES DA SEMFA
+
+3.3.90.14.00 129 Diárias - Pessoal Civil 4.067,32
+
+Impostos 4.067,32
+
+3.3.90.30.00 130 Material de Consumo 1.642,50
+
+Impostos 1.642,50
+
+02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI
+
+02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08 Assistencia Social
+
+08.241 Assistencia a Pessoa Idosa
+
+08.241.0011 ASSISTENCIA AO IDOSO
+
+08.241.0011.2030 MANUTENCAO DA ILPI
+
+3.3.90.39.00 193 Outros Serv. Terceiros - Pessoa Jurídica 5.000,00
+
+Impostos 5.000,00
+
+02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED
+
+02.08.02 EDUCACAO BASICA - 25%
+
+12 Educacao
+
+12.365 Educacao Infantil
+
+12.365.0046 PRÉ ESCOLA
+
+12.365.0046.2137 MANUTENCAO DA EDUCACAO INFANTIL
+
+3.3.90.14.00 504 Diárias - Pessoal Civil 3.500,00
+
+Impostos 3.500,00
+
+02.08.03 EDUCACAO BASICA - R. VINCULADOS
+
+12 Educacao
+
+12.361 Ensino Fundamental
+
+12.361.0026 DESENVOLVIMENTO DA EDUCACAO BASICA
+
+12.361.0026.2142 MANUTENCAO DA EDUCACAO BASICA - QESE
+
+4.4.90.52.00 543 Equipamento e Material Permanente 36.317,00
+
+1.550.000.0000 Transferência do Salário- Educação 36.317,00
+
+02.09 SECRETARIA MUNICIPAL DE DESENVOLV. RURA
+
+02.09.01 ADMINISTRACAO GERAL DA SEDRU
+
+20 Agricultura
+
+20.122 Administracao Geral
+
+20.122.0027 ADMINISTRACAO GERAL DA SEDRU
+
+20.122.0027.2154 MANUTENCAO DAS ATIVIDADE DA SEDRU
+
+3.3.90.30.00 569 Material de Consumo 1.660,00
+
+Impostos 1.660,00
+
+02.02 SECRETARIA MUNICIPAL DE GOVERNO
+
+02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+04.122 Administracao Geral
+
+04.122.0003 ADMINIST. GERAL DA SECRETARIA DE GOVERNO
+
+04.122.0003.2007 MANUTENCAO DA SEGOV
+
+3.3.90.39.00 894 Outros Serv. Terceiros - Pessoa Jurídica 700,00
+
+Impostos 700,00
+
+02.12 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+02.12.01 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+15 Urbanismo
+
+15.451 Infra-estrutura Urbana
+
+15.451.0013 INFRAESTRUTURA URBANA
+
+15.451.0013.2559 AMPLIAÇÃO E REFOR INFRAESTRUTURA PÚBLICA
+
+3.3.72.39.00 898 Outros Serv. Terceiros -Pessoa Jurídica 15.500,00
+
+Impostos 15.500,00
+
+TOTAL DOS CRÉDITOS: R$ 73.869,46
+
+**Art. 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4320/64:
+
+02 PREFEITURA MUNICIPAL
+
+02.02 SECRETARIA MUNICIPAL DE GOVERNO
+
+02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+04.122 Administracao Geral
+
+04.122.0003 ADMINIST. GERAL DA SECRETARIA DE GOVERNO
+
+04.122.0003.0069 SUBVENÇÃO A CETERVIDAS
+
+3.3.50.43.00 081 Subvenções Sociais 6.182,64
+
+Impostos 6.182,64
+
+02.04 SECRETARIA MUNICIPAL DE FAZENDA
+
+02.04.01 SECRETARIA MUNICIPAL DE FAZENDA
+
+04.123 Administracao Financeira
+
+04.123.0005 ADMINIST. GERAL DE RECEITAS E DESPESAS
+
+04.123.0005.2018 MANUTENCAO DAS ATIVIDADES DA SEMFA
+
+4.4.90.52.00 134 Equipamento e Material Permanente 5.709,82
+
+Impostos 5.709,82
+
+02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI
+
+02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08 Assistencia Social
+
+08.241 Assistencia a Pessoa Idosa
+
+08.241.0011 ASSISTENCIA AO IDOSO
+
+08.241.0011.2030 MANUTENCAO DA ILPI
+
+3.3.90.30.00 192 Material de Consumo 5.000,00
+
+Impostos 5.000,00
+
+02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED
+
+02.08.02 EDUCACAO BASICA - 25%
+
+12 Educacao
+
+12.122 Administracao Geral
+
+12.122.0025 ADMINISTRACAO GERAL DA SEMED
+
+12.122.0025.2127 MANUTENCAO DAS ATIVIDADES DA SEMED
+
+4.4.90.52.00 483 Equipamento e Material Permanente 3.500,00
+
+Impostos 3.500,00
+
+02.08.03 EDUCACAO BASICA - R. VINCULADOS
+
+12 Educacao
+
+12.361 Ensino Fundamental
+
+12.361.0026 DESENVOLVIMENTO DA EDUCACAO BASICA
+
+12.361.0026.2142 MANUTENCAO DA EDUCACAO BASICA - QESE
+
+3.3.91.39.00 542 Outros Serv. Terceiros -Pessoa Jurídica 36.317,00
+
+1.550.000.0000 Transferência do Salário-
+
+Educação 36.317,00
+
+02.09 SECRETARIA MUNICIPAL DE DESENVOLV. RURA
+
+02.09.01 ADMINISTRACAO GERAL DA SEDRU
+
+20 Agricultura
+
+20.122 Administracao Geral
+
+20.122.0027 ADMINISTRACAO GERAL DA SEDRU
+
+20.122.0027.2545 SERVIÇO DE INSPECAO MUNICIPAL-SIM
+
+3.3.72.30.00 581 Material de Consumo 1.660,00
+
+Impostos 1.660,00
+
+02.12 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+02.12.01 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+04.122 Administracao Geral
+
+04.122.0045 DESENVOLVIMENTO ECONOMICO
+
+04.122.0045.2184 MANUTENCAO DAS ATIVIDADES DA SEDEURB
+
+3.3.20.93.00 667 Indenizações e Restituições 10.000,00
+
+Impostos 10.000,00
+
+3.3.30.93.00 668 Indenizações e Restituições 5.500,00
+
+Impostos 5.500,00
+
+TOTAL: R$73.869,46
+
+**Art. 3º** - Revogadas as disposições em contrário, entra este Decreto em
+
+vigor, na data de sua publicação.
+
+PONTE NOVA - MG, 9 DE ABRIL DE 2026
+
+MILTON TEODORO IRIAS JUNIOR
+
+PREFEITO MUNICIPAL
+
+CONSOLAÇÃO DE FREITAS SILVA PAULA
+
+SECRETARIA MUN.DE PLANEJAMENTO E GESTÃO

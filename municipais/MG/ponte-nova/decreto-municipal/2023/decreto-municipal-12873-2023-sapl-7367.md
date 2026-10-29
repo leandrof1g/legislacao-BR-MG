@@ -1,0 +1,42 @@
+---
+titulo: "Decreto Municipal nº 12873, de 25/01/2023"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "12873"
+data: "2023-01-25"
+ementa: "Dispõe sobre a nomeação de candidatos aprovados em Concurso Público."
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/7367"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2023/7367/dec_12.873.2023.pdf"
+sha256_fonte: "81e47e9e8d1b72a85a7f6e1cac0192246730b8f6f597b4370eff1814792c3734"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Municipal nº 12873, de 25/01/2023
+
+DECRETO No 12.873, DE 25/01/2023 Dispõe sobre a nomeação de candidatos aprovados em Concurso Público.
+
+O Prefeito Municipal de Ponte Nova, no uso das atribuições legais, considerando: • A publicação do resultado final do concurso público concernente ao Edital 001/2019; • O art. 1o da Lei no 3.045/2007, que estabelece o mínimo de 10% (dez por cento) de vagas por cargo para candidatos portadores de necessidades especiais; • A Homologação do Concurso Público, por meio do Decreto nº 11.619/2020;
+
+RESOLVE:
+
+**Art. 1o** Ficam nomeados os candidatos abaixo relacionados, tendo em vista sua aprovação em Concurso Público, cuja posse ocorrerá no prazo máximo de 30 (trinta) dias, a contar da data de publicação da nomeação.
+
+Reserva Reserva Classific Cargo Nome PcD PP ação AUXILIAR ADMINISTRATIVO I LEONARDO TELES DO NASCIMENTO Não Não 78º AUXILIAR ADMINISTRATIVO I DANIELA PAULA DE OLIVEIRA BASTOS Não Não 79º AUXILIAR ADMINISTRATIVO I MATHEUS BARBOSA BROILO CAMPOS Não Não 80º AUXILIAR ADMINISTRATIVO I LUIZA GABRIELA MARTINS LANNA Não Não 81º AUXILIAR ADMINISTRATIVO I MARCELO AUGUSTO DA SILVA GOMES Não Não 82º AUXILIAR ADMINISTRATIVO I KARINE GRANATO COSTA FARIA Não Não 83º AUXILIAR ADMINISTRATIVO I EDVIRGES APARECIDA SALGADO Não Não 84º AUXILIAR ADMINISTRATIVO I MICHELE CRISTINA DE ALMEIDA COELHO Não Não 85º AUXILIAR ADMINISTRATIVO I BRENO BATISTA DOS REIS Não Não 86º AUXILIAR ADMINISTRATIVO I PAULO VITOR LOPES Não Não 87º AUXILIAR ADMINISTRATIVO I ADMILDO CASTRO MOREIRA Não Não 88º AUXILIAR ADMINISTRATIVO I LARYSSA SAMPAIO FERREIRA Não Não 89º AUXILIAR ADMINISTRATIVO I DANIELE CRISTINI PEREIRA DE AZEVEDO Não Não 91º
+
+Av. Caetano Marinho, 306 – Centro – Ponte Nova/MG – CEP 35430-001 – Telefax: (31) 3819-5454 Página 1 de 2
+
+COZINHEIRO FERNANDA FONSECA DA CRUZ Não Não 41º COZINHEIRO DANILA SANTIAGO DA SILVA Não Não 42º COZINHEIRO ANA MARIA GONCALVES DOS ANJOS Não Sim 43º MOTORISTA TIBERIO MOREIRA MARTINS BRUM Não Não 59º MOTORISTA CRISTIANO CAMINI Não Não 60º SERVENTE DE LIMPEZA SOLANGE MILANI MONTINHO Não Não 25º SERVENTE DE LIMPEZA MARA ISA VITOR ALVES DE ALMEIDA Não Não 26º SERVENTE DE LIMPEZA ADRIANA DE SOUSA Não Não 27º SERVENTE DE LIMPEZA THAIS PAULA SOUSA Não Não 28º SERVENTE DE LIMPEZA JÉSSICA VIVIANE SILVINO DE ARAÚJO Não Não 29º SERVENTE DE LIMPEZA WILZA PAULA DA SILVA VIANA Não Não 30º SERVENTE DE LIMPEZA ALEXSANDRA DE SOUZA DA SILVA GOMES Não Não 31º SERVENTE DE LIMPEZA IVAN JOSÉ DE CARVALHO Não Não 32º SERVENTE DE LIMPEZA DIEGO MARCIANO ROSA Não Não 33º POLYANA CHRISTINY FIALHO DE SERVENTE DE LIMPEZA MAGALHÃES Não Não 34º POLIANE CRISTINA DE OLIVEIRA MARTINS SERVENTE DE LIMPEZA GONSAGA Não Não 35º SERVENTE DE LIMPEZA CLEONICE COUTO Não Não 36º SERVENTE DE LIMPEZA GLEICE ESTEVÃO DE JESUS ROMÃO Não Não 37º SERVENTE DE LIMPEZA SONIA APARECIDA NUNES DE FARIA Não Não 38º SERVENTE DE LIMPEZA ROSILENE ALVES MARTINS Não Não 39º SERVENTE DE LIMPEZA ELIANE APARECIDA FERREIRA CREMONEZI Não Não 40º SERVENTE DE LIMPEZA AUREA ANTONIA DA SILVA Não Não 41º SERVENTE DE LIMPEZA VINÍCIUS MENDES DOS SANTOS Não Não 42º SERVENTE DE LIMPEZA LUCIMELIA MARIA DE PAULA Não Não 43º SERVENTE DE LIMPEZA DIEGO ANTUNES RIBEIRO TRIUNFO Não Não 44º FLAVIANA APARECIDA GONÇALVES DA SERVENTE DE LIMPEZA SILVA Não Sim 45º SERVENTE DE LIMPEZA GABRIELLE DE SOUZA SANTOS Não Não 46º SERVENTE DE LIMPEZA LUIZ CLAUDIO LEITE Não Não 47º SERVENTE DE LIMPEZA SEBASTIAO RAMOS DA SILVA Não Não 48º SERVENTE DE LIMPEZA ROSA AMELIA DO NASCIMENTO MOREIRA Não Não 49º SERVENTE DE LIMPEZA NERCINA GONCALVES DE LIMA MIRANDA Não Não 50º SERVENTE DE LIMPEZA DENISE SILVERIO VITORINO ROSA Não Sim 51º SERVENTE DE LIMPEZA MARIA HELENA INES FREITAS Não Sim 9º SERVENTE DE LIMPEZA ARIANE DE CASTRO OLIVEIRA Não Sim 10º
+
+**Parágrafo único.** Conforme art. 16, § 1o, da Lei no1.522/90, a posse poderá ser prorrogada por mais trinta dias, se requerida pelo candidato em tempo hábil.
+
+**Art. 2o** Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 3o** Revogam-se as disposições contrárias.
+
+Ponte Nova, 25 de janeiro de 2023. Wagner Mol Guimarães Fernando Antônio de Andrade Prefeito Municipal Secretário Municipal de Recursos Humanos
+
+Av. Caetano Marinho, 306 – Centro – Ponte Nova/MG – CEP 35430-001 – Telefax: (31) 3819-5454 Página 2 de 2

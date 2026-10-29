@@ -1,0 +1,36 @@
+---
+titulo: "Decreto Legislativo nº 19, de 04/12/2019"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "19"
+data: "2019-12-04"
+ementa: "Outorga o título de Cidadão Honorário Januarense’ a “Sr. Antônio Luiz Alves de Freitas”. (Proposição do Ver. Robério/PSB)"
+municipio: "Januária"
+uf: "MG"
+codigo_ibge: "3135209"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.januaria.mg.leg.br/norma/2906"
+fonte_texto: "https://sapl.januaria.mg.leg.br/media/sapl/public/normajuridica/2019/2906/decreto_2019_019.pdf"
+sha256_fonte: "90830f145ff4b5d3035c5cfa478b6eee7c05be374509a7f6f76a6b422a9de462"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Legislativo nº 19, de 04/12/2019
+
+DECRETO DO LEGISLATIVO Nº 019/2019
+
+Outorga o título de Cidadão Honorário Januarense’ a “Sr. Antônio Luiz Alves de Freitas”. (Proposição do Ver. Robério/PSB).
+
+A CÂMARA MUNICIPAL DE JANUÁRIA, estado de Minas Gerais, nos termos do art. 39, inciso XIX, da Lei Orgânica Municipal, c/c o art. 90, inciso V, alínea ‘f’, do Regimento Interno, aprova e promulga o seguinte Decreto Legislativo:
+
+**Art. 1º** - Fica outorgado ao Sr. Antônio Luiz Alves de Freitas o título de “Cidadão Honorário Januarense”, pelos relevantes serviços prestados ao município de Januária.
+
+**Art. 2º** - A entrega do título que refere o art. 1º deste Decreto Legislativo, será feita em Sessão Solene, na forma regimental.
+
+**Art. 3º** - Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+Câmara Municipal de Januária, em 04 de dezembro de 2019.
+
+FABRICIO LEITE BATISTA Ver. Fabricio Promoções / PRÓS Presidente
+
+LUIZ CARLOS LOPES DE JESUS Ver. Luiz Piqui / PRÓS 1º Secretário

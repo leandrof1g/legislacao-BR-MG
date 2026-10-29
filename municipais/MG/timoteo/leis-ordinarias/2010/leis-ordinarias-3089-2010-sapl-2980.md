@@ -1,0 +1,362 @@
+---
+titulo: "Lei Ordinária nº 3089, de 26/07/2010"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "3089"
+data: "2010-07-26"
+ementa: "DISPÕE SOBRE A QUALIFICAÇÃO DE PESSOA JURÍDICA DE DIREITO PRIVADO COMO ORGANIZAÇÃO DA SOCIEDADE CIVIL DE INTERESSE PÚBLICO-OSCIP- E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Timóteo"
+uf: "MG"
+codigo_ibge: "3168705"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.timoteo.mg.leg.br/norma/2980"
+fonte_texto: "https://sapl.timoteo.mg.leg.br/media/sapl/public/normajuridica/2010/2980/2980_texto_integral.doc"
+sha256_fonte: "f6f0d0f5795eae7aa0c05e637146b2a1ee2abab7aa417e05ef3e8549cbd88008"
+baixado_em: "2026-10-29"
+---
+
+# Lei Ordinária nº 3089, de 26/07/2010
+
+LEI Nº 3.089, DE 26 DE JULHO DE 2010
+
+Dispõe sobre a qualificação de pessoa jurídica de direito privado como Organização da Sociedade Civil de Interesse Público - OSCIP - e dá outras providências.
+
+A CÂMARA MUNICIPAL DE TIMÓTEO aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+CAPÍTULO I
+
+DISPOSIÇÕES PRELIMINARES
+
+**Art. 1º** O Município poderá qualificar pessoa jurídica de direito privado como Organização da Sociedade Civil de Interesse Público - OSCIP -, nos termos desta Lei.
+
+**§ 1º** A outorga da qualificação prevista neste artigo é ato vinculado ao cumprimento dos requisitos estabelecidos nesta Lei.
+
+**§ 2º** Para os fins do disposto nesta Lei, considera-se equivalente a:
+
+I - poder público municipal a expressão "poder público";
+
+II - órgão estatal parceiro as expressões "órgão público" e "órgão municipal";
+
+III - Oscip as expressões "organização parceira" e "entidade parceira";
+
+IV - Poder Executivo Municipal a expressão "Poder Executivo".
+
+**§ 3º** Qualificada a entidade como OSCIP, de acordo com o previsto nesta Lei, o Executivo Municipal discutirá com o Poder Legislativo e com a sociedade civil organizada, em audiência pública os termos da parceria a ser celebrada.
+
+**Art. 2º** O poder público e a entidade qualificada como OSCIP poderão firmar termo de parceria, destinado à formação de vínculo de cooperação entre as partes, para o fomento e a execução das atividades de interesse público revistas no art. 4º desta Lei.
+
+CAPÍTULO II DA QUALIFICAÇÃO COMO ORGANIZAÇÃO DA SOCIEDADE CIVIL DE INTERESSE PÚBLICO
+
+Seção I Dos Requisitos
+
+**Art. 3º** Pode qualificar-se como Oscip a pessoa jurídica de direito privado sem fins lucrativos, nos termos da lei civil, em atividade, cujos objetivos sociais e normas estatutárias atendam ao disposto nesta Lei.
+
+**Parágrafo único.** Para os efeitos desta Lei, considera-se sem fins lucrativos a pessoa jurídica de direito privado que não distribui, entre os seus associados, conselheiros, diretores, empregados ou doadores, eventuais excedentes operacionais, brutos ou líquidos, dividendos, participações ou parcelas de seu patrimônio auferidos mediante o exercício de suas atividades e que os aplica integralmente na consecução de seu objetivo social.
+
+**Art. 4º** Observados o princípio da universalidade e os requisitos instituídos por esta Lei, a qualificação como OSCIP será conferida à pessoa jurídica cujos objetivos sociais consistam na promoção de, pelo menos, uma das seguintes atividades:
+
+I - assistência social;
+
+II - cultura, defesa e conservação do patrimônio histórico e artístico;
+
+III - ensino fundamental ou médio gratuitos;
+
+IV - saúde gratuita;
+
+V - segurança alimentar e nutricional;
+
+VI - defesa, preservação e conservação do meio ambiente, gestão de recursos hídricos e desenvolvimento sustentável;
+
+VII - trabalho voluntário;
+
+VIII - desenvolvimento econômico e social e combate à pobreza;
+
+IX - experimentação não lucrativa de novos modelos socioprodutivos e de sistemas alternativos de produção, comércio, emprego e crédito;
+
+X - defesa dos direitos estabelecidos, construção de novos direitos e assessoria jurídica gratuita;
+
+XI - defesa da ética, da paz, da cidadania, dos direitos humanos, da democracia e de outros valores universais;
+
+XII - estudos e pesquisas, desenvolvimento de tecnologias, produção e divulgação de informações e conhecimentos técnicos e científicos;
+
+XIII - fomento do esporte amador.
+
+XIV - ensino profissionalizante ou superior.
+
+**Parágrafo único.** Para os fins deste artigo a entidade deverá comprovar a execução direta de projetos, programas ou planos de ação relacionados às áreas de atividade descritas nos incisos deste artigo, ou, ainda, a prestação de serviços intermediários de apoio a outras organizações sem fins lucrativos e a órgãos do setor público que atuem em áreas afins, na forma do regulamento.
+
+**Art. 5º** Respeitado o disposto nos arts. 3º e 4º desta Lei, exige-se, para a qualificação como OSCIP, que a pessoa jurídica interessada seja regida por estatuto cujas normas prevejam:
+
+I - observância, para aplicação de recursos públicos e gestão dos bens públicos, dos princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da economicidade, da razoabilidade e da eficiência;
+
+II - duração igual ou inferior a três anos para o mandato dos membros dos órgãos deliberativos;
+
+III - adoção de práticas de gestão administrativa necessárias e suficientes para coibir a obtenção, individual ou coletiva, de benefícios ou vantagens pessoais em decorrência de participação nas atividades da respectiva pessoa jurídica;
+
+IV - constituição de conselho fiscal ou órgão equivalente dotado de competência para emitir parecer sobre relatórios de desempenho financeiro e contábil e sobre as operações patrimoniais realizadas com a finalidade de subsidiar as atividades dos organismos superiores da entidade;
+
+V - transferência, em caso de dissolução da entidade, do respectivo patrimônio líquido a outra pessoa jurídica qualificada nos termos desta Lei, a qual tenha, preferencialmente, o mesmo objeto social da extinta, ou, na falta de pessoa jurídica com essas características, ao Município;
+
+VI - transferência, na hipótese de a pessoa jurídica perder a qualificação instituída por esta lei, do acervo patrimonial disponível, adquirido com recursos públicos durante o período em que tiver perdurado aquela qualificação, bem como dos excedentes financeiros decorrentes de suas atividades, a outra pessoa jurídica qualificada nos termos desta Lei, a qual tenha, preferencialmente, o mesmo objeto social, ou, na falta de pessoa jurídica com essas características, ao Município;
+
+VII - limitação da remuneração dos administradores, gerentes ou diretores, quando houver, aos valores praticados pelo mercado, na região correspondente a sua área de atuação;
+
+VIII - definição de normas de prestação de contas a serem observadas pela entidade, especificamente:
+
+a) obediência aos princípios fundamentais de contabilidade e às normas brasileiras de contabilidade;
+
+b) publicidade, por meio eficaz, no encerramento do exercício fiscal, do relatório de atividades e das demonstrações financeiras da entidade, incluindo-se as certidões negativas de débitos no Instituto Nacional do Seguro Social - INSS - e no Fundo de Garantia por Tempo de Serviço - FGTS -, colocando-as à disposição, para exame, de qualquer cidadão;
+
+c) realização de auditoria, por auditores externos independentes, da aplicação dos eventuais recursos objeto do termo de parceria, obrigatória nos limites, valores e condições definidos em regulamento;
+
+d) prestação de contas de todos os recursos e bens de origem pública recebidos pela OSCIP;
+
+IX - finalidade não lucrativa da entidade, com a obrigatoriedade de investimento de seus excedentes financeiros no desenvolvimento das próprias atividades, vedada a distribuição, entre os seus sócios ou associados, conselheiros, diretores ou doadores, de eventuais excedentes operacionais, brutos ou líquidos, dividendos, bonificações, participações ou parcelas do seu patrimônio, auferidos mediante o exercício de suas atividades;
+
+X - atribuições da diretoria executiva ou do diretor executivo;
+
+XI - aceitação de novos associados, na forma do estatuto, no caso de associação civil;
+
+XII - proibição de distribuição de bens ou de parcela do patrimônio líquido em qualquer hipótese, inclusive em razão de desligamento, retirada ou falecimento de associado ou membro da entidade;
+
+XIII - natureza social dos objetivos da entidade relativos à respectiva área de atuação.
+
+**§ 1º** É permitida a participação de servidor público ou ocupante de função pública na composição de conselho de OSCIP, vedada a percepção de remuneração ou subsídio, a qualquer título.
+
+**§ 2º** É vedado a parente consangüíneo ou afim até o terceiro grau do Prefeito ou do Vice-Prefeito, de Secretário Municipal, Procurador Geral e Controlador Geral atuar como conselheiro ou dirigente de OSCIP.
+
+**§ 3º** As transferências de que tratam os incisos V e VI do caput deste artigo ficam condicionadas à autorização do Município, nos termos do regulamento.
+
+**Art. 6º** Não pode qualificar-se como OSCIP, ainda que se dedique às atividades descritas no art. 4º desta Lei:
+
+I - a sociedade comercial;
+
+II - o sindicato, a associação de classe ou representativa de categoria profissional;
+
+III - a instituição religiosa ou voltada para a disseminação de credo, culto ou prática devocional e confessional;
+
+IV - a organização partidária e assemelhada e suas fundações;
+
+V - a entidade de benefício mútuo destinada a proporcionar bens ou serviços a um círculo restrito de associados ou sócios;
+
+VI - a entidade ou empresa que comercialize plano de saúde e assemelhados;
+
+VII - a instituição hospitalar privada não gratuita e sua mantenedora;
+
+VIII - a escola privada dedicada ao ensino fundamental e médio não gratuitos e sua mantenedora;
+
+IX - a cooperativa;
+
+X - a fundação pública;
+
+XI - a organização creditícia a que se refere o art. 192 da Constituição da República, que tenha qualquer vinculação com o sistema financeiro nacional.
+
+XII - a entidade desportiva e recreativa dotada de fim empresarial.
+
+XIII – a organização que não detenha regularidade fiscal e financeira, que esteja respondendo a qualquer processo investigatório, ação judicial cível ou criminal de qualquer natureza, assim como tenha sofrido condenação penal ou por improbidade administrativa.
+
+Seção II Dos Procedimentos
+
+**Art. 7º** A qualificação como OSCIP será solicitada pela entidade interessada ao Município, por meio de requerimento escrito, instruído com cópias autenticadas dos seguintes documentos:
+
+I - estatuto registrado em cartório;
+
+II - ata de eleição dos membros dos órgãos deliberativos;
+
+III - inscrição no Cadastro Nacional de Pessoas Jurídicas - CNPJ;
+
+IV - documentos que comprovem a experiência mínima de dois anos da entidade na execução das atividades indicadas no seu estatuto social, conforme previsto em regulamento;
+
+V - declaração de que a entidade não possui agente público ativo de qualquer dos entes federados, exercendo, a qualquer título, cargo de direção na entidade, exceto se cedido, nos termos do § 6º do art. 20;
+
+VI - declaração de que a entidade não possui como dirigente ou conselheiro parente consangüíneo ou afim até o terceiro grau do Prefeito ou do Vice-Prefeito, de Secretário Municipal, de Procurador Geral ou de Controlador Geral.
+
+**§ 1º** A comprovação prevista no inciso IV do caput deste artigo poderá ser suprida mediante comprovação da experiência dos dirigentes da entidade na execução das atividades indicadas em seu estatuto social, conforme previsto em regulamento.
+
+**§ 2º** Na hipótese prevista no § 1º deste artigo, a Oscip que deixar de comprovar o requisito de experiência mínima de dois anos de seus dirigentes perderá automaticamente o título concedido.
+
+**Art. 8º** Recebido o requerimento a que se refere o art. 7º desta Lei, o Poder Executivo sobre ele decidirá, no prazo de trinta dias.
+
+**§ 1º** No caso de deferimento, o Poder Executivo, no prazo de quinze dias, emitirá certificado de qualificação da requerente como OSCIP, dando publicidade do ato no órgão oficial de imprensa do Município. e/ou do Estado.
+
+**§ 2º** Indeferido o pedido, o Poder Executivo, no prazo referido no § 1º deste artigo, fará publicar no órgão oficial de imprensa do Município e/ou do Estado as razões do indeferimento.
+
+**§ 3º** O pedido de qualificação será indeferido caso:
+
+I - a requerente se enquadre nas hipóteses previstas no art. 6º desta Lei;
+
+II - a requerente não atenda aos requisitos descritos nos arts. 4º e 5º desta Lei;
+
+III - a documentação apresentada esteja incompleta.
+
+**§ 4º** O deferimento da qualificação da entidade requerente a credencia a participar de processos seletivos para a celebração de termos de parceria com o poder público no âmbito das atividades indicadas no seu estatuto social.
+
+**§ 5º** O deferimento do título de OSCIP não importa no reconhecimento, à entidade qualificada, de prerrogativa de direito público, material ou processual, nem de delegação de atribuições reservadas ao poder público.
+
+Seção III Do Controle
+
+**Art. 9º** A pessoa jurídica qualificada como OSCIP nos termos desta Lei será submetida à fiscalização do Ministério Público, no exercício de suas competências legais, e ao controle externo do Tribunal de Contas do Estado de Minas Gerais, que o exercerá com o auxílio da Controladoria Geral.
+
+**Art. 10.** Perderá a qualificação como OSCIP a entidade que:
+
+I - dispuser de forma irregular dos recursos públicos que lhe forem destinados;
+
+II - incorrer em irregularidade fiscal ou trabalhista;
+
+III - descumprir o disposto nesta Lei.
+
+**Parágrafo único.** A entidade que perder a qualificação como Oscip ficará impedida de requerer novamente o título no período de cinco anos a contar da data da publicação do ato de desqualificação.
+
+**Art. 11.** É parte legítima para requerer, judicial ou administrativamente, a perda da qualificação da entidade como OSCIP, o cidadão, o partido político, a associação ou entidade sindical, se amparados por evidência de erro ou fraude, vedado o anonimato e respeitadas as prerrogativas do Ministério Público.
+
+**Parágrafo único.** A perda da qualificação dar-se-á mediante decisão proferida em processo administrativo instaurado de ofício ou a pedido do interessado, ou judicial, de iniciativa popular ou do Ministério Público, nos quais serão assegurados a ampla defesa e o contraditório.
+
+CAPÍTULO III
+
+DO TERMO DE PARCERIA
+
+Seção I Dos Requisitos
+
+**Art. 12** . A celebração do termo de parceria entre o poder público e a entidade qualificada como OSCIP, nos termos do art. 2º desta Lei, será precedida de:
+
+I - consulta aos conselhos de políticas públicas das áreas de atuação da entidade;
+
+II - comprovação, pela Oscip, de sua regularidade fiscal junto ao Instituto Nacional do Seguro Social - INSS -, ao Fundo de Garantia do Tempo de Serviço - FGTS - e à Fazenda Federal, Municipal e Municipal;
+
+III - consulta à Controladoria Geral do Município;
+
+IV - apresentação da minuta do termo de parceria;
+
+V - apresentação, pela OSCIP, de relatório circunstanciado comprovando sua experiência por dois anos na execução de atividades na área do objeto do termo de parceria;
+
+VI - apresentação de declaração de isenção de Imposto de Renda, de balanço patrimonial e de demonstrativo dos resultados financeiros do último exercício, ressalvada a hipótese da entidade que, em razão do tempo de sua constituição, ainda não estiver obrigada a apresentá-los, nos termos definidos pela legislação vigente;
+
+VII - apresentação da previsão das receitas e despesas em nível analítico, estipulando, item por item, as categorias contábeis usadas pela entidade e o detalhamento das remunerações e dos benefícios de pessoal a serem pagos a seus dirigentes e empregados com recursos oriundos do termo de parceria ou a ele vinculados;
+
+VIII - parecer técnico do Poder Executivo contendo justificativa da escolha da OSCIP, caso não ocorra processo seletivo de concurso de projetos;
+
+IX - apresentação de minuta de regulamento de compras e aquisições;
+
+X - publicação do extrato da minuta do termo de parceria no órgão oficial de imprensa do Município e do Estado.
+
+**§ 1º** Quando houver possibilidade de mais de uma entidade qualificada prestar os serviços sociais objeto do fomento, poderá ser realizado processo seletivo.
+
+**§ 2º** Quando a entidade houver sido qualificada com base na experiência de seus dirigentes, conforme estabelecido no § 1º do art. 7º desta Lei, não se exigirá a observância do disposto no inciso V do caput deste artigo, mas, no caso de estar em atividade conselho municipal de política pública da área objeto da parceria, a celebração do termo de parceria ficará condicionada à aprovação prévia de dois terços dos seus membros.
+
+**Art. 13** . O termo de parceria firmado entre o poder público e a OSCIP discriminará os direitos, as responsabilidades e as obrigações das partes signatárias e disporá ainda sobre:
+
+I - o objeto do termo de parceria, com a especificação de seu programa de trabalho;
+
+II - a especificação técnica detalhada do bem, do projeto, da obra ou do serviço a ser obtido ou realizado;
+
+III - as metas e os resultados a serem atingidos pela entidade e os respectivos prazos de execução ou cronogramas;
+
+IV - os critérios objetivos de avaliação de desempenho a serem utilizados mediante a incorporação de indicadores de resultados;
+
+V - a previsão de receitas e despesas, em nível sintético, a serem realizadas em seu cumprimento;
+
+VI - as obrigações da OSCIP, entre as quais a de apresentar ao poder público municipal, ao término de cada exercício, relatório sobre a execução do objeto do termo de parceria, contendo comparativo específico das metas propostas com os resultados alcançados e a prestação de contas contábil, independentemente das previsões mencionadas no inciso V;
+
+VII - a publicação, no órgão oficial de imprensa, a cargo do Poder Executivo, do extrato do termo de parceria e do extrato de execução física e financeira, sob pena de não liberação dos recursos previstos no termo de parceria;
+
+VIII - a rescisão, cominada expressamente para os casos de infração aos dispositivos desta Lei e para os demais casos que especificar, conforme regulamento.
+
+**§ 1º** Os créditos orçamentários assegurados às OSCIPs serão liberados de acordo com o cronograma de desembolso e as demais disposições previstas no termo de parceria.
+
+**§ 2º** É lícita a vigência simultânea de um ou mais termos de parceria, de acordo com a capacidade operacional da OSCIP.
+
+**§ 3º** O termo de parceria celebrado com OSCIP que tenha por objeto social a promoção de saúde gratuita deverá observar os princípios do art. 198 da Constituição da República e do art. 7º da Lei Federal nº 8.080, de 19 de setembro de 1990.
+
+**§ 4º** A perda da qualificação como OSCIP importará na rescisão do termo de parceria.
+
+Seção II Do Acompanhamento e da Fiscalização
+
+**Art. 14** . A execução do objeto do termo de parceria será acompanhada e fiscalizada pelo órgão do poder público afeto à área de atuação relativa à atividade fomentada e pelos conselhos de políticas públicas das áreas correspondentes de atuação.
+
+**§ 1º** Os resultados atingidos com a execução do termo de parceria serão analisados trimestralmente, no mínimo, por comissão de avaliação integrada por:
+
+I – dois membros indicados pelo Poder Executivo, integrantes da administração municipal;
+
+II - um membro indicado pela Oscip;
+
+III - um membro indicado pelo conselho de políticas públicas da área correspondente de atuação, quando houver;
+
+IV - um especialista da área em que se enquadre o objeto do termo de parceria, indicado pelo Poder Executivo, não integrante da administração municipal.
+
+**§ 2º** A comissão encaminhará relatório conclusivo, no mínimo trimestral, sobre a avaliação realizada à autoridade competente do órgão estatal parceiro e ao conselho de política pública da área correspondente de atuação.
+
+**§ 3º** Os termos de parceria destinados ao fomento de atividades nas áreas de que trata esta lei estarão sujeitos aos mecanismos de controle social previstos na legislação.
+
+**§ 4º** O Poder Executivo designará supervisor para participar, com poder de veto, de decisões da OSCIP relativas ao termo de parceria.
+
+**§ 5º** A entidade parceira encaminhará à comissão de avaliação a cada seis meses, no mínimo, os comprovantes de cumprimento das obrigações trabalhistas e previdenciárias.
+
+**Art. 15** . Os responsáveis pela fiscalização do termo de parceria, ao tomarem conhecimento de irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública pela organização parceira, darão imediata ciência do fato ao Tribunal de Contas e ao Ministério Público, sob pena de responsabilidade solidária. Art. 16 . Sem prejuízo da medida a que se refere o art. 15 desta Lei, havendo indícios fundados de malversação de bens ou recursos de origem pública, os responsáveis pela fiscalização representarão ao Ministério Público e à Procuradoria Geral, para que requeiram ao juízo competente a decretação da indisponibilidade dos bens da entidade e o seqüestro dos bens de seus dirigentes e de agente público ou terceiro que possam haver enriquecido ilicitamente ou causado dano ao patrimônio público.
+
+**§ 1º** O pedido de seqüestro de bens será processado de acordo com o disposto nos arts. 822 e 825 do Código de Processo Civil.
+
+**§ 2º** Quando for o caso, o pedido de que trata o § 1º incluirá a investigação, o exame e o bloqueio de bens, contas bancárias e aplicações mantidas pelo demandado no País e no exterior, nos termos da lei e dos tratados internacionais.
+
+**§ 3º** Até o término da ação, o poder público permanecerá como depositário e gestor dos bens e valores seqüestrados ou indisponíveis e velará pelo prosseguimento das atividades sociais da OSCIP.
+
+**Art. 17.** A OSCIP fará publicar, no prazo máximo de trinta dias contados da assinatura do termo de parceria, regulamento próprio contendo os procedimentos a serem adotados para a contratação de obras e serviços, bem como para compras com o emprego de recursos provenientes do poder público, observados os princípios estabelecidos no inciso I do art. 5º desta Lei.
+
+CAPÍTULO IV
+
+DO FOMENTO ÀS ATIVIDADES DAS OSCIPS
+
+**Art. 18** . Às OSCIPs serão destinados recursos orçamentários e, eventualmente, bens públicos necessários ao cumprimento do termo de parceria de que trata o Capítulo III desta Lei, ressalvadas as hipóteses de inadimplência com o poder público ou de descumprimento das condições estabelecidas no termo.
+
+**§ 1º** Os bens de que trata este artigo serão destinados às Oscips mediante cláusula expressa constante no termo de parceria, e anexo que os identifique e relacione, ou, durante a vigência do termo, mediante permissão de uso.
+
+**§ 2º** Caso a Oscip adquira bem imóvel com recursos provenientes da celebração do termo de parceria, este será afetado a seu objeto e gravado com cláusula de inalienabilidade, devendo ser transferido ao Município ao término da vigência do instrumento.
+
+**§ 3º** Na hipótese de a OSCIP adquirir bens móveis depreciáveis com recursos provenientes da celebração do termo de parceria, estes deverão ser transferidos ao Município, ao término da vigência do instrumento, se sua depreciação acumulada for menor que 60% (sessenta por cento) do seu valor original.
+
+**§ 4º** A aquisição de bens imóveis com recursos provenientes da celebração do termo de parceria será precedida de autorização do órgão estatal parceiro.
+
+**Art. 19** . Os bens móveis públicos permitidos para uso da OSCIP poderão ser permutados por outros de igual ou maior valor, os quais integrarão o patrimônio do Município.
+
+**Parágrafo único** . A permuta de que trata este artigo dependerá de prévia avaliação do bem e de expressa autorização do poder público.
+
+**Art. 20.** É facultada ao Poder Executivo a cessão especial de servidor civil para OSCIP, com ou sem ônus para o órgão de origem, condicionada à anuência do servidor.
+
+**§ 1º** Não será incorporada aos vencimentos ou à remuneração de origem do servidor cedido qualquer vantagem pecuniária que vier a ser paga pela OSCIP.
+
+**§ 2º** Não será permitido o pagamento de vantagem pecuniária permanente por OSCIP a servidor cedido com recursos provenientes do termo de parceria, ressalvada a hipótese de adicional relativo ao exercício de função temporária de direção e assessoramento.
+
+**§ 3º** O servidor cedido perceberá as vantagens do cargo a que fizer jus no órgão de origem.
+
+**§ 4º** Caso o servidor cedido com ônus para o órgão de origem deixe de prestar serviço à OSCIP, poderá ser adicionada aos créditos orçamentários destinados ao custeio do termo de parceria a parcela de recursos correspondente à remuneração do servidor, desde que haja justificativa expressa da necessidade pela OSCIP.
+
+**§ 5º** A cessão de servidor de que trata este artigo não poderá gerar a necessidade de substituição do servidor cedido nem de nomeação ou contratação de novos servidores para o exercício de função idêntica ou assemelhada na unidade administrativa cedente.
+
+**§ 6º** É vedado a agentes públicos o exercício, a qualquer título, de cargo de direção de OSCIP, excetuados os servidores que lhe forem cedidos.
+
+**Art. 21** . Fica qualificada como organização social, para os efeitos do inciso XXIV do art. 24 da Lei Federal nº 8.666, de 21 de junho de 1993, e do art. 15 da Lei nº 9.637, de 15 de maio de 1998, a entidade qualificada como OSCIP.
+
+**Art. 22** . São extensíveis, no âmbito do Município, os efeitos dos arts. 8º, § 4º, e 18, § 1º, desta Lei, às entidades qualificadas como Organização Social ou OSCIP pela União, pelos Municípios, pelo Distrito Federal e pelos Municípios, desde que a legislação dos demais entes federados guarde reciprocidade com as normas desta Lei.
+
+**Art. 23.** As OSCIPs poderão executar, parcialmente, atividades e serviços de órgãos e entidades do Poder Executivo, mediante a celebração de termo de parceria, na forma prevista nos arts. 12 e 13 desta Lei.
+
+CAPÍTULO V DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+**Art. 24.** É vedada à entidade qualificada como OSCIP qualquer tipo de participação em campanha de interesse político-partidário ou eleitoral.
+
+**Art. 25.** O Poder Executivo permitirá o acesso a todas as informações relativas às OSCIPs, inclusive em meio eletrônico.
+
+**Art. 26.** A pessoa jurídica de direito privado sem fins lucrativos qualificada com base em outros diplomas legais poderá qualificar-se como OSCIP, observados os requisitos estabelecidos nesta Lei.
+
+**Art. 27.** Os empregados contratados por OSCIP não guardam qualquer vínculo empregatício com o poder público, inexistindo também qualquer responsabilidade do Município relativamente às obrigações de qualquer natureza assumidas pela OSCIP.
+
+**Art. 28.** Correrão à conta das dotações orçamentárias próprias dos órgãos interessados, nos termos de decreto, as despesas de deslocamento, de alimentação e de pousada dos colaboradores eventuais da administração pública municipal.
+
+**Parágrafo único.** Dependerá de autorização legislativa específica a qualificação de pessoa jurídica de direito privado como Organização da Sociedade Civil de Interesse Público – OSCIP, para a execução de atividades em cada setor da Administração.
+
+**Art. 29** . O Poder Executivo regulamentará esta Lei no prazo de sessenta dias contados da data de sua publicação.
+
+**Art. 30** . Esta Lei entra em vigor na data de sua publicação.
+
+Timóteo, 26 de julho de 2010; 46º Ano de Emancipação Político-Administrativa.
+
+Geraldo Hilário Torres Prefeito Municipal

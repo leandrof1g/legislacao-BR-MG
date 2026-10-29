@@ -1,0 +1,44 @@
+---
+titulo: "Lei Ordinária nº 2672, de 06/05/2021"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2672"
+data: "2021-05-06"
+ementa: "Abre Crédito Especial na Lei Municipal 2.660/2020, a qual aprovou o Orçamento Fiscal do Exercício 2021 – LOA e Dá Outras Providências"
+municipio: "Januária"
+uf: "MG"
+codigo_ibge: "3135209"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.januaria.mg.leg.br/norma/1144"
+fonte_texto: "https://sapl.januaria.mg.leg.br/media/sapl/public/normajuridica/2021/1144/lei_n_2672.pdf"
+sha256_fonte: "38b44230030732515c88119ed87bafe5a73a2fab8ff004c3a23c7fdef8d36f8e"
+baixado_em: "2026-10-29"
+---
+
+# Lei Ordinária nº 2672, de 06/05/2021
+
+LEI Nº 2.672 DE 06 DE MAIO DE 2021 “Abre Crédito Especial na Lei Municipal 2.660/2020, a qual Aprovou o Orçamento Fiscal do Exercício 2021 – LOA e Dá Outras Providências”.
+
+O PREFEITO MUNICIPAL DE JANUÁRIA, Minas Gerais, faz saber que a Câmara Municipal aprova e ele sanciona a seguinte Lei:
+
+**Art. 1º** - Fica o Executivo Municipal autorizado a abrir e suplementar se necessário for, crédito adicional especial no orçamento vigente, de até o valor de R$ 9.300.000,00 (nove milhões e trezentos mil reais).
+
+**Art. 2º** - O crédito adicional especial definido no artigo anterior será classificado sob as dotações orçamentárias constantes do anexo único desta lei.
+
+**Art. 3º** - O crédito adicional especial de que trata o artigo 1º será coberto pela prerrogativa do Art. 43, § 1º, II c/c §3º da Lei 4.320/64.
+
+**Art. 4º** - Fica ainda autorizado o Poder Executivo a promover as adequações e alterações no Plano Plurianual e Lei de Diretrizes Orçamentárias que se fizerem necessárias.
+
+**Art. 5º** - Esta Lei entra em vigor na data de sua publicação.
+
+PREFEITURA MUNICIPAL DE JANUÁRIA, Em 06 de maio de 2021.
+
+MAURÍCIO ALMEIDA DO NASCIMENTO Prefeito Municipal
+
+MATHEUS RODRIGUES VELOSO COSTA Secretário Municipal de Administração
+
+RUSLAN BARBOSA LUZ Contador CRC-BA 036229/O-6 T-MG
+
+ANEXO ÚNICO
+
+CLASSIFICAÇÃO PROJETO/ATIVIDADE NATUREZA DA DESPESA FONTE VALOR FUNCIONAL SECRETARIA MUNICIPAL DE SAÚDE 3.500.000,00 08.03.10.301.0016 2.057 - MANUTENÇÃO DO PROGRAMA - SAÚDE DA FAMÍLIA 3.3.90.30 - MATERIAL DE CONSUMO 159 800.000,00 08.03.10.301.0016 2.057 - MANUTENÇÃO DO PROGRAMA - SAÚDE DA FAMÍLIA 3.3.90.36 - OUTROS SERVIÇOS DE TERCEIROS - P.F. 159 200.000,00 08.05.10.302.0018 1.033 - AQUISIÇÃO DE VEÍCULOS/EQUIPAMENTOS/MAT.PERMANENTE 4.4.90.52 - EQUIPAMENTOS E MATERIAL PERMANENTE 123 500.000,00 08.05.10.302.0018 2.065 - MANUTENÇÃO DO ATENDIMENTO HOSPITALAR 3.3.90.30 - MATERIAL DE CONSUMO 159 2.000.000,00 SECRETARIA MUNICIPAL DE TURISMO 500.000,00 10.02.23.695.0024 1.052 - INVESTIMENTOS PARA A PROMOÇÃO DO TURISMO 4.4.90.51 - OBRAS E INSTALAÇÕES 124 500.000,00 SECRETARIA MUNICIPAL DE ESPORTE 500.000,00 11.02.27.812.0026 1.056 - CONSTRUÇÃO E REFORMA DE UNIDADES ESPORTIVAS 4.4.90.51 - OBRAS E INSTALAÇÕES 124 500.000,00 SECRETARIA MUNICIPAL DE DESENVOLVIMENTO SOCIAL 300.000,00 12.03.08.244.0027 2.193 - PREVENÇÃO ÀS DROGAS 3.1.90.11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 142 60.000,00 12.03.08.244.0027 2.193 - PREVENÇÃO ÀS DROGAS 3.3.90.30 - MATERIAL DE CONSUMO 142 60.000,00 12.03.08.244.0027 2.193 - PREVENÇÃO ÀS DROGAS 3.3.90.39 - OUTROS SERVIÇOS DE TERCEIROS - P.J. 142 180.000,00 SECRETARIA MUNICIPAL DE OBRAS 2.500.000,00 13.02.15.451.0028 1.073 - PAVIMENTAÇÃO E MANUTENÇÃO DE VIAS URBANAS 4.4.90.51 - OBRAS E INSTALAÇÕES 124 2.500.000,00 SECRETARIA MUNICIPAL DE TRANSPORTE 500.000,00 14.02.26.782.0028 2.147 - MANUTENÇÃO DAS ESTRADAS RURAIS 4.4.90.30 - MATERIAL DE CONSUMO 124 250.000,00 14.02.26.782.0028 2.147 - MANUTENÇÃO DAS ESTRADAS RURAIS 4.4.90.39 - OUTROS SERVIÇOS DE TERCEIROS - P.J. 124 250.000,00 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE 1.500.000,00 15.02.20.605.0029 1.083 - OBRAS E INSTALAÇÕES DE APOIO AO PEQUENO PRODUTOR 4.4.90.51 - OBRAS E INSTALAÇÕES 124 400.000,00 15.02.20.605.0029 2.151 - APOIO AO PEQUENO PRODUTOR 3.3.90.30 - MATERIAL DE CONSUMO 124 100.000,00 15.02.20.605.0029 1.190 - ARRANJO PRODUTIVO LOCAL 4.4.90.51 - OBRAS E INSTALAÇÕES 124 400.000,00 15.02.20.605.0029 1.190 - ARRANJO PRODUTIVO LOCAL 4.4.90.52 - EQUIPAMENTOS E MATERIAL PERMANENTE 124 300.000,00 15.02.20.605.0029 2.194 - ARRANJO PRODUTIVO LOCAL 3.3.90.30 - MATERIAL DE CONSUMO 124 200.000,00 15.02.20.605.0029 2.194 - ARRANJO PRODUTIVO LOCAL 3.3.90.36 - OUTROS SERVIÇOS DE TERCEIROS - P.F. 124 100.000,00 TOTAL 9.300.000,00

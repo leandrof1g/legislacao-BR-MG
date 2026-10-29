@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 1911, de 13/07/2001"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1911"
+data: "2001-07-13"
+ementa: "Declara de utilidade pública a Associação dos Pequenos Produtores Rurais de Funil e Adjacências."
+municipio: "Januária"
+uf: "MG"
+codigo_ibge: "3135209"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.januaria.mg.leg.br/norma/2082"
+fonte_texto: "https://sapl.januaria.mg.leg.br/media/sapl/public/normajuridica/2001/2082/lei_n_1911.pdf"
+sha256_fonte: "c14a7463ac49621cb3341ff12316ed4fb1c518559c575550e63d4cf9f3454ea5"
+baixado_em: "2026-10-29"
+---
+
+# Lei Ordinária nº 1911, de 13/07/2001
+
+LEI Nº 1.911 DE 13 DE JULHO/2001.
+
+DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO DOS PEQUENOS PRODUTORES RURAIS DE FUNIL E ADJACÊNCIAS.
+
+O POVO DO MUNICÍPIO DE JANUÁRIA, por seus representantes na Câmara Municipal, decreta e aprova e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+**Art. 1º** - Fica declarada de Utilidade Pública no âmbito municipal, a ASSOCIAÇÃO DOS PEQUENOS PRODUTORES RURAIS DE FUNIL E ADJACÊNCIAS, com sede e administração na localidade de Funil, distrito de Tejuco, município de Januária/MG.
+
+**Art. 2º** - A documentação exigida e necessária para o reconhecimento de Utilidade Pública da entidade referida no Art. 1º desta Lei, encontra-se arquivada na Câmara Municipal de Januária.
+
+**Art. 3º** - Revogam-se as disposições em contrário, entrando a presente Lei em vigor na data de sua publicação.
+
+PREFEITURA MUNICIPAL DE JANUÁRIA, EM 13 DE JULHO DE 2001.
+
+JOSEFINO LOPES VIANA PREFEITO MUNICIPAL
+
+HERÁCLITO DIAS BASTOS SECRETÁRIO DE ADMINISTRAÇÃO

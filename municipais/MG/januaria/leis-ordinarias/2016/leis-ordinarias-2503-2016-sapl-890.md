@@ -1,0 +1,118 @@
+---
+titulo: "Lei Ordinária nº 2503, de 21/12/2016"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2503"
+data: "2016-12-21"
+ementa: "''Despesa do Município de Januária para o exercício financeiro de 2017 e dá outras providências\" passa a vigorar com nova redação nos arts. 4º e 5º e acrescidodo seguinte art. 6º."
+municipio: "Januária"
+uf: "MG"
+codigo_ibge: "3135209"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.januaria.mg.leg.br/norma/890"
+fonte_texto: "https://sapl.januaria.mg.leg.br/media/sapl/public/normajuridica/2016/890/lei_n_2503.pdf"
+sha256_fonte: "b4782dacedd4567be777e3f175d3c44e0dfbf222ebb3c8a50769f30159f396a2"
+baixado_em: "2026-10-29"
+---
+
+# Lei Ordinária nº 2503, de 21/12/2016
+
+LEI Nº 2.503 DE 21 DE DEZEMBRO DE 2016 DESPESA DO MUNICÍPIO DE JANUÁRIA PARA O EXERCÍCIO FINANCEIRO DE 2017 E DÁ OUTRAS PROVIDÊNCIAS” passa a vigorar com NOVA REDAÇÃO nos arts. 4º e 5º e ACRESCIDO do seguinte art. 6º.
+
+O POVO DO MUNICÍPIO DE JANUÁRIA-MG, por seus representantes legais aprova e eu, Prefeito, sanciono a seguinte Lei:
+
+**Art.1º** - O orçamento do Município de, discriminado nos orçamentos do Poder Legislativo e do Poder Executivo, de acordo com os quadros que integram e acompanham, estima à receita em R$ 117.658.326,00 (Cento e dezessete Milhões seiscentos e cinquenta e oito mil, trezentos e vinte e seis reais), e fixa a despesa em igual valor.
+
+**Art.2º** - A Receita será realizada mediante arrecadação dos tributos na legislação em vigor e de acordo com os quadros anexos e segundo os seguintes desdobramentos:
+
+A - RECEITAS POR FONTES
+
+RECEITAS CORRENTES
+
+Receita Tributária 6.718.200,00 Receitas de Contribuições 4.561.000,00 Receita Patrimonial 3.036.400,00 Receita de Serviços 110.500,00 Transferências Correntes 85.681.700,00 Outras Receitas Correntes 410.200,00 Receita Redutora - 9.504.800,00
+
+SubTotal 100.518.000,00
+
+RECEITAS DE CAPITAL
+
+Operações de Crédito 1.000,00 Alienação de Bens 1.000,00 Transferências de Capital 2.624.000,00 Outras Receitas de Capital 1.510.000,00 RECEITAS INTRA-ORÇAMENTARIAS 13.004.326,00
+
+Subtotal 17.140.326,00
+
+Total Geral 117.658.326,00
+
+**Art.3º** - A Despesa do Município de Januária será realizada de acordo com os seguintes desdobramentos:
+
+A-DEPESAS POR FUNÇÃO DE GOVERNO
+
+01-LEGISLATIVA 3.874.000,00 02-JUDICIÁRIA 2.243.000,00 04-ADMINISTRAÇÃO 8.722.500,00 06-SEGURANÇA PÚBLICA 459.000,00 08-ASSISTÊNCIA SOCIAL 4.700.500,00 09-PREVIDÊNCIA SOCIAL 10.307.600,00 10-SAÚDE 26.722.000,00 12-EDUCAÇÃO 28.735.826,00 13-CULTURA 1.155.000,00 15-URBANISMO 7.521.000,00
+
+17-SANEAMENTO 1.434.000,00 18-GESTÃO AMBIENTAL 145.000,00 20-AGRICULTURA 1.426.000,00 23-COMÉRCIO E SERVIÇOS 614.000,00 24-COMUNICAÇÕES 483.500,00 26-TRANSPORTE 3.998.000,00 27-DESPORTO E LAZER 388.000,00 28-ENCARGOS ESPECIAIS 4.187.000,00 99-RESERVA DE CONTINGÊNCIA 10.542.400,00
+
+Total 117.658.326,00
+
+B-DEPESAS POR UNIDADES ORÇAMENTARIAS
+
+01-GABINETE DO PREFEITO 01.01-CHEFIA GAB. REL. PUB. ASSUNTOS POL. 01.01.01-CHEFIA GAB. REL. PUB. ASSUNTOS POL. 982.000,00 01-GABINETE DO PREFEITO 01.02-ASSESSORIA DE COMUNICAÇÃO 01.02.02-ASSESSORIA DE COMUNICAÇÃO 483.500,00 01-GABINETE DO PREFEITO 01.03-ASSES. JURÍDICA E PROC. GERAL 01.03.03-ASSES. JURÍDICA E PROC. GERAL 2.243.000,00 01-GABINETE DO PREFEITO 01.04-CORREGEDORIA E CONTROL. GERAL 01.04.04-CORREGEDORIA E CONTROL. GERAL 177.000,00 01-GABINETE DO PREFEITO 01.05-GABINETE DO VICE PREFEITO 01.05.05-GABINETE DO VICE PREFEITO 127.000,00 01-GABINETE DO PREFEITO 01.06-COORDENAÇÃO DEFESA CIVIL 01.06.06-COORDENAÇÃO DEFESA CIVIL 459.000,00 02-SEC. MUN. PLAN. E COORD. ORÇAM. 02.01-GABINETE DO SECRETÁRIO 02.01.01-GABINETE DO SECRETÁRIO 276.000,00 02-SEC. MUN. PLAN. E COORD. ORÇAM. 02.02-SUPERINTENDÊNCIA GERAL 02.02.02-SUPERINTENDÊNCIA GERAL 724.500,00 02-SEC. MUN. PLAN. E COORD. ORÇAM. 02.03-DIRETORIA TEC. ADMINISTRATIVA 02.03.03-DIRETORIA TEC. ADMINISTRATIVA 116.000,00 02-SEC. MUN. PLAN. E COORD. ORÇAM. 02.05-DIRETORIA EXECUTIVA PROJETOS 02.05.05-DIRETORIA EXECUTIVA PROJETOS 43.000,00 02-SEC. MUN. PLAN. E COORD. ORÇAM. 02.06-DIRETORIA DE CONVÊNIOS 02.06.06-DIRETORIA DE CONVÊNIOS 98.000,00 03-SEC. MUN. ADMINISTRAÇÃO 03.01-GABINETE DO SECRETÁRIO 03.01.01-GABINETE DO SECRETÁRIO 434.000,00 03-SEC. MUN. ADMINISTRAÇÃO 03.02-DEP. RH GESTÃO PESSOAS E ADM. GERAL 03.02.02-DEP. RH GESTÃO PESSOAS E ADM. GERAL 8.021.000,00 04-SEC. MUN. FINANÇAS 04.01-GABINETE DO SECRETÁRIO 04.01.01-GABINETE DO SECRETÁRIO 171.000,00 04-SEC. MUN. FINANÇAS 04.02-DEPARTAMENTO DE CONTABILIDADE 04.02.02-DEPARTAMENTO DE CONTABILIDADE 5.127.000,00 04-SEC. MUN. FINANÇAS 04.03-DEPARTAMENTO DO TESOURO
+
+04.03.03-DEPARTAMENTO DO TESOURO 657.000,00 04-SEC. MUN. FINANÇAS 04.04-DEPARTAMENTO DE COMPRAS 04.04.04-DEPARTAMENTO DE COMPRAS 231.000,00 05-SEC. MUN. SAÚDE 05.01-SECRETARIA MUNICIPAL DE SAÚDE 05.01.01-COORD SEC. MUN. DE SAÚDE 930.000,00 05-SEC. MUN. SAÚDE 05.02-FDO MUNICIPAL DE SAÚDE 05.02.01-ATENÇÃO BÁSICA 8.788.000,00 05.02.02-BLOCO VIGILANCIA EM SAÚDE 1.334.000,00 05.02.03-ATENÇÃO AMBULATORIAL E HOSPITALAR 14.895.000,00 05.02.04-SAÚDE MENTAL 213.000,00 05.02.05-ASSISTÊNCIA FARMACEUTICA 562.000,00 06-SEC. OBRAS E SERV. PÚBLICOS 06.01-GABINETE DO SECRETÁRIO 06.01.01-GABINETE DO SECRETÁRIO 439.000,00 06-SEC. OBRAS E SERV. PÚBLICOS 06.02-DEPTO. MANUT. E EXEC. OBRAS 06.02.02-DEPTO. MANUT. E EXEC. OBRAS 6.506.000,00 06-SEC. OBRAS E SERV. PÚBLICOS 06.04-DEPTO. LIMPEZA PUB. VARRIÇÃO E COL. 06.04.04-DEPTO. LIMPEZA PUB. VARRIÇÃO E COL. 1.821.000,00 07-SEC. MUN. EDUCAÇÃO 07.01-GABINETE DO SECRETÁRIO 07.01.01-GABINETE DO SECRETÁRIO 191.500,00 07-SEC. MUN. EDUCAÇÃO 07.02-DEPARTAMENTO DE ADMINISTRAÇÃO 07.02.02-DEPARTAMENTO DE ADMINISTRAÇÃO 1.030.000,00 07-SEC. MUN. EDUCAÇÃO 07.03-DEPTO. DE EDUCAÇÃO BÁSICA 07.03.03-DEPTO. DE EDUCAÇÃO BÁSICA 25.858.326,00 07-SEC. MUN. EDUCAÇÃO 07.04-DEPTO. DE ALIMENTAÇÃO ESCOLAR 07.04.04-DEPTO. DE ALIMENTAÇÃO ESCOLAR 1.468.000,00 07-SEC. MUN. EDUCAÇÃO 07.05-FUND. MUNIC. ENSINO SUPERIOR 07.05.05-FUND. MUNIC. ENSINO SUPERIOR 188.000,00 08-SEC. MUN. AGRIC. PEC. E ABASTEC. 08.01-GABINETE DO SECRETÁRIO 08.01.01-GABINETE DO SECRETÁRIO 207.000,00 08-SEC. MUN. AGRIC. PEC. E ABASTEC. 08.02-DEPTO. AGRIC. PEC. E ABAST. 08.02.02-DEPTO. AGRIC. PEC. E ABAST. 1.374.000,00 09-SEC. MUN. TURISMO CULT. E MEIO AMB. 09.01-GABINETE DO SECRETÁRIO 09.01.01-GABINETE DO SECRETÁRIO 121.000,00 09-SEC. MUN. TURISMO CULT. E MEIO AMB. 09.02-DEPTO. CULTURA E MEIO AMBIENTE 09.02.02-DEPTO. CULTURA E MEIO AMBIENTE 1.102.000,00 09-SEC. MUN. TURISMO CULT. E MEIO AMB. 09.03-DEPARTAMENTO DE TURISMO 09.03.03-DEPARTAMENTO DE TURISMO 411.000,00 09-SEC. MUN. TURISMO CULT. E MEIO AMB. 09.04-FDO MUN. CULT. PATRIM. HISTÓRICO 09.04.04-FDO. MUN. CULT. PATRIM. HISTÓRICO 54.000,00 09-SEC. MUN. TURISMO CULT. E MEIO AMB. 09.05-FUNDO MUNICIPAL TURISMO 09.05.05-FUNDO MUNICIPAL TURISMO 81.000,00 09-SEC. MUN. TURISMO CULT. E MEIO AMB. 09.11-FUNDO MUN. MEIO AMBIENTE 09.11.11-1 FUNDO MUN. MEIO AMBIENTE 145.000,00
+
+10-SEC. MUN. TRANSPORTES 10.01-GABINETE DO SECRETÁRIO 10.01.01-GABINETE DO SECRETÁRIO 191.000,00 10-SEC. MUN. TRANSPORTES 10.02-DEPTO. DE TRANSPORTE E TRANSITO 10.02.02-DEPTO. DE TRANSPORTE E TRANSITO 4.163.000,00 11-SEC. MUN . TRIBUTOS ARREC. E FISC. 11.01-GABINETE DO SECRETÁRIO 11.01.01-GABINETE DO SECRETÁRIO 170.000,00 11-SEC. MUN . TRIBUTOS ARREC. E FISC. 11.02-DEPTO. FISCALIZ. E ARRECADAÇÃO 11.02.02-DEPTO. FISCAL. E ARRECADAÇÃO 583.000,00 12-SEC. MUN. DESENV. SOCIAL 12.01-FUNDO MUN. ASSIST. SOCIAL 12.01.01-FUNDO MUN. ASSIST. SOCIAL 4.377.500,00 12-SEC. MUN. DESENV. SOCIAL 12.02-FDO MUN. DIREITOS CRIANÇA E ADOLESC 12.02.02-FDO MUN. DIREITOS CRIANÇA E ADOLESC 323.000,00 13-SEC. MUN. LAZER E INCL. SOC. ESPOR. 13.01-GABINETE DO SECRETÁRIO 13.01.01-GABINETE DO SECRETÁRIO 115.000,00 13-SEC. MUN. LAZER E INCL. SOC. ESPOR. 13.02-DEPTO. DE ESPORTES E LAZER 13.02.02-DEPTO. DE ESPORTES E LAZER 273.000,00 14-RESERVA DE CONTINGÊNCIA 14.01-RESERVA DE CONTINGÊNCIA 14.01.01-RESERVA DE CONTINGÊNCIA 2.000.000,00 15-CORPO LEGISLATIVO 15.01-CORPO LEGISLATIVO 15.01.01-CORPO LEGISLATIVO 1.527.000,00 16-SECRETARIA DO LEGISLATIVO 16.01-SECRETARIA 16.01.01-SECRETARIA 2.087.000,00 17-SERVIÇOS GERAIS DA CÂMARA 17.01-SERV. GERAIS DA CÃMARA 17.01.01-SERV. GERAIS DA CÂMARA 260.000,00 18-SUPERINT. DA PREVJAN 18.01-GABINETE DO SUPERINTENDENTE 18.01.01-GABINETE DO SUPERINTENDENTE 124.300,00 18-SUPERINT. DA PREVJAN 18.02-ASSESSORIA JURIDICA 18.02.02-ASSESSORIA JURIDICA 419.650,00 18-SUPERINT. DA PREVJAN 18.03-ÓRGÃO CENTRAL CONTROLE INTERNO 18.03.03-ÓRGÃO CENTRAL CONTROLE INTERNO 850,00 19-CONSELHO DELIB. E FISCAL 19.01-CONSELHO DELIB. FISCAL 19.01.01-CONSELHO DELIB. FISCAL 71.350,00 20-GERENCIA APOIO ADMINISTRATIVO 20.01-SERVIÇOS ADMINISTRATIVOS 20.01.01-SERVIÇOS ADMINISTRATIVOS 8.738.800,00 20-GERENCIA APOIO ADMINISTRATIVO 20.02-SERV. DIV. E ENCARGOS SOCIAIS 20.02.02-SERV. DIV. E ENCARGOS SOCIAIS 90.100,00 20-GERENCIA APOIO ADMINISTRATIVO 20.03-SERVIÇOS FINANCEIROS 20.03.03-SERVIÇOS FINANCEIROS 143.200,00 20-GERENCIA APOIO ADMINISTRATIVO 20.04-SERVIÇO DE CONTABILIDADE 20.04.04-SERVIÇO DE CONTABILIDADE 637.950,00 21-GERÊNCIA BENEFÍCIOS PREVIDENC. 21.01-DIVISÃO BENEF. PREVIDENCIÁRIOS
+
+21.01.01-DIVISÃO BENEF. PREVIDENCIÁRIOS 3.273.800,00
+
+Total 117.658.326,00
+
+C - DESPESAS POR CATEGORIAS E SUB CATEGORIAS ECONÔMICAS
+
+DESPESAS CORRENTES
+
+PESSOAL E ENCARGOS SOCIAIS 58.297.700,00 JUROS E ENCARGOS DA DIVÍDA 362.000,00 OUTRAS DESPESAS CORRENTES 39.819.726,00
+
+SubTotal 98.479.426,00
+
+DESPESAS DE CAPITAL
+
+INVESTIMENTOS 5.626.500,00 AMORTIZAÇÃO DA DÍVIDA 3.010.000,00
+
+SubTotal 8.636.500,00
+
+RESERVA CONTING / RES DO RPPS 10.542.400,00
+
+Total Geral 117.658.326,00
+
+**Art. 4º** Ficam os Chefes do Poder Executivo, Legislativo e do PREVJAN autorizados a abrirem créditos adicionais suplementares aos respectivos orçamentos, até o limite de 20% (vinte por cento) do total dos respectivos orçamentos, podendo para tanto:
+
+I – o Presidente da Câmara, suplementar dotações do orçamento próprio do Poder Legislativo por ato próprio, mediante anulação total ou parcial de dotações orçamentárias próprias;
+
+II – o Presidente do PREVJAN, suplementar dotações do orçamento próprio Instituto por ato próprio, mediante anulação total ou parcial de dotações orçamentárias próprias;
+
+III – o Prefeito:
+
+a) utilizar-se dos recursos previstos no Art. 43, §1º, I, II, III e IV da Lei nº 4.320/64;
+
+b) realizar operações de crédito por antecipação da Receita Orçamentária até o limite das despesas de capital, observado o disposto no art. 38, IV, “b” da Lei Complementar nº 101/2000;
+
+c) proceder à redistribuição de parcelas das dotações de pessoal, quando considerada indispensável à movimentação administrativa interna de pessoal;
+
+d) proceder as medidas necessárias para ajustar os dispêndios ao comportamento da receita.
+
+**§1º** Os créditos suplementares de que trata este artigo, poderão ser destinados também ao pagamento de despesas com o cumprimento de sentenças judiciais transitadas em julgado.
+
+**§2º** A inclusão de categoria econômica e de grupo de despesa em projeto, atividade ou operação especial constantes da lei orçamentária e de seus créditos adicionais será feita mediante a abertura de créditos suplementares, através de decreto do Poder Executivo, respeitados os objetivos dos mesmos.
+
+**§3º** Por não se constituírem autorizações de despesa na forma do artigo 42 da Lei nº 4.320, de 1964, nãos serão considerados crédito suplementares as alterações nas destinações de recursos realizadas no exercício.
+
+**§4º** O projeto de Lei que solicitar abertura de créditos suplementares por anulação total ou parcial de rubricas deste orçamento, deverá conter, obrigatoriamente, as rubricas que serão anuladas e as que receberão os créditos dos recursos anulados.
+
+**§5º** Poderão ser abertos créditos suplementares às dotações do orçamento oriundas de créditos especiais, que se fizerem insuficientes, durante a execução orçamentária de 2016, desde que obedecido o percentual definido no caput e o disposto na alínea ‘a’ do inciso III deste artigo.
+
+**Art. 5º** Fazem parte integrante desta Lei, em forma de anexo, os quadros orçamentários consolidados, aos quais se refere à Lei nº. 4.320, de 1964 e a Lei Complementar nº 101, de 2000.
+
+**Art. 6º** Esta Lei entra em vigor na data de sua publicação produzindo seus efeitos a partir de 1º de janeiro de 2017.
+
+PREFEITURA MUNICIPAL DE JANUÁRIA Em 21 de dezembro de 2016
+
+MANOEL JORGE DE CASTRO Prefeito Municipal
+
+JOVENTINA MARIA SILVA GONZAGA Secretária Municipal de Administração

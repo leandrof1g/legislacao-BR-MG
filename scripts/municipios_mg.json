@@ -20,7 +20,7 @@
    "sapl_manual": false
   },
   "3101607": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Alfenas",
    "normas_na_fonte": 573,
    "pasta": "alfenas",
@@ -308,7 +308,7 @@
    "sapl_manual": false
   },
   "3115300": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Cataguases",
    "normas_na_fonte": 317,
    "pasta": "cataguases",
@@ -668,7 +668,7 @@
    "sapl_manual": false
   },
   "3135209": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Januária",
    "normas_na_fonte": 3696,
    "pasta": "januaria",
@@ -848,7 +848,7 @@
    "sapl_manual": false
   },
   "3143906": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Muriaé",
    "normas_na_fonte": 8688,
    "pasta": "muriae",
@@ -1028,7 +1028,7 @@
    "sapl_manual": false
   },
   "3151206": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Pirapora",
    "normas_na_fonte": 0,
    "pasta": "pirapora",
@@ -1316,7 +1316,7 @@
    "sapl_manual": false
   },
   "3168705": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Timóteo",
    "normas_na_fonte": 8588,
    "pasta": "timoteo",
@@ -1388,7 +1388,7 @@
    "sapl_manual": false
   },
   "3170404": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Unaí",
    "normas_na_fonte": 11359,
    "pasta": "unai",

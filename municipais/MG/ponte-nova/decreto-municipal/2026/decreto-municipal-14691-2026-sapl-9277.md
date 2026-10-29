@@ -1,0 +1,548 @@
+---
+titulo: "Decreto Municipal nº 14691, de 04/06/2026"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "14691"
+data: "2026-06-04"
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR"
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/9277"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9277/dec_14.691.2026.pdf"
+sha256_fonte: "ba4ba63a3f12cf9a9f456be9b7c0a73c392baa5d34a7d8d41b578eab6a10ec72"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Municipal nº 14691, de 04/06/2026
+
+DECRETO N°: 14.691, DE 04.05.2026
+
+ABRE CRÉDITO ADICIONAL SUPLEMENTAR
+
+O PREFEITO MUNICIPAL de PONTE NOVA, no uso de suas atribuições legais, nos termos da Lei N° 4.320/64 e, Lei Municipal Nº 4.904/2025
+
+CONSIDERANDO:
+
+O que estabelece inciso I, do art. 5º da lei municipal 4.904/2025, fica o poder executivo autorizado a: I abrir créditos suplementares, respeitadas as demais prescrições constitucionais, e nos termos da Lei federal nº 4.320/1964 até o limite de 20% (vinte por cento) do valor total do orçamento, por anulação parcial ou total de dotações.
+
+DECRETA:
+
+**Art. 1º** - Ficam abertos créditos adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente:
+
+02 PREFEITURA MUNICIPAL
+
+02.02 SECRETARIA MUNICIPAL DE GOVERNO
+
+02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0003 ADMINIST. GERAL DA SECRETARIA DE GOVERNO
+
+04.122.0003.2007 MANUTENCAO DA SEGOV
+
+3.3.90.14.00 087 Diárias - Pessoal Civil 2.400,00
+
+Impostos 2.400,00
+
+3.3.90.36.00 088 Outros Serviços Terceiros - Pessoa Física 36.240,08
+
+Impostos 36.240,08
+
+04.122.0003.2017 AQ BENS E SERVICOS COMUNS AS SECRETARIAS
+
+3.3.90.40.00 098 Serv. de TI e Comunicação – PJ 14.683,00
+
+Impostos 14.683,00
+
+02.04 SECRETARIA MUNICIPAL DE FAZENDA
+
+02.04.01 SECRETARIA MUNICIPAL DE FAZENDA
+
+04 Administracao
+
+04.123 Administracao Financeira
+
+04.123.0005 ADMINIST. GERAL DE RECEITAS E DESPESAS
+
+04.123.0005.2018 MANUTENCAO DAS ATIVIDADES DA SEMFA
+
+3.3.90.14.00 129 Diárias - Pessoal Civil 10.000,00
+
+Impostos 10.000,00
+
+3.3.90.93.00 133 Indenizações e Restituições 5.169,34
+
+Impostos 5.169,34
+
+02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI
+
+02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08 Assistencia Social
+
+08.245 Serviços Socioassistenciais
+
+08.245.0074 BLOCO DA PROT. SOCIAL ESP. - ALTA COMPL
+
+08.245.0074.2329 MANUTENCAO DO SERVICO AO MIGRANTE
+
+3.3.90.36.00 261 Outros Serviços Terceiros- Pessoa Física 5.235,04
+
+1.661.000.0000 Transf. Recur. Fundos Estaduais de 5.235,04
+
+02.07 SECRETARIA MUNICIPAL DE SAUDE
+
+02.07.02 FUNDO MUNICIPAL DE SAUDE
+
+10 Saude
+
+10.302 Assist. Hospitalar e Ambulatorial
+
+10.302.0022 ATEND DE MEDIA E ALTA COMPLEXIDADE
+
+10.302.0022.2103 ATEND DE MEDIA/ALTA COMPLEXIDADE - SIASIH
+
+3.3.90.39.00 424 Outros Serv. Terceiros - Pessoa Jurídica 70.275,00
+
+Impostos 70.275,00
+
+02.08 SECRETARIA MUNICIPAL DE EDUCACAO - SEMED
+
+02.08.01 ADMINISTRACAO GERAL DA SEMED
+
+12 Educacao
+
+12.361 Ensino Fundamental
+
+12.361.0020 TRANSPORTE ESCOLAR
+
+12.361.0020.2134 MANUTENCAO DO TRANSPORTE ESCOLAR
+
+3.3.90.39.00 470 Outros Serv. Terceiros - Pessoa Jurídica 600,00
+
+Impostos 600,00
+
+02.08.02 EDUCACAO BASICA - 25%
+
+12 Educacao
+
+12.367 Educacao Especial
+
+12.367.0028 DESENVOLVIMENTO DA EDUCAÇÃO ESPECIAL
+
+12.367.0028.2517 MANUTENÇÃO DO CAEDES
+
+3.3.90.39.00 527 Outros Serv. Terceiros - Pessoa Jurídica 100,00
+
+Impostos 100,00
+
+02.09 SECRETARIA MUNICIPAL DE DESENVOLV. RURA
+
+02.09.01 ADMINISTRACAO GERAL DA SEDRU
+
+20 Agricultura
+
+20.122 Administracao Geral
+
+20.122.0027 ADMINISTRACAO GERAL DA SEDRU
+
+20.122.0027.2154 MANUTENCAO DAS ATIVIDADE DA SEDRU
+
+3.3.90.39.00 570 Outros Serv. Terceiros - Pessoa Jurídica 18.583,81
+
+Impostos 18.583,81
+
+02.10 SECRETARIA MUNICIPAL DE MEIO AMBIENTE
+
+02.10.01 ADMINISTRACAO GERAL DA SEMAM
+
+17 Saneamento
+
+17.512 Saneamento Basico Urbano
+
+17.512.0032 MANUTENCAO DA LIMPEZA PUBLICA
+
+17.512.0032.2164 MANUTENCAO DO SERVICO DE LIMPEZA URBANA
+
+3.3.90.30.00 591 Material de Consumo 2.670,00
+
+Impostos 2.670,00
+
+17.512.0032.2540 MANUTENÇÃO DE VEICULOS - SEMAM
+
+3.3.90.30.00 598 Material de Consumo 37.835,26
+
+Impostos 37.835,26
+
+18 Gestao Ambiental
+
+18.122 Administracao Geral
+
+18.122.0031 ADMINISTRACAO GERAL DA SEMAM
+
+18.122.0031.2162 MANUTENCAO DAS ATIVIDADES DA SEMAM
+
+3.3.90.30.00 602 Material de Consumo 7.098,10
+
+Impostos 7.098,10
+
+3.3.90.39.00 603 Outros Serv. Terceiros - Pessoa Jurídica 3.500,00
+
+Impostos 3.500,00
+
+02.11 SECRETARIA MUNIC.DE CULTURA E PATRIMONIO
+
+02.11.03 DIFUSAO CULTURAL
+
+13 Cultura
+
+13.392 Difusao Cultural
+
+13.392.0039 DIFUSAO CULTURAL
+
+13.392.0039.2406 MAN.O DO FUNDO MUNICIPAL DE PATRIMONIO
+
+3.3.90.39.00 649 Outros Serv. Terceiros - Pessoa Jurídica 12.526,72
+
+Impostos 12.526,72
+
+02.15 SECRETARIA MUN. DE MOB.URB. E TRANSPORTE
+
+02.15.01 SECRETARIA MUN. DE MOB.URB. E TRANSPORTE
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0008 TRAFEGO URBANO
+
+04.122.0008.2554 MAN E DESENVOLV. DAS ATIVIDADES DA SEMUT
+
+3.3.90.39.00 750 Outros Serv. Terceiros - Pessoa Jurídica 9.656,84
+
+Impostos 9.656,84
+
+4.4.90.52.00 752 Equipamento e Material Permanente 23.770,22
+
+Impostos 23.770,22
+
+02.02 SECRETARIA MUNICIPAL DE GOVERNO
+
+02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0003 ADMINIST. GERAL DA SECRETARIA DE GOVERNO
+
+04.122.0003.2007 MANUTENCAO DA SEGOV
+
+3.3.90.39.00 894 Outros Serv. Terceiros - Pessoa Jurídica
+
+4.740,00
+
+Impostos 4.740,00
+
+02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI
+
+02.06.01 ADMINISTRACAO GERAL DA SEMASH
+
+08 Assistencia Social
+
+08.122 Administracao Geral
+
+08.122.0010 ADMINISTRACAO GERAL DA SEMASH
+
+08.122.0010.2028 MANUTENCAO DA SEMASH
+
+3.3.20.93.00 909 Indenizações e Restituições 1.639,99
+
+1.660.000.0000 Transf. Recur. Fundo Nac. Assistência 1.639,99
+
+02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED
+
+02.08.02 EDUCACAO BASICA - 25%
+
+12 Educacao
+
+12.365 Educacao Infantil
+
+12.365.0046 PRÉ ESCOLA
+
+12.365.0046.2137 MANUTENCAO DA EDUCACAO INFANTIL
+
+4.4.90.61.00 910 Aquisição de Imóveis 60.000,00
+
+Impostos 60.000,00
+
+TOTAL DOS CRÉDITOS: R$ 326.723,40
+
+**Art. 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4.320/64:
+
+02 PREFEITURA MUNICIPAL
+
+02.02 SECRETARIA MUNICIPAL DE GOVERNO
+
+02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+28 Encargos Especiais
+
+28.846 Outros Encargos Especiais
+
+28.846.0000 OPERACAO ESPECIAL
+
+28.846.0000.0002 CONTRIBUICOES A AMAPI
+
+3.3.50.41.00 114 Contribuições 2.000,00
+
+Impostos 2.000,00
+
+02.04 SECRETARIA MUNICIPAL DE FAZENDA
+
+02.04.01 SECRETARIA MUNICIPAL DE FAZENDA
+
+04 Administracao
+
+04.123 Administracao Financeira
+
+04.123.0005 ADMINIST. GERAL DE RECEITAS E DESPESAS
+
+04.123.0005.2018 MANUTENCAO DAS ATIVIDADES DA SEMFA
+
+4.4.90.52.00 134 Equipamento e Material Permanente 15.169,34
+
+Impostos 15.169,34
+
+02.05 SECRETARIA MUNICIPAL DE OBRAS
+
+02.05.01 SECRETARIA MUNICIPAL DE OBRAS
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0006 ADM. GERAL DA SECRETARIA OBRAS
+
+04.122.0006.1002 AQUISICAO E/OU DESAPROPRIACAO DE IMÓVEL
+
+4.4.90.61.00 147 Aquisição de Imóveis 36.240,08
+
+Impostos 36.240,08
+
+02.06 SECRETARIA MUNIC. ASSIST. SOCIAL E HABI
+
+02.06.02 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+08 Assistência Social
+
+08.245 Serviços Socioassistenciais
+
+08.245.0072 BLOCO DA PROTECAO SOCIAL BASICA
+
+08.245.0072.2380 MANUTENÇÃO DO SCFV
+
+3.3.90.30.00 210 Material de Consumo 1.639,99
+
+1.660.000.0000 Transf. Recur. Fundo Nac. Assistência 1.639,99
+
+08.245.0074 BLOCO DA PROT. SOCIAL ESP. - ALTA COMPL
+
+08.245.0074.2329 MANUTENCAO DO SERVICO AO MIGRANTE
+
+4.4.90.52.00 264 Equipamento e Material Permanente 5.235,04
+
+1.661.000.0000 Transf. Recur. Fundos Estaduais de 5.235,04
+
+02.07 SECRETARIA MUNICIPAL DE SAUDE
+
+02.07.02 FUNDO MUNICIPAL DE SAUDE
+
+10 Saude
+
+10.301 Atencao Basica
+
+10.301.0018 PROG ASSIS AMB E SAÚDE COMUNITÁRIA - AB
+
+10.301.0018.1238 REQUALIFICAÇÃO/AMPLIAÇÃO DE UNIDADES
+
+4.4.90.51.00 312 Obras e Instalações 20.275,00
+
+Impostos 20.275,00
+
+10.301.0062 ASSISTENCIA FARMACEUTICA
+
+10.301.0062.2371 MAN DAS ATIVIDADES DA FARMÁCIA MINAS
+
+4.4.90.52.00 379 Equipamento e Material Permanente 20.000,00
+
+Impostos 20.000,00
+
+10.302 Assist. Hospitalar e Ambulatorial
+
+10.302.0021 ASSIST. AMBUL. MEDIA COMPLEXIDADE - REDE
+
+10.302.0021.2090 MANUTENÇÃO DAS ATIVIDADES DO CAPS
+
+4.4.90.52.00 387 Equipamento e Material Permanente 30.000,00
+
+Impostos 30.000,00
+
+10.305 Vigilancia Epidemiologica
+
+10.305.0024 VIGILANCIA EPIDEMIOLOGICA
+
+10.305.0024.2116 MAN ACOES DE VIGILANCIA EPIDEMIOLOGICA
+
+3.3.90.30.00 452 Material de Consumo 9.129,84
+
+Impostos 9.129,84
+
+3.3.90.39.00 453 Outros Serv. Terceiros - Pessoa Jurídica 19.800,00
+
+Impostos 19.800,00
+
+02.08 SECRETARIA MUNICIPAL DE EDUCACAO-SEMED
+
+02.08.02 EDUCACAO BASICA - 25%
+
+12 Educacao
+
+12.122 Administracao Geral
+
+12.122.0025 ADMINISTRACAO GERAL DA SEMED
+
+12.122.0025.2127 MANUTENCAO DAS ATIVIDADES DA SEMED
+
+3.3.90.47.00 480 Obrigações Tributárias e Contributivas 100,00
+
+Impostos 100,00
+
+4.4.90.52.00 483 Equipamento e Material Permanente 600,00
+
+Impostos 600,00
+
+12.365 Educacao Infantil
+
+12.365.0046 PRÉ ESCOLA
+
+12.365.0046.2137 MANUTENCAO DA EDUCACAO INFANTIL
+
+4.4.90.52.00 509 Equipamento e Material Permanente 35.000,00
+
+Impostos 35.000,00
+
+12.365.0049 CRECHE
+
+12.365.0049.2538 MANUTENCAO EDUCACAO INFANTIL - CRECHE
+
+4.4.90.52.00 519 Equipamento e Material Permanente 25.000,00
+
+Impostos 25.000,00
+
+02.09 SECRETARIA MUNICIPAL DE DESENVOLV. RURA
+
+02.09.01 ADMINISTRACAO GERAL DA SEDRU
+
+20 Agricultura
+
+20.122 Administracao Geral
+
+20.122.0027 ADMINISTRACAO GERAL DA SEDRU
+
+20.122.0027.2154 MANUTENCAO DAS ATIVIDADE DA SEDRU
+
+4.4.90.52.00 572 Equipamento e Material Permanente 18.583,81
+
+Impostos 18.583,81
+
+02.10 SECRETARIA MUNICIPAL DE MEIO AMBIENTE
+
+02.10.01 ADMINISTRACAO GERAL DA SEMAM
+
+18 Gestao Ambiental
+
+18.541 Preservacao e Conservacao Ambiental
+
+18.541.0034 GESTAO, CONSERVACAO E PRESERV. AMBIENTAL
+
+18.541.0034.1222 REFORMA E REVITALIZAÇÃO PRAÇAS E OUTROS
+
+3.3.90.30.00 619 Material de Consumo 25.000,00
+
+Impostos 25.000,00
+
+18.542 Controle Ambiental
+
+18.542.0034 GESTAO, CONSERVACAO E PRESERV. AMBIENTAL
+
+18.542.0034.2520 BEM-ESTAR ANIMAL
+
+3.3.90.39.00 622 Outros Serv. Terceiros - Pessoa Jurídica 16.335,26
+
+1.500.000.0000 Recursos não vinculados de Impostos 16.335,26
+
+02.10.02 FUNDO MUNICIPAL DE MEIO AMBIENTE
+
+18 Gestao Ambiental
+
+18.541 Preservacao e Conservacao Ambiental
+
+18.541.0035 ADMINIST. GERAL DO FUNDO MUNIC.MEIO AMB.
+
+18.541.0035.2168 MANUTENCAO DAS ATIVIDADES DO FMMA
+
+4.4.90.52.00 628 Equipamento e Material Permanente 9.768,10
+
+Impostos 9.768,10
+
+02.11 SECRETARIA MUNIC.DE CULTURA E PATRIMONIO
+
+02.11.03 DIFUSAO CULTURAL
+
+13 Cultura
+
+13.392 Difusao Cultural
+
+13.392.0039 DIFUSAO CULTURAL
+
+13.392.0039.2406 MAN.O DO FUNDO MUNICIPAL DE PATRIMONIO
+
+4.4.90.52.00 652 Equipamento e Material Permanente 13.076,72
+
+Impostos 13.076,72
+
+02.15 SECRETARIA MUN. DE MOB.URB. E TRANSPORTE
+
+02.15.01 SECRETARIA MUN. DE MOB.URB. E TRANSPORTE
+
+04 Administracao
+
+04.122 Administracao Geral
+
+04.122.0008 TRAFEGO URBANO
+
+04.122.0008.2554 MAN E DESENVOLV. DAS ATIVIDADES DA SEMUT
+
+3.3.90.30.00 749 Material de Consumo 23.770,22
+
+Impostos 23.770,22
+
+TOTAL: R$ 326.723,40
+
+**Art. 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação.
+
+PONTE NOVA - MG, 4 DE MAIO DE 2026
+
+MILTON TEODORO IRIAS JUNIOR
+
+PREFEITO MUNICIPAL
+
+CONSOLAÇÃO DE FREITAS SILVA PAULA
+
+SECRETARIA MUN.DE PLANEJAMENTO E GESTÃO

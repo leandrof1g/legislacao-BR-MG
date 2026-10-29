@@ -1,0 +1,56 @@
+---
+titulo: "Decreto Municipal nº 14014, de 20/03/2025"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "14014"
+data: "2025-03-20"
+ementa: "Abre Crédito Adicional Especial."
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/8584"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2025/8584/dec_14.014.2025.pdf"
+sha256_fonte: "7bcdf4f0722fc661339f741faace7d35e7597871446d9b1b0e6c362ec86c4b9b"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Municipal nº 14014, de 20/03/2025
+
+DECRETO No: 14.014, DE 20/03/2025 ABRE CREDITO ADICIONAL ESPECIAL O PREFEITO MUNICIPAL de PONTE NOVA, no uso de suas atribuições legais, nos termos da Lei No 4320/64 e, Lei Municipal Nº 4827 / 2025 CONSIDERANDO: O que estabelece o artigo 1º da Lei Municipal 4827/2025, fica autorizada a abertura de Crédito Adicional Especial, no orçamento vigente no valor de R$ 13.341.500,00. DECRETA: Artigo 1º - Ficam abertos creditos Adicionais ESPECIAIS para suprir as seguintes dotações do orçamento vigente: 02 EXECUTIVO MUNICIPAL 02.12 SECRET. MUNIC. DE DESENV.ECON. URBANISMO 02.12.01 SECRET. MUNIC. DE DESENV.ECON. URBANISMO 06 Seguranca Publica 06.695 Turismo 06.695.0041 DESENVOLVIMENTO DO TURISMO 06.695.0041.2405 MANUTENÇÃO DO FUNDO MUNICIPAL DE TURISMO 3.3.90.30.00 878 Material de Consumo 12.500,00 1.500.000.0000 Recursos não vinculados de Impostos 12.500,00 3.3.90.39.00 879 Outros Serv. Terceiros - Pessoa Jurídica 160.000,00 1.500.000.0000 Recursos não vinculados de Impostos 160.000,00 02.02 SECRETARIA MUNICIPAL DE GOVERNO 02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+04.122.0003 ADMINIST. GERAL DA SECRETARIA DE GOVERNO 04.122.0003.2513 PUBLICIDADE INSTITUCIONAL 3.3.90.39.00 880 Outros Serv. Terceiros - Pessoa Jurídica 316.673,42 1.500.000.0000 Recursos não vinculados de Impostos 316.673,42 04.122.0003.2514 PAGAMENTO PESSOAL DEPARTAMENTO IMPRENSA 3.1.90.11.00 881 Vencimentos e Vant. Fixas- Pessoal Civil 131.009,59 1.500.000.0000 Recursos não vinculados de Impostos 131.009,59 3.1.90.13.00 882 Obrigações Patronais 15.593,00 1.500.000.0000 Recursos não vinculados de Impostos 15.593,00 02.14 SECRETARIA MUNICIPAL DE PLANEJ. E GESTÃO 02.14.01 SECRETARIA MUNICIPAL DE PLANEJ. E GESTAO
+
+04.121 Planejamento e Orcamento 04.121.0043 PLANEJAMENTO E SUPERVISÃO DO ORÇAMENTO 04.121.0043.2552 PAGAMENTO DE PESSOAL E ENCARGOS SEPLAG 3.1.90.11.00 888 Vencimentos e Vant. Fixas- Pessoal Civil 619.000,00 1.500.000.0000 Recursos não vinculados de Impostos 619.000,00 3.1.90.13.00 889 Obrigações Patronais 10.368,74 1.500.000.0000 Recursos não vinculados de Impostos 10.368,74 02.15 SECRETARIA MUN. DE MOB.URB. E TRANSPORTE 02.15.01 SECRETARIA MUN. DE MOB.URB. E TRANSPORTE 06 Seguranca Publica 06.122 Administracao Geral 06.122.0008 TRAFEGO URBANO 06.122.0008.2011 MANUTENCAO DO DEPARTAMENTO MUNICIPAL DE 3.3.90.14.00 890 Diárias - Pessoal Civil 5.000,00 1.752.000.0000 Recursos Vinculados ao Trânsito 5.000,00 3.3.90.30.00 891 Material de Consumo 100.000,00 1.752.000.0000 Recursos Vinculados ao Trânsito 100.000,00 3.3.90.36.00 892 Outros Serviços Terceiros- Pessoa Física 19.509,20 1.752.000.0000 Recursos Vinculados ao Trânsito 19.509,20 3.3.90.39.00 893 Outros Serv. Terceiros - Pessoa Jurídica 1.167.497,59 1.752.000.0000 Recursos Vinculados ao Trânsito 1.167.497,59 3.3.90.47.00 894 Obrigações Tributárias e Contributivas 4.401,84 1.752.000.0000 Recursos Vinculados ao Trânsito 4.401,84 3.3.90.93.00 895 Indenizações e Restituições 2.000,00 1.752.000.0000 Recursos Vinculados ao Trânsito 2.000,00 3.3.91.39.00 896 Outros Serv. Terceiros -Pessoa Jurídica 819,43 1.752.000.0000 Recursos Vinculados ao Trânsito 819,43 Página 1 de 4
+
+4.4.90.52.00 897 Equipamento e Material Permanente 267.835,12 1.752.000.0000 Recursos Vinculados ao Trânsito 267.835,12 06.122.0008.2012 PAGAMENTO DE PESSOAL E ENCARGOS - DEMUT 3.1.90.11.00 898 Vencimentos e Vant. Fixas- Pessoal Civil 654.687,26 1.500.000.0000 Recursos não vinculados de Impostos 654.687,26 3.1.90.13.00 899 Obrigações Patronais 172.708,00 1.500.000.0000 Recursos não vinculados de Impostos 172.708,00 3.1.90.16.00 900 Outras Despesas Variáveis -Pessoal Civil 32.690,57 1.500.000.0000 Recursos não vinculados de Impostos 32.690,57 3.3.90.08.00 901 Outros Benefícios Assistenciais 10.250,49 1.500.000.0000 Recursos não vinculados de Impostos 10.250,49 06.846 Outros Encargos Especiais 06.846.0000 OPERAÇÃO ESPECIAL 06.846.0000.2486 CONVENIO POLICIA MILITAR DE MINAS GERAI 3.3.30.41.00 902 Contribuições 60.000,00 1.752.000.0000 Recursos Vinculados ao Trânsito 60.000,00
+
+04.122.0008 TRAFEGO URBANO 04.122.0008.2442 CONCESSÃO SUBSIDIO TRANSPORTE PÚBLICO 3.3.90.39.00 903 Outros Serv. Terceiros - Pessoa Jurídica 4.204.262,61 1.500.000.0000 Recursos não vinculados de Impostos 3.204.262,61 1.501.000.0000 Outros Recursos não Vinculados 1.000.000,00 04.122.0008.2553 PAGAMENTO DE PESSOAL E ENCARGOS SEMUT 3.1.90.11.00 906 Vencimentos e Vant. Fixas- Pessoal Civil 188.000,00 1.500.000.0000 Recursos não vinculados de Impostos 188.000,00 3.1.90.13.00 907 Obrigações Patronais 27.000,00 1.500.000.0000 Recursos não vinculados de Impostos 27.000,00 3.1.90.16.00 908 Outras Despesas Variáveis -Pessoal Civil 1.000,00 1.500.000.0000 Recursos não vinculados de Impostos 1.000,00 3.3.90.08.00 909 Outros Benefícios Assistenciais 2.600,00 1.500.000.0000 Recursos não vinculados de Impostos 2.600,00 TOTAL DOS CRÉDITOS: R$ 8.189.181,47
+
+**Artigo 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4320/64: 02 EXECUTIVO MUNICIPAL 02.02 SECRETARIA MUNICIPAL DE GOVERNO 02.02.01 SECRETARIA MUNICIPAL DE GOVERNO
+
+04.122.0003 ADMINIST. GERAL DA SECRETARIA DE GOVERN 04.122.0003.2008 PAGAMENTO DE PESSOAL E ENCARGOS - SEGOV 3.1.90.04.00 078 Contratação por Tempo Determinado 10.368,74 1.500.000.0000 Recursos não vinculados de Impostos 10.368,74 3.1.90.11.00 079 Vencimentos e Vant. Fixas- Pessoal Civil 87.999,56 1.500.000.0000 Recursos não vinculados de Impostos 87.999,56 3.1.90.13.00 080 Obrigações Patronais 39.000,00 1.500.000.0000 Recursos não vinculados de Impostos 39.000,00 04.122.0003.2442 CONCESSÃO SUBSIDIO TRANSPORTE PÚBLICO 3.3.90.39.00 089 Outros Serv. Terceiros - Pessoa Jurídica 4.204.262,61 1.500.000.0000 Recursos não vinculados de Impostos 3.204.262,61 1.501.000.0000 Outros Recursos não Vinculados 1.000.000,00 02.05 SECRETARIA MUNICIPAL DE OBRAS 02.05.01 SECRETARIA MUNICIPAL DE OBRAS
+
+04.122.0006 ADM. GERAL DA SECRETARIA 04.122.0006.2384 PAGAMENTO DE PESSOAL E ENCARGOS DA RODO 3.1.90.11.00 158 Vencimentos e Vant. Fixas- Pessoal Civil 162.354,06 1.500.000.0000 Recursos não vinculados de Impostos 162.354,06 3.1.90.13.00 159 Obrigações Patronais 22.848,42 1.500.000.0000 Recursos não vinculados de Impostos 22.848,42 3.1.90.16.00 160 Outras Despesas Variáveis -Pessoal Civil 1.000,00 1.500.000.0000 Recursos não vinculados de Impostos 1.000,00 3.3.90.08.00 161 Outros Benefícios Assistenciais 2.197,96
+
+Página 2 de 4
+
+1.500.000.0000 Recursos não vinculados de Impostos 2.197,96 06 Seguranca Publica 06.122 Administracao Geral 06.122.0008 TRAFEGO URBANO 06.122.0008.2011 MANUTENCAO DO DEPARTAMENTO MUNICIPAL DE 3.3.90.14.00 163 Diárias - Pessoal Civil 5.000,00 1.752.000.0000 Recursos Vinculados ao Trânsito 5.000,00 3.3.90.30.00 164 Material de Consumo 100.000,00 1.752.000.0000 Recursos Vinculados ao Trânsito 100.000,00 3.3.90.36.00 165 Outros Serviços Terceiros- Pessoa Física 19.509,20 1.752.000.0000 Recursos Vinculados ao Trânsito 19.509,20 3.3.90.39.00 166 Outros Serv. Terceiros - Pessoa Jurídica 1.167.497,59 1.752.000.0000 Recursos Vinculados ao Trânsito 1.167.497,59 3.3.90.47.00 167 Obrigações Tributárias e Contributivas 4.401,84 1.752.000.0000 Recursos Vinculados ao Trânsito 4.401,84 3.3.90.93.00 168 Indenizações e Restituições 2.000,00 1.752.000.0000 Recursos Vinculados ao Trânsito 2.000,00 3.3.91.39.00 169 Outros Serv. Terceiros -Pessoa Jurídica 819,43 1.752.000.0000 Recursos Vinculados ao Trânsito 819,43 4.4.90.52.00 170 Equipamento e Material Permanente 267.835,12 1.752.000.0000 Recursos Vinculados ao Trânsito 267.835,12 06.122.0008.2012 PAGAMENTO DE PESSOAL E ENCARGOS - DEMUTRAN 3.1.90.11.00 171 Vencimentos e Vant. Fixas- Pessoal Civil 654.687,26 1.500.000.0000 Recursos não vinculados de Impostos 654.687,26 3.1.90.13.00 172 Obrigações Patronais 172.708,00 1.500.000.0000 Recursos não vinculados de Impostos 172.708,00 3.1.90.16.00 173 Outras Despesas Variáveis -Pessoal Civil 32.690,57 1.500.000.0000 Recursos não vinculados de Impostos 32.690,57 3.3.90.08.00 174 Outros Benefícios Assistenciais 10.250,49 1.500.000.0000 Recursos não vinculados de Impostos 10.250,49 06.846 Outros Encargos Especiais 06.846.0000 OPERAÇÃO ESPECIAL 06.846.0000.2486 CONVENIO POLICIA MILITAR DE MINAS GERAIS 3.3.30.41.00 175 Contribuições 60.000,00 1.752.000.0000 Recursos Vinculados ao Trânsito 60.000,00 15 Urbanismo 15.451 Infra-estrutura Urbana 15.451.0007 MANUTENÇÃO VIAS URBANAS, ÁREAS PUBLICAS 15.451.0007.2544 OBRAS PUBLICAS 4.4.90.51.00 186 Obras e Instalações 200.000,00 1.500.000.0000 Recursos não vinculados de Impostos 200.000,00 02.11 SECRETARIA MUNIC.DE CULTURA E PATRIMONIO 02.11.01 ADMINISTRACAO GERAL DA SEMCT
+
+04.122.0037 ADMINISTRACAO GERAL DA SEMCT 04.122.0037.2513 PUBLICIDADE INSTITUCIONAL 3.3.90.39.00 686 Outros Serv. Terceiros - Pessoa Jurídica 316.673,42 1.500.000.0000 Recursos não vinculados de Impostos 316.673,42 04.122.0037.2514 PAGAMENTO PESSOAL DEPARTAMENTO IMPRENSA 3.1.90.11.00 687 Vencimentos e Vant. Fixas- Pessoal Civil 131.009,59 1.500.000.0000 Recursos não vinculados de Impostos 131.009,59 3.1.90.13.00 688 Obrigações Patronais 15.593,00 1.500.000.0000 Recursos não vinculados de Impostos 15.593,00 02.11.05 DESENVOLVIMENTO DO TURISMO 13 Cultura 13.695 Turismo 13.695.0041 DESENVOLVIMENTO DO TURISMO 13.695.0041.2405 MANUTENÇÃO DO FUNDO MUNICIPAL DE TURISMO 3.3.90.30.00 714 Material de Consumo 12.500,00 1.500.000.0000 Recursos não vinculados de Impostos 12.500,00 3.3.90.39.00 715 Outros Serv. Terceiros - Pessoa Jurídica 160.000,00 1.500.000.0000 Recursos não vinculados de Impostos 160.000,00 02.12 SECRET. MUNIC. DE DESENV.ECON. URBANISMO 02.12.01 SECRET. MUNIC. DE DESENV.ECON. URBANISMO
+
+Página 3 de 4
+
+04.122.0043 PLANEJAMENTO E SUPERVISÃO DO ORÇAMENTO 04.122.0043.2185 PAGAMENTO DE PESSOAL E ENCARDOS SEDEURB 3.1.90.04.00 733 Contratação por Tempo Determinado 85.000,00 1.500.000.0000 Recursos não vinculados de Impostos 85.000,00 3.1.90.11.00 734 Vencimentos e Vant. Fixas- Pessoal Civil 181.000,00 1.500.000.0000 Recursos não vinculados de Impostos 181.000,00 3.1.90.13.00 735 Obrigações Patronais 56.200,00 1.500.000.0000 Recursos não vinculados de Impostos 56.200,00 TOTAL: R$ 8.185.406,86
+
+**Artigo 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação.
+
+PONTE NOVA, 20 DE MARÇO DE 2025
+
+MILTON TEODORO IRIAS JUNIOR CPF: 071.610.087-86 PREFEITO MUNICIPAL
+
+JOSÉ ROBERTO LOURENÇO JUNIOR CPF: 075.520.536.74 SECRETARIO MUN.DE PLANEJAMENTO E GESTÃO
+
+DIARIO OFICIAL DA ASSOCIAÇÃO MINEIRA DOS MUNICIPIOS – AMM
+
+Página 4 de 4

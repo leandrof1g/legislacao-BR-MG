@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 1667, de 20/05/1996"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1667"
+data: "1996-05-20"
+ementa: "Declara de Utilidade Pública, a Associação Comunitária de Lagoa Bonita."
+municipio: "Januária"
+uf: "MG"
+codigo_ibge: "3135209"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.januaria.mg.leg.br/norma/2482"
+fonte_texto: "https://sapl.januaria.mg.leg.br/media/sapl/public/normajuridica/1996/2482/lei_n_1667.pdf"
+sha256_fonte: "6c31a1133906a821304388d9ae23df482f0b766f4c4e4ac028390842171f6c60"
+baixado_em: "2026-10-29"
+---
+
+# Lei Ordinária nº 1667, de 20/05/1996
+
+LEI N. 1.667, DE 20 DE MAIO DE 1996
+
+DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO COMUNITÁRIA DE LAGOA BONITA
+
+O Povo do Município de Januária, por seus Representantes na Câmara Municipal, aprovaram, e Eu, Prefeito Municipal, sanciono a seguinte Lei :
+
+ARTIGO 1. - Fica declarada de Utilidade Pública, no âmbito Municipal, a “ASSOCIAÇÃO COMUNITÁRIA DE LAGOA BONITA”, com sede e administração na localidade de Lagoa Bonita, distrito de Cônego Marinho, município de Januária-MG.
+
+ARTIGO 2. - A documentação exigida e necessária para o reconhecimento de Utilidade Pública da Associação referida no Artigo 1. Desta Lei, encontra-se arquivada na Câmara Municipal de Januária.
+
+ARTIGO 3. - Revogam-se as disposições em contrário.
+
+ARTIGO 4. - Esta Lei entrará em vigor na data de sua publicação.
+
+PREFEITURA MUNICIPAL DE JANUÁRIA, em 20 de março de 1996
+
+JOÃO FERREIRA LIMA GERALDO MOURA LUZ Prefeito Municipal Sec. de Administração

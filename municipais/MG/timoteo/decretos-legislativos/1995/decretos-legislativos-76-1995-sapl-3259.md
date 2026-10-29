@@ -1,0 +1,192 @@
+---
+titulo: "Decreto Legislativo nº 76, de 22/02/1995"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "76"
+data: "1995-02-22"
+ementa: "REAJUSTA OS VENCIMENTOS DOS SERVIDORES DA CÂMARA MUNICIPAL DE TIMÓTEO E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Timóteo"
+uf: "MG"
+codigo_ibge: "3168705"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.timoteo.mg.leg.br/norma/3259"
+fonte_texto: "https://sapl.timoteo.mg.leg.br/media/sapl/public/normajuridica/1995/3259/3259_texto_integral.doc"
+sha256_fonte: "923554a677c1826f21edec6835ee07660bd20610961dd4f13a823e592af15a9f"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Legislativo nº 76, de 22/02/1995
+
+DECRETO LEGISLATIVO Nº 076, DE 22/02/95
+
+Reajusta os vencimentos e proventos dos servidores da Câmara Municipal de Timóteo e dá outras providências.
+
+A CÂMARA MUNICIPAL DE TIMÓTEO aprovou e eu promulgo o seguinte:
+
+DECRETO LEGISLATIVO:
+
+**Art. 1º** - A contar de 1º de novembro de 1994, os vencimentos e proventos dos servidores da Câmara Municipal de Timóteo, serão acrescidos do percentual de 10% (dez por cento) sobre os vencimentos de outubro de 1994, conforme tabela anexa, que fica fazendo parte integrante deste Decreto Legislativo.
+
+**Art. 2º** - Os valores de salário/hora resultantes da aplicação do disposto neste Decreto Legislativo, serão arredondados para cima se o milésimo da unidade monetária for igual ou superior a 5 (cinco) e para baixo se for inferior a 5 (cinco).
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+**Art. 4º** - Este Decreto Legislativo entrará em vigor na data de sua publicação, retroagindo seus efeitos a 1º de janeiro de 1995.
+
+Timóteo, 22 de fevereiro de 1995
+
+João Barroso
+
+Presidente
+
+Gentil Lima
+
+1º Secretário
+
+|CÂMARA MUNICIPAL DE TIMÓTEO |
+
+|TABELA DE VENCIMENTOS – DEZEMBRO/1994 |
+
+|G.H |1 |2 |3 |4 |5 |6 |7 |
+
+|I |0,51481 |0,53540 |0,55682 |0,57909 |0,60225 |0,62634 |0,65139 |
+
+| |113,25 |117,78 |122,50 |127,39 |132,49 |137,79 |143,30 |
+
+|II |0,60902 |0,63338 |0,65872 |0,68507 |0,71247 |0,74,097 |0,77061 |
+
+| |133,98 |139,34 |144,91 |150,71 |156,74 |163,01 |169,53 |
+
+|III |0,72047 |0,74929 |0,77926 |0,81043 |0,84285 |0,87656 |0,91162 |
+
+| |158,50 |164,84 |171,43 |178,29 |185,42 |192,84 |200,55 |
+
+|IV |0,85232 |0,88641 |0,92187 |0,95874 |0,99709 |1,03697 |1,07045 |
+
+| |187,51 |195,01 |202,81 |210,92 |219,35 |228,13 |237,25 |
+
+|V |1,00829 |1,04862 |1,09056 |1,13418 |1,17955 |1,22673 |1,27500 |
+
+| |221,82 |230,69 |239,92 |249,51 |259,50 |269,88 |280,67 |
+
+|VI |1,19281 |1.24052 |1,29014 |1,3475 |1,39542 |1,45124 |1,50929 |
+
+| |262,41 |272,91 |283,83 |295,18 |306,99 |319,27 |332,04 |
+
+|VII |1,41109 |1,46753 |1,52623 |1,58728 |1,65077 |1,71680 |1,78547 |
+
+| |310,43 |322,85 |335,77 |349,20 |363,16 |377,69 |392,80 |
+
+|VIII |1,66932 |1,73609 |1,80553 |1,07775 |1,95236 |2,03097 |2,11221 |
+
+| |367,25 |381,93 |397,21 |413,10 |429,62 |446,81 |464,68 |
+
+|IX |1,97481 |2,05380 |2,13595 |2,22139 |2,31025 |2,40266 |2,49377 |
+
+| |434,45 |451,83 |469,90 |488,70 |508,25 |528,58 |549,72 |
+
+|X |2,33620 |2,42965 |2,52684 |2,62791 |2,73303 |2,84235 |2,65604 |
+
+| |513,96 |534,52 |555,90 |578,14 |601,26 |625,31 |650,32 |
+
+|XI |2,76372 |2,87427 |2,98924 |3,10881 |3,23316 |3,36249 |3,49677 |
+
+| |608,01 |632,33 |657,63 |683,93 |711,29 |739,74 |769,33 |
+
+|XII |3,26948 |3,40026 |3,53627 |3,67772 |3,82403 |3,97782 |4,13693 |
+
+| |719,28 |748,05 |777,97 |809,09 |841,46 |875,12 |910,12 |
+
+|XIII |3,86779 |4,02250 |4,18340 |4,35074 |4,52477 |4,70576 |4,89399 |
+
+| |850,91 |884,95 |920,34 |957,16 |995,44 |1.035,26 |1.076,67 |
+
+|G.H |8 |9 |10 |11 |12 |13 |14 |15 |
+
+|I |0,67745 |0,70455 |0,73273 |0,76204 |0,79252 |0,82422 |0,85719 |0,89148 |
+
+| |149,03 |155,00 |161,20 |167,64 |174,35 |181,32 |188,58 |196,12 |
+
+|II |0,00143 |0,03347 |0,86603 |0,90150 |0,93756 |0,97506 |1,01406 |1,05462 |
+
+| |176,31 |183,36 |190,70 |198,33 |206,26 |214,51 |223,09 |232,01 |
+
+|III |0,94808 |0,98600 |1,02544 |1,06646 |1,06646 |1,15348 |1,19962 |1,24760 |
+
+| |208,57 |216,92 |225,59 |234,62 |244,00 |253,76 |263,91 |274,47 |
+
+|IV |1,12157 |1,16645 |1,21311 |1,26163 |1,31210 |1,36458 |1,41916 |1,47593 |
+
+| |246,74 |256,61 |266,88 |277,55 |288,66 |300,20 |312,21 |324,70 |
+
+|V |1,32683 |1,37990 |1,43510 |1,49250 |1,55220 |1,61427 |1,67086 |1,74601 |
+
+| |291,90 |303,57 |315,72 |328,38 |341,48 |355,14 |369,34 |384,12 |
+
+|VI |1,56966 |1,63245 |1,69775 |1,76566 |1,83627 |1,90974 |1,98613 |2,06558 |
+
+| |345,32 |359,13 |373,50 |388,44 |403,98 |420,14 |436,94 |454,42 |
+
+|VII |1,85687 |1,93117 |2,00342 |2,08876 |2,17231 |2,25920 |2,34957 |2,44355 |
+
+| |408,51 |424,85 |441,85 |459,52 |477,90 |497,02 |516,90 |537,58 |
+
+|VIII |2,19670 |2,228457 |2,37595 |2,47099 |2,56983 |2,67262 |2,77952 |2,89070 |
+
+| |483,27 |502,60 |522,70 |543,61 |565,36 |587,97 |611,49 |635,95 |
+
+|IX |2,59872 |2,70267 |2,81078 |2,92321 |3,04014 |3,16175 |3,28822 |3,41975 |
+
+| |571,71 |594,58 |618,37 |643,10 |668,83 |695,58 |723,40 |752,34 |
+
+|X |3,07428 |3,19725 |3,32514 |3,45815 |3,59648 |3,74034 |3,88995 |4,04555 |
+
+| |676,34 |703,39 |731,53 |760,79 |791,22 |822,87 |855,78 |890,02 |
+
+|XI |3,63687 |3,78231 |3,93363 |4,09098 |4,25462 |4,42480 |4,60179 |4,78586 |
+
+| |800,11 |832,11 |865,39 |900,01 |936,01 |973,45 |1.012,39 |1.052,88 |
+
+|XII |4,30241 |4,47451 |4,65349 |4,83963 |5,03322 |5,23455 |5,44393 |5,66169 |
+
+| |946,53 |948,39 |1.023,76 |1.064,71 |1.107,71 |1.151,60 |1.197,66 |1.245,57 |
+
+|XIII |5,08975 |5,29334 |5,50507 |5,72527 |5,95428 |6,19245 |6,44015 |6,69776 |
+
+| |1.119,74 |1.164,53 |1.211,11 |1.259,55 |1.309,94 |1.362,33 |1.416,83 |1.473,50 |
+
+|VENCIMENTO DOS CARGOS DE PROVIMENTO EM COMISSÃO |
+
+|NÍVEL DE |CLASSE |VENCIMENTOS |SALÁRIO |
+
+|ESTRUTURA | | |HORA |
+
+|PRIMEIRO |CHEFE DA SECRETARIA TÉCNICA |1.473,50 |6,69776 |
+
+| |CHEFE DA SECRETARIA ADMINISTRATIVA |1.473,50 |6,69776 |
+
+| |CHEFE DO GABINETE |1.473,50 |6,69776 |
+
+| |PROCURADOR GERAL |1.473,50 |6,69776 |
+
+|SEGUNDO |ASSESSOR TÉCNICO |1.119,74 |5,08975 |
+
+| |CHEFE DO CENTRO DE PROCESSAMENTO DE DADOS |1.119,74 |5,08975 |
+
+| |CHEFE DA DIVISÃO DE AÇÃO SOCIAL |1.119,74 |5,08975 |
+
+| |CHEFE DA DIVISÃO DE TESOURARIA E CONTABILIDADE |1.119,74 |5,08975 |
+
+|TERCEIRO |ASSESSOR DE GABINETE |731,57 |3,32514 |
+
+| |ASSESSOR JURÍDICO |731,57 |3,32514 |
+
+| |ASSESSOR DE COMUNICAÇÃO SOCIAL |731,57 |3,32514 |
+
+|QUARTO |CHEFE DA SEÇÃO DE PROT., COM. INT., ARQUIVO |434,45 |1,97481 |
+
+| |MOTORISTA DO GABINETE |434,45 |1,97481 |
+
+|QUINTO |ASSESSOR PARLAMENTAR DO GABINETE |262,41 |1,19281 |
+
+|SEXTO |RECEPCIONISTA |221,82 |1,00829 |

@@ -1,0 +1,22 @@
+---
+titulo: "Lei Municipal nº 3421, de 09/10/2014"
+tipo: "Lei Municipal"
+tipo_na_fonte: "Lei Municipal"
+numero: "3421"
+data: "2014-10-09"
+ementa: "AUTORIZA O PODER EXECUTIVO MUNICIPAL A PROMOVER REPASSE DE RECURSOS FINANCEIROS À ASSOCIAÇÃO DOS PROFESSORES DE EDUCAÇÃO FÍSICA DE MANHUAÇU, NA FORMA DE COTA PATROCÍNIO E APOIO CULTURAL E ESPORTIVO, PARA PROMOVER A PARTICIPAÇÃO DE ATLETAS DE MANHUÇAU NA ETAPA ESTADUAL DOS JOGOS DE MINAS 2014 E DÁ OUTRAS PROVIDÊNCIAS,"
+municipio: "Manhuaçu"
+uf: "MG"
+codigo_ibge: "3139409"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhuacu.mg.leg.br/norma/1604"
+fonte_texto: "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2014/1604/1604_texto_integral.doc"
+sha256_fonte: "9a374fbd8fac70a9d6d4326c24998102505d7d84bfe1ae875b6373782afe61a3"
+baixado_em: "2026-10-29"
+---
+
+# Lei Municipal nº 3421, de 09/10/2014
+
+LEI Nº 3.421, DE 09 DE OUTUBRO DE 2014. “Autoriza o Poder Executivo Municipal a promover repasse de recursos financeiros à Associação dos Professores de Educação Física de Manhuaçu, na forma de cota patrocínio e apoio cultural e esportivo, para promover a participação de atletas de Manhuçau na Etapa Estadual dos Jogos de Minas 2014 e dá outras providências”. O povo do Município de Manhuaçu, Estado de Minas Gerais, por intermédio dos seus representantes na Câmara de Vereadores, aprovou, e eu, NAILTON COTRIM HERINGER, Prefeito Municipal, em seu nome, sanciono a seguinte Lei: Art. 1º. Fica o Chefe do Poder Executivo Municipal, autorizado a repassar o valor de R$ 7.500,00 (sete mil e quinhentos reais), como cota patrocínio e apoio cultural e esportivo, para a Associação dos Professores de Educação Física de Manhuaçu e Região - APEF, sociedade civil de direito privado, inscrita no CNPJ sob o nº 12.346.868/0001-27, com endereço na Rua Teócrito Pinheiro, nº 249, Bairro Bom Pastor, Manhuaçu/MG, CEP 36.900-900, para subsidiar a participação de atletas de Manhuaçu na Etapa Estadual dos Jogos de Minas de 2014, que ocorrerá no período de 7 a 12 de outubro de 2014, no município de Varginha em Minas Gerais. §1º. O repasse da cota patrocínio e apoio cultural e esportivo será realizado em parcela única e diretamente à Associação dos Professores de Educação Física de Manhuaçu e Região, a quem caberá apresentar, sob as penas da lei, a respectiva prestação de contas ao Poder Executivo Municipal, através de documentos hábeis e contabilmente aceitos pela legislação vigente, no prazo de 30 (trinta) dias, contados da realização do evento previsto no caput do art. 1º, desta Lei, tendo este, o prazo de 15 (quinze) dias para encaminhar ao Poder Legislativo Municipal a homologação ou não da referida prestação de contas. §2º. Fica o Poder Executivo obrigado a encaminhar à Câmara Municipal, sob as penas da lei, no prazo de 10 (dez) dias a contar da publicação da presente lei, certidão homologada dando conta da regularidade da prestação de contas dos recursos recebidos anteriormente pela instituição descrita no caput deste artigo. Art. 2º. Os atletas e comissão técnica que irão compor a delegação do Município de Manhuaçu deverão constar do Quadro de Atletas e Comissão Técnica constante no Anexo I desta Lei, o qual deverá ser entregue juntamente com prestação de contas e assinado pelo presidente da Associação dos Professores de Educação Física de Manhuaçu e Região e Secretário de Esportes. Art. 3º. Deverá ser preenchido pelo representante da Associação dos Professores de Educação Física de Manhuaçu e Região presente em Varginha/MG e fiscalizado pelo Secretário Municipal de Esportes as informações constantes no Anexo II desta Lei e pertinentes às refeições, o qual servirá de informação à quantidade de refeições realizadas. Art. 4°. A Associação dos Professores de Educação Física de Manhuaçu e Região deverá prestar contas ao Município de Manhuaçu no prazo máximo de 30 (trinta) dias, contados do término da Etapa da Regional - Vale do Aço e Zona da Mata dos Jogos de Minas 2014. Art. 5º. As despesas decorrentes da execução desta lei serão suportadas pelas dotações orçamentárias vigentes, ficando o Poder Executivo, caso necessário, autorizado a proceder à suplementação orçamentária e abertura de créditos especiais até o limite específico para a execução da presente Lei. Art. 6º. Esta Lei entra em vigor na data de sua publicação. Manhuaçu (MG), 09 de Outubro de 2014.
+
+Nailton Cotrim Heringer Prefeito Municipal

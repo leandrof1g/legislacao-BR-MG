@@ -1,0 +1,180 @@
+---
+titulo: "Decreto Municipal nº 13806, de 20/12/2024"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "13806"
+data: "2024-12-20"
+ementa: "Dispõe sobre o cancelamento de restos a pagar do Departamento Municipal de Água, Esgoto e Saneamento-DMAES e dá outras providências."
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/8359"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2024/8359/dec_13.806.2024.pdf"
+sha256_fonte: "1cb9707d936ba2fcf74e11d87895fd8488f1702c79e2f65b939116f710dcc128"
+baixado_em: "2026-10-29"
+---
+
+# Decreto Municipal nº 13806, de 20/12/2024
+
+DECRETO Nº 13.806, DE 20/12/2024 Dispõe sobre o cancelamento de restos a pagar do Departamento Municipal de Água, Esgoto e Saneamento-DMAES e dá outras providências.
+
+O Prefeito Municipal de Ponte Nova- MG, no uso de suas atribuições legais e considerando o que disciplina a Lei Federal nº 4.320, de 17 de março de 1964 e
+
+Decreto Municipal nº 4.730, de 29 de dezembro de 2003,
+
+Considerando a necessidade de manter o equilíbrio das contas públicas através de ações planejadas e transparentes,
+
+Considerando a necessidade de regular o cancelamento do saldo de Restos a Pagar não processados,
+
+DECRETA:
+
+**Art. 1º** Os restos a pagar não processados, inscritos pelo Departamento Municipal de Água, Esgoto e Saneamento, inseridos em 2021,2022 e 2023, conforme relação anexa, que não foram liquidados até a presente data, deverão ser cancelados integralmente.
+
+**Art. 2º** O pagamento que vier a ser reclamado em decorrência dos cancelamentos efetuados na forma deste Decreto, poderá ser atendido à conta de dotação constante da Lei Orçamentária Anual, destinadas a cobertura de despesas de exercícios anteriores ou de créditos adicionais aberto para esta finalidade no exercício em que ocorrer o reconhecimento da dívida.
+
+**Art. 3º** Revogam-se as disposições contrárias.
+
+**Art. 4º** Este decreto entra em vigor na data de sua publicação.
+
+Ponte Nova, 20 de dezembro de 2024.
+
+Wagner Mol Guimarães Prefeito Municipal
+
+Anderson Roberto Nacif Sodré Diretor - Geral do DMAES
+
+ANEXO AO DECRETO 13.806/2024 RESTOS A PAGAR NÃO PROCESSADOS
+
+EXERCÍCIO Nº FAVORECIDO VALOR EMPENHO
+
+ARENNA INFORMATICA E 2023 802 DISTRIBUICAO EIRELI 150,00
+
+2023 115 AUTO POSTO MORISA LTDA 432,20
+
+2023 117 AUTO POSTO MORISA LTDA 520,55
+
+2023 118 AUTO POSTO MORISA LTDA 1.517,40
+
+AZIZ SISTEMAS DE 2023 228 SEGURANÇA LTDA-ME 0,42
+
+BACKUP MANUTENÇÃO E DISTRIBUIÇÃO DE PRODUTOS 2023 810 DE INFORMÁTICA 300,00
+
+2023 12 BANCO BRADESCO SA 3.176,90
+
+BANCO COOPERATIVO 2023 229 SICOOB - BANCO SICOOB S.A. 3.437,74
+
+BANCO MERCANTIL DO 2023 1064 BRASIL S.A. 349,20
+
+BAUMINAS QUIMICA LTDA - 2023 425 FILIAL 493,18
+
+2023 1054 BLACK SPYDER 8.431,00
+
+2023 1055 BLACK SPYDER 445,00
+
+2023 1056 BLACK SPYDER 775,00
+
+2023 1057 BLACK SPYDER 105,00
+
+2023 1058 BLACK SPYDER 752,00
+
+CAETANO SERAFIM PEREIRA 2023 394 10945784600 292,79
+
+CAETANO SERAFIM PEREIRA 2023 395 10945784600 337,78
+
+CAETANO SERAFIM PEREIRA 2023 396 10945784600 217,03
+
+CAETANO SERAFIM PEREIRA 2023 397 10945784600 1.035,08
+
+CAETANO SERAFIM PEREIRA 2023 398 10945784600 717,80
+
+CELTICA CONSULTORIA E 2023 904 SERVICOS LTDA 0,01
+
+2023 107 CEMIG DISTRIBUICAO S. A 9.081,55
+
+2023 942 COMERCIAL B & F LTDA - ME 8.190,00
+
+2023 1004 CREA MG 3.228,13
+
+D’AUSTRIA ENGENHARIA E 2021 3178 COMÉRCIO LTDA 1.229.588,13
+
+D’AUSTRIA ENGENHARIA E 2022 2791 COMÉRCIO LTDA 251.638,94
+
+D’AUSTRIA ENGENHARIA E 2022 2387 COMÉRCIO LTDA 8.429,83
+
+DELTA BUSINESS COMERCIAL 2023 662 LTDA 158,50
+
+EMPRESA BRASILEIRA DE 2023 17 CORREIOS E TELEGRAFOS 1.247,19
+
+2023 1063 FACILITTA LTDA 7.791,00
+
+GR INDUSTRIA COMERCIO E 2023 475 TRANSP DE PROD QUIMICOS 30.380,00
+
+INDUSTRIA E COMERCIO 2023 348 FERREIRA BRITO LTDA 224,23
+
+INDUSTRIA E COMERCIO 2023 401 FERREIRA BRITO LTDA 716,36
+
+2023 19 ITAU UNIBANCO S.A. 45,37
+
+JHR COMERCIAL DE BOMBAS 2023 1034 E MOTORES LTDA 6.175,99
+
+JHR COMERCIAL DE BOMBAS 2023 1009 E MOTORES LTDA 110,00
+
+JHR COMERCIAL DE BOMBAS 2023 1011 E MOTORES LTDA 2.790,00
+
+2023 417 MARCELO SIMONI - ME 2.575,90
+
+MARCOS GERALDO OLIVEIRA 2023 948 ROCHA 8.214,65
+
+MEMORY PROJETOS E DESENVOLVIMENTO DE 2023 303 SISTEMAS LTDA 16.260,00
+
+2023 1051 PONTENET 0,01
+
+PRACIMAX CASA E 2023 931 CONSTRUÇÃO LTDA 1.415,20
+
+RADIO VALE DO PIRANGA 2023 1008 LTDA 0,49
+
+R-LIGHT SOLUÇÕES 2023 664 ELÉTRICAS LTDA 2.217,00
+
+S.A. DE JESUS COMERCIO DE 2023 213 MATERIAIS DE CONSTRUÇÃO 102,25
+
+SANTANA RASTREAMENTO E 2023 732 MONITOR. LTDA 0,03
+
+SANTANA RASTREAMENTO E 2023 65 MONITOR. LTDA 8,39
+
+SANTANA RASTREAMENTO E 2023 66 MONITOR. LTDA 1,22
+
+SANTANA RASTREAMENTO E 2023 68 MONITOR. LTDA 0,01
+
+SANTANA RASTREAMENTO E 2023 69 MONITOR. LTDA 0,01
+
+2023 232 SAO JORGE AUTOBUS 253,00
+
+2023 231 SAO JORGE AUTOBUS 52,00
+
+2023 230 SAO JORGE AUTOBUS 930,00
+
+2023 643 TECLA INFORMATICA LTDA 1.280,00
+
+2023 25 TELEFONICA BRASIL S.A. 5.430,18
+
+2023 1013 TELEFÔNICA BRASIL SA 191,54
+
+2023 26 TELEFÔNICA BRASIL SA 3.656,39
+
+TERRA E TECNICA ENGENHARIA 2021 2196 EMPREENDIMENTOS LTDA 238.642,68
+
+TOFEL TOLENTINO 2023 1040 FERRAGENS LTDA 5.900,00
+
+VISAO SEGURANCA 2023 239 ELETRONICA 0,03
+
+2023 999 W-TORRE ENGENHARIA 5.455,82
+
+2023 1000 W-TORRE ENGENHARIA 16.818,40
+
+TOTAL 1.892.686,50
+
+Wagner Mol Guimarães
+
+Prefeito Municipal
+
+Anderson Roberto Nacif Sodré Diretor - Geral do DMAES
