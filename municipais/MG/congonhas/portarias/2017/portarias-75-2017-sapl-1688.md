@@ -1,0 +1,36 @@
+---
+titulo: "Portaria nº 75, de 02/03/2017"
+tipo: "Portaria"
+tipo_na_fonte: "Portaria"
+numero: "75"
+data: "2017-03-02"
+ementa: "EXONERA SERVIDORA DE CARGO EM COMISSÃO"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/1688"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/media/sapl/public/normajuridica/2017/1688/1688_texto_integral.html"
+sha256_fonte: "59259fc8e718322cff540795fbdffa8d2f1c17790beb72065bd162490b22ca0d"
+baixado_em: "2026-10-30"
+---
+
+# Portaria nº 75, de 02/03/2017
+
+PORTARIA CMC/075/2017
+
+**EXONERA SERVIDORA DE CARGO EM COMISSÃO.**
+
+O Presidente da Câmara Municipal de Congonhas, usando das atribuições que lhe são conferidas pelo Inciso XXV, do artigo 42, do Regimento Interno, baixa a seguinte PORTARIA:
+
+**Art.1º** Fica exonerada a Sra **KARLA MARISY PEREIRA RAMALHO**, portadora do CPF nº **125.xxx.xxx-75,** ocupante do cargo de **ASSISTENTE DE GABINETE PARLAMENTAR,** nomeada pela Portaria **CMC/012/2017**, de 1º de Janeiro.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+Câmara Municipal de Congonhas, 02 de Março de 2017.
+
+**ADIVAR GERALDO BARBOSA**
+
+**Presidente da Mesa Diretora**
+
+Câmara Municipal de Congonhas

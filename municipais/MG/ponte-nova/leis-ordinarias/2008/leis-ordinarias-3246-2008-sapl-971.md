@@ -1,0 +1,40 @@
+---
+titulo: "Lei Ordinária nº 3246, de 19/12/2008"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "3246"
+data: "2008-12-19"
+ementa: "ABERTURA DE CRÉDITO ADICIONAL ESPECIAL PARA CONSTRUÇÃO DE QUADRA POLIESPORTIVA."
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/971"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2008/971/971_texto_integral.pdf"
+sha256_fonte: "955764e96927bc330b31108b28b96b2b1dc724f5825a192a328ce358014419bf"
+baixado_em: "2026-10-30"
+---
+
+# Lei Ordinária nº 3246, de 19/12/2008
+
+LEI MUNICIPAL Nº 3.246/2008 Abertura de crédito adicional especial para construção de quadra poliesportiva.
+
+A Câmara Municipal aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei.
+
+**Art. 1º** Fica aberto crédito adicional especial no orçamento vigente no valor de R$ 167.449,52 (cento e sessenta e sete mil, quatrocentos e quarenta e nove reais, cinqüenta e dois centavos), na seguinte dotação orçamentária: Unidade: 02.11 – Secretaria Municipal de Cultura, Esporte, Lazer e Turismo Sub-Unidade: 02.11.04 – Desporto Amador 27.812.0037. 1.143 – Construção de Quadra Poliesportiva 44.90.51 – Obras e Instalações ............................................. R$ 167.449,52.
+
+**Art. 2º** Os recursos necessários ao atendimento das despesas constantes do artigo 1o correrão à conta das seguintes fontes:
+
+I - do excesso de arrecadação dos recursos vinculados a serem repassados através do convênio com a Secretaria de Estado de Esporte e da Juventude de Minas Gerais, no valor de R$ 150.000,00 (cento e cinqüenta mil reais), conforme inciso II do § 1o do art. 43 da Lei Federal no 4.320/64;
+
+II – da anulação da seguinte dotação orçamentária do orçamento vigente como contrapartida financeira municipal, no valor de R$ 17.449,52 (dezessete mil e quinhentos e quatrocentos e quarenta e nove reais, cinqüenta e dois centavos), conforme inciso III do § 1o do art. 43 da Lei Federal no 4.320/64: Unidade: 02.12 – Secretaria Municipal de Planejamento e Orçamento 04.122.0051.2.253. D 643 - 33.90.30 – Material de Consumo.................................. R$ 17.449,52.
+
+**Art. 3º** Fica autorizada a inclusão do projeto constante do art. 1o na Lei no 2.876/2005 (PPA 2006/2009) e na Lei 3.070/2007 (LDO/2008).
+
+**Art. 4º** Revogam-se disposições contrárias. Ponte Nova - MG, 19 de dezembro de 2008.
+
+Luiz Eustáquio Linhares Prefeito Municipal
+
+Maria José Cária Guimarães Pereira Adair Liberato Secretária Municipal de Fazenda Secretária Municipal de Cultura, Esporte, Lazer e Turismo
+
+- Autor (es): Executivo / PL nº 2.763 de 15.12.2008. - Publicada em: 22/12/2008

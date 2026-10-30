@@ -1,0 +1,36 @@
+---
+titulo: "Portaria Câmara nº 28, de 27/11/2015"
+tipo: "Portaria Câmara"
+tipo_na_fonte: "Portaria Câmara"
+numero: "28"
+data: "2015-11-27"
+ementa: "Concede férias normais ao servidor Edinei dos Santos."
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/5363"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2015/5363/portaria_28_-_ferias_edinei.pdf"
+sha256_fonte: "37053256e60d46a85aba1bbb9b41a4ef355ec1656e4e20f8671e13eb5ae93dee"
+baixado_em: "2026-10-30"
+---
+
+# Portaria Câmara nº 28, de 27/11/2015
+
+CÂMARA MUNICIPAL DE PONTE NOVA ESTADO DE MINAS GERAIS
+
+PORTARIA Nº 28, de 27.11.2015 Concede férias normais ao servidor Edinei dos Santos.
+
+O Presidente da Câmara Municipal de Ponte Nova, em exercício de suas atribuições legais, com base no disposto na Lei Municipal nº 2.922/2006,
+
+RESOLVE:
+
+**Art. 1º** Fica concedido férias normais regulamentares ao servidor EDINEI DOS SANTOS, a serem gozadas no período de 21.12.2015 a 20.01.2016, referente ao período aquisitivo de 15.12.2012 a 14.12.2013.
+
+**Art. 2º** Fica autorizada a conversão de 1/3 (um terço) das férias do servidor em abono pecuniário, de acordo com o artigo 84 da Lei Municipal nº 1.522/90.
+
+**Art. 3º** Esta portaria entra em vigor na data de sua publicação.
+
+**Art. 4º** Revogam-se as disposições contrárias. Ponte Nova, 27 de novembro de 2015.
+
+José Mauro Raimundi Presidente

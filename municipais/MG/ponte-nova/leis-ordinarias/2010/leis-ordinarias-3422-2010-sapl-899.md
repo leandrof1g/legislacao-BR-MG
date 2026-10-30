@@ -1,0 +1,88 @@
+---
+titulo: "Lei Ordinária nº 3422, de 26/03/2010"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "3422"
+data: "2010-03-26"
+ementa: "Concede reajuste Salarial para os Servidores do Departamento Municipal de Água, Esgoto e Saneamento de Ponte Nova – DMAES, e dá outras providências."
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/899"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2010/899/lei_3.422.2010-consolidada.pdf"
+sha256_fonte: "75c59f587ad51a5b202f783667abe097277d70c3a11a9b81bbb41634266708da"
+baixado_em: "2026-10-30"
+---
+
+# Lei Ordinária nº 3422, de 26/03/2010
+
+LEI MUNICIPAL Nº 3.422, DE 26/03/2010 Concede reajuste salarial para os servidores do Departamento Municipal de Água, Esgoto e Saneamento de Ponte Nova – DMAES, e dá outras providências.
+
+A Câmara Municipal de Ponte Nova aprova e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+**Art. 1º** Fica concedido, nos termos do art. 37, X da Constituição Federal, revisão geral de 3% (três por cento) na remuneração dos servidores do Departamento Municipal de Água, Esgoto e Saneamento, mais R$ 32,00 (trinta e dois reais) a título de reajuste na tabela de salários.
+
+**Art. 2º** Os recursos necessários para atender as despesas desta Lei correrão por conta de dotações orçamentárias próprias.
+
+**Art. 3º** Em cumprimento ao disposto na Lei Federal Complementar nº 101/2000, integra a presente Lei o demonstrativo de impacto orçamentário-financeiro no exercício atual e os dois subsequentes.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de fevereiro de 2010.
+
+**Art. 5º** Revogam-se disposições contrarias. Ponte Nova - MG, 26 de março de 2010.
+
+João Antônio Vidal de Carvalho Prefeito Municipal
+
+Ricardo Murad Semião Diretor Geral do DMAES
+
+- Autor (es): Executivo / PL nº 2.926 de 25.03.2010. - Publicada em: 26/03/2010
+
+## ANEXO I
+
+MEMÓRIA DE CÁLCULO
+
+IMPACTO ORÇAMENTÁRIO - DESPESA PESSOAL CIVIL C/ REAJUSTE SALARIAL DE 3% + R$ 32,00 - DATA-BASE JANEIRO/2010
+
+PREVISÃO DE GASTO C/ PESSOAL CIVIL 2009 2010 2011
+
+DOTAÇÃO ATUALIZADA R$ 3.167.000,00 R$ 3.521.000,00 R$ 3.697.050,00
+
+TOTAL FOLHA C/ IMPACTO R$ 3.064.563,75 R$ 3.481.400,00 R$ 3.655.470,00
+
+\*DESP. COM PESSOAL REALIZADA R$ 3.064.563,75 R$ 267.800,00 -
+
+PREV.DESP.PESSOAL A REALIZAR - R$ 3.213.600,00 -
+
+SALDO ORÇAMENTÁRIO R$ 102.436,25 R$ 3.253.200,00 R$ 3.697.050,00
+
+IMPACTO ORÇAMENTÁRIO -3,23% -1,12% -1,12%
+
+PREVISÃO DE RECEITA CORRENTE LÍQUIDA 2009 2010 2011
+
+PREVISÃO INICIAL R$ 7.661.425,00 R$ 7.977.000,00 R$ 8.375.850,00
+
+PREVISÃO ATUALIZADA R$ 7.175.035,75 R$ 7.222.469,28 R$ 0,00
+
+IMPACTO FINANCEIRO 42,71% 43,64% 43,64%
+
+A Previsão da Receita do exercício de 2010 foi baseada na MÉDIA arrecadada até JANEIRO/2010.
+
+Ricardo Murad Semião Diretor Geral
+
+Ponte Nova, de de 2010
+
+## ANEXO II
+
+LEI 3262/2009 TABELA PADRAO DMAES ATUAL 01/02/2009
+
+LETRA DE PROGRESSÃO NÍVEL A B C D E F G H I J K L M I 494,70 514,48 535,05 556,45 578,70 601,84 625,91 650,94 676,97 704,04 732,20 761,48 791,93 II 580,69 603,91 628,06 653,18 679,30 706,47 734,72 764,10 794,66 826,44 859,49 893,86 929,61 III 740,47 770,08 800,88 832,91 866,22 900,86 936,89 974,36 1.013,33 1.053,86 1.096,01 1.139,85 1.185,44 IV 786,80 818,27 851,00 885,04 920,44 957,25 995,54 1.035,36 1.076,77 1.119,84 1.164,63 1.211,21 1.259,65 V 942,21 979,89 1.019,08 1.059,84 1.102,23 1.146,31 1.192,16 1.239,84 1.289,43 1.341,00 1.394,64 1.450,42 1.508,43 VI 1.034,82 1.076,21 1.119,25 1.164,02 1.210,58 1.259,00 1.309,36 1.361,73 1.416,19 1.472,83 1.531,74 1.593,00 1.656,72 VII 1.611,35 1.675,80 1.742,83 1.812,54 1.885,04 1.960,44 2.038,85 2.120,40 2.205,21 2.293,41 2.385,14 2.480,54 2.579,76 VIII 1.020,07 IX 1.244,48 X 1.518,24 XI 1.852,30
+
+LETRA DE PROGRESSÃO NÍVEL N O P Q R S T U V W X Y Z I 823,60 856,54 890,80 926,43 963,48 1.002,01 1.042,09 1.083,77 1.127,12 1.172,20 1.219,08 1.267,84 1.318,55 II 966,79 1.005,46 1.045,67 1.087,49 1.130,98 1.176,21 1.223,25 1.272,18 1.323,06 1.375,98 1.431,01 1.488,25 1.547,78 III 1.232,85 1.282,16 1.333,44 1.386,77 1.442,24 1.499,92 1.559,91 1.622,30 1.687,19 1.754,67 1.824,85 1.897,84 1.973,75 IV 1.310,03 1.362,43 1.416,92 1.473,59 1.532,53 1.593,83 1.657,58 1.723,88 1.792,83 1.864,54 1.939,12 2.016,68 2.097,34 V 1.568,76 1.631,51 1.696,77 1.764,64 1.835,22 1.908,62 1.984,96 2.064,35 2.146,92 2.232,79 2.322,10 2.414,98 2.511,57 VI 1.722,98 1.791,89 1.863,56 1.938,10 2.015,62 2.096,24 2.180,08 2.267,28 2.357,97 2.452,28 2.550,37 2.652,38 2.758,47 VII 2.682,95 2.790,26 2.901,87 3.017,94 3.138,65 3.264,19 3.394,75 3.530,54 3.671,76 3.818,63 3.971,37 4.130,22 4.295,42
+
+## ANEXO III
+
+TABELA PADRAO DMAES - COM PROPOSTA DE REAJUSTE
+
+LETRA DE PROGRESSÃO NÍVEL A B C D E F G H I J K L M I 541,54 561,91 583,10 605,14 628,06 651,90 676,69 702,47 729,28 757,16 786,17 816,32 847,69 II 630,11 654,03 678,90 704,78 731,68 759,66 788,76 819,02 850,50 883,23 917,27 952,68 989,50 III 794,68 825,18 856,91 889,90 924,21 959,89 997,00 1.035,59 1.075,73 1.117,48 1.160,89 1.206,05 1.253,00 IV 842,40 874,82 908,53 943,59 980,05 1.017,97 1.057,41 1.098,42 1.141,07 1.185,44 1.231,57 1.279,55 1.329,44 V 1.002,48 1.041,29 1.081,65 1.123,64 1.167,30 1.212,70 1.259,92 1.309,04 1.360,11 1.413,23 1.468,48 1.525,93 1.585,68 VI 1.097,86 1.140,50 1.184,83 1.230,94 1.278,90 1.328,77 1.380,64 1.434,58 1.490,68 1.549,01 1.609,69 1.672,79 1.738,42 VII 1.691,69 1.758,07 1.827,11 1.898,92 1.973,59 2.051,25 2.132,02 2.216,01 2.303,37 2.394,21 2.488,69 2.586,96 2.689,15 VIII 1.082,67 IX 1.313,81 X 1.595,79 XI 1.939,87
+
+LETRA DE PROGRESSÃO NÍVEL N O P Q R S T U V W X Y Z I 880,31 914,24 949,52 986,22 1.024,38 1.064,07 1.105,35 1.148,28 1.192,93 1.239,37 1.287,65 1.337,88 1.390,11 II 1.027,79 1.067,62 1.109,04 1.152,11 1.196,91 1.243,50 1.291,95 1.342,35 1.394,75 1.449,26 1.505,94 1.564,90 1.626,21 III 1.301,84 1.352,62 1.405,44 1.460,37 1.517,51 1.576,92 1.638,71 1.702,97 1.769,81 1.839,31 1.911,60 1.986,78 2.064,96 IV 1.381,33 1.435,30 1.491,43 1.549,80 1.610,51 1.673,64 1.739,31 1.807,60 1.878,61 1.952,48 2.029,29 2.109,18 2.192,26 V 1.647,82 1.712,46 1.779,67 1.849,58 1.922,28 1.997,88 2.076,51 2.158,28 2.243,33 2.331,77 2.423,76 2.519,43 2.618,92 VI 1.806,67 1.877,65 1.951,47 2.028,24 2.108,09 2.191,13 2.277,48 2.367,30 2.460,71 2.557,85 2.658,88 2.763,95 2.873,22 VII 2.795,44 2.905,97 3.020,93 3.140,48 3.264,81 3.394,12 3.528,59 3.668,46 3.813,91 3.965,19 4.122,51 4.286,13 4.456,28

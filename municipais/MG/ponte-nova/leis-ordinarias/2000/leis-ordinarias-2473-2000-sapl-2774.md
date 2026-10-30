@@ -1,0 +1,52 @@
+---
+titulo: "Lei Ordinária nº 2473, de 18/09/2000"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "2473"
+data: "2000-09-18"
+ementa: "Define área de expansão urbana da sede do município, altera a linha perimétrica da zona urbana da cidade de Ponte Nova e dá outras providências."
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/2774"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2000/2774/lei_2.473_consolidada.pdf"
+sha256_fonte: "5b02c2094a0b02fa023877314a1fa55cf16bd1404d3a09a03d149a42c290e848"
+baixado_em: "2026-10-30"
+---
+
+# Lei Ordinária nº 2473, de 18/09/2000
+
+LEI MUNICIPAL N°2.473, DE 18/09/2000 Define área de expansão urbana da Sede do Município, altera a linha perimétrica da Zona Urbana da Cidade de Ponte Nova e dá outras providências.
+
+A Câmara Municipal Ponte Nova aprova, e eu, sanciono a seguinte Lei:
+
+**Art. 1º** Fica definida como área de expansão urbana da sede do Município, a gleba de terras localizada à margem direita da Rodovia BR 120, com área de 269.700 m2, conforme memorial anexo.
+
+**Parágrafo único.** A área definida no caput deste artigo denomina-se Bairro Fortaleza.
+
+**Art. 2º** Caberá aos empreendedores a implantação dos serviços básicos do loteamento, de conformidade com as exigências da Lei Federal nº 6.766/79 e
+
+Lei Municipal nº 1.186/80 e alterações posteriores, dentro de cronograma de obras a ser aprovado pela Prefeitura Municipal.
+
+**Parágrafo único.** Deverão ser respeitadas as recomendações oficiais do Conselho Municipal de Conservação e Defesa do Meio Ambiente de Ponte Nova (CODEMA).
+
+**Art. 3º** Para efetivação do artigo 1º. desta Lei, fica alterada a linha perimétrica da Zona Urbana da Cidade de Ponte Nova, a que se refere o artigo 1º. da Lei 2.334/99 de 02.06.1999, que passa a ter a seguinte descrição: A área urbana da cidade de Ponte Nova passa a constituir-se segundo os limites: Partindo da interseção do Rio Piranga no limite da divisa do loteamento Araguaia – Bairro Sagarços ( inclusive) com terras de Aprígio Tavares – Fazenda Três Corações Ltda. ( exclusive). Segue por estes limites até alcançar a Rodovia BR- 120 (Ponte Nova/Rio Doce). Daí, atravessando a referida rodovia segue pelo lado esquerdo desta até o Trevo do Anel Rodoviário defronte a Ponte da Rasa. Deste ponto segue pelo Anel Rodoviário, sentido Rodovia MG-329 (Ponte Nova/Rio Casca), em linha reta até alcançar a divisa de terras de Geralda Brasil Freitas (inclusive) com os limites do Bairro Fortaleza (inclusive), com área remanescente de terras pertencentes a João Trivelatto Filho ( exclusive). Segue pelo limite das terras de João Trivelatto Filho com Geralda Brasil Freitas, Rodovia BR-120 (Ponte Nova/Rio Doce) e a seguir com a Rua Santo Antônio (todos incluídos) até a estrada de acesso à sua propriedade no lugar conhecido por “Volta da Banana”. Daí, segue-se mais ou menos 300 metros a estrada que vai a residência do Sr. João Trivelatto Filho, daí, com uma deflexão à direita, segue-se em linha reta, até alcançar o alto do espigão, divisor de terras de João Trivelatto Filho e de Milton da
+
+Cruz Mosqueira ( inclusive); daí segue-se por espigão, passando as confrontações de terras de João Trivelatto Filho e de Sucessores de Mário Martins de Freitas ( inclusive) e, seguindo este mesmo espigão até alcançar a confrontação de João Trivelatto Filho e Luiz Carlos Soares Martins (inclusive), até a confrontação de Reinaldo Alves Costa Filho ( exclusive) e sucessores de Mário Martins de Freitas (inclusive), segue-se por este mesmo divisor até encontrar a confrontação de Reinaldo Alves da Costa Filho com sucessores de Sebastião Bartolomeu Cordeiro (exclusive) até o valo de divisa que se encontra no espigão da divisa de Sucessores de Sebastião Bartolomeu Cordeiro com sucessores de Mário Martins de Freitas e Luiz Carlos Soares Martins (ambos incluídos) até o Anel Rodoviário, pelo qual segue sentido a Rodovia MG-329 (Ponte Nova/Rio Casca) até defrontar o espigão divisor de terras de Mário Fonseca (exclusive) e Sucessores de Hilton Januário Filho ( inclusive), segue por este espigão e a seguir por divisas das terra de sucessores de João de Miranda e Antônio Campos (ambos excluídos) com Antônio Calais e José Renato Marques (ambos incluídos) até alcançar a divisa com o Bairro Anna Florência. Segue pelo limite de terras do Bairro Anna Florência (inclusive) com terras da Usina Jatiboca, Laerte Castro Filho, Itamar Mota Mayrink, Albino Mayrink, Gil Mayrink, Usina Jatiboca (todos incluídos) até a Rodovia MG-329 (Ponte Nova/Rio Casca); atravessa esta rodovia, segue pela divisa do Bairro Anna Florência com terras da Usina Jatiboca, Cláudio Marques Martins e novamente terras da Usina Jatiboca (todos excluídos) até alcançar a Rodovia MG-329 (Ponte Nova/Rio Casca). Segue por esta rodovia sentido Ponte Nova até a divisa de terras da Fazenda Esperança de Sucessores de Olímpio Monteiro de Resende (exclusive) e Bairro Paraíso (inclusive). Segue por estas divisas até alcançar a divisa de terras de Antar Muanis Zaidan (inclusive). Segue por estas divisas até alcançar a divida de terras de Antar Muanis Zaidan (exclusive) com terra do DER – MG. (inclusive). Segue por estas divisa de terras passando pelo final da Rua Achiles Monteiro Resende, inclusive indo alcançar o Córrego do Manso; daí, segue subindo este córrego até as terras de propriedade do Hospital Arnaldo Gavazza Filho – lavanderia ( inclusive). Deste ponto, pelo limite das terras do Hospital alcança a estrada de acesso a Fazenda Estiva. Segue por esta estrada até alcançar as terras de propriedade da Tecnolage Ltda. ( inclusive). Sobe pelo espigão, contornando os limites das terras da Tecolage Ltda. Indo alcançar as terras de propriedade de Paulo Cézar da Silva (exclusive) e Sitio do Manso (inclusive). Segue pelo limite de Terras de Paulo Cezar da Silva até alcançar a Antena de Rádio (inclusive). Deste ponto atravessa a estrada de acesso a Fazenda Estiva indo alcançar as divisas de terras de João Marques Leal ( exclusive) com o Bairro Novo Horizonte ( inclusive). Segue pelo limite do Bairro com terras de João marques Leal e a seguir com Manoel Vicari Martins ( exclusive) até um pequeno córrego, já nas confrontações do Bairro de Fátima. Daí, segue confrontando dom o Bairro de Fátima (inclusive) e Geraldo Ribeiro de Assis ( exclusive) até atingir o espigão pelo qual sobre, ainda
+
+confrontando com Geraldo de Assis Ribeiro e Bairro Cidade Nova (inclusive) e a seguir com terras da Prefeitura Municipal de Ponte Nova – reserva do Passa Cinco (exclusive) e Bairro Cidade Nova. A seguir com terras de Evaristo Antônio Medina Costa e Custódio Martins da Silva ( ambos excluídos) com terras da Fábrica de Suco ( inclusive). Segue pelo limite de terras da Fábrica de Suco até alcançar a estrada de acesso a Fábrica; daí, até o Trevo da Rodovia BR-120 (Ponte Nova/Viçosa). Segue por esta rodovia, senti Ponte Nova, até defrontar a Rua Idano Iacomini (inclusive) na divisa de terras de Sucessores de Álvaro Soares Teixeira. Segue por espigão pela divisa de Sucessores de Álvaro soares Teixeira (exclusive) passando pelo fundo da Vila Rosa, Praça de Esporte da S.E. 1o. de Maio, nas confrontações com sucessores de Silvio de Almeida Costa (exclusive) e Bairro Nova Copacabana (inclusive) até uma ponte sobre o córrego que vem da Fazenda Imaculada Conceição, na Rua Copacabana ( inclusive). Daí, segue pela estrada com destino ao Brito e Guaraciaba até a divisa de terras de propriedade de Dona Ruth Martins Marinho; segue pelo limite da propriedade de Dona Ruth Martins Marinho( exclusive), atravessa a estrada com destino à sede da confrontante e seguindo o muro de divisa e cerca de arame farpado alcança o Rio Piranga. Sobre pelo Rio Piranga até a divisa de terras do Acabiara Clube de Caça e Pesca ( inclusive) com Antenor Campos (exclusive); segue por esta divisa de terras até alcançar o leito da linha férrea da R.F.F.S.A.; prossegue pela linha férrea na direção do Sítio denominado Ribeirão de propriedade do Sr. Paulo Moreira Brandão, tendo como demarcação a linha férrea se encontrando com o Anel Rodoviário. Daí continua seguindo pela linha férrea sentido Mariana, atravessando o Ribeirão Mata Cães; daí segue descendo pelo Ribeirão Mata Cães até encontrar a ponte sobre o mesmo, na estrada de acesso a Ranchos Novos. Daí, em reta alcança o Anel Rodoviário da MG-262. Segue pelo Anel Rodoviário sentido Rodovia MG-329 (Ponte Nova/Rio Casca), até o entroncamento deste com a Rua Roberto Parentoni (inclusive). Daí, dobra-se a esquerda medindo 140 metros até a nascente do córrego. Segue-se o córrego abaixo em divisa com Francisco Pompéia de Oliveira (exclusive), com a distância de 750 metros mais ou menos. Daí, segue-se em linha reta medindo 460 metros. Daí, segue-se em divisa com terras de Francisco Sávio de Oliveira Neto (exclusive) com a media de 375 metros até a estaca 55 do primeiro perímetro. Daí, segue-se em divisa com o mesmo até a divisa de Benjamim Constante de Oliveira, Orlando Rangel de Oliveira, Francisco Pompéia de Oliveira, José Batista e Gravatá Agropecuária ( todos excluídos) e pela direita, com terras de Gerado Lourenço Dias, José Gualberto Vieira, até a Rodovia Ponte Nova Barra/Longa. Daí, atravessa a rodovia e segue pelo alto, nas confrontações de terras de Pedro Virgílio, Cid Xavier Lanna e José Moreira Leite a esquerda ( todos excluídos) e a direita com terras de Adriano Mansur Linhares, Razense Futebol Clube, herdeiros de Emídio Guimarães ( todos incluídos) e finalmente José Moreira Leite, até o Rio Piranga. Desce pelo Rio Piranga até o ponto inicial.
+
+Artigo revogado pelo Art. 6° da pela Lei Municipal nº 3.151, de 26 de dezembro de 2007)
+
+**Art. 4º** Caberá ao Município, por meio de seu órgão competente a fiscalização das obras de implantação do loteamento, instituindo caução de até 40% das unidades comercializáveis, como garantia de execução e qualidade das obras, conforme cronograma a ser aprovado pela Prefeitura Municipal.
+
+**Art. 5º** Esta lei entra em vigor na data da sua publicação.
+
+**Art. 6º** Revogam-se as disposições em contrário, especialmente a lei Municipal 2.334 de 02.06.1999. Ponte Nova – MG,18 de setembro de 2000
+
+José Silvério Felício da Cunha Prefeito Municipal
+
+Nilcio Paulo Perdigão de Miranda Secretário Municipal de Governo
+
+- Autor(es): Executivo / PL nº 2.185 de 2000 - Publicada em: 18.09.2000

@@ -1,0 +1,26 @@
+---
+titulo: "Decreto Municipal nº 9692, de 24/10/2014"
+tipo: "Decreto Municipal"
+tipo_na_fonte: "Decreto Municipal"
+numero: "9692"
+data: "2014-10-24"
+ementa: "FICA ABERTO NO ORÇAMENTO DO MUNICÍPIO PARA O EXERCÍCIO DE 2014, CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 187.872,26"
+municipio: "Ponte Nova"
+uf: "MG"
+codigo_ibge: "3152105"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pontenova.mg.leg.br/norma/1866"
+fonte_texto: "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2014/1866/1866_texto_integral.pdf"
+sha256_fonte: "2cf676cae1bfd7e4a6751b58fbd8f161af47f71a7d193b63306159357ad695a7"
+baixado_em: "2026-10-30"
+---
+
+# Decreto Municipal nº 9692, de 24/10/2014
+
+DECRETO MUNICIPAL Nº 9.692/2014 ABRE CREDITO ADICIONAL SUPLEMENTAR O Prefeito Municipal de Ponte Nova, no uso de suas atribuições legais, de acordo com a autorização contida no art. 42 da Lei Federal 4.320/64 e a Lei Municipal 3.820, de 23 de dezembro de 2013, DECRETA: Artigo 1º Fica aberto no orçamento do Município para o exercício de 2014, crédito adicional suplementar no valor de R$ 187.872,26 (cento e oitenta e sete mil, oitocentos e setenta e dois reais e vinte e seis centavos), nas seguintes dotações: 08.241.0011.2030 MANUTENCAO DO ASILO MUNICIPAL 3.3.90.30.00 216 Material de Consumo 20.000,00 2.00.00 Recursos Ordinários 20.000,00 3.3.90.36.00 217 Outros Serviços Terceiros- Pessoa Física 1.000,00 2.00.00 Recursos Ordinários 1.000,00 4.4.90.52.00 220 Equipamento e Material Permanente 16.000,00 2.00.00 Recursos Ordinários 16.000,00 08.244.0012.2033 PAGAMENTO DE PESSOAL E ENCARGOS - CRAS 3.1.90.04.00 246 Contratação por Tempo Determinado 10.742,95 2.29.00 Transf. Rec.Fund.Nacional A.Social - 10.742,95 08.244.0012.2045 MANUTENÇÃO DA PROTEÇÃO SOCIAL BASIC - I 3.3.90.39.00 253 Outros Serv. Terceiros - Pessoa Jurídica 4.000,00 2.29.00 Transf. Rec.Fund.Nacional A.Social - 4.000,00 08.244.0012.2372 PISO MINEIRO DE ASSISTENCIA SOCIAL-CRAS 3.3.90.39.00 260 Outros Serv. Terceiros - Pessoa Jurídica 700,00 2.56.00 Transf. Rec.Fundo Estadual A.Social- 700,00 08.244.0013.2040 PAGAMENTO DE PESSOAL E ENCARGOS - CREAS 3.1.90.04.00 280 Contratação por Tempo Determinado 15.707,25
+
+2.29.00 Transf. Rec.Fund.Nacional A.Social - 15.707,25 3.3.90.46.00 283 Auxílio-alimentação 1.243,62 2.29.00 Transf. Rec.Fund.Nacional A.Social - 1.243,62 08.244.0013.2329 MANUTENCAO DO SERVICO AO MIGRANTE 3.3.90.30.00 284 Material de Consumo 500,00 2.56.00 Transf. Rec.Fundo Estadual A.Social- 500,00 08.244.0013.2373 PISO MINEIRO ASSISTENCIA SOCIAL-CREAS 3.3.90.30.00 287 Material de Consumo 4.100,00 2.56.00 Transf. Rec.Fundo Estadual A.Social- 4.100,00 3.3.90.39.00 288 Outros Serv. Terceiros - Pessoa Jurídica 500,00 2.56.00 Transf. Rec.Fundo Estadual A.Social- 500,00 10.301.0018.1240 REFORMA DE UBS - SAUDE EM CASA 4.4.90.51.00 371 Obras e Instalações 10.000,00 2.55.00 Transf. Recursos Fundo Estadual de 10.000,00 10.301.0019.2343 MANUT.POSTOS SAUDE ATENCAO BASICA-PABFIX 3.3.90.39.00 422 Outros Serv. Terceiros - Pessoa Jurídica 8.000,00 2.48.00 Transf.Recursos do SUS p/ Atenção 8.000,00 10.301.0062.2062 PAGTO PESSOAL/ENCARGOS FARMACIA POPULAR 3.1.90.04.00 432 Contratação por Tempo Determinado 4.808,97 2.52.00 Transf. Recursos SUS para Gestão do m 4.808,97 12.361.0026.2142 MANUTENCAO DA EDUCACAO BASICA - QESE 3.3.90.39.00 631 Outros Serv. Terceiros - Pessoa Jurídica 9.334,43 2.47.00 Transferência do Salário – Educação 9.334,43 17.512.0032.2165 PAGAMENTO DE PESSOAL E ENCARGOS - SLU 3.1.90.11.00 702 Vencimentos e Vant. Fixas- Pessoal Civil 65.435,04 2.00.00 Recursos Ordinários 65.435,04 13.392.0039.2175 MANUTENCAO DA CASA DE CULTURA 4.4.90.52.00 778 Equipamento e Material Permanente 15.800,00
+
+2.00.00 Recursos Ordinários 15.800,00 TOTAL: R$ 187.872,26 Artigo 2º Os recursos necessários ao atendimento das despesas constantes no artigo anterior, correrão à conta do Superávit Financeiro apurado no balanço patrimonial do exercício de 2013 pela Secretaria Municipal de Fazenda, dos recursos do Asilo Municipal, no valor de R$ 37.000,00 (trinta e sete mil reais), dos recursos vinculados ao Fundo Nacional de Assistência Social – FNAS, no valor de R$ 31.693,82 (trinta e um mil, seiscentos e noventa e três reais e oitenta e dois centavos), dos recursos vinculados ao Fundo Estadual de Assistência Social, no valor de R$ 5.800,00 (cinco mil e oitocentos reais), dos recursos vinculados ao Fundo Estadual de Saúde para reforma de UBS – Saúde em Casa, no valor de R$ 10.000,00 (dez mil reais), dos recursos vinculados de transferência do SUS, no valor de R$ 12.808,97 (doze mil, oitocentos e oito reais e noventa e sete centavos), dos recursos vinculados da Qese, no valor de R$ 9.334,43 (nove mil, trezentos e trinta e quatro reais e quarenta e três centavos) e dos recursos próprios, no valor de R$ 81.235,04 (oitenta e um mil, duzentos e trinta e cinco reais e quatro centavos), conforme inciso I do parágrafo 1º do art. 43 da Lei Federal 4.320/64. Artigo 3º Este decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário. Ponte Nova - MG, 24 de outubro de 2014.
+
+Paulo Augusto Malta Moreira André Luis Nunes Santos Prefeito Municipal Secretária Municipal de Fazenda
