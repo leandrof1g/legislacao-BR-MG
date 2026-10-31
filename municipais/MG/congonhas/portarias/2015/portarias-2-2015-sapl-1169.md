@@ -1,0 +1,36 @@
+---
+titulo: "Portaria nº 2, de 01/01/2015"
+tipo: "Portaria"
+tipo_na_fonte: "Portaria"
+numero: "2"
+data: "2015-01-01"
+ementa: "EXONERA SERVIDOR OCUPANTE DE CARGO EM COMISSÃO"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/1169"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/media/sapl/public/normajuridica/2015/1169/1169_texto_integral.html"
+sha256_fonte: "3613dfaff93e443c88bb2db00fa582c21cb687ae078e96bd2fdb2998a776da23"
+baixado_em: "2026-10-31"
+---
+
+# Portaria nº 2, de 01/01/2015
+
+PORTARIA CMC/002/2015
+
+**EXONERA SERVIDOR OCUPANTE DE CARGO EM COMISSÃO.**
+
+O Presidente da Câmara Municipal de Congonhas, usando das atribuições que lhe são conferidas pelo Inciso XXV, do artigo 42, do Regimento Interno, baixa a seguinte PORTARIA:
+
+**Art.1º** Fica exonerado do cargo comissionado de **Assessor Especial da Presidência**, o Sr**. MARCO ANTÔNIO CORDEIRO,** portador do CPF nº 143.616.476-15, nomeado pela Portaria CMC/093/2013, de 1º de fevereiro de 2013.
+
+**Art. 2º** Esta Portaria entra em vigor na data da sua publicação.
+
+Câmara Municipal de Congonhas, 1º de janeiro de 2015.
+
+**VAGNER LUIZ DE SOUZA**
+
+**Presidente da Mesa Diretora**
+
+**Câmara Municipal de Congonhas**

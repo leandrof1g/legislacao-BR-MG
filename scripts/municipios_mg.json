@@ -1064,7 +1064,7 @@
    "sapl_manual": false
   },
   "3152105": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Ponte Nova",
    "normas_na_fonte": 9107,
    "pasta": "ponte-nova",

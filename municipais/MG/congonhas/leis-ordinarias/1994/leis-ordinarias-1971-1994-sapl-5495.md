@@ -1,0 +1,46 @@
+---
+titulo: "Lei Ordinária nº 1971, de 30/03/1994"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "1971"
+data: "1994-03-30"
+ementa: "DECLARA DE UTILIDADE PÚBLICA A “CHAROLA DE SÃO SEBASTIÃO E BOM JESUS DE MATOZINHOS DE CONGONHAS”."
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/5495"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/media/sapl/public/normajuridica/1994/5495/lei_1971_1994.pdf"
+sha256_fonte: "d202f630b4f87632b20d1ac99a3a0930bc8f3d2f30c66402d8f3580e9c693b4a"
+baixado_em: "2026-10-31"
+---
+
+# Lei Ordinária nº 1971, de 30/03/1994
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CIDADE DOS PROF ETAS
+
+LEI Nº 1.9/1
+
+DECLARA DE UTILIDADE PÚBLICA A “CHAROLA DE SÃO SEBAS TIÃO E BOM JESUS DE MATOZINHOS DE CONGONHAS”.
+
+A Camapa MunicipaL DE CongonHas, EsTADO DE MINAS GE-
+
+RAIS, DECRETA E EU, PREFEITO MUNICIPAL, SANCIONO E PROMULGO A SEGUINTE LEI:
+
+ARTIGO 1º - FICA DECLARADA DE UTILIDADE PÚBLICA, PA- RA FINS DE DIREITO, A "CHAROLA DE SÃO SEBASTIÃO E BOM JESUS DE MATOZI
+
+O NHOS DE CONGONHAS”, ENTIDADE DE CUNHO FOLCLORICO-RELIGIOSO, COM SEDE a Rua Cristina, nº 138, Bairro DA PraIA/VILA CRISTINA, NESTA CIDADE, Artigo 2º - REVOGADAS AS DISPOSIÇÕES EM CONTRÁRIO, ES
+
+TA LEI FINTRARA EM VIGOR NA DATA DE SUA PUBLICAÇÃO, PREFEITURA MUNICIPAL DE CONGONHAS, AOS TRINTA DIAS
+
+- DO MES DE MARÇO DE- MIL fee ro E e, QUATRO, )
+
+PIGUALTER Pekei TA A
+
+| PrereITO MUNICIPAL
+
+gnatevenlgo JaqueLINE C. DE BriTO MATOSINHOS O SECRETARIA MUNICIPAL DE GOVERNO
+
+A PRESIDENTE EUREESCHEK SRS TELS 7M-DIOO = FAX TU-1240 - CEP 6404-000 - CONGONHAS - MG prAÇ hs

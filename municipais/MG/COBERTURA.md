@@ -33,7 +33,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Nova Lima | 111.697 | SAPL ([sapl.novalima.mg.leg.br](https://sapl.novalima.mg.leg.br)) | 26 | completa |
 | Araxá | 111.691 | SAPL ([sapl.araxa.mg.leg.br](https://sapl.araxa.mg.leg.br)) | 9576 | completa |
 | Nova Serrana | 105.552 | SAPL ([sapl.novaserrana.mg.leg.br](https://sapl.novaserrana.mg.leg.br)) | 0 | completa |
-| Lavras | 104.761 | SAPL ([sapl.lavras.mg.leg.br](https://sapl.lavras.mg.leg.br)) | 6972 | em andamento |
+| Lavras | 104.761 | SAPL ([sapl.lavras.mg.leg.br](https://sapl.lavras.mg.leg.br)) | 7401 | em andamento |
 | Coronel Fabriciano | 104.736 | SAPL ([sapl.coronelfabriciano.mg.leg.br](https://sapl.coronelfabriciano.mg.leg.br)) | 4028 | completa |
 | Muriaé | 104.108 | SAPL ([sapl.muriae.mg.leg.br](https://sapl.muriae.mg.leg.br)) | 8650 | completa |
 | Ubá | 103.365 | SAPL ([sapl.uba.mg.leg.br](https://sapl.uba.mg.leg.br)) | 5723 | completa |
@@ -42,7 +42,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Pará de Minas | 97.139 | SAPL ([sapl.parademinas.mg.leg.br](https://sapl.parademinas.mg.leg.br)) | 3603 | completa |
 | Paracatu | 94.023 | **sem fonte automática** | 0 | — |
 | Itajubá | 93.073 | **sem fonte automática** | 0 | — |
-| Manhuaçu | 91.886 | SAPL ([sapl.manhuacu.mg.leg.br](https://sapl.manhuacu.mg.leg.br)) | 5541 | em andamento |
+| Manhuaçu | 91.886 | SAPL ([sapl.manhuacu.mg.leg.br](https://sapl.manhuacu.mg.leg.br)) | 5696 | em andamento |
 | São João del Rei | 90.225 | **sem fonte automática** | 0 | — |
 | Patrocínio | 89.826 | SAPL ([sapl.patrocinio.mg.leg.br](https://sapl.patrocinio.mg.leg.br)) | 3069 | completa |
 | Caratinga | 87.360 | **sem fonte automática** | 0 | — |
@@ -58,19 +58,19 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Ouro Preto | 74.821 | **sem fonte automática** | 0 | — |
 | São Sebastião do Paraíso | 71.796 | **sem fonte automática** | 0 | — |
 | Janaúba | 70.699 | **sem fonte automática** | 0 | — |
-| Formiga | 68.248 | SAPL ([sapl.formiga.mg.leg.br](https://sapl.formiga.mg.leg.br)) | 1357 | em andamento |
+| Formiga | 68.248 | SAPL ([sapl.formiga.mg.leg.br](https://sapl.formiga.mg.leg.br)) | 1578 | em andamento |
 | Cataguases | 66.261 | SAPL ([sapl.cataguases.mg.leg.br](https://sapl.cataguases.mg.leg.br)) | 312 | completa |
 | Januária | 65.150 | SAPL ([sapl.januaria.mg.leg.br](https://sapl.januaria.mg.leg.br)) | 3649 | completa |
-| Pedro Leopoldo | 62.580 | SAPL ([sapl.pedroleopoldo.mg.leg.br](https://sapl.pedroleopoldo.mg.leg.br)) | 1282 | em andamento |
+| Pedro Leopoldo | 62.580 | SAPL ([sapl.pedroleopoldo.mg.leg.br](https://sapl.pedroleopoldo.mg.leg.br)) | 1563 | em andamento |
 | Mariana | 61.387 | **sem fonte automática** | 0 | — |
-| Frutal | 58.588 | SAPL ([sapl.frutal.mg.leg.br](https://sapl.frutal.mg.leg.br)) | 3869 | em andamento |
-| Ponte Nova | 57.776 | SAPL ([sapl.pontenova.mg.leg.br](https://sapl.pontenova.mg.leg.br)) | 9017 | em andamento |
+| Frutal | 58.588 | SAPL ([sapl.frutal.mg.leg.br](https://sapl.frutal.mg.leg.br)) | 4349 | em andamento |
+| Ponte Nova | 57.776 | SAPL ([sapl.pontenova.mg.leg.br](https://sapl.pontenova.mg.leg.br)) | 9053 | completa |
 | Pirapora | 55.606 | SAPL ([sapl.pirapora.mg.leg.br](https://sapl.pirapora.mg.leg.br)) | 0 | completa |
 | Três Pontas | 55.255 | **sem fonte automática** | 0 | — |
 | Extrema | 53.482 | **sem fonte automática** | 0 | — |
-| Itabirito | 53.365 | SAPL ([sapl.itabirito.mg.leg.br](https://sapl.itabirito.mg.leg.br)) | 1082 | em andamento |
-| Congonhas | 52.890 | SAPL ([sapl.congonhas.mg.leg.br](https://sapl.congonhas.mg.leg.br)) | 3360 | em andamento |
-| São Francisco | 52.762 | SAPL ([sapl.saofrancisco.mg.leg.br](https://sapl.saofrancisco.mg.leg.br)) | 13 | em andamento |
+| Itabirito | 53.365 | SAPL ([sapl.itabirito.mg.leg.br](https://sapl.itabirito.mg.leg.br)) | 1477 | em andamento |
+| Congonhas | 52.890 | SAPL ([sapl.congonhas.mg.leg.br](https://sapl.congonhas.mg.leg.br)) | 7618 | em andamento |
+| São Francisco | 52.762 | SAPL ([sapl.saofrancisco.mg.leg.br](https://sapl.saofrancisco.mg.leg.br)) | 433 | em andamento |
 | Campo Belo | 52.277 | SAPL ([sapl.campobelo.mg.leg.br](https://sapl.campobelo.mg.leg.br)) | 0 | em andamento |
 | Bom Despacho | 51.737 | SAPL ([sapl.bomdespacho.mg.leg.br](https://sapl.bomdespacho.mg.leg.br)) | 1 | em andamento |
 | Lagoa da Prata | 51.412 | SAPL ([sapl.lagoadaprata.mg.leg.br](https://sapl.lagoadaprata.mg.leg.br)) | 31 | em andamento |
