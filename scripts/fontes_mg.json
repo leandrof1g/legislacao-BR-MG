@@ -53,8 +53,8 @@
     "origem": "camara"
    },
    {
-    "texto": "09/10/2026  Nota Pública do Conselho Municipal dos Direitos da da Mulher   A con",
-    "url": "https://www.camarauberlandia.mg.gov.br/imprensa/noticias/2026/nota-publica-do-conselho-municipal-da-mulher",
+    "texto": "21/10/2026  Audiência Pública discute segurança de cabos em postes   A Comissão ",
+    "url": "https://www.camarauberlandia.mg.gov.br/imprensa/noticias/2026/audiencia-publica-discute-seguranca-de-cabos-em-postes",
     "origem": "camara"
    },
    {
@@ -122,7 +122,7 @@
    "https://prefeituracontagem.mg.gov.br": "erro: URLError",
    "https://leismunicipais.com.br/prefeitura/mg/contagem": 403
   },
-  "sapl_normas": 3912,
+  "sapl_normas": 3916,
   "classificacao": "SAPL"
  },
  {
@@ -193,11 +193,6 @@
    "prefeitura:instar"
   ],
   "links": [
-   {
-    "texto": "Betim apresenta projeto da Lei Orçamentária Anual (LOA) e revisão do Plano Pluri",
-    "url": "https://www.betim.mg.gov.br/portal/noticias/0/3/15709/betim-apresenta-projeto-da-lei-orcamentaria-anual-loa-e-revisao-do-plano-plurianual-em-audiencia-publica-nesta-segunda-26",
-    "origem": "prefeitura"
-   },
    {
     "texto": "Legislação Tributária Municipal     Acessar",
     "url": "https://www.betim.mg.gov.br/portal/leis_decretos/1/0/0/184/0/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/avancada",
@@ -324,23 +319,63 @@
   "nome": "Governador Valadares",
   "populacao": 257171,
   "sapl": null,
-  "camara": null,
+  "camara": "https://www.governadorvaladares.mg.leg.br",
   "prefeitura": null,
   "leismunicipais": null,
   "plataformas": [],
-  "links": [],
+  "links": [
+   {
+    "texto": "História da Lei Orgânica",
+    "url": "https://www.governadorvaladares.mg.leg.br/historia-lei-organica",
+    "origem": "camara"
+   },
+   {
+    "texto": "Portal Legislativo",
+    "url": "https://www.governadorvaladares.mg.leg.br/proposicoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica",
+    "url": "https://www.governadorvaladares.mg.leg.br/legislacoes?remissao=1&amp;ver_todos=1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Regimento Interno",
+    "url": "https://www.governadorvaladares.mg.leg.br/legislacoes?remissao=2&amp;ver_todos=1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Painel Legislativo",
+    "url": "https://www.governadorvaladares.mg.leg.br/legislacoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Ideia Legislativa",
+    "url": "https://cmgv.gwlegis.com.br/ideia-legislativa",
+    "origem": "camara"
+   },
+   {
+    "texto": "27   OUT/26             Profissionais da odontologia recebem homenagem no Legisl",
+    "url": "https://www.governadorvaladares.mg.leg.br/noticia/profissionais-da-odontologia-recebem-homenagem-no-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "LEI DO MÃE DE DEUS   PMB",
+    "url": "https://www.governadorvaladares.mg.leg.br/vereador/17",
+    "origem": "camara"
+   },
+   {
+    "texto": "Ver mais",
+    "url": "https://www.governadorvaladares.mg.leg.br/gps-legislativo",
+    "origem": "camara"
+   }
+  ],
   "tentativas": {
    "https://sapl.governadorvaladares.mg.leg.br": "erro: URLError",
    "https://sapl.cmgovernadorvaladares.mg.gov.br": "erro: URLError",
    "https://sapl.camaragovernadorvaladares.mg.gov.br": "erro: URLError",
    "https://sapl.governadorvaladares.mg.gov.br": "erro: URLError",
-   "https://www.governadorvaladares.mg.leg.br": 522,
-   "https://governadorvaladares.mg.leg.br": 522,
-   "https://www.cmgovernadorvaladares.mg.gov.br": "erro: URLError",
-   "https://www.camaragovernadorvaladares.mg.gov.br": "erro: URLError",
-   "https://cmgovernadorvaladares.mg.gov.br": "erro: URLError",
-   "https://camaragovernadorvaladares.mg.gov.br": "erro: URLError",
-   "https://www.camaradegovernadorvaladares.mg.gov.br": "erro: URLError",
+   "https://www.governadorvaladares.mg.leg.br": 200,
    "https://www.governadorvaladares.mg.gov.br": "erro: URLError",
    "https://governadorvaladares.mg.gov.br": "erro: URLError",
    "https://www.pmgovernadorvaladares.mg.gov.br": "erro: URLError",
@@ -348,7 +383,7 @@
    "https://prefeituragovernadorvaladares.mg.gov.br": "erro: URLError",
    "https://leismunicipais.com.br/prefeitura/mg/governador-valadares": 403
   },
-  "classificacao": "não encontrado"
+  "classificacao": "site próprio"
  },
  {
   "codigo_ibge": "3122306",
@@ -481,17 +516,17 @@
    },
    {
     "texto": "",
+    "url": "https://www.divinopolis.mg.leg.br/institucional/noticias/escola-do-legislativo-da-camara-compartilha-conhecimento-em-congresso-da-unifenas",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
     "url": "http://escoladolegislativodivi.blogspot.com.br",
     "origem": "camara"
    },
    {
     "texto": "",
     "url": "https://sapl.divinopolis.mg.leg.br/",
-    "origem": "camara"
-   },
-   {
-    "texto": "Mesa Diretora",
-    "url": "https://www.divinopolis.mg.leg.br/processo-legislativo/mesa-diretora",
     "origem": "camara"
    },
    {
@@ -535,8 +570,8 @@
     "origem": "prefeitura"
    },
    {
-    "texto": "Ação de educação alimentar leva aprendizado e diversão a 109 crianças do Cemei J",
-    "url": "https://www.divinopolis.mg.gov.br/portal/noticias/0/3/29201/acao-de-educacao-alimentar-leva-aprendizado-e-diversao-a-109-criancas-do-cemei-jose-clementino",
+    "texto": "Semana Acadêmica da UEMG reúne mais de 160 participantes em atividades de formaç",
+    "url": "https://www.divinopolis.mg.gov.br/portal/noticias/0/3/29264/semana-academica-da-uemg-reune-mais-de-160-participantes-em-atividades-de-formacao-esportiva",
     "origem": "prefeitura"
    }
   ],
@@ -546,7 +581,7 @@
    "https://www.divinopolis.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/divinopolis": 403
   },
-  "sapl_normas": 20790,
+  "sapl_normas": 20817,
   "classificacao": "SAPL"
  },
  {
@@ -743,7 +778,7 @@
   "populacao": 163742,
   "sapl": null,
   "camara": "https://www.pocosdecaldas.mg.leg.br",
-  "prefeitura": "https://pocosdecaldas.mg.gov.br",
+  "prefeitura": "https://pocosdecaldas.mg.gov.br/",
   "leismunicipais": null,
   "plataformas": [],
   "links": [
@@ -759,8 +794,7 @@
    "https://sapl.camarapocosdecaldas.mg.gov.br": "erro: URLError",
    "https://sapl.pocosdecaldas.mg.gov.br": "erro: URLError",
    "https://www.pocosdecaldas.mg.leg.br": 200,
-   "https://www.pocosdecaldas.mg.gov.br": "erro: TimeoutError",
-   "https://pocosdecaldas.mg.gov.br": 200,
+   "https://www.pocosdecaldas.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/pocos-de-caldas": 403
   },
   "classificacao": "site próprio"
@@ -770,66 +804,14 @@
   "nome": "Patos de Minas",
   "populacao": 159235,
   "sapl": "sapl.patosdeminas.mg.leg.br",
-  "camara": "https://camarapatos.mg.gov.br/",
+  "camara": null,
   "prefeitura": "https://www.patosdeminas.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
-   "camara:leismunicipais",
-   "camara:sapl",
    "prefeitura:instar",
    "prefeitura:leismunicipais"
   ],
   "links": [
-   {
-    "texto": "Comissões",
-    "url": "https://sapl.patosdeminas.mg.leg.br/comissao/",
-    "origem": "camara"
-   },
-   {
-    "texto": "Matérias Legislativas",
-    "url": "https://sapl.patosdeminas.mg.leg.br/materia/pesquisar-materia",
-    "origem": "camara"
-   },
-   {
-    "texto": "Pautas das Sessões",
-    "url": "https://camarapatos.mg.gov.br/legislativo/pautas-sessoes",
-    "origem": "camara"
-   },
-   {
-    "texto": "Pautas das Comissões",
-    "url": "https://camarapatos.mg.gov.br/legislativo/pautas-comissoes",
-    "origem": "camara"
-   },
-   {
-    "texto": "Leis Municipais",
-    "url": "https://sapl.patosdeminas.mg.leg.br/norma/pesquisar",
-    "origem": "camara"
-   },
-   {
-    "texto": "Lei Orgânica",
-    "url": "https://camarapatos.mg.gov.br/legislativo/lei-organica",
-    "origem": "camara"
-   },
-   {
-    "texto": "Regimento Interno",
-    "url": "https://camarapatos.mg.gov.br/legislativo/regimento",
-    "origem": "camara"
-   },
-   {
-    "texto": "Legislação Municipal Consolidada",
-    "url": "https://leismunicipais.com.br/camara/mg/patosdeminas",
-    "origem": "camara"
-   },
-   {
-    "texto": "Manual de Redação",
-    "url": "https://camarapatos.mg.gov.br/legislativo/manual-redacao",
-    "origem": "camara"
-   },
-   {
-    "texto": "Perguntas Frequentes",
-    "url": "https://camarapatos.mg.gov.br/legislativo/faq",
-    "origem": "camara"
-   },
    {
     "texto": "Leis consolidadas     Clique para acessar",
     "url": "https://leismunicipais.com.br/prefeitura/mg/patosdeminas",
@@ -843,11 +825,17 @@
   ],
   "tentativas": {
    "https://sapl.patosdeminas.mg.leg.br": 200,
-   "https://www.patosdeminas.mg.leg.br": 200,
+   "https://www.patosdeminas.mg.leg.br": "erro: URLError",
+   "https://patosdeminas.mg.leg.br": "erro: URLError",
+   "https://www.cmpatosdeminas.mg.gov.br": "erro: URLError",
+   "https://www.camarapatosdeminas.mg.gov.br": "erro: URLError",
+   "https://cmpatosdeminas.mg.gov.br": "erro: URLError",
+   "https://camarapatosdeminas.mg.gov.br": "erro: URLError",
+   "https://www.camaradepatosdeminas.mg.gov.br": "erro: URLError",
    "https://www.patosdeminas.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/patos-de-minas": 403
   },
-  "sapl_normas": 13804,
+  "sapl_normas": 13810,
   "classificacao": "SAPL"
  },
  {
@@ -968,8 +956,13 @@
     "origem": "camara"
    },
    {
-    "texto": "Lei 12.527/2011",
+    "texto": "Lei nº 12.527/2011",
     "url": "http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei nº 14.129/2021",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm",
     "origem": "camara"
    },
    {
@@ -1043,6 +1036,11 @@
     "origem": "prefeitura"
    },
    {
+    "texto": "Prestação de Contas",
+    "url": "https://www.teofilootoni.mg.gov.br/legislacoes/22/Presta%C3%A7%C3%A3o%20de%20Contas",
+    "origem": "prefeitura"
+   },
+   {
     "texto": "Resoluções",
     "url": "https://www.teofilootoni.mg.gov.br/legislacoes/9/Resolu%C3%A7%C3%B5es%20",
     "origem": "prefeitura"
@@ -1078,12 +1076,17 @@
     "origem": "prefeitura"
    },
    {
-    "texto": "Lei 12.527/2011",
+    "texto": "Lei nº 12.527/2011",
     "url": "http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
     "origem": "prefeitura"
    },
    {
-    "texto": "Decreto 45.469/2012",
+    "texto": "Lei nº 14.129/2021",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm",
+    "origem": "prefeitura"
+   },
+   {
+    "texto": "Decreto 45.969/2012",
     "url": "https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=45969&ano=2012",
     "origem": "prefeitura"
    },
@@ -1248,13 +1251,8 @@
     "origem": "prefeitura"
    },
    {
-    "texto": "PREFEITURA DE VARGINHA OFERECE VÔLEI NO CEV   Sexta, 23 de Outubro",
-    "url": "https://www.varginha.mg.gov.br/portal/noticias/0/3/10596/prefeitura-de-varginha-oferece-volei-no-cev",
-    "origem": "prefeitura"
-   },
-   {
     "texto": "Decreto_12493     PDF   165,71 KB            Baixar",
-    "url": "https://www.varginha.mg.gov.br/portal/download/arquivos/CGTx-/",
+    "url": "https://www.varginha.mg.gov.br/portal/download/arquivos/KGTx-/",
     "origem": "prefeitura"
    }
   ],
@@ -1264,7 +1262,7 @@
    "https://www.varginha.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/varginha": 403
   },
-  "sapl_normas": 6771,
+  "sapl_normas": 6784,
   "classificacao": "SAPL"
  },
  {
@@ -1287,7 +1285,7 @@
    "https://prefeituraconselheirolafaiete.mg.gov.br": "erro: URLError",
    "https://leismunicipais.com.br/prefeitura/mg/conselheiro-lafaiete": 403
   },
-  "sapl_normas": 8453,
+  "sapl_normas": 8457,
   "classificacao": "SAPL"
  },
  {
@@ -1308,11 +1306,6 @@
    {
     "texto": "Legisla&#231;&#245;es",
     "url": "https://www.sabara.mg.gov.br/leis",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Dispensa de Licita&#231;&#227;o n.&#186; 134/2026   Contrata&#231;&#227;o de emp",
-    "url": "https://www.sabara.mg.gov.br/licitacoes/dispensa-de-licitacao-n-1342026",
     "origem": "prefeitura"
    }
   ],
@@ -1604,6 +1597,11 @@
     "origem": "camara"
    },
    {
+    "texto": "Executivo realiza prestação de contas ao Legislativo",
+    "url": "https://www.araguari.mg.leg.br/noticias/2026/executivo-realiza-prestacao-de-contas-ao-legislativo-1",
+    "origem": "camara"
+   },
+   {
     "texto": "",
     "url": "https://sapl.araguari.mg.leg.br/parlamentar/6",
     "origem": "camara"
@@ -1631,11 +1629,6 @@
    {
     "texto": "Ana Lúcia",
     "url": "https://sapl.araguari.mg.leg.br/parlamentar/2",
-    "origem": "camara"
-   },
-   {
-    "texto": "",
-    "url": "https://sapl.araguari.mg.leg.br/parlamentar/19",
     "origem": "camara"
    },
    {
@@ -1817,7 +1810,7 @@
    "https://www.lavras.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/lavras": 403
   },
-  "sapl_normas": 9267,
+  "sapl_normas": 9363,
   "classificacao": "SAPL"
  },
  {
@@ -1840,7 +1833,7 @@
    "https://prefeituracoronelfabriciano.mg.gov.br": "erro: URLError",
    "https://leismunicipais.com.br/prefeitura/mg/coronel-fabriciano": 403
   },
-  "sapl_normas": 4316,
+  "sapl_normas": 4436,
   "classificacao": "SAPL"
  },
  {
@@ -1849,9 +1842,11 @@
   "populacao": 104108,
   "sapl": "sapl.muriae.mg.leg.br",
   "camara": null,
-  "prefeitura": null,
+  "prefeitura": "https://muriae.atende.net/",
   "leismunicipais": null,
-  "plataformas": [],
+  "plataformas": [
+   "prefeitura:atende.net"
+  ],
   "links": [],
   "tentativas": {
    "https://sapl.muriae.mg.leg.br": 200,
@@ -1863,13 +1858,10 @@
    "https://camaramuriae.mg.gov.br": 200,
    "https://www.camarademuriae.mg.gov.br": "erro: URLError",
    "https://www.muriae.mg.gov.br": 404,
-   "https://muriae.mg.gov.br": "erro: URLError",
-   "https://www.pmmuriae.mg.gov.br": "erro: URLError",
-   "https://www.prefeituramuriae.mg.gov.br": "erro: URLError",
-   "https://prefeituramuriae.mg.gov.br": "erro: URLError",
+   "https://muriae.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/muriae": 403
   },
-  "sapl_normas": 8688,
+  "sapl_normas": 8696,
   "classificacao": "SAPL"
  },
  {
@@ -1878,17 +1870,25 @@
   "populacao": 103365,
   "sapl": "sapl.uba.mg.leg.br",
   "camara": "https://www.uba.mg.leg.br",
-  "prefeitura": "https://www.google.com/",
+  "prefeitura": "https://www.uba.mg.gov.br",
   "leismunicipais": null,
-  "plataformas": [],
-  "links": [],
+  "plataformas": [
+   "prefeitura:portalfacil"
+  ],
+  "links": [
+   {
+    "texto": "Legislação",
+    "url": "https://www.uba.mg.gov.br/legislacao",
+    "origem": "prefeitura"
+   }
+  ],
   "tentativas": {
    "https://sapl.uba.mg.leg.br": 200,
    "https://www.uba.mg.leg.br": 200,
    "https://www.uba.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/uba": 403
   },
-  "sapl_normas": 5831,
+  "sapl_normas": 5834,
   "classificacao": "SAPL"
  },
  {
@@ -1943,7 +1943,7 @@
    },
    {
     "texto": "Lei Orgânica Municipal     PDF   1,75 MB",
-    "url": "https://www.cmitauna.mg.gov.br/portal/download/arquivos/KnLx/",
+    "url": "https://www.cmitauna.mg.gov.br/portal/download/arquivos/ssLx/",
     "origem": "camara"
    },
    {
@@ -1975,7 +1975,7 @@
    "https://www.itauna.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/itauna": 403
   },
-  "sapl_normas": 7242,
+  "sapl_normas": 7243,
   "classificacao": "SAPL"
  },
  {
@@ -1983,13 +1983,95 @@
   "nome": "Pará de Minas",
   "populacao": 97139,
   "sapl": "sapl.parademinas.mg.leg.br",
-  "camara": null,
-  "prefeitura": "https://portal-novo.parademinas.mg.gov.br/",
+  "camara": "https://www.parademinas.mg.leg.br",
+  "prefeitura": "https://www.parademinas.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
+   "camara:betha",
+   "camara:sapl",
    "prefeitura:betha"
   ],
   "links": [
+   {
+    "texto": "Escola do Legislativo",
+    "url": "https://www.parademinas.mg.leg.br/noticias?secao=escola-do-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://www.parademinas.mg.leg.br/sapl/mesa-diretora",
+    "origem": "camara"
+   },
+   {
+    "texto": "Vereadores em exercício",
+    "url": "https://www.parademinas.mg.leg.br/sapl/parlamentares",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões",
+    "url": "https://www.parademinas.mg.leg.br/sapl/comissoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis",
+    "url": "https://leis.org/camara/mg/para-de-minas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica",
+    "url": "https://leis.org/camara/mg/para-de-minas/lei/lei-organica/1990/1/lei-organica-n-1-1990-lei-organica-do-municipio-de-para-de-minas-mg",
+    "origem": "camara"
+   },
+   {
+    "texto": "Regimento Interno",
+    "url": "https://leis.org/camara/mg/para-de-minas/lei/resolucao/2017/543/resolucao-n-543-2017-contem-o-regimento-interno-da-camara-municipal-de-para-de-minas?termo=regimento%20interno",
+    "origem": "camara"
+   },
+   {
+    "texto": "Estatuto do Servidor Público Municipal",
+    "url": "https://leis.org/camara/mg/para-de-minas/lei/lei-ordinaria/2011/5264/lei-ordinaria-n-5264-2011-dispoe-sobre-o-estatuto-do-servidor-publico-do-municipio-de-para-de-minas",
+    "origem": "camara"
+   },
+   {
+    "texto": "SAPL — Sistema de Apoio ao Processo Legislativo",
+    "url": "https://www.parademinas.mg.leg.br/sapl",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sessões Plenárias",
+    "url": "https://www.parademinas.mg.leg.br/sapl/sessoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Matérias Legislativas",
+    "url": "https://www.parademinas.mg.leg.br/sapl/materias",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pautas das Sessões",
+    "url": "https://www.parademinas.mg.leg.br/sapl/pautas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Banco de Ideias Legislativas",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScHPuYJmA83l9qpkb5Y_2HWUY4XJ5-nezJ97MHS8VITh1-ttQ/viewform",
+    "origem": "camara"
+   },
+   {
+    "texto": "Normas Jurídicas",
+    "url": "https://www.parademinas.mg.leg.br/sapl/normas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Relatórios",
+    "url": "https://www.parademinas.mg.leg.br/sapl/relatorios",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sistema Legislativo — SAPL",
+    "url": "https://sapl.parademinas.mg.leg.br/",
+    "origem": "camara"
+   },
    {
     "texto": "LEGISLAÇÃO",
     "url": "https://parademinas.mg.gov.br/legislacao/",
@@ -2008,13 +2090,7 @@
   ],
   "tentativas": {
    "https://sapl.parademinas.mg.leg.br": 200,
-   "https://www.parademinas.mg.leg.br": 500,
-   "https://parademinas.mg.leg.br": 500,
-   "https://www.cmparademinas.mg.gov.br": "erro: URLError",
-   "https://www.camaraparademinas.mg.gov.br": "erro: URLError",
-   "https://cmparademinas.mg.gov.br": "erro: URLError",
-   "https://camaraparademinas.mg.gov.br": "erro: URLError",
-   "https://www.camaradeparademinas.mg.gov.br": "erro: URLError",
+   "https://www.parademinas.mg.leg.br": 200,
    "https://www.parademinas.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/para-de-minas": 403
   },
@@ -2085,9 +2161,136 @@
   "prefeitura": "https://www.manhuacu.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
+   "camara:plone/interlegis",
+   "camara:sapl",
    "prefeitura:portalfacil"
   ],
   "links": [
+   {
+    "texto": "SAPL",
+    "url": "https://sapl.manhuacu.mg.leg.br/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Escola do Legislativo",
+    "url": "https://www.manhuacu.mg.leg.br/escola-do-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Processo Legislativo",
+    "url": "https://www.manhuacu.mg.leg.br/processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislaturas",
+    "url": "https://www.manhuacu.mg.leg.br/processo-legislativo/legislaturas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sistema do Processo Legislativo",
+    "url": "https://www.manhuacu.mg.leg.br/processo-legislativo/sistema-do-processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Vereadores",
+    "url": "https://www.manhuacu.mg.leg.br/processo-legislativo/legislaturas-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://www.manhuacu.mg.leg.br/processo-legislativo/mesa-diretora-da-camara-de-manhuacu",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões Temáticas",
+    "url": "https://www.manhuacu.mg.leg.br/processo-legislativo/comissoes-tematicas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sessões Plenárias",
+    "url": "https://www.manhuacu.mg.leg.br/processo-legislativo/sessoes-plenarias",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis",
+    "url": "https://www.manhuacu.mg.leg.br/leis",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis Municipais",
+    "url": "https://www.manhuacu.mg.leg.br/leis/leis-municipais",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica Municipal",
+    "url": "https://www.manhuacu.mg.leg.br/leis/lom",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Mineira",
+    "url": "https://www.almg.gov.br/consulte/legislacao/index.html",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Federal",
+    "url": "http://www.planalto.gov.br/legislacao",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Federal nº 14.129/2021 (Governo Digital)",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm",
+    "origem": "camara"
+   },
+   {
+    "texto": "Normas de Controle Interno",
+    "url": "https://www.manhuacu.mg.leg.br/transparencia/normas-de-controle-interno",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação sobre Diárias",
+    "url": "https://www.manhuacu.mg.leg.br/transparencia/legislacao-sobre-diarias",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei de Acesso a Informação",
+    "url": "http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+    "origem": "camara"
+   },
+   {
+    "texto": "Decreto Estadual nº 45.969/2012",
+    "url": "https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=45969&amp;ano=2012&amp;tipo=DEC",
+    "origem": "camara"
+   },
+   {
+    "texto": "Acesso - Ouvidoria Legislativa",
+    "url": "https://www.manhuacu.mg.leg.br/canal-aberto/ouvidoria-legislativa",
+    "origem": "camara"
+   },
+   {
+    "texto": "Assembleia Legislativa de Minas Gerais",
+    "url": "http://www.almg.gov.br",
+    "origem": "camara"
+   },
+   {
+    "texto": "Poder legislativo aprecia prestação de contas da prefeitura em audiência",
+    "url": "https://www.manhuacu.mg.leg.br/institucional/noticias/poder-legislativo-aprecia-prestacao-de-contas-da-prefeitura-em-audiencia",
+    "origem": "camara"
+   },
+   {
+    "texto": "Escola do Legislativo participa do projeto Educação e Cidadania",
+    "url": "https://www.manhuacu.mg.leg.br/institucional/noticias/escola-do-legislativo-participa-do-projeto-educacao-e-cidadania",
+    "origem": "camara"
+   },
+   {
+    "texto": "Escola do Legislativo",
+    "url": "https://www.manhuacu.mg.leg.br/escola-do-legislativo/escola-do-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.manhuacu.mg.leg.br/materia/pesquisar-materia",
+    "origem": "camara"
+   },
    {
     "texto": "Decretos",
     "url": "https://www.manhuacu.mg.gov.br/legislacao/tipo/4/decreto/",
@@ -2110,7 +2313,7 @@
    "https://www.manhuacu.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/manhuacu": 403
   },
-  "sapl_normas": 7225,
+  "sapl_normas": 7233,
   "classificacao": "SAPL"
  },
  {
@@ -2294,7 +2497,9 @@
    "https://sapl.caratinga.mg.gov.br": "erro: URLError",
    "https://www.caratinga.mg.leg.br": "erro: URLError",
    "https://caratinga.mg.leg.br": "erro: URLError",
-   "https://www.cmcaratinga.mg.gov.br": 200,
+   "https://www.cmcaratinga.mg.gov.br": "erro: URLError",
+   "https://www.camaracaratinga.mg.gov.br": "erro: URLError",
+   "https://cmcaratinga.mg.gov.br": 200,
    "https://www.caratinga.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/caratinga": 403
   },
@@ -2308,8 +2513,137 @@
   "camara": "https://www.unai.mg.leg.br",
   "prefeitura": "https://www.prefeituraunai.mg.gov.br",
   "leismunicipais": null,
-  "plataformas": [],
-  "links": [],
+  "plataformas": [
+   "camara:plone/interlegis",
+   "camara:sapl"
+  ],
+  "links": [
+   {
+    "texto": "Legislaturas",
+    "url": "https://www.unai.mg.leg.br/institucional/historia/legislaturas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Escola do Legislativo",
+    "url": "https://www.unai.mg.leg.br/institucional/escola-do-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Parlamento Jovem Minas 2025 - Unaí",
+    "url": "https://www.unai.mg.leg.br/institucional/escola-do-legislativo/parlamento-jovem-minas-2018-unai",
+    "origem": "camara"
+   },
+   {
+    "texto": "Cursos",
+    "url": "https://www.unai.mg.leg.br/institucional/escola-do-legislativo/cursos",
+    "origem": "camara"
+   },
+   {
+    "texto": "Processo Legislativo",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/mesa-diretora",
+    "origem": "camara"
+   },
+   {
+    "texto": "Vereadores",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/vereadores",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislaturas",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/legislaturas-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/comissoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pauta das Sessões",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/pauta-das-sessoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sessões Plenárias",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/sessoes-plenarias",
+    "origem": "camara"
+   },
+   {
+    "texto": "Matérias legislativas",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/materias-legislativas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Normas Jurídicas",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/normas-juridicas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Municipal",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/legislacao-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis",
+    "url": "https://www.unai.mg.leg.br/leis",
+    "origem": "camara"
+   },
+   {
+    "texto": "Estatuto Servidores Públicos",
+    "url": "https://www.unai.mg.leg.br/leis/estatuto-servidores-publicos-municipio-unai",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica Municipal",
+    "url": "https://www.unai.mg.leg.br/leis/lei-organica-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Código de Posturas",
+    "url": "https://www.unai.mg.leg.br/leis/codigo_de_posturas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Municipal",
+    "url": "https://www.unai.mg.leg.br/leis/legislacao-municipal-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Estadual",
+    "url": "http://www.almg.gov.br/consulte/legislacao/index.html?subaba=js_tabLegislacaoMineiraTemas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Federal",
+    "url": "http://www.planalto.gov.br/legislacao",
+    "origem": "camara"
+   },
+   {
+    "texto": "Diário Oficial do Estado",
+    "url": "https://www.almg.gov.br/transparencia/diario-do-legislativo/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Assembleia Legislativa",
+    "url": "http://www.almg.gov.br/home/index.html",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/parlamentares-1/carlinhos_demostenes",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://www.unai.mg.leg.br/processo-legislativo/parlamentares-1/felipe_ta_na_hora",
+    "origem": "camara"
+   }
+  ],
   "tentativas": {
    "https://sapl.unai.mg.leg.br": 200,
    "https://www.unai.mg.leg.br": 200,
@@ -2319,7 +2653,7 @@
    "https://www.prefeituraunai.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/unai": 403
   },
-  "sapl_normas": 11359,
+  "sapl_normas": 11364,
   "classificacao": "SAPL"
  },
  {
@@ -2331,22 +2665,103 @@
   "prefeitura": "https://www.esmeraldas.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
+   "camara:plone/interlegis",
    "prefeitura:instar"
   ],
   "links": [
+   {
+    "texto": "Processo Legislativo",
+    "url": "https://www.esmeraldas.mg.leg.br/processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Matérias Legislativas",
+    "url": "https://www.esmeraldas.mg.leg.br/processo-legislativo/materias-legislativas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sessões Plenárias",
+    "url": "https://www.esmeraldas.mg.leg.br/processo-legislativo/sessoes-plenarias",
+    "origem": "camara"
+   },
+   {
+    "texto": "Parlamentares",
+    "url": "https://www.esmeraldas.mg.leg.br/processo-legislativo/parlamentares",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislaturas",
+    "url": "https://www.esmeraldas.mg.leg.br/processo-legislativo/legislaturas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://www.esmeraldas.mg.leg.br/processo-legislativo/@@mesa-diretora",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões",
+    "url": "https://www.esmeraldas.mg.leg.br/processo-legislativo/comissoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis",
+    "url": "https://www.esmeraldas.mg.leg.br/leis",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica Municipal",
+    "url": "https://www.esmeraldas.mg.leg.br/leis/lei-organica-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Municipal",
+    "url": "https://www.esmeraldas.mg.leg.br/leis/legislacao-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Estadual",
+    "url": "http://leis.al.uf.leg.br",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Federal",
+    "url": "http://www.planalto.gov.br/legislacao",
+    "origem": "camara"
+   },
+   {
+    "texto": "Assembleia Legislativa",
+    "url": "http://www.al.uf.leg.br",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei de Acesso à Informação",
+    "url": "http://www.acessoainformacao.gov.br/assuntos/conheca-seu-direito/a-lei-de-acesso-a-informacao",
+    "origem": "camara"
+   },
+   {
+    "texto": "TV Legislativa",
+    "url": "https://www.esmeraldas.mg.leg.br/institucional/videos",
+    "origem": "camara"
+   },
+   {
+    "texto": "Rádio Legislativa",
+    "url": "https://www.esmeraldas.mg.leg.br/institucional/audios/view",
+    "origem": "camara"
+   },
+   {
+    "texto": "Prefeitura de Esmeraldas terá expediente normal no Dia do Servidor Público      ",
+    "url": "https://www.esmeraldas.mg.gov.br/portal/noticias/0/3/7898/prefeitura-de-esmeraldas-tera-expediente-normal-no-dia-do-servidor-publico",
+    "origem": "prefeitura"
+   },
    {
     "texto": "Legislação     Clique para acessar",
     "url": "https://www.esmeraldas.mg.gov.br/portal/leis_decretos",
     "origem": "prefeitura"
    },
    {
-    "texto": "Chefe de Gabinete do Prefeito     Weslei Araújo",
-    "url": "https://www.esmeraldas.mg.gov.br/portal/secretarias/21/chefe-de-gabinete-do-prefeito",
-    "origem": "prefeitura"
-   },
-   {
     "texto": "Formulário para recebimento de benefício Lei         08 de Abr de 2026       DOC",
-    "url": "https://www.esmeraldas.mg.gov.br/portal/download/arquivos/hsT-wL/",
+    "url": "https://www.esmeraldas.mg.gov.br/portal/download/arquivos/hRT-wL/",
     "origem": "prefeitura"
    }
   ],
@@ -2388,7 +2803,7 @@
    "https://www.timoteo.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/timoteo": 403
   },
-  "sapl_normas": 8588,
+  "sapl_normas": 8589,
   "classificacao": "SAPL"
  },
  {
@@ -2403,36 +2818,6 @@
    "prefeitura:leismunicipais"
   ],
   "links": [
-   {
-    "texto": "Organograma",
-    "url": "https://cmcurvelo.mg.gov.br/transparencia/Estrutura%20e%20Norma%20Organizacional",
-    "origem": "camara"
-   },
-   {
-    "texto": "Escola do Legislativo",
-    "url": "https://cmcurvelo.mg.gov.br/Atividades/escola",
-    "origem": "camara"
-   },
-   {
-    "texto": "Atos Normativos",
-    "url": "https://cmcurvelo.mg.gov.br/atos",
-    "origem": "camara"
-   },
-   {
-    "texto": "Leis Municipais",
-    "url": "https://cmcurvelo.mg.gov.br/leis",
-    "origem": "camara"
-   },
-   {
-    "texto": "Legisla&#xE7;&#xF5;es Espec&#xED;ficas",
-    "url": "https://cmcurvelo.mg.gov.br/Transparencia/legislacao%20especifica",
-    "origem": "camara"
-   },
-   {
-    "texto": "Regulamenta&#xE7;&#xE3;o da LAI",
-    "url": "https://cmcurvelo.mg.gov.br/lei/232266275",
-    "origem": "camara"
-   },
    {
     "texto": "Feriados Religiosos Municipais",
     "url": "https://leismunicipais.com.br/a1/feriados-religiosos-curvelo-mg",
@@ -2690,13 +3075,96 @@
   "nome": "Lagoa Santa",
   "populacao": 75145,
   "sapl": null,
-  "camara": null,
+  "camara": "https://www.cmlagoasanta.mg.gov.br",
   "prefeitura": "https://www.lagoasanta.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
+   "camara:betha",
+   "camara:leismunicipais",
+   "camara:portalfacil",
    "prefeitura:betha"
   ],
   "links": [
+   {
+    "texto": "Constituição Estadual",
+    "url": "https://www.almg.gov.br/atividade-parlamentar/leis/constituicao-estadual",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Municipal",
+    "url": "https://www.leismunicipais.com.br/prefeitura/mg/lagoa-santa",
+    "origem": "camara"
+   },
+   {
+    "texto": "Decretos",
+    "url": "https://www.cmlagoasanta.mg.gov.br/legislacao/tipo/26/decreto/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Portarias",
+    "url": "https://www.cmlagoasanta.mg.gov.br/legislacao/tipo/20/portarias/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Resoluções",
+    "url": "https://www.cmlagoasanta.mg.gov.br/legislacao/tipo/23/resolucao/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Resoluções MD",
+    "url": "https://www.cmlagoasanta.mg.gov.br/legislacao/tipo/30/resolucao-md/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Atos",
+    "url": "https://www.cmlagoasanta.mg.gov.br/legislacao/tipo/31/atos/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica",
+    "url": "https://leismunicipais.com.br/a1/lei-organica-lagoa-santa-mg",
+    "origem": "camara"
+   },
+   {
+    "texto": "Emendas à Lei Orgânica",
+    "url": "https://www.cmlagoasanta.mg.gov.br/legislacao/tipo/27/emenda-a-lei-organica/",
+    "origem": "camara"
+   },
+   {
+    "texto": "LDO - Lei de Diretrizes Orçamentárias",
+    "url": "https://www.lagoasanta.mg.gov.br/orcamento-publico/ldo",
+    "origem": "camara"
+   },
+   {
+    "texto": "LOA - Lei Orçamentária Anual",
+    "url": "https://www.lagoasanta.mg.gov.br/orcamento-publico/loa",
+    "origem": "camara"
+   },
+   {
+    "texto": "Projetos em Tramitação",
+    "url": "https://www.cmlagoasanta.mg.gov.br/materias-legislativas/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Banco de Idéias Legislativas",
+    "url": "https://www.cmlagoasanta.mg.gov.br/detalhe-da-materia/info/37148/banco-de-ideias-legislativas/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Escola do Legislativo",
+    "url": "https://www.cmlagoasanta.mg.gov.br/detalhe-da-materia/info/67524/escola-do-legislativo/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Municipal  Leis, decretos, portarias e resoluções",
+    "url": "https://www.cmlagoasanta.mg.gov.br/legislacao",
+    "origem": "camara"
+   },
+   {
+    "texto": "Projetos e Proposições  Tramitação das matérias em plenário",
+    "url": "https://www.cmlagoasanta.mg.gov.br/materias-legislativas",
+    "origem": "camara"
+   },
    {
     "texto": "Legislação",
     "url": "https://www.lagoasanta.mg.gov.br/legislacao",
@@ -2785,15 +3253,11 @@
    "https://sapl.lagoasanta.mg.gov.br": "erro: URLError",
    "https://www.lagoasanta.mg.leg.br": "erro: URLError",
    "https://lagoasanta.mg.leg.br": "erro: URLError",
-   "https://www.cmlagoasanta.mg.gov.br": 403,
-   "https://www.camaralagoasanta.mg.gov.br": "erro: URLError",
-   "https://cmlagoasanta.mg.gov.br": 403,
-   "https://camaralagoasanta.mg.gov.br": "erro: URLError",
-   "https://www.camaradelagoasanta.mg.gov.br": "erro: URLError",
+   "https://www.cmlagoasanta.mg.gov.br": 200,
    "https://www.lagoasanta.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/lagoa-santa": 403
   },
-  "classificacao": "Betha"
+  "classificacao": "Leis Municipais"
  },
  {
   "codigo_ibge": "3146107",
@@ -2898,32 +3362,32 @@
    },
    {
     "texto": "PDF",
-    "url": "https://janauba.mg.gov.br/public/storage/legislacao/portarias/2026-162.pdf",
+    "url": "https://janauba.mg.gov.br/public/storage/legislacao/portarias/2026-165.pdf",
     "origem": "prefeitura"
    },
    {
     "texto": "HTML",
-    "url": "https://janauba.mg.gov.br/transparencia/legislacao/html/portaria-162-2026",
+    "url": "https://janauba.mg.gov.br/transparencia/legislacao/html/portaria-165-2026",
     "origem": "prefeitura"
    },
    {
     "texto": "PDF",
-    "url": "https://janauba.mg.gov.br/public/storage/legislacao/portarias/2026-161.pdf",
+    "url": "https://janauba.mg.gov.br/public/storage/legislacao/portarias/2026-166.pdf",
     "origem": "prefeitura"
    },
    {
     "texto": "HTML",
-    "url": "https://janauba.mg.gov.br/transparencia/legislacao/html/portaria-161-2026",
+    "url": "https://janauba.mg.gov.br/transparencia/legislacao/html/portaria-166-2026",
     "origem": "prefeitura"
    },
    {
     "texto": "PDF",
-    "url": "https://janauba.mg.gov.br/public/storage/legislacao/portarias/2026-160.pdf",
+    "url": "https://janauba.mg.gov.br/public/storage/legislacao/decretos/2026-092.pdf",
     "origem": "prefeitura"
    },
    {
     "texto": "HTML",
-    "url": "https://janauba.mg.gov.br/transparencia/legislacao/html/portaria-160-2026",
+    "url": "https://janauba.mg.gov.br/transparencia/legislacao/html/decreto-092-2026",
     "origem": "prefeitura"
    }
   ],
@@ -2956,7 +3420,13 @@
    "prefeitura:betha",
    "prefeitura:plone/interlegis"
   ],
-  "links": [],
+  "links": [
+   {
+    "texto": "INFRAESTRUTURA E AMBIENTE   Coleta de lixo será realizada normalmente durante o ",
+    "url": "https://www.formiga.mg.gov.br/noticias/coleta-de-lixo-sera-realizada-normalmente-durante-o-ponto-facultativo-e-o-feriado-de-finados-em-formiga",
+    "origem": "prefeitura"
+   }
+  ],
   "tentativas": {
    "https://sapl.formiga.mg.leg.br": 200,
    "https://www.formiga.mg.leg.br": 200,
@@ -3029,9 +3499,136 @@
   "prefeitura": "https://www.januaria.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
+   "camara:plone/interlegis",
+   "camara:sapl",
    "prefeitura:instar"
   ],
   "links": [
+   {
+    "texto": "Câmara Municipal de Januária   Casa Legislativa",
+    "url": "https://www.januaria.mg.leg.br",
+    "origem": "camara"
+   },
+   {
+    "texto": "Escola do Legislativo",
+    "url": "https://www.januaria.mg.leg.br/institucional/escola-do-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Processo Legislativo",
+    "url": "https://www.januaria.mg.leg.br/processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Matérias Legislativas",
+    "url": "https://sapl.januaria.mg.leg.br/materia/pesquisar-materia",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sessões Plenárias",
+    "url": "https://sapl.januaria.mg.leg.br/sessao/pesquisar-sessao?data_inicio__year=2025",
+    "origem": "camara"
+   },
+   {
+    "texto": "Parlamentares",
+    "url": "https://www.januaria.mg.leg.br/processo-legislativo/parlamentares-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://www.januaria.mg.leg.br/processo-legislativo/mesa-diretora-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões",
+    "url": "https://www.januaria.mg.leg.br/processo-legislativo/comissoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislatura",
+    "url": "https://www.januaria.mg.leg.br/processo-legislativo/legislatura",
+    "origem": "camara"
+   },
+   {
+    "texto": "Emendas Impositivas",
+    "url": "https://www.januaria.mg.leg.br/processo-legislativo/emendas-impositivas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Prestação de Contas do Executivo",
+    "url": "https://www.januaria.mg.leg.br/processo-legislativo/prestacao-de-contas-do-executivo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Calendário de Sessões Ordinárias 2026",
+    "url": "https://www.januaria.mg.leg.br/processo-legislativo/calendario-de-sessoes-ordinarias-2026",
+    "origem": "camara"
+   },
+   {
+    "texto": "Normas Jurídicas",
+    "url": "https://www.januaria.mg.leg.br/leis",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica Municipal",
+    "url": "https://www.januaria.mg.leg.br/leis/lei-organica-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis Ordinárias",
+    "url": "https://www.januaria.mg.leg.br/leis/leis-ordinarias",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis Complementares",
+    "url": "https://www.januaria.mg.leg.br/leis/legislacao-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Decretos Legislativo",
+    "url": "https://www.januaria.mg.leg.br/leis/decretos-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Resoluções",
+    "url": "https://www.januaria.mg.leg.br/leis/resolucoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Assembleia Legislativa",
+    "url": "https://www.almg.gov.br/home/index.html",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.januaria.mg.leg.br/parlamentar/2",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.januaria.mg.leg.br/parlamentar/31",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.januaria.mg.leg.br/parlamentar/3",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.januaria.mg.leg.br/parlamentar/4",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.januaria.mg.leg.br/parlamentar/30",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.januaria.mg.leg.br/parlamentar/6",
+    "origem": "camara"
+   },
    {
     "texto": "Legislação",
     "url": "https://www.januaria.mg.gov.br/portal/leis_decretos/",
@@ -3070,8 +3667,137 @@
   "camara": "https://www.pedroleopoldo.mg.leg.br",
   "prefeitura": "https://pl.mg.gov.br/",
   "leismunicipais": null,
-  "plataformas": [],
+  "plataformas": [
+   "camara:plone/interlegis",
+   "camara:sapl",
+   "prefeitura:portalfacil"
+  ],
   "links": [
+   {
+    "texto": "ATIVIDADES LEGISLATIVAS",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pauta das Sessões",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/pauta-das-sessoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pautas Sessões Ordinárias e Extraordinárias 2026",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/pauta-das-sessoes/pautas-sessoes-ordinarias-e-extraordinarias-2026",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pautas Sessões Ordinárias e Extraordinárias 2025",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/pauta-das-sessoes/pautas-sessoes-ordinarias-e-extraordinarias-2025",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pautas Sessões Ordinárias e Extraordinárias 2024",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/pauta-das-sessoes/pautas-sessoes-ordinarias-e-extraordinarias-2024",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pautas Sessões Ordinárias e Extraordinárias 2023",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/pauta-das-sessoes/pautas-sessoes-ordinarias-e-extraordinarias-2023",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pautas Sessões Ordinárias e Extraordinárias 2022",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/pauta-das-sessoes/pautas-sessoes-ordinarias-e-extraordinarias-2022",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pautas Sessões Ordinárias e Extraordinárias 2021",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/pauta-das-sessoes/sessoes-ordinarias-2021",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pautas Sessões Ordinárias e Extraordinárias 2020",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/pauta-das-sessoes/2020",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pautas Sessões Ordinárias e Extraordinárias 2019",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/pauta-das-sessoes/2019",
+    "origem": "camara"
+   },
+   {
+    "texto": "Pautas Sessões Solenes",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/pauta-das-sessoes/pautas-sessoes-solenes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Atas das Sessões",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/atas-das-sessoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Atas Sessões Ordinárias e Extraordinárias 2026",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/atas-das-sessoes/atas-sessoes-ordinarias-e-extraordinarias-2026",
+    "origem": "camara"
+   },
+   {
+    "texto": "Atas Sessões Ordinárias e Extraordinárias 2025",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/atas-das-sessoes/atas-sessoes-ordinarias-e-extraordinarias-2025",
+    "origem": "camara"
+   },
+   {
+    "texto": "Atas Sessões Ordinárias e Extraordinárias 2024",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/atas-das-sessoes/atas-sessoes-ordinarias-e-extraordinarias-2024",
+    "origem": "camara"
+   },
+   {
+    "texto": "Atas Sessões Ordinárias e Extraordinárias 2023",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/atas-das-sessoes/atas-sessoes-ordinarias-e-extraordinarias-2023",
+    "origem": "camara"
+   },
+   {
+    "texto": "Atas Sessões Ordinárias e Extraordinárias 2022",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/atas-das-sessoes/atas-sessoes-ordinarias-e-extraordinarias-2022",
+    "origem": "camara"
+   },
+   {
+    "texto": "Atas Sessões Ordinárias e Extraordinárias 2021",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/atas-das-sessoes/atas-sessoes-ordinarias-2021",
+    "origem": "camara"
+   },
+   {
+    "texto": "Atas Sessões Ordinárias e Extraordinárias 2020",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/atas-das-sessoes/atas-sessoes-ordinarias-e-extraordinarias-2020",
+    "origem": "camara"
+   },
+   {
+    "texto": "Atas Sessões Ordinárias e Extraordinárias 2019",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/atas-das-sessoes/atas-sessoes-ordinarias-e-extraordinarias-2019",
+    "origem": "camara"
+   },
+   {
+    "texto": "Matérias Legislativas",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/materias-legislativas-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Normas Jurídicas",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/normas-juridicas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/comissoes-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Termo de Posse",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/termo-de-posse",
+    "origem": "camara"
+   },
+   {
+    "texto": "22ª Legislatura 2021 - 2024",
+    "url": "https://www.pedroleopoldo.mg.leg.br/processo-legislativo/termo-de-posse/2021",
+    "origem": "camara"
+   },
    {
     "texto": "LAI – Lei de Acesso à Informação",
     "url": "https://pl.mg.gov.br/prefeitura/lei-de-acesso-a-informacao/",
@@ -3301,15 +4027,144 @@
   "camara": "https://www.pontenova.mg.leg.br",
   "prefeitura": "https://www.google.com/",
   "leismunicipais": null,
-  "plataformas": [],
-  "links": [],
+  "plataformas": [
+   "camara:plone/interlegis",
+   "camara:sapl"
+  ],
+  "links": [
+   {
+    "texto": "Escola do Legislativo",
+    "url": "https://www.pontenova.mg.leg.br/institucional/escola-do-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Minuto Legislativo",
+    "url": "https://www.pontenova.mg.leg.br/institucional/minuto-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Processo Legislativo",
+    "url": "https://www.pontenova.mg.leg.br/processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislaturas",
+    "url": "https://www.pontenova.mg.leg.br/processo-legislativo/legislaturas-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://www.pontenova.mg.leg.br/processo-legislativo/mesa-diretora-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões",
+    "url": "https://www.pontenova.mg.leg.br/processo-legislativo/comissoes-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Projetos e Indicações",
+    "url": "https://www.pontenova.mg.leg.br/processo-legislativo/materias-legislativas-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sessão Plenária",
+    "url": "https://www.pontenova.mg.leg.br/processo-legislativo/sessao-plenaria",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis",
+    "url": "https://www.pontenova.mg.leg.br/leis",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica Municipal",
+    "url": "https://www.pontenova.mg.leg.br/leis/lei-organica-municipal-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Municipal",
+    "url": "https://www.pontenova.mg.leg.br/leis/legislacao-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis Municipais até 2007",
+    "url": "http://www.camarapontenova.mg.gov.br/legislacao.asp",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Estadual",
+    "url": "https://www.almg.gov.br/consulte/legislacao/index.html",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Federal",
+    "url": "http://www.planalto.gov.br/legislacao",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis Mais Consultadas",
+    "url": "https://www.pontenova.mg.leg.br/leis/leis-mais-consultadas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Assembleia Legislativa",
+    "url": "https://www.almg.gov.br/home/index.html",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.pontenova.mg.leg.br/materia/pesquisar-materia",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.pontenova.mg.leg.br/sessao/pesquisar-sessao",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.pontenova.mg.leg.br/parlamentar/48",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.pontenova.mg.leg.br/parlamentar/37",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.pontenova.mg.leg.br/parlamentar/50",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.pontenova.mg.leg.br/parlamentar/51",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.pontenova.mg.leg.br/parlamentar/52",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.pontenova.mg.leg.br/parlamentar/53",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.pontenova.mg.leg.br/parlamentar/49",
+    "origem": "camara"
+   }
+  ],
   "tentativas": {
    "https://sapl.pontenova.mg.leg.br": 200,
    "https://www.pontenova.mg.leg.br": 200,
    "https://www.pontenova.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/ponte-nova": 403
   },
-  "sapl_normas": 9107,
+  "sapl_normas": 9115,
   "classificacao": "SAPL"
  },
  {
@@ -3358,6 +4213,11 @@
    {
     "texto": "- Legislação",
     "url": "http://www.pirapora.mg.gov.br/legislacao",
+    "origem": "prefeitura"
+   },
+   {
+    "texto": "",
+    "url": "https://www.pirapora.mg.gov.br/noticia/5763/pirapora-avanca-na-alfabetizacao-conheca-as-leis-acoes-e-equipes-que-garantem-o-direito-de-ler-e-escrever-na-idade-certa/",
     "origem": "prefeitura"
    },
    {
@@ -3458,6 +4318,11 @@
     "origem": "camara"
    },
    {
+    "texto": "Legislativo aprova projetos para a Saúde e a Educação no município",
+    "url": "https://www.camaratrespontas.mg.gov.br/noticias/legislativo-aprova-projetos-para-a-saude-e-a-educacao-no-municipio",
+    "origem": "camara"
+   },
+   {
     "texto": "Escola do Legislativo entrega certificados e encerra edição 2026 do Parlamento J",
     "url": "https://www.camaratrespontas.mg.gov.br/noticias/escola-do-legislativo-entrega-certificados-e-encerra-edicao-2026-do-parlamento-jovem-em-tres-pontas",
     "origem": "camara"
@@ -3470,11 +4335,6 @@
    {
     "texto": "06  10       Legislativo aprova R$ 1,8 milhão para a Educação em Tempo Integral ",
     "url": "https://www.camaratrespontas.mg.gov.br/noticias/legislativo-aprova-r-1-8-milhao-para-a-educacao-em-tempo-integral-no-municipio",
-    "origem": "camara"
-   },
-   {
-    "texto": "22  09       Legislativo aprova recursos para melhorias da Praça do Padre Victor",
-    "url": "https://www.camaratrespontas.mg.gov.br/noticias/legislativo-aprova-recursos-para-melhorias-da-praca-do-padre-victor-e-do-parque-vale-do-sol-",
     "origem": "camara"
    },
    {
@@ -3736,7 +4596,7 @@
    "https://prefeituraitabirito.mg.gov.br": "erro: URLError",
    "https://leismunicipais.com.br/prefeitura/mg/itabirito": 403
   },
-  "sapl_normas": 5241,
+  "sapl_normas": 5249,
   "classificacao": "SAPL"
  },
  {
@@ -3832,6 +4692,11 @@
    },
    {
     "texto": "",
+    "url": "https://www.congonhas.mg.leg.br/institucional/noticias/camara-aprova-novas-regras-que-limitam-o-uso-de-recursos-extras-do-orcamento-pela-prefeitura-sem-autorizacao-legislativa",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
     "url": "https://www.congonhas.mg.leg.br/institucional/noticias/vereadora-propoe-projeto-de-lei-que-obriga-clinicas-veterinarias-e-pet-shops-a-comunicar-suspeitas-de-maus-tratos-a-animais",
     "origem": "camara"
    },
@@ -3843,26 +4708,6 @@
    {
     "texto": "",
     "url": "https://www.congonhas.mg.leg.br/institucional/noticias/promulgada-lei-que-autoriza-a-disponibilizacao-de-interpretes-de-libras-em-sessoes-atos-publicos-oficiais-e-eventos-culturais-de-congonhas",
-    "origem": "camara"
-   },
-   {
-    "texto": "",
-    "url": "https://www.congonhas.mg.leg.br/institucional/noticias/legislacao-municipal-determina-percentual-minimo-de-brinquedos-e-aparelhos-de-academia-ao-ar-livre-adaptados-em-espacos-publicos",
-    "origem": "camara"
-   },
-   {
-    "texto": "",
-    "url": "https://www.congonhas.mg.leg.br/institucional/noticias/nova-lei-torna-obrigatoria-capacitacao-de-profissionais-das-escolas-publicas-e-privadas-de-congonhas-para-atendimento-a-criancas-com-tea-em-situacoes-de-crise",
-    "origem": "camara"
-   },
-   {
-    "texto": "",
-    "url": "https://www.congonhas.mg.leg.br/institucional/noticias/lei-proibe-veiculos-sem-condicoes-de-uso-nas-vias-publicas-de-congonhas-e-preve-multa-e-remocao",
-    "origem": "camara"
-   },
-   {
-    "texto": "",
-    "url": "https://www.congonhas.mg.leg.br/institucional/noticias/lei-obriga-escolas-publicas-de-congonhas-a-ensinar-a-lei-sansao-e-conscientizar-sobre-maus-tratos-aos-animais",
     "origem": "camara"
    },
    {
@@ -3882,7 +4727,7 @@
    "https://www.congonhas.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/congonhas": 403
   },
-  "sapl_normas": 9346,
+  "sapl_normas": 9358,
   "classificacao": "SAPL"
  },
  {
@@ -4018,7 +4863,7 @@
    "https://www.bomdespacho.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/bom-despacho": 403
   },
-  "sapl_normas": 2956,
+  "sapl_normas": 2958,
   "classificacao": "SAPL"
  },
  {
@@ -4087,7 +4932,7 @@
    "https://www.lagoadaprata.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/lagoa-da-prata": 403
   },
-  "sapl_normas": 6512,
+  "sapl_normas": 6515,
   "classificacao": "SAPL"
  },
  {
@@ -4229,26 +5074,6 @@
   ],
   "links": [
    {
-    "texto": "Atos Normativos",
-    "url": "https://cmdiamantina.mg.gov.br/Atos/1",
-    "origem": "camara"
-   },
-   {
-    "texto": "Legisla&#xE7;&#xE3;o Municipal",
-    "url": "https://cmdiamantina.mg.gov.br/leis",
-    "origem": "camara"
-   },
-   {
-    "texto": "Legisla&#xE7;&#xF5;es Espec&#xED;ficas",
-    "url": "https://cmdiamantina.mg.gov.br/transparencia/legislacoes",
-    "origem": "camara"
-   },
-   {
-    "texto": "Fale com o Legislativo",
-    "url": "https://cmdiamantina.mg.gov.br/contatos",
-    "origem": "camara"
-   },
-   {
     "texto": "Legislações     CLIQUE PARA ACESSAR          Ver mais",
     "url": "https://www.diamantina.mg.gov.br/portal/leis_decretos/",
     "origem": "prefeitura"
@@ -4280,17 +5105,22 @@
   ],
   "links": [
    {
-    "texto": "31ª Reunião Ordinária de 2026         19 de Outubro de 2026            36   visu",
+    "texto": "32ª Reunião Ordinária de 2026         26 de Outubro de 2026            40   visu",
+    "url": "https://www.camaramontecarmelo.mg.gov.br/portal/noticias/0/3/1917/32-reuniao-ordinaria-de-2026",
+    "origem": "camara"
+   },
+   {
+    "texto": "31ª Reunião Ordinária de 2026         19 de Outubro de 2026            71   visu",
     "url": "https://www.camaramontecarmelo.mg.gov.br/portal/noticias/0/3/1915/31-reuniao-ordinaria-de-2026",
     "origem": "camara"
    },
    {
-    "texto": "30ª Reunião Ordinária de 2026         13 de Outubro de 2026            64   visu",
+    "texto": "30ª Reunião Ordinária de 2026         13 de Outubro de 2026            76   visu",
     "url": "https://www.camaramontecarmelo.mg.gov.br/portal/noticias/0/3/1913/30-reuniao-ordinaria-de-2026",
     "origem": "camara"
    },
    {
-    "texto": "29ª Reunião Ordinária de 2026         07 de Outubro de 2026            85   visu",
+    "texto": "29ª Reunião Ordinária de 2026         07 de Outubro de 2026            109   vis",
     "url": "https://www.camaramontecarmelo.mg.gov.br/portal/noticias/0/3/1912/29-reuniao-ordinaria-de-2026",
     "origem": "camara"
    },
@@ -4312,11 +5142,6 @@
    {
     "texto": "24ª Reunião Ordinária de 2026         24 de Agosto de 2026         REUNIÕES     ",
     "url": "https://www.camaramontecarmelo.mg.gov.br/portal/noticias/0/3/1899/24-reuniao-ordinaria-de-2026",
-    "origem": "camara"
-   },
-   {
-    "texto": "23ª Reunião Ordinária de 2026         17 de Agosto de 2026         REUNIÕES     ",
-    "url": "https://www.camaramontecarmelo.mg.gov.br/portal/noticias/0/3/1897/23-reuniao-ordinaria-de-2026",
     "origem": "camara"
    },
    {
@@ -4567,50 +5392,178 @@
   "populacao": 44800,
   "sapl": "sapl.santanadoparaiso.mg.leg.br",
   "camara": "https://www.santanadoparaiso.mg.leg.br",
-  "prefeitura": "https://santanadoparaiso.mg.gov.br",
+  "prefeitura": "https://www.santanadoparaiso.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
+   "camara:betha",
+   "camara:plone/interlegis",
+   "camara:sapl",
    "prefeitura:portalfacil"
   ],
   "links": [
    {
+    "texto": "Vereadores",
+    "url": "https://www.santanadoparaiso.mg.leg.br/processo-legislativo/legislaturas-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação",
+    "url": "https://www.santanadoparaiso.mg.leg.br/leis",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica Municipal",
+    "url": "https://www.santanadoparaiso.mg.leg.br/leis/lei-organica-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Municipal",
+    "url": "https://www.santanadoparaiso.mg.leg.br/leis/legislacao-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Resoluções",
+    "url": "https://www.santanadoparaiso.mg.leg.br/leis/resolucoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Estadual",
+    "url": "https://www.almg.gov.br/atividade-parlamentar/leis/legislacao-mineira/",
+    "origem": "camara"
+   },
+   {
+    "texto": "LOA 2026",
+    "url": "https://www.santanadoparaiso.mg.leg.br/leis/loa-2026",
+    "origem": "camara"
+   },
+   {
+    "texto": "LDO 2026",
+    "url": "https://www.santanadoparaiso.mg.leg.br/leis/ldo-2026-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "PPA 2026-2029",
+    "url": "https://www.santanadoparaiso.mg.leg.br/leis/ppa-2026-2029",
+    "origem": "camara"
+   },
+   {
+    "texto": "LDO 2027",
+    "url": "https://www.santanadoparaiso.mg.leg.br/leis/ldo-2027",
+    "origem": "camara"
+   },
+   {
+    "texto": "Estatuto dos Servidores do Município de Santana do Paraíso",
+    "url": "https://www.santanadoparaiso.mg.leg.br/leis/estatuto-dos-servidores-do-municipio-de-santana-do-paraiso-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Verbas de Gabinete/Atividades Parlamentares",
+    "url": "https://sapl.santanadoparaiso.mg.leg.br/media/sapl/public/normajuridica/2016/1240/resolucao_306_2016.pdf",
+    "origem": "camara"
+   },
+   {
+    "texto": "SIC - Lei de Acesso à Informação - Lei nº 12.527/2011",
+    "url": "https://www.santanadoparaiso.mg.leg.br/transparencia/lei-de-acesso-a-informacao-lei-no-12-527-2011",
+    "origem": "camara"
+   },
+   {
+    "texto": "Norma sobre a Lei de Acesso à Informação",
+    "url": "https://sapl.santanadoparaiso.mg.leg.br/media/sapl/public/normajuridica/2025/1696/resolucao_478_2025.pdf",
+    "origem": "camara"
+   },
+   {
+    "texto": "Resoluções sobre a Prestação de Contas no Município",
+    "url": "https://sapl.santanadoparaiso.mg.leg.br/norma/pesquisar?tipo=&amp;numero=&amp;ano=&amp;data_0=&amp;data_1=&amp;data_publicacao_0=&amp;data_publicacao_1=&amp;ementa=Presta%C3%A7%C3%A3o+de+Contas&amp;assuntos=&amp;data_vigencia_0=&amp;data_vigencia_1=&amp;orgao=&amp;o=&amp;indexacao=&amp;autorianorma__autor=&amp;autorianorma__primeiro_autor=unknown&amp;autorianorma__autor__tipo=&amp;autorianorma__autor__parlamentar_set__filiacao__partido=&amp;salvar=Pesquisar",
+    "origem": "camara"
+   },
+   {
+    "texto": "Processo Legislativo",
+    "url": "https://www.santanadoparaiso.mg.leg.br/processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://www.santanadoparaiso.mg.leg.br/processo-legislativo/mesa-diretora-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões Legislativas",
+    "url": "https://www.santanadoparaiso.mg.leg.br/processo-legislativo/comissoes-legislativas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Matérias Legislativas",
+    "url": "https://www.santanadoparaiso.mg.leg.br/processo-legislativo/materias-legislativas-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Projetos de Lei Ordinária",
+    "url": "https://www.santanadoparaiso.mg.leg.br/processo-legislativo/projetos-de-lei-ordinaria",
+    "origem": "camara"
+   },
+   {
+    "texto": "Projetos de Resolução",
+    "url": "https://www.santanadoparaiso.mg.leg.br/processo-legislativo/projeto-de-resolucao",
+    "origem": "camara"
+   },
+   {
+    "texto": "Portarias",
+    "url": "https://www.santanadoparaiso.mg.leg.br/processo-legislativo/portaria",
+    "origem": "camara"
+   },
+   {
+    "texto": "Moção de Aplausos",
+    "url": "https://www.santanadoparaiso.mg.leg.br/processo-legislativo/mocao-de-aplausos",
+    "origem": "camara"
+   },
+   {
+    "texto": "SAPL - Sistema de Apoio ao Processo Legislativo",
+    "url": "https://www.santanadoparaiso.mg.leg.br/processo-legislativo/sapl-sistema-de-apoio-ao-processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Protocolo Legislativo",
+    "url": "https://santanadoparaiso.1doc.com.br/b.php?s=santanadoparaiso&amp;pg=o/wp&amp;erro=t",
+    "origem": "camara"
+   },
+   {
     "texto": "DECRETOS",
-    "url": "https://santanadoparaiso.mg.gov.br/legislacao/tipo/9/decreto/",
+    "url": "https://www.santanadoparaiso.mg.gov.br/legislacao/tipo/9/decreto/",
     "origem": "prefeitura"
    },
    {
     "texto": "PORTARIAS",
-    "url": "https://santanadoparaiso.mg.gov.br/legislacao/tipo/17/portaria/",
+    "url": "https://www.santanadoparaiso.mg.gov.br/legislacao/tipo/17/portaria/",
     "origem": "prefeitura"
    },
    {
     "texto": "LEI ORGÂNICA",
-    "url": "https://santanadoparaiso.mg.gov.br/legislacao/tipo/2/lei-organica/",
+    "url": "https://www.santanadoparaiso.mg.gov.br/legislacao/tipo/2/lei-organica/",
     "origem": "prefeitura"
    },
    {
     "texto": "LEIS ORDINÁRIAS",
-    "url": "https://santanadoparaiso.mg.gov.br/legislacao/tipo/10/lei-ordinaria/",
+    "url": "https://www.santanadoparaiso.mg.gov.br/legislacao/tipo/10/lei-ordinaria/",
     "origem": "prefeitura"
    },
    {
     "texto": "INSTRUÇÕES NORMATIVAS",
-    "url": "https://santanadoparaiso.mg.gov.br/legislacao/tipo/29/instrucao-normativa/",
+    "url": "https://www.santanadoparaiso.mg.gov.br/legislacao/tipo/29/instrucao-normativa/",
     "origem": "prefeitura"
    },
    {
     "texto": "Critérios CEMEI  Regras de priorização para vagas em CEMEIs",
-    "url": "https://santanadoparaiso.mg.gov.br/extra/abrir-arquivo/legislacao/%7BCDB50AB2-DBCC-EB1A-0DD5-AA507AEEADC6%7D/",
+    "url": "https://www.santanadoparaiso.mg.gov.br/extra/abrir-arquivo/legislacao/%7BCDB50AB2-DBCC-EB1A-0DD5-AA507AEEADC6%7D/",
     "origem": "prefeitura"
    },
    {
     "texto": "Decretos  Decretos publicados pela administração municipal",
-    "url": "https://santanadoparaiso.mg.gov.br/legislacao/tipo/9/decreto",
+    "url": "https://www.santanadoparaiso.mg.gov.br/legislacao/tipo/9/decreto",
     "origem": "prefeitura"
    },
    {
     "texto": "Portarias  Portarias e atos administrativos oficiais",
-    "url": "https://santanadoparaiso.mg.gov.br/legislacao/tipo/17/portaria",
+    "url": "https://www.santanadoparaiso.mg.gov.br/legislacao/tipo/17/portaria",
     "origem": "prefeitura"
    },
    {
@@ -4630,12 +5583,12 @@
    },
    {
     "texto": "LGPD  Lei Geral de Proteção de Dados",
-    "url": "https://santanadoparaiso.mg.gov.br/detalhe-da-materia/info/148680/lgpd",
+    "url": "https://www.santanadoparaiso.mg.gov.br/detalhe-da-materia/info/148680/lgpd",
     "origem": "prefeitura"
    },
    {
     "texto": "Instruções Normativas  Normas e instruções da controladoria",
-    "url": "https://santanadoparaiso.mg.gov.br/legislacao/tipo/29/instrucao-normativa",
+    "url": "https://www.santanadoparaiso.mg.gov.br/legislacao/tipo/29/instrucao-normativa",
     "origem": "prefeitura"
    },
    {
@@ -4655,15 +5608,14 @@
    },
    {
     "texto": "e-SIC / LAI  Lei de Acesso à Informação",
-    "url": "https://santanadoparaiso.mg.gov.br/servico-de-informacao-ao-cidadao",
+    "url": "https://www.santanadoparaiso.mg.gov.br/servico-de-informacao-ao-cidadao",
     "origem": "prefeitura"
    }
   ],
   "tentativas": {
    "https://sapl.santanadoparaiso.mg.leg.br": 200,
    "https://www.santanadoparaiso.mg.leg.br": 200,
-   "https://www.santanadoparaiso.mg.gov.br": 500,
-   "https://santanadoparaiso.mg.gov.br": 200,
+   "https://www.santanadoparaiso.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/santana-do-paraiso": 403
   },
   "sapl_normas": 1874,
@@ -4794,137 +5746,9 @@
   "prefeitura": "https://arcos.mg.gov.br/",
   "leismunicipais": null,
   "plataformas": [
-   "camara:diario-amm",
-   "camara:plone/interlegis",
-   "camara:sapl",
    "prefeitura:leismunicipais"
   ],
   "links": [
-   {
-    "texto": "Processo Legislativo",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo",
-    "origem": "camara"
-   },
-   {
-    "texto": "Vereadores e Legislaturas",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/lesgislaturas-da-camara-municipal-de-arcos",
-    "origem": "camara"
-   },
-   {
-    "texto": "Mesa Diretora",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/mesa-diretora-1",
-    "origem": "camara"
-   },
-   {
-    "texto": "Comissões",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/comissoes-1",
-    "origem": "camara"
-   },
-   {
-    "texto": "Sessão Plenária",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/sessao-plenaria",
-    "origem": "camara"
-   },
-   {
-    "texto": "Proposições",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/materias-legislativas-1",
-    "origem": "camara"
-   },
-   {
-    "texto": "Atas",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/atas",
-    "origem": "camara"
-   },
-   {
-    "texto": "Pautas",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/pautas",
-    "origem": "camara"
-   },
-   {
-    "texto": "Audiências Públicas",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/audiencias-publicas",
-    "origem": "camara"
-   },
-   {
-    "texto": "Ordem do dia",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/ordem-do-dia",
-    "origem": "camara"
-   },
-   {
-    "texto": "Projetos de Lei em Trâmite",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/projetos-de-lei-em-tramite",
-    "origem": "camara"
-   },
-   {
-    "texto": "Ofícios",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/oficios",
-    "origem": "camara"
-   },
-   {
-    "texto": "Requerimentos",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/requerimentos",
-    "origem": "camara"
-   },
-   {
-    "texto": "Julgamento de Contas",
-    "url": "https://www.arcos.mg.leg.br/processo-legislativo/julgamento-de-contas",
-    "origem": "camara"
-   },
-   {
-    "texto": "Leis",
-    "url": "https://www.arcos.mg.leg.br/leis",
-    "origem": "camara"
-   },
-   {
-    "texto": "Projetos de Lei e Matérias Legislativas",
-    "url": "https://www.arcos.mg.leg.br/leis/materias-legislativa",
-    "origem": "camara"
-   },
-   {
-    "texto": "Leis e Normas Jurídicas",
-    "url": "https://www.arcos.mg.leg.br/leis/normas-juridicas",
-    "origem": "camara"
-   },
-   {
-    "texto": "Referência",
-    "url": "https://www.arcos.mg.leg.br/leis/referencia",
-    "origem": "camara"
-   },
-   {
-    "texto": "Lei Orgânica Municipal",
-    "url": "https://www.arcos.mg.leg.br/leis/lei-organica-municipal",
-    "origem": "camara"
-   },
-   {
-    "texto": "Legislação Municipal",
-    "url": "https://www.arcos.mg.leg.br/leis/lei-municipal",
-    "origem": "camara"
-   },
-   {
-    "texto": "Lei Ordinária",
-    "url": "https://www.arcos.mg.leg.br/leis/lei-municipal/lei-ordinaria",
-    "origem": "camara"
-   },
-   {
-    "texto": "Lei Complementar",
-    "url": "https://www.arcos.mg.leg.br/leis/lei-municipal/lei-complementar",
-    "origem": "camara"
-   },
-   {
-    "texto": "Decretos Legislativos",
-    "url": "https://www.arcos.mg.leg.br/leis/lei-municipal/decretos-legislativos",
-    "origem": "camara"
-   },
-   {
-    "texto": "Resolução",
-    "url": "https://www.arcos.mg.leg.br/leis/lei-municipal/resolucao",
-    "origem": "camara"
-   },
-   {
-    "texto": "Legislação Federal",
-    "url": "https://www4.planalto.gov.br/legislacao",
-    "origem": "camara"
-   },
    {
     "texto": "Legislações",
     "url": "https://arcos.mg.gov.br/transparencia/legislacoes",
@@ -4975,7 +5799,7 @@
    "https://prefeiturasaogotardo.mg.gov.br": "erro: URLError",
    "https://leismunicipais.com.br/prefeitura/mg/sao-gotardo": 403
   },
-  "sapl_normas": 2097,
+  "sapl_normas": 2098,
   "classificacao": "SAPL"
  },
  {
@@ -5022,6 +5846,11 @@
     "origem": "prefeitura"
    },
    {
+    "texto": ".               220     .          23 de Outubro de 2026     Saúde           .  ",
+    "url": "https://www.andradas.mg.gov.br/noticia/5140/vigilancia-sanitaria-orienta-dentistas-sobre-normas-de-funcionamento/",
+    "origem": "prefeitura"
+   },
+   {
     "texto": "Secretaria de Serviços Públicos e Transporte Interno          .     Vanderlei Si",
     "url": "https://www.andradas.mg.gov.br/prefeitura/detalhe-departamento/7/servicos-publicos-e-transporte-interno-/",
     "origem": "prefeitura"
@@ -5038,7 +5867,7 @@
    "https://www.andradas.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/andradas": 403
   },
-  "sapl_normas": 1001,
+  "sapl_normas": 1006,
   "classificacao": "SAPL"
  },
  {
@@ -5117,11 +5946,6 @@
     "origem": "camara"
    },
    {
-    "texto": "ALTERA A REDAÇÃO DO CAPUT E DOS §§ 1º, 2º, 5º, 12 E 13 DO ART. 131-A DA LEI ORGÂ",
-    "url": "https://www.camaraalmenara.mg.gov.br/legislativo/proposicao/545b8e07-3e32-48de-9992-215f47f18b14",
-    "origem": "camara"
-   },
-   {
     "texto": "&quot;DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A DIOCESE E/OU MITRA DIOCESANA DE A",
     "url": "https://www.camaraalmenara.mg.gov.br/legislativo/proposicao/860b2abb-e3b5-4b01-9c16-cdd87150fea9",
     "origem": "camara"
@@ -5132,13 +5956,18 @@
     "origem": "camara"
    },
    {
-    "texto": "DENOMINA RUA VEREADOR TOTÓ MIRANDA A RUA C OU LOGRADOURO PÚBLICO LOCALIZADO NO B",
-    "url": "https://www.camaraalmenara.mg.gov.br/legislativo/proposicao/1dfca446-c416-4177-9209-ee461913d1bd",
+    "texto": "“ALTERA O REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE ALMENARA/MG PARA INCLUIR O CA",
+    "url": "https://www.camaraalmenara.mg.gov.br/legislativo/proposicao/a0003957-9502-4c85-a3a4-a05875d2178f",
     "origem": "camara"
    },
    {
-    "texto": "“ALTERA O REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE ALMENARA/MG PARA INCLUIR O CA",
-    "url": "https://www.camaraalmenara.mg.gov.br/legislativo/proposicao/a0003957-9502-4c85-a3a4-a05875d2178f",
+    "texto": "“ALTERA DISPOSITIVOS DA RESOLUÇÃO Nº 05/2025, DE 02 DE JUNHO DE 2025, QUE DISPÕE",
+    "url": "https://www.camaraalmenara.mg.gov.br/legislativo/proposicao/e125590f-00be-4c7d-84a6-4377df72c826",
+    "origem": "camara"
+   },
+   {
+    "texto": "• INDICA AO PODER EXECUTIVO MUNICIPAL PARA QUE, POR INTERMÉDIO DO SETOR COMPETEN",
+    "url": "https://www.camaraalmenara.mg.gov.br/legislativo/proposicao/07fe097e-588d-4452-9450-5ce79621e9f7",
     "origem": "camara"
    },
    {
@@ -5284,83 +6113,33 @@
     "origem": "camara"
    },
    {
-    "texto": "Legislação",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Leis Municipais",
-    "url": "https://leismunicipais.com.br/prefeitura/mg/salinas",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Decretos",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/3/0/0/0/0/0/0/0/0/0/0/0/0/0/E/data-decrescente-numero-decrescente/simples",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Portarias",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/4/0/0/0/0/0/0/0/0/0/0/0/0/0/E/data-decrescente-numero-decrescente/simples",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "LDO - Lei de Diretrizes Orçamentárias",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/71/0/0/0/0/0/0/0/0/0/0/0/0/0/E/data-decrescente-numero-decrescente/simples",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "LOA - Lei Orçamentária Anual",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/70/0/0/0/0/0/0/0/0/0/0/0/0/0/E/data-decrescente-numero-decrescente/simples",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "PPA - Plano Plurianual",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/72/0/0/0/0/0/0/0/0/0/0/0/0/0/E/data-decrescente-numero-decrescente/simples",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Manual de normas e procedimentos",
-    "url": "https://www.salinas.mg.gov.br/portal/servicos/403/manual-de-normas-e-procedimentos/",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Lei Paulo Gustavo",
-    "url": "https://www.salinas.mg.gov.br/portal/editais/1/3/0/0/0/107/0/0/0/data-realizacao-decrescente/0",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Relação de Decretos",
-    "url": "https://www.salinas.mg.gov.br/portal/contas_publicas/1/64/0/0/0/0/",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Relatório Final | Decreto n° 9.985/2022",
-    "url": "https://www.salinas.mg.gov.br/portal/contas_publicas/1/91/0/0/0/0/",
+    "texto": "NOTA OFICIAL - PONTO FACULTATIVO         Quarta-feira       28  out            4",
+    "url": "https://www.salinas.mg.gov.br/portal/noticias/0/3/3968/nota-oficial---ponto-facultativo",
     "origem": "prefeitura"
    },
    {
     "texto": "Decreto",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/3/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "LDO - Lei de Diretrizes Orçamentarias",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/71/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "LOA - Lei Orçamentária Anual",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/70/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples",
+    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/3/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente-numero-decrescente/simples",
     "origem": "prefeitura"
    },
    {
     "texto": "Portaria",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/4/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples",
+    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/4/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente-numero-decrescente/simples",
     "origem": "prefeitura"
    },
    {
-    "texto": "PPA - Plano Plurianual",
-    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/72/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples",
+    "texto": "LOA - Lei Orçamentária Anual",
+    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/70/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente-numero-decrescente/simples",
+    "origem": "prefeitura"
+   },
+   {
+    "texto": "LDO - Lei de Diretrizes Orçamentarias",
+    "url": "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/71/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente-numero-decrescente/simples",
+    "origem": "prefeitura"
+   },
+   {
+    "texto": "IFNMG     Descrição curta O Instituto Federal do Norte de Minas, oferece atualme",
+    "url": "https://www.salinas.mg.gov.br/portal/turismo/0/9/724/ifnmg",
     "origem": "prefeitura"
    }
   ],
@@ -5489,8 +6268,137 @@
   "camara": "https://www.viscondedoriobranco.mg.leg.br",
   "prefeitura": null,
   "leismunicipais": null,
-  "plataformas": [],
-  "links": [],
+  "plataformas": [
+   "camara:plone/interlegis",
+   "camara:sapl"
+  ],
+  "links": [
+   {
+    "texto": "E-mail Legislativo",
+    "url": "https://correio.interlegis.leg.br/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Função do Legislativo",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/institucional/funcao-do-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Processo Legislativo",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "SAPL",
+    "url": "http://sapl.viscondedoriobranco.mg.leg.br/default_index_html",
+    "origem": "camara"
+   },
+   {
+    "texto": "Parlamentares",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/processo-legislativo/parlamentares-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/processo-legislativo/mesa-diretora",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/processo-legislativo/comissoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sessão Plenária",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/processo-legislativo/sessao-plenaria",
+    "origem": "camara"
+   },
+   {
+    "texto": "Matérias Legislativas",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/processo-legislativo/materias-legislativas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Normas Jurídicas",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/processo-legislativo/normas-juridicas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Relatórios Legislativos",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/processo-legislativo/relatorios-legislativos",
+    "origem": "camara"
+   },
+   {
+    "texto": "Declaracão de inexistência de votação nominal",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/processo-legislativo/declaracao-de-inexistencia-de-votacao-nominal/view",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/leis",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica Municipal",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/leis/lei-organica-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Municipal",
+    "url": "https://sapl.viscondedoriobranco.mg.leg.br/norma/pesquisar",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Estadual",
+    "url": "https://www.almg.gov.br/consulte/legislacao/index.html",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Federal",
+    "url": "http://www.planalto.gov.br/legislacao",
+    "origem": "camara"
+   },
+   {
+    "texto": "Assembleia Legislativa",
+    "url": "http://www.almg.gov.br",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://www.viscondedoriobranco.mg.leg.br/institucional/noticias/vereadores-aprovam-projetos-de-autoria-do-legislativo-e-do-executivo-em-1a-sessao-de-outubro",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.viscondedoriobranco.mg.leg.br/",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.viscondedoriobranco.mg.leg.br/mesa-diretora/",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.viscondedoriobranco.mg.leg.br/comissao/",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.viscondedoriobranco.mg.leg.br/parlamentar/",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.viscondedoriobranco.mg.leg.br/sessao/pesquisar-sessao",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.viscondedoriobranco.mg.leg.br/materia/pesquisar-materia",
+    "origem": "camara"
+   }
+  ],
   "tentativas": {
    "https://sapl.viscondedoriobranco.mg.leg.br": 200,
    "https://www.viscondedoriobranco.mg.leg.br": 200,
@@ -5501,7 +6409,7 @@
    "https://prefeituraviscondedoriobranco.mg.gov.br": "erro: URLError",
    "https://leismunicipais.com.br/prefeitura/mg/visconde-do-rio-branco": 403
   },
-  "sapl_normas": 1502,
+  "sapl_normas": 1507,
   "classificacao": "SAPL"
  },
  {
@@ -5541,28 +6449,10 @@
   "populacao": 38776,
   "sapl": null,
   "camara": "https://www.google.com/",
-  "prefeitura": "https://www.caete.mg.gov.br",
+  "prefeitura": "https://www.google.com/",
   "leismunicipais": null,
-  "plataformas": [
-   "prefeitura:portalfacil"
-  ],
-  "links": [
-   {
-    "texto": "Legislação Municipal",
-    "url": "https://www.caete.mg.gov.br/downloads/categoria/legislacao-concurso/29",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Lei de Acesso à Informação",
-    "url": "https://www.caete.mg.gov.br/downloads/categoria/legislacao---lai/61",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "link",
-    "url": "https://www.caete.mg.gov.br/detalhe-da-materia/info/editais-de-execucao-da-lei-paulo-gustavo---municipio-de-caete/79219",
-    "origem": "prefeitura"
-   }
-  ],
+  "plataformas": [],
+  "links": [],
   "tentativas": {
    "https://sapl.caete.mg.leg.br": "erro: URLError",
    "https://sapl.cmcaete.mg.gov.br": "erro: URLError",
@@ -5578,7 +6468,7 @@
    "https://www.caete.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/caete": 403
   },
-  "classificacao": "Portal Fácil"
+  "classificacao": "site próprio"
  },
  {
   "codigo_ibge": "3145901",
@@ -5586,64 +6476,10 @@
   "populacao": 38724,
   "sapl": null,
   "camara": null,
-  "prefeitura": "https://www.ourobranco.mg.gov.br",
+  "prefeitura": "https://www.google.com/",
   "leismunicipais": null,
-  "plataformas": [
-   "prefeitura:betha",
-   "prefeitura:portalfacil"
-  ],
-  "links": [
-   {
-    "texto": "Legislações",
-    "url": "https://www.ourobranco.mg.gov.br/legislacao",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Matérias Legislativas",
-    "url": "https://www.ourobranco.mg.gov.br/materias-legislativas",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "lei teste",
-    "url": "https://www.ourobranco.mg.gov.br/legislacao/tipo/leis-estaduais/6",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Decretos",
-    "url": "https://www.ourobranco.mg.gov.br/legislacao/tipo/decretos/4",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Instruções Normativas",
-    "url": "https://www.ourobranco.mg.gov.br/legislacao/tipo/instrucoes-normativas/11",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Leis Federais",
-    "url": "https://www.ourobranco.mg.gov.br/legislacao/tipo/leis-federais/5",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Leis Municipais",
-    "url": "https://www.ourobranco.mg.gov.br/legislacao/tipo/leis-municipais/3",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Portarias",
-    "url": "https://www.ourobranco.mg.gov.br/legislacao/tipo/portarias/9",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Resoluções",
-    "url": "https://www.ourobranco.mg.gov.br/legislacao/tipo/resolucoes/10",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Legislação Tributária",
-    "url": "https://www.ourobranco.mg.gov.br/abrir_arquivo.aspx?cdLocal=5&arquivo={EC17A2C0-0C5D-3EDE-3ACB-BEAC4C0E750C}.pdf",
-    "origem": "prefeitura"
-   }
-  ],
+  "plataformas": [],
+  "links": [],
   "tentativas": {
    "https://sapl.ourobranco.mg.leg.br": "erro: URLError",
    "https://sapl.cmourobranco.mg.gov.br": "erro: URLError",
@@ -5659,7 +6495,7 @@
    "https://www.ourobranco.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/ouro-branco": 403
   },
-  "classificacao": "Portal Fácil"
+  "classificacao": "site próprio"
  },
  {
   "codigo_ibge": "3134400",
@@ -5770,7 +6606,7 @@
    "https://prefeituraiturama.mg.gov.br": "erro: URLError",
    "https://leismunicipais.com.br/prefeitura/mg/iturama": 403
   },
-  "sapl_normas": 9498,
+  "sapl_normas": 9501,
   "classificacao": "SAPL"
  },
  {
@@ -5881,9 +6717,137 @@
   "prefeitura": "https://www.matozinhos.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
+   "camara:cespro/ipm",
+   "camara:plone/interlegis",
+   "camara:sapl",
    "prefeitura:cespro/ipm"
   ],
   "links": [
+   {
+    "texto": "Câmara de Matozinhos   PODER LEGISLATIVO MUNICIPAL - MG",
+    "url": "https://www.matozinhos.mg.leg.br",
+    "origem": "camara"
+   },
+   {
+    "texto": "Vereadores da 19ª Legislatura - 2021 ~ 2024",
+    "url": "https://www.matozinhos.mg.leg.br/institucional/fotos/vereadores-da-19a-legislatura-2021-2024",
+    "origem": "camara"
+   },
+   {
+    "texto": "Processo Legislativo",
+    "url": "https://www.matozinhos.mg.leg.br/processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislaturas",
+    "url": "https://www.matozinhos.mg.leg.br/processo-legislativo/legislaturas-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://www.matozinhos.mg.leg.br/processo-legislativo/mesa-diretora-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões",
+    "url": "https://www.matozinhos.mg.leg.br/processo-legislativo/comissoes-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Matérias Legislativas",
+    "url": "https://www.matozinhos.mg.leg.br/processo-legislativo/materias-legislativas-1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sessão Plenária e Ata de Sessão",
+    "url": "https://www.matozinhos.mg.leg.br/processo-legislativo/sessao-plenaria-e-ata-de-sessao",
+    "origem": "camara"
+   },
+   {
+    "texto": "Relatório das Atividades Legislativas dos Parlamentares - 2025",
+    "url": "https://www.matozinhos.mg.leg.br/processo-legislativo/relatorio-das-atividades-legislativas-dos-parlamentares-2025",
+    "origem": "camara"
+   },
+   {
+    "texto": "Leis",
+    "url": "https://www.matozinhos.mg.leg.br/leis",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica Municipal",
+    "url": "https://cespro.com.br/visualizarDiploma.php?cdMunicipio=3343&amp;cdDiploma=9999",
+    "origem": "camara"
+   },
+   {
+    "texto": "Consulta à legislação municipal",
+    "url": "https://matozinhos.cespro.com.br/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Consulta à legislação estadual",
+    "url": "https://www.almg.gov.br/atividade-parlamentar/leis/legislacao-mineira",
+    "origem": "camara"
+   },
+   {
+    "texto": "Consulta à legislação federal",
+    "url": "http://www.planalto.gov.br/legislacao",
+    "origem": "camara"
+   },
+   {
+    "texto": "Assembleia Legislativa",
+    "url": "https://www.almg.gov.br/",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.matozinhos.mg.leg.br/parlamentar/16",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.matozinhos.mg.leg.br/parlamentar/2",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.matozinhos.mg.leg.br/parlamentar/3",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.matozinhos.mg.leg.br/parlamentar/1",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.matozinhos.mg.leg.br/parlamentar/21",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.matozinhos.mg.leg.br/parlamentar/15",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.matozinhos.mg.leg.br/parlamentar/17",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.matozinhos.mg.leg.br/parlamentar/19",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.matozinhos.mg.leg.br/parlamentar/20",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.matozinhos.mg.leg.br/parlamentar/6",
+    "origem": "camara"
+   },
    {
     "texto": "Legisla&#231;&#227;o",
     "url": "https://matozinhos.cespro.com.br/",
@@ -5909,13 +6873,138 @@
   "nome": "Porteirinha",
   "populacao": 37438,
   "sapl": null,
-  "camara": null,
+  "camara": "https://www.porteirinha.mg.leg.br",
   "prefeitura": "https://www.porteirinha.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
    "prefeitura:leismunicipais"
   ],
   "links": [
+   {
+    "texto": "LEI ORGÂNICA",
+    "url": "https://www.porteirinha.mg.leg.br/legislacoes?remissao=1",
+    "origem": "camara"
+   },
+   {
+    "texto": "REGIMENTO INTERNO",
+    "url": "https://www.porteirinha.mg.leg.br/legislacoes?remissao=2",
+    "origem": "camara"
+   },
+   {
+    "texto": "PLANO DIRETOR",
+    "url": "https://www.porteirinha.mg.leg.br/legislacoes?remissao=3",
+    "origem": "camara"
+   },
+   {
+    "texto": "CÓDIGO DE OBRAS",
+    "url": "https://www.porteirinha.mg.leg.br/legislacoes?remissao=4",
+    "origem": "camara"
+   },
+   {
+    "texto": "CÓDIGO TRIBUTÁRIO",
+    "url": "https://www.porteirinha.mg.leg.br/legislacoes?remissao=5",
+    "origem": "camara"
+   },
+   {
+    "texto": "LEGISLAÇÕES",
+    "url": "https://www.porteirinha.mg.leg.br/legislacoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "IDEIAS LEGISLATIVAS",
+    "url": "https://www.porteirinha.mg.leg.br/ideia-legislativa",
+    "origem": "camara"
+   },
+   {
+    "texto": "19 NOV 2025     FORMULÁRIO DE ATUALIZAÇÃO DA LEI ORGÂNICA    FORMULÁRIO DE ATUAL",
+    "url": "https://www.porteirinha.mg.leg.br/noticia/formulario-de-atualizacao-da-lei-organica",
+    "origem": "camara"
+   },
+   {
+    "texto": "Ver todas as legislações",
+    "url": "https://www.porteirinha.mg.leg.br/legislacoes?ver_todos=1",
+    "origem": "camara"
+   },
+   {
+    "texto": "Resoluções   162 documentos",
+    "url": "https://www.porteirinha.mg.leg.br/legislacoes?q=&amp;id_tipo=2&amp;remissao=&amp;legislatura=&amp;numero=&amp;ano=&amp;mes=&amp;periodo_inicial=&amp;periodo_final=&amp;autoria_vereador=&amp;autoria_prefeito=&amp;autoria_comissao=&amp;autoria=",
+    "origem": "camara"
+   },
+   {
+    "texto": "Decretos   0 documentos",
+    "url": "https://www.porteirinha.mg.leg.br/legislacoes?q=&amp;id_tipo=55&amp;remissao=&amp;legislatura=&amp;numero=&amp;ano=&amp;mes=&amp;periodo_inicial=&amp;periodo_final=&amp;autoria_vereador=&amp;autoria_prefeito=&amp;autoria_comissao=&amp;autoria=",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Ordinária Nº 1.887, de 25 de julho de 2017   25/07/2027 · Lei Ordinária     ",
+    "url": "https://www.porteirinha.mg.leg.br/legislacao/1033",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Ordinária Nº 1.271, de 3 de junho de 2026   03/06/2026 · Lei Ordinária     P",
+    "url": "https://www.porteirinha.mg.leg.br/legislacao/363",
+    "origem": "camara"
+   },
+   {
+    "texto": "Resolução Nº 122, de 8 de maio de 2026   08/05/2026 · Resolução     Publicado",
+    "url": "https://www.porteirinha.mg.leg.br/legislacao/776",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Nº 2.386, de 30 de dezembro de 2025   30/12/2025 · Lei     Publicado",
+    "url": "https://www.porteirinha.mg.leg.br/legislacao/231",
+    "origem": "camara"
+   },
+   {
+    "texto": "Resolução Nº 295, de 24 de dezembro de 2025   24/12/2025 · Resolução     Publica",
+    "url": "https://www.porteirinha.mg.leg.br/legislacao/316",
+    "origem": "camara"
+   },
+   {
+    "texto": "4   Produção Legislativa em 2026",
+    "url": "https://www.porteirinha.mg.leg.br/proposicoes?ano=2026",
+    "origem": "camara"
+   },
+   {
+    "texto": "5   Comissões ativas",
+    "url": "https://www.porteirinha.mg.leg.br/comissoes?tipo=&amp;situacao=Ativa&amp;id_legislatura=&amp;periodo_inicial=&amp;periodo_final=&amp;palavra_chave=",
+    "origem": "camara"
+   },
+   {
+    "texto": "Projeto de Lei Legislativo Nº 22/2026   Dispõe sobre a autorização para particip",
+    "url": "https://www.porteirinha.mg.leg.br/proposicao/10",
+    "origem": "camara"
+   },
+   {
+    "texto": "Projeto de Lei Legislativo Nº 30/2026   INSTITUI E INCLUI NO CALENDÁRIO OFICIAL ",
+    "url": "https://www.porteirinha.mg.leg.br/proposicao/6",
+    "origem": "camara"
+   },
+   {
+    "texto": "Projeto de Lei Legislativo Nº 31/2026   “INSTITUI NO CALENDÁRIO OFICIAL DE EVENT",
+    "url": "https://www.porteirinha.mg.leg.br/proposicao/7",
+    "origem": "camara"
+   },
+   {
+    "texto": "Ver mais",
+    "url": "https://www.porteirinha.mg.leg.br/gps-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões   Comissões permanentes e temporárias do legislativo",
+    "url": "https://www.porteirinha.mg.leg.br/comissoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Matérias Legislativas   Projetos de lei, indicações, requerimentos e moções",
+    "url": "https://www.porteirinha.mg.leg.br/proposicoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Regimento Interno   Normas e procedimentos da Casa Legislativa",
+    "url": "https://www.porteirinha.mg.leg.br/legislacoes?remissao=2&amp;ver_todos=1",
+    "origem": "camara"
+   },
    {
     "texto": "Legislação Tributária",
     "url": "https://www.porteirinha.mg.gov.br/transparencia/legislacao-tributaria?category[0]=2&amp;category_children=1",
@@ -5947,13 +7036,7 @@
    "https://sapl.cmporteirinha.mg.gov.br": "erro: URLError",
    "https://sapl.camaraporteirinha.mg.gov.br": "erro: URLError",
    "https://sapl.porteirinha.mg.gov.br": "erro: URLError",
-   "https://www.porteirinha.mg.leg.br": 522,
-   "https://porteirinha.mg.leg.br": 522,
-   "https://www.cmporteirinha.mg.gov.br": "erro: URLError",
-   "https://www.camaraporteirinha.mg.gov.br": "erro: URLError",
-   "https://cmporteirinha.mg.gov.br": "erro: URLError",
-   "https://camaraporteirinha.mg.gov.br": "erro: URLError",
-   "https://www.camaradeporteirinha.mg.gov.br": "erro: URLError",
+   "https://www.porteirinha.mg.leg.br": 200,
    "https://www.porteirinha.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/porteirinha": 403
   },
@@ -5979,7 +7062,7 @@
    "https://prefeiturasarzedo.mg.gov.br": "erro: URLError",
    "https://leismunicipais.com.br/prefeitura/mg/sarzedo": 403
   },
-  "sapl_normas": 1738,
+  "sapl_normas": 1741,
   "classificacao": "SAPL"
  },
  {
@@ -5990,8 +7073,137 @@
   "camara": "https://www.piumhi.mg.leg.br",
   "prefeitura": null,
   "leismunicipais": null,
-  "plataformas": [],
-  "links": [],
+  "plataformas": [
+   "camara:plone/interlegis",
+   "camara:sapl"
+  ],
+  "links": [
+   {
+    "texto": "Escola Legislativa",
+    "url": "https://www.piumhi.mg.leg.br/institucional/escola-legislativa",
+    "origem": "camara"
+   },
+   {
+    "texto": "Galeria de Legislaturas",
+    "url": "http://legislaturas.camarapiumhi.mg.gov.br/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Processo Legislativo",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Parlamentares",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/parlamentar",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/mesa-diretora",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/comissoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Sessões Plenárias",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/teste",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Municipal",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/legislacao-municipal",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei de Diretrizes Orçamentárias - LDO",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/lei-de-diretrizes-orcamentarias-ldo",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orçamentária Anual - LOA",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/lei-orcamentaria-anual-loa",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei Orgânica Municipal - LOM",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/lei-organica",
+    "origem": "camara"
+   },
+   {
+    "texto": "Regimento Interno -RI",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/regimento-interno",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Estadual",
+    "url": "https://www.almg.gov.br/consulte/legislacao/index.html",
+    "origem": "camara"
+   },
+   {
+    "texto": "Legislação Federal",
+    "url": "http://www4.planalto.gov.br/legislacao/",
+    "origem": "camara"
+   },
+   {
+    "texto": "Matérias Legislativas",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/materias-legislativas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Documentos Administrativos",
+    "url": "https://www.piumhi.mg.leg.br/processo-legislativo/copy_of_materias-legislativas",
+    "origem": "camara"
+   },
+   {
+    "texto": "Constituiçao Federal de 1988",
+    "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/constituicao1988",
+    "origem": "camara"
+   },
+   {
+    "texto": "SAPL",
+    "url": "https://sapl.piumhi.mg.leg.br/",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://www.piumhi.mg.leg.br/institucional/noticias/presidente-da-camara-de-piumhi-recebe-mencao-honrosa-por-sua-atuacao-legislativa",
+    "origem": "camara"
+   },
+   {
+    "texto": "",
+    "url": "https://sapl.piumhi.mg.leg.br/?iframe=0",
+    "origem": "camara"
+   },
+   {
+    "texto": "Lei 2103/2012",
+    "url": "https://sapl.piumhi.mg.leg.br/ta/772/text?print",
+    "origem": "camara"
+   },
+   {
+    "texto": "Parlamentares",
+    "url": "https://piumhi.mg.leg.br/processo-legislativo/parlamentar",
+    "origem": "camara"
+   },
+   {
+    "texto": "Mesa Diretora",
+    "url": "https://piumhi.mg.leg.br/processo-legislativo/mesa-diretora",
+    "origem": "camara"
+   },
+   {
+    "texto": "Comissões",
+    "url": "https://piumhi.mg.leg.br/processo-legislativo/comissoes",
+    "origem": "camara"
+   },
+   {
+    "texto": "Regimento Interno (RI)",
+    "url": "https://sapl.piumhi.mg.leg.br/ta/612/text",
+    "origem": "camara"
+   }
+  ],
   "tentativas": {
    "https://sapl.piumhi.mg.leg.br": 200,
    "https://www.piumhi.mg.leg.br": 200,
@@ -6002,7 +7214,7 @@
    "https://prefeiturapiumhi.mg.gov.br": 403,
    "https://leismunicipais.com.br/prefeitura/mg/piumhi": 403
   },
-  "sapl_normas": 4728,
+  "sapl_normas": 4732,
   "classificacao": "SAPL"
  },
  {
@@ -6118,29 +7330,10 @@
   "populacao": 34348,
   "sapl": null,
   "camara": "https://www.google.com/",
-  "prefeitura": "https://www.saojoaquimdebicas.mg.gov.br",
+  "prefeitura": "https://www.google.com/",
   "leismunicipais": null,
-  "plataformas": [
-   "prefeitura:leismunicipais",
-   "prefeitura:portalfacil"
-  ],
-  "links": [
-   {
-    "texto": "Legislação",
-    "url": "https://www.saojoaquimdebicas.mg.gov.br/legislacao",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Leis Municipais consolidadas",
-    "url": "https://leismunicipais.com.br/prefeitura/mg/saojoaquimdebicas",
-    "origem": "prefeitura"
-   },
-   {
-    "texto": "Feriados e Pontos Facultativos",
-    "url": "https://saojoaquimdebicas.mg.gov.br/arquivo/legislacao/decreto_1614_2025",
-    "origem": "prefeitura"
-   }
-  ],
+  "plataformas": [],
+  "links": [],
   "tentativas": {
    "https://sapl.saojoaquimdebicas.mg.leg.br": "erro: URLError",
    "https://sapl.cmsaojoaquimdebicas.mg.gov.br": "erro: URLError",
@@ -6153,14 +7346,14 @@
    "https://www.saojoaquimdebicas.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/sao-joaquim-de-bicas": 403
   },
-  "classificacao": "Leis Municipais"
+  "classificacao": "site próprio"
  },
  {
   "codigo_ibge": "3103405",
   "nome": "Araçuaí",
   "populacao": 34297,
   "sapl": "sapl.aracuai.mg.leg.br",
-  "camara": null,
+  "camara": "https://camaradearacuai.mg.gov.br/",
   "prefeitura": "https://www.aracuai.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [],
@@ -6194,7 +7387,7 @@
    "https://www.camaraaracuai.mg.gov.br": "erro: URLError",
    "https://cmaracuai.mg.gov.br": "erro: URLError",
    "https://camaraaracuai.mg.gov.br": "erro: URLError",
-   "https://www.camaradearacuai.mg.gov.br": "erro: TimeoutError",
+   "https://www.camaradearacuai.mg.gov.br": 200,
    "https://www.aracuai.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/aracuai": 403
   },
@@ -6527,6 +7720,11 @@
    },
    {
     "texto": "Aviso de intenção de Compra Direta Art. 75, II, §3º da Lei nº. 14.333/2021. PRC ",
+    "url": "https://www.camaraourofino.mg.gov.br/licitacao/302/aviso-de-intencao-de-compra-direta-art-75-ii-3o-da-lei-no-143332021-prc-0542026-servicos-de-telefonia-movel-pessoal-propostas-ate-as-0700-horas-do-dia-03112026",
+    "origem": "camara"
+   },
+   {
+    "texto": "Aviso de intenção de Compra Direta Art. 75, II, §3º da Lei nº. 14.333/2021. PRC ",
     "url": "https://www.camaraourofino.mg.gov.br/licitacao/301/aviso-de-intencao-de-compra-direta-art-75-ii-3o-da-lei-no-143332021-prc-0532026-contratacao-de-sistemas-claude-code-e-capcut-propostas-ate-as-0700-horas-do-dia-28102026",
     "origem": "camara"
    },
@@ -6543,11 +7741,6 @@
    {
     "texto": "Aviso de intenção de Compra Direta Art. 75, II, §3º da Lei nº. 14.333/2021. PRC ",
     "url": "https://www.camaraourofino.mg.gov.br/licitacao/297/aviso-de-intencao-de-compra-direta-art-75-ii-3o-da-lei-no-143332021-prc-0502026-prestacao-de-servico-de-manutencao-corretiva-de-geladeira-propostas-ate-as-0700-horas-do-dia-15102026",
-    "origem": "camara"
-   },
-   {
-    "texto": "Aviso de intenção de Compra Direta Art. 75, II, §3º da Lei nº. 14.333/2021. PRC ",
-    "url": "https://www.camaraourofino.mg.gov.br/licitacao/296/aviso-de-intencao-de-compra-direta-art-75-ii-3o-da-lei-no-143332021-prc-0492026-aquisicao-de-papel-toalha-interfonado-e-esponjas-antiaderente-propostas-ate-as-0900-horas-do-dia-14102026",
     "origem": "camara"
    },
    {
@@ -6570,7 +7763,7 @@
    "https://www.ourofino.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/ouro-fino": 403
   },
-  "sapl_normas": 4749,
+  "sapl_normas": 4753,
   "classificacao": "SAPL"
  },
  {
@@ -6667,33 +7860,28 @@
     "origem": "camara"
    },
    {
-    "texto": "Matéria   21/10/2026     Concede o título de Cidadão Honorário de Brasília de Mi",
-    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=202",
+    "texto": "Requerimento   26/10/2026     Solicitação de formação de comissão para realizar ",
+    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=206",
     "origem": "camara"
    },
    {
-    "texto": "Requerimento   21/10/2026     Requerimento para instalação de redutores de veloc",
-    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=205",
+    "texto": "Matéria   26/10/2026     Concede o título de Cidadão Honorário de Brasília de Mi",
+    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=208",
     "origem": "camara"
    },
    {
-    "texto": "Projeto de Lei   21/10/2026     Autoriza o Poder Executivo Municipal a conceder ",
-    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=200",
+    "texto": "Matéria   26/10/2026     Concede o Título de Cidadão Honorário de Brasília de Mi",
+    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=209",
     "origem": "camara"
    },
    {
-    "texto": "Indicação   21/10/2026     Adequação e implementação das regras da Emenda Consti",
-    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=204",
+    "texto": "Matéria   26/10/2026     Concede Título de Cidadão Honorário de Brasília de Mina",
+    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=210",
     "origem": "camara"
    },
    {
-    "texto": "Projeto de Lei   21/10/2026     Autoriza o Poder Executivo Municipal a conceder ",
-    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=199",
-    "origem": "camara"
-   },
-   {
-    "texto": "Projeto de Lei   21/10/2026     Institui a Política Municipal de Educação Integr",
-    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=198",
+    "texto": "Matéria   26/10/2026     Concede o Título de Cidadão Honorário de Brasília de Mi",
+    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=207",
     "origem": "camara"
    },
    {
@@ -6702,8 +7890,13 @@
     "origem": "camara"
    },
    {
-    "texto": "Projeto de Lei   21/10/2026     Altera dispositivos da Lei Municipal nº 1.974, d",
-    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=203",
+    "texto": "Projeto de Lei   21/10/2026     Autoriza o Poder Executivo Municipal a conceder ",
+    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=199",
+    "origem": "camara"
+   },
+   {
+    "texto": "Projeto de Lei   21/10/2026     Autoriza o Poder Executivo Municipal a conceder ",
+    "url": "https://brasiliademinas.mg.leg.br/materias/?sapl_id=200",
     "origem": "camara"
    },
    {
@@ -6932,7 +8125,8 @@
   "prefeitura": "https://www.alemparaiba.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
-   "prefeitura:leismunicipais"
+   "prefeitura:leismunicipais",
+   "prefeitura:portalfacil"
   ],
   "links": [
    {
@@ -7038,7 +8232,7 @@
   "nome": "Juatuba",
   "populacao": 30716,
   "sapl": null,
-  "camara": "https://cmjuatuba.mg.gov.br",
+  "camara": "https://www.cmjuatuba.mg.gov.br",
   "prefeitura": "https://www.juatuba.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
@@ -7053,9 +8247,7 @@
    "https://sapl.juatuba.mg.gov.br": "erro: URLError",
    "https://www.juatuba.mg.leg.br": "erro: URLError",
    "https://juatuba.mg.leg.br": "erro: URLError",
-   "https://www.cmjuatuba.mg.gov.br": "erro: IncompleteRead",
-   "https://www.camarajuatuba.mg.gov.br": "erro: URLError",
-   "https://cmjuatuba.mg.gov.br": 200,
+   "https://www.cmjuatuba.mg.gov.br": 200,
    "https://www.juatuba.mg.gov.br": 200,
    "https://leismunicipais.com.br/prefeitura/mg/juatuba": 403
   },
@@ -7193,8 +8385,13 @@
     "origem": "prefeitura"
    },
    {
-    "texto": "Aviso   08/10/2026     EXTRATO DE JUSTIFICATIVA DE DISPENSA DE CHAMAMENTO PÚBLIC",
-    "url": "https://www.espinosa.mg.gov.br/publicacao/12-extrato-de-justificativa-de-dispensa-de-chamamento-publico",
+    "texto": "Aviso   29/10/2026     EXTRATO DE TERMO DE FOMENTO N.º 06/2026   O MUNICÍPIO DE ",
+    "url": "https://www.espinosa.mg.gov.br/publicacao/19-extrato-de-termo-de-fomento-n-o-06-2026",
+    "origem": "prefeitura"
+   },
+   {
+    "texto": "Decreto nº 177/2026   14/10/2026     DECRETO N.° 177, DE 14 DE SETEMBRO DE 2026 ",
+    "url": "https://www.espinosa.mg.gov.br/publicacao/20-decreto-177-2026",
     "origem": "prefeitura"
    }
   ],
@@ -7223,48 +8420,15 @@
   "prefeitura": "https://www.claudio.mg.gov.br",
   "leismunicipais": null,
   "plataformas": [
-   "camara:leismunicipais",
-   "camara:plone/interlegis",
-   "camara:sapl",
    "prefeitura:betha",
    "prefeitura:instar",
    "prefeitura:leismunicipais"
   ],
   "links": [
    {
-    "texto": "SAPL",
-    "url": "https://sapl.claudio.mg.leg.br/",
-    "origem": "camara"
-   },
-   {
-    "texto": "Leis Municipais",
-    "url": "https://leismunicipais.com.br/camara/mg/claudio/",
-    "origem": "camara"
-   },
-   {
-    "texto": "Matérias Legislativas",
-    "url": "https://sapl.claudio.mg.leg.br",
-    "origem": "camara"
-   },
-   {
-    "texto": "Parlamentares",
-    "url": "https://sapl.claudio.mg.leg.br/parlamentar/",
-    "origem": "camara"
-   },
-   {
-    "texto": "Legislaturas",
-    "url": "https://www.claudio.mg.leg.br/processo-legislativo/legislaturas",
-    "origem": "camara"
-   },
-   {
-    "texto": "Mesa Diretora",
-    "url": "https://sapl.claudio.mg.leg.br/mesa-diretora/",
-    "origem": "camara"
-   },
-   {
-    "texto": "Comissões",
-    "url": "https://sapl.claudio.mg.leg.br/comissao/",
-    "origem": "camara"
+    "texto": "Prefeitura de Cláudio mantém funcionamento normal nesta quarta-feira, 28        ",
+    "url": "https://www.claudio.mg.gov.br/portal/noticias/0/3/5793/prefeitura-de-claudio-mantem-funcionamento-normal-nesta-quarta-feira-28",
+    "origem": "prefeitura"
    },
    {
     "texto": "Leis Municipais     Clique para acessar",
