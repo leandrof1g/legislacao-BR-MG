@@ -236,7 +236,7 @@
    "sapl_manual": false
   },
   "3111200": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Campo Belo",
    "normas_na_fonte": 0,
    "pasta": "campo-belo",
@@ -335,7 +335,7 @@
    "sapl_manual": false
   },
   "3118007": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Congonhas",
    "normas_na_fonte": 9346,
    "pasta": "congonhas",

@@ -1,0 +1,46 @@
+---
+titulo: "Lei Ordinária nº 3710, de 24/08/2022"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "3710"
+data: "2022-08-24"
+ementa: "ABRE CRÉDITO SUPLEMENTAR AO ORÇAMENTO VIGENTE DO MUNICÍPIO DE LAGOA DA PRATA E CONTÉM OUTRAS PROVIDÊNCIAS."
+municipio: "Lagoa da Prata"
+uf: "MG"
+codigo_ibge: "3137205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lagoadaprata.mg.leg.br/norma/5284"
+fonte_texto: "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2022/5284/lei_no_3.710-2022_-_abre_credito_suplementar_-_r_3.000.00000_saae_-_proposicao_154-2022_com_emenda.pdf"
+sha256_fonte: "655edb2c9351406b452a744db7d618ffc9ab973b6e862b5356b0d74ee225ec2c"
+baixado_em: "2026-11-01"
+---
+
+# Lei Ordinária nº 3710, de 24/08/2022
+
+PREFEITURA MUNICIPAL DE LAGOA DA PRATA ESTADO DE MINAS GERAIS
+
+LEI Nº 3.710/2022
+
+“Abre Crédito Suplementar ao Orçamento Vigente do Município de Lagoa da Prata e Contém Outras Providências.”
+
+A Câmara Municipal de Lagoa da Prata aprovou e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Executivo Municipal autorizado a abrir um Crédito Suplementar ao orçamento vigente do Município de Lagoa da Prata, no montante de R$ 3.000.000,00 (três milhões de reais), em favor do Serviço Autônomo de Água e Esgoto – SAAE, para atender às seguintes dotações orçamentárias:
+
+02 – Assessoria Técnica e Administrativa 1.005 – Ampliação de Captação, Adução e Armazenamento de Água 4490.51 – Obras e Instalações 17.512.1702.1005.4490.51 (Ficha 078) ...................................................... R$ 1.000.000,00
+
+02 – Assessoria Técnica e Administrativa 1.003 – Melhorias e Ampliação do Esgotamento Sanitário 4490.51 – Obras e Instalações 17.512.1702.1003.4490.51 (Ficha 049) ...................................................... R$ 1.000.000,00
+
+02 – Assessoria Técnica e Administrativa 2.008 – Manutenção e conservação de Veículos e Máquinas 4490.52 – Equipamentos e Material Permanente 17.782.1702.2008.4490.52 (Ficha 079) ...................................................... R$ 1.000.000,00
+
+TOTAL ................................................................................................. R$ 3.000.000,00
+
+**Art. 2º** Como recursos à abertura do Crédito Suplementar mencionado no artigo anterior será utilizado o Superavit Financeiro do Exercício de 2021.
+
+**Art. 3º** Esta lei entra em vigor na data de sua publicação.
+
+**Art. 4º** Ficam revogadas as disposições da Lei Municipal nº 3.672, de 24 de junho de 2022.
+
+Lagoa da Prata, 24 de agosto de 2022.
+
+DI GIANNE DE OLIVEIRA NUNES PREFEITO MUNICIPAL

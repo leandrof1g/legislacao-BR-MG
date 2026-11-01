@@ -1,0 +1,34 @@
+---
+titulo: "Lei Ordinária nº 4190, de 12/06/2025"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "4190"
+data: "2025-06-12"
+ementa: "Autoriza o Executivo Municipal a Conceder Subvenção Social à Entidade Que Menciona."
+municipio: "Lagoa da Prata"
+uf: "MG"
+codigo_ibge: "3137205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lagoadaprata.mg.leg.br/norma/6022"
+fonte_texto: "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2025/6022/lei_no_4.190-2025_-_autoriza_o_executivo_municipal_a_conceder_subvencao_-_associacao_esportiva_futebol_amigos_e_resenha_-_aefar_proposicao_no_104-2025.pdf"
+sha256_fonte: "6416de98f3d17d68815745fe7d36e1c0d342765ef6593aea87a2423314cc3f18"
+baixado_em: "2026-11-01"
+---
+
+# Lei Ordinária nº 4190, de 12/06/2025
+
+PREFEITURA MUNICIPAL DE LAGOA DA PRATA ESTADO DE MINAS GERAIS
+
+LEI Nº 4.190, DE 12 DE JUNHO DE 2025
+
+Autoriza o Executivo Municipal a Conceder Subvenção Social à Entidade Que Menciona.
+
+O PREFEITO MUNICIPAL. Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Município de Lagoa da Prata autorizado a conceder subvenção social no valor de R$ 30.000,00 (trinta mil reais), através de Convênio com com a ASSOCIAÇÃO ESPORTIVA FUTEBOL AMIGOS E RESENHA - AEFAR, inscrita no CNPJ sob o nº 48.961.974/0001-68.
+
+**Art. 2º** Esta Lei entrará em vigor na data de sua publicação.
+
+Lagoa da Prata, 12 de junho de 2025. Assinado de forma digital por DI GIANNE DI GIANNE DE DE OLIVEIRA OLIVEIRA NUNES:99798921615 NUNES:99798921615 Dados: 2025.06.17 16:24:39 -03'00'
+
+DI GIANNE DE OLIVEIRA NUNES PREFEITO MUNICIPAL

@@ -1,0 +1,46 @@
+---
+titulo: "Lei Ordinária nº 1398, de 30/01/1967"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1398"
+data: "1967-01-30"
+ementa: "Administração do patrimônio público municipal"
+municipio: "Frutal"
+uf: "MG"
+codigo_ibge: "3127107"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.frutal.mg.leg.br/norma/1525"
+fonte_texto: "https://sapl.frutal.mg.leg.br/media/sapl/public/normajuridica/1967/1525/01398.pdf"
+sha256_fonte: "074aa294ffbd9da8184c79c81674c8e0814ad3e5ba0b5de237f2f3c93dc1eb76"
+baixado_em: "2026-11-01"
+---
+
+# Lei Ordinária nº 1398, de 30/01/1967
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Pouca MELIHE Z So dreficdad, de LD Cn
+
+ei Sia a js Sr / ba, sd des dc do Elia |
+
+AU LE 00 ms de Nua duna aura na eu Drs do cou Deaino Íhecda e Luas VAnÃs. Lino |
+
+-— Luligosa Jo eop de tuo ano a a dota date. | Did, louvo de tata PPA “O fode Dois dado Q tucuio OU dsvida à sa “dolinaça sum auto: Ho fodu. Cou Do | Mute Ge Lea o Jututo aut a Cufeua E)
+
+ct donças à Instttuecad Seneyiirada, Cu EU
+
+4º Crpriamento Sud esta deu Lrausciita
+
+cr fia as dis feose eo eus couteatio, eta tipico cu “a data ce ua fubticaas.
+
+dto à lodo pda ca o Coudeiumuto e) eae do fu 7 a Eai fr “pla
+
+a di a > «utuiauuu e Z, UA Se ou gu RD
+
+ou wº/399 da Jo a fosso de 196%. Csfeoo Sóbue putifozeio Le lo.
+
+(O Jovo do fouulicápeio ot bu Autol, fot suss Aee to LUsOL UA LAU, UM SUL LOU, ueioa a E futepo- Jeta mtitiado Pei si]
+
+uuteõo o A. Tec cado (para Le nº LI, dh 2 de uva de t9éc. ,
+
+| Se Ze. A qo dobro & ue des /, Suá feto a fotua À Davaueb e. Llbo | o Jo. trogadas ar Clifeosr'cots um contrário, etal. Mu tutr ar tu (ca plata co sua faróteaçãs Hondo pontoludo, à todas à ul O contento e ) eseeuedo Costa. Ls funde fruafertem Gus d cruutrar € fase — |. ceu brux day vuPejrauuenfe Dio ud Weufeiu. a

@@ -1,0 +1,58 @@
+---
+titulo: "Lei Ordinária nº 4132, de 22/04/2025"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "4132"
+data: "2025-04-22"
+ementa: "Autoriza o Município a outorgar escritura de doação de lotes urbanos, nos termos da “Lei nº 004, de 22 de março, de 1991”."
+municipio: "Lagoa da Prata"
+uf: "MG"
+codigo_ibge: "3137205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lagoadaprata.mg.leg.br/norma/5926"
+fonte_texto: "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2025/5926/lei_no_4.132-2025_-_autoriza_o_municipio_a_outorgar_escritura_de_doacao_de_lotes_-_lei_no_004-1991_proposicao_no_046-2025.pdf"
+sha256_fonte: "68f599b6f615476ef2fbacf7d08271763d06290fbb76bbe22bedbcbbdbf8e502"
+baixado_em: "2026-11-01"
+---
+
+# Lei Ordinária nº 4132, de 22/04/2025
+
+LEI Nº 4.132, DE 22 DE ABRIL DE 2025
+
+Autoriza o Município a outorgar escritura de doação de lotes urbanos, nos termos da “Lei nº 004, de 22 de março, de 1991”.
+
+O PREFEITO MUNICIPAL. Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Município autorizado a outorgar escritura de doação dos lotes de terrenos, de propriedade do Município de Lagoa da Prata, face ao cumprimento das condições previstas na “Lei nº 004, de 22 de março, de 1991” e em obediência ao disposto no Art. 1º da referida Lei.
+
+**Art. 2º** O objetivo desta Lei é a regularização das doações feitas pela “Lei nº 004, de 22 de março, de 1991”, com a aplicação da Política Habitacional de Interesse Social no Município de Lagoa da Prata, conforme fundamentos da “Lei Municipal n° 3510, de 2021”, de modo a viabilizar, à população em vulnerabilidade social, acesso à terra urbanizada e a moradia digna e sustentável.
+
+**Art. 3º** A doação e a escritura de doação dos lotes de terrenos, serão repassadas aos seguintes beneficiários:
+
+1- Antônio Daniel da Costa, portador do CPF n°298.621.086-49 e RG N° M - 4.159.500, filho de João Alves da Costa e Geralda da Conceição Soares Costa, e Francisca Alves Teixeira Costa, portadora do CPF n° 015.752.346-29 e RG n° MG -14.395.597, filha de Francisco Alves Teixeira e Jacira Gonçalves Ferreira: Um lote de terreno, n°09 da quadra n°08, com área de 200,00 m² situado a Rua Vereador Carlos Garcia Azevedo, Nº 315, Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.864, Livro 2-DM; 2- Maria Lúcia de Melo Santos, portadora do CPF n° 358.279.206-49 e RG n° MG-13.905.067, filha de Teodolino Ferreira de Melo e Maria Rosa de Melo: Um lote de terreno, n°02 da quadra n°03, com área de 200,30 m², situado a R. Alexandrino Antônio de Oliveira, Nº 502, no Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.799, Livro 2-D.L; 3- Lúcia Meire Modesto de Jesus, portadora do CPF n°445.355.116-91 e RG n° M-9.190.464, filha de Antônio Lazaro Modesto e Iracema da Silva Modesto: Um lote de terreno, n°12 da quadra n°06, com área de 198,00 m², situado a Av. Bela Vista, Nº 1.316, Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.851, Livro 2-D.M; 4- José Otaviano de Oliveira, portador do CPF n° 358.231.356-53 e RG n° M-8.420.338, filho de Otaviano Furtado de Oliveira e Antônia Maria de Oliveira, e Juscelena dos Santos Oliveira, portadora do CPF n° 069.848.086-42 e RG n° MG – 22.602.640, filha de Silvio Davi dos Santos e Catarina da Silva: Um lote de terreno, n°02 da quadra n°02, com área de 197,45 m², situado a R. Alexandrino Antônio de Oliveira, Nº 606, no Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20785, Livro 2-D.L;
+
+5- Maraísa do Rosário Silva, portadora do CPF n° 362.201.836-49, e RG-MG n° 13.577.042, filha de Antônio Vicente da Silva e Olivia Souto da Silva: Um lote de terreno, n°11 da quadra n°13, com área de 217,95 m², situado a Rua José Gonçalves esquina com Av. Bela Vista, Nº 1.471, no Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20932, Livro 2-RG; 6- Rosilene Maria de Castro Eufrásio, portadora do CPF n° 029.219.046-83 e RG n° MG -13.612.350, filha de Afonso José de Castro e Conceição Maria de Castro: Um lote de terreno, n°15 da quadra n°12, com área de 200,50 m², situado a Rua Toniquinho Resende, Nº 316, no Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20921, Livro 2-D.M; 7- Valdir Antônio da Silva, portador do CPF n°671.251.316-20 e RG °MG-14.501.056, filho de Pedro Leonidio da Silva e Antônia Maria da Silva: Um lote de terreno, n°08 da quadra n°13, com área de 198,35 m², situado a Avenida Bela Vista, Nº 1.441, Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.929, Livro 2-D.M; 8- José Eustáquio da Silva, portador do CPF n° 590.228.846-00, e RG n° MG-4.752.166, filho de Sebastião Antônio da Silva e Nicozina Conceição da Silva: Um lote de terreno, n°11 da quadra n°09, com área de 204,00 m², situado a Rua Vereador Carlos Garcia Azevedo, Nº 314, no Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.878, Livro 2-D.M; 9- Neli Aparecida Carlos, portadora do CPF n°794.320.266-04, e RG n° MG-8.250.843, filha de José Carlos Filho e Nair Batista Carlos: Um lote de terreno, n°09 da quadra n°17, com área de 206,30 m², situado a Rua Toniquinho Resende, Nº 446, no Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.969, Livro 2-D.M; 10- Ana Auxiliadora Laine, portadora do CPF n°950.276.456-00, e RG n° MG-11.768.833, filha de Ruti Souto Laine e Jaime Penha Laine: Um lote de terreno, n°02 da quadra n°04, com área de 201,00 m², situado a Rua Alexandrino Antônio de Oliveira, Nº 454, no Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.813, Livro 2-D.M; 11- João Luiz de Oliveira, portador do CPF n°373.507.066-34, e RG n° MG 6.782.686, filho de Manoel Luiz de Oliveira e Rufina Virgem Oliveira, e Adélia da Silva Oliveira, portadora do CPF n° 069.695.996-80, e RG n° MG -8.379.478, filha de Vicente Pereira da Silva e Vitalina Ribeiro da Silva: Um lote de terreno, n°14 da quadra n°10, com área de 203,70 m², situado a Rua José Maria Botelho, Nº 314, Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.892, Livro 2-D.M; 12- Simoni Rodrigues, portadora do CPF n° 701.383.116-88 e RG n° MG 12.446-986, filha de Bráulio Rodrigues e Neftalina Bruno Rodrigues: Um lote de terreno, n°04 da quadra n°08, com área de 356,20 m² situado a Rua José Paulino, Nº 630, Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.859, Livro 2-DM; 13- Izilda Gonçalves Ribeiro, portadora do CPF nº 872.494.566-87, filha de Sebastião Pinto e Terezinha Pinto Silva: Um lote de terreno, n°05 da quadra n°14, com área de 203,00 m² situado a Rua José Paulino nº 312, Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.946, Livro 2-DM;
+
+14- Conceição Maria da Silva, portadora do CPF nº 997.140.866-04, filha de Vilmar Pinto da Silva e Doraci de Melo Pinto: Um lote de terreno, nº11 da quadra nº17, com área de 202,80 m² situado a Rua Toniquinho Rezende, Nº 426, Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.971, Livro 2-DM; 15- Sônia Claret da Silva, portadora do CPF nº 002.363.836-20, filha de João Teixeira da Silva e Conceição Correa da Silva: Um lote de terreno, nº02 da quadra nº14, com área de 241,45 m² situado a Avenida Bela Vista, Nº 1.424, Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.943, Livro 2-DM; 16- Marina Aparecida de Oliveira Silva, inscrita no CPF/MF sob o n° 063.487.626-02, filha de Ana Lucia de Oliveira e Ramilson Francisco da Silva; Uilian de Oliveira Alves, inscrito no CPF/MF sob o n° 119.856.836-44, filho de Sebastião Alves Gonçalves e Ana Lucia de Oliveira; Ualisson Francisco de Oliveira Silva, inscrito no CPF/MF sob o n° 069.973.266-25, filho de Ana Lucia de Oliveira e Ramilson Francisco da Silva; e Uanderson de Oliveira Alves, inscrito no CPF/MF sob o n° 126.431.766-26, filho de Ana Lucia de Oliveira e Sebastião Alves Gonçalves, nos termos da Escritura Pública de Declaração de Herdeiros e nomeação de inventariante, do Espólio de Ana Lúcia de Oliveira, portadora do CPF n°444.917.946-34, filha de João Emidio Filho e Araci Maria de Jesus: Um lote de terreno, n°05 da quadra n°06, com área de 201,20 m² situado a Rua João Bahia de Azevedo, N°261, Bairro Chico Miranda, nesta cidade, de propriedade da municipalidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 20.844, Livro 2-DM;
+
+**Art. 4º** Os donatários somente poderão ser beneficiados uma única vez.
+
+**§ 1º** Os donatários, ou seus sucessores, deverão, no prazo de 12 (doze) meses da publicação desta Lei, efetuar a transferência da propriedade do respectivo imóvel junto ao Cartório de Registro de Imóveis, sob pena de reversão, sem qualquer indenização aos donatários.
+
+**§ 2º** Não se aplicam às doações previstas nesta Lei, os dispositivos da “Lei Municipal nº 3.510, de 03 de setembro de 2021” que Dispõe sobre a política habitacional de interesse social destinada a autorizar a alienação de terrenos do município de Lagoa da Prata para famílias carentes para fins de moradia, define os critérios pertinentes e dá outras providências, face ao disposto no caput do Art. 1º desta Lei.
+
+**§ 3º** A doação dos lotes de terrenos urbanos descritos nesta Lei, são vinculadas a Programa Habitacional Municipal destinado a pessoas de baixa renda, com a participação do Poder Público.
+
+**Art. 5º** As despesas decorrentes da presente Lei, em especial as provenientes da lavratura da escritura de doação e seu registro, correrão à conta dos donatários ou seus sucessores.
+
+**§ 1º** Caso o donatário comprove incapacidade financeira, o Município irá arcar com as despesas de transferência e registro, mediante despacho fundamentado nos autos de processo administrativo instaurado para este fim.
+
+**§ 2º** Sendo constatada a incapacidade financeira do beneficiário, o pagamento das despesas serão realizados pelo Município somente após a tentativa de isenção de todos os custos da transferência e registro.
+
+**§ 3º** As despesas referentes aos documentos de exigência para a realização da transferência e registro, como, certidão de nascimento, de casamento, de registro de ônus e ações do imóvel, certidão de propriedade negativa emitida pelo CRI local, e outras necessárias, serão pagas pelo donatário, e em caso de hipossuficiência financeira, e impossibilidade de isenção, serão custeadas pelo Município.
+
+**Art. 6º** Esta Lei entra em vigor na data de sua publicação.
+
+Lagoa da Prata, 22 de abril de 2025. DI GIANNE DE Assinado de forma digital por DI GIANNE OLIVEIRA DE OLIVEIRA NUNES:99798 NUNES:99798921615 Dados: 2025.04.23 921615 10:26:35 -03'00'
+
+DI GIANNE DE OLIVEIRA NUNES Prefeito Municipal
