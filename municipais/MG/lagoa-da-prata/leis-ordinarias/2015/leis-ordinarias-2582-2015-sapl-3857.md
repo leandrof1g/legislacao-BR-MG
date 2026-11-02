@@ -1,0 +1,34 @@
+---
+titulo: "Lei Ordinária nº 2582, de 27/07/2015"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "2582"
+data: "2015-07-27"
+ementa: "“AUTORIZA O EXECUTIVO MUNICIPAL A CONCEDER SUBVENÇÃO SOCIAL À ENTIDADE QUE MENCIONA E CONTÉM OUTRAS PROVIDÊNCIAS.”"
+municipio: "Lagoa da Prata"
+uf: "MG"
+codigo_ibge: "3137205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lagoadaprata.mg.leg.br/norma/3857"
+fonte_texto: "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2015/3857/3857_texto_integral.pdf"
+sha256_fonte: "152c7883abc368e056ba940d60d1dbb599efc3d31cd2dc0c3db3a71f692fa6d4"
+baixado_em: "2026-11-02"
+---
+
+# Lei Ordinária nº 2582, de 27/07/2015
+
+PREFEITURA MUNICIPAL DE LAGOA DA PRATA ESTADO DE MINAS GERAIS
+
+LEI Nº 2582/2015
+
+“Autoriza o Executivo Municipal a Conceder Subvenção Social à Entidade Que Menciona e Contém Outras Providências.”
+
+A Câmara Municipal de Lagoa da Prata aprovou e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Município de Lagoa da Prata autorizado a conceder subvenção social, no montante de R$ 13.800,00 (treze mil e oitocentos reais), através de convênio a ser firmado, à seguinte entidade: Centro de Educação Infantil Tia Elvira, inscrita no CNPJ sob o n.º 20.897.211/0001-86.
+
+**Art. 2º** Esta lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Lagoa da Prata, 27 de julho de 2015.
+
+PAULO CÉSAR TEODORO PREFEITO MUNICIPAL

@@ -713,7 +713,7 @@
    "sapl_manual": false
   },
   "3137205": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Lagoa da Prata",
    "normas_na_fonte": 6512,
    "pasta": "lagoa-da-prata",

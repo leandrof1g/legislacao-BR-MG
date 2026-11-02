@@ -1,0 +1,42 @@
+---
+titulo: "Resolução nº 7, de 01/09/2010"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "7"
+data: "2010-09-01"
+ementa: "Concede Diploma de Mérito Empresarial a Osvaldo De Matos."
+municipio: "Itabirito"
+uf: "MG"
+codigo_ibge: "3131901"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.itabirito.mg.leg.br/norma/2341"
+fonte_texto: "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2010/2341/resolucao_07_2010.pdf"
+sha256_fonte: "8b46eceb69bac6fd89f2b9472d1792dd7df91267d2eec08aa58a4792d18aa387"
+baixado_em: "2026-11-02"
+---
+
+# Resolução nº 7, de 01/09/2010
+
+CÂMARA MUNICIPAL DE ITABIRITO
+
+RESOLUÇÃO N° 07/2010 Concede Diploma de Mérito Empresarial a Osvaldo de Matos
+
+A Câmara Municipal de Itabirito, no uso de suas atribuições legais, aprova e promulga a seguinte:
+
+RESOLUÇÃO
+
+**Art. 1°** Fica concedido o Diploma de Mérito Empresarial a Osvaldo de Matos, pelos relevantes serviços prestados à comunidade.
+
+**Parágrafo único.** O Diploma de que trata este artigo será entregue em sessão solene da Câmara Municipal de ltabirito.
+
+**Art. 2°** Esta Resolução entra em vigor na data de sua publicação.
+
+**Art. 3°** Revogam-se as disposições em contrário.
+
+Câmara Municipal de ltabirito, 1° de setembro de 2010.
+
+de Souza Batb0S3 HÉLIO GÁJb' A \*OSÃÜ SOUZA Presidente
+
+72-7 IL OES Secretário
+
+Av. Queiroz Júnior, 639 - CX Postal 74- Cep. 35450-000 - Itabirito/MG Telefax: (31) 561-1599 — e-mails: camara@camaraita.com.br -camara@itabirito.cam.mg.gov.br Site: www.itabirito.cam.mg.gov.br

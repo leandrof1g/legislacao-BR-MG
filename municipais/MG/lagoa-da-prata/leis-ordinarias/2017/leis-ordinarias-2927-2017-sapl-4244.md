@@ -1,0 +1,38 @@
+---
+titulo: "Lei Ordinária nº 2927, de 09/03/2017"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "2927"
+data: "2017-03-09"
+ementa: "&#8220;AUTORIZA O EXECUTIVO MUNICIPAL A ABRIR CRÉDITO ESPECIAL, CONCEDER SUBVENÇÃO SOCIAL À ENTIDADE QUE MENCIONA E CONTÉM OUTRAS PROVIDÊNCIAS&#8221;."
+municipio: "Lagoa da Prata"
+uf: "MG"
+codigo_ibge: "3137205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lagoadaprata.mg.leg.br/norma/4244"
+fonte_texto: "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2017/4244/4244_texto_integral.pdf"
+sha256_fonte: "c9c56e5453077947f4363f01b24e0c90e5699a306c1e1fc555f7f2ea5e84a5e3"
+baixado_em: "2026-11-02"
+---
+
+# Lei Ordinária nº 2927, de 09/03/2017
+
+PREFEITURA MUNICIPAL DE LAGOA DA PRATA ESTADO DE MINAS GERAIS
+
+LEI Nº 2.927/2017
+
+“Autoriza o Executivo Municipal a Abrir Crédito Especial, Conceder Subvenção Social à Entidade Que Menciona e Contém Outras Providências”.
+
+A Câmara Municipal de Lagoa da Prata aprovou e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Executivo Municipal autorizado a abrir um Crédito Especial ao orçamento vigente do Município de Lagoa da Prata, no montante de R$40.000,00 (quarenta mil reais), para atender às seguintes dotações orçamentárias: 02.04.03.08.243.0407.4.200.3350.43........................................................R$40.000,00 Total.......................................................R$40.000,00
+
+**Art. 2º** Como recursos à abertura do Crédito Especial mencionado no artigo anterior faz-se uso do recurso de Superávit Financeiro apurado no exercício de 2016, do recurso FIA, conta bancária n. 28.774-1.
+
+**Art. 3º** Fica o Município de Lagoa da Prata autorizado a conceder Subvenção Social, no montante de R$40.000,00 (quarenta mil reais), através de convênio a ser firmado, à seguinte entidade: AMAVI – Associação Municipal de Apoio às Vítimas de Violência, inscrita no CNPJ sob o n.º 07.472.313/0001-91.
+
+**Art. 4º** Esta lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Lagoa da Prata, 09 de março de 2017.
+
+PAULO CÉSAR TEODORO PREFEITO MUNICIPAL

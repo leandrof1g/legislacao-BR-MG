@@ -1,0 +1,44 @@
+---
+titulo: "Lei Ordinária nº 2673, de 29/12/2015"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "2673"
+data: "2015-12-29"
+ementa: "&#8220;AUTORIZA O MUNICÍPIO DE LAGOA DA PRATA A DOAR IMÓVEL QUE MENCIONA E CONTÉM OUTRAS PROVIDÊNCIAS.&#8221;"
+municipio: "Lagoa da Prata"
+uf: "MG"
+codigo_ibge: "3137205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lagoadaprata.mg.leg.br/norma/3916"
+fonte_texto: "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2015/3916/3916_texto_integral.pdf"
+sha256_fonte: "3d5efd99cd3bede5b0ded82dc663932cf17d9332e807e46d2a72ca399d35dae2"
+baixado_em: "2026-11-02"
+---
+
+# Lei Ordinária nº 2673, de 29/12/2015
+
+PREFEITURA MUNICIPAL DE LAGOA DA PRATA ESTADO DE MINAS GERAIS
+
+LEI Nº 2673/2015
+
+“Autoriza o Município de Lagoa da Prata a Doar Imóvel Que Menciona e Contém Outras Providências.”
+
+A Câmara Municipal de Lagoa da Prata aprovou e eu sanciono a se- guinte Lei:
+
+**Art. 1º** Fica o Município de Lagoa da Prata autorizado a outorgar es- critura de doação ao Espólio de Margarida Maria dos Santos, de um lote de ter- reno urbano de nº 02 da quadra n.º 132, com área de 348,00m 2 (trezentos e qua- renta e oito metros quadrados), de propriedade do Município de Lagoa da Prata, si- tuado na Rua Manaus, Conjunto Habitacional Monsenhor Alfredo Dohr, Bairro Marí- lia, nesta cidade, registrado no CRI da Comarca de Lagoa da Prata, Matrícula nº 18.302, Livro 2-C.X.
+
+**Art. 2º** O donatário, ou seus sucessores, não poderão alienar, alugar, ceder ou emprestar o imóvel, objeto desta doação, no prazo de 20 (vinte) anos, a contar da data da escritura, salvo prévia autorização do chefe do executivo e do poder legislativo.
+
+**Art. 3º** O donatário, ou seus sucessores, deverão efetuar a construção de sua casa, no prazo máximo de 24 (vinte e quatro) meses, caso não tenham feito, sob pena de reversão do bem doado ao patrimônio público municipal, inclusive as benfeitorias.
+
+Parágrafo Único. No caso de reversão, não caberá qualquer indeni- zação ao donatário ou seus sucessores.
+
+**Art. 4º** Fica dispensada a realização de concorrência pública em ra- zão do relevante interesse público desta doação, nos termos do art. 104, I, da Lei Orgânica Municipal.
+
+**Art. 5º** As despesas decorrentes da presente lei correrão à conta do donatário ou seus sucessores.
+
+**Art. 6º** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Lagoa da Prata, 29 de dezembro de 2015.
+
+PAULO CÉSAR TEODORO Prefeito Municipal

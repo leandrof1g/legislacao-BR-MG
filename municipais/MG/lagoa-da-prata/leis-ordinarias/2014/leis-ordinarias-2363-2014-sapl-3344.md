@@ -1,0 +1,850 @@
+---
+titulo: "Lei Ordinária nº 2363, de 23/12/2014"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "2363"
+data: "2014-12-23"
+ementa: "ALTERA METAS FISCAIS DA LEI 2.294/2014 QUE INSTITUI AS DIRETRIZES ORÇAMENTÁRIAS PARA O EXERCÍCIO DE 2015.\""
+municipio: "Lagoa da Prata"
+uf: "MG"
+codigo_ibge: "3137205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lagoadaprata.mg.leg.br/norma/3344"
+fonte_texto: "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2014/3344/3344_texto_integral.pdf"
+sha256_fonte: "1b90679aeb1292a6f6c168ecf0b03585c91d4fb51ce31e64b35d7273d356a8bd"
+baixado_em: "2026-11-02"
+---
+
+# Lei Ordinária nº 2363, de 23/12/2014
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+MUNICÍPIO DE LAGOA DA PRATA
+
+EXERCÍCIO DE 2015
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS DE 2015
+
+LEI 2294/2014
+
+“Dispõe Sobre as Diretrizes Para a Elaboração da Lei Orçamentária de 2015 e Dá Outras Providências.”
+
+#### CAPÍTULO I Disposições Preliminares
+
+**Art. 1º** São estabelecidas, em cumprimento ao disposto no art. 165, § 2º, da Constituição da República, e na Lei Complementar nº 101, de 04 de maio de 2000, as diretrizes para a elaboração da lei orçamentária do exercício financeiro de 2015, compreendendo:
+
+I – as metas e prioridades da Administração Pública Municipal;
+
+II – orientações básicas para elaboração da lei orçamentária anual;
+
+III – disposições sobre a política de pessoal e serviços extraordinários;
+
+IV – disposições sobre a receita e alterações na legislação tributária do Município;
+
+V – equilíbrio entre receitas e despesas;
+
+VI – critérios e formas de limitação de empenho;
+
+VII – normas relativas ao controle de custos e a avaliação dos resultados dos programas financiados com recursos dos orçamentos;
+
+VIII – condições e exigências para transferências de recursos a entidades públicas e privadas;
+
+IX – autorização para o Município auxiliar o custeio de despesas atribuídas a outros entes da federação;
+
+X – parâmetros para a elaboração da programação financeira e do cronograma mensal de desembolso;
+
+XI – definição de critérios para início de novos projetos;
+
+XII – definição das despesas consideradas irrelevantes;
+
+XIII – incentivo à participação popular;
+
+XIV – as disposições gerais.
+
+#### CAPÍTULO II Do Orçamento
+
+##### SEÇÃO I Das Metas e Prioridades da Administração Pública Municipal
+
+**Art. 2º** Em consonância com o disposto no art. 165, § 2º, da Constituição da República, atendidas as despesas que constituem obrigação constitucional ou legal do Município, as metas e as prioridades para o exercício financeiro de 2015 correspondem às ações especificadas no Anexo de Metas e Prioridades que integra esta Lei, de acordo com os programas e ações estabelecidos no Plano Plurianual relativo ao período de 2014-2017, as quais terão precedência na alocação de recursos na lei orçamentária de 2015 e na sua execução, não se constituindo, todavia, em limite à programação das despesas.
+
+**Parágrafo único** O projeto de lei orçamentária para 2015 deverá ser elaborado em consonância com as metas e prioridades estabelecidas na forma do caput deste artigo.
+
+##### SEÇÃO II Das Orientações Básicas para Elaboração da Lei Orçamentária Anual
+
+###### SUBSEÇÃO I Das Diretrizes Gerais
+
+**Art. 3º** As categorias de programação de que trata esta Lei serão identificadas por funções, subfunções, programas, atividades, projetos, operações especiais, de acordo com as codificações da Portaria SOF nº 42/1999, da Portaria Interministerial STN/SOF nº 163/2001 e da Lei do Plano Plurianual relativo ao período 2014-2017.
+
+**Art. 4º** O orçamento fiscal discriminará a despesa, no mínimo, por elemento de despesa, conforme art. 15 da Lei nº 4.320/64, e conterá a destinação de recursos, classificados e regulamentados pela Secretaria do Tesouro Nacional – STN e pelo Tribunal de Contas do Estado de Minas Gerais – TCEMG.
+
+**§1º** O Município poderá incluir, na Lei Orçamentária, outras fontes de recursos para atender às suas peculiaridades, além daquelas determinadas no caput deste artigo.
+
+**§2º** Durante a execução orçamentária, as fontes de recursos previstas poderão ser alteradas ou novas poderão ser incluídas, exclusivamente pela Secretaria Municipal de Fazenda.
+
+**Art. 5º** O orçamento fiscal compreenderá a programação dos Poderes do Município, seus fundos, órgãos e autarquias.
+
+**Art. 6º** O projeto de lei orçamentária que o Poder Executivo encaminhará à Câmara Municipal será constituído de:
+
+I – texto da lei;
+
+II – documentos referenciados nos artigos 2º e 22 da Lei nº 4.320/1964;
+
+III – quadros orçamentários consolidados;
+
+IV – anexo do orçamento fiscal, discriminando a receita e a despesa na forma definida nesta Lei;
+
+V – demonstrativos e documentos previstos no art. 5º da Lei Complementar nº 101/2000.
+
+**Art. 7º** A estimativa da receita e a fixação da despesa, constantes do projeto de lei orçamentária de 2015, serão elaboradas a valores correntes do exercício de 2014, projetados ao exercício a que se refere.
+
+**Parágrafo único.** O projeto de lei orçamentária atualizará a estimativa da margem de expansão das despesas, considerando os acréscimos de receita resultantes do crescimento da economia e da evolução de outras variáveis que implicam aumento da base de cálculo, bem como de alterações na legislação tributária, devendo ser garantidas, no mínimo, as metas de resultado primário e nominal estabelecidas nesta Lei.
+
+**Art. 8º** O Poder Executivo colocará à disposição do Poder Legislativo, no mínimo trinta dias antes do prazo final para encaminhamento de sua proposta orçamentária, os estudos e as estimativas das receitas para o exercício subsequente, inclusive da corrente líquida, e as respectivas memórias de cálculo.
+
+**Parágrafo único.** As entidades da Administração Indireta encaminharão à Contadoria do Poder Executivo, até 15 dias antes do prazo definido no caput, os estudos e as estimativas das suas receitas orçamentárias para o exercício subsequente e as respectivas memórias de cálculo, para fins de consolidação da receita municipal.
+
+**Art. 9º** O Poder Legislativo e as entidades da Administração Indireta encaminharão à Contadoria do Poder Executivo, até 15 de agosto de 2014 suas respectivas propostas orçamentárias, para fins de consolidação do projeto de lei orçamentária.
+
+**§ 1º** As propostas orçamentárias das entidades mencionadas no caput deverão ser encaminhadas observando todos os requisitos desta lei, inclusive memórias de cálculo das receitas, transferências e despesas previstas, devendo todos os anexos conter assinaturas do responsável legal e do contador;
+
+**§ 2º** Caso as propostas orçamentárias das entidades mencionadas no caput não sejam encaminhadas até a data estabelecida, serão considerados, para elaboração e consolidação do orçamento municipal, os mesmos valores previstos para o orçamento do exercício corrente.
+
+**Art. 10** Na programação da despesa não poderão ser fixadas despesas sem que estejam definidas as respectivas fontes de recursos, de forma a evitar o comprometimento do equilíbrio orçamentário entre a receita e a despesa.
+
+Parágrafo único: As informações gerenciais e as fontes financeiras agregadas nos créditos orçamentários serão ajustadas diretamente pelos órgãos contábeis do Executivo e do Legislativo para atender às necessidades da execução orçamentária.
+
+**Art. 11** A lei orçamentária discriminará, nos órgãos da administração direta e nas entidades da administração indireta responsáveis pelo débito, as dotações destinadas ao pagamento de precatórios judiciais em cumprimento ao disposto no art. 100 da Constituição da República.
+
+**Parágrafo único** Para fins de acompanhamento, controle e centralização, os órgãos da administração direta e as entidades da administração indireta submeterão os processos referentes ao pagamento de precatórios à apreciação da Procuradoria do Município.
+
+**Art. 12** As emendas ao projeto de lei orçamentária obedecerão ao disposto no § 3º, do artigo 166, da Constituição da República de 1988.
+
+###### SUBSEÇÃO II Das Disposições Relativas à Dívida e ao Endividamento Público Municipal
+
+**Art. 13** A administração da dívida pública municipal interna tem por objetivo principal minimizar custos, reduzir o montante da dívida pública e viabilizar fontes alternativas de recursos para o Tesouro Municipal.
+
+**§ 1º** Deverão ser garantidos, na lei orçamentária, os recursos necessários para pagamento da dívida.
+
+**§ 2º** O Município, por meio de seus órgãos e entidades, subordinar-se-á às normas estabelecidas na Resolução nº 40/2001 do Senado Federal, que dispõe sobre os limites globais para o montante da dívida pública consolidada e da dívida pública mobiliária, em atendimento ao disposto no art. 52, incisos VI e IX, da Constituição da República.
+
+**Art. 14** Na lei orçamentária para o exercício de 2015, as despesas com amortização, juros e demais encargos da dívida serão fixadas com base nas operações contratadas.
+
+**Art. 15** A lei orçamentária poderá conter autorização para contratação de operações de crédito pelo Poder Executivo, a qual ficará condicionada ao atendimento das normas estabelecidas na Lei Complementar nº 101/2000 e na Resolução nº 43/2001 do Senado Federal.
+
+**Art. 16** A lei orçamentária poderá conter autorização para a realização de operações de crédito por antecipação de receita orçamentária, desde que observado o disposto no art. 38 da Lei Complementar nº 101/2000 e atendidas as exigências estabelecidas na Resolução nº 43/2001 do Senado Federal.
+
+###### SUBSEÇÃO III Da Definição de Montante e Forma de Utilização da Reserva de Contingência
+
+**Art. 17** A lei orçamentária conterá reserva de contingência constituída exclusivamente com recursos do orçamento fiscal e será equivalente a, no mínimo, 1% (um por cento) da receita corrente líquida prevista na proposta orçamentária de 2015, destinada ao atendimento de passivos contingentes, outros riscos e eventos fiscais imprevistos e reforço das dotações orçamentárias que se tornarem insuficientes.
+
+**§1º** Durante a execução orçamentária a Reserva de Contingência poderá ser utilizada como fonte de recursos para abertura de créditos adicionais especiais ou suplementares, desde que sejam mantidos o equilíbrio orçamentário e financeiro.
+
+**§2º** A Reserva de Contingência poderá ser utilizada, ainda, para resguardar os recursos previstos para celebração de convênios com entidades sem fins lucrativos, cujos projetos de aplicação ainda estejam em fase de análise pelo Poder Executivo e que ainda não tenham sido aprovados pelo Poder Legislativo em leis específicas.
+
+**§3º** Os valores mencionados no parágrafo anterior não serão computados no montante de 1% (um por cento) previsto no caput, devendo ser adicionados ao montante previsto para passivos contingentes;
+
+**§4º** Os valores previstos para repasse às entidades, conforme mencionado no parágrafo primeiro, se constituem em meras estimativas e não se confundem com a autorização para repasse às entidades, motivo pelo qual o Poder Executivo não está obrigado a relacionar as entidades beneficiárias, ou o valor destinado a cada uma.
+
+**§5º** Os valores previstos para repasse às entidades que por qualquer motivo não se realizarem, poderão ser utilizados para abertura de créditos adicionais ao orçamento.
+
+##### SEÇÃO III Da Política de Pessoal e dos Serviços Extraordinários
+
+###### SUBSEÇÃO I Das Disposições Sobre Política de Pessoal e Encargos Sociais
+
+**Art. 18** Para fins de atendimento ao disposto no art. 169, § 1º, inciso II, da Constituição da República, observado o inciso I do mesmo parágrafo, ficam autorizadas as concessões de quaisquer vantagens, aumentos de remuneração, criação de cargos, empregos e funções, alterações de estrutura de carreiras, bem como admissões ou contratações de pessoal a qualquer título, desde que observado o disposto nos artigos 15, 16 e 17 da Lei Complementar nº 101/2000.
+
+**§ 1º** Além de observar às normas do caput, no exercício financeiro de 2015 as despesas com pessoal dos Poderes Executivo e Legislativo deverão atender às disposições contidas nos artigos 18, 19 e 20 da Lei Complementar nº 101/2000.
+
+**§ 2º** Se a despesa total com pessoal ultrapassar os limites estabelecidos no art. 19 da Lei Complementar nº 101/2000, serão adotadas as medidas de que tratam os §§ 3º e 4º do art. 169 da Constituição da República.
+
+**Art. 19** Fica autorizada a revisão geral anual de que trata o art. 37, inciso X da Constituição Federal.
+
+###### SUBSEÇÃO II Da Previsão para Contratação Excepcional de Horas Extras
+
+**Art. 20** Se durante o exercício de 2015 a despesa com pessoal atingir o limite de que trata o parágrafo único do art. 22 da Lei Complementar nº 101/2000, o pagamento da realização de serviço extraordinário somente poderá ocorrer quando destinada ao atendimento de relevante interesse público que ensejem situações emergenciais de risco ou de prejuízo para a sociedade.
+
+**Parágrafo único.** A autorização para a realização de serviço extraordinário para atender as situações previstas no caput deste artigo, no âmbito do Poder Executivo é de exclusiva competência do Secretário Municipal de Administração e no âmbito do Poder Legislativo é de exclusiva competência do Presidente da Câmara.
+
+##### SEÇÃO IV Das Disposições Sobre a Receita e Alterações na Legislação Tributária do Município
+
+**Art. 21** A estimativa da receita que constará do projeto de lei orçamentária para o exercício de 2015, com vistas à expansão da base tributária e consequente aumento das receitas próprias, contemplará medidas de aperfeiçoamento da administração dos tributos municipais, dentre as quais:
+
+I – aperfeiçoamento do sistema de formação, tramitação e julgamento dos processos tributário-administrativos, visando à racionalização, simplificação e agilização;
+
+II – aperfeiçoamento dos sistemas de fiscalização, cobrança e arrecadação de tributos, objetivando a sua maior exatidão;
+
+III – aperfeiçoamento dos processos tributário-administrativos, por meio da revisão e racionalização das rotinas e processos, objetivando a modernização, a padronização de atividades, a melhoria dos controles internos e a eficiência na prestação de serviços;
+
+IV – aplicação das penalidades fiscais como instrumento inibitório da prática de infração da legislação tributária.
+
+**Art. 22** A estimativa da receita de que trata o artigo anterior levará em consideração, adicionalmente, o impacto de alteração na legislação tributária, com destaque para:
+
+I – atualização da planta genérica de valores do Município;
+
+II – revisão, atualização ou adequação da legislação sobre Imposto Predial e Territorial Urbano, suas alíquotas, forma de cálculo, condições de pagamentos, descontos e isenções, inclusive com relação à progressividade deste imposto;
+
+III – revisão da legislação referente ao Imposto Sobre Serviços de Qualquer Natureza;
+
+IV – revisão da legislação aplicável ao Imposto sobre Transmissão Intervivos de Bens Imóveis e de Direitos Reais sobre Imóveis;
+
+V – instituição de taxas pela utilização efetiva ou potencial de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição;
+
+VI – revisão da legislação sobre as taxas pelo exercício do poder de polícia;
+
+VII – revisão das isenções dos tributos municipais, para manter o interesse público e a justiça fiscal;
+
+VIII – instituição, por lei específica, da Contribuição de Melhoria com a finalidade de tornar exequível a sua cobrança;
+
+IX – a instituição de novos tributos ou a modificação, em decorrência de alterações legais, daqueles já instituídos;
+
+X – instituição da obrigatoriedade da emissão de Nota Fiscal Eletrônica de serviços.
+
+**Art. 23** O projeto de lei que conceda ou amplie incentivo ou benefício de natureza tributária somente será aprovado se atendidas às exigências do art. 14 da Lei Complementar nº 101/2000.
+
+**Art. 24** Na estimativa das receitas do projeto de lei orçamentária poderão ser considerados os efeitos de propostas de alterações na legislação tributária que estejam em tramitação na Câmara Municipal.
+
+**§ 1º** Caso as alterações propostas não sejam aprovadas, ou o sejam parcialmente, de forma a não permitir a integralização dos recursos esperados, as dotações à conta das referidas receitas serão canceladas, mediante decreto, nos 30 (trinta) dias subsequentes à publicação do projeto de lei orçamentária de 2015.
+
+**§ 2º** No caso de não-aprovação das propostas de alteração previstas no caput, poderá ser efetuada a substituição das fontes condicionadas por excesso de arrecadação de outras fontes, inclusive de operações de crédito, ou por superávit financeiro apurado em balanço patrimonial do exercício anterior, antes do cancelamento previsto no § 1º deste artigo.
+
+##### SEÇÃO V Do Equilíbrio Entre Receitas e Despesas
+
+**Art. 25** A elaboração do projeto, a aprovação e a execução da lei orçamentária do exercício de 2015 serão orientadas no sentido de alcançar o superávit primário necessário para garantir uma trajetória de solidez financeira da administração municipal, conforme discriminado no Anexo de Metas Fiscais, constante desta Lei.
+
+**Art. 26** Os projetos de lei que impliquem em diminuição de receita ou aumento de despesa do Município no exercício de 2015 deverão estar acompanhados de demonstrativos que discriminem o montante estimado da diminuição da receita ou do aumento da despesa, para cada um dos exercícios compreendidos no período de 2015 a 2017, demonstrando a memória de cálculo respectiva.
+
+**Parágrafo único** Não será aprovado projeto de lei que implique em aumento de despesa sem que estejam acompanhados das medidas definidas nos arts. 16 e 17 da Lei Complementar nº 101/2000.
+
+**Art. 27** As estratégias para busca ou manutenção do equilíbrio entre as receitas e despesas poderão levar em conta as seguintes medidas:
+
+I – para elevação das receitas:
+
+a) a implementação das medidas previstas nos arts. 20 e 21 desta Lei;
+
+b) atualização e informatização do cadastro imobiliário;
+
+c) chamamento geral dos contribuintes inscritos na Dívida Ativa, inclusive com políticas de incentivo à quitação de débitos;
+
+d) protesto de títulos;
+
+e) cobrança de contribuição de melhorias.
+
+II – para redução das despesas:
+
+a) utilização da modalidade de licitação denominada pregão e implantação de rigorosa pesquisa de preços, de forma a baratear toda e qualquer compra e evitar a cartelização dos fornecedores;
+
+b) revisão geral das gratificações concedidas aos servidores;
+
+c) investimento em tecnologia e informatização, com vistas a agilizar processos.
+
+##### SEÇÃO VI Dos Critérios e Formas de Limitação de Empenho
+
+**Art. 28** Na hipótese de ocorrência das circunstâncias estabelecidas no caput do artigo 9º, e no inciso II do § 1º do artigo 31, da Lei
+
+Complementar nº 101/2000, o Poder Executivo e o Poder Legislativo procederão à respectiva limitação de empenho e de movimentação financeira, calculada de forma proporcional à participação dos Poderes no total das dotações iniciais constantes da lei orçamentária de 2015.
+
+**§ 1º** Excluem-se da limitação prevista no caput deste artigo:
+
+I – as despesas com benefícios previdenciários;
+
+II – as despesas com amortização, juros e encargos da dívida;
+
+III – as despesas com PASEP;
+
+IV – as despesas com o pagamento de precatórios e sentenças judiciais;
+
+V – as demais despesas que constituam obrigação constitucional e legal.
+
+**§ 2º** O Poder Executivo comunicará ao Poder Legislativo o montante que lhe caberá tornar indisponível para empenho e movimentação financeira, conforme proporção estabelecida no caput deste artigo.
+
+**§ 3º** Os Poderes Executivo e Legislativo, com base na comunicação de que trata o parágrafo anterior, emitirão e publicarão ato próprio estabelecendo os montantes que caberão aos respectivos órgãos e entidades na limitação do empenho e da movimentação financeira.
+
+**§ 4º** Se verificado, ao final de um bimestre, que a realização da receita não será suficiente para garantir o equilíbrio das contas públicas, adotar-se-ão as mesmas medidas previstas neste artigo.
+
+##### SEÇÃO VII Das Normas Relativas ao Controle de Custos e Avaliação dos Resultados dos Programas Financiados com Recursos dos Orçamentos
+
+**Art. 29** O Poder Executivo realizará estudos visando a definição de sistema de controle de custos e a avaliação do resultado dos programas de governo, com base nas Normas Contábeis Aplicadas ao Setor Público, e obedecendo ao cronograma estabelecido para seu cumprimento.
+
+**Art. 30** Além de observar as demais diretrizes estabelecidas nesta Lei, a alocação dos recursos na lei orçamentária e em seus créditos adicionais, bem como a respectiva execução, serão feitas de forma a propiciar o controle de custos e a avaliação dos resultados dos programas de governo.
+
+**§ 1º** A lei orçamentária de 2015 e seus créditos adicionais deverão agregar todas as ações governamentais necessárias ao cumprimento dos objetivos dos respectivos programas, sendo que as ações governamentais que não contribuírem para a realização de um programa específico deverão ser agregadas num programa denominado “Apoio Administrativo” ou de finalidade semelhante.
+
+**§ 2º** Merecerá destaque o aprimoramento da gestão orçamentária, financeira e patrimonial, por intermédio da modernização dos instrumentos de planejamento, execução, avaliação e controle interno.
+
+**§ 3º** O Poder Executivo promoverá amplo esforço de redução de custos, otimização de gastos e reordenamento de despesas do setor público municipal, sobretudo pelo aumento da produtividade na prestação de serviços públicos e sociais.
+
+##### SEÇÃO VIII Das Condições e Exigências para Transferências de Recursos a Entidades Públicas e Privadas
+
+**Art. 31** É vedada a inclusão, na lei orçamentária e em seus créditos adicionais, de dotações a título de subvenções sociais, ressalvadas as autorizadas mediante lei específica que sejam destinadas, cumulativamente:
+
+I – às entidades que prestem atendimento direto ao público, de forma gratuita;
+
+II – às entidades sem fins lucrativos que realizem atividades de natureza continuada;
+
+III – às entidades que tenham sido declaradas por lei como sendo de utilidade pública;
+
+IV – ao atendimento de metas estabelecidas no Plano Plurianual.
+
+**Parágrafo único.** Para habilitar-se ao recebimento de subvenções sociais, a entidade privada sem fins lucrativos deverá apresentar declaração de regular funcionamento, emitida há no máximo 01 ano por uma autoridade local, e comprovar a regularidade do mandato de sua diretoria.
+
+**Art. 32** É vedada a inclusão, na lei orçamentária e em seus créditos adicionais, de dotações a título de auxílios e contribuições, ressalvadas as autorizadas mediante lei específica e desde que sejam:
+
+I – às entidades de atendimento direto e gratuito ao público;
+
+II – às associações ou consórcios intermunicipais, constituídos exclusivamente por entes públicos, legalmente instituídos e signatários de contrato de gestão com a administração pública municipal, e que participem da execução de programas municipais.
+
+**Art. 33** É vedada a inclusão, na lei orçamentária e em seus créditos adicionais, de dotações a título de contribuições para entidades privadas de fins lucrativos, ressalvadas as instituídas por lei específica no âmbito do Município que sejam destinadas aos programas específicos de incentivo ao desenvolvimento local.
+
+**Art. 34** É vedada a inclusão, na lei orçamentária e em seus créditos adicionais, de dotação para a realização de transferência financeira a outro ente da federação, exceto para atender as situações que envolvam claramente o atendimento de interesses locais, observadas as exigências do art. 25 da Lei Complementar nº 101/2000.
+
+**Art. 35** As entidades beneficiadas com os recursos públicos previstos nesta Seção, a qualquer título, submeter-se-ão à fiscalização dos Poderes Executivo e Legislativo com a finalidade de verificar o cumprimento dos objetivos para os quais receberam os recursos.
+
+**Art. 36** As transferências de recursos às entidades previstas nos arts. 29 a 32 desta Seção deverão ser precedidas da aprovação de plano de trabalho pelo respectivo Conselho Municipal ou na inexistência deste pelo respectivo Secretário Municipal e da celebração de convênio, devendo ser observadas na elaboração de tais instrumentos as exigências do art. 116 da Lei nº 8.666/1993, ou de outra Lei que vier substituí-la ou alterá-la.
+
+**§ 1º** Compete ao órgão ou entidade concedente, por meio do respectivo ordenador de despesas, o acompanhamento da realização do plano de trabalho executado com recursos transferidos pelo Município.
+
+**§ 2º** É vedada a celebração de convênio com entidade em situação irregular com o Município, em decorrência de transferência feita anteriormente.
+
+**§ 3º** Excetuam-se do cumprimento dos dispositivos legais a que se refere o caput deste artigo as caixas escolares da rede pública municipal de ensino que receberem recursos diretamente do Governo Federal por meio do PDDE – Programa Dinheiro Direto na Escola.
+
+**Art. 36-A** Fica o Município de Lagoa da Prata proibido de conceder Subvenção Social, Auxílio e/ou Contribuição a qualquer entidade
+
+que possua em sua Diretoria ou em seu quadro de empregados, pessoas que estejam no exercício dos cargos de Vereador, Prefeito, Vice-Prefeito e Secretário Municipal.
+
+**Art. 37** É vedada a destinação, na lei orçamentária e em seus créditos adicionais, de recursos para cobrir diretamente necessidades de pessoas físicas, ressalvadas as que atendam as exigências do art. 26 da Lei Complementar nº 101/2000 e sejam observadas as condições definidas em lei específica.
+
+**Parágrafo único.** As normas do caput deste artigo não se aplicam a ajuda a pessoas físicas custeadas pelos recursos do Sistema Único de Saúde.
+
+**Art. 38** A transferência de recursos financeiros de uma entidade para outra, inclusive da Prefeitura Municipal para as entidades da Administração Indireta e para a Câmara Municipal, fica limitada ao valor previsto na lei orçamentária anual e em seus créditos adicionais.
+
+##### SEÇÃO IX Da Autorização para o Município Auxiliar no Custeio de Despesas de Competência de Outros Entes da Federação
+
+**Art. 39** Fica autorizada a inclusão, na lei orçamentária e em seus créditos adicionais, de dotações para que o Município contribua para o custeio de despesas de competência de outro ente da federação, desde que sejam destinadas ao atendimento das situações que envolvam claramente o interesse local.
+
+**Parágrafo único.** A realização da despesa definida no caput deste artigo deverá ser precedida da aprovação de plano de trabalho e da celebração de convênio, de acordo com o art. 116 da Lei nº 8.666/1993.
+
+##### SEÇÃO X Dos Parâmetros para a Elaboração da Programação Financeira e do Cronograma Mensal de Desembolso
+
+**Art. 40** O Poder Executivo estabelecerá por ato próprio, até 30 (trinta) dias após a publicação da lei orçamentária de 2015, as metas bimestrais de arrecadação, a programação financeira e o cronograma mensal de desembolso, respectivamente, nos termos dos arts. 13 e 8º da Lei Complementar nº 101/2000.
+
+**§ 1º** Para atender ao caput deste artigo, as entidades da administração indireta e o Poder Legislativo encaminharão à Contadoria do Poder Executivo, até 15 (quinze) dias após a publicação da lei orçamentária de 2015, os seguintes demonstrativos:
+
+I – as metas mensais de arrecadação de receitas, de forma a atender o disposto no art. 13 da Lei Complementar nº 101/2000;
+
+II – a programação financeira das despesas, nos termos do art. 8º da Lei Complementar nº 101/2000;
+
+III – o cronograma mensal de desembolso, incluídos os pagamentos dos restos a pagar, nos termos do art. 8º da Lei Complementar nº 101/2000.
+
+**§ 2º** O Poder Executivo deverá dar publicidade às metas bimestrais de arrecadação, à programação financeira e ao cronograma mensal de desembolso, em locais públicos de grande circulação, até 30 (trinta) dias após a publicação da lei orçamentária de 2015.
+
+**§ 3º** A programação financeira e o cronograma mensal de desembolso de que trata o caput deste artigo deverão ser elaborados de forma a garantir o cumprimento da meta de resultado primário estabelecida nesta Lei.
+
+##### SEÇÃO XI Da Definição de Critérios para Início de Novos Projetos
+
+**Art. 41** Além da observância das metas e prioridades definidas nos termos do artigo 2º desta Lei, a lei orçamentária de 2015 e seus créditos adicionais, observado o disposto no art. 45 da Lei Complementar nº 101/2000, somente incluirão projetos novos se:
+
+I – estiverem compatíveis com o Plano Plurianual de 2014-2017 e com as normas desta Lei;
+
+II – as dotações consignadas às obras já iniciadas forem suficientes para o atendimento de seu cronograma físico-financeiro;
+
+III – estiverem preservados os recursos necessários à conservação do patrimônio público.
+
+**Parágrafo único** Considera-se projeto em andamento para os efeitos desta Lei, aquele cuja execução iniciar-se até a data de encaminhamento da proposta orçamentária de 2015, cujo cronograma de execução ultrapasse o término do exercício de 2014.
+
+##### SEÇÃO XII Da Definição das Despesas Consideradas Irrelevantes
+
+**Art. 42** Para fins do disposto no § 3º do art. 16 da Lei Complementar nº 101/2000, são consideradas despesas irrelevantes aquelas cujo valor não ultrapasse os limites previstos nos incisos I e II do art. 24 da Lei nº 8.666/1993, nos casos, respectivamente, de obras e serviços de engenharia e de outros serviços e compras.
+
+##### SEÇÃO XIII Do Incentivo à Participação Popular
+
+**Art. 43** O projeto de lei orçamentária do Município, relativo ao exercício financeiro de 2015, deverá assegurar a transparência na elaboração e execução do orçamento.
+
+Parágrafo Único. O princípio da transparência implica, além da observância do princípio constitucional da publicidade, na utilização dos meios disponíveis para garantir o efetivo acesso dos munícipes às informações relativas ao orçamento.
+
+**Art. 44** Será assegurada ao cidadão a participação nas audiências públicas para:
+
+I – elaboração da proposta orçamentária de 2015, mediante regular processo de consulta;
+
+II – avaliação das metas fiscais, conforme definido no art. 9º, § 4º, da Lei Complementar nº 101/2000, ocasião em que o Poder Executivo demonstrará o comportamento das metas previstas nesta Lei.
+
+Parágrafo único: Deverão acompanhar o Projeto de Lei Orçamentária documentos que comprovem a efetiva realização das Audiências Públicas previstas no Caput deste artigo.
+
+##### SEÇÃO XIV Das Disposições Gerais
+
+**Art. 45** O Poder Executivo poderá, mediante autorização legislativa, transpor, remanejar ou transferir, total ou parcialmente, as dotações orçamentárias aprovadas na lei orçamentária de 2015 e em seus créditos adicionais, em decorrência de extinção,
+
+transformação, transferência, incorporação ou desmembramento de órgãos e entidades, bem como de alterações de suas competências ou atribuições, mantida a estrutura programática, expressa por categoria de programação, conforme definida no art. 3º, desta Lei.
+
+**§ 1º** As categorias de programação, aprovadas na lei orçamentária de 2015 e em seus créditos adicionais, poderão ser modificadas, por meio de decreto, para atender às necessidades de execução, desde que verificada a inviabilidade técnica, operacional ou econômica da execução do crédito, criando, quando necessário, novas naturezas de despesa.
+
+**§ 2º** As transposições, remanejamentos ou transferências poderão ocorrer também entre dotações orçamentárias constantes do mesmo Projeto, Atividade ou Operação Especial e, em casos específicos e devidamente justificados, dentro do mesmo Programa constante do Plano Plurianual, por meio de autorização legislativa.
+
+**Art. 46** Durante a execução orçamentária do exercício de 2015 fica o Poder Executivo autorizado a:
+
+I - abrir créditos adicionais suplementares, com recursos de anulações de dotações, até o limite de 5% (cinco por cento) do total da despesa fixada na Lei Orçamentária;
+
+II – abrir créditos adicionais suplementares, com recursos do superávit financeiro do exercício de 2014, até o limite do superávit apurado, sendo este calculado individualmente por fonte e destinação de recursos;
+
+III – abrir créditos adicionais suplementares, com recursos do excesso de arrecadação apurado durante o exercício de 2015, ou a sua tendência, calculado individualmente por fonte e destinação de recursos.
+
+**Parágrafo único** A lei orçamentária conterá autorização e disporá sobre o limite para a abertura de créditos adicionais suplementares, conforme disposto neste artigo.
+
+**Art. 47** Fica o Poder Executivo autorizado a reabrir os créditos especiais e extraordinários abertos nos últimos quatro meses do exercício de 2014, conforme disposto no art. 167, § 2º, da Constituição da República, mediante decreto do Prefeito Municipal, utilizando os recursos previstos no art. 43 da Lei nº 4.320/1964.
+
+**Art. 48** Fica o Poder Executivo autorizado a alterar, mediante Decreto, as fontes e destinações de recursos, os códigos e as descrições das modalidades de aplicação, dos grupos de natureza da despesa, das funcionais programáticas e das unidades orçamentárias constantes da Lei Orçamentária para o exercício de 2015 e em seus créditos adicionais, para fins de correção de erros materiais.
+
+**Art. 49** O Poder Executivo poderá encaminhar mensagem ao Poder Legislativo para propor modificações no projeto de lei orçamentária anual enquanto não iniciada a sua votação, no tocante as partes cuja alteração é proposta.
+
+**Art. 50** Conforme disposto nos art. 133 e 181 da Lei Orgânica Municipal, se a Câmara Municipal não enviar, até o final da sessão legislativa, o projeto de lei orçamentária à sanção, será sancionado como lei, pelo Prefeito, o projeto originário do Executivo.
+
+**Art. 51** Conforme disposto no art. 134 da Lei Orgânica Municipal, se rejeitado pela Câmara, o projeto de lei orçamentária anual, prevalecerá, para o ano seguinte, o orçamento do exercício em curso, aplicando-se lhe a atualização dos valores pelo Índice Nacional de Preços ao Consumidor – INPC, ou outro que vier a substituí-lo.
+
+**Art. 52** Tendo sido o projeto de lei aprovado pela Câmara Municipal, e enviado ao Executivo para sanção dentro dos prazos estabelecidos, e se o projeto de lei orçamentária de 2015 não for sancionado pelo Prefeito até 31 de dezembro de 2014, a programação dele constante poderá ser executada para o atendimento das seguintes despesas:
+
+I – pessoal e encargos sociais;
+
+II – benefícios previdenciários;
+
+III – amortização, juros e encargos da dívida;
+
+IV – PIS-PASEP;
+
+V – demais despesas que constituem obrigações constitucionais ou legais do Município; e
+
+VI – outras despesas correntes de caráter inadiável, devidamente justificadas.
+
+**§ 1º** As despesas descritas no inciso VI deste artigo estão limitadas à 1/12 (um doze avos) do total de cada ação prevista no projeto de
+
+lei orçamentária de 2015, multiplicado pelo número de meses decorridos até a sanção da respectiva lei.
+
+**§ 2º** Na execução de outras despesas correntes de caráter inadiável, a que se refere o inciso VI do caput, o ordenador de despesa poderá considerar os valores constantes do projeto de lei orçamentária de 2015 para fins do cumprimento do disposto no art. 16 da Lei Complementar nº 101/2000.
+
+**Art. 53** Em atendimento ao disposto no art. 4º, §§ 1º, 2º e 3º da Lei Complementar nº 101/2000, integram a presente Lei os seguintes
+
+anexos:
+
+I – Anexo de Metas Fiscais;
+
+II – Anexo de Riscos Fiscais.
+
+Art 54 Para fins de consolidação do projeto de Lei de Diretrizes Orçamentárias do exercício de 2016, a ser apresentado ao Poder Legislativo até o dia 15 de abril de 2015, as entidades da Administração Indireta e o Poder Legislativo deverão entregar à Contadoria Municipal, até o dia 30 de março de 2015, relativamente aos exercícios de 2016, 2017 e 2018, no que couber:
+
+I – a projeção das receitas e respectivas memórias de cálculo;
+
+II – a projeção das despesas, por natureza de despesa, e respectivas memórias de cálculo;
+
+III – dados para projeção do Resultado Nominal, conforme metodologia de cálculo da Secretaria do Tesouro Nacional e Tribunal de Contas do estado, com as respectivas memórias de cálculo das projeções;
+
+IV – Valores apurados do patrimônio líquido ao final dos exercícios de 2012, 2013 e 2014;
+
+V – demonstrativos de receitas e aplicação dos recursos de alienação nos exercícios de 2012, 2013 e 2014;
+
+VI – demonstrativo da margem para expansão da despesa obrigatória de caráter continuado;
+
+VII – demonstrativo dos Riscos Fiscais e Passivos Contingentes;
+
+VIII – informações sobre as obras em andamento;
+
+IX – avaliação do cumprimento das metas do exercício anterior;
+
+X – informações sobre as ações prioritárias para o exercício de 2016.
+
+**§ 1º** Caso as entidades mencionadas no caput não encaminhem as informações solicitadas no prazo previsto, os valores poderão ser estimados pelo Poder Executivo, preferencialmente sendo considerados os valores previstos para o orçamento do exercício de 2015,
+
+atualizados pelo Índice Nacional de Preços ao Consumidor - INPC.
+
+**Art. 55** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Lagoa da Prata, 24 de julho de 2014.
+
+PAULO CESAR TEODORO Prefeito Municipal
+
+NÍVIA MARIA DE MELO Secretária Municipal de Fazenda
+
+LEI 2363/2014
+
+"ALTERA METAS FISCAIS DA LEI 2.294/2014 QUE INSTITUI AS DIRETRIZES ORÇAMENTÁRIAS PARA O EXERCÍCIO DE 2015."
+
+A Câmara Municipal de Lagoa da Prata aprovou e eu sanciono a seguinte Lei:
+
+**Art. 1º** A Lei nº 2.294 de 24 de julho de 2014 - Lei de Diretrizes Orçamentárias para o exercício de 2015, passa a incoporar as alterações constantes desta Lei.
+
+**Art. 2º** Ficam alterados os Demonstrativos 1 e 3 do Anexo de Metas Fiscais, no que se refere às Metas de Resultado Primário estabelecidas para o exercício de 2015, conforme anexo constante desta Lei.
+
+**Art. 3º** Fica o Executivo Municipal autorizado a modificar o texto, bem como os Anexos e Quadros da Lei Municipal nº 2.294/2014, de modo a adequá-los às alterações propostas pelas Emendas apresentadas ao Projeto de Lei do Orçamento do Município de Lagoa da Prata para 2015 e ao Projeto de Lei que altera o PPA - 2014/2017, as quais integream esta Lei, caso necessário.
+
+**Art.4º** Fica o Executivo Municipal autorizado a consolidar na Lei 2.294/2014 os dispositivos desta Lei.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.
+
+Lagoa da Prata, 29 de dezembro de 2014.
+
+PAULO CESAR TEODORO Prefeito Municipal
+
+ANEXO DE METAS FISCAIS
+
+CONSOLIDADO DO MUNICÍPIO
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE METAS FISCAIS DEMONSTRATIVO 1 - METAS ANUAIS 2015 AMF - Demonstrativo 1 ( LRF, art . 4º, § 1 ) Valores em R$1,00 2015 2016 2017 ESPECIFICAÇÃO VALOR VALOR % PIB VALOR VALOR % PIB VALOR VALOR % PIB CORRENTE ( a ) CONSTANTE \* CORRENTE ( b ) CONSTANTE \* CORRENTE ( c ) CONSTANTE \* Receita Total 95.900.000,00 90.728.476,82 0,00 91.673.000,00 82.052.434,15 0,00 101.164.000,00 85.664.528,92 0,00 Receitas Primárias ( I ) 90.963.500,00 86.058.183,54 0,00 91.091.300,00 81.531.780,29 0,00 100.534.900,00 85.131.814,17 0,00 Despesa Total 95.900.000,00 90.728.476,82 0,00 92.275.000,00 82.591.257,63 0,00 101.800.000,00 86.203.086,51 0,00 Despesas Primárias ( II ) 94.300.000,00 89.214.758,75 0,00 90.585.000,00 81.078.613,63 0,00 100.152.000,00 84.807.578,79 0,00 Resultado Primário ( III ) = ( I - II ) -3.336.500,00 -3.156.575,21 0,00 506.300,00 453.166,66 0,00 382.900,00 324.235,38 0,00 Resultado Nominal -1.030.000,00 -974.456,01 0,00 -550.000,00 -492.280,59 0,00 -1.935.000,00 -1.638.536,07 0,00 Dívida Pública Consolidada 6.210.000,00 5.875.118,26 0,00 5.160.000,00 4.618.487,02 0,00 3.730.000,00 3.158.521,74 0,00 Dívida Consolidada Líquida 4.185.000,00 3.959.318,83 0,00 3.635.000,00 3.253.527,19 0,00 1.700.000,00 1.439.540,74 0,00 Receitas Primárias advindas de PPP ( IV ) 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 Despesas Primárias geradas por PPP ( V ) 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 Impacto do saldo das PPP ( VI ) 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 \* Valor Corrente / PIB x 100
+
+PRODUTO INTERNO BRUTO ( PIB ) - VALORES PREVISTOS ( EM REAIS ) 2015 2016 2017 0,00 0,00 0,00
+
+ÍNDICES DE INFLAÇÃO -- VALORES PREVISTOS ( EM % ) 2015 2016 2017 5,70 5,70 5,70
+
+CONSOLIDADO DO MUNICÍPIO
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE METAS FISCAIS DEMONSTRATIVO 2 - AVALIAÇÃO DO CUMPRIMENTO DAS METAS FISCAIS DO EXERCÍCIO ANTERIOR 2015
+
+AMF - Demonstrativo 2 ( LRF, art . 4º, § 2º, Inciso I ) Valores em R$1,00 ESPECIFICAÇÃO METAS PREVISTAS % METAS REALIZADAS % VARIAÇÃO EM 2013 - ( a ) PIB EM 2013 - ( b ) PIB (c)=(b-a) % ( c / a ) \* 100 Receita Total 72.100.000,00 0,00 71.124.264,76 0,00 -975.735,24 -1,35 Receitas Primárias ( I ) 71.581.100,00 0,00 70.561.492,21 0,00 -1.019.607,79 -1,42 Despesa Total 72.100.000,00 0,00 64.013.819,69 0,00 -8.086.180,31 -11,22 Despesas Primárias ( II ) 71.100.000,00 0,00 63.229.775,85 0,00 -7.870.224,15 -11,07 Resultado Primário ( III ) = ( I - II ) 481.100,00 0,00 7.331.716,36 0,00 6.850.616,36 1.423,95 Resultado Nominal 1.556.983,00 0,00 -6.727.315,25 0,00 -8.284.298,25 -532,07 Dívida Pública Consolidada 4.600.000,00 0,00 4.268.344,70 0,00 -331.655,30 -7,21 Dívida Consolidada Líquida 3.648.876,00 0,00 -5.820.749,25 0,00 -9.469.625,25 -259,52
+
+PRODUTO INTERNO BRUTO ( PIB ) - EXERCÍCIO DE 2013 ( EM REAIS ) VALOR PREVISTO VALOR REALIZADO 0,00 0,00
+
+CONSOLIDADO DO MUNICÍPIO
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE METAS FISCAIS DEMONSTRATIVO 3 - METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES 2015
+
+AMF - Demonstrativo 3 ( LRF, art . 4º, § 2º, Inciso II ) Valores em R$1,00 ESPECIFICAÇÃO VALORES A PREÇOS CORRENTES 2012 2013 % 2014 % 2015 % 2016 % 2017 % Receita Total 66.400.000,00 72.100.000,00 8,58 85.257.000,00 18,25 95.900.000,00 12,48 91.673.000,00 -4,41 101.164.000,00 10,35 Receitas Primárias ( I ) 65.872.800,00 71.581.100,00 8,67 81.919.300,00 14,44 90.963.500,00 11,04 91.091.300,00 0,14 100.534.900,00 10,37 Despesa Total 66.400.000,00 72.100.000,00 8,58 85.257.000,00 18,25 95.900.000,00 12,48 92.275.000,00 -3,78 101.800.000,00 10,32 Despesas Primárias ( II ) 65.240.000,00 71.100.000,00 8,98 84.057.000,00 18,22 94.300.000,00 12,19 90.585.000,00 -3,94 100.152.000,00 10,56 Resultado Primário ( III ) = ( I - II ) 632.800,00 481.100,00 -23,97 -2.137.700,00 -544,34 -3.336.500,00 56,08 506.300,00 -115,17 382.900,00 -24,37 Resultado Nominal 435.572,85 2.484.983,00 470,51 1.566.124,00 -36,98 -1.030.000,00 -165,77 -550.000,00 -46,60 -1.935.000,00 251,82 Dívida Pública Consolidada 2.200.000,00 4.600.000,00 109,09 7.240.000,00 57,39 6.210.000,00 -14,23 5.160.000,00 -16,91 3.730.000,00 -27,71 Dívida Consolidada Líquida 1.163.893,00 3.648.876,00 213,51 5.215.000,00 42,92 4.185.000,00 -19,75 3.635.000,00 -13,14 1.700.000,00 -53,23
+
+ESPECIFICAÇÃO VALORES A PREÇOS CONSTANTES 2012 2013 % 2014 % 2015 % 2016 % 2017 % Receita Total 74.466.337,74 76.346.690,00 2,53 85.257.000,00 11,67 90.728.476,82 6,42 82.052.434,15 -9,56 85.664.528,92 4,40 Receitas Primárias ( I ) 73.875.092,96 75.797.226,79 2,60 81.919.300,00 8,08 86.058.183,54 5,05 81.531.780,29 -5,26 85.131.814,17 4,42 Despesa Total 74.466.337,74 76.346.690,00 2,53 85.257.000,00 11,67 90.728.476,82 6,42 82.591.257,63 -8,97 86.203.086,51 4,37 Despesas Primárias ( II ) 73.165.419,79 75.287.790,00 2,90 84.057.000,00 11,65 89.214.758,75 6,14 81.078.613,63 -9,12 84.807.578,79 4,60 Resultado Primário ( III ) = ( I - II ) 709.673,17 509.436,79 -28,22 -2.137.700,00 -519,62 -3.156.575,21 47,66 453.166,66 -114,36 324.235,38 -28,45 Resultado Nominal 488.486,67 2.631.348,50 438,67 1.566.124,00 -40,48 -974.456,01 -162,22 -492.280,59 -49,48 -1.638.536,07 232,85 Dívida Pública Consolidada 2.467.258,18 4.870.940,00 97,42 7.240.000,00 48,64 5.875.118,26 -18,85 4.618.487,02 -21,39 3.158.521,74 -31,61 Dívida Consolidada Líquida 1.305.283,87 3.863.794,80 196,01 5.215.000,00 34,97 3.959.318,83 -24,08 3.253.527,19 -17,83 1.439.540,74 -55,75
+
+ÍNDICES DE INFLAÇÃO ( EM % ) 2012 2013 2014 2015 2016 2017 5,83 5,91 5,89 5,70 5,70 5,70
+
+CONSOLIDADO DO MUNICÍPIO
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE METAS FISCAIS DEMONSTRATIVO 4 - EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO 2015 AMF - Demonstrativo 4 ( LRF, art . 4º, § 2º, Inciso III ) Valores em R$1,00 PATRIMÔNIO LÍQUIDO 2013 % 2012 % 2011 % Patrimônio / Capital 0,00 0,00 0,00 0,00 0,00 0,00 Reservas 0,00 0,00 0,00 0,00 0,00 0,00 Resultado Acumulado 48.803.411,35 100,00 38.414.750,97 100,00 35.301.445,99 100,00 TOTAL 48.803.411,35 100,00 38.414.750,97 100,00 35.301.445,99 100,00
+
+CONSOLIDADO DO MUNICÍPIO
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE METAS FISCAIS DEMONSTRATIVO 5 - ORIGEM E APLICAÇÃO DOS RECURSOS OBTIDOS COM A ALIENAÇÃO DE ATIVOS 2015
+
+AMF - Demonstrativo 5 ( LRF, art . 4º, § 2º, Inciso III ) Valores em R$1,00 RECEITAS REALIZADAS 2013 ( a ) 2012 ( b ) 2011 ( c ) RECEITAS DE CAPITAL ALIENAÇÃO DE ATIVOS ( I ) 1.368,68 75.320,32 97.355,99 Alienação de bens Móveis 1.368,68 75.320,32 97.355,99 Alienação de bens Imóveis 0,00 0,00 0,00 DESPESAS EXECUTADAS 2013 ( d ) 2012 ( e ) 2011 ( f ) APLICAÇÃO DOS RECURSOS DA ALIENAÇÃO DE ATIVOS ( II ) 56.622,86 63.336,00 52.265,00 Despesas de Capital 56.622,86 63.336,00 52.265,00 Investimentos 56.622,86 63.336,00 52.265,00 Inversões Financeiras 0,00 0,00 0,00 Amortização/Refinanciamento da Dívida 0,00 0,00 0,00 Despesas Correntes do Regime de Previdência 0,00 0,00 0,00 SALDO FINANCEIRO 2013 ( g ) = ( Ia – IId + IIIh ) 2012 ( h ) = ( Ib – IIe + IIIi ) 2011 ( i ) = ( Ic – IIf ) SALDO FINANCEIRO DO EXERCÍCIO ANTERIOR ( III ) 78.710,99 66.726,67 21.635,68 VALOR ( IV ) = ( I - II + III ) 23.456,81 78.710,99 66.726,67
+
+RELATÓRIO CONSOLIDADO DO MUNICÍPIO
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE METAS FISCAIS ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DE RECEITA 2015 AMF - Demonstrativo 7 (LRF, art. 4°, §2°, Inciso V) Valores em R$1,00
+
+SETORES/
+
+TRIBUTO MODALIDADE PROGRAMA/ RENÚNCIA DE RECEITA PREVISTA COMPENSAÇÃO
+
+BENEFICIÁRIO 2015 2016 2017
+
+Imposto sobre Propri.Predial e Territorial Urbana Outros benefícios que correspondam a tratamento Indústria e Comércio 22.000,00 24.000,00 26.000,00 A redução ou isenção de IPTU para indústrias em fase de instalação no
+
+diferenciado município será compensada pelo aumento do ISS a ser arrecadado por
+
+seus serviços ou, ainda, pelo aumento do faturamento, o qual gera
+
+aumento do VAF, compensando o incentivo a ser concedido.
+
+Imposto s/ Servicos de Qualquer Natureza - ISS Alteração de alíquota ou Redução de base de Indústria e Comércio 60.000,00 72.000,00 78.000,00 A redução de alíquota se refere a indústria e/ou comércio em fase de
+
+cálculo instalação no município, que comprove faturamento mínimo capaz de
+
+gerar valor de ISS superior à redução concedida. Portanto, a
+
+compensação se dará pelo aumento da arrecadação do próprio tributo,
+
+já que o incentivo à instalação da indústria gera aumento da
+
+arrecadação e não está considerada nas metas de resultado primário.
+
+Total 82.000,00 96.000,00 104.000,00
+
+CONSOLIDADO DO MUNICÍPIO
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE METAS FISCAIS DEMONSTRATIVO 8 - MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO AMF - Demonstrativo 8 (LRF, art. 4°, § 2°, Inciso V) Valores em R$1,00
+
+Entidade: PREFEITURA MUNICIPAL DE LAGOA DA PRATA EVENTOS Valor Previsto para 2015 AUMENTO PERMANENTE DA RECEITA 500.000,00 Contribuicao Custeio Serv. Ilum. Publica 300.000,00 Taxa de Limpeza Publica 200.000,00 SALDO FINAL DO AUMENTO PERMANENTE DE RECEITA ( I ) 500.000,00 REDUÇÃO PERMANENTE DE DESPESA ( II ) 1.000.000,00 MARGEM BRUTA ( III ) = ( I + II ) 1.500.000,00 SALDO UTILIZADO ( IV ) 1.200.000,00 NOVAS DOCC 1.200.000,00 MARGEM LÍQUIDA DE EXPANSÃO DE DOCC ( III - IV ) 300.000,00
+
+Entidade: SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO - SAAE EVENTOS Valor Previsto para 2015 SALDO FINAL DO AUMENTO PERMANENTE DE RECEITA ( I ) 0,00 MARGEM BRUTA ( III ) = ( I + II ) 0,00 SALDO UTILIZADO ( IV ) 0,00 MARGEM LÍQUIDA DE EXPANSÃO DE DOCC ( III - IV ) 0,00
+
+Entidade: CÂMARA MUNICIPAL DE LAGOA DA PRATA EVENTOS Valor Previsto para 2015 SALDO FINAL DO AUMENTO PERMANENTE DE RECEITA ( I ) 0,00 MARGEM BRUTA ( III ) = ( I + II ) 0,00 SALDO UTILIZADO ( IV ) 0,00 MARGEM LÍQUIDA DE EXPANSÃO DE DOCC ( III - IV ) 0,00
+
+ANEXO DE RISCOS FISCAIS
+
+CONSOLIDADO DO MUNICÍPIO
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE RISCOS FISCAIS DEMONSTRATIVO 9 - RISCOS FISCAIS E PROVIDÊNCIAS 2015 ARF (LRF, art. 4°, § 3°) R$1,00
+
+CÂMARA MUNICIPAL DE LAGOA DA PRATA PASSIVOS CONTINGENTES PROVIDÊNCIAS Descrição Valor Descrição Valor Demandas Judiciais 0,00 0,00 Dividas em Processo de Reconhecimento 0,00 0,00 Avais e Garantias Concedidas 0,00 0,00 Assuncao de Passivos 0,00 0,00 Assistencias Diversas 0,00 0,00 Outros Passivos Contingentes 0,00 0,00 SUB-TOTAL 0,00 0,00
+
+DEMAIS RISCOS FISCAIS PASSIVOS PROVIDÊNCIAS Descrição Valor Descrição Valor Frustracao de Arrecadacao 0,00 0,00 Restituicao de Tributos a Maior 0,00 0,00 Discrepancia de Projecoes 0,00 0,00 Outros Riscos Fiscais 0,00 0,00 SUB-TOTAL 0,00 0,00 TOTAL 0,00 0,00
+
+PREFEITURA MUNICIPAL DE LAGOA DA PRATA PASSIVOS CONTINGENTES PROVIDÊNCIAS Descrição Valor Descrição Valor Demandas Judiciais 500.000,00 O Município possui várias ações em tramitação na justiça, tanto em causas trabalhistas, quanto em 500.000,00 outros tipos de processos. Nos casos das ações trabalhistas, se houver sentenças em desfavor do Município, os valores acarretarão aumento da folha de pagamentos, o que já calculado no crescimento vegetativo da folha. Quanto às ações em que resultem valores de RPV ou Precatórios, não há como precisar exatamente seus valores, visto que o valor da causa no processo não é necessariamente o valor da sentença, além do fato de que alguns processos ainda podem demorar para serem solucionados, outros não. Por esse motivo, estimamos um valor aproximado de R$500.000,00 em dotações de sentenças judiciais, o qual deverá ser readequado quando da elaboração da Lei Orçamentária Anual, quando os Precatórios a pagar em 2015 já terão sido apresentados. Dividas em Processo de Reconhecimento 0,00 0,00 Avais e Garantias Concedidas 0,00 0,00
+
+CONSOLIDADO DO MUNICÍPIO
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE RISCOS FISCAIS DEMONSTRATIVO 9 - RISCOS FISCAIS E PROVIDÊNCIAS 2015 Assuncao de Passivos 0,00 0,00 Assistencias Diversas 0,00 0,00 Outros Passivos Contingentes 0,00 0,00 SUB-TOTAL 500.000,00 500.000,00
+
+DEMAIS RISCOS FISCAIS PASSIVOS PROVIDÊNCIAS Descrição Valor Descrição Valor Frustracao de Arrecadacao 756.500,00 Nos últimos anos, foi perceptível a vulnerabilidade dos municípios perante as crises mundiais, sendo 756.500,00 que medidas tomadas pelo Governo Federal impactaram enormemente as finanças municipais. Assim, deverá fazer parte da Reserva de Contingência a previsão de frustração de arrecadação, no percentual mínimo de 1% da arrecadação, podendo ser maior, caso até a data de elaboração do orçamento o cenário da economia nacional demonstre instabilidade maior. Restituicao de Tributos a Maior 0,00 0,00 Discrepancia de Projecoes 378.500,00 Além da possibilildade de frustração de arrecadação, considera-se possível que o Governo Federal 378.500,00 faça revisão dos índices de inflação, além de haver falhas nos valores projetados, uma vez que ainda faltam nove meses para o término deste exercício e início do ano de 2015. Assim fará parte, também, da Reserva de Contingência o percentual de 0,5% do valor total das receitas previstas, afim de prevenir desvios de equilíbrio por discrepância nas projeções. Outros Riscos Fiscais 0,00 0,00 SUB-TOTAL 1.135.000,00 1.135.000,00 TOTAL 1.635.000,00 1.635.000,00
+
+SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO - SAAE PASSIVOS CONTINGENTES PROVIDÊNCIAS Descrição Valor Descrição Valor Demandas Judiciais 0,00 0,00 Dividas em Processo de Reconhecimento 0,00 0,00 Avais e Garantias Concedidas 0,00 0,00 Assuncao de Passivos 0,00 0,00 Assistencias Diversas 0,00 0,00 Outros Passivos Contingentes 0,00 0,00 SUB-TOTAL 0,00 0,00
+
+DEMAIS RISCOS FISCAIS PASSIVOS PROVIDÊNCIAS
+
+CONSOLIDADO DO MUNICÍPIO
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE RISCOS FISCAIS DEMONSTRATIVO 9 - RISCOS FISCAIS E PROVIDÊNCIAS 2015 Descrição Valor Descrição Valor Frustracao de Arrecadacao 0,00 0,00 Restituicao de Tributos a Maior 0,00 0,00 Discrepancia de Projecoes 0,00 0,00 Outros Riscos Fiscais 0,00 0,00 SUB-TOTAL 0,00 0,00 TOTAL 0,00 0,00
+
+METAS E PRIORIDADES DA ADMINISTRAÇÃO MUNICIPAL
+
+DEMONSTRATIVO DAS METAS E PRIORIDADES DA ADMINISTRAÇÃO MUNICIPAL
+
+ENTIDADE: PREFEITURA MUNICIPAL DE LAGOA DA PRATA
+
+PROGRAMA: 0301 DEFESA DO PATRIMONIO E DA SEGURANCA PUBLICA
+
+OBJETIVO: MANUTENCAO DE ACOES VOTLADAS PARA DEFESA DO PATRIMONIO PUBLICO E APOIO A SEGURANCA DOS MUNICIPES.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.021 Manutencao da Guarda Patrimonial % 100,00 Bens publicos e seguranca mantidos
+
+PROGRAMA: 0401 GESTAO DO SUAS-SISTEMA UNICO DE ASSISTENCIA SOCIAL
+
+OBJETIVO: IMPLEMENTAR E ASSEGURAR ACOES DE EFETIVACAO DO SISTEMA UNICO DE ASSISTENCIA SOCIAL EM AMBITO MUNICIPAL
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.036 IGD/SUAS - Manutencao e Operacionalizacao % 100,00 Atividades Administrativas Realizadas
+
+4.037 Gestao do Trabalho e Acoes de Qualificacao % 100,00 Pessoas Assistidas
+
+4.038 IGD/BOLSA - Manut. e Operacion. Bolsa Familia FAMILIAS/INDIVIDUOS 3.000,00 Familias e Individuos Assistidos
+
+4.049 FIA - Fundo para a Infancia e Adolescencia CRIANCAS E 6.000,00 Criancas e Adolescentes Atendidos
+
+ADOLESCENTES
+
+PROGRAMA: 0402 EXECUCAO DA PROTECAO SOCIAL BASICA-PSB
+
+OBJETIVO: EFETIVACAO DAS ACOES DE PROTECAO SOCIAL BASICA DOSUAS EM AMBITO MUNICIPAL. PREVENIR SITUACOES DE RISCO, POR MEIO DO DESENVOLVIMENTO DE POTENCIALIDADES, AQUISICOES E O FORTALECIMENTO
+
+DE VINCULOS FAMILIARES E COMUNITARIOS.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.030 Manutencao do SCFV-Serv. Conv. Fort. Vinculos % ACOES 80,00 Acoes Desenvolvidas pelo CRAS
+
+DESENVOLVIDAS
+
+4.031 PISO MINEIRO - Protecao Social Basica NO. 80,00 Familias e Individuos atendidos
+
+FAMILIAS/INDIVIDUOS
+
+DEMONSTRATIVO DAS METAS E PRIORIDADES DA ADMINISTRAÇÃO MUNICIPAL AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.039 CRAS/PAIF - Manutencao e Operacionalizacao FAMILIAS/INDIVIDUOS 6.950,00 Familias Referenciadas
+
+PROGRAMA: 0403 EXECUCAO DA PROTECAO SOCIAL ESPECIAL-PSE
+
+OBJETIVO: PROVER ATENCOES A FAMILIAS E INDIVIDUOS VITIMAS DEVIOLENCIA, FORTALECENDO OS LACOS E VINCULOS SOCIA IS, PARA QUE SUAS CAPACIDADES E QUALIDADE DE VIDA LEVEM A CONCRETIZACAO DE DIREITOS
+
+HUMANOS.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.034 PISO MINEIRO - Protecao Social Especial FAMILIAS/INDIVIDUOS 40,00 Familias e Individuos atendidos
+
+4.035 Prot. Adolescente-Medidas Socio Educativas LA/PSC CRIANCAS/ADOLESCE 40,00 Criancas e Adolescentes Assistidos
+
+NTES
+
+4.045 CREAS/PAEFI - Manutencao e Operacionalizacao FAMILIAS/INDIVIDUOS 40,00 Familias e Individuos Referenciados
+
+4.047 Serv. Protecao Pessoas com Defic/Idosos e Familias IDOSOS E 15,00 Deficientes, idosos e suas familias atendidos
+
+PORT.NECES.ESPECI
+
+AIS
+
+PROGRAMA: 0405 HABITACAO SOCIAL
+
+OBJETIVO: ASSEGURAR MORADIA DIGNA E SEGURA A POPULACAO DE BAIXA RENDA, PROMOVENDO ACOES DESTINADAS AO PROVIMENTO DE MORADIA DIGNA MEDIANTE REGULARIZACAO URBANISTICA, TITULACAO DOS IMOVEIS
+
+URBANOS, REFORMA E CONTRUCAO DE MORADIAS.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.053 Incentivo, Construcao e Reforma de Moradias FAMILIAS 10,00 Familias Atendidas
+
+DEMONSTRATIVO DAS METAS E PRIORIDADES DA ADMINISTRAÇÃO MUNICIPAL
+
+PROGRAMA: 0501 PROMOCAO DA CULTURA
+
+OBJETIVO: PROMOVER, POR MEIO DE EVENTOS E DE INCENTIVO A ENTIDADES, O PENSAMENTO CULTURAL NO MUNICIPIO, LEVANDO AO PUBLICO A DIVERSIDADE ARTISTICA, ALEM DE RESGATAR O PATRIMONIO HISTORICO E
+
+CULTURAL REGIONAL, DE FORMA QUE OS COSTUMES SEJAM MANTIDOS.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.166 Realizacao e Apoio Manifestacoes/Eventos Culturais EVENTOS/ANO 7,00 Realizacao de eventos e manifestacoes culturais
+
+PROGRAMA: 0502 PROMOCAO DO TURISMO
+
+OBJETIVO: POSICIONAR O MUNICIPIO ENTRE DESTINOS TURISTICOS EM MINAS GERAIS, VALORIZANDO OS POTENCIAIS DE BELEZAS NATURAIS, DE EVENTOS SOCIAIS E DE HOSPITALIDADE, ALEM DE VALORIZAR O CARTAO POSTAL
+
+DA CIDADE - A PRAIA MUNICIPAL.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.167 Realizacao e apoio de eventos turisticos EVENTOS/ANO 5,00 Realizacao de eventos turisticos
+
+PROGRAMA: 0601 EMPREGO TRABALHO E RENDA
+
+OBJETIVO: DESENVOLVER OS INSTRUMENTOS DE CONSOLIDACAO DA POLITICA PUBLICA DE EMPREGO E QUALIFICACAO PROFISSIONAL NO MUNICIPIO
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.086 Acoes para geracao de emprego e renda e Conv.SINE 0,00 Manutencao dos niveis de empregabilidade e renda
+
+PROGRAMA: 0701 ESPORTE COM QUALIDADE
+
+OBJETIVO: PROMOVER A PRATICA ESPORTIVA COM QUALIDADE PARA CRIANCAS, JOVENS, ADULTOS E TERCEIRA IDADE. REALIZARE PARTICIPAR DE EVENTOS E TORNEIOS ESPORTIVOS DEN TRO DAS DIVERSAS MODALIDADES E
+
+INCENTIVAR O ESPORTE PROFISSIONAL.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.094 Manutencao Infraestrutura e Eventos Esportivos % 100,00 Desporto comunitario mantido
+
+DEMONSTRATIVO DAS METAS E PRIORIDADES DA ADMINISTRAÇÃO MUNICIPAL
+
+PROGRAMA: 0801 ATENDIMENTO AO ENSINO FUNDAMENTAL
+
+OBJETIVO: MANTER E REVITALIZAR O ENSINO FUNDAMENTAL, ADEQUARE AMPLIAR A INFRAESTRUTURA FISICA DAS ESCOLAS E E VITAR A EVASAO ESCOLAR.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.097 Manutencao das Escolas de Ensino Fundamental % 92,00 Alunos Atendidos
+
+4.171 Profissionais do Magisterio Ens.Fund - FUNDEB 60% % 100,00 Profissionais remunerados
+
+4.172 Escolas Ensino Fundamental - FUNDEB 40% % 100,00 Escolas Mantidas
+
+PROGRAMA: 0802 ATENDIMENTO AO ENSINO INFANTIL
+
+OBJETIVO: MANTER E REVITALIZAR O ENSINO INFANTIL. MANTER A UTILIZACAO DE SISTEMA DE ENSINO. ADEQUAR E AMPLIAR A INFRAESTRUTURA FISICA DAS UNIDADES.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.100 Manutencao das Escolas de Ensino Infantil % 92,00 Criancas Atendidas
+
+4.173 Profissionais Magisterio Ens.Inf - FUNDEB 60% % 100,00 Profissionais remunerados
+
+4.174 Escolas Ensino Infantil - FUNDEB 40% % 100,00 Escolas Mantidas
+
+PROGRAMA: 0803 TRANSPORTE ESCOLAR
+
+OBJETIVO: GARANTIR O TRANSPORTE DOS ALUNOS ATE AS UNIDADES ESCOLARES
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.104 Programa Municipal de Transporte Escolar % 100,00 Alunos transportados
+
+PROGRAMA: 1002 CIDADE LIMPA
+
+OBJETIVO: SEGREGACAO DO MATERIAL RECICLAVEL E SEU REAPROVEITAMENTO, REDUZINDO A DISPOSICAO DE MATERIAL NO ATERRO SANITARIO, POSSIBILITANDO O AUMENTO DE EFICIENCIA E RENDA DA ASSOCIACAO DE
+
+CATADORES E DOS INDICES AMBIENTAIS DO MUNICIPIO.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.120 Manutencao do Aterro Sanitario e Limpeza % 100,00 Aterro mantido e controlado
+
+DEMONSTRATIVO DAS METAS E PRIORIDADES DA ADMINISTRAÇÃO MUNICIPAL
+
+PROGRAMA: 1101 PLANEJAMENTO E SERVICOS URBANOS
+
+OBJETIVO: PLANEJAR E EXECUTAR ACOES PARA O DESENVOLVIMENTO URBANO SUSTENTAVEL, VISANDO O FORNECIMENTO DE SERVICOS DE INFRAESTRUTURA TAIS COMO ILUMINACAO PUBLICA, ABERTURA E MANUTENCAO DE
+
+VIAS, ETC.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.126 Abertura e Manutencao de Vias % 90,00 Vias mantidas (drenagem, pavimentacao e manutencao
+
+4.127 Manutencao da Iluminacao Publica % 100,00 Iluminacao Publica mantida
+
+PROGRAMA: 1202 ATENCAO BASICA A SAUDE
+
+OBJETIVO: MANTER E INCREMENTAR AS ACOES DE SAUDE AMPLIANDO OACESSO DOS USUARIOS DO SUS AOS SERVICOS. AMPLIACA O DA OFERTA DE SERVICO POR MEIO DO AUMENTO DA REDEFISICA E MELHORIA NO
+
+ATENDIMENTO DO USUARIO, PRIM ANDO POR UMA GESTAO DESCENTRALIZADA DOS SERVICOS.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.148 Manutencao das ESF'S-Estrategias Saude da Familia % 100,00 Usuarios Atendidos
+
+4.149 Manutencao do PSAUBU-Programa Saude Bucal % 85,00 Usuarios Atendidos
+
+PROGRAMA: 1203 ATENCAO DE MEDIA E ALTA COMPLEXIDADE AMBUL/HOSP.
+
+OBJETIVO: AMPLIAR O ACESSO DOS USUARIOS DO SUS AO SERVICO PROMOVENDO UMA REDE HIERARQUICA DE ATENDIMENTO HOSPITALAR E GARANTINDO A RETAGUARDA AS UNIDADES DE SAUDE, BEM COMO A PROMOCAO DA
+
+ASSISTENCIA MEDICA AMBULATORIAL DE URGENCIA, EMERGENCIA E HOSPITALAR.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.152 Manutencao do Pronto Atendimento Medico Municipal N DE MEDICO P/ 2,00 Usuarios Atendidos
+
+PLANTAO
+
+4.153 Manutencao do CEO-Centro de Espec. Odontologicas N DE PROTESES 220,00 Usuarios Atendidos
+
+4.154 Manutencao do CAPS-Centro de Atencao Psicossocial N DIAS DE 9,00 Usuarios Atendidos
+
+ATENDIMENTO MES
+
+DEMONSTRATIVO DAS METAS E PRIORIDADES DA ADMINISTRAÇÃO MUNICIPAL
+
+PROGRAMA: 1205 VIGILANCIA EM SAUDE
+
+OBJETIVO: PROMOVER ACOES DE VIGILANCIA, PREVENCAO E CONTROLEDE DOENCAS E OUTROS AGRAVOS, VISANDO A MELHORIA E A INTENSIFICACAO DO CONTROLE EPIDEMIOLOGICO, SANI TARIO E AMBIENTAL, POR MEIO DA
+
+ADOCAO DE MEDIDAS QUE VISEM A REDUCAO DOS PRINCIPAIS AGRAVOS.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.157 Vigilancia Epidemiologica e Situacao de Saude % ACOES INDICADAS 74,00 Controles Realizados
+
+PROGRAMA: 1301 TRANSPORTE E TRANSITO MUNICIPAL
+
+OBJETIVO: MANTER E CONTROLAR A FROTA MUNICIPAL. REALIZAR ACOES DE CONTROLE DE TRAFEGO E TRANSITO MUNICIPAIS.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.162 Manutencao de vias urbanas e vicinais VIAS 70,00 Melhoria do transito municipal
+
+PROGRAMA: 1302 LIMPEZA URBANA
+
+OBJETIVO: MANTER OS SERVICOS DE LIMPEZA DE VIAS E LOCAIS PUBLICOS.
+
+AÇÃO DESCRIÇÃO UNIDADE DE MEDIDA META RESULTADO ESPERADO
+
+4.163 Manutencao da Limpeza Urbana % 95,00 Limpeza urbana mantida
+
+Índice Geral Relatório Página Texto da Lei da LDO 3 Demonstrativo 1 - Metas Anuais 18 Demonstrativo 2 - Avaliação do Cumprimento das Metas Fiscais do Exercício Anterior 19 Demonstrativo 3 - Metas Fiscais Atuais Comparadas com as Fixadas nos Três Exercícios Anteriores 20 Demonstrativo 4 - Evolução do Patrimônio Líquido 21 Demonstrativo 5 - Origem e Aplicação dos Recursos Obtidos com a Alienação de Ativos 22 Demonstrativo 7 - Estimativa e Compensação da Renúncia de Receita 23
+
+Demonstrativo 9 - Demonstrativo de Riscos Fiscais e Providências 26 Demonstrativo das Metas e Prioridades da Administração 30

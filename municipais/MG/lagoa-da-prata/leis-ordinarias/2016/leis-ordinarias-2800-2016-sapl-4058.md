@@ -1,0 +1,38 @@
+---
+titulo: "Lei Ordinária nº 2800, de 01/06/2016"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "2800"
+data: "2016-06-01"
+ementa: "“AUTORIZA O EXECUTIVO MUNICIPAL A ABRIR CRÉDITO ESPECIAL, CONCEDER AUXÍLIO À ENTIDADE QUE MENCIONA E CONTÉM OUTRAS PROVIDÊNCIAS.”"
+municipio: "Lagoa da Prata"
+uf: "MG"
+codigo_ibge: "3137205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lagoadaprata.mg.leg.br/norma/4058"
+fonte_texto: "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2016/4058/4058_texto_integral.pdf"
+sha256_fonte: "fdc377fc013782792d2aca9bbcc6b8554b29b164199802ba701e932a7d494381"
+baixado_em: "2026-11-02"
+---
+
+# Lei Ordinária nº 2800, de 01/06/2016
+
+PREFEITURA MUNICIPAL DE LAGOA DA PRATA ESTADO DE MINAS GERAIS
+
+LEI Nº 2800/2016
+
+“Autoriza o Executivo Municipal a Abrir Crédito Especial, Conceder Auxílio à Entidade Que Menciona e Contém Outras Providências.”
+
+A Câmara Municipal de Lagoa da Prata aprovou e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Executivo Municipal autorizado a abrir um Crédito Especial ao orçamento vigente do Município de Lagoa da Prata, no montante de R$5.000,00 (cinco mil reais), com a seguinte dotação orçamentária: 02.04.03.08.243.0407.4.228.4450.42........................................................R$5.000,00 Total...........................................................R$5.000,00
+
+**Art. 2º** Fica o Município de Lagoa da Prata autorizado a conceder Auxílio, no montante de R$5.000,00 (cinco mil reais), através de convênio a ser firmado, à seguinte entidade: APAE – Associação dos Pais e Amigos dos Excepcionais, inscrita no CNPJ sob o n.º 20.897.203/0001-30.
+
+**Art. 3º** Como recursos à abertura do Crédito Especial mencionado no artigo 1º far-se-á o uso do Superávit Financeiro do Exercício de 2015, dos recursos do FIA.
+
+**Art. 4º** Esta lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Lagoa da Prata, 1º de junho de 2016.
+
+PAULO CÉSAR TEODORO PREFEITO MUNICIPAL

@@ -1,0 +1,46 @@
+---
+titulo: "Portaria nº 31, de 18/01/2021"
+tipo: "Portaria"
+tipo_na_fonte: "Portaria"
+numero: "31"
+data: "2021-01-18"
+ementa: "Eleva o Padrão de Vencimento dos Empregados Públicos que Menciona."
+municipio: "Lagoa da Prata"
+uf: "MG"
+codigo_ibge: "3137205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.lagoadaprata.mg.leg.br/norma/6161"
+fonte_texto: "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2021/6161/portaria_031-2021_-_foi_revogada_eleva_padrao_de_vencimentos.pdf"
+sha256_fonte: "7d39fda17944a2628d66a875c8a7d890a2d8d940b90ca6de2945d88b22e37e20"
+baixado_em: "2026-11-02"
+---
+
+# Portaria nº 31, de 18/01/2021
+
+CÂMARA MUNICIPAL DE LAGOA DA PRATA Estado de Minas Gerais
+
+PORTARIA Nº 31/2021
+
+Eleva o Padrão de Vencimento dos Empregados Públicos que Menciona.
+
+A Presidente da Câmara Municipal de Lagoa da Prata, no uso de suas atribuições que lhe confere o Inciso II do Art. 38 da Lei Orgânica Municipal e em conformidade com do Art. 12 da Lei Complementar Municipal 49/2005, bem como dos Arts. 8º ao 11 da Lei Complementar Municipal nº 3, de 22 de maio de 1991, de forma subsidiária;
+
+Considerando o resultado das avaliações arquivadas nesta Casa e descritos na ata da reunião da Comissão de Progressão para este fim, RESOLVE:
+
+**Art. 1º** Fica elevado o padrão de vencimento dos seguintes Empregados Públicos desta Casa:
+
+I - Cristiano Júnior da Silva, para o Nível E-3 “O”;
+
+II - Maria Cristina dos Santos, para o Nível E-4 “O”;
+
+III - Ronaldo Lacerda Resende, para o Nível E-2 “M”;
+
+IV – Maycon Mayk Bento, para o Nível E-1 “B”.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+Câmara Municipal de Lagoa da Prata, 18 de janeiro de 2021.
+
+CAROLINE DE CARVALHO CASTRO Presidente
+
+Sede Própria: Rua Ângelo Perilo, 35 - Telefax: (37) 3261-1577 / 3261-2183 - CEP 35590-000 - Lagoa da Prata/MG Site: www.camaralp.mg.gov.br - Email: camaralp@camaralp.mg.gov.br

@@ -1,0 +1,50 @@
+---
+titulo: "Resolução nº 616, de 13/06/2011"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "616"
+data: "2011-06-13"
+ementa: "Outorga Título de Cidadania Honorária de Bom Despacho/MG ao Dr. Antônio Augusto Jumbo Anastasia"
+municipio: "Bom Despacho"
+uf: "MG"
+codigo_ibge: "3107406"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.bomdespacho.mg.leg.br/norma/2426"
+fonte_texto: "https://sapl.bomdespacho.mg.leg.br/media/sapl/public/normajuridica/2011/2426/616.pdf"
+sha256_fonte: "b4996e75c9a9195451d0c4925208ea1b5f22413f13751a52d9e3d64dd585a634"
+baixado_em: "2026-11-02"
+---
+
+# Resolução nº 616, de 13/06/2011
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE BOM DESPACHO
+
+RESOLUÇÃO DE Nº 616/2011
+
+“Outorga Título de Cidadania Honorária de Bom Despacho/MG”.
+
+O Povo do Município de Bom Despacho/MG, por seus representantes na Câmara Municipal, aprova e eu, Presidente, em seu nome, promulga a seguinte RESOLUÇÃO:
+
+Art. 1º- Como testemunho de gratidão pelos inúmeros benefícios prestados no município de Bom Despacho, fica concedido o Título de Cidadão Honorário de Bom Despacho, ao
+
+Exmo. Senhor Governador do Estado de Minas Gerais, Dr. ANTÔNIO AUGUSTO JUMBO ANASTASIA.
+
+Art. 2º- O Título que trata o artigo anterior será entregue em Sessão Solene da Câmara Municipal de Bom Despacho.
+
+Art. 3º- Revogadas as disposições em contrário, esta Resolução entrará em vigor na data de sua publicação.
+
+CÂMARA MUNICIPAL DE BOM DESPACHO/MG, AOS TREZE DIAS DO MÊS DE JUNHO DE 2011 (13.06.2011).
+
+Vereador MARCOS FIDELIS CAMPOS Presidente da Câmara Municipal
+
+CGB/ CÂMARA MUNICIPAL DE BOM DESPACHO ESTADO DE MINAS GERAIS
+
+Publicação Nº... LO | SOC...
+
+Cenifi ara fins de comprovação que este(a) PELO O Foi publicado
+
+no quadro de publicações da Câmara no periodo RR dido À cedidos O referido
+
+é verdade e dou fé. U Bom Despacho...... IH. a oa ereesenamemmemo Ass. Servidor... ENTORNO RG/Matricula.... Sci ceserseneerene RN NINE
