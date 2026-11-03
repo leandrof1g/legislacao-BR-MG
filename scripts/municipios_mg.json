@@ -146,7 +146,7 @@
    "sapl_manual": false
   },
   "3107307": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Bocaiúva",
    "normas_na_fonte": 89,
    "pasta": "bocaiuva",
@@ -488,7 +488,7 @@
    "sapl_manual": false
   },
   "3127107": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Frutal",
    "normas_na_fonte": 6211,
    "pasta": "frutal",
@@ -731,7 +731,7 @@
    "sapl_manual": false
   },
   "3138203": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Lavras",
    "normas_na_fonte": 9265,
    "pasta": "lavras",
