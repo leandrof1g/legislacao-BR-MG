@@ -1,0 +1,562 @@
+---
+titulo: "Lei Ordinária nº 2511, de 03/04/2000"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "2511"
+data: "2000-04-03"
+ementa: "DISPÕE SOBRE REAJUSTE DE VENCIMENTOS, PROVENTOS E PENSÕES."
+municipio: "Pedro Leopoldo"
+uf: "MG"
+codigo_ibge: "3149309"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pedroleopoldo.mg.leg.br/norma/96"
+fonte_texto: "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2000/96/96_texto_integral.pdf"
+sha256_fonte: "07a541fa1114ba6891467b966c00cb9ce5306b65152a03575a21ade1f630dea4"
+baixado_em: "2026-11-04"
+---
+
+# Lei Ordinária nº 2511, de 03/04/2000
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Ev» PREFEITURA MUNICIPAL DE PEDRO LEOPOLDO UT CEP 33600-000 - ESTADO DE MINAS GERAIS
+
+LEI Nº 2.511, DE 03 DE ABRIL DE 2.000.
+
+“Dispõe sobre reajuste de vencimentos, proventos e pensões.”
+
+O Povo do Municipio de Pedro Leopoldo, por seus representantes aprovou, e eu, em seu nome. sanciono a seguinte Lei:
+
+Art. 1º) — Ficam reajustados em 10% (dez por cento), os niveis de vencimento dos cargos do quadro de pessoal da Prefeitura Municipal.
+
+**Art. 29** - O reajuste a que se refere o artigo anterior, se estenderá aos proventos e às pensões.
+
+Art. 3º) - O reajuste a que se refere o artigo 1º, não se estenderá ao Programa de Médico de Família. objeto da lei nº 2.270 de 16 de junho de 1.997, nem ao Programa de Atendimento Clínico Especializado em Saúde Bucal do Município de Pedro Leopoldo, objeto da Lei Municipal nº 2.506, de 30 de março de 2.000, por se tratarem de programas especiais.
+
+Art. 4º) - O Anexo | desta Lei, substituirá o anexo | da Lei Municipal 2.271, de 16 de junho de 1.997.
+
+Art. 5º) - O Anexo !! desta Lei, substituirá o anexo U da Lei
+
+Municipal 2.271, de 16 de junho de 1.997.
+
+Art. 6º) - O Anexo III desta Lei, substituirá o anexo IV-01 da Lei Municipal 2.089 de 06 de outubro de 1.995.
+
+Ast. 79 - O Anexo IV desta Lei, substituirá o anexo IV-O2 da Lei Municipal 2.089 de 06 de outubro de 1.995.
+
+Art. 8º) - O Anexo V desta Lei, substituirá o anexo Ill, da Lei Municipal 2.496 de 25 de fevereiro de 2.000.
+
+f
+
+PREFEITURA MUNICIPAL DE PEDRO LEOPOLDO CEP 33600-000 - ESTADO DE MINAS GERAIS
+
+Art. 9º) - Para ocorrer à despesa resultante desta Lei, utilizar- se-ão as dotações do Orçamento vigente, assegurados os recursos na forma da Lei 4.320/64 (art. 43).
+
+Art. 10) — O reajuste de que trata esta Lei, irá vigorar a partir de 01 de abril do corrente.
+
+Art. 11) - Revogadas as disposições em contrário, a presente lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Pedro Leopoldo, 03 de abril de 2.000.
+
+PREFEITO MUNICIPAL
+
+ANEXO | CLASSE DE CARGOS EM COMISSÃO
+
+NÍVEL
+
+DE TÍTULO DO CARGO VENCIMENTO
+
+NÚMERO VALOR DOS VENCIMENTOS
+
+DE SITUAÇÃO | À PARTIR DE| GRATIFICAÇÃO CARGOS ATUAL 1º/04/2000 EM % CC1 SEGREÁRIO MUNICIPAL 07 1.721,40 | 1.893,54 20% GC1 ASSESSOR DE PLANEJAMENTO E COORDENAÇÃO 0 1.721,40 | 1.893,54 20% GC1 PROCURADOR GERAL DO MUNICIPIO PA 1.721,40 | 1.893,54 20% Cc2 ASSESSOR TÉCNICO 3 1.347,16 | 1.484,88 20% Cc3 CHEFE DE DIVISÃO 22 1.122,65 | 1.234,92 20% GC3 CHEFE DE GABINETE Dt 1.122,65 | 1.234,92 20% GCa4 SECRETÁRIO DE PREFEITO 91 748,42 823,26 20% GC5 MOTORISTA DO PREFEITO 02 523,89 578,28 20%
+
+ANEXO II FUNÇÕES GRATIFICADAS
+
+TÍTULO DA FUNÇÃO VALOR DA REMUNERAÇÃO ATUAL APARTIR DE 1º DE ABRIL/2000 ENCARREGADO DE SERVIÇO | 350,00 385,00 ENCARREGADO DE SERVIÇO |l 581,00 639,10 ENCARREGADO DE SERVIÇO Il 900,00 990,00 SUPERVISOR DE PROJETO | 947,00 1.041,70 SUPERVISOR DE PROJETO Il 1.240,00 1.364,00 SUPERVISOR DE PROJETO Ill 2.058,00 2.263,80 COORDENADOR DE PROGRAMA | 1.240,00 1.364,00 COORDENADOR DE PROGRAMA |l 2.058,00 2.263,80 COORDENADOR DE PROGRAMA Ill 3.500,00 3.850,00
+
+VICE- DIRETOR DE ESCOLA | 486,00 534,60
+
+VICE- DIRETOR DE ESCOLA II 630,00 69:3,00
+
+VICE- DIRETOR DE ESCOLA IH 800,00 990,00 DIRETOR DE ESCOLA | 630,00 693,00 DIRETOR DE ESCOLA II 300,00 990,00 DIRETOR DE ESCOLA IH 1.350,00 1.485,00 SECRETÁRIO 630,00 693,00 COORDENADOR DE ESCOLA 486,00 534,60
+
+ESTADO DE MINAS GERAIS
+
+CEP 33600-000
+
+'o Õ amb O a O LL) ml O x Q ul O us a < a O z > = < oz > mm Lu LL Lu
+
+Qu
+
+ANEXO Ill TABELA DO QUADRO PERMANENTE A VIGORAR À PARTIR DE 1º DE ABRIL DE 2000.
+
+GRAUS DE VENCIMENTOS
+
+O, [a = O) [af 9, uu E, Õ (14 [m TT a uu OQ < a. o z E) = o E Tr TE TT [nd O
+
+ESTADO DE MINAS GERAIS
+
+CEP 33600-000
+
+INICIAL
+
+A 5%
+
+B 10%
+
+C 15%
+
+D 20%,
+
+F 25%
+
+F 30%
+
+& G 35%
+
+H 40%
+
+| 45%
+
+J 30%
+
+154,98
+
+162,73
+
+170,48
+
+178,23
+
+185,98
+
+193,73
+
+201,47
+
+209,22
+
+216,97
+
+224,72
+
+232,4
+
+164,21
+
+172,42
+
+180,63
+
+188,84
+
+197,05
+
+205,26
+
+213,47
+
+221,68
+
+429,89
+
+238,10
+
+24532.
+
+174,10
+
+182,81
+
+191,51
+
+200,22
+
+208,92
+
+217,63
+
+226,33
+
+235,04
+
+243,74
+
+252,45
+
+261,15
+
+184,69
+
+193,92
+
+203,16
+
+212,39
+
+221,63
+
+230,86
+
+240,10
+
+249,33
+
+298,57,
+
+267,80
+
+277,04
+
+196,03
+
+205,83
+
+215,63
+
+225,43
+
+235,24
+
+245,04
+
+254,84
+
+264,64
+
+214,44
+
+284,24
+
+294,05
+
+208,19
+
+218,60
+
+229,01
+
+239,42
+
+249,83
+
+260,24
+
+270,65
+
+281,06
+
+291,47
+
+301,88
+
+312,29
+
+221,19
+
+232,25
+
+243,31
+
+254,37
+
+265,43
+
+276,49
+
+287,55
+
+298,61
+
+309,67
+
+320,73
+
+331,79,
+
+235,14
+
+246,90
+
+258,65
+
+270,41
+
+282,17
+
+293,93
+
+305,68
+
+317,44
+
+329,20
+
+340,95
+
+352,71
+
+289,71
+
+304,20
+
+318,68
+
+933,17
+
+347,65
+
+362,14
+
+376,62
+
+391,11
+
+405,59
+
+420,08
+
+434,57 |
+
+358,00
+
+375,90
+
+393,80
+
+411,70
+
+429,60
+
+447,50
+
+465,40
+
+483,30
+
+E01,20
+
+519,10
+
+537,00 |
+
+445,03
+
+467,28
+
+489,53
+
+S11,78
+
+534,04
+
+556,29
+
+578,54
+
+600,79
+
+623,04
+
+645,29
+
+667,55 |
+
+554,04
+
+581,74
+
+609,44
+
+637,15
+
+664,85
+
+692,55
+
+720,25
+
+747,95
+
+775,66
+
+803,36
+
+831,06
+
+691,39
+
+725,96
+
+760,53
+
+195,10
+
+829,67
+
+864,24
+
+898,81
+
+933,38
+
+067,95
+
+1.002,52
+
+1.037,09
+
+864,37
+
+907,59
+
+950,81
+
+994,08
+
+1.037,24
+
+1.080,46
+
+1.123,68
+
+1.166,90
+
+1.210,12
+
+1.253,34
+
+1.296,56
+
+1.082,18
+
+1.136,29
+
+1.190,40
+
+1.244,51
+
+1.298,62
+
+1.352,73
+
+1.406,83
+
+1.460,94
+
+1.515,05
+
+1.569,16
+
+1.623,27
+
+PREFEITURA MUNICIPAL DE PEDRO LEOPOLDO CEP 33600-000 - ESTADO DE MINAS GERAIS
+
+ANEXO IV TABELA DO QUADRO SUPLEMENTAR
+
+NÍVEL DE VALOR | VALOR À PARTIR DE VENCIMENTO| ATUAL | 1º DE ABRIL DE 2000 137,39 151,13 138,98 152,88 138,98 152,88 139,02 152,92 139,07 152,98 139,41 153,35 139,71 153,68 140,46 154,51 140,59 154.65 146,38 161,02 153,13 168,44 159,56 175,52 239,34 263,27 166,70 183,37 174,20 191,62 261,30 287,43 182,11 200,32 273,16 300,48 190,43 209,47 199,16 219,08 208,39 229,23
+
+221,79 243,97 236,67 260,34
+
+dim ad gap
+
+253,77 279,15 212,42 259,66 292,26 321,49 329,14 357,65 348.01 382.81 373,59 410,95 400,50 440,56 444,43 488,87 666,64 733,30 476,59 524,25 507,37 998,11 1.141,58 1.255,74 939,25 593,18 575,05 632,56
+
+mlalojoojnsjojola coli
+
+PREFEITURA MUNICIPAL DE PEDRO LEOPOLDO CEP 33600-000 - ESTADO DE MINAS GERAIS
+
+## ANEXO V
+
+TABELA DOS CARGOS EFETIVOS DO QUADRO DE PESSOAL DA SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+CARGOS EFETIVOS
+
+NÚMERO DE CARGOS
+
+SITUAÇÃO ATUAL
+
+À PARTIR DE 1º DE ABRIL DE 2.000
+
+ASSISTENTE DE ADMINISTRAÇÃO DE ENSINO, CULTURA, ESPORTE E LAZER
+
+263,37
+
+289,71
+
+AUXILIAR DE ADMINISTRAÇÃO DE ENSINO, CULTURA, ESPORTE E LAZER
+
+167,90
+
+184,69
+
+AUXILIAR DE ESCOLA
+
+140,89
+
+154,98
+
+AUXILIAR DE MULTIMEIOS DIDÁTICOS
+
+263,37
+
+289,71
+
+AUXILIAR DE SERVIÇOS GERAIS
+
+149,28
+
+16421
+
+BIBLIOTECÁRIO
+
+404,57
+
+445,03
+
+INSPETOR DE ALUNOS
+
+158,27
+
+174140
+
+MONITOR
+
+263,37
+
+289,71
+
+PROFESSOR DE EDUCAÇÃO BÁSICA !
+
+277,88
+
+305,67
+
+PROFESSOR DE EDUCAÇÃO BÁSICA Il
+
+342,38
+
+376,62
+
+PSICÓLOGO ESCOLAR
+
+628,54
+
+691,39
+
+SECRETÁRIO ESCOLAR
+
+178,21
+
+196,03
+
+TÉCNICO SUPERIOR EM EDUCAÇÃO
+
+404,57
+
+445,03
+
+VIGILANTE
+
+149,28
+
+164,21
