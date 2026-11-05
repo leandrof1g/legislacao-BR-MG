@@ -1163,7 +1163,7 @@
    "sapl_manual": false
   },
   "3158953": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Santana do Paraíso",
    "normas_na_fonte": 1874,
    "pasta": "santana-do-paraiso",

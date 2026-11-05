@@ -1,0 +1,50 @@
+---
+titulo: "Lei Ordinária nº 2714, de 19/10/2021"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2714"
+data: "2021-10-19"
+ementa: "Abre Crédito Especial ao Orçamento Vigente.R$189.539,00"
+municipio: "João Pinheiro"
+uf: "MG"
+codigo_ibge: "3136306"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.joaopinheiro.mg.leg.br/norma/2771"
+fonte_texto: "https://sapl.joaopinheiro.mg.leg.br/media/sapl/public/normajuridica/2021/2771/lei_2.714.2021_abre_credito_especial_ao_orcamento_vigente.r189.53900.pdf"
+sha256_fonte: "fb4aec83dfbb50a5c8fbf3c331adc1ee4d473f0e7273949fba12b676f1b4cc2e"
+baixado_em: "2026-11-05"
+---
+
+# Lei Ordinária nº 2714, de 19/10/2021
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA MUNICIPAL DE JOÃO PINHEIRO
+
+e PUBLICAÇÃO LEI Nº. 2714 DE 19 DE OUTUBRO DE 2021. EM: DO LO a
+
+“Abre Crédito Especial ao Orçamento Vigente”.
+
+A Câmara Municipal de João Pinheiro-MG, no uso de suas atribuições e de acordo com a Lei Orgânica do Município aprovou e eu, Prefeito Municipal, sanciono a seguinte LEI:
+
+**Art. 1º** - Fica o Chefe do Poder Executivo do Município de João Pinheiro, Estado de Minas Gerais, autorizado a abrir Crédito Adicional Especial no valor total de R$189.539,00 (Cento e Oitenta e Nove Mil e Quinhentos e Trinta e Nove Reais), de acordo com o Artigo 43, combinado com o Artigo 46 da Lei Federal 4.320/64, e parágrafo único do artigo 8º. e artigo 25, 82º. ambos da Lei Complementar nº. 101/2000 (Lei de Responsabilidade Fiscal), para atender a despesa decorrente da presente Lei, obedecendo à seguinte classificação orçamentária: 02 — Poder Executivo 02.07 — Secretaria Municipal Saúde — Fundo Municipal 02.07.02 — Fundo Municipal de Saúde — Recursos Vinculados 02.07.02.10 — Saúde 02.07.02.10.301 — Atenção Básica 02.07.02.10.301.1002 — Programa Atendimento Saúde 02.07.02.10.301.1002.1517 — Aquisição Equipamentos Saúde Bucal 02.07.02.10.301.1002.1517.44.90.52.00 — Equipamentos e Mat.
+
+Permanente... EO R$189.539,00
+
+**Art. 2º** - Constituem recursos para a abertura do presente Crédito Adicional Especial o Excesso de Arrecadação proveniente da Transferência do Fundo Nacional de Saúde, procedentes das Emendas Parlamentares Individuais números 40870006 e 27590006 nos valores de R$89.539,00 (Oitenta e Nove Mil e Quinhentos e Trinta e Nove Reais) e de R$100.000,00 (Cem Mil Reais) respectivamente.
+
+**Art. 3º** - Fica autorizado ao Poder Executivo a realizar as alterações no PPA, LDO e na LOA para inclusão da despesa e projeto/atividade previstas no art. 1º. da presente Lei através de Decreto.
+
+**Art. 4º** - Fica o Poder Executivo autorizado a suplementar a dotação orçamentária contida nesta Lei, nos percentuais e limites previstos na Lei Orçamentária Anual ou legislação específica de suplementação, utilizando os recursos previstos no 81º. do art. 43 da Lei Federal nº. 4.320/64.
+
+Art. 5º- Esta Lei entra em vigor na data de sua publicação.
+
+At, PREFEITURA MUNICIPAL DE JOÃO PINHEIRO
+
+**Art. 6º** - Revogam-se as disposições em contrário. Prefeitura Municipal de João Pinheiro, 19 de outubro de
+
+Lealéiiida
+
+efeito Municipal
+
+2.021.
