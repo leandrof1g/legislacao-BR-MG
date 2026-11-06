@@ -1,0 +1,50 @@
+---
+titulo: "Resolução nº 508, de 16/02/2003"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "508"
+data: "2003-02-16"
+ementa: "Concede Medalha Coronel Tininho ao Dr. Asmeldo Rodrigues Ferreira Leite"
+municipio: "Bom Despacho"
+uf: "MG"
+codigo_ibge: "3107406"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.bomdespacho.mg.leg.br/norma/2555"
+fonte_texto: "https://sapl.bomdespacho.mg.leg.br/media/sapl/public/normajuridica/2003/2555/508.pdf"
+sha256_fonte: "d4f8342f4a802c6adb050809540c1b855d4a923c54e83b25d818c908f394e4a4"
+baixado_em: "2026-11-06"
+---
+
+# Resolução nº 508, de 16/02/2003
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE BOM DESPACHO
+
+=
+
+ZS TIE
+
+e,
+
+RESOLUÇÃO DE Nº 508/04
+
+“Concede Medalha do Mérito Comunitário Coronel Tininho”.
+
+O Povo do Município de Bom Despacho/MG, por seus representantes na Câmara Municipal, aprova e eu, Presidente, em seu nome, promulga a seguinte RESOLUÇÃO:
+
+Art. 1º- Fica concedido a Medalha do Mérito Comunitário Coronel Tininho ao SR. DR. ANSELMO RODRIGUES FERREIRA LEITE.
+
+Art. 2º- A Comenda a que se refere o artigo anterior será entregue ao homenageado em Sessão Solene da Câmara Municipal.
+
+Art. 3º- Revogadas as disposições em contrário, esta Resolução entrará em vigor na data de sua publicação.
+
+CÂMARA MUNICIPAL DE BOM DESPACHO/MG, EM 16 DE FEVEREIRO DE 2004.
+
+PRESIDENTE, É
+
+Francisto'Araújo Lopés Cançadg Filho SECRETÁRIO, ABA
+
+Carlos Robérto de Couto
+
+CGBV/
