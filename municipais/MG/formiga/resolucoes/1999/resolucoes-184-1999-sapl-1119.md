@@ -1,0 +1,50 @@
+---
+titulo: "Resolução nº 184, de 29/03/1999"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "184"
+data: "1999-03-29"
+ementa: "Autoriza a Câmara Municipal de Formiga, firmar convênio com a Faculdade de Direito do Oeste de Minas - FADOM e dá outras providências."
+municipio: "Formiga"
+uf: "MG"
+codigo_ibge: "3126109"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.formiga.mg.leg.br/norma/1119"
+fonte_texto: "https://sapl.formiga.mg.leg.br/media/sapl/public/normajuridica/1999/1119/resolucao_no_184.1999.pdf"
+sha256_fonte: "76942ad10a98d771a5183008acf4c2046b01a4c7b08470170c88582a7eb7356c"
+baixado_em: "2026-11-07"
+---
+
+# Resolução nº 184, de 29/03/1999
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE FORMIGA
+
+ESTADO DE MINAS GERAIS Praça São Vicente Férrer, 140 CGC 20.914.302/0001-16 - Fone (037) 322-2491 - CEP 35.570-000 - Formiga-MG
+
+>,
+
+"O Legislativo trabalhando pelo povo"
+
+RESOLUÇÃO 184/99
+
+AUTORIZA A CÂMARA MUNICIPAL DE FORMIGA, FIRMAR CONVÊNIO COM A FACULDADE DE DIREITO DO OESTE DE MINAS - FADOM - E DA OUTRAS PROVIDÊNCIAS.
+
+A CÂMARA MUNICIPAL DE FORMIGA APROVOU E A MESA PROMULGA A SEGUINTE RESOLUÇÃO
+
+ART. 1º - FICA A CÂMARA MUNICIPAL DE FORMIGA, AUTORIZADA A FIRMAR CONVÊNIO COM A FACULDADE DE DIREITO DO OESTE DE MINAS GERAIS - FADOM - PARA A CESSÃO DE ESPAÇO FÍSICO NO EDIFÍCIO DO LEGISLATIVO PARA INSTALAÇÃO DO “DAS DEPARTAMENTO DE ASSISTÊNCIA JUDICIÁRIA/FORMIGA.
+
+ART. 2º ESTE CONVÊNIO TEM POR OBJETIVO O ESTABELECIMENTO DE BASE DE COOPERAÇÃO ENTRE A CÂMARA MUNICIPAL E A FACULDADE PARA ASSISTÊNCIA AOS NECESSITADOS E APRIMORAMENTO DA PRÁTICA FORENSE DOS ALUNOS DA FADOM.
+
+ART. 3º - ESTA RESOLUÇÃO ENTRARÁ EM VIGOR NA DATA DE SUA PUBLICAÇÃO, RETROAGINDO SEUS EFEITOS AO DIA 19 DE MARÇO DE 1999.
+
+CÂMARA MUNICIPAL DE FORMIGA, 29 DE MARÇO DE 1999
+
+[Dn
+
+VIO LUIS DA CUNHA PRESIDENTE
+
+ANTÔNIO FERNANDES TONINHO COSTA - VICE PRESIDENTE
+
+CARLOS NIO LAMOUNIER 18 ÁRIO

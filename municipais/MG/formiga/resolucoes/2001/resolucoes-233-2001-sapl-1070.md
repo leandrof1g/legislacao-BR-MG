@@ -1,0 +1,44 @@
+---
+titulo: "Resolução nº 233, de 01/10/2001"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "233"
+data: "2001-10-01"
+ementa: "Autoriza o Presidente da Câmara Municipal a participar de Seminário no dia 25/09/2001 e dá outras providências."
+municipio: "Formiga"
+uf: "MG"
+codigo_ibge: "3126109"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.formiga.mg.leg.br/norma/1070"
+fonte_texto: "https://sapl.formiga.mg.leg.br/media/sapl/public/normajuridica/2001/1070/resolucao_no_233.2001.pdf"
+sha256_fonte: "4e96b94e8665c45cdc60d7c48909775cf879bbf42a89397ccf3299cd3886f6bb"
+baixado_em: "2026-11-07"
+---
+
+# Resolução nº 233, de 01/10/2001
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE FORMIGA ESTADO DE MINAS GERAIS
+
+Praça São Vicente Férrer, 140 CNPJ. 20.914.305/0001-16 - Fone:(37) 3322-2491 - CEP 35.570-000 - Formiga-MG e-mail: cmfgaQnetfor.com.br
+
+RESOLUÇÃO 233/2001
+
+AUTORIZA O PRESIDENTE DA CÂMARA MUNICIPAL A PARTICIPAR DE SEMINÁRIO NO DIA 25/09/2001 E DÁ OUTRAS PROVIDÊNCIAS.
+
+A CÂMARA MUNICIPAL DE FORMIGA, APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+ART. 1º - FICA O PRESIDENTE DA CAMARA MUNICIPAL, AUTORIZADO A PARTICIPAR DE UM SEMINÁRIO DIA 25 DE SETEMBRO DE 2001, EM BELO HORIZONTE NO AUDITÓRIO DO TEC., SOBRE O ESTATUTO DA CIDADE, TEMA OBJETO DA LEI 10.257, DE 10 DE JULHO DE 2001, QUE REGULAMENTA OS ARTIGOS 182 E 183 DA CONSTITUIÇÃO FEDERAL E ESTABELECE DIRETRIZES GERAIS DA POLÍTICA URBANA :
+
+ART. 2º - SE DESPESAS DECORRENTES DESTA RESOLUÇÃO , CORRERÃO POR CONTA DE DOTAÇÕES PRÓPRIAS DO ORÇAMENTO VIGENTE.
+
+ART 3º - ESTA RESOLUÇÃO ENTRA EM VIGOR NA DATA DE SUA PUBLICAÇÃO, RETROAGINDO SEUS EFEITOS A 25 DE SETEMBRO DE 2001
+
+ART. 4º - REVOGAM-SE AS DISPOSIÇÕES EM CONTRÁRIO
+
+CÂMAR A MUNICIPAL DE FORMIGA, 01 DE OUTUBRO DE 2001-10-02
+
+AL OSO DA CUNHA Us ENTE VICE PRESIDENTE
+
+MARIA VITÓRIA CORRÊA SECRETÁRIA

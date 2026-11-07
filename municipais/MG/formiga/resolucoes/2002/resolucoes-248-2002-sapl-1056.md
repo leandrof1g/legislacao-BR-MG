@@ -1,0 +1,46 @@
+---
+titulo: "Resolução nº 248, de 03/06/2002"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "248"
+data: "2002-06-03"
+ementa: "Autoriza pagamento de gratificação de função e dá outras providências."
+municipio: "Formiga"
+uf: "MG"
+codigo_ibge: "3126109"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.formiga.mg.leg.br/norma/1056"
+fonte_texto: "https://sapl.formiga.mg.leg.br/media/sapl/public/normajuridica/2002/1056/resolucao_no_248.2002.pdf"
+sha256_fonte: "0edc4485e7475bca9ed30f4cfd866a3d422093c6e17fcc2ff56f867f56e1c9bd"
+baixado_em: "2026-11-07"
+---
+
+# Resolução nº 248, de 03/06/2002
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE FORMIGA ESTADO DE MINAS GERAIS
+
+Praça São Vicente Férrer, 140 : CNPJ. 20.914.305/0001-16 - Fone:(0xx37) 3321-2001 - CEP 35.570-000 - Formiga-MG e-mail: cmfga(Dnetfor.com.br
+
+RESOLUÇÃO 248/2002
+
+AUTORIZA PAGAMENTO DE GRATIFICAÇÃO DE FUNÇÃO E DÁ OUTRAS PROVIDÊNCIAS.
+
+A CÂMARA MUNICIPAL DE FORMIGA APROVOU E A MESA PROMULGA A SEGUINTE RESOLUÇÃO
+
+ART. 1º -. FICA AUTORIZADO O PAGAMENTO DE GRATIFICAÇÃO . DE FUNÇÃO AÓS SERVIDORES DO LEGISLATIVO FORMIGUENSE DESIGNADO PELO PRESIDENTE PARA O DESEMPENHO DE FUNÇÕES NÃO INERENTES AO PRÓPRIO CARGO.
+
+ART. 2º OS VALORES DA GRATIFICAÇÃO SERÁ FEITA POR PORTARIA DA PRESIDÊNCIA LIMITADO AO VENCIMENTO DO SERVIDOR, NA FORMA DO ART. 29 INCISO XXXV DA LEI ORGÂNICA DO MUNICIPIO DE FORMIGA.
+
+ART. 3º - A GRATIFICAÇÃO DE FUNÇÃO NÃO INCORPORA O VECIMENTO DO SERVIDOR E SERÁ DE R$180,00 (CENTO E OITENTA REAIS), SENDO QUE A AUTORIZAÇÃO E REVOGAÇÃO DA GRATIFICAÇÃO, SERÃO FEITAS MEDIANTE PORTARIA DA PRESIDÊNCIA DA CÂMARA, PARA A COMISSÃO DE LICITAÇÃO.
+
+ART. 4º - ESTA RESOLUÇÃO ENTRA EM VIGOR NA DATA DE SUA PUBLICAÇÃO, RETROAGINDO SEUS EFEITOS À DOIS DE JANEIRO DE 2002.
+
+CÂMARA MUNICIPAL DE FORMIGA, 03 DE JU] DE 2002
+
+MOACIR RIBEIRO DA SILVA na x PIBR ONI
+
+PRESIDENTE Gal ge V AEE
+
+SECRETARIO
