@@ -1,0 +1,50 @@
+---
+titulo: "Lei Ordinária nº 2694, de 18/10/1996"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2694"
+data: "1996-10-18"
+ementa: "Dispõe sobre permuta de imóveis urbanos e dá outras providências (Terreno de propriedade da PMF situado no bairro Maringá por terreno situado na a avenida Licinio José Pinto, tendo com finalidade única construção de uma Indústria de Móveis)."
+municipio: "Formiga"
+uf: "MG"
+codigo_ibge: "3126109"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.formiga.mg.leg.br/norma/4073"
+fonte_texto: "https://sapl.formiga.mg.leg.br/media/sapl/public/normajuridica/1996/4073/lei_municipal_no_2694.1996.pdf"
+sha256_fonte: "6b3ecf4341407e52408501fbd2a6e482b038903060314ccc969d4c663e279a15"
+baixado_em: "2026-11-08"
+---
+
+# Lei Ordinária nº 2694, de 18/10/1996
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+“PREFELTURA MUNICIPAL DE FORMIGA-ESTADO DE MINAS GERAIS RUM FARA DE PIURHY El CENTRO FORMIGA.MNO CEP 7290/7000 CGL 164/88, 720/0001 -2G
+
+LEI No: 2694 DE 14 DE QUTUERO DE 1996
+
+“ DISPTE SORRE FERMUTA DE IMOVEIS URBANOS E Dã OUTRAS PROVIDENCIAS"
+
+Co fo CAMARA MUNICIPAL DE FORMIGA BPROVOU E El, SANCIONO A SEGUINTE LEI”
+
+ARTIGO PRIMEIRO : Filã td GOVERNO DO MUNICIPIO DE FORMIGA, UTI ZE fo PERMUTA Li" TERRENO VAGO DE PROPRIEDADE DQ MUNICIPIO DE FORMIGA, CONSTITUIDO DOS LOTES LARGAS LI LORI l3 E 19 DA QUADRA 27 “C QUADRA VINTE E SETE) . SITUADO EMPPREO Cs ll DOG DE POLLS E AUBNTDE JOSE E, DE Ca ELLER E MORA LRRO MáRiMGS, COP AREA TOTÊL DE B.D0C DD Lo TRES PEL Mitre MisDRGDlS) MT. PELO TERRENO SITUADO à AV. LICENTO JOSE PINTO, CONSTITUIDO DOS LOTES 9 E 5 + Dá QUADRA OS " COITOd, FRLENDO ESQUILO COM do RUA IDAQUIM TENDORO DE MELO 4 into Ge DE GLBGE TRL Co MOVECENTOS E DEZOITO METROS [BERERAD): mo E TRENTO E ULTO CENTEMETEOS O QUADRADOS CONEDE Medir E RECED ES TREÇO UPTOS GO CRE LOC E CONFORME CRÓÚNUIS E Cups GhEXôS,
+
+PARAGRARO UNICO 2 Filo os ADMINISTRAÇÃO MUNICIPIO Ny Clai 3 Crrnio si
+
+ETR PER CONTA EXMELUSICOE Di) PILUNE Ie LIEGAÇBO Df LETRILCO TRIPLO PRIDANHTÁ AO LOCAL OMDE SERA INSTALADO PERDA EMPRESA
+
+ARTIGO SEGUNDO «O TERRENO OS SER GCERMUTADOO TERA COMO Pie DADE LNTCE COMBTRUÇEALO DE Ué O INDUSTRIA DE MOVEIA “a Bu JE j
+
+timmlTA DE ESPêçã PIGICO PARA Sum EXPEANGEO,
+
+ARTIGO TERCEIRO « ElTã LEI ENTRA EM VIGOR, Ná DATA DE SU
+
+PL LCA E REVOGADAS GE DISPOSIÇÕES EMT CONTRBRTO,
+
+BABIMETE DO PREPELTO GS LES DUTUBRD, LPS
+
+to PMunicipal / A
+
+RO
+
+Em

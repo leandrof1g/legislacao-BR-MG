@@ -1,0 +1,62 @@
+---
+titulo: "Lei Ordinária nº 2667, de 06/09/1996"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2667"
+data: "1996-09-06"
+ementa: "Autoriza concessão de subvenção social e dá outras providências (Ao Centro Comunitário Rural de Albertos, no valor de R$ 2.136,00)."
+municipio: "Formiga"
+uf: "MG"
+codigo_ibge: "3126109"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.formiga.mg.leg.br/norma/4010"
+fonte_texto: "https://sapl.formiga.mg.leg.br/media/sapl/public/normajuridica/1996/4010/lei_municipal_no_2667.1996.pdf"
+sha256_fonte: "1448504b30f37f56155b4294f5f12417d2110a1bd63fbb894326be2f38503dc7"
+baixado_em: "2026-11-08"
+---
+
+# Lei Ordinária nº 2667, de 06/09/1996
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+DR ed A es em a! E
+
+/ ma, h LO
+
+(Oo
+
+“PREFEITURA MUNICIPAL DE FORMIGA- ESTADO DE MINAS GERAIS RUA BARÃO DE FIUMHY 121- CENTRO - FORMIGA. ME CEP. 271907 000 CGC 16.784.720-0001- 25
+
+LEI Nos 2667 DE 02, SETEMBRO DE 1996.
+
+"AUTORIZA CONCESSÃO DE SUEVENÇÃHO SOCIAL E DA OUTRAS FROVIDENCIAS"
+
+“A CAMARA MUNICIFAL DE FORMIGA APROVOU E El, SANCIONO 4 SEGUINTE LEI "
+
+ARTIGO PRIMEIRO : FICA O PODER EXECUTE O DO MUNTOZERIEMO DE FORMIGA GUTORTZADO & CONCEDER AQ "CENTRO COMUNITARIO RURAL.
+
+DE ALEERTOS DISTRITO DE 1) TOS MUNECIEILO DE FORNECE 4 fã
+
+PRESENTE BURNER SOCEAL PELO VALOR DE Et RaLSADO Co DOIS Wllia CENTO E TRENTA E SEIS BEATS) NO ES JPE EXERCICIO, Pra HEMLINTENÇÕO E DESENVOLVIHENTO DAS ATIVIDADES DO REFERIDO CENTRO COMUMITAREO PL DE CA EREROT ES
+
+ARTIGO SEGUNDO : Pora FAZER FACE AS DESPESAS DE QUE TRATO PRCTLGO PRTPREILRO UTILIZADOS RECURSOS PRORRIOS DO
+
+E PROGROPMA ABAIXO DISCRIMIMADE
+
+as ; Delomonomwnnus oo nf] aaa? í
+
+Poe O de DD RE MH 6 e
+
+ERR TUR A MUNECERAL.
+
+Co SECRET, TURISMO E DESENV. SOCrO EC ONORELCO A DBLARZAGOR ra a POLO CENTROS CONSELHOS E ASSOC, COMMUNITY. ars a OO am mm mm a ELEVEN ENO SOLTA ( 304)
+
+ARTIGO TERCEIRO : Esta tita ENTRA EM VIGOR NO DATA DE SUA PUBLICAÇÃO. REVOGENDO SE AS DIBPOELÇÕES EM CONTRSPTO
+
+GABINETE DO FREFELTO AO Odin BE TERES SPA
+
+(N q after EURO DE CPV PL bla , Prefeito Muni ecigsi
+
+A A aa N
+
+vs Es

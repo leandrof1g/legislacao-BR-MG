@@ -1,0 +1,68 @@
+---
+titulo: "Lei Ordinária nº 2688, de 15/10/1996"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2688"
+data: "1996-10-15"
+ementa: "Altera redação da lei 2650/96 e autoriza patrocínio da Sétima (7ª) Gincana Municipal de Formiga e dá outras providências."
+municipio: "Formiga"
+uf: "MG"
+codigo_ibge: "3126109"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.formiga.mg.leg.br/norma/4067"
+fonte_texto: "https://sapl.formiga.mg.leg.br/media/sapl/public/normajuridica/1996/4067/lei_municipal_no_2688.1996.pdf"
+sha256_fonte: "cf6e177a96d41a1781607fdd3cfc23d01a04814858f4cdf00dd1bb9d195601b9"
+baixado_em: "2026-11-08"
+---
+
+# Lei Ordinária nº 2688, de 15/10/1996
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+“PREFEITURA MUNICIPAL DE FORMIGA- ESTADO DE MINAS GERAIS RUA EARAÃO DE PEUNHY 121 CENTRO -—- FORMIGAS MG CEF 3/890/000 CocC 16.784.720/0001-25
+
+LEI 2688 DE 149.0UTUBRO. 1996
+
+ALTERA REDAÇÃO DA LEI 2650/96 E AUTORIZA PATROCINTO DA SETINA GINCANA MUNICIPAL De FORMIGA E DA OUTRAS PROVIDENCIAS,
+
+“Ao CAMARA MUNICIPAL DE FORMIGA APROVOU E El, SÂNCIONO 8 SEGUINTE LEI".
+
+ARTIGO PRIMEIRO «o Fila GQ PODER EXECUTIVO AUTORIZADO à PATROL IN 6 SETE GINCÓMEOS MUNICIPAL EMO FORMIGO, COMPORNE AUTORIA Dry LEI 2sRo DE LE BGUSTOL LPP A
+
+ARTIGO SEGUNDO : PóRê REGLIZAÇÃO DAS REFERIDAS DESPESGS FICA
+
+q UMIC: LET EAD fé CUSTE DESPESS Cast
+
+HER ED EA DOME ZE QT ERA EC PP ILMBGENS q
+
+: Et FRONSEORTE. PrkSTeCo DE SERVICOS,
+
+Bolo ELETRICO UTILIZANDO DT ACHE MEETCRDES ATE OD IMITE DE
+
+PI fra EE TUR PILL CCE
+
+ET. TURLSPO E DESENV BULIO ECONQRUICO DEBE mma re APOSTO AS MANIFESTAÇÕES E EVENTOS CULTUROIS SLEODO mm emma mr e PIBTERLAL DE CONBUMO (O P7A)
+
+LEO mm m ama uamm n TROS SERVIÇOS E ENCARGOS
+
+RED GO DO À UEL
+
+pra Rep ga BOM ras MD Rr OE DE O E O E RP 46 O e! Ê
+
+E om pr ' RED E [UA A CO CR CU CR CR
+
+BRTLGO TERCEIRO DO MONTANTES DENONSTRADO MO GRTEGO SEGUNDO q ETA EN DESTINOS o PRENTAÇAO O VALOR DE RE Õ BOD,ÕO
+
+- Pr Preso o PREISETRO LUGARE 4 RB GO0,00 so Pre O SECLINDIO DE Bb B0D,0O0 É TREZENTOS » Pot Do ERR Lirbito SENDO OD RESPONSAVEL PELO EDUIPE Fo vVORECLOO DO Glái GE ENITIRO MOTO DE EMPENHO,
+
+ARTIGO QUARTO PIB LC E PTD
+
+EST EL ENTRA EM VIGOR, NB DATA DE if Pa GINDO GEUS EPELTOS à 05 DE AGOSTO DESSA E Peas ii E DT 3 À Qi rh CONF RS PUDO GeeLNITE DO PREFELTO G08 15, QUITUBRO, LPP À
+
+> !
+
+o
+
+A, o EEE ui abeminete
+
+Prefeito PMuamicipgal ( Secrexkgri

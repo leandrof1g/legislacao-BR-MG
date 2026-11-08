@@ -1,0 +1,50 @@
+---
+titulo: "Resolução nº 145, de 02/12/1996"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "145"
+data: "1996-12-02"
+ementa: "Dispõe sobre elevação salarial em 10% sobre remuneração dos servidores da Câmara Municipal de Formiga e dá outras providências."
+municipio: "Formiga"
+uf: "MG"
+codigo_ibge: "3126109"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.formiga.mg.leg.br/norma/1157"
+fonte_texto: "https://sapl.formiga.mg.leg.br/media/sapl/public/normajuridica/1996/1157/resolucao_no_145.1996.pdf"
+sha256_fonte: "a92c239a821e492d38ff5c0717c5198d8ad61478ab94310f55237d699fbc011c"
+baixado_em: "2026-11-08"
+---
+
+# Resolução nº 145, de 02/12/1996
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE FORMIGA
+
+ESTADO DE MINAS GERAIS Praça São Vicente de Férrer, 140 CGC 20.914.305/0001-16 - Fone (037)322-2491 -CEP 37.290-000 - FORMIGA - MG
+
+"O Legislativo trabalhando pelo povo"
+
+RESOLUÇÃO Nº 145 DE 02 DE DEZEMBRO DE 1996.
+
+DISPOE SOBRE ELEVAÇÃO SALARIAL EM 10% SOBRE REMUNERAÇÃO DOS SERVIDORES DA CAMARA MUNICIPAL DE FORMIGA E DA OU- TRAS PROVIDENCIAS.
+
+A MESA DA CAMARA MUNICIPAL DE FORMIGA, NO USO DE SUAS ATRIBUIÇÕES LEGAIS, FAZ SABER QUE A CAMARA MUNICIPAL APROVOU E ELA PRO- MULGA A SEGUINTE
+
+RESOLUÇÃO :
+
+**Art. 10** - A PARTIR DE PRIMEIRO DE NOVEMBRO DE 1996, A REMUNERAÇÃO DOS SERVIDORES DA CAMARA MUNICIPAL DE FORMIGA SERA ELEVADA NO PERCENTUAL DE 10% (DEZ POR CENTO) SOBRE O PERCEBIDO NO MES DE OUTU- BRO DE 1996.
+
+ART. 20 - A DESPESA DECORREMTE DA APLICAÇAO DESTA RESO- LUÇAO CORRERA POR CONTA DE DOTAÇÕES ORÇAMENTARIAS DO ORÇAMENTO VIGENTE.
+
+ART. 3º - ESTA RESOLUÇAO ENTRA EM VIGOR NA DATA DE SUA PUBLICAÇÃO, RETROAGINDO SEUS EFEITOS A PRIMEIRO DE NOVEMBRO DE 1996.
+
+SALA DE REUNIOES DO LEGISLATIVO FORMIGUENSE, EM 02 DE DEZEMBRO DE 1996.
+
+SEBASTIÃO ALVÉS RANGEL - PRESIDENTE
+
+JOSE DE PAULO ALVES - VICE PRESIDENTE
+
+aaa
+
+JOSÍNO BERNARDES DE CASTRO NETO - SECRETARIO

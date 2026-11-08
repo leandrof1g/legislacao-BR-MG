@@ -1,0 +1,48 @@
+---
+titulo: "Lei Ordinária nº 2652, de 15/08/1996"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2652"
+data: "1996-08-15"
+ementa: "Autoriza concessão de auxílio para despesas de capital e dá outras providências (Ao Centro Comunitário Rural de São Pedro, no valor de R$ 1.800,00)."
+municipio: "Formiga"
+uf: "MG"
+codigo_ibge: "3126109"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.formiga.mg.leg.br/norma/3997"
+fonte_texto: "https://sapl.formiga.mg.leg.br/media/sapl/public/normajuridica/1996/3997/lei_municipal_no_2652.1996.pdf"
+sha256_fonte: "c1bb4341b88616d1f03a47b376bbc3ac349b2e891c9c7a7f8d380da71752258f"
+baixado_em: "2026-11-08"
+---
+
+# Lei Ordinária nº 2652, de 15/08/1996
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+"RREPEILTURO MUNICIPAL DE FORMIGA- ESTADO DE MINAS GERAIS RUM BARÃO DE PIUMAY —- 121- CENTRO- FORMIGA -MÕõgGS CEP 37290/000 RR 1647/84, 720/0001- Rã
+
+LEI No: g6d DE LIZ. AGUSTO. 1996
+
+“AUTORIZA CONDESSAO DE ALXELIO Prá DESPESA DE CAPITAL E Des TIRSS Pre LD Tre"
+
+“fo Crê MUNICIPAL DE FORMIGA APROVOU E Ely SANCTIONO A SEGUINTE LET
+
+ARTIGO PRIMEIRO FiCã OQ PODER EXECUTIVO AUTORIZADO À CONCEDER NO EXERCICIO CORRENTE UM GUXILIO PARA DESPESAS DE tie TAL NO SALOR DE RE 1.800,00 CC HUM MIL E OITOCENTOS REAIS) 80 CENTRO
+
+Pra Tulio Bi Dio GISDL PEDRO e
+
+EPIs BLA z Do SUTIXILIOQ Me TOMADO NO ARTLSO ANTERIOR SERA REPASGADO DE UmMã SO VEZ.PÁRE ALXILIAR COM RESCURSOS PáRG à COMCLUSGO Dê SEDE PROPRIAS DO REFERIDO CONSELHO, MAQUELE POVORDO.
+
+TE Tio : PáRO FAZER FALE AS DESPESAS DE GLH TRATA D BRTLGO PRIMEIRO, SERMO UTILIZADOS RECURSOS PRORRIOS bt
+
+ORÇEMENTO VIGENTE, CONFORME PROGRAMA ABAIXO DISCRIMINADOS
+
+Du uunaaannanuwu ua PREFEITURA MUNTCIPÁL
+
+CR 0Zenunumana nau SECRETA TURISMO E DESENV. SOC. ECONOMICO 13B148740084 aura APOLO SOS CENTROS, CONS, E ASSOC, COMUNT. GSLIL OO aum «AUXILIO PARA DESPESAS DE CAPITAL (306)
+
+impRTo q ESTA LEI, ENTRA EM VIGOR, Ná DATA DE Suá
+
+Li UEL ed CAÇEO, REVOGADO OS DISPÓGIÇÃES El CONTRARIO. GABINETE DO PREFEITO AOS 15 AGÓSTO,199P6
+
+JUÁREZ EUFRASIO DE CARVALHO Frefeito Municipal
