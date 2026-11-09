@@ -12,10 +12,10 @@ codigo_ibge: "3106200"
 id_norma: "2c907f761753b10d0117792bed780054"
 versao_texto: "atualizada (CMBH)"
 fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/7863/1999"
-fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769ed6e247019ef95bc3d5010b"
-id_documento: "2c907f769ed6e247019ef95bc3d5010b"
-sha256_fonte: "56537fb7a45bb63433255fee050598063976c60354fcc79dce8d9c0eb90c84ee"
-baixado_em: "2026-10-24"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a10b73fb01a1aba9068a030f"
+id_documento: "2c907f76a10b73fb01a1aba9068a030f"
+sha256_fonte: "5478f82b954fcec2cc19e07253fb49cdfc2dc207a21e0710d9d525ed3f624b71"
+baixado_em: "2026-11-09"
 ---
 
 # Lei Ordinária nº 7863, de 18/11/1999
@@ -826,6 +826,10 @@ IV - adicional;
 
 V - abono-família, pago nos termos e nos limites definidos por lei federal.
 
+**Art. 82-A** - As vantagens estabelecidas nesta lei cujo cálculo se baseie em percentual sobre o vencimento do nível 1 da Classe E.1 passam a ter como referência o valor do vencimento do nível 1 da Classe C.2, conforme estipulado pela Lei nº 12.004, de 4 de maio de 2026, incidindo sobre esse valor uma redução de 41% (quarenta e um por cento).
+
+**Art. 82-A** acrescentado pela Lei nº 12.165, de 4/11/2026 (Art. 1º)
+
 Seção I
 
 Das Diárias
@@ -903,6 +907,8 @@ IV - gratificação por serviço noturno;
 V - adicional de férias;
 
 VI - gratificação pela função de instrutor em programa de aperfeiçoamento profissional;
+
+Inciso VI revogado pela Lei nº 12.165, de 4/11/2026 (Art. 2º, I)
 
 VII - adicional por tempo de serviço;
 
@@ -1037,6 +1043,8 @@ Do Adicional de Férias
 Subseção VI
 
 Da Gratificação pela Função de Instrutor em Programa de Aperfeiçoamento Profissional
+
+Subseção VI revogada pela Lei nº 12.165, de 4/11/2026 (Art. 2º, II)
 
 **Art. 96** - O servidor da Câmara que exercer a função de instrutor em programa de aperfeiçoamento profissional perceberá gratificação específica.
 
@@ -2533,6 +2541,8 @@ Caput revogado pela Lei nº 10.172, de 28/4/2011 (Art. 17)
 **§ 1º** - O requerimento deverá ser protocolizado junto à diretoria da área de recursos humanos até o 10º (décimo) dia seguinte ao falecimento, instruído com a respectiva certidão de óbito e os comprovantes das despesas realizadas.
 
 **§ 2º** - A concessão do auxílio funeral impedirá a nomeação de novo ocupante para o cargo pelo prazo de 30 (trinta) dias, contado da data do falecimento.
+
+**§2º** revogado pela Lei nº 12.165, de 4/11/2026 (Art. 2º, III)
 
 **Art. 214** - O servidor estável nomeado para ocupar cargo previsto no item I.1 do Anexo I ou no Anexo II desta Lei poderá optar por receber o vencimento determinado para o cargo, excluída, no caso do primeiro, a gratificação pelo exercício de cargo de provimento em comissão de chefia.
 
