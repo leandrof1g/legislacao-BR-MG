@@ -686,7 +686,7 @@
    "sapl_manual": false
   },
   "3136306": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "João Pinheiro",
    "normas_na_fonte": 3784,
    "pasta": "joao-pinheiro",
@@ -1001,7 +1001,7 @@
    "sapl_manual": false
   },
   "3149309": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Pedro Leopoldo",
    "normas_na_fonte": 6567,
    "pasta": "pedro-leopoldo",

@@ -1,0 +1,46 @@
+---
+titulo: "Decreto Legislativo nº 319, de 06/10/2022"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "319"
+data: "2022-10-06"
+ementa: "Confere Título de Cidadão Andradense à Sra. Maria Neuza de Carvalho"
+municipio: "Andradas"
+uf: "MG"
+codigo_ibge: "3102605"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.andradas.mg.leg.br/norma/673"
+fonte_texto: "https://sapl.andradas.mg.leg.br/media/sapl/public/normajuridica/2022/673/decreto_319-2022.pdf"
+sha256_fonte: "5589e6d041c68b0c09460472d2b95a9772c278036f3b1a86e6fba5abe275b7b6"
+baixado_em: "2026-11-09"
+---
+
+# Decreto Legislativo nº 319, de 06/10/2022
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Câmara Municipal de Andradas
+
+MINAS GERAIS
+
+DECRETO LEGISLATIVO Nº 319, DE 06 DE OUTUBRO DE 2022.
+
+Confere Título de Cidadã Andradense à Sra. Maria Neuza de Carvalho.
+
+Faço saber que a Câmara Municipal de Andradas aprova e nós, membros da mesa diretora, promulgamos o seguinte Decreto Legislativo:
+
+**Art. 1.º** - Fica conferido Título de Cidadã Andradense à Sra. Maria Neuza de Carvalho.
+
+**Art. 2.º** - As despesas com a execução do presente Decreto correrão por conta das dotações orçamentárias próprias do Poder Legislativo.
+
+**Art. 3.º** - Este Decreto entra em vigor na data de sua publicação.
+
+Sala das Sessões da Câmara Municipal de Andradas, 06 de OUTUBRO de 2022.
+
+Presidente
+
+MA MY O” A 4 AP” E PARLO LAR MOREIRA ADILSON CA “Bos SaNtOS
+
+Vice-Presidente Secretário
+
+Rua Leonardo Alves dos Santos, 315 — Jardim Bela Vista — Andradas, MG. — CEP 37795-000 CNPJ nº 07.794.444/0001-95 Fone (35) 3731-1023 /3731-6364 — Site: www.andradas.mg.leg.br

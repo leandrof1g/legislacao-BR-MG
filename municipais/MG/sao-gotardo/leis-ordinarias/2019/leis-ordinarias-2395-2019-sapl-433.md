@@ -1,0 +1,350 @@
+---
+titulo: "Lei Ordinária nº 2395, de 20/12/2019"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2395"
+data: "2019-12-20"
+ementa: "DISPOE SOBRE A AUTORIZAÇÃO AO PODER EXECUTIVO MUNICIPAL A SUPLEMENTAR DOTAÇÕES ORÇAMENTÁRIAS COM SALDOS INSUFICIENTES NA LEI DO ORÇAMENTO ANUAL EM VIGOR E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "São Gotardo"
+uf: "MG"
+codigo_ibge: "3162104"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.saogotardo.mg.leg.br/norma/433"
+fonte_texto: "https://sapl.saogotardo.mg.leg.br/media/sapl/public/normajuridica/2019/433/lei_2395_2019.pdf"
+sha256_fonte: "267a9a94443f9cb1a34e87d580d6e9be52b461d4bf3e06f8a60db3fbb677a5ab"
+baixado_em: "2026-11-09"
+---
+
+# Lei Ordinária nº 2395, de 20/12/2019
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Do 2 o PREFEITURA MUNICIPAL DE SÃO GOTARDO ua CNPJ: 18.602.037/0001-55 — Insc. Est. Isento
+
+São Gotardo — Minas Gerais
+
+LEI Nº.2395 de 26 de dezembro de 2019
+
+“DISPÕE SOBRE A AUTORIZAÇÃO AO PODER EXECUTIVO MUNICIPAL A SUPLEMENTAR DOTAÇÕES ORÇAMENTÁRIAS COM SALDOS INSUFICIENTES NA LEI DO ORÇAMENTO ANUAL EM VIGOR E DA OUTRAS PROVIDENCIAS.”
+
+O Povo do Município de São Gotardo, por intermédio dos seus representartes
+
+aprovol, e eu, sanciono a seguinte Lei:
+
+**Art. 1º.** Fica o Poder Executivo Municipal autorizado a abrir crédito adicional suplementar
+
+O) na Lei Orçamentária Anual em vigor, Lei nº 2.322 de 26/12/2018 no valor equivalente a R$3.238.000,00 (Três milhões, duzentos e trinta e oito mil reais) para reforçar as seguintes dotações:
+
+DOTAÇÃO ORÇAMENTÁRIA | PROJETO IATIVIDADE FONTE 0 VALOR 0425 - 021201 080110 2.0361 319013 000000 Manutenção do CREAS | - 010000 0000 0000 Cr 0433 - 021201 080110 2.0393 319013 3 000000 Serviços de Conviv e Fort de Vinculos 01000000000000 0442 - 021201 080110 2.0350 319011 000000 Implantação Manut CRAS e PAIF 01002900290029 , E 0609 - 021002 100112 2.0368 319011 000000 Manutenção do ! CAPS — 010049 00490049 “2006 0625 - 021002 100112 2. 0252 319013 000000 Manut Ativi Assist Média Alta Compl 0100020002002 3000 0634 - 021002 100112 2.0358 319004 000000 Manutenção Atividades Fisioterapia 01004900490049 500 0853 - 021004 100112 2.0183 319011 000000 \* Manutenção Atividades Farm Verde 0% 21 ooce 0020002 806 105 1- 021301 2701 14 2.0187 319013 000000 Remuneração Pessoa! do Espone 1 0000 0000 | ooco 090 1182 - 021002 1001 12 2.0249 319004 000000 “Manutenção do Laboratório — 9100490040 0049. 40.00 1189 - 021002 100112 21 0422 319004 000000 Manutenção Hospitai Pronto Atendim 01 0002 0002 0002 | 230.00: 0. 021003 100112 2.0257 319004 € 000000 \* Manutenção Atividades Vi Vigilância — 01000200020002 | 4.00 1283 - 020302 120108 2.0433 319013 000000 Programa Desenvolv Ensino Especial : 01 0001 00010001 500 0041 - 020201 040114 2.0116 319011 000000 Rem Pessoal Secretaria ADM 01000000000000 40000 0096 - 020501 040114 2. 0188 319004 000000 Remuneração Pessoal Secret Obras 01 0000 0000 0000 | 4000 0237 - 020701 080114 2.0220 319011 000000 “ Remu Pessoal Sec Mun Assist Social 01000000000000 500 0314 - 020801 1201142. 0232 319004 000000 Remuneração Pessoal FUNDEB Mag 01000100010001 15000 0315 - 020801 120114 2.0232 319011 000000 Remuneração Pessoal FUNDEB Mag 01000100010001 . esom 0316 - 020801 1201 14 2.0232 319013 000000 Remuneração Pessoal FUNDEB Mag , 01 0001 00010001 008. 0320 - 020801 120114 2.0233 319011 000000 Remuneração Pessoal FUNDEB Dem 01000100010001 tosa 0330 - 020801 120114 2.0303 319004 000000 Remuneração Pessoal FUNDEB Mag ' 01 0001 0001 0001 “1000 0331 - 020801 120114 2.0303 319011 000000 Remuneração Pessoal FUNDEB Mag | 01 0001 0001 0001 58500 0332 - 020801 42011 14 2. 0303 319013 000090 Remuner ração Pessoal FUNDE Mag 01 0001 0004 0001 Co 30.00 0335 - 020801 420114 2.0304 319004 000000 Remuneração Pessoa | FUNDEB Dem o 0001 00010001 am 0336 - 020801 120114 2 0304 319011 600000 Remuneração Pessoal FUNDEB | Dem 01000100010001 Bom 0425 - 021201 1080110 2.0361 319013 000000 Manutenção CREAS “TT 01000000000000 TT sa
+
+Fá ; £.
+
+a da Y . x y PREFEITURA MUNICIPAL DE SÃO GOTARDO
+
+Ea a y CNPJ: 18.602.037/0001-55 — insc. Est. Isento agora São Gotardo — Minas Gerais =. 224201 080110 2.0361 319013 000000 Manutenção CREAS | or 0029 00290028 — O 500000 é 021207 080110 2.0393 319041 000000 Serviços de Conviv Fortal. Vinculos - 04 0000 0000 0000. 1000000 3 - 021201 080110 2.0293 319013 000000 Serviços de Conviv Fortal Vinculos 010000 cooo oo 500000 2- 021201 0801102 2.0350 319011 000000 implantação e e Mnut CRAS e PAIF 01002900290029 | — 600000 3 - 021002 1001122. 0252. 319004 000000 Manutenção Atividades Assist Média . 0% 0002 0002 0002 a 35 000.00 2 - 21003 100112 2.0257 319013 000000 Manutenção Ativ idades Vigil | Saúde 010002 9002 092 5.000 90 5 - 020204 090114 20124 319004 000000 Pagamento Aposentadorias Pensões 01 000 0000 9900 “000009 5 - 020504 040114 2 0200 319013 000000 Remuneração pessoai Setor Máquina 010 0000 0000 0000 20 990.00 2 - 220805 150114 20203 319004 000000 Remuneração Pessoa! Limpeza públi 04 0000 0000 0000 — 110.0000.00 '8 - 020206 040114 2.0130 319071 000000 Remuneração Pessoal Setor Contab 01 0000 0000 0 000) 2000000 6 - 026207 040414 2. 0132 319013 000000 Remuneração Pessoal Setor Tesoura. o 31 0000 00000000 5 000.00 c2:30\* 270114 2.0167 319013 000000 Remuneração Pessoal Setor Esporte 010000 ocooooo 40.000,00 :E- C2\*005 “00112 2.0176 349041 000000 Manutenção Atividades Secret Saúde “o1000200020002 190.000.€ - 227002 400112 2.042 319041 000000 Manutenção Hospite! Sronto Atend \* 94 9002 0c02 0002 300.000. O . osso 12 2.0257 319004 200000 Manut) Ativ Vigilância em Saúde — Or 0002 co0z oco | 60.00000 :é - 224004 100112 2 0262 319913 000000 Manut Atividades prog Assi stencia 01 0002 00020002 | o 5.000.00 “e - 02+001 100112 2.0242 319004 000000 Manut Estratégias Saúde da Familia 01 0002002002 70.000,00 024001 100112 2.0242 319013 000000 Manut Estratégias S Saúde da Familia, | 041000200020002 — 3000000] :2 - 020302 120108 20430 319011 000000 Remuneração Pessoal do EJA 01 0001 0001 0001 4000000 :3- 020302 120108 2 0430 319013 000000 \* Remuneração Pessoal do EJA 010001 00010001 o 5 000.00 :2 - 020302 120108 2 0433 319011 000000 Programa de Desenv Ensino especial 01 0001 00010001 10.000.90 33 - 020302 120108 2.0433 319013 000000 Programa de Desenv Ensino especial 01 0001 0001 000 o 15.000.00 57 - 021001 100112 2.0242 319011 000000 Manutenção Estratégias Saúde Fam Ds 0002 ooc2 0002 10.090,90 33 - 020201 120149 2 0151 339031 000000 Manut Atividades ADM Educação 04 0001 0001 0001 Ê 10.000.00 38 - 020304 120119 20151 330039 000000 Manut Atividades ADM Educação — 0400010001 0001 o 20.000.00 TOTAL. o CC R$3.238.000,00
+
+**Art. 2º.** Fica o Poder Executivo autorizado a anular parcialmente as dotações abaixo para id fazer face ao crédito adicional suplementar autorizado no art. 1º da presente Lei, no valor equivaiente a R$3.238.090,00 (Três milhões, duzentos e trinta e oito mil reais. DOTAÇÃO ORÇAMENTÁRIA PROJETO IATIVIDADE FONTE VALOR e - 220808 180105 1.0268 449061 OCO000 Aquisição | imoveis Fundo Verde 64 000000000000 700000 22 c854 980110 2.0432 339039 000000 Manut Atividades Fundo Criança Adostecente “"91000000000000 6 6.000,00 =: + 204 0801 10 1.0262 449052 000000 Aquisição Veiculos E Equipamentos “010029 0029 0029 3200000 =7 - 021002 100112 20258 339048 000000 Manutenção Atividades TED 0 0049 00490049 20.000.00 52 - 021004 100112 2.0262 339032 000000 Manutenção Atividades Programa Assist Farm “010002 0002 0002 30.000,00 25 - 021006 100125 1.0347 449052 000000 Construção Aquisição Equip. Hospital. “04 0049 0049 0049 5.000.00 +8 - 021003 100112 2.0265 319004 000000 Manutenção do Canil Municipal “010002 0002 0092 18.000.90 \*º - 020701 080119 2.0410 349004 000000. “Manutenção Consorcio Cisalp — To 91000000000000 40.000.00 9º 02002 100112 2.0422 319013 “000000. Manutenção H Hospital pronto Atendimento — o 0100491 00490049 4000090 56 - 021005 100112 20176 319013 000000 Manutenção Atividades Secretaria o 0002 0002 0002 130.000 00
+
+5 RE sr TanisS,
+
+São Gotardo — Min
+
+(0882 - 020305 130109 20370 449051 900000 0957 - 020207 280122 2.0139 46907 000000 4414 - 021006 100125 1.0340 449052 900000
+
+0569 - 020302 120114 2. 0163 319014 000000 0958 - 020207 280122 2. 0407 329021 ogocoo 4056 - 021301 270113 20168 339036 000000 Manutenção A Atividades Esporte
+
+14011 - 020701 0801 19 2. 0410 319004 000000 “Manutenção Consorcio Cisalp
+
+Manutenção Atividades FUMPAC duros Amortização IPSINIG | Construção Equicamentos Academia Saúde
+
+REMUNERAÇÃO FPESSO A
+
+“UU Ty
+
+AS
+
+A
+
+Juros Amortização Diviaa por Contrato
+
+0434 - 021201 “0801 10 2. 0393 319016 000000 Serviço de Convevencia e Fortale Vinculos.
+
+'0961 - 020207 280122 2. 0407 469071 000000 Juros Amortização Divida por contrato
+
++315 - 020701 0804102. 0501 335043 000000 Subvenção Senhora da Serra 11316 - 020701 080110 2. 0502 335043 000006 Subvenção Social São José da Bela Vista 0971 - 020301 1204 142. 0150 319011 000900 Remuneração Pessoal ADM Educação
+
+| 64 - 020204 0401 14 2. 0123 319011 000000 Rem Pessoal Setor recursos Humanos
+
+0014 - 020101 040114 2 0100 319011 000000 REMUENRAÇÃO Pessoai Gabinete
+
+10524 - 020302 1201 08 2 0161 339039 000000 Manutenção Transporte Escolar
+
+1023 - 020701 0801 19 2 0412 319004 000000 Manutenção Vigilancia Socio Assistencial
+
+0960 - 020207 280122 2.0407 329022 000000 Manutenção Obrigação Divida interna
+
+10189 - 020601 2 2001 14 2. 0207 319013 000000 Remuneração Pessoal Secretaria Agricultura 0507 - 020202 0401 16 2 01 19 319013 000990 REMUNERAÇÃO PESSOAL TRIBUTÁRIO
+
+0015 - 020101 040114 2. 2 0100 319013 000000 Remuneração Pessoal Gabinete Prefeito
+
+0424 - 021201 080110 2. 0361 319011 000000 Manutenção CREAS
+
+0856 - 020105 0401 14 2.01 13 319011 000000 Remuneração Pessoal Assessoria de imprensa “o 0000 0000 0000
+
+1278 - 020701 080110 2.0428 339036
+
+10483 - 020102 0401 14 2.0105 319011 000000 Remuneração Pessoal Secret Executiva
+
+0695 - 020503 1501 142 2.0194 319011 000000 Remuneração Pessoal | Serviços Urbanos
+
+76- 020204 09011 14 2.0124 319003 000000 10208 - 020601 200104 2. 0353 335041 000000
+
+Conferencia da Mulher
+
+Pagamento Aposentadorias e Pensoes
+
+Remuneração Pessoal da Cultura
+
+Manutenção Bombas água distritos
+
+778 - 020304 1301 142. 0170 319011 000000
+
+10270 - 020701 080110 2. 0406 335043 000000
+
+Subvenção entidades defi cientes físicos
+
+4 31 7- 020701 080110 2. 0503 335043 0 000000
+
+Assoc Moradores Guarda - ASMOG
+
+fo mon
+
+Associação de Ação Humanitária.
+
+4318 - 020701 080110 2.0504 335043 000000
+
+1322- 020701 0801 10 2. 0508 335043 00000
+
+1038 - 021301 2701 13 1.01 33 335043 000000 10097 - 020501 ( 0401 142. 01 88 319011 000000
+
+1274 - 020701 10801 10 2. 0427 339030 000000
+
+Liga Sangotardense Desportos
+
+Remuneração Pessoal Secretaria Obras
+
+Conferencia do idoso
+
+[0985 - 029909 999999 9.0999 999998 000000
+
+Reserva de Contingência
+
+qo
+
+Patrocinio Equipes da cidade em eventos esp
+
+insc. Est. Isento
+
+PREFEITURA MUNICIPAL DE SÃO GOTARDO CNPJ: 18.602.037/0001-55 —
+
+0570 - 020302 120114 2.0163 319013 000000 Educação Jovens e Adultos
+
+10299 - - 020701. 0801 3110 2.0400 319011 000000 Manutenção Atividades ACESSUAS
+
+0561 - 020302 120114 2.0155 319004 000000 Remuneração Pessoal Educação Infantil
+
+0572 - 020302 120108 2. 0046 319011 000000 Programa Desenvolvimento ensino especial
+
+Las
+
+as Gerais
+
+S4 900 0000 0000 go.cco.co o\* 0000 COCO 0000 | 4000000 c4900200020002 asocos 54 5004 CCC1 000: 5.005,00 01 9000 0000 oOCC 50900 “040000 00000000 5000000 "0100000000 0000 — 10000.X “0400000000 0000 5.000,0€ — 01000000000000 55000. “04000000000000 45.000, o DOCO 00000000 50.000. “04 0001 0001 0001. — 450000, o 0000 00000000 1300900: o 0000 0000 0000. o TOOCO.
+
+- 01 0001 0001 0001 80.000.0! o 0000 00000000 "— 20000,0: o 0000 0000 0000 550000 “Ds 9000 0000 0000 — 250000 co: 0009 00000000 | 250908: “2100009c000000 300000 E 0000 0000 0000 45.000.0 28.000,0
+
+o 000000000000 70000 “01000000000000 - — 50.000,0 010000 00000000 50.000,00 E o 0000 00000000 \* 80.000,00 “01000000000000 500000 01 0000 0000 0000 54.000.0
+
+01 0000 0000 0000 80.000. 010000 00000000 950000 “01 0000 0000 0000 80.000. “04 0000 0000 0000 76000. “010000 00000000 100006
+
+0” 0000 0000 0000 — — 30000€ “010000 OCO 0000 15000€ o 0000 0000 0000 80009 “04 0001 0001 0001 5.000
+
+\* 01 0029 0029 0029. 5.000.€ = o 0001 00010001 100004 E 0001 0001 0001 50006
+
+“204 080140 2 0361 339030 ooocco
+
+«120505 270113 1. 0131 339031 000000
+
+“210113 1 0131 339031 000000
+
+=. Sé
+
+- 020102 0401 14 2. 0105: 319013 000000 Remuneração Pessoal Secretaria ADM
+
+O- 020209 3 060107 2. 2. 0146 339030 o00000
+
+PREFEITURA MUNICIPAL DE SÃO GOTARDO
+
+CNPJ: 18.602.037/0001-55 — São Gotardo — Minas Gerais
+
+) Manutenção ( CREAS
+
+Promoção Torneios Campeonetos Olimpiadas
+
+o 0000 0000 0000
+
+Promoção Torneios Campeonatos Olimpiadas
+
+2- c20301 1201 14 2. 01 50 319013 000000 Remuneração Pessoal S Sedcretaria Educação
+
+o 0001 0001 0001
+
+Manutenção Convenio Policia Ambiental o 0000 0000 0000
+
+3 3 - 020209 060107 20141 339030 000000
+
+o 0000 0000 0000.
+
+Manutenção Convenio polícia Rodoviária
+
+3- 021301 270113 2.0168 335043 000000 :7 - 020504 040119 20190 339039 000000 1 8 - 020501 040114 20188 319013 000000 \* - 024261 080110 2.0350 349004 000000 \* - 220208 080107 2.0140 319013 000000
+
+- G20701 c8o1 10 2 0510 335043 000000
+
+3E - S2070% 0801 10 20 0400 319004 ooogoo
+
+- C21CC2 19011 2 2 0258 oocc 3 9004 - 021005 100112 20176 339032 co0000
+
+35 asa N
+
+lo vt
+
+FE)
+
+01 G8B0119 20413 335043 000006 - 5 - 220701 080110 20511 335043 000000
+
+em Go4 v
+
+020207 280122 2 0138 329022 000000
+
+- 020203 040144 2.0309 319013 000000.
+
+x2 LOS]
+
+4» a
+
+Manutenção Atividades Esporte
+
+“01 0000 0000 0009
+
+o 0000 ) 0000 0000 “o “0000 0000 0000
+
+Manutenção Atividades Secretariá a de Obras
+
+Remuneração Pessoal Secretaria de Obras
+
+Implantação Manutenção CRAS
+
+Remuneração Convenio Policia Civil
+
+Associação E Estudantes Patos de Minas 01 0000 0000 000
+
+“oq 0029 0029 0029 o 01 0000 0000 0000
+
+E 0000 0000 09000
+
+“040000 0000 0000
+
+o 0000 0000 0000
+
+Insc. Est. Isento
+
+6.000.00 35.000.00 5.000.009
+
+20.900.00 2” 0000. 00 29.000.00 “2500000 “2900009 20. 000.90 5.000.00 10.000.00 95.000.00
+
+Manutenção Do Acessuas
+
+o 0002 0002 0002 “04 0002 000201 0002. 01 0000 0000 0009
+
+“04 0000 0000 0000 01 0000 0000 0000
+
+Manutenção Programa TED. Manutenção Atividades Secretaria de Saúde Subvenção Banco do Leite Dona oa Lar do Idoso SSPV
+
+Jur ros Amortização E Divida INSS
+
+“no 0000 0000 0000
+
+Remuneração Pessoal Compras e Licitação
+
+“ C20204 040114 2.0123 319013 000000
+
+1, 6:
+
+“Remuneração | Pessoal Recursos Humanos “0 1 0000 0000 0000
+
+5 - 021 201 080110 2 0359 319011 000000 55 - 020207 280122 2.01 39 329021 cocooo
+
+53. -
+
+|
+
+020207 280122 2.0138 329022 000060 . - 029240 040119 2 01449 449052 009000
+
+“ ee
+
+9207 280122 2.01 39 320021 200000 Juros Amortização IPSEMG
+
+- 021207 C80110 2. 0359 319013 990000 Manutenção K ISD Bolsa Familia
+
+o a
+
+«an 19)
+
+[85] [65]
+
+TOTAL
+
+- 020210 0401 1 9 2. 0149 449052 000000 Manutenção Atividades Setor Logística.
+
+- 620302 120714 2.0155 319013 000000 Remuneração Pessoal Educação Infantil
+
+Manutenção » IGD Bolsa Família
+
+Juros Amortização IPSEMG
+
+o 0000 0009 0006 o 0900 0000 o0co
+
+Juros Amortização Divida INSS
+
+Manutenção Atividades Setor Logistica —
+
+o “0000 0000 0900
+
+o 0001 0001 0001
+
+Art. 3º, Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de São Gotardo, 20 de dezembro de 2019.
+
+Seiji Eduardo Sekita Prefeito Municipal
+
+01 0000 0000 0000
+
+o | 0000 0000 0000 — “04 0000 0000 0000 01 0900 0000 0000
+
+Or 0000 90000 0000
+
+5.000.00 “180 000.00 120.000,00 20 000.00 80 000.00 “500000
+
+40.000,00
+
+30.000.00 10.000.00
+
+5 000.00 10 990.00 1500000 10.000.00 10.000.00 20 000.00
+
+R$3.238.000,00
+
+10.000,00
+
+30.00.00
