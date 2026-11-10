@@ -12,10 +12,10 @@ codigo_ibge: "3106200"
 id_norma: "2c907f765e2e80f6015e573f3f2c007d"
 versao_texto: "atualizada (CMBH)"
 fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/16676/2017"
-fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7694a4de700194d08261ec028a"
-id_documento: "2c907f7694a4de700194d08261ec028a"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a10b73fb01a1a615d9420308"
+id_documento: "2c907f76a10b73fb01a1a615d9420308"
 sha256_fonte: "88e7424e2cb6bf7eb369e1471eb92851b76222c615d3a941b8d388db3f159173"
-baixado_em: "2026-10-23"
+baixado_em: "2026-11-10"
 ---
 
 # Decreto nº 16676/2017
@@ -270,7 +270,7 @@ Prefeito de Belo Horizonte
 
 ## Anexos e outros documentos
 
-- [dec16676-anexos-atual.doc](https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a10b73fb01a14450396b0108)
+- [dec16676-anexos-atual.doc](https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a10b73fb01a1aba983e60315)
 
 ## Observações da CMBH
 
