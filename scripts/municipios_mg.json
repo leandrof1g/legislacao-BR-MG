@@ -47,7 +47,7 @@
    "sapl_manual": false
   },
   "3102605": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Andradas",
    "normas_na_fonte": 1001,
    "pasta": "andradas",
@@ -83,7 +83,7 @@
    "sapl_manual": false
   },
   "3104205": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Arcos",
    "normas_na_fonte": 4838,
    "pasta": "arcos",
@@ -470,7 +470,7 @@
    "sapl_manual": false
   },
   "3126109": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Formiga",
    "normas_na_fonte": 6565,
    "pasta": "formiga",
@@ -767,7 +767,7 @@
    "sapl_manual": false
   },
   "3139003": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Machado",
    "normas_na_fonte": 0,
    "pasta": "machado",
@@ -812,7 +812,7 @@
    "sapl_manual": false
   },
   "3141108": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Matozinhos",
    "normas_na_fonte": 3,
    "pasta": "matozinhos",
@@ -1190,7 +1190,7 @@
    "sapl_manual": false
   },
   "3161106": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "São Francisco",
    "normas_na_fonte": 3159,
    "pasta": "sao-francisco",

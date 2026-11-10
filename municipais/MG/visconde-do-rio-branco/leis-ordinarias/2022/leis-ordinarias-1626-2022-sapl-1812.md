@@ -1,0 +1,132 @@
+---
+titulo: "Lei Ordinária nº 1626, de 20/12/2022"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1626"
+data: "2022-12-20"
+ementa: "AUTORIZA A ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR AO ORÇAMENTO DO MUNICÍPIO PARA O EXERCÍCIO DE 2022, COM FINALIDADE, PONTUAL E ESPECÍFICA, DE ENCAMPAR O CUSTEIO DE DESPESAS COM VENCIMENTOS E DÉCIMO TERCEIRO SALÁRIO DE SERVIDORES COM LOTAÇÃO NAS SECRETARIAS DE SAÚDE E EDUCAÇÃO E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Visconde do Rio Branco"
+uf: "MG"
+codigo_ibge: "3172004"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.viscondedoriobranco.mg.leg.br/norma/1812"
+fonte_texto: "https://sapl.viscondedoriobranco.mg.leg.br/media/sapl/public/normajuridica/2022/1812/lei_no_1.626_2022-13o_secretaria_de_saude.pdf"
+sha256_fonte: "1b15544a5534e97b18de5bb22d39a5f790bc20461cd6786fe0433b756ee41443"
+baixado_em: "2026-11-10"
+---
+
+# Lei Ordinária nº 1626, de 20/12/2022
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Prefeitura Municipal de Visconde do Rio Branco —- MG
+
+Lei nº1.626 de 03 de agosto de 2.022.
+
+“Autoriza a abertura de crédito adcional suplementar ao orçamento do Município para o exercício de 2.022, com a finalidade, pontual e específica, de encampar o custeio de despesas com vencimentos e décimo terceiro salário de servidores com lotação nas Secretarias de Saúde e Educação e dá outras providênciase dá outras providências”.
+
+O povo do Município de Visconde de Rio Branco, através de seus representantes, os vereadores, aprovou, e eu, Luiz Fábio Antonucci Filho, o Prefeito Municipal em exercício, no uso de uma das competências estabelecidas na Lei Orgânica Municipal, sanciono a seguinte Lei:
+
+**Art. 1º.** Fica o Poder Executivo Municipal autorizado a abrir Crédito Adicional Suplementar ao Orçamento do Município, com a finalidade, pontual e específica, de encampar o custeio de despesas com vencimentos e décimo terceiro salário de servidores com lotação nas Secretarias de Saúde e Educação, nos termos do Art. 40 c/c inciso Ido Art. 41 c/c Art. 42 c/c inciso III do Art. 43, ambos da Lei Federal n.º 4.320/1.964, para o exercício de 2022, no valor de R$ 15.500.673,45 (quinze milhões e quinhentos mil e seiscentos e setenta e três reais e quarenta e cinco centavos), distribuídos nas seguintes dotações orçamentária.
+
+**Art. 2º.** O presente crédito obedecerá a seguinte dotação orçamentária:
+
+Valor a
+
+Ficha | Detalhamento da dotação suplementar
+
+414 02.008.001 10 301 0011 2.099 3.1.90.04.00
+
+Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 17.882,55 Fonte | 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE 1.642.509,75 170 - OUTROS RECURSOS NÃO VINCULADOS 268.230,01
+
+492 02.008.001 10 305 0014 2.300 3.1.90.04.00
+
+Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 37.457,06 560 02.009.001 12 362 0019 2.251 3.1.90.04.00
+
+Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 97.529,32 Fonte |101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 16.488,34 594 02.009.002 12 361 0017 2.302 3.1.90.04.00
+
+Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 1.432.607,09 Fonte | 119 - TRANSFERENCIAS DO FUNDEB - 30% 23.879,85
+
+Fonte |170 - OUTROS RECURSOS NÃO VINCULADOS 1.180,65
+
+610 02.009.002 12 365 0017 2.188 3.1.90.04.00
+
+Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 64.762,88
+
+647 02.009.003 12 361 0017 2.137 3.1.90.04.00 Fonte | 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 34.334,96 364 02.008.002 10.122.0001 2.092.3.1.90.13.00 Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 10.423,75 Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 29.634,65 373 02.008.001 10.122 0001 2.093 3.1.90.13.00 Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 241.612,13 398 02.008.002 10 122 0001 2.257 3.1.90.13.00 Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 110.902,93 416 02.008.001 10 301 0011 2.099 3.1.90.13.00 Fonte |102 - RECEITAS DE IMPOSTOS - SAÚDE 3.932,37 Fonte | 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE 362.663,25 Fonte |170 - OUTROS RECURSOS NÃO VINCULADOS 63.629,32 494 02.008.001 10 305 0014 2.300 3.1.90.13.00 Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 9.509,23 519 02.009.001 12 122 0001 2.129 3.1.90.13.00 Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 10.589,41 Fonte |101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 74.056,03 Fonte | 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 1.683,63 562 02.009.001 12 362 0019 2.251 3.1.90.13.00 Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 21.245,58 Fonte | 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 3.626,91 596 02.009.002 12 361 0017 2.302 3.1.90.13.00 Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 406.890,03 Fonte |119 - TRANSFERENCIAS DO FUNDEB - 30% 5.512,07 612 02.009.002 12 365 0017 2.188 3.1.90.13.00 Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 14.083,25 363 02.008.002 10.122.0001 2.092.3.1.90.11.00 Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 47.762,50 Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 131.766,61 397 02.008.002 10.122 0001 2.257 3.1.90.11.00 Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 15.007,39 415 02.008.001 10 301 0011 2.099 3.1.90.11.00 Fonte 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE 1.003.574,72 493 02.008.001 10 305 0014 2.300 3.1.90.11.00
+
+Prefeitura Municipal de Visconde do Rio Branco —- MG
+
+Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 431.357,91 518 02.009.001 12 122 0001 2.129 3.1.90.11.00
+
+Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 33.628,27
+
+Fonte |101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 42.659,27
+
+Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 78.623,70
+
+Fonte | 119 - TRANSFERENCIAS DO FUNDEB - 30% 60.369,50 561 02.009.001 12 362 0019 2.251 3.1.90.11.00
+
+Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 68.214,55 595 02.009.002 12 361 0017 2.302 3.1.90.11.00
+
+Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 2.793.658,63 611 02.009.002 12 365 0017 2.188 3.1.90.11.00
+
+Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 2.356.693,60 376 02.008.001 10 122 0001 2.093 3.1.91.13.00
+
+Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 774.619,59 419 02.008.001 10 301 0011 2.099 3.1.91.13.00
+
+Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 173.054,56 496 02.008.001 10 305 0014 2.300 3.1.91.13.00
+
+Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 102.646,88 522 02.009.001 12 122 0001 2.129 3.1.91.13.00
+
+Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 15.795,90
+
+Fonte |101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 8.493,88
+
+Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 19.681,56 Fonte | 119 - TRANSFERENCIAS DO FUNDEB - 30% 12.225,36 565 02.009.001 12 362 0019 2.251 3.1.91.13.00
+
+Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 55.769,07 599 02.009.002 12 361 0017 2.302 3.1.91.13.00
+
+Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 729.015,37
+
+Fonte | 119 - TRANSFERENCIAS DO FUNDEB - 30% 82.060,97 615 02.009.002 12 365 0017 2.188 3.1.91.13.00
+
+Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 550.786,69 370 02.008.002 10 122 0001 2.092 3.3.90.46.00
+
+Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 1.300,00
+
+Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 6.542,22 384 02.008.001 10 122 0001 2.093 3.3.90.46.00
+
+Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 168.537,59 406 02.008.002 10 122 0001 2.257 3.3.90.46.00
+
+Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 33.224,27 426 02.008.001 10 301 0011 2.099 3.3.90.46.00
+
+Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 307.065,30
+
+Fonte | 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE 28.692,23
+
+aq
+
+442 02.008.001 10 302 0012 2,114 3.3.90.46.00 Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 11.517,30 467 02.008.001 10 303 0013 2.121 3.3.90.46.00 Fonte | 102 - RECEITAS DE IMPOSTOS - SAÚDE 5.466,67 516 02.009.001 12 122 0001 2.127 3.3.90.46.00 Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 1.400,00 532 02.009.001 12 122 0001 2.129 3.3.90.46.00 Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 6.593,91 Fonte | 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 854,42 Fonte |118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 70% 10.416,67 Fonte | 119 - TRANSFERENCIAS DO FUNDEB - 30% 1.066,67 560 02.009.001 12 362 0019 2.251 3.1.90.04.00 Fonte | 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 91.027,35 Fonte | 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 15.389,09 605 02.009.002 12 361 0017 2.302 3.3.90.46.00 Fonte | 119 - TRANSFERENCIAS DO FUNDEB - 30% 376.662,33 621 02.009.002 12 365 0017 2.188 3.3.90.46.00 210.048,55 Fonte | 119 - TRANSFERENCIAS DO FUNDEB - 30% 659 02.009.003 12 361 0017 2.137 3.3.90.46.00 9.307,90 Fonte | 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 399 02.008.002 10 122 0001 2.257 3.1.90.16.00 Fonte 102 - RECEITAS DE IMPOSTOS - SAÚDE 24.190,69 417 02.008.001 10 301 0011 2.099 3.1.90.16.00 Fonte 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE 137.243,09 458 02.008.001 10 303 0013 2.121 3.1.90.16.00 Fonte 102 - RECEITAS DE IMPOSTOS - SAÚDE 8.659,52 485 02.008.001 10 305 0014 2.269 3.1.90.16.00 Fonte 102 - RECEITAS DE IMPOSTOS - SAÚDE 12.068,03 495 02.008.001 10 305 0014 2.300 3.1.90.16.00 Fonte 102 - RECEITAS DE IMPOSTOS - SAÚDE 25.304,78 520 02.009.001 12 122 0001 2.129 3.1.90.16.00 Fonte 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 395,23 597 02.009.002 12 361 0017 2.302 3.1.90.16.00 Fonte 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 137.834,97 613 02.009.002 12 365 0017 2.188 3.1.90.16.00 Fonte 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 50.160,78
+
+Parágrafo Único. O valor deste crédito suplementar não será considerado pelo limite disposto no inciso I do art. 5º da Lei Orçamentária nº 1.602/2021.
+
+**Art. 3º** Fica o Poder Executivo autorizado a abrir crédito suplementar às respectivas dotações, com a finalidade, pontual e específica, de encampar o custeio de despesas com vencimentos e décimo terceiro salário de servidores com lotação nas Secretarias de Saúde e Educação, até o limite dos seus valores, podendo utilizar as fontes de recursos disponíveis no exercício de 2.022.
+
+**Art.4º** Constituem recursos para ocorrer com as despesas previstas no artigo 2º a
+
+anulação parcial das seguintes dotações do orçamento do Município.
+
+FICHA | FONTE DESCRIÇÃO VALOE
+
+1 100 |02.001.000 04 122 0001 2.003 3.1.90.04.00 1.214,16 396 102 |02.008.002 10 122 0001 2.257 3.1.90.04.00 78.714,90 471 102 |02.008.001 10.304 0014 2.122 3.1.90.04.00 24.812,24 482 102 |02.008.001 10.305 0014 2.269 3.1.90.04.00 203.326,96 433 102 |02.008.001 10.302 0012 2.114 3.1.90.13.00 215.928,31 457 102 . | 02.008.001 10.303 0013 2.121 3.1.90.13.00 125.146,37 473 102 |02.008.001 10.304 0014 2.122 3.1.90.13.00 9.047,12 484 102 | 02.008.001 10.305 0014 2.269 3.1.90.13.00 64.641,95 432 102 |02.008.001 10 302 0012 2.114 3.1.90.11.00 1.411.341,15 456 102 |02.008.001 10 303 0013 2.121 3.1.90.11.00 327.955,61 472 102 |02.008.001 10 304 0014 2.122 3.1.90.11.00 52.446,92 483 102 | 02.008.001 10 305 0014 2.269 3.1.90.11.00 121.867,15 436 102 |02.008.001 10 302 0012 2.114 3.1.91.13.00 389.086,37 460 102 |02.008.001 10 303 0013 2.121 3.1.91.13.00 279.813,24 475 102 |02.008.001 10 304 0014 2.122 3.1.91.13.00 14.000,00 487 102 |02.008.001 10 305 0014 2.269 3.1.91.13.00 32.246,67 595 119 |02.009.002 12 361 0017 2.302 3.1.90.11.00 43.064,42 700 119 |02.009.003 12 365 0017 2.154 3.3.90.46.00 320.000,00 727 119 |02.009.003 12 367 1000 2.167 3.3.90.46.00 4.603,02 640 119 | 02.009.002 12 367 1000 2.303 3.3.90.46.00 6.000,00 705 119 | 02.009.003 12 365 0017 2.165 3.3.50.43.00 180.000,00 714 119 | 02.009.003 12 367 1000 2.166 3.3.50.41.00 40.000,00 715 119 |02.009.003 12 367 1000 2.166 3.3.50.43.00 242.900,00 708 119 | 02.009.003 12 365 0018 2.163 3.3.90.39.00 100.000,00 607 119 | 02.009.002 12 361 0017 2.302 4.4.90.52.00 50.554,23
+
+Parágrafo Único. Ainda constituem recursos para suplementar as dotações elencadas no art. 2º a utilização de recursos provenientes do excesso de arrecadação apurado no exercício e o superávit do exercício atual nas fontes 118, 119 e 159 e o superávit apurado no exercício anterior nas fontes 118, 119 e 159, nos termos do art. 43 da Lei nº 4.320/64.
+
+**Art. 5º.** Esta Lei entra em vigor a partir da data de sua publicação, retroagindo seus efeitos em data de 1º de julho de 2.022, visando o necessário enquadramento do art. 74, 83º da L.C. n.º 036/2014, revogadas, em consequencia, as disposições em contrário.
+
+P.R.C.
+
+Do Paço Municipal de Visconde de pr-Branco/MO, em 03 de agosto de 2.022.
+
+Luiz Fábio Antonucci Filho Prefeito Municipal

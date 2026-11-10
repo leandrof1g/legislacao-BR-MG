@@ -4,7 +4,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 
 | Município | População | Fonte automática | Normas no acervo | Carga inicial |
 | --- | ---: | --- | ---: | :---: |
-| Belo Horizonte | 2.315.560 | **sem fonte automática** | 35180 | — |
+| Belo Horizonte | 2.315.560 | **sem fonte automática** | 35182 | — |
 | Uberlândia | 713.224 | **sem fonte automática** | 0 | — |
 | Contagem | 621.863 | SAPL ([sapl.contagem.mg.leg.br](https://sapl.contagem.mg.leg.br)) | 3637 | completa |
 | Juiz de Fora | 540.756 | **sem fonte automática** | 0 | — |
@@ -58,7 +58,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Ouro Preto | 74.821 | **sem fonte automática** | 0 | — |
 | São Sebastião do Paraíso | 71.796 | **sem fonte automática** | 0 | — |
 | Janaúba | 70.699 | **sem fonte automática** | 0 | — |
-| Formiga | 68.248 | SAPL ([sapl.formiga.mg.leg.br](https://sapl.formiga.mg.leg.br)) | 5460 | em andamento |
+| Formiga | 68.248 | SAPL ([sapl.formiga.mg.leg.br](https://sapl.formiga.mg.leg.br)) | 6320 | completa |
 | Cataguases | 66.261 | SAPL ([sapl.cataguases.mg.leg.br](https://sapl.cataguases.mg.leg.br)) | 312 | completa |
 | Januária | 65.150 | SAPL ([sapl.januaria.mg.leg.br](https://sapl.januaria.mg.leg.br)) | 3649 | completa |
 | Pedro Leopoldo | 62.580 | SAPL ([sapl.pedroleopoldo.mg.leg.br](https://sapl.pedroleopoldo.mg.leg.br)) | 6340 | completa |
@@ -68,11 +68,11 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Pirapora | 55.606 | SAPL ([sapl.pirapora.mg.leg.br](https://sapl.pirapora.mg.leg.br)) | 0 | completa |
 | Três Pontas | 55.255 | **sem fonte automática** | 0 | — |
 | Extrema | 53.482 | **sem fonte automática** | 0 | — |
-| Itabirito | 53.365 | SAPL ([sapl.itabirito.mg.leg.br](https://sapl.itabirito.mg.leg.br)) | 4090 | em andamento |
+| Itabirito | 53.365 | SAPL ([sapl.itabirito.mg.leg.br](https://sapl.itabirito.mg.leg.br)) | 4450 | em andamento |
 | Congonhas | 52.890 | SAPL ([sapl.congonhas.mg.leg.br](https://sapl.congonhas.mg.leg.br)) | 9158 | completa |
-| São Francisco | 52.762 | SAPL ([sapl.saofrancisco.mg.leg.br](https://sapl.saofrancisco.mg.leg.br)) | 2833 | em andamento |
+| São Francisco | 52.762 | SAPL ([sapl.saofrancisco.mg.leg.br](https://sapl.saofrancisco.mg.leg.br)) | 2996 | completa |
 | Campo Belo | 52.277 | SAPL ([sapl.campobelo.mg.leg.br](https://sapl.campobelo.mg.leg.br)) | 0 | completa |
-| Bom Despacho | 51.737 | SAPL ([sapl.bomdespacho.mg.leg.br](https://sapl.bomdespacho.mg.leg.br)) | 1998 | em andamento |
+| Bom Despacho | 51.737 | SAPL ([sapl.bomdespacho.mg.leg.br](https://sapl.bomdespacho.mg.leg.br)) | 2049 | em andamento |
 | Lagoa da Prata | 51.412 | SAPL ([sapl.lagoadaprata.mg.leg.br](https://sapl.lagoadaprata.mg.leg.br)) | 5566 | completa |
 | Leopoldina | 51.145 | **sem fonte automática** | 0 | — |
 | Guaxupé | 50.911 | **sem fonte automática** | 0 | — |
@@ -84,27 +84,27 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Santana do Paraíso | 44.800 | SAPL ([sapl.santanadoparaiso.mg.leg.br](https://sapl.santanadoparaiso.mg.leg.br)) | 1868 | completa |
 | São Lourenço | 44.798 | **sem fonte automática** | 1 | — |
 | Santos Dumont | 42.406 | **sem fonte automática** | 0 | — |
-| Arcos | 41.416 | SAPL ([sapl.arcos.mg.leg.br](https://sapl.arcos.mg.leg.br)) | 4347 | em andamento |
-| São Gotardo | 40.910 | SAPL ([sapl.saogotardo.mg.leg.br](https://sapl.saogotardo.mg.leg.br)) | 942 | em andamento |
+| Arcos | 41.416 | SAPL ([sapl.arcos.mg.leg.br](https://sapl.arcos.mg.leg.br)) | 4659 | completa |
+| São Gotardo | 40.910 | SAPL ([sapl.saogotardo.mg.leg.br](https://sapl.saogotardo.mg.leg.br)) | 1527 | em andamento |
 | Santa Rita do Sapucaí | 40.635 | **sem fonte automática** | 0 | — |
-| Andradas | 40.553 | SAPL ([sapl.andradas.mg.leg.br](https://sapl.andradas.mg.leg.br)) | 614 | em andamento |
+| Andradas | 40.553 | SAPL ([sapl.andradas.mg.leg.br](https://sapl.andradas.mg.leg.br)) | 945 | completa |
 | Almenara | 40.364 | **sem fonte automática** | 0 | — |
 | Salinas | 40.178 | **sem fonte automática** | 0 | — |
 | Boa Esperança | 39.848 | **sem fonte automática** | 0 | — |
 | Capelinha | 39.626 | **sem fonte automática** | 0 | — |
 | Oliveira | 39.262 | **sem fonte automática** | 0 | — |
-| Visconde do Rio Branco | 39.160 | SAPL ([sapl.viscondedoriobranco.mg.leg.br](https://sapl.viscondedoriobranco.mg.leg.br)) | 1 | em andamento |
+| Visconde do Rio Branco | 39.160 | SAPL ([sapl.viscondedoriobranco.mg.leg.br](https://sapl.viscondedoriobranco.mg.leg.br)) | 583 | em andamento |
 | Brumadinho | 38.915 | **sem fonte automática** | 0 | — |
 | Caeté | 38.776 | **sem fonte automática** | 0 | — |
 | Ouro Branco | 38.724 | **sem fonte automática** | 0 | — |
-| Iturama | 38.295 | SAPL ([sapl.iturama.mg.leg.br](https://sapl.iturama.mg.leg.br)) | 0 | em andamento |
+| Iturama | 38.295 | SAPL ([sapl.iturama.mg.leg.br](https://sapl.iturama.mg.leg.br)) | 2212 | em andamento |
 | Mateus Leme | 37.841 | **sem fonte automática** | 0 | — |
-| Machado | 37.684 | SAPL ([sapl.machado.mg.leg.br](https://sapl.machado.mg.leg.br)) | 0 | em andamento |
+| Machado | 37.684 | SAPL ([sapl.machado.mg.leg.br](https://sapl.machado.mg.leg.br)) | 0 | completa |
 | Jaíba | 37.660 | **sem fonte automática** | 0 | — |
-| Matozinhos | 37.618 | SAPL ([sapl.matozinhos.mg.leg.br](https://sapl.matozinhos.mg.leg.br)) | 1 | em andamento |
+| Matozinhos | 37.618 | SAPL ([sapl.matozinhos.mg.leg.br](https://sapl.matozinhos.mg.leg.br)) | 3 | completa |
 | Porteirinha | 37.438 | **sem fonte automática** | 0 | — |
-| Sarzedo | 36.844 | SAPL ([sapl.sarzedo.mg.leg.br](https://sapl.sarzedo.mg.leg.br)) | 0 | em andamento |
-| Piumhi | 36.062 | SAPL ([sapl.piumhi.mg.leg.br](https://sapl.piumhi.mg.leg.br)) | 0 | em andamento |
+| Sarzedo | 36.844 | SAPL ([sapl.sarzedo.mg.leg.br](https://sapl.sarzedo.mg.leg.br)) | 53 | em andamento |
+| Piumhi | 36.062 | SAPL ([sapl.piumhi.mg.leg.br](https://sapl.piumhi.mg.leg.br)) | 128 | em andamento |
 | Nanuque | 35.038 | **sem fonte automática** | 0 | — |
 | São Joaquim de Bicas | 34.348 | **sem fonte automática** | 0 | — |
 | Araçuaí | 34.297 | SAPL ([sapl.aracuai.mg.leg.br](https://sapl.aracuai.mg.leg.br)) | 0 | em andamento |

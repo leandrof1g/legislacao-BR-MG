@@ -1,0 +1,42 @@
+---
+titulo: "Lei Ordinária nº 5172, de 05/09/2023"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "5172"
+data: "2023-09-05"
+ementa: "AUTORIZA A ABERTURA DE CREDITO ESPECIAL POR SUPERAVIT FINANCEIRO NO ORÇAMENTO VIGENTE E CONTÉM OUTRAS PROVIDÊNCIAS"
+municipio: "Iturama"
+uf: "MG"
+codigo_ibge: "3134400"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.iturama.mg.leg.br/norma/8630"
+fonte_texto: "https://sapl.iturama.mg.leg.br/media/sapl/public/normajuridica/2023/8630/lei_5172_2023_0001.pdf"
+sha256_fonte: "446267d51b2048683a3749c8dea646bcd549ac5310443e85adb72b73874cdb4e"
+baixado_em: "2026-11-10"
+---
+
+# Lei Ordinária nº 5172, de 05/09/2023
+
+Pfteptut la 9,0. 1,E Prefeitura de ITU RAMA ITURAMA/MG TRABALHO QUE GERA RESULTADO Adm: 2021/2024
+
+LEI N° 5.172, DE 05 DE SETEMBRO DE 2.023.
+
+"AUTORIZA A ABERTURA DE CREDITO ESPECIAL POR SUPERAVIT FINANCEIRO NO ORÇAMENTO VIGENTE E CONTÉM OUTRAS PROVIDÊNCIAS."
+
+0 Prefeito do Município de Iturama, Estado de Minas Gerais, no uso de suas atribuições, com fundamento no inciso I, do artigo 69, da Lei Orgânica do Município, faz saber que a Câmara Municipal aprovou e ele, sanciona a seguinte lei:
+
+**Art.1°** Fica autorizada a abertura de crédito especial no orçamento do Município no valor total de R$ 742.000,00 (Setecentos e quarenta e dois mil reais) para fazer face as despesas para o exercício de 2023, na seguinte dotação e fontes:
+
+02— Poder Executivo 02.10— SECRETARIA MUNICIPAL DE OBRAS PÚBLICAS 02.10.01 — Secretária de Obras Públicas e Serviços 15.451.0071.1073 — Construção de Pontes e Bueiros - Urbano 4.4.90.51.00.00 - Obras e Instalações Fonte de Recurso — 02.706 — Transferência Especial da Unido R$ 742.000,00
+
+**Art. 2°** Para abertura dos créditos Suplementares de que trata o artigo 1° desta Lei, o Chefe do Executivo editará o competente decreto e, para tanto, serão utilizados como origem os recursos provenientes de Superavit Financeiro apurado no Balanço Patrimonial na Fonte de Recurso 02.0706 —Transferencias Especiais da Unido
+
+**Art. 3°** Revogadas as disposições em contrario, a presente Lei entrará em vigor na data da sua publicação.
+
+Iturama/MG, 05 de setembro de 2.023.
+
+CLAUDI I Al , AZ DE FREITAS Prefeito do unicipio de Iturama-MG.
+
+Autor: Poder Executivo.
+
+Prefeitura Municipal de Iturama — Av. Aiexandrita, 1314 —Jardim Eldorado Telefone (34) 3411. 9500 CEP 38.280-000 CNPJ 18.457.242/0001-74 ITURAMA — MINAS GERAIS
