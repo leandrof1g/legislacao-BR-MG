@@ -1199,7 +1199,7 @@
    "sapl_manual": false
   },
   "3162104": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "São Gotardo",
    "normas_na_fonte": 2097,
    "pasta": "sao-gotardo",

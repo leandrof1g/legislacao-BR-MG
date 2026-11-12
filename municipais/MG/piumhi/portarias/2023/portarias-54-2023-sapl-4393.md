@@ -1,0 +1,308 @@
+---
+titulo: "Portaria nº 54, de 21/12/2023"
+tipo: "Portaria"
+tipo_na_fonte: "Portaria"
+numero: "54"
+data: "2023-12-21"
+ementa: "Dispõe sobre a anulação de dotações orçamentárias no âmbito do Poder Legislativo Municipal e dá outras providências."
+municipio: "Piumhi"
+uf: "MG"
+codigo_ibge: "3151503"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.piumhi.mg.leg.br/norma/4393"
+fonte_texto: "https://sapl.piumhi.mg.leg.br/media/sapl/public/normajuridica/2023/4393/2023-12-21_port_054_anulacao_dotacoes.pdf"
+sha256_fonte: "9137e7ee4e53395763951cd7b2b0345c8602c15a66e40dd74fda411646ca8c49"
+baixado_em: "2026-11-12"
+---
+
+# Portaria nº 54, de 21/12/2023
+
+CÂMARA MUNICIPAL DE PIUMHI Rua: Visconde de Ouro Preto, 435 CEP: 37.925-000 - Centro - Piumhi/MG CNPJ: 04.889.589/0001-81 Site: www.piumhi.mg.leg.br E-mail: apoio@camarapiumhi.mg.gov.br Telefone: (37) 3371-1551 / 1384
+
+PORTARIA N° 054, DE 21 DE DEZEMBRO DE 2023
+
+Dispõe sobre a anulação de dotações orçamentárias no âmbito do Poder Legislativo Municipal e dá outras providências.
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE PIUMHI, no uso de suas atribuições legais, e, em conformidade com o art. 43, § 1o, III, da Lei 4.320/1964 c/c art. 2o, I, da Lei Municipal n° 2.655/2022, RESOLVE.
+
+**Art. 1o** Ficam anulados no orçamento do Poder Legislativo Municipal, as dotações e respectivos saldos orçamentários, restos a pagar processados e não processados abaixo discriminados:
+
+Exercício de 2022: 01.01.0101.031.0001.2001.3.3.90.39.00 Associação de Valorização e Apoio - R$ 31.048,50; 01.01.0101.031.0001.2001.3.3.90.40.00 BHS AXTER Soluções Digitais Ltda. - R$ 13.036,45; 01.01.0101.031.0001.2001.3.3.90.40.00 Memory Projetos e Desenvolvimento - R$ 3.300,00; 01.01.0101.031.0001.2001.3.3.90.39.00 Verocheque Refeições Ltda. - R$ 41.823,65; 01.01.0101.031.0001.2001.3.3.90.30.00 Vieira Empreendimentos Comerciais - R$ 525,76.
+
+Exercício de 2023: 01.01.0101.031.0001.2001.3.3.90.93.00 André Luís da Costa - R$ 4,98; 01.01.0101.031.0001.2001.3.3.90.93.00 Ângela Cristine Alves Costa - R$ 100,00;
+
+01.01.0101.031.0001.2001.3.3.90.93.00 Carlos José Cunha - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Carlos Leonel de Oliveira - R$ 100,00;
+
+01.01.0101.031.0001.2001.3.3.90.93.00 Cecilia Maia Silva - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Deuselayne Aparecida Rodrigues - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Eron Domingos Campos - R$ 100,00 01.01.0101.031.0001.2001.3.3.90.93.00 Elias Fernandes Ferreira - R$ 70,73;
+
+01.01.0101.031.0001.2001.3.3.90.93.00 Eduardo Henrique Valerio Silva - R$ 0,12;
+
+CÂMARA MUNICIPAL DE PIUMHI Rua: Visconde de Ouro Preto, 435 CEP: 37.925-000 - Centro - Piumhi/MG CNPJ: 04.889.589/0001-81 Site: www.piumhi.mg.leg.br E-mail: apoio@camarapiumhi.mg.gov.br Telefone: (37) 3371-1551 / 1384
+
+01.01.0101.031.0001.2001.3.3.90.93.00 Fábio Henrique Novaes Ferreira - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Felipe Cavalieri Lima - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Fernanda Maria Oliveira - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Flávio Henrique Borges - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Gilvan Antônio da Silva - R$ 50,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Jaqueline Aparecida de Souza - R$ 100,00;
+
+01.01.0101.031.0001.2001.3.3.90.93.00 João Marcos Macedo Silveira - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 José Antônio Camargo Junior - R$ 72,00;
+
+01.01.0101.031.0001.2001.3.3.90.93.00 José Welington da Silva - R$ 6,51; 01.01.0101.031.0001.2001.3.3.90.93.00 Joselito Costa e Silva - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Jusiane Batista Lopes Teixeira - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Márcia Maria Costa - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Márcia Valéria Paula - R$ 100,00;
+
+01.01.0101.031.0001.2001.3.3.90.93.00 Marcelo Júlio de Oliveira - R$ 34,16; 01.01.0101.031.0001.2001.3.3.90.93.00 Reinaldo dos Reis Silva - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.93.00 Shirley Elaine Gonçalves Faria - R$ 74,07; 01.01.0101.031.0001.2001.3.3.90.93.00 Tayrone Danrley Duarte - R$ 36,80;
+
+01.01.0101.031.0001.2001.3.3.90.93.00 Wilde Wéllis de Oliveira - R$ 100,00; 01.01.0101.031.0001.2001.3.3.90.40.00 Terra Networks Brasil SA-R$ 388,25; 01.01.0101.031.0001.2001.3.3.90.39.00 Empresa Brasileira de Correios e Telégrafos - R$ 849,86; 01.01.0101.031.0001.2001.3.3.90.39.00 Dewik Cozinhas e Móveis Planejados - R$ 1.250,00;
+
+01.01.0101.031.0001.2001.3.3.90.30.00 Mercearia Marcopan Ltda. - R$ 15.083,03; 01.01.0101.031.0001.2001.3.3.90.30.00 Posto 4I Ltda. - R$ 4.744,45; 01.01.0101.031.0001.2001.3.3.90.30.00 Wtrade Intermediação de Negócios Ltda - R$ 1.571,70; 01.01.0101.031.0001.2001.3.3.90.30.00 Vieira Empreendimentos Comerciais Eirelle - R$ 533,50; 01.01.0101.031.0001.2001.3.3.90.30.00 Comercial Fajid Ltda. - R$ 49,56; 01.01.0101.031.0001.2001.3.3.90.39.00 Sempre Editora Ltda. - R$ 2.000,00; 01.01.0101.031.0001.2001.3.3.90.39.00 Instituto Zuriel Capacitação - R$ 1.090,00; 01.01.0101.031.0001.2001.3.3.90.39.00 Oeste Mineiro Emp Jornalística - R$ 500,00;
+
+Página 2 de 3
+
+CÂMARA MUNICIPAL DE PIUMHI Rua: Visconde de Ouro Preto, 435 CEP: 37.925-000 - Centro - Piumhi/MG CNPJ: 04.889.589/0001-81 Site: www.piumhi.mg.leg.br E-mail: apoio@camarapiumhi.mg.gov.br Telefone: (37) 3371-1551 / 1384
+
+01.01.0101.031.0001.2001.3.3.90.36.00 Roseli Alves Silveira - R$ 2.320,00;
+
+01.01.0101.031.0001.2001.3.3.90.39.00 Ana Maria da Costa - R$ 54,00; 01.01.0101.031.0001.2001.3.3.90.30.00 Calha Box Acabamentos Ltda. - R$ 155,00; 01.01.0101.031.0001.2001.3.3.90.39.00 CIAS Em Recuperação Judicial - R$ 5,56;
+
+01.01.0101.031.0001.2001.3.3.90.39.00 Empresa Jornalística Folhaminas - R$ 85,00.
+
+**Art. 2o** Esta Portaria entra em vigor na data de sua publicação, retroagindo seus efeitos a 07/12/2023, revogando-se as disposições em contrário.
+
+WILDE WÊÚLlS DE OLIVEIRA Presidente da Câmara Municipal de Piumhi
+
+DECLARO, para os devidos fíns de direito, que foi publicado este, no quadro de avisos da Câmara Municipal. Cumprindo assim o que determina a Lei Orgânica Municipal no seu Artigo 72. Data da disponibilizaçàb:-Ãl—C£L\_^22-’ Data da ouhlic.açan: ^1 LA- !^Ã3
+
+Página 3 de 3
+
+UF: MINAS GERAIS 21 dez 2023 14:39 MUNICÍPIO: PIUMHI RELAÇÃO DE EMPENHOS FOLHA: 1 DE RESTOS A PAGAR CANCELADOS Período
+
+DATA ANU. N2EMP. ANUL. DATA EMP FICHA/CONTA CREDOR VLR DA ANULACAO
+
+01/01/2023 477 18/11/2022 13 01.01.0101031000120013.3.90.39.00 ASSOCIAÇÃO DE VALORIZAÇÃO E APOIO 31.048,50
+
+1.00.00 Recursos Não Vinculados de Impostos TOTAL........ : 68.982,12
+
+01/01/2023 502 01/12/2022 14 01.01.0101031000120013.3.90.40.00 BHS AXTER SOLUCOES DIGITAIS LTDA. 13.036,45
+
+1.00.00 Recursos Não Vinculados de Impostos TOTAL........ : 27.257,04
+
+01/01/2023 211 06/05/2022 14 01.01.0101031000120013.3.90.40.00 MEMORY PROJETOS E DESENVOLVIMENTO 3.300,00
+
+1.00.00 Recursos Não Vinculados de Impostos TOTAL......... : 9.900,00
+
+01/01/2023 245 03/06/2022 13 01.01.0101031000120013.3.90.39.00 VEROCHEQUE REFEIÇÕES LTDA 31.023,65 1.00.00 Recursos Não Vinculados de Impostos 01/01/2023 260 08/06/2022 13 01.01.0101031000120013.3.90.39.00 10.800,00
+
+1.00.00 Recursos Não Vinculados de Impostos TOTAL.........: 85.264,29
+
+01/01/2023 476 16/11/2022 8 01.01.0101031000120013.3.90.30.00 VIEIRA EMPREENDIMENTOS COMERCIAIS 525,76 1.00.00 Recursos Não Vinculados de Impostos TOTAL........ : 1.051,52
+
+TOTAL GERAL DESTE INTERVALO............... : 192.454,97
+
+UF: MINAS GERAIS 21 dez 2023 10:14 MUNICÍPIO: PIUMHI RELAÇÃO ANALÍTICA DE ANULAÇÕES FOLHA: 1 Período
+
+DATA ANU. N9EMP. ANUL. DATA EMP FICHA/CONTA CREDOR VLR DA ANULACAO
+
+11/12/2023 2023/358 1 04/07/2023 13 01.01.0101031000120013.3.90.39.99 ANA MARIA DA COSTA 96121491 604 54,00 1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 54,00
+
+13/12/2023 2023/6 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 ANDRE LUIS DA COSTA 4,98 1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... : 4,98
+
+11/12/2023 2023/7 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 ANGELA CRISTINE ALVES COSTA 100,00 1.500.000.0000 Recursos não vinculados de Impostos
+
+TOTAL......... 100,00
+
+11/12/2023 2023/120 1 22/02/2023 8 01.01.0101031000120013.3.90.30.99 CALHA BOX ACABAMENTOS LTDA 155,00 1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... 155,00
+
+11/12/2023 2023/8 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 CARLOS JOSE DA CUNHA 100,00 1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+12/12/2023 2023/14 1 02/01/2023 15 01.01.0101031000120013.3.90.93.01 CARLOS LEONEL DE OLIVEIRA 100,00 1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+11/12/2023 2023/15 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 CECILIA MAIA SILVA 100,00 1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+11/12/2023 2023/138 1 01/03/2023 8 01.01.0101031000120013.3.90.30.99 COMERCIAL FAJID LTDA 49,56 1.500.000.0000 Recursos não vinculados de Impostos
+
+TOTAL.........: 49,56
+
+11/12/2023 2023/16 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 DEUSELAYNE APARECIDA RODRIGUES 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+11/12/2023 2023/493 1 14/09/2023 13 01.01.0101031000120013.3.90.39.99 DEWIK COZINHAS E MÓVEIS PLANEJADOS 1.250,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 1.250,00
+
+20/12/2023 2023/233 1 27/04/2023 15 01.01.0101031000120013.3.90.93.03 EDUARDO HENRIQUE VALERIO SILVA 0,12
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 0,12
+
+11/12/2023 2023/17 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 ELIAS FERNANDES FERREIRA 70,73
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 70,73
+
+07/12/2023 2023/38 1 02/01/2023 13 01.01.0101031000120013.3.90.39.58 EMPRESA BRASILEIRA DE CORREIOS E 849,86
+
+1.500.000.0000 Recursos não vinculados de Impostos
+
+UF: MINAS GERAIS 21 dez 2023 10:14 MUNICÍPIO: PIUMHI RELAÇÃO ANALÍTICA DE ANULAÇÕES FOLHA: 2 Período
+
+DATA ANU. NSEMP. ANUL. DATA EMP FICHA/CONTA CREDOR VLR DA ANULACAO
+
+TOTAL......... 849,86
+
+20/12/2023 2023/540 1 06/10/2023 13 01.01.0101031000120013.3.90.39.99 EMPRESA JORNALÍSTICA FOLHAMINAS 85,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... : 85,00
+
+11/12/2023 2023/18 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 ERON DOMINGOS CAMPOS 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+12/12/2023 2023/19 1 02/01/2023 15 01.01.0101031000120013.3.90.93.01 FABIO HENRIQUE NOVAES FERREIRA 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100.00
+
+11/12/2023 2023/20 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 FELLIPE CAVALIERI LIMA 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+11/12/2023 2023/21 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 FERNANDA MARIA OLIVEIRA 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+11/12/2023 2023/22 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 FLAVIO HENRIQUE BORGES 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+20/12/2023 2023/23 1 02/01/2023 15 01.01.0101031000120013.3.90.93.01 GILVAN ANTONIO DA SILVA 50,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 50,00
+
+11/12/2023 2023/467 1 30/08/2023 13 01.01.0101031000120013.3.90.39.19 INSTITUTO ZURIEL CAPACITACAO E 1.090,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... 1.090,00
+
+11/12/2023 2023/24 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 JAQUELINE APARECIDA DE SOUZA 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+12/12/2023 2023/25 1 02/01/2023 15 01.01.0101031000120013.3.90.93.01 JOAO MARCOS MACEDO SILVEIRA 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL........ : 100,00
+
+20/12/2023 2023/26 1 02/01/2023 15 01.01.0101031000120013.3.90.93.01 JOSE ANTONIO CAMARGO JUNIOR 72,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... 72,00
+
+20/12/2023 2023/27 1 02/01/2023 15 01.01.0101031000120013.3.90.93.01 JOSE WELINGTON DA SILVA 6,51
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... 6,51
+
+02/01/2023 15 01.01.0101031000120013.3.90.93.03 JOSELITO COSTA E SILVA 100,00 11/12/2023 2023/28 1
+
+UF: MINAS GERAIS 21 dez 2023 10:14 MUNICÍPIO: PIUMHI RELAÇÃO ANALÍTICA DE ANULAÇÕES FOLHA: 3 Período
+
+DATA ANU. NSEMP. ANUL. DATA EMP FICHA/CONTA CREDOR VLR DA ANULACAO
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100.00
+
+11/12/2023 2023/29 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 JUSIANE BATISTA LOPES TEIXEIRA 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+20/12/2023 2023/232 1 27/04/2023 15 01.01.0101031000120013.3.90.93.03 MARCELO JULIO DE OLIVEIRA 34,16
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 34,16
+
+11/12/2023 2023/30 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 MÁRCIA MARIA COSTA 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... : 100,00
+
+11/12/2023 2023/31 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 MARCIA VALERIA PAULA 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 100,00
+
+07/12/2023 2023/36 1 02/01/2023 8 01.01.0101031000120013.3.90.30.07 MERCEARIA MARCOPAN LTDA EPP 1.419,11
+
+1.500.000.0000 Recursos não vinculados de Impostos 07/12/2023 2023/37 1 02/01/2023 8 01.01.0101031000120013.3.90.30.07 1.492,50
+
+1.500.000.0000 Recursos nào vinculados de Impostos 11/12/2023 2023/135 1 01/03/2023 8 01.01.0101031000120013.3.90.30.07 66,52
+
+1.500.000.0000 Recursos não vinculados de Impostos 11/12/2023 2023/183 1 03/04/2023 8 01.01.0101031000120013.3.90.30.07 0.01
+
+1.500.000.0000 Recursos não vinculados de Impostos 11/12/2023 2023/184 1 03/04/2023 8 01.01.0101031000120013.3.90.30.07 135,31
+
+1.500.000.0000 Recursos não vinculados de Impostos 11/12/2023 2023/234 1 02/05/2023 8 01.01.0101031000120013.3.90.30.07 423,63
+
+1.500.000.0000 Recursos não vinculados de Impostos 11/12/2023 2023/235 1 02/05/2023 8 01.01.0101031000120013.3.90.30.07 739,76
+
+1.500.000.0000 Recursos não vinculados de Impostos 11/12/2023 2023/293 1 01/06/2023 8 01.01.0101031000120013.3.90.30.07 352,97
+
+1.500.000.0000 Recursos não vinculados de Impostos 11/12/2023 2023/370 1 07/07/2023 8 01.01.0101031000120013.3.90.30.07 4.742,76
+
+1.500.000.0000 Recursos não vinculados de Impostos 11/12/2023 2023/371 1 07/07/2023 8 01.01.0101031000120013.3.90.30.07 3.345,39
+
+1.500.000.0000 Recursos não vinculados de Impostos
+
+11/12/2023 2023/420 1 02/08/2023 8 01.01.0101031000120013.3.90.30.07 666,67
+
+1.500.000.0000 Recursos não vinculados de Impostos
+
+11/12/2023 2023/446 1 22/08/2023 8 01.01.0101031000120013.3.90.30.07 1.698,40
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 15.083,03
+
+11/12/2023 2023/208 1 18/04/2023 13 01.01.0101031000120013.3.90.39.68 OESTE MINEIRO EMPRESA JORNALÍSTICA 500,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... 500,00
+
+UF: MINAS GERAIS 21 dez 2023 10:14 MUNICÍPIO: PIUMHI RELAÇÃO ANALÍTICA DE ANULAÇÕES FOLHA: 4 Período
+
+DATA ANU. N2EMP. ANUL. DATA EMP FICHA/CONTA CREDOR VLR DA ANULACAO
+
+20/12/2023 2023/4 1 02/01/2023 13 01.01.0101031000120013.3.90.39.43 OI S.A - EM RECUPERAÇÃO JUDICIAL 5,56
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 5,56
+
+11/12/2023 2023/151 1 14/03/2023 8 01.01.0101031000120013.3.90.30.01 POSTO 4I LTDA 4.744,45
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 4.744,45
+
+12/12/2023 2023/32 1 02/01/2023 15 01.01.0101031000120013.3.90.93.01 REINALDO DOS REIS SILVA 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... 100,00
+
+11/12/2023 2023/307 1 05/06/2023 12 01.01.0101031000120013.3.90.36.24 ROSELI ALVES SILVEIRA 2.320,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 2.320.00
+
+11/12/2023 2023/209 1 18/04/2023 13 01.01.0101031000120013.3.90.39.68 SEMPRE EDITORA LTDA 2.000,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL........ : 2.000,00
+
+20/12/2023 2023/33 1 02/01/2023 15 01.01.0101031000120013.3.90.93.01 SHIRLEY ELAINE GONÇALVES FARIA 74,07
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 74,07
+
+11/12/2023 2023/34 1 02/01/2023 15 01.01.0101031000120013.3.90.93.03 TAYRONE DANRLEY DUARTE 36,80
+
+1.500.000.0000 Recursos não vinculados de Impostos
+
+29/09/2023 2023/478 1 01/09/2023 7 01.01.0101031000120013.3.90.14.05 875,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... : 911,80
+
+11/12/2023 2023/3 1 02/01/2023 14 01.01.0101031000120013.3.90.40.05 TERRA NETWORKS BRASIL S/A 388,25
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL..........: 388,25
+
+11/12/2023 2023/44 1 02/01/2023 8 01.01.0101031000120013.3.90.30.07 VIEIRA EMPREENDIMENTOS COMERCIAIS 533,50
+
+1.500.000.0000 Recursos não vinculados de Impostos
+
+11/12/2023 2023/191 1 05/04/2023 8 01.01.0101031000120013.3.90.30.16 62,90
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL.........: 596,40
+
+12/12/2023 2023/35 1 02/01/2023 15 01.01.0101031000120013.3.90.93.02 WILDE WELLIS DE OLIVEIRA 100,00
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... : 100,00
+
+11/12/2023 2023/42 1 02/01/2023 8 01.01.0101031000120013.3.90.30.07 WTRADE INTERMEDIAÇÃO DE NEGOCIOS 1.571,70
+
+1.500.000.0000 Recursos não vinculados de Impostos TOTAL......... 1.571,70
+
+TOTAL GERAL DESTE INTERVALO.............. 33.767.18

@@ -1,0 +1,418 @@
+---
+titulo: "Lei Ordinária nº 4987, de 29/11/2021"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "4987"
+data: "2021-11-29"
+ementa: "\"AUTORIZA A ABERTURA DE CREDITO SUPLEMENTAR POR ANULAÇÃO DE DOTAÇÕES DO ORÇAMENTO VIGENTE E CONTÉM OUTRAS PROVIDÊNCIAS.\""
+municipio: "Iturama"
+uf: "MG"
+codigo_ibge: "3134400"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.iturama.mg.leg.br/norma/7865"
+fonte_texto: "https://sapl.iturama.mg.leg.br/media/sapl/public/normajuridica/2021/7865/lei_4987_000888.pdf"
+sha256_fonte: "a2316e26b52ad3183cd51552abdb26a8b908a856b1df9f80121a2b07f115816d"
+baixado_em: "2026-11-12"
+---
+
+# Lei Ordinária nº 4987, de 29/11/2021
+
+" ITtiltÀ REOE.E.0 en E GC.. RES SLIEDO ITURAMA/MG
+
+Aclin: 2021/2024.
+
+LEI N° 4.987 DE 29 DE NOVEMBRO DE 2021.
+
+"AUTORIZA A ABERTURA DE CREDITO SUPLEMENTAR POR ANULAÇÃO DE DOTAÇÕES DO ORÇAMENTO VIGENTE E CONTÉM OUTRAS PROVIDÊNCIAS."
+
+0 Prefeito Municipal de Iturama, Estado de Minas Gerais, no uso de suas atribuições legais prevista no Inciso I, do Art. 69 da Lei Orgânica Municipal, faz saber que a Camara Municipal aprovou e ele sanciona a presente lei:
+
+**Art. 1°** Fica autorizada abertura de crédito suplementar no orçamento do Município no valor de R$4.803.054,59 (quatro milhões, oitocentos e tee's mil, cinquenta e quatro reais e cinquenta e nove centavos) para fazer face as despesas para o exercício de 2021, nas seguintes dotação e fontes: ELEMENTO DA FICHA UNIDADE DOTAÇÃO DESPESA FTE VALOR Vencimentos e Vantagens Fixas - 14 02.02.01 04.124.0011.2.0012.3.1.90.11.00.00 Pessoal Civil 100 60.000,00 Vencimentos e Vantagens Fixas - 25 02.03.01 04.122.0011.2.0013.3.1.90.11.00.00 Pessoal Civil 100 110.000,00
+
+26 02.03.01 04.122.0011.2.0013.3.1.90.13.00.00 Patronais 100 20.000,00 Outros Serviços de Terceiros - Pessoa / 34 02.03.01 04.122.0011.2.0013.3.3.90.39.00.00 Jurídica 100 40.000,00 Vencimentos e Vantagens Fixas - 36 02.04.01 04.121.0011.2.0014.3.1.90.11.00.00 Pessoal Civil 100 8.000,00 Vencimentos e Vantagens Fixas - 45 02.05.01 04.123.0011.2.0015.3.1.90.11.00.00 Pessoal Civil 100 75.000,00
+
+46 02.05.01 04.123.0011.2.0015.3.1.90.13.00.00 Patronais 100 7.000,00
+
+Tributarias e 75 02.05.03 04.123.0011.2.0030.3.3.90.47.00.00 Contributivas 100 250.000,00 Principal da Divida Contratual 77 02.05.03 28.846.0014.3.0003.4.6.90.71.00.00 Resgatado 100 250.000,00 Vencimentos e Vantagens Fixas - 84 02.05.04 04.129.0011.2.0018.3.1.90.11.00.00 Pessoal Civil 100 150.000,00 Prefeitura Municipai de lturarna — Au. Alexandrita, 1 314 — Jardim Eldorado Telefone (34) 3411 950(1— CEO 38.280-000 CNRI18.457.242/0001-74
+
+!TOO.\*\*\* ITURVVIA/MG
+
+Mm: 202i/2024.
+
+Outros Serviços de Terceiros - Pessoa 91 02.05.04 04.129.0011.2.0018.3.3.90.39.00.00 Jurídica 100 350.000,00 Contratação por Tempo 94 02.06.01 04.122.0011.2.0019.3.1.90.04.00.00 Determinado 100 170.000,00 Vencimentos e Vantagens Fixas - 95 02.06.01 04.122.0011.2.0019.3.1.90.11.00.00 Pessoal Civil 100 320.000,00
+
+96 02.06.01 04.122.0011.2.0019.3.1.90.13.00.00 Patronais 100 100.000,00 Vencimentos e Vantagens Fixas - 115 02.06.02 04.122.0012.2.0041.3.1.90.11.00.00 Pessoal Civil 100 30.000,00 Vencimentos e Vantagens Fixas - 120 02.06.02 04.122.0012.2.0042.3.1.90.11.00.00 Pessoal Civil 100 25.000,00
+
+121 02.06.02 04.122.0012.2.0042.3.1.90.13.00.00 Patronais 100 4.000,00
+
+171 02.07.02 12.306.0039.2.0442.3.3.90.30.00.00 Consumo 100 200.000,00 Vencimentos e Vantagens Fixas - 190 02.07.02 12.366.0034.2.0131.3.1.90.11.00.00 Pessoal Civil 100 120.000,00 Contratação por Tempo 362 02.10.01 04.122.0011.2.0021.3.1.90.04.00.00 Determinado 100 120.000,00 Vencimentos e Vantagens Fixas - 363 02.10.01 04.122.0011.2.0021.3.1.90.11.00.00 Pessoal Civil 100 250.000,00
+
+364 02.10.01 04.122.0011.2.0021.3.1.90.13.00.00 Patronais 100 75.000,00 Contratação por Tempo 374 02.10.02 15.122.0071.2.0201.3.1.90.04.00.00 Determinado 100 15.000,00 /
+
+376 02.10.02 15.122.0071.2.0201.3.1.90.13.00.00 Patronais 100 35.000,00
+
+379 02.10.02 15.122.0071.2.0201.3.3.90.30.00.00 Consumo 100 15.000,00 Contratação por Tempo 394 02.10.03 15.452.0072.2.0211.3.1.90.04.00.00 Determinado 100 180.000,00 Vencimentos e Vantagens Fixas - 395 02.10.03 15.452.0072.2.0211.3.1.90.11.00.00 Pessoal Civil 100 120.000,00
+
+396 02.10.03 15.452.0072.2.0211.3.1.90.13.00.00 Patronais 100 120.000,00 Prefeitura Municipal de Iturama — Av. Alexandrita e 1314 —Jardim Eldorado Telefone (34) 3411 9500 CEP 38.280-000 CNP118.457.242/0001-74 FRJRAMA — MINAS GERAIS
+
+.tUr lit, 4A DI, Prefeitura de ITO RAMA 11, ,,e. LAI 413. lit SJLIPI!G ITURAMA/NIG
+
+,;dm: 2021/2024
+
+15.452.0072.2.0211.3.3.90.30.00.00 Consumo 100 150.000,00 399 02.10.03 Contratação por Tempo 568 02.14.01 04.122.0011.2.0024.3.1.90.04.00.00 Determinado 100 5.000,00 Vencimentos e Vantagens Fixas - 569 02.14.01 04.122.0011.2.0024.3.1.90.11.00.00 Pessoal Civil 100 70.000,00
+
+570 02.14.01 04.122.0011.2.0024.3.1.90.13.00.00 Patronais 100 15.000,00 Outros Serviços de Terceiros - Pessoa 578 02.14.01 04.122.0011.2.0024.3.3.90.39.00.00 Jurídica 100 100.000,00 Aposentadorias do RPPS Reserva 580 02.14.01 04.122.0011.2.0031.3.1.90.01.00.00 Remunerada 100 177.054.59 Pensões do RPPS 581 02.14.01 04.122.0011.2.0031.3.1.90.03.00.00 do Militar e 100 90.000,00 Material Bem ou Serviço para Distribuição 582 02.14.01 04.306.0015.2.0071.3.3.90.32.00.00 Gratuita 100 135.000,00 Vencimentos e Vantagens Fixas - 583 02.15.01 04.122.0011.2.0025.3.1.90.11.00.00 Pessoal Civil 100 50.000,00 606 02.15.02 04.122.0012.2.0049.3.3.50.41.00.00 Contribuições 100 35.000,00 Contratação por Tempo 627 02.16.01 23.691.0012.2.0046.3.1.90.04.00.00 Determinado 100 30.000.00 Vencimentos e Vantagens Fixas - 628 02.16.01 23.691.0012.2.0046.3.1.90.11.00.00 Pessoal Civil 100 40.000,00
+
+629 02.16.01 23.691.0012.2.0046.3.1.90.13.00.00 Patronais 100 25.000,00 Vencimentos e Vantagens Fixas - 681 02.19.01 23.695.0095.2.0251.3.1.90.11.00.00 Pessoal Civil 100 50.000,00
+
+682 02.19.01 23.695.0095.2.0251.3.1.90.13.00.00 Patronais 100 8.000,00
+
+701 02.20.01 08.122.0011.2.0028.3.1.90.13.00.00 Patronais 100 17.000,00 Material Bem ou Serviço para Distribuição 956 02.20.01 08.244.0155.2.0459.3.3.90.32.00.00 Gratuita 100 380.000,00 Contratação por 871 02.22.01 04.122.0011.2.0029.3.1.90.04.00.00 Tempo 100 12.000,00 Prefeitura Municipal de lturama — Av. Alexandrita, 1314 —Jardim Eldorado Telefone (34) 3411 9500 CEP 38,2.80-000 MR118.457,242/0001-74
+
+ITUÏCÁMA TRAI.I.tte Q.., CAVA FICSIJVIA DO ITURAMA/MG
+
+Adm: 2021/2024.
+
+Determinado
+
+Vencimentos e Vantagens Fixas - 872 02.22.01 04.122.0011.2.0029.3.1.90.11.00.00 Pessoal Civil 100 60.000,00
+
+873 02.22.01 04.122.0011.2.0029.3.1.90.13.00.00 Patronais 100 15.000,00
+
+876 02.22.01 04.122.0011.2.0029.3.3.90.30.00.00 Consumo 100 120.000,00 TOTAL 4.803.054,59
+
+**Art. 2°** Para abertura do crédito de que trata o artigo 10 desta Lei, o Chefe do Executivo editará o competente decreto e, para tanto, serão utilizados como origem os recursos das anulações parcial ou total das seguintes dotações orçamentárias: ELEMENTO DA FICHA UNIDADE DOTAÇÃO DESPESA FTE VALOR
+
+1 02.01.01 02.062.0011.2.0011.3.1.90.04.00.00 Determinado 100 10.000,00 Sentenças 13 02.01.01 04.123.0014.3.0001.3.3.90.91.00.00 Judiciais 100 399.519,00
+
+24 02.03.01 04.122.0011.2.0013.3.1.90.04.00.00 Determinado 100 30.000,00
+
+29 02.03.01 04.122.0011.2.0013.3.3.90.14.00.00 Pessoal Civil 100 10.000,00
+
+34 02.03.01 04.122.0011.2.0013.3.3.90.39.00.00 Jurídica 100 50.000,00
+
+35 02.03.01 04.122.0011.2.0013.4.4.90.52.00.00 Permanente 100 10.000,00
+
+37 02.04.01 04.121.0011.2.0014.3.1.90.13.00.00 Patronais 100 7.000,00
+
+40 02.04.01 04.121.0011.2.0014.3.3.90.30.00.00 Consumo 100 10.000,00
+
+44 02.04.01 04.12L0011.2.0014.4.4.90.52.00.00 Permanente 100 5.000,00 Indenizações e Restituições 47 02.05.01 04.123.0011.2.0015.3.1.90.94.00.00 Trabalhistas 100 5.000,00 Prefeitura Municipal de Iturama — Av. Alexandrita, 1314 —Jardim Eldorado Telefone (34) 3411 9500 — CEP 38.280-000 MP] 18.457.242/0001-74 ITIJRAMA — MINAS GERAIS
+
+"414 k t't• tt.t"t•JAP Prefeitura de ITO RAMA 11."14t1ie RES 411/.00 ITURAMA/MG
+
+Adm: 2021/2024.
+
+49 02.05.01 04.123.0011.2.0015.3.3.90.30.00.00 Consumo 100 10.000,00
+
+52 02.05.01 04.123.0011.2.0015.3.3.90.39.00.00 Jurídica 100 4.500,00
+
+53 02.05.01 04.123.0011.2.0015.4.4.90.52.00.00 Permanente 100 5.000,00
+
+54 02.05.02 04.123.0011.2.0016.3.1.90.04.00.00 Determinado 100 12.000,00 Vencimentos e Vantagens Fixas - 55 02.05.02 04.123.0011.2.0016.3.1.90.11.00.00 Pessoal Civil 100 10.000,00
+
+56 02.05.02 04.123.0011.2.0016.3.1.90.13.00.00 Patronais 100 5.000,00
+
+58 02.05.02 04.123.0011.2.0016.3.3.90.14.00.00 Pessoal Civil 100 5.000,00
+
+59 02.05.02 04.123.0011.2.0016.3.3.90.30.00.00 Consumo 100 8.000,00 Passagens e Despesas corn 60 02.05.02 04.123.0011.2.0016.3.3.90.33.00.00 locomoção 100 3.000,00
+
+63 02.05.02 04.123.0011.2.0016.3.3.90.39.00.00 Jurídica 100 10.000,00
+
+64 02.05.02 04.123.0011.2.0016.4.4.90.52.00.00 Permanente 100 10.000,00 Vencimentos / e Vantagens Fixas - 65 02.05.03 04.123.0011.2.0017.3.1.90.11.00.00 Pessoal Civil 100 25.000,00
+
+66 02.05.03 04.123.0011.2.0017.3.1.90.13.00.00 Patronais 100 10.000,00
+
+68 02.05.03 04.123.0011.2.0017.3.3.90.14.00.00 Pessoal Civil 100 5.000,00 Passagens e Despesas com 70 02.05.03 04.123.0011.2.0017.3.3.90.33.00.00 locomoção 100 5.000,00 Indenizações 73 02.05.03 04.123.0011.2.0017.3.3.90.93.00.00 e Restituições 100 30.000,00 Prefeitura Municipal de iturama — Av. Alexandrita„ 1314 Jardim Eldorado Telefone (34) 3411 9500 CEP 38,280-000 — CNPJ 18,457,242/0001-74
+
+ITU RAMA 10.30.1,1C Igt SJI.TPUCJ ITURAMANIG
+
+Alm: 2021/2024.
+
+74 02.05.03 04.123.0011.2.0017.4.4.90.52.00.00 Permanente 100 10.000,00 Reserva de Contingência ou Reserva do 78 02.05.03 99.999.9999.9.0999.9.9.99.99.00.00 RPPS 100 384.814,12 Vencimentos e Vantagens Fixas - 79 02.05.04 04.125.0011.2.0449.3.1.90.11.00.00 Pessoal Civil 100 12.000,00
+
+82 02.05.04 04.125.0011.2.0449.4.4.90.52.00.00 Permanente 100 5.000,00
+
+83 02.05.04 04.129.0011.2.0018.3.1.90.04.00.00 Determinado 100 38.000,00
+
+85 02.05.04 04.129.0011.2.0018.3.1.90.13.00.00 Patronais 100 10.000,00 Indenizações e Restituições 86 02.05.04 04.129.0011.2.0018.3.1.90.94.00.00 Trabalhistas 100 15.000,00
+
+87 02.05.04 04.129.0011.2.0018.3.3.90.14.00.00 Pessoal Civil 100 4.500,00 Passagens e Despesas com 89 02.05.04 04.129.0011.2.0018.3.3.90.33.00.00 locomoção 100 5.000,00
+
+92 02.05.04 04.129.0011.2.0018.4.4.90.52.00.00 Permanente 100 10.000,00 Obras e 93 02.06.01 04.122.0011.1.0017.4.4.90.51.00.00 Instalações 100 7.000,00 Obras e 104 02.06.01 04.122.0011.2.0019.4.4.90.51.00.00 Instalações 100 10.000,00 Obras e 144 02.06.02 06.122.0012.2.0426.4.4.90.51.00.00 Instalações 100 500.000,00 /
+
+169 02.07.02 12.306.0039.2.0440.3.3.90.30.00.00 Consumo 100 30.203,02
+
+170 02.07.02 12.306.0039.2.0441.3.3.90.30.00.00 Consumo 100 6.587,40
+
+171 02.07.02 12.306.0039.2.0442.3.3.90.30.00.00 Consumo 100 11.251,70
+
+172 02.07.02 12.306.0039.2.0443.3.3.90.30.00.00 Consumo 100 2.655,41
+
+175 02.07.02 12.306.0039.2.0446.3.3.90.30.00.00 Consumo 100 3.487,22
+
+Prefeitura Municipal de iturarna — Av. Alexandrita„ 1314 —jardim Eldorado Telefone (34) 3411 9500 CEP 38.280-000 CNRI 18.457,2.42/0001-74 ITURANIA — MINAS GERAIS
+
+v:)1;1:10
+
+ITURAMAJMG
+
+Adm: 2021/2024.
+
+176 02.07.02 12.363.0035.2.0141.3.1.90.04.00.00 Determinado 100 55.000,00
+
+178 02.07.02 12.363.0035.2.0141.3.1.90.13.00.00 Patronais 100 60.000,00
+
+182 02.07.02 12.363.0035.2.0141.3.3.90.30.00.00 Consumo 100 4.000,00
+
+183 02.07.02 12.363.0035.2.0141.3.3.90.36.00.00 Pessoa Física 100 60.000,00
+
+184 02.07.02 12.363.0035.2.0141.3.3.90.39.00.00 Jurídica 100 13.000,00
+
+185 02.07.02 12.363.0035.2.0141.4.4.90.52.00.00 Permanente 100 5.000,00
+
+186 02.07.02 12.363.0038.2.0435.3.3.90.39.00.00 Jurídica 100 14.000,00 Subvenções 187 02.07.02 12.364.0036.2.0144.3.3.50.43.00.00 sociais 100 10.000,00 Auxilio Financeiro a 188 02.07.02 12.364.0036.2.0144.3.3.90.18.00.00 Estudantes 100 50.000,00
+
+189 02.07.02 12.366.0034.2.0131.3.1.90.04.00.00 Determinado 100 95.000,00
+
+191 02.07.02 12.366.0034.2.0131.3.1.90.13.00.00 Patronais 100 80.000,00
+
+y 194 02.07.02 12.366.0034.2.0131.3.3.90.30.00.00 Consumo 100 5.000,00 / Equipamentos
+
+198 02.07.02 12.366.0034.2.0131.4.4.90.52.00.00 Permanente 100 5.000,00
+
+366 02.10.01 04.122.0011.2.0021.3.3.90.14.00.00 Pessoal Civil 100 5.000,00
+
+367 02.10.01 04.122.0011.2.0021.3.3.90.30.00.00 Consumo 100 8.000,00
+
+370 02.10.01 04.122.0011.2.0021.3.3.90.39.00.00 Pessoa 100 5.000,00 Prefeitura Municipal de Iturama Av. Alexandrita, 1314 —Jardim Eldorado Telefone (34) 3411 9500 CEP 38.280-000 (7.NP.1 18,457.242/0001-.74 1TURAMA — MINAS GERAIS
+
+rrültÂNIA Oc, ,LVA. “,/11P00 ITURAMA/MG
+
+Adm: 2621/2024.
+
+Jurídica
+
+Obras e 371 02.10.01 04.122.0011.2.0021.4.4.90.51.00.00 Instalações 100 22.000,00
+
+372 02.10.01 04.122.0011.2.0021.4.4.90.52.00.00 Permanente 100 10.000,00 Obras e 373 02.10.02 15.122.0071.1.0072.4.4.90.51.00.00 Instalações 100 10.000,00
+
+378 02.10.02 15.122.0071.2.0201.3.3.90.14.00.00 Pessoal Civil 100 5.000,00
+
+381 02.10.02 15.122.0071.2.0201.3.3.90.35.00.00 Consultoria 100 12.780,00
+
+383 02.10.02 15.122.0071.2.0201.3.3.90.39.00.00 Jurídica 100 22.057,92 Obras e 384 02.10.02 15.122.0071.2.0201.4.4.90.51.00.00 Instalações 100 10.000,00
+
+399 02.10.03 15.452.0072.2.0211.3.3.90.30.00.00 Consumo 100 57.071,04
+
+401 02.10.03 15.452.0072.2.0211.3.3.90.36.00.00 Pessoa Física 100 19.000,00
+
+402 02.10.03 15.452.0072.2.0211.3.3.90.39.00.00 Jurídica 100 800.000,00
+
+411 02.10.04 26.782.0073.2.0221.3.3.90.30.00.00 Consumo 100 9.013,92 Obras e 415 02.10.04 26.782.0073.2.0221.4.4.90.51.00.00 Instalações 100 10.000,00
+
+,/ 416 02.10.04 26.782.0073.2.0221.4.4.90.52.00.00 Permanente 100 10.000,00
+
+537 02.13.01 04.122.0011.2.0023.3.1.90.04.00.00 Determinado 100 35.000,00 Vencimentos e Vantagens Fixas - 538 02.13.01 04.122.0011.2.0023.3.1.90.11.00.00 Pessoal Civil 100 15.000,00
+
+539 02.13.01 04.122.0011.2.0023.3.1.90.13.00.00 Patronais 100 60.000,00 Prefeitura Municipal de iturama —Av. Alexandrita, 1314 —Jardim Eldorado Telefone (34) 3411 9500 CEP 38.280-000 -- CNP118.457.242/0001-74
+
+ITURAMA 1TURAMANIG
+
+Adm: 2021/2024.
+
+541 02.13.01 04.122.0011.2.0023.3.3.90.14.00.00 Pessoal Civil 100 10.000,00
+
+542 02.13.01 04.122.0011.2.0023.3.3.90.30.00.00 Consumo 100 10.000,00 Passagens e Despesas com 543 02.13.01 04.122.0011.2.0023.3.3.90.33.00.00 locomoção 100 5.000,00
+
+544 02.13.01 04.122.0011.2.0023.3.3.90.36.00.00 Pessoa Física 100 30.000,00
+
+545 02.13.01 04.122.0011.2.0023.3.3.90.39.00.00 Jurídica 100 70.000,00
+
+546 02.13.01 04.122.0011.2.0023.4.4.90.52.00.00 Permanente 100 , 10.000,00
+
+548 02.13.01 27.812.0091.2.0241.3.1.90.04.00.00 Determinado 100 20.000,00
+
+553 02.13.01 27.812.0091.2.0241.3.3.90.30.00.00 Consumo 100 10.000,00 Premiações Culturais Artísticas Cientificas Desportivas e 554 02.13.01 27.812.0091.2.0241.3.3.90.31.00.00 Outras 100 8.000,00 Material Bem ou Serviço para Distribuição 555 02.13.01 27.812.0091.2.0241.3.3.90.32.00.00 Gratuita 100 10.000,00 Passagens e Despesas com V 556 02.13.01 27.812.0091.2.0241.3.3.90.33.00.00 locomoção 100 7.000,00
+
+557 02.13.01 27.812.0091.2.0241.3.3.90.36.00.00 Pessoa Física 100 28.000,00
+
+558 02.13.01 27.812.0091.2.0241.3.3.90.39.00.00 Jurídica 100 5.624,11 Prefeitura Municipal de iturama — Av. poexandrita, 1314 — Jardim Eldorado Telefone (34) 3411 9500 CEP 38.280-000 CAM 18,457.242/0001-74
+
+Prefeitura de 74\* ITURAMA 1,,,U10,1VC GE FA 5,5lTA DO ITURAMA/MG
+
+.4(1m: 2021/2024.
+
+559 02.13.01 27.812.0091.2.0241.4.4.90.52.00.00 Permanente 100 10.000,00 , Vencimentos e Vantagens Fixas - 561 02.13.01 27.813.0091.2.0447.3.1.90.11.00.00 Pessoal Civil 100 50.000,00
+
+562 02.13.01 27.813.0091.2.0447.3.1.90.13.00.00 Patronais 100 8.000,00 Obras e 566 02.13.01 27.813.0091.2.0447.4.4.90.51.00.00 Instalações 100 10.000,00
+
+573 02.14.01 04.122.0011.2.0024.3.3.90.14.00.00 Pessoal Civil 100 4.500,00
+
+590 02.15.01 04.122.0011.2.0025.3.3.90.39.00.00 Jurídica 100 7.500,00
+
+591 02.15.01 04.122.0011.2.0025.4.4.90.52.00.00 Permanente 100 5.000,00 Obras e 592 02.15.02 20.605.0018.1.0053.4.4.90.51.00.00 Instalações 100 10.000,00
+
+593 02.15.02 20.605.0131.2.0300.3.1.90.04.00.00 Determinado 100 7.000,00 Vencimentos e Vantagens Fixas - 594 02.15.02 20.605.0131.2.0300.3.1.90.11.00.00 Pessoal Civil 100 5.000,00
+
+595 02.15.02 20.605.0131.2.0300.3.1.90.13.00.00 Patronais 100 5.000,00
+
+601 02.15.02 20.605.0131.2.0300.3.3.90.36.00.00 Pessoa Física 100 56.100,00
+
+/ Terceiros -
+
+602 02.15.02 20.605.0131.2.0300.3.3.90.39.00.00 Jurídica 100 3.221,37 Obras e 603 02.15.02 20.605.0131.2.0300.4.4.90.51.00.00 Instalações 100 5.000,00 605 02.15.02 20.606.0018.2.0300.3.3.50.41.00.00 Contribuições 100 30.850,00 Vencimentos e Vantagens 607 02.15.02 04.122.0013.2.0063.3.1.90.11.00.00 Fixas - 100 10.000,00 Prefeitura Municipal de Iturama — Av. Alexandrita, 1314 —Jardim Eldorado Telefone (34) 3411 9500 CEP 38.280-000 CAPI18,457.242/0001-74
+
+IT til 10.0.01C .34 A r•, TIE 3.1.00 1TURAMA/MG
+
+Adn 2021/2024.
+
+Pessoal Civil
+
+608 02.15.02 04.122.0013.2.0063.3.1.90.13.00.00 Patronais 100 5.000,00
+
+611 02.15.02 04.122.0013.2.0063.3.3.90.30.00.00 Consumo 100 8.000,00
+
+614 02.15.02 04.122.0013.2.0063.3.3.90.39.00.00 Jurídica 100 5.000,00 Obras e 625 02.16.01 23.122.0011.2.0026.4.4.90.51.00.00 Instalações 100 5.000,00
+
+626 02.16.01 23.122.0011.2.0026.4.4.90.52.00.00 Permanente 100 8.000,00
+
+632 02.16.01 23.691.0012.2.0046.3.3.90.30.00.00 Consumo 100 8.000,00
+
+635 02.16.01 23.691.0012.2.0046.3.3.90.39.00.00 Jurídica 100 10.000,00
+
+636 02.16.01 23.691.0012.2.0046.4.4.90.52.00.00 Permanente 100 5.000,00 Vencimentos e Vantagens Fixas - 638 02.16.01 23.691.0152.2.0425.3.1.90.11.00.00 Pessoal Civil 100 5.000,00
+
+641 02.16.01 23.691.0152.2.0425.3.3.90.14.00.00 Pessoal Civil 100 5.000,00
+
+642 02.16.01 23.691.0152.2.0425.3.3.90.30.00.00 Consumo 100 10.000,00 Passagens e Despesas com Z 643 02.16.01
+
+646 02.16.01 23.691.0152.2.0425.3.3.90.33.00.00 locomoção Obras e 23.691.0152.2.0425.4.4.90.51.00.00 Instalações 100 5.000,00
+
+100 5.000,00
+
+647 02.16.01 23.691.0152.2.0425.4.4.90.52.00.00 Permanente 100 5.000,00
+
+649 02.17.01 04.122.0011.2.0027.3.1.90.13.00.00 Patronais 100 40.000,00
+
+652 02.17.01 04.122.0011.2.0027.3.3.90.30.00.00 Consumo 100 15.000,00
+
+Prefeitura Municipal de iturama — Av. Alexandrita„ 1314 —jardim Eldorado Telefone 04) 3411 9500 CEP 38.2.80.000 CNP318.4.57.242/0001-74
+
+ITURAMA/MG
+
+Adrn: 2021/2024.
+
+655 02.17.01 04.122.0011.2.0027.3.3.90.39.00.00 Jurídica 100 10.000,00
+
+656 02.17.01 04.122.0011.2.0027.4.4.90.52.00.00 Permanente 100 10.000,00 Obras e 657 02.17.01 13.392.0100.1.0020.4.4.90.51.00.00 Instalações 100 10.000,00 Subvenções 662 02.17.01 13.392.0100.2.0261.3.3.50.43.00.00 sociais 100 25.000,00
+
+664 02.17.01 13.392.0100.2.0261.3.3.90.30.00.00 Consumo 100 15.000,00 Premiações Culturais Artísticas Cientificas Desportivas e 665 02.17.01 13.392.0100.2.0261.3.3.90.31.00.00 Outras 100 10.000,00 Material Bem ou Serviço para Distribuição 666 02.17.01 13.392.0100.2.0261.3.3.90.32.00.00 Gratuita 100 5.000,00 Passagens e Despesas com 667 02.17.01 13.392.0100.2.0261.3.3.90.33.00.00 locomoção 100 5.000,00
+
+669 02.17.01 13.392.0100.2.0261.3.3.90.39.00.00 Jurídica 100 20.000,00
+
+670 02.17.01 13.392.0100.2.0261.4.4.90.52.00.00 Permanente 100 5.000,00 Vencimentos e Vantagens Fixas - 671 02.18.01 13.391.0100.2.0265.3.1.90.11.00.00 Pessoal Civil 100 10.000,00
+
+672 02.18.01 13.391.0100.2.0265.3.1.90.13.00.00 Patronais 100 9.000,00
+
+674 02.18.01 13.391.0100.2.0265.3.3.90.14.00.00 Pessoal Civil 100 5.000,00
+
+675 02.18.01 13.391.0100.2.0265.3.3.90.30.00.00 Consumo 100 28.500,00
+
+Prefeitura Municipal de iturama — Av. Alexandrita, 1314 —Jardim Eldorado Telefone (34) 3411 9500 —CEP 38.280-000 CNPJ 18.457.242/0001-74
+
+et.tttrytn Prefeitura de ITU RAMA ITURA.MA/MG
+
+Adm: 2021/2024.
+
+677 02.18.01 13.391.0100.2.0265.3.3.90.36.00.00 Pessoa Física 100 89.500,00
+
+678 02.18.01 13.391.0100.2.0265.3.3.90.39.00.00 Jurídica 100 28.500,00 Obras e 679 02.18.01 13.391.0100.2.0265.4.4.90.51.00.00 Instalações 100 10.000,00
+
+680 02.18.01 13.391.0100.2.0265.4.4.90.52.00.00 Permanente 100 5.000,00 684 02.19.01 23.695.0095.2.0251.3.3.50.41.00.00 Contribuições 100 5.000,00
+
+688 02.19.01 23.695.0095.2.0251.3.3.90.36.00.00 Pessoa Física 100 10.000,00
+
+690 02.19.01 23.695.0095.2.0251.4.4.90.52.00.00 Permanente 100 5.000,00
+
+691 02.19.01 23.695.0095.2.0448.3.1.90.04.00.00 Determinado 100 5.000,00
+
+695 02.19.01 23.695.0095.2.0448.3.3.90.36.00.00 Pessoa Física 100 8.500,00
+
+696 02.19.01 23.695.0095.2.0448.3.3.90.39.00.00 Jurídica 100 5.948,26
+
+698 02.19.01 23.695.0095.2.0448.4.4.90.52.00.00 Permanente 100 10.000,00
+
+703 02.20.01 08.122.0011.2.0028.3.3.90.14.00.00 Pessoal Civil 100 9.500.00
+
+709 02.20.01 08.122.0011.2.0028.4.4.90.52.00.00 Permanente 100 10.000,00
+
+764 02.20.01 08.243.0153.2.0279.3.1.90.13.00.00 Patronais 100 20.000,00
+
+769 02.20.01 08.243.0153.2.0279.3.3.90.36.00.00 Terceiros - 100 5.000,00 Prefeitura Municipal de iturama — Av. Alexandrita, 1314 Jardim Eldorado Telefone (36)34.11 9500 CEP 38.280-000 CN PI 18.457.242/0001-74
+
+ITURA MA IRAI,A1,40 OUL °CPA PeSJITADO ITURAMA/MG
+
+Adm: 2021/2024.
+
+Pessoa Física
+
+772 02.20.01 08.243.0153.2.0279.4.4.90.52.00.00 Permanente 100 5.000,00
+
+810 02.20.01 08.244.0154.2.0275.4.4.90.52.00.00 Permanente 100 5.000,00 Aquisição de 863 02.20.01 16.482.0071.1.0021.4.5.90.61.00.00 Imóveis 100 10.000,00 Subvenções 864 02.21.01 08.243.0153.2.0299.3.3.50.43.00.00 sociais 100 70.000,00
+
+865 02.21.01 08.243.0153.2.0299.3.3.90.14.00.00 Pessoal Civil 100 5.000,00
+
+876 02.22.01 04.122.0011.2.0029.3.3.90.30.00.00 Consumo 100 37.711,80
+
+897 02.19.01 23.695.0095.2.0451.3.3.90.30.00.00 Consumo 100 5.000,00 Obras e 900 02.19.01 23.695.0095.2.0251.4.4.90.51.00.00 Instalações 100 5.000,00
+
+904 02.06.02 06.183.0012.2.0452.3.3.90.30.00.00 Consumo 100 10.000,00
+
+905 02.06.02 06.183.0012.2.0452.3.3.90.39.00.00 Jurídica 100 30.000,00 ' Premiações Culturais Artísticas Cientificas Desportivas e 906 02.06.02 06.183.0012.2.0452.3.3.90.31.00.00 Outras 100 10.000,00 Material Bem ou Serviço para Distribuição 907 02.06.02 06.183.0012.2.0452.3.3.90.32.00.00 Gratuita 100 10.000,00
+
+920 02.20.01 08.122.0157.2.0455.3.1.90.13.00.00 Patronais 100 5.000,00 Subvenções 946 02.20.01 08.244.0155.2.0458.3.3.50.43.00.00 sociais 100 12.000,00
+
+948 02.20.01 08.244.0155.2.0458.3.3.90.30.00.00 Consumo 100 10.000,00 Material Bem ou Serviço 949 02.20.01 08.244.0155.2.0458.3.3.90.32.00.00 para 100 10.000,00 Prefeitura Municipal de Iturama — Av. Alexandrita, 1314 —Jardim Eldorado Telefone (34) 3411 9500 CEP 38,280-000 CNRI 18.457.242/0001-74 rfURAMA — MINAS GERAIS
+
+ITURAMA IPAIBAL4C CIA,A. IT URAMA/MG
+
+Aft: 2021/2024.
+
+1Distribuição Gratuita
+
+955 02.20.01 08.244.0155.2.0458.4.4.90.52.00.00 Permanente 100 10.000,00
+
+959 02.20.01 08.244.0155.2.0460.3.1.90.04.00.00 Determinado 100 33.000,00 Vencimentos e Vantagens Fixas - 960 02.20.01 08.244.0155.2.0460.3.1.90.04.00.00 Pessoal Civil 100 12.000,00
+
+962 02.20.01 08.244.0155.2.0460.3.1.90.13.00.00 Patronais 100 14.500,00 Subvenções 963 02.20.01 08.244.0155.2.0460.3.3.50.43.00.00 sociais 100 65.000,00 Obras e 971 02.20.01 08.244.0155.2.0460.4.4.90.51.00.00 Instalações 100 16.000,00
+
+973 02.20.01 08.244.0155.2.0461.3.1.90.04.00.00 Determinado 100 22.000,00 Vencimentos e Vantagens Fixas - 974 02.20.01 08.244.0155.2.0461.3.1.90.11.00.00 Pessoal Civil 100 10.000,00
+
+975 02.20.01 08.244.0155.2.0461.3.1.90.11.00.00 Patronais 100 7.500,00 Material Bem ou Serviço para Distribuição 981 02.20.01 08.244.0155.2.0461.3.3.90.32.00.00 Gratuita 100 10.500,00
+
+982 02.20.01 08.244.0155.2.0461.3.3.90.36.00.00 Pessoa Física 100 5.800,00
+
+v Serviços de
+
+983 02.20.01 08.244.0155.2.0461.3.3.90.39.00.00 Jurídica 100 12.358,30
+
+Auxílios Financeiros a Pessoas 984 02.20.01 08.244.0155.2.0461.3.3.90.48.00.00 Físicas 100 10.000.00
+
+Prefeitura Municipal de Iturama Alexandrita, 1314 —Jardim Eldorado Telefone (34) 3411 9500 CEP $8.280-000 MR118.457.2.42/0001-74
+
+ORGIAtIIVii, PI, Prefeitura de ITU RAMA -IPAPAI.PC 116.5..” PO ITURAMA/1VIG
+
+Min: 2021/2024.
+
+985 02.20.01 08.244.0155.2.0461.4.4.90.52.00.00 Permanente 100 5.000,00 TOTAL 4.803.054,59
+
+**Art. 3°** Revogadas as disposições em contrário, a presente Lei entrará em vigor na data da sua publicação.
+
+Iturama/MG, 29 de novembro de 2.021.
+
+CLAUDIO FREITAS Prefeito do zo de Iturama/MG.
+
+Autor: Poder Executivo.
+
+Prefeitura Municipal Iturama — Av. Alexandrita, 1314 — Jardim Eldorado Telefone (34) 3411 9500 COP 38.280-000 CNN 18.457.242/0001-74 ITURAMA — MINAS GERAS
