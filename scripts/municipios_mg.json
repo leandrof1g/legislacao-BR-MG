@@ -56,7 +56,7 @@
    "sapl_manual": false
   },
   "3103405": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Araçuaí",
    "normas_na_fonte": 651,
    "pasta": "aracuai",
@@ -272,7 +272,7 @@
    "sapl_manual": false
   },
   "3113305": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Carangola",
    "normas_na_fonte": 1,
    "pasta": "carangola",
@@ -326,7 +326,7 @@
    "sapl_manual": false
   },
   "3116605": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Cláudio",
    "normas_na_fonte": 57,
    "pasta": "claudio",
@@ -569,7 +569,7 @@
    "sapl_manual": false
   },
   "3131901": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Itabirito",
    "normas_na_fonte": 5241,
    "pasta": "itabirito",
@@ -587,7 +587,7 @@
    "sapl_manual": false
   },
   "3132503": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Itamarandiba",
    "normas_na_fonte": 11,
    "pasta": "itamarandiba",
@@ -632,7 +632,7 @@
    "sapl_manual": false
   },
   "3134400": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Iturama",
    "normas_na_fonte": 9498,
    "pasta": "iturama",
@@ -1037,7 +1037,7 @@
    "sapl_manual": false
   },
   "3151503": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Piumhi",
    "normas_na_fonte": 4728,
    "pasta": "piumhi",
@@ -1055,7 +1055,7 @@
    "sapl_manual": false
   },
   "3152006": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Pompéu",
    "normas_na_fonte": 0,
    "pasta": "pompeu",
@@ -1136,7 +1136,7 @@
    "sapl_manual": false
   },
   "3157203": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Santa Bárbara",
    "normas_na_fonte": 85,
    "pasta": "santa-barbara",

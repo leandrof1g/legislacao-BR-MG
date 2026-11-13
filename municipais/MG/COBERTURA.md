@@ -4,7 +4,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 
 | Município | População | Fonte automática | Normas no acervo | Carga inicial |
 | --- | ---: | --- | ---: | :---: |
-| Belo Horizonte | 2.315.560 | **sem fonte automática** | 35183 | — |
+| Belo Horizonte | 2.315.560 | **sem fonte automática** | 35190 | — |
 | Uberlândia | 713.224 | **sem fonte automática** | 0 | — |
 | Contagem | 621.863 | SAPL ([sapl.contagem.mg.leg.br](https://sapl.contagem.mg.leg.br)) | 3637 | completa |
 | Juiz de Fora | 540.756 | **sem fonte automática** | 0 | — |
@@ -68,11 +68,11 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Pirapora | 55.606 | SAPL ([sapl.pirapora.mg.leg.br](https://sapl.pirapora.mg.leg.br)) | 0 | completa |
 | Três Pontas | 55.255 | **sem fonte automática** | 0 | — |
 | Extrema | 53.482 | **sem fonte automática** | 0 | — |
-| Itabirito | 53.365 | SAPL ([sapl.itabirito.mg.leg.br](https://sapl.itabirito.mg.leg.br)) | 4787 | em andamento |
+| Itabirito | 53.365 | SAPL ([sapl.itabirito.mg.leg.br](https://sapl.itabirito.mg.leg.br)) | 4847 | completa |
 | Congonhas | 52.890 | SAPL ([sapl.congonhas.mg.leg.br](https://sapl.congonhas.mg.leg.br)) | 9158 | completa |
 | São Francisco | 52.762 | SAPL ([sapl.saofrancisco.mg.leg.br](https://sapl.saofrancisco.mg.leg.br)) | 2996 | completa |
 | Campo Belo | 52.277 | SAPL ([sapl.campobelo.mg.leg.br](https://sapl.campobelo.mg.leg.br)) | 0 | completa |
-| Bom Despacho | 51.737 | SAPL ([sapl.bomdespacho.mg.leg.br](https://sapl.bomdespacho.mg.leg.br)) | 2098 | em andamento |
+| Bom Despacho | 51.737 | SAPL ([sapl.bomdespacho.mg.leg.br](https://sapl.bomdespacho.mg.leg.br)) | 2143 | em andamento |
 | Lagoa da Prata | 51.412 | SAPL ([sapl.lagoadaprata.mg.leg.br](https://sapl.lagoadaprata.mg.leg.br)) | 5566 | completa |
 | Leopoldina | 51.145 | **sem fonte automática** | 0 | — |
 | Guaxupé | 50.911 | **sem fonte automática** | 0 | — |
@@ -93,38 +93,38 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Boa Esperança | 39.848 | **sem fonte automática** | 0 | — |
 | Capelinha | 39.626 | **sem fonte automática** | 0 | — |
 | Oliveira | 39.262 | **sem fonte automática** | 0 | — |
-| Visconde do Rio Branco | 39.160 | SAPL ([sapl.viscondedoriobranco.mg.leg.br](https://sapl.viscondedoriobranco.mg.leg.br)) | 1107 | em andamento |
+| Visconde do Rio Branco | 39.160 | SAPL ([sapl.viscondedoriobranco.mg.leg.br](https://sapl.viscondedoriobranco.mg.leg.br)) | 1420 | em andamento |
 | Brumadinho | 38.915 | **sem fonte automática** | 0 | — |
 | Caeté | 38.776 | **sem fonte automática** | 0 | — |
 | Ouro Branco | 38.724 | **sem fonte automática** | 0 | — |
-| Iturama | 38.295 | SAPL ([sapl.iturama.mg.leg.br](https://sapl.iturama.mg.leg.br)) | 6279 | em andamento |
+| Iturama | 38.295 | SAPL ([sapl.iturama.mg.leg.br](https://sapl.iturama.mg.leg.br)) | 9306 | completa |
 | Mateus Leme | 37.841 | **sem fonte automática** | 0 | — |
 | Machado | 37.684 | SAPL ([sapl.machado.mg.leg.br](https://sapl.machado.mg.leg.br)) | 0 | completa |
 | Jaíba | 37.660 | **sem fonte automática** | 0 | — |
 | Matozinhos | 37.618 | SAPL ([sapl.matozinhos.mg.leg.br](https://sapl.matozinhos.mg.leg.br)) | 3 | completa |
 | Porteirinha | 37.438 | **sem fonte automática** | 0 | — |
-| Sarzedo | 36.844 | SAPL ([sapl.sarzedo.mg.leg.br](https://sapl.sarzedo.mg.leg.br)) | 389 | em andamento |
-| Piumhi | 36.062 | SAPL ([sapl.piumhi.mg.leg.br](https://sapl.piumhi.mg.leg.br)) | 3318 | em andamento |
+| Sarzedo | 36.844 | SAPL ([sapl.sarzedo.mg.leg.br](https://sapl.sarzedo.mg.leg.br)) | 650 | em andamento |
+| Piumhi | 36.062 | SAPL ([sapl.piumhi.mg.leg.br](https://sapl.piumhi.mg.leg.br)) | 4731 | completa |
 | Nanuque | 35.038 | **sem fonte automática** | 0 | — |
 | São Joaquim de Bicas | 34.348 | **sem fonte automática** | 0 | — |
-| Araçuaí | 34.297 | SAPL ([sapl.aracuai.mg.leg.br](https://sapl.aracuai.mg.leg.br)) | 456 | em andamento |
+| Araçuaí | 34.297 | SAPL ([sapl.aracuai.mg.leg.br](https://sapl.aracuai.mg.leg.br)) | 636 | completa |
 | Várzea da Palma | 33.744 | **sem fonte automática** | 0 | — |
 | Taiobeiras | 33.050 | **sem fonte automática** | 0 | — |
-| Itamarandiba | 32.948 | SAPL ([sapl.itamarandiba.mg.leg.br](https://sapl.itamarandiba.mg.leg.br)) | 1 | em andamento |
+| Itamarandiba | 32.948 | SAPL ([sapl.itamarandiba.mg.leg.br](https://sapl.itamarandiba.mg.leg.br)) | 11 | completa |
 | Guanhães | 32.244 | **sem fonte automática** | 0 | — |
-| Ouro Fino | 32.094 | SAPL ([sapl.ourofino.mg.leg.br](https://sapl.ourofino.mg.leg.br)) | 7 | em andamento |
+| Ouro Fino | 32.094 | SAPL ([sapl.ourofino.mg.leg.br](https://sapl.ourofino.mg.leg.br)) | 469 | em andamento |
 | Brasília de Minas | 32.025 | **sem fonte automática** | 0 | — |
-| Carangola | 31.240 | SAPL ([sapl.carangola.mg.leg.br](https://sapl.carangola.mg.leg.br)) | 0 | em andamento |
-| Pompéu | 31.047 | SAPL ([sapl.pompeu.mg.leg.br](https://sapl.pompeu.mg.leg.br)) | 0 | em andamento |
+| Carangola | 31.240 | SAPL ([sapl.carangola.mg.leg.br](https://sapl.carangola.mg.leg.br)) | 1 | completa |
+| Pompéu | 31.047 | SAPL ([sapl.pompeu.mg.leg.br](https://sapl.pompeu.mg.leg.br)) | 0 | completa |
 | Barão de Cocais | 30.778 | **sem fonte automática** | 0 | — |
 | Além Paraíba | 30.717 | **sem fonte automática** | 0 | — |
 | Juatuba | 30.716 | **sem fonte automática** | 0 | — |
-| Santa Bárbara | 30.466 | SAPL ([sapl.santabarbara.mg.leg.br](https://sapl.santabarbara.mg.leg.br)) | 17 | em andamento |
+| Santa Bárbara | 30.466 | SAPL ([sapl.santabarbara.mg.leg.br](https://sapl.santabarbara.mg.leg.br)) | 84 | completa |
 | Espinosa | 30.443 | **sem fonte automática** | 0 | — |
-| Cláudio | 30.159 | SAPL ([sapl.claudio.mg.leg.br](https://sapl.claudio.mg.leg.br)) | 1 | em andamento |
-| Rio Pardo de Minas | 28.271 | SAPL ([sapl.riopardodeminas.mg.leg.br](https://sapl.riopardodeminas.mg.leg.br)) | 6 | em andamento |
-| Espera Feliz | 24.102 | SAPL ([sapl.esperafeliz.mg.leg.br](https://sapl.esperafeliz.mg.leg.br)) | 1 | em andamento |
-| Monte Santo de Minas | 20.890 | SAPL ([sapl.montesantodeminas.mg.leg.br](https://sapl.montesantodeminas.mg.leg.br)) | 1 | em andamento |
+| Cláudio | 30.159 | SAPL ([sapl.claudio.mg.leg.br](https://sapl.claudio.mg.leg.br)) | 52 | completa |
+| Rio Pardo de Minas | 28.271 | SAPL ([sapl.riopardodeminas.mg.leg.br](https://sapl.riopardodeminas.mg.leg.br)) | 518 | em andamento |
+| Espera Feliz | 24.102 | SAPL ([sapl.esperafeliz.mg.leg.br](https://sapl.esperafeliz.mg.leg.br)) | 86 | em andamento |
+| Monte Santo de Minas | 20.890 | SAPL ([sapl.montesantodeminas.mg.leg.br](https://sapl.montesantodeminas.mg.leg.br)) | 163 | em andamento |
 | Campestre | 20.696 | SAPL ([sapl.campestre.mg.leg.br](https://sapl.campestre.mg.leg.br)) | 5 | em andamento |
 | Manhumirim | 20.613 | SAPL ([sapl.manhumirim.mg.leg.br](https://sapl.manhumirim.mg.leg.br)) | 2 | em andamento |
 | Águas Formosas | 18.448 | SAPL ([sapl.aguasformosas.mg.leg.br](https://sapl.aguasformosas.mg.leg.br)) | 2 | em andamento |
