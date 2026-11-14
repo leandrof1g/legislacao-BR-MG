@@ -1,0 +1,82 @@
+---
+titulo: "Lei Ordinária nº 2169, de 24/11/2023"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2169"
+data: "2023-11-24"
+ementa: "AUTORIZA ABERTURA DE CRÉDIТО ADICIONAL SUPLEMENTAR E DÅ OUTRAS PROVIDÊNCIAS."
+municipio: "Campestre"
+uf: "MG"
+codigo_ibge: "3111002"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.campestre.mg.leg.br/norma/283"
+fonte_texto: "https://sapl.campestre.mg.leg.br/media/sapl/public/normajuridica/2023/283/lei-2.169-24-de-novembro-de-2023.pdf"
+sha256_fonte: "06026c0bc941d565038996120fd0b08746c4c83e59d667597d736a516e2cea47"
+baixado_em: "2026-11-14"
+---
+
+# Lei Ordinária nº 2169, de 24/11/2023
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI ORDINÁRIA MUNICIPAL Nº 2169 DE 24 DE NOVEMBRO DE 2023.
+
+AUTORIZA ABERTURA DE CREDI TO ADICIONAL SUPLEMENTAR E DÁ OUTRAS PROVIDÊNCIAS.
+
+O PREFEITO MUNICIPAL, MARCO ANTÔNIO MESSIAS FRANCO, no uso de suas atribuições legais, faz saber que Câmara Municipal de Vereadores, aprovou e ele sanciona a seguinte lei:
+
+**Art. 1º** - Fica o Chefe do Poder Executivo do Município de CAMPESTRE/Estado de Minas Gerais, autorizado a abrir Crédito Adicional Suplementar de acordo com o Artigo 43, combinado com o Artigo 46 da Lei Federal 4.320/64, no valor total de R$1.789.700,00(um milhão, setecentos e oitenta e nove mil e setecentos reais), para atender despesa com as seguintes dotações orçamentária e respectivas fontes de
+
+recursos:
+
+PROCURADORIA MUNICIPAL
+
+| FICHA FONTE VALOR 41 1.500.000 R$ 6.000,00 42 1.500.000 R$ 1.000,00 SECRETARIA DE GOVERNO FICHA FONTE VALOR 58 1.500.000 R$: 6.000,00 59 1.500.000 R$ 1.500,00 SECRETARIA FAZENDA FICHA FONTE VALOR 83 1.500.000 R$ 28.000,00 84 1.500.000 R$ 5.800,00 SECRETARIA ADMINISTRAÇÃO FICHA FONTE VALOR 99 1.500.000 R$ 7.000,00 100 1.500.000 R$ 1.500,00 SECRETARIA DE PLANEJAMENTO 110 1.500.000 R$ 18.000,00 11 1.500.000 R$ 3.900,00
+
+PREFEITURA MUNICIPAL DE CAMPESTRE — ESTADO DE MINAS GERAIS
+
+Rua Coronel José Custódio nº 84 - CENTRO CEP.:37.730-000 TELEFONE: 3743-1950
+
+— SECRETARIA DE ESPORTE 426 1.500.000 R$ 2.000,00 427 1.500.000 R$ 350,00
+
+R$ 1.789.700,00
+
+**Art. 2º** - Para suportar os créditos adicionais suplementar autorizado no artigo 1º, serão utilizados as anulações das dotações do orçamento vigente a fim de atender nos termos do artigo 43, parágrafo 1º da Lei 4320/64.
+
+SECRETARIA DE GOVERNO FICHA | FONTE VALOR 53 - 1.500.000 R$ 3.000,00 54 | 1.500.000 | R$ 3.000,00 | SECRETARIA FAZENDA — FICHA FONTE VALOR 97 | 1.500.000 R$ 360.000,00 SECRETARIA DE DESENVOLVIMENTO ECONOMICO FICHA FONTE VALOR “140. | 1.500.000 R$ 1.560,00 144 1.500.000 R$ 2.000,00 SECRETARIA DE DESENVOLVIMENTO | — SOCIAL | 174 | 1.500.000 | R$ 1.999,00 | SECRETARIA DE SAÚDE 210 1.500.000 R$ 1.000,00 212 1.500.000 R$ 2.300,00 219 | 1.500.000 R$ 21.000,00 222 1.500.000 R$ 1.000,00 226 1.500.000 R$ 12.000,00 | 235 1.600.000 R$ 155.000,00 | 243 1.500.000 R$ 10.000,00 244 1.500.000 R$ 6.000,00 247 1.500.000 R$ 200.000,00 251 1.500.000 R$ 36.000,00 252 1.500.000 R$ 16.000,00 J 256 | 1.500.000 R$ 15.800,00 SECRETARIA DE EDUCAÇÃO . 284 | 1.540.000 || R$ 30.000,00
+
+PREFEITURA MUNICIPAL DE CAMPESTRE — ESTADO DE MINAS GERAIS
+
+- Rua Coronel José Custódio nº 84 - CENTRO CEP.:37.730-000 TELEFONE: 3743-1950 |
+
+Ent “Tg Sd Ee SECRETARIA DE DESENVOLVIMENTO URBANO 116 1.500.000 R$ 4.000,00 117 1.500.000 R$ 1.600,00 SECRETARIA DE DESENVOLVIMENTO o SOCIAL 150 1.500.000 R$ 11.000,00 151 1.500.000 R$ 1.700,00 SECRETARIA DE SAÚDE 220 1.600.000 R$ 5.000,00 221 1.500.000 R$ 32.000,00 229 1.500.000 R$ 60.000,00 229 “1.600.000 R$ 150.000,00 231 1.500.000 R$ 35.000,00 253 1.500.000 R$ 1.200,00
+
+"SECRETARIA DE EDUCAÇÃO
+
+269 1.500.000 R$ 11.000,00 283 1.500.000 R$ 296.000,00 283 1.540.000 R$ 524.700,00 284 | 1.500.000 R$ 11.000,00 291 1.500.000 R$ 35.000,00 29] 1.540.000 R$ 255.000,00 292 1.500.000 R$ 7.000,00 292 1.540.000 R$ 48.000,00 298 1.540.000 R$ 82.000,00 299 1.500.000 R$ 3.000,00 299 1.540.000 R$ 24.000,00 305 1.500.000 R$ 79.000,00 306 1.500.000 R$ 13.000,00 SECRETARIA DE SERVIÇOS URBANOS 326 1.500.000 R$ 3.000,00 327 1.500.000 R$ 700,00 337 1.500.000 R$ 9.000,00 338 1.500.000 R$ 2.400,00 347 1.500.000 R$ 2.000,00 348 1.500.000 R$ 200,00 SECRETARIA DE OBRAS 380 1.500.000 R$ 1.000,00 381 1.500.000 R$ 150,00
+
+PREFEITURA MUNICIPAL DE CAMPESTRE - ESTADO DE MINAS GERAIS
+
+Rua Coronel José Custódio nº 84 - CENTRO CEP.:
+
+37.730-000
+
+TELEFONE: 3743-1950
+
+| t
+
+289 1,500,000 R$ 8.341,00 305 1.540.000 R$ 734.500,00 306 1.540.000 R$ 139.200,00 316 1.540.000 R$ 30.000,00 R$ 1.789.700,00
+
+**Art. 3º** Esta Lei entra em vigor na data de. sua publicação.
+
+Prefeitura Municipal de Campestre, 24 de Novembro de 2023.
+
+Nr
+
+MARCO ANTÔNIO MESSIAS FRANCO
+
+Prefeito Municipal
+
+PREFEITURA MUNICIPAL DE CAMPESTRE - ESTADO DE MINAS GERAIS
+
+Rua Coronel José Custódio nº 84 -— CENTRO CEP.: 37.730-000 TELEFONE: 3743-1950

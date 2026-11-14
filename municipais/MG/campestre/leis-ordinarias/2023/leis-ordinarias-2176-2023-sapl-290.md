@@ -1,0 +1,128 @@
+---
+titulo: "Lei Ordinária nº 2176, de 14/12/2023"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2176"
+data: "2023-12-14"
+ementa: "AUTORIZA ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Campestre"
+uf: "MG"
+codigo_ibge: "3111002"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.campestre.mg.leg.br/norma/290"
+fonte_texto: "https://sapl.campestre.mg.leg.br/media/sapl/public/normajuridica/2023/290/lei-2.176-14-de-dezembro-de-2023.pdf"
+sha256_fonte: "15751b8e21c6ea68a81bd398e82ac08751ea284f324b3da0411911be354fb05a"
+baixado_em: "2026-11-14"
+---
+
+# Lei Ordinária nº 2176, de 14/12/2023
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI ORDINÁRIA Nº 2176 DE 14 DE DEZEMBRO DE 2023.
+
+AUTORIZA ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR E DÁ OUTRAS PROVIDÊNCIAS.
+
+O PREFEITO MUNICIPAL, MARCO ANTÔNIO MESSIAS FRANCO, no uso de suas atribuições legais, faz saber que Câmara Municipal de Vereadores, aprovou e ele sanciona a seguinte lei:
+
+**Art. 1º** - Fica o Chefe do Poder Executivo do Município de CAMPESTRE/Estado de Minas Gerais, autorizado a abrir Crédito Adicional Suplementar de acordo com o Artigo 43, combinado com o Artigo 46 da Lei Federal 4.320/64, no valor total de R$1.051.000,00(um milhão, cinquenta e um mil reais), para atender despesa com as seguintes dotações orçamentária e respectivas fontes de recursos:
+
+. PROCURADORIA MUNICIPAL
+
+40 1.501.000 R$ 100.000,00 41 1.500.000 R$ 1.000,00 SECRETARIA DE GOVERNO.
+
+58 1.500.000 R$ 1.000,00 62 1.501.000 R$ 5.000,00 SECRETARIA FAZENDA |
+
+83 1.500.000 R$ 1.000,00 88 1.500.000 R$ 30.900,00 SECRETARIA ADMINISTRAÇÃO
+
+104 1.500.000 R$ 1.500,00 SECRETARIA DE PLANEJAMENTO
+
+110 1.500.000 R$ 2.500,00 SECRETARIA DE DESENVOLVIMENTO URBANO
+
+116 1.500.000 R$ 1.000,00 SECRETARIA DE DESENVOLVIMENTO ECONOMICO
+
+Rua Coronel José Custódio nº 84 - CENTRO CEP.:37.730-000 TELEFONE: 3743-1950
+
+122 1.500.000 R$ 11.000,00 123 1.500.000 R$ 3.000,00
+
+SECRETARIA DE DESENVOLVIMENTO SOCIAL
+
+150 1.500.000 R$ 1.000,00 SECRETARIA DE EDUCAÇÃO
+
+268 1.500.000 R$ 50.000,00 269 1.500.000 R$ 10.000,00 283 1.500.000 R$ 372.000,00 284 1.500.000 R$:80.000,00 291 1.500.000 R$ 100.000,00 292 1.500.000 R$ 21.000,00 298 1.500.000 R$ 50.000,00 299 1.500.000 R$ 11.000,00 305 1.500.000 . R$ 145.000,00 306 1.500.000 R$ 30.000,00
+
+SECRETARIA DE SERVIÇOS URBANOS
+
+326 1.500.000 R$ 1.500,00 337 1.500.000 R$ 1.000,00 347 1.500.000 R$ 1.000,00
+
+SECRETARIA DE ESPORTE
+
+404 1.500.000 R$ 1.000,00 416 1.501.000 R$ 17.600,00 426 1.500.000 R$ 1.000,00
+
+R$ 1.051.000,00
+
+**Art. 2º** - Para suportar os créditos adicionais suplementar autorizado no artigo 1º, serão usados as anulações das dotações do orçamento vigente a fim de atender nos termos do artigo 43, parágrafo 1º da Lei 4320/64.
+
+SECRETARIA DE GOVERNO
+
+63 1.500.000 R$ 7.000,00 74 1.500.000 R$ 2.389,80 75 1.500.000 R$ 4.032,70 76 1.500.000 R$ 4.525,00
+
+SECRETARIA FAZENDA FICHA FONTE | VALOR
+
+Rua Coronel José Custódio nº 84 — CENTRO CEP.:37.730-000 TELEFONE: 3743-1950
+
+95 || 1500000 | | R$70.000,00 SECRETARIA DE ADMINISTRAÇÃO
+
+102 1.500.000 R$ 4.000,00 SECRETARIA DE DESENVOLVIMENTO ECONOMICO
+
+126 1.500.000 R$ 2.000,00 136 1.500.000 R$ 5.000,00 149 1.500.000 R$ 4.000,00
+
+SECRETARIA DE DESENVOLVIMENTO SOCIAL
+
+153 1.500.000 R$ 4.000,00 177 1.500.000 R$ 20.000,00 200 1.500.000 R$ 8.370,00
+
+SECRETARIA DE SAÚDE
+
+203 1.500.000 R$ 100.000,00 219 1.500.000 R$ 100.000,00 220 1.500.000 R$ 70.000,00 229 1.500.000 R$ 50.000,00 230 1.500.000 R$ 150.000,00 242 1.500.000 R$ 2.000,00 248 1.500.000 R$ 1.000,00 257 1.500.000 R$ 22.600,00
+
+SECRETARIA DE EDUCAÇÃO
+
+262 1.500.000 R$ 1.933,61 263 1.500.000 R$ 7.135,96 267 1.500.000 R$ 1.933,61 278 1.500.000 R$ 1.000,00 285 1.500.000 R$ 40.000,00 288 1.500.000 R$ 30.000,00 289 1.500.000 R$ 10.000,00 300 1.500.000 R$ 17.000,00
+
+SECRETARIA DE SERVIÇOS URBANOS
+
+320 1.500.000 R$ 4.000,00 321 1.500.000 R$ 12.000,00 322 1.500.000 R$ 4.000,00 324 1.501.000 R$ 100.000,00 325 1.500.000 R$ 8.000,00 ; 328 1.500.000 R$ 16.479,32 À
+
+Rua Coronel José Custódio nº 84 - CENTRO CEP.:37.730-000 TELEFONE: 3743-1950
+
+333 1.500.000 R$ 5.000,00
+
+335 1.500.000 R$ 5.000,00
+
+339 1.500.000 R$ 35.000,00
+
+341 1.500.000 R$ 23.000,00
+
+354 1.500.000 R$ 5.000,00 SECRETARIA DE OBRAS
+
+355 1.500.000 R$ 15.000,00 360 1.500.000 R$ 9.000,00 366 1.500.000 R$ 2.000,00 373 1.500.000 R$ 6.000,00 375 1.500.000 R$ 2.000,00 377 1.500.000 R$ 7.000,00 378 1.500.000 R$ 1.000,00 383 1.501.000 R$ 22.600,00
+
+SECRETARIA DE TRANSPORTE.
+
+388 1.500.000 R$ 4.000,00 389 1.500.000 R$ 8.000,00
+
+SECRETARIA DE ESPORTES
+
+397 1.500.000 R$ 8.000,00 407 1.500.000 R$ 5.000,00 410 1.500.000 R$ 4.000,00
+
+R$ 1.051.000,00
+
+**Art. 3º** Esta Lei entra em vigor na data de suá pubkcação.
+
+Prefeitura Municipal de Campestre, 14 de dezembro de 2023.
+
+NÃ
+
+| V MARCO ANTÔNIO ts AS FRANCO Prefeito Municipal
+
+Rua Coronel José Custódio nº 84 — CENTRO CEP.:37.730-000 TELEFONE: 3743-1950
