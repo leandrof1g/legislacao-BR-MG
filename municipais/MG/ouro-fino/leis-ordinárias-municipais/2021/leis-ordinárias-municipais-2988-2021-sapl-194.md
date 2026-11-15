@@ -1,0 +1,190 @@
+---
+titulo: "Leis Ordinárias Municipais nº 2988, de 25/11/2021"
+tipo: "Leis Ordinárias Municipais"
+tipo_na_fonte: "Leis Ordinárias Municipais"
+numero: "2988"
+data: "2021-11-25"
+ementa: "Autoriza a abertura de crédito suplementar, em favor de Unidades Orçamentários do Executivo Municipal, para fins que especifica"
+municipio: "Ouro Fino"
+uf: "MG"
+codigo_ibge: "3146008"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.ourofino.mg.leg.br/norma/194"
+fonte_texto: "https://sapl.ourofino.mg.leg.br/media/sapl/public/normajuridica/2021/194/lei_2.988_abertura_de_credito_suplementar_1.pdf"
+sha256_fonte: "c5d100c4d8b9212f93b5c3732ab9f8071e859265808e276370c4e14c93b4f806"
+baixado_em: "2026-11-15"
+---
+
+# Leis Ordinárias Municipais nº 2988, de 25/11/2021
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI Nº 2.988/2021
+
+Autoriza a abertura de crédito suplementar, em favor de Unidades Orçamentárias do Executivo Municipal, para os fins que especifica.
+
+Henrique Rossi Wolf, Prefeito do Município de Ouro Fino - MG, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprova e ele sanciona a seguinte Lei: ni
+
+**Art. 1º** Fica autorizado a abertura de crédito suplementar em favor da Educação Básica - FUNDEB, no valor de R$ 808.430,00 (oitocentos e oito mil e quatrocentos e trinta reais), com as seguintes dotações:
+
+ESPECIFICAÇÃO FICHA | CÓD APLIC VALOR |
+
+3190 04 - CONTRATAÇÃO POR TEMPO DETERMINADO 171 01.018.001 32.180,00 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 172 | 01.018.001 700.000,00
+
+02.05.04.12.365.0008.2040 - MANUTENÇÃO ATIVIDADES DE CRECHE MUNICIPAL 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 180 | 01.018.001 30.920,00 3190 13 - OBRIGAÇÕES PATRONAIS |. 181 01.018.001 15.000,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 183 | 01.019.001 5.130,00 02.05.04.12.367.0009.2049 - MANUTENÇÃO DA EDUCAÇÃO ESPECIAL INFANTIL | 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 195 | 01.018.001 12.000,00 | 3190 13 - OBRIGAÇÕES PATRONAIS 196 | 01.018.001 2.300,00 02.05.04.12.367.0010.2050 - MANUTENÇÃO EDUCAÇÃO ESPECIAL FUNDAMENTAL 3190 13 - OBRIGAÇÕES PATRONAIS |. 199 | 01.018.001 9.000,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 200 | 01.019.001 1.900,00 TOTAL 808.430,00 |
+
+**Art. 2º** Os recursos necessários à abertura do crédito de que trata o artigo anterior, decorrem da anulação das seguinte dotações orçamentárias, conforme o disposto no inciso Ill do 8 1º do artigo 43, da Lei Federal nº 4.320/1964:
+
+ESPECIFICAÇÃO FICHA | CÓDAPLIC | VALOR
+
+02.05.04.12.361.0010.1038 - OBRAS MELHORIA ESCOLAS ENSINO FUNDAMENTAL
+
+4490 51 - OBRAS E INSTALAÇÕES 826 | 01.019.001 48.000,00 | 02.05.04.12.361.0011.2039 - TRANSPORTE ESCOLAR DO ENSINO FUNDAMENTAL
+
+3390 39 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 178 | 01.019.001 3.300,00 | 02.05.04.12.365.0008.1036 - OBRAS DE MELHORIA EM CRECHES MUNICIPAIS |
+
+4490 51 - OBRAS E INSTALAÇÕES 827 | 01.019.001 28.200,00 0205.04.12365.0009.1037 - OBRAS DE MELHORIA ESCOLAS EDUCAÇÃO INFANTIL
+
+4490 51 - OBRAS E INSTALAÇÕES 828 | 01.019.001 16.760,00 02.05.04.12.365.0009.2041 - MANUTENÇÃO ATIVIDADES DE EDUCAÇÃO INFANTIL |
+
+3190 04 - CONTRATAÇÃO POR TEMPO DETERMINADO 184 | 01.018.001 190.000,00 |
+
+3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 185 | 01.018.001 360.000,00 |
+
+3190 13 - OBRIGAÇÕES PATRONAIS 186 | 01.018.001 85.920,00 |
+
+ESPECIFICAÇÃO FICHA | CÓD APLIC VALOR | 3390 46 - AUXÍLIO ALIMENTAÇÃO 188 01.019.001 44.000,00 | 02.05,04.12.366.0010.2044 - MANUTENÇÃO DA EDUCAÇÃO DE JOVENS E | ADULTOS | 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 189 | 01.018.001 10.000,00 | 3190 13 - OBRIGAÇÕES PATRONAIS | 190 | 01.018.001 2.100,00 | 3390 46 - AUXÍLIO ALIMENTAÇÃO 191 01.019.001 E! 02.04.04.12.367.0008.2048 - MANUTENÇÃO DA EDUCAÇÃO ESPECIAL EM CRECHE 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 192 01.018.001 13.200,00 | 3190 13 - OBRIGAÇÕES PATRONAIS 193 | 01.018.001 3.000,00 | 3390 46 - AUXÍLIO ALIMENTAÇÃO 194 01.019.001 1.670,00 | TOTAL 808.430,00 |
+
+**Art. 3º** Fica autorizado a abertura de crédito suplementar em favor da Educação Básica - FUNDEB, no valor de R$ 305.000,00 (trezentos e cinco mil reais), com as seguintes dotações:
+
+ESPECIFICAÇÃO FICHA | CÓD APLIC VALOR |
+
+3190 13 - OBRIGAÇÕES PATRONAIS 173 | 01.018.001 200.000,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 175 | 01.019.001 40.000,00
+
+02.05.04.12.365.0008.2040 - MANUTENÇÃO ATIVIDADES DE CRECHE MUNICIPAL 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 180 | 01.018.001 29.000,00 | 02.05.04 .12.367.0010.2050 - MANUTENÇÃO EDUCAÇÃO ESPECIAL FUNDAMENTAL ita 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 198 | 01.018.001 36.000,00 | TOTAL 305.000,00 |
+
+**Art. 4º** Os recursos necessários à abertura do crédito de que trata O artigo anterior, decorrem do excesso de arrecadação, considerando a tendência do exercício, apurado nas fontes e destinações de recursos 18 - Transferências do FUNDEB para Aplicação na Remuneração dos Profissionais da Educação Básica em Efetivo Exercício, no valor de R$ 265.000,00 (duzentos e sessenta e cinco mil reais) e 19 - Transferências do FUNDEB para Aplicação em Outras Despesas da Educação Básica, no valor de R$ 40.000,00 (quarenta mil reais), conforme o disposto no inciso Il do $ 1º e 8 3º, do artigo 43, da Lei Federal nº 4.320/1964, cic o parágrafo único do artigo 8º e inciso | do artigo 50, da Lei Complementar nº 101/2000.
+
+**Art. 5º** Fica autorizado a abertura de crédito suplementar em favor do Fundo Municipal de Saúde, no valor de R$ 648.300,00 (seiscentos e quarenta e oito mil e trezentos reais), com as seguintes dotações:
+
+ESPECIFICAÇÃO FICHA | CÓD APLIC VALOR | a - MANUTENÇÃO ATIVIDADES DAS UNIDADES DE | 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 889 | 01.059.026 325.000,00 | 3190 13 - OBRIGAÇÕES PATRONAIS 890 | 01.059.026 80.000,00 3190 16 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 891 | 01.059.026 30.000,00 | 3390 46 - AUXÍLIO ALIMENTAÇÃO 892 | 01.059.026 10.000,00 02.06.04.10.301.0014.2066 - MANUT. SERVIÇOS ESTRATÉGIA SAÚDE DA FAMÍLIA
+
+|
+
+ESPECIFICAÇÃO FICHA | CÓD APLIC VALOR 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 845 | 01.059.003 150.000,00 3190 13 - OBRIGAÇÕES PATRONAIS 846 | 01.059.003 35.000,00 3190 16 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 780 | 01.059.003 15.000,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 301 | 01.059.003 3.300,00 TOTAL 648.300,00 |
+
+**Art. 6º** Os recursos necessários à abertura do crédito de que trata o artigo anterior, decorrem do excesso de arrecadação, considerando a tendência do exercício, apurado na fonte e destinação de recursos 59 - Transferência de Recursos do Sistema Único de Saúde - SUS - Bloco de Manutenção das Ações e Serviços Públicos de Saúde, conforme o disposto no inciso Il do $ 1º e 8 3º, do artigo 43, da Lei Federal nº 4.320/1964, c/c o
+
+parágrafo único do artigo 8º e inciso | do artigo 50, da Lei Complementar nº 101/2000.
+
+**Art. 7º** Esta Lei entra em vigor na data de sua publicação.
+
+Ouro Fino, 25 de Novembro de 2021.
+
+/
+
+HENRIQUE ROSSI WOLF Prefeito Municipal
+
+26/11/2021 11:25 Prefeitura de Ouro Fino
+
+ESTADO DE MINAS GERAIS PREFEITURA DE OURO FINO
+
+PROCURADORIA GERAL DO MUNICÍPIO LEGISLAÇÃO MUNICIPAL
+
+LEINº 2.988/2021
+
+Autoriza a abertura de crédito suplementar, em favor de Unidades Orçamentárias do Executivo Municipal, para os fins que
+
+especifica.
+
+Henrique Rossi Wolf, Prefeito do Município de Ouro Fino - MG, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprova e ele
+
+sanciona a seguinte Lei:
+
+**Art. 1º** Fica autorizado a abertura de crédito suplementar em favor da Educação Básica - FUNDEB, no valor de R$ 808.430,00 (oitocentos e oito mil
+
+e quatrocentos e trinta reais), com as seguintes dotações:
+
+(ESPECIFICAÇÃO FICHA CÓD APLIC VALOR 02.05.04.12.361.0010.2038 - MANUTENÇÃO ATIVIDADES ENSINO FUNDAMENTAL
+
+3190 04 - CONTRATAÇÃO POR TEMPO DETERMINADO 171 01.018.001 32.180,00 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 172 (01.018.001 700.000,00 (02.05.04.12.365.0008.2040 - MANUTENÇÃO ATIVIDADES DE CRECHE MUNICIPAL
+
+3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 180 01.018.001 30.920,00 3190 13 - OBRIGAÇÕES PATRONAIS 181 (01.018.001 15.000,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 183 01.019.001 5.130,00 (02.05.04.12.367.0009.2049 - MANUTENÇÃO DA EDUCAÇÃO ESPECIAL INFANTIL
+
+3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 195 01.018.001 12.000,00 3190 13 - OBRIGAÇÕES PATRONAIS 196 01.018.001 2.300,00 (02.05.04.12.367.0010.2050 - MANUTENÇÃO EDUCAÇÃO ESPECIAL FUNDAMENTAL
+
+3190 13 - OBRIGAÇÕES PATRONAIS 199 [01.018.001 9.000,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 200 01.019.001 1.900,00 TOTAL
+
+[808.430,00
+
+**Art. 2º** Os recursos necessários à abertura do crédito de que trata o artigo anterior, decorrem da anulação
+
+conforme o disposto no inciso III do $ 1º do artigo 43, da Lei Federal nº 4.320/1964:
+
+das seguinte dotações orçamentárias,
+
+[ESPECIFICAÇÃO FICHA CÓD APLIC VALOR 02.05.04.12.361.0010.1038 - OBRAS MELHORIA ESCOLAS ENSINO FUNDAMENTAL
+
+14490 51 - OBRAS E INSTALAÇÕES 826 01.019,001 48.000,00 (02.05.04.12.361.0011.2039 - TRANSPORTE ESCOLAR DO ENSINO FUNDAMENTAL
+
+3390 39 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 178 01.019.001 3.300,00 (02.05.04. 12.365.0008.1036 - OBRAS DE MELHORIA EM CRECHES MUNICIPAIS
+
+[4490 51 - OBRAS E INSTALAÇÕES 827 01.019.001 [28.200,00 (02.05.04.12.365.0009.1037 - OBRAS DE MELHORIA ESCOLAS EDUCAÇÃO INFANTIL
+
+14490 51 - OBRAS E INSTALAÇÕES 828 01.019.001 16.760,00 (02.05.04.12.365.0009.2041 - MANUTENÇÃO ATIVIDADES DE EDUCAÇÃO INFANTIL
+
+3190 04 - CONTRATAÇÃO POR TEMPO DETERMINADO 184 01.018.001 190.000,00 3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 185 01.018.001 360.000,00 3190 13 - OBRIGAÇÕES PATRONAIS 186 01.018.001 85.920,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 188 [01.019.001 144.000,00 02.05.04.12.366.0010.2044 - MANUTENÇÃO DA EDUCAÇÃO DE JOVENS E ADULTOS
+
+3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 189 01.018.001 10.000,00 3190 13 - OBRIGAÇÕES PATRONAIS 190 [01.018.001 2.100,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 191 01.019.001 2.280,00 (02.04.04.12.367.0008.2048 - MANUTENÇÃO DA EDUCAÇÃO ESPECIAL EM CRECHE
+
+3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 192 01.018.001 13.200,00 3190 13 - OBRIGAÇÕES PATRONAIS 193 01,018.001 3.000,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 194 01.019.001 1.670,00 TOTAL 808.430,00
+
+**Art. 3º** Fica autorizado a abertura de crédito suplementar em favor da Educação Básica - FUNDEB, no valor de R$ 305.000,00 (trezentos e cinco mil
+
+reais), com as seguintes dotações:
+
+(ESPECIFICAÇÃO
+
+FICHA
+
+CÓD APLIC
+
+VALOR
+
+httns:/Avww.diariomunicipal.com.br/amm-mg/materia/091 98A3B/03AGdBq27nPEd6UMPH2DgzmiFxzf3W. O2K8CSwnz3TMWOFgbmZXuagsPDb. gia
+
+1/2
+
+26/11/2021 11:25 Prefeitura de Ouro Fino
+
+3190 13 - OBRIGAÇÕES PATRONAIS 173 [o1.018.001 200.000,00
+
+3390 46 - auxílio alimentação 175 01.019.001 40.000,00 (02.05.04. 12.365.0008.2040 - MANUTENÇÃO ATIVIDADES DE CRECHE MUNICIPAL
+
+[3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 180 01.018.001 29.000,00
+
+(02.05.04.12.367.0010.2050 - MANUTENÇÃO EDUCAÇÃO ESPECIAL FUNDAMENTAL
+
+3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 198 01.018.001 36.000,00 TOTAL 305.000,00
+
+**Art. 4º** Os recursos necessários à abertura do crédito de que trata o artigo anterior, decorrem do excesso de arrecadação, considerando a tendência do exercício, apurado nas fontes e destinações de recursos 18 - Transferências do FUNDEB para Aplicação na Remuneração dos Profissionais da Educação Básica em Efetivo Exercício, no valor de R$ 265.000,00 (duzentos e sessenta e cinco mil reais) e 19 - Transferências do FUNDEB para Aplicação em Outras Despesas da Educação Básica, no valor de R$ 40.000,00 (quarenta mil reais), conforme o disposto no inciso II do $ 1º e $ 3º, do artigo 43, da Lei Federal nº 4.320/1964, c/c o parágrafo único do artigo 8º e inciso I do artigo 50, da Lei Complementar nº 101/2000.
+
+**Art. 5º** Fica autorizado a abertura de crédito suplementar em favor do Fundo Municipal de Saúde, no valor de R$ 648.300,00 (seiscentos e quarenta e oito mil e trezentos reais), com as seguintes dotações:
+
+(ESPECIFICAÇÃO FICHA CÓD APLIC VALOR [02.06,02.10.301.0013.2060 - MANUTENÇÃO ATIVIDADES DAS UNIDADES DE SAÚDE
+
+3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 889 01.059.026 325.000,00 3190 13 - OBRIGAÇÕES PATRONAIS 890 01.059.026 80.000,00 3190 16 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL [891 01.059.026 30.000,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 892 01.059.026 10.000,00 (02.06.04.10.301.0014.2066 - MANUT. SERVIÇOS ESTRATÉGIA SAÚDE DA FAMÍLIA
+
+3190 11 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL UU 845 01.059.003 150.000,00 3190 13 - OBRIGAÇÕES PATRONAIS 846 01.059.003 35.000,00 3190 16 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 780 [01.059,03 15.000,00 3390 46 - AUXÍLIO ALIMENTAÇÃO 301 [oi .059.003 3.300,00 TOTAL 648.300,00
+
+**Art. 6º** Os recursos necessários à abertura do crédito de que trata o artigo anterior, decorrem do excesso de arrecadação, considerando a tendência do exercício, apurado na fonte e destinação de recursos 59 - Transferência de Recursos do Sistema Único de Saúde - SUS - Bloco de Manutenção das Ações e Serviços Públicos de Saúde, conforme o disposto no inciso II do $ 1º e 8 3º, do artigo 43, da Lei Federal nº 4.320/1964, c/c o parágrafo único do artigo 8º e inciso I do artigo 50, da Lei Complementar nº 101/2000.
+
+**Art. 7º** Esta Lei entra em vigor na data de sua publicação. Ouro Fino, 25 de Novembro de 2021.
+
+HENRIQUE ROSSI WOLF Prefeito Municipal
+
+Publicado por: Silvana Prado de Sousa Código Identificador:09198A3B
+
+Matéria publicada no Diário Oficial dos Municípios Mineiros no dia 26/11/2021. Edição 3143 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: http:/Awww.diariomunicipal.com.br/amm-mg/
+
+https:/Awww.diariomunicipal.com.br/amm-mg/materia/091 98A3B/03AGdBq27nPEd6UMPH2DqzmlFxzf3W. O2K8CSwnz3TMWOFgbmZXuagsPDb cio 212

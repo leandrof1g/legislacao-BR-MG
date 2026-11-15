@@ -1,0 +1,84 @@
+---
+titulo: "Lei Ordinária nº 1984, de 28/11/2019"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1984"
+data: "2019-11-28"
+ementa: "AUTORIZA O PODER EXECUTIVO MUNICIPAL DE CAMPESTRE A DESTINAR RECURSOS ÀS ORGANIZAÇÕES DA SOCIEDADE CIVIL, DEFINIDAS NA LEI FEDERAL N° 13.019/2014, DE ACORDO СОМ О ART. 26 DA LEI COMPLEMENTAR 101 DE 2000, E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Campestre"
+uf: "MG"
+codigo_ibge: "3111002"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.campestre.mg.leg.br/norma/467"
+fonte_texto: "https://sapl.campestre.mg.leg.br/media/sapl/public/normajuridica/2019/467/lei-1.984-28-de-novembro-de-2019.pdf"
+sha256_fonte: "113530c00b4ef29e2bc5d8d56e59b73133f777e65e85f2f922076b64cfceccbb"
+baixado_em: "2026-11-15"
+---
+
+# Lei Ordinária nº 1984, de 28/11/2019
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+IS Prefeitura Municipal de Campestre
+
+Estado de Minas Gerais Rua Coronel José Custódio, 84, Centro Campestre e
+
+LEI Nº 1984, DE 28 DE NOVEMBRO DE 2019.
+
+AUTORIZA O PODER EXECUTIVO MUNICIPAL DE CAMPESTRE A
+
+PUBLICADO DOEMC | DESTINAR RECURSOS Às
+
+cimo MOC po ORGANIZAÇÕES DA SOCIEDADE
+
+lo Lago Franco Goa Ar j CIVIL, DEFINIDAS NA LEI FEDERAL Nº Secretária de Governo
+
+13.019/2014, DE ACORDO COM O ART. 26 DA LEI COMPLEMENTAR 101 DE 2000, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O Prefeito Municipal de Campestre —- MG, Sr. NIVALDO DONIZETE MUNIZ, no uso de suas atribuições legais, faço saber que a Câmara Municipal aprovou e eu sanciono, na forma do Art. 52 da Lei Orgânica do Município de
+
+Campestre, a seguinte Lei:
+
+**Art. 1º** Esta Lei autoriza o Poder Executivo Municipal de Campestre a destinar recursos do orçamento de 2019 às Organizações da Sociedade Civil, definidas na Lei Federal nº 13.019/2014 e no Decreto Municipal nº 89/2017, em atendimento ao que determina o art. 26 da Lei Complementar nº 101/2000.
+
+**Parágrafo único.** As Organizações da Sociedade Civil beneficiárias e os valores a serem destinados a cada uma delas, estão expressamente identificadas
+
+no Anexo | a esta Lei, parte integrante da mesma.
+
+**Art. 2º** Fica o Poder Executivo Municipal de Campestre autorizado a celebrar termo de colaboração e/ou de fomento, bem como seus respectivos aditivos
+
+com as Organizações da Sociedade Civil de que trata o artigo anterior.
+
+**Parágrafo único.** Os termos de colaboração serão realizados e fiscalizados de acordo com as normas definidas através da Lei nº 13.019/2014 e
+
+Decreto Municipal nº 89 de 2017.
+
+**Art. 3º** A transferência de recursos de que trata esta Lei, sem prejuízo às exigências definidas através da Lei Federal nº 13.019/2014 e Decreto Municipal
+
+nº 89/2017, fica condicionada a:
+
+ai Prefeitura Municipal de Campestre dé
+
+Estado de Minas Gerais dativo 0a Rua Coronel José Custódio, 84, Centro Campastrs é
+
+| — a existência e disponibilidade de recursos orçamentários e
+
+financeiros;
+
+Il — aprovação do plano de trabalho;
+
+Il — celebração de termo de colaboração e/ou fomento, mediante regular processo de chamamento público, observadas as hipóteses de dispensa e inexigibilidade estabelecidas nos artigos 30 e 31 da Lei Federal nº 13.019/2014 e artigos 34 e 35, do Decreto Municipal nº 89/2017.
+
+**Art. 4º** As Organizações da Sociedade Civil beneficiárias dos recursos públicos na forma desta Lei ficam obrigadas à fiscalização pela administração municipal, mediante regular prestação de contas, conforme disposto no contrato de parceria, na da Lei Federal nº 13.019/2014 e Decreto Municipal nº 89/2017.
+
+**Art. 5º** As despesas decorrentes da execução desta Lei serão suportadas através das dotações orçamentárias a serem previstas para o orçamento do ano de 2020.
+
+**Art. 6º** Esta Lei entra em vigor em 1º de janeiro de 2020.
+
+Campestre, 28 de Novembro de 2019.
+
+NAN Von
+
+NIVALDO DONIZETE MUNIZ
+
+Prefeito Municipal
