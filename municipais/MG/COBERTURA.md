@@ -72,7 +72,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Congonhas | 52.890 | SAPL ([sapl.congonhas.mg.leg.br](https://sapl.congonhas.mg.leg.br)) | 9158 | completa |
 | São Francisco | 52.762 | SAPL ([sapl.saofrancisco.mg.leg.br](https://sapl.saofrancisco.mg.leg.br)) | 2996 | completa |
 | Campo Belo | 52.277 | SAPL ([sapl.campobelo.mg.leg.br](https://sapl.campobelo.mg.leg.br)) | 0 | completa |
-| Bom Despacho | 51.737 | SAPL ([sapl.bomdespacho.mg.leg.br](https://sapl.bomdespacho.mg.leg.br)) | 2207 | em andamento |
+| Bom Despacho | 51.737 | SAPL ([sapl.bomdespacho.mg.leg.br](https://sapl.bomdespacho.mg.leg.br)) | 2237 | em andamento |
 | Lagoa da Prata | 51.412 | SAPL ([sapl.lagoadaprata.mg.leg.br](https://sapl.lagoadaprata.mg.leg.br)) | 5566 | completa |
 | Leopoldina | 51.145 | **sem fonte automática** | 0 | — |
 | Guaxupé | 50.911 | **sem fonte automática** | 0 | — |
@@ -103,7 +103,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Jaíba | 37.660 | **sem fonte automática** | 0 | — |
 | Matozinhos | 37.618 | SAPL ([sapl.matozinhos.mg.leg.br](https://sapl.matozinhos.mg.leg.br)) | 3 | completa |
 | Porteirinha | 37.438 | **sem fonte automática** | 0 | — |
-| Sarzedo | 36.844 | SAPL ([sapl.sarzedo.mg.leg.br](https://sapl.sarzedo.mg.leg.br)) | 1158 | em andamento |
+| Sarzedo | 36.844 | SAPL ([sapl.sarzedo.mg.leg.br](https://sapl.sarzedo.mg.leg.br)) | 1411 | em andamento |
 | Piumhi | 36.062 | SAPL ([sapl.piumhi.mg.leg.br](https://sapl.piumhi.mg.leg.br)) | 4731 | completa |
 | Nanuque | 35.038 | **sem fonte automática** | 0 | — |
 | São Joaquim de Bicas | 34.348 | **sem fonte automática** | 0 | — |
@@ -112,7 +112,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Taiobeiras | 33.050 | **sem fonte automática** | 0 | — |
 | Itamarandiba | 32.948 | SAPL ([sapl.itamarandiba.mg.leg.br](https://sapl.itamarandiba.mg.leg.br)) | 11 | completa |
 | Guanhães | 32.244 | **sem fonte automática** | 0 | — |
-| Ouro Fino | 32.094 | SAPL ([sapl.ourofino.mg.leg.br](https://sapl.ourofino.mg.leg.br)) | 1284 | em andamento |
+| Ouro Fino | 32.094 | SAPL ([sapl.ourofino.mg.leg.br](https://sapl.ourofino.mg.leg.br)) | 1824 | em andamento |
 | Brasília de Minas | 32.025 | **sem fonte automática** | 0 | — |
 | Carangola | 31.240 | SAPL ([sapl.carangola.mg.leg.br](https://sapl.carangola.mg.leg.br)) | 1 | completa |
 | Pompéu | 31.047 | SAPL ([sapl.pompeu.mg.leg.br](https://sapl.pompeu.mg.leg.br)) | 0 | completa |
@@ -122,10 +122,10 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Santa Bárbara | 30.466 | SAPL ([sapl.santabarbara.mg.leg.br](https://sapl.santabarbara.mg.leg.br)) | 84 | completa |
 | Espinosa | 30.443 | **sem fonte automática** | 0 | — |
 | Cláudio | 30.159 | SAPL ([sapl.claudio.mg.leg.br](https://sapl.claudio.mg.leg.br)) | 52 | completa |
-| Rio Pardo de Minas | 28.271 | SAPL ([sapl.riopardodeminas.mg.leg.br](https://sapl.riopardodeminas.mg.leg.br)) | 1211 | em andamento |
-| Espera Feliz | 24.102 | SAPL ([sapl.esperafeliz.mg.leg.br](https://sapl.esperafeliz.mg.leg.br)) | 444 | em andamento |
-| Monte Santo de Minas | 20.890 | SAPL ([sapl.montesantodeminas.mg.leg.br](https://sapl.montesantodeminas.mg.leg.br)) | 848 | em andamento |
-| Campestre | 20.696 | SAPL ([sapl.campestre.mg.leg.br](https://sapl.campestre.mg.leg.br)) | 688 | em andamento |
+| Rio Pardo de Minas | 28.271 | SAPL ([sapl.riopardodeminas.mg.leg.br](https://sapl.riopardodeminas.mg.leg.br)) | 1520 | em andamento |
+| Espera Feliz | 24.102 | SAPL ([sapl.esperafeliz.mg.leg.br](https://sapl.esperafeliz.mg.leg.br)) | 605 | em andamento |
+| Monte Santo de Minas | 20.890 | SAPL ([sapl.montesantodeminas.mg.leg.br](https://sapl.montesantodeminas.mg.leg.br)) | 1645 | em andamento |
+| Campestre | 20.696 | SAPL ([sapl.campestre.mg.leg.br](https://sapl.campestre.mg.leg.br)) | 1054 | em andamento |
 | Manhumirim | 20.613 | SAPL ([sapl.manhumirim.mg.leg.br](https://sapl.manhumirim.mg.leg.br)) | 2 | em andamento |
 | Águas Formosas | 18.448 | SAPL ([sapl.aguasformosas.mg.leg.br](https://sapl.aguasformosas.mg.leg.br)) | 2 | em andamento |
 | Alpinópolis | 18.300 | SAPL ([sapl.alpinopolis.mg.leg.br](https://sapl.alpinopolis.mg.leg.br)) | 41 | em andamento |

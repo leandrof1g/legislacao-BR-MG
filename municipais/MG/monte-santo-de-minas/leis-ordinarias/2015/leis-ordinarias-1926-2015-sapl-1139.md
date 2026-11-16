@@ -1,0 +1,370 @@
+---
+titulo: "Lei Ordinária nº 1926, de 02/02/2015"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "1926"
+data: "2015-02-02"
+ementa: "AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DO EXERCÍCIO DE 2015."
+municipio: "Monte Santo de Minas"
+uf: "MG"
+codigo_ibge: "3143203"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.montesantodeminas.mg.leg.br/norma/1139"
+fonte_texto: "https://sapl.montesantodeminas.mg.leg.br/media/sapl/public/normajuridica/2015/1139/1139_texto_integral.pdf"
+sha256_fonte: "e0f9eaeee00c104da2bcd7ad73c19d1c4a876b299010300dcf0b84a0881341d8"
+baixado_em: "2026-11-16"
+---
+
+# Lei Ordinária nº 1926, de 02/02/2015
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA MUNICIPAL DE MONTE SANTO DE MINAS Rua: Cel. Francisco Paulino da Costa, nº 205 — Bairro: Centro — CEP: 37958-000 Estado de Minas Gerais Fone: (35) 3591-1555 — Fax: (35) 3591-5100 CGC 18.241.372/0001-75
+
+Lei nº 1.926/15
+
+“Autoriza a Abertura de Crédito Especial no Orçamento do Exercício de 2015”
+
+A Câmara Municipal de Monte Santo de Minas, Estado de Minas Gerais, por seus representantes aprova, e eu,
+
+Prefeito Municipal, sanciono a seguinte lei:
+
+**Artigo 1º** - Fica a Prefeitura Municipal de Monte Santo de Minas, autorizada a abrir crédito especial, no montante
+
+de R$ 528.400,00, conforme dotações abaixo:
+
+RECURSO UNIÃO
+
+CONTA | 19.852.8
+
+SIGLA PAIF
+
+VALOR 8.400,00 X 12 = 100.800,00
+
+ABRANGÊNCIA COMUNITÁRIA
+
+UTILIZAÇÃO PROTEÇÃO SOCIAL BÁSICA
+
+NOME PROGRAMA ATENÇÃO INTEGRAL FAMÍLIA
+
+DOTAÇÃO 02 06 01 08 244 0805 2.169 | PROGRAMA ATENÇÃO INTEGRAL FAMILIA — PAIF
+
+CONTRATAÇÃO 319004 = 10.000,00
+
+VENCIMENTO 319011 = 50.000,00
+
+OBRIGAÇÃO | 319013 = 15.000,00
+
+MATERIAL DE CONSUMO 339030 = 10.800,00
+
+SERVÍÇO PESSOA FÍSICA 339036 = 5.000,00
+
+RECURSO UNIÃO
+
+CONTA 19.904-4
+
+SIGLA SCFV
+
+VALOR 33.000,00 X 4 = 132.000,00
+
+ABRANGÊNCIA COMUNITÁRIA
+
+UTILIZAÇÃO. PROTEÇÃO SOCIAL BÁSICA
+
+SERVIÇO CONVIVÊNCIA FORTALECIMENTO VÍNCULO
+
+NOME
+
+02 06 01 08 244 0805 2.170
+
+DOTAÇÃO . a SERVIÇO CONVIVÊNCIA FORTALECIMENTO VÍNCULO - SCFV
+
+CONTRATAÇÃO 319004 = 80.000,00
+
+VENCIMENTO 319011 = 6.000,00
+
+OBRIGAÇÃO 319013 = 6.000,00
+
+MATERIAL DE CONSUMO 339030 = 20.000,00
+
+SERVÍCÇO PESSOA FÍSICA 339036 = 10.000,00
+
+RECURSO UNIÃO
+
+CONTA 20.571-0
+
+SIGLA ACSUAS
+
+VALOR 80.000,00
+
+ABRANGÊNCIA COMUNITÁRIA
+
+UTILIZAÇÃO PROTEÇÃO SOCIAL BÁSICA
+
+NOME CAPACITAÇÃO PROFISSIONAL ACSUAS TRABALHO
+
+02 06 01 08 244 0805 2.171
+
+DOTAÇÃO , CAPACITAÇÃO PROFISSIONAL ACSUAS TRABALHO — ACSUAS
+
+CONTRATAÇÃO 319004 = 5.000,00
+
+VENCIMENTO 319011 = 5.000,00
+
+OBRIGAÇÃO
+
+319013 = 5.000,00
+
+MATERIAL DE CONSUMO
+
+339030 = 10.000,00
+
+SERVÍÇO PESSOA FÍSICA
+
+339036 = 5.000,00
+
+SERVIÇO PESSOA JURÍDICA
+
+339039 = 40.000,00
+
+EQUIPAMENTO
+
+RECURSO
+
+449052 = 10.000,00
+
+UNIÃO
+
+CONTA
+
+19.850-1
+
+SIGLA
+
+IGDPBF
+
+VALOR
+
+3.500,00 X 12 = 42.000,00
+
+ABRANGÊNCIA
+
+COMUNITÁRIA
+
+UTILIZAÇÃO
+
+PROTEÇÃO SOCIAL BÁSICA
+
+NOME
+
+INDICE GESTÃO DESCENTRALIZADA BOLSA
+
+DOTAÇÃO
+
+02 06 01 08 244 0805 2.172 INDICE GESTÃO DESCENTRALIZADA BOLSA — IGDPBF
+
+CONTRATAÇÃO
+
+319004 = 20.000,00
+
+VENCIMENTO
+
+319011 = 3.000,00
+
+OBRIGAÇÃO
+
+319013 = 3.000,00
+
+MATERIAL DE CONSUMO
+
+339030 = 5.000,00
+
+SERVÍÇO PESSOA FÍSICA
+
+339036 = 1.000,00
+
+SERVIÇO PESSOA JURÍDICA
+
+339039 = 5.000,00
+
+EQUIPAMENTO
+
+RECURSO
+
+449052 = 5.000,00
+
+UNIÃO
+
+CONTA
+
+19.849-8
+
+SIGLA
+
+BPC
+
+VALOR
+
+2.000,00
+
+ABRANGÊNCIA
+
+COMUNITÁRIA
+
+PROTEÇÃO SOCIAL BÁSICA
+
+UTILIZAÇÃO | |
+
+NOME
+
+REPASSE BENEFÍCIO PRESTAÇÃO CONTINUADA
+
+DOTAÇÃO
+
+02 06 01 08 244 0805 2.173 REPASSE BENEFÍCIO PRESTAÇÃO CONTINUADA - BPC
+
+MATERIAL DE CONSUMO
+
+339030 = 1.000,00
+
+SERVÍÇO PESSOA FÍSICA
+
+339036 = 500,00
+
+SERVIÇO PESSOA JURÍDICA
+
+RECURSO
+
+339039 = 500,00
+
+UNIÃO
+
+CONTA
+
+19.853-6
+
+SIGLA
+
+PAEFI
+
+VALOR
+
+6.500,00 X 12 = 78.000,00
+
+ABRANGÊNCIA
+
+COMUNITÁRIA
+
+UTILIZAÇÃO
+
+PROTEÇÃO SOCIAL ESPECIAL
+
+NOME
+
+PROGRAMA ATENÇÃO ESPECIAL FAMÍLIA
+
+DOTAÇÃO
+
+02 06 01 08 244 0805 2.174 PROGRAMA ATENÇÃO ESPECIAL FAMÍLIA — PAEFI
+
+CONTRATAÇÃO
+
+319004 = 60.000,00
+
+VENCIMENTO
+
+319011 = 1.000,00
+
+OBRIGAÇÃO
+
+319013 = 1.000,00
+
+MATERIAL DE CONSUMO
+
+339030 = 5.000,00
+
+SERVÍÇO PESSOA FÍSICA
+
+339036 = 1.000,00
+
+SERVIÇO PESSOA JURÍDICA
+
+339039 = 10.000,00
+
+RECURSO UNIÃO
+
+f
+
+CONTA 19.851-X
+
+SIGLA IGDSUAS
+
+— VALOR 1.500,00 X 12 = 18.000,00
+
+ABRANGÊNCIA COMUNITÁRIA
+
+UTILIZAÇÃO PROGRAMA GESTÃO SUAS
+
+NOME INDICE GESTÃO DESCENTRALIZADA SUAS
+
+DOTAÇÃO . 020601 08 244 0805 2.175 INDICE GESTAO DESCENTRALIZADA SUAS — IGDSUAS
+
+MATERIAL DE CONSUMO 339030 = 2.000,00
+
+SERVÍÇO PESSOA FÍSICA 339036 = 1.000,00
+
+EQUIPAMENTO 449052 = 5.000,00
+
+RECURSO ESTADO
+
+CONTA 19.718-1
+
+SIGLA CRAS
+
+VALOR 6.300,00 X 12 = 75.600,00
+
+ABRANGÊNCIA COMUNITÁRIA
+
+UTILIZAÇÃO PROTEÇÃO SOCIAL BÁSICA
+
+NOME CENTRO ASSISTENCIA PISO MINEIRO
+
+DOTAÇÃO 02 06 01 08 244 0805 2.176 CENTRO ASSISTENCIA PISO MINEIRO - CRAS
+
+CONTRATAÇÃO 319004 = 30.000,00
+
+VENCIMENTO 319011 = 2.800,00
+
+OBRIGAÇÃO 319013 = 2.800,00
+
+MATERIAL DE CONSUMO 339030 = 10.000,00
+
+SERVÍÇO PESSOA FÍSICA 339036 = 10.000,00
+
+INDENIZAÇÃO 449093 = 10.000,00
+
+**Artigo 2º** - Para atender a suplementação do artigo primeiro, fica autorizado a utilização do tipo do recurso abaixo
+
+discriminado, de acordo com a definição do parágrafo 1º do artigo 43 da Lei Federal nº 4.320/64:
+
+e o proveniente do superávit financeiro apurado em balanço patrimonial do exercício anterior, caracterizado como diferença positiva entre o ativo financeiro e o passivo financeiro, conjugando-se, ainda, o saldo de
+
+crédito adicional transferido e a operação de crédito a ele vinculada, no valor de 214.400,00.
+
+e o proveniente da anulação total de dotação orçamentária, autorizada em lei, das seguintes fichas
+
+orçamentárias, no valor de R$ 314.000,00.
+
+411 = 20.000,00 412 = 150.000,00 413 = 1.000,00
+
+414 = 1.000,00 415 = 1.000,00 416 = 10.000,00 417 = 1.000,00 418 = 1.000,00 419 = 1.000,00 420 = 1.000,00 421 = 1.000,00
+
+422 = 10.000,00 426 = 40.000,00 427 = 5.000,00 428 = 5.000,00 429 = 1.000,00 430 = 1.000,00 431 = 1.000,00 432 = 30.000,00 433 = 10.000,00 434 = 5.000,00 435 = 5.000,00
+
+436 = 1.000,00 437 = 10.000,00 466 = 1.000,00 467 = 500,00 468 = 500,00
+
+**Artigo 3º** - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário. Monte Santo de Minas, 02 de fevereiro de 2015.
+
+Militão ! Hnhde Paiva D
+
+Prefei unicipal
