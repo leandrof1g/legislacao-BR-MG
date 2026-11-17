@@ -1,0 +1,34 @@
+---
+titulo: "Ata de Reunião Ordinária nº 2467, de 21/09/2023"
+tipo: "Ata de Reunião Ordinária"
+tipo_na_fonte: "Ata de Reunião Ordinária"
+numero: "2467"
+data: "2023-09-21"
+ementa: "Ata Eletrônica da 2.467ª Sessão Pública Ordinária da 23ª Sessão Legislativa da 22ª Legislatura da Câmara Municipal de Manhumirim 21/09/2023."
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/3492"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2023/3492/ata_2467_-_21_09_2023_ok.pdf"
+sha256_fonte: "a09c6c59688874465d77d57314cb63dade3c07a7ca587398d476bbe4ce5c0826"
+baixado_em: "2026-11-17"
+---
+
+# Ata de Reunião Ordinária nº 2467, de 21/09/2023
+
+Ata Eletrônica da 2.467ª Sessão Pública Ordinária da 23ª Sessão Legislativa da 22ª Legislatura da Câmara Municipal de Manhumirim Identificação Básica: Tipo de Sessão: Ordinária; Abertura: 21/09/2023, às 19:30 horas; Encerramento: 22:30 horas. Mesa Diretora: Presidente: Anderson Vidal Soares / Dedé Motoboy / REPUBLICANOS; Vice-Presidente: Alexsandro Rodrigues de Souza / Lequinho da Van / PDT; Secretário: Alexandre de Jesus Nascimento / Xandinho / PT. Lista de Presença na Sessão: Alexsandro da Costa Lemos / Alexsandro Lemos / PR; Benísio Dias Arbuini / Benísio Enfermeiro / PDT; Darci Maria Braga da Cruz / Darci Braga / PTB; Anderson Vidal Soares / Dedé Motoboy / REPUBLICANOS; Rodrigo Aparecido Soares / Dr. Rodrigo Soares / MDB; Juliana da Silva Ananias / Juliana Ananias / PDT; Alexsandro Rodrigues de Souza / Lequinho da Van / PDT; Mário Sidney Nolasco Júnior / Mário Júnior / MDB; Sandro Ribeiro Gonçalves / Sandro / PTB; Edgar Dornelas Dutra / Sargento Edgar / PL; Alexandre de Jesus Nascimento / Xandinho / PT. Leitura Bíblica: feita pelo Vereador Mario Júnior. Leitura da ata da Sessão Pública anterior: Ordinária de 13 de setembro de 2023 é aprovada à unanimidade de votos, sem restrições. Correspondências: 1) Correspondência recebida de Renaldo de Freitas Mendes SINDSERV, que solicita cópia de Projeto de Lei do Piso da Enfermagem; 2) Recebida - Ofício Nº 356/2023-mpmg do Dr. Guilherme Ferreira Hack - promotor de justiça - Assunto: REITERA OS OFÍCIOS 204/2022 E 156/202.; 3) Correspondência recebida da Câmara dos Deputados - Assunto: Orçamento da União - informa recursos pagos ao Município referente ao Fundo Nacional de Desenvolvimento da Educação 26298; 4) Ofício Nº 052/2023 – Gabinete do Presidente da Câmara - encaminha requerimento aprovado na reunião de 12/09/2023; 5) Ofício Nº 053/2023 – Gabinete do Presidente da Câmara - Encaminha indicações aprovadas na reunião de 12/09/2023; 6) Recebida - Ofício Nº 092/2023 do Chefe de Defesa Civil Danilo Segal Cesar - Resposta ao Ofício N° 01/2023 da Câmara Municipal de Manhumirim; 7) Recebida - Ofício Nº 108/2023 - do prefeito municipal - Encaminha sanção de leis e informa que a proposição de
+
+lei Municipal n" 1875/2023, foi vetada conforme razões; a proposição de lei Municipal n" 1874/2023 foi sancionada sob a Lei Municipal n I873/2023 de 18 de agosto de 2023; a proposição de lei Municipal n" 1879/2023 foi sancionada sob a Lei Municipal n" 1.874/2023 de 13 de setembro de 2023; a proposição de lei Municipal n° 1880/2023 foi sancionada sob a Municipal n° 1.875/2023 de 13 de setembro de 2023 e a proposição de lei Complementar Municipal n" 37/2023 foi sancionada sob a Lei complementar Municipal n
+
+37/2023 de 13 de setembro de 2023; 8) Recebida - Atestado Médico - Interessado: Servidor Luciano de Oliv Egeno - 10 DIAS - Afastamento das atividades laborais - A partir do dia 1/09/2023; 9) Recebida - Ofício Nº 149/2023 - Interessado: Gabriel Nunes Mello - Secretário de Esportes - Assunto: Resposta ao Ofício 04/2023 de autoria do Vereador Mário Júnior. Matérias da Ordem do Dia: 1 - Veto Total a Proposição de Lei nº 1875 de 2023, Dispõe sobre os serviços de coleta de entulho em área urbana do município de Manhumirim - caçamba solidária. Neste momento o Sr. Presidente chama o Plenário para que as lideranças partidárias e a Comissão de Legislação e Justiça formem a Comissão Especial de Analise ao Veto do Prefeito Municipal à Proposição de Lei 1875, começando pelo representante da Comissão de Legislação e Justiça, Ver. Dr. Rodrigo Soares, que indica o Ver. Sargento Edgar para representar a comissão. A Verª Juliana pelo PDT indica o Ver. Lequinho. O Ver. Dr. Rodrigo Soares como líder do MDB indica o Ver. Sandro. A Ver. Darci líder do PTB indica o Ver. Alexsandro Lemos. Então o Sr. Presidente declara forma a Comissão Especial para análise do Veto, que fica assim formada pelos Senhores Vereadores: Sargento Edgar, Lequinho da Van, Sandro Ribeiro e Alexsandro Lemos. O Sr. Presidente faz a distribuição à Comissão Especial para analise do veto, nos termos do Regimento Interno, artigo 97, I, b. Também os artigos 224, 225, 226 e 227; 2 - Requerimento nº 66 de 2023, requer informações sobre patrimônio arquitetônico e histórico da cidade. Autor: Mário Sidney Nolasco Júnior; 3 - Requerimento nº 67 de 2023, requer informações sobre a Expomirim. Autor: Mário Sidney Nolasco Júnior. O autor faz encaminhamento dos seus requerimentos, que após serem submetidos em discussão e votação simbólica são aprovados a unanimidade de votos; 4 - Indicação nº 166 de 2023, Indica faixa de pedestre no Bairro Vila Rica. Autor: Lequinho da Van; 5 - Indicação nº 167 de 2023, indica construção de muro no bairro das mangueiras. Autor: Lequinho da Van; 6 - Indicação nº 169 de 2023, Indica limpeza do Estádio João Miguel de Oliveira. Autor: Mário Sidney Nolasco Júnior; 7 - Indicação nº 170 de 2023, Indica capacitação de funcionários em curso de manutenção e operação de roçadeiras a ser realizado pelo SENAR. Autor: Mário Sidney Nolasco Júnior; 8 - Indicação nº 172 de 2023, Indica melhorias de escola rural no Córrego dos Tavares. Autor: Darci Braga. Os autores fazem encaminhamentos de suas indicações, que após serem submetidas em discussão e votação simbólica são aprovadas a unanimidade de votos. O Sr. Presidente comunica o momento para os discursos do Grande Expediente, segundo o que determina o art. 22 do Regimento Interno da Câmara Municipal. Possui um orador inscrito. Vai à Tribuna o Sr. Quintino Borel Filho, que fala sobre Samu e Lixo. Posteriormente acontece ampla participação dos vereadores presentes, com seus respectivos pronunciamentos.
+
+Em seguida o Sr. Presidente declara encerrada esta Sessão e faz a Convocação dos vereadores para a próxima Sessão: Ordinária de 05 de outubro de 2023, às 19:30 horas. Encerramento: Manhumirim, em 21 de setembro de 2023, às 22:30 horas.
+
+Assinatura da Mesa Diretora da Sessão:
+
+Presidente: Anderson Vidal Soares / REPUBLICANOS
+
+Vice-Presidente: Alexsandro Rodrigues de Souza / PDT
+
+Secretário: Alexandre de Jesus Nascimento / PT

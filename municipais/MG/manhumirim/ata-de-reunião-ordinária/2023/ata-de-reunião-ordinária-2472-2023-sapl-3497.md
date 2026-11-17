@@ -1,0 +1,28 @@
+---
+titulo: "Ata de Reunião Ordinária nº 2472, de 16/11/2023"
+tipo: "Ata de Reunião Ordinária"
+tipo_na_fonte: "Ata de Reunião Ordinária"
+numero: "2472"
+data: "2023-11-16"
+ementa: "Ata Eletrônica da 2.472ª Sessão Pública Ordinária da 23ª Sessão Legislativa da 22ª Legislatura da Câmara Municipal de Manhumirim 16/11/2023."
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/3497"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2023/3497/ata_2472_-_16_11_2023_ok.pdf"
+sha256_fonte: "b2da9f4440486605e705edc81950aba878f7de1d4684a790e6258f4985d4c2f9"
+baixado_em: "2026-11-17"
+---
+
+# Ata de Reunião Ordinária nº 2472, de 16/11/2023
+
+Ata Eletrônica da 2.472ª Sessão Pública Ordinária da 23ª Sessão Legislativa da 22ª Legislatura da Câmara Municipal de Manhumirim Identificação Básica: Tipo de Sessão: Ordinária; Abertura: 16/11/2023, às 19:30 horas; Encerramento: 21:20 horas. Mesa Diretora: Presidida pelo Presidente: Anderson Vidal Soares / Dedé Motoboy / REPUBLICANOS; Vice-Presidida pelo Sandro Ribeiro Gonçalves / Sandro / PTB; e Secretário: Alexandre de Jesus Nascimento / Xandinho / PT. Lista de Presença na Ordem do Dia: Alexsandro da Costa Lemos / Alexsandro Lemos / PR; Anderson Vidal Soares / Dedé Motoboy / REPUBLICANOS; Benísio Dias Arbuini / Benísio Enfermeiro / PDT; Darci Maria Braga da Cruz / Darci Braga / PTB; Juliana da Silva Ananias / Juliana Ananias / PDT; Mário Sidney Nolasco Júnior / Mário Júnior / MDB; Sandro Ribeiro Gonçalves / Sandro / PTB; Edgar Dornelas Dutra / Sargento Edgar / PL; e Alexandre de Jesus Nascimento / Xandinho / PT. Leitura Bíblica: feita pelo Vereador Sandro Ribeiro. Leitura da ata da Sessão Pública anterior: Ordinária de 09 de novembro de 2023 é aprovada à unanimidade de votos. Correspondências: 1) Enviada - Ofício Nº 065/2023 - Interessado: Ver. Anderson Vidal - Assunto: encaminha as proposições de lei: 1.881, 1.882 e 1.883; 2) Recebida - Correspondência - Interessado: Ver. Lequinho da Van - Assunto: Justificativa ausência em reunião ordinária de 16 de novembro de 2023; 3) Enviada - Ofício Nº 066/2023 - Interessado: Ver. Anderson Vidal - Assunto: encaminha à Prefeitura os requerimentos aprovados na reunião de 09/11/2023; 4) Enviada - Ofício Nº 067/2023 - Interessado: Ver. Anderson Vidal - Assunto: encaminha à Prefeitura as indicações aprovadas na reunião de 09/11/2023; 5) Enviada - Ofício Nº 012/2023 - Interessado: Ver. Mário Júnior - Assunto: Solicita providências do prefeito, nos termos da lei municipal n. 1.850/22; 6) Recebida - Ofício Nº 905/2023 - Interessado: Secretaria de Estado de Saúde de Minas Gerais - Assunto: comunica a formalização do Convênio n°1321001323/2023, celebrado com o Consórcio Intermunicipal Multifinalitário CIS-VERDE; 7) Recebida - Correspondência - Interessado: Dyone Gerusa Butters Teixeira - Assunto: IN 001; 8) Recebida - Correspondência - Interessado: Ver. Dr. Rodrigo - Assunto: Justificativa ausência reunião de 16/11/23. Matérias da Ordem do Dia: 1 - Requerimento nº 74 de 2023, Requer informações sobre clinica prestadora de serviço de fisioterapia no Município de Manhumirim. Autor: Darci Braga; 2 - Requerimento nº 75 de 2023, Requer informações sobre aplicação do LOAS nas secretarias. Autor: Mário Sidney Nolasco Júnior; 3 - Requerimento nº 76 de 2023, Requer reunião
+
+com o SAAE e estudo dos resultados do Senso IBGE no ano de 2023. Autor: Xandinho. Estes requerimentos são submetidos em discussão e votação simbólica, sendo aprovados a unanimidade de votos; 4 - Indicação nº 191 de 2023, Indica estudo para contratação de empresa especializada na produção de imagens aéreas de nosso município. Autor: Mário Sidney Nolasco Júnior; 5 - Indicação nº 192 de 2023, Indica Construção de Bancos no Campo Jobalu no Córrego Poço Fundo. Autor: Sargento Edgar; 6 - Indicação nº 193 de 2023, Indica construção de caixas de contenção no terreno aos fundos da Escola Normal Santa Teresinha. Autor: Xandinho. Estas indicações são submetidas em discussão e votação simbólica, sendo aprovadas a unanimidade de votos; 7 - Projeto de Lei Ordinária nº 21 de 2023, Altera o art. 1º, parágrafos 1º e 2º da Lei Municipal nº. 1308/05, de 31/08/2005 que dispõe sobre a criação do conselho municipal de desenvolvimento rural sustentável no município de Manhumirim e dá outras providências. Autor: Sérgio Borel Corrêa - Prefeito Municipal de Manhumirim. Votação nominal em 3º turno, com leitura do Parecer da Comissão de Redação Final, pela aprovação da redação final. É aprovado a unanimidade de votos e transformado em proposição de lei municipal nº 1.884/23 para sanção do Prefeito. O projeto da Vereadora Juliana não é deliberado, tendo em vista que a Vereadora precisou sair mais cedo por motivos particulares. O Sr. Presidente comunica o momento para os discursos do Grande Expediente, segundo o que determina o art. 22 do Regimento Interno da Câmara Municipal. O Orador inscrito para esta Sessão é o Sr. Quintino Borel Filho. Assunto: Serviço de Atendimento Móvel de Urgência (Samu), o Senso do IBGE e vários outros pontos importantes para Manhumirim. Posteriormente acontece ampla participação dos vereadores presentes, com seus respectivos pronunciamentos. Em seguida o Sr. Presidente em nome de Deus declara encerrada esta Sessão e faz a Convocação dos vereadores para a próxima Sessão: Ordinária de 23 de novembro de 2023, às 19:30 horas. Encerramento: Manhumirim, em 16 de novembro de 2023, às 22:00 horas. Assinatura da Mesa Diretora da Sessão:
+
+Presidente: Anderson Vidal Soares / REPUBLICANOS
+
+Vice-Presidente: Alexsandro Rodrigues de Souza / PDT
+
+Secretário(a): Alexsandro da Costa Lemos / PR

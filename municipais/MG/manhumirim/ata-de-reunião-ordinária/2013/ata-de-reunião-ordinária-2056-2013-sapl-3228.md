@@ -1,0 +1,26 @@
+---
+titulo: "Ata de Reunião Ordinária nº 2056, de 04/04/2013"
+tipo: "Ata de Reunião Ordinária"
+tipo_na_fonte: "Ata de Reunião Ordinária"
+numero: "2056"
+data: "2013-04-04"
+ementa: "Ata da 2.056ª Sessão Pública da Câmara Municipal de Manhumirim – Aos quatro dias do mês de abril de 2013"
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/3228"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2013/3228/ata_2.056_-_04_de_abril_de_2013.pdf"
+sha256_fonte: "ca3cc6ef2fc3c317735d8a0a430c7abfbb6c13779a3021135f6b683bad0a9d7e"
+baixado_em: "2026-11-17"
+---
+
+# Ata de Reunião Ordinária nº 2056, de 04/04/2013
+
+Ata da 2.056ª Sessão Pública da Câmara Municipal de Manhumirim – Aos quatro dias do mês de abril de 2013, às 19 horas e 41 minutos, realiza-se a Sessão Pública da Câmara Municipal de Manhumirim, no Plenário Oswaldo Frossard, situado na Praça Getúlio Vargas, nº 20, Centro, onde, sob a presidência do Vereador Dário de Souza Veiga, os senhores vereadores reúnem-se ordinariamente, estando presentes, Ana Paula Bastos Destro Sathler, Benísio Dias Arbuini, Dalbino Cler Ramos, Hélio Marcos Mendonça, Ivan Caetano de Oliveira Santos, João Batista Vieira, Roberto Belarmino Fagundes, Rodrigo Aparecido Soares, Sebastião Tristão Ribeiro e Sérgio Borel Corrêa. EXPEDIENTE: O Presidente pede que o Secretário Vereador João Batista faça a chamada dos vereadores para verificação de quorum. Havendo número regimental de presentes, o Presidente, após invocar a proteção de Deus, declara aberta a Sessão Ordinária. O Vereador Bob faz a leitura bíblica. Nos termos do
+
+**Art. 22** do Regimento Interno, o Presidente pede que os Vereadores interessados em fazer uso da palavra se inscrevam junto aos servidores de apoio. O Vereador Tristão faz a leitura da Ata 2.055. A ata é aprovada sem restrições. É feita a leitura do Ato do Presidente 437; Comunicado 017135 do Ministério da Educação; Relatório Anual de Atividades da Emater e Convite para Dia de Campo. Passa-se à leitura do Projeto de Lei 017, autoria da Prefeita Municipal que "Autoriza o município de Manhumirim a celebrar convênio com a entidade que nomina e dá outras providências". Passa-se à leitura e votação da Moção 002, autoria da Vereadora Ana Paula e outros, "Manifestação de Repúdio". Os Vereadores Sérgio, Bob, Tristão, Ivan e João são contrários. Os Vereadores Hélio, Rodrigo, Ana Paula, Benísio e Dalbino são favoráveis. Constatado o empate, o Presidente vota contrário. A Moção é reprovada. Passa-se à leitura e votação do Requerimento 011, autoria da Vereadora Ana Paula e outros, que "Requer prestação de contas trimestral da Prefeitura Municipal de Manhumirim". O Requerimento é aprovado com unanimidade. Passa-se à leitura da Indicação 067/2013, autoria do Vereador Benísio e outros, que "Indica construção de faixa de travessia de pedestres"; Indicação 068/2013, autoria do Vereador Benísio e outros, que "Indica construção de faixa de travessia de pedestres"; Indicação 066/2013, autoria do Vereador Dalbino e outros, que "Indica construção de rotatória em local que menciona"; Indicação 069/2013, autoria do Vereador Dalbino e outros, que "Indica iluminação em local que menciona"; Indicação 060/2013, autoria do Vereador Bob e outros, que "Indica faixa de pedestres na Rua Antônio Carlos"; Indicação 061/2013, autoria do Vereador Bob e outros, que "Indica locais para instalação de CTC". As indicações são aprovadas com unanimidade. GRANDE EXPEDIENTE: O Presidente concede a palavra ao Senhor Thiago Braga de Oliveira, Orador Inscrito que apresenta relatório das atividades da Emater no ano de 2012, projeta a missão da empresa, premiações recebidas, parcerias existentes, cita dados do município, público atendido e
+
+resultado de programas e projetos. O Vereador Hélio pergunta sobre o Programa Balde Cheio. O Senhor Thiago explica que o Programa Minas Leite tem menor custo e apresenta maiores vantagens. O Vereador Ivan cita antigos funcionários da Emater, lembra que seu pai afirmava que a Emater de Minas é a melhor do Brasil e também se recorda das atividades que eram realizadas no Bonfim; conta que hoje esteve com o Ex-Ministro Patrus Ananias, afirma a todos que é do partido PT e que foi eleito por este partido. O Vereador Rodrigo comenta sobre o trabalho de campo, que esta empresa sempre esteve presente no Bonfim e agradece. O Vereador Hélio elogia o trabalho maravilhoso da Emater, sugere que as outras entidades também apresentem relatórios de atividades e que a Prefeita reveja o valor do convênio. O Vereador Tristão parabeniza a Emater e fala sobre a melhoria da qualidade do café; conta que ele, os Vereadores Dário, Ivan, Hélio e a Servidora Gerusa estiveram no Encontro na Câmara de Manhuaçu e cita a programação do evento. O Vereador Bob conta que já conhecia o trabalho da Emater através da Associação Comunitária do Bairro Mangueiras e coloca o Legislativo a disposição. O Presidente convoca todos para a próxima Sessão Ordinária no dia 11 de abril; declara encerrada a reunião, do que para constar lavra-se esta ata.
+
+(a)DÁRIO DE SOUZA VEIGA (a)JOÃO BATISTA VIEIRA PRESIDENTE SECRETÁRIO

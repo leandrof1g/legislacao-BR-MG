@@ -1,0 +1,36 @@
+---
+titulo: "Ata de Reunião Ordinária nº 2486, de 21/03/2024"
+tipo: "Ata de Reunião Ordinária"
+tipo_na_fonte: "Ata de Reunião Ordinária"
+numero: "2486"
+data: "2024-03-21"
+ementa: "Ata da 2.486ª Sessão Pública Extraordinária da 22ª Sessão Legislativa da 22ª Legislatura da Câmara Municipal de Manhumirim 21/03/2024."
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/3514"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2024/3514/ata_2486_-_21_03_2024_2.pdf"
+sha256_fonte: "072e092b839d872d736a1a3d52fb3572b1595d5faca67487682548df37bd77b6"
+baixado_em: "2026-11-17"
+---
+
+# Ata de Reunião Ordinária nº 2486, de 21/03/2024
+
+Ata da 2.486ª Sessão Pública Extraordinária da 22ª Sessão Legislativa da 22ª Legislatura da Câmara Municipal de Manhumirim Identificação Básica: Tipo de Sessão: Ordinária; Abertura: 21/03/2024, às 19:30 horas; Encerramento: 22:30 horas. Mesa Diretora: Presidente: Anderson Vidal Soares / Dedé Motoboy / REPUBLICANOS; Vice-Presidente: Alexsandro Rodrigues de Souza / Lequinho da Van / PDT; Secretário: Alexandre de Jesus Nascimento / Xandinho / PT. Lista de Presença na Ordem do Dia: Alexsandro da Costa Lemos / Alexsandro Lemos / PR; Alexsandro Rodrigues de Souza / Lequinho da Van / PDT; Anderson Vidal Soares / Dedé Motoboy / REPUBLICANOS; Benísio Dias Arbuini / Benísio Enfermeiro / PDT; Darci Maria Braga da Cruz / Darci Braga / PTB; Rodrigo Aparecido Soares / Dr. Rodrigo Soares / MDB; Juliana da Silva Ananias / Juliana Ananias / PDT; Mário Sidney Nolasco Júnior / Mário Júnior / MDB; Sandro Ribeiro Gonçalves / Sandro / PTB; Edgar Dornelas Dutra / Sargento Edgar / PL; Alexandre de Jesus Nascimento / Xandinho / PT. Momento em que acontece a Leitura da Bíblia Sagrada. Leitura da ata da Sessão Pública anterior: Ordinária de 14 de março de 2024 que é aprovada à unanimidade de votos. Correspondências: 1) Recebida - Ofício Nº 2108/2024 - Interessado: Rodrigo Cabral da Silva Rodrigues - Assunto: Convida a Câmara Municipal para Reunião de alinhamento de anual do valor de terra nua.; 2) Recebida - Ofício Nº 085/2024 - Interessado: Luiz Gustavo S Couto - receita estadual - Assunto: Processo n. 1190.01.0002828/2024-02 e Despacho n. 85/2024/SEF/SRE - ADMINISTRAÇÃO FAZENDÁRIA; 3) Recebida - Ofício Nº 001/2024 - Interessado: Secretario M de Obras - Assunto: Memorando n° 005/2024 resposta ao requerimento n° 01/2024 de Autoria do Vereador Alexsandro Rodrigues de Souza (Lequinho) que solicita retirada de poste de iluminação pública na rua Frei Francisco, entre os números 96 e 108 no bairro Mangueiras.; 4) Recebida - Ofício Nº 006/2024 - Interessado: Secretario M de Obras - Assunto: Memorando n° 006/2024 resposta ao requerimento n° 01/2024 de Autoria do Vereador Anderson Vidal, que sugeri e solicita a execução de redutores de velocidades na rua Frei Francisco Bairro Mangueiras em frente ao campo de futebol.; 5) Recebida - Ofício Nº 023/2024-GP - Interessado: prefeito municipal Sérgio Borel - Assunto: Ofício nº 23/2024 Encaminha sanção de lei Municipal nº 1892/2023; foi sancionada sob a Lei Municipal nº 1.888/2023 de 19 de março de 2024, a proposição de lei Municipal nº 1893/2024; foi sancionada sob a
+
+Lei Municipal nº 1.889/2024 de 19 de março de 2024, a proposição de lei Municipal
+
+nº 1894/2024; foi sancionada sob a Lei Municipal nº 1.890/2024 de 19 de março de 2024 e a proposição de lei Municipal nº 1895/2024; foi sancionada sob a Lei Municipal nº 1.891/2024 de 19 de março de 2024.; 6) Recebida - Ofício Nº 001/2024 - Interessado: Regiane R Simionato - Sec. M. Turismo - Assunto: OF SECRETARIA DE TURISMO E CULTURA - Solicita indicação de 2 vereadores para o Conselho M. Turismo.; 7) Recebida - Certidão - Interessado: Luciano de Oliveira Egeno - Assunto: Declaração de matrícula curso de bacharelado em engenharia de software. UNIASSELVI.; 8) Recebida - Certificado - Interessado: Dyone Gerusa Butters Teixeira - Assunto: Ciclo de Palestras Conaci; 9) Enviada - Ofício Nº 003/2024 - Interessado: Ver. Benísio - Assunto: OF 03/2024/Gabinete Ver. Benísio - Solicita providências ônibus escolar aos Secretários Educação e Transporte.; 10) Enviada - Ofício Nº 003/2024 - Interessado: Ver. Xandinho - Assunto: OF 01/2024/Gabinete Ver. Xandinho - Solicita apoio em forma de
+
+emenda.; 11) Enviada - Ofício Nº 013/2024 - Interessado: Ver. Anderson Vidal - Assunto: Of n. 13/2024 - GP - Encaminha as proposições de lei aprovadas na reunião de 14/03/2024.; 12) Enviada – Ofício Nº 014/2024-GP - Interessado: Ver. Anderson Vidal - Assunto: Of. 14/2024- GP Encaminha os requerimentos aprovados na reunião de 14/03/2024.; 13) Enviada - Ofício Nº 015/2024-GP - Interessado: Ver. Anderson Vidal - Assunto: Of. 15/2024/GP - encaminha as indicações aprovadas na reunião de 14/03/2024.; 14) Enviada - Ofício Nº 016/2024-GP - Interessado: Ver. Anderson Vidal - Assunto: Of 16/2024 - GP - reiteração de requerimentos aprovados na câmara. Requerimentos de 01 a 10. Matérias da Ordem do Dia: 1 - Portaria nº 386 de 2024, Nomeia os servidores da câmara Municipal de Manhumirim para as funções que menciona. Autor: Anderson Vidal Soares. Matéria lida; 2 - Projeto de Lei Ordinária nº 8 de 2024, Declara de utilidade publica o conselho de segurança pública e dá outras providências - Obs.: Votado em acordo de lideranças a pedido do Ver. Sgto Edgar. Aprovado em acordo de lideranças a unanimidade de votos; 3 - Moção nº 9 de 2023, Congratula o Congresso Nacional. Autor: Xandinho. Moção aprovada a unanimidade de votos; 4 - Requerimento nº 19 de 2024, REQUER: informações sobre os portais de entrada da cidade. Autor: Mário Sidney Nolasco Júnior; 5 - Requerimento nº 20 de 2024, REQUER: informações da Secretaria M. Educação sobre a Creche M. Dr. Orbino. Autor: Mário Sidney Nolasco Júnior; 6 - Indicação nº 27 de 2024, Indica estudo para recomposição de perdas inflacionárias das diárias dos servidores da prefeitura Autor: Xandinho; 7 - Indicação nº 28 de 2024, indica reforma da Escola Drª Mari da conceição de Oliveira Ribeiro Autor: Sandro Ribeiro; 8 - Indicação nº 29 de 2024, Indica conclusão das obras dos três portais de entrada da cidade. Autor: Mário Sidney Nolasco Júnior; 9 - Indicação nº 30 de 2024, Indica funcionamento das creches no período de férias escolares. Autor: Mário Sidney Nolasco Júnior. O autor de cada requerimento e cada indicação faz encaminhamento de sua
+
+proposição. O Sr. Presidente submete cada um dos requerimentos e indicações em discussão e votação simbólica, sendo aprovados à unanimidade de votos. Em seguida o Sr. Presidente comunica o momento para os discursos do Grande Expediente, segundo o que determina o art. 22 do Regimento Interno da Câmara Municipal. Acontece ampla participação dos Senhores Vereadores com seus discursos. Em seguida o Sr. Presidente em nome de Deus declara encerrada esta Sessão e faz a Convocação dos vereadores para a próxima Sessão: a qual será ordinária e na data de 04 de abril de 2024, às 19:30 horas. Encerramento: Manhumirim, em 21 de março de 2024, às 22:30 horas.
+
+Assinatura da Mesa Diretora da Sessão
+
+Presidente: Anderson Vidal Soares / REPUBLICANOS
+
+Vice-Presidente: Alexsandro Rodrigues de Souza / PDT
+
+Secretário: Alexandre de Jesus Nascimento / PT

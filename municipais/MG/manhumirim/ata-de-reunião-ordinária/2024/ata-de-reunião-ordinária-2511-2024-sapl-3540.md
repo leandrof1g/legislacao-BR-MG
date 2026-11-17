@@ -1,0 +1,28 @@
+---
+titulo: "Ata de Reunião Ordinária nº 2511, de 05/12/2024"
+tipo: "Ata de Reunião Ordinária"
+tipo_na_fonte: "Ata de Reunião Ordinária"
+numero: "2511"
+data: "2024-12-05"
+ementa: "Ata da 2.511ª Sessão Pública Ordinária da 22ª Sessão Legislativa da 22ª Legislatura da Câmara Municipal de Manhumirim 05/12/2024."
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/3540"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2024/3540/ata_2511_-_05_12_2024_3.pdf"
+sha256_fonte: "fe189508e74d1a03883ba1aaaa4e9937b555357b2a4811eee3701881da2e7ba6"
+baixado_em: "2026-11-17"
+---
+
+# Ata de Reunião Ordinária nº 2511, de 05/12/2024
+
+Ata da 2.511ª Sessão Pública Ordinária da 22ª Sessão Legislativa da 22ª Legislatura da Câmara Municipal de Manhumirim Identificação Básica: Tipo de Sessão: ordinária; Abertura: 05/12/2024, às 19:30 horas; Encerramento: 22:00 horas. Mesa Diretora: Presidente: Anderson Vidal Soares / Dedé Motoboy / REPUBLICANOS; Vice-Presidente: Alexsandro Rodrigues de Souza / Lequinho da Van / PSDB; Secretário: Alexandre de Jesus Nascimento / Xandinho / PRTB. Lista de Presença na Ordem do Dia: Alexandre de Jesus Nascimento / Xandinho / PRTB; Alexsandro Rodrigues de Souza / Lequinho da Van / PSDB; Anderson Vidal Soares / Dedé Motoboy / REPUBLICANOS; Benísio Dias Arbuini / Benísio Enfermeiro / REPUBLICANOS; Juliana Ananias de Lima / Juliana Ananias / MDB; Mário Sidney Nolasco Júnior / Mário Júnior / PRTB; Rodrigo Aparecido Soares / Dr. Rodrigo Soares / MDB; Sandro Ribeiro Gonçalves / Sandro / SOLIDARIEDADE. Correspondências: 1) Recebida - Justificativa - Interessado: Verª Darci Braga - Assunto: JUSTIFICATIVA AUSÊNCIA VEREADORA DARCI Mª. BRAGA DA CRUZ - Reunião de 05/12/2024; 2) Recebida - Atestado Médico - Interessado: Ver. Alexsandro Lemos - Assunto: Atestado médico Ver. Alexsandro Lemos - de reunião ordinária de 28/11/2024.; 3) Recebida - Justificativa - Interessado: Ver. Alexsandro Lemos - Assunto: ausência na sessão ordinária do dia 05 de dezembro de 2024.; 4) Recebida - Justificativa - Interessado: Ver. Sargento Edgar - Assunto: ausência na sessão ordinária do dia 05 de dezembro de 2024, por motivos pessoais.; 5) Recebida - Declaração - Interessado: Verª Darci Braga - Assunto: Declaração de bens Verª Darci Maria Braga da Cruz - final de mandato eletivo 2020 / 2024.; 6) Recebida - Declaração - Interessado: Ver. Sandro Ribeiro - Assunto: Declaração de bens fim de mandato eletivo 2020 / 2024 - Ver. Sandro.; 7) Recebida - Atestado Médico - Interessado: luciano o egeno - Assunto: Declaração de comparecimento de Luciano O Egeno - realizar exame de RMN de ombro e lombar.; 8) Enviada - OFICIO Nº 025/2024-GVMJ - Interessado: ver. mário júnior - Assunto: OF. n. 25/2024/GVMJ - Solicita providências na Praça Pe. Júlio Maria.; 9) Enviada - OFICIO Nº 069/2024-GP - Interessado: Ver. Anderson Vidal - Assunto: OF nº 69/2024/GP - encaminha indicações e requerimentos aprovados em reunião de 28/11/2024.; 10) Recebida - OFICIO Nº 183/2024 - Interessado: GABRIEL NUNES MELLO - SECETÁRIO MUNICIPAL - Assunto: RESPOSTA AO REQUERIMENTO N° 20/2024 DO VEREADOR MÁRIO JÚNIOR; 11) Recebida - OFICIO Nº 503016/2024-MPMG - Interessado: Marlúcia Costa Gomes - Gerente de Secretaria - Assunto: Tribunal de Justiça informe de leilão. Processo autor: Câmara M. Manhumirim X Réu: Luciano M da Silva.; 12) Recebida - Atestado Médico - Interessado: luciano o egeno - Assunto: Atestado médico de Luciano O. Egeno dia 02/12/2024. Matérias da Ordem do Dia: 1 - Portaria nº 393 de 2024, Abre crédito adicional suplementar ao orçamento da Câmara M. Manhumirim R$40.000,00. Autor: Anderson Vidal Soares. Resultado: Matéria lida; 2 - Requerimento nº 61 de 2024, REQUER: informações da Secretaria M. Saúde sobre dengue e vacinação. Autor: Mário Sidney Nolasco Júnior. Resultado: Aprovado por unanimidade; 3 - Indicação
+
+nº 108 de 2024, Indica transporte para alunos que cursam ensino superior fora do Município de Manhumirim. Autor: Lequinho da Van. Resultado: Aprovado por unanimidade; 4 - Veto Total a Proposição de Lei nº 1 de 2024, Veto 1/2024 do Proposição de Lei nº 1.905/2024 - Em conformidade com o disposto no art. 52, II, da Lei Orgânica do Município, apresento VETO TOTAL ao Projeto de Lei nº 1.905/2024, que dispõe sobre a correição de denominação de logradouro público Rua Aristides Braga. O Sr. Presidente submete em discussão e votação o parecer da Comissão Especial, constituída para análise ao veto, formada pelos seguintes vereadores: Presidente Vereador Doutor Rodrigo Soares; Relator Vereador Sandro Ribeiro e Membro Vereadora Juliana Ananias. A comissão opina pela manutenção ao veto do Prefeito. Aprovado o parecer da Comissão Especial mantendo o veto do Prefeito à proposição de lei. Votos Nominais: Benísio Enfermeiro - Sim; Dedé Motoboy - Não Votou; Dr. Rodrigo Soares - Sim; Juliana Ananias - Sim; Lequinho da Van - Sim; Mário Sidney Nolasco Júnior - Sim; Sandro Ribeiro - Sim; Xandinho – Sim. Posteriormente o Sr. Presidente comunica o momento para os discursos do Grande Expediente, segundo o que determina o art. 22 do Regimento Interno da Câmara Municipal. Após ampla participação dos Vereadores o Sr. Presidente convoca a todos para a próxima Sessão Ordinária que será no dia 12 de dezembro de 2024, às 19:30 horas. E em nome de Deus declara encerrada esta Sessão. Encerramento: Manhumirim, em 05 de dezembro de 2024, às 21:30 horas. Assinatura da Mesa Diretora da Sessão:
+
+Presidente: Dedé Motoboy / REPUBLICANOS
+
+Vice-Presidente: Lequinho da Van / PSDB
+
+Secretário(a): Xandinho / PRTB

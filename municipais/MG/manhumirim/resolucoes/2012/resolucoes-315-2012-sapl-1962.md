@@ -1,0 +1,40 @@
+---
+titulo: "Resolução nº 315, de 16/02/2012"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução Legislativa"
+numero: "315"
+data: "2012-02-16"
+ementa: "Concede diploma de honra ao mérito ao Dr. Assad Feres."
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/1962"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2012/1962/res_315_titulo_dr._assad_cmm.pdf"
+sha256_fonte: "7263da002be748bbf97b3115183ace0ff23f04922a75af9d258b7099a63fd8ea"
+baixado_em: "2026-11-17"
+---
+
+# Resolução nº 315, de 16/02/2012
+
+CÂMARA MUNICIPAL DE MANHUMIRIM ESTADO DE MINAS GERAIS CNPJ - 22.702.369/0001-89
+
+RESOLUÇÃO LEGISLATIVA Nº 315, de 16 de fevereiro de 2012.
+
+“Concede diploma de honra ao mérito ao Dr. Assad Feres.”
+
+A Câmara Municipal de Manhumirim através de seus Membros aprova e o Presidente promulga a seguinte Resolução:
+
+**Art. 1º** - Fica concedido DIPLOMA DE HONRA AO MÉRITO conforme artigos 209 e seguintes do Regimento Interno da Câmara Municipal de Manhumirim ao Dr. Assad Feres.
+
+**Art. 2º** - Fica o Presidente da Câmara Municipal de Manhumirim autorizado a adotar os atos necessários ao cumprimento do art. 1º desta Resolução.
+
+**Art. 3º** – Esta Resolução entra em vigor na data de sua publicação.
+
+**Art. 4º** – Revogam-se as disposições em contrário.
+
+Câmara Municipal de Manhumirim, em 16 de fevereiro de 2012
+
+Ver. Hélio Marcos Mendonça Presidente
+
+Verª. Ana Paula Bastos D. Sathler Secretária

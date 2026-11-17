@@ -830,7 +830,7 @@
    "sapl_manual": false
   },
   "3143203": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Monte Santo de Minas",
    "normas_na_fonte": 2987,
    "pasta": "monte-santo-de-minas",
@@ -1253,7 +1253,7 @@
    "sapl_manual": false
   },
   "3165537": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Sarzedo",
    "normas_na_fonte": 1738,
    "pasta": "sarzedo",

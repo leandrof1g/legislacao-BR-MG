@@ -1,0 +1,42 @@
+---
+titulo: "Resolução nº 442, de 07/12/2023"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução Legislativa"
+numero: "442"
+data: "2023-12-07"
+ementa: "Concede título de Cidadão Honorário a Ioannis Konstantinos Grammatikopoulos (Deputado Grego da Fundação)."
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/2395"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2023/2395/res_441_diploma_de_honra_ao_merito_veteranos_cmm.pdf"
+sha256_fonte: "d3d9e9eac94f41640bd0a5bc68332383233b29b6fe903d7b879254c351dba218"
+baixado_em: "2026-11-17"
+---
+
+# Resolução nº 442, de 07/12/2023
+
+RESOLUÇÃO LEGISLATIVA Nº 441, de 7 de dezembro de 2023.
+
+Autoria: Ver. Sgt. Edgar Dornelas Dutra
+
+“Concede Diploma de honra ao mérito aos Veteranos da Policia Militar e Policiais Civis de Manhumirim”.
+
+A Câmara Municipal de Manhumirim através de seus Membros aprova a seguinte Resolução:
+
+**Art. 1º** - Fica concedido DIPLOMA HONRA AO MÉRITO conforme artigos 209 e seguintes do Regimento Interno da Câmara Municipal de Manhumirim aos Veteranos da Policia Militar e Policiais Civis de Manhumirim pelos relevantes serviços prestados junto ao municipio de Manhumirim.
+
+**Art. 2º** - Os homenageados que compõe. 1 OLECY JOSE VIDAL - 1° SGT PM 2 JOSÉ PASSOS DE OLIVEIRA – 3° SGT PM 3 PAULO CESAR VIANA – CB PM 4 LAERT TAVARES DE MELO – CB PM 6 JAIRO ROCHA – 3° SGT PM 7 JOSÉ MANOEL FERREIRA – SD PM 8 SEBASTIAO BATISTA FILHO – CB PM 9 GERALDO ANTONIO SOARES – SD PM 10 MARCO AURELIO GONÇALVES TAVEIRA – CB PM 11 HORACIO VIEIRA DA SILVA – 2° SGT PM 12 JOUBER DORNELAS DUTRA – SUB TEN PM 13 CARLOS ANTONIO FERREIRA – 2° SGT PM 14 JUAREZ PAZ BENTO – 3° SGT PM 15 JOÃO ALVES PEREIRA – TEN PM 16 EDSON SERAFIM PEREIRA – CB PM 17 JOSÉ LUÍZ DE FREITAS – SUB TEN PM 18 SERGIO LUCIO DO NASCIMENTO – SUB TEN PM 19 WILSON ARAUJO – 2° SGT PM 20 ALFREDO VIEIRA DE SOUZA – 3° SGT PM 21 TARCISIO UDSON COTA – 1° SGT PM 22 PAULO NILSON VERLY – 2° TEN PM 23 JULIO MARIA ALVES PEREIRA - 1° SGT PM 24 FERNANDO BATISTA SILVA – 1° SGT PM
+
+25 ADVALDO PEREIRA DA LUZ – 2° SGT PM 26 RILDO DE OLIVEIRA ALVES – SUB TEN PM 27 JOAO BATISTA DINIS – 1° SGT PM 28 JOEL BATISTA DE FREITA – SUB TEN PM 29 OSMAR RODRIGUES BARBOSA – 3° SGT PM 30 ROGERIO FERNANDES PEREIRA – TEN CEL PM 31 ANDERSON DIAS PEREIRA – 1° SGT PM 32 GILMAR GARCIA FERNANDES – CAP PM 33 RODRIGO ROCHA DE OLIVEIRA – SGT PM 34 CLOVIS AURELIO VIEIRA FRAGA – 2° SGT PM 35 ANDERSON SOARES RIBEIRO – 2º TEN PM 36 MARCONE FREITAS SILVA – 1° SGT PM 37 ELVANIO RODRIGUES HENRIQUE – 2° SGT PM 38 ROBERTO BERBERT SATHLER – 1° SGT PM 39 SANDRO PEREIRA GONÇALVES – TEN CEL PM 40 ADILSON CLER DOS REIS – 2° SGT PM 41 VANDERLEIA APARECIDA ANACLETO UBALDO DE CAMPOS – 2º SGT PM 42 ALMIR MARTINS RIBEIRO– PC 43 GILSON FELIPE SOARES – PC 44 CLAUDIA VALERIA AGUIAR – PC
+
+**Art. 3º** - Esta Resolução entra em vigor na data de sua publicação;
+
+**Art. 4º** – Revogam-se as disposições em contrário.
+
+Câmara M. Manhumirim, MG, aos 7 de dezembro de 2023.
+
+ANDERSON VIDAL Assinado de forma digital por ANDERSON VIDAL SOARES:05464041621 SOARES:05464041621 Dados: 2023.12.15 13:06:57 -03'00' Ver. Anderson Vidal Soares Presidente
+
+Ver. Alexandre de Jesus Nascimento Secretário

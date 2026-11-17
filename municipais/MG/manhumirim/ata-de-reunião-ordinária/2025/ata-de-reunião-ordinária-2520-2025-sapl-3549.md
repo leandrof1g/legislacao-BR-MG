@@ -1,0 +1,28 @@
+---
+titulo: "Ata de Reunião Ordinária nº 2520, de 27/02/2025"
+tipo: "Ata de Reunião Ordinária"
+tipo_na_fonte: "Ata de Reunião Ordinária"
+numero: "2520"
+data: "2025-02-27"
+ementa: "Ata da 2.520ª Sessão Pública Extraordinária da 23ª Sessão Legislativa da 23ª Legislatura da Câmara Municipal de Manhumirim. Identificação Básica: Tipo de Sessão: Ordinária; Abertura: 27/02/2025."
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/3549"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2025/3549/ata_2520_-_27_02_2025.pdf"
+sha256_fonte: "9beb027ceaa37b0b498959072ae5e67b1d60cda5bbe6ffff3566d12d92aeeac9"
+baixado_em: "2026-11-17"
+---
+
+# Ata de Reunião Ordinária nº 2520, de 27/02/2025
+
+Ata da 2.520ª Sessão Pública Extraordinária da 23ª Sessão Legislativa da 23ª Legislatura da Câmara Municipal de Manhumirim. Identificação Básica: Tipo de Sessão: Ordinária; Abertura: 27/02/2025 – 19:30; Encerramento: 27/02/2025 – 21:10. Mesa Diretora: Presidente: Xandinho / PRTB; Vice-Presidente: Helinho Mendonça / MDB; Secretária: Priscila Knup / REPUBLICANOS. Lista de Presença na Ordem do Dia: Benísio Enfermeiro / REPUBLICANOS; Bill da Farmácia / REPUBLICANOS; Dedé Motoboy / REPUBLICANOS; Dr. Rodrigo Soares / MDB; Helinho Mendonça / MDB; João Wilson Barbeiro / PRTB; Matheus Fully / MDB; Priscila Knup / REPUBLICANOS; Remisson Hott / REPUBLICANOS; Vovô da Ótica / PDT; Xandinho / PRTB. Correspondências: 1) Recebida - OFÍCIO Nº 008/2025-GP - Interessado: Ver. Xandinho - Assunto: OF nº 08/2025/GP - encaminha requerimentos aprovados na reunião ordinária de 20/02/2025.; 2) Recebida - OFÍCIO Nº 009/2025-GP - Interessado: Ver. Xandinho - Assunto: OF. nº 09/2025/GP - encaminha as indicações aprovadas na reunião ordinária de 20/02/2025.; 3) Recebida - OFÍCIO Nº 010/2025-GP - Interessado: Ver. Xandinho - Assunto: OF. nº 10/2025/GP - encaminha a proposição de lei nº 1.909/2025 - aprovada pelo plenário no dia 20/02/2025.; 4) Recebida - Email - Interessado: Brenno de Paiva Fagundes - Procurador - Assunto: Encaminha resposta a requerimentos "Procuradoria do Município de Manhumirim"; 5) Recebida - OFÍCIO Nº 031/2025-PREFEITO - Interessado: prefeito municipal Sérgio Borel - Assunto: OF nº 31/2025 - Gabinete do Prefeito -resposta ao requerimento nº 01/2025 de autoria de Ver. Anderson.; 6) Recebida - OFÍCIO Nº 032/2025-PREFEITO - Interessado: prefeito municipal Sérgio Borel - Assunto: OF nº 32/2025 - Gabinete do Prefeito - Resposta ao requerimento n. 02/2025 de autoria Anderson.; 7) Recebida - OFÍCIO Nº 033/2025-PREFEITO - Interessado: prefeito municipal Sérgio Borel - Assunto: OF nº 33/2025 - Resposta ao requerimento nº 03/2025 - autoria do ver. xandinho.; 8) Recebida - OFÍCIO Nº 034/2025-PREFEITO - Interessado: prefeito municipal Sérgio Borel - Assunto: OF. nº 34/2025 - GPrefeito - resposta ao requerimento n 04/2025 - autoria ver. Xandinho.; 9) Recebida - OFÍCIO Nº 035/2025-PREFEITO - Interessado: prefeito municipal Sérgio Borel - Assunto: OF nº 35/2025- Gabinete Prefeito - resposta ao requerimento nº 05 de autoria da Comissão de Prestação de Serviço Público.; 10) Recebida - OFÍCIO Nº 036/2025- PREFEITO - Interessado: prefeito municipal Sérgio Borel - Assunto: OF nº 36/2025- Gabinete do Prefeito - em resposta ao requerimento nº 06 de autoria do Ver. Remisson.; 11) Recebida - Requerimento Nº 004/2025 - Interessado: ver. Matheus - Assunto: REQUEREM: ao Presidente da Câmara a retirada de tramitação da emenda nº 02 do PLC 02/2025. MATHEUS FULLY / Vereador e JOÃO WILSON / Vereador. Matérias da Ordem do Dia: 1 - Projeto de Lei Complementar nº 2 de 2025, Institui o regime tarifário como instrumento de cobrança do serviço público de manejo de resíduos sólidos no âmbito do Município de Manhumirim e dá outras providências. Autor: Sérgio Borel Corrêa - Prefeito Municipal de Manhumirim. Votação. Tipo: Nominal. Votos Sim: 10; Não: 0; Abstenções: 0. Resultado:
+
+Aprovado em Turno Único. Votos Nominais: Benísio Enfermeiro - Sim; Bill da Farmácia - Sim; Dedé Motoboy - Sim; Dr. Rodrigo Soares - Sim; Helinho Mendonça - Sim; João Wilson Barbeiro - Sim; Matheus Fully - Sim; Priscila Knup - Sim; Remisson Hott - Sim; Vovô da Ótica - Sim; Xandinho - Não Votou; 2 - Emenda a Projeto de Lei Complementar nº 1 de 2025, Altera o artigo 7º e inclui os incisos I, II, III, IV ao referido artigo Autor: Xandinho. Votação Tipo: Nominal. Votos Sim: 10; Votos Não: 0; Abstenções: 0. Resultado: Aprovado em Turno Único - Obs.: Recebeu o número de proposição de lei complementar 40/2025. Votos Nominais: Benísio Enfermeiro - Sim; Bill da Farmácia - Sim; Dedé Motoboy - Sim; Dr. Rodrigo Soares - Sim; Helinho Mendonça - Sim; João Wilson Barbeiro - Sim; Matheus Fully - Sim; Priscila Knup - Sim; Remisson Hott - Sim; Vovô da Ótica - Sim; Xandinho - Não Votou. Posteriormente o Sr. Presidente comunica o momento para os discursos do Grande Expediente, segundo o que determina o art. 22 do Regimento Interno da Câmara Municipal. O Sr. Presidente passa a Palavra aos Senhores Vereadores. Após ampla participação o Sr. Presidente anuncia o encerramento dos trabalhos do dia e declara encerrada esta sessão, antes CONVOCANDO Suas Excelências os Vereadores para a próxima reunião que será ordinária no dia 13 de março de 2025, quinta-feira, às 19:30 horas. Encerramento: Manhumirim, em 27 de fevereiro de 2025, às 21:10 horas. Assinatura da Mesa Diretora da Sessão:
+
+Presidente: Xandinho / PRTB
+
+Vice-Presidente: Helinho Mendonça / MDB
+
+Secretário(a): Priscila Knup / REPUBLICANOS

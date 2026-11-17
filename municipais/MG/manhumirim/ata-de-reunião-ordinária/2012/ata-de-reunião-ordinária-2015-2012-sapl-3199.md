@@ -1,0 +1,24 @@
+---
+titulo: "Ata de Reunião Ordinária nº 2015, de 15/03/2012"
+tipo: "Ata de Reunião Ordinária"
+tipo_na_fonte: "Ata de Reunião Ordinária"
+numero: "2015"
+data: "2012-03-15"
+ementa: "Ata da 2.015ª Sessão Pública da Câmara Municipal de Manhumirim – Aos quinze dias do mês de março de 2012"
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/3199"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2012/3199/ata_2.015_-_15_de_marco_de_2012.pdf"
+sha256_fonte: "4a066926d32394f9a98e794e687a511ae402ab01086c8c6b8a393566c1b5ceb9"
+baixado_em: "2026-11-17"
+---
+
+# Ata de Reunião Ordinária nº 2015, de 15/03/2012
+
+Ata da 2.015ª Sessão Pública da Câmara Municipal de Manhumirim – Aos quinze dias do mês de março de 2012, às 21 horas e 20 minutos, realiza-se a Sessão Pública da Câmara Municipal de Manhumirim, no Plenário Oswaldo Frossard, situado na Praça Getúlio Vargas, nº 20, Centro, onde, sob a presidência do Exmo. Presidente Vereador Hélio Marcos Mendonça e tendo como secretária a Vereadora Ana Paula Bastos Destro Sathler, os demais senhores Vereadores reúnem-se ordinariamente, estando presentes, Alexandre de Jesus Nascimento, Emily Bracks, Jesus Antônio Aguiar, Júlio Maria Horst, Márcio Bittencourt Faria, Marinelsi Delgado Horst e Rodrigo Aparecido Soares. EXPEDIENTE: Após feita a verificação de quórum, o Presidente declara aberta a Sessão Solene do dia e anuncia o Sr. Geraldo Rodrigues dos Reis, para juntamente aos seus familiares se dirigirem à frente do Plenário e receberem a Moção, que é entregue pelo Ver. Alexandre. A Verª Ana Paula faz as respectivas entregas de Moção ao professor Washington Casimiro de Campos Neto; ao Sr. Enivam Feliciano Januário; ao Sr. Carlos Aurélio de Paula; a Srª Carolina Flora; ao Sr. Sérgio Pechara; e a Srª Wanda Lúcia Cutis Vaz. Todos estes acompanhados de familiares. O Sr. Manoel Fock, também homenageado, não compareceu. A Verª Emily Bracks faz a entrega de moção a Srª Eli Aparecida Silva Assumpção. O Ver. Jesus faz respectivas entregas de moção à Ordem DeMoley; ao Sr. Valtecir Portes Miranda; ao Sr. Cláudio Cotrim; ao Sr. Caetano da Mata Flora; ao Sr. Clayton Fernandes Batista; ao Sr. Vitor Hugo Pontes Rabelo. Todos estes acompanhados de familiares. E Diploma de Honra ao Mérito à Igreja Presbiteriana de Manhumirim. O Ver. Júlio faz as respectivas entregas de Moção ao Sr. José da Silva; e ao Sr. Gerson Garcia. Todos estes acompanhados de familiares. O Ver. Márcio Vovô faz as respectivas entregas de Moção ao Sr. Sinval Sathler; ao Sr. Alexander Makanak; e ao Sr. Aldenir Barbosa. Todos estes acompanhados de familiares. As Vereadoras Marinelsi e Ana Paula fazem a entrega de Moção ao Sr. Anisio Gonçalves de Souza. O Sr. Presidente Vereador Hélio Mendonça, antes de colocar a palavra franca anuncia que em pleno aniversário de Manhumirim, recebemos a notícia de que a Clínica Terapêutica será inaugurada em breve, no dia 05 de Maio. Fala isso pelo residente Lúcio Delogo e todas a pessoas que contribuíram para essa nova realidade. Na tribuna pronuncia o Sargento Anisio, um dos homenageados desta noite. Ele fala da sua passagem por Manhumirim, do trabalho aqui desenvolvido, e divide esta homenagem ao seu comandante e Capitão Rogério. Agradece pela homenagem de autoria do Ver. Hélio, mas aprovada por todos os Vereadores. Avisa que indo para a reserva continua sendo parceiro de Manhumirim e desta Casa. Aproveita para homenagear esta gestão do Presidente Hélio e ao público de Manhumirim, que atendeu e procurou fazer o melhor. Também na tribuna, o homenageado Gerson Garcia faz seus agradecimentos ao Compadre Ver. Júlio Horst. Fala sobre a trajetória dos vinte e quatro anos junto à guarda mirim e os êxitos obtidos pelos jovens. O Vice-prefeito Sebastião Ribeiro, na tribuna, fala da honra de estar nesta Casa Legislativa nesta noite maravilhosa e que antecede o aniversário da nossa querida Manhumirim, que completará 88 anos. Parabeniza a todos os homenageados pela merecida e justa homenagem que recebem hoje. Parabeniza também a cada um dos Vereadores desta Casa, pela forma que vêm trabalhando. O Ver. Jesus Aguiar informa a todos que esteve em Belo Horizonte, juntamente com o Ver. Júlio Horst e o Vice-prefeito Sebastião Tristão, oportunidade em que participou do lançamento do livro “Vendaval” da conterrânea Célio Rodrigues Barbosa, em sua noite de autógrafos. O Sr. Presidente endossa a importância do
+
+trabalho da Célia Barbosa, fala do seu próximo trabalho que retrata seu pai, o ex- vereador. Sr. Sinhozinho. Nada mais havendo a ser tratado, em nome de Deus declaro encerada a reunião Solene, do que para constar lavra-se esta ata. Manhumirim, 15 de Março de 2012.
+
+(a)HÉLIO MARCOS MENDONÇA (a)ANA PAULA BASTOS DESTRO SATHLER PRESIDENTE SECRETÁRIA
