@@ -12,10 +12,10 @@ codigo_ibge: "3106200"
 id_norma: "2c907f76829764ce0182f38f51bb00fd"
 versao_texto: "atualizada (CMBH)"
 fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11397/2022"
-fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a10b73fb01a16405eb4801ed"
-id_documento: "2c907f76a10b73fb01a16405eb4801ed"
-sha256_fonte: "c2f14d82e222af073e4dec99bd790583bef8b7fe5cc5323dfa278c4fd723419d"
-baixado_em: "2026-10-23"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a10b73fb01a1cf68741103c5"
+id_documento: "2c907f76a10b73fb01a1cf68741103c5"
+sha256_fonte: "a30043f0f4c768863f49d9f189db0d2b83abdce295963434efe36a0a22d3402b"
+baixado_em: "2026-11-17"
 ---
 
 # Lei Ordinária nº 11397, de 30/08/2022
@@ -1615,6 +1615,50 @@ V - incentivo à formação cidadã dos estudantes por meio do desenvolvimento d
 VI - ampliação do conhecimento da comunidade escolar sobre procedimentos básicos de emergência, prevenção de acidentes e o acionamento correto dos serviços especializados.
 
 **Art. 96-A**D acrescentado pela Lei nº 12.131, de 10/9/2026 (Art. 1º)
+
+**Art. 96-A**E - A Semana Municipal Escolar de Prevenção e Combate à Violência contra a Mulher, constante do Anexo II desta lei, observará o disposto neste artigo.
+
+**§ 1º** - A semana de que trata este artigo será realizada anualmente na primeira semana do mês de agosto.
+
+**§ 2º** - A semana de que trata este artigo possui caráter complementar às ações previstas na Lei Federal nº 14.164, de 10 de junho de 2021, sem prejuízo da realização, no mês de março, da Semana Escolar de Combate à Violência contra a Mulher, instituída pela legislação federal.
+
+**§ 3º** - A data de que trata este artigo poderá ser trabalhada pedagogicamente pelas unidades da rede municipal de ensino, de forma interdisciplinar e educativa, respeitadas:
+
+I - a autonomia administrativa e pedagógica das instituições de ensino;
+
+II - a faixa etária e o grau de desenvolvimento e compreensão dos estudantes;
+
+III - as diretrizes da Lei Federal nº 9.394, de 20 de dezembro de 1996.
+
+**§ 4º** - São objetivos da semana de que trata este artigo:
+
+I - conscientizar a comunidade escolar sobre a prevenção e o enfrentamento das diferentes formas de violência contra a mulher;
+
+II - divulgar os direitos das mulheres, as medidas de proteção previstas na legislação, os canais de denúncia e os serviços competentes de atendimento e acolhimento;
+
+III - promover valores de respeito à dignidade e à integridade física e psicológica da mulher;
+
+IV - contribuir para que os estudantes possam reconhecer situações de violência e buscar auxílio seguro e adequado;
+
+V - fortalecer a cultura de paz, responsabilidade, respeito mútuo e proteção à mulher e à família;
+
+VI - difundir informações sobre a Lei Federal nº 11.340, de 7 de agosto de 2006 - Lei Maria da Penha.
+
+**§ 5º** - Durante a semana de que trata este artigo poderão ser realizadas, entre outras, as seguintes atividades:
+
+I - palestras, seminários, debates e rodas de conversa;
+
+II - atividades pedagógicas interdisciplinares;
+
+III - campanhas educativas e ações de conscientização;
+
+IV - oficinas, apresentações culturais e produção de materiais educativos;
+
+V - divulgação dos canais de denúncia e dos serviços públicos de proteção e atendimento às mulheres em situação de violência.
+
+**§ 6º** - As atividades previstas neste artigo poderão contar, facultativamente, com a colaboração de órgãos públicos, instituições de ensino, entidades privadas, organizações da sociedade civil e profissionais com atuação relacionada à prevenção e ao enfrentamento da violência contra a mulher, respeitadas as respectivas competências institucionais.
+
+**Art. 96-A**E acrescentado pela Lei nº 12.172, de 11/11/2026 (Art. 1º)
 
 CAPÍTULO IV
 
@@ -3755,6 +3799,14 @@ H - Semanas comemorativas de agosto:
 | |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
 
 | |9º) |
+
+|Primeira semana de agosto |Semana Municipal Escolar de Prevenção e Combate à |
+
+| |Violência contra a Mulher |
+
+| |Linha acrescentada pela Lei nº 12.172, de 11/11/2026 (Art.|
+
+| |2º) |
 
 |Semana que contenha o dia 8/8 |Semana Municipal de Conscientização, Prevenção e Combate à|
 

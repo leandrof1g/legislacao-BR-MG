@@ -12,10 +12,10 @@ codigo_ibge: "3106200"
 id_norma: "2c907f7665c8aa1d01661fa2f765010e"
 versao_texto: "atualizada (CMBH)"
 fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/16983/2018"
-fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769234fd1701928fac19c80100"
-id_documento: "2c907f769234fd1701928fac19c80100"
-sha256_fonte: "60c9a05e550af14f4a5d30ca31c8608d41da66bf0eeb2faf72751443c5371f7b"
-baixado_em: "2026-10-23"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a10b73fb01a1ca4e97a0038d"
+id_documento: "2c907f76a10b73fb01a1ca4e97a0038d"
+sha256_fonte: "ce6eb35a3ee7b948c655e5c050dd771c177879bff50421a35ff192c082456460"
+baixado_em: "2026-11-17"
 ---
 
 # Decreto nº 16983/2018
@@ -1320,6 +1320,10 @@ Serviço de Verificação de Óbitos – SVO
 
 Serviço acrescentado pelo Decreto nº 18.078, de 26/8/2022 (Art. 1º)
 
+Centro de Saúde Parque Centenário
+
+Unidade de saúde acrescentada pelo Decreto nº 19.818, de 10/11/2026 (Art. 1º)
+
 IV – UNIDADES DE SAÚDE TIPO D:
 
 Centro de Saúde Alto Vera Cruz
@@ -1475,6 +1479,10 @@ Centro de Saúde Vila Cemig
 Centro de Saúde Vila Maria
 
 Centro de Saúde Vila Pinho
+
+Centro de Saúde Maria da Conceição Barbosa – Vila Pinho
+
+Unidade de saúde com redação dada pelo Decreto nº 19.818, de 10/11/2026 (Art. 2º)
 
 Centro de Saúde Zilah Spósito
 
