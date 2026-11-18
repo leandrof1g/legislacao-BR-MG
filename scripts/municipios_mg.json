@@ -2,7 +2,7 @@
  "atualizado_em": "2026-10-23",
  "municipios": {
   "3100906": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Águas Formosas",
    "normas_na_fonte": 400,
    "pasta": "aguas-formosas",
@@ -38,7 +38,7 @@
    "sapl_manual": false
   },
   "3101904": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Alpinópolis",
    "normas_na_fonte": 147,
    "pasta": "alpinopolis",
@@ -218,7 +218,7 @@
    "sapl_manual": false
   },
   "3111002": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Campestre",
    "normas_na_fonte": 1779,
    "pasta": "campestre",
@@ -227,7 +227,7 @@
    "sapl_manual": false
   },
   "3111101": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Campina Verde",
    "normas_na_fonte": 48,
    "pasta": "campina-verde",
@@ -758,7 +758,7 @@
    "sapl_manual": false
   },
   "3138807": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Luz",
    "normas_na_fonte": 594,
    "pasta": "luz",
@@ -1019,7 +1019,7 @@
    "sapl_manual": false
   },
   "3149804": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Perdizes",
    "normas_na_fonte": 458,
    "pasta": "perdizes",
@@ -1100,7 +1100,7 @@
    "sapl_manual": false
   },
   "3155603": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Rio Pardo de Minas",
    "normas_na_fonte": 2507,
    "pasta": "rio-pardo-de-minas",

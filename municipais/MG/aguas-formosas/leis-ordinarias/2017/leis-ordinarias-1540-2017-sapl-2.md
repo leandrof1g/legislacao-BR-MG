@@ -1,0 +1,338 @@
+---
+titulo: "Lei Ordinária nº 1540, de 30/01/2017"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1540"
+data: "2017-01-30"
+ementa: "“Estima a Receita Fixa a Despesa do Município de Águas Formosas para o Exercício Financeiro de 2017 e dá Outras Providências"
+municipio: "Águas Formosas"
+uf: "MG"
+codigo_ibge: "3100906"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.aguasformosas.mg.leg.br/norma/2"
+fonte_texto: "https://sapl.aguasformosas.mg.leg.br/media/sapl/public/normajuridica/2017/2/lei-n-1.540-loa-2017.pdf"
+sha256_fonte: "8bbeaae50e4178b3a9c1c07ec5b222059981c7974278919238d2e64cb32732b3"
+baixado_em: "2026-11-18"
+---
+
+# Lei Ordinária nº 1540, de 30/01/2017
+
+Lei n.º 1.540, de 08 de março de 2017 “Estima a Receita Fixa a Despesa do Município de Águas Formosas para o Exercício Financeiro de 2017 e dá Outras Providências”.
+
+O povo do Município de Águas Formosas – MG, por seus representantes legais aprova e eu, Prefeito Municipal, sanciono a seguinte Lei.
+
+**Art.1º** - O orçamento do Município de Águas Formosas, discriminado nos orçamentos do Poder Legislativo e do Poder Executivo, de acordo com os quadros que integram e acompanham, estima à receita em R$ 47.800.000,00 (Quarenta Sete Milhões Oitocentos Mil Reais), e fixa a despesa em igual valor.
+
+**Art.2º** - A Receita será realizada mediante arrecadação dos tributos na legislação em vigor e de acordo com os quadros anexos e segundo os seguintes desdobramentos:
+
+A - RECEITAS POR FONTES
+
+RECEITAS CORRENTES
+
+Receita Tributária 1.779.000,00
+
+Receitas de Contribuições 1.679.000,00
+
+Receita Patrimonial 1.348.000,00
+
+Receita de Serviços 2.124.000,00
+
+Transferências Correntes 41.766.000,00
+
+Outras Receitas Correntes 603.000,00
+
+SubTotal 49.299.000,00
+
+RECEITAS DE CAPITAL
+
+Operações de Crédito 32.000,00
+
+Alienação de Bens 13.000,00
+
+Transferências de Capital 1.171.000,00
+
+Outras Receitas de Capital 39.000,00
+
+RECEITAS INTRA-ORÇAMENTARIAS 1.462.000,00
+
+SubTotal 2.717.000,00
+
+Reducao da Receita -4.216.000,00
+
+Total Geral 47.800.000,00
+
+**Art.3º** - A Despesa do Município de Águas Formosas será realizada de acordo com os seguintes desdobramentos:
+
+A-DEPESAS POR FUNÇÃO DE GOVERNO
+
+01-LEGISLATIVA 2.000.000,00
+
+03-ESSENCIAL À JUSTIÇA 169.000,00
+
+04-ADMINISTRAÇÃO 3.841.000,00
+
+05-DEFESA NACIONAL 87.000,00
+
+06-SEGURANÇA PÚBLICA 111.000,00
+
+08-ASSISTÊNCIA SOCIAL 2.137.000,00
+
+09-PREVIDÊNCIA SOCIAL 2.182.000,00
+
+10-SAÚDE 14.223.000,00
+
+12-EDUCAÇÃO 10.880.000,00
+
+13-CULTURA 676.000,00
+
+15-URBANISMO 3.275.000,00
+
+16-HABITAÇÃO 191.000,00
+
+17-SANEAMENTO 149.000,00
+
+18-GESTÃO AMBIENTAL 520.000,00
+
+20-AGRICULTURA 934.000,00
+
+23-COMÉRCIO E SERVIÇOS 61.000,00
+
+24-COMUNICAÇÕES 78.000,00
+
+25-ENERGIA 703.000,00
+
+26-TRANSPORTE 855.000,00
+
+27-DESPORTO E LAZER 411.000,00
+
+28-ENCARGOS ESPECIAIS 2.967.000,00
+
+99-RESERVA DE CONTINGÊNCIA 1.350.000,00
+
+Total 47.800.000,00
+
+B-DEPESAS POR UNIDADES ORÇAMENTARIAS
+
+01-CAMARA MUNICIPAL
+
+01.01-CÂMARA MUNICIPAL
+
+01.01.01-CÂMARA MUNICIPAL 1.169.000,00
+
+01.01.02-SECRETARIA DA CAMARA MUNICIPAL 507.000,00
+
+01.01.03-SERVIÇOS 312.000,00 ADMINISTRATIVOS/FINANCEIRO
+
+01.01.04-CONTROLE INTERNO DA CAMARA 12.000,00
+
+02-GABINETE DO PREFEITO
+
+02.01-GABINETE DO PREFEITO
+
+02.01.01-GABINETE DO PREFEITO 856.000,00
+
+02.01.02-CONSELHOS MUNICIPAIS 201.000,00
+
+02-GABINETE DO PREFEITO
+
+02.02-ASSESSORIA DE GOVERNO
+
+02.02.01-COORD. DA ASSESSORIA DE GOVERNO 29.000,00
+
+02-GABINETE DO PREFEITO
+
+02.03-CONTROLADORIA GERAL
+
+02.03.01-COORD. DA CONTROLADORIA GERAL 92.000,00
+
+02-GABINETE DO PREFEITO
+
+02.04-ASSESSORIA JURIDICA
+
+02.04.01-ASSESSORIA JURIDICA 169.000,00
+
+03-SEC. M. DE PLAN, ADM E COORD. GERAL
+
+03.01-SEC. M. DE PLAN. ADM E COORD. GERAL
+
+03.01.02-DEPT. MUN. DE PESSOAL E RH 215.000,00
+
+03.01.03-SERVIÇOS ADMINISTRATIVOS 1.410.000,00
+
+04-SECRETARIA MUNICIPAL DE FINANÇAS
+
+04.01-SEC. MUN. DE FINANÇAS
+
+04.01.01-COORD. SEC. MUN. DE FINANÇAS 653.000,00
+
+04.01.02-SERVIÇOS FINANCEIROS 553.000,00
+
+04.01.03-SERV. DIVISÃO DE ENCARGOS GERAIS 3.715.000,00
+
+04.01.04-RESERVA DE CONTIGÊNCIA 50.000,00
+
+05-SECRETARIA MUN. ASSISTÊNCIA SOCIAL
+
+05.01-SEC. MUN. DE ASSISTÊNCIA SOCIAL
+
+05.01.01-GESTÃO DO SISTEMA UNICO DE ASSISTÊN 178.000,00
+
+05-SECRETARIA MUN. ASSISTÊNCIA SOCIAL
+
+05.02-FUNDO MUN. DE ASSIST. SOCIAL
+
+05.02.01-COORD. FUNDO MUN. ASSIT. SOCIAL 466.000,00
+
+05.02.02-S. PROT. ESP. PESSOAS DEF, IDOSO E 31.000,00
+
+05.02.03-ASSISTÊNCIA SOCIAL GERAL 1.170.000,00
+
+05.02.04-GESTÃO DE BENEFICIOS EVENTUAIS 172.000,00
+
+05-SECRETARIA MUN. ASSISTÊNCIA SOCIAL
+
+05.03-FUNDO MUN. DA CRIANÇA E ADOLESCENTE
+
+05.03.01-FDO MUNICIPAL DA CRI. E ADOLESCENTE 120.000,00
+
+05-SECRETARIA MUN. ASSISTÊNCIA SOCIAL
+
+05.04-FUNDO MUN .DE HABITAÇÃO POPULAR
+
+05.04.01-FDO MUN. HABITAÇÃO POPULAR 89.000,00
+
+06-SECRETARIA MUNICIPAL DE SAÚDE
+
+06.01-SERETARIA MUNICIPAL DE SAÚDE
+
+06.01.01-COORD. SEC. MUN. DE SAÚDE 1.091.000,00
+
+06-SECRETARIA MUNICIPAL DE SAÚDE
+
+06.02-FUNDO MUNICIPAL DE SAÚDE
+
+06.02.01-COORD. FUNDO MUN. DE SAÚDE 310.000,00
+
+06.02.02-ATENÇÃO BÁSICA 378.000,00
+
+06.02.03-ATENÇÃO BÁSICA VARIAVEL 3.730.000,00
+
+06.02.04-ATENÇÃO AMB. E HOSPITALAR 7.603.000,00
+
+06.02.05-VIGILANCIA EM SAÚDE 744.000,00
+
+06.02.06-ASSISTÊNCIA FARMACEUTICA 367.000,00
+
+07-SEC. MUN. DE EDUCAÇÃO E CULTURA
+
+07.01-SEC. MUN. DE EDUCAÇÃO E CULTURA
+
+07.01.01-COORD. SEC. MUN. EDUC. CULTURA 1.160.000,00
+
+07-SEC. MUN. DE EDUCAÇÃO E CULTURA
+
+07.02-EDUCAÇÃO BÁSICA
+
+07.02.01-ENSINO INFANTIL 1.747.000,00
+
+07.02.02-ENSINO FUNDAMENTAL 3.486.000,00
+
+07.02.03-EDUCAÇÃO JOVENS E ADULTOS 56.000,00
+
+07.02.04-ENSINO ESPECIAL 38.000,00
+
+07-SEC. MUN. DE EDUCAÇÃO E CULTURA
+
+07.04-ENSINO SUPERIOR
+
+07.04.01-ENSINO SUPERIOR 51.000,00
+
+07-SEC. MUN. DE EDUCAÇÃO E CULTURA
+
+07.05-FUNDEB
+
+07.05.01-FUNDEB 40% 1.301.000,00
+
+07.05.02-FUNDEB 60% 3.041.000,00
+
+07-SEC. MUN. DE EDUCAÇÃO E CULTURA
+
+07.06-FDO MUNICIPAL DE CULTURA
+
+07.06.01-FUNDO MUNICIPAL DE CULTURA 676.000,00
+
+07-SEC. MUN. DE EDUCAÇÃO E CULTURA
+
+07.07-SERV. DE ESPORTE, LAZER E TURISMO
+
+07.07.01-COORD. SERV. ESP. LAZER E TURISMO 137.000,00
+
+07.07.02-SERV. ESPORTE E LAZER 274.000,00
+
+07.07.03-SERVIÇO DE TURISMO 61.000,00
+
+08-SEC. M. OB. PUB, SEV. URB. E RURAIS
+
+08.01-SEC. M. OB. PUB. SEV. URB. E RURAIS
+
+08.01.01-COORD. M. OBRAS E SERV. URB. RURAIS 649.000,00
+
+08.01.02-SEV. MANUT. OBRAS PÚBLICAS 147.000,00
+
+08.01.03-SERV. URB. E UTILIDADE PÚBLICA 3.126.000,00
+
+08.01.04-SERV. MUNICIPAL DE TRANSPORTES 855.000,00
+
+09-SEC. M. AGRICULTRA E M. AMBIENTE
+
+09.01-SE. M. AGRICULTURA E M. AMBIENTE
+
+09.01.01-SERVIÇO AP. AGRICULTURA E PECUARIA 934.000,00
+
+09.01.02-SERV. MUN. CONTROLE MEIO AMBIENTE 520.000,00
+
+09.01.03-SERVIÇO DE SANEAMENTO 149.000,00
+
+20-IMPREMAF
+
+20.01-IMPREMAF
+
+20.01.01-COORD. GERAL DO IMPREMAF 3.000.000,00
+
+Total 47.800.000,00
+
+C - DESPESAS POR CATEGORIAS E SUB CATEGORIAS ECONÔMICAS
+
+DESPESAS CORRENTES
+
+PESSOAL E ENCARGOS SOCIAIS 25.189.000,00
+
+JUROS E ENCARGOS DA DIVÍDA 10.000,00
+
+OUTRAS DESPESAS CORRENTES 15.225.000,00
+
+SubTotal 40.424.000,00
+
+DESPESAS DE CAPITAL
+
+INVESTIMENTOS 5.190.000,00
+
+AMORTIZAÇÃO DA DÍVIDA 836.000,00
+
+SubTotal 6.026.000,00
+
+RESERVA CONTING / RES DO RPPS 1.350.000,00
+
+Total Geral 47.800.000,00
+
+Art. 4º-Durante a execução Orçamentária de 2017 fica o Poder Executivo, autorizado a abrir créditos suplementares às dotações que se fizerem insuficientes no orçamento geral do Município, no limite de até 40% (quarenta por cento)
+
+da despesa fixada, podendo para tanto utilizar-se dos recursos previstos no art. 43 da
+
+Lei Federal 4320/64 conforme a seguir: I. - Anulação parcial e/ou total de dotações previstas; II. - O excesso de arrecadação efetivamente realizado; III. – Operação de Crédito; IV. – Superávit Financeiro do exercício anterior;
+
+**Art.5º** - Nos termos da Lei de Diretrizes Orçamentárias fica o Poder Executivo autorizado a promover durante a execução orçamentária de 2017, a movimentação das fontes de recursos constantes da lei orçamentária, previstas na arrecadação de receitas e fixação das despesas.
+
+**Art.6º** - Esta Lei entra em vigor na data de sua publicação, produzindo seus efeitos a partir 1º de janeiro de 2017.
+
+Prefeitura Municipal de Águas Formosas, 08 de março de 2017

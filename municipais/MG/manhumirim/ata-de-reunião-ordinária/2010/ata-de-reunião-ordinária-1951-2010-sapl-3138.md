@@ -1,0 +1,26 @@
+---
+titulo: "Ata de Reunião Ordinária nº 1951, de 22/07/2010"
+tipo: "Ata de Reunião Ordinária"
+tipo_na_fonte: "Ata de Reunião Ordinária"
+numero: "1951"
+data: "2010-07-22"
+ementa: "Ata da 1.951ª Sessão Pública da Câmara Municipal de Manhumirim – Aos vinte e dois dias do mês de julho de 2010."
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/3138"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2010/3138/ata_1.951_-_22_de_julho_de_2010.pdf"
+sha256_fonte: "c4fbd62e577da16aaf84e48dfdc0d423e59d5e4d3e32019b82b37cef69764934"
+baixado_em: "2026-11-18"
+---
+
+# Ata de Reunião Ordinária nº 1951, de 22/07/2010
+
+Ata da 1.951ª Sessão Pública da Câmara Municipal de Manhumirim – Aos vinte e dois dias do mês de julho de 2010, às 19 horas e 40 minutos, realiza-se a Sessão Pública da Câmara Municipal de Manhumirim, no Plenário Oswaldo Frossard, situado na Praça Getúlio Vargas, nº 20, Centro, onde, sob a presidência do Vereador Jésus Antônio Aguiar, os senhores vereadores reúnem-se extraordinariamente, estando presentes Alexandre de Jesus Nascimento, Ana Paula Bastos Destro Sathler, Emily Bracks, Hélio Marcos Mendonça, Júlio Maria Horst, Márcio Bitencourt Faria, Marinelsi Delgado Horst e Rodrigo Aparecido Soares. EXPEDIENTE: O Presidente pede que o Secretário Vereador Alexandre faça a chamada dos vereadores para verificação de quorum. Havendo número regimental de presentes, o Presidente, após invocar a proteção de Deus, declara aberta a Sessão Extraordinária. A Vereadora Emily faz a leitura bíblica. É feita a leitura das correspondências, entre as quais se encontram Comunicados do Ministério da Educação, Telegramas do Ministério da Saúde, Ofício da Caixa Econômica Federal, Ofício 407 do Gabinete do Prefeito Municipal, Termo de Compromisso acerca do período eleitoral. O Presidente pede que a Secretaria providencie uma cópia do Termo para cada Vereador. O Secretário convida para o Festival de Inverno. GRANDE EXPEDIENTE: Passa-se à votação do Projeto de Lei 012, autoria do Prefeito Ronaldo Corrêa, que “Dispõe sobre as Diretrizes para a elaboração da Lei Orçamentária de 2011 e dá outras providências”. O Vereador Rodrigo lê um resumo explicando o que é a Lei de Diretrizes Orçamentárias. O Vereador Márcio Vovô complementa a explicação. O Secretário lê a Emenda Modificativa 001 e as Emendas Aditivas 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015, 016, 017, 018 e 019. As
+
+emendas são aprovadas com unanimidade. O Secretário lê o Parecer da Comissão de Legislação e Justiça. O parecer é aprovado com unanimidade. O Secretário lê o Parecer da Comissão de Fiscalização Financeira, Orçamentária e Tomada de Contas. O parecer é aprovado com unanimidade. O Secretário lê o Parecer de Redação Final. O parecer é aprovado com unanimidade. O projeto é numerado como Proposição de Lei Municipal 1.500. O Presidente concede a palavra ao Vereador Rodrigo que comenta sobre as emendas apresentadas e reuniões com a Assessoria Jurídica, acredita que devam ser feitas audiências públicas com a população para serem definidas as prioridades, fala sobre a Lei Orçamentária Anual, reafirma a necessidade de participação da comunidade. A Vereadora Ana Paula também convida para o Festival de Inverno e Festa do Caps. A Vereadora Emily conta que uma mãe assalariada procurou médico no PSF Roque e Policlínica e não encontrou, daí teve de pagar consulta particular a uma pediatra, pede que o Secretário de Saúde resolva esta questão de falta de médico. O Vereador Márcio Vovô explica que a LDO é norteadora dos trabalhos do Executivo, espera poder aplaudir a realização de alguns itens pertinentes nesta Lei, elenca dezenas de expectativas a serem contempladas; aguarda o envio do Estatuto do Magistério para darem continuidade aos trabalhos. O Vereador Hélio
+
+fala sobre o orçamento participativo, conta que participou de algumas conferências municipais e pode notar a contemplação de pedidos da população nas emendas, diz que melhoraram o projeto e lembra que os vereadores têm o compromisso de fiscalizar o cumprimento do orçamento, diz que a zona urbana e rural foram contempladas, acredita que se o orçamento for implementado em sua quase totalidade estarão diminuindo a desigualdade social. O Vereador Xandinho ressalta a importância do calçamento na zona rural e necessidade de indicação de verbas para este fim, comenta que a exemplo das cidades vizinhas o trator de médio porte trará benefícios; fala sobre construção de ponte no Bairro Santa Rita; alerta para o risco de investimento em loteamentos sem projeto; afirma que iniciaram os estudos do Estatuto do Magistério e lembra que esta luta pelos professores foi encabeçada por esta Casa; refaz convite para o Festival de Inverno. O Presidente afirma que a participação dos Vereadores na questão dos professores é ímpar; pede que os Vereadores aguardem após o término da sessão para trocarem opiniões acerca da entrada da Câmara e comunica que a iluminação do prédio da Câmara precisa ser trocada; declara encerrada a sessão, do que para constar lavra-se esta ata.
+
+(a)JÉSUS ANTÔNIO AGUIAR (a)ALEXANDRE J. NASCIMENTO PRESIDENTE SECRETÁRIO

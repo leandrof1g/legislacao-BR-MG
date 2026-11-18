@@ -1,0 +1,28 @@
+---
+titulo: "Ata de Reunião Ordinária nº 1819, de 08/03/2007"
+tipo: "Ata de Reunião Ordinária"
+tipo_na_fonte: "Ata de Reunião Ordinária"
+numero: "1819"
+data: "2007-03-08"
+ementa: "Ata da 1.819ª Sessão Pública da Câmara Municipal de Manhumirim – Aos oito dias do mês de março de 2007."
+municipio: "Manhumirim"
+uf: "MG"
+codigo_ibge: "3139508"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.manhumirim.mg.leg.br/norma/3006"
+fonte_texto: "https://sapl.manhumirim.mg.leg.br/media/sapl/public/normajuridica/2007/3006/ata_1.819_-_08_de_marco_de_2007.pdf"
+sha256_fonte: "e7fb5b5aafcb90e7195e3e7430031b67221fecbc972d25ef8d990293e410d81a"
+baixado_em: "2026-11-18"
+---
+
+# Ata de Reunião Ordinária nº 1819, de 08/03/2007
+
+Ata da 1.819ª Sessão Pública da Câmara Municipal de Manhumirim – Aos oito dias do mês de março de 2007, às 19h35min, realiza-se a Sessão Pública da Câmara Municipal de Manhumirim, no plenário Oswaldo Frossard, onde, sob a presidência do vereador Edmilson de Oliveira, os senhores vereadores reúnem-se ordinariamente, estando presentes Armando José Tadeu de Oliveira, Dalbino Cler Ramos, Darci Maria Braga da Cruz, Dário de Souza Veiga, Eduardo Lima Fraga, Hélio Marcos Mendonça e Paulo Knust Huguinin. Ausenta-se o vereador Júlio Maria de Albuquerque. EXPEDIENTE: O Presidente pede ao Secretário, vereador Armando, que faça a chamada dos vereadores para verificação de quórum. Havendo número regimental de presentes, o Presidente, após invocar a proteção de Deus, declara aberta a Sessão Ordinária. O vereador Dalbino faz a leitura bíblica. O Secretário faz a leitura da ata 1.818 de Sessão Pública da Câmara Municipal. A ata é aprovada sem restrições. É feita a leitura das correspondências, entre as quais se encontram Justificativa do vereador Júlio Maria de Albuquerque, Folheto do senhor Elias Jorge, Carta Convite da Igreja Assembléia de Deus, Convite da Escola Estadual Alfredo Lima, Convite do Conselho Comunitário de Segurança Pública-CONSEP, Convite da Faculdade Doctum, Aviso de liberação de recursos do Banco de Desenvolvimento de Minas Gerais, Curso de Ensino e FUNDEB, Convite do XI Simpósio sobre Cafeicultura de Montanha e Boletim da Griffon. É feita a leitura da Resolução 002/2007, autoria da Mesa-Diretora, que “Fixa regras gerais para dar publicidade a atos da Câmara, da Mesa e das Comissões, inclusive em Quadro de Avisos e dá outras providências”. Passa-se para a leitura do Projeto de
+
+Lei 007/2007, autoria do Prefeito Municipal, que “Autoriza o chefe do Executivo Municipal a implantar uma Equipe de Programa de Saúde da Família na área odontológica – modalidade II, no bairro Nossa Senhora da Penha, nesta cidade de Manhumirim e dá outras providências”. O vereador Paulinho propõe que este projeto seja aprovado com Acordo de Lideranças. O Presidente consulta os Líderes de Partido e após todos concordarem, o Secretário lê o Termo de Renúncia e Parecer de Redação Final. O projeto é numerado como Proposição de Lei 1.373. Passa-se à leitura da Indicação 003/2007, autoria do vereador Armando Neto, que “Indica melhorias para o bairro São Vicente”, Indicação 019/2007, autoria dos vereadores Darci, Dalbino, Dário, Eduardo, Helinho, Paulinho e Edmilson, que “Indica transporte escolar para o córrego dos Tavares” e Indicação 020/2007, autoria dos vereadores Darci, Dalbino, Dário, Eduardo, Helinho, Paulinho e Edmilson, que “Indica reparos no corrimão de ponte na Parada Breder”. Todas as indicações são aprovadas com unanimidade. Não tendo mais nenhum projeto para ser votado, o Presidente pede que o Secretário leia um texto do Dia Internacional da Mulher. O vereador Paulinho diz que está faltando água no bairro da Penha, que alguns funcionários incompetentes da Prefeitura disseram que tinha um cano estourado no seu sítio sendo que era uma mina d’água e esclarece que o cano em questão passa na estrada principal; conta que uma vaca morreu no bairro Divinéia e demorou dois dias para ser enterrada; afirma que contratou uma máquina com seu próprio dinheiro para patrolar a estrada no trecho da propriedade do José Vidal até a AABB; reclama que o Dia da Cidade está chegando e tem várias lâmpadas queimadas na praça; alerta para o risco de acidente próximo à padaria do Celinho e diz que é necessário fazer uma abertura no canteiro; relembra que as lâmpadas da ponte do Isidoro estão queimadas e afirma que o secretariado municipal está puxando o Prefeito
+
+para trás e isto o prejudicará em 2008. O vereador Dário parabeniza todas as mulheres pelo seu dia; conta que o Conselho da Comunidade, CONSEP, a assistente social Gisele Rodrigues e ele, presidente da Associação de Proteção e Assistência aos Condenados- APAC visitaram a cidade de Durandé, alegra-se por terem sido muito bem recebidos e comenta fala da necessidade de realizar uma audiência pública naquela cidade; que foi procurado por algumas pessoas para esclarecimentos sobre o Poliesportivo, lembra que o jogo de futebol tradicional foi extinto, que se trata de um elefante branco porque tem oito funcionários e pergunta o que funciona naquele lugar, onde são investidos os quase trinta mil reais e qual a postura do Executivo a respeito daquela área de lazer, que tem um falso comentário de que os vereadores querem acabar com o clube, fala do custo absurdo para a limpeza das paredes, que fará requerimento acerca do dinheiro público gasto e que espera uma atitude do Secretário Municipal de Esportes. Não tendo mais nenhum vereador para fazer uso da palavra, o Presidente agradece a presença de todos e declara encerrada a sessão, do que para constar lavra-se esta ata. Manhumirim, 08 de março de 2007.
+
+(a)VEREADOR JÚLIO ALBUQUERQUE PRESIDENTE
+
+(a)VEREADOR ARMANDO NETO SECRETÁRIO

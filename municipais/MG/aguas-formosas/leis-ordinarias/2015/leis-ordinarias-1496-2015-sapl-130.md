@@ -1,0 +1,44 @@
+---
+titulo: "Lei Ordinária nº 1496, de 03/06/2015"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1496"
+data: "2015-06-03"
+ementa: "“DECLARA DE UTILIDADE PÚBLICA COM INTERESSE, DESTINAÇÃO E FINALIDADE SOCIAL PARA FINS DE REGULARIZAÇÃO FUNDIÁRIA URBANA AS ÁREAS URBANAS QUE ESPECIFICA”."
+municipio: "Águas Formosas"
+uf: "MG"
+codigo_ibge: "3100906"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.aguasformosas.mg.leg.br/norma/130"
+fonte_texto: "https://sapl.aguasformosas.mg.leg.br/media/sapl/public/normajuridica/2015/130/lei_no_1.496_-_regularizacao_fundiaria.pdf"
+sha256_fonte: "e90cd9537c6045497d3665c4aa7b2161fb370a3e25ae9d7d1942b7475e2443d6"
+baixado_em: "2026-11-18"
+---
+
+# Lei Ordinária nº 1496, de 03/06/2015
+
+LEI N.º 1.496, DE 03 DE JUNHO DE 2015.
+
+“DECLARA DE UTILIDADE PÚBLICA COM INTERESSE, DESTINAÇÃO E FINALIDADE SOCIAL PARA FINS DE REGULARIZAÇÃO FUNDIÁRIA URBANA AS ÁREAS URBANAS QUE ESPECIFICA”. O Povo do Município de Águas Formosas, Estado de Minas Gerais, por seus representantes na Câmara Municipal, aprovou e eu, Prefeito Municipal, em seu nome, sanciono a seguinte Lei:
+
+**Art. 1º.** Fica declarado de Utilidade Pública com interesse, destinação e finalidade social para fins de regularização urbana as áreas urbanas situadas no distrito sede e de propriedade do Município abaixo descritas:
+
+I - Área 1 - Tem como ponto de partida e amarração, nas coordenas (Lat- 17°04’48,81”S e Long-40°56’19,67”O)na Rua Alkimim com Rua Nenem Baiano seguindo pela Rua Nenem Baiano até Rua pampa, (Lat-17°04’51,70”S e Long-40°56’20,85”O) com distância de 97,60m, seguindo pela Rua Pampa até a Rua José Galdino ( Lat-17°04’50,15”S e Long-40°56’25,28”O) com distância de 141,40m defletindo a esquerda até a Avenida Bias Fortes (Lat-17°04’52,68”S e Long-40°56’26,13”O) com distância de 88,50m, seguindo então pelo curso da Avenida Bias Fortes até o inicio da Rua 1 do Bairro Nenem Baiano (Lat- 17°04’45,27”S e Long-40°56’36,79”O) com distância de 444,30m, seguindo pela Rua 1 até cruzamento da Rua C (Lat-17°04’45,94”S e Long-40°56’32,24”O) com distância de 134,50m, continuando pela rua C até cruzamento com Rua B (Lat-17°04’44,24”S e Long- 40°56’31,70”O) com distância de 51,30m, defletindo a direita e seguindo na direção do prolongamento da Rua B (301,40 + 90,1)m até cruzamento da rua Nenem Baiano e inicio da Rua Alkimim, fechando o polígono com área 69.239,02m².
+
+II - Área 2I - Tem como ponto de partida e amarração, nas coordenas (Lat- 17°05’17,15”S e Long-40°56’15,28”O)na Rua Joaquim Leandro com Rua Dr. Sebastião Figueiredo seguindo pela Rua Dr. Sebastião Figueiredo até a divisa com a propriedade de Pedro Israel Luz Abrantes, (Lat-17°05’29,65”S e Long-40°56’19,11”O) com distância de 395,70m, seguindo pela cerca de extrema da propriedade de Pedro Israel Luz Abrantes até
+
+encontrar com prolongamento da Rua Divaldo Viana (Lat-17°05’28,16”S e Long- 40°56’24,65”O) com distância de 165,80m defletindo a direita, seguindo a Rua do Corredor (Lat-17°05’09,07”S e Long-40°56’34,56”O) com distância de 644,50m, virando a direita pela divisa do Loteamento Laviolla (Lat-17°05’07,42”S e Long-40°56’32,86”O) com distância de 73,90m, seguindo pela esquerda passando pelos fundos da Escola Carlos Magno Rebouças e Subestação da CEMIG (Lat-17°05’03,39”S e Long-40°56’32,93”O) com distância de 129,60m, continuando pela direta com a lateral esquerda da subestação da CEMIG (Lat- 17°05’03,33”S e Long-40°56’31,99”O) com distância de 25,00m, virando a esquerda até a Rua Amilton Almeida Pinto com a Rua Joaima (Lat-17°04’59,62”S e Long-40°56’31,89”O) com distância de 112,30m defletindo a direita e seguindo pela Rua Joaima (Lat- 17°05’01,91”S e Long-40°56’24,73”O) com distância de 218,00m, defletindo a direita pela Rua Água Quente (Lat-17°05’08,70”S e Long-40°56’25,89”O) com distância de 214,20m , seguindo a esquerda na Rua Dr. Josino Abrantes, sentido hospital (Lat-17°05’11,26”S e Long-40°56’18,63”O) com distância de 230,60m, virando a direita na Rua Divaldo Viana (Lat-17°05’15,55”S e Long-40°56’20,14”O) com distância de 142,10m, virando a esquerda na Rua Joaquim Leandro seguindo até o cruzamento com a Rua Dr. Sebastião Figueiredo 153,20m fechando o polígono com área de 258.040,48m² .
+
+III – Área 3: Tem como ponto de partida e amarração, nas coordenas (Lat- 17°05’20,84”S e Long-40°55’49,16”O)na divisa do perímetro urbano (Bairro Roseira) com a propriedade de José de Almeida Pinto, seguindo no sentido da Rua Dr. Josino Abrantes até a Rua do cemitério, (Lat-17°05’18,35”S e Long-40°55’57,51”O) com distância de 270,70m, virando a direita pela Rua do cemitério até encontrar com a Avenida São Vicente (Lat- 17°05’15,99”S e Long-40°55’56,61”O) com distância de 87,80m, seguindo a Avenida São Vicente até virar a direita na Rua Criso Lita (Lat-17°05’15,09”S e Long-40°55’59,12”O) com distância de 79,80m, seguindo a Rua Criso Lita até virar a esquerda na Rua Crisólita (Lat- 17°05’10,78”S e Long-40°55’57,73”O) com distância de 131,40m, seguindo pela Rua Crisólita até virar a direira na Rua Cesário Matias de Almeida(Lat-17°05’06,78”S e Long- 40°55’58,63”O) com distância de 127,40m, continuando pela Rua Cesário Matias de Almeida até virar a esquerda na Rua Deraldo José Fernandes (Lat-17°04’58,72”S e Long- 40°55’51,10”O) com distância de 348,50m, subindo a Rua Deraldo até virar a direita na Rua Governador Valadares (Lat-17°04’56,00”S e Long-40°55’53,30”O) com distância de 108,20m, seguindo pela Rua Governador Valadares até virar a esquerda na Rua Nestor Nascimento Pimenta (Lat-17°04’52,60”S e Long-40°55’48,54”O) com distância de 184,70m,
+
+seguindo a Rua Nestor Nascimento até virar a esquerda na Avenida Presidente Getulio Vargas (Lat-17°04’50,57”S e Long-40°55’48,50”O) com distância de 65,80m, seguindo pela Avenida até virar a direita na Rua Guiomarino F. Rocha (Lat-17°04’50,39”S e Long-40°55’49,77”O) com distância de 42,50m, seguindo pela Rua Guiomarino até virar a esquerda na Rua Machacalis (Lat-17°04’47,85”S e Long-40°55’50,37”O) com distância de 81,50m, seguindo pela Rua Machacalis até virar a direita na Rua Pedra Azul (Lat-17°04’47,53”S e Long- 40°55’53,80”O) com distância de 100,30m, seguindo pela Rua Pedra Azul até o cruzamento com a Rua Alcobaça (Lat-17°04’46,04”S e Long-40°55’55,10”O) com distância de 56,50m , Continuando pela Rua Pedra Azul até encontra com a Rua Divaldo Viana (Lat-17°04’42,03”S e Long-40°56’08,22”O) com distância de 406,00m, virando a esquerda pela Rua Divaldo Viana até virar a direita na Avenida Presidente Getulio Vargas (Lat-17°04’47,42”S e Long- 40°56’10,12”O) com distância de 178,30m, seguindo pela Avenida até virar a direita na Rua Nanuque (Lat-17°04’47,13”S e Long-40°56’12,31”O) com distância de 67,90m, seguindo no sentido do prolongamento da Rua Nanuque até chegar ao Rio Pampã (Lat-17°04’37,28”S e Long-40°56’08,46”O) com distância de 346,60m seguindo pelo rio Pampã até a coordenada de (Lat-17°04’38,65”S e Long-40°56’06,66”O) com distância de 108,40m, continuando pelo rio pampa até a coordenada de (Lat-17°04’28,11”S e Long-40°55’57,88”O) com distância de 437,92m , continuando pelo rio pampa até a coordenada de (Lat-17°04’37,68”S e Long- 40°55’44,76”O) com distância de 504,50m, continuando pelo rio pampa até a coordenada de (Lat-17°04’40,40”S e Long-40°55’46,45”O) com distância de 79,60m ,continuando pelo rio pampa até a coordenada de (Lat-17°04’53,49”S e Long-40°55’42,68”O) com distância de 421,30m , continuando pelo rio pampa até a coordenada de (Lat-17°04’54,10”S e Long- 40°55’45,31”O) com distância de 76,60m, continuando pelo rio pampã até a coordenada de (Lat-17°04’58,16”S e Long-40°55’41,64”O) com distância de 189,60m, virando a direita e seguindo perpendicularmente ao Rio até encontrar com a Rua das Nações Unidas na coordenada de (Lat-17°05’01,49”S e Long-40°55’47,84”O) com distância de 233,10m e virando a esquerda, seguindo pela Rua das Nações Unidas e passando perpendicularmente as Ruas Nicolas Tico, Manoel Viana e Artur Pinto até a coordenada (Lat-17°05’10,58”S e Long- 40°55’48,67”O) com distância de 285,80m, continuando pela Rua das Nações Unidas até a coordenada de (Lat-17°05’16,47”S e Long-40°55’46,80”O) com distância de 176,70m, seguindo pela divisa do perímetro urbano paralelo a Rua das Nações Unidas com 163,80m fechando o polígono com área de 550.554,79m².
+
+**Parágrafo único.** Aos ocupantes de lotes localizados nas áreas acima especificadas serão oferecidos pelo Poder Público, serviços diversos e gratuitos à comunidade carente visando atender às necessidades básicas em saúde, educação, saneamento e outros.
+
+**Art. 2º.** Integra a presente lei a planta constante do anexo único desta lei
+
+**Art. 3.** Revogadas as disposições em contrário.
+
+**Art. 4º.** Esta lei entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Águas Formosas, 03 de junho de 2015.
