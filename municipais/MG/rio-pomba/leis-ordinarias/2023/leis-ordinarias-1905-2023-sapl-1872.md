@@ -1,0 +1,78 @@
+---
+titulo: "Lei Ordinária nº 1905, de 10/08/2023"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "1905"
+data: "2023-08-10"
+ementa: "Autoriza a transferência de recurso a título de contribuição e a abertura de crédito especial no orçamento para acobertar despesas a entidades."
+municipio: "Rio Pomba"
+uf: "MG"
+codigo_ibge: "3155801"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.riopomba.mg.leg.br/norma/1872"
+fonte_texto: "https://sapl.riopomba.mg.leg.br/media/sapl/public/normajuridica/2023/1872/lei_1905_de_2023_-_autoriza_a_transferencia_de_recurso_a_titulo_de_contribuicao_e_abertura_de_credito_especial_no_orcamento_-_america_atletico_clube.pdf"
+sha256_fonte: "d943088abafb354e0e7dbaefb031cef282e4aeaaac02bc0990a3a086ff432924"
+baixado_em: "2026-11-19"
+---
+
+# Lei Ordinária nº 1905, de 10/08/2023
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Prefeitura de RIO POMBA
+
+ESTADO DE MINAS GERAIS ATO DO PODER EXECUTIVO
+
+LEI Nº1.905/2023.
+
+“AUTORIZA A TRANSFERÊNCIA DE RECURSO A
+
+TÍTULO DE CONTRIBUIÇÃO E A ABERTURA DE CREDITO ESPECIAL NO ORÇAMENTO PARA ACOBERTAR DESPESAS A ENTIDADES”.
+
+REGINALDO FURTADO DE CARVALHO, Prefeito Municipal de Rio Pomba/MG no uso das atribuições que lhe conferem a Lei Orgânica do Município, remete à apreciação desta Egrégia Câmara de Vereadores o seguinte Projeto de Lei:
+
+**Art. 1º** — Fica o Poder Executivo do Município de Rio Pomba autorizado a conceder transferência de recurso a título de contribuição a entidade América Atlético Clube no valor de R$ 100.000,00 (cem mil reais).
+
+**Art. 2º** — Fica o Poder Executivo do Município de Rio Pomba autorizado a criar no orçamento vigente crédito especial no montante de R$ 100.000,00 (cem mil reais) destinado a cobrir despesas descritas no art. 1º desta Lei.
+
+**Art. 3º** —- O presente crédito obedecerá a seguinte dotação orçamentária:
+
+Orgão 002-Prefeitura Municipal de Rio Pomba
+
+Unidade 010- SECRETARIA MIC. GRETURA, ESPORTE, LAZER E TURISMO. x pol
+
+Sub-Unidade 02- FUNDO. MUNICIPAL DE. ESPORTE
+
+Função 027- Desporto e Lazer. .
+
+Subfunção 812 - Desporto Comunitário
+
+Programa 000 - ENCARGOS ESPECIAIS
+
+Projeto/Atividade 2844-Contribuição ao América Atlético Clube
+
+Natureza da Despesa | 3.3.50.41 — Contribuição À
+
+Valor R$ 100. 000,00
+
+Fonte de Recurso 1.710.000 — Transferência Especiald o Estado
+
+**Art. 4º** — Os recursos utilizados para acobertar as despesas serão provenientes de excesso de arrecadação apurado no exercício, na fonte, ds "10. 000 — Transferência Especial do Estado.
+
+**Art. 5º** — O Poder Executivo fica autotizado a procedér a readequação dos instrumentos de planejamento, o PPA — Plano Plurianual, LDO- Lei de Diretrizes Orçamentárias, LOA- Lei Orçamentária Anual e Lei de Subvenção, Leis 1 789/2021, Lei 1.830/2022, 1.861/2022 e Lei 1.862/2022, respectivamente.
+
+**Art. 6º** — Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+Rio Pomba, 10 de Agosto de 2023. 256º da Fundação e 191º da Emancipação.
+
+A
+
+uti
+
+REGINAVDO FURTADO DE CARVALHO Prefeito Municipal
+
+Certifico que a presente Lei foi publicada por afixação no quadro próprio da Prefeitura Municipal. Rio Pomba, 10 de Agosto de 2023.
+
+Marks Luis da Silva
+
+Servidor responsável pela publicação

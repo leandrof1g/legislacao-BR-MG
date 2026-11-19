@@ -1,0 +1,46 @@
+---
+titulo: "Portaria nº 2602, de 02/02/2023"
+tipo: "Portaria"
+tipo_na_fonte: "Portaria"
+numero: "2602"
+data: "2023-02-02"
+ementa: "Designa Agente de Contratação e Comissão de Contratação para conduzir os atos das licitações e contratações lastreados na Lei Federal nº 14.133, de 1º de abril de 2021."
+municipio: "Arinos"
+uf: "MG"
+codigo_ibge: "3104502"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.arinos.mg.leg.br/norma/4629"
+fonte_texto: "https://sapl.arinos.mg.leg.br/media/sapl/public/normajuridica/2023/4629/portaria_2602-23.pdf"
+sha256_fonte: "c2e5cfae9cbbdded9f9c2ed4a0de2da6169f91abb2c166aa37426dbb72e9746a"
+baixado_em: "2026-11-19"
+---
+
+# Portaria nº 2602, de 02/02/2023
+
+PORTARIA Nº 2.602, DE 2 DE FEVEREIRO DE 2023.
+
+Designa Agente de Contratação e Comissão de Contratação para conduzir os atos das licitações e contratações lastreados na Lei Federal nº 14.133, de 1º de abril de 2021.
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ARINOS, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 34, incisos III e XIV da Lei Orgânica do Município (Emenda à Lei Orgânica nº 13, de 15 de setembro de 2017)
+
+RESOLVE:
+
+**Art. 1º** Designar o servidor ANTONIO CARLOS DOS SANTOS para exercer a função de AGENTE DE CONTRATAÇÃO da Câmara Municipal de Arinos- MG, a fim de conduzir os atos das licitações e contratações derivadas da Lei Federal nº 14.133, de 1º de abril de 2021.
+
+**Art. 2º** Designar as servidoras NATALYA DURÃES FONSECA e IVANICE RODRIGUES DOS SANTOS para exercerem as funções atinentes à COMISSÃO DE CONTRATAÇÃO previstas na Lei Federal nº 14.133, de 2021, nos limites daquela Lei, ficando como respectivas suplentes as servidoras EMILLY SOARES DURÃES e CLEIDIANE DA SILVA BATISTA CARNEIRO.
+
+**Parágrafo único.** Os servidores mencionados no caput deste artigo auxiliarão o Agente de Contratação no desempenho de suas atribuições, em conjunto ou isoladamente.
+
+**Art. 3º** Integram o rol de atribuições do Agente de Contratação e da Comissão de Contratação a tomada de decisões, o acompanhamento do trâmite da licitação, o impulsionamento do procedimento licitatório e a execução de quaisquer outras atividades necessárias ao bom andamento do certame, especialmente aquelas previstas na Lei Federal nº 14.133, de 2021.
+
+**§ 1º** O Agente de Contratação e a Comissão de Contratação poderão contar com o apoio dos órgãos de assessoramento jurídico e de controle interno para o desempenho das funções essenciais à execução de suas atribuições.
+
+**§ 2º** O Agente de Contratação convocará os membros da Comissão de Contratação quando necessário e delegará as atribuições para o regular desenvolvimento das licitações e contratações, nos limites legais.
+
+**§ 3º** O Agente de Contratação e/ou a Comissão de Contratação poderá convocar servidores públicos efetivos, que possuam conhecimento técnico acerca do objeto da licitação, para auxiliarem em atos dos certames.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+Arinos, 2 de fevereiro de 2023.
+
+Vereador DÃO SANTANA Presidente

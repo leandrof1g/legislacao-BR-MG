@@ -4,7 +4,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 
 | Município | População | Fonte automática | Normas no acervo | Carga inicial |
 | --- | ---: | --- | ---: | :---: |
-| Belo Horizonte | 2.315.560 | **sem fonte automática** | 35203 | — |
+| Belo Horizonte | 2.315.560 | **sem fonte automática** | 35210 | — |
 | Uberlândia | 713.224 | **sem fonte automática** | 0 | — |
 | Contagem | 621.863 | SAPL ([sapl.contagem.mg.leg.br](https://sapl.contagem.mg.leg.br)) | 3637 | completa |
 | Juiz de Fora | 540.756 | **sem fonte automática** | 0 | — |
@@ -42,7 +42,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Pará de Minas | 97.139 | SAPL ([sapl.parademinas.mg.leg.br](https://sapl.parademinas.mg.leg.br)) | 3603 | completa |
 | Paracatu | 94.023 | **sem fonte automática** | 0 | — |
 | Itajubá | 93.073 | **sem fonte automática** | 0 | — |
-| Manhuaçu | 91.886 | SAPL ([sapl.manhuacu.mg.leg.br](https://sapl.manhuacu.mg.leg.br)) | 5954 | em andamento |
+| Manhuaçu | 91.886 | SAPL ([sapl.manhuacu.mg.leg.br](https://sapl.manhuacu.mg.leg.br)) | 5958 | em andamento |
 | São João del Rei | 90.225 | **sem fonte automática** | 0 | — |
 | Patrocínio | 89.826 | SAPL ([sapl.patrocinio.mg.leg.br](https://sapl.patrocinio.mg.leg.br)) | 3069 | completa |
 | Caratinga | 87.360 | **sem fonte automática** | 0 | — |
@@ -72,7 +72,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Congonhas | 52.890 | SAPL ([sapl.congonhas.mg.leg.br](https://sapl.congonhas.mg.leg.br)) | 9158 | completa |
 | São Francisco | 52.762 | SAPL ([sapl.saofrancisco.mg.leg.br](https://sapl.saofrancisco.mg.leg.br)) | 2996 | completa |
 | Campo Belo | 52.277 | SAPL ([sapl.campobelo.mg.leg.br](https://sapl.campobelo.mg.leg.br)) | 0 | completa |
-| Bom Despacho | 51.737 | SAPL ([sapl.bomdespacho.mg.leg.br](https://sapl.bomdespacho.mg.leg.br)) | 2311 | em andamento |
+| Bom Despacho | 51.737 | SAPL ([sapl.bomdespacho.mg.leg.br](https://sapl.bomdespacho.mg.leg.br)) | 2366 | em andamento |
 | Lagoa da Prata | 51.412 | SAPL ([sapl.lagoadaprata.mg.leg.br](https://sapl.lagoadaprata.mg.leg.br)) | 5566 | completa |
 | Leopoldina | 51.145 | **sem fonte automática** | 0 | — |
 | Guaxupé | 50.911 | **sem fonte automática** | 0 | — |
@@ -112,7 +112,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Taiobeiras | 33.050 | **sem fonte automática** | 0 | — |
 | Itamarandiba | 32.948 | SAPL ([sapl.itamarandiba.mg.leg.br](https://sapl.itamarandiba.mg.leg.br)) | 11 | completa |
 | Guanhães | 32.244 | **sem fonte automática** | 0 | — |
-| Ouro Fino | 32.094 | SAPL ([sapl.ourofino.mg.leg.br](https://sapl.ourofino.mg.leg.br)) | 2571 | em andamento |
+| Ouro Fino | 32.094 | SAPL ([sapl.ourofino.mg.leg.br](https://sapl.ourofino.mg.leg.br)) | 2667 | em andamento |
 | Brasília de Minas | 32.025 | **sem fonte automática** | 0 | — |
 | Carangola | 31.240 | SAPL ([sapl.carangola.mg.leg.br](https://sapl.carangola.mg.leg.br)) | 1 | completa |
 | Pompéu | 31.047 | SAPL ([sapl.pompeu.mg.leg.br](https://sapl.pompeu.mg.leg.br)) | 0 | completa |
@@ -123,20 +123,20 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Espinosa | 30.443 | **sem fonte automática** | 0 | — |
 | Cláudio | 30.159 | SAPL ([sapl.claudio.mg.leg.br](https://sapl.claudio.mg.leg.br)) | 52 | completa |
 | Rio Pardo de Minas | 28.271 | SAPL ([sapl.riopardodeminas.mg.leg.br](https://sapl.riopardodeminas.mg.leg.br)) | 2405 | completa |
-| Espera Feliz | 24.102 | SAPL ([sapl.esperafeliz.mg.leg.br](https://sapl.esperafeliz.mg.leg.br)) | 1747 | em andamento |
+| Espera Feliz | 24.102 | SAPL ([sapl.esperafeliz.mg.leg.br](https://sapl.esperafeliz.mg.leg.br)) | 2451 | em andamento |
 | Monte Santo de Minas | 20.890 | SAPL ([sapl.montesantodeminas.mg.leg.br](https://sapl.montesantodeminas.mg.leg.br)) | 2923 | completa |
 | Campestre | 20.696 | SAPL ([sapl.campestre.mg.leg.br](https://sapl.campestre.mg.leg.br)) | 1728 | completa |
-| Manhumirim | 20.613 | SAPL ([sapl.manhumirim.mg.leg.br](https://sapl.manhumirim.mg.leg.br)) | 2802 | em andamento |
+| Manhumirim | 20.613 | SAPL ([sapl.manhumirim.mg.leg.br](https://sapl.manhumirim.mg.leg.br)) | 3656 | completa |
 | Águas Formosas | 18.448 | SAPL ([sapl.aguasformosas.mg.leg.br](https://sapl.aguasformosas.mg.leg.br)) | 349 | completa |
 | Alpinópolis | 18.300 | SAPL ([sapl.alpinopolis.mg.leg.br](https://sapl.alpinopolis.mg.leg.br)) | 105 | completa |
 | Campina Verde | 18.011 | SAPL ([sapl.campinaverde.mg.leg.br](https://sapl.campinaverde.mg.leg.br)) | 46 | completa |
 | Luz | 17.875 | SAPL ([sapl.luz.mg.leg.br](https://sapl.luz.mg.leg.br)) | 658 | completa |
-| Rio Pomba | 17.443 | SAPL ([sapl.riopomba.mg.leg.br](https://sapl.riopomba.mg.leg.br)) | 296 | em andamento |
-| Arinos | 17.272 | SAPL ([sapl.arinos.mg.leg.br](https://sapl.arinos.mg.leg.br)) | 329 | em andamento |
+| Rio Pomba | 17.443 | SAPL ([sapl.riopomba.mg.leg.br](https://sapl.riopomba.mg.leg.br)) | 607 | em andamento |
+| Arinos | 17.272 | SAPL ([sapl.arinos.mg.leg.br](https://sapl.arinos.mg.leg.br)) | 2439 | em andamento |
 | Perdizes | 17.151 | SAPL ([sapl.perdizes.mg.leg.br](https://sapl.perdizes.mg.leg.br)) | 452 | completa |
-| Tocantins | 16.185 | SAPL ([sapl.tocantins.mg.leg.br](https://sapl.tocantins.mg.leg.br)) | 84 | em andamento |
-| Itatiaiuçu | 12.966 | SAPL ([sapl.itatiaiucu.mg.leg.br](https://sapl.itatiaiucu.mg.leg.br)) | 6 | em andamento |
-| Itapeva | 12.692 | SAPL ([sapl.itapeva.mg.leg.br](https://sapl.itapeva.mg.leg.br)) | 1 | em andamento |
+| Tocantins | 16.185 | SAPL ([sapl.tocantins.mg.leg.br](https://sapl.tocantins.mg.leg.br)) | 198 | em andamento |
+| Itatiaiuçu | 12.966 | SAPL ([sapl.itatiaiucu.mg.leg.br](https://sapl.itatiaiucu.mg.leg.br)) | 249 | em andamento |
+| Itapeva | 12.692 | SAPL ([sapl.itapeva.mg.leg.br](https://sapl.itapeva.mg.leg.br)) | 79 | em andamento |
 | Dores do Indaiá | 12.630 | SAPL ([sapl.doresdoindaia.mg.leg.br](https://sapl.doresdoindaia.mg.leg.br)) | 14 | em andamento |
 | Cambuquira | 12.313 | SAPL ([sapl.cambuquira.mg.leg.br](https://sapl.cambuquira.mg.leg.br)) | 22 | em andamento |
 | Carmo da Mata | 11.019 | SAPL ([sapl.carmodamata.mg.leg.br](https://sapl.carmodamata.mg.leg.br)) | 12 | em andamento |

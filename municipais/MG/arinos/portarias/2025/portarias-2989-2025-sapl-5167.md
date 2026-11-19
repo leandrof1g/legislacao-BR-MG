@@ -1,0 +1,44 @@
+---
+titulo: "Portaria nº 2989, de 08/05/2025"
+tipo: "Portaria"
+tipo_na_fonte: "Portaria"
+numero: "2989"
+data: "2025-05-08"
+ementa: "DESIGNA MEMBROS DE COMISSÃO ESPECIAL E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Arinos"
+uf: "MG"
+codigo_ibge: "3104502"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.arinos.mg.leg.br/norma/5167"
+fonte_texto: "https://sapl.arinos.mg.leg.br/media/sapl/public/normajuridica/2025/5167/portaria_2989-25.pdf"
+sha256_fonte: "c8f268d7a87d44e157792f3b2ef7688880268364e9a04c63d75da67c3a9ddcc3"
+baixado_em: "2026-11-19"
+---
+
+# Portaria nº 2989, de 08/05/2025
+
+PORTARIA 2989/2025
+
+DESIGNA MEMBROS DE COMISSÃO ESPECIAL E DÁ OUTRAS PROVIDÊNCIAS.
+
+Presidente da Câmara Municipal de Arinos, no uso de suas atribuições legais, especialmente o previsto no art. 71, XX, da Resolução 129/2017,
+
+Considerando a indicação dos líderes;
+
+RESOLVE:
+
+PRIMEIRO: Designar Comissão Especial que irá estudar e emitir parecer ao Projeto de Resolução 02/2025 sendo:
+
+I- Membros Titulares: Vereador Sargento Ferreira Vereador Júnior Valadares Vereador Gilmar Vendedor
+
+II- Membros Suplentes: Vereador Cleuber Michirra Vereador Fesson Vereador Donizete Caldeira
+
+SEGUNDO: A Comissão obedecerá a todos os prazos e critérios estabelecidos pelo Regimento Interno.
+
+TERCEIRO: Esta portaria entra em vigor na data de sua publicação.
+
+Registre-se, publique-se e cumpra-se.
+
+Gab. do Presidente, 8 de maio de 2025.
+
+Vereador DÃO SANTANA PRESIDENTE
