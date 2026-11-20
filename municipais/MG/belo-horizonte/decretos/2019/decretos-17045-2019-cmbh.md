@@ -12,10 +12,10 @@ codigo_ibge: "3106200"
 id_norma: "2c907f7667c5d0dc01683705667c01a6"
 versao_texto: "atualizada (CMBH)"
 fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/17045/2019"
-fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769a2f4485019a557b3f6a0235"
-id_documento: "2c907f769a2f4485019a557b3f6a0235"
-sha256_fonte: "97194fb86a3aebd2addbd4afbfc7cb179261b64e3cd5932509d0894248063519"
-baixado_em: "2026-10-23"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a1e3a31801a1e92519170045"
+id_documento: "2c907f76a1e3a31801a1e92519170045"
+sha256_fonte: "5c016e8982939ff33801a4884144d1a468d13c883ff24daeb1bd873bfff01256"
+baixado_em: "2026-11-20"
 ---
 
 # Decreto nº 17045/2019
@@ -236,9 +236,17 @@ II – 24 (vinte e quatro) dias para jornadas de 2 (dois) dias e inferiores a 3 
 
 **§7º** acrescentado pelo Decreto nº 19.351, de 31/10/2025 (Art. 4º)
 
+**§ 7º** – Estarão aptos à repescagem os agentes públicos que tiverem suas avaliações geradas e não respondidas no prazo estabelecido no caput, em decorrência de afastamento:
+
+I – de qualquer natureza, iniciado antes do período avaliatório e que perdure durante toda a sua duração;
+
+II – causado por fato superveniente ao início do período avaliatório, não programável e alheio à vontade do agente público, que impossibilite seu retorno ao exercício até a data limite para a realização da avaliação.
+
+**§7º** com redação dada pelo Decreto nº 19.830, de 16/11/2026 (Art. 1º)
+
 **Art. 15** – Os dias efetivamente trabalhados de um período avaliatório não serão considerados para fins de avaliação em períodos subsequentes.
 
-**Art. 16** – O agente público que adquirir estabilidade nos termos da legislação vigente, no decorrer do período avaliatório anual, será submetido à Adap desde que possua, no mínimo, sessenta dias efetivamente trabalhados, contados da data de aquisição de sua estabilidade até o último dia do mês que anteceder o preenchimento do Termo de Avaliação, no respectivo período avaliatório.
+**Art. 16** – O agente público que adquirir estabilidade nos termos da legislação vigente, no decorrer do período avaliatório anual, será submetido à Adap desde que possua, no mínimo, sessenta dias efetivamente trabalhados, contados da data de aquisição de sua estabilidade até o último dia do mês que anteceder o preenchimento do Termo de valiação, no respectivo período avaliatório.
 
 Seção III
 
