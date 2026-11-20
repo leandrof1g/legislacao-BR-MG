@@ -1,0 +1,58 @@
+---
+titulo: "Lei Ordinária nº 846, de 12/12/2000"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "846"
+data: "2000-12-12"
+ementa: "AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS:"
+municipio: "Arinos"
+uf: "MG"
+codigo_ibge: "3104502"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.arinos.mg.leg.br/norma/1037"
+fonte_texto: "https://sapl.arinos.mg.leg.br/media/sapl/public/normajuridica/2000/1037/1037_texto_integral.pdf"
+sha256_fonte: "877c29970c9ff8c12f6b1ef67f488e46cdf84d42675fd5300418723f7309a950"
+baixado_em: "2026-11-20"
+---
+
+# Lei Ordinária nº 846, de 12/12/2000
+
+Lei n.° 846/2000, de 12 de Dezembro de 2000
+
+Autoriza a abertura de Crédito Suplementar que especifica e dá outras providências:
+
+ART 1° - Fica o Poder Executivo autorizado a abrir crédito Suplementar ao orçamento vigente no valor de R$ 652.000,00 (Seiscentos e cinqüenta e dois mil reais) nas dotações abaixo descritas:
+
+GABINETE R$ 3.000,00 02.01.03.07.020-2002-3111 R$ 1.000,00 02.01.03.07.020-2002-3131 02.01.03.07.020-2002-3132 R$ 2.000,00 02.01.03.07.023-2004-3132 R$ 1.000,00
+
+DEPARTAMENTO DE ADMINISTRAÇÃO
+
+02.02.03.07.021-2006-3111 R$ 1.000,00 02.02.03.07.021-2006-3120 R$ 3.000,00 02.02.03.07.021-2006-3132 R$ 30.000,00 02.02.05.22.137-2009-3132 R$ 1.000,00 02.02.15.82.495-2018-3251 R$ 3.000,00 02.02.15.82.492-2019-3280 R$ 1.000,00 02.02.06.30.174-2073-3120 R$ 1.000,00 02.02.06.30.174-2073-3132 R$ 1.000,00 02.02.06.30.177-2075-3132 R$ 1.000,00 02.02.06.30.177-2076-3132 R$ 1.000,00
+
+DEPARTAMENTO DE FAZENDA E PLANEJAMENTO
+
+02.03.03.08.032-2020-3132 R$ 10.000,00 02.03.03.08.033-3005-4354 R$ 3.000,00
+
+DEPARTAMENTO DE EDUCAÇÃO, CULTURA E DESPORTO
+
+02.04.08.07.021-2025-3120 R$ 3.000,00 02.04.08.07.021-2025-3132 R$ 3.000,00 02.04.08.41.190-2023-3111 R$ 20.000,00 02.04.08.42.188-2026-3222 R$ 120.000,00 02.04.08.42.188.2027-3111 R$ 120.000,00 02.04.08.42.188.2027-3120 R$ 10.000,00 02.04.08.42.188.2027-3132 R$ 10.000,00 02.04.08.42.239-2031-3120 R$ 10.000,00 02.04.08.42.239-2031-3132 R$ 110.000,00
+
+DEPARTAMENTO DE OBRAS, LIMPEZA E SERVIÇOS PÚBLICOS
+
+02.05.03.07.021-2040-3111 R$ 8.000,00 02.05.03.07.021-2040-3120 R$ 10.000,00 02.05.03.07.021-2040-3132 R$ 30.000,00 02.05.10.60.021-2041-3132 R$ 5.000,00 02.05.10.60.325-2042-3111 R$ 8.000.00 02.05.10.60.325.2042-3132 R$ 30.000.00
+
+R$ 20.000.00 02.05.16.88.021-2 043-3120 R$ 20.000.00 043-313202.05.16.8.021-2 R$ 12.000,00 0444111 02.05.16.8.5343 R$ 7.000,00 030-411102.05.16.8.534-3
+
+DEPARTAMENTO DE SAUDE E AÇÃO SOCIAL R$ 10.000.00 02.06.13.75.021-2046-3120 R$ 10.000.00 02.06.13.75.0213 046-3132
+
+DEPARTAMENTO DE AGROPECUÁRIA R$ 3.000.00 02.07.04.07.0213060-3132 R$ 3.000.00 02.07.04.14.078-206 2-3120 R$ 5.000.00 02.07.04.14.0783062-3132 02.07.04.18.112-2063-3233 R$ 2.000.00
+
+**Art. 2°** - Os recursos necessários para as dotações retrocitadas serão oriundas de anulação parcial das dotações: R$ 5.000,00 02.04.08.07.021-202 5-3233 R$ 30.000,00 -325902.04.08.81.483-102 R$ 4.000,00 4111 02.05.03.07.0253020 R$ 5.000,00 3-411102.05.10.58.323-302 R$ 5.000,00 1-411102.05.10.58.323-305 R$ 5.000,00 -421002.05.10.60326-3078 R$ 5.000,00 4111 02.05.16.8.534-3079 R$ 10.000,00 1-411002.05.10.60.325-308 R$ 5.000,00 -411002.05.06.30.17-3082 R$ 90.000,00 -411002.05.10.58.323-3080 R$ 10.000,00 -411002.06.13.76.49-3041 R$ 22.000,00 411002.07.13.75.430-3085 R$ 145.000,00 411002.90.13.75.428-107 R$ 95.000,00 12002.90.13.75.428-108-4 R$ 216.000,00 12002.90.13.75.428-109-4
+
+**Art. 3°** - Revogam-se as disposições em contrário.
+
+**Art. 4°** - Esta Lei entra em vigor na data da sua publicação.
+
+Arinos — MG , 12 de Dezembro de 2000. (1)t.t. O Protocolado no ,n as
+
+Folhos /''f t:b o n" José Idelbran , erreira r de Souza 3S- i -- c; Prefeit cipal Arincs /3 f /2. '21-t-' 'v "40 TécnIre d Adv. do Sncr•tnrin cr2.c, Antôni6 August6 Oliveira Naves Secretário do Município

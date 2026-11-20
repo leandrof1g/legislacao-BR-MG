@@ -1,0 +1,82 @@
+---
+titulo: "Lei Ordinária nº 827, de 29/06/2000"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "827"
+data: "2000-06-29"
+ementa: "AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS"
+municipio: "Arinos"
+uf: "MG"
+codigo_ibge: "3104502"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.arinos.mg.leg.br/norma/1057"
+fonte_texto: "https://sapl.arinos.mg.leg.br/media/sapl/public/normajuridica/2000/1057/1057_texto_integral.pdf"
+sha256_fonte: "a7d769a629e8e4cf44ad22be7ee55779dbadf8904823029301bee10c7b91245b"
+baixado_em: "2026-11-20"
+---
+
+# Lei Ordinária nº 827, de 29/06/2000
+
+Lei n.°827/2000, de 29 de junho de 2000.
+
+AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS
+
+Art 1 0- Fica o Poder Executivo autorizado a abrir crédito Suplementar ao orçamento vigente no valor de R$ 378.000,00 (trezentos e setenta e oito mil reais) nas dotações abaixo descritas:
+
+CÂMARA MUNICIPAL
+
+0101.01010012.002-3111.14 R$ 800,00 0101.01010012.004-3132.05 R$ 800,00 0101.03090432.008-3111.02 R$ 2.500,00 0101.03090432.008-3132.22 R$ 900,00 0101.13754282.009-3255.00 R$ 1.000,00
+
+GABINETE
+
+02.01.03.07.020-2002-3132 R$ 5.000,00 02.01.03.07.023-2004-3132 R$ 2.500,00
+
+DEPARTAMENTO DE ADMINISTRAÇÃO
+
+02.02.03.07.021-2006-3131 R$ 2.000,00 02.02.03.07.021-2006-3132 R$ 20.000,00 02.02.06.30.174-2073-3132 R$ L500,00
+
+DEPARTAMENTO DE FAZENDA E PLANEJAMENTO
+
+02.03.03.08.032-2020-3132 R$ 5.000,00 02.03.03.08.032-2020-3131 R$ 4.000,00 02.03.03.08.033-3005-4354-02 R$ 5.000,00
+
+DEPARTAMENTO DE EDUCAÇÃO, CULTURA E DESPORTO
+
+02.04.08.07.021-2025-3111-01 R$ 20.000,00 02.04.08.07.021-2025-3132 R$ 15.000,00 02.04.08.42.188-2027-3120 R$ 30.000,00 02.04.08.42.239-2031-3132 R$ 30.000,00 02.04.08.48.247-2038-3111-01 R$ 3.000,00 02.04.08.07.021-2025-3120 R$ 10.000,00
+
+Rua Francisco Pereira, 253 - Centro - CEP: 38.680-000 - Fone: (061) 635-1245
+
+DEPARTAMENTO DE OBRAS, LIMPEZA E SERVIÇOS PÚBLICOS
+
+02.05.03.07.021-2040-3120 R$ 25.000,00 02.05.10.60.325-2042-3132 R$ 15.000,00 02.05.16.88.021-2043-3132 R$ 15.000.00
+
+DEPARTAMENTO DE SAÚDE E AÇÃO SOCIAL
+
+02.06.02.81.483-2045-3214 R$ 5.000,00 02.06.13.75.428-2500-3214 R$ 151.000,00
+
+DEPARTAMENTO DE AGROPECUÁRIA
+
+02.07.04.14.078-2062-3132 R$ 6.000.00 02.07.04.07.021-2060-3132 R$ 2.000,00
+
+**Art. 2°** - Os recursos necessários para as dotações retrocitadas serão oriundas de anulação parcial das dotações:
+
+0101.01010011.004-4120.01.00 R$ 6.000,00 02.07.04.18.112-3043-4122 R$ 15.000,00 02.04.08.46.224-3014-4114 R$ 30.000,00 02.04.08.81.483-2080-3132 R$ 30.000.00 02.07.13.75.430-3085-4110 R$ 60.000,00 02.02.03.07.021-2007-3113 R$ 10.000.00 02.04.08.07.021-2025-3113 R$ 4.000.00 02.06.13.75.021-2046-3113 R$ 4.000,00 02.04.08.46.224-3048-4114 R$ 10.000,00 02.04.08.48.247-3016-4114 R$ 10.000.00 02.04.08.42.188-2026-3222 R$ 10.000,00 02.05.16.88.538-30664122 R$100.000.00 02.04.08.41.185-3006-4114 R$ 5.000,00 02.05.10.60.325-3026-4122 R$ 10.000,00 02.02.05.22.134-3062-4114 R$ 5.000.00 02.04.08.41.185-30064122 R$ 5.000,00 02.04.08.42.025-30544114 R$ 5.000.00 02.04.08.42.025-3067-4114 R$ 5.000,00 02.04.08.42.188-2027-3113 R$ 10.000,00 02.04.08.42.188-30114122 R$ 5.000.00 02.05.03.07.021.3018-4122 R$ 5.000,00 02.05.10.58.323-30514111 R$ 15.000,00. 02.05.10.58.323-3072-4111 R$ 9.000.00 02.05.03.07.025-3046-4114 R$ 5.000,00
+
+Rua Francisco Pereira, 253 - Centro - CEP: 38.680-000 - Fone: (061) 635-1245 2
+
+02.05.10.60.326-30494114 R$ 5.000.00
+
+Art. 3°- Revogam-se as disposições em contrário.
+
+Art. 4°- Esta Lei entra em vigor na data da sua publicação.
+
+Arinos — MG., 29 de junho de 2000.
+
+José Idelbrand , • - rr ira de Souza Prefeit. tPt cipal
+
+Antom • ugu o e Oliveira Naves Secretário do Município
+
+PROTOCOLO Protocolado no livro próprio es Folhas e24 scb o 2/3, Cs\_/ °""° hacs Arinos / aá arrá-0
+
+'Ceod Técnic Ativ. do tf°
+
+Rua Francisco Pereira, 253 - Centro - CEP: 38.680-000 - Fone: (061) 635-1245 3

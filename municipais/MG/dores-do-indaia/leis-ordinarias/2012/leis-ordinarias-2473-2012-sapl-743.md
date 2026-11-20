@@ -1,0 +1,58 @@
+---
+titulo: "Lei Ordinária nº 2473, de 24/10/2012"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2473"
+data: "2012-10-24"
+ementa: "Autoriza aumento do percentual de Suplementação de que trata a Lei Municipal nº 2.449 de dezembro de 2011."
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/743"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/media/sapl/public/normajuridica/2012/743/lei_no_2473.2012.pdf"
+sha256_fonte: "51cb3af49728869ee47d015910b556b41c69da77072096ade8b7ca281e46089a"
+baixado_em: "2026-11-20"
+---
+
+# Lei Ordinária nº 2473, de 24/10/2012
+
+ores po month Rua Mestra Angélica, n° 318 — Centro
+
+LEI N° 2473/2012
+
+“AUTORIZA AUMENTO DO PERCENTUAL DE SUPLEMENTAGAO DE QUE TRATA A LEI MUNICIPAL N° 2.449, DE 30 DE DEZEMBRO DE 2011.”
+
+O Prefeito do Municipio:
+
+Fago saber que a Camara Municipal de Dores do Indaia, APROVA, e eu, Prefeito Municipal, SANCIONO, a seguinte Lei:
+
+**Art. 1°** - Fica o Executivo Municipal autorizado a abrir crédito suplementar de mais 5,00% (cinco por cento) do valor total do orgamento do Municipio para o exercicio de 2012.
+
+**Art. 2°** - Como recurso a abertura do crédito suplementar autorizado no
+
+art. 1°, utilizar-se-a: | — O superavit financeiro apurado em balanco patrimonial do exercicio anterior;
+
+Il — os provenientes de excesso de arrecadagao;
+
+Ill - os resultantes de anulag¢ao parcial ou total de dotagdes orgamentarias ou de créditos adicionais, autorizados em lei; e IV — o produto de operagédes de crédito autorizadas, em forma que juridicamente possibilite ao Poder Executivo realiza-las;
+
+V — Reserva de Contingéncia.
+
+**Art. 3°** - Esta Lei entra em vigor da data de sua publicac¢ao.
+
+**Art. 4°** - Revogam-se as disposigées em contrario.
+
+Prefeitura Municipal de Dores do Indaia, 24 de outubro de 2012.
+
+Rua Mestra Angélica, n° 318 — Centro
+
+PLANILHA
+
+LEI 2473/2012 DOTAGAO ANULAR SUPLEMENTAR 02.04.01.04.122.0002.2093-31901100 R$ 11.000,00 02.05.01.04.122.0002.2220-31901100 R$ 9.000,00 02.06.01.10.122.0010.2051-31901100 R$ 18.000,00 02.06.01.10.271.0010.2195-31901300 R$ 30.000,00 02.06.01.10.271.0010.2195-31911300 | R$ 100.000,00 02.06.01.10.301.0009.2049-31900400 R$ 54.000,00 02.06.01.10.301.0009.2049-31901100 R$ 80.000,00 02.06.01.10.301.0009.2050-31900400 R$ 20.000,00 02.06.01.10.301.0009.2050-31901100 R$ 15.000,00 02.06.01.10.301.0009.2052-31901100 R$ 70.000,00 02.06.01.10.301.0009.2053-31901100 R$ 9.000,00 02.06.01.10.302.0011.2157-31900400 R$ 9.000,00 02.06.01.10.303.0577.2163-31901100 R$ 27.000,00 02.06.01.10.305.0012.2149-31900400 R$ 7.000,00 02.06.01.10.305.0012.2149-31901100 R$ 3.000,00 02.07.04.20.122.0002.2072-31901100 R$ 1.000,00 02.07.04.20.122.0002.2168-31901100 R$ 8.000,00 02.08.03.15.451.0581.1190-44905100 | R$ 150.000,00 02.08.02.15.452.0008.2065-31900400 R$ 8.000,00 02.08.02.15.452.0008.2065-31901100 R$ \_7.000,00 02.08.03.15.452.0008.2068-31900400 R$ 4.000,00 02.08.03.15.452.0008.2068-31901100 R$ 10.000,00 02.08.05.26.782.0008.2060-31900400 R$ 47.000,00 02.08.05.26.782.0008.2060-31901100 R$ 5.000,00 02.09.01.08.122.0002.2020-31900400 R$ 44.000,00 02.09.01.08.122.0002.2020-31901100 R$ 43.000,00 02.10.01.04.122.0002.2008-31901100 R$ 20.000,00 02.10.01.04.122.0002.2016-31901100 R$ 45.000,00 02.10.01.09.272.0000.2189-31901300 R$ 50.000,00 02.10.01.09.272.0000.2189-31911300 | R%$250.000,00 02.10.06.04.122.0002.2100-31901100 R$ 36.000,00 02.10.06.04.129.0002.2101-31901100 R$ 33.000,00 02.10.09.04.122.0000.2097-31901100 R$ 12.000,00 02.10.11.04.122.0002.2096-31901100 R$ 12.000,00 02.10.12.04.124.0002.2095-31901100 R$ 11.000,00 02.11.07.12.122.0002.2026.31901100 R$ 12.000,00 02.11.07.12.362.0189.2041-31900400 R$ 41.000,00 02.11.07.12.362.0189.2041-31901100 R$ 40.000,00 02.11.11.12.361.0005.2031-31900400 R$ 60.000,00 02.11.11.12.361.0005.2031-31901100 R$ 100.000,00 02.11.11.12.361.0005.2031-31901300 R$ 32.000,00
+
+02.11.11.12.361.0005.2031-31911300 R$ 40.000,00 02.11.11.12.361.0005.2032-31901100 R$ 90.000,00 02.11.11.12.361.0005.2032-31901300 R$ 31.000,00 02.11.11.12.361.0005.2032-31911300 R$ 30.000,00 02.11.12.12.392.0016.2213-31901100 R$\_37.000,00 02.11.13.18.541.0014.2212-31901100 R$ 15.000,00 02.08.02.15.452.0008.1029-44905200 R$ 90.000,00 02.08.05.26.782.0007.1012-44905100 | R$ 350.000,00 02.01.01.04.122.0002.2003-33903600 R$ 20.000,00 02.05.01.04.122.0002.2220-33903900 R$ 40.000,00 02.06.01.10.302.0011.2208-33714100 R$ 30.000,00 02.08.02.15.452.0008.2064-33903900 R$ 15.000,00 02.10.01.04.122.0002.2008-33903900 R$ 60.000,00 02.10.08.28.843.0000.2188-32902100 R$ 40.000,00 02.10.08.28.843.0000.1246.46917700 R$ 34.000,00 02.08.05.26.782.0008.1032-44905200 R$ 80.000,00 02.08.05.26.782.0579.1188-44905200 R$ 10.000,00 02.06.01.10.301.0583.1009-44905100 | R$ 100.000,00 02.06.01.10.301.0583.1023-44905200 R$ 33.000,00 R$ 1.344.000,00 R$ 1.344.000,00
+
+Dores do Indaia, 24 de outubro de 2012.
+
+Prefeit@ Munici
