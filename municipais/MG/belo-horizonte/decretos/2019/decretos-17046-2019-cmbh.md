@@ -12,10 +12,10 @@ codigo_ibge: "3106200"
 id_norma: "2c907f7667c5d0dc0168371312b901b5"
 versao_texto: "atualizada (CMBH)"
 fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/17046/2019"
-fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769a2f4485019a5580e88c023a"
-id_documento: "2c907f769a2f4485019a5580e88c023a"
-sha256_fonte: "aa2614a3c85f21f6b293ce78d7fdf518f4f2d07f0e0c3c7b41ed704dfb2690a3"
-baixado_em: "2026-10-23"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a1e3a31801a1e927265f004b"
+id_documento: "2c907f76a1e3a31801a1e927265f004b"
+sha256_fonte: "8f479e55cc5e0074710da8c7b0429e011379658ff52c7f785ccae8cb5a8acca3"
+baixado_em: "2026-11-21"
 ---
 
 # Decreto nº 17046/2019
@@ -289,6 +289,14 @@ II – 24 (vinte e quatro) dias para jornadas de 2 (dois) dias e inferiores a 3 
 **§ 8º** – Estarão aptos à repescagem apenas os servidores em estágio probatório que tiveram suas avaliações geradas e não respondidas no prazo estabelecido no caput, em decorrência de afastamentos de qualquer natureza durante todo o período da avaliação ou afastamentos cujo retorno não aconteça antes do prazo final para realização da avaliação.
 
 **§8º** acrescentado pelo Decreto nº 19.351, de 31/10/2025 (Art. 21)
+
+**§ 8º** – Estarão aptos à repescagem os servidores em estágio probatório que tiverem suas avaliações geradas e não respondidas no prazo estabelecido no caput, em decorrência de afastamento:
+
+I – de qualquer natureza, iniciado antes do período avaliatório e que perdure durante toda a sua duração;
+
+II – causado por fato superveniente ao início do período avaliatório, não programável e alheio à vontade do servidor, que impossibilite seu retorno ao exercício até a data limite para a realização da avaliação.
+
+**§8º** com redação dada pelo Decreto nº 19.830, de 16/11/2026 (Art. 2º)
 
 **Art. 17-A** – O gestor que não realizar o preenchimento do Termo de Avaliação e concluir a avaliação de desempenho do servidor, nos prazos previstos no art. 17, será notificado, por seu superior imediato, na forma do Termo de Apontamento Funcional Pedagógico – TAFP.
 
