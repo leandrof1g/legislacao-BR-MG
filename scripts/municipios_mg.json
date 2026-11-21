@@ -209,7 +209,7 @@
    "sapl_manual": false
   },
   "3110707": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Cambuquira",
    "normas_na_fonte": 153,
    "pasta": "cambuquira",
@@ -290,7 +290,7 @@
    "sapl_manual": false
   },
   "3114006": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Carmo da Mata",
    "normas_na_fonte": 30,
    "pasta": "carmo-da-mata",
@@ -416,7 +416,7 @@
    "sapl_manual": false
   },
   "3123205": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Dores do Indaiá",
    "normas_na_fonte": 2840,
    "pasta": "dores-do-indaia",

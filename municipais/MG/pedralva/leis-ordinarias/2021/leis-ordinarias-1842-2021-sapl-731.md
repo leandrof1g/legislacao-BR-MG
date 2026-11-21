@@ -1,0 +1,54 @@
+---
+titulo: "Lei Ordinária nº 1842, de 25/03/2021"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1842"
+data: "2021-03-25"
+ementa: "Autoriza o Município de Pedralva conceder contribuição financeira a Sociedade de Educação e Assistência Social Frei Orestes — S.E.A."
+municipio: "Pedralva"
+uf: "MG"
+codigo_ibge: "3149101"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.pedralva.mg.leg.br/norma/731"
+fonte_texto: "https://sapl.pedralva.mg.leg.br/media/sapl/public/normajuridica/2021/731/lei_1842.pdf"
+sha256_fonte: "953e7404e119fcd7bd3826e88c6e81306696902cbb3aa584afcb3b99a28a4f18"
+baixado_em: "2026-11-21"
+---
+
+# Lei Ordinária nº 1842, de 25/03/2021
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI Nº 1.842/2021 25 DE MARÇO DE 2021
+
+Autoriza o Município de Pedralva conceder contribuição financeira a Sociedade de Educação e Assistência Social Frei Orestes — S.E.A.
+
+O PREFEITO MUNICIPAL DE PEDRALVA, MINAS GERAIS, Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Executivo Municipal de Pedralva, MG, autorizado a conceder contribuição financeira a Sociedade de Educação e Assistência Social Frei Orestes — S.E.A., no valor de R$ 10.720,00 (dez mil setecentos e vinte reais).
+
+**Art. 2º** Para atender ao disposto nesta lei serão usados recursos provenientes da dotação orçamentária nº 02.06.02.08.243.0017.2149, 4.4.50.41.00 — Programa de Assistência à Criança e ao Adolescente/Contribuições.
+
+**Art. 3º** A contribuição financeira ora autorizada será concedida mediante a formalização de termo de colaboração entre o Município e a entidade favorecida, de acordo com o disposto nos artigos 16, 17 e 35 da Lei federal nº 13.019/2014, mediante dispensa de chamamento público, conforme o art. 30, VI, da mesma lei, por se tratar de atividades vinculadas a serviços de assistência social, a serem executadas por organizações credenciadas perante o Conselho Municipal de Assistência Social.
+
+$ 1º. Na celebração e execução dos termos de colaboração de que trata este artigo, as partes envolvidas atenderão a todas as determinações da Lei 13.019/2014, com as modificações aprovadas pela Lei 13.204/2015.
+
+$ 2º, Conforme previsto nos arts. 17 e 35, IV, da Lei 13.019/2014, o termo de colaboração será precedido da elaboração de um Plano de Trabalho específico, que observará as prescrições do art. 22 da mesma lei federal.
+
+$ 3º, Fica a entidade parceira obrigada a prestar contas da aplicação dos recursos recebidos do Município, observando o disposto no artigo 63 e seguintes da Lei federal nº 13.019/2014.
+
+$ 4º. Nos termos do art. 35, V, “h” c/c art. 2º, IX da Lei 13.019/2014, 0 Poder Executivo designará uma Comissão de Monitoramento e Avaliação da parceria a ser celebrada, à qual
+
+incumbirá monitorar e avaliar a execução da parceria, e aprovar, ao seu final, o Relatório Técnico de Monitoramento e Avaliação de que trata o art. 59 da Lei 13.019/2014.
+
+$ 5º. Nos termos do art. 60 da Lei 13.019/2014, a execução da parceria em tela será também acompanhada e fiscalizada pelo Conselho Municipal de Assistência Social.
+
+**Art. 4º** Esta lei entrará em vigor na data de sua publicação.
+
+Pedralva, 25 de março de 2021.
+
+a Josimar oliva de Freitas Prefeito Municipal
+
+AL dl, Reis
+
+Secretário de Administração, Finanças e Planejamento

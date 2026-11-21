@@ -1,0 +1,24 @@
+---
+titulo: "Lei Ordinária nº 1474, de 02/12/1985"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1474"
+data: "1985-12-02"
+ementa: "Estima receita e fixa despesa para o exercício financeiro de 1986."
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/1654"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/media/sapl/public/normajuridica/1985/1654/1474.pdf"
+sha256_fonte: "54feb08616b6e69a53c7a59d860edf35c0f24ed461a12329b4c7d247b68c527c"
+baixado_em: "2026-11-21"
+---
+
+# Lei Ordinária nº 1474, de 02/12/1985
+
+% Je ‘\ fs . | ESTADO WINAS GERAIS \_ QDECRETO LEI N.° 1875/81 — ARTIGO 3.2 — INCISO PREFEITURA MUNICIPAL DE fires no INDATA LEI ORCAMENTARIA LET N@ 1,474 {85 cetima a Receita e Fixa a Despesa para o Exerc{cio Financeiro de 1996, O Prefeito Municipal de OGres do Indaia, Cstade de Minas Gerais, usando de suas atribuicgdes e, tendo 0 gue dispSe os artigos 65 e 66 da Constituigfe Federal, combinando com o artigo 54 da Constituigao Mineira e ainda o Caput do a da Lei Complementar n® 03 de 28/12/72 e art. 33 da Lei Federal 4.320/64 pronulga a seguinte Lei: Art, 198 — A Beceita do Municipio de OGres do UIndaia, para o exeréfcio financeiro de 1986, & estimada n@ 216.100.000.009 {pezesseis bilhdes e cem milhies de cruzetres ), e sera realizada mediante a arrecadagao dos tributes, rendas Receitas Carrentes e de Capital, na forma da Legislagao em vigor, mediante o seguinte desdobramenta: SECLITAS CORRENTES - feceita Tributaria 637 ,000 .200 - feceita de Contribuicgge 95.000 .200 ~ Heceita Patrimonial 227 000,000 ~ fsceita Agropecuaria 25.000 .000 ~ Receita Industrial 220 .000 .000 ~ Receita ie Servigos 60.000 .000 - Transferéncias Correntes 6,951. 225.500 ~ Outreas Aeceitas Correntes 813.500.9009 RECEITAS OF SAPITA ~ Speractes de Créditos 1,065,000 e000 ~ Alienacgake de gens 1,206,054, 000 ~ Transferéncias de Capital - 1.390..220,.500 ~ Gubras Aeceltas de Capital 2,700 .000 900 TOTAL xSo ae eS16.100.000 «( SE Se SEE eet Art. 29 - A Oespesa do tunicipio para o exercicio financeiro, fica igualmente autorizada em ~f 16.1 (Dezesseis bilhntes e cem milhées de cruzeiros }, @ sera realizada de acorde com a discriminacgao constants do quadro anexo que - . integrante desta Lei, meclante as seguintes Categorias EconGmicas e seu desdobramento por elemento: DESPESAS CORRENTES L , DESPESAS DE CUSTETO GAMA - Rua Bonfim, 1.015 - Fones: 442-7189 - 442-1620 - BH (
+
+ESTADO INAS GERAIS PREFEITURA MUNICIPAL DE SORES oO INDAIA Pessoal ~ Pessoal Civil 4,180,000 .000 Material de Consumo 4,282,000 .000 Servigas de Terceiros e Cneargos 1,993,050 .000 Olversas Cespesas de Custela 108,000,000 TRANSFERENCIAS CORRENTES Transferéncias Intragovernamentais 26,000 .000 Transferéncias Intergovernamentais 82,500 .000 Transferéncias a Instituigtes Privadas 60,000 ,.000 Transferéncias a Passoas 534 .000.000 Encargos da Ofvida Interna 152,000 .000 ContribuigGes para a Formagao do Patrimonia do Servidor Publico - Pasep 180.000 .000 3610.85 QESPESAS DE CAPITAL INVEST IMENTOS Obras e Instalacdes 4.285.000.0900 Equipamentos e Material Parmanente 1,373,000 .000 Siverses Investimentes 36,500 .000 INVERSOES FINANCE IAAS Aquisicaa da Imdweis 56,000 ..000 Aquisigao de Titulos Representativos de Capital ja Integralizados 10,000 .000 TRANSFERENCIAS OE CAPITAL Transferéncias Intergovernamentais 210.000 ,000 Amortizagaa da ofvida Interna 220,000,000 Sutras Amortizagtes 12,000.000 6 5.2 - TOTAL 16.1 ° “art 3¢ — Fica o Prefeito Municipal autorizado a realizar Operactes de Crédites par antecipacao da. -. até o limite de 25% (vinte e cinco por cento) da receita estimada, nos termos do Art. 67 da Constituigdo Federal; i aa Art, 49 — Fica o Poder Executivo autorizade a abrir créditos Suplenentares &s dotacdes do Orcamenti N GAMA - Rua Bonflm, 1.015 - Fones: 442-7188 - 442-1620 - BH
+
+ESTADO MINAS GERATS . PREFEITURA MUNICIPAL DE. pfpes po mwoark 1988 até o limite de 40% (Wuarenta por cento) nos termos do Art. 43 § 1° da Lei 4.320/64; rt, 2? Fiea o Poder Sxecutive autorizado a anular, parcial ou totalmente dotagSes do presente como recursos & ebertura, de creditos adicionais, IN OD .heet, 68 = Fica 9 Gaverno do Municfpio autarizado a aumentar neste Oroamento através da consignaga 00 a abertura de créditos no limite do Superavit financeiro apurade nos termos de § 28 do artign 43 da Lei Federal 4.30/64, curses a abertura da créditos acicionais autorizados, para cumprimenta do disposto no artigo 65 da Constituicgae do Estado de rais, Ue fort A “fevogadas as disposictes em contrario, entra esta lei em vicor a partir de 1° de janeir pituph wunicipal de Gres do Indaid, 02 de dazeubro de 1985. et “At da Silva Ivanir Weire de Oliveira Marques pkéfeito Municipal Seoretaria LL GAMA - Rua Bonfim, 1.015 - Fones: 442-7188 - 442-1620 - BH
