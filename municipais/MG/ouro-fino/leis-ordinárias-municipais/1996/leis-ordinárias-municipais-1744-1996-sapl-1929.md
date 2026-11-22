@@ -1,0 +1,170 @@
+---
+titulo: "Leis Ordinárias Municipais nº 1744, de 22/11/1996"
+tipo: "Leis Ordinárias Municipais"
+tipo_na_fonte: "Leis Ordinárias Municipais"
+numero: "1744"
+data: "1996-11-22"
+ementa: "Aprova o Orçamento Plurianual de Investimentos do Departamento Municipal Autônomo de Água e Esgoto para o Triênio de 1997/1999."
+municipio: "Ouro Fino"
+uf: "MG"
+codigo_ibge: "3146008"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.ourofino.mg.leg.br/norma/1929"
+fonte_texto: "https://sapl.ourofino.mg.leg.br/media/sapl/public/normajuridica/1996/1929/1744.pdf"
+sha256_fonte: "5d0087f5e784bec12afd6f4667ca9b5eb2e034c5c86755963ae3beae1902e8b4"
+baixado_em: "2026-11-22"
+---
+
+# Leis Ordinárias Municipais nº 1744, de 22/11/1996
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+QMARE - DEPARTAMENTO MUNICIPAL AUTONOMO DE AGUA E ESGOTO
+
+RUA: ROGERIO GISSONI, 512 - OURO FINO - MG FONE: (035) 441 1346 - 195
+
+“Pé
+
+Les tir. 7 É
+
+As
+
+Aprova q Drcamento Plurianual Departamento Municipal dutonomo de Agua e de LYPB7271999"
+
+as timer tos cleo para o Trijenio
+
+Sega À E a quim tas
+
+tado de Ninas e promuigo a
+
+à Camara Municipal DEC ema busto de E.
+
+de Quro Finos
+
+eu tivo
+
+Pique apareço) € Crcamento Fluir anual ch es laborado nos Termos da Legislação vd epa bas a gicçios de 1997/1999, conforme anexo que | Paz Led a
+
+Avt. io. Eneas dd mentos compreendendo os e parte integrante de
+
+cxttierd s
+
+Birtago Na elaboracao das propostas orcamentar is ; ET rd
+
+do periodo serav ajustar as importancias consigna E projetos, podendo, em consequencia da alteracao da receitãa Geremm criados novos e suprimid ou reformulados projetos constantes co arena cesta Led
+
+RPE ads»
+
+danedio de 19974
+
+entrara em vigor a partir de Joy che
+
+as disposico em contrario
+
+de NMovenhro de 1996 a
+
+Duro Fino/M0,
+
+(DR
+
+FRANCISCO DE Pó MEME Prefeito Municipal
+
+cesg- MARE — OURO FINO
+
+\* DATA : 04/09/96 + PAGINA : 14
+
+A DNAAE = OURO PINO A ORCAMENTO PLURIANUAL - 1997/1989 t ' \* SIPOM > PONOAM 1 PROJECÃO DAS DESPESAS DE CAPITAL Ko ORCAMENTO PAIO] + ' : feqecad ' ' + + : O WIDOR CLANO CH DISCRININAÇÃO 1997 1998 o TOM t k t E=======...==enaenea nenem t t t +- + 01 DEPTO MUNIC.AUT.AGUA E ESGOTO LO ADMINISTRACAO 1307024 ALO CONST ANPL. REF BDIF.P/ADMINISTRACÃO 3.840,00 19.200,00 38.400,00 61.440,00 1907021 4120 MANDTENÇÃO DOS SERV.ADMINISTRATIVOS 44.800,00 224.000, 448.000,00 716.800,00 | | 02 SANEAMENTO LITOMAT ALHO AMPL.RBFORMA RAP. SISTEMA DE AGUAL 134.400,00 672.000,00 1.344.000,00 2.150.400,00 | LSTGMT ALO CONSTR.UN.CAP.BLEV.TRAT.RES.AGOA. 57.600,00 288.000,00 576.000,00 921.600,00 LITGMT ALO CONSTR.CHAFLAV. BANHEIROS PUBLICOS 6.400,00 32.000,00 64.000,00 | 102.400,00 LITGMO MIO ANPL RRFORMA REAP.SISTENA DE ESGOTO 51.200,00 256.000,00 512.000,00 | 819.200,00 O iss aro consma ouros ruraarro ascoro 12.800,00 64.000,00 128.000,00 204.000,00 LITGMT 4120 OPERAÇÃO MANUTENÇÃO SIST. DE AGUA. 44.800,00 224.000,00 448.000,00 | 716.800,00 LITGMO 4120 OPERAÇÃO MANUTENÇÃO SIST. ESGOTO. 7.880,00 38.400,00 16.800,00 122.880,00 LITGMT AIZO AMPL REFORMA REP. SISTEMA DE AGUA. 25.600,00 128.000,00 256.000,00 409.600,00 LITGMT AIZO AMPL ON. CAPT.ELEV.RESERVACAO AGUA 12.800,00 64.000,00 128.000,00 204.800,00 LIT6MO 4120 AMPL REFORMA REAP.SISTEMA ESGOTO. 6.400,00 32.000,00 64.000,00 102.400,00 | LSTGMS 4120 CONSTR. UN. BLEV. TRATAMENTO ESGOTO 6.400,00 32.000,00 64.000,00 102.400,00 TOTAL DO ORGÃO 14.720,00 2.073.600,00 4.147.200,00 6.635.520,00 TOTAL GERAL 414.720,00 2.073.600,00 4.147.200,00 | 6.635.520,00 Enrique Rosa (DDR -- | Diretor Grancisco de Paula CHenezes (Rossi
+
+Prefeito Municipal
+
+podia = QURO FINO k DE - QURO FINO
+
++ ORCAMENTO PLURIANUAL - 1997/
+
+1999
+
++ ORGÃO ; 01 - DEPTO MUNIC.AUT.AGUA E ESGOTO
+
++ DATA :
+
+04/09/96 \* PAGINA : 1%
+
+t
+
+\* SIPOM = POMO53 é UNID ORCAM : 01.01 - ADMINISTRAÇÃO ORCAMENTO PARA 1997 + e nm t ' + ' | : PROGRAMA DE TRABALHO 1997 1998 1999 TOTAL ' ato a x + + 4 | FUNÇÃO : 13 SAUDE E SANEAMENTO. | PROGRAMA : 07 ADMINISTRAÇÃO SUBPROGRAMA : 210 ADMINISTRAÇÃO GERAL 48.640,00 243.200,00 486.400,00 778.240,00 00 CONST.AMPL. REF. EDLF./ADMINISTRACAO 3.840,00 19.200,00 38.400,00 81.440,00 00 MANUTENÇÃO DOS SERV. ADMINISTRATIVOS 44.800,00 224.000,00 448.000,00 116.800,00 t ae - + | uam SINTETICO ape ais me indi | t DISCRIMINAÇÃO 1997 1998 1999 TOTAL 4000 DESPESAS DE CAPITAL 48.640,00 243.200,00 486.400,00 778.240,00 4100 INVESTIMENTOS 48.640,00 243.200,00 485.400,00 778.240,00 | 4LO OBRAS E INSTALAÇÕES 3.840,00 19.200,00 38.400,00 61.440,00 4120 EQUIPAMENTOS E MATERIAL PERMANENTE 44.800,00 224.000,00 448.000,00 716.800,00 ' E dd = e Ta p | DUB — no À ss CUolf Grancisco de Paula Menezes (Rossi ni Prefeito Municipal
+
+cod — QURO FINO pa QURO FINO
+
++ ORCAMENTO PLURIANUAL - 1997/1999
+
++ DATA:
+
+04/09/96 \* PAGINA :
+
+2+
+
++ ORGÃO 01 - DEPTO.MUNIC.AUT.AGUA E ESGOTO. k
+
+\* Stan é POMOSS + UNID ORCAM 01.02 - SANEAMENTO ORCAMENTO PARA 1997 +
+
++ t t i +- ---k
+
++ PROGRAMA DE TRABALHO 1997 1998 1999 TOTAL
+
+| t - -=—- t t t +. + FUNCAO : 13 SAUDE E SANGAMENTO.
+
+PROGRAMA : 76 SANEAMENTO
+
+| SUBPROGRAMA : 4470 ABASTECIMENTO DE AGUA 281.600,00 1.408.000,00 2.816.000,00 4.505.600,00
+
+| 00 AMPL.REFORMA REAP. SISTEMA DE AGUA 134.400,00 672.000,00 1.944.000,00 2.150.400,00
+
+| 00 OPERAÇÃO MANUTENÇÃO SIST. DE AGUA. 44.800,00 224.000,00 448.000,00 716.800,00
+
+| 01 CONSTR.UN.CAP.ELEV. TRAT, RES. AGUA. 57.600,00 288.000,00 576.000,00 921.600,00
+
+| 02 CONSTR.CHAF.LAV. BANHEIROS PUBLICOS 6.400,00 32.000,00 64.000,00 102.400,00
+
+| 02 AMPL.REFORMA REAP. SISTEMA DE AGUA. 25.600,00 128.000,00 256.000,00 409.600,00
+
+| ; 03 AMPL.UN.CAPT.BLEV, RESERVACAO AGUA 12.800,00 64.000,00 128.000,00 204.800,00
+
+| + SUBPROGRAMA : 4490 SISTEMA DE ESGOTO 84.480,00 422.400,00 844.800,00 1.951.680,00
+
+| 01 OPERAÇÃO MANUTENÇAO GIST. ESGOTO. 7.680,00 38.400,00 76.800,00 122.880,00
+
+03 AMPL.REFORMA REAP.SISTEMA DE ESGOTO 91.200,00 256.000,00 912.000,00 819.200,00
+
+| 04 CONSTR.UN. ELEV. TRATAMENTO ESGOTO 12.800,00 64.000,00 128.000,00 204.800,00
+
+04 AMPL.REFORMA REAP.SISTEMA ESGOTO. 6.400,00 32.000,00 64.000,00 102.400,00
+
+05 CONSTR.UN. ELEV. TRATAMENTO ESGOTO 6.400,00 32.000,00 64.000,00 102.400,00
+
+t -- - ek
+
+ORCAMENTO SINTETICO ma pod ER tr A ,
+
++ DISCRIMINAÇÃO 1997 1998 1999 TOTAL
+
+R---oneoconenenenensa cane namas en canenencenan-canenmaneo ooo E--amennn nn nona + t -— + t
+
+4000 DESPESAS DE CAPITAL 366.080,00 1.890.400,00 3.660.800,00 5.857.280,00
+
+4100 INVESTIMENTOS 386.080,00 1.890.400,00 3.660.800,00 | 5. a. 280,00
+
+“ 4110 OBRAS E INSTALAÇÕES 262.400,00 1.312.000,00 2.624.000,00 4. 198. 400,00
+
+4120 EQUIPAMENTOS E MATERIAL PERMANENTE 103.680,00 518.400,00 1.036.800,00 1.658.880,00
+
+na
+
+Benrique a Dol!
+
+Diretor
+
+Francisco de Paula Chenezes Possi
+
+APR —
+
+- Prefeito Municipal

@@ -112,7 +112,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Taiobeiras | 33.050 | **sem fonte automática** | 0 | — |
 | Itamarandiba | 32.948 | SAPL ([sapl.itamarandiba.mg.leg.br](https://sapl.itamarandiba.mg.leg.br)) | 11 | completa |
 | Guanhães | 32.244 | **sem fonte automática** | 0 | — |
-| Ouro Fino | 32.094 | SAPL ([sapl.ourofino.mg.leg.br](https://sapl.ourofino.mg.leg.br)) | 2929 | em andamento |
+| Ouro Fino | 32.094 | SAPL ([sapl.ourofino.mg.leg.br](https://sapl.ourofino.mg.leg.br)) | 3090 | em andamento |
 | Brasília de Minas | 32.025 | **sem fonte automática** | 0 | — |
 | Carangola | 31.240 | SAPL ([sapl.carangola.mg.leg.br](https://sapl.carangola.mg.leg.br)) | 1 | completa |
 | Pompéu | 31.047 | SAPL ([sapl.pompeu.mg.leg.br](https://sapl.pompeu.mg.leg.br)) | 0 | completa |
@@ -131,18 +131,18 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Alpinópolis | 18.300 | SAPL ([sapl.alpinopolis.mg.leg.br](https://sapl.alpinopolis.mg.leg.br)) | 105 | completa |
 | Campina Verde | 18.011 | SAPL ([sapl.campinaverde.mg.leg.br](https://sapl.campinaverde.mg.leg.br)) | 46 | completa |
 | Luz | 17.875 | SAPL ([sapl.luz.mg.leg.br](https://sapl.luz.mg.leg.br)) | 658 | completa |
-| Rio Pomba | 17.443 | SAPL ([sapl.riopomba.mg.leg.br](https://sapl.riopomba.mg.leg.br)) | 1756 | em andamento |
-| Arinos | 17.272 | SAPL ([sapl.arinos.mg.leg.br](https://sapl.arinos.mg.leg.br)) | 4845 | em andamento |
+| Rio Pomba | 17.443 | SAPL ([sapl.riopomba.mg.leg.br](https://sapl.riopomba.mg.leg.br)) | 2121 | completa |
+| Arinos | 17.272 | SAPL ([sapl.arinos.mg.leg.br](https://sapl.arinos.mg.leg.br)) | 5011 | em andamento |
 | Perdizes | 17.151 | SAPL ([sapl.perdizes.mg.leg.br](https://sapl.perdizes.mg.leg.br)) | 452 | completa |
 | Tocantins | 16.185 | SAPL ([sapl.tocantins.mg.leg.br](https://sapl.tocantins.mg.leg.br)) | 198 | em andamento |
-| Itatiaiuçu | 12.966 | SAPL ([sapl.itatiaiucu.mg.leg.br](https://sapl.itatiaiucu.mg.leg.br)) | 995 | em andamento |
-| Itapeva | 12.692 | SAPL ([sapl.itapeva.mg.leg.br](https://sapl.itapeva.mg.leg.br)) | 649 | em andamento |
+| Itatiaiuçu | 12.966 | SAPL ([sapl.itatiaiucu.mg.leg.br](https://sapl.itatiaiucu.mg.leg.br)) | 1334 | em andamento |
+| Itapeva | 12.692 | SAPL ([sapl.itapeva.mg.leg.br](https://sapl.itapeva.mg.leg.br)) | 1147 | em andamento |
 | Dores do Indaiá | 12.630 | SAPL ([sapl.doresdoindaia.mg.leg.br](https://sapl.doresdoindaia.mg.leg.br)) | 2809 | completa |
 | Cambuquira | 12.313 | SAPL ([sapl.cambuquira.mg.leg.br](https://sapl.cambuquira.mg.leg.br)) | 138 | completa |
 | Carmo da Mata | 11.019 | SAPL ([sapl.carmodamata.mg.leg.br](https://sapl.carmodamata.mg.leg.br)) | 30 | completa |
-| Pedralva | 10.760 | SAPL ([sapl.pedralva.mg.leg.br](https://sapl.pedralva.mg.leg.br)) | 548 | em andamento |
-| Canápolis | 10.608 | SAPL ([sapl.canapolis.mg.leg.br](https://sapl.canapolis.mg.leg.br)) | 27 | em andamento |
-| Pedras de Maria da Cruz | 10.433 | SAPL ([sapl.pedrasdemariadacruz.mg.leg.br](https://sapl.pedrasdemariadacruz.mg.leg.br)) | 1 | em andamento |
+| Pedralva | 10.760 | SAPL ([sapl.pedralva.mg.leg.br](https://sapl.pedralva.mg.leg.br)) | 1294 | em andamento |
+| Canápolis | 10.608 | SAPL ([sapl.canapolis.mg.leg.br](https://sapl.canapolis.mg.leg.br)) | 564 | em andamento |
+| Pedras de Maria da Cruz | 10.433 | SAPL ([sapl.pedrasdemariadacruz.mg.leg.br](https://sapl.pedrasdemariadacruz.mg.leg.br)) | 73 | em andamento |
 | Carneirinho | 9.422 | SAPL ([sapl.carneirinho.mg.leg.br](https://sapl.carneirinho.mg.leg.br)) | 11 | em andamento |
 | Limeira do Oeste | 8.687 | SAPL ([sapl.limeiradooeste.mg.leg.br](https://sapl.limeiradooeste.mg.leg.br)) | 1 | em andamento |
 | Delfim Moreira | 7.952 | SAPL ([sapl.delfimmoreira.mg.leg.br](https://sapl.delfimmoreira.mg.leg.br)) | 2 | em andamento |

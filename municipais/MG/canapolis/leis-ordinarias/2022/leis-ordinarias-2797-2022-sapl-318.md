@@ -1,0 +1,440 @@
+---
+titulo: "Lei Ordinária nº 2797, de 30/08/2022"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2797"
+data: "2022-08-30"
+ementa: "\"AUTORIZA O MUNICÍPIO DE CANÁPOLIS A ABRIR CRÉDITOS ADICIONAIS SUPLEMENTARES NO ORÇAMENTO DO EXERCÍCIO DE 2022\"."
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.canapolis.mg.leg.br/norma/318"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2022/318/lei_2797-2022_-_autoriza_o_municipio_de_canapolis_a_abrir_creditos_adicionais_suplementares_no_orcamento_do_exercicio_de_2022..pdf"
+sha256_fonte: "be4841e41adb3f68da4b12622a7c0135ddcf659e427338a89d2c0c42ce7f744a"
+baixado_em: "2026-11-22"
+---
+
+# Lei Ordinária nº 2797, de 30/08/2022
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Prefeitura de »
+
+Poder Executivo | CNP) N 18.457.200/0001-33
+
+LEI Nº2.797, DE 30 DE AGOSTO DE 2022
+
+“AUTORIZA O MUNICÍPIO DE CANÁPOLIS A ABRIR CRÉDITOS ADICIONAIS SUPLEMENTARES NO ORÇAMENTO DO EXERCÍCIO DE 2022.”
+
+ENIVANDER ALVES DE MORAIS, Prefeito do município de Canápolis, Estado de Minas Gerais, no uso de suas atribuições legais, faço saber que a Câmara Municipal, por seus representantes, aprovou € eu,
+
+sanciono e promulgo e seguinte Lei:
+
+**Artigo 1º** - Fica o Poder Executivo Municipal autorizado a abrir Crédito Adicional Suplementar no Orçamento vigente, no valor total de R$ 604.000,00(Seiscentos e Quatro Mil Reais), com as seguintes dotações
+
+orçamentárias abaixo discriminadas:
+
+Ficha: 36
+
+Unidade: 02 PROCURADORIA GERAL DO MUNICÍPIO
+
+SubUnidade:
+
+Função: 03 ESSENCIAL À JUSTIÇA
+
+SubFunção: 061 AÇÃO JURÍDICA
+
+Programa: 0003 DEFESA DA ORDEM JURÍDICA
+
+Proj. Ativ.: 2017 MANTER AS ATIVIDADES DA PROCURADORIA JURÍDICA
+
+Elemento: 04 CONTRATAÇÃO POR TEMPO DETERMINADO
+
+Fonte Recurso: 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 8.000,00 Ficha: 46
+
+Unidade: 03 SECRETARIA MUNICIPAL DE PLANEJAMENTO E HABITAÇÃO
+
+SubUnidade:
+
+Função: 04 ADMINISTRAÇÃO
+
+SubFunção: 121 PLANEJAMENTO E ORÇAMENTO
+
+Programa: 0002 GESTÃO ADMINISTRATIVA
+
+Proj. Ativ.: 2006 MANTER AS ATIVIDADES DA SECRETARIA DE PLANEJAMENTO E HABITAÇÃO
+
+Elemento: 1 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL
+
+Desdobramento: 00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL Valor: Fonte Recurso: 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS / 19.000,00
+
+Fone.: (34) 3266-3500 \* Praça 19 de Março, nº 304 \* Caixa Postal 32 \* Centro \* CEP. 38380-000 - Castápolis -M
+
+Prefeitura de y
+
+Poder Executivo | CNP) N 18:457.200/0001-33
+
+Ficha: 53
+
+Unidade: 04 SECRETARIA MUNICIPAL DE FAZENDA SubUnidade: Função: 04 ADMINISTRAÇÃO SubFunção: 123 ADMINISTRAÇÃO FINANCEIRA Programa: 0002 GESTÃO ADMINISTRATIVA Proj. Ativ.: 2007 MANTER AS ATIVIDADES DA SECRETARIA DE FAZENDA
+
+Elemento: 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL Desdobramento: 00 VENCIMENTOS E VANTAGENS FIXAS — PESSOAL CIVIL Valor: Fonte Recurso: 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 45.000,00 Ficha: 67 o 02 PODER EXECUTIVO Orgão: 05 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS Unidade: Sublnidade: 04 ADMINISTRAÇÃO Pagão: 122 ADMINISTRAÇÃO GERAL auprunção: 0002 GESTÃO ADMINISTRATIVA Programa: o 2008 MANTER AS ATIVIDADES DA SECRETARIA DE ADMINISTRAÇÃO E RECURSOS HUMANOS Fire). paia 3 DESPESAS CORRENTES Gatopora: 1 PESSOAL E ENCARGOS SOCIAIS Grupos 90 APLICAÇÕES DIRETAS Modalidade: 04 CONTRATAÇÃO POR TEMPO DETERMINADO Elemento:
+
+Fonte Recurso: 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 39.000,00
+
+Fone.: (34) 3266-3500 - Praça 19 de Março, nº 304 + Caixa Postal 32 \* Centro \* CEP. 38380-000 - Canápolis - MG
+
+eme
+
+ww —
+
+Prefeitura de y
+
+Poder Executivo | CNPJ N 18.457.200/0001-33
+
+Ficha: 191
+
+Unidade: 07 SECRETARIA MUNICIPAL DE SAÚDE
+
+SubUnidade: 02 FUNDO MUNICIPAL DE SAÚDE
+
+Função: 10 SAÚDE
+
+SubFunção: 301 ATENÇÃO BÁSICA
+
+Programa: 0006 SAÚDE PARA TODOS
+
+Proj. Ativ.: 2030 MANTER A ATENÇÃO BÁSICA EM SAÚDE
+
+Elemento: 04 CONTRATAÇÃO POR TEMPO DETERMINADO
+
+Fonte Recurso: É (a RECEITAS DE IMPOSTOS E DE TRANSFERÊNCIAS DE IMPOSTOS VINCULADOS À 69.000,00
+
+Ficha: 191
+
+Unidade: 07 SECRETARIA MUNICIPAL DE SAÚDE
+
+SubUnidade: 02 FUNDO MUNICIPAL DE SAÚDE
+
+Função: 10 SAUDE
+
+SubFunção: 301 ATENÇÃO BÁSICA
+
+Programa: 0006 SAÚDE PARA TODOS
+
+Proj. Ativ.: 2030 MANTER A ATENÇÃO BÁSICA EM SAÚDE
+
+Elemento: 04 CONTRATAÇÃO POR TEMPO DETERMINADO
+
+Desdobramento: 00 CONTRATAÇÃO POR TEMPO DETERMINADO Valor
+
+Fonte Recurso: 132 - TRANSFERÊNCIAS PROVENIENTES DO GOVERNO FEDERAL DESTINADAS AO 67.000,00 VENCIMENTO DOS AGENTES COMUNITÁRIOS DE SAÚDE E DOS AGENTES DE COMBATE ÀS ENDEMIAS
+
+Ficha: 191
+
+Unidade: 07 SECRETARIA MUNICIPAL DE SAÚDE
+
+Subunidade: 02 FUNDO MUNICIPAL DE SAÚDE
+
+Função: 10 BALAS
+
+SubFunção: 301 ATENÇÃO BÁSICA
+
+Programa: 0006 SAÚDE PARA TODOS
+
+Proj. Ativ.: 2030 MANTER A ATENÇÃO BÁSICA EM SAÚDE
+
+Modalidade: 90 APLICAÇÕES DIRETAS O
+
+Ejeménito: 04 CONTRATAÇÃO POR TEMPO DETERMINADO
+
+Desdobramento: 00 CONTRATAÇÃO POR TEMPO DETERMINADO I 4 Valor €
+
+Vá Fonte Recurso: 155 - TRANSFERÊNCIAS DE RECURSOS DO FUNDO ESTADUAL DE SAÚDE 3.000,00
+
+Fone.: (34) 3266-3500 - Praça 19 de Março, nº 304 - Caixa Postal 32 « Centro \* CEP. 38380-000 - Canápolis- MG
+
+DEE =>
+
+» dies prefeitura des
+
+es; CANAPOLIS
+
+Poder Executivo | CNPJ N 18,457.200/0001 -33
+
+Ficha: 192
+
+Unidade: 07 SECRETARIA MUNICIPAL DE SAÚDE
+
+SubUnidade: 02 FUNDO MUNICIPAL DE SAÚDE
+
+Função: 10 SAÚDE
+
+SubFunção: 301 ATENÇÃO BÁSICA
+
+Programa: 0006 SAÚDE PARA TODOS
+
+Proj. Ativ.: 2030 MANTER A ATENÇÃO BÁSICA EM SAÚDE
+
+Elemento: 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL
+
+Desdobramento: 00 VENCIMENTOS E VANTAGENS FIXAS —- PESSOAL CIVIL Valor: Fonte Recurso: a DE IMPOSTOS E DE TRANSFERÊNCIAS DE IMPOSTOS VINCULADOS À 40.000,00 Ficha: 192
+
+Unidade: 07 SECRETARIA MUNICIPAL DE SAÚDE
+
+SubUnidade: 02 FUNDO MUNICIPAL DE SAÚDE
+
+Função: 10 SAÚDE
+
+SubFunção: 301 ATENÇÃO BÁSICA
+
+Programa: 0006 SAÚDE PARA TODOS
+
+Proj. Ativ.: 2030 MANTER A ATENÇÃO BÁSICA EM SAÚDE
+
+Elemento: 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL
+
+Desdobramento: 00 VENCIMENTOS E VANTAGENS FIXAS — PESSOAL CIVIL Valor: Fonte Recurso: 155 - TRANSFERÊNCIAS DE RECURSOS DO FUNDO ESTADUAL DE SAÚDE 20.000,00 Ficha: 193
+
+Unidade: 07 SECRETARIA MUNICIPAL DE SAÚDE
+
+SubUnidade: 02 FUNDO MUNICIPAL DE SAÚDE
+
+Função: 10 SAÚDE
+
+SubFunção: 301 ATENÇÃO BÁSICA
+
+Programa: 0006 SAÚDE PARA TODOS
+
+Proj. Ativ.: 2030 MANTER A ATENÇÃO BÁSICA EM SAÚDE
+
+Grupo: | PESSOAL E ENCARGOS SOCIAIS
+
+Elemento: 13 OBRIGAÇÕES PATRONAIS
+
+Desdobramento: 00 OBRIGAÇÕES PATRONAIS Valor: Fonte Recurso: 155 - TRANSFERÊNCIAS DE RECURSOS DO FUNDO ESTADUAL DE SAÚ À 10.000,00
+
+CEP. 38380-000 -
+
+Fone.: (34) 3266-3500 - Praça 19 de Março, nº 304 \* Caixa Postal 32 \* Centro \*
+
+Prefeitura de w
+
+Poder Executivo | CNPJ N 18 457.200/0001-33
+
+Ficha: 223
+
+Unidade: 07 SECRETARIA MUNICIPAL DE SAUDE SubUnidade: 02 FUNDO MUNICIPAL DE SAUDE Função: 10 SAUDE SubFunção: 305 VIGILÂNCIA EPIDEMIOLÓGICA Programa: 0006 SAÚDE PARA TODOS Proj. Ativ.: 2032 MANTER AVIGILÂNCIA EPIDEMIOLÓGICA E AMBIENTAL
+
+Elemento: 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL Desdobramento: 00 VENCIMENTOS E VANTAGENS FIXAS — PESSOAL CIVIL Valor: Fonte Recurso: 132 - TRANSFERÊNCIAS PROVENIENTES DO GOVERNO FEDERAL DESTINADAS AO 12.000,00 VENCIMENTO DOS AGENTES COMUNITÁRIOS DE SAÚDE E DOS AGENTES DE COMBATE ÀS ENDEMIAS Ficha: 225 02 PODER EXECUTIVO Orgão: , k 07 SECRETARIA MUNICIPAL DE SAUDE Unidade: - 02 FUNDO MUNICIPAL DE SAUDE SubUnidade: . ” 10 SAUDE Função: 305 VIGILÂNCIA EPIDEMIOLÓGICA SubFunção: . 0006 SAÚDE PARA TODOS Programa: a uaê 2032 MANTER A VIGILÂNCIA EPIDEMIOLÓGICA E AMBIENTAL Proj. Ativ.: 3 DESPESAS CORRENTES Categoria: 3 OUTRAS DESPESAS CORRENTES Grupo: A Modalidade: 90 PLICAÇÕES DIRETAS 04 CONTRATAÇÃO POR TEMPO DETERMINADO Elemento:
+
+Fonte Recurso: 102 - RECEITAS DE IMPOSTOS E DE TRANSFERÊNCIAS DE IMPOSTOS VINCULADOS À 39.000,00
+
+SAÚDE
+
+a
+
+nº 304 - Caixa Postal 32 \* Centro \* €
+
+Fone.: (34) 3266-3500 - Praça 19 de Março,
+
+EP. 38380-000 \* Canápolis - MG
+
+Prefeitura de s
+
+POLIS
+
+Poder Executivo | CNPJ N 18.457.200/0001-33
+
+Ficha: 243
+
+Unidade: 08 SECRETARIA MUNICIPAL DE OBRAS E HABITAÇÃO
+
+SubUnidade:
+
+Função: 15 URBANISMO
+
+SubFunção: 452 SERVIÇOS URBANOS
+
+Programa: 0007 HABITAÇÃO, HURBANISMO E INFRAESTRUTURA
+
+Proj. Ativ.: 2035 MANUTENÇÃO DOS SERVIÇOS PÚBLICOS URBANOS E RURAIS
+
+Elemento: 04 CONTRATAÇÃO POR TEMPO DETERMINADO
+
+Fonte Recurso: 400 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 163.000,00 Ficha: 263
+
+Unidade: 09 SECRETARIA MUNICIPAL DE AGRICULTURA, DESENVOLVIMENTO ECÔNOMICO E MEIO AMBIENTE. SubUnidade:
+
+Função: 18 GESTÃO AMBIENTAL
+
+SubFunção: 541 PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL
+
+Programa: 0008 GESTÃO AMBIENTAL
+
+Proj. Ativ.: 2037 MANTER E DESENVOLVER AÇÕES DE GESTÃO AMBIENTAL
+
+Modalidade: so APLICAÇÕES DIRETAS
+
+Elemento: 13 OBRIGAÇÕES PATRONAIS
+
+Desdobramento: 00 OBRIGAÇÕES PATRONAIS Valor: Fonte Recurso: 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 8.000,00 Ficha: 278
+
+Unidade: 10 SECRETARIA MUNICIPAL DE DESENVOLVIMENTO SOCIAL
+
+SubUnidade: 01 SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+Função: 04 ADMINISTRAÇÃO
+
+SubFunção: 122 ADMINISTRAÇÃO GERAL
+
+Programa: 0010 PROTEÇÃO SOCIAL
+
+Proj. Ativ.: 2039 GESTÃO DO SUAS
+
+Modalidade: so APLICAÇÕES DIRETAS
+
+Elemento: 1 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL
+
+Desdobramento: 00 VENCIMENTOS E VANTAGENS FIXAS — PESSOAL CIVIL Valor: Fonte Recurso: 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 11.000,00
+
+nº 304 + Caixa Postal 32 \* Centro - CELP.3
+
+Fone.: (34) 3266-3500 - Praça 19 de Março,
+
+Prefeitura de
+
+Ficha: 315 Orgão: Unidade: SubUnidade: Função: SubFunção: Programa: Proj. Ativ.: Categoria: Grupo: Modalidade: Elemento:
+
+Desdobramento:
+
+Fonte Recurso:
+
+Ficha: 330 Orgão: Unidade: SubUnidade: Função: SubFunção: Programa: Proj. Ativ.: Categoria: Grupo: Modalidade:
+
+Elemento: Desdobramento:
+
+Fonte Recurso:
+
+Ficha: 336 Orgão: Unidade: SubUnidade: Função: SubFunção:
+
+Programa: Proj. Ativ.: Categoria: Grupo: Modalidade: Elemento:
+
+Desdobramento:
+
+Fonte Recurso:
+
+POLIS
+
+Poder Executivo | CNPJ N 18.457.200/0001-33
+
+0010 2042
+
+PODER EXECUTIVO
+
+SECRETARIA MUNICIPAL DE DESENVOLVIMENTO SOCIAL FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL ASSISTÊNCIA SOCIAL
+
+ASSISTÊNCIA COMUNITÁRIA
+
+PROTEÇÃO SOCIAL
+
+MANTER AS ATIVIDADES DO CRAS DESPESAS CORRENTES
+
+PESSOAL E ENCARGOS SOCIAIS APLICAÇÕES DIRETAS
+
+CONTRATAÇÃO POR TEMPO DETERMINADO CONTRATAÇÃO POR TEMPO DETERMINADO
+
+100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS
+
+n
+
+0002 2016
+
+PODER EXECUTIVO SECRETARIA MUNICIPAL DE COMPRAS E LICITAÇÕES
+
+ADMINISTRAÇÃO
+
+ADMINISTRAÇÃO GERAL
+
+GESTÃO ADMINISTRATIVA
+
+MANTER AS ATIVIDADES DA COORDENADORIA DE COMPRAS E LICITAÇÕES DESPESAS CORRENTES
+
+PESSOAL E ENCARGOS SOCIAIS
+
+APLICAÇÕES DIRETAS
+
+CONTRATAÇÃO POR TEMPO DETERMINADO
+
+CONTRATAÇÃO POR TEMPO DETERMINADO
+
+100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS
+
+0011 2046
+
+PODER EXECUTIVO SECRETARIA MUNICIPAL DE ESPORTE E LAZER
+
+DESPORTO E LAZER
+
+DESPORTO COMUNITÁRIO
+
+ESPORTE E LAZER
+
+DESENVOLVER E PROMOVER O ESPORTE E O LAZER DESPESAS CORRENTES
+
+PESSOAL E ENCARGOS SOCIAIS
+
+APLICAÇÕES DIRETAS
+
+CONTRATAÇÃO POR TEMPO DETERMINADO
+
+CONTRATAÇÃO POR TEMPO DETERMINADO ds) 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS 4
+
+\* 304 « Caixa Postal 32 + Centro \* CEP. 38380-000 \* Canápp és - MG
+
+Valor:
+
+3.000,00
+
+Valor:
+
+8.000,00
+
+Fa
+
+Valor:
+
+10.000,00
+
+Fone.: (34) 3266-3500 - Praça 19 de Março, n
+
+Prefeitura de
+
+Poder Executivo | CNPJ N 18.457.200/0001-33
+
+**Artigo 2º** - Os recursos necessários à cobertura do Crédito Adicional Suplementar de que trata o caput do artigo anterior, será proveniente de Excesso de Arrecadação, nos termos da Lei Federal nº 4.320/64, artigo 43, $1º, He $ 3º, advinda das seguintes Fontes de Recursos:
+
+Fonte Recurso: 100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS
+
+Valor: R$ 314.000,00
+
+Fonte Recurso: 102 - RECEITAS DE IMPOSTOS E DE TRANSFERÊNCIAS DE IMPOSTOS VINCULADOS ASAÚDE
+
+Valor: R$ 148.000,00
+
+Fonte Recurso: 132 - TRANSFERÊNCIAS PROVENIENTES DO GOVERNO FEDERAL DESTINADAS AO VENCIMENTO DOS AGENTES COMUNITÁRIOS DE SAÚDE E DOS AGENTES DE COMBATEÀS ENDEMIAS
+
+Valor: R$ 79.000,00 Fonte Recurso: 155 - TRANSFERÊNCIAS DE RECURSOS DO FUNDO ESTADUAL DE SAÚDE
+
+Valor: R$ 63.000,00
+
+**Artigo 3º** - Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+Prefeitura Municipal de Canápolis, 30 de Agosto de 2022.
+
+ENIVAN ALVES D PREFEITO MUNICIPAL
+
+Fone.: (34) 3266-3500 - Praça 19 de Março, nº 304 \* Caixa Postal 32 \* Centro \* CEP. 38380-000 + Canápolis - MG
+
+o

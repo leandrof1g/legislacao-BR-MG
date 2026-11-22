@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-23",
+ "atualizado_em": "2026-11-22",
  "municipios": {
   "3100906": {
    "carga_completa": true,
@@ -22,7 +22,7 @@
   "3101607": {
    "carga_completa": true,
    "nome": "Alfenas",
-   "normas_na_fonte": 573,
+   "normas_na_fonte": 578,
    "pasta": "alfenas",
    "populacao": 78970,
    "sapl": "sapl.alfenas.mg.leg.br",
@@ -49,7 +49,7 @@
   "3102605": {
    "carga_completa": true,
    "nome": "Andradas",
-   "normas_na_fonte": 1001,
+   "normas_na_fonte": 1014,
    "pasta": "andradas",
    "populacao": 40553,
    "sapl": "sapl.andradas.mg.leg.br",
@@ -67,7 +67,7 @@
   "3103504": {
    "carga_completa": true,
    "nome": "Araguari",
-   "normas_na_fonte": 95,
+   "normas_na_fonte": 108,
    "pasta": "araguari",
    "populacao": 117808,
    "sapl": "sapl.araguari.mg.leg.br",
@@ -76,7 +76,7 @@
   "3104007": {
    "carga_completa": true,
    "nome": "Araxá",
-   "normas_na_fonte": 9616,
+   "normas_na_fonte": 9623,
    "pasta": "araxa",
    "populacao": 111691,
    "sapl": "sapl.araxa.mg.leg.br",
@@ -85,7 +85,7 @@
   "3104205": {
    "carga_completa": true,
    "nome": "Arcos",
-   "normas_na_fonte": 4838,
+   "normas_na_fonte": 4857,
    "pasta": "arcos",
    "populacao": 41416,
    "sapl": "sapl.arcos.mg.leg.br",
@@ -94,7 +94,7 @@
   "3104502": {
    "carga_completa": false,
    "nome": "Arinos",
-   "normas_na_fonte": 5323,
+   "normas_na_fonte": 5341,
    "pasta": "arinos",
    "populacao": 17272,
    "sapl": "sapl.arinos.mg.leg.br",
@@ -157,7 +157,7 @@
   "3107406": {
    "carga_completa": true,
    "nome": "Bom Despacho",
-   "normas_na_fonte": 2956,
+   "normas_na_fonte": 2958,
    "pasta": "bom-despacho",
    "populacao": 51737,
    "sapl": "sapl.bomdespacho.mg.leg.br",
@@ -166,7 +166,7 @@
   "3108206": {
    "carga_completa": false,
    "nome": "Bonfinópolis de Minas",
-   "normas_na_fonte": 2173,
+   "normas_na_fonte": null,
    "pasta": "bonfinopolis-de-minas",
    "populacao": 5528,
    "sapl": "sapl.bonfinopolisdeminas.mg.leg.br",
@@ -193,7 +193,7 @@
   "3109451": {
    "carga_completa": false,
    "nome": "Cabeceira Grande",
-   "normas_na_fonte": 1538,
+   "normas_na_fonte": 1548,
    "pasta": "cabeceira-grande",
    "populacao": 6627,
    "sapl": "sapl.cabeceiragrande.mg.leg.br",
@@ -220,7 +220,7 @@
   "3111002": {
    "carga_completa": true,
    "nome": "Campestre",
-   "normas_na_fonte": 1779,
+   "normas_na_fonte": 1790,
    "pasta": "campestre",
    "populacao": 20696,
    "sapl": "sapl.campestre.mg.leg.br",
@@ -247,7 +247,7 @@
   "3111804": {
    "carga_completa": false,
    "nome": "Canápolis",
-   "normas_na_fonte": 2975,
+   "normas_na_fonte": 2984,
    "pasta": "canapolis",
    "populacao": 10608,
    "sapl": "sapl.canapolis.mg.leg.br",
@@ -256,7 +256,7 @@
   "3111903": {
    "carga_completa": false,
    "nome": "Cana Verde",
-   "normas_na_fonte": 690,
+   "normas_na_fonte": 708,
    "pasta": "cana-verde",
    "populacao": 5272,
    "sapl": "sapl.canaverde.mg.leg.br",
@@ -301,7 +301,7 @@
   "3114550": {
    "carga_completa": false,
    "nome": "Carneirinho",
-   "normas_na_fonte": 9247,
+   "normas_na_fonte": 9250,
    "pasta": "carneirinho",
    "populacao": 9422,
    "sapl": "sapl.carneirinho.mg.leg.br",
@@ -310,7 +310,7 @@
   "3115300": {
    "carga_completa": true,
    "nome": "Cataguases",
-   "normas_na_fonte": 317,
+   "normas_na_fonte": 320,
    "pasta": "cataguases",
    "populacao": 66261,
    "sapl": "sapl.cataguases.mg.leg.br",
@@ -319,7 +319,7 @@
   "3116407": {
    "carga_completa": false,
    "nome": "Claraval",
-   "normas_na_fonte": 1503,
+   "normas_na_fonte": 1508,
    "pasta": "claraval",
    "populacao": 4658,
    "sapl": "sapl.claraval.mg.leg.br",
@@ -337,7 +337,7 @@
   "3118007": {
    "carga_completa": true,
    "nome": "Congonhas",
-   "normas_na_fonte": 9346,
+   "normas_na_fonte": 9381,
    "pasta": "congonhas",
    "populacao": 52890,
    "sapl": "sapl.congonhas.mg.leg.br",
@@ -346,7 +346,7 @@
   "3118304": {
    "carga_completa": true,
    "nome": "Conselheiro Lafaiete",
-   "normas_na_fonte": 8453,
+   "normas_na_fonte": 8474,
    "pasta": "conselheiro-lafaiete",
    "populacao": 131621,
    "sapl": "sapl.conselheirolafaiete.mg.leg.br",
@@ -355,7 +355,7 @@
   "3118601": {
    "carga_completa": true,
    "nome": "Contagem",
-   "normas_na_fonte": 3912,
+   "normas_na_fonte": 3948,
    "pasta": "contagem",
    "populacao": 621863,
    "sapl": "sapl.contagem.mg.leg.br",
@@ -364,7 +364,7 @@
   "3119401": {
    "carga_completa": true,
    "nome": "Coronel Fabriciano",
-   "normas_na_fonte": 4308,
+   "normas_na_fonte": 4515,
    "pasta": "coronel-fabriciano",
    "populacao": 104736,
    "sapl": "sapl.coronelfabriciano.mg.leg.br",
@@ -382,7 +382,7 @@
   "3121100": {
    "carga_completa": false,
    "nome": "Delfim Moreira",
-   "normas_na_fonte": 2119,
+   "normas_na_fonte": 2127,
    "pasta": "delfim-moreira",
    "populacao": 7952,
    "sapl": "sapl.delfimmoreira.mg.leg.br",
@@ -400,7 +400,7 @@
   "3122306": {
    "carga_completa": true,
    "nome": "Divinópolis",
-   "normas_na_fonte": 20790,
+   "normas_na_fonte": 20880,
    "pasta": "divinopolis",
    "populacao": 231091,
    "sapl": "sapl.divinopolis.mg.leg.br",
@@ -418,7 +418,7 @@
   "3123205": {
    "carga_completa": true,
    "nome": "Dores do Indaiá",
-   "normas_na_fonte": 2840,
+   "normas_na_fonte": 2849,
    "pasta": "dores-do-indaia",
    "populacao": 12630,
    "sapl": "sapl.doresdoindaia.mg.leg.br",
@@ -445,7 +445,7 @@
   "3124203": {
    "carga_completa": true,
    "nome": "Espera Feliz",
-   "normas_na_fonte": 2992,
+   "normas_na_fonte": 2994,
    "pasta": "espera-feliz",
    "populacao": 24102,
    "sapl": "sapl.esperafeliz.mg.leg.br",
@@ -472,7 +472,7 @@
   "3126109": {
    "carga_completa": true,
    "nome": "Formiga",
-   "normas_na_fonte": 6565,
+   "normas_na_fonte": 6570,
    "pasta": "formiga",
    "populacao": 68248,
    "sapl": "sapl.formiga.mg.leg.br",
@@ -526,7 +526,7 @@
   "3129202": {
    "carga_completa": false,
    "nome": "Heliodora",
-   "normas_na_fonte": 2913,
+   "normas_na_fonte": 2940,
    "pasta": "heliodora",
    "populacao": 6134,
    "sapl": "sapl.heliodora.mg.leg.br",
@@ -571,7 +571,7 @@
   "3131901": {
    "carga_completa": true,
    "nome": "Itabirito",
-   "normas_na_fonte": 5241,
+   "normas_na_fonte": 5277,
    "pasta": "itabirito",
    "populacao": 53365,
    "sapl": "sapl.itabirito.mg.leg.br",
@@ -598,7 +598,7 @@
   "3133600": {
    "carga_completa": false,
    "nome": "Itapeva",
-   "normas_na_fonte": 1402,
+   "normas_na_fonte": 1418,
    "pasta": "itapeva",
    "populacao": 12692,
    "sapl": "sapl.itapeva.mg.leg.br",
@@ -607,7 +607,7 @@
   "3133709": {
    "carga_completa": false,
    "nome": "Itatiaiuçu",
-   "normas_na_fonte": 2502,
+   "normas_na_fonte": 2525,
    "pasta": "itatiaiucu",
    "populacao": 12966,
    "sapl": "sapl.itatiaiucu.mg.leg.br",
@@ -616,7 +616,7 @@
   "3133808": {
    "carga_completa": true,
    "nome": "Itaúna",
-   "normas_na_fonte": 7242,
+   "normas_na_fonte": 7244,
    "pasta": "itauna",
    "populacao": 97669,
    "sapl": "sapl.itauna.mg.leg.br",
@@ -634,7 +634,7 @@
   "3134400": {
    "carga_completa": true,
    "nome": "Iturama",
-   "normas_na_fonte": 9498,
+   "normas_na_fonte": 9503,
    "pasta": "iturama",
    "populacao": 38295,
    "sapl": "sapl.iturama.mg.leg.br",
@@ -643,7 +643,7 @@
   "3134806": {
    "carga_completa": false,
    "nome": "Jacuí",
-   "normas_na_fonte": 526,
+   "normas_na_fonte": 527,
    "pasta": "jacui",
    "populacao": 7495,
    "sapl": "sapl.jacui.mg.leg.br",
@@ -715,7 +715,7 @@
   "3137205": {
    "carga_completa": true,
    "nome": "Lagoa da Prata",
-   "normas_na_fonte": 6512,
+   "normas_na_fonte": 6544,
    "pasta": "lagoa-da-prata",
    "populacao": 51412,
    "sapl": "sapl.lagoadaprata.mg.leg.br",
@@ -733,7 +733,7 @@
   "3138203": {
    "carga_completa": true,
    "nome": "Lavras",
-   "normas_na_fonte": 9265,
+   "normas_na_fonte": 9376,
    "pasta": "lavras",
    "populacao": 104761,
    "sapl": "sapl.lavras.mg.leg.br",
@@ -751,7 +751,7 @@
   "3138625": {
    "carga_completa": false,
    "nome": "Limeira do Oeste",
-   "normas_na_fonte": 2849,
+   "normas_na_fonte": 2868,
    "pasta": "limeira-do-oeste",
    "populacao": 8687,
    "sapl": "sapl.limeiradooeste.mg.leg.br",
@@ -760,7 +760,7 @@
   "3138807": {
    "carga_completa": true,
    "nome": "Luz",
-   "normas_na_fonte": 594,
+   "normas_na_fonte": 676,
    "pasta": "luz",
    "populacao": 17875,
    "sapl": "sapl.luz.mg.leg.br",
@@ -778,7 +778,7 @@
   "3139409": {
    "carga_completa": false,
    "nome": "Manhuaçu",
-   "normas_na_fonte": 7225,
+   "normas_na_fonte": 7242,
    "pasta": "manhuacu",
    "populacao": 91886,
    "sapl": "sapl.manhuacu.mg.leg.br",
@@ -787,7 +787,7 @@
   "3139508": {
    "carga_completa": true,
    "nome": "Manhumirim",
-   "normas_na_fonte": 3718,
+   "normas_na_fonte": 3721,
    "pasta": "manhumirim",
    "populacao": 20613,
    "sapl": "sapl.manhumirim.mg.leg.br",
@@ -814,7 +814,7 @@
   "3141108": {
    "carga_completa": true,
    "nome": "Matozinhos",
-   "normas_na_fonte": 3,
+   "normas_na_fonte": 4,
    "pasta": "matozinhos",
    "populacao": 37618,
    "sapl": "sapl.matozinhos.mg.leg.br",
@@ -832,7 +832,7 @@
   "3143203": {
    "carga_completa": true,
    "nome": "Monte Santo de Minas",
-   "normas_na_fonte": 2987,
+   "normas_na_fonte": 2991,
    "pasta": "monte-santo-de-minas",
    "populacao": 20890,
    "sapl": "sapl.montesantodeminas.mg.leg.br",
@@ -841,7 +841,7 @@
   "3143302": {
    "carga_completa": true,
    "nome": "Montes Claros",
-   "normas_na_fonte": 24,
+   "normas_na_fonte": 27,
    "pasta": "montes-claros",
    "populacao": 414240,
    "sapl": "sapl.montesclaros.mg.leg.br",
@@ -850,7 +850,7 @@
   "3143906": {
    "carga_completa": true,
    "nome": "Muriaé",
-   "normas_na_fonte": 8688,
+   "normas_na_fonte": 8711,
    "pasta": "muriae",
    "populacao": 104108,
    "sapl": "sapl.muriae.mg.leg.br",
@@ -868,7 +868,7 @@
   "3144409": {
    "carga_completa": false,
    "nome": "Natércia",
-   "normas_na_fonte": 2059,
+   "normas_na_fonte": 2061,
    "pasta": "natercia",
    "populacao": 4691,
    "sapl": "sapl.natercia.mg.leg.br",
@@ -922,7 +922,7 @@
   "3146008": {
    "carga_completa": false,
    "nome": "Ouro Fino",
-   "normas_na_fonte": 4749,
+   "normas_na_fonte": 4779,
    "pasta": "ouro-fino",
    "populacao": 32094,
    "sapl": "sapl.ourofino.mg.leg.br",
@@ -967,7 +967,7 @@
   "3148004": {
    "carga_completa": true,
    "nome": "Patos de Minas",
-   "normas_na_fonte": 13804,
+   "normas_na_fonte": 13834,
    "pasta": "patos-de-minas",
    "populacao": 159235,
    "sapl": "sapl.patosdeminas.mg.leg.br",
@@ -976,7 +976,7 @@
   "3148103": {
    "carga_completa": true,
    "nome": "Patrocínio",
-   "normas_na_fonte": 3134,
+   "normas_na_fonte": null,
    "pasta": "patrocinio",
    "populacao": 89826,
    "sapl": "sapl.patrocinio.mg.leg.br",
@@ -985,7 +985,7 @@
   "3149101": {
    "carga_completa": false,
    "nome": "Pedralva",
-   "normas_na_fonte": 1580,
+   "normas_na_fonte": 1585,
    "pasta": "pedralva",
    "populacao": 10760,
    "sapl": "sapl.pedralva.mg.leg.br",
@@ -994,7 +994,7 @@
   "3149150": {
    "carga_completa": false,
    "nome": "Pedras de Maria da Cruz",
-   "normas_na_fonte": 162,
+   "normas_na_fonte": 171,
    "pasta": "pedras-de-maria-da-cruz",
    "populacao": 10433,
    "sapl": "sapl.pedrasdemariadacruz.mg.leg.br",
@@ -1003,7 +1003,7 @@
   "3149309": {
    "carga_completa": true,
    "nome": "Pedro Leopoldo",
-   "normas_na_fonte": 6567,
+   "normas_na_fonte": 6580,
    "pasta": "pedro-leopoldo",
    "populacao": 62580,
    "sapl": "sapl.pedroleopoldo.mg.leg.br",
@@ -1039,7 +1039,7 @@
   "3151503": {
    "carga_completa": true,
    "nome": "Piumhi",
-   "normas_na_fonte": 4728,
+   "normas_na_fonte": 4740,
    "pasta": "piumhi",
    "populacao": 36062,
    "sapl": "sapl.piumhi.mg.leg.br",
@@ -1066,7 +1066,7 @@
   "3152105": {
    "carga_completa": true,
    "nome": "Ponte Nova",
-   "normas_na_fonte": 9107,
+   "normas_na_fonte": 9149,
    "pasta": "ponte-nova",
    "populacao": 57776,
    "sapl": "sapl.pontenova.mg.leg.br",
@@ -1102,16 +1102,16 @@
   "3155603": {
    "carga_completa": true,
    "nome": "Rio Pardo de Minas",
-   "normas_na_fonte": 2507,
+   "normas_na_fonte": 2509,
    "pasta": "rio-pardo-de-minas",
    "populacao": 28271,
    "sapl": "sapl.riopardodeminas.mg.leg.br",
    "sapl_manual": false
   },
   "3155801": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Rio Pomba",
-   "normas_na_fonte": 2185,
+   "normas_na_fonte": 2186,
    "pasta": "rio-pomba",
    "populacao": 17443,
    "sapl": "sapl.riopomba.mg.leg.br",
@@ -1156,7 +1156,7 @@
   "3158805": {
    "carga_completa": false,
    "nome": "Santana do Jacaré",
-   "normas_na_fonte": 491,
+   "normas_na_fonte": 494,
    "pasta": "santana-do-jacare",
    "populacao": 4214,
    "sapl": "sapl.santanadojacare.mg.leg.br",
@@ -1165,7 +1165,7 @@
   "3158953": {
    "carga_completa": true,
    "nome": "Santana do Paraíso",
-   "normas_na_fonte": 1874,
+   "normas_na_fonte": 1882,
    "pasta": "santana-do-paraiso",
    "populacao": 44800,
    "sapl": "sapl.santanadoparaiso.mg.leg.br",
@@ -1192,7 +1192,7 @@
   "3161106": {
    "carga_completa": true,
    "nome": "São Francisco",
-   "normas_na_fonte": 3159,
+   "normas_na_fonte": 3162,
    "pasta": "sao-francisco",
    "populacao": 52762,
    "sapl": "sapl.saofrancisco.mg.leg.br",
@@ -1201,7 +1201,7 @@
   "3162104": {
    "carga_completa": true,
    "nome": "São Gotardo",
-   "normas_na_fonte": 2097,
+   "normas_na_fonte": 2107,
    "pasta": "sao-gotardo",
    "populacao": 40910,
    "sapl": "sapl.saogotardo.mg.leg.br",
@@ -1237,7 +1237,7 @@
   "3164407": {
    "carga_completa": false,
    "nome": "São Sebastião da Bela Vista",
-   "normas_na_fonte": 1896,
+   "normas_na_fonte": 1901,
    "pasta": "sao-sebastiao-da-bela-vista",
    "populacao": 6387,
    "sapl": "sapl.saosebastiaodabelavista.mg.leg.br",
@@ -1255,7 +1255,7 @@
   "3165537": {
    "carga_completa": true,
    "nome": "Sarzedo",
-   "normas_na_fonte": 1738,
+   "normas_na_fonte": 1749,
    "pasta": "sarzedo",
    "populacao": 36844,
    "sapl": "sapl.sarzedo.mg.leg.br",
@@ -1264,7 +1264,7 @@
   "3165560": {
    "carga_completa": false,
    "nome": "Sem-Peixe",
-   "normas_na_fonte": 112,
+   "normas_na_fonte": 113,
    "pasta": "sem-peixe",
    "populacao": 2433,
    "sapl": "sapl.sempeixe.mg.leg.br",
@@ -1309,7 +1309,7 @@
   "3168606": {
    "carga_completa": true,
    "nome": "Teófilo Otoni",
-   "normas_na_fonte": 9570,
+   "normas_na_fonte": 9578,
    "pasta": "teofilo-otoni",
    "populacao": 137418,
    "sapl": "sapl.teofilootoni.mg.leg.br",
@@ -1318,7 +1318,7 @@
   "3168705": {
    "carga_completa": true,
    "nome": "Timóteo",
-   "normas_na_fonte": 8588,
+   "normas_na_fonte": 8602,
    "pasta": "timoteo",
    "populacao": 81579,
    "sapl": "sapl.timoteo.mg.leg.br",
@@ -1327,7 +1327,7 @@
   "3169000": {
    "carga_completa": false,
    "nome": "Tocantins",
-   "normas_na_fonte": 1874,
+   "normas_na_fonte": 1936,
    "pasta": "tocantins",
    "populacao": 16185,
    "sapl": "sapl.tocantins.mg.leg.br",
@@ -1363,7 +1363,7 @@
   "3169901": {
    "carga_completa": true,
    "nome": "Ubá",
-   "normas_na_fonte": 5831,
+   "normas_na_fonte": 5844,
    "pasta": "uba",
    "populacao": 103365,
    "sapl": "sapl.uba.mg.leg.br",
@@ -1390,7 +1390,7 @@
   "3170404": {
    "carga_completa": true,
    "nome": "Unaí",
-   "normas_na_fonte": 11359,
+   "normas_na_fonte": 11408,
    "pasta": "unai",
    "populacao": 86619,
    "sapl": "sapl.unai.mg.leg.br",
@@ -1408,7 +1408,7 @@
   "3170701": {
    "carga_completa": true,
    "nome": "Varginha",
-   "normas_na_fonte": 6771,
+   "normas_na_fonte": 6803,
    "pasta": "varginha",
    "populacao": 136467,
    "sapl": "sapl.varginha.mg.leg.br",
@@ -1444,7 +1444,7 @@
   "3172004": {
    "carga_completa": true,
    "nome": "Visconde do Rio Branco",
-   "normas_na_fonte": 1502,
+   "normas_na_fonte": 1510,
    "pasta": "visconde-do-rio-branco",
    "populacao": 39160,
    "sapl": "sapl.viscondedoriobranco.mg.leg.br",

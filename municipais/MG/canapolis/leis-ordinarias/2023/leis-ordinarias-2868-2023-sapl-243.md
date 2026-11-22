@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 2868, de 21/11/2023"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2868"
+data: "2023-11-21"
+ementa: "\"DISPÕE SOBRE A DOAÇÃO DOS IMÓVEIS REFERENTES AO PROGRAMA DE REGULARIZAÇÃO FUNDIÁRIA DE PROPRIEDADE DO MUNICÍPIO DE CANÁPOLIS/MG, PREVISTO NA LEI MUNICIPAL N. 2.824 DE 23 DE DEZEMBRO DE 2022, NA FORMA QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS\"."
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.canapolis.mg.leg.br/norma/243"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2023/243/lei_2868-2013_-_dispoe_sobre_a_doacao_dos_imoveis_referentes_ao_programa_de_regularizacao_fundiaria_de_propriedade_do_municipio_de_canapolis-mg.pdf"
+sha256_fonte: "fc6c9d62cba497ccd89d4448065ab4c413cef2b86719b57269c6d198928f5cf6"
+baixado_em: "2026-11-22"
+---
+
+# Lei Ordinária nº 2868, de 21/11/2023
+
+Cãriápolis Governando para Todos ADM,2021/202.(
+
+LEI N º 2.868 DE 21 DE NOVEMBRO DE 2023
+
+"DISPÕE SOBRE A DOAÇA-O DOS IMÓVEIS REFERENTES AO PROGRAMA DE REGULARIZAÇA-O FUNDIÁRIA DE PROPRIEDADE DO MUNICÍPIO DE CANÁPOLISIMG, PREVISTO NA LEI MUNICIPAL N. 2.824 DE 23 DE DEZEMBRO DE 2022, NA FORMA QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS".
+
+O Prefeito Municipal de Canápolis, Estado de Minas Gerais, Enivander Alve de Morais, no uso de suas atribuiçõe legais. faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+
+Art. l º - Fica o Município de Canápolis autorizado doar um imóvel situado no Bairro Gercino Cândido de Moura, Rua Sebastiana Maria da Conceição, Quadra 02, Lote 07, com a área de 160,00m2, com medidas limites e confrontações constante da Matrícula 7.408, do Cartório de Registro de Imóveis de Canápolis-MG, ao beneficiário CÍCERO EUL.Â.MPIO ALVES. brasileiro. capaz, oldador, portador da Cl.RG. MG-10.\*\*\*.\*\*8-SSP-MG, e CPF 034.\*\*\*.\*\*\*-09, casado com Juliana Silva Ramos Alves, em 27/04/2002. sob o regime da comunhão parcial de bens, para efetivação da regularização fundiária, nos termos disciplinados pela Lei Municipal 2.824 de 23 de dezembro de 2022.
+
+**Parágrafo único** - O valor da doação é o constante do laudo de avaliação anexo lAncxo 1], o qual está em literal observância a pauta de a'valiação oficial da municipalidade. para fins de incidência de IPTU.
+
+**Art. 2°** - Pai a a consumação da presente doação, foram observados e apurados, mediante a deflagração e instrução de processo administrativo, o cumprimento dos requisitos e tramite da Lei Municipal 2.824 de 23 de dezembro de 2022. estando justificado o interesse público e a sua conveniência em detrimento do processo de alienaçã.o.
+
+**Parágrafo único** - O donatário deverá se comprometer a lavrar e registrar as suas expensa , a competente escritura pública da doação no prazo máximo de
+
+• c,nuo �•• C ••••., (34) 3266-3500 · Pnça 19 •• ..\_., •• 3-04 • c.na,..... 32 www.canapoUs.mg.gov.br
