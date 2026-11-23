@@ -19,6 +19,7 @@ import os
 import re
 import time
 import urllib.parse
+from concurrent.futures import ThreadPoolExecutor
 
 import comum
 import municipios_mg as mun
@@ -218,45 +219,49 @@ def coletar(registrar, tempo_max=0):
         if prazo and time.monotonic() > prazo:
             raise TempoEsgotado()
 
-    try:
-        for site in SITES:
-            host = site[0]
-            e = estado.setdefault(host, {"carga_completa": False, "proxima_pagina": 1, "varredura": ""})
-            varrer_tudo = not e["carga_completa"] or (HOJE.day == 1 and e.get("varredura") != HOJE.isoformat())
-            pagina = e["proxima_pagina"] if not e["carga_completa"] else 1
-            try:
-                while True:
+    def site_coletar(site):
+        host = site[0]
+        e = estado.setdefault(host, {"carga_completa": False, "proxima_pagina": 1, "varredura": ""})
+        varrer_tudo = not e["carga_completa"] or (HOJE.day == 1 and e.get("varredura") != HOJE.isoformat())
+        pagina = e["proxima_pagina"] if not e["carga_completa"] else 1
+        try:
+            while True:
+                checar()
+                itens, total = listar_pagina(host, pagina)
+                if not itens:
+                    break
+                conhecidos = 0
+                for item in itens:
+                    if not CATEGORIAS.search(item["categoria"]):
+                        conhecidos += 1
+                        continue
+                    md = caminho_md(site, item)
+                    if os.path.exists(md):
+                        conhecidos += 1
+                        atualizar_situacao(md, item, registrar)
+                        continue
                     checar()
-                    itens, total = listar_pagina(host, pagina)
-                    if not itens:
-                        break
-                    conhecidos = 0
-                    for item in itens:
-                        if not CATEGORIAS.search(item["categoria"]):
-                            conhecidos += 1
-                            continue
-                        md = caminho_md(site, item)
-                        if os.path.exists(md):
-                            conhecidos += 1
-                            atualizar_situacao(md, item, registrar)
-                            continue
-                        checar()
-                        gravar(site, item, registrar)
-                    if not e["carga_completa"]:
-                        e["proxima_pagina"] = pagina + 1
-                    if not varrer_tudo and conhecidos == len(itens):
-                        break
-                    if pagina * 50 >= total:
-                        e["carga_completa"] = True
-                        e["proxima_pagina"] = 1
-                        if varrer_tudo:
-                            e["varredura"] = HOJE.isoformat()
-                        break
-                    pagina += 1
-            except RuntimeError as erro:
-                registrar("falhas", f"municipais/MG/{mun.pasta_municipio(site[1])}", str(erro)[:200])
-    except TempoEsgotado:
-        print("[instar] tempo esgotado; a coleta continua na próxima execução", flush=True)
+                    gravar(site, item, registrar)
+                if not e["carga_completa"]:
+                    e["proxima_pagina"] = pagina + 1
+                if not varrer_tudo and conhecidos == len(itens):
+                    break
+                if pagina * 50 >= total:
+                    e["carga_completa"] = True
+                    e["proxima_pagina"] = 1
+                    if varrer_tudo:
+                        e["varredura"] = HOJE.isoformat()
+                    break
+                pagina += 1
+        except TempoEsgotado:
+            print(f"[instar] {host}: tempo esgotado; continua na próxima execução", flush=True)
+        except RuntimeError as erro:
+            registrar("falhas", f"municipais/MG/{mun.pasta_municipio(site[1])}", str(erro)[:200])
+
+    # cada site é um servidor diferente: coletam em paralelo, cada um com seu limite de requisições
+    try:
+        with ThreadPoolExecutor(len(SITES)) as ex:
+            list(ex.map(site_coletar, SITES))
     finally:
         with open(ESTADO, "w", encoding="utf-8") as f:
             json.dump(estado, f, ensure_ascii=False, indent=1, sort_keys=True)
