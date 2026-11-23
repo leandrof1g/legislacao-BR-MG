@@ -2,7 +2,7 @@
 
 Municípios onde o Corpo de Bombeiros Militar de Minas Gerais tem unidade instalada (batalhão, companhia, pelotão, posto avançado ou brigada municipal), segundo [bombeiros.mg.gov.br/unidades-cbmmg](https://www.bombeiros.mg.gov.br/unidades-cbmmg). Gerado por `scripts/municipios_mg.py`.
 
-**39 de 101** municípios com legislação no acervo e atualização automática.
+**40 de 101** municípios com legislação no acervo e atualização automática.
 
 | Município | Unidade | Tipo | População | Fonte da legislação | Normas no acervo | Atualização automática |
 | --- | --- | --- | ---: | --- | ---: | :---: |
@@ -89,21 +89,21 @@ Municípios onde o Corpo de Bombeiros Militar de Minas Gerais tem unidade instal
 | Guanhães | 6º BBM (5º COB) | Posto Avançado BM | 32.244 | Instar — sem coletor | 0 | não |
 | Além Paraíba | 4º BBM (3º COB) | Posto Avançado BM | 30.717 | Leis Municipais — sem coletor | 0 | não |
 | Juatuba | 2º BBM (1º COB) | Pelotão BM | 30.716 | Leis Municipais — sem coletor | 0 | não |
+| Três Marias | 6ª Cia Ind (4º COB) | Pelotão BM | 28.895 | a levantar — sem coletor | 0 | não |
 | Rio Pardo de Minas | 7º BBM (4º COB) | Brigada Municipal | 28.271 | SAPL ([sapl.riopardodeminas.mg.leg.br](https://sapl.riopardodeminas.mg.leg.br)) | 2405 | sim |
-| Astolfo Dutra | 4º BBM (3º COB) | Brigada Municipal | — | a levantar — sem coletor | 0 | não |
-| Campos Altos | 8º BBM (2º COB) | Posto Avançado BM | — | a levantar — sem coletor | 0 | não |
-| Carandaí | 2ª Cia Ind (3º COB) | Brigada Municipal | — | a levantar — sem coletor | 0 | não |
-| Conselheiro Pena | 6º BBM (5º COB) | Brigada Municipal | — | a levantar — sem coletor | 0 | não |
-| Francisco Sá | 7º BBM (4º COB) | Posto Avançado BM | — | a levantar — sem coletor | 0 | não |
-| Ipanema | 11º BBM (5º COB) | Brigada Municipal | — | a levantar — sem coletor | 0 | não |
-| Itaobim | 6º BBM (5º COB) | Pelotão BM | — | a levantar — sem coletor | 0 | não |
-| Nova União | 3º BBM (1º COB) | Posto Avançado BM | — | a levantar — sem coletor | 0 | não |
-| Mato Verde | 7º BBM (4º COB) | Brigada Municipal | — | a levantar — sem coletor | 0 | não |
-| Paraisópolis | 7ª Cia Ind (6º COB) | Brigada Municipal | — | a levantar — sem coletor | 1 | não |
-| Resplendor | 6º BBM (5º COB) | Pelotão BM | — | a levantar — sem coletor | 0 | não |
-| Sacramento | 8º BBM (2º COB) | Pelotão BM | — | a levantar — sem coletor | 0 | não |
-| São Gonçalo do Rio Abaixo | 11º BBM (5º COB) | Posto Avançado BM | — | a levantar — sem coletor | 0 | não |
-| São João Evangelista | 6º BBM (5º COB) | Pelotão BM | — | a levantar — sem coletor | 0 | não |
-| Três Marias | 6ª Cia Ind (4º COB) | Pelotão BM | — | a levantar — sem coletor | 0 | não |
-| Tupaciguara | 5º BBM (2º COB) | Posto Avançado BM | — | a levantar — sem coletor | 1 | não |
-| Vazante | 12º BBM (2º COB) | Brigada Municipal | — | a levantar — sem coletor | 0 | não |
+| Sacramento | 8º BBM (2º COB) | Pelotão BM | 26.670 | a levantar — sem coletor | 0 | não |
+| Tupaciguara | 5º BBM (2º COB) | Posto Avançado BM | 25.470 | a levantar — sem coletor | 1 | não |
+| Carandaí | 2ª Cia Ind (3º COB) | Brigada Municipal | 23.812 | a levantar — sem coletor | 0 | não |
+| Francisco Sá | 7º BBM (4º COB) | Posto Avançado BM | 23.476 | a levantar — sem coletor | 0 | não |
+| Conselheiro Pena | 6º BBM (5º COB) | Brigada Municipal | 20.824 | a levantar — sem coletor | 0 | não |
+| Paraisópolis | 7ª Cia Ind (6º COB) | Brigada Municipal | 20.445 | a levantar — sem coletor | 1 | não |
+| Vazante | 12º BBM (2º COB) | Brigada Municipal | 19.975 | a levantar — sem coletor | 0 | não |
+| Ipanema | 11º BBM (5º COB) | Brigada Municipal | 19.522 | SAPL ([sapl.ipanema.mg.leg.br](https://sapl.ipanema.mg.leg.br)) | 0 | sim |
+| Itaobim | 6º BBM (5º COB) | Pelotão BM | 19.151 | a levantar — sem coletor | 0 | não |
+| Resplendor | 6º BBM (5º COB) | Pelotão BM | 17.226 | SAPL ([sapl.resplendor.mg.leg.br](https://sapl.resplendor.mg.leg.br)) | 0 | sim |
+| São João Evangelista | 6º BBM (5º COB) | Pelotão BM | 15.315 | a levantar — sem coletor | 0 | não |
+| Astolfo Dutra | 4º BBM (3º COB) | Brigada Municipal | 14.138 | a levantar — sem coletor | 0 | não |
+| Campos Altos | 8º BBM (2º COB) | Posto Avançado BM | 12.979 | SAPL ([sapl.camposaltos.mg.leg.br](https://sapl.camposaltos.mg.leg.br)) | 462 | sim |
+| Mato Verde | 7º BBM (4º COB) | Brigada Municipal | 12.038 | a levantar — sem coletor | 0 | não |
+| São Gonçalo do Rio Abaixo | 11º BBM (5º COB) | Posto Avançado BM | 11.850 | a levantar — sem coletor | 0 | não |
+| Nova União | 3º BBM (1º COB) | Posto Avançado BM | 5.909 | a levantar — sem coletor | 0 | não |

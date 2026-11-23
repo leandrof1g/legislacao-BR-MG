@@ -1,0 +1,164 @@
+---
+titulo: "Lei Ordinária nº 2355, de 24/05/2011"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2355"
+data: "2011-05-24"
+ementa: "\"AUTORIZA O PODER EXECUTIVO A ALTERAR A LEI MUNICIPAL Nº. 2.346/2011.\""
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.canapolis.mg.leg.br/norma/719"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2011/719/lei_2355-2011_-_autoriza_o_poder_executivo_a_alterar_a_lei_municipal_2.346-2011.pdf"
+sha256_fonte: "3946051dafe5ec5cdc19451a53acbe86faa5267305d0a867dca9ce05e61912aa"
+baixado_em: "2026-11-23"
+---
+
+# Lei Ordinária nº 2355, de 24/05/2011
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEINº 2.355/2011
+
+AUTORIZA O PODER EXECUTIVO A ALTERAR A
+
+LEI MUNICIPAL 2.346/2011.
+
+REFEITO MUNICIPAL, .
+
+aço saber que à Câmara Municipal decreta e eu sanciono a-seguinte
+
+Art, 1º - O artigo segundo da Lei Municipal 2.346/2011, que passa a
+
+“ «igorar da seguinte forma:
+
+“Lei Municipal 2.346/2011”
+
+“Art. 2º - Para atender as despesas decorrentes do artigo 1º serão
+
+: utilizados recursos por anulação das seguintes Dotações Orçamentárias:
+
+02.03.00-4.4,90.52.01-04.121.0004.2.0013 EQUIPAMENTO E “MAT. PERMANENTE
+
+“001.001 - RECURSOS DO MUNICÍPIO R$ 4.200,00 “02:08.00-4.4.90.51.01-04.752.0015.1.0007 | OBRAS E - INSTALAÇÕES \*
+
+“001.001 - RECURSOS DO MUNICIPIO R$ 2.100,00
+
+“ 02.08.00-4.4.90.51.01-08.244.0013.1.0057 OBRAS E
+
+“001.001 — RECURSOS DO MUNICIPIO R$ 2.100,00
+
+“02.08.00-4.4.90.51.01-10.302.0010.1.0032 | OBRAS E
+
+- INSTALAÇÕES |
+
+E 001. 01 RE CURS OS DO MUNI Ar EMURA MUNICIPAL DE CANAPOLIS MG
+
+“Praça 19 de Março, 304 Centro | CEP 38380000 “Fone; 34 3266 3500 | Fax 34 32686 3501,
+
+â0-4 :90.5 5k óI- 12. 365. 0007.1.0025 AÇÕES = RECURSOS DO MUNICIPIO
+
+2 .00-4. 4.90.51. D1.15.451.0014.1.0004 ' ALAÇÕES 901 - RECURSOS DO MUNICIPIO
+
+“02,08.00-4.4.90.51.01-15.451.0014.1.0012 | “INSTALAÇÕES o oo, 001 - RECURSOS DO MUNICIPIO
+
+980 00-4.4.90.51.01-15.451.0014.1.0016
+
+“001.001 - RECURSOS DO MUNICIPIO
+
+o 08.00-4.4.90. 51.01-15.451.0015.1.0071 “INSTALAÇÕES 001.001 - RECURSOS DO MUNICIPIO
+
+. 02.08.00-4.4. 90. 51. 01- 15. 452. old. 1.0005
+
+1 001. dada RECURSOS DO MUNICIPIO
+
+É 02. 08.00-4.4.90.51.01-15. 452. 0014.1.0029 = INSTALAÇÕES “001, 001 - RECURSOS DO MUNICIPIO
+
+— 02:08.00-4,4.90.51.01-15:452.0014.1.0040 e INSTALAÇÕES - 001.001 - REC URSOS DO MUNICIPIO
+
+Praça 19 de Março, 304 Centro | CEP 38380 900
+
+OBRAS E
+
+R$ 4.200,00
+
+OBRAS E
+
+R$ 4.200,00,
+
+OBRAS E
+
+R$ 4.200,00
+
+“OBRAS E
+
+R$ 4.200,00
+
+OBRAS E
+
+”
+
+R$ 4.200,00
+
+OBRAS E
+
+“R$ 10.500,90
+
+OBRAS E
+
+OBRAS E
+
+R$4.200,00
+
+Fone 34 3266 3500 | Fax 34 3266 3501
+
+02.08:00-4.4.90.51.01-17.512.0011.1.0010 1.001 — RECURSOS DO MUNICIPIO
+
+“- 02.08.00-4.4.90.51.01-27.812.0009.1.0014 - INSTALAÇÕES “001.001 - RECURSOS DO MUNICIPIO
+
+02.08.00-4.4.90.51.01-27.812.0009.1.0021 “INSTALAÇÕES 001.001 - RECURSOS DO MUNICIPIO
+
+“02:08.00-4.4.90.51.01-27.812.0009.1.0038
+
+001.001 - RECURSOS DO MUNICIPIO
+
+02:08.00-4.4.90.51.01-27.812.0009.1.0043 “ INSTALAÇÕES - 001.001 - RECURSOS DO MUNICIPIO
+
+- 02.08.00-4.5.90.61.01-04.181.0005.1.0033 IMOVEIS E - 001.001 - RECURSOS DO MUNICIPIO
+
+: 02.08.00-4.5.90.61.01-2 7.813.0009.1.0031 JM OVEIS 001.001 — RECURSOS DO MUNICIPIO
+
+OBRAS E
+
+R$ 4.200,00
+
+OBRAS E
+
+R$ 10.500,00
+
+OBRAS E R$ 10.000,00 OBRAS E
+
+R$ 4.158,90
+
+OBRAS E
+
+R$ +9.500,00
+
+OBRAS E
+
+“R$ 4:200,00
+
+AQUISIÇÕES DE
+
+AQUISIÇÕES DE
+
+- R$4.200,00 -
+
+Po 49: de Marto, 304 Centro | CEP 38380 000 3 3286 3500 | Fax 34 3266 3501
+
+AQUISIÇÕES DE
+
+R$ 101.158,90”
+
+“ Praça 19 de Março. 304 Centro | CEP 38380 000 : “Fone 34 3266 3500 | Fax 34 3266 3801

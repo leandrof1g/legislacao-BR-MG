@@ -1,0 +1,134 @@
+---
+titulo: "Lei Ordinária nº 2265, de 31/03/2010"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2265"
+data: "2010-03-31"
+ementa: "\"AUTORIZA O PODER EXECUTIVO A SUPLEMENTAR A DOTAÇÃO QUE ESPECÍFICA.\""
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.canapolis.mg.leg.br/norma/784"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2010/784/lei_2265-2010_-_autoriza_o_poder_executivo_a_suplementar_a_dotacao_que_especifica.pdf"
+sha256_fonte: "24f2655aeabd1a31d9b9ac2b137bd6e58401c80acaff6510479c2cc4777f3485"
+baixado_em: "2026-11-23"
+---
+
+# Lei Ordinária nº 2265, de 31/03/2010
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Caná = PREFEITURA DE CANÁPOLIS
+
+LEI 2.265/2010
+
+AUTORIZA O PODER EXECUTIVO A SUPLEMENTAR A DOTAÇÃO QUE ESPECIFICA.
+
+O PREFEITO MUNICIPAL,
+
+Faço saber que a Câmara Municipal decreta e eu sanciono a
+
+seguinte lei:
+
+**Art. 1º** - Fica o Poder Executivo Municipal, autorizado a
+
+suplementar a seguinte dotação.
+
+02.09.00-3.3.90.39.01-20.606.0015.2.0046 OUTROS SERVIÇOS PESSOA JURÍDICA 001.001 - RECURSOS DO MUNICÍPIO R$ 5.378,56
+
+02.09.00-3.3.90.30.01-20.606.0015.2.0046 MATERIAIS DE CONSUMO
+
+001.001 - RECURSOS DO MUNICÍPIO R$ 25.084,40
+
+02.08.00-3.3.90.39.01-15.122.0014.2.0039 OUTROS SERVIÇOS PESSOA JURÍDICA 001.001 - RECURSOS DO MUNICÍPIO R$ 36.494,45
+
+02.08.00-3.3.90.30.01-15.122,0014.2.0039 MATERIAIS DE CONSUMO
+
+001.001 - RECURSOS DO MUNICÍPIO R$ 255.543,99
+
+Praça 19 de Março, 304 - Centro - CEP: 38380-090 - Tel:(34)3266-3500 | Canápolis - Minas Gerais
+
+Canápolis PREFEITURA DE CANÁPOLIS
+
+**Art. 2º** -- Para atender as despesas decorrentes do artigo 1º serão
+
+utilizados recursos por anulação das seguintes Dotações Orçamentárias:
+
+02.06.01-3.1.90.11.01-12.361.0007.2.0024 002.002 — FUNDEB 40%
+
+02.05.00-3.1.90.11.07-04.122.0005.2.0016 EXERCÍCIOS ANTERIORES 901.001 - RECURSOS DO MUNICÍPIO
+
+02.06.01-3.1.90.11.01-12,361.0007.2.0024 002.002 — FUNDEB 40%
+
+02.05.00-3,1.90.13.01-04.272.0005.2.0016 001.001 - RECURSOS DO MUNICÍPIO
+
+02,05.00-3.1.90.01.01-09.272.0005.2,0007 001.001 - RECURSOS DO MUNICÍPIO
+
+02.05.00-3.1.90.03.01-09.272.0005.2.0007 001.001 - RECURSOS DO MUNICÍPIO
+
+02.10.01-3.3.90.30.01-08.244.0013.2.0098
+
+004.005 —- PPA
+
+VENCIMENTOS R$ 5.378,56
+
+SUBSÍDIO SECRETÁRIOS
+
+R$ 10.020,91
+
+VENCIMENTOS R$ 15.063,49
+
+OBRIGAÇÕES PATRONAIS R$ 36.494,45
+
+INATIVOS CIVIS -R$. 100.000,00
+
+PENSIONISTAS CIVIS R$ 25.543,99
+
+MATERIAIS DE CONSUMO
+
+R$ 60.000,00
+
+02.10.01-3.3.90.32.01-08.244,0013.2.0058 MATERIAIS DE DIST. GRATUITA
+
+001.001 - RECURSOS DO MUNICÍPIO
+
+R$ 5.000,00
+
+02.10.01-3.3.90.32.01-08.244.0013.2.0096 MATERIAIS DE DIST. GRATUITA
+
+004.003 - PROG. BOLSA FAMÍLIA
+
+Praça 19 de Março, 304 - Centro - CEP: 38380-000 - - Tel:(34)3266-3500 Canápolis - Minas Gerais .
+
+R$ 3.000,00
+
+PREFEITURA DE CANÁPOLIS
+
+ima n
+
+Ee ESTADO DE MINAS GERAIS
+
+02.10.01-3.3.90.36.01-08.244.0013.2.0097 OUTROS SERVIÇOS PESSOA FÍSICA 004.004 — PETI R$ 10.000,00
+
+02.10.01-3.3.90.39.01-08.244.0013.2.0094 OUTROS SERVIÇOS PESSOA JURÍDICA 004.001 —- PAIF R$ 5.000,00
+
+02.10.01-3.3.90.48.01-16.482,0013.2.0033 AUX. MORADIA PESSOAS CARENTES 001.001 - RECURSOS DO MUNICÍPIO R$ 15.000,00
+
+02.10.01-3.3.90.48,03-08.244.0013.2.0081 TRATAMENTO FORA DO DOMICÍLIO- TFD
+
+001.001 - RECURSOS DO MUNICÍPIO R$ 20.000,00
+
+02.10.01-4.4,90.52.01-08.244.0013.2.0096 EQUIPAMENTO E MAT. PERMANENTE 004.003 - PROG. BOLSA FAMÍLIA R$ 10.000,00
+
+02.10.02-3.3.90.39.01-08.243.0013.2.0048 OUTROS SERVIÇOS PESSOA JURÍDICA 001.001 - RECURSOS DO MUNICÍPIO R$ 2.000,00
+
+**Art. 3º** - Esta Lei entra em vigor na data de sua publicação.
+
+Canápolis/MG, 31 de Março de 2010.
+
+ÍLSON ALVES SANTANA
+
+Prefeito Municipal
+
+Praça 19 de Março, 304 - Centro - CEP: 38380-000 - T ei:(34)3266-3500

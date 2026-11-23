@@ -1,0 +1,122 @@
+---
+titulo: "Lei Ordinária nº 2335, de 29/03/2011"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2335"
+data: "2011-03-29"
+ementa: "\"AUTORIZA O PODER EXECUTIVO A SUPLEMENTAR A DOTAÇÃO QUE ESPECÍFICA.\""
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.canapolis.mg.leg.br/norma/700"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2011/700/lei_2335-2011_-_autoriza_o_poder_executivo_a_suplementar_a_dotacao_que_especifica.pdf"
+sha256_fonte: "4a2b050c9e25db008b80c5d7b3e0392136da226f50a843d861f846ff14f628fc"
+baixado_em: "2026-11-23"
+---
+
+# Lei Ordinária nº 2335, de 29/03/2011
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+O LEINº 2335/2011
+
+“AUTORIZA O PODER EXECUTIVO A SUPLEMENTAR A DOTAÇÃO QUE ESPECÍFICA.
+
+REFEITO MUNICIPAL,
+
+“saber que a Câmara Municipal decreta e eu sanciono a seguinte lei:
+
+ar é “Fica o Poder Executivo Municipal, autorizado a suplementar as p Pp
+
+uintes dotações. E
+
+a 15.00-3. 3.90:30.01-04. iz2. 0005. 2.0016 MATERIAIS DE
+
+“CONSUMO DIVERSOS
+
+“001.001 - RECURSOS DO MUNICÍPIO R$ 15.000,00 “02.06.02-3.3.90.30.01-27.812.0009.2.0025 | MATERIAIS DE CONSUMO DIVERSOS
+
+“001.001 - REC URSOS DO MUNICÍPIO R$ 4.000,00
+
+“oz 06.04-3.3.90.30.01-12.361. 0007.2.0019 | MATERIAIS DE CONS UMO DI VERSOS o
+
+001 002 - EDUCAÇÃO 25% CC R$15.000,00 0206 04-3.3.90.30.0]- iZ. 361.0007, 2.0085 MATERIAIS DE
+
+. “CONSUMO DIVERSOS.
+
+“003, So0sDESE R$ 5.000,00
+
+0a, 06.04-3.3.90.30.01-12.365.0007.2. 0018 MATERIAIS DE “C ONS UMO DI VERSOS
+
+“001.002 - EDUCAÇÃO 25% | R$ 14.000,00'
+
+/- PREFEITURA MUNICIPAL DE CANÁPOLIS MG
+
+“ Praçã! 19 de Março, 304 Centro ! CEP 38380 000 - Fone 34 3266 3500 ! Fax 34 3266 3501
+
+50.0 oi. 10. 122. 0010.2.0110 MATERIAIS DE DIVERSOS | : ECURSOS DO MUNICÍPIO R$ 5.700,90
+
+3.3.90.30.01-10.305.0010.2.0105 | MATERIAIS DE IMO DIVERSOS VIGILANCIA EPIDEMIOLOGICA R$ 2.424,71
+
+3:3:90.30:01-15.122:0014.2.0039 | MATERIAIS DE Í- RECURSOS DO MUNICÍPIO R$ 9.915,85 209.00-3 3.90.30.01-20. óo6 0015.2.0046 MATERIAIS DE 'ÔNSUMO DIVERSOS | ? “o 0 - RECURSOS DO MUNICÍPIO R$ 8.444,61 10. o1- 3.3.90.30.01-08.244.0013.2.0094 MATERIAIS DE. “CONSUMO DIVERSOS o o | ooá do - PAIF o — “R$ 5.000,00 02, 5 pois 3.90.30.01-08.244:0013,2.0095 MA TERIAIS DE E “CONSUMO DIVERSOS ço EUA 002 - PBT CR$ 8.602,50 | oraL DAS SUFLEMENTAÇÕES: R$ 93.088,57
+
+=: Para atender: as despesas decorrentes do artigo 1º serão utilizados
+
+j - “Tecúrsos por anulação das seguintes Dotações Orçamentárias:
+
+“-02.05,00:3.3.90.47.01-04.122.0005.2.0016 — OBRIGAÇÕES “TRIBUTÁRIAS “001.001 - RECURSOS DO MUNICÍPIO “R$ 15.000,00
+
+: Praça 19d Março. 304 Centro | CEP 38380 000. “Fone 34 3266 3500 ! Fax 34 2286 3501
+
+FÓM leio cr
+
+á MERMANENTE o
+
+33.90. 90.30.01-12.306.0007.2.0020 MO DIVERSOS Q; =EDUCAÇÃ O 25%. |
+
+3.3 90. 30, ou: 2, 306, 0007,2, 0089 E MO DI VERSOS di 7- -PNAE (PNA em
+
+4-3. 3.90.30. o1- 12. 361. 0007. 2.0091 CONSUMO DIVERSOS: a 09 PNA TE (SEE) NE
+
+6.04-3.3.90.36.01-12.361.0007.2.0091 “APÉSSOA FISICA - | E Glp - PNATE (SEE) o
+
+. “02,07. 01-3.3. 90.30. o 10.301. d01O. 2.0100 o CONSUMO DIVERSOS E 005.002 - - SA ÚDE DA FAMÍLIA PSF
+
+| É) vos. 3.90. 39, 901 15, 5452, nota, 2.0040 em PESSOA JURÍDICA | a 001.001 — RECURSOS DO MUNIC IPIO
+
+na 08. 00-4.4:90. 52:01-15.452.0014.2.0040 “MAT: PE RMANENTE
+
+2.01-27, 812:0009.2.0025
+
+RECURSOS DO MUNIC ÍPIO |
+
+EQUIPAMENTO “E
+
+R$ 4.000,00
+
+MATERIAIS DE R$ 8.000,00 MATERIAIS CODE o R$ 5.897,00 MATERIAIS DE “R$5.103,00 OUTROS SERV. “R$15000,00 MATERIAIS: DE “ R$8125,61 “OUTROS SERV.
+
+R$ 18.360,46
+
+EQUIPAMENTO E
+
+006 001 - REC URSOS DO MUNICIPIO R$ 5.000,00 PREFEITURA MUNIÇIPAL DE CANÁPOLIS MG
+
+“ Praça-19 de Março, 304 Centro ! CEP 38380 000
+
+Fone 34 3266 3500 |
+
+Fax 34 3266 3501
+
+RE FORÇA E O Vl j
+
+nto “o 3.90.30.01-08.244:0013.2.0098 | MATERIAIS DE -PPA R$ 8.602,50
+
+DAS /ANULAÇÕES: R$ 93.088,57
+
+WLSONÁLVES SANTANA
+
+É Prefeito Municipal .
+
+PREFEITURA MUNICIPAL DE CANÁPOLIS MG “Praça 19 de Março, 304 Centro | CEP 38380 000 Fone 34 3265 3500 | Fax 34 3268 3501

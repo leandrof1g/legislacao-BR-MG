@@ -1,0 +1,184 @@
+---
+titulo: "Lei Ordinária nº 2369, de 30/06/2011"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2369"
+data: "2011-06-30"
+ementa: "\"AUTORIZA O PODER EXECUTIVO A SUPLEMENTAR AS DOTAÇÕES QUE ESPECÍFICA.\""
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.canapolis.mg.leg.br/norma/732"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2011/732/lei_2369-2011_-_autoriza_o_poder_executivo_a_suplementar_a_dotacao_que_especifica.pdf"
+sha256_fonte: "a813b1c8d99bbee987851b4a77699fd6d65a046b339f3bbf7481236c82a4ad3b"
+baixado_em: "2026-11-23"
+---
+
+# Lei Ordinária nº 2369, de 30/06/2011
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+| “AUTORIZA o “PODER EXECUTIVO A se o “SUPLEMENTAR AS DOTAÇÕES que.
+
+“ESPECÍFICA. z “VENCIMENTOS: CR$ 13.390, 26 | ! “DESPESAS VARIÁVEIS R$ 2.345,15 aa 0127, 812.0009.2.0025 VENCIMENTOS o
+
+R$ 2.683,65
+
+Praça 19 de Março, 304 Centro | CEP 38380 000
+
+Fone 34 3266 3500 | Fax 34 3266 350
+
+> NOSSA. aa edi = - FORCA E O e - TRABALHO | RO Sã, a
+
+12.3 VENCIMENTOS 0 25% \* R$ 46.650,59
+
+0.13:01-12.272.0007.2.0019 | OBRIGAÇÕES
+
+R$ 15.475,72
+
++
+
+OL 2. 122 0007.2. 0019. DESPESAS VARIÁ VEIS “R$ 780, 71.
+
+010.2.0110 vanênianTos R$ 65.025,00
+
+VENCIMENTOS Ps é 65.206,61
+
+-3.1.90.11.01-10.301.6 VENCIMENTOS - RECURSOS DO MUNICÍPIO R$ 22.139,32
+
+VENCIMENTOS R$ 16.271,51
+
+VENCIMENTOS “R$ 8.371,03
+
+R$ 15.039,33
+
++
+
+99.1 aa OBRIGAÇÕES
+
+o R$ 9.554,34 PREFEITURA MUNIÇIPAL DE CANÁPOLIS MG
+
+Praça 19 de Março, 304 Centro | CEP 38380 000 Fone 34 3266 3500 | Fax 34 3266 3501
+
+“NOSSA EM go RE = FORCA EO RS : . o TRABALHO Fe E e
+
+-10.301.0D10.220101 | OBRIGAÇÕES
+
+R$ E969,07
+
+DESPESAS VARIÁVEIS R$ 6.025,00
+
+DESPESAS VARIÁ VEIS R$ 224, 28
+
+| VENCIMÊNTOS R$ 19.804, 07.
+
+VENCIMEN TOS CR$ 75, 859, 1
+
+VÊNCIMEN TOS R$ 4 963,96
+
+bisteiads VARIÁVEIS “R$ 2.114,39
+
+“DESPESAS VARIÁVEIS “R$ 6.646,43
+
+\*
+
+“ DESPESAS VARIÁVEIS R$ 967,88
+
+PREFEITURA MUNICIPAL DE CANÁPOLIS MG Praça 19 de Março. 304 Centro | CEP 38380 000 Fone 34 3266 3500 |! Fax 34 3266 3501
+
+FORÇA E 0 RR | o TRABALHO É fee im
+
+R$ 4.575,95
+
+R$ 431.005,24
+
+DIREÇÃO . POLÍTICA “R$ 10.705,33
+
+VENCIMENTOS R$ 2.684,93
+
+“R$ 1.988,79
+
+DESPESAS VARIÁVEIS R$ 1.265,77
+
+VENCIMENTOS R$ 10:000,00
+
+SUBSÍDIO
+
+R$ 9.588,80
+
+AUXILIO DOENÇA
+
+R$ 2.345,15 o “PREFEITURA MUNIGIPAL DE CANÁPOLIS MG
+
+“Praça 19 de Março, 304 Centro | CEP 38380 000 Fone 34 3266 3500 | fax 34 2266 3501
+
+0005.2.0007 | SALÁRIO. R$ 2.683,65
+
+— R$ 103.602,36 OBRIGAÇÕES ' R$ 46.650,59
+
+— VENCIMENTOS R$ 224,28
+
+CR$ [7.149,01 “R$201,02 “OBRIGAÇÕES E R$ “11.523,41
+
+“R$ 5.500,00 R$ 525,00
+
+3.1.90:: LJO, E 0010.2.0105 — DESPESAS VARIÁVEIS 0s 06 vc LÂNCIA ERIDEMIOLÓGICA “R$ 2.100,00
+
+PREFEITURA MUNIÇIPAL DE CANÁPOLIS MG
+
+“ Praça 19 de Março. 304 Centro | CEP 38380 000 Fone 34 3268 3500 | Fax 34 3266 3501
+
+é FORÇA E O RR Es ui TRABALHO Rã e =
+
+DESPESAS VARIÁVEIS R$ 4.200,00
+
+:01-10.301.0010.2.0099 MATERIAIS DE
+
+a O BÁSICA, R$ 10. 000,00
+
+Fono ê 0. OL-IO. 301. oo n2. 0100 MATERIAIS DE
+
+R$ 15.000,00 .
+
+COMBUSTÍVEL R$ 9.000,00.
+
+OUTROS | SERVIÇOS “R$ 15.000,00 3.3, 9a 39:01-10. 122. 0010. 2011 | OUTROS, SERVIÇOS
+
+R$ 2.100,00
+
+22. 010.2, 0112 OUTROS -,. SERVIÇOS
+
+“R$ 2.100,00 R$ 525,00
+
+OUTROS SERVIÇOS 005:004- PROGRAMA SAÚDE BUCAL “R$ 5.000,00
+
+PREFEITURA MUNICIPAL DE CANÁPOLIS MG
+
+Praça 19 de Março. 304 Centro | CEP 38380 000 Fone 34 3286 3500 | Fax 34 3266 350!
+
+SUBSÍDIO DE
+
+R$ 19.804,07
+
+VENCIMENTOS R$ 35. -000, 00
+
+VENCIMEN TÓS “RS 5. 000, 00.
+
+SUBSÍDIO DE R$ 15.000,00)
+
+VENCIMENTOS. | “R$ 4 575,95
+
+VENCIMENTOS “R$ 23410,36
+
+eis R$ 36.551,77
+
+Pre e to Municipal
+
+Fone
+
+“PREFEITURA MUNICIPAL DE CANÁPOLIS MG
+
+Praça 19 de Março. 304 Centro | CEP 38380 000 34 3206 3500 | Fax 34 3266 3501
+
+4R$ 431.005,24

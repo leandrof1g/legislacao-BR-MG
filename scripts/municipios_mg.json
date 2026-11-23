@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22",
+ "atualizado_em": "2026-11-23",
  "municipios": {
   "3100906": {
    "carga_completa": true,
@@ -22,7 +22,7 @@
   "3101607": {
    "carga_completa": true,
    "nome": "Alfenas",
-   "normas_na_fonte": 578,
+   "normas_na_fonte": 580,
    "pasta": "alfenas",
    "populacao": 78970,
    "sapl": "sapl.alfenas.mg.leg.br",
@@ -92,12 +92,21 @@
    "sapl_manual": false
   },
   "3104502": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Arinos",
    "normas_na_fonte": 5341,
    "pasta": "arinos",
    "populacao": 17272,
    "sapl": "sapl.arinos.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3104601": {
+   "carga_completa": false,
+   "nome": "Astolfo Dutra",
+   "normas_na_fonte": null,
+   "pasta": "astolfo-dutra",
+   "populacao": 14138,
+   "sapl": null,
    "sapl_manual": false
   },
   "3105400": {
@@ -244,6 +253,15 @@
    "sapl": "sapl.campobelo.mg.leg.br",
    "sapl_manual": false
   },
+  "3111507": {
+   "carga_completa": false,
+   "nome": "Campos Altos",
+   "normas_na_fonte": 3318,
+   "pasta": "campos-altos",
+   "populacao": 12979,
+   "sapl": "sapl.camposaltos.mg.leg.br",
+   "sapl_manual": false
+  },
   "3111804": {
    "carga_completa": false,
    "nome": "Canápolis",
@@ -268,6 +286,15 @@
    "normas_na_fonte": null,
    "pasta": "capelinha",
    "populacao": 39626,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3113206": {
+   "carga_completa": false,
+   "nome": "Carandaí",
+   "normas_na_fonte": null,
+   "pasta": "carandai",
+   "populacao": 23812,
    "sapl": null,
    "sapl_manual": false
   },
@@ -350,6 +377,15 @@
    "pasta": "conselheiro-lafaiete",
    "populacao": 131621,
    "sapl": "sapl.conselheirolafaiete.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3118403": {
+   "carga_completa": false,
+   "nome": "Conselheiro Pena",
+   "normas_na_fonte": null,
+   "pasta": "conselheiro-pena",
+   "populacao": 20824,
+   "sapl": null,
    "sapl_manual": false
   },
   "3118601": {
@@ -487,6 +523,15 @@
    "sapl": "sapl.formoso.mg.leg.br",
    "sapl_manual": false
   },
+  "3126703": {
+   "carga_completa": false,
+   "nome": "Francisco Sá",
+   "normas_na_fonte": null,
+   "pasta": "francisco-sa",
+   "populacao": 23476,
+   "sapl": null,
+   "sapl_manual": false
+  },
   "3127107": {
    "carga_completa": true,
    "nome": "Frutal",
@@ -550,6 +595,15 @@
    "sapl": null,
    "sapl_manual": false
   },
+  "3131208": {
+   "carga_completa": true,
+   "nome": "Ipanema",
+   "normas_na_fonte": 0,
+   "pasta": "ipanema",
+   "populacao": 19522,
+   "sapl": "sapl.ipanema.mg.leg.br",
+   "sapl_manual": false
+  },
   "3131307": {
    "carga_completa": false,
    "nome": "Ipatinga",
@@ -595,8 +649,17 @@
    "sapl": "sapl.itamarandiba.mg.leg.br",
    "sapl_manual": false
   },
-  "3133600": {
+  "3133303": {
    "carga_completa": false,
+   "nome": "Itaobim",
+   "normas_na_fonte": null,
+   "pasta": "itaobim",
+   "populacao": 19151,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3133600": {
+   "carga_completa": true,
    "nome": "Itapeva",
    "normas_na_fonte": 1418,
    "pasta": "itapeva",
@@ -616,7 +679,7 @@
   "3133808": {
    "carga_completa": true,
    "nome": "Itaúna",
-   "normas_na_fonte": 7244,
+   "normas_na_fonte": 7245,
    "pasta": "itauna",
    "populacao": 97669,
    "sapl": "sapl.itauna.mg.leg.br",
@@ -694,6 +757,15 @@
    "sapl": "sapl.joaopinheiro.mg.leg.br",
    "sapl_manual": false
   },
+  "3136603": {
+   "carga_completa": false,
+   "nome": "Nova União",
+   "normas_na_fonte": null,
+   "pasta": "nova-uniao",
+   "populacao": 5909,
+   "sapl": null,
+   "sapl_manual": false
+  },
   "3136652": {
    "carga_completa": false,
    "nome": "Juatuba",
@@ -751,7 +823,7 @@
   "3138625": {
    "carga_completa": false,
    "nome": "Limeira do Oeste",
-   "normas_na_fonte": 2868,
+   "normas_na_fonte": 2869,
    "pasta": "limeira-do-oeste",
    "populacao": 8687,
    "sapl": "sapl.limeiradooeste.mg.leg.br",
@@ -808,6 +880,15 @@
    "normas_na_fonte": null,
    "pasta": "mateus-leme",
    "populacao": 37841,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3141009": {
+   "carga_completa": false,
+   "nome": "Mato Verde",
+   "normas_na_fonte": null,
+   "pasta": "mato-verde",
+   "populacao": 12038,
    "sapl": null,
    "sapl_manual": false
   },
@@ -955,6 +1036,15 @@
    "sapl": "sapl.parademinas.mg.leg.br",
    "sapl_manual": false
   },
+  "3147303": {
+   "carga_completa": false,
+   "nome": "Paraisópolis",
+   "normas_na_fonte": null,
+   "pasta": "paraisopolis",
+   "populacao": 20445,
+   "sapl": null,
+   "sapl_manual": false
+  },
   "3147907": {
    "carga_completa": false,
    "nome": "Passos",
@@ -983,7 +1073,7 @@
    "sapl_manual": false
   },
   "3149101": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Pedralva",
    "normas_na_fonte": 1585,
    "pasta": "pedralva",
@@ -992,7 +1082,7 @@
    "sapl_manual": false
   },
   "3149150": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Pedras de Maria da Cruz",
    "normas_na_fonte": 171,
    "pasta": "pedras-de-maria-da-cruz",
@@ -1039,7 +1129,7 @@
   "3151503": {
    "carga_completa": true,
    "nome": "Piumhi",
-   "normas_na_fonte": 4740,
+   "normas_na_fonte": 4741,
    "pasta": "piumhi",
    "populacao": 36062,
    "sapl": "sapl.piumhi.mg.leg.br",
@@ -1090,6 +1180,15 @@
    "sapl": null,
    "sapl_manual": false
   },
+  "3154309": {
+   "carga_completa": true,
+   "nome": "Resplendor",
+   "normas_na_fonte": 0,
+   "pasta": "resplendor",
+   "populacao": 17226,
+   "sapl": "sapl.resplendor.mg.leg.br",
+   "sapl_manual": false
+  },
   "3154606": {
    "carga_completa": false,
    "nome": "Ribeirão das Neves",
@@ -1124,6 +1223,15 @@
    "pasta": "sabara",
    "populacao": 129380,
    "sapl": "sapl.sabara.mg.leg.br",
+   "sapl_manual": false
+  },
+  "3156908": {
+   "carga_completa": false,
+   "nome": "Sacramento",
+   "normas_na_fonte": null,
+   "pasta": "sacramento",
+   "populacao": 26670,
+   "sapl": null,
    "sapl_manual": false
   },
   "3157005": {
@@ -1198,6 +1306,15 @@
    "sapl": "sapl.saofrancisco.mg.leg.br",
    "sapl_manual": false
   },
+  "3161908": {
+   "carga_completa": false,
+   "nome": "São Gonçalo do Rio Abaixo",
+   "normas_na_fonte": null,
+   "pasta": "sao-goncalo-do-rio-abaixo",
+   "populacao": 11850,
+   "sapl": null,
+   "sapl_manual": false
+  },
   "3162104": {
    "carga_completa": true,
    "nome": "São Gotardo",
@@ -1213,6 +1330,15 @@
    "normas_na_fonte": null,
    "pasta": "sao-joao-del-rei",
    "populacao": 90225,
+   "sapl": null,
+   "sapl_manual": false
+  },
+  "3162807": {
+   "carga_completa": false,
+   "nome": "São João Evangelista",
+   "normas_na_fonte": null,
+   "pasta": "sao-joao-evangelista",
+   "populacao": 15315,
    "sapl": null,
    "sapl_manual": false
   },
@@ -1300,7 +1426,7 @@
   "3168101": {
    "carga_completa": false,
    "nome": "Tapira",
-   "normas_na_fonte": 176,
+   "normas_na_fonte": 178,
    "pasta": "tapira",
    "populacao": 4118,
    "sapl": "sapl.tapira.mg.leg.br",
@@ -1351,6 +1477,15 @@
    "sapl": "sapl.trescoracoes.mg.leg.br",
    "sapl_manual": false
   },
+  "3169356": {
+   "carga_completa": false,
+   "nome": "Três Marias",
+   "normas_na_fonte": null,
+   "pasta": "tres-marias",
+   "populacao": 28895,
+   "sapl": null,
+   "sapl_manual": false
+  },
   "3169406": {
    "carga_completa": false,
    "nome": "Três Pontas",
@@ -1360,10 +1495,19 @@
    "sapl": null,
    "sapl_manual": false
   },
+  "3169604": {
+   "carga_completa": false,
+   "nome": "Tupaciguara",
+   "normas_na_fonte": null,
+   "pasta": "tupaciguara",
+   "populacao": 25470,
+   "sapl": null,
+   "sapl_manual": false
+  },
   "3169901": {
    "carga_completa": true,
    "nome": "Ubá",
-   "normas_na_fonte": 5844,
+   "normas_na_fonte": 5847,
    "pasta": "uba",
    "populacao": 103365,
    "sapl": "sapl.uba.mg.leg.br",
@@ -1423,6 +1567,15 @@
    "sapl": null,
    "sapl_manual": false
   },
+  "3171006": {
+   "carga_completa": false,
+   "nome": "Vazante",
+   "normas_na_fonte": null,
+   "pasta": "vazante",
+   "populacao": 19975,
+   "sapl": null,
+   "sapl_manual": false
+  },
   "3171204": {
    "carga_completa": false,
    "nome": "Vespasiano",
@@ -1444,7 +1597,7 @@
   "3172004": {
    "carga_completa": true,
    "nome": "Visconde do Rio Branco",
-   "normas_na_fonte": 1510,
+   "normas_na_fonte": 1511,
    "pasta": "visconde-do-rio-branco",
    "populacao": 39160,
    "sapl": "sapl.viscondedoriobranco.mg.leg.br",

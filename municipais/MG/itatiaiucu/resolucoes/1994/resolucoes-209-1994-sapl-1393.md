@@ -1,0 +1,52 @@
+---
+titulo: "Resolução nº 209, de 23/02/1994"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "209"
+data: "1994-02-23"
+ementa: "Concede Título de Cidadão Honorário."
+municipio: "Itatiaiuçu"
+uf: "MG"
+codigo_ibge: "3133709"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.itatiaiucu.mg.leg.br/norma/1393"
+fonte_texto: "https://sapl.itatiaiucu.mg.leg.br/media/sapl/public/normajuridica/1994/1393/resolucao_209.pdf"
+sha256_fonte: "615e3128689cff1d13c4c841ec1534f3e3105a784fcede4bfcecaf73cd78f398"
+baixado_em: "2026-11-23"
+---
+
+# Resolução nº 209, de 23/02/1994
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE ITATIAIUÇU
+
+PRAÇA ANTÔNIO QUIRINO DA SILVA, 404 CEP 35685-000 — ITATIAIUÇU — MG
+
+RESOLUÇÃO Nº 209/94, DE 23/02/94
+
+Concede Título de Cidadão Honorário.
+
+A Câmara Municipal de Itatiaiuçus Estado de Minas Gerais, com
+
+base no inciso XXII do artigo 41 da Lei Orgânica Municipal, decreta e
+
+promulga a seguinte
+
+RESOLUÇÃO:
+
+**Art. 1º** - Fica concedido o Título de Cidadão Honorário de Ita tiaiuçu ao Sr. José Mendes Nogueira, pelos relevantes serviços presta
+
+dos ao Município no setor de mineração .
+
+**Art. 2º** - Revogadas as disposições em contrário, esta Resolu- ção entrará em vigor na data de sua publicação. SALA DAS SESSÕES DA CÂMARA MUNICIPAL DE ITATIAIUÇU, EM 23 DE FEVEREIRO
+
+DE 1994.
+
+oiro Nisso EMA SAS EMA VLA : ANDRÉ MAGNO CHAVES PRESIDENTE DA CÂMARA
+
+Sumo Maut” tlaulirane Mina
+
+GEOVANE CLARET ANTUNES CHAVES VICE-PRESIDENTE
+
+A Za LCA ROBEZE CUSTÓDIO DOS ANJOS SECRETÁRIO

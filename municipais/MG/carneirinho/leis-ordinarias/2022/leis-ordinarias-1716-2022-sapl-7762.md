@@ -1,0 +1,62 @@
+---
+titulo: "Lei Ordinária nº 1716, de 05/09/2022"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "1716"
+data: "2022-09-05"
+ementa: "Dispõe sobre autorização para abertura de crédito adicional suplementar e dá outras providências."
+municipio: "Carneirinho"
+uf: "MG"
+codigo_ibge: "3114550"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.carneirinho.mg.leg.br/norma/7762"
+fonte_texto: "https://sapl.carneirinho.mg.leg.br/media/sapl/public/normajuridica/2022/7762/lei_1_716_22_20221027_142005.pdf"
+sha256_fonte: "3a272dbdf1f49ea6be2aa37320cba665e7d766f88173176c48331a2f5c7bc8da"
+baixado_em: "2026-11-23"
+---
+
+# Lei Ordinária nº 1716, de 05/09/2022
+
+CNID1 26.042.515/0001-48
+
+LEI N°1.716, DE 05 DE SETEMBRO DE 2022
+
+Dispõe sobre autorização para abertura de crédito adicional suplementar e di outras providências.
+
+Willian Martins Maia, Prefeito Municipal de Carneirinho, Estado de Minas Gerais, no uso de suas atribuições legais, em especial nos termos da Lei Orgânica Municipal, faz saber que a Camara Municipal, por seus representantes aprovou e ele sanciona a seguinte Lei:
+
+**Art. 10** - Fica autorizado o Departamento de Contabilidade deste Município a abrir crédito adicional suplementar no orçamento da despesa do exercício financeiro de 2022, em conformidade com os artigos 41, 42 e 43 da Lei Federal 4.320/64, na importância de R$166.620,00 (cento e sessenta e seis mil, seiscentos e vinte reais), destinados a aquisição de material de consumo para a secretaria, com a seguinte dotação orçamentária:
+
+02 PODER EXECUTIVO 02.06 — Fundo Municipal de Educação 02.06.02 — Manutenção das Ações do Ensino 02.06.02.12 —Educação 02.06.02.12.361 —Ensino Fundamental 02.06.02.12.361.0006 — Educação de Qualidade a Todos 02.06.02.12.361.0006.2027 — Manutenção do Ensino Fundamental 3.3.90.30.00 —Material de Consumo F:123/FR:101 — Rec.de Impostos e Transf.de Imp.V inc. a Educação R$ 50.000,00 3.3.90.39.00 — Outros Serviços de Terceiros — Pessoa Jut-Mica F:126/FR:101 — Rec.de Impostos e Transf. de Imp.Vinc.a. Educação R$100.000,00
+
+3.3.90.39.00 — Outros Serviços de Terceiros —Pessoa Jurídica F:135/FR:101 — Rec.de Impostos e Transfde Imp.Vinc. a Educação R$ 15.000,00
+
+02.09.02 —Ações em Assistência Social e Habitação 02.09.02.08 — Assistência Social 02.09.02.08.244 — Assistência Comunitária 02.09.02.08.244.0016 — Promoção Humana e Assistência Social 02.09.02.08.244.0016.2049 — Manutenção das Atividades do CRAS-PAIF 3.3.90.36.00 — Outros Serviços de Terceiros — Pessoa Física F:292/FR:100 —Recursos não vinculados de Impostos R$ 1.620,00
+
+**Art. 20** - Seth utilizado, como recurso financeiro para o referido crédito adicional especial a anulação parcial das seguintes dotações orçamentarias:
+
+02 PODER EXECUTIVO 02.06 — Fundo Municipal de Educação 02.06.02 — Manutenção das Ações do Ensino 02.06.02.12 —Educação 02.06.02.12.306 — Alimentação e Nutrição
+
+Av. Ambraulino Leandro Barbosa, 284, Centro — Carneirinho — MG — CEP: 3829 Site: www.carneirinho.mg.gov.br - Fone / Fax: (34)3454-0200 / 3454-0218
+
+CNP1 26.042.515/0001-48
+
+02.06.02.12.306.0008 — Alimentar para Aprender-Merenda Escolar 02.06.02.12.306.0008.2030 — Manutenção da Merenda Escolar-Ensino Fundamental 3.1.90.11.00 — Vencimentos e Vantagens Fixas —Pessoal Civil F:114/FR:100 —Recursos não vinculados de Impostos R$ 33.000,00 3.1.90.13.00 — Obrigações Patronais F:115/FR:100 —Recursos não vinculados de Impostos R$ 10.000,00
+
+02.06.02.12.361 — Ensino Fundamental
+
+3.1.90.04.00 — Contratação por Tempo Determinado F:128/FR:101 —Rec.de Impostos e Transf. de Imp.Vinc. à Educação R$ 20.000,00 3.1.90.11.00 — Vencimentos e Vantagens Fixas — Pessoal Civil F:129/FR:101 —Rec.de Impostos e Transfde Imp.Vinc. à Educação R$ 30.000,00 3.1.90.13.00 — Obrigações Patronais F:130/FR:101 —Rec.de Impostos e Trans!'. de Imp.Vinc. a Educação R$ 14.000,00
+
+02.06.02.12.365 — Educação Infantil 02.06.02.12.365.0006 — Educação de Qualidade a Todos 02.06.02.12.365.0006.2026 — Manutenção do Ensino Infantil — Pré-Escola 3.1.90.04.00 — Contratação por Tempo Determinado F:150/FR:101 — Rec.de Impostos e Transf.de Imp.Vinc. A. Educação R$ 58.000,00
+
+02.09.01 — Secretaria de Assistência Social 02.09.01.04 — Administração 02.09.01.04.122 — Administração Geral 02.09.01.04.122.0002 — Gestão Administrativa 02.09.01.04.122.0002.2012 — Manutenção da Secretaria de Assistência Social 3.3.90.14.00 — Diárias — Pessoal Civil F:260/FR:100 — Recursos não vinculados de Impostos R$ 1.620,00
+
+**Art. 30** - Esta Lei entra em v or na data de sua publicação, revogando as disposições em contrário.
+
+pal de Carneirinho, 05 de setembro de 2022.
+
+Registrado no livro próprio, publicado por afixação no local de costume nesta Prefeitura, na data supra.
+
+Neide Ferreira de Souza Assessora de Gabinete II
+
+Av. Ambraulino Leandro Barbosa, 284, Centro — Carneirinho — MG — CEP: 38290-000 Site: www.carneirinho.mq.gov.br - Fone / Fax: (34)3454-0200 / 3454-0218

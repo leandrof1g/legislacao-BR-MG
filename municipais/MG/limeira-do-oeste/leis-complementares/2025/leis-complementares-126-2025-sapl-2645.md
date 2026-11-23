@@ -1,0 +1,158 @@
+---
+titulo: "Lei Complementar nº 126, de 18/02/2025"
+tipo: "Lei Complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "126"
+data: "2025-02-18"
+ementa: "CONCEDE REVISÃO GERAL ANUAL E REAJUSTE NOS VENCIMENTOS DOS SERVIDORES PÚBLICOS MUNICIPAIS, INCLUSIVE OS CONTRATADOS POR TEMPO DETERMINADO, APOSENTADOS, PENSIONISTAS, AOS DE CARGOS COMISSIONADOS E DÁ OUTRAS PROVIDÊNCIAS."
+municipio: "Limeira do Oeste"
+uf: "MG"
+codigo_ibge: "3138625"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.limeiradooeste.mg.leg.br/norma/2645"
+fonte_texto: "https://sapl.limeiradooeste.mg.leg.br/media/sapl/public/normajuridica/2025/2645/126-2025-revisaoserv_exec_2025.pdf"
+sha256_fonte: "0f63af1ea71059e56d6c6981011d01a0793641c2edd77bf7c32d913db90c98e3"
+baixado_em: "2026-11-23"
+---
+
+# Lei Complementar nº 126, de 18/02/2025
+
+et ) ayA PREFEITURA
+
+V=2y LIMEIRA avançando A €
+
+DO OESTE com trabatho! a Gestão 2025-2028
+
+LEI COMPLEMENTAR Nº 126 DE 18 DE FEVEREIRO DE 2025.
+
+CONCEDE REVISÃO GERAL ANUAL E REAJUSTE NOS VENCIMENTOS DOS SERVIDORES PÚBLICOS MUNICIPAIS ATIVOS, INCLUSIVE OS CONTRATADOS | POR TEMPO DETERMINADO, APOSENTADOS, PENSIONISTAS, AOS DE CARGOS COMISSIONADOS E DÁ OUTRAS PROVIDÊNCIAS.
+
+LEANDRO DE SOUZA CARVALHO, Prefeito Municipal de Limeira do Oeste, Estado de Minas Gerais, no uso de suas atribuições legais, especialmente nos
+
+termos da Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e ele sancionou a seguinte Lei Complementar:
+
+**Art. 1º** Fica nos termos da presente Lei, concedida a revisão geral anual e o reajuste dos vencimentos dos servidores públicos municipais ativos, inclusive os
+
+contratados por tempo determinado, aposentados, pensionistas e aos de cargos comissionados, no percentual de 7,51 (sete vírgula cinquenta e um por cento), sendo que deste percentual 4,83% (quatro vírgula oitenta e três por cento) corresponde ao
+
+indice oficial do IPCAABGE. referente à variação inflacionária, apurada pelo IPCAABGE acumulado durante o ano de 2024 , a título de revisão e 2,68% (dois vírgula
+
+sessenta e oito por cento) do referido percentual é concedido a titulo de reajuste.
+
+Art. 2ºPara efeitos desta Lei, entende-se por vencimento a retribuição básica fixada em Lei, excluídas as vantagens pecuniárias porventura existentes.
+
+**Art. 3º** Não serão contemplados pela revisão e reajuste propostos nesta Lei os professores do quadro do magistério público municipal, os quais têm sua revisão anual
+
+com base no Indice Divulgado pelo Governo Federal, e os Agentes Comunitários de
+
+Rua Pernambuco, nº 780 Centro CEP 38.295-000
+
+Contatos: (34) 3453-1700 / (34) 3455-1732 Página 1 de 7
+
+!
+
+| PREFEITURA
+
+| LIMEIRA Avan çando DO OESTEcom trabalho! Cestão 2025-2028
+
+Saúde (45), bem como os Agentes de Combate às Endemias (4C'L), os quais têm sua
+
+revisão anual conforme preceitua a Emenda Constitucional nº 120 de 05 de maio de 2022.
+
+**Art. 4º** As despesas com a presente Lei correrão por conta de dotações próprias do orçamento vigente, ficando o Chefe do Poder Executivo autorizado a suplementá-las se necessário for.
+
+**Art. 5º** Revogadas as disposições em contrário, esta Lei Complementar entra em vigor na data de sua publicação, retroagindo seus efeitos a partir de 1º de janeiro de
+
+2025.
+
+Prefeitura Municipal de Limeira do Oeste/MG, 18 de fevereiro de 2025.
+
+Assinado de forma digital LEANDRO DE SOUZA por LEANDRO DE SOUZA CARVALHO:0810474 CARVALHO08104746626 6626 Dados: 2025.02.18 11:29:54 -0300'
+
+LEANDRO DE SOUZA CARVALHO Prefeito Municipal
+
+CNPI26.042.556/0001-34 Rua Pernambuco, nº 780 Centro CEP 38.295-000
+
+Contatos: (34) 3455-1700 / (34) 3453-1752 Página 2 de 7
+
+ANEXO I - o
+
+CARGOS DE PROVIMENT O EFETIVO 2025 NÍVEL/GRAU 0 1 2 3 4 5 6 7 8
+
+| R$ 1.586,36 | R$ 1.665,68 | R$1.748,97 | R$ 1.836,41 | R$ 1.928,24 | R$2.024,65 R$2.125.88 H R$ 1.586,36 | R$ 1.665,68| R$ 1.748,97 R$ 1.836,41 | R$ 1.928,24 | R$2.024,65 | R$2.125,88 R$ 1.586,36 | R$ 1.665,68 R$ 1.748,97 | R$ 1.836,41 R$ 1.928,24 | R$2.024,65 R$ 2.125,88 |
+
+R$ 1.706,71 R$ 1.792,05 | R$ 1.881,65 R$ 1.975,73 | R$2.074,52 | R$2.178,24 | R$2.287,16 R$ 1.732,32 R$ 1.818,94 | R$ 1.909,88| R$ 2.005,38 | R$2.105,65 R$2.210,93 | R$2.321,47 o R$ 1.743,39, = R$ 1.8330,56. R$ 1.922,09.| R$201820 |.R$2.119.10 R$2225.06 R$2.33631 Ê | |
+
+R$ 183650 | R$1. 928.32. R$2.02474 | R$2.125,97 | R$2.23227 | R$2343,89 | R$2.461,08 | R$2.584,14
+
+R$201620 | R$211701 | R$ 2.222,66 R$ 2.334,00pt 238 | R$25 R$ 2.450,70 | R$ 2.573,24 | R$ 2.701,90 | R$ 2.837,00 R$ 2.664,06 | R$ | R$ 13| R$3.083,98 R$ 2.087,36 | R$2 91,73 R$? 301,3 | | 2.797,26 2.937,
+
+R$2.160,47 R$226849 R$23 8107 “501.01 R$2.626,06 R$2.757,36 R$ 289523 R$ 3.039,99 | R$3.191,99 | R$272887 | R$2.8652 | | | | |
+
+R$2.59893 008.58 | R$3.159,01 | R$3.316.96 | R$ 3.482,81 R$3,656,95 | R$3.839,80 | R$3.486,00 | R$3.66030 | R$3.843,32 /R$4035,48 | R$4.237,26 |R$4449,12 R$ 4.671,57 | R$ 4.905,15 R$5.150,41 |
+
+R$567537 R$5.959,14 R$625709 R$6.569.95 | R$ 6.898,44 R$ 7.243,37 R$ 7.605,53 R$ 7.985,81 R$8.385,10. | | | | | | | | |
+
+R$ 32,85 R$ 34,49 R$ 36,22 R$38,03 R$39,93 R$ 41,93 R$44,02 R$46,22 R$ 48,53 R$3.036,00 | R$3.187,80 | R$3.347,19| R$ 3.514,55 | R$ 3.690,28 | R$ 3.874,79 R$ 4.068,53 | R$ 4.271,96 | R$ 4.485,55| | | mm mm O —— nene O n nm E a
+
+R$2748,33 R$2885,75 R$3.030,03 R$3.181,54 | R$ 3.340,61 | R$ 3.507,64 R$ 3.683,03 | R$ 3.867,18 R$ 4.060,54| | | | |
+
+R$ 3.690,97 | R$3875,52 R$4.069,29 | R$ 4.272,76 | R$ 4.486,40 | R$4.710,72 | R$ 4.946,25 | R$ 5.193,57 | R$5.453,24
+
+XVHI XIX | R$ 6. 263,36 R$S. 129,93 | R$ 6.576,53 R$5386/42 || R$5.655,74 || R$5 938.53 [R$ R$ 6.905,36 | R$ 7.250,62 | 6.235,46 R$ | R$ 7.613,15 | R$ 7.993 81 6.547,23 R$ 8.393,50 | R$ 8.813,18 | R$ 9.253,84 | R$ 6, 874,59| R$ 7.218,32 R$ 7.579,24 | Obs: 1-A percentagem de grau será de 5% (cinco por cento)” - O tempo para a realização da progressão degrau será de 04 (quatro) anos.|
+
+CNPJ 26.042.556/0001-3 Rua Pernambuco, nº 780 Centro CEP 38295-000
+
+Contatos: (34) 3453-1700 / (34) 3453-1732
+
+sera cTA ma
+
+LIMEIRA Avançando DO OESTE comtradatho! Certa OS -SDI8
+
+3. Magistério: Níveis XIV, XVle XVII 4. ACS e ACE: Nivel XV
+
+ANEXO H CARGOS DE PROVIMENTO EM COMISSÃO
+
+Nº DE DENOMINAÇÃO SIMBOLO DE VALOR R$ VAGAS VENCIMENTOS PROCURADOR JURÍDICO | SC-01 R$ 5.705,13 ASSESSOR JURÍDICO SC-0] RS 5.705,13 CONTROLADOR o = — SCOI R$ 5.705,13 14 SECRETÁRIOS MUNICIPAIS SC-01 R$ 5.513,00 2 DIRETOR ESCOLAR SC-02 R$ 3.684,94 | COORDENADOR DE ESCOLA EM TEMPO INTEGRAL SC-03 R$ 3.759,32 2 COORDENADOR DE ESCOLA RURAL E EDUCAÇÃO INFANTIL SC-03 RS 375932 | COORDENADOR DE LABORATÓRIO DE ANÁLISES CLÍNICAS o SC-03 R$ 3.759,32 COORDENADOR DE FROTA MUNICIPAL SC-03 RS 375932 I COORDENADOR DE RECURSOS HUMANOS SC-03 R$ 3.759,32 COORDENADOR DE OBRAS E SERVIÇOS SC-03 R$ 375932 COORDENADOR DE PROGRAMAS EDUCACIONAIS E PROJETOS SC-03 R$ 375932 INTEGRADORES DE TEMPO INTEGRAL COORDENADOR DE OFICINA MECÂNICA SC-03 R$ 3.759,32 COORDENADOR DE SERVIÇOS DE SAÚDE PÚBLICA SC-03 R$ 375932 | COORDENADOR DE SERVIÇOS DE ASSISTÊNCIA SOCIAL EM EDUCAÇÃO “SC0
+
+Rua Pernambuco, nº 780 Centro CEP 38295-000 - - Página 4 de 7 Contatos: (34) 3453-1700 / (34) 3453-1732
+
+LIMEIRA «onçanco STE com trabalho! MIS Caetea 3528
+
+COORDENADOR DE SERVIÇOS DE CONTABILIDADE SC-03 3.759,32 COORDENADOR DE SERVIÇOS DE SISTEMA DE INFORMÁTICA SC-03 3.759,32 COORDENADOR DE SERVIÇOS DE REGULAÇÃO PP] - SC-03 3.759,32 COORDENADOR DE SERVIÇOS DA POLÍCIA CIVIL SC-03 3.759,32 COORDENADOR DE QUALIFICAÇÃO, CERTIFICAÇÃO E PRODUÇÃO SC-03 3.759,32 ASSOCIADA AO TURISMO COORDENADOR DE QUALIFICAÇÃO, CERTIFICAÇÃO E PRODUÇÃO SC-03 3.759,32 ASSOCIADA A PROTEÇÃO E PRESERVAÇÃO DO PATRIMÔNIO CULTURAL SC-05 COORDENADOR DE QUALI FICAÇÃO, CERTIFICAÇÃO E PRODUÇÃO ASSOCIADA A PROTEÇÃO E PRESERVAÇÃO DO PATRIMÓNIO CULTURAL COORDENADOR DA CLÍNICA MUNICIPAL “SAÚDE ANIMAL” SC-03 “3.759,32 el | me | pm COORDENADOR DE PROJETOS SOCIAIS SC-03 3.759,32
+
+À COORDENADOR DE VIGILÂNCIA AMBIENTAL SC-03 3.759,32 COORDENADOR DE VIGILÂNCIA EM SAUDE SC-03 3.759,32 mst | ques COORDENADOR DE SETOR DE TECNOLOGIA DA INFORMAÇÃO SC-03 3.759,32
+
+| as | quem | mt | ema | COORDENADOR EM SERVIÇOS DE COMUNICAÇÃO SC-03 3.759,32 COORDENADOR EM SERVIÇOS DE FARMÁCIA SC-03 3.759,32 COORDENADOR EM SERVIÇOS DE FISIOTERAPIA SC-03 3.759,32 COORDENADOR EM SERVIÇOS DE LICITAÇÃO SC-03 3.759,32 o
+
+COORDENADOR EM SERVIÇOS DE LIMPEZA URBANA SC-05 3.759,32 | quemi COORDENADOR EM TRANSPORTE ESCOLAR SC-03 3.759,32
+
+| mma | qui | que COORDENADOR DOS SERVIÇOS SOCIAIS EM SAUDE SC-03 3.759,32 COORDENADOR DOS SERVIÇOS DE SAUDE PUBLICA 3.759,32 COORDENADOR DA UNIDADE DE ATENDIMENTO IMEDIATO 3.759,32
+
+CNPJ 26.042. 556/0001-34 Rua Pernambuco, nº 780 Centro CEP 38 295-000
+
+Contatos: (34) 3453-1700 /(34) 3453-1732
+
+rag ra:taw A
+
+ÂÃ Avançando O OESTE Cavtês comtrabatho! -JES SOS
+
+SC-03 pá & COORDENADOR DO PROGRAMA DA SAÚDE DA FAMÍLIA 3.759,32 pá [Ec] COORDENADOR DA VIGILÂNCIA EPIDEMIOLÓGICA SC-03 3.759,32 COORDENADOR DA UNIDADE BÁSICA DE SAUDE SC-03 [0.4 ss 3.759,32 SC-03 [ad & 3.759,32 COORDENADOR DOS SERVIÇOS MÉDICOS E DE ENFERMAGEM SC-03 pá sa 3.759,32 COORDENADOR DOS SERVIÇOS DE TRANSPORTE DE PACIENTES SC-05 [ad & 3.759,32 COORDENADOR DO CENTRO DE REFERÊNCIA EM ASSISTÊNCIA SOCIAL 5º VICE- DIRETOR ESCOLAR SC-03 pá 3.759,32 DIRETOR DE PROMOÇÃO SOCIAL SC-04 RS 2.967,11 [ad m DIRETOR DE VIGILÂNCIA SANITÁRIA SC-04 2.967,11 pá (90) DIRETOR DE VIGILÂNCIA AMBIENTAL SC-04 2.967,11 DIRETORES DE DEPARTAMENTOS SC-04 RS 2.967,11 [ad [oo] DIRETOR DE DEPARTAMENTO DE CONTROLE DA DISTRIBUIÇÃO DE — SCO4 2.967,11 MATERIAIS E EQUIPAMENTOS SC-04 ja é (96) DIRETOR DE DEPARTAMENTO DE FINANÇAS E ORÇAMENTO 2.967,11 m DIRETOR DE DEPARTAMENTO ADMINISTRATIVO E FINANCEIRO SC-04 pá 2.967,11
+
+[4 ja: SC-04 £8) DIRETOR DE DEPARTAMENTO DE PROGRAMAS SOCIAIS 2.967,11 SC-04 (9) DIRETOR DE DEPARTAMENTO DE INFRAESTRUTURA 2.967,11 SC-04 [8.4 7e 2.967,11 DIRETOR DE DEPARTAMENTO DE FISCALIZAÇÃO E POSTURAS SC-04 pá (eo DIRETOR DE DEPARTAMENTO DE OBRAS PÚBLICAS 2.967,11 oo DIRETOR DE DEPARTAMENTO DE TOPOGRAFIA E MEDIÇÕES SC-04 pá 2.967,11 SC-04 má «o 2.967,11 DIRETOR DE DEPARTAMENTO DE VIGILÂNCIA E FISCALIZAÇÃO AMBIENTAL o
+
+Mis, RA MUN DIRETOR DE DEPARTAMENTO DE LICITAÇÃO SC-04 2.967,11 fi ci | 2.967, 4 Data é
+
+Í A)
+
+Rua Pernambuco, nº 780 Centro CEP 38295-000 - - Página 6 de 7 Contatos: (34) 3453-1700 / (34) 3453-1732 1
+
+PDF Studio 'wsso PRerRiTURA Y% LIMEIRA soçonco =x V=5Y DO OESTE com trabalho: Cunte ns sBis
+
+-
+
+PDF Editor for Mac, Windows, Linux. For Evaluation. https://www.qoppa.com/pdfstugio DIRETOR DE DEPARTAMENTO SETOR DE COMPRAS EM SAUDE 2.967,11 DIRETOR DE DEPARTAMENTO SETOR DE COMPRAS EM EDUCAÇÃO 2.967, DIRETOR DE DEPARTAMENTO DE TURISMO 2.967,11 DIRETOR DE SERVIÇOS DE CRIAÇÃO E PRODUÇÃO DE ARTES ARTESANAIS, 2.967,11 PINTURAS DE LETREIROS EM PAREDES, FAIXAS E PLACAS DIRETOR DE DEPARTAMENTO DE LABORATÓRIO E ANÁLISES CLINICAS 2.967,11 DIRETOR DE DEPARTAMENTO DE CONVÊNIOS 2.967,11 SUPERVISORES DE DIVISÕES 2.284,68 SUPERVISOR DE DEPARTAMENTO CULTURA 2.284,68 SUPERVISOR DE SERVIÇOS EM ENFERMAGEM 2.284,68
+
+Rua Pernambuco, nº 780 Centro - - CEP 38295-000
+
+Contatos: (34) 3453-1700 / (34) 3453-1732

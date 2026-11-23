@@ -1,0 +1,100 @@
+---
+titulo: "Lei Ordinária nº 2350, de 24/05/2011"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2350"
+data: "2011-05-24"
+ementa: "\"AUTORIZA O PODER EXECUTIVO A SUPLEMENTAR A DOTAÇÃO QUE ESPECÍFICA.\""
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.canapolis.mg.leg.br/norma/714"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2011/714/lei_2350-2011_-_autoriza_o_poder_executivo_a_suplementar_a_dotacao_que_especifica.pdf"
+sha256_fonte: "86527df42edc78b50e38f419c1139fc76511331219b3a11fa0c8a5d0ea461df8"
+baixado_em: "2026-11-23"
+---
+
+# Lei Ordinária nº 2350, de 24/05/2011
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEENº 2,3500011
+
+Pote AUTORIZA O PODER EXECUTIVO A SUPLEMENTAR A “DOTAÇÃO QUE ESPECÍFICA.
+
+O PREFEITO MUNICIPAL, Façoisaber que a Câmara Municipal decreta e eu sanciono a seguinte lei:
+
+\*
+
+“AMET -“Fica o Poder Executivo Municipal, autorizado a suplementar as
+
+“5 02.07,01-4.4.90.52.01-10.305.0010.2.0107 | EQUIPAMENTO E MAR, PERMANENTE |
+
+005.008 - ZOONOSES R$ 31.403,66
+
+| ÓTAL DAS SUPLEMENTAÇÕES: | R$ 31.403,66
+
+Art.:2º -- Para atender à as despesas decorrentes do artigo 1º serão utilizados
+
+“ — recursos por ánulação das seguintes Dotações Orçamentárias:
+
+02.07.01-3.3.90. 30.01-10.305. 001020105 MATERIAIS DE. “CONSUMO DIVERSOS | o 005.006 - VIGILÂNCIA EPIDEMIOLOGICA R$672,64 02.07.01-3.3.90.30.01-10.305, 0010. 20106 MATERIAIS DE CONS UMO DIVERS os. | E “005, 007 - VIGILÂNCIA SANITÁRIA R$ 2.945,83 . Rã 7.01-3.3.90.30.01-10.305.0010.2.0107 MATERIAIS DE “CONSUMO DIVERSOS
+
+“005.008 = ZOONOSES R$ 2.750,00
+
+02. 07.01-3.3.90.30.05-10.305.0010.2.0106 | COMBUSTÍVEL “005.007 — VIGILÂNCIA SANITÁRIA R$ 1.100,00
+
+A . PREFEITURA MUNICIPAL DE CANÁPOLIS MG
+
+1 Praga 19 de Março, 304 Centro | CEP 38380000" <
+
+| Fone 34 3266 3500 | Fax 34 3266 3501
+
+-02:07.01-3.3.90.30.05-10.305.0010.2.0107 | COMBUSTÍVEL : ZOONOSES R$ 525,00
+
+-3,3,90.30.06-10.305.0010.2.0105 | MEDICAMENTOS 6 — VIGILÂNCIA EPIDEMIOLOGICA R$ 525,00
+
+1:3.3.90.30.06-10.305.0010.2.0107 | MEDICAMENTOS 08-ZOONOSES R$525,00 02/07,01-3.3,90.36.01-10.305.0010.2.0105 | OUTROS “SERV.PESSOA FÍSICA
+
+005.006 - VIGILÂNCIA EPIDEMIOLOGICA R$ 525,00
+
+“02.07.01-3.3.90.36.01-10.305.0010.2.0106 | OUTROS “SERV.PESSOA FÍSICA ' “005.007- VIGILÂNCIA SANITÁRIA R$525,00
+
+“02.07.01-3.3.90.36.01-10.305.0010.2.0107 | OUTROS “SERV.PESSOA FÍSICA o “-005.008-ZOONOSES “R$3.150,00
+
+:02.07.01-3.3.90,39.01-10.305.0010.2.0105 OUTROS “SERV.PESSOA JURÍDICA - 005.006 — VIGILÂNCIA: EPIDEMIOLOGICA R$525,00
+
+“02.07.01-3.3.90.39.01-10.305.0010.2.0106 | OUTROS -SERV.PESSOA JURÍDICA
+
+“005.007 — VIGILÂNCIA SANITÁRIA R$525,00 02.07.01-3.3.90.39.01-10.305.0010.2.0107 OUTROS SERV. - PESSOA JURÍDICA
+
+. 005.008- ZOONOSES R$525,00
+
+“ Praça 19 de Março, 304 Centro | GEP 38380 000 \* Fone 34 3266 3500 | Fax 34 32663501
+
+E nnánca EPIDEMIOLOGICA R$525,00
+
+6 = ZOONOSES o R$525,00
+
+7.01-4.4.90.52.01-10: 305, 0010.0105 EQUIPAMENTO “JE
+
+CCMAT. PERMANENTE
+
+- 001.001 - RECURSOS DO MUNICIPIO R$ 3.460,19 apupano - VIGILÂNCIA EPIDEMIOLOGICA R$ 525,00
+
+“ :02,07.01-4,4,90.52.01-10.305.0010.2.0106 | EQUIPAMENTO E A "PERMANENTE | | “++ 001.001 = RECURSOS DO MUNICIPIO R$525,00 E
+
+— 005.007 - VIGILÂNCIA SANITÁRIA o CR$5250,00
+
+| ê 02 07. 01 -4.4.90. 52, 01-10. 305. õ010. 2.0107 EQUIPAMENTO E | MAT.PERMANENTE , a 001 — RECURSOS DO MUNICIPIO R$ 5.250,00
+
+e TorALi DAS ANULAÇÕES: R$ 31.403,66
+
+Art; 3º. . Esta Lei entra enyiãos aá data de sua publiçaçã
+
+Canápolis/MG, 24
+
+eleito Municipal
+
+“Praça 19 de Março, 304 Centro | CEP 38380 000 | Fone 34 3266 3500 ! Fax 34 3286 3501
