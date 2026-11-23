@@ -44,44 +44,25 @@ ANEXO ÚNICO
 
 QUADRO INFORMATIVO COM A ESPECIFICAÇÃO DOS LOCAIS DE GUARDA E DE LIBERAÇÃO DOS VEÍCULOS, CONFORME A DATA DE REMOÇÃO
 
-| |Pátio JK |Pátio LOCAVE |Pátio Consórcio 2S |
-
-|Endereço e telefone |Endereço: Av. Tereza Cristina, 3009,|Endereço: Rua Astolfo Dutra, 651, |Endereço: Rua Senador Milton |
-
-|de cada Pátio |Bairro Calafate. |Bairro Vera Cruz. |Campos, 1012, Bairro Santa Maria. |
-
-| |Telefone: (31)3277-6835 ou |Telefone: (31)3483-2969 – linha em |Telefone: (31)2510-2366 – linha em|
-
-| |(31)3277-6834 |funcionamento até o dia 18/01/2014. |funcionamento a partir do dia |
-
-| | |Após esta data, atendimento apenas no |20/12/2013. |
-
-| | |telefone (31)2510-2366. | |
-
-|Veículos guardados |Veículos removidos até 23/07/2007. |Veículos removidos entre 23/07/2007 e |Veículos removidos a partir do dia|
-
-| |Guarda também alguns veículos com |19/12/2013. |20/12/2013. |
-
-| |impedimentos judiciais. |Ficarão guardados no Pátio LOCAVE até |A partir do dia 18/01/2014 |
-
-| | |o dia 18/01/2014 (data limite, pois |guardará também todos os veículos |
-
-| | |podem ser transferidos antes deste dia|remanescentes do Pátio LOCAVE. |
-
-| | |para o Pátio Consórcio 2S BH). | |
-
-|Local onde será feita|Veículos removidos até o dia |A partir do dia 20/12/2013, comparecer|Pátio Consórcio 2S BH será |
-
-|a liberação |22/07/2007: ligar para 156 e |ao Pátio Consórcio 2S BH para |responsável por remover, guardar e|
-
-|administrativa dos |solicitar informações. |liberação administrativa e posterior |liberar todos os veículos |
-
-|veículos |Veículos removidos a partir do dia |deslocamento ao Pátio LOCAVE para |removidos pela BHTRANS a partir do|
-
-| |23/07/2007: dirigir-se ao Pátio |buscar o veículo, que só será liberado|dia 20/12/2013. |
-
-| |Consórcio 2S BH para proceder às |após a expedição do alvará de | |
-
-| |liberações administrativas e |liberação. | |
-
-| |conferir onde estão guardados. | | |
+|  | Pátio JK | Pátio LOCAVE | Pátio Consórcio 2S |
+| --- | --- | --- | --- |
+| Endereço e telefone | Endereço: Av. Tereza Cristina, 3009, | Endereço: Rua Astolfo Dutra, 651, | Endereço: Rua Senador Milton |
+| de cada Pátio | Bairro Calafate. | Bairro Vera Cruz. | Campos, 1012, Bairro Santa Maria. |
+|  | Telefone: (31)3277-6835 ou | Telefone: (31)3483-2969 – linha em | Telefone: (31)2510-2366 – linha em |
+|  | (31)3277-6834 | funcionamento até o dia 18/01/2014. | funcionamento a partir do dia |
+|  |  | Após esta data, atendimento apenas no | 20/12/2013. |
+|  |  | telefone (31)2510-2366. |  |
+| Veículos guardados | Veículos removidos até 23/07/2007. | Veículos removidos entre 23/07/2007 e | Veículos removidos a partir do dia |
+|  | Guarda também alguns veículos com | 19/12/2013. | 20/12/2013. |
+|  | impedimentos judiciais. | Ficarão guardados no Pátio LOCAVE até | A partir do dia 18/01/2014 |
+|  |  | o dia 18/01/2014 (data limite, pois | guardará também todos os veículos |
+|  |  | podem ser transferidos antes deste dia | remanescentes do Pátio LOCAVE. |
+|  |  | para o Pátio Consórcio 2S BH). |  |
+| Local onde será feita | Veículos removidos até o dia | A partir do dia 20/12/2013, comparecer | Pátio Consórcio 2S BH será |
+| a liberação | 22/07/2007: ligar para 156 e | ao Pátio Consórcio 2S BH para | responsável por remover, guardar e |
+| administrativa dos | solicitar informações. | liberação administrativa e posterior | liberar todos os veículos |
+| veículos | Veículos removidos a partir do dia | deslocamento ao Pátio LOCAVE para | removidos pela BHTRANS a partir do |
+|  | 23/07/2007: dirigir-se ao Pátio | buscar o veículo, que só será liberado | dia 20/12/2013. |
+|  | Consórcio 2S BH para proceder às | após a expedição do alvará de |  |
+|  | liberações administrativas e | liberação. |  |
+|  | conferir onde estão guardados. |  |  |

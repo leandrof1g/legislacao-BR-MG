@@ -38,9 +38,9 @@ DIA COMEMORATIVO
 
 F - Dias comemorativos de junho:
 
-|DATA |COMEMORAÇÃO |
-
-|26/6 |Dia Municipal de Prevenção e Combate ao Diabetes |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 26/6 | Dia Municipal de Prevenção e Combate ao Diabetes |
 
 ”.
 

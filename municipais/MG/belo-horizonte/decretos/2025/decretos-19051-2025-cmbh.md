@@ -58,99 +58,57 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2542.319113.1.543.000 |210.000,00 |
-
-|2200.12.366.0168.2080.319113.1.543.000 |35.500,00 |
-
-|2200.12.365.0169.2542.319113.1.500.000 |91.000,00 |
-
-|2200.12.366.0168.2080.319004.1.500.000 |200.500,00 |
-
-|2200.12.361.0168.2080.319011.2.540.000 |159,10 |
-
-|2200.12.366.0168.2080.319008.1.500.000 |304.500,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0014.2021.319011.1.500.000 |685.300,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2571.319011.1.500.000 |12.771.500,00 |
-
-|3300.15.452.0059.2571.319004.1.500.000 |3.311.500,00 |
-
-|3300.15.452.0059.2571.319007.1.500.000 |15.000,00 |
-
-|3300.15.452.0059.2571.319013.1.500.000 |173.000,00 |
-
-|3300.15.452.0059.2571.319113.1.500.000 |2.334.000,00 |
-
-|TOTAL |20.131.959,10 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2900.339014.1.500.000 |40.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2571.339046.1.500.000 |802.500,00 |
-
-|TOTAL |842.500,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |20.974.459,10 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da | R$ |
+| --- | --- |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.319113.1.543.000 | 210.000,00 |
+| 2200.12.366.0168.2080.319113.1.543.000 | 35.500,00 |
+| 2200.12.365.0169.2542.319113.1.500.000 | 91.000,00 |
+| 2200.12.366.0168.2080.319004.1.500.000 | 200.500,00 |
+| 2200.12.361.0168.2080.319011.2.540.000 | 159,10 |
+| 2200.12.366.0168.2080.319008.1.500.000 | 304.500,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0014.2021.319011.1.500.000 | 685.300,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2571.319011.1.500.000 | 12.771.500,00 |
+| 3300.15.452.0059.2571.319004.1.500.000 | 3.311.500,00 |
+| 3300.15.452.0059.2571.319007.1.500.000 | 15.000,00 |
+| 3300.15.452.0059.2571.319013.1.500.000 | 173.000,00 |
+| 3300.15.452.0059.2571.319113.1.500.000 | 2.334.000,00 |
+| TOTAL | 20.131.959,10 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2900.339014.1.500.000 | 40.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2571.339046.1.500.000 | 802.500,00 |
+| TOTAL | 842.500,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 20.974.459,10 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.366.0168.2080.319011.1.543.000 |245.500,00 |
-
-|2200.12.365.0169.2542.319011.1.500.000 |596.000,00 |
-
-|2200.12.366.0168.2080.319011.2.540.000 |82,29 |
-
-|2200.12.365.0169.2542.319011.2.540.000 |76,81 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0014.2809.319004.1.500.000 |685.300,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.122.0007.3010.319094.1.500.000 |18.605.000,00 |
-
-|TOTAL |20.131.959,10 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0302.2915.339039.1.500.000 |40.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.122.0007.3010.319094.1.500.000 |802.500,00 |
-
-|TOTAL |842.500,00 |
-
-|TOTAL DA ANULAÇÃO |20.974.459,10 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.366.0168.2080.319011.1.543.000 | 245.500,00 |
+| 2200.12.365.0169.2542.319011.1.500.000 | 596.000,00 |
+| 2200.12.366.0168.2080.319011.2.540.000 | 82,29 |
+| 2200.12.365.0169.2542.319011.2.540.000 | 76,81 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0014.2809.319004.1.500.000 | 685.300,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.122.0007.3010.319094.1.500.000 | 18.605.000,00 |
+| TOTAL | 20.131.959,10 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0302.2915.339039.1.500.000 | 40.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.122.0007.3010.319094.1.500.000 | 802.500,00 |
+| TOTAL | 842.500,00 |
+| TOTAL DA ANULAÇÃO | 20.974.459,10 |
 
 ANEXO II
 
@@ -188,50 +146,31 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 5º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 35.288.170,00 |
-
-|Valor do Decreto publicado nesta data |R$ 20.131.959,10 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 55.420.129,10 |
-
-|Saldo atual de créditos suplementares |R$ 2.209.960.668,20 |
-
-|Percentual utilizado |2,45% |
-
-|Atualizado em 27/03/2025 às 11:11:43 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 35.288.170,00 |
+| Valor do Decreto publicado nesta data | R$ 20.131.959,10 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 55.420.129,10 |
+| Saldo atual de créditos suplementares | R$ 2.209.960.668,20 |
+| Percentual utilizado | 2,45% |
+| Atualizado em 27/03/2025 às 11:11:43 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 81.623.523,80 |
-
-|Valor do Decreto publicado nesta data |R$ 842.500,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 82.466.023,80 |
-
-|Saldo atual de créditos suplementares |R$ 2.182.914.773,50 |
-
-|Percentual utilizado |3,64% |
-
-|Atualizado em 27/03/2025 às 11:12:40 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 81.623.523,80 |
+| Valor do Decreto publicado nesta data | R$ 842.500,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 82.466.023,80 |
+| Saldo atual de créditos suplementares | R$ 2.182.914.773,50 |
+| Percentual utilizado | 3,64% |
+| Atualizado em 27/03/2025 às 11:12:40 |  |

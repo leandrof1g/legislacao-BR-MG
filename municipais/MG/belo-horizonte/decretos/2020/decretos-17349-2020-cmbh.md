@@ -52,30 +52,21 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Saúde, conforme autorização |
-
-|contida no inciso II do § 1º do art. 4º da Lei nº 11.211, de 26 de|
-
-|dezembro de 2019: |
-
-|R$ |
-
-|2302.10.302.114.2.893.3390.0300 |4.000.000,00 |
-
-|2302.10.302.114.2.893.4490.0400 |35.670,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.035.670,00 |
+| I.1 – A favor do Fundo Municipal de Saúde, conforme autorização |  |
+| --- | --- |
+| contida no inciso II do § 1º do art. 4º da Lei nº 11.211, de 26 de |  |
+| dezembro de 2019: |  |
+| R$ |  |
+| 2302.10.302.114.2.893.3390.0300 | 4.000.000,00 |
+| 2302.10.302.114.2.893.4490.0400 | 35.670,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.035.670,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.2|
-
-|da tabela anterior: |
-
-|R$ |
-
-|2302.10.122.117.2.895.3390.0300 |35.670,00 |
-
-|2302.10.302.203.2.894.3391.0300 |4.000.000,00 |
-
-|TOTAL DA ANULAÇÃO |4.035.670,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.2 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 2302.10.122.117.2.895.3390.0300 | 35.670,00 |
+| 2302.10.302.203.2.894.3391.0300 | 4.000.000,00 |
+| TOTAL DA ANULAÇÃO | 4.035.670,00 |

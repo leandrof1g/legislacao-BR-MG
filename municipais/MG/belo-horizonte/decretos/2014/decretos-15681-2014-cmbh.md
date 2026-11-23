@@ -116,7 +116,7 @@ Prefeito de Belo Horizonte
 
 ANEXO I
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 

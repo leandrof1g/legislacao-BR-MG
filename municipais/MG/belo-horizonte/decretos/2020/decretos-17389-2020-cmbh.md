@@ -52,18 +52,12 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo da Procuradoria-Geral do Município – FPGM |
-
-|–, conforme autorização contida no inciso I do § 1º do art. 43 da |
-
-|Lei Federal nº 4.320, de 17 de março de 1964, e autorização |
-
-|contida no § 2º do art. 4º da Lei nº 11.211, de 26 de dezembro de |
-
-|2019: |
-
-|R$ |
-
-|0501.04.123.003.2.830.3191.0100 |2.095.481,63 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.095.481,63 |
+| I.1 – A favor do Fundo da Procuradoria-Geral do Município – FPGM |  |
+| --- | --- |
+| –, conforme autorização contida no inciso I do § 1º do art. 43 da |  |
+| Lei Federal nº 4.320, de 17 de março de 1964, e autorização |  |
+| contida no § 2º do art. 4º da Lei nº 11.211, de 26 de dezembro de |  |
+| 2019: |  |
+| R$ |  |
+| 0501.04.123.003.2.830.3191.0100 | 2.095.481,63 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.095.481,63 |

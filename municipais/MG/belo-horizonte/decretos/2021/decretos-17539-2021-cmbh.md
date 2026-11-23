@@ -62,19 +62,14 @@ ANEXO I
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Padarias e lanchonetes (permitido o consumo no |5h às 22h |
-
-|local) | |
-
-| |O consumo de bebidas alcoólicas no local deve |
-
-| |observar as restrições dos demais serviços de |
-
-| |alimentação |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Padarias e lanchonetes (permitido o consumo no | 5h às 22h |
+| local) |  |
+|  | O consumo de bebidas alcoólicas no local deve |
+|  | observar as restrições dos demais serviços de |
+|  | alimentação |
 
 ”
 
@@ -86,23 +81,16 @@ ANEXO II
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Serviços de alimentação, para consumo no local:|Segunda-feira a domingo, entre 11h e 22h, permitida |
-
-|restaurantes, cantinas, sorveterias, bares e |a comercialização de bebida alcoólica |
-
-|similares, inclusive aqueles no interior de | |
-
-|galerias de lojas, centros de comércio, |Nos dias 12 a 17 de fevereiro, deverão ser |
-
-|shopping centers e clubes de serviço, de lazer,|observadas as restrições para consumo no local |
-
-|sociais e esportivos |dispostas no Decreto nº 17.539, de 5 de fevereiro de|
-
-| |2021 |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Serviços de alimentação, para consumo no local: | Segunda-feira a domingo, entre 11h e 22h, permitida |
+| restaurantes, cantinas, sorveterias, bares e | a comercialização de bebida alcoólica |
+| similares, inclusive aqueles no interior de |  |
+| galerias de lojas, centros de comércio, | Nos dias 12 a 17 de fevereiro, deverão ser |
+| shopping centers e clubes de serviço, de lazer, | observadas as restrições para consumo no local |
+| sociais e esportivos | dispostas no Decreto nº 17.539, de 5 de fevereiro de |
+|  | 2021 |
 
 ”
 
@@ -114,8 +102,7 @@ ANEXO III
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Parques de diversão e parques temáticos |Sem restrição de horário |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Parques de diversão e parques temáticos | Sem restrição de horário |

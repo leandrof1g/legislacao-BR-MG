@@ -326,4 +326,5 @@ Ivone Borges Botelho
 
 Secretário
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

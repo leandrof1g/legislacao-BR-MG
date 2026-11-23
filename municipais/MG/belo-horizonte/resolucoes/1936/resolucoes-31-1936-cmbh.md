@@ -22,46 +22,5 @@ baixado_em: "2026-10-26"
 
 REVOGADO PELA Lei nº 6.370, de 12/8/1993 (ANEXO II, item 031)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

@@ -66,43 +66,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.2.706.510 |30.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339039.2.621.000 |39.028.631,44 |
-
-|2302.10.302.0114.2936.445042.2.621.000 |140.460,00 |
-
-|2302.10.302.0114.2936.449152.2.621.000 |140.460,00 |
-
-|2302.10.302.0114.2936.339034.2.621.000 |2.664.565,25 |
-
-|2302.10.302.0114.2936.335043.2.621.000 |573.631,92 |
-
-|2302.10.302.0114.2936.443042.2.621.000 |1.203.313,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2930.449052.2.715.000 |232.053,21 |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.09.272.0026.3004.319003.2.802.000 |2.169.194,01 |
-
-|Fundo Previdenciário – BHPREV |
-
-|0614.09.272.0026.3004.319003.2.802.000 |976.413,61 |
-
-|TOTAL DA SUPLEMENTAÇÃO |47.158.722,44 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.2.706.510 | 30.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339039.2.621.000 | 39.028.631,44 |
+| 2302.10.302.0114.2936.445042.2.621.000 | 140.460,00 |
+| 2302.10.302.0114.2936.449152.2.621.000 | 140.460,00 |
+| 2302.10.302.0114.2936.339034.2.621.000 | 2.664.565,25 |
+| 2302.10.302.0114.2936.335043.2.621.000 | 573.631,92 |
+| 2302.10.302.0114.2936.443042.2.621.000 | 1.203.313,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2930.449052.2.715.000 | 232.053,21 |
+| Fundo Financeiro – FUFIN |  |
+| 0613.09.272.0026.3004.319003.2.802.000 | 2.169.194,01 |
+| Fundo Previdenciário – BHPREV |  |
+| 0614.09.272.0026.3004.319003.2.802.000 | 976.413,61 |
+| TOTAL DA SUPLEMENTAÇÃO | 47.158.722,44 |
 
 ANEXO II
 

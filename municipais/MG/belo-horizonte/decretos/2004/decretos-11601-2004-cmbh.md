@@ -1670,199 +1670,104 @@ Secretário Municipal da Coordenação de Política Urbana e Ambiental
 
 ANEXO I DO DECRETO Nº 11.601 - APLICAÇÃO DE PENALIDADES
 
-|Item |
-
-| |
-
-| |Cap. I |Deixar de construir, |Art. 12 | |
-
-| |Do passeio |manter ou conservar em |Art. 12 e Art. |Sim |
-
-| | |perfeito estado, passeio em|19 (*2) | |
-
-| | |frente à testada do imóvel | | |
-
-| | |lindeiro | | |
-
-| |
-
-| |Cap. I |Utilizar logradouro público|Art. 46 c/c |Sim |
-
-| |Das disposições|sem prévio licenciamento ou|Art. 49 | |
-
-| |gerais |utilizá-lo para fins | | |
-
-| | |diferentes dos previamente | | |
-
-| | |admitidos | | |
-
-| |
-
-| |
-
-| |
-
-| |Cap. I – Do |Exercer atividade sem o | |Sim |
-
-| |exercício de |alvará de localização e |Art. 227, caput| |
-
-| |atividades |funcionamento ou com o |e § 2º | |
-
-| |Seção I – |alvará vencido | | |
-
-| |Disposições | | | |
-
-| |gerais | | | |
-
-| | |Instalar engenho de |Art. 268 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade com área de | | |
-
-| | |exposição superior à | | |
-
-| | |permitida | | |
-
-| | |Utilizar simultaneamente |Art. 269 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |empena cega e fachadas de | | |
-
-| | |uma mesma edificação para | | |
-
-| | |instalação de engenho de | | |
-
-| | |publicidade | | |
-
-| | |Instalar engenho de |Art. 270 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade em | | |
-
-| | |desconformidade com as | | |
-
-| | |prescrições legais em faixa| | |
-
-| | |de domínio de rodovia | | |
-
-| | |Instalar engenho de |Art. 271 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade luminoso que | | |
-
-| | |reflita luminosidade nas | | |
-
-| | |fachadas laterais e de | | |
-
-| | |fundos dos imóveis ou que | | |
-
-| | |interfira em sinais de | | |
-
-| | |trânsito | | |
-
-| | |Manter engenho provisório |Art. 272 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |instalado em caráter | | |
-
-| | |permanente em espaço aéreo | | |
-
-| | |de propriedade | | |
-
-| | |Instalar engenho de |Art. 273 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade em local | | |
-
-| | |proibido ou que veicule | | |
-
-| | |mensagem proibida | | |
-
-| | |Instalar engenho de |Art. 275 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade em terreno ou | | |
-
-| | |lote vago em | | |
-
-| | |desconformidade com as | | |
-
-| | |prescrições legais | | |
-
-| | |Instalação de engenho de |Arts. 278, 279 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade no lote em |e 280 | |
-
-| | |obras em desconformidade | | |
-
-| | |com as prescrições legais | | |
-
-| | |Instalar engenho de |Art. 282 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade em edificação | | |
-
-| | |residencial ou em parte | | |
-
-| | |residencial de edificação | | |
-
-| | |de uso misto | | |
-
-| | |Instalar engenho de |Art. 283 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade com altura | | |
-
-| | |superior à permitida em | | |
-
-| | |muro frontal de lote | | |
-
-| | |edificado | | |
-
-| | |Instalar engenho de |Art. 284 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade no afastamento | | |
-
-| | |frontal de lote edificado | | |
-
-| | |em desconformidade com as | | |
-
-| | |prescrições legais | | |
-
-| | |Instalar engenho de |Art. 285 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade na área dos | | |
-
-| | |afastamentos laterais e de | | |
-
-| | |fundos de lote edificado | | |
-
-| | |Instalação de engenho de |Art. 286 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade em edificação | | |
-
-| | |em desconformidade com a | | |
-
-| | |legislação | | |
-
-| | |Instalar engenho de |Art. 287 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade em cobertura de| | |
-
-| | |edificação lindeira às vias| | |
-
-| | |locais e coletoras | | |
-
-| | |Instalar engenho de |Art. 288 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade complexo sem | | |
-
-| | |licença | | |
-
-| | |Instalar engenho de |Art. 290 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |publicidade que não atenda | | |
-
-| | |às normas de tombamento e | | |
-
-| | |de preservação | | |
-
-| | |Alterar o engenho quanto ao|Art. 291 |Aplica-se o mesmo previsto para o item 172 |
-
-| | |local ou as características| | |
-
-| | |previstas na licença | | |
+| Item |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  | Cap. I | Deixar de construir, | Art. 12 |  |
+|  | Do passeio | manter ou conservar em | Art. 12 e Art. | Sim |
+|  |  | perfeito estado, passeio em | 19 (*2) |  |
+|  |  | frente à testada do imóvel |  |  |
+|  |  | lindeiro |  |  |
+|  |  |  |  |  |
+|  | Cap. I | Utilizar logradouro público | Art. 46 c/c | Sim |
+|  | Das disposições | sem prévio licenciamento ou | Art. 49 |  |
+|  | gerais | utilizá-lo para fins |  |  |
+|  |  | diferentes dos previamente |  |  |
+|  |  | admitidos |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | Cap. I – Do | Exercer atividade sem o |  | Sim |
+|  | exercício de | alvará de localização e | Art. 227, caput |  |
+|  | atividades | funcionamento ou com o | e § 2º |  |
+|  | Seção I – | alvará vencido |  |  |
+|  | Disposições |  |  |  |
+|  | gerais |  |  |  |
+|  |  | Instalar engenho de | Art. 268 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade com área de |  |  |
+|  |  | exposição superior à |  |  |
+|  |  | permitida |  |  |
+|  |  | Utilizar simultaneamente | Art. 269 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | empena cega e fachadas de |  |  |
+|  |  | uma mesma edificação para |  |  |
+|  |  | instalação de engenho de |  |  |
+|  |  | publicidade |  |  |
+|  |  | Instalar engenho de | Art. 270 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade em |  |  |
+|  |  | desconformidade com as |  |  |
+|  |  | prescrições legais em faixa |  |  |
+|  |  | de domínio de rodovia |  |  |
+|  |  | Instalar engenho de | Art. 271 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade luminoso que |  |  |
+|  |  | reflita luminosidade nas |  |  |
+|  |  | fachadas laterais e de |  |  |
+|  |  | fundos dos imóveis ou que |  |  |
+|  |  | interfira em sinais de |  |  |
+|  |  | trânsito |  |  |
+|  |  | Manter engenho provisório | Art. 272 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | instalado em caráter |  |  |
+|  |  | permanente em espaço aéreo |  |  |
+|  |  | de propriedade |  |  |
+|  |  | Instalar engenho de | Art. 273 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade em local |  |  |
+|  |  | proibido ou que veicule |  |  |
+|  |  | mensagem proibida |  |  |
+|  |  | Instalar engenho de | Art. 275 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade em terreno ou |  |  |
+|  |  | lote vago em |  |  |
+|  |  | desconformidade com as |  |  |
+|  |  | prescrições legais |  |  |
+|  |  | Instalação de engenho de | Arts. 278, 279 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade no lote em | e 280 |  |
+|  |  | obras em desconformidade |  |  |
+|  |  | com as prescrições legais |  |  |
+|  |  | Instalar engenho de | Art. 282 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade em edificação |  |  |
+|  |  | residencial ou em parte |  |  |
+|  |  | residencial de edificação |  |  |
+|  |  | de uso misto |  |  |
+|  |  | Instalar engenho de | Art. 283 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade com altura |  |  |
+|  |  | superior à permitida em |  |  |
+|  |  | muro frontal de lote |  |  |
+|  |  | edificado |  |  |
+|  |  | Instalar engenho de | Art. 284 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade no afastamento |  |  |
+|  |  | frontal de lote edificado |  |  |
+|  |  | em desconformidade com as |  |  |
+|  |  | prescrições legais |  |  |
+|  |  | Instalar engenho de | Art. 285 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade na área dos |  |  |
+|  |  | afastamentos laterais e de |  |  |
+|  |  | fundos de lote edificado |  |  |
+|  |  | Instalação de engenho de | Art. 286 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade em edificação |  |  |
+|  |  | em desconformidade com a |  |  |
+|  |  | legislação |  |  |
+|  |  | Instalar engenho de | Art. 287 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade em cobertura de |  |  |
+|  |  | edificação lindeira às vias |  |  |
+|  |  | locais e coletoras |  |  |
+|  |  | Instalar engenho de | Art. 288 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade complexo sem |  |  |
+|  |  | licença |  |  |
+|  |  | Instalar engenho de | Art. 290 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | publicidade que não atenda |  |  |
+|  |  | às normas de tombamento e |  |  |
+|  |  | de preservação |  |  |
+|  |  | Alterar o engenho quanto ao | Art. 291 | Aplica-se o mesmo previsto para o item 172 |
+|  |  | local ou as características |  |  |
+|  |  | previstas na licença |  |  |
 
 1. | |Deixar de identificar o engenho através do nº da licença e do nome do licenciado |Art. 293 |Sim |5 dias |L
 

@@ -312,4 +312,5 @@ Pintura - paredes e tetos a cal, lisa.
 
 Portas e janelas a óleo não amassado.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

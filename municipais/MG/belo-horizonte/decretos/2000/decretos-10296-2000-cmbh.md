@@ -266,15 +266,12 @@ Grupo D: resíduos comuns.
 
 b) identificar os locais de geração de resíduos por Grupo, assinalando em planta baixa, em escala apropriada, conforme simbologia abaixo:
 
-|UNIDADE |SIMBOLOGIA |
-
-|Geração de resíduo Grupo A |GA |
-
-|Geração de resíduo Grupo B |GB |
-
-|Geração de resíduo Grupo C |GC |
-
-|Geração de resíduo Grupo D |GD |
+| UNIDADE | SIMBOLOGIA |
+| --- | --- |
+| Geração de resíduo Grupo A | GA |
+| Geração de resíduo Grupo B | GB |
+| Geração de resíduo Grupo C | GC |
+| Geração de resíduo Grupo D | GD |
 
 c) quantificar os resíduos sólidos em kg/mês ou m³/mês, por Grupo:
 

@@ -42,9 +42,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 ANO COMEMORATIVO
 
-|ANO |COMEMORAÇÃO |
-
-|2027 |Ano Municipal de Conscientização sobre o Acesso ao Leite Materno |
+| ANO | COMEMORAÇÃO |
+| --- | --- |
+| 2027 | Ano Municipal de Conscientização sobre o Acesso ao Leite Materno |
 
 .”.
 

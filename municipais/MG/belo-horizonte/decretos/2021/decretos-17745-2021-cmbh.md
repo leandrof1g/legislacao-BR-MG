@@ -60,42 +60,24 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Teatros, shows e espetáculos com público |Horário licenciado |
-
-|sentado, em propriedade pública ou privada, com| |
-
-|assentos fixos já licenciados para essa | |
-
-|finalidade ou outros espaços, inclusive | |
-
-|logradouro público, mediante licenciamento | |
-
-|específico | |
-
-|(...) | |
-
-|Feiras, exposições, congressos, seminários e |Horário licenciado |
-
-|eventos corporativos, em locais licenciados ou | |
-
-|mediante licenciamento específico | |
-
-|(...) |(...) |
-
-|Espetáculos circenses em locais licenciados ou |Horário licenciado |
-
-|mediante licenciamento específico | |
-
-|(...) |(...) |
-
-|Eventos gastronômicos mediante licenciamento |Horário licenciado |
-
-|específico | |
-
-|Demais eventos esportivos em locais licenciados|Horário licenciado |
-
-|ou mediante licenciamento específico | |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Teatros, shows e espetáculos com público | Horário licenciado |
+| sentado, em propriedade pública ou privada, com |  |
+| assentos fixos já licenciados para essa |  |
+| finalidade ou outros espaços, inclusive |  |
+| logradouro público, mediante licenciamento |  |
+| específico |  |
+| (...) |  |
+| Feiras, exposições, congressos, seminários e | Horário licenciado |
+| eventos corporativos, em locais licenciados ou |  |
+| mediante licenciamento específico |  |
+| (...) | (...) |
+| Espetáculos circenses em locais licenciados ou | Horário licenciado |
+| mediante licenciamento específico |  |
+| (...) | (...) |
+| Eventos gastronômicos mediante licenciamento | Horário licenciado |
+| específico |  |
+| Demais eventos esportivos em locais licenciados | Horário licenciado |
+| ou mediante licenciamento específico |  |

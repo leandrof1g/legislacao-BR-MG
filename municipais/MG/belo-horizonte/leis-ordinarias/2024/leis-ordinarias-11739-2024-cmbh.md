@@ -38,9 +38,9 @@ O povo de Belo Horizonte, por seus representantes, decreta e eu sanciono a segui
 
 H - Dias comemorativos de agosto:
 
-|DATA |COMEMORAÇÃO |
-
-|30/8 |Dia Municipal do Perdão |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 30/8 | Dia Municipal do Perdão |
 
 .”.
 

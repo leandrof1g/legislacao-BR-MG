@@ -1668,302 +1668,170 @@ SOLUÇÕES TÉCNICO-CONSTRUTIVAS PARA FINS DE CONCESSÃO DO BENEFÍCIO PREVISTO 
 
 1. ÁREAS VERDES E PERMEÁVEIS
 
-|SOLUÇÃO |PARÂMETRO |PONTUAÇÃO |
-
-|1.1. Área em terreno natural |a) acréscimo de 10% (dez por cento) a 30% |10 |
-
-|dotada de vegetação e |(trinta por cento) em relação à taxa de | |
-
-|arborização em área de uso |permeabilidade – TP – exigida; | |
-
-|comum | | |
-
-| |b) acréscimo de mais de 30% (trinta por |30 |
-
-| |cento) e de até 50% (cinquenta por cento) | |
-
-| |em relação à TP exigida; | |
-
-| |c) acréscimo de mais de 50% (cinquenta por|50 |
-
-| |cento) em relação à TP exigida. | |
-
-|1.2. Cobertura vegetal em área |a) razão da área permeável sobre terreno |10 |
-
-|de uso comum |natural pelo nº de árvores de porte médio | |
-
-| |ou grande inferior a 100m² (cem metros | |
-
-| |quadrados) e de até 50m² (cinquenta metros| |
-
-| |quadrados); | |
-
-| |b) razão da área permeável sobre terreno |20 |
-
-| |natural pelo nº de árvores de porte médio | |
-
-| |ou grande inferior a 50m² (cinquenta | |
-
-| |metros quadrados); | |
-
-| |c) área vegetada sobre laje com substrato |10 |
-
-| |maior ou igual a 50cm (cinquenta | |
-
-| |centímetros), em área superior a 10% (dez | |
-
-| |por cento) da área do terreno; | |
-
-| |d) jardim drenante em pelo menos 25% |10 |
-
-| |(vinte e cinco por cento) da área vegetada| |
-
-| |do empreendimento. | |
+| SOLUÇÃO | PARÂMETRO | PONTUAÇÃO |
+| --- | --- | --- |
+| 1.1. Área em terreno natural | a) acréscimo de 10% (dez por cento) a 30% | 10 |
+| dotada de vegetação e | (trinta por cento) em relação à taxa de |  |
+| arborização em área de uso | permeabilidade – TP – exigida; |  |
+| comum |  |  |
+|  | b) acréscimo de mais de 30% (trinta por | 30 |
+|  | cento) e de até 50% (cinquenta por cento) |  |
+|  | em relação à TP exigida; |  |
+|  | c) acréscimo de mais de 50% (cinquenta por | 50 |
+|  | cento) em relação à TP exigida. |  |
+| 1.2. Cobertura vegetal em área | a) razão da área permeável sobre terreno | 10 |
+| de uso comum | natural pelo nº de árvores de porte médio |  |
+|  | ou grande inferior a 100m² (cem metros |  |
+|  | quadrados) e de até 50m² (cinquenta metros |  |
+|  | quadrados); |  |
+|  | b) razão da área permeável sobre terreno | 20 |
+|  | natural pelo nº de árvores de porte médio |  |
+|  | ou grande inferior a 50m² (cinquenta |  |
+|  | metros quadrados); |  |
+|  | c) área vegetada sobre laje com substrato | 10 |
+|  | maior ou igual a 50cm (cinquenta |  |
+|  | centímetros), em área superior a 10% (dez |  |
+|  | por cento) da área do terreno; |  |
+|  | d) jardim drenante em pelo menos 25% | 10 |
+|  | (vinte e cinco por cento) da área vegetada |  |
+|  | do empreendimento. |  |
 
 2. ECONOMIA ENERGÉTICA
 
-|SOLUÇÃO |PARÂMETRO |PONTUAÇÃO |
-
-|2.1 Mecanismos economizadores |a) elevadores com acúmulo de energia na|50 |
-
-| |descida; | |
-
-| |b) sensor de presença e lâmpadas de LED|10 |
-
-| |nas áreas de uso comum. | |
-
-|2.2 Economia de energia |a) uso de energia solar para produção |50 |
-
-| |de, pelo menos, 50% (cinquenta por | |
-
-| |cento) da projeção de uso de energia | |
-
-| |das áreas de uso comum; | |
-
-| |b) uso de energia solar para |30 |
-
-| |aquecimento de, pelo menos, 50% | |
-
-| |(cinquenta por cento) da água quente | |
-
-| |consumida – NBR 7198; | |
-
-| |c) medição individualizada de gás por |5 |
-
-| |unidade. | |
+| SOLUÇÃO | PARÂMETRO | PONTUAÇÃO |
+| --- | --- | --- |
+| 2.1 Mecanismos economizadores | a) elevadores com acúmulo de energia na | 50 |
+|  | descida; |  |
+|  | b) sensor de presença e lâmpadas de LED | 10 |
+|  | nas áreas de uso comum. |  |
+| 2.2 Economia de energia | a) uso de energia solar para produção | 50 |
+|  | de, pelo menos, 50% (cinquenta por |  |
+|  | cento) da projeção de uso de energia |  |
+|  | das áreas de uso comum; |  |
+|  | b) uso de energia solar para | 30 |
+|  | aquecimento de, pelo menos, 50% |  |
+|  | (cinquenta por cento) da água quente |  |
+|  | consumida – NBR 7198; |  |
+|  | c) medição individualizada de gás por | 5 |
+|  | unidade. |  |
 
 3. ECONOMIA DE ÁGUA E GÁS
 
-|SOLUÇÃO |PARÂMETRO |PONTUAÇÃO |
-
-|3.1 Mecanismos economizadores |a) bacia sanitária com caixa acoplada de|10 |
-
-| |duplo acionamento; | |
-
-| |b) arejadores ou pulverizadores nas |5 |
-
-| |torneiras das instalações sanitárias; | |
-
-| |c) sistema de reaproveitamento de água |20 |
-
-| |de chuva com medidor; | |
-
-| |d) medição individualizada de água por |10 |
-
-| |unidade. | |
+| SOLUÇÃO | PARÂMETRO | PONTUAÇÃO |
+| --- | --- | --- |
+| 3.1 Mecanismos economizadores | a) bacia sanitária com caixa acoplada de | 10 |
+|  | duplo acionamento; |  |
+|  | b) arejadores ou pulverizadores nas | 5 |
+|  | torneiras das instalações sanitárias; |  |
+|  | c) sistema de reaproveitamento de água | 20 |
+|  | de chuva com medidor; |  |
+|  | d) medição individualizada de água por | 10 |
+|  | unidade. |  |
 
 4. MOBILIDADE
 
-|SOLUÇÃO |PARÂMETRO |PONTUAÇÃO |
-
-|4.1 Incentivo à mobilidade ativa|a) implantação de bicicletário com, pelo |20 |
-
-| |menos, uma vaga para bicicleta a cada | |
-
-| |duas unidades habitacionais; | |
-
-| |b) implantação de paraciclos ou |10 |
-
-| |bicicletário em área de fruição pública | |
-
-| |ou no afastamento frontal, desde que | |
-
-| |abertos ao uso público, em proporção | |
-
-| |mínima de uma vaga para bicicleta para | |
-
-| |cada 100m² (cem metros quadrados) de | |
-
-| |terreno. | |
-
-|4.2 Incentivo à diminuição do |a) ponto de carga de veículo elétrico em |15 |
-
-|uso de combustíveis fósseis |pelo menos 5% (cinco por cento) das vagas| |
-
-| |do empreendimento. | |
+| SOLUÇÃO | PARÂMETRO | PONTUAÇÃO |
+| --- | --- | --- |
+| 4.1 Incentivo à mobilidade ativa | a) implantação de bicicletário com, pelo | 20 |
+|  | menos, uma vaga para bicicleta a cada |  |
+|  | duas unidades habitacionais; |  |
+|  | b) implantação de paraciclos ou | 10 |
+|  | bicicletário em área de fruição pública |  |
+|  | ou no afastamento frontal, desde que |  |
+|  | abertos ao uso público, em proporção |  |
+|  | mínima de uma vaga para bicicleta para |  |
+|  | cada 100m² (cem metros quadrados) de |  |
+|  | terreno. |  |
+| 4.2 Incentivo à diminuição do | a) ponto de carga de veículo elétrico em | 15 |
+| uso de combustíveis fósseis | pelo menos 5% (cinco por cento) das vagas |  |
+|  | do empreendimento. |  |
 
 5. RESÍDUOS
 
-|SOLUÇÃO |PARÂMETRO |PONTUAÇÃO |
-
-|5.1 Incentivo à reciclagem |a) contenedores destinados à separação de|10 |
-
-| |material reciclável. | |
-
-|5.2 Tratamento de efluentes |a) estação de tratamento de efluentes |50 |
-
-| |para o edifício. | |
+| SOLUÇÃO | PARÂMETRO | PONTUAÇÃO |
+| --- | --- | --- |
+| 5.1 Incentivo à reciclagem | a) contenedores destinados à separação de | 10 |
+|  | material reciclável. |  |
+| 5.2 Tratamento de efluentes | a) estação de tratamento de efluentes | 50 |
+|  | para o edifício. |  |
 
 ANEXO II (a que se referem o caput e o § 1º do art. 104 do Decreto nº 17.273, de 4 de fevereiro de 2020)
 
 ATIVIDADES PASSÍVEIS DE RECLASSIFICAÇÃO COMO ARTESANATO EM CONFORMIDADE COM O § 6º DO ART. 174 DA LEI Nº 11.181, DE 8 DE AGOSTO DE 2019
 
-|Classificação |Descrição |Limite de área |
-
-|Nacional de | | |
-
-|Atividades | | |
-
-|Econômicas – CNAE | | |
-
-|562010400 |Fornecimento de alimentos preparados, preponderantemente, |área ≤125m² |
-
-| |para consumo domiciliar | |
-
-|103170000 |Fabricação de conservas de frutas |área ≤125m² |
-
-|109370100 |Fabricação de produtos derivados do cacau e de chocolates |área ≤ 125m² |
-
-|109370200 |Fabricação de frutas cristalizadas, balas e semelhantes |área ≤ 125m² |
-
-|109450000 |Fabricação de massas alimentícias |área ≤ 125m² |
-
-|103259900 |Fabricação de conservas de legumes e outros vegetais, |área ≤ 125m² |
-
-| |exceto palmito | |
-
-|103330200 |Fabricação de sucos de frutas, hortaliças e legumes, |área ≤ 125m² |
-
-| |exceto concentrados | |
-
-|105200000 |Fabricação de laticínios |área ≤ 125m² |
-
-|109290000 |Fabricação de biscoitos e bolachas |área ≤ 125m² |
-
-|109530000 |Fabricação de especiarias, molhos, temperos e condimentos |área ≤ 125m² |
-
-|109610000 |Fabricação de alimentos e pratos prontos |área ≤ 125m² |
-
-|109960500 |Fabricação de produtos para infusão (chá, mate, etc.) |área ≤ 125m² |
-
-|109969901 |Beneficiamento e envase de mel e de outros produtos |área ≤ 125m² |
-
-| |apícolas | |
-
-|109969999 |Fabricação de outros produtos alimentícios não |área ≤ 125m² |
-
-| |especificados anteriormente | |
-
-|111190100 |Fabricação de aguardente de cana-de-açúcar |área ≤ 125m² |
-
-|111190200 |Fabricação de outras aguardentes e bebidas destiladas |área ≤ 125m² |
-
-|111350200 |Fabricação de malte, cervejas e chopes |área ≤ 125m² |
-
-|135110000 |Fabricação de artefatos têxteis para uso doméstico |área ≤ 125m² |
-
-|135290000 |Fabricação de artefatos de tapeçaria |área ≤ 125m² |
-
-|135370000 |Fabricação de artefatos de cordoaria |área ≤ 125m² |
-
-|135960000 |Fabricação de outros produtos têxteis não especificados |área ≤ 125m² |
-
-| |anteriormente | |
-
-|141180100 |Confecção de roupas íntimas |área ≤ 125m² |
-
-|141260100 |Confecção de peças de vestuário, exceto roupas íntimas e |área ≤ 125m² |
-
-| |as confeccionadas sob medida | |
-
-|141260200 |Confecção sob medida de peças do vestuário, exceto roupas |área ≤ 125m² |
-
-| |íntimas | |
-
-|141420000 |Fabricação de acessórios do vestuário, exceto para |área ≤ 125m² |
-
-| |segurança e proteção | |
-
-|142150000 |Fabricação de meias |área ≤ 125m² |
-
-|142230000 |Fabricação de artigos de vestuário, produzidos em |área ≤ 125m² |
-
-| |malharias e tricotagens, exceto meias | |
-
-|329900500 |Fabricação de aviamentos para costura |área ≤ 125m² |
-
-|153940000 |Fabricação de calçados de materiais não especificados |área ≤ 125m² |
-
-| |anteriormente | |
-
-|152110000 |Fabricação de artigos para viagem, bolsas e semelhantes de|área ≤ 125m² |
-
-| |qualquer material | |
-
-|152970000 |Fabricação de artefatos de couro não especificados |área ≤ 125m² |
-
-| |anteriormente | |
-
-|153190100 |Fabricação de calçados de couro |área ≤ 125m² |
-
-|162930100 |Fabricação de artefatos diversos de madeira, exceto móveis|área ≤ 125m² |
-
-|162930200 |Fabricação de artefatos diversos de cortiça, bambu, palha,|área ≤ 125m² |
-
-| |vime e outros materiais trançados, exceto móveis | |
-
-|329900600 |Fabricação de velas, inclusive decorativas |área ≤ 125m² |
-
-|239910100 |Decoração, lapidação, gravação, vitrificação e outros |área ≤ 125m² |
-
-| |trabalhos em cerâmica, louça, vidro e cristal | |
-
-|329140000 |Fabricação de escovas, pincéis e vassouras |área ≤ 125m² |
-
-|329900100 |Fabricação de guarda-chuvas e similares |área ≤ 125m² |
-
-|321160100 |Lapidação de gemas |área ≤ 125m² |
-
-|323020000 |Fabricação de artefatos para pesca e esporte |área ≤ 125m² |
-
-|322050000 |Fabricação de instrumentos musicais, peças e acessórios |área ≤ 125m² |
-
-|239150300 |Aparelhamento de placas e execução de trabalhos em |área ≤ 125m² |
-
-| |mármore, granito, ardósia e outras pedras | |
-
-|329900200 |Fabricação de canetas, lápis e outros artigos para |área ≤ 125m² |
-
-| |escritório | |
-
-|233039900 |Fabricação de outros artefatos e produtos de concreto, |área ≤ 125m² |
-
-| |cimento, fibrocimento, gesso e materiais semelhantes | |
-
-|173110000 |Fabricação de embalagens de papel |área ≤ 125m² |
-
-|173200000 |Fabricação de embalagens de cartolina e papel-cartão |área ≤ 125m² |
-
-|162340000 |Fabricação de artefatos de tanoaria e de embalagens de |área ≤ 125m² |
-
-| |madeira | |
-
-|222939900 |Fabricação de artefatos de material plástico para outros |área ≤ 125m² |
-
-| |usos não especificados anteriormente | |
-
-|221960000 |Fabricação de artefatos de borracha não especificados |área ≤ 125m² |
-
-| |anteriormente | |
-
-|321160300 |Cunhagem de moedas e medalhas |área ≤ 125m² |
+| Classificação | Descrição | Limite de área |
+| --- | --- | --- |
+| Nacional de |  |  |
+| Atividades |  |  |
+| Econômicas – CNAE |  |  |
+| 562010400 | Fornecimento de alimentos preparados, preponderantemente, | área ≤125m² |
+|  | para consumo domiciliar |  |
+| 103170000 | Fabricação de conservas de frutas | área ≤125m² |
+| 109370100 | Fabricação de produtos derivados do cacau e de chocolates | área ≤ 125m² |
+| 109370200 | Fabricação de frutas cristalizadas, balas e semelhantes | área ≤ 125m² |
+| 109450000 | Fabricação de massas alimentícias | área ≤ 125m² |
+| 103259900 | Fabricação de conservas de legumes e outros vegetais, | área ≤ 125m² |
+|  | exceto palmito |  |
+| 103330200 | Fabricação de sucos de frutas, hortaliças e legumes, | área ≤ 125m² |
+|  | exceto concentrados |  |
+| 105200000 | Fabricação de laticínios | área ≤ 125m² |
+| 109290000 | Fabricação de biscoitos e bolachas | área ≤ 125m² |
+| 109530000 | Fabricação de especiarias, molhos, temperos e condimentos | área ≤ 125m² |
+| 109610000 | Fabricação de alimentos e pratos prontos | área ≤ 125m² |
+| 109960500 | Fabricação de produtos para infusão (chá, mate, etc.) | área ≤ 125m² |
+| 109969901 | Beneficiamento e envase de mel e de outros produtos | área ≤ 125m² |
+|  | apícolas |  |
+| 109969999 | Fabricação de outros produtos alimentícios não | área ≤ 125m² |
+|  | especificados anteriormente |  |
+| 111190100 | Fabricação de aguardente de cana-de-açúcar | área ≤ 125m² |
+| 111190200 | Fabricação de outras aguardentes e bebidas destiladas | área ≤ 125m² |
+| 111350200 | Fabricação de malte, cervejas e chopes | área ≤ 125m² |
+| 135110000 | Fabricação de artefatos têxteis para uso doméstico | área ≤ 125m² |
+| 135290000 | Fabricação de artefatos de tapeçaria | área ≤ 125m² |
+| 135370000 | Fabricação de artefatos de cordoaria | área ≤ 125m² |
+| 135960000 | Fabricação de outros produtos têxteis não especificados | área ≤ 125m² |
+|  | anteriormente |  |
+| 141180100 | Confecção de roupas íntimas | área ≤ 125m² |
+| 141260100 | Confecção de peças de vestuário, exceto roupas íntimas e | área ≤ 125m² |
+|  | as confeccionadas sob medida |  |
+| 141260200 | Confecção sob medida de peças do vestuário, exceto roupas | área ≤ 125m² |
+|  | íntimas |  |
+| 141420000 | Fabricação de acessórios do vestuário, exceto para | área ≤ 125m² |
+|  | segurança e proteção |  |
+| 142150000 | Fabricação de meias | área ≤ 125m² |
+| 142230000 | Fabricação de artigos de vestuário, produzidos em | área ≤ 125m² |
+|  | malharias e tricotagens, exceto meias |  |
+| 329900500 | Fabricação de aviamentos para costura | área ≤ 125m² |
+| 153940000 | Fabricação de calçados de materiais não especificados | área ≤ 125m² |
+|  | anteriormente |  |
+| 152110000 | Fabricação de artigos para viagem, bolsas e semelhantes de | área ≤ 125m² |
+|  | qualquer material |  |
+| 152970000 | Fabricação de artefatos de couro não especificados | área ≤ 125m² |
+|  | anteriormente |  |
+| 153190100 | Fabricação de calçados de couro | área ≤ 125m² |
+| 162930100 | Fabricação de artefatos diversos de madeira, exceto móveis | área ≤ 125m² |
+| 162930200 | Fabricação de artefatos diversos de cortiça, bambu, palha, | área ≤ 125m² |
+|  | vime e outros materiais trançados, exceto móveis |  |
+| 329900600 | Fabricação de velas, inclusive decorativas | área ≤ 125m² |
+| 239910100 | Decoração, lapidação, gravação, vitrificação e outros | área ≤ 125m² |
+|  | trabalhos em cerâmica, louça, vidro e cristal |  |
+| 329140000 | Fabricação de escovas, pincéis e vassouras | área ≤ 125m² |
+| 329900100 | Fabricação de guarda-chuvas e similares | área ≤ 125m² |
+| 321160100 | Lapidação de gemas | área ≤ 125m² |
+| 323020000 | Fabricação de artefatos para pesca e esporte | área ≤ 125m² |
+| 322050000 | Fabricação de instrumentos musicais, peças e acessórios | área ≤ 125m² |
+| 239150300 | Aparelhamento de placas e execução de trabalhos em | área ≤ 125m² |
+|  | mármore, granito, ardósia e outras pedras |  |
+| 329900200 | Fabricação de canetas, lápis e outros artigos para | área ≤ 125m² |
+|  | escritório |  |
+| 233039900 | Fabricação de outros artefatos e produtos de concreto, | área ≤ 125m² |
+|  | cimento, fibrocimento, gesso e materiais semelhantes |  |
+| 173110000 | Fabricação de embalagens de papel | área ≤ 125m² |
+| 173200000 | Fabricação de embalagens de cartolina e papel-cartão | área ≤ 125m² |
+| 162340000 | Fabricação de artefatos de tanoaria e de embalagens de | área ≤ 125m² |
+|  | madeira |  |
+| 222939900 | Fabricação de artefatos de material plástico para outros | área ≤ 125m² |
+|  | usos não especificados anteriormente |  |
+| 221960000 | Fabricação de artefatos de borracha não especificados | área ≤ 125m² |
+|  | anteriormente |  |
+| 321160300 | Cunhagem de moedas e medalhas | área ≤ 125m² |

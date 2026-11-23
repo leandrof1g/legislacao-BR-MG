@@ -306,18 +306,12 @@ QUADRO DE PENALIDADES
 
 valores em UFIR
 
-|Grupos de | |REINCIDÊNCIAS |
-
-|infrações |PRIMÁRIO | |
-
-| | |1ª |2ª |3ª |4ª |5ª |6ª |
-
-|1 |ADVERTÊNCIA |22,6358 |45,2716 |67,9074 |90,5432 |113,1790 |CASSAÇÃO |
-
-|2 |ADVERTÊNCIA |45,2716 |67,9074 |90,5432 |113,1790 |CASSAÇÃO | |
-
-|3 |ADVERTÊNCIA |67,9074 |90,5432 |113,1790 |135,8148 |CASSAÇÃO | |
-
-|4 |ADVERTÊNCIA |90,5432 |113,1790 |135,8148 |CASSAÇÃO | | |
-
-|5 |ADVERTÊNCIA |113,1790 |135,8148 |CASSAÇÃO | | | |
+| Grupos de |  | REINCIDÊNCIAS |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| infrações | PRIMÁRIO |  |  |  |  |  |  |
+|  |  | 1ª | 2ª | 3ª | 4ª | 5ª | 6ª |
+| 1 | ADVERTÊNCIA | 22,6358 | 45,2716 | 67,9074 | 90,5432 | 113,1790 | CASSAÇÃO |
+| 2 | ADVERTÊNCIA | 45,2716 | 67,9074 | 90,5432 | 113,1790 | CASSAÇÃO |  |
+| 3 | ADVERTÊNCIA | 67,9074 | 90,5432 | 113,1790 | 135,8148 | CASSAÇÃO |  |
+| 4 | ADVERTÊNCIA | 90,5432 | 113,1790 | 135,8148 | CASSAÇÃO |  |  |
+| 5 | ADVERTÊNCIA | 113,1790 | 135,8148 | CASSAÇÃO |  |  |  |

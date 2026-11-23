@@ -86,68 +86,37 @@ Secretário Municipal de Educação
 
 ANEXO ÚNICO
 
-|Nº |ESCOLAS |REGIONAL |VALOR |
-
-|1 |E.M. Antônio Salles Barbosa |Barreiro |22.000,00 |
-
-|2 |E.M. Edith Pimenta da Veiga |Barreiro |22.000,00 |
-
-|3 |E.M. Pedro Nava |Barreiro |22.000,00 |
-
-|4 |E.M. Sebastião Guilherme de Oliveira |Barreiro |22.000,00 |
-
-|5 |E.M. Fazendinha |Leste |22.000,00 |
-
-|6 |E.M. Levindo Lopes |Leste |22.000,00 |
-
-|7 |E.M. Monsenhor João Rodrigues de Oliveira |Leste |22.000,00 |
-
-|8 |E.M. Cônsul Antônio Cadar |Norte |22.000,00 |
-
-|9 |E.M. Francisco Campos |Norte |22.000,00 |
-
-|10 |E.M. Tristão da Cunha |Norte |22.000,00 |
-
-|11 |E.M. Maria Assunção de Marco |Nordeste |22.000,00 |
-
-|12 |E.M. Prefeito Souza Lima |Nordeste |22.000,00 |
-
-|13 |E.M. Professor Milton Lage |Nordeste |22.000,00 |
-
-|14 |E.M. Dom Jaime de Barros Câmara |Noroeste |22.000,00 |
-
-|15 |E.M. Doutor José Diogo de Almeida Magalhães |Noroeste |22.000,00 |
-
-|16 |E.M. Ignácio Andrade de Melo |Noroeste |22.000,00 |
-
-|17 |E.M. João Pinheiro |Noroeste |22.000,00 |
-
-|18 |E.M. Júlia Paraíso |Noroeste |22.000,00 |
-
-|19 |E.M. Marlene Pereira Rancante |Noroeste |22.000,00 |
-
-|20 |E.M. Professor Cláudio Brandão |Noroeste |22.000,00 |
-
-|21 |E.M. Professor João Camilo de Oliveira Torres |Noroeste |22.000,00 |
-
-|22 |E.M. Deputado Milton Salles |Oeste |22.000,00 |
-
-|23 |E.M. João do Patrocínio |Oeste |22.000,00 |
-
-|24 |E.M. Padre Henrique Brandão |Oeste |22.000,00 |
-
-|25 |E.M. Salgado Filho |Oeste |22.000,00 |
-
-|26 |E.M. Tenente Manoel Magalhães Penido |Oeste |22.000,00 |
-
-|27 |E.M. Professor Alice Nacif |Pampulha |22.000,00 |
-
-|28 |E.M. Antônia Ferreira |Venda Nova |22.000,00 |
-
-|29 |E.M. Carlos Drumond de Andrade |Venda Nova |22.000,00 |
-
-|30 |E.M. Milton Campos |Venda Nova |22.000,00 |
-
-|31 |E.M. Vicente Guimarães |Venda Nova |22.000,00 |
-
-|Total |682.000,00 |
+| Nº | ESCOLAS | REGIONAL | VALOR |
+| --- | --- | --- | --- |
+| 1 | E.M. Antônio Salles Barbosa | Barreiro | 22.000,00 |
+| 2 | E.M. Edith Pimenta da Veiga | Barreiro | 22.000,00 |
+| 3 | E.M. Pedro Nava | Barreiro | 22.000,00 |
+| 4 | E.M. Sebastião Guilherme de Oliveira | Barreiro | 22.000,00 |
+| 5 | E.M. Fazendinha | Leste | 22.000,00 |
+| 6 | E.M. Levindo Lopes | Leste | 22.000,00 |
+| 7 | E.M. Monsenhor João Rodrigues de Oliveira | Leste | 22.000,00 |
+| 8 | E.M. Cônsul Antônio Cadar | Norte | 22.000,00 |
+| 9 | E.M. Francisco Campos | Norte | 22.000,00 |
+| 10 | E.M. Tristão da Cunha | Norte | 22.000,00 |
+| 11 | E.M. Maria Assunção de Marco | Nordeste | 22.000,00 |
+| 12 | E.M. Prefeito Souza Lima | Nordeste | 22.000,00 |
+| 13 | E.M. Professor Milton Lage | Nordeste | 22.000,00 |
+| 14 | E.M. Dom Jaime de Barros Câmara | Noroeste | 22.000,00 |
+| 15 | E.M. Doutor José Diogo de Almeida Magalhães | Noroeste | 22.000,00 |
+| 16 | E.M. Ignácio Andrade de Melo | Noroeste | 22.000,00 |
+| 17 | E.M. João Pinheiro | Noroeste | 22.000,00 |
+| 18 | E.M. Júlia Paraíso | Noroeste | 22.000,00 |
+| 19 | E.M. Marlene Pereira Rancante | Noroeste | 22.000,00 |
+| 20 | E.M. Professor Cláudio Brandão | Noroeste | 22.000,00 |
+| 21 | E.M. Professor João Camilo de Oliveira Torres | Noroeste | 22.000,00 |
+| 22 | E.M. Deputado Milton Salles | Oeste | 22.000,00 |
+| 23 | E.M. João do Patrocínio | Oeste | 22.000,00 |
+| 24 | E.M. Padre Henrique Brandão | Oeste | 22.000,00 |
+| 25 | E.M. Salgado Filho | Oeste | 22.000,00 |
+| 26 | E.M. Tenente Manoel Magalhães Penido | Oeste | 22.000,00 |
+| 27 | E.M. Professor Alice Nacif | Pampulha | 22.000,00 |
+| 28 | E.M. Antônia Ferreira | Venda Nova | 22.000,00 |
+| 29 | E.M. Carlos Drumond de Andrade | Venda Nova | 22.000,00 |
+| 30 | E.M. Milton Campos | Venda Nova | 22.000,00 |
+| 31 | E.M. Vicente Guimarães | Venda Nova | 22.000,00 |
+| Total | 682.000,00 |  |  |

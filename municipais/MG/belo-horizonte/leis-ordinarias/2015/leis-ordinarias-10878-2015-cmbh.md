@@ -76,17 +76,13 @@ Subseção III Da Procuradoria-Geral Adjunta Tributária do Município
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS E FUNÇÕES ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|[...] |[...] |[...] |
-
-| |Procurador-Geral Adjunto Contencioso |1 |
-
-| |Procurador-Geral Adjunto |1 |
-
-| |Administrativo-Consultivo | |
-
-| |Procurador-Geral Adjunto Tributário |1 |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| [...] | [...] | [...] |
+|  | Procurador-Geral Adjunto Contencioso | 1 |
+|  | Procurador-Geral Adjunto | 1 |
+|  | Administrativo-Consultivo |  |
+|  | Procurador-Geral Adjunto Tributário | 1 |
 
 ”(NR)
 
@@ -96,15 +92,12 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA 
 
 QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|[...] |[...] |
-
-|Procurador-Geral Adjunto Contencioso |Curso superior de Direito e registro profissional |
-
-|Procurador-Geral Adjunto Administrativo-Consultivo |Curso superior de Direito e registro profissional |
-
-|Procurador-Geral Adjunto Tributário |Curso superior de Direito e registro profissional |
+| CARGO | REQUISITO PARA PROVIMENTO |
+| --- | --- |
+| [...] | [...] |
+| Procurador-Geral Adjunto Contencioso | Curso superior de Direito e registro profissional |
+| Procurador-Geral Adjunto Administrativo-Consultivo | Curso superior de Direito e registro profissional |
+| Procurador-Geral Adjunto Tributário | Curso superior de Direito e registro profissional |
 
 ”(NR)
 

@@ -28,29 +28,19 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições, em especial a
 
 **Art. 1º** - O processo de avaliação de desempenho destinado à promoção do Guarda Municipal aos postos de hierarquia superior da Carreira instituída pela Lei nº 10.497, de 26 de junho de 2012, é composto, nos termos do § 2º do art. 2º da referida lei, pelas seguintes etapas:
 
-|POSTO HIERÁRQUICO |ETAPAS DO PROCESSO DE AVALIAÇÃO DE DESEMPENHO |
-
-|Guarda Municipal Classe |Seleção Interna e Análise Conclusiva de Títulos |
-
-|Especial | |
-
-|Subinspetor I |Exame Introdutório, Curso Específico de 120 horas/aula e Análise |
-
-| |Conclusiva de Títulos |
-
-|Subinspetor II |Seleção Interna e Análise Conclusiva de Títulos |
-
-|Inspetor I |Exame Introdutório, Curso Específico de 200 horas/aula e Análise |
-
-| |Conclusiva de Títulos |
-
-|Inspetor II |Seleção Interna e Análise Conclusiva de Títulos |
-
-|Supervisor |Exame Introdutório, Curso Específico de 360 horas/aula, com apresentação|
-
-| |de trabalho final, e Análise Conclusiva de Títulos |
-
-|Superintendente |Seleção Interna e Análise Conclusiva de Títulos |
+| POSTO HIERÁRQUICO | ETAPAS DO PROCESSO DE AVALIAÇÃO DE DESEMPENHO |
+| --- | --- |
+| Guarda Municipal Classe | Seleção Interna e Análise Conclusiva de Títulos |
+| Especial |  |
+| Subinspetor I | Exame Introdutório, Curso Específico de 120 horas/aula e Análise |
+|  | Conclusiva de Títulos |
+| Subinspetor II | Seleção Interna e Análise Conclusiva de Títulos |
+| Inspetor I | Exame Introdutório, Curso Específico de 200 horas/aula e Análise |
+|  | Conclusiva de Títulos |
+| Inspetor II | Seleção Interna e Análise Conclusiva de Títulos |
+| Supervisor | Exame Introdutório, Curso Específico de 360 horas/aula, com apresentação |
+|  | de trabalho final, e Análise Conclusiva de Títulos |
+| Superintendente | Seleção Interna e Análise Conclusiva de Títulos |
 
 **Art. 2º** - As seleções internas e os exames introdutórios serão aplicados em conformidade com as regras divulgadas em edital expedido pela Secretaria Municipal de Segurança Urbana e Patrimonial – SMSEG, que deverá prever, dentre outros requisitos, a aplicação de prova objetiva, de caráter eliminatório e classificatório, acerca das rotinas operacionais e da legislação aplicada à Guarda Municipal de Belo Horizonte.
 

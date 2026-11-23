@@ -58,49 +58,32 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei nº | |
-
-|11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|3802.20.608.0308.2121.339039.1.500.000 |150.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0019.2308.449052.1.500.000 |8.547,24 |
-
-|3701.08.244.0113.2916.339039.1.500.000 |149.157,20 |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.449052.1.500.000 |3.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |310.704,44 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei nº |  |
+| 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 3802.20.608.0308.2121.339039.1.500.000 | 150.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0019.2308.449052.1.500.000 | 8.547,24 |
+| 3701.08.244.0113.2916.339039.1.500.000 | 149.157,20 |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.449052.1.500.000 | 3.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 310.704,44 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2927.339039.1.500.000 |50.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.245.0019.2308.339039.1.500.000 |207.704,44 |
-
-|1011.08.243.0020.2409.339039.1.500.000 |50.000,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.449052.1.500.000 |3.000,00 |
-
-|TOTAL DA ANULAÇÃO |310.704,44 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2927.339039.1.500.000 | 50.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.245.0019.2308.339039.1.500.000 | 207.704,44 |
+| 1011.08.243.0020.2409.339039.1.500.000 | 50.000,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.449052.1.500.000 | 3.000,00 |
+| TOTAL DA ANULAÇÃO | 310.704,44 |
 
 ANEXO II
 
@@ -128,20 +111,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos suplementares abertos anteriormente |809.405.379,03 |
-
-|Valor do Decreto publicado nesta data |310.704,44 |
-
-|Valor total dos créditos suplementares abertos no exercício |809.716.083,47 |
-
-|Saldo atual do limite autorizado |1.239.311.143,46 |
-
-|Percentual utilizado |39,52% |
-
-|Atualizado em 24/04/2025 às 14:51:38 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos suplementares abertos anteriormente | 809.405.379,03 |
+| Valor do Decreto publicado nesta data | 310.704,44 |
+| Valor total dos créditos suplementares abertos no exercício | 809.716.083,47 |
+| Saldo atual do limite autorizado | 1.239.311.143,46 |
+| Percentual utilizado | 39,52% |
+| Atualizado em 24/04/2025 às 14:51:38 |  |

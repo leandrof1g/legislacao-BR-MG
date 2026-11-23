@@ -48,71 +48,40 @@ ANEXO I
 
 (a que se refere o art. 2º do Decreto nº 16.676, de 31 de agosto de 2017)
 
-|DISTRIBUIÇÃO DE PONTOS UNITÁRIOS DE DAM E FCA |
-
-|ÓRGÃOS |TOTAL DE PONTOS DAM |TOTAL DE PONTOS FCA |
-
-| |UNITÁRIOS |UNITÁRIOS |
-
-|Secretaria Municipal de Assistência Social, |329,5 |145 |
-
-|Segurança Alimentar e Cidadania | | |
-
-|Secretaria Municipal de Assuntos Institucionais|176 |2,5 |
-
-|e Comunicação Social | | |
-
-|Secretaria Municipal de Cultura |69 |11,5 |
-
-|Secretaria Municipal de Desenvolvimento |59,5 |12 |
-
-|Econômico | | |
-
-|Secretaria Municipal de Educação |166,5 |17,5 |
-
-|Secretaria Municipal de Esportes e Lazer |117 |10 |
-
-|Secretaria Municipal de Fazenda |252 |179 |
-
-|Secretaria Municipal de Governo |253,5 |0 |
-
-|Secretaria Municipal de Meio Ambiente |99 |2,5 |
-
-|Secretaria Municipal de Obras e Infraestrutura |354,5 |12,5 |
-
-|Secretaria Municipal de Planejamento, Orçamento|383 |75 |
-
-|e Gestão | | |
-
-|Secretaria Municipal de Política Urbana |474 |47,5 |
-
-|Secretaria Municipal de Saúde |275 |0 |
-
-|Secretaria Municipal de Segurança e Prevenção |198 |28 |
-
-|Procuradoria-Geral do Município |392 |12,5 |
-
-|Controladoria-Geral do Município |121 |1 |
-
-|Fundação de Parques Municipais e Zoobotânica |176 |25 |
-
-|Fundação Municipal de Cultura |149 |32,5 |
-
-|Gabinete do Prefeito |982,5 |52 |
-
-|Gabinete do Vice-Prefeito |0 |0 |
-
-|Hospital Metropolitano Odilon Behrens |168 |0 |
-
-|Superintendência de Desenvolvimento da Capital |253,5 |0 |
-
-|Superintendência de Limpeza Urbana |241 |30 |
-
-|Superintendência de Mobilidade do Município de |171,5 |0 |
-
-|Belo Horizonte | | |
-
-|TOTAL DE PONTOS |5.861 |696 |
+| DISTRIBUIÇÃO DE PONTOS UNITÁRIOS DE DAM E FCA |  |  |
+| --- | --- | --- |
+| ÓRGÃOS | TOTAL DE PONTOS DAM | TOTAL DE PONTOS FCA |
+|  | UNITÁRIOS | UNITÁRIOS |
+| Secretaria Municipal de Assistência Social, | 329,5 | 145 |
+| Segurança Alimentar e Cidadania |  |  |
+| Secretaria Municipal de Assuntos Institucionais | 176 | 2,5 |
+| e Comunicação Social |  |  |
+| Secretaria Municipal de Cultura | 69 | 11,5 |
+| Secretaria Municipal de Desenvolvimento | 59,5 | 12 |
+| Econômico |  |  |
+| Secretaria Municipal de Educação | 166,5 | 17,5 |
+| Secretaria Municipal de Esportes e Lazer | 117 | 10 |
+| Secretaria Municipal de Fazenda | 252 | 179 |
+| Secretaria Municipal de Governo | 253,5 | 0 |
+| Secretaria Municipal de Meio Ambiente | 99 | 2,5 |
+| Secretaria Municipal de Obras e Infraestrutura | 354,5 | 12,5 |
+| Secretaria Municipal de Planejamento, Orçamento | 383 | 75 |
+| e Gestão |  |  |
+| Secretaria Municipal de Política Urbana | 474 | 47,5 |
+| Secretaria Municipal de Saúde | 275 | 0 |
+| Secretaria Municipal de Segurança e Prevenção | 198 | 28 |
+| Procuradoria-Geral do Município | 392 | 12,5 |
+| Controladoria-Geral do Município | 121 | 1 |
+| Fundação de Parques Municipais e Zoobotânica | 176 | 25 |
+| Fundação Municipal de Cultura | 149 | 32,5 |
+| Gabinete do Prefeito | 982,5 | 52 |
+| Gabinete do Vice-Prefeito | 0 | 0 |
+| Hospital Metropolitano Odilon Behrens | 168 | 0 |
+| Superintendência de Desenvolvimento da Capital | 253,5 | 0 |
+| Superintendência de Limpeza Urbana | 241 | 30 |
+| Superintendência de Mobilidade do Município de | 171,5 | 0 |
+| Belo Horizonte |  |  |
+| TOTAL DE PONTOS | 5.861 | 696 |
 
 ”
 
@@ -128,58 +97,33 @@ ANEXO II
 
 IV.24 – Superintendência de Mobilidade do Município de Belo Horizonte – Sumob:
 
-|SUMOB |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |0 |- |
-
-| |AMPLO |2 |SUMO.DAM1.A.001 a SUMO.DAM1.A.002 |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |7 |SUMO.DAM2.A.001 a SUMO.DAM2.A.007 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SUMO.DAM3.A.001 |
-
-|DAM-4 |LIMITADO |0 |- |
-
-| |AMPLO |10 |SUMO.DAM4.A.001 a SUMO.DAM4.A.010 |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |6 |SUMO.DAM5.A.001 a SUMO.DAM5.A.006 |
-
-|DAM-6 |LIMITADO |0 |- |
-
-| |AMPLO |8 |SUMO.DAM6.A.001 a SUMO.DAM6.A.008 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |4 |SUMO.DAM7.A.001 a SUMO.DAM7.A.004 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SUMO.DAM8.A.001 |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |4 |SUMO.DAM9.A.001 a SUMO.DAM9.A.004 |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |43 | |
+| SUMOB |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 0 | - |
+|  | AMPLO | 2 | SUMO.DAM1.A.001 a SUMO.DAM1.A.002 |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 7 | SUMO.DAM2.A.001 a SUMO.DAM2.A.007 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SUMO.DAM3.A.001 |
+| DAM-4 | LIMITADO | 0 | - |
+|  | AMPLO | 10 | SUMO.DAM4.A.001 a SUMO.DAM4.A.010 |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 6 | SUMO.DAM5.A.001 a SUMO.DAM5.A.006 |
+| DAM-6 | LIMITADO | 0 | - |
+|  | AMPLO | 8 | SUMO.DAM6.A.001 a SUMO.DAM6.A.008 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 4 | SUMO.DAM7.A.001 a SUMO.DAM7.A.004 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SUMO.DAM8.A.001 |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 4 | SUMO.DAM9.A.001 a SUMO.DAM9.A.004 |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 43 |  |  |
 
 ”

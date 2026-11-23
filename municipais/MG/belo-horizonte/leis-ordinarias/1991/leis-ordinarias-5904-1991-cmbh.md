@@ -242,41 +242,25 @@ FUNDAÇÃO ZOO-BOTÂNICA DE BELO HORIZONTE
 
 CARGOS DE PROVIMENTO EM COMISSÃO
 
-|DENOMINAÇÃO |Nº DE CARGOS |RECRUTAMENTO |
-
-|Presidente |01 |Amplo |
-
-|Diretor |03 |Amplo |
-
-|Diretor |04 |Amplo |
-
-|Cargo com redação dada pela Lei nº | | |
-
-|9.011, de 1/1/2005 (Art. 129) | | |
-
-|Assessor I | | |
-
-|Assessor II |02 |Amplo |
-
-|Assessor III |02 |Amplo |
-
-|Chefe de Serviço |02 |Amplo |
-
-|Chefe de Serviço |01 |Limitado |
-
-|Cargo com redação dada pela Lei nº |02 |Limitado |
-
-|9.011, de 1/1/2005 (Art. 129) | | |
-
-|Chefe de Seção | | |
-
-|Chefe de Setor |14 |Limitado |
-
-|Assistente |05 |Limitado |
-
-|Encarregado de Serviço |01 |Amplo |
-
-| |10 |Limitado |
+| DENOMINAÇÃO | Nº DE CARGOS | RECRUTAMENTO |
+| --- | --- | --- |
+| Presidente | 01 | Amplo |
+| Diretor | 03 | Amplo |
+| Diretor | 04 | Amplo |
+| Cargo com redação dada pela Lei nº |  |  |
+| 9.011, de 1/1/2005 (Art. 129) |  |  |
+| Assessor I |  |  |
+| Assessor II | 02 | Amplo |
+| Assessor III | 02 | Amplo |
+| Chefe de Serviço | 02 | Amplo |
+| Chefe de Serviço | 01 | Limitado |
+| Cargo com redação dada pela Lei nº | 02 | Limitado |
+| 9.011, de 1/1/2005 (Art. 129) |  |  |
+| Chefe de Seção |  |  |
+| Chefe de Setor | 14 | Limitado |
+| Assistente | 05 | Limitado |
+| Encarregado de Serviço | 01 | Amplo |
+|  | 10 | Limitado |
 
 ANEXO II A QUE SE REFERE O ART. 10 DA LEI N° 5.904
 
@@ -284,63 +268,36 @@ FUNDAÇÃO ZOO-BOTÂNICA DE BELO HORIZONTE
 
 CARGOS/EMPREGOS EFETIVOS
 
-|DENOMINAÇÃO |Nº DE CARGOS |N° DE EMPREGOS |
-
-|Ajudante Serviço Público |-- |65 |
-
-|Auxiliar de Administração |-- |01 |
-
-|Auxiliar Serv. Administ. |01 |18 |
-
-|Oficial Serv. Público I |-- |21 |
-
-|Oficial Serv. Público II |01 |04 |
-
-|Motorista |05 |-- |
-
-|Tratador de Animais |-- |29 |
-
-|Agente de Administração I |18 |03 |
-
-|Agente de Administração II |05 |01 |
-
-|Agente de Administração III |03 |03 |
-
-|*Téc. Nível Médio I |02 |-- |
-
-|Téc. Nível Médio II |01 |-- |
-
-|Téc. Nível Médio III |01 |-- |
-
-|**Téc. Sup. Serv. Público I |18 |-- |
-
-|Téc. Sup. Serv. Público II |09 |-- |
-
-|Téc. Sup. Serv. Público III |04 |-- |
-
-|Jardineiro |- |08 |
-
-|Cargo acrescentado pela Lei nº 6278, de | | |
-
-|7/12/1992 (Art. 3º) | | |
-
-|Porteiro-Bilheteiro |- |04 |
-
-|Cargo acrescentado pela Lei nº 6278, de | | |
-
-|7/12/1992 (Art. 3º) | | |
-
-|DENOMINAÇÃO |Nº DE VAGAS |
-
-|Técnico Nível Médio I |4 |
-
-|Técnico Superior de Serviço Público I |5 |
-
-|Porteiro-Bilheteiro |6 |
-
-|Tratador de Animais |5 |
-
-|Jardineiro |3 |
+| DENOMINAÇÃO | Nº DE CARGOS | N° DE EMPREGOS |
+| --- | --- | --- |
+| Ajudante Serviço Público | -- | 65 |
+| Auxiliar de Administração | -- | 01 |
+| Auxiliar Serv. Administ. | 01 | 18 |
+| Oficial Serv. Público I | -- | 21 |
+| Oficial Serv. Público II | 01 | 04 |
+| Motorista | 05 | -- |
+| Tratador de Animais | -- | 29 |
+| Agente de Administração I | 18 | 03 |
+| Agente de Administração II | 05 | 01 |
+| Agente de Administração III | 03 | 03 |
+| *Téc. Nível Médio I | 02 | -- |
+| Téc. Nível Médio II | 01 | -- |
+| Téc. Nível Médio III | 01 | -- |
+| **Téc. Sup. Serv. Público I | 18 | -- |
+| Téc. Sup. Serv. Público II | 09 | -- |
+| Téc. Sup. Serv. Público III | 04 | -- |
+| Jardineiro | - | 08 |
+| Cargo acrescentado pela Lei nº 6278, de |  |  |
+| 7/12/1992 (Art. 3º) |  |  |
+| Porteiro-Bilheteiro | - | 04 |
+| Cargo acrescentado pela Lei nº 6278, de |  |  |
+| 7/12/1992 (Art. 3º) |  |  |
+| DENOMINAÇÃO | Nº DE VAGAS |  |
+| Técnico Nível Médio I | 4 |  |
+| Técnico Superior de Serviço Público I | 5 |  |
+| Porteiro-Bilheteiro | 6 |  |
+| Tratador de Animais | 5 |  |
+| Jardineiro | 3 |  |
 
 Cargos acrescentados pela Lei n° 7.029, de 11/1/1996 (Art. 5°)
 

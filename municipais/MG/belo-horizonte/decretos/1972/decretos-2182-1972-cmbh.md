@@ -72,7 +72,7 @@ Secretário Municipal da Fazenda
 
 ANEXO I
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

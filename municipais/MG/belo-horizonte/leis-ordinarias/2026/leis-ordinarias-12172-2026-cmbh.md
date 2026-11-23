@@ -50,11 +50,10 @@ SEMANA COMEMORATIVA
 
 H - Semanas comemorativas de agosto:
 
-|DATA |COMEMORAÇÃO |
-
-|Primeira semana de |Semana Municipal Escolar de Prevenção e Combate à Violência contra a |
-
-|agosto |Mulher |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Primeira semana de | Semana Municipal Escolar de Prevenção e Combate à Violência contra a |
+| agosto | Mulher |
 
 .”.
 

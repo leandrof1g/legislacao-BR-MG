@@ -174,7 +174,7 @@ ______________________________________________________________________________
 
 (+ +) - Seis cargos já existentes na atual estrutura da Prefeitura e dois transformados por este Decreto
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

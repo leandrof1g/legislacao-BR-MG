@@ -32,9 +32,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 J - Dias comemorativos de outubro:
 
-|DATA |COMEMORAÇÃO |
-
-|19/10 |Dia do Procurador do Município |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 19/10 | Dia do Procurador do Município |
 
 .”.
 

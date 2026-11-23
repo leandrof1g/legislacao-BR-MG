@@ -58,37 +58,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § |R$ |
-
-|3º do art. 19 da Lei nº 11.742, de 13 de setembro de 2024, e no art. 1º da Lei nº | |
-
-|11.875, de 14 de julho de 2025: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.1.500.000 |750.000,00 |
-
-|2700.16.482.0225.1231.449051.1.500.000 |50.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |800.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 3º do art. 19 da Lei nº 11.742, de 13 de setembro de 2024, e no art. 1º da Lei nº |  |
+| 11.875, de 14 de julho de 2025: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.1.500.000 | 750.000,00 |
+| 2700.16.482.0225.1231.449051.1.500.000 | 50.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 800.000,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º.
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, | |
-
-|conforme autorização contida no art. 2º da Lei nº 11.875, de 14 de julho de 2025: | |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449051.1.500.000 |50.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.1.500.000 |750.000,00 |
-
-|TOTAL DA ANULAÇÃO |800.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, |  |
+| conforme autorização contida no art. 2º da Lei nº 11.875, de 14 de julho de 2025: |  |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449051.1.500.000 | 50.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.1.500.000 | 750.000,00 |
+| TOTAL DA ANULAÇÃO | 800.000,00 |
 
 ANEXO II
 
@@ -114,20 +103,13 @@ SALDO ATUAL DE CRÉDITO SUPLEMENTAR
 
 III.1 – Demonstração do saldo de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 1º da Lei nº 11.875, de 14 de julho de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |
-
-|Art. 1º da Lei nº 11.875, de 14/07/2025 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 11.680.000,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 2.676.013,00 |
-
-|Valor do Decreto publicado nesta data |R$ 800.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 3.476.013,00 |
-
-|Saldo atual de créditos suplementares |R$ 8.203.987,00 |
-
-|Percentual utilizado |29,76% |
-
-|Atualizado em 02/10/2025 às 12:44:46 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.875, de 14/07/2025 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 11.680.000,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 2.676.013,00 |
+| Valor do Decreto publicado nesta data | R$ 800.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 3.476.013,00 |
+| Saldo atual de créditos suplementares | R$ 8.203.987,00 |
+| Percentual utilizado | 29,76% |
+| Atualizado em 02/10/2025 às 12:44:46 |  |

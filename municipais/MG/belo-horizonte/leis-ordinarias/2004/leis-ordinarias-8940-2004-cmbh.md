@@ -58,9 +58,9 @@ O Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 **Art. 5º** - Fica acrescido ao item 1.2 do Anexo I da Lei nº 7.863/99 o seguinte quadro:
 
-|“CÓDIGO |DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|CMPC14 |Assistente Parlamentar |Conf. Art. 149 |Conf. Art. 148(NR)" |
+| “CÓDIGO | DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- | --- |
+| CMPC14 | Assistente Parlamentar | Conf. Art. 149 | Conf. Art. 148(NR)" |
 
 **Art. 6º** - Esta Lei entra em vigor em 1º de janeiro de 2005.
 

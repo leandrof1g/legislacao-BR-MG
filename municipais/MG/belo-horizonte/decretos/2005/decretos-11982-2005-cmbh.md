@@ -168,57 +168,37 @@ EM ATÉ 60 MESES (VALORES EM R$)
 
 CONTRIBUINTE PESSOA FÍSICA
 
-|QTE DE PARCELAS |DEPÓSITO |VALOR MÍNIMO DA |FAIXA DE VALORES |
-
-| |INICIAL |PARCELA |R$ |
-
-| | |R$ | |
-
-|De 2 a 10 |10% |19,85 |Entre 44,10 e 382,98 |
-
-|De 11 a 20 |5% |33,08 |Entre 382,99 e 1.023,63 |
-
-|De 21 a 30 |5% |46,32 |Entre 1.023,64 e 1.902,77 |
-
-|De 31 a 40 |3% |59,54 |Entre 1.902,78 e 3.075,83 |
-
-|De 41 a 50 |3% |72,76 |Entre 3.075,84 e 4.475,54 |
-
-|De 51 a 59 |2% |86,00 |Entre 4.475,55 e 5.265,33 |
-
-|Em 60 |2% |Maior que 86,00 |Acima de 5.265,33 |
-
-| | | |* As faixas de valores deverão ser observadas em função do montante a parcelar, |
-
-| | | |incluindo o Depósito Inicial. |
+| QTE DE PARCELAS | DEPÓSITO | VALOR MÍNIMO DA | FAIXA DE VALORES |
+| --- | --- | --- | --- |
+|  | INICIAL | PARCELA | R$ |
+|  |  | R$ |  |
+| De 2 a 10 | 10% | 19,85 | Entre 44,10 e 382,98 |
+| De 11 a 20 | 5% | 33,08 | Entre 382,99 e 1.023,63 |
+| De 21 a 30 | 5% | 46,32 | Entre 1.023,64 e 1.902,77 |
+| De 31 a 40 | 3% | 59,54 | Entre 1.902,78 e 3.075,83 |
+| De 41 a 50 | 3% | 72,76 | Entre 3.075,84 e 4.475,54 |
+| De 51 a 59 | 2% | 86,00 | Entre 4.475,55 e 5.265,33 |
+| Em 60 | 2% | Maior que 86,00 | Acima de 5.265,33 |
+|  |  |  | * As faixas de valores deverão ser observadas em função do montante a parcelar, |
+|  |  |  | incluindo o Depósito Inicial. |
 
 * O parcelamento poderá ser efetuado de duas até a quantidade máxima de parcelas, desde que observado o valor mínimo da parcela;
 
 CONTRIBUINTE PESSOA JURÍDICA
 
-|QTE DE PARCELAS |DEPÓSITO |VALOR MÍNIMO DA |FAIXA DE VALORES |
-
-| |INICIAL |PARCELA |R$ |
-
-| | |R$ | |
-
-|De 2 a 10 |10% |46,32 |Entre 102,92 e 995,79 |
-
-|De 11 a 20 |5% |86,00 |Entre 995,80 e 2.778,48 |
-
-|De 21 a 30 |5% |125,69 |Entre 2.778,49 e 5.285,53 |
-
-|De 31 a 40 |3% |165,39 |Entre 5.285,54 e 9.227,51 |
-
-|De 41 a 50 |3% |218,31 |Entre 9.227,52 e 13.426,64 |
-
-|De 51 a 59 |2% |258,00 |Entre 13.426,65 e 15.796,05 |
-
-|Em 60 |2% |Maior que 258,00 |Acima de 15.796,05 |
-
-| | | |*As faixas de valores deverão ser observadas em função do montante a parcelar, |
-
-| | | |incluindo o Deposito Inicial. |
+| QTE DE PARCELAS | DEPÓSITO | VALOR MÍNIMO DA | FAIXA DE VALORES |
+| --- | --- | --- | --- |
+|  | INICIAL | PARCELA | R$ |
+|  |  | R$ |  |
+| De 2 a 10 | 10% | 46,32 | Entre 102,92 e 995,79 |
+| De 11 a 20 | 5% | 86,00 | Entre 995,80 e 2.778,48 |
+| De 21 a 30 | 5% | 125,69 | Entre 2.778,49 e 5.285,53 |
+| De 31 a 40 | 3% | 165,39 | Entre 5.285,54 e 9.227,51 |
+| De 41 a 50 | 3% | 218,31 | Entre 9.227,52 e 13.426,64 |
+| De 51 a 59 | 2% | 258,00 | Entre 13.426,65 e 15.796,05 |
+| Em 60 | 2% | Maior que 258,00 | Acima de 15.796,05 |
+|  |  |  | *As faixas de valores deverão ser observadas em função do montante a parcelar, |
+|  |  |  | incluindo o Deposito Inicial. |
 
 · O parcelamento poderá ser efetuado de duas até a quantidade máxima de parcelas, desde que observado o valor mínimo da parcela.
 
@@ -226,68 +206,37 @@ ANEXO II
 
 TABELA DE PARCELAMENTO DE HONORÁRIOS
 
-|N° de Parcelas |N° Parcelas de Honorários |
-
-|de 1 a 1 |1 |
-
-|de 2 a 2 |2 |
-
-|de 3 a 15 |3 |
-
-|de 16 a 20 |4 |
-
-|de 21 a 25 |5 |
-
-|de 26 a 30 |6 |
-
-|de 31 a 35 |7 |
-
-|de 36 a 40 |8 |
-
-|de 41 a 45 |9 |
-
-|de 46 a 50 |10 |
-
-|de 51 a 55 |11 |
-
-|de 56 a 60 |12 |
-
-|de 61 a 65 |13 |
-
-|de 66 a 70 |14 |
-
-|de 71 a 75 |15 |
-
-|de 76 a 80 |16 |
-
-|de 81 a 85 |17 |
-
-|de 86 a 90 |18 |
-
-|de 91 a 95 |19 |
-
-|de 96 a 100 |20 |
-
-|de 101 a 105 |21 |
-
-|de 106 a 110 |22 |
-
-|de 111 a 115 |23 |
-
-|de 116 a 120 |24 |
-
-|de 121 a 125 |25 |
-
-|de 126 a 130 |26 |
-
-|de 131 a 135 |27 |
-
-|de 136 a 140 |28 |
-
-|de 141 a 145 |29 |
-
-|de 146 a 180 |30 |
-
-| |Observação: O valor mínimo da parcela de honorário é de R$20,00 (vinte |
-
-| |reais). |
+| N° de Parcelas | N° Parcelas de Honorários |
+| --- | --- |
+| de 1 a 1 | 1 |
+| de 2 a 2 | 2 |
+| de 3 a 15 | 3 |
+| de 16 a 20 | 4 |
+| de 21 a 25 | 5 |
+| de 26 a 30 | 6 |
+| de 31 a 35 | 7 |
+| de 36 a 40 | 8 |
+| de 41 a 45 | 9 |
+| de 46 a 50 | 10 |
+| de 51 a 55 | 11 |
+| de 56 a 60 | 12 |
+| de 61 a 65 | 13 |
+| de 66 a 70 | 14 |
+| de 71 a 75 | 15 |
+| de 76 a 80 | 16 |
+| de 81 a 85 | 17 |
+| de 86 a 90 | 18 |
+| de 91 a 95 | 19 |
+| de 96 a 100 | 20 |
+| de 101 a 105 | 21 |
+| de 106 a 110 | 22 |
+| de 111 a 115 | 23 |
+| de 116 a 120 | 24 |
+| de 121 a 125 | 25 |
+| de 126 a 130 | 26 |
+| de 131 a 135 | 27 |
+| de 136 a 140 | 28 |
+| de 141 a 145 | 29 |
+| de 146 a 180 | 30 |
+|  | Observação: O valor mínimo da parcela de honorário é de R$20,00 (vinte |
+|  | reais). |

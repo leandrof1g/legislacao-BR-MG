@@ -58,27 +58,21 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei nº |R$ |
-
-|11.644, de 29 de dezembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339032.1.500.000 |90.148,61 |
-
-|TOTAL DA SUPLEMENTAÇÃO |90.148,61 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei nº | R$ |
+| --- | --- |
+| 11.644, de 29 de dezembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339032.1.500.000 | 90.148,61 |
+| TOTAL DA SUPLEMENTAÇÃO | 90.148,61 |
 
 I.2 – Anulação da dotação orçamentária a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.449051.1.500.000 |90.148,61 |
-
-|TOTAL DA ANULAÇÃO |90.148,61 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.449051.1.500.000 | 90.148,61 |
+| TOTAL DA ANULAÇÃO | 90.148,61 |
 
 ANEXO II
 
@@ -102,26 +96,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 4º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 4º, limite de 15% do valor|
-
-|abertura de créditos suplementares para o Fundo Municipal de |total do Orçamento: |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 2.974.999.158,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 74.392.899,94 |
-
-|Valor do Decreto publicado nesta data |R$ 90.148,61 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 74.483.048,55 |
-
-|Saldo atual de créditos suplementares |R$ 2.900.516.110,05 |
-
-|Percentual utilizado |2,50% |
-
-|Atualizado em 08/08/2024 às 14:20:44 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 4º, limite de 15% do valor |
+| abertura de créditos suplementares para o Fundo Municipal de | total do Orçamento: |
+| Saúde. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 2.974.999.158,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 74.392.899,94 |
+| Valor do Decreto publicado nesta data | R$ 90.148,61 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 74.483.048,55 |
+| Saldo atual de créditos suplementares | R$ 2.900.516.110,05 |
+| Percentual utilizado | 2,50% |
+| Atualizado em 08/08/2024 às 14:20:44 |  |

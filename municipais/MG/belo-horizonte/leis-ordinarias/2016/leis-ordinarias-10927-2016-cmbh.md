@@ -34,9 +34,9 @@ O Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 **§ 1°** - O nível de escolaridade exigido para provimento do cargo público efetivo de Fiscal de Atividades Urbanas e Controle Ambiental é de ensino superior completo, e o seu quantitativo é o seguinte:
 
-|CARGO PÚBLICO EFETIVO |QUANTITATIVO |
-
-|Fiscal de Atividades Urbanas e Controle Ambiental |600 (seiscentas) vagas |
+| CARGO PÚBLICO EFETIVO | QUANTITATIVO |
+| --- | --- |
+| Fiscal de Atividades Urbanas e Controle Ambiental | 600 (seiscentas) vagas |
 
 **§ 2°** - O Fiscal de Atividades Urbanas e Controle Ambiental desenvolverá suas atividades na Secretaria Municipal Adjunta de Fiscalização, nas unidades administrativas dos órgãos e das entidades da Administração Municipal e nos locais onde for designado para o cumprimento de suas atribuições institucionais.
 

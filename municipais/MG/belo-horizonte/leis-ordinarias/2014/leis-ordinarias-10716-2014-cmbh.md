@@ -72,25 +72,17 @@ XI - Anexo XIV - Parâmetros urbanísticos das AEIS-1.”. (NR)
 
 “Anexo XIV - Parâmetros urbanísticos para AEIS-1
 
-| |AEIS-1 |
-
-|Coeficiente de aproveitamento |2,8 (v. nota 1) |
-
-| |2,5 (v. nota 2) |
-
-| |1,7 (v. nota 3) |
-
-|Quota de terreno por unidade habitacional |- |
-
-|Taxa de Permeabilidade |Conforme art. 160. |
-
-|Destinação das unidades habitacionais por faixa de renda|70% - até 3 (três) salários mínimos |
-
-|(v. nota 4) | |
-
-| |30% - acima de 3 (três) e até 6 (seis) |
-
-| |salários mínimos |
+|  | AEIS-1 |
+| --- | --- |
+| Coeficiente de aproveitamento | 2,8 (v. nota 1) |
+|  | 2,5 (v. nota 2) |
+|  | 1,7 (v. nota 3) |
+| Quota de terreno por unidade habitacional | - |
+| Taxa de Permeabilidade | Conforme art. 160. |
+| Destinação das unidades habitacionais por faixa de renda | 70% - até 3 (três) salários mínimos |
+| (v. nota 4) |  |
+|  | 30% - acima de 3 (três) e até 6 (seis) |
+|  | salários mínimos |
 
 Nota 1. Coeficiente aplicável para lotes que atendam às seguintes condições: a) estejam inseridos em empreendimentos que abarquem, no mínimo, 2/3 (dois terços) da área da mancha de AEIS-1, incluídas nessa fração as Áreas de Preservação Permanente vinculadas aos mesmos, bem como as áreas transferidas ao Município por força da legislação relativa ao parcelamento do solo; b) que sejam destinados a edificações de uso misto nas quais o pavimento térreo seja ocupado por atividades de uso não residencial voltadas para o logradouro público, exceto estacionamento.
 

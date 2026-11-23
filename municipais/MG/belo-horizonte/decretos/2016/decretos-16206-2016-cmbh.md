@@ -106,4 +106,5 @@ Programação das Despesas de Custeios – Outras Despesas Correntes
 
 Recursos Ordinários do Tesouro
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

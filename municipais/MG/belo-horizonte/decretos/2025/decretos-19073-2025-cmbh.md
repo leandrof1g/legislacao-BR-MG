@@ -58,49 +58,32 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 | |
-
-|da Lei nº 11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Mobilidade Urbana – FMU |
-
-|3502.26.452.0060.2837.339039.1.500.000 |230.000,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|3503.26.452.0060.2567.339030.1.500.000 |1.199.330,04 |
-
-|3503.26.452.0060.2567.339039.1.500.000 |458.656,11 |
-
-|3503.26.452.0060.2567.339040.1.500.000 |296.281,16 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0127.2928.339039.1.500.000 |50.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.234.267,31 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 |  |
+| da Lei nº 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Mobilidade Urbana – FMU |  |
+| 3502.26.452.0060.2837.339039.1.500.000 | 230.000,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3503.26.452.0060.2567.339030.1.500.000 | 1.199.330,04 |
+| 3503.26.452.0060.2567.339039.1.500.000 | 458.656,11 |
+| 3503.26.452.0060.2567.339040.1.500.000 | 296.281,16 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0127.2928.339039.1.500.000 | 50.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.234.267,31 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2930.339039.1.500.000 |50.000,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0060.2567.339040.1.500.000 |1.954.267,31 |
-
-|3302.26.452.0060.2567.339037.1.500.000 |100.000,00 |
-
-|3302.26.452.0060.2567.339039.1.500.000 |130.000,00 |
-
-|TOTAL DA ANULAÇÃO |2.234.267,31 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2930.339039.1.500.000 | 50.000,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0060.2567.339040.1.500.000 | 1.954.267,31 |
+| 3302.26.452.0060.2567.339037.1.500.000 | 100.000,00 |
+| 3302.26.452.0060.2567.339039.1.500.000 | 130.000,00 |
+| TOTAL DA ANULAÇÃO | 2.234.267,31 |
 
 ANEXO II
 
@@ -128,20 +111,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos suplementares abertos anteriormente |807.171.111,72 |
-
-|Valor do Decreto publicado nesta data |2.234.267,31 |
-
-|Valor total dos créditos suplementares abertos no exercício |809.405.379,03 |
-
-|Saldo atual do limite autorizado |1.239.621.847,90 |
-
-|Percentual utilizado |39,50% |
-
-|Atualizado em 15/04/2025 às 11:25:52 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos suplementares abertos anteriormente | 807.171.111,72 |
+| Valor do Decreto publicado nesta data | 2.234.267,31 |
+| Valor total dos créditos suplementares abertos no exercício | 809.405.379,03 |
+| Saldo atual do limite autorizado | 1.239.621.847,90 |
+| Percentual utilizado | 39,50% |
+| Atualizado em 15/04/2025 às 11:25:52 |  |

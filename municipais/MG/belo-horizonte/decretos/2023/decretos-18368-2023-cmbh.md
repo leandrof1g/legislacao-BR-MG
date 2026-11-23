@@ -58,115 +58,65 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da Lei|R$ |
-
-|nº 11.442, de 29 de dezembro de 2022: | |
-
-|Procuradoria-Geral do Município – PGM |
-
-|0500.1200.04.062.003.2.028.339036.500 |160.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.1100.06.122.242.2.881.339039.500 |174.247,00 |
-
-|2100.2900.06.181.109.2.803.339093.500 |1.584.119,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0200.15.452.057.2.770.339039.500 |100.000,00 |
-
-|2700.0800.15.452.057.2.770.339039.500 |100.000,00 |
-
-|2700.1100.04.122.233.1.219.339037.500 |400.000,00 |
-
-|2700.1100.04.122.233.1.219.339039.500 |400.000,00 |
-
-|2700.1100.15.452.057.2.770.339037.500 |100.000,00 |
-
-|2700.1100.15.452.057.2.770.339039.500 |800.000,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.1100.08.122.123.2.900.449040.500 |137.592,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.0600.08.244.113.2.327.339037.500 |221.132,00 |
-
-|1011.0800.08.244.113.2.327.339037.500 |184.116,00 |
-
-|1011.1100.08.244.113.2.804.449052.661 |75.745,00 |
-
-|1011.1100.08.244.113.2.804.449052.660 |63.000,00 |
-
-|1011.0100.08.244.113.2.327.339037.500 |48.657,00 |
-
-|1011.0200.08.244.113.2.327.339037.500 |63.926,00 |
-
-|1011.0300.08.244.113.2.327.339037.500 |37.000,00 |
-
-|1011.0400.08.244.113.2.327.339037.500 |35.000,00 |
-
-|1011.0500.08.244.113.2.327.339037.500 |35.000,00 |
-
-|1011.0700.08.244.113.2.327.339037.500 |35.000,00 |
-
-|1011.0900.08.244.113.2.327.339037.500 |35.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.1100.27.812.101.2.534.449052.500 |12.844,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.802.378,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.442, de 29 de dezembro de 2022: |  |
+| Procuradoria-Geral do Município – PGM |  |
+| 0500.1200.04.062.003.2.028.339036.500 | 160.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.1100.06.122.242.2.881.339039.500 | 174.247,00 |
+| 2100.2900.06.181.109.2.803.339093.500 | 1.584.119,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0200.15.452.057.2.770.339039.500 | 100.000,00 |
+| 2700.0800.15.452.057.2.770.339039.500 | 100.000,00 |
+| 2700.1100.04.122.233.1.219.339037.500 | 400.000,00 |
+| 2700.1100.04.122.233.1.219.339039.500 | 400.000,00 |
+| 2700.1100.15.452.057.2.770.339037.500 | 100.000,00 |
+| 2700.1100.15.452.057.2.770.339039.500 | 800.000,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.1100.08.122.123.2.900.449040.500 | 137.592,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.0600.08.244.113.2.327.339037.500 | 221.132,00 |
+| 1011.0800.08.244.113.2.327.339037.500 | 184.116,00 |
+| 1011.1100.08.244.113.2.804.449052.661 | 75.745,00 |
+| 1011.1100.08.244.113.2.804.449052.660 | 63.000,00 |
+| 1011.0100.08.244.113.2.327.339037.500 | 48.657,00 |
+| 1011.0200.08.244.113.2.327.339037.500 | 63.926,00 |
+| 1011.0300.08.244.113.2.327.339037.500 | 37.000,00 |
+| 1011.0400.08.244.113.2.327.339037.500 | 35.000,00 |
+| 1011.0500.08.244.113.2.327.339037.500 | 35.000,00 |
+| 1011.0700.08.244.113.2.327.339037.500 | 35.000,00 |
+| 1011.0900.08.244.113.2.327.339037.500 | 35.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.812.101.2.534.449052.500 | 12.844,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.802.378,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Procuradoria-Geral do Município – PGM |
-
-|0500.1100.04.062.003.2.010.339039.500 |160.000,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.1600.04.122.014.2.809.319011.500 |1.584.119,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.2900.06.181.109.2.803.339040.500 |174.247,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0100.15.451.062.1.230.449051.500 |200.000,00 |
-
-|2700.0300.15.451.062.1.230.449051.500 |350.000,00 |
-
-|2700.0700.15.451.062.1.230.449051.500 |200.000,00 |
-
-|2700.0700.15.451.233.1.208.449051.500 |700.000,00 |
-
-|2700.1100.16.482.225.1.231.449051.500 |450.000,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.1100.08.244.123.2.804.339039.500 |137.592,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.1100.08.243.020.2.403.339039.500 |694.831,00 |
-
-|1011.1100.08.244.020.2.878.339039.660 |63.000,00 |
-
-|1011.1100.08.244.113.2.350.449040.661 |75.745,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.1100.27.812.101.2.106.449052.500 |12.844,00 |
-
-|TOTAL DA ANULAÇÃO |4.802.378,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Procuradoria-Geral do Município – PGM |  |
+| 0500.1100.04.062.003.2.010.339039.500 | 160.000,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.1600.04.122.014.2.809.319011.500 | 1.584.119,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.2900.06.181.109.2.803.339040.500 | 174.247,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0100.15.451.062.1.230.449051.500 | 200.000,00 |
+| 2700.0300.15.451.062.1.230.449051.500 | 350.000,00 |
+| 2700.0700.15.451.062.1.230.449051.500 | 200.000,00 |
+| 2700.0700.15.451.233.1.208.449051.500 | 700.000,00 |
+| 2700.1100.16.482.225.1.231.449051.500 | 450.000,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.1100.08.244.123.2.804.339039.500 | 137.592,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.1100.08.243.020.2.403.339039.500 | 694.831,00 |
+| 1011.1100.08.244.020.2.878.339039.660 | 63.000,00 |
+| 1011.1100.08.244.113.2.350.449040.661 | 75.745,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.812.101.2.106.449052.500 | 12.844,00 |
+| TOTAL DA ANULAÇÃO | 4.802.378,00 |
 
 ANEXO II
 
@@ -216,24 +166,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 520.120.131,18 |
-
-|Valor do Decreto publicado nesta data |R$ 4.802.378,00 |
-
-|Saldo atual de créditos suplementares |R$ 1.189.244.679,02 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 524.922.509,18 |
-
-|Percentual utilizado |30,62% |
-
-|Atualizado em 05/07/2023 às 10:46:02 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 520.120.131,18 |
+| Valor do Decreto publicado nesta data | R$ 4.802.378,00 |
+| Saldo atual de créditos suplementares | R$ 1.189.244.679,02 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 524.922.509,18 |
+| Percentual utilizado | 30,62% |
+| Atualizado em 05/07/2023 às 10:46:02 |  |

@@ -34,9 +34,9 @@ DIA COMEMORATIVO
 
 G - Dias comemorativos de julho:
 
-|DATA |COMEMORAÇÃO |
-
-|4/7 |Dia Municipal do Cooperativismo BH |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 4/7 | Dia Municipal do Cooperativismo BH |
 
 ”.
 

@@ -36,19 +36,14 @@ PRIMEIRA - O objeto deste instrumento é propiciar recursos financeiros à Secre
 
 **Parágrafo único** - O valor convencionado será desembolsado pelo Estado e a Prefeitura de acordo com o seguinte cronograma:
 
-|MESES |VALORES |
-
-|Setembro/82 |Cr$10.000.000,00 |
-
-|Outubro/82 |Cr$30.000.000,00 |
-
-|Novembro/82 |Cr$30.000.000,00 |
-
-|Dezembro/82 |Cr$10.000.000,00 |
-
-|Janeiro/83 |Cr$20.000.000,00 |
-
-|SOMA |Cr$100.000.000,00 |
+| MESES | VALORES |
+| --- | --- |
+| Setembro/82 | Cr$10.000.000,00 |
+| Outubro/82 | Cr$30.000.000,00 |
+| Novembro/82 | Cr$30.000.000,00 |
+| Dezembro/82 | Cr$10.000.000,00 |
+| Janeiro/83 | Cr$20.000.000,00 |
+| SOMA | Cr$100.000.000,00 |
 
 SEGUNDA - Os recursos necessários à execução do presente convênio, serão provenientes do Governo do Estado de Minas Gerais.
 

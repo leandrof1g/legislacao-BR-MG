@@ -64,45 +64,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do |R$ |
-
-|§1º do art. 43, da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. | |
-
-|4° da Lei n° 11.336, de 30 de dezembro de 2021: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.233.1.396.4490.0000 |594.000,00 |
-
-|2700.15.451.233.1.396.4490.0000 |162.000,00 |
-
-|2700.15.451.233.1.396.4490.0000 |337.500,00 |
-
-|2700.15.451.233.1.396.4490.0000 |945.000,00 |
-
-|2700.15.451.233.1.396.4490.0000 |337.500,00 |
-
-|2700.15.451.233.1.396.4490.0000 |1.984.500,00 |
-
-|2700.15.451.233.1.396.4490.0000 |1.282.500,00 |
-
-|2700.15.451.233.1.396.4490.0000 |607.500,00 |
-
-|2700.15.451.233.1.396.4490.0000 |1.485.000,00 |
-
-|2700.15.451.233.1.396.4490.0000 |2.970.000,00 |
-
-|2700.17.512.066.1.400.4490.0030 |9.000.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.114.2.893.3350.0050 |763.896,60 |
-
-|2302.10.302.114.2.893.3390.0050 |625.916,17 |
-
-|2302.10.305.028.2.829.3390.0050 |6.700,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |21.102.012,77 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do | R$ |
+| --- | --- |
+| §1º do art. 43, da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. |  |
+| 4° da Lei n° 11.336, de 30 de dezembro de 2021: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.233.1.396.4490.0000 | 594.000,00 |
+| 2700.15.451.233.1.396.4490.0000 | 162.000,00 |
+| 2700.15.451.233.1.396.4490.0000 | 337.500,00 |
+| 2700.15.451.233.1.396.4490.0000 | 945.000,00 |
+| 2700.15.451.233.1.396.4490.0000 | 337.500,00 |
+| 2700.15.451.233.1.396.4490.0000 | 1.984.500,00 |
+| 2700.15.451.233.1.396.4490.0000 | 1.282.500,00 |
+| 2700.15.451.233.1.396.4490.0000 | 607.500,00 |
+| 2700.15.451.233.1.396.4490.0000 | 1.485.000,00 |
+| 2700.15.451.233.1.396.4490.0000 | 2.970.000,00 |
+| 2700.17.512.066.1.400.4490.0030 | 9.000.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.114.2.893.3350.0050 | 763.896,60 |
+| 2302.10.302.114.2.893.3390.0050 | 625.916,17 |
+| 2302.10.305.028.2.829.3390.0050 | 6.700,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 21.102.012,77 |
 
 ANEXO II
 
@@ -138,36 +120,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do art.|Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|4º, limite de 15% do |4º, limite de 15% do total |
-
-|– Limites autorizados |Orçamento: |total do Orçamento do |do Orçamento do Fundo |
-
-|para abertura de | |Grupo 1 – Pessoal e |Municipal de Saúde – FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.879.807.278,13 |R$ 230.915.100,00 |R$ 624.780.748,25 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 421.343.407,52 |R$ 653.077.208,70 |R$ 102.436.404,40 |
-
-|suplementares | | | |
-
-|Percentual utilizado |81,69% |26,12% |85,91% |
-
-|Atualizado em 23/12/2022 às 08:59:37 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do art. | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | 4º, limite de 15% do | 4º, limite de 15% do total |
+| – Limites autorizados | Orçamento: | total do Orçamento do | do Orçamento do Fundo |
+| para abertura de |  | Grupo 1 – Pessoal e | Municipal de Saúde – FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.879.807.278,13 | R$ 230.915.100,00 | R$ 624.780.748,25 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 421.343.407,52 | R$ 653.077.208,70 | R$ 102.436.404,40 |
+| suplementares |  |  |  |
+| Percentual utilizado | 81,69% | 26,12% | 85,91% |
+| Atualizado em 23/12/2022 às 08:59:37 |  |  |  |

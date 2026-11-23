@@ -52,14 +52,10 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Fundação Municipal de Cultura – FMC –, conforme autorização contida no inciso I do § 1º do art. 43 da Lei|
-
-|Federal nº 4.320, de 17 de março de 1964, e autorização contida no § 2º do art. 4º da Lei nº 11.277, de 28 de dezembro de |
-
-|2020: |
-
-|R$ |
-
-|3103.13.122.146.2.906.4490.0030 |68.948,24 |
-
-|TOTAL DA SUPLEMENTAÇÃO |68.948,24 |
+| I.1 – A favor da Fundação Municipal de Cultura – FMC –, conforme autorização contida no inciso I do § 1º do art. 43 da Lei |  |
+| --- | --- |
+| Federal nº 4.320, de 17 de março de 1964, e autorização contida no § 2º do art. 4º da Lei nº 11.277, de 28 de dezembro de |  |
+| 2020: |  |
+| R$ |  |
+| 3103.13.122.146.2.906.4490.0030 | 68.948,24 |
+| TOTAL DA SUPLEMENTAÇÃO | 68.948,24 |

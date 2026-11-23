@@ -32,9 +32,9 @@ O Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 J - Semanas comemorativas de outubro:
 
-|DATA |COMEMORAÇÃO |
-
-|1º a 7/10 |Semana Municipal de Combate ao Antissemitismo |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 1º a 7/10 | Semana Municipal de Combate ao Antissemitismo |
 
 .”.
 

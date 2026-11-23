@@ -38,11 +38,10 @@ CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL
 
 DA PREFEITURA DE BELO HORIZONTE
 
-|Cargos |Números de cargos |
-
-|Analista de Políticas Públicas |480 |
-
-| |(NR)". |
+| Cargos | Números de cargos |
+| --- | --- |
+| Analista de Políticas Públicas | 480 |
+|  | (NR)". |
 
 **Art. 3º** - As despesas decorrentes da aplicação desta Lei serão custeadas pelos recursos consignados nas dotações orçamentárias de pessoal, no montante de R$397.800,00 (trezentos e noventa e sete mil e oitocentos reais).
 

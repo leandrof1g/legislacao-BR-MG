@@ -52,24 +52,18 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania |
-
-|– SMASAC –, conforme autorização contida no caput do art. 4º da Lei nº 11.277, de 28 de |
-
-|dezembro de 2020: |
-
-|R$ |
-
-|1000.08.244.123.2.804.3390.0000 |239.513,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |239.513,00 |
+| I.1 – A favor da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania |  |
+| --- | --- |
+| – SMASAC –, conforme autorização contida no caput do art. 4º da Lei nº 11.277, de 28 de |  |
+| dezembro de 2020: |  |
+| R$ |  |
+| 1000.08.244.123.2.804.3390.0000 | 239.513,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 239.513,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 da tabela anterior: |
-
-|R$ |
-
-|1014.08.306.132.2.761.3390.0000 |239.513,00 |
-
-|TOTAL DA ANULAÇÃO |239.513,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 da tabela anterior: |  |
+| --- | --- |
+| R$ |  |
+| 1014.08.306.132.2.761.3390.0000 | 239.513,00 |
+| TOTAL DA ANULAÇÃO | 239.513,00 |

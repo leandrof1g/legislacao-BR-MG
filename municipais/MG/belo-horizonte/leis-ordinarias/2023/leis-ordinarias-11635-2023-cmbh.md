@@ -34,9 +34,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I K - Dias comemorativos de novembro:
 
-|DATA |COMEMORAÇÃO |
-
-|22/11 |Dia Municipal do Músico |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 22/11 | Dia Municipal do Músico |
 
 .”.
 

@@ -46,80 +46,43 @@ ANEXO ÚNICO
 
 (Inclui os Anexos IX e X no Decreto nº 12.610/07)
 
-|ANEXO IX |
-
-|PLANILHA DEMONSTRATIVA DAS PARCELAS A SEREM PAGAS A PARTIR DA COMPETÊNCIA FEVEREIRO/09, CONFORME ACORDO CELEBRADO EM 02 DE DEZEMBRO DE 2008 |
-
-| | | | | | |
-
-|PROCESSO: 02864/91-00 | | | | BASE DE CÁLCULO PARA A CONTRIBUIÇÃO PREVIDENCIÁRIA: B |
-
-|RECLAMANTE: Maria Francisca Thereza C.Turra e Outros | PARCELA ISENTA: D + E |
-
-|RECLAM| | | | | |
-
-|ADO: | | | | | |
-
-|Municí| | | | | |
-
-|pio de| | | | | |
-
-|Belo | | | | | |
-
-|Horizo| | | | | |
-
-|nte | | | | | |
-
-| | | | |
-
-| |B. PRINCIPAL - A PARCELA DESCRITA SERÁ BASE DE CÁLCULO PARA A CONTRIBUIÇÃO PREVIDENCIÁRIA E IMPOSTO DE RENDA, CONFORME DETERMINAÇÃO JUDICIAL. | |
-
-| | | | | |
-
-| | | | | |
-
-| |E. HONORÁRIOS ADVOCATÍCIOS - A PARCELA SERÁ DESCONTADA DO TOTAL BRUTO E SERÁ DEDUTÍVEL DA BASE DE CÁLCULO PARA O IMPOSTO DE RENDA, CONFORME DETERMINAÇÃO JUDICIAL. | |
-
-| | | | | | |
-
-|- |O reclamante Roberto Dupin Henriques é isento de Imposto de Renda, conforme Lei 7.713/88 e art. 30º da Lei 9.250 de 26/12/1995, desde 14/01/1998. | |
-
-|- |A primeira e segunda parcelas foram pagas no mês de dezembro/2008 (competência dezembro/08 e janeiro/09) conforme acordado na ata da audiência. | |
-
-| | | | | | |
-
-| | | | | | |
-
-|ANEXO X |
-
-|PLANILHA DEMONSTRATIVA DAS PARCELAS A SEREM PAGAS A PARTIR DA COMPETÊNCIA FEVEREIRO/09, CONFORME ACORDO CELEBRADO EM 06 DE OUTUBRO DE 2008 |
-
-|PREC| | | | | | BASE DE | |
-
-|ATÓR| | | | | |CÁLCULO PARA O| |
-
-|IO: | | | | | |IMPOSTO DE | |
-
-|134/| | | | | |RENDA: B + C | |
-
-|05 -| | | | | | | |
-
-|ORÇA| | | | | | | |
-
-|MENT| | | | | | | |
-
-|O | | | | | | | |
-
-|2006| | | | | | | |
-
-| |B. PRINCIPAL - A PARCELA DESCRITA SERÁ BASE DE CÁLCULO PARA A CONTRIBUIÇÃO PREVIDENCIÁRIA E IMPOSTO DE RENDA, CONFORME DETERMINAÇÃO JUDICIAL. |
-
-| |C. JUROS - A PARCELA SERÁ APENAS BASE DE CÁLCULO PARA O IMPOSTO DE RENDA. |
-
-| | |
-
-| | - Foram pagas 5 parcelas no ano de 2008 (4 + 1 referente ao 13º salário) e serão pagas 13 parcelas nos anos seguintes (12 + 1 referente ao 13º salário), observando a quantidade de parcelas devidas a cada reclamante. |
-
-| | - A partir do mês de fevereiro/2009, os valores serão incluídos na folha de pagamento |
-
-| | - A partir de janeiro/2010, os reajustes serão anuais, tendo em vista o INPC acumulado dos últimos doze meses. | | | | | | |
+| ANEXO IX |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| PLANILHA DEMONSTRATIVA DAS PARCELAS A SEREM PAGAS A PARTIR DA COMPETÊNCIA FEVEREIRO/09, CONFORME ACORDO CELEBRADO EM 02 DE DEZEMBRO DE 2008 |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| PROCESSO: 02864/91-00 |  |  |  | BASE DE CÁLCULO PARA A CONTRIBUIÇÃO PREVIDENCIÁRIA: B |  |  |  |
+| RECLAMANTE: Maria Francisca Thereza C.Turra e Outros | PARCELA ISENTA: D + E |  |  |  |  |  |  |
+| RECLAM |  |  |  |  |  |  |  |
+| ADO: |  |  |  |  |  |  |  |
+| Municí |  |  |  |  |  |  |  |
+| pio de |  |  |  |  |  |  |  |
+| Belo |  |  |  |  |  |  |  |
+| Horizo |  |  |  |  |  |  |  |
+| nte |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | B. PRINCIPAL - A PARCELA DESCRITA SERÁ BASE DE CÁLCULO PARA A CONTRIBUIÇÃO PREVIDENCIÁRIA E IMPOSTO DE RENDA, CONFORME DETERMINAÇÃO JUDICIAL. |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | E. HONORÁRIOS ADVOCATÍCIOS - A PARCELA SERÁ DESCONTADA DO TOTAL BRUTO E SERÁ DEDUTÍVEL DA BASE DE CÁLCULO PARA O IMPOSTO DE RENDA, CONFORME DETERMINAÇÃO JUDICIAL. |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| - | O reclamante Roberto Dupin Henriques é isento de Imposto de Renda, conforme Lei 7.713/88 e art. 30º da Lei 9.250 de 26/12/1995, desde 14/01/1998. |  |  |  |  |  |  |
+| - | A primeira e segunda parcelas foram pagas no mês de dezembro/2008 (competência dezembro/08 e janeiro/09) conforme acordado na ata da audiência. |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| ANEXO X |  |  |  |  |  |  |  |
+| PLANILHA DEMONSTRATIVA DAS PARCELAS A SEREM PAGAS A PARTIR DA COMPETÊNCIA FEVEREIRO/09, CONFORME ACORDO CELEBRADO EM 06 DE OUTUBRO DE 2008 |  |  |  |  |  |  |  |
+| PREC |  |  |  |  |  | BASE DE |  |
+| ATÓR |  |  |  |  |  | CÁLCULO PARA O |  |
+| IO: |  |  |  |  |  | IMPOSTO DE |  |
+| 134/ |  |  |  |  |  | RENDA: B + C |  |
+| 05 - |  |  |  |  |  |  |  |
+| ORÇA |  |  |  |  |  |  |  |
+| MENT |  |  |  |  |  |  |  |
+| O |  |  |  |  |  |  |  |
+| 2006 |  |  |  |  |  |  |  |
+|  | B. PRINCIPAL - A PARCELA DESCRITA SERÁ BASE DE CÁLCULO PARA A CONTRIBUIÇÃO PREVIDENCIÁRIA E IMPOSTO DE RENDA, CONFORME DETERMINAÇÃO JUDICIAL. |  |  |  |  |  |  |
+|  | C. JUROS - A PARCELA SERÁ APENAS BASE DE CÁLCULO PARA O IMPOSTO DE RENDA. |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | - Foram pagas 5 parcelas no ano de 2008 (4 + 1 referente ao 13º salário) e serão pagas 13 parcelas nos anos seguintes (12 + 1 referente ao 13º salário), observando a quantidade de parcelas devidas a cada reclamante. |  |  |  |  |  |  |
+|  | - A partir do mês de fevereiro/2009, os valores serão incluídos na folha de pagamento |  |  |  |  |  |  |
+|  | - A partir de janeiro/2010, os reajustes serão anuais, tendo em vista o INPC acumulado dos últimos doze meses. |  |  |  |  |  |  |

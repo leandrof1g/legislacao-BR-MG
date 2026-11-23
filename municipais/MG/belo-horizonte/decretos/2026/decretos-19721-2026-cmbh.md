@@ -58,75 +58,45 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.04.122.0165.2816.339037.1.500.000 |675.968,33 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.1.500.000 |71.242,00 |
-
-|2700.15.451.0233.1396.449051.1.500.000 |31.041,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.131.0015.2007.339039.1.500.000 |10.000.000,00 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.449052.1.500.000 |160.000,00 |
-
-|TOTAL |10.938.251,33 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 8º da Lei |R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.126.0302.2938.339040.1.500.000 |0,26 |
-
-|TOTAL |0,26 |
-
-|TOTAL DA SUPLEMENTAÇÃO |10.938.251,59 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.04.122.0165.2816.339037.1.500.000 | 675.968,33 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.1.500.000 | 71.242,00 |
+| 2700.15.451.0233.1396.449051.1.500.000 | 31.041,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.131.0015.2007.339039.1.500.000 | 10.000.000,00 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.449052.1.500.000 | 160.000,00 |
+| TOTAL | 10.938.251,33 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 8º da Lei | R$ |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.126.0302.2938.339040.1.500.000 | 0,26 |
+| TOTAL | 0,26 |
+| TOTAL DA SUPLEMENTAÇÃO | 10.938.251,59 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.1000.999999.1.500.000 |89.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339037.1.500.000 |746.968,33 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.1.500.000 |102.283,00 |
-
-|2700.15.451.0233.1396.449051.1.500.000 |10.000.000,00 |
-
-|TOTAL |10.938.251,33 |
-
-|I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previsto no seguinte órgão: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.126.0302.2938.449052.1.500.000 |0,26 |
-
-|TOTAL |0,26 |
-
-|TOTAL DA ANULAÇÃO |10.938.251,59 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.1000.999999.1.500.000 | 89.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339037.1.500.000 | 746.968,33 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.1.500.000 | 102.283,00 |
+| 2700.15.451.0233.1396.449051.1.500.000 | 10.000.000,00 |
+| TOTAL | 10.938.251,33 |
+| I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previsto no seguinte órgão: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.126.0302.2938.449052.1.500.000 | 0,26 |
+| TOTAL | 0,26 |
+| TOTAL DA ANULAÇÃO | 10.938.251,59 |
 
 ANEXO II
 
@@ -168,48 +138,30 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.055.550.439,36 |
-
-|Valor do decreto publicado nesta data |R$ 10.938.251,33 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.066.488.690,69 |
-
-|Saldo atual de créditos suplementares |R$ 1.425.946.376,91 |
-
-|Percentual utilizado |42,79% |
-
-|Atualizado em 31/08/2026 às 09:27:11 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.055.550.439,36 |
+| Valor do decreto publicado nesta data | R$ 10.938.251,33 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.066.488.690,69 |
+| Saldo atual de créditos suplementares | R$ 1.425.946.376,91 |
+| Percentual utilizado | 42,79% |
+| Atualizado em 31/08/2026 às 09:27:11 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 8º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 207.210.703,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 21.765.266,00 |
-
-|Valor do decreto publicado nesta data |R$ 0,26 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 21.765.266,26 |
-
-|Saldo atual de créditos suplementares |R$ 185.445.436,74 |
-
-|Percentual utilizado |10,50% |
-
-|Atualizado em 31/08/2026 às 09:28:29 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 207.210.703,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 21.765.266,00 |
+| Valor do decreto publicado nesta data | R$ 0,26 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 21.765.266,26 |
+| Saldo atual de créditos suplementares | R$ 185.445.436,74 |
+| Percentual utilizado | 10,50% |
+| Atualizado em 31/08/2026 às 09:28:29 |  |

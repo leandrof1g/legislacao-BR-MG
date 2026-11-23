@@ -56,39 +56,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida nos artigos 1º e 3º |R$ |
-
-|da Lei nº 11.602, de 17 de outubro de 2023: | |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.0200.16.482.225.1.231.449051.500 |466.266,00 |
-
-|2704.0300.16.482.225.1.231.449051.500 |483.133,00 |
-
-|2704.0500.16.482.225.1.231.449051.500 |150.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.099.399,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida nos artigos 1º e 3º | R$ |
+| --- | --- |
+| da Lei nº 11.602, de 17 de outubro de 2023: |  |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.0200.16.482.225.1.231.449051.500 | 466.266,00 |
+| 2704.0300.16.482.225.1.231.449051.500 | 483.133,00 |
+| 2704.0500.16.482.225.1.231.449051.500 | 150.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.099.399,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização | |
-
-|contida nos artigos 1º e 3º da Lei nº 11.602, de 17 de outubro de 2023: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0200.15.451.233.1.202.449051.500 |166.266,00 |
-
-|2700.0200.27.812.101.1.213.449051.500 |300.000,00 |
-
-|2700.0500.16.482.225.1.231.449051.500 |150.000,00 |
-
-|2700.0300.17.512.066.1.203.449051.500 |483.133,00 |
-
-|TOTAL DA ANULAÇÃO |1.099.399,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização |  |
+| contida nos artigos 1º e 3º da Lei nº 11.602, de 17 de outubro de 2023: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0200.15.451.233.1.202.449051.500 | 166.266,00 |
+| 2700.0200.27.812.101.1.213.449051.500 | 300.000,00 |
+| 2700.0500.16.482.225.1.231.449051.500 | 150.000,00 |
+| 2700.0300.17.512.066.1.203.449051.500 | 483.133,00 |
+| TOTAL DA ANULAÇÃO | 1.099.399,00 |
 
 ANEXO II
 

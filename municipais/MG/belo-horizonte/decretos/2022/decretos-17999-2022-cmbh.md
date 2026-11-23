@@ -70,35 +70,22 @@ ANEXO I
 
 MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
-|Programas |Nº de indivíduos |Duração diária |Frequência |
-
-| |atendidos por | | |
-
-| |módulo | | |
-
-|Esporte Esperança |80 |1 hora |2x por semana |
-
-|Superar |10 |1 hora |2x por semana |
-
-|Vida Ativa |50 |1 hora |2x por semana |
-
-|Academia da Cidade |60 |1 hora |3x por semana |
-
-|Escola Integrada |80 |Total = 6horas |2x por semana |
-
-| | |3 horas manhã | |
-
-| | |3 horas tarde | |
-
-|SUAS |50 |4 horas |20 anuais |
-
-|Caminhar* |Serviço Esporte |50 |1 hora |1x por semana |
-
-| |Serviço Atividade |30 |1 hora |2x por semana |
-
-| |Física | | | |
-
-|*O módulo Caminhar é composto por dois serviços (Esporte e Atividade Física). |
+| Programas | Nº de indivíduos | Duração diária | Frequência |  |
+| --- | --- | --- | --- | --- |
+|  | atendidos por |  |  |  |
+|  | módulo |  |  |  |
+| Esporte Esperança | 80 | 1 hora | 2x por semana |  |
+| Superar | 10 | 1 hora | 2x por semana |  |
+| Vida Ativa | 50 | 1 hora | 2x por semana |  |
+| Academia da Cidade | 60 | 1 hora | 3x por semana |  |
+| Escola Integrada | 80 | Total = 6horas | 2x por semana |  |
+|  |  | 3 horas manhã |  |  |
+|  |  | 3 horas tarde |  |  |
+| SUAS | 50 | 4 horas | 20 anuais |  |
+| Caminhar* | Serviço Esporte | 50 | 1 hora | 1x por semana |
+|  | Serviço Atividade | 30 | 1 hora | 2x por semana |
+|  | Física |  |  |  |
+| *O módulo Caminhar é composto por dois serviços (Esporte e Atividade Física). |  |  |  |  |
 
 ”
 
@@ -108,15 +95,12 @@ ANEXO II
 
 “ANEXO V
 
-|Faixas de valor total do IPTU e taxas imobiliárias |Percentual de Indivíduos atendidos |
-
-|relativos a 2021 e 2022 | |
-
-|Até R$250.000,00 |60% |
-
-|De R$250.000,01 até R$500.000,00 |80% |
-
-|Acima de R$500.000,01 |100% |
+| Faixas de valor total do IPTU e taxas imobiliárias | Percentual de Indivíduos atendidos |
+| --- | --- |
+| relativos a 2021 e 2022 |  |
+| Até R$250.000,00 | 60% |
+| De R$250.000,01 até R$500.000,00 | 80% |
+| Acima de R$500.000,01 | 100% |
 
 “
 

@@ -142,7 +142,7 @@ Patrus Ananias de Sousa
 
 Prefeito de Belo Horizonte
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Anexo I acrescentado pelo Decreto nº 9.410, de 7/11/1997
 
@@ -154,21 +154,15 @@ TABELA PARA PARCELAMENTO EM ATÉ 60 MESES (VALORES EM UFIR)
 
 CONTRIBUINTE PESSOA FÍSICA
 
-|Qde de parcelas |Depósito inicial |Valor Mínimo |Faixa de valores |
-
-|De 1 a 10 |20% |10,00 |Entre 25,00 e 258,81 |
-
-|De 11 a 20 |15% |20,00 |Entre 258,81 e 933,32 |
-
-|De 21 a 30 |10% |40,00 |Entre 933,32 e 2.610,52 |
-
-|De 31 a 40 |5% |80,00 |Entre 2.910,52 e 4.315,78 |
-
-|De 41 a 50 |5% |100,00 |Entre 4.315,78 e 10.736,83 |
-
-|De 51 a 59 |5% |200,00 |Entre 10.736,83 e 12.631,57 |
-
-|Em 60 |5% |maior que 200,00 |Acima de 12.631,57 |
+| Qde de parcelas | Depósito inicial | Valor Mínimo | Faixa de valores |
+| --- | --- | --- | --- |
+| De 1 a 10 | 20% | 10,00 | Entre 25,00 e 258,81 |
+| De 11 a 20 | 15% | 20,00 | Entre 258,81 e 933,32 |
+| De 21 a 30 | 10% | 40,00 | Entre 933,32 e 2.610,52 |
+| De 31 a 40 | 5% | 80,00 | Entre 2.910,52 e 4.315,78 |
+| De 41 a 50 | 5% | 100,00 | Entre 4.315,78 e 10.736,83 |
+| De 51 a 59 | 5% | 200,00 | Entre 10.736,83 e 12.631,57 |
+| Em 60 | 5% | maior que 200,00 | Acima de 12.631,57 |
 
 * As faixas de valores deverão ser observadas em função do montante a parcelar, incluindo o "depósito inicial."
 
@@ -176,21 +170,15 @@ CONTRIBUINTE PESSOA FÍSICA
 
 CONTRIBUINTE PESSOA JURÍDICA
 
-|Qde de parcelas |Depósito inicial |Valor Mínimo |Faixa de valores |
-
-|De 1 a 10 |20% |50,00 |Entre 125,00 e 1.294,11 |
-
-|De 11 a 20 |15% |100,00 |Entre 1.294,11 e 4.666,66 |
-
-|De 21 a 30 |10% |200,00 |Entre 4.666,66 e 13.052,62 |
-
-|De 31 a 40 |5% |400,00 |Entre 13.052,62 e 21.578,94 |
-
-|De 41 a 50 |5% |500,00 |Entre 21.578,94 e 53.684,83 |
-
-|De 51 a 59 |5% |1.000,00 |Entre 53.684,83 e 63.157,88 |
-
-|Em 60 |5% |maior que 1.000,00 |Acima de 63.157,88 |
+| Qde de parcelas | Depósito inicial | Valor Mínimo | Faixa de valores |
+| --- | --- | --- | --- |
+| De 1 a 10 | 20% | 50,00 | Entre 125,00 e 1.294,11 |
+| De 11 a 20 | 15% | 100,00 | Entre 1.294,11 e 4.666,66 |
+| De 21 a 30 | 10% | 200,00 | Entre 4.666,66 e 13.052,62 |
+| De 31 a 40 | 5% | 400,00 | Entre 13.052,62 e 21.578,94 |
+| De 41 a 50 | 5% | 500,00 | Entre 21.578,94 e 53.684,83 |
+| De 51 a 59 | 5% | 1.000,00 | Entre 53.684,83 e 63.157,88 |
+| Em 60 | 5% | maior que 1.000,00 | Acima de 63.157,88 |
 
 * As faixas de valores deverão ser observadas em função do montante a parcelar, incluindo o "depósito inicial."
 
@@ -200,45 +188,31 @@ TABELA PARA PARCELAMENTO EM ATÉ 60 MESES (VALORES EM R$)
 
 CONTRIBUINTE PESSOA FÍSICA
 
-|QUANTIDADE DE PARCELAS |DEPÓSITO |VALOR MÍNIMO DA PARCELA |FAIXA DE VALORES |
-
-| |INICIAL | | |
-
-|De 2 a 10 |10% |15,00 |Entre 33,33 e 289,46 |
-
-|De 11 a 20 |5% |25,00 |Entre 289,47 e 773,67 |
-
-|De 21 a 30 |5% |35,00 |Entre 773,68 e 1.438,13 |
-
-|De 31 a 40 |3% |45,00 |Entre 1.438,14 e 2.324,73 |
-
-|De 41 a 50 |3% |55,00 |Entre 2.324,74 e 3.382,64 |
-
-|De 51 a 59 |2% |65,00 |Entre 3.382,65 e 3.979,58 |
-
-|Em 60 |2% |Maior que 65,00 |Acima de 3.979,59 |
+| QUANTIDADE DE PARCELAS | DEPÓSITO | VALOR MÍNIMO DA PARCELA | FAIXA DE VALORES |
+| --- | --- | --- | --- |
+|  | INICIAL |  |  |
+| De 2 a 10 | 10% | 15,00 | Entre 33,33 e 289,46 |
+| De 11 a 20 | 5% | 25,00 | Entre 289,47 e 773,67 |
+| De 21 a 30 | 5% | 35,00 | Entre 773,68 e 1.438,13 |
+| De 31 a 40 | 3% | 45,00 | Entre 1.438,14 e 2.324,73 |
+| De 41 a 50 | 3% | 55,00 | Entre 2.324,74 e 3.382,64 |
+| De 51 a 59 | 2% | 65,00 | Entre 3.382,65 e 3.979,58 |
+| Em 60 | 2% | Maior que 65,00 | Acima de 3.979,59 |
 
 * As faixas de valores deverão ser observadas em função do montante a parcelar, incluindo o "Depósito Inicial". * O parcelamento poderá ser efetuado de duas até a quantidade máxima de parcelas, desde que observado o valor mínimo da parcela;
 
 CONTRIBUINTE PESSOA JURÍDICA
 
-|QUANTIDADE DE |DEPÓSITO |VALOR MÍNIMO DA PARCELA |FAIXA DE VALORES |
-
-|PARCELAS |INICIAL | | |
-
-|De 2 a 10 |10% |35,00 |Entre 77,78 e 752,62 |
-
-|De 11 a 20 |5% |65,00 |Entre 752,63 e 2.099,99 |
-
-|De 21 a 30 |5% |95,00 |Entre 2.100,00 e 3.994,84 |
-
-|De 31 a 40 |3% |125,00 |Entre 3.994,85 e 6.974,22 |
-
-|De 41 a 50 |3% |165,00 |Entre 6.974,23 e 10.147,95 |
-
-|De 51 a 59 |2% |195,00 |Entre 10.147,96 e 11.938,77 |
-
-|Em 60 |2% |Maior que 195,00 |Acima de 11.938,78 |
+| QUANTIDADE DE | DEPÓSITO | VALOR MÍNIMO DA PARCELA | FAIXA DE VALORES |
+| --- | --- | --- | --- |
+| PARCELAS | INICIAL |  |  |
+| De 2 a 10 | 10% | 35,00 | Entre 77,78 e 752,62 |
+| De 11 a 20 | 5% | 65,00 | Entre 752,63 e 2.099,99 |
+| De 21 a 30 | 5% | 95,00 | Entre 2.100,00 e 3.994,84 |
+| De 31 a 40 | 3% | 125,00 | Entre 3.994,85 e 6.974,22 |
+| De 41 a 50 | 3% | 165,00 | Entre 6.974,23 e 10.147,95 |
+| De 51 a 59 | 2% | 195,00 | Entre 10.147,96 e 11.938,77 |
+| Em 60 | 2% | Maior que 195,00 | Acima de 11.938,78 |
 
 *As faixas de valores deverão ser observadas em função do montante a parcelar, incluindo o "Depósito Inicial" * O parcelamento poderá ser efetuado de duas até a quantidade máxima de parcelas, desde que observado o valor mínimo da parcela;
 

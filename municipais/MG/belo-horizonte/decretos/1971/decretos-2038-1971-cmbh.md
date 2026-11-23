@@ -34,7 +34,7 @@ Considerando a necessidade imediata de se dar nova estrutura administrativa à S
 
 **Art. 2º** - Os cargos em comissão serão providos por designação do Superintendente da Autarquia, com prévia aprovação do Prefeito.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 3º** - Os cargos efetivos distribuídos ao Serviço de Transporte e Manutenção serão exercidos, de preferência, por servidores da própria Autarquia ou da Administração Direta que se encontrem à disposição da Superintendência Municipal de Transportes.
 

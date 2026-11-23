@@ -54,16 +54,11 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos do Executivo, conforme autorização contida no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de |
-
-|2020: |
-
-|R$ |
-
-|1000.08.244.123.2.804.3390.0000 |5.951.206,00 |
-
-|1010.08.306.132.2.120.3390.0000 |50.823.827,00 |
-
-|1014.08.306.132.2.761.3390.0000 |13.215.155,64 |
-
-|TOTAL DA SUPLEMENTAÇÃO |69.990.188,64 |
+| I.1 – A favor de diversos órgãos do Executivo, conforme autorização contida no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de |  |
+| --- | --- |
+| 2020: |  |
+| R$ |  |
+| 1000.08.244.123.2.804.3390.0000 | 5.951.206,00 |
+| 1010.08.306.132.2.120.3390.0000 | 50.823.827,00 |
+| 1014.08.306.132.2.761.3390.0000 | 13.215.155,64 |
+| TOTAL DA SUPLEMENTAÇÃO | 69.990.188,64 |

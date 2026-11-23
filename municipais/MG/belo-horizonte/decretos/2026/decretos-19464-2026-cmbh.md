@@ -58,79 +58,47 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei |R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2952.317170.1.600.000 |5.469.256,02 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.0085.2940.339040.1.500.000 |184.700,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0226.1207.339045.1.500.000 |360.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0044.1403.449092.1.754.791 |13.000,00 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.122.0307.2900.339037.1.500.000 |112.565,52 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG|
-
-|4002.04.331.0014.2710.339046.1.500.000 |47.520,00 |
-
-|4002.04.331.0014.2710.339049.1.500.000 |242.400,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |6.429.441,54 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2952.317170.1.600.000 | 5.469.256,02 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.0085.2940.339040.1.500.000 | 184.700,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0226.1207.339045.1.500.000 | 360.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0044.1403.449092.1.754.791 | 13.000,00 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.122.0307.2900.339037.1.500.000 | 112.565,52 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.331.0014.2710.339046.1.500.000 | 47.520,00 |
+| 4002.04.331.0014.2710.339049.1.500.000 | 242.400,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 6.429.441,54 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2952.339039.1.600.000 |5.469.256,02 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339039.1.500.000 |174.200,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0226.1207.449061.1.500.000 |360.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1203.449051.1.754.791 |13.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG|
-
-|4002.04.331.0014.2710.339008.1.500.000 |289.920,00 |
-
-|Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |
-
-|3400.04.122.0007.2900.339037.1.500.000 |112.565,52 |
-
-|3400.04.122.0007.2110.339039.1.500.000 |10.500,00 |
-
-|TOTAL DA ANULAÇÃO |6.429.441,54 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2952.339039.1.600.000 | 5.469.256,02 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339039.1.500.000 | 174.200,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0226.1207.449061.1.500.000 | 360.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1203.449051.1.754.791 | 13.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.331.0014.2710.339008.1.500.000 | 289.920,00 |
+| Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |  |
+| 3400.04.122.0007.2900.339037.1.500.000 | 112.565,52 |
+| 3400.04.122.0007.2110.339039.1.500.000 | 10.500,00 |
+| TOTAL DA ANULAÇÃO | 6.429.441,54 |
 
 ANEXO II
 
@@ -178,52 +146,32 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para|Limite de 15% (quinze por cento) |
-
-|abertura de créditos suplementares para o Fundo Municipal de |do valor do orçamento. |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 3.738.652.601,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 0,00 |
-
-|Valor do decreto publicado nesta data |R$ 5.469.256,02 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 5.469.256,02 |
-
-|Saldo atual de créditos suplementares |R$ 3.733.183.345,38 |
-
-|Percentual utilizado |0,15% |
-
-|Atualizado em 20/01/2026 às 16:17:51 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 15% (quinze por cento) |
+| abertura de créditos suplementares para o Fundo Municipal de | do valor do orçamento. |
+| Saúde. |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 3.738.652.601,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 0,00 |
+| Valor do decreto publicado nesta data | R$ 5.469.256,02 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 5.469.256,02 |
+| Saldo atual de créditos suplementares | R$ 3.733.183.345,38 |
+| Percentual utilizado | 0,15% |
+| Atualizado em 20/01/2026 às 16:17:51 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2026 |
-
-|Art. 6.º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares não contidas nos arts. 4º e 5º |do valor do Orçamento |
-
-|da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 8.000.000,00 |
-
-|Valor do decreto publicado nesta data |R$ 960.185,52 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 8.960.185,52 |
-
-|Saldo atual de créditos suplementares |R$ 2.483.474.882,08 |
-
-|Percentual utilizado |0,36% |
-
-|Atualizado em 20/01/2026 às 16:18:10 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2026 |  |
+| --- | --- |
+| Art. 6.º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares não contidas nos arts. 4º e 5º | do valor do Orçamento |
+| da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 8.000.000,00 |
+| Valor do decreto publicado nesta data | R$ 960.185,52 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 8.960.185,52 |
+| Saldo atual de créditos suplementares | R$ 2.483.474.882,08 |
+| Percentual utilizado | 0,36% |
+| Atualizado em 20/01/2026 às 16:18:10 |  |

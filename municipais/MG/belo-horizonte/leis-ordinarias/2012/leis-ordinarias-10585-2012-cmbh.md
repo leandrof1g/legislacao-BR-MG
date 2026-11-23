@@ -38,97 +38,59 @@ I - criação das seguintes subações:
 
 a)
 
-|Área de Resultado: 010 - Cidade de Todos |
-
-|Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer |
-
-|Ação: 2531 - Programa Esporte Esperança / Segundo |2013 |Total |
-
-|Tempo | | |
-
-| | | |
-
-|R$ | | |
-
-| |50.000,00 |50.000,00 |
-
-|Subação 006 - |Produto |Un. Medida |2013 |Total |
-
-|Xadrez na |Aluno |Pessoa | | |
-
-|Escola |Participante | | | |
-
-| | | |1.000 |1.000 |
-
-|Unidade Orçamentária: 3001 - Secretaria Municipal Adjunta de Esportes |
-
-|Ficam deduzidos, para 2013, R$50.000,00 da Ação 9999 - Reserva de Contingência, Programa 999 - Reserva|
-
-|de Contingência, Área de Resultado 013 - Outros, Unidade Orçamentária 4001 - Encargos Gerais do |
-
-|Município da Secretaria Municipal de Finanças, para custear esta subação. |
+| Área de Resultado: 010 - Cidade de Todos |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer |  |  |  |  |
+| Ação: 2531 - Programa Esporte Esperança / Segundo | 2013 | Total |  |  |
+| Tempo |  |  |  |  |
+|  |  |  |  |  |
+| R$ |  |  |  |  |
+|  | 50.000,00 | 50.000,00 |  |  |
+| Subação 006 - | Produto | Un. Medida | 2013 | Total |
+| Xadrez na | Aluno | Pessoa |  |  |
+| Escola | Participante |  |  |  |
+|  |  |  | 1.000 | 1.000 |
+| Unidade Orçamentária: 3001 - Secretaria Municipal Adjunta de Esportes |  |  |  |  |
+| Ficam deduzidos, para 2013, R$50.000,00 da Ação 9999 - Reserva de Contingência, Programa 999 - Reserva |  |  |  |  |
+| de Contingência, Área de Resultado 013 - Outros, Unidade Orçamentária 4001 - Encargos Gerais do |  |  |  |  |
+| Município da Secretaria Municipal de Finanças, para custear esta subação. |  |  |  |  |
 
 b)
 
-|Área de Resultado: 010 - Cidade de Todos |
-
-|Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer |
-
-|Ação: 2870 - Implantação, Manutenção e Recuperação de |2013 |Total |
-
-|Equipamentos de Lazer | | |
-
-|R$ | | |
-
-| |100.000,00 |100.000,00 |
-
-|Subação 0005 |Produto |Un. Medida |2013 |Total |
-
-|-Implantação do |Elaboração de |Unidade | | |
-
-|Programa Vila |Projeto | | | |
-
-|Radical | | | | |
-
-| | | |01 |01 |
-
-|Unidade Orçamentária: 3002 - Secretaria Municipal Adjunta de Lazer |
-
-|Ficam deduzidos, para 2013, R$100.000,00 da Ação 2007 - Serviços de Divulgação Institucional do |
-
-|Município, Programa 015 - Divulgação Institucional do Município, Área de Resultado 013 - Outros, |
-
-|Unidade Orçamentária 0300 - Assessoria de Comunicação Social do Município, para custear esta subação. |
+| Área de Resultado: 010 - Cidade de Todos |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer |  |  |  |  |
+| Ação: 2870 - Implantação, Manutenção e Recuperação de | 2013 | Total |  |  |
+| Equipamentos de Lazer |  |  |  |  |
+| R$ |  |  |  |  |
+|  | 100.000,00 | 100.000,00 |  |  |
+| Subação 0005 | Produto | Un. Medida | 2013 | Total |
+| -Implantação do | Elaboração de | Unidade |  |  |
+| Programa Vila | Projeto |  |  |  |
+| Radical |  |  |  |  |
+|  |  |  | 01 | 01 |
+| Unidade Orçamentária: 3002 - Secretaria Municipal Adjunta de Lazer |  |  |  |  |
+| Ficam deduzidos, para 2013, R$100.000,00 da Ação 2007 - Serviços de Divulgação Institucional do |  |  |  |  |
+| Município, Programa 015 - Divulgação Institucional do Município, Área de Resultado 013 - Outros, |  |  |  |  |
+| Unidade Orçamentária 0300 - Assessoria de Comunicação Social do Município, para custear esta subação. |  |  |  |  |
 
 II - inclusão da seguinte subação para o exercício de 2013:
 
-|Área de Resultado: 010 - Cidade de Todos |
-
-|Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer |
-
-|Ação: 2866 - Esportes de Rendimento |2013 |Total |
-
-|R$ | | |
-
-| |30.000,00 |30.000,00 |
-
-|Subação 0002 - |Produto Serviços |Un. Medida |2013 |Total |
-
-|Manutenção das |Administrativos |Metas | | |
-
-|Atividades do | |Administrativas | | |
-
-|Bolsa Atleta | | | | |
-
-| | | | | |
-
-|Unidade Orçamentária: 3001 - Secretaria Municipal Adjunta de Esportes |
-
-|Ficam deduzidos, para 2013, R$30.000,00 da Ação 2007 - Serviços de Divulgação Institucional do |
-
-|Município, Programa 015 - Divulgação Institucional do Município, Área de Resultado 013 - Outros, |
-
-|Unidade Orçamentária 0300 - Assessoria de Comunicação Social do Município, para custear esta subação. |
+| Área de Resultado: 010 - Cidade de Todos |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer |  |  |  |  |
+| Ação: 2866 - Esportes de Rendimento | 2013 | Total |  |  |
+| R$ |  |  |  |  |
+|  | 30.000,00 | 30.000,00 |  |  |
+| Subação 0002 - | Produto Serviços | Un. Medida | 2013 | Total |
+| Manutenção das | Administrativos | Metas |  |  |
+| Atividades do |  | Administrativas |  |  |
+| Bolsa Atleta |  |  |  |  |
+|  |  |  |  |  |
+| Unidade Orçamentária: 3001 - Secretaria Municipal Adjunta de Esportes |  |  |  |  |
+| Ficam deduzidos, para 2013, R$30.000,00 da Ação 2007 - Serviços de Divulgação Institucional do |  |  |  |  |
+| Município, Programa 015 - Divulgação Institucional do Município, Área de Resultado 013 - Outros, |  |  |  |  |
+| Unidade Orçamentária 0300 - Assessoria de Comunicação Social do Município, para custear esta subação. |  |  |  |  |
 
 **Art. 4º** - Esta lei entra em vigor na data de sua publicação.
 

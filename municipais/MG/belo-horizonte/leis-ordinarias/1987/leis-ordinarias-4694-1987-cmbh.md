@@ -152,13 +152,11 @@ Prefeito de Belo Horizonte
 
 ANEXO I A QUE SE REFERE A LEI Nº 4694 DE 22 DE ABRIL DE 1987
 
-|GRUPO |DENOMINAÇÃO DOS GRUPOS E |CÓDIGO DAS |SÍMBOLO DE |REGIME JURÍDICO| |FORMA DE RECRUTAMENTO |
-
-| |DAS CLASSES |CLASSES |VENCIMENTO OU | |COMPOSIÇÃO DAS CLASSES | |
-
-| | | |SALÁRIO | | | |
-
-| | | | |CARGOS |EMPREGOS | | |
+| GRUPO | DENOMINAÇÃO DOS GRUPOS E | CÓDIGO DAS | SÍMBOLO DE | REGIME JURÍDICO |  | FORMA DE RECRUTAMENTO |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | DAS CLASSES | CLASSES | VENCIMENTO OU |  | COMPOSIÇÃO DAS CLASSES |  |  |
+|  |  |  | SALÁRIO |  |  |  |  |
+|  |  |  |  | CARGOS | EMPREGOS |  |  |
 
 1.
 

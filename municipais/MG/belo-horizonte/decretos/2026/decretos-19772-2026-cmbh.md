@@ -58,31 +58,23 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § 2º |R$ |
-
-|do art. 19 da Lei nº 11.899, de 17 de setembro de 2025, e no art. 1º da Lei nº 12.075, | |
-
-|de 20 de julho de 2026: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2046.339039.1.500.000 |20.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |20.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § 2º | R$ |
+| --- | --- |
+| do art. 19 da Lei nº 11.899, de 17 de setembro de 2025, e no art. 1º da Lei nº 12.075, |  |
+| de 20 de julho de 2026: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2046.339039.1.500.000 | 20.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 20.000,00 |
 
 I.2 – Anulação da seguinte dotação orçamentária a que se refere o art. 2º.
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de recurso|R$ |
-
-|previsto inicialmente no órgão relacionado abaixo, conforme autorização contida no art.| |
-
-|2º da Lei nº 12.075, de 20 de julho de 2026: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2951.339039.1.500.000 |20.000,00 |
-
-|TOTAL DA ANULAÇÃO |20.000,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de recurso | R$ |
+| --- | --- |
+| previsto inicialmente no órgão relacionado abaixo, conforme autorização contida no art. |  |
+| 2º da Lei nº 12.075, de 20 de julho de 2026: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2951.339039.1.500.000 | 20.000,00 |
+| TOTAL DA ANULAÇÃO | 20.000,00 |
 
 ANEXO II
 
@@ -106,20 +98,13 @@ SALDO ATUAL DE CRÉDITO SUPLEMENTAR
 
 III.1 – Demonstração do saldo de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 1º da Lei nº 12.075, de 20 de julho de 2026:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |
-
-|Art. 1º da Lei nº 12.075, de 20/07/2026 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 15.098.695,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 4.647.700,00 |
-
-|Valor do decreto publicado nesta data |R$ 20.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 4.667.700,00 |
-
-|Saldo atual de créditos suplementares |R$ 10.430.995,00 |
-
-|Percentual utilizado |30,91% |
-
-|Atualizado em 30/09/2026 às 09:30:52 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |  |
+| --- | --- |
+| Art. 1º da Lei nº 12.075, de 20/07/2026 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 15.098.695,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 4.647.700,00 |
+| Valor do decreto publicado nesta data | R$ 20.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 4.667.700,00 |
+| Saldo atual de créditos suplementares | R$ 10.430.995,00 |
+| Percentual utilizado | 30,91% |
+| Atualizado em 30/09/2026 às 09:30:52 |  |

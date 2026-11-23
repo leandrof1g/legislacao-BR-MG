@@ -58,67 +58,41 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § |R$ |
-
-|2º do art. 19 da Lei nº 11.899, de 17 de setembro de 2025, e no art. 1º da Lei nº | |
-
-|12.075, de 20 de julho de 2026: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.449052.1.500.000 |280.000,00 |
-
-|2200.12.365.0169.2542.449052.1.500.000 |100.000,00 |
-
-|2200.12.361.0168.2046.445051.1.500.000 |576.950,00 |
-
-|2200.12.361.0167.2080.449052.1.500.000 |70.000,00 |
-
-|2200.12.365.0169.2542.445051.1.500.000 |530.000,00 |
-
-|2200.12.365.0169.2046.445051.1.500.000 |241.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.797.950,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 2º do art. 19 da Lei nº 11.899, de 17 de setembro de 2025, e no art. 1º da Lei nº |  |
+| 12.075, de 20 de julho de 2026: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.449052.1.500.000 | 280.000,00 |
+| 2200.12.365.0169.2542.449052.1.500.000 | 100.000,00 |
+| 2200.12.361.0168.2046.445051.1.500.000 | 576.950,00 |
+| 2200.12.361.0167.2080.449052.1.500.000 | 70.000,00 |
+| 2200.12.365.0169.2542.445051.1.500.000 | 530.000,00 |
+| 2200.12.365.0169.2046.445051.1.500.000 | 241.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.797.950,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º.
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos previstos inicialmente nos órgãos relacionados abaixo, conforme autorização| |
-
-|contida no art. 2º da Lei nº 12.075, de 20 de julho de 2026: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339039.1.500.000 |180.000,00 |
-
-|2200.12.365.0169.2542.339030.1.500.000 |71.000,00 |
-
-|2200.12.365.0169.2046.339039.1.500.000 |530.000,00 |
-
-|2200.12.361.0168.2046.339039.1.500.000 |160.000,00 |
-
-|2200.12.122.0140.2317.339030.1.500.000 |100.000,00 |
-
-|2200.12.361.0168.2046.445051.1.500.000 |326.950,00 |
-
-|2200.12.365.0169.2046.449051.1.500.000 |120.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0301.2907.339039.1.500.000 |70.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.1.500.000 |70.000,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.08.244.0123.2804.339039.1.500.000 |70.000,00 |
-
-|3700.14.241.0235.2697.339039.1.500.000 |100.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.797.950,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos previstos inicialmente nos órgãos relacionados abaixo, conforme autorização |  |
+| contida no art. 2º da Lei nº 12.075, de 20 de julho de 2026: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339039.1.500.000 | 180.000,00 |
+| 2200.12.365.0169.2542.339030.1.500.000 | 71.000,00 |
+| 2200.12.365.0169.2046.339039.1.500.000 | 530.000,00 |
+| 2200.12.361.0168.2046.339039.1.500.000 | 160.000,00 |
+| 2200.12.122.0140.2317.339030.1.500.000 | 100.000,00 |
+| 2200.12.361.0168.2046.445051.1.500.000 | 326.950,00 |
+| 2200.12.365.0169.2046.449051.1.500.000 | 120.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0301.2907.339039.1.500.000 | 70.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.1.500.000 | 70.000,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.08.244.0123.2804.339039.1.500.000 | 70.000,00 |
+| 3700.14.241.0235.2697.339039.1.500.000 | 100.000,00 |
+| TOTAL DA ANULAÇÃO | 1.797.950,00 |
 
 ANEXO II
 
@@ -168,20 +142,13 @@ SALDO ATUAL DE CRÉDITO SUPLEMENTAR
 
 III.1 – Demonstração do saldo de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 1º da Lei nº 12.075, de 20 de julho de 2026:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |
-
-|Art. 1º da Lei nº 12.075, de 20/07/2026 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 15.098.695,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 2.326.950,00 |
-
-|Valor do decreto publicado nesta data |R$ 1.797.950,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 4.124.900,00 |
-
-|Saldo atual de créditos suplementares |R$ 10.973.795,00 |
-
-|Percentual utilizado |27,32% |
-
-|Atualizado em 18/09/2026 às 11:24:44 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |  |
+| --- | --- |
+| Art. 1º da Lei nº 12.075, de 20/07/2026 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 15.098.695,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 2.326.950,00 |
+| Valor do decreto publicado nesta data | R$ 1.797.950,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 4.124.900,00 |
+| Saldo atual de créditos suplementares | R$ 10.973.795,00 |
+| Percentual utilizado | 27,32% |
+| Atualizado em 18/09/2026 às 11:24:44 |  |

@@ -58,55 +58,35 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei|R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2900.339093.1.500.000 |2.063.669,67 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2371.339039.1.500.000 |600.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0319.2914.339039.1.500.000 |610.480,00 |
-
-|Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |
-
-|3400.04.122.0007.2900.449052.1.500.000 |3.822,50 |
-
-|TOTAL DA SUPLEMENTAÇÃO |3.277.972,17 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei | R$ |
+| --- | --- |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2900.339093.1.500.000 | 2.063.669,67 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2371.339039.1.500.000 | 600.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0319.2914.339039.1.500.000 | 610.480,00 |
+| Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |  |
+| 3400.04.122.0007.2900.449052.1.500.000 | 3.822,50 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.277.972,17 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339037.1.500.000 |773.722,00 |
-
-|2505.04.122.0165.2816.339037.1.500.000 |1.289.947,67 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.339039.1.500.000 |600.000,00 |
-
-|2805.23.695.0086.2914.339039.1.500.000 |10.480,00 |
-
-|Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |
-
-|3400.04.122.0007.2900.339030.1.500.000 |3.822,50 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0093.2934.339039.1.500.000 |600.000,00 |
-
-|TOTAL DA ANULAÇÃO |3.277.972,17 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339037.1.500.000 | 773.722,00 |
+| 2505.04.122.0165.2816.339037.1.500.000 | 1.289.947,67 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.339039.1.500.000 | 600.000,00 |
+| 2805.23.695.0086.2914.339039.1.500.000 | 10.480,00 |
+| Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |  |
+| 3400.04.122.0007.2900.339030.1.500.000 | 3.822,50 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0093.2934.339039.1.500.000 | 600.000,00 |
+| TOTAL DA ANULAÇÃO | 3.277.972,17 |
 
 ANEXO II
 
@@ -142,26 +122,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 394.506.696,32 |
-
-|Valor do decreto publicado nesta data |R$ 3.277.972,17 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 397.784.668,49 |
-
-|Saldo atual de créditos suplementares |R$ 2.094.650.399,11 |
-
-|Percentual utilizado |15,96% |
-
-|Atualizado em 03/03/2026 às 10:21:37 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 394.506.696,32 |
+| Valor do decreto publicado nesta data | R$ 3.277.972,17 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 397.784.668,49 |
+| Saldo atual de créditos suplementares | R$ 2.094.650.399,11 |
+| Percentual utilizado | 15,96% |
+| Atualizado em 03/03/2026 às 10:21:37 |  |

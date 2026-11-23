@@ -36,9 +36,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I DIA COMEMORATIVO H – Dias comemorativos de agosto:
 
-|AGOSTO |COMEMORAÇÃO |
-
-|28/8 |Dia Municipal do Esporte Olímpico Flag Football |
+| AGOSTO | COMEMORAÇÃO |
+| --- | --- |
+| 28/8 | Dia Municipal do Esporte Olímpico Flag Football |
 
 .”.
 

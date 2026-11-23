@@ -100,21 +100,15 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 “ANEXO II
 
-| |Descrição da infração |
-
-| | |
-
-|2. Poderão ser aplicadas, ainda, sanções previstas no edital do processo público ou no termo de outorga, ainda que | |
-
-|não transcritas no regulamento ou neste anexo, observado o devido processo legal. | |
-
-| | |
-
-|3. É permitido à fiscalização, no exercício de sua atividade, a apreensão cautelar de produto para fins de instrução| |
-
-|do processo administrativo de aplicação de penalidade. | |
-
-| | |
+|  | Descrição da infração |
+| --- | --- |
+|  |  |
+| 2. Poderão ser aplicadas, ainda, sanções previstas no edital do processo público ou no termo de outorga, ainda que |  |
+| não transcritas no regulamento ou neste anexo, observado o devido processo legal. |  |
+|  |  |
+| 3. É permitido à fiscalização, no exercício de sua atividade, a apreensão cautelar de produto para fins de instrução |  |
+| do processo administrativo de aplicação de penalidade. |  |
+|  |  |
 
 ” (NR)
 

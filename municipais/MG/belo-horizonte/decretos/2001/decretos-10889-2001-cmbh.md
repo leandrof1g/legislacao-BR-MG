@@ -66,129 +66,69 @@ ANEXO ÚNICO A QUE SE REFERE O DECRETO Nº 10.889/2001
 
 Relação de documentos a serem apresentados no ato do protocolo de requerimento do pedido de licença ambiental de acordo com cada etapa do licenciamento:
 
-|ETAPA/FASE |DOCUMENTOS |
-
-|DO LICENCIAMENTO | |
-
-|LP/LI/LO/Loc |Requerimento de solicitação da licença ambiental assinada pelo empreendedor, acompanhado de procuração, quando |
-
-| |for o caso. |
-
-|LP/LI/LO/Loc |Cópia da publicação de edital em jornal oficial e de grande circulação no Município explicitando a licença |
-
-| |ambiental requerida, o uso pretendido e localização do empreendimento. |
-
-|LP/LI/LO/Loc |Apresentação da Guia de Arrecadação Municipal - GAM. |
-
-|LI/LO/Loc |Cópia da licença da fase anterior |
-
-|LP /Loc |Informação básica do terreno expedida pela SMRU. |
-
-|LP/Loc |Autorização do COMAR caso a instalação da estação de telecomunicação exceda a altura máxima contida na |
-
-| |informação básica do terreno. |
-
-|LP/Loc |Cópia do registro ou escritura indicando o proprietário do terreno. |
-
-|LP/Loc |Cópia do contrato de locação do terreno ou autorização do proprietário, quando for o caso. |
-
-|LP/Loc |Comprovante do índice cadastral do imóvel (IPTU ou planta básica). |
-
-|LP/Loc |Cópia do documento de constituição da concessionária (contrato social, ato constitutivo, etc., acompanhado da |
-
-| |última alteração contratual). |
-
-|LP/Loc |Documento comprobatório da concessão expedido pela Agência Nacional de Telecomunicações - ANATEL. |
-
-|LP/Loc |Croquis do terreno na escala 1:1000, contendo a distância às esquinas mais próximas. |
-
-|LI/Loc |Croquis com vista frontal dos equipamentos da estação de telecomunicação devidamente cotados. |
-
-|LP/Loc |Diagrama representativo da elevação das edificações existentes, com cotas das dimensões, situadas no lóbulo |
-
-| |principal e secundário de cada antena transmissora e receptora. |
-
-|LP/Loc |Planta de situação do imóvel, em escala adequada, considerando a estação de telecomunicação informando o |
-
-| |constante no Art. 5º , incisos I, II, III e IV, da Lei Municipal nº 8.201/01. Indicação das edificações |
-
-| |existentes no imóvel e escala mínima de 1:200 para os incisos III e IV. Para o inciso II apresentar diagrama |
-
-| |representativo da elevação das edificações, situadas num raio de 30 metros em relação às antenas transmissoras |
-
-| |e receptoras. |
-
-|LP/Loc |Memorial descritivo dos elementos e instalações da estação de telecomunicação. |
-
-|LI/Loc |Anotação de Responsabilidade Técnica junto ao CREA-MG relativa ao projeto e instalação da estação de |
-
-| |telecomunicação. |
-
-|LI/Loc |Anotação de Responsabilidade Técnica junto ao CREA-MG relativa ao projeto e instalação do sistema de |
-
-| |aterramento das instalações da estação de telecomunicação. |
-
-|LP/LI/LO/Loc |EIA/RIMA-Estudo e Relatório de Impacto Ambiental (LP), PCA-Plano de Controle Ambiental (LI), RCA/PCA-Relatório |
-
-| |e Plano de Controle Ambiental (LOc), conforme termos de referência da SMMAS. |
-
-|LP/Loc |Mapa representativo em escala adequada por regional administrativa de Belo Horizonte, com nome do logradouro e |
-
-| |zoneamento de acordo com a Lei de Parcelamento Uso e Ocupação do Solo conforme as informações constantes dos |
-
-| |incisos I, II, III, IV e V do artigo 16 da Lei Municipal 8201/01. |
-
-|LI/ Lic/LO/Loc |Laudo radiométrico conforme Art. 10 e 11 da Lei Municipal 8201/01; |
-
-|LI/LO/Loc |Anotação de Responsabilidade Técnica junto ao Conselho Regional de Engenharia referente ao laudo radiométrico. |
-
-|LO/Loc |Laudo de medição dos níveis de pressão sonora referentes aos ruídos provenientes do funcionamento dos |
-
-| |equipamentos da estação de transmissão, considerando inclusive o funcionamento do ar condicionado, frente à |
-
-| |legislação ambiental municipal em vigor. |
-
-|LO/Loc |Anotação de Responsabilidade Técnica referente ao laudo de medições de pressão sonora. |
-
-|LI/LO/Loc |Comprovantes de calibração e aferição dos equipamentos utilizados nas medições das radiações não-ionizantes e |
-
-| |medição dos níveis de pressão sonora. |
-
-|LO/Loc |Anotação de Responsabilidade Técnica junto ao CREA-MG relativa ao projeto e instalação do sistema de segurança |
-
-| |da estação de telecomunicação. |
-
-|LI/Loc |Plano de Comunicação Social para LI e Loc , conforme termo referência da SMMAS e Comprovante da entrega da |
-
-| |comunicação social para comunidade, para LO e Loc. |
-
-|LO/Loc |Contrato de seguro em favor de terceiros conforme Lei Municipal 7858/99 e artigo 23 da Lei Municipal 8201/01. |
-
-|LI/Lic/Loc |Parecer da Gerência de Patrimônio Histórico Urbano quando se tratar de área de preservação do patrimônio |
-
-| |histórico e cultural. |
-
-|LP/Loc |Mapeamento em meio físico e magnético das estações de rádio base ou estação de transmissão já existentes e |
-
-| |propostas |
-
-|LP/Loc |Planilha eletrônica com as coordenadas geográficas em UTM, referência SAD69, das antenas de telecomunicação |
-
-| |instaladas e a serem instaladas. |
-
-|Lic |Comprovante de implantação do empreendimento antes da DN COMAM no 20/99 |
-
-|Loc |Comprovante de funcionamento do empreendimento antes da DN COMAM no 20/99 |
-
-|LP/LI/LO/Loc |Orientação básica para o licenciamento ambiental fornecida pela SMMAS |
-
-|LP |Anotações de Responsabilidade Técnica referente à elaboração do EIA/RIMA |
-
-|LI |Anotações de Responsabilidade Técnica referente à elaboração do PCA |
-
-|Loc |Anotações de Responsabilidade Técnica referente à elaboração do RCA/PCA |
-
-|LI |Comprovante de registro do profissional responsável pela elaboração do Plano de Comunicação Social |
+| ETAPA/FASE | DOCUMENTOS |
+| --- | --- |
+| DO LICENCIAMENTO |  |
+| LP/LI/LO/Loc | Requerimento de solicitação da licença ambiental assinada pelo empreendedor, acompanhado de procuração, quando |
+|  | for o caso. |
+| LP/LI/LO/Loc | Cópia da publicação de edital em jornal oficial e de grande circulação no Município explicitando a licença |
+|  | ambiental requerida, o uso pretendido e localização do empreendimento. |
+| LP/LI/LO/Loc | Apresentação da Guia de Arrecadação Municipal - GAM. |
+| LI/LO/Loc | Cópia da licença da fase anterior |
+| LP /Loc | Informação básica do terreno expedida pela SMRU. |
+| LP/Loc | Autorização do COMAR caso a instalação da estação de telecomunicação exceda a altura máxima contida na |
+|  | informação básica do terreno. |
+| LP/Loc | Cópia do registro ou escritura indicando o proprietário do terreno. |
+| LP/Loc | Cópia do contrato de locação do terreno ou autorização do proprietário, quando for o caso. |
+| LP/Loc | Comprovante do índice cadastral do imóvel (IPTU ou planta básica). |
+| LP/Loc | Cópia do documento de constituição da concessionária (contrato social, ato constitutivo, etc., acompanhado da |
+|  | última alteração contratual). |
+| LP/Loc | Documento comprobatório da concessão expedido pela Agência Nacional de Telecomunicações - ANATEL. |
+| LP/Loc | Croquis do terreno na escala 1:1000, contendo a distância às esquinas mais próximas. |
+| LI/Loc | Croquis com vista frontal dos equipamentos da estação de telecomunicação devidamente cotados. |
+| LP/Loc | Diagrama representativo da elevação das edificações existentes, com cotas das dimensões, situadas no lóbulo |
+|  | principal e secundário de cada antena transmissora e receptora. |
+| LP/Loc | Planta de situação do imóvel, em escala adequada, considerando a estação de telecomunicação informando o |
+|  | constante no Art. 5º , incisos I, II, III e IV, da Lei Municipal nº 8.201/01. Indicação das edificações |
+|  | existentes no imóvel e escala mínima de 1:200 para os incisos III e IV. Para o inciso II apresentar diagrama |
+|  | representativo da elevação das edificações, situadas num raio de 30 metros em relação às antenas transmissoras |
+|  | e receptoras. |
+| LP/Loc | Memorial descritivo dos elementos e instalações da estação de telecomunicação. |
+| LI/Loc | Anotação de Responsabilidade Técnica junto ao CREA-MG relativa ao projeto e instalação da estação de |
+|  | telecomunicação. |
+| LI/Loc | Anotação de Responsabilidade Técnica junto ao CREA-MG relativa ao projeto e instalação do sistema de |
+|  | aterramento das instalações da estação de telecomunicação. |
+| LP/LI/LO/Loc | EIA/RIMA-Estudo e Relatório de Impacto Ambiental (LP), PCA-Plano de Controle Ambiental (LI), RCA/PCA-Relatório |
+|  | e Plano de Controle Ambiental (LOc), conforme termos de referência da SMMAS. |
+| LP/Loc | Mapa representativo em escala adequada por regional administrativa de Belo Horizonte, com nome do logradouro e |
+|  | zoneamento de acordo com a Lei de Parcelamento Uso e Ocupação do Solo conforme as informações constantes dos |
+|  | incisos I, II, III, IV e V do artigo 16 da Lei Municipal 8201/01. |
+| LI/ Lic/LO/Loc | Laudo radiométrico conforme Art. 10 e 11 da Lei Municipal 8201/01; |
+| LI/LO/Loc | Anotação de Responsabilidade Técnica junto ao Conselho Regional de Engenharia referente ao laudo radiométrico. |
+| LO/Loc | Laudo de medição dos níveis de pressão sonora referentes aos ruídos provenientes do funcionamento dos |
+|  | equipamentos da estação de transmissão, considerando inclusive o funcionamento do ar condicionado, frente à |
+|  | legislação ambiental municipal em vigor. |
+| LO/Loc | Anotação de Responsabilidade Técnica referente ao laudo de medições de pressão sonora. |
+| LI/LO/Loc | Comprovantes de calibração e aferição dos equipamentos utilizados nas medições das radiações não-ionizantes e |
+|  | medição dos níveis de pressão sonora. |
+| LO/Loc | Anotação de Responsabilidade Técnica junto ao CREA-MG relativa ao projeto e instalação do sistema de segurança |
+|  | da estação de telecomunicação. |
+| LI/Loc | Plano de Comunicação Social para LI e Loc , conforme termo referência da SMMAS e Comprovante da entrega da |
+|  | comunicação social para comunidade, para LO e Loc. |
+| LO/Loc | Contrato de seguro em favor de terceiros conforme Lei Municipal 7858/99 e artigo 23 da Lei Municipal 8201/01. |
+| LI/Lic/Loc | Parecer da Gerência de Patrimônio Histórico Urbano quando se tratar de área de preservação do patrimônio |
+|  | histórico e cultural. |
+| LP/Loc | Mapeamento em meio físico e magnético das estações de rádio base ou estação de transmissão já existentes e |
+|  | propostas |
+| LP/Loc | Planilha eletrônica com as coordenadas geográficas em UTM, referência SAD69, das antenas de telecomunicação |
+|  | instaladas e a serem instaladas. |
+| Lic | Comprovante de implantação do empreendimento antes da DN COMAM no 20/99 |
+| Loc | Comprovante de funcionamento do empreendimento antes da DN COMAM no 20/99 |
+| LP/LI/LO/Loc | Orientação básica para o licenciamento ambiental fornecida pela SMMAS |
+| LP | Anotações de Responsabilidade Técnica referente à elaboração do EIA/RIMA |
+| LI | Anotações de Responsabilidade Técnica referente à elaboração do PCA |
+| Loc | Anotações de Responsabilidade Técnica referente à elaboração do RCA/PCA |
+| LI | Comprovante de registro do profissional responsável pela elaboração do Plano de Comunicação Social |
 
 Legenda:
 

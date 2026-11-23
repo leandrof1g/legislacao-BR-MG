@@ -62,29 +62,19 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.122.0140.2317.339093.1.570.000 |25.724,79 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.0146.2338.449052.1.710.610 |300.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1403.449051.1.710.010 |653.841,73 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|3503.26.452.0060.2567.449052.1.710.610 |100.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.079.566,52 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.122.0140.2317.339093.1.570.000 | 25.724,79 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.0146.2338.449052.1.710.610 | 300.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1403.449051.1.710.010 | 653.841,73 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3503.26.452.0060.2567.449052.1.710.610 | 100.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.079.566,52 |
 
 ANEXO II
 
@@ -128,26 +118,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.093.647.706,56 |
-
-|Valor do decreto publicado nesta data |R$ 1.079.566,52 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.094.727.273,08 |
-
-|Saldo atual de créditos suplementares |R$ 1.397.707.794,52 |
-
-|Percentual utilizado |43,92% |
-
-|Atualizado em 18/09/2026 às 12:09:00 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.093.647.706,56 |
+| Valor do decreto publicado nesta data | R$ 1.079.566,52 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.094.727.273,08 |
+| Saldo atual de créditos suplementares | R$ 1.397.707.794,52 |
+| Percentual utilizado | 43,92% |
+| Atualizado em 18/09/2026 às 12:09:00 |  |

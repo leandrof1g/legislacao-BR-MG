@@ -42,11 +42,10 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 J - Dias comemorativos de outubro
 
-|OUTUBRO |COMEMORAÇÃO |
-
-|25/10 |Dia Municipal de Conscientização e Combate ao Preconceito contra Pessoas com |
-
-| |Nanismo |
+| OUTUBRO | COMEMORAÇÃO |
+| --- | --- |
+| 25/10 | Dia Municipal de Conscientização e Combate ao Preconceito contra Pessoas com |
+|  | Nanismo |
 
 .”.
 

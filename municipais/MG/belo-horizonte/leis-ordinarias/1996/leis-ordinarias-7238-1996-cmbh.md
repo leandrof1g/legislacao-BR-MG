@@ -206,45 +206,27 @@ ANEXO I
 
 CARGOS DE PROVIMENTO EFETIVO E FUNÇÕES PÚBLICAS DA ÁREA DA SAÚDE DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CLASSES |NÚMERO DE CARGOS |
-
-|I. Agente Sanitário |520 |
-
-|II. Agente de Serviços de Saúde |2.950 |
-
-|III. Técnico de Serviços de Saúde |784 |
-
-|IV. Técnico Superior de Saúde |1.468 |
-
-|V. Cirurgião Dentista |615 |
-
-|VI. Médico |2.723 |
-
-|TOTAL |9.060 |
-
-|FUNÇÃO PÚBLICA |NÚMERO DE FUNÇÕES |
-
-|Gerente de Unidade de Saúde 1 |140 |
-
-|Gerente de Unidade de Saúde 2 |45 |
-
-|Gerente de Unidade de Saúde 3 |15 |
-
-|TOTAL |190 |
-
-|CLASSES |NÚMERO DE CARGOS |
-
-|(...) |(...) |
-
-|FUNÇÃO PÚBLICA |NÚMERO DE FUNÇÕES |
-
-|Gerente de Unidade de Saúde 1 |155 |
-
-|Gerente de Unidade de Saúde 2 |55 |
-
-|Gerente de Unidade de Saúde 3 |23 |
-
-|Total |233 |
+| CLASSES | NÚMERO DE CARGOS |
+| --- | --- |
+| I. Agente Sanitário | 520 |
+| II. Agente de Serviços de Saúde | 2.950 |
+| III. Técnico de Serviços de Saúde | 784 |
+| IV. Técnico Superior de Saúde | 1.468 |
+| V. Cirurgião Dentista | 615 |
+| VI. Médico | 2.723 |
+| TOTAL | 9.060 |
+| FUNÇÃO PÚBLICA | NÚMERO DE FUNÇÕES |
+| Gerente de Unidade de Saúde 1 | 140 |
+| Gerente de Unidade de Saúde 2 | 45 |
+| Gerente de Unidade de Saúde 3 | 15 |
+| TOTAL | 190 |
+| CLASSES | NÚMERO DE CARGOS |
+| (...) | (...) |
+| FUNÇÃO PÚBLICA | NÚMERO DE FUNÇÕES |
+| Gerente de Unidade de Saúde 1 | 155 |
+| Gerente de Unidade de Saúde 2 | 55 |
+| Gerente de Unidade de Saúde 3 | 23 |
+| Total | 233 |
 
 Função Pública e Número de Funções do Anexo I com redação dada pela Lei nº 9.254, de 6/10/2006 (Art. 4º)
 
@@ -252,45 +234,27 @@ ANEXO I
 
 Anexo I com redação dada pela Lei nº 9.816, de 18/1/2010 (Art. 14)
 
-|CARGOS |NÚMERO DE CARGOS |
-
-|Agente Sanitário |520 |
-
-|Agente de Serviços de Saúde |3.750 |
-
-|Técnico de Serviços de Saúde |784 |
-
-| |1.603 |
-
-| |Número de cargos com redação dada pela Lei nº |
-
-| |10.695, de 9/1/2014 (Art. 2º) |
-
-|Técnico Superior de Saúde |2.400 |
-
-| |1.400 |
-
-| |Número de cargos com redação dada pela Lei nº |
-
-| |10.252, de 12/9/2011 (Art. 4º, § 2º) |
-
-| |1.584 |
-
-| |Número de cargos com redação dada pela Lei nº |
-
-| |10.695, de 9/1/2014 (Art. 2º) |
-
-|Cirurgião-Dentista |615 |
-
-|Médico |3.266 |
-
-|Enfermeiro |1.400 |
-
-|Cargo acrescentado pela Lei nº 10.252, de 12/9/2011 (Art. |1.418 |
-
-|4º, § 2º) |Número de cargos com redação dada pela Lei nº |
-
-| |10.695, de 9/1/2014 (Art. 2º) |
+| CARGOS | NÚMERO DE CARGOS |
+| --- | --- |
+| Agente Sanitário | 520 |
+| Agente de Serviços de Saúde | 3.750 |
+| Técnico de Serviços de Saúde | 784 |
+|  | 1.603 |
+|  | Número de cargos com redação dada pela Lei nº |
+|  | 10.695, de 9/1/2014 (Art. 2º) |
+| Técnico Superior de Saúde | 2.400 |
+|  | 1.400 |
+|  | Número de cargos com redação dada pela Lei nº |
+|  | 10.252, de 12/9/2011 (Art. 4º, § 2º) |
+|  | 1.584 |
+|  | Número de cargos com redação dada pela Lei nº |
+|  | 10.695, de 9/1/2014 (Art. 2º) |
+| Cirurgião-Dentista | 615 |
+| Médico | 3.266 |
+| Enfermeiro | 1.400 |
+| Cargo acrescentado pela Lei nº 10.252, de 12/9/2011 (Art. | 1.418 |
+| 4º, § 2º) | Número de cargos com redação dada pela Lei nº |
+|  | 10.695, de 9/1/2014 (Art. 2º) |
 
 ANEXO I
 
@@ -300,21 +264,15 @@ DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
 Anexo I com redação dada pela Lei nº 11.134, de 17/10/2018 (Art. 22, parágrafo único)
 
-|CARGOS |NÚMERO DE CARGOS|
-
-|Agente Sanitário |520 |
-
-|Agente de Serviços de Saúde |3.850 |
-
-|Técnico de Serviços de Saúde |1.603 |
-
-|Técnico Superior de Saúde |1.704 |
-
-|Cirurgião-Dentista |615 |
-
-|Médico |3.266 |
-
-|Enfermeiro |1.518 |
+| CARGOS | NÚMERO DE CARGOS |
+| --- | --- |
+| Agente Sanitário | 520 |
+| Agente de Serviços de Saúde | 3.850 |
+| Técnico de Serviços de Saúde | 1.603 |
+| Técnico Superior de Saúde | 1.704 |
+| Cirurgião-Dentista | 615 |
+| Médico | 3.266 |
+| Enfermeiro | 1.518 |
 
 ANEXO I
 
@@ -322,15 +280,12 @@ CARGOS DE PROVIMENTO EFETIVO E FUNÇÕES PÚBLICAS DA ÁREA DA SAÚDE
 
 DA PREFEITURA DE BELO HORIZONTE
 
-|CARGO |QUANTITATIVO |
-
-|AGENTE SANITÁRIO |186 |
-
-|CIRURGIÃO-DENTISTA |615 |
-
-|ENFERMEIRO |1.768 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |1.954 |
+| CARGO | QUANTITATIVO |
+| --- | --- |
+| AGENTE SANITÁRIO | 186 |
+| CIRURGIÃO-DENTISTA | 615 |
+| ENFERMEIRO | 1.768 |
+| TÉCNICO SUPERIOR DE SAÚDE | 1.954 |
 
 Anexo I com redação dada pela Lei nº 11.374, de 4/7/2022 (Art. 32)
 
@@ -340,23 +295,16 @@ ANEXO I-A
 
 JORNADAS DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DA SAÚDE DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CARGOS |JORNADAS SEMANAIS |
-
-|Agente Sanitário |30 e 40 horas |
-
-|Agente de Serviços de Saúde |30 e 40 horas |
-
-|Linha revogada pela Lei nº 11.374, de 4/7/2022 (Art. 39, I) | |
-
-|Técnico de Serviços de Saúde |24, 30 e 40 horas |
-
-|Linha revogada pela Lei nº 11.374, de 4/7/2022 (Art. 39, I) | |
-
-|Técnico Superior de Saúde |20, 30 e 40 horas |
-
-|Cirurgião-Dentista |20 e 40 horas |
-
-|Enfermeiro |20, 30 e 40 horas |
+| CARGOS | JORNADAS SEMANAIS |
+| --- | --- |
+| Agente Sanitário | 30 e 40 horas |
+| Agente de Serviços de Saúde | 30 e 40 horas |
+| Linha revogada pela Lei nº 11.374, de 4/7/2022 (Art. 39, I) |  |
+| Técnico de Serviços de Saúde | 24, 30 e 40 horas |
+| Linha revogada pela Lei nº 11.374, de 4/7/2022 (Art. 39, I) |  |
+| Técnico Superior de Saúde | 20, 30 e 40 horas |
+| Cirurgião-Dentista | 20 e 40 horas |
+| Enfermeiro | 20, 30 e 40 horas |
 
 Anexo I-A acrescentado pela Lei nº 11.224, de 19/3/2020 (Art. 14)
 
@@ -616,53 +564,35 @@ TABELA DE VENCIMENTOS DOS CARGOS EFETIVOS DA ÁREA
 
 DA SAÚDE DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CARGOS EFETIVOS |NÍVEIS DE VENCIMENTO |
-
-| |1 |
-
-|Gerente de Unidade de Saúde 1 | 1.072,00 |
-
-|Gerente de Unidade de Saúde 2 | 1.225,00 |
-
-|Gerente de Unidade de Saúde 3 | 1.379,00 |
+| CARGOS EFETIVOS | NÍVEIS DE VENCIMENTO |
+| --- | --- |
+|  | 1 |
+| Gerente de Unidade de Saúde 1 | 1.072,00 |
+| Gerente de Unidade de Saúde 2 | 1.225,00 |
+| Gerente de Unidade de Saúde 3 | 1.379,00 |
 
 ANEXO IV
 
 POSICIONAMENTO DOS CARGOS DA ÁREA DA SAÚDE
 
-|CARGO DE PROVIMENTO EFETIVO ATUAL |CARGO E POSICIONAMENTO PROPOSTO |
-
-|Auxiliar Sanitário |Agente Sanitário Nível 1 |
-
-|Agente de Serviços de Saúde I |Agente de Serviços de Saúde Nível 1 |
-
-|Agente de Serviços de Saúde II |Agente de Serviços de Saúde Nível 1 |
-
-|Agente de Serviços de Saúde III |Agente de Serviços de Saúde Nível 1 |
-
-|Técnico de Serviços de Saúde I |Técnico de Serviços de Saúde Nível 1 |
-
-|Técnico de Serviços de Saúde II |Técnico de Serviços de Saúde Nível 1 |
-
-|Técnico de Serviços de Saúde III |Técnico de Serviços de Saúde Nível 2 |
-
-|Técnico Superior de Saúde I |Técnico Superior de Saúde Nível 1 |
-
-|Técnico Superior de Saúde II |Técnico Superior de Saúde Nível 3 |
-
-|Técnico Superior de Saúde III |Técnico Superior de saúde Nível 5 |
-
-|Cirurgião Dentista I |Cirurgião Dentista Nível 1 |
-
-|Cirurgião Dentista II |Cirurgião Dentista Nível 3 |
-
-|Cirurgião Dentista III |Cirurgião Dentista Nível 6 |
-
-|Médico I |Médico Nível 1 |
-
-|Médico II |Médico Nível 4 |
-
-|Médico III |Médico Nível 7 |
+| CARGO DE PROVIMENTO EFETIVO ATUAL | CARGO E POSICIONAMENTO PROPOSTO |
+| --- | --- |
+| Auxiliar Sanitário | Agente Sanitário Nível 1 |
+| Agente de Serviços de Saúde I | Agente de Serviços de Saúde Nível 1 |
+| Agente de Serviços de Saúde II | Agente de Serviços de Saúde Nível 1 |
+| Agente de Serviços de Saúde III | Agente de Serviços de Saúde Nível 1 |
+| Técnico de Serviços de Saúde I | Técnico de Serviços de Saúde Nível 1 |
+| Técnico de Serviços de Saúde II | Técnico de Serviços de Saúde Nível 1 |
+| Técnico de Serviços de Saúde III | Técnico de Serviços de Saúde Nível 2 |
+| Técnico Superior de Saúde I | Técnico Superior de Saúde Nível 1 |
+| Técnico Superior de Saúde II | Técnico Superior de Saúde Nível 3 |
+| Técnico Superior de Saúde III | Técnico Superior de saúde Nível 5 |
+| Cirurgião Dentista I | Cirurgião Dentista Nível 1 |
+| Cirurgião Dentista II | Cirurgião Dentista Nível 3 |
+| Cirurgião Dentista III | Cirurgião Dentista Nível 6 |
+| Médico I | Médico Nível 1 |
+| Médico II | Médico Nível 4 |
+| Médico III | Médico Nível 7 |
 
 Anexo IV revogado pela Lei nº 11.677, de 2/4/2024 (Art. 26)
 
@@ -670,20 +600,14 @@ ANEXO V
 
 PERCENTUAIS SOBRE O VENCIMENTO PARA PAGAMENTO DO ADICIONAL DE INSALUBRIDADE
 
-|CLASSES |% SOBRE O VENCIMENTO DO NÍVEL INICIAL DO CARGO |
-
-| |INSALUBRIDADE MÍNIMA |INSALUBRIDADE MÉDIA |INSALU-BRIDADE MÁXIMA |
-
-|I |Agente Sanitário |3,58% |7,16% |14,33% |
-
-|II |Agente de Serviços de Saúde |2,96% |5,91% |11,82% |
-
-|III |Técnico de Serviços de Saúde |2,88% |5,77% |11,53% |
-
-|IV |Técnico Superior de Saúde |1,61% |3,22% |6,45% |
-
-|V |Cirurgião Dentista |1,57% |3,15% |6,29% |
-
-|VI |Médico |1,27% |2,55% |5,09% |
+| CLASSES | % SOBRE O VENCIMENTO DO NÍVEL INICIAL DO CARGO |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | INSALUBRIDADE MÍNIMA | INSALUBRIDADE MÉDIA | INSALU-BRIDADE MÁXIMA |  |
+| I | Agente Sanitário | 3,58% | 7,16% | 14,33% |
+| II | Agente de Serviços de Saúde | 2,96% | 5,91% | 11,82% |
+| III | Técnico de Serviços de Saúde | 2,88% | 5,77% | 11,53% |
+| IV | Técnico Superior de Saúde | 1,61% | 3,22% | 6,45% |
+| V | Cirurgião Dentista | 1,57% | 3,15% | 6,29% |
+| VI | Médico | 1,27% | 2,55% | 5,09% |
 
 Anexo V revogado pela Lei nº 11.677, de 2/4/2024 (Art. 26)

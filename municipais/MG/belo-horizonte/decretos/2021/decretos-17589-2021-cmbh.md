@@ -52,52 +52,32 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Assuntos Institucionais e |
-
-|Comunicação Social – SMAICS –, conforme autorização contida |
-
-|no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
+| I.1 – A favor da Secretaria Municipal de Assuntos Institucionais e |  |
+| --- | --- |
+| Comunicação Social – SMAICS –, conforme autorização contida |  |
+| no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
 | 3200.04.131.015.2.007.3390.0000 | 5.000.000,00 |
-
-|TOTAL | 5.000.000,00 |
-
-|I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme |
-
-|autorização contida no inciso II do § 1º do art. 4º da Lei nº 11.277,|
-
-|de 28 de dezembro de 2020: |
-
-|R$ |
-
+| TOTAL | 5.000.000,00 |
+| I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme |  |
+| autorização contida no inciso II do § 1º do art. 4º da Lei nº 11.277, |  |
+| de 28 de dezembro de 2020: |  |
+| R$ |  |
 | 2302.10.301.157.2.902.4567.0000 | 5.600.000,00 |
-
-|TOTAL | 5.600.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO | 10.600.000,00 |
+| TOTAL | 5.600.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 10.600.000,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 da |
-
-|tabela anterior: |
-
-|R$ |
-
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 da |  |
+| --- | --- |
+| tabela anterior: |  |
+| R$ |  |
 | 4001.28.846.089.3.137.3190.0000 | 5.000.000,00 |
-
-|TOTAL | 5.000.000,00 |
-
-|II.2 – Em contrapartida à suplementação relacionada no item I.2 da |
-
-|tabela anterior: |
-
-|R$ |
-
+| TOTAL | 5.000.000,00 |
+| II.2 – Em contrapartida à suplementação relacionada no item I.2 da |  |
+| tabela anterior: |  |
+| R$ |  |
 | 2302.10.301.157.2.902.3367.0000 | 5.600.000,00 |
-
-|TOTAL | 5.600.000,00 |
-
-|TOTAL DA ANULAÇÃO | 10.600.000,00 |
+| TOTAL | 5.600.000,00 |
+| TOTAL DA ANULAÇÃO | 10.600.000,00 |

@@ -36,23 +36,16 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, de con
 
 **Art. 1º** - Ficam as entidades filantrópicas conveniadas com o Município de Belo Horizonte, prestadoras de serviços públicos de assistência social, autorizadas a contratar pessoal, para a manutenção da prestação dos serviços públicos essenciais, garantidores da sobrevivência, saúde e segurança das crianças e adolescentes, nos limites do quadro abaixo:
 
-|CARGO |QUANTIDADE |
-
-|Técnico |23 |
-
-|Educador |44 |
-
-|Mãe Social |18 |
-
-|Orientador Social I e II |06 |
-
-|Monitor |01 |
-
-|Oficineiro |01 |
-
-|Coordenador |01 |
-
-|Monitor de Cozinha |01 |
+| CARGO | QUANTIDADE |
+| --- | --- |
+| Técnico | 23 |
+| Educador | 44 |
+| Mãe Social | 18 |
+| Orientador Social I e II | 06 |
+| Monitor | 01 |
+| Oficineiro | 01 |
+| Coordenador | 01 |
+| Monitor de Cozinha | 01 |
 
 **Art. 2º** - Este Decreto entra em vigor na data de sua publicação.
 

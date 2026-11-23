@@ -28,97 +28,59 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 1º** - Os vencimentos-base atribuídos aos ocupantes dos cargos públicos efetivos de Engenheiro e Arquiteto na Tabela de Vencimentos do Plano de Carreira da Área de Atividades de Engenharia e Arquitetura, instituída pela Lei nº 7.971, de 31 de março de 2000, em cumprimento de jornada de 6 (seis) horas diárias, ficam alterados em 1º de setembro de 2005, nos seguintes valores:
 
-|Níveis de Vencimento |Valor do |
-
-| |vencimento-base (em R$) |
-
-|1 |1.039,06 |
-
-|2 |1.091,01 |
-
-|3 |1.145,56 |
-
-|4 |1.202,84 |
-
-|5 |1.262,98 |
-
-|6 |1.326,13 |
-
-|7 |1.392,44 |
-
-|8 |1.462,06 |
-
-|9 |1.535,16 |
-
-|10 |1.611,92 |
-
-|11 |1.692,52 |
-
-|12 |1.777,15 |
-
-|13 |1.866,00 |
-
-|14 |1.959,30 |
-
-|15 |2.057,27 |
+| Níveis de Vencimento | Valor do |
+| --- | --- |
+|  | vencimento-base (em R$) |
+| 1 | 1.039,06 |
+| 2 | 1.091,01 |
+| 3 | 1.145,56 |
+| 4 | 1.202,84 |
+| 5 | 1.262,98 |
+| 6 | 1.326,13 |
+| 7 | 1.392,44 |
+| 8 | 1.462,06 |
+| 9 | 1.535,16 |
+| 10 | 1.611,92 |
+| 11 | 1.692,52 |
+| 12 | 1.777,15 |
+| 13 | 1.866,00 |
+| 14 | 1.959,30 |
+| 15 | 2.057,27 |
 
 **§ 1º** - Os vencimentos-base atribuídos aos ocupantes do cargo público efetivo de Engenheiro e Arquiteto na Tabela de Vencimentos do Plano de Carreira da Área de Atividades de Engenharia e Arquitetura, em cumprimento de jornada de 8 (oito) horas diárias, ficam alterados em 1º de setembro de 2005, nos seguintes valores:
 
-|Níveis de |Valor do |
-
-|Vencimento |vencimento-base (em R$) |
-
-|1 |1.870,00 |
-
-|2 |1.963,50 |
-
-|3 |2.061,68 |
-
-|4 |2.164,76 |
-
-|5 |2.273,00 |
-
-|6 |2.386,65 |
-
-|7 |2.505,98 |
-
-|8 |2.631,28 |
-
-|9 |2.762,84 |
-
-|10 |2.900,98 |
-
-|Níveis de |Valor do |
-
-|Vencimento |vencimento-base (em R$) |
-
-|11 |3.046,03 |
-
-|12 |3.198,33 |
-
-|13 |3.358,25 |
-
-|14 |3.526,16 |
-
-|15 |3.702,47 |
+| Níveis de | Valor do |
+| --- | --- |
+| Vencimento | vencimento-base (em R$) |
+| 1 | 1.870,00 |
+| 2 | 1.963,50 |
+| 3 | 2.061,68 |
+| 4 | 2.164,76 |
+| 5 | 2.273,00 |
+| 6 | 2.386,65 |
+| 7 | 2.505,98 |
+| 8 | 2.631,28 |
+| 9 | 2.762,84 |
+| 10 | 2.900,98 |
+| Níveis de | Valor do |
+| Vencimento | vencimento-base (em R$) |
+| 11 | 3.046,03 |
+| 12 | 3.198,33 |
+| 13 | 3.358,25 |
+| 14 | 3.526,16 |
+| 15 | 3.702,47 |
 
 **§ 2º** - Os pisos de remuneração dos servidores públicos ocupantes dos cargos de Engenheiro e Arquiteto, que não exerceram a opção do art. 2º da Lei nº 7.971/2000, ficam alterados em 1º de setembro de 2005, nos seguintes valores:
 
-|Cargos públicos efetivos |Piso de remuneração em |
-
-| |setembro de 2005 (em R$) |
-
-|Engenheiro I |1.225,67 |
-
-|Arquiteto I | |
-
-|Engenheiro II |1.327,66 |
-
-|Arquiteto II | |
-
-|Engenheiro III |1.438,30 |
-
-|Arquiteto III | |
+| Cargos públicos efetivos | Piso de remuneração em |
+| --- | --- |
+|  | setembro de 2005 (em R$) |
+| Engenheiro I | 1.225,67 |
+| Arquiteto I |  |
+| Engenheiro II | 1.327,66 |
+| Arquiteto II |  |
+| Engenheiro III | 1.438,30 |
+| Arquiteto III |  |
 
 **Art. 2º** - Fica o Executivo autorizado a abrir crédito adicional no orçamento vigente, no valor de R$2.529.568,29 (dois milhões, quinhentos e vinte e nove mil, quinhentos e sessenta e oito reais e vinte e nove centavos), conforme o disposto nos artigos 40 a 46 da Lei nº 4.320, de 17 de março de 1964.
 

@@ -52,32 +52,22 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos, conforme autorização contida no §|
-
-|2º do art. 4º da Lei nº 11.211, de 26 de dezembro de 2019: |
-
-|R$ |
-
+| I.1 – A favor de diversos órgãos, conforme autorização contida no § |  |
+| --- | --- |
+| 2º do art. 4º da Lei nº 11.211, de 26 de dezembro de 2019: |  |
+| R$ |  |
 | 2302.10.302.203.2.894.4450.0450 | 53.000,00 |
-
 | 2710.26.452.060.2.837.3391.0300 | 1.124.646,00 |
-
 | 3000.27.812.101.2.534.4490.0430 | 30.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.207.646,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.207.646,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1 |
-
-|da tabela anterior: |
-
-|R$ |
-
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
 | 2302.10.302.203.2.894.4491.0450 | 53.000,00 |
-
 | 2710.26.452.060.2.837.3390.0300 | 1.124.646,00 |
-
 | 3000.27.812.101.2.534.4490.0400 | 30.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.207.646,00 |
+| TOTAL DA ANULAÇÃO | 1.207.646,00 |

@@ -58,43 +58,29 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei nº|R$ |
-
-|11.802, de 3 de janeiro de 2025: | |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0305.2910.336045.1.500.000 |2.000.000,00 |
-
-|3302.26.452.0305.2910.336045.1.501.784 |2.202.538,51 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.202.538,51 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei nº | R$ |
+| --- | --- |
+| 11.802, de 3 de janeiro de 2025: |  |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0305.2910.336045.1.500.000 | 2.000.000,00 |
+| 3302.26.452.0305.2910.336045.1.501.784 | 2.202.538,51 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.202.538,51 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0117.1216.449051.1.500.000 |2.000.000,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0060.2567.449040.1.501.784 |849.278,00 |
-
-|3302.26.452.0060.2567.339030.1.501.784 |53.260,51 |
-
-|3302.26.452.0060.2567.449051.1.501.784 |450.000,00 |
-
-|3302.26.452.0060.2567.449052.1.501.784 |450.000,00 |
-
-|3302.26.452.0305.2910.339039.1.501.784 |84.156,00 |
-
-|3302.26.452.0305.2910.449052.1.501.784 |315.844,00 |
-
-|TOTAL DA ANULAÇÃO |4.202.538,51 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0117.1216.449051.1.500.000 | 2.000.000,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0060.2567.449040.1.501.784 | 849.278,00 |
+| 3302.26.452.0060.2567.339030.1.501.784 | 53.260,51 |
+| 3302.26.452.0060.2567.449051.1.501.784 | 450.000,00 |
+| 3302.26.452.0060.2567.449052.1.501.784 | 450.000,00 |
+| 3302.26.452.0305.2910.339039.1.501.784 | 84.156,00 |
+| 3302.26.452.0305.2910.449052.1.501.784 | 315.844,00 |
+| TOTAL DA ANULAÇÃO | 4.202.538,51 |
 
 ANEXO II
 
@@ -118,24 +104,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 644.326.740,62 |
-
-|Valor do Decreto publicado nesta data |R$ 4.202.538,51 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 648.529.279,13 |
-
-|Saldo atual de créditos suplementares |R$ 1.616.851.518,17 |
-
-|Percentual utilizado |28,63% |
-
-|Atualizado em 23/09/2025 às 11:34:30 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 644.326.740,62 |
+| Valor do Decreto publicado nesta data | R$ 4.202.538,51 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 648.529.279,13 |
+| Saldo atual de créditos suplementares | R$ 1.616.851.518,17 |
+| Percentual utilizado | 28,63% |
+| Atualizado em 23/09/2025 às 11:34:30 |  |

@@ -40,33 +40,21 @@ III – à Taxa de Expediente, prevista no subitem 2 do Grupo VI do item VII da 
 
 GRUPO III - RESTAURANTE POPULAR:
 
-|GRUPO III - RESTAURANTE POPULAR: |
-
-|1 – Refeição servida em bandejão (almoço) |R$3,00 p/refeição |
-
-|2 – Refeição do tipo “sopa” (jantar) |R$1,50 p/refeição |
-
-|3 – Desjejum |R$0,75 p/refeição |
-
-|Obs.: 1) Os preços públicos previstos neste item serão reduzidos pela metade quando as refeições forem|
-
-|fornecidas para membros de famílias beneficiárias do Programa Bolsa Família, mediante a apresentação |
-
-|do comprovante de cadastramento no Programa e de documento de identidade oficial. |
-
-|2) Os preços públicos previstos neste item não serão cobrados quando as refeições forem fornecidas |
-
-|para População em Situação de Rua, mediante comprovante de cadastramento no Cadastro Único dos |
-
-|Programas Sociais do Governo Federal (CAD Único – Formulário Suplementar 2 “População em Situação de |
-
-|Rua”), disponibilizado na Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania,|
-
-|e do documento de identidade oficial. |
-
-|3) O comprovante de que trata as obs. 1 e 2 deverá ter sido emitido há, no máximo, seis meses, |
-
-|contados do momento de sua apresentação. |
+| GRUPO III - RESTAURANTE POPULAR: |  |
+| --- | --- |
+| 1 – Refeição servida em bandejão (almoço) | R$3,00 p/refeição |
+| 2 – Refeição do tipo “sopa” (jantar) | R$1,50 p/refeição |
+| 3 – Desjejum | R$0,75 p/refeição |
+| Obs.: 1) Os preços públicos previstos neste item serão reduzidos pela metade quando as refeições forem |  |
+| fornecidas para membros de famílias beneficiárias do Programa Bolsa Família, mediante a apresentação |  |
+| do comprovante de cadastramento no Programa e de documento de identidade oficial. |  |
+| 2) Os preços públicos previstos neste item não serão cobrados quando as refeições forem fornecidas |  |
+| para População em Situação de Rua, mediante comprovante de cadastramento no Cadastro Único dos |  |
+| Programas Sociais do Governo Federal (CAD Único – Formulário Suplementar 2 “População em Situação de |  |
+| Rua”), disponibilizado na Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania, |  |
+| e do documento de identidade oficial. |  |
+| 3) O comprovante de que trata as obs. 1 e 2 deverá ter sido emitido há, no máximo, seis meses, |  |
+| contados do momento de sua apresentação. |  |
 
 **Art. 3º** – Este decreto entra em vigor em 1º de janeiro de 2018.
 

@@ -44,4 +44,5 @@ ANEXO
 
 (a que se refere o art. 1º do Decreto nº 18.872, de 8 de novembro de 2024)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

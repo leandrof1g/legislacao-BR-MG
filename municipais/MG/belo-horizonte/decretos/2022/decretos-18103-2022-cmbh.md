@@ -58,117 +58,66 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do|R$ |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Procuradoria-Geral do Município – PGM |
-
-|0500.04.062.003.2.011.3390.0000 |1.200.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.168.2.702.3390.0000 |22.746,00 |
-
-|2200.12.361.168.2.702.3390.0000 |601.212,00 |
-
-|2200.12.367.167.2.701.3390.0000 |189.279,00 |
-
-|2200.12.361.168.2.702.3390.0000 |320.760,00 |
-
-|2200.12.361.168.2.702.3390.0000 |675.378,00 |
-
-|2200.12.365.169.2.542.3390.0000 |1.908.806,00 |
-
-|2200.12.367.167.2.701.3390.0000 |137.336,00 |
-
-|2200.12.361.168.2.702.3390.0000 |746.601,00 |
-
-|2200.12.361.168.2.702.3390.0000 |184.041,00 |
-
-|2200.12.367.167.2.701.3390.0000 |159.279,00 |
-
-|2200.12.361.168.2.702.3390.0000 |7.572,00 |
-
-|2200.12.365.169.2.702.3390.0000 |1.398,00 |
-
-|2200.12.367.167.2.701.3390.0000 |111.115,00 |
-
-|2200.12.361.168.2.702.3390.0000 |15.162,00 |
-
-|2200.12.365.169.2.542.3390.0000 |179.921,00 |
-
-|2200.12.122.140.2.317.3390.0000 |401.964,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.066.1.400.4490.0000 |1.600.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.629.3390.0000 |4.000.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.101.2.536.3390.0000 |35.991,74 |
-
-|3000.27.812.101.2.536.4490.0000 |10.216,67 |
-
-|3000.27.812.101.2.869.4490.0000 |5.364,15 |
-
-|TOTAL |12.514.142,56 |
-
-|I.1.2 – A favor do Fundo Municipal de Saúde – FMS, conforme autorização |R$ |
-
-|contida no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2302.10.302.114.2.893.3390.0050 |3.929.773,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |16.443.915,56 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do | R$ |
+| --- | --- |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Procuradoria-Geral do Município – PGM |  |
+| 0500.04.062.003.2.011.3390.0000 | 1.200.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.168.2.702.3390.0000 | 22.746,00 |
+| 2200.12.361.168.2.702.3390.0000 | 601.212,00 |
+| 2200.12.367.167.2.701.3390.0000 | 189.279,00 |
+| 2200.12.361.168.2.702.3390.0000 | 320.760,00 |
+| 2200.12.361.168.2.702.3390.0000 | 675.378,00 |
+| 2200.12.365.169.2.542.3390.0000 | 1.908.806,00 |
+| 2200.12.367.167.2.701.3390.0000 | 137.336,00 |
+| 2200.12.361.168.2.702.3390.0000 | 746.601,00 |
+| 2200.12.361.168.2.702.3390.0000 | 184.041,00 |
+| 2200.12.367.167.2.701.3390.0000 | 159.279,00 |
+| 2200.12.361.168.2.702.3390.0000 | 7.572,00 |
+| 2200.12.365.169.2.702.3390.0000 | 1.398,00 |
+| 2200.12.367.167.2.701.3390.0000 | 111.115,00 |
+| 2200.12.361.168.2.702.3390.0000 | 15.162,00 |
+| 2200.12.365.169.2.542.3390.0000 | 179.921,00 |
+| 2200.12.122.140.2.317.3390.0000 | 401.964,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.066.1.400.4490.0000 | 1.600.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.629.3390.0000 | 4.000.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.101.2.536.3390.0000 | 35.991,74 |
+| 3000.27.812.101.2.536.4490.0000 | 10.216,67 |
+| 3000.27.812.101.2.869.4490.0000 | 5.364,15 |
+| TOTAL | 12.514.142,56 |
+| I.1.2 – A favor do Fundo Municipal de Saúde – FMS, conforme autorização | R$ |
+| contida no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2302.10.302.114.2.893.3390.0050 | 3.929.773,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 16.443.915,56 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, |R$ |
-
-|anulação de recursos orçamentários anteriormente previstos nos seguintes | |
-
-|órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.168.2.080.3390.0000 |5.662.570,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.225.1.231.4490.0000 |100.000,00 |
-
-|2704.16.482.225.1.231.4490.0000 |360.000,00 |
-
-|2704.16.482.225.1.231.4490.0000 |1.140.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.101.2.106.3390.0000 |48.572,56 |
-
-|3000.27.812.101.2.545.3390.0000 |3.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – |
-
-|EGM-SMPOG |
-
-|4002.04.331.014.2.710.3390.0000 |5.200.000,00 |
-
-|TOTAL |12.514.142,56 |
-
-|I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação |R$ |
-
-|de recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde | |
-
-|– FMS: | |
-
-|2302.10.301.157.2.690.3390.0050 |3.929.773,00 |
-
-|TOTAL DA ANULAÇÃO |16.443.915,56 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, | R$ |
+| --- | --- |
+| anulação de recursos orçamentários anteriormente previstos nos seguintes |  |
+| órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.168.2.080.3390.0000 | 5.662.570,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.225.1.231.4490.0000 | 100.000,00 |
+| 2704.16.482.225.1.231.4490.0000 | 360.000,00 |
+| 2704.16.482.225.1.231.4490.0000 | 1.140.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.101.2.106.3390.0000 | 48.572,56 |
+| 3000.27.812.101.2.545.3390.0000 | 3.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – |  |
+| EGM-SMPOG |  |
+| 4002.04.331.014.2.710.3390.0000 | 5.200.000,00 |
+| TOTAL | 12.514.142,56 |
+| I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação | R$ |
+| de recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde |  |
+| – FMS: |  |
+| 2302.10.301.157.2.690.3390.0050 | 3.929.773,00 |
+| TOTAL DA ANULAÇÃO | 16.443.915,56 |
 
 ANEXO II
 
@@ -212,34 +161,20 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite de |Inciso I do § 1º do art. 4º,|Inciso II do § 1º art. 4º, |
-
-|11.336, de 30/12/2021 - |15% do valor total do |limite de 15% do total do |limite de 15% do total do |
-
-|Limites autorizados para|Orçamento: |Orçamento do Grupo 1 - |Orçamento do Fundo Municipal|
-
-|abertura de créditos | |Pessoal e Encargos Sociais: |de Saúde - FMS: |
-
-|suplementares | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 667.987.082,87 |R$ 138.257.072,88 |R$ 354.796.572,67 |
-
-|suplementares abertos no| | | |
-
-|exercício | | | |
-
-|Saldos de créditos |R$ 1.633.163.602,78 |R$ 745.735.235,82 |R$ 372.420.579,98 |
-
-|suplementares | | | |
-
-|Percentual utilizado |29,03% |15,64% |48,79% |
-
-|Atualizado em 20/09/2022 às 08:16:18 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite de | Inciso I do § 1º do art. 4º, | Inciso II do § 1º art. 4º, |
+| 11.336, de 30/12/2021 - | 15% do valor total do | limite de 15% do total do | limite de 15% do total do |
+| Limites autorizados para | Orçamento: | Orçamento do Grupo 1 - | Orçamento do Fundo Municipal |
+| abertura de créditos |  | Pessoal e Encargos Sociais: | de Saúde - FMS: |
+| suplementares |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 667.987.082,87 | R$ 138.257.072,88 | R$ 354.796.572,67 |
+| suplementares abertos no |  |  |  |
+| exercício |  |  |  |
+| Saldos de créditos | R$ 1.633.163.602,78 | R$ 745.735.235,82 | R$ 372.420.579,98 |
+| suplementares |  |  |  |
+| Percentual utilizado | 29,03% | 15,64% | 48,79% |
+| Atualizado em 20/09/2022 às 08:16:18 |  |  |  |

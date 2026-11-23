@@ -60,7 +60,7 @@ ANEXO II
 
 PLANTA DE ELUCIDAÇÃO DA ÁREA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO III
 
@@ -70,40 +70,26 @@ PARÂMETROS URBANÍSTICOS
 
 TABELA 1 – Parâmetros de parcelamento do solo
 
-|Área |Área máxima de lote |Área mínima de lote |Frente |
-
-| |(m²) |(m²) |mínima |
-
-| | | |de lote (m) |
-
-| | | | |
-
-|Escola Municipal Professor Edson |2.000,00 |40,0 |5,0 |
-
-|Pisani | | | |
+| Área | Área máxima de lote | Área mínima de lote | Frente |
+| --- | --- | --- | --- |
+|  | (m²) | (m²) | mínima |
+|  |  |  | de lote (m) |
+|  |  |  |  |
+| Escola Municipal Professor Edson | 2.000,00 | 40,0 | 5,0 |
+| Pisani |  |  |  |
 
 TABELA 2 – Parâmetros de ocupação do solo
 
-|Coeficiente de Aproveitamento – CA – mínimo |não se aplica |
-
-|CA básico |1,5 |
-
-|CA máximo |2,8 |
-
-|CA centralidade |2,8 |
-
-|Taxa de Ocupação |80% |
-
-|Afastamento frontal mínimo |dispensado |
-
-|Afastamentos lateral e de fundos mínimos |dispensado |
-
-|Altura máxima na divisa |dispensada |
-
-|Quantidade mínima de vagas para embarque e |1 vaga a cada 700m² de área líquida, |
-
-|desembarque |desprezando-se as frações. |
-
-|Quantidade mínima de vagas de carga e descarga|dispensado |
-
-|Área de fruição pública |dispensada |
+| Coeficiente de Aproveitamento – CA – mínimo | não se aplica |
+| --- | --- |
+| CA básico | 1,5 |
+| CA máximo | 2,8 |
+| CA centralidade | 2,8 |
+| Taxa de Ocupação | 80% |
+| Afastamento frontal mínimo | dispensado |
+| Afastamentos lateral e de fundos mínimos | dispensado |
+| Altura máxima na divisa | dispensada |
+| Quantidade mínima de vagas para embarque e | 1 vaga a cada 700m² de área líquida, |
+| desembarque | desprezando-se as frações. |
+| Quantidade mínima de vagas de carga e descarga | dispensado |
+| Área de fruição pública | dispensada |

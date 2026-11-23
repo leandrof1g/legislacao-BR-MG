@@ -70,7 +70,7 @@ ANEXO
 
 (a que se refere o art. 1º do Decreto nº 16.888, de 12 de abril de 2018)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Anexos e outros documentos
 

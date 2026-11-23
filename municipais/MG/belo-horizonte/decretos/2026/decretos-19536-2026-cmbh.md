@@ -64,41 +64,25 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º | |
-
-|da Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |55.660,99 |
-
-|2302.10.301.0157.2690.339030.2.621.000 |327.009,66 |
-
-|2302.10.305.0028.2829.339039.2.621.000 |10.800,00 |
-
-|2302.10.126.0117.2662.339040.2.634.791 |1.913.615,39 |
-
-|2302.10.304.0028.2829.339035.2.621.000 |395.833,32 |
-
-|2302.10.302.0114.2951.445042.2.621.000 |2.714.191,00 |
-
-|2302.10.302.0114.2952.339030.2.621.000 |30.737,00 |
-
-|2302.10.302.0114.2952.339039.2.621.000 |1.038.109,15 |
-
-|2302.10.302.0114.2952.339032.2.621.000 |333.747,18 |
-
-|2302.10.301.0310.2950.339040.2.634.791 |900.000,00 |
-
-|2302.10.302.0114.2951.339092.2.600.520 |280.928,40 |
-
-|2302.10.302.0114.2951.339092.2.600.530 |200.070,00 |
-
-|2302.10.301.0157.2690.335043.2.621.610 |208.593,29 |
-
-|TOTAL DA SUPLEMENTAÇÃO |8.409.295,38 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º |  |
+| da Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 55.660,99 |
+| 2302.10.301.0157.2690.339030.2.621.000 | 327.009,66 |
+| 2302.10.305.0028.2829.339039.2.621.000 | 10.800,00 |
+| 2302.10.126.0117.2662.339040.2.634.791 | 1.913.615,39 |
+| 2302.10.304.0028.2829.339035.2.621.000 | 395.833,32 |
+| 2302.10.302.0114.2951.445042.2.621.000 | 2.714.191,00 |
+| 2302.10.302.0114.2952.339030.2.621.000 | 30.737,00 |
+| 2302.10.302.0114.2952.339039.2.621.000 | 1.038.109,15 |
+| 2302.10.302.0114.2952.339032.2.621.000 | 333.747,18 |
+| 2302.10.301.0310.2950.339040.2.634.791 | 900.000,00 |
+| 2302.10.302.0114.2951.339092.2.600.520 | 280.928,40 |
+| 2302.10.302.0114.2951.339092.2.600.530 | 200.070,00 |
+| 2302.10.301.0157.2690.335043.2.621.610 | 208.593,29 |
+| TOTAL DA SUPLEMENTAÇÃO | 8.409.295,38 |
 
 ANEXO II
 
@@ -132,26 +116,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para|Limite de 15% (quinze por cento) |
-
-|abertura de créditos suplementares para o Fundo Municipal de |do valor do orçamento. |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 3.738.652.601,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 176.653.627,69 |
-
-|Valor do decreto publicado nesta data |R$ 8.409.295,38 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 185.062.923,07 |
-
-|Saldo atual de créditos suplementares |R$ 3.553.589.678,33 |
-
-|Percentual utilizado |4,95% |
-
-|Atualizado em 27/03/2026 às 16:44:39 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 15% (quinze por cento) |
+| abertura de créditos suplementares para o Fundo Municipal de | do valor do orçamento. |
+| Saúde. |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 3.738.652.601,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 176.653.627,69 |
+| Valor do decreto publicado nesta data | R$ 8.409.295,38 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 185.062.923,07 |
+| Saldo atual de créditos suplementares | R$ 3.553.589.678,33 |
+| Percentual utilizado | 4,95% |
+| Atualizado em 27/03/2026 às 16:44:39 |  |

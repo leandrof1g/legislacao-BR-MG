@@ -48,77 +48,43 @@ ANEXO I
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Fase de controle – permanecem abertos |
-
-|Atividades autorizadas a funcionar nos termos do Decreto nº 17.328, de 8 de abril de 2020, e do |
-
-|Decreto nº 17.332, de 16 de abril de 2020. |
-
-| |
-
-|Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH. |
-
-|Atividade |Faixa de horário de funcionamento |
-
-|Padaria |5h às 21h |
-
-|Comércio varejista de laticínios e frios |7h às 21h |
-
-|Açougue e Peixaria |7h às 21h |
-
-|Hortifrutigranjeiros |7h às 21h |
-
-|Minimercados, mercearias e armazéns |7h às 21h |
-
-|Supermercados e hipermercados |7h às 21h |
-
-|Artigos farmacêuticos |Sem restrição de horário |
-
-|Artigos farmacêuticos, com manipulação de fórmula |Sem restrição de horário |
-
-|Comércio varejista de artigos de óptica |11h às 19h |
-
-|Artigos médicos e ortopédicos |11h às 19h |
-
-|Tintas, solventes e materiais para pintura |7h às 21h |
-
-|Material elétrico e hidráulico, vidros e ferragens |7h às 21h |
-
-|Madeireira |7h às 21h |
-
-|Material de construção em geral |7h às 21h |
-
-|Combustíveis para veículos automotores |Sem restrição de horário |
-
-|Peças e acessórios para veículos automotores |8h às 17h |
-
-|Comércio varejista de gás liquefeito de petróleo (GLP) |Sem restrição de horário |
-
-|Comércio atacadista da cadeia de atividades do comércio|5h às 17h |
-
-|varejista da fase de controle | |
-
-|Agências bancárias: instituições de crédito, seguro, |Sem restrição de horário |
-
-|capitalização, comércio e administração de valores | |
-
-|imobiliários | |
-
-|Casas lotéricas |Sem restrição de horário |
-
-|Agência de correio e telégrafo |Sem restrição de horário |
-
-|Comércio de medicamentos para animais |Sem restrição de horário |
-
-|Atividades de serviços e serviços de uso coletivo, |Sem restrição de horário |
-
-|exceto os especificados no art. 2º do Decreto nº | |
-
-|17.328, de 8 de abril de 2020 | |
-
-|Atividades industriais |Sem restrição de horário |
-
-|Banca de jornais e revistas |Sem restrição de horário |
+| Fase de controle – permanecem abertos |  |
+| --- | --- |
+| Atividades autorizadas a funcionar nos termos do Decreto nº 17.328, de 8 de abril de 2020, e do |  |
+| Decreto nº 17.332, de 16 de abril de 2020. |  |
+|  |  |
+| Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH. |  |
+| Atividade | Faixa de horário de funcionamento |
+| Padaria | 5h às 21h |
+| Comércio varejista de laticínios e frios | 7h às 21h |
+| Açougue e Peixaria | 7h às 21h |
+| Hortifrutigranjeiros | 7h às 21h |
+| Minimercados, mercearias e armazéns | 7h às 21h |
+| Supermercados e hipermercados | 7h às 21h |
+| Artigos farmacêuticos | Sem restrição de horário |
+| Artigos farmacêuticos, com manipulação de fórmula | Sem restrição de horário |
+| Comércio varejista de artigos de óptica | 11h às 19h |
+| Artigos médicos e ortopédicos | 11h às 19h |
+| Tintas, solventes e materiais para pintura | 7h às 21h |
+| Material elétrico e hidráulico, vidros e ferragens | 7h às 21h |
+| Madeireira | 7h às 21h |
+| Material de construção em geral | 7h às 21h |
+| Combustíveis para veículos automotores | Sem restrição de horário |
+| Peças e acessórios para veículos automotores | 8h às 17h |
+| Comércio varejista de gás liquefeito de petróleo (GLP) | Sem restrição de horário |
+| Comércio atacadista da cadeia de atividades do comércio | 5h às 17h |
+| varejista da fase de controle |  |
+| Agências bancárias: instituições de crédito, seguro, | Sem restrição de horário |
+| capitalização, comércio e administração de valores |  |
+| imobiliários |  |
+| Casas lotéricas | Sem restrição de horário |
+| Agência de correio e telégrafo | Sem restrição de horário |
+| Comércio de medicamentos para animais | Sem restrição de horário |
+| Atividades de serviços e serviços de uso coletivo, | Sem restrição de horário |
+| exceto os especificados no art. 2º do Decreto nº |  |
+| 17.328, de 8 de abril de 2020 |  |
+| Atividades industriais | Sem restrição de horário |
+| Banca de jornais e revistas | Sem restrição de horário |
 
 ”.
 
@@ -132,58 +98,33 @@ ANEXO II
 
 II.1 – Fase 1
 
-|FASE 1 – abertura a partir de 6 de agosto de 2020 |
-
-| |
-
-|Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |
-
-|Atividade |Faixa de horário de funcionamento |
-
-| |Do dia 6 ao dia 9 de agosto |A partir do dia 10 de agosto |
-
-|Comércio varejista não contemplado|Quinta a sexta-feira, entre 11h e|Quarta a sexta-feira, entre 11h |
-
-|na fase de controle |19h |e 19h |
-
-| | | |
-
-| |Sábado, entre 9h e 15h | |
-
-|Comércio atacadista da cadeia de |Quinta a sexta-feira, entre 11h e|Quarta a sexta-feira, entre 11h |
-
-|atividades do comércio varejista |19h |e 19h |
-
-|autorizada a funcionar na fase 1, | | |
-
-|exceto comércio atacadista de |Sábado, entre 9h e 15h | |
-
-|recicláveis | | |
-
-|Cabeleireiros, manicures e |Quinta a sexta-feira, entre 11h e|Quinta a sexta-feira, entre 11h |
-
-|pedicures |20h |e 20h |
-
-| | | |
-
-| |Sábado, entre 9h e 17h |Sábado, entre 9h e 17h |
-
-|Atividades autorizadas na fase 1 |Quinta a sexta-feira, entre 11h e|Quarta a sexta-feira, entre 11h |
-
-|em funcionamento no interior de |19h |e 19h |
-
-|galerias de lojas e centros de | | |
-
-|comércio |Sábado, entre 9h e 15h | |
-
-|Atividades autorizadas na fase 1 |Quinta-feira a sábado, entre 12h |Quarta a sexta-feira, entre 12h |
-
-|em funcionamento no interior de |e 20h |e 20h |
-
-|shopping centers | | |
-
-|Atividades no formato drive-in |Sexta-feira a domingo, entre 14h |Sexta-feira a domingo, entre 14h|
-
-| |e 23h |e 23h |
+| FASE 1 – abertura a partir de 6 de agosto de 2020 |  |  |
+| --- | --- | --- |
+|  |  |  |
+| Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |  |  |
+| Atividade | Faixa de horário de funcionamento |  |
+|  | Do dia 6 ao dia 9 de agosto | A partir do dia 10 de agosto |
+| Comércio varejista não contemplado | Quinta a sexta-feira, entre 11h e | Quarta a sexta-feira, entre 11h |
+| na fase de controle | 19h | e 19h |
+|  |  |  |
+|  | Sábado, entre 9h e 15h |  |
+| Comércio atacadista da cadeia de | Quinta a sexta-feira, entre 11h e | Quarta a sexta-feira, entre 11h |
+| atividades do comércio varejista | 19h | e 19h |
+| autorizada a funcionar na fase 1, |  |  |
+| exceto comércio atacadista de | Sábado, entre 9h e 15h |  |
+| recicláveis |  |  |
+| Cabeleireiros, manicures e | Quinta a sexta-feira, entre 11h e | Quinta a sexta-feira, entre 11h |
+| pedicures | 20h | e 20h |
+|  |  |  |
+|  | Sábado, entre 9h e 17h | Sábado, entre 9h e 17h |
+| Atividades autorizadas na fase 1 | Quinta a sexta-feira, entre 11h e | Quarta a sexta-feira, entre 11h |
+| em funcionamento no interior de | 19h | e 19h |
+| galerias de lojas e centros de |  |  |
+| comércio | Sábado, entre 9h e 15h |  |
+| Atividades autorizadas na fase 1 | Quinta-feira a sábado, entre 12h | Quarta a sexta-feira, entre 12h |
+| em funcionamento no interior de | e 20h | e 20h |
+| shopping centers |  |  |
+| Atividades no formato drive-in | Sexta-feira a domingo, entre 14h | Sexta-feira a domingo, entre 14h |
+|  | e 23h | e 23h |
 
 ”.

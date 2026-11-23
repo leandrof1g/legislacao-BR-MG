@@ -52,22 +52,17 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I – A favor da Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG –, conforme autorização |
-
-|contida no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|0600.04.122.166.2.900.3390.0000 |226.902,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |226.902,00 |
+| I – A favor da Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG –, conforme autorização |  |
+| --- | --- |
+| contida no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 0600.04.122.166.2.900.3390.0000 | 226.902,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 226.902,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II – Em contrapartida à suplementação relacionada no item I: |
-
-|R$ |
-
-|0604.19.572.085.2.603.3390.0000 |226.902,00 |
-
-|TOTAL DA ANULAÇÃO |226.902,00 |
+| II – Em contrapartida à suplementação relacionada no item I: |  |
+| --- | --- |
+| R$ |  |
+| 0604.19.572.085.2.603.3390.0000 | 226.902,00 |
+| TOTAL DA ANULAÇÃO | 226.902,00 |

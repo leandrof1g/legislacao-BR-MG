@@ -72,120 +72,71 @@ ANEXO I
 
 (a que e refere o art. 1º do Decreto nº 16.894, de 4 de maio de 2018)
 
-|MOBILIÁRIO E EQUIPAMENTOS |
-
-|DESCRIÇÃO |SALDO BEPREM INCORPORAÇÃO AO|ALIENAÇÃO – R$ |SALDO OBJETO DE REPASSE |
-
-| |FUFIN – R$ | |AO FUFIN – R$ |
-
-|Mobiliário em Geral |417.539,64 | |417.539,64 |
-
-|Aeronaves, Automóveis |547.247,14 |- 547.247,14 |- |
-
-|Aparelhos, Equipamentos, |1.937.389,95 | |1.937.389,95 |
-
-|Instrumentos e Máquinas | | | |
-
-|Material Cívico, Educativo, |22.566,87 | |22.566,87 |
-
-|Científico, Esportivo | | | |
-
-|Equipamentos e Programas de |669.794,32 | |669.794,32 |
-
-|Informática | | | |
-
-|Outros Bens Móveis |23.012,03 | |23.012,03 |
-
-|TOTAL |3.617.549,95 |- 547.247,14 |3.070.302,81 |
-
-|PARTICIPAÇÕES EM S/As |
-
-|DESCRIÇÃO |SALDO BEPREM INCORPORAÇÃO AO|ATUALIZAÇÃO – R$ |SALDO OBJETO DE REPASSE |
-
-| |FUFIN – R$ | |AO FUFIN – R$ |
-
-|Participação Societária |1,88 |- |1,88 |
-
-|PRODABEL | | | |
-
-|Participação Societária |31,95 |- |31,95 |
-
-|BELOTUR | | | |
-
-|TOTAL |33,83 |- |33,83 |
-
-|ALMOXARIFADO |
-
-|DESCRIÇÃO |SALDO BEPREM INCORPORAÇÃO AO|CONSUMO – R$ |SALDO OBJETO DE REPASSE |
-
-| |FUFIN – R$ | |AO FUFIN – R$ |
-
-|Material de Consumo |44.196,33 |14.349,24 |29.847,09 |
-
-|TOTAL |44.196,33 |14.349,24 |29.847,09 |
-
-|TOTAL GERAL – VALOR DOS BENS MÓVEIS A REPASSAR AO FUFIN |3.100.183,73 |
+| MOBILIÁRIO E EQUIPAMENTOS |  |  |  |
+| --- | --- | --- | --- |
+| DESCRIÇÃO | SALDO BEPREM INCORPORAÇÃO AO | ALIENAÇÃO – R$ | SALDO OBJETO DE REPASSE |
+|  | FUFIN – R$ |  | AO FUFIN – R$ |
+| Mobiliário em Geral | 417.539,64 |  | 417.539,64 |
+| Aeronaves, Automóveis | 547.247,14 | - 547.247,14 | - |
+| Aparelhos, Equipamentos, | 1.937.389,95 |  | 1.937.389,95 |
+| Instrumentos e Máquinas |  |  |  |
+| Material Cívico, Educativo, | 22.566,87 |  | 22.566,87 |
+| Científico, Esportivo |  |  |  |
+| Equipamentos e Programas de | 669.794,32 |  | 669.794,32 |
+| Informática |  |  |  |
+| Outros Bens Móveis | 23.012,03 |  | 23.012,03 |
+| TOTAL | 3.617.549,95 | - 547.247,14 | 3.070.302,81 |
+| PARTICIPAÇÕES EM S/As |  |  |  |
+| DESCRIÇÃO | SALDO BEPREM INCORPORAÇÃO AO | ATUALIZAÇÃO – R$ | SALDO OBJETO DE REPASSE |
+|  | FUFIN – R$ |  | AO FUFIN – R$ |
+| Participação Societária | 1,88 | - | 1,88 |
+| PRODABEL |  |  |  |
+| Participação Societária | 31,95 | - | 31,95 |
+| BELOTUR |  |  |  |
+| TOTAL | 33,83 | - | 33,83 |
+| ALMOXARIFADO |  |  |  |
+| DESCRIÇÃO | SALDO BEPREM INCORPORAÇÃO AO | CONSUMO – R$ | SALDO OBJETO DE REPASSE |
+|  | FUFIN – R$ |  | AO FUFIN – R$ |
+| Material de Consumo | 44.196,33 | 14.349,24 | 29.847,09 |
+| TOTAL | 44.196,33 | 14.349,24 | 29.847,09 |
+| TOTAL GERAL – VALOR DOS BENS MÓVEIS A REPASSAR AO FUFIN | 3.100.183,73 |  |  |
 
 ANEXO II
 
 (a que se refere o caput do art. 4º do Decreto nº 16.894, de 4 de maio de 2018)
 
-|ATO |RESPONSÁVEL |
-
-|Adequação dos instrumentos de planejamento e orçamento para atender aos |SUPLOR |
-
-|dispositivos da Lei nº 11.104, de 2018 e deste decreto. | |
-
-|Adequação e procedimentos contábeis decorrentes dos efeitos dos dispositivos da |SUPREV / SUCGM |
-
-|Lei nº 11.104, de 2018 e deste decreto. | |
-
-|Apuração e controle do repasse ao Fufin dos valores dos imóveis transferidos ao |SUPREV |
-
-|Município | |
-
-|Apuração e realização do encontro de contas das receitas e despesas oriundas da |SUPREV / SMFA |
-
-|gestão dos imóveis. | |
-
-|Destinação do mobiliário e equipamentos. |SMSA |
-
-|Gerenciamento e execução dos contratos de manutenção dos imóveis. |SUALOG |
-
-|Transferência do mobiliário e equipamentos. | |
-
-|Transferência, atualização, registro e gestão dos imóveis | |
-
-|Transferência, absorção e atualização das participações societárias |SUCGM |
-
-|Transferência, absorção e destinação dos itens de almoxarifado |SMPOG |
+| ATO | RESPONSÁVEL |
+| --- | --- |
+| Adequação dos instrumentos de planejamento e orçamento para atender aos | SUPLOR |
+| dispositivos da Lei nº 11.104, de 2018 e deste decreto. |  |
+| Adequação e procedimentos contábeis decorrentes dos efeitos dos dispositivos da | SUPREV / SUCGM |
+| Lei nº 11.104, de 2018 e deste decreto. |  |
+| Apuração e controle do repasse ao Fufin dos valores dos imóveis transferidos ao | SUPREV |
+| Município |  |
+| Apuração e realização do encontro de contas das receitas e despesas oriundas da | SUPREV / SMFA |
+| gestão dos imóveis. |  |
+| Destinação do mobiliário e equipamentos. | SMSA |
+| Gerenciamento e execução dos contratos de manutenção dos imóveis. | SUALOG |
+| Transferência do mobiliário e equipamentos. |  |
+| Transferência, atualização, registro e gestão dos imóveis |  |
+| Transferência, absorção e atualização das participações societárias | SUCGM |
+| Transferência, absorção e destinação dos itens de almoxarifado | SMPOG |
 
 ANEXO III
 
 (a que se refere o § 5º do art. 4º do Decreto nº 16.894, de 4 de maio 2018)
 
-|PROCESSO |CONTRATADO |OBJETO |VIGÊNCIA |
-
-|01.011375.14.91 |GHS Indústria e Serviços |Prestação de serviço de tratamento e |08/10/2017 a |
-
-| |Ltda. |manutenção das piscinas do imóvel de Lagoa |07/10/2018 |
-
-| | |Santa. | |
-
-|01.062850.14.60 |TBI Segurança EIRELI |Prestação de serviço de segurança e |01/07/2017 a |
-
-| | |vigilância patrimonial com mão-de-obra, no |30/06/2018 |
-
-| | |imóvel de Lagoa Santa. | |
-
-|01.122570.17.96 |TG Conservadora Eireli ME. |Prestação de serviço de capina, roçada, |30/01/2018 a |
-
-| | |aceiro e remoção dos detritos gerados no |20/07/18 |
-
-| | |imóvel de Lagoa Santa. | |
-
-|04.001452.17.08 |Hidrobrás Águas Minerais do|Fornecimento de galão de água mineral |06/03/2018 a |
-
-| |Brasil Ltda. |potável para o imóvel de Lagoa Santa |05/03/2019 |
-
-| | |(Registro de Preços do Município). | |
+| PROCESSO | CONTRATADO | OBJETO | VIGÊNCIA |
+| --- | --- | --- | --- |
+| 01.011375.14.91 | GHS Indústria e Serviços | Prestação de serviço de tratamento e | 08/10/2017 a |
+|  | Ltda. | manutenção das piscinas do imóvel de Lagoa | 07/10/2018 |
+|  |  | Santa. |  |
+| 01.062850.14.60 | TBI Segurança EIRELI | Prestação de serviço de segurança e | 01/07/2017 a |
+|  |  | vigilância patrimonial com mão-de-obra, no | 30/06/2018 |
+|  |  | imóvel de Lagoa Santa. |  |
+| 01.122570.17.96 | TG Conservadora Eireli ME. | Prestação de serviço de capina, roçada, | 30/01/2018 a |
+|  |  | aceiro e remoção dos detritos gerados no | 20/07/18 |
+|  |  | imóvel de Lagoa Santa. |  |
+| 04.001452.17.08 | Hidrobrás Águas Minerais do | Fornecimento de galão de água mineral | 06/03/2018 a |
+|  | Brasil Ltda. | potável para o imóvel de Lagoa Santa | 05/03/2019 |
+|  |  | (Registro de Preços do Município). |  |

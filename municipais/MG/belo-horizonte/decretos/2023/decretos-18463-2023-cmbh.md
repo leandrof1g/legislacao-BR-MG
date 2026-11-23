@@ -58,143 +58,79 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º |R$ |
-
-|da Lei nº 11.442, de 29 de dezembro de 2022 e no art. 66 da Lei nº 11.539, de 5| |
-
-|de julho de 2023: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.1100.04.122.096.2.004.319113.500 |6.500,00 |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.1100.09.272.026.3.007.319003.801 |4.363.000,00 |
-
-|Fundo Previdenciário – BHPREV |
-
-|0614.1100.09.122.026.2.871.319004.802 |300.000,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.1100.08.122.123.2.900.319004.500 |95.400,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.2900.06.181.109.2.803.339046.500 |673.600,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.0100.12.361.168.2.080.319113.500 |600.100,00 |
-
-|2200.0100.12.365.169.2.542.319011.500 |1.693.200,00 |
-
-|2200.0100.12.365.169.2.542.319113.500 |353.100,00 |
-
-|2200.0200.12.361.168.2.080.319113.500 |281.400,00 |
-
-|2200.0200.12.365.169.2.542.319011.500 |960.900,00 |
-
-|2200.0200.12.365.169.2.542.319113.500 |198.100,00 |
-
-|2200.0200.12.366.168.2.080.319011.500 |150.900,00 |
-
-|2200.0200.12.366.168.2.080.319113.500 |39.700,00 |
-
-|2200.0300.12.361.168.2.080.319113.500 |353.900,00 |
-
-|2200.0300.12.365.169.2.542.319011.500 |656.500,00 |
-
-|2200.0300.12.365.169.2.542.319113.500 |134.400,00 |
-
-|2200.0400.12.361.168.2.080.319113.500 |530.800,00 |
-
-|2200.0400.12.365.169.2.542.319011.500 |1.570.000,00 |
-
-|2200.0400.12.365.169.2.542.319113.500 |330.300,00 |
-
-|2200.0500.12.361.168.2.080.319113.500 |335.200,00 |
-
-|2200.0500.12.365.169.2.542.319011.500 |1.355.000,00 |
-
-|2200.0500.12.365.169.2.542.319113.500 |285.500,00 |
-
-|2200.0600.12.361.168.2.080.319113.500 |325.500,00 |
-
-|2200.0600.12.365.169.2.542.319011.500 |1.578.200,00 |
-
-|2200.0600.12.365.169.2.542.319113.500 |330.700,00 |
-
-|2200.0600.12.366.168.2.080.319011.500 |256.700,00 |
-
-|2200.0600.12.366.168.2.080.319113.500 |41.700,00 |
-
-|2200.0700.12.361.168.2.080.319113.500 |329.000,00 |
-
-|2200.0700.12.365.169.2.542.319011.500 |863.300,00 |
-
-|2200.0700.12.365.169.2.542.319113.500 |186.300,00 |
-
-|2200.0800.12.361.168.2.080.319113.500 |350.700,00 |
-
-|2200.0800.12.365.169.2.542.319011.500 |1.405.200,00 |
-
-|2200.0800.12.365.169.2.542.319113.500 |286.200,00 |
-
-|2200.0900.12.361.168.2.080.319113.500 |662.500,00 |
-
-|2200.0900.12.365.169.2.542.319011.500 |1.316.400,00 |
-
-|2200.0900.12.365.169.2.542.319113.500 |278.200,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – |
-
-|EGM-SMPOG |
-
-|4002.5801.04.122.007.3.010.319094.500 |826.500,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |24.304.600,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º | R$ |
+| --- | --- |
+| da Lei nº 11.442, de 29 de dezembro de 2022 e no art. 66 da Lei nº 11.539, de 5 |  |
+| de julho de 2023: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.1100.04.122.096.2.004.319113.500 | 6.500,00 |
+| Fundo Financeiro – FUFIN |  |
+| 0613.1100.09.272.026.3.007.319003.801 | 4.363.000,00 |
+| Fundo Previdenciário – BHPREV |  |
+| 0614.1100.09.122.026.2.871.319004.802 | 300.000,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.1100.08.122.123.2.900.319004.500 | 95.400,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.2900.06.181.109.2.803.339046.500 | 673.600,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0100.12.361.168.2.080.319113.500 | 600.100,00 |
+| 2200.0100.12.365.169.2.542.319011.500 | 1.693.200,00 |
+| 2200.0100.12.365.169.2.542.319113.500 | 353.100,00 |
+| 2200.0200.12.361.168.2.080.319113.500 | 281.400,00 |
+| 2200.0200.12.365.169.2.542.319011.500 | 960.900,00 |
+| 2200.0200.12.365.169.2.542.319113.500 | 198.100,00 |
+| 2200.0200.12.366.168.2.080.319011.500 | 150.900,00 |
+| 2200.0200.12.366.168.2.080.319113.500 | 39.700,00 |
+| 2200.0300.12.361.168.2.080.319113.500 | 353.900,00 |
+| 2200.0300.12.365.169.2.542.319011.500 | 656.500,00 |
+| 2200.0300.12.365.169.2.542.319113.500 | 134.400,00 |
+| 2200.0400.12.361.168.2.080.319113.500 | 530.800,00 |
+| 2200.0400.12.365.169.2.542.319011.500 | 1.570.000,00 |
+| 2200.0400.12.365.169.2.542.319113.500 | 330.300,00 |
+| 2200.0500.12.361.168.2.080.319113.500 | 335.200,00 |
+| 2200.0500.12.365.169.2.542.319011.500 | 1.355.000,00 |
+| 2200.0500.12.365.169.2.542.319113.500 | 285.500,00 |
+| 2200.0600.12.361.168.2.080.319113.500 | 325.500,00 |
+| 2200.0600.12.365.169.2.542.319011.500 | 1.578.200,00 |
+| 2200.0600.12.365.169.2.542.319113.500 | 330.700,00 |
+| 2200.0600.12.366.168.2.080.319011.500 | 256.700,00 |
+| 2200.0600.12.366.168.2.080.319113.500 | 41.700,00 |
+| 2200.0700.12.361.168.2.080.319113.500 | 329.000,00 |
+| 2200.0700.12.365.169.2.542.319011.500 | 863.300,00 |
+| 2200.0700.12.365.169.2.542.319113.500 | 186.300,00 |
+| 2200.0800.12.361.168.2.080.319113.500 | 350.700,00 |
+| 2200.0800.12.365.169.2.542.319011.500 | 1.405.200,00 |
+| 2200.0800.12.365.169.2.542.319113.500 | 286.200,00 |
+| 2200.0900.12.361.168.2.080.319113.500 | 662.500,00 |
+| 2200.0900.12.365.169.2.542.319011.500 | 1.316.400,00 |
+| 2200.0900.12.365.169.2.542.319113.500 | 278.200,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – |  |
+| EGM-SMPOG |  |
+| 4002.5801.04.122.007.3.010.319094.500 | 826.500,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 24.304.600,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.0300.04.122.007.2.900.319011.500 |6.500,00 |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.1100.09.272.026.3.004.319003.801 |4.363.000,00 |
-
-|Fundo Previdenciário – BHPREV |
-
-|0614.1100.99.997.999.9.999.999999.802 |300.000,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.2500.14.422.127.2.334.319011.500 |95.400,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.2900.06.181.109.2.803.319011.500 |673.600,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.0200.12.361.168.2.080.319011.500 |4.631.300,00 |
-
-|2200.1100.12.122.140.2.317.319011.500 |13.408.300,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – |
-
-|EGM-SMPOG |
-
-|4002.5801.04.331.014.2.710.339008.500 |826.500,00 |
-
-|TOTAL DA ANULAÇÃO |24.304.600,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.0300.04.122.007.2.900.319011.500 | 6.500,00 |
+| Fundo Financeiro – FUFIN |  |
+| 0613.1100.09.272.026.3.004.319003.801 | 4.363.000,00 |
+| Fundo Previdenciário – BHPREV |  |
+| 0614.1100.99.997.999.9.999.999999.802 | 300.000,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.2500.14.422.127.2.334.319011.500 | 95.400,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.2900.06.181.109.2.803.319011.500 | 673.600,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0200.12.361.168.2.080.319011.500 | 4.631.300,00 |
+| 2200.1100.12.122.140.2.317.319011.500 | 13.408.300,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – |  |
+| EGM-SMPOG |  |
+| 4002.5801.04.331.014.2.710.339008.500 | 826.500,00 |
+| TOTAL DA ANULAÇÃO | 24.304.600,00 |
 
 ANEXO II
 
@@ -234,22 +170,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 66 da Lei nº 11.539, de 5 de julho de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |
-
-|Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |
-
-|empregados públicos da administração direta e indireta do Poder Executivo |
-
-|Limite total autorizado |261.693.719,44 |
-
-|Total de créditos suplementares abertos anteriormente |71.392.389,00 |
-
-|Valor do Decreto publicado nesta data |24.304.600,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |95.696.989,00 |
-
-|Saldo atual do limite autorizado |165.996.730,44 |
-
-|Percentual utilizado |36,57% |
-
-|Atualizado em 28/09/2023 às 16:01:47 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |  |
+| --- | --- |
+| Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |  |
+| empregados públicos da administração direta e indireta do Poder Executivo |  |
+| Limite total autorizado | 261.693.719,44 |
+| Total de créditos suplementares abertos anteriormente | 71.392.389,00 |
+| Valor do Decreto publicado nesta data | 24.304.600,00 |
+| Valor total dos créditos suplementares abertos no exercício | 95.696.989,00 |
+| Saldo atual do limite autorizado | 165.996.730,44 |
+| Percentual utilizado | 36,57% |
+| Atualizado em 28/09/2023 às 16:01:47 |  |

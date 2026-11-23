@@ -52,26 +52,19 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Empresa Municipal de Turismo de Belo Horizonte|
-
-|S/A – Belotur –, conforme autorização contida no caput do art. |
-
-|4º da Lei nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|2805.23.695.086.2.629.3390.0000 |3.253.500,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |3.253.500,00 |
+| I.1 – A favor da Empresa Municipal de Turismo de Belo Horizonte |  |
+| --- | --- |
+| S/A – Belotur –, conforme autorização contida no caput do art. |  |
+| 4º da Lei nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 2805.23.695.086.2.629.3390.0000 | 3.253.500,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.253.500,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1|
-
-|da tabela anterior: |
-
-|R$ |
-
-|2805.23.695.086.2.629.3390.0030 |3.253.500,00 |
-
-|TOTAL DA ANULAÇÃO |3.253.500,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 2805.23.695.086.2.629.3390.0030 | 3.253.500,00 |
+| TOTAL DA ANULAÇÃO | 3.253.500,00 |

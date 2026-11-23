@@ -68,222 +68,121 @@ ANEXO ÚNICO
 
 REQUERIMENTO PARA TRANSAÇÃO DE CRÉDITOS TRIBUTÁRIOS
 
-|1. identificação do CONTRIBUINTE |
-
-|1.1. INSCRIÇÃO MUNICIPAL |1.2. CNPJ / CPF |1.3. NOME / RAZÃO SOCIAL |
-
-|1.4. LOGRADOURO (RUA, AVE, ETC.) |1.5. NÚMERO |1.6. COMPLEMENTO |
-
-|1.7. BAIRRO |1.8. CIDADE |1.9. UF |1.10. CEP |
-
-|1.11. TELEFONE |1.12. E-MAIL |
-
-|2. identificação do REPRESENTANTE LEGAL OU PROCURADOR DO CONTRIBUINTE |
-
-|2.1. CNPJ / CPF |2.2. NOME / RAZÃO SOCIAL |2.3. TELEFONE |2.4. E-MAIL |
-
-|2.5. LOGRADOURO (RUA, AVE, ETC.) |2.6. NÚMERO |2.7. COMPLEMENTO |
-
-|2.8. BAIRRO |2.9. CIDADE |2.10. UF |2.11. CEP |
-
-|3. requerimento |
-
-| |
-
-|O contribuinte acima identificado solicita a transação prevista na Lei nº 9.158/2006, referente ao(s) crédito(s) tributário(s) decorrente(s) |
-
-|de lançamento(s) de: |
-
-|1. ( IPTU alíquota progressiva |Exercício(s): | |
-
-| | | |
-
-| | | |
-
-|2. ( IPTU entidade detentora de imunidade tributária |Exercício(s): | |
-
-|3. ( Taxa de Limpeza Pública |Exercício(s): | |
-
-|4. ( Taxa de Iluminação pública |Exercício(s): | |
-
-|5. ( ISSQN / Instituição financeira ou equiparada: |
-
-|5.1. ( Item 29 da Lista de Serviços do Decreto-Lei 406/68 |
-
-|5.2. ( Item 84 da Lista de Serviços do Decreto-Lei 406/68 |
-
-|4. ( Taxa de Iluminação pública |
-
-|6. ( ISSQN / Local de incidência | |
-
-|7. ( ISSQN / entidade detentora de imunidade tributária. | |
-
-|4. INFORMAÇÃO DOS CRÉDITOS TRIBUTÁRIOS |
-
-| |
-
-|Nesta oportunidade informa que o crédito tributário encontra-se: |
-
-|( Em litígio administrativo |Processo Administrativo nº: | |
-
-|( Em litígio judicial |Processo Judicial nº: | |
-
-|( Sem litígio com denúncia espontânea dos créditos de ISSQN (deverão ser preenchidos os dados constantes no verso). |
-
-|( Houve litígio administrativo já decidido |Processo Administrativo nº: | |
-
-|( Tendo em vista que a transação, ora requerida, envolve o ISSQN / Local de incidência, assinalado no item 6 (campo 3) deste requerimento, |
-
-|pleiteia, desde já, a aplicação do § 1º do artigo 2º da Lei 9.158/2006, sendo que, para tanto, junta neste ato, prova da sua regularidade |
-
-|cadastral neste Município. |
-
-|5. IDENTIFICAÇÃO DOS LANÇAMENTOS OBJETOS DA TRANSAÇÃO |
-
-|nº.de ordem|Número do lANÇAMENTO |Natureza do |referência |VALOR (r$) |ExecUÇão |
-
-| | |crédito | | |(SIM / NÃO) |
-
-| | | | | | |
-
-| | | | | | |
-
-| | | | | | |
-
-| | | | | | |
-
-| | | | | | |
-
-| | | | | | |
-
-| | | | | | |
-
-| | | | | | |
-
-| | | | | | |
-
-| |Valor total (R$): | |
+| 1. identificação do CONTRIBUINTE |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 1.1. INSCRIÇÃO MUNICIPAL | 1.2. CNPJ / CPF | 1.3. NOME / RAZÃO SOCIAL |  |  |  |
+| 1.4. LOGRADOURO (RUA, AVE, ETC.) | 1.5. NÚMERO | 1.6. COMPLEMENTO |  |  |  |
+| 1.7. BAIRRO | 1.8. CIDADE | 1.9. UF | 1.10. CEP |  |  |
+| 1.11. TELEFONE | 1.12. E-MAIL |  |  |  |  |
+| 2. identificação do REPRESENTANTE LEGAL OU PROCURADOR DO CONTRIBUINTE |  |  |  |  |  |
+| 2.1. CNPJ / CPF | 2.2. NOME / RAZÃO SOCIAL | 2.3. TELEFONE | 2.4. E-MAIL |  |  |
+| 2.5. LOGRADOURO (RUA, AVE, ETC.) | 2.6. NÚMERO | 2.7. COMPLEMENTO |  |  |  |
+| 2.8. BAIRRO | 2.9. CIDADE | 2.10. UF | 2.11. CEP |  |  |
+| 3. requerimento |  |  |  |  |  |
+|  |  |  |  |  |  |
+| O contribuinte acima identificado solicita a transação prevista na Lei nº 9.158/2006, referente ao(s) crédito(s) tributário(s) decorrente(s) |  |  |  |  |  |
+| de lançamento(s) de: |  |  |  |  |  |
+| 1. ( IPTU alíquota progressiva | Exercício(s): |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 2. ( IPTU entidade detentora de imunidade tributária | Exercício(s): |  |  |  |  |
+| 3. ( Taxa de Limpeza Pública | Exercício(s): |  |  |  |  |
+| 4. ( Taxa de Iluminação pública | Exercício(s): |  |  |  |  |
+| 5. ( ISSQN / Instituição financeira ou equiparada: |  |  |  |  |  |
+| 5.1. ( Item 29 da Lista de Serviços do Decreto-Lei 406/68 |  |  |  |  |  |
+| 5.2. ( Item 84 da Lista de Serviços do Decreto-Lei 406/68 |  |  |  |  |  |
+| 4. ( Taxa de Iluminação pública |  |  |  |  |  |
+| 6. ( ISSQN / Local de incidência |  |  |  |  |  |
+| 7. ( ISSQN / entidade detentora de imunidade tributária. |  |  |  |  |  |
+| 4. INFORMAÇÃO DOS CRÉDITOS TRIBUTÁRIOS |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Nesta oportunidade informa que o crédito tributário encontra-se: |  |  |  |  |  |
+| ( Em litígio administrativo | Processo Administrativo nº: |  |  |  |  |
+| ( Em litígio judicial | Processo Judicial nº: |  |  |  |  |
+| ( Sem litígio com denúncia espontânea dos créditos de ISSQN (deverão ser preenchidos os dados constantes no verso). |  |  |  |  |  |
+| ( Houve litígio administrativo já decidido | Processo Administrativo nº: |  |  |  |  |
+| ( Tendo em vista que a transação, ora requerida, envolve o ISSQN / Local de incidência, assinalado no item 6 (campo 3) deste requerimento, |  |  |  |  |  |
+| pleiteia, desde já, a aplicação do § 1º do artigo 2º da Lei 9.158/2006, sendo que, para tanto, junta neste ato, prova da sua regularidade |  |  |  |  |  |
+| cadastral neste Município. |  |  |  |  |  |
+| 5. IDENTIFICAÇÃO DOS LANÇAMENTOS OBJETOS DA TRANSAÇÃO |  |  |  |  |  |
+| nº.de ordem | Número do lANÇAMENTO | Natureza do | referência | VALOR (r$) | ExecUÇão |
+|  |  | crédito |  |  | (SIM / NÃO) |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  | Valor total (R$): |  |  |  |  |
 
 Obs.: Existindo outros lançamentos, esses deverão ser indicados em relação apartada, devidamente identificada e assinada pelo requerente.
 
-|6. FORMA DE QUITAÇÃO PROPOSTA PARA O CRÉDITO TRIBUTÁRIO REMANESCENTE |
-
-| |
-
-|( Quitação à vista ( Compensação |
-
-|( Parcelamento PROESP ( Parcelamento em até 60 meses |
-
-|7. LOCAL e DATA |8. ASSINATURA DO CONTRIBUINTE, REPRESENTANTE LEGAL OU PROCURADOR |
-
-|Belo Horizonte, _____ de ________________ de ________. | |
+| 6. FORMA DE QUITAÇÃO PROPOSTA PARA O CRÉDITO TRIBUTÁRIO REMANESCENTE |  |
+| --- | --- |
+|  |  |
+| ( Quitação à vista ( Compensação |  |
+| ( Parcelamento PROESP ( Parcelamento em até 60 meses |  |
+| 7. LOCAL e DATA | 8. ASSINATURA DO CONTRIBUINTE, REPRESENTANTE LEGAL OU PROCURADOR |
+| Belo Horizonte, _____ de ________________ de ________. |  |
 
 (FRENTE)
 
-|9. TERMO DE DENÚNCIA, CONFISSÃO DE DÍVIDA E COMPROMISSO |
-
-| |
-
-| |
-
-| |
-
-|O contribuinte anteriormente identificado, adiante denominado DEVEDOR, oferecendo DENÚNCIA, reconhece-se obrigado, junto à Fazenda Municipal |
-
-|de Belo Horizonte, a quitar o valor discriminado no item 10 deste, relativos ao ISSQN. |
-
-| |
-
-|O DEVEDOR, renunciando expressamente a qualquer contestação quanto ao valor e a procedência da dívida, assume integral responsabilidade pelo |
-
-|seu pagamento. |
-
-| |
-
-|O presente reconhecimento da dívida é definitivo e irretratável, não implicando de modo algum novação ou nova transação e vigorará |
-
-|imediatamente, ressalvados os privilégios inerentes à Fazenda Pública Municipal para cobrança da dívida. |
-
-| |
-
-| |
-
-| |
-
-|10. DISCRIMINAÇÃO DO CRÉDITO PARA TRANSAÇÃO (VALORES EM MOEDA DA ÉPOCA) |
-
-|MÊS / ANO |RECEITA BRUTA |ALÍQUOTA |IMPOSTO SIMPLES |MÊS / ANO |RECEITA BRUTA |ALÍQUOTA |IMPOSTO SIMPLES |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-|ISSQN TOTAL DENUNCIADO (R$): | |
-
-| |
-
-|DECLARO SOB AS PENAS DA LEI, QUE OS VALORES ACIMA CORRESPONDEM À TOTALIDADE DOS NOSSOS DÉBITOS NÃO LANÇADOS EM RELAÇÃO AO ISSQN NOS ÚLTIMOS 5|
-
-|(CINCO) ANOS. |
-
-|10. LOCAL e DATA |11. ASSINATURA DO CONTRIBUINTE, REPRESENTANTE LEGAL OU PROCURADOR |
-
-|Belo Horizonte, _____ de ________________ de ________. | |
+| 9. TERMO DE DENÚNCIA, CONFISSÃO DE DÍVIDA E COMPROMISSO |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| O contribuinte anteriormente identificado, adiante denominado DEVEDOR, oferecendo DENÚNCIA, reconhece-se obrigado, junto à Fazenda Municipal |  |  |  |  |  |  |  |
+| de Belo Horizonte, a quitar o valor discriminado no item 10 deste, relativos ao ISSQN. |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| O DEVEDOR, renunciando expressamente a qualquer contestação quanto ao valor e a procedência da dívida, assume integral responsabilidade pelo |  |  |  |  |  |  |  |
+| seu pagamento. |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| O presente reconhecimento da dívida é definitivo e irretratável, não implicando de modo algum novação ou nova transação e vigorará |  |  |  |  |  |  |  |
+| imediatamente, ressalvados os privilégios inerentes à Fazenda Pública Municipal para cobrança da dívida. |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| 10. DISCRIMINAÇÃO DO CRÉDITO PARA TRANSAÇÃO (VALORES EM MOEDA DA ÉPOCA) |  |  |  |  |  |  |  |
+| MÊS / ANO | RECEITA BRUTA | ALÍQUOTA | IMPOSTO SIMPLES | MÊS / ANO | RECEITA BRUTA | ALÍQUOTA | IMPOSTO SIMPLES |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| ISSQN TOTAL DENUNCIADO (R$): |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| DECLARO SOB AS PENAS DA LEI, QUE OS VALORES ACIMA CORRESPONDEM À TOTALIDADE DOS NOSSOS DÉBITOS NÃO LANÇADOS EM RELAÇÃO AO ISSQN NOS ÚLTIMOS 5 |  |  |  |  |  |  |  |
+| (CINCO) ANOS. |  |  |  |  |  |  |  |
+| 10. LOCAL e DATA | 11. ASSINATURA DO CONTRIBUINTE, REPRESENTANTE LEGAL OU PROCURADOR |  |  |  |  |  |  |
+| Belo Horizonte, _____ de ________________ de ________. |  |  |  |  |  |  |  |
 
 (VERSO)

@@ -58,31 +58,23 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § |R$ |
-
-|3º do art. 19 da Lei nº 11.742, de 13 de setembro de 2024, e no art. 1º da Lei nº | |
-
-|11.875, de 14 de julho de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339030.1.500.000 |70.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |70.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 3º do art. 19 da Lei nº 11.742, de 13 de setembro de 2024, e no art. 1º da Lei nº |  |
+| 11.875, de 14 de julho de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339030.1.500.000 | 70.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 70.000,00 |
 
 I.2 – Anulação da seguinte dotação orçamentária a que se refere o art. 2º.
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente no órgão relacionado abaixo, conforme | |
-
-|autorização contida no art. 2º da Lei nº 11.875, de 14 de julho de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0117.1216.449051.1.500.000 |70.000,00 |
-
-|TOTAL DA ANULAÇÃO |70.000,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente no órgão relacionado abaixo, conforme |  |
+| autorização contida no art. 2º da Lei nº 11.875, de 14 de julho de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0117.1216.449051.1.500.000 | 70.000,00 |
+| TOTAL DA ANULAÇÃO | 70.000,00 |
 
 ANEXO II
 
@@ -106,20 +98,13 @@ SALDO ATUAL DE CRÉDITO SUPLEMENTAR
 
 III.1 – Demonstração do saldo de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 1º da Lei nº 11.875, de 14 de julho de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |
-
-|Art. 1º da Lei nº 11.875, de 14/07/2025 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 11.680.000,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 2.606.013,00 |
-
-|Valor do Decreto publicado nesta data |R$ 70.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 2.676.013,00 |
-
-|Saldo atual de créditos suplementares |R$ 9.003.987,00 |
-
-|Percentual utilizado |22,91% |
-
-|Atualizado em 25/09/2025 às 16:32:18 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.875, de 14/07/2025 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 11.680.000,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 2.606.013,00 |
+| Valor do Decreto publicado nesta data | R$ 70.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 2.676.013,00 |
+| Saldo atual de créditos suplementares | R$ 9.003.987,00 |
+| Percentual utilizado | 22,91% |
+| Atualizado em 25/09/2025 às 16:32:18 |  |

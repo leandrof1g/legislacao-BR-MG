@@ -68,4 +68,5 @@ Murilo de Campos Valadares
 
 Secretário Municipal da Coordenação de Política Urbana e Ambiental
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

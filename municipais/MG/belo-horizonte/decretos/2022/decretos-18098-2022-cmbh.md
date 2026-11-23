@@ -60,49 +60,29 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor da Secretaria Municipal de Educação – SMED –, conforme autorização contida no inciso |R$ |
-
-|II do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º da Lei | |
-
-|nº 11.336, de 30 de dezembro de 2021: | |
-
-|2200.12.361.168.2.080.3390.0005 |10.339.930,00 |
-
-|2200.12.365.169.2.542.3390.0005 |5.008.121,00 |
-
-|2200.12.361.168.2.080.3390.0005 |4.813.518,00 |
-
-|2200.12.365.169.2.542.3390.0005 |3.170.240,00 |
-
-|2200.12.361.168.2.080.3390.0005 |4.286.781,00 |
-
-|2200.12.365.169.2.542.3390.0005 |2.070.027,00 |
-
-|2200.12.361.168.2.080.3390.0005 |9.153.997,00 |
-
-|2200.12.365.169.2.542.3390.0005 |5.478.152,00 |
-
-|2200.12.361.168.2.080.3390.0005 |4.837.086,00 |
-
-|2200.12.365.169.2.542.3390.0005 |3.765.344,00 |
-
-|2200.12.361.168.2.080.3390.0005 |6.321.778,00 |
-
-|2200.12.365.169.2.542.3390.0005 |4.359.392,00 |
-
-|2200.12.361.168.2.080.3390.0005 |4.639.295,00 |
-
-|2200.12.365.169.2.542.3390.0005 |2.874.768,00 |
-
-|2200.12.361.168.2.080.3390.0005 |4.851.837,00 |
-
-|2200.12.365.169.2.542.3390.0005 |4.021.643,00 |
-
-|2200.12.361.168.2.080.3390.0005 |9.923.285,00 |
-
-|2200.12.365.169.2.542.3390.0005 |4.377.250,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |94.292.444,00 |
+| I.1.1 – A favor da Secretaria Municipal de Educação – SMED –, conforme autorização contida no inciso | R$ |
+| --- | --- |
+| II do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º da Lei |  |
+| nº 11.336, de 30 de dezembro de 2021: |  |
+| 2200.12.361.168.2.080.3390.0005 | 10.339.930,00 |
+| 2200.12.365.169.2.542.3390.0005 | 5.008.121,00 |
+| 2200.12.361.168.2.080.3390.0005 | 4.813.518,00 |
+| 2200.12.365.169.2.542.3390.0005 | 3.170.240,00 |
+| 2200.12.361.168.2.080.3390.0005 | 4.286.781,00 |
+| 2200.12.365.169.2.542.3390.0005 | 2.070.027,00 |
+| 2200.12.361.168.2.080.3390.0005 | 9.153.997,00 |
+| 2200.12.365.169.2.542.3390.0005 | 5.478.152,00 |
+| 2200.12.361.168.2.080.3390.0005 | 4.837.086,00 |
+| 2200.12.365.169.2.542.3390.0005 | 3.765.344,00 |
+| 2200.12.361.168.2.080.3390.0005 | 6.321.778,00 |
+| 2200.12.365.169.2.542.3390.0005 | 4.359.392,00 |
+| 2200.12.361.168.2.080.3390.0005 | 4.639.295,00 |
+| 2200.12.365.169.2.542.3390.0005 | 2.874.768,00 |
+| 2200.12.361.168.2.080.3390.0005 | 4.851.837,00 |
+| 2200.12.365.169.2.542.3390.0005 | 4.021.643,00 |
+| 2200.12.361.168.2.080.3390.0005 | 9.923.285,00 |
+| 2200.12.365.169.2.542.3390.0005 | 4.377.250,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 94.292.444,00 |
 
 ANEXO II
 
@@ -126,26 +106,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº 11.336, de |Caput do art. 4º, limite |Inciso I do § 1º, do art. 4º - |Inciso II do § 1º do art. 4º - Limite de |
-
-|30/12/2021 - Limites autorizados |de 15% do valor total do |Limite de 15% do total do |15% do total do Orçamento do Fundo |
-
-|para abertura de créditos |Orçamento: |Orçamento do Grupo 1 - Pessoal |Municipal de Saúde - FMS: |
-
-|suplementares | |e Encargos Sociais: | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais autorizados|R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|Valor dos créditos suplementares |R$ 655.472.940,31 |R$ 138.257.072,88 |R$ 350.866.799,67 |
-
-|abertos no exercício | | | |
-
-|Saldos de créditos suplementares |R$ 1.645.677.745,34 |R$ 745.735.235,82 |R$ 376.350.352,98 |
-
-|Percentual utilizado |28,48% |15,64% |48,25% |
-
-|Atualizado em 19/09/2022 às 16:23 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº 11.336, de | Caput do art. 4º, limite | Inciso I do § 1º, do art. 4º - | Inciso II do § 1º do art. 4º - Limite de |
+| 30/12/2021 - Limites autorizados | de 15% do valor total do | Limite de 15% do total do | 15% do total do Orçamento do Fundo |
+| para abertura de créditos | Orçamento: | Orçamento do Grupo 1 - Pessoal | Municipal de Saúde - FMS: |
+| suplementares |  | e Encargos Sociais: |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais autorizados | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| Valor dos créditos suplementares | R$ 655.472.940,31 | R$ 138.257.072,88 | R$ 350.866.799,67 |
+| abertos no exercício |  |  |  |
+| Saldos de créditos suplementares | R$ 1.645.677.745,34 | R$ 745.735.235,82 | R$ 376.350.352,98 |
+| Percentual utilizado | 28,48% | 15,64% | 48,25% |
+| Atualizado em 19/09/2022 às 16:23 |  |  |  |

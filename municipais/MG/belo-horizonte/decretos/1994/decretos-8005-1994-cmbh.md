@@ -32,55 +32,32 @@ O Prefeito de Belo Horizonte, no uso de suas atribuições legais, decreta:
 
 PERCENTUAL DO ABONO POR CARGO EM UNIDADES ESPECIAIS TIPO IV E VI
 
-|CARGOS |TIPO IV |TIPO VI |
-
-|Auxiliar Sanitário |18% |36% |
-
-|Ajudante e Serviço Publico | | |
-
-|Auxiliar de Serviço Administrativo | | |
-
-|Agente de Serviço de Saúde I |20% |40% |
-
-|Oficial de Serviço Público I | | |
-
-|Auxiliar Administrativo | | |
-
-|Agente de Serviço de saúde II |22% |44% |
-
-|Oficial de Serviço Público II | | |
-
-|Agente de serviço de Saúde III |24% |48% |
-
-|Agente de Administração I | | |
-
-|Técnico de Serviço de Saúde I |28% |56% |
-
-|Agente de Administração II | | |
-
-|Agente de Administração III | | |
-
-|Técnico de Serviço de Saúde II |30% |60% |
-
-|Técnico de Serviço de Saúde III |36% |72% |
-
-|Técnico Superior de Saúde I | | |
-
-|Cirurgião Dentista I | | |
-
-|Técnico Superior de Saúde II | | |
-
-|Médico I |58% |100% |
-
-|Cirurgião Dentista II | | |
-
-|Técnico Superior de Saúde III | | |
-
-|Cirurgião- Dentista III | | |
-
-|Médico II | | |
-
-|Medico III | | |
+| CARGOS | TIPO IV | TIPO VI |
+| --- | --- | --- |
+| Auxiliar Sanitário | 18% | 36% |
+| Ajudante e Serviço Publico |  |  |
+| Auxiliar de Serviço Administrativo |  |  |
+| Agente de Serviço de Saúde I | 20% | 40% |
+| Oficial de Serviço Público I |  |  |
+| Auxiliar Administrativo |  |  |
+| Agente de Serviço de saúde II | 22% | 44% |
+| Oficial de Serviço Público II |  |  |
+| Agente de serviço de Saúde III | 24% | 48% |
+| Agente de Administração I |  |  |
+| Técnico de Serviço de Saúde I | 28% | 56% |
+| Agente de Administração II |  |  |
+| Agente de Administração III |  |  |
+| Técnico de Serviço de Saúde II | 30% | 60% |
+| Técnico de Serviço de Saúde III | 36% | 72% |
+| Técnico Superior de Saúde I |  |  |
+| Cirurgião Dentista I |  |  |
+| Técnico Superior de Saúde II |  |  |
+| Médico I | 58% | 100% |
+| Cirurgião Dentista II |  |  |
+| Técnico Superior de Saúde III |  |  |
+| Cirurgião- Dentista III |  |  |
+| Médico II |  |  |
+| Medico III |  |  |
 
 **Art. 2°** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
 

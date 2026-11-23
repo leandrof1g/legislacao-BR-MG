@@ -64,21 +64,15 @@ II - módulo 2 (dois) destinado à manutenção, permitido o uso com finalidade 
 
 **Art. 7º** - Ficam estabelecidos os prazos máximos para instalação dos sanitários e comunicação à BHTRANS, conforme descrito a seguir.
 
-|Nº de sanitários por empresa |Prazo máximo |
-
-|até 04 |06 meses |
-
-|de 05 a 07 |07 meses |
-
-|de 08 a 10 |08 meses |
-
-|de 11 a 13 |09 meses |
-
-|de 14 a 16 |10 meses |
-
-|de 17 a 19 |11 meses |
-
-|acima de 20 |12 meses |
+| Nº de sanitários por empresa | Prazo máximo |
+| --- | --- |
+| até 04 | 06 meses |
+| de 05 a 07 | 07 meses |
+| de 08 a 10 | 08 meses |
+| de 11 a 13 | 09 meses |
+| de 14 a 16 | 10 meses |
+| de 17 a 19 | 11 meses |
+| acima de 20 | 12 meses |
 
 **§ 1º** - Além dos prazos máximos para instalação de todos os sanitários, a partir do sexto mês, cada empresa deverá instalar um mínimo de 03 (três) sanitários a cada mês.
 

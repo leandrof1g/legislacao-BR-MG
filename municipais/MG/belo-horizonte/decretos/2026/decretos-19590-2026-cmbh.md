@@ -54,27 +54,18 @@ ANEXO
 
 (...)
 
-|TITULO II – DAS OPERAÇÕES DE CONSTRUÇÃO, MANUTENÇÃO E CONSERVAÇÃO DO LOGRADOURO PÚBLICO |
-
-|(...) |
-
-|CAPÍTULO IV - Da execução de obra ou serviço em logradouro público |
-
-|(...|(...) |(...) |(...) |(...) |(...) |(...) |(...) |(...) |
-
-|) | | | | | | | | |
-
-|Item|Descrição da |Dispositiv|Notificaçã|Prazo para |Multas |Notificaçã|Cassação |Apreensão, |
-
-| |infração |o |o Prévia |atendimento| |o | |Interdição,|
-
-| | |infringido| | | |Acessória | |Embargo ou |
-
-| | | | | | | | |Demolição |
-
-| | |(Lei nº | | | | | | |
-
-| | |8.616) | | | | | | |
+| TITULO II – DAS OPERAÇÕES DE CONSTRUÇÃO, MANUTENÇÃO E CONSERVAÇÃO DO LOGRADOURO PÚBLICO |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| (...) |  |  |  |  |  |  |  |  |
+| CAPÍTULO IV - Da execução de obra ou serviço em logradouro público |  |  |  |  |  |  |  |  |
+| (... | (...) | (...) | (...) | (...) | (...) | (...) | (...) | (...) |
+| ) |  |  |  |  |  |  |  |  |
+| Item | Descrição da | Dispositiv | Notificaçã | Prazo para | Multas | Notificaçã | Cassação | Apreensão, |
+|  | infração | o | o Prévia | atendimento |  | o |  | Interdição, |
+|  |  | infringido |  |  |  | Acessória |  | Embargo ou |
+|  |  |  |  |  |  |  |  | Demolição |
+|  |  | (Lei nº |  |  |  |  |  |  |
+|  |  | 8.616) |  |  |  |  |  |  |
 
 | | | | |Classificação |Detalhamento |Multa Valor (R$) |Periodicidade mínima | | | | |30-A |Deixar de identificar ou identificar em desacordo com as normas previstas a fiação aérea utilizada em postes ou mobiliários urbanos similares. |Art. 43-B, parágrafo único |Sim |45 dias |M |Por face de quadra onde se encontra instalada a fiação aérea. |1.500,00 |5 dias | | | | |30-B |Deixar o responsável pela fiação aérea que estiver rompida, irregular ou sem uso, colocando em risco a segurança ou interferindo na circulação de pedestres ou de veículos, de providenciar a sua remoção ou a sua regularização. |Arts. 43-G e 309 |Sim |15 dias |M |Por face de quadra onde se encontra a fiação rompida, irregular ou sem uso que não interfiram na circulação de pedestres ou de veículos. |1.500,00 |5 dias | | | | | | | |Sim |2 dias |GV |Por face de quadra onde se encontra a fiação rompida, irregular ou sem uso que interfere na circulação de pedestres ou de veículos. |24.000,00 |1 dia | | | | |30-C |Deixar o responsável pelos postes ou mobiliário urbano similar de informar ao Poder Executivo, quando requisitado, quem é o responsável pela fiação aérea rompida, irregular ou sem uso instalada nos referidos mobiliários. |Arts. 43-G e 309 |Sim |7 dias |M |Por face de quadra onde se encontram instalados os postes ou mobiliários urbanos similares. |1.500,00 |7 dias | | | | |”
 

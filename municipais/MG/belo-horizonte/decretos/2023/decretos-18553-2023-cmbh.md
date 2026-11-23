@@ -58,35 +58,25 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida nos artigos 1º e 3º da|R$ |
-
-|Lei nº 11.602, de 17 de outubro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.0800.10.122.117.1.216.449051.500 |120.000,00 |
-
-|2302.3401.10.302.114.2.894.339039.500 |100.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |220.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida nos artigos 1º e 3º da | R$ |
+| --- | --- |
+| Lei nº 11.602, de 17 de outubro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.0800.10.122.117.1.216.449051.500 | 120.000,00 |
+| 2302.3401.10.302.114.2.894.339039.500 | 100.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 220.000,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização | |
-
-|contida nos artigos 1º e 3º da Lei nº 11.602, de 17 de outubro de 2023: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI | |
-
-|2700.0500.27.812.101.1.213.449051.500 |100.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.0800.10.301.157.2.690.339030.500 |120.000,00 |
-
-|TOTAL DA ANULAÇÃO |220.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização |  |
+| contida nos artigos 1º e 3º da Lei nº 11.602, de 17 de outubro de 2023: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0500.27.812.101.1.213.449051.500 | 100.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.0800.10.301.157.2.690.339030.500 | 120.000,00 |
+| TOTAL DA ANULAÇÃO | 220.000,00 |
 
 ANEXO II
 

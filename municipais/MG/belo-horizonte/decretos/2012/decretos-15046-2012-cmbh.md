@@ -28,17 +28,13 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, e em e
 
 **Art. 1º** - A tabela constante do art. 1º do Decreto nº 14.067, de 12 de agosto de 2010, passa a vigorar acrescida das seguintes linhas:
 
-|[...] |[...] |
-
-|Barreiro |Centro de Especialidades Odontológicas – CEO |
-
-|[...] |[...] |
-
-|Leste |Centro de Testagem e Aconselhamento/Serviços de Atendimento Especializado – CTA/SAE |
-
-|[...] |[...] |
-
-|Venda Nova |Centro de Especialidades Odontológicas - CEO |
+| [...] | [...] |
+| --- | --- |
+| Barreiro | Centro de Especialidades Odontológicas – CEO |
+| [...] | [...] |
+| Leste | Centro de Testagem e Aconselhamento/Serviços de Atendimento Especializado – CTA/SAE |
+| [...] | [...] |
+| Venda Nova | Centro de Especialidades Odontológicas - CEO |
 
 ” (NR)
 

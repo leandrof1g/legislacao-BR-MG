@@ -586,135 +586,85 @@ Prefeito de Belo Horizonte
 
 ANEXO I
 
-[pic]ANEXO I
+*[imagem no documento original — ver `fonte_texto`]*
+
+ANEXO I
 
 ANEXO I.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO I.2
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO I.3
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO I.4
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
 PARÂMETROS URBANÍSTICOS
 
-|1|Afastamento frontal |1.1 Deve ser qualificado, conforme regulamento. |
-
-| |mínimo | |
-
-|2|Taxa de permeabilidade |2.1 Atendida a porcentagem prevista na Lei nº 11.181, de 8 de agosto|
-
-| | |de 2019, a qualificação para o seu cumprimento poderá ser |
-
-| | |flexibilizada, conforme regulamento. |
-
-|3|Limite altimétrico |3.1 Apenas se aplicam aqueles deliberados pelo Conselho Deliberativo|
-
-| | |do Patrimônio Cultural de Belo Horizonte - CDPCM-BH. |
-
-|4|Quota de terreno por |4.1 Em zona de Ocupação Preferencial 3 - OP-3, em |Sem limite. |
-
-| |unidade habitacional |Centralidade Regional, em Área de Grandes | |
-
-| | |Equipamentos de Uso Coletivo - Ageuc - e em Área de | |
-
-| | |Grandes Equipamentos Econômicos - Agee. | |
-
-| | |4.2 Em empreendimento de interesse social. | |
-
-| | |4.3 Nas demais zonas, além das previstas no item |17 (dezessete). |
-
-| | |4.1. | |
-
-|5|Afastamentos lateral e de|5.1 Na área de abrangência da Operação Urbana Simplificada Somos |
-
-| |fundos mínimo e altura |Centro - OUS: |
-
-| |máxima na divisa |5.1.1 Poderão ser dispensados, em fachada em que não houver |
-
-| | |aberturas ou vãos de iluminação. Havendo abertura, aplica-se o |
-
-| | |diâmetro de iluminação previsto na Lei nº 9.725, de 15 de julho de |
-
-| | |2009, nas respectivas fachadas. |
-
-| | |5.1.2 Os afastamentos laterais e de fundos mínimos são calculados |
-
-| | |conforme a Tabela 4 do Anexo XII da Lei nº 11.181/19 e como fator o |
-
-| | |B = 8 (oito). |
-
-| | |5.2 Para os imóveis receptores de Unidade de Regeneração - UR - |
-
-| | |previstos no art. 21 desta lei, localizados: |
-
-| | |5.2.1 Em OP-3 e em Centralidade Regional, os afastamentos laterais e|
-
-| | |de fundos mínimos serão fixos quanto ao resultado do cálculo |
-
-| | |previsto na Tabela 4 do Anexo XII da Lei nº 11.181/19 para o |
-
-| | |pavimento integralmente inferior cuja área atingir Taxa de Ocupação,|
-
-| | |a ser definida em regulamento, garantidos os afastamentos mínimos de|
-
-| | |2,30m (dois metros e trinta centímetros). |
-
-| | |5.2.2 Nas demais zonas do Município, aplica-se o 5.1.2. |
-
-| | |5.3 Em todos os casos, os parâmetros poderão ser flexibilizados, |
-
-| | |mediante apresentação de estudo técnico a respeito de iluminação e |
-
-| | |ventilação, a ser avaliado pelo grupo técnico do Comitê Gestor da |
-
-| | |OUS Somos Centro, com critérios definidos em regulamento. |
-
-|6|Número de vagas para |6.1 Mínimo: dispensado o atendimento. |
-
-| |veículos leves |6.2 Máximo: |
-
-| | |6.2.1 Subárea 1A: 1 (uma) vaga a cada 2 (duas) unidades residenciais|
-
-| | |e 1 (uma) vaga a cada 100m² (cem metros quadrados) destinados ao uso|
-
-| | |não residencial. |
-
-| | |6.2.2 Subárea 1B e Área 2: 1 (uma) vaga a cada 1 (uma) unidade |
-
-| | |residencial e 1 (uma) vaga a cada 100m² (cem metros quadrados) |
-
-| | |destinados ao uso não residencial. |
-
-|7|Número mínimo de vagas |7.1 Será admitida a manutenção das vagas existentes, ou sua redução,|
-
-| |para carga e descarga e |desde que atendido o disposto na Lei nº 11.181/19. |
-
-| |para embarque e | |
-
-| |desembarque | |
-
-|8|Distância entre blocos |8.1 É obtida pela somatória dos afastamentos mínimos laterais e de |
-
-| | |fundo, calculados conforme a Tabela 4 do Anexo XII da Lei nº |
-
-| | |11.181/19 e como fator o B = 8 (oito). |
-
-| | |8.2 Independentemente do resultado do cálculo previsto no 8.1, |
-
-| | |poderá ser utilizada a distância entre blocos de no máximo 10 (dez) |
-
-| | |metros. |
+| 1 | Afastamento frontal | 1.1 Deve ser qualificado, conforme regulamento. |  |
+| --- | --- | --- | --- |
+|  | mínimo |  |  |
+| 2 | Taxa de permeabilidade | 2.1 Atendida a porcentagem prevista na Lei nº 11.181, de 8 de agosto |  |
+|  |  | de 2019, a qualificação para o seu cumprimento poderá ser |  |
+|  |  | flexibilizada, conforme regulamento. |  |
+| 3 | Limite altimétrico | 3.1 Apenas se aplicam aqueles deliberados pelo Conselho Deliberativo |  |
+|  |  | do Patrimônio Cultural de Belo Horizonte - CDPCM-BH. |  |
+| 4 | Quota de terreno por | 4.1 Em zona de Ocupação Preferencial 3 - OP-3, em | Sem limite. |
+|  | unidade habitacional | Centralidade Regional, em Área de Grandes |  |
+|  |  | Equipamentos de Uso Coletivo - Ageuc - e em Área de |  |
+|  |  | Grandes Equipamentos Econômicos - Agee. |  |
+|  |  | 4.2 Em empreendimento de interesse social. |  |
+|  |  | 4.3 Nas demais zonas, além das previstas no item | 17 (dezessete). |
+|  |  | 4.1. |  |
+| 5 | Afastamentos lateral e de | 5.1 Na área de abrangência da Operação Urbana Simplificada Somos |  |
+|  | fundos mínimo e altura | Centro - OUS: |  |
+|  | máxima na divisa | 5.1.1 Poderão ser dispensados, em fachada em que não houver |  |
+|  |  | aberturas ou vãos de iluminação. Havendo abertura, aplica-se o |  |
+|  |  | diâmetro de iluminação previsto na Lei nº 9.725, de 15 de julho de |  |
+|  |  | 2009, nas respectivas fachadas. |  |
+|  |  | 5.1.2 Os afastamentos laterais e de fundos mínimos são calculados |  |
+|  |  | conforme a Tabela 4 do Anexo XII da Lei nº 11.181/19 e como fator o |  |
+|  |  | B = 8 (oito). |  |
+|  |  | 5.2 Para os imóveis receptores de Unidade de Regeneração - UR - |  |
+|  |  | previstos no art. 21 desta lei, localizados: |  |
+|  |  | 5.2.1 Em OP-3 e em Centralidade Regional, os afastamentos laterais e |  |
+|  |  | de fundos mínimos serão fixos quanto ao resultado do cálculo |  |
+|  |  | previsto na Tabela 4 do Anexo XII da Lei nº 11.181/19 para o |  |
+|  |  | pavimento integralmente inferior cuja área atingir Taxa de Ocupação, |  |
+|  |  | a ser definida em regulamento, garantidos os afastamentos mínimos de |  |
+|  |  | 2,30m (dois metros e trinta centímetros). |  |
+|  |  | 5.2.2 Nas demais zonas do Município, aplica-se o 5.1.2. |  |
+|  |  | 5.3 Em todos os casos, os parâmetros poderão ser flexibilizados, |  |
+|  |  | mediante apresentação de estudo técnico a respeito de iluminação e |  |
+|  |  | ventilação, a ser avaliado pelo grupo técnico do Comitê Gestor da |  |
+|  |  | OUS Somos Centro, com critérios definidos em regulamento. |  |
+| 6 | Número de vagas para | 6.1 Mínimo: dispensado o atendimento. |  |
+|  | veículos leves | 6.2 Máximo: |  |
+|  |  | 6.2.1 Subárea 1A: 1 (uma) vaga a cada 2 (duas) unidades residenciais |  |
+|  |  | e 1 (uma) vaga a cada 100m² (cem metros quadrados) destinados ao uso |  |
+|  |  | não residencial. |  |
+|  |  | 6.2.2 Subárea 1B e Área 2: 1 (uma) vaga a cada 1 (uma) unidade |  |
+|  |  | residencial e 1 (uma) vaga a cada 100m² (cem metros quadrados) |  |
+|  |  | destinados ao uso não residencial. |  |
+| 7 | Número mínimo de vagas | 7.1 Será admitida a manutenção das vagas existentes, ou sua redução, |  |
+|  | para carga e descarga e | desde que atendido o disposto na Lei nº 11.181/19. |  |
+|  | para embarque e |  |  |
+|  | desembarque |  |  |
+| 8 | Distância entre blocos | 8.1 É obtida pela somatória dos afastamentos mínimos laterais e de |  |
+|  |  | fundo, calculados conforme a Tabela 4 do Anexo XII da Lei nº |  |
+|  |  | 11.181/19 e como fator o B = 8 (oito). |  |
+|  |  | 8.2 Independentemente do resultado do cálculo previsto no 8.1, |  |
+|  |  | poderá ser utilizada a distância entre blocos de no máximo 10 (dez) |  |
+|  |  | metros. |  |
 
 ANEXO III
 
@@ -728,43 +678,26 @@ III.1.2 - Os projetos devem ser protocolados observando os prazos abaixo, que s�
 
 III.1.3 - A aplicação do disposto neste anexo é condicionada ao acatamento do protocolo.
 
-|EMPREENDIMENTO INCENTIVADO |FATOR DE REGENERAÇÃO |
-
-| |Até |Após dois |Após quatro |
-
-| |dois |anos e até |anos e até seis|
-
-| |anos |quatro anos |anos |
-
-|1|Retrofit e reconversão, conforme regulamento |1,0 |0,8 |0,6 |
-
-|2|Empreendimento de interesse social, atendido o disposto |1,0 |1,0 |1,0 |
-
-| |no art. 169 da Lei nº 11.181, de 8 de agosto de 2019 | | | |
-
-|3|Finalização ou substituição de obra abandonada, conforme |0,5 |0,4 |0,3 |
-
-| |regulamento | | | |
-
-|4|Substituição de estacionamento em funcionamento quando da|0,5 |0,4 |0,3 |
-
-| |publicação desta lei, caracterizado como imóvel | | | |
-
-| |subutilizado (inciso II do art. 41 da Lei nº 11.181/19) | | | |
-
-|5|Substituição de galpão, conforme regulamento |0,5 |0,4 |0,3 |
-
-|6|Edificação nas porções dos bairros Carlos Prates, Bonfim,|0,6 |0,6 |0,6 |
-
-| |Lagoinha, Colégio Batista e Floresta, situadas na Subárea| | | |
-
-| |1B | | | |
-
-|7|Substituição de edificação horizontal, nos termos do |0,5 |0,4 |0,3 |
-
-| |Anexo XI da Lei nº 11.181/19, com características de | | | |
-
-| |abandono e degradação, conforme regulamento | | | |
+| EMPREENDIMENTO INCENTIVADO | FATOR DE REGENERAÇÃO |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Até | Após dois | Após quatro |  |
+|  | dois | anos e até | anos e até seis |  |
+|  | anos | quatro anos | anos |  |
+| 1 | Retrofit e reconversão, conforme regulamento | 1,0 | 0,8 | 0,6 |
+| 2 | Empreendimento de interesse social, atendido o disposto | 1,0 | 1,0 | 1,0 |
+|  | no art. 169 da Lei nº 11.181, de 8 de agosto de 2019 |  |  |  |
+| 3 | Finalização ou substituição de obra abandonada, conforme | 0,5 | 0,4 | 0,3 |
+|  | regulamento |  |  |  |
+| 4 | Substituição de estacionamento em funcionamento quando da | 0,5 | 0,4 | 0,3 |
+|  | publicação desta lei, caracterizado como imóvel |  |  |  |
+|  | subutilizado (inciso II do art. 41 da Lei nº 11.181/19) |  |  |  |
+| 5 | Substituição de galpão, conforme regulamento | 0,5 | 0,4 | 0,3 |
+| 6 | Edificação nas porções dos bairros Carlos Prates, Bonfim, | 0,6 | 0,6 | 0,6 |
+|  | Lagoinha, Colégio Batista e Floresta, situadas na Subárea |  |  |  |
+|  | 1B |  |  |  |
+| 7 | Substituição de edificação horizontal, nos termos do | 0,5 | 0,4 | 0,3 |
+|  | Anexo XI da Lei nº 11.181/19, com características de |  |  |  |
+|  | abandono e degradação, conforme regulamento |  |  |  |
 
 III.2 - Área de Fruição Pública - AFP
 
@@ -776,21 +709,15 @@ III.2.3 - Poderão ser propostos equipamentos ou soluções adicionais, à exce�
 
 III.2.4 - Poderão ser propostos outros equipamentos ou soluções adicionais, para os quais, mediante avaliação do grupo técnico do Comitê Gestor da OUS Somos Centro, admite-se o acréscimo de área líquida de +0,25m² (zero vírgula vinte e cinco metros quadrados).
 
-|1. AFP |1.1 Simples, conforme |1.2 Com equipamentos ou soluções adicionais |
-
-| |critérios da Lei nº | |
-
-| |11.181/19 | |
-
-| | |1.2.1 |1.2.2 |1.2.3 |1.2.4 |
-
-| | |bebedouro |brinquedo |equipamento |atravessamento de |
-
-| | | | |esportivo |quadra |
-
-|2. Acréscimo |2.1 |2.2 |2.3 |2.4 |2.5 |
-
-| |1,0m² |+0,25m² |+0,25m² |+0,25m² |+0,5m² |
+| 1. AFP | 1.1 Simples, conforme | 1.2 Com equipamentos ou soluções adicionais |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | critérios da Lei nº |  |  |  |  |
+|  | 11.181/19 |  |  |  |  |
+|  |  | 1.2.1 | 1.2.2 | 1.2.3 | 1.2.4 |
+|  |  | bebedouro | brinquedo | equipamento | atravessamento de |
+|  |  |  |  | esportivo | quadra |
+| 2. Acréscimo | 2.1 | 2.2 | 2.3 | 2.4 | 2.5 |
+|  | 1,0m² | +0,25m² | +0,25m² | +0,25m² | +0,5m² |
 
 III.2.5 - O grupo técnico do Comitê Gestor da OUS Somos Centro poderá dispensar ou reduzir a área mínima relativa à implantação de AFP nos casos de:
 
@@ -862,10 +789,8 @@ V.1 Os projetos devem ser protocolados observando-se os prazos abaixo, que são 
 
 V.2 A aplicação do disposto neste anexo é condicionada ao acatamento do protocolo.
 
-| |PERCENTUAL DE ISENÇÃO DE ODC |
-
-| |até dois anos |após dois anos e até quatro anos |após quatro anos |
-
-|Área 1 |75% |50% |0% |
-
-|Área 2 |50% |25% |0% |
+|  | PERCENTUAL DE ISENÇÃO DE ODC |  |  |
+| --- | --- | --- | --- |
+|  | até dois anos | após dois anos e até quatro anos | após quatro anos |
+| Área 1 | 75% | 50% | 0% |
+| Área 2 | 50% | 25% | 0% |

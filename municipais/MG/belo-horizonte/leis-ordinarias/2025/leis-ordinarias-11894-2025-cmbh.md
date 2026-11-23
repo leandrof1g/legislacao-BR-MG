@@ -38,9 +38,9 @@ DIA COMEMORATIVO
 
 M - Dias móveis segundo o calendário católico:
 
-|DATA |COMEMORAÇÃO |
-
-|domingo de Páscoa |Dia Municipal de Combate à Cristofobia |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| domingo de Páscoa | Dia Municipal de Combate à Cristofobia |
 
 ”.
 

@@ -86,62 +86,34 @@ ANEXO ÚNICO
 
 Tabela Geral de Controle de Acesso e Perfis de Usuários
 
-|PERFIL |PERMISSÕES |CARGOS ASSOCIADOS AO PERFIL |ÁREA DE ABRANGÊNCIA |
-
-|Administrador |Acesso irrestrito a todas as funcionalidades;|Indicado pelo titular da SMPL. |Prefeitura Municipal de Belo |
-
-| |administra conteúdo e suporte da ferramenta. | |Horizonte. |
-
-|Usuário |Somente para proceder login no sistema; é | |Área de responsabilidade do |
-
-| |combinado com outros perfis para acessar | |usuário. |
-
-| |informações que lhe são necessárias. | | |
-
-|Executivo |Consulta todas as funcionalidades da |Prefeito e Vice-Prefeito, |Prefeitura Municipal de Belo |
-
-| |ferramenta, exceto as funções do |Secretários da SMGO, SMPL, SMF, |Horizonte. |
-
-| |administrador, bem como visualiza todos os |AGM. | |
-
-| |conteúdos nela cadastrados. | | |
-
-|Gerente de Unidade |Consulta o conteúdo inerente a sua área de |Secretários Municipais, |Secretaria Municipal, Secretaria |
-
-| |abrangência. |Secretários Municipais Adjuntos, |Municipal Adjunta, órgãos |
-
-| | |órgãos equivalentes, dirigentes |equivalentes, entidades |
-
-| | |das entidades descentralizadas, |descentralizadas. |
-
-| | |gerentes funcionais. | |
-
-|Visualizador |Consulta os conteúdos abaixo de sua estrutura| |Área de responsabilidade do |
-
-| |hierárquica. | |usuário. |
-
-|Gerente do Escritório|Consulta a carteira de projetos sob sua |Gerente do Escritório de Projeto.|Área de responsabilidade do |
-
-|de Projeto |gestão, altera informações pertinentes a sua | |usuário. |
-
-| |área de atuação de monitoramento, como, por | | |
-
-| |exemplo, salvamento de linhas de base. | | |
-
-|Gerente de Projeto |Consulta e altera informações de projetos de | |Área de responsabilidade do |
-
-| |sua responsabilidade. | |usuário. |
-
-|Analista de Projeto |Consulta e atualiza as informações dos |Analista de Projeto e Assessores |Área de responsabilidade do |
-
-| |projetos geridos pela Gerência do Escritório |vinculados a projetos. |usuário. |
-
-| |de Projetos inerentes ao exercício de sua | | |
-
-| |função. | | |
-
-|Equipe de Projeto |Consulta informações do projeto em que |Envolvidos no projeto. |Área de responsabilidade do |
-
-| |participa e atualiza tarefas de Plano de Ação| |usuário. |
-
-| |e mensagens. | | |
+| PERFIL | PERMISSÕES | CARGOS ASSOCIADOS AO PERFIL | ÁREA DE ABRANGÊNCIA |
+| --- | --- | --- | --- |
+| Administrador | Acesso irrestrito a todas as funcionalidades; | Indicado pelo titular da SMPL. | Prefeitura Municipal de Belo |
+|  | administra conteúdo e suporte da ferramenta. |  | Horizonte. |
+| Usuário | Somente para proceder login no sistema; é |  | Área de responsabilidade do |
+|  | combinado com outros perfis para acessar |  | usuário. |
+|  | informações que lhe são necessárias. |  |  |
+| Executivo | Consulta todas as funcionalidades da | Prefeito e Vice-Prefeito, | Prefeitura Municipal de Belo |
+|  | ferramenta, exceto as funções do | Secretários da SMGO, SMPL, SMF, | Horizonte. |
+|  | administrador, bem como visualiza todos os | AGM. |  |
+|  | conteúdos nela cadastrados. |  |  |
+| Gerente de Unidade | Consulta o conteúdo inerente a sua área de | Secretários Municipais, | Secretaria Municipal, Secretaria |
+|  | abrangência. | Secretários Municipais Adjuntos, | Municipal Adjunta, órgãos |
+|  |  | órgãos equivalentes, dirigentes | equivalentes, entidades |
+|  |  | das entidades descentralizadas, | descentralizadas. |
+|  |  | gerentes funcionais. |  |
+| Visualizador | Consulta os conteúdos abaixo de sua estrutura |  | Área de responsabilidade do |
+|  | hierárquica. |  | usuário. |
+| Gerente do Escritório | Consulta a carteira de projetos sob sua | Gerente do Escritório de Projeto. | Área de responsabilidade do |
+| de Projeto | gestão, altera informações pertinentes a sua |  | usuário. |
+|  | área de atuação de monitoramento, como, por |  |  |
+|  | exemplo, salvamento de linhas de base. |  |  |
+| Gerente de Projeto | Consulta e altera informações de projetos de |  | Área de responsabilidade do |
+|  | sua responsabilidade. |  | usuário. |
+| Analista de Projeto | Consulta e atualiza as informações dos | Analista de Projeto e Assessores | Área de responsabilidade do |
+|  | projetos geridos pela Gerência do Escritório | vinculados a projetos. | usuário. |
+|  | de Projetos inerentes ao exercício de sua |  |  |
+|  | função. |  |  |
+| Equipe de Projeto | Consulta informações do projeto em que | Envolvidos no projeto. | Área de responsabilidade do |
+|  | participa e atualiza tarefas de Plano de Ação |  | usuário. |
+|  | e mensagens. |  |  |

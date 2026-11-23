@@ -76,4 +76,5 @@ CONTRATO PARA PRESTAÇÃO DE SERVIÇOS DE MÃO-DE-OBRA NA FUNÇÃO DE
 
 PROCESSO Nº - INSTRUMENTO JURÍDICO Nº
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

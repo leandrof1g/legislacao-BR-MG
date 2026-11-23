@@ -58,39 +58,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 1º |R$ |
-
-|da Lei nº 11.377, de 8 de julho de 2022: | |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.542.306.2.877.3350.0000 |669.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.812.3390.0000 |20.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |689.000,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 1º | R$ |
+| --- | --- |
+| da Lei nº 11.377, de 8 de julho de 2022: |  |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.542.306.2.877.3350.0000 | 669.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.812.3390.0000 | 20.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 689.000,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, | |
-
-|conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de | |
-
-|2022: | |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.542.306.2.877.4490.0000 |669.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.812.4490.0000 |20.000,00 |
-
-|TOTAL DA ANULAÇÃO |689.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, |  |
+| conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de |  |
+| 2022: |  |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.542.306.2.877.4490.0000 | 669.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.812.4490.0000 | 20.000,00 |
+| TOTAL DA ANULAÇÃO | 689.000,00 |
 
 ANEXO II
 
@@ -126,16 +114,11 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 1º da Lei nº 11.377, de 8 de julho de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2022 |
-
-|Art. 1º da Lei nº 11.377, de 8/7/2022 - Emendas Parlamentares Individuais |
-
-|Limite total autorizado |R$ 64.153.793,00 |
-
-|Valor dos créditos suplementares abertos no exercício |R$ 61.337.416,74 |
-
-|Saldos de créditos suplementares |R$ 2.816.376,26 |
-
-|Percentual utilizado |95,61% |
-
-|Atualizado em 30/09/2022 às 09:22:38 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2022 |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.377, de 8/7/2022 - Emendas Parlamentares Individuais |  |
+| Limite total autorizado | R$ 64.153.793,00 |
+| Valor dos créditos suplementares abertos no exercício | R$ 61.337.416,74 |
+| Saldos de créditos suplementares | R$ 2.816.376,26 |
+| Percentual utilizado | 95,61% |
+| Atualizado em 30/09/2022 às 09:22:38 |  |

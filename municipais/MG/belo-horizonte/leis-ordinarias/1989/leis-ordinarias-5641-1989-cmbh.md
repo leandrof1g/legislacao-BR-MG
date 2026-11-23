@@ -2074,37 +2074,23 @@ V - TAXA DE FISCALIZAÇÃO DE ENGENHOS DE PUBLICIDADE
 
 Por ano:
 
-|5.1 |Engenho de divulgação de publicidade inanimado não compreendido em outro item desta tabela: |
-
-|5.1.1 |Engenho de divulgação de publicidade luminoso |R$ 51,00 por m2 |
-
-|5.1.2 |Engenho de divulgação de publicidade não luminoso |R$ 24,00 por m2 |
-
-|5.2 |Engenho de divulgação de publicidade animado não compreendido em outro item desta tabela: | |
-
-|5.2.1 |Engenho de divulgação de publicidade luminoso |R$68,00 por m² |
-
-|5.2.2 |Engenho de divulgação de publicidade não luminoso |R$34,00 por m² |
-
-|5.3 |Engenho de divulgação de publicidade tipo tabuleta (outdoor) |R$307,00 por unidade |
-
-|5.4 |Engenho de divulgação de publicidade acoplado a termômetro ou relógio |R$137,00 por unidade |
-
-|5.5 |Engenho de divulgação de publicidade acoplado a barreira de pedestre |R$38,00 por unidade |
-
-|5.6 |Engenho de divulgação de publicidade acoplado a veículo de transporte coletivo |R$30,00 por unidade |
-
-|5.7 |Engenho de divulgação de publicidade acoplado a grade protetora de árvores |R$13,00 por unidade |
-
-|5.8 |Engenho de divulgação de publicidade acoplado a poste com indicativo de logradouros |R$13,00 por unidade |
-
-|5.9 |Engenho de divulgação de publicidade acoplado a abrigo de ônibus |R$150,00 por unidade |
-
-|5.10 |Engenho de divulgação de publicidade acoplado a veículo de transporte público individual: | |
-
-|5.10.1 |Engenho de divulgação de publicidade acoplado à lateral ou à traseira do veículo |R$12,00 por unidade |
-
-|5.10.2 |Engenho de divulgação de publicidade acoplado ao dístico identificador do serviço |R$51,00 por m2 |
+| 5.1 | Engenho de divulgação de publicidade inanimado não compreendido em outro item desta tabela: |  |
+| --- | --- | --- |
+| 5.1.1 | Engenho de divulgação de publicidade luminoso | R$ 51,00 por m2 |
+| 5.1.2 | Engenho de divulgação de publicidade não luminoso | R$ 24,00 por m2 |
+| 5.2 | Engenho de divulgação de publicidade animado não compreendido em outro item desta tabela: |  |
+| 5.2.1 | Engenho de divulgação de publicidade luminoso | R$68,00 por m² |
+| 5.2.2 | Engenho de divulgação de publicidade não luminoso | R$34,00 por m² |
+| 5.3 | Engenho de divulgação de publicidade tipo tabuleta (outdoor) | R$307,00 por unidade |
+| 5.4 | Engenho de divulgação de publicidade acoplado a termômetro ou relógio | R$137,00 por unidade |
+| 5.5 | Engenho de divulgação de publicidade acoplado a barreira de pedestre | R$38,00 por unidade |
+| 5.6 | Engenho de divulgação de publicidade acoplado a veículo de transporte coletivo | R$30,00 por unidade |
+| 5.7 | Engenho de divulgação de publicidade acoplado a grade protetora de árvores | R$13,00 por unidade |
+| 5.8 | Engenho de divulgação de publicidade acoplado a poste com indicativo de logradouros | R$13,00 por unidade |
+| 5.9 | Engenho de divulgação de publicidade acoplado a abrigo de ônibus | R$150,00 por unidade |
+| 5.10 | Engenho de divulgação de publicidade acoplado a veículo de transporte público individual: |  |
+| 5.10.1 | Engenho de divulgação de publicidade acoplado à lateral ou à traseira do veículo | R$12,00 por unidade |
+| 5.10.2 | Engenho de divulgação de publicidade acoplado ao dístico identificador do serviço | R$51,00 por m2 |
 
 Item V com redação dada pela Lei nº 8.725, de 30/12/2003 (Art. 37)
 
@@ -2200,431 +2186,220 @@ VII - TAXA DE EXPEDIENTE
 
 Item VII acrescentado pela Lei n° 10.693, de 30/12/2013 (Art. 3°)
 
-|I - ATIVIDADES RELACIONADAS AO PARCELAMENTO DO SOLO, CONSTRUÇÃO E OBRAS EM LOGRADOURO PÚBLICO: |
-
-|1 - Exame de projeto de parcelamento do solo (loteamento), de|R$0,55 p/m² p/exame, com pagamento mínimo de R$166,00 |
-
-|desmembramento ou de modificação de parcelamento | |
-
-| |
-
-|2 - Exame de projeto de edificação: |
-
-|2.1 - Projeto inicial |R$0,55 p/m² de área a construir ou de acréscimo, p/exame, com pagamento |
-
-| |mínimo de R$55,00 p/exame |
-
-|2.2 - Projeto de modificação |R$0,55 p/m² de área de acréscimo, com pagamento mínimo de R$55,00 |
-
-| |p/exame |
-
-|2.3 - Levantamento |R$0,55 p/m² de área a regularizar, com pagamento mínimo de R$55,00 |
-
-| |p/exame |
-
-|2.4 - Projeto de restauração ou de preservação de imóvel de |R$55,00 p/exame |
-
-|interesse histórico e cultural | |
-
-|2.5 - Projeto de reforma ou demolição |R$55,00 p/exame |
-
-|2.6 - Projeto de instalação de tapume |R$55,00 p/exame |
-
-| |
-
-|3 - Exame de projetos de obras de infraestrutura: |
-
-|3.1 - Obras de até 100 metros lineares de extensão |R$166,00 p/exame |
-
-|3.2 - Obras com mais de 100 metros lineares de extensão |R$1,66 p/m linear |
-
-| |
-
-|4 - Exame de projetos de instalação de mobiliário urbano: |
-
-|4.1- Poste |R$20,00 p/unidade |
-
-|4.2 - Cabine |R$166,00 p/unidade |
-
-|4.3 - Telefone público sem cabine |R$20,00 p/unidade |
-
-|4.4 - Armário |R$166,00 p/unidade |
-
-|4.5 - Banca |R$166,00 p/unidade |
-
-|4.6 - Abrigo de ônibus |R$166,00 p/unidade |
-
-|4.7 - Cercas e defensas para travessia de pedestres |R$20,00 p/m linear |
-
-|4.8 - Relógios |R$166,00 p/unidade |
-
-|4.9 - Toldo |R$82,00 p/exame |
-
-|4.10 - Outros mobiliários |R$82,00 p/exame |
-
-| |
-
-|5 - Análise de requerimentos relativos a acompanhamento de obras em geral: |
-
-|5.1 - Para renovação de Alvará de Construção |R$0,45 p/m² p/ período de validação |
-
-|5.2 - Para concessão de Baixa de Construção |R$149,65 p/serviço |
-
-|5.3 - Para revalidação de Alvará de Urbanização |R$165,75 p/serviço |
-
-|5.4 - Para renovação de Alvará de Obras Públicas |R$39,65 p/serviço |
-
-|5.5 - Para renovação de outros alvarás, licenças ou |R$82,80 p/serviço |
-
-|autorizações | |
-
-|5.6 - Outros requerimentos |R$82,80 p/serviço |
-
-| |
-
-|6 - Vistoria de Obras |R$166,00 p/vistoria |
-
-| |
-
-|7 - Atividades pertinentes a tráfego de terra e/ou entulho: |
-
-|7.1 - Análise para autorização para tráfego de terra e/ou entulho (volume total de terra e/ou entulho a transportar, por obra): |
-
-|7.1.1 - até 100 m3 |R$77,30 |
-
-|7.1.2 - acima de 100 a 500 m3 |R$180,35 |
-
-|7.1.3 - acima de 500 a 1.000 m3 |R$281,90 |
-
-|7.1.4 - acima de 1.000 a 2.000 m3 |R$453,30 |
-
-|7.1.5 - acima de 2.000 a 10.000 m3 |R$541,10 |
-
-|7.1.6 - acima de 10.000 m3 |R$800,30 |
-
-| |
-
-|8 - Indicação de numeração predial oficial |R$5,45 p/n° |
-
-| |
-
-|9 - Cadastro de veículo para autorização de transporte de |R$54,50 p/veículo p/ano |
-
-|terra e/ou entulho | |
-
-| |
-
-|10 - Serviços pertinentes à proteção e preservação da memória e do patrimônio histórico-cultural: |
-
-|10.1 - Laudo técnico em bem imóvel para definição do grau de |R$81,80 (por lote) |
-
-|interesse histórico-cultural | |
-
-|10.2 - Laudo técnico de definição do estado atual de |R$81,80 (por lote) |
-
-|conservação em imóveis tombados para cálculo de UTDC | |
-
-|10.3 - Exame de projeto para edificação/obra em área de proteção histórico-cultural: |
-
-|10.3.1 - Até 200 m² |R$0,35 p/m² |
-
-|10.3.2 - Acima de 200 m² |R$0,35 p/m² excedente |
-
-|10.4 - Laudo Técnico para término de edificação/obra em área |R$81,80 (por lote) |
-
-|de proteção histórico-cultural | |
-
-|10.5 - Laudo técnico de avaliação de conservação de imóvel |R$81,80 p/laudo |
-
-|para fins de isenção de IPTU | |
-
-| |
-
-|11 - Atividades relacionadas à apreensão e guarda de veículos, equipamentos e materiais utilizados em obras em geral: |
-
-|11.1 - Veículos apreendidos (por unidade) até 7 (sete) dias: |
-
-|11.1.1 - Caminhão |R$270,95 + R$27,10 p/dia a partir do 8º dia de apreensão |
-
-|11.1.2 - Caminhonete, "Pick-up", Kombi, etc |R$218,07 + R$27,10 p/dia a partir do 8º dia de apreensão |
-
-|11.1.3 - Carroça |R$110,65 + R$27,10 p/dia a partir do 8º dia de apreensão |
-
-|11.1.4 - Carrinho de mão |R$27,10 + R$27,10 p/dia a partir do 8º dia de apreensão |
-
-|11.1.5 - Equipamentos de terraplanagem (trator, pá |R$545,10 + R$27,10 p/dia a partir do 8º dia de apreensão |
-
-|carregadeira, retro-escavadeira, compactador) | |
-
-|11.2 - Materiais e equipamentos apreendidos (por unidade) até 7 (sete) dias: |
-
-|11.2.1 - Equipamentos de construção (betoneira, compactador, |R$110,65 + R$27,10 p/dia a partir do 8º dia de apreensão |
-
-|elevador etc) | |
-
-|11.2.2 - Materiais de construção |R$54,50 p/m3 medido na carroceria do caminhão, sendo cobrado, no mínimo |
-
-| |6m3 |
-
-|11.2.3 - Ferramentas de construção (pás, picaretas, enxadas |R$2,90 + R$27,10 p/dia a partir do 8º dia de apreensão |
-
-|etc.) | |
-
-| |
-
-|II - ATIVIDADES RELACIONADAS AO LICENCIAMENTO DO EXERCÍCIO DE ATIVIDADES ECONÔMICAS: |
-
-|1 - Análise de requerimento |R$81,75 p/serviço |
-
-|2 - Vistoria |R$81,75 p/serviço |
-
-| |
-
-|III - ATIVIDADES RELACIONADAS À APREENSÃO E GUARDA DE MERCADORIAS, EQUIPAMENTOS E MATERIAIS UTILIZADOS EM ATIVIDADES ECONÔMICAS: |
-
-|1- Apreensão e guarda de mercadorias, equipamentos e materiais utilizados em atividades econômicas: |
-
-|1.1 - Mercadoria apreendida |R$1,10 UFIR p/Kg p/dia |
-
-|1.2 - Bancas em geral, carrinhos, mesas, cadeiras, |R$54,50 p/unidade p/dia |
-
-|equipamentos, carcaças,"traillers", quiosques, caçambas, | |
-
-|placas promocionais, barracas e similares | |
-
-|1.3 - Apreensão e remoção de botijões de gás liquefeito de |R$272,55 p/unidade |
-
-|petróleo - GLP | |
-
-| |
-
-|IV - ATIVIDADES RELACIONADAS AO CONTROLE E LICENCIAMENTO AMBIENTAL: |
-
-|1- Análise para utilização ou detonação de explosivos ou |R$69,90 p/projeto |
-
-|similares | |
-
-|2 - Análise para disposição de resíduos sólidos - Classe I |R$543,80 p/projeto |
-
-|(Industrial) | |
-
-|3 - Análise para movimentação de terra, aterro, desaterro e |R$0,20 p/m² até o limite de R$2.316,90 |
-
-|bota-fora | |
-
-|4 - Análise para execução de serviços de construção civil em |R$34,95 p/projeto |
-
-|horário especial | |
-
-|5 - Elaboração de parecer prévio para atividades causadoras |R$179,40 p/parecer |
-
-|de repercussão negativa | |
-
-|6 - Elaboração de parecer técnico para licença prévia para |R$5.438,10 p/parecer |
-
-|atividades e empreendimentos de impacto ambiental | |
-
-|7 - Elaboração de parecer técnico para licença de implantação|R$2.316,90 p/parecer |
-
-|de atividades e empreendimentos de impacto ambiental | |
-
-|8 - Elaboração de parecer técnico para licença de operação de|R$1.596,60 p/parecer |
-
-|atividades e empreendimentos de impacto ambiental | |
-
-|9 - Análise para emissão de Laudo Ambiental |R$0,20 p/m² até o limite de R$2.316,90 |
-
-|10 - Análise para emissão de Declaração de Dispensa de |R$34,95 p/parecer |
-
-|Licenciamento | |
-
-|11 - Elaboração de Parecer Técnico sobre empreendimento em |R$0,50 p/m² de terreno, até o limite de R$5.438,10 |
-
-|área de preservação permanente ou zoneamento específico | |
-
-| |
-
-|12 - Elaboração de parecer técnico para licenciamento de atividades industriais de repercussão ambiental significativa: |
-
-|12.1 - 14-A / Atividade Industrial - Categoria I - LO |R$197,30 p/parecer |
-
-|12.2 - 14-B / Atividade Industrial - Categoria I - LOA |R$197,30 p/parecer |
-
-|12.3 - 14-C / Atividade Industrial - Categoria I - LOC |R$217,05 p/parecer |
-
-|12.4 - 14-D / Atividade Industrial - Categoria II - LO |R$217,05 p/parecer |
-
-|12.5 - 14-E / Atividade Industrial - Categoria II - LOA |R$217,05 p/parecer |
-
-|12.6 - 14-F / Atividade Industrial - Categoria II - LOC |R$238,75 p/parecer |
-
-|12.7 - 14-G / Atividade Industrial - Categoria III - LO |R$236,80 p/parecer |
-
-|12.8 - 14-H / Atividade Industrial - Categoria III - LOA |R$236,80 p/parecer |
-
-|12.9 - 14-I / Atividade Industrial - Categoria III - LOC |R$390,70 p/parecer |
-
-|12.10 - 14-J / Atividade Industrial - Categoria IV - LI |R$256,50 p/parecer |
-
-|12.11 - 14-K / Atividade Industrial - Categoria IV - LO |R$128,25 p/parecer |
-
-|12.12 - 14-L / Atividade Industrial - Categoria IV - LOA |R$256,50 p/parecer |
-
-|12.13 - 14-M / Atividade Industrial - Categoria IV - LOC |R$423,25 p/parecer |
-
-|12.14 - 14-N / Atividade Industrial - Categoria V e VI - LP |R$5.438,10 p/parecer |
-
-|12.15 - 14-O / Atividade Industrial - Categoria V e VI - LI |R$2.316,90 p/parecer |
-
-|12.16 - 14-P / Atividade Industrial - Categoria V e VI - LO |R$1.596,60 p/parecer |
-
-| |
-
-|13 - Análise de requerimento para realização de shows, feiras|R$102,65 p/evento |
-
-|ou similares, em praças ou parques | |
-
-| |
-
-|V - ATIVIDADES RELACIONADAS AO LICENCIAMENTO, À INSPEÇÃO E À VIGILÂNCIA SANITÁRIA: |
-
-|1 - Laudo/Vistoria para fins de licenciamento do exercício de atividades de interesse sanitário: |
-
-|1.1 - até 50m² |R$115,00 |
-
-|1.2 - acima de 50 até 100m² |R$165,00 |
-
-|1.3 - acima de 100 até 150m² |R$205,00 |
-
-|1.4 - acima de 150 até 270m² |R$277,00 |
-
-|1.5 - acima de 270 até 500m² |R$329,00 |
-
-|1.6 - acima de 500m² |R$329,00 + R$0,15 p/m² excedente |
-
-| |
-
-|2 - Análise de Projeto Arquitetônico de interesse sanitário: |
-
-|2.1 - Análise de Projeto Arquitetônico, incluída a primeira |R$58,00 + R$0,60 p/m² |
-
-|reanálise | |
-
-|2.2 - Reanálise de Projeto Arquitetônico (a partir da segunda|R$29,00 + R$0,30 p/m² |
-
-|reanálise) | |
-
-| |
-
-|3 - Análise de Plano de Gerenciamento de Resíduos Sólidos de Saúde - PGRSS: |
-
-|3.1 - Análise até 100 litros (pequeno gerador), incluída a |R$21,00 p/plano |
-
-|primeira reanálise | |
-
-|3.2 - Reanálise (a partir da segunda) até 100 litros (pequeno|R$11,00 p/plano |
-
-|gerador) | |
-
-|3.3 - Análise de 101 a 500 litros (médio gerador), incluída a|R$41,00 p/plano |
-
-|primeira reanálise | |
-
-|3.4 - Reanálise (a partir da segunda) de 101 a 500 litros |R$21,00 p/plano |
-
-|(médio gerador) | |
-
-|3.5 - Análise acima de 500 litros (grande gerador), incluída |R$81,00 p/plano |
-
-|a primeira reanálise | |
-
-|3.6 - Reanálise (a partir da segunda) acima de 500 litros |R$41,00 p/plano |
-
-|(grande gerador) | |
-
-|4 - Atividades relacionadas à apreensão e guarda de animais: |
-
-|4.1 - Animais de pequeno porte: |
-
-|4.1.1 - Apreensão |R$12,50 |
-
-|4.1.2 - Diárias |R$12,50 p/dia |
-
-|4.2 - Animais de médio porte: |
-
-|4.2.1 - Apreensão |R$25,00 |
-
-|4.2.2 - Diária |R$20,00 p/dia |
-
-|4.3 - Animais de grande porte: |
-
-|4.3.1 - Apreensão |R$50,10 |
-
-| |R$100,50 |
-
-| |Subitem com redação dada pela Lei nº 12.111, de 18/8/2026 |
-
-|4.3.2 - Diária |R$37,60 p/dia |
-
-| |R$105,50 p/dia |
-
-| |Subitem com redação dada pela Lei nº 12.111, de 18/8/2026 |
-
-| |
-
-|VI - ATIVIDADES RELACIONADAS À EXPEDIÇÃO DE DOCUMENTOS: |
-
-|1 - Expedição de licença, alvará e autorização (inclusive 2ª |R$81,75 p/documento |
-
-|via) | |
-
-| |
-
-|2 - Processamento e remessa postal de Guia de Arrecadação |R$4,60 p/documento |
-
-|Municipal – GAM | |
-
-| | |
-
-|Item 2 com eficácia suspensa pelo Tribunal de Justiça de | |
-
-|Minas Gerais (ADI nº 1.0000.19.063172-1/000) | |
-
-|Obs.: A taxa fixada neste item não incide: |
-
-|1) quando a guia de recolhimento - GAM de tributos, multas e demais valores fixados na legislação municipal for emitida pela internet;|
-
-|2) quando a GAM for emitida e entregue diretamente ao interessado na repartição pública. |
-
-| |
-
-|VII - ATIVIDADES RELACIONADAS AO DESARQUIVAMENTO DE PROCESSOS E REPRODUÇÃO DE DOCUMENTOS: |
-
-|1 - Desarquivamento de processo a pedido do interessado |R$29,80 p/processo |
-
-| |
-
-|2 - Fornecimento de cópias de documentos: |
-
-|2.1 - cópia xerográfica, inclusive de inteiro teor de |R$0,15 p/folha |
-
-|processo | |
-
-|2.2 - cópia de microfilme ou digitalização de página, |R$0,35 p/folha |
-
-|inclusive de inteiro teor de processo | |
-
-|2.3 - cópia heliográfica |R$32,70 p/m² |
-
-|2.4 - cópia poliéster |R$327,10 p/m² |
-
-|2.5 - microfilme |R$5,45 p/microfilme |
-
-|2.6 - ampliação de microfilme |R$32,70 p/m² |
-
-| |
-
-|3 - Coletânea da legislação municipal |R$109,00 p/volume |
+| I - ATIVIDADES RELACIONADAS AO PARCELAMENTO DO SOLO, CONSTRUÇÃO E OBRAS EM LOGRADOURO PÚBLICO: |  |
+| --- | --- |
+| 1 - Exame de projeto de parcelamento do solo (loteamento), de | R$0,55 p/m² p/exame, com pagamento mínimo de R$166,00 |
+| desmembramento ou de modificação de parcelamento |  |
+|  |  |
+| 2 - Exame de projeto de edificação: |  |
+| 2.1 - Projeto inicial | R$0,55 p/m² de área a construir ou de acréscimo, p/exame, com pagamento |
+|  | mínimo de R$55,00 p/exame |
+| 2.2 - Projeto de modificação | R$0,55 p/m² de área de acréscimo, com pagamento mínimo de R$55,00 |
+|  | p/exame |
+| 2.3 - Levantamento | R$0,55 p/m² de área a regularizar, com pagamento mínimo de R$55,00 |
+|  | p/exame |
+| 2.4 - Projeto de restauração ou de preservação de imóvel de | R$55,00 p/exame |
+| interesse histórico e cultural |  |
+| 2.5 - Projeto de reforma ou demolição | R$55,00 p/exame |
+| 2.6 - Projeto de instalação de tapume | R$55,00 p/exame |
+|  |  |
+| 3 - Exame de projetos de obras de infraestrutura: |  |
+| 3.1 - Obras de até 100 metros lineares de extensão | R$166,00 p/exame |
+| 3.2 - Obras com mais de 100 metros lineares de extensão | R$1,66 p/m linear |
+|  |  |
+| 4 - Exame de projetos de instalação de mobiliário urbano: |  |
+| 4.1- Poste | R$20,00 p/unidade |
+| 4.2 - Cabine | R$166,00 p/unidade |
+| 4.3 - Telefone público sem cabine | R$20,00 p/unidade |
+| 4.4 - Armário | R$166,00 p/unidade |
+| 4.5 - Banca | R$166,00 p/unidade |
+| 4.6 - Abrigo de ônibus | R$166,00 p/unidade |
+| 4.7 - Cercas e defensas para travessia de pedestres | R$20,00 p/m linear |
+| 4.8 - Relógios | R$166,00 p/unidade |
+| 4.9 - Toldo | R$82,00 p/exame |
+| 4.10 - Outros mobiliários | R$82,00 p/exame |
+|  |  |
+| 5 - Análise de requerimentos relativos a acompanhamento de obras em geral: |  |
+| 5.1 - Para renovação de Alvará de Construção | R$0,45 p/m² p/ período de validação |
+| 5.2 - Para concessão de Baixa de Construção | R$149,65 p/serviço |
+| 5.3 - Para revalidação de Alvará de Urbanização | R$165,75 p/serviço |
+| 5.4 - Para renovação de Alvará de Obras Públicas | R$39,65 p/serviço |
+| 5.5 - Para renovação de outros alvarás, licenças ou | R$82,80 p/serviço |
+| autorizações |  |
+| 5.6 - Outros requerimentos | R$82,80 p/serviço |
+|  |  |
+| 6 - Vistoria de Obras | R$166,00 p/vistoria |
+|  |  |
+| 7 - Atividades pertinentes a tráfego de terra e/ou entulho: |  |
+| 7.1 - Análise para autorização para tráfego de terra e/ou entulho (volume total de terra e/ou entulho a transportar, por obra): |  |
+| 7.1.1 - até 100 m3 | R$77,30 |
+| 7.1.2 - acima de 100 a 500 m3 | R$180,35 |
+| 7.1.3 - acima de 500 a 1.000 m3 | R$281,90 |
+| 7.1.4 - acima de 1.000 a 2.000 m3 | R$453,30 |
+| 7.1.5 - acima de 2.000 a 10.000 m3 | R$541,10 |
+| 7.1.6 - acima de 10.000 m3 | R$800,30 |
+|  |  |
+| 8 - Indicação de numeração predial oficial | R$5,45 p/n° |
+|  |  |
+| 9 - Cadastro de veículo para autorização de transporte de | R$54,50 p/veículo p/ano |
+| terra e/ou entulho |  |
+|  |  |
+| 10 - Serviços pertinentes à proteção e preservação da memória e do patrimônio histórico-cultural: |  |
+| 10.1 - Laudo técnico em bem imóvel para definição do grau de | R$81,80 (por lote) |
+| interesse histórico-cultural |  |
+| 10.2 - Laudo técnico de definição do estado atual de | R$81,80 (por lote) |
+| conservação em imóveis tombados para cálculo de UTDC |  |
+| 10.3 - Exame de projeto para edificação/obra em área de proteção histórico-cultural: |  |
+| 10.3.1 - Até 200 m² | R$0,35 p/m² |
+| 10.3.2 - Acima de 200 m² | R$0,35 p/m² excedente |
+| 10.4 - Laudo Técnico para término de edificação/obra em área | R$81,80 (por lote) |
+| de proteção histórico-cultural |  |
+| 10.5 - Laudo técnico de avaliação de conservação de imóvel | R$81,80 p/laudo |
+| para fins de isenção de IPTU |  |
+|  |  |
+| 11 - Atividades relacionadas à apreensão e guarda de veículos, equipamentos e materiais utilizados em obras em geral: |  |
+| 11.1 - Veículos apreendidos (por unidade) até 7 (sete) dias: |  |
+| 11.1.1 - Caminhão | R$270,95 + R$27,10 p/dia a partir do 8º dia de apreensão |
+| 11.1.2 - Caminhonete, "Pick-up", Kombi, etc | R$218,07 + R$27,10 p/dia a partir do 8º dia de apreensão |
+| 11.1.3 - Carroça | R$110,65 + R$27,10 p/dia a partir do 8º dia de apreensão |
+| 11.1.4 - Carrinho de mão | R$27,10 + R$27,10 p/dia a partir do 8º dia de apreensão |
+| 11.1.5 - Equipamentos de terraplanagem (trator, pá | R$545,10 + R$27,10 p/dia a partir do 8º dia de apreensão |
+| carregadeira, retro-escavadeira, compactador) |  |
+| 11.2 - Materiais e equipamentos apreendidos (por unidade) até 7 (sete) dias: |  |
+| 11.2.1 - Equipamentos de construção (betoneira, compactador, | R$110,65 + R$27,10 p/dia a partir do 8º dia de apreensão |
+| elevador etc) |  |
+| 11.2.2 - Materiais de construção | R$54,50 p/m3 medido na carroceria do caminhão, sendo cobrado, no mínimo |
+|  | 6m3 |
+| 11.2.3 - Ferramentas de construção (pás, picaretas, enxadas | R$2,90 + R$27,10 p/dia a partir do 8º dia de apreensão |
+| etc.) |  |
+|  |  |
+| II - ATIVIDADES RELACIONADAS AO LICENCIAMENTO DO EXERCÍCIO DE ATIVIDADES ECONÔMICAS: |  |
+| 1 - Análise de requerimento | R$81,75 p/serviço |
+| 2 - Vistoria | R$81,75 p/serviço |
+|  |  |
+| III - ATIVIDADES RELACIONADAS À APREENSÃO E GUARDA DE MERCADORIAS, EQUIPAMENTOS E MATERIAIS UTILIZADOS EM ATIVIDADES ECONÔMICAS: |  |
+| 1- Apreensão e guarda de mercadorias, equipamentos e materiais utilizados em atividades econômicas: |  |
+| 1.1 - Mercadoria apreendida | R$1,10 UFIR p/Kg p/dia |
+| 1.2 - Bancas em geral, carrinhos, mesas, cadeiras, | R$54,50 p/unidade p/dia |
+| equipamentos, carcaças,"traillers", quiosques, caçambas, |  |
+| placas promocionais, barracas e similares |  |
+| 1.3 - Apreensão e remoção de botijões de gás liquefeito de | R$272,55 p/unidade |
+| petróleo - GLP |  |
+|  |  |
+| IV - ATIVIDADES RELACIONADAS AO CONTROLE E LICENCIAMENTO AMBIENTAL: |  |
+| 1- Análise para utilização ou detonação de explosivos ou | R$69,90 p/projeto |
+| similares |  |
+| 2 - Análise para disposição de resíduos sólidos - Classe I | R$543,80 p/projeto |
+| (Industrial) |  |
+| 3 - Análise para movimentação de terra, aterro, desaterro e | R$0,20 p/m² até o limite de R$2.316,90 |
+| bota-fora |  |
+| 4 - Análise para execução de serviços de construção civil em | R$34,95 p/projeto |
+| horário especial |  |
+| 5 - Elaboração de parecer prévio para atividades causadoras | R$179,40 p/parecer |
+| de repercussão negativa |  |
+| 6 - Elaboração de parecer técnico para licença prévia para | R$5.438,10 p/parecer |
+| atividades e empreendimentos de impacto ambiental |  |
+| 7 - Elaboração de parecer técnico para licença de implantação | R$2.316,90 p/parecer |
+| de atividades e empreendimentos de impacto ambiental |  |
+| 8 - Elaboração de parecer técnico para licença de operação de | R$1.596,60 p/parecer |
+| atividades e empreendimentos de impacto ambiental |  |
+| 9 - Análise para emissão de Laudo Ambiental | R$0,20 p/m² até o limite de R$2.316,90 |
+| 10 - Análise para emissão de Declaração de Dispensa de | R$34,95 p/parecer |
+| Licenciamento |  |
+| 11 - Elaboração de Parecer Técnico sobre empreendimento em | R$0,50 p/m² de terreno, até o limite de R$5.438,10 |
+| área de preservação permanente ou zoneamento específico |  |
+|  |  |
+| 12 - Elaboração de parecer técnico para licenciamento de atividades industriais de repercussão ambiental significativa: |  |
+| 12.1 - 14-A / Atividade Industrial - Categoria I - LO | R$197,30 p/parecer |
+| 12.2 - 14-B / Atividade Industrial - Categoria I - LOA | R$197,30 p/parecer |
+| 12.3 - 14-C / Atividade Industrial - Categoria I - LOC | R$217,05 p/parecer |
+| 12.4 - 14-D / Atividade Industrial - Categoria II - LO | R$217,05 p/parecer |
+| 12.5 - 14-E / Atividade Industrial - Categoria II - LOA | R$217,05 p/parecer |
+| 12.6 - 14-F / Atividade Industrial - Categoria II - LOC | R$238,75 p/parecer |
+| 12.7 - 14-G / Atividade Industrial - Categoria III - LO | R$236,80 p/parecer |
+| 12.8 - 14-H / Atividade Industrial - Categoria III - LOA | R$236,80 p/parecer |
+| 12.9 - 14-I / Atividade Industrial - Categoria III - LOC | R$390,70 p/parecer |
+| 12.10 - 14-J / Atividade Industrial - Categoria IV - LI | R$256,50 p/parecer |
+| 12.11 - 14-K / Atividade Industrial - Categoria IV - LO | R$128,25 p/parecer |
+| 12.12 - 14-L / Atividade Industrial - Categoria IV - LOA | R$256,50 p/parecer |
+| 12.13 - 14-M / Atividade Industrial - Categoria IV - LOC | R$423,25 p/parecer |
+| 12.14 - 14-N / Atividade Industrial - Categoria V e VI - LP | R$5.438,10 p/parecer |
+| 12.15 - 14-O / Atividade Industrial - Categoria V e VI - LI | R$2.316,90 p/parecer |
+| 12.16 - 14-P / Atividade Industrial - Categoria V e VI - LO | R$1.596,60 p/parecer |
+|  |  |
+| 13 - Análise de requerimento para realização de shows, feiras | R$102,65 p/evento |
+| ou similares, em praças ou parques |  |
+|  |  |
+| V - ATIVIDADES RELACIONADAS AO LICENCIAMENTO, À INSPEÇÃO E À VIGILÂNCIA SANITÁRIA: |  |
+| 1 - Laudo/Vistoria para fins de licenciamento do exercício de atividades de interesse sanitário: |  |
+| 1.1 - até 50m² | R$115,00 |
+| 1.2 - acima de 50 até 100m² | R$165,00 |
+| 1.3 - acima de 100 até 150m² | R$205,00 |
+| 1.4 - acima de 150 até 270m² | R$277,00 |
+| 1.5 - acima de 270 até 500m² | R$329,00 |
+| 1.6 - acima de 500m² | R$329,00 + R$0,15 p/m² excedente |
+|  |  |
+| 2 - Análise de Projeto Arquitetônico de interesse sanitário: |  |
+| 2.1 - Análise de Projeto Arquitetônico, incluída a primeira | R$58,00 + R$0,60 p/m² |
+| reanálise |  |
+| 2.2 - Reanálise de Projeto Arquitetônico (a partir da segunda | R$29,00 + R$0,30 p/m² |
+| reanálise) |  |
+|  |  |
+| 3 - Análise de Plano de Gerenciamento de Resíduos Sólidos de Saúde - PGRSS: |  |
+| 3.1 - Análise até 100 litros (pequeno gerador), incluída a | R$21,00 p/plano |
+| primeira reanálise |  |
+| 3.2 - Reanálise (a partir da segunda) até 100 litros (pequeno | R$11,00 p/plano |
+| gerador) |  |
+| 3.3 - Análise de 101 a 500 litros (médio gerador), incluída a | R$41,00 p/plano |
+| primeira reanálise |  |
+| 3.4 - Reanálise (a partir da segunda) de 101 a 500 litros | R$21,00 p/plano |
+| (médio gerador) |  |
+| 3.5 - Análise acima de 500 litros (grande gerador), incluída | R$81,00 p/plano |
+| a primeira reanálise |  |
+| 3.6 - Reanálise (a partir da segunda) acima de 500 litros | R$41,00 p/plano |
+| (grande gerador) |  |
+| 4 - Atividades relacionadas à apreensão e guarda de animais: |  |
+| 4.1 - Animais de pequeno porte: |  |
+| 4.1.1 - Apreensão | R$12,50 |
+| 4.1.2 - Diárias | R$12,50 p/dia |
+| 4.2 - Animais de médio porte: |  |
+| 4.2.1 - Apreensão | R$25,00 |
+| 4.2.2 - Diária | R$20,00 p/dia |
+| 4.3 - Animais de grande porte: |  |
+| 4.3.1 - Apreensão | R$50,10 |
+|  | R$100,50 |
+|  | Subitem com redação dada pela Lei nº 12.111, de 18/8/2026 |
+| 4.3.2 - Diária | R$37,60 p/dia |
+|  | R$105,50 p/dia |
+|  | Subitem com redação dada pela Lei nº 12.111, de 18/8/2026 |
+|  |  |
+| VI - ATIVIDADES RELACIONADAS À EXPEDIÇÃO DE DOCUMENTOS: |  |
+| 1 - Expedição de licença, alvará e autorização (inclusive 2ª | R$81,75 p/documento |
+| via) |  |
+|  |  |
+| 2 - Processamento e remessa postal de Guia de Arrecadação | R$4,60 p/documento |
+| Municipal – GAM |  |
+|  |  |
+| Item 2 com eficácia suspensa pelo Tribunal de Justiça de |  |
+| Minas Gerais (ADI nº 1.0000.19.063172-1/000) |  |
+| Obs.: A taxa fixada neste item não incide: |  |
+| 1) quando a guia de recolhimento - GAM de tributos, multas e demais valores fixados na legislação municipal for emitida pela internet; |  |
+| 2) quando a GAM for emitida e entregue diretamente ao interessado na repartição pública. |  |
+|  |  |
+| VII - ATIVIDADES RELACIONADAS AO DESARQUIVAMENTO DE PROCESSOS E REPRODUÇÃO DE DOCUMENTOS: |  |
+| 1 - Desarquivamento de processo a pedido do interessado | R$29,80 p/processo |
+|  |  |
+| 2 - Fornecimento de cópias de documentos: |  |
+| 2.1 - cópia xerográfica, inclusive de inteiro teor de | R$0,15 p/folha |
+| processo |  |
+| 2.2 - cópia de microfilme ou digitalização de página, | R$0,35 p/folha |
+| inclusive de inteiro teor de processo |  |
+| 2.3 - cópia heliográfica | R$32,70 p/m² |
+| 2.4 - cópia poliéster | R$327,10 p/m² |
+| 2.5 - microfilme | R$5,45 p/microfilme |
+| 2.6 - ampliação de microfilme | R$32,70 p/m² |
+|  |  |
+| 3 - Coletânea da legislação municipal | R$109,00 p/volume |
 
 TABELA II RELATIVA ÀS ALÍQUOTAS DO ISSQN
 
@@ -3084,321 +2859,165 @@ Serviços de:
 
 Tabela II com redação dada pela Lei nº 8.464, de 20/12/2002 (Art. 4º)
 
-| 1 |Médicos, inclusive análises clínicas, eletricidade médica, radioterapia, ultrasonografia, radiologia, tomografia e |
-
-| |congêneres. |
-
-| 2 |Hospitais, clínicas, sanatórios, laboratórios de análise, ambulatórios, pronto-socorros, manicômios, casas de saúde, |
-
-| |de repouso e de recuperação e congêneres. |
-
-| 3 |Bancos de sangue, leite, pele, olhos, sêmen e congêneres. |
-
-| 4 |Enfermeiros, obstetras, ortópticos, fonoaudiólogos, protéticos (prótese dentária). |
-
-| 5 |Assistência médica e congêneres previstos nos itens 1, 2 e 3 desta lista, prestados através de planos de medicina de |
-
-| |grupo, convênios, inclusive com empresas para assistência a empregados. |
-
-| 6 |Planos de saúde, prestados por empresa que não esteja incluída no item 5 desta lista e que se cumpram através de |
-
-| |serviços prestados por terceiros, contratados pela empresa ou apenas pagos por esta, mediante indicação do |
-
-| |beneficiário do plano. |
-
-| | |
-
-| 8 |Médicos veterinários. |
-
-| 9 |Hospitais veterinários, clínicas veterinárias e congêneres. |
-
-|10 |Guarda, tratamento, amestramento, adestramento, embelezamento, alojamento e congêneres, relativos a animais. |
-
-|11 |Barbeiros, cabeleireiros, manicuros, pedicuros, tratamento de pele, depilação e congêneres. |
-
-|12 |Banhos, duchas, sauna, massagens, ginásticas e congêneres. |
-
-|13 |Varrição, coleta, remoção e incineração de lixo. |
-
-|14 |Limpeza e dragagem de portos, rios e canais. |
-
-|15 |Limpeza, manutenção e conservação de imóveis, inclusive vias públicas, parques e jardins. |
-
-|16 |Desinfecção, imunização, higienização, desratização e congêneres. |
-
-|17 |Controle e tratamento de efluentes de qualquer natureza e de agentes físicos e biológicos. |
-
-|18 |Incineração de resíduos quaisquer. |
-
-|19 |Limpeza de chaminés. |
-
-|20 |Saneamento ambiental e congêneres. |
-
-|21 |Assistência técnica. |
-
-|22 |Assessoria ou consultoria de qualquer natureza, não contida em outros itens desta lista, organização, programação, |
-
-| |planejamento, assessoria, processamento de dados, consultoria técnica, financeira ou administrativa. |
-
-|23 |Planejamento, coordenação, programação ou organização técnica, financeira ou administrativa. |
-
-|24 |Análises, inclusive de sistemas, exames, pesquisas e informações, coleta e processamento de dados de qualquer |
-
-| |natureza. |
-
-|25 |Contabilidade, auditoria, guarda-livros, técnicos em contabilidade e congêneres. |
-
-|26 |Perícias, laudos, exames técnicos e análises técnicas. |
-
-|27 |Traduções e interpretações. |
-
-|28 |Avaliação de bens. |
-
-|29 |Datilografia, estenografia, expediente, secretaria em geral e congêneres. |
-
-|30 |Projetos, cálculos e desenhos técnicos de qualquer natureza. |
-
-|31 |Aerofotogrametria (inclusive interpretação), mapeamento e topografia. |
-
-|32 |Execução, por administração, empreitada ou subempreitada, de construção civil, de obras hidráulicas e outras obras |
-
-| |semelhantes e respectiva engenharia consultiva, inclusive serviços auxiliares ou complementares (exceto o |
-
-| |fornecimento de mercadorias produzidas pelo prestador de serviços, fora do local da prestação dos serviços, que fica |
-
-| |sujeito ao ICMS). |
-
-|33 |Demolição. |
-
-|34 |Reparação e reforma de edifícios, estradas, pontes, portos e congêneres (exceto o fornecimento de mercadorias |
-
-| |produzidas pelo prestador dos serviços, fora do local da prestação dos serviços, que fica sujeito ao ICMS). |
-
-| |Pesquisa, perfuração, cimentação, perfilagem, estimulação e outros serviços relacionados com a exploração e explotação|
-
-|35 |de petróleo e gás natural. |
-
-| |Florestamento e reflorestamento. |
-
-|36 |Escoramento e contenção de encostas e serviços congêneres. |
-
-|37 | |
-
-|38 |Paisagismo, jardinagem e decoração (exceto o fornecimento de mercadorias, que fica sujeito ao ICMS). |
-
-|39 |Raspagem, calafetação, polimento, lustração de pisos, paredes e divisórias. |
-
-|40 |Ensino, instrução, treinamento, avaliação de conhecimentos, de qualquer grau ou natureza. |
-
-| | |
-
-|41 |Planejamento, organização e administração de feiras, exposições, congressos e congêneres. |
-
-| | |
-
-|42 |Organização de festas e recepções, buffet (exceto o fornecimento de alimentação e bebidas, que fica sujeito ao ICMS). |
-
-|43 |Administração de bens e negócios de terceiros e de consórcio. |
-
-|44 |Administração de fundos mútuos. |
-
-|45 |Agenciamento, corretagem ou intermediação de câmbio, de seguros e de planos de previdência privada. |
-
-| |Agenciamento, corretagem ou intermediação de títulos quaisquer. |
-
-|46 |Agenciamento, corretagem ou intermediação de direitos da propriedade industrial, artística ou literária. |
-
-|47 |Agenciamento, corretagem ou intermediação de contratos de franquia (franchise) e de faturação (factoring). |
-
-| |Agenciamento, organização, promoção e execução de programas de turismo, passeios, excursões, guias de turismo e |
-
-|48 |congêneres. |
-
-| |Agenciamento ou intermediação de bens móveis e imóveis não abrangidos nos itens 45, 46, 47 e 48. |
-
-|49 | |
-
-| | |
-
-|50 | |
-
-|51 |Despachantes. |
-
-|52 |Agentes da propriedade industrial. |
-
-|53 |Agentes da propriedade artística ou literária. |
-
-|54 |Leilão. |
-
-|55 |Regulação de sinistros cobertos por contratos de seguro; inspeção e avaliação de riscos para cobertura de contratos de|
-
-| |seguros, prevenção e gerência de riscos seguráveis, prestados por quem não seja o próprio segurado ou companhia de |
-
-| |seguro. |
-
-| | |
-
-|56 |Armazenamento, depósito, carga, descarga, arrumação e guarda de bens de qualquer espécie. |
-
-| | |
-
-|57 |Guarda e estacionamento de veículos automotores terrestres. |
-
-|58 |Vigilância ou segurança de pessoas e bens. |
-
-|59 |Transporte, coleta, remessa ou entrega de bens ou valores, dentro do território do Município. |
-
-|60 a)|Diversões Públicas: |
-
-|b) c)|Cinemas, taxi dancings e congêneres; |
-
-|d) |bilhares, boliches, corridas de animais e outros jogos; |
-
-| |exposições com cobrança de ingresso; |
-
-| |bailes, shows, festivais, recitais e congêneres, inclusive espetáculos que sejam também transmitidos, mediante |
-
-|e) |compra de direitos para tanto, pela televisão, ou pelo rádio; |
-
-|f) | |
-
-| |jogos eletrônicos; |
-
-|g) |competições esportivas ou de destreza física ou intelectual, com ou sem a participação do espectador, inclusive a |
-
-| |venda de direitos à transmissão pelo rádio ou pela televisão; |
-
-| |execução de música, individualmente ou por conjuntos. |
-
-|61 |Distribuição e venda de bilhetes de loteria, cartões, pules ou cupons de apostas, sorteios ou prêmios. |
-
-|62 |Fornecimento de música, mediante transmissão por qualquer processo, para vias públicas ou ambientes fechados. |
-
-|63 |Gravação e distribuição de filmes e video-tapes. |
-
-|64 |Fonografia, ou gravação de sons ou ruídos, inclusive trucagem, dublagem e mixagem sonora. |
-
-|65 |Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução e trucagem. |
-
-|66 |Produção, para terceiros, mediante ou sem encomenda prévia, de espetáculos, entrevistas e congêneres. |
-
-| |Colocação de tapetes e cortinas, com material fornecido pelo usuário final do serviço. |
-
-|67 |Lubrificação, limpeza e revisão de máquinas, veículos, aparelhos e equipamentos (exceto o fornecimento de peças e |
-
-|68 |partes, que fica sujeito ao ICMS). |
-
-| |Conserto, restauração, manutenção e conservação de máquinas, veículos, motores, elevadores ou de qualquer objeto |
-
-|69 |(exceto o fornecimento de peças e partes, que fica sujeito ao ICMS). |
-
-| |Recondicionamento de motores (o valor das peças fornecidas pelo prestador do serviço fica sujeito ao ICMS). |
-
-|70 |Recauchutagem ou regeneração de pneus para o usuário final. |
-
-| |Recondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, galvanoplastia, |
-
-|71 |anodização, corte, recorte, polimento, plastificação e congêneres, de objetos não destinados à industrialização ou |
-
-|72 |comercialização. |
-
-|73 |Lustração de bens móveis quando o serviço for prestado para usuário final do objeto lustrado. |
-
-|74 |Instalação e montagem de aparelhos, máquinas e equipamentos, prestados ao usuário final do serviço, exclusivamente com|
-
-| |material por ele fornecido. |
-
-|75 |Montagem industrial, prestada ao usuário final do serviço, exclusivamente com material por ele fornecido. |
-
-| |Cópia ou reprodução, por quaisquer processos, de documentos e outros papéis, plantas ou desenhos. |
-
-|76 |Composição gráfica, fotocomposição, clicheria, zincografia, litografia e fotolitografia. |
-
-| |Colocação de molduras e afins, encadernação, gravação e douração de livros, revistas e congêneres. |
-
-|77 |Locação de bens móveis, inclusive arrendamento mercantil. |
-
-|78 |Funerais. |
-
-| |Alfaiataria e costura, quando o material for fornecido pelo usuário final, exceto aviamento. |
-
-|79 | |
-
-|80 |Tinturaria e lavanderia. |
-
-|81 | |
-
-| | |
-
-|82 | |
-
-|83 |Taxidermia. |
-
-|84 |Recrutamento, agenciamento, seleção, colocação ou fornecimento de mão-de-obra, mesmo em caráter temporário, inclusive|
-
-| |por empregados do prestador do serviço ou por trabalhadores avulsos por ele contratados. |
-
-| |Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, |
-
-|85 |elaboração de desenhos, textos e demais materiais publicitários (exceto sua impressão, reprodução ou fabricação). |
-
-| |Veiculação e divulgação de textos, desenhos e outros materiais de publicidade, por qualquer meio. |
-
-| |Serviços portuários e aeroportuários; utilização de porto ou aeroporto; atracação; capatazia; armazenagem interna, |
-
-|86 |externa e especial; suprimento de água, serviços acessórios; movimentação de mercadoria fora do cais. |
-
-| |Advogados. |
-
-|87 | |
-
-| | |
-
-| | |
-
-|88 | |
-
-|89 |Engenheiros, arquitetos, urbanistas, agrônomos. |
-
-|90 |Dentistas. |
-
-|91 |Economistas. |
-
-|92 |Psicólogos. |
-
-|93 |Assistentes Sociais. |
-
-|94 |Relações Públicas. |
-
-|95 |Cobranças e recebimentos por conta de terceiros, inclusive direitos autorais, protestos de títulos, sustação de |
-
-| |protestos, devolução de títulos não pagos, manutenção de títulos vencidos, fornecimento de posição de cobrança ou |
-
-| |recebimento e outros serviços correlatos da cobrança ou recebimento. |
-
-|96 |Fornecimento de talões de cheques; emissão de cheques administrativos; transferência de fundos; devolução de cheques; |
-
-| |sustação de pagamento de cheques; ordens de pagamento e de créditos, por qualquer meio; emissão e renovação de cartões|
-
-| |magnéticos; consultas em terminais eletrônicos; pagamentos por conta de terceiros, inclusive os feitos fora do |
-
-| |estabelecimento; elaboração de ficha cadastral; aluguel de cofres; fornecimento de segunda via de avisos de |
-
-| |lançamentos e de extrato de contas; emissão de carnês. |
-
-|97 |Transporte de natureza estritamente municipal. |
-
-|99 |Hospedagem em hotéis, motéis, pensões e congêneres (o valor da alimentação, quando incluído no preço da diária, fica |
-
-| |sujeito ao imposto sobre serviços). |
-
-|100 |Distribuição de bens de terceiros em representação de qualquer natureza. |
-
-|101 |Exploração de rodovia mediante cobrança de preço dos usuários, envolvendo execução de serviços de conservação, |
-
-| |manutenção, melhoramentos para adequação de capacidade e segurança de trânsito, operação, monitoração, assistência aos|
-
-| |usuários e outros definidos em contratos, atos de concessão ou de permissão ou em normas oficiais.” (NR.)” |
+| 1 | Médicos, inclusive análises clínicas, eletricidade médica, radioterapia, ultrasonografia, radiologia, tomografia e |
+| --- | --- |
+|  | congêneres. |
+| 2 | Hospitais, clínicas, sanatórios, laboratórios de análise, ambulatórios, pronto-socorros, manicômios, casas de saúde, |
+|  | de repouso e de recuperação e congêneres. |
+| 3 | Bancos de sangue, leite, pele, olhos, sêmen e congêneres. |
+| 4 | Enfermeiros, obstetras, ortópticos, fonoaudiólogos, protéticos (prótese dentária). |
+| 5 | Assistência médica e congêneres previstos nos itens 1, 2 e 3 desta lista, prestados através de planos de medicina de |
+|  | grupo, convênios, inclusive com empresas para assistência a empregados. |
+| 6 | Planos de saúde, prestados por empresa que não esteja incluída no item 5 desta lista e que se cumpram através de |
+|  | serviços prestados por terceiros, contratados pela empresa ou apenas pagos por esta, mediante indicação do |
+|  | beneficiário do plano. |
+|  |  |
+| 8 | Médicos veterinários. |
+| 9 | Hospitais veterinários, clínicas veterinárias e congêneres. |
+| 10 | Guarda, tratamento, amestramento, adestramento, embelezamento, alojamento e congêneres, relativos a animais. |
+| 11 | Barbeiros, cabeleireiros, manicuros, pedicuros, tratamento de pele, depilação e congêneres. |
+| 12 | Banhos, duchas, sauna, massagens, ginásticas e congêneres. |
+| 13 | Varrição, coleta, remoção e incineração de lixo. |
+| 14 | Limpeza e dragagem de portos, rios e canais. |
+| 15 | Limpeza, manutenção e conservação de imóveis, inclusive vias públicas, parques e jardins. |
+| 16 | Desinfecção, imunização, higienização, desratização e congêneres. |
+| 17 | Controle e tratamento de efluentes de qualquer natureza e de agentes físicos e biológicos. |
+| 18 | Incineração de resíduos quaisquer. |
+| 19 | Limpeza de chaminés. |
+| 20 | Saneamento ambiental e congêneres. |
+| 21 | Assistência técnica. |
+| 22 | Assessoria ou consultoria de qualquer natureza, não contida em outros itens desta lista, organização, programação, |
+|  | planejamento, assessoria, processamento de dados, consultoria técnica, financeira ou administrativa. |
+| 23 | Planejamento, coordenação, programação ou organização técnica, financeira ou administrativa. |
+| 24 | Análises, inclusive de sistemas, exames, pesquisas e informações, coleta e processamento de dados de qualquer |
+|  | natureza. |
+| 25 | Contabilidade, auditoria, guarda-livros, técnicos em contabilidade e congêneres. |
+| 26 | Perícias, laudos, exames técnicos e análises técnicas. |
+| 27 | Traduções e interpretações. |
+| 28 | Avaliação de bens. |
+| 29 | Datilografia, estenografia, expediente, secretaria em geral e congêneres. |
+| 30 | Projetos, cálculos e desenhos técnicos de qualquer natureza. |
+| 31 | Aerofotogrametria (inclusive interpretação), mapeamento e topografia. |
+| 32 | Execução, por administração, empreitada ou subempreitada, de construção civil, de obras hidráulicas e outras obras |
+|  | semelhantes e respectiva engenharia consultiva, inclusive serviços auxiliares ou complementares (exceto o |
+|  | fornecimento de mercadorias produzidas pelo prestador de serviços, fora do local da prestação dos serviços, que fica |
+|  | sujeito ao ICMS). |
+| 33 | Demolição. |
+| 34 | Reparação e reforma de edifícios, estradas, pontes, portos e congêneres (exceto o fornecimento de mercadorias |
+|  | produzidas pelo prestador dos serviços, fora do local da prestação dos serviços, que fica sujeito ao ICMS). |
+|  | Pesquisa, perfuração, cimentação, perfilagem, estimulação e outros serviços relacionados com a exploração e explotação |
+| 35 | de petróleo e gás natural. |
+|  | Florestamento e reflorestamento. |
+| 36 | Escoramento e contenção de encostas e serviços congêneres. |
+| 37 |  |
+| 38 | Paisagismo, jardinagem e decoração (exceto o fornecimento de mercadorias, que fica sujeito ao ICMS). |
+| 39 | Raspagem, calafetação, polimento, lustração de pisos, paredes e divisórias. |
+| 40 | Ensino, instrução, treinamento, avaliação de conhecimentos, de qualquer grau ou natureza. |
+|  |  |
+| 41 | Planejamento, organização e administração de feiras, exposições, congressos e congêneres. |
+|  |  |
+| 42 | Organização de festas e recepções, buffet (exceto o fornecimento de alimentação e bebidas, que fica sujeito ao ICMS). |
+| 43 | Administração de bens e negócios de terceiros e de consórcio. |
+| 44 | Administração de fundos mútuos. |
+| 45 | Agenciamento, corretagem ou intermediação de câmbio, de seguros e de planos de previdência privada. |
+|  | Agenciamento, corretagem ou intermediação de títulos quaisquer. |
+| 46 | Agenciamento, corretagem ou intermediação de direitos da propriedade industrial, artística ou literária. |
+| 47 | Agenciamento, corretagem ou intermediação de contratos de franquia (franchise) e de faturação (factoring). |
+|  | Agenciamento, organização, promoção e execução de programas de turismo, passeios, excursões, guias de turismo e |
+| 48 | congêneres. |
+|  | Agenciamento ou intermediação de bens móveis e imóveis não abrangidos nos itens 45, 46, 47 e 48. |
+| 49 |  |
+|  |  |
+| 50 |  |
+| 51 | Despachantes. |
+| 52 | Agentes da propriedade industrial. |
+| 53 | Agentes da propriedade artística ou literária. |
+| 54 | Leilão. |
+| 55 | Regulação de sinistros cobertos por contratos de seguro; inspeção e avaliação de riscos para cobertura de contratos de |
+|  | seguros, prevenção e gerência de riscos seguráveis, prestados por quem não seja o próprio segurado ou companhia de |
+|  | seguro. |
+|  |  |
+| 56 | Armazenamento, depósito, carga, descarga, arrumação e guarda de bens de qualquer espécie. |
+|  |  |
+| 57 | Guarda e estacionamento de veículos automotores terrestres. |
+| 58 | Vigilância ou segurança de pessoas e bens. |
+| 59 | Transporte, coleta, remessa ou entrega de bens ou valores, dentro do território do Município. |
+| 60 a) | Diversões Públicas: |
+| b) c) | Cinemas, taxi dancings e congêneres; |
+| d) | bilhares, boliches, corridas de animais e outros jogos; |
+|  | exposições com cobrança de ingresso; |
+|  | bailes, shows, festivais, recitais e congêneres, inclusive espetáculos que sejam também transmitidos, mediante |
+| e) | compra de direitos para tanto, pela televisão, ou pelo rádio; |
+| f) |  |
+|  | jogos eletrônicos; |
+| g) | competições esportivas ou de destreza física ou intelectual, com ou sem a participação do espectador, inclusive a |
+|  | venda de direitos à transmissão pelo rádio ou pela televisão; |
+|  | execução de música, individualmente ou por conjuntos. |
+| 61 | Distribuição e venda de bilhetes de loteria, cartões, pules ou cupons de apostas, sorteios ou prêmios. |
+| 62 | Fornecimento de música, mediante transmissão por qualquer processo, para vias públicas ou ambientes fechados. |
+| 63 | Gravação e distribuição de filmes e video-tapes. |
+| 64 | Fonografia, ou gravação de sons ou ruídos, inclusive trucagem, dublagem e mixagem sonora. |
+| 65 | Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução e trucagem. |
+| 66 | Produção, para terceiros, mediante ou sem encomenda prévia, de espetáculos, entrevistas e congêneres. |
+|  | Colocação de tapetes e cortinas, com material fornecido pelo usuário final do serviço. |
+| 67 | Lubrificação, limpeza e revisão de máquinas, veículos, aparelhos e equipamentos (exceto o fornecimento de peças e |
+| 68 | partes, que fica sujeito ao ICMS). |
+|  | Conserto, restauração, manutenção e conservação de máquinas, veículos, motores, elevadores ou de qualquer objeto |
+| 69 | (exceto o fornecimento de peças e partes, que fica sujeito ao ICMS). |
+|  | Recondicionamento de motores (o valor das peças fornecidas pelo prestador do serviço fica sujeito ao ICMS). |
+| 70 | Recauchutagem ou regeneração de pneus para o usuário final. |
+|  | Recondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, galvanoplastia, |
+| 71 | anodização, corte, recorte, polimento, plastificação e congêneres, de objetos não destinados à industrialização ou |
+| 72 | comercialização. |
+| 73 | Lustração de bens móveis quando o serviço for prestado para usuário final do objeto lustrado. |
+| 74 | Instalação e montagem de aparelhos, máquinas e equipamentos, prestados ao usuário final do serviço, exclusivamente com |
+|  | material por ele fornecido. |
+| 75 | Montagem industrial, prestada ao usuário final do serviço, exclusivamente com material por ele fornecido. |
+|  | Cópia ou reprodução, por quaisquer processos, de documentos e outros papéis, plantas ou desenhos. |
+| 76 | Composição gráfica, fotocomposição, clicheria, zincografia, litografia e fotolitografia. |
+|  | Colocação de molduras e afins, encadernação, gravação e douração de livros, revistas e congêneres. |
+| 77 | Locação de bens móveis, inclusive arrendamento mercantil. |
+| 78 | Funerais. |
+|  | Alfaiataria e costura, quando o material for fornecido pelo usuário final, exceto aviamento. |
+| 79 |  |
+| 80 | Tinturaria e lavanderia. |
+| 81 |  |
+|  |  |
+| 82 |  |
+| 83 | Taxidermia. |
+| 84 | Recrutamento, agenciamento, seleção, colocação ou fornecimento de mão-de-obra, mesmo em caráter temporário, inclusive |
+|  | por empregados do prestador do serviço ou por trabalhadores avulsos por ele contratados. |
+|  | Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, |
+| 85 | elaboração de desenhos, textos e demais materiais publicitários (exceto sua impressão, reprodução ou fabricação). |
+|  | Veiculação e divulgação de textos, desenhos e outros materiais de publicidade, por qualquer meio. |
+|  | Serviços portuários e aeroportuários; utilização de porto ou aeroporto; atracação; capatazia; armazenagem interna, |
+| 86 | externa e especial; suprimento de água, serviços acessórios; movimentação de mercadoria fora do cais. |
+|  | Advogados. |
+| 87 |  |
+|  |  |
+|  |  |
+| 88 |  |
+| 89 | Engenheiros, arquitetos, urbanistas, agrônomos. |
+| 90 | Dentistas. |
+| 91 | Economistas. |
+| 92 | Psicólogos. |
+| 93 | Assistentes Sociais. |
+| 94 | Relações Públicas. |
+| 95 | Cobranças e recebimentos por conta de terceiros, inclusive direitos autorais, protestos de títulos, sustação de |
+|  | protestos, devolução de títulos não pagos, manutenção de títulos vencidos, fornecimento de posição de cobrança ou |
+|  | recebimento e outros serviços correlatos da cobrança ou recebimento. |
+| 96 | Fornecimento de talões de cheques; emissão de cheques administrativos; transferência de fundos; devolução de cheques; |
+|  | sustação de pagamento de cheques; ordens de pagamento e de créditos, por qualquer meio; emissão e renovação de cartões |
+|  | magnéticos; consultas em terminais eletrônicos; pagamentos por conta de terceiros, inclusive os feitos fora do |
+|  | estabelecimento; elaboração de ficha cadastral; aluguel de cofres; fornecimento de segunda via de avisos de |
+|  | lançamentos e de extrato de contas; emissão de carnês. |
+| 97 | Transporte de natureza estritamente municipal. |
+| 99 | Hospedagem em hotéis, motéis, pensões e congêneres (o valor da alimentação, quando incluído no preço da diária, fica |
+|  | sujeito ao imposto sobre serviços). |
+| 100 | Distribuição de bens de terceiros em representação de qualquer natureza. |
+| 101 | Exploração de rodovia mediante cobrança de preço dos usuários, envolvendo execução de serviços de conservação, |
+|  | manutenção, melhoramentos para adequação de capacidade e segurança de trânsito, operação, monitoração, assistência aos |
+|  | usuários e outros definidos em contratos, atos de concessão ou de permissão ou em normas oficiais.” (NR.)” |
 
 TABELA III - ALÍQUOTAS DO IPTU
 

@@ -54,12 +54,9 @@ Secretário Municipal de Fazenda
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no caput do art. 4º |
-
-|da Lei Orçamentária nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0050 | 6.989.754,98 |
-
-|TOTAL DA SUPLEMENTAÇÃO |6.989.754,98 |
+| I.1 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no caput do art. 4º |  |
+| --- | --- |
+| da Lei Orçamentária nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0050 | 6.989.754,98 |
+| TOTAL DA SUPLEMENTAÇÃO | 6.989.754,98 |

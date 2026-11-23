@@ -58,77 +58,46 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do|R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da | |
-
-|Lei nº 11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|3802.23.691.0308.2305.339037.1.500.000 |104.401,44 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0113.2327.339039.1.660.000 |67.995,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|3801.12.306.0132.2761.339030.1.550.000 |6.524.340,00 |
-
-|3801.12.306.0132.2761.339030.1.552.000 |2.538.273,00 |
-
-|Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |
-
-|3400.04.122.0166.1401.339040.1.500.000 |2.714.336,17 |
-
-|3400.04.122.0166.1401.449040.2.500.000 |54.619,38 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0093.2934.339039.1.500.000 |250.000,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.08.122.0123.2900.339030.1.500.000 |25.400,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |12.279.364,99 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da |  |
+| Lei nº 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 3802.23.691.0308.2305.339037.1.500.000 | 104.401,44 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0113.2327.339039.1.660.000 | 67.995,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 3801.12.306.0132.2761.339030.1.550.000 | 6.524.340,00 |
+| 3801.12.306.0132.2761.339030.1.552.000 | 2.538.273,00 |
+| Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |  |
+| 3400.04.122.0166.1401.339040.1.500.000 | 2.714.336,17 |
+| 3400.04.122.0166.1401.449040.2.500.000 | 54.619,38 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0093.2934.339039.1.500.000 | 250.000,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.08.122.0123.2900.339030.1.500.000 | 25.400,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 12.279.364,99 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|1010.23.691.0308.2305.339037.1.500.000 |104.401,44 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.08.122.0123.2900.339030.1.500.000 |25.400,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0113.2327.339039.1.660.000 |67.995,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0166.1401.339040.1.500.000 |2.714.336,17 |
-
-|0600.04.122.0166.1401.449040.2.500.000 |54.619,38 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.339039.1.500.000 |250.000,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|1014.12.306.0132.2761.339030.1.550.000 |6.524.340,00 |
-
-|1014.12.306.0132.2761.339030.1.552.000 |2.538.273,00 |
-
-|TOTAL DA ANULAÇÃO |12.279.364,99 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.23.691.0308.2305.339037.1.500.000 | 104.401,44 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.08.122.0123.2900.339030.1.500.000 | 25.400,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0113.2327.339039.1.660.000 | 67.995,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0166.1401.339040.1.500.000 | 2.714.336,17 |
+| 0600.04.122.0166.1401.449040.2.500.000 | 54.619,38 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.339039.1.500.000 | 250.000,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 1014.12.306.0132.2761.339030.1.550.000 | 6.524.340,00 |
+| 1014.12.306.0132.2761.339030.1.552.000 | 2.538.273,00 |
+| TOTAL DA ANULAÇÃO | 12.279.364,99 |
 
 ANEXO II
 
@@ -162,20 +131,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos suplementares abertos anteriormente |791.494.173,08 |
-
-|Valor do Decreto publicado nesta data |12.279.364,99 |
-
-|Valor total dos créditos suplementares abertos no exercício |803.773.538,07 |
-
-|Saldo atual do limite autorizado |1.245.253.688,86 |
-
-|Percentual utilizado |39,23% |
-
-|Atualizado em 03/04/2025 às 10:20:35 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos suplementares abertos anteriormente | 791.494.173,08 |
+| Valor do Decreto publicado nesta data | 12.279.364,99 |
+| Valor total dos créditos suplementares abertos no exercício | 803.773.538,07 |
+| Saldo atual do limite autorizado | 1.245.253.688,86 |
+| Percentual utilizado | 39,23% |
+| Atualizado em 03/04/2025 às 10:20:35 |  |

@@ -38,9 +38,9 @@ DIA COMEMORATIVO
 
 H - Dias comemorativos de agosto:
 
-|DATA |COMEMORAÇÃO |
-
-|12/8 |Dia Municipal da Juventude Sadia Sem Drogas |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 12/8 | Dia Municipal da Juventude Sadia Sem Drogas |
 
 .”.
 

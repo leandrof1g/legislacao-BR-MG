@@ -38,11 +38,10 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO II SEMANA COMEMORATIVA [...] J - Semanas comemorativas de outubro:
 
-|DATA |COMEMORAÇÃO |
-
-|Semana que contenha o dia |Semana de Conscientização sobre a Importância da Castração e do Combate|
-
-|4/10 |ao Câncer em Animais |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Semana que contenha o dia | Semana de Conscientização sobre a Importância da Castração e do Combate |
+| 4/10 | ao Câncer em Animais |
 
 [...]”
 

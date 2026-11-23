@@ -164,12 +164,5 @@ Paulo Cesar Stockler Portugal
 
 Secretário
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

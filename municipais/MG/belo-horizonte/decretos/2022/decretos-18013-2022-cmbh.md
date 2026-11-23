@@ -52,86 +52,49 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 –A favor de diversos órgãos do Poder Executivo, conforme autorização contida no caput do art. 4º da Lei nº |
-
-|11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|0600.04.121.148.2.900.4490.0000 |170.957,00 |
-
-|0604.19.572.085.2.603.3390.0000 |90.682,08 |
-
-|2700.15.451.062.1.330.4490.0000 |700.000,00 |
-
-|2700.17.512.046.2.537.4490.0080 |7.000.000,00 |
-
-|3103.13.391.155.2.375.3390.0000 |9.000,00 |
-
-|TOTAL |7.970.639,08 |
-
-|I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso I do § 1º do art. 4º da |
-
-|Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3190.0050 |180.000,00 |
-
-|TOTAL |180.000,00 |
-
-|I.3 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso II do § 1º do art. 4º da |
-
-|Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2302.10.122.117.2.662.3390.0000 |300.572,30 |
-
-|2302.10.302.114.2.891.3390.0050 |2.346.132,70 |
-
-|2302.10.302.114.2.893.3390.0050 |1.723.392,00 |
-
-|TOTAL |4.370.097,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |12.520.736,08 |
+| I.1 –A favor de diversos órgãos do Poder Executivo, conforme autorização contida no caput do art. 4º da Lei nº |  |
+| --- | --- |
+| 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 0600.04.121.148.2.900.4490.0000 | 170.957,00 |
+| 0604.19.572.085.2.603.3390.0000 | 90.682,08 |
+| 2700.15.451.062.1.330.4490.0000 | 700.000,00 |
+| 2700.17.512.046.2.537.4490.0080 | 7.000.000,00 |
+| 3103.13.391.155.2.375.3390.0000 | 9.000,00 |
+| TOTAL | 7.970.639,08 |
+| I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso I do § 1º do art. 4º da |  |
+| Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3190.0050 | 180.000,00 |
+| TOTAL | 180.000,00 |
+| I.3 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso II do § 1º do art. 4º da |  |
+| Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2302.10.122.117.2.662.3390.0000 | 300.572,30 |
+| 2302.10.302.114.2.891.3390.0050 | 2.346.132,70 |
+| 2302.10.302.114.2.893.3390.0050 | 1.723.392,00 |
+| TOTAL | 4.370.097,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 12.520.736,08 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1: |
-
-|R$ |
-
-|0600.04.121.148.2.900.3390.0000 |60.048,00 |
-
-|0600.04.122.166.1.401.4490.0000 |110.909,00 |
-
-|0800.04.129.013.2.052.3390.0000 |90.682,08 |
-
-|2700.16.482.225.1.231.4490.0000 |700.000,00 |
-
-|2700.17.512.066.1.400.4490.0080 |7.000.000,00 |
-
-|3103.13.391.155.2.908.3390.0000 |9.000,00 |
-
-|TOTAL |7.970.639,08 |
-
-|II.2 – Em contrapartida à suplementação relacionada no item I.2: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0050 |180.000,00 |
-
-|TOTAL |180.000,00 |
-
-|II.3 – Em contrapartida às suplementações relacionadas no item I.3: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0050 |4.069.524,70 |
-
-|2302.10.302.114.2.891.3390.0000 |300.572,30 |
-
-|TOTAL |4.370.097,00 |
-
-|TOTAL DA ANULAÇÃO |12.520.736,08 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1: |  |
+| --- | --- |
+| R$ |  |
+| 0600.04.121.148.2.900.3390.0000 | 60.048,00 |
+| 0600.04.122.166.1.401.4490.0000 | 110.909,00 |
+| 0800.04.129.013.2.052.3390.0000 | 90.682,08 |
+| 2700.16.482.225.1.231.4490.0000 | 700.000,00 |
+| 2700.17.512.066.1.400.4490.0080 | 7.000.000,00 |
+| 3103.13.391.155.2.908.3390.0000 | 9.000,00 |
+| TOTAL | 7.970.639,08 |
+| II.2 – Em contrapartida à suplementação relacionada no item I.2: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0050 | 180.000,00 |
+| TOTAL | 180.000,00 |
+| II.3 – Em contrapartida às suplementações relacionadas no item I.3: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0050 | 4.069.524,70 |
+| 2302.10.302.114.2.891.3390.0000 | 300.572,30 |
+| TOTAL | 4.370.097,00 |
+| TOTAL DA ANULAÇÃO | 12.520.736,08 |

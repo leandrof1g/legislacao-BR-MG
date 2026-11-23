@@ -66,28 +66,18 @@ ANEXO
 
 III – Tabela de valores – limite diário para ressarcimento de despesas com hospedagem em viagens nacionais.
 
-|SERVIDORES |DESTINO |Hospedagem, com |
-
-| | |comprovação dos gastos |
-
-|Prefeito e Vice-Prefeito |Brasília – DF |R$330,00 |
-
-| |Demais capitais |R$280,00 |
-
-| |Demais municípios |R$230,00 |
-
-|Membros da Direção Superior Municipal |Brasília – DF |R$280,00 |
-
-| |Demais capitais |R$230,00 |
-
-| |Demais municípios |R$180,00 |
-
-|Diretores, gerentes, chefias e demais |Brasília – DF |R$230,00 |
-
-|agentes públicos | | |
-
-| |Demais capitais |R$180,00 |
-
-| |Demais municípios |R$130,00 |
+| SERVIDORES | DESTINO | Hospedagem, com |
+| --- | --- | --- |
+|  |  | comprovação dos gastos |
+| Prefeito e Vice-Prefeito | Brasília – DF | R$330,00 |
+|  | Demais capitais | R$280,00 |
+|  | Demais municípios | R$230,00 |
+| Membros da Direção Superior Municipal | Brasília – DF | R$280,00 |
+|  | Demais capitais | R$230,00 |
+|  | Demais municípios | R$180,00 |
+| Diretores, gerentes, chefias e demais | Brasília – DF | R$230,00 |
+| agentes públicos |  |  |
+|  | Demais capitais | R$180,00 |
+|  | Demais municípios | R$130,00 |
 
 ”

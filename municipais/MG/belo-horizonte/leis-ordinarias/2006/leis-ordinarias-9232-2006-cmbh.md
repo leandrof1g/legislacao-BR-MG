@@ -30,13 +30,13 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Parágrafo único** - A Tabela de vencimentos-base dos cargos públicos efetivos de Educador Infantil, Auxiliar de Secretaria Escolar e Auxiliar de Biblioteca Escolar será a seguinte, a partir de 1º de agosto de 2006:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 2º** - Fica instituído o abono de incentivo por participação em reunião pedagógica, a ser pago aos servidores públicos ocupantes dos cargos efetivos de Professor Municipal, Pedagogo e Educador Infantil, integrantes do Plano de Carreira da Área de Atividades de Educação, em efetivo exercício das atribuições de seus cargos públicos efetivos nas unidades escolares da Rede Municipal de Ensino.
 
 **§ 1º** - Para fazer jus ao abono, o servidor público de que trata o caput deste artigo deverá participar das reuniões pedagógicas definidas no regulamento desta Lei, a serem realizadas nas Escolas Municipais e nas unidades municipais de Educação Infantil no ano de 2006, fora dos horários previstos para as suas atividades letivas, inclusive mediante a utilização do instituto da compensação de horários e de jornada prevista no inciso I do art. 56 da Lei Orgânica do Município - LOMBH,- sendo, no mínimo, 3 (três) reuniões no primeiro semestre e 4 (quatro) reuniões no segundo semestre de 2006, de acordo com os critérios de assiduidade e pontualidade previstos no § 3º deste artigo, e com o regulamento desta Lei e conforme os seguintes valores:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **§ 2º** - Respeitado o quantitativo mínimo previsto no caput deste artigo para as reuniões pedagógicas, o abono de incentivo por participação em reunião pedagógica será pago por comparecimento individual do servidor público nessas reuniões, para cada vínculo funcional e na hipótese de cumprimento integral da extensão de jornada prevista na Lei n° 7.577, de 21 de setembro de 1998, desde que a extensão tenha sido cumprida ininterruptamente durante cada semestre letivo do ano de 2006 pelo servidor lotado em unidade escolar, e semestralmente pelos servidores lotados nas gerências regionais de Educação e na Secretaria Municipal de Educação, conforme dispuser o regulamento.
 

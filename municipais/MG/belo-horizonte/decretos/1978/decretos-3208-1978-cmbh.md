@@ -54,7 +54,7 @@ Secretário Municipal de Administração
 
 ANEXO I
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

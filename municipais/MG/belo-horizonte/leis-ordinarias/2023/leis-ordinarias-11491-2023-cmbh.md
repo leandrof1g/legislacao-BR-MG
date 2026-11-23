@@ -172,13 +172,11 @@ ANEXO I
 
 Cargos do Grupo de Direção Superior Municipal - DSM
 
-|COORDENADORIAS DE ATENDIMENTO REGIONAL |
-
-|Grupo de Direção Superior Municipal – DSM |Quantidade de vagas |
-
-|Coordenador de Atendimento Regional Adjunto |9 |
-
-|TOTAL GERAL |9 |
+| COORDENADORIAS DE ATENDIMENTO REGIONAL |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal – DSM | Quantidade de vagas |
+| Coordenador de Atendimento Regional Adjunto | 9 |
+| TOTAL GERAL | 9 |
 
 ”
 
@@ -194,11 +192,10 @@ Cargos dos Quadros Específicos das Secretarias Municipais
 
 E - Fundação Municipal de Cultura
 
-|CARGO PÚBLICO EM COMISSÃO |QUANTIDADE DE VAGAS |
-
-|Coordenador de Unidade Cultural nível 1 |20 |
-
-|Coordenador de Unidade Cultural nível 2 |11 |
+| CARGO PÚBLICO EM COMISSÃO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Coordenador de Unidade Cultural nível 1 | 20 |
+| Coordenador de Unidade Cultural nível 2 | 11 |
 
 ”
 
@@ -210,13 +207,11 @@ ANEXO III
 
 Remuneração dos cargos do Grupo de Direção Superior Municipal – DSM
 
-|ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal - DSM |Valor (em R$) |
-
-|[...] |[...] |
-
-|Coordenador de Atendimento Regional Adjunto |11.011,21 |
+| ADMINISTRAÇÃO DIRETA |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | Valor (em R$) |
+| [...] | [...] |
+| Coordenador de Atendimento Regional Adjunto | 11.011,21 |
 
 ”
 
@@ -230,19 +225,14 @@ Remuneração dos cargos dos Quadros Específicos
 
 E - Da Fundação Municipal de Cultura:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |EXCLUSIVA |(em R$) |
-
-| | |(em R$) | |
-
-|Coordenador de Unidade |2.595,50 |2.595,50 |5.191,00 |
-
-|Cultural nível 1 | | | |
-
-|Coordenador de Unidade |2.831,45 |2.831,45 |5.662,90 |
-
-|Cultural nível 2 | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | EXCLUSIVA | (em R$) |
+|  |  | (em R$) |  |
+| Coordenador de Unidade | 2.595,50 | 2.595,50 | 5.191,00 |
+| Cultural nível 1 |  |  |  |
+| Coordenador de Unidade | 2.831,45 | 2.831,45 | 5.662,90 |
+| Cultural nível 2 |  |  |  |
 
 ”
 
@@ -254,87 +244,57 @@ ANEXO V
 
 A - Abono por cumprimento de plantão nos Centros de Referência em Saúde Mental - Cersam, instituído pelo art. 5º da Lei nº 8.765, de 19 de janeiro de 2004:
 
-|ABONO CERSAM |
-
-|CARGO/ CATEGORIA |VALORES EM R$ |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |308,49 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |352,62 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |801,40 |
-
-|ENFERMEIRO |801,40 |
-
-|MÉDICO |1.500,00 |
+| ABONO CERSAM |  |
+| --- | --- |
+| CARGO/ CATEGORIA | VALORES EM R$ |
+| AGENTE DE SERVIÇOS DE SAÚDE | 308,49 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 352,62 |
+| TÉCNICO SUPERIOR DE SAÚDE | 801,40 |
+| ENFERMEIRO | 801,40 |
+| MÉDICO | 1.500,00 |
 
 B - Abono por cumprimento de plantão extra, instituído pelo caput e pelo § 6º do art. 4º da Lei nº 9.450, de 13 de novembro de 2007:
 
-|PLANTÃO EXTRA |
-
-|CARGO/ CATEGORIA |De 7h (sete horas) de |De 19h (dezenove horas) de sexta-feira até 7h |
-
-| |segunda-feira até 19h (dezenove|(sete horas) de segunda-feira, feriados e |
-
-| |horas) de sexta-feira |pontos facultativos |
-
-|AGENTE DE SERVIÇOS DE |200,00 |250,00 |
-
-|SAÚDE | | |
-
-|TÉCNICO DE SERVIÇOS DE |200,00 |250,00 |
-
-|SAÚDE | | |
-
-|CIRURGIÃO-DENTISTA |400,00 |500,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |400,00 |500,00 |
-
-|ENFERMEIRO |400,00 |500,00 |
-
-|MÉDICO |1.200,00 |1.500,00 |
+| PLANTÃO EXTRA |  |  |
+| --- | --- | --- |
+| CARGO/ CATEGORIA | De 7h (sete horas) de | De 19h (dezenove horas) de sexta-feira até 7h |
+|  | segunda-feira até 19h (dezenove | (sete horas) de segunda-feira, feriados e |
+|  | horas) de sexta-feira | pontos facultativos |
+| AGENTE DE SERVIÇOS DE | 200,00 | 250,00 |
+| SAÚDE |  |  |
+| TÉCNICO DE SERVIÇOS DE | 200,00 | 250,00 |
+| SAÚDE |  |  |
+| CIRURGIÃO-DENTISTA | 400,00 | 500,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 400,00 | 500,00 |
+| ENFERMEIRO | 400,00 | 500,00 |
+| MÉDICO | 1.200,00 | 1.500,00 |
 
 C - Abono por cumprimento de plantão extra no Serviço de Urgência Psiquiátrica - SUP, instituído pelo § 4º do art. 4º da Lei nº 9.450, de 13 de novembro de 2007:
 
-|PLANTÃO EXTRA - SERVIÇO DE URGÊNCIA PSIQUIÁTRICA - SUP |
-
-|CARGO/ CATEGORIA |De 7h de segunda-feira até |De 19h de sexta-feira até 7h de segunda-feira, |
-
-| |19h de sexta-feira |feriados e pontos facultativos |
-
-|TÉCNICO SUPERIOR DE |961,68 |1.236,44 |
-
-|SAÚDE | | |
-
-|ENFERMEIRO |961,68 |1.236,44 |
-
-|MÉDICO |1.200,00 |1.500,00 |
+| PLANTÃO EXTRA - SERVIÇO DE URGÊNCIA PSIQUIÁTRICA - SUP |  |  |
+| --- | --- | --- |
+| CARGO/ CATEGORIA | De 7h de segunda-feira até | De 19h de sexta-feira até 7h de segunda-feira, |
+|  | 19h de sexta-feira | feriados e pontos facultativos |
+| TÉCNICO SUPERIOR DE | 961,68 | 1.236,44 |
+| SAÚDE |  |  |
+| ENFERMEIRO | 961,68 | 1.236,44 |
+| MÉDICO | 1.200,00 | 1.500,00 |
 
 D - Abono por cumprimento de plantão extra na Gerência de Linha de Cuidado Intensivo Adulto do HOB, instituído pelo § 11 do art. 4º da Lei nº 9.450, de 13 de novembro de 2007.
 
-|PLANTÃO EXTRA DE 12 HORAS - HOB |
-
-|CARGO/ CATEGORIA |De 7h (sete horas) de |De 19h de sexta-feira até 7h (sete horas) |
-
-| |segunda-feira até 19h (dezenove |de segunda-feira, feriados e pontos |
-
-| |horas) de sexta-feira |facultativos |
-
-|AGENTE DE SERVIÇOS |226,67 |283,33 |
-
-|DE SAÚDE | | |
-
-|TÉCNICO DE SERVIÇOS|226,67 |283,33 |
-
-|DE SAÚDE | | |
-
-|TÉCNICO SUPERIOR DE|453,33 |566,67 |
-
-|SAÚDE | | |
-
-|ENFERMEIRO |453,33 |566,67 |
-
-|MÉDICO |1.360,00 |1.700,00 |
+| PLANTÃO EXTRA DE 12 HORAS - HOB |  |  |
+| --- | --- | --- |
+| CARGO/ CATEGORIA | De 7h (sete horas) de | De 19h de sexta-feira até 7h (sete horas) |
+|  | segunda-feira até 19h (dezenove | de segunda-feira, feriados e pontos |
+|  | horas) de sexta-feira | facultativos |
+| AGENTE DE SERVIÇOS | 226,67 | 283,33 |
+| DE SAÚDE |  |  |
+| TÉCNICO DE SERVIÇOS | 226,67 | 283,33 |
+| DE SAÚDE |  |  |
+| TÉCNICO SUPERIOR DE | 453,33 | 566,67 |
+| SAÚDE |  |  |
+| ENFERMEIRO | 453,33 | 566,67 |
+| MÉDICO | 1.360,00 | 1.700,00 |
 
 ”
 
@@ -346,11 +306,10 @@ ANEXO VI
 
 CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DO PODER EXECUTIVO REGIDOS POR ESTA LEI
 
-|CARGO |QUANTITATIVO |
-
-|Analista de Políticas Públicas |896 |
-
-|Analista de Planejamento e Gestão Governamental |147 |
+| CARGO | QUANTITATIVO |
+| --- | --- |
+| Analista de Políticas Públicas | 896 |
+| Analista de Planejamento e Gestão Governamental | 147 |
 
 ANEXO VII
 
@@ -360,29 +319,22 @@ ANEXO VII
 
 TABELAS DE VENCIMENTOS-BASE DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE, REGIDOS POR ESTA LEI, A PARTIR DE 1º DE JULHO DE 2022
 
-|CARGO |TABELA DE VENCIMENTOS-BASE - 40 HORAS SEMANAIS (Valores em R$) |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-|Agente Executivo Governamental |1.588 |
+| CARGO | TABELA DE VENCIMENTOS-BASE - 40 HORAS SEMANAIS (Valores em R$) |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+| Agente Executivo Governamental | 1.588 |
 
 B - EMPREGO PÚBLICO - QUADRO TRANSITÓRIO
 
-|ÓRGÃO |QUANTITATIVO |
-
-|SLU |84 |
-
-|Sudecap |62 |
-
-|HOB |26 |
-
-|TOTAL |172 |
+| ÓRGÃO | QUANTITATIVO |
+| --- | --- |
+| SLU | 84 |
+| Sudecap | 62 |
+| HOB | 26 |
+| TOTAL | 172 |
 
 ”
 
@@ -392,11 +344,10 @@ ANEXO IX
 
 Tabela de vencimentos e salários-base do cargo de Advogado Público Autárquico do Município, com vigência a partir de 1º de julho de 2022.
 
-|CARGO |TABELA DE VENCIMENTOS-BASE - 30 HORAS SEMANAIS (Valores em R$) |
-
-| |NÍVEL |
-
-|1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 | |ADVOGADO PÚBLICO AUTÁRQUICO |7.093,05 |7.447,70 |7.820,08 |8.211,09 |8.621,64 |9.052,73 |9.505,36 |9.980,63 |10.479,66 |11.003,64 |11.553,83 |12.131,52 |12.738,09 |13.375,00 |14.043,75 | |
+| CARGO | TABELA DE VENCIMENTOS-BASE - 30 HORAS SEMANAIS (Valores em R$) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | NÍVEL |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |  | ADVOGADO PÚBLICO AUTÁRQUICO | 7.093,05 | 7.447,70 | 7.820,08 | 8.211,09 | 8.621,64 | 9.052,73 | 9.505,36 | 9.980,63 | 10.479,66 | 11.003,64 | 11.553,83 | 12.131,52 | 12.738,09 | 13.375,00 | 14.043,75 |  |
 
 ## Observações da CMBH
 

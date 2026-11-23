@@ -56,16 +56,11 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos da PBH, conforme autorização contida no inciso I do § 1º do art. 43 da Lei |
-
-|Federal nº 4.320, de 17 de março de 1964: |
-
-|R$ |
-
-|2700.15.451.062.1.230.4490.0480 |200.000,00 |
-
-|2700.18.541.244.1.244.4490.0480 |2.156.000,00 |
-
-|1010.08.306.132.2.120.3390.0300 |25.514.078,96 |
-
-|TOTAL DA SUPLEMENTAÇÃO |27.870.078,96 |
+| I.1 – A favor de diversos órgãos da PBH, conforme autorização contida no inciso I do § 1º do art. 43 da Lei |  |
+| --- | --- |
+| Federal nº 4.320, de 17 de março de 1964: |  |
+| R$ |  |
+| 2700.15.451.062.1.230.4490.0480 | 200.000,00 |
+| 2700.18.541.244.1.244.4490.0480 | 2.156.000,00 |
+| 1010.08.306.132.2.120.3390.0300 | 25.514.078,96 |
+| TOTAL DA SUPLEMENTAÇÃO | 27.870.078,96 |

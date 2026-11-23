@@ -320,10 +320,8 @@ ESPECIFICAÇÃO DE PINOS DE TUNGSTÊNIO
 
 UTILIZÁVEIS EM ANIMAIS DE TRAÇÃO
 
-|Diâmetro Inicial (mm) |Diâmetro Final (mm) |Comprimento (mm) |
-
-|4,3 |4,3 | |
-
-|6,8 |7,4 |9 |
-
-|8,8 |9,8 |11 |
+| Diâmetro Inicial (mm) | Diâmetro Final (mm) | Comprimento (mm) |
+| --- | --- | --- |
+| 4,3 | 4,3 |  |
+| 6,8 | 7,4 | 9 |
+| 8,8 | 9,8 | 11 |

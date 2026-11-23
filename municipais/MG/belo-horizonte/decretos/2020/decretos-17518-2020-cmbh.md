@@ -52,26 +52,19 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor do Hospital Metropolitano Odilon Behrens – HMOB–,|
-
-|conforme autorização contida no caput do art. 4º da Lei nº |
-
-|11.211, de 26 de dezembro de 2019: |
-
-|R$ |
-
-|2301.10.302.030.2.875.3190.0106 |700.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |700.000,00 |
+| I.1 – A favor do Hospital Metropolitano Odilon Behrens – HMOB–, |  |
+| --- | --- |
+| conforme autorização contida no caput do art. 4º da Lei nº |  |
+| 11.211, de 26 de dezembro de 2019: |  |
+| R$ |  |
+| 2301.10.302.030.2.875.3190.0106 | 700.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 700.000,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1|
-
-|da tabela anterior: |
-
-|R$ |
-
-|3103.13.392.301.2.907.3390.0300 |700.000,00 |
-
-|TOTAL DA ANULAÇÃO |700.000,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 3103.13.392.301.2.907.3390.0300 | 700.000,00 |
+| TOTAL DA ANULAÇÃO | 700.000,00 |

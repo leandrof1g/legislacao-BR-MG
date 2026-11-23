@@ -90,42 +90,24 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|AFISA – Associação dos Fiscais Sanitários da Prefeitura de Belo Horizonte |
-
-|APLENA – Associação dos Profissionais Liberais de Engenharia, Arquitetura, Agrimensura e Agronomia da Prefeitura de Belo |
-
-|Horizonte |
-
-|APPMG – Associação de Professores Públicos de Minas Gerais |
-
-|APROM – Associação dos Procuradores Municipais de Belo Horizonte |
-
-|APTA – Associação dos Analistas de Políticas Públicas da PBH |
-
-|ASEM – Associação dos Servidores do Estado de Minas Gerais |
-
-|ASFIM – Associação dos Fiscais Municipais da Prefeitura de Belo Horizonte |
-
-|ASPEMG – Associação dos Servidores Públicos do Estado de Minas Gerais |
-
-|ASSEMP – Associação dos Servidores Municipais da Prefeitura de Belo Horizonte |
-
-|SINDFIM – Sindicato dos Fiscais Municipais de Belo Horizonte |
-
-|Sindibel – Sindicato dos Servidores Públicos de Belo Horizonte |
-
-|SindREDE-BH – Sindicato dos Trabalhadores em Educação da Rede Pública Municipal de Belo Horizonte |
-
-|SINDSLEMBH – Sindicato dos Servidores do Legislativo do Município de Belo Horizonte |
-
-|SINFAZBH – Associação dos Agentes Fazendários da PBH |
-
-|SINFISCO – Sindicato dos Auditores Fiscais e Auditores Técnicos de Tributos Municipais de BH |
-
-|SINMEDMG – Sindicato dos Médicos de Minas Gerais |
-
-|Sociedade Auxiliadora |
-
-|SOMGE – Sindicato dos Odontologistas de Minas Gerais |
-
-|UNSP – Sindicato Nacional dos Servidores Públicos Civis do Brasil |
+| AFISA – Associação dos Fiscais Sanitários da Prefeitura de Belo Horizonte |
+| --- |
+| APLENA – Associação dos Profissionais Liberais de Engenharia, Arquitetura, Agrimensura e Agronomia da Prefeitura de Belo |
+| Horizonte |
+| APPMG – Associação de Professores Públicos de Minas Gerais |
+| APROM – Associação dos Procuradores Municipais de Belo Horizonte |
+| APTA – Associação dos Analistas de Políticas Públicas da PBH |
+| ASEM – Associação dos Servidores do Estado de Minas Gerais |
+| ASFIM – Associação dos Fiscais Municipais da Prefeitura de Belo Horizonte |
+| ASPEMG – Associação dos Servidores Públicos do Estado de Minas Gerais |
+| ASSEMP – Associação dos Servidores Municipais da Prefeitura de Belo Horizonte |
+| SINDFIM – Sindicato dos Fiscais Municipais de Belo Horizonte |
+| Sindibel – Sindicato dos Servidores Públicos de Belo Horizonte |
+| SindREDE-BH – Sindicato dos Trabalhadores em Educação da Rede Pública Municipal de Belo Horizonte |
+| SINDSLEMBH – Sindicato dos Servidores do Legislativo do Município de Belo Horizonte |
+| SINFAZBH – Associação dos Agentes Fazendários da PBH |
+| SINFISCO – Sindicato dos Auditores Fiscais e Auditores Técnicos de Tributos Municipais de BH |
+| SINMEDMG – Sindicato dos Médicos de Minas Gerais |
+| Sociedade Auxiliadora |
+| SOMGE – Sindicato dos Odontologistas de Minas Gerais |
+| UNSP – Sindicato Nacional dos Servidores Públicos Civis do Brasil |

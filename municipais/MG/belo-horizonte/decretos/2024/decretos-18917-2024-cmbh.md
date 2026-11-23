@@ -58,185 +58,100 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da |R$ |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.09.272.0026.3004.319001.1.500.000 |52.000.000,00 |
-
-|0613.09.272.0026.3004.319001.1.801.000 |1.000.000,00 |
-
-|0613.09.272.0026.3007.319001.1.801.000 |2.500.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.319013.1.543.000 |1.900,00 |
-
-|2200.12.361.0168.2080.319113.1.543.000 |111.500,00 |
-
-|2200.12.365.0169.2542.319011.1.543.000 |53.400,00 |
-
-|2200.12.365.0169.2542.319113.1.543.000 |10.500,00 |
-
-|2200.12.366.0168.2080.319011.1.543.000 |21.200,00 |
-
-|2200.12.366.0168.2080.319113.1.543.000 |4.100,00 |
-
-|TOTAL |55.702.600,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2819.339046.1.500.000 |2.400,00 |
-
-|1000.08.122.0123.2900.339046.1.500.000 |318.000,00 |
-
-|1000.14.422.0127.2928.339046.1.500.000 |1.200,00 |
-
-|Secretaria Municipal de Educação - SMED |
-
-|2200.12.366.0168.2080.339046.1.500.000 |28.100,00 |
-
-|2200.12.122.0140.2317.339046.1.500.000 |26.100,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.339046.1.500.000 |1.510.200,00 |
-
-|2100.12.361.0109.2803.339046.1.500.000 |29.300,00 |
-
-|2100.06.301.0109.2803.339046.1.500.000 |385.700,00 |
-
-|2100.06.122.0109.2802.339046.1.500.000 |27.900,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.122.0117.2662.339046.1.500.000 |396.600,00 |
-
-|2302.10.122.0117.2662.339036.1.500.000 |63.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2308.339046.1.500.000 |24.300,00 |
-
-|1011.08.244.0113.2327.339046.1.500.000 |24.300,00 |
-
-|1011.08.244.0020.2878.339046.1.500.000 |13.100,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.122.0146.2900.339046.1.500.000 |35.700,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2106.339046.1.500.000 |51.700,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0014.2021.339046.1.500.000 |8.800,00 |
-
-|0600.04.121.0004.2518.339046.1.500.000 |24.200,00 |
-
-|0600.04.122.0014.2809.339046.1.500.000 |120.800,00 |
-
-|0600.04.122.0166.2900.339046.1.500.000 |8.000,00 |
-
-|0600.04.121.0148.2900.339046.1.500.000 |22.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.06.182.0164.2541.339046.1.500.000 |135.200,00 |
-
-|2700.15.452.0057.2770.339046.1.500.000 |137.700,00 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.122.0307.2900.339046.1.500.000 |11.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.0141.2852.339046.1.500.000 |15.200,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2571.339046.1.500.000 |166.100,00 |
-
-|3300.15.452.0059.2854.339046.1.500.000 |136.900,00 |
-
-|3300.15.452.0059.2890.339046.1.500.000 |110.800,00 |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.04.129.0013.2052.339046.1.500.000 |123.000,00 |
-
-|0800.04.122.0105.2900.339046.1.500.000 |49.900,00 |
-
-|Procuradoria-Geral do Município – PGM |
-
-|0500.04.062.0003.2010.339046.1.500.000 |116.600,00 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.0007.2900.339046.1.500.000 |47.100,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.122.0093.2900.339046.1.500.000 |40.800,00 |
-
-|TOTAL |4.211.700,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |59.914.300,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da | R$ |
+| --- | --- |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Fundo Financeiro – FUFIN |  |
+| 0613.09.272.0026.3004.319001.1.500.000 | 52.000.000,00 |
+| 0613.09.272.0026.3004.319001.1.801.000 | 1.000.000,00 |
+| 0613.09.272.0026.3007.319001.1.801.000 | 2.500.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.319013.1.543.000 | 1.900,00 |
+| 2200.12.361.0168.2080.319113.1.543.000 | 111.500,00 |
+| 2200.12.365.0169.2542.319011.1.543.000 | 53.400,00 |
+| 2200.12.365.0169.2542.319113.1.543.000 | 10.500,00 |
+| 2200.12.366.0168.2080.319011.1.543.000 | 21.200,00 |
+| 2200.12.366.0168.2080.319113.1.543.000 | 4.100,00 |
+| TOTAL | 55.702.600,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2819.339046.1.500.000 | 2.400,00 |
+| 1000.08.122.0123.2900.339046.1.500.000 | 318.000,00 |
+| 1000.14.422.0127.2928.339046.1.500.000 | 1.200,00 |
+| Secretaria Municipal de Educação - SMED |  |
+| 2200.12.366.0168.2080.339046.1.500.000 | 28.100,00 |
+| 2200.12.122.0140.2317.339046.1.500.000 | 26.100,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.339046.1.500.000 | 1.510.200,00 |
+| 2100.12.361.0109.2803.339046.1.500.000 | 29.300,00 |
+| 2100.06.301.0109.2803.339046.1.500.000 | 385.700,00 |
+| 2100.06.122.0109.2802.339046.1.500.000 | 27.900,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.122.0117.2662.339046.1.500.000 | 396.600,00 |
+| 2302.10.122.0117.2662.339036.1.500.000 | 63.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.339046.1.500.000 | 24.300,00 |
+| 1011.08.244.0113.2327.339046.1.500.000 | 24.300,00 |
+| 1011.08.244.0020.2878.339046.1.500.000 | 13.100,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.122.0146.2900.339046.1.500.000 | 35.700,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2106.339046.1.500.000 | 51.700,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0014.2021.339046.1.500.000 | 8.800,00 |
+| 0600.04.121.0004.2518.339046.1.500.000 | 24.200,00 |
+| 0600.04.122.0014.2809.339046.1.500.000 | 120.800,00 |
+| 0600.04.122.0166.2900.339046.1.500.000 | 8.000,00 |
+| 0600.04.121.0148.2900.339046.1.500.000 | 22.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.06.182.0164.2541.339046.1.500.000 | 135.200,00 |
+| 2700.15.452.0057.2770.339046.1.500.000 | 137.700,00 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.122.0307.2900.339046.1.500.000 | 11.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0141.2852.339046.1.500.000 | 15.200,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2571.339046.1.500.000 | 166.100,00 |
+| 3300.15.452.0059.2854.339046.1.500.000 | 136.900,00 |
+| 3300.15.452.0059.2890.339046.1.500.000 | 110.800,00 |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.04.129.0013.2052.339046.1.500.000 | 123.000,00 |
+| 0800.04.122.0105.2900.339046.1.500.000 | 49.900,00 |
+| Procuradoria-Geral do Município – PGM |  |
+| 0500.04.062.0003.2010.339046.1.500.000 | 116.600,00 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.0007.2900.339046.1.500.000 | 47.100,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.122.0093.2900.339046.1.500.000 | 40.800,00 |
+| TOTAL | 4.211.700,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 59.914.300,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.0091.3501.469071.1.500.000 |4.000.000,00 |
-
-|4001.28.844.0091.3089.329021.1.500.000 |6.000.000,00 |
-
-|4001.28.844.0091.3089.469071.1.500.000 |32.000.000,00 |
-
-|Câmara Municipal – CM |
-
-|0101.01.031.0001.2001.319011.1.500.000 |10.000.000,00 |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.09.272.0026.2931.339086.1.801.000 |1.602.000,00 |
-
-|0613.09.272.0026.2931.319086.1.801.000 |1.898.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.319011.1.543.000 |202.600,00 |
-
-|TOTAL |55.702.600,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.122.0117.2662.339036.1.500.000 |63.000,00 |
-
-|Câmara Municipal – CM |
-
-|0101.01.031.0001.2922.339039.1.500.000 |4.148.700,00 |
-
-|TOTAL |4.211.700,00 |
-
-|TOTAL DA ANULAÇÃO |59.914.300,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.0091.3501.469071.1.500.000 | 4.000.000,00 |
+| 4001.28.844.0091.3089.329021.1.500.000 | 6.000.000,00 |
+| 4001.28.844.0091.3089.469071.1.500.000 | 32.000.000,00 |
+| Câmara Municipal – CM |  |
+| 0101.01.031.0001.2001.319011.1.500.000 | 10.000.000,00 |
+| Fundo Financeiro – FUFIN |  |
+| 0613.09.272.0026.2931.339086.1.801.000 | 1.602.000,00 |
+| 0613.09.272.0026.2931.319086.1.801.000 | 1.898.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.319011.1.543.000 | 202.600,00 |
+| TOTAL | 55.702.600,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.122.0117.2662.339036.1.500.000 | 63.000,00 |
+| Câmara Municipal – CM |  |
+| 0101.01.031.0001.2922.339039.1.500.000 | 4.148.700,00 |
+| TOTAL | 4.211.700,00 |
+| TOTAL DA ANULAÇÃO | 59.914.300,00 |
 
 ANEXO II
 
@@ -304,50 +219,31 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 613.556.502,06 |
-
-|Valor do Decreto publicado nesta data |R$ 55.702.600,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 669.259.102,06 |
-
-|Saldo atual de créditos suplementares |R$ 1.314.073.670,34 |
-
-|Percentual utilizado |33,74% |
-
-|Atualizado em 27/12/2024 às 13:20:06 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 613.556.502,06 |
+| Valor do Decreto publicado nesta data | R$ 55.702.600,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 669.259.102,06 |
+| Saldo atual de créditos suplementares | R$ 1.314.073.670,34 |
+| Percentual utilizado | 33,74% |
+| Atualizado em 27/12/2024 às 13:20:06 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.225.969.016,29 |
-
-|Valor do Decreto publicado nesta data |R$ 4.211.700,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.230.180.716,29 |
-
-|Saldo atual de créditos suplementares |R$ 753.152.056,11 |
-
-|Percentual utilizado |62,03% |
-
-|Atualizado em 27/12/2024 às 13:22:06 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.225.969.016,29 |
+| Valor do Decreto publicado nesta data | R$ 4.211.700,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.230.180.716,29 |
+| Saldo atual de créditos suplementares | R$ 753.152.056,11 |
+| Percentual utilizado | 62,03% |
+| Atualizado em 27/12/2024 às 13:22:06 |  |

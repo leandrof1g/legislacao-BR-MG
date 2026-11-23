@@ -2642,955 +2642,525 @@ DIA COMEMORATIVO
 
 A - Dias comemorativos de janeiro:
 
-|DATA |COMEMORAÇÃO |
-
-|2/1 |Dia do Cruzeirense |
-
-|2/1 |Dia do Cruzeiro |
-
-|8/1 |Dia Municipal em Defesa da Democracia |
-
-| |Linha acrescentada pela Lei nº 11.527, de 23/6/2023 (Art. 2º) |
-
-|14/1 |Dia do Lavador e Manobrista de Carro |
-
-|20/1 |Dia dos Moradores de Vilas e Favelas |
-
-|20/1 |Dia Municipal do Futebol Amador |
-
-|21/1 |Dia de Combate à Intolerância Religiosa |
-
-|24/1 |Dia do Aposentado |
-
-|30/1 |Dia dos Quadrinhos |
-
-|Segundo sábado de maio do mês |Dia Municipal dos Grupos de Jovens Cristãos de Belo Horizonte |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 2/1 | Dia do Cruzeirense |
+| 2/1 | Dia do Cruzeiro |
+| 8/1 | Dia Municipal em Defesa da Democracia |
+|  | Linha acrescentada pela Lei nº 11.527, de 23/6/2023 (Art. 2º) |
+| 14/1 | Dia do Lavador e Manobrista de Carro |
+| 20/1 | Dia dos Moradores de Vilas e Favelas |
+| 20/1 | Dia Municipal do Futebol Amador |
+| 21/1 | Dia de Combate à Intolerância Religiosa |
+| 24/1 | Dia do Aposentado |
+| 30/1 | Dia dos Quadrinhos |
+| Segundo sábado de maio do mês | Dia Municipal dos Grupos de Jovens Cristãos de Belo Horizonte |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
 
 B - Dias comemorativos de fevereiro:
 
-|DATA |COMEMORAÇÃO |
-
-|5/2 |Dia do Cartunista |
-
-|12/2 |Dia Municipal de Incentivo às Simulações Temáticas e Debates |
-
-| |Linha acrescentada pela Lei nº 12.039, de 10/6/2026 (Art. 2º) |
-
-|15/2 |Dia Municipal do Pesquisador Científico |
-
-|23/2 |Dia Municipal do Rotary Club |
-
-|27/2 |Dia Municipal da Sukyo Mahikari |
-
-|segunda quarta-feira de |Dia Municipal dos Coletores de Lixo |
-
-|fevereiro | |
-
-|segundo domingo de fevereiro |Dia Municipal da Cultura Evangélica |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 5/2 | Dia do Cartunista |
+| 12/2 | Dia Municipal de Incentivo às Simulações Temáticas e Debates |
+|  | Linha acrescentada pela Lei nº 12.039, de 10/6/2026 (Art. 2º) |
+| 15/2 | Dia Municipal do Pesquisador Científico |
+| 23/2 | Dia Municipal do Rotary Club |
+| 27/2 | Dia Municipal da Sukyo Mahikari |
+| segunda quarta-feira de | Dia Municipal dos Coletores de Lixo |
+| fevereiro |  |
+| segundo domingo de fevereiro | Dia Municipal da Cultura Evangélica |
 
 C - Dias comemorativos de março:
 
-|DATA |COMEMORAÇÃO |
-
-|1º/3 |Dia Municipal da Valorização da Vida |
-
-|1/3 |Dia Municipal de Conscientização da Neuromielite Óptica |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|2/3 |Dia Municipal do Fiscal Sanitário |
-
-|5/3 |Dia Municipal da Lagoinha |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|5/3 |Dia Municipal da Música Erudita |
-
-| |Linha acrescentada pela Lei nº 11.879, de 8/8/2025 (Art. 2º) |
-
-|8/3 |Dia Municipal da Mulher de Carreira Jurídica |
-
-|8/3 |Dia Municipal da Mulher Advogada |
-
-| |Linha acrescentada pela Lei nº 11.860, de 28/5/2025 (Art. 2º) |
-
-|9/3 |Dia Municipal do DJ |
-
-| |Linha acrescentada pela Lei nº 11.727, de 24/7/2024 (Art. 2º) |
-
-|18/3 |Dia da Ordem DeMolay |
-
-|18/3 |Dia do Frentista |
-
-|18/3 |Dia Municipal da Imigração Judaica |
-
-|19/3 |Dia Municipal da Feira de Arte, Artesanato e Variedades da |
-
-| |Avenida Afonso Pena - Feira Hippie |
-
-|20/3 |Dia Municipal de Prevenção ao Tabagismo |
-
-|20/3 |Dia Municipal do Cuidador de Idosos |
-
-|21/3 |Dia Municipal das Pessoas Transplantadas |
-
-|22/3 |Dia Municipal do Conservadorismo - Deus, Pátria e Família |
-
-| |Linha acrescentada pela Lei nº 12.099, de 3/8/2026 (Art. 1º) |
-
-|24/3 |Dia da União dos Povos Latino-Americanos |
-
-|25/3 |Dia do Atleticano |
-
-|25/3 |Dia Municipal do Nascituro |
-
-|27/3 |Dia Municipal de Conscientização da Prevenção ao Câncer |
-
-| |Colorretal e Gástrico |
-
-| |Linha acrescentada pela Lei nº 11.932, de 5/12/2025 (Art. 1º) |
-
-|30/3 |Dia Municipal da Conscientização sobre a Doação de Órgãos, |
-
-| |Tecidos e Sangue |
-
-| |Linha acrescentada pela Lei nº 12.100, de 5/8/2026 (Art. 2º) |
-
-|31/3 |Dia Municipal em Memória das Vítimas da Inquisição no Brasil |
-
-|último sábado de março |Dia Municipal da Inclusão Digital |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 1º/3 | Dia Municipal da Valorização da Vida |
+| 1/3 | Dia Municipal de Conscientização da Neuromielite Óptica |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 2/3 | Dia Municipal do Fiscal Sanitário |
+| 5/3 | Dia Municipal da Lagoinha |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 5/3 | Dia Municipal da Música Erudita |
+|  | Linha acrescentada pela Lei nº 11.879, de 8/8/2025 (Art. 2º) |
+| 8/3 | Dia Municipal da Mulher de Carreira Jurídica |
+| 8/3 | Dia Municipal da Mulher Advogada |
+|  | Linha acrescentada pela Lei nº 11.860, de 28/5/2025 (Art. 2º) |
+| 9/3 | Dia Municipal do DJ |
+|  | Linha acrescentada pela Lei nº 11.727, de 24/7/2024 (Art. 2º) |
+| 18/3 | Dia da Ordem DeMolay |
+| 18/3 | Dia do Frentista |
+| 18/3 | Dia Municipal da Imigração Judaica |
+| 19/3 | Dia Municipal da Feira de Arte, Artesanato e Variedades da |
+|  | Avenida Afonso Pena - Feira Hippie |
+| 20/3 | Dia Municipal de Prevenção ao Tabagismo |
+| 20/3 | Dia Municipal do Cuidador de Idosos |
+| 21/3 | Dia Municipal das Pessoas Transplantadas |
+| 22/3 | Dia Municipal do Conservadorismo - Deus, Pátria e Família |
+|  | Linha acrescentada pela Lei nº 12.099, de 3/8/2026 (Art. 1º) |
+| 24/3 | Dia da União dos Povos Latino-Americanos |
+| 25/3 | Dia do Atleticano |
+| 25/3 | Dia Municipal do Nascituro |
+| 27/3 | Dia Municipal de Conscientização da Prevenção ao Câncer |
+|  | Colorretal e Gástrico |
+|  | Linha acrescentada pela Lei nº 11.932, de 5/12/2025 (Art. 1º) |
+| 30/3 | Dia Municipal da Conscientização sobre a Doação de Órgãos, |
+|  | Tecidos e Sangue |
+|  | Linha acrescentada pela Lei nº 12.100, de 5/8/2026 (Art. 2º) |
+| 31/3 | Dia Municipal em Memória das Vítimas da Inquisição no Brasil |
+| último sábado de março | Dia Municipal da Inclusão Digital |
 
 D - Dias comemorativos de abril:
 
-|DATA |COMEMORAÇÃO |
-
-|1º/4 |Dia Municipal de Conscientização e Enfrentamento ao Vício em |
-
-| |Apostas Virtuais e Jogos de Azar |
-
-| |Linha acrescentada pela Lei nº 11.901, de 23/9/2025 (Art. 1º) |
-
-|2/4 |Dia Municipal do Autismo |
-
-|2/4 |Dia da Maternidade Atípica |
-
-| |Linha acrescentada pela Lei nº 11.850, de 30/4/2025 (Art. 2º) |
-
-|7/4 |Dia do Prestador de Serviço Voluntário na Área da Saúde |
-
-|8/4 |Dia Municipal dos Auxiliares de Administração Escolar |
-
-|11/4 |Dia das Artes Marciais |
-
-|11/4 |Dia Municipal de Concientização da Doença de Parkinson |
-
-|17/4 |Dia Municipal de Conscientização pela Reforma Agrária e em |
-
-| |Memória das Vítimas da Luta pela Terra |
-
-|19/4 |Dia de Lembrança do Holocausto |
-
-|20/4 |Dia Municipal de Luta contra a Violência e a Discriminação dos |
-
-| |Povos Indígenas |
-
-|23/4 |Dia Municipal do Escoteiro |
-
-|23/4 |Dia Municipal dos Vicentinos |
-
-|27/4 |Dia Municipal da Empregada Doméstica |
-
-|274 |Dia Municipal do Auditor de Controle Externo |
-
-| |Linha acrescentada pela Lei nº 12.116, de 19/8/2026 (Art. 2º) |
-
-|28/4 |Dia Municipal de Luto pelas Vítimas de Acidentes e Doenças do |
-
-| |Trabalho |
-
-|30/4 |Dia do Torcedor do América |
-
-|30/4 |Dia Municipal do Jazz |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 1º/4 | Dia Municipal de Conscientização e Enfrentamento ao Vício em |
+|  | Apostas Virtuais e Jogos de Azar |
+|  | Linha acrescentada pela Lei nº 11.901, de 23/9/2025 (Art. 1º) |
+| 2/4 | Dia Municipal do Autismo |
+| 2/4 | Dia da Maternidade Atípica |
+|  | Linha acrescentada pela Lei nº 11.850, de 30/4/2025 (Art. 2º) |
+| 7/4 | Dia do Prestador de Serviço Voluntário na Área da Saúde |
+| 8/4 | Dia Municipal dos Auxiliares de Administração Escolar |
+| 11/4 | Dia das Artes Marciais |
+| 11/4 | Dia Municipal de Concientização da Doença de Parkinson |
+| 17/4 | Dia Municipal de Conscientização pela Reforma Agrária e em |
+|  | Memória das Vítimas da Luta pela Terra |
+| 19/4 | Dia de Lembrança do Holocausto |
+| 20/4 | Dia Municipal de Luta contra a Violência e a Discriminação dos |
+|  | Povos Indígenas |
+| 23/4 | Dia Municipal do Escoteiro |
+| 23/4 | Dia Municipal dos Vicentinos |
+| 27/4 | Dia Municipal da Empregada Doméstica |
+| 274 | Dia Municipal do Auditor de Controle Externo |
+|  | Linha acrescentada pela Lei nº 12.116, de 19/8/2026 (Art. 2º) |
+| 28/4 | Dia Municipal de Luto pelas Vítimas de Acidentes e Doenças do |
+|  | Trabalho |
+| 30/4 | Dia do Torcedor do América |
+| 30/4 | Dia Municipal do Jazz |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
 
 E - Dias comemorativos de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|2/5 |Dia Municipal do Futebol de Várzea |
-
-| |Linha acrescentada pela Lei nº 11.956, de 13/1/2026 (Art. 2º) |
-
-|3/5 |Dia Municipal do Soul |
-
-| |Linha acrescentada pela Lei nº 11.759, de 16/10/2024 (Art. 1º) |
-
-|6/5 |Dia Municipal da Paz e Solidariedade |
-
-|6/5 |Dia do Vendedor Ambulante |
-
-|6/5 |Dia Municipal da Síndrome de Edwards |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|10/5 |Dia da Segurança Pública |
-
-|10/5 |Dia Municipal do Policial Civil |
-
-|10/5 |Dia Municipal de Atenção à Pessoa com Lúpus |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|10/5 |Dia Municipal do Judô |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|11/5 |Dia de Santo Antônio de Sant’Anna Galvão |
-
-|12/5 |Dia Municipal da Fibromialgia |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|13/5 |Dia da Contestação à Violência |
-
-|15/5 |Dia Municipal de Conscientização sobre a Esclerose Tuberosa |
-
-| |Linha acrescentada pela Lei nº 11.672, de 13/3/2024 (Art. 2º) |
-
-|15/5 |Dia Municipal de Conscientização sobre a Síndrome de Prader-Willi|
-
-| |– SPW |
-
-| |Linha acrescentada pela Lei nº 11.892, de 28/8/2025 (Art. 2º) |
-
-|16/05 |Dia Municipal do Conjunto Moderno da Pampulha |
-
-| |Linha acrescentada pela Lei nº 11.695, de 24/5/2024 (Art. 2º) |
-
-|17/5 |Dia da Conscientização sobre a Enterocolite Necrosante - NEC |
-
-| |Linha acrescentada pela Lei nº 11.871, de 4/7/2025 (Art. 1º) |
-
-|18/5 |Dia Municipal da Feijoada |
-
-|18/5 |Dia Municipal de Combate ao Abuso e à Exploração Sexual de |
-
-| |Crianças e Adolescentes |
-
-|18/5 |Dia Municipal de Luta Antimanicomial |
-
-|18/5 |Dia Municipal do Profissional Moveleiro |
-
-|18/5 |Dia do Combate à Pedofilia |
-
-| |Linha acrescentada pela Lei nº 11.847, de 15/4/2025 (Art. 2º) |
-
-|18/5 |Dia Municipal da Fidelidade Conjugal e do Casamento Monogâmico |
-
-| |Cristão |
-
-| |Linha acrescentada pela Lei nº 11.912, de 24/10//2025 (Art. 1º) |
-
-|20/5 |Dia Municipal do Técnico e do Auxiliar de Enfermagem |
-
-| |Linha acrescentada pela Lei nº 11.853, de 16/5/2025 (Art. 1º) |
-
-|21/5 |Dia Municipal de Proteção ao Aleitamento Materno |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|21/5 |Dia Municipal da Vila São Rafael |
-
-| |Linha acrescentada pela Lei nº 12.107, de 11/8/2026 (Art. 2º) |
-
-|23/5 |Dia Municipal da Literatura Infantil |
-
-|24/5 |Dia Municipal do Povo Cigano |
-
-|25/5 |Dia Municipal do Carrinho de Rolimã |
-
-| |Linha acrescentada pela Lei nº 11.503, de 25/5/2023 (Art. 2º) |
-
-|26/5 |Dia Municipal do Glaucoma |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|segunda terça-feira de maio |Dia da Mobilização para a Limpeza Urbana no Município |
-
-| terceiro sábado de maio |Dia Municipal dos Botecos |
-
-|quarto domingo de maio |Dia Municipal de Prevenção ao Câncer de Mama |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 2/5 | Dia Municipal do Futebol de Várzea |
+|  | Linha acrescentada pela Lei nº 11.956, de 13/1/2026 (Art. 2º) |
+| 3/5 | Dia Municipal do Soul |
+|  | Linha acrescentada pela Lei nº 11.759, de 16/10/2024 (Art. 1º) |
+| 6/5 | Dia Municipal da Paz e Solidariedade |
+| 6/5 | Dia do Vendedor Ambulante |
+| 6/5 | Dia Municipal da Síndrome de Edwards |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 10/5 | Dia da Segurança Pública |
+| 10/5 | Dia Municipal do Policial Civil |
+| 10/5 | Dia Municipal de Atenção à Pessoa com Lúpus |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 10/5 | Dia Municipal do Judô |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 11/5 | Dia de Santo Antônio de Sant’Anna Galvão |
+| 12/5 | Dia Municipal da Fibromialgia |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 13/5 | Dia da Contestação à Violência |
+| 15/5 | Dia Municipal de Conscientização sobre a Esclerose Tuberosa |
+|  | Linha acrescentada pela Lei nº 11.672, de 13/3/2024 (Art. 2º) |
+| 15/5 | Dia Municipal de Conscientização sobre a Síndrome de Prader-Willi |
+|  | – SPW |
+|  | Linha acrescentada pela Lei nº 11.892, de 28/8/2025 (Art. 2º) |
+| 16/05 | Dia Municipal do Conjunto Moderno da Pampulha |
+|  | Linha acrescentada pela Lei nº 11.695, de 24/5/2024 (Art. 2º) |
+| 17/5 | Dia da Conscientização sobre a Enterocolite Necrosante - NEC |
+|  | Linha acrescentada pela Lei nº 11.871, de 4/7/2025 (Art. 1º) |
+| 18/5 | Dia Municipal da Feijoada |
+| 18/5 | Dia Municipal de Combate ao Abuso e à Exploração Sexual de |
+|  | Crianças e Adolescentes |
+| 18/5 | Dia Municipal de Luta Antimanicomial |
+| 18/5 | Dia Municipal do Profissional Moveleiro |
+| 18/5 | Dia do Combate à Pedofilia |
+|  | Linha acrescentada pela Lei nº 11.847, de 15/4/2025 (Art. 2º) |
+| 18/5 | Dia Municipal da Fidelidade Conjugal e do Casamento Monogâmico |
+|  | Cristão |
+|  | Linha acrescentada pela Lei nº 11.912, de 24/10//2025 (Art. 1º) |
+| 20/5 | Dia Municipal do Técnico e do Auxiliar de Enfermagem |
+|  | Linha acrescentada pela Lei nº 11.853, de 16/5/2025 (Art. 1º) |
+| 21/5 | Dia Municipal de Proteção ao Aleitamento Materno |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 21/5 | Dia Municipal da Vila São Rafael |
+|  | Linha acrescentada pela Lei nº 12.107, de 11/8/2026 (Art. 2º) |
+| 23/5 | Dia Municipal da Literatura Infantil |
+| 24/5 | Dia Municipal do Povo Cigano |
+| 25/5 | Dia Municipal do Carrinho de Rolimã |
+|  | Linha acrescentada pela Lei nº 11.503, de 25/5/2023 (Art. 2º) |
+| 26/5 | Dia Municipal do Glaucoma |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| segunda terça-feira de maio | Dia da Mobilização para a Limpeza Urbana no Município |
+| terceiro sábado de maio | Dia Municipal dos Botecos |
+| quarto domingo de maio | Dia Municipal de Prevenção ao Câncer de Mama |
 
 F - Dias comemorativos de junho:
 
-|DATA |COMEMORAÇÃO |
-
-|1º/6 |Dia Municipal do Círculo de Oração das Igrejas Assembleia de Deus|
-
-|1º/6 |Dia Municipal do Quadrilheiro Junino |
-
-|2/6 |Dia da República Italiana |
-
-|3/6 |Dia Municipal do Conselheiro de Saúde |
-
-| |Linha acrescentada pela Lei nº 11.689, de 2/5/2024 (Art. 2º) |
-
-|9/6 |Dia Municipal da Polícia Militar de Minas Gerais |
-
-|9/6 |Dia de Anchieta |
-
-| |Linha acrescentada pela Lei nº 11.773, de 30/10/2024 (Art. 1º) |
-
-|9/6 |Dia Municipal da Música Gospel |
-
-| |Linha acrescentada pela Lei nº 11.878, de 8/8/2025 (Art. 2º) |
-
-|10/6 |Dia Municipal do Pastor |
-
-|10/6 |Dia Municipal dos Alcoólicos Anônimos - AA |
-
-|12/6 |Dia de Conscientização sobre a Cardiopatia Congênita |
-
-|13/6 |Dia do Detetive Profissional |
-
-|13/6 |Dia do Distrito de Venda Nova |
-
-|14/6 |Dia Municipal do Capelão |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|15/6 |Dia de Conscientização sobre a Violência contra a Pessoa Idosa |
-
-|16/6 |Dia Municipal de Combate à Discriminação |
-
-|18/6 |Dia dos Profissionais da Beleza |
-
-| |Linha acrescentada pela Lei nº 11.824, de 17/1/2025 (Art. 1º) |
-
-|18/6 |Dia Municipal do Dirigente Cristão de Empresas |
-
-| |Linha acrescentada pela Lei nº 12.015, de 15/5/2026 (Art. 3º) |
-
-|20/6 |Dia do Imigrante Libanês |
-
-|20/6 |Dia Municipal de Luta Contra o Encarceramento da Juventude Negra |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|21/6 |Dia Municipal da Esclerose Lateral Amiotrófica - ELA |
-
-| |Linha acrescentada pela Lei nº 11.967, de 20/1/2026 (Art. 2º) |
-
-|23/6 |Dia Municipal do Esporte |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|26/6 |Dia Municipal de Defesa e Prevenção contra o Uso de Entorpecentes|
-
-| |e Substâncias que Determinem Dependência Física ou Psíquica |
-
-|26/6 |Dia Municipal de Prevenção ao Uso de Drogas |
-
-|26/6 |Dia Municipal de Prevenção e Combate ao Diabetes |
-
-|27/6 |Dia Municipal da Dança Afro |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|28/6 |Dia Municipal contra a Discriminação por Orientação Sexual |
-
-|28/6 |Dia Municipal de Combate à Intolerância |
-
-|29/6 |Dia Municipal do Profissional da Segurança Eletrônica |
-
-|29/6 |Dia Municipal da Pipa |
-
-| |Linha acrescentada pela Lei nº 11.691, de 14/5/2024 (Art. 2º) |
-
-|primeiro sábado de junho |Dia Municipal da Marcha para Jesus |
-
-|segundo sábado de junho |Dia Municipal da Peteca |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 1º/6 | Dia Municipal do Círculo de Oração das Igrejas Assembleia de Deus |
+| 1º/6 | Dia Municipal do Quadrilheiro Junino |
+| 2/6 | Dia da República Italiana |
+| 3/6 | Dia Municipal do Conselheiro de Saúde |
+|  | Linha acrescentada pela Lei nº 11.689, de 2/5/2024 (Art. 2º) |
+| 9/6 | Dia Municipal da Polícia Militar de Minas Gerais |
+| 9/6 | Dia de Anchieta |
+|  | Linha acrescentada pela Lei nº 11.773, de 30/10/2024 (Art. 1º) |
+| 9/6 | Dia Municipal da Música Gospel |
+|  | Linha acrescentada pela Lei nº 11.878, de 8/8/2025 (Art. 2º) |
+| 10/6 | Dia Municipal do Pastor |
+| 10/6 | Dia Municipal dos Alcoólicos Anônimos - AA |
+| 12/6 | Dia de Conscientização sobre a Cardiopatia Congênita |
+| 13/6 | Dia do Detetive Profissional |
+| 13/6 | Dia do Distrito de Venda Nova |
+| 14/6 | Dia Municipal do Capelão |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 15/6 | Dia de Conscientização sobre a Violência contra a Pessoa Idosa |
+| 16/6 | Dia Municipal de Combate à Discriminação |
+| 18/6 | Dia dos Profissionais da Beleza |
+|  | Linha acrescentada pela Lei nº 11.824, de 17/1/2025 (Art. 1º) |
+| 18/6 | Dia Municipal do Dirigente Cristão de Empresas |
+|  | Linha acrescentada pela Lei nº 12.015, de 15/5/2026 (Art. 3º) |
+| 20/6 | Dia do Imigrante Libanês |
+| 20/6 | Dia Municipal de Luta Contra o Encarceramento da Juventude Negra |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 21/6 | Dia Municipal da Esclerose Lateral Amiotrófica - ELA |
+|  | Linha acrescentada pela Lei nº 11.967, de 20/1/2026 (Art. 2º) |
+| 23/6 | Dia Municipal do Esporte |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 26/6 | Dia Municipal de Defesa e Prevenção contra o Uso de Entorpecentes |
+|  | e Substâncias que Determinem Dependência Física ou Psíquica |
+| 26/6 | Dia Municipal de Prevenção ao Uso de Drogas |
+| 26/6 | Dia Municipal de Prevenção e Combate ao Diabetes |
+| 27/6 | Dia Municipal da Dança Afro |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 28/6 | Dia Municipal contra a Discriminação por Orientação Sexual |
+| 28/6 | Dia Municipal de Combate à Intolerância |
+| 29/6 | Dia Municipal do Profissional da Segurança Eletrônica |
+| 29/6 | Dia Municipal da Pipa |
+|  | Linha acrescentada pela Lei nº 11.691, de 14/5/2024 (Art. 2º) |
+| primeiro sábado de junho | Dia Municipal da Marcha para Jesus |
+| segundo sábado de junho | Dia Municipal da Peteca |
 
 G - Dias comemorativos de julho:
 
-|JULHO |COMEMORAÇÃO |
-
-|1°/7 |Dia Municipal da Doula |
-
-| |Linha acrescentada pela Lei nº 11.769, de 30/10/2024 (Art. 2º) |
-
-|2/7 |Dia do Legislador Municipal de Belo Horizonte |
-
-|2/7 |Dia Municipal do Corpo de Bombeiros Militar de Minas Gerais |
-
-|4/7 |Dia Municipal do Futebol Americano |
-
-|4/7 |Dia Municipal do Cooperativismo BH |
-
-| |Linha acrescentada pela Lei nº 11.893, de 28/8/2025 (Art. 1º) |
-
-|5/7 |Dia Municipal do Favelado |
-
-|7/7 |Dia Municipal Dos Métodos Naturais |
-
-| |Item acrescentado pela Lei nº 11.863, de 4/6/2025 (Art. 1º) e com|
-
-| |vigência de 45 dias após sua publicação, nos termos do |
-
-| |Decreto-lei nº 4.657, de 4/9/1942 (Art. 1º) |
-
-|7/7 |Dia Municipal de Prevenção às Infecções Sexualmente |
-
-| |Transmissíveis - ISTs |
-
-| |Linha acrescentada pela Lei nº 11.907, de 6/10/2025 (Art. 2º) |
-
-|7/7 |Dia Municipal de Incentivo à Política de Planejamento Familiar |
-
-| |Linha acrescentada pela Lei nº 11.920, de 12/11/2025 (Art. 2º) |
-
-|9/7 |Dia Municipal da Busca do Espírito Santo |
-
-|9/7 |Dia Municipal de Santa Paulina |
-
-|27/7 |Dia Municipal do Motociclista e do Motoqueiro |
-
-|11/7 |Dia Municipal do Motociclista |
-
-| |Linha com redação dada pela Lei nº 11.872, de 4/7/2025 (Art. 2º) |
-
-|13/7 |Dia Municipal da Conscientização sobre o Transtorno do Déficit de|
-
-| |Atenção com Hiperatividade - TDAH |
-
-| |Linha acrescentada pela Lei nº 11.880, de 8/8/2025 (Art. 2º) |
-
-|14/7 |Dia Municipal dos Hospitais, das Entidades Filantrópicas e das |
-
-| |Entidades sem Fins Lucrativos que prestam serviço ao Sistema |
-
-| |Único de Saúde - SUS - do Município. |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|19/7 |Dia da Caridade |
-
-|20/7 |Dia do Amigo |
-
-|22/7 |Dia Municipal de Defesa e Prevenção da Osteoporose |
-
-|23/7 |Dia Municipal dos Legendários |
-
-| |Linha acrescentada pela Lei nº 11.876, de 16/7/2025 (Art. 1º) |
-
-|25/7 |Dia Municipal da Cultura e da Paz |
-
-|25/7 |Dia Municipal da Mulher Negra Dona Valdete da Silva Cordeiro |
-
-|29/7 |Dia Municipal de Conscientização sobre a Síndrome de Alopecia |
-
-| |Areata |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|30/7 |Dia Municipal do Trabalhador da Construção Civil |
-
-|terceiro domingo de julho |Dia Municipal da Parada do Orgulho LGBT |
-
-| |Linha acrescentada pela Lei nº 11.962, de 16/1/2026 (Art. 2º) |
+| JULHO | COMEMORAÇÃO |
+| --- | --- |
+| 1°/7 | Dia Municipal da Doula |
+|  | Linha acrescentada pela Lei nº 11.769, de 30/10/2024 (Art. 2º) |
+| 2/7 | Dia do Legislador Municipal de Belo Horizonte |
+| 2/7 | Dia Municipal do Corpo de Bombeiros Militar de Minas Gerais |
+| 4/7 | Dia Municipal do Futebol Americano |
+| 4/7 | Dia Municipal do Cooperativismo BH |
+|  | Linha acrescentada pela Lei nº 11.893, de 28/8/2025 (Art. 1º) |
+| 5/7 | Dia Municipal do Favelado |
+| 7/7 | Dia Municipal Dos Métodos Naturais |
+|  | Item acrescentado pela Lei nº 11.863, de 4/6/2025 (Art. 1º) e com |
+|  | vigência de 45 dias após sua publicação, nos termos do |
+|  | Decreto-lei nº 4.657, de 4/9/1942 (Art. 1º) |
+| 7/7 | Dia Municipal de Prevenção às Infecções Sexualmente |
+|  | Transmissíveis - ISTs |
+|  | Linha acrescentada pela Lei nº 11.907, de 6/10/2025 (Art. 2º) |
+| 7/7 | Dia Municipal de Incentivo à Política de Planejamento Familiar |
+|  | Linha acrescentada pela Lei nº 11.920, de 12/11/2025 (Art. 2º) |
+| 9/7 | Dia Municipal da Busca do Espírito Santo |
+| 9/7 | Dia Municipal de Santa Paulina |
+| 27/7 | Dia Municipal do Motociclista e do Motoqueiro |
+| 11/7 | Dia Municipal do Motociclista |
+|  | Linha com redação dada pela Lei nº 11.872, de 4/7/2025 (Art. 2º) |
+| 13/7 | Dia Municipal da Conscientização sobre o Transtorno do Déficit de |
+|  | Atenção com Hiperatividade - TDAH |
+|  | Linha acrescentada pela Lei nº 11.880, de 8/8/2025 (Art. 2º) |
+| 14/7 | Dia Municipal dos Hospitais, das Entidades Filantrópicas e das |
+|  | Entidades sem Fins Lucrativos que prestam serviço ao Sistema |
+|  | Único de Saúde - SUS - do Município. |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 19/7 | Dia da Caridade |
+| 20/7 | Dia do Amigo |
+| 22/7 | Dia Municipal de Defesa e Prevenção da Osteoporose |
+| 23/7 | Dia Municipal dos Legendários |
+|  | Linha acrescentada pela Lei nº 11.876, de 16/7/2025 (Art. 1º) |
+| 25/7 | Dia Municipal da Cultura e da Paz |
+| 25/7 | Dia Municipal da Mulher Negra Dona Valdete da Silva Cordeiro |
+| 29/7 | Dia Municipal de Conscientização sobre a Síndrome de Alopecia |
+|  | Areata |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 30/7 | Dia Municipal do Trabalhador da Construção Civil |
+| terceiro domingo de julho | Dia Municipal da Parada do Orgulho LGBT |
+|  | Linha acrescentada pela Lei nº 11.962, de 16/1/2026 (Art. 2º) |
 
 H - Dias comemorativos de agosto:
 
-|AGOSTO |COMEMORAÇÃO |
-
-|2/8 |Dia Municipal da Ordem Rosacruz |
-
-|3/8 |Dia do Capoeirista |
-
-|3/8 |Dia Municipal da Capoeira |
-
-|3/8 |Dia Municipal do Skate |
-
-|6/8 |Dia Municipal da Tecnologia da Informação |
-
-|6/8 |Dia Municipal do Ar |
-
-|8/8 |Dia Municipal de São Domingos |
-
-|10/8 |Dia Municipal do Agente de Segurança Socioeducativo |
-
-|11/8 |Dia do Garçom e do Profissional de Eventos |
-
-|11/8 |Dia do Mâitre |
-
-|11/8 |Dia Municipal do Advogado |
-
-|13/8 |Dia do Economista |
-
-|15/8 |Dia do Mutirão da Saúde |
-
-|15/8 |Dia Municipal do Congado |
-
-|17/8 |Dia do Camelô |
-
-|20/8 |Dia Municipal do Maçom |
-
-|25/8 |Dia Municipal do Guarda Municipal de Belo Horizonte |
-
-|27/8 |Dia Municipal da Luta de Braço |
-
-|28/8 |Dia Nacional dos Bancários |
-
-|30/8 |Dia Municipal de Padre Eustáquio |
-
-|31/8 |Dia Municipal da Reciclagem |
-
-|último domingo de agosto |Dia Municipal do Catador de Papel e Outros Materiais Recicláveis |
+| AGOSTO | COMEMORAÇÃO |
+| --- | --- |
+| 2/8 | Dia Municipal da Ordem Rosacruz |
+| 3/8 | Dia do Capoeirista |
+| 3/8 | Dia Municipal da Capoeira |
+| 3/8 | Dia Municipal do Skate |
+| 6/8 | Dia Municipal da Tecnologia da Informação |
+| 6/8 | Dia Municipal do Ar |
+| 8/8 | Dia Municipal de São Domingos |
+| 10/8 | Dia Municipal do Agente de Segurança Socioeducativo |
+| 11/8 | Dia do Garçom e do Profissional de Eventos |
+| 11/8 | Dia do Mâitre |
+| 11/8 | Dia Municipal do Advogado |
+| 13/8 | Dia do Economista |
+| 15/8 | Dia do Mutirão da Saúde |
+| 15/8 | Dia Municipal do Congado |
+| 17/8 | Dia do Camelô |
+| 20/8 | Dia Municipal do Maçom |
+| 25/8 | Dia Municipal do Guarda Municipal de Belo Horizonte |
+| 27/8 | Dia Municipal da Luta de Braço |
+| 28/8 | Dia Nacional dos Bancários |
+| 30/8 | Dia Municipal de Padre Eustáquio |
+| 31/8 | Dia Municipal da Reciclagem |
+| último domingo de agosto | Dia Municipal do Catador de Papel e Outros Materiais Recicláveis |
 
 H - Dias comemorativos de agosto:
 
-|AGOSTO |COMEMORAÇÃO |
-
-|2/8 |Dia Municipal da Ordem Rosacruz |
-
-|3/8 |Dia do Capoeirista |
-
-|3/8 |Dia Municipal da Capoeira |
-
-|3/8 |Dia Municipal do Skate |
-
-|3/8 |Dia Municipal do Atirador Desportivo |
-
-| |Linha acrescentada pela Lei nº 11.883, de 11/8/2025 (Art. 2º) |
-
-|3/8 |Dia Municipal de Comemoração do Aniversário do Barreiro |
-
-| |Linha acrescentada pela Lei nº 11.902, de 24/9/2025 (Art. 2º) |
-
-|5/8 |Dia Municipal do Profissional da Saúde |
-
-| |Linha acrescentada pela Lei nº 11.858, de 27/5/2025 (Art. 2º) |
-
-|6/8 |Dia Municipal da Tecnologia da Informação |
-
-|6/8 |Dia Municipal do Ar |
-
-|6/8 |Dia Municipal do Cônsul |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|7/8 |Dia Municipal de Luta contra o Feminicídio |
-
-| |Linha acrescentada pela Lei nº 11.973, de 18/3/2026 (Art. 2º) |
-
-|8/8 |Dia Municipal de São Domingos |
-
-|10/8 |Dia Municipal do Agente de Segurança Socioeducativo |
-
-|10/8 |Dia Municipal do Protetor de Animais |
-
-|11/8 |Dia do Garçom e do Profissional de Eventos |
-
-|11/8 |Dia do Mâitre |
-
-|11/8 |Dia Municipal do Advogado |
-
-|11/8 |Dia Municipal do Gari |
-
-| |Linha acrescentada pela Lei nº 11.950, de 8/1/2026 (Art. 2º) |
-
-|12/8 |Dia Municipal da Juventude Sadia Sem Drogas |
-
-| |Linha acrescentada pela Lei nº 11.889, de 27/8/2025 (Art. 2º) |
-
-|13/8 |Dia do Economista |
-
-|15/8 |Dia do Mutirão da Saúde |
-
-|15/8 |Dia Municipal do Congado |
-
-|17/8 |Dia do Camelô |
-
-|20/8 |Dia Municipal do Maçom |
-
-|25/8 |Dia Municipal do Guarda Municipal de Belo Horizonte |
-
-|25/8 |Dia Municipal de Combate à Trombofilia |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|27/8 |Dia Municipal da Luta de Braço |
-
-|28/8 |Dia Nacional dos Bancários |
-
-|28/8 |Dia Municipal do Esporte Olímpico Flag Football |
-
-| |Linha acrescentada pela Lei nº 12.083, de 21/7/2026 (Art. 2º) |
-
-|29/8 |Dia Municipal do Cipeiro |
-
-| |Linha acrescentada pela Lei nº 11.857, de 27/5/2025 (Art. 2º) |
-
-|30/8 |Dia Municipal de Padre Eustáquio |
-
-|30/8 |Dia Municipal do Perdão |
-
-| |Linha acrescentada pela Lei nº 11.739, de 29/8/2024 (Art. 2º) |
-
-|31/8 |Dia Municipal da Reciclagem |
-
-|último domingo de agosto |Dia Municipal do Catador de Papel e Outros Materiais Recicláveis |
-
-|Terceiro domingo de agosto |Dia Municipal do Obreiro Universal |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| AGOSTO | COMEMORAÇÃO |
+| --- | --- |
+| 2/8 | Dia Municipal da Ordem Rosacruz |
+| 3/8 | Dia do Capoeirista |
+| 3/8 | Dia Municipal da Capoeira |
+| 3/8 | Dia Municipal do Skate |
+| 3/8 | Dia Municipal do Atirador Desportivo |
+|  | Linha acrescentada pela Lei nº 11.883, de 11/8/2025 (Art. 2º) |
+| 3/8 | Dia Municipal de Comemoração do Aniversário do Barreiro |
+|  | Linha acrescentada pela Lei nº 11.902, de 24/9/2025 (Art. 2º) |
+| 5/8 | Dia Municipal do Profissional da Saúde |
+|  | Linha acrescentada pela Lei nº 11.858, de 27/5/2025 (Art. 2º) |
+| 6/8 | Dia Municipal da Tecnologia da Informação |
+| 6/8 | Dia Municipal do Ar |
+| 6/8 | Dia Municipal do Cônsul |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 7/8 | Dia Municipal de Luta contra o Feminicídio |
+|  | Linha acrescentada pela Lei nº 11.973, de 18/3/2026 (Art. 2º) |
+| 8/8 | Dia Municipal de São Domingos |
+| 10/8 | Dia Municipal do Agente de Segurança Socioeducativo |
+| 10/8 | Dia Municipal do Protetor de Animais |
+| 11/8 | Dia do Garçom e do Profissional de Eventos |
+| 11/8 | Dia do Mâitre |
+| 11/8 | Dia Municipal do Advogado |
+| 11/8 | Dia Municipal do Gari |
+|  | Linha acrescentada pela Lei nº 11.950, de 8/1/2026 (Art. 2º) |
+| 12/8 | Dia Municipal da Juventude Sadia Sem Drogas |
+|  | Linha acrescentada pela Lei nº 11.889, de 27/8/2025 (Art. 2º) |
+| 13/8 | Dia do Economista |
+| 15/8 | Dia do Mutirão da Saúde |
+| 15/8 | Dia Municipal do Congado |
+| 17/8 | Dia do Camelô |
+| 20/8 | Dia Municipal do Maçom |
+| 25/8 | Dia Municipal do Guarda Municipal de Belo Horizonte |
+| 25/8 | Dia Municipal de Combate à Trombofilia |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 27/8 | Dia Municipal da Luta de Braço |
+| 28/8 | Dia Nacional dos Bancários |
+| 28/8 | Dia Municipal do Esporte Olímpico Flag Football |
+|  | Linha acrescentada pela Lei nº 12.083, de 21/7/2026 (Art. 2º) |
+| 29/8 | Dia Municipal do Cipeiro |
+|  | Linha acrescentada pela Lei nº 11.857, de 27/5/2025 (Art. 2º) |
+| 30/8 | Dia Municipal de Padre Eustáquio |
+| 30/8 | Dia Municipal do Perdão |
+|  | Linha acrescentada pela Lei nº 11.739, de 29/8/2024 (Art. 2º) |
+| 31/8 | Dia Municipal da Reciclagem |
+| último domingo de agosto | Dia Municipal do Catador de Papel e Outros Materiais Recicláveis |
+| Terceiro domingo de agosto | Dia Municipal do Obreiro Universal |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
 
 Letra “H” com redação dada pela Lei nº 11.432 de 2/12/2022 (Art. 2º)
 
 I - Dias comemorativos de setembro:
 
-|SETEMBRO |COMEMORAÇÃO |
-
-|1º/9 |Dia Municipal da Policial Militar Feminina |
-
-|1º/9 |Dia Municipal do Ciclista |
-
-|1º/9 |Dia do Profissional de Educação Física |
-
-| |Linha acrescentada pela Lei nº 11.664, de 8/3/2024 (Art.2ºº) |
-
-|5/9 |Dia Municipal de Conscientização da Fibrose Cística - |
-
-| |Mucoviscidose |
-
-|5/9 |Dia Municipal do Desarmamento |
-
-|13/9 |Dia Municipal das Donas de Casa |
-
-|l4/9 |Dia do Ascensorista |
-
-|15/9 |Dia do Cliente |
-
-|18/9 |Dia da Seresta |
-
-|18/9 |Dia Municipal do Agente de Trânsito |
-
-|18/9 |Dia Municipal do Imigrante |
-
-|19/9 |Dia Municipal da Mobilização Social pela Educação |
-
-|19/9 |Dia Municipal da Proteção e Defesa Civil |
-
-| |Linha acrescentada pela Lei nº 11.565, de 8/3/2024 (Art.2º) |
-
-|20/9 |Dia da Cultura Racional |
-
-|20/9 |Dia Municipal dos Desbravadores |
-
-|20/9 dos anos eleitorais |Dia Municipal de Conscientização sobre o Voto |
-
-|21/9 |Dia Municipal da Luta das Pessoas com Deficiência |
-
-|21/9 |Dia Municipal de Reabilitação |
-
-|21/9 |Dia Municipal de Prevenção à Doença de Alzheimer |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|21/9 |Dia do Florescer da Autoestima da Mulher |
-
-| |Linha acrescentada pela Lei nº 11.636, de 15/12/2023 (Art. 2º) |
-
-|21/9 |Dia Municipal do Córrego Cercadinho |
-
-| |Linha acrescentada pela Lei nº 11.921, de 12/11/2025 (Art. 1º) |
-
-|22/9 |Dia do Artista Plástico |
-
-|22/9 |Dia Municipal do Pedestre |
-
-|23/9 |Dia Municipal da Juventude |
-
-|23/9 |Dia Municipal do Atleta Paralímpico |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|23/9 |Dia Municipal da Língua de Sinais |
-
-| |Linha acrescentada pela Lei nº 11.881, de 11/8/2025 (Art. 2º) |
-
-|25/9 |Dia Municipal das Associações de Moradores de Bairro, dos |
-
-| |Conselhos Comunitários e Assemelhados |
-
-|25/9 |Dia Municipal do Motorista de Táxi |
-
-|25/9 |DIA DA EDUCAÇÃO CLIMÁTICA |
-
-| |Linha acrescentada pela Lei nº 11.755, de 1º/10/2024 (Art. 2º) |
-
-|26/9 |Dia do Controlador de Pragas |
-
-|26/9 |Dia Municipal dos Surdos |
-
-|27/9 |Dia Municipal do Doador de Órgãos e Tecidos |
-
-|27/9 |Dia Municipal do Idoso |
-
-|28/9 |Dia Municipal de Conscientização sobre a Síndrome de |
-
-| |Arnold-Chiari |
-
-| |Linha acrescentada pela Lei nº 11.700, de 7/6/2024 (Art. 2º) |
-
-|30/9 |Dia do Teatro Mineiro |
-
-|primeiro domingo de setembro |Dia Municipal do Carroceiro |
-
-|terceiro sábado de setembro |Dia Municipal da Cidade sem Carro |
+| SETEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 1º/9 | Dia Municipal da Policial Militar Feminina |
+| 1º/9 | Dia Municipal do Ciclista |
+| 1º/9 | Dia do Profissional de Educação Física |
+|  | Linha acrescentada pela Lei nº 11.664, de 8/3/2024 (Art.2ºº) |
+| 5/9 | Dia Municipal de Conscientização da Fibrose Cística - |
+|  | Mucoviscidose |
+| 5/9 | Dia Municipal do Desarmamento |
+| 13/9 | Dia Municipal das Donas de Casa |
+| l4/9 | Dia do Ascensorista |
+| 15/9 | Dia do Cliente |
+| 18/9 | Dia da Seresta |
+| 18/9 | Dia Municipal do Agente de Trânsito |
+| 18/9 | Dia Municipal do Imigrante |
+| 19/9 | Dia Municipal da Mobilização Social pela Educação |
+| 19/9 | Dia Municipal da Proteção e Defesa Civil |
+|  | Linha acrescentada pela Lei nº 11.565, de 8/3/2024 (Art.2º) |
+| 20/9 | Dia da Cultura Racional |
+| 20/9 | Dia Municipal dos Desbravadores |
+| 20/9 dos anos eleitorais | Dia Municipal de Conscientização sobre o Voto |
+| 21/9 | Dia Municipal da Luta das Pessoas com Deficiência |
+| 21/9 | Dia Municipal de Reabilitação |
+| 21/9 | Dia Municipal de Prevenção à Doença de Alzheimer |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 21/9 | Dia do Florescer da Autoestima da Mulher |
+|  | Linha acrescentada pela Lei nº 11.636, de 15/12/2023 (Art. 2º) |
+| 21/9 | Dia Municipal do Córrego Cercadinho |
+|  | Linha acrescentada pela Lei nº 11.921, de 12/11/2025 (Art. 1º) |
+| 22/9 | Dia do Artista Plástico |
+| 22/9 | Dia Municipal do Pedestre |
+| 23/9 | Dia Municipal da Juventude |
+| 23/9 | Dia Municipal do Atleta Paralímpico |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 23/9 | Dia Municipal da Língua de Sinais |
+|  | Linha acrescentada pela Lei nº 11.881, de 11/8/2025 (Art. 2º) |
+| 25/9 | Dia Municipal das Associações de Moradores de Bairro, dos |
+|  | Conselhos Comunitários e Assemelhados |
+| 25/9 | Dia Municipal do Motorista de Táxi |
+| 25/9 | DIA DA EDUCAÇÃO CLIMÁTICA |
+|  | Linha acrescentada pela Lei nº 11.755, de 1º/10/2024 (Art. 2º) |
+| 26/9 | Dia do Controlador de Pragas |
+| 26/9 | Dia Municipal dos Surdos |
+| 27/9 | Dia Municipal do Doador de Órgãos e Tecidos |
+| 27/9 | Dia Municipal do Idoso |
+| 28/9 | Dia Municipal de Conscientização sobre a Síndrome de |
+|  | Arnold-Chiari |
+|  | Linha acrescentada pela Lei nº 11.700, de 7/6/2024 (Art. 2º) |
+| 30/9 | Dia do Teatro Mineiro |
+| primeiro domingo de setembro | Dia Municipal do Carroceiro |
+| terceiro sábado de setembro | Dia Municipal da Cidade sem Carro |
 
 J - Dias comemorativos de outubro:
 
-|OUTUBRO |COMEMORAÇÃO |
-
-|1/10 |Dia Municipal do Socorrista do Serviço de Atendimento Móvel de |
-
-| |Urgência – Samu |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|2/10 |Dia Municipal de Conscientização sobre a Síndrome de Moebius |
-
-| |Linha acrescentada pela Lei nº 11.770, de 30/10/2024 (Art. 2º) |
-
-|4/10 |Dia Municipal de Defesa da Vida |
-
-|4/10 |Dia Municipal de Proteção aos Animais |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|4/10 |Dia Municipal do Agente Comunitário de Saúde, do Agente de |
-
-| |Combate a Endemias e do Agente Sanitário. |
-
-| |Linha acrescentada pela Lei nº 11.743, de 13/9/2024 (Art. 2º) |
-
-|5/10 |Dia Municipal do Líder Comunitário |
-
-|8/10 |Dia Municipal do Serviço Leonístico |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|11/10 |Dia Municipal dos Evangélicos |
-
-|12/10 |Dia Municipal da Leitura |
-
-|12/10 |Dia Municipal de Conscientização contra a Violência Infantil |
-
-|13/10 |Dia do Advogado Público |
-
-|16/10 |Dia Municipal da Alimentação Saudável |
-
-|16 de outubro |Dia Municipal Alusivo ao Programa Desperdício Zero |
-
-| |Linha acrescentada pela Lei nº 12.058, de 25/6/2026 (Art. 3º) |
-
-|17/10 |Dia do Eletricista e do Bombeiro Hidráulico |
-
-|17/10 |Dia de Luto e de Memória às Mulheres Vítimas de Feminicídio |
-
-| |Linha acrescentada pela Lei nº 12.106, de 11/8/2026 (Art. 2º) |
-
-|19/10 |Dia do Procurador do Município |
-
-| |Linha acrescentada pela Lei nº 11.864, de 13/6/2025 (Art. 1º) |
-
-|19/10 |Dia Municipal do Cientista do Estado |
-
-| |Linha acrescentada pela Lei nº 11.927, de 24/11/2025 (Art. 2º) |
-
-|20/10 |Dia Municipal do Profissional e do Dirigente de |
-
-| |Creches Comunitárias, Filantrópicas e |
-
-| |Confessionais |
-
-| |Linha acrescentada pela Lei nº 11.928, de 24/11/2025 (Art. 2º) |
-
-|21/10 |Dia Municipal de Doação de Medula Óssea |
-
-|25/10 |Dia Municipal do Cirurgião-Dentista |
-
-|25/10 |Dia Municipal de Conscientização e Combate ao Preconceito contra |
-
-| |Pessoas com Nanismo |
-
-| |Linha acrescentada pela Lei nº 11.974, de 18/3/2026 (Art. 2º) |
-
-|27/10 |Dia da Paz do Espírito de Assis |
-
-|29/10 |Dia Municipal do Combate à Psoríase |
-
-|30/10 |Dia Municipal do Líder Comunitário |
-
-|31/10 |Dia Municipal da Poesia |
-
-|31/10 |Dia Municipal da Reforma Protestante |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|primeiro domingo de outubro |Dia Municipal da Caminhada |
-
-|primeiro domingo de outubro |Dia Municipal do Aposentado |
-
-|terceira segunda-feira de |Dia do Comerciário |
-
-|outubro | |
+| OUTUBRO | COMEMORAÇÃO |
+| --- | --- |
+| 1/10 | Dia Municipal do Socorrista do Serviço de Atendimento Móvel de |
+|  | Urgência – Samu |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 2/10 | Dia Municipal de Conscientização sobre a Síndrome de Moebius |
+|  | Linha acrescentada pela Lei nº 11.770, de 30/10/2024 (Art. 2º) |
+| 4/10 | Dia Municipal de Defesa da Vida |
+| 4/10 | Dia Municipal de Proteção aos Animais |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 4/10 | Dia Municipal do Agente Comunitário de Saúde, do Agente de |
+|  | Combate a Endemias e do Agente Sanitário. |
+|  | Linha acrescentada pela Lei nº 11.743, de 13/9/2024 (Art. 2º) |
+| 5/10 | Dia Municipal do Líder Comunitário |
+| 8/10 | Dia Municipal do Serviço Leonístico |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 11/10 | Dia Municipal dos Evangélicos |
+| 12/10 | Dia Municipal da Leitura |
+| 12/10 | Dia Municipal de Conscientização contra a Violência Infantil |
+| 13/10 | Dia do Advogado Público |
+| 16/10 | Dia Municipal da Alimentação Saudável |
+| 16 de outubro | Dia Municipal Alusivo ao Programa Desperdício Zero |
+|  | Linha acrescentada pela Lei nº 12.058, de 25/6/2026 (Art. 3º) |
+| 17/10 | Dia do Eletricista e do Bombeiro Hidráulico |
+| 17/10 | Dia de Luto e de Memória às Mulheres Vítimas de Feminicídio |
+|  | Linha acrescentada pela Lei nº 12.106, de 11/8/2026 (Art. 2º) |
+| 19/10 | Dia do Procurador do Município |
+|  | Linha acrescentada pela Lei nº 11.864, de 13/6/2025 (Art. 1º) |
+| 19/10 | Dia Municipal do Cientista do Estado |
+|  | Linha acrescentada pela Lei nº 11.927, de 24/11/2025 (Art. 2º) |
+| 20/10 | Dia Municipal do Profissional e do Dirigente de |
+|  | Creches Comunitárias, Filantrópicas e |
+|  | Confessionais |
+|  | Linha acrescentada pela Lei nº 11.928, de 24/11/2025 (Art. 2º) |
+| 21/10 | Dia Municipal de Doação de Medula Óssea |
+| 25/10 | Dia Municipal do Cirurgião-Dentista |
+| 25/10 | Dia Municipal de Conscientização e Combate ao Preconceito contra |
+|  | Pessoas com Nanismo |
+|  | Linha acrescentada pela Lei nº 11.974, de 18/3/2026 (Art. 2º) |
+| 27/10 | Dia da Paz do Espírito de Assis |
+| 29/10 | Dia Municipal do Combate à Psoríase |
+| 30/10 | Dia Municipal do Líder Comunitário |
+| 31/10 | Dia Municipal da Poesia |
+| 31/10 | Dia Municipal da Reforma Protestante |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| primeiro domingo de outubro | Dia Municipal da Caminhada |
+| primeiro domingo de outubro | Dia Municipal do Aposentado |
+| terceira segunda-feira de | Dia do Comerciário |
+| outubro |  |
 
 K - Dias comemorativos de novembro:
 
-|NOVEMBRO |COMEMORAÇÃO |
-
-|1º/11 |Dia do Heavy Metal |
-
-| |Linha acrescentada pela Lei nº 11.859, de 28/5/2025 (Art. 2º) |
-
-|3/11 |Dia Municipal do Cabeleireiro |
-
-|5/11 |Dia dos Técnicos em Prótese Dentária |
-
-|9/11 |Dia Municipal do Hoteleiro |
-
-|9/11 |Dia Municipal de Combate ao Antissemitismo e ao Fascismo |
-
-| |Linha acrescentada pela Lei nº 11.688, de 26/4/2024 (Art. 1º) |
-
-|11/11 |Dia Municipal do Resgate Voluntário |
-
-|12/11 |Dia Municipal do Hip Hop |
-
-|12/11 |Dia Municipal de Conscientização sobre a Surdo-Cegueira |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|12/11 |Dia Municipal do Psicopedagogo |
-
-| |Linha acrescentada pela Lei nº 11.761, de 16/10/2024 (Art. 2º) |
-
-|14/11 |Dia Municipal dos Copasianos |
-
-|16/11 |Dia do Imigrante Sírio |
-
-|16/11 |Dia Municipal do Ostomizado |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|17/11 |Dia Municipal de Prevenção e Combate ao Câncer de Próstata |
-
-|17/11 |Dia Municipal da Prematuridade |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|18/11 |Dia do Conselheiro e da Conselheira Tutelar no Município de Belo |
-
-| |Horizonte |
-
-|20/11 |Dia Municipal da Consciência Negra |
-
-|22/11 |Dia Municipal do Músico |
-
-| |Linha acrescentada pela Lei nº 11.635, de 15/12/2023 (Art. 2º) |
-
-|24/11 |Dia do Vovô |
-
-|25/11 |Dia Municipal de Combate à Violência contra a Mulher |
-
-| |Linha acrescentada pela Lei nº 12.130, de 10/9/2026 (Art. 2º) |
-
-|29/11 |Dia da Solidariedade ao Povo Palestino |
-
-|29/11 |Dia Municipal do Acupunturista |
-
-|primeiro sábado de novembro |Dia da Cultura Gospel |
+| NOVEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 1º/11 | Dia do Heavy Metal |
+|  | Linha acrescentada pela Lei nº 11.859, de 28/5/2025 (Art. 2º) |
+| 3/11 | Dia Municipal do Cabeleireiro |
+| 5/11 | Dia dos Técnicos em Prótese Dentária |
+| 9/11 | Dia Municipal do Hoteleiro |
+| 9/11 | Dia Municipal de Combate ao Antissemitismo e ao Fascismo |
+|  | Linha acrescentada pela Lei nº 11.688, de 26/4/2024 (Art. 1º) |
+| 11/11 | Dia Municipal do Resgate Voluntário |
+| 12/11 | Dia Municipal do Hip Hop |
+| 12/11 | Dia Municipal de Conscientização sobre a Surdo-Cegueira |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 12/11 | Dia Municipal do Psicopedagogo |
+|  | Linha acrescentada pela Lei nº 11.761, de 16/10/2024 (Art. 2º) |
+| 14/11 | Dia Municipal dos Copasianos |
+| 16/11 | Dia do Imigrante Sírio |
+| 16/11 | Dia Municipal do Ostomizado |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 17/11 | Dia Municipal de Prevenção e Combate ao Câncer de Próstata |
+| 17/11 | Dia Municipal da Prematuridade |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 18/11 | Dia do Conselheiro e da Conselheira Tutelar no Município de Belo |
+|  | Horizonte |
+| 20/11 | Dia Municipal da Consciência Negra |
+| 22/11 | Dia Municipal do Músico |
+|  | Linha acrescentada pela Lei nº 11.635, de 15/12/2023 (Art. 2º) |
+| 24/11 | Dia do Vovô |
+| 25/11 | Dia Municipal de Combate à Violência contra a Mulher |
+|  | Linha acrescentada pela Lei nº 12.130, de 10/9/2026 (Art. 2º) |
+| 29/11 | Dia da Solidariedade ao Povo Palestino |
+| 29/11 | Dia Municipal do Acupunturista |
+| primeiro sábado de novembro | Dia da Cultura Gospel |
 
 L - Dias comemorativos de dezembro:
 
-|DEZEMBRO |COMEMORAÇÃO |
-
-|5/12 |Dia Municipal do Profissional e do Dirigente de Creches |
-
-| |Comunitárias, Filantrópicas e Confessionais |
-
-| |Linha revogada pela Lei nº 11.928, de 24/11/2025 (Art. 1º) |
-
-|6/12 |Dia Municipal do Papai Noel Beneficente |
-
-|6/12 |Dia Municipal do Samba de Belo Horizonte |
-
-|7/12 |Dia Municipal de Assistência Social |
-
-|8/12 |Dia Municipal do Pico Belo Horizonte |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|9/12 |Dia Municipal da Culinarista |
-
-|10/12 |Dia do Artista |
-
-|10/12 |Dia Municipal da Defesa Animal |
-
-|12/12 |Dia de Açâo de Graças e Intercessão em Favor de Todas as |
-
-| |Autoridades Constituídas pelos Três Poderes e Delegadas |
-
-|13/12 |Dia Municipal do Forró |
-
-| |Linha acrescentada pela Lei 11.890, de 27/8/2025 (Art. 1º) |
-
-|15/12 |Dia Municipal do Esperanto |
-
-|17/12 |Dia Municipal do Coveiro |
-
-|primeiro domingo de dezembro |Dia Municipal do Voluntariado |
-
-|Segundo domingo de dezembro |Dia Municipal da Bíblia |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
-
-|primeiro domingo de dezembro |Dia Municipal de Mobilização para o Plantio de Árvores - Tempo |
-
-| |de Plantar |
-
-| |Linha acrescentada pela Lei nº 11.666 de 8/3/2024 (Art. 2º) |
+| DEZEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 5/12 | Dia Municipal do Profissional e do Dirigente de Creches |
+|  | Comunitárias, Filantrópicas e Confessionais |
+|  | Linha revogada pela Lei nº 11.928, de 24/11/2025 (Art. 1º) |
+| 6/12 | Dia Municipal do Papai Noel Beneficente |
+| 6/12 | Dia Municipal do Samba de Belo Horizonte |
+| 7/12 | Dia Municipal de Assistência Social |
+| 8/12 | Dia Municipal do Pico Belo Horizonte |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| 9/12 | Dia Municipal da Culinarista |
+| 10/12 | Dia do Artista |
+| 10/12 | Dia Municipal da Defesa Animal |
+| 12/12 | Dia de Açâo de Graças e Intercessão em Favor de Todas as |
+|  | Autoridades Constituídas pelos Três Poderes e Delegadas |
+| 13/12 | Dia Municipal do Forró |
+|  | Linha acrescentada pela Lei 11.890, de 27/8/2025 (Art. 1º) |
+| 15/12 | Dia Municipal do Esperanto |
+| 17/12 | Dia Municipal do Coveiro |
+| primeiro domingo de dezembro | Dia Municipal do Voluntariado |
+| Segundo domingo de dezembro | Dia Municipal da Bíblia |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 8º) |
+| primeiro domingo de dezembro | Dia Municipal de Mobilização para o Plantio de Árvores - Tempo |
+|  | de Plantar |
+|  | Linha acrescentada pela Lei nº 11.666 de 8/3/2024 (Art. 2º) |
 
 M - Dias móveis segundo o calendário católico:
 
-|DATA |COMEMORAÇÃO |
-
-|sábado anterior ao sábado de |Dia Municipal da Banda Mole |
-
-|Carnaval | |
-
-|domingo de Páscoa |Dia Municipal da Família |
-
-| |Dia Municipal de Combate à Cristofobia |
-
-| |Linha acrescentada pela Lei nº 11.894 de 2/9/2025 (Art. 2º) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| sábado anterior ao sábado de | Dia Municipal da Banda Mole |
+| Carnaval |  |
+| domingo de Páscoa | Dia Municipal da Família |
+|  | Dia Municipal de Combate à Cristofobia |
+|  | Linha acrescentada pela Lei nº 11.894 de 2/9/2025 (Art. 2º) |
 
 N - Dias comemorativos móveis:
 
-|DATA |COMEMORAÇÃO |
-
-|terça-feira subsequente ao Dia |Dia Municipal de Doar |
-
-|Nacional de Ação de Graças | |
-
-|Data móvel entre setembro e |Dia Municipal de Comemoração Sociocultural Ibrachina |
-
-|outubro |Linha acrescentada pela Lei nº 11.936 de 19/12/2025 (Art. 2º) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| terça-feira subsequente ao Dia | Dia Municipal de Doar |
+| Nacional de Ação de Graças |  |
+| Data móvel entre setembro e | Dia Municipal de Comemoração Sociocultural Ibrachina |
+| outubro | Linha acrescentada pela Lei nº 11.936 de 19/12/2025 (Art. 2º) |
 
 Letra N acrescentada pela Lei nº 11.837, de 25/3/2025 (Art. 2º)
 
@@ -3600,593 +3170,341 @@ SEMANA COMEMORATIVA
 
 A - Semanas comemorativas de janeiro:
 
-|DATA |COMEMORAÇÃO |
-
-|última semana de janeiro |Semana de Conscientização pelo Uso Racional de Medicamentos |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| última semana de janeiro | Semana de Conscientização pelo Uso Racional de Medicamentos |
 
 B - Semanas comemorativas de fevereiro:
 
-|DATA |COMEMORAÇÃO |
-
-|primeira semana de fevereiro |Semana Municipal de Luta pela Melhoria da Qualidade de |
-
-| |Vida do Morador de Vila e Favela |
-
-|primeira semana de aulas |Semana de Conscientização sobre o Trote Solidário |
-
-|universitárias de fevereiro | |
-
-|18 a 24/2 |Semana Municipal de Combate ao Alcoolismo Infanto-Juvenil |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| primeira semana de fevereiro | Semana Municipal de Luta pela Melhoria da Qualidade de |
+|  | Vida do Morador de Vila e Favela |
+| primeira semana de aulas | Semana de Conscientização sobre o Trote Solidário |
+| universitárias de fevereiro |  |
+| 18 a 24/2 | Semana Municipal de Combate ao Alcoolismo Infanto-Juvenil |
 
 C - Semanas comemorativas de março:
 
-|DATA |COMEMORAÇÃO |
-
-|Primeira semana de março |Semana Municipal da Mamografia |
-
-|Primeira semana de março |Semana Escolar de Conscientização sobre a Importância dos |
-
-| |Primeiros Socorros |
-
-| |Linha acrescentada pela Lei nº 12.131, de 10/9/2026 (Art. |
-
-| |2º) |
-
-|semana que contenha o dia 8/3, se dia|Semana da Mulher |
-
-|útil, ou semana do dia útil | |
-
-|subsequente | |
-
-|Semana que contenha o dia 8/3 |Semana Municipal de Conscientização, Prevenção e Combate |
-
-| |ao HPV |
-
-| |Linha acrescentada pela Lei nº 11.719, de 11/7/2024 (Art. |
-
-| |2º) |
-
-|Segunda semana de março |Semana Municipal de Combate à Importunação Sexual |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|Segunda semana de março |Semana Municipal de Prevenção da Doença Renal Crônica |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|terceira semana de março |Semana da Neurodiversidade |
-
-| |Linha acrescentada pela Lei nº 11.856, de 26/5/2025 (Art. |
-
-| |2º) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Primeira semana de março | Semana Municipal da Mamografia |
+| Primeira semana de março | Semana Escolar de Conscientização sobre a Importância dos |
+|  | Primeiros Socorros |
+|  | Linha acrescentada pela Lei nº 12.131, de 10/9/2026 (Art. |
+|  | 2º) |
+| semana que contenha o dia 8/3, se dia | Semana da Mulher |
+| útil, ou semana do dia útil |  |
+| subsequente |  |
+| Semana que contenha o dia 8/3 | Semana Municipal de Conscientização, Prevenção e Combate |
+|  | ao HPV |
+|  | Linha acrescentada pela Lei nº 11.719, de 11/7/2024 (Art. |
+|  | 2º) |
+| Segunda semana de março | Semana Municipal de Combate à Importunação Sexual |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| Segunda semana de março | Semana Municipal de Prevenção da Doença Renal Crônica |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| terceira semana de março | Semana da Neurodiversidade |
+|  | Linha acrescentada pela Lei nº 11.856, de 26/5/2025 (Art. |
+|  | 2º) |
 
 D - Semanas comemorativas de abril:
 
-|DATA |COMEMORAÇÃO |
-
-|primeira semana de abril |Semana de Conscientização sobre o Autismo na Rede |
-
-| |Municipal de Ensino de Belo Horizonte |
-
-|Primeira semana de abril, coincidindo|Semana Municipal de Prevenção da Depressão |
-
-|com o Dia Mundial da Saúde | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art.|
-
-| |9º) |
-
-|semana com início no dia 7/4 |Semana da Saúde e Higiene |
-
-|Semana do dia 7 de abril |Semana de Prevenção e Combate às Intimidações Sistemáticas|
-
-| |Bullying e Cyberbullying |
-
-| |Linha acrescentada pela Lei nº 11.852, de 6/5/2025 (Art. |
-
-| |3º) |
-
-|semana que contenha o dia 21/4 |Semana dos Direitos Humanos |
-
-|última semana de abril |Semana Municipal de Prevenção e Combate ao Acidente |
-
-| |Ferroviário |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| primeira semana de abril | Semana de Conscientização sobre o Autismo na Rede |
+|  | Municipal de Ensino de Belo Horizonte |
+| Primeira semana de abril, coincidindo | Semana Municipal de Prevenção da Depressão |
+| com o Dia Mundial da Saúde | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| semana com início no dia 7/4 | Semana da Saúde e Higiene |
+| Semana do dia 7 de abril | Semana de Prevenção e Combate às Intimidações Sistemáticas |
+|  | Bullying e Cyberbullying |
+|  | Linha acrescentada pela Lei nº 11.852, de 6/5/2025 (Art. |
+|  | 3º) |
+| semana que contenha o dia 21/4 | Semana dos Direitos Humanos |
+| última semana de abril | Semana Municipal de Prevenção e Combate ao Acidente |
+|  | Ferroviário |
 
 E - Semanas comemorativas de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|primeira semana de maio |Semana da Maternidade Atípica |
-
-| |Linha acrescentada pela Lei nº 11.851, de 5/5/2025 (Art. |
-
-| |2º) |
-
-|6 (seis) primeiros dias de maio |Semana da Limpeza |
-
-|semana que antecede o Dia das Mães |Semana de Conscientização da Maternidade |
-
-|primeira semana da segunda quinzena |Semana de Móveis do Município |
-
-|de maio | |
-
-|semana que contenha o dia 18/5 |Semana Educativa de Combate à Exploração e ao Abuso Sexual|
-
-| |de Crianças e Adolescentes na Rede Municipal de Ensino |
-
-|semana que contenha o dia 25/5 |Semana Municipal de Apoio à Adoção de Crianças e |
-
-| |Adolescentes |
-
-|no mês de maio |Semana de Apoio ao Emprego e à Geração de Trabalho e Renda|
-
-|no mês de maio, a cada 2 (dois) anos |Semana da Bienal do Livro de Belo Horizonte |
-
-|Última semana do mês de maio |Semana Municipal do Brincar |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|semana que contenha o dia 30/5 |Semana de Conscientização sobre a Esclerose Múltipla |
-
-| |Linha acrescentada pela Lei nº 11.681, de 4/4/2024 (Art. |
-
-| |2º) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| primeira semana de maio | Semana da Maternidade Atípica |
+|  | Linha acrescentada pela Lei nº 11.851, de 5/5/2025 (Art. |
+|  | 2º) |
+| 6 (seis) primeiros dias de maio | Semana da Limpeza |
+| semana que antecede o Dia das Mães | Semana de Conscientização da Maternidade |
+| primeira semana da segunda quinzena | Semana de Móveis do Município |
+| de maio |  |
+| semana que contenha o dia 18/5 | Semana Educativa de Combate à Exploração e ao Abuso Sexual |
+|  | de Crianças e Adolescentes na Rede Municipal de Ensino |
+| semana que contenha o dia 25/5 | Semana Municipal de Apoio à Adoção de Crianças e |
+|  | Adolescentes |
+| no mês de maio | Semana de Apoio ao Emprego e à Geração de Trabalho e Renda |
+| no mês de maio, a cada 2 (dois) anos | Semana da Bienal do Livro de Belo Horizonte |
+| Última semana do mês de maio | Semana Municipal do Brincar |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| semana que contenha o dia 30/5 | Semana de Conscientização sobre a Esclerose Múltipla |
+|  | Linha acrescentada pela Lei nº 11.681, de 4/4/2024 (Art. |
+|  | 2º) |
 
 F - Semanas comemorativas de junho:
 
-|DATA |COMEMORAÇÃO |
-
-|5 a 12/6 |Semana dos Namorados |
-
-|semana que contenha o dia 26/6 |Semana de Defesa e Prevenção contra o Uso de Entorpecentes|
-
-| |e Substâncias que Determinem Dependência Física ou |
-
-| |Psíquica |
-
-|semana que contenha o dia 26/6 |Semana Municipal de Prevenção, Conscientização e Combate |
-
-| |ao uso de Álcool, Tabaco e Outras Drogas |
-
-|última semana de junho |Semana Municipal de Conscientização e Combate ao Cerol no |
-
-| |Município de Belo Horizonte |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 5 a 12/6 | Semana dos Namorados |
+| semana que contenha o dia 26/6 | Semana de Defesa e Prevenção contra o Uso de Entorpecentes |
+|  | e Substâncias que Determinem Dependência Física ou |
+|  | Psíquica |
+| semana que contenha o dia 26/6 | Semana Municipal de Prevenção, Conscientização e Combate |
+|  | ao uso de Álcool, Tabaco e Outras Drogas |
+| última semana de junho | Semana Municipal de Conscientização e Combate ao Cerol no |
+|  | Município de Belo Horizonte |
 
 G - Semanas comemorativas de julho:
 
-|DATA |COMEMORAÇÃO |
-
-|10 a 16/7 |Semana do Comércio |
-
-|semana que contenha o dia 11/07 |Semana da Conscientização sobre o Respeito às Leis de |
-
-| |Trânsito e a Pilotagem Segura e a Convivência Harmônica no|
-
-| |Trânsito |
-
-| |Linha acrescentada pela Lei nº 11.872, de 4/7/2025 (Art. |
-
-| |4º) |
-
-|semana que contenha o dia 22/7 |Semana de Defesa e Prevenção da Osteoporose |
-
-|última semana de julho |Semana Municipal de Prevenção do Câncer |
-
-|Última semana de julho |Semana Municipal de Orientação, Prevenção e Luta contra as|
-
-| |Hepatites Virais |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 10 a 16/7 | Semana do Comércio |
+| semana que contenha o dia 11/07 | Semana da Conscientização sobre o Respeito às Leis de |
+|  | Trânsito e a Pilotagem Segura e a Convivência Harmônica no |
+|  | Trânsito |
+|  | Linha acrescentada pela Lei nº 11.872, de 4/7/2025 (Art. |
+|  | 4º) |
+| semana que contenha o dia 22/7 | Semana de Defesa e Prevenção da Osteoporose |
+| última semana de julho | Semana Municipal de Prevenção do Câncer |
+| Última semana de julho | Semana Municipal de Orientação, Prevenção e Luta contra as |
+|  | Hepatites Virais |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
 
 H - Semanas comemorativas de agosto:
 
-|DATA |COMEMORAÇÃO |
-
-|1º a 7 de agosto |Semana Municipal da Vigilância Sanitária |
-
-|1º a 7 de agosto |Semana Municipal do Aleitamento Materno |
-
-|primeira semana de agosto |Semana Municipal de Integração e Relacionamento com outros|
-
-| |Países |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|Primeira semana de agosto |Semana Municipal Escolar de Prevenção e Combate à |
-
-| |Violência contra a Mulher |
-
-| |Linha acrescentada pela Lei nº 12.172, de 11/11/2026 (Art.|
-
-| |2º) |
-
-|Semana que contenha o dia 8/8 |Semana Municipal de Conscientização, Prevenção e Combate à|
-
-| |Esporotricose |
-
-| |Linha acrescentada pela Lei nº 11.760, de 16/10/2024 (Art.|
-
-| |1º) |
-
-|9 a 15 de agosto |Semana Municipal dos Povos Indígenas |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|semana que contenha o dia 11/8 |Semana do Programa Educar para a Família e para a Vida |
-
-|na primeira quinzena de agosto |Semana da Festa da Família na Praça do Santuário São Paulo|
-
-| |da Cruz |
-
-|semana que contenha o dia 15 de |Semana Municipal do Antigomobilismo |
-
-|agosto |Linha acrescentada pela Lei nº 11.562, de 9/8/2023 (Art. |
-
-| |2º) |
-
-|última semana letiva de agosto |Semana Municipal de Prevenção da Obesidade |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 1º a 7 de agosto | Semana Municipal da Vigilância Sanitária |
+| 1º a 7 de agosto | Semana Municipal do Aleitamento Materno |
+| primeira semana de agosto | Semana Municipal de Integração e Relacionamento com outros |
+|  | Países |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| Primeira semana de agosto | Semana Municipal Escolar de Prevenção e Combate à |
+|  | Violência contra a Mulher |
+|  | Linha acrescentada pela Lei nº 12.172, de 11/11/2026 (Art. |
+|  | 2º) |
+| Semana que contenha o dia 8/8 | Semana Municipal de Conscientização, Prevenção e Combate à |
+|  | Esporotricose |
+|  | Linha acrescentada pela Lei nº 11.760, de 16/10/2024 (Art. |
+|  | 1º) |
+| 9 a 15 de agosto | Semana Municipal dos Povos Indígenas |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| semana que contenha o dia 11/8 | Semana do Programa Educar para a Família e para a Vida |
+| na primeira quinzena de agosto | Semana da Festa da Família na Praça do Santuário São Paulo |
+|  | da Cruz |
+| semana que contenha o dia 15 de | Semana Municipal do Antigomobilismo |
+| agosto | Linha acrescentada pela Lei nº 11.562, de 9/8/2023 (Art. |
+|  | 2º) |
+| última semana letiva de agosto | Semana Municipal de Prevenção da Obesidade |
 
 I - Semanas comemorativas de setembro:
 
-|DATA |COMEMORAÇÃO |
-
-|Semana que contenha o dia 1º/9 |Semana Municipal de Conscientização contra a Violência aos|
-
-| |Ciclistas |
-
-| |Linha acrescentada pela Lei nº 11.590, de 11/9/2023 (Art. |
-
-| |2º) |
-
-|primeira semana de setembro |Semana da Família |
-
-|Primeira semana de setembro |Semana Municipal de Atualização do Cadastro Único |
-
-| |Linha acrescentada pela Lei nº 12.070, de 13/7/2026 (Art. |
-
-| |2º) |
-
-|coincidente com a Semana da Pátria |Semana Turística |
-
-|11 a 17 de setembro |Semana Municipal do Lian Gong na Promoção da Saúde |
-
-| |Linha acrescentada pela Lei nº 11.638, de 15/12/2023 (Art.|
-
-| |2º) |
-
-|segunda semana de setembro |Semana Municipal de Conscientização do Uso Racional de |
-
-| |Medicamentos |
-
-|Segunda semana de setembro |Semana Municipal de Prevenção, Conscientização e Combate à|
-
-| |Automutilação |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|semana que antecede o dia 19/9 |Semana Paulo Freire |
-
-|semana que contenha o dia 21/9 |Semana Municipal de Prevenção e Controle de Dengue |
-
-|Semana do dia 21/9 |Semana Municipal de Conscientização sobre o Uso do Cordão |
-
-| |de Girassol |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|semana que contenha o dia 27/9 |Semana do Idoso |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Semana que contenha o dia 1º/9 | Semana Municipal de Conscientização contra a Violência aos |
+|  | Ciclistas |
+|  | Linha acrescentada pela Lei nº 11.590, de 11/9/2023 (Art. |
+|  | 2º) |
+| primeira semana de setembro | Semana da Família |
+| Primeira semana de setembro | Semana Municipal de Atualização do Cadastro Único |
+|  | Linha acrescentada pela Lei nº 12.070, de 13/7/2026 (Art. |
+|  | 2º) |
+| coincidente com a Semana da Pátria | Semana Turística |
+| 11 a 17 de setembro | Semana Municipal do Lian Gong na Promoção da Saúde |
+|  | Linha acrescentada pela Lei nº 11.638, de 15/12/2023 (Art. |
+|  | 2º) |
+| segunda semana de setembro | Semana Municipal de Conscientização do Uso Racional de |
+|  | Medicamentos |
+| Segunda semana de setembro | Semana Municipal de Prevenção, Conscientização e Combate à |
+|  | Automutilação |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| semana que antecede o dia 19/9 | Semana Paulo Freire |
+| semana que contenha o dia 21/9 | Semana Municipal de Prevenção e Controle de Dengue |
+| Semana do dia 21/9 | Semana Municipal de Conscientização sobre o Uso do Cordão |
+|  | de Girassol |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| semana que contenha o dia 27/9 | Semana do Idoso |
 
 J - Semanas comemorativas de outubro:
 
-|DATA |COMEMORAÇÃO |
-
-|1º a 7/10 |Semana do Nascituro |
-
-| |Linha acrescentada pela Lei nº 11.528, de 23/6/2023 (Art. |
-
-| |2º) |
-
-|1º a 7/10 |Semana Municipal de Combate ao Antissemitismo |
-
-| |Linha acrescentada pela Lei nº 11.995, de 15/4/2026 (Art. |
-
-| |1º) |
-
-|Semana do dia 1º de outubro |Semana Municipal da Conscientização sobre a Menopausa |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|Semana que contenha o dia 4/10 |Semana de Conscientização sobre a Importância da Castração|
-
-| |e do Combate ao Câncer em Animais |
-
-| |Linha acrescentada pela Lei nº 11.772, de 30/10/2024 (Art.|
-
-| |2º) |
-
-|8 a 14/10 |Semana de Combate à Erotização da Infância |
-
-|Semana que contenha o dia 8/10 |Semana de Doação de Células-Tronco e de |
-
-| |Cordão Umbilical e Placentário |
-
-| |Linha acrescentada pela Lei nº 11.988, de 1º/4/2026 (Art. |
-
-| |3º) |
-
-|Semana do dia 15 de outubro |Semana Municipal de Conscientização sobre a Síndrome de |
-
-| |Burnout. |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|Semana que contenha o dia 16/10 |Semana Municipal de Reanimação Cardiopulmonar |
-
-| |Linha acrescentada pela Lei nº 11.771, de 30/10/2024 (Art.|
-
-| |2º) |
-
-|25 a 31/10 |Semana Municipal da Reforma Protestante |
-
-|Terceira semana de outubro |Semana Municipal de Conscientização sobre a Dislexia |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|no mês de outubro |Semana Municipal de Conscientização da Boa Convivência em |
-
-| |Estádio de Futebol |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 1º a 7/10 | Semana do Nascituro |
+|  | Linha acrescentada pela Lei nº 11.528, de 23/6/2023 (Art. |
+|  | 2º) |
+| 1º a 7/10 | Semana Municipal de Combate ao Antissemitismo |
+|  | Linha acrescentada pela Lei nº 11.995, de 15/4/2026 (Art. |
+|  | 1º) |
+| Semana do dia 1º de outubro | Semana Municipal da Conscientização sobre a Menopausa |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| Semana que contenha o dia 4/10 | Semana de Conscientização sobre a Importância da Castração |
+|  | e do Combate ao Câncer em Animais |
+|  | Linha acrescentada pela Lei nº 11.772, de 30/10/2024 (Art. |
+|  | 2º) |
+| 8 a 14/10 | Semana de Combate à Erotização da Infância |
+| Semana que contenha o dia 8/10 | Semana de Doação de Células-Tronco e de |
+|  | Cordão Umbilical e Placentário |
+|  | Linha acrescentada pela Lei nº 11.988, de 1º/4/2026 (Art. |
+|  | 3º) |
+| Semana do dia 15 de outubro | Semana Municipal de Conscientização sobre a Síndrome de |
+|  | Burnout. |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| Semana que contenha o dia 16/10 | Semana Municipal de Reanimação Cardiopulmonar |
+|  | Linha acrescentada pela Lei nº 11.771, de 30/10/2024 (Art. |
+|  | 2º) |
+| 25 a 31/10 | Semana Municipal da Reforma Protestante |
+| Terceira semana de outubro | Semana Municipal de Conscientização sobre a Dislexia |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| no mês de outubro | Semana Municipal de Conscientização da Boa Convivência em |
+|  | Estádio de Futebol |
 
 K - Semanas comemorativas de novembro:
 
-|DATA |COMEMORAÇÃO |
-
-|primeira semana de novembro |Semana de Prevenção ao Câncer Bucal |
-
-|primeira semana de novembro |Semana do Combate à Verminose e à Protozoose |
-
-|segunda semana de novembro |Semana Municipal do Jovem Empreendedor |
-
-|semana que antecede o dia 12/11 |Semana Municipal do Hip Hop |
-
-|semana que contenha o dia 14/11 |Semana Municipal de Prevenção e Controle da Hipertensão |
-
-| |Arterial |
-
-|Semana que contenha o dia 14 |Semana Municipal de Prevenção e Combate ao Diabetes |
-
-| |Linha acrescentada pela Lei nº 11.637, de 15/12/2023 (Art.|
-
-| |2º) |
-
-|Semana do dia 17/11 |Semana Municipal da Prematuridade |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|semana com término no dia 20/11 |Semana de Conscientização Negra |
-
-|20 a 27/11 |Semana da Anemia Falciforme |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| primeira semana de novembro | Semana de Prevenção ao Câncer Bucal |
+| primeira semana de novembro | Semana do Combate à Verminose e à Protozoose |
+| segunda semana de novembro | Semana Municipal do Jovem Empreendedor |
+| semana que antecede o dia 12/11 | Semana Municipal do Hip Hop |
+| semana que contenha o dia 14/11 | Semana Municipal de Prevenção e Controle da Hipertensão |
+|  | Arterial |
+| Semana que contenha o dia 14 | Semana Municipal de Prevenção e Combate ao Diabetes |
+|  | Linha acrescentada pela Lei nº 11.637, de 15/12/2023 (Art. |
+|  | 2º) |
+| Semana do dia 17/11 | Semana Municipal da Prematuridade |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| semana com término no dia 20/11 | Semana de Conscientização Negra |
+| 20 a 27/11 | Semana da Anemia Falciforme |
 
 L - Semanas comemorativas de dezembro:
 
-|DATA |COMEMORAÇÃO |
-
-|primeira semana de dezembro |Semana Municipal da Responsabilidade Social Empresarial |
-
-|7 a 14 de dezembro |Semana Municipal de Mobilização para Doação de Medula |
-
-| |Óssea |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
-
-| |9º) |
-
-|semana que contenha o dia 12/12 |Semana da Gentileza Urbana e Cidadania |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| primeira semana de dezembro | Semana Municipal da Responsabilidade Social Empresarial |
+| 7 a 14 de dezembro | Semana Municipal de Mobilização para Doação de Medula |
+|  | Óssea |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. |
+|  | 9º) |
+| semana que contenha o dia 12/12 | Semana da Gentileza Urbana e Cidadania |
 
 M - Outras semanas comemorativas:
 
-|DATA |COMEMORAÇÃO |
-
-|definida pelo Executivo |Semana de Prevenção de Acidentes |
-
-|definida mediante consenso entre o |Semana da Moda do Barro Preto |
-
-|Executivo e a classe representativa | |
-
-|dos empresários do Bairro Barro Preto| |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| definida pelo Executivo | Semana de Prevenção de Acidentes |
+| definida mediante consenso entre o | Semana da Moda do Barro Preto |
+| Executivo e a classe representativa |  |
+| dos empresários do Bairro Barro Preto |  |
 
 ANEXO III
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|janeiro |Janeiro Branco |
-
-|janeiro |Janeiro Verde - Combate à Meningite |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
-
-| |(Art. 10) |
-
-|todos os domingos de janeiro |Mês de Cultura na Praça |
-
-|fevereiro |Fevereiro Roxo e Laranja |
-
-| |Linha acrescentada pela Lei nº 11.888, de 27/8/2025 |
-
-| |(Art. 2º) |
-
-|abril |Abril Verde - Prevenção de Acidentes e de Doenças do |
-
-| |Trabalho |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
-
-| |(Art. 10) |
-
-|abril |Abril Azul - Conscientização sobre o autismo |
-
-| |Linha acrescentada pela Lei nº 11.855, de 26/5/2025 |
-
-| |(Art. 2º) |
-
-|abril |Mês da Conscientização da Doença de Parkinson, |
-
-| |denominado Tulipa Vermelha |
-
-| |Linha acrescentada pela Lei nº 11.906, de 1º/10/2025 |
-
-| |(Art. 1º) |
-
-|maio |Mês de Popularização do Cinema |
-
-|maio |Maio Laranja |
-
-|maio |Maio Verde |
-
-| |Linha acrescentada pela Lei nº 11.882, de 11/8/2025 |
-
-| |(Art. 2º) |
-
-| | |
-
-| |Maio Verde |
-
-| |Conscientização sobre a Doença Celíaca |
-
-| |Mês de Prevenção ao Glaucoma |
-
-| |Linha com redação dada pela Lei nº 11.966, de 20/1/2026 |
-
-| |(Art. 1º) |
-
-|junho |Mês do Pit Stop BH - Inspeção Veicular Preventiva |
-
-|junho |Junho Violeta - Combate à violência contra a pessoa |
-
-| |idosa |
-
-| |Linha acrescentada pela Lei nº 11.915, de 4/11/2025 |
-
-| |(Art. 1º) |
-
-| |Lei nº 11.915 com redação dada pela Lei nº 12.005, de |
-
-| |4/5/2026 (Art. 3º) |
-
-|Junho |Mês das Quadrilhas Juninas |
-
-| |Linha acrescentada pela Lei nº 12.045, de 25/6/2026 |
-
-| |(Art. 8º) |
-
-|julho |Julho Branco - Conscientização sobre Prevenção de |
-
-| |Acidentes com Linhas Cortantes e Proteção de |
-
-| |Motociclistas |
-
-| |Linha acrescentada pela Lei nº 11.958, de 14/1/2026 |
-
-| |(Art. 2º) |
-
-| | |
-
-| |Julho Neon - Mês de Conscientização sobre a Saúde Bucal |
-
-| |Linha acrescentada pela Lei nº 12.159, de 21/10/2026 |
-
-| |(Art. 2º) |
-
-|agosto |Mês de Prevenção do Glaucoma |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
-
-| |(Art. 10) |
-
-| |Linha revogada pela Lei nº 11.966, de 20/1/2026 (Art. |
-
-| |2º) |
-
-|agosto |Mês Municipal de Comemoração do Aniversário do Barreiro |
-
-| |Linha acrescentada pela Lei nº 11.902, de 24/9/2025 |
-
-| |(Art. 4º) |
-
-|agosto |Agosto Marrom - Combate, Prevenção e Conscientização |
-
-| |sobre a Intolerância Religiosa |
-
-| |Linha acrescentada pela Lei nº 11.934, de 18/12/2025 |
-
-| |(Art. 2º) |
-
-|agosto |Mês da Conscientização sobre a Paternidade Responsável |
-
-| |Linha acrescentada pela Lei nº 11.975, de 18/3/2026 |
-
-| |(Art. 1º) |
-
-|outubro |Outubro Lilás - Conscientização sobre a Síndrome de Rett|
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
-
-| |(Art. 10) |
-
-|outubro |Outubro Violeta - Conscientização sobre o Respeito ao |
-
-| |Idoso |
-
-| |Linha acrescentada pela Lei nº 11.915, de 4/11/2025 |
-
-| |(Art. 1º) |
-
-| | |
-
-| |Outubro Prateado - Promoção da valorização, do respeito |
-
-| |e do cuidado com a pessoa idosa |
-
-| |Linha com redação dada pela Lei nº 12.005, de 4/5/2026 |
-
-| |(Art. 2º) |
-
-|novembro |Novembro Roxo - Conscientização sobre o parto prematuro |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
-
-| |(Art. 10) |
-
-|dezembro |Dezembro Verde - Combate aos maus-tratos e ao abandono |
-
-| |de Animais |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
-
-| |(Art. 10) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| janeiro | Janeiro Branco |
+| janeiro | Janeiro Verde - Combate à Meningite |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
+|  | (Art. 10) |
+| todos os domingos de janeiro | Mês de Cultura na Praça |
+| fevereiro | Fevereiro Roxo e Laranja |
+|  | Linha acrescentada pela Lei nº 11.888, de 27/8/2025 |
+|  | (Art. 2º) |
+| abril | Abril Verde - Prevenção de Acidentes e de Doenças do |
+|  | Trabalho |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
+|  | (Art. 10) |
+| abril | Abril Azul - Conscientização sobre o autismo |
+|  | Linha acrescentada pela Lei nº 11.855, de 26/5/2025 |
+|  | (Art. 2º) |
+| abril | Mês da Conscientização da Doença de Parkinson, |
+|  | denominado Tulipa Vermelha |
+|  | Linha acrescentada pela Lei nº 11.906, de 1º/10/2025 |
+|  | (Art. 1º) |
+| maio | Mês de Popularização do Cinema |
+| maio | Maio Laranja |
+| maio | Maio Verde |
+|  | Linha acrescentada pela Lei nº 11.882, de 11/8/2025 |
+|  | (Art. 2º) |
+|  |  |
+|  | Maio Verde |
+|  | Conscientização sobre a Doença Celíaca |
+|  | Mês de Prevenção ao Glaucoma |
+|  | Linha com redação dada pela Lei nº 11.966, de 20/1/2026 |
+|  | (Art. 1º) |
+| junho | Mês do Pit Stop BH - Inspeção Veicular Preventiva |
+| junho | Junho Violeta - Combate à violência contra a pessoa |
+|  | idosa |
+|  | Linha acrescentada pela Lei nº 11.915, de 4/11/2025 |
+|  | (Art. 1º) |
+|  | Lei nº 11.915 com redação dada pela Lei nº 12.005, de |
+|  | 4/5/2026 (Art. 3º) |
+| Junho | Mês das Quadrilhas Juninas |
+|  | Linha acrescentada pela Lei nº 12.045, de 25/6/2026 |
+|  | (Art. 8º) |
+| julho | Julho Branco - Conscientização sobre Prevenção de |
+|  | Acidentes com Linhas Cortantes e Proteção de |
+|  | Motociclistas |
+|  | Linha acrescentada pela Lei nº 11.958, de 14/1/2026 |
+|  | (Art. 2º) |
+|  |  |
+|  | Julho Neon - Mês de Conscientização sobre a Saúde Bucal |
+|  | Linha acrescentada pela Lei nº 12.159, de 21/10/2026 |
+|  | (Art. 2º) |
+| agosto | Mês de Prevenção do Glaucoma |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
+|  | (Art. 10) |
+|  | Linha revogada pela Lei nº 11.966, de 20/1/2026 (Art. |
+|  | 2º) |
+| agosto | Mês Municipal de Comemoração do Aniversário do Barreiro |
+|  | Linha acrescentada pela Lei nº 11.902, de 24/9/2025 |
+|  | (Art. 4º) |
+| agosto | Agosto Marrom - Combate, Prevenção e Conscientização |
+|  | sobre a Intolerância Religiosa |
+|  | Linha acrescentada pela Lei nº 11.934, de 18/12/2025 |
+|  | (Art. 2º) |
+| agosto | Mês da Conscientização sobre a Paternidade Responsável |
+|  | Linha acrescentada pela Lei nº 11.975, de 18/3/2026 |
+|  | (Art. 1º) |
+| outubro | Outubro Lilás - Conscientização sobre a Síndrome de Rett |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
+|  | (Art. 10) |
+| outubro | Outubro Violeta - Conscientização sobre o Respeito ao |
+|  | Idoso |
+|  | Linha acrescentada pela Lei nº 11.915, de 4/11/2025 |
+|  | (Art. 1º) |
+|  |  |
+|  | Outubro Prateado - Promoção da valorização, do respeito |
+|  | e do cuidado com a pessoa idosa |
+|  | Linha com redação dada pela Lei nº 12.005, de 4/5/2026 |
+|  | (Art. 2º) |
+| novembro | Novembro Roxo - Conscientização sobre o parto prematuro |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
+|  | (Art. 10) |
+| dezembro | Dezembro Verde - Combate aos maus-tratos e ao abandono |
+|  | de Animais |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
+|  | (Art. 10) |
 
 ANEXO III-A
 
@@ -4194,74 +3512,51 @@ ANO COMEMORATIVO
 
 Anexo III-A acrescentado pela Lei nº 12.153, de 14/10/2026 (Art. 2º)
 
-|ANO |COMEMORAÇÃO |
-
-|2027 |Ano Municipal de Conscientização sobre o Acesso ao Leite Materno |
+| ANO | COMEMORAÇÃO |
+| --- | --- |
+| 2027 | Ano Municipal de Conscientização sobre o Acesso ao Leite Materno |
 
 ANEXO IV
 
 EVENTO COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|Primeiro dia que anteceder as |Evento Graça Brasil |
-
-|festividades do Carnaval |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
-
-| |(Art. 11) |
-
-|quarta-feira de Cinzas |BH Gospel |
-
-|quinta-feira, sexta-feira e sábado da |Congresso Magnificat |
-
-|Semana Santa | |
-
-|13/5 ou fim de semana mais próximo |Festa do Dia do Preto Velho |
-
-|no mês de maio |BH 360º Polo Nacional do Esporte Radical e de Aventura |
-
-|durante o mês de maio |Temporada Oficial de Operetas |
-
-|15/8 |Festa de Yemanjá |
-
-|último final de semana de agosto |Hosana |
-
-|quarto sábado de outubro |Belo Horizonte - Capital da Paz |
-
-|sem data definida em lei |Festival Estudantil da Canção de Minas Gerais - |
-
-| |FEC |
-
-|sem data definida em lei |O Grande Sermão da Montanha |
-
-|sem data definida em lei |Virada Cultural |
-
-|Sem data definida em lei |Virada Esportiva |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
-
-| |(Art. 11) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Primeiro dia que anteceder as | Evento Graça Brasil |
+| festividades do Carnaval | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
+|  | (Art. 11) |
+| quarta-feira de Cinzas | BH Gospel |
+| quinta-feira, sexta-feira e sábado da | Congresso Magnificat |
+| Semana Santa |  |
+| 13/5 ou fim de semana mais próximo | Festa do Dia do Preto Velho |
+| no mês de maio | BH 360º Polo Nacional do Esporte Radical e de Aventura |
+| durante o mês de maio | Temporada Oficial de Operetas |
+| 15/8 | Festa de Yemanjá |
+| último final de semana de agosto | Hosana |
+| quarto sábado de outubro | Belo Horizonte - Capital da Paz |
+| sem data definida em lei | Festival Estudantil da Canção de Minas Gerais - |
+|  | FEC |
+| sem data definida em lei | O Grande Sermão da Montanha |
+| sem data definida em lei | Virada Cultural |
+| Sem data definida em lei | Virada Esportiva |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 |
+|  | (Art. 11) |
 
 ANEXO V
 
 FERIADO RELIGIOSO
 
-|DATA |COMEMORAÇÃO |
-
-|sem data definida em lei |Sexta-Feira da Paixão |
-
-|sem data definida em lei |Corpus Christi |
-
-|sem data definida em lei |Assunção de Nossa Senhora |
-
-|sem data definida em lei |Imaculada Conceição |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| sem data definida em lei | Sexta-Feira da Paixão |
+| sem data definida em lei | Corpus Christi |
+| sem data definida em lei | Assunção de Nossa Senhora |
+| sem data definida em lei | Imaculada Conceição |
 
 FERIADO CIVIL
 
-|DATA |COMEMORAÇÃO |
-
-|20 de novembro |Dia da Consciência Negra |
-
-| |Linha acrescentada pela Lei nº 11.680, de 4/4/2024 (Art.|
-
-| |1º) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 20 de novembro | Dia da Consciência Negra |
+|  | Linha acrescentada pela Lei nº 11.680, de 4/4/2024 (Art. |
+|  | 1º) |

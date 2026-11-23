@@ -112,50 +112,32 @@ ANEXO I
 
 ÍNDICE DE RISCO SANITÁRIO
 
-|ITEM |ESTABELECIMENTO |ÍNDICE |
-
-|01 |Aeroporto |1 |
-
-|02 |Terminal rodoviário |1 |
-
-|03 |Shopping center |1 |
-
-|04 |Sala de conferência e centro de evento |1 |
-
-|05 |Câmara Municipal de Belo Horizonte |1 |
-
-|06 |Instituição de ensino superior |2 |
-
-|07 |Casa de espetáculo |3 |
-
-|08 |Ginásio poliesportivo |3 |
-
-|09 |Estádio de futebol |3 |
-
-|10 |Clube social e esportivo |3 |
-
-|11 |Academia de ginástica |3 |
+| ITEM | ESTABELECIMENTO | ÍNDICE |
+| --- | --- | --- |
+| 01 | Aeroporto | 1 |
+| 02 | Terminal rodoviário | 1 |
+| 03 | Shopping center | 1 |
+| 04 | Sala de conferência e centro de evento | 1 |
+| 05 | Câmara Municipal de Belo Horizonte | 1 |
+| 06 | Instituição de ensino superior | 2 |
+| 07 | Casa de espetáculo | 3 |
+| 08 | Ginásio poliesportivo | 3 |
+| 09 | Estádio de futebol | 3 |
+| 10 | Clube social e esportivo | 3 |
+| 11 | Academia de ginástica | 3 |
 
 ANEXO II
 
 ÍNDICE DE ÁREA
 
-|ITEM |ÁREA |ÍNDICE |
-
-|A |0 a 50 m2 |1 |
-
-|B |51 a 150 m2 |2 |
-
-|C |151 a 250 m2 |3 |
-
-|D |251 A 350 m2 |4 |
-
-|E |351 a 650 m2 |5 |
-
-|F |651 a 1.000 m2 |6 |
-
-|G |1.001 a 5.000 m2 |7 |
-
-|H |5.001 a 10.000 m2 |8 |
-
-|I |acima de10.000 m2 |9 |
+| ITEM | ÁREA | ÍNDICE |
+| --- | --- | --- |
+| A | 0 a 50 m2 | 1 |
+| B | 51 a 150 m2 | 2 |
+| C | 151 a 250 m2 | 3 |
+| D | 251 A 350 m2 | 4 |
+| E | 351 a 650 m2 | 5 |
+| F | 651 a 1.000 m2 | 6 |
+| G | 1.001 a 5.000 m2 | 7 |
+| H | 5.001 a 10.000 m2 | 8 |
+| I | acima de10.000 m2 | 9 |

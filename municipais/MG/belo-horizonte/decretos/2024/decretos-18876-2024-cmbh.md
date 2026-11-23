@@ -58,93 +58,54 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.0088.3090.339047.1.500.000 |15.000.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339039.1.500.000 |400.000,00 |
-
-|2505.18.541.0073.2580.339039.1.500.000 |60.000,00 |
-
-|2505.04.122.0165.2816.339039.1.500.000 |40.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.339039.1.500.000 |28.905,32 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2933.449052.1.500.000 |20.671,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0166.2900.339014.1.500.000 |6.000,00 |
-
-|TOTAL |15.555.576,32 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei |R$ |
-
-|nº 11.644, de 29 de dezembro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED | |
-
-|2200.12.361.0168.2080.319113.1.500.000 |2.000,00 |
-
-|TOTAL |2.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |15.557.576,32 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.0088.3090.339047.1.500.000 | 15.000.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339039.1.500.000 | 400.000,00 |
+| 2505.18.541.0073.2580.339039.1.500.000 | 60.000,00 |
+| 2505.04.122.0165.2816.339039.1.500.000 | 40.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.339039.1.500.000 | 28.905,32 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2933.449052.1.500.000 | 20.671,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0166.2900.339014.1.500.000 | 6.000,00 |
+| TOTAL | 15.555.576,32 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei | R$ |
+| nº 11.644, de 29 de dezembro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.319113.1.500.000 | 2.000,00 |
+| TOTAL | 2.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 15.557.576,32 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.0089.3137.319091.1.500.000 |2.201.626,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449093.1.500.000 |500.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.449052.1.500.000 |28.905,32 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2106.449052.1.500.000 |20.671,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0302.2365.339030.1.500.000 |6.000,00 |
-
-|Fundo Municipal de Cultura – FPC |
-
-|3101.13.392.0170.2369.339036.1.500.000 |7.299.187,00 |
-
-|3101.13.392.0170.2369.339039.1.500.000 |5.499.187,00 |
-
-|TOTAL |15.555.576,32 |
-
-|I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.319011.1.500.000 |2.000,00 |
-
-|TOTAL |2.000,00 |
-
-|TOTAL DA ANULAÇÃO |15.557.576,32 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.0089.3137.319091.1.500.000 | 2.201.626,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449093.1.500.000 | 500.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.449052.1.500.000 | 28.905,32 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2106.449052.1.500.000 | 20.671,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0302.2365.339030.1.500.000 | 6.000,00 |
+| Fundo Municipal de Cultura – FPC |  |
+| 3101.13.392.0170.2369.339036.1.500.000 | 7.299.187,00 |
+| 3101.13.392.0170.2369.339039.1.500.000 | 5.499.187,00 |
+| TOTAL | 15.555.576,32 |
+| I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.319011.1.500.000 | 2.000,00 |
+| TOTAL | 2.000,00 |
+| TOTAL DA ANULAÇÃO | 15.557.576,32 |
 
 ANEXO II
 
@@ -190,50 +151,31 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 196.111.997,48 |
-
-|Valor do Decreto publicado nesta data |R$ 2.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 196.113.997,48 |
-
-|Saldo atual de créditos suplementares |R$ 1.787.218.774,92 |
-
-|Percentual utilizado |9,89% |
-
-|Atualizado em 12/11/2024 às 15:04:44 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 196.111.997,48 |
+| Valor do Decreto publicado nesta data | R$ 2.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 196.113.997,48 |
+| Saldo atual de créditos suplementares | R$ 1.787.218.774,92 |
+| Percentual utilizado | 9,89% |
+| Atualizado em 12/11/2024 às 15:04:44 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 982.568.588,97 |
-
-|Valor do Decreto publicado nesta data |R$ 15.555.576,32 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 998.124.165,29 |
-
-|Saldo atual de créditos suplementares |R$ 985.208.607,11 |
-
-|Percentual utilizado |50,33% |
-
-|Atualizado em 12/11/2024 às 15:04:44 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 982.568.588,97 |
+| Valor do Decreto publicado nesta data | R$ 15.555.576,32 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 998.124.165,29 |
+| Saldo atual de créditos suplementares | R$ 985.208.607,11 |
+| Percentual utilizado | 50,33% |
+| Atualizado em 12/11/2024 às 15:04:44 |  |

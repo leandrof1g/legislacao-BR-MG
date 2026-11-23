@@ -66,33 +66,21 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei | |
-
-|nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.319011.2.540.000 |10.949.975,79 |
-
-|2200.12.365.0169.2542.319011.2.540.000 |2.076.381,23 |
-
-|2200.12.366.0168.2080.319011.2.543.000 |92.878,48 |
-
-|2200.12.361.0168.2080.319011.2.543.000 |1.895.105,58 |
-
-|2200.12.365.0169.2542.319011.2.543.000 |242.345,29 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.339039.2.706.510 |2.000,00 |
-
-|3000.27.812.0101.2534.449052.2.706.510 |45.664,62 |
-
-|3000.27.813.0101.2545.339039.2.710.610 |110.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |15.414.350,99 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.319011.2.540.000 | 10.949.975,79 |
+| 2200.12.365.0169.2542.319011.2.540.000 | 2.076.381,23 |
+| 2200.12.366.0168.2080.319011.2.543.000 | 92.878,48 |
+| 2200.12.361.0168.2080.319011.2.543.000 | 1.895.105,58 |
+| 2200.12.365.0169.2542.319011.2.543.000 | 242.345,29 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.339039.2.706.510 | 2.000,00 |
+| 3000.27.812.0101.2534.449052.2.706.510 | 45.664,62 |
+| 3000.27.813.0101.2545.339039.2.710.610 | 110.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 15.414.350,99 |
 
 ANEXO II
 

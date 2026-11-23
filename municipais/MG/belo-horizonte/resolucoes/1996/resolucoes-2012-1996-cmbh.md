@@ -1024,103 +1024,56 @@ ANEXO I - QUADRO DE REENQUADRAMENTO
 
 Anexo I revogado pela Resolução nº 2.024, de 23/6/1997 (Art. 105, parágrafo único)
 
-|SITUAÇÃO ANTERIOR |ALT |SITUAÇÃO PROPOSTA |
-
-|NOME DO CARGO |NATUREZA | |NOME DO CARGO |NATUREZA |
-
-|Agente Legislativo I |Efetivo |T |Agente Legislativo |Efetivo |
-
-|Agente Legislativo II |Efetivo |T |Oficial Legislativo |Efetivo |
-
-|Telefonista |Efetivo |T |Oficial Legislativo |Efetivo |
-
-|Agente de Segurança |Efetivo |T |Oficial de Segurança |Efetivo |
-
-|Agente Legislativo III |Efetivo |T |Oficial de Legislativo |Efetivo |
-
-|Eletricista de Instalações prediais|Efetivo |T |Eletrotécnico |Efetivo |
-
-|Recepcionista |Efetivo |T |Oficial Legislativo |Efetivo |
-
-|Taquígrafo |Efetivo |E | | |
-
-|Redator |Efetivo |M |Redator |Efetivo |
-
-|Revisor |Efetivo |T |Redator |Efetivo |
-
-|Contador |Efetivo |M |Contador |Efetivo |
-
-|Bibliotecário |Efetivo |E | | |
-
-|Economista |Efetivo |M |Economista |Efetivo |
-
-|Arquiteto |Efetivo |M |Arquiteto |Efetivo |
-
-|Psicólogo |Efetivo |M |Psicólogo |Efetivo |
-
-|Administrador de Empresa |Efetivo |M |Administrador de Empresa |Efetivo |
-
-|Engenheiro |Efetivo |T |Engenheiro Civil |Efetivo |
-
-|Médico |Efetivo |M |Médico |Efetivo |
-
-|Procurador |Efetivo |M |Procurador |Efetivo |
-
-|Coordenador de Apoio Consultivo |Efetivo |T |Técnico Legislativo |Efetivo |
-
-|Auxiliar Legislativo |Amplo |T |Auxiliar de Gabinete |Amplo |
-
-|Garçom |Amplo |M |Garçom |Amplo |
-
-|Agente Especial |Amplo |T |Atendente Especial |Amplo |
-
-|Auxiliar de Mecânico de Máq. de |Amplo |T |Mecânico de Equipamentos |Amplo |
-
-|Escrever | | | | |
-
-|Segurança Parlamentar |Amplo |T |Atendente Parlamentar |Amplo |
-
-|Atendente de Consultório Dentário |Amplo |M |Atendente de Consultório Dentário |Amplo |
-
-|Auxiliar de Enfermagem |Amplo |M |Auxiliar de Enfermagem |Amplo |
-
-|Bombeiro |Amplo |T |Artífice |Amplo |
-
-|Eletricista de Veículos |Amplo |T |Artífice |Amplo |
-
-|Mecânico de Máquina de Escrever |Amplo |T |Mecânico de Equipamentos |Amplo |
-
-|Mecânico de Veículos |Amplo |M |Mecânicos de Veículo |Amplo |
-
-|Técnico de Equipamentos |Amplo |T |Mecânico de Equipamentos |Amplo |
-
-|Desenhista |Amplo |T |Desenhista |Efetivo |
-
-|Fotógrafo |Amplo |M |Fotógrafo |Amplo |
-
-|Programador de Computador |Amplo |T |Oficial de Informática |Efetivo |
-
-|Técnico de Cerimonial |Amplo |T |Secretário de Cerimonial |Amplo |
-
-|Assistente de Cerimonial |Amplo |T |Secretário de Cerimonial |Amplo |
-
-|Assistente Social |Amplo |M |Assistente Social |Amplo |
-
-|Fisioterapeuta |Amplo |M |Fisioterapeuta |Amplo |
-
-|Secretário da Presidência |Amplo |M |Secretário da Presidência |Amplo |
-
-|Analista de Oe M |Amplo |M |Analista de O e M |Amplo |
-
-|Analista de Sistemas |Amplo |T |Analista de Sistemas |Efetivo |
-
-|Analista de Suporte |Amplo |T |Analista de Sistemas |Efetivo |
-
-|Dentista |Amplo |M |Dentista |Amplo |
-
-|Médico |Amplo |M |Médico |Amplo |
-
-|Chefe de Gabinete |Amplo |M |Chefe de Gabinete |Amplo |
+| SITUAÇÃO ANTERIOR | ALT | SITUAÇÃO PROPOSTA |  |  |
+| --- | --- | --- | --- | --- |
+| NOME DO CARGO | NATUREZA |  | NOME DO CARGO | NATUREZA |
+| Agente Legislativo I | Efetivo | T | Agente Legislativo | Efetivo |
+| Agente Legislativo II | Efetivo | T | Oficial Legislativo | Efetivo |
+| Telefonista | Efetivo | T | Oficial Legislativo | Efetivo |
+| Agente de Segurança | Efetivo | T | Oficial de Segurança | Efetivo |
+| Agente Legislativo III | Efetivo | T | Oficial de Legislativo | Efetivo |
+| Eletricista de Instalações prediais | Efetivo | T | Eletrotécnico | Efetivo |
+| Recepcionista | Efetivo | T | Oficial Legislativo | Efetivo |
+| Taquígrafo | Efetivo | E |  |  |
+| Redator | Efetivo | M | Redator | Efetivo |
+| Revisor | Efetivo | T | Redator | Efetivo |
+| Contador | Efetivo | M | Contador | Efetivo |
+| Bibliotecário | Efetivo | E |  |  |
+| Economista | Efetivo | M | Economista | Efetivo |
+| Arquiteto | Efetivo | M | Arquiteto | Efetivo |
+| Psicólogo | Efetivo | M | Psicólogo | Efetivo |
+| Administrador de Empresa | Efetivo | M | Administrador de Empresa | Efetivo |
+| Engenheiro | Efetivo | T | Engenheiro Civil | Efetivo |
+| Médico | Efetivo | M | Médico | Efetivo |
+| Procurador | Efetivo | M | Procurador | Efetivo |
+| Coordenador de Apoio Consultivo | Efetivo | T | Técnico Legislativo | Efetivo |
+| Auxiliar Legislativo | Amplo | T | Auxiliar de Gabinete | Amplo |
+| Garçom | Amplo | M | Garçom | Amplo |
+| Agente Especial | Amplo | T | Atendente Especial | Amplo |
+| Auxiliar de Mecânico de Máq. de | Amplo | T | Mecânico de Equipamentos | Amplo |
+| Escrever |  |  |  |  |
+| Segurança Parlamentar | Amplo | T | Atendente Parlamentar | Amplo |
+| Atendente de Consultório Dentário | Amplo | M | Atendente de Consultório Dentário | Amplo |
+| Auxiliar de Enfermagem | Amplo | M | Auxiliar de Enfermagem | Amplo |
+| Bombeiro | Amplo | T | Artífice | Amplo |
+| Eletricista de Veículos | Amplo | T | Artífice | Amplo |
+| Mecânico de Máquina de Escrever | Amplo | T | Mecânico de Equipamentos | Amplo |
+| Mecânico de Veículos | Amplo | M | Mecânicos de Veículo | Amplo |
+| Técnico de Equipamentos | Amplo | T | Mecânico de Equipamentos | Amplo |
+| Desenhista | Amplo | T | Desenhista | Efetivo |
+| Fotógrafo | Amplo | M | Fotógrafo | Amplo |
+| Programador de Computador | Amplo | T | Oficial de Informática | Efetivo |
+| Técnico de Cerimonial | Amplo | T | Secretário de Cerimonial | Amplo |
+| Assistente de Cerimonial | Amplo | T | Secretário de Cerimonial | Amplo |
+| Assistente Social | Amplo | M | Assistente Social | Amplo |
+| Fisioterapeuta | Amplo | M | Fisioterapeuta | Amplo |
+| Secretário da Presidência | Amplo | M | Secretário da Presidência | Amplo |
+| Analista de Oe M | Amplo | M | Analista de O e M | Amplo |
+| Analista de Sistemas | Amplo | T | Analista de Sistemas | Efetivo |
+| Analista de Suporte | Amplo | T | Analista de Sistemas | Efetivo |
+| Dentista | Amplo | M | Dentista | Amplo |
+| Médico | Amplo | M | Médico | Amplo |
+| Chefe de Gabinete | Amplo | M | Chefe de Gabinete | Amplo |
 
 Legenda:
 
@@ -2124,69 +2077,39 @@ TABELA DE VENCIMENTO
 
 1) SERVIDOR EFETIVO:
 
-|NÍVEL |CLASSE |
-
-| |E. 1 |E. 2 |E. 3 |
-
-|01 |560,00 |900,00 |1.540,00 |
-
-|02 |620,00 |1.050,00 |1.700,00 |
-
-|03 |680,00 |1.160,00 |1.870,00 |
-
-|04 |750,00 |1.270,00 |2.020,00 |
-
-|05 |820,00 |1.400,00 |2.180,00 |
-
-|06 |900,00 |1.540,00 |2.350,00 |
-
-|07 |1.050,00 |1.700,00 |2.540,00 |
-
-|08 |1.160,00 |1.870,00 |2.740,00 |
-
-|09 |1.270,00 |2.020,00 |2.960,00 |
-
-|10 |1.400,00 |2.180,00 |3.200,00 |
-
-|11 |1.540,00 |2.350,00 |3.450,00 |
-
-|12 |1.700,00 |2.540,00 |3.730,00 |
-
-|13 |1.870,00 |2.740,00 |4.040,00 |
-
-|14 |2.020,00 |2.960,00 |4.350,00 |
-
-|15 |2.180,00 |3.200,00 |4.700,00 |
-
-|16 |2.350,00 |3.450,00 |5.080,00 |
-
-|17 |2.540,00 |3.730,00 |5.490,00 |
-
-|18 |2.740,00 |4.040,00 |5.920,00 |
-
-|19 |2.960,00 |4.350,00 |6.390,00 |
-
-|20 |3.200,00 |4.700,00 |6.900,00 |
-
-|21 |3.450,00 |5.080,00 |7.460,00 |
-
-|22 |3.730,00 |5.490,00 |8.050,00 |
-
-|23 |4.040,00 |5.920,00 |8.700,00 |
-
-|24 |4.350,00 |6.390,00 |9.390,00 |
-
-|25 |4.700,00 |6.900,00 |10.140,00 |
-
-|26 |5.080,00 |7.460,00 |10.960,00 |
-
-|27 |5.490,00 |8.050,00 |11.830,00 |
-
-|28 |5.920,00 |8.700,00 |12.780,00 |
-
-|29 |6.390,00 |9.390,00 |13.800,00 |
-
-|30 |6.900,00 |10.140,00 |14.910,00 |
+| NÍVEL | CLASSE |  |  |
+| --- | --- | --- | --- |
+|  | E. 1 | E. 2 | E. 3 |
+| 01 | 560,00 | 900,00 | 1.540,00 |
+| 02 | 620,00 | 1.050,00 | 1.700,00 |
+| 03 | 680,00 | 1.160,00 | 1.870,00 |
+| 04 | 750,00 | 1.270,00 | 2.020,00 |
+| 05 | 820,00 | 1.400,00 | 2.180,00 |
+| 06 | 900,00 | 1.540,00 | 2.350,00 |
+| 07 | 1.050,00 | 1.700,00 | 2.540,00 |
+| 08 | 1.160,00 | 1.870,00 | 2.740,00 |
+| 09 | 1.270,00 | 2.020,00 | 2.960,00 |
+| 10 | 1.400,00 | 2.180,00 | 3.200,00 |
+| 11 | 1.540,00 | 2.350,00 | 3.450,00 |
+| 12 | 1.700,00 | 2.540,00 | 3.730,00 |
+| 13 | 1.870,00 | 2.740,00 | 4.040,00 |
+| 14 | 2.020,00 | 2.960,00 | 4.350,00 |
+| 15 | 2.180,00 | 3.200,00 | 4.700,00 |
+| 16 | 2.350,00 | 3.450,00 | 5.080,00 |
+| 17 | 2.540,00 | 3.730,00 | 5.490,00 |
+| 18 | 2.740,00 | 4.040,00 | 5.920,00 |
+| 19 | 2.960,00 | 4.350,00 | 6.390,00 |
+| 20 | 3.200,00 | 4.700,00 | 6.900,00 |
+| 21 | 3.450,00 | 5.080,00 | 7.460,00 |
+| 22 | 3.730,00 | 5.490,00 | 8.050,00 |
+| 23 | 4.040,00 | 5.920,00 | 8.700,00 |
+| 24 | 4.350,00 | 6.390,00 | 9.390,00 |
+| 25 | 4.700,00 | 6.900,00 | 10.140,00 |
+| 26 | 5.080,00 | 7.460,00 | 10.960,00 |
+| 27 | 5.490,00 | 8.050,00 | 11.830,00 |
+| 28 | 5.920,00 | 8.700,00 | 12.780,00 |
+| 29 | 6.390,00 | 9.390,00 | 13.800,00 |
+| 30 | 6.900,00 | 10.140,00 | 14.910,00 |
 
 2) SERVIDOR AMPLO:
 
@@ -2238,61 +2161,35 @@ Anexo III renumerado para Anexo Único e com redação dada pela Resolução nº
 
 1) - SERVIDOR DE PROVIMENTO EFETIVO:
 
-| |CLASSE |
-
-|NÍVEL | |
-
-| |E.1 |E.2 |E.3 |
-
-|01 |565,00 |960,00 |1.675,00 |
-
-|02 |630,00 |1.085,00 |1.805,00 |
-
-|03 |705,00 |1.205,00 |2.010,00 |
-
-|04 |780,00 |1.345,00 |2.105,00 |
-
-|05 |865,00 |1.460,00 |2.255,00 |
-
-|06 |960,00 |1.675,00 |2.430,00 |
-
-|07 |1.085,00 |1.805,00 |2.625,00 |
-
-|08 |1.205,00 |2.010,00 |2.830,00 |
-
-|09 |1.345,00 |2.105,00 |3.060,00 |
-
-|10 |1.460,00 |2.255,00 |3.305,00 |
-
-|11 |1.675,00 |2.430,00 |3.565,00 |
-
-|12 |1.805,00 |2.625,00 |3.855,00 |
-
-|13 |2.010,00 |2.830,00 |4.175,00 |
-
-|14 |2.105,00 |3.060,00 |4.495,00 |
-
-|15 |2.255,00 |3.305,00 |4.855,00 |
-
-|16 |2.400,00 |3.565,00 |5.245,00 |
-
-|17 |2.825,00 |3.856,00 |5.670,00 |
-
-|18 |2.830,00 |4.175,00 |6.115,00 |
-
-|19 |3.060,00 |4.495,00 |6.600,00 |
-
-|20 |3.305,00 |4.855,00 |7.125,00 |
-
-|21 |3.565,00 |5.245,00 |7.705,00 |
-
-|22 |3.855,00 |5.670,00 |8.310,00 |
-
-|23 |4.175,00 |6.115,00 |8.985,00 |
-
-|24 |4.495,00 |6.600,00 |9.895,00 |
-
-|25 |4.855,00 |7.125,00 |10.470,00 |
+|  | CLASSE |  |  |
+| --- | --- | --- | --- |
+| NÍVEL |  |  |  |
+|  | E.1 | E.2 | E.3 |
+| 01 | 565,00 | 960,00 | 1.675,00 |
+| 02 | 630,00 | 1.085,00 | 1.805,00 |
+| 03 | 705,00 | 1.205,00 | 2.010,00 |
+| 04 | 780,00 | 1.345,00 | 2.105,00 |
+| 05 | 865,00 | 1.460,00 | 2.255,00 |
+| 06 | 960,00 | 1.675,00 | 2.430,00 |
+| 07 | 1.085,00 | 1.805,00 | 2.625,00 |
+| 08 | 1.205,00 | 2.010,00 | 2.830,00 |
+| 09 | 1.345,00 | 2.105,00 | 3.060,00 |
+| 10 | 1.460,00 | 2.255,00 | 3.305,00 |
+| 11 | 1.675,00 | 2.430,00 | 3.565,00 |
+| 12 | 1.805,00 | 2.625,00 | 3.855,00 |
+| 13 | 2.010,00 | 2.830,00 | 4.175,00 |
+| 14 | 2.105,00 | 3.060,00 | 4.495,00 |
+| 15 | 2.255,00 | 3.305,00 | 4.855,00 |
+| 16 | 2.400,00 | 3.565,00 | 5.245,00 |
+| 17 | 2.825,00 | 3.856,00 | 5.670,00 |
+| 18 | 2.830,00 | 4.175,00 | 6.115,00 |
+| 19 | 3.060,00 | 4.495,00 | 6.600,00 |
+| 20 | 3.305,00 | 4.855,00 | 7.125,00 |
+| 21 | 3.565,00 | 5.245,00 | 7.705,00 |
+| 22 | 3.855,00 | 5.670,00 | 8.310,00 |
+| 23 | 4.175,00 | 6.115,00 | 8.985,00 |
+| 24 | 4.495,00 | 6.600,00 | 9.895,00 |
+| 25 | 4.855,00 | 7.125,00 | 10.470,00 |
 
 2) SERVIDORES DE PROVIMENTO EM COMISSÃO E DE RECRUTAMENTO AMPLO
 

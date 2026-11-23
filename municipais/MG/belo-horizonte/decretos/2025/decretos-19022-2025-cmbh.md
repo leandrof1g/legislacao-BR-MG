@@ -60,63 +60,36 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, no art. 57 da Lei| |
-
-|nº 11.742, de 13 de setembro de 2024, e no art. 31 da Lei nº 11.801, de 2 de | |
-
-|janeiro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0019.2308.339039.2.500.000 |2.955.684,24 |
-
-|3701.08.244.0020.2878.339039.2.500.000 |50.000,00 |
-
-|3701.08.244.0113.2916.339039.2.500.000 |250.000,00 |
-
-|3701.08.243.0019.2647.339039.2.500.000 |150.000,00 |
-
-|3701.08.244.0019.2647.339039.2.500.000 |150.000,00 |
-
-|3701.08.244.0113.2916.339092.2.500.000 |18.280,00 |
-
-|3701.08.243.0020.2308.339039.2.500.000 |150.000,00 |
-
-|3701.08.244.0019.2697.339039.2.500.000 |140.000,00 |
-
-|3701.08.243.0019.2308.339039.2.500.000 |50.000,00 |
-
-|3701.08.244.0019.2403.339039.2.500.000 |50.000,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|3801.08.306.0132.2761.339030.2.500.000 |21.260,00 |
-
-|3801.08.306.0132.2761.339039.2.500.000 |3.400,00 |
-
-|3801.08.306.0132.2761.449052.2.500.000 |43.884,44 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0127.2335.339092.2.500.000 |66.940,00 |
-
-|3700.14.241.0127.2697.339030.2.500.000 |71.420,43 |
-
-|3700.14.241.0127.2697.449052.2.500.000 |70.522,14 |
-
-|3700.08.244.0123.2804.339039.2.500.000 |100.000,00 |
-
-|3700.14.422.0127.2928.339092.2.500.000 |56.660,00 |
-
-|3700.08.241.0127.2697.339039.2.500.000 |50.000,00 |
-
-|3700.08.422.0127.2840.339039.2.500.000 |180.000,00 |
-
-|3700.08.422.0127.2927.339039.2.500.000 |180.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.808.051,25 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, no art. 57 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024, e no art. 31 da Lei nº 11.801, de 2 de |  |
+| janeiro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0019.2308.339039.2.500.000 | 2.955.684,24 |
+| 3701.08.244.0020.2878.339039.2.500.000 | 50.000,00 |
+| 3701.08.244.0113.2916.339039.2.500.000 | 250.000,00 |
+| 3701.08.243.0019.2647.339039.2.500.000 | 150.000,00 |
+| 3701.08.244.0019.2647.339039.2.500.000 | 150.000,00 |
+| 3701.08.244.0113.2916.339092.2.500.000 | 18.280,00 |
+| 3701.08.243.0020.2308.339039.2.500.000 | 150.000,00 |
+| 3701.08.244.0019.2697.339039.2.500.000 | 140.000,00 |
+| 3701.08.243.0019.2308.339039.2.500.000 | 50.000,00 |
+| 3701.08.244.0019.2403.339039.2.500.000 | 50.000,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 3801.08.306.0132.2761.339030.2.500.000 | 21.260,00 |
+| 3801.08.306.0132.2761.339039.2.500.000 | 3.400,00 |
+| 3801.08.306.0132.2761.449052.2.500.000 | 43.884,44 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0127.2335.339092.2.500.000 | 66.940,00 |
+| 3700.14.241.0127.2697.339030.2.500.000 | 71.420,43 |
+| 3700.14.241.0127.2697.449052.2.500.000 | 70.522,14 |
+| 3700.08.244.0123.2804.339039.2.500.000 | 100.000,00 |
+| 3700.14.422.0127.2928.339092.2.500.000 | 56.660,00 |
+| 3700.08.241.0127.2697.339039.2.500.000 | 50.000,00 |
+| 3700.08.422.0127.2840.339039.2.500.000 | 180.000,00 |
+| 3700.08.422.0127.2927.339039.2.500.000 | 180.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.808.051,25 |
 
 ANEXO II
 
@@ -154,20 +127,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos suplementares abertos anteriormente |341.925.645,59 |
-
-|Valor do Decreto publicado nesta data |4.808.051,25 |
-
-|Valor total dos créditos suplementares abertos no exercício |346.733.696,84 |
-
-|Saldo atual do limite autorizado |1.702.293.530,09 |
-
-|Percentual utilizado |16,92% |
-
-|Atualizado em 25/02/2025 às 14:54:45 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos suplementares abertos anteriormente | 341.925.645,59 |
+| Valor do Decreto publicado nesta data | 4.808.051,25 |
+| Valor total dos créditos suplementares abertos no exercício | 346.733.696,84 |
+| Saldo atual do limite autorizado | 1.702.293.530,09 |
+| Percentual utilizado | 16,92% |
+| Atualizado em 25/02/2025 às 14:54:45 |  |

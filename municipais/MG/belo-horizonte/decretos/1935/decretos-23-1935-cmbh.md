@@ -260,7 +260,7 @@ i) Exceto quando fôr permitido pela autoridade competente, não deverão ser co
 
 Quando só forem usados condutores simples, de um só fio e uma só capa, poderão ser instalados quatro fios nº 14 B & S em um conduto de 1/2 polegada e até sete fios nº 14 em um conduto de 3/4 de polegada. Tres fios nº 12 podem ser instalados em um conduto de 1/2 polegada; quatro nº 10 em um conduto de 3/4 e tres nº 8 em conduto de 3/4 de polegada.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ARTIGO 9º
 
@@ -430,7 +430,7 @@ TABELA N. 2
 
 DETERMINAÇÃO DOS CONDUTORES E FUZIVEIS DE CIRCUITO PARA MOTORES
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Tipo do motor Porcentagem da corrente de plena carga
 
@@ -640,7 +640,7 @@ TABELA N. 5
 
 Amperagem permissível em fios e cabos isolados
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ARTIGO N. 23
 

@@ -336,17 +336,13 @@ Estratégias:
 
 Meta 7: fomentar a qualidade da educação básica em todas as etapas e modalidades, com melhoria do fluxo escolar e da aprendizagem, de modo a atingir as seguintes metas projetadas para o Ideb:
 
-|Esfera |Ideb Observado |Metas Projetadas |
-
-| |2013 |2015 |2017 |2019 |2021 |
-
-|RME-BH 5º Ano |5.7 |5.9 |6.1 |6.4 |6.6 |
-
-|RME-BH 9º Ano |4.5 |4.9 |5.1 |5.4 |5.6 |
-
-|Rede Pública-BH 5º Ano |6.0 |5.9 |6.2 |6.4 |6.6 |
-
-|Rede Pública-BH 9º Ano |4.4 |4.8 |5.1 |5.3 |5.6 |
+| Esfera | Ideb Observado | Metas Projetadas |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 2013 | 2015 | 2017 | 2019 | 2021 |
+| RME-BH 5º Ano | 5.7 | 5.9 | 6.1 | 6.4 | 6.6 |
+| RME-BH 9º Ano | 4.5 | 4.9 | 5.1 | 5.4 | 5.6 |
+| Rede Pública-BH 5º Ano | 6.0 | 5.9 | 6.2 | 6.4 | 6.6 |
+| Rede Pública-BH 9º Ano | 4.4 | 4.8 | 5.1 | 5.3 | 5.6 |
 
 *Fonte: Inep <http://ideb.inep.gov.br/resultado/>
 

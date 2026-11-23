@@ -30,11 +30,10 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO II SEMANA COMEMORATIVA: H - Semanas comemorativas de agosto:
 
-|DATA |COMEMORAÇÃO |
-
-|Semana que contenha o dia 8/8 |Semana Municipal de Conscientização, Prevenção e Combate|
-
-| |à Esporotricose |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Semana que contenha o dia 8/8 | Semana Municipal de Conscientização, Prevenção e Combate |
+|  | à Esporotricose |
 
 .”.
 

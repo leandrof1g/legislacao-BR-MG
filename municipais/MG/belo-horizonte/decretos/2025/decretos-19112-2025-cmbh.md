@@ -58,39 +58,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei nº | |
-
-|11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.242.0020.2403.339039.1.500.000 |50.000,00 |
-
-|3701.08.244.0019.2308.339039.1.500.000 |85.000,00 |
-
-|3701.08.243.0020.2308.339039.1.500.000 |300.000,00 |
-
-|3701.08.244.0113.2916.339092.1.500.000 |101.720,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.241.0127.2697.449052.1.500.000 |23.212,16 |
-
-|TOTAL DA SUPLEMENTAÇÃO |559.932,16 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei nº |  |
+| 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.242.0020.2403.339039.1.500.000 | 50.000,00 |
+| 3701.08.244.0019.2308.339039.1.500.000 | 85.000,00 |
+| 3701.08.243.0020.2308.339039.1.500.000 | 300.000,00 |
+| 3701.08.244.0113.2916.339092.1.500.000 | 101.720,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.241.0127.2697.449052.1.500.000 | 23.212,16 |
+| TOTAL DA SUPLEMENTAÇÃO | 559.932,16 |
 
 I.2 – Anulação da seguinte dotação orçamentária do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.9999.999999.1.500.000 |559.932,16 |
-
-|TOTAL DA ANULAÇÃO |559.932,16 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.9999.999999.1.500.000 | 559.932,16 |
+| TOTAL DA ANULAÇÃO | 559.932,16 |
 
 ANEXO II
 
@@ -118,20 +106,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos suplementares abertos anteriormente |841.007.672,17 |
-
-|Valor do Decreto publicado nesta data |559.932,16 |
-
-|Valor total dos créditos suplementares abertos no exercício |841.567.604,33 |
-
-|Saldo atual do limite autorizado |1.207.459.622,60 |
-
-|Percentual utilizado |41,07% |
-
-|Atualizado em 16/05/2025 às 08:48:44 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos suplementares abertos anteriormente | 841.007.672,17 |
+| Valor do Decreto publicado nesta data | 559.932,16 |
+| Valor total dos créditos suplementares abertos no exercício | 841.567.604,33 |
+| Saldo atual do limite autorizado | 1.207.459.622,60 |
+| Percentual utilizado | 41,07% |
+| Atualizado em 16/05/2025 às 08:48:44 |  |

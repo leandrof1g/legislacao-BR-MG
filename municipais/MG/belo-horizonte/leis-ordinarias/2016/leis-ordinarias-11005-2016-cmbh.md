@@ -86,17 +86,13 @@ O Anexo I encontra-se em arquivo separado.
 
 ANEXO II - PARÂMETROS URBANÍSTICOS
 
-|Coeficiente de aproveitamento (bruto) |6,18 |
-
-|Taxa de permeabilidade |19,2% | |
-
-|Afastamentos frontais mínimos |9,20m em relação à Avenida Raja Gabáglia |
-
-| |3,0m para novas edificações em relação à Rua Flavita Bretas |
-
-|Afastamentos laterais mínimos |1,50m |
-
-|Distância mínima entre blocos |Livre, a ser definida em projeto sob responsabilidade técnica do empreendedor |
+| Coeficiente de aproveitamento (bruto) | 6,18 |  |
+| --- | --- | --- |
+| Taxa de permeabilidade | 19,2% |  |
+| Afastamentos frontais mínimos | 9,20m em relação à Avenida Raja Gabáglia |  |
+|  | 3,0m para novas edificações em relação à Rua Flavita Bretas |  |
+| Afastamentos laterais mínimos | 1,50m |  |
+| Distância mínima entre blocos | Livre, a ser definida em projeto sob responsabilidade técnica do empreendedor |  |
 
 ## Anexos e outros documentos
 

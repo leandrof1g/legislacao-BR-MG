@@ -56,4 +56,5 @@ ANEXO
 
 (a que se refere o art. 3º do Decreto nº 19.396, de 4 de dezembro de 2025)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

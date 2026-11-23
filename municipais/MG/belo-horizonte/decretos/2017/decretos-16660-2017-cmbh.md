@@ -158,21 +158,15 @@ Planilha do Projeto/Evento:
 
 (Descrever o custo de todos os itens do projeto/evento e destacar quais serão os itens elegíveis, a serem custeados com o auxílio financeiro da Belotur. Todos os itens a serem custeados com recursos da Belotur deverão ser acompanhados dos respectivos orçamentos).
 
-|ITEM |UNIDADE |QUANTIDADE |VALOR UNITÁRIO |AUX. BELOTUR |VALOR TOTAL |
-
-| | | | | | |
-
-| | | | | | |
-
-| | | | | | |
-
-| | | | | | |
-
-| | | | | | |
-
-|VALOR TOTAL DO PROJETO/EVENTO |R$___________ |
-
-|VALOR PLEITEADO À BELOTUR |R$___________ |
+| ITEM | UNIDADE | QUANTIDADE | VALOR UNITÁRIO | AUX. BELOTUR | VALOR TOTAL |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| VALOR TOTAL DO PROJETO/EVENTO | R$___________ |  |  |  |  |
+| VALOR PLEITEADO À BELOTUR | R$___________ |  |  |  |  |
 
 Assinatura do Proponente:
 

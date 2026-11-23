@@ -32,13 +32,11 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|MAIO |Maio Verde |
-
-| |Conscientização sobre a Doença Celíaca |
-
-| |Mês de Prevenção ao Glaucoma |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| MAIO | Maio Verde |
+|  | Conscientização sobre a Doença Celíaca |
+|  | Mês de Prevenção ao Glaucoma |
 
 .”.
 
@@ -48,11 +46,10 @@ MÊS COMEMORATIVO
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|AGOSTO |Mês de Prevenção do Glaucoma |
-
-| |Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 10) |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| AGOSTO | Mês de Prevenção do Glaucoma |
+|  | Linha acrescentada pela Lei nº 11.537, de 30/6/2023 (Art. 10) |
 
 .”.
 

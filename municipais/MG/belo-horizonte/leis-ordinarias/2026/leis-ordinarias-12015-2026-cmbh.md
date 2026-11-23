@@ -40,9 +40,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 F - Dias comemorativos de junho:
 
-|DATA |COMEMORAÇÃO |
-
-|18/6 |Dia Municipal do Dirigente Cristão de Empresas |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 18/6 | Dia Municipal do Dirigente Cristão de Empresas |
 
 .”.
 

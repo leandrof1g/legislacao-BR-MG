@@ -64,37 +64,23 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339039.2.621.000 |1.153.794,00 |
-
-|2302.10.302.0114.2936.339092.2.621.000 |128.600,83 |
-
-|2302.10.304.0028.2829.449052.2.621.000 |25.820,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.243.0020.2403.339039.2.661.000 |459.688,51 |
-
-|1011.08.242.0020.2403.339039.2.661.000 |3.359.613,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.391.0155.2375.339039.2.706.510 |50.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.339039.2.706.510 |2.000,00 |
-
-|3000.27.812.0101.2534.449052.2.706.510 |45.664,62 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.225.180,96 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339039.2.621.000 | 1.153.794,00 |
+| 2302.10.302.0114.2936.339092.2.621.000 | 128.600,83 |
+| 2302.10.304.0028.2829.449052.2.621.000 | 25.820,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.243.0020.2403.339039.2.661.000 | 459.688,51 |
+| 1011.08.242.0020.2403.339039.2.661.000 | 3.359.613,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.391.0155.2375.339039.2.706.510 | 50.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.339039.2.706.510 | 2.000,00 |
+| 3000.27.812.0101.2534.449052.2.706.510 | 45.664,62 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.225.180,96 |
 
 ANEXO II
 

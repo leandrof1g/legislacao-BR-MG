@@ -64,39 +64,24 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º |R$ |
-
-|do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei nº | |
-
-|11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |20.746,24 |
-
-|2302.10.301.0157.2690.339030.2.621.000 |45.082,26 |
-
-|2302.10.305.0028.2829.339039.2.621.000 |52.662,44 |
-
-|2302.10.301.0157.2690.339039.2.501.778 |4.634,04 |
-
-|2302.10.302.0114.2952.339039.2.621.000 |105.716,34 |
-
-|2302.10.302.0114.2951.339092.2.621.000 |2.445.326,25 |
-
-|2302.10.302.0114.2952.339040.2.621.000 |16.592,52 |
-
-|2302.10.302.0114.2952.339030.2.621.000 |7.093,02 |
-
-|2302.10.302.0114.2952.339034.2.621.000 |145.009,90 |
-
-|2302.10.302.0114.2951.339039.2.621.000 |853.875,32 |
-
-|2302.10.302.0114.2951.339092.2.501.778 |394.903,58 |
-
-|2302.10.302.0114.2951.339092.2.749.778 |159.536,27 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.251.178,18 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei nº |  |
+| 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 20.746,24 |
+| 2302.10.301.0157.2690.339030.2.621.000 | 45.082,26 |
+| 2302.10.305.0028.2829.339039.2.621.000 | 52.662,44 |
+| 2302.10.301.0157.2690.339039.2.501.778 | 4.634,04 |
+| 2302.10.302.0114.2952.339039.2.621.000 | 105.716,34 |
+| 2302.10.302.0114.2951.339092.2.621.000 | 2.445.326,25 |
+| 2302.10.302.0114.2952.339040.2.621.000 | 16.592,52 |
+| 2302.10.302.0114.2952.339030.2.621.000 | 7.093,02 |
+| 2302.10.302.0114.2952.339034.2.621.000 | 145.009,90 |
+| 2302.10.302.0114.2951.339039.2.621.000 | 853.875,32 |
+| 2302.10.302.0114.2951.339092.2.501.778 | 394.903,58 |
+| 2302.10.302.0114.2951.339092.2.749.778 | 159.536,27 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.251.178,18 |
 
 ANEXO II
 
@@ -142,26 +127,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para|Limite de 15% (quinze por cento) |
-
-|abertura de créditos suplementares para o Fundo Municipal de |do valor do orçamento. |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 3.738.652.601,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 168.080.823,94 |
-
-|Valor do decreto publicado nesta data |R$ 4.251.178,18 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 172.332.002,12 |
-
-|Saldo atual de créditos suplementares |R$ 3.566.320.599,28 |
-
-|Percentual utilizado |4,61% |
-
-|Atualizado em 10/03/2026 às 17:10:18 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 15% (quinze por cento) |
+| abertura de créditos suplementares para o Fundo Municipal de | do valor do orçamento. |
+| Saúde. |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 3.738.652.601,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 168.080.823,94 |
+| Valor do decreto publicado nesta data | R$ 4.251.178,18 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 172.332.002,12 |
+| Saldo atual de créditos suplementares | R$ 3.566.320.599,28 |
+| Percentual utilizado | 4,61% |
+| Atualizado em 10/03/2026 às 17:10:18 |  |

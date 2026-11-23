@@ -58,109 +58,62 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do art. 4º |R$ |
-
-|da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Controladoria-Geral do Município – CTGM |
-
-|2400.04.124.012.2.367.3390.0000 |112.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.900.3390.0000 |96.244,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.062.1.330.4490.0000 |1.700.000,00 |
-
-|2700.17.512.066.1.400.4491.0000 |5.702.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.302.2.853.3390.0000 |14.016,00 |
-
-|2800.11.334.237.2.404.3390.0000 |24.081,00 |
-
-|2800.11.334.237.2.404.4490.0030 |43.667,99 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.629.3390.0007 |5.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.155.2.908.4490.0000 |60.000,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.122.093.2.900.3390.0000 |326.291,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.059.2.854.4490.0000 |6.666,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.091.3.501.3290.0000 |26.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |34.089.965,99 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do art. 4º | R$ |
+| --- | --- |
+| da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Controladoria-Geral do Município – CTGM |  |
+| 2400.04.124.012.2.367.3390.0000 | 112.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.900.3390.0000 | 96.244,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.062.1.330.4490.0000 | 1.700.000,00 |
+| 2700.17.512.066.1.400.4491.0000 | 5.702.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.302.2.853.3390.0000 | 14.016,00 |
+| 2800.11.334.237.2.404.3390.0000 | 24.081,00 |
+| 2800.11.334.237.2.404.4490.0030 | 43.667,99 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.629.3390.0007 | 5.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.155.2.908.4490.0000 | 60.000,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.122.093.2.900.3390.0000 | 326.291,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.059.2.854.4490.0000 | 6.666,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.091.3.501.3290.0000 | 26.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 34.089.965,99 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.096.2.004.3390.0000 |326.291,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.014.2.809.3190.0000 |96.244,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.073.1.202.4490.0000 |1.781.534,00 |
-
-|2700.16.482.225.1.231.4490.0000 |1.600.000,00 |
-
-|2700.17.512.066.1.203.4490.0000 |4.020.466,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.141.2.852.3390.0000 |14.016,00 |
-
-|2800.11.334.237.2.404.3390.0030 |43.667,99 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.629.3390.0007 |5.000,00 |
-
-|Fundo Municipal do Trabalho – FMTP |
-
-|2810.11.334.237.2.404.3390.0000 |24.081,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.155.2.908.3390.0000 |60.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.059.2.890.3390.0000 |6.666,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.091.3.501.3290.0000 |4.800.000,00 |
-
-|4001.28.844.091.3.089.3290.0000 |18.200.000,00 |
-
-|4001.28.844.091.3.089.4690.0000 |3.000.000,00 |
-
-|4001.99.999.999.9.999.9999.0000 |112.000,00 |
-
-|TOTAL DA ANULAÇÃO |34.089.965,99 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.096.2.004.3390.0000 | 326.291,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.014.2.809.3190.0000 | 96.244,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.073.1.202.4490.0000 | 1.781.534,00 |
+| 2700.16.482.225.1.231.4490.0000 | 1.600.000,00 |
+| 2700.17.512.066.1.203.4490.0000 | 4.020.466,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.141.2.852.3390.0000 | 14.016,00 |
+| 2800.11.334.237.2.404.3390.0030 | 43.667,99 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.629.3390.0007 | 5.000,00 |
+| Fundo Municipal do Trabalho – FMTP |  |
+| 2810.11.334.237.2.404.3390.0000 | 24.081,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.155.2.908.3390.0000 | 60.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.059.2.890.3390.0000 | 6.666,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.091.3.501.3290.0000 | 4.800.000,00 |
+| 4001.28.844.091.3.089.3290.0000 | 18.200.000,00 |
+| 4001.28.844.091.3.089.4690.0000 | 3.000.000,00 |
+| 4001.99.999.999.9.999.9999.0000 | 112.000,00 |
+| TOTAL DA ANULAÇÃO | 34.089.965,99 |
 
 ANEXO II
 
@@ -222,32 +175,19 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4º da Lei nº 11.336, |Caput do art. 4º, limite de 15%|Inciso I do § 1º do art. 4º, |Inciso II do § 1º do art. 4º,|
-
-|de 30/12/2021 - Limites |do valor total do Orçamento: |limite de 15% do total do |limite de 15% do total do |
-
-|autorizados para abertura | |Orçamento do Grupo 1 - |Orçamento do Fundo Municipal |
-
-|de créditos suplementares.| |Pessoal e Encargos Sociais: |de Saúde - FMS: |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 863.392.217,15 |R$ 144.535.272,88 |R$ 475.637.761,83 |
-
-|suplementares abertos no | | | |
-
-|exercício | | | |
-
-|Saldos de créditos |R$ 1.437.758.468,50 |R$ 739.457.035,82 |R$ 251.579.390,82 |
-
-|suplementares | | | |
-
-|Percentual utilizado |37,52% |16,35% |65,41% |
-
-|Atualizado em 18/10/2022 às 17:15:20 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4º da Lei nº 11.336, | Caput do art. 4º, limite de 15% | Inciso I do § 1º do art. 4º, | Inciso II do § 1º do art. 4º, |
+| de 30/12/2021 - Limites | do valor total do Orçamento: | limite de 15% do total do | limite de 15% do total do |
+| autorizados para abertura |  | Orçamento do Grupo 1 - | Orçamento do Fundo Municipal |
+| de créditos suplementares. |  | Pessoal e Encargos Sociais: | de Saúde - FMS: |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 863.392.217,15 | R$ 144.535.272,88 | R$ 475.637.761,83 |
+| suplementares abertos no |  |  |  |
+| exercício |  |  |  |
+| Saldos de créditos | R$ 1.437.758.468,50 | R$ 739.457.035,82 | R$ 251.579.390,82 |
+| suplementares |  |  |  |
+| Percentual utilizado | 37,52% | 16,35% | 65,41% |
+| Atualizado em 18/10/2022 às 17:15:20 |  |  |  |

@@ -58,87 +58,51 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2308.449052.1.661.000 |41.000,00 |
-
-|Hospital Metropolitano Odilon Behrens – HOB |
-
-|2301.10.302.0030.2620.339039.1.659.002 |64.000,00 |
-
-|2301.10.122.0030.2900.339039.1.659.002 |149.450,00 |
-
-|2301.10.122.0030.2900.339040.1.659.002 |192.000,00 |
-
-|2301.10.122.0030.2900.449040.1.659.002 |32.100,00 |
-
-|2301.10.122.0030.2900.449052.1.659.002 |106.600,00 |
-
-|2301.10.302.0030.2875.339092.1.659.002 |41.850,00 |
-
-|TOTAL |627.000,00 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 20 da Lei |R$ |
-
-|nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de | |
-
-|dezembro de 2024: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.339039.1.500.000 |1.000,00 |
-
-|TOTAL |1.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |628.000,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.449052.1.661.000 | 41.000,00 |
+| Hospital Metropolitano Odilon Behrens – HOB |  |
+| 2301.10.302.0030.2620.339039.1.659.002 | 64.000,00 |
+| 2301.10.122.0030.2900.339039.1.659.002 | 149.450,00 |
+| 2301.10.122.0030.2900.339040.1.659.002 | 192.000,00 |
+| 2301.10.122.0030.2900.449040.1.659.002 | 32.100,00 |
+| 2301.10.122.0030.2900.449052.1.659.002 | 106.600,00 |
+| 2301.10.302.0030.2875.339092.1.659.002 | 41.850,00 |
+| TOTAL | 627.000,00 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 20 da Lei | R$ |
+| nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de |  |
+| dezembro de 2024: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.339039.1.500.000 | 1.000,00 |
+| TOTAL | 1.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 628.000,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0113.2350.449040.1.661.000 |41.000,00 |
-
-|Hospital Metropolitano Odilon Behrens – HOB |
-
-|2301.10.302.0030.2620.339039.1.659.002 |245.500,00 |
-
-|2301.10.302.0030.2620.339014.1.659.002 |6.000,00 |
-
-|2301.10.302.0030.2620.339049.1.659.002 |273.000,00 |
-
-|2301.10.302.0030.2620.449040.1.659.002 |7.000,00 |
-
-|2301.10.122.0030.2900.339049.1.659.002 |39.500,00 |
-
-|2301.10.122.0030.2900.339092.1.659.002 |6.000,00 |
-
-|2301.10.302.0030.2875.339049.1.659.002 |9.000,00 |
-
-|TOTAL |627.000,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de|R$ |
-
-|emenda prevista inicialmente no órgão relacionado abaixo, conforme autorização | |
-
-|contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da | |
-
-|Lei nº 11.644, de 29 de dezembro de 2024: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.449052.1.500.000 |1.000,00 |
-
-|TOTAL |1.000,00 |
-
-|TOTAL DA ANULAÇÃO |628.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0113.2350.449040.1.661.000 | 41.000,00 |
+| Hospital Metropolitano Odilon Behrens – HOB |  |
+| 2301.10.302.0030.2620.339039.1.659.002 | 245.500,00 |
+| 2301.10.302.0030.2620.339014.1.659.002 | 6.000,00 |
+| 2301.10.302.0030.2620.339049.1.659.002 | 273.000,00 |
+| 2301.10.302.0030.2620.449040.1.659.002 | 7.000,00 |
+| 2301.10.122.0030.2900.339049.1.659.002 | 39.500,00 |
+| 2301.10.122.0030.2900.339092.1.659.002 | 6.000,00 |
+| 2301.10.302.0030.2875.339049.1.659.002 | 9.000,00 |
+| TOTAL | 627.000,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| emenda prevista inicialmente no órgão relacionado abaixo, conforme autorização |  |
+| contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da |  |
+| Lei nº 11.644, de 29 de dezembro de 2024: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.449052.1.500.000 | 1.000,00 |
+| TOTAL | 1.000,00 |
+| TOTAL DA ANULAÇÃO | 628.000,00 |
 
 ANEXO II
 
@@ -172,46 +136,29 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.225.101.063,29 |
-
-|Valor do Decreto publicado nesta data |R$ 627.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.225.728.063,29 |
-
-|Saldo atual de créditos suplementares |R$ 757.604.709,11 |
-
-|Percentual utilizado |61,80% |
-
-|Atualizado em 16/12/2024 às 09:30:30 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.225.101.063,29 |
+| Valor do Decreto publicado nesta data | R$ 627.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.225.728.063,29 |
+| Saldo atual de créditos suplementares | R$ 757.604.709,11 |
+| Percentual utilizado | 61,80% |
+| Atualizado em 16/12/2024 às 09:30:30 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 170.400.546,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 22.307.439,44 |
-
-|Valor do Decreto publicado nesta data |R$ 1.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 22.308.439,44 |
-
-|Saldo atual de créditos suplementares |R$ 148.092.106,56 |
-
-|Percentual utilizado |13,09% |
-
-|Atualizado em 16/12/2024 às 09:39:35 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 170.400.546,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 22.307.439,44 |
+| Valor do Decreto publicado nesta data | R$ 1.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 22.308.439,44 |
+| Saldo atual de créditos suplementares | R$ 148.092.106,56 |
+| Percentual utilizado | 13,09% |
+| Atualizado em 16/12/2024 às 09:39:35 |  |

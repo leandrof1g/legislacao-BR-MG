@@ -54,57 +54,36 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos, conforme autorização contida no |
-
-|caput do art. 4º da Lei nº 11.211, de 26 de dezembro de 2019: |
-
-|R$ |
-
-|0101.01.031.001.2.001.3190.0100 |1.500,00 |
-
-|0101.01.031.001.2.001.3391.0300 |12.000,00 |
-
-|2708.17.512.046.2.900.3390.0300 |1.205.448,00 |
-
-|TOTAL |1.218.948,00 |
-
-|I.2 – A favor do Fundo Municipal de Saúde, conforme autorização |
-
-|contida no inciso II do § 1º do art. 4º da Lei nº 11.211, de 2019:|
-
-|R$ |
-
-|2302.10.302.114.2.893.4490.0400 |395.000,00 |
-
-|TOTAL |395.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.613.948,00 |
+| I.1 – A favor de diversos órgãos, conforme autorização contida no |  |
+| --- | --- |
+| caput do art. 4º da Lei nº 11.211, de 26 de dezembro de 2019: |  |
+| R$ |  |
+| 0101.01.031.001.2.001.3190.0100 | 1.500,00 |
+| 0101.01.031.001.2.001.3391.0300 | 12.000,00 |
+| 2708.17.512.046.2.900.3390.0300 | 1.205.448,00 |
+| TOTAL | 1.218.948,00 |
+| I.2 – A favor do Fundo Municipal de Saúde, conforme autorização |  |
+| contida no inciso II do § 1º do art. 4º da Lei nº 11.211, de 2019: |  |
+| R$ |  |
+| 2302.10.302.114.2.893.4490.0400 | 395.000,00 |
+| TOTAL | 395.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.613.948,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1|
-
-|da tabela anterior: |
-
-|R$ |
-
-|0101.01.031.001.2.001.3390.0300 |13.500,00 |
-
-|2708.17.512.228.2.538.3390.0300 |1.205.448,00 |
-
-|TOTAL |1.218.948,00 |
-
-|II.2 – Em contrapartida à suplementação relacionada no item I.2 da|
-
-|tabela anterior: |
-
-|R$ |
-
-|2302.10.302.114.2.893.3390.0300 |395.000,00 |
-
-|TOTAL |395.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.613.948,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 0101.01.031.001.2.001.3390.0300 | 13.500,00 |
+| 2708.17.512.228.2.538.3390.0300 | 1.205.448,00 |
+| TOTAL | 1.218.948,00 |
+| II.2 – Em contrapartida à suplementação relacionada no item I.2 da |  |
+| tabela anterior: |  |
+| R$ |  |
+| 2302.10.302.114.2.893.3390.0300 | 395.000,00 |
+| TOTAL | 395.000,00 |
+| TOTAL DA ANULAÇÃO | 1.613.948,00 |
 
 ## Observações da CMBH
 

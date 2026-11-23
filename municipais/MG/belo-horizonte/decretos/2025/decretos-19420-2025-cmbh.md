@@ -60,31 +60,23 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § |R$ |
-
-|3º do art. 19 da Lei nº 11.742, de 13 de setembro de 2024, e no art. 1º da Lei nº | |
-
-|11.875, de 14 de julho de 2025: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0302.1334.449052.1.500.000 |13.313,24 |
-
-|TOTAL DA SUPLEMENTAÇÃO |13.313,24 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 3º do art. 19 da Lei nº 11.742, de 13 de setembro de 2024, e no art. 1º da Lei nº |  |
+| 11.875, de 14 de julho de 2025: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0302.1334.449052.1.500.000 | 13.313,24 |
+| TOTAL DA SUPLEMENTAÇÃO | 13.313,24 |
 
 I.2 – Anulação da seguinte dotação orçamentária a que se refere o art. 2º.
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente no órgão relacionado abaixo, conforme | |
-
-|autorização contida no art. 2º da Lei nº 11.875, de 14 de julho de 2025: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.1.500.000 |13.313,24 |
-
-|TOTAL DA ANULAÇÃO |13.313,24 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente no órgão relacionado abaixo, conforme |  |
+| autorização contida no art. 2º da Lei nº 11.875, de 14 de julho de 2025: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.1.500.000 | 13.313,24 |
+| TOTAL DA ANULAÇÃO | 13.313,24 |
 
 ANEXO II
 
@@ -108,23 +100,16 @@ SALDO ATUAL DE CRÉDITO SUPLEMENTAR
 
 III.1 – Demonstração do saldo de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 1º da Lei nº 11.875, de 14 de julho de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |
-
-|Art. 1º da Lei nº 11.875, de 14/07/2025 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 11.680.000,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 3.476.013,00 |
-
-|Valor do decreto publicado nesta data |R$ 13.313,24 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 3.489.326,24 |
-
-|Saldo atual de créditos suplementares |R$ 8.190.673,76 |
-
-|Percentual utilizado |29,87% |
-
-|Atualizado em 16/12/2025 às 16:09:06 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.875, de 14/07/2025 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 11.680.000,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 3.476.013,00 |
+| Valor do decreto publicado nesta data | R$ 13.313,24 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 3.489.326,24 |
+| Saldo atual de créditos suplementares | R$ 8.190.673,76 |
+| Percentual utilizado | 29,87% |
+| Atualizado em 16/12/2025 às 16:09:06 |  |
 
 ## Observações da CMBH
 

@@ -504,103 +504,60 @@ ANEXO I
 
 QUADRO DAS ATIVIDADES E PONTOS ATRIBUÍDOS DA GRATIFICAÇÃO DE ESTÍMULO À COBRANÇA DA DÍVIDA ATIVA DO MUNICÍPIO
 
-|CÓDIGO |DESCRIÇÃO DOS PONTOS POSITIVOS |PONTUAÇÃO |
-
-|01 |Informação ou instauração de processo |50 |
-
-| |administrativo, no prazo de 10 dias | |
-
-|02 |Cumprimento de tarefa especial extraordinária, | |
-
-| |designada pela Gerência | |
-
-|02.01 |No horário |200 |
-
-|02.02 |Fora do horário |600 |
-
-|03 |Ofícios a órgãos e autoridades federais, |50 |
-
-| |estaduais e municipais | |
-
-|04 |Elaboração de parecer por regular distribuição | |
-
-| |de processo da Junta de Recursos Fiscais da | |
-
-| |Secretaria Municipal da Fazenda, no prazo | |
-
-| |designado e com comparecimento na sessão | |
-
-| |respectiva | |
-
-|04.01 |Nos casos de menor complexidade |600 |
-
-|04.02 |Nos casos de maior complexidade, reconhecida |1200 |
-
-| |pela Gerência Jurídico Fiscal | |
-
-|05 |Participação em comissões |600 p/reunião |
-
-|CÓDIGO |DESCRIÇÃO DE PONTOS NEGATIVOS |PONTUAÇÃO |
-
-|06 |Abertura irregular de Processo Administrativo. |60 |
-
-|07 |Não devolução do Processo Administrativo no |10 |
-
-| |prazo determinado. | |
-
-|08 |Não cumprimento ou recusa em cumprir as tarefas|100 |
-
-| |especiais extraordinárias designadas. | |
-
-|09 |Falta injustificada no plantão fiscal. |600 |
-
-|10 |Deixar de elaborar parecer no prazo assinado |100 |
-
-| |pela Junta de Recursos Fiscais | |
+| CÓDIGO | DESCRIÇÃO DOS PONTOS POSITIVOS | PONTUAÇÃO |
+| --- | --- | --- |
+| 01 | Informação ou instauração de processo | 50 |
+|  | administrativo, no prazo de 10 dias |  |
+| 02 | Cumprimento de tarefa especial extraordinária, |  |
+|  | designada pela Gerência |  |
+| 02.01 | No horário | 200 |
+| 02.02 | Fora do horário | 600 |
+| 03 | Ofícios a órgãos e autoridades federais, | 50 |
+|  | estaduais e municipais |  |
+| 04 | Elaboração de parecer por regular distribuição |  |
+|  | de processo da Junta de Recursos Fiscais da |  |
+|  | Secretaria Municipal da Fazenda, no prazo |  |
+|  | designado e com comparecimento na sessão |  |
+|  | respectiva |  |
+| 04.01 | Nos casos de menor complexidade | 600 |
+| 04.02 | Nos casos de maior complexidade, reconhecida | 1200 |
+|  | pela Gerência Jurídico Fiscal |  |
+| 05 | Participação em comissões | 600 p/reunião |
+| CÓDIGO | DESCRIÇÃO DE PONTOS NEGATIVOS | PONTUAÇÃO |
+| 06 | Abertura irregular de Processo Administrativo. | 60 |
+| 07 | Não devolução do Processo Administrativo no | 10 |
+|  | prazo determinado. |  |
+| 08 | Não cumprimento ou recusa em cumprir as tarefas | 100 |
+|  | especiais extraordinárias designadas. |  |
+| 09 | Falta injustificada no plantão fiscal. | 600 |
+| 10 | Deixar de elaborar parecer no prazo assinado | 100 |
+|  | pela Junta de Recursos Fiscais |  |
 
 ANEXO II
 
 QUADRO DAS ATIVIDADES E PONTOS NEGATIVOS ATRIBUÍDOS DA GRATIFICAÇÃO POR ATIVIDADE JUDICIAL
 
-|CÓDIGO |DESCRIÇÃO DE PONTOS NEGATIVOS |PONTUAÇÃO |
-
-|01 |Abertura irregular de processo |50 |
-
-| |administrativo | |
-
-|02 |Não devolução do processo administrativo no |10 |
-
-| |prazo determinado | |
-
-|03 |Instrução inadequada do PA ou PAF |50 |
-
-|04 |Não cumprimento ou recusa em cumprir as |100 |
-
-| |tarefas especiais extraordinárias designadas| |
-
-|05 |Descumprimento ou inobservância de ato |200 |
-
-| |processual indispensável | |
-
-|05.01 |Se o ato processual for contestação, |mais 100 pontos |
-
-| |apelação ou audiência | |
-
-|05.02 |Se o ato processual não estiver compreendido|mais 10 pontos |
-
-| |acima |conforme dispuser |
-
-| | |instrução de |
-
-| | |serviço específica |
-
-|06 |Descumprimento ou inobservância de ato |200 |
-
-| |processual determinado pela Gerência | |
-
-|07 |Deixar de ajuizar ação no prazo estabelecido|100 |
-
-| |pela Gerência | |
+| CÓDIGO | DESCRIÇÃO DE PONTOS NEGATIVOS | PONTUAÇÃO |
+| --- | --- | --- |
+| 01 | Abertura irregular de processo | 50 |
+|  | administrativo |  |
+| 02 | Não devolução do processo administrativo no | 10 |
+|  | prazo determinado |  |
+| 03 | Instrução inadequada do PA ou PAF | 50 |
+| 04 | Não cumprimento ou recusa em cumprir as | 100 |
+|  | tarefas especiais extraordinárias designadas |  |
+| 05 | Descumprimento ou inobservância de ato | 200 |
+|  | processual indispensável |  |
+| 05.01 | Se o ato processual for contestação, | mais 100 pontos |
+|  | apelação ou audiência |  |
+| 05.02 | Se o ato processual não estiver compreendido | mais 10 pontos |
+|  | acima | conforme dispuser |
+|  |  | instrução de |
+|  |  | serviço específica |
+| 06 | Descumprimento ou inobservância de ato | 200 |
+|  | processual determinado pela Gerência |  |
+| 07 | Deixar de ajuizar ação no prazo estabelecido | 100 |
+|  | pela Gerência |  |
 
 OBS: Os pontos negativos serão atribuídos sem prejuízo das sanções disciplinares aplicáveis ao caso concreto.
 

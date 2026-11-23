@@ -58,109 +58,62 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da Lei|R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.366.0168.2080.319113.1.543.000 |6.100,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0014.2021.319011.1.500.000 |634.200,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2571.319011.1.500.000 |2.693.000,00 |
-
-|3300.15.452.0059.2571.319004.1.500.000 |634.200,00 |
-
-|3300.15.452.0059.2571.319007.1.500.000 |2.900,00 |
-
-|3300.15.452.0059.2571.319013.1.500.000 |35.200,00 |
-
-|3300.15.452.0059.2571.319113.1.500.000 |472.100,00 |
-
-|TOTAL |4.477.700,00 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei nº|R$ |
-
-|11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2571.339046.1.500.000 |176.300,00 |
-
-|TOTAL |176.300,00 |
-
-|I.1.3 – A favor dos seguintes órgãos, conforme autorização contida no art. 19 da Lei|R$ |
-
-|nº 11.742, de 13 de setembro de 2024, e no art. 7º da Lei nº 11.802, de 3 de janeiro| |
-
-|de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.449052.1.500.000 |601.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2545.339039.1.500.000 |323.750,00 |
-
-|3000.27.812.0101.2933.339039.1.500.000 |500.000,00 |
-
-|TOTAL |1.424.750,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |6.078.750,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da Lei | R$ |
+| --- | --- |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.366.0168.2080.319113.1.543.000 | 6.100,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0014.2021.319011.1.500.000 | 634.200,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2571.319011.1.500.000 | 2.693.000,00 |
+| 3300.15.452.0059.2571.319004.1.500.000 | 634.200,00 |
+| 3300.15.452.0059.2571.319007.1.500.000 | 2.900,00 |
+| 3300.15.452.0059.2571.319013.1.500.000 | 35.200,00 |
+| 3300.15.452.0059.2571.319113.1.500.000 | 472.100,00 |
+| TOTAL | 4.477.700,00 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei nº | R$ |
+| 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2571.339046.1.500.000 | 176.300,00 |
+| TOTAL | 176.300,00 |
+| I.1.3 – A favor dos seguintes órgãos, conforme autorização contida no art. 19 da Lei | R$ |
+| nº 11.742, de 13 de setembro de 2024, e no art. 7º da Lei nº 11.802, de 3 de janeiro |  |
+| de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.449052.1.500.000 | 601.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.1.500.000 | 323.750,00 |
+| 3000.27.812.0101.2933.339039.1.500.000 | 500.000,00 |
+| TOTAL | 1.424.750,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 6.078.750,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0014.2809.319011.1.500.000 |634.200,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.319011.1.543.000 |6.100,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.122.0007.3010.319094.1.500.000 |3.837.400,00 |
-
-|TOTAL |4.477.700,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.122.0007.3010.319094.1.500.000 |176.300,00 |
-
-|TOTAL |176.300,00 |
-
-|I.2.3 – Em contrapartida às suplementações relacionadas no item I.1.3, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2106.339039.1.500.000 |550.000,00 |
-
-|3000.27.812.0101.2933.339039.1.500.000 |273.750,00 |
-
-|Fundo de Operação do Parque das Mangabeiras – FPQMAMA |
-
-|2504.18.541.0073.2812.449052.1.500.000 |601.000,00 |
-
-|TOTAL |1.424.750,00 |
-
-|TOTAL DA ANULAÇÃO |6.078.750,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0014.2809.319011.1.500.000 | 634.200,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.319011.1.543.000 | 6.100,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.122.0007.3010.319094.1.500.000 | 3.837.400,00 |
+| TOTAL | 4.477.700,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.122.0007.3010.319094.1.500.000 | 176.300,00 |
+| TOTAL | 176.300,00 |
+| I.2.3 – Em contrapartida às suplementações relacionadas no item I.1.3, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2106.339039.1.500.000 | 550.000,00 |
+| 3000.27.812.0101.2933.339039.1.500.000 | 273.750,00 |
+| Fundo de Operação do Parque das Mangabeiras – FPQMAMA |  |
+| 2504.18.541.0073.2812.449052.1.500.000 | 601.000,00 |
+| TOTAL | 1.424.750,00 |
+| TOTAL DA ANULAÇÃO | 6.078.750,00 |
 
 ANEXO II
 
@@ -204,75 +157,48 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 5º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 30.810.470,00 |
-
-|Valor do Decreto publicado nesta data |R$ 4.477.700,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 35.288.170,00 |
-
-|Saldo atual de créditos suplementares |R$ 2.230.092.627,30 |
-
-|Percentual utilizado |1,56% |
-
-|Atualizado em 27/02/2025 às 14:02:28 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 30.810.470,00 |
+| Valor do Decreto publicado nesta data | R$ 4.477.700,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 35.288.170,00 |
+| Saldo atual de créditos suplementares | R$ 2.230.092.627,30 |
+| Percentual utilizado | 1,56% |
+| Atualizado em 27/02/2025 às 14:02:28 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 6º, limite de 10% do |
-
-|abertura de créditos suplementares. |valor total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 41.641.594,79 |
-
-|Valor do Decreto publicado nesta data |R$ 176.300,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 41.817.894,79 |
-
-|Saldo atual de créditos suplementares |R$ 2.223.562.902,51 |
-
-|Percentual utilizado |1,85% |
-
-|Atualizado em 27/02/2025 às 14:03:00 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 6º, limite de 10% do |
+| abertura de créditos suplementares. | valor total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 41.641.594,79 |
+| Valor do Decreto publicado nesta data | R$ 176.300,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 41.817.894,79 |
+| Saldo atual de créditos suplementares | R$ 2.223.562.902,51 |
+| Percentual utilizado | 1,85% |
+| Atualizado em 27/02/2025 às 14:03:00 |  |
 
 III.3 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 7º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 7º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 192.497.922,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 0,00 |
-
-|Valor do Decreto publicado nesta data |R$ 1.424.750,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.424.750,00 |
-
-|Saldo atual de créditos suplementares |R$ 191.073.172,00 |
-
-|Percentual utilizado |0,74% |
-
-|Atualizado em 27/02/2025 às 14:03:21 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 192.497.922,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 0,00 |
+| Valor do Decreto publicado nesta data | R$ 1.424.750,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.424.750,00 |
+| Saldo atual de créditos suplementares | R$ 191.073.172,00 |
+| Percentual utilizado | 0,74% |
+| Atualizado em 27/02/2025 às 14:03:21 |  |
 
 Item III.3 retificado em 11/3/2025
 

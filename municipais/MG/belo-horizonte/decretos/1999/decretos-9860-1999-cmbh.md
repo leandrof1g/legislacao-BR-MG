@@ -60,7 +60,7 @@ Secretário Municipal da Fazenda
 
 ANEXO ÚNICO DO DECRETO 9.831/99
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

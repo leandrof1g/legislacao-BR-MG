@@ -40,11 +40,10 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE EDUCAÇÃO DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CLASSES |Nº DE CARGOS |
-
-|[...] |[...] |
-
-|6. Professor para a Educação Infantil |4900”. (NR) |
+| CLASSES | Nº DE CARGOS |
+| --- | --- |
+| [...] | [...] |
+| 6. Professor para a Educação Infantil | 4900”. (NR) |
 
 **Art. 4º** - O item 5 do Anexo II da Lei nº 7.235/96 passa a vigorar com a seguinte redação:
 
@@ -76,19 +75,14 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **§ 1º** - O Abono de Estímulo à Fixação Profissional será pago aos servidores e empregados públicos referidos no caput deste artigo em cada vínculo efetivo de que for detentor e/ou na hipótese de cumprimento de extensão de jornada, desde que, em cada uma dessas hipóteses, estejam atendidos os requisitos estabelecidos nos seus incisos I a III, nos seguintes valores:
 
-|CARGOS E EMPREGOS PÚBLICOS |ABONO DE ESTÍMULO |
-
-| |À FIXAÇÃO PROFISSIONAL (em R$) |
-
-|Professor para a Educação Infantil |800,00 |
-
-|Pedagogo |800,00 |
-
-|Técnico Superior de Educação em exercício de Supervisão |800,00 |
-
-|Pedagógica ou Orientação Educacional | |
-
-|Professor Municipal |800,00 |
+| CARGOS E EMPREGOS PÚBLICOS | ABONO DE ESTÍMULO |
+| --- | --- |
+|  | À FIXAÇÃO PROFISSIONAL (em R$) |
+| Professor para a Educação Infantil | 800,00 |
+| Pedagogo | 800,00 |
+| Técnico Superior de Educação em exercício de Supervisão | 800,00 |
+| Pedagógica ou Orientação Educacional |  |
+| Professor Municipal | 800,00 |
 
 ”. (NR)
 
@@ -98,19 +92,14 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **§ 2º** - Será pago 1 (um) Prêmio por Participação em Reunião Pedagógica a cada mês, limitado a 10 (dez) prêmios a cada ano, conforme o regulamento desta lei, nos seguintes valores:
 
-|CARGOS E EMPREGOS PÚBLICOS |PRÊMIO POR PARTICIPAÇÃO EM REUNIÃO |
-
-| |PEDAGÓGICA (em R$) |
-
-|Professor para a Educação Infantil |100,00 |
-
-|Pedagogo |100,00 |
-
-|Técnico Superior de Educação em exercício de Supervisão |100,00 |
-
-|Pedagógica ou Orientação Educacional | |
-
-|Professor Municipal |100,00 |
+| CARGOS E EMPREGOS PÚBLICOS | PRÊMIO POR PARTICIPAÇÃO EM REUNIÃO |
+| --- | --- |
+|  | PEDAGÓGICA (em R$) |
+| Professor para a Educação Infantil | 100,00 |
+| Pedagogo | 100,00 |
+| Técnico Superior de Educação em exercício de Supervisão | 100,00 |
+| Pedagógica ou Orientação Educacional |  |
+| Professor Municipal | 100,00 |
 
 ”. (NR)
 
@@ -118,7 +107,8 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO XXVIII TABELAS DE VENCIMENTOS-BASE E SALÁRIOS-BASE DOS CARGOS E EMPREGOS PÚBLICOS EFETIVOS INTEGRANTES DOS PLANOS DE CARREIRAS DAS ÁREAS DE ATIVIDADES DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO, COM VIGÊNCIA A PARTIR DE 1º DE NOVEMBRO DE 2012 A - Tabela de vencimentos-base do Plano de Carreira da Área de Atividades de Educação, instituído pela Lei nº 7.235/96
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |
+| --- |
 
 NÍVEL |[...] |[...] |[...] |[...] |Professor para a Educação Infantil |[...] |[...] | |1 |[...] |[...] |[...] |[...] |1.186,85 |[...] |[...] | |2 |[...] |[...] |[...] |[...] |1.246,19 |[...] |[...] | |3 |[...] |[...] |[...] |[...] |1.308,50 |[...] |[...] | |4 |[...] |[...] |[...] |[...] |1.373,93 |[...] |[...] | |5 |[...] |[...] |[...] |[...] |1.442,63 |[...] |[...] | |6 |[...] |[...] |[...] |[...] |1.514,76 |[...] |[...] | |7 |[...] |[...] |[...] |[...] |1.590,49 |[...] |[...] | |8 |[...] |[...] |[...] |[...] |1.670,02 |[...] |[...] | |9 |[...] |[...] |[...] |[...] |1.753,52 |[...] |[...] | |10 |[...] |[...] |[...] |[...] |1.841,20 |[...] |[...] | |11 |[...] |[...] |[...] |[...] |1.933,26 |[...] |[...] | |12 |[...] |[...] |[...] |[...] |2.029,92 |[...] |[...] | |13 |[...] |[...] |[...] |[...] |2.131,41 |[...] |[...] | |14 |[...] |[...] |[...] |[...] |2.237,99 |[...] |[...] | |15 |[...] |[...] |[...] |[...] |2.349,88 |[...] |[...] | |16 |[...] | | | | | | | |17 |[...] | | | | | | | |18 |[...] | | | | | | | |19 |[...] | | | | | | | |20 |[...] | | | | | | | |21 |[...] | | | | | | | |22 |[...] | | | | | | | |23 |[...] | | | | | | | |24 |[...] | | | | | | | |”. (NR)
 

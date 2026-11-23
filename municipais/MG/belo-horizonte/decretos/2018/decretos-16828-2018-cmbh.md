@@ -46,4 +46,5 @@ ANEXO
 
 (a que se refere o art. 1º do Decreto nº 16.828, de 17 de janeiro de 2018)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

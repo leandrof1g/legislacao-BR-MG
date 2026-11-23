@@ -70,47 +70,28 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei | |
-
-|nº 11.594, de 22 de setembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |230.896,60 |
-
-|2302.10.302.0114.2936.339030.2.621.000 |10.328,58 |
-
-|2302.10.302.0114.2936.339039.2.621.000 |46.933,16 |
-
-|2302.10.302.0114.2936.339092.2.621.000 |300,00 |
-
-|Fundo Municipal do Idoso – FMI |
-
-|1018.14.241.0235.2697.339039.2.501.778 |18.750.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.449052.2.710.610 |16.704,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.122.0030.2900.339040.2.749.778 |3.025.528,99 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.122.0307.2900.449051.2.500.000 |1.500.000,00 |
-
-|Fundo de Mobilidade Urbana – FMU |
-
-|3303.26.452.0060.2837.339030.2.752.000 |87.140,00 |
-
-|3303.26.452.0060.2837.339039.2.752.000 |3.734.804,00 |
-
-|3303.26.452.0060.2837.449051.2.752.000 |3.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |30.402.635,33 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei |  |
+| nº 11.594, de 22 de setembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 230.896,60 |
+| 2302.10.302.0114.2936.339030.2.621.000 | 10.328,58 |
+| 2302.10.302.0114.2936.339039.2.621.000 | 46.933,16 |
+| 2302.10.302.0114.2936.339092.2.621.000 | 300,00 |
+| Fundo Municipal do Idoso – FMI |  |
+| 1018.14.241.0235.2697.339039.2.501.778 | 18.750.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.449052.2.710.610 | 16.704,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.122.0030.2900.339040.2.749.778 | 3.025.528,99 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.122.0307.2900.449051.2.500.000 | 1.500.000,00 |
+| Fundo de Mobilidade Urbana – FMU |  |
+| 3303.26.452.0060.2837.339030.2.752.000 | 87.140,00 |
+| 3303.26.452.0060.2837.339039.2.752.000 | 3.734.804,00 |
+| 3303.26.452.0060.2837.449051.2.752.000 | 3.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 30.402.635,33 |
 
 ANEXO II
 

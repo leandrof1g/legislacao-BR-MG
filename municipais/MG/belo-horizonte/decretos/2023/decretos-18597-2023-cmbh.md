@@ -56,43 +56,29 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida nos artigos 1º e 3º|R$ |
-
-|da Lei nº 11.602, de 17 de outubro de 2023: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.1100.15.451.233.1.396.449051.500 |200.000,00 |
-
-|2700.1100.18.541.233.2.811.339039.500 |20.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.1100.18.541.073.2.812.339039.500 |100.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |320.000,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida nos artigos 1º e 3º | R$ |
+| --- | --- |
+| da Lei nº 11.602, de 17 de outubro de 2023: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.1100.15.451.233.1.396.449051.500 | 200.000,00 |
+| 2700.1100.18.541.233.2.811.339039.500 | 20.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.1100.18.541.073.2.812.339039.500 | 100.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 320.000,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização | |
-
-|contida nos artigos 1º e 3° da Lei n° 11.602, de 17 de outubro de 2023: | |
-
-|Fundo de Operação do Parque das Mangabeiras – FPQMAMA |
-
-|2504.1100.18.541.073.2.812.339039.500 |100.000,00 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.0700.18.541.233.2.811.339039.500 |20.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.0100.10.122.117.1.216.449051.500 |200.000,00 |
-
-|TOTAL DA ANULAÇÃO |320.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização |  |
+| contida nos artigos 1º e 3° da Lei n° 11.602, de 17 de outubro de 2023: |  |
+| Fundo de Operação do Parque das Mangabeiras – FPQMAMA |  |
+| 2504.1100.18.541.073.2.812.339039.500 | 100.000,00 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.0700.18.541.233.2.811.339039.500 | 20.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.0100.10.122.117.1.216.449051.500 | 200.000,00 |
+| TOTAL DA ANULAÇÃO | 320.000,00 |
 
 ANEXO II
 

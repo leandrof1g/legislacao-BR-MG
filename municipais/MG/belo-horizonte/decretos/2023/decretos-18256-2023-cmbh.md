@@ -58,77 +58,46 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4° da |R$ |
-
-|Lei n° 11.442, de 29 de dezembro de 2022: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.1100.06.122.109.2.802.449040.500 |67.828,00 |
-
-|2100.1100.06.122.109.2.802.449052.500 |453.482,00 |
-
-|2100.2900.06.181.109.2.803.449052.500 |312.831,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.1100.18.541.073.2.900.319004.500 |4.822,00 |
-
-|2505.1100.18.541.073.2.900.339036.500 |4.638,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.1100.11.334.237.2.404.339030.500 |2.544,00 |
-
-|2800.1100.11.334.237.2.404.339037.500 |136.890,00 |
-
-|2800.1100.11.334.237.2.404.339039.500 |6.210,00 |
-
-|2800.1100.11.334.237.2.404.339040.500 |12.960,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.1100.23.695.086.2.914.339040.500 |5.180,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.1100.27.813.101.2.545.449052.500 |6.714,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.014.099,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4° da | R$ |
+| --- | --- |
+| Lei n° 11.442, de 29 de dezembro de 2022: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.1100.06.122.109.2.802.449040.500 | 67.828,00 |
+| 2100.1100.06.122.109.2.802.449052.500 | 453.482,00 |
+| 2100.2900.06.181.109.2.803.449052.500 | 312.831,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.1100.18.541.073.2.900.319004.500 | 4.822,00 |
+| 2505.1100.18.541.073.2.900.339036.500 | 4.638,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.1100.11.334.237.2.404.339030.500 | 2.544,00 |
+| 2800.1100.11.334.237.2.404.339037.500 | 136.890,00 |
+| 2800.1100.11.334.237.2.404.339039.500 | 6.210,00 |
+| 2800.1100.11.334.237.2.404.339040.500 | 12.960,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.1100.23.695.086.2.914.339040.500 | 5.180,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.813.101.2.545.449052.500 | 6.714,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.014.099,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.2900.06.181.109.2.803.339039.500 |834.141,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.1100.18.541.073.2.900.319013.500 |9.460,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.1100.23.695.086.2.914.339039.500 |5.180,00 |
-
-|Fundo Municipal do Trabalho – FMT |
-
-|2810.1100.11.334.237.2.404.339030.500 |2.544,00 |
-
-|2810.1100.11.334.237.2.404.339037.500 |136.890,00 |
-
-|2810.1100.11.334.237.2.404.339039.500 |6.210,00 |
-
-|2810.1100.11.334.237.2.404.339040.500 |12.960,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.1100.27.812.101.2.933.449052.500 |6.714,00 |
-
-|TOTAL DA ANULAÇÃO |1.014.099,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.2900.06.181.109.2.803.339039.500 | 834.141,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.1100.18.541.073.2.900.319013.500 | 9.460,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.1100.23.695.086.2.914.339039.500 | 5.180,00 |
+| Fundo Municipal do Trabalho – FMT |  |
+| 2810.1100.11.334.237.2.404.339030.500 | 2.544,00 |
+| 2810.1100.11.334.237.2.404.339037.500 | 136.890,00 |
+| 2810.1100.11.334.237.2.404.339039.500 | 6.210,00 |
+| 2810.1100.11.334.237.2.404.339040.500 | 12.960,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.812.101.2.933.449052.500 | 6.714,00 |
+| TOTAL DA ANULAÇÃO | 1.014.099,00 |
 
 ANEXO II
 
@@ -168,24 +137,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado para|Art. 4º, limite de 10% do valor |
-
-|abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 122.185.744,52 |
-
-|Valor do Decreto publicado nesta data |R$ 1.014.099,00 |
-
-|Saldo atual de créditos suplementares |R$ 1.590.967.344,68 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 123.199.843,52 |
-
-|Percentual utilizado |7,19% |
-
-|Atualizado em 09/02/2023 às 09:14:10 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado para | Art. 4º, limite de 10% do valor |
+| abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 122.185.744,52 |
+| Valor do Decreto publicado nesta data | R$ 1.014.099,00 |
+| Saldo atual de créditos suplementares | R$ 1.590.967.344,68 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 123.199.843,52 |
+| Percentual utilizado | 7,19% |
+| Atualizado em 09/02/2023 às 09:14:10 |  |

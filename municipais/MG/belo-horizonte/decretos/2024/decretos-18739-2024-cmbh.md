@@ -60,17 +60,13 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § |R$ |
-
-|1º do art. 43, da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da | |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339030.1.569.000 |226.828,98 |
-
-|TOTAL DA SUPLEMENTAÇÃO |226.828,98 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § | R$ |
+| --- | --- |
+| 1º do art. 43, da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da |  |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339030.1.569.000 | 226.828,98 |
+| TOTAL DA SUPLEMENTAÇÃO | 226.828,98 |
 
 ANEXO II
 
@@ -96,24 +92,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 374.588.779,22 |
-
-|Valor do Decreto publicado nesta data |R$ 226.828,98 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 374.815.608,20 |
-
-|Saldo atual de créditos suplementares |R$ 1.608.517.164,20 |
-
-|Percentual utilizado |18,90% |
-
-|Atualizado em 20/06/2024 às 11:54:00 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 374.588.779,22 |
+| Valor do Decreto publicado nesta data | R$ 226.828,98 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 374.815.608,20 |
+| Saldo atual de créditos suplementares | R$ 1.608.517.164,20 |
+| Percentual utilizado | 18,90% |
+| Atualizado em 20/06/2024 às 11:54:00 |  |

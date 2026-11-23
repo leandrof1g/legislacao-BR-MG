@@ -58,69 +58,42 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da |R$ |
-
-|Lei nº 11.442, de 29 de dezembro de 2022: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.1100.04.122.096.2.004.449052.500 |47.829,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.1800.04.122.302.2.365.449035.500 |72.322,04 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.302.114.2.893.339030.621 |288.892,45 |
-
-|Controladoria-Geral do Município – CTGM |
-
-|2400.1100.04.124.012.2.366.339039.500 |492.850,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.1100.04.212.005.2.758.339039.500 |20.000,00 |
-
-|2800.1100.11.334.237.2.404.449052.701 |27.266,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |949.159,49 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da | R$ |
+| --- | --- |
+| Lei nº 11.442, de 29 de dezembro de 2022: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.1100.04.122.096.2.004.449052.500 | 47.829,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.1800.04.122.302.2.365.449035.500 | 72.322,04 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.302.114.2.893.339030.621 | 288.892,45 |
+| Controladoria-Geral do Município – CTGM |  |
+| 2400.1100.04.124.012.2.366.339039.500 | 492.850,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.1100.04.212.005.2.758.339039.500 | 20.000,00 |
+| 2800.1100.11.334.237.2.404.449052.701 | 27.266,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 949.159,49 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.0100.04.122.007.2.900.449052.500 |15.000,00 |
-
-|0201.0200.04.122.007.2.900.449052.500 |15.000,00 |
-
-|0201.0300.04.122.007.2.900.449052.500 |10.000,00 |
-
-|0201.0400.04.122.007.2.900.449052.500 |7.829,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.1800.04.122.166.1.401.449040.500 |72.322,04 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.302.114.2.891.339092.621 |288.892,45 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.1100.04.212.005.2.758.338041.500 |20.000,00 |
-
-|2800.1100.11.334.237.2.404.339039.701 |27.266,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.5701.99.999.999.1.000.999999.500 |492.850,00 |
-
-|TOTAL DA ANULAÇÃO |949.159,49 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.0100.04.122.007.2.900.449052.500 | 15.000,00 |
+| 0201.0200.04.122.007.2.900.449052.500 | 15.000,00 |
+| 0201.0300.04.122.007.2.900.449052.500 | 10.000,00 |
+| 0201.0400.04.122.007.2.900.449052.500 | 7.829,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.1800.04.122.166.1.401.449040.500 | 72.322,04 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.302.114.2.891.339092.621 | 288.892,45 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.1100.04.212.005.2.758.338041.500 | 20.000,00 |
+| 2800.1100.11.334.237.2.404.339039.701 | 27.266,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.5701.99.999.999.1.000.999999.500 | 492.850,00 |
+| TOTAL DA ANULAÇÃO | 949.159,49 |
 
 ANEXO II
 
@@ -162,24 +135,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 618.240.310,07 |
-
-|Valor do Decreto publicado nesta data |R$ 949.159,49 |
-
-|Saldo atual de créditos suplementares |R$ 1.094.977.718,64 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 619.189.469,56 |
-
-|Percentual utilizado |36,12% |
-
-|Atualizado em 25/07/2023 às 09:27:54 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 618.240.310,07 |
+| Valor do Decreto publicado nesta data | R$ 949.159,49 |
+| Saldo atual de créditos suplementares | R$ 1.094.977.718,64 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 619.189.469,56 |
+| Percentual utilizado | 36,12% |
+| Atualizado em 25/07/2023 às 09:27:54 |  |

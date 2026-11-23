@@ -296,23 +296,16 @@ FONTE DE RECURSOS
 
 Em Cz$ mil
 
-|FONTES |VALOR |PERCENTUAL (%) |
-
-|I – UNIÃO |10.150,00 |70,00 |
-
-|01. EBTU – Não Reembolsável |10.150,00 |70,00 |
-
-|II - MUNICÍPIOS |4.350,00 |30,00 |
-
-|71. Orçamento P.M Belo Horizonte |1.837,11 |12,67 |
-
-|71. Orçamento P.M Pedro Leopoldo |520,33 |3,59 |
-
-|71. Orçamento P.M Santa Luzia |1.447,68 |9,98 |
-
-|71. Orçamento P.M Vespasiano |544,88 |3,76 |
-
-|TOTAL |14.500,00 |100,00 |
+| FONTES | VALOR | PERCENTUAL (%) |
+| --- | --- | --- |
+| I – UNIÃO | 10.150,00 | 70,00 |
+| 01. EBTU – Não Reembolsável | 10.150,00 | 70,00 |
+| II - MUNICÍPIOS | 4.350,00 | 30,00 |
+| 71. Orçamento P.M Belo Horizonte | 1.837,11 | 12,67 |
+| 71. Orçamento P.M Pedro Leopoldo | 520,33 | 3,59 |
+| 71. Orçamento P.M Santa Luzia | 1.447,68 | 9,98 |
+| 71. Orçamento P.M Vespasiano | 544,88 | 3,76 |
+| TOTAL | 14.500,00 | 100,00 |
 
 ANEXO II
 
@@ -328,53 +321,31 @@ USOS E FONTES DE RECURSOS POR PROJETO
 
 Em Cr$ mil
 
-|PROGRAMA / SUBPROGRAMA / PROJETO / SUBPROJETO / INTERVENÇÃO |TOTAL |UNIÃO |ÓRGÃO |
-
-| | |01.EBTU |EXECUTOR |
-
-|9. CORREDORES DIVERSOS |4.442,60 |4.442,60 |METROBEL |
-
-| | | | |
-
-|01. SUBPROGRAMA ÔNIBUS |2.970,00 |2.970,00 | |
-
-| | | | |
-
-|03. SISTEMA DE TRANSPORTE PÚBLICO DE PASSAGEIROS |390,00 |390,00 | |
-
-|56.13. Campanhas Informativas / Educativas (Projeto Escola) |390,00 |390,00 | |
-
-| | | | |
-
-|04. SISTEMA GESTOR DO TRANSPORTE URBANO |2.580,00 |2.580,00 | |
-
-|3.32. Organização / Racionalização Administrativa e Operacional (Central METROBRL de | | | |
-
-|Operações) |1.100,00 |1.100,00 | |
-
-|75.35. Capacitação de Pessoal |700,00 |700,00 | |
-
-|75.37. Monitoração |780,00 |780,00 | |
-
-| | | | |
-
-|07. SUBPROGRAMA ADMINISTRAÇÃO DO TRANSPORTE URBANO | | | |
-
-| |1.472,60 |1.472,60 | |
-
-|06. SISTEMA DE PLANEJAMENTO E CONTROLE DOS TRANSPORTES URBANOS | | | |
-
-| | | | |
-
-| |1.472,60 |1.472,60 | |
-
-|SUBTOTAL |4.442,60 |4.442,60 | |
-
-|SUPERVISÃO, ACOMPANHAMENTO E DIVULGAÇÃO DE OBRAS, PROJETOS E SERVIÇOS | | |EBTU |
-
-| |137,40 |137,40 | |
-
-|TOTAL |4.580,00 |4.580,00 | |
+| PROGRAMA / SUBPROGRAMA / PROJETO / SUBPROJETO / INTERVENÇÃO | TOTAL | UNIÃO | ÓRGÃO |
+| --- | --- | --- | --- |
+|  |  | 01.EBTU | EXECUTOR |
+| 9. CORREDORES DIVERSOS | 4.442,60 | 4.442,60 | METROBEL |
+|  |  |  |  |
+| 01. SUBPROGRAMA ÔNIBUS | 2.970,00 | 2.970,00 |  |
+|  |  |  |  |
+| 03. SISTEMA DE TRANSPORTE PÚBLICO DE PASSAGEIROS | 390,00 | 390,00 |  |
+| 56.13. Campanhas Informativas / Educativas (Projeto Escola) | 390,00 | 390,00 |  |
+|  |  |  |  |
+| 04. SISTEMA GESTOR DO TRANSPORTE URBANO | 2.580,00 | 2.580,00 |  |
+| 3.32. Organização / Racionalização Administrativa e Operacional (Central METROBRL de |  |  |  |
+| Operações) | 1.100,00 | 1.100,00 |  |
+| 75.35. Capacitação de Pessoal | 700,00 | 700,00 |  |
+| 75.37. Monitoração | 780,00 | 780,00 |  |
+|  |  |  |  |
+| 07. SUBPROGRAMA ADMINISTRAÇÃO DO TRANSPORTE URBANO |  |  |  |
+|  | 1.472,60 | 1.472,60 |  |
+| 06. SISTEMA DE PLANEJAMENTO E CONTROLE DOS TRANSPORTES URBANOS |  |  |  |
+|  |  |  |  |
+|  | 1.472,60 | 1.472,60 |  |
+| SUBTOTAL | 4.442,60 | 4.442,60 |  |
+| SUPERVISÃO, ACOMPANHAMENTO E DIVULGAÇÃO DE OBRAS, PROJETOS E SERVIÇOS |  |  | EBTU |
+|  | 137,40 | 137,40 |  |
+| TOTAL | 4.580,00 | 4.580,00 |  |
 
 ANEXO III
 
@@ -390,13 +361,11 @@ FONTES DE RECURSOS
 
 Em Cz$ mil
 
-|FONTES |VALOR |PERCENTUAL (%) |
-
-|I - UNIÃO |4.580,00 |100,00 |
-
-|01. EBTU - Não Reembolsável | | |
-
-|TOTAL |4.580,00 |100,00 |
+| FONTES | VALOR | PERCENTUAL (%) |
+| --- | --- | --- |
+| I - UNIÃO | 4.580,00 | 100,00 |
+| 01. EBTU - Não Reembolsável |  |  |
+| TOTAL | 4.580,00 | 100,00 |
 
 ANEXO IV
 
@@ -412,75 +381,42 @@ USOS E FONTES DE RECURSOS POR PROJETO
 
 Em Cz$ mil
 
-|PROGRAMA / SUBPROGRAMA / PROJETO / SUBPROJETO / INTERVENÇÃO |TOTAL |01. EBTU |71. ORÇAMENTO |ÓRGÃO |
-
-| | |NÃO REEMBOLS. |MUNICÍPIO |EXECUTOR |
-
-|19. CORREDOR PEDRO LEOPOLDO |1.728,76 |1.208,43 |520,33 |DER/MG |
-
-|01. SUBPROGRAMA ÔNIBUS | | | | |
-
-|01. SISTEMA VIÁRIO | | | | |
-
-|02.12. Melhoramento de Vias Alimentadoras no Bairro Fidalgo | | | | |
-
-|02. SISTEMA DE CIRCULAÇÃO | | | | |
-
-|31.11. Implantação de Sinalização | | | | |
-
-| | | | | |
-
-|24. CORREDOR SANTA LUZIA | | | | |
-
-|01. SUBPROGRAMA ÔNIBUS |4.810,28 |3.362,60 |1.447,68 |DER/MG |
-
-|01. SISTEMA VIÁRIO | | | | |
-
-|02.12. Melhoramento de Vias Alimentadoras nos Bairros Baroneza e | | | | |
-
-|Bonanza | | | | |
-
-|01. SISTEMA DE CIRCULAÇÃO | | | | |
-
-|31.11. Implantação de Sinalização | | | | |
-
-| | | | | |
-
-|26. CORREDOR VESPASIANO | | | | |
-
-|01. SUBPROGRAMA ÔNIBUS |1.810,49 |1.265,61 |544,88 |DER/MG |
-
-|01. SISTEMA VIÁRIO | | | | |
-
-|02.12. Melhoramento de Vias Alimentadoras no Bairro Vila Esportiva| | | | |
-
-|02. SISTEMA DE CIRCULAÇÃO | | | | |
-
-|31.11. Implantação de Sinalização | | | | |
-
-| | | | | |
-
-|9. CORREDORES DIVERSOS | | | | |
-
-|01. SUBPROGRAMA ÔNIBUS | | | | |
-
-|01. SISTEMA VIÁRIO |6.104,25 |4.267,14 |1.837,11 |SUDECAP |
-
-|02.12. Melhoramento de Vias Alimentadoras no Município de Belo | | | | |
-
-|Horizonte | | | | |
-
-|02. SISTEMA DE CIRCULAÇÃO | | | | |
-
-|31.11. Implantação de sinalização | | | | |
-
-|SUBTOTAL |14.453,78 |10.103,78 |4.350,00 | |
-
-|SUPERVISÃO, ACOMPANHAMENTO E DIVULGAÇÃO DE OBRAS, PROJETOS |46,22 |46,22 |- | |
-
-|SERVIÇOS | | | | |
-
-|TOTAL |14.500,00 |10.150,00 |4.350,00 | |
+| PROGRAMA / SUBPROGRAMA / PROJETO / SUBPROJETO / INTERVENÇÃO | TOTAL | 01. EBTU | 71. ORÇAMENTO | ÓRGÃO |
+| --- | --- | --- | --- | --- |
+|  |  | NÃO REEMBOLS. | MUNICÍPIO | EXECUTOR |
+| 19. CORREDOR PEDRO LEOPOLDO | 1.728,76 | 1.208,43 | 520,33 | DER/MG |
+| 01. SUBPROGRAMA ÔNIBUS |  |  |  |  |
+| 01. SISTEMA VIÁRIO |  |  |  |  |
+| 02.12. Melhoramento de Vias Alimentadoras no Bairro Fidalgo |  |  |  |  |
+| 02. SISTEMA DE CIRCULAÇÃO |  |  |  |  |
+| 31.11. Implantação de Sinalização |  |  |  |  |
+|  |  |  |  |  |
+| 24. CORREDOR SANTA LUZIA |  |  |  |  |
+| 01. SUBPROGRAMA ÔNIBUS | 4.810,28 | 3.362,60 | 1.447,68 | DER/MG |
+| 01. SISTEMA VIÁRIO |  |  |  |  |
+| 02.12. Melhoramento de Vias Alimentadoras nos Bairros Baroneza e |  |  |  |  |
+| Bonanza |  |  |  |  |
+| 01. SISTEMA DE CIRCULAÇÃO |  |  |  |  |
+| 31.11. Implantação de Sinalização |  |  |  |  |
+|  |  |  |  |  |
+| 26. CORREDOR VESPASIANO |  |  |  |  |
+| 01. SUBPROGRAMA ÔNIBUS | 1.810,49 | 1.265,61 | 544,88 | DER/MG |
+| 01. SISTEMA VIÁRIO |  |  |  |  |
+| 02.12. Melhoramento de Vias Alimentadoras no Bairro Vila Esportiva |  |  |  |  |
+| 02. SISTEMA DE CIRCULAÇÃO |  |  |  |  |
+| 31.11. Implantação de Sinalização |  |  |  |  |
+|  |  |  |  |  |
+| 9. CORREDORES DIVERSOS |  |  |  |  |
+| 01. SUBPROGRAMA ÔNIBUS |  |  |  |  |
+| 01. SISTEMA VIÁRIO | 6.104,25 | 4.267,14 | 1.837,11 | SUDECAP |
+| 02.12. Melhoramento de Vias Alimentadoras no Município de Belo |  |  |  |  |
+| Horizonte |  |  |  |  |
+| 02. SISTEMA DE CIRCULAÇÃO |  |  |  |  |
+| 31.11. Implantação de sinalização |  |  |  |  |
+| SUBTOTAL | 14.453,78 | 10.103,78 | 4.350,00 |  |
+| SUPERVISÃO, ACOMPANHAMENTO E DIVULGAÇÃO DE OBRAS, PROJETOS | 46,22 | 46,22 | - |  |
+| SERVIÇOS |  |  |  |  |
+| TOTAL | 14.500,00 | 10.150,00 | 4.350,00 |  |
 
 ANEXO V
 
@@ -496,31 +432,20 @@ FONTES DE RECURSOS
 
 Em Cz$ mil
 
-|FONTES |VALOR |PERCENTUAL (%) |
-
-|I – UNIÃO |22.540,00 |70,00 |
-
-|01. EBTU – Não Reembolso |22.540,00 |70,00 |
-
-| | | |
-
-| | | |
-
-|II – MUNICÍPIOS |9.660,00 |30,00 |
-
-|71. Orçamento P.M. Betim |4.570,13 |14,19 |
-
-|71. Orçamento P.M. Lagoa Santa |569,38 |1,77 |
-
-|71. Orçamento P.M. Nova Lima |122,65 |0,38 |
-
-|71. Orçamento P.M. Raposos |413,85 |1,29 |
-
-|71. Orçamento P.M. Sabará |291,38 |0,90 |
-
-|71. Orçamento P.M. Ibirité |3.692,61 |11,48 |
-
-|TOTAL |32.200,00 |100,00 |
+| FONTES | VALOR | PERCENTUAL (%) |
+| --- | --- | --- |
+| I – UNIÃO | 22.540,00 | 70,00 |
+| 01. EBTU – Não Reembolso | 22.540,00 | 70,00 |
+|  |  |  |
+|  |  |  |
+| II – MUNICÍPIOS | 9.660,00 | 30,00 |
+| 71. Orçamento P.M. Betim | 4.570,13 | 14,19 |
+| 71. Orçamento P.M. Lagoa Santa | 569,38 | 1,77 |
+| 71. Orçamento P.M. Nova Lima | 122,65 | 0,38 |
+| 71. Orçamento P.M. Raposos | 413,85 | 1,29 |
+| 71. Orçamento P.M. Sabará | 291,38 | 0,90 |
+| 71. Orçamento P.M. Ibirité | 3.692,61 | 11,48 |
+| TOTAL | 32.200,00 | 100,00 |
 
 ANEXO VI
 
@@ -534,104 +459,55 @@ USOS E FONTES DE RECURSOS POR PROJETO
 
 1986
 
-|PROGRAMA / PROJETO |TOTAL |01. EBTU |71. ORÇAMENTO |ÓRGÃO EXECUTOR |
-
-| | |NÃO REEMBOLS. |MUNICÍPIO | |
-
-|15. CORREDOR BETIM |14.917,18 |10.347,05 |4.570,13 |PN BETIM |
-
-|01. SUBPROGRAMA ÔNIBUS | | | | |
-
-|01. SISTEMA VIÁRIO | | | | |
-
-|02.12. Melhoramento de Vias Alimentadoras nos Bairros, Alvorada, | | | | |
-
-|Nossa Senhora das Graças, Homero C. Lazarote, Imbiruçu, D. Bosco e | | | | |
-
-|São Caetano. | | | | |
-
-|02. SISTEMA DE CIRCULAÇÃO | | | | |
-
-|31.11. Implantação de Sinalização | | | | |
-
-| | | | | |
-
-|17. CORREDOR LAGOA SANTA |1.852,38 |1.283,00 |569,38 |DER / MG |
-
-|01. SUBPROGRAMA ÔNIBUS | | | | |
-
-|01. SISTEMA VIÁRIO | | | | |
-
-|02.12. Melhoramento de Vias Alimentadoras no Bairro Vila Marta | | | | |
-
-|02. SISTEMA DE CIRCULAÇÃO | | | | |
-
-|31.11. Implantação de Sinalização | | | | |
-
-| | | | | |
-
-|18. CORREDOR NOVA LIMA | | | | |
-
-|01. SUBPROGRAMA ÔNIBUS |397,16 |274,51 |122,65 |DER / MG |
-
-|01. SISTEMA VIÁRIO | | | | |
-
-|02.12. Melhoramento de Vias Alimentadoras no Bairro Campo do Pires | | | | |
-
-|02. SISTEMA DE CIRCULAÇÃO | | | | |
-
-|31.11. Implantação de Sinalização | | | | |
-
-| | | | | |
-
-|CORREDOR RAPOSOS | | | | |
-
-|01. SUBPROGRAMA ÔNIBUS | | | | |
-
-|01. SISTEMA VIÁRIO |1.344,59 |930,74 |413,85 |DER / MG |
-
-|02.12. Melhoramento de Vias Alimentadoras no Centro | | | | |
-
-|01. SISTEMA DE CIRCULAÇÃO | | | | |
-
-|31.11. Implantação de Sinalização | | | | |
-
-| | | | | |
-
-|23. CORREDOR SABARÁ | | | | |
-
-|01. SUBPROGRAMA ÔNIBUS | | | | |
-
-|01. SISTEMA VIÁRIO |960,23 |668,85 |721,38 |DER / MG |
-
-|02.12. Melhoramento de Vias Alimentadoras no Bairro Paga Réis | | | | |
-
-|02. SISTEMA DE CIRCULAÇÃO | | | | |
-
-|31.11. Implantação de Sinalização | | | | |
-
-| | | | | |
-
-|25. CORREDOR IBIRITÉ | | | | |
-
-|01. SUBPROGRAMA ÔNIBUS | | | | |
-
-|01. SISTEMA VIÁRIO | | | | |
-
-|02.12. Melhoramento di Vias Alimentadoras nos Bairros: Monsenhor |12.052,26 |8.359,65 |3.692,61 |DER / MG |
-
-|Horta, Jardim das Oliveiras, P. Elizabeth, Lago Azul, Sarzedo, Vila | | | | |
-
-|Pinheiro, Jardim Vera Cruz, Washington Pires, Palmares, Jardim | | | | |
-
-|Ibirité | | | | |
-
-|02. SISTEMA DE CIRCULAÇÃO | | | | |
-
-|31.11. Implantação de Sinalização | | | | |
-
-|SUBTOTAL |31.523,60 |21.863,80 |9.660,00 | |
-
-|SUPERVISÃO, ACOMPANHAMENTO E DIVULGAÇÃO DE PROJETOS, OBRAS E SERVIÇOS|676,20 |676,20 |- |EBTU |
-
-|TOTAL |32.200,00 |22.640,00 |9.660,00 | |
+| PROGRAMA / PROJETO | TOTAL | 01. EBTU | 71. ORÇAMENTO | ÓRGÃO EXECUTOR |
+| --- | --- | --- | --- | --- |
+|  |  | NÃO REEMBOLS. | MUNICÍPIO |  |
+| 15. CORREDOR BETIM | 14.917,18 | 10.347,05 | 4.570,13 | PN BETIM |
+| 01. SUBPROGRAMA ÔNIBUS |  |  |  |  |
+| 01. SISTEMA VIÁRIO |  |  |  |  |
+| 02.12. Melhoramento de Vias Alimentadoras nos Bairros, Alvorada, |  |  |  |  |
+| Nossa Senhora das Graças, Homero C. Lazarote, Imbiruçu, D. Bosco e |  |  |  |  |
+| São Caetano. |  |  |  |  |
+| 02. SISTEMA DE CIRCULAÇÃO |  |  |  |  |
+| 31.11. Implantação de Sinalização |  |  |  |  |
+|  |  |  |  |  |
+| 17. CORREDOR LAGOA SANTA | 1.852,38 | 1.283,00 | 569,38 | DER / MG |
+| 01. SUBPROGRAMA ÔNIBUS |  |  |  |  |
+| 01. SISTEMA VIÁRIO |  |  |  |  |
+| 02.12. Melhoramento de Vias Alimentadoras no Bairro Vila Marta |  |  |  |  |
+| 02. SISTEMA DE CIRCULAÇÃO |  |  |  |  |
+| 31.11. Implantação de Sinalização |  |  |  |  |
+|  |  |  |  |  |
+| 18. CORREDOR NOVA LIMA |  |  |  |  |
+| 01. SUBPROGRAMA ÔNIBUS | 397,16 | 274,51 | 122,65 | DER / MG |
+| 01. SISTEMA VIÁRIO |  |  |  |  |
+| 02.12. Melhoramento de Vias Alimentadoras no Bairro Campo do Pires |  |  |  |  |
+| 02. SISTEMA DE CIRCULAÇÃO |  |  |  |  |
+| 31.11. Implantação de Sinalização |  |  |  |  |
+|  |  |  |  |  |
+| CORREDOR RAPOSOS |  |  |  |  |
+| 01. SUBPROGRAMA ÔNIBUS |  |  |  |  |
+| 01. SISTEMA VIÁRIO | 1.344,59 | 930,74 | 413,85 | DER / MG |
+| 02.12. Melhoramento de Vias Alimentadoras no Centro |  |  |  |  |
+| 01. SISTEMA DE CIRCULAÇÃO |  |  |  |  |
+| 31.11. Implantação de Sinalização |  |  |  |  |
+|  |  |  |  |  |
+| 23. CORREDOR SABARÁ |  |  |  |  |
+| 01. SUBPROGRAMA ÔNIBUS |  |  |  |  |
+| 01. SISTEMA VIÁRIO | 960,23 | 668,85 | 721,38 | DER / MG |
+| 02.12. Melhoramento de Vias Alimentadoras no Bairro Paga Réis |  |  |  |  |
+| 02. SISTEMA DE CIRCULAÇÃO |  |  |  |  |
+| 31.11. Implantação de Sinalização |  |  |  |  |
+|  |  |  |  |  |
+| 25. CORREDOR IBIRITÉ |  |  |  |  |
+| 01. SUBPROGRAMA ÔNIBUS |  |  |  |  |
+| 01. SISTEMA VIÁRIO |  |  |  |  |
+| 02.12. Melhoramento di Vias Alimentadoras nos Bairros: Monsenhor | 12.052,26 | 8.359,65 | 3.692,61 | DER / MG |
+| Horta, Jardim das Oliveiras, P. Elizabeth, Lago Azul, Sarzedo, Vila |  |  |  |  |
+| Pinheiro, Jardim Vera Cruz, Washington Pires, Palmares, Jardim |  |  |  |  |
+| Ibirité |  |  |  |  |
+| 02. SISTEMA DE CIRCULAÇÃO |  |  |  |  |
+| 31.11. Implantação de Sinalização |  |  |  |  |
+| SUBTOTAL | 31.523,60 | 21.863,80 | 9.660,00 |  |
+| SUPERVISÃO, ACOMPANHAMENTO E DIVULGAÇÃO DE PROJETOS, OBRAS E SERVIÇOS | 676,20 | 676,20 | - | EBTU |
+| TOTAL | 32.200,00 | 22.640,00 | 9.660,00 |  |

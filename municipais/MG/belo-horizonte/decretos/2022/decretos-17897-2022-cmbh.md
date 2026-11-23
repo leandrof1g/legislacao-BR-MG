@@ -52,40 +52,26 @@ ANEXO
 
 I – Crédito adicional especial instituindo as seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Superintendência de Mobilidade do Município de|
-
-|Belo Horizonte – SUMOB –, conforme autorização contida no art. |
-
-|28 da Lei nº 11.319, de 22 de outubro de 2021, e dispositivos |
-
-|do Decreto nº 17.845, de 14 de janeiro de 2022: |
-
-|R$ |
-
-|3302.26.452.060.2.567.3190.0000 |1.116.000,00 |
-
-|3302.26.452.060.2.567.3190.0006 |2.000,00 |
-
-|3302.26.452.060.2.567.3390.0000 |27.000,00 |
-
-|3302.26.452.060.2.567.3390.0006 |3.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.148.000,00 |
+| I.1 – A favor da Superintendência de Mobilidade do Município de |  |
+| --- | --- |
+| Belo Horizonte – SUMOB –, conforme autorização contida no art. |  |
+| 28 da Lei nº 11.319, de 22 de outubro de 2021, e dispositivos |  |
+| do Decreto nº 17.845, de 14 de janeiro de 2022: |  |
+| R$ |  |
+| 3302.26.452.060.2.567.3190.0000 | 1.116.000,00 |
+| 3302.26.452.060.2.567.3190.0006 | 2.000,00 |
+| 3302.26.452.060.2.567.3390.0000 | 27.000,00 |
+| 3302.26.452.060.2.567.3390.0006 | 3.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.148.000,00 |
 
 II – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964:
 
-| II.1 – Em contrapartida às suplementações relacionadas no item|
-
-|I.1 da tabela anterior: |
-
-|R$ |
-
-|2709.26.452.060.2.567.3190.0000 |1.116.000,00 |
-
-|2709.26.452.060.2.567.3190.0007 |2.000,00 |
-
-|2709.26.452.060.2.567.3390.0000 |27.000,00 |
-
-|2709.26.452.060.2.567.3390.0007 |3.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.148.000,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item |  |
+| --- | --- |
+| I.1 da tabela anterior: |  |
+| R$ |  |
+| 2709.26.452.060.2.567.3190.0000 | 1.116.000,00 |
+| 2709.26.452.060.2.567.3190.0007 | 2.000,00 |
+| 2709.26.452.060.2.567.3390.0000 | 27.000,00 |
+| 2709.26.452.060.2.567.3390.0007 | 3.000,00 |
+| TOTAL DA ANULAÇÃO | 1.148.000,00 |

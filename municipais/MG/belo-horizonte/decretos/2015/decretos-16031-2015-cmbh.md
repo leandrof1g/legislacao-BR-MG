@@ -50,67 +50,38 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 **Art. 6º** - Os itens II, VII e VIII do Grupo IV do Anexo Único do Decreto nº 15.721/2014, passam a vigorar com a seguinte redação:
 
-|II. |CASA KUBITSCHEK | |
-
-|[...] |[...] |[...] |
-
-|2. |Fotos, gravações e/ou filmagens para fins |R$ 2.129,20 p/ dia |
-
-| |comerciais | |
-
-|3. |Fotos, gravações e/ou filmagens para fins não |Isento |
-
-| |comerciais | |
-
-|[...] |[...] |[...] |
-
-|VII. |TEATRO MARÍLIA- TM | |
-
-|1. |Eventos | |
-
-|1.1. |Eventos diversos com ou sem fins comerciais |R$ 2.129,30 p/dia |
-
-|1.2. |Projeto artístico e cultural - diária para |R$ 745,22 p/dia |
-
-| |manutenção | |
-
-|2. |Formaturas - uma sessão |R$ 2.661,50 |
-
-|3. |Apresentações de espetáculos artísticos (por |10% sobre renda bruta da bilheteria |
-
-| |espetáculo) | |
-
-|4. |Fotos, gravações e/ou filmagens para fins |R$ 425,84 p/dia |
-
-| |comerciais | |
-
-|5. |Fotos, gravações e/ou filmagens para fins não |Isento |
-
-| |comerciais | |
-
-|VIII |TEATRO FRANCISCO NUNES- TFN | |
-
-|1. |Eventos | |
-
-|1.1. |Eventos diversos com ou sem fins comerciais |R$ 4.258,40 p/dia |
-
-|1.2. |Projeto artístico e cultural - diária para |R$ 1.171,06 p/dia |
-
-| |manutenção | |
-
-|2. |Formaturas - uma sessão |R$ 5.323,00 |
-
-|3. |Apresentações de espetáculos artísticos (por |10% sobre renda bruta da bilheteria |
-
-| |espetáculo) | |
-
-|4. |Fotos, gravações e/ou filmagens para fins |R$ 851,68 p/dia |
-
-| |comerciais | |
-
-|5. |Fotos, gravações e/ou filmagens para fins não |Isento |
-
-| |comerciais | |
+| II. | CASA KUBITSCHEK |  |
+| --- | --- | --- |
+| [...] | [...] | [...] |
+| 2. | Fotos, gravações e/ou filmagens para fins | R$ 2.129,20 p/ dia |
+|  | comerciais |  |
+| 3. | Fotos, gravações e/ou filmagens para fins não | Isento |
+|  | comerciais |  |
+| [...] | [...] | [...] |
+| VII. | TEATRO MARÍLIA- TM |  |
+| 1. | Eventos |  |
+| 1.1. | Eventos diversos com ou sem fins comerciais | R$ 2.129,30 p/dia |
+| 1.2. | Projeto artístico e cultural - diária para | R$ 745,22 p/dia |
+|  | manutenção |  |
+| 2. | Formaturas - uma sessão | R$ 2.661,50 |
+| 3. | Apresentações de espetáculos artísticos (por | 10% sobre renda bruta da bilheteria |
+|  | espetáculo) |  |
+| 4. | Fotos, gravações e/ou filmagens para fins | R$ 425,84 p/dia |
+|  | comerciais |  |
+| 5. | Fotos, gravações e/ou filmagens para fins não | Isento |
+|  | comerciais |  |
+| VIII | TEATRO FRANCISCO NUNES- TFN |  |
+| 1. | Eventos |  |
+| 1.1. | Eventos diversos com ou sem fins comerciais | R$ 4.258,40 p/dia |
+| 1.2. | Projeto artístico e cultural - diária para | R$ 1.171,06 p/dia |
+|  | manutenção |  |
+| 2. | Formaturas - uma sessão | R$ 5.323,00 |
+| 3. | Apresentações de espetáculos artísticos (por | 10% sobre renda bruta da bilheteria |
+|  | espetáculo) |  |
+| 4. | Fotos, gravações e/ou filmagens para fins | R$ 851,68 p/dia |
+|  | comerciais |  |
+| 5. | Fotos, gravações e/ou filmagens para fins não | Isento |
+|  | comerciais |  |
 
 **Art. 7º** - Este Decreto entra em vigor na data de sua publicação.
 

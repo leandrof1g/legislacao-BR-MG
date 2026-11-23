@@ -104,21 +104,15 @@ II - na pista de rolamento em locais com permissão de estacionamento de veícul
 
 **Art. 7º** - Para as empresas que operem mais de uma linha de transporte coletivo urbano, ficam estabelecidos os prazos máximos para instalação das cabines sanitárias e comunicação à BHTRANS, conforme tabela a seguir:
 
-|Nº de cabines por empresa operadora |Prazo máximo |
-
-|Até 04 |06 meses |
-
-|De 05 a 07 |07 meses |
-
-|De 08 a 10 |08 meses |
-
-|De 11 a 13 |09 meses |
-
-|De 14 a 16 |10 meses |
-
-|De 17 a 19 |11 meses |
-
-|Acima de 20 |12 meses |
+| Nº de cabines por empresa operadora | Prazo máximo |
+| --- | --- |
+| Até 04 | 06 meses |
+| De 05 a 07 | 07 meses |
+| De 08 a 10 | 08 meses |
+| De 11 a 13 | 09 meses |
+| De 14 a 16 | 10 meses |
+| De 17 a 19 | 11 meses |
+| Acima de 20 | 12 meses |
 
 **§ 1º** - Além dos prazos máximos para instalação de todas as cabines sanitárias, a partir do sexto mês cada empresa operadora deverá instalar um mínimo de 03 (três) cabines sanitárias a cada mês.
 

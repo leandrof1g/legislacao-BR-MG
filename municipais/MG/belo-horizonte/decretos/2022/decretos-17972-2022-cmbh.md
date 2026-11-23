@@ -236,334 +236,186 @@ ANEXO
 
 (a que se refere o Decreto nº 17.972, de 25 de maio de 2022)
 
-|Modalidade do |Pontuação Mínima|Observações |
-
-|Selo | | |
-
-|Bronze |100 |A pontuação deverá ser alcançada implantando medidas de |
-
-| | |sustentabilidade no mínimo em três dimensões. |
-
-|Prata |125 |A pontuação deverá ser alcançada implantando medidas de |
-
-| | |sustentabilidade no mínimo em três dimensões. |
-
-|Ouro |150 |A pontuação deverá ser alcançada implantando medidas de |
-
-| | |sustentabilidade no mínimo em quatro dimensões. |
-
-|Diamante |175 |É compulsória nesta modalidade a pontuação em todas as |
-
-| | |dimensões. |
+| Modalidade do | Pontuação Mínima | Observações |
+| --- | --- | --- |
+| Selo |  |  |
+| Bronze | 100 | A pontuação deverá ser alcançada implantando medidas de |
+|  |  | sustentabilidade no mínimo em três dimensões. |
+| Prata | 125 | A pontuação deverá ser alcançada implantando medidas de |
+|  |  | sustentabilidade no mínimo em três dimensões. |
+| Ouro | 150 | A pontuação deverá ser alcançada implantando medidas de |
+|  |  | sustentabilidade no mínimo em quatro dimensões. |
+| Diamante | 175 | É compulsória nesta modalidade a pontuação em todas as |
+|  |  | dimensões. |
 
 QUADRO SÍNTESE DOS CRITÉRIOS DO SELO BH SUSTENTÁVEL
 
 1. DIMENSÃO PERMEABILIDADE E VEGETAÇÃO
 
-|PARÂMETRO |PONTUAÇÃO |
-
-|Projetos arquitetônicos aprovados com base na Lei nº 7.166, de 27 de agosto de 1996, e nas |
-
-|alterações promovidas pela Lei nº 8.137, de 21 de dezembro de 2000, e Lei nº 9.959, de 20 de julho|
-
-|de 2010 (art. 50) |
-
-|Acréscimo de mais de 1% (um por cento) a 10% (dez por cento) em |15 |
-
-|relação à taxa de permeabilidade – TP – exigida pela lei de | |
-
-|referência, conforme zoneamento. Não pontuarão neste parâmetro os| |
-
-|empreendimentos cujas edificações fizeram uso do art. 50 da Lei | |
-
-|nº 7166, de 1996. | |
-
-|Acréscimo de mais de 10% (dez por cento) e de até 30% (cinquenta |20 |
-
-|por cento) em relação à TP exigida pela Lei de Referência, | |
-
-|conforme zoneamento. Não pontuarão neste parâmetro os | |
-
-|empreendimentos cujas edificações fizeram uso do art. 50 da Lei | |
-
-|nº 7166, de 1996. | |
-
-|Acréscimo de mais de 30% (trinta por cento) e de até 50% |30 |
-
-|(cinquenta por cento) em relação à TP exigida pela Lei de | |
-
-|Referência, conforme zoneamento. Não pontuarão neste parâmetro os| |
-
-|empreendimentos cujas edificações fizeram uso do art. 50 da Lei | |
-
-|nº 7166, de 1996. | |
-
-|Acréscimo de mais de 50% (cinquenta por cento) em relação à TP |40 |
-
-|exigida pela Lei de Referência, conforme zoneamento. Não | |
-
-|pontuarão neste parâmetro os empreendimentos cujas edificações | |
-
-|fizeram uso do art. 50 da Lei nº 7166, de 1996. | |
-
-|TP em solo natural acima de 10%, em empreendimentos cuja |10 |
-
-|edificação fez uso parcial do art. 50 da Lei nº 7166, de 1996. | |
-
-|Projetos arquitetônicos aprovados anteriormente à Lei nº 7.166, de 1996, em que não havia |
-
-|exigência de área permeável mínima |
-
-|TP de mais de 10% (dez por cento) até 20% (vinte por cento). |15 |
-
-|TP de mais de 20% (vinte por cento) até 30% (trinta por cento). |25 |
-
-|TP de mais de 30% (trinta por cento). |30 |
-
-|PARÂMETRO |PONTUAÇÃO |
-
-|Razão da área ajardinada (permeável e jardins sobre laje) pelo nº de |10 |
-
-|árvores igual ou inferior a 100m² (cem metros quadrados) e de até 50m² | |
-
-|(cinquenta metros quadrados); | |
-
-|Razão da área ajardinada (permeável e jardins sobre laje) pelo nº de |20 |
-
-|árvores igual ou inferior a 50m² (cinquenta metros quadrados) e de até | |
-
-|25m² (vinte e cinco metros quadrados); | |
-
-|Razão da área ajardinada (permeável e jardins sobre laje) pelo nº de |30 |
-
-|árvores igual ou inferior a 25m² (vinte e cinco metros quadrados) e de | |
-
-|até 12m² (doze metros quadrados). | |
-
-|Parede Verde entre 20m² a 50m2 - densa de vegetação, em área externa. |5 |
-
-|Parede Verde acima de 51m2 - densa de vegetação e em área externa. |10 |
-
-|Índice de diversidade de Shannon-Weaver 1,0 - 2,0 (Nota 3A). |5 |
-
-|Índice de diversidade de Shannon-Weaver 2,0 - 3,0 (Nota 3A). |10 |
-
-|Índice de diversidade de Shannon-Weaver > 3,0 (Nota 3A). |15 |
-
-|Biodiversidade só será considerada em projetos cujas áreas vegetadas forem superiores a 300m² em |
-
-|áreas contíguas ou conectadas. |
-
-|PARÂMETRO |PONTUAÇÃO |
-
-|Adoção de espaço público com área ajardinada ou passível de |5 |
-
-|ajardinamento entre 200m² a 500m², conforme parceria firmada entre | |
-
-|adotante e PBH no âmbito do Programa Adoro BH - previsão somente de | |
-
-|manutenção. | |
-
-|Adoção de espaço público com área ajardinada ou passível de |15 |
-
-|ajardinamento entre 501m² a 1000m², conforme parceria firmada entre | |
-
-|adotante e PBH no âmbito do Programa Adoro BH – previsão somente de | |
-
-|manutenção. | |
-
-|Adoção de espaço público com área ajardinada ou passível de |25 |
-
-|ajardinamento entre 1001m² a 5000m², conforme parceria firmada entre | |
-
-|adotante e PBH no âmbito do Programa Adoro BH – previsão somente de | |
-
-|manutenção. | |
-
-|Adoção de espaço público com área ajardinada ou passível de |35 |
-
-|ajardinamento acima de 5001m², conforme parceria firmada entre adotante| |
-
-|e PBH no âmbito do Programa Adoro BH – previsão somente de manutenção. | |
-
-|Adoção de espaço público com área ajardinada ou passível de |10 |
-
-|ajardinamento entre 200m² a 500m², conforme parceria firmada entre | |
-
-|adotante e PBH no âmbito do Programa Adoro BH – previsão de implantação| |
-
-|e manutenção ou reforma e manutenção. | |
-
-|Adoção de espaço público com área ajardinada ou passível de |30 |
-
-|ajardinamento entre 500m² a 1000m², conforme parceria firmada entre | |
-
-|adotante e PBH no âmbito do Programa Adoro BH - previsão de implantação| |
-
-|e manutenção ou reforma e manutenção. | |
-
-|Adoção de espaço público com área ajardinada ou passível de |40 |
-
-|ajardinamento entre 1001m² a 5000m², conforme parceria firmada entre | |
-
-|adotante e PBH no âmbito do Programa Adoro BH - previsão de implantação| |
-
-|e manutenção ou reforma e manutenção. | |
-
-|Adoção de espaço público com área ajardinada ou passível de |50 |
-
-|ajardinamento acima de 5001m², conforme parceria firmada entre adotante| |
-
-|e PBH no âmbito do Programa Adoro BH - previsão implantação/reforma e | |
-
-|manutenção. | |
+| PARÂMETRO | PONTUAÇÃO |
+| --- | --- |
+| Projetos arquitetônicos aprovados com base na Lei nº 7.166, de 27 de agosto de 1996, e nas |  |
+| alterações promovidas pela Lei nº 8.137, de 21 de dezembro de 2000, e Lei nº 9.959, de 20 de julho |  |
+| de 2010 (art. 50) |  |
+| Acréscimo de mais de 1% (um por cento) a 10% (dez por cento) em | 15 |
+| relação à taxa de permeabilidade – TP – exigida pela lei de |  |
+| referência, conforme zoneamento. Não pontuarão neste parâmetro os |  |
+| empreendimentos cujas edificações fizeram uso do art. 50 da Lei |  |
+| nº 7166, de 1996. |  |
+| Acréscimo de mais de 10% (dez por cento) e de até 30% (cinquenta | 20 |
+| por cento) em relação à TP exigida pela Lei de Referência, |  |
+| conforme zoneamento. Não pontuarão neste parâmetro os |  |
+| empreendimentos cujas edificações fizeram uso do art. 50 da Lei |  |
+| nº 7166, de 1996. |  |
+| Acréscimo de mais de 30% (trinta por cento) e de até 50% | 30 |
+| (cinquenta por cento) em relação à TP exigida pela Lei de |  |
+| Referência, conforme zoneamento. Não pontuarão neste parâmetro os |  |
+| empreendimentos cujas edificações fizeram uso do art. 50 da Lei |  |
+| nº 7166, de 1996. |  |
+| Acréscimo de mais de 50% (cinquenta por cento) em relação à TP | 40 |
+| exigida pela Lei de Referência, conforme zoneamento. Não |  |
+| pontuarão neste parâmetro os empreendimentos cujas edificações |  |
+| fizeram uso do art. 50 da Lei nº 7166, de 1996. |  |
+| TP em solo natural acima de 10%, em empreendimentos cuja | 10 |
+| edificação fez uso parcial do art. 50 da Lei nº 7166, de 1996. |  |
+| Projetos arquitetônicos aprovados anteriormente à Lei nº 7.166, de 1996, em que não havia |  |
+| exigência de área permeável mínima |  |
+| TP de mais de 10% (dez por cento) até 20% (vinte por cento). | 15 |
+| TP de mais de 20% (vinte por cento) até 30% (trinta por cento). | 25 |
+| TP de mais de 30% (trinta por cento). | 30 |
+| PARÂMETRO | PONTUAÇÃO |
+| Razão da área ajardinada (permeável e jardins sobre laje) pelo nº de | 10 |
+| árvores igual ou inferior a 100m² (cem metros quadrados) e de até 50m² |  |
+| (cinquenta metros quadrados); |  |
+| Razão da área ajardinada (permeável e jardins sobre laje) pelo nº de | 20 |
+| árvores igual ou inferior a 50m² (cinquenta metros quadrados) e de até |  |
+| 25m² (vinte e cinco metros quadrados); |  |
+| Razão da área ajardinada (permeável e jardins sobre laje) pelo nº de | 30 |
+| árvores igual ou inferior a 25m² (vinte e cinco metros quadrados) e de |  |
+| até 12m² (doze metros quadrados). |  |
+| Parede Verde entre 20m² a 50m2 - densa de vegetação, em área externa. | 5 |
+| Parede Verde acima de 51m2 - densa de vegetação e em área externa. | 10 |
+| Índice de diversidade de Shannon-Weaver 1,0 - 2,0 (Nota 3A). | 5 |
+| Índice de diversidade de Shannon-Weaver 2,0 - 3,0 (Nota 3A). | 10 |
+| Índice de diversidade de Shannon-Weaver > 3,0 (Nota 3A). | 15 |
+| Biodiversidade só será considerada em projetos cujas áreas vegetadas forem superiores a 300m² em |  |
+| áreas contíguas ou conectadas. |  |
+| PARÂMETRO | PONTUAÇÃO |
+| Adoção de espaço público com área ajardinada ou passível de | 5 |
+| ajardinamento entre 200m² a 500m², conforme parceria firmada entre |  |
+| adotante e PBH no âmbito do Programa Adoro BH - previsão somente de |  |
+| manutenção. |  |
+| Adoção de espaço público com área ajardinada ou passível de | 15 |
+| ajardinamento entre 501m² a 1000m², conforme parceria firmada entre |  |
+| adotante e PBH no âmbito do Programa Adoro BH – previsão somente de |  |
+| manutenção. |  |
+| Adoção de espaço público com área ajardinada ou passível de | 25 |
+| ajardinamento entre 1001m² a 5000m², conforme parceria firmada entre |  |
+| adotante e PBH no âmbito do Programa Adoro BH – previsão somente de |  |
+| manutenção. |  |
+| Adoção de espaço público com área ajardinada ou passível de | 35 |
+| ajardinamento acima de 5001m², conforme parceria firmada entre adotante |  |
+| e PBH no âmbito do Programa Adoro BH – previsão somente de manutenção. |  |
+| Adoção de espaço público com área ajardinada ou passível de | 10 |
+| ajardinamento entre 200m² a 500m², conforme parceria firmada entre |  |
+| adotante e PBH no âmbito do Programa Adoro BH – previsão de implantação |  |
+| e manutenção ou reforma e manutenção. |  |
+| Adoção de espaço público com área ajardinada ou passível de | 30 |
+| ajardinamento entre 500m² a 1000m², conforme parceria firmada entre |  |
+| adotante e PBH no âmbito do Programa Adoro BH - previsão de implantação |  |
+| e manutenção ou reforma e manutenção. |  |
+| Adoção de espaço público com área ajardinada ou passível de | 40 |
+| ajardinamento entre 1001m² a 5000m², conforme parceria firmada entre |  |
+| adotante e PBH no âmbito do Programa Adoro BH - previsão de implantação |  |
+| e manutenção ou reforma e manutenção. |  |
+| Adoção de espaço público com área ajardinada ou passível de | 50 |
+| ajardinamento acima de 5001m², conforme parceria firmada entre adotante |  |
+| e PBH no âmbito do Programa Adoro BH - previsão implantação/reforma e |  |
+| manutenção. |  |
 
 2. DIMENSÃO ENERGIA
 
-|PARÂMETRO |PONTUAÇÃO |
-
-|Elevadores inteligentes. |5 |
-
-|Elevador elétrico com sistema regenerativo. |5 |
-
-|Elevador com sistema de stand-by. |5 |
-
-|Lâmpadas LED em todos os pontos de iluminação. |5 |
-
-|Lâmpada em área externa com alimentação própria de energia solar. |5 |
-
-|Sensor de presença nas áreas comuns e/ou temporizadores fotoelétricos |5 |
-
-|e/ou relés nas áreas comuns. | |
-
-|PARÂMETRO |PONTUAÇÃO |
-
-|Placas fotovoltaicas com produção de energia prevista para o |50 |
-
-|empreendimento, com produção acima de 81% da demanda. | |
-
-|Placas fotovoltaicas com produção de energia prevista para o |40 |
-
-|empreendimento, com produção de 41% a 80% da demanda. | |
-
-|Placas fotovoltaicas com produção de energia prevista para o |30 |
-
-|empreendimento, com produção de 20% a 40% da demanda. | |
-
-|Aquisição de energia de fazendas solares com créditos que atendam a |10 |
-
-|partir de 91% do consumo de energia elétrica do empreendimento. | |
-
-|Uso de energia solar para aquecimento de, pelo menos, 50% (cinquenta |30 |
-
-|por cento) da água quente consumida – NBR 7.198. | |
-
-|PARÂMETRO |PONTUAÇÃO |
-
-|Substituição do fluido refrigerante com vistas ao atendimento do |30 |
-
-|estabelecido no Protocolo de Montreal – Retrofit de equipamentos ou | |
-
-|substituição. | |
-
-|Substituição de caldeira por unidade alimentada por fontes com menor |30 |
-
-|potencial de comprometimento da qualidade do ar. | |
+| PARÂMETRO | PONTUAÇÃO |
+| --- | --- |
+| Elevadores inteligentes. | 5 |
+| Elevador elétrico com sistema regenerativo. | 5 |
+| Elevador com sistema de stand-by. | 5 |
+| Lâmpadas LED em todos os pontos de iluminação. | 5 |
+| Lâmpada em área externa com alimentação própria de energia solar. | 5 |
+| Sensor de presença nas áreas comuns e/ou temporizadores fotoelétricos | 5 |
+| e/ou relés nas áreas comuns. |  |
+| PARÂMETRO | PONTUAÇÃO |
+| Placas fotovoltaicas com produção de energia prevista para o | 50 |
+| empreendimento, com produção acima de 81% da demanda. |  |
+| Placas fotovoltaicas com produção de energia prevista para o | 40 |
+| empreendimento, com produção de 41% a 80% da demanda. |  |
+| Placas fotovoltaicas com produção de energia prevista para o | 30 |
+| empreendimento, com produção de 20% a 40% da demanda. |  |
+| Aquisição de energia de fazendas solares com créditos que atendam a | 10 |
+| partir de 91% do consumo de energia elétrica do empreendimento. |  |
+| Uso de energia solar para aquecimento de, pelo menos, 50% (cinquenta | 30 |
+| por cento) da água quente consumida – NBR 7.198. |  |
+| PARÂMETRO | PONTUAÇÃO |
+| Substituição do fluido refrigerante com vistas ao atendimento do | 30 |
+| estabelecido no Protocolo de Montreal – Retrofit de equipamentos ou |  |
+| substituição. |  |
+| Substituição de caldeira por unidade alimentada por fontes com menor | 30 |
+| potencial de comprometimento da qualidade do ar. |  |
 
 3. DIMENSÃO ÁGUA
 
-|PARÂMETRO |PONTUAÇÃO |
-
-|Sistema de aproveitamento de água pluvial conforme NBR 15.527 e demais |40 |
-
-|normas e referências validadas. | |
-
-|Sistema de aproveitamento de águas residuárias para consumo não potável|40 |
-
-|no empreendimento. | |
-
-|PARÂMETRO |PONTUAÇÃO |
-
-|Bacia sanitária com caixa acoplada de único acionamento. |3 |
-
-|Bacia sanitária com caixa acoplada de duplo acionamento. |5 |
-
-|Válvula de descarga com dupla possibilidade de acionamento. |3 |
-
-|Arejadores ou pulverizadores nas torneiras das instalações sanitárias. |5 |
-
-|Torneira com fechamento automático. |5 |
-
-|Chuveiro com redutor de pressão. |5 |
-
-|Sistema de irrigação de áreas vegetadas automatizado. |20 |
+| PARÂMETRO | PONTUAÇÃO |
+| --- | --- |
+| Sistema de aproveitamento de água pluvial conforme NBR 15.527 e demais | 40 |
+| normas e referências validadas. |  |
+| Sistema de aproveitamento de águas residuárias para consumo não potável | 40 |
+| no empreendimento. |  |
+| PARÂMETRO | PONTUAÇÃO |
+| Bacia sanitária com caixa acoplada de único acionamento. | 3 |
+| Bacia sanitária com caixa acoplada de duplo acionamento. | 5 |
+| Válvula de descarga com dupla possibilidade de acionamento. | 3 |
+| Arejadores ou pulverizadores nas torneiras das instalações sanitárias. | 5 |
+| Torneira com fechamento automático. | 5 |
+| Chuveiro com redutor de pressão. | 5 |
+| Sistema de irrigação de áreas vegetadas automatizado. | 20 |
 
 4. DIMENSÃO MOBILIDADE
 
-|PARÂMETRO |PONTUAÇÃO |
-
-|Implantação de, pelo menos, uma vaga para bicicleta a cada duas |20 |
-
-|unidades habitacionais, para residencias unifamiliares, multifamiliares| |
-
-|e usos mistos. | |
-
-|Implantação de, pelo menos, uma vaga para bicicleta a cada cinco vagas |20 |
-
-|de veículos leves, para edificações de uso comercial e industrial. | |
-
-|Implantação de vagas para bicicletas – Atendendo ao critério de no |20 |
-
-|mínimo 10% das vagas para veículos leves, para edificações comerciais –| |
-
-|com número de vagas para veículos leves, superior a 400 unidades | |
-
-|Vestiário de apoio ao ciclista em edificações comerciais ou industrial.|40 |
-
-|Implantação de paraciclos ou bicicletário em área de fruição pública ou|10 |
-
-|no afastamento frontal, desde que abertos ao uso público, em proporção | |
-
-|mínima de uma vaga para bicicleta para cada 100m² (cem metros | |
-
-|quadrados) de terreno. | |
-
-|PARÂMETRO |PONTUAÇÃO |
-
-|Ponto de carga de veículo elétrico em pelo menos 5% (cinco por cento) |10 |
-
-|das vagas do empreendimento. | |
+| PARÂMETRO | PONTUAÇÃO |
+| --- | --- |
+| Implantação de, pelo menos, uma vaga para bicicleta a cada duas | 20 |
+| unidades habitacionais, para residencias unifamiliares, multifamiliares |  |
+| e usos mistos. |  |
+| Implantação de, pelo menos, uma vaga para bicicleta a cada cinco vagas | 20 |
+| de veículos leves, para edificações de uso comercial e industrial. |  |
+| Implantação de vagas para bicicletas – Atendendo ao critério de no | 20 |
+| mínimo 10% das vagas para veículos leves, para edificações comerciais – |  |
+| com número de vagas para veículos leves, superior a 400 unidades |  |
+| Vestiário de apoio ao ciclista em edificações comerciais ou industrial. | 40 |
+| Implantação de paraciclos ou bicicletário em área de fruição pública ou | 10 |
+| no afastamento frontal, desde que abertos ao uso público, em proporção |  |
+| mínima de uma vaga para bicicleta para cada 100m² (cem metros |  |
+| quadrados) de terreno. |  |
+| PARÂMETRO | PONTUAÇÃO |
+| Ponto de carga de veículo elétrico em pelo menos 5% (cinco por cento) | 10 |
+| das vagas do empreendimento. |  |
 
 5. DIMENSÃO RESÍDUOS
 
-|PARÂMETRO |PONTUAÇÃO |
-
-|Apresentação e Implantação do PGRSE para empreendimentos classificados |30 |
-
-|como de impacto na referência da SLU. | |
-
-|Instalação de Ecopontos / pontos de entrega para implementação dos |10 |
-
-|sistemas de Logística Reversa – SLR. | |
-
-|Práticas de Educação Ambiental e Mobilização social correlacionadas à |10 |
-
-|gestão dos resíduos sólidos (segregação, armazenamento ou reciclagem). | |
-
-|Promoção da doação de alimentos fora dos padrões de comercialização, |20 |
-
-|mas ainda adequados ao consumo humano. Público: padarias, | |
-
-|supermercados, sacolões e indústrias de alimentos. | |
-
-|Promoção da doação de alimentos fora dos padrões de comercialização, |23 |
-
-|mas ainda adequados ao consumo humano e outras doações (materiais de | |
-
-|higiene, limpeza, utensílios culinários, etc.). Público: padarias, | |
-
-|supermercados, sacolões e indústrias de alimentos. | |
-
-|Instalação de contenedores destinados à separação de material |10 |
-
-|reciclável e comprovação de destinação dos resíduos para a reciclagem. | |
+| PARÂMETRO | PONTUAÇÃO |
+| --- | --- |
+| Apresentação e Implantação do PGRSE para empreendimentos classificados | 30 |
+| como de impacto na referência da SLU. |  |
+| Instalação de Ecopontos / pontos de entrega para implementação dos | 10 |
+| sistemas de Logística Reversa – SLR. |  |
+| Práticas de Educação Ambiental e Mobilização social correlacionadas à | 10 |
+| gestão dos resíduos sólidos (segregação, armazenamento ou reciclagem). |  |
+| Promoção da doação de alimentos fora dos padrões de comercialização, | 20 |
+| mas ainda adequados ao consumo humano. Público: padarias, |  |
+| supermercados, sacolões e indústrias de alimentos. |  |
+| Promoção da doação de alimentos fora dos padrões de comercialização, | 23 |
+| mas ainda adequados ao consumo humano e outras doações (materiais de |  |
+| higiene, limpeza, utensílios culinários, etc.). Público: padarias, |  |
+| supermercados, sacolões e indústrias de alimentos. |  |
+| Instalação de contenedores destinados à separação de material | 10 |
+| reciclável e comprovação de destinação dos resíduos para a reciclagem. |  |

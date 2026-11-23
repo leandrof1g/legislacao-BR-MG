@@ -54,19 +54,14 @@ ANEXO
 
 I – Crédito adicional especial instituindo a seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, para repasse de recursos ao |
-
-|Programa Auxílio BH para famílias em situação de extrema pobreza e em situação de vulnerabilidade |
-
-|social, conforme autorização contida no art. 7º da Lei nº 11.314, de 5 de outubro de 2021 e em |
-
-|suas atualizações: |
-
-|R$ |
-
-|1011.08.244.172.1.402.3390.0000 |68.379.170,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |68.379.170,00 |
+| I.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, para repasse de recursos ao |  |
+| --- | --- |
+| Programa Auxílio BH para famílias em situação de extrema pobreza e em situação de vulnerabilidade |  |
+| social, conforme autorização contida no art. 7º da Lei nº 11.314, de 5 de outubro de 2021 e em |  |
+| suas atualizações: |  |
+| R$ |  |
+| 1011.08.244.172.1.402.3390.0000 | 68.379.170,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 68.379.170,00 |
 
 *Republicado em razão de incorreção no decreto original, publicado no DOM de 12 de abril de 2022.
 

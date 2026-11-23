@@ -56,18 +56,12 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I – A favor da Empresa de Informática e Informação do Município |
-
-|de Belo Horizonte S.A – Prodabel – e da Fundação Municipal de |
-
-|Cultura – FMC –, conforme autorização contida no caput do art |
-
-|4º da Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|0604.19.572.302.2.905.4490.0007 |3.360.500,00 |
-
-|3103.13.391.155.2.375.3390.0030 |230,13 |
-
-|TOTAL DA SUPLEMENTAÇÃO |3.360.730,13 |
+| I – A favor da Empresa de Informática e Informação do Município |  |
+| --- | --- |
+| de Belo Horizonte S.A – Prodabel – e da Fundação Municipal de |  |
+| Cultura – FMC –, conforme autorização contida no caput do art |  |
+| 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 0604.19.572.302.2.905.4490.0007 | 3.360.500,00 |
+| 3103.13.391.155.2.375.3390.0030 | 230,13 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.360.730,13 |

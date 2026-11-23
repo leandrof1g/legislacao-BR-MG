@@ -54,12 +54,11 @@ ANEXO I A QUE SE REFERE O DECRETO Nº 10.028
 
 2ª PARCELA - ASSISTÊNCIA AO EDUCANDO – 1999
 
-[pic]
-
-[pic][pic][pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II A QUE SE REFERE O DECRETO Nº 10.028
 
 2ª PARCELA DA SUBVENÇÃO DE CONSERVAÇÃO – 1999
 
-[pic][pic][pic][pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

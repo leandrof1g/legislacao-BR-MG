@@ -1066,97 +1066,53 @@ GRAU DE SIGILO:
 
 Anexo único acrescentado pelo Decreto nº 14.966, de 25/7/2012 (Art. 21) Anexo único renumerado pelo Decreto nº 16.134, de 6/11/2015 (Art. 8º)
 
-|TERMO DE CLASSIFICAÇÃO DE INFORMAÇÃO |
-
-|ÓRGÃO/ENTIDADE: |
-
-|CÓDIGO DE INDEXAÇÃO: |
-
-|GRAU DE SIGILO: |
-
-|CATEGORIA: |
-
-|TIPO DE DOCUMENTO: |
-
-|DATA DE PRODUÇÃO: |
-
-|FUNDAMENTO LEGAL PARA CLASSIFICAÇÃO: |
-
-|RAZÕES PARA A CLASSIFICAÇÃO: |
-
-|(idêntico ao grau de sigilo do documento) |
-
-|PRAZO DA RESTRIÇÃO DE ACESSO: |
-
-|DATA DE CLASSIFICAÇÃO: |
-
-|AUTORIDADE CLASSIFICADORA |Nome: |
-
-| |Cargo: |
-
-|AUTORIDADE RATIFICADORA |Nome: |
-
-|(quando aplicável) | |
-
-| |Cargo: |
-
-| |DESCLASSIFICAÇÃO em ____/____/________ |Nome: |
-
-| |(quando aplicável) | |
-
-| | |Cargo: |
-
-| |RECLASSIFICAÇÃO em ____/____/_________ |Nome: |
-
-| |(quando aplicável) | |
-
-| | |Cargo: |
-
-| |REDUÇÃO DE PRAZO em ____/____/_______ |Nome: |
-
-| |(quando aplicável) | |
-
-| | |Cargo: |
-
-| |PRORROGAÇÃO DE PRAZO em ___/ ____/_____ |Nome: |
-
-| |(quando aplicável) | |
-
-| | |Cargo: |
-
-|_____________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE CLASSIFICADORA |
-
-| |
-
-|_____________________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE RATIFICADORA (quando aplicável) |
-
-| |
-
-|_____________________________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE responsável por DESCLASSIFICAÇÃO (quando aplicável) |
-
-| |
-
-|______________________________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE responsável por RECLASSIFICAÇÃO (quando aplicável) |
-
-| |
-
-|______________________________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE responsável por REDUÇÃO DE PRAZO (quando aplicável) |
-
-| |
-
-|______________________________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE responsável por PRORROGAÇÃO DE PRAZO (quando aplicável) |
+| TERMO DE CLASSIFICAÇÃO DE INFORMAÇÃO |  |  |
+| --- | --- | --- |
+| ÓRGÃO/ENTIDADE: |  |  |
+| CÓDIGO DE INDEXAÇÃO: |  |  |
+| GRAU DE SIGILO: |  |  |
+| CATEGORIA: |  |  |
+| TIPO DE DOCUMENTO: |  |  |
+| DATA DE PRODUÇÃO: |  |  |
+| FUNDAMENTO LEGAL PARA CLASSIFICAÇÃO: |  |  |
+| RAZÕES PARA A CLASSIFICAÇÃO: |  |  |
+| (idêntico ao grau de sigilo do documento) |  |  |
+| PRAZO DA RESTRIÇÃO DE ACESSO: |  |  |
+| DATA DE CLASSIFICAÇÃO: |  |  |
+| AUTORIDADE CLASSIFICADORA | Nome: |  |
+|  | Cargo: |  |
+| AUTORIDADE RATIFICADORA | Nome: |  |
+| (quando aplicável) |  |  |
+|  | Cargo: |  |
+|  | DESCLASSIFICAÇÃO em ____/____/________ | Nome: |
+|  | (quando aplicável) |  |
+|  |  | Cargo: |
+|  | RECLASSIFICAÇÃO em ____/____/_________ | Nome: |
+|  | (quando aplicável) |  |
+|  |  | Cargo: |
+|  | REDUÇÃO DE PRAZO em ____/____/_______ | Nome: |
+|  | (quando aplicável) |  |
+|  |  | Cargo: |
+|  | PRORROGAÇÃO DE PRAZO em ___/ ____/_____ | Nome: |
+|  | (quando aplicável) |  |
+|  |  | Cargo: |
+| _____________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE CLASSIFICADORA |  |  |
+|  |  |  |
+| _____________________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE RATIFICADORA (quando aplicável) |  |  |
+|  |  |  |
+| _____________________________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE responsável por DESCLASSIFICAÇÃO (quando aplicável) |  |  |
+|  |  |  |
+| ______________________________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE responsável por RECLASSIFICAÇÃO (quando aplicável) |  |  |
+|  |  |  |
+| ______________________________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE responsável por REDUÇÃO DE PRAZO (quando aplicável) |  |  |
+|  |  |  |
+| ______________________________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE responsável por PRORROGAÇÃO DE PRAZO (quando aplicável) |  |  |
 
 ANEXO II
 
@@ -1164,41 +1120,25 @@ Código de Indexação de Informação Classificada – Categorias
 
 Anexo II acrescentado pelo Decreto nº 16.134, de 6/11/2015 (Art. 8º)
 
-|CATEGORIAS |CÓDIGO NUMÉRICO |
-
-|Administração Regional |01 |
-
-|Controle Interno |02 |
-
-|Cultura/ Lazer/ Esporte/ Turismo |03 |
-
-|Defesa e Segurança |04 |
-
-|Desenvolvimento |05 |
-
-|Educação |06 |
-
-|Governo/ Relações Institucionais/ Relações Internacionais |07 |
-
-|Jurídico |08 |
-
-|Meio ambiente |09 |
-
-|Obras/ Infraestrutura/ Habitação |10 |
-
-|Orçamento/ Finanças |11 |
-
-|Planejamento/ Recursos Humanos/ Previdência |12 |
-
-|Políticas Sociais |13 |
-
-|Saneamento/ Urbanismo |14 |
-
-|Saúde |15 |
-
-|Tecnologia/ Informação/ Comunicação |16 |
-
-|Transportes e trânsito |17 |
+| CATEGORIAS | CÓDIGO NUMÉRICO |
+| --- | --- |
+| Administração Regional | 01 |
+| Controle Interno | 02 |
+| Cultura/ Lazer/ Esporte/ Turismo | 03 |
+| Defesa e Segurança | 04 |
+| Desenvolvimento | 05 |
+| Educação | 06 |
+| Governo/ Relações Institucionais/ Relações Internacionais | 07 |
+| Jurídico | 08 |
+| Meio ambiente | 09 |
+| Obras/ Infraestrutura/ Habitação | 10 |
+| Orçamento/ Finanças | 11 |
+| Planejamento/ Recursos Humanos/ Previdência | 12 |
+| Políticas Sociais | 13 |
+| Saneamento/ Urbanismo | 14 |
+| Saúde | 15 |
+| Tecnologia/ Informação/ Comunicação | 16 |
+| Transportes e trânsito | 17 |
 
 Obs.:
 

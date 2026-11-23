@@ -366,11 +366,10 @@ ANEXO I
 
 CARGOS DA ÁREA DE ATIVIDADES DE SAÚDE DA PREFEITURA DE BELO HORIZONTE
 
-|CARGO |QUANTITATIVO |
-
-|Agente de Serviços de Saúde |1.928 |
-
-|Técnico de Serviços de Saúde |5.603 |
+| CARGO | QUANTITATIVO |
+| --- | --- |
+| Agente de Serviços de Saúde | 1.928 |
+| Técnico de Serviços de Saúde | 5.603 |
 
 ANEXO II
 
@@ -414,277 +413,150 @@ Tabelas de vencimentos-base dos ocupantes dos cargos e empregos de Agente de Ser
 
 A - Administração direta
 
-|AGENTE DE SERVIÇOS DE SAÚDE |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|24 HORAS SEMANAIS |
-
-|Classe |NÍVEL |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |NÍVEL |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |NÍVEL |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |1 |
-
-|AGENTE SANITÁRIO |186 |
-
-|CIRURGIÃO-DENTISTA |615 |
-
-|ENFERMEIRO |1.768 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |1.954 |
+| AGENTE DE SERVIÇOS DE SAÚDE |  |
+| --- | --- |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| 24 HORAS SEMANAIS |  |
+| Classe | NÍVEL |
+|  |  |
+| 30 HORAS SEMANAIS |  |
+| Classe | NÍVEL |
+|  |  |
+| 30 HORAS SEMANAIS |  |
+| Classe | NÍVEL |
+|  |  |
+| 40 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| 40 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  | 1 |
+| AGENTE SANITÁRIO | 186 |
+| CIRURGIÃO-DENTISTA | 615 |
+| ENFERMEIRO | 1.768 |
+| TÉCNICO SUPERIOR DE SAÚDE | 1.954 |
 
 ANEXO V
 
 I - Tabelas de vencimentos-base dos cargos de provimento efetivo integrantes da área de atividades de Saúde da administração direta da Prefeitura de Belo Horizonte, a partir de 1º de julho de 2022:
 
-|CARGOS |TABELA DE VENCIMENTOS-BASE - 20 HORAS SEMANAIS (Valores em R$) |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|CARGO/ CATEGORIA |VALORES EM R$ |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |308,49 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |352,62 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |801,40 |
-
-|CIRURGIÃO-DENTISTA |801,40 |
-
-|ENFERMEIRO |801,40 |
-
-|MÉDICO |1.500,00 |
+| CARGOS | TABELA DE VENCIMENTOS-BASE - 20 HORAS SEMANAIS (Valores em R$) |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  |  |
+| CARGO/ CATEGORIA | VALORES EM R$ |
+| AGENTE DE SERVIÇOS DE SAÚDE | 308,49 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 352,62 |
+| TÉCNICO SUPERIOR DE SAÚDE | 801,40 |
+| CIRURGIÃO-DENTISTA | 801,40 |
+| ENFERMEIRO | 801,40 |
+| MÉDICO | 1.500,00 |
 
 B - Abono por cumprimento de plantão extra, instituído pelo § 5º do art. 4º da Lei nº 9.450, de 13 de novembro de 2007:
 
-|PLANTÃO EXTRA |
-
-|CARGO/ CATEGORIA |2ª A 6ª FEIRA |SÁBADO E DOMINGO |
-
-| |(VALORES EM R$) |(VALORES EM R$) |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |200,00 |250,00 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |200,00 |250,00 |
-
-|CIRURGIÃO-DENTISTA |400,00 |500,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |400,00 |500,00 |
-
-|ENFERMEIRO |400,00 |500,00 |
-
-|MÉDICO |1.200,00 |1.500,00 |
-
-|PLANTÃO EXTRA - SERVIÇO DE URGÊNCIA PSIQUIÁTRICA - SUP |
-
-|CARGO/ CATEGORIA |2ª A 6ª FEIRA |SÁBADO E DOMINGO |
-
-| |(VALORES EM R$) |(VALORES EM R$) |
-
-|TÉCNICO SUPERIOR DE SAÚDE |961,68 |1.236,44 |
-
-|ENFERMEIRO |961,68 |1.236,44 |
-
-|MÉDICO |1.200,00 |1.500,00 |
-
-|PLANTÃO EXTRA |
-
-|CARGO/ CATEGORIA |2ª A 6ª FEIRA |SÁBADO E DOMINGO |
-
-| |(VALORES EM R$) |(VALORES EM R$) |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |226,67 |283,33 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |226,67 |283,33 |
-
-|CIRURGIÃO-DENTISTA |453,33 |566,67 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |453,33 |566,67 |
-
-|ENFERMEIRO |453,33 |566,67 |
-
-|MÉDICO |1.360,00 |1.700,00 |
+| PLANTÃO EXTRA |  |  |
+| --- | --- | --- |
+| CARGO/ CATEGORIA | 2ª A 6ª FEIRA | SÁBADO E DOMINGO |
+|  | (VALORES EM R$) | (VALORES EM R$) |
+| AGENTE DE SERVIÇOS DE SAÚDE | 200,00 | 250,00 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 200,00 | 250,00 |
+| CIRURGIÃO-DENTISTA | 400,00 | 500,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 400,00 | 500,00 |
+| ENFERMEIRO | 400,00 | 500,00 |
+| MÉDICO | 1.200,00 | 1.500,00 |
+| PLANTÃO EXTRA - SERVIÇO DE URGÊNCIA PSIQUIÁTRICA - SUP |  |  |
+| CARGO/ CATEGORIA | 2ª A 6ª FEIRA | SÁBADO E DOMINGO |
+|  | (VALORES EM R$) | (VALORES EM R$) |
+| TÉCNICO SUPERIOR DE SAÚDE | 961,68 | 1.236,44 |
+| ENFERMEIRO | 961,68 | 1.236,44 |
+| MÉDICO | 1.200,00 | 1.500,00 |
+| PLANTÃO EXTRA |  |  |
+| CARGO/ CATEGORIA | 2ª A 6ª FEIRA | SÁBADO E DOMINGO |
+|  | (VALORES EM R$) | (VALORES EM R$) |
+| AGENTE DE SERVIÇOS DE SAÚDE | 226,67 | 283,33 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 226,67 | 283,33 |
+| CIRURGIÃO-DENTISTA | 453,33 | 566,67 |
+| TÉCNICO SUPERIOR DE SAÚDE | 453,33 | 566,67 |
+| ENFERMEIRO | 453,33 | 566,67 |
+| MÉDICO | 1.360,00 | 1.700,00 |
 
 ANEXO VI
 
@@ -692,96 +564,64 @@ Anexo VI com redação dada pela Lei nº 11.491, de 10/5/2023 (Art. 20)
 
 A - Abono por cumprimento de plantão nos Centros de Referência em Saúde Mental - Cersam, instituído pelo art. 5º da Lei nº 8.765, de 19 de janeiro de 2004:
 
-|ABONO CERSAM |
-
-|CARGO/ CATEGORIA |VALORES EM R$ |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |308,49 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |352,62 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |801,40 |
-
-|ENFERMEIRO |801,40 |
-
-|MÉDICO |1.500,00 |
+| ABONO CERSAM |  |
+| --- | --- |
+| CARGO/ CATEGORIA | VALORES EM R$ |
+| AGENTE DE SERVIÇOS DE SAÚDE | 308,49 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 352,62 |
+| TÉCNICO SUPERIOR DE SAÚDE | 801,40 |
+| ENFERMEIRO | 801,40 |
+| MÉDICO | 1.500,00 |
 
 B - Abono por cumprimento de plantão extra, instituído pelo caput e pelo § 6º do art. 4º da Lei nº 9.450, de 13 de novembro de 2007:
 
-|PLANTÃO EXTRA |
-
-|CARGO/ CATEGORIA |De 7h (sete horas) de |De 19h (dezenove horas) de sexta-feira até 7h |
-
-| |segunda-feira até 19h (dezenove|(sete horas) de segunda-feira, feriados e |
-
-| |horas) de sexta-feira |pontos facultativos |
-
-|AGENTE DE SERVIÇOS DE |200,00 |250,00 |
-
-|SAÚDE | | |
-
-|TÉCNICO DE SERVIÇOS DE |200,00 |250,00 |
-
-|SAÚDE | | |
-
-|CIRURGIÃO-DENTISTA |400,00 |500,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |400,00 |500,00 |
-
-|ENFERMEIRO |400,00 |500,00 |
-
-|MÉDICO |1.200,00 |1.500,00 |
+| PLANTÃO EXTRA |  |  |
+| --- | --- | --- |
+| CARGO/ CATEGORIA | De 7h (sete horas) de | De 19h (dezenove horas) de sexta-feira até 7h |
+|  | segunda-feira até 19h (dezenove | (sete horas) de segunda-feira, feriados e |
+|  | horas) de sexta-feira | pontos facultativos |
+| AGENTE DE SERVIÇOS DE | 200,00 | 250,00 |
+| SAÚDE |  |  |
+| TÉCNICO DE SERVIÇOS DE | 200,00 | 250,00 |
+| SAÚDE |  |  |
+| CIRURGIÃO-DENTISTA | 400,00 | 500,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 400,00 | 500,00 |
+| ENFERMEIRO | 400,00 | 500,00 |
+| MÉDICO | 1.200,00 | 1.500,00 |
 
 C - Abono por cumprimento de plantão extra no Serviço de Urgência Psiquiátrica - SUP, instituído pelo § 4º do art. 4º da Lei nº 9.450, de 13 de novembro de 2007:
 
-|PLANTÃO EXTRA - SERVIÇO DE URGÊNCIA PSIQUIÁTRICA - SUP |
-
-|CARGO/ CATEGORIA |De 7h de segunda-feira até |De 19h de sexta-feira até 7h de segunda-feira, |
-
-| |19h de sexta-feira |feriados e pontos facultativos |
-
-|TÉCNICO SUPERIOR DE |961,68 |1.236,44 |
-
-|SAÚDE | | |
-
-|ENFERMEIRO |961,68 |1.236,44 |
-
-|MÉDICO |1.200,00 |1.500,00 |
+| PLANTÃO EXTRA - SERVIÇO DE URGÊNCIA PSIQUIÁTRICA - SUP |  |  |
+| --- | --- | --- |
+| CARGO/ CATEGORIA | De 7h de segunda-feira até | De 19h de sexta-feira até 7h de segunda-feira, |
+|  | 19h de sexta-feira | feriados e pontos facultativos |
+| TÉCNICO SUPERIOR DE | 961,68 | 1.236,44 |
+| SAÚDE |  |  |
+| ENFERMEIRO | 961,68 | 1.236,44 |
+| MÉDICO | 1.200,00 | 1.500,00 |
 
 D - Abono por cumprimento de plantão extra na Gerência de Linha de Cuidado Intensivo Adulto do HOB, instituído pelo § 11 do art. 4º da Lei nº 9.450, de 13 de novembro de 2007.
 
-|PLANTÃO EXTRA DE 12 HORAS - HOB |
-
-|CARGO/ CATEGORIA |De 7h (sete horas) de |De 19h de sexta-feira até 7h (sete horas) |
-
-| |segunda-feira até 19h (dezenove |de segunda-feira, feriados e pontos |
-
-| |horas) de sexta-feira |facultativos |
-
-|AGENTE DE SERVIÇOS |226,67 |283,33 |
-
-|DE SAÚDE | | |
-
-|TÉCNICO DE SERVIÇOS|226,67 |283,33 |
-
-|DE SAÚDE | | |
-
-|TÉCNICO SUPERIOR DE|453,33 |566,67 |
-
-|SAÚDE | | |
-
-|ENFERMEIRO |453,33 |566,67 |
-
-|MÉDICO |1.360,00 |1.700,00 |
+| PLANTÃO EXTRA DE 12 HORAS - HOB |  |  |
+| --- | --- | --- |
+| CARGO/ CATEGORIA | De 7h (sete horas) de | De 19h de sexta-feira até 7h (sete horas) |
+|  | segunda-feira até 19h (dezenove | de segunda-feira, feriados e pontos |
+|  | horas) de sexta-feira | facultativos |
+| AGENTE DE SERVIÇOS | 226,67 | 283,33 |
+| DE SAÚDE |  |  |
+| TÉCNICO DE SERVIÇOS | 226,67 | 283,33 |
+| DE SAÚDE |  |  |
+| TÉCNICO SUPERIOR DE | 453,33 | 566,67 |
+| SAÚDE |  |  |
+| ENFERMEIRO | 453,33 | 566,67 |
+| MÉDICO | 1.360,00 | 1.700,00 |
 
 Anexo VI com redação dada pela Lei nº 11.491, de 10/5/2023 (Art. 20)
 
 ANEXO VII
 
-|GRAU DE INSALUBRIDADE |
-
-|(VALORES EM R$) |
-
-|MÍNIMO |MÉDIO |MÁXIMO |
-
-|121,20 |242,40 |484,80 |
+| GRAU DE INSALUBRIDADE |  |  |
+| --- | --- | --- |
+| (VALORES EM R$) |  |  |
+| MÍNIMO | MÉDIO | MÁXIMO |
+| 121,20 | 242,40 | 484,80 |

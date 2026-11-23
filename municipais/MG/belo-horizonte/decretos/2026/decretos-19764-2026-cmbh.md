@@ -66,41 +66,25 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 - A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2817.449052.2.710.610 |2.063,70 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0317.1334.339039.2.751.000 |2.432,92 |
-
-|2100.06.122.0317.1334.339030.2.751.000 |30.988,82 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1397.449051.2.710.610 |400.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.452.0057.2770.339039.2.710.610 |400.000,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|3801.12.306.0132.2761.339030.2.552.000 |653.991,89 |
-
-|Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |
-
-|3102.13.391.0155.2375.449052.2.501.000 |86.454,00 |
-
-|3102.13.391.0155.2375.339039.2.501.000 |30.400,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.606.331,33 |
+| I.1.1 - A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2817.449052.2.710.610 | 2.063,70 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0317.1334.339039.2.751.000 | 2.432,92 |
+| 2100.06.122.0317.1334.339030.2.751.000 | 30.988,82 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1397.449051.2.710.610 | 400.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.452.0057.2770.339039.2.710.610 | 400.000,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 3801.12.306.0132.2761.339030.2.552.000 | 653.991,89 |
+| Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |  |
+| 3102.13.391.0155.2375.449052.2.501.000 | 86.454,00 |
+| 3102.13.391.0155.2375.339039.2.501.000 | 30.400,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.606.331,33 |
 
 ANEXO II
 
@@ -156,26 +140,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.190.545.358,18 |
-
-|Valor do decreto publicado nesta data |R$ 1.606.331,33 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.192.151.689,51 |
-
-|Saldo atual de créditos suplementares |R$ 1.300.283.378,09 |
-
-|Percentual utilizado |47,83% |
-
-|Atualizado em 28/09/2026 às 15:00:21 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.190.545.358,18 |
+| Valor do decreto publicado nesta data | R$ 1.606.331,33 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.192.151.689,51 |
+| Saldo atual de créditos suplementares | R$ 1.300.283.378,09 |
+| Percentual utilizado | 47,83% |
+| Atualizado em 28/09/2026 às 15:00:21 |  |

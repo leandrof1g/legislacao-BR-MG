@@ -42,32 +42,19 @@ Marco Antônio de Rezende Teixeira
 
 Procurador-Geral do Município
 
-|ANEXO ÚNICO |
-
-|(Inclui o Anexo VIII no Decreto 12.610/07) |
-
-|PLANILHA DEMONSTRATIVA DAS PARCELAS A SEREM PAGAS A PARTIR DE JUNHO/2008, CONFORME ACORDO FEITO EM 27 DE MAIO DE 2008 |
-
-|PROCESSO: 00269/93 12 ª Vara do Trabalho | | | | | BASE DE CÁLCULO PARA O IMPOSTO DE RENDA: B + C | |
-
-|RECLAMANTE: Aida Cuba de Almada Lima e outro | | | | | BASE DE CÁLCULO PARA A CONTRIBUIÇÃO PREVIDENCIÁRIA: B |
-
-|RECLAMADO: MUNICÍPIO DE BELO HORIZONTE | | | | | PARCELA ISENTA: D + E | | | |
-
-| | | | | | | | |
-
-| | | | | | |
-
-|B. PRINCIPAL - A PARCELA DESCRITA SERÁ BASE DE CÁLCULO PARA A CONTRIBUIÇÃO PREVIDENCIÁRIA E IMPOSTO DE RENDA, CONFORME DETERMINAÇÃO JUDICIAL. | |
-
-|C. JUROS - A PARCELA SERÁ APENAS BASE DE CÁLCULO PARA O IMPOSTO DE RENDA. | | | | | | |
-
-|D. FGTS - A PARCELA É TOTALMENTE ISENTA DE QUALQUER DESCONTO LEGAL. | | | | | | | |
-
-|E. CONTRIBUIÇÃO SINDICAL - PARCELA ISENTA. | | | | | | | | | |
-
-| |
-
-| | | | | | |
-
-| | | | | | |
+| ANEXO ÚNICO |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| (Inclui o Anexo VIII no Decreto 12.610/07) |  |  |  |  |  |  |  |  |  |
+| PLANILHA DEMONSTRATIVA DAS PARCELAS A SEREM PAGAS A PARTIR DE JUNHO/2008, CONFORME ACORDO FEITO EM 27 DE MAIO DE 2008 |  |  |  |  |  |  |  |  |  |
+| PROCESSO: 00269/93 12 ª Vara do Trabalho |  |  |  |  | BASE DE CÁLCULO PARA O IMPOSTO DE RENDA: B + C |  |  |  |  |
+| RECLAMANTE: Aida Cuba de Almada Lima e outro |  |  |  |  | BASE DE CÁLCULO PARA A CONTRIBUIÇÃO PREVIDENCIÁRIA: B |  |  |  |  |
+| RECLAMADO: MUNICÍPIO DE BELO HORIZONTE |  |  |  |  | PARCELA ISENTA: D + E |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| B. PRINCIPAL - A PARCELA DESCRITA SERÁ BASE DE CÁLCULO PARA A CONTRIBUIÇÃO PREVIDENCIÁRIA E IMPOSTO DE RENDA, CONFORME DETERMINAÇÃO JUDICIAL. |  |  |  |  |  |  |  |  |  |
+| C. JUROS - A PARCELA SERÁ APENAS BASE DE CÁLCULO PARA O IMPOSTO DE RENDA. |  |  |  |  |  |  |  |  |  |
+| D. FGTS - A PARCELA É TOTALMENTE ISENTA DE QUALQUER DESCONTO LEGAL. |  |  |  |  |  |  |  |  |  |
+| E. CONTRIBUIÇÃO SINDICAL - PARCELA ISENTA. |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |

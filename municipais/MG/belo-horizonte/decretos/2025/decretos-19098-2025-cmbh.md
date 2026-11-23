@@ -44,22 +44,14 @@ ANEXO
 
 Atividades cujo exercício estabelece a necessidade de atendimento ao disposto no art. 1º.
 
-|CNAE |ATIVIDADE |
-
-|383190100 |Recuperação de sucatas de alumínio |
-
-|383199900 |Recuperação de materiais metálicos, exceto alumínio |
-
-|383270000 |Recuperação de materiais plásticos |
-
-|383949900 |Recuperação de materiais não especificados anteriormente |
-
-|468690100 |Comércio atacadista de papel e papelão em bruto |
-
-|468770100 |Comércio atacadista de resíduos de papel e papelão |
-
-|468770200 |Comércio atacadista de resíduos e sucatas não-metálicos, exceto de papel e papelão|
-
-|468770300 |Comércio atacadista de resíduos e sucatas metálicos |
-
-|521179901 |Depósito de material reciclável |
+| CNAE | ATIVIDADE |
+| --- | --- |
+| 383190100 | Recuperação de sucatas de alumínio |
+| 383199900 | Recuperação de materiais metálicos, exceto alumínio |
+| 383270000 | Recuperação de materiais plásticos |
+| 383949900 | Recuperação de materiais não especificados anteriormente |
+| 468690100 | Comércio atacadista de papel e papelão em bruto |
+| 468770100 | Comércio atacadista de resíduos de papel e papelão |
+| 468770200 | Comércio atacadista de resíduos e sucatas não-metálicos, exceto de papel e papelão |
+| 468770300 | Comércio atacadista de resíduos e sucatas metálicos |
+| 521179901 | Depósito de material reciclável |

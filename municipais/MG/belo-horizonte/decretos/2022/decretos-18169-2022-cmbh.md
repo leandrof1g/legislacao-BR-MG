@@ -60,15 +60,12 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Crédito adicional especial suplementando a seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor da Secretaria Municipal de Fazenda – SMFA –, conforme |R$ |
-
-|autorização contida no art. 7º da Lei nº 11.314, de 5 de outubro de 2021, e| |
-
-|dispositivos do art. 1º da Lei nº 11.422, de 27 de outubro de 2022: | |
-
-|0800.04.129.172.1.402.3390.0000 |1.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.000.000,00 |
+| I.1.1 – A favor da Secretaria Municipal de Fazenda – SMFA –, conforme | R$ |
+| --- | --- |
+| autorização contida no art. 7º da Lei nº 11.314, de 5 de outubro de 2021, e |  |
+| dispositivos do art. 1º da Lei nº 11.422, de 27 de outubro de 2022: |  |
+| 0800.04.129.172.1.402.3390.0000 | 1.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.000.000,00 |
 
 ANEXO II
 
@@ -92,16 +89,11 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 7º da Lei nº 11.314, de 5 de outubro de 2021:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO |
-
-|Artigo 7º da Lei nº 11.314, de 05/10/2021 - Crédito Especial - Programa Auxílio BH |
-
-|Limite total autorizado |R$ 239.556.672,00 |
-
-|Valor do crédito especial aberto em 2021 e 2022 |R$ 134.826.344,09 |
-
-|Saldo de crédito especial |R$ 104.730.327,91 |
-
-|Percentual utilizado |56,28% |
-
-|Atualizado em 24/11/2022 às 09:29:33 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO |  |
+| --- | --- |
+| Artigo 7º da Lei nº 11.314, de 05/10/2021 - Crédito Especial - Programa Auxílio BH |  |
+| Limite total autorizado | R$ 239.556.672,00 |
+| Valor do crédito especial aberto em 2021 e 2022 | R$ 134.826.344,09 |
+| Saldo de crédito especial | R$ 104.730.327,91 |
+| Percentual utilizado | 56,28% |
+| Atualizado em 24/11/2022 às 09:29:33 |  |

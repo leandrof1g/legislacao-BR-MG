@@ -156,444 +156,243 @@ Prefeito de Belo Horizonte
 
 ANEXO I A QUE SE REFERE O ART. 1º
 
-|QUADRO PERMANENTE |
-
-|GRUPO |DENOMINAÇÃO DOS GRUPOS E DAS CLASSES |CÓDIGO DAS CLASSES|SÍMBOLO DE VENCIMENTO |REGIME JURÍDICO |COMPOSIÇÃO DAS CLASSES |FORMA DE RECRUTAMENTO |
-
-| | | |OU SALÁRIO | | | |
-
-| | | | | |CARGOS |EMPREGOS | |
-
-|1 |ADMINISTRAÇÃO GERAL | | | | | | |
-
-|1.1 |PROVIMENTO EM COMISSÃO | | | | | | |
-
-| |Administrador Regional |DA-01 |ESPECIAL |ESTATURÁRIO |02 |- |AMPLO |
-
-| |Assessor III |DA-02 |XXI |ESTATURÁRIO |15 |- |AMPLO |
-
-| |Assessor II |DA-03 |XX |ESTATURÁRIO |35 |- |AMPLO |
-
-| |Assessor I |DA-03 |XIX |ESTATURÁRIO |65 |- |AMPLO |
-
-| |Assistente Administrativo |DA-34 |XI |ESTATURÁRIO |30 |- |LIMITADO |
-
-| |Auditor Geral |DA-33 |XXI |ESTATURÁRIO |01 |- |AMPLO |
-
-| |Auxiliar de Gabinete |DA-05 |XIII |ESTATURÁRIO |25 |- |AMPLO |
-
-| |Chefe de Assessoria de Secretário Municipal | | | | | | |
-
-| |Chefe de Consultoria de Prefeito |DA-06 |XXI |ESTATURÁRIO |07 |- |AMPLO |
-
-| |Chefe de Gabinete de Prefeito |DA-07 |XXII |ESTATURÁRIO |01 |- |AMPLO |
-
-| |Coordenador de Fiscalização |DA-08 |ESPECIAL. |ESTATURÁRIO |01 |-. |AMPLO |
-
-| |Corregedor Municipal |DA-38 |XV |ESTATURÁRIO |40 |-. |LIMITADO |
-
-| |Corregedor Municipal Adjunto |DA-09 |ESPECIAL. |ESTATURÁRIO |01 |- |AMPLO |
-
-| |Diretor Municipal II |DA-10 |XXII |ESTATURÁRIO |01 |- |AMPLO |
-
-| |Diretor Municipal I |DA-11 |XXI |ESTATURÁRIO |30 |- |AMPLO |
-
-| |Encarregado II |DA-12 |XX |ESTATURÁRIO |06 |- |AMPLO |
-
-| |Encarregado I |DA-35 |IX |ESTATURÁRIO |30 |- |LIMITADO |
-
-| |Inspetor de Finanças |DA-36 |VII |ESTATURÁRIO |100 |- |LIMITADO |
-
-| |Oficial de Gabinete de Prefeito |DA-37 |XV |ESTATURÁRIO |10 |-. |LIMITADO |
-
-| |Procurado Geral do Município |DA-13 |XVIII |ESTATURÁRIO |05 |-. |AMPLO |
-
-| |Secretário da Junta de Recursos Fiscais |DA-14 |ESPECIAL |ESTATURÁRIO |01 |- |AMPLO |
-
-| |Secretário Particular de Prefeito | | | | |- | |
-
-| |Secretário Municipal |DA-15 |XX |ESTATURÁRIO |01 |- |AMPLO |
-
-| |Secretário Municipal Adjunto |DA-16 |XXII |ESTATURÁRIO |01 |- |AMPLO |
-
-| |Subprocurador |DA-17 |ESPECIAL |ESTATURÁRIO |07 |- |AMPLO |
-
-| | |DA-18 |XXII |ESTATURÁRIO |07 |-. |AMPLO |
-
-| | |DA-19 |XXII |ESTATURÁRIO |01 |- |AMPLO |
+| QUADRO PERMANENTE |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GRUPO | DENOMINAÇÃO DOS GRUPOS E DAS CLASSES | CÓDIGO DAS CLASSES | SÍMBOLO DE VENCIMENTO | REGIME JURÍDICO | COMPOSIÇÃO DAS CLASSES | FORMA DE RECRUTAMENTO |  |
+|  |  |  | OU SALÁRIO |  |  |  |  |
+|  |  |  |  |  | CARGOS | EMPREGOS |  |
+| 1 | ADMINISTRAÇÃO GERAL |  |  |  |  |  |  |
+| 1.1 | PROVIMENTO EM COMISSÃO |  |  |  |  |  |  |
+|  | Administrador Regional | DA-01 | ESPECIAL | ESTATURÁRIO | 02 | - | AMPLO |
+|  | Assessor III | DA-02 | XXI | ESTATURÁRIO | 15 | - | AMPLO |
+|  | Assessor II | DA-03 | XX | ESTATURÁRIO | 35 | - | AMPLO |
+|  | Assessor I | DA-03 | XIX | ESTATURÁRIO | 65 | - | AMPLO |
+|  | Assistente Administrativo | DA-34 | XI | ESTATURÁRIO | 30 | - | LIMITADO |
+|  | Auditor Geral | DA-33 | XXI | ESTATURÁRIO | 01 | - | AMPLO |
+|  | Auxiliar de Gabinete | DA-05 | XIII | ESTATURÁRIO | 25 | - | AMPLO |
+|  | Chefe de Assessoria de Secretário Municipal |  |  |  |  |  |  |
+|  | Chefe de Consultoria de Prefeito | DA-06 | XXI | ESTATURÁRIO | 07 | - | AMPLO |
+|  | Chefe de Gabinete de Prefeito | DA-07 | XXII | ESTATURÁRIO | 01 | - | AMPLO |
+|  | Coordenador de Fiscalização | DA-08 | ESPECIAL. | ESTATURÁRIO | 01 | -. | AMPLO |
+|  | Corregedor Municipal | DA-38 | XV | ESTATURÁRIO | 40 | -. | LIMITADO |
+|  | Corregedor Municipal Adjunto | DA-09 | ESPECIAL. | ESTATURÁRIO | 01 | - | AMPLO |
+|  | Diretor Municipal II | DA-10 | XXII | ESTATURÁRIO | 01 | - | AMPLO |
+|  | Diretor Municipal I | DA-11 | XXI | ESTATURÁRIO | 30 | - | AMPLO |
+|  | Encarregado II | DA-12 | XX | ESTATURÁRIO | 06 | - | AMPLO |
+|  | Encarregado I | DA-35 | IX | ESTATURÁRIO | 30 | - | LIMITADO |
+|  | Inspetor de Finanças | DA-36 | VII | ESTATURÁRIO | 100 | - | LIMITADO |
+|  | Oficial de Gabinete de Prefeito | DA-37 | XV | ESTATURÁRIO | 10 | -. | LIMITADO |
+|  | Procurado Geral do Município | DA-13 | XVIII | ESTATURÁRIO | 05 | -. | AMPLO |
+|  | Secretário da Junta de Recursos Fiscais | DA-14 | ESPECIAL | ESTATURÁRIO | 01 | - | AMPLO |
+|  | Secretário Particular de Prefeito |  |  |  |  | - |  |
+|  | Secretário Municipal | DA-15 | XX | ESTATURÁRIO | 01 | - | AMPLO |
+|  | Secretário Municipal Adjunto | DA-16 | XXII | ESTATURÁRIO | 01 | - | AMPLO |
+|  | Subprocurador | DA-17 | ESPECIAL | ESTATURÁRIO | 07 | - | AMPLO |
+|  |  | DA-18 | XXII | ESTATURÁRIO | 07 | -. | AMPLO |
+|  |  | DA-19 | XXII | ESTATURÁRIO | 01 | - | AMPLO |
 
 ANEXO I A QUE SE REFERE O ART. 1º
 
-|QUADRO PERMANENTE |
-
-|GRUPO |DENOMINAÇÃO DOS GRUPOS E DAS CLASSES |CÓDIGO DAS CLASSES|SÍMBOLO DE VENCIMENTO |REGIME JURÍDICO |COMPOSIÇÃO DAS CLASSES |FORMA DE RECRUTAMENTO |
-
-| | | |OU SALÁRIO | | | |
-
-| | | | | |CARGOS |EMPREGOS | |
-
-| | | | | | | | |
-
-| |ADMINISTRAÇÃO GERAL | | | | | | |
-
-| |PROVIMENTO EM COMISSÃO | | | | | | |
-
-| | | | |ESTATURÁRIO |01 | |AMPLO |
-
-| |Superintendente | | |ESTATURÁRIO |50 | |LIMITADO |
-
-| |Supervisor III | | |ESTATURÁRIO |50 | |LIMITADO |
-
-| |Supervisor II | | |ESTATURÁRIO |120 | |LIMITADO |
-
-| |Supervisor I | | |ESTATURÁRIO |01 | |AMPLO |
-
-| |Vice-presidente do CMPD | | | | | | |
-
-| | | | | | | | |
-
-|1.2 |PROVIMENTO EFETIVO | | | | | | |
-
-| | |NS-01 | |ESTATURÁRIO |50 |- |- |
-
-| |Advogado |SG-01 | |ESTATURÁRIO |75 |- |- |
-
-| |Agente de Administração III |SG-02 | |ESTATURÁRIO |200 |- |- |
-
-| |Agente de Administração II |SG-03 | |ESTATURÁRIO |280 |- |- |
-
-| |Agente de Administração I |PG-01 | |ESTATURÁRIO |200 |- |- |
-
-| |Auxiliar de Administração |NS-08 |XIX |ESTATURÁRIO |01 |- |- |
-
-| |Consultor Jurídico |NS-15 |NS-15 |CLT |- |06 |- |
-
-| |Estatístico |PG-08 |PG-08 |CLT |- |47 |- |
-
-| |Fiscal Municipal |SG-07 |SG-07 |ESTATUTÁRIO |70 |- |- |
-
-| |Fiscal Municipal de Postura |NS-21 |NS-21 |ESTATUTÁRIO |10 |- |- |
-
-| |Técnico de Administração |NS-22 |NS-22 |CLT |- |05 |- |
-
-| |Técnico de Comunicação Social |SG-13 |SG-13 |CLT |- |10 |- |
-
-| |Técnico em Estatística |PG-07 |PG-07 |CLT |- |20 |- |
-
-| |Telefonista | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
+| QUADRO PERMANENTE |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GRUPO | DENOMINAÇÃO DOS GRUPOS E DAS CLASSES | CÓDIGO DAS CLASSES | SÍMBOLO DE VENCIMENTO | REGIME JURÍDICO | COMPOSIÇÃO DAS CLASSES | FORMA DE RECRUTAMENTO |  |
+|  |  |  | OU SALÁRIO |  |  |  |  |
+|  |  |  |  |  | CARGOS | EMPREGOS |  |
+|  |  |  |  |  |  |  |  |
+|  | ADMINISTRAÇÃO GERAL |  |  |  |  |  |  |
+|  | PROVIMENTO EM COMISSÃO |  |  |  |  |  |  |
+|  |  |  |  | ESTATURÁRIO | 01 |  | AMPLO |
+|  | Superintendente |  |  | ESTATURÁRIO | 50 |  | LIMITADO |
+|  | Supervisor III |  |  | ESTATURÁRIO | 50 |  | LIMITADO |
+|  | Supervisor II |  |  | ESTATURÁRIO | 120 |  | LIMITADO |
+|  | Supervisor I |  |  | ESTATURÁRIO | 01 |  | AMPLO |
+|  | Vice-presidente do CMPD |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| 1.2 | PROVIMENTO EFETIVO |  |  |  |  |  |  |
+|  |  | NS-01 |  | ESTATURÁRIO | 50 | - | - |
+|  | Advogado | SG-01 |  | ESTATURÁRIO | 75 | - | - |
+|  | Agente de Administração III | SG-02 |  | ESTATURÁRIO | 200 | - | - |
+|  | Agente de Administração II | SG-03 |  | ESTATURÁRIO | 280 | - | - |
+|  | Agente de Administração I | PG-01 |  | ESTATURÁRIO | 200 | - | - |
+|  | Auxiliar de Administração | NS-08 | XIX | ESTATURÁRIO | 01 | - | - |
+|  | Consultor Jurídico | NS-15 | NS-15 | CLT | - | 06 | - |
+|  | Estatístico | PG-08 | PG-08 | CLT | - | 47 | - |
+|  | Fiscal Municipal | SG-07 | SG-07 | ESTATUTÁRIO | 70 | - | - |
+|  | Fiscal Municipal de Postura | NS-21 | NS-21 | ESTATUTÁRIO | 10 | - | - |
+|  | Técnico de Administração | NS-22 | NS-22 | CLT | - | 05 | - |
+|  | Técnico de Comunicação Social | SG-13 | SG-13 | CLT | - | 10 | - |
+|  | Técnico em Estatística | PG-07 | PG-07 | CLT | - | 20 | - |
+|  | Telefonista |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 ANEXO I A QUE SE REFERE O ART. 1º
 
-|QUADRO PERMANENTE |
-
-|GRUPO |DENOMINAÇÃO DOS GRUPOS E DAS CLASSES |CÓDIGO DAS CLASSES|SÍMBOLO DE VENCIMENTO |REGIME JURÍDICO |COMPOSIÇÃO DAS CLASSES |FORMA DE RECRUTAMENTO |
-
-| | | |OU SALÁRIO | | | |
-
-| | | | | |CARGOS |EMPREGOS | |
-
-| | | | | | | | |
-
-|2. |TRIBUTAÇÃO, FISCALIZAÇÃO E CONTABILIDADE | | | | | | |
-
-| | | | | | | | |
-
-| |PROVIMENTO EFETIVO | | | | | | |
-
-| |Contador | | | | | | |
-
-| |Economista |NS-09 |XVII |CLT |- |02 |- |
-
-| |Fiscal Municipal de Tributação |NS-10 |XVII |CLT |- |03 |- |
-
-| |Avaliador de Imóveis |SG-08 |XIV |ESTATUTÁRIO |100 |- |- |
-
-| |Mecanógrafo |SG-22 |XIV |ESTATUTÁRIO |15 |- |- |
-
-| |Técnico de Contabilidade |PG-05 |VIII |CLT |- |04 |- |
-
-| |Técnico Municipal de Tributação |SG-11 |X |CLT |- |30 |- |
-
-| |Tesoureiro |NS-23 |XVIII |ESTATUTÁRIO |25 |- |- |
-
-| | |SG-15 |X |CLT | |21 |- |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| |EDUCAÇÃO, CULTURA E TURISMO | | | | | | |
-
-|3. | | | | | | | |
-
-| |PROVIMENTO EM COMISSÃO | | | | | | |
-
-| |Coordenador de Ensino | | | | | | |
-
-|3.1 |Diretor de Estabelecimento de Ensino III | | | | | | |
-
-| |Diretor de Estabelecimento de Ensino II |DA-39 |XVII |ESTATUTÁRIO |15 |- |LIMITADO |
-
-| |Diretor de Estabelecimento de Ensino I | | | | | | |
-
-| |Secretário de Estabelecimento de Ensino |DA-25 |XX |ESTATUTÁRIO |03 |- |LIMITADO |
-
-| |Vice-Diretor de Estabelecimento de Ensino III | | | | | | |
-
-| | |DA-26 |XVIII |ESTATUTÁRIO |10 |- |LIMITADO |
-
-| | | | | | | | |
-
-| | |DA-27 |XVII |ESTATUTÁRIO |80 |- |LIMITADO |
-
-| | | | | | | | |
-
-| | |DA-40 |X |ESTATUTÁRIO |90 |- |LIMITADO |
-
-| | | | | | | | |
-
-| | |DA-28 |XVIII |ESTATUTÁRIO |08 |- |LIMITADO |
+| QUADRO PERMANENTE |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GRUPO | DENOMINAÇÃO DOS GRUPOS E DAS CLASSES | CÓDIGO DAS CLASSES | SÍMBOLO DE VENCIMENTO | REGIME JURÍDICO | COMPOSIÇÃO DAS CLASSES | FORMA DE RECRUTAMENTO |  |
+|  |  |  | OU SALÁRIO |  |  |  |  |
+|  |  |  |  |  | CARGOS | EMPREGOS |  |
+|  |  |  |  |  |  |  |  |
+| 2. | TRIBUTAÇÃO, FISCALIZAÇÃO E CONTABILIDADE |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | PROVIMENTO EFETIVO |  |  |  |  |  |  |
+|  | Contador |  |  |  |  |  |  |
+|  | Economista | NS-09 | XVII | CLT | - | 02 | - |
+|  | Fiscal Municipal de Tributação | NS-10 | XVII | CLT | - | 03 | - |
+|  | Avaliador de Imóveis | SG-08 | XIV | ESTATUTÁRIO | 100 | - | - |
+|  | Mecanógrafo | SG-22 | XIV | ESTATUTÁRIO | 15 | - | - |
+|  | Técnico de Contabilidade | PG-05 | VIII | CLT | - | 04 | - |
+|  | Técnico Municipal de Tributação | SG-11 | X | CLT | - | 30 | - |
+|  | Tesoureiro | NS-23 | XVIII | ESTATUTÁRIO | 25 | - | - |
+|  |  | SG-15 | X | CLT |  | 21 | - |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | EDUCAÇÃO, CULTURA E TURISMO |  |  |  |  |  |  |
+| 3. |  |  |  |  |  |  |  |
+|  | PROVIMENTO EM COMISSÃO |  |  |  |  |  |  |
+|  | Coordenador de Ensino |  |  |  |  |  |  |
+| 3.1 | Diretor de Estabelecimento de Ensino III |  |  |  |  |  |  |
+|  | Diretor de Estabelecimento de Ensino II | DA-39 | XVII | ESTATUTÁRIO | 15 | - | LIMITADO |
+|  | Diretor de Estabelecimento de Ensino I |  |  |  |  |  |  |
+|  | Secretário de Estabelecimento de Ensino | DA-25 | XX | ESTATUTÁRIO | 03 | - | LIMITADO |
+|  | Vice-Diretor de Estabelecimento de Ensino III |  |  |  |  |  |  |
+|  |  | DA-26 | XVIII | ESTATUTÁRIO | 10 | - | LIMITADO |
+|  |  |  |  |  |  |  |  |
+|  |  | DA-27 | XVII | ESTATUTÁRIO | 80 | - | LIMITADO |
+|  |  |  |  |  |  |  |  |
+|  |  | DA-40 | X | ESTATUTÁRIO | 90 | - | LIMITADO |
+|  |  |  |  |  |  |  |  |
+|  |  | DA-28 | XVIII | ESTATUTÁRIO | 08 | - | LIMITADO |
 
 ANEXO I A QUE SE REFERE O ART. 1º
 
-|QUADRO PERMANENTE |
-
-|GRUPO |DENOMINAÇÃO DOS GRUPOS E DAS CLASSES |CÓDIGO DAS CLASSES|SÍMBOLO DE VENCIMENTO |REGIME JURÍDICO |COMPOSIÇÃO DAS CLASSES |FORMA DE RECRUTAMENTO |
-
-| | | |OU SALÁRIO | | | |
-
-| | | | | |CARGOS |EMPREGOS | |
-
-| | | | | | | | |
-
-|3.2 |PROVIMENTO EM COMISSÃO | | | | | | |
-
-| |Vice-Diretor de Estabelecimento de Ensino II | | | | | | |
-
-| |Vice-Diretor de Estabelecimento de Ensino I |DA-29 |XVI |ESTATUTÁRIO |05 |- |LIMITADO |
-
-| |Supervisor de Alimentação Escolar | | | | | | |
-
-| |Supervisor Pedagógico II |DA-30 |XIV |ESTATUTÁRIO |73 |- |LIMITADO |
-
-| |Bibliotecário |DA-31 |X |CLT |- |20 |LIMITADO |
-
-| |Capelão |DA-32 |XVI |CLT |- |29 |LIMITADO |
-
-| |Orientador Educacional |NS-04 |XVII |CLT |- |08 |- |
-
-| |Pedagogo |NS-06 |XVII |CLT |- |01 |- |
-
-| |Psicólogo |NS-26 |XVII |CLT |- |20 |- |
-
-| |Professor Municipal III |NS-19 |XVII |CLT |- |05 |- |
-
-| |Professor Municipal II |NS-20 |XVII |CLT |- |10 |- |
-
-| |Professor Municipal I |NS-27 |XVII |ESTATUTÁRIO |54 |- |- |
-
-|. |Regente de Classe I e II |NS-28 |XVII |CLT |- |750 |- |
-
-| |Secretário de Estabelecimento de Ensino II |SG-16 |VIII |ESTATUTÁRIO |3000 |- |- |
-
-| |Secretário de Estabelecimento de Ensino I |SG-20 |IV |CLT |CLT |100 |- |
-
-| |Sociólogo | | | | | | |
-
-| |Supervisor Pedagógico |SG-17 |X |CLT |- |08 |- |
-
-| |Técnico de Ensino | | | | | |- |
-
-| |Técnico de Turismo |SG-18 |IX |CLT |- |06 |- |
-
-| | |NS-30 |XVII |CLT |- |03 |- |
-
-| | |NS-29 |XIV |CLT |- |250 |- |
-
-| | |SG-19 |X |ESTATUTÁRIO |03 |- | |
-
-| | |NS-24 |XVII |CLT |- |06 |- |
+| QUADRO PERMANENTE |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GRUPO | DENOMINAÇÃO DOS GRUPOS E DAS CLASSES | CÓDIGO DAS CLASSES | SÍMBOLO DE VENCIMENTO | REGIME JURÍDICO | COMPOSIÇÃO DAS CLASSES | FORMA DE RECRUTAMENTO |  |
+|  |  |  | OU SALÁRIO |  |  |  |  |
+|  |  |  |  |  | CARGOS | EMPREGOS |  |
+|  |  |  |  |  |  |  |  |
+| 3.2 | PROVIMENTO EM COMISSÃO |  |  |  |  |  |  |
+|  | Vice-Diretor de Estabelecimento de Ensino II |  |  |  |  |  |  |
+|  | Vice-Diretor de Estabelecimento de Ensino I | DA-29 | XVI | ESTATUTÁRIO | 05 | - | LIMITADO |
+|  | Supervisor de Alimentação Escolar |  |  |  |  |  |  |
+|  | Supervisor Pedagógico II | DA-30 | XIV | ESTATUTÁRIO | 73 | - | LIMITADO |
+|  | Bibliotecário | DA-31 | X | CLT | - | 20 | LIMITADO |
+|  | Capelão | DA-32 | XVI | CLT | - | 29 | LIMITADO |
+|  | Orientador Educacional | NS-04 | XVII | CLT | - | 08 | - |
+|  | Pedagogo | NS-06 | XVII | CLT | - | 01 | - |
+|  | Psicólogo | NS-26 | XVII | CLT | - | 20 | - |
+|  | Professor Municipal III | NS-19 | XVII | CLT | - | 05 | - |
+|  | Professor Municipal II | NS-20 | XVII | CLT | - | 10 | - |
+|  | Professor Municipal I | NS-27 | XVII | ESTATUTÁRIO | 54 | - | - |
+| . | Regente de Classe I e II | NS-28 | XVII | CLT | - | 750 | - |
+|  | Secretário de Estabelecimento de Ensino II | SG-16 | VIII | ESTATUTÁRIO | 3000 | - | - |
+|  | Secretário de Estabelecimento de Ensino I | SG-20 | IV | CLT | CLT | 100 | - |
+|  | Sociólogo |  |  |  |  |  |  |
+|  | Supervisor Pedagógico | SG-17 | X | CLT | - | 08 | - |
+|  | Técnico de Ensino |  |  |  |  |  | - |
+|  | Técnico de Turismo | SG-18 | IX | CLT | - | 06 | - |
+|  |  | NS-30 | XVII | CLT | - | 03 | - |
+|  |  | NS-29 | XIV | CLT | - | 250 | - |
+|  |  | SG-19 | X | ESTATUTÁRIO | 03 | - |  |
+|  |  | NS-24 | XVII | CLT | - | 06 | - |
 
 ANEXO I A QUE SE REFERE O ART. 1º
 
-|QUADRO PERMANENTE |
-
-|GRUPO |DENOMINAÇÃO DOS GRUPOS E DAS CLASSES |CÓDIGO DAS CLASSES|SÍMBOLO DE VENCIMENTO |REGIME JURÍDICO |COMPOSIÇÃO DAS CLASSES |FORMA DE RECRUTAMENTO |
-
-| | | |OU SALÁRIO | | | |
-
-| | | | | |CARGOS |EMPREGOS | |
-
-| | | | | | | | |
-
-|4. |SAÚDE E ASSISTÊNCIA | | | | | | |
-
-| | | | | | | | |
-
-| |PROVIMENTO EFETIVO | | | | | | |
-
-| |Assiste Social |NS-03 |XVII |CLT |- |57 |- |
-
-| |Auxiliar de Enfermagem |SG-04 |VI |CLT |- |100 |- |
-
-| |Biólogo |NS-05 |XVII |CLT |- |03 |- |
-
-| |Cirurgião-Dentista |NS-07 |XVII |CLT |- |200 |- |
-
-| | | | | | | |- |
-
-| |Enfermeiro |NS-11 |XVII |CLT |- |29 |- |
-
-| |Farmacêutico-bioquímico |NS-16 |XVII |CLT |- |20 |- |
-
-| |Fiscal Municipal de Saúde |SG-06 |XIV |CLT |- |175 |- |
-
-| |Médico |NS-17 |XVII |CLT |- |200 |- |
-
-| |Médico Veterinário |NS-18 |XVII |CLT |- |10 |- |
-
-| |Operador de Raio-X |PG-06 |VI |CLT |- |10 |- |
-
-| |Técnico em Equipamento | | | | | | |
-
-| |Odontológico |PG-11 |VIII |CLT |- |04 |- |
-
-| |Técnico em Laboratórios Médicos |SG-09 |X |CLT |- |30 |- |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-|5. |ENGENHARIA E ATIVIDADES AFINS | | | | | | |
-
-| | | | | | | | |
-
-| |PROVIMENTO EFETIVO | | | | | | |
-
-| |Arquiteto | | | | | | |
-
-| |Desenhista Técnico |NS-02 |XVII |CLT |- |12 |- |
-
-| |Engenheiro |SG-05 |X |CLT |- |20 |- |
-
-| |Engenheiro Agrimensor |NS-12 |XVII |CLT |- |80 |- |
-
-| |Engenheiro Agrônomo |NS-13 |XVII |ESTATUTÁRIO |10 |- |- |
-
-| |Fiscal Municipal de Obras |NS-14 |XVII |CLT |- |05 |- |
-
-| |Técnico em Agrimensura |SG-21 |XIV |ESTATUTÁRIO |50 |- |- |
-
-| |Técnico em Edificações |SG-10 |X |CLT |- |20 |- |
-
-| |Técnico em Estradas |SG-12 |X |CLT |- |30 |- |
-
-| |Urbanista |SG-14 |X |CLT |- |20 |- |
-
-| | |NS-25 |XVII |CLT |- |06 |- |
+| QUADRO PERMANENTE |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GRUPO | DENOMINAÇÃO DOS GRUPOS E DAS CLASSES | CÓDIGO DAS CLASSES | SÍMBOLO DE VENCIMENTO | REGIME JURÍDICO | COMPOSIÇÃO DAS CLASSES | FORMA DE RECRUTAMENTO |  |
+|  |  |  | OU SALÁRIO |  |  |  |  |
+|  |  |  |  |  | CARGOS | EMPREGOS |  |
+|  |  |  |  |  |  |  |  |
+| 4. | SAÚDE E ASSISTÊNCIA |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | PROVIMENTO EFETIVO |  |  |  |  |  |  |
+|  | Assiste Social | NS-03 | XVII | CLT | - | 57 | - |
+|  | Auxiliar de Enfermagem | SG-04 | VI | CLT | - | 100 | - |
+|  | Biólogo | NS-05 | XVII | CLT | - | 03 | - |
+|  | Cirurgião-Dentista | NS-07 | XVII | CLT | - | 200 | - |
+|  |  |  |  |  |  |  | - |
+|  | Enfermeiro | NS-11 | XVII | CLT | - | 29 | - |
+|  | Farmacêutico-bioquímico | NS-16 | XVII | CLT | - | 20 | - |
+|  | Fiscal Municipal de Saúde | SG-06 | XIV | CLT | - | 175 | - |
+|  | Médico | NS-17 | XVII | CLT | - | 200 | - |
+|  | Médico Veterinário | NS-18 | XVII | CLT | - | 10 | - |
+|  | Operador de Raio-X | PG-06 | VI | CLT | - | 10 | - |
+|  | Técnico em Equipamento |  |  |  |  |  |  |
+|  | Odontológico | PG-11 | VIII | CLT | - | 04 | - |
+|  | Técnico em Laboratórios Médicos | SG-09 | X | CLT | - | 30 | - |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| 5. | ENGENHARIA E ATIVIDADES AFINS |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | PROVIMENTO EFETIVO |  |  |  |  |  |  |
+|  | Arquiteto |  |  |  |  |  |  |
+|  | Desenhista Técnico | NS-02 | XVII | CLT | - | 12 | - |
+|  | Engenheiro | SG-05 | X | CLT | - | 20 | - |
+|  | Engenheiro Agrimensor | NS-12 | XVII | CLT | - | 80 | - |
+|  | Engenheiro Agrônomo | NS-13 | XVII | ESTATUTÁRIO | 10 | - | - |
+|  | Fiscal Municipal de Obras | NS-14 | XVII | CLT | - | 05 | - |
+|  | Técnico em Agrimensura | SG-21 | XIV | ESTATUTÁRIO | 50 | - | - |
+|  | Técnico em Edificações | SG-10 | X | CLT | - | 20 | - |
+|  | Técnico em Estradas | SG-12 | X | CLT | - | 30 | - |
+|  | Urbanista | SG-14 | X | CLT | - | 20 | - |
+|  |  | NS-25 | XVII | CLT | - | 06 | - |
 
 ANEXO I A QUE SE REFERE O ART. 1º
 
-|QUADRO PERMANENTE |
-
-|GRUPO |DENOMINAÇÃO DOS GRUPOS E DAS CLASSES |CÓDIGO DAS CLASSES|SÍMBOLO DE VENCIMENTO |REGIME JURÍDICO |COMPOSIÇÃO DAS CLASSES |FORMA DE RECRUTAMENTO |
-
-| | | |OU SALÁRIO | | | |
-
-| | | | | |CARGOS |EMPREGOS | |
-
-|6. |OFÍCIOS E TRABALHOS ELEMENTARES | | | | | | |
-
-| | | | | | | | |
-
-| |PROVIMENTO EFETIVO | | | | | | |
-
-| |Auxiliar de Serviços II | | | | | | |
-
-| |Auxiliar de Serviços I |NE-01 |III |CLT |- |47 |- |
-
-| |Auxiliar de Serviço |NE-02 |II |CLT |- |1466 |- |
-
-| |Chapista |NE-08 |II |CLT |- |500 |- |
-
-| |Cortador |PG-02 |VIII |CLT |- |04 |- |
-
-| |Encadernador |PG-09 |VIII |CLT |- |03 |- |
-
-| |Garçon |PG-03 |IV |CLT |- |06 |- |
-
-| |Impressor |NE-10 |V |CLT |- |20 |- |
-
-| |Motorista |PG-04 |VIII |CLT |- |10 |- |
-
-| |Oficial de Serviços II |NE-03 |VII |CLT |- |101 |- |
-
-| |Oficial de Serviços I |NE-04 |VII |CLT |- |47 |- |
-
-| |Oficial de Serviços |NE-05 |IV |CLT |- |214 |- |
-
-| |Operador de Máquinas Pesadas |NE-09 |IV |CLT |- |50 |- |
-
-| |Operador de Microfilmagem |NE-06 |IX |CLT |- |20 |- |
-
-| |Trabalhador Braçal |PG-10 |I |CLT |- |15 |- |
-
-| | |NE-07 |VIII |CLT |- |1200 |- |
+| QUADRO PERMANENTE |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GRUPO | DENOMINAÇÃO DOS GRUPOS E DAS CLASSES | CÓDIGO DAS CLASSES | SÍMBOLO DE VENCIMENTO | REGIME JURÍDICO | COMPOSIÇÃO DAS CLASSES | FORMA DE RECRUTAMENTO |  |
+|  |  |  | OU SALÁRIO |  |  |  |  |
+|  |  |  |  |  | CARGOS | EMPREGOS |  |
+| 6. | OFÍCIOS E TRABALHOS ELEMENTARES |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | PROVIMENTO EFETIVO |  |  |  |  |  |  |
+|  | Auxiliar de Serviços II |  |  |  |  |  |  |
+|  | Auxiliar de Serviços I | NE-01 | III | CLT | - | 47 | - |
+|  | Auxiliar de Serviço | NE-02 | II | CLT | - | 1466 | - |
+|  | Chapista | NE-08 | II | CLT | - | 500 | - |
+|  | Cortador | PG-02 | VIII | CLT | - | 04 | - |
+|  | Encadernador | PG-09 | VIII | CLT | - | 03 | - |
+|  | Garçon | PG-03 | IV | CLT | - | 06 | - |
+|  | Impressor | NE-10 | V | CLT | - | 20 | - |
+|  | Motorista | PG-04 | VIII | CLT | - | 10 | - |
+|  | Oficial de Serviços II | NE-03 | VII | CLT | - | 101 | - |
+|  | Oficial de Serviços I | NE-04 | VII | CLT | - | 47 | - |
+|  | Oficial de Serviços | NE-05 | IV | CLT | - | 214 | - |
+|  | Operador de Máquinas Pesadas | NE-09 | IV | CLT | - | 50 | - |
+|  | Operador de Microfilmagem | NE-06 | IX | CLT | - | 20 | - |
+|  | Trabalhador Braçal | PG-10 | I | CLT | - | 15 | - |
+|  |  | NE-07 | VIII | CLT | - | 1200 | - |
 
 ANEXO II A QUE SE REFERE O ART. 2º
 
-|Nº DE ORDEM |CÓDIGO |NÍVEL DE VENC. OU SAL. |CLASSE CARGO OU EMPREGO |
-
-|02 |DA-02 |XXI |Assessor III |Secretário Executivo da CHISBEL (1) |
-
-|57 |NS-27 |XVII |Professor Municipal III |Professor Especializado em Educação, Religião, Moral e Cívica (1) |
-
-| | | | | |
-
-| | | | |Operador de Tabuladora (4) |
-
-|63 |SG-02 |IX |Agente de Administração II |Escriturário I (CLT) (1) |
-
-|64 |SG-03 |VI |Agente de Administração I |Escriturário-Datilógrafo (CLT) (1) |
-
-| | | | | |
-
-| | | | |Coordenador de Turno (CLT) (18) |
-
-|81 |PG-01 |III |Auxiliar de Administração |Ajudante de Topografia (CLT) (2) |
-
-|92 |NE-09 |III |Oficial de Serviços I |Auxiliar de Agrimensura (CLT) (2) |
-
-| | | | |Auxiliar de Topografia |
-
-| | | | | |
-
-| | | | |Chefe de Carpintaria (1) |
-
-|95 |DA-35 |IX |Encarregado II |Chefe de Jardinagem (1) |
-
-| | | | |Chefe de Limpeza Pública (4) |
-
-| | | | |Chefe de Manutenção de Parques |
-
-| | | | |Chefe de Oficina de Hidrômetro (1) |
-
-| | | | |Chefe de Oficina de eletricidade (1) |
-
-| | | | |Chefe de Oficina Mecânica (1) |
-
-| | | | |Mestre de Obras (10) |
-
-| | | | |Mestre de Obras Hidráulicas (5) |
-
-| | | | |Subchefe de Oficina Mecânica (1) |
+| Nº DE ORDEM | CÓDIGO | NÍVEL DE VENC. OU SAL. | CLASSE CARGO OU EMPREGO |  |
+| --- | --- | --- | --- | --- |
+| 02 | DA-02 | XXI | Assessor III | Secretário Executivo da CHISBEL (1) |
+| 57 | NS-27 | XVII | Professor Municipal III | Professor Especializado em Educação, Religião, Moral e Cívica (1) |
+|  |  |  |  |  |
+|  |  |  |  | Operador de Tabuladora (4) |
+| 63 | SG-02 | IX | Agente de Administração II | Escriturário I (CLT) (1) |
+| 64 | SG-03 | VI | Agente de Administração I | Escriturário-Datilógrafo (CLT) (1) |
+|  |  |  |  |  |
+|  |  |  |  | Coordenador de Turno (CLT) (18) |
+| 81 | PG-01 | III | Auxiliar de Administração | Ajudante de Topografia (CLT) (2) |
+| 92 | NE-09 | III | Oficial de Serviços I | Auxiliar de Agrimensura (CLT) (2) |
+|  |  |  |  | Auxiliar de Topografia |
+|  |  |  |  |  |
+|  |  |  |  | Chefe de Carpintaria (1) |
+| 95 | DA-35 | IX | Encarregado II | Chefe de Jardinagem (1) |
+|  |  |  |  | Chefe de Limpeza Pública (4) |
+|  |  |  |  | Chefe de Manutenção de Parques |
+|  |  |  |  | Chefe de Oficina de Hidrômetro (1) |
+|  |  |  |  | Chefe de Oficina de eletricidade (1) |
+|  |  |  |  | Chefe de Oficina Mecânica (1) |
+|  |  |  |  | Mestre de Obras (10) |
+|  |  |  |  | Mestre de Obras Hidráulicas (5) |
+|  |  |  |  | Subchefe de Oficina Mecânica (1) |

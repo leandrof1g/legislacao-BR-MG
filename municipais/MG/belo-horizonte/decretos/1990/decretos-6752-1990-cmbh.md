@@ -192,79 +192,47 @@ TABELA III - FATOR GLEBA
 
 TABELA IV - FATOR DE OBSOLESCÊNCIA
 
-|IDADE DA CONSTRUÇÃO |ACABAMENTO |
-
-| |POPULAR |BAIXO |NORMAL |ALTO |LUXO |
-
-|4.1 - 01 ano |0.96 |0.97 |0.97 |0.98 |0.98 |
-
-|4.2 – 02 anos |0.92 |0.93 |0.94 |0.95 |0.96 |
-
-|4.3 – 03 anos |0.88 |0.90 |0.91 |0.93 |0.94 |
-
-|4.4 – 04 anos |0.85 |0.87 |0.89 |0.90 |0.92 |
-
-|4.5 – 05 anos |0.82 |0.84 |0.86 |0.88 |0.90 |
-
-|4.6 – 06 a 10 anos |0.72 |0.75 |0.78 |0.82 |0.85 |
-
-|4.7 – 11 a 15 anos |0.59 |0.63 |0.67 |0.72 |0.77 |
-
-|4.8 – 16 a 20 anos |0.48 |0.53 |0.58 |0.63 |0.70 |
-
-|4.9 – 21 a 25 anos |0.39 |0.44 |0.50 |0.56 |0.63 |
-
-|4.10 – 26 a 30 anos |0.32 |0.37 |0.43 |0.49 |0.57 |
-
-|4.11 – 31 a 35 anos |0.26 |0.31 |0.37 |0.43 |0.51 |
-
-|4.12 – 36 a 40 anos |0.21 |0.26 |0.31 |0.36 |0.46 |
-
-|4.13 – acima de 40 anos |0.16 |0.20 |0.25 |0.32 |0.40 |
+| IDADE DA CONSTRUÇÃO | ACABAMENTO |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | POPULAR | BAIXO | NORMAL | ALTO | LUXO |
+| 4.1 - 01 ano | 0.96 | 0.97 | 0.97 | 0.98 | 0.98 |
+| 4.2 – 02 anos | 0.92 | 0.93 | 0.94 | 0.95 | 0.96 |
+| 4.3 – 03 anos | 0.88 | 0.90 | 0.91 | 0.93 | 0.94 |
+| 4.4 – 04 anos | 0.85 | 0.87 | 0.89 | 0.90 | 0.92 |
+| 4.5 – 05 anos | 0.82 | 0.84 | 0.86 | 0.88 | 0.90 |
+| 4.6 – 06 a 10 anos | 0.72 | 0.75 | 0.78 | 0.82 | 0.85 |
+| 4.7 – 11 a 15 anos | 0.59 | 0.63 | 0.67 | 0.72 | 0.77 |
+| 4.8 – 16 a 20 anos | 0.48 | 0.53 | 0.58 | 0.63 | 0.70 |
+| 4.9 – 21 a 25 anos | 0.39 | 0.44 | 0.50 | 0.56 | 0.63 |
+| 4.10 – 26 a 30 anos | 0.32 | 0.37 | 0.43 | 0.49 | 0.57 |
+| 4.11 – 31 a 35 anos | 0.26 | 0.31 | 0.37 | 0.43 | 0.51 |
+| 4.12 – 36 a 40 anos | 0.21 | 0.26 | 0.31 | 0.36 | 0.46 |
+| 4.13 – acima de 40 anos | 0.16 | 0.20 | 0.25 | 0.32 | 0.40 |
 
 TABELA V - COMPATIBILIZAÇÃO DO PADRÃO DE ACABAMENTO EXTERIOR E INTERIOR DOS PRÉDIOS NÃO RESIDENCIAIS.
 
-|PADRÃO EXTERNO |PADRÃO INTERNO |PADRÃO DO PRÉDIO |
-
-|POPULAR |BAIXO |POPULAR |
-
-|POPULAR |NORMAL |BAIXO |
-
-|POPULAR |ALTO |NORMAL |
-
-|POPULAR |LUXO |ALTO |
-
-|BAIXO |NORMAL |BAIXO |
-
-|BAIXO |ALTO |NORMAL |
-
-|BAIXO |POPULAR |BAIXO |
-
-|BAIXO |LUXO |ALTO |
-
-|NORMAL |ALTO |NORMAL |
-
-|NORMAL |LUXO |ALTO |
-
-|NORMAL |POPULAR |BAIXO |
-
-|NORMAL |BAIXO |BAIXO |
-
-|ALTO |POPULAR |BAIXO |
-
-|ALTO |BAIXO |NORMAL |
-
-|ALTO |NORMAL |NORMAL |
-
-|ALTO |LUXO |ALTO |
-
-|LUXO |POPULAR |BAIXO |
-
-|LUXO |BAIXO |NORMAL |
-
-|LUXO |NORMAL |ALTO |
-
-|LUXO |ALTO |ALTO |
+| PADRÃO EXTERNO | PADRÃO INTERNO | PADRÃO DO PRÉDIO |
+| --- | --- | --- |
+| POPULAR | BAIXO | POPULAR |
+| POPULAR | NORMAL | BAIXO |
+| POPULAR | ALTO | NORMAL |
+| POPULAR | LUXO | ALTO |
+| BAIXO | NORMAL | BAIXO |
+| BAIXO | ALTO | NORMAL |
+| BAIXO | POPULAR | BAIXO |
+| BAIXO | LUXO | ALTO |
+| NORMAL | ALTO | NORMAL |
+| NORMAL | LUXO | ALTO |
+| NORMAL | POPULAR | BAIXO |
+| NORMAL | BAIXO | BAIXO |
+| ALTO | POPULAR | BAIXO |
+| ALTO | BAIXO | NORMAL |
+| ALTO | NORMAL | NORMAL |
+| ALTO | LUXO | ALTO |
+| LUXO | POPULAR | BAIXO |
+| LUXO | BAIXO | NORMAL |
+| LUXO | NORMAL | ALTO |
+| LUXO | ALTO | ALTO |
 
 ANEXO III A QUE SE REFERE O DECRETO N° 6752
 
@@ -512,9 +480,7 @@ PADRÕES DE ACABAMENTO VALOR M2 (Cr$) POPULAR 8.512,00 BAIXO 11.348,00 NORMAL 12
 
 Obs: O padrão de acabamento será determinado segundo as características predominantes da edificação, nos termos das tabelas I e II deste Anexo.
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

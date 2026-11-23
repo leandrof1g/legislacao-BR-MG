@@ -420,107 +420,58 @@ ANEXO
 
 (...)
 
-|ITEM |DESCRIÇÃO DA INFRAÇÃO |DISPOSITIVO |NOTIFICAÇÃO PRÉVIA |PRAZO PARA |APLICAÇÃO DE MULTA |OUTRAS PENALIDADES |
-
-| | |INFRINGIDO | |ATENDIMENTO E | | |
-
-| | | | |CORREÇÃO | | |
-
-| | | | | |DETALHA- |VALOR (R$) |PERIODI-CIDADE| |
-
-| | | | | |MENTO | | | |
-
-|3 |Invadir áreas ou |Art. 1210, Código |Não |- |- |500,00 |1 dia |Demolição |
-
-| |logradouros públicos |Civil. | | | | | |administrativa |
-
-| |municipais por meio de | | | | | | |imediata e apreensão|
-
-| |edificação em andamento | | | | | | | |
-
-| |em alvenaria, madeira, | | | | | | | |
-
-| |lona ou similar, bem | | | | | | | |
-
-| |como muro, cerca ou | | | | | | | |
-
-| |qualquer elemento | | | | | | | |
-
-| |construtivo que | | | | | | | |
-
-| |caracterize turbação ou | | | | | | | |
-
-| |esbulho. | | | | | | | |
-
-|4 |Invadir áreas ou |Art. 1210, Código |Sim |48 horas |- |2.000,00 |5 dias |Demolição |
-
-| |logradouros públicos |Civil. | | | | | |administrativa e |
-
-| |municipais por meio de | | | | | | |apreensão, |
-
-| |edificação com | | | | | | |transcorrido o prazo|
-
-| |utilização comercial. | | | | | | |da notificação |
-
-|5 |Invadir áreas ou |Art. 1210, Código |sim |30 dias |- |2.000,00 |10 dias |Demolição e |
-
-| |logradouros públicos |Civil. | | | | | |apreensão |
-
-| |municipais por meio de | | | | | | | |
-
-| |construção utilizada | | | | | | | |
-
-| |para moradia e com | | | | | | | |
-
-| |característica de | | | | | | | |
-
-| |permanência definitiva | | | | | | | |
-
-| |(invasão consumada). | | | | | | | |
-
-|7 |Descaracterização da |Art. 36, § 2º, I. |sim |30 dias |- |2.000,00 |10 dias |- |
-
-| |área descrita no inciso | | | | | | | |
-
-| |I do § 2º do art. 36, | | | | | | | |
-
-| |por qualquer meio, | | | | | | | |
-
-| |inclusive pela obstrução| | | | | | | |
-
-| |de sua visibilidade. | | | | | | | |
-
-|18 |Não atendimento ao |Art. 158, § 1º, |sim |30 dias |Por metro |2.000,00 |30 dias |- |
-
-| |parâmetro mínimo |XVII, c/c Anexo | | |quadrado | | | |
-
-| |referente à taxa de |XII. | | |faltante em | | | |
-
-| |permeabilidade vegetada | | | |relação ao | | | |
-
-| |(TP) previsto em projeto| | | |projeto aprovado| | | |
-
-| |aprovado. | | | | | | | |
-
-|24 |Exercício de atividade |Art. 339, § 5º |não |- |Imediata |5.400,00 |- |Interdição imediata |
-
-| |não residencial com | | | | | | | |
-
-| |risco iminente, conforme| | | | | | | |
-
-| |laudo do Corpo de | | | | | | | |
-
-| |Bombeiros Militar de MG,| | | | | | | |
-
-| |da Defesa Civil ou laudo| | | | | | | |
-
-| |pericial oficial. | | | | | | | |
-
-|33 |Prestação de informações|Art. 346, §3º |Sim |No prazo concedido |Por ato |500,00 |Diária |Recomposição do dano|
-
-| |inverídicas ao Executivo| | |para prestação da | | | |causado |
-
-| | | | |informação | | | | |
+| ITEM | DESCRIÇÃO DA INFRAÇÃO | DISPOSITIVO | NOTIFICAÇÃO PRÉVIA | PRAZO PARA | APLICAÇÃO DE MULTA | OUTRAS PENALIDADES |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | INFRINGIDO |  | ATENDIMENTO E |  |  |  |  |
+|  |  |  |  | CORREÇÃO |  |  |  |  |
+|  |  |  |  |  | DETALHA- | VALOR (R$) | PERIODI-CIDADE |  |
+|  |  |  |  |  | MENTO |  |  |  |
+| 3 | Invadir áreas ou | Art. 1210, Código | Não | - | - | 500,00 | 1 dia | Demolição |
+|  | logradouros públicos | Civil. |  |  |  |  |  | administrativa |
+|  | municipais por meio de |  |  |  |  |  |  | imediata e apreensão |
+|  | edificação em andamento |  |  |  |  |  |  |  |
+|  | em alvenaria, madeira, |  |  |  |  |  |  |  |
+|  | lona ou similar, bem |  |  |  |  |  |  |  |
+|  | como muro, cerca ou |  |  |  |  |  |  |  |
+|  | qualquer elemento |  |  |  |  |  |  |  |
+|  | construtivo que |  |  |  |  |  |  |  |
+|  | caracterize turbação ou |  |  |  |  |  |  |  |
+|  | esbulho. |  |  |  |  |  |  |  |
+| 4 | Invadir áreas ou | Art. 1210, Código | Sim | 48 horas | - | 2.000,00 | 5 dias | Demolição |
+|  | logradouros públicos | Civil. |  |  |  |  |  | administrativa e |
+|  | municipais por meio de |  |  |  |  |  |  | apreensão, |
+|  | edificação com |  |  |  |  |  |  | transcorrido o prazo |
+|  | utilização comercial. |  |  |  |  |  |  | da notificação |
+| 5 | Invadir áreas ou | Art. 1210, Código | sim | 30 dias | - | 2.000,00 | 10 dias | Demolição e |
+|  | logradouros públicos | Civil. |  |  |  |  |  | apreensão |
+|  | municipais por meio de |  |  |  |  |  |  |  |
+|  | construção utilizada |  |  |  |  |  |  |  |
+|  | para moradia e com |  |  |  |  |  |  |  |
+|  | característica de |  |  |  |  |  |  |  |
+|  | permanência definitiva |  |  |  |  |  |  |  |
+|  | (invasão consumada). |  |  |  |  |  |  |  |
+| 7 | Descaracterização da | Art. 36, § 2º, I. | sim | 30 dias | - | 2.000,00 | 10 dias | - |
+|  | área descrita no inciso |  |  |  |  |  |  |  |
+|  | I do § 2º do art. 36, |  |  |  |  |  |  |  |
+|  | por qualquer meio, |  |  |  |  |  |  |  |
+|  | inclusive pela obstrução |  |  |  |  |  |  |  |
+|  | de sua visibilidade. |  |  |  |  |  |  |  |
+| 18 | Não atendimento ao | Art. 158, § 1º, | sim | 30 dias | Por metro | 2.000,00 | 30 dias | - |
+|  | parâmetro mínimo | XVII, c/c Anexo |  |  | quadrado |  |  |  |
+|  | referente à taxa de | XII. |  |  | faltante em |  |  |  |
+|  | permeabilidade vegetada |  |  |  | relação ao |  |  |  |
+|  | (TP) previsto em projeto |  |  |  | projeto aprovado |  |  |  |
+|  | aprovado. |  |  |  |  |  |  |  |
+| 24 | Exercício de atividade | Art. 339, § 5º | não | - | Imediata | 5.400,00 | - | Interdição imediata |
+|  | não residencial com |  |  |  |  |  |  |  |
+|  | risco iminente, conforme |  |  |  |  |  |  |  |
+|  | laudo do Corpo de |  |  |  |  |  |  |  |
+|  | Bombeiros Militar de MG, |  |  |  |  |  |  |  |
+|  | da Defesa Civil ou laudo |  |  |  |  |  |  |  |
+|  | pericial oficial. |  |  |  |  |  |  |  |
+| 33 | Prestação de informações | Art. 346, §3º | Sim | No prazo concedido | Por ato | 500,00 | Diária | Recomposição do dano |
+|  | inverídicas ao Executivo |  |  | para prestação da |  |  |  | causado |
+|  |  |  |  | informação |  |  |  |  |
 
 ## Observações da CMBH
 

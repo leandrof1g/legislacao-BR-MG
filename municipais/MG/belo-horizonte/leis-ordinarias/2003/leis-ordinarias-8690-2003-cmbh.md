@@ -192,101 +192,55 @@ IV - 2 (dois) níveis pela conclusão de curso de doutorado com tese aprovada.
 
 **Art. 12** - Os níveis de vencimentos atribuídos ao cargo de Auxiliar de Escola na Tabela do Anexo III da Lei nº 7.235, de 27 de dezembro de 1996, que institui o Plano de Carreira da Área de Atividades da Educação, serão reajustados nos meses de julho de 2003, janeiro e julho de 2004, e passarão a ser pagos nos seguintes valores:
 
-|Nível de Vencimento |Valor (em R$) em julho de 2003 |
-
-|1 |300,00 |
-
-|2 |315,00 |
-
-|3 |330,75 |
-
-|4 |347,29 |
-
-|5 |364,65 |
-
-|6 |382,88 |
-
-|7 |402,03 |
-
-|8 |422,13 |
-
-|9 |443,24 |
-
-|10 |465,40 |
-
-|11 |488,67 |
-
-|12 |513,10 |
-
-|13 |538,76 |
-
-|14 |565,69 |
-
-|15 |593,98 |
-
-|Nível de Vencimento |Valor (em R$) em janeiro de 2004 |
-
-|1 |360,00 |
-
-|2 |378,00 |
-
-|3 |396,90 |
-
-|4 |416,75 |
-
-|5 |437,58 |
-
-|6 |459,46 |
-
-|7 |482,43 |
-
-|8 |506,56 |
-
-|9 |531,88 |
-
-|10 |558,48 |
-
-|11 |586,40 |
-
-|12 |615,72 |
-
-|13 |646,51 |
-
-|14 |678,83 |
-
-|15 |712,78 |
-
-|Nível de Vencimento |Valor (em R$) em julho de 2004 |
-
-|1 |400,00 |
-
-|2 |420,00 |
-
-|3 |441,00 |
-
-|4 |463,05 |
-
-|5 |486,20 |
-
-|6 |510,51 |
-
-|7 |536,04 |
-
-|8 |562,84 |
-
-|9 |590,98 |
-
-|10 |620,53 |
-
-|11 |651,56 |
-
-|12 |684,14 |
-
-|13 |718,34 |
-
-|14 |754,26 |
-
-|15 |791,97 |
+| Nível de Vencimento | Valor (em R$) em julho de 2003 |
+| --- | --- |
+| 1 | 300,00 |
+| 2 | 315,00 |
+| 3 | 330,75 |
+| 4 | 347,29 |
+| 5 | 364,65 |
+| 6 | 382,88 |
+| 7 | 402,03 |
+| 8 | 422,13 |
+| 9 | 443,24 |
+| 10 | 465,40 |
+| 11 | 488,67 |
+| 12 | 513,10 |
+| 13 | 538,76 |
+| 14 | 565,69 |
+| 15 | 593,98 |
+| Nível de Vencimento | Valor (em R$) em janeiro de 2004 |
+| 1 | 360,00 |
+| 2 | 378,00 |
+| 3 | 396,90 |
+| 4 | 416,75 |
+| 5 | 437,58 |
+| 6 | 459,46 |
+| 7 | 482,43 |
+| 8 | 506,56 |
+| 9 | 531,88 |
+| 10 | 558,48 |
+| 11 | 586,40 |
+| 12 | 615,72 |
+| 13 | 646,51 |
+| 14 | 678,83 |
+| 15 | 712,78 |
+| Nível de Vencimento | Valor (em R$) em julho de 2004 |
+| 1 | 400,00 |
+| 2 | 420,00 |
+| 3 | 441,00 |
+| 4 | 463,05 |
+| 5 | 486,20 |
+| 6 | 510,51 |
+| 7 | 536,04 |
+| 8 | 562,84 |
+| 9 | 590,98 |
+| 10 | 620,53 |
+| 11 | 651,56 |
+| 12 | 684,14 |
+| 13 | 718,34 |
+| 14 | 754,26 |
+| 15 | 791,97 |
 
 **Parágrafo único** - Ficam incluídos e compensados, nos reajustes previstos neste artigo, o abono de R$12,00 (doze reais) e o aumento remuneratório de 24,16% (vinte e quatro vírgula dezesseis por cento), ambos concedidos ao ocupante do cargo de Auxiliar de Escola pela Lei nº 8.635, de 26 de agosto de 2003.
 
@@ -306,77 +260,43 @@ ANEXO I
 
 CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE
 
-|Cargos |Números de Cargos |
-
-|Ajudante de Serviço Operacional |740 |
-
-|Auxiliar Administrativo |1.240 |
-
-|Oficial de Serviço Público |480 |
-
-|Telefonista |40 |
-
-|Motorista |70 |
-
-|Assistente Administrativo |1.800 |
-
-|Assistente Administrativo |2.146 |
-
-| |Número de vagas com redação dada pela Lei nº 10.746, de |
-
-| |2/10/2014 (Art. 1º) |
-
-|Técnico de Serviço Público |200 |
-
-|Educador Social |30 |
-
-|Analista de Políticas Públicas |430 |
-
-|Analista de Políticas Públicas |480 |
-
-| |Número de vagas com redação dada pela Lei nº 8.790, de |
-
-| |2/4/2004 (art. 2º) |
-
-| |Número de vagas com redação dada pela Lei nº 11.080, de |
-
-| |30/11/2017 (art. 17) |
-
-|Analista de Políticas Públicas | |
-
-| |1.044 |
-
-| |Número de vagas com redação dada pela Lei nº 11.132, de |
-
-| |18/9/2018 (art. 37) |
-
-| | |
-
-| |1.043 |
-
-| |Número de vagas com redação dada pela Lei nº 11.205, de |
-
-| |5/12/2019 (art. 18, §1º) |
-
-|Auditor |30 |
-
-| |50 |
-
-| |Número de vagas com redação dada pela Lei nº 10.202, de |
-
-| |9/6/2011 (Art. 4º) |
-
-|Assistente Social |414 |
-
-|Cargo criado pela Lei nº 10.984, de 14/10/2016 (Art. 2º) |Número de vagas com redação dada pela Lei nº 10.984, de |
-
-| |14/10/2016 (Art. 2º) |
-
-|Psicólogo |339 |
-
-|Cargo criado pela Lei nº 10.984, de 14/10/2016 (Art. 2º) |Número de vagas com redação dada pela Lei nº 10.984, de |
-
-| |14/10/2016 (Art. 2º) |
+| Cargos | Números de Cargos |
+| --- | --- |
+| Ajudante de Serviço Operacional | 740 |
+| Auxiliar Administrativo | 1.240 |
+| Oficial de Serviço Público | 480 |
+| Telefonista | 40 |
+| Motorista | 70 |
+| Assistente Administrativo | 1.800 |
+| Assistente Administrativo | 2.146 |
+|  | Número de vagas com redação dada pela Lei nº 10.746, de |
+|  | 2/10/2014 (Art. 1º) |
+| Técnico de Serviço Público | 200 |
+| Educador Social | 30 |
+| Analista de Políticas Públicas | 430 |
+| Analista de Políticas Públicas | 480 |
+|  | Número de vagas com redação dada pela Lei nº 8.790, de |
+|  | 2/4/2004 (art. 2º) |
+|  | Número de vagas com redação dada pela Lei nº 11.080, de |
+|  | 30/11/2017 (art. 17) |
+| Analista de Políticas Públicas |  |
+|  | 1.044 |
+|  | Número de vagas com redação dada pela Lei nº 11.132, de |
+|  | 18/9/2018 (art. 37) |
+|  |  |
+|  | 1.043 |
+|  | Número de vagas com redação dada pela Lei nº 11.205, de |
+|  | 5/12/2019 (art. 18, §1º) |
+| Auditor | 30 |
+|  | 50 |
+|  | Número de vagas com redação dada pela Lei nº 10.202, de |
+|  | 9/6/2011 (Art. 4º) |
+| Assistente Social | 414 |
+| Cargo criado pela Lei nº 10.984, de 14/10/2016 (Art. 2º) | Número de vagas com redação dada pela Lei nº 10.984, de |
+|  | 14/10/2016 (Art. 2º) |
+| Psicólogo | 339 |
+| Cargo criado pela Lei nº 10.984, de 14/10/2016 (Art. 2º) | Número de vagas com redação dada pela Lei nº 10.984, de |
+|  | 14/10/2016 (Art. 2º) |
 
 ANEXO II
 
@@ -570,70 +490,42 @@ TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE
 
 NÍVEIS DE VENCIMENTO PARA JORNADA DE 6 HORAS DIÁRIAS (em R$)
 
-|Níveis |Ajudante de Serviço Operacional |
-
-|de Vencimento | |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-|Ajudante de Serviço Público |Ajudante de Serviço Operacional Nível 1 |
-
-|Auxiliar de Serviço Administrativo e Auxiliar de Administração |Auxiliar Administrativo Nível 1 |
-
-|Oficial de Gráfica I e II e Oficial de Serviço Público I e II |Oficial de Serviço Público Nível 1 |
-
-|Telefonista |Telefonista Nível 1 |
-
-|Motorista |Motorista Nível 1 |
-
-|Datilógrafo e Agente de Administração I, II e III |Assistente Administrativo Nível 1 |
-
-|Técnico de Nível Médio I, II e III e Técnico de Serviço Público I, II e |Técnico de Serviço Público Nível 1 |
-
-|III | |
-
-|Educador Social I |Educador Social Nível 1 |
-
-|Analista Orçamentário I, II e III, Analista de Sistema Administrativo I,|Analista de Políticas Públicas |
-
-|II e III, Educador social II, Técnico de Recursos Humanos I, II e III e | |
-
-|Técnico Superior de Serviço Público I, II e III | |
-
-|Auditor I, II e III |Auditor Nível 1 |
+| Níveis | Ajudante de Serviço Operacional |
+| --- | --- |
+| de Vencimento |  |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+| Ajudante de Serviço Público | Ajudante de Serviço Operacional Nível 1 |
+| Auxiliar de Serviço Administrativo e Auxiliar de Administração | Auxiliar Administrativo Nível 1 |
+| Oficial de Gráfica I e II e Oficial de Serviço Público I e II | Oficial de Serviço Público Nível 1 |
+| Telefonista | Telefonista Nível 1 |
+| Motorista | Motorista Nível 1 |
+| Datilógrafo e Agente de Administração I, II e III | Assistente Administrativo Nível 1 |
+| Técnico de Nível Médio I, II e III e Técnico de Serviço Público I, II e | Técnico de Serviço Público Nível 1 |
+| III |  |
+| Educador Social I | Educador Social Nível 1 |
+| Analista Orçamentário I, II e III, Analista de Sistema Administrativo I, | Analista de Políticas Públicas |
+| II e III, Educador social II, Técnico de Recursos Humanos I, II e III e |  |
+| Técnico Superior de Serviço Público I, II e III |  |
+| Auditor I, II e III | Auditor Nível 1 |
 
 ANEXO V
 
 TABELA DE VALORES DO ADICIONAL DE INSALUBRIDADE
 
-|CARGOS EFETIVOS |INSALUBRIDADE GRAU MÍNIMO|INSALUBRIDADE GRAU MÉDIO |INSALUBRIDADE GRAU MÁXIMO |
-
-|Ajudante de Serviço |24,00 |48,00 |96,00 |
-
-|Operacional | | | |
-
-|Auxiliar Administrativo |24,00 |48,00 |96,00 |
-
-|Oficial de Serviço Público |24,00 |48,00 |96,00 |
-
-|Telefonista |24,00 |48,00 |96,00 |
-
-|Motorista |24,00 |48,00 |96,00 |
-
-|Assistente Administrativo |24,00 |48,00 |96,00 |
-
-|Técnico de Serviço Público |24,00 |48,00 |96,00 |
-
-|Educador Social |24,00 |48,00 |96,00 |
-
-|Analista de Políticas |24,00 |48,00 |96,00 |
-
-|Públicas | | | |
-
-|Auditor |24,00 |48,00 |96,00 |
+| CARGOS EFETIVOS | INSALUBRIDADE GRAU MÍNIMO | INSALUBRIDADE GRAU MÉDIO | INSALUBRIDADE GRAU MÁXIMO |
+| --- | --- | --- | --- |
+| Ajudante de Serviço | 24,00 | 48,00 | 96,00 |
+| Operacional |  |  |  |
+| Auxiliar Administrativo | 24,00 | 48,00 | 96,00 |
+| Oficial de Serviço Público | 24,00 | 48,00 | 96,00 |
+| Telefonista | 24,00 | 48,00 | 96,00 |
+| Motorista | 24,00 | 48,00 | 96,00 |
+| Assistente Administrativo | 24,00 | 48,00 | 96,00 |
+| Técnico de Serviço Público | 24,00 | 48,00 | 96,00 |
+| Educador Social | 24,00 | 48,00 | 96,00 |
+| Analista de Políticas | 24,00 | 48,00 | 96,00 |
+| Públicas |  |  |  |
+| Auditor | 24,00 | 48,00 | 96,00 |

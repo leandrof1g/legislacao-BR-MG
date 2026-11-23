@@ -58,47 +58,31 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 8º da Lei nº|R$ |
-
-|11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339037.1.500.000 |1.500.000,00 |
-
-|2302.10.302.0114.2952.339039.1.500.000 |70.000,00 |
-
-|2302.10.302.0114.2952.335043.1.500.000 |530.000,00 |
-
-|2302.10.301.0157.2690.335043.1.500.000 |70.000,00 |
-
-|2302.10.302.0114.2952.339037.1.500.000 |100.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.270.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 8º da Lei nº | R$ |
+| --- | --- |
+| 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339037.1.500.000 | 1.500.000,00 |
+| 2302.10.302.0114.2952.339039.1.500.000 | 70.000,00 |
+| 2302.10.302.0114.2952.335043.1.500.000 | 530.000,00 |
+| 2302.10.301.0157.2690.335043.1.500.000 | 70.000,00 |
+| 2302.10.302.0114.2952.339037.1.500.000 | 100.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.270.000,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0117.1216.449051.1.500.000 |100.000,00 |
-
-|2302.10.301.0157.2690.449052.1.500.000 |690.000,00 |
-
-|2302.10.302.0117.1216.449051.1.500.000 |710.000,00 |
-
-|2302.10.122.0117.1216.449051.1.500.000 |100.000,00 |
-
-|2302.10.302.0117.1216.449052.1.500.000 |70.000,00 |
-
-|2302.10.302.0114.2952.339039.1.500.000 |480.000,00 |
-
-|2302.10.302.0114.2952.449052.1.500.000 |120.000,00 |
-
-|TOTAL DA ANULAÇÃO |2.270.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0117.1216.449051.1.500.000 | 100.000,00 |
+| 2302.10.301.0157.2690.449052.1.500.000 | 690.000,00 |
+| 2302.10.302.0117.1216.449051.1.500.000 | 710.000,00 |
+| 2302.10.122.0117.1216.449051.1.500.000 | 100.000,00 |
+| 2302.10.302.0117.1216.449052.1.500.000 | 70.000,00 |
+| 2302.10.302.0114.2952.339039.1.500.000 | 480.000,00 |
+| 2302.10.302.0114.2952.449052.1.500.000 | 120.000,00 |
+| TOTAL DA ANULAÇÃO | 2.270.000,00 |
 
 ANEXO II
 
@@ -122,22 +106,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 8º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 207.210.703,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 352.919,00 |
-
-|Valor do decreto publicado nesta data |R$ 2.270.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 2.622.919,00 |
-
-|Saldo atual de créditos suplementares |R$ 204.587.784,00 |
-
-|Percentual utilizado |1,27% |
-
-|Atualizado em 20/02/2026 às 11:26:06 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 207.210.703,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 352.919,00 |
+| Valor do decreto publicado nesta data | R$ 2.270.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 2.622.919,00 |
+| Saldo atual de créditos suplementares | R$ 204.587.784,00 |
+| Percentual utilizado | 1,27% |
+| Atualizado em 20/02/2026 às 11:26:06 |  |

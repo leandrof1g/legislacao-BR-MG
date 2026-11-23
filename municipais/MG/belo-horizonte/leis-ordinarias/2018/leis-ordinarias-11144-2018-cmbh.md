@@ -338,33 +338,21 @@ ANEXO
 
 TABELA DE FATOR DE REAJUSTE PARA AS APOSENTADORIAS E PENSÕES SEM DIREITO À PARIDADE.
 
-|DATA DE INÍCIO DO |REAJUSTE (%) |
-
-|BENEFÍCIO | |
-
-|Até janeiro de 2017 |2,07 |
-
-|Fevereiro de 2017 |1,64 |
-
-|Março de 2017 |1,4 |
-
-|Abril de 2017 |1,07 |
-
-|Maio de 2017 |0,99 |
-
-|Junho de 2017 |0,63 |
-
-|Julho de 2017 |0,93 |
-
-|Agosto de 2017 |0,76 |
-
-|Setembro de 2017 |0,79 |
-
-|Outubro de 2017 |0,81 |
-
-|Novembro de 2017 |0,44 |
-
-|Dezembro de 2017 |0,26 |
+| DATA DE INÍCIO DO | REAJUSTE (%) |
+| --- | --- |
+| BENEFÍCIO |  |
+| Até janeiro de 2017 | 2,07 |
+| Fevereiro de 2017 | 1,64 |
+| Março de 2017 | 1,4 |
+| Abril de 2017 | 1,07 |
+| Maio de 2017 | 0,99 |
+| Junho de 2017 | 0,63 |
+| Julho de 2017 | 0,93 |
+| Agosto de 2017 | 0,76 |
+| Setembro de 2017 | 0,79 |
+| Outubro de 2017 | 0,81 |
+| Novembro de 2017 | 0,44 |
+| Dezembro de 2017 | 0,26 |
 
 ## Observações da CMBH
 

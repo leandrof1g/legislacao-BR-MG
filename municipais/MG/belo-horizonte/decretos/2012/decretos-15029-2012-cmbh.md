@@ -36,15 +36,12 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 **Art. 1º** - Fica o Hospital Municipal Odilon Behrens – HOB autorizado a contratar pessoal temporário, com a finalidade de garantir a continuidade da prestação do serviço público essencial de saúde, no período de 07/07/2012 a 01/01/2013, nos termos previstos no quadro abaixo:
 
-|CARGO |QUANT. |
-
-|MÉDICOS |69 |
-
-|ENFERMEIROS |38 |
-
-|TÉCNICOS SUPERIORES DE SAÚDE |21 |
-
-|TÉCNICOS DE SERVIÇO DE SAÚDE |185 |
+| CARGO | QUANT. |
+| --- | --- |
+| MÉDICOS | 69 |
+| ENFERMEIROS | 38 |
+| TÉCNICOS SUPERIORES DE SAÚDE | 21 |
+| TÉCNICOS DE SERVIÇO DE SAÚDE | 185 |
 
 **Art. 2º** - Este Decreto entra em vigor na data de sua publicação.
 

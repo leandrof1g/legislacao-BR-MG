@@ -58,87 +58,51 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei|R$ |
-
-|nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de | |
-
-|dezembro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2046.339039.500 |50.000,00 |
-
-|2200.12.361.0168.2046.445042.500 |930.000,00 |
-
-|2200.12.365.0169.2046.445042.500 |80.000,00 |
-
-|2200.12.365.0169.2542.339039.500 |554.500,00 |
-
-|2200.12.365.0169.2542.449052.500 |330.000,00 |
-
-|2200.12.365.0169.2542.445042.500 |388.055,00 |
-
-|2200.12.361.0168.2080.449052.500 |1.035.000,00 |
-
-|2200.12.365.0169.2542.339030.500 |150.000,00 |
-
-|2200.12.365.0169.2542.445052.500 |700.000,00 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.541.0307.2564.339039.500 |150.000,00 |
-
-|2500.18.542.0306.2877.335041.500 |1.300.055,00 |
-
-|2500.18.541.0307.2564.335041.500 |80.000,00 |
-
-|2500.18.541.0307.2913.335041.500 |50.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.797.610,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei | R$ |
+| --- | --- |
+| nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de |  |
+| dezembro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2046.339039.500 | 50.000,00 |
+| 2200.12.361.0168.2046.445042.500 | 930.000,00 |
+| 2200.12.365.0169.2046.445042.500 | 80.000,00 |
+| 2200.12.365.0169.2542.339039.500 | 554.500,00 |
+| 2200.12.365.0169.2542.449052.500 | 330.000,00 |
+| 2200.12.365.0169.2542.445042.500 | 388.055,00 |
+| 2200.12.361.0168.2080.449052.500 | 1.035.000,00 |
+| 2200.12.365.0169.2542.339030.500 | 150.000,00 |
+| 2200.12.365.0169.2542.445052.500 | 700.000,00 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.541.0307.2564.339039.500 | 150.000,00 |
+| 2500.18.542.0306.2877.335041.500 | 1.300.055,00 |
+| 2500.18.541.0307.2564.335041.500 | 80.000,00 |
+| 2500.18.541.0307.2913.335041.500 | 50.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.797.610,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização | |
-
-|contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei | |
-
-|nº 11.644, de 29 de dezembro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2046.339039.500 |955.000,00 |
-
-|2200.12.365.0169.2046.339039.500 |962.555,00 |
-
-|2200.12.365.0169.2542.339039.500 |960.000,00 |
-
-|2200.12.361.0168.2046.449052.500 |640.000,00 |
-
-|2200.12.361.0168.2080.339039.500 |50.000,00 |
-
-|2200.12.122.0140.2317.449051.500 |150.000,00 |
-
-|2200.12.365.0169.2542.449052.500 |150.000,00 |
-
-|2200.12.361.0168.2706.339039.500 |50.000,00 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.541.0307.2564.339039.500 |80.000,00 |
-
-|2500.18.541.0307.2564.449052.500 |150.000,00 |
-
-|2500.18.542.0306.2877.339030.500 |100.000,00 |
-
-|2500.18.542.0306.2877.339039.500 |1.250.055,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.12.365.0169.1211.449051.500 |300.000,00 |
-
-|TOTAL DA ANULAÇÃO |5.797.610,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização |  |
+| contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei |  |
+| nº 11.644, de 29 de dezembro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2046.339039.500 | 955.000,00 |
+| 2200.12.365.0169.2046.339039.500 | 962.555,00 |
+| 2200.12.365.0169.2542.339039.500 | 960.000,00 |
+| 2200.12.361.0168.2046.449052.500 | 640.000,00 |
+| 2200.12.361.0168.2080.339039.500 | 50.000,00 |
+| 2200.12.122.0140.2317.449051.500 | 150.000,00 |
+| 2200.12.365.0169.2542.449052.500 | 150.000,00 |
+| 2200.12.361.0168.2706.339039.500 | 50.000,00 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.541.0307.2564.339039.500 | 80.000,00 |
+| 2500.18.541.0307.2564.449052.500 | 150.000,00 |
+| 2500.18.542.0306.2877.339030.500 | 100.000,00 |
+| 2500.18.542.0306.2877.339039.500 | 1.250.055,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.12.365.0169.1211.449051.500 | 300.000,00 |
+| TOTAL DA ANULAÇÃO | 5.797.610,00 |
 
 ANEXO II
 
@@ -166,22 +130,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 170.400.546,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.469.165,00 |
-
-|Valor do Decreto publicado nesta data |R$ 5.797.610,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 7.266.775,00 |
-
-|Saldo atual de créditos suplementares |R$ 163.133.771,00 |
-
-|Percentual utilizado |4,26% |
-
-|Atualizado em 07/03/2024 às 16:49:34 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 170.400.546,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.469.165,00 |
+| Valor do Decreto publicado nesta data | R$ 5.797.610,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 7.266.775,00 |
+| Saldo atual de créditos suplementares | R$ 163.133.771,00 |
+| Percentual utilizado | 4,26% |
+| Atualizado em 07/03/2024 às 16:49:34 |  |

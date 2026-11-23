@@ -44,17 +44,13 @@ IV - não ter tido licenças, afastamentos e/ou faltas, estas justificadas ou n�
 
 **Art. 3º** - O Prêmio por Participação em Reunião Pedagógica será pago, observado o previsto nos artigos anteriores deste Decreto, no limite de 1 (um) prêmio a cada mês e um total de 10 (dez) prêmios a cada ano, nos seguintes valores:
 
-|CARGOS E EMPREGOS PÚBLICOS |VALORES (R$) |
-
-|Educador Infantil |80,00 |
-
-|Professor Municipal |100,00 |
-
-|Técnico Superior de Educação / Supervisor Pedagógico ou|100,00 |
-
-|Orientador Educacional | |
-
-|Pedagogo |100,00 |
+| CARGOS E EMPREGOS PÚBLICOS | VALORES (R$) |
+| --- | --- |
+| Educador Infantil | 80,00 |
+| Professor Municipal | 100,00 |
+| Técnico Superior de Educação / Supervisor Pedagógico ou | 100,00 |
+| Orientador Educacional |  |
+| Pedagogo | 100,00 |
 
 **§ 1º** - O Prêmio por Participação em Reunião Pedagógica será tomado como base de cálculo exclusivamente para fins de incidência do imposto sobre renda e proventos de qualquer natureza de todos os servidores e empregados públicos de que trata o caput do art. 1º deste Decreto.
 

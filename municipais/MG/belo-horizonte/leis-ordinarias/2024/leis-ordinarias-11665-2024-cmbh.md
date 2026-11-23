@@ -34,9 +34,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I I - Dias comemorativos de setembro:
 
-|SETEMBRO |COMEMORAÇÃO |
-
-|19/9 |Dia Municipal da Proteção e Defesa Civil |
+| SETEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 19/9 | Dia Municipal da Proteção e Defesa Civil |
 
 .”.
 

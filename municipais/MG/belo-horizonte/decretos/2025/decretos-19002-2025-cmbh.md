@@ -58,47 +58,31 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.122.0140.2317.449040.1.500.000 |2.607.760,00 |
-
-|2200.12.122.0140.2317.339093.1.500.000 |220.947,00 |
-
-|2200.12.122.0140.2317.449092.1.500.000 |217.314,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0066.1400.449051.1.759.000 |540.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1330.449051.1.759.000 |500.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.086.021,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.122.0140.2317.449040.1.500.000 | 2.607.760,00 |
+| 2200.12.122.0140.2317.339093.1.500.000 | 220.947,00 |
+| 2200.12.122.0140.2317.449092.1.500.000 | 217.314,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0066.1400.449051.1.759.000 | 540.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1330.449051.1.759.000 | 500.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.086.021,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339039.1.500.000 |3.046.021,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449051.1.759.000 |540.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1400.449051.1.759.000 |500.000,00 |
-
-|TOTAL DA ANULAÇÃO |4.086.021,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339039.1.500.000 | 3.046.021,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449051.1.759.000 | 540.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1400.449051.1.759.000 | 500.000,00 |
+| TOTAL DA ANULAÇÃO | 4.086.021,00 |
 
 ANEXO II
 
@@ -130,24 +114,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 34.330.838,00 |
-
-|Valor do Decreto publicado nesta data |R$ 4.086.021,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 38.416.859,00 |
-
-|Saldo atual de créditos suplementares |R$ 2.226.963.938,30 |
-
-|Percentual utilizado |1,70% |
-
-|Atualizado em 11/02/2025 às 12:26:57 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 34.330.838,00 |
+| Valor do Decreto publicado nesta data | R$ 4.086.021,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 38.416.859,00 |
+| Saldo atual de créditos suplementares | R$ 2.226.963.938,30 |
+| Percentual utilizado | 1,70% |
+| Atualizado em 11/02/2025 às 12:26:57 |  |

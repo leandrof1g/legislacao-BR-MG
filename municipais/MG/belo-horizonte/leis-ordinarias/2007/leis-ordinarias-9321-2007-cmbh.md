@@ -42,80 +42,38 @@ Prefeito de Belo Horizonte
 
 (Originária do Projeto de Lei nº 814/06, de autoria do Executivo)
 
-| |
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| ANEXO I DA LEI Nº 9.321/ 2007 - RELAÇÃO DAS ALTERAÇÕES DA HIERARQUIZAÇÃO DO SISTEMA VIÁRIO |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| TIPO | LOGRADOURO | Nº | FOLHA | QUADRÍCULA | TRECHO | CLASSIFICAÇÃO |
+|  | Antônio Gravatá (cod.11.930) | 1 | 45 | 47/49 | Entre Praça Cinqüentenário e a Rua Úrsula Paulino | Coletora |
+| Rua |  |  |  |  |  |  |
+|  |  | 2 | 29 | 54/55 | Entre a Rua Deputado Bernadino de Sena Figueiredo e a Rua Alvares da Silva | Coletora |
+| Rua | Artur de Sá (cod.6.211) |  |  |  |  |  |
+| Rua |  | 3 | 39 | 48/50 | Entre a Rua Pedro Evangelista e a Rua Padre Demerval Gomes | Arterial |
+|  | Craveiro Lopes (cod.18.489) |  |  |  |  |  |
+|  |  | 4 | 27 | 48/56 | Entre a Rua José Ribeiro Filho e a Ave Presidente Tancredo Neves | Arterial |
+| Rua | Deputado André de Almeida (cod.26.443) |  |  |  |  |  |
+| Rua | Doutor Sylvio Menicucci (cod. 123.274) | 5 | 27 | 47/54 |  | Coletora |
+|  |  |  |  |  | Entre a Ave Heráclito Mourão de Miranda e a Rua Maria Pereira de Araujo |  |
+| Rua | Doutor. Agnaldo Monteiro (cod.123.173) | 6 | 27 | 47/54 |  | Coletora |
+|  |  |  |  |  | Entre a Rua Castelo de São Jorge e a Rua Doutor Sylvio Menicucci |  |
+|  | Erê (cod.25.769) | 7 | 40 | 51/50 | Entre Rua Diabase e Ave do Contorno | Coletora |
+| Rua |  |  |  |  |  |  |
+|  | Joaquim José Diniz (cod. 115.874) | 8 | 30 | 54/56 | Entre a Rua José Sergio de Paula e a Rua Maria Ferreira da Silva | Coletora |
+| Rua |  |  |  |  |  |  |
+| Ave | Juscelino Kubitschek (cod.130.006) | 9 | 39 e 40 |  | Entre a Rua Santa Quitéria e a Rua Conde Pereira Carneiro | Arterial |
+|  |  |  |  | 49/50, 50/50 e 50/51 |  |  |
+| Rua | Justiça (cod. 39.874) | 10 | 30 | 54/56 | Entre a Rua Queluzita e a Rua José Sergio de Paula | Coletora |
+| Rua | Maria Pereira de Araújo (cod.123.186) | 11 | 27 | 47/54 | Entre a Rua Doutor Sylvio Menicucci e Ave dos Engenheiros | Coletora |
+|  | Nossa Senhora de Fátima (cod.48.107) | 12 | 40 | 51/51 | Entre a Ave Tereza Cristina e a Rua Santa Quitéria | Arterial |
+| Ave |  |  |  |  |  |  |
+|  |  | 13 | 53 | 51/45 | Entre a Ave Engenheiro Carlos Goulart e a Rua Senador Lima Guimarães | Coletora |
+| Rua | Pedro Laborne Tavares (cod.91.723) |  |  |  |  |  |
+|  | Rita Ferreira (cod.66.894) | 14 | 34 | 49/53 | Entre a BR-262 e a Ave Antônio Henrique Alves | Coletora |
+| Rua |  |  |  |  |  |  |
+| Ave | Tereza Cristina (cod.67.512) | 15 | 45 | 48/46 | Entre a Rua Joaquim Alves e a divisa com o município de Contagem ( córrego Água Branca) | Arterial |
 
-|ANEXO I DA LEI Nº 9.321/ 2007 - RELAÇÃO DAS ALTERAÇÕES DA HIERARQUIZAÇÃO DO SISTEMA VIÁRIO |
+*[imagem no documento original — ver `fonte_texto`]*
 
-| |
-
-|TIPO |LOGRADOURO |Nº |FOLHA |QUADRÍCULA |TRECHO |CLASSIFICAÇÃO |
-
-| |Antônio Gravatá (cod.11.930) |1 |45 |47/49 |Entre Praça Cinqüentenário e a Rua Úrsula Paulino |Coletora |
-
-|Rua | | | | | | |
-
-| | |2 |29 |54/55 |Entre a Rua Deputado Bernadino de Sena Figueiredo e a Rua Alvares da Silva |Coletora |
-
-|Rua |Artur de Sá (cod.6.211) | | | | | |
-
-|Rua | |3 |39 |48/50 |Entre a Rua Pedro Evangelista e a Rua Padre Demerval Gomes |Arterial |
-
-| |Craveiro Lopes (cod.18.489) | | | | | |
-
-| | |4 |27 |48/56 |Entre a Rua José Ribeiro Filho e a Ave Presidente Tancredo Neves |Arterial |
-
-|Rua |Deputado André de Almeida (cod.26.443) | | | | | |
-
-|Rua |Doutor Sylvio Menicucci (cod. 123.274) |5 |27 |47/54 | |Coletora |
-
-| | | | | |Entre a Ave Heráclito Mourão de Miranda e a Rua Maria Pereira de Araujo | |
-
-|Rua |Doutor. Agnaldo Monteiro (cod.123.173) |6 |27 |47/54 | |Coletora |
-
-| | | | | |Entre a Rua Castelo de São Jorge e a Rua Doutor Sylvio Menicucci | |
-
-| |Erê (cod.25.769) |7 |40 |51/50 |Entre Rua Diabase e Ave do Contorno |Coletora |
-
-|Rua | | | | | | |
-
-| |Joaquim José Diniz (cod. 115.874) |8 |30 |54/56 |Entre a Rua José Sergio de Paula e a Rua Maria Ferreira da Silva |Coletora |
-
-|Rua | | | | | | |
-
-|Ave |Juscelino Kubitschek (cod.130.006) |9 |39 e 40 | |Entre a Rua Santa Quitéria e a Rua Conde Pereira Carneiro |Arterial |
-
-| | | | |49/50, 50/50 e 50/51| | |
-
-|Rua |Justiça (cod. 39.874) |10 |30 |54/56 |Entre a Rua Queluzita e a Rua José Sergio de Paula |Coletora |
-
-|Rua |Maria Pereira de Araújo (cod.123.186) |11 |27 |47/54 |Entre a Rua Doutor Sylvio Menicucci e Ave dos Engenheiros |Coletora |
-
-| |Nossa Senhora de Fátima (cod.48.107) |12 |40 |51/51 |Entre a Ave Tereza Cristina e a Rua Santa Quitéria |Arterial |
-
-|Ave | | | | | | |
-
-| | |13 |53 |51/45 |Entre a Ave Engenheiro Carlos Goulart e a Rua Senador Lima Guimarães |Coletora |
-
-|Rua |Pedro Laborne Tavares (cod.91.723) | | | | | |
-
-| |Rita Ferreira (cod.66.894) |14 |34 |49/53 |Entre a BR-262 e a Ave Antônio Henrique Alves |Coletora |
-
-|Rua | | | | | | |
-
-|Ave |Tereza Cristina (cod.67.512) |15 |45 |48/46 |Entre a Rua Joaquim Alves e a divisa com o município de Contagem ( córrego Água Branca) |Arterial |
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

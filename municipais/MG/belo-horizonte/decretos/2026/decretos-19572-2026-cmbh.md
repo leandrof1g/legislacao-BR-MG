@@ -58,51 +58,33 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei nº |R$ |
-
-|11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.319113.1.500.000 |2.700,00 |
-
-|TOTAL |2.700,00 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei nº |R$ |
-
-|11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0020.2878.339046.1.500.000 |66.000,00 |
-
-|TOTAL |66.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |68.700,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei nº | R$ |
+| --- | --- |
+| 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.319113.1.500.000 | 2.700,00 |
+| TOTAL | 2.700,00 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei nº | R$ |
+| 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0020.2878.339046.1.500.000 | 66.000,00 |
+| TOTAL | 66.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 68.700,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de recurso|R$ |
-
-|orçamentário anteriormente previsto no seguinte órgão: | |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.319011.1.500.000 |2.700,00 |
-
-|TOTAL |2.700,00 |
-
-|I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de recurso|R$ |
-
-|orçamentário anteriormente previsto no seguinte órgão: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0020.2878.319011.1.500.000 |66.000,00 |
-
-|TOTAL |66.000,00 |
-
-|TOTAL DA ANULAÇÃO |68.700,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de recurso | R$ |
+| --- | --- |
+| orçamentário anteriormente previsto no seguinte órgão: |  |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.319011.1.500.000 | 2.700,00 |
+| TOTAL | 2.700,00 |
+| I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de recurso | R$ |
+| orçamentário anteriormente previsto no seguinte órgão: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0020.2878.319011.1.500.000 | 66.000,00 |
+| TOTAL | 66.000,00 |
+| TOTAL DA ANULAÇÃO | 68.700,00 |
 
 ANEXO II
 
@@ -132,52 +114,32 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal|do valor do Orçamento |
-
-|e Encargos Sociais (código 01) | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 75.045.035,01 |
-
-|Valor do decreto publicado nesta data |R$ 2.700,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 75.047.735,01 |
-
-|Saldo atual de créditos suplementares |R$ 2.417.387.332,59 |
-
-|Percentual utilizado |3,01% |
-
-|Atualizado em 27/04/2026 às 09:21:07 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | do valor do Orçamento |
+| e Encargos Sociais (código 01) |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 75.045.035,01 |
+| Valor do decreto publicado nesta data | R$ 2.700,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 75.047.735,01 |
+| Saldo atual de créditos suplementares | R$ 2.417.387.332,59 |
+| Percentual utilizado | 3,01% |
+| Atualizado em 27/04/2026 às 09:21:07 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 547.072.725,63 |
-
-|Valor do decreto publicado nesta data |R$ 66.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 547.138.725,63 |
-
-|Saldo atual de créditos suplementares |R$ 1.945.296.341,97 |
-
-|Percentual utilizado |21,95% |
-
-|Atualizado em 27/04/2026 às 09:22:16 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 547.072.725,63 |
+| Valor do decreto publicado nesta data | R$ 66.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 547.138.725,63 |
+| Saldo atual de créditos suplementares | R$ 1.945.296.341,97 |
+| Percentual utilizado | 21,95% |
+| Atualizado em 27/04/2026 às 09:22:16 |  |

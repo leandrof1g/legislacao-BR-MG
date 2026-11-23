@@ -130,95 +130,52 @@ TERMO DE ACORDO DE RECONHECIMENTO
 
 E PARCELAMENTO DE DÉBITO PREVIDENCIÁRIO
 
-|Termo de Acordo de Reconhecimento e |Processo nº: |
-
-|Parcelamento de Débito Previdenciário | |
-
-|1. Identificação do segurado |
-
-|Nome: |Identidade: |CPF/CNPJ: |
-
-| | | |
-
-|Endereço: |
-
-| |
-
-|Telefone residencial: |Telefone celular: |e-mail: |
-
-| | | |
-
-|2. Identificação do representante legal do segurado |
-
-|Nome: |Identidade: |CPF/CNPJ: |
-
-| | | |
-
-|Endereço: |
-
-| |
-
-|Telefone residencial: |Telefone celular: |e-mail: |
-
-| | | |
-
-|3. Identificação do débito previdenciário |
-
-|Mês/ano |
-
-|O segurado reconhece o débito previdenciário, descrito no item 3 (três) deste termo, mantido junto ao Regime Próprio de Previdência |
-
-|Social dos Servidores Públicos do Município de Belo Horizonte – RPPS, confessa-o de forma definitiva e irretratável e requer o seu |
-
-|parcelamento na forma do inciso XI do artigo 96 da Lei Municipal nº 10.362/11, comprometendo-se a quitá-lo na forma ora |
-
-|estabelecida, e renuncia a quaisquer contestações quanto ao valor e procedência da dívida, ressalvado o direito do Município de |
-
-|apurar, em favor do RPPS, a qualquer tempo, a existência de outras importâncias devidas e não incluídas neste instrumento, ainda que|
-
-|relativas ao mesmo período. |
-
-|5. Parcelamento e forma de pagamento |
-
-|Quantidade de parcelas mensais e sucessivas: |
-
-| |
-
-|Data de vencimento das parcelas: |
-
-| |
-
-|Forma de pagamento: |
-
-| |
-
-|( ) desconto mensal em folha de pagamento; |
-
-| |
-
-|( ) depósito identificado nominalmente em conta bancária de titularidade do Fundo Financeiro - FUFIN ou do Fundo Previdenciário |
-
-|- BHPREV, conforme o caso. |
-
-|6. Notas |
-
-|Atualização de valores na forma do art. 91 da Lei Municipal nº 10.362/11 e de seu regulamento. |
-
-| |
-
-|A falta de pagamento de qualquer parcela implicará na atualização do saldo devedor com os acréscimos legais, sujeitando-se o |
-
-|segurado/responsável à cobrança judicial. |
-
-|7. Local/data: |
-
-|Assinatura do segurado: |Assinatura do representante do RPPS: |
-
-| | |
-
-| | |
-
-| | | | | | | | | | | | | | |
+| Termo de Acordo de Reconhecimento e | Processo nº: |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Parcelamento de Débito Previdenciário |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Identificação do segurado |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nome: | Identidade: | CPF/CNPJ: |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Endereço: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Telefone residencial: | Telefone celular: | e-mail: |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. Identificação do representante legal do segurado |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nome: | Identidade: | CPF/CNPJ: |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Endereço: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Telefone residencial: | Telefone celular: | e-mail: |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. Identificação do débito previdenciário |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mês/ano |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| O segurado reconhece o débito previdenciário, descrito no item 3 (três) deste termo, mantido junto ao Regime Próprio de Previdência |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Social dos Servidores Públicos do Município de Belo Horizonte – RPPS, confessa-o de forma definitiva e irretratável e requer o seu |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| parcelamento na forma do inciso XI do artigo 96 da Lei Municipal nº 10.362/11, comprometendo-se a quitá-lo na forma ora |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| estabelecida, e renuncia a quaisquer contestações quanto ao valor e procedência da dívida, ressalvado o direito do Município de |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| apurar, em favor do RPPS, a qualquer tempo, a existência de outras importâncias devidas e não incluídas neste instrumento, ainda que |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| relativas ao mesmo período. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. Parcelamento e forma de pagamento |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Quantidade de parcelas mensais e sucessivas: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Data de vencimento das parcelas: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Forma de pagamento: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ( ) desconto mensal em folha de pagamento; |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ( ) depósito identificado nominalmente em conta bancária de titularidade do Fundo Financeiro - FUFIN ou do Fundo Previdenciário |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| - BHPREV, conforme o caso. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. Notas |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Atualização de valores na forma do art. 91 da Lei Municipal nº 10.362/11 e de seu regulamento. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A falta de pagamento de qualquer parcela implicará na atualização do saldo devedor com os acréscimos legais, sujeitando-se o |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| segurado/responsável à cobrança judicial. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. Local/data: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Assinatura do segurado: | Assinatura do representante do RPPS: |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ANEXO II
 

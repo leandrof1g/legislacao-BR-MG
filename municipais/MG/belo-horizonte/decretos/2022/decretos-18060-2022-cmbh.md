@@ -52,42 +52,27 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I – A favor da Secretaria Municipal de Educação – SMED –, conforme autorização contida nos arts. |
-
-|1º e 3º da Lei nº 11.377, de 8 de julho de 2022: |
-
-|R$ |
-
-|2200.12.361.168.2.080.4490.0000 |22.000,00 |
-
-|2200.12.361.168.2.080.4490.0000 |154.000,00 |
-
-|2200.12.365.169.2.542.4490.0000 |198.000,00 |
-
-|2200.12.361.168.2.080.4490.0000 |176.000,00 |
-
-|2200.12.365.169.2.542.4490.0000 |132.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |682.000,00 |
+| I – A favor da Secretaria Municipal de Educação – SMED –, conforme autorização contida nos arts. |  |
+| --- | --- |
+| 1º e 3º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| R$ |  |
+| 2200.12.361.168.2.080.4490.0000 | 22.000,00 |
+| 2200.12.361.168.2.080.4490.0000 | 154.000,00 |
+| 2200.12.365.169.2.542.4490.0000 | 198.000,00 |
+| 2200.12.361.168.2.080.4490.0000 | 176.000,00 |
+| 2200.12.365.169.2.542.4490.0000 | 132.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 682.000,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II – Em contrapartida às suplementações relacionadas no item I: |
-
-|Anulação de emendas previstas inicialmente na Secretaria Municipal de Educação – SMED –, conforme |
-
-|autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |
-
-|R$ |
-
-|2200.12.361.168.2.080.3390.0000 |22.000,00 |
-
-|2200.12.361.168.2.080.3390.0000 |154.000,00 |
-
-|2200.12.365.169.2.542.3390.0000 |198.000,00 |
-
-|2200.12.361.168.2.080.3390.0000 |176.000,00 |
-
-|2200.12.365.169.2.542.3390.0000 |132.000,00 |
-
-|TOTAL DA ANULAÇÃO |682.000,00 |
+| II – Em contrapartida às suplementações relacionadas no item I: |  |
+| --- | --- |
+| Anulação de emendas previstas inicialmente na Secretaria Municipal de Educação – SMED –, conforme |  |
+| autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| R$ |  |
+| 2200.12.361.168.2.080.3390.0000 | 22.000,00 |
+| 2200.12.361.168.2.080.3390.0000 | 154.000,00 |
+| 2200.12.365.169.2.542.3390.0000 | 198.000,00 |
+| 2200.12.361.168.2.080.3390.0000 | 176.000,00 |
+| 2200.12.365.169.2.542.3390.0000 | 132.000,00 |
+| TOTAL DA ANULAÇÃO | 682.000,00 |

@@ -54,8 +54,9 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-| | | | |
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  | *[imagem no documento original — ver `fonte_texto`]*
 
-| | |
-
-| |[pic] |
+|  |  |

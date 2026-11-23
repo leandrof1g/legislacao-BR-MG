@@ -40,11 +40,10 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 N - Dias comemorativos móveis:
 
-|DATA |COMEMORAÇÃO |
-
-|Data móvel entre setembro e outubro |Dia Municipal de Comemoração Sociocultural |
-
-| |Ibrachina |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Data móvel entre setembro e outubro | Dia Municipal de Comemoração Sociocultural |
+|  | Ibrachina |
 
 .”.
 

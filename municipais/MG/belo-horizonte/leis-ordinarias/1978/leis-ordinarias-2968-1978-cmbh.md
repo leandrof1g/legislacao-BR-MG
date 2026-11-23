@@ -610,379 +610,194 @@ ANEXO I
 
 TABELA DE MULTAS DO REGULAMENTO DE LIMPEZA URBANA DO MUNICÍPIO DE BELO HORIZONTE, PREVISTA NO ART. 3º DESTA LEI
 
-|TABELA DE MULTAS DO REGULAMENTO DE LIMPEZA URBANA DO MUNICÍPIO DE BELO |
-
-|(Referências: Artigo 82 do Regulamento aprovado pelo CMLU) |
-
-|Os infratores às disposições deste Regulamento serão punidos com as seguintes multas: |
-
-|Discriminação da infração ou dispositivo infringido |Multa Aplicável |
-
-| |Zona Suburbana e |Zona Urbana |Área limitada pela |
-
-| |outras |Incorporada |Avenida do Contorno |
-
-|I - Por apresentar, a coleta domiciliar, lixo acondicionado em |1/10 UFPBH |1/10 UFPBH |01 UFPBH |
-
-|embalagens sem retorno, recipientes ou contenedores não aprovados | | | |
-
-|pela Superintendência de Limpeza Urbana – SLU ou por infringir os | | | |
-
-|Artigos: 6º, 7º, 10, (VETADO), 15 e 16, exclusive § 2º do art. 6º e | | | |
-
-|parágrafo único do art. 7º. | | | |
-
-|II - Por apresentar, à coleta domiciliar, lixo acondicionado em | | | |
-
-|recipientes ou contenedores que apresentem vazamentos ou mal estado |1/40 UFPBH |1/2 UFPBH |01 UFPBH |
-
-|de conservação e asseio. Por apresentar, à coleta domiciliar, lixo | | | |
-
-|acondicionado de forma inadequada em embalagens sem retorno | | | |
-
-|permitidas, em recipientes ou contenedores padronizados ou por | | | |
-
-|infringir o parágrafo único do art. 7º e os arts. 9º, 13 e 18. | | | |
-
-|III - § 2º do Art. 6º |20 UFPBH |20 UFPBH |20 UFPBH |
-
-| |Inciso I |1/40 UFPBH |1/2 UFPBH |01 UFPBH |
-
-|IV - Art. 19 | | | | |
-
-| | | | | |
-
-| |Inciso II |1/8 UFPBH |1/2 UFPBH |01 UFPBH |
-
-|V - Art. 28 |Inciso III |Tabelas constantes dos incisos XXX, XXXI, XXXII, XXXIII e XXXIV. |
-
-|VI - Art. 29 |10 UFPBH |15 UFPBH |20 UFPBH |
-
-|VII - Art. 30 |15 UFPBH |15 UFPBH |15 UFPBH |
-
-|VIII - Art. 32 | |
-
-|§ 1º do art. 32 |7.1/2 UFPBH |7.1/2 UFPBH |7.1/2 UFPBH |
-
-|§ 2º do art. 32 |10 UFPBH |10 UFPBH |10 UFPBH |
-
-|§ 3º do art. 32 |7.1/2 UFPBH |7.1/2 UFPBH |7.1/2 UFPBH |
-
-|IX - Art. 33 |20 UFPBH |20 UFPBH |20 UFPBH |
-
-|X - Art. 34 |1/2 UFPBH |05 UFPBH |10 UFPBH |
-
-|XI - Art. 36 |05 UFPBH |7.1/2 UFPBH |10 UFPBH |
-
-| | | | |
-
-|§ 1º do art. 36 | | | |
-
-| | | | |
-
-|§ 2º do art. 36 | | | |
-
-|XII - Art. 37 |01 UFPBH |2.1/2 UFPBH |05 UFPBH |
-
-|XIII - Art. 38 |05 UFPBH |7.1/2 UFPBH |10 UFPBH |
-
-|XIV - Art. 39 |05 UFPBH |7.1/2 UFPBH |10 UFPBH |
-
-| | | | |
-
-|§ 1º do art. 39 | | | |
-
-| | | | |
-
-|§ 2º do art. 39 | | | |
-
-|XV - Art. 40 | | | |
-
-| |05 UFPBH |7.1/2 UFPBH |10 UFPBH |
-
-|Inciso I do art. 40 | | | |
-
-| | | | |
-
-|Inciso II do art. 40 | | | |
-
-|XVI - Art. 42 - Inciso I |05 UFPBH |2.1/2 UFPBH |10 UFPBH |
-
-| | | | |
-
-|Art. 42 - Inciso II | | | |
-
-| | | | |
-
-|§ 3º do art. 42 | | | |
-
-|XVII - Art. 43 |01 UFPBH |2.1/2 UFPBH |05 UFPBH |
-
-|XVIII - Art. 44 |1/8 UFPBH |1/2 UFPBH |01 UFPBH |
-
-|XIX - Art. 45 |1/2 UFPBH |2.1/2 UFPBH |05 UFPBH |
-
-|XX - Art. 46 |1/8 UFPBH |1/2 UFPBH |01 UFPBH |
-
-|XXI - Art. 47 |01 UFPBH |2.1/2 UFPBH |05 UFPBH |
-
-|XXII - Art. 48 |1/8 UFPBH |1/2 UFPBH |01 UFPBH |
-
-|XXIII - Art. 49 |1/8 UFPBH |01 UFPBH |2.1/2 UFPBH |
-
-|XXIV - Art. 50 |1/8 UFPBH |1/2 UFPBH |01 UFPBH |
-
-|XXV - Art. 51 |1/8 UFPBH |1/2 UFPBH |01 UFPBH |
-
-|XXVI - Art. 52 |1/8 UFPBH |1/2 UFPBH |01 UFPBH |
-
-|XXVII - Art. 53 |1/8 UFPBH |1/2 UFPBH |01 UFPBH |
-
-|XXVIII - Art. 54 - Inciso I, Alínea "a", Inciso II, alínea b |Tabelas constantes dos incisos XXX, XXXI, XXXII, XXXIII e XXXIV. |
-
-|XXIX - Art. 54 |Inciso II |05 UFPBH |7.1/2 UFPBH |10 UFPBH |
-
-| |Inciso III | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| |Inciso IV |01 UFPBH |2.1/2 UFPBH |05 UFPBH |
-
-| |Inciso V | | | |
-
-| |Inciso VI | | | |
-
-| |Inciso VII | | | |
-
-| |Inciso VIII | | | |
-
-|Os infratores às disposições do Artigo 28 do Regulamento, serão punidos com as multas constantes das quatro tabelas seguintes: |
-
-| |
-
-|INCISO XXX - INFRAÇÕES PRATICADAS NA ZONA URBANA DE BELO HORIZONTE E OUTRAS |
-
-|Tabela nº 1 | | |
-
-|Qualidade de lixo ou de resíduos |Lixo público ou resíduos sólidos especiais |Lixo domiciliar ou resíduos sólidos especiais |
-
-|sólidos especiais |classificados nos incisos VI, VII, VIII, X, XI, do §|classificados no inciso XII, do § 3º do Art. 3º |
-
-| |3º do Art. 3º | |
-
-|Até 50 litros |Multa de 1/64 UFPBH |Multa de 1/16 UFPBH |
-
-|Até 100 litros |Multa de 1/32 UFPBH |Multa de 1/8 UFPBH |
-
-|Até 200 litros |Multa de 1/16 UFPBH |Multa de 1/4 UFPBH |
-
-|Até 0,5 m3 |Multa de 1/8 UFPBH |Multa de 1/2 UFPBH |
-
-|Até 1,0 m3 |Multa de 1/4 UFPBH |Multa de 01 UFPBH |
-
-|Até 2,0 m3 |Multa de 1/2 UFPBH |Multa de 02 UFPBH |
-
-|Até 5,0 m3 |Multa de 01 UFPBH |Multa de 04 UFPBH |
-
-|Até 10,0 m3 |Multa de 02 UFPBH |Multa de 08 UFPBH |
-
-|Até 20,0 m3 |Multa de 04 UFPBH |Multa de 16 UFPBH |
-
-|Acima de 20,0 m3 |Multa de 08 UFPBH |Multa de 32 UFPBH |
-
-|INCISO XXXI - INFRAÇÕES PRATICADAS NA ZONA URBANA INCORPORADA DE BELO HORIZONTE |
-
-|Tabela nº 2 |
-
-|Quantidade de lixo ou de resíduos sólidos |Lixo público ou resíduos sólidos especiais |Lixo domiciliar ou resíduos sólidos |
-
-|especiais |classificados nos incisos VI, VII, VIII, X, XI,|especiais classificados no inciso XII, do |
-
-| |do Art. 3º. |§ 3º do Art. 3º. |
-
-|Até 50 litros |Multa de 1/32 UFPBH |Multa de 1/8 UFPBH |
-
-|Até 100 litros |Multa de 1/16 UFPBH |Multa de 1/4 UFPBH |
-
-|Até 200 litros |Multa de 1/8 UFPBH |Multa de 1/2 UFPBH |
-
-|Até 0,5 m³ |Multa de 1/4 UFPBH |Multa de 01 UFPBH |
-
-|Até 1,0 m³ |Multa de 1/2 UFPBH |Multa de 02 UFPBH |
-
-|Até 2,0 m3 |Multa de 01 UFPBH |Multa de 04 UFPBH |
-
-|Até 5,0 m3 |Multa de 02 UFPBH |Multa de 08 UFPBH |
-
-|Até 10,0 m3 |Multa de 04 UFPBH |Multa de 16 UFPBH |
-
-|Até 20,0 m³ |Multa de 08 UFPBH |Multa de 24 UFPBH |
-
-|Acima de 20,0 m3 |Multa de 16 UFPBH |Multa de 32 UFPBH |
-
-|INCISO XXXII - INFRAÇÕES PRATICADAS NA ZONA LIMITADA PELA AVENIDA DO CONTORNO DE BELO HORIZONTE |
-
-|Tabela nº 3 |
-
-|Quantidade de lixo ou de resíduos sólidos |Lixo público ou resíduos sólidos especiais |Lixo domiciliar ou resíduos sólidos especiais |
-
-|especiais |classificados nos incisos VI, VII, VIII, X, |classificados no inciso XII, do § 3º do Art. 3º. |
-
-| |XI, do Art. 3º. | |
-
-|Até 50 litros |Multa de 1/16 UFPBH |Multa de 1/4 UFPBH |
-
-|Até 100 litros |Multa de 1/8 UFPBH |Multa de 1/2 UFPBH |
-
-|Até 200 litros |Multa de 1/4 UFPBH |Multa de 01 UFPBH |
-
-|Até 0,5 m³ |Multa de 1/2 UFPBH |Multa de 02 UFPBH |
-
-|Até 1,0 m³ |Multa de 01 UFPBH |Multa de 04 UFPBH |
-
-|Até 2,0 m3 |Multa de 02 UFPBH |Multa de 08 UFPBH |
-
-|Até 5,0 m3 |Multa de 04 UFPBH |Multa de 16 UFPBH |
-
-|Até 10,0 m3 |Multa de 08 UFPBH |Multa de 24 UFPBH |
-
-|Até 20,0 m³ |Multa de 16 UFPBH |Multa de 32 UFPBH |
-
-|Acima de 20,0 m3 |Multa de 20 UFPBH |Multa de 40 UFPBH |
-
-|INCISO XXXIII |
-
-|Tabela nº 4 |
-
-|Quantidade de lixo ou de resíduos sólidos especiais |Lixo público ou resíduos sólidos especiais classificados nos incisos |
-
-| |VI, VII, VIII, X, XI, do Artigo. 3º. |
-
-|Até 10 litros |Multa de 02 UFPBH |
-
-|Até 20 litros |Multa de 04 UFPBH |
-
-|Até 50 litros |Multa de 08 UFPBH |
-
-|Até 100 litros |Multa de 16 UFPBH |
-
-|Até 200 litros |Multa de 24 UFPBH |
-
-|Até 0,5 m³ |Multa de 32 UFPBH |
-
-|Até 1,0 m3 |Multa de 40 UFPBH |
-
-|Até 2,0 m3 |Multa de 50 UFPBH |
-
-|Acima de 2,0 m3 |Multa de 60 UFPBH |
-
-|INCISO XXXIV |
-
-|Tabela nº 5 |
-
-|Resíduos Sólidos especiais classificados nos incisos V, XV, XVI, XVII, do § 3º do |Multa aplicável |
-
-|artigo 3º. | |
-
-| |60 UFPBH |
-
-|OBSERVAÇÃO: A definição dos limites das zonas correspondentes à preconizada no texto da Lei Municipal de nº 592, de 27/XI/56. |
-
-|Os infratores às disposições deste Regulamento relativas às Edificações, estarão às seguintes multas: |
-
-|Discriminação da infração ou do dispositivo infringido |Multa aplicável |
-
-|XXXV - Artigo 55 |05 UFPBH |
-
-|XXXVI - Artigo 56 | |
-
-|§ 1º do Artigo 56 |05 UFPBH |
-
-|§ 2º do Artigo 56 | |
-
-|§ 3º do Artigo 56 | |
-
-|XXXVII - Artigo 58 |20 UFPBH |
-
-|XXXVIII - Artigo 59 |20 UFPBH |
-
-|XXXIX - Artigo 60 |20 UFPBH |
-
-|Por não atender à notificação da SLU dentro do prazo previsto | |
-
-|XL - Por proceder a qualquer obra de reforma de equipamento de coleta interna e de redução| |
-
-|de lixo sem dispor do licenciamento expedido pela Superintendência de Limpeza Urbana - |10 UFPBH |
-
-|SLU. Por manter em funcionamento os referidos equipamentos sem dispor da respectiva | |
-
-|licença. Artigo 65 e Artigo 66. | |
-
-|XLI - Por manter equipamento de redução de lixo em operação deficiente ou inoperância total. |10 UFPBH |
-
-|XLII - Por não atender a ato de interdição, expedido pela Superintendência de Limpeza Urbana| |
-
-|- SLU, de equipamentos de redução de lixo em edificações - Artigo 67. |10 UFPBH |
-
-|XLIII - Por não atender à notificação da Superintendência de Limpeza Urbana - | |
-
-|SLU, dentro do prazo fixado, para providenciar os consertos ou reparos em |10 UFPBH |
-
-|equipamentos de coleta interna e de redução de lixo - Parágrafo único do Artigo | |
-
-|67. | |
-
-|XLII - Artigo 69 - § 1º |20 UFPBH |
-
-| |
-
-|Os fabricantes, os instaladores e os conservadores de equipamentos de coleta interna e de redução de lixo estarão |
-
-|sujeitos às seguintes multas: |
-
-|Discriminação da infração ou do dispositivo infringido |Multa aplicável |
-
-|XLV - Por instalar equipamentos sem estar devidamente cadastrados na Superintendência de |20 UFPBH |
-
-|Limpezas Urbana – SLU, Artigo 61. | |
-
-|XLVI - Por reformar e/ou conservar equipamentos sem estar devidamente| |
-
-|cadastrados na Superintendência de Limpeza Urbana - SLU - Artigo 61. |10 UFPBH |
-
-|XLVII - Por instalar equipamentos em discordância com os modelos aprovados e | |
-
-|registrados na Superintendência de Limpeza Urbana - SLU - Artigo 63. |20 UFPBH |
-
-|XLVIII - Por instalar equipamentos em discordância com o presente Regulamento |20 UFPBH |
-
-|e/ou com as Normas Técnicas da Superintendência de Limpeza | |
-
-|Urbana - SLU - Artigo 68. | |
-
-|Os proprietários de animais abandonados nas vias e logradouros públicos estarão sujeitos às seguintes multas: |
-
-|Discriminação do Animal Apreendido |Multa aplicável |
-
-|XLIX - Bovinos |1/15 UFPBH |
-
-|L - Eqüinos |1/25 UFPBH |
-
-|LI - Muares |1/25 UFPBH |
-
-|LII - Caprinos |1/50 UFPBH |
-
-|LIII - Ovinos |1/50 UFPBH |
-
-|LIV - Suínos |1/50 UFPBH |
-
-|LV - Desacato ao agente fiscal, quando no exercício de suas funções, sem prejuízo do procedimento policial e do |
-
-|cumprimento às prescrições do Código Penal Brasileiro........................... 1 UFPBH |
+| TABELA DE MULTAS DO REGULAMENTO DE LIMPEZA URBANA DO MUNICÍPIO DE BELO |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| (Referências: Artigo 82 do Regulamento aprovado pelo CMLU) |  |  |  |  |
+| Os infratores às disposições deste Regulamento serão punidos com as seguintes multas: |  |  |  |  |
+| Discriminação da infração ou dispositivo infringido | Multa Aplicável |  |  |  |
+|  | Zona Suburbana e | Zona Urbana | Área limitada pela |  |
+|  | outras | Incorporada | Avenida do Contorno |  |
+| I - Por apresentar, a coleta domiciliar, lixo acondicionado em | 1/10 UFPBH | 1/10 UFPBH | 01 UFPBH |  |
+| embalagens sem retorno, recipientes ou contenedores não aprovados |  |  |  |  |
+| pela Superintendência de Limpeza Urbana – SLU ou por infringir os |  |  |  |  |
+| Artigos: 6º, 7º, 10, (VETADO), 15 e 16, exclusive § 2º do art. 6º e |  |  |  |  |
+| parágrafo único do art. 7º. |  |  |  |  |
+| II - Por apresentar, à coleta domiciliar, lixo acondicionado em |  |  |  |  |
+| recipientes ou contenedores que apresentem vazamentos ou mal estado | 1/40 UFPBH | 1/2 UFPBH | 01 UFPBH |  |
+| de conservação e asseio. Por apresentar, à coleta domiciliar, lixo |  |  |  |  |
+| acondicionado de forma inadequada em embalagens sem retorno |  |  |  |  |
+| permitidas, em recipientes ou contenedores padronizados ou por |  |  |  |  |
+| infringir o parágrafo único do art. 7º e os arts. 9º, 13 e 18. |  |  |  |  |
+| III - § 2º do Art. 6º | 20 UFPBH | 20 UFPBH | 20 UFPBH |  |
+|  | Inciso I | 1/40 UFPBH | 1/2 UFPBH | 01 UFPBH |
+| IV - Art. 19 |  |  |  |  |
+|  |  |  |  |  |
+|  | Inciso II | 1/8 UFPBH | 1/2 UFPBH | 01 UFPBH |
+| V - Art. 28 | Inciso III | Tabelas constantes dos incisos XXX, XXXI, XXXII, XXXIII e XXXIV. |  |  |
+| VI - Art. 29 | 10 UFPBH | 15 UFPBH | 20 UFPBH |  |
+| VII - Art. 30 | 15 UFPBH | 15 UFPBH | 15 UFPBH |  |
+| VIII - Art. 32 |  |  |  |  |
+| § 1º do art. 32 | 7.1/2 UFPBH | 7.1/2 UFPBH | 7.1/2 UFPBH |  |
+| § 2º do art. 32 | 10 UFPBH | 10 UFPBH | 10 UFPBH |  |
+| § 3º do art. 32 | 7.1/2 UFPBH | 7.1/2 UFPBH | 7.1/2 UFPBH |  |
+| IX - Art. 33 | 20 UFPBH | 20 UFPBH | 20 UFPBH |  |
+| X - Art. 34 | 1/2 UFPBH | 05 UFPBH | 10 UFPBH |  |
+| XI - Art. 36 | 05 UFPBH | 7.1/2 UFPBH | 10 UFPBH |  |
+|  |  |  |  |  |
+| § 1º do art. 36 |  |  |  |  |
+|  |  |  |  |  |
+| § 2º do art. 36 |  |  |  |  |
+| XII - Art. 37 | 01 UFPBH | 2.1/2 UFPBH | 05 UFPBH |  |
+| XIII - Art. 38 | 05 UFPBH | 7.1/2 UFPBH | 10 UFPBH |  |
+| XIV - Art. 39 | 05 UFPBH | 7.1/2 UFPBH | 10 UFPBH |  |
+|  |  |  |  |  |
+| § 1º do art. 39 |  |  |  |  |
+|  |  |  |  |  |
+| § 2º do art. 39 |  |  |  |  |
+| XV - Art. 40 |  |  |  |  |
+|  | 05 UFPBH | 7.1/2 UFPBH | 10 UFPBH |  |
+| Inciso I do art. 40 |  |  |  |  |
+|  |  |  |  |  |
+| Inciso II do art. 40 |  |  |  |  |
+| XVI - Art. 42 - Inciso I | 05 UFPBH | 2.1/2 UFPBH | 10 UFPBH |  |
+|  |  |  |  |  |
+| Art. 42 - Inciso II |  |  |  |  |
+|  |  |  |  |  |
+| § 3º do art. 42 |  |  |  |  |
+| XVII - Art. 43 | 01 UFPBH | 2.1/2 UFPBH | 05 UFPBH |  |
+| XVIII - Art. 44 | 1/8 UFPBH | 1/2 UFPBH | 01 UFPBH |  |
+| XIX - Art. 45 | 1/2 UFPBH | 2.1/2 UFPBH | 05 UFPBH |  |
+| XX - Art. 46 | 1/8 UFPBH | 1/2 UFPBH | 01 UFPBH |  |
+| XXI - Art. 47 | 01 UFPBH | 2.1/2 UFPBH | 05 UFPBH |  |
+| XXII - Art. 48 | 1/8 UFPBH | 1/2 UFPBH | 01 UFPBH |  |
+| XXIII - Art. 49 | 1/8 UFPBH | 01 UFPBH | 2.1/2 UFPBH |  |
+| XXIV - Art. 50 | 1/8 UFPBH | 1/2 UFPBH | 01 UFPBH |  |
+| XXV - Art. 51 | 1/8 UFPBH | 1/2 UFPBH | 01 UFPBH |  |
+| XXVI - Art. 52 | 1/8 UFPBH | 1/2 UFPBH | 01 UFPBH |  |
+| XXVII - Art. 53 | 1/8 UFPBH | 1/2 UFPBH | 01 UFPBH |  |
+| XXVIII - Art. 54 - Inciso I, Alínea "a", Inciso II, alínea b | Tabelas constantes dos incisos XXX, XXXI, XXXII, XXXIII e XXXIV. |  |  |  |
+| XXIX - Art. 54 | Inciso II | 05 UFPBH | 7.1/2 UFPBH | 10 UFPBH |
+|  | Inciso III |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | Inciso IV | 01 UFPBH | 2.1/2 UFPBH | 05 UFPBH |
+|  | Inciso V |  |  |  |
+|  | Inciso VI |  |  |  |
+|  | Inciso VII |  |  |  |
+|  | Inciso VIII |  |  |  |
+| Os infratores às disposições do Artigo 28 do Regulamento, serão punidos com as multas constantes das quatro tabelas seguintes: |  |  |  |  |
+|  |  |  |  |  |
+| INCISO XXX - INFRAÇÕES PRATICADAS NA ZONA URBANA DE BELO HORIZONTE E OUTRAS |  |  |  |  |
+| Tabela nº 1 |  |  |  |  |
+| Qualidade de lixo ou de resíduos | Lixo público ou resíduos sólidos especiais | Lixo domiciliar ou resíduos sólidos especiais |  |  |
+| sólidos especiais | classificados nos incisos VI, VII, VIII, X, XI, do § | classificados no inciso XII, do § 3º do Art. 3º |  |  |
+|  | 3º do Art. 3º |  |  |  |
+| Até 50 litros | Multa de 1/64 UFPBH | Multa de 1/16 UFPBH |  |  |
+| Até 100 litros | Multa de 1/32 UFPBH | Multa de 1/8 UFPBH |  |  |
+| Até 200 litros | Multa de 1/16 UFPBH | Multa de 1/4 UFPBH |  |  |
+| Até 0,5 m3 | Multa de 1/8 UFPBH | Multa de 1/2 UFPBH |  |  |
+| Até 1,0 m3 | Multa de 1/4 UFPBH | Multa de 01 UFPBH |  |  |
+| Até 2,0 m3 | Multa de 1/2 UFPBH | Multa de 02 UFPBH |  |  |
+| Até 5,0 m3 | Multa de 01 UFPBH | Multa de 04 UFPBH |  |  |
+| Até 10,0 m3 | Multa de 02 UFPBH | Multa de 08 UFPBH |  |  |
+| Até 20,0 m3 | Multa de 04 UFPBH | Multa de 16 UFPBH |  |  |
+| Acima de 20,0 m3 | Multa de 08 UFPBH | Multa de 32 UFPBH |  |  |
+| INCISO XXXI - INFRAÇÕES PRATICADAS NA ZONA URBANA INCORPORADA DE BELO HORIZONTE |  |  |  |  |
+| Tabela nº 2 |  |  |  |  |
+| Quantidade de lixo ou de resíduos sólidos | Lixo público ou resíduos sólidos especiais | Lixo domiciliar ou resíduos sólidos |  |  |
+| especiais | classificados nos incisos VI, VII, VIII, X, XI, | especiais classificados no inciso XII, do |  |  |
+|  | do Art. 3º. | § 3º do Art. 3º. |  |  |
+| Até 50 litros | Multa de 1/32 UFPBH | Multa de 1/8 UFPBH |  |  |
+| Até 100 litros | Multa de 1/16 UFPBH | Multa de 1/4 UFPBH |  |  |
+| Até 200 litros | Multa de 1/8 UFPBH | Multa de 1/2 UFPBH |  |  |
+| Até 0,5 m³ | Multa de 1/4 UFPBH | Multa de 01 UFPBH |  |  |
+| Até 1,0 m³ | Multa de 1/2 UFPBH | Multa de 02 UFPBH |  |  |
+| Até 2,0 m3 | Multa de 01 UFPBH | Multa de 04 UFPBH |  |  |
+| Até 5,0 m3 | Multa de 02 UFPBH | Multa de 08 UFPBH |  |  |
+| Até 10,0 m3 | Multa de 04 UFPBH | Multa de 16 UFPBH |  |  |
+| Até 20,0 m³ | Multa de 08 UFPBH | Multa de 24 UFPBH |  |  |
+| Acima de 20,0 m3 | Multa de 16 UFPBH | Multa de 32 UFPBH |  |  |
+| INCISO XXXII - INFRAÇÕES PRATICADAS NA ZONA LIMITADA PELA AVENIDA DO CONTORNO DE BELO HORIZONTE |  |  |  |  |
+| Tabela nº 3 |  |  |  |  |
+| Quantidade de lixo ou de resíduos sólidos | Lixo público ou resíduos sólidos especiais | Lixo domiciliar ou resíduos sólidos especiais |  |  |
+| especiais | classificados nos incisos VI, VII, VIII, X, | classificados no inciso XII, do § 3º do Art. 3º. |  |  |
+|  | XI, do Art. 3º. |  |  |  |
+| Até 50 litros | Multa de 1/16 UFPBH | Multa de 1/4 UFPBH |  |  |
+| Até 100 litros | Multa de 1/8 UFPBH | Multa de 1/2 UFPBH |  |  |
+| Até 200 litros | Multa de 1/4 UFPBH | Multa de 01 UFPBH |  |  |
+| Até 0,5 m³ | Multa de 1/2 UFPBH | Multa de 02 UFPBH |  |  |
+| Até 1,0 m³ | Multa de 01 UFPBH | Multa de 04 UFPBH |  |  |
+| Até 2,0 m3 | Multa de 02 UFPBH | Multa de 08 UFPBH |  |  |
+| Até 5,0 m3 | Multa de 04 UFPBH | Multa de 16 UFPBH |  |  |
+| Até 10,0 m3 | Multa de 08 UFPBH | Multa de 24 UFPBH |  |  |
+| Até 20,0 m³ | Multa de 16 UFPBH | Multa de 32 UFPBH |  |  |
+| Acima de 20,0 m3 | Multa de 20 UFPBH | Multa de 40 UFPBH |  |  |
+| INCISO XXXIII |  |  |  |  |
+| Tabela nº 4 |  |  |  |  |
+| Quantidade de lixo ou de resíduos sólidos especiais | Lixo público ou resíduos sólidos especiais classificados nos incisos |  |  |  |
+|  | VI, VII, VIII, X, XI, do Artigo. 3º. |  |  |  |
+| Até 10 litros | Multa de 02 UFPBH |  |  |  |
+| Até 20 litros | Multa de 04 UFPBH |  |  |  |
+| Até 50 litros | Multa de 08 UFPBH |  |  |  |
+| Até 100 litros | Multa de 16 UFPBH |  |  |  |
+| Até 200 litros | Multa de 24 UFPBH |  |  |  |
+| Até 0,5 m³ | Multa de 32 UFPBH |  |  |  |
+| Até 1,0 m3 | Multa de 40 UFPBH |  |  |  |
+| Até 2,0 m3 | Multa de 50 UFPBH |  |  |  |
+| Acima de 2,0 m3 | Multa de 60 UFPBH |  |  |  |
+| INCISO XXXIV |  |  |  |  |
+| Tabela nº 5 |  |  |  |  |
+| Resíduos Sólidos especiais classificados nos incisos V, XV, XVI, XVII, do § 3º do | Multa aplicável |  |  |  |
+| artigo 3º. |  |  |  |  |
+|  | 60 UFPBH |  |  |  |
+| OBSERVAÇÃO: A definição dos limites das zonas correspondentes à preconizada no texto da Lei Municipal de nº 592, de 27/XI/56. |  |  |  |  |
+| Os infratores às disposições deste Regulamento relativas às Edificações, estarão às seguintes multas: |  |  |  |  |
+| Discriminação da infração ou do dispositivo infringido | Multa aplicável |  |  |  |
+| XXXV - Artigo 55 | 05 UFPBH |  |  |  |
+| XXXVI - Artigo 56 |  |  |  |  |
+| § 1º do Artigo 56 | 05 UFPBH |  |  |  |
+| § 2º do Artigo 56 |  |  |  |  |
+| § 3º do Artigo 56 |  |  |  |  |
+| XXXVII - Artigo 58 | 20 UFPBH |  |  |  |
+| XXXVIII - Artigo 59 | 20 UFPBH |  |  |  |
+| XXXIX - Artigo 60 | 20 UFPBH |  |  |  |
+| Por não atender à notificação da SLU dentro do prazo previsto |  |  |  |  |
+| XL - Por proceder a qualquer obra de reforma de equipamento de coleta interna e de redução |  |  |  |  |
+| de lixo sem dispor do licenciamento expedido pela Superintendência de Limpeza Urbana - | 10 UFPBH |  |  |  |
+| SLU. Por manter em funcionamento os referidos equipamentos sem dispor da respectiva |  |  |  |  |
+| licença. Artigo 65 e Artigo 66. |  |  |  |  |
+| XLI - Por manter equipamento de redução de lixo em operação deficiente ou inoperância total. | 10 UFPBH |  |  |  |
+| XLII - Por não atender a ato de interdição, expedido pela Superintendência de Limpeza Urbana |  |  |  |  |
+| - SLU, de equipamentos de redução de lixo em edificações - Artigo 67. | 10 UFPBH |  |  |  |
+| XLIII - Por não atender à notificação da Superintendência de Limpeza Urbana - |  |  |  |  |
+| SLU, dentro do prazo fixado, para providenciar os consertos ou reparos em | 10 UFPBH |  |  |  |
+| equipamentos de coleta interna e de redução de lixo - Parágrafo único do Artigo |  |  |  |  |
+| 67. |  |  |  |  |
+| XLII - Artigo 69 - § 1º | 20 UFPBH |  |  |  |
+|  |  |  |  |  |
+| Os fabricantes, os instaladores e os conservadores de equipamentos de coleta interna e de redução de lixo estarão |  |  |  |  |
+| sujeitos às seguintes multas: |  |  |  |  |
+| Discriminação da infração ou do dispositivo infringido | Multa aplicável |  |  |  |
+| XLV - Por instalar equipamentos sem estar devidamente cadastrados na Superintendência de | 20 UFPBH |  |  |  |
+| Limpezas Urbana – SLU, Artigo 61. |  |  |  |  |
+| XLVI - Por reformar e/ou conservar equipamentos sem estar devidamente |  |  |  |  |
+| cadastrados na Superintendência de Limpeza Urbana - SLU - Artigo 61. | 10 UFPBH |  |  |  |
+| XLVII - Por instalar equipamentos em discordância com os modelos aprovados e |  |  |  |  |
+| registrados na Superintendência de Limpeza Urbana - SLU - Artigo 63. | 20 UFPBH |  |  |  |
+| XLVIII - Por instalar equipamentos em discordância com o presente Regulamento | 20 UFPBH |  |  |  |
+| e/ou com as Normas Técnicas da Superintendência de Limpeza |  |  |  |  |
+| Urbana - SLU - Artigo 68. |  |  |  |  |
+| Os proprietários de animais abandonados nas vias e logradouros públicos estarão sujeitos às seguintes multas: |  |  |  |  |
+| Discriminação do Animal Apreendido | Multa aplicável |  |  |  |
+| XLIX - Bovinos | 1/15 UFPBH |  |  |  |
+| L - Eqüinos | 1/25 UFPBH |  |  |  |
+| LI - Muares | 1/25 UFPBH |  |  |  |
+| LII - Caprinos | 1/50 UFPBH |  |  |  |
+| LIII - Ovinos | 1/50 UFPBH |  |  |  |
+| LIV - Suínos | 1/50 UFPBH |  |  |  |
+| LV - Desacato ao agente fiscal, quando no exercício de suas funções, sem prejuízo do procedimento policial e do |  |  |  |  |
+| cumprimento às prescrições do Código Penal Brasileiro........................... 1 UFPBH |  |  |  |  |
 
 ANEXO I
 
@@ -990,127 +805,68 @@ TABELA DE MULTAS DO REGULAMENTO DE LIMPEZA URBANA DO MUNICÍPIO DE BELO HORIZONT
 
 Anexo I com redação dada pela Lei nº 7.276, de 17/01/1997 (Art. 3º)
 
-|Discriminação da infração ou dispositivo infringido |Multa Aplicável |
-
-| |Zona Urbana |
-
-|I - Por apresentar, à coleta domiciliar, lixo acondicionado em embalagens sem |60,00 UFIRs |
-
-|retorno, recipientes ou contenedores não aprovados pela SLU ou por infringir os arts.| |
-
-|6º, 7º, 10 (VETADO), 15 e 16, excluindo-se o § 2º do art. 6º e o parágrafo único do | |
-
-|art. 7º. | |
-
-|II - Por apresentar, à coleta domiciliar, lixo acondicionado em recipientes ou | |
-
-|contenedores que apresentem vazamentos ou mau estado de conservação e asseio. Por |60,00 UFIRs |
-
-|apresentar, à coleta domiciliar, lixo acondicionado de forma inadequada em embalagens| |
-
-|sem retorno permitidas, em recipientes ou contenedores padronizados ou por infringir | |
-
-|o parágrafo único do art. 7º e os arts. 9º, 13 e 18. | |
-
-|III - § 2º do art. 6º |1.800,00 UFIRs |
-
-|IV - Art. 19 - Inciso I |60,00 UFIRs |
-
-|Inciso II | |
-
-|Inciso III | |
-
-|V - Art. 28 |Tabelas constantes dos incisos XXX, XXXI, XXXII, |
-
-| |XXXIII e XXXIV |
-
-|VI - Art. 29 |1.800,00 UFIRs |
-
-|VII - Art. 30 |1.400,00 UFIRs |
-
-|VIII - Art. 32 | |
-
-|§ 1º do art. 32 |600,00 UFIRs |
-
-|§ 2º do art. 32 |700,00 UFIRs |
-
-|§ 3º do art. 32 |600,00 UFIRs |
-
-|Discriminação da infração ou dispositivo infringido |Zona Urbana |
-
-|IX - Art. 33 |1.800,00 UFIRs |
-
-|X - Art. 34 |450,00 UFIRs |
-
-|XI - Art. 36 | |
-
-|§ 1º do art. 36 |700,00 UFIRs |
-
-|§ 2º do art. 36 | |
-
-|XII - Art. 37 |350,00 UFIRs |
-
-|XIII - Art. 38 |700,00 UFIRs |
-
-|XIV - Art. 39 | |
-
-|§ 1º do art. 39 |450,00 UFIRs |
-
-|§ 2º do art. 39 | |
-
-|XV - Art. 40 | |
-
-|Inciso I do art. 40 |700,00 UFIRs |
-
-|Inciso II do art. 40 | |
-
-|XVI - Art. 42 - Inciso I | |
-
-|Art. 42 - Inciso II |450,00 UFIRs |
-
-|§ 3º do art. 42 | |
-
-|XVII - Art. 43 |350,00 UFIRs |
-
-|XVIII - Art. 44 |60,00 UFIRs |
-
-|XIX - Art. 45 |350,00 UFIRs |
-
-|XX - Art. 46 |60,00 UFIRs |
-
-|XXI - Art. 47 |350,00 UFIRs |
-
-|XXII - Art. 48 |60,00 UFIRs |
-
-|XXIII - Art. 49 |160,00 UFIRs |
-
-|XXIV - Art. 50 |70,00 UFIRs |
-
-|XXV - Art. 51 |70,00 UFIRs |
-
-|XXVI - Art. 52 |70,00 UFIRs |
-
-|XXVII - Art. 53 |70,00 UFIRs |
-
-|XXVIII - Art. 54, Inciso I, alínea "a", Inciso I, alínea "b" |Tabelas constantes dos incisos XXX, XXXI, XXXII, |
-
-| |XXXIII e XXXIV. |
-
-|XXIX - Art. 54 - Inciso II | 1.131,79 UFIRs |
-
-|Inciso III | |
-
-| | |
-
-|Inciso IV | |
-
-|Inciso V |350,00 UFIRs |
-
-|Inciso VI | |
-
-|Inciso VII | |
-
-|Inciso VIII | |
+| Discriminação da infração ou dispositivo infringido | Multa Aplicável |
+| --- | --- |
+|  | Zona Urbana |
+| I - Por apresentar, à coleta domiciliar, lixo acondicionado em embalagens sem | 60,00 UFIRs |
+| retorno, recipientes ou contenedores não aprovados pela SLU ou por infringir os arts. |  |
+| 6º, 7º, 10 (VETADO), 15 e 16, excluindo-se o § 2º do art. 6º e o parágrafo único do |  |
+| art. 7º. |  |
+| II - Por apresentar, à coleta domiciliar, lixo acondicionado em recipientes ou |  |
+| contenedores que apresentem vazamentos ou mau estado de conservação e asseio. Por | 60,00 UFIRs |
+| apresentar, à coleta domiciliar, lixo acondicionado de forma inadequada em embalagens |  |
+| sem retorno permitidas, em recipientes ou contenedores padronizados ou por infringir |  |
+| o parágrafo único do art. 7º e os arts. 9º, 13 e 18. |  |
+| III - § 2º do art. 6º | 1.800,00 UFIRs |
+| IV - Art. 19 - Inciso I | 60,00 UFIRs |
+| Inciso II |  |
+| Inciso III |  |
+| V - Art. 28 | Tabelas constantes dos incisos XXX, XXXI, XXXII, |
+|  | XXXIII e XXXIV |
+| VI - Art. 29 | 1.800,00 UFIRs |
+| VII - Art. 30 | 1.400,00 UFIRs |
+| VIII - Art. 32 |  |
+| § 1º do art. 32 | 600,00 UFIRs |
+| § 2º do art. 32 | 700,00 UFIRs |
+| § 3º do art. 32 | 600,00 UFIRs |
+| Discriminação da infração ou dispositivo infringido | Zona Urbana |
+| IX - Art. 33 | 1.800,00 UFIRs |
+| X - Art. 34 | 450,00 UFIRs |
+| XI - Art. 36 |  |
+| § 1º do art. 36 | 700,00 UFIRs |
+| § 2º do art. 36 |  |
+| XII - Art. 37 | 350,00 UFIRs |
+| XIII - Art. 38 | 700,00 UFIRs |
+| XIV - Art. 39 |  |
+| § 1º do art. 39 | 450,00 UFIRs |
+| § 2º do art. 39 |  |
+| XV - Art. 40 |  |
+| Inciso I do art. 40 | 700,00 UFIRs |
+| Inciso II do art. 40 |  |
+| XVI - Art. 42 - Inciso I |  |
+| Art. 42 - Inciso II | 450,00 UFIRs |
+| § 3º do art. 42 |  |
+| XVII - Art. 43 | 350,00 UFIRs |
+| XVIII - Art. 44 | 60,00 UFIRs |
+| XIX - Art. 45 | 350,00 UFIRs |
+| XX - Art. 46 | 60,00 UFIRs |
+| XXI - Art. 47 | 350,00 UFIRs |
+| XXII - Art. 48 | 60,00 UFIRs |
+| XXIII - Art. 49 | 160,00 UFIRs |
+| XXIV - Art. 50 | 70,00 UFIRs |
+| XXV - Art. 51 | 70,00 UFIRs |
+| XXVI - Art. 52 | 70,00 UFIRs |
+| XXVII - Art. 53 | 70,00 UFIRs |
+| XXVIII - Art. 54, Inciso I, alínea "a", Inciso I, alínea "b" | Tabelas constantes dos incisos XXX, XXXI, XXXII, |
+|  | XXXIII e XXXIV. |
+| XXIX - Art. 54 - Inciso II | 1.131,79 UFIRs |
+| Inciso III |  |
+|  |  |
+| Inciso IV |  |
+| Inciso V | 350,00 UFIRs |
+| Inciso VI |  |
+| Inciso VII |  |
+| Inciso VIII |  |
 
 Os infratores às disposições do art. 28 do Regulamento serão punidos com as multas constantes das quatro tabelas seguintes:
 
@@ -1118,144 +874,92 @@ INCISO XXX - INFRAÇÕES PRATICADAS NA ZONA URBANA DE BELO HORIZONTE
 
 TABELA Nº 1
 
-|Qualidade de lixo ou de resíduos |Lixo público ou resíduos sólidos especiais |Lixo domiciliar ou resíduos sólidos especiais |
-
-|sólidos especiais |classificados nos incisos VI, VII, VIII, X, XI, § 3º|classificados no inciso XII do § 3º do art. 3º |
-
-| |do art. 3º | |
-
-|Até 50 litros |Multa de 60,00 UFIRs |Multa de 60,00 UFIRs |
-
-|Até 100 litros |Multa de 60,00 UFIRs |Multa de 60,00 UFIRs |
-
-|Até 200 litros |Multa de 60,00 UFIRs |Multa de 60,00 UFIRs |
-
-|Até 0,5 m3 |Multa de 60,00 UFIRs |Multa de 60,00 UFIRs |
-
-|Até 1,0 m3 |Multa de 80,00 UFIRs |Multa de 60,00 UFIRs |
-
-|Até 2,0 m3 |Multa de 130,00 UFIRs |Multa de 115,00 UFIRs |
-
-|Até 5,0 m3 |Multa de 250,00 UFIRs |Multa de 230,00 UFIRs |
-
-|Até 10,0 m3 |Multa de 500,00 UFIRs |Multa de 450,00 UFIRs |
-
-|Até 20,0 m3 |Multa de 1.000,00 UFIRs |Multa de 900,00 UFIRs |
-
-|Acima de 20,0 m3 |Multa de 2.000,00 UFIRs |Multa de 1.800,00 UFIRs |
+| Qualidade de lixo ou de resíduos | Lixo público ou resíduos sólidos especiais | Lixo domiciliar ou resíduos sólidos especiais |
+| --- | --- | --- |
+| sólidos especiais | classificados nos incisos VI, VII, VIII, X, XI, § 3º | classificados no inciso XII do § 3º do art. 3º |
+|  | do art. 3º |  |
+| Até 50 litros | Multa de 60,00 UFIRs | Multa de 60,00 UFIRs |
+| Até 100 litros | Multa de 60,00 UFIRs | Multa de 60,00 UFIRs |
+| Até 200 litros | Multa de 60,00 UFIRs | Multa de 60,00 UFIRs |
+| Até 0,5 m3 | Multa de 60,00 UFIRs | Multa de 60,00 UFIRs |
+| Até 1,0 m3 | Multa de 80,00 UFIRs | Multa de 60,00 UFIRs |
+| Até 2,0 m3 | Multa de 130,00 UFIRs | Multa de 115,00 UFIRs |
+| Até 5,0 m3 | Multa de 250,00 UFIRs | Multa de 230,00 UFIRs |
+| Até 10,0 m3 | Multa de 500,00 UFIRs | Multa de 450,00 UFIRs |
+| Até 20,0 m3 | Multa de 1.000,00 UFIRs | Multa de 900,00 UFIRs |
+| Acima de 20,0 m3 | Multa de 2.000,00 UFIRs | Multa de 1.800,00 UFIRs |
 
 INCISO XXXI
 
 TABELA Nº 2
 
-|Quantidade de lixo hospitalar ou de resíduos sólidos especiais |Lixo Hospitalar ou resíduos sólidos especiais classificados nos |
-
-| |incisos I, II, III, IV, IX do § 3º do art. 3º |
-
-|Até 10 litros |Multa de 60,00 UFIRs |
-
-|Até 20 litros |Multa de 120,00 UFIRs |
-
-|Até 50 litros |Multa de 230,00 UFIRs |
-
-|Até 100 litros |Multa de 450,00 UFIRs |
-
-|Até 200 litros |Multa de 900,00 UFIRs |
-
-|Até 0,5 m3 |Multa de 1.800,00 UFIRs |
-
-|Até 1,0 m3 |Multa de 3.600,00 UFIRs |
-
-|Até 2,0 m3 |Multa de 7.200,00 UFIRs |
-
-|Acima de 2,0 m3 |Multa de 10.300,00 UFIRs |
+| Quantidade de lixo hospitalar ou de resíduos sólidos especiais | Lixo Hospitalar ou resíduos sólidos especiais classificados nos |
+| --- | --- |
+|  | incisos I, II, III, IV, IX do § 3º do art. 3º |
+| Até 10 litros | Multa de 60,00 UFIRs |
+| Até 20 litros | Multa de 120,00 UFIRs |
+| Até 50 litros | Multa de 230,00 UFIRs |
+| Até 100 litros | Multa de 450,00 UFIRs |
+| Até 200 litros | Multa de 900,00 UFIRs |
+| Até 0,5 m3 | Multa de 1.800,00 UFIRs |
+| Até 1,0 m3 | Multa de 3.600,00 UFIRs |
+| Até 2,0 m3 | Multa de 7.200,00 UFIRs |
+| Acima de 2,0 m3 | Multa de 10.300,00 UFIRs |
 
 INCISO XXXII
 
 TABELA Nº 3
 
-|Resíduos sólidos especiais classificados nos incisos V, XV, XVI, XVII do § 3º do art. 3º |Multa Aplicável |
-
-| |3.600,00 UFIRs |
+| Resíduos sólidos especiais classificados nos incisos V, XV, XVI, XVII do § 3º do art. 3º | Multa Aplicável |
+| --- | --- |
+|  | 3.600,00 UFIRs |
 
 Os infratores às disposições deste Regulamento relativo às edificações estarão sujeitos às seguintes multas:
 
-|Discriminação da infração ou do dispositivo infringido |Multa aplicável |
-
-|XXXIII - Art. 55 |350,00 UFIRs |
-
-|XXXIV - Art. 56 | |
-
-|§ 1º do art. 56 | |
-
-|§ 2º do art. 56 |350,00 UFIRs |
-
-|§ 3º do art. 56 | |
-
-|XXXV - Art. 58 |1.400,00 UFIRs |
-
-|XXXVI - Art. 59 |1.400,00 UFIRs |
-
-|XXXVII - Art. 60 |1.400,00 UFIRs |
-
-|Por não atender à notificação da SLU dentro do prazo previsto | |
-
-|XXXVIII - Por proceder a qualquer obra de reforma de equipamento de coleta interna e de redução de | |
-
-|lixo sem dispor do licenciamento expedido pela SLU. Por manter em funcionamento os referidos | |
-
-|equipamentos sem dispor da respectiva licença - arts. 65 e 66. |700,00 UFIRs |
-
-|XXXIX - Por manter equipamento de redução de lixo em operação deficiente ou inoperância total. | |
-
-| |700,00 UFIRs |
-
-|XL - Por não atender à ato de interdição, expedido pela SLU, de equipamentos de redução de lixo | |
-
-|em edificações - art. 67. |700,00 UFIRs |
-
-|XLI - Por não atender à notificação da SLU, dentro do prazo fixado, para providenciar os consertos| |
-
-|ou reparos em equipamentos de coleta interna e de redução de lixo - Parágrafo único do art. 67. |700,00 UFIRs |
-
-|XLII - Art. 69 - § 1º |1.400,00 UFIRs |
+| Discriminação da infração ou do dispositivo infringido | Multa aplicável |
+| --- | --- |
+| XXXIII - Art. 55 | 350,00 UFIRs |
+| XXXIV - Art. 56 |  |
+| § 1º do art. 56 |  |
+| § 2º do art. 56 | 350,00 UFIRs |
+| § 3º do art. 56 |  |
+| XXXV - Art. 58 | 1.400,00 UFIRs |
+| XXXVI - Art. 59 | 1.400,00 UFIRs |
+| XXXVII - Art. 60 | 1.400,00 UFIRs |
+| Por não atender à notificação da SLU dentro do prazo previsto |  |
+| XXXVIII - Por proceder a qualquer obra de reforma de equipamento de coleta interna e de redução de |  |
+| lixo sem dispor do licenciamento expedido pela SLU. Por manter em funcionamento os referidos |  |
+| equipamentos sem dispor da respectiva licença - arts. 65 e 66. | 700,00 UFIRs |
+| XXXIX - Por manter equipamento de redução de lixo em operação deficiente ou inoperância total. |  |
+|  | 700,00 UFIRs |
+| XL - Por não atender à ato de interdição, expedido pela SLU, de equipamentos de redução de lixo |  |
+| em edificações - art. 67. | 700,00 UFIRs |
+| XLI - Por não atender à notificação da SLU, dentro do prazo fixado, para providenciar os consertos |  |
+| ou reparos em equipamentos de coleta interna e de redução de lixo - Parágrafo único do art. 67. | 700,00 UFIRs |
+| XLII - Art. 69 - § 1º | 1.400,00 UFIRs |
 
 Os fabricantes, os instaladores e os conservadores de equipamentos de coleta interna e de redução de lixo estarão sujeitos às seguintes multas:
 
-|Discriminação da infração ou do dispositivo infringido |Multa aplicável |
-
-|XLIII - Por instalar equipamentos sem estar devidamente cadastrados na SLU - art. 61. | |
-
-| |1.400,00 UFIRs |
-
-|XLIV - Por reformar e/ou conservar equipamentos sem estar devidamente cadastrados na SLU - art. | |
-
-|61 |700,00 UFIRs |
-
-|XLV - Por instalar equipamentos em discordância com os modelos aprovados e registrados na SLU - |1.400,00 UFIRs |
-
-|art. 63 | |
-
-|XLVI - Por instalar equipamentos em discordância com o presente Regulamento e/ou com as |1.400,00 UFIRs |
-
-|NormasTécnicas da SLU - art. 68 | |
+| Discriminação da infração ou do dispositivo infringido | Multa aplicável |
+| --- | --- |
+| XLIII - Por instalar equipamentos sem estar devidamente cadastrados na SLU - art. 61. |  |
+|  | 1.400,00 UFIRs |
+| XLIV - Por reformar e/ou conservar equipamentos sem estar devidamente cadastrados na SLU - art. |  |
+| 61 | 700,00 UFIRs |
+| XLV - Por instalar equipamentos em discordância com os modelos aprovados e registrados na SLU - | 1.400,00 UFIRs |
+| art. 63 |  |
+| XLVI - Por instalar equipamentos em discordância com o presente Regulamento e/ou com as | 1.400,00 UFIRs |
+| NormasTécnicas da SLU - art. 68 |  |
 
 Os proprietários de animais abandonados nas vias e logradouros públicos estarão sujeitos às seguintes multas:
 
-|Discriminação do Animal Apreendido |Multa aplicável |
-
-|XLVII - Bovinos |60,00 UFIRs |
-
-|XLVIII - Eqüinos |60,00 UFIRs |
-
-|XLIX - Muares |60,00 UFIRs |
-
-|L - Caprinos |60,00 UFIRs |
-
-|LI - Ovinos |60,00 UFIRs |
-
-|LII - Suínos |60,00 UFIRs |
-
-|LIII - Desacato ao agente fiscal, quando no exercício de suas funções, sem prejuízo do |1.500,00 UFIRs |
-
-|procedimento policial e do cumprimento às prescrições do Código Penal Brasileiro. | |
+| Discriminação do Animal Apreendido | Multa aplicável |
+| --- | --- |
+| XLVII - Bovinos | 60,00 UFIRs |
+| XLVIII - Eqüinos | 60,00 UFIRs |
+| XLIX - Muares | 60,00 UFIRs |
+| L - Caprinos | 60,00 UFIRs |
+| LI - Ovinos | 60,00 UFIRs |
+| LII - Suínos | 60,00 UFIRs |
+| LIII - Desacato ao agente fiscal, quando no exercício de suas funções, sem prejuízo do | 1.500,00 UFIRs |
+| procedimento policial e do cumprimento às prescrições do Código Penal Brasileiro. |  |

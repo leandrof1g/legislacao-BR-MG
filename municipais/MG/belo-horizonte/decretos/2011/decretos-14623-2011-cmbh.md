@@ -136,647 +136,332 @@ Metas de Otimização dos Serviços Públicos
 
 de Engenharia e Arquitetura da SLU
 
-|GRUPO |ATIVIDADE |INDICADOR MÍNINO |DETALHAMENTO DAS |
-
-| | |DE PRODUÇÃO |ATIVIDADES |
-
-| |COMPLEXIDADE |ATIVIDADE |DEFINIÇÃO |UNIDADE | | |
-
-|I – PARECER |1 |a | Resposta oficial de baixa |expediente |60 |Execução de resposta com |
-
-|TÉCNICO | | |complexidade. | | |duração de até 2 horas. |
-
-| | |c |Análise de norma, relatório, |expediente |60 |Análise de norma, |
-
-| | | |plano, programa, projeto ou | | |relatório, plano, |
-
-| | | |estudo de baixa complexidade. | | |programa, projeto, estudo |
-
-| | | | | | |ou proposição de lei, com |
-
-| | | | | | |duração máxima de 2 horas.|
-
-| |2 |a |Manipulação e carregamento das|expediente |120 |Atualização de base de |
-
-| | | |informações, dados e imagens | | |dados. |
-
-| | | |digitais de baixa | | | |
-
-| | | |complexidade. | | | |
-
-| | | | | |120 |Atualização de dados |
-
-| | | | | | |fornecidos para atender |
-
-| | | | | | |demandas internas e |
-
-| | | | | | |externas. |
-
-| | |b |Execução de mapas temáticos de|expediente |120 |Atividade de aplicação |
-
-| | | |baixa complexidade. | | |direta, conforme |
-
-| | | | | | |definição. |
-
-| | |c |Elaboração de planilhas e |expediente |120 |Atividade de aplicação |
-
-| | | |cálculos de baixa | | |direta, conforme |
-
-| | | |complexidade. | | |definição. |
-
-| |3 |a |Manipulação e carregamento das|expediente |80 |Atualização de base de |
-
-| | | |informações, dados e imagens | | |dados. |
-
-| | | |digitais de média complexidade| | | |
-
-| | | | |expediente |80 |Atualização de dados |
-
-| | | | | | |fornecidos para atender |
-
-| | | | | | |demandas internas e |
-
-| | | | | | |externas. |
-
-| | |b |Execução de mapas temáticos de|expediente |80 |Atividade de aplicação |
-
-| | | |média complexidade. | | |direta, conforme |
-
-| | | | | | |definição. |
-
-| | |c |Elaboração de planilhas e |expediente |80 |Atividade de aplicação |
-
-| | | |cálculos de média | | |direta, conforme |
-
-| | | |complexidade. | | |definição. |
-
-| |4 |a |Manipulação e carregamento das|expediente |40 |Atualização de base de |
-
-| | | |informações, dados e imagens | | |dados. |
-
-| | | |digitais de alta complexidade | | | |
-
-| | | | | |40 |Atualização de dados |
-
-| | | | | | |fornecidos para atender |
-
-| | | | | | |demandas internas e |
-
-| | | | | | |externas. |
-
-| | |b |Execução de mapas temáticos de|expediente |40 |Atividade de aplicação |
-
-| | | |alta complexidade. | | |direta, conforme |
-
-| | | | | | |definição. |
-
-| | |c |Elaboração de planilhas e |expediente |40 |Atividade de aplicação |
-
-| | | |cálculos de alta complexidade.| | |direta, conforme |
-
-| | | | | | |definição. |
-
-| |5 |a |Manipulação e carregamento das|turno de 4h. |40 |Atualização de base de |
-
-| | | |informações, dados e imagens | | |dados. |
-
-| | | |digitais de especial | | | |
-
-| | | |complexidade | | | |
-
-| | | | | |40 |Atualização de dados |
-
-| | | | | | |fornecidos para atender |
-
-| | | | | | |demandas internas e |
-
-| | | | | | |externas. |
-
-| | |b |Execução de mapas temáticos de|turno de 4h. |40 |Atividade de aplicação |
-
-| | | |especial complexidade. | | |direta, conforme |
-
-| | | | | | |definição. |
-
-| | |c |Elaboração de planilhas e |turno de 4h. |40 |Atividade de aplicação |
-
-| | | |cálculos de especial | | |direta, conforme |
-
-| | | |complexidade. | | |definição. |
-
-|III – |1 |a |Coordenação e supervisão de |informação |400 |Manipulação, carregamento |
-
-|SUPERVISÃO | | |produção de informações. | | |e análise dos dados. |
-
-| |2 |a |Acompanhamento, monitoramento |turno de 4h. |40 |Atividade de aplicação |
-
-| | | |e normatização das rotinas das| | |direta, conforme |
-
-| | | |unidades. | | |definição. |
-
-| | |b |Coordenação e acompanhamento |turno de 4h. |40 |Atividade de aplicação |
-
-| | | |de atividades com | | |direta, conforme |
-
-| | | |consolidação de pareceres. | | |definição. |
-
-| | |c |Coordenação e supervisão de |turno de 4h. |40 |Atividade de aplicação |
-
-| | | |informações de monitoramento | | |direta, conforme |
-
-| | | |ambiental. | | |definição. |
-
-| | |d |Coordenação e supervisão de |turno de 4h. |40 |Atividade de aplicação |
-
-| | | |equipes. | | |direta, conforme |
-
-| | | | | | |definição. |
-
-|IV- |1 |a |Acompanhamento de processos |expediente |40 |Atividade de aplicação |
-
-|LICENCIAMENT| | |envolvendo os órgãos | | |direta, conforme |
-
-|O | | |municipais, incluindo | | |definição. |
-
-| | | |monitoramento de prazo, | | | |
-
-| | | |análise conclusiva e | | | |
-
-| | | |encaminhamento da avaliação de| | | |
-
-| | | |todas as interfaces, com | | | |
-
-| | | |comunicado ao interessado. | | | |
-
-|V – |1 |a |Coordenação de equipe própria |expediente |65 |Emissão de ordem de |
-
-|ACOMPANHAMEN| | |e/ou terceirizada para | | |serviço |
-
-|TO DE | | |execução de serviços, | | | |
-
-|EMPREENDIMEN| | |inclusive sua quantificação | | | |
-
-|TOS | | |para elaboração de medição de | | | |
-
-| | | |baixa complexidade. | | | |
-
-| | | | |expediente |65 |Fiscalização de serviços, |
-
-| | | | | | |reuniões periódicas, |
-
-| | | | | | |acompanhamento do |
-
-| | | | | | |contrato/convênio e |
-
-| | | | | | |medição. |
-
-| | | | |expediente |65 |Avaliação de execução de |
-
-| | | | | | |planilha de serviços, |
-
-| | | | | | |incluindo sugestões para |
-
-| | | | | | |viabilizar medição e |
-
-| | | | | | |conclusão dos serviços. |
-
-| | | | |expediente |65 |Acompanhamento de |
-
-| | | | | | |serviços, reuniões |
-
-| | | | | | |periódicas, acompanhamento|
-
-| | | | | | |do contrato/convênio e |
-
-| | | | | | |medição. |
-
-| | | | |expediente |65 |Manutenção ou reforma de |
-
-| | | | | | |veículos, máquinas ou |
-
-| | | | | | |equipamentos afetos à |
-
-| | | | | | |limpeza urbana e outros |
-
-| | | | | | |serviços correlatos. |
-
-| | | | |expediente |65 |Instalação de contêineres,|
-
-| | | | | | |placas educativas e outros|
-
-| | | | | | |equipamentos de instalação|
-
-| | | | | | |de baixa complexidade. |
-
-| |2 |a |Acompanhamento de equipe |expediente |50 |Fiscalização de serviços, |
-
-| | | |própria e/ou terceirizada para| | |reuniões periódicas, |
-
-| | | |execução de serviços, | | |acompanhamento do |
-
-| | | |inclusive sua quantificação | | |contrato/convênio e |
-
-| | | |para elaboração de medição de | | |medição. |
-
-| | | |baixa complexidade. | | | |
-
-| | | | |expediente |50 |Avaliação de execução de |
-
-| | | | | | |planilha de serviços, |
-
-| | | | | | |incluindo sugestões para |
-
-| | | | | | |viabilizar medição e |
-
-| | | | | | |conclusão dos serviços. |
-
-| | | | |expediente |50 |Acompanhamento dos |
-
-| | | | | | |serviços. |
-
-| | | | |expediente |50 |Manutenção ou reforma de |
-
-| | | | | | |veículos, máquinas ou |
-
-| | | | | | |equipamentos afetos à |
-
-| | | | | | |limpeza urbana e outros |
-
-| | | | | | |serviços correlatos. |
-
-| | | | |expediente |50 |Instalação de contêineres,|
-
-| | | | | | |placas educativas e outros|
-
-| | | | | | |equipamentos de instalação|
-
-| | | | | | |de baixa complexidade. |
-
-| | |b |Coordenar equipe própria e/ou |expediente |50 |Fiscalização de serviços, |
-
-| | | |terceirizada para execução de | | |reuniões periódicas, |
-
-| | | |serviços, inclusive sua | | |acompanhamento do |
-
-| | | |quantificação para elaboração | | |contrato/convênio e |
-
-| | | |de medição de média | | |medição. |
-
-| | | |complexidade. | | | |
-
-| | | | |expediente |50 |Avaliação de execução de |
-
-| | | | | | |planilha de serviços, |
-
-| | | | | | |incluindo sugestões para |
-
-| | | | | | |viabilizar medição e |
-
-| | | | | | |conclusão dos serviços. |
-
-| | | | |expediente |50 |Acompanhamento dos |
-
-| | | | | | |serviços. |
-
-| | | | |expediente |50 |Manutenção ou reforma de |
-
-| | | | | | |veículos, máquinas ou |
-
-| | | | | | |equipamentos afetos à |
-
-| | | | | | |limpeza urbana e outros |
-
-| | | | | | |serviços correlatos. |
-
-| | | | |expediente |50 |Instalação de contêineres,|
-
-| | | | | | |placas educativas e outros|
-
-| | | | | | |equipamentos de instalação|
-
-| | | | | | |de média complexidade. |
-
-| |3 |a |Realização de vistorias ou |turno de 4 h. |40 |Para subsidiar |
-
-| | | |acompanhamento de equipe | | |planejamento, projeto, |
-
-| | | |própria e/ou terceirizada para| | |plano, parecer, laudo, |
-
-| | | |execução de serviços, | | |medição e monitoramento. |
-
-| | | |inclusive sua quantificação | | | |
-
-| | | |para elaboração de medição . | | | |
-
-| | | | |expediente |30 |Avaliação de execução de |
-
-| | | | | | |planilha de serviços, |
-
-| | | | | | |incluindo sugestões para |
-
-| | | | | | |viabilizar medição e |
-
-| | | | | | |conclusão dos serviços. |
-
-| | | | |expediente |30 |Acompanhamento dos |
-
-| | | | | | |serviços. |
-
-| | | | |expediente |30 |Manutenção ou reforma de |
-
-| | | | | | |veículos, máquinas ou |
-
-| | | | | | |equipamentos afetos à |
-
-| | | | | | |limpeza urbana e outros |
-
-| | | | | | |serviços correlatos. |
-
-| | | | |expediente |30 |Instalação de contêineres,|
-
-| | | | | | |placas educativas e outros|
-
-| | | | | | |equipamentos de instalação|
-
-| | | | | | |de média complexidade. |
-
-| |5 |a |Controle de contratos, |expediente |25 |Compatibilização do |
-
-| | | |convênios e serviços de média | | |orçamento municipal com os|
-
-| | | |complexidade | | |contratos, execução |
-
-| | | | | | |financeira, prestação de |
-
-| | | | | | |contas. |
-
-| | | | |expediente |25 |Acompanhamento de saldo |
-
-| | | | | | |contratual. |
-
-| | | | |expediente |25 |Expediente de |
-
-| | | | | | |acompanhamento de |
-
-| | | | | | |empreendimentos ou |
-
-| | | | | | |serviços de média |
-
-| | | | | | |complexidade com os |
-
-| | | | | | |devidos encaminhamentos. |
-
-| | |b |Monitoramento operacional, |expediente |25 |Atividade de aplicação |
-
-| | | |ambiental e geotécnico, | | |direta, conforme |
-
-| | | |incluindo vistoria técnica. | | |definição. |
-
-| | | | |expediente |25 |Avaliação de execução de |
-
-| | | | | | |planilha de serviços, |
-
-| | | | | | |incluindo sugestões para |
-
-| | | | | | |viabilizar medição e |
-
-| | | | | | |conclusão do serviço. |
-
-| | | | |expediente |25 |Acompanhamento dos |
-
-| | | | | | |serviços. |
-
-| | | | |expediente |25 |Manutenção ou reforma de |
-
-| | | | | | |veículos, máquinas ou |
-
-| | | | | | |equipamentos afetos à |
-
-| | | | | | |limpeza urbana e outros |
-
-| | | | | | |serviços correlatos. |
-
-| | | | |expediente |25 |Instalação de contêineres,|
-
-| | | | | | |placas educativas e outros|
-
-| | | | | | |equipamentos de instalação|
-
-| | | | | | |de alta complexidade. |
-
-| |6 |a |Acompanhamento de equipe |expediente |10 |Fiscalização de serviços, |
-
-| | | |própria e/ou terceirizada para| | |reuniões periódicas, |
-
-| | | |execução de serviços, | | |acompanhamento do |
-
-| | | |inclusive sua quantificação | | |contrato/convênio e |
-
-| | | |para elaboração de medição de | | |medição. |
-
-| | | |alta complexidade. | | | |
-
-| | | | |expediente |10 |Avaliação de execução de |
-
-| | | | | | |planilha de serviços, |
-
-| | | | | | |incluindo sugestões para |
-
-| | | | | | |viabilizar medição e |
-
-| | | | | | |conclusão do serviço. |
-
-| | | | |expediente |10 |Acompanhamento dos |
-
-| | | | | | |serviços. |
-
-| | | | |expediente |10 |Manutenção ou reforma de |
-
-| | | | | | |veículos, máquinas ou |
-
-| | | | | | |equipamentos afetos à |
-
-| | | | | | |limpeza urbana e outros |
-
-| | | | | | |serviços correlatos. |
-
-| | | | |expediente |10 |Instalação de contêineres,|
-
-| | | | | | |placas educativas e outros|
-
-| | | | | | |equipamentos de instalação|
-
-| | | | | | |de alta complexidade. |
-
-| | |b |Controle de contratos e |expediente |10 |Acompanhamento técnico |
-
-| | | |convênios especiais e medição | | |feito a partir de |
-
-| | | |dos serviços executados de | | |designação superior. |
-
-| | | |alta complexidade. | | | |
-
-| |7 |a |Participação em plantões de |expediente |10 |Atividade de aplicação |
-
-| | | |grupos executivos. | | |direta, conforme |
-
-| | | | | | |definição. |
-
-|VI - |1 |a |Atendimento por telefone ao |atendimento |120 |Atividade de aplicação |
-
-|ATENDIMENTO | | |público interno ou externo | | |direta, conforme |
-
-|AO PÚBLICO | | |referente a todos os temas | | |definição. |
-
-|INTERNO E | | |afetos à limpeza urbana. | | | |
-
-|EXTERNO | | | | | | |
-
-| |2 |a |Atendimento ao público interno|atendimento |80 |Atividade de aplicação |
-
-| | | |ou externos referente a todos | | |direta, conforme |
-
-| | | |os temas afetos à limpeza | | |definição. |
-
-| | | |urbana. | | | |
-
-| |3 |a |Acompanhamento de grupos em |turno de 4h. |40 |Atividade de aplicação |
-
-| | | |visitas técnicas às | | |direta, conforme |
-
-| | | |instalações, programas e | | |definição. |
-
-| | | |projetos da autarquia. | | | |
-
-| |4 |a |Atendimento ao público externo|atendimento |30 |Atividade de aplicação |
-
-| | | |referente a todos os temas | | |direta, conforme |
-
-| | | |afetos à limpeza urbana, | | |definição. |
-
-| | | |mediante agendamento. | | | |
-
-| | |b |Concessão de entrevistas à |atendimento |30 |Atividade de aplicação |
-
-| | | |imprensa, por designação | | |direta, conforme |
-
-| | | |superior. | | |definição. |
-
-|VII - |1 |a |Participação em palestra, |turno de 4h. |40 |Atividade de aplicação |
-
-|PLANEJAMENTO| | |curso, seminário, oficina ou | | |direta, conforme |
-
-| | | |treinamento em assuntos de | | |definição. |
-
-| | | |relevância para a atividade | | | |
-
-| | | |desenvolvida. | | | |
-
-| | |b |Realização de visita técnica |turno de 4h. |40 |Atividade de aplicação |
-
-| | | |para subsidiar tomadas de | | |direta, conforme |
-
-| | | |decisão e pareceres. | | |definição. |
-
-| | |c |Acompanhamento de processos |turno de 4h. |40 |Atividade de aplicação |
-
-| | | |junto a agentes financeiros e | | |direta, conforme |
-
-| | | |órgãos estaduais e federais. | | |definição. |
-
-| | |d |Elaborar, coordenar, |turno de 4h. |40 |Atividade de aplicação |
-
-| | | |acompanhar ou gerir plano, | | |direta, conforme |
-
-| | | |projeto, diagnóstico, estudo, | | |definição. |
-
-| | | |programa ou ação específica | | | |
-
-| | | |por designação superior. | | | |
-
-| | |e |Elaboração de normas, |turno de 4h. |40 |Atividade de aplicação |
-
-| | | |regulamentos, termo de | | |direta, conforme |
-
-| | | |referência, pedidos de compra,| | |definição. |
-
-| | | |materiais e serviços, por | | | |
-
-| | | |designação superior. | | | |
-
-| | |
-
-|Execução de serviços especializados de engenharia e arquitetura, conforme Anexo I |Média da meta mensal da autarquia maior ou|
-
-| |igual ao acréscimo de 10% sobre a meta de |
-
-| |otimização dos serviços públicos |
-
-| |especializados de engenharia e |
-
-| |arquitetura. |
+| GRUPO | ATIVIDADE | INDICADOR MÍNINO | DETALHAMENTO DAS |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | DE PRODUÇÃO | ATIVIDADES |  |  |  |
+|  | COMPLEXIDADE | ATIVIDADE | DEFINIÇÃO | UNIDADE |  |  |
+| I – PARECER | 1 | a | Resposta oficial de baixa | expediente | 60 | Execução de resposta com |
+| TÉCNICO |  |  | complexidade. |  |  | duração de até 2 horas. |
+|  |  | c | Análise de norma, relatório, | expediente | 60 | Análise de norma, |
+|  |  |  | plano, programa, projeto ou |  |  | relatório, plano, |
+|  |  |  | estudo de baixa complexidade. |  |  | programa, projeto, estudo |
+|  |  |  |  |  |  | ou proposição de lei, com |
+|  |  |  |  |  |  | duração máxima de 2 horas. |
+|  | 2 | a | Manipulação e carregamento das | expediente | 120 | Atualização de base de |
+|  |  |  | informações, dados e imagens |  |  | dados. |
+|  |  |  | digitais de baixa |  |  |  |
+|  |  |  | complexidade. |  |  |  |
+|  |  |  |  |  | 120 | Atualização de dados |
+|  |  |  |  |  |  | fornecidos para atender |
+|  |  |  |  |  |  | demandas internas e |
+|  |  |  |  |  |  | externas. |
+|  |  | b | Execução de mapas temáticos de | expediente | 120 | Atividade de aplicação |
+|  |  |  | baixa complexidade. |  |  | direta, conforme |
+|  |  |  |  |  |  | definição. |
+|  |  | c | Elaboração de planilhas e | expediente | 120 | Atividade de aplicação |
+|  |  |  | cálculos de baixa |  |  | direta, conforme |
+|  |  |  | complexidade. |  |  | definição. |
+|  | 3 | a | Manipulação e carregamento das | expediente | 80 | Atualização de base de |
+|  |  |  | informações, dados e imagens |  |  | dados. |
+|  |  |  | digitais de média complexidade |  |  |  |
+|  |  |  |  | expediente | 80 | Atualização de dados |
+|  |  |  |  |  |  | fornecidos para atender |
+|  |  |  |  |  |  | demandas internas e |
+|  |  |  |  |  |  | externas. |
+|  |  | b | Execução de mapas temáticos de | expediente | 80 | Atividade de aplicação |
+|  |  |  | média complexidade. |  |  | direta, conforme |
+|  |  |  |  |  |  | definição. |
+|  |  | c | Elaboração de planilhas e | expediente | 80 | Atividade de aplicação |
+|  |  |  | cálculos de média |  |  | direta, conforme |
+|  |  |  | complexidade. |  |  | definição. |
+|  | 4 | a | Manipulação e carregamento das | expediente | 40 | Atualização de base de |
+|  |  |  | informações, dados e imagens |  |  | dados. |
+|  |  |  | digitais de alta complexidade |  |  |  |
+|  |  |  |  |  | 40 | Atualização de dados |
+|  |  |  |  |  |  | fornecidos para atender |
+|  |  |  |  |  |  | demandas internas e |
+|  |  |  |  |  |  | externas. |
+|  |  | b | Execução de mapas temáticos de | expediente | 40 | Atividade de aplicação |
+|  |  |  | alta complexidade. |  |  | direta, conforme |
+|  |  |  |  |  |  | definição. |
+|  |  | c | Elaboração de planilhas e | expediente | 40 | Atividade de aplicação |
+|  |  |  | cálculos de alta complexidade. |  |  | direta, conforme |
+|  |  |  |  |  |  | definição. |
+|  | 5 | a | Manipulação e carregamento das | turno de 4h. | 40 | Atualização de base de |
+|  |  |  | informações, dados e imagens |  |  | dados. |
+|  |  |  | digitais de especial |  |  |  |
+|  |  |  | complexidade |  |  |  |
+|  |  |  |  |  | 40 | Atualização de dados |
+|  |  |  |  |  |  | fornecidos para atender |
+|  |  |  |  |  |  | demandas internas e |
+|  |  |  |  |  |  | externas. |
+|  |  | b | Execução de mapas temáticos de | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | especial complexidade. |  |  | direta, conforme |
+|  |  |  |  |  |  | definição. |
+|  |  | c | Elaboração de planilhas e | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | cálculos de especial |  |  | direta, conforme |
+|  |  |  | complexidade. |  |  | definição. |
+| III – | 1 | a | Coordenação e supervisão de | informação | 400 | Manipulação, carregamento |
+| SUPERVISÃO |  |  | produção de informações. |  |  | e análise dos dados. |
+|  | 2 | a | Acompanhamento, monitoramento | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | e normatização das rotinas das |  |  | direta, conforme |
+|  |  |  | unidades. |  |  | definição. |
+|  |  | b | Coordenação e acompanhamento | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | de atividades com |  |  | direta, conforme |
+|  |  |  | consolidação de pareceres. |  |  | definição. |
+|  |  | c | Coordenação e supervisão de | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | informações de monitoramento |  |  | direta, conforme |
+|  |  |  | ambiental. |  |  | definição. |
+|  |  | d | Coordenação e supervisão de | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | equipes. |  |  | direta, conforme |
+|  |  |  |  |  |  | definição. |
+| IV- | 1 | a | Acompanhamento de processos | expediente | 40 | Atividade de aplicação |
+| LICENCIAMENT |  |  | envolvendo os órgãos |  |  | direta, conforme |
+| O |  |  | municipais, incluindo |  |  | definição. |
+|  |  |  | monitoramento de prazo, |  |  |  |
+|  |  |  | análise conclusiva e |  |  |  |
+|  |  |  | encaminhamento da avaliação de |  |  |  |
+|  |  |  | todas as interfaces, com |  |  |  |
+|  |  |  | comunicado ao interessado. |  |  |  |
+| V – | 1 | a | Coordenação de equipe própria | expediente | 65 | Emissão de ordem de |
+| ACOMPANHAMEN |  |  | e/ou terceirizada para |  |  | serviço |
+| TO DE |  |  | execução de serviços, |  |  |  |
+| EMPREENDIMEN |  |  | inclusive sua quantificação |  |  |  |
+| TOS |  |  | para elaboração de medição de |  |  |  |
+|  |  |  | baixa complexidade. |  |  |  |
+|  |  |  |  | expediente | 65 | Fiscalização de serviços, |
+|  |  |  |  |  |  | reuniões periódicas, |
+|  |  |  |  |  |  | acompanhamento do |
+|  |  |  |  |  |  | contrato/convênio e |
+|  |  |  |  |  |  | medição. |
+|  |  |  |  | expediente | 65 | Avaliação de execução de |
+|  |  |  |  |  |  | planilha de serviços, |
+|  |  |  |  |  |  | incluindo sugestões para |
+|  |  |  |  |  |  | viabilizar medição e |
+|  |  |  |  |  |  | conclusão dos serviços. |
+|  |  |  |  | expediente | 65 | Acompanhamento de |
+|  |  |  |  |  |  | serviços, reuniões |
+|  |  |  |  |  |  | periódicas, acompanhamento |
+|  |  |  |  |  |  | do contrato/convênio e |
+|  |  |  |  |  |  | medição. |
+|  |  |  |  | expediente | 65 | Manutenção ou reforma de |
+|  |  |  |  |  |  | veículos, máquinas ou |
+|  |  |  |  |  |  | equipamentos afetos à |
+|  |  |  |  |  |  | limpeza urbana e outros |
+|  |  |  |  |  |  | serviços correlatos. |
+|  |  |  |  | expediente | 65 | Instalação de contêineres, |
+|  |  |  |  |  |  | placas educativas e outros |
+|  |  |  |  |  |  | equipamentos de instalação |
+|  |  |  |  |  |  | de baixa complexidade. |
+|  | 2 | a | Acompanhamento de equipe | expediente | 50 | Fiscalização de serviços, |
+|  |  |  | própria e/ou terceirizada para |  |  | reuniões periódicas, |
+|  |  |  | execução de serviços, |  |  | acompanhamento do |
+|  |  |  | inclusive sua quantificação |  |  | contrato/convênio e |
+|  |  |  | para elaboração de medição de |  |  | medição. |
+|  |  |  | baixa complexidade. |  |  |  |
+|  |  |  |  | expediente | 50 | Avaliação de execução de |
+|  |  |  |  |  |  | planilha de serviços, |
+|  |  |  |  |  |  | incluindo sugestões para |
+|  |  |  |  |  |  | viabilizar medição e |
+|  |  |  |  |  |  | conclusão dos serviços. |
+|  |  |  |  | expediente | 50 | Acompanhamento dos |
+|  |  |  |  |  |  | serviços. |
+|  |  |  |  | expediente | 50 | Manutenção ou reforma de |
+|  |  |  |  |  |  | veículos, máquinas ou |
+|  |  |  |  |  |  | equipamentos afetos à |
+|  |  |  |  |  |  | limpeza urbana e outros |
+|  |  |  |  |  |  | serviços correlatos. |
+|  |  |  |  | expediente | 50 | Instalação de contêineres, |
+|  |  |  |  |  |  | placas educativas e outros |
+|  |  |  |  |  |  | equipamentos de instalação |
+|  |  |  |  |  |  | de baixa complexidade. |
+|  |  | b | Coordenar equipe própria e/ou | expediente | 50 | Fiscalização de serviços, |
+|  |  |  | terceirizada para execução de |  |  | reuniões periódicas, |
+|  |  |  | serviços, inclusive sua |  |  | acompanhamento do |
+|  |  |  | quantificação para elaboração |  |  | contrato/convênio e |
+|  |  |  | de medição de média |  |  | medição. |
+|  |  |  | complexidade. |  |  |  |
+|  |  |  |  | expediente | 50 | Avaliação de execução de |
+|  |  |  |  |  |  | planilha de serviços, |
+|  |  |  |  |  |  | incluindo sugestões para |
+|  |  |  |  |  |  | viabilizar medição e |
+|  |  |  |  |  |  | conclusão dos serviços. |
+|  |  |  |  | expediente | 50 | Acompanhamento dos |
+|  |  |  |  |  |  | serviços. |
+|  |  |  |  | expediente | 50 | Manutenção ou reforma de |
+|  |  |  |  |  |  | veículos, máquinas ou |
+|  |  |  |  |  |  | equipamentos afetos à |
+|  |  |  |  |  |  | limpeza urbana e outros |
+|  |  |  |  |  |  | serviços correlatos. |
+|  |  |  |  | expediente | 50 | Instalação de contêineres, |
+|  |  |  |  |  |  | placas educativas e outros |
+|  |  |  |  |  |  | equipamentos de instalação |
+|  |  |  |  |  |  | de média complexidade. |
+|  | 3 | a | Realização de vistorias ou | turno de 4 h. | 40 | Para subsidiar |
+|  |  |  | acompanhamento de equipe |  |  | planejamento, projeto, |
+|  |  |  | própria e/ou terceirizada para |  |  | plano, parecer, laudo, |
+|  |  |  | execução de serviços, |  |  | medição e monitoramento. |
+|  |  |  | inclusive sua quantificação |  |  |  |
+|  |  |  | para elaboração de medição . |  |  |  |
+|  |  |  |  | expediente | 30 | Avaliação de execução de |
+|  |  |  |  |  |  | planilha de serviços, |
+|  |  |  |  |  |  | incluindo sugestões para |
+|  |  |  |  |  |  | viabilizar medição e |
+|  |  |  |  |  |  | conclusão dos serviços. |
+|  |  |  |  | expediente | 30 | Acompanhamento dos |
+|  |  |  |  |  |  | serviços. |
+|  |  |  |  | expediente | 30 | Manutenção ou reforma de |
+|  |  |  |  |  |  | veículos, máquinas ou |
+|  |  |  |  |  |  | equipamentos afetos à |
+|  |  |  |  |  |  | limpeza urbana e outros |
+|  |  |  |  |  |  | serviços correlatos. |
+|  |  |  |  | expediente | 30 | Instalação de contêineres, |
+|  |  |  |  |  |  | placas educativas e outros |
+|  |  |  |  |  |  | equipamentos de instalação |
+|  |  |  |  |  |  | de média complexidade. |
+|  | 5 | a | Controle de contratos, | expediente | 25 | Compatibilização do |
+|  |  |  | convênios e serviços de média |  |  | orçamento municipal com os |
+|  |  |  | complexidade |  |  | contratos, execução |
+|  |  |  |  |  |  | financeira, prestação de |
+|  |  |  |  |  |  | contas. |
+|  |  |  |  | expediente | 25 | Acompanhamento de saldo |
+|  |  |  |  |  |  | contratual. |
+|  |  |  |  | expediente | 25 | Expediente de |
+|  |  |  |  |  |  | acompanhamento de |
+|  |  |  |  |  |  | empreendimentos ou |
+|  |  |  |  |  |  | serviços de média |
+|  |  |  |  |  |  | complexidade com os |
+|  |  |  |  |  |  | devidos encaminhamentos. |
+|  |  | b | Monitoramento operacional, | expediente | 25 | Atividade de aplicação |
+|  |  |  | ambiental e geotécnico, |  |  | direta, conforme |
+|  |  |  | incluindo vistoria técnica. |  |  | definição. |
+|  |  |  |  | expediente | 25 | Avaliação de execução de |
+|  |  |  |  |  |  | planilha de serviços, |
+|  |  |  |  |  |  | incluindo sugestões para |
+|  |  |  |  |  |  | viabilizar medição e |
+|  |  |  |  |  |  | conclusão do serviço. |
+|  |  |  |  | expediente | 25 | Acompanhamento dos |
+|  |  |  |  |  |  | serviços. |
+|  |  |  |  | expediente | 25 | Manutenção ou reforma de |
+|  |  |  |  |  |  | veículos, máquinas ou |
+|  |  |  |  |  |  | equipamentos afetos à |
+|  |  |  |  |  |  | limpeza urbana e outros |
+|  |  |  |  |  |  | serviços correlatos. |
+|  |  |  |  | expediente | 25 | Instalação de contêineres, |
+|  |  |  |  |  |  | placas educativas e outros |
+|  |  |  |  |  |  | equipamentos de instalação |
+|  |  |  |  |  |  | de alta complexidade. |
+|  | 6 | a | Acompanhamento de equipe | expediente | 10 | Fiscalização de serviços, |
+|  |  |  | própria e/ou terceirizada para |  |  | reuniões periódicas, |
+|  |  |  | execução de serviços, |  |  | acompanhamento do |
+|  |  |  | inclusive sua quantificação |  |  | contrato/convênio e |
+|  |  |  | para elaboração de medição de |  |  | medição. |
+|  |  |  | alta complexidade. |  |  |  |
+|  |  |  |  | expediente | 10 | Avaliação de execução de |
+|  |  |  |  |  |  | planilha de serviços, |
+|  |  |  |  |  |  | incluindo sugestões para |
+|  |  |  |  |  |  | viabilizar medição e |
+|  |  |  |  |  |  | conclusão do serviço. |
+|  |  |  |  | expediente | 10 | Acompanhamento dos |
+|  |  |  |  |  |  | serviços. |
+|  |  |  |  | expediente | 10 | Manutenção ou reforma de |
+|  |  |  |  |  |  | veículos, máquinas ou |
+|  |  |  |  |  |  | equipamentos afetos à |
+|  |  |  |  |  |  | limpeza urbana e outros |
+|  |  |  |  |  |  | serviços correlatos. |
+|  |  |  |  | expediente | 10 | Instalação de contêineres, |
+|  |  |  |  |  |  | placas educativas e outros |
+|  |  |  |  |  |  | equipamentos de instalação |
+|  |  |  |  |  |  | de alta complexidade. |
+|  |  | b | Controle de contratos e | expediente | 10 | Acompanhamento técnico |
+|  |  |  | convênios especiais e medição |  |  | feito a partir de |
+|  |  |  | dos serviços executados de |  |  | designação superior. |
+|  |  |  | alta complexidade. |  |  |  |
+|  | 7 | a | Participação em plantões de | expediente | 10 | Atividade de aplicação |
+|  |  |  | grupos executivos. |  |  | direta, conforme |
+|  |  |  |  |  |  | definição. |
+| VI - | 1 | a | Atendimento por telefone ao | atendimento | 120 | Atividade de aplicação |
+| ATENDIMENTO |  |  | público interno ou externo |  |  | direta, conforme |
+| AO PÚBLICO |  |  | referente a todos os temas |  |  | definição. |
+| INTERNO E |  |  | afetos à limpeza urbana. |  |  |  |
+| EXTERNO |  |  |  |  |  |  |
+|  | 2 | a | Atendimento ao público interno | atendimento | 80 | Atividade de aplicação |
+|  |  |  | ou externos referente a todos |  |  | direta, conforme |
+|  |  |  | os temas afetos à limpeza |  |  | definição. |
+|  |  |  | urbana. |  |  |  |
+|  | 3 | a | Acompanhamento de grupos em | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | visitas técnicas às |  |  | direta, conforme |
+|  |  |  | instalações, programas e |  |  | definição. |
+|  |  |  | projetos da autarquia. |  |  |  |
+|  | 4 | a | Atendimento ao público externo | atendimento | 30 | Atividade de aplicação |
+|  |  |  | referente a todos os temas |  |  | direta, conforme |
+|  |  |  | afetos à limpeza urbana, |  |  | definição. |
+|  |  |  | mediante agendamento. |  |  |  |
+|  |  | b | Concessão de entrevistas à | atendimento | 30 | Atividade de aplicação |
+|  |  |  | imprensa, por designação |  |  | direta, conforme |
+|  |  |  | superior. |  |  | definição. |
+| VII - | 1 | a | Participação em palestra, | turno de 4h. | 40 | Atividade de aplicação |
+| PLANEJAMENTO |  |  | curso, seminário, oficina ou |  |  | direta, conforme |
+|  |  |  | treinamento em assuntos de |  |  | definição. |
+|  |  |  | relevância para a atividade |  |  |  |
+|  |  |  | desenvolvida. |  |  |  |
+|  |  | b | Realização de visita técnica | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | para subsidiar tomadas de |  |  | direta, conforme |
+|  |  |  | decisão e pareceres. |  |  | definição. |
+|  |  | c | Acompanhamento de processos | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | junto a agentes financeiros e |  |  | direta, conforme |
+|  |  |  | órgãos estaduais e federais. |  |  | definição. |
+|  |  | d | Elaborar, coordenar, | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | acompanhar ou gerir plano, |  |  | direta, conforme |
+|  |  |  | projeto, diagnóstico, estudo, |  |  | definição. |
+|  |  |  | programa ou ação específica |  |  |  |
+|  |  |  | por designação superior. |  |  |  |
+|  |  | e | Elaboração de normas, | turno de 4h. | 40 | Atividade de aplicação |
+|  |  |  | regulamentos, termo de |  |  | direta, conforme |
+|  |  |  | referência, pedidos de compra, |  |  | definição. |
+|  |  |  | materiais e serviços, por |  |  |  |
+|  |  |  | designação superior. |  |  |  |
+|  |  |  |  |  |  |  |
+| Execução de serviços especializados de engenharia e arquitetura, conforme Anexo I | Média da meta mensal da autarquia maior ou |  |  |  |  |  |
+|  | igual ao acréscimo de 10% sobre a meta de |  |  |  |  |  |
+|  | otimização dos serviços públicos |  |  |  |  |  |
+|  | especializados de engenharia e |  |  |  |  |  |
+|  | arquitetura. |  |  |  |  |  |
 
 ANEXO II-B
 
 Superação das Metas de Otimização dos Serviços Públicos de Engenharia e Arquitetura da SUDECAP
 
-|UNIDADE |PRODUTOS |META |
-
-|DIRETORIA DE |Acompanhamento de Plano, Projeto ou Estudo |Redução de 10% do prazo do cronograma |
-
-|EDIFICAÇÕES | |pré-programado |
-
-| |Elaboração de Vistoria, Parecer Técnico, Orçamento ou Realinhamento |Redução de 10% do planejamento do |
-
-| | |cronograma pré-programado |
-
-|DIRETORIA DE |Acompanhamento de Plano, Obra ou Serviço Técnico |Redução de 10% do prazo do cronograma |
-
-|INFRAESTRUTURA | |pré-programado |
-
-| | Solicitação de remoção de Interferências em Obra |Redução de 10% do prazo do cronograma |
-
-| | |pré-programado |
-
-| |Controle de Aditivos de Valor |Redução de 10% do valor da média |
-
-| | |histórica pré-definida |
-
-|DIRETORIA DE |Emissão de Atestados solicitados por Empresas |Redução de 10% do prazo do cronograma |
-
-|PLANEJAMENTO E | |pré-programado |
-
-|GESTÃO | | |
-
-| |Emissão de Parecer técnico sobre consulta público interno/externo |Redução de 10% do prazo do cronograma |
-
-| | |pré-programado |
-
-|DIRETORIA |Vistoria Técnica de Segurança do Trabalho |Redução de 10% do prazo do planejamento |
-
-|ADMINISTRATIVA / | |pré-programado |
-
-|FINANCEIRA | | |
-
-| |Ação de Promoção da Saúde |Redução de 10% do prazo do planejamento |
-
-| | |pré-programado |
-
-|DIRETORIA DE |Acompanhamento de Plano, Obra ou Serviço Técnico |Redução de 10% do prazo do cronograma |
-
-|MANUTENÇÃO | |pré-programado |
-
-| | Atendimento da solicitação de remoção de Interferências em Obra |Redução de 10% do prazo do cronograma |
-
-| | |pré-programado |
-
-| | Elaboração de vistoria, parecer técnico ou orçamentos |Redução de 10% do prazo do cronograma |
-
-| | |pré-programado |
-
-|DIRETORIA JURÍDICA |Elaboração de Avaliação de Imóveis ou Parecer Técnico |10 Unidades de Produção (UP) acima do |
-
-| | |mínimo estabelecido para o grupo |
+| UNIDADE | PRODUTOS | META |
+| --- | --- | --- |
+| DIRETORIA DE | Acompanhamento de Plano, Projeto ou Estudo | Redução de 10% do prazo do cronograma |
+| EDIFICAÇÕES |  | pré-programado |
+|  | Elaboração de Vistoria, Parecer Técnico, Orçamento ou Realinhamento | Redução de 10% do planejamento do |
+|  |  | cronograma pré-programado |
+| DIRETORIA DE | Acompanhamento de Plano, Obra ou Serviço Técnico | Redução de 10% do prazo do cronograma |
+| INFRAESTRUTURA |  | pré-programado |
+|  | Solicitação de remoção de Interferências em Obra | Redução de 10% do prazo do cronograma |
+|  |  | pré-programado |
+|  | Controle de Aditivos de Valor | Redução de 10% do valor da média |
+|  |  | histórica pré-definida |
+| DIRETORIA DE | Emissão de Atestados solicitados por Empresas | Redução de 10% do prazo do cronograma |
+| PLANEJAMENTO E |  | pré-programado |
+| GESTÃO |  |  |
+|  | Emissão de Parecer técnico sobre consulta público interno/externo | Redução de 10% do prazo do cronograma |
+|  |  | pré-programado |
+| DIRETORIA | Vistoria Técnica de Segurança do Trabalho | Redução de 10% do prazo do planejamento |
+| ADMINISTRATIVA / |  | pré-programado |
+| FINANCEIRA |  |  |
+|  | Ação de Promoção da Saúde | Redução de 10% do prazo do planejamento |
+|  |  | pré-programado |
+| DIRETORIA DE | Acompanhamento de Plano, Obra ou Serviço Técnico | Redução de 10% do prazo do cronograma |
+| MANUTENÇÃO |  | pré-programado |
+|  | Atendimento da solicitação de remoção de Interferências em Obra | Redução de 10% do prazo do cronograma |
+|  |  | pré-programado |
+|  | Elaboração de vistoria, parecer técnico ou orçamentos | Redução de 10% do prazo do cronograma |
+|  |  | pré-programado |
+| DIRETORIA JURÍDICA | Elaboração de Avaliação de Imóveis ou Parecer Técnico | 10 Unidades de Produção (UP) acima do |
+|  |  | mínimo estabelecido para o grupo |
 
 ## Anexos e outros documentos
 

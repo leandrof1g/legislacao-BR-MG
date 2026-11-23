@@ -52,91 +52,54 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I – A favor dos seguintes órgãos, conforme autorização contida nos arts. 1º e 3º da Lei nº 11.377,|
-
-|de 8 de julho de 2022: |
-
-|R$ |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.126.302.2.404.3390.0000 |150.000,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.228.2.537.3390.0000 |50.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.217.2.853.3350.0000 |1.040.000,00 |
-
-|2800.04.122.217.2.853.3390.0000 |200.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.113.2.804.3390.0000 |459.610,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.157.2.690.3390.0000 |50.000,00 |
-
-|2302.10.301.157.2.902.3367.0000 |50.000,00 |
-
-|2302.10.302.114.2.891.3390.0000 |100.000,00 |
-
-|2302.10.302.114.2.894.3391.0000 |80.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.179.610,00 |
+| I – A favor dos seguintes órgãos, conforme autorização contida nos arts. 1º e 3º da Lei nº 11.377, |  |
+| --- | --- |
+| de 8 de julho de 2022: |  |
+| R$ |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.126.302.2.404.3390.0000 | 150.000,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.228.2.537.3390.0000 | 50.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.217.2.853.3350.0000 | 1.040.000,00 |
+| 2800.04.122.217.2.853.3390.0000 | 200.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.113.2.804.3390.0000 | 459.610,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.157.2.690.3390.0000 | 50.000,00 |
+| 2302.10.301.157.2.902.3367.0000 | 50.000,00 |
+| 2302.10.302.114.2.891.3390.0000 | 100.000,00 |
+| 2302.10.302.114.2.894.3391.0000 | 80.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.179.610,00 |
 
 Inciso I retificado em 6/9/2022
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II – Em contrapartida às suplementações relacionadas no item I: |
-
-|Anulação de emendas previstas inicialmente nos seguintes órgãos, conforme autorização contida no |
-
-|art. 2º da Lei nº 11.377, de 8 de julho de 2022: |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.302.085.2.605.3390.0000 |490.000,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.241.127.2.697.3390.0000 |101.501,00 |
-
-|1000.14.241.127.2.697.3390.0000 |308.109,00 |
-
-|1000.14.241.127.2.697.3390.0000 |50.000,00 |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|1010.20.608.308.2.121.3390.0000 |200.000,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.228.2.537.3390.0000 |50.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.11.334.237.2.404.3390.0000 |550.000,00 |
-
-|2800.11.334.237.2.404.4490.0000 |150.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.122.117.1.216.4490.0000 |13.992,00 |
-
-|2302.10.122.117.1.216.4490.0000 |100.000,00 |
-
-|2302.10.301.157.2.690.4490.0000 |228,00 |
-
-|2302.10.302.114.2.891.3350.0000 |65.780,00 |
-
-|2302.10.302.114.2.891.3390.0000 |100.000,00 |
-
-|TOTAL DA ANULAÇÃO |2.179.610,00 |
+| II – Em contrapartida às suplementações relacionadas no item I: |  |
+| --- | --- |
+| Anulação de emendas previstas inicialmente nos seguintes órgãos, conforme autorização contida no |  |
+| art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.302.085.2.605.3390.0000 | 490.000,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.241.127.2.697.3390.0000 | 101.501,00 |
+| 1000.14.241.127.2.697.3390.0000 | 308.109,00 |
+| 1000.14.241.127.2.697.3390.0000 | 50.000,00 |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.20.608.308.2.121.3390.0000 | 200.000,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.228.2.537.3390.0000 | 50.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.11.334.237.2.404.3390.0000 | 550.000,00 |
+| 2800.11.334.237.2.404.4490.0000 | 150.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.122.117.1.216.4490.0000 | 13.992,00 |
+| 2302.10.122.117.1.216.4490.0000 | 100.000,00 |
+| 2302.10.301.157.2.690.4490.0000 | 228,00 |
+| 2302.10.302.114.2.891.3350.0000 | 65.780,00 |
+| 2302.10.302.114.2.891.3390.0000 | 100.000,00 |
+| TOTAL DA ANULAÇÃO | 2.179.610,00 |
 
 ## Observações da CMBH
 

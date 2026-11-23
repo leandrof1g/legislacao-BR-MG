@@ -32,15 +32,12 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 CRITÉRIOS PARA VALIDAÇÃO DA GAMPFI NO PERÍODO
 
-|PONTOS (UFPI) OBTIDOS =|PERCENTUAL DE VALIDAÇÃO|RESULTADO FINAL (UPFI) |
-
-|A | | |
-
-|A >300 |Até 25% DE A |Até 375 |
-
-|180 ≤ A < 300 |Até 25% DE A |A + até 25% DE A |
-
-|A < 180 |0% |A |
+| PONTOS (UFPI) OBTIDOS = | PERCENTUAL DE VALIDAÇÃO | RESULTADO FINAL (UPFI) |
+| --- | --- | --- |
+| A |  |  |
+| A >300 | Até 25% DE A | Até 375 |
+| 180 ≤ A < 300 | Até 25% DE A | A + até 25% DE A |
+| A < 180 | 0% | A |
 
 **Parágrafo único** - O teto mensal individual da GAMPFI é de 375 (trezentas e setenta e cinco) UPFI, nos termos do disposto no § 1º do art. 4º da Lei nº 10.308/2011.
 

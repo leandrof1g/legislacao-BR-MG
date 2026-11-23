@@ -58,29 +58,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Crédito adicional especial suplementando a seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor da Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB –,|R$ |
-
-|conforme autorização contida nos arts. 9º e 10 da Lei nº 11.367, de 1º de julho de 2022: | |
-
-|3302.26.452.060.2.910.3360.0000 |29.917.857,69 |
-
-|TOTAL DA SUPLEMENTAÇÃO |29.917.857,69 |
+| I.1.1 – A favor da Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB –, | R$ |
+| --- | --- |
+| conforme autorização contida nos arts. 9º e 10 da Lei nº 11.367, de 1º de julho de 2022: |  |
+| 3302.26.452.060.2.910.3360.0000 | 29.917.857,69 |
+| TOTAL DA SUPLEMENTAÇÃO | 29.917.857,69 |
 
 I.2 – Anulação parcial das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1 da tabela |R$ |
-
-|anterior: | |
-
-|0101.01.031.001.2.001.3190.0000 |3.917.857,69 |
-
-|0101.01.031.001.2.001.3390.0000 |19.000.000,00 |
-
-|0101.01.031.001.2.920.3390.0000 |3.000.000,00 |
-
-|0101.01.031.001.2.922.4490.0000 |4.000.000,00 |
-
-|TOTAL DA ANULAÇÃO |29.917.857,69 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1 da tabela | R$ |
+| --- | --- |
+| anterior: |  |
+| 0101.01.031.001.2.001.3190.0000 | 3.917.857,69 |
+| 0101.01.031.001.2.001.3390.0000 | 19.000.000,00 |
+| 0101.01.031.001.2.920.3390.0000 | 3.000.000,00 |
+| 0101.01.031.001.2.922.4490.0000 | 4.000.000,00 |
+| TOTAL DA ANULAÇÃO | 29.917.857,69 |
 
 ANEXO II
 
@@ -104,20 +97,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado nos arts. 9º e 10 da Lei nº 11.367, de 1º de julho de 2022:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO |
-
-|Arts. 9º e 10 da Lei nº 11.367, de 1º/07/2022 – Crédito Especial – Subsídio ao Transporte Público |
-
-|Coletivo |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|Limite total autorizado |R$ 243.400.000,00 |
-
-|Valor do crédito especial aberto no exercício |R$ 235.960.857,69 |
-
-|Saldo de crédito especial |R$ 7.439.142,31 |
-
-|Percentual utilizado |96,94% |
-
-|Atualizado em 03/11/2022 às 10:38:18 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO |  |
+| --- | --- |
+| Arts. 9º e 10 da Lei nº 11.367, de 1º/07/2022 – Crédito Especial – Subsídio ao Transporte Público |  |
+| Coletivo |  |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| Limite total autorizado | R$ 243.400.000,00 |
+| Valor do crédito especial aberto no exercício | R$ 235.960.857,69 |
+| Saldo de crédito especial | R$ 7.439.142,31 |
+| Percentual utilizado | 96,94% |
+| Atualizado em 03/11/2022 às 10:38:18 |  |

@@ -54,12 +54,9 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA –, conforme |
-
-|autorização contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964: |
-
-|R$ |
-
+| I.1 – A favor do Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA –, conforme |  |
+| --- | --- |
+| autorização contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964: |  |
+| R$ |  |
 | 1013.08.243.163.2.859.3390.0030 | 135.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO | 135.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 135.000,00 |

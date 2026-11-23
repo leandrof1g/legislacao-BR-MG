@@ -28,17 +28,13 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 **Art. 1º** - A tabela constante do art. 1º do Decreto nº 14.067, de 12 de agosto de 2010, passa a vigorar acrescida das seguintes linhas:
 
-|[...] |[...] |
-
-|Barreiro |Centro de Referência em |
-
-| |Reabilitação Barreiro – CREAB-B |
-
-|[...] |[...] |
-
-|Venda Nova |Centro de Referência em |
-
-| |Reabilitação Venda Nova – CREAB-VN|
+| [...] | [...] |
+| --- | --- |
+| Barreiro | Centro de Referência em |
+|  | Reabilitação Barreiro – CREAB-B |
+| [...] | [...] |
+| Venda Nova | Centro de Referência em |
+|  | Reabilitação Venda Nova – CREAB-VN |
 
 **Art. 2º** - Este Decreto entra em vigor a partir de sua publicação.
 

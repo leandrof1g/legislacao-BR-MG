@@ -46,37 +46,23 @@ IV - águas servidas - águas cinza: as águas utilizadas em chuveiro, banheira,
 
 **§ 1º** - As águas cinza, após passarem por sistema de tratamento próprio e receberem os produtos químicos adequados para a eliminação dos poluentes, desinfecção e polimento delas, deverão obedecer aos parâmetros especificados no quadro a seguir:
 
-|PARÂMETROS |
-
-|Turbidez |inferior a 5 uT |pH - potencial hidrogeniônico - indicador de grau de neutralidade, acidez e |
-
-| | |alcalinidade da água |
-
-| | |uT - unidade de turbidez |
-
-| | |uH - unidade Hazen (mg Pt-Co/l) |
-
-| | |mg/l - miligrama por litro |
-
-| | |ml - mililitro |
-
-|pH |entre 6.0 e 9.0 | |
-
-|Cor |até 15 uH | |
-
-|Cloro residual |entre 0,50mg/l e 2,00mg/l | |
-
-|Coliformes totais |ausência em 100ml | |
-
-|Coliformes |ausência em 100ml | |
-
-|termotolerantes | | |
-
-|Sólidos dissolvidos |inferior a 200mg/l | |
-
-|totais | | |
-
-|Oxigênio dissolvido |acima de 2,0mg/l | |
+| PARÂMETROS |  |  |
+| --- | --- | --- |
+| Turbidez | inferior a 5 uT | pH - potencial hidrogeniônico - indicador de grau de neutralidade, acidez e |
+|  |  | alcalinidade da água |
+|  |  | uT - unidade de turbidez |
+|  |  | uH - unidade Hazen (mg Pt-Co/l) |
+|  |  | mg/l - miligrama por litro |
+|  |  | ml - mililitro |
+| pH | entre 6.0 e 9.0 |  |
+| Cor | até 15 uH |  |
+| Cloro residual | entre 0,50mg/l e 2,00mg/l |  |
+| Coliformes totais | ausência em 100ml |  |
+| Coliformes | ausência em 100ml |  |
+| termotolerantes |  |  |
+| Sólidos dissolvidos | inferior a 200mg/l |  |
+| totais |  |  |
+| Oxigênio dissolvido | acima de 2,0mg/l |  |
 
 **§ 2º** - As águas servidas serão direcionadas através de encanamentos (tubulações, conexões e bombas) próprios, com cores específicas, e armazenadas em reservatórios distintos e independentes dos reservatórios de águas potáveis que servirão para lavagem de pátio e escadaria, jardinagem e abastecimento de descargas de vasos sanitários, as quais serão descarregadas na rede pública de esgoto.
 

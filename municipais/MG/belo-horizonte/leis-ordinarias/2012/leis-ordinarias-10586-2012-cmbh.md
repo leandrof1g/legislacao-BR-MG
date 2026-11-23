@@ -50,17 +50,13 @@ XIV - a Secretaria Especial de Prevenção da Corrupção e Informações Estrat
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS E FUNÇÕES ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|ANTERIOR | | |
-
-|[...] |[...] |[...] |
-
-| |Secretário Especial de Prevenção da |1 |
-
-| |Corrupção e Informações Estratégicas | |
-
-|[...] |[...] |[...] |
+| CARGO PREVISTO NA LEGISLAÇÃO | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| ANTERIOR |  |  |
+| [...] | [...] | [...] |
+|  | Secretário Especial de Prevenção da | 1 |
+|  | Corrupção e Informações Estratégicas |  |
+| [...] | [...] | [...] |
 
 ”. (NR)
 
@@ -68,15 +64,12 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA 
 
 “ANEXO II QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|[...] |[...] |
-
-|Secretário Especial de Prevenção da Corrupção e |conhecimentos específicos |
-
-|Informações Estratégicas | |
-
-|[...] |[...] |
+| CARGO | REQUISITO PARA PROVIMENTO |
+| --- | --- |
+| [...] | [...] |
+| Secretário Especial de Prevenção da Corrupção e | conhecimentos específicos |
+| Informações Estratégicas |  |
+| [...] | [...] |
 
 ”. (NR)
 
@@ -98,21 +91,15 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA 
 
 **Art. 9º** - Ficam acrescidas ao Quadro de Cargos de Provimento em Comissão e Funções Públicas de Confiança da Administração Direta do Poder Executivo e de Correlação com os Cargos e Funções Anteriores, que integra o Anexo I da Lei nº 9.011/05, as seguintes vagas referentes aos seguintes cargos:
 
-|Cargo |Quantidade de Vagas |
-
-|Gerente de 1º Nível - C |2 |
-
-|Gerente de 2º Nível |1 |
-
-|Assessor I |5 |
-
-|Assessor II |1 |
-
-|Assessor III - C |1 |
-
-|Assessor Jurídico III - A |1 |
-
-|Assistente |4 |
+| Cargo | Quantidade de Vagas |
+| --- | --- |
+| Gerente de 1º Nível - C | 2 |
+| Gerente de 2º Nível | 1 |
+| Assessor I | 5 |
+| Assessor II | 1 |
+| Assessor III - C | 1 |
+| Assessor Jurídico III - A | 1 |
+| Assistente | 4 |
 
 “. (NR)
 

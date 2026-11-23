@@ -60,24 +60,15 @@ Secretário Municipal de Planejamento, Orçamento e Gestão em exercício
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Saúde - FMS, conforme autorização|
-
-|contida no caput do art. 4° da Lei nº 11.277, de 28 de dezembro de |
-
-|2020: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0050 |4.405.423,46 |
-
-|2302.10.301.157.2.902.3367.0000 |6.300.000,00 |
-
-|2302.10.301.157.2.902.4567.0000 |8.680.450,00 |
-
-|2302.10.302.203.2.894.3390.0050 |13.703.424,00 |
-
-|2302.10.302.203.2.894.3391.0000 |85.640.000,00 |
-
-|2302.10.302.203.2.894.3391.0050 |1.488.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |120.217.297,46 |
+| I.1 – A favor do Fundo Municipal de Saúde - FMS, conforme autorização |  |
+| --- | --- |
+| contida no caput do art. 4° da Lei nº 11.277, de 28 de dezembro de |  |
+| 2020: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0050 | 4.405.423,46 |
+| 2302.10.301.157.2.902.3367.0000 | 6.300.000,00 |
+| 2302.10.301.157.2.902.4567.0000 | 8.680.450,00 |
+| 2302.10.302.203.2.894.3390.0050 | 13.703.424,00 |
+| 2302.10.302.203.2.894.3391.0000 | 85.640.000,00 |
+| 2302.10.302.203.2.894.3391.0050 | 1.488.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 120.217.297,46 |

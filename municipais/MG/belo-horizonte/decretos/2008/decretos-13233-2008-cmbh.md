@@ -206,246 +206,126 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|Código |CLASSE 1 - ALIMENTOS |Pontos |
-
-|1.1 |Açougue e similares |4,3 |
-
-|1.2 |Ambulantes e similares |1,7 |
-
-|1.3 |Bar com produção/manipulação e similares |5,2 |
-
-|1.4 |Bar e/ou lanchonete sem produção/manipulação e similares |3,5 |
-
-|1.5 |Barraca feira livre e similares |1,7 |
-
-|1.6 |Bomboniére/doces/biscoitos e similares |1,7 |
-
-|1.7 |Comércio de pescados e similares |4,3 |
-
-|1.8 |Distribuidora/depósito de alimentos e similares |4,3 |
-
-|1.9 |Fecularia/empacotadora e/ou beneficiadora de grãos e similares |3,5 |
-
-|1.10 |Hortifrutigranjeiros e similares |3,5 |
-
-|1.11 |Indústria/fábrica de alimentos/cozinha industrial/buffet e similares |7 |
-
-|1.12 |Lanchonete/trailler e similares |4,3 |
-
-|1.13 |Mercearia e similares |3,5 |
-
-|1.14 |Padaria (com ou sem mercearia) e similares |5,2 |
-
-|1.15 |Padaria e confeitaria (com ou sem mercearia) e similares |5,2 |
-
-|1.16 |Restaurante tipo "prato feito" e similares |5,2 |
-
-|1.17 |Restaurante tipo à "la carte" / "self service" e similares |7 |
-
-|1.18 |Sorveteria (depósito ou varejo) e similares |3,5 |
-
-|1.19 |Veículo que comercializa alimentos em vias públicas e similares |1,7 |
-
-|Código |CLASSE 2 - SERVIÇOS DE LAZER, HOTELARIA E SIMILARES |Pontos |
-
-|2.1 |Academia de ginástica e similares |1,7 |
-
-|2.2 |Asilo/Instituição de Longa Permanência (as atividades inerentes) e similares |2,6 |
-
-|2.3 |Cinema e similares |2,6 |
-
-|2.4 |Clube recreativo (área física,vestiário e sauna) e similares |5,2 |
-
-|2.5 |Creche (com as atividades inerentes) e similares |2,6 |
-
-|2.6 |Escola e similares |2,6 |
-
-|2.7 |Hotel/Motel/Pensão com lavanderia e similares |5,2 |
-
-|2.8 |Lavanderia e similares |2,6 |
-
-|2.9 |Lavanderia - posto de coleta e similares |1,7 |
-
-|2.10 |Posto de coleta de lavanderia e similares |1,3 |
-
-|2.11 |Sala/casa de espetáculo e similares |2,6 |
-
-|2.12 |Sauna (estabelecimento) e similares |2,6 |
-
-|2.13 |Templo religioso e similares |2,6 |
-
-|Código |CLASSE 3 - SERVIÇOS E PRODUTOS NÃO ALIMENTÍCIOS |Pontos |
-
-|3.1 |Desinsetizadora, desratizadora, conservadora e similares |7 |
-
-|3.2 |Dispensário de medicamentos e similares |3,5 |
-
-|3.3 |Distribuidora de correlatos/cosméticos/domissanitários e similares |3,5 |
-
-|3.4 |Distribuidora de medicamentos/com controlados e similares |7 |
-
-|3.5 |Distribuidora de medicamentos/sem controlados e similares |7 |
-
-|3.6 |Drogaria e similares |7 |
-
-|3.7 |Farmácia e similares |Y/X |
-
-|3.8 |Indústria de correlatos e similares |Y/X |
-
-|3.9 |Indústria de cosméticos/perfumes/produtos de higiene e similares |Y/X |
-
-|3.10 |Indústria de insumos farmacêuticos e similares |Y/X |
-
-|3.11 |Indústria de saneantes domissanitários e similares |Y/X |
-
-|3.12 |Óptica e similares |3,5 |
-
-|Código |CLASSE 4 - SERVIÇOS DE ASSISTÊNCIA À SAÚDE |Pontos |
-
-|4.1 |Clínica especializada e similares |8,7 |
-
-|4.2 |Clínica odontológica e similares |Y/X |
-
-|4.3 |Consultórios sem procedimentos e similares |3,5 |
-
-|4.4 |Consultórios com procedimentos e similares |7 |
-
-|4.5 |Hospital e similares |Y/X |
-
-|4.6 |Laboratório de prótese odontológica e similares |7 |
-
-|4.7 |Laboratório de prótese odontológica intra-consultório e similares |3,5 |
-
-|4.8 |Laboratórios e similares |Y/X |
-
-|4.9 |Policlínica e similares |Y/X |
-
-|4.10 |Serviços de apoio diagnóstico por imagem e similares |Y/X |
-
-|4.11 |Serviços de apoio diagnóstico por métodos gráficos e similares |Y/X |
-
-|4.12 |Serviços de bancos de leite, células, órgãos e tecidos e similares |Y/X |
-
-|4.13 |Serviços de diálise, hemodiálise e afins e similares |Y/X |
-
-|4.14 |Serviços de esterilização e similares |Y/X |
-
-|4.15 |Unidade básica de saúde e similares |Y/X |
-
-|4.16 |Serviços de hemoterapia e similiares |Y/X |
-
-|4.17 |Serviços de apoio terapêutico e similares |Y/X |
-
-|4.18 |Serviços de nutrição enteral e parenteral e similares |Y/X |
-
-|4.19 |Serviços de terapia não alopáticas e similares |8,7 |
-
-|Código |CLASSE 5 - FUNERÁRIAS E SIMILARES |Pontos |
-
-|5.1 |Funerária e similares |2,6 |
-
-|5.2 |Sala de necropsia/preparação de cadáver e similares |2,6 |
-
-|5.3 |Velório e similares |2,6 |
-
-|5.4 |Crematório e similares |2,6 |
-
-|Código |CLASSE 6 - ESTÉTICA |Pontos |
-
-|6.1 |Barbearia e similares |1,7 |
-
-|6.2 |Clínica de estética e similares |7,0 |
-
-|6.3 |Tatuagem e piercing e similares |7,0 |
-
-|6.4 |Salão de beleza e similares |1,7 |
-
-|Código |CLASSE 7 - ATIVIDADES DOS FISCAIS SANITÁRIOS MUNICIPAIS E FISCAIS SANITÁRIOS MUNICIPAIS DE NÍVEL SUPERIOR. |Pontos |
-
-|7.1 |08 (oito) horas de efetivo trabalho fiscal, em cumprimento de metas individuais, determinadas pela Gerência|2Y/X |
-
-| |imediata, de segunda a sexta-feira, prestado em horário compreendido entre as 22:00 horas de um dia e 08:00| |
-
-| |horas do dia seguinte e em qualquer horário aos sábados, domingos e feriados, comprovado em relatório. | |
-
-|7.2 |08 (oito) horas diárias de atividades internas, determinadas pela Gerência imediata, comprovadas em |Y/X |
-
-| |relatório. | |
-
-|7.3 |08 (oito) horas diárias de atividades técnico-fiscais/técnico-científicas, determinadas pela Gerência |Y/X |
-
-| |imediata, comprovadas em relatório. | |
-
-|7.4 |08 (oito) horas diárias de efetivo trabalho fiscal, em cumprimento de metas individuais, determinadas pela |Y/X |
-
-| |Gerência imediata, de segunda a sexta-feira, com início após as 08:00 horas e término até as 22:00 horas, | |
-
-| |comprovado em relatório. | |
-
-|7.5 |Atuação em Junta de Julgamento Fiscal e Junta de Recurso Fiscal, quando designado expressamente para este |Y/X |
-
-| |fim. | |
-
-|7.6 |Comparecimento a reunião de trabalho, atendendo convocação da Gerência imediata por hora/jornada. |Y/8X |
-
-|7.7 |Efetivo trabalho fiscal em cumprimento de atividades internas, determinadas pela Gerência imediata, por |Y/8X |
-
-| |hora/jornada. | |
-
-|7.8 |Efetivo trabalho fiscal, em cumprimento de metas individuais, determinadas pela Gerência imediata, por |Y/8X |
-
-| |hora/jornada, de segunda a sexta feira, prestado em horário compreendido entre as 08:00 horas de um dia e | |
-
-| |término até as 22:00 do mesmo. | |
-
-|7.9 |Efetivo trabalho fiscal, em cumprimento de metas individuais, determinadas pela Gerência imediata, por |Y/4X |
-
-| |hora/jornada, de segunda a sexta-feira, prestado em horário compreendido entre 22:00 de um dia e 08:00 | |
-
-| |horas do dia seguinte. | |
-
-|7.10 |Elaboração de réplica ou tréplica fiscal, fundamentadas nos fatos e legislação aplicável ao caso, para |1,7 |
-
-| |subsídio aos julgamentos de natureza fiscal. | |
-
-|7.11 |Emissão de parecer fiscal em processos de solicitação de prazo e consulta formulada por munícipe e/ou por |1,8 |
-
-| |pessoa jurídica sobre a legislação municipal. | |
-
-|7.12 |Lavratura de Auto de Infração, Auto de Apreensão, Auto de Apreensão e Depósito, Termo de Interdição e outros|2,1 |
-
-| |previstos na legislação vigente, exceto nos casos do item 7.11. | |
-
-|7.13 |Lavratura de Termo de Intimação, Advertência, Auto de Coleta de Amostra e Auto de Infração sem valor |1,3 |
-
-| |pecuniário. | |
-
-|7.14 |Participação em audiência de julgamento de recursos de natureza fiscal, quando convocados expressamente para|Y/8X |
-
-| |este fim, por hora/ jornada. | |
-
-|7.15 |Participação em conselhos, comissões e reuniões, por designação da Gerência imediata. |Y/X |
-
-|7.16 |Participação em cursos, seminários, treinamentos, aperfeiçoamento e afins, por determinação da Gerência |Y/X |
-
-| |imediata. | |
-
-|7.17 |Preenchimento de comunicação de atividades constatadas durante a ação fiscal, cuja competência da |1,8 |
-
-| |fiscalização seja de outra área fiscal municipal, estadual ou federal, não se computando pontuação na | |
-
-| |repetição da comunicação. | |
-
-|7.18 |Serviços de cadastramento ou encerramento de firmas e atividades autônomas compreendendo o preenchimento de |1,5 |
-
-| |fichas e ou formulários para atualização de banco de dados. | |
-
-|7.19 |Visita para orientação técnica para montagem de estabelecimento. |4,5 |
-
-|7.20 |Visita para verificação de documentação pendente ou comunicação de decisões (deferimento/indeferimento) ou |1,8 |
-
-| |julgamentos de processos. | |
-
-|7.21 |Vistorias junto a imóveis ou estabelecimentos denunciados e/ou envolvidos em prática de irregularidades |2,6 |
-
-| |sanitárias | |
+| Código | CLASSE 1 - ALIMENTOS | Pontos |
+| --- | --- | --- |
+| 1.1 | Açougue e similares | 4,3 |
+| 1.2 | Ambulantes e similares | 1,7 |
+| 1.3 | Bar com produção/manipulação e similares | 5,2 |
+| 1.4 | Bar e/ou lanchonete sem produção/manipulação e similares | 3,5 |
+| 1.5 | Barraca feira livre e similares | 1,7 |
+| 1.6 | Bomboniére/doces/biscoitos e similares | 1,7 |
+| 1.7 | Comércio de pescados e similares | 4,3 |
+| 1.8 | Distribuidora/depósito de alimentos e similares | 4,3 |
+| 1.9 | Fecularia/empacotadora e/ou beneficiadora de grãos e similares | 3,5 |
+| 1.10 | Hortifrutigranjeiros e similares | 3,5 |
+| 1.11 | Indústria/fábrica de alimentos/cozinha industrial/buffet e similares | 7 |
+| 1.12 | Lanchonete/trailler e similares | 4,3 |
+| 1.13 | Mercearia e similares | 3,5 |
+| 1.14 | Padaria (com ou sem mercearia) e similares | 5,2 |
+| 1.15 | Padaria e confeitaria (com ou sem mercearia) e similares | 5,2 |
+| 1.16 | Restaurante tipo "prato feito" e similares | 5,2 |
+| 1.17 | Restaurante tipo à "la carte" / "self service" e similares | 7 |
+| 1.18 | Sorveteria (depósito ou varejo) e similares | 3,5 |
+| 1.19 | Veículo que comercializa alimentos em vias públicas e similares | 1,7 |
+| Código | CLASSE 2 - SERVIÇOS DE LAZER, HOTELARIA E SIMILARES | Pontos |
+| 2.1 | Academia de ginástica e similares | 1,7 |
+| 2.2 | Asilo/Instituição de Longa Permanência (as atividades inerentes) e similares | 2,6 |
+| 2.3 | Cinema e similares | 2,6 |
+| 2.4 | Clube recreativo (área física,vestiário e sauna) e similares | 5,2 |
+| 2.5 | Creche (com as atividades inerentes) e similares | 2,6 |
+| 2.6 | Escola e similares | 2,6 |
+| 2.7 | Hotel/Motel/Pensão com lavanderia e similares | 5,2 |
+| 2.8 | Lavanderia e similares | 2,6 |
+| 2.9 | Lavanderia - posto de coleta e similares | 1,7 |
+| 2.10 | Posto de coleta de lavanderia e similares | 1,3 |
+| 2.11 | Sala/casa de espetáculo e similares | 2,6 |
+| 2.12 | Sauna (estabelecimento) e similares | 2,6 |
+| 2.13 | Templo religioso e similares | 2,6 |
+| Código | CLASSE 3 - SERVIÇOS E PRODUTOS NÃO ALIMENTÍCIOS | Pontos |
+| 3.1 | Desinsetizadora, desratizadora, conservadora e similares | 7 |
+| 3.2 | Dispensário de medicamentos e similares | 3,5 |
+| 3.3 | Distribuidora de correlatos/cosméticos/domissanitários e similares | 3,5 |
+| 3.4 | Distribuidora de medicamentos/com controlados e similares | 7 |
+| 3.5 | Distribuidora de medicamentos/sem controlados e similares | 7 |
+| 3.6 | Drogaria e similares | 7 |
+| 3.7 | Farmácia e similares | Y/X |
+| 3.8 | Indústria de correlatos e similares | Y/X |
+| 3.9 | Indústria de cosméticos/perfumes/produtos de higiene e similares | Y/X |
+| 3.10 | Indústria de insumos farmacêuticos e similares | Y/X |
+| 3.11 | Indústria de saneantes domissanitários e similares | Y/X |
+| 3.12 | Óptica e similares | 3,5 |
+| Código | CLASSE 4 - SERVIÇOS DE ASSISTÊNCIA À SAÚDE | Pontos |
+| 4.1 | Clínica especializada e similares | 8,7 |
+| 4.2 | Clínica odontológica e similares | Y/X |
+| 4.3 | Consultórios sem procedimentos e similares | 3,5 |
+| 4.4 | Consultórios com procedimentos e similares | 7 |
+| 4.5 | Hospital e similares | Y/X |
+| 4.6 | Laboratório de prótese odontológica e similares | 7 |
+| 4.7 | Laboratório de prótese odontológica intra-consultório e similares | 3,5 |
+| 4.8 | Laboratórios e similares | Y/X |
+| 4.9 | Policlínica e similares | Y/X |
+| 4.10 | Serviços de apoio diagnóstico por imagem e similares | Y/X |
+| 4.11 | Serviços de apoio diagnóstico por métodos gráficos e similares | Y/X |
+| 4.12 | Serviços de bancos de leite, células, órgãos e tecidos e similares | Y/X |
+| 4.13 | Serviços de diálise, hemodiálise e afins e similares | Y/X |
+| 4.14 | Serviços de esterilização e similares | Y/X |
+| 4.15 | Unidade básica de saúde e similares | Y/X |
+| 4.16 | Serviços de hemoterapia e similiares | Y/X |
+| 4.17 | Serviços de apoio terapêutico e similares | Y/X |
+| 4.18 | Serviços de nutrição enteral e parenteral e similares | Y/X |
+| 4.19 | Serviços de terapia não alopáticas e similares | 8,7 |
+| Código | CLASSE 5 - FUNERÁRIAS E SIMILARES | Pontos |
+| 5.1 | Funerária e similares | 2,6 |
+| 5.2 | Sala de necropsia/preparação de cadáver e similares | 2,6 |
+| 5.3 | Velório e similares | 2,6 |
+| 5.4 | Crematório e similares | 2,6 |
+| Código | CLASSE 6 - ESTÉTICA | Pontos |
+| 6.1 | Barbearia e similares | 1,7 |
+| 6.2 | Clínica de estética e similares | 7,0 |
+| 6.3 | Tatuagem e piercing e similares | 7,0 |
+| 6.4 | Salão de beleza e similares | 1,7 |
+| Código | CLASSE 7 - ATIVIDADES DOS FISCAIS SANITÁRIOS MUNICIPAIS E FISCAIS SANITÁRIOS MUNICIPAIS DE NÍVEL SUPERIOR. | Pontos |
+| 7.1 | 08 (oito) horas de efetivo trabalho fiscal, em cumprimento de metas individuais, determinadas pela Gerência | 2Y/X |
+|  | imediata, de segunda a sexta-feira, prestado em horário compreendido entre as 22:00 horas de um dia e 08:00 |  |
+|  | horas do dia seguinte e em qualquer horário aos sábados, domingos e feriados, comprovado em relatório. |  |
+| 7.2 | 08 (oito) horas diárias de atividades internas, determinadas pela Gerência imediata, comprovadas em | Y/X |
+|  | relatório. |  |
+| 7.3 | 08 (oito) horas diárias de atividades técnico-fiscais/técnico-científicas, determinadas pela Gerência | Y/X |
+|  | imediata, comprovadas em relatório. |  |
+| 7.4 | 08 (oito) horas diárias de efetivo trabalho fiscal, em cumprimento de metas individuais, determinadas pela | Y/X |
+|  | Gerência imediata, de segunda a sexta-feira, com início após as 08:00 horas e término até as 22:00 horas, |  |
+|  | comprovado em relatório. |  |
+| 7.5 | Atuação em Junta de Julgamento Fiscal e Junta de Recurso Fiscal, quando designado expressamente para este | Y/X |
+|  | fim. |  |
+| 7.6 | Comparecimento a reunião de trabalho, atendendo convocação da Gerência imediata por hora/jornada. | Y/8X |
+| 7.7 | Efetivo trabalho fiscal em cumprimento de atividades internas, determinadas pela Gerência imediata, por | Y/8X |
+|  | hora/jornada. |  |
+| 7.8 | Efetivo trabalho fiscal, em cumprimento de metas individuais, determinadas pela Gerência imediata, por | Y/8X |
+|  | hora/jornada, de segunda a sexta feira, prestado em horário compreendido entre as 08:00 horas de um dia e |  |
+|  | término até as 22:00 do mesmo. |  |
+| 7.9 | Efetivo trabalho fiscal, em cumprimento de metas individuais, determinadas pela Gerência imediata, por | Y/4X |
+|  | hora/jornada, de segunda a sexta-feira, prestado em horário compreendido entre 22:00 de um dia e 08:00 |  |
+|  | horas do dia seguinte. |  |
+| 7.10 | Elaboração de réplica ou tréplica fiscal, fundamentadas nos fatos e legislação aplicável ao caso, para | 1,7 |
+|  | subsídio aos julgamentos de natureza fiscal. |  |
+| 7.11 | Emissão de parecer fiscal em processos de solicitação de prazo e consulta formulada por munícipe e/ou por | 1,8 |
+|  | pessoa jurídica sobre a legislação municipal. |  |
+| 7.12 | Lavratura de Auto de Infração, Auto de Apreensão, Auto de Apreensão e Depósito, Termo de Interdição e outros | 2,1 |
+|  | previstos na legislação vigente, exceto nos casos do item 7.11. |  |
+| 7.13 | Lavratura de Termo de Intimação, Advertência, Auto de Coleta de Amostra e Auto de Infração sem valor | 1,3 |
+|  | pecuniário. |  |
+| 7.14 | Participação em audiência de julgamento de recursos de natureza fiscal, quando convocados expressamente para | Y/8X |
+|  | este fim, por hora/ jornada. |  |
+| 7.15 | Participação em conselhos, comissões e reuniões, por designação da Gerência imediata. | Y/X |
+| 7.16 | Participação em cursos, seminários, treinamentos, aperfeiçoamento e afins, por determinação da Gerência | Y/X |
+|  | imediata. |  |
+| 7.17 | Preenchimento de comunicação de atividades constatadas durante a ação fiscal, cuja competência da | 1,8 |
+|  | fiscalização seja de outra área fiscal municipal, estadual ou federal, não se computando pontuação na |  |
+|  | repetição da comunicação. |  |
+| 7.18 | Serviços de cadastramento ou encerramento de firmas e atividades autônomas compreendendo o preenchimento de | 1,5 |
+|  | fichas e ou formulários para atualização de banco de dados. |  |
+| 7.19 | Visita para orientação técnica para montagem de estabelecimento. | 4,5 |
+| 7.20 | Visita para verificação de documentação pendente ou comunicação de decisões (deferimento/indeferimento) ou | 1,8 |
+|  | julgamentos de processos. |  |
+| 7.21 | Vistorias junto a imóveis ou estabelecimentos denunciados e/ou envolvidos em prática de irregularidades | 2,6 |
+|  | sanitárias |  |

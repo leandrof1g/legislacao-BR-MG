@@ -94,7 +94,8 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 9º** - O item 66 da Tabela de Penalidades do Anexo II da Lei nº 10.534/12 passa a vigorar acrescido da seguinte linha:
 
-|ITEM |SEÇÃO |
+| ITEM | SEÇÃO |
+| --- | --- |
 
 66 |Capítulo VIII - Dos atos lesivos à conservação da limpeza urbana |Art. 55 - inciso I, alínea “c” |c) resíduos sólidos especiais. |Sim |10 dias |Art. 4º- §2º, inciso III, alínea “z” |1.145,37 |10 dias |Sim |Sim | | | |
 

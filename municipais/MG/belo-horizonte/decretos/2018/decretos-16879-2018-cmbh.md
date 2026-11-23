@@ -52,14 +52,10 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Educação – SMED, conforme |
-
-|autorização contida no art. 43 da Lei nº 4.320, de 17 de março de |
-
-|1964: |
-
-|R$ |
-
-|2200.12.361.168.2.080.3190.0105 |17.495.817,77 |
-
-|TOTAL DA SUPLEMENTAÇÃO |17.495.817,77 |
+| I.1 – A favor da Secretaria Municipal de Educação – SMED, conforme |  |
+| --- | --- |
+| autorização contida no art. 43 da Lei nº 4.320, de 17 de março de |  |
+| 1964: |  |
+| R$ |  |
+| 2200.12.361.168.2.080.3190.0105 | 17.495.817,77 |
+| TOTAL DA SUPLEMENTAÇÃO | 17.495.817,77 |

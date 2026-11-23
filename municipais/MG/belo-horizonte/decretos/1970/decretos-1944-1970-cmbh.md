@@ -108,4 +108,5 @@ Luiz de Sousa Lima
 
 Prefeito de Belo Horizonte
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

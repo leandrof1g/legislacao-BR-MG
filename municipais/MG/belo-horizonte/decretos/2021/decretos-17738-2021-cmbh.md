@@ -46,15 +46,12 @@ ANEXO I
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|Padarias e lanchonetes (permitido o consumo no local) |Diariamente, sem restrição de horário |
-
-|(...) |(...) |
-
-|Comércio varejista de mercadorias em lojas de conveniência ou|Diariamente, sem restrição de horário |
-
-|similares | |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| Padarias e lanchonetes (permitido o consumo no local) | Diariamente, sem restrição de horário |
+| (...) | (...) |
+| Comércio varejista de mercadorias em lojas de conveniência ou | Diariamente, sem restrição de horário |
+| similares |  |
 
 ANEXO II
 
@@ -64,20 +61,13 @@ ANEXO II
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Serviços de alimentação, para consumo no local: restaurantes,|Diariamente, sem restrição de horário |
-
-|cantinas, sorveterias, bares e similares, inclusive aqueles | |
-
-|no interior de galerias de lojas, centros de comércio, | |
-
-|shopping centers e clubes de serviço, de lazer, sociais e | |
-
-|esportivos | |
-
-|Comércio de alimentos em veículo automotor e em veículo de |Diariamente, sem restrição de horário |
-
-|tração humana | |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Serviços de alimentação, para consumo no local: restaurantes, | Diariamente, sem restrição de horário |
+| cantinas, sorveterias, bares e similares, inclusive aqueles |  |
+| no interior de galerias de lojas, centros de comércio, |  |
+| shopping centers e clubes de serviço, de lazer, sociais e |  |
+| esportivos |  |
+| Comércio de alimentos em veículo automotor e em veículo de | Diariamente, sem restrição de horário |
+| tração humana |  |

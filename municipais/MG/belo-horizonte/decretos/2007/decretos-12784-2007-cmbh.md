@@ -182,29 +182,19 @@ c) Mercado Popular da Lagoinha;
 
 4.2 - para cada nível de curso, serão estabelecidos pré-requisitos iniciais para definição dos beneficiários, contemplando as características específicas, tais como sua trajetória social, escolaridade, formação profissional, situação sócio-ocupacional e experiência de trabalho, especialmente competências adquiridas durante a vida profissional, de modo a viabilizar melhor aproveitamento e inserção profissional, observando os seguintes pré-requisitos iniciais:
 
-|MODALIDADE |PRÉ-REQUISITOS INICIAIS |
-
-|Qualificação Inicial Básica |- Ser beneficiário de programa social, inscrito no NIAT e/ou nas agências municipais do |
-
-| |SPETR. |
-
-|Qualificação I - Requalificação |- Ser beneficiário de programa social, inscrito no NIAT e/ou nas agências municipais do |
-
-| |SPETR. |
-
-| |- Possuir experiência anterior ou curso de formação na área. |
-
-|Qualificação II - Aperfeiçoamento |- Ser beneficiário de programa social, inscrito no NIAT e/ou nas agências municipais do |
-
-| |SPETR. |
-
-| |- Possuir experiência ou curso de qualificação básica na área. |
-
-|Técnico pós-médio |- Ser beneficiário de programa social, inscrito no NIAT e/ou nas agências municipais do |
-
-| |SPETR. |
-
-| |- Ter ensino médio completo. |
+| MODALIDADE | PRÉ-REQUISITOS INICIAIS |
+| --- | --- |
+| Qualificação Inicial Básica | - Ser beneficiário de programa social, inscrito no NIAT e/ou nas agências municipais do |
+|  | SPETR. |
+| Qualificação I - Requalificação | - Ser beneficiário de programa social, inscrito no NIAT e/ou nas agências municipais do |
+|  | SPETR. |
+|  | - Possuir experiência anterior ou curso de formação na área. |
+| Qualificação II - Aperfeiçoamento | - Ser beneficiário de programa social, inscrito no NIAT e/ou nas agências municipais do |
+|  | SPETR. |
+|  | - Possuir experiência ou curso de qualificação básica na área. |
+| Técnico pós-médio | - Ser beneficiário de programa social, inscrito no NIAT e/ou nas agências municipais do |
+|  | SPETR. |
+|  | - Ter ensino médio completo. |
 
 4.3 - a seleção dos beneficiários para cada curso será efetuada pelo NIAT, obedecendo aos pré-requisitos necessários, conforme subitem 4.2;
 

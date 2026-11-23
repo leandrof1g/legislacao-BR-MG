@@ -278,40 +278,24 @@ ANEXO
 
 TABELA – Bônus de adimplência
 
-|Nº Parcelas Quitadas |Bônus Concedido a cada 12 parcelas |Bônus Acumulados |
-
-|Sequencialmente |quitadas |(Quant. de Parcelas) |
-
-| |(Quant. de Parcelas) | |
-
-|12 |1,00 |1,00 |
-
-|24 |1,20 |2,20 |
-
-|36 |1,40 |3,60 |
-
-|48 |1,60 |5,20 |
-
-|60 |1,80 |7,00 |
-
-|72 |2,00 |9,00 |
-
-|84 |2,20 |11,20 |
-
-|96 |2,40 |13,60 |
-
-|108 |2,60 |16,20 |
-
-|120 |2,80 |19,00 |
-
-|132 |3,00 |22,00 |
-
-|144 |3,20 |25,20 |
-
-|156 |- |- |
-
-|168 |- |- |
-
-|180 |- |- |
+| Nº Parcelas Quitadas | Bônus Concedido a cada 12 parcelas | Bônus Acumulados |
+| --- | --- | --- |
+| Sequencialmente | quitadas | (Quant. de Parcelas) |
+|  | (Quant. de Parcelas) |  |
+| 12 | 1,00 | 1,00 |
+| 24 | 1,20 | 2,20 |
+| 36 | 1,40 | 3,60 |
+| 48 | 1,60 | 5,20 |
+| 60 | 1,80 | 7,00 |
+| 72 | 2,00 | 9,00 |
+| 84 | 2,20 | 11,20 |
+| 96 | 2,40 | 13,60 |
+| 108 | 2,60 | 16,20 |
+| 120 | 2,80 | 19,00 |
+| 132 | 3,00 | 22,00 |
+| 144 | 3,20 | 25,20 |
+| 156 | - | - |
+| 168 | - | - |
+| 180 | - | - |
 
 Anexo revogado pelo Decreto nº 17.321, de 2/4/2020 (Art. 11)

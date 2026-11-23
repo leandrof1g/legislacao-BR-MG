@@ -60,17 +60,13 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º do|R$ |
-
-|art. 43 da Lei federal nº 4.320, de 17 de março de 1964, no art. 57 da Lei nº 11.742, | |
-
-|de 13 de setembro de 2024, e no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0113.2334.339039.2.660.000 |349.348,11 |
-
-|TOTAL DA SUPLEMENTAÇÃO |349.348,11 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º do | R$ |
+| --- | --- |
+| art. 43 da Lei federal nº 4.320, de 17 de março de 1964, no art. 57 da Lei nº 11.742, |  |
+| de 13 de setembro de 2024, e no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0113.2334.339039.2.660.000 | 349.348,11 |
+| TOTAL DA SUPLEMENTAÇÃO | 349.348,11 |
 
 ANEXO II
 
@@ -98,20 +94,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos especiais abertos anteriormente |1.017.707.614,16 |
-
-|Valor do Decreto publicado nesta data |349.348,11 |
-
-|Valor total dos créditos especiais abertos no exercício |1.018.056.962,27 |
-
-|Saldo atual do limite autorizado |1.030.970.264,66 |
-
-|Percentual utilizado |49,68% |
-
-|Atualizado em 17/07/2025 às 16:13:49 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos especiais abertos anteriormente | 1.017.707.614,16 |
+| Valor do Decreto publicado nesta data | 349.348,11 |
+| Valor total dos créditos especiais abertos no exercício | 1.018.056.962,27 |
+| Saldo atual do limite autorizado | 1.030.970.264,66 |
+| Percentual utilizado | 49,68% |
+| Atualizado em 17/07/2025 às 16:13:49 |  |

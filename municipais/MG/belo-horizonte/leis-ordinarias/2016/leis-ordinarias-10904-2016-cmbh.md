@@ -166,118 +166,73 @@ Cargos Comissionados
 
 Cargos de Recrutamento Amplo
 
-|DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|Diretor-Geral |1 |9 |
-
-|Procurador-Geral |1 |9 |
-
-|Superintendente de Comunicação Institucional |1 |9 |
-
-|Assessor Técnico Especializado |1 |9 |
-
-|Auditor |1 |8 |
-
-|Chefe de Gabinete da Presidência |1 |8 |
-
-|Chefe do Cerimonial |1 |8 |
-
-|Assistente Técnico Especializado |3 |8 |
-
-|Coordenador |7 |8 |
-
-|Assessor Analista de Dados |1 |7 |
-
-|Assistente Técnico |1 |7 |
-
-|Coordenador Adjunto |5 |7 |
-
-|Secretário Executivo |3 |7 |
-
-|Secretário da Presidência |1 |5 |
-
-|Atendente da Presidência |4 |4 |
-
-|Agente Legislativo Especial |4 |3 |
+| DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- |
+| Diretor-Geral | 1 | 9 |
+| Procurador-Geral | 1 | 9 |
+| Superintendente de Comunicação Institucional | 1 | 9 |
+| Assessor Técnico Especializado | 1 | 9 |
+| Auditor | 1 | 8 |
+| Chefe de Gabinete da Presidência | 1 | 8 |
+| Chefe do Cerimonial | 1 | 8 |
+| Assistente Técnico Especializado | 3 | 8 |
+| Coordenador | 7 | 8 |
+| Assessor Analista de Dados | 1 | 7 |
+| Assistente Técnico | 1 | 7 |
+| Coordenador Adjunto | 5 | 7 |
+| Secretário Executivo | 3 | 7 |
+| Secretário da Presidência | 1 | 5 |
+| Atendente da Presidência | 4 | 4 |
+| Agente Legislativo Especial | 4 | 3 |
 
 Cargos de Recrutamento Limitado
 
-|DENOMINAÇÃO |VAGAS |
-
-|Diretor |3 |
-
-|Procurador-Geral Adjunto |1 |
-
-|Gerente |2 |
-
-|Chefe de Divisão |13 |
-
-|Assistente de Diretoria |4 |
-
-|Chefe de Seção |34 |
+| DENOMINAÇÃO | VAGAS |
+| --- | --- |
+| Diretor | 3 |
+| Procurador-Geral Adjunto | 1 |
+| Gerente | 2 |
+| Chefe de Divisão | 13 |
+| Assistente de Diretoria | 4 |
+| Chefe de Seção | 34 |
 
 Anexo II
 
 Cargos de Assessoramento Parlamentar
 
-|DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|Chefe de Gabinete Parlamentar |conf. art. 150 |8 |
-
-|Atendente Parlamentar |conf. art. 150 |4 |
-
-|Auxiliar Legislativo |conf. art. 150 |1 |
-
-|Assessor Parlamentar |conf. art. 149 |conf. art. 148 |
+| DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- |
+| Chefe de Gabinete Parlamentar | conf. art. 150 | 8 |
+| Atendente Parlamentar | conf. art. 150 | 4 |
+| Auxiliar Legislativo | conf. art. 150 | 1 |
+| Assessor Parlamentar | conf. art. 149 | conf. art. 148 |
 
 Anexo III
 
 Cargos Efetivos
 
-|DENOMINAÇÃO |VAGAS |CLASSE |
-
-|Técnico Legislativo I |conf. art. 225 |E2 |
-
-|Técnico Legislativo II |196 |E2 |
-
-|Técnico de Enfermagem |2 |E2 |
-
-|Técnico de Saúde Bucal |2 |E2 |
-
-|Técnico de Segurança do Trabalho |2 |E2 |
-
-|Administrador |8 |E3 |
-
-|Analista de Tecnologia da Informação |12 |E3 |
-
-|Arquiteto |1 |E3 |
-
-|Arquivista |2 |E3 |
-
-|Assistente Social |2 |E3 |
-
-|Consultor Legislativo |16 |E3 |
-
-|Contador |8 |E3 |
-
-|Coordenador do Processo Legislativo |18 |E3 |
-
-|Dentista |2 |E3 |
-
-|Economista |1 |E3 |
-
-|Enfermeiro do Trabalho |1 |E3 |
-
-|Engenheiro Civil |4 |E3 |
-
-|Jornalista |6 |E3 |
-
-|Médico Clínico |3 |E3 |
-
-|Médico do Trabalho |2 |E3 |
-
-|Procurador |12 |E3 |
-
-|Psicólogo |7 |E3 |
-
-|Redator |10 |E3 |
+| DENOMINAÇÃO | VAGAS | CLASSE |
+| --- | --- | --- |
+| Técnico Legislativo I | conf. art. 225 | E2 |
+| Técnico Legislativo II | 196 | E2 |
+| Técnico de Enfermagem | 2 | E2 |
+| Técnico de Saúde Bucal | 2 | E2 |
+| Técnico de Segurança do Trabalho | 2 | E2 |
+| Administrador | 8 | E3 |
+| Analista de Tecnologia da Informação | 12 | E3 |
+| Arquiteto | 1 | E3 |
+| Arquivista | 2 | E3 |
+| Assistente Social | 2 | E3 |
+| Consultor Legislativo | 16 | E3 |
+| Contador | 8 | E3 |
+| Coordenador do Processo Legislativo | 18 | E3 |
+| Dentista | 2 | E3 |
+| Economista | 1 | E3 |
+| Enfermeiro do Trabalho | 1 | E3 |
+| Engenheiro Civil | 4 | E3 |
+| Jornalista | 6 | E3 |
+| Médico Clínico | 3 | E3 |
+| Médico do Trabalho | 2 | E3 |
+| Procurador | 12 | E3 |
+| Psicólogo | 7 | E3 |
+| Redator | 10 | E3 |

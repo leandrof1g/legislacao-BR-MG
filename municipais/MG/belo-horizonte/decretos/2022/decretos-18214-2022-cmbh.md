@@ -58,37 +58,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 1º da Lei |R$ |
-
-|nº 11.377, de 8 de julho de 2022: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.157.2.690.3390.0000 |280,95 |
-
-|2302.10.301.157.2.690.3350.0000 |22.940,30 |
-
-|2302.10.302.114.2.891.3350.0000 |742.072,80 |
-
-|TOTAL DA SUPLEMENTAÇÃO |765.294,05 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 1º da Lei | R$ |
+| --- | --- |
+| nº 11.377, de 8 de julho de 2022: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.157.2.690.3390.0000 | 280,95 |
+| 2302.10.301.157.2.690.3350.0000 | 22.940,30 |
+| 2302.10.302.114.2.891.3350.0000 | 742.072,80 |
+| TOTAL DA SUPLEMENTAÇÃO | 765.294,05 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de emendas previstas inicialmente no órgão relacionado abaixo, conforme | |
-
-|autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.157.2.690.4490.0000 |280,95 |
-
-|2302.10.301.157.2.690.3390.0000 |22.940,30 |
-
-|2302.10.302.114.2.891.3390.0000 |742.072,80 |
-
-|TOTAL DA ANULAÇÃO |765.294,05 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de emendas previstas inicialmente no órgão relacionado abaixo, conforme |  |
+| autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.157.2.690.4490.0000 | 280,95 |
+| 2302.10.301.157.2.690.3390.0000 | 22.940,30 |
+| 2302.10.302.114.2.891.3390.0000 | 742.072,80 |
+| TOTAL DA ANULAÇÃO | 765.294,05 |
 
 ANEXO II
 
@@ -122,16 +111,11 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 1º da Lei nº 11.377, de 8 de julho de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2022 |
-
-|Art. 1º da Lei nº 11.377, de 08/07/2022 – Emendas Parlamentares Individuais |
-
-|Limite total autorizado |R$ 64.153.793,00 |
-
-|Valor dos créditos suplementares abertos no exercício |R$ 64.123.342,79 |
-
-|Saldos de créditos suplementares |R$ 30.450,21 |
-
-|Percentual utilizado |99,95% |
-
-|Atualizado em 26/12/2022 às 16:15:09 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2022 |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.377, de 08/07/2022 – Emendas Parlamentares Individuais |  |
+| Limite total autorizado | R$ 64.153.793,00 |
+| Valor dos créditos suplementares abertos no exercício | R$ 64.123.342,79 |
+| Saldos de créditos suplementares | R$ 30.450,21 |
+| Percentual utilizado | 99,95% |
+| Atualizado em 26/12/2022 às 16:15:09 |  |

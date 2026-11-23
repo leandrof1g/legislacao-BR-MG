@@ -64,7 +64,7 @@ RECLAMADO: Município de Belo Horizonte
 
 VALOR: R$ 136.118,29 em 31/10/2002
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 DESCRIÇÃO DAS VERBAS DE ACORDO COM AS COLUNAS ENUMERADAS:
 
@@ -104,7 +104,7 @@ AÇÃO TRABALHISTA
 
 VALOR: R$ 723.626,32 EM 31/10/2002
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 DESCRIÇÃO DAS VERBAS DE ACORDO COM AS COLUNAS ENUMERADAS:
 

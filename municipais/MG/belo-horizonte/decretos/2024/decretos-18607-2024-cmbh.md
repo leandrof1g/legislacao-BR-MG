@@ -58,41 +58,28 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da |R$ |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – |
-
-|EGM-SMPOG |
-
-|4002.12.361.0168.2850.319011.500 |120.000,00 |
-
-|4002.12.361.0168.2850.319113.500 |30.000,00 |
-
-|4002.04.122.0007.3010.319011.500 |600.000,00 |
-
-|4002.04.122.0007.3010.319113.500 |3.000.000,00 |
-
-|4002.04.122.0007.3010.319013.500 |50.000,00 |
-
-|4002.04.122.0007.3010.319194.500 |800.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.600.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da | R$ |
+| --- | --- |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – |  |
+| EGM-SMPOG |  |
+| 4002.12.361.0168.2850.319011.500 | 120.000,00 |
+| 4002.12.361.0168.2850.319113.500 | 30.000,00 |
+| 4002.04.122.0007.3010.319011.500 | 600.000,00 |
+| 4002.04.122.0007.3010.319113.500 | 3.000.000,00 |
+| 4002.04.122.0007.3010.319013.500 | 50.000,00 |
+| 4002.04.122.0007.3010.319194.500 | 800.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.600.000,00 |
 
 I.2 – Anulação da dotação orçamentária a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – |
-
-|EGM-SMPOG |
-
-|4002.04.122.0007.3010.319094.500 |4.600.000,00 |
-
-|TOTAL DA ANULAÇÃO |4.600.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – |  |
+| EGM-SMPOG |  |
+| 4002.04.122.0007.3010.319094.500 | 4.600.000,00 |
+| TOTAL DA ANULAÇÃO | 4.600.000,00 |
 
 ANEXO II
 
@@ -116,26 +103,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados na Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 42.500.000,00 |
-
-|Valor do Decreto publicado nesta data |R$ 4.600.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 47.100.000,00 |
-
-|Saldo atual de créditos suplementares |R$ 1.936.232.772,40 |
-
-|Percentual utilizado |2,37% |
-
-|Atualizado em 16/01/2024 às 17:55:45 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 42.500.000,00 |
+| Valor do Decreto publicado nesta data | R$ 4.600.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 47.100.000,00 |
+| Saldo atual de créditos suplementares | R$ 1.936.232.772,40 |
+| Percentual utilizado | 2,37% |
+| Atualizado em 16/01/2024 às 17:55:45 |  |

@@ -34,9 +34,9 @@ DIA COMEMORATIVO
 
 L – Dias comemorativos de dezembro:
 
-|DATA |COMEMORAÇÃO |
-
-|13/12 |Dia Municipal do Forró |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 13/12 | Dia Municipal do Forró |
 
 .”.
 

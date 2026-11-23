@@ -2170,83 +2170,46 @@ II - repasse de faturamento pertencente a terceiros, inclusive venda de passagen
 
 **Art. 223** - A alíquota do imposto será variável em função da atividade exercida de acordo com a seguinte tabela:
 
-|Nº de ordem Natureza da Atividade UFPBH Preço do Serviço |
-
+| Nº de ordem Natureza da Atividade UFPBH Preço do Serviço |
+| --- |
 | Profissionais Autônomos |
-
-|I Profissionais de nível superior 1 |
-
-|II Profissionais de nível médio e afins 0,7 |
-
-|III Demais Profissionais 0,35 |
-
-|IV Sociedade de Profissionais Liberais – por profissional |
-
-|habilitado, seja sócio, empregado ou terceiro 3 |
-
-|Nº de ordem I - Profissionais de nível superior 1(uma) UFPBH, por ano, |
-
-|Nº de ordem II - Profissionais de nível médio e afins, 0,7 (sete décimos) da UFPBH, por ano; |
-
-|Nº de ordem III - Demais Profissionais, 0,35 (trinta e cinco centésimos) da UFPBH, por ano; |
-
-|Nº de ordem IV - Sociedade de Profissionais Liberais por profissional habilitado, seja sócio, empregado ou terceiro, 0,5 (cinco décimos)|
-
-|da UFPBH, por mês ou fração. |
-
-|Itens com redação dada pela Lei nº 3.394, de 26/11/1981 (Art. 6º) |
-
+| I Profissionais de nível superior 1 |
+| II Profissionais de nível médio e afins 0,7 |
+| III Demais Profissionais 0,35 |
+| IV Sociedade de Profissionais Liberais – por profissional |
+| habilitado, seja sócio, empregado ou terceiro 3 |
+| Nº de ordem I - Profissionais de nível superior 1(uma) UFPBH, por ano, |
+| Nº de ordem II - Profissionais de nível médio e afins, 0,7 (sete décimos) da UFPBH, por ano; |
+| Nº de ordem III - Demais Profissionais, 0,35 (trinta e cinco centésimos) da UFPBH, por ano; |
+| Nº de ordem IV - Sociedade de Profissionais Liberais por profissional habilitado, seja sócio, empregado ou terceiro, 0,5 (cinco décimos) |
+| da UFPBH, por mês ou fração. |
+| Itens com redação dada pela Lei nº 3.394, de 26/11/1981 (Art. 6º) |
 | Empresas |
-
-|V Apresentação de peças teatrais, música popular, concertos e |
-
-|recitais de música erudita, espetáculos folclóricos e populares, |
-
-|realizados em caráter temporário, inclusive por profissionais autônomos 2% |
-
-|VI Espetáculos desportivos sob o patrocínio da Federação Mineira de futebol 2% |
-
-|VII Execução, por administração, empreitada ou subempreitada de construção |
-
-|civil, de obras hidráulicas e outras semelhantes, inclusive serviços auxiliares |
-
-|ou complementares 2% |
-
-|VIII Demolição, conservação e reparação de edifícios (inclusive elevadores neles |
-
-|instalados) estradas pontes e congêneres 2% |
-
-|IX Composição gráfica, clicheria, zincografia, litografia e fotolitografia 3% |
-
-|X Diversões públicas, exceto as mencionadas nos itens V e VI 10% |
-
-|XI Demais serviços |
-
-|5% |
-
-|XII Diversão pública: cinemas 2% |
-
-|Item XII acrescentado pela Lei nº 3.412, de 2/11/1982 (Art. 1º) |
-
-|XIII “Leasing'' 3% |
-
-|Item XIII acrescentado pela Lei nº 3.412, de 2/11/1982 (Art. 1º) |
-
-|XIV Fornecimento da mão de obra 2% |
-
-|Item XIV acrescentado pela Lei nº 4.303, de 27/12/1985 (Art. 3º) |
-
-|XV Exposições com cobrança de ingressos. 5% |
-
-|Item XV acrescentado pela Lei nº 4.303, de 27/12/1985 (Art. 3º) |
-
-|XVI Clínicas e escolas especializadas de atendimento a excepcionais. 2% |
-
-|Item XVI acrescentado pela Lei nº 4.303, de 27/12/1985 (Art. 3º) |
-
-|XVII Limpeza de imóveis. 2% |
-
-|Item XVII acrescentado pela Lei nº 4.605, de 11/11/1986 (Art. 1º) |
+| V Apresentação de peças teatrais, música popular, concertos e |
+| recitais de música erudita, espetáculos folclóricos e populares, |
+| realizados em caráter temporário, inclusive por profissionais autônomos 2% |
+| VI Espetáculos desportivos sob o patrocínio da Federação Mineira de futebol 2% |
+| VII Execução, por administração, empreitada ou subempreitada de construção |
+| civil, de obras hidráulicas e outras semelhantes, inclusive serviços auxiliares |
+| ou complementares 2% |
+| VIII Demolição, conservação e reparação de edifícios (inclusive elevadores neles |
+| instalados) estradas pontes e congêneres 2% |
+| IX Composição gráfica, clicheria, zincografia, litografia e fotolitografia 3% |
+| X Diversões públicas, exceto as mencionadas nos itens V e VI 10% |
+| XI Demais serviços |
+| 5% |
+| XII Diversão pública: cinemas 2% |
+| Item XII acrescentado pela Lei nº 3.412, de 2/11/1982 (Art. 1º) |
+| XIII “Leasing'' 3% |
+| Item XIII acrescentado pela Lei nº 3.412, de 2/11/1982 (Art. 1º) |
+| XIV Fornecimento da mão de obra 2% |
+| Item XIV acrescentado pela Lei nº 4.303, de 27/12/1985 (Art. 3º) |
+| XV Exposições com cobrança de ingressos. 5% |
+| Item XV acrescentado pela Lei nº 4.303, de 27/12/1985 (Art. 3º) |
+| XVI Clínicas e escolas especializadas de atendimento a excepcionais. 2% |
+| Item XVI acrescentado pela Lei nº 4.303, de 27/12/1985 (Art. 3º) |
+| XVII Limpeza de imóveis. 2% |
+| Item XVII acrescentado pela Lei nº 4.605, de 11/11/1986 (Art. 1º) |
 
 **Parágrafo Único** - O valor do imposto poderá ser fixado por estimativa, conforme dispuser o regulamento.
 
@@ -3160,17 +3123,13 @@ A – Localização inicial, para abertura ou instalação 1 – sôbre o valor 
 
 B – Renovação anual de localização: 2 – sôbre o valor do aluguel mensal, estimado, do imóvel, ou parte do imóvel, ocupado ou utilizado pelo estabelecimento 10%
 
-|Alíquota sôbre o salário mínimo |
-
-|Dia |Mês |Ano |
-
-| | | |
-
-|1% |25% |250% |
-
-|0,5% |15% |200% |
-
-|0,20% |5% |50% |
+| Alíquota sôbre o salário mínimo |  |  |
+| --- | --- | --- |
+| Dia | Mês | Ano |
+|  |  |  |
+| 1% | 25% | 250% |
+| 0,5% | 15% | 200% |
+| 0,20% | 5% | 50% |
 
 C – Ambulantes e Eventuais:
 

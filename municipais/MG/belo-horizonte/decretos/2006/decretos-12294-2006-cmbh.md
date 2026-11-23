@@ -182,169 +182,89 @@ REQUERIMENTO PARA LICENCIAMENTO DE EVENTOS
 
 EM LOGRADOUROS PÚBLICOS
 
-|REQUERIMENTO PARA LICENCIAMENTO DE EVENTOS EM LOGRADOUROS PÚBLICOS |
-
-|01. Dados do Promotor do Evento |
-
-|Nome / Razão Social |CPF / CNPJ |
-
-|Responsável |Insc. Municipal |
-
-|Endereço |Telefone |
-
-|02. Localização do Evento |
-
-|Evento |Área Utilizada |
-
-|Logradouro |
-
-|Número |Complemento |Bairro |
-
-|Trecho |
-
-|03. Classificação do Evento |
-
-| |
-
-|3.1 Natureza: |
-
-| |
-
-|( Cultural ( Político ( Expositivo |
-
-|( Esportivo ( Social ( Outros _________________ |
-
-|( Entretenimento e Lazer ( Religioso |
-
-| |
-
-|3.2 Duração: |
-
-| |
-
-|( Momentâneo Data ____/____/_______ |
-
-|( Contínuo Período de ____/____/______ até ____/____/______ |
-
-|Horário de Funcionamento de _____:______ horas até _____:______ horas |
-
-| |
-
-|3.3 Dimensão de Público: |
-
-| |
-
-|( Mínimo - até 2500 pessoas, e que consistam especialmente em comemorações de datas históricas, de festas juninas, folclóricas, |
-
-|religiosas e comunitárias em geral, no qual não haja a montagem de palcos e ou de palanques e ou de estruturas similares, não haja |
-
-|preparação de alimentos no local, e que não utilize gás liqüefeito de petróleo. Número |
-
-|de participantes: ____________ |
-
-| |
-
-|( Pequeno - até 25.000 pessoas Número de participantes: ____________ |
-
-|( Médio - de 25.001 até 100.000 pessoas |
-
-|( Grande - acima de 100.000 pessoas |
-
-|04. Uso de |Espetáculo |OBSERVAÇÕES |
-
-|publicidade: |pirotécnico: | |
-
-|( Sim |( Sim | |
-
-|( Não |( Não | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-|05. Equipamentos ou Apetrechos a serem utilizados, inclusive aparelho sonoro |
-
-| |
-
-| |
-
-|06. Faz parte do COFEM-BH |
-
-| ( Sim ( Não |
-
-|07. Tipo de local |
-
-| ( Aberto – espaço não edificado |
-
-|( Fechado – espaço edificado |
-
-|08. Termo de Responsabilidade |
-
-| |
-
-|O REQUERENTE QUE A ESTE SUBSCREVE OU REPRESENTANTE LEGAL DA EMPRESA ABAIXO INDICADO. |
-
-| |
-
-|DECLARA: |
-
-| |
-
-|1 – QUE TODAS AS INFORMAÇÕES E DOCUMENTOS QUE INSTRUEM O PRESENTE PROCESSO DE LICENCIAMENTO DE EVENTOS EM LOGRADOUROS PÚBLICOS SÃO A |
-
-|EXPRESSÃO DA VERDADE, E QUE RESPONDERÁ PESSOALMENTE, NOS TERMOS DA LEGISLAÇÃO EM VIGOR, POR OMISSÕES E FATOS CONTROVERSOS QUE VENHAM A |
-
-|SER, POSTERIORMENTE, APURADOS; |
-
-| |
-
-|2 – QUE ESTÁ CIENTE DE QUE A APURAÇÃO DE QUALQUER IRREGULARIDADE IMPLICARÁ NA CASSAÇÃO DA LICENÇA E NA APLICAÇÃO DE MULTAS CABÍVEIS, SEM |
-
-|PREJUÍZO DAS DEMAIS PENALIDADES APLICÁVEIS; |
-
-| |
-
-|3 – QUE SE COMPROMETE, JUNTO À PBH, A PROCEDER À LIMPEZA DO LOGRADOURO DURANTE E APÓS O EVENTO E A DAR DESTINAÇÃO ADEQUADA AOS RESÍDUOS |
-
-|SÓLIDOS DECORRENTES DE SUA REALIZAÇÃO, INCLUSIVE OS RELATIVOS A ENGENHOS DE PUBLICIDADE UTILIZADOS NO LOCAL, BEM COMO FAIXAS E MATERIAIS |
-
-|USADOS PARA SINALIZAÇÃO PROVISÓRIA DE EVENTUAIS DESVIOS DE TRÁFEGO. |
-
-| |
-
-|4 – QUE SE COMPROMETE A ZELAR PELO ESTADO DE USO E CONSERVAÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS PÚBLICOS EXISTENTES NO LOGRADOURO ONDE SE |
-
-|REALIZARÁ O EVENTO, SOB PENA DE RESSARCIMENTO À PBH, DE EVENTUAIS DANOS CAUSADOS A SEU PATRIMÔNIO EM DECORRÊNCIA DE CULPA DO PROMOTOR DO |
-
-|EVENTO. |
-
-| |
-
-|5 – QUE SE RESPONSABILIZA POR POSSÍVEIS DANOS AO PATRIMÔNIO PÚBLICO OU A QUAISQUER OUTROS DECORRENTES DO EVENTO NA MEDIDA DAS SUAS |
-
-|OBRIGAÇÕES (ART. 99 DO DECRETO 11.601/04) |
-
-| |
-
-|6 – QUE É RESPONSÁVEL PELO PRESENTE TERMO. |
-
-| |
-
-| |
-
-|BELO HORIZONTE, DE DE |
-
-| |
-
-|_________________________________________________ |
-
-|ASSINATURA ( RECONHECER FIRMA ) |
-
-|09. Dados do Responsável pelo Recebimento da Documentação |
-
-|Nome |BM |Assinatura |Data |
+| REQUERIMENTO PARA LICENCIAMENTO DE EVENTOS EM LOGRADOUROS PÚBLICOS |  |  |  |
+| --- | --- | --- | --- |
+| 01. Dados do Promotor do Evento |  |  |  |
+| Nome / Razão Social | CPF / CNPJ |  |  |
+| Responsável | Insc. Municipal |  |  |
+| Endereço | Telefone |  |  |
+| 02. Localização do Evento |  |  |  |
+| Evento | Área Utilizada |  |  |
+| Logradouro |  |  |  |
+| Número | Complemento | Bairro |  |
+| Trecho |  |  |  |
+| 03. Classificação do Evento |  |  |  |
+|  |  |  |  |
+| 3.1 Natureza: |  |  |  |
+|  |  |  |  |
+| ( Cultural ( Político ( Expositivo |  |  |  |
+| ( Esportivo ( Social ( Outros _________________ |  |  |  |
+| ( Entretenimento e Lazer ( Religioso |  |  |  |
+|  |  |  |  |
+| 3.2 Duração: |  |  |  |
+|  |  |  |  |
+| ( Momentâneo Data ____/____/_______ |  |  |  |
+| ( Contínuo Período de ____/____/______ até ____/____/______ |  |  |  |
+| Horário de Funcionamento de _____:______ horas até _____:______ horas |  |  |  |
+|  |  |  |  |
+| 3.3 Dimensão de Público: |  |  |  |
+|  |  |  |  |
+| ( Mínimo - até 2500 pessoas, e que consistam especialmente em comemorações de datas históricas, de festas juninas, folclóricas, |  |  |  |
+| religiosas e comunitárias em geral, no qual não haja a montagem de palcos e ou de palanques e ou de estruturas similares, não haja |  |  |  |
+| preparação de alimentos no local, e que não utilize gás liqüefeito de petróleo. Número |  |  |  |
+| de participantes: ____________ |  |  |  |
+|  |  |  |  |
+| ( Pequeno - até 25.000 pessoas Número de participantes: ____________ |  |  |  |
+| ( Médio - de 25.001 até 100.000 pessoas |  |  |  |
+| ( Grande - acima de 100.000 pessoas |  |  |  |
+| 04. Uso de | Espetáculo | OBSERVAÇÕES |  |
+| publicidade: | pirotécnico: |  |  |
+| ( Sim | ( Sim |  |  |
+| ( Não | ( Não |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| 05. Equipamentos ou Apetrechos a serem utilizados, inclusive aparelho sonoro |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| 06. Faz parte do COFEM-BH |  |  |  |
+| ( Sim ( Não |  |  |  |
+| 07. Tipo de local |  |  |  |
+| ( Aberto – espaço não edificado |  |  |  |
+| ( Fechado – espaço edificado |  |  |  |
+| 08. Termo de Responsabilidade |  |  |  |
+|  |  |  |  |
+| O REQUERENTE QUE A ESTE SUBSCREVE OU REPRESENTANTE LEGAL DA EMPRESA ABAIXO INDICADO. |  |  |  |
+|  |  |  |  |
+| DECLARA: |  |  |  |
+|  |  |  |  |
+| 1 – QUE TODAS AS INFORMAÇÕES E DOCUMENTOS QUE INSTRUEM O PRESENTE PROCESSO DE LICENCIAMENTO DE EVENTOS EM LOGRADOUROS PÚBLICOS SÃO A |  |  |  |
+| EXPRESSÃO DA VERDADE, E QUE RESPONDERÁ PESSOALMENTE, NOS TERMOS DA LEGISLAÇÃO EM VIGOR, POR OMISSÕES E FATOS CONTROVERSOS QUE VENHAM A |  |  |  |
+| SER, POSTERIORMENTE, APURADOS; |  |  |  |
+|  |  |  |  |
+| 2 – QUE ESTÁ CIENTE DE QUE A APURAÇÃO DE QUALQUER IRREGULARIDADE IMPLICARÁ NA CASSAÇÃO DA LICENÇA E NA APLICAÇÃO DE MULTAS CABÍVEIS, SEM |  |  |  |
+| PREJUÍZO DAS DEMAIS PENALIDADES APLICÁVEIS; |  |  |  |
+|  |  |  |  |
+| 3 – QUE SE COMPROMETE, JUNTO À PBH, A PROCEDER À LIMPEZA DO LOGRADOURO DURANTE E APÓS O EVENTO E A DAR DESTINAÇÃO ADEQUADA AOS RESÍDUOS |  |  |  |
+| SÓLIDOS DECORRENTES DE SUA REALIZAÇÃO, INCLUSIVE OS RELATIVOS A ENGENHOS DE PUBLICIDADE UTILIZADOS NO LOCAL, BEM COMO FAIXAS E MATERIAIS |  |  |  |
+| USADOS PARA SINALIZAÇÃO PROVISÓRIA DE EVENTUAIS DESVIOS DE TRÁFEGO. |  |  |  |
+|  |  |  |  |
+| 4 – QUE SE COMPROMETE A ZELAR PELO ESTADO DE USO E CONSERVAÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS PÚBLICOS EXISTENTES NO LOGRADOURO ONDE SE |  |  |  |
+| REALIZARÁ O EVENTO, SOB PENA DE RESSARCIMENTO À PBH, DE EVENTUAIS DANOS CAUSADOS A SEU PATRIMÔNIO EM DECORRÊNCIA DE CULPA DO PROMOTOR DO |  |  |  |
+| EVENTO. |  |  |  |
+|  |  |  |  |
+| 5 – QUE SE RESPONSABILIZA POR POSSÍVEIS DANOS AO PATRIMÔNIO PÚBLICO OU A QUAISQUER OUTROS DECORRENTES DO EVENTO NA MEDIDA DAS SUAS |  |  |  |
+| OBRIGAÇÕES (ART. 99 DO DECRETO 11.601/04) |  |  |  |
+|  |  |  |  |
+| 6 – QUE É RESPONSÁVEL PELO PRESENTE TERMO. |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| BELO HORIZONTE, DE DE |  |  |  |
+|  |  |  |  |
+| _________________________________________________ |  |  |  |
+| ASSINATURA ( RECONHECER FIRMA ) |  |  |  |
+| 09. Dados do Responsável pelo Recebimento da Documentação |  |  |  |
+| Nome | BM | Assinatura | Data |
 
 ANEXO II
 
@@ -352,149 +272,79 @@ REQUERIMENTO PARA LICENCIAMENTO DE EVENTOS
 
 NA PROPRIEDADE PÚBLICA OU PRIVADA
 
-|REQUERIMENTO PARA LICENCIAMENTO DE EVENTOS NA PROPRIEDADE PÚBLICA OU PRIVADA |
-
-|01. Dados do Promotor do Evento |
-
-|Nome / Razão Social |CPF / CNPJ |
-
-|Endereço |Telefone |
-
-|E-mail |Insc. Municipal |
-
-|02. Localização do Evento |
-
-|Evento |Área Utilizada |
-
-|Logradouro |Índice cadastral |
-
-|Número |Complemento |Bairro |Alvará de Localização: |
-
-|03. Classificação do Evento |
-
-| |
-
-|3.1 Natureza: |
-
-| |
-
-|( Cultural ( Político ( Expositivo |
-
-|( Esportivo ( Social ( Outros ___________________ |
-
-|( Entretenimento e Lazer ( Religioso |
-
-| |
-
-|3.2 Duração: |
-
-| |
-
-|( Momentâneo Data ____/____/_______ |
-
-|( Contínuo Período de ____/____/______ até ____/____/______ |
-
-|Horário de Funcionamento de ______:______ horas até ______:______ horas |
-
-| |
-
-|3.3 Dimensão de Público: |
-
-| |
-
-|( Mínimo - até 2500 pessoas, e que consistam especialmente em comemorações de datas históricas, de festas juninas, folclóricas, religiosas e|
-
-|comunitárias em geral, no qual não haja a montagem de palcos e ou de palanques e ou de estruturas similares, não haja preparação de |
-
-|alimentos no local, e que não utilize gás liqüefeito de petróleo. |
-
-|Número de participantes: ____________ |
-
-| |
-
-|( Pequeno - até 25.000 pessoas Número de participantes: ____________ |
-
-| |
-
-|( Médio - de 25.001 até 100.000 pessoas |
-
-| |
-
-|( Grande - acima de 100.000 pessoas |
-
-|04. Atividades de Apoio: |Uso de publicidade: |Espetáculo pirotécnico: |
-
-| |( Sim |( Sim |
-
-| |( Não |( Não |
-
-| | | |
-
-| | | |
-
-| | | |
-
-|05. Faz parte do COFEM-BH |
-
-| ( Sim ( Não |
-
-|06. Tipo de local |
-
-| ( Aberto – espaço não edificado |Estimativa de geração de resíduos: |
-
-|( Fechado – espaço edificado | |
-
-|07. Termo de Responsabilidade |
-
-| |
-
-|O REQUERENTE QUE A ESTE SUBSCREVE OU REPRESENTANTE LEGAL DA EMPRESA ABAIXO INDICADO. |
-
-| |
-
-|DECLARA: |
-
-| |
-
-|1 – QUE TODAS AS INFORMAÇÕES E DOCUMENTOS QUE INSTRUEM O PRESENTE PROCESSO DE LICENCIAMENTO DE EVENTOS EM LOGRADOUROS PÚBLICOS SÃO A |
-
-|EXPRESSÃO DA VERDADE, E QUE RESPONDERÁ PESSOALMENTE, NOS TERMOS DA LEGISLAÇÃO EM VIGOR, POR OMISSÕES E FATOS CONTROVERSOS QUE VENHAM A SER, |
-
-|POSTERIORMENTE, APURADOS; |
-
-| |
-
-|2 – QUE ESTÁ CIENTE DE QUE A APURAÇÃO DE QUALQUER IRREGULARIDADE IMPLICARÁ NA CASSAÇÃO DA LICENÇA E NA APLICAÇÃO DE MULTAS CABÍVEIS, SEM |
-
-|PREJUÍZO DAS DEMAIS PENALIDADES APLICÁVEIS; |
-
-| |
-
-|3 – QUE SE COMPROMETE, JUNTO À PBH, A PROCEDER À LIMPEZA DO LOGRADOURO LINDEIRO AO LOCAL DE REALIZAÇÃO DO EVENTO DURANTE E APÓS SUA |
-
-|REALIZAÇÃO E A DAR DESTINAÇÃO ADEQUADA AOS RESÍDUOS SÓLIDOS DECORRENTES, INCLUSIVE OS RELATIVOS A ENGENHOS DE PUBLICIDADE UTILIZADOS NO |
-
-|LOCAL, BEM COMO FAIXAS E MATERIAIS USADOS PARA SINALIZAÇÃO PROVISÓRIA DE EVENTUAIS DESVIOS DE TRÁFEGO. |
-
-| |
-
-|4 – QUE É RESPONSÁVEL PELO PRESENTE TERMO. |
-
-| |
-
-| |
-
-|BELO HORIZONTE, DE DE |
-
-| |
-
-|_________________________________________________ |
-
-|ASSINATURA ( RECONHECER FIRMA ) |
-
-|08. Dados do Responsável pelo Recebimento da Documentação |
-
-|Nome |BM |Assinatura |Data |
+| REQUERIMENTO PARA LICENCIAMENTO DE EVENTOS NA PROPRIEDADE PÚBLICA OU PRIVADA |  |  |  |
+| --- | --- | --- | --- |
+| 01. Dados do Promotor do Evento |  |  |  |
+| Nome / Razão Social | CPF / CNPJ |  |  |
+| Endereço | Telefone |  |  |
+| E-mail | Insc. Municipal |  |  |
+| 02. Localização do Evento |  |  |  |
+| Evento | Área Utilizada |  |  |
+| Logradouro | Índice cadastral |  |  |
+| Número | Complemento | Bairro | Alvará de Localização: |
+| 03. Classificação do Evento |  |  |  |
+|  |  |  |  |
+| 3.1 Natureza: |  |  |  |
+|  |  |  |  |
+| ( Cultural ( Político ( Expositivo |  |  |  |
+| ( Esportivo ( Social ( Outros ___________________ |  |  |  |
+| ( Entretenimento e Lazer ( Religioso |  |  |  |
+|  |  |  |  |
+| 3.2 Duração: |  |  |  |
+|  |  |  |  |
+| ( Momentâneo Data ____/____/_______ |  |  |  |
+| ( Contínuo Período de ____/____/______ até ____/____/______ |  |  |  |
+| Horário de Funcionamento de ______:______ horas até ______:______ horas |  |  |  |
+|  |  |  |  |
+| 3.3 Dimensão de Público: |  |  |  |
+|  |  |  |  |
+| ( Mínimo - até 2500 pessoas, e que consistam especialmente em comemorações de datas históricas, de festas juninas, folclóricas, religiosas e |  |  |  |
+| comunitárias em geral, no qual não haja a montagem de palcos e ou de palanques e ou de estruturas similares, não haja preparação de |  |  |  |
+| alimentos no local, e que não utilize gás liqüefeito de petróleo. |  |  |  |
+| Número de participantes: ____________ |  |  |  |
+|  |  |  |  |
+| ( Pequeno - até 25.000 pessoas Número de participantes: ____________ |  |  |  |
+|  |  |  |  |
+| ( Médio - de 25.001 até 100.000 pessoas |  |  |  |
+|  |  |  |  |
+| ( Grande - acima de 100.000 pessoas |  |  |  |
+| 04. Atividades de Apoio: | Uso de publicidade: | Espetáculo pirotécnico: |  |
+|  | ( Sim | ( Sim |  |
+|  | ( Não | ( Não |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| 05. Faz parte do COFEM-BH |  |  |  |
+| ( Sim ( Não |  |  |  |
+| 06. Tipo de local |  |  |  |
+| ( Aberto – espaço não edificado | Estimativa de geração de resíduos: |  |  |
+| ( Fechado – espaço edificado |  |  |  |
+| 07. Termo de Responsabilidade |  |  |  |
+|  |  |  |  |
+| O REQUERENTE QUE A ESTE SUBSCREVE OU REPRESENTANTE LEGAL DA EMPRESA ABAIXO INDICADO. |  |  |  |
+|  |  |  |  |
+| DECLARA: |  |  |  |
+|  |  |  |  |
+| 1 – QUE TODAS AS INFORMAÇÕES E DOCUMENTOS QUE INSTRUEM O PRESENTE PROCESSO DE LICENCIAMENTO DE EVENTOS EM LOGRADOUROS PÚBLICOS SÃO A |  |  |  |
+| EXPRESSÃO DA VERDADE, E QUE RESPONDERÁ PESSOALMENTE, NOS TERMOS DA LEGISLAÇÃO EM VIGOR, POR OMISSÕES E FATOS CONTROVERSOS QUE VENHAM A SER, |  |  |  |
+| POSTERIORMENTE, APURADOS; |  |  |  |
+|  |  |  |  |
+| 2 – QUE ESTÁ CIENTE DE QUE A APURAÇÃO DE QUALQUER IRREGULARIDADE IMPLICARÁ NA CASSAÇÃO DA LICENÇA E NA APLICAÇÃO DE MULTAS CABÍVEIS, SEM |  |  |  |
+| PREJUÍZO DAS DEMAIS PENALIDADES APLICÁVEIS; |  |  |  |
+|  |  |  |  |
+| 3 – QUE SE COMPROMETE, JUNTO À PBH, A PROCEDER À LIMPEZA DO LOGRADOURO LINDEIRO AO LOCAL DE REALIZAÇÃO DO EVENTO DURANTE E APÓS SUA |  |  |  |
+| REALIZAÇÃO E A DAR DESTINAÇÃO ADEQUADA AOS RESÍDUOS SÓLIDOS DECORRENTES, INCLUSIVE OS RELATIVOS A ENGENHOS DE PUBLICIDADE UTILIZADOS NO |  |  |  |
+| LOCAL, BEM COMO FAIXAS E MATERIAIS USADOS PARA SINALIZAÇÃO PROVISÓRIA DE EVENTUAIS DESVIOS DE TRÁFEGO. |  |  |  |
+|  |  |  |  |
+| 4 – QUE É RESPONSÁVEL PELO PRESENTE TERMO. |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| BELO HORIZONTE, DE DE |  |  |  |
+|  |  |  |  |
+| _________________________________________________ |  |  |  |
+| ASSINATURA ( RECONHECER FIRMA ) |  |  |  |
+| 08. Dados do Responsável pelo Recebimento da Documentação |  |  |  |
+| Nome | BM | Assinatura | Data |
 
 ANEXO III
 

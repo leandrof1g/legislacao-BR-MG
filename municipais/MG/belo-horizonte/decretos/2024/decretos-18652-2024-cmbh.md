@@ -74,57 +74,33 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei | |
-
-|nº 11.594, de 22 de setembro de 2023: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.339030.702 |191.146,04 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2405.339036.660 |662.577,07 |
-
-|1011.08.244.0019.2405.339039.660 |68.548,27 |
-
-|Fundo Municipal do Idoso – FMI |
-
-|1018.14.241.0235.2697.339039.749 |5.450.055,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2930.339039.715 |11.200.000,00 |
-
-|3100.13.391.0155.2375.339039.500 |7.070,70 |
-
-|3100.13.392.0154.2930.339036.715 |1.411.000,00 |
-
-|3100.13.392.0154.2930.339036.716 |2.380.000,00 |
-
-|3100.13.392.0154.2930.339039.716 |820.000,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|1014.12.306.0132.2761.339030.552 |4.986.866,97 |
-
-|Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |
-
-|3102.13.391.0155.2375.339031.500 |443.880,00 |
-
-|3102.13.391.0155.2375.339039.500 |56.120,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0060.2567.339047.501 |60.000,00 |
-
-|3302.26.452.0060.2567.339036.501 |538.107,36 |
-
-|3302.26.452.0060.2567.339049.501 |97.568,52 |
-
-|TOTAL DA SUPLEMENTAÇÃO |28.372.939,93 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei |  |
+| nº 11.594, de 22 de setembro de 2023: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.339030.702 | 191.146,04 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2405.339036.660 | 662.577,07 |
+| 1011.08.244.0019.2405.339039.660 | 68.548,27 |
+| Fundo Municipal do Idoso – FMI |  |
+| 1018.14.241.0235.2697.339039.749 | 5.450.055,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2930.339039.715 | 11.200.000,00 |
+| 3100.13.391.0155.2375.339039.500 | 7.070,70 |
+| 3100.13.392.0154.2930.339036.715 | 1.411.000,00 |
+| 3100.13.392.0154.2930.339036.716 | 2.380.000,00 |
+| 3100.13.392.0154.2930.339039.716 | 820.000,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 1014.12.306.0132.2761.339030.552 | 4.986.866,97 |
+| Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |  |
+| 3102.13.391.0155.2375.339031.500 | 443.880,00 |
+| 3102.13.391.0155.2375.339039.500 | 56.120,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0060.2567.339047.501 | 60.000,00 |
+| 3302.26.452.0060.2567.339036.501 | 538.107,36 |
+| 3302.26.452.0060.2567.339049.501 | 97.568,52 |
+| TOTAL DA SUPLEMENTAÇÃO | 28.372.939,93 |
 
 ANEXO II
 

@@ -58,65 +58,40 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei| |
-
-|nº 11.801, de 2 de janeiro de 2025: | |
-
-|Secretaria Municipal de Mobilidade Urbana – SMMUR |
-
-|3500.26.452.0060.2567.319011.1.500.000 |9.500,00 |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.319011.1.500.000 |103.000,00 |
-
-|Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |
-
-|3400.04.122.0007.2900.319011.1.500.000 |543.200,00 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.319011.1.500.000 |611.184,00 |
-
-|3600.04.122.0007.2900.319013.1.500.000 |200,00 |
-
-|3600.04.122.0093.2900.319011.1.500.000 |80.100,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0127.2386.319011.1.500.000 |20.900,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.368.084,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei |  |
+| nº 11.801, de 2 de janeiro de 2025: |  |
+| Secretaria Municipal de Mobilidade Urbana – SMMUR |  |
+| 3500.26.452.0060.2567.319011.1.500.000 | 9.500,00 |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.319011.1.500.000 | 103.000,00 |
+| Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |  |
+| 3400.04.122.0007.2900.319011.1.500.000 | 543.200,00 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.319011.1.500.000 | 611.184,00 |
+| 3600.04.122.0007.2900.319013.1.500.000 | 200,00 |
+| 3600.04.122.0093.2900.319011.1.500.000 | 80.100,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0127.2386.319011.1.500.000 | 20.900,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.368.084,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, conforme| |
-
-|autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.245.0020.2878.319011.1.500.000 |20.900,00 |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.04.129.0013.2052.319011.1.500.000 |543.200,00 |
-
-|Gabinete do Vice-Prefeito – GVP |
-
-|0202.04.122.0096.2801.319113.1.500.000 |13.596,00 |
-
-|0202.04.122.0096.2801.319011.1.500.000 |381.687,00 |
-
-|0202.04.122.0096.2801.319013.1.500.000 |328.901,00 |
-
-|0202.04.122.0096.2801.339046.1.500.000 |79.800,00 |
-
-|TOTAL DA ANULAÇÃO |1.368.084,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, conforme |  |
+| autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.245.0020.2878.319011.1.500.000 | 20.900,00 |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.04.129.0013.2052.319011.1.500.000 | 543.200,00 |
+| Gabinete do Vice-Prefeito – GVP |  |
+| 0202.04.122.0096.2801.319113.1.500.000 | 13.596,00 |
+| 0202.04.122.0096.2801.319011.1.500.000 | 381.687,00 |
+| 0202.04.122.0096.2801.319013.1.500.000 | 328.901,00 |
+| 0202.04.122.0096.2801.339046.1.500.000 | 79.800,00 |
+| TOTAL DA ANULAÇÃO | 1.368.084,00 |
 
 ANEXO II
 
@@ -148,20 +123,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos especiais abertos anteriormente |986.459.866,59 |
-
-|Valor do Decreto publicado nesta data |1.368.084,00 |
-
-|Valor total dos créditos especiais abertos no exercício |987.827.950,59 |
-
-|Saldo atual do limite autorizado |1.061.199.276,34 |
-
-|Percentual utilizado |48,21% |
-
-|Atualizado em 14/07/2025 às 16:44:44 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos especiais abertos anteriormente | 986.459.866,59 |
+| Valor do Decreto publicado nesta data | 1.368.084,00 |
+| Valor total dos créditos especiais abertos no exercício | 987.827.950,59 |
+| Saldo atual do limite autorizado | 1.061.199.276,34 |
+| Percentual utilizado | 48,21% |
+| Atualizado em 14/07/2025 às 16:44:44 |  |

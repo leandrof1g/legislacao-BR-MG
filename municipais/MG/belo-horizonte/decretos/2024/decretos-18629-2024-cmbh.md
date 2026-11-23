@@ -46,63 +46,36 @@ ANEXO
 
 (...) IV.5 – Secretaria Municipal de Educação – Smed:
 
-|SMED |
-
-|CARGO / FUNÇÃO|RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|– NÍVEL | | | |
-
-|DAM-1 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMED.DAM1.A.001 |
-
-|DAM-2 |LIMITADO |2 |SMED.DAM2.L.001 a SMED.DAM2.L.002 |
-
-| | | |Item retificado em 19/2/2024 |
-
-| |AMPLO |1 |SMED.DAM2.A.001 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |3 |SMED.DAM3.A.001 a SMED.DAM3.A.003 |
-
-|DAM-4 |LIMITADO |7 |SMED.DAM4.L.001 a SMED.DAM4.L.007 |
-
-| |AMPLO |1 |SMED.DAM4.A.001 |
-
-|DAM-5 |LIMITADO |4 |SMED.DAM5.L.001 a SMED.DAM5.L.004 |
-
-| |AMPLO |2 |SMED.DAM5.A.001 a SMED.DAM5.A.002 |
-
-|DAM-6 |LIMITADO |8 |SMED.DAM6.L.001 a SMED.DAM6.L.008 |
-
-| |AMPLO |8 |SMED.DAM6.A.001 a SMED.DAM6.A.008 |
-
-|DAM-7 |LIMITADO |1 |SMED.DAM7.L.001 |
-
-| |AMPLO |1 |SMED.DAM7.A.001 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-9 |LIMITADO |1 |SMED.DAM9.L.001 |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |7 |SMED.FCA4.001 a SMED.FCA4.007 |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |47 | |
+| SMED |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| – NÍVEL |  |  |  |
+| DAM-1 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMED.DAM1.A.001 |
+| DAM-2 | LIMITADO | 2 | SMED.DAM2.L.001 a SMED.DAM2.L.002 |
+|  |  |  | Item retificado em 19/2/2024 |
+|  | AMPLO | 1 | SMED.DAM2.A.001 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 3 | SMED.DAM3.A.001 a SMED.DAM3.A.003 |
+| DAM-4 | LIMITADO | 7 | SMED.DAM4.L.001 a SMED.DAM4.L.007 |
+|  | AMPLO | 1 | SMED.DAM4.A.001 |
+| DAM-5 | LIMITADO | 4 | SMED.DAM5.L.001 a SMED.DAM5.L.004 |
+|  | AMPLO | 2 | SMED.DAM5.A.001 a SMED.DAM5.A.002 |
+| DAM-6 | LIMITADO | 8 | SMED.DAM6.L.001 a SMED.DAM6.L.008 |
+|  | AMPLO | 8 | SMED.DAM6.A.001 a SMED.DAM6.A.008 |
+| DAM-7 | LIMITADO | 1 | SMED.DAM7.L.001 |
+|  | AMPLO | 1 | SMED.DAM7.A.001 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-9 | LIMITADO | 1 | SMED.DAM9.L.001 |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 7 | SMED.FCA4.001 a SMED.FCA4.007 |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 47 |  |  |
 
 ”
 

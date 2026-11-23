@@ -640,259 +640,138 @@ Item 96 retificado em 16/01/1988
 
 TABELA II
 
-|Nº de Ordem |Natureza da Atividade |Alíquota |
-
-| | |Base na UFPBH |Sobre Preço Serviço |
-
-| |Serviços Pessoais | | |
-
-| | | | |
-
-|I |Profissionais de Nível Superior |2 p/ano | |
-
-| | | | |
-
-| |Demais profissionais | | |
-
-|II | |1 p/ano | |
-
-| |Sociedade de Profissionais | | |
-
-|III |Liberais (por profissional | | |
-
-| |habilitado) |1 p /mês | |
-
-| | | | |
-
-| |Empresas | | |
-
-| | | | |
-
-| |Fornecimento de mão de obra | | |
-
-|IV |Fornecimento de mão-de-obra e | |2% |
-
-| |vigilância | | |
-
-|IV |Item IV com redação dada pela Lei| |2% |
-
-| |nº 4.965, de 29/12/1987 (Art. 2º)| | |
-
-| | | | |
-
-| |Conservação e limpeza de imóveis | | |
-
-| | | | |
-
-| |Turismo, passeios e excursões | | |
-
-|V | | |2% |
-
-| |Ensino de qualquer grau ou | | |
-
-| |natureza | | |
-
-|VI | | |2% |
-
-| |Espetáculos esportivos | | |
-
-| | | | |
-
-|VII |Apresentação de peças teatrais, | |2% |
-
-| |música popular, consertos e | | |
-
-| |recitais de música erudita, | | |
-
-|VIII |espetáculos folclóricos e | |2% |
-
-| |populares realizados em caráter | | |
-
-|IX |temporário | | |
-
-| |Apresentação de música popular, | | |
-
-| |concertos e recitais de música | | |
-
-| |erudita, espetáculos folclóricos | |2% |
-
-| |e populares realizados em caráter| | |
-
-| |temporário | | |
-
-| |Item IX com redação dada pela Lei| | |
-
-| |nº 4.965, de 29/12/1987 (Art. 2º)| | |
-
-| | | | |
-
-| |Cinemas | | |
-
-|IX | | | |
-
-| |Demais modalidades de diversões | | |
-
-| |públicas | | |
-
-| | | |2% |
-
-| |Composição e impressão gráfica, | | |
-
-| |clicheria, zincografia, | | |
-
-| |litografia e fotolitografia | | |
-
-| | | | |
-
-| |Cobrança de ingressos em | | |
-
-|X |exposições | |3% |
-
-| | | | |
-
-|XI |Demais serviços | | |
-
-| | | |10% |
-
-| | | | |
-
-|XII | | | |
-
-| | | |3% |
-
-| | | | |
-
-| | | | |
-
-| | | | |
-
-|XIII | | |5% |
-
-| | | | |
-
-| | | | |
-
-|XIV | | |5% |
-
-| | | | |
+| Nº de Ordem | Natureza da Atividade | Alíquota |  |
+| --- | --- | --- | --- |
+|  |  | Base na UFPBH | Sobre Preço Serviço |
+|  | Serviços Pessoais |  |  |
+|  |  |  |  |
+| I | Profissionais de Nível Superior | 2 p/ano |  |
+|  |  |  |  |
+|  | Demais profissionais |  |  |
+| II |  | 1 p/ano |  |
+|  | Sociedade de Profissionais |  |  |
+| III | Liberais (por profissional |  |  |
+|  | habilitado) | 1 p /mês |  |
+|  |  |  |  |
+|  | Empresas |  |  |
+|  |  |  |  |
+|  | Fornecimento de mão de obra |  |  |
+| IV | Fornecimento de mão-de-obra e |  | 2% |
+|  | vigilância |  |  |
+| IV | Item IV com redação dada pela Lei |  | 2% |
+|  | nº 4.965, de 29/12/1987 (Art. 2º) |  |  |
+|  |  |  |  |
+|  | Conservação e limpeza de imóveis |  |  |
+|  |  |  |  |
+|  | Turismo, passeios e excursões |  |  |
+| V |  |  | 2% |
+|  | Ensino de qualquer grau ou |  |  |
+|  | natureza |  |  |
+| VI |  |  | 2% |
+|  | Espetáculos esportivos |  |  |
+|  |  |  |  |
+| VII | Apresentação de peças teatrais, |  | 2% |
+|  | música popular, consertos e |  |  |
+|  | recitais de música erudita, |  |  |
+| VIII | espetáculos folclóricos e |  | 2% |
+|  | populares realizados em caráter |  |  |
+| IX | temporário |  |  |
+|  | Apresentação de música popular, |  |  |
+|  | concertos e recitais de música |  |  |
+|  | erudita, espetáculos folclóricos |  | 2% |
+|  | e populares realizados em caráter |  |  |
+|  | temporário |  |  |
+|  | Item IX com redação dada pela Lei |  |  |
+|  | nº 4.965, de 29/12/1987 (Art. 2º) |  |  |
+|  |  |  |  |
+|  | Cinemas |  |  |
+| IX |  |  |  |
+|  | Demais modalidades de diversões |  |  |
+|  | públicas |  |  |
+|  |  |  | 2% |
+|  | Composição e impressão gráfica, |  |  |
+|  | clicheria, zincografia, |  |  |
+|  | litografia e fotolitografia |  |  |
+|  |  |  |  |
+|  | Cobrança de ingressos em |  |  |
+| X | exposições |  | 3% |
+|  |  |  |  |
+| XI | Demais serviços |  |  |
+|  |  |  | 10% |
+|  |  |  |  |
+| XII |  |  |  |
+|  |  |  | 3% |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| XIII |  |  | 5% |
+|  |  |  |  |
+|  |  |  |  |
+| XIV |  |  | 5% |
+|  |  |  |  |
 
 TABELA II
 
 Tabela II com redação dada pela Lei nº 5.124, de 25/5/1988 (Art. 1º)
 
-| | | |
-
-|NÚMERO DE ORDEM |NATUREZA DA ATIVIDADE |ALÍQUOTA |
-
-| | | |
-
-|SERVIÇOS PESSOAIS |BASE NA UFPBH |SOBRE PREÇO DO SERVIÇO |
-
-|I |- Profissionais de nível superior |2 p/ano |- |
-
-|II |- Demais profissionais |1 p/ano |- |
-
-|III |- Sociedade de profissionais liberais (por |1 p/mês |- |
-
-| |profissional habilitado) | | |
-
-| | | | |
-
-| |EMPRESAS | | |
-
-|IV |- Limpeza, manutenção e conservação de imóveis | | |
-
-| |inclusive vias públicas, parques e jardins | | |
-
-| | | |2% |
-
-|V |- Execução, por administração empreitada ou | | |
-
-| |subempreitada, de construção civil, de obras | | |
-
-| |hidráulicas e outras obras semelhantes e respectiva| | |
-
-| |engenharia consultiva, inclusive serviços | | |
-
-| |auxiliares ou | | |
-
-| |complementares | |2% |
-
-|VI |Reparação, conservação e reforma de edifícios, | | |
-
-| |estradas, pontes, portos e congêneres | | |
-
-| | | |2% |
-
-|VII |- Ensino, instrução, treinamento | | |
-
-| |avaliação de conhecimentos, de qualquer grau ou | | |
-
-| |natureza | |2% |
-
-|VIII |- Organização, promoção e execução de programas de | | |
-
-| |turismo, passeios, excursões, guias de turismo e | |2% |
-
-| |congêneres | | |
-
-|IX |- Vigilância ou segurança de pessoas e bens | | |
-
-| | | |2% |
-
-|X |- Fornecimento de mão-de-obra, mesmo em caráter | | |
-
-| |temporário, inclusive por empregados do prestador | | |
-
-| |do serviço ou por trabalhadores avulsos por ele | | |
-
-| |contratados | |2% |
-
-|XI |- Locação de bens móveis: | | |
-
-| |a) arrendamento mercantil ("leasing"); | |2% |
-
-| |b) demais serviços de locação de bens móveis. | | |
-
-| | | |5% |
-
-|XII |- Diversões públicas | | |
-
-| |a) apresentação de música popular, concertos e | | |
-
-| |recitais de música erudita, espetáculos folclóricos| | |
-
-| |e populares realizados em caráter temporário | |2% |
-
-| |b)espetáculos esportivos; | | |
-
-| |c) cinemas; | | |
-
-| |d) cobranças de ingressos em exposições | | |
-
-| | | | |
-
-| |e).demais modalidades de diversões públicas | | |
-
-| | | |2% |
-
-| | | | |
-
-| | | |3% |
-
-| | | | |
-
-| | | |5% |
-
-| | | | |
-
-| | | |10% |
-
-|XIII |- Composição gráfica, fotocomposição, clicheria, | | |
-
-| |zincografia, litografia, fotolitografia (VETADO) | |3% |
-
-|XIV |- Demais serviços | |5% |
+|  |  |  |  |
+| --- | --- | --- | --- |
+| NÚMERO DE ORDEM | NATUREZA DA ATIVIDADE | ALÍQUOTA |  |
+|  |  |  |  |
+| SERVIÇOS PESSOAIS | BASE NA UFPBH | SOBRE PREÇO DO SERVIÇO |  |
+| I | - Profissionais de nível superior | 2 p/ano | - |
+| II | - Demais profissionais | 1 p/ano | - |
+| III | - Sociedade de profissionais liberais (por | 1 p/mês | - |
+|  | profissional habilitado) |  |  |
+|  |  |  |  |
+|  | EMPRESAS |  |  |
+| IV | - Limpeza, manutenção e conservação de imóveis |  |  |
+|  | inclusive vias públicas, parques e jardins |  |  |
+|  |  |  | 2% |
+| V | - Execução, por administração empreitada ou |  |  |
+|  | subempreitada, de construção civil, de obras |  |  |
+|  | hidráulicas e outras obras semelhantes e respectiva |  |  |
+|  | engenharia consultiva, inclusive serviços |  |  |
+|  | auxiliares ou |  |  |
+|  | complementares |  | 2% |
+| VI | Reparação, conservação e reforma de edifícios, |  |  |
+|  | estradas, pontes, portos e congêneres |  |  |
+|  |  |  | 2% |
+| VII | - Ensino, instrução, treinamento |  |  |
+|  | avaliação de conhecimentos, de qualquer grau ou |  |  |
+|  | natureza |  | 2% |
+| VIII | - Organização, promoção e execução de programas de |  |  |
+|  | turismo, passeios, excursões, guias de turismo e |  | 2% |
+|  | congêneres |  |  |
+| IX | - Vigilância ou segurança de pessoas e bens |  |  |
+|  |  |  | 2% |
+| X | - Fornecimento de mão-de-obra, mesmo em caráter |  |  |
+|  | temporário, inclusive por empregados do prestador |  |  |
+|  | do serviço ou por trabalhadores avulsos por ele |  |  |
+|  | contratados |  | 2% |
+| XI | - Locação de bens móveis: |  |  |
+|  | a) arrendamento mercantil ("leasing"); |  | 2% |
+|  | b) demais serviços de locação de bens móveis. |  |  |
+|  |  |  | 5% |
+| XII | - Diversões públicas |  |  |
+|  | a) apresentação de música popular, concertos e |  |  |
+|  | recitais de música erudita, espetáculos folclóricos |  |  |
+|  | e populares realizados em caráter temporário |  | 2% |
+|  | b)espetáculos esportivos; |  |  |
+|  | c) cinemas; |  |  |
+|  | d) cobranças de ingressos em exposições |  |  |
+|  |  |  |  |
+|  | e).demais modalidades de diversões públicas |  |  |
+|  |  |  | 2% |
+|  |  |  |  |
+|  |  |  | 3% |
+|  |  |  |  |
+|  |  |  | 5% |
+|  |  |  |  |
+|  |  |  | 10% |
+| XIII | - Composição gráfica, fotocomposição, clicheria, |  |  |
+|  | zincografia, litografia, fotolitografia (VETADO) |  | 3% |
+| XIV | - Demais serviços |  | 5% |
 
 ## Observações da CMBH
 

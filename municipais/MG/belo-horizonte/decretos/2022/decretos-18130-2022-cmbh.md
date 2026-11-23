@@ -58,53 +58,34 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 1º da Lei nº|R$ |
-
-|11.377, de 8 de julho de 2022: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.109.2.803.3390.0000 |15.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.233.1.219.4490.0000 |122.000,00 |
-
-|2700.17.512.046.2.537.4490.0000 |45.971,31 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.217.2.853.3390.0000 |40.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |222.971,31 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 1º da Lei nº | R$ |
+| --- | --- |
+| 11.377, de 8 de julho de 2022: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.109.2.803.3390.0000 | 15.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.233.1.219.4490.0000 | 122.000,00 |
+| 2700.17.512.046.2.537.4490.0000 | 45.971,31 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.217.2.853.3390.0000 | 40.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 222.971,31 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, | |
-
-|conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de | |
-
-|2022: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.109.2.803.3390.0000 |15.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.812.3390.0000 |122.000,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.228.2.537.3390.0000 |45.971,31 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.217.2.853.3350.0000 |40.000,00 |
-
-|TOTAL DA ANULAÇÃO |222.971,31 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, |  |
+| conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de |  |
+| 2022: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.109.2.803.3390.0000 | 15.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.812.3390.0000 | 122.000,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.228.2.537.3390.0000 | 45.971,31 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.217.2.853.3350.0000 | 40.000,00 |
+| TOTAL DA ANULAÇÃO | 222.971,31 |
 
 ANEXO II
 
@@ -152,16 +133,11 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 1º da Lei nº 11.377, de 8 de julho de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2022 |
-
-|Art. 1º da Lei nº 11.377, de 08/07/2022 – Emendas Parlamentares Individuais |
-
-|Limite total autorizado |R$ 64.153.793,00 |
-
-|Valor dos créditos suplementares abertos no exercício |R$ 61.560.388,05 |
-
-|Saldos de créditos suplementares |R$ 2.593.404,95 |
-
-|Percentual utilizado |95,96% |
-
-|Atualizado em 20/10/2022 às 08:38:11 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2022 |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.377, de 08/07/2022 – Emendas Parlamentares Individuais |  |
+| Limite total autorizado | R$ 64.153.793,00 |
+| Valor dos créditos suplementares abertos no exercício | R$ 61.560.388,05 |
+| Saldos de créditos suplementares | R$ 2.593.404,95 |
+| Percentual utilizado | 95,96% |
+| Atualizado em 20/10/2022 às 08:38:11 |  |

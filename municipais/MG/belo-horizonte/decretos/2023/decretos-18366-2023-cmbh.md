@@ -44,38 +44,26 @@ ANEXO I
 
 (a que se refere o art. 1º do Decreto nº 18.366, de 5 de julho de 2023)
 
-|Tipo de Serviço |Tarifa de 23/04/23 até |Tarifa a |
-
-|(Grupo de Linhas) |07/07/23 (R$) |partir |
-
-| | |de 08/07/23 |
-
-| | |(R$) |
-
-|I – Diametrais, Semi-expressas, Radiais, Perimetrais e |6,00 |4,50 |
-
-|Troncais (Tarifa de Referência) | | |
-
-|II – Circulares e Alimentadoras |4,20 |4,20 |
-
-|III – Social (Vilas e Favelas) |0,00 |0,00 |
+| Tipo de Serviço | Tarifa de 23/04/23 até | Tarifa a |
+| --- | --- | --- |
+| (Grupo de Linhas) | 07/07/23 (R$) | partir |
+|  |  | de 08/07/23 |
+|  |  | (R$) |
+| I – Diametrais, Semi-expressas, Radiais, Perimetrais e | 6,00 | 4,50 |
+| Troncais (Tarifa de Referência) |  |  |
+| II – Circulares e Alimentadoras | 4,20 | 4,20 |
+| III – Social (Vilas e Favelas) | 0,00 | 0,00 |
 
 ANEXO II
 
 (a que se refere o art. 2º do Decreto nº 18.366, de 5 de julho de 2023)
 
-|Grupo de Linhas |Tarifa de |Tarifa a partir |
-
-| |23/04/23 até 07/07/23 (R$) |de 08/07/23 |
-
-| | |(R$) |
-
-|1 |4,20 |4,20 |
-
-|2 |4,80 |4,20 |
-
-|3 |6,00 |4,50 |
-
-|(Tarifa de referência) | | |
-
-|4 |2,20 |2,00 |
+| Grupo de Linhas | Tarifa de | Tarifa a partir |
+| --- | --- | --- |
+|  | 23/04/23 até 07/07/23 (R$) | de 08/07/23 |
+|  |  | (R$) |
+| 1 | 4,20 | 4,20 |
+| 2 | 4,80 | 4,20 |
+| 3 | 6,00 | 4,50 |
+| (Tarifa de referência) |  |  |
+| 4 | 2,20 | 2,00 |

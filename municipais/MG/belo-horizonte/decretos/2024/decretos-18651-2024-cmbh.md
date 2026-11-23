@@ -58,65 +58,40 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei|R$ |
-
-|nº 11.644, de 29 de dezembro de 2023: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2900.339092.500 |1.137.427,00 |
-
-|2505.18.541.0073.2900.339093.500 |474.806,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.339030.500 |422.620,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0302.2365.449092.500 |2.500,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2539.339039.500 |341.178,62 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2854.339039.500 |3.900.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |6.278.531,62 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei | R$ |
+| --- | --- |
+| nº 11.644, de 29 de dezembro de 2023: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2900.339092.500 | 1.137.427,00 |
+| 2505.18.541.0073.2900.339093.500 | 474.806,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.339030.500 | 422.620,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0302.2365.449092.500 | 2.500,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2539.339039.500 | 341.178,62 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2854.339039.500 | 3.900.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 6.278.531,62 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.1.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.9999.999999.500 |1.607.427,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339039.500 |474.806,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.500 |422.620,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0302.2365.339040.500 |2.500,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1330.449051.500 |3.430.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2566.339035.500 |341.178,62 |
-
-|TOTAL DA ANULAÇÃO |6.278.531,62 |
+| I.1.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.9999.999999.500 | 1.607.427,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339039.500 | 474.806,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.500 | 422.620,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0302.2365.339040.500 | 2.500,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1330.449051.500 | 3.430.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2566.339035.500 | 341.178,62 |
+| TOTAL DA ANULAÇÃO | 6.278.531,62 |
 
 ANEXO II
 
@@ -158,26 +133,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 136.801.892,86 |
-
-|Valor do Decreto publicado nesta data |R$ 6.278.531,62 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 143.080.424,48 |
-
-|Saldo atual de créditos suplementares |R$ 1.840.252.347,92 |
-
-|Percentual utilizado |7,21% |
-
-|Atualizado em 08/03/2024 às 09:58:47 |
-
-| | |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 136.801.892,86 |
+| Valor do Decreto publicado nesta data | R$ 6.278.531,62 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 143.080.424,48 |
+| Saldo atual de créditos suplementares | R$ 1.840.252.347,92 |
+| Percentual utilizado | 7,21% |
+| Atualizado em 08/03/2024 às 09:58:47 |  |
+|  |  |

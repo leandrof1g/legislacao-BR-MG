@@ -114,22 +114,14 @@ PARA A REGIÃO METROPOLITANA DE BELO HORIZONTE
 
 Em Cr$ 1.000,00
 
-|PROJETOS E OBRAS |ESTADO |UNIÃO |TOTAL |
-
-| | |FNDU / FDTU |EBU / BIRD | |
-
-|MELHORAMENTOS TOPICS |10.132 |11.836 |11.836 |33.804 |
-
-|Área central, Av. Pedro II e Av. Antonio Carlos |10.132 |11.836 |11.836 |33.804 |
-
-|PAVIMENTAÇÃO BAIRROS DE BAIXA RENDA |4.680 |21.020 |21.020 |46.720 |
-
-|B.1 - Obras |4.680 |21.020 |21.020 |46.720 |
-
-|AVENIDA CRISTIANO MACHADO |6.650 |- |- |6.650 |
-
-|Desapropriações |6.650 |- |- |6.650 |
-
-|ELABORAÇÃO DE PROJETO |6.700 |- |- |6.700 |
-
-|TOTAL |28.162 |32.856 |32.856 |93.874 |
+| PROJETOS E OBRAS | ESTADO | UNIÃO | TOTAL |  |
+| --- | --- | --- | --- | --- |
+|  |  | FNDU / FDTU | EBU / BIRD |  |
+| MELHORAMENTOS TOPICS | 10.132 | 11.836 | 11.836 | 33.804 |
+| Área central, Av. Pedro II e Av. Antonio Carlos | 10.132 | 11.836 | 11.836 | 33.804 |
+| PAVIMENTAÇÃO BAIRROS DE BAIXA RENDA | 4.680 | 21.020 | 21.020 | 46.720 |
+| B.1 - Obras | 4.680 | 21.020 | 21.020 | 46.720 |
+| AVENIDA CRISTIANO MACHADO | 6.650 | - | - | 6.650 |
+| Desapropriações | 6.650 | - | - | 6.650 |
+| ELABORAÇÃO DE PROJETO | 6.700 | - | - | 6.700 |
+| TOTAL | 28.162 | 32.856 | 32.856 | 93.874 |

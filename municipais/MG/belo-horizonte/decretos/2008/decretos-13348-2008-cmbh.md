@@ -36,31 +36,20 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, de con
 
 **Art. 1º** - Fica o Hospital Municipal Odilon Behrens autorizado a contratar pessoal, para a manutenção da prestação dos serviços públicos de saúde, garantidores da sobrevivência, saúde e segurança da população, nos limites do quadro abaixo:
 
-|CARGO |QUANTIDADE |
-
-|Auxiliar de Farmácia |15 |
-
-|Auxiliar de Cozinha |32 |
-
-|Auxiliar de Lavanderia |39 |
-
-|Ajudante de Manutenção |08 |
-
-|Auxiliar de Serviços |01 |
-
-|Oficial I |08 |
-
-|Oficial II |01 |
-
-|Técnico em Refrigeração |01 |
-
-|Técnico de Manutenção de Equipamento |01 |
-
-|Estoquista |03 |
-
-|Mestre de obras |01 |
-
-|Maqueiro |11 |
+| CARGO | QUANTIDADE |
+| --- | --- |
+| Auxiliar de Farmácia | 15 |
+| Auxiliar de Cozinha | 32 |
+| Auxiliar de Lavanderia | 39 |
+| Ajudante de Manutenção | 08 |
+| Auxiliar de Serviços | 01 |
+| Oficial I | 08 |
+| Oficial II | 01 |
+| Técnico em Refrigeração | 01 |
+| Técnico de Manutenção de Equipamento | 01 |
+| Estoquista | 03 |
+| Mestre de obras | 01 |
+| Maqueiro | 11 |
 
 **Art. 2º** - Este Decreto entra em vigor na data de sua publicação.
 

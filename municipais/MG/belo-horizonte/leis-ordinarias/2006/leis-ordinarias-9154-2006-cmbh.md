@@ -76,15 +76,12 @@ Caput com redação dada pela Lei nº 11.914, de 30/10/2025 (Art. 24 com vigênc
 
 **§ 6º** - Os empregados públicos que optarem por este Plano de Carreira serão posicionados nas jornadas básicas previstas para os seus empregos públicos efetivos no Anexo III-A, e posicionados nos níveis de salários-base definidos para essas jornadas básicas nas Tabelas do Anexo IV, conforme o grau de escolaridade exigido para o seu emprego público, nos seguintes termos:
 
-|Nível de escolaridade exigido para o provimento do |Nível de salário-base no qual será posicionado o emprego público |
-
-|emprego público |nas Tabelas do Anexo IV para as jornadas básicas |
-
-|Fundamental |nível 6 |
-
-|Médio |nível 6 |
-
-|Superior |nível 4 |
+| Nível de escolaridade exigido para o provimento do | Nível de salário-base no qual será posicionado o emprego público |
+| --- | --- |
+| emprego público | nas Tabelas do Anexo IV para as jornadas básicas |
+| Fundamental | nível 6 |
+| Médio | nível 6 |
+| Superior | nível 4 |
 
 **§ 7º** - Respeitada a conveniência e o interesse do serviço, bem como a avaliação e a aprovação específica para tal finalidade, conforme dispuser o regulamento desta Lei, e após ser posicionado na jornada básica, poderá ser facultado ao empregado público optar pelas jornadas especiais previstas no Anexo III-A, fazendo jus, nessa hipótese, aos salários-base definidos para essas jornadas especiais no Anexo IV, no mesmo nível em que foram posicionados na jornada básica, conforme o disposto no parágrafo anterior.
 
@@ -152,35 +149,22 @@ IV - parcela instituída pelo art. 5º da Lei nº 6.560/94 e suas alterações p
 
 **§ 1º** com redação dada pela Lei nº 9.816, de 18/1/2010 (Art. 20)
 
-|EMPREGO PÚBLICO |VALOR A SER INCORPORADO |
-
-| |(em R$) |
-
-|Auxiliar de Serviços |50,70 |
-
-|Auxiliar de Administração |50,70 |
-
-|Oficial de Serviços |50,70 |
-
-|Telefonista |50,70 |
-
-|Motorista |50,70 |
-
-|Agente de Serviços de Saúde |50,70 |
-
-|Técnico de Serviços de Saúde |76,90 |
-
-|Agente de Administração |76,90 |
-
-|Tesoureiro |76,90 |
-
-|Técnico de Nível Médio |76,90 |
-
-|Técnico Superior de Saúde |172,50 |
-
-|Cirurgião-Dentista |185,30 |
-
-|Médico |228,10 |
+| EMPREGO PÚBLICO | VALOR A SER INCORPORADO |
+| --- | --- |
+|  | (em R$) |
+| Auxiliar de Serviços | 50,70 |
+| Auxiliar de Administração | 50,70 |
+| Oficial de Serviços | 50,70 |
+| Telefonista | 50,70 |
+| Motorista | 50,70 |
+| Agente de Serviços de Saúde | 50,70 |
+| Técnico de Serviços de Saúde | 76,90 |
+| Agente de Administração | 76,90 |
+| Tesoureiro | 76,90 |
+| Técnico de Nível Médio | 76,90 |
+| Técnico Superior de Saúde | 172,50 |
+| Cirurgião-Dentista | 185,30 |
+| Médico | 228,10 |
 
 **§ 2º** - O Ambulatório do HOB será posicionado no Padrão IV de classificação, conforme Anexo V desta Lei, considerando a responsabilidade deste Setor na realização de interconsultas e procedimentos de suporte terapêutico aos pacientes das Clínicas de Internação e do Pronto Socorro, e considerando o fato de participar das atividades de Ensino demandadas por esses Setores.
 
@@ -570,141 +554,85 @@ DAS DISPOSIÇÕES FINAIS
 
 **Parágrafo único** - A partir de 1° de junho de 2005, e após a incorporação prevista no caput, os níveis dos vencimentos-base dos cargos públicos efetivos de Agente de Serviços de Saúde, Técnico de Serviços de Saúde e Médico, integrantes do Plano de Carreira da Área de Atividades da Saúde da Prefeitura Municipal de Belo Horizonte, passam a ter os seguintes valores:
 
-|Nível |Agente de Serviços de Saúde|Técnico de Serviços de Saúde |Médico |
-
-|1 |545,00 |572,72 |1.614,19 |
-
-|2 |572,25 |601,36 |1.694,90 |
-
-|3 |600,86 |631,43 |1.779,64 |
-
-|4 |630,91 |663,00 |1,868,63 |
-
-|5 |662,45 |696,15 |1.962,06 |
-
-|6 |695,58 |730,95 |2.060,16 |
-
-|7 |730,35 |767,50 |2.163,17 |
-
-|8 |766,87 |805,88 |2.271,33 |
-
-|9 |805,22 |846,17 |2.384,89 |
-
-|10 |845,48 |888,48 |2.504,14 |
-
-|11 |887,75 |932,90 |2.629,35 |
-
-|12 |932,14 |979,55 |2.760,81 |
-
-|13 |978,74 |1.028,53 |2.898,85 |
-
-|14 |1.027,68 |1.079,95 |3.043,80 |
-
-|15 |1.079,07 |1.133,95 |3.195,99 |
+| Nível | Agente de Serviços de Saúde | Técnico de Serviços de Saúde | Médico |
+| --- | --- | --- | --- |
+| 1 | 545,00 | 572,72 | 1.614,19 |
+| 2 | 572,25 | 601,36 | 1.694,90 |
+| 3 | 600,86 | 631,43 | 1.779,64 |
+| 4 | 630,91 | 663,00 | 1,868,63 |
+| 5 | 662,45 | 696,15 | 1.962,06 |
+| 6 | 695,58 | 730,95 | 2.060,16 |
+| 7 | 730,35 | 767,50 | 2.163,17 |
+| 8 | 766,87 | 805,88 | 2.271,33 |
+| 9 | 805,22 | 846,17 | 2.384,89 |
+| 10 | 845,48 | 888,48 | 2.504,14 |
+| 11 | 887,75 | 932,90 | 2.629,35 |
+| 12 | 932,14 | 979,55 | 2.760,81 |
+| 13 | 978,74 | 1.028,53 | 2.898,85 |
+| 14 | 1.027,68 | 1.079,95 | 3.043,80 |
+| 15 | 1.079,07 | 1.133,95 | 3.195,99 |
 
 **Art. 30** - A Tabela de vencimentos-base do cargo público de Técnico Superior de Saúde, integrante do Plano de Carreira da Área de Atividades da Saúde da Prefeitura Municipal de Belo Horizonte, será a seguinte a partir de 1º de setembro de 2005:
 
-|Nível |Técnico Superior de Saúde |
-
-|1 |1.025,00 |
-
-|2 |1.076,25 |
-
-|3 |1.130,06 |
-
-|4 |1.186,57 |
-
-|5 |1.245,89 |
-
-|6 |1.308,19 |
-
-|7 |1.373,60 |
-
-|8 |1.442,28 |
-
-|9 |1.514,39 |
-
-|10 |1.590,11 |
-
-|11 |1.669,62 |
-
-|12 |1.753,10 |
-
-|13 |1.840,75 |
-
-|14 |1.932,79 |
-
-|15 |2.029,43 |
+| Nível | Técnico Superior de Saúde |
+| --- | --- |
+| 1 | 1.025,00 |
+| 2 | 1.076,25 |
+| 3 | 1.130,06 |
+| 4 | 1.186,57 |
+| 5 | 1.245,89 |
+| 6 | 1.308,19 |
+| 7 | 1.373,60 |
+| 8 | 1.442,28 |
+| 9 | 1.514,39 |
+| 10 | 1.590,11 |
+| 11 | 1.669,62 |
+| 12 | 1.753,10 |
+| 13 | 1.840,75 |
+| 14 | 1.932,79 |
+| 15 | 2.029,43 |
 
 **Art. 31** - A Tabela de vencimentos-base dos cargos públicos de Agente de Serviço de Saúde, Técnico de Serviços de Saúde, Técnico Superior de Saúde e Médico, integrantes do Plano de Carreira da Área de Atividades da Saúde da Prefeitura Municipal de Belo Horizonte, serão as seguintes a partir de 1º de janeiro de 2006:
 
-|Nível |Agente de Serviços de Saúde|Técnico de Serviços de Saúde |Técnico Superior de Saúde |Médico |
-
-|1 |569,00 |597,45 |1.100,00 |1.763,86 |
-
-|2 |597,45 |627,32 |1.155,00 |1.852,05 |
-
-|3 |627,32 |658,69 |1.212,75 |1.944,66 |
-
-|4 |658,69 |691,62 |1.273,39 |2.041,89 |
-
-|5 |691,62 |726,20 |1.337,06 |2.143,98 |
-
-|6 |726,20 |762,51 |1.403,91 |2.251,18 |
-
-|7 |762,51 |800,64 |1.474,11 |2.363,74 |
-
-|8 |800,64 |840,67 |1.547,81 |2.481,93 |
-
-|9 |840,67 |882,71 |1.625,20 |2.606,02 |
-
-|10 |882,71 |926,84 |1.706,46 |2.736,33 |
-
-|11 |926,84 |973,18 |1.791,78 |2.873,14 |
-
-|12 |973,18 |1.021,84 |1.881,37 |3.016,80 |
-
-|13 |1.021,84 |1.072,93 |1.975,44 |3.167,64 |
-
-|14 |1.072,93 |1.126,58 |2.074,21 |3.326,02 |
-
-|15 |1.126,58 |1.182,91 |2.177,92 |3.492,32 |
+| Nível | Agente de Serviços de Saúde | Técnico de Serviços de Saúde | Técnico Superior de Saúde | Médico |
+| --- | --- | --- | --- | --- |
+| 1 | 569,00 | 597,45 | 1.100,00 | 1.763,86 |
+| 2 | 597,45 | 627,32 | 1.155,00 | 1.852,05 |
+| 3 | 627,32 | 658,69 | 1.212,75 | 1.944,66 |
+| 4 | 658,69 | 691,62 | 1.273,39 | 2.041,89 |
+| 5 | 691,62 | 726,20 | 1.337,06 | 2.143,98 |
+| 6 | 726,20 | 762,51 | 1.403,91 | 2.251,18 |
+| 7 | 762,51 | 800,64 | 1.474,11 | 2.363,74 |
+| 8 | 800,64 | 840,67 | 1.547,81 | 2.481,93 |
+| 9 | 840,67 | 882,71 | 1.625,20 | 2.606,02 |
+| 10 | 882,71 | 926,84 | 1.706,46 | 2.736,33 |
+| 11 | 926,84 | 973,18 | 1.791,78 | 2.873,14 |
+| 12 | 973,18 | 1.021,84 | 1.881,37 | 3.016,80 |
+| 13 | 1.021,84 | 1.072,93 | 1.975,44 | 3.167,64 |
+| 14 | 1.072,93 | 1.126,58 | 2.074,21 | 3.326,02 |
+| 15 | 1.126,58 | 1.182,91 | 2.177,92 | 3.492,32 |
 
 **Art. 32** - Aplica-se aos servidores ocupantes dos cargos públicos efetivos integrantes do Plano de Carreira da Área de Atividades da Saúde da Prefeitura Municipal de Belo Horizonte, o disposto nos incisos III e IV do § 1º e nos §§ 4º e 5º, todos do art. 15 desta Lei, desde que ainda não ultrapassado o limite previsto no § 1º do art. 5º da Lei nº 7.238, de 30 de dezembro de 1996, combinado com o art. 6º do mesmo diploma legal.
 
 **Art. 33** - A partir de 1º de junho de 2005, o abono do parágrafo único do art. 7º da Lei nº 6.560/94, devido ao servidor público lotado e em efetivo exercício das atribuições de seu cargo efetivo nas Unidades de Pronto Atendimento - UPAs -, Centros de Referência em Saúde Mental - CERSAMs -, e Serviços de Atendimento Móvel de Urgência - SAMUs -, será pago conforme os seguintes cargos públicos e valores:
 
-|CARGOS EFETIVOS |ABONO DE URGÊNCIA |
-
-|Agente Sanitário |152,00 |
-
-|Ajudante Serviço Operacional |152,00 |
-
-|Auxiliar Administrativo |152,00 |
-
-|Motorista |152,00 |
-
-|Oficial Serviço Público |152,00 |
-
-|Telefonista |152,00 |
-
-|Agente Serviço de Saúde |202,70 |
-
-|Assistente Administrativo |230,56 |
-
-|Educador Social |230,56 |
-
-|Técnico Serviço de Saúde |230,56 |
-
-|Técnico Serviço Público |230,56 |
-
-|Analista Políticas Públicas |517,50 |
-
-|Técnico Superior de Saúde |517,50 |
-
-|Cirurgião-Dentista |555,30 |
-
-|Médico |725,90 |
+| CARGOS EFETIVOS | ABONO DE URGÊNCIA |
+| --- | --- |
+| Agente Sanitário | 152,00 |
+| Ajudante Serviço Operacional | 152,00 |
+| Auxiliar Administrativo | 152,00 |
+| Motorista | 152,00 |
+| Oficial Serviço Público | 152,00 |
+| Telefonista | 152,00 |
+| Agente Serviço de Saúde | 202,70 |
+| Assistente Administrativo | 230,56 |
+| Educador Social | 230,56 |
+| Técnico Serviço de Saúde | 230,56 |
+| Técnico Serviço Público | 230,56 |
+| Analista Políticas Públicas | 517,50 |
+| Técnico Superior de Saúde | 517,50 |
+| Cirurgião-Dentista | 555,30 |
+| Médico | 725,90 |
 
 **Art. 34** - A partir de 1º de junho de 2005, fica instituído o Abono por Indenização de Deslocamento Fiscal Sanitário, a ser pago aos servidores públicos ocupantes dos cargos públicos que integram o Plano de Carreira da Área de Atividades da Vigilância Sanitária, estabelecido na Lei nº 8.788, de 2 de abril de 2004, tendo por objetivo o desenvolvimento das ações da vigilância sanitária desempenhadas no âmbito do Município, a ser quitado exclusivamente com recursos específicos da vigilância sanitária ou seu equivalente, transferidos pelo Ministério da Saúde, conforme o disposto na Lei Federal nº 8.142, de 28 de dezembro de 1990, e seu regulamento, especialmente a Resolução de Diretoria Colegiada/Agência Nacional de Vigilância Sanitária - ANVISA - nº 200/2002, e suas alterações.
 
@@ -754,177 +682,105 @@ II - interrupção ou cancelamento do repasse de recursos específicos pelo Mini
 
 **Art. 40** - Os vencimentos-base atribuídos na Tabela de Vencimentos do Plano de Carreira da Área de Atividades de Tributação, instituído pela Lei nº 7.645, de 12 de fevereiro de 1999, aos ocupantes dos cargos públicos efetivos de Agente Fazendário, Técnico Fazendário de Nível Médio, Tesoureiro e Analista Fazendário, em cumprimento de jornada de 8 (oito) horas diárias, ficam alterados a partir de 1º de janeiro de 2006, conforme os seguintes valores:
 
-|Nível de |Tesoureiro |Agente Fazendário |Técnico Fazendário de Nível Médio |Analista Fazendário |
-
-|Vencimento | | | | |
-
-|1 |875,71 |1.081,03 |1.081,03 |1.866,30 |
-
-|2 |919,50 |1.135,08 |1.135,08 |1.959,62 |
-
-|3 |965,47 |1.191,83 |1.191,83 |2.057,60 |
-
-|4 |1.013,74 |1.251,42 |1.251,42 |2.160,48 |
-
-|5 |1.064,43 |1.314,00 |1.314,00 |2.268,50 |
-
-|6 |1.117,65 |1.379,70 |1.379,70 |2.381,93 |
-
-|7 |1.173,54 |1.448,68 |1.448,68 |2.501,02 |
-
-|8 |1.232,21 |1.521,11 |1.521,11 |2.626,07 |
-
-|9 |1.293,82 |1.597,17 |1.597,17 |2.757,38 |
-
-|10 |1.358,51 |1.677,03 |1.677,03 |2.895,25 |
-
-|11 |1.426,44 |1.760,88 |1.760,88 |3.040,01 |
-
-|12 |1.497,76 |1.848,92 |1.848,92 |3.192,01 |
-
-|13 |1.572,65 |1.941,37 |1.941,37 |3.351,61 |
-
-|14 |1.651,28 |2.038,44 |2.038,44 |3.519,19 |
-
-|15 |1.733,85 |2.140,36 |2.140,36 |3.695,15 |
+| Nível de | Tesoureiro | Agente Fazendário | Técnico Fazendário de Nível Médio | Analista Fazendário |
+| --- | --- | --- | --- | --- |
+| Vencimento |  |  |  |  |
+| 1 | 875,71 | 1.081,03 | 1.081,03 | 1.866,30 |
+| 2 | 919,50 | 1.135,08 | 1.135,08 | 1.959,62 |
+| 3 | 965,47 | 1.191,83 | 1.191,83 | 2.057,60 |
+| 4 | 1.013,74 | 1.251,42 | 1.251,42 | 2.160,48 |
+| 5 | 1.064,43 | 1.314,00 | 1.314,00 | 2.268,50 |
+| 6 | 1.117,65 | 1.379,70 | 1.379,70 | 2.381,93 |
+| 7 | 1.173,54 | 1.448,68 | 1.448,68 | 2.501,02 |
+| 8 | 1.232,21 | 1.521,11 | 1.521,11 | 2.626,07 |
+| 9 | 1.293,82 | 1.597,17 | 1.597,17 | 2.757,38 |
+| 10 | 1.358,51 | 1.677,03 | 1.677,03 | 2.895,25 |
+| 11 | 1.426,44 | 1.760,88 | 1.760,88 | 3.040,01 |
+| 12 | 1.497,76 | 1.848,92 | 1.848,92 | 3.192,01 |
+| 13 | 1.572,65 | 1.941,37 | 1.941,37 | 3.351,61 |
+| 14 | 1.651,28 | 2.038,44 | 2.038,44 | 3.519,19 |
+| 15 | 1.733,85 | 2.140,36 | 2.140,36 | 3.695,15 |
 
 **Parágrafo único** - Os vencimentos-base atribuídos na Tabela de Vencimentos do Plano de Carreira da Área de Atividades de Tributação aos ocupantes dos cargos públicos efetivos de Agente Fazendário, Técnico Fazendário de Nível Médio, Tesoureiro e Analista Fazendário, em cumprimento de jornada de 6 (seis) horas diárias, ficam alterados a partir de 1º de janeiro de 2006, conforme os seguintes valores:
 
-|Nível de Vencimento |Tesoureiro |Agente Fazendário |Técnico Fazendário de Nível Médio|Analista Fazendário |
-
-|1 |502,55 |619,62 |619,62 |1.093,83 |
-
-|2 |527,68 |650,60 |650,60 |1.148,52 |
-
-|3 |554,06 |683,13 |683,13 |1.205,94 |
-
-|4 |581,77 |717,28 |717,28 |1.266,24 |
-
-|5 |610,85 |753,15 |753,15 |1.329,55 |
-
-|6 |641,40 |790,80 |790,80 |1.396,03 |
-
-|7 |673,47 |830,34 |830,34 |1.465,83 |
-
-|8 |707,14 |871,86 |871,86 |1.539,12 |
-
-|9 |742,50 |915,45 |915,45 |1.616,08 |
-
-|10 |779,62 |961,23 |961,23 |1.696,88 |
-
-|11 |818,60 |1.009,29 |1.009,29 |1.781,73 |
-
-|12 |859,53 |1.059,75 |1.059,75 |1.870,82 |
-
-|13 |902,51 |1.112,74 |1.112,74 |1.964,36 |
-
-|14 |947,63 |1.168,38 |1.168,38 |2.062,57 |
-
-|15 |995,02 |1.226,80 |1.226,80 |2.165,70 |
+| Nível de Vencimento | Tesoureiro | Agente Fazendário | Técnico Fazendário de Nível Médio | Analista Fazendário |
+| --- | --- | --- | --- | --- |
+| 1 | 502,55 | 619,62 | 619,62 | 1.093,83 |
+| 2 | 527,68 | 650,60 | 650,60 | 1.148,52 |
+| 3 | 554,06 | 683,13 | 683,13 | 1.205,94 |
+| 4 | 581,77 | 717,28 | 717,28 | 1.266,24 |
+| 5 | 610,85 | 753,15 | 753,15 | 1.329,55 |
+| 6 | 641,40 | 790,80 | 790,80 | 1.396,03 |
+| 7 | 673,47 | 830,34 | 830,34 | 1.465,83 |
+| 8 | 707,14 | 871,86 | 871,86 | 1.539,12 |
+| 9 | 742,50 | 915,45 | 915,45 | 1.616,08 |
+| 10 | 779,62 | 961,23 | 961,23 | 1.696,88 |
+| 11 | 818,60 | 1.009,29 | 1.009,29 | 1.781,73 |
+| 12 | 859,53 | 1.059,75 | 1.059,75 | 1.870,82 |
+| 13 | 902,51 | 1.112,74 | 1.112,74 | 1.964,36 |
+| 14 | 947,63 | 1.168,38 | 1.168,38 | 2.062,57 |
+| 15 | 995,02 | 1.226,80 | 1.226,80 | 2.165,70 |
 
 **Art. 41** - Os vencimentos-base atribuídos na Tabela de Vencimentos do Plano de Carreira da Área de Atividades de Tributação, instituído pela Lei nº 7.645/99, aos ocupantes dos cargos públicos efetivos de Agente Fazendário, Técnico Fazendário de Nível Médio, Tesoureiro e Analista Fazendário, em cumprimento de jornada de 8 (oito) horas diárias, ficam alterados a partir de 1º de julho de 2006, conforme os seguintes valores:
 
-|Nível de Vencimento |Tesoureiro |Agente Fazendário |Técnico Fazendário de Nível Médio|Analista Fazendário |
-
-|1 |919,50 |1.135,08 |1.135,08 |1.959,62 |
-
-|2 |965,47 |1.191,83 |1.191,83 |2.057,60 |
-
-|3 |1.013,74 |1.251,42 |1.251,42 |2.160,48 |
-
-|4 |1.064,43 |1.314,00 |1.314,00 |2.268,50 |
-
-|5 |1.117,65 |1.379,70 |1.379,70 |2.381,93 |
-
-|6 |1.173,54 |1.448,68 |1.448,68 |2.501,02 |
-
-|7 |1.232,21 |1.521,11 |1.521,11 |2.626,07 |
-
-|8 |1.293,82 |1.597,17 |1.597,17 |2.757,38 |
-
-|9 |1.358,51 |1.677,03 |1.677,03 |2.895,25 |
-
-|10 |1.426,44 |1.760,88 |1.760,88 |3.040,01 |
-
-|11 |1.497,76 |1.848,92 |1.848,92 |3.192,01 |
-
-|12 |1.572,65 |1.941,37 |1.941,37 |3.351,61 |
-
-|13 |1.651,28 |2.038,44 |2.038,44 |3.519,19 |
-
-|14 |1.733,85 |2.140,36 |2.140,36 |3.695,15 |
-
-|15 |1.820,54 |2.247,38 |2.247,38 |3.879,91 |
+| Nível de Vencimento | Tesoureiro | Agente Fazendário | Técnico Fazendário de Nível Médio | Analista Fazendário |
+| --- | --- | --- | --- | --- |
+| 1 | 919,50 | 1.135,08 | 1.135,08 | 1.959,62 |
+| 2 | 965,47 | 1.191,83 | 1.191,83 | 2.057,60 |
+| 3 | 1.013,74 | 1.251,42 | 1.251,42 | 2.160,48 |
+| 4 | 1.064,43 | 1.314,00 | 1.314,00 | 2.268,50 |
+| 5 | 1.117,65 | 1.379,70 | 1.379,70 | 2.381,93 |
+| 6 | 1.173,54 | 1.448,68 | 1.448,68 | 2.501,02 |
+| 7 | 1.232,21 | 1.521,11 | 1.521,11 | 2.626,07 |
+| 8 | 1.293,82 | 1.597,17 | 1.597,17 | 2.757,38 |
+| 9 | 1.358,51 | 1.677,03 | 1.677,03 | 2.895,25 |
+| 10 | 1.426,44 | 1.760,88 | 1.760,88 | 3.040,01 |
+| 11 | 1.497,76 | 1.848,92 | 1.848,92 | 3.192,01 |
+| 12 | 1.572,65 | 1.941,37 | 1.941,37 | 3.351,61 |
+| 13 | 1.651,28 | 2.038,44 | 2.038,44 | 3.519,19 |
+| 14 | 1.733,85 | 2.140,36 | 2.140,36 | 3.695,15 |
+| 15 | 1.820,54 | 2.247,38 | 2.247,38 | 3.879,91 |
 
 **Parágrafo único** - Os vencimentos-base atribuídos na Tabela de Vencimentos do Plano de Carreira da Área de Atividades de Tributação aos ocupantes dos cargos públicos efetivos de Agente Fazendário, Técnico Fazendário de Nível Médio, Tesoureiro e Analista Fazendário, em cumprimento de jornada de 6 (seis) horas diárias, ficam alterados a partir de 1º de julho de 2006, conforme os seguintes valores:
 
-|Nível de Vencimento |Tesoureiro |Agente Fazendário |Técnico Fazendário de Nível Médio|Analista Fazendário |
-
-|1 |527,68 |650,60 |650,60 |1.148,52 |
-
-|2 |554,06 |683,13 |683,13 |1.205,94 |
-
-|3 |581,77 |717,28 |717,28 |1.266,24 |
-
-|4 |610,85 |753,15 |753,15 |1.329,55 |
-
-|5 |641,40 |790,80 |790,80 |1.396,03 |
-
-|6 |673,47 |830,34 |830,34 |1.465,83 |
-
-|7 |707,14 |871,86 |871,86 |1.539,12 |
-
-|8 |742,50 |915,45 |915,45 |1.616,08 |
-
-|9 |779,62 |961,23 |961,23 |1.696,88 |
-
-|10 |818,60 |1.009,29 |1.009,29 |1.781,73 |
-
-|11 |859,53 |1.059,75 |1.059,75 |1.870,82 |
-
-|12 |902,51 |1.112,74 |1.112,74 |1.964,36 |
-
-|13 |947,63 |1.168,38 |1.168,38 |2.062,57 |
-
-|14 |995,02 |1.226,80 |1.226,80 |2.165,70 |
-
-|15 |1.044,77 |1.288,14 |1.288,14 |2.273,99 |
+| Nível de Vencimento | Tesoureiro | Agente Fazendário | Técnico Fazendário de Nível Médio | Analista Fazendário |
+| --- | --- | --- | --- | --- |
+| 1 | 527,68 | 650,60 | 650,60 | 1.148,52 |
+| 2 | 554,06 | 683,13 | 683,13 | 1.205,94 |
+| 3 | 581,77 | 717,28 | 717,28 | 1.266,24 |
+| 4 | 610,85 | 753,15 | 753,15 | 1.329,55 |
+| 5 | 641,40 | 790,80 | 790,80 | 1.396,03 |
+| 6 | 673,47 | 830,34 | 830,34 | 1.465,83 |
+| 7 | 707,14 | 871,86 | 871,86 | 1.539,12 |
+| 8 | 742,50 | 915,45 | 915,45 | 1.616,08 |
+| 9 | 779,62 | 961,23 | 961,23 | 1.696,88 |
+| 10 | 818,60 | 1.009,29 | 1.009,29 | 1.781,73 |
+| 11 | 859,53 | 1.059,75 | 1.059,75 | 1.870,82 |
+| 12 | 902,51 | 1.112,74 | 1.112,74 | 1.964,36 |
+| 13 | 947,63 | 1.168,38 | 1.168,38 | 2.062,57 |
+| 14 | 995,02 | 1.226,80 | 1.226,80 | 2.165,70 |
+| 15 | 1.044,77 | 1.288,14 | 1.288,14 | 2.273,99 |
 
 **Art. 42** - Os vencimentos-base atribuídos na Tabela de Vencimentos do Plano de Carreira da Área de Atividades de Tributação aos ocupantes dos cargos públicos de Auditor Técnico de Tributos Municipais e Auditor Fiscal de Tributos Municipais, bem como aos servidores aposentados e aos pensionistas cujos benefícios previdenciários sejam oriundos desses cargos, que tenham exercido as opções previstas no art. 4º da Lei nº 8.766, de 19 de janeiro de 2004, e no § 3º do art. 1º da Lei nº 8.577, de 29 de maio de 2003, serão alterados em 1º de julho de 2005, 1º de janeiro de 2006 e 1º de julho de 2006, conforme os seguintes valores:
 
-|Nível de Vencimento |Valores – Em R$ |
-
-| |Julho de 2005 |Janeiro de 2006 |Julho de 2006 |
-
-|1 |3.949,33 |4.146,80 |4.354,14 |
-
-|2 |4.146,80 |4.354,14 |4.571,84 |
-
-|3 |4.354,14 |4.571,84 |4.800,44 |
-
-|4 |4.571,84 |4.800,44 |5.040,46 |
-
-|5 |4.800,44 |5.040,46 |5.292,48 |
-
-|6 |5.040,46 |5.292,48 |5.557,10 |
-
-|7 |5.292,48 |5.557,10 |5.834,96 |
-
-|8 |5.557,10 |5.834,96 |6.126,71 |
-
-|9 |5.834,96 |6.126,71 |6.433,04 |
-
-|10 |6.126,71 |6.433,04 |6.754,69 |
-
-|11 |6.433,04 |6.754,69 |7.092,43 |
-
-|12 |6.754,69 |7.092,43 |7.447,05 |
-
-|13 |7.092,43 |7.447,05 |7.819,40 |
-
-|14 |7.447,05 |7.819,40 |8.210,37 |
-
-|15 |7.819,40 |8.210,37 |8.620,89 |
+| Nível de Vencimento | Valores – Em R$ |  |  |
+| --- | --- | --- | --- |
+|  | Julho de 2005 | Janeiro de 2006 | Julho de 2006 |
+| 1 | 3.949,33 | 4.146,80 | 4.354,14 |
+| 2 | 4.146,80 | 4.354,14 | 4.571,84 |
+| 3 | 4.354,14 | 4.571,84 | 4.800,44 |
+| 4 | 4.571,84 | 4.800,44 | 5.040,46 |
+| 5 | 4.800,44 | 5.040,46 | 5.292,48 |
+| 6 | 5.040,46 | 5.292,48 | 5.557,10 |
+| 7 | 5.292,48 | 5.557,10 | 5.834,96 |
+| 8 | 5.557,10 | 5.834,96 | 6.126,71 |
+| 9 | 5.834,96 | 6.126,71 | 6.433,04 |
+| 10 | 6.126,71 | 6.433,04 | 6.754,69 |
+| 11 | 6.433,04 | 6.754,69 | 7.092,43 |
+| 12 | 6.754,69 | 7.092,43 | 7.447,05 |
+| 13 | 7.092,43 | 7.447,05 | 7.819,40 |
+| 14 | 7.447,05 | 7.819,40 | 8.210,37 |
+| 15 | 7.819,40 | 8.210,37 | 8.620,89 |
 
 **§ 1º** - As parcelas remuneratórias calculadas com base no vencimento ou na remuneração, tais como qüinqüênios, deverão variar exclusivamente conforme suas próprias bases de cálculo.
 
@@ -964,89 +820,61 @@ II - para o servidor público efetivo da Administração Direta que não integra
 
 **Art. 45** - A partir de 1º de maio de 2005, fica concedido abono aos empregados públicos da Superintendência de Limpeza Urbana - SLU - posicionados nos níveis I-A, I-B, I-C, II-A e II-B, nos seguintes valores:
 
-|NÍVEL |ABONO (em R$) |
-
-|I - A |16,07 |
-
-|I - B |8,88 |
-
-|I - C |1,32 |
-
-|II - A |10,82 |
-
-|II - B |3,17 |
+| NÍVEL | ABONO (em R$) |
+| --- | --- |
+| I - A | 16,07 |
+| I - B | 8,88 |
+| I - C | 1,32 |
+| II - A | 10,82 |
+| II - B | 3,17 |
 
 **Parágrafo único** - O abono de que trata o artigo não se incorporará à remuneração do empregado público em nenhuma hipótese, exceto para fins de desconto de imposto de renda e contribuição previdenciária, e não servirá como base de cálculo de vantagens, salvo, neste último caso, a sua incidência para fins de férias e do respectivo terço constitucional, bem como da gratificação natalina.
 
 **Art. 46** - A partir de 1º de junho de 2005, fica concedido abono aos empregados públicos da SLU posicionados nos níveis I a VIII, nos seguintes valores:
 
-|CLASSE |EMPREGO PÚBLICO |VALOR |
-
-|I |Auxiliar de Serviços I, Gari I, Contínuo |57,00 |
-
-|II |Auxiliar de Serviços II |64,00 |
-
-|III |Gari II, Operador de Rádio, Auxiliar de Serviços III, Telefonista |56,00 |
-
-|IV |Monitor de Turma, Fiscal de Pátio, Gari III, Desenhista Copista |53,00 |
-
-|V |Oficial de Serviços I, Cadastrador, Escriturário, Auxiliar de Enfermagem do Trabalho|85,00 |
-
-|VI |Motorista I, Oficial de Serviços II, Agente Administrativo I |85,00 |
-
-|VII |Oficial de Serviços III, Operador Máquinas Pesadas, |65,00 |
-
-| |Fiscal de Limpeza Urbana | |
-
-| |Desenhista, Auxiliar Técnico, Agente Administrativo II | |
-
-|VIII |Auxiliar de Manutenção, Motorista II, Oficial Manutenção I |75,00 |
-
-| |Oficial Manutenção II, Técnico de Contabilidade, Técnico de Segurança do Trabalho | |
-
-| |Topógrafo, Técnico de Laboratório, Encarregado | |
-
-| |Coordenador Fiscalização | |
+| CLASSE | EMPREGO PÚBLICO | VALOR |
+| --- | --- | --- |
+| I | Auxiliar de Serviços I, Gari I, Contínuo | 57,00 |
+| II | Auxiliar de Serviços II | 64,00 |
+| III | Gari II, Operador de Rádio, Auxiliar de Serviços III, Telefonista | 56,00 |
+| IV | Monitor de Turma, Fiscal de Pátio, Gari III, Desenhista Copista | 53,00 |
+| V | Oficial de Serviços I, Cadastrador, Escriturário, Auxiliar de Enfermagem do Trabalho | 85,00 |
+| VI | Motorista I, Oficial de Serviços II, Agente Administrativo I | 85,00 |
+| VII | Oficial de Serviços III, Operador Máquinas Pesadas, | 65,00 |
+|  | Fiscal de Limpeza Urbana |  |
+|  | Desenhista, Auxiliar Técnico, Agente Administrativo II |  |
+| VIII | Auxiliar de Manutenção, Motorista II, Oficial Manutenção I | 75,00 |
+|  | Oficial Manutenção II, Técnico de Contabilidade, Técnico de Segurança do Trabalho |  |
+|  | Topógrafo, Técnico de Laboratório, Encarregado |  |
+|  | Coordenador Fiscalização |  |
 
 **Parágrafo único** - O abono de que trata o artigo não se incorporará à remuneração do servidor público em nenhuma hipótese, exceto para fins de desconto de imposto de renda e contribuição previdenciária, e não servirá como base de cálculo de vantagens, salvo, neste último caso, a sua incidência para fins de férias e do respectivo terço constitucional, bem como da gratificação natalina.
 
 **Art. 47** - A partir de 1º de maio de 2005, fica concedido abono aos empregados públicos da SUDECAP posicionados nos níveis I-A e I-B, nos seguintes valores:
 
-|NIVEL |ABONO |
-
-|I - A |19,76 |
-
-|I - B |2,95 |
+| NIVEL | ABONO |
+| --- | --- |
+| I - A | 19,76 |
+| I - B | 2,95 |
 
 **Parágrafo único** - O abono de que trata o artigo não se incorporará à remuneração do servidor público em nenhuma hipótese, exceto para fins de desconto de imposto de renda e contribuição previdenciária, e não servirá como base de cálculo de vantagens, salvo, neste último caso, a sua incidência para fins de férias e do respectivo terço constitucional, bem como da gratificação natalina.
 
 **Art. 48** - A partir de 1º de junho de 2005, fica concedido abono aos empregados públicos da SUDECAP posicionados nos níveis I a IX, nos seguintes valores:
 
-|NÍVEL |E M P R E G O P Ú B L I C O |VALOR |
-
-|I |Auxiliar de Serviços I |59,76 |
-
-|II |Auxiliar de Serviços II, Operador de Máquinas I, Operador de Rádio |60,40 |
-
-|III |Auxiliar de Administração, Auxiliar de Saúde, Mecânico de Veículos, Motociclista, Oficial de |61,55 |
-
-| |Serviços I, Telefonista | |
-
-|IV |Encarregado de Serviços I, Mecânico de Máquinas I, Motorista |63,80 |
-
-|V |Mecânico de Máquinas II, Motorista de Veículo Pesado, Oficial de Serviços II, Operador de |65,56 |
-
-| |Máquinas II, Soldador, Torneiro Mecânico | |
-
-|VI |Agente Administrativo I, Desenhista I |68,02 |
-
-|VII |Auxiliar Técnico, Desenhista II, Supervisor de Segurança do Trabalho, Técnico de |70,91 |
-
-| |Contabilidade, Técnico de Edificações, Técnico de Estradas, Técnico de Laboratório | |
-
-|VIII |Agente de Administração II, Encarregado de Serviços II |74,44 |
-
-|IX |Assistente de Administração I, Assistente Técnico I, Desenhista III, Topógrafo |86,55 |
+| NÍVEL | E M P R E G O P Ú B L I C O | VALOR |
+| --- | --- | --- |
+| I | Auxiliar de Serviços I | 59,76 |
+| II | Auxiliar de Serviços II, Operador de Máquinas I, Operador de Rádio | 60,40 |
+| III | Auxiliar de Administração, Auxiliar de Saúde, Mecânico de Veículos, Motociclista, Oficial de | 61,55 |
+|  | Serviços I, Telefonista |  |
+| IV | Encarregado de Serviços I, Mecânico de Máquinas I, Motorista | 63,80 |
+| V | Mecânico de Máquinas II, Motorista de Veículo Pesado, Oficial de Serviços II, Operador de | 65,56 |
+|  | Máquinas II, Soldador, Torneiro Mecânico |  |
+| VI | Agente Administrativo I, Desenhista I | 68,02 |
+| VII | Auxiliar Técnico, Desenhista II, Supervisor de Segurança do Trabalho, Técnico de | 70,91 |
+|  | Contabilidade, Técnico de Edificações, Técnico de Estradas, Técnico de Laboratório |  |
+| VIII | Agente de Administração II, Encarregado de Serviços II | 74,44 |
+| IX | Assistente de Administração I, Assistente Técnico I, Desenhista III, Topógrafo | 86,55 |
 
 **Parágrafo único** - O abono de que trata o artigo não se incorporará à remuneração do servidor público em nenhuma hipótese, exceto para fins de desconto de imposto de renda e contribuição previdenciária, e não servirá como base de cálculo de vantagens, salvo, neste último caso, a sua incidência para fins de férias e do respectivo terço constitucional, bem como da gratificação natalina.
 
@@ -1054,15 +882,12 @@ II - para o servidor público efetivo da Administração Direta que não integra
 
 "Art. 107A - Os cargos de provimento em comissão da SLU e SUDECAP, do 3° ao 5° nível hierárquicos, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|Cargos de Provimento em Comissão da SLU e SUDECAP |Cargo de Provimento em Comissão da Administração |
-
-| |Direta Equivalente |
-
-|Cargos em comissão do 3º nível |Gerente de 1º nível |
-
-|Cargos em comissão do 4º nível |Gerente de 2º nível |
-
-|Cargos em comissão do 5º nível |Gerente de 3º nível |
+| Cargos de Provimento em Comissão da SLU e SUDECAP | Cargo de Provimento em Comissão da Administração |
+| --- | --- |
+|  | Direta Equivalente |
+| Cargos em comissão do 3º nível | Gerente de 1º nível |
+| Cargos em comissão do 4º nível | Gerente de 2º nível |
+| Cargos em comissão do 5º nível | Gerente de 3º nível |
 
 (AC)".
 
@@ -1138,275 +963,176 @@ ANEXO I
 
 A - CARGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|CARGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|AGENTE DE ADMINISTRAÇÃO |80 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |640 |
-
-|TÉCNICO NÍVEL MÉDIO |40 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |40 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |160 |
-
-|CIRURGIÃO-DENTISTA |20 |
-
-|MÉDICO |220 |
-
-|TOTAL |1.200 |
+| CARGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| AGENTE DE ADMINISTRAÇÃO | 80 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 640 |
+| TÉCNICO NÍVEL MÉDIO | 40 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 40 |
+| TÉCNICO SUPERIOR DE SAÚDE | 160 |
+| CIRURGIÃO-DENTISTA | 20 |
+| MÉDICO | 220 |
+| TOTAL | 1.200 |
 
 A - CARGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|CARGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|AGENTE DE ADMINISTRAÇÃO |120 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |800 |
-
-|TÉCNICO DE NÍVEL MÉDIO |40 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |40 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |200 |
-
-|CIRURGIÃO-DENTISTA |20 |
-
-|MÉDICO |220 |
+| CARGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| AGENTE DE ADMINISTRAÇÃO | 120 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 800 |
+| TÉCNICO DE NÍVEL MÉDIO | 40 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 40 |
+| TÉCNICO SUPERIOR DE SAÚDE | 200 |
+| CIRURGIÃO-DENTISTA | 20 |
+| MÉDICO | 220 |
 
 Letra A com redação dada pela Lei nº 9.816, de 18/1/2010 (Art. 19)
 
 A - CARGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|CARGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|AGENTE DE ADMINISTRAÇÃO |140 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |906 |
-
-|TÉCNICO DE NÍVEL MÉDIO |42 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |40 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |135 |
-
-|ENFERMEIRO |236 |
-
-|CIRURGIÃO-DENTISTA |20 |
-
-|MÉDICO |322 |
+| CARGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| AGENTE DE ADMINISTRAÇÃO | 140 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 906 |
+| TÉCNICO DE NÍVEL MÉDIO | 42 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 40 |
+| TÉCNICO SUPERIOR DE SAÚDE | 135 |
+| ENFERMEIRO | 236 |
+| CIRURGIÃO-DENTISTA | 20 |
+| MÉDICO | 322 |
 
 Letra A com redação dada pela Lei nº 10.252, de 13/9/2011 (Art. 4º, § 6º)
 
 A - CARGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|CARGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|AGENTE DE ADMINISTRAÇÃO |140 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |906 |
-
-|TÉCNICO DE NÍVEL MÉDIO |42 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |36 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |135 |
-
-|ENFERMEIRO |236 |
-
-|CIRURGIÃO-DENTISTA |20 |
-
-|MÉDICO |322 |
-
-|ENGENHEIRO |3 |
-
-|ARQUITETO |1 |
+| CARGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| AGENTE DE ADMINISTRAÇÃO | 140 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 906 |
+| TÉCNICO DE NÍVEL MÉDIO | 42 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 36 |
+| TÉCNICO SUPERIOR DE SAÚDE | 135 |
+| ENFERMEIRO | 236 |
+| CIRURGIÃO-DENTISTA | 20 |
+| MÉDICO | 322 |
+| ENGENHEIRO | 3 |
+| ARQUITETO | 1 |
 
 Item A com redação dada pela Lei nº 11.224, de 19/3/2020 (Art. 25, I)
 
 A - CARGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|CARGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Técnico de Serviço de Saúde |906 |
-
-|Técnico de Nível Médio |42 |
-
-|Analista de Políticas Públicas |36 |
-
-|Técnico Superior de Saúde |135 |
-
-|Enfermeiro |236 |
-
-|Cirurgião-Dentista |20 |
-
-|Médico |322 |
-
-|Engenheiro |3 |
-
-|Arquiteto |1 |
+| CARGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Técnico de Serviço de Saúde | 906 |
+| Técnico de Nível Médio | 42 |
+| Analista de Políticas Públicas | 36 |
+| Técnico Superior de Saúde | 135 |
+| Enfermeiro | 236 |
+| Cirurgião-Dentista | 20 |
+| Médico | 322 |
+| Engenheiro | 3 |
+| Arquiteto | 1 |
 
 Item A com redação dada pela Lei nº 11.376, de 4/7/2022 (Art. 25, IV)
 
 A - CARGOS PÚBLICOS EFETIVOS DO HOB/NÚMERO DE VAGAS:
 
-|CARGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Técnico de Serviço de Saúde |1.276 |
-
-|Técnico de Nível Médio |42 |
-
-|Técnico Superior de Saúde |135 |
-
-|Enfermeiro |236 |
-
-|Cirurgião-Dentista |20 |
+| CARGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Técnico de Serviço de Saúde | 1.276 |
+| Técnico de Nível Médio | 42 |
+| Técnico Superior de Saúde | 135 |
+| Enfermeiro | 236 |
+| Cirurgião-Dentista | 20 |
 
 Tabela A com redação dada pela Lei nº 11.539, de 5/7/2023 (Art. 64, II)
 
 B- EMPREGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|AUXILIAR DE SERVIÇOS |84 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |13 |
-
-|OFICIAL DE SERVIÇOS |14 |
-
-|TELEFONISTA |02 |
-
-|MOTORISTA |01 |
-
-|AGENTE DE ADMINISTRAÇÃO |64 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |321 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |124 |
-
-|TÉCNICO DE NÍVEL MÉDIO |04 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |80 |
-
-| |35 |
-
-| |Número com redação dada pela Lei|
-
-| |nº 10.252, de 12/9/2011 (Art. |
-
-| |4º, § 7º) |
-
-|CIRURGIÃO-DENTISTA |01 |
-
-|MÉDICO |288 |
-
-|ENFERMEIRO |30 |
-
-|Emprego acrescentado pela Lei nº 10.252, de 12/9/2011 (Art.| |
-
-|4º, § 7º) | |
-
-|TOTAL |996 |
-
-| |981 |
-
-| |Número com redação dada pela Lei|
-
-| |nº 10.252, de 12/9/2011 (Art. |
-
-| |4º, § 7º) |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| AUXILIAR DE SERVIÇOS | 84 |
+| AUXILIAR DE ADMINISTRAÇÃO | 13 |
+| OFICIAL DE SERVIÇOS | 14 |
+| TELEFONISTA | 02 |
+| MOTORISTA | 01 |
+| AGENTE DE ADMINISTRAÇÃO | 64 |
+| AGENTE DE SERVIÇOS DE SAÚDE | 321 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 124 |
+| TÉCNICO DE NÍVEL MÉDIO | 04 |
+| TÉCNICO SUPERIOR DE SAÚDE | 80 |
+|  | 35 |
+|  | Número com redação dada pela Lei |
+|  | nº 10.252, de 12/9/2011 (Art. |
+|  | 4º, § 7º) |
+| CIRURGIÃO-DENTISTA | 01 |
+| MÉDICO | 288 |
+| ENFERMEIRO | 30 |
+| Emprego acrescentado pela Lei nº 10.252, de 12/9/2011 (Art. |  |
+| 4º, § 7º) |  |
+| TOTAL | 996 |
+|  | 981 |
+|  | Número com redação dada pela Lei |
+|  | nº 10.252, de 12/9/2011 (Art. |
+|  | 4º, § 7º) |
 
 B - EMPREGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-| |Emprego público efetivo |Número de vagas |
-
-|1 |Auxiliar de Serviços |84 |
-
-|2 |Auxiliar de Administração |13 |
-
-|3 |Oficial de Serviços |14 |
-
-|4 |Telefonista |2 |
-
-|5 |Motorista |1 |
-
-|6 |Agente de Administração |64 |
-
-|7 |Agente de Serviços de Saúde |321 |
-
-|8 |Técnico de Serviços de Saúde |124 |
-
-|9 |Técnico de Nível Médio |4 |
-
-|10 |Técnico Superior de Saúde |35 |
-
-|11 |Cirurgião-Dentista |1 |
-
-|12 |Enfermeiro |30 |
-
-|13 |Total |693 |
+|  | Emprego público efetivo | Número de vagas |
+| --- | --- | --- |
+| 1 | Auxiliar de Serviços | 84 |
+| 2 | Auxiliar de Administração | 13 |
+| 3 | Oficial de Serviços | 14 |
+| 4 | Telefonista | 2 |
+| 5 | Motorista | 1 |
+| 6 | Agente de Administração | 64 |
+| 7 | Agente de Serviços de Saúde | 321 |
+| 8 | Técnico de Serviços de Saúde | 124 |
+| 9 | Técnico de Nível Médio | 4 |
+| 10 | Técnico Superior de Saúde | 35 |
+| 11 | Cirurgião-Dentista | 1 |
+| 12 | Enfermeiro | 30 |
+| 13 | Total | 693 |
 
 Item B com redação dada pela Lei nº 11.156, de 9/1/2019 (art. 9º, § 2º)
 
 B - EMPREGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Auxiliar de Serviços |84 |
-
-|Auxiliar de Administração |13 |
-
-|Oficial de Serviços |14 |
-
-|Telefonista |2 |
-
-|Motorista |1 |
-
-|Agente de Serviços de Saúde |321 |
-
-|Técnico de Serviços de Saúde |124 |
-
-|Técnico de Nível Médio |4 |
-
-|Técnico Superior de Saúde |35 |
-
-|Cirurgião-Dentista |1 |
-
-|Enfermeiro |30 |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Auxiliar de Serviços | 84 |
+| Auxiliar de Administração | 13 |
+| Oficial de Serviços | 14 |
+| Telefonista | 2 |
+| Motorista | 1 |
+| Agente de Serviços de Saúde | 321 |
+| Técnico de Serviços de Saúde | 124 |
+| Técnico de Nível Médio | 4 |
+| Técnico Superior de Saúde | 35 |
+| Cirurgião-Dentista | 1 |
+| Enfermeiro | 30 |
 
 Item B com redação dada pela Lei nº 11,376, de 4/7/2022 (Art. 25, IV)
 
 C – POSICIONAMENTO DOS EMPREGOS PÚBLICOS EFETIVOS DA ESTRUTURA FUNCIONAL DO HOB NA DATA DE VIGÊNCIA DESTE PLANO DE CARREIRA CUJOS TITULARES OPTEM POR ESTE PLANO DE CARREIRA
 
-|EMPREGO PÚBLICO EFETIVO ATUAL |EMPREGO PÚBLICO PROPOSTO |
-
-|AUXILIAR DE SERVIÇOS |AUXILIAR DE SERVIÇOS |
-
-|AUXILIAR DE ADMINISTRAÇÃO |AUXILIAR DE ADMINISTRAÇÃO |
-
-|OFICIAL DE SERVIÇOS |OFICIAL DE SERVIÇOS |
-
-|TELEFONISTA |TELEFONISTA |
-
-|MOTORISTA |MOTORISTA |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |AGENTE DE SERVIÇOS DE SAÚDE |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |TÉCNICO DE SERVIÇOS DE SAÚDE |
-
-|AGENTE DE ADMINISTRAÇÃO |AGENTE DE ADMINISTRAÇÃO |
-
-|TESOUREIRO |TÉCNICO NÍVEL MÉDIO |
-
-|TÉCNICO DE NÍVEL MÉDIO |TÉCNICO NÍVEL MÉDIO |
-
-|TÉCNICO DE NÍVEL SUPERIOR |EM EXTINÇÃO |
-
-|TÉCNICO SUPERIOR DE SAÚDE |TÉCNICO SUPERIOR DE SAÚDE |
-
-|CIRURGIÃO-DENTISTA |CIRURGIÃO-DENTISTA |
-
-|MÉDICO |MÉDICO |
+| EMPREGO PÚBLICO EFETIVO ATUAL | EMPREGO PÚBLICO PROPOSTO |
+| --- | --- |
+| AUXILIAR DE SERVIÇOS | AUXILIAR DE SERVIÇOS |
+| AUXILIAR DE ADMINISTRAÇÃO | AUXILIAR DE ADMINISTRAÇÃO |
+| OFICIAL DE SERVIÇOS | OFICIAL DE SERVIÇOS |
+| TELEFONISTA | TELEFONISTA |
+| MOTORISTA | MOTORISTA |
+| AGENTE DE SERVIÇOS DE SAÚDE | AGENTE DE SERVIÇOS DE SAÚDE |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | TÉCNICO DE SERVIÇOS DE SAÚDE |
+| AGENTE DE ADMINISTRAÇÃO | AGENTE DE ADMINISTRAÇÃO |
+| TESOUREIRO | TÉCNICO NÍVEL MÉDIO |
+| TÉCNICO DE NÍVEL MÉDIO | TÉCNICO NÍVEL MÉDIO |
+| TÉCNICO DE NÍVEL SUPERIOR | EM EXTINÇÃO |
+| TÉCNICO SUPERIOR DE SAÚDE | TÉCNICO SUPERIOR DE SAÚDE |
+| CIRURGIÃO-DENTISTA | CIRURGIÃO-DENTISTA |
+| MÉDICO | MÉDICO |
 
 ANEXO II
 
@@ -2462,143 +2188,90 @@ ANEXO III
 
 A - JORNADAS SEMANAIS DOS EMPREGOS PÚBLICOS EFETIVOS DO HOB
 
-|EMPREGOS PÚBLICOS |JORNADAS SEMANAIS |
-
-| |Jornadas Básicas para os empregados |Jornadas Especiais para os empregados |
-
-| |públicos integrantes deste Plano de |públicos integrantes deste Plano de |
-
-| |Carreira. |Carreira. |
-
-|Auxiliar de Serviços |30 |40 |
-
-|Auxiliar de Administração |30 |40 |
-
-|Oficial de Serviços |30 |40 |
-
-|Telefonista |30 |40 |
-
-|Motorista |30 |40 |
-
-|Agente de Serviços de Saúde |30 |40 |
-
-|Agente de Administração |30 |40 |
-
-|Técnico de Serviços de Saúde |30 |40 |
-
-|Técnico de Nível Médio |30 |40 |
-
-|Técnico Superior de Saúde |20 |24 e 30 |
-
-|Cirurgião-Dentista |20 |24 e 30 |
-
-|Médico |20 |24 e 30 |
+| EMPREGOS PÚBLICOS | JORNADAS SEMANAIS |  |
+| --- | --- | --- |
+|  | Jornadas Básicas para os empregados | Jornadas Especiais para os empregados |
+|  | públicos integrantes deste Plano de | públicos integrantes deste Plano de |
+|  | Carreira. | Carreira. |
+| Auxiliar de Serviços | 30 | 40 |
+| Auxiliar de Administração | 30 | 40 |
+| Oficial de Serviços | 30 | 40 |
+| Telefonista | 30 | 40 |
+| Motorista | 30 | 40 |
+| Agente de Serviços de Saúde | 30 | 40 |
+| Agente de Administração | 30 | 40 |
+| Técnico de Serviços de Saúde | 30 | 40 |
+| Técnico de Nível Médio | 30 | 40 |
+| Técnico Superior de Saúde | 20 | 24 e 30 |
+| Cirurgião-Dentista | 20 | 24 e 30 |
+| Médico | 20 | 24 e 30 |
 
 A - JORNADAS SEMANAIS DOS EMPREGOS PÚBLICOS EFETIVOS DO HOB:
 
-|EMPREGOS PÚBLICOS |JORNADAS SEMANAIS |
-
-| |Jornadas básicas para os |Jornadas especiais para os empregados|
-
-| |empregados públicos integrantes|públicos integrantes deste plano de |
-
-| |deste plano de carreira |carreira |
-
-|Auxiliar de Serviços |30 |40 |
-
-|Auxiliar de Administração |30 |40 |
-
-|Oficial de Serviços |30 |40 |
-
-|Telefonista |30 |40 |
-
-|Motorista |30 |40 |
-
-|Agente de Serviços de Saúde |30 |40 |
-
-|Técnico de Serviços de Saúde |30 |40 |
-
-|Técnico de Nível Médio |30 |40 |
-
-|Técnico Superior de Saúde |20 |24 e 30 |
-
-|Cirurgião-Dentista |20 |24 e 30 |
+| EMPREGOS PÚBLICOS | JORNADAS SEMANAIS |  |
+| --- | --- | --- |
+|  | Jornadas básicas para os | Jornadas especiais para os empregados |
+|  | empregados públicos integrantes | públicos integrantes deste plano de |
+|  | deste plano de carreira | carreira |
+| Auxiliar de Serviços | 30 | 40 |
+| Auxiliar de Administração | 30 | 40 |
+| Oficial de Serviços | 30 | 40 |
+| Telefonista | 30 | 40 |
+| Motorista | 30 | 40 |
+| Agente de Serviços de Saúde | 30 | 40 |
+| Técnico de Serviços de Saúde | 30 | 40 |
+| Técnico de Nível Médio | 30 | 40 |
+| Técnico Superior de Saúde | 20 | 24 e 30 |
+| Cirurgião-Dentista | 20 | 24 e 30 |
 
 Tabela A com redação dada pela Lei nº 11.539, de 5/7/2023 (Art. 64, III)
 
 B - JORNADAS SEMANAIS DOS CARGOS PÚBLICOS EFETIVOS DO HOB
 
-| |JORNADAS SEMANAIS |
-
-|CARGOS E EMPREGOS PÚBLICOS |Jornadas Básicas para os servidores |Jornadas Especiais para os servidores |
-
-| |públicos integrantes deste Plano de |públicos integrantes deste Plano de |
-
-| |Carreira. |Carreira. |
-
-|Agente de Administração |30 |40 |
-
-|Técnico de Serviços de Saúde |30 |40 |
-
-|Técnico de Nível Médio |30 |40 |
-
-|Analista de Políticas Públicas |30 |40 |
-
-|Técnico Superior de Saúde |20 |24 e 30 |
-
-|Cirurgião-Dentista |20 |24 e 30 |
-
-|Médico |20 |24 e 30 |
+|  | JORNADAS SEMANAIS |  |
+| --- | --- | --- |
+| CARGOS E EMPREGOS PÚBLICOS | Jornadas Básicas para os servidores | Jornadas Especiais para os servidores |
+|  | públicos integrantes deste Plano de | públicos integrantes deste Plano de |
+|  | Carreira. | Carreira. |
+| Agente de Administração | 30 | 40 |
+| Técnico de Serviços de Saúde | 30 | 40 |
+| Técnico de Nível Médio | 30 | 40 |
+| Analista de Políticas Públicas | 30 | 40 |
+| Técnico Superior de Saúde | 20 | 24 e 30 |
+| Cirurgião-Dentista | 20 | 24 e 30 |
+| Médico | 20 | 24 e 30 |
 
 B - JORNADAS SEMANAIS DOS CARGOS PÚBLICOS EFETIVOS DO HOB
 
-| |JORNADAS SEMANAIS |
-
-|CARGOS E EMPREGOS PÚBLICOS |Jornadas Básicas para os |Jornadas Especiais para os |
-
-| |servidores públicos |servidores públicos integrantes |
-
-| |integrantes deste plano de |deste plano de carreira. |
-
-| |Carreira. | |
-
-|Agente de Administração |30 |40 |
-
-|Técnico de Serviços de Saúde |30 |40 |
-
-|Técnico de Nível Médio |30 |40 |
-
-|Analista de Políticas Públicas |30 |40 |
-
-|Técnico Superior de Saúde |20 |24 e 30 |
-
-|Cirurgião-Dentista |20 |24 e 30 |
-
-|Médico |20 |24 e 30 |
-
-|Engenheiro |30 |40 |
-
-|Arquiteto |30 |40 |
+|  | JORNADAS SEMANAIS |  |
+| --- | --- | --- |
+| CARGOS E EMPREGOS PÚBLICOS | Jornadas Básicas para os | Jornadas Especiais para os |
+|  | servidores públicos | servidores públicos integrantes |
+|  | integrantes deste plano de | deste plano de carreira. |
+|  | Carreira. |  |
+| Agente de Administração | 30 | 40 |
+| Técnico de Serviços de Saúde | 30 | 40 |
+| Técnico de Nível Médio | 30 | 40 |
+| Analista de Políticas Públicas | 30 | 40 |
+| Técnico Superior de Saúde | 20 | 24 e 30 |
+| Cirurgião-Dentista | 20 | 24 e 30 |
+| Médico | 20 | 24 e 30 |
+| Engenheiro | 30 | 40 |
+| Arquiteto | 30 | 40 |
 
 Item B com redação dada pela Lei nº 11.224, de 19/3/2020 (Art. 25, inc. I)
 
 B - JORNADAS SEMANAIS DOS CARGOS PÚBLICOS EFETIVOS DO HOB:
 
-| |JORNADAS SEMANAIS |
-
-|CARGOS E EMPREGOS PÚBLICOS |Jornadas básicas para os |Jornadas especiais para os servidores|
-
-| |servidores públicos integrantes|públicos integrantes deste plano de |
-
-| |deste plano de Carreira |carreira |
-
-|Técnico de Serviços de Saúde |30 |40 |
-
-|Técnico de Nível Médio |30 |40 |
-
-|Técnico Superior de Saúde |20 |24 e 30 |
-
-|Cirurgião-Dentista |20 |24 e 30 |
+|  | JORNADAS SEMANAIS |  |
+| --- | --- | --- |
+| CARGOS E EMPREGOS PÚBLICOS | Jornadas básicas para os | Jornadas especiais para os servidores |
+|  | servidores públicos integrantes | públicos integrantes deste plano de |
+|  | deste plano de Carreira | carreira |
+| Técnico de Serviços de Saúde | 30 | 40 |
+| Técnico de Nível Médio | 30 | 40 |
+| Técnico Superior de Saúde | 20 | 24 e 30 |
+| Cirurgião-Dentista | 20 | 24 e 30 |
 
 Tabela B com redação dada pela Lei nº 11.539, de 5/7/2023 (Art. 64, III)
 
@@ -2612,191 +2285,116 @@ TÉCNICO SUPERIOR DE SAÚDE, CIRURGIÃO-DENTISTA E MÉDICO
 
 JORNADA DE 20 HORAS SEMANAIS (VALORES EM R$)
 
-|CARGOS PÚBLICOS |
-
-|NÍVEIS |Técnico Superior de Saúde |Cirurgião-Dentista |Médico |
-
-|1 |1.100,00 |1.133,70 |1.763,86 |
-
-|2 |1.155,00 |1.190,39 |1.852,05 |
-
-|3 |1.212,75 |1.249,90 |1.944,66 |
-
-|4 |1.273,39 |1.312,40 |2.041,89 |
-
-|5 |1.337,06 |1.378,02 |2.143,98 |
-
-|6 |1.403,91 |1.446,92 |2.251,18 |
-
-|7 |1.474,11 |1.519,27 |2.363,74 |
-
-|8 |1.547,81 |1.595,23 |2.481,93 |
-
-|9 |1.625,20 |1.674,99 |2.606,02 |
-
-|10 |1.706,46 |1.758,74 |2.736,33 |
-
-|11 |1.791,78 |1.846,68 |2.873,14 |
-
-|12 |1.881,37 |1.939,01 |3.016,80 |
-
-|13 |1.975,44 |2.035,96 |3.167,64 |
-
-|14 |2.074,21 |2.137,76 |3.326,02 |
-
-|15 |2.177,92 |2.244,65 |3.492,32 |
+| CARGOS PÚBLICOS |  |  |  |
+| --- | --- | --- | --- |
+| NÍVEIS | Técnico Superior de Saúde | Cirurgião-Dentista | Médico |
+| 1 | 1.100,00 | 1.133,70 | 1.763,86 |
+| 2 | 1.155,00 | 1.190,39 | 1.852,05 |
+| 3 | 1.212,75 | 1.249,90 | 1.944,66 |
+| 4 | 1.273,39 | 1.312,40 | 2.041,89 |
+| 5 | 1.337,06 | 1.378,02 | 2.143,98 |
+| 6 | 1.403,91 | 1.446,92 | 2.251,18 |
+| 7 | 1.474,11 | 1.519,27 | 2.363,74 |
+| 8 | 1.547,81 | 1.595,23 | 2.481,93 |
+| 9 | 1.625,20 | 1.674,99 | 2.606,02 |
+| 10 | 1.706,46 | 1.758,74 | 2.736,33 |
+| 11 | 1.791,78 | 1.846,68 | 2.873,14 |
+| 12 | 1.881,37 | 1.939,01 | 3.016,80 |
+| 13 | 1.975,44 | 2.035,96 | 3.167,64 |
+| 14 | 2.074,21 | 2.137,76 | 3.326,02 |
+| 15 | 2.177,92 | 2.244,65 | 3.492,32 |
 
 B - TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS DE TÉCNICO SUPERIOR DE SAÚDE, CIRURGIÃO-DENTISTA E MÉDICO
 
 JORNADA DE 20 HORAS SEMANAIS (VALORES EM R$)
 
-|EMPREGOS PÚBLICOS |
-
-|NIVEIS |Técnico Superior de Saúde |Cirurgião-Dentista |Médico |
-
-|1 |1.100,00 |1.133,70 |1.763,86 |
-
-|2 |1.155,00 |1.190,39 |1.852,05 |
-
-|3 |1.212,75 |1.249,90 |1.944,66 |
-
-|4 |1.273,39 |1.312,40 |2.041,89 |
-
-|5 |1.337,06 |1.378,02 |2.143,98 |
-
-|6 |1.403,91 |1.446,92 |2.251,18 |
-
-|7 |1.474,11 |1.519,27 |2.363,74 |
-
-|8 |1.547,81 |1.595,23 |2.481,93 |
-
-|9 |1.625,20 |1.674,99 |2.606,02 |
-
-|10 |1.706,46 |1.758,74 |2.736,33 |
-
-|11 |1.791,78 |1.846,68 |2.873,14 |
-
-|12 |1.881,37 |1.939,01 |3.016,80 |
-
-|13 |1.975,44 |2.035,96 |3.167,64 |
-
-|14 |2.074,21 |2.137,76 |3.326,02 |
-
-|15 |2.177,92 |2.244,65 |3.492,32 |
+| EMPREGOS PÚBLICOS |  |  |  |
+| --- | --- | --- | --- |
+| NIVEIS | Técnico Superior de Saúde | Cirurgião-Dentista | Médico |
+| 1 | 1.100,00 | 1.133,70 | 1.763,86 |
+| 2 | 1.155,00 | 1.190,39 | 1.852,05 |
+| 3 | 1.212,75 | 1.249,90 | 1.944,66 |
+| 4 | 1.273,39 | 1.312,40 | 2.041,89 |
+| 5 | 1.337,06 | 1.378,02 | 2.143,98 |
+| 6 | 1.403,91 | 1.446,92 | 2.251,18 |
+| 7 | 1.474,11 | 1.519,27 | 2.363,74 |
+| 8 | 1.547,81 | 1.595,23 | 2.481,93 |
+| 9 | 1.625,20 | 1.674,99 | 2.606,02 |
+| 10 | 1.706,46 | 1.758,74 | 2.736,33 |
+| 11 | 1.791,78 | 1.846,68 | 2.873,14 |
+| 12 | 1.881,37 | 1.939,01 | 3.016,80 |
+| 13 | 1.975,44 | 2.035,96 | 3.167,64 |
+| 14 | 2.074,21 | 2.137,76 | 3.326,02 |
+| 15 | 2.177,92 | 2.244,65 | 3.492,32 |
 
 C - TABELA DE VENCIMENTOS-BASE DOS CARGOS PÚBLICOS DE TÉCNICO SUPERIOR DE SAÚDE, CIRURGIÃO-DENTISTA E MÉDICO
 
 JORNADA DE 24 HORAS SEMANAIS (VALORES EM R$)
 
-|NÍVEIS |CARGOS PÚBLICOS |
-
-| |Técnico Superior de Saúde |Cirurgião-Dentista |Médico |
-
-|1 |1.320,00 |1.360,44 |2.116,63 |
-
-|2 |1.385,80 |1.428,46 |2.222,46 |
-
-|3 |1.455,09 |1.499,89 |2.333,59 |
-
-|4 |1.527,84 |1.574,88 |2.450,27 |
-
-|5 |1.604,24 |1.653,62 |2.572,78 |
-
-|6 |1.684,45 |1.736,30 |2.701,42 |
-
-|7 |1.768,67 |1.823,12 |2.836,49 |
-
-|8 |1.857,10 |1.914,28 |2.978,31 |
-
-|9 |1.949,96 |2.009,99 |3.127,23 |
-
-|10 |2.047,46 |2.110,49 |3.283,59 |
-
-|11 |2.149,83 |2.216,01 |3.447,77 |
-
-|12 |2.257,32 |2.326,81 |3.620,16 |
-
-|13 |2.370,19 |2.443,15 |3.801,17 |
-
-|14 |2.488,70 |2.565,31 |3.991,23 |
-
-|15 |2.613,13 |2.693,58 |4.190,79 |
+| NÍVEIS | CARGOS PÚBLICOS |  |  |
+| --- | --- | --- | --- |
+|  | Técnico Superior de Saúde | Cirurgião-Dentista | Médico |
+| 1 | 1.320,00 | 1.360,44 | 2.116,63 |
+| 2 | 1.385,80 | 1.428,46 | 2.222,46 |
+| 3 | 1.455,09 | 1.499,89 | 2.333,59 |
+| 4 | 1.527,84 | 1.574,88 | 2.450,27 |
+| 5 | 1.604,24 | 1.653,62 | 2.572,78 |
+| 6 | 1.684,45 | 1.736,30 | 2.701,42 |
+| 7 | 1.768,67 | 1.823,12 | 2.836,49 |
+| 8 | 1.857,10 | 1.914,28 | 2.978,31 |
+| 9 | 1.949,96 | 2.009,99 | 3.127,23 |
+| 10 | 2.047,46 | 2.110,49 | 3.283,59 |
+| 11 | 2.149,83 | 2.216,01 | 3.447,77 |
+| 12 | 2.257,32 | 2.326,81 | 3.620,16 |
+| 13 | 2.370,19 | 2.443,15 | 3.801,17 |
+| 14 | 2.488,70 | 2.565,31 | 3.991,23 |
+| 15 | 2.613,13 | 2.693,58 | 4.190,79 |
 
 D - TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS DE TÉCNICO SUPERIOR DE SAÚDE, CIRURGIÃO-DENTISTA E MÉDICO
 
 JORNADA DE 24 HORAS SEMANAIS (VALORES EM R$)
 
-|NÍVEIS |EMPREGOS PÚBLICOS |
-
-| |Técnico Superior de Saúde |Cirurgião-Dentista |Médico |
-
-|1 |1.320,00 |1.360,44 |2.116,63 |
-
-|2 |1.385,80 |1.428,46 |2.222,46 |
-
-|3 |1.455,09 |1.499,89 |2.333,59 |
-
-|4 |1.527,84 |1.574,88 |2.450,27 |
-
-|5 |1.604,24 |1.653,62 |2.572,78 |
-
-|6 |1.684,45 |1.736,30 |2.701,42 |
-
-|7 |1.768,67 |1.823,12 |2.836,49 |
-
-|8 |1.857,10 |1.914,28 |2.978,31 |
-
-|9 |1.949,96 |2.009,99 |3.127,23 |
-
-|10 |2.047,46 |2.110,49 |3.283,59 |
-
-|11 |2.149,83 |2.216,01 |3.447,77 |
-
-|12 |2.257,32 |2.326,81 |3.620,16 |
-
-|13 |2.370,19 |2.443,15 |3.801,17 |
-
-|14 |2.488,70 |2.565,31 |3.991,23 |
-
-|15 |2.613,13 |2.693,58 |4.190,79 |
+| NÍVEIS | EMPREGOS PÚBLICOS |  |  |
+| --- | --- | --- | --- |
+|  | Técnico Superior de Saúde | Cirurgião-Dentista | Médico |
+| 1 | 1.320,00 | 1.360,44 | 2.116,63 |
+| 2 | 1.385,80 | 1.428,46 | 2.222,46 |
+| 3 | 1.455,09 | 1.499,89 | 2.333,59 |
+| 4 | 1.527,84 | 1.574,88 | 2.450,27 |
+| 5 | 1.604,24 | 1.653,62 | 2.572,78 |
+| 6 | 1.684,45 | 1.736,30 | 2.701,42 |
+| 7 | 1.768,67 | 1.823,12 | 2.836,49 |
+| 8 | 1.857,10 | 1.914,28 | 2.978,31 |
+| 9 | 1.949,96 | 2.009,99 | 3.127,23 |
+| 10 | 2.047,46 | 2.110,49 | 3.283,59 |
+| 11 | 2.149,83 | 2.216,01 | 3.447,77 |
+| 12 | 2.257,32 | 2.326,81 | 3.620,16 |
+| 13 | 2.370,19 | 2.443,15 | 3.801,17 |
+| 14 | 2.488,70 | 2.565,31 | 3.991,23 |
+| 15 | 2.613,13 | 2.693,58 | 4.190,79 |
 
 E - TABELA DE VENCIMENTOS-BASE DOS CARGOS PÚBLICOS DE TÉCNICO DE SERVIÇOS DE SAÚDE, AGENTE DE ADMINISTRAÇÃO, TÉCNICO DE NÍVEL MÉDIO, ANALISTA DE POLÍTICAS PÚBLICAS, TÉCNICO SUPERIOR DE SAÚDE, CIRURGIÃO-DENTISTA E MÉDICO
 
 JORNADA DE 30 HORAS SEMANAIS (VALORES EM R$)
 
-|Nível |Técnico de Serviço Saúde |Agente Administração |Técnico de Nível Médio |Analista de Políticas |Técnico Superior de |Cirurgião-Dentista |Médico |
-
-| | | | |Públicas |Saúde | | |
-
-|1 |597,45 |550,00 |550,00 |970,00 |1.650,00 |1.700,56 |2.645,79 |
-
-|2 |627,32 |577,50 |577,50 |1.018,50 |1.732,50 |1.785,58 |2.778,08 |
-
-|3 |658,69 |606,38 |606,38 |1.069,43 |1.819,13 |1.874,86 |2.916,98 |
-
-|4 |691,62 |636,69 |636,69 |1.122,90 |1.910,08 |1.968,61 |3.062,83 |
-
-|5 |726,20 |668,53 |668,53 |1.179,04 |2.005,59 |2.067,04 |3.215,97 |
-
-|6 |762,51 |701,95 |701,95 |1.237,99 |2.105,86 |2.170,39 |3.376,77 |
-
-|7 |800,64 |737,05 |737,05 |1.299,89 |2.211,16 |2.278,91 |3.545,61 |
-
-|8 |840,67 |773,91 |773,91 |1.364,89 |2.321,72 |2.392,85 |3.722,89 |
-
-|9 |882,71 |812,60 |812,60 |1.433,13 |2.437,80 |2.512,49 |3.909,04 |
-
-|10 |926,84 |853,23 |853,23 |1.504,79 |2.559,69 |2.638,12 |4.104,49 |
-
-|11 |973,18 |895,89 |895,89 |1.580,03 |2.687,68 |2.770,03 |4.309,71 |
-
-|12 |1.021,84 |940,69 |940,69 |1.659,03 |2.822,06 |2.908,53 |4.525,20 |
-
-|13 |1.072,93 |987,72 |987,72 |1.741,98 |2.963,16 |3.053,95 |4.751,46 |
-
-|14 |1.126,58 |1.037,11 |1.037,11 |1.829,08 |3.111,32 |3.206,65 |4.989,03 |
-
-|15 |1.182,91 |1.088,96 |1.088,96 |1.920,53 |3.266,89 |3.366,98 |5.238,48 |
+| Nível | Técnico de Serviço Saúde | Agente Administração | Técnico de Nível Médio | Analista de Políticas | Técnico Superior de | Cirurgião-Dentista | Médico |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Públicas | Saúde |  |  |
+| 1 | 597,45 | 550,00 | 550,00 | 970,00 | 1.650,00 | 1.700,56 | 2.645,79 |
+| 2 | 627,32 | 577,50 | 577,50 | 1.018,50 | 1.732,50 | 1.785,58 | 2.778,08 |
+| 3 | 658,69 | 606,38 | 606,38 | 1.069,43 | 1.819,13 | 1.874,86 | 2.916,98 |
+| 4 | 691,62 | 636,69 | 636,69 | 1.122,90 | 1.910,08 | 1.968,61 | 3.062,83 |
+| 5 | 726,20 | 668,53 | 668,53 | 1.179,04 | 2.005,59 | 2.067,04 | 3.215,97 |
+| 6 | 762,51 | 701,95 | 701,95 | 1.237,99 | 2.105,86 | 2.170,39 | 3.376,77 |
+| 7 | 800,64 | 737,05 | 737,05 | 1.299,89 | 2.211,16 | 2.278,91 | 3.545,61 |
+| 8 | 840,67 | 773,91 | 773,91 | 1.364,89 | 2.321,72 | 2.392,85 | 3.722,89 |
+| 9 | 882,71 | 812,60 | 812,60 | 1.433,13 | 2.437,80 | 2.512,49 | 3.909,04 |
+| 10 | 926,84 | 853,23 | 853,23 | 1.504,79 | 2.559,69 | 2.638,12 | 4.104,49 |
+| 11 | 973,18 | 895,89 | 895,89 | 1.580,03 | 2.687,68 | 2.770,03 | 4.309,71 |
+| 12 | 1.021,84 | 940,69 | 940,69 | 1.659,03 | 2.822,06 | 2.908,53 | 4.525,20 |
+| 13 | 1.072,93 | 987,72 | 987,72 | 1.741,98 | 2.963,16 | 3.053,95 | 4.751,46 |
+| 14 | 1.126,58 | 1.037,11 | 1.037,11 | 1.829,08 | 3.111,32 | 3.206,65 | 4.989,03 |
+| 15 | 1.182,91 | 1.088,96 | 1.088,96 | 1.920,53 | 3.266,89 | 3.366,98 | 5.238,48 |
 
 F - TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS DE AUXILIAR DE SERVIÇOS, AUXILIAR DE ADMINISTRAÇÃO, OFICIAL DE SERVIÇOS, TELEFONISTA, MOTORISTA, AGENTE DE SERVIÇOS DE SAÚDE, TÉCNICO DE SERVIÇOS DE SAÚDE, AGENTE DE ADMINISTRAÇÃO,
 
@@ -2804,219 +2402,129 @@ TÉCNICO DE NÍVEL MÉDIO, TÉCNICO SUPERIOR DE SAÚDE, CIRUGIÃO-DENTISTA E MÉ
 
 JORNADA DE 30 HORAS SEMANAIS (VALORES EM R$)
 
-|Nível |Auxiliar de Serviços |Auxiliar de Administração |Oficial de Serviço |Telefonista |
-
-|1 |875,00 |875,00 |875,00 |1.621,00 |
-
-|2 |918,75 |918,75 |918,75 |1.702,05 |
-
-|3 |964,69 |964,69 |964,69 |1.787,15 |
-
-|4 |1.012,92 |1.012,92 |1.012,92 |1.876,51 |
-
-|5 |1.063,57 |1.063,57 |1.063,57 |1.970,34 |
-
-|6 |1.116,75 |1.116,75 |1.116,75 |2.068,85 |
-
-|7 |1.172,58 |1.172,58 |1.172,58 |2.172,30 |
-
-|8 |1.231,21 |1.231,21 |1.231,21 |2.280,91 |
-
-|9 |1.292,77 |1.292,77 |1.292,77 |2.394,96 |
-
-|10 |1.357,41 |1.357,41 |1.357,41 |2.514,70 |
-
-|11 |1.425,28 |1.425,28 |1.425,28 |2.640,44 |
-
-|12 |1.496,55 |1.496,55 |1.496,55 |2.772,46 |
-
-|13 |1.571,37 |1.571,37 |1.571,37 |2.911,08 |
-
-|14 |1.649,94 |1.649,94 |1.649,94 |3.056,64 |
-
-|15 |1.732,44 |1.732,44 |1.732,44 |3.209,47 |
+| Nível | Auxiliar de Serviços | Auxiliar de Administração | Oficial de Serviço | Telefonista |
+| --- | --- | --- | --- | --- |
+| 1 | 875,00 | 875,00 | 875,00 | 1.621,00 |
+| 2 | 918,75 | 918,75 | 918,75 | 1.702,05 |
+| 3 | 964,69 | 964,69 | 964,69 | 1.787,15 |
+| 4 | 1.012,92 | 1.012,92 | 1.012,92 | 1.876,51 |
+| 5 | 1.063,57 | 1.063,57 | 1.063,57 | 1.970,34 |
+| 6 | 1.116,75 | 1.116,75 | 1.116,75 | 2.068,85 |
+| 7 | 1.172,58 | 1.172,58 | 1.172,58 | 2.172,30 |
+| 8 | 1.231,21 | 1.231,21 | 1.231,21 | 2.280,91 |
+| 9 | 1.292,77 | 1.292,77 | 1.292,77 | 2.394,96 |
+| 10 | 1.357,41 | 1.357,41 | 1.357,41 | 2.514,70 |
+| 11 | 1.425,28 | 1.425,28 | 1.425,28 | 2.640,44 |
+| 12 | 1.496,55 | 1.496,55 | 1.496,55 | 2.772,46 |
+| 13 | 1.571,37 | 1.571,37 | 1.571,37 | 2.911,08 |
+| 14 | 1.649,94 | 1.649,94 | 1.649,94 | 3.056,64 |
+| 15 | 1.732,44 | 1.732,44 | 1.732,44 | 3.209,47 |
 
 H - TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS DE AUXILIAR DE SERVIÇOS, AUXILIAR DE ADMINISTRAÇÃO, OFICIAL DE SERVIÇOS, TELEFONISTA, MOTORISTA, AGENTE DE SERVIÇOS DE SAÚDE, TÉCNICO DE SERVIÇOS DE SAÚDE, AGENTE DE ADMINISTRAÇÃO E TÉCNICO DE NÍVEL MÉDIO
 
 JORNADA DE 40 HORAS SEMANAIS (VALORES EM R$)
 
-|Nível |Auxiliar de Serviços |Auxiliar de |Oficial de |Telefonista |Motorista |Agente de |Técnico de Serviços|Agente de |Técnico de Nível |
-
-| | |Administração |Serviços | | |Serviços de Saúde|de Saúde |Administração |Médio |
-
-|1 |592,00 |600,00 |650,00 |722,00 |722,00 |800,00 |875,00 |875,00 |875,00 |
-
-|2 |621,60 |630,00 |682,50 |758,10 |758,10 |840,00 |918,75 |918,75 |918,75 |
-
-|3 |652,68 |661,50 |716,63 |796,01 |796,01 |882,00 |964,69 |964,69 |964,69 |
-
-|4 |685,31 |694,58 |752,46 |835,81 |835,81 |926,10 |1.012,92 |1.012,92 |1.012,92 |
-
-|5 |719,58 |729,30 |790,08 |877,60 |877,60 |972,41 |1.063,57 |1.063,57 |1.063,57 |
-
-|6 |755,56 |765,77 |829,58 |921,48 |921,48 |1.021,03 |1.116,75 |1.116,75 |1.116,75 |
-
-|7 |793,34 |804,06 |871,06 |967,55 |967,55 |1.072,08 |1.172,58 |1.172,58 |1.172,58 |
-
-|8 |833,00 |844,26 |914,62 |1.015,93 |1.015,93 |1.125,68 |1.231,21 |1.231,21 |1.231,21 |
-
-|9 |874,65 |886,47 |960,35 |1.066,72 |1.066,72 |1.181,96 |1.292,77 |1.292,77 |1.292,77 |
-
-|10 |918,39 |930,80 |1.008,36 |1.120,06 |1.120,06 |1.241,06 |1.357,41 |1.357,41 |1.357,41 |
-
-|11 |964,31 |977,34 |1.058,78 |1.176,06 |1.176,06 |1.303,12 |1.425,28 |1.425,28 |1.425,28 |
-
-|12 |1.012,52 |1.026,20 |1.111,72 |1.234,87 |1.234,87 |1.368,27 |1.496,55 |1.496,55 |1.496,55 |
-
-|13 |1.063,15 |1.077,51 |1.167,31 |1.296,61 |1.296,61 |1.436,69 |1.571,37 |1.571,37 |1.571,37 |
-
-|14 |1.116,30 |1.131,39 |1.225,67 |1.361,44 |1.361,44 |1.508,52 |1.649,94 |1.649,94 |1.649,94 |
-
-|15 |1.172,12 |1.187,96 |1.286,96 |1.429,51 |1.429,51 |1.583,95 |1.732,44 |1.732,44 |1.732,44 |
+| Nível | Auxiliar de Serviços | Auxiliar de | Oficial de | Telefonista | Motorista | Agente de | Técnico de Serviços | Agente de | Técnico de Nível |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Administração | Serviços |  |  | Serviços de Saúde | de Saúde | Administração | Médio |
+| 1 | 592,00 | 600,00 | 650,00 | 722,00 | 722,00 | 800,00 | 875,00 | 875,00 | 875,00 |
+| 2 | 621,60 | 630,00 | 682,50 | 758,10 | 758,10 | 840,00 | 918,75 | 918,75 | 918,75 |
+| 3 | 652,68 | 661,50 | 716,63 | 796,01 | 796,01 | 882,00 | 964,69 | 964,69 | 964,69 |
+| 4 | 685,31 | 694,58 | 752,46 | 835,81 | 835,81 | 926,10 | 1.012,92 | 1.012,92 | 1.012,92 |
+| 5 | 719,58 | 729,30 | 790,08 | 877,60 | 877,60 | 972,41 | 1.063,57 | 1.063,57 | 1.063,57 |
+| 6 | 755,56 | 765,77 | 829,58 | 921,48 | 921,48 | 1.021,03 | 1.116,75 | 1.116,75 | 1.116,75 |
+| 7 | 793,34 | 804,06 | 871,06 | 967,55 | 967,55 | 1.072,08 | 1.172,58 | 1.172,58 | 1.172,58 |
+| 8 | 833,00 | 844,26 | 914,62 | 1.015,93 | 1.015,93 | 1.125,68 | 1.231,21 | 1.231,21 | 1.231,21 |
+| 9 | 874,65 | 886,47 | 960,35 | 1.066,72 | 1.066,72 | 1.181,96 | 1.292,77 | 1.292,77 | 1.292,77 |
+| 10 | 918,39 | 930,80 | 1.008,36 | 1.120,06 | 1.120,06 | 1.241,06 | 1.357,41 | 1.357,41 | 1.357,41 |
+| 11 | 964,31 | 977,34 | 1.058,78 | 1.176,06 | 1.176,06 | 1.303,12 | 1.425,28 | 1.425,28 | 1.425,28 |
+| 12 | 1.012,52 | 1.026,20 | 1.111,72 | 1.234,87 | 1.234,87 | 1.368,27 | 1.496,55 | 1.496,55 | 1.496,55 |
+| 13 | 1.063,15 | 1.077,51 | 1.167,31 | 1.296,61 | 1.296,61 | 1.436,69 | 1.571,37 | 1.571,37 | 1.571,37 |
+| 14 | 1.116,30 | 1.131,39 | 1.225,67 | 1.361,44 | 1.361,44 | 1.508,52 | 1.649,94 | 1.649,94 | 1.649,94 |
+| 15 | 1.172,12 | 1.187,96 | 1.286,96 | 1.429,51 | 1.429,51 | 1.583,95 | 1.732,44 | 1.732,44 | 1.732,44 |
 
 I - TABELA DE VENCIMENTOS-BASE DOS SEGUINTES CARGOS PÚBLICOS EFETIVOS DO PLANO DE CARREIRA DO HOB, INSTITUÍDO PELA LEI Nº 9.154/06 PARA A JORNADA DE TRABALHO DE 36 (TRINTA E SEIS) HORAS SEMANAIS, CONFORME A TABELA I DO SEU ANEXO IV
 
 Tabela de Letra I Acrescentada pela Lei 10.252, de 13/9/2011 (Art. 6º, Parágrafo único)
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) - JORNADA DE 36 HORAS SEMANAIS |
-
-|NÍVEL |TÉCNICO SUPERIOR DE SAÚDE |ENFERMEIRO |
-
-|1 |2.636,29 |2.636,29 |
-
-|2 |2.768,10 |2.768,10 |
-
-|3 |2.906,51 |2.906,51 |
-
-|4 |3.051,83 |3.051,83 |
-
-|5 |3.204,42 |3.204,42 |
-
-|6 |3.364,65 |3.364,65 |
-
-|7 |3.532,88 |3.532,88 |
-
-|8 |3.709,52 |3.709,52 |
-
-|9 |3.895,00 |3.895,00 |
-
-|10 |4.089,75 |4.089,75 |
-
-|11 |4.294,23 |4.294,23 |
-
-|12 |4.508,95 |4.508,95 |
-
-|13 |4.734,39 |4.734,39 |
-
-|14 |4.971,11 |4.971,11 |
-
-|15 |5.219,67 |5.219,67 |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) - JORNADA DE 36 HORAS SEMANAIS |  |  |
+| --- | --- | --- |
+| NÍVEL | TÉCNICO SUPERIOR DE SAÚDE | ENFERMEIRO |
+| 1 | 2.636,29 | 2.636,29 |
+| 2 | 2.768,10 | 2.768,10 |
+| 3 | 2.906,51 | 2.906,51 |
+| 4 | 3.051,83 | 3.051,83 |
+| 5 | 3.204,42 | 3.204,42 |
+| 6 | 3.364,65 | 3.364,65 |
+| 7 | 3.532,88 | 3.532,88 |
+| 8 | 3.709,52 | 3.709,52 |
+| 9 | 3.895,00 | 3.895,00 |
+| 10 | 4.089,75 | 4.089,75 |
+| 11 | 4.294,23 | 4.294,23 |
+| 12 | 4.508,95 | 4.508,95 |
+| 13 | 4.734,39 | 4.734,39 |
+| 14 | 4.971,11 | 4.971,11 |
+| 15 | 5.219,67 | 5.219,67 |
 
 J - Tabela de vencimentos-base dos cargos públicos efetivos de Engenheiro e Arquiteto do plano de carreira do HOB, instituído pela Lei nº 9.154/06, para a jornada de trabalho de 30h (trinta horas) semanais:
 
-|CARGOS |TABELA DE VENCIMENTOS-BASE – 30 HORAS SEMANAIS |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-|PRONTO-SOCORRO |PADRÃO I |
-
-|PROGRAMA DE ATENÇÃO DOMICILIAR - PAD | |
-
-|LABORATÓRIO |PADRÃO II |
-
-|RAIO X | |
-
-|CTI ADULTO | |
-
-|CTI INFANTIL | |
-
-|BLOCO CIRÚRGICO | |
-
-|BLOCO OBSTÉTRICO | |
-
-|AGÊNCIA TRANSFUSIONAL | |
-
-|BERÇÁRIO | |
-
-|FARMÁCIA DE APOIO AO PRONTO-SOCORRO | |
-
-|CLÍNICA MÉDICA |PADRÃO III |
-
-|CLÍNICA CIRÚRGICA | |
-
-|CLÍNICA PEDIÁTRICA | |
-
-|MATERNIDADE | |
-
-|COMISSÃO DE CONTROLE DE INFECÇÃO HOSPITALAR | |
-
-|SUPORTE NUTRICIONAL | |
-
-|FARMÁCIA DA INTERNAÇÃO | |
-
-|UNIDADES DE NUTRIÇÃO E DIETÉTICA | |
-
-|LAVANDERIA | |
-
-|MANUTENÇÃO | |
-
-|AMBULATÓRIO |PADRÃO IV |
-
-|SUPERINTENDÊNCIA |PADRÃO V |
-
-|ASSESSORIAS | |
-
-|CENTRO DE ESTUDOS | |
-
-|SETOR DE LICITAÇÃO | |
-
-|UNIDADES DA DIRETORIA ADMINISTRATIVA | |
+| CARGOS | TABELA DE VENCIMENTOS-BASE – 30 HORAS SEMANAIS |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+| PRONTO-SOCORRO | PADRÃO I |
+| PROGRAMA DE ATENÇÃO DOMICILIAR - PAD |  |
+| LABORATÓRIO | PADRÃO II |
+| RAIO X |  |
+| CTI ADULTO |  |
+| CTI INFANTIL |  |
+| BLOCO CIRÚRGICO |  |
+| BLOCO OBSTÉTRICO |  |
+| AGÊNCIA TRANSFUSIONAL |  |
+| BERÇÁRIO |  |
+| FARMÁCIA DE APOIO AO PRONTO-SOCORRO |  |
+| CLÍNICA MÉDICA | PADRÃO III |
+| CLÍNICA CIRÚRGICA |  |
+| CLÍNICA PEDIÁTRICA |  |
+| MATERNIDADE |  |
+| COMISSÃO DE CONTROLE DE INFECÇÃO HOSPITALAR |  |
+| SUPORTE NUTRICIONAL |  |
+| FARMÁCIA DA INTERNAÇÃO |  |
+| UNIDADES DE NUTRIÇÃO E DIETÉTICA |  |
+| LAVANDERIA |  |
+| MANUTENÇÃO |  |
+| AMBULATÓRIO | PADRÃO IV |
+| SUPERINTENDÊNCIA | PADRÃO V |
+| ASSESSORIAS |  |
+| CENTRO DE ESTUDOS |  |
+| SETOR DE LICITAÇÃO |  |
+| UNIDADES DA DIRETORIA ADMINISTRATIVA |  |
 
 ANEXO VI
 
 VALORES DO ABONO DE URGÊNCIA HOSPITALAR
 
-|CARGOS EFETIVOS |SETOR I |SETOR II |SETOR III |SETOR IV |SETOR V |
-
-|AUXILIAR DE SERVIÇOS |152,00 |84,50 |50,70 |25,35 |0,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |152,00 |84,50 |50,70 |25,35 |0,00 |
-
-|OFICIAL DE SERVIÇOS |152,00 |84,50 |50,70 |25,35 |0,00 |
-
-|TELEFONISTA |152,00 |84,50 |50,70 |25,35 |0,00 |
-
-|MOTORISTA |152,00 |84,50 |50,70 |25,35 |0,00 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |202,70 |113,51 |66,89 |33,45 |0,00 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |230,50 |128,00 |76,80 |38,40 |0,00 |
-
-|AGENTE DE ADMINISTRAÇÃO |230,50 |128,00 |76,80 |38,40 |0,00 |
-
-|TÉCNICO DE NÍVEL MÉDIO |230,50 |128,00 |76,80 |38,40 |0,00 |
-
-|TÉCNICO DE NÍVEL SUPERIOR |517,50 |287,40 |172,40 |86,20 |0,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |517,50 |287,40 |172,40 |86,20 |0,00 |
-
-|CIRURGIÃO-DENTISTA |555,30 |308,60 |185,20 |92,60 |0,00 |
-
-|MÉDICO |725,90 |406,50 |239,55 |119,78 |0,00 |
+| CARGOS EFETIVOS | SETOR I | SETOR II | SETOR III | SETOR IV | SETOR V |
+| --- | --- | --- | --- | --- | --- |
+| AUXILIAR DE SERVIÇOS | 152,00 | 84,50 | 50,70 | 25,35 | 0,00 |
+| AUXILIAR DE ADMINISTRAÇÃO | 152,00 | 84,50 | 50,70 | 25,35 | 0,00 |
+| OFICIAL DE SERVIÇOS | 152,00 | 84,50 | 50,70 | 25,35 | 0,00 |
+| TELEFONISTA | 152,00 | 84,50 | 50,70 | 25,35 | 0,00 |
+| MOTORISTA | 152,00 | 84,50 | 50,70 | 25,35 | 0,00 |
+| AGENTE DE SERVIÇOS DE SAÚDE | 202,70 | 113,51 | 66,89 | 33,45 | 0,00 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 230,50 | 128,00 | 76,80 | 38,40 | 0,00 |
+| AGENTE DE ADMINISTRAÇÃO | 230,50 | 128,00 | 76,80 | 38,40 | 0,00 |
+| TÉCNICO DE NÍVEL MÉDIO | 230,50 | 128,00 | 76,80 | 38,40 | 0,00 |
+| TÉCNICO DE NÍVEL SUPERIOR | 517,50 | 287,40 | 172,40 | 86,20 | 0,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 517,50 | 287,40 | 172,40 | 86,20 | 0,00 |
+| CIRURGIÃO-DENTISTA | 555,30 | 308,60 | 185,20 | 92,60 | 0,00 |
+| MÉDICO | 725,90 | 406,50 | 239,55 | 119,78 | 0,00 |
 
 ANEXO VI
 
@@ -3024,139 +2532,81 @@ Anexo VI com redação dada pela Lei nº 10.252, de 12/9/2011 (Art. 8º)
 
 ANEXO VI - A
 
-|CARGO / EMPREGO PÚBLICO |JORNADA SEMANAL |SETORES (em R$) |
-
-|MÉDICO | | |
-
-|Modalidade |Descrição | |
-
-| | |I |II |III |IV |V |
-
-|TÉCNICO SUPERIOR DE SAÚDE |20 horas ou |696,00 |386,40 |231,60 |116,40 |0,00 |
-
-| |24 horas | | | | | |
-
-| |30 horas ou |1.044,00 |579,60 |347,40 |174,60 |0,00 |
-
-| |36 horas | | | | | |
-
-| |40 horas |1.392,00 |772,80 |463,20 |232,80 |0,00 |
-
-|ENFERMEIRO |20 horas ou |696,00 |386,40 |231,60 |116,40 |0,00 |
-
-| |24 horas | | | | | |
-
-| |30 horas ou 36 horas |1.044,00 |579,60 |347,40 |174,60 |0,00 |
-
-| |40 horas |1.392,00 |772,80 |463,20 |232,80 |0,00 |
-
-|CIRURGIÃO-DENTISTA |20 horas ou |746,40 |415,20 |248,40 |124,80 |0,00 |
-
-| |24 horas | | | | | |
-
-| |30 horas |1.119,60 |622,80 |372,60 |187,20 |0,00 |
-
-| |40 horas |1.492,80 |830,40 |496,80 |249,60 |0,00 |
+| CARGO / EMPREGO PÚBLICO | JORNADA SEMANAL | SETORES (em R$) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| MÉDICO |  |  |  |  |  |  |
+| Modalidade | Descrição |  |  |  |  |  |
+|  |  | I | II | III | IV | V |
+| TÉCNICO SUPERIOR DE SAÚDE | 20 horas ou | 696,00 | 386,40 | 231,60 | 116,40 | 0,00 |
+|  | 24 horas |  |  |  |  |  |
+|  | 30 horas ou | 1.044,00 | 579,60 | 347,40 | 174,60 | 0,00 |
+|  | 36 horas |  |  |  |  |  |
+|  | 40 horas | 1.392,00 | 772,80 | 463,20 | 232,80 | 0,00 |
+| ENFERMEIRO | 20 horas ou | 696,00 | 386,40 | 231,60 | 116,40 | 0,00 |
+|  | 24 horas |  |  |  |  |  |
+|  | 30 horas ou 36 horas | 1.044,00 | 579,60 | 347,40 | 174,60 | 0,00 |
+|  | 40 horas | 1.392,00 | 772,80 | 463,20 | 232,80 | 0,00 |
+| CIRURGIÃO-DENTISTA | 20 horas ou | 746,40 | 415,20 | 248,40 | 124,80 | 0,00 |
+|  | 24 horas |  |  |  |  |  |
+|  | 30 horas | 1.119,60 | 622,80 | 372,60 | 187,20 | 0,00 |
+|  | 40 horas | 1.492,80 | 830,40 | 496,80 | 249,60 | 0,00 |
 
 ANEXO VI - C
 
-|CARGO / EMPREGO PÚBLICO EFETIVO |JORNADA SEMANAL |SETORES (EM R$) |
-
-| | |I |II |III |IV |V |
-
-|AUXILIAR DE SERVIÇOS |30 horas |216,00 |120,00 |72,00 |36,00 |0,00 |
-
-| |40 horas |288,00 |160,00 |96,00 |48,00 |0,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |30 horas |216,00 |120,00 |72,00 |36,00 |0,00 |
-
-| |40 horas |288,00 |160,00 |96,00 |48,00 |0,00 |
-
-|OFICIAL DE SERVIÇOS |30 horas |216,00 |120,00 |72,00 |36,00 |0,00 |
-
-| |40 horas |288,00 |160,00 |96,00 |48,00 |0,00 |
-
-|TELEFONISTA |30 horas |216,00 |120,00 |72,00 |36,00 |0,00 |
-
-| |40 horas |288,00 |160,00 |96,00 |48,00 |0,00 |
-
-|MOTORISTA |30 horas |216,00 |120,00 |72,00 |36,00 |0,00 |
-
-| |40 horas |288,00 |160,00 |96,00 |48,00 |0,00 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |30 horas |289,20 |162,00 |94,80 |48,00 |0,00 |
-
-| |40 horas |385,60 |216,00 |126,40 |64,00 |0,00 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |30 horas |328,80 |182,40 |109,20 |55,20 |0,00 |
-
-| |40 horas |438,40 |243,20 |145,60 |73,60 |0,00 |
-
-|AGENTE DE ADMINISTRAÇÃO |30 horas |328,80 |182,40 |109,20 |55,20 |0,00 |
-
-| |40 horas |438,40 |243,20 |145,60 |73,60 |0,00 |
-
-|TÉCNICO DE NÍVEL MÉDIO |40 horas |438,40 |243,20 |145,60 |73,60 |0,00 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |40 horas |696,00 |386,40 |231,60 |116,40 |0,00 |
+| CARGO / EMPREGO PÚBLICO EFETIVO | JORNADA SEMANAL | SETORES (EM R$) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | I | II | III | IV | V |
+| AUXILIAR DE SERVIÇOS | 30 horas | 216,00 | 120,00 | 72,00 | 36,00 | 0,00 |
+|  | 40 horas | 288,00 | 160,00 | 96,00 | 48,00 | 0,00 |
+| AUXILIAR DE ADMINISTRAÇÃO | 30 horas | 216,00 | 120,00 | 72,00 | 36,00 | 0,00 |
+|  | 40 horas | 288,00 | 160,00 | 96,00 | 48,00 | 0,00 |
+| OFICIAL DE SERVIÇOS | 30 horas | 216,00 | 120,00 | 72,00 | 36,00 | 0,00 |
+|  | 40 horas | 288,00 | 160,00 | 96,00 | 48,00 | 0,00 |
+| TELEFONISTA | 30 horas | 216,00 | 120,00 | 72,00 | 36,00 | 0,00 |
+|  | 40 horas | 288,00 | 160,00 | 96,00 | 48,00 | 0,00 |
+| MOTORISTA | 30 horas | 216,00 | 120,00 | 72,00 | 36,00 | 0,00 |
+|  | 40 horas | 288,00 | 160,00 | 96,00 | 48,00 | 0,00 |
+| AGENTE DE SERVIÇOS DE SAÚDE | 30 horas | 289,20 | 162,00 | 94,80 | 48,00 | 0,00 |
+|  | 40 horas | 385,60 | 216,00 | 126,40 | 64,00 | 0,00 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 30 horas | 328,80 | 182,40 | 109,20 | 55,20 | 0,00 |
+|  | 40 horas | 438,40 | 243,20 | 145,60 | 73,60 | 0,00 |
+| AGENTE DE ADMINISTRAÇÃO | 30 horas | 328,80 | 182,40 | 109,20 | 55,20 | 0,00 |
+|  | 40 horas | 438,40 | 243,20 | 145,60 | 73,60 | 0,00 |
+| TÉCNICO DE NÍVEL MÉDIO | 40 horas | 438,40 | 243,20 | 145,60 | 73,60 | 0,00 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 40 horas | 696,00 | 386,40 | 231,60 | 116,40 | 0,00 |
 
 ANEXO VII
 
 POSICIONAMENTO DOS CARGOS EFETIVOS DAS ÁREAS DE ADMINISTRAÇÃO E SAÚDE DA BENEFICÊNCIA DA PREFEITURA DE BELO HORIZONTE
 
-|CARGO ATUAL |CARGO PROPOSTO |Nº DE CARGOS |
-
-|Auxiliar de Serviço Administrativo |Auxiliar Administrativo |7 |
-
-|Motorista |Motorista |2 |
-
-|Telefonista |Telefonista |1 |
-
-|Agente de Administração I |Assistente Administrativo |80 |
-
-|Agente de Administração II | | |
-
-|Agente de Administração III | | |
-
-|Agente de Administração IV | | |
-
-|Advogado I |Advogado |3 |
-
-|Advogado II | | |
-
-|Advogado III | | |
-
-|Procurador da BEPREM I |Procurador |2 |
-
-|Procurador da BEPREM II | | |
-
-|Procurador da BEPREM III | | |
-
-|Bibliotecário III |Analista de Políticas Públicas |1 |
-
-|Agente de Serviços de Saúde I |Agente de Serviços de Saúde |37 |
-
-|Agente de Serviços de Saúde II | | |
-
-|Agente de Serviços de Saúde III | | |
-
-|Técnico de Nível Médio I |Técnico de Serviços de Saúde |7 |
-
-|Técnico de Nível Médio II | | |
-
-|Técnico de Nível Médio III | | |
-
-|Técnico Superior de Saúde I |Técnico Superior de Saúde |25 |
-
-|Técnico Superior de Saúde II | | |
-
-|Técnico Superior de Saúde IIII | | |
-
-|Cirurgião-Dentista I |Cirurgião-Dentista |93 |
-
-|Cirurgião-Dentista II | | |
-
-|Cirurgião-Dentista III | | |
+| CARGO ATUAL | CARGO PROPOSTO | Nº DE CARGOS |
+| --- | --- | --- |
+| Auxiliar de Serviço Administrativo | Auxiliar Administrativo | 7 |
+| Motorista | Motorista | 2 |
+| Telefonista | Telefonista | 1 |
+| Agente de Administração I | Assistente Administrativo | 80 |
+| Agente de Administração II |  |  |
+| Agente de Administração III |  |  |
+| Agente de Administração IV |  |  |
+| Advogado I | Advogado | 3 |
+| Advogado II |  |  |
+| Advogado III |  |  |
+| Procurador da BEPREM I | Procurador | 2 |
+| Procurador da BEPREM II |  |  |
+| Procurador da BEPREM III |  |  |
+| Bibliotecário III | Analista de Políticas Públicas | 1 |
+| Agente de Serviços de Saúde I | Agente de Serviços de Saúde | 37 |
+| Agente de Serviços de Saúde II |  |  |
+| Agente de Serviços de Saúde III |  |  |
+| Técnico de Nível Médio I | Técnico de Serviços de Saúde | 7 |
+| Técnico de Nível Médio II |  |  |
+| Técnico de Nível Médio III |  |  |
+| Técnico Superior de Saúde I | Técnico Superior de Saúde | 25 |
+| Técnico Superior de Saúde II |  |  |
+| Técnico Superior de Saúde IIII |  |  |
+| Cirurgião-Dentista I | Cirurgião-Dentista | 93 |
+| Cirurgião-Dentista II |  |  |
+| Cirurgião-Dentista III |  |  |
 
 ANEXO VIII
 
@@ -3164,49 +2614,29 @@ TABELA DE VENCIMENTOS DOS CARGOS EFETIVOS DAS ÁREAS DE ADMINISTRAÇÃO E SAÚDE
 
 DA BENEFICÊNCIA DA PREFEITURA DE BELO HORIZONTE
 
-| |CARGOS |N I V E I S D E V E N C I M E N T O S (EM R$) |
-
-| | |1 |
-
-|Auxiliar Administrativo |Ensino Fundamental completo de 5ª a 8ª série |6 horas diárias |
-
-|Motorista |Ensino Fundamental completo de 5ª a 8ª série e Carteira de |6 horas diárias |
-
-| |Habilitação | |
-
-|Telefonista |Ensino Fundamental completo de 5ª a 8ª série |6 horas diárias |
-
-|Assistente Administrativo |Ensino Médio completo |6 horas diárias |
-
-|Advogado |Ensino Superior completo em Direito e habilitação legal para o |4 horas diárias |
-
-| |exercício da profissão | |
-
-|Procurador |Ensino Superior completo em Direito e habilitação legal para o |4 horas diárias |
-
-| |exercício da profissão | |
-
-|Analista de Políticas Públicas |Ensino Superior completo em Biblioteconomia |4 horas diárias |
-
-|Agente de Serviços de Saúde |Ensino Fundamental completo de 5ª a 8ª série |6 horas diárias |
-
-|Técnico de Serviços de Saúde |Ensino Médio completo com habilitação legal para o exercício da |6 horas diárias |
-
-| |profissão nas áreas técnicas de higiene bucal, prótese, aparelho| |
-
-| |odontológico, esterilização e fluoretação | |
-
-|Técnico Superior de Saúde |Ensino superior completo nas áreas de Enfermagem, Farmácia, |4 horas diárias |
-
-| |Psicologia, | |
-
-| |Pedagogia e Serviço Social e habilitação legal para o exercício | |
-
-| |da profissão respectiva | |
-
-|Cirurgião-Dentista |Ensino superior completo em Odontologia e habilitação legal para|4 horas diárias |
-
-| |o exercício da profissão | |
+|  | CARGOS | N I V E I S D E V E N C I M E N T O S (EM R$) |
+| --- | --- | --- |
+|  |  | 1 |
+| Auxiliar Administrativo | Ensino Fundamental completo de 5ª a 8ª série | 6 horas diárias |
+| Motorista | Ensino Fundamental completo de 5ª a 8ª série e Carteira de | 6 horas diárias |
+|  | Habilitação |  |
+| Telefonista | Ensino Fundamental completo de 5ª a 8ª série | 6 horas diárias |
+| Assistente Administrativo | Ensino Médio completo | 6 horas diárias |
+| Advogado | Ensino Superior completo em Direito e habilitação legal para o | 4 horas diárias |
+|  | exercício da profissão |  |
+| Procurador | Ensino Superior completo em Direito e habilitação legal para o | 4 horas diárias |
+|  | exercício da profissão |  |
+| Analista de Políticas Públicas | Ensino Superior completo em Biblioteconomia | 4 horas diárias |
+| Agente de Serviços de Saúde | Ensino Fundamental completo de 5ª a 8ª série | 6 horas diárias |
+| Técnico de Serviços de Saúde | Ensino Médio completo com habilitação legal para o exercício da | 6 horas diárias |
+|  | profissão nas áreas técnicas de higiene bucal, prótese, aparelho |  |
+|  | odontológico, esterilização e fluoretação |  |
+| Técnico Superior de Saúde | Ensino superior completo nas áreas de Enfermagem, Farmácia, | 4 horas diárias |
+|  | Psicologia, |  |
+|  | Pedagogia e Serviço Social e habilitação legal para o exercício |  |
+|  | da profissão respectiva |  |
+| Cirurgião-Dentista | Ensino superior completo em Odontologia e habilitação legal para | 4 horas diárias |
+|  | o exercício da profissão |  |
 
 ## Observações da CMBH
 

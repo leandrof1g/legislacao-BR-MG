@@ -32,19 +32,17 @@ O Prefeito de Belo Horizonte, no exercício das atribuições que lhe confere o 
 
 (...)
 
-|Secretaria de Administração Regional Municipal Centro-Sul |
-
-|(...) |(...) |
-
-|Umei Capivari |Escola Municipal Professor Edson Pisani |
+| Secretaria de Administração Regional Municipal Centro-Sul |  |
+| --- | --- |
+| (...) | (...) |
+| Umei Capivari | Escola Municipal Professor Edson Pisani |
 
 (...)
 
-|Secretaria de Administração Regional Municipal Noroeste |
-
-|(...) |(...) |
-
-|Umei Califórnia |Escola Municipal João Pinheiro |
+| Secretaria de Administração Regional Municipal Noroeste |  |
+| --- | --- |
+| (...) | (...) |
+| Umei Califórnia | Escola Municipal João Pinheiro |
 
 ”(NR)
 

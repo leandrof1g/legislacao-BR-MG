@@ -58,141 +58,78 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º |R$ |
-
-|da Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2951.339039.1.500.000 |19.152.878,89 |
-
-|2302.10.302.0117.1216.449051.1.754.791 |1.640.000,00 |
-
-|2302.10.302.0114.2951.339039.1.605.000 |4.173.308,00 |
-
-|2302.10.302.0114.2951.445042.1.621.000 |854.344,00 |
-
-|TOTAL |25.820.530,89 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. |R$ |
-
-|6º da Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0171.1399.449051.1.500.000 |575.484,00 |
-
-|2700.18.541.0233.2811.339039.1.500.000 |6.500.000,00 |
-
-|2700.15.451.0062.1230.449051.1.500.000 |844.500,00 |
-
-|2700.04.122.0044.1219.449051.1.500.000 |2.097.181,00 |
-
-|2700.15.451.0062.1330.449039.1.500.000 |70.000,00 |
-
-|2700.17.512.0066.1403.449051.1.500.000 |638.723,00 |
-
-|2700.15.451.0311.1408.449051.1.500.000 |1.028.346,00 |
-
-|2700.15.451.0311.2955.449051.1.500.000 |1.800.000,00 |
-
-|TOTAL |13.554.234,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |39.374.764,89 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º | R$ |
+| --- | --- |
+| da Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2951.339039.1.500.000 | 19.152.878,89 |
+| 2302.10.302.0117.1216.449051.1.754.791 | 1.640.000,00 |
+| 2302.10.302.0114.2951.339039.1.605.000 | 4.173.308,00 |
+| 2302.10.302.0114.2951.445042.1.621.000 | 854.344,00 |
+| TOTAL | 25.820.530,89 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. | R$ |
+| 6º da Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0171.1399.449051.1.500.000 | 575.484,00 |
+| 2700.18.541.0233.2811.339039.1.500.000 | 6.500.000,00 |
+| 2700.15.451.0062.1230.449051.1.500.000 | 844.500,00 |
+| 2700.04.122.0044.1219.449051.1.500.000 | 2.097.181,00 |
+| 2700.15.451.0062.1330.449039.1.500.000 | 70.000,00 |
+| 2700.17.512.0066.1403.449051.1.500.000 | 638.723,00 |
+| 2700.15.451.0311.1408.449051.1.500.000 | 1.028.346,00 |
+| 2700.15.451.0311.2955.449051.1.500.000 | 1.800.000,00 |
+| TOTAL | 13.554.234,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 39.374.764,89 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.122.0117.2662.339030.1.500.000 |227.754,56 |
-
-|2302.10.122.0117.2662.339034.1.605.000 |1.951.582,69 |
-
-|2302.10.122.0117.2662.339036.1.500.000 |867.583,00 |
-
-|2302.10.122.0117.2662.339039.1.500.000 |1.587.397,28 |
-
-|2302.10.126.0117.2662.339030.1.500.000 |1.687.164,50 |
-
-|2302.10.126.0117.2662.339040.1.500.000 |2.270.179,00 |
-
-|2302.10.301.0157.2690.339039.1.500.000 |1.101.120,00 |
-
-|2302.10.301.0157.2690.339046.1.500.000 |5.000.000,00 |
-
-|2302.10.301.0157.2690.449052.1.621.000 |854.344,00 |
-
-|2302.10.301.0310.2950.319011.1.500.000 |150.000,00 |
-
-|2302.10.301.0310.2950.339030.1.500.000 |300.000,00 |
-
-|2302.10.301.0310.2950.339034.1.500.000 |100.000,00 |
-
-|2302.10.301.0310.2950.339037.1.500.000 |100.000,00 |
-
-|2302.10.301.0310.2950.339039.1.500.000 |50.000,00 |
-
-|2302.10.301.0310.2950.339040.1.500.000 |2.504.206,63 |
-
-|2302.10.302.0114.2951.339139.1.605.000 |1.580.000,00 |
-
-|2302.10.302.0114.2952.335043.1.605.000 |641.725,31 |
-
-|2302.10.302.0114.2952.339030.1.500.000 |120.279,00 |
-
-|2302.10.302.0114.2952.339039.1.500.000 |825.280,00 |
-
-|2302.10.302.0309.2960.339039.1.500.000 |500.000,00 |
-
-|2302.10.305.0028.2829.339046.1.500.000 |1.761.914,92 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.16.482.0226.1207.449051.1.754.791 |1.640.000,00 |
-
-|TOTAL |25.820.530,89 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449030.1.500.000 |600.000,00 |
-
-|2700.04.122.0233.1219.449039.1.500.000 |4.490,00 |
-
-|2700.04.122.0233.1219.449051.1.500.000 |1.127.696,00 |
-
-|2700.04.122.0233.1219.449092.1.500.000 |5.000,00 |
-
-|2700.13.391.0233.1219.449051.1.500.000 |225.000,00 |
-
-|2700.13.392.0146.1215.449092.1.500.000 |14.687,00 |
-
-|2700.15.451.0062.1330.449051.1.500.000 |9.805.555,00 |
-
-|2700.15.451.0233.1396.449093.1.500.000 |6.655,00 |
-
-|2700.15.451.0313.1219.449051.1.500.000 |308.510,00 |
-
-|2700.15.452.0057.2770.339040.1.500.000 |130.343,00 |
-
-|2700.18.541.0073.1202.449051.1.500.000 |1.192.353,00 |
-
-|2700.18.541.0073.1202.449092.1.500.000 |62.343,00 |
-
-|2700.18.541.0073.1202.449093.1.500.000 |21.602,00 |
-
-|2700.18.541.0319.1202.449051.1.500.000 |50.000,00 |
-
-|TOTAL |13.554.234,00 |
-
-|TOTAL DA ANULAÇÃO |39.374.764,89 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.122.0117.2662.339030.1.500.000 | 227.754,56 |
+| 2302.10.122.0117.2662.339034.1.605.000 | 1.951.582,69 |
+| 2302.10.122.0117.2662.339036.1.500.000 | 867.583,00 |
+| 2302.10.122.0117.2662.339039.1.500.000 | 1.587.397,28 |
+| 2302.10.126.0117.2662.339030.1.500.000 | 1.687.164,50 |
+| 2302.10.126.0117.2662.339040.1.500.000 | 2.270.179,00 |
+| 2302.10.301.0157.2690.339039.1.500.000 | 1.101.120,00 |
+| 2302.10.301.0157.2690.339046.1.500.000 | 5.000.000,00 |
+| 2302.10.301.0157.2690.449052.1.621.000 | 854.344,00 |
+| 2302.10.301.0310.2950.319011.1.500.000 | 150.000,00 |
+| 2302.10.301.0310.2950.339030.1.500.000 | 300.000,00 |
+| 2302.10.301.0310.2950.339034.1.500.000 | 100.000,00 |
+| 2302.10.301.0310.2950.339037.1.500.000 | 100.000,00 |
+| 2302.10.301.0310.2950.339039.1.500.000 | 50.000,00 |
+| 2302.10.301.0310.2950.339040.1.500.000 | 2.504.206,63 |
+| 2302.10.302.0114.2951.339139.1.605.000 | 1.580.000,00 |
+| 2302.10.302.0114.2952.335043.1.605.000 | 641.725,31 |
+| 2302.10.302.0114.2952.339030.1.500.000 | 120.279,00 |
+| 2302.10.302.0114.2952.339039.1.500.000 | 825.280,00 |
+| 2302.10.302.0309.2960.339039.1.500.000 | 500.000,00 |
+| 2302.10.305.0028.2829.339046.1.500.000 | 1.761.914,92 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.16.482.0226.1207.449051.1.754.791 | 1.640.000,00 |
+| TOTAL | 25.820.530,89 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação | R$ |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449030.1.500.000 | 600.000,00 |
+| 2700.04.122.0233.1219.449039.1.500.000 | 4.490,00 |
+| 2700.04.122.0233.1219.449051.1.500.000 | 1.127.696,00 |
+| 2700.04.122.0233.1219.449092.1.500.000 | 5.000,00 |
+| 2700.13.391.0233.1219.449051.1.500.000 | 225.000,00 |
+| 2700.13.392.0146.1215.449092.1.500.000 | 14.687,00 |
+| 2700.15.451.0062.1330.449051.1.500.000 | 9.805.555,00 |
+| 2700.15.451.0233.1396.449093.1.500.000 | 6.655,00 |
+| 2700.15.451.0313.1219.449051.1.500.000 | 308.510,00 |
+| 2700.15.452.0057.2770.339040.1.500.000 | 130.343,00 |
+| 2700.18.541.0073.1202.449051.1.500.000 | 1.192.353,00 |
+| 2700.18.541.0073.1202.449092.1.500.000 | 62.343,00 |
+| 2700.18.541.0073.1202.449093.1.500.000 | 21.602,00 |
+| 2700.18.541.0319.1202.449051.1.500.000 | 50.000,00 |
+| TOTAL | 13.554.234,00 |
+| TOTAL DA ANULAÇÃO | 39.374.764,89 |
 
 ANEXO II
 
@@ -222,52 +159,32 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 15% (quinze por cento) |
-
-|abertura de créditos suplementares para o Fundo Municipal de |do valor do orçamento. |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 3.738.652.601,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 519.425.835,55 |
-
-|Valor do decreto publicado nesta data |R$ 25.820.530,89 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 545.246.366,44 |
-
-|Saldo atual de créditos suplementares |R$ 3.193.406.234,96 |
-
-|Percentual utilizado |14,58% |
-
-|Atualizado em 20/10/2026 às 17:22:57 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 15% (quinze por cento) |
+| abertura de créditos suplementares para o Fundo Municipal de | do valor do orçamento. |
+| Saúde. |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 3.738.652.601,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 519.425.835,55 |
+| Valor do decreto publicado nesta data | R$ 25.820.530,89 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 545.246.366,44 |
+| Saldo atual de créditos suplementares | R$ 3.193.406.234,96 |
+| Percentual utilizado | 14,58% |
+| Atualizado em 20/10/2026 às 17:22:57 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.378.793.490,60 |
-
-|Valor do decreto publicado nesta data |R$ 13.554.234,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.392.347.724,60 |
-
-|Saldo atual de créditos suplementares |R$ 1.100.087.343,00 |
-
-|Percentual utilizado |55,86% |
-
-|Atualizado em 20/10/2026 às 17:23:17 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.378.793.490,60 |
+| Valor do decreto publicado nesta data | R$ 13.554.234,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.392.347.724,60 |
+| Saldo atual de créditos suplementares | R$ 1.100.087.343,00 |
+| Percentual utilizado | 55,86% |
+| Atualizado em 20/10/2026 às 17:23:17 |  |

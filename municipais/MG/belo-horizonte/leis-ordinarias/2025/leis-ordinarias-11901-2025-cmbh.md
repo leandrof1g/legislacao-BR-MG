@@ -30,11 +30,10 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I DIA COMEMORATIVO D –Dias comemorativos de abril:
 
-|DATA |COMEMORAÇÃO |
-
-|1º/4 |Dia Municipal de Conscientização e Enfrentamento ao Vício em Apostas Virtuais e |
-
-| |Jogos de Azar |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 1º/4 | Dia Municipal de Conscientização e Enfrentamento ao Vício em Apostas Virtuais e |
+|  | Jogos de Azar |
 
 .”.
 

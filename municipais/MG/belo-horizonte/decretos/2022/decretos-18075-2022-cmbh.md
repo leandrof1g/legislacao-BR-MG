@@ -58,36 +58,21 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º do art. 43 |R$ |
-
-|da Lei Federal no 4.320, de 17 de março de 1964, e no caput do art. 4º da Lei nº 11.336, de 30 de| |
-
-|dezembro de 2021: | |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.04.122.233.1.219.4490.0030 |20.308,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.302.030.2.875.3390.0050 |302.000,83 |
-
-|TOTAL |322.308,83 |
-
-|I.2 - A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no inciso II do art. 4º da Lei | |
-
-|nº 11.336, de 30 de dezembro de 2021: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.114.2.893.3390.0050 |96.600,00 |
-
-|2302.10.302.114.2.893.4490.0050 |4.145,00 |
-
-|2302.10.305.028.2.829.3390.0050 |2.236.621,16 |
-
-|TOTAL |2.337.366,16 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.659.674,99 |
+| I.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º do art. 43 | R$ |
+| --- | --- |
+| da Lei Federal no 4.320, de 17 de março de 1964, e no caput do art. 4º da Lei nº 11.336, de 30 de |  |
+| dezembro de 2021: |  |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.04.122.233.1.219.4490.0030 | 20.308,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.302.030.2.875.3390.0050 | 302.000,83 |
+| TOTAL | 322.308,83 |
+| I.2 - A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso I do § | R$ |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no inciso II do art. 4º da Lei |  |
+| nº 11.336, de 30 de dezembro de 2021: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.114.2.893.3390.0050 | 96.600,00 |
+| 2302.10.302.114.2.893.4490.0050 | 4.145,00 |
+| 2302.10.305.028.2.829.3390.0050 | 2.236.621,16 |
+| TOTAL | 2.337.366,16 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.659.674,99 |

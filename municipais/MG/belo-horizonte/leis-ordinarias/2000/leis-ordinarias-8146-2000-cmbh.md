@@ -2050,271 +2050,146 @@ ANEXO I
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO | | |
-
-|Secretário Municipal |Secretário Municipal de Coordenação |5 |
-
-| |Secretário Municipal de Coordenação da Gestão Regional |9 |
-
-|Secretário Municipal Adjunto |Secretário Municipal |21 |
-
-| |Secretário Municipal Regional |18 |
-
-| |Secretário Municipal Adjunto de Administração e |1 |
-
-| |Recursos Humanos | |
-
-| |Secretário Municipal Adjunto de Governo |1 |
-
-| |Cargo acrescentado pela Lei nº 8.567, de 14/5/2003 | |
-
-| |(Art.29) | |
-
-|Auditor-Geral |Auditor-chefe |1 |
-
-|Auditor-Geral Adjunto |-- |0 |
-
-|Chefe da Assessoria de Comunicação Social |Chefe da Assessoria de Comunicação Social |1 |
-
-|Chefe Adjunto da Assessoria de Comunicação Social |Chefe Adjunto de Imprensa |1 |
-
-|Cargo com redação dada pela Lei nº 8.567, de |Chefe Adjunto de Relações Públicas e Divulgação |1 |
-
-|14/5/2003 (Art.29) |Chefe de Cerimonial e Mobilização | |
-
-| | |1 |
-
-|Corregedor Geral |Corregedor-chefe |1 |
-
-|Corregedor-Geral Adjunto |-- |0 |
-
-|Procurador-Geral do Município |Procurador-Geral do Município |1 |
-
-|Procurador-Geral Adjunto |Procurador-Geral Adjunto |1 |
-
-|Administrador Regional |-- |0 |
-
-|Coordenador de Proteção e Defesa do Consumidor |Coordenador de Proteção do Consumidor |1 |
-
-|Coordenador de Direitos Humanos |Coordenador de Direitos Humanos |1 |
-
-|Coordenador de Política de Relações do Trabalho |-- |0 |
-
-|Coordenador de Defesa Civil |Coordenador de Defesa Civil |1 |
-
-|Presidente da Junta de Julgamento Fiscal |Presidente da Junta de Julgamento Fiscal |1 |
-
-|Coordenador dos Direitos da Mulher |Coordenador dos Direitos da Mulher |1 |
-
-|Secretário de Assuntos da Comunidade Negra |Coordenador de Assuntos da Comunidade Negra |1 |
-
-|Chefe de Gabinete do Prefeito |Chefe de Gabinete do Prefeito |1 |
-
-|Chefe de Gabinete do Vice-prefeito |Chefe de Gabinete do Vice-prefeito |1 |
-
-|Cargo com redação dada pela Lei nº 8.567, de |Secretário Municipal de Governo |1 |
-
-|14/5/2003 (Art.29) | | |
-
-|Chefe de Gabinete de Secretário |Chefe de Gabinete |51 |
-
-|Diretor de Departamento |Gerente de 1º Nível |237 |
-
-|Diretor de Departamento |Gerente de 1º Nível |256 |
-
-|Cargo com redação dada pela Lei nº 8.288, de | | |
-
-|28/12/2001 (Art. 26) | | |
-
-|Diretor de Departamento |Gerente de 1º Nível |261 |
-
-|Cargo com redação dada pela Lei nº 8.787, de | |Número de vagas retificado em|
-
-|2/4/2004 (art. 10, parágrafo único) | |07/04/2004 |
-
-|Diretor de Departamento | | |
-
-|Cargo com redação dada pela Lei nº 8.794, de |Gerente de 1º Nível |260 |
-
-|2/4/2004 (art.6º, parágrafo único) | | |
-
-|Chefe de Serviço |Gerente de 2º Nível |461 |
-
-|Chefe de serviço |Gerente de 2º Nível |484 |
-
-|Cargo com redação dada pela Lei nº 8.288, de | | |
-
-|28/12/2001 (Art. 26) | | |
-
-|Chefe de Serviço |Gerente de 2º Nível |502 |
-
-|Cargo com redação dada pela Lei nº 8.486, de | | |
-
-|20/1/2003 (Art. 7º) | | |
-
-|Chefe de Seção |Gerente de 3º Nível |147 |
-
-|Chefe de Setor |Gerente de 4º Nível |14 |
-
-|Coordenador de Cerimonial |-- |0 |
-
-|Coordenador de Fiscalização |Coordenador de Fiscalização |30 |
-
-|Secretário da Junta de Julgamento Fiscal |Secretário da Junta de Julgamento Fiscal |1 |
-
-|Secretário da Junta de Recursos Fiscais |Secretário da Junta de Recursos Fiscais |1 |
-
-|Secretário Particular do Prefeito |Secretário Particular do Prefeito |1 |
-
-|Oficial de Gabinete do Prefeito |Oficial de Gabinete do Prefeito |10 |
-
-|Auxiliar de Gabinete |Auxiliar de Gabinete |40 |
-
-|Encarregado de Serviço |Encarregado de Serviço |100 |
-
-|Supervisor de Segurança |Supervisor de Segurança |6 |
-
-|... |Comandante da Guarda |1 |
-
-|Cargo acrescentado pela Lei nº 8.486, de 20/1/2003|Municipal Patrimonial | |
-
-|(Art. 6º, parágrafo único) | | |
-
-|... |Inspetor da Guarda Municipal Patrimonial |18 |
-
-|Cargo acrescentado pela Lei nº 8.486, de 20/1/2003| | |
-
-|(Art. 8º, § 2º) | | |
-
-|... |Ouvidor da Guarda Municipal Patrimonial |1 |
-
-|Cargo acrescentado pela Lei nº 8.486, de 20/1/2003| | |
-
-|(Art. 9º, § 3º) | | |
-
-|GRUPO DE ASSESSORAMENTO | | |
-
-|Assessor Especial de Defesa Social |Assessor Especial de Defesa Social |1 |
-
-|-- |Assessor Especial |6 |
-
-|-- |Consultor Técnico Especializado |6 |
-
-|Assessor I |Assessor I |80 |
-
-|Assessor II |Assessor II |56 |
-
-|Assessor III |Assessor III |21 |
-
-|Assessor Jurídico |Assessor Jurídico II |14 |
-
-|-- |Assessor Jurídico III |11 |
-
-|Assistente |Assistente |74 |
-
-|GRUPOS DO MAGISTÉRIO | | |
-
-|(mantidos os quantitativos fixados pela legislação| | |
-
-|anterior) | | |
-
-|Diretor Estabelecimento Ensino C |Diretor Estabelecimento Ensino C |-- |
-
-|Diretor Estabelecimento Ensino B |Diretor Estabelecimento Ensino B |-- |
-
-|Vice-diretor Estabelecimento Ensino C |Vice-diretor Estabelecimento Ensino C |-- |
-
-|Diretor Estabelecimento Ensino A |Diretor Estabelecimento Ensino A |-- |
-
-|Vice-diretor Estabelecimento Ensino B |Vice-diretor Estabelecimento Ensino B |-- |
-
-|Coordenador Centro Educação Infantil |Coordenador Centro Educação Infantil |-- |
-
-|Coordenador Oficina Profissionalizante |Coordenador Oficina Profissionalizante |-- |
-
-|Vice-diretor Estabelecimento Ensino A |Vice-diretor Estabelecimento Ensino A |-- |
-
-|Supervisor de Alimentação Escolar |Supervisor de Alimentação Escolar |-- |
-
-|Secretário Estabelecimento Ensino C |Secretário Estabelecimento Ensino C |-- |
-
-|Secretário Estabelecimento Ensino B |Secretário Estabelecimento Ensino B |-- |
-
-|Secretário Estabelecimento Ensino A |Secretário Estabelecimento Ensino A |-- |
-
-|FUNÇÃO GRATIFICADA | | |
-
-|(mantidos os quantitativos fixados pela legislação| | |
-
-|anterior) | | |
-
-|Gerente Unidade de Saúde III |Gerente Unidade de Saúde III |-- |
-
-|Conselheiro Tutelar |Conselheiro Tutelar |-- |
-
-|Gerente Unidade de Saúde II |Gerente Unidade de Saúde II |-- |
-
-|Gerente Unidade de Saúde I |Gerente Unidade de Saúde I |-- |
-
-|Gerente de CAC |Gerente de CAC |-- |
-
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO | | |
-
-|---- |Diretor de Equipamento Cultural |13 |
-
-|---- |Diretor de Centro Cultural |11 |
-
-|Coordenador de Apoio a Pessoa Portadora de |Coordenador dos Direitos da Pessoa Portadora de |1 |
-
-|Deficiência |Deficiência | |
-
-|---- |Coordenador dos Direitos da Pessoa Idosa |1 |
-
-|---- |Depositário |1 |
-
-|---- |Presidente de Junta de Julgamento Fiscal Sanitário de 1ª |1 |
-
-| |Instância | |
-
-|---- |Secretário da Junta de Recursos Fiscais Sanitários de 2ª |1 |
-
-| |Instância | |
-
-|Supervisor de Alimentação Escolar |Supervisor de Alimentação Escolar |Lei nº 6.740, de 17 |(NR)" |
-
-| | |de outubro de 1994 | |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |  |
+| --- | --- | --- | --- |
+| GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO |  |  |  |
+| Secretário Municipal | Secretário Municipal de Coordenação | 5 |  |
+|  | Secretário Municipal de Coordenação da Gestão Regional | 9 |  |
+| Secretário Municipal Adjunto | Secretário Municipal | 21 |  |
+|  | Secretário Municipal Regional | 18 |  |
+|  | Secretário Municipal Adjunto de Administração e | 1 |  |
+|  | Recursos Humanos |  |  |
+|  | Secretário Municipal Adjunto de Governo | 1 |  |
+|  | Cargo acrescentado pela Lei nº 8.567, de 14/5/2003 |  |  |
+|  | (Art.29) |  |  |
+| Auditor-Geral | Auditor-chefe | 1 |  |
+| Auditor-Geral Adjunto | -- | 0 |  |
+| Chefe da Assessoria de Comunicação Social | Chefe da Assessoria de Comunicação Social | 1 |  |
+| Chefe Adjunto da Assessoria de Comunicação Social | Chefe Adjunto de Imprensa | 1 |  |
+| Cargo com redação dada pela Lei nº 8.567, de | Chefe Adjunto de Relações Públicas e Divulgação | 1 |  |
+| 14/5/2003 (Art.29) | Chefe de Cerimonial e Mobilização |  |  |
+|  |  | 1 |  |
+| Corregedor Geral | Corregedor-chefe | 1 |  |
+| Corregedor-Geral Adjunto | -- | 0 |  |
+| Procurador-Geral do Município | Procurador-Geral do Município | 1 |  |
+| Procurador-Geral Adjunto | Procurador-Geral Adjunto | 1 |  |
+| Administrador Regional | -- | 0 |  |
+| Coordenador de Proteção e Defesa do Consumidor | Coordenador de Proteção do Consumidor | 1 |  |
+| Coordenador de Direitos Humanos | Coordenador de Direitos Humanos | 1 |  |
+| Coordenador de Política de Relações do Trabalho | -- | 0 |  |
+| Coordenador de Defesa Civil | Coordenador de Defesa Civil | 1 |  |
+| Presidente da Junta de Julgamento Fiscal | Presidente da Junta de Julgamento Fiscal | 1 |  |
+| Coordenador dos Direitos da Mulher | Coordenador dos Direitos da Mulher | 1 |  |
+| Secretário de Assuntos da Comunidade Negra | Coordenador de Assuntos da Comunidade Negra | 1 |  |
+| Chefe de Gabinete do Prefeito | Chefe de Gabinete do Prefeito | 1 |  |
+| Chefe de Gabinete do Vice-prefeito | Chefe de Gabinete do Vice-prefeito | 1 |  |
+| Cargo com redação dada pela Lei nº 8.567, de | Secretário Municipal de Governo | 1 |  |
+| 14/5/2003 (Art.29) |  |  |  |
+| Chefe de Gabinete de Secretário | Chefe de Gabinete | 51 |  |
+| Diretor de Departamento | Gerente de 1º Nível | 237 |  |
+| Diretor de Departamento | Gerente de 1º Nível | 256 |  |
+| Cargo com redação dada pela Lei nº 8.288, de |  |  |  |
+| 28/12/2001 (Art. 26) |  |  |  |
+| Diretor de Departamento | Gerente de 1º Nível | 261 |  |
+| Cargo com redação dada pela Lei nº 8.787, de |  | Número de vagas retificado em |  |
+| 2/4/2004 (art. 10, parágrafo único) |  | 07/04/2004 |  |
+| Diretor de Departamento |  |  |  |
+| Cargo com redação dada pela Lei nº 8.794, de | Gerente de 1º Nível | 260 |  |
+| 2/4/2004 (art.6º, parágrafo único) |  |  |  |
+| Chefe de Serviço | Gerente de 2º Nível | 461 |  |
+| Chefe de serviço | Gerente de 2º Nível | 484 |  |
+| Cargo com redação dada pela Lei nº 8.288, de |  |  |  |
+| 28/12/2001 (Art. 26) |  |  |  |
+| Chefe de Serviço | Gerente de 2º Nível | 502 |  |
+| Cargo com redação dada pela Lei nº 8.486, de |  |  |  |
+| 20/1/2003 (Art. 7º) |  |  |  |
+| Chefe de Seção | Gerente de 3º Nível | 147 |  |
+| Chefe de Setor | Gerente de 4º Nível | 14 |  |
+| Coordenador de Cerimonial | -- | 0 |  |
+| Coordenador de Fiscalização | Coordenador de Fiscalização | 30 |  |
+| Secretário da Junta de Julgamento Fiscal | Secretário da Junta de Julgamento Fiscal | 1 |  |
+| Secretário da Junta de Recursos Fiscais | Secretário da Junta de Recursos Fiscais | 1 |  |
+| Secretário Particular do Prefeito | Secretário Particular do Prefeito | 1 |  |
+| Oficial de Gabinete do Prefeito | Oficial de Gabinete do Prefeito | 10 |  |
+| Auxiliar de Gabinete | Auxiliar de Gabinete | 40 |  |
+| Encarregado de Serviço | Encarregado de Serviço | 100 |  |
+| Supervisor de Segurança | Supervisor de Segurança | 6 |  |
+| ... | Comandante da Guarda | 1 |  |
+| Cargo acrescentado pela Lei nº 8.486, de 20/1/2003 | Municipal Patrimonial |  |  |
+| (Art. 6º, parágrafo único) |  |  |  |
+| ... | Inspetor da Guarda Municipal Patrimonial | 18 |  |
+| Cargo acrescentado pela Lei nº 8.486, de 20/1/2003 |  |  |  |
+| (Art. 8º, § 2º) |  |  |  |
+| ... | Ouvidor da Guarda Municipal Patrimonial | 1 |  |
+| Cargo acrescentado pela Lei nº 8.486, de 20/1/2003 |  |  |  |
+| (Art. 9º, § 3º) |  |  |  |
+| GRUPO DE ASSESSORAMENTO |  |  |  |
+| Assessor Especial de Defesa Social | Assessor Especial de Defesa Social | 1 |  |
+| -- | Assessor Especial | 6 |  |
+| -- | Consultor Técnico Especializado | 6 |  |
+| Assessor I | Assessor I | 80 |  |
+| Assessor II | Assessor II | 56 |  |
+| Assessor III | Assessor III | 21 |  |
+| Assessor Jurídico | Assessor Jurídico II | 14 |  |
+| -- | Assessor Jurídico III | 11 |  |
+| Assistente | Assistente | 74 |  |
+| GRUPOS DO MAGISTÉRIO |  |  |  |
+| (mantidos os quantitativos fixados pela legislação |  |  |  |
+| anterior) |  |  |  |
+| Diretor Estabelecimento Ensino C | Diretor Estabelecimento Ensino C | -- |  |
+| Diretor Estabelecimento Ensino B | Diretor Estabelecimento Ensino B | -- |  |
+| Vice-diretor Estabelecimento Ensino C | Vice-diretor Estabelecimento Ensino C | -- |  |
+| Diretor Estabelecimento Ensino A | Diretor Estabelecimento Ensino A | -- |  |
+| Vice-diretor Estabelecimento Ensino B | Vice-diretor Estabelecimento Ensino B | -- |  |
+| Coordenador Centro Educação Infantil | Coordenador Centro Educação Infantil | -- |  |
+| Coordenador Oficina Profissionalizante | Coordenador Oficina Profissionalizante | -- |  |
+| Vice-diretor Estabelecimento Ensino A | Vice-diretor Estabelecimento Ensino A | -- |  |
+| Supervisor de Alimentação Escolar | Supervisor de Alimentação Escolar | -- |  |
+| Secretário Estabelecimento Ensino C | Secretário Estabelecimento Ensino C | -- |  |
+| Secretário Estabelecimento Ensino B | Secretário Estabelecimento Ensino B | -- |  |
+| Secretário Estabelecimento Ensino A | Secretário Estabelecimento Ensino A | -- |  |
+| FUNÇÃO GRATIFICADA |  |  |  |
+| (mantidos os quantitativos fixados pela legislação |  |  |  |
+| anterior) |  |  |  |
+| Gerente Unidade de Saúde III | Gerente Unidade de Saúde III | -- |  |
+| Conselheiro Tutelar | Conselheiro Tutelar | -- |  |
+| Gerente Unidade de Saúde II | Gerente Unidade de Saúde II | -- |  |
+| Gerente Unidade de Saúde I | Gerente Unidade de Saúde I | -- |  |
+| Gerente de CAC | Gerente de CAC | -- |  |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |  |
+| GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO |  |  |  |
+| ---- | Diretor de Equipamento Cultural | 13 |  |
+| ---- | Diretor de Centro Cultural | 11 |  |
+| Coordenador de Apoio a Pessoa Portadora de | Coordenador dos Direitos da Pessoa Portadora de | 1 |  |
+| Deficiência | Deficiência |  |  |
+| ---- | Coordenador dos Direitos da Pessoa Idosa | 1 |  |
+| ---- | Depositário | 1 |  |
+| ---- | Presidente de Junta de Julgamento Fiscal Sanitário de 1ª | 1 |  |
+|  | Instância |  |  |
+| ---- | Secretário da Junta de Recursos Fiscais Sanitários de 2ª | 1 |  |
+|  | Instância |  |  |
+| Supervisor de Alimentação Escolar | Supervisor de Alimentação Escolar | Lei nº 6.740, de 17 | (NR)" |
+|  |  | de outubro de 1994 |  |
 
 Cargos acrescentados pela Lei nº 8.288, de 28/12/2001 (art. 26)
 
-|GRUPOS DO MAGISTÉRIO |
-
-|Diretor de Estabelecimento de Ensino A, B, C Diretor de Estabelecimento de Ensino A, B, C 200 |
-
-|Vice-Diretor de Estabelecimento de Ensino A, B, C Vice-Diretor de Estabelecimento de Ensino A, B, C 200 |
-
-|Secretário de Estabelecimento de Ensino A, B, C Secretário de Estabelecimento de Ensino A, B, C 200 |
-
-|Coordenador de Centro de Educação Infantil Coordenador de Centro de Educação Infantil 9 |
-
-|Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação 1 |
-
-|Vice-Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação Vice-Diretor do Centro de Aperfeiçoamento dos Profissionais da |
-
-|Educação 1 |
-
-|(NR)". |
+| GRUPOS DO MAGISTÉRIO |
+| --- |
+| Diretor de Estabelecimento de Ensino A, B, C Diretor de Estabelecimento de Ensino A, B, C 200 |
+| Vice-Diretor de Estabelecimento de Ensino A, B, C Vice-Diretor de Estabelecimento de Ensino A, B, C 200 |
+| Secretário de Estabelecimento de Ensino A, B, C Secretário de Estabelecimento de Ensino A, B, C 200 |
+| Coordenador de Centro de Educação Infantil Coordenador de Centro de Educação Infantil 9 |
+| Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação 1 |
+| Vice-Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação Vice-Diretor do Centro de Aperfeiçoamento dos Profissionais da |
+| Educação 1 |
+| (NR)". |
 
 Anexo I – Grupo de Magistério com redação dada pela Lei nº 8.288, de 28/12/2001 (Art. 27)
 
-|CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|Encarregado de Serviço de Controle de Zoonose |30 |(NR) |
-
-|Coordenador de Serviço de Controle de Zoonose |10 |(NR) |
+| CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |  |
+| --- | --- | --- |
+| Encarregado de Serviço de Controle de Zoonose | 30 | (NR) |
+| Coordenador de Serviço de Controle de Zoonose | 10 | (NR) |
 
 Cargos acrescentados pela Lei nº 8.791, de 2/4/2004 (art. 3º)
 
@@ -2586,27 +2461,18 @@ NÚCLEOS DE APOIO POR ÁREA FUNCIONAL OU TEMÁTICA
 
 IDENTIFICAÇÃO E REFERÊNCIA
 
-|NÚCLEOS DE APOIO POR ÁREA FUNCIONAL OU TEMÁTICA |
-
-|IDENTIFICAÇÃO E REFERÊNCIA |
-
-|(SUBNÍVEIS 1, 2 e 3 DO 3º NÍVEL) |
-
-|Subnível I |
-
-|Subnível II |
-
-|Subnível III- Gerente I |
-
-|- Gerente II |
-
-|- Gerente III14 |
-
-|147 |
-
-|461 |
-
-|- 622 |
+| NÚCLEOS DE APOIO POR ÁREA FUNCIONAL OU TEMÁTICA |
+| --- |
+| IDENTIFICAÇÃO E REFERÊNCIA |
+| (SUBNÍVEIS 1, 2 e 3 DO 3º NÍVEL) |
+| Subnível I |
+| Subnível II |
+| Subnível III- Gerente I |
+| - Gerente II |
+| - Gerente III14 |
+| 147 |
+| 461 |
+| - 622 |
 
 a) GOVERNADORIA:
 
@@ -3154,169 +3020,92 @@ ANEXO IV
 
 QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|Secretário Municipal de Coordenação |conhecimentos específicos |
-
-|Secretário Municipal de Coordenação da Gestão Regional |conhecimentos específicos |
-
-|Secretário Municipal |conhecimentos específicos |
-
-|Secretário Municipal Regional |conhecimentos específicos |
-
-|Secretário Municipal Adjunto de Administração e Recursos|conhecimentos específicos |
-
-|Humanos | |
-
-|Auditor-chefe |curso superior |
-
-|Chefe da Assessoria de Comunicação Social |conhecimentos específicos |
-
-|Chefe Adjunto de Imprensa |conhecimentos específicos |
-
-|Chefe Adjunto de Relações Públicas e Divulgação |conhecimentos específicos |
-
-|Chefe de Cerimonial e Mobilização. | |
-
-|Item com redação dada pela Lei nº 8.567, de 14/5/2003 | |
-
-|(Art. 31) | |
-
-|Corregedor-chefe |conhecimentos específicos |
-
-|Procurador-Geral do Município |curso superior de Direito e registro |
-
-| |profissional |
-
-|Procurador-Geral Adjunto |curso superior de Direito e registro |
-
-| |profissional |
-
-|Coordenador de Proteção do Consumidor |conhecimentos específicos |
-
-|Coordenador de Direitos Humanos |conhecimentos específicos |
-
-|Coordenador de Defesa Civil |conhecimentos específicos |
-
-|Presidente da Junta de Julgamento Fiscal |conhecimentos específicos |
-
-|Coordenador dos Direitos da Mulher |conhecimentos específicos |
-
-|Coordenador de Assuntos da Comunidade Negra |conhecimentos específicos |
-
-|Chefe de Gabinete do Prefeito |conhecimentos específicos |
-
-|Chefe de Gabinete do Vice-Prefeito |conhecimentos específicos |
-
-|Chefe de Gabinete |conhecimentos específicos |
-
-|Gerente de 1º Nível |conhecimentos específicos |
-
-|Gerente de 2º Nível |conhecimentos específicos |
-
-|Gerente de 3º Nível |conhecimentos específicos |
-
-|Gerente de 4º Nível |conhecimentos específicos |
-
-|Coordenador de Fiscalização |conhecimentos específicos |
-
-|Secretário da Junta de Julgamento Fiscal |conhecimentos específicos |
-
-|Secretário da Junta de Recursos Fiscais |conhecimentos específicos |
-
-|Secretário Particular do Prefeito |conhecimentos específicos |
-
-|Oficial de Gabinete do Prefeito |conhecimentos específicos |
-
-|Auxiliar de Gabinete |conhecimentos específicos |
-
-|Encarregado de Serviço |conhecimentos específicos |
-
-|Supervisor de Segurança |conhecimentos específicos |
-
-|Assessor Especial de Defesa Social |conhecimentos específicos |
-
-|Assessor Especial |conhecimentos específicos |
-
-|Consultor Técnico Especializado |curso superior |
-
-|Assessor I |conhecimentos específicos |
-
-|Assessor II |conhecimentos específicos |
-
-|Assessor III |conhecimentos específicos |
-
-|Assessor Jurídico II |curso superior de Direito e registro |
-
-| |profissional |
-
-|Assessor Jurídico III |curso superior de Direito e registro |
-
-| |profissional |
-
-|Assistente |conhecimentos específicos |
-
-|Diretor de Estabelecimento de Ensino |2º grau de magistério ou curso superior, |
-
-| |no caso de escolas de ensino fundamental; |
-
-| |curso superior nos demais casos |
-
-|Vice-diretor de Estabelecimento de Ensino |2º grau de magistério ou curso superior, |
-
-| |no caso de escolas de educação infantil e |
-
-| |de educação fundamental; curso superior |
-
-| |nos demais casos |
-
-|Coordenador de Centro de Educação Infantil |curso superior compatível com o projeto |
-
-| |pedagógico da rede municipal de ensino |
-
-|Coordenador de Oficina Profissionalizante |curso superior compatível com o projeto |
-
-| |pedagógico da rede municipal de ensino |
-
-|Supervisor de Alimentação Escolar |2º grau e/ou conhecimentos equivalentes |
-
-| |que assegurem o adequado cumprimento do |
-
-| |exercício da função |
-
-|Secretário de Estabelecimento de Ensino |2º grau em secretariado ou curso de |
-
-| |magistério de 2º grau |
-
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|Diretor de Equipamento Cultural |Conhecimentos específicos |
-
-|Diretor de Centro Cultural |Conhecimentos específicos |
-
-|Coordenador de Direitos da Pessoa Portadora de Deficiência |Conhecimentos específicos |
-
-|Depositário |Conhecimentos específicos |
-
-|Diretor de Centro de Aperfeiçoamento dos Profissionais da Educação |Curso superior |
-
-|Vice-Diretor de Centro de Aperfeiçoamento dos Profissionais da |Curso superior |
-
-|Educação | |
-
-|Coordenador de Apoio à Pessoa Idosa |Conhecimentos específicos |
-
-|Presidente da Junta de Julgamento Fiscal Sanitário de 1ª Instância |Conhecimentos específicos |
-
-|Secretário da Junta de Recursos Fiscais Sanitários de 2ª Instância |Conhecimentos específicos |(NR)" |
+| CARGO | REQUISITO PARA PROVIMENTO |  |
+| --- | --- | --- |
+| Secretário Municipal de Coordenação | conhecimentos específicos |  |
+| Secretário Municipal de Coordenação da Gestão Regional | conhecimentos específicos |  |
+| Secretário Municipal | conhecimentos específicos |  |
+| Secretário Municipal Regional | conhecimentos específicos |  |
+| Secretário Municipal Adjunto de Administração e Recursos | conhecimentos específicos |  |
+| Humanos |  |  |
+| Auditor-chefe | curso superior |  |
+| Chefe da Assessoria de Comunicação Social | conhecimentos específicos |  |
+| Chefe Adjunto de Imprensa | conhecimentos específicos |  |
+| Chefe Adjunto de Relações Públicas e Divulgação | conhecimentos específicos |  |
+| Chefe de Cerimonial e Mobilização. |  |  |
+| Item com redação dada pela Lei nº 8.567, de 14/5/2003 |  |  |
+| (Art. 31) |  |  |
+| Corregedor-chefe | conhecimentos específicos |  |
+| Procurador-Geral do Município | curso superior de Direito e registro |  |
+|  | profissional |  |
+| Procurador-Geral Adjunto | curso superior de Direito e registro |  |
+|  | profissional |  |
+| Coordenador de Proteção do Consumidor | conhecimentos específicos |  |
+| Coordenador de Direitos Humanos | conhecimentos específicos |  |
+| Coordenador de Defesa Civil | conhecimentos específicos |  |
+| Presidente da Junta de Julgamento Fiscal | conhecimentos específicos |  |
+| Coordenador dos Direitos da Mulher | conhecimentos específicos |  |
+| Coordenador de Assuntos da Comunidade Negra | conhecimentos específicos |  |
+| Chefe de Gabinete do Prefeito | conhecimentos específicos |  |
+| Chefe de Gabinete do Vice-Prefeito | conhecimentos específicos |  |
+| Chefe de Gabinete | conhecimentos específicos |  |
+| Gerente de 1º Nível | conhecimentos específicos |  |
+| Gerente de 2º Nível | conhecimentos específicos |  |
+| Gerente de 3º Nível | conhecimentos específicos |  |
+| Gerente de 4º Nível | conhecimentos específicos |  |
+| Coordenador de Fiscalização | conhecimentos específicos |  |
+| Secretário da Junta de Julgamento Fiscal | conhecimentos específicos |  |
+| Secretário da Junta de Recursos Fiscais | conhecimentos específicos |  |
+| Secretário Particular do Prefeito | conhecimentos específicos |  |
+| Oficial de Gabinete do Prefeito | conhecimentos específicos |  |
+| Auxiliar de Gabinete | conhecimentos específicos |  |
+| Encarregado de Serviço | conhecimentos específicos |  |
+| Supervisor de Segurança | conhecimentos específicos |  |
+| Assessor Especial de Defesa Social | conhecimentos específicos |  |
+| Assessor Especial | conhecimentos específicos |  |
+| Consultor Técnico Especializado | curso superior |  |
+| Assessor I | conhecimentos específicos |  |
+| Assessor II | conhecimentos específicos |  |
+| Assessor III | conhecimentos específicos |  |
+| Assessor Jurídico II | curso superior de Direito e registro |  |
+|  | profissional |  |
+| Assessor Jurídico III | curso superior de Direito e registro |  |
+|  | profissional |  |
+| Assistente | conhecimentos específicos |  |
+| Diretor de Estabelecimento de Ensino | 2º grau de magistério ou curso superior, |  |
+|  | no caso de escolas de ensino fundamental; |  |
+|  | curso superior nos demais casos |  |
+| Vice-diretor de Estabelecimento de Ensino | 2º grau de magistério ou curso superior, |  |
+|  | no caso de escolas de educação infantil e |  |
+|  | de educação fundamental; curso superior |  |
+|  | nos demais casos |  |
+| Coordenador de Centro de Educação Infantil | curso superior compatível com o projeto |  |
+|  | pedagógico da rede municipal de ensino |  |
+| Coordenador de Oficina Profissionalizante | curso superior compatível com o projeto |  |
+|  | pedagógico da rede municipal de ensino |  |
+| Supervisor de Alimentação Escolar | 2º grau e/ou conhecimentos equivalentes |  |
+|  | que assegurem o adequado cumprimento do |  |
+|  | exercício da função |  |
+| Secretário de Estabelecimento de Ensino | 2º grau em secretariado ou curso de |  |
+|  | magistério de 2º grau |  |
+| CARGO | REQUISITO PARA PROVIMENTO |  |
+| Diretor de Equipamento Cultural | Conhecimentos específicos |  |
+| Diretor de Centro Cultural | Conhecimentos específicos |  |
+| Coordenador de Direitos da Pessoa Portadora de Deficiência | Conhecimentos específicos |  |
+| Depositário | Conhecimentos específicos |  |
+| Diretor de Centro de Aperfeiçoamento dos Profissionais da Educação | Curso superior |  |
+| Vice-Diretor de Centro de Aperfeiçoamento dos Profissionais da | Curso superior |  |
+| Educação |  |  |
+| Coordenador de Apoio à Pessoa Idosa | Conhecimentos específicos |  |
+| Presidente da Junta de Julgamento Fiscal Sanitário de 1ª Instância | Conhecimentos específicos |  |
+| Secretário da Junta de Recursos Fiscais Sanitários de 2ª Instância | Conhecimentos específicos | (NR)" |
 
 Cargos acrescentados pela Lei nº 8.288, de 28/12/2001 (art. 29)
 
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|Encarregado de Serviço de Controle de Zoonose |conhecimentos específicos |(NR) |
-
-|Coordenador de Serviço de Controle de Zoonose |conhecimentos específicos |(NR) |
+| CARGO | REQUISITO PARA PROVIMENTO |  |
+| --- | --- | --- |
+| Encarregado de Serviço de Controle de Zoonose | conhecimentos específicos | (NR) |
+| Coordenador de Serviço de Controle de Zoonose | conhecimentos específicos | (NR) |
 
 Cargos acrescentados pela Lei nº 8.791, de 2/4/2004 (art. 4º)
 

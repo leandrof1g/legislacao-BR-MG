@@ -58,147 +58,81 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º |R$ |
-
-|da Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3501.26.452.0060.2567.319011.1.500.000 |100.000,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.302.0030.2875.319011.1.659.002 |406.870,11 |
-
-|2301.10.302.0030.2620.319011.1.659.002 |300.000,00 |
-
-|2301.10.302.0030.2620.319013.1.659.002 |480.000,00 |
-
-|2301.10.302.0030.2620.319113.1.659.002 |770.000,00 |
-
-|2301.10.122.0030.2900.319011.1.659.002 |1.500.000,00 |
-
-|2301.10.122.0030.2900.319013.1.659.002 |280.000,00 |
-
-|2301.10.122.0030.2900.319113.1.659.002 |260.000,00 |
-
-|2301.10.302.0030.2875.319113.1.659.002 |5.300.000,00 |
-
-|TOTAL |9.396.870,11 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º |R$ |
-
-|da Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1203.449051.1.759.000 |505.000,00 |
-
-|2700.17.512.0233.1203.449051.1.759.000 |3.600.000,00 |
-
-|2700.04.122.0233.1219.449051.1.500.000 |700.000,00 |
-
-|2700.15.451.0233.1396.449051.1.500.000 |10.070.521,00 |
-
-|2700.17.512.0066.1400.449051.1.759.000 |3.500.000,00 |
-
-|2700.18.541.0319.1244.449051.1.759.000 |126.211,00 |
-
-|2700.15.451.0171.1399.449051.1.759.000 |500.000,00 |
-
-|2700.15.451.0062.1230.449051.1.759.000 |120.000,00 |
-
-|2700.04.122.0044.1219.449051.1.759.000 |575.000,00 |
-
-|2700.15.451.0062.1403.449051.2.710.010 |3.400.000,00 |
-
-|TOTAL |23.096.732,00 |
-
-|I.1.3 – A favor dos seguintes órgãos, conforme autorização contida no art. 8º |R$ |
-
-|da Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.339030.1.500.000 |16.216,20 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2951.335043.1.500.000 |3.320.868,00 |
-
-|TOTAL |3.337.084,20 |
-
-|TOTAL DA SUPLEMENTAÇÃO |35.830.686,31 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º | R$ |
+| --- | --- |
+| da Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3501.26.452.0060.2567.319011.1.500.000 | 100.000,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.302.0030.2875.319011.1.659.002 | 406.870,11 |
+| 2301.10.302.0030.2620.319011.1.659.002 | 300.000,00 |
+| 2301.10.302.0030.2620.319013.1.659.002 | 480.000,00 |
+| 2301.10.302.0030.2620.319113.1.659.002 | 770.000,00 |
+| 2301.10.122.0030.2900.319011.1.659.002 | 1.500.000,00 |
+| 2301.10.122.0030.2900.319013.1.659.002 | 280.000,00 |
+| 2301.10.122.0030.2900.319113.1.659.002 | 260.000,00 |
+| 2301.10.302.0030.2875.319113.1.659.002 | 5.300.000,00 |
+| TOTAL | 9.396.870,11 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º | R$ |
+| da Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1203.449051.1.759.000 | 505.000,00 |
+| 2700.17.512.0233.1203.449051.1.759.000 | 3.600.000,00 |
+| 2700.04.122.0233.1219.449051.1.500.000 | 700.000,00 |
+| 2700.15.451.0233.1396.449051.1.500.000 | 10.070.521,00 |
+| 2700.17.512.0066.1400.449051.1.759.000 | 3.500.000,00 |
+| 2700.18.541.0319.1244.449051.1.759.000 | 126.211,00 |
+| 2700.15.451.0171.1399.449051.1.759.000 | 500.000,00 |
+| 2700.15.451.0062.1230.449051.1.759.000 | 120.000,00 |
+| 2700.04.122.0044.1219.449051.1.759.000 | 575.000,00 |
+| 2700.15.451.0062.1403.449051.2.710.010 | 3.400.000,00 |
+| TOTAL | 23.096.732,00 |
+| I.1.3 – A favor dos seguintes órgãos, conforme autorização contida no art. 8º | R$ |
+| da Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.339030.1.500.000 | 16.216,20 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2951.335043.1.500.000 | 3.320.868,00 |
+| TOTAL | 3.337.084,20 |
+| TOTAL DA SUPLEMENTAÇÃO | 35.830.686,31 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3501.26.452.0060.2567.339035.1.500.000 |100.000,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.302.0030.2620.449052.1.659.002 |59.554,50 |
-
-|2301.10.122.0030.2900.339139.1.659.002 |1.000,00 |
-
-|2301.10.122.0030.2900.339192.1.659.002 |600,00 |
-
-|2301.10.302.0030.2875.449052.1.659.002 |382.560,48 |
-
-|2301.10.122.0030.2900.337170.1.659.002 |7.700.000,00 |
-
-|2301.10.122.0030.2900.339040.1.659.002 |938.000,00 |
-
-|2301.10.122.0030.2900.449052.1.659.002 |191.061,10 |
-
-|2301.10.302.0030.2875.339092.1.659.002 |9.788,00 |
-
-|2301.10.122.0030.2900.449040.1.659.002 |14.306,03 |
-
-|TOTAL |9.396.870,11 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1400.449051.1.759.000 |3.926.211,00 |
-
-|2700.15.451.0062.1330.449051.1.500.000 |5.073.783,00 |
-
-|2700.15.451.0233.1396.449051.1.759.000 |1.000.000,00 |
-
-|2700.15.451.0062.1230.449051.2.710.010 |3.400.000,00 |
-
-|2700.15.451.0062.1403.449051.1.759.000 |4.000.000,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449051.1.500.000 |5.696.738,00 |
-
-|TOTAL |23.096.732,00 |
-
-|I.2.3 – Em contrapartida às suplementações relacionadas no item I.1.3, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.1.500.000 |16.216,20 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2951.339039.1.500.000 |3.320.868,00 |
-
-|TOTAL |3.337.084,20 |
-
-|TOTAL DA ANULAÇÃO |35.830.686,31 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3501.26.452.0060.2567.339035.1.500.000 | 100.000,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.302.0030.2620.449052.1.659.002 | 59.554,50 |
+| 2301.10.122.0030.2900.339139.1.659.002 | 1.000,00 |
+| 2301.10.122.0030.2900.339192.1.659.002 | 600,00 |
+| 2301.10.302.0030.2875.449052.1.659.002 | 382.560,48 |
+| 2301.10.122.0030.2900.337170.1.659.002 | 7.700.000,00 |
+| 2301.10.122.0030.2900.339040.1.659.002 | 938.000,00 |
+| 2301.10.122.0030.2900.449052.1.659.002 | 191.061,10 |
+| 2301.10.302.0030.2875.339092.1.659.002 | 9.788,00 |
+| 2301.10.122.0030.2900.449040.1.659.002 | 14.306,03 |
+| TOTAL | 9.396.870,11 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação | R$ |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1400.449051.1.759.000 | 3.926.211,00 |
+| 2700.15.451.0062.1330.449051.1.500.000 | 5.073.783,00 |
+| 2700.15.451.0233.1396.449051.1.759.000 | 1.000.000,00 |
+| 2700.15.451.0062.1230.449051.2.710.010 | 3.400.000,00 |
+| 2700.15.451.0062.1403.449051.1.759.000 | 4.000.000,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449051.1.500.000 | 5.696.738,00 |
+| TOTAL | 23.096.732,00 |
+| I.2.3 – Em contrapartida às suplementações relacionadas no item I.1.3, anulação | R$ |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.1.500.000 | 16.216,20 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2951.339039.1.500.000 | 3.320.868,00 |
+| TOTAL | 3.337.084,20 |
+| TOTAL DA ANULAÇÃO | 35.830.686,31 |
 
 ANEXO II
 
@@ -240,74 +174,46 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal e|do valor do Orçamento |
-
-|Encargos Sociais (código 01) | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 149.981.395,21 |
-
-|Valor do decreto publicado nesta data |R$ 9.396.870,11 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 159.378.265,32 |
-
-|Saldo atual de créditos suplementares |R$ 2.333.056.802,28 |
-
-|Percentual utilizado |6,39% |
-
-|Atualizado em 20/10/2026 às 14:24:32 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares para o grupo de despesa Pessoal e | do valor do Orçamento |
+| Encargos Sociais (código 01) |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 149.981.395,21 |
+| Valor do decreto publicado nesta data | R$ 9.396.870,11 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 159.378.265,32 |
+| Saldo atual de créditos suplementares | R$ 2.333.056.802,28 |
+| Percentual utilizado | 6,39% |
+| Atualizado em 20/10/2026 às 14:24:32 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.325.247.062,59 |
-
-|Valor do decreto publicado nesta data |R$ 23.096.732,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.348.343.794,59 |
-
-|Saldo atual de créditos suplementares |R$ 1.144.091.273,01 |
-
-|Percentual utilizado |54,10% |
-
-|Atualizado em 20/10/2026 às 14:25:19 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.325.247.062,59 |
+| Valor do decreto publicado nesta data | R$ 23.096.732,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.348.343.794,59 |
+| Saldo atual de créditos suplementares | R$ 1.144.091.273,01 |
+| Percentual utilizado | 54,10% |
+| Atualizado em 20/10/2026 às 14:25:19 |  |
 
 III.3 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 8º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 207.210.703,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 37.357.440,62 |
-
-|Valor do decreto publicado nesta data |R$ 3.337.084,20 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 40.694.524,82 |
-
-|Saldo atual de créditos suplementares |R$ 166.516.178,18 |
-
-|Percentual utilizado |19,64% |
-
-|Atualizado em 20/10/2026 às 14:25:42 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 207.210.703,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 37.357.440,62 |
+| Valor do decreto publicado nesta data | R$ 3.337.084,20 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 40.694.524,82 |
+| Saldo atual de créditos suplementares | R$ 166.516.178,18 |
+| Percentual utilizado | 19,64% |
+| Atualizado em 20/10/2026 às 14:25:42 |  |

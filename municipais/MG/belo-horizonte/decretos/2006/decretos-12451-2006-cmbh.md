@@ -30,11 +30,10 @@ O Prefeito de Belo Horizonte, no uso das atribuições que lhe confere o inciso 
 
 **Art. 2º** - Os valores do abono de que trata o art. 1º deste Decreto são os seguintes:
 
-|VALOR DO ABONO POR CARGO PÚBLICO EFETIVO (EM R$) |
-
-|Professor Municipal |Pedagogo |Educador Infantil |
-
-|800,00 |800,00 |600,00 |
+| VALOR DO ABONO POR CARGO PÚBLICO EFETIVO (EM R$) |  |  |
+| --- | --- | --- |
+| Professor Municipal | Pedagogo | Educador Infantil |
+| 800,00 | 800,00 | 600,00 |
 
 **Parágrafo único** - Para fazer jus ao abono, os servidores públicos incluídos no quadro acima deverão atender aos seguintes requisitos, individual e cumulativamente:
 

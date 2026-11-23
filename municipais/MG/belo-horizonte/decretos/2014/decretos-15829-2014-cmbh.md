@@ -28,23 +28,16 @@ O Prefeito de Belo Horizonte, no exercício da atribuição que lhe confere o in
 
 **Art. 1º** - O Anexo III do Decreto nº 15.731, de 17 de outubro de 2014, passa a vigorar acrescido do seguinte item 1.8.1:
 
-|ANEXO III |
-
-|PREÇOS PÚBLICOS |
-
-|PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS |
-
-|(Permissão de Uso do Espaço Público) |
-
-|1 – Para comercialização de mercadorias em feiras permanentes |
-
-| | |
-
-|“[...]” | |
-
-|1.8.1 – barracas/tendas na Feira de Convivência do Mineirão – |R$122,41 p/feirante p/mês |
-
-|Secretaria de Administração Regional Municipal Pampulha | |
+| ANEXO III |  |
+| --- | --- |
+| PREÇOS PÚBLICOS |  |
+| PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS |  |
+| (Permissão de Uso do Espaço Público) |  |
+| 1 – Para comercialização de mercadorias em feiras permanentes |  |
+|  |  |
+| “[...]” |  |
+| 1.8.1 – barracas/tendas na Feira de Convivência do Mineirão – | R$122,41 p/feirante p/mês |
+| Secretaria de Administração Regional Municipal Pampulha |  |
 
 **Art. 2º** - Este Decreto entra em vigor na data de sua publicação.
 

@@ -48,28 +48,17 @@ ANEXO
 
 Fator de reajuste para as aposentadorias e pensões sem direito à paridade remuneratória de acordo com as respectivas datas de início, aplicável a partir de janeiro de 2013
 
-|Data de início do benefício |Reajuste (%) |
-
-|até janeiro de 2012 |6,20 |
-
-|em fevereiro de 2012 |5,66 |
-
-|em março de 2012 |5,25 |
-
-|em abril de 2012 |5,06 |
-
-|em maio de 2012 |4,39 |
-
-|em junho de 2012 |3,82 |
-
-|em julho de 2012 |3,55 |
-
-|em agosto de 2012 |3,11 |
-
-|em setembro de 2012 |2,65 |
-
-|em outubro de 2012 |2,00 |
-
-|em novembro de 2012 |1,28 |
-
-|em dezembro de 2012 |0,74 |
+| Data de início do benefício | Reajuste (%) |
+| --- | --- |
+| até janeiro de 2012 | 6,20 |
+| em fevereiro de 2012 | 5,66 |
+| em março de 2012 | 5,25 |
+| em abril de 2012 | 5,06 |
+| em maio de 2012 | 4,39 |
+| em junho de 2012 | 3,82 |
+| em julho de 2012 | 3,55 |
+| em agosto de 2012 | 3,11 |
+| em setembro de 2012 | 2,65 |
+| em outubro de 2012 | 2,00 |
+| em novembro de 2012 | 1,28 |
+| em dezembro de 2012 | 0,74 |

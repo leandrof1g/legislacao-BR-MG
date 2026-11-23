@@ -62,31 +62,20 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei | |
-
-|nº 11.594, de 22 de setembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.0091.3501.469071.2.754.790 |907.124,02 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339039.2.621.000 |694.355,68 |
-
-|2302.10.302.0114.2936.339092.2.621.000 |1.080.041,48 |
-
-|2302.10.302.0114.2936.339192.2.621.000 |536,76 |
-
-|2302.10.305.0028.2829.339039.2.621.000 |5.301,21 |
-
-|2302.10.302.0114.2936.339139.2.621.000 |11.830,00 |
-
-|2302.10.303.0117.2895.339037.2.621.000 |71.921,81 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.771.110,96 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei |  |
+| nº 11.594, de 22 de setembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.0091.3501.469071.2.754.790 | 907.124,02 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339039.2.621.000 | 694.355,68 |
+| 2302.10.302.0114.2936.339092.2.621.000 | 1.080.041,48 |
+| 2302.10.302.0114.2936.339192.2.621.000 | 536,76 |
+| 2302.10.305.0028.2829.339039.2.621.000 | 5.301,21 |
+| 2302.10.302.0114.2936.339139.2.621.000 | 11.830,00 |
+| 2302.10.303.0117.2895.339037.2.621.000 | 71.921,81 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.771.110,96 |
 
 ANEXO II
 

@@ -74,43 +74,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.2.701.000 |331.192,51 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.0302.2938.449052.2.500.000 |73.455,30 |
-
-|0604.19.572.0302.2938.449052.2.501.000 |119.809,30 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0019.2308.339039.2.706.510 |257.400,00 |
-
-|3701.08.245.0019.2308.339039.2.660.510 |350.000,00 |
-
-|3701.08.244.0019.2647.339039.2.660.000 |9.059,48 |
-
-|3701.08.245.0019.2308.449092.2.665.000 |89.751,09 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.13.391.0319.1215.449051.2.501.000 |29.429.601,66 |
-
-|2700.15.452.0057.2770.449052.2.710.610 |56.332,00 |
-
-|Fundo Municipal de Cultura – FPC |
-
-|3101.13.392.0170.2369.339036.2.749.778 |1.500.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |32.216.601,34 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.2.701.000 | 331.192,51 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.0302.2938.449052.2.500.000 | 73.455,30 |
+| 0604.19.572.0302.2938.449052.2.501.000 | 119.809,30 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0019.2308.339039.2.706.510 | 257.400,00 |
+| 3701.08.245.0019.2308.339039.2.660.510 | 350.000,00 |
+| 3701.08.244.0019.2647.339039.2.660.000 | 9.059,48 |
+| 3701.08.245.0019.2308.449092.2.665.000 | 89.751,09 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.13.391.0319.1215.449051.2.501.000 | 29.429.601,66 |
+| 2700.15.452.0057.2770.449052.2.710.610 | 56.332,00 |
+| Fundo Municipal de Cultura – FPC |  |
+| 3101.13.392.0170.2369.339036.2.749.778 | 1.500.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 32.216.601,34 |
 
 ANEXO II
 
@@ -174,26 +157,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 688.151.152,08 |
-
-|Valor do decreto publicado nesta data |R$ 32.216.601,34 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 720.367.753,42 |
-
-|Saldo atual de créditos suplementares |R$ 1.772.067.314,18 |
-
-|Percentual utilizado |28,90% |
-
-|Atualizado em 18/06/2026 às 15:07:47 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 688.151.152,08 |
+| Valor do decreto publicado nesta data | R$ 32.216.601,34 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 720.367.753,42 |
+| Saldo atual de créditos suplementares | R$ 1.772.067.314,18 |
+| Percentual utilizado | 28,90% |
+| Atualizado em 18/06/2026 às 15:07:47 |  |

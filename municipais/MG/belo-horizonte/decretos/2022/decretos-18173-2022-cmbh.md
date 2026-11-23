@@ -70,67 +70,38 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do |R$ |
-
-|§ 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art.| |
-
-|4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.169.2.542.4490.0000 |4.747.767,04 |
-
-|2200.12.365.169.2.542.4490.0000 |2.588.362,00 |
-
-|2200.12.365.169.2.542.4490.0000 |2.353.158,00 |
-
-|2200.12.365.169.2.542.4490.0000 |5.509.590,00 |
-
-|2200.12.365.169.2.542.4490.0000 |3.514.369,00 |
-
-|2200.12.365.169.2.542.4490.0000 |4.784.971,00 |
-
-|2200.12.365.169.2.542.4490.0000 |3.180.826,00 |
-
-|2200.12.365.169.2.542.4490.0000 |3.965.576,00 |
-
-|2200.12.361.168.2.080.4490.0000 |806.322,00 |
-
-|2200.12.365.169.2.542.4490.0000 |4.549.407,00 |
-
-|2200.12.122.140.2.317.4490.0000 |4.670.677,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.233.1.396.4490.0000 |600.000,00 |
-
-|2700.15.451.233.1.396.4490.0000 |147.511,00 |
-
-|2700.15.451.233.1.396.4490.0000 |385.000,00 |
-
-|2700.15.451.233.1.396.4490.0000 |501.760,00 |
-
-|2700.15.451.233.1.396.4490.0000 |630.000,00 |
-
-|2700.15.451.233.1.396.4490.0000 |3.540.000,00 |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.09.272.026.3.004.3190.0000 |77.500.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.114.2.891.3390.0050 |4.385.716,26 |
-
-|2302.10.302.114.2.893.3390.0050 |18.975,00 |
-
-|2302.10.302.114.2.894.3391.0000 |3.202.615,03 |
-
-|2302.10.302.114.2.902.3367.0000 |21.200.000,00 |
-
-|2302.10.301.157.2.902.4491.0080 |32.098.926,33 |
-
-|TOTAL DA SUPLEMENTAÇÃO |184.881.528,66 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. |  |
+| 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.169.2.542.4490.0000 | 4.747.767,04 |
+| 2200.12.365.169.2.542.4490.0000 | 2.588.362,00 |
+| 2200.12.365.169.2.542.4490.0000 | 2.353.158,00 |
+| 2200.12.365.169.2.542.4490.0000 | 5.509.590,00 |
+| 2200.12.365.169.2.542.4490.0000 | 3.514.369,00 |
+| 2200.12.365.169.2.542.4490.0000 | 4.784.971,00 |
+| 2200.12.365.169.2.542.4490.0000 | 3.180.826,00 |
+| 2200.12.365.169.2.542.4490.0000 | 3.965.576,00 |
+| 2200.12.361.168.2.080.4490.0000 | 806.322,00 |
+| 2200.12.365.169.2.542.4490.0000 | 4.549.407,00 |
+| 2200.12.122.140.2.317.4490.0000 | 4.670.677,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.233.1.396.4490.0000 | 600.000,00 |
+| 2700.15.451.233.1.396.4490.0000 | 147.511,00 |
+| 2700.15.451.233.1.396.4490.0000 | 385.000,00 |
+| 2700.15.451.233.1.396.4490.0000 | 501.760,00 |
+| 2700.15.451.233.1.396.4490.0000 | 630.000,00 |
+| 2700.15.451.233.1.396.4490.0000 | 3.540.000,00 |
+| Fundo Financeiro – FUFIN |  |
+| 0613.09.272.026.3.004.3190.0000 | 77.500.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.114.2.891.3390.0050 | 4.385.716,26 |
+| 2302.10.302.114.2.893.3390.0050 | 18.975,00 |
+| 2302.10.302.114.2.894.3391.0000 | 3.202.615,03 |
+| 2302.10.302.114.2.902.3367.0000 | 21.200.000,00 |
+| 2302.10.301.157.2.902.4491.0080 | 32.098.926,33 |
+| TOTAL DA SUPLEMENTAÇÃO | 184.881.528,66 |
 
 ANEXO II
 
@@ -182,36 +153,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do art.|Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|4º, limite de 15% do |4º, limite de 15% do total |
-
-|– Limites autorizados |Orçamento: |total do Orçamento do |do Orçamento do Fundo |
-
-|para abertura de | |Grupo 1 – Pessoal e |Municipal de Saúde – FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.385.948.148,99 |R$ 225.861.920,00 |R$ 549.835.594,77 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 915.202.536,66 |R$ 658.130.388,70 |R$ 177.381.557,88 |
-
-|suplementares | | | |
-
-|Percentual utilizado |60,23% |25,55% |75,61% |
-
-|Atualizado em 29/11/2022 às 13:29:49 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do art. | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | 4º, limite de 15% do | 4º, limite de 15% do total |
+| – Limites autorizados | Orçamento: | total do Orçamento do | do Orçamento do Fundo |
+| para abertura de |  | Grupo 1 – Pessoal e | Municipal de Saúde – FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.385.948.148,99 | R$ 225.861.920,00 | R$ 549.835.594,77 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 915.202.536,66 | R$ 658.130.388,70 | R$ 177.381.557,88 |
+| suplementares |  |  |  |
+| Percentual utilizado | 60,23% | 25,55% | 75,61% |
+| Atualizado em 29/11/2022 às 13:29:49 |  |  |  |

@@ -36,9 +36,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 E - Dias comemorativos de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|16/05 |Dia Municipal do Conjunto Moderno da Pampulha |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 16/05 | Dia Municipal do Conjunto Moderno da Pampulha |
 
 .”.
 

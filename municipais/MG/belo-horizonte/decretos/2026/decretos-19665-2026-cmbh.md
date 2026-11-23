@@ -58,87 +58,51 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei nº|R$ |
-
-|11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0117.1216.449051.1.500.000 |153.692,00 |
-
-|2302.10.301.0157.2690.449052.1.500.000 |20.000,00 |
-
-|2302.10.302.0117.1216.449051.1.500.000 |1.528,00 |
-
-|2302.10.302.0114.2951.339139.1.621.000 |23.324,70 |
-
-|2302.10.302.0117.1216.449051.1.754.791 |1.642.118,00 |
-
-|2302.10.122.0117.2953.339046.1.500.000 |160.000,00 |
-
-|TOTAL |2.000.662,70 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da Lei|R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.366.0168.2080.319113.1.500.000 |20.600,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0007.2900.319113.1.500.000 |9.000,00 |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.319113.1.500.000 |11.900,00 |
-
-|TOTAL |41.500,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.042.162,70 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei nº | R$ |
+| --- | --- |
+| 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0117.1216.449051.1.500.000 | 153.692,00 |
+| 2302.10.301.0157.2690.449052.1.500.000 | 20.000,00 |
+| 2302.10.302.0117.1216.449051.1.500.000 | 1.528,00 |
+| 2302.10.302.0114.2951.339139.1.621.000 | 23.324,70 |
+| 2302.10.302.0117.1216.449051.1.754.791 | 1.642.118,00 |
+| 2302.10.122.0117.2953.339046.1.500.000 | 160.000,00 |
+| TOTAL | 2.000.662,70 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da Lei | R$ |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.366.0168.2080.319113.1.500.000 | 20.600,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0007.2900.319113.1.500.000 | 9.000,00 |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.319113.1.500.000 | 11.900,00 |
+| TOTAL | 41.500,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.042.162,70 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.122.0117.1216.449051.1.500.000 |162.251,00 |
-
-|2302.10.302.0114.2951.339039.1.621.000 |23.324,70 |
-
-|2302.10.302.0114.2952.339046.1.500.000 |160.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0315.1407.449051.1.500.000 |12.969,00 |
-
-|2700.17.512.0066.2954.449051.1.754.791 |1.642.118,00 |
-
-|TOTAL |2.000.662,70 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.319013.1.500.000 |20.600,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.319013.1.500.000 |9.000,00 |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.319011.1.500.000 |11.900,00 |
-
-|TOTAL |41.500,00 |
-
-|TOTAL DA ANULAÇÃO |2.042.162,70 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.122.0117.1216.449051.1.500.000 | 162.251,00 |
+| 2302.10.302.0114.2951.339039.1.621.000 | 23.324,70 |
+| 2302.10.302.0114.2952.339046.1.500.000 | 160.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0315.1407.449051.1.500.000 | 12.969,00 |
+| 2700.17.512.0066.2954.449051.1.754.791 | 1.642.118,00 |
+| TOTAL | 2.000.662,70 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.319013.1.500.000 | 20.600,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.319013.1.500.000 | 9.000,00 |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.319011.1.500.000 | 11.900,00 |
+| TOTAL | 41.500,00 |
+| TOTAL DA ANULAÇÃO | 2.042.162,70 |
 
 ANEXO II
 
@@ -172,52 +136,32 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado |Limite de 15% (quinze por cento) |
-
-|para abertura de créditos suplementares para o Fundo Municipal|do valor do orçamento. |
-
-|de Saúde. | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 3.738.652.601,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 329.881.267,57 |
-
-|Valor do decreto publicado nesta data |R$ 2.000.662,70 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 331.881.930,27 |
-
-|Saldo atual de créditos suplementares |R$ 3.406.770.671,13 |
-
-|Percentual utilizado |8,88% |
-
-|Atualizado em 21/07/2026 às 15:19:54 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado | Limite de 15% (quinze por cento) |
+| para abertura de créditos suplementares para o Fundo Municipal | do valor do orçamento. |
+| de Saúde. |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 3.738.652.601,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 329.881.267,57 |
+| Valor do decreto publicado nesta data | R$ 2.000.662,70 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 331.881.930,27 |
+| Saldo atual de créditos suplementares | R$ 3.406.770.671,13 |
+| Percentual utilizado | 8,88% |
+| Atualizado em 21/07/2026 às 15:19:54 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal|do valor do Orçamento |
-
-|e Encargos Sociais (código 01) | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 103.297.710,63 |
-
-|Valor do decreto publicado nesta data |R$ 41.500,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 103.339.210,63 |
-
-|Saldo atual de créditos suplementares |R$ 2.389.095.856,97 |
-
-|Percentual utilizado |4,15% |
-
-|Atualizado em 21/07/2026 às 15:21:37 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | do valor do Orçamento |
+| e Encargos Sociais (código 01) |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 103.297.710,63 |
+| Valor do decreto publicado nesta data | R$ 41.500,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 103.339.210,63 |
+| Saldo atual de créditos suplementares | R$ 2.389.095.856,97 |
+| Percentual utilizado | 4,15% |
+| Atualizado em 21/07/2026 às 15:21:37 |  |

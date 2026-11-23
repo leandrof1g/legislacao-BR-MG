@@ -72,55 +72,32 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2386.339039.706 |7.980,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|604.19.126.0302.2938.339048.700 |60.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339039.621 |51.250,00 |
-
-|2302.10.302.0114.2936.339030.621 |80.130,00 |
-
-|2302.10.304.0028.2829.339030.621 |1.850,00 |
-
-|2302.10.122.0117.2662.339040.634 |743.505,46 |
-
-|2302.10.301.0157.2690.339030.621 |41.253,82 |
-
-|2302.10.302.0114.2936.449052.621 |3.333,00 |
-
-|2302.10.122.0117.2662.449052.634 |165.657,00 |
-
-|2302.10.302.0114.2936.335043.621 |4.154.884,52 |
-
-|2302.10.305.0028.2829.335043.621 |450.000,00 |
-
-|2302.10.302.0114.2936.339037.621 |590.291,38 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1400.449051.500 |1.744.304,82 |
-
-|2700.17.512.0066.1400.449051.759 |12.338,18 |
-
-|2700.17.512.0066.1400.449039.500 |400.000,00 |
-
-|Fundo Municipal de Defesa Ambiental – FDA |
-
-|2503.18.541.0069.2073.449051.753 |1.131.911,23 |
-
-|TOTAL DA SUPLEMENTAÇÃO |9.638.689,41 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2386.339039.706 | 7.980,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 604.19.126.0302.2938.339048.700 | 60.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339039.621 | 51.250,00 |
+| 2302.10.302.0114.2936.339030.621 | 80.130,00 |
+| 2302.10.304.0028.2829.339030.621 | 1.850,00 |
+| 2302.10.122.0117.2662.339040.634 | 743.505,46 |
+| 2302.10.301.0157.2690.339030.621 | 41.253,82 |
+| 2302.10.302.0114.2936.449052.621 | 3.333,00 |
+| 2302.10.122.0117.2662.449052.634 | 165.657,00 |
+| 2302.10.302.0114.2936.335043.621 | 4.154.884,52 |
+| 2302.10.305.0028.2829.335043.621 | 450.000,00 |
+| 2302.10.302.0114.2936.339037.621 | 590.291,38 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1400.449051.500 | 1.744.304,82 |
+| 2700.17.512.0066.1400.449051.759 | 12.338,18 |
+| 2700.17.512.0066.1400.449039.500 | 400.000,00 |
+| Fundo Municipal de Defesa Ambiental – FDA |  |
+| 2503.18.541.0069.2073.449051.753 | 1.131.911,23 |
+| TOTAL DA SUPLEMENTAÇÃO | 9.638.689,41 |
 
 ANEXO II
 

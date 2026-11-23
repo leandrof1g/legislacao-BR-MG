@@ -58,43 +58,29 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei |R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2914.339039.1.500.000 |100.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.392.0154.2371.339039.1.500.000 |220.000,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.122.0030.2900.337170.1.659.002 |10.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |10.320.000,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei | R$ |
+| --- | --- |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2914.339039.1.500.000 | 100.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.392.0154.2371.339039.1.500.000 | 220.000,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.122.0030.2900.337170.1.659.002 | 10.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 10.320.000,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.339039.1.500.000 |100.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.9999.999999.1.500.000 |220.000,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.302.0030.2875.339034.1.659.002 |10.000.000,00 |
-
-|TOTAL DA ANULAÇÃO |10.320.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.339039.1.500.000 | 100.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.9999.999999.1.500.000 | 220.000,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.302.0030.2875.339034.1.659.002 | 10.000.000,00 |
+| TOTAL DA ANULAÇÃO | 10.320.000,00 |
 
 ANEXO II
 
@@ -130,24 +116,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 7.150.000,00 |
-
-|Valor do Decreto publicado nesta data |R$ 10.320.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 17.470.000,00 |
-
-|Saldo atual de créditos suplementares |R$ 2.247.910.797,00 |
-
-|Percentual utilizado |0,77% |
-
-|Atualizado em 16/01/2025 às 10:38:25 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 7.150.000,00 |
+| Valor do Decreto publicado nesta data | R$ 10.320.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 17.470.000,00 |
+| Saldo atual de créditos suplementares | R$ 2.247.910.797,00 |
+| Percentual utilizado | 0,77% |
+| Atualizado em 16/01/2025 às 10:38:25 |  |

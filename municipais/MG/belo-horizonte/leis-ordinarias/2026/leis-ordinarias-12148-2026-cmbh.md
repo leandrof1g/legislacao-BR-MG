@@ -504,623 +504,320 @@ I - TABELAS DE VENCIMENTOS E SALÁRIOS-BASE, COM VIGÊNCIA A PARTIR DE 1º DE MA
 
 A - Área de Atividades de Administração Geral:
 
-|ANALISTA DE POLÍTICAS PÚBLICAS |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|Cargo |Nível |
-
-| |
-
-|Cargo |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |1 |
-
-| |NÍVEL |
-
-| |8 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |TRANSITÓRIO |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |TRANSITÓRIO |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|24 HORAS SEMANAIS |
-
-|Classe |NÍVEL |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |NÍVEL |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|VIGÊNCIA |MÍNIMO |MÉDIO |MÁXIMO |
-
-|1º/5/26 |161,83 |323,66 |647,33 |
+| ANALISTA DE POLÍTICAS PÚBLICAS |  |  |  |
+| --- | --- | --- | --- |
+| 30 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  |  |  |  |
+| Cargo | Nível |  |  |
+|  |  |  |  |
+| Cargo | Nível |  |  |
+|  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 8 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | TRANSITÓRIO |  |  |
+|  | 1 |  |  |
+|  | 1 |  |  |
+|  | 1 |  |  |
+|  | 1 |  |  |
+|  | 1 |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | TRANSITÓRIO |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 24 HORAS SEMANAIS |  |  |  |
+| Classe | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |
+| Classe | NÍVEL |  |  |
+|  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |
+| Classe | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  |  |  |  |
+| VIGÊNCIA | MÍNIMO | MÉDIO | MÁXIMO |
+| 1º/5/26 | 161,83 | 323,66 | 647,33 |
 
 ANEXO VIII
 
 TABELAS DE VENCIMENTOS-BASE DO CARGO PÚBLICO DE MÉDICO DA ADMINISTRAÇÃO DIRETA E DO HOSPITAL METROPOLITANO ODILON BEHRENS - HOB, COM VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2027:
 
-|CLASSES |NÍVEL - JORNADA DE 12 HORAS SEMANAIS |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|24 HORAS SEMANAIS |
-
-|Classe |NÍVEL |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |NÍVEL |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |NÍVEL |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|Escolaridade |Classe |Nível |
-
-| |
-
-|Escolaridade |Classe |Nível |
-
-| | |
-
-|Supervisor de Alimentação |81 |
+| CLASSES | NÍVEL - JORNADA DE 12 HORAS SEMANAIS |  |
+| --- | --- | --- |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| 24 HORAS SEMANAIS |  |  |
+| Classe | NÍVEL |  |
+|  |  |  |
+| 30 HORAS SEMANAIS |  |  |
+| Classe | NÍVEL |  |
+|  |  |  |
+| 30 HORAS SEMANAIS |  |  |
+| Classe | NÍVEL |  |
+|  |  |  |
+| 40 HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| 40 HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| 30 HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| 40 HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| Escolaridade | Classe | Nível |
+|  |  |  |
+| Escolaridade | Classe | Nível |
+|  |  |  |
+| Supervisor de Alimentação | 81 |  |
 
 .”.
 
@@ -1134,11 +831,10 @@ Cargos dos Quadros Específicos das Secretarias Municipais
 
 F - Secretaria Municipal de Planejamento, Orçamento e Gestão - SMPOG
 
-|Cargo |QUANTIDADE DE VAGAS |
-
-|Diretor de Gestão de Investimentos Previdenciários |1 |
-
-|Gerente de Operações e Análise de Mercado |1 |
+| Cargo | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Diretor de Gestão de Investimentos Previdenciários | 1 |
+| Gerente de Operações e Análise de Mercado | 1 |
 
 .”.
 
@@ -1152,10 +848,9 @@ Remuneração dos cargos dos Quadros Específicos
 
 F - Da Secretaria Municipal de Planejamento, Orçamento e Gestão - SMPOG:
 
-|Cargo |Remuneração |
-
-|Diretor de Gestão de Investimentos Previdenciários |R$ 17.000,00 |
-
-|Gerente de Operações e Análise de Mercado |R$ 12.000,00 |
+| Cargo | Remuneração |
+| --- | --- |
+| Diretor de Gestão de Investimentos Previdenciários | R$ 17.000,00 |
+| Gerente de Operações e Análise de Mercado | R$ 12.000,00 |
 
 .”.

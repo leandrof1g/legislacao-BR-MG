@@ -510,21 +510,19 @@ ANEXO I
 
 CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DO PODER EXECUTIVO REGIDOS POR ESTA LEI
 
-|CARGO |QUANTITATIVO |
-
-|Analista de Políticas Públicas |939 |
-
-|Analista de Planejamento e Gestão Governamental |104 |
+| CARGO | QUANTITATIVO |
+| --- | --- |
+| Analista de Políticas Públicas | 939 |
+| Analista de Planejamento e Gestão Governamental | 104 |
 
 ANEXO I
 
 CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DO PODER EXECUTIVO REGIDOS POR ESTA LEI
 
-|CARGO |QUANTITATIVO |
-
-|Analista de Políticas Públicas |896 |
-
-|Analista de Planejamento e Gestão Governamental |147 |
+| CARGO | QUANTITATIVO |
+| --- | --- |
+| Analista de Políticas Públicas | 896 |
+| Analista de Planejamento e Gestão Governamental | 147 |
 
 Anexo I com redação dada pela Lei nº 11.491, de 10/5/2023 (Art. 23)
 
@@ -532,11 +530,10 @@ ANEXO I
 
 CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DO PODER EXECUTIVO REGIDOS POR ESTA LEI
 
-|CARGO |QUANTITATIVO |
-
-|Analista de Políticas Públicas |1.048 |
-
-|Analista de Planejamento e Gestão Governamental |240 |
+| CARGO | QUANTITATIVO |
+| --- | --- |
+| Analista de Políticas Públicas | 1.048 |
+| Analista de Planejamento e Gestão Governamental | 240 |
 
 Anexo I com redação dada pela Lei nº 11.539, de 5/7/2023 (Art. 64, I)
 
@@ -544,11 +541,10 @@ ANEXO I
 
 CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DO PODER EXECUTIVO REGIDOS POR ESTA LEI
 
-|CARGO |QUANTITATIVO |
-
-|Analista de Políticas Públicas |1.048 |
-
-|Analista de Planejamento e Gestão Governamental |320 |
+| CARGO | QUANTITATIVO |
+| --- | --- |
+| Analista de Políticas Públicas | 1.048 |
+| Analista de Planejamento e Gestão Governamental | 320 |
 
 Anexo I com redação dada pela Lei nº 11.914, de 30/10/2025 (Art. 98 com vigência no art. 124)
 
@@ -588,151 +584,83 @@ ATRIBUIÇÃO GERAL: realizar atividades de planejamento, implementação, superv
 
 ANEXO III TABELAS DE VENCIMENTOS-BASE DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE, REGIDOS POR ESTA LEI, A PARTIR DE 1º DE JULHO DE 2022
 
-|ANALISTA DE POLÍTICAS PÚBLICAS |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|Classe|Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|Classe|Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|Classe|Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe|Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe|Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe|Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe|Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe|Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe|Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe|Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe|Nível |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe|Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe|Nível |
-
-| |1 |
-
-|Agente Executivo Governamental |1.589 |
+| ANALISTA DE POLÍTICAS PÚBLICAS |  |
+| --- | --- |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| 30 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| 40 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| 30 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| 40 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| 30 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| Classe | Nível |
+|  |  |
+| 40 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  | 1 |
+| Agente Executivo Governamental | 1.589 |
 
 B - EMPREGO PÚBLICO - QUADRO TRANSITÓRIO
 
-|ÓRGÃO |QUANTITATIVO |
-
-|SLU |84 |
-
-|Sudecap |62 |
-
-|HOB |25 |
-
-|TOTAL |171 |
+| ÓRGÃO | QUANTITATIVO |
+| --- | --- |
+| SLU | 84 |
+| Sudecap | 62 |
+| HOB | 25 |
+| TOTAL | 171 |
 
 .
 
@@ -746,21 +674,18 @@ AGENTE EXECUTIVO GOVERNAMENTAL
 
 A - CARGO PÚBLICO
 
-|CARGO PÚBLICO |QUANTITATIVO |
-
-|Agente Executivo Governamental |1.588 |
+| CARGO PÚBLICO | QUANTITATIVO |
+| --- | --- |
+| Agente Executivo Governamental | 1.588 |
 
 B - EMPREGO PÚBLICO - QUADRO TRANSITÓRIO
 
-|ÓRGÃO |QUANTITATIVO |
-
-|SLU |84 |
-
-|Sudecap |62 |
-
-|HOB |26 |
-
-|TOTAL |172 |
+| ÓRGÃO | QUANTITATIVO |
+| --- | --- |
+| SLU | 84 |
+| Sudecap | 62 |
+| HOB | 26 |
+| TOTAL | 172 |
 
 Anexo IV com redação dada pela Lei nº 11.491, de 10/5/2023 (Art. 28)
 
@@ -770,19 +695,14 @@ ANEXO V
 
 CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE REGIDOS POR ESTA LEI
 
-|CARGOS |QUANTITATIVO |
-
-|Ajudante de Serviço Operacional |740 |
-
-|Assistente de Serviço Público |1.240 |
-
-|Oficial de Serviço Público |480 |
-
-|Telefonista |40 |
-
-|Motorista |70 |
-
-|Técnico de Serviço Público |40 |
+| CARGOS | QUANTITATIVO |
+| --- | --- |
+| Ajudante de Serviço Operacional | 740 |
+| Assistente de Serviço Público | 1.240 |
+| Oficial de Serviço Público | 480 |
+| Telefonista | 40 |
+| Motorista | 70 |
+| Técnico de Serviço Público | 40 |
 
 ”.
 
@@ -792,51 +712,33 @@ ANEXO VI
 
 A - CARGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|CARGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Técnico de Serviço de Saúde |906 |
-
-|Técnico de Nível Médio |42 |
-
-|Analista de Políticas Públicas |36 |
-
-|Técnico Superior de Saúde |135 |
-
-|Enfermeiro |236 |
-
-|Cirurgião-Dentista |20 |
-
-|Médico |322 |
-
-|Engenheiro |3 |
-
-|Arquiteto |1 |
+| CARGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Técnico de Serviço de Saúde | 906 |
+| Técnico de Nível Médio | 42 |
+| Analista de Políticas Públicas | 36 |
+| Técnico Superior de Saúde | 135 |
+| Enfermeiro | 236 |
+| Cirurgião-Dentista | 20 |
+| Médico | 322 |
+| Engenheiro | 3 |
+| Arquiteto | 1 |
 
 B - EMPREGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Auxiliar de Serviços |84 |
-
-|Auxiliar de Administração |13 |
-
-|Oficial de Serviços |14 |
-
-|Telefonista |2 |
-
-|Motorista |1 |
-
-|Agente de Serviços de Saúde |321 |
-
-|Técnico de Serviços de Saúde |124 |
-
-|Técnico de Nível Médio |4 |
-
-|Técnico Superior de Saúde |35 |
-
-|Cirurgião-Dentista |1 |
-
-|Enfermeiro |30 |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Auxiliar de Serviços | 84 |
+| Auxiliar de Administração | 13 |
+| Oficial de Serviços | 14 |
+| Telefonista | 2 |
+| Motorista | 1 |
+| Agente de Serviços de Saúde | 321 |
+| Técnico de Serviços de Saúde | 124 |
+| Técnico de Nível Médio | 4 |
+| Técnico Superior de Saúde | 35 |
+| Cirurgião-Dentista | 1 |
+| Enfermeiro | 30 |
 
 ”.
 
@@ -846,39 +748,24 @@ ANEXO VII
 
 A - EMPREGOS PÚBLICOS EFETIVOS DA SUDECAP / NÚMERO DE VAGAS
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Auxiliar de Apoio Operacional |104 |
-
-|Oficial de Serviços |73 |
-
-|Auxiliar Administrativo |19 |
-
-|Agente de Operações e Controle |51 |
-
-|Agente de Apoio Administrativo |65 |
-
-|Agente de Apoio Técnico |1 |
-
-|Auxiliar de Saúde |2 |
-
-|Telefonista |2 |
-
-|Motorista |72 |
-
-|Assistente Técnico |81 |
-
-|Engenheiro |220 |
-
-|Arquiteto |63 |
-
-|Advogado Público Autárquico |36 |
-
-|Técnico de Nível Superior |64 |
-
-|Médico do Trabalho |1 |
-
-|Cirurgião-Dentista |1 |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Auxiliar de Apoio Operacional | 104 |
+| Oficial de Serviços | 73 |
+| Auxiliar Administrativo | 19 |
+| Agente de Operações e Controle | 51 |
+| Agente de Apoio Administrativo | 65 |
+| Agente de Apoio Técnico | 1 |
+| Auxiliar de Saúde | 2 |
+| Telefonista | 2 |
+| Motorista | 72 |
+| Assistente Técnico | 81 |
+| Engenheiro | 220 |
+| Arquiteto | 63 |
+| Advogado Público Autárquico | 36 |
+| Técnico de Nível Superior | 64 |
+| Médico do Trabalho | 1 |
+| Cirurgião-Dentista | 1 |
 
 ”
 
@@ -888,48 +775,28 @@ ANEXO VIII
 
 A - EMPREGOS PÚBLICOS EFETIVOS DA SLU / NÚMERO DE VAGAS
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Gari de Varrição |745 |
-
-|Gari de Serviços Complementares |209 |
-
-|Gari de Coleta |320 |
-
-|Auxiliar de Apoio Operacional |61 |
-
-|Telefonista |2 |
-
-|Operador de Rádio |2 |
-
-|Auxiliar Administrativo |2 |
-
-|Auxiliar de Operação e Controle |216 |
-
-|Oficial de Serviços |21 |
-
-|Oficial de Manutenção |41 |
-
-|Operador de Máquinas Pesadas |2 |
-
-|Motorista |109 |
-
-|Fiscal de Limpeza Urbana |175 |
-
-|Agente de Operação e Controle |120 |
-
-|Cadastrador |30 |
-
-|Técnico de Nível Médio |84 |
-
-|Engenheiro |74 |
-
-|Arquiteto |10 |
-
-|Advogado |20 |
-
-|Médico do Trabalho |4 |
-
-|Técnico de Nível Superior |70 |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Gari de Varrição | 745 |
+| Gari de Serviços Complementares | 209 |
+| Gari de Coleta | 320 |
+| Auxiliar de Apoio Operacional | 61 |
+| Telefonista | 2 |
+| Operador de Rádio | 2 |
+| Auxiliar Administrativo | 2 |
+| Auxiliar de Operação e Controle | 216 |
+| Oficial de Serviços | 21 |
+| Oficial de Manutenção | 41 |
+| Operador de Máquinas Pesadas | 2 |
+| Motorista | 109 |
+| Fiscal de Limpeza Urbana | 175 |
+| Agente de Operação e Controle | 120 |
+| Cadastrador | 30 |
+| Técnico de Nível Médio | 84 |
+| Engenheiro | 74 |
+| Arquiteto | 10 |
+| Advogado | 20 |
+| Médico do Trabalho | 4 |
+| Técnico de Nível Superior | 70 |
 
 ”.

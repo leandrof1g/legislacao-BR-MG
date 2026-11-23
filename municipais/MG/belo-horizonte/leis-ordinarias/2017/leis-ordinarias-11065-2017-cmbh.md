@@ -3174,135 +3174,84 @@ ANEXO I
 
 Cargos do Grupo de Direção Superior Municipal – DSM
 
-|ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal – DSM |QUANTIDADE DE VAGAS |
-
-|Chefe de Gabinete do Prefeito |1 |
-
-|Coordenador de Atendimento Regional |9 |
-
-|Secretário/Procurador-Geral/Controlador-Geral |16 |
-
-|Secretário Municipal Adjunto/Procurador-Geral |16 |
-
-|Adjunto/Controlador-Geral Adjunto | |
-
-|Subsecretário/Subprocurador/Subcontrolador |25 |
-
-|Consultor Técnico Especializado |10 |
-
-|Assessor Especial |7 |
-
-|Chefe de Gabinete do Vice-Prefeito |1 |
-
-|TOTAL GERAL |85 |
-
-| |
-
-|ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal – DSM |QUANTIDADE DE VAGAS |
-
-|Chefe de Gabinete do Prefeito |1 |
-
-|Coordenador de Atendimento Regional |9 |
-
-|Secretário/Procurador-Geral/Controlador-Geral |16 |
-
-|Secretário Municipal Adjunto/Procurador-Geral |16 |
-
-|Adjunto/Controlador-Geral Adjunto | |
-
-|Subsecretário/Subprocurador/Subcontrolador/ Comandante da Guarda |25 |
-
-|Civil Municipal | |
-
-|Consultor Técnico Especializado |10 |
-
-|Assessor Especial |7 |
-
-|Chefe de Gabinete do Vice-Prefeito |1 |
-
-|TOTAL GERAL |85 |
-
-|Quadro com redação dada pela Lei nº 11.154, de 9/1/2019 (Art. 24) |
-
-| | |
-
-|FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |
-
-|Grupo de Direção Superior Municipal – DSM |QUANTIDADE DE VAGAS |
-
-|Presidente |1 |
-
-|TOTAL GERAL |1 |
-
-| | |
-
-|FUNDAÇÃO MUNICIPAL DE CULTURA |
-
-|Grupo de Direção Superior Municipal – DSM |QUANTIDADE DE VAGAS |
-
-|Presidente |1 |
-
-|TOTAL GERAL |1 |
-
-|SUPERINTENDÊNCIA DE LIMPEZA URBANA |
-
-|Grupo de Direção Superior Municipal – DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Diretor |4 |
-
-|TOTAL GERAL |5 |
+| ADMINISTRAÇÃO DIRETA |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal – DSM | QUANTIDADE DE VAGAS |
+| Chefe de Gabinete do Prefeito | 1 |
+| Coordenador de Atendimento Regional | 9 |
+| Secretário/Procurador-Geral/Controlador-Geral | 16 |
+| Secretário Municipal Adjunto/Procurador-Geral | 16 |
+| Adjunto/Controlador-Geral Adjunto |  |
+| Subsecretário/Subprocurador/Subcontrolador | 25 |
+| Consultor Técnico Especializado | 10 |
+| Assessor Especial | 7 |
+| Chefe de Gabinete do Vice-Prefeito | 1 |
+| TOTAL GERAL | 85 |
+|  |  |
+| ADMINISTRAÇÃO DIRETA |  |
+| Grupo de Direção Superior Municipal – DSM | QUANTIDADE DE VAGAS |
+| Chefe de Gabinete do Prefeito | 1 |
+| Coordenador de Atendimento Regional | 9 |
+| Secretário/Procurador-Geral/Controlador-Geral | 16 |
+| Secretário Municipal Adjunto/Procurador-Geral | 16 |
+| Adjunto/Controlador-Geral Adjunto |  |
+| Subsecretário/Subprocurador/Subcontrolador/ Comandante da Guarda | 25 |
+| Civil Municipal |  |
+| Consultor Técnico Especializado | 10 |
+| Assessor Especial | 7 |
+| Chefe de Gabinete do Vice-Prefeito | 1 |
+| TOTAL GERAL | 85 |
+| Quadro com redação dada pela Lei nº 11.154, de 9/1/2019 (Art. 24) |  |
+|  |  |
+| FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |  |
+| Grupo de Direção Superior Municipal – DSM | QUANTIDADE DE VAGAS |
+| Presidente | 1 |
+| TOTAL GERAL | 1 |
+|  |  |
+| FUNDAÇÃO MUNICIPAL DE CULTURA |  |
+| Grupo de Direção Superior Municipal – DSM | QUANTIDADE DE VAGAS |
+| Presidente | 1 |
+| TOTAL GERAL | 1 |
+| SUPERINTENDÊNCIA DE LIMPEZA URBANA |  |
+| Grupo de Direção Superior Municipal – DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Diretor | 4 |
+| TOTAL GERAL | 5 |
 
 Quadro acrescentado pela Lei nº 11.080, de 30/11/2017 (Art. 41)
 
-|SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL – SUDECAP |
-
-|Grupo de Direção Superior Municipal – DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Diretor |6 |
-
-|TOTAL GERAL |7 |
+| SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL – SUDECAP |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal – DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Diretor | 6 |
+| TOTAL GERAL | 7 |
 
 Quadro acrescentado pela Lei nº 11.080, de 30/11/2017 (Art. 41)
 
-|HOSPITAL METROPOLITANO ODILON BEHRENS – HOB |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Diretor |3 |
-
-|TOTAL GERAL |4 |
+| HOSPITAL METROPOLITANO ODILON BEHRENS – HOB |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Diretor | 3 |
+| TOTAL GERAL | 4 |
 
 Quadro acrescentado pela Lei nº 11.163, de 1º/4/2019 (Art. 22)
 
-|SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Diretor |6 |
-
-|Total geral |7 |
+| SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Diretor | 6 |
+| Total geral | 7 |
 
 Quadro acrescentado pela Lei nº 11.319, de 22/10/2021 (Art. 27 combinado com vigência no art. 30)
 
-|COORDENADORIAS DE ATENDIMENTO REGIONAL |
-
-|Grupo de Direção Superior Municipal – DSM |Quantidade de vagas |
-
-|Coordenador de Atendimento Regional Adjunto |9 |
-
-|TOTAL GERAL |9 |
+| COORDENADORIAS DE ATENDIMENTO REGIONAL |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal – DSM | Quantidade de vagas |
+| Coordenador de Atendimento Regional Adjunto | 9 |
+| TOTAL GERAL | 9 |
 
 Quadro acrescentado pela Lei nº 11.491, de 10/5/2023 (Art. 14)
 
@@ -3314,129 +3263,73 @@ Anexo I com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 24)
 
 Anexo I com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/2025 (Art. 59)
 
-|I.1 - ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS|
-
-|Chefe de Gabinete do Prefeito |1 |
-
-|Administrador Regional/Coordenador Especial |12 |
-
-|Administrador Regional Adjunto/Coordenador Especial Adjunto |12 |
-
-|Secretário/Procurador-Geral/Controlador-Geral/Secretário-Geral |20 |
-
-|Secretário Municipal Adjunto/Procurador-Geral Adjunto/ Controlador-Geral |20 |
-
-|Adjunto/Secretário-Geral Adjunto | |
-
-|Subsecretário/Subprocurador/Subcontrolador/ |32 |
-
-|Comandante da Guarda Civil Municipal | |
-
-|Consultor Técnico Especializado |20 |
-
-|Assessor-Chefe |3 |
-
-|Assessor Especial |20 |
-
-|Chefe de Gabinete do Vice-Prefeito |1 |
-
-|TOTAL GERAL |141 |
-
-|I.2 - FUNDAÇÕES E AUTARQUIAS |
-
-|I.2.1 - FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Presidente |1 |
-
-|Vice-Presidente |1 |
-
-|TOTAL GERAL |2 |
-
-|I.2.2 - FUNDAÇÃO MUNICIPAL DE CULTURA |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Presidente |1 |
-
-|Vice-Presidente |1 |
-
-|TOTAL GERAL |2 |
-
-|I.2.3 - SUPERINTENDÊNCIA DE LIMPEZA URBANA |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Superintendente Adjunto |1 |
-
-|Diretor |4 |
-
-|TOTAL GERAL |6 |
-
-|I.2.4 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Superintendente Adjunto |1 |
-
-|Diretor |6 |
-
-|TOTAL GERAL |8 |
-
-|I.2.5 - HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Superintendente Adjunto |1 |
-
-|Diretor |3 |
-
-|TOTAL GERAL |5 |
-
-|I.2.6 - SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Superintendente Adjunto |1 |
-
-|Diretor |6 |
-
-|TOTAL GERAL |8 |
+| I.1 - ADMINISTRAÇÃO DIRETA |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Chefe de Gabinete do Prefeito | 1 |
+| Administrador Regional/Coordenador Especial | 12 |
+| Administrador Regional Adjunto/Coordenador Especial Adjunto | 12 |
+| Secretário/Procurador-Geral/Controlador-Geral/Secretário-Geral | 20 |
+| Secretário Municipal Adjunto/Procurador-Geral Adjunto/ Controlador-Geral | 20 |
+| Adjunto/Secretário-Geral Adjunto |  |
+| Subsecretário/Subprocurador/Subcontrolador/ | 32 |
+| Comandante da Guarda Civil Municipal |  |
+| Consultor Técnico Especializado | 20 |
+| Assessor-Chefe | 3 |
+| Assessor Especial | 20 |
+| Chefe de Gabinete do Vice-Prefeito | 1 |
+| TOTAL GERAL | 141 |
+| I.2 - FUNDAÇÕES E AUTARQUIAS |  |
+| I.2.1 - FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Presidente | 1 |
+| Vice-Presidente | 1 |
+| TOTAL GERAL | 2 |
+| I.2.2 - FUNDAÇÃO MUNICIPAL DE CULTURA |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Presidente | 1 |
+| Vice-Presidente | 1 |
+| TOTAL GERAL | 2 |
+| I.2.3 - SUPERINTENDÊNCIA DE LIMPEZA URBANA |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Superintendente Adjunto | 1 |
+| Diretor | 4 |
+| TOTAL GERAL | 6 |
+| I.2.4 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Superintendente Adjunto | 1 |
+| Diretor | 6 |
+| TOTAL GERAL | 8 |
+| I.2.5 - HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Superintendente Adjunto | 1 |
+| Diretor | 3 |
+| TOTAL GERAL | 5 |
+| I.2.6 - SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Superintendente Adjunto | 1 |
+| Diretor | 6 |
+| TOTAL GERAL | 8 |
 
 ANEXO II
 
 Cargos de Direção e Assessoramento Municipal – DAM:
 
-|CARGO |DAM-UNITÁRIO |
-
-|DAM-1 |1 |
-
-|DAM-2 |1,5 |
-
-|DAM-3 |2 |
-
-|DAM-4 |3 |
-
-|DAM-5 |4 |
-
-|DAM-6 |5 |
-
-|DAM-7 |6 |
-
-|DAM-8 |7 |
-
-|DAM-9 |8 |
+| CARGO | DAM-UNITÁRIO |
+| --- | --- |
+| DAM-1 | 1 |
+| DAM-2 | 1,5 |
+| DAM-3 | 2 |
+| DAM-4 | 3 |
+| DAM-5 | 4 |
+| DAM-6 | 5 |
+| DAM-7 | 6 |
+| DAM-8 | 7 |
+| DAM-9 | 8 |
 
 ANEXO III
 
@@ -3450,199 +3343,118 @@ Anexo III com denominação dada pela Lei nº 11.491, de 10/5/2023 (Art. 15)
 
 A - Secretaria Municipal de Educação
 
-|CARGO PÚBLICO EM COMISSÃO |QUANTIDADE DE VAGAS |
-
-|Secretário de Estabelecimento de Ensino I |200 |
-
-|Secretário de Estabelecimento de Ensino II | |
-
-|Secretário de Estabelecimento de Ensino III | |
-
-|Secretário de Estabelecimento de Ensino IV | |
-
-|Secretário de Estabelecimento de Ensino V | |
-
-|Vice-Diretor de Estabelecimento de Ensino I |200 |
-
-|Vice-Diretor de Estabelecimento de Ensino II | |
-
-|Vice-Diretor de Estabelecimento de Ensino III | |
-
-|Vice-Diretor de Estabelecimento de Ensino IV | |
-
-|Vice-Diretor de Estabelecimento de Ensino V | |
-
-|Vice-Diretor de Estabelecimento de Ensino I UMEI |180 |
-
-|Vice-Diretor de Estabelecimento de Ensino II UMEI | |
-
-|Vice-Diretor de Estabelecimento de Ensino III UMEI | |
-
-|Vice-Diretor de Estabelecimento de Ensino IV UMEI | |
-
-|Vice-Diretor de Estabelecimento de Ensino V UMEI | |
-
-|Diretor de Estabelecimento de Ensino I |200 |
-
-|Diretor de Estabelecimento de Ensino II | |
-
-|Diretor de Estabelecimento de Ensino III | |
-
-|Diretor de Estabelecimento de Ensino IV | |
-
-|Diretor de Estabelecimento de Ensino V | |
-
-|Diretor de Centro de Aperfeiçoamento Profissional da Educação |1 |
-
-|Vice-Diretor de Centro de Aperfeiçoamento Profissional Educação |1 |
-
-|Coordenador de Projetos Especiais da Educação |9 |
-
-|TOTAL GERAL DE CARGOS COMISSIONADOS DA ÁREA DA EDUCAÇÃO |791 |
+| CARGO PÚBLICO EM COMISSÃO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Secretário de Estabelecimento de Ensino I | 200 |
+| Secretário de Estabelecimento de Ensino II |  |
+| Secretário de Estabelecimento de Ensino III |  |
+| Secretário de Estabelecimento de Ensino IV |  |
+| Secretário de Estabelecimento de Ensino V |  |
+| Vice-Diretor de Estabelecimento de Ensino I | 200 |
+| Vice-Diretor de Estabelecimento de Ensino II |  |
+| Vice-Diretor de Estabelecimento de Ensino III |  |
+| Vice-Diretor de Estabelecimento de Ensino IV |  |
+| Vice-Diretor de Estabelecimento de Ensino V |  |
+| Vice-Diretor de Estabelecimento de Ensino I UMEI | 180 |
+| Vice-Diretor de Estabelecimento de Ensino II UMEI |  |
+| Vice-Diretor de Estabelecimento de Ensino III UMEI |  |
+| Vice-Diretor de Estabelecimento de Ensino IV UMEI |  |
+| Vice-Diretor de Estabelecimento de Ensino V UMEI |  |
+| Diretor de Estabelecimento de Ensino I | 200 |
+| Diretor de Estabelecimento de Ensino II |  |
+| Diretor de Estabelecimento de Ensino III |  |
+| Diretor de Estabelecimento de Ensino IV |  |
+| Diretor de Estabelecimento de Ensino V |  |
+| Diretor de Centro de Aperfeiçoamento Profissional da Educação | 1 |
+| Vice-Diretor de Centro de Aperfeiçoamento Profissional Educação | 1 |
+| Coordenador de Projetos Especiais da Educação | 9 |
+| TOTAL GERAL DE CARGOS COMISSIONADOS DA ÁREA DA EDUCAÇÃO | 791 |
 
 A - Secretaria Municipal de Educação
 
-|Cargo Público em Comissão |Quantidade de Vagas|
-
-|Secretário Escolar I |180 |
-
-|Secretário Escolar II |200 |
-
-|Vice-Diretor de Escola Municipal I |200 |
-
-|Vice-Diretor de Escola Municipal II | |
-
-|Vice-Diretor de Escola Municipal III | |
-
-|Vice-Diretor de Escola Municipal IV | |
-
-|Vice-Diretor de Escola Municipal V | |
-
-|Diretor de Escola Municipal I |200 |
-
-|Diretor de Escola Municipal II | |
-
-|Diretor de Escola Municipal III | |
-
-|Diretor de Escola Municipal IV | |
-
-|Diretor de Escola Municipal V | |
-
-|Vice-Diretor de EMEI I |180 |
-
-|Vice-Diretor de EMEI II | |
-
-|Vice-Diretor de EMEI III | |
-
-|Vice-Diretor de EMEI IV | |
-
-|Vice-Diretor de EMEI V | |
-
-|Diretor de EMEI I |180 |
-
-|Diretor de EMEI II | |
-
-|Diretor de EMEI III | |
-
-|Diretor de EMEI IV | |
-
-|Diretor de EMEI V | |
-
-|Coordenador Pedagógico Geral I |180 |
-
-|Coordenador Pedagógico Geral II |200 |
-
-|Diretor de Centro de Aperfeiçoamento Profissional da Educação |1 |
-
-|Vice-Diretor de Centro de Aperfeiçoamento Profissional da Educação |1 |
-
-|Coordenador de Projetos Especiais da Educação |9 |
-
-| |34 |
-
-|Quantitativo com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 25) |
-
-|Quantitivo com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/2025 (Art. 59) |
-
-|Total Geral de Cargos Comissionados da Área da Educação |1.531 |
+| Cargo Público em Comissão | Quantidade de Vagas |
+| --- | --- |
+| Secretário Escolar I | 180 |
+| Secretário Escolar II | 200 |
+| Vice-Diretor de Escola Municipal I | 200 |
+| Vice-Diretor de Escola Municipal II |  |
+| Vice-Diretor de Escola Municipal III |  |
+| Vice-Diretor de Escola Municipal IV |  |
+| Vice-Diretor de Escola Municipal V |  |
+| Diretor de Escola Municipal I | 200 |
+| Diretor de Escola Municipal II |  |
+| Diretor de Escola Municipal III |  |
+| Diretor de Escola Municipal IV |  |
+| Diretor de Escola Municipal V |  |
+| Vice-Diretor de EMEI I | 180 |
+| Vice-Diretor de EMEI II |  |
+| Vice-Diretor de EMEI III |  |
+| Vice-Diretor de EMEI IV |  |
+| Vice-Diretor de EMEI V |  |
+| Diretor de EMEI I | 180 |
+| Diretor de EMEI II |  |
+| Diretor de EMEI III |  |
+| Diretor de EMEI IV |  |
+| Diretor de EMEI V |  |
+| Coordenador Pedagógico Geral I | 180 |
+| Coordenador Pedagógico Geral II | 200 |
+| Diretor de Centro de Aperfeiçoamento Profissional da Educação | 1 |
+| Vice-Diretor de Centro de Aperfeiçoamento Profissional da Educação | 1 |
+| Coordenador de Projetos Especiais da Educação | 9 |
+|  | 34 |
+| Quantitativo com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 25) |  |
+| Quantitivo com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/2025 (Art. 59) |  |
+| Total Geral de Cargos Comissionados da Área da Educação | 1.531 |
 
 Quadro A do Anexo III com redação dada pela Lei nº 11.132, de 18/9/2018 (art. 34)
 
 A - Secretaria Municipal de Educação
 
-|Cargo Público em Comissão |Quantidade de Vagas |
-
-|Secretário Escolar I |180 |
-
-|Secretário Escolar II |200 |
-
-|Vice-Diretor de Escola Municipal I |200 |
-
-|Vice-Diretor de Escola Municipal II | |
-
-|Vice-Diretor de Escola Municipal III | |
-
-|Vice-Diretor de Escola Municipal IV | |
-
-|Vice-Diretor de Escola Municipal V | |
-
-|Diretor de Escola Municipal I |200 |
-
-|Diretor de Escola Municipal II | |
-
-|Diretor de Escola Municipal III | |
-
-|Diretor de Escola Municipal IV | |
-
-|Diretor de Escola Municipal V | |
-
-|Vice-Diretor de EMEI I |180 |
-
-|Vice-Diretor de EMEI II | |
-
-|Vice-Diretor de EMEI III | |
-
-|Vice-Diretor de EMEI IV | |
-
-|Vice-Diretor de EMEI V | |
-
-|Diretor de EMEI I |180 |
-
-|Diretor de EMEI II | |
-
-|Diretor de EMEI III | |
-
-|Diretor de EMEI IV | |
-
-|Diretor de EMEI V | |
-
-|Coordenador Pedagógico Geral I |180 |
-
-|Coordenador Pedagógico Geral II |210 |
-
-|Diretor de Centro de Aperfeiçoamento Profissional da Educação |1 |
-
-|Vice-Diretor de Centro de Aperfeiçoamento Profissional da Educação |1 |
-
-|Coordenador de Projetos Especiais da Educação |34 |
-
-|Vice-Diretor de Centro Municipal Escolar de Treinamento Esportivo |10 |
-
-|Total Geral de Cargos Comissionados da Área da Educação |1.551 |
+| Cargo Público em Comissão | Quantidade de Vagas |
+| --- | --- |
+| Secretário Escolar I | 180 |
+| Secretário Escolar II | 200 |
+| Vice-Diretor de Escola Municipal I | 200 |
+| Vice-Diretor de Escola Municipal II |  |
+| Vice-Diretor de Escola Municipal III |  |
+| Vice-Diretor de Escola Municipal IV |  |
+| Vice-Diretor de Escola Municipal V |  |
+| Diretor de Escola Municipal I | 200 |
+| Diretor de Escola Municipal II |  |
+| Diretor de Escola Municipal III |  |
+| Diretor de Escola Municipal IV |  |
+| Diretor de Escola Municipal V |  |
+| Vice-Diretor de EMEI I | 180 |
+| Vice-Diretor de EMEI II |  |
+| Vice-Diretor de EMEI III |  |
+| Vice-Diretor de EMEI IV |  |
+| Vice-Diretor de EMEI V |  |
+| Diretor de EMEI I | 180 |
+| Diretor de EMEI II |  |
+| Diretor de EMEI III |  |
+| Diretor de EMEI IV |  |
+| Diretor de EMEI V |  |
+| Coordenador Pedagógico Geral I | 180 |
+| Coordenador Pedagógico Geral II | 210 |
+| Diretor de Centro de Aperfeiçoamento Profissional da Educação | 1 |
+| Vice-Diretor de Centro de Aperfeiçoamento Profissional da Educação | 1 |
+| Coordenador de Projetos Especiais da Educação | 34 |
+| Vice-Diretor de Centro Municipal Escolar de Treinamento Esportivo | 10 |
+| Total Geral de Cargos Comissionados da Área da Educação | 1.551 |
 
 Tabela A do Anexo III com redação dada pela Lei nº 12.011, de 13/5/2026 (art. 19)
 
 B - Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania
 
-|CARGO PÚBLICO EM COMISSÃO |QUANTIDADE DE VAGAS |
-
-|Supervisor de Alimentação Escolar |52 |
+| CARGO PÚBLICO EM COMISSÃO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Supervisor de Alimentação Escolar | 52 |
 
 B - Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania
 
-|CARGO PÚBLICO EM COMISSÃO |QUANTIDADE DE VAGAS |
-
-|Supervisor de Alimentação |52 |
+| CARGO PÚBLICO EM COMISSÃO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Supervisor de Alimentação | 52 |
 
 Item B do Anexo III com redação dada pela Lei nº 11.163, de 1º/4/2019 (Art. 23)
 
@@ -3652,61 +3464,53 @@ B - Secretaria Municipal de Segurança Alimentar e Nutricional
 
 Título do quadro B com redação dada pela Lei nº 12.143, de 24/9/2026 (Art. 30)
 
-| CARGO PÚBLICO EM COMISSÃO |QUANTIDADE DE VAGAS |
-
-|Supervisor de Alimentação |62 |
-
-| |71 |
-
-|Quantitativo com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 26) |
-
-|Quantitivo com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/2025 (Art. 59)|
+| CARGO PÚBLICO EM COMISSÃO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Supervisor de Alimentação | 62 |
+|  | 71 |
+| Quantitativo com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 26) |  |
+| Quantitivo com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/2025 (Art. 59) |  |
 
 Item B do Anexo III com redação dada pela Lei nº 11.327, de 23/11/2021 (Art. 6º)
 
 B - Secretaria Municipal de Segurança Alimentar e Nutricional
 
-|CARGO PÚBLICO EM COMISSÃO |QUANTIDADE DE VAGAS |
-
-|Supervisor de Alimentação |81 |
-
-|Quantitativo com redação dada pela Lei nº 12.148, de 29/9/2026 (Art. 9º) |
+| CARGO PÚBLICO EM COMISSÃO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Supervisor de Alimentação | 81 |
+| Quantitativo com redação dada pela Lei nº 12.148, de 29/9/2026 (Art. 9º) |  |
 
 Item B do Anexo III com redação dada pela Lei nº 12.148, de 29/9/2026 (Art. 9º)
 
 C - Secretaria Municipal de Saúde
 
-|CARGO PÚBLICO EM COMISSÃO |QUANTIDADE DE VAGAS |
-
-|Coordenador de Serviço de Controle de Zoonoses |10 |
-
-|Encarregado de Serviço de Controle de Zoonoses |30 |
-
-|TOTAL GERAL DE CARGOS COMISSIONADOS DA ÁREA DA SAÚDE |40 |
+| CARGO PÚBLICO EM COMISSÃO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Coordenador de Serviço de Controle de Zoonoses | 10 |
+| Encarregado de Serviço de Controle de Zoonoses | 30 |
+| TOTAL GERAL DE CARGOS COMISSIONADOS DA ÁREA DA SAÚDE | 40 |
 
 D - Secretaria Municipal de Segurança e Prevenção
 
-|CARGO PÚBLICO EM COMISSÃO |QUANTIDADE DE VAGAS |
-
-|Subinspetor da Guarda Municipal de Belo Horizonte |52 |
+| CARGO PÚBLICO EM COMISSÃO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Subinspetor da Guarda Municipal de Belo Horizonte | 52 |
 
 E - Fundação Municipal de Cultura
 
-|CARGO PÚBLICO EM COMISSÃO |QUANTIDADE DE VAGAS |
-
-|Coordenador de Unidade Cultural nível 1 |20 |
-
-|Coordenador de Unidade Cultural nível 2 |11 |
+| CARGO PÚBLICO EM COMISSÃO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Coordenador de Unidade Cultural nível 1 | 20 |
+| Coordenador de Unidade Cultural nível 2 | 11 |
 
 Item E do Anexo III acrescentado pela Lei nº 11.491, de 10/5/2023 (Art. 15)
 
 F - Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG
 
-|Cargo |QUANTIDADE DE VAGAS |
-
-|Diretor de Gestão de Investimentos Previdenciários |1 |
-
-|Gerente de Operações e Análise de Mercado |1 |
+| Cargo | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Diretor de Gestão de Investimentos Previdenciários | 1 |
+| Gerente de Operações e Análise de Mercado | 1 |
 
 Item F do Anexo III acrescentado pela Lei nº 12.148, de 29/9/2026 (Art. 32)
 
@@ -3716,81 +3520,48 @@ Cargos do Grupo de Autarquias:
 
 A – SUPERINTENDÊNCIA DE LIMPEZA URBANA
 
-|Cargos Comissionados |QUANTIDADE DE VAGAS |VALOR | | |
-
-| | |R$ | | |
-
-|Superintendente |1 |20.811,18 | | |
-
-|Diretor |4 |17.083,81 | | |
-
-|Total de Cargos |05 | | | |
-
-| | | | | |
-
-| | | | | |
-
-|Cargos Comissionados |QUANTIDADE DE VAGAS |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-| | |R$ |EXCLUSIVA |R$ |
-
-| | | |R$ | |
-
-|Assessor |6 |3.009,44 |3.009,44 |6.018,88 |
-
-|Chefe de Gabinete |1 |3.009,44 |3.009,44 |6.018,88 |
-
-|Chefe de Departamento |8 |3.009,44 |3.009,44 |6.018,88 |
-
-|Chefe de Divisão |17 |1.797,31 |1.797,31 |3.594,62 |
-
-|Secretária |5 |1.270,66 |1.270,66 |2.541,32 |
-
-|Chefe de Seção |21 |1.270,66 |1.270,66 |2.541,32 |
-
-|Total de Cargos |58 | | | |
-
-| | | | | |
-
-|Total Geral |63 | | | |
+| Cargos Comissionados | QUANTIDADE DE VAGAS | VALOR |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | R$ |  |  |
+| Superintendente | 1 | 20.811,18 |  |  |
+| Diretor | 4 | 17.083,81 |  |  |
+| Total de Cargos | 05 |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| Cargos Comissionados | QUANTIDADE DE VAGAS | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+|  |  | R$ | EXCLUSIVA | R$ |
+|  |  |  | R$ |  |
+| Assessor | 6 | 3.009,44 | 3.009,44 | 6.018,88 |
+| Chefe de Gabinete | 1 | 3.009,44 | 3.009,44 | 6.018,88 |
+| Chefe de Departamento | 8 | 3.009,44 | 3.009,44 | 6.018,88 |
+| Chefe de Divisão | 17 | 1.797,31 | 1.797,31 | 3.594,62 |
+| Secretária | 5 | 1.270,66 | 1.270,66 | 2.541,32 |
+| Chefe de Seção | 21 | 1.270,66 | 1.270,66 | 2.541,32 |
+| Total de Cargos | 58 |  |  |  |
+|  |  |  |  |  |
+| Total Geral | 63 |  |  |  |
 
 B – SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL – SUDECAP
 
-|Cargos Comissionados |QUANTIDADE DE VAGAS |VALOR | | |
-
-| | |R$ | | |
-
-|Superintendente |1 |20.811,18 | | |
-
-|Diretor |6 |17.083,81 | | |
-
-|Total de Cargos |7 | | | |
-
-| | | | | |
-
-|Cargos Comissionados |QUANTIDADE DE VAGAS |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |R$ |DEDICAÇÃO EXCLUSIVA |R$ |
-
-| | | |R$ | |
-
-|Assessor |6 |3.009,44 |3.009,44 |6.018,88 |
-
-|Chefe de Gabinete |1 |3.009,44 |3.009,44 |6.018,88 |
-
-|Gerente de Departamento |26 |3.009,44 |3.009,44 |6.018,88 |
-
-|Gerente de Divisão |46 |1.797,31 |1.797,31 |3.594,62 |
-
-|Gerente de Seção |12 |1.270,66 |1.270,66 |2.541,32 |
-
-|Secretária |8 |1.270,66 |1.270,66 |2.541,32 |
-
-|Total de Cargos |99 | | | |
-
-| | | | | |
-
-|Total Geral |106 | | | |
+| Cargos Comissionados | QUANTIDADE DE VAGAS | VALOR |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | R$ |  |  |
+| Superintendente | 1 | 20.811,18 |  |  |
+| Diretor | 6 | 17.083,81 |  |  |
+| Total de Cargos | 7 |  |  |  |
+|  |  |  |  |  |
+| Cargos Comissionados | QUANTIDADE DE VAGAS | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+|  |  | R$ | DEDICAÇÃO EXCLUSIVA | R$ |
+|  |  |  | R$ |  |
+| Assessor | 6 | 3.009,44 | 3.009,44 | 6.018,88 |
+| Chefe de Gabinete | 1 | 3.009,44 | 3.009,44 | 6.018,88 |
+| Gerente de Departamento | 26 | 3.009,44 | 3.009,44 | 6.018,88 |
+| Gerente de Divisão | 46 | 1.797,31 | 1.797,31 | 3.594,62 |
+| Gerente de Seção | 12 | 1.270,66 | 1.270,66 | 2.541,32 |
+| Secretária | 8 | 1.270,66 | 1.270,66 | 2.541,32 |
+| Total de Cargos | 99 |  |  |  |
+|  |  |  |  |  |
+| Total Geral | 106 |  |  |  |
 
 ANEXO IV
 
@@ -3800,47 +3571,31 @@ Anexo IV com redação dada pela Lei nº 11.080, de 30/11/17 (Art. 3º, § únic
 
 A – SUPERINTENDÊNCIA DE LIMPEZA URBANA – SLU
 
-|CARGOS COMISSIONADOS |QUANTIDADE DE VAGAS |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-| | |R$ |EXCLUSIVA |R$ |
-
-| | | |R$ | |
-
-|Assessor |6 |3.085,58 |3.085,58 |6.171,16 |
-
-|Chefe de Gabinete |1 |3.085,58 |3.085,58 |6.171,16 |
-
-|Chefe de Departamento |8 |3.085,58 |3.085,58 |6.171,16 |
-
-|Chefe de Divisão |17 |1.842,78 |1.842,78 |3.685,56 |
-
-|Secretária |5 |1.302,81 |1.302,81 |2.605,62 |
-
-|Chefe de Seção |21 |1.302,81 |1.302,81 |2.605,62 |
-
-|Total de Cargos |58 | | | |
+| CARGOS COMISSIONADOS | QUANTIDADE DE VAGAS | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- | --- |
+|  |  | R$ | EXCLUSIVA | R$ |
+|  |  |  | R$ |  |
+| Assessor | 6 | 3.085,58 | 3.085,58 | 6.171,16 |
+| Chefe de Gabinete | 1 | 3.085,58 | 3.085,58 | 6.171,16 |
+| Chefe de Departamento | 8 | 3.085,58 | 3.085,58 | 6.171,16 |
+| Chefe de Divisão | 17 | 1.842,78 | 1.842,78 | 3.685,56 |
+| Secretária | 5 | 1.302,81 | 1.302,81 | 2.605,62 |
+| Chefe de Seção | 21 | 1.302,81 | 1.302,81 | 2.605,62 |
+| Total de Cargos | 58 |  |  |  |
 
 B - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL – SUDECAP
 
-|CARGOS COMISSIONADOS |QUANTIDADE DE VAGAS |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-| | |R$ |EXCLUSIVA |R$ |
-
-| | | |R$ | |
-
-|Assessor |6 |3.085,58 |3.085,58 |6.171,16 |
-
-|Chefe de Gabinete |1 |3.085,58 |3.085,58 |6.171,16 |
-
-|Gerente de Departamento |26 |3.085,58 |3.085,58 |6.171,16 |
-
-|Gerente de Divisão |46 |1.842,78 |1.842,78 |3.685,56 |
-
-|Gerente de Seção |12 |1.302,81 |1.302,81 |2.605,62 |
-
-|Secretária |8 |1.302,81 |1.302,81 |2.605,62 |
-
-|Total de Cargos |99 | | | |
+| CARGOS COMISSIONADOS | QUANTIDADE DE VAGAS | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- | --- |
+|  |  | R$ | EXCLUSIVA | R$ |
+|  |  |  | R$ |  |
+| Assessor | 6 | 3.085,58 | 3.085,58 | 6.171,16 |
+| Chefe de Gabinete | 1 | 3.085,58 | 3.085,58 | 6.171,16 |
+| Gerente de Departamento | 26 | 3.085,58 | 3.085,58 | 6.171,16 |
+| Gerente de Divisão | 46 | 1.842,78 | 1.842,78 | 3.685,56 |
+| Gerente de Seção | 12 | 1.302,81 | 1.302,81 | 2.605,62 |
+| Secretária | 8 | 1.302,81 | 1.302,81 | 2.605,62 |
+| Total de Cargos | 99 |  |  |  |
 
 Anexo IV revogado pela Lei nº 11.163, de 1º/4/2019 (Art. 27, X)
 
@@ -3848,57 +3603,36 @@ ANEXO V
 
 Remuneração dos cargos do Grupo de Direção Superior Municipal – DSM
 
-|ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal – DSM |VALOR |
-
-| |(EM R$) |
-
-|Chefe de Gabinete do Prefeito |17.083,81 |
-
-|Chefe de Gabinete do Vice-Prefeito |15.500,00 |
-
-|Coordenador de Atendimento Regional |15.500,00 |
-
-|Subsecretário /Subprocurador / Subcontrolador |15.500,00 |
-
-|Consultor Técnico Especializado |17.083,81 |
-
-|Assessor Especial |14.521,24 |
-
-| | |
-
-|FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |
-
-|Grupo de Direção Superior Municipal – DSM |VALOR |
-
-|Presidente |20.811,18 |
-
-| | |
-
-|FUNDAÇÃO MUNICIPAL DE CULTURA |
-
-|Grupo de Direção Superior Municipal – DSM |VALOR |
-
-|Presidente |20.811,18 |
-
-|SUPERINTENDÊNCIA DE LIMPEZA URBANA |
-
-|Grupo de Direção Superior Municipal – DSM |VALOR |
-
-|Superintendente |20.811,18 |
-
-|Diretor |17.083,81 |
+| ADMINISTRAÇÃO DIRETA |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal – DSM | VALOR |
+|  | (EM R$) |
+| Chefe de Gabinete do Prefeito | 17.083,81 |
+| Chefe de Gabinete do Vice-Prefeito | 15.500,00 |
+| Coordenador de Atendimento Regional | 15.500,00 |
+| Subsecretário /Subprocurador / Subcontrolador | 15.500,00 |
+| Consultor Técnico Especializado | 17.083,81 |
+| Assessor Especial | 14.521,24 |
+|  |  |
+| FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |  |
+| Grupo de Direção Superior Municipal – DSM | VALOR |
+| Presidente | 20.811,18 |
+|  |  |
+| FUNDAÇÃO MUNICIPAL DE CULTURA |  |
+| Grupo de Direção Superior Municipal – DSM | VALOR |
+| Presidente | 20.811,18 |
+| SUPERINTENDÊNCIA DE LIMPEZA URBANA |  |
+| Grupo de Direção Superior Municipal – DSM | VALOR |
+| Superintendente | 20.811,18 |
+| Diretor | 17.083,81 |
 
 Quadro acrescentado pela Lei nº 11.080, de 30/11/2017 (Art. 42)
 
-|SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL – SUDECAP |
-
-|Grupo de Direção Superior Municipal – DSM |VALOR |
-
-|Superintendente |20.811,18 |
-
-|Diretor |17.083,81 |
+| SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL – SUDECAP |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal – DSM | VALOR |
+| Superintendente | 20.811,18 |
+| Diretor | 17.083,81 |
 
 Quadro acrescentado pela Lei nº 11.080, de 30/11/2017 (Art. 42)
 
@@ -3908,49 +3642,29 @@ Remuneração dos cargos do Grupo de Direção Superior Municipal – DSM
 
 Anexo V com redação dada pela Lei nº 11.163, de 1º/4/2019 (Art. 24)
 
-|ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR |
-
-| |(EM R$) |
-
-|Chefe de Gabinete do Prefeito |17.083,81 |
-
-|Chefe de Gabinete do Vice-Prefeito |15.500,00 |
-
-|Coordenador de Atendimento Regional |15.500,00 |
-
-|Subsecretário/Subprocurador /Subcontrolador |15.500,00 |
-
-|Consultor Técnico Especializado |17.083,81 |
-
-|Assessor Especial |14.521,24 |
-
-|Coordenador de Atendimento Regional Adjunto |11.011,21 |
-
-|Linha acrescentada pela Lei nº 11.491, de 10/5/2023 (Art. 16) |
-
-| |
-
-|FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |
-
-|FUNDAÇÃO MUNICIPAL DE CULTURA |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR |
-
-|Presidente |20.811,18 |
-
-|SUPERINTENDÊNCIA DE LIMPEZA URBANA |
-
-|SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |
-
-|HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR |
-
-|Superintendente |20.811,18 |
-
-|Diretor |15.500,00 |
+| ADMINISTRAÇÃO DIRETA |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | VALOR |
+|  | (EM R$) |
+| Chefe de Gabinete do Prefeito | 17.083,81 |
+| Chefe de Gabinete do Vice-Prefeito | 15.500,00 |
+| Coordenador de Atendimento Regional | 15.500,00 |
+| Subsecretário/Subprocurador /Subcontrolador | 15.500,00 |
+| Consultor Técnico Especializado | 17.083,81 |
+| Assessor Especial | 14.521,24 |
+| Coordenador de Atendimento Regional Adjunto | 11.011,21 |
+| Linha acrescentada pela Lei nº 11.491, de 10/5/2023 (Art. 16) |  |
+|  |  |
+| FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |  |
+| FUNDAÇÃO MUNICIPAL DE CULTURA |  |
+| Grupo de Direção Superior Municipal - DSM | VALOR |
+| Presidente | 20.811,18 |
+| SUPERINTENDÊNCIA DE LIMPEZA URBANA |  |
+| SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |  |
+| HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |  |
+| Grupo de Direção Superior Municipal - DSM | VALOR |
+| Superintendente | 20.811,18 |
+| Diretor | 15.500,00 |
 
 ANEXO V
 
@@ -3960,81 +3674,49 @@ Anexo V com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 27)
 
 Anexo V com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/2025 (Art. 59)
 
-|ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR (EM R$) |
-
-|Chefe de Gabinete do Prefeito |19.032,23 |
-
-|Chefe de Gabinete do Vice-Prefeito |17.267,79 |
-
-|Administrador Regional/Coordenador Especial |17.267,79 |
-
-|Administrador Regional Adjunto/Coordenador Especial Adjunto |11.011,21 |
-
-|Subsecretário/Subprocurador /Subcontrolador |17.267,79 |
-
-|Consultor Técnico Especializado |19.032,23 |
-
-|Assessor-Chefe |17.267,79 |
-
-|Assessor Especial |16.177,40 |
-
-| |
-
-|FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |
-
-|FUNDAÇÃO MUNICIPAL DE CULTURA |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR (EM R$) |
-
-|Presidente |23.184,71 |
-
-|Vice-Presidente |19.032,23 |
-
-|SUPERINTENDÊNCIA DE LIMPEZA URBANA |
-
-|SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |
-
-|SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |
-
-|HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR (EM R$) |
-
-|Superintendente |23.184,71 |
-
-|Superintendente Adjunto |19.032,23 |
-
-|Diretor |17.267,79 |
+| ADMINISTRAÇÃO DIRETA |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | VALOR (EM R$) |
+| Chefe de Gabinete do Prefeito | 19.032,23 |
+| Chefe de Gabinete do Vice-Prefeito | 17.267,79 |
+| Administrador Regional/Coordenador Especial | 17.267,79 |
+| Administrador Regional Adjunto/Coordenador Especial Adjunto | 11.011,21 |
+| Subsecretário/Subprocurador /Subcontrolador | 17.267,79 |
+| Consultor Técnico Especializado | 19.032,23 |
+| Assessor-Chefe | 17.267,79 |
+| Assessor Especial | 16.177,40 |
+|  |  |
+| FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |  |
+| FUNDAÇÃO MUNICIPAL DE CULTURA |  |
+| Grupo de Direção Superior Municipal - DSM | VALOR (EM R$) |
+| Presidente | 23.184,71 |
+| Vice-Presidente | 19.032,23 |
+| SUPERINTENDÊNCIA DE LIMPEZA URBANA |  |
+| SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |  |
+| SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |  |
+| HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |  |
+| Grupo de Direção Superior Municipal - DSM | VALOR (EM R$) |
+| Superintendente | 23.184,71 |
+| Superintendente Adjunto | 19.032,23 |
+| Diretor | 17.267,79 |
 
 ANEXO VI
 
 Remuneração dos cargos do Grupo de Direção e Assessoramento Municipal – DAM
 
-|CARGO |DAM-UNITÁRIO |VENCIMENTO |COMPLEMENTAÇÃO |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |(em R$) |(em R$) |DEDICAÇÃO EXCLUSIVA |(em R$) |
-
-| | | | |(em R$) | |
-
-|DAM -1 |1 |271,86 |353,14 |625,00 |1.250,00 |
-
-|DAM-2 |1,5 |271,86 |665,64 |937,50 |1.875,00 |
-
-|DAM-3 |2 |294,88 |955,12 |1.250,00 |2.500,00 |
-
-|DAM-4 |3 |368,72 |1.506,28 |1.875,00 |3.750,00 |
-
-|DAM-5 |4 |768,28 |1.731,72 |2.500,00 |5.000,00 |
-
-|DAM-6 |5 |768,28 |2.356,72 |3.125,00 |6.250,00 |
-
-|DAM-7 |6 |768,28 |2.981,72 |3.750,00 |7.500,00 |
-
-|DAM-8 |7 |768,28 |3.606,72 |4.375,00 |8.750,00 |
-
-|DAM-9 |8 |768,28 |4.231,72 |5.000,00 |10.000,00 |
+| CARGO | DAM-UNITÁRIO | VENCIMENTO | COMPLEMENTAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- | --- | --- |
+|  |  | (em R$) | (em R$) | DEDICAÇÃO EXCLUSIVA | (em R$) |
+|  |  |  |  | (em R$) |  |
+| DAM -1 | 1 | 271,86 | 353,14 | 625,00 | 1.250,00 |
+| DAM-2 | 1,5 | 271,86 | 665,64 | 937,50 | 1.875,00 |
+| DAM-3 | 2 | 294,88 | 955,12 | 1.250,00 | 2.500,00 |
+| DAM-4 | 3 | 368,72 | 1.506,28 | 1.875,00 | 3.750,00 |
+| DAM-5 | 4 | 768,28 | 1.731,72 | 2.500,00 | 5.000,00 |
+| DAM-6 | 5 | 768,28 | 2.356,72 | 3.125,00 | 6.250,00 |
+| DAM-7 | 6 | 768,28 | 2.981,72 | 3.750,00 | 7.500,00 |
+| DAM-8 | 7 | 768,28 | 3.606,72 | 4.375,00 | 8.750,00 |
+| DAM-9 | 8 | 768,28 | 4.231,72 | 5.000,00 | 10.000,00 |
 
 ANEXO VI
 
@@ -4042,29 +3724,19 @@ Remuneração dos cargos do Grupo de Direção e Assessoramento Municipal – DA
 
 Anexo VI com redação dada pela Lei nº 11.080, de 30/11/2017 (Art. 3º, II)
 
-|CARGO |DAM-UNITÁRIO |VENCIMENTO |COMPLEMENTAÇÃO |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |(em R$) |(em R$) |DEDICAÇÃO EXCLUSIVA |(em R$) |
-
-| | | | |(em R$) | |
-
-|DAM-1 |1 |278,74 |362,07 |640,81 |1.281,63 |
-
-|DAM-2 |1,5 |278,74 |682,48 |961,22 |1.922,44 |
-
-|DAM-3 |2 |302,34 |979,28 |1.281,63 |2.563,25 |
-
-|DAM-4 |3 |378,05 |1.544,39 |1.922,44 |3.844,88 |
-
-|DAM-5 |4 |787,72 |1.775,53 |2.563,25 |5.126,50 |
-
-|DAM-6 |5 |787,72 |2.416,35 |3.204,06 |6.408,13 |
-
-|DAM-7 |6 |787,72 |3.057,16 |3.844,88 |7.689,75 |
-
-|DAM-8 |7 |787,72 |3.697,97 |4.485,69 |8.971,38 |
-
-|DAM-9 |8 |787,72 |4.338,78 |5.126,50 |10.253,00 |
+| CARGO | DAM-UNITÁRIO | VENCIMENTO | COMPLEMENTAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- | --- | --- |
+|  |  | (em R$) | (em R$) | DEDICAÇÃO EXCLUSIVA | (em R$) |
+|  |  |  |  | (em R$) |  |
+| DAM-1 | 1 | 278,74 | 362,07 | 640,81 | 1.281,63 |
+| DAM-2 | 1,5 | 278,74 | 682,48 | 961,22 | 1.922,44 |
+| DAM-3 | 2 | 302,34 | 979,28 | 1.281,63 | 2.563,25 |
+| DAM-4 | 3 | 378,05 | 1.544,39 | 1.922,44 | 3.844,88 |
+| DAM-5 | 4 | 787,72 | 1.775,53 | 2.563,25 | 5.126,50 |
+| DAM-6 | 5 | 787,72 | 2.416,35 | 3.204,06 | 6.408,13 |
+| DAM-7 | 6 | 787,72 | 3.057,16 | 3.844,88 | 7.689,75 |
+| DAM-8 | 7 | 787,72 | 3.697,97 | 4.485,69 | 8.971,38 |
+| DAM-9 | 8 | 787,72 | 4.338,78 | 5.126,50 | 10.253,00 |
 
 ANEXO VII
 
@@ -4072,111 +3744,69 @@ Remuneração dos cargos dos Quadros Específicos
 
 A – Da Secretaria Municipal de Educação
 
-|CARGO PÚBLICO EM COMISSÃO |VENCIMENTO-BASE |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA|REMUNERAÇÃO TOTAL |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|Secretário de Estabelecimento de Ensino I |1.102,71 |752,36 |1.855,07 |
-
-|Secretário de Estabelecimento de Ensino II |1.141,30 |835,96 |1.977,25 |
-
-|Secretário de Estabelecimento de Ensino III|1.179,89 |919,55 |2.099,44 |
-
-|Secretário de Estabelecimento de Ensino IV |1.221,18 |1.003,15 |2.224,33 |
-
-|Secretário de Estabelecimento de Ensino V |1.262,50 |1.086,74 |2.349,24 |
-
-|Vice-Diretor de Estabelecimento de Ensino I|2.524,23 |1.671,91 |4.196,14 |
-
-|Vice-Diretor de Estabelecimento de Ensino |2.625,20 |1.922,70 |4.547,90 |
-
-|II | | | |
-
-|Vice-Diretor de Estabelecimento de Ensino |2.726,19 |2.173,49 |4.899,68 |
-
-|III | | | |
-
-|Vice-Diretor de Estabelecimento de Ensino |2.830,42 |2.424,27 |5.254,69 |
-
-|IV | | | |
-
-|Vice-Diretor de Estabelecimento de Ensino V|2.934,64 |2.675,06 |5.609,70 |
-
-|Vice-Diretor de Estabelecimento de Ensino I|2.524,23 |1.671,91 |4.196,14 |
-
-|UMEI | | | |
-
-|Vice-Diretor de Estabelecimento de Ensino |2.625,20 |1.922,70 |4.547,90 |
-
-|II UMEI | | | |
-
-|Vice-Diretor de Estabelecimento de Ensino |2.726,19 |2.173,49 |4.899,68 |
-
-|III UMEI | | | |
-
-|Vice-Diretor de Estabelecimento de Ensino |2.830,42 |2.424,27 |5.254,69 |
-
-|IV UMEI | | | |
-
-|Vice-Diretor de Estabelecimento de Ensino V|2.934,64 |2.675,06 |5.609,70 |
-
-|UMEI | | | |
-
-|Diretor de Estabelecimento de Ensino I |2.726,18 |2.006,30 |4.732,48 |
-
-|Diretor de Estabelecimento de Ensino II |2.830,42 |2.257,08 |5.087,50 |
-
-|Diretor de Estabelecimento de Ensino III |2.934,64 |2.507,87 |5.442,51 |
-
-|Diretor de Estabelecimento de Ensino IV |3.067,99 |2.758,66 |5.826,65 |
-
-|Diretor de Estabelecimento de Ensino V |3.201,38 |3.009,44 |6.210,82 |
-
-|Diretor de Centro de Aperfeiçoamento |3.201,37 |3.009,44 |6.210,81 |
-
-|Profissional da Educação | | | |
-
-|Vice-Diretor de Centro de Aperfeiçoamento |2.934,64 |2.675,06 |5.609,70 |
-
-|Profissional da Educação | | | |
-
-|Coordenador de Projetos Especiais da |1.797,31 |1.797,31 |3.594,61 |
-
-|Educação | | | |
+| CARGO PÚBLICO EM COMISSÃO | VENCIMENTO-BASE | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | (em R$) | (em R$) |
+| Secretário de Estabelecimento de Ensino I | 1.102,71 | 752,36 | 1.855,07 |
+| Secretário de Estabelecimento de Ensino II | 1.141,30 | 835,96 | 1.977,25 |
+| Secretário de Estabelecimento de Ensino III | 1.179,89 | 919,55 | 2.099,44 |
+| Secretário de Estabelecimento de Ensino IV | 1.221,18 | 1.003,15 | 2.224,33 |
+| Secretário de Estabelecimento de Ensino V | 1.262,50 | 1.086,74 | 2.349,24 |
+| Vice-Diretor de Estabelecimento de Ensino I | 2.524,23 | 1.671,91 | 4.196,14 |
+| Vice-Diretor de Estabelecimento de Ensino | 2.625,20 | 1.922,70 | 4.547,90 |
+| II |  |  |  |
+| Vice-Diretor de Estabelecimento de Ensino | 2.726,19 | 2.173,49 | 4.899,68 |
+| III |  |  |  |
+| Vice-Diretor de Estabelecimento de Ensino | 2.830,42 | 2.424,27 | 5.254,69 |
+| IV |  |  |  |
+| Vice-Diretor de Estabelecimento de Ensino V | 2.934,64 | 2.675,06 | 5.609,70 |
+| Vice-Diretor de Estabelecimento de Ensino I | 2.524,23 | 1.671,91 | 4.196,14 |
+| UMEI |  |  |  |
+| Vice-Diretor de Estabelecimento de Ensino | 2.625,20 | 1.922,70 | 4.547,90 |
+| II UMEI |  |  |  |
+| Vice-Diretor de Estabelecimento de Ensino | 2.726,19 | 2.173,49 | 4.899,68 |
+| III UMEI |  |  |  |
+| Vice-Diretor de Estabelecimento de Ensino | 2.830,42 | 2.424,27 | 5.254,69 |
+| IV UMEI |  |  |  |
+| Vice-Diretor de Estabelecimento de Ensino V | 2.934,64 | 2.675,06 | 5.609,70 |
+| UMEI |  |  |  |
+| Diretor de Estabelecimento de Ensino I | 2.726,18 | 2.006,30 | 4.732,48 |
+| Diretor de Estabelecimento de Ensino II | 2.830,42 | 2.257,08 | 5.087,50 |
+| Diretor de Estabelecimento de Ensino III | 2.934,64 | 2.507,87 | 5.442,51 |
+| Diretor de Estabelecimento de Ensino IV | 3.067,99 | 2.758,66 | 5.826,65 |
+| Diretor de Estabelecimento de Ensino V | 3.201,38 | 3.009,44 | 6.210,82 |
+| Diretor de Centro de Aperfeiçoamento | 3.201,37 | 3.009,44 | 6.210,81 |
+| Profissional da Educação |  |  |  |
+| Vice-Diretor de Centro de Aperfeiçoamento | 2.934,64 | 2.675,06 | 5.609,70 |
+| Profissional da Educação |  |  |  |
+| Coordenador de Projetos Especiais da | 1.797,31 | 1.797,31 | 3.594,61 |
+| Educação |  |  |  |
 
 B – Da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|Supervisor de Alimentação |1.072,76 |1.072,76 |2.145,53 |
-
-|Escolar | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | (em R$) | (em R$) |
+| Supervisor de Alimentação | 1.072,76 | 1.072,76 | 2.145,53 |
+| Escolar |  |  |  |
 
 C – Da Secretaria Municipal de Saúde
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|Coordenador de Serviço de Controle |643,69 |643,69 |1.287,37 |
-
-|de Zoonoses | | | |
-
-|Encarregado de Serviço de Controle |481,51 |481,51 |963,02 |
-
-|de Zoonoses | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | (em R$) | (em R$) |
+| Coordenador de Serviço de Controle | 643,69 | 643,69 | 1.287,37 |
+| de Zoonoses |  |  |  |
+| Encarregado de Serviço de Controle | 481,51 | 481,51 | 963,02 |
+| de Zoonoses |  |  |  |
 
 D - Secretaria Municipal de Segurança e Prevenção
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|Subinspetor da Guarda Municipal de |1.270,66 |1.270,66 |2.541,32 |
-
-|Belo Horizonte | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | (em R$) | (em R$) |
+| Subinspetor da Guarda Municipal de | 1.270,66 | 1.270,66 | 2.541,32 |
+| Belo Horizonte |  |  |  |
 
 ANEXO VII
 
@@ -4186,163 +3816,100 @@ Anexo VII com redação dada pela Lei nº 11.080, de 30/11/2017 (Art. 3º, III)
 
 A - Da Secretaria Municipal de Educação
 
-|CARGO PÚBLICO EM COMISSÃO |VENCIMENTO-BASE |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |EXCLUSIVA |(em R$) |
-
-| | |(em R$) | |
-
-|Secretário de Estabelecimento de Ensino I |1.130,61 |771,40 |1.902,01 |
-
-|Secretário de Estabelecimento de Ensino II |1.170,17 |857,11 |2.027,28 |
-
-|Secretário de Estabelecimento de Ensino III |1.209,74 |942,82 |2.152,56 |
-
-|Secretário de Estabelecimento de Ensino IV |1.252,08 |1.028,53 |2.280,61 |
-
-|Secretário de Estabelecimento de Ensino V |1.294,44 |1.114,24 |2.408,68 |
-
-|Vice-Diretor de Estabelecimento de Ensino I |2.588,09 |1.714,21 |4.302,30 |
-
-|Vice-Diretor de Estabelecimento de Ensino II |2.691,62 |1.971,34 |4.662,96 |
-
-|Vice-Diretor de Estabelecimento de Ensino III |2.795,16 |2.228,48 |5.023,64 |
-
-|Vice-Diretor de Estabelecimento de Ensino IV |2.902,02 |2.485,61 |5.387,63 |
-
-|Vice-Diretor de Estabelecimento de Ensino V |3.008,89 |2.742,74 |5.751,63 |
-
-|Vice-Diretor de Estabelecimento de Ensino I UMEI |2.588,09 |1.714,21 |4.302,30 |
-
-|Vice-Diretor de Estabelecimento de Ensino II UMEI |2.691,62 |1.971,34 |4.662,96 |
-
-|Vice-Diretor de Estabelecimento de Ensino III UMEI |2.795,16 |2.228,48 |5.023,64 |
-
-|Vice-Diretor de Estabelecimento de Ensino IV UMEI |2.902,02 |2.485,61 |5.387,63 |
-
-|Vice-Diretor de Estabelecimento de Ensino V UMEI |3.008,89 |2.742,74 |5.751,63 |
-
-|Diretor de Estabelecimento de Ensino I |2.795,16 |2.057,06 |4.852,22 |
-
-|Diretor de Estabelecimento de Ensino II |2.902,02 |2.314,19 |5.216,21 |
-
-|Diretor de Estabelecimento de Ensino III |3.008,89 |2.571,32 |5.580,21 |
-
-|Diretor de Estabelecimento de Ensino IV |3.145,61 |2.828,45 |5.974,06 |
-
-|Diretor de Estabelecimento de Ensino V |3.282,37 |3.085,58 |6.367,95 |
-
-|Diretor de Centro de Aperfeiçoamento Profissional da |3.282,36 |3.085,58 |6.367,94 |
-
-|Educação | | | |
-
-|Vice-Diretor de Centro de Aperfeiçoamento Profissional|3.008,89 |2.742,74 |5.751,63 |
-
-|da Educação | | | |
-
-|Coordenador de Projetos Especiais da Educação |1.842,78 |1.842,78 |3.685,56 |
+| CARGO PÚBLICO EM COMISSÃO | VENCIMENTO-BASE | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | EXCLUSIVA | (em R$) |
+|  |  | (em R$) |  |
+| Secretário de Estabelecimento de Ensino I | 1.130,61 | 771,40 | 1.902,01 |
+| Secretário de Estabelecimento de Ensino II | 1.170,17 | 857,11 | 2.027,28 |
+| Secretário de Estabelecimento de Ensino III | 1.209,74 | 942,82 | 2.152,56 |
+| Secretário de Estabelecimento de Ensino IV | 1.252,08 | 1.028,53 | 2.280,61 |
+| Secretário de Estabelecimento de Ensino V | 1.294,44 | 1.114,24 | 2.408,68 |
+| Vice-Diretor de Estabelecimento de Ensino I | 2.588,09 | 1.714,21 | 4.302,30 |
+| Vice-Diretor de Estabelecimento de Ensino II | 2.691,62 | 1.971,34 | 4.662,96 |
+| Vice-Diretor de Estabelecimento de Ensino III | 2.795,16 | 2.228,48 | 5.023,64 |
+| Vice-Diretor de Estabelecimento de Ensino IV | 2.902,02 | 2.485,61 | 5.387,63 |
+| Vice-Diretor de Estabelecimento de Ensino V | 3.008,89 | 2.742,74 | 5.751,63 |
+| Vice-Diretor de Estabelecimento de Ensino I UMEI | 2.588,09 | 1.714,21 | 4.302,30 |
+| Vice-Diretor de Estabelecimento de Ensino II UMEI | 2.691,62 | 1.971,34 | 4.662,96 |
+| Vice-Diretor de Estabelecimento de Ensino III UMEI | 2.795,16 | 2.228,48 | 5.023,64 |
+| Vice-Diretor de Estabelecimento de Ensino IV UMEI | 2.902,02 | 2.485,61 | 5.387,63 |
+| Vice-Diretor de Estabelecimento de Ensino V UMEI | 3.008,89 | 2.742,74 | 5.751,63 |
+| Diretor de Estabelecimento de Ensino I | 2.795,16 | 2.057,06 | 4.852,22 |
+| Diretor de Estabelecimento de Ensino II | 2.902,02 | 2.314,19 | 5.216,21 |
+| Diretor de Estabelecimento de Ensino III | 3.008,89 | 2.571,32 | 5.580,21 |
+| Diretor de Estabelecimento de Ensino IV | 3.145,61 | 2.828,45 | 5.974,06 |
+| Diretor de Estabelecimento de Ensino V | 3.282,37 | 3.085,58 | 6.367,95 |
+| Diretor de Centro de Aperfeiçoamento Profissional da | 3.282,36 | 3.085,58 | 6.367,94 |
+| Educação |  |  |  |
+| Vice-Diretor de Centro de Aperfeiçoamento Profissional | 3.008,89 | 2.742,74 | 5.751,63 |
+| da Educação |  |  |  |
+| Coordenador de Projetos Especiais da Educação | 1.842,78 | 1.842,78 | 3.685,56 |
 
 A - Secretaria Municipal de Educação
 
-|Cargo Público em Comissão |Vencimento-Base |Gratificação de |Remuneração Total |
-
-| |(em R$) |Dedicação |(em R$) |
-
-| | |Exclusiva | |
-
-| | |(em R$) | |
-
-|Secretário Escolar I |1.130,61 |493,69 |1.624,30 |
-
-|Secretário Escolar II |1.159,21 |771,03 |1.930,24 |
-
-|Vice-Diretor de Escola Municipal I |2.588,09 |1.714,21 |4.302,30 |
-
-|Vice-Diretor de Escola Municipal II |2.691,62 |1.971,34 |4.662,96 |
-
-|Vice-Diretor de Escola Municipal III |2.795,16 |2.228,48 |5.023,64 |
-
-|Vice-Diretor de Escola Municipal IV |2.902,03 |2.485,60 |5.387,63 |
-
-|Vice-Diretor de Escola Municipal V |3.008,89 |2.742,74 |5.751,63 |
-
-|Diretor de Escola Municipal I |2.795,15 |2.057,06 |4.852,21 |
-
-|Diretor de Escola Municipal II |2.902,03 |2.314,18 |5.216,21 |
-
-|Diretor de Escola Municipal III |3.008,89 |2.571,32 |5.580,21 |
-
-|Diretor de Escola Municipal IV |3.145,61 |2.828,45 |5.974,06 |
-
-|Diretor de Escola Municipal V |3.282,37 |3.085,58 |6.367,95 |
-
-|Diretor de EMEI I |2.588,09 |1.714,21 |4.302,30 |
-
-|Diretor de EMEI II |2.691,62 |1.971,34 |4.662,96 |
-
-|Diretor de EMEI III |2.795,16 |2.228,48 |5.023,64 |
-
-|Diretor de EMEI IV |2.898,71 |2.485,61 |5.384,32 |
-
-|Diretor de EMEI V |3.002,26 |2.742,74 |5.745,00 |
-
-|Vice-Diretor de EMEI I |2.476,28 |1.230,36 |3.706,64 |
-
-|Vice-Diretor de EMEI II |2.578,81 |1.486,69 |4.065,50 |
-
-|Vice-Diretor de EMEI III |2.681,34 |1.743,01 |4.424,35 |
-
-|Vice-Diretor de EMEI IV |2.783,87 |1.999,34 |4.783,21 |
-
-|Vice-Diretor de EMEI V |2.886,40 |2.255,67 |5.142,07 |
-
-|Coordenador Pedagógico Geral I |2.476,28 |710,61 |3.186,90 |
-
-|Coordenador Pedagógico Geral II |2.653,57 |947,48 |3.601,06 |
-
-|Diretor de Centro de Aperfeiçoamento |3.282,36 |3.085,58 |6.367,94 |
-
-|Profissional da Educação | | | |
-
-|Vice-Diretor de Centro de |3.008,89 |2.742,74 |5.751,63 |
-
-|Aperfeiçoamento Profissional da Educação| | | |
-
-|Coordenador de Projetos Especiais da |1.842,78 |1.842,78 |3.685,56 |
-
-|Educação | | | |
+| Cargo Público em Comissão | Vencimento-Base | Gratificação de | Remuneração Total |
+| --- | --- | --- | --- |
+|  | (em R$) | Dedicação | (em R$) |
+|  |  | Exclusiva |  |
+|  |  | (em R$) |  |
+| Secretário Escolar I | 1.130,61 | 493,69 | 1.624,30 |
+| Secretário Escolar II | 1.159,21 | 771,03 | 1.930,24 |
+| Vice-Diretor de Escola Municipal I | 2.588,09 | 1.714,21 | 4.302,30 |
+| Vice-Diretor de Escola Municipal II | 2.691,62 | 1.971,34 | 4.662,96 |
+| Vice-Diretor de Escola Municipal III | 2.795,16 | 2.228,48 | 5.023,64 |
+| Vice-Diretor de Escola Municipal IV | 2.902,03 | 2.485,60 | 5.387,63 |
+| Vice-Diretor de Escola Municipal V | 3.008,89 | 2.742,74 | 5.751,63 |
+| Diretor de Escola Municipal I | 2.795,15 | 2.057,06 | 4.852,21 |
+| Diretor de Escola Municipal II | 2.902,03 | 2.314,18 | 5.216,21 |
+| Diretor de Escola Municipal III | 3.008,89 | 2.571,32 | 5.580,21 |
+| Diretor de Escola Municipal IV | 3.145,61 | 2.828,45 | 5.974,06 |
+| Diretor de Escola Municipal V | 3.282,37 | 3.085,58 | 6.367,95 |
+| Diretor de EMEI I | 2.588,09 | 1.714,21 | 4.302,30 |
+| Diretor de EMEI II | 2.691,62 | 1.971,34 | 4.662,96 |
+| Diretor de EMEI III | 2.795,16 | 2.228,48 | 5.023,64 |
+| Diretor de EMEI IV | 2.898,71 | 2.485,61 | 5.384,32 |
+| Diretor de EMEI V | 3.002,26 | 2.742,74 | 5.745,00 |
+| Vice-Diretor de EMEI I | 2.476,28 | 1.230,36 | 3.706,64 |
+| Vice-Diretor de EMEI II | 2.578,81 | 1.486,69 | 4.065,50 |
+| Vice-Diretor de EMEI III | 2.681,34 | 1.743,01 | 4.424,35 |
+| Vice-Diretor de EMEI IV | 2.783,87 | 1.999,34 | 4.783,21 |
+| Vice-Diretor de EMEI V | 2.886,40 | 2.255,67 | 5.142,07 |
+| Coordenador Pedagógico Geral I | 2.476,28 | 710,61 | 3.186,90 |
+| Coordenador Pedagógico Geral II | 2.653,57 | 947,48 | 3.601,06 |
+| Diretor de Centro de Aperfeiçoamento | 3.282,36 | 3.085,58 | 6.367,94 |
+| Profissional da Educação |  |  |  |
+| Vice-Diretor de Centro de | 3.008,89 | 2.742,74 | 5.751,63 |
+| Aperfeiçoamento Profissional da Educação |  |  |  |
+| Coordenador de Projetos Especiais da | 1.842,78 | 1.842,78 | 3.685,56 |
+| Educação |  |  |  |
 
 Quadro A do Anexo VII com redação dada pela Lei nº 11.132, de 18/9/2018 (art. 35)
 
 B - Da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|Supervisor de Alimentação Escolar |1.099,90 |1.099,90 |2.199,80 |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | (em R$) | (em R$) |
+| Supervisor de Alimentação Escolar | 1.099,90 | 1.099,90 | 2.199,80 |
 
 B - Da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania
 
 Item B com redação dada pela Lei nº 11.163, de 1º/4/2019 (Art. 25)
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|Supervisor de Alimentação |1.099,90 |1.099,90 |2.199,80 |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | (em R$) | (em R$) |
+| Supervisor de Alimentação | 1.099,90 | 1.099,90 | 2.199,80 |
 
 B - Da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania:
 
-|CARGO PÚBLICO EM |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-|COMISSÃO |(em R$) |EXCLUSIVA |(em R$) |
-
-| | |(em R$) | |
-
-|Supervisor de |1.126,63 |1.126,63 |2.253,26 |
-
-|Alimentação | | | |
+| CARGO PÚBLICO EM | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+| COMISSÃO | (em R$) | EXCLUSIVA | (em R$) |
+|  |  | (em R$) |  |
+| Supervisor de | 1.126,63 | 1.126,63 | 2.253,26 |
+| Alimentação |  |  |  |
 
 Item B com redação dada pela Lei nº 11.222, de 19/3/2020 (Art. 15)
 
@@ -4352,69 +3919,54 @@ B - Secretaria Municipal de Segurança Alimentar e Nutricional
 
 Título do quadro B com redação dada pela Lei nº 12.143, de 24/9/2026 (Art. 31)
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |EXCLUSIVA |(em R$) |
-
-| | |(em R$) | |
-
-|Supervisor de Alimentação |2.215,32 |2.215,32 |4.430,64 |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | EXCLUSIVA | (em R$) |
+|  |  | (em R$) |  |
+| Supervisor de Alimentação | 2.215,32 | 2.215,32 | 4.430,64 |
 
 Item B com redação dada pela Lei nº 11.539, de 5/7/2023 (Art. 45)
 
 C - Da Secretaria Municipal de Saúde
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|Coordenador de Serviço de Controle de |659,98 |659,98 |1.319,96 |
-
-|Zoonoses | | | |
-
-|Encarregado de Serviço de Controle de |493,69 |493,69 |987,38 |
-
-|Zoonoses | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | (em R$) | (em R$) |
+| Coordenador de Serviço de Controle de | 659,98 | 659,98 | 1.319,96 |
+| Zoonoses |  |  |  |
+| Encarregado de Serviço de Controle de | 493,69 | 493,69 | 987,38 |
+| Zoonoses |  |  |  |
 
 D - Secretaria Municipal de Segurança e Prevenção
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |EXCLUSIVA |(em R$) |
-
-| | |(em R$) | |
-
-|Subinspetor da Guarda Municipal de Belo |1.302,81 |1.302,81 |2.605,62 |
-
-|Horizonte | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | EXCLUSIVA | (em R$) |
+|  |  | (em R$) |  |
+| Subinspetor da Guarda Municipal de Belo | 1.302,81 | 1.302,81 | 2.605,62 |
+| Horizonte |  |  |  |
 
 Item D revogado pela Lei nº 11.801, de 2/1/2025, a partir de 3/2/2025 (Art. 58, I, "h" c/c art. 59)
 
 E - Da Fundação Municipal de Cultura:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |EXCLUSIVA |(em R$) |
-
-| | |(em R$) | |
-
-|Coordenador de Unidade |2.595,50 |2.595,50 |5.191,00 |
-
-|Cultural nível 1 | | | |
-
-|Coordenador de Unidade |2.831,45 |2.831,45 |5.662,90 |
-
-|Cultural nível 2 | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | EXCLUSIVA | (em R$) |
+|  |  | (em R$) |  |
+| Coordenador de Unidade | 2.595,50 | 2.595,50 | 5.191,00 |
+| Cultural nível 1 |  |  |  |
+| Coordenador de Unidade | 2.831,45 | 2.831,45 | 5.662,90 |
+| Cultural nível 2 |  |  |  |
 
 Item E do Anexo VII acrescentado pela Lei nº 11.491, de 10/5/2023 (Art. 17)
 
 F - Da Secretaria Municipal de Planejamento, Orçamento e Gestão - SMPOG:
 
-|Cargo |Remuneração |
-
-|Diretor de Gestão de Investimentos Previdenciários |R$ 17.000,00 |
-
-|Gerente de Operações e Análise de Mercado |R$ 12.000,00 |
+| Cargo | Remuneração |
+| --- | --- |
+| Diretor de Gestão de Investimentos Previdenciários | R$ 17.000,00 |
+| Gerente de Operações e Análise de Mercado | R$ 12.000,00 |
 
 Item F do Anexo VII acrescentado pela Lei nº 12.148, de 29/9/2026 (Art. 33)
 
@@ -4422,21 +3974,15 @@ ANEXO VIII
 
 Classificação das Funções Gratificadas de Coordenação e Assessoramento – FCA
 
-|NÍVEL |VALOR |FCA-UNITÁRIO |
-
-| |R$ | |
-
-|FCA -1 |500,00 |1 |
-
-|FCA-2 |750,00 |1,5 |
-
-|FCA-3 |1.000,00 |2 |
-
-|FCA-4 |1.250,00 |2,5 |
-
-|FCA-5 |1.500,00 |3 |
-
-|FCA-6 |2.000,00 |4 |
+| NÍVEL | VALOR | FCA-UNITÁRIO |
+| --- | --- | --- |
+|  | R$ |  |
+| FCA -1 | 500,00 | 1 |
+| FCA-2 | 750,00 | 1,5 |
+| FCA-3 | 1.000,00 | 2 |
+| FCA-4 | 1.250,00 | 2,5 |
+| FCA-5 | 1.500,00 | 3 |
+| FCA-6 | 2.000,00 | 4 |
 
 ANEXO VIII
 
@@ -4444,21 +3990,15 @@ Classificação das Funções Gratificadas de Coordenação e Assessoramento –
 
 Anexo VIII com redação dada pela Lei nº 11.080, de 30/11/2017 (Art. 3º, IV)
 
-|NÍVEL |VALOR |FCA-UNITÁRIO |
-
-| |R$ | |
-
-|FCA-1 |512,65 |1 |
-
-|FCA-2 |768,98 |1,5 |
-
-|FCA-3 |1.025,30 |2 |
-
-|FCA-4 |1.281,63 |2,5 |
-
-|FCA-5 |1.537,95 |3 |
-
-|FCA-6 |2.050,60 |4 |
+| NÍVEL | VALOR | FCA-UNITÁRIO |
+| --- | --- | --- |
+|  | R$ |  |
+| FCA-1 | 512,65 | 1 |
+| FCA-2 | 768,98 | 1,5 |
+| FCA-3 | 1.025,30 | 2 |
+| FCA-4 | 1.281,63 | 2,5 |
+| FCA-5 | 1.537,95 | 3 |
+| FCA-6 | 2.050,60 | 4 |
 
 ANEXO IX
 
@@ -4466,127 +4006,92 @@ Remuneração das Funções Públicas
 
 A – Função pública de Conselheiro Tutelar
 
-|Função Gratificada |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Conselheiro Tutelar |45 |3.594,62 |
-
-|Total |45 | |
+| Função Gratificada | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Conselheiro Tutelar | 45 | 3.594,62 |
+| Total | 45 |  |
 
 B – Função pública de Gerente de Unidade de Saúde
 
-|Função Gratificada |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Gerente de Unidade de Saúde I |180 |3.059,90 |
-
-|Gerente de Unidade de Saúde II |71 |3.368,49 |
-
-|Gerente de Unidade de Saúde III |40 |3.680,87 |
-
-|Total |291 | |
+| Função Gratificada | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Gerente de Unidade de Saúde I | 180 | 3.059,90 |
+| Gerente de Unidade de Saúde II | 71 | 3.368,49 |
+| Gerente de Unidade de Saúde III | 40 | 3.680,87 |
+| Total | 291 |  |
 
 C – Função pública de Gerente de Apoio Comunitário
 
-|Função Gratificada |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Gerente de Unidade de Apoio Comunitário |15 |1.593,14 |
-
-|Total |15 | |
+| Função Gratificada | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Gerente de Unidade de Apoio Comunitário | 15 | 1.593,14 |
+| Total | 15 |  |
 
 D – Função pública de Coordenador dos Equipamentos Municipais de Apoio à Família e à Cidadania
 
-|Função Gratificada |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Coordenador dos Equipamentos Municipais de Apoio à Família e à Cidadania |45 |1.593,14 |
-
-|Total |45 | |
+| Função Gratificada | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Coordenador dos Equipamentos Municipais de Apoio à Família e à Cidadania | 45 | 1.593,14 |
+| Total | 45 |  |
 
 E - Função pública instituída no art. 15 da Lei nº 9.443, 18 de outubro de 2007
 
-|Função Gratificada |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Função gratificada instituída no art. 15 da Lei nº 9.443/07 – para jornada |154 |355,00 |
-
-|de 20 horas | | |
-
-|Função gratificada instituída no art. 15 da Lei nº 9.443/07 – para jornada |148 |710,00 |
-
-|de 40 horas | | |
-
-|Total |302 | |
+| Função Gratificada | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Função gratificada instituída no art. 15 da Lei nº 9.443/07 – para jornada | 154 | 355,00 |
+| de 20 horas |  |  |
+| Função gratificada instituída no art. 15 da Lei nº 9.443/07 – para jornada | 148 | 710,00 |
+| de 40 horas |  |  |
+| Total | 302 |  |
 
 F - Função pública de Gerente Adjunto de Unidade de Saúde
 
-|Função Gratificada |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Gerente Adjunto de Unidade de Saúde I |164 |1.530,22 |
-
-|Gerente Adjunto de Unidade de Saúde II |40 |1.684,24 |
-
-|Gerente Adjunto de Unidade de Saúde III |25 |1.840,44 |
-
-|Total |229 | |
+| Função Gratificada | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Gerente Adjunto de Unidade de Saúde I | 164 | 1.530,22 |
+| Gerente Adjunto de Unidade de Saúde II | 40 | 1.684,24 |
+| Gerente Adjunto de Unidade de Saúde III | 25 | 1.840,44 |
+| Total | 229 |  |
 
 G - Função pública gratificada de Gestor Administrativo e Financeiro Escolar
 
-|Função Gratificada |QUANTIDADE DE VAGAS |VENCIMENTO-BASE |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |(em R$) |DEDICAÇÃO EXCLUSIVA |(em R$) |
-
-| | | |(em R$) | |
-
-|Gestor Administrativo e Financeiro |200 |1.270,65 |1.050,12 |2.320,78 |
-
-|Escolar I | | | | |
-
-|Gestor Administrativo e Financeiro | |1.270,65 |1.155,13 |2.425,79 |
-
-|Escolar II | | | | |
-
-|Gestor Administrativo e Financeiro | |1.270,65 |1.270,65 |2.541,31 |
-
-|Escolar III | | | | |
-
-|Gestor Administrativo e Financeiro | |1.270,65 |1.397,71 |2.668,37 |
-
-|Escolar IV | | | | |
-
-|Gestor Administrativo e Financeiro | |1.270,65 |1.537,48 |2.808,13 |
-
-|Escolar V | | | | |
-
-|Total |200 | | | |
+| Função Gratificada | QUANTIDADE DE VAGAS | VENCIMENTO-BASE | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- | --- |
+|  |  | (em R$) | DEDICAÇÃO EXCLUSIVA | (em R$) |
+|  |  |  | (em R$) |  |
+| Gestor Administrativo e Financeiro | 200 | 1.270,65 | 1.050,12 | 2.320,78 |
+| Escolar I |  |  |  |  |
+| Gestor Administrativo e Financeiro |  | 1.270,65 | 1.155,13 | 2.425,79 |
+| Escolar II |  |  |  |  |
+| Gestor Administrativo e Financeiro |  | 1.270,65 | 1.270,65 | 2.541,31 |
+| Escolar III |  |  |  |  |
+| Gestor Administrativo e Financeiro |  | 1.270,65 | 1.397,71 | 2.668,37 |
+| Escolar IV |  |  |  |  |
+| Gestor Administrativo e Financeiro |  | 1.270,65 | 1.537,48 | 2.808,13 |
+| Escolar V |  |  |  |  |
+| Total | 200 |  |  |  |
 
 H - Função pública gratificada de Coordenador do Núcleo de Atendimento às Medidas Socioeducativas e Protetivas
 
-|Função Gratificada |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Coordenador do Núcleo de Atendimento às Medidas Socioeducativas e Protetivas|1 |1.488,92 |
-
-|Total |1 | |
+| Função Gratificada | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Coordenador do Núcleo de Atendimento às Medidas Socioeducativas e Protetivas | 1 | 1.488,92 |
+| Total | 1 |  |
 
 I - Função pública gratificada de Controlador de Tesouraria dos Restaurantes Populares
 
-|Função Gratificada |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Controlador de Tesouraria dos Restaurantes Populares |5 |1.260,00 |
-
-|Total |5 | |
+| Função Gratificada | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Controlador de Tesouraria dos Restaurantes Populares | 5 | 1.260,00 |
+| Total | 5 |  |
 
 ANEXO IX
 
@@ -4596,23 +4101,19 @@ Anexo IX com redação dada pela Lei nº 11.080, de 30/11/2017 (Art. 3º, parág
 
 A - Função pública de Conselheiro Tutelar
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Conselheiro Tutelar |45 |3.685,57 |
-
-|Total |45 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Conselheiro Tutelar | 45 | 3.685,57 |
+| Total | 45 |  |
 
 A - Função pública de Conselheiro Tutelar
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Conselheiro Tutelar |45 |7.201,25 |
-
-|Total |45 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Conselheiro Tutelar | 45 | 7.201,25 |
+| Total | 45 |  |
 
 Item A com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 57)
 
@@ -4620,207 +4121,143 @@ Item A com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/
 
 B - Função pública de Gerente de Unidade de Saúde
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Gerente de Unidade de Saúde I |180 |3.137,32 |
-
-|Gerente de Unidade de Saúde II |71 |3.453,71 |
-
-|Gerente de Unidade de Saúde III |40 |3.773,99 |
-
-|Total |291 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Gerente de Unidade de Saúde I | 180 | 3.137,32 |
+| Gerente de Unidade de Saúde II | 71 | 3.453,71 |
+| Gerente de Unidade de Saúde III | 40 | 3.773,99 |
+| Total | 291 |  |
 
 B - Função pública de Gerente de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO (EM R$) |
-
-|Gerente de Unidade de Saúde I |178 |4.079,00 |
-
-|Gerente de Unidade de Saúde II |71 |4.490,36 |
-
-|Gerente de Unidade de Saúde III |41 44 |4.906,77 |
-
-| |Quantitativo de vagas alterado pela | |
-
-| |Lei nº 11.914, de 30/10/2025 (Art. 55| |
-
-| |com vigência no art. 124) | |
-
-|Total |290 293 | |
-
-| |Quantitativo de vagas alterado pela | |
-
-| |Lei nº 11.914, de 30/10/2025 (Art. 55| |
-
-| |com vigência no art. 124) | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO (EM R$) |
+| --- | --- | --- |
+| Gerente de Unidade de Saúde I | 178 | 4.079,00 |
+| Gerente de Unidade de Saúde II | 71 | 4.490,36 |
+| Gerente de Unidade de Saúde III | 41 44 | 4.906,77 |
+|  | Quantitativo de vagas alterado pela |  |
+|  | Lei nº 11.914, de 30/10/2025 (Art. 55 |  |
+|  | com vigência no art. 124) |  |
+| Total | 290 293 |  |
+|  | Quantitativo de vagas alterado pela |  |
+|  | Lei nº 11.914, de 30/10/2025 (Art. 55 |  |
+|  | com vigência no art. 124) |  |
 
 Item B com redação dada pela Lei nº 11.539, de 5/7/2023 (Art. 46)
 
 C - Função pública de Gerente de Apoio Comunitário
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Gerente de Unidade de Apoio Comunitário |15 |1.633,45 |
-
-|Total |15 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Gerente de Unidade de Apoio Comunitário | 15 | 1.633,45 |
+| Total | 15 |  |
 
 C - Função pública de Coordenador de Proteção Social e Cidadania
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Coordenador de Proteção Social e Cidadania |15 |1.633,45 |
-
-|Total |15 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Coordenador de Proteção Social e Cidadania | 15 | 1.633,45 |
+| Total | 15 |  |
 
 Item C com redação dada pela Lei nº 11.163, de 1º/4/2019 (Art. 26)
 
 C - Função pública de Coordenador de Proteção Social e Cidadania:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO (EM R$) |
-
-|Coordenador de Proteção Social e Cidadania |15 |1.673,14 |
-
-|Total |15 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO (EM R$) |
+| --- | --- | --- |
+| Coordenador de Proteção Social e Cidadania | 15 | 1.673,14 |
+| Total | 15 |  |
 
 Item C com redação dada pela Lei nº 11.222, de 19/3/2020 (Art. 16)
 
 D - Função pública de Coordenador dos Equipamentos Municipais de Apoio à Família e à Cidadania
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Coordenador dos Equipamentos Municipais de |45 |1.633,45 |
-
-|Apoio à Família e à Cidadania | | |
-
-|Total |45 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Coordenador dos Equipamentos Municipais de | 45 | 1.633,45 |
+| Apoio à Família e à Cidadania |  |  |
+| Total | 45 |  |
 
 D - Função pública de Coordenador de Centro de Referência de Assistência Social, de Coordenador de Centro de Referência Especializado de Assistência Social e de Coordenador de Unidade de Acolhimento Institucional.
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Coordenador de Centro de Referência de Assistência |34 |1.633,45 |
-
-|Social | | |
-
-|Coordenador de Centro de Referência Especializado de |9 |1.633,45 |
-
-|Assistência Social | | |
-
-|Coordenador de Acolhimento Institucional |2 |1.633,45 |
-
-|Total |45 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Coordenador de Centro de Referência de Assistência | 34 | 1.633,45 |
+| Social |  |  |
+| Coordenador de Centro de Referência Especializado de | 9 | 1.633,45 |
+| Assistência Social |  |  |
+| Coordenador de Acolhimento Institucional | 2 | 1.633,45 |
+| Total | 45 |  |
 
 Item D com redação dada pela Lei nº 11.163, de 1º/4/2019 (Art. 26)
 
 D - Função pública de Coordenador de Centro de Referência de Assistência Social, de Coordenador de Centro de Referência Especializado de Assistência Social e de Coordenador de Unidade de Acolhimento Institucional:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Coordenador de Centro de Referência de Assistência |34 |1.673,14 |
-
-|Social |40 | |
-
-|Quantitativo com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 28) |
-
-|Quantitivo com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/2025 (Art. 59) |
-
-|Coordenador de Centro de Referência Especializado |9 |1.673,14 |
-
-|de Assistência Social |20 | |
-
-|Quantitativo com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 28) |
-
-|Quantitivo com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/2025 (Art. 59) |
-
-|Coordenador de Acolhimento Institucional |2 |1.673,14 |
-
-|Total |45 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Coordenador de Centro de Referência de Assistência | 34 | 1.673,14 |
+| Social | 40 |  |
+| Quantitativo com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 28) |  |  |
+| Quantitivo com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/2025 (Art. 59) |  |  |
+| Coordenador de Centro de Referência Especializado | 9 | 1.673,14 |
+| de Assistência Social | 20 |  |
+| Quantitativo com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 28) |  |  |
+| Quantitivo com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 3/2/2025 (Art. 59) |  |  |
+| Coordenador de Acolhimento Institucional | 2 | 1.673,14 |
+| Total | 45 |  |
 
 Item D com redação dada pela Lei nº 11.222, de 19/3/2020 (Art. 16)
 
 E - Função pública instituída no art. 15 da Lei nº 9.443, de 18 de outubro de 2007
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Função gratificada instituída no art. 15 da Lei nº 9.443/07 - |154 |376,30 |
-
-|para jornada de 20 horas | | |
-
-|Função gratificada instituída no art. 15 da Lei nº 9.443/07 - |148 |752,58 |
-
-|para jornada de 40 horas | | |
-
-|Total |302 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Função gratificada instituída no art. 15 da Lei nº 9.443/07 - | 154 | 376,30 |
+| para jornada de 20 horas |  |  |
+| Função gratificada instituída no art. 15 da Lei nº 9.443/07 - | 148 | 752,58 |
+| para jornada de 40 horas |  |  |
+| Total | 302 |  |
 
 F - Função pública de Gerente Adjunto de Unidade de Saúde
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Gerente Adjunto de Unidade de Saúde I |164 152 |1.568,94 |
-
-| |Quantitativo de vagas alterado pela | |
-
-| |Lei nº 11.914, de 30/10/2025 (Art. 56| |
-
-| |com vigência no art. 124) | |
-
-|Gerente Adjunto de Unidade de Saúde II |40 |1.726,85 |
-
-|Gerente Adjunto de Unidade de Saúde III |25 29 |1.887,01 |
-
-| |Quantitativo de vagas alterado pela | |
-
-| |Lei nº 11.914, de 30/10/2025 (Art. 56| |
-
-| |com vigência no art. 124) | |
-
-|Total |229 221 | |
-
-| |Quantitativo de vagas alterado pela | |
-
-| |Lei nº 11.914, de 30/10/2025 (Art. 56| |
-
-| |com vigência no art. 124) | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Gerente Adjunto de Unidade de Saúde I | 164 152 | 1.568,94 |
+|  | Quantitativo de vagas alterado pela |  |
+|  | Lei nº 11.914, de 30/10/2025 (Art. 56 |  |
+|  | com vigência no art. 124) |  |
+| Gerente Adjunto de Unidade de Saúde II | 40 | 1.726,85 |
+| Gerente Adjunto de Unidade de Saúde III | 25 29 | 1.887,01 |
+|  | Quantitativo de vagas alterado pela |  |
+|  | Lei nº 11.914, de 30/10/2025 (Art. 56 |  |
+|  | com vigência no art. 124) |  |
+| Total | 229 221 |  |
+|  | Quantitativo de vagas alterado pela |  |
+|  | Lei nº 11.914, de 30/10/2025 (Art. 56 |  |
+|  | com vigência no art. 124) |  |
 
 G - Função pública gratificada de Gestor Administrativo e Financeiro Escolar
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE |VENCIMENTO-BASE |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| |VAGAS |(em R$) |DEDICAÇÃO EXCLUSIVA |(em R$) |
-
-| | | |(em R$) | |
-
-|Gestor Administrativo e Financeiro Escolar I |200 |1.302,80 |1.076,69 |2.379,49 |
-
-| |380 | | | |
-
-|Gestor Administrativo e Financeiro Escolar II | |1.302,80 |1.184,36 |2.487,16 |
-
-|Gestor Administrativo e Financeiro Escolar III | |1.302,80 |1.302,80 |2.605,60 |
-
-|Gestor Administrativo e Financeiro Escolar IV | |1.302,80 |1.433,07 |2.735,87 |
-
-|Gestor Administrativo e Financeiro Escolar V | |1.302,80 |1.576,38 |2.879,18 |
-
-|Total |200 | | | |
-
-| |380 | | | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE | VENCIMENTO-BASE | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- | --- |
+|  | VAGAS | (em R$) | DEDICAÇÃO EXCLUSIVA | (em R$) |
+|  |  |  | (em R$) |  |
+| Gestor Administrativo e Financeiro Escolar I | 200 | 1.302,80 | 1.076,69 | 2.379,49 |
+|  | 380 |  |  |  |
+| Gestor Administrativo e Financeiro Escolar II |  | 1.302,80 | 1.184,36 | 2.487,16 |
+| Gestor Administrativo e Financeiro Escolar III |  | 1.302,80 | 1.302,80 | 2.605,60 |
+| Gestor Administrativo e Financeiro Escolar IV |  | 1.302,80 | 1.433,07 | 2.735,87 |
+| Gestor Administrativo e Financeiro Escolar V |  | 1.302,80 | 1.576,38 | 2.879,18 |
+| Total | 200 |  |  |  |
+|  | 380 |  |  |  |
 
 Quantitativo com redação dada pela Lei nº 11.801, de 2/1/2025 (Art. 29)
 
@@ -4828,72 +4265,54 @@ Quantitivo com vigência a partir de 3/2/2025, nos termos da Lei nº 11.801, de 
 
 H - Função pública gratificada de Coordenador do Núcleo de Atendimento às Medidas Socioeducativas e Protetivas
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Coordenador do Núcleo de Atendimento às Medidas |1 |1.526,59 |
-
-|Socioeducativas e Protetivas | | |
-
-|Total |1 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Coordenador do Núcleo de Atendimento às Medidas | 1 | 1.526,59 |
+| Socioeducativas e Protetivas |  |  |
+| Total | 1 |  |
 
 I - Função pública gratificada de Controlador de Tesouraria dos Restaurantes Populares
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO (EM R$) |
-
-|Controlador de Tesouraria dos Restaurantes Populares |5 |1.291,88 |
-
-|Total |5 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO (EM R$) |
+| --- | --- | --- |
+| Controlador de Tesouraria dos Restaurantes Populares | 5 | 1.291,88 |
+| Total | 5 |  |
 
 J - Função pública gratificada de Supervisor das Atividades Operacionais de Campo
 
-|Função Gratificada |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Supervisor das Atividades Operacionais de Campo |170 |350,00 |
-
-|Total |170 | |
+| Função Gratificada | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Supervisor das Atividades Operacionais de Campo | 170 | 350,00 |
+| Total | 170 |  |
 
 Item J acrescentado pela Lei nº 11.136, de 18/10/2018 (Art. 17)
 
 K - Funções públicas gratificadas do Hospital Metropolitano Odilon Behrens
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Gerente de Unidade de Saúde I |1 |3.137,32 |
-
-|Gerente de Unidade de Saúde II |6 |3.453,71 |
-
-|Gerente de Unidade de Saúde III |7 |3.773,99 |
-
-|Coordenador de Apoio Gerencial |14 |1.533,04 |
-
-|Coordenador de Equipe |7 |1.811,77 |
-
-|Coordenador de Especialidades e Ensino |13 |1.951,14 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Gerente de Unidade de Saúde I | 1 | 3.137,32 |
+| Gerente de Unidade de Saúde II | 6 | 3.453,71 |
+| Gerente de Unidade de Saúde III | 7 | 3.773,99 |
+| Coordenador de Apoio Gerencial | 14 | 1.533,04 |
+| Coordenador de Equipe | 7 | 1.811,77 |
+| Coordenador de Especialidades e Ensino | 13 | 1.951,14 |
 
 Item K acrescentado pela Lei nº 11.163, de 1º/4/2019 (Art. 26)
 
 K - Funções públicas gratificadas do Hospital Metropolitano Odilon Behrens:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Gerente de Unidade de Saúde I |1 |3.213,56 |
-
-|Gerente de Unidade de Saúde II |6 |3.537,64 |
-
-|Gerente de Unidade de Saúde III |7 |3.865,70 |
-
-|Coordenador de Apoio Gerencial |14 |1.570,29 |
-
-|Coordenador de Equipe |7 |1.855,80 |
-
-|Coordenador de Especialidades e Ensino |13 |1.998,55 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Gerente de Unidade de Saúde I | 1 | 3.213,56 |
+| Gerente de Unidade de Saúde II | 6 | 3.537,64 |
+| Gerente de Unidade de Saúde III | 7 | 3.865,70 |
+| Coordenador de Apoio Gerencial | 14 | 1.570,29 |
+| Coordenador de Equipe | 7 | 1.855,80 |
+| Coordenador de Especialidades e Ensino | 13 | 1.998,55 |
 
 Item K com redação da pela Lei nº 11.222, de 19/3/2020 (Art. 16)

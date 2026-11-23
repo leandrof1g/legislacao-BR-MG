@@ -80,11 +80,11 @@ V - ao fator ocorrências disciplinares, apuradas por meio de relatório da Corr
 
 **§ 2º** - O fator freqüência e assiduidade, respeitado o seu peso no resultado final da avaliação, será subdividido, conforme a seguinte pontuação:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **§ 3º** - O fator ocorrências disciplinares, respeitado o seu peso no resultado final da avaliação, será subdividido conforme a seguinte pontuação, e conforme os seguintes períodos de avaliação:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **§ 4º** - Caso ocorra modificação da subordinação imediata a outro gerente na unidade em que for lotado, ou em caso de mudança de lotação no período de avaliação, o servidor será avaliado pelo gerente a que esteve subordinado por maior tempo no período correspondente à avaliação em curso.
 

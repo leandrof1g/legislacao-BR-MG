@@ -66,71 +66,40 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do §|R$ |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º| |
-
-|da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.157.2.690.3190.0050 |634.642,84 |
-
-|2302.10.305.028.2.829.3190.0050 |275.827,12 |
-
-|2302.10.301.157.2.690.3190.0050 |197.920,51 |
-
-|2302.10.305.028.2.829.3190.0050 |187.425,07 |
-
-|2302.10.301.157.2.690.3190.0050 |401.168,55 |
-
-|2302.10.305.028.2.829.3190.0050 |275.676,14 |
-
-|2302.10.301.157.2.690.3190.0050 |602.733,96 |
-
-|2302.10.305.028.2.829.3190.0050 |313.171,52 |
-
-|2302.10.301.157.2.690.3190.0050 |446.811,61 |
-
-|2302.10.305.028.2.829.3190.0050 |271.453,80 |
-
-|2302.10.301.157.2.690.3190.0050 |474.420,90 |
-
-|2302.10.305.028.2.829.3190.0050 |338.119,86 |
-
-|2302.10.301.157.2.690.3190.0050 |463.985,96 |
-
-|2302.10.305.028.2.829.3190.0050 |253.170,92 |
-
-|2302.10.301.157.2.690.3190.0050 |313.319,04 |
-
-|2302.10.305.028.2.829.3190.0050 |205.386,06 |
-
-|2302.10.301.157.2.690.3190.0050 |588.581,00 |
-
-|2302.10.305.028.2.829.3190.0050 |271.767,09 |
-
-|2302.10.122.117.2.662.3390.0000 |19.352.938,07 |
-
-|2302.10.302.114.2.891.3390.0000 |2.000.000,00 |
-
-|2302.10.302.114.2.891.3390.0050 |542.211,85 |
-
-|2302.10.302.114.2.894.3390.0000 |19.301.364,97 |
-
-|2302.10.303.117.2.895.3390.0050 |2.260.594,45 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.122.030.2.900.3190.0006 |600.000,00 |
-
-|2301.10.302.030.2.620.3191.0006 |60.000,00 |
-
-|2301.10.302.030.2.875.3190.0006 |9.750.000,00 |
-
-|2301.10.302.030.2.875.3191.0006 |1.400.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |61.782.691,29 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º |  |
+| da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.157.2.690.3190.0050 | 634.642,84 |
+| 2302.10.305.028.2.829.3190.0050 | 275.827,12 |
+| 2302.10.301.157.2.690.3190.0050 | 197.920,51 |
+| 2302.10.305.028.2.829.3190.0050 | 187.425,07 |
+| 2302.10.301.157.2.690.3190.0050 | 401.168,55 |
+| 2302.10.305.028.2.829.3190.0050 | 275.676,14 |
+| 2302.10.301.157.2.690.3190.0050 | 602.733,96 |
+| 2302.10.305.028.2.829.3190.0050 | 313.171,52 |
+| 2302.10.301.157.2.690.3190.0050 | 446.811,61 |
+| 2302.10.305.028.2.829.3190.0050 | 271.453,80 |
+| 2302.10.301.157.2.690.3190.0050 | 474.420,90 |
+| 2302.10.305.028.2.829.3190.0050 | 338.119,86 |
+| 2302.10.301.157.2.690.3190.0050 | 463.985,96 |
+| 2302.10.305.028.2.829.3190.0050 | 253.170,92 |
+| 2302.10.301.157.2.690.3190.0050 | 313.319,04 |
+| 2302.10.305.028.2.829.3190.0050 | 205.386,06 |
+| 2302.10.301.157.2.690.3190.0050 | 588.581,00 |
+| 2302.10.305.028.2.829.3190.0050 | 271.767,09 |
+| 2302.10.122.117.2.662.3390.0000 | 19.352.938,07 |
+| 2302.10.302.114.2.891.3390.0000 | 2.000.000,00 |
+| 2302.10.302.114.2.891.3390.0050 | 542.211,85 |
+| 2302.10.302.114.2.894.3390.0000 | 19.301.364,97 |
+| 2302.10.303.117.2.895.3390.0050 | 2.260.594,45 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.122.030.2.900.3190.0006 | 600.000,00 |
+| 2301.10.302.030.2.620.3191.0006 | 60.000,00 |
+| 2301.10.302.030.2.875.3190.0006 | 9.750.000,00 |
+| 2301.10.302.030.2.875.3191.0006 | 1.400.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 61.782.691,29 |
 
 ANEXO II
 
@@ -170,36 +139,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite de |Inciso I do § 1º do art. |Inciso II do § 1º do art. 4º, |
-
-|11.336, de 30/12/2021 |15% do valor total do |4º, limite de 15% do total |limite de 15% do total do |
-
-|– Limites autorizados |Orçamento: |do Orçamento do Grupo 1 – |Orçamento do Fundo Municipal de|
-
-|para abertura de | |Pessoal e Encargos Sociais:|Saúde – FMS: |
-
-|créditos | | | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.941.589.969,42 |R$ 230.915.100,00 |R$ 624.780.748,25 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 359.560.716,23 |R$ 653.077.208,70 |R$ 102.436.404,40 |
-
-|suplementares | | | |
-
-|Percentual utilizado |84,37% |26,12% |85,91% |
-
-|Atualizado em 26/12/2022 às 16:48:48 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite de | Inciso I do § 1º do art. | Inciso II do § 1º do art. 4º, |
+| 11.336, de 30/12/2021 | 15% do valor total do | 4º, limite de 15% do total | limite de 15% do total do |
+| – Limites autorizados | Orçamento: | do Orçamento do Grupo 1 – | Orçamento do Fundo Municipal de |
+| para abertura de |  | Pessoal e Encargos Sociais: | Saúde – FMS: |
+| créditos |  |  |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.941.589.969,42 | R$ 230.915.100,00 | R$ 624.780.748,25 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 359.560.716,23 | R$ 653.077.208,70 | R$ 102.436.404,40 |
+| suplementares |  |  |  |
+| Percentual utilizado | 84,37% | 26,12% | 85,91% |
+| Atualizado em 26/12/2022 às 16:48:48 |  |  |  |

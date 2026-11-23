@@ -38,9 +38,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|maio |Maio Verde |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| maio | Maio Verde |
 
 .”.
 

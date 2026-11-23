@@ -58,89 +58,52 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei|R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.12.361.0109.2803.339046.1.500.000 |85.500,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2106.339046.1.500.000 |17.300,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0014.2021.339046.1.500.000 |63.700,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0227.1403.449051.1.754.791 |2.487.592,00 |
-
-|2700.15.451.0062.1230.449051.1.752.000 |90.000,00 |
-
-|2700.15.451.0062.1230.449051.2.752.000 |1.344.470,00 |
-
-|2700.04.122.0233.1219.449051.2.754.791 |313.865,00 |
-
-|2700.15.451.0233.1396.449051.2.754.791 |886.135,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2571.339046.1.500.000 |210.800,00 |
-
-|3300.15.452.0059.2890.339046.1.500.000 |100,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.339046.1.500.000 |34.400,00 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.0007.2900.339046.1.500.000 |13.500,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.547.362,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei | R$ |
+| --- | --- |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.12.361.0109.2803.339046.1.500.000 | 85.500,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2106.339046.1.500.000 | 17.300,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0014.2021.339046.1.500.000 | 63.700,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0227.1403.449051.1.754.791 | 2.487.592,00 |
+| 2700.15.451.0062.1230.449051.1.752.000 | 90.000,00 |
+| 2700.15.451.0062.1230.449051.2.752.000 | 1.344.470,00 |
+| 2700.04.122.0233.1219.449051.2.754.791 | 313.865,00 |
+| 2700.15.451.0233.1396.449051.2.754.791 | 886.135,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2571.339046.1.500.000 | 210.800,00 |
+| 3300.15.452.0059.2890.339046.1.500.000 | 100,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.339046.1.500.000 | 34.400,00 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.0007.2900.339046.1.500.000 | 13.500,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.547.362,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.301.0109.2803.319011.1.500.000 |85.500,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2106.319011.1.500.000 |17.300,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1400.449051.2.754.791 |1.200.000,00 |
-
-|2700.16.482.0225.1231.449051.1.754.791 |2.487.592,00 |
-
-|2700.15.451.0227.1403.449051.1.752.000 |90.000,00 |
-
-|2700.15.451.0062.1330.449051.2.752.000 |193.000,00 |
-
-|2700.15.451.0233.1396.449051.2.752.000 |71.470,00 |
-
-|2700.17.512.0227.1403.449051.2.752.000 |1.080.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2854.319004.1.500.000 |210.900,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0007.2900.319011.1.500.000 |34.400,00 |
-
-|0201.04.122.0007.2900.319113.1.500.000 |77.200,00 |
-
-|TOTAL DA ANULAÇÃO |5.547.362,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.301.0109.2803.319011.1.500.000 | 85.500,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2106.319011.1.500.000 | 17.300,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1400.449051.2.754.791 | 1.200.000,00 |
+| 2700.16.482.0225.1231.449051.1.754.791 | 2.487.592,00 |
+| 2700.15.451.0227.1403.449051.1.752.000 | 90.000,00 |
+| 2700.15.451.0062.1330.449051.2.752.000 | 193.000,00 |
+| 2700.15.451.0233.1396.449051.2.752.000 | 71.470,00 |
+| 2700.17.512.0227.1403.449051.2.752.000 | 1.080.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2854.319004.1.500.000 | 210.900,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0007.2900.319011.1.500.000 | 34.400,00 |
+| 0201.04.122.0007.2900.319113.1.500.000 | 77.200,00 |
+| TOTAL DA ANULAÇÃO | 5.547.362,00 |
 
 ANEXO II
 
@@ -178,24 +141,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.089.504.792,09 |
-
-|Valor do Decreto publicado nesta data |R$ 5.547.362,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.095.052.154,09 |
-
-|Saldo atual de créditos suplementares |R$ 1.170.328.643,21 |
-
-|Percentual utilizado |48,34% |
-
-|Atualizado em 27/11/2025 às 10:55:01 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.089.504.792,09 |
+| Valor do Decreto publicado nesta data | R$ 5.547.362,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.095.052.154,09 |
+| Saldo atual de créditos suplementares | R$ 1.170.328.643,21 |
+| Percentual utilizado | 48,34% |
+| Atualizado em 27/11/2025 às 10:55:01 |  |

@@ -52,56 +52,34 @@ ANEXO
 
 I – Crédito adicional especial instituindo as seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Financeiro – FUFIN, para indenizações e |
-
-|restituições de bens ao Município, conforme autorização contida |
-
-|no art. 5º da Lei nº 11.104, de 16 de janeiro de 2018: |
-
-|R$ |
-
-|0613.09.272.026.2.925.3391.0970 |232.934,00 |
-
-|TOTAL |232.934,00 |
-
-|I.2 – A favor de Encargos Gerais do Município da Secretaria |
-
-|Municipal de Finanças - EGM-SMFA, para indenizações e manutenção|
-
-|de bens incorporados da BEPREM, conforme autorização contida no |
-
-|art. 5º da Lei nº 11.104, de 16 de janeiro de 2018: |
-
-|R$ |
-
-|4001.04.122.007.2.924.3391.0300 |38.623,00 |
-
-|4001.04.122.007.2.924.4591.0400 |23,00 |
-
-|TOTAL |38.646,00 |
-
-|TOTAL DO CRÉDITO ESPECIAL |271.580,00 |
+| I.1 – A favor do Fundo Financeiro – FUFIN, para indenizações e |  |
+| --- | --- |
+| restituições de bens ao Município, conforme autorização contida |  |
+| no art. 5º da Lei nº 11.104, de 16 de janeiro de 2018: |  |
+| R$ |  |
+| 0613.09.272.026.2.925.3391.0970 | 232.934,00 |
+| TOTAL | 232.934,00 |
+| I.2 – A favor de Encargos Gerais do Município da Secretaria |  |
+| Municipal de Finanças - EGM-SMFA, para indenizações e manutenção |  |
+| de bens incorporados da BEPREM, conforme autorização contida no |  |
+| art. 5º da Lei nº 11.104, de 16 de janeiro de 2018: |  |
+| R$ |  |
+| 4001.04.122.007.2.924.3391.0300 | 38.623,00 |
+| 4001.04.122.007.2.924.4591.0400 | 23,00 |
+| TOTAL | 38.646,00 |
+| TOTAL DO CRÉDITO ESPECIAL | 271.580,00 |
 
 II – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei nº 4.320, de 17 de março de 1964:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 |
-
-|da tabela anterior: |
-
-|R$ |
-
-|0614.99.999.999.9.999.9999.0970 |232.934,00 |
-
-|TOTAL |232.934,00 |
-
-|II.2 – Em contrapartida às suplementações relacionadas no item |
-
-|I.2 da tabela anterior: |
-
-|R$ |
-
-|2700.27.812.101.1.213.4490.0880 |38.646,00 |
-
-|TOTAL |38.646,00 |
-
-|TOTAL DA ANULAÇÃO |271.580,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 0614.99.999.999.9.999.9999.0970 | 232.934,00 |
+| TOTAL | 232.934,00 |
+| II.2 – Em contrapartida às suplementações relacionadas no item |  |
+| I.2 da tabela anterior: |  |
+| R$ |  |
+| 2700.27.812.101.1.213.4490.0880 | 38.646,00 |
+| TOTAL | 38.646,00 |
+| TOTAL DA ANULAÇÃO | 271.580,00 |

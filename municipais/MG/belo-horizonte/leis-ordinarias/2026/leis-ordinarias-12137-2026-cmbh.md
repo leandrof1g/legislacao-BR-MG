@@ -50,8 +50,9 @@ ANEXO I
 
 CP 252-3-M
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

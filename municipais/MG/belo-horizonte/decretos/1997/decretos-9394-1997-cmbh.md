@@ -212,56 +212,31 @@ Paulino Cícero de Vasconcellos
 
 Secretário Municipal de Administração
 
-|JORNADA DE TRABALHO ESTABELECIDA PARA O CARGO |NÚMERO DE TURNOS E RESPECTIVOS HORÁRIOS DE | |
-
-|OCUPADO PELO SERVIDOR (DIÁRIA, SEMANAL E |TRABALHO |NÚMERO DE MARCAÇÕES |
-
-|MENSAL) | |DE PONTO |
-
-| |Cumprimento de 2 turnos de trabalho, de |O servidor deverá efetuar 4 (quatro) |
-
-|Diária: 8:00 hs. |acordo com os seguintes horários: |marcações diárias, assim distribuídas: |
-
-| |a. 1º turno: 8:00 às 12:00 hs.; b. 2º turno: |a. 1º turno: no início e no término do |
-
-|Semanal: 44:00 hs. |14:00 às 18:00 hs. |expediente (saída para o almoço); |
-
-| | |b. 2º turno: no início (retorno do almoço) e |
-
-|Mensal: 220:00 hs | |no término do expediente; |
-
-| |Cumprimento de 1 turno corrido de trabalho, | |
-
-| |de acordo com os seguintes horários: |O servidor deverá efetuar 2 (duas) marcações |
-
-|Diária: 6:00 hs. |a. 7:00 às 13:00 hs; |diárias, sem intervalo de almoço, no início e|
-
-| |b. 12:00 às 18:00 hs; |no término de sua jornada de trabalho. |
-
-|Semanal: 36:00 hs. |c. 13:00 às 19:00 hs. | |
-
-| |(exclusivamente para servidores que comprovem| |
-
-|Mensal: 180:00 hs. |horário de estudo na parte da manhã). | |
-
-| | | |
-
-|Diária: 5:00 hs. |Os turnos serão definidos conforme os |O servidor deverá efetuar 2 (duas) marcações |
-
-| |horários de funcionamento das unidades |diárias, sem intervalo de almoço, no início e|
-
-|Semanal: 30:00 hs. |escolares da Rede Municipal de Educação. |no término de sua jornada de trabalho. |
-
-| | | |
-
-|Mensal: 150:00 hs. | | |
-
-|Diária: 4:00 hs. |Cumprimento de 1 turno corrido de trabalho, |O servidor deverá efetuar 2 (duas) marcações |
-
-| |de acordo com os seguintes horários: |diárias, sem intervalo de almoço, no início e|
-
-|Semanal: 24:00 hs. |a. 7:00 às 11:00 hs; |no término de sua jornada de trabalho. |
-
-| |b. 11:00 às 15:00 hs; | |
-
-|Mensal: 120:00 hs. |c. 15:00 às 19:00 hs. | |
+| JORNADA DE TRABALHO ESTABELECIDA PARA O CARGO | NÚMERO DE TURNOS E RESPECTIVOS HORÁRIOS DE |  |
+| --- | --- | --- |
+| OCUPADO PELO SERVIDOR (DIÁRIA, SEMANAL E | TRABALHO | NÚMERO DE MARCAÇÕES |
+| MENSAL) |  | DE PONTO |
+|  | Cumprimento de 2 turnos de trabalho, de | O servidor deverá efetuar 4 (quatro) |
+| Diária: 8:00 hs. | acordo com os seguintes horários: | marcações diárias, assim distribuídas: |
+|  | a. 1º turno: 8:00 às 12:00 hs.; b. 2º turno: | a. 1º turno: no início e no término do |
+| Semanal: 44:00 hs. | 14:00 às 18:00 hs. | expediente (saída para o almoço); |
+|  |  | b. 2º turno: no início (retorno do almoço) e |
+| Mensal: 220:00 hs |  | no término do expediente; |
+|  | Cumprimento de 1 turno corrido de trabalho, |  |
+|  | de acordo com os seguintes horários: | O servidor deverá efetuar 2 (duas) marcações |
+| Diária: 6:00 hs. | a. 7:00 às 13:00 hs; | diárias, sem intervalo de almoço, no início e |
+|  | b. 12:00 às 18:00 hs; | no término de sua jornada de trabalho. |
+| Semanal: 36:00 hs. | c. 13:00 às 19:00 hs. |  |
+|  | (exclusivamente para servidores que comprovem |  |
+| Mensal: 180:00 hs. | horário de estudo na parte da manhã). |  |
+|  |  |  |
+| Diária: 5:00 hs. | Os turnos serão definidos conforme os | O servidor deverá efetuar 2 (duas) marcações |
+|  | horários de funcionamento das unidades | diárias, sem intervalo de almoço, no início e |
+| Semanal: 30:00 hs. | escolares da Rede Municipal de Educação. | no término de sua jornada de trabalho. |
+|  |  |  |
+| Mensal: 150:00 hs. |  |  |
+| Diária: 4:00 hs. | Cumprimento de 1 turno corrido de trabalho, | O servidor deverá efetuar 2 (duas) marcações |
+|  | de acordo com os seguintes horários: | diárias, sem intervalo de almoço, no início e |
+| Semanal: 24:00 hs. | a. 7:00 às 11:00 hs; | no término de sua jornada de trabalho. |
+|  | b. 11:00 às 15:00 hs; |  |
+| Mensal: 120:00 hs. | c. 15:00 às 19:00 hs. |  |

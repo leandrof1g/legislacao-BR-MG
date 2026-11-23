@@ -762,39 +762,24 @@ X - ao prestador de serviço sujeito à incidência do ISSQN nos termos do art. 
 
 Por ano:
 
-|5.1 |Engenho de divulgação de publicidade inanimado não compreendido em outro item desta tabela: |
-
-|5.1.1 |Engenho de divulgação de publicidade luminoso |R$ 51,00 por m2 |
-
-|5.1.2 |Engenho de divulgação de publicidade não luminoso |R$ 24,00 por m2 |
-
-|5.2 |Engenho de divulgação de publicidade animado não compreendido em outro item desta tabela: | |
-
-|5.2.1 |Engenho de divulgação de publicidade luminoso |R$68,00 por m² |
-
-|5.2.2 |Engenho de divulgação de publicidade não luminoso |R$34,00 por m² |
-
-|5.3 |Engenho de divulgação de publicidade tipo tabuleta (outdoor) |R$307,00 por unidade |
-
-|5.4 |Engenho de divulgação de publicidade acoplado a termômetro ou relógio |R$137,00 por unidade |
-
-|5.5 |Engenho de divulgação de publicidade acoplado a barreira de pedestre |R$38,00 por unidade |
-
-|5.6 |Engenho de divulgação de publicidade acoplado a veículo de transporte coletivo |R$30,00 por unidade |
-
-|5.7 |Engenho de divulgação de publicidade acoplado a grade protetora de árvores |R$13,00 por unidade |
-
-|5.8 |Engenho de divulgação de publicidade acoplado a poste com indicativo de logradouros |R$13,00 por unidade |
-
-|5.9 |Engenho de divulgação de publicidade acoplado a abrigo de ônibus |R$150,00 por unidade |
-
-|5.10 |Engenho de divulgação de publicidade acoplado a veículo de transporte público individual: | |
-
-|5.10.1 |Engenho de divulgação de publicidade acoplado à lateral ou à traseira do veículo |R$12,00 por unidade |
-
-|5.10.2 |Engenho de divulgação de publicidade acoplado ao dístico identificador do serviço |R$51,00 por m2 |
-
-| | |NR". |
+| 5.1 | Engenho de divulgação de publicidade inanimado não compreendido em outro item desta tabela: |  |
+| --- | --- | --- |
+| 5.1.1 | Engenho de divulgação de publicidade luminoso | R$ 51,00 por m2 |
+| 5.1.2 | Engenho de divulgação de publicidade não luminoso | R$ 24,00 por m2 |
+| 5.2 | Engenho de divulgação de publicidade animado não compreendido em outro item desta tabela: |  |
+| 5.2.1 | Engenho de divulgação de publicidade luminoso | R$68,00 por m² |
+| 5.2.2 | Engenho de divulgação de publicidade não luminoso | R$34,00 por m² |
+| 5.3 | Engenho de divulgação de publicidade tipo tabuleta (outdoor) | R$307,00 por unidade |
+| 5.4 | Engenho de divulgação de publicidade acoplado a termômetro ou relógio | R$137,00 por unidade |
+| 5.5 | Engenho de divulgação de publicidade acoplado a barreira de pedestre | R$38,00 por unidade |
+| 5.6 | Engenho de divulgação de publicidade acoplado a veículo de transporte coletivo | R$30,00 por unidade |
+| 5.7 | Engenho de divulgação de publicidade acoplado a grade protetora de árvores | R$13,00 por unidade |
+| 5.8 | Engenho de divulgação de publicidade acoplado a poste com indicativo de logradouros | R$13,00 por unidade |
+| 5.9 | Engenho de divulgação de publicidade acoplado a abrigo de ônibus | R$150,00 por unidade |
+| 5.10 | Engenho de divulgação de publicidade acoplado a veículo de transporte público individual: |  |
+| 5.10.1 | Engenho de divulgação de publicidade acoplado à lateral ou à traseira do veículo | R$12,00 por unidade |
+| 5.10.2 | Engenho de divulgação de publicidade acoplado ao dístico identificador do serviço | R$51,00 por m2 |
+|  |  | NR". |
 
 **Art. 38** - O art. 3º da Lei nº 5.839, de 28 de dezembro de 1990, passa a ter a seguinte redação:
 

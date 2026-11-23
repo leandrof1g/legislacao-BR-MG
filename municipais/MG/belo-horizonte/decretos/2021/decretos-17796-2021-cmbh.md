@@ -52,74 +52,43 @@ ANEXO
 
 I – Crédito adicional especial instituindo as seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, |
-
-|para repasse de recursos no Programa Auxílio BH para famílias em |
-
-|situação de extrema pobreza e em situação de vulnerabilidade |
-
-|social, conforme autorização contida no art. 7º da Lei nº 11.314,|
-
-|de 5 de outubro de 2021: |
-
-|R$ |
-
-|1011.08.244.172.1.402.3390.0000 |19.906.400,00 |
-
-|TOTAL |19.906.400,00 |
-
-|I.2 – A favor do Fundo Municipal de Alimentação Escolar – FMAE –,|
-
-|para repasse de recursos no Programa Auxílio BH para famílias de |
-
-|estudantes, conforme autorização contida no art. 7º da Lei nº |
-
-|11.314, de 5 de outubro de 2021: |
-
-|R$ |
-
-|1014.08.306.172.1.402.3390.0000 |10.808.900,00 |
-
-|TOTAL |10.808.900,00 |
-
-|TOTAL DO CRÉDITO ESPECIAL |30.715.300,00 |
+| I.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, |  |
+| --- | --- |
+| para repasse de recursos no Programa Auxílio BH para famílias em |  |
+| situação de extrema pobreza e em situação de vulnerabilidade |  |
+| social, conforme autorização contida no art. 7º da Lei nº 11.314, |  |
+| de 5 de outubro de 2021: |  |
+| R$ |  |
+| 1011.08.244.172.1.402.3390.0000 | 19.906.400,00 |
+| TOTAL | 19.906.400,00 |
+| I.2 – A favor do Fundo Municipal de Alimentação Escolar – FMAE –, |  |
+| para repasse de recursos no Programa Auxílio BH para famílias de |  |
+| estudantes, conforme autorização contida no art. 7º da Lei nº |  |
+| 11.314, de 5 de outubro de 2021: |  |
+| R$ |  |
+| 1014.08.306.172.1.402.3390.0000 | 10.808.900,00 |
+| TOTAL | 10.808.900,00 |
+| TOTAL DO CRÉDITO ESPECIAL | 30.715.300,00 |
 
 II – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 |
-
-|da tabela anterior: |
-
-|R$ |
-
-|0101.01.031.001.2.001.3190.0000 |8.000.000,00 |
-
-|0101.01.031.001.2.001.3191.0000 |168.000,00 |
-
-|0101.01.031.001.2.001.3390.0000 |9.564.000,00 |
-
-|0101.01.031.001.2.920.3390.0000 |1.606.400,00 |
-
-|0101.01.031.001.2.921.4490.0000 |568.000,00 |
-
-|TOTAL |19.906.400,00 |
-
-|II.2 – Em contrapartida à suplementação relacionada no item I.2 |
-
-|da tabela anterior: |
-
-|R$ |
-
-|0101.01.031.001.2.920.3390.0000 |8.093.600,00 |
-
-|3103.13.391.155.2.375.3390.0000 |15.300,00 |
-
-|3103.13.391.155.2.375.3390.0000 |300.000,00 |
-
-|3103.13.392.154.2.371.3390.0000 |400.000,00 |
-
-|3103.13.392.301.2.907.3390.0000 |2.000.000,00 |
-
-|TOTAL |10.808.900,00 |
-
-|TOTAL DA ANULAÇÃO |30.715.300,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 0101.01.031.001.2.001.3190.0000 | 8.000.000,00 |
+| 0101.01.031.001.2.001.3191.0000 | 168.000,00 |
+| 0101.01.031.001.2.001.3390.0000 | 9.564.000,00 |
+| 0101.01.031.001.2.920.3390.0000 | 1.606.400,00 |
+| 0101.01.031.001.2.921.4490.0000 | 568.000,00 |
+| TOTAL | 19.906.400,00 |
+| II.2 – Em contrapartida à suplementação relacionada no item I.2 |  |
+| da tabela anterior: |  |
+| R$ |  |
+| 0101.01.031.001.2.920.3390.0000 | 8.093.600,00 |
+| 3103.13.391.155.2.375.3390.0000 | 15.300,00 |
+| 3103.13.391.155.2.375.3390.0000 | 300.000,00 |
+| 3103.13.392.154.2.371.3390.0000 | 400.000,00 |
+| 3103.13.392.301.2.907.3390.0000 | 2.000.000,00 |
+| TOTAL | 10.808.900,00 |
+| TOTAL DA ANULAÇÃO | 30.715.300,00 |

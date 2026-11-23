@@ -64,45 +64,27 @@ I - ZP-1: 0,2; II - ZP-2: 0,5; III - ZP-3: 0,5.
 
 “
 
-|IDENTIFICAÇÃO DA ZE |Coeficiente de |Taxa de Permeabilidade|Altura Máxima |
-
-| |Aproveitamento | |na Divisa |
-
-|“ZE Pilar”: correspondente a área |1,0 |20% |5,0 m |
-
-|ocupada por indústrias localizada na | | | |
-
-|região do Barreiro, nas proximidades do | | | |
-
-|Bairro Olhos d’Água, identificada às | | | |
-
-|folhas 58 e 59**. | | | |
-
-|“ZE São Francisco”: correspondente à |1,0 |20% |5,0 m |
-
-|área do Bairro São Francisco, ocupada | | | |
-
-|predominantemente por galpões, | | | |
-
-|identificada às folhas 21, 22, 28 e | | | |
-
-|29.** | | | |
-
-|“ZE Jatobá”: correspondente a áreas |1,0 |20% |5,0 m |
-
-|parcialmente ocupadas por atividades | | | |
-
-|econômicas de grande porte, | | | |
-
-|identificadas às folhas 56 e 57.** | | | |
-
-|“ZE Engenho Nogueira”: correspondente a |1,0 |30% |5,0 m |
-
-|áreas ocupadas por atividades econômicas| | | |
-
-|de grande porte, identificadas à folha | | | |
-
-|28.** | | | |
+| IDENTIFICAÇÃO DA ZE | Coeficiente de | Taxa de Permeabilidade | Altura Máxima |
+| --- | --- | --- | --- |
+|  | Aproveitamento |  | na Divisa |
+| “ZE Pilar”: correspondente a área | 1,0 | 20% | 5,0 m |
+| ocupada por indústrias localizada na |  |  |  |
+| região do Barreiro, nas proximidades do |  |  |  |
+| Bairro Olhos d’Água, identificada às |  |  |  |
+| folhas 58 e 59**. |  |  |  |
+| “ZE São Francisco”: correspondente à | 1,0 | 20% | 5,0 m |
+| área do Bairro São Francisco, ocupada |  |  |  |
+| predominantemente por galpões, |  |  |  |
+| identificada às folhas 21, 22, 28 e |  |  |  |
+| 29.** |  |  |  |
+| “ZE Jatobá”: correspondente a áreas | 1,0 | 20% | 5,0 m |
+| parcialmente ocupadas por atividades |  |  |  |
+| econômicas de grande porte, |  |  |  |
+| identificadas às folhas 56 e 57.** |  |  |  |
+| “ZE Engenho Nogueira”: correspondente a | 1,0 | 30% | 5,0 m |
+| áreas ocupadas por atividades econômicas |  |  |  |
+| de grande porte, identificadas à folha |  |  |  |
+| 28.** |  |  |  |
 
 (NR)”.
 

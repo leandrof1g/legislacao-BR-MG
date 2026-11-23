@@ -44,16 +44,12 @@ ANEXO
 
 (a que se referem o § 3º do art. 2º, o § 2º do art. 4º e o caput do art. 5º do Decreto nº 17.245, de 19 de dezembro de 2019)
 
-|ATIVIDADES DE BAIXO RISCO |
-
-|Nº DE ORDEM|SUBCLASSE CNAE |CÓDIGO LEGISLAÇÃO |DESCRIÇÃO DA ATIVIDADE (CONCLA) |
-
-| | |MUNICIPAL | |
-
-|(...) |(...) |(...) |(...) |
-
-|276 |5612100 |561210001 |Venda de alimentos em máquinas de serviço |
-
-| | | |automáticas (vending machines) |
+| ATIVIDADES DE BAIXO RISCO |  |  |  |
+| --- | --- | --- | --- |
+| Nº DE ORDEM | SUBCLASSE CNAE | CÓDIGO LEGISLAÇÃO | DESCRIÇÃO DA ATIVIDADE (CONCLA) |
+|  |  | MUNICIPAL |  |
+| (...) | (...) | (...) | (...) |
+| 276 | 5612100 | 561210001 | Venda de alimentos em máquinas de serviço |
+|  |  |  | automáticas (vending machines) |
 
 ”

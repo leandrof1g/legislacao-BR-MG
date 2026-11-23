@@ -64,25 +64,17 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei | |
-
-|nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.122.0140.2317.339093.2.570.000 |1.281.749,99 |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.09.272.0026.3004.319001.2.500.000 |34.000.000,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2539.339039.2.501.784 |3.943.719,64 |
-
-|TOTAL DA SUPLEMENTAÇÃO |39.225.469,63 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.122.0140.2317.339093.2.570.000 | 1.281.749,99 |
+| Fundo Financeiro – FUFIN |  |
+| 0613.09.272.0026.3004.319001.2.500.000 | 34.000.000,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2539.339039.2.501.784 | 3.943.719,64 |
+| TOTAL DA SUPLEMENTAÇÃO | 39.225.469,63 |
 
 ANEXO II
 

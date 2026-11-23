@@ -36,11 +36,10 @@ O Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 “ANEXO I
 
-|CARGOS |NÚMERO DE CARGOS |
-
-|Assistente Social |414 |
-
-|Psicólogo |339 |
+| CARGOS | NÚMERO DE CARGOS |
+| --- | --- |
+| Assistente Social | 414 |
+| Psicólogo | 339 |
 
 “ (NR)
 
@@ -58,73 +57,44 @@ XII - PSICÓLOGO HABILITAÇÃO: Ensino Superior completo, em nível de bacharela
 
 I - tabela de vencimentos-base e salários-base dos cargos de Assistente Social e Psicólogo, integrantes do Plano de Carreira da Área de Atividades da Administração Geral do Poder Executivo, com vigência a partir de 1º de janeiro de 2016:
 
-|NÍVEL |ASSISTENTE SOCIAL |PSICÓLOGO |
-
-|1 |4.028,54 |4.028,54 |
-
-|2 |4.229,97 |4.229,97 |
-
-|3 |4.441,47 |4.441,47 |
-
-|4 |4.663,54 |4.663,54 |
-
-|5 |4.896,72 |4.896,72 |
-
-|6 |5.141,55 |5.141,55 |
-
-|7 |5.398,63 |5.398,63 |
-
-|8 |5.668,56 |5.668,56 |
-
-|9 |5.951,99 |5.951,99 |
-
-|10 |6.249,59 |6.249,59 |
-
-|11 |6.562,07 |6.562,07 |
-
-|12 |6.890,17 |6.890,17 |
-
-|13 |7.234,68 |7.234,68 |
-
-|14 |7.596,42 |7.596,42 |
-
-|15 |7.976,24 |7.976,24 |
+| NÍVEL | ASSISTENTE SOCIAL | PSICÓLOGO |
+| --- | --- | --- |
+| 1 | 4.028,54 | 4.028,54 |
+| 2 | 4.229,97 | 4.229,97 |
+| 3 | 4.441,47 | 4.441,47 |
+| 4 | 4.663,54 | 4.663,54 |
+| 5 | 4.896,72 | 4.896,72 |
+| 6 | 5.141,55 | 5.141,55 |
+| 7 | 5.398,63 | 5.398,63 |
+| 8 | 5.668,56 | 5.668,56 |
+| 9 | 5.951,99 | 5.951,99 |
+| 10 | 6.249,59 | 6.249,59 |
+| 11 | 6.562,07 | 6.562,07 |
+| 12 | 6.890,17 | 6.890,17 |
+| 13 | 7.234,68 | 7.234,68 |
+| 14 | 7.596,42 | 7.596,42 |
+| 15 | 7.976,24 | 7.976,24 |
 
 II - tabela de vencimentos-base e salários-base dos cargos de assistente social e psicólogo, integrantes do Plano de Carreira da Área de Atividades da Administração Geral do Poder Executivo, com vigência a partir de 1º de dezembro de 2016:
 
-| |ASSISTENTE SOCIAL |PSICÓLOGO |
-
-|NÍVEL | | |
-
-|1 |4.126,80 |4.126,80 |
-
-|2 |4.333,14 |4.333,14 |
-
-|3 |4.549,80 |4.549,80 |
-
-|4 |4.777,29 |4.777,29 |
-
-|5 |5.016,15 |5.016,15 |
-
-|6 |5.266,96 |5.266,96 |
-
-|7 |5.530,30 |5.530,30 |
-
-|8 |5.806,82 |5.806,82 |
-
-|9 |6.097,16 |6.097,16 |
-
-|10 |6.402,02 |6.402,02 |
-
-|11 |6.722,12 |6.722,12 |
-
-|12 |7.058,23 |7.058,23 |
-
-|13 |7.411,14 |7.411,14 |
-
-|14 |7.781,69 |7.781,69 |
-
-|15 |8.170,78 |8.170,78 |
+|  | ASSISTENTE SOCIAL | PSICÓLOGO |
+| --- | --- | --- |
+| NÍVEL |  |  |
+| 1 | 4.126,80 | 4.126,80 |
+| 2 | 4.333,14 | 4.333,14 |
+| 3 | 4.549,80 | 4.549,80 |
+| 4 | 4.777,29 | 4.777,29 |
+| 5 | 5.016,15 | 5.016,15 |
+| 6 | 5.266,96 | 5.266,96 |
+| 7 | 5.530,30 | 5.530,30 |
+| 8 | 5.806,82 | 5.806,82 |
+| 9 | 6.097,16 | 6.097,16 |
+| 10 | 6.402,02 | 6.402,02 |
+| 11 | 6.722,12 | 6.722,12 |
+| 12 | 7.058,23 | 7.058,23 |
+| 13 | 7.411,14 | 7.411,14 |
+| 14 | 7.781,69 | 7.781,69 |
+| 15 | 8.170,78 | 8.170,78 |
 
 **Art. 6º** - Poderão optar pela migração para os cargos previstos nesta lei os atuais ocupantes dos cargos de Analista de Políticas Públicas que exercem as funções de Assistente Social e Psicólogo, previstas no Decreto nº 14.841, de 16 de fevereiro de 2012, independente de a data de admissão ser anterior ao mesmo, que passarão a cumprir a jornada de 30 (trinta) horas semanais e farão jus ao vencimento-base das tabelas constantes no art. 5º desta lei.
 

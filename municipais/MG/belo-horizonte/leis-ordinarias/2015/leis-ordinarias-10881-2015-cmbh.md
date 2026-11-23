@@ -34,21 +34,15 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **§ 2º** - Os ocupantes dos postos hierárquicos de Subinspetor I e subsequentes poderão exercer os cargos em comissão da estrutura organizacional da Secretaria Municipal de Segurança Urbana e Patrimonial pertencentes ao seu 3° nível hierárquico, nas seguintes correspondências:
 
-|POSTO HIERÁRQUICO |SUBNÍVEIS DOS CARGOS EM COMISSÃO DO 3° NÍVEL |
-
-| |HIERÁRQUICO DA SMSEG |
-
-|Subinspetor I |3º |
-
-|Subinspetor II |3º |
-
-|Inspetor I |2º |
-
-|Inspetor II |2º |
-
-|Supervisor |1º |
-
-|Superintendente |1º |
+| POSTO HIERÁRQUICO | SUBNÍVEIS DOS CARGOS EM COMISSÃO DO 3° NÍVEL |
+| --- | --- |
+|  | HIERÁRQUICO DA SMSEG |
+| Subinspetor I | 3º |
+| Subinspetor II | 3º |
+| Inspetor I | 2º |
+| Inspetor II | 2º |
+| Supervisor | 1º |
+| Superintendente | 1º |
 
 **§ 3º** - A substituição de que tratam os arts. 26 e 27 da Lei n° 9.319/07 somente poderá ser autorizada para os cargos públicos em comissão e funções públicas comissionadas mencionadas no § 2° deste artigo na hipótese de o substituto exercer posto hierárquico igual ou imediatamente inferior ao do substituído.
 

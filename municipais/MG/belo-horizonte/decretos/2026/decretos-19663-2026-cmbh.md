@@ -72,41 +72,25 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2900.339039.2.501.784 |176.839,89 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.2.706.510 |1.023.727,32 |
-
-|2100.06.181.0109.2803.449052.2.710.610 |525.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.391.0155.2375.339093.2.749.012 |130.127,80 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2933.339093.2.700.000 |56.760,51 |
-
-|3000.27.812.0101.2933.339093.2.500.000 |20.756,60 |
-
-|Fundo Municipal de Defesa Ambiental – FDA |
-
-|2503.18.541.0069.2073.335041.2.753.000 |230.000,00 |
-
-|Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN |
-
-|3800.04.122.0245.2939.449040.2.706.510 |1.908,06 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.165.120,18 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2900.339039.2.501.784 | 176.839,89 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.2.706.510 | 1.023.727,32 |
+| 2100.06.181.0109.2803.449052.2.710.610 | 525.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.391.0155.2375.339093.2.749.012 | 130.127,80 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2933.339093.2.700.000 | 56.760,51 |
+| 3000.27.812.0101.2933.339093.2.500.000 | 20.756,60 |
+| Fundo Municipal de Defesa Ambiental – FDA |  |
+| 2503.18.541.0069.2073.335041.2.753.000 | 230.000,00 |
+| Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN |  |
+| 3800.04.122.0245.2939.449040.2.706.510 | 1.908,06 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.165.120,18 |
 
 ANEXO II
 
@@ -168,26 +152,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 895.754.382,31 |
-
-|Valor do decreto publicado nesta data |R$ 2.165.120,18 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 897.919.502,49 |
-
-|Saldo atual de créditos suplementares |R$ 1.594.515.565,11 |
-
-|Percentual utilizado |36,03% |
-
-|Atualizado em 21/07/2026 às 14:19:03 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 895.754.382,31 |
+| Valor do decreto publicado nesta data | R$ 2.165.120,18 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 897.919.502,49 |
+| Saldo atual de créditos suplementares | R$ 1.594.515.565,11 |
+| Percentual utilizado | 36,03% |
+| Atualizado em 21/07/2026 às 14:19:03 |  |

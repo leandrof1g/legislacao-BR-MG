@@ -62,23 +62,16 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei | |
-
-|nº 11.594, de 22 de setembro de 2023: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.08.244.0123.2804.449052.2.706.510 |300.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0113.2327.449052.2.660.000 |400.000,00 |
-
-|1011.08.244.0020.2878.449052.2.660.000 |400.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.100.000,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei |  |
+| nº 11.594, de 22 de setembro de 2023: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.08.244.0123.2804.449052.2.706.510 | 300.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0113.2327.449052.2.660.000 | 400.000,00 |
+| 1011.08.244.0020.2878.449052.2.660.000 | 400.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.100.000,00 |
 
 ANEXO II
 

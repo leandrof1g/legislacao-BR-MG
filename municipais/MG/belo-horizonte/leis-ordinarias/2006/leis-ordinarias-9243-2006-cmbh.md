@@ -446,7 +446,7 @@ I.1 - AVALIAÇÃO DO CUMPRIMENTO DAS METAS FISCAIS RELATIVAS AO ANO ANTERIOR (Ar
 
 A avaliação dos valores constantes do Anexo de Metas Fiscais, previstas na Lei Municipal nº 8.924, de 30 de julho de 2004, com o efetivamente realizado em 2005 é a seguinte:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Foi previsto um grande ingresso de recursos relativos a financiamentos então em fase de negociação para o exercício de 2005, o que não foi inteiramente efetivado, razão pela qual os valores realizados dos resultados primário e nominal não se efetivaram.
 
@@ -462,15 +462,13 @@ Demonstrativos dos Resultados Primário e Nominal
 
 Valores Correntes em R$1.000,00
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 O cálculo dos resultados nominal e primário servirá para apuração das metas fiscais integrantes das diretrizes orçamentárias, conforme o disposto nos §§ 1º e 2º do art. 4º da Lei Complementar nº 101/00.
 
 Adotou-se para a definição das metas fiscais o cenário econômico projetado no Projeto de Lei de Diretrizes Orçamentárias da União para 2007, a quem compete constitucionalmente a definição de políticas macroeconômicas, conforme a tabela abaixo.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Para execução da projeção da receita para os exercícios de 2007 a 2009 foram aplicados os parâmetros acima indicados, a partir de uma reestimativa da receita fixada para o exercício de 2006, elaborada considerando a efetiva arrecadação até março deste ano e uma projeção baseada no comparativo com a execução de anos anteriores.
 
@@ -492,7 +490,7 @@ I.3 - EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO DO MUNICÍPIO DE BH - PERÍODO 2003/200
 
 Valores em R$1,00
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO I
 
@@ -508,7 +506,7 @@ Demonstrativo da Origem e Aplicação dos Recursos Obtidos com a Alienação de 
 
 Valores em R$1,00
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO I
 
@@ -528,21 +526,13 @@ Data-base: 31/10/04
 
 Descrição da população coberta: Servidores titulares de cargos efetivos por meio de concurso público.
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Demonstrativo das Receitas Realizadas e Despesas Empenhadas do Regime Próprio de Previdência - Exercício de 2005
 
 Valores em R$1,00
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO I
 
@@ -568,9 +558,7 @@ Renúncia fiscal
 
 1 – Isenções
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO I
 

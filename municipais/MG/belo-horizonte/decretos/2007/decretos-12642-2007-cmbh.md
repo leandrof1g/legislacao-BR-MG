@@ -142,51 +142,30 @@ ANEXO I
 
 CARGOS DE PROVIMENTO EM COMISSÃO PRIVATIVOS DOS OCUPANTES DOS CARTOS EFETIVOS DE AUDITOR FISCAL E AUDITOR TÉCNICO DE TRIBUTOS MUNICIPAIS*
 
-|Gerente de Operações Especiais Tributárias, de 1º nível |
-
-|Gerente de Legislação e Consultoria, de 2º nível |
-
-|Gerente de Tributos Mobiliários, de 1º nível |
-
-|Gerente de Auditoria Fiscal de Tributos Mobiliários, de 2º nível |
-
-|Gerente de Auditoria e Lançamento do ISSQN A, de 3º nível |
-
-|Gerente de Auditoria e Lançamento do ISSQN B, de 3º nível |
-
-|Gerente de Auditoria e Lançamento do ISSQN C, de 3º nível |
-
-|Gerente de Monitoramento e Cobrança Tributária, de 4º nível |
-
-|Gerente de Inteligência e Fiscalização Estratégica, de 2º nível |
-
-|Gerente de Inteligência Fiscal, de 3º nível |
-
-|Gerente de Fiscalização e Estimativa Tributária, de 3º nível |
-
-|Gerente de Acompanhamento Fiscal, de 4º nível |
-
-|Gerente de Controle de Lançamento de Tributos Mobiliários, de 2º nível |
-
-|Gerente de Controle e Acompanhamento das Declarações Eletrônicas de Serviço, de 2º nível |
-
-|Gerente de Tributos Imobiliários, de 1º nível |
-
-|Gerente de Investigação, Análise e Pesquisa de Tributos Imobiliários, de 2º nível |
-
-|Gerente de Auditoria de Valores Imobiliários, de 2º nível |
-
-|Gerente Geral de IPTU, de 2º nível |
-
-|Gerente de Auditoria Fiscal de IPTU, de 3º nível |
-
-|Gerente de Lançamento de IPTU, de 3º nível |
-
-|Gerente Geral de ITBI, de 2º nível |
-
-|Gerente de Auditoria Fiscal do ITBI, de 3º nível |
-
-|Presidente da Junta de Julgamento Fiscal |
+| Gerente de Operações Especiais Tributárias, de 1º nível |
+| --- |
+| Gerente de Legislação e Consultoria, de 2º nível |
+| Gerente de Tributos Mobiliários, de 1º nível |
+| Gerente de Auditoria Fiscal de Tributos Mobiliários, de 2º nível |
+| Gerente de Auditoria e Lançamento do ISSQN A, de 3º nível |
+| Gerente de Auditoria e Lançamento do ISSQN B, de 3º nível |
+| Gerente de Auditoria e Lançamento do ISSQN C, de 3º nível |
+| Gerente de Monitoramento e Cobrança Tributária, de 4º nível |
+| Gerente de Inteligência e Fiscalização Estratégica, de 2º nível |
+| Gerente de Inteligência Fiscal, de 3º nível |
+| Gerente de Fiscalização e Estimativa Tributária, de 3º nível |
+| Gerente de Acompanhamento Fiscal, de 4º nível |
+| Gerente de Controle de Lançamento de Tributos Mobiliários, de 2º nível |
+| Gerente de Controle e Acompanhamento das Declarações Eletrônicas de Serviço, de 2º nível |
+| Gerente de Tributos Imobiliários, de 1º nível |
+| Gerente de Investigação, Análise e Pesquisa de Tributos Imobiliários, de 2º nível |
+| Gerente de Auditoria de Valores Imobiliários, de 2º nível |
+| Gerente Geral de IPTU, de 2º nível |
+| Gerente de Auditoria Fiscal de IPTU, de 3º nível |
+| Gerente de Lançamento de IPTU, de 3º nível |
+| Gerente Geral de ITBI, de 2º nível |
+| Gerente de Auditoria Fiscal do ITBI, de 3º nível |
+| Presidente da Junta de Julgamento Fiscal |
 
 • Conforme estrutura da Secretaria Municipal de Finanças, prevista no Decreto nº 11.985, de 11 de março de 2005, e sua alteração pelo Decreto nº 12.556, de 03 de agosto de 2006.
 
@@ -194,47 +173,28 @@ ANEXO I
 
 CARGOS DE PROVIMENTO EM COMISSÃO PRIVATIVOS DOS OCUPANTES DOS CARGOS EFETIVOS DE AUDITOR FISCAL E AUDITOR TÉCNICO DE TRIBUTOS MUNICIPAIS*
 
-|Gerente de Operações Especiais Tributárias, 1º nível, classe C |
-
-|Gerente de Tributos Mobiliários, de 1º nível, classe C |
-
-|Gerente de Auditoria Fiscal de Tributos Mobiliários, de 2º nível |
-
-|Gerente de Auditoria e Lançamento do ISSQN A, de 3º nível |
-
-|Gerente de Auditoria e Lançamento do ISSQN B, de 3º nível |
-
-|Gerente de Auditoria e Lançamento do ISSQN C, de 3º nível |
-
-|Gerente de Inteligência e Fiscalização Estratégica, de 2º nível |
-
-|Gerente de Inteligência Fiscal, de 3º nível |
-
-|Gerente de Cobrança e Regularização Voluntária de Tributos Mobiliários, de 4º nível |
-
-|Gerente de Fiscalização Volante e Estimativa do ISSQN, de 4º nível |
-
-|Gerente de Lançamentos Especiais do ISSQN e Fiscalização do Simples Nacional, de 2º nível |
-
-|Gerente de Controle e Acompanhamento das Declarações Eletrônicas de Serviço, de 2º nível |
-
-|Gerente de Tributos Imobiliários, de 1º nível - classe C |
-
-|Gerente de Investigação, Análise e Pesquisa de Tributos Imobiliários, de 2º nível |
-
-|Gerente de Auditoria de Valores Imobiliários, de 2º nível |
-
-|Gerente de Planejamento Estratégico, Lançamento e Monitoramento de IPTU, de 2º nível |
-
-|Gerente de Estudos Técnicos e de Auditoria de IPTU, de 3º nível |
-
-|Gerente Geral de ITBI, de 2º nível |
-
-|Gerente de Auditoria Fiscal do ITBI, de 3º nível |
-
-|Gerente de Acompanhamento de Transferências Constitucionais, de 1º nível |
-
-|Presidente do Conselho Administrativo de Recursos Tributários |
+| Gerente de Operações Especiais Tributárias, 1º nível, classe C |
+| --- |
+| Gerente de Tributos Mobiliários, de 1º nível, classe C |
+| Gerente de Auditoria Fiscal de Tributos Mobiliários, de 2º nível |
+| Gerente de Auditoria e Lançamento do ISSQN A, de 3º nível |
+| Gerente de Auditoria e Lançamento do ISSQN B, de 3º nível |
+| Gerente de Auditoria e Lançamento do ISSQN C, de 3º nível |
+| Gerente de Inteligência e Fiscalização Estratégica, de 2º nível |
+| Gerente de Inteligência Fiscal, de 3º nível |
+| Gerente de Cobrança e Regularização Voluntária de Tributos Mobiliários, de 4º nível |
+| Gerente de Fiscalização Volante e Estimativa do ISSQN, de 4º nível |
+| Gerente de Lançamentos Especiais do ISSQN e Fiscalização do Simples Nacional, de 2º nível |
+| Gerente de Controle e Acompanhamento das Declarações Eletrônicas de Serviço, de 2º nível |
+| Gerente de Tributos Imobiliários, de 1º nível - classe C |
+| Gerente de Investigação, Análise e Pesquisa de Tributos Imobiliários, de 2º nível |
+| Gerente de Auditoria de Valores Imobiliários, de 2º nível |
+| Gerente de Planejamento Estratégico, Lançamento e Monitoramento de IPTU, de 2º nível |
+| Gerente de Estudos Técnicos e de Auditoria de IPTU, de 3º nível |
+| Gerente Geral de ITBI, de 2º nível |
+| Gerente de Auditoria Fiscal do ITBI, de 3º nível |
+| Gerente de Acompanhamento de Transferências Constitucionais, de 1º nível |
+| Presidente do Conselho Administrativo de Recursos Tributários |
 
 * Conforme estrutura da Secretaria Municipal de Finanças. Anexo I com redação dada pelo Decreto nº 16.002, de 15/06/2015 (Art. 4º)
 
@@ -242,46 +202,27 @@ ANEXO I
 
 CARGOS DE PROVIMENTO EM COMISSÃO PRIVATIVOS DOS OCUPANTES DOS CARGOS EFETIVOS DE AUDITOR FISCAL E TÉCNICO DE TRIBUTOS MUNICIPAIS
 
-|Gerente de Operações Especiais Tributárias, de 1º nível – Classe C |
-
-|Gerente de Tributos Mobiliários, de 1º nível – Classe C |
-
-|Gerente de Auditoria Fiscal de Tributos Mobiliários, de 2º nível |
-
-|Gerente de Auditoria e Lançamento do ISSQN A, de 3º nível |
-
-|Gerente de Auditoria e Lançamento do ISSQN B, de 3º nível |
-
-|Gerente de Auditoria e Lançamento do ISSQN C, de 3º nível |
-
-|Gerente de Inteligência e Ações de fiscalização, de 2º nível |
-
-|Gerente de Inteligência Fiscal, de 3º nível |
-
-|Gerente de Fiscalização Volante e Estimativa do ISSQN, de 4º nível |
-
-|Gerente de cobrança e Regularização Voluntária de Tributos Mobiliários, de 4º nível |
-
-|Gerente de Controle e Acompanhamento das Declarações Eletrônicas de Serviço, de 2º nível |
-
-|Gerente de Acompanhamento da Apuração do Valor Adicionado Fiscal, de 2º nível |
-
-|Gerente de Tributos Imobiliários, de 1º nível – Classe C |
-
-|Gerente de Investigação, Análise e Pesquisa de Tributos Imobiliários, de 2º nível |
-
-|Gerente de Auditoria de Valores Imobiliários, de 2º nível |
-
-|Gerente de Planejamento Estratégico, Lançamento e Monitoramento de IPTU, de 2º nível |
-
-|Gerente de Estudos Técnicos e de Auditoria de IPTU, de 3º nível |
-
-|Gerente Geral de ITBI, de 2º nível |
-
-|Gerente de Auditoria Fiscal do ITBI, de 3º nível |
-
-|Gerente de Acompanhamento de Transferências Constitucionais, de 2º nível |
-
-|Presidente do Conselho Administrativo de Recursos Tributários do Município – CART-BH.”. |
+| Gerente de Operações Especiais Tributárias, de 1º nível – Classe C |
+| --- |
+| Gerente de Tributos Mobiliários, de 1º nível – Classe C |
+| Gerente de Auditoria Fiscal de Tributos Mobiliários, de 2º nível |
+| Gerente de Auditoria e Lançamento do ISSQN A, de 3º nível |
+| Gerente de Auditoria e Lançamento do ISSQN B, de 3º nível |
+| Gerente de Auditoria e Lançamento do ISSQN C, de 3º nível |
+| Gerente de Inteligência e Ações de fiscalização, de 2º nível |
+| Gerente de Inteligência Fiscal, de 3º nível |
+| Gerente de Fiscalização Volante e Estimativa do ISSQN, de 4º nível |
+| Gerente de cobrança e Regularização Voluntária de Tributos Mobiliários, de 4º nível |
+| Gerente de Controle e Acompanhamento das Declarações Eletrônicas de Serviço, de 2º nível |
+| Gerente de Acompanhamento da Apuração do Valor Adicionado Fiscal, de 2º nível |
+| Gerente de Tributos Imobiliários, de 1º nível – Classe C |
+| Gerente de Investigação, Análise e Pesquisa de Tributos Imobiliários, de 2º nível |
+| Gerente de Auditoria de Valores Imobiliários, de 2º nível |
+| Gerente de Planejamento Estratégico, Lançamento e Monitoramento de IPTU, de 2º nível |
+| Gerente de Estudos Técnicos e de Auditoria de IPTU, de 3º nível |
+| Gerente Geral de ITBI, de 2º nível |
+| Gerente de Auditoria Fiscal do ITBI, de 3º nível |
+| Gerente de Acompanhamento de Transferências Constitucionais, de 2º nível |
+| Presidente do Conselho Administrativo de Recursos Tributários do Município – CART-BH.”. |
 
 Anexo I com redação dada pelo Decreto nº 16.510, de 20/12/2016 (Art. 1º)

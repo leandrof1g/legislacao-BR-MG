@@ -52,40 +52,26 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Assistência Social – |
-
-|FMAS –, conforme autorização contida no inciso I do § 1º do |
-
-|art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|1011.08.244.020.2.878.3190.0000 |77.853,00 |
-
-|1011.08.244.020.2.878.3190.0000 |50.506,00 |
-
-|1011.08.244.020.2.878.3190.0000 |36.367,00 |
-
-|1011.08.244.020.2.878.3190.0000 |73.172,00 |
-
-|1011.08.244.020.2.878.3190.0000 |28.254,00 |
-
-|1011.08.244.020.2.878.3190.0000 |89.143,00 |
-
-|1011.08.244.020.2.878.3190.0000 |67.734,00 |
-
-|1011.08.244.020.2.878.3190.0000 |48.905,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |471.934,00 |
+| I.1 – A favor do Fundo Municipal de Assistência Social – |  |
+| --- | --- |
+| FMAS –, conforme autorização contida no inciso I do § 1º do |  |
+| art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 1011.08.244.020.2.878.3190.0000 | 77.853,00 |
+| 1011.08.244.020.2.878.3190.0000 | 50.506,00 |
+| 1011.08.244.020.2.878.3190.0000 | 36.367,00 |
+| 1011.08.244.020.2.878.3190.0000 | 73.172,00 |
+| 1011.08.244.020.2.878.3190.0000 | 28.254,00 |
+| 1011.08.244.020.2.878.3190.0000 | 89.143,00 |
+| 1011.08.244.020.2.878.3190.0000 | 67.734,00 |
+| 1011.08.244.020.2.878.3190.0000 | 48.905,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 471.934,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no |
-
-|item I.1 da tabela anterior: |
-
-|R$ |
-
-|4002.04.122.014.2.850.3190.0000 |471.934,00 |
-
-|TOTAL DA ANULAÇÃO |471.934,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no |  |
+| --- | --- |
+| item I.1 da tabela anterior: |  |
+| R$ |  |
+| 4002.04.122.014.2.850.3190.0000 | 471.934,00 |
+| TOTAL DA ANULAÇÃO | 471.934,00 |

@@ -54,32 +54,22 @@ Secretário Municipal de Fazenda
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos da PBH, conforme autorização contida |
-
-|no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
+| I.1 – A favor de diversos órgãos da PBH, conforme autorização contida |  |
+| --- | --- |
+| no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
 | 0604.19.572.085.2.603.3390.0000 | 344.726,40 |
-
 | 1000.08.244.123.2.804.3390.0000 | 1.299.840,00 |
-
-| TOTAL DA SUPLEMENTAÇÃO |1.644.566,40 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.644.566,40 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1 da |
-
-|tabela anterior: |
-
-|R$ |
-
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 da |  |
+| --- | --- |
+| tabela anterior: |  |
+| R$ |  |
 | 0805.04.129.105.2.652.3190.0000 | 120.000,00 |
-
 | 0805.04.129.105.2.652.3390.0000 | 224.726,40 |
-
 | 1011.08.244.020.2.878.3390.0000 | 540.340,00 |
-
 | 1022.08.452.123.2.856.3390.0000 | 759.500,00 |
-
 | TOTAL DA ANULAÇÃO | 1.644.566,40 |

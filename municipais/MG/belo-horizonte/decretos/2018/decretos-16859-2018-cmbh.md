@@ -52,34 +52,23 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos, conforme autorização contida no caput do |
-
-|art. 4º da Lei nº 11.097, de 29 de dezembro de 2017: |
-
-|R$ |
-
-|0604.19.572.085.2.603.4490.0407 |50.000,00 |
-
-|3000.27.813.101.2.535.4490.0400 |6.500,00 |
-
-|3300.15.452.059.2.854.3390.0300 |100.000,00 |
-
-|0613.09.272.026.3.004.3320.0970 |5.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.156.500,00 |
+| I.1 – A favor de diversos órgãos, conforme autorização contida no caput do |  |
+| --- | --- |
+| art. 4º da Lei nº 11.097, de 29 de dezembro de 2017: |  |
+| R$ |  |
+| 0604.19.572.085.2.603.4490.0407 | 50.000,00 |
+| 3000.27.813.101.2.535.4490.0400 | 6.500,00 |
+| 3300.15.452.059.2.854.3390.0300 | 100.000,00 |
+| 0613.09.272.026.3.004.3320.0970 | 5.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.156.500,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1 da |
-
-|tabela anterior: |
-
-|R$ |
-
-|0614.99.999.999.9.999.9999.0970 |5.000.000,00 |
-
-|2700.26.452.062.1.270.4430.0480 |56.500,00 |
-
-|3300.15.452.059.2.890.3390.0300 |100.000,00 |
-
-|TOTAL DA ANULAÇÃO |5.156.500,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 da |  |
+| --- | --- |
+| tabela anterior: |  |
+| R$ |  |
+| 0614.99.999.999.9.999.9999.0970 | 5.000.000,00 |
+| 2700.26.452.062.1.270.4430.0480 | 56.500,00 |
+| 3300.15.452.059.2.890.3390.0300 | 100.000,00 |
+| TOTAL DA ANULAÇÃO | 5.156.500,00 |

@@ -64,27 +64,18 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48| |
-
-|da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.319011.2.501.784 | 419.908,61 |
-
-|2505.18.541.0073.2900.319011.2.501.784 | 1.125.091,39 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2902.456782.2.634.790 | 2.001.060,50 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.449093.2.749.000 | 2.007,57 |
-
-|TOTAL DA SUPLEMENTAÇÃO | 3.548.068,07 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 |  |
+| da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.319011.2.501.784 | 419.908,61 |
+| 2505.18.541.0073.2900.319011.2.501.784 | 1.125.091,39 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2902.456782.2.634.790 | 2.001.060,50 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.449093.2.749.000 | 2.007,57 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.548.068,07 |
 
 ANEXO II
 

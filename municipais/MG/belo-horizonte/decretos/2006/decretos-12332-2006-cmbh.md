@@ -178,66 +178,37 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|DESPACHO DE ENCAMINHAMENTO DE PROCESSO DE ISENÇÃO DE IPTU E TAXAS COM ELE LANÇADAS |
-
-|LEI Nº 9.145, DE 12 DE JANEIRO DE 2006 |
-
-|Processo: |
-
-|Órgão Ocupante: |
-
-|Sigla: |
-
-|Secretaria Municipal ou entidade indireta: |
-
-|Sigla: |
-
-|Índice Cadastral: |
-
-|Endereço: |
-
-|Proprietário: |
-
-|CPF/CNPJ: |
-
-|Natureza do contrato: |
-
-|Data de início de vigência ou da renovação: |
-
-|Data prevista para o término: |
-
-|DECLARAÇÃO |
-
-|Declaramos que o imóvel acima identificado preenche os requisitos estabelecidos pela Lei nº 9.145, de 12 de janeiro de 2006, e|
-
-|que somos favoráveis à concessão da isenção prevista na mencionada Lei, responsabilizando-nos pelas informações aqui prestadas|
-
-|e pelo atendimento às requisições de documentos e informações necessárias à instrução do presente processo. |
-
-|Responsabilizamo-nos, ainda, por informar qualquer alteração relativa ao imóvel ou ao contrato aqui referenciado. |
-
-|Local: |
-
-|Data: |
-
-|Nome: |BM: |
-
-|Cargo ou função: |
-
-|Assinatura: |
-
-|Observações: |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
+| DESPACHO DE ENCAMINHAMENTO DE PROCESSO DE ISENÇÃO DE IPTU E TAXAS COM ELE LANÇADAS |  |
+| --- | --- |
+| LEI Nº 9.145, DE 12 DE JANEIRO DE 2006 |  |
+| Processo: |  |
+| Órgão Ocupante: |  |
+| Sigla: |  |
+| Secretaria Municipal ou entidade indireta: |  |
+| Sigla: |  |
+| Índice Cadastral: |  |
+| Endereço: |  |
+| Proprietário: |  |
+| CPF/CNPJ: |  |
+| Natureza do contrato: |  |
+| Data de início de vigência ou da renovação: |  |
+| Data prevista para o término: |  |
+| DECLARAÇÃO |  |
+| Declaramos que o imóvel acima identificado preenche os requisitos estabelecidos pela Lei nº 9.145, de 12 de janeiro de 2006, e |  |
+| que somos favoráveis à concessão da isenção prevista na mencionada Lei, responsabilizando-nos pelas informações aqui prestadas |  |
+| e pelo atendimento às requisições de documentos e informações necessárias à instrução do presente processo. |  |
+| Responsabilizamo-nos, ainda, por informar qualquer alteração relativa ao imóvel ou ao contrato aqui referenciado. |  |
+| Local: |  |
+| Data: |  |
+| Nome: | BM: |
+| Cargo ou função: |  |
+| Assinatura: |  |
+| Observações: |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 Utilizar o campo observações no caso de: 1. o despacho se referir a mais de um imóvel (apenas mencionando seu índice cadastral); 2. existirem dois ou mais proprietários, mencionando nome e CPF/CNPJ de cada um.

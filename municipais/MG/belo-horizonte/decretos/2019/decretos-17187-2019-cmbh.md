@@ -50,28 +50,20 @@ ANEXO (a que se referem os arts. 1º e 2º do Decreto nº 17.187, de 9 de outubr
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 –A favor de diversos órgãos, conforme autorização contida no §|
-
-|2º do art. 4º da Lei nº 11.145, de 26 de dezembro de 2018: |
-
-|R$ |
-
-|2400.04.124.012.2.366.4490.0480 |400,00 |
-
-|2700.15.452.057.2.770.4490.0480 |1.100.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.100.400,00 |
+| I.1 –A favor de diversos órgãos, conforme autorização contida no § |  |
+| --- | --- |
+| 2º do art. 4º da Lei nº 11.145, de 26 de dezembro de 2018: |  |
+| R$ |  |
+| 2400.04.124.012.2.366.4490.0480 | 400,00 |
+| 2700.15.452.057.2.770.4490.0480 | 1.100.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.100.400,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 da|
-
-|tabela anterior: |
-
-|R$ |
-
-|2400.04.124.012.2.366.4490.0400 |400,00 |
-
-|2700.15.452.057.2.770.4490.0400 |1.100.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.100.400,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 da |  |
+| --- | --- |
+| tabela anterior: |  |
+| R$ |  |
+| 2400.04.124.012.2.366.4490.0400 | 400,00 |
+| 2700.15.452.057.2.770.4490.0400 | 1.100.000,00 |
+| TOTAL DA ANULAÇÃO | 1.100.400,00 |

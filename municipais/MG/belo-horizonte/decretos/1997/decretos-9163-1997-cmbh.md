@@ -492,33 +492,21 @@ OU EMPREGO PÚBLICO MUNICIPAL NAS UNIDADES DE SAÚDE
 
 TIPO "B" E "C"
 
-|CARGO/EMPREGO |VALOR DO ABONO NAS UNIDADES |VALOR DO ABONO NAS UNIDADES TIPO |
-
-| |TIPO "B" - em R$ |"C" - em R$ |
-
-|Agente Sanitário |15,38 |39,01 |
-
-|Agente de Serviço de Saúde |17,76 |46,11 |
-
-|Técnico de Serviço de Saúde |25,99 |63,84 |
-
-|Técnico Superior de Saúde |57,82 |144,48 |
-
-|Cirurgião Dentista |60,38 |152,79 |
-
-|Médico |69,37 |175,71 |
-
-|Ajudante de Serviço Público |15,38 |39,01 |
-
-|Auxiliar Serv. Administrativo |15,38 |39,01 |
-
-|Auxiliar de Administração |17,76 |46,11 |
-
-|Oficial de Serviço Público I |17,76 |46,11 |
-
-|Oficial de Serviço Público II |17,76 |46,11 |
-
-|Agente de Administração I |25,99 |63,84 |
+| CARGO/EMPREGO | VALOR DO ABONO NAS UNIDADES | VALOR DO ABONO NAS UNIDADES TIPO |
+| --- | --- | --- |
+|  | TIPO "B" - em R$ | "C" - em R$ |
+| Agente Sanitário | 15,38 | 39,01 |
+| Agente de Serviço de Saúde | 17,76 | 46,11 |
+| Técnico de Serviço de Saúde | 25,99 | 63,84 |
+| Técnico Superior de Saúde | 57,82 | 144,48 |
+| Cirurgião Dentista | 60,38 | 152,79 |
+| Médico | 69,37 | 175,71 |
+| Ajudante de Serviço Público | 15,38 | 39,01 |
+| Auxiliar Serv. Administrativo | 15,38 | 39,01 |
+| Auxiliar de Administração | 17,76 | 46,11 |
+| Oficial de Serviço Público I | 17,76 | 46,11 |
+| Oficial de Serviço Público II | 17,76 | 46,11 |
+| Agente de Administração I | 25,99 | 63,84 |
 
 ## Observações da CMBH
 

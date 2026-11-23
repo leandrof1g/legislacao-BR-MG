@@ -58,89 +58,52 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei| |
-
-|nº 11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0020.2878.339039.1.660.000 |48.690,00 |
-
-|3701.08.245.0020.2878.339039.1.500.000 |1.612.505,00 |
-
-|3701.08.244.0019.2405.319092.1.660.000 |89,82 |
-
-|3701.08.244.0019.2405.339037.1.661.000 |1.555.406,68 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.131.0015.2007.339039.1.500.000 |56.000,00 |
-
-|Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |
-
-|3400.04.122.0007.2900.319011.1.500.000 |2.500,00 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.339036.1.500.000 |105.000,00 |
-
-|3600.04.122.0007.2900.339039.1.500.000 |1.600.000,00 |
-
-|3600.04.122.0093.2934.339030.1.500.000 |48.000,00 |
-
-|3600.04.122.0093.2934.339039.1.500.000 |1.291.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |6.319.191,50 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei |  |
+| nº 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0020.2878.339039.1.660.000 | 48.690,00 |
+| 3701.08.245.0020.2878.339039.1.500.000 | 1.612.505,00 |
+| 3701.08.244.0019.2405.319092.1.660.000 | 89,82 |
+| 3701.08.244.0019.2405.339037.1.661.000 | 1.555.406,68 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.131.0015.2007.339039.1.500.000 | 56.000,00 |
+| Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |  |
+| 3400.04.122.0007.2900.319011.1.500.000 | 2.500,00 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.339036.1.500.000 | 105.000,00 |
+| 3600.04.122.0007.2900.339039.1.500.000 | 1.600.000,00 |
+| 3600.04.122.0093.2934.339030.1.500.000 | 48.000,00 |
+| 3600.04.122.0093.2934.339039.1.500.000 | 1.291.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 6.319.191,50 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, conforme| |
-
-|autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.243.0127.2860.319011.1.500.000 |2.500,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0302.1334.339039.1.500.000 |1.705.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0020.2409.339039.1.661.000 |429.000,00 |
-
-|1011.08.244.0113.2804.339040.1.660.000 |48.690,00 |
-
-|1011.08.245.0019.2308.339039.1.661.000 |278.976,68 |
-
-|1011.08.244.0113.2327.449052.1.661.000 |100.000,00 |
-
-|1011.08.244.0019.2405.339030.1.660.000 |89,82 |
-
-|1011.08.244.0019.2405.339037.1.500.000 |1.612.505,00 |
-
-|1011.08.244.0113.2804.339039.1.661.000 |239.800,00 |
-
-|1011.08.244.0113.2804.449052.1.661.000 |102.000,00 |
-
-|1011.08.245.0020.2878.339039.1.661.000 |204.630,00 |
-
-|1011.08.245.0020.2878.449052.1.661.000 |201.000,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2934.339030.1.500.000 |48.000,00 |
-
-|0201.04.122.0096.2934.339039.1.500.000 |1.291.000,00 |
-
-|0201.04.122.0007.2900.339037.1.500.000 |56.000,00 |
-
-|TOTAL DA ANULAÇÃO |6.319.191,50 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, conforme |  |
+| autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.243.0127.2860.319011.1.500.000 | 2.500,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0302.1334.339039.1.500.000 | 1.705.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0020.2409.339039.1.661.000 | 429.000,00 |
+| 1011.08.244.0113.2804.339040.1.660.000 | 48.690,00 |
+| 1011.08.245.0019.2308.339039.1.661.000 | 278.976,68 |
+| 1011.08.244.0113.2327.449052.1.661.000 | 100.000,00 |
+| 1011.08.244.0019.2405.339030.1.660.000 | 89,82 |
+| 1011.08.244.0019.2405.339037.1.500.000 | 1.612.505,00 |
+| 1011.08.244.0113.2804.339039.1.661.000 | 239.800,00 |
+| 1011.08.244.0113.2804.449052.1.661.000 | 102.000,00 |
+| 1011.08.245.0020.2878.339039.1.661.000 | 204.630,00 |
+| 1011.08.245.0020.2878.449052.1.661.000 | 201.000,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2934.339030.1.500.000 | 48.000,00 |
+| 0201.04.122.0096.2934.339039.1.500.000 | 1.291.000,00 |
+| 0201.04.122.0007.2900.339037.1.500.000 | 56.000,00 |
+| TOTAL DA ANULAÇÃO | 6.319.191,50 |
 
 ANEXO II
 
@@ -172,20 +135,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos especiais abertos anteriormente |980.140.675,09 |
-
-|Valor do Decreto publicado nesta data |6.319.191,50 |
-
-|Valor total dos créditos especiais abertos no exercício |986.459.866,59 |
-
-|Saldo atual do limite autorizado |1.062.567.360,34 |
-
-|Percentual utilizado |48,14% |
-
-|Atualizado em 08/07/2025 às 12:58:05 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos especiais abertos anteriormente | 980.140.675,09 |
+| Valor do Decreto publicado nesta data | 6.319.191,50 |
+| Valor total dos créditos especiais abertos no exercício | 986.459.866,59 |
+| Saldo atual do limite autorizado | 1.062.567.360,34 |
+| Percentual utilizado | 48,14% |
+| Atualizado em 08/07/2025 às 12:58:05 |  |

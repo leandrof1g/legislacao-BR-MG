@@ -68,47 +68,28 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48| |
-
-|da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |17.553,10 |
-
-|2302.10.302.0114.2936.339030.2.621.000 |144.855,52 |
-
-|2302.10.302.0114.2936.335043.2.621.000 |1.989.507,94 |
-
-|2302.10.305.0028.2829.449052.2.621.000 |180.000,00 |
-
-|2302.10.302.0114.2936.335043.2.621.610 |166.335,86 |
-
-|Fundação Municipal de Cultura - FMC |
-
-|3103.13.122.0146.2900.339093.2.501.784 |200,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2545.339039.2.700.510 |149.716,18 |
-
-|3000.27.812.0101.2545.339039.2.500.000 |35.721,28 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449051.2.500.000 |1.698.799,66 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2566.449051.2.754.791 |4.721.775,38 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2539.339035.2.501.784 |1.912.177,42 |
-
-|TOTAL DA SUPLEMENTAÇÃO |11.016.642,34 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 |  |
+| da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 17.553,10 |
+| 2302.10.302.0114.2936.339030.2.621.000 | 144.855,52 |
+| 2302.10.302.0114.2936.335043.2.621.000 | 1.989.507,94 |
+| 2302.10.305.0028.2829.449052.2.621.000 | 180.000,00 |
+| 2302.10.302.0114.2936.335043.2.621.610 | 166.335,86 |
+| Fundação Municipal de Cultura - FMC |  |
+| 3103.13.122.0146.2900.339093.2.501.784 | 200,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.2.700.510 | 149.716,18 |
+| 3000.27.812.0101.2545.339039.2.500.000 | 35.721,28 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449051.2.500.000 | 1.698.799,66 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2566.449051.2.754.791 | 4.721.775,38 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2539.339035.2.501.784 | 1.912.177,42 |
+| TOTAL DA SUPLEMENTAÇÃO | 11.016.642,34 |
 
 ANEXO II
 

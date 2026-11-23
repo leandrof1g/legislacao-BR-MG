@@ -72,53 +72,31 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49| |
-
-|da Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339039.621 |1.961.328,57 |
-
-|2302.10.305.0028.2829.339030.621 |155.461,20 |
-
-|2302.10.302.0114.2936.339139.621 |95.262,96 |
-
-|2302.10.302.0114.2936.339030.621 |19.210,16 |
-
-|2302.10.301.0157.2690.339036.621 |36.603,06 |
-
-|2302.10.305.0028.2829.339039.621 |42.000,00 |
-
-|2302.10.305.0028.2829.335043.621 |853.057,53 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1400.449051.701 |18.695.158,67 |
-
-|2700.17.512.0066.1400.449039.701 |500.000,00 |
-
-|2700.15.451.0062.1230.449051.752 |50.000.000,00 |
-
-|2700.04.122.0044.1219.449051.703 |2.224.742,65 |
-
-|2700.17.512.0046.2537.449051.703 |600.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.339039.710 |348.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2647.339039.660 |179.274,02 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.212.0005.2758.339193.749 |91.538,80 |
-
-|TOTAL DA SUPLEMENTAÇÃO |75.801.637,62 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 |  |
+| da Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339039.621 | 1.961.328,57 |
+| 2302.10.305.0028.2829.339030.621 | 155.461,20 |
+| 2302.10.302.0114.2936.339139.621 | 95.262,96 |
+| 2302.10.302.0114.2936.339030.621 | 19.210,16 |
+| 2302.10.301.0157.2690.339036.621 | 36.603,06 |
+| 2302.10.305.0028.2829.339039.621 | 42.000,00 |
+| 2302.10.305.0028.2829.335043.621 | 853.057,53 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1400.449051.701 | 18.695.158,67 |
+| 2700.17.512.0066.1400.449039.701 | 500.000,00 |
+| 2700.15.451.0062.1230.449051.752 | 50.000.000,00 |
+| 2700.04.122.0044.1219.449051.703 | 2.224.742,65 |
+| 2700.17.512.0046.2537.449051.703 | 600.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.339039.710 | 348.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2647.339039.660 | 179.274,02 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.212.0005.2758.339193.749 | 91.538,80 |
+| TOTAL DA SUPLEMENTAÇÃO | 75.801.637,62 |
 
 ANEXO II
 

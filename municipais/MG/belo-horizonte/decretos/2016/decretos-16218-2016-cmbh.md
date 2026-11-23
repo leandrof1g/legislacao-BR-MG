@@ -30,17 +30,13 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 “
 
-|ANEXO ÚNICO |
-
-|PREÇOS PÚBLICOS |
-
-|[...] |
-
-|GRUPO II - PELO USO E OCUPAÇÃO DE DEPENDÊNCIAS PÚBLICAS (AUTORIZAÇÃO, PERMISSÃO OU CONCESSÃO): |
-
-|[...] |
-
-|6 - Utilização de Instalações Sanitárias: R$0,50 (cinquenta centavos) p/pessoa. |
+| ANEXO ÚNICO |
+| --- |
+| PREÇOS PÚBLICOS |
+| [...] |
+| GRUPO II - PELO USO E OCUPAÇÃO DE DEPENDÊNCIAS PÚBLICAS (AUTORIZAÇÃO, PERMISSÃO OU CONCESSÃO): |
+| [...] |
+| 6 - Utilização de Instalações Sanitárias: R$0,50 (cinquenta centavos) p/pessoa. |
 
 ” (NR)
 

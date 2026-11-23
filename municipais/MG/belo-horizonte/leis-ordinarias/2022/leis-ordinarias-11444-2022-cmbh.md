@@ -68,4 +68,5 @@ ANEXO ÚNICO
 
 Modelo do cordão de girassol:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

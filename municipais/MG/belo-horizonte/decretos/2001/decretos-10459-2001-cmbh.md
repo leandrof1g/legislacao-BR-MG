@@ -46,13 +46,7 @@ Júlio Ribeiro Pires
 
 Secretário Municipal de Coordenação de Finanças
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 1
 

@@ -56,13 +56,11 @@ II - (Revogado); III - a Gratificação por Extensão de Jornada, no valor de R$
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO | | |
-
-|Diretor de Departamento |Gerente 1º nível |260 |
-
-| | |(NR)". |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO |  |  |
+| Diretor de Departamento | Gerente 1º nível | 260 |
+|  |  | (NR)". |
 
 **Art. 7º** - Fica o Executivo autorizado a abrir crédito adicional até o valor de R$15.114.770,00 (quinze milhões, cento e quatorze mil, setecentos e setenta reais), para atender às despesas relativas à Segurança Patrimonial e aos projetos de convênio firmado com o Estado e com entidades da sociedade civil, na área de Segurança Pública.
 

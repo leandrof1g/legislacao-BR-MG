@@ -56,71 +56,43 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida nos arts. 1º e 3º|R$ |
-
-|da Lei nº 11.602, de 17 de outubro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED | |
-
-|2200.0300.12.361.168.2.046.339039.500 |50.000,00 |
-
-|2200.0400.12.361.168.2.046.445042.500 |55.150,00 |
-
-|2200.0500.12.361.168.2.080.449052.500 |450.000,00 |
-
-|2200.0600.12.361.168.2.046.445042.500 |470.000,00 |
-
-|2200.0600.12.365.169.2.046.445042.500 |400.000,00 |
-
-|2200.0700.12.361.168.2.046.445042.500 |200.000,00 |
-
-|2200.0700.12.365.169.2.046.445042.500 |300.000,00 |
-
-|2200.0700.12.367.167.2.046.339039.500 |90.000,00 |
-
-|2200.0700.12.367.167.2.046.445042.500 |100.000,00 |
-
-|2200.0900.12.361.168.2.046.445042.500 |300.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI | |
-
-|2700.0300.17.512.066.1.203.449051.500 |50.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.465.150,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida nos arts. 1º e 3º | R$ |
+| --- | --- |
+| da Lei nº 11.602, de 17 de outubro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0300.12.361.168.2.046.339039.500 | 50.000,00 |
+| 2200.0400.12.361.168.2.046.445042.500 | 55.150,00 |
+| 2200.0500.12.361.168.2.080.449052.500 | 450.000,00 |
+| 2200.0600.12.361.168.2.046.445042.500 | 470.000,00 |
+| 2200.0600.12.365.169.2.046.445042.500 | 400.000,00 |
+| 2200.0700.12.361.168.2.046.445042.500 | 200.000,00 |
+| 2200.0700.12.365.169.2.046.445042.500 | 300.000,00 |
+| 2200.0700.12.367.167.2.046.339039.500 | 90.000,00 |
+| 2200.0700.12.367.167.2.046.445042.500 | 100.000,00 |
+| 2200.0900.12.361.168.2.046.445042.500 | 300.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0300.17.512.066.1.203.449051.500 | 50.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.465.150,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização | |
-
-|contida nos arts. 1º e 3º da Lei nº 11.602, de 17 de outubro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED | |
-
-|2200.0200.12.361.168.2.080.339039.500 |50.000,00 |
-
-|2200.0400.12.365.169.2.542.449052.500 |450.000,00 |
-
-|2200.0500.12.361.168.2.046.339039.500 |55.150,00 |
-
-|2200.0700.12.361.168.2.080.339039.500 |150.000,00 |
-
-|2200.0700.12.365.169.2.046.339039.500 |540.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI | |
-
-|2700.0600.12.365.169.1.211.449051.500 |470.000,00 |
-
-|2700.0600.27.812.101.1.213.449051.500 |400.000,00 |
-
-|2700.0900.12.365.169.1.211.449051.500 |300.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL | |
-
-|3000.1100.27.812.101.2.534.449052.500 |50.000,00 |
-
-|TOTAL DA ANULAÇÃO |2.465.150,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização |  |
+| contida nos arts. 1º e 3º da Lei nº 11.602, de 17 de outubro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0200.12.361.168.2.080.339039.500 | 50.000,00 |
+| 2200.0400.12.365.169.2.542.449052.500 | 450.000,00 |
+| 2200.0500.12.361.168.2.046.339039.500 | 55.150,00 |
+| 2200.0700.12.361.168.2.080.339039.500 | 150.000,00 |
+| 2200.0700.12.365.169.2.046.339039.500 | 540.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0600.12.365.169.1.211.449051.500 | 470.000,00 |
+| 2700.0600.27.812.101.1.213.449051.500 | 400.000,00 |
+| 2700.0900.12.365.169.1.211.449051.500 | 300.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.812.101.2.534.449052.500 | 50.000,00 |
+| TOTAL DA ANULAÇÃO | 2.465.150,00 |
 
 ANEXO II
 

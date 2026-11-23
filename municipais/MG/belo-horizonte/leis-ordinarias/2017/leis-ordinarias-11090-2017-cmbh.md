@@ -50,88 +50,55 @@ ANEXO I
 
 Fator de reajuste para as aposentadorias e pensões sem direito à paridade, de acordo com as respectivas datas de início, aplicável a partir de janeiro de 2015
 
-|Data de início do benefício |Reajuste (%) |
-
-|Até janeiro de 2014 |6,23 |
-
-|em fevereiro de 2014 |5,56 |
-
-|em março de 2014 |4,89 |
-
-|em abril de 2014 |4,04 |
-
-|em maio de 2014 |3,23 |
-
-|em junho de 2014 |2,62 |
-
-|em julho de 2014 |2,35 |
-
-|em agosto de 2014 |2,22 |
-
-|em setembro de 2014 |2,04 |
-
-|em outubro de 2014 |1,54 |
-
-|em novembro de 2014 |1,15 |
-
-|em dezembro de 2014 |0,62 |
+| Data de início do benefício | Reajuste (%) |
+| --- | --- |
+| Até janeiro de 2014 | 6,23 |
+| em fevereiro de 2014 | 5,56 |
+| em março de 2014 | 4,89 |
+| em abril de 2014 | 4,04 |
+| em maio de 2014 | 3,23 |
+| em junho de 2014 | 2,62 |
+| em julho de 2014 | 2,35 |
+| em agosto de 2014 | 2,22 |
+| em setembro de 2014 | 2,04 |
+| em outubro de 2014 | 1,54 |
+| em novembro de 2014 | 1,15 |
+| em dezembro de 2014 | 0,62 |
 
 ANEXO II
 
 Fator de reajuste para as aposentadorias e pensões sem direito à paridade, de acordo com as respectivas datas de início, aplicável a partir de janeiro de 2016
 
-|Data de início do benefício |Reajuste (%) |
-
-|Até janeiro de 2015 |11,28 |
-
-|em fevereiro de 2015 |9,65 |
-
-|em março de 2015 |8,40 |
-
-|em abril de 2015 |6,78 |
-
-|em maio de 2015 |6,03 |
-
-|em junho de 2015 |4,99 |
-
-|em julho de 2015 |4,19 |
-
-|em agosto de 2015 |3,59 |
-
-|em setembro de 2015 |3,33 |
-
-|em outubro de 2015 |2,81 |
-
-|em novembro de 2015 |2,02 |
-
-|em dezembro de 2015 |0,90 |
+| Data de início do benefício | Reajuste (%) |
+| --- | --- |
+| Até janeiro de 2015 | 11,28 |
+| em fevereiro de 2015 | 9,65 |
+| em março de 2015 | 8,40 |
+| em abril de 2015 | 6,78 |
+| em maio de 2015 | 6,03 |
+| em junho de 2015 | 4,99 |
+| em julho de 2015 | 4,19 |
+| em agosto de 2015 | 3,59 |
+| em setembro de 2015 | 3,33 |
+| em outubro de 2015 | 2,81 |
+| em novembro de 2015 | 2,02 |
+| em dezembro de 2015 | 0,90 |
 
 ANEXO III
 
 Fator de reajuste para as aposentadorias e pensões sem direito à paridade, de acordo com as respectivas datas de início, aplicável a partir de janeiro de 2017
 
-|Data de início do benefício |Reajuste (%) |
-
-|Até janeiro de 2016 |6,58 |
-
-|em fevereiro de 2016 |4,99 |
-
-|em março de 2016 |4,01 |
-
-|em abril de 2016 |3,55 |
-
-|em maio de 2016 |2,89 |
-
-|em junho de 2016 |1,89 |
-
-|em julho de 2016 |1,42 |
-
-|em agosto de 2016 |0,77 |
-
-|em setembro de 2016 |0,46 |
-
-|em outubro de 2016 |0,38 |
-
-|em novembro de 2016 |0,21 |
-
-|em dezembro de 2016 |0,14 |
+| Data de início do benefício | Reajuste (%) |
+| --- | --- |
+| Até janeiro de 2016 | 6,58 |
+| em fevereiro de 2016 | 4,99 |
+| em março de 2016 | 4,01 |
+| em abril de 2016 | 3,55 |
+| em maio de 2016 | 2,89 |
+| em junho de 2016 | 1,89 |
+| em julho de 2016 | 1,42 |
+| em agosto de 2016 | 0,77 |
+| em setembro de 2016 | 0,46 |
+| em outubro de 2016 | 0,38 |
+| em novembro de 2016 | 0,21 |
+| em dezembro de 2016 | 0,14 |

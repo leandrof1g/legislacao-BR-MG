@@ -30,125 +30,76 @@ O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 10
 
 I - Para a Secretaria Municipal da Coordenação de Gestão Regional Nordeste-SCOMGER-NE
 
-|1400.030070212.536 - 3120 - Fonte 03.00 |
-
-|Serviços Adm. e Financeiros da Gestão Regional |19.540,00 |
-
-|1400.030070212.536 - 3131 - Fonte 03.00 | |
-
-|Serviços Adm. e Financeiros da Gestão Regional |4.800,00 |
-
-|1400.030070212.536 - 3132 - Fonte 03.00 | |
-
-|Serviços Adm. e Financeiros da Gestão Regional |43.950,00 |
+| 1400.030070212.536 - 3120 - Fonte 03.00 |  |
+| --- | --- |
+| Serviços Adm. e Financeiros da Gestão Regional | 19.540,00 |
+| 1400.030070212.536 - 3131 - Fonte 03.00 |  |
+| Serviços Adm. e Financeiros da Gestão Regional | 4.800,00 |
+| 1400.030070212.536 - 3132 - Fonte 03.00 |  |
+| Serviços Adm. e Financeiros da Gestão Regional | 43.950,00 |
 
 II - Para a Secretaria Municipal Regional de Serviços Urbanos - SMSUR-NE
 
-|1401.100583232.540 - 3131 - Fonte 03.00 |
-
-|Gestão do Controle Urbano e Ambiental |4.600,00 |
-
-|1401.100583232.540 - 3132 - Fonte 03.00 | |
-
-|Gestão do Controle Urbano e Ambiental |5.000,00 |
-
-|1401.100603282.079 - 3131 - Fonte 03.00 | |
-
-|Implantação e Manutenção de Parques e Jardins |1.200,00 |
-
-|1401.100603282.079 - 3132 - Fonte 03.00 | |
-
-|Implantação e Manutenção de Parques e Jardins |51.000,00 |
-
-|1401.100603282.079 - 4110 - Fonte 04.00 | |
-
-|Implantação e Manutenção de Parques e Jardins |55.337,00 |
-
-|1401.160915751.230 - 3131 - Fonte 03.00 | |
-
-|Impl. e Pavimentação de Vias Públicas |1.200,00 |
+| 1401.100583232.540 - 3131 - Fonte 03.00 |  |
+| --- | --- |
+| Gestão do Controle Urbano e Ambiental | 4.600,00 |
+| 1401.100583232.540 - 3132 - Fonte 03.00 |  |
+| Gestão do Controle Urbano e Ambiental | 5.000,00 |
+| 1401.100603282.079 - 3131 - Fonte 03.00 |  |
+| Implantação e Manutenção de Parques e Jardins | 1.200,00 |
+| 1401.100603282.079 - 3132 - Fonte 03.00 |  |
+| Implantação e Manutenção de Parques e Jardins | 51.000,00 |
+| 1401.100603282.079 - 4110 - Fonte 04.00 |  |
+| Implantação e Manutenção de Parques e Jardins | 55.337,00 |
+| 1401.160915751.230 - 3131 - Fonte 03.00 |  |
+| Impl. e Pavimentação de Vias Públicas | 1.200,00 |
 
 III - Para a Secretaria Municipal Regional de Serviços Sociais- SMSES-NE
 
-|1402.080411902.542 - 3131 - Fonte 03.00 | |
-
-|Administração da Educação Infantil |1.200,00 |
-
-|1402.080411902.542 - 3132 - Fonte 03.00 | |
-
-|Administração da Educação Infantil |13.000,00 |
-
-|1402.080421881.211 - 3132 - Fonte 03.00 | |
-
-|Const. Ampliação e Reforma de Unidades de Ensino |13.007,00 |
-
-|1402.080421881.211 - 4110 - Fonte 04.00 | |
-
-|Const. Ampliação e Reforma de Unidades de Ensino |23.710,00 |
-
-|1402.080421882.080 - 3131 - Fonte 03.00 | |
-
-|Administração do Ensino Fundamental |19.000,00 |
-
-|1402.080421882.080 - 3132 - Fonte 03.00 | |
-
-|Administração do Ensino Fundamental |368.400,00 |
-
-|1402.080431882.150 - 3132 - Fonte 03.00 | |
-
-|Administração do Ensino Médio |12.200,00 |
-
-|1402.080482472.081 - 3131 - Fonte 03.00 | |
-
-|Promoção e Impl. Equipamentos e Eventos Culturais |2.600,00 |
-
-|1402.080482472.081 - 3132 - Fonte 03.00 | |
-
-|Promoção e Impl. Equipamentos e Eventos Culturais |700,00 |
-
-|1402.150814862.218 - 3131 - Fonte 03.00 | |
-
-|Apoio ao Desenvolvimento Social |4.000,00 |
+| 1402.080411902.542 - 3131 - Fonte 03.00 |  |
+| --- | --- |
+| Administração da Educação Infantil | 1.200,00 |
+| 1402.080411902.542 - 3132 - Fonte 03.00 |  |
+| Administração da Educação Infantil | 13.000,00 |
+| 1402.080421881.211 - 3132 - Fonte 03.00 |  |
+| Const. Ampliação e Reforma de Unidades de Ensino | 13.007,00 |
+| 1402.080421881.211 - 4110 - Fonte 04.00 |  |
+| Const. Ampliação e Reforma de Unidades de Ensino | 23.710,00 |
+| 1402.080421882.080 - 3131 - Fonte 03.00 |  |
+| Administração do Ensino Fundamental | 19.000,00 |
+| 1402.080421882.080 - 3132 - Fonte 03.00 |  |
+| Administração do Ensino Fundamental | 368.400,00 |
+| 1402.080431882.150 - 3132 - Fonte 03.00 |  |
+| Administração do Ensino Médio | 12.200,00 |
+| 1402.080482472.081 - 3131 - Fonte 03.00 |  |
+| Promoção e Impl. Equipamentos e Eventos Culturais | 2.600,00 |
+| 1402.080482472.081 - 3132 - Fonte 03.00 |  |
+| Promoção e Impl. Equipamentos e Eventos Culturais | 700,00 |
+| 1402.150814862.218 - 3131 - Fonte 03.00 |  |
+| Apoio ao Desenvolvimento Social | 4.000,00 |
 
 **Art.2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$ 644.444,00 (seiscentos e quarenta e quatro mil, quatrocentos e quarenta e quatro reais):
 
-|2300.030070212.078 - 3120 - Fonte 03.00 |19.540,00 |
-
-|2300.030070212.078 - 3131 - Fonte 03.00 |4.800,00 |
-
-|2300.030070212.078 - 3132 - Fonte 03.00 |43.950,00 |
-
-|2300.100583232.031 - 3131 - Fonte 03.00 |4.600,00 |
-
-|2300.100583232.031 - 3132 - Fonte 03.00 |5.000,00 |
-
-|2300.100603282.079 - 3131 - Fonte 03.00 |1.200,00 |
-
-|2300.100603282.079 - 3132 - Fonte 03.00 |95.914,00 |
-
-|2300.100603282.079 - 4110 - Fonte 04.00 |10.423,00 |
-
-|2300.160915751.230 - 3131 - Fonte 03.00 |1.200,00 |
-
-|2300.080411902.151 - 3131 - Fonte 03.00 |1.200,00 |
-
-|2300.080411902.151 - 3132 - Fonte 03.00 |13.000,00 |
-
-|2300.080421881.211 - 3132 - Fonte 03.00 |13.007,00 |
-
-|2300.080421881.211 - 4110 - Fonte 04.00 |23.710,00 |
-
-|2300.080421882.080 - 3131 - Fonte 03.00 |19.000,00 |
-
-|2300.080421882.080 - 3132 - Fonte 03.00 |368.400,00 |
-
-|2300.080431882.150 - 3132 - Fonte 03.00 |12.200,00 |
-
-|2300.080482472.081 - 3131 - Fonte 03.00 |2.600,00 |
-
-|2300.080482472.081 - 3132 - Fonte 03.00 |700,00 |
-
-|2300.150814862.218 - 3131 - Fonte 03.00 |4.000,00 |
+| 2300.030070212.078 - 3120 - Fonte 03.00 | 19.540,00 |
+| --- | --- |
+| 2300.030070212.078 - 3131 - Fonte 03.00 | 4.800,00 |
+| 2300.030070212.078 - 3132 - Fonte 03.00 | 43.950,00 |
+| 2300.100583232.031 - 3131 - Fonte 03.00 | 4.600,00 |
+| 2300.100583232.031 - 3132 - Fonte 03.00 | 5.000,00 |
+| 2300.100603282.079 - 3131 - Fonte 03.00 | 1.200,00 |
+| 2300.100603282.079 - 3132 - Fonte 03.00 | 95.914,00 |
+| 2300.100603282.079 - 4110 - Fonte 04.00 | 10.423,00 |
+| 2300.160915751.230 - 3131 - Fonte 03.00 | 1.200,00 |
+| 2300.080411902.151 - 3131 - Fonte 03.00 | 1.200,00 |
+| 2300.080411902.151 - 3132 - Fonte 03.00 | 13.000,00 |
+| 2300.080421881.211 - 3132 - Fonte 03.00 | 13.007,00 |
+| 2300.080421881.211 - 4110 - Fonte 04.00 | 23.710,00 |
+| 2300.080421882.080 - 3131 - Fonte 03.00 | 19.000,00 |
+| 2300.080421882.080 - 3132 - Fonte 03.00 | 368.400,00 |
+| 2300.080431882.150 - 3132 - Fonte 03.00 | 12.200,00 |
+| 2300.080482472.081 - 3131 - Fonte 03.00 | 2.600,00 |
+| 2300.080482472.081 - 3132 - Fonte 03.00 | 700,00 |
+| 2300.150814862.218 - 3131 - Fonte 03.00 | 4.000,00 |
 
 **Art.3º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
 

@@ -388,7 +388,7 @@ Anexo I promulgado pela Câmara em 22/02/2007 e publicado em 28/04/2007
 
 NÍVEIS MÁXIMOS PARA SONS E RUÍDOS EXTERNOS EM dB (A), VINCULADOS AO ZONEAMENTO MUNICIPAL E AO SISTEMA VIÁRIO ESTABELECIDO PELA LEI N° 7.166, DE 27 DE AGOSTO DE 1996 (instituído pelo art. 7º desta Lei)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

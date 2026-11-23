@@ -304,65 +304,37 @@ PARA A REGIÃO METROPOLITANA DE BELO HORIZONTE
 
 FONTES DE RECURSOS
 
-|Fontes |Valor em |Percentual |
-
-| |Cr$ 1.000,00 |% |
-
-|1. RECURSOS DA UNIÃO |65.712 |70,00 |
-
-|1.1 - Não reembolsáveis |65.712 |70,00 |
-
-|1.1.1 - FNDU/FDTU |(32.856) |(35,00) |
-
-|1.1.2 - Provenientes contrato República Federativa do | |(35,00) |
-
-|Brasil/BIRD |(32.856) | |
-
-| | | |
-
-|2. RECURSOS DO ESTADO |28.162 |30,00 |
-
-|2.1 - Orçamentários |28.162 |30,00 |
-
-|TOTAL |93.874 |100,00 |
-
-|Projetos e Obras Estado |União |Total |
-
-| |FNDU/FDTU |EBTU/BIRD | |
-
-|MELHORAMENTOS TÓPICOS 10.132 |11.836 |11.836 |33.804 |
-
-|Área Central Av. Pedro II e Av. Antônio | | | |
-
-|Carlos |11.836 |11.836 |33.804 |
-
-|10.132 | | | |
-
-| | | | |
-
-|PAVIMENTAÇÃO BAIRROS DE BAIXA |5.470 |21.020 |31.170 |
-
-|RENDA |5.470 |21.020 |31.170 |
-
-|4.680 | | | |
-
-|B.1 – Obras |15.550 |- |22.200 |
-
-|4.680 |15.550 |- |22.200 |
-
-| | | | |
-
-|AVENIDA CRISTIANO MACHADO 6.650 |- |- |6.700 |
-
-|C.1 – Desapropriação 6.650 | | | |
-
-| | | | |
-
-|ELABORAÇÃO DE PROJETOS 6.700 | | | |
-
-|TOTAL |32.856 |32.856 |93.874 |
-
-|28.162 | | | |
+| Fontes | Valor em | Percentual |  |
+| --- | --- | --- | --- |
+|  | Cr$ 1.000,00 | % |  |
+| 1. RECURSOS DA UNIÃO | 65.712 | 70,00 |  |
+| 1.1 - Não reembolsáveis | 65.712 | 70,00 |  |
+| 1.1.1 - FNDU/FDTU | (32.856) | (35,00) |  |
+| 1.1.2 - Provenientes contrato República Federativa do |  | (35,00) |  |
+| Brasil/BIRD | (32.856) |  |  |
+|  |  |  |  |
+| 2. RECURSOS DO ESTADO | 28.162 | 30,00 |  |
+| 2.1 - Orçamentários | 28.162 | 30,00 |  |
+| TOTAL | 93.874 | 100,00 |  |
+| Projetos e Obras Estado | União | Total |  |
+|  | FNDU/FDTU | EBTU/BIRD |  |
+| MELHORAMENTOS TÓPICOS 10.132 | 11.836 | 11.836 | 33.804 |
+| Área Central Av. Pedro II e Av. Antônio |  |  |  |
+| Carlos | 11.836 | 11.836 | 33.804 |
+| 10.132 |  |  |  |
+|  |  |  |  |
+| PAVIMENTAÇÃO BAIRROS DE BAIXA | 5.470 | 21.020 | 31.170 |
+| RENDA | 5.470 | 21.020 | 31.170 |
+| 4.680 |  |  |  |
+| B.1 – Obras | 15.550 | - | 22.200 |
+| 4.680 | 15.550 | - | 22.200 |
+|  |  |  |  |
+| AVENIDA CRISTIANO MACHADO 6.650 | - | - | 6.700 |
+| C.1 – Desapropriação 6.650 |  |  |  |
+|  |  |  |  |
+| ELABORAÇÃO DE PROJETOS 6.700 |  |  |  |
+| TOTAL | 32.856 | 32.856 | 93.874 |
+| 28.162 |  |  |  |
 
 **Art. 2º** - Esta Resolução entra em vigor, na data de sua publicação, revogadas as disposições em contrário.
 

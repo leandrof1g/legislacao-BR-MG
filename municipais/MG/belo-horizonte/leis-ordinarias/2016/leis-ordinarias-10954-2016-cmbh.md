@@ -128,57 +128,33 @@ Anexos I e II encontram-se em arquivos à parte
 
 ANEXO III – VALORES DE REFERÊNCIA (dezembro/2015)
 
-|CÁLCULO DA CONTRAPARTIDA |
-
-|0,44 x 6.039,46m² x R$5.222,21 x 0,5 /1,4 = R$4.956.180,18 |
-
-|CRONOGRAMA, ORÇAMENTO E ESCOPO PRELIMINARES DAS INTERVENÇÕES |
-
-|INTERVENÇÃO |CUSTO |PRAZO |
-
-| | |Para o Alvará de Construção |Conforme § 7º do art. 2º|
-
-| | |(exceto na hipótese do § 5º |desta lei |
-
-| | |do art. 2º desta lei) | |
-
-|Implantação de abrigos especiais para passageiros de |R$75.013,31 |Projeto |Implantação |
-
-|ônibus | | | |
-
-|Descrição: implantação de 8 (oito) abrigos para | | | |
-
-|passageiros de ônibus, com assentos, sistema de | | | |
-
-|informação integrado e lixeiras, nos pontos de | | | |
-
-|embarque e desembarque de transporte coletivo ao | | | |
-
-|longo da Rua Francisco Deslandes. | | | |
-
-|Implantação de iluminação direcionada para pedestres |R$1.088.826,41 |Projeto |Implantação |
-
-|(2º nível) | | | |
-
-|Descrição: implantação de iluminação mais baixa, | | | |
-
-|abaixo da copa das árvores, direcionada para a | | | |
-
-|circulação de pedestres. | | | |
-
-|Implantação da praça integrada ao Parque Julien Rien |R$526.800,00 |Projeto |Implantação |
-
-|Descrição: intervenção de qualificação de praça | | | |
-
-|pública, com redução da circulação de veículos, | | | |
-
-|ampliação das áreas de apropriação e fruição, | | | |
-
-|implantação de mobiliário urbano (incluindo | | | |
-
-|sinalização para o parque), arborização e | | | |
-
-|ajardinamento. | | | |
+| CÁLCULO DA CONTRAPARTIDA |  |  |  |
+| --- | --- | --- | --- |
+| 0,44 x 6.039,46m² x R$5.222,21 x 0,5 /1,4 = R$4.956.180,18 |  |  |  |
+| CRONOGRAMA, ORÇAMENTO E ESCOPO PRELIMINARES DAS INTERVENÇÕES |  |  |  |
+| INTERVENÇÃO | CUSTO | PRAZO |  |
+|  |  | Para o Alvará de Construção | Conforme § 7º do art. 2º |
+|  |  | (exceto na hipótese do § 5º | desta lei |
+|  |  | do art. 2º desta lei) |  |
+| Implantação de abrigos especiais para passageiros de | R$75.013,31 | Projeto | Implantação |
+| ônibus |  |  |  |
+| Descrição: implantação de 8 (oito) abrigos para |  |  |  |
+| passageiros de ônibus, com assentos, sistema de |  |  |  |
+| informação integrado e lixeiras, nos pontos de |  |  |  |
+| embarque e desembarque de transporte coletivo ao |  |  |  |
+| longo da Rua Francisco Deslandes. |  |  |  |
+| Implantação de iluminação direcionada para pedestres | R$1.088.826,41 | Projeto | Implantação |
+| (2º nível) |  |  |  |
+| Descrição: implantação de iluminação mais baixa, |  |  |  |
+| abaixo da copa das árvores, direcionada para a |  |  |  |
+| circulação de pedestres. |  |  |  |
+| Implantação da praça integrada ao Parque Julien Rien | R$526.800,00 | Projeto | Implantação |
+| Descrição: intervenção de qualificação de praça |  |  |  |
+| pública, com redução da circulação de veículos, |  |  |  |
+| ampliação das áreas de apropriação e fruição, |  |  |  |
+| implantação de mobiliário urbano (incluindo |  |  |  |
+| sinalização para o parque), arborização e |  |  |  |
+| ajardinamento. |  |  |  |
 
 Observação: Os recursos correspondentes ao saldo do valor da contrapartida, após a realização das intervenções previstas neste Anexo III, serão destinados à manutenção, à conservação e à operação das estruturas implantadas ou requalificadas acima descritas, bem como de outras a critério do Executivo.
 

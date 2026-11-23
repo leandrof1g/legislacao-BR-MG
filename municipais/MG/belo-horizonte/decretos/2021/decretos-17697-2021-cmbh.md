@@ -52,26 +52,19 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundação Municipal de Cultura – FMC –, conforme autorização contida no § 2º do art. 4º da Lei nº 11.277, de 28 de dezembro |
-
-|de 2020: |
-
-|R$ |
-
-|3103.13.391.155.2.908.4490.0000 |200.000,00 |
-
-|3103.13.391.155.2.908.4490.0000 |400.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |600.000,00 |
+| I.1 – A favor do Fundação Municipal de Cultura – FMC –, conforme autorização contida no § 2º do art. 4º da Lei nº 11.277, de 28 de dezembro |  |
+| --- | --- |
+| de 2020: |  |
+| R$ |  |
+| 3103.13.391.155.2.908.4490.0000 | 200.000,00 |
+| 3103.13.391.155.2.908.4490.0000 | 400.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 600.000,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1 da tabela anterior: |
-
-|R$ |
-
-|3103.13.391.155.2.908.3390.0000 |200.000,00 |
-
-|3103.13.391.155.2.908.3390.0000 |400.000,00 |
-
-|TOTAL DA ANULAÇÃO |600.000,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 da tabela anterior: |  |
+| --- | --- |
+| R$ |  |
+| 3103.13.391.155.2.908.3390.0000 | 200.000,00 |
+| 3103.13.391.155.2.908.3390.0000 | 400.000,00 |
+| TOTAL DA ANULAÇÃO | 600.000,00 |

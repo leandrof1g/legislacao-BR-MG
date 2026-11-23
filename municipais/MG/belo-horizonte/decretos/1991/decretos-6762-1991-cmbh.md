@@ -98,13 +98,11 @@ II - Expositor pai, mãe, filho ou filha de expositor.
 
 I - Obedecer rigorosamente aos horários de início e término das feiras, conforme a seguinte escala:
 
-| |Início da montagem |Término da desmontagem |
-
-|Feira de Arte de Artesanato |05:00 h |15:00 h |
-
-|Feira de Comidas e Bebidas Típicas e Antigüidades |08:00 h |17:00 h |
-
-|Feira de Flores e Plantas Naturais |14:00 h |22:00 h |
+|  | Início da montagem | Término da desmontagem |
+| --- | --- | --- |
+| Feira de Arte de Artesanato | 05:00 h | 15:00 h |
+| Feira de Comidas e Bebidas Típicas e Antigüidades | 08:00 h | 17:00 h |
+| Feira de Flores e Plantas Naturais | 14:00 h | 22:00 h |
 
 II - Obedecer rigorosamente, à localização determinada e não exceder o espaço que lhe for atribuído sob pena de apreensão de suas mercadorias;
 

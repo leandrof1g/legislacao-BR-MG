@@ -100,6 +100,5 @@ ANEXO
 
 (a que se refere o art. 1º do Decreto nº19.634, de 25 de junho de 2026)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]

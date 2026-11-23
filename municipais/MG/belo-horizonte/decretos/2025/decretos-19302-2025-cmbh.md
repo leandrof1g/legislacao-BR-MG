@@ -62,23 +62,16 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei | |
-
-|nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2542.445052.2.710.610 |140.000,00 |
-
-|2200.12.361.0168.2046.445052.2.710.610 |602.273,03 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449193.2.703.000 |2,37 |
-
-|TOTAL DA SUPLEMENTAÇÃO |742.275,40 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.445052.2.710.610 | 140.000,00 |
+| 2200.12.361.0168.2046.445052.2.710.610 | 602.273,03 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449193.2.703.000 | 2,37 |
+| TOTAL DA SUPLEMENTAÇÃO | 742.275,40 |
 
 ANEXO II
 

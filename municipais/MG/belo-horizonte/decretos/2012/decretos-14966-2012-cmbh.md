@@ -204,97 +204,53 @@ GRAU DE SIGILO:
 
 (idêntico ao grau de sigilo do documento)
 
-|TERMO DE CLASSIFICAÇÃO DE INFORMAÇÃO |
-
-|ÓRGÃO/ENTIDADE: |
-
-|CÓDIGO DE INDEXAÇÃO: |
-
-|GRAU DE SIGILO: |
-
-|CATEGORIA: |
-
-|TIPO DE DOCUMENTO: |
-
-|DATA DE PRODUÇÃO: |
-
-|FUNDAMENTO LEGAL PARA CLASSIFICAÇÃO: |
-
-|RAZÕES PARA A CLASSIFICAÇÃO: |
-
-|(idêntico ao grau de sigilo do documento) |
-
-|PRAZO DA RESTRIÇÃO DE ACESSO: |
-
-|DATA DE CLASSIFICAÇÃO: |
-
-|AUTORIDADE CLASSIFICADORA |Nome: |
-
-| |Cargo: |
-
-|AUTORIDADE RATIFICADORA |Nome: |
-
-|(quando aplicável) | |
-
-| |Cargo: |
-
-| |DESCLASSIFICAÇÃO em ____/____/________ |Nome: |
-
-| |(quando aplicável) | |
-
-| | |Cargo: |
-
-| |RECLASSIFICAÇÃO em ____/____/_________ |Nome: |
-
-| |(quando aplicável) | |
-
-| | |Cargo: |
-
-| |REDUÇÃO DE PRAZO em ____/____/_______ |Nome: |
-
-| |(quando aplicável) | |
-
-| | |Cargo: |
-
-| |PRORROGAÇÃO DE PRAZO em ___/ ____/_____ |Nome: |
-
-| |(quando aplicável) | |
-
-| | |Cargo: |
-
-|_____________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE CLASSIFICADORA |
-
-| |
-
-|_____________________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE RATIFICADORA (quando aplicável) |
-
-| |
-
-|_____________________________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE responsável por DESCLASSIFICAÇÃO (quando aplicável) |
-
-| |
-
-|______________________________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE responsável por RECLASSIFICAÇÃO (quando aplicável) |
-
-| |
-
-|______________________________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE responsável por REDUÇÃO DE PRAZO (quando aplicável) |
-
-| |
-
-|______________________________________________________________________ |
-
-|ASSINATURA DA AUTORIDADE responsável por PRORROGAÇÃO DE PRAZO (quando aplicável) |
+| TERMO DE CLASSIFICAÇÃO DE INFORMAÇÃO |  |  |
+| --- | --- | --- |
+| ÓRGÃO/ENTIDADE: |  |  |
+| CÓDIGO DE INDEXAÇÃO: |  |  |
+| GRAU DE SIGILO: |  |  |
+| CATEGORIA: |  |  |
+| TIPO DE DOCUMENTO: |  |  |
+| DATA DE PRODUÇÃO: |  |  |
+| FUNDAMENTO LEGAL PARA CLASSIFICAÇÃO: |  |  |
+| RAZÕES PARA A CLASSIFICAÇÃO: |  |  |
+| (idêntico ao grau de sigilo do documento) |  |  |
+| PRAZO DA RESTRIÇÃO DE ACESSO: |  |  |
+| DATA DE CLASSIFICAÇÃO: |  |  |
+| AUTORIDADE CLASSIFICADORA | Nome: |  |
+|  | Cargo: |  |
+| AUTORIDADE RATIFICADORA | Nome: |  |
+| (quando aplicável) |  |  |
+|  | Cargo: |  |
+|  | DESCLASSIFICAÇÃO em ____/____/________ | Nome: |
+|  | (quando aplicável) |  |
+|  |  | Cargo: |
+|  | RECLASSIFICAÇÃO em ____/____/_________ | Nome: |
+|  | (quando aplicável) |  |
+|  |  | Cargo: |
+|  | REDUÇÃO DE PRAZO em ____/____/_______ | Nome: |
+|  | (quando aplicável) |  |
+|  |  | Cargo: |
+|  | PRORROGAÇÃO DE PRAZO em ___/ ____/_____ | Nome: |
+|  | (quando aplicável) |  |
+|  |  | Cargo: |
+| _____________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE CLASSIFICADORA |  |  |
+|  |  |  |
+| _____________________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE RATIFICADORA (quando aplicável) |  |  |
+|  |  |  |
+| _____________________________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE responsável por DESCLASSIFICAÇÃO (quando aplicável) |  |  |
+|  |  |  |
+| ______________________________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE responsável por RECLASSIFICAÇÃO (quando aplicável) |  |  |
+|  |  |  |
+| ______________________________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE responsável por REDUÇÃO DE PRAZO (quando aplicável) |  |  |
+|  |  |  |
+| ______________________________________________________________________ |  |  |
+| ASSINATURA DA AUTORIDADE responsável por PRORROGAÇÃO DE PRAZO (quando aplicável) |  |  |
 
 **Art. 22** – Este Decreto entra em vigor na data de sua publicação.
 

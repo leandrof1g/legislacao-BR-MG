@@ -166,41 +166,33 @@ III - TEA é o total de economias servidas por coleta alternada.
 
 **Art. 27** - Acrescente-se ao item 22 da Tabela II da Lei n.º 5.641/89, o seguinte item:
 
-|ITENS DA TABELA DE SERVIÇOS |SERVIÇOS DE: |ALÍQUOTA |(NR)” |
-
-|22 A |Assessoria ou consultoria de |2% | |
-
-| |comunicação social e imprensa. | | |
+| ITENS DA TABELA DE SERVIÇOS | SERVIÇOS DE: | ALÍQUOTA | (NR)” |
+| --- | --- | --- | --- |
+| 22 A | Assessoria ou consultoria de | 2% |  |
+|  | comunicação social e imprensa. |  |  |
 
 **Art. 28** - O item 61 da Tabela II a que se refere o art 47 da Lei n.º 5.641/89, passa a vigorar com a seguinte redação:
 
 " TABELA II RELATIVA ÀS ALÍQUOTAS DO ISSQN
 
-|ITENS DA TABELA DE SERVIÇOS |SERVIÇOS DE: |ALÍQUOTA |(NR) |
-
-|61 |Distribuição e venda de bilhetes de loteria, |3% | |
-
-| |cartões, pules ou cupons de apostas, sorteios ou | | |
-
-| |prêmios. | | |
+| ITENS DA TABELA DE SERVIÇOS | SERVIÇOS DE: | ALÍQUOTA | (NR) |
+| --- | --- | --- | --- |
+| 61 | Distribuição e venda de bilhetes de loteria, | 3% |  |
+|  | cartões, pules ou cupons de apostas, sorteios ou |  |  |
+|  | prêmios. |  |  |
 
 **Art. 29** - Fica acrescido à Tabela II anexa à Lei nº 5.641/89 o seguinte item:
 
 "TABELA II RELATIVA ÀS ALÍQUOTAS DO ISSQN
 
-|ITENS DA TABELA DE SERVIÇOS |SERVIÇOS DE: |ALÍQUOTA |(NR)" |
-
-|101 |Exploração de rodovia mediante cobrança de preço dos usuários, |5% | |
-
-| |envolvendo execução de serviços de conservação, manutenção, | | |
-
-| |melhoramento para adequação de capacidade e segurança de trânsito, | | |
-
-| |operação, monitoramento, assistência aos usuários e outros | | |
-
-| |definidos em contratos, atos de concessão ou de permissão ou em | | |
-
-| |normas oficiais. | | |
+| ITENS DA TABELA DE SERVIÇOS | SERVIÇOS DE: | ALÍQUOTA | (NR)" |
+| --- | --- | --- | --- |
+| 101 | Exploração de rodovia mediante cobrança de preço dos usuários, | 5% |  |
+|  | envolvendo execução de serviços de conservação, manutenção, |  |  |
+|  | melhoramento para adequação de capacidade e segurança de trânsito, |  |  |
+|  | operação, monitoramento, assistência aos usuários e outros |  |  |
+|  | definidos em contratos, atos de concessão ou de permissão ou em |  |  |
+|  | normas oficiais. |  |  |
 
 **Art. 30** - A alínea "c" do item 60 da Tabela II da Lei n.º 5.641, de 23 de dezembro de 1989, passa a ter a seguinte redação:
 

@@ -50,28 +50,17 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Serviços de alimentação, para consumo no local: restaurantes, |Segunda a domingo e feriados, entre 11h e 22h |
-
-|lanchonetes, cantinas, sorveterias, bares e similares, inclusive| |
-
-|aqueles no interior de clubes de serviço, de lazer, sociais, |Comercialização de bebidas alcoólicas somente entre |
-
-|esportivos e similares e com acesso direto de pedestres ao |17h e 22h, de segunda a sexta-feira, e entre 11h e |
-
-|logradouro, se localizados em galerias de lojas, centros de |22h aos sábados, domingos e feriados |
-
-|comércio e shopping centers | |
-
-|Serviços de alimentação, para consumo no local: restaurantes, |Segunda a sábado, entre 11h e 22h |
-
-|lanchonetes, cantinas, sorveterias, bares e similares no | |
-
-|interior de galerias de lojas, centros de comércio e shopping |Comercialização de bebidas alcoólicas somente entre |
-
-|centers |17h e 22h, de segunda a sexta-feira, e entre 11h e |
-
-| |22h aos sábados |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Serviços de alimentação, para consumo no local: restaurantes, | Segunda a domingo e feriados, entre 11h e 22h |
+| lanchonetes, cantinas, sorveterias, bares e similares, inclusive |  |
+| aqueles no interior de clubes de serviço, de lazer, sociais, | Comercialização de bebidas alcoólicas somente entre |
+| esportivos e similares e com acesso direto de pedestres ao | 17h e 22h, de segunda a sexta-feira, e entre 11h e |
+| logradouro, se localizados em galerias de lojas, centros de | 22h aos sábados, domingos e feriados |
+| comércio e shopping centers |  |
+| Serviços de alimentação, para consumo no local: restaurantes, | Segunda a sábado, entre 11h e 22h |
+| lanchonetes, cantinas, sorveterias, bares e similares no |  |
+| interior de galerias de lojas, centros de comércio e shopping | Comercialização de bebidas alcoólicas somente entre |
+| centers | 17h e 22h, de segunda a sexta-feira, e entre 11h e |
+|  | 22h aos sábados |

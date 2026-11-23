@@ -28,11 +28,10 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 1º** - O Anexo IV da Lei nº 7.166, de 27 de agosto de 1996, referente ao Mapa de Hierarquização do Sistema Viário, passa a vigorar com a seguinte alteração:
 
-|LOGRADOURO |CÓDIGO |FOLHA |QUADRÍCULA |TRECHO |CLASSIFICAÇÃO |
-
-|Rua Jordânia |038250 |Folha 27 |49-56 |Entre a Rua Sena Madureira e a |Coletora |
-
-| | | | |Avenida Fleming | |
+| LOGRADOURO | CÓDIGO | FOLHA | QUADRÍCULA | TRECHO | CLASSIFICAÇÃO |
+| --- | --- | --- | --- | --- | --- |
+| Rua Jordânia | 038250 | Folha 27 | 49-56 | Entre a Rua Sena Madureira e a | Coletora |
+|  |  |  |  | Avenida Fleming |  |
 
 **Art. 2º** - Esta Lei entra em vigor na data de sua publicação.
 

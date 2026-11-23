@@ -470,15 +470,12 @@ A avaliação dos valores constantes do Anexo de Metas Fiscais, previstas na Lei
 
 Valores em R$1.000,00
 
-|Especificação |Previsão - LDO |Realizado - LOA |
-
-|Receita Fiscal |2.432.997 |2.535.144 |
-
-|Despesa Fiscal |2.429.271 |2.490.668 |
-
-|Resultado Primário |3.726 |44.476 |
-
-|Dívida Consolidada Líquida |642.716 |461.059 |
+| Especificação | Previsão - LDO | Realizado - LOA |
+| --- | --- | --- |
+| Receita Fiscal | 2.432.997 | 2.535.144 |
+| Despesa Fiscal | 2.429.271 | 2.490.668 |
+| Resultado Primário | 3.726 | 44.476 |
+| Dívida Consolidada Líquida | 642.716 | 461.059 |
 
 A Lei de Diretrizes Orçamentárias para o exercício de 2004 fixou a meta de resultado primário em R$3.726 mil. As previsões de receitas e despesas fiscais para 2004 foram realizadas tendo em vista projeção de crescimento do Produto Interno Bruto - PIB -, do Município, de 3% ao ano e taxa de inflação de 7,5% ao ano. Os indicadores econômicos demonstram, entretanto, um acréscimo do PIB, em 2004, de 5,2% e inflação medida pelo IPCA-E de 7,53%, o que interferiu no resultado primário e nominal previstos, em comparação à execução do exercício financeiro de 2004.
 
@@ -504,11 +501,10 @@ O cálculo dos resultados nominal e primário servirá para apuração das metas
 
 Adotou-se para a definição das metas fiscais o cenário econômico projetado no Projeto de Lei de Diretrizes Orçamentárias da União para 2006 e exercícios posteriores, a quem compete, constitucionalmente, a definição de políticas macroeconômicas, conforme a tabela abaixo.
 
-|Variáveis |2006 |2007 |2008 |
-
-|Crescimento PIB |4,5 |4,5 |4,5 |
-
-|Inflação |4,5 |4,0 |4,0 |
+| Variáveis | 2006 | 2007 | 2008 |
+| --- | --- | --- | --- |
+| Crescimento PIB | 4,5 | 4,5 | 4,5 |
+| Inflação | 4,5 | 4,0 | 4,0 |
 
 Para executarmos a projeção da receita para os exercícios de 2006 a 2008 foram aplicados os parâmetros acima indicados, a partir de uma reestimativa da receita fixada para o exercício de 2005, elaborada considerando a efetiva arrecadação até março deste ano e uma projeção baseada no comparativo com a execução de anos anteriores.
 
@@ -526,101 +522,59 @@ Demonstrativos dos Resultados Primário e Nominal
 
 Valores Correntes em R$1.000,00
 
-|Discriminação |2003 |2004 |2005 |2006 |2007 |2008 |
-
-|Receitas Correntes |2.120.413 |2.592.794 |2.949.488 |3.239.912 |3.608.142 |3.914.536 |
-
-|Receitas de Capital |23.781 |69.204 |138.291 |202.385 |213.920 |225.733 |
-
-|(-) Dedução para o FUNDEF |63.015 |74.840 |82.324 |87.943 |95.806 |104.121 |
-
-|Subtotal |2.081.179 |2.587.158 |3.005.455 |3.354.354 |3.726.257 |4.036.147 |
-
-|(-) Rec. Operação de Crédito |20.212 |37.070 |38.291 |82.385 |153.920 |175.733 |
-
-|(-) Rendimentos Aplicação Financeira |19.371 |14.523 |18.013 |19.243 |20.963 |22.783 |
-
-|(-) Alienação de Bens |4 |421 |463 |495 |539 |586 |
-
-|Total das Receitas Fiscais |2.041.592 |2.535.144 |2.948.688 |3.252.232 |3.550.834 |3.837.046 |
-
-| | | | | | | |
-
-|Despesas Correntes |1.830.607 |2.229.525 |2.663.172 |2.834.173 |3.085.622 |3.337.202 |
-
-|(-) Juros e Encargos da Dívida |41.317 |42.570 |46.017 |52.161 |62.931 |107.044 |
-
-|Despesas de Capital |285.555 |345.763 |391.861 |519.166 |579.068 |644.175 |
-
-|(-) Amortização da Dívida |34.311 |42.050 |60.413 |51.116 |53.340 |52.805 |
-
-|Total das Despesas Fiscais |2.040.534 |2.490.668 |2.948.603 |3.250.062 |3.548.420 |3.824.529 |
-
-|Resultado Primário |1.057 |44.476 |85 |2.170 |2.414 |15.517 |
-
-| | | | | | | |
-
-|Dívida Consolidada |566.385 |677.688 |696.226 |738.000 |782.280 |829.215 |
-
-|(-) Disponibilidade de Caixa |13.757 |25.041 |27.545 |30.299 |33.329 |36.662 |
-
-|(-) Aplicações Financeiras |53.580 |56.144 |61.758 |67.934 |74.728 |82.200 |
-
-|(-) Demais Ativos Financeiros |85.641 |135.444 |148.988 |163.887 |180.276 |198.304 |
-
-|Total da Dívida Fiscal Líquida |413.407 |461.059 |457.935 |475.880 |493.948 |512.049 |
-
-|Resultado Nominal |(80.503) |47.652 |-3.124 |14.820 |18.068 |18.102 |
+| Discriminação | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Receitas Correntes | 2.120.413 | 2.592.794 | 2.949.488 | 3.239.912 | 3.608.142 | 3.914.536 |
+| Receitas de Capital | 23.781 | 69.204 | 138.291 | 202.385 | 213.920 | 225.733 |
+| (-) Dedução para o FUNDEF | 63.015 | 74.840 | 82.324 | 87.943 | 95.806 | 104.121 |
+| Subtotal | 2.081.179 | 2.587.158 | 3.005.455 | 3.354.354 | 3.726.257 | 4.036.147 |
+| (-) Rec. Operação de Crédito | 20.212 | 37.070 | 38.291 | 82.385 | 153.920 | 175.733 |
+| (-) Rendimentos Aplicação Financeira | 19.371 | 14.523 | 18.013 | 19.243 | 20.963 | 22.783 |
+| (-) Alienação de Bens | 4 | 421 | 463 | 495 | 539 | 586 |
+| Total das Receitas Fiscais | 2.041.592 | 2.535.144 | 2.948.688 | 3.252.232 | 3.550.834 | 3.837.046 |
+|  |  |  |  |  |  |  |
+| Despesas Correntes | 1.830.607 | 2.229.525 | 2.663.172 | 2.834.173 | 3.085.622 | 3.337.202 |
+| (-) Juros e Encargos da Dívida | 41.317 | 42.570 | 46.017 | 52.161 | 62.931 | 107.044 |
+| Despesas de Capital | 285.555 | 345.763 | 391.861 | 519.166 | 579.068 | 644.175 |
+| (-) Amortização da Dívida | 34.311 | 42.050 | 60.413 | 51.116 | 53.340 | 52.805 |
+| Total das Despesas Fiscais | 2.040.534 | 2.490.668 | 2.948.603 | 3.250.062 | 3.548.420 | 3.824.529 |
+| Resultado Primário | 1.057 | 44.476 | 85 | 2.170 | 2.414 | 15.517 |
+|  |  |  |  |  |  |  |
+| Dívida Consolidada | 566.385 | 677.688 | 696.226 | 738.000 | 782.280 | 829.215 |
+| (-) Disponibilidade de Caixa | 13.757 | 25.041 | 27.545 | 30.299 | 33.329 | 36.662 |
+| (-) Aplicações Financeiras | 53.580 | 56.144 | 61.758 | 67.934 | 74.728 | 82.200 |
+| (-) Demais Ativos Financeiros | 85.641 | 135.444 | 148.988 | 163.887 | 180.276 | 198.304 |
+| Total da Dívida Fiscal Líquida | 413.407 | 461.059 | 457.935 | 475.880 | 493.948 | 512.049 |
+| Resultado Nominal | (80.503) | 47.652 | -3.124 | 14.820 | 18.068 | 18.102 |
 
 Demonstrativos dos Resultados Primário e Nominal
 
 Valores em R$1.000,00 - Preços Médios de 2005
 
-|Discriminação |2003 |2004 |2005 |2006 |2007 |2008 |
-
-|Receitas Correntes |2.456.802 |2.763.884 |2.949.488 |3.083.182 |3.293.630 |3.435.881 |
-
-|Receitas de Capital |27.554 |73.770 |138.291 |192.594 |195.274 |198.131 |
-
-|(-) Dedução para o FUNDEF |73.012 |79.778 |82.324 |83.688 |87.454 |91.390 |
-
-|Subtotal |2.411.344 |2.757.876 |3.005.455 |3.192.088 |3.401.449 |3.542.622 |
-
-|(-) Rec. Operação de Crédito |23.419 |39.516 |38.291 |78.399 |140.504 |154.245 |
-
-|(-) Rendimentos Aplicação Financeira |22.445 |15.481 |18.013 |18.312 |19.136 |19.997 |
-
-|(-) Alienação de Bens |4 |449 |463 |471 |492 |514 |
-
-|Total das Receitas Fiscais |2.365.476 |2.702.430 |2.948.688 |3.094.906 |3.241.318 |3.367.866 |
-
-| | | | | | | |
-
-|Despesas Correntes |2.121.021 |2.376.644 |2.663.172 |2.697.071 |2.816.657 |2.929.142 |
-
-|(-) Juros e Encargos da Dívida |47.872 |45.379 |46.017 |49.638 |57.445 |93.955 |
-
-|Despesas de Capital |330.857 |368.578 |391.861 |494.051 |528.592 |565.408 |
-
-|(-) Amortização da Dívida |39.754 |44.824 |60.413 |48.644 |48.690 |46.348 |
-
-|Total das Despesas Fiscais |2.364.252 |2.655.019 |2.948.603 |3.092.841 |3.239.114 |3.354.246 |
-
-|Resultado Primário |1.224 |47.411 |85 |2.065 |2.204 |13.620 |
-
-| | | | | | | |
-
-|Dívida Consolidada |656.238 |722.406 |696.226 |702.300 |714.091 |727.822 |
-
-|(-) Disponibilidade de Caixa |15.939 |26.693 |27.545 |28.833 |30.424 |32.179 |
-
-|(-) Aplicações Financeiras |62.080 |59.849 |61.758 |64.648 |68.214 |72.149 |
-
-|(-) Demais Ativos Financeiros |99.228 |144.381 |148.988 |155.959 |164.562 |174.056 |
-
-|Total da Dívida Fiscal Líquida |478.991 |491.483 |457.935 |452.859 |450.891 |449.438 |
-
-|Resultado Nominal |(93.275) |12.492 |-33.548 |-5.076 |-1.968 |-1.454 |
+| Discriminação | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Receitas Correntes | 2.456.802 | 2.763.884 | 2.949.488 | 3.083.182 | 3.293.630 | 3.435.881 |
+| Receitas de Capital | 27.554 | 73.770 | 138.291 | 192.594 | 195.274 | 198.131 |
+| (-) Dedução para o FUNDEF | 73.012 | 79.778 | 82.324 | 83.688 | 87.454 | 91.390 |
+| Subtotal | 2.411.344 | 2.757.876 | 3.005.455 | 3.192.088 | 3.401.449 | 3.542.622 |
+| (-) Rec. Operação de Crédito | 23.419 | 39.516 | 38.291 | 78.399 | 140.504 | 154.245 |
+| (-) Rendimentos Aplicação Financeira | 22.445 | 15.481 | 18.013 | 18.312 | 19.136 | 19.997 |
+| (-) Alienação de Bens | 4 | 449 | 463 | 471 | 492 | 514 |
+| Total das Receitas Fiscais | 2.365.476 | 2.702.430 | 2.948.688 | 3.094.906 | 3.241.318 | 3.367.866 |
+|  |  |  |  |  |  |  |
+| Despesas Correntes | 2.121.021 | 2.376.644 | 2.663.172 | 2.697.071 | 2.816.657 | 2.929.142 |
+| (-) Juros e Encargos da Dívida | 47.872 | 45.379 | 46.017 | 49.638 | 57.445 | 93.955 |
+| Despesas de Capital | 330.857 | 368.578 | 391.861 | 494.051 | 528.592 | 565.408 |
+| (-) Amortização da Dívida | 39.754 | 44.824 | 60.413 | 48.644 | 48.690 | 46.348 |
+| Total das Despesas Fiscais | 2.364.252 | 2.655.019 | 2.948.603 | 3.092.841 | 3.239.114 | 3.354.246 |
+| Resultado Primário | 1.224 | 47.411 | 85 | 2.065 | 2.204 | 13.620 |
+|  |  |  |  |  |  |  |
+| Dívida Consolidada | 656.238 | 722.406 | 696.226 | 702.300 | 714.091 | 727.822 |
+| (-) Disponibilidade de Caixa | 15.939 | 26.693 | 27.545 | 28.833 | 30.424 | 32.179 |
+| (-) Aplicações Financeiras | 62.080 | 59.849 | 61.758 | 64.648 | 68.214 | 72.149 |
+| (-) Demais Ativos Financeiros | 99.228 | 144.381 | 148.988 | 155.959 | 164.562 | 174.056 |
+| Total da Dívida Fiscal Líquida | 478.991 | 491.483 | 457.935 | 452.859 | 450.891 | 449.438 |
+| Resultado Nominal | (93.275) | 12.492 | -33.548 | -5.076 | -1.968 | -1.454 |
 
 ANEXO I
 
@@ -634,45 +588,27 @@ I.3 - EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO DO MUNICÍPIO DE BH
 
 Valores em R$1,00
 
-|DISCRIMINAÇÃO |2002 |2003 |2004 |
-
-|I - Variações Ativas - PBH |3.435.287.730 |3.786.389.428 |4.895.692.577 |
-
-|I.1 - Resultantes da Execução Orçamentária |1.960.172.447 |2.167.829.171 |2.719.031.553 |
-
-|1 - Receita Orçamentária |1.889.943.804 |2.081.178.691 |2.587.158.202 |
-
-|Receitas Correntes |1.864.598.657 |2.120.412.475 |2.517.954.643 |
-
-|Receitas de Capital |25.345.147 |23.780.918 |69.203.559 |
-
-|2 - Mutações Patrimoniais |70.228.643 |86.650.481 |131.873.351 |
-
-|I.2 - Independentes da Execução Orçamentária |1.475.115.283 |1.618.560.257 |2.176.661.024 |
-
-|II - Variações Ativas - Câmara |1.240.559 |972.403 |73.485.384 |
-
-|III - Total das Variações Ativas |3.436.528.289 |3.787.361.831 |4.969.177.961 |
-
-|I - Variações Passivas - PBH |2.971.412.229 |3.258.896.281 |3.880.753.383 |
-
-|I.1 - Resultantes da Execução Orçamentária |2.023.314.498 |2.302.088.800 |2.627.622.599 |
-
-|1 - Despesa Orçamentária |1.914.710.584 |2.164.089.003 |2.447.063.275 |
-
-|Despesas Correntes |1.697.202.515 |1.854.981.204 |2.101.619.059 |
-
-|Despesas de Capital |217.508.068 |309.107.798 |345.444.216 |
-
-|2 - Mutações Patrimoniais |108.603.914 |137.999.798 |180.559.324 |
-
-|I.2 - Independentes da Execução Orçamentária |948.097.731 |956.807.480 |1.253.130.784 |
-
-|II - Variações Passivas - Câmara |52.694.169 |59.812.234 |66.844.148 |
-
-|Resultado Patrimonial do Exercício |412.421.891 |468.653.316 |1.021.580.430 |
-
-|III - Total das Variações Passivas |3.436.528.289 |3.787.361.831 |4.969.177.961 |
+| DISCRIMINAÇÃO | 2002 | 2003 | 2004 |
+| --- | --- | --- | --- |
+| I - Variações Ativas - PBH | 3.435.287.730 | 3.786.389.428 | 4.895.692.577 |
+| I.1 - Resultantes da Execução Orçamentária | 1.960.172.447 | 2.167.829.171 | 2.719.031.553 |
+| 1 - Receita Orçamentária | 1.889.943.804 | 2.081.178.691 | 2.587.158.202 |
+| Receitas Correntes | 1.864.598.657 | 2.120.412.475 | 2.517.954.643 |
+| Receitas de Capital | 25.345.147 | 23.780.918 | 69.203.559 |
+| 2 - Mutações Patrimoniais | 70.228.643 | 86.650.481 | 131.873.351 |
+| I.2 - Independentes da Execução Orçamentária | 1.475.115.283 | 1.618.560.257 | 2.176.661.024 |
+| II - Variações Ativas - Câmara | 1.240.559 | 972.403 | 73.485.384 |
+| III - Total das Variações Ativas | 3.436.528.289 | 3.787.361.831 | 4.969.177.961 |
+| I - Variações Passivas - PBH | 2.971.412.229 | 3.258.896.281 | 3.880.753.383 |
+| I.1 - Resultantes da Execução Orçamentária | 2.023.314.498 | 2.302.088.800 | 2.627.622.599 |
+| 1 - Despesa Orçamentária | 1.914.710.584 | 2.164.089.003 | 2.447.063.275 |
+| Despesas Correntes | 1.697.202.515 | 1.854.981.204 | 2.101.619.059 |
+| Despesas de Capital | 217.508.068 | 309.107.798 | 345.444.216 |
+| 2 - Mutações Patrimoniais | 108.603.914 | 137.999.798 | 180.559.324 |
+| I.2 - Independentes da Execução Orçamentária | 948.097.731 | 956.807.480 | 1.253.130.784 |
+| II - Variações Passivas - Câmara | 52.694.169 | 59.812.234 | 66.844.148 |
+| Resultado Patrimonial do Exercício | 412.421.891 | 468.653.316 | 1.021.580.430 |
+| III - Total das Variações Passivas | 3.436.528.289 | 3.787.361.831 | 4.969.177.961 |
 
 ANEXO I
 
@@ -686,27 +622,18 @@ Demonstrativo da Origem e Aplicação dos Recursos Obtidos com a Alienação de 
 
 Valores em R$1,00
 
-|Receitas |2002 |2003 |2004 |
-
-|Receita de Capital |102.114 |3.527 |421.200 |
-
-|Alienação de Ativos |102.114 |3.527 |421.200 |
-
-|Alienação de Bens Móveis | | |1.200 |
-
-|Alienação de Bens Imóveis |102.114 |3.527 |420.000 |
-
-|Despesas |2002 |2003 |2004 |
-
-|Empenhada |102.114 |3.527 |421.200 |
-
-|Liquidada |102.114 |3.527 |421.200 |
-
-|Paga |102.114 |3.527 |421.200 |
-
-|Saldo Financeiro |2002 |2003 |2004 |
-
-| |0 |0 |0 |
+| Receitas | 2002 | 2003 | 2004 |
+| --- | --- | --- | --- |
+| Receita de Capital | 102.114 | 3.527 | 421.200 |
+| Alienação de Ativos | 102.114 | 3.527 | 421.200 |
+| Alienação de Bens Móveis |  |  | 1.200 |
+| Alienação de Bens Imóveis | 102.114 | 3.527 | 420.000 |
+| Despesas | 2002 | 2003 | 2004 |
+| Empenhada | 102.114 | 3.527 | 421.200 |
+| Liquidada | 102.114 | 3.527 | 421.200 |
+| Paga | 102.114 | 3.527 | 421.200 |
+| Saldo Financeiro | 2002 | 2003 | 2004 |
+|  | 0 | 0 | 0 |
 
 ANEXO I
 
@@ -728,37 +655,23 @@ Demonstrativo das Receitas Realizadas e Despesas Empenhadas do Regime Próprio d
 
 Valores em R$1,00
 
-|Receitas |Previsão |Realizado |
-
-|I - Receita Previdenciária | | |
-
-|Contribuição Patronal |109.575.483 |127.009.280 |
-
-|Contribuição do Servidor Ativo |51.158.430 |60.116.137 |
-
-|Contribuição do Serv. Inativo e Pensionista |8.178.626 |2.116.891 |
-
-|Receita Patrimonial |0 |226.579 |
-
-|Outras Receitas Correntes |0 |37.152 |
-
-|Total (I) |168.912.539 |189.506.039 |
-
-|Despesas |Dotação Anual |Empenhado |
-
-|II - Despesa Previdenciária | | |
-
-|Administração Geral |1.847 |40 |
-
-|Previdência Social – Segurados | | |
-
-|Previd. Social - Inativos e Pensionistas |168.912.539 |183.878.663 |
-
-|Total (II) |168.914.386 |183.878.703 |
-
-| | | |
-
-|Resultado Previdenciário (I-II) |(1.847) |5.627.336 |
+| Receitas | Previsão | Realizado |
+| --- | --- | --- |
+| I - Receita Previdenciária |  |  |
+| Contribuição Patronal | 109.575.483 | 127.009.280 |
+| Contribuição do Servidor Ativo | 51.158.430 | 60.116.137 |
+| Contribuição do Serv. Inativo e Pensionista | 8.178.626 | 2.116.891 |
+| Receita Patrimonial | 0 | 226.579 |
+| Outras Receitas Correntes | 0 | 37.152 |
+| Total (I) | 168.912.539 | 189.506.039 |
+| Despesas | Dotação Anual | Empenhado |
+| II - Despesa Previdenciária |  |  |
+| Administração Geral | 1.847 | 40 |
+| Previdência Social – Segurados |  |  |
+| Previd. Social - Inativos e Pensionistas | 168.912.539 | 183.878.663 |
+| Total (II) | 168.914.386 | 183.878.703 |
+|  |  |  |
+| Resultado Previdenciário (I-II) | (1.847) | 5.627.336 |
 
 ANEXO I
 
@@ -782,23 +695,19 @@ Renúncia fiscal
 
 1 - Isenções
 
-|IPTU (total) |4.750.000,00 |
-
-|IPTU (parcial) |2.500.000,00 |
-
-|ISSQN - autônomos |1.750.000,00 |
-
-|ISSQN - microempresas |66.000,00 |
-
-|ISSQN - empresas (art. 2º Lei 5.839) |19.000,00 |
-
-|Taxas (TFLF/TFS/TFEP) |2.500.000,00 |
-
-|Total de Isenções |11.585.000,00 |
+| IPTU (total) | 4.750.000,00 |
+| --- | --- |
+| IPTU (parcial) | 2.500.000,00 |
+| ISSQN - autônomos | 1.750.000,00 |
+| ISSQN - microempresas | 66.000,00 |
+| ISSQN - empresas (art. 2º Lei 5.839) | 19.000,00 |
+| Taxas (TFLF/TFS/TFEP) | 2.500.000,00 |
+| Total de Isenções | 11.585.000,00 |
 
 2 - Remissões
 
-|Total de Remissões |1.300.000,00 |
+| Total de Remissões | 1.300.000,00 |
+| --- | --- |
 
 3 - Desconto antecipado de pagamento de IPTU
 
@@ -806,19 +715,17 @@ Total desconto 32.500.000,00
 
 4 - Incentivo Cultural
 
-|Lei de Incentivo à Cultura |R$5.000.000,00 |
+| Lei de Incentivo à Cultura | R$5.000.000,00 |
+| --- | --- |
 
 Total da Renúncia
 
-|Isenções |R$10.585.000,00 |
-
-|Remissões |R$1.300.000,00 |
-
-|Desconto antecipado IPTU |R$30.700.000,00 |
-
-|Incentivo cultural |R$5.000.000,00 |
-
-|Total |R$47.585.000,00 |
+| Isenções | R$10.585.000,00 |
+| --- | --- |
+| Remissões | R$1.300.000,00 |
+| Desconto antecipado IPTU | R$30.700.000,00 |
+| Incentivo cultural | R$5.000.000,00 |
+| Total | R$47.585.000,00 |
 
 ANEXO I
 

@@ -38,9 +38,9 @@ SEMANA COMEMORATIVA
 
 E - Semanas comemorativas de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|primeira semana de maio |Semana da Maternidade Atípica |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| primeira semana de maio | Semana da Maternidade Atípica |
 
 .”. Art. 3º - Esta lei entra em vigor na data de sua publicação.
 

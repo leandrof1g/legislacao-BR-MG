@@ -400,105 +400,57 @@ ANEXO I
 
 Cargos do Grupo de Direção Superior Municipal - DSM
 
-|I.1 - ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS|
-
-|Chefe de Gabinete do Prefeito |1 |
-
-|Administrador Regional/Coordenador Especial |12 |
-
-|Administrador Regional Adjunto/Coordenador Especial Adjunto |12 |
-
-|Secretário/Procurador-Geral/Controlador-Geral/Secretário-Geral |20 |
-
-|Secretário Municipal Adjunto/Procurador-Geral Adjunto/ Controlador-Geral |20 |
-
-|Adjunto/Secretário-Geral Adjunto | |
-
-|Subsecretário/Subprocurador/Subcontrolador/ |32 |
-
-|Comandante da Guarda Civil Municipal | |
-
-|Consultor Técnico Especializado |20 |
-
-|Assessor-Chefe |3 |
-
-|Assessor Especial |20 |
-
-|Chefe de Gabinete do Vice-Prefeito |1 |
-
-|TOTAL GERAL |141 |
-
-|I.2 - FUNDAÇÕES E AUTARQUIAS |
-
-|I.2.1 - FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Presidente |1 |
-
-|Vice-Presidente |1 |
-
-|TOTAL GERAL |2 |
-
-|I.2.2 - FUNDAÇÃO MUNICIPAL DE CULTURA |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Presidente |1 |
-
-|Vice-Presidente |1 |
-
-|TOTAL GERAL |2 |
-
-|I.2.3 - SUPERINTENDÊNCIA DE LIMPEZA URBANA |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Superintendente Adjunto |1 |
-
-|Diretor |4 |
-
-|TOTAL GERAL |6 |
-
-|I.2.4 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Superintendente Adjunto |1 |
-
-|Diretor |6 |
-
-|TOTAL GERAL |8 |
-
-|I.2.5 - HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Superintendente Adjunto |1 |
-
-|Diretor |3 |
-
-|TOTAL GERAL |5 |
-
-|I.2.6 - SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Superintendente Adjunto |1 |
-
-|Diretor |6 |
-
-|TOTAL GERAL |8 |
+| I.1 - ADMINISTRAÇÃO DIRETA |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Chefe de Gabinete do Prefeito | 1 |
+| Administrador Regional/Coordenador Especial | 12 |
+| Administrador Regional Adjunto/Coordenador Especial Adjunto | 12 |
+| Secretário/Procurador-Geral/Controlador-Geral/Secretário-Geral | 20 |
+| Secretário Municipal Adjunto/Procurador-Geral Adjunto/ Controlador-Geral | 20 |
+| Adjunto/Secretário-Geral Adjunto |  |
+| Subsecretário/Subprocurador/Subcontrolador/ | 32 |
+| Comandante da Guarda Civil Municipal |  |
+| Consultor Técnico Especializado | 20 |
+| Assessor-Chefe | 3 |
+| Assessor Especial | 20 |
+| Chefe de Gabinete do Vice-Prefeito | 1 |
+| TOTAL GERAL | 141 |
+| I.2 - FUNDAÇÕES E AUTARQUIAS |  |
+| I.2.1 - FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Presidente | 1 |
+| Vice-Presidente | 1 |
+| TOTAL GERAL | 2 |
+| I.2.2 - FUNDAÇÃO MUNICIPAL DE CULTURA |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Presidente | 1 |
+| Vice-Presidente | 1 |
+| TOTAL GERAL | 2 |
+| I.2.3 - SUPERINTENDÊNCIA DE LIMPEZA URBANA |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Superintendente Adjunto | 1 |
+| Diretor | 4 |
+| TOTAL GERAL | 6 |
+| I.2.4 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Superintendente Adjunto | 1 |
+| Diretor | 6 |
+| TOTAL GERAL | 8 |
+| I.2.5 - HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Superintendente Adjunto | 1 |
+| Diretor | 3 |
+| TOTAL GERAL | 5 |
+| I.2.6 - SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |  |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Superintendente Adjunto | 1 |
+| Diretor | 6 |
+| TOTAL GERAL | 8 |
 
 .”
 
@@ -508,53 +460,31 @@ ANEXO II
 
 Remuneração dos cargos do Grupo de Direção Superior Municipal - DSM
 
-|ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR (EM R$) |
-
-|Chefe de Gabinete do Prefeito |19.032,23 |
-
-|Chefe de Gabinete do Vice-Prefeito |17.267,79 |
-
-|Administrador Regional/Coordenador Especial |17.267,79 |
-
-|Administrador Regional Adjunto/Coordenador Especial Adjunto |11.011,21 |
-
-|Subsecretário/Subprocurador /Subcontrolador |17.267,79 |
-
-|Consultor Técnico Especializado |19.032,23 |
-
-|Assessor-Chefe |17.267,79 |
-
-|Assessor Especial |16.177,40 |
-
-| |
-
-|FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |
-
-|FUNDAÇÃO MUNICIPAL DE CULTURA |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR (EM R$) |
-
-|Presidente |23.184,71 |
-
-|Vice-Presidente |19.032,23 |
-
-|SUPERINTENDÊNCIA DE LIMPEZA URBANA |
-
-|SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |
-
-|SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |
-
-|HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR (EM R$) |
-
-|Superintendente |23.184,71 |
-
-|Superintendente Adjunto |19.032,23 |
-
-|Diretor |17.267,79 |
+| ADMINISTRAÇÃO DIRETA |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | VALOR (EM R$) |
+| Chefe de Gabinete do Prefeito | 19.032,23 |
+| Chefe de Gabinete do Vice-Prefeito | 17.267,79 |
+| Administrador Regional/Coordenador Especial | 17.267,79 |
+| Administrador Regional Adjunto/Coordenador Especial Adjunto | 11.011,21 |
+| Subsecretário/Subprocurador /Subcontrolador | 17.267,79 |
+| Consultor Técnico Especializado | 19.032,23 |
+| Assessor-Chefe | 17.267,79 |
+| Assessor Especial | 16.177,40 |
+|  |  |
+| FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |  |
+| FUNDAÇÃO MUNICIPAL DE CULTURA |  |
+| Grupo de Direção Superior Municipal - DSM | VALOR (EM R$) |
+| Presidente | 23.184,71 |
+| Vice-Presidente | 19.032,23 |
+| SUPERINTENDÊNCIA DE LIMPEZA URBANA |  |
+| SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |  |
+| SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |  |
+| HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |  |
+| Grupo de Direção Superior Municipal - DSM | VALOR (EM R$) |
+| Superintendente | 23.184,71 |
+| Superintendente Adjunto | 19.032,23 |
+| Diretor | 17.267,79 |
 
 .”
 
@@ -566,12 +496,10 @@ ANEXO III
 
 A - Função pública de Conselheiro Tutelar
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Conselheiro Tutelar |45 |7.201,25 |
-
-|Total |45 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Conselheiro Tutelar | 45 | 7.201,25 |
+| Total | 45 |  |
 
 .”

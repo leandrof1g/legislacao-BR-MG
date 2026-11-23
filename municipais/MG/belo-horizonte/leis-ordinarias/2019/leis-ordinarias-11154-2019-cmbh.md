@@ -378,45 +378,27 @@ ANEXO I
 
 POSTOS HIERÁRQUICOS DA CARREIRA DA GUARDA CIVIL MUNICIPAL DE BELO HORIZONTE
 
-|Classificação |Posto hierárquico |% |
-
-|Execução/Coordenação |Guarda Civil Municipal III - GCM III |83% |
-
-| |Guarda Civil Municipal II - GCM II | |
-
-| |Guarda Civil Municipal I - GCM I | |
-
-| |Guarda Civil Municipal Classe Distinta II - GCD II | |
-
-| |Guarda Civil Municipal Classe Distinta I - GCD I | |
-
-|Comando |Subinspetor |15% |
-
-| |Inspetor | |
-
-| |Supervisor |1,3% |
-
-| |Superintendente |0,7% |
-
-|Classificação |Posto hierárquico |% |
-
-|Execução/Coordenação |Guarda Civil Municipal III - GCM III |83% |
-
-| |Guarda Civil Municipal II - GCM II | |
-
-| |Guarda Civil Municipal I - GCM I | |
-
-| |Guarda Civil Municipal Classe Distinta II - GCD II | |
-
-| |Guarda Civil Municipal Classe Distinta I - GCD I | |
-
-|Comando |Subinspetor |10% |
-
-| |Inspetor |5% |
-
-| |Supervisor |1,3% |
-
-| |Superintendente |0,7% |
+| Classificação | Posto hierárquico | % |
+| --- | --- | --- |
+| Execução/Coordenação | Guarda Civil Municipal III - GCM III | 83% |
+|  | Guarda Civil Municipal II - GCM II |  |
+|  | Guarda Civil Municipal I - GCM I |  |
+|  | Guarda Civil Municipal Classe Distinta II - GCD II |  |
+|  | Guarda Civil Municipal Classe Distinta I - GCD I |  |
+| Comando | Subinspetor | 15% |
+|  | Inspetor |  |
+|  | Supervisor | 1,3% |
+|  | Superintendente | 0,7% |
+| Classificação | Posto hierárquico | % |
+| Execução/Coordenação | Guarda Civil Municipal III - GCM III | 83% |
+|  | Guarda Civil Municipal II - GCM II |  |
+|  | Guarda Civil Municipal I - GCM I |  |
+|  | Guarda Civil Municipal Classe Distinta II - GCD II |  |
+|  | Guarda Civil Municipal Classe Distinta I - GCD I |  |
+| Comando | Subinspetor | 10% |
+|  | Inspetor | 5% |
+|  | Supervisor | 1,3% |
+|  | Superintendente | 0,7% |
 
 Anexo I com redação dada pela Lei nº 11.914, de 30/10/2025 (Art. 63 com vigência no art. 124)
 
@@ -454,27 +436,18 @@ ANEXO III
 
 (a que se refere o caput do art. 14 desta lei)
 
-|POSICIONAMENTO ATUAL |ENQUADRAMENTO |
-
-|ANO DE INGRESSO NA GUARDA |POSTO ATUAL |NOVO POSTO |
-
-|MUNICIPAL | | |
-
-|2006 |GM 1ª Classe |GCM Classe Distinta II |
-
-| |GM Classe Especial |GCM Classe Distinta I |
-
-|2008 |GM 1ª Classe |GCM I |
-
-| |GM Classe Especial |GCM Classe Distinta II |
-
-|2009 |GM 1ª Classe |GCM I |
-
-|2011 |GM 1ª Classe |GCM I |
-
-| |GM Classe Especial |GCM Classe Distinta II |
-
-|2017 |GM 2ª Classe |GCM III |
+| POSICIONAMENTO ATUAL | ENQUADRAMENTO |  |
+| --- | --- | --- |
+| ANO DE INGRESSO NA GUARDA | POSTO ATUAL | NOVO POSTO |
+| MUNICIPAL |  |  |
+| 2006 | GM 1ª Classe | GCM Classe Distinta II |
+|  | GM Classe Especial | GCM Classe Distinta I |
+| 2008 | GM 1ª Classe | GCM I |
+|  | GM Classe Especial | GCM Classe Distinta II |
+| 2009 | GM 1ª Classe | GCM I |
+| 2011 | GM 1ª Classe | GCM I |
+|  | GM Classe Especial | GCM Classe Distinta II |
+| 2017 | GM 2ª Classe | GCM III |
 
 ANEXO IV
 
@@ -482,35 +455,22 @@ ANEXO IV
 
 TABELA DE VENCIMENTOS-BASE DO PLANO DE CARREIRA DA GUARDA CIVIL MUNICIPAL DE BELO HORIZONTE
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
-
-|NOVO POSTO |NÍVEL 1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |Promoção por |Promoção por aprovação em processo|
-
-| |tempo de serviço |seletivo |
-
-|GCM III |6 anos |- |
-
-|GCM II |6 anos | |
-
-|GCM I |6 anos | |
-
-|GCM Classe Distinta II |6 anos | |
-
-|GCM Classe Distinta I |6 anos | |
-
-|Subinspetor |3 anos |5 anos |
-
-|Inspetor |3 anos |5 anos |
-
-|Supervisor |3 anos |3 anos |
-
-|Superintendente |- |- |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |  |  |
+| --- | --- | --- |
+| NOVO POSTO | NÍVEL 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | Promoção por | Promoção por aprovação em processo |
+|  | tempo de serviço | seletivo |
+| GCM III | 6 anos | - |
+| GCM II | 6 anos |  |
+| GCM I | 6 anos |  |
+| GCM Classe Distinta II | 6 anos |  |
+| GCM Classe Distinta I | 6 anos |  |
+| Subinspetor | 3 anos | 5 anos |
+| Inspetor | 3 anos | 5 anos |
+| Supervisor | 3 anos | 3 anos |
+| Superintendente | - | - |
 
 ANEXO VI
 
@@ -518,31 +478,20 @@ ANEXO VI
 
 Cargos do Grupo de Direção Superior Municipal - DSM
 
-|ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Chefe de Gabinete do Prefeito |1 |
-
-|Coordenador de Atendimento Regional |9 |
-
-|Secretário/Procurador-Geral/Controlador-Geral |16 |
-
-|Secretário Municipal Adjunto/Procurador-Geral Adjunto/Controlador-Geral |16 |
-
-|Adjunto | |
-
-|Subsecretário/Subprocurador/Subcontrolador/Comandante da Guarda Civil |25 |
-
-|Municipal | |
-
-|Consultor Técnico Especializado |10 |
-
-|Assessor Especial |7 |
-
-|Chefe de Gabinete do Vice-Prefeito |1 |
-
-|TOTAL GERAL |85 |
+| ADMINISTRAÇÃO DIRETA |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Chefe de Gabinete do Prefeito | 1 |
+| Coordenador de Atendimento Regional | 9 |
+| Secretário/Procurador-Geral/Controlador-Geral | 16 |
+| Secretário Municipal Adjunto/Procurador-Geral Adjunto/Controlador-Geral | 16 |
+| Adjunto |  |
+| Subsecretário/Subprocurador/Subcontrolador/Comandante da Guarda Civil | 25 |
+| Municipal |  |
+| Consultor Técnico Especializado | 10 |
+| Assessor Especial | 7 |
+| Chefe de Gabinete do Vice-Prefeito | 1 |
+| TOTAL GERAL | 85 |
 
 ANEXO VII
 
@@ -552,7 +501,8 @@ TABELA DE VENCIMENTOS-BASE DO PLANO DE CARREIRA DA GUARDA MUNICIPAL DE BELO HORI
 
 LEI Nº 10.497, DE 26 DE JUNHO DE 2012, COM VIGÊNCIA A PARTIR DE 1º DE AGOSTO DE 2018.
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |
+| --- |
 
 POSTO HIERÁRQUICO |NÍVEL
 

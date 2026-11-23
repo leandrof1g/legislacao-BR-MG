@@ -106,13 +106,14 @@ Do Comando da Guarda Municipal Patrimonial
 
 **Parágrafo único** - Fica acrescido ao Anexo I da Lei nº 8.146, de 29 de dezembro de 2000, alterada pela Lei nº 8.288, de 28 de dezembro de 2001, o seguinte dispositivo no grupo de Direção, Chefia e Execução:
 
-|... |Comandante da Guarda | 1 |
-
-| |Municipal Patrimonial | |
+| ... | Comandante da Guarda | 1 |
+| --- | --- | --- |
+|  | Municipal Patrimonial |  |
 
 **Art. 7º** - Ficam criados 18 (dezoito) cargos de Gerente de 2º nível, ficando alterado o Anexo I da Lei nº 8.146, de 2000, alterada pela Lei nº 8.288, de 2001, da forma seguinte:
 
-|Chefe de Serviço |Gerente de 2º nível |502 |
+| Chefe de Serviço | Gerente de 2º nível | 502 |
+| --- | --- | --- |
 
 **Art. 8º** - Fica criado o cargo de Inspetor da Guarda Municipal Patrimonial, de recrutamento restrito e livre nomeação e exoneração pelo Prefeito, com jornada de 8 (oito) horas diárias e remuneração equivalente à do Gerente de 3º nível.
 
@@ -130,7 +131,8 @@ V - auxiliar no apoio logístico e material dos serviços de guarda, garantido s
 
 **§ 2º** - Fica acrescido ao Anexo I da Lei nº 8.146, de 29 de dezembro de 2000, alterada pela Lei nº 8.288, de 2001, o seguinte dispositivo no grupo de Direção, Chefia e Execução.
 
-|... |Inspetor da Guarda Municipal Patrimonial |18 |
+| ... | Inspetor da Guarda Municipal Patrimonial | 18 |
+| --- | --- | --- |
 
 **§ 3°** - Até que sejam preenchidos os cargos de Guarda Municipal Patrimonial, o recrutamento para o cargo previsto no caput deste artigo poderá ser amplo.
 
@@ -158,7 +160,8 @@ III - publicar no Diário Oficial do Município, mensalmente, balanço das recla
 
 **§ 3º** - Fica acrescido ao Anexo I da Lei nº 8.146, de 29 de dezembro de 2000, alterada pela Lei nº 8.288, de 2001, o seguinte dispositivo no grupo de Direção, Chefia e Execução:
 
-|... |Ouvidor da Guarda Municipal Patrimonial |1 |
+| ... | Ouvidor da Guarda Municipal Patrimonial | 1 |
+| --- | --- | --- |
 
 CAPÍTULO II
 

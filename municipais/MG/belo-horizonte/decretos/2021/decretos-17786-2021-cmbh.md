@@ -282,21 +282,15 @@ ANEXO I
 
 Decreto nº 17.786, de 29 de novembro de 2021)
 
-|ESPAÇO DE IDENTIFICAÇÃO EM PLACAS |
-
-| |DIMENSÕES DA PLACA DE |DIMENSÕES DA ÁREA DE |ÁREA DESTINADA À |ÁREA DESTINADA A TEXTO |
-
-| |IDENTIFICAÇÃO DO |DIAGRAMAÇÃO DAS PLACAS|LOGOMARCA DO |PUBLICITÁRIO |
-
-| |PROGRAMA | |ADOTANTE | |
-
-|Placa |50cm x 110cm |50cm x 100cm |40cm x 40cm |Não se aplica |
-
-|modelo A | | | | |
-
-|Placa |52,2cm x 200cm |49cm x 186,8cm |43,5cm x 43,5cm |43,5cm x 43,5cm |
-
-|modelo B | | | | |
+| ESPAÇO DE IDENTIFICAÇÃO EM PLACAS |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | DIMENSÕES DA PLACA DE | DIMENSÕES DA ÁREA DE | ÁREA DESTINADA À | ÁREA DESTINADA A TEXTO |
+|  | IDENTIFICAÇÃO DO | DIAGRAMAÇÃO DAS PLACAS | LOGOMARCA DO | PUBLICITÁRIO |
+|  | PROGRAMA |  | ADOTANTE |  |
+| Placa | 50cm x 110cm | 50cm x 100cm | 40cm x 40cm | Não se aplica |
+| modelo A |  |  |  |  |
+| Placa | 52,2cm x 200cm | 49cm x 186,8cm | 43,5cm x 43,5cm | 43,5cm x 43,5cm |
+| modelo B |  |  |  |  |
 
 ANEXO II
 
@@ -304,27 +298,21 @@ ANEXO II
 
 Decreto nº 17.786, de 29 de novembro de 2021)
 
-|ESPAÇO DE IDENTIFICAÇÃO EM CICLOVIAS E PISTAS DE COOPER |
-
-| |MARCOS DE METRAGEM|PINTURA NA PISTA|GRELHA DE |OUTROS MOBILIÁRIOS URBANOS|
-
-| | | |PROTEÇÃO PARA | |
-
-| | | |RAÍZES DE ÁRVORES| |
-
-|Área máxima de |10cm x 10cm |30cm x 30cm |10cm x 5cm |20cm x 20cm |
-
-|espaço | | | | |
-
-|publicitário | | | | |
+| ESPAÇO DE IDENTIFICAÇÃO EM CICLOVIAS E PISTAS DE COOPER |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | MARCOS DE METRAGEM | PINTURA NA PISTA | GRELHA DE | OUTROS MOBILIÁRIOS URBANOS |
+|  |  |  | PROTEÇÃO PARA |  |
+|  |  |  | RAÍZES DE ÁRVORES |  |
+| Área máxima de | 10cm x 10cm | 30cm x 30cm | 10cm x 5cm | 20cm x 20cm |
+| espaço |  |  |  |  |
+| publicitário |  |  |  |  |
 
 Publicidade em vedações
 
-| |ÁREA DESTINADA À LOGOMARCA DO |ÁREA DESTINADA A TRATAMENTO |
-
-| |ADOTANTE |GRÁFICO SEM PUBLICIDADE |
-
-|A cada 12 metros lineares |40cm x 40cm |Livre |
+|  | ÁREA DESTINADA À LOGOMARCA DO | ÁREA DESTINADA A TRATAMENTO |
+| --- | --- | --- |
+|  | ADOTANTE | GRÁFICO SEM PUBLICIDADE |
+| A cada 12 metros lineares | 40cm x 40cm | Livre |
 
 ## Observações da CMBH
 

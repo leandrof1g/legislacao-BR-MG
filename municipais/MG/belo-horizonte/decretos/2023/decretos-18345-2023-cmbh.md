@@ -64,35 +64,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º da | |
-
-|Lei nº 11.442, de 29 de dezembro de 2022: | |
-
-|Fundo Municipal de Habitação Popular - FMHP |
-
-|2704.0200.16.482.225.1.231.449051.755 |1.200.000,00 |
-
-|2704.1100.16.482.062.1.330.449051.755 |209.000,00 |
-
-|2704.1100.16.482.225.1.231.449051.755 |20.483.000,00 |
-
-|2704.1100.16.482.226.1.207.449051.755 |124.400,00 |
-
-|2704.1100.16.482.226.1.207.449039.755 |183.600,00 |
-
-|2704.1100.16.482.225.1.231.449092.759 |5.919,28 |
-
-|Fundação Municipal de Cultura - FMC |
-
-|3103.0200.13.122.146.2.900.339039.501 |15.000,00 |
-
-|3103.0200.13.122.146.2.900.449052.501 |37.365,77 |
-
-|3103.0200.13.122.146.2.900.339040.501 |7.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |22.265.285,05 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º da |  |
+| Lei nº 11.442, de 29 de dezembro de 2022: |  |
+| Fundo Municipal de Habitação Popular - FMHP |  |
+| 2704.0200.16.482.225.1.231.449051.755 | 1.200.000,00 |
+| 2704.1100.16.482.062.1.330.449051.755 | 209.000,00 |
+| 2704.1100.16.482.225.1.231.449051.755 | 20.483.000,00 |
+| 2704.1100.16.482.226.1.207.449051.755 | 124.400,00 |
+| 2704.1100.16.482.226.1.207.449039.755 | 183.600,00 |
+| 2704.1100.16.482.225.1.231.449092.759 | 5.919,28 |
+| Fundação Municipal de Cultura - FMC |  |
+| 3103.0200.13.122.146.2.900.339039.501 | 15.000,00 |
+| 3103.0200.13.122.146.2.900.449052.501 | 37.365,77 |
+| 3103.0200.13.122.146.2.900.339040.501 | 7.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 22.265.285,05 |
 
 ANEXO II
 
@@ -128,24 +115,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração do saldo de crédito suplementar passível de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 441.988.356,30 |
-
-|Valor do Decreto publicado nesta data |R$ 22.265.285,05 |
-
-|Saldo atual de créditos suplementares |R$ 1.249.913.546,85 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 464.253.641,35 |
-
-|Percentual utilizado |27,08% |
-
-|Atualizado em 15/06/2023 às 09:39:54 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 441.988.356,30 |
+| Valor do Decreto publicado nesta data | R$ 22.265.285,05 |
+| Saldo atual de créditos suplementares | R$ 1.249.913.546,85 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 464.253.641,35 |
+| Percentual utilizado | 27,08% |
+| Atualizado em 15/06/2023 às 09:39:54 |  |

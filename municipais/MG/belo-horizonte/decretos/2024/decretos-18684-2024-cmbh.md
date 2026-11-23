@@ -64,4 +64,5 @@ ANEXO
 
 Croqui de Localização
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

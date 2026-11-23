@@ -246,21 +246,15 @@ A avaliação dos valores constantes do Anexo de Metas Fiscais, previstas na Lei
 
 Valores em R$1.000,00
 
-|Especificação |Metas Previstas na LDO/2013 |Valores Realizados - Relatório de Gestão Fiscal|
-
-|Receita Fiscal |7.724.441 |7.444.166 |
-
-|Despesa Fiscal |7.651.992 |7.497.199 |
-
-|Resultado Primário |72.449 |(53.033) |
-
-|Resultado Nominal |589.090 |372.922 |
-
-|Dívida Consolidada |3.737.515 |3.302.385 |
-
-|Deduções |587.284 |810.093 |
-
-|Dívida Consolidada Líquida |3.150.231 |2.492.292 |
+| Especificação | Metas Previstas na LDO/2013 | Valores Realizados - Relatório de Gestão Fiscal |
+| --- | --- | --- |
+| Receita Fiscal | 7.724.441 | 7.444.166 |
+| Despesa Fiscal | 7.651.992 | 7.497.199 |
+| Resultado Primário | 72.449 | (53.033) |
+| Resultado Nominal | 589.090 | 372.922 |
+| Dívida Consolidada | 3.737.515 | 3.302.385 |
+| Deduções | 587.284 | 810.093 |
+| Dívida Consolidada Líquida | 3.150.231 | 2.492.292 |
 
 Primeiramente, verificamos que o valor da receita fiscal efetivamente arrecadada foi 96% da receita prevista na Lei de Diretrizes Orçamentárias para 2013, tendo em vista a não efetivação dos convênios com os governos estadual e federal para a realização de investimentos no Município, apesar do crescimento de 8,63% das receitas tributárias em relação à arrecadação de 2012. Este desempenho é superior à variação acumulada, em 2013, dos principais indicadores econômicos apurados e aos previstos quando da elaboração da mesma para 2013.
 
@@ -272,21 +266,20 @@ I. 2 - DEMONSTRATIVO DAS METAS ANUAIS
 
 Demonstrativos dos Resultados Primário e Nominal (Valores Correntes em R$1.000,00)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Demonstrativos dos Resultados Primário e Nominal (Preços Médios de 2014 em R$1.000,00)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Em cumprimento ao disposto na Lei Complementar Federal n° 101/00, o Anexo de Metas Anuais da Lei de Diretrizes Orçamentárias para 2015 estabelece a meta de resultado primário para o exercício de 2015 e indica as metas para os exercícios de 2016 e 2017, que poderão ser revistas a cada exercício, havendo mudanças no cenário macroeconômico interno e externo.
 
 Adotou-se, para a definição das metas fiscais, o cenário econômico projetado no Projeto de Lei de Diretrizes Orçamentárias da União para 2015, a quem compete constitucionalmente a definição de políticas macroeconômicas, conforme a tabela a seguir.
 
-|Variáveis |2015 |2016 |2017 |
-
-|Crescimento PIB |3,00% |4,00% |4,00% |
-
-|Inflação |5,00% |4,50% |4,50% |
+| Variáveis | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| Crescimento PIB | 3,00% | 4,00% | 4,00% |
+| Inflação | 5,00% | 4,50% | 4,50% |
 
 Para a execução da projeção da receita para os exercícios de 2014 a 2017, foram aplicados os parâmetros acima indicados, a partir de uma reestimativa da receita fixada para o exercício de 2014, elaborada considerando-se a efetiva arrecadação até março deste ano e uma projeção baseada no comparativo com a execução de anos anteriores.
 
@@ -302,13 +295,13 @@ I. 3 - EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO DO MUNICÍPIO DE BH - PERÍODO 2011/20
 
 Valores em R$ 1,00
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Demonstrativo da Origem e Aplicação dos Recursos Obtidos com a Alienação de Ativos
 
 Valores em R$
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I. 4 - AVALIAÇÕES DA SITUAÇÃO FINANCEIRA E ATUARIAL DO REGIME PRÓPRIO DE PREVIDÊNCIA (Art. 4º, § 2º, inciso IV, alínea “a”, da Lei Complementar nº 101/00)
 
@@ -404,7 +397,7 @@ O perfil estatístico do grupo de ativos do Fundo Previdenciário BHPrev é apre
 
 Gráfico 1 – Ativos por Sexo e Carreira
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -412,7 +405,7 @@ Os ativos do sexo feminino e masculino que são professores representam, respect
 
 Gráfico 2 – Ativos por Faixa Etária
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -420,7 +413,7 @@ Verifica-se que a maioria dos ativos se encontra na faixa etária entre 31 a 35 
 
 Gráfico 3 – Ativos por Tempo de Contribuição
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -428,7 +421,7 @@ O BHPrev contempla apenas ativos admitidos após 31/12/11, razão pela qual a ma
 
 Gráfico 4 – Ativos por Faixa de Remuneração
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -438,25 +431,20 @@ O perfil estatístico consolidado dos ativos é visualizado na tabela a seguir:
 
 Tabela 1 – Ativos
 
-|Discriminação |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |4.119 |881 |5.000 |
-
-|Idade média atual |35 |33 |35 |
-
-|Idade média de admissão no serviço público |34 |34 |34 |
-
-|Salário médio |R$ 2.162,28 |R$ 2.402,89 |R$ 2.206,39 |
-
-|Folha Mensal |R$ 8.366.190,00 |R$ 2.665.773,40 |R$ 11.031.963,40 |
+| Discriminação | Sexo | Total |  |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 4.119 | 881 | 5.000 |
+| Idade média atual | 35 | 33 | 35 |
+| Idade média de admissão no serviço público | 34 | 34 | 34 |
+| Salário médio | R$ 2.162,28 | R$ 2.402,89 | R$ 2.206,39 |
+| Folha Mensal | R$ 8.366.190,00 | R$ 2.665.773,40 | R$ 11.031.963,40 |
 
 Fonte: Base de dados da Prefeitura
 
 Gráfico 5 – Ativos por Tempo para Aposentação
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 As expectativas de aposentação encontram-se distribuídas nas próximas três décadas. Aproximadamente 5% dos atuais ativos preencherão os requisitos de elegibilidade nas próximas duas décadas.
 
@@ -466,17 +454,13 @@ Não há registro de aposentados pelo BHPrev. O perfil estatístico consolidado 
 
 Tabela 2 - Pensionistas
 
-|Discriminação |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |1 |0 |1 |
-
-|Idade média atual |61 |0 |61 |
-
-|Benefício médio |R$ 2.286,71 |R$ 0,00 |R$ 2.286,71 |
-
-|Folha Mensal |R$ 2.286,71 |R$ 0,00 |R$ 2.286,71 |
+| Discriminação | Sexo | Total |  |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 1 | 0 | 1 |
+| Idade média atual | 61 | 0 | 61 |
+| Benefício médio | R$ 2.286,71 | R$ 0,00 | R$ 2.286,71 |
+| Folha Mensal | R$ 2.286,71 | R$ 0,00 | R$ 2.286,71 |
 
 Fonte: Base de dados da Prefeitura
 
@@ -496,29 +480,19 @@ Além disso, cumpre o disposto no artigo 4° da Lei Federal nº 10.887/04, que d
 
 Tabela 3 - Custeio Previdenciário Valores em R$
 
-|Custo Normal |Custo Anual |Percentual sobre a folha de |
-
-| | |ativos, aposentados e |
-
-| | |pensionistas |
-
-|Aposentadorias com reversão ao dependente |21.592.562,91 |15,06% |
-
-|Invalidez com reversão ao dependente |2.119.319,06 |1,48% |
-
-|Pensão de ativos |5.658.659,75 |3,95% |
-
-|Auxílios1 |0,00 |0,00% |
-
-|Custo Anual Líquido Normal |29.370.541,72 |20,48% |
-
-|Administração do RPPS² |1.909.378,82 |1,33% |
-
-|Custo Anual Normal Total |31.279.920,53 |21,81% |
-
-|Custo Suplementar |0,00 |0,00% |
-
-|Custo Total |31.279.920,53 |21,81% |
+| Custo Normal | Custo Anual | Percentual sobre a folha de |
+| --- | --- | --- |
+|  |  | ativos, aposentados e |
+|  |  | pensionistas |
+| Aposentadorias com reversão ao dependente | 21.592.562,91 | 15,06% |
+| Invalidez com reversão ao dependente | 2.119.319,06 | 1,48% |
+| Pensão de ativos | 5.658.659,75 | 3,95% |
+| Auxílios1 | 0,00 | 0,00% |
+| Custo Anual Líquido Normal | 29.370.541,72 | 20,48% |
+| Administração do RPPS² | 1.909.378,82 | 1,33% |
+| Custo Anual Normal Total | 31.279.920,53 | 21,81% |
+| Custo Suplementar | 0,00 | 0,00% |
+| Custo Total | 31.279.920,53 | 21,81% |
 
 [5] Conforme art. 23, § 3º, da lei 10.362/2011, o custo com os auxílios será ressarcido pela Prefeitura de Belo Horizonte.
 
@@ -528,35 +502,22 @@ Tabela 4 - Reservas Técnicas
 
 Valores em R$
 
-|Discriminação |Valores |
-
-|Valor Presente dos Benefícios Futuros (aposentados) |0,00 |
-
-|Valor Presente das Contribuições Futuras (aposentados) |0,00 |
-
-|Valor Presente dos Benefícios Futuros (pensionistas) |380.652,59 |
-
-|Valor Presente das Contribuições Futuras (pensionistas) |0,00 |
-
-|Reserva Matemática de Benefícios Concedidos (RMBC) |380.652,59 |
-
-|Valor Presente dos Benefícios Futuros 1 |30.020.243,93 |
-
-|Valor Presente das Contribuições Futuras 2 |0,00 |
-
-|Reserva Matemática de Benefícios a Conceder (RMBaC) (1-2) |30.020.243,93 |
-
-|Reserva Matemática de Benefícios Concedidos (RMBC) |380.652,59 |
-
-|Reserva Matemática de Benefícios a Conceder (RMBaC) |30.020.243,93 |
-
-|Reservas Matemáticas (RMBaC + RMBC) 3 |30.400.896,52 |
-
-|Compensação Financeira a receber 4 |0,00 |
-
-|Ativo do Plano 5 |52.084.749,06 |
-
-|Superávit/Déficit Técnico Atuarial (4+5-3) |21.683.852,54 |
+| Discriminação | Valores |
+| --- | --- |
+| Valor Presente dos Benefícios Futuros (aposentados) | 0,00 |
+| Valor Presente das Contribuições Futuras (aposentados) | 0,00 |
+| Valor Presente dos Benefícios Futuros (pensionistas) | 380.652,59 |
+| Valor Presente das Contribuições Futuras (pensionistas) | 0,00 |
+| Reserva Matemática de Benefícios Concedidos (RMBC) | 380.652,59 |
+| Valor Presente dos Benefícios Futuros 1 | 30.020.243,93 |
+| Valor Presente das Contribuições Futuras 2 | 0,00 |
+| Reserva Matemática de Benefícios a Conceder (RMBaC) (1-2) | 30.020.243,93 |
+| Reserva Matemática de Benefícios Concedidos (RMBC) | 380.652,59 |
+| Reserva Matemática de Benefícios a Conceder (RMBaC) | 30.020.243,93 |
+| Reservas Matemáticas (RMBaC + RMBC) 3 | 30.400.896,52 |
+| Compensação Financeira a receber 4 | 0,00 |
+| Ativo do Plano 5 | 52.084.749,06 |
+| Superávit/Déficit Técnico Atuarial (4+5-3) | 21.683.852,54 |
 
 VII. PARECER ATUARIAL
 
@@ -618,197 +579,103 @@ FUNDO PREVIDENCIÁRIO BHPREV
 
 Valores do fluxo posicionados na data da Avaliação Atuarial
 
-|Ano |Receita | Despesa | Saldo |
-
-|2014 | 99.322.899,11 | 467.345,89 |98.855.553,22 |
-
-|2015 | 45.564.586,06 | 506.275,44 |143.913.863,84 |
-
-|2016 |43.952.257,83 |508.298,42 |187.357.823,25 |
-
-|2017 |42.397.122,49 |495.420,97 |229.259.524,76 |
-
-|2018 |40.885.237,46 |469.970,32 |269.674.791,89 |
-
-|2019 |39.410.298,06 |468.174,94 |308.616.915,01 |
-
-|2020 |38.001.574,30 |501.956,08 |346.116.533,23 |
-
-|2021 |36.614.185,19 |474.013,10 |382.256.705,31 |
-
-|2022 |35.258.917,45 |573.017,54 |416.942.605,21 |
-
-|2023 |33.954.380,76 |649.917,61 |450.247.068,36 |
-
-|2024 |32.693.739,03 |745.815,40 |482.194.991,99 |
-
-|2025 |31.464.447,12 |772.630,46 |512.886.808,64 |
-
-|2026 |30.272.210,48 |821.243,06 |542.337.776,05 |
-
-|2027 |29.097.238,37 |868.357,30 |570.566.657,11 |
-
-|2028 |27.959.314,81 |1.021.625,20 |597.504.346,72 |
-
-|2029 |26.808.702,93 |1.110.041,70 |623.203.007,94 |
-
-|2030 |25.667.419,47 |1.401.242,99 |647.469.184,41 |
-
-|2031 |24.580.580,86 |1.753.967,69 |670.295.797,57 |
-
-|2032 |23.499.536,35 |2.039.193,49 |691.756.140,42 |
-
-|2033 |22.447.565,08 |2.321.321,64 |711.882.383,86 |
-
-|2034 |21.425.877,35 |2.706.864,71 |730.601.396,50 |
-
-|2035 |20.408.460,05 |3.075.408,06 |747.934.448,49 |
-
-|2036 |18.466.231,15 |3.377.575,83 |763.023.103,80 |
-
-|2037 |14.778.064,62 |6.764.747,83 |771.036.420,59 |
-
-|2038 |13.193.939,50 |15.494.265,25 |768.736.094,84 |
-
-|2039 |12.593.973,18 |17.932.619,35 |763.397.448,66 |
-
-|2040 |12.070.957,02 |17.134.544,57 |758.333.861,11 |
-
-|2041 |11.344.377,12 |16.537.317,90 |753.140.920,33 |
-
-|2042 |8.528.041,60 |17.382.116,49 |744.286.845,44 |
-
-|2043 |6.941.779,03 |31.129.421,54 |720.099.202,92 |
-
-|2044 |6.599.312,42 |35.525.063,28 |691.173.452,05 |
-
-|2045 |6.320.253,51 |33.747.322,12 |663.746.383,43 |
-
-|2046 |6.009.785,75 |31.973.803,78 |637.782.365,40 |
-
-|2047 |6.562.243,29 |30.599.138,31 |613.745.470,37 |
-
-|2048 |6.437.271,15 |33.402.392,58 |586.780.348,94 |
-
-|2049 |6.030.961,58 |32.872.192,22 |559.939.118,29 |
-
-|2050 |5.640.755,96 |30.732.048,56 |534.847.825,68 |
-
-|2051 |5.266.151,12 |28.671.068,74 |511.442.908,05 |
-
-|2052 |4.906.691,88 |26.687.341,39 |489.662.258,53 |
-
-|2053 |4.561.987,23 |24.779.399,04 |469.444.846,72 |
-
-|2054 |4.231.715,78 |22.946.495,77 |450.730.066,73 |
-
-|2055 |3.915.624,22 |21.188.483,45 |433.457.207,49 |
-
-|2056 |3.613.508,72 |19.504.662,94 |417.566.053,27 |
-
-|2057 |3.325.196,30 |17.895.962,29 |402.995.287,28 |
-
-|2058 |3.050.554,43 |16.362.523,83 |389.683.317,87 |
-
-|2059 |2.789.492,65 |14.905.069,17 |377.567.741,35 |
-
-|2060 |2.541.956,33 |13.524.195,86 |366.585.501,81 |
-
-|2061 |2.307.904,11 |12.220.460,54 |356.672.945,38 |
-
-|2062 |2.087.285,26 |10.995.306,16 |347.764.924,48 |
-
-|2063 |1.879.845,27 |9.847.277,05 |339.797.492,69 |
-
-|2064 |1.685.900,88 |8.777.809,90 |332.705.583,66 |
-
-|2065 |1.504.992,69 |7.787.005,10 |326.423.571,24 |
-
-|2066 |1.337.327,74 |6.874.871,56 |320.886.027,42 |
-
-|2067 |1.182.564,55 |6.039.441,98 |316.029.149,99 |
-
-|2068 |1.040.472,45 |5.279.350,81 |311.790.271,63 |
-
-|2069 |910.575,95 |4.591.370,52 |308.109.477,05 |
-
-|2070 |792.881,77 |3.974.523,91 |304.927.834,91 |
-
-|2071 |686.566,57 |3.422.814,59 |302.191.586,89 |
-
-|2072 |591.379,92 |2.933.895,49 |299.849.071,31 |
-
-|2073 |506.709,25 |2.504.936,83 |297.850.843,72 |
-
-|2074 |432.299,65 |2.131.098,75 |296.152.044,62 |
-
-|2075 |366.912,97 |1.806.926,58 |294.712.031,01 |
-
-|2076 |310.288,47 |1.529.297,82 |293.493.021,66 |
-
-|2077 |262.212,72 |1.293.881,71 |292.461.352,66 |
-
-|2078 |220.979,80 |1.093.751,66 |291.588.580,80 |
-
-|2079 |186.634,60 |928.349,04 |290.846.866,35 |
-
-|2080 |157.767,79 |790.252,72 |290.214.381,42 |
-
-|2081 |135.189,77 |679.945,11 |289.669.626,07 |
-
-|2082 |116.047,00 |589.410,43 |289.196.262,64 |
-
-|2083 |101.327,25 |516.245,15 |288.781.344,73 |
-
-|2084 |90.240,77 |457.952,85 |288.413.632,65 |
-
-|2085 |81.458,98 |410.798,26 |288.084.293,37 |
-
-|2086 |74.420,86 |371.615,60 |287.787.098,63 |
-
-|2087 |68.643,09 |341.098,90 |287.514.642,81 |
-
-|2088 |63.978,78 |313.825,77 |287.264.795,81 |
-
-|2089 |59.766,03 |288.165,31 |287.036.396,52 |
-
-|2090 |54.114,21 |259.818,70 |286.830.692,02 |
-
-|2091 |47.941,32 |233.403,11 |286.645.230,22 |
-
-|2092 |43.616,70 |206.576,46 |286.482.270,45 |
-
-|2093 |38.784,78 |180.446,92 |286.340.608,30 |
-
-|2094 |31.895,00 |150.069,96 |286.222.433,33 |
-
-|2095 |26.758,56 |121.493,32 |286.127.698,57 |
-
-|2096 |17.671,97 |90.426,74 |286.054.943,80 |
-
-|2097 |11.257,97 |62.429,26 |286.003.772,51 |
-
-|2098 |6.817,44 |42.174,93 |285.968.415,02 |
-
-|2099 |3.093,21 |24.587,62 |285.946.920,61 |
-
-|2100 |945,49 |12.641,23 |285.935.224,87 |
-
-|2101 |346,44 |5.792,02 |285.929.779,28 |
-
-|2102 |9,64 |2.602,39 |285.927.186,52 |
-
-|2103 |9,64 |1.122,51 |285.926.073,65 |
-
-|2104 |- |315,08 |285.925.758,57 |
-
-|2105 |- |76,95 |285.925.681,62 |
-
-|2106 |- |34,07 |285.925.647,54 |
-
-|2107 |- |- |285.925.647,54 |
-
-|2108 |- |- |285.925.647,54 |
+| Ano | Receita | Despesa | Saldo |
+| --- | --- | --- | --- |
+| 2014 | 99.322.899,11 | 467.345,89 | 98.855.553,22 |
+| 2015 | 45.564.586,06 | 506.275,44 | 143.913.863,84 |
+| 2016 | 43.952.257,83 | 508.298,42 | 187.357.823,25 |
+| 2017 | 42.397.122,49 | 495.420,97 | 229.259.524,76 |
+| 2018 | 40.885.237,46 | 469.970,32 | 269.674.791,89 |
+| 2019 | 39.410.298,06 | 468.174,94 | 308.616.915,01 |
+| 2020 | 38.001.574,30 | 501.956,08 | 346.116.533,23 |
+| 2021 | 36.614.185,19 | 474.013,10 | 382.256.705,31 |
+| 2022 | 35.258.917,45 | 573.017,54 | 416.942.605,21 |
+| 2023 | 33.954.380,76 | 649.917,61 | 450.247.068,36 |
+| 2024 | 32.693.739,03 | 745.815,40 | 482.194.991,99 |
+| 2025 | 31.464.447,12 | 772.630,46 | 512.886.808,64 |
+| 2026 | 30.272.210,48 | 821.243,06 | 542.337.776,05 |
+| 2027 | 29.097.238,37 | 868.357,30 | 570.566.657,11 |
+| 2028 | 27.959.314,81 | 1.021.625,20 | 597.504.346,72 |
+| 2029 | 26.808.702,93 | 1.110.041,70 | 623.203.007,94 |
+| 2030 | 25.667.419,47 | 1.401.242,99 | 647.469.184,41 |
+| 2031 | 24.580.580,86 | 1.753.967,69 | 670.295.797,57 |
+| 2032 | 23.499.536,35 | 2.039.193,49 | 691.756.140,42 |
+| 2033 | 22.447.565,08 | 2.321.321,64 | 711.882.383,86 |
+| 2034 | 21.425.877,35 | 2.706.864,71 | 730.601.396,50 |
+| 2035 | 20.408.460,05 | 3.075.408,06 | 747.934.448,49 |
+| 2036 | 18.466.231,15 | 3.377.575,83 | 763.023.103,80 |
+| 2037 | 14.778.064,62 | 6.764.747,83 | 771.036.420,59 |
+| 2038 | 13.193.939,50 | 15.494.265,25 | 768.736.094,84 |
+| 2039 | 12.593.973,18 | 17.932.619,35 | 763.397.448,66 |
+| 2040 | 12.070.957,02 | 17.134.544,57 | 758.333.861,11 |
+| 2041 | 11.344.377,12 | 16.537.317,90 | 753.140.920,33 |
+| 2042 | 8.528.041,60 | 17.382.116,49 | 744.286.845,44 |
+| 2043 | 6.941.779,03 | 31.129.421,54 | 720.099.202,92 |
+| 2044 | 6.599.312,42 | 35.525.063,28 | 691.173.452,05 |
+| 2045 | 6.320.253,51 | 33.747.322,12 | 663.746.383,43 |
+| 2046 | 6.009.785,75 | 31.973.803,78 | 637.782.365,40 |
+| 2047 | 6.562.243,29 | 30.599.138,31 | 613.745.470,37 |
+| 2048 | 6.437.271,15 | 33.402.392,58 | 586.780.348,94 |
+| 2049 | 6.030.961,58 | 32.872.192,22 | 559.939.118,29 |
+| 2050 | 5.640.755,96 | 30.732.048,56 | 534.847.825,68 |
+| 2051 | 5.266.151,12 | 28.671.068,74 | 511.442.908,05 |
+| 2052 | 4.906.691,88 | 26.687.341,39 | 489.662.258,53 |
+| 2053 | 4.561.987,23 | 24.779.399,04 | 469.444.846,72 |
+| 2054 | 4.231.715,78 | 22.946.495,77 | 450.730.066,73 |
+| 2055 | 3.915.624,22 | 21.188.483,45 | 433.457.207,49 |
+| 2056 | 3.613.508,72 | 19.504.662,94 | 417.566.053,27 |
+| 2057 | 3.325.196,30 | 17.895.962,29 | 402.995.287,28 |
+| 2058 | 3.050.554,43 | 16.362.523,83 | 389.683.317,87 |
+| 2059 | 2.789.492,65 | 14.905.069,17 | 377.567.741,35 |
+| 2060 | 2.541.956,33 | 13.524.195,86 | 366.585.501,81 |
+| 2061 | 2.307.904,11 | 12.220.460,54 | 356.672.945,38 |
+| 2062 | 2.087.285,26 | 10.995.306,16 | 347.764.924,48 |
+| 2063 | 1.879.845,27 | 9.847.277,05 | 339.797.492,69 |
+| 2064 | 1.685.900,88 | 8.777.809,90 | 332.705.583,66 |
+| 2065 | 1.504.992,69 | 7.787.005,10 | 326.423.571,24 |
+| 2066 | 1.337.327,74 | 6.874.871,56 | 320.886.027,42 |
+| 2067 | 1.182.564,55 | 6.039.441,98 | 316.029.149,99 |
+| 2068 | 1.040.472,45 | 5.279.350,81 | 311.790.271,63 |
+| 2069 | 910.575,95 | 4.591.370,52 | 308.109.477,05 |
+| 2070 | 792.881,77 | 3.974.523,91 | 304.927.834,91 |
+| 2071 | 686.566,57 | 3.422.814,59 | 302.191.586,89 |
+| 2072 | 591.379,92 | 2.933.895,49 | 299.849.071,31 |
+| 2073 | 506.709,25 | 2.504.936,83 | 297.850.843,72 |
+| 2074 | 432.299,65 | 2.131.098,75 | 296.152.044,62 |
+| 2075 | 366.912,97 | 1.806.926,58 | 294.712.031,01 |
+| 2076 | 310.288,47 | 1.529.297,82 | 293.493.021,66 |
+| 2077 | 262.212,72 | 1.293.881,71 | 292.461.352,66 |
+| 2078 | 220.979,80 | 1.093.751,66 | 291.588.580,80 |
+| 2079 | 186.634,60 | 928.349,04 | 290.846.866,35 |
+| 2080 | 157.767,79 | 790.252,72 | 290.214.381,42 |
+| 2081 | 135.189,77 | 679.945,11 | 289.669.626,07 |
+| 2082 | 116.047,00 | 589.410,43 | 289.196.262,64 |
+| 2083 | 101.327,25 | 516.245,15 | 288.781.344,73 |
+| 2084 | 90.240,77 | 457.952,85 | 288.413.632,65 |
+| 2085 | 81.458,98 | 410.798,26 | 288.084.293,37 |
+| 2086 | 74.420,86 | 371.615,60 | 287.787.098,63 |
+| 2087 | 68.643,09 | 341.098,90 | 287.514.642,81 |
+| 2088 | 63.978,78 | 313.825,77 | 287.264.795,81 |
+| 2089 | 59.766,03 | 288.165,31 | 287.036.396,52 |
+| 2090 | 54.114,21 | 259.818,70 | 286.830.692,02 |
+| 2091 | 47.941,32 | 233.403,11 | 286.645.230,22 |
+| 2092 | 43.616,70 | 206.576,46 | 286.482.270,45 |
+| 2093 | 38.784,78 | 180.446,92 | 286.340.608,30 |
+| 2094 | 31.895,00 | 150.069,96 | 286.222.433,33 |
+| 2095 | 26.758,56 | 121.493,32 | 286.127.698,57 |
+| 2096 | 17.671,97 | 90.426,74 | 286.054.943,80 |
+| 2097 | 11.257,97 | 62.429,26 | 286.003.772,51 |
+| 2098 | 6.817,44 | 42.174,93 | 285.968.415,02 |
+| 2099 | 3.093,21 | 24.587,62 | 285.946.920,61 |
+| 2100 | 945,49 | 12.641,23 | 285.935.224,87 |
+| 2101 | 346,44 | 5.792,02 | 285.929.779,28 |
+| 2102 | 9,64 | 2.602,39 | 285.927.186,52 |
+| 2103 | 9,64 | 1.122,51 | 285.926.073,65 |
+| 2104 | - | 315,08 | 285.925.758,57 |
+| 2105 | - | 76,95 | 285.925.681,62 |
+| 2106 | - | 34,07 | 285.925.647,54 |
+| 2107 | - | - | 285.925.647,54 |
+| 2108 | - | - | 285.925.647,54 |
 
 PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
@@ -910,9 +777,9 @@ Conforme informações disponibilizadas na base de dados, o conjunto populaciona
 
 Tabela 1 - Quantidade de Participantes
 
-|Ativos |Aposentados |Pensionistas |
-
-|28.061 |11.205 |2.985 |
+| Ativos | Aposentados | Pensionistas |
+| --- | --- | --- |
+| 28.061 | 11.205 | 2.985 |
 
 Fonte: Base de dados da Prefeitura
 
@@ -920,7 +787,7 @@ Verifica-se, ante os dados dispostos, que os ativos representam a maioria de ser
 
 Gráfico 1 - Quantidade de Participantes
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -932,13 +799,13 @@ O perfil estatístico da população é um fator que influencia diretamente na a
 
 Gráfico 2 - Ativos por Sexo e Carreira
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
 Gráfico 3 - Ativos por Faixa Etária
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -946,7 +813,7 @@ Verifica-se que a maioria dos ativos se encontra na faixa etária entre 46 a 50 
 
 Gráfico 4 - Ativos por Tempo de Serviço Público
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -954,7 +821,7 @@ Verifica-se que 51,14% dos ativos têm tempo de serviço público inferior a 10 
 
 Gráfico 5 – Ativos por Faixa de Remuneração
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -964,27 +831,21 @@ O perfil estatístico consolidado dos ativos é visualizado na tabela a seguir:
 
 Tabela 2 - Ativos
 
-|Discriminação |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |20.718 |7.343 |28.061 |
-
-|Idade média atual |45 |43 |45 |
-
-|Idade média de admissão no serviço |32 |30 |31 |
-
-|público | | | |
-
-|Salário médio |R$ 3.172,50 | R$ 3.518,76 |R$ 3.263,11 |
-
-|Folha Mensal |R$ 65.727.831,23 |R$ 25.838.218,50 |R$ 91.566.049,73 |
+| Discriminação | Sexo | Total |  |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 20.718 | 7.343 | 28.061 |
+| Idade média atual | 45 | 43 | 45 |
+| Idade média de admissão no serviço | 32 | 30 | 31 |
+| público |  |  |  |
+| Salário médio | R$ 3.172,50 | R$ 3.518,76 | R$ 3.263,11 |
+| Folha Mensal | R$ 65.727.831,23 | R$ 25.838.218,50 | R$ 91.566.049,73 |
 
 Fonte: Base de dados da Prefeitura
 
 Gráfico 6 – Ativos por Tempo para Aposentação
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -994,17 +855,13 @@ O grupo de aposentados do RPPS de Belo Horizonte está distribuído da seguinte 
 
 Tabela 3 - Aposentados
 
-|Discriminação |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |8.427 |2.778 |11.205 |
-
-|Idade média atual |64 |71 |66 |
-
-|Benefício médio |R$ 3.284,48 |R$ 3.474,34 |R$ 3.331,55 |
-
-|Folha Mensal |R$ 27.678.352,70 |R$ 9.651.710,98 |R$ 37.330.063,68 |
+| Discriminação | Sexo | Total |  |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 8.427 | 2.778 | 11.205 |
+| Idade média atual | 64 | 71 | 66 |
+| Benefício médio | R$ 3.284,48 | R$ 3.474,34 | R$ 3.331,55 |
+| Folha Mensal | R$ 27.678.352,70 | R$ 9.651.710,98 | R$ 37.330.063,68 |
 
 Fonte: Base de dados da Prefeitura
 
@@ -1012,7 +869,7 @@ Os dados apontam para um número maior de participantes do sexo feminino, repres
 
 Gráfico 7 - Aposentados por Faixa de Benefício
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -1024,17 +881,13 @@ O grupo de pensionistas de Belo Horizonte está distribuído da seguinte maneira
 
 Tabela 4 - Pensionistas
 
-|Discriminação | |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |2.400 |585 |2.985 |
-
-|Idade média atual |69 |49 |65 |
-
-|Benefício médio |R$ 2.113,24 |R$ 1.758,93 |R$ 2.043,80 |
-
-|Folha Mensal |R$ 5.071.769,74 |R$ 1.028.972,99 |R$ 6.100.742,73 |
+| Discriminação |  | Sexo | Total |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 2.400 | 585 | 2.985 |
+| Idade média atual | 69 | 49 | 65 |
+| Benefício médio | R$ 2.113,24 | R$ 1.758,93 | R$ 2.043,80 |
+| Folha Mensal | R$ 5.071.769,74 | R$ 1.028.972,99 | R$ 6.100.742,73 |
 
 Fonte: Base de dados da Prefeitura
 
@@ -1050,63 +903,40 @@ Além disso, cumpre o disposto no art. 4° da Lei nº 10.887/04, que determina q
 
 Tabela 5 - Custeio Previdenciário Valores em R$
 
-|Custo Normal |Custo Anual |Percentual sobre a folha de |
-
-| | |ativos |
-
-|Aposentadorias com reversão ao dependente |391.226.241,97 |32,87% |
-
-|Invalidez com reversão ao dependente |1.072.158,63 |0,09% |
-
-|Pensão de ativos |527.419,99 |0,04% |
-
-|Auxílios |0,00 |0,00% |
-
-|CUSTO ANUAL LÍQUIDO NORMAL |392.825.820,59 |33,00% |
-
-|Administração do Plano¹ |0,00 |0,00% |
-
-|CUSTO ANUAL NORMAL TOTAL |392.825.820,59 |33,00% |
-
-|Custo Suplementar |351.502.741,61 |29,53% |
-
-|Custo Total |744.328.562,20 |62,53% |
+| Custo Normal | Custo Anual | Percentual sobre a folha de |
+| --- | --- | --- |
+|  |  | ativos |
+| Aposentadorias com reversão ao dependente | 391.226.241,97 | 32,87% |
+| Invalidez com reversão ao dependente | 1.072.158,63 | 0,09% |
+| Pensão de ativos | 527.419,99 | 0,04% |
+| Auxílios | 0,00 | 0,00% |
+| CUSTO ANUAL LÍQUIDO NORMAL | 392.825.820,59 | 33,00% |
+| Administração do Plano¹ | 0,00 | 0,00% |
+| CUSTO ANUAL NORMAL TOTAL | 392.825.820,59 | 33,00% |
+| Custo Suplementar | 351.502.741,61 | 29,53% |
+| Custo Total | 744.328.562,20 | 62,53% |
 
 ¹As despesas administrativas do FUFIN serão custeadas pelo Plano Previdenciário BHPREV.
 
 Tabela 6 - Reservas Técnicas Valores em R$
 
-|Discriminação |Valores |
-
-|Valor Presente dos Benefícios Futuros (aposentados) |494.422.048,98 |
-
-|Valor Presente das Contribuições Futuras (aposentados) |11.613.950,96 |
-
-|Valor Presente dos Benefícios Futuros (pensionistas) |80.801.944,18 |
-
-|Valor Presente das Contribuições Futuras (pensionistas) |1.906.657,59 |
-
-|Reserva Matemática de Benefícios Concedidos (RMBC) |561.703.384,61 |
-
-|Valor Presente dos Benefícios Futuros 1 |183.102.230,52 |
-
-|Valor Presente das Contribuições Futuras 2 |348.049.554,14 |
-
-|Reserva Matemática de Benefícios a Conceder (RMBaC) (1-2) |-164.947.323,62 |
-
-|Reserva Matemática de Benefícios Concedidos (RMBC) |561.703.384,61 |
-
-|Reserva Matemática de Benefícios a Conceder (RMBaC) |-164.947.323,62 |
-
-|Reservas Matemáticas (RMBaC + RMBC) 3 |396.756.060,99 |
-
-|Compensação Financeira a Pagar 4 |80.225,40 |
-
-|Compensação Financeira a Receber* 5 |5.005.709,28 |
-
-|Ativo do Plano 6 |44.851.898,62 |
-
-|Superávit/Déficit Técnico Atuarial (5+6-3-4) |-346.978.678,49 |
+| Discriminação | Valores |
+| --- | --- |
+| Valor Presente dos Benefícios Futuros (aposentados) | 494.422.048,98 |
+| Valor Presente das Contribuições Futuras (aposentados) | 11.613.950,96 |
+| Valor Presente dos Benefícios Futuros (pensionistas) | 80.801.944,18 |
+| Valor Presente das Contribuições Futuras (pensionistas) | 1.906.657,59 |
+| Reserva Matemática de Benefícios Concedidos (RMBC) | 561.703.384,61 |
+| Valor Presente dos Benefícios Futuros 1 | 183.102.230,52 |
+| Valor Presente das Contribuições Futuras 2 | 348.049.554,14 |
+| Reserva Matemática de Benefícios a Conceder (RMBaC) (1-2) | -164.947.323,62 |
+| Reserva Matemática de Benefícios Concedidos (RMBC) | 561.703.384,61 |
+| Reserva Matemática de Benefícios a Conceder (RMBaC) | -164.947.323,62 |
+| Reservas Matemáticas (RMBaC + RMBC) 3 | 396.756.060,99 |
+| Compensação Financeira a Pagar 4 | 80.225,40 |
+| Compensação Financeira a Receber* 5 | 5.005.709,28 |
+| Ativo do Plano 6 | 44.851.898,62 |
+| Superávit/Déficit Técnico Atuarial (5+6-3-4) | -346.978.678,49 |
 
 *Compensação Financeira para ativos e aposentados.
 
@@ -1114,15 +944,12 @@ XV. ANÁLISE COMPARATIVA
 
 Tabela 7 - Comparativo da Quantidade de Participantes
 
-|Avaliação Atuarial |Data base |Participantes |
-
-| | |Ativos |Aposentados |Pensionistas |
-
-|Dezembro/2011 |Novembro/2011 |30.035 |10.094 |3.000 |
-
-|Dezembro/2012 |Novembro/2012 |29.400 |10.691 |2.995 |
-
-|Dezembro/2013 |Setembro/2013 |28.061 |11.205 |2.985 |
+| Avaliação Atuarial | Data base | Participantes |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Ativos | Aposentados | Pensionistas |
+| Dezembro/2011 | Novembro/2011 | 30.035 | 10.094 | 3.000 |
+| Dezembro/2012 | Novembro/2012 | 29.400 | 10.691 | 2.995 |
+| Dezembro/2013 | Setembro/2013 | 28.061 | 11.205 | 2.985 |
 
 Fonte: Base de Dados da Prefeitura e DRAA anteriores
 
@@ -1130,15 +957,12 @@ Observa-se pela análise dos dados da tabela, uma redução de 1.339 ativos entr
 
 Tabela 8 - Comparativo do Salário e Benefício Médio Valores em R$
 
-|Avaliação Atuarial |Data-base |Salários e Benefícios Médios |
-
-| | |Ativos |Aposentados |Pensionistas |
-
-|Dezembro/2011 |Novembro/2011 |2.698,09 |2.364,01 |1.560,73 |
-
-|Dezembro/2012 |Novembro/2012 |3.305,83 |3.261,78 |1.991,66 |
-
-|Dezembro/2013 |Setembro/2013 |3.263,11 |3.331,55 |2.043,80 |
+| Avaliação Atuarial | Data-base | Salários e Benefícios Médios |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Ativos | Aposentados | Pensionistas |
+| Dezembro/2011 | Novembro/2011 | 2.698,09 | 2.364,01 | 1.560,73 |
+| Dezembro/2012 | Novembro/2012 | 3.305,83 | 3.261,78 | 1.991,66 |
+| Dezembro/2013 | Setembro/2013 | 3.263,11 | 3.331,55 | 2.043,80 |
 
 Fonte: Base de Dados da Prefeitura e DRAA anteriores
 
@@ -1146,25 +970,17 @@ Ante os dados dispostos, observam-se grandes variações nos valores do salário
 
 Tabela 9 - Comparativo do Custo Normal
 
-|CUSTO NORMAL |Avaliação (*) |
-
-| |Dez/11 |Dez/12 |Dez/13 |
-
-|Aposentadorias |31,46% |29,12% |29,35% |
-
-|Invalidez |1,24% |0,09% |0,09% |
-
-|Pensão de ativos |0,18% |0,09% |0,04% |
-
-|Pensão de aposentados |0,01% |3,60% |3,52% |
-
-|Auxílios¹ |0,01% |0,00% |0,00% |
-
-|CUSTO ANUAL LÍQUIDO NORMAL |32,90% |32,90% |33,00% |
-
-|Administração do Plano² |0,10% |0,10% |0,00% |
-
-|CUSTO ANUAL NORMAL TOTAL |33,00% |33,00% |33,00% |
+| CUSTO NORMAL | Avaliação (*) |  |  |
+| --- | --- | --- | --- |
+|  | Dez/11 | Dez/12 | Dez/13 |
+| Aposentadorias | 31,46% | 29,12% | 29,35% |
+| Invalidez | 1,24% | 0,09% | 0,09% |
+| Pensão de ativos | 0,18% | 0,09% | 0,04% |
+| Pensão de aposentados | 0,01% | 3,60% | 3,52% |
+| Auxílios¹ | 0,01% | 0,00% | 0,00% |
+| CUSTO ANUAL LÍQUIDO NORMAL | 32,90% | 32,90% | 33,00% |
+| Administração do Plano² | 0,10% | 0,10% | 0,00% |
+| CUSTO ANUAL NORMAL TOTAL | 33,00% | 33,00% | 33,00% |
 
 (*) correspondem às datas-base no mês de 11/2011, 11/2012 e 09/2013.
 
@@ -1232,221 +1048,117 @@ FUNDO FINANCEIRO FUFIN
 
 Valores do fluxo posicionados na data da Avaliação Atuarial
 
-|Ano |Receita |Despesa |Saldo |
-
-|2014 | 411.427.770,59 | 758.326.223,68 | (346.898.453,09) |
-
-|2015 | 354.961.908,88 | 778.873.100,79 | (423.911.191,91) |
-
-|2016 | 339.305.866,75 | 816.394.028,03 | (477.088.161,28) |
-
-|2017 | 326.117.433,90 | 844.018.856,47 | (517.901.422,57) |
-
-|2018 | 315.210.389,01 | 864.709.957,69 | (549.499.568,68) |
-
-|2019 | 303.866.982,12 | 883.700.764,52 | (579.833.782,39) |
-
-|2020 | 293.327.557,23 | 899.078.440,33 | (605.750.883,10) |
-
-|2021 | 280.353.312,15 | 922.159.664,70 | (641.806.352,54) |
-
-|2022 | 268.526.435,37 | 939.687.160,80 | (671.160.725,42) |
-
-|2023 | 256.796.985,65 | 955.388.357,41 | (698.591.371,76) |
-
-|2024 | 245.088.038,52 | 968.837.385,36 | (723.749.346,84) |
-
-|2025 | 232.082.669,93 | 986.155.992,16 | (754.073.322,23) |
-
-|2026 | 216.628.425,04 | 1.010.086.584,21 | (793.458.159,16) |
-
-|2027 | 206.492.879,46 | 1.013.102.171,28 | (806.609.291,82) |
-
-|2028 | 196.668.740,44 | 1.013.189.095,20 | (816.520.354,76) |
-
-|2029 | 183.983.838,34 | 1.021.858.757,59 | (837.874.919,25) |
-
-|2030 | 172.336.541,87 | 1.025.966.828,67 | (853.630.286,79) |
-
-|2031 | 160.634.721,33 | 1.028.572.306,90 | (867.937.585,57) |
-
-|2032 | 149.081.883,18 | 1.028.417.148,45 | (879.335.265,27) |
-
-|2033 | 136.941.901,48 | 1.028.526.029,40 | (891.584.127,91) |
-
-|2034 | 124.513.181,90 | 1.029.666.907,38 | (905.153.725,48) |
-
-|2035 | 114.036.907,20 | 1.022.520.439,53 | (908.483.532,33) |
-
-|2036 | 105.250.726,85 | 1.009.029.484,80 | (903.778.757,95) |
-
-|2037 | 94.074.523,97 | 1.002.901.084,52 | (908.826.560,55) |
-
-|2038 | 81.571.154,03 | 999.776.945,87 | (918.205.791,83) |
-
-|2039 | 74.528.762,91 | 979.193.177,61 | (904.664.414,69) |
-
-|2040 | 64.047.648,69 | 968.057.438,09 | (904.009.789,39) |
-
-|2041 | 53.213.317,88 | 957.460.274,64 | (904.246.956,75) |
-
-|2042 | 45.354.358,09 | 937.269.393,80 | (891.915.035,70) |
-
-|2043 | 35.688.503,95 | 922.244.240,51 | (886.555.736,55) |
-
-|2044 | 30.978.772,06 | 891.375.911,88 | (860.397.139,81) |
-
-|2045 | 26.008.302,29 | 861.808.688,47 | (835.800.386,18) |
-
-|2046 | 20.609.030,17 | 834.030.826,28 | (813.421.796,11) |
-
-|2047 | 18.256.720,63 | 797.080.845,67 | (778.824.125,04) |
-
-|2048 | 16.303.180,83 | 759.686.043,69 | (743.382.862,85) |
-
-|2049 | 14.597.408,56 | 721.965.249,55 | (707.367.840,98) |
-
-|2050 | 13.217.898,14 | 684.309.275,48 | (671.091.377,33) |
-
-|2051 | 11.904.531,53 | 648.278.418,27 | (636.373.886,73) |
-
-|2052 | 10.739.613,65 | 613.338.996,83 | (602.599.383,17) |
-
-|2053 | 9.709.815,40 | 579.615.141,00 | (569.905.325,59) |
-
-|2054 | 8.744.226,69 | 545.340.563,65 | (536.596.336,95) |
-
-|2055 | 7.835.297,27 | 512.795.297,35 | (504.960.000,08) |
-
-|2056 | 6.984.720,52 | 481.284.405,20 | (474.299.684,68) |
-
-|2057 | 6.193.744,41 | 450.507.338,88 | (444.313.594,47) |
-
-|2058 | 5.463.089,06 | 419.565.588,28 | (414.102.499,22) |
-
-|2059 | 4.792.773,43 | 388.899.471,66 | (384.106.698,22) |
-
-|2060 | 4.182.046,30 | 358.286.286,48 | (354.104.240,17) |
-
-|2061 | 3.629.560,92 | 329.091.323,10 | (325.461.762,18) |
-
-|2062 | 3.133.564,10 | 300.104.824,37 | (296.971.260,27) |
-
-|2063 | 2.691.812,94 | 272.677.656,95 | (269.985.844,00) |
-
-|2064 | 2.301.451,59 | 246.651.126,70 | (244.349.675,11) |
-
-|2065 | 1.959.082,09 | 222.175.787,93 | (220.216.705,83) |
-
-|2066 | 1.660.823,93 | 200.003.812,39 | (198.342.988,46) |
-
-|2067 | 1.402.362,90 | 179.460.138,36 | (178.057.775,45) |
-
-|2068 | 1.179.252,92 | 161.270.547,80 | (160.091.294,88) |
-
-|2069 | 987.166,40 | 144.936.843,01 | (143.949.676,61) |
-
-|2070 | 822.039,44 | 129.934.787,01 | (129.112.747,56) |
-
-|2071 | 680.304,18 | 115.886.034,19 | (115.205.730,01) |
-
-|2072 | 558.979,28 | 102.924.720,18 | (102.365.740,89) |
-
-|2073 | 455.562,55 | 91.413.925,88 | (90.958.363,33) |
-
-|2074 | 367.882,78 | 79.984.742,02 | (79.616.859,23) |
-
-|2075 | 294.022,87 | 69.309.670,18 | (69.015.647,30) |
-
-|2076 | 232.259,38 | 59.036.033,06 | (58.803.773,68) |
-
-|2077 | 181.087,35 | 49.243.716,20 | (49.062.628,85) |
-
-|2078 | 139.201,43 | 40.448.271,18 | (40.309.069,75) |
-
-|2079 | 105.448,54 | 32.753.874,70 | (32.648.426,16) |
-
-|2080 | 78.777,53 | 26.037.406,22 | (25.958.628,69) |
-
-|2081 | 58.193,13 | 20.261.606,24 | (20.203.413,11) |
-
-|2082 | 42.715,63 | 15.405.866,29 | (15.363.150,66) |
-
-|2083 | 31.376,54 | 11.535.109,73 | (11.503.733,18) |
-
-|2084 | 23.258,92 | 8.486.694,33 | (8.463.435,40) |
-
-|2085 | 17.561,41 | 6.124.557,80 | (6.106.996,38) |
-
-|2086 | 13.621,82 | 4.371.166,20 | (4.357.544,38) |
-
-|2087 | 10.890,33 | 3.105.324,78 | (3.094.434,45) |
-
-|2088 | 8.937,33 | 2.207.810,83 | (2.198.873,50) |
-
-|2089 | 7.466,94 | 1.579.846,31 | (1.572.379,37) |
-
-|2090 | 6.283,08 | 1.143.709,34 | (1.137.426,26) |
-
-|2091 | 5.270,25 | 841.565,80 | (836.295,55) |
-
-|2092 | 4.373,82 | 631.765,80 | (627.391,98) |
-
-|2093 | 3.571,26 | 483.905,75 | (480.334,49) |
-
-|2094 | 2.855,11 | 376.209,10 | (373.353,98) |
-
-|2095 | 2.223,48 | 294.419,08 | (292.195,59) |
-
-|2096 | 1.677,06 | 230.148,80 | (228.471,74) |
-
-|2097 | 1.216,69 | 178.665,13 | (177.448,43) |
-
-|2098 | 841,55 | 137.108,94 | (136.267,39) |
-
-|2099 | 548,31 | 103.682,81 | (103.134,50) |
-
-|2100 | 330,60 | 77.152,67 | (76.822,06) |
-
-|2101 | 179,18 | 56.474,61 | (56.295,43) |
-
-|2102 | 83,47 | 40.665,48 | (40.582,00) |
-
-|2103 | 32,05 | 28.849,29 | (28.817,24) |
-
-|2104 | 10,28 | 20.244,82 | (20.234,53) |
-
-|2105 | 2,83 | 14.114,06 | (14.111,23) |
-
-|2106 | 0,52 | 9.792,86 | (9.792,34) |
-
-|2107 | 0,03 | 6.734,75 | (6.734,71) |
-
-|2108 | 0,00 | 4.537,67 | (4.537,67) |
-
-|2109 | 0,00 | 2.954,24 | (2.954,24) |
-
-|2110 | 0,00 | 1.840,56 | (1.840,55) |
-
-|2111 | - | 1.091,32 | (1.091,32) |
-
-|2112 | - | 609,92 | (609,92) |
-
-|2113 | - | 313,56 | (313,56) |
-
-|2114 | - | 138,25 | (138,24) |
-
-|2115 | - | 45,40 | (45,40) |
-
-|2116 | - | 8,49 | (8,49) |
-
-|2117 | - | 0,50 | (0,49) |
-
-|2118 | - | 0,00 | - |
+| Ano | Receita | Despesa | Saldo |
+| --- | --- | --- | --- |
+| 2014 | 411.427.770,59 | 758.326.223,68 | (346.898.453,09) |
+| 2015 | 354.961.908,88 | 778.873.100,79 | (423.911.191,91) |
+| 2016 | 339.305.866,75 | 816.394.028,03 | (477.088.161,28) |
+| 2017 | 326.117.433,90 | 844.018.856,47 | (517.901.422,57) |
+| 2018 | 315.210.389,01 | 864.709.957,69 | (549.499.568,68) |
+| 2019 | 303.866.982,12 | 883.700.764,52 | (579.833.782,39) |
+| 2020 | 293.327.557,23 | 899.078.440,33 | (605.750.883,10) |
+| 2021 | 280.353.312,15 | 922.159.664,70 | (641.806.352,54) |
+| 2022 | 268.526.435,37 | 939.687.160,80 | (671.160.725,42) |
+| 2023 | 256.796.985,65 | 955.388.357,41 | (698.591.371,76) |
+| 2024 | 245.088.038,52 | 968.837.385,36 | (723.749.346,84) |
+| 2025 | 232.082.669,93 | 986.155.992,16 | (754.073.322,23) |
+| 2026 | 216.628.425,04 | 1.010.086.584,21 | (793.458.159,16) |
+| 2027 | 206.492.879,46 | 1.013.102.171,28 | (806.609.291,82) |
+| 2028 | 196.668.740,44 | 1.013.189.095,20 | (816.520.354,76) |
+| 2029 | 183.983.838,34 | 1.021.858.757,59 | (837.874.919,25) |
+| 2030 | 172.336.541,87 | 1.025.966.828,67 | (853.630.286,79) |
+| 2031 | 160.634.721,33 | 1.028.572.306,90 | (867.937.585,57) |
+| 2032 | 149.081.883,18 | 1.028.417.148,45 | (879.335.265,27) |
+| 2033 | 136.941.901,48 | 1.028.526.029,40 | (891.584.127,91) |
+| 2034 | 124.513.181,90 | 1.029.666.907,38 | (905.153.725,48) |
+| 2035 | 114.036.907,20 | 1.022.520.439,53 | (908.483.532,33) |
+| 2036 | 105.250.726,85 | 1.009.029.484,80 | (903.778.757,95) |
+| 2037 | 94.074.523,97 | 1.002.901.084,52 | (908.826.560,55) |
+| 2038 | 81.571.154,03 | 999.776.945,87 | (918.205.791,83) |
+| 2039 | 74.528.762,91 | 979.193.177,61 | (904.664.414,69) |
+| 2040 | 64.047.648,69 | 968.057.438,09 | (904.009.789,39) |
+| 2041 | 53.213.317,88 | 957.460.274,64 | (904.246.956,75) |
+| 2042 | 45.354.358,09 | 937.269.393,80 | (891.915.035,70) |
+| 2043 | 35.688.503,95 | 922.244.240,51 | (886.555.736,55) |
+| 2044 | 30.978.772,06 | 891.375.911,88 | (860.397.139,81) |
+| 2045 | 26.008.302,29 | 861.808.688,47 | (835.800.386,18) |
+| 2046 | 20.609.030,17 | 834.030.826,28 | (813.421.796,11) |
+| 2047 | 18.256.720,63 | 797.080.845,67 | (778.824.125,04) |
+| 2048 | 16.303.180,83 | 759.686.043,69 | (743.382.862,85) |
+| 2049 | 14.597.408,56 | 721.965.249,55 | (707.367.840,98) |
+| 2050 | 13.217.898,14 | 684.309.275,48 | (671.091.377,33) |
+| 2051 | 11.904.531,53 | 648.278.418,27 | (636.373.886,73) |
+| 2052 | 10.739.613,65 | 613.338.996,83 | (602.599.383,17) |
+| 2053 | 9.709.815,40 | 579.615.141,00 | (569.905.325,59) |
+| 2054 | 8.744.226,69 | 545.340.563,65 | (536.596.336,95) |
+| 2055 | 7.835.297,27 | 512.795.297,35 | (504.960.000,08) |
+| 2056 | 6.984.720,52 | 481.284.405,20 | (474.299.684,68) |
+| 2057 | 6.193.744,41 | 450.507.338,88 | (444.313.594,47) |
+| 2058 | 5.463.089,06 | 419.565.588,28 | (414.102.499,22) |
+| 2059 | 4.792.773,43 | 388.899.471,66 | (384.106.698,22) |
+| 2060 | 4.182.046,30 | 358.286.286,48 | (354.104.240,17) |
+| 2061 | 3.629.560,92 | 329.091.323,10 | (325.461.762,18) |
+| 2062 | 3.133.564,10 | 300.104.824,37 | (296.971.260,27) |
+| 2063 | 2.691.812,94 | 272.677.656,95 | (269.985.844,00) |
+| 2064 | 2.301.451,59 | 246.651.126,70 | (244.349.675,11) |
+| 2065 | 1.959.082,09 | 222.175.787,93 | (220.216.705,83) |
+| 2066 | 1.660.823,93 | 200.003.812,39 | (198.342.988,46) |
+| 2067 | 1.402.362,90 | 179.460.138,36 | (178.057.775,45) |
+| 2068 | 1.179.252,92 | 161.270.547,80 | (160.091.294,88) |
+| 2069 | 987.166,40 | 144.936.843,01 | (143.949.676,61) |
+| 2070 | 822.039,44 | 129.934.787,01 | (129.112.747,56) |
+| 2071 | 680.304,18 | 115.886.034,19 | (115.205.730,01) |
+| 2072 | 558.979,28 | 102.924.720,18 | (102.365.740,89) |
+| 2073 | 455.562,55 | 91.413.925,88 | (90.958.363,33) |
+| 2074 | 367.882,78 | 79.984.742,02 | (79.616.859,23) |
+| 2075 | 294.022,87 | 69.309.670,18 | (69.015.647,30) |
+| 2076 | 232.259,38 | 59.036.033,06 | (58.803.773,68) |
+| 2077 | 181.087,35 | 49.243.716,20 | (49.062.628,85) |
+| 2078 | 139.201,43 | 40.448.271,18 | (40.309.069,75) |
+| 2079 | 105.448,54 | 32.753.874,70 | (32.648.426,16) |
+| 2080 | 78.777,53 | 26.037.406,22 | (25.958.628,69) |
+| 2081 | 58.193,13 | 20.261.606,24 | (20.203.413,11) |
+| 2082 | 42.715,63 | 15.405.866,29 | (15.363.150,66) |
+| 2083 | 31.376,54 | 11.535.109,73 | (11.503.733,18) |
+| 2084 | 23.258,92 | 8.486.694,33 | (8.463.435,40) |
+| 2085 | 17.561,41 | 6.124.557,80 | (6.106.996,38) |
+| 2086 | 13.621,82 | 4.371.166,20 | (4.357.544,38) |
+| 2087 | 10.890,33 | 3.105.324,78 | (3.094.434,45) |
+| 2088 | 8.937,33 | 2.207.810,83 | (2.198.873,50) |
+| 2089 | 7.466,94 | 1.579.846,31 | (1.572.379,37) |
+| 2090 | 6.283,08 | 1.143.709,34 | (1.137.426,26) |
+| 2091 | 5.270,25 | 841.565,80 | (836.295,55) |
+| 2092 | 4.373,82 | 631.765,80 | (627.391,98) |
+| 2093 | 3.571,26 | 483.905,75 | (480.334,49) |
+| 2094 | 2.855,11 | 376.209,10 | (373.353,98) |
+| 2095 | 2.223,48 | 294.419,08 | (292.195,59) |
+| 2096 | 1.677,06 | 230.148,80 | (228.471,74) |
+| 2097 | 1.216,69 | 178.665,13 | (177.448,43) |
+| 2098 | 841,55 | 137.108,94 | (136.267,39) |
+| 2099 | 548,31 | 103.682,81 | (103.134,50) |
+| 2100 | 330,60 | 77.152,67 | (76.822,06) |
+| 2101 | 179,18 | 56.474,61 | (56.295,43) |
+| 2102 | 83,47 | 40.665,48 | (40.582,00) |
+| 2103 | 32,05 | 28.849,29 | (28.817,24) |
+| 2104 | 10,28 | 20.244,82 | (20.234,53) |
+| 2105 | 2,83 | 14.114,06 | (14.111,23) |
+| 2106 | 0,52 | 9.792,86 | (9.792,34) |
+| 2107 | 0,03 | 6.734,75 | (6.734,71) |
+| 2108 | 0,00 | 4.537,67 | (4.537,67) |
+| 2109 | 0,00 | 2.954,24 | (2.954,24) |
+| 2110 | 0,00 | 1.840,56 | (1.840,55) |
+| 2111 | - | 1.091,32 | (1.091,32) |
+| 2112 | - | 609,92 | (609,92) |
+| 2113 | - | 313,56 | (313,56) |
+| 2114 | - | 138,25 | (138,24) |
+| 2115 | - | 45,40 | (45,40) |
+| 2116 | - | 8,49 | (8,49) |
+| 2117 | - | 0,50 | (0,49) |
+| 2118 | - | 0,00 | - |
 
 DEMONSTRATIVO DAS RECEITAS REALIZADAS E DESPESAS EMPENHADAS DO REGIME DE PREVIDÊNCIA PRÓPRIO (Valores em R$1)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I. 5 - DEMONSTRATIVO DA ESTIMATIVA DA RENÚNCIA DE RECEITA
 
@@ -1466,25 +1178,26 @@ Quadro Resumo da Renúncia fiscal
 
 1 – Isenções
 
-|IPTU (Isenções condicionadas) |20.000.000,00 |
-
-|ITBI |1.600.000,00 |
-
-|Total de Isenções |21.600.000,00 |
+| IPTU (Isenções condicionadas) | 20.000.000,00 |
+| --- | --- |
+| ITBI | 1.600.000,00 |
+| Total de Isenções | 21.600.000,00 |
 
 2 - Remissões
 
-|Total de Remissões |4.000.000,00 |
+| Total de Remissões | 4.000.000,00 |
+| --- | --- |
 
 3 - Desconto antecipado de pagamento de IPTU
 
-|Total de desconto |46.150.000,00 |
+| Total de desconto | 46.150.000,00 |
+| --- | --- |
 
 4 - Incentivo Cultural
 
-|Total de incentivo às atividades culturais |9.300.000,00 |
-
-|Total Geral da Renúncia Fiscal |81.050.000,00 |
+| Total de incentivo às atividades culturais | 9.300.000,00 |
+| --- | --- |
+| Total Geral da Renúncia Fiscal | 81.050.000,00 |
 
 I.6 - DEMONSTRATIVO DA ESTIMATIVA DA MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO (art. 4°, § 2°, inciso V, da Lei Complementar Federal n° 101/00)
 
@@ -1498,267 +1211,141 @@ Baseado no entendimento do aumento da arrecadação para fins de apuração do a
 
 Valores em R$1,00
 
-|EVENTOS |VALOR |
-
-|Aumento Permanente da Receita |183.976.700 |
-
-|Margem Líquida de Expansão |183.976.700 |
+| EVENTOS | VALOR |
+| --- | --- |
+| Aumento Permanente da Receita | 183.976.700 |
+| Margem Líquida de Expansão | 183.976.700 |
 
 I.7 - PRIORIDADES E METAS PARA 2015
 
-|Área de Resultado: Cidade Saudável |
-
-|Programa |Produto |Unidade de Medida |Meta Prevista |
-
-| | | |2015 |
-
-|Saúde da Família |Academias da Cidade em funcionamento |Unidade |92 |
-
-| |Centros de Saúde com tratamento disponível de |Unidade |147 |
-
-| |combate ao tabagismo | | |
-
-| |Centros de Saúde/Unidades Básicas de Saúde - |Unidade com serviço disponível |40 |
-
-| |qualificação da infraestrutura | | |
-
-| |Rede de Atenção à Mulher e à Criança - |Rede implantada |1 |
-
-| |transporte para a gestante e o bebê | | |
-
-|Hospital Metropolitano |Hospital Metropolitano implantado |Unidade |1 |
-
-|Melhoria do Atendimento |Ampliação do Sistema de Atenção Domiciliar |Número de equipes |27 |
-
-|Hospitalar e Especializado |(SAD) | | |
-
-| |Construção de novas maternidades |Unidade |2 |
-
-|Recomeço |Implantação de novos Centros de Referência de |Unidade | |
-
-| |Saúde Mental - Álcool e Drogas (Cersam AD) | |2 |
-
-| |para adultos | | |
-
-| |Implantação de novos Centros de Referência de |Unidade | |
-
-| |Saúde Mental - Álcool e Drogas (Cersam AD) | |1 |
-
-| |para adolescentes | | |
-
-| |Ampliação dos Consultórios de Rua |Unidade |10 |
-
-| |Implantação do Centro de Referência |Unidade |1 |
-
-| |Especializado de Assistência Social/ Creas | | |
-
-| |Móvel | | |
-
-|Vigilância em Saúde |Fortalecimento das ações intersetoriais para o|Unidade |36 |
-
-| |controle da dengue e da leishmaniose visceral | | |
-
-| |- implantação de equipes | | |
-
-|Gestão e Regionalização da |Centros de saúde com campanha de prevenção à |Percentual |50 |
-
-|Saúde |leishmaniose implantada | | |
-
-|Área de Resultado: Educação |
-
-|Programa |Produto |Unidade de Medida |Meta Prevista |
-
-| | | |2015 |
-
-|Expansão da Educação Infantil |Construção, ampliação e reforma de unidades de|Umei / Escola Infantil |32 |
-
-| |ensino |reformada/implantada | |
-
-| |Reforma / aquisição de equipamentos de creches|Creche reformada/equipada |3 |
-
-| |da Rede Conveniada | | |
-
-|Expansão da Escola Integrada |Ampliação do atendimento do Programa Escola |Número de participações |1.608.227 |
-
-| |Aberta | | |
-
-| |Ampliação do atendimento do Programa Escola |Número de participações |95.000 |
-
-| |nas Férias | | |
-
-| |Ampliação do atendimento do Programa Escola |Número de alunos beneficiados |80.000 |
-
-| |Integrada | | |
-
-| |Ensino de música oferecido aos alunos da Rede |Número de vagas disponibilizadas |2.000 |
-
-| |Municipal de Educação | | |
-
-|Melhoria da Qualidade da |Ampliação de alunos no Atendimento Educacional |Aluno atendido |1.400 |
-
-|Educação |Especializado | | |
-
-| |Ampliação do ensino de Língua Inglesa por meio de|Aluno atendido |2.500 |
-
-| |oficinas | | |
-
-|Área de Resultado: Cidade com Mobilidade |
-
-|Programa |Produto |Unidade de Medida |Meta Prevista 2015 |
-
-|Prioridade ao Transporte |Implantação do Corredor Rápido de Ônibus - Av. |Obra executada |1 |
-
-|Coletivo |Amazonas | | |
-
-|Gestão Inteligente da |Implantação do Cartão Metropolitano de Transporte |Projeto implantado |1 |
-
-|Mobilidade |Coletivo | | |
-
-|Transporte Seguro e Sustentável|Implantação do Projeto Pedala BH - ciclovia |Quilômetros implantados |65 |
-
-| |implantada | | |
-
-| |Realização de campanhas educativas para mobilidade |Campanha realizada |2 |
-
-| |urbana por bicicletas | | |
-
-|Área de Resultado: Cidade Segura |
-
-|Programa |Produto |Unidade de Medida |Meta Prevista 2015 |
-
-|Prevenção da Violência |Ampliação do videomonitoramento da cidade |Ponto com videomonitoramento |123 |
-
-| |Implantação do Projeto Agentes de Suporte Familiar |Jovens atendidos |450 |
-
-|Área de Resultado: Prosperidade |
-
-|Programa |Produto |Unidade de Medida |Meta Prevista 2015 |
-
-|Qualificação, |Disponibilização de vagas para o Programa Municipal |Vagas abertas |10.000 |
-
-|Profissionalização e Emprego |de Qualificação Emprego e Renda | | |
-
-| |Ampliação do Programa Voluntários da Cidadania |Vagas abertas |250 |
-
-|Área de Resultado: Modernidade |
-
-|Programa |Produto |Unidade de Medida |Meta Prevista 2015 |
-
-|BH Digital |Internet em banda larga disponibilizada em áreas de |Vilas e favelas com áreas de |43 |
-
-| |vilas e favelas |Internet disponibilizada | |
-
-| |Programa Uma Praça Digital em cada Bairro |Praça com Internet disponibilizada |47 |
-
-|Área de Resultado: Cidade com Todas as Vilas Vivas |
-
-|Programa |Produto |Unidade de Medida |Meta Prevista 2015 |
-
-|Vila Viva |Eliminação das situações de risco geológico muito |Unidade |220 |
-
-| |alto e alto | | |
-
-|Habitação |Produção de unidades habitacionais |Unidade |975 |
-
-| |Viabilização de contratos celebrados para o Programa|Unidades habitacionais viabilizadas |9.052 |
-
-| |Minha Casa Minha Vida | | |
-
-|Geração e Qualificação |Intervenções especiais em conjuntos habitacionais |Unidades habitacionais beneficiadas |1.720 |
-
-|Habitacional em Áreas de | | | |
-
-|Interesse Social | | | |
-
-|Área de Resultado: Cidade Compartilhada |
-
-|Orçamento Participativo e |Fornecimento de infraestrutura para realização do |OP Digital |1 |
-
-|Gestão Compartilhada |Orçamento Participativo Digital | | |
-
-|Área de Resultado: Cidade Sustentável |
-
-|Coleta, Destinação e Tratamento|Cobertura dos serviços de coleta seletiva |Bairros Atendidos |80 |
-
-|de Resíduos Sólidos | | | |
-
-| |Cobertura dos serviços de coleta seletiva na |Locais de Entrega Voluntária |300 |
-
-| |modalidade ponto a ponto |instalados | |
-
-| |Serviços de limpeza urbana em vilas e favelas |Quilômetros de vias limpas |54.912 |
-
-| |Plano Municipal de Gestão Integrada de Resíduos |Plano elaborado |1 |
-
-| |Sólidos | | |
-
-|Gestão Ambiental |Redução do risco de inundações na Bacia do Córrego |Unidade |1 |
-
-| |Jatobá - PAC | | |
-
-|Planejamento e Estruturação |Famílias beneficiadas com a titulação de lotes e |Unidade |10.500 |
-
-|Urbana |domicílios | | |
-
-|Movimento Respeito por BH |Operação Disque Sossego |nº de Fiscalizações |1.968 |
-
-| |Programa Operação Oxigênio - nº de veículos |Unidade |9.500 |
-
-| |fiscalizados | | |
-
-| |Feira de adoção de cães realizada |Unidade |120 |
-
-| |Unidade móvel de castração de cães criada |Unidade |2 |
-
-| |Santuário de animais silvestres criado |Unidade |1 |
-
-|Manutenção da Cidade |Manutenção preventiva e corretiva de pavimento |Quilômetros |4.284 |
-
-|Parques e Áreas Verdes |Reforma de parques |Unidade |75 |
-
-|Pampulha Viva |Implantação do Programa Pampulha |Unidade |1 |
-
-|Área de Resultado: Cidade de Todos |
-
-|Programa |Produto |Unidade de Medida |Meta Prevista 2015 |
-
-|BHC e SUAS |Núcleos BH Cidadania disponibilizados |Unidade |44 |
-
-| |Implantação de nova Unidade de Acolhimento |Unidade |1 |
-
-| |Institucional para a População em Situação de Rua | | |
-
-|Programa de Atendimento ao |Grupo de Convivência para idosos |Idosos atendidos |6.030 |
-
-|Idoso | | | |
-
-| |Projeto Cuidador de Idoso |Idosos atendidos |724 |
-
-|Direito de Todos |Implantação do Centro Metropolitano de Referência em|Unidade |1 |
-
-| |Segurança Alimentar e Nutricional Sustentável | | |
-
-| |Conferência Municipal da Juventude |Unidade |1 |
-
-|Promoção do Esporte e do Lazer |Ampliação do Programa Academias a Céu Aberto |Novas Academias instaladas |90 |
-
-| |Jogos Escolares de BH - JEBH |Edição realizada |1 |
-
-|Área de Resultado: Cultura |
-
-|Programa |Produto |Unidade de Medida |Meta Prevista 2015 |
-
-|Rede BH Cultural |Festival Internacional de Quadrinhos de BH - |Unidade |1 |
-
-| |FIQ | | |
-
-| |Realização da Virada Cultural |Unidade |1 |
-
-| |Concurso de Literatura Cidade de Belo Horizonte|Unidade |1 |
-
-| |Implantação da Zona Cultural da Praça da |Unidade |1 |
-
-| |Estação | | |
+| Área de Resultado: Cidade Saudável |  |  |  |
+| --- | --- | --- | --- |
+| Programa | Produto | Unidade de Medida | Meta Prevista |
+|  |  |  | 2015 |
+| Saúde da Família | Academias da Cidade em funcionamento | Unidade | 92 |
+|  | Centros de Saúde com tratamento disponível de | Unidade | 147 |
+|  | combate ao tabagismo |  |  |
+|  | Centros de Saúde/Unidades Básicas de Saúde - | Unidade com serviço disponível | 40 |
+|  | qualificação da infraestrutura |  |  |
+|  | Rede de Atenção à Mulher e à Criança - | Rede implantada | 1 |
+|  | transporte para a gestante e o bebê |  |  |
+| Hospital Metropolitano | Hospital Metropolitano implantado | Unidade | 1 |
+| Melhoria do Atendimento | Ampliação do Sistema de Atenção Domiciliar | Número de equipes | 27 |
+| Hospitalar e Especializado | (SAD) |  |  |
+|  | Construção de novas maternidades | Unidade | 2 |
+| Recomeço | Implantação de novos Centros de Referência de | Unidade |  |
+|  | Saúde Mental - Álcool e Drogas (Cersam AD) |  | 2 |
+|  | para adultos |  |  |
+|  | Implantação de novos Centros de Referência de | Unidade |  |
+|  | Saúde Mental - Álcool e Drogas (Cersam AD) |  | 1 |
+|  | para adolescentes |  |  |
+|  | Ampliação dos Consultórios de Rua | Unidade | 10 |
+|  | Implantação do Centro de Referência | Unidade | 1 |
+|  | Especializado de Assistência Social/ Creas |  |  |
+|  | Móvel |  |  |
+| Vigilância em Saúde | Fortalecimento das ações intersetoriais para o | Unidade | 36 |
+|  | controle da dengue e da leishmaniose visceral |  |  |
+|  | - implantação de equipes |  |  |
+| Gestão e Regionalização da | Centros de saúde com campanha de prevenção à | Percentual | 50 |
+| Saúde | leishmaniose implantada |  |  |
+| Área de Resultado: Educação |  |  |  |
+| Programa | Produto | Unidade de Medida | Meta Prevista |
+|  |  |  | 2015 |
+| Expansão da Educação Infantil | Construção, ampliação e reforma de unidades de | Umei / Escola Infantil | 32 |
+|  | ensino | reformada/implantada |  |
+|  | Reforma / aquisição de equipamentos de creches | Creche reformada/equipada | 3 |
+|  | da Rede Conveniada |  |  |
+| Expansão da Escola Integrada | Ampliação do atendimento do Programa Escola | Número de participações | 1.608.227 |
+|  | Aberta |  |  |
+|  | Ampliação do atendimento do Programa Escola | Número de participações | 95.000 |
+|  | nas Férias |  |  |
+|  | Ampliação do atendimento do Programa Escola | Número de alunos beneficiados | 80.000 |
+|  | Integrada |  |  |
+|  | Ensino de música oferecido aos alunos da Rede | Número de vagas disponibilizadas | 2.000 |
+|  | Municipal de Educação |  |  |
+| Melhoria da Qualidade da | Ampliação de alunos no Atendimento Educacional | Aluno atendido | 1.400 |
+| Educação | Especializado |  |  |
+|  | Ampliação do ensino de Língua Inglesa por meio de | Aluno atendido | 2.500 |
+|  | oficinas |  |  |
+| Área de Resultado: Cidade com Mobilidade |  |  |  |
+| Programa | Produto | Unidade de Medida | Meta Prevista 2015 |
+| Prioridade ao Transporte | Implantação do Corredor Rápido de Ônibus - Av. | Obra executada | 1 |
+| Coletivo | Amazonas |  |  |
+| Gestão Inteligente da | Implantação do Cartão Metropolitano de Transporte | Projeto implantado | 1 |
+| Mobilidade | Coletivo |  |  |
+| Transporte Seguro e Sustentável | Implantação do Projeto Pedala BH - ciclovia | Quilômetros implantados | 65 |
+|  | implantada |  |  |
+|  | Realização de campanhas educativas para mobilidade | Campanha realizada | 2 |
+|  | urbana por bicicletas |  |  |
+| Área de Resultado: Cidade Segura |  |  |  |
+| Programa | Produto | Unidade de Medida | Meta Prevista 2015 |
+| Prevenção da Violência | Ampliação do videomonitoramento da cidade | Ponto com videomonitoramento | 123 |
+|  | Implantação do Projeto Agentes de Suporte Familiar | Jovens atendidos | 450 |
+| Área de Resultado: Prosperidade |  |  |  |
+| Programa | Produto | Unidade de Medida | Meta Prevista 2015 |
+| Qualificação, | Disponibilização de vagas para o Programa Municipal | Vagas abertas | 10.000 |
+| Profissionalização e Emprego | de Qualificação Emprego e Renda |  |  |
+|  | Ampliação do Programa Voluntários da Cidadania | Vagas abertas | 250 |
+| Área de Resultado: Modernidade |  |  |  |
+| Programa | Produto | Unidade de Medida | Meta Prevista 2015 |
+| BH Digital | Internet em banda larga disponibilizada em áreas de | Vilas e favelas com áreas de | 43 |
+|  | vilas e favelas | Internet disponibilizada |  |
+|  | Programa Uma Praça Digital em cada Bairro | Praça com Internet disponibilizada | 47 |
+| Área de Resultado: Cidade com Todas as Vilas Vivas |  |  |  |
+| Programa | Produto | Unidade de Medida | Meta Prevista 2015 |
+| Vila Viva | Eliminação das situações de risco geológico muito | Unidade | 220 |
+|  | alto e alto |  |  |
+| Habitação | Produção de unidades habitacionais | Unidade | 975 |
+|  | Viabilização de contratos celebrados para o Programa | Unidades habitacionais viabilizadas | 9.052 |
+|  | Minha Casa Minha Vida |  |  |
+| Geração e Qualificação | Intervenções especiais em conjuntos habitacionais | Unidades habitacionais beneficiadas | 1.720 |
+| Habitacional em Áreas de |  |  |  |
+| Interesse Social |  |  |  |
+| Área de Resultado: Cidade Compartilhada |  |  |  |
+| Orçamento Participativo e | Fornecimento de infraestrutura para realização do | OP Digital | 1 |
+| Gestão Compartilhada | Orçamento Participativo Digital |  |  |
+| Área de Resultado: Cidade Sustentável |  |  |  |
+| Coleta, Destinação e Tratamento | Cobertura dos serviços de coleta seletiva | Bairros Atendidos | 80 |
+| de Resíduos Sólidos |  |  |  |
+|  | Cobertura dos serviços de coleta seletiva na | Locais de Entrega Voluntária | 300 |
+|  | modalidade ponto a ponto | instalados |  |
+|  | Serviços de limpeza urbana em vilas e favelas | Quilômetros de vias limpas | 54.912 |
+|  | Plano Municipal de Gestão Integrada de Resíduos | Plano elaborado | 1 |
+|  | Sólidos |  |  |
+| Gestão Ambiental | Redução do risco de inundações na Bacia do Córrego | Unidade | 1 |
+|  | Jatobá - PAC |  |  |
+| Planejamento e Estruturação | Famílias beneficiadas com a titulação de lotes e | Unidade | 10.500 |
+| Urbana | domicílios |  |  |
+| Movimento Respeito por BH | Operação Disque Sossego | nº de Fiscalizações | 1.968 |
+|  | Programa Operação Oxigênio - nº de veículos | Unidade | 9.500 |
+|  | fiscalizados |  |  |
+|  | Feira de adoção de cães realizada | Unidade | 120 |
+|  | Unidade móvel de castração de cães criada | Unidade | 2 |
+|  | Santuário de animais silvestres criado | Unidade | 1 |
+| Manutenção da Cidade | Manutenção preventiva e corretiva de pavimento | Quilômetros | 4.284 |
+| Parques e Áreas Verdes | Reforma de parques | Unidade | 75 |
+| Pampulha Viva | Implantação do Programa Pampulha | Unidade | 1 |
+| Área de Resultado: Cidade de Todos |  |  |  |
+| Programa | Produto | Unidade de Medida | Meta Prevista 2015 |
+| BHC e SUAS | Núcleos BH Cidadania disponibilizados | Unidade | 44 |
+|  | Implantação de nova Unidade de Acolhimento | Unidade | 1 |
+|  | Institucional para a População em Situação de Rua |  |  |
+| Programa de Atendimento ao | Grupo de Convivência para idosos | Idosos atendidos | 6.030 |
+| Idoso |  |  |  |
+|  | Projeto Cuidador de Idoso | Idosos atendidos | 724 |
+| Direito de Todos | Implantação do Centro Metropolitano de Referência em | Unidade | 1 |
+|  | Segurança Alimentar e Nutricional Sustentável |  |  |
+|  | Conferência Municipal da Juventude | Unidade | 1 |
+| Promoção do Esporte e do Lazer | Ampliação do Programa Academias a Céu Aberto | Novas Academias instaladas | 90 |
+|  | Jogos Escolares de BH - JEBH | Edição realizada | 1 |
+| Área de Resultado: Cultura |  |  |  |
+| Programa | Produto | Unidade de Medida | Meta Prevista 2015 |
+| Rede BH Cultural | Festival Internacional de Quadrinhos de BH - | Unidade | 1 |
+|  | FIQ |  |  |
+|  | Realização da Virada Cultural | Unidade | 1 |
+|  | Concurso de Literatura Cidade de Belo Horizonte | Unidade | 1 |
+|  | Implantação da Zona Cultural da Praça da | Unidade | 1 |
+|  | Estação |  |  |
 
 ANEXO II
 
@@ -1786,7 +1373,7 @@ Cabe ressaltar que o Supremo Tribunal Federal - STF, nos autos das Ações Diret
 
 Contudo, ressalta-se que não há definição de qual será a modulação de efeitos da decisão do STF, podendo a mesma estabelecer regras de transição, o que é mais provável.
 
-Valores em R$1,00[pic]
+Valores em R$1,00*[imagem no documento original — ver `fonte_texto`]*
 
 ----------------------- [1] Portaria MPS n° 403/2008 limita a 6% a taxa real de juros anual. [2] Conforme a Portaria MPS n° 403/2008, a taxa real de crescimento da remuneração ao longo da carreira deve ser, no mínimo, 1% ao ano. [3] Conforme a Portaria MPS nº 403/2008, poderão ser utilizadas no cálculo atuarial quaisquer tábuas, desde que não excedam os limites estabelecidos.
 

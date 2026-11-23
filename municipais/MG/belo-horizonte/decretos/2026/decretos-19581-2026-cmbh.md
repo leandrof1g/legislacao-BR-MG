@@ -66,35 +66,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0317.1334.449052.2.751.000 |34.050,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0020.2878.339039.2.660.000 |60.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2371.339039.2.710.620 |428.000,00 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.122.0307.2900.449051.2.500.000 |158.308,79 |
-
-|Fundo de Modernização e Aprimoramento Adm. Tributária do Município – FMAATM |
-
-|0805.04.129.0105.2652.339039.2.500.000 |267.058,00 |
-
-|0805.04.129.0105.2652.339040.2.500.000 |812.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.759.416,79 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0317.1334.449052.2.751.000 | 34.050,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0020.2878.339039.2.660.000 | 60.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2371.339039.2.710.620 | 428.000,00 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.122.0307.2900.449051.2.500.000 | 158.308,79 |
+| Fundo de Modernização e Aprimoramento Adm. Tributária do Município – FMAATM |  |
+| 0805.04.129.0105.2652.339039.2.500.000 | 267.058,00 |
+| 0805.04.129.0105.2652.339040.2.500.000 | 812.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.759.416,79 |
 
 ANEXO II
 
@@ -144,26 +131,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 550.522.934,19 |
-
-|Valor do decreto publicado nesta data |R$ 1.759.416,79 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 552.282.350,98 |
-
-|Saldo atual de créditos suplementares |R$ 1.940.152.716,62 |
-
-|Percentual utilizado |22,16% |
-
-|Atualizado em 29/04/2026 às 07:52:23 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 550.522.934,19 |
+| Valor do decreto publicado nesta data | R$ 1.759.416,79 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 552.282.350,98 |
+| Saldo atual de créditos suplementares | R$ 1.940.152.716,62 |
+| Percentual utilizado | 22,16% |
+| Atualizado em 29/04/2026 às 07:52:23 |  |

@@ -36,9 +36,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO II SEMANA COMEMORATIVA K - Semanas comemorativas de novembro:
 
-|DATA |COMEMORAÇÃO |
-
-|Semana que contenha o dia 14 |Semana Municipal de Prevenção e Combate ao Diabetes |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Semana que contenha o dia 14 | Semana Municipal de Prevenção e Combate ao Diabetes |
 
 .”.
 

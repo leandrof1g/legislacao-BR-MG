@@ -124,52 +124,36 @@ EDITAL DE CONVOCAÇÃO
 
 1. Todos os aposentados e pensionistas, bem como servidores ativos titulares de cargo efetivo da Beneficência da Prefeitura Municipal de Belo Horizonte, Hospital Municipal Odilon Behrens, Fundação Zoobotânica de Belo Horizonte, Fundação Municipal de Cultura, Fundação de Parques Municipais e Câmara Municipal de Belo Horizonte:
 
-|Seq. |Data de aniversário |Período de comparecimento |
-
-|01 |1º de janeiro a 30 de abril |21 de agosto a 04 de setembro de 2007 |
-
-|02 |1º de maio a 31 de agosto |05 de setembro a 19 de setembro de 2007 |
-
-|03 |1º de setembro a 31 de dezembro |20 de setembro a 05 de outubro de 2007 |
+| Seq. | Data de aniversário | Período de comparecimento |
+| --- | --- | --- |
+| 01 | 1º de janeiro a 30 de abril | 21 de agosto a 04 de setembro de 2007 |
+| 02 | 1º de maio a 31 de agosto | 05 de setembro a 19 de setembro de 2007 |
+| 03 | 1º de setembro a 31 de dezembro | 20 de setembro a 05 de outubro de 2007 |
 
 2. Servidores ativos titulares de cargo efetivo da Administração Municipal Direta:
 
-|Seq. |Data de aniversário |Período de comparecimento |
-
-|04 |1º de janeiro a 29 de fevereiro |08 de outubro a 19 de outubro de 2007 |
-
-|05 |1º de março a 30 de abril |22 de outubro a 31 de outubro de 2007 |
-
-|06 |1º de maio a 30 de junho |1º de novembro a 12 de novembro de 2007 |
-
-|07 |1º de julho a 31 de agosto |13 de novembro a 23 de novembro de 2007 |
-
-|08 |1º de setembro a 31 de outubro |26 de novembro a 05 de dezembro de 2007 |
-
-|09 |1º de novembro a 31 de dezembro |06 de dezembro a 20 de dezembro de 2007 |
+| Seq. | Data de aniversário | Período de comparecimento |
+| --- | --- | --- |
+| 04 | 1º de janeiro a 29 de fevereiro | 08 de outubro a 19 de outubro de 2007 |
+| 05 | 1º de março a 30 de abril | 22 de outubro a 31 de outubro de 2007 |
+| 06 | 1º de maio a 30 de junho | 1º de novembro a 12 de novembro de 2007 |
+| 07 | 1º de julho a 31 de agosto | 13 de novembro a 23 de novembro de 2007 |
+| 08 | 1º de setembro a 31 de outubro | 26 de novembro a 05 de dezembro de 2007 |
+| 09 | 1º de novembro a 31 de dezembro | 06 de dezembro a 20 de dezembro de 2007 |
 
 LOCAIS DE RECEPÇÃO DOS DOCUMENTOS
 
-|Órgão/Local |Endereço |
+| Órgão/Local | Endereço |
+| --- | --- |
+| SAC Centro Sul | Rua Goiás, 60, Centro. |
+| SAC Barreiro | Rua José Brandão, 313, Barreiro de Baixo. |
+| SAC Leste | Rua Lauro Jaques, 20, Floresta. |
+| SAC Nordeste | Avenida Cristiano Machado, 820, Sagrada Família. |
+| SAC Noroeste | Rua Peçanha, 144, Carlos Prates. |
+| SAC Norte | Rua Pastor Muryllo Cassete, 25, São Bernardo. |
+| SAC Oeste | Avenida Barão Homem de Melo, 282, Nova Granada. |
+| SAC Pampulha | Avenida Antônio Carlos, 7.596, São Luiz. |
+| SAC Venda Nova | Rua Padre Pedro Pinto, 1.055, Venda Nova. |
 
-|SAC Centro Sul |Rua Goiás, 60, Centro. |
+*[imagem no documento original — ver `fonte_texto`]*
 
-|SAC Barreiro |Rua José Brandão, 313, Barreiro de Baixo. |
-
-|SAC Leste |Rua Lauro Jaques, 20, Floresta. |
-
-|SAC Nordeste |Avenida Cristiano Machado, 820, Sagrada Família. |
-
-|SAC Noroeste |Rua Peçanha, 144, Carlos Prates. |
-
-|SAC Norte |Rua Pastor Muryllo Cassete, 25, São Bernardo. |
-
-|SAC Oeste |Avenida Barão Homem de Melo, 282, Nova Granada. |
-
-|SAC Pampulha |Avenida Antônio Carlos, 7.596, São Luiz. |
-
-|SAC Venda Nova |Rua Padre Pedro Pinto, 1.055, Venda Nova. |
-
-[pic]
-
-[pic]

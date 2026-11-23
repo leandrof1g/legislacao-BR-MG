@@ -58,51 +58,33 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § 2º |R$ |
-
-|do art. 19 da Lei nº 11.899, de 17 de setembro de 2025, e no art. 1º da Lei nº 12.075,| |
-
-|de 20 de julho de 2026: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339037.1.500.000 |320.000,00 |
-
-|2302.10.302.0114.2952.339039.1.500.000 |170.000,00 |
-
-|2302.10.302.0114.2952.335043.1.500.000 |14.400,00 |
-
-|2302.10.302.0114.2952.339037.1.500.000 |8.400,00 |
-
-|2302.10.302.0114.2951.339039.1.500.000 |10.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |522.800,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § 2º | R$ |
+| --- | --- |
+| do art. 19 da Lei nº 11.899, de 17 de setembro de 2025, e no art. 1º da Lei nº 12.075, |  |
+| de 20 de julho de 2026: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339037.1.500.000 | 320.000,00 |
+| 2302.10.302.0114.2952.339039.1.500.000 | 170.000,00 |
+| 2302.10.302.0114.2952.335043.1.500.000 | 14.400,00 |
+| 2302.10.302.0114.2952.339037.1.500.000 | 8.400,00 |
+| 2302.10.302.0114.2951.339039.1.500.000 | 10.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 522.800,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º.
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos previstos inicialmente nos órgãos relacionados abaixo, conforme autorização | |
-
-|contida no art. 2º da Lei nº 12.075, de 20 de julho de 2026: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2046.339039.1.500.000 |100.000,00 |
-
-|2200.12.361.0168.2046.339039.1.500.000 |10.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0117.1216.449051.1.500.000 |272.800,00 |
-
-|2302.10.122.0117.1216.449051.1.500.000 |70.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2371.339039.1.500.000 |70.000,00 |
-
-|TOTAL DA ANULAÇÃO |522.800,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos previstos inicialmente nos órgãos relacionados abaixo, conforme autorização |  |
+| contida no art. 2º da Lei nº 12.075, de 20 de julho de 2026: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2046.339039.1.500.000 | 100.000,00 |
+| 2200.12.361.0168.2046.339039.1.500.000 | 10.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0117.1216.449051.1.500.000 | 272.800,00 |
+| 2302.10.122.0117.1216.449051.1.500.000 | 70.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2371.339039.1.500.000 | 70.000,00 |
+| TOTAL DA ANULAÇÃO | 522.800,00 |
 
 ANEXO II
 
@@ -138,20 +120,13 @@ SALDO ATUAL DE CRÉDITO SUPLEMENTAR
 
 III.1 – Demonstração do saldo de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 1º da Lei nº 12.075, de 20 de julho de 2026:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |
-
-|Art. 1º da Lei nº 12.075, de 20/07/2026 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 15.098.695,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 4.124.900,00 |
-
-|Valor do decreto publicado nesta data |R$ 522.800,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 4.647.700,00 |
-
-|Saldo atual de créditos suplementares |R$ 10.450.995,00 |
-
-|Percentual utilizado |30,78% |
-
-|Atualizado em 28/09/2026 às 14:15:46 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |  |
+| --- | --- |
+| Art. 1º da Lei nº 12.075, de 20/07/2026 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 15.098.695,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 4.124.900,00 |
+| Valor do decreto publicado nesta data | R$ 522.800,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 4.647.700,00 |
+| Saldo atual de créditos suplementares | R$ 10.450.995,00 |
+| Percentual utilizado | 30,78% |
+| Atualizado em 28/09/2026 às 14:15:46 |  |

@@ -36,17 +36,13 @@ II - o trecho da Rua Álvaro da Silveira compreendido entre os lotes 1 e 5 do qu
 
 I - fica incluído no segundo parágrafo do item 1.2.1: "- Rua Agnelo Macedo, entre a Avenida Afonso Vaz de Melo e a Rua Álvaro da Silveira - 1.504m² (mil, quinhentos e quatro metros quadrados). (NR)"; II - o terceiro parágrafo do item 1.2.2 passa a vigorar com a seguinte redação: "A Avenida Afonso Vaz de Melo terá largura mínima de 20m (vinte metros). (NR)"; III - o item 1.2.3 - Ajustes da Classificação Viária - passa a vigorar com a seguinte redação: "Fica alterada a classificação viária abaixo relacionada:
 
-|Folha |Quadrícula |Logradouro |Alteração |
-
-|51 |4545 |Rua Boaventura Costa |Fica classificada como coletora |(NR)". |
-
-| | |(cód. 009802) |entre os trilhos da RFFSA e a | |
-
-| | | |Avenida Afonso Vaz de Melo, com | |
-
-| | | |largura de 15m, entre as quadras | |
-
-| | | |de cód. CTM 89 e 76 | |
+| Folha | Quadrícula | Logradouro | Alteração |  |
+| --- | --- | --- | --- | --- |
+| 51 | 4545 | Rua Boaventura Costa | Fica classificada como coletora | (NR)". |
+|  |  | (cód. 009802) | entre os trilhos da RFFSA e a |  |
+|  |  |  | Avenida Afonso Vaz de Melo, com |  |
+|  |  |  | largura de 15m, entre as quadras |  |
+|  |  |  | de cód. CTM 89 e 76 |  |
 
 **Art. 3º**- Fica incluído no art. 4º da Lei nº 7.928, de 28 de dezembro de 1999, o seguinte parágrafo:
 

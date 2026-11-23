@@ -98,13 +98,11 @@ Neste ato, DECLARO assumir integral responsabilidade pessoal pelo desempenho das
 
 Neste ato, indico e autorizo como usuários, os quais assinam conjuntamente este Termo, assumindo todas as responsabilidades pelo uso correto do SIATU, além da manutenção da confiabilidade da SENHA para operação do Sistema, as seguintes pessoas:
 
-|NOME |CPF |VÍNCULO COM A SERVENTIA |
-
-| | | |
-
-| | | |
-
-| | | |
+| NOME | CPF | VÍNCULO COM A SERVENTIA |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 Fico ciente de que os desligamentos de funcionários aqui indicados deverão ser formal e imediatamente comunicados à Secretaria Municipal de Finanças para o cancelamento da senha de acesso ao SIATU dos mesmos.
 

@@ -34,15 +34,12 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 “ANEXO I [...]
 
-|ÁREA |HABILITAÇÃO PROFISSIONAL |
-
-|[...] |[...] |
-
-|CIÊNCIAS ATUARIAIS |Curso superior completo em Ciências Atuariais, em nível de|
-
-| |bacharelado. |
-
-|[...] |[...] |
+| ÁREA | HABILITAÇÃO PROFISSIONAL |
+| --- | --- |
+| [...] | [...] |
+| CIÊNCIAS ATUARIAIS | Curso superior completo em Ciências Atuariais, em nível de |
+|  | bacharelado. |
+| [...] | [...] |
 
 ” (NR)
 
@@ -50,29 +47,19 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 “ANEXO II DISTRIBUIÇÃO DE CARGOS POR ÁREA DE HABILITAÇÃO PROFISSIONAL DO CARGO EFETIVO DE ANALISTA DE POLÍTICAS PÚBLICAS, INTEGRANTE DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DA ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE
 
-|ÁREA |Nº DE CARGOS |
-
-|ADMINISTRAÇÃO |63 |
-
-|BIBLIOTECONOMIA |80 |
-
-|CIÊNCIAS ATUARIAIS |01 |
-
-|CIÊNCIAS CONTÁBEIS |24 |
-
-|CIÊNCIAS ECONÔMICAS |14 |
-
-|EDUCAÇÃO FÍSICA |52 |
-
-|GEOGRAFIA |12 |
-
-|PSICOLOGIA |333 |
-
-|SERVIÇO SOCIAL |416 |
-
-|OUTRAS ÁREAS |97 |
-
-|TOTAL |1092 |
+| ÁREA | Nº DE CARGOS |
+| --- | --- |
+| ADMINISTRAÇÃO | 63 |
+| BIBLIOTECONOMIA | 80 |
+| CIÊNCIAS ATUARIAIS | 01 |
+| CIÊNCIAS CONTÁBEIS | 24 |
+| CIÊNCIAS ECONÔMICAS | 14 |
+| EDUCAÇÃO FÍSICA | 52 |
+| GEOGRAFIA | 12 |
+| PSICOLOGIA | 333 |
+| SERVIÇO SOCIAL | 416 |
+| OUTRAS ÁREAS | 97 |
+| TOTAL | 1092 |
 
 ” (NR)
 

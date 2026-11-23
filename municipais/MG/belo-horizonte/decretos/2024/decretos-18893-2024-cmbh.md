@@ -66,39 +66,24 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei | |
-
-|nº 11.594, de 22 de setembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.0091.3501.469071.2.754.790 |34.691,26 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2542.339030.2.550.000 |13.707.374,20 |
-
-|2200.12.122.0140.2317.339030.2.550.000 |293.766,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.2.710.610 |250.000,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0060.2567.339036.2.501.784 |50.000,00 |
-
-|3302.26.452.0060.2567.319011.2.501.784 |190.000,00 |
-
-|3302.26.452.0060.2567.339046.2.501.784 |12.500,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2900.319011.2.501.784 |7.601.766,90 |
-
-|TOTAL DA SUPLEMENTAÇÃO |22.140.098,36 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei |  |
+| nº 11.594, de 22 de setembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.0091.3501.469071.2.754.790 | 34.691,26 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.339030.2.550.000 | 13.707.374,20 |
+| 2200.12.122.0140.2317.339030.2.550.000 | 293.766,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.2.710.610 | 250.000,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0060.2567.339036.2.501.784 | 50.000,00 |
+| 3302.26.452.0060.2567.319011.2.501.784 | 190.000,00 |
+| 3302.26.452.0060.2567.339046.2.501.784 | 12.500,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2900.319011.2.501.784 | 7.601.766,90 |
+| TOTAL DA SUPLEMENTAÇÃO | 22.140.098,36 |
 
 ANEXO II
 

@@ -58,71 +58,43 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei| |
-
-|nº 11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0113.2916.339014.1.660.000 |2.395,00 |
-
-|Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |
-
-|3400.04.122.0166.1401.449040.2.754.790 |491.573,07 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.339039.1.500.000 |369.302,76 |
-
-|3600.04.122.0007.2900.339040.1.500.000 |150.000,00 |
-
-|3600.04.122.0093.2900.339037.1.500.000 |2.307.970,72 |
-
-|3600.04.122.0093.2934.339037.1.500.000 |22.632,10 |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.339039.1.500.000 |53.700,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |3.397.573,65 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei |  |
+| nº 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0113.2916.339014.1.660.000 | 2.395,00 |
+| Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |  |
+| 3400.04.122.0166.1401.449040.2.754.790 | 491.573,07 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.339039.1.500.000 | 369.302,76 |
+| 3600.04.122.0007.2900.339040.1.500.000 | 150.000,00 |
+| 3600.04.122.0093.2900.339037.1.500.000 | 2.307.970,72 |
+| 3600.04.122.0093.2934.339037.1.500.000 | 22.632,10 |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.339039.1.500.000 | 53.700,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.397.573,65 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0113.2916.339035.1.660.000 |2.395,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0166.1401.449040.2.754.790 |491.573,07 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.122.0093.2900.339037.1.500.000 |91.516,72 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.339037.1.500.000 |82.470,25 |
-
-|0201.04.122.0096.2004.339039.1.500.000 |351.288,19 |
-
-|0201.04.122.0007.2900.339037.1.500.000 |1.334.196,23 |
-
-|0201.04.122.0007.2900.339040.1.500.000 |38.375,75 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.0007.2900.339037.1.500.000 |1.000.970,25 |
-
-|2000.04.122.0007.2900.339040.1.500.000 |4.788,19 |
-
-|TOTAL DA ANULAÇÃO |3.397.573,65 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0113.2916.339035.1.660.000 | 2.395,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0166.1401.449040.2.754.790 | 491.573,07 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.122.0093.2900.339037.1.500.000 | 91.516,72 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.339037.1.500.000 | 82.470,25 |
+| 0201.04.122.0096.2004.339039.1.500.000 | 351.288,19 |
+| 0201.04.122.0007.2900.339037.1.500.000 | 1.334.196,23 |
+| 0201.04.122.0007.2900.339040.1.500.000 | 38.375,75 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.0007.2900.339037.1.500.000 | 1.000.970,25 |
+| 2000.04.122.0007.2900.339040.1.500.000 | 4.788,19 |
+| TOTAL DA ANULAÇÃO | 3.397.573,65 |
 
 ANEXO II
 
@@ -152,20 +124,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos suplementares abertos anteriormente |803.773.538,07 |
-
-|Valor do Decreto publicado nesta data |3.397.573,65 |
-
-|Valor total dos créditos suplementares abertos no exercício |807.171.111,72 |
-
-|Saldo atual do limite autorizado |1.241.856.115,21 |
-
-|Percentual utilizado |39,39% |
-
-|Atualizado em 10/04/2025 às 10:48:27 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos suplementares abertos anteriormente | 803.773.538,07 |
+| Valor do Decreto publicado nesta data | 3.397.573,65 |
+| Valor total dos créditos suplementares abertos no exercício | 807.171.111,72 |
+| Saldo atual do limite autorizado | 1.241.856.115,21 |
+| Percentual utilizado | 39,39% |
+| Atualizado em 10/04/2025 às 10:48:27 |  |

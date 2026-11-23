@@ -110,37 +110,26 @@ c) no mínimo, 3 (três) pares ou membros da equipe de trabalho do servidor.
 
 I - para apuração da assiduidade do servidor serão atribuídos no máximo 10 (dez) pontos, considerando-se as faltas injustificadas, conforme a tabela abaixo:
 
-|Número de Faltas |Pontuação |
-
-|Nenhuma falta |10 (dez) pontos |
-
-|De 01 (uma) a 5 (cinco) faltas |08 (oito) pontos |
-
-|De 6 (seis) a 8 (oito) faltas |06 (seis) pontos |
-
-|De 9 (nove) a 11 (onze) faltas |04 (quatro) pontos |
-
-|De 12 (doze) a 13 (treze) faltas |02 (dois) pontos |
-
-|De 14 (quatorze) a 15 (quinze) faltas |0 (zero) pontos |
+| Número de Faltas | Pontuação |
+| --- | --- |
+| Nenhuma falta | 10 (dez) pontos |
+| De 01 (uma) a 5 (cinco) faltas | 08 (oito) pontos |
+| De 6 (seis) a 8 (oito) faltas | 06 (seis) pontos |
+| De 9 (nove) a 11 (onze) faltas | 04 (quatro) pontos |
+| De 12 (doze) a 13 (treze) faltas | 02 (dois) pontos |
+| De 14 (quatorze) a 15 (quinze) faltas | 0 (zero) pontos |
 
 II - Para apuração das penalidades disciplinares, após o término do devido processo administrativo disciplinar, serão atribuídos 10 (dez) pontos, conforme tabela abaixo:
 
-|Penalidade |Pontuação |
-
-|Nenhuma penalidade |10 (dez) pontos |
-
-|Repreensão |08 (oito) pontos |
-
-|Suspensão de 1 (um) a 29 (vinte e nove) dias |06 (seis) pontos |
-
-|Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias |04 (quatro) pontos |
-
-|Suspensão de 45 (quarenta e cinto) a 59 (cinqüenta e nove dias) | |
-
-| |02 (dois) pontos |
-
-|Suspensão acima de 60 (sessenta) dias |0 (zero) pontos |
+| Penalidade | Pontuação |
+| --- | --- |
+| Nenhuma penalidade | 10 (dez) pontos |
+| Repreensão | 08 (oito) pontos |
+| Suspensão de 1 (um) a 29 (vinte e nove) dias | 06 (seis) pontos |
+| Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias | 04 (quatro) pontos |
+| Suspensão de 45 (quarenta e cinto) a 59 (cinqüenta e nove dias) |  |
+|  | 02 (dois) pontos |
+| Suspensão acima de 60 (sessenta) dias | 0 (zero) pontos |
 
 III - para apuração da avaliação de desempenho, realizada por meio do formulário próprio pelos segmentos auto-avaliação, chefia imediata e pares, serão atribuídos, no máximo, 80 (oitenta) pontos, observados os critérios do art. 4° deste Decreto.
 

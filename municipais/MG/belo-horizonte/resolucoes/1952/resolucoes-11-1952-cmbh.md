@@ -140,16 +140,17 @@ Efigênio de Sales Vitor
 
 Diretor Geral
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic] * O cargo de Oficial de Gabinete é de provimento em comissão
+* O cargo de Oficial de Gabinete é de provimento em comissão
 
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO
 
-[pic] Anual 16.800,00 19.200,00 21.600,00 24.000,00 26.400,00 28.800,00
+*[imagem no documento original — ver `fonte_texto`]*
+
+Anual 16.800,00 19.200,00 21.600,00 24.000,00 26.400,00 28.800,00
 
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO – Anexo nº 2
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]

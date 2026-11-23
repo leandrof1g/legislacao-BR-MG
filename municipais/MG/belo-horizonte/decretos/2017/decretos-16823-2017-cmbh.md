@@ -52,28 +52,20 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos, conforme autorização contida no caput do art. 4º da Lei nº 11.014, de 30 de dezembro de 2016: |
-
-|R$ |
-
-|2700.15.451.084.2.035.3390.0300 |10.000.000,00 |
-
-|2704.16.482.225.1.231.4490.0400 |191.025,00 |
-
-|2704.16.482.225.1.231.4490.0400 |288.254,00 |
-
-|4002.04.122.007.2.507.3190.0100 |1.500.000,00 |
-
-|TOTAL |11.979.279,00 |
+| I.1 – A favor de diversos órgãos, conforme autorização contida no caput do art. 4º da Lei nº 11.014, de 30 de dezembro de 2016: |  |
+| --- | --- |
+| R$ |  |
+| 2700.15.451.084.2.035.3390.0300 | 10.000.000,00 |
+| 2704.16.482.225.1.231.4490.0400 | 191.025,00 |
+| 2704.16.482.225.1.231.4490.0400 | 288.254,00 |
+| 4002.04.122.007.2.507.3190.0100 | 1.500.000,00 |
+| TOTAL | 11.979.279,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II – Em contrapartida às suplementações relacionadas no item I.1 da tabela anterior: |
-
-|R$ |
-
-|2700.15.451.084.2.035.3367.0300 |10.000.000,00 |
-
-|2700.17.512.243.1.203.4490.0430 |1.979.279,00 |
-
-|TOTAL |11.979.279,00 |
+| II – Em contrapartida às suplementações relacionadas no item I.1 da tabela anterior: |  |
+| --- | --- |
+| R$ |  |
+| 2700.15.451.084.2.035.3367.0300 | 10.000.000,00 |
+| 2700.17.512.243.1.203.4490.0430 | 1.979.279,00 |
+| TOTAL | 11.979.279,00 |

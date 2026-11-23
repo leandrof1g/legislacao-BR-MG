@@ -58,79 +58,47 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do |R$ |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|2709.26.452.060.2.567.3190.0000 |4.140.000,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS | |
-
-|3200.04.122.093.2.900.4490.0000 |21.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.113.2.327.3390.0040 |77.785,00 |
-
-|TOTAL |4.238.785,00 |
-
-|I.1.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida |R$ |
-
-|no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2302.10.122.117.2.662.3390.0000 |121.740,26 |
-
-|2302.10.302.114.2.893.3390.0050 |308.690,66 |
-
-|2302.10.302.114.2.894.3391.0000 |702.363,75 |
-
-|2302.10.302.114.2.894.3391.0050 |257.370,87 |
-
-|TOTAL |1.390.165,54 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.628.950,54 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do | R$ |
+| --- | --- |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 2709.26.452.060.2.567.3190.0000 | 4.140.000,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.122.093.2.900.4490.0000 | 21.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.113.2.327.3390.0040 | 77.785,00 |
+| TOTAL | 4.238.785,00 |
+| I.1.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida | R$ |
+| no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2302.10.122.117.2.662.3390.0000 | 121.740,26 |
+| 2302.10.302.114.2.893.3390.0050 | 308.690,66 |
+| 2302.10.302.114.2.894.3391.0000 | 702.363,75 |
+| 2302.10.302.114.2.894.3391.0050 | 257.370,87 |
+| TOTAL | 1.390.165,54 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.628.950,54 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação |R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.007.2.900.3390.0000 |21.000,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|2709.26.452.060.2.567.3390.0000 |4.140.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.243.020.2.878.3390.0040 |77.785,00 |
-
-|TOTAL |4.238.785,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação |R$ |
-
-|de recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde – | |
-
-|FMS: | |
-
-|2302.10.122.117.2.662.3390.0000 |200.000,00 |
-
-|2302.10.126.117.2.662.3390.0000 |400.000,00 |
-
-|2302.10.302.114.2.893.3390.0050 |308.690,66 |
-
-|2302.10.302.114.2.894.3390.0050 |257.370,87 |
-
-|2302.10.302.114.2.902.3390.0000 |224.104,01 |
-
-|TOTAL |1.390.165,54 |
-
-|TOTAL DA ANULAÇÃO |5.628.950,54 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.007.2.900.3390.0000 | 21.000,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 2709.26.452.060.2.567.3390.0000 | 4.140.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.243.020.2.878.3390.0040 | 77.785,00 |
+| TOTAL | 4.238.785,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação | R$ |
+| de recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde – |  |
+| FMS: |  |
+| 2302.10.122.117.2.662.3390.0000 | 200.000,00 |
+| 2302.10.126.117.2.662.3390.0000 | 400.000,00 |
+| 2302.10.302.114.2.893.3390.0050 | 308.690,66 |
+| 2302.10.302.114.2.894.3390.0050 | 257.370,87 |
+| 2302.10.302.114.2.902.3390.0000 | 224.104,01 |
+| TOTAL | 1.390.165,54 |
+| TOTAL DA ANULAÇÃO | 5.628.950,54 |
 
 ANEXO II
 
@@ -166,36 +134,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite de 15%|Inciso I do § 1º do art. 4º, |Inciso II do § 1º do art. 4º, |
-
-|11.336, de 30/12/2021 |do valor total do Orçamento: |limite de 15% do total do |limite de 15% do total do |
-
-|– Limites autorizados | |Orçamento do Grupo 1 – Pessoal|Orçamento do Fundo Municipal |
-
-|para abertura de | |e Encargos Sociais: |de Saúde – FMS: |
-
-|créditos | | | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.945.828.754,42 |R$ 230.915.100,00 |R$ 626.170.913,79 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 355.321.931,23 |R$ 653.077.208,70 |R$ 101.046.238,86 |
-
-|suplementares | | | |
-
-|Percentual utilizado |84,56% |26,12% |86,11% |
-
-|Atualizado em 26/12/2022 às 16:42:50 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite de 15% | Inciso I do § 1º do art. 4º, | Inciso II do § 1º do art. 4º, |
+| 11.336, de 30/12/2021 | do valor total do Orçamento: | limite de 15% do total do | limite de 15% do total do |
+| – Limites autorizados |  | Orçamento do Grupo 1 – Pessoal | Orçamento do Fundo Municipal |
+| para abertura de |  | e Encargos Sociais: | de Saúde – FMS: |
+| créditos |  |  |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.945.828.754,42 | R$ 230.915.100,00 | R$ 626.170.913,79 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 355.321.931,23 | R$ 653.077.208,70 | R$ 101.046.238,86 |
+| suplementares |  |  |  |
+| Percentual utilizado | 84,56% | 26,12% | 86,11% |
+| Atualizado em 26/12/2022 às 16:42:50 |  |  |  |

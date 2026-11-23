@@ -46,8 +46,7 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Museus, galerias de arte e exposições |Sem restrição de horário |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Museus, galerias de arte e exposições | Sem restrição de horário |

@@ -260,47 +260,28 @@ Caput com redação dada pela Lei nº 4.303, de 27/12/1985/ (Art. 5º)
 
 "A alíquota do imposto será variável em função da atividade exercida de acordo com a seguinte tabela:
 
-|Nº de ordem Natureza da Atividade UFPBH Preço do Serviço |
-
+| Nº de ordem Natureza da Atividade UFPBH Preço do Serviço |
+| --- |
 | Profissionais Autônomos |
-
-|I Profissionais de nível superior 1 |
-
-|II Profissionais de nível médio e afins 0,7 |
-
-|III Demais Profissionais 0,35 |
-
-|IV Sociedade de Profissionais Liberais – por profissional |
-
-|habilitado, seja sócio, empregado ou terceiro 3 |
-
+| I Profissionais de nível superior 1 |
+| II Profissionais de nível médio e afins 0,7 |
+| III Demais Profissionais 0,35 |
+| IV Sociedade de Profissionais Liberais – por profissional |
+| habilitado, seja sócio, empregado ou terceiro 3 |
 | Empresas |
-
-|V Apresentação de peças teatrais, música popular, concertos e |
-
-|recitais de música erudita, espetáculos folclóricos e populares, |
-
-|realizados em caráter temporário, inclusive por profissionais autônomos 2% |
-
-|VI Espetáculos desportivos sob o patrocínio da Federação Mineira de futebol 2% |
-
-|VII Execução, por administração, empreitada ou subempreitada de construção |
-
-|civil, de obras hidráulicas e outras semelhantes, inclusive serviços auxiliares |
-
-|ou complementares 2% |
-
-|VIII Demolição, conservação e reparação de edifícios (inclusive elevadores neles |
-
-|instalados) estradas pontes e congêneres 2% |
-
-|IX Composição gráfica, clicheria, zincografia, litografia e fotolitografia 3% |
-
-|X Diversões públicas, exceto as mencionadas nos itens V e VI 10% |
-
-|XI Demais serviços |
-
-|5% |
+| V Apresentação de peças teatrais, música popular, concertos e |
+| recitais de música erudita, espetáculos folclóricos e populares, |
+| realizados em caráter temporário, inclusive por profissionais autônomos 2% |
+| VI Espetáculos desportivos sob o patrocínio da Federação Mineira de futebol 2% |
+| VII Execução, por administração, empreitada ou subempreitada de construção |
+| civil, de obras hidráulicas e outras semelhantes, inclusive serviços auxiliares |
+| ou complementares 2% |
+| VIII Demolição, conservação e reparação de edifícios (inclusive elevadores neles |
+| instalados) estradas pontes e congêneres 2% |
+| IX Composição gráfica, clicheria, zincografia, litografia e fotolitografia 3% |
+| X Diversões públicas, exceto as mencionadas nos itens V e VI 10% |
+| XI Demais serviços |
+| 5% |
 
 **Parágrafo Único** - O valor do imposto poderá ser fixado por estimativa, conforme dispuser o regulamento.
 

@@ -58,19 +58,14 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º do art. 43 |R$ |
-
-|da Lei federal nº 4.320, de 17 de março de 1964, e na Lei nº 11.458, de 17 de março de 2023, | |
-
-|regulamentada pelo Decreto nº 18.022, de 8 de julho de 2022, e art. 12 da Lei nº 11.538, de 5 | |
-
-|de julho de 2023: | |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.1100.26.452.305.2.910.336045.500 |250.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |250.000.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º do art. 43 | R$ |
+| --- | --- |
+| da Lei federal nº 4.320, de 17 de março de 1964, e na Lei nº 11.458, de 17 de março de 2023, |  |
+| regulamentada pelo Decreto nº 18.022, de 8 de julho de 2022, e art. 12 da Lei nº 11.538, de 5 |  |
+| de julho de 2023: |  |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.1100.26.452.305.2.910.336045.500 | 250.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 250.000.000,00 |
 
 ANEXO II
 

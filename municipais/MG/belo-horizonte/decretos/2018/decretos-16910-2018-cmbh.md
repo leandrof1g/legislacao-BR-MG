@@ -82,40 +82,23 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 16.910, de 21 de maio de 2018)
 
-|Item |Descrição da infração |Dispositivo|Notifi|Prazo |Multa |Notificação | | |
-
-| | |infringido |cação |para | |Acessória | | |
-
-| | |Lei nº |Prévia|atendim| | | | |
-
-| | |9.824/10 | |ento | | | | |
-
-|2 |Deixar de afixar placas |Art. 4º e |Sim |10 dias|500,00 |2 dias |- |- |
-
-| |de alerta ou contendo |§§ 1º e 2º | | | | | | |
-
-| |informações de segurança| | | | | | | |
-
-|3 |Contratar Salva-Vidas |Art. 3º, |Sim |5 dias |1.000,00 |A cada |- |Interdição do |
-
-| |não |inciso II, | | | |constatação | |tanque ou |
-
-| |habilitados/credenciados|letra b | | | | | |equipamento a |
-
-| |pelo órgão competente | | | | | | |partir da 1ª |
-
-| | | | | | | | |reincidência. |
-
-|4 |Deixar de disponibilizar|Art. 3º, |Sim |5 dias |1.000,00 |A cada |- |Interdição do |
-
-| |cadeiras de observação, |inciso II, | | | |constatação | |tanque ou |
-
-| |telefone de fácil acesso|letra c | | | | | |equipamento a |
-
-| |com lista dos números | | | | | | |partir da 1ª |
-
-| |para emergência e | | | | | | |reincidência. |
-
-| |equipamentos de | | | | | | | |
-
-| |primeiros socorros | | | | | | | |
+| Item | Descrição da infração | Dispositivo | Notifi | Prazo | Multa | Notificação |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | infringido | cação | para |  | Acessória |  |  |
+|  |  | Lei nº | Prévia | atendim |  |  |  |  |
+|  |  | 9.824/10 |  | ento |  |  |  |  |
+| 2 | Deixar de afixar placas | Art. 4º e | Sim | 10 dias | 500,00 | 2 dias | - | - |
+|  | de alerta ou contendo | §§ 1º e 2º |  |  |  |  |  |  |
+|  | informações de segurança |  |  |  |  |  |  |  |
+| 3 | Contratar Salva-Vidas | Art. 3º, | Sim | 5 dias | 1.000,00 | A cada | - | Interdição do |
+|  | não | inciso II, |  |  |  | constatação |  | tanque ou |
+|  | habilitados/credenciados | letra b |  |  |  |  |  | equipamento a |
+|  | pelo órgão competente |  |  |  |  |  |  | partir da 1ª |
+|  |  |  |  |  |  |  |  | reincidência. |
+| 4 | Deixar de disponibilizar | Art. 3º, | Sim | 5 dias | 1.000,00 | A cada | - | Interdição do |
+|  | cadeiras de observação, | inciso II, |  |  |  | constatação |  | tanque ou |
+|  | telefone de fácil acesso | letra c |  |  |  |  |  | equipamento a |
+|  | com lista dos números |  |  |  |  |  |  | partir da 1ª |
+|  | para emergência e |  |  |  |  |  |  | reincidência. |
+|  | equipamentos de |  |  |  |  |  |  |  |
+|  | primeiros socorros |  |  |  |  |  |  |  |

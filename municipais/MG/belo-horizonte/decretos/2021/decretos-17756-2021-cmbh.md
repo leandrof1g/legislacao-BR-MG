@@ -52,40 +52,26 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Fundação de Parques Municipais e Zoobotânica –|
-
-|FPMZB –, conforme autorização contida no caput do art. 4º da |
-
-|Lei nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|2505.18.541.073.2.812.3390.0000 |100.525,00 |
-
-|2505.18.541.073.2.812.3390.0000 |266.122,00 |
-
-|2505.18.541.073.2.812.3390.0000 |307.971,00 |
-
-|2505.18.541.073.2.812.3390.0000 |252.499,00 |
-
-|2505.18.541.073.2.812.3390.0000 |250.000,00 |
-
-|2505.18.541.073.2.812.3390.0000 |68.532,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.245.649,00 |
+| I.1 – A favor da Fundação de Parques Municipais e Zoobotânica – |  |
+| --- | --- |
+| FPMZB –, conforme autorização contida no caput do art. 4º da |  |
+| Lei nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 2505.18.541.073.2.812.3390.0000 | 100.525,00 |
+| 2505.18.541.073.2.812.3390.0000 | 266.122,00 |
+| 2505.18.541.073.2.812.3390.0000 | 307.971,00 |
+| 2505.18.541.073.2.812.3390.0000 | 252.499,00 |
+| 2505.18.541.073.2.812.3390.0000 | 250.000,00 |
+| 2505.18.541.073.2.812.3390.0000 | 68.532,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.245.649,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item |
-
-|I.1 da tabela anterior: |
-
-|R$ |
-
-|2505.18.541.073.2.812.3390.0006 |266.122,00 |
-
-|2505.18.541.073.2.812.3390.0006 |307.971,00 |
-
-|2505.18.541.073.2.812.3390.0006 |671.556,00 |
-
-|TOTAL DA ANULAÇÃO |1.245.649,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item |  |
+| --- | --- |
+| I.1 da tabela anterior: |  |
+| R$ |  |
+| 2505.18.541.073.2.812.3390.0006 | 266.122,00 |
+| 2505.18.541.073.2.812.3390.0006 | 307.971,00 |
+| 2505.18.541.073.2.812.3390.0006 | 671.556,00 |
+| TOTAL DA ANULAÇÃO | 1.245.649,00 |

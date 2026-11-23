@@ -58,43 +58,29 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei nº | |
-
-|11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0019.2405.339037.1.661.000 |180.000,00 |
-
-|3701.08.244.0019.2405.319092.1.660.000 |102,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.131.0015.2007.339040.1.500.000 |125.520,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |305.622,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei nº |  |
+| 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0019.2405.339037.1.661.000 | 180.000,00 |
+| 3701.08.244.0019.2405.319092.1.660.000 | 102,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.131.0015.2007.339040.1.500.000 | 125.520,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 305.622,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, conforme | |
-
-|autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0020.2878.339039.1.661.000 |180.000,00 |
-
-|1011.08.244.0019.2405.339030.1.660.000 |102,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0007.2900.339037.1.500.000 |125.520,00 |
-
-|TOTAL DA ANULAÇÃO |305.622,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, conforme |  |
+| autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0020.2878.339039.1.661.000 | 180.000,00 |
+| 1011.08.244.0019.2405.339030.1.660.000 | 102,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0007.2900.339037.1.500.000 | 125.520,00 |
+| TOTAL DA ANULAÇÃO | 305.622,00 |
 
 ANEXO II
 
@@ -120,20 +106,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos especiais abertos anteriormente |1.028.940.155,27 |
-
-|Valor do Decreto publicado nesta data |305.622,00 |
-
-|Valor total dos créditos especiais abertos no exercício |1.029.245.777,27 |
-
-|Saldo atual do limite autorizado |1.019.781.449,66 |
-
-|Percentual utilizado |50,23% |
-
-|Atualizado em 07/08/2025 às 11:50:53 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos especiais abertos anteriormente | 1.028.940.155,27 |
+| Valor do Decreto publicado nesta data | 305.622,00 |
+| Valor total dos créditos especiais abertos no exercício | 1.029.245.777,27 |
+| Saldo atual do limite autorizado | 1.019.781.449,66 |
+| Percentual utilizado | 50,23% |
+| Atualizado em 07/08/2025 às 11:50:53 |  |

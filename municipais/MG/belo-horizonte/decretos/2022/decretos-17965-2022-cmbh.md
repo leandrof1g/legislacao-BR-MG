@@ -64,46 +64,26 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos do Poder Executivo, conforme |
-
-|autorização contida no inciso I do § 1º do art. 43 da Lei Federal|
-
-|nº 4.320, de 17 de março de 1964, e no caput do art. 4º da Lei nº|
-
-|11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2100.06.181.109.2.803.3390.0030 |682,43 |
-
-|3103.13.391.155.2.375.3390.0030 |3.333,50 |
-
-|4001.28.843.091.3.501.4690.0000 |21.150.430,23 |
-
-|4001.28.844.091.3.089.4690.0000 |761.762,38 |
-
-|TOTAL |21.916.208,54 |
-
-|I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme |
-
-|autorização contida no inciso I do § 1º do art. 43 da Lei Federal|
-
-|nº 4.320, de 17 de março de 1964, e no inciso II do § 1º do art. |
-
-|4º da Lei nº 11.336, de 30 de dezembro de 2021 : |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0050 |921.210,60 |
-
-|2302.10.302.114.2.891.3390.0050 |9.450,00 |
-
-|2302.10.302.114.2.893.3390.0050 |2.537.000,00 |
-
-|2302.10.302.114.2.894.3390.0050 |61,88 |
-
-|2302.10.305.028.2.829.3390.0050 |17.000,00 |
-
-|TOTAL |3.484.722,48 |
-
-|TOTAL DA SUPLEMENTAÇÃO |25.400.931,02 |
+| I.1 – A favor de diversos órgãos do Poder Executivo, conforme |  |
+| --- | --- |
+| autorização contida no inciso I do § 1º do art. 43 da Lei Federal |  |
+| nº 4.320, de 17 de março de 1964, e no caput do art. 4º da Lei nº |  |
+| 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2100.06.181.109.2.803.3390.0030 | 682,43 |
+| 3103.13.391.155.2.375.3390.0030 | 3.333,50 |
+| 4001.28.843.091.3.501.4690.0000 | 21.150.430,23 |
+| 4001.28.844.091.3.089.4690.0000 | 761.762,38 |
+| TOTAL | 21.916.208,54 |
+| I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme |  |
+| autorização contida no inciso I do § 1º do art. 43 da Lei Federal |  |
+| nº 4.320, de 17 de março de 1964, e no inciso II do § 1º do art. |  |
+| 4º da Lei nº 11.336, de 30 de dezembro de 2021 : |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0050 | 921.210,60 |
+| 2302.10.302.114.2.891.3390.0050 | 9.450,00 |
+| 2302.10.302.114.2.893.3390.0050 | 2.537.000,00 |
+| 2302.10.302.114.2.894.3390.0050 | 61,88 |
+| 2302.10.305.028.2.829.3390.0050 | 17.000,00 |
+| TOTAL | 3.484.722,48 |
+| TOTAL DA SUPLEMENTAÇÃO | 25.400.931,02 |

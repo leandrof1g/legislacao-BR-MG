@@ -120,22 +120,11 @@ João de Paulo Pires
 
 Secretário
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Anexo 3 revogado pela Resolução nº 77, de 20/12/1958 (Art. 2º)
 
 Anexo 3 revogado pela Resolução nº 430, de 21/12/1979 (Art. 2º)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]

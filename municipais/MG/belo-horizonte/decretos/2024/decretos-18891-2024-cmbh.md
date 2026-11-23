@@ -58,41 +58,28 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 1º da Lei|R$ |
-
-|nº 11.767, de 30 de outubro de 2024: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2545.339039.1.500.000 |50.000,00 |
-
-|3000.27.813.0101.2545.339039.1.500.000 |130.000,00 |
-
-|3000.27.812.0101.2933.339039.1.500.000 |100.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |280.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 1º da Lei | R$ |
+| --- | --- |
+| nº 11.767, de 30 de outubro de 2024: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.1.500.000 | 50.000,00 |
+| 3000.27.813.0101.2545.339039.1.500.000 | 130.000,00 |
+| 3000.27.812.0101.2933.339039.1.500.000 | 100.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 280.000,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, | |
-
-|conforme autorização contida no art. 2º da Lei nº 11.767, de 30 de outubro de | |
-
-|2024: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2308.339039.1.500.000 |100.000,00 |
-
-|1011.08.243.0019.2647.339039.1.500.000 |130.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.813.0101.2545.339039.1.500.000 |50.000,00 |
-
-|TOTAL DA ANULAÇÃO |280.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, |  |
+| conforme autorização contida no art. 2º da Lei nº 11.767, de 30 de outubro de |  |
+| 2024: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.339039.1.500.000 | 100.000,00 |
+| 1011.08.243.0019.2647.339039.1.500.000 | 130.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.813.0101.2545.339039.1.500.000 | 50.000,00 |
+| TOTAL DA ANULAÇÃO | 280.000,00 |
 
 ANEXO II
 
@@ -120,20 +107,13 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 1º da Lei nº 11.767, de 30 de outubro de 2024:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 1º da Lei nº 11.767, de 30/10/2024 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 18.398.324,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 680.000,00 |
-
-|Valor do Decreto publicado nesta data |R$ 280.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 960.000,00 |
-
-|Saldo atual de créditos suplementares |R$ 17.438.324,00 |
-
-|Percentual utilizado |5,22% |
-
-|Atualizado em 28/11/2024 às 15:57:33 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.767, de 30/10/2024 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 18.398.324,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 680.000,00 |
+| Valor do Decreto publicado nesta data | R$ 280.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 960.000,00 |
+| Saldo atual de créditos suplementares | R$ 17.438.324,00 |
+| Percentual utilizado | 5,22% |
+| Atualizado em 28/11/2024 às 15:57:33 |  |

@@ -60,4 +60,5 @@ Publicado no DOM de 12/06/2008
 
 ANEXO ÚNICO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

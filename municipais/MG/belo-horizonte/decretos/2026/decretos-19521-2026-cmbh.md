@@ -60,21 +60,15 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º |R$ |
-
-|do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 5º da Lei nº | |
-
-|11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.366.0168.2080.319011.2.546.000 |21.910,86 |
-
-|2200.12.361.0168.2080.319011.2.546.000 |957.628,24 |
-
-|2200.12.365.0169.2542.319011.2.546.000 |586.763,90 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.566.303,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 5º da Lei nº |  |
+| 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.366.0168.2080.319011.2.546.000 | 21.910,86 |
+| 2200.12.361.0168.2080.319011.2.546.000 | 957.628,24 |
+| 2200.12.365.0169.2542.319011.2.546.000 | 586.763,90 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.566.303,00 |
 
 ANEXO II
 
@@ -100,26 +94,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |do valor do Orçamento |
-
-|e Encargos Sociais (código 01) | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 73.144.213,30 |
-
-|Valor do decreto publicado nesta data |R$ 1.566.303,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 74.710.516,30 |
-
-|Saldo atual de créditos suplementares |R$ 2.417.724.551,30 |
-
-|Percentual utilizado |3,00% |
-
-|Atualizado em 18/03/2026 às 16:47:12 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | do valor do Orçamento |
+| e Encargos Sociais (código 01) |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 73.144.213,30 |
+| Valor do decreto publicado nesta data | R$ 1.566.303,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 74.710.516,30 |
+| Saldo atual de créditos suplementares | R$ 2.417.724.551,30 |
+| Percentual utilizado | 3,00% |
+| Atualizado em 18/03/2026 às 16:47:12 |  |

@@ -42,17 +42,13 @@ III - cumprir, durante todo o semestre letivo de competência, em cada vínculo 
 
 **Art. 3º** - O abono de que trata este Decreto será pago uma vez ao final de cada semestre, nos seguintes valores:
 
-|CARGOS E EMPREGOS PÚBLICOS |ABONO DE ESTÍMULO À FIXAÇÃO PROFISSIONAL |
-
-|Educador Infantil |R$ 500,00 |
-
-|Pedagogo |R$ 800,00 |
-
-|Técnico Superior de Educação em exercício de Supervisão |R$ 800,00 |
-
-|Pedagógica ou Orientação Educacional | |
-
-|Professor Municipal |R$ 800,00 |
+| CARGOS E EMPREGOS PÚBLICOS | ABONO DE ESTÍMULO À FIXAÇÃO PROFISSIONAL |
+| --- | --- |
+| Educador Infantil | R$ 500,00 |
+| Pedagogo | R$ 800,00 |
+| Técnico Superior de Educação em exercício de Supervisão | R$ 800,00 |
+| Pedagógica ou Orientação Educacional |  |
+| Professor Municipal | R$ 800,00 |
 
 **§ 1º** - O Abono de Estímulo à Fixação Profissional será tomado como base de cálculo exclusivamente para fins de incidência do imposto sobre a renda e proventos de qualquer natureza.
 

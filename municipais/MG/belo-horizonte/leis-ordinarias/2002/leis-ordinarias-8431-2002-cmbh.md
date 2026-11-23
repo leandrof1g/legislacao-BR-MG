@@ -88,11 +88,10 @@ V - para os lotes onde serão construídas unidades habitacionais, áreas 1 e 2 
 
 a)
 
-|Coeficiente de |Quota de Terreno por |Taxa de Ocupação |Taxa de Permeabilização |Altura Máxima Divisa |
-
-|Aproveitamento |Unidade Habitacional | | | |
-
-|1,0 |45m²/UM |- |20% |5,0m |
+| Coeficiente de | Quota de Terreno por | Taxa de Ocupação | Taxa de Permeabilização | Altura Máxima Divisa |
+| --- | --- | --- | --- | --- |
+| Aproveitamento | Unidade Habitacional |  |  |  |
+| 1,0 | 45m²/UM | - | 20% | 5,0m |
 
 b) deslocamento vertical máximo de 11,00m (onze metros);
 
@@ -124,4 +123,5 @@ Fernando Damata Pimentel
 
 Prefeito de Belo Horizonte, em exercício
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

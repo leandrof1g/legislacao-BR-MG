@@ -82,30 +82,18 @@ Gilson Assis Dayrell
 
 Secretário municipal de Planejamento
 
-|TABELA DE DIÁRIAS |
-
-|(EM UFPBH) |
-
-|GRUPO |CARGOS |ALIMENTAÇÃO |TRANSP. |INTEGR. |
-
-| | | |URBANO |1 DIÁRIA |
-
-|A |Prefeito, Vice Prefeito, Auditor Geral, |3,00 |0,70 |3,70 |
-
-| |Corregedor Geral, Secretário Municipal, Procurador Geral e seus| | | |
-
-| |adjuntos, Chefe de gabinete do Prefeito e Assessor Chefe de | | | |
-
-| |Imprensa, Secretário Particular do Prefeito, Coordenador de | | | |
-
-| |Cerimonial e Administrador Regional | | | |
-
-|B |Diretor, Presidente da Junta de Julgamento Fiscal e Assessor II|2,25 |0,70 |2,95 |
-
-| |e III, Diretor e Vice-Diretor de Ensino I e II, Coordenador de | | | |
-
-| |Ensino, Assessor Jurídico, Chefe de Serviço, Chefe de Gabinete | | | |
-
-| |do Secretário e os cargos de nível superior | | | |
-
-|C |Demais Cargos |1,50 |0,70 |2,20 |
+| TABELA DE DIÁRIAS |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| (EM UFPBH) |  |  |  |  |
+| GRUPO | CARGOS | ALIMENTAÇÃO | TRANSP. | INTEGR. |
+|  |  |  | URBANO | 1 DIÁRIA |
+| A | Prefeito, Vice Prefeito, Auditor Geral, | 3,00 | 0,70 | 3,70 |
+|  | Corregedor Geral, Secretário Municipal, Procurador Geral e seus |  |  |  |
+|  | adjuntos, Chefe de gabinete do Prefeito e Assessor Chefe de |  |  |  |
+|  | Imprensa, Secretário Particular do Prefeito, Coordenador de |  |  |  |
+|  | Cerimonial e Administrador Regional |  |  |  |
+| B | Diretor, Presidente da Junta de Julgamento Fiscal e Assessor II | 2,25 | 0,70 | 2,95 |
+|  | e III, Diretor e Vice-Diretor de Ensino I e II, Coordenador de |  |  |  |
+|  | Ensino, Assessor Jurídico, Chefe de Serviço, Chefe de Gabinete |  |  |  |
+|  | do Secretário e os cargos de nível superior |  |  |  |
+| C | Demais Cargos | 1,50 | 0,70 | 2,20 |

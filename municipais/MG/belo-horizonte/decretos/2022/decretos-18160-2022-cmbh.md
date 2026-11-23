@@ -70,81 +70,45 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do §|R$ |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º| |
-
-|da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.812.3390.0006 |175.019,00 |
-
-|2505.18.541.073.2.812.3390.0006 |34.000,00 |
-
-|2505.04.122.165.2.816.3390.0006 |24.243,00 |
-
-|2505.18.541.073.2.812.3390.0006 |6.000,00 |
-
-|2505.18.541.073.2.812.3390.0006 |33.720,00 |
-
-|2505.18.541.073.2.812.3390.0006 |169.232,00 |
-
-|2505.18.541.073.2.900.3390.0006 |62.705,00 |
-
-|2505.18.541.073.2.580.3390.0006 |34.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.157.2.690.3190.0050 |822.112,08 |
-
-|2302.10.305.028.2.829.3190.0050 |348.058,33 |
-
-|2302.10.305.028.2.829.3190.0050 |142.544,81 |
-
-|2302.10.301.157.2.690.3190.0050 |519.656,82 |
-
-|2302.10.305.028.2.829.3190.0050 |357.538,83 |
-
-|2302.10.301.157.2.690.3190.0050 |761.942,41 |
-
-|2302.10.305.028.2.829.3190.0050 |386.817,45 |
-
-|2302.10.305.028.2.829.3190.0050 |350.132,09 |
-
-|2302.10.301.157.2.690.3190.0050 |399.854,76 |
-
-|2302.10.305.028.2.829.3190.0050 |433.308,02 |
-
-|2302.10.305.028.2.829.3190.0050 |325.558,10 |
-
-|2302.10.301.157.2.690.3190.0050 |785.665,98 |
-
-|2302.10.305.028.2.829.3190.0050 |346.682,37 |
-
-|2302.10.301.157.2.902.4567.0080 |1.630.956,90 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.233.1.208.4490.0000 |1.437.250,00 |
-
-|2700.15.451.233.1.208.4490.0000 |727.250,00 |
-
-|2700.15.451.233.1.208.4490.0000 |906.331,00 |
-
-|2700.15.451.233.1.208.4490.0000 |2.030.000,00 |
-
-|2700.15.451.233.1.208.4490.0000 |1.317.955,00 |
-
-|2700.15.451.233.1.208.4490.0000 |1.172.487,00 |
-
-|2700.15.451.233.1.208.4490.0000 |2.123.172,00 |
-
-|2700.15.451.233.1.208.4490.0000 |867.013,00 |
-
-|2700.15.451.233.1.208.4490.0000 |1.970.764,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |20.701.969,95 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º |  |
+| da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.812.3390.0006 | 175.019,00 |
+| 2505.18.541.073.2.812.3390.0006 | 34.000,00 |
+| 2505.04.122.165.2.816.3390.0006 | 24.243,00 |
+| 2505.18.541.073.2.812.3390.0006 | 6.000,00 |
+| 2505.18.541.073.2.812.3390.0006 | 33.720,00 |
+| 2505.18.541.073.2.812.3390.0006 | 169.232,00 |
+| 2505.18.541.073.2.900.3390.0006 | 62.705,00 |
+| 2505.18.541.073.2.580.3390.0006 | 34.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.157.2.690.3190.0050 | 822.112,08 |
+| 2302.10.305.028.2.829.3190.0050 | 348.058,33 |
+| 2302.10.305.028.2.829.3190.0050 | 142.544,81 |
+| 2302.10.301.157.2.690.3190.0050 | 519.656,82 |
+| 2302.10.305.028.2.829.3190.0050 | 357.538,83 |
+| 2302.10.301.157.2.690.3190.0050 | 761.942,41 |
+| 2302.10.305.028.2.829.3190.0050 | 386.817,45 |
+| 2302.10.305.028.2.829.3190.0050 | 350.132,09 |
+| 2302.10.301.157.2.690.3190.0050 | 399.854,76 |
+| 2302.10.305.028.2.829.3190.0050 | 433.308,02 |
+| 2302.10.305.028.2.829.3190.0050 | 325.558,10 |
+| 2302.10.301.157.2.690.3190.0050 | 785.665,98 |
+| 2302.10.305.028.2.829.3190.0050 | 346.682,37 |
+| 2302.10.301.157.2.902.4567.0080 | 1.630.956,90 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.233.1.208.4490.0000 | 1.437.250,00 |
+| 2700.15.451.233.1.208.4490.0000 | 727.250,00 |
+| 2700.15.451.233.1.208.4490.0000 | 906.331,00 |
+| 2700.15.451.233.1.208.4490.0000 | 2.030.000,00 |
+| 2700.15.451.233.1.208.4490.0000 | 1.317.955,00 |
+| 2700.15.451.233.1.208.4490.0000 | 1.172.487,00 |
+| 2700.15.451.233.1.208.4490.0000 | 2.123.172,00 |
+| 2700.15.451.233.1.208.4490.0000 | 867.013,00 |
+| 2700.15.451.233.1.208.4490.0000 | 1.970.764,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 20.701.969,95 |
 
 ANEXO II
 
@@ -176,32 +140,19 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº 11.336, de |Caput do art. 4º, limite de |Inciso I do § 1º do art. 4º, |Inciso II do § 1º do art. |
-
-|30/12/2021 – Limites |15% do valor total do |limite de 15% do total do |4º, limite de 15% do total |
-
-|autorizados para abertura de |Orçamento: |Orçamento do Grupo 1 – |do Orçamento do Fundo |
-
-|créditos suplementares. | |Pessoal e Encargos Sociais: |Municipal de Saúde – FMS: |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.041.730.292,08 |R$ 210.682.068,88 |R$ 536.056.978,14 |
-
-|suplementares abertos no | | | |
-
-|exercício | | | |
-
-|Saldos de créditos |R$ 1.259.420.393,57 |R$ 673.310.239,82 |R$ 191.160.174,51 |
-
-|suplementares | | | |
-
-|Percentual utilizado |45,27% |23,83% |73,71% |
-
-|Atualizado em 11/11/2022 às 11:15:14 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº 11.336, de | Caput do art. 4º, limite de | Inciso I do § 1º do art. 4º, | Inciso II do § 1º do art. |
+| 30/12/2021 – Limites | 15% do valor total do | limite de 15% do total do | 4º, limite de 15% do total |
+| autorizados para abertura de | Orçamento: | Orçamento do Grupo 1 – | do Orçamento do Fundo |
+| créditos suplementares. |  | Pessoal e Encargos Sociais: | Municipal de Saúde – FMS: |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.041.730.292,08 | R$ 210.682.068,88 | R$ 536.056.978,14 |
+| suplementares abertos no |  |  |  |
+| exercício |  |  |  |
+| Saldos de créditos | R$ 1.259.420.393,57 | R$ 673.310.239,82 | R$ 191.160.174,51 |
+| suplementares |  |  |  |
+| Percentual utilizado | 45,27% | 23,83% | 73,71% |
+| Atualizado em 11/11/2022 às 11:15:14 |  |  |  |

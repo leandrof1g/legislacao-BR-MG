@@ -46,36 +46,21 @@ ANEXO
 
 Acessar links para abrir os anexos:
 
-|20/01/2004 |2.039 |Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas|
-
-| | |dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 |
-
-|20/01/2004 |2.039 |Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas|
-
-| | |dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 - |
-
-| | |continuação |
-
-|20/01/2004 |2.039 |Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas|
-
-| | |dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 - |
-
-| | |continuação |
-
-|20/01/2004 |2.039 |Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas|
-
-| | |dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 - |
-
-| | |continuação |
-
-|20/01/2004 |2.039 |Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas|
-
-| | |dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 - |
-
-| | |continuação |
-
-|20/01/2004 |2.039 |Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas|
-
-| | |dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 - |
-
-| | |continuação |
+| 20/01/2004 | 2.039 | Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas |
+| --- | --- | --- |
+|  |  | dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 |
+| 20/01/2004 | 2.039 | Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas |
+|  |  | dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 - |
+|  |  | continuação |
+| 20/01/2004 | 2.039 | Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas |
+|  |  | dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 - |
+|  |  | continuação |
+| 20/01/2004 | 2.039 | Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas |
+|  |  | dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 - |
+|  |  | continuação |
+| 20/01/2004 | 2.039 | Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas |
+|  |  | dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 - |
+|  |  | continuação |
+| 20/01/2004 | 2.039 | Decreto nº 11.604 de 19 de janeiro de 2004 - Componentes das Receitas e Despesas |
+|  |  | dos orçamentos aprovados para o exercício de 2004 - Edição Especial nº 04 - |
+|  |  | continuação |

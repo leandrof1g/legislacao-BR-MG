@@ -52,70 +52,41 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 –A favor do Fundo de Modernização e Aprimoramento da |
-
-|Administração Tributária do Município – FMAATM –, conforme |
-
-|autorização contida no caput do art. 4º da Lei nº 11.336, de 30|
-
-|de dezembro de 2021: |
-
-|R$ |
-
-|0805.04.129.105.2.652.4490.0000 |500.000,00 |
-
-|TOTAL |500.000,00 |
-
-|I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme |
-
-|autorização contida no inciso II do § 1º do art. 4º da Lei nº |
-
-|11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2302.10.122.117.1.394.4490.0080 |109.673,00 |
-
-|2302.10.122.117.1.394.3390.0080 |13.164,00 |
-
-|2302.10.301.157.2.902.4567.0000 |3.023.476,00 |
-
-|2302.10.302.114.2.893.3390.0050 |592.000,00 |
-
-|2302.10.303.117.2.895.3390.0050 |85.195,00 |
-
-|TOTAL |3.823.508,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.323.508,00 |
+| I.1 –A favor do Fundo de Modernização e Aprimoramento da |  |
+| --- | --- |
+| Administração Tributária do Município – FMAATM –, conforme |  |
+| autorização contida no caput do art. 4º da Lei nº 11.336, de 30 |  |
+| de dezembro de 2021: |  |
+| R$ |  |
+| 0805.04.129.105.2.652.4490.0000 | 500.000,00 |
+| TOTAL | 500.000,00 |
+| I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme |  |
+| autorização contida no inciso II do § 1º do art. 4º da Lei nº |  |
+| 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2302.10.122.117.1.394.4490.0080 | 109.673,00 |
+| 2302.10.122.117.1.394.3390.0080 | 13.164,00 |
+| 2302.10.301.157.2.902.4567.0000 | 3.023.476,00 |
+| 2302.10.302.114.2.893.3390.0050 | 592.000,00 |
+| 2302.10.303.117.2.895.3390.0050 | 85.195,00 |
+| TOTAL | 3.823.508,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.323.508,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1|
-
-|da tabela anterior: |
-
-|R$ |
-
-|0800.04.122.105.2.900.4490.0000 |500.000,00 |
-
-|TOTAL |500.000,00 |
-
-|II.2 – Em contrapartida às suplementações relacionadas no item |
-
-|I.2 da tabela anterior: |
-
-|R$ |
-
-|2302.10.122.117.1.394.4490.0080 |13.164,00 |
-
-|2302.10.126.117.1.394.4490.0080 |109.673,00 |
-
-|2302.10.302.114.2.893.3390.0050 |592.000,00 |
-
-|2302.10.302.114.2.894.3391.0000 |3.023.476,00 |
-
-|2302.10.303.117.2.895.3390.0050 |85.195,00 |
-
-|TOTAL |3.823.508,00 |
-
-|TOTAL DA ANULAÇÃO |4.323.508,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 0800.04.122.105.2.900.4490.0000 | 500.000,00 |
+| TOTAL | 500.000,00 |
+| II.2 – Em contrapartida às suplementações relacionadas no item |  |
+| I.2 da tabela anterior: |  |
+| R$ |  |
+| 2302.10.122.117.1.394.4490.0080 | 13.164,00 |
+| 2302.10.126.117.1.394.4490.0080 | 109.673,00 |
+| 2302.10.302.114.2.893.3390.0050 | 592.000,00 |
+| 2302.10.302.114.2.894.3391.0000 | 3.023.476,00 |
+| 2302.10.303.117.2.895.3390.0050 | 85.195,00 |
+| TOTAL | 3.823.508,00 |
+| TOTAL DA ANULAÇÃO | 4.323.508,00 |

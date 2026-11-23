@@ -90,81 +90,45 @@ II - Certidão de qualquer outra natureza:
 
 **Art. 6°** - Os valores das taxas de busca em papéis ou livros arquivados, qualquer que seja o número de livros ou dos volumes nela compreendidos, relativos a cada ato - ou fato administrativo, cobrados quando da emissão da guia de recolhimento da certidão expedida, são:
 
-|ESPECIFICAÇÃO | |Com indicação |Sem indicação |
-
-| | |do |do |
-
-| | |ano Cr$ |ano Cr$ |
-
-| | | | |
-
-|Até 1ano | |6.00 |12.00 |
-
-|Entre 1 e 2 anos. | |11.00 |22.00 |
-
-|Entre 2 e 3 anos | |16.00 |32.00 |
-
-|Entre 3 e 4 anos | |21.00 |42.00 |
-
-|Entre 4 e 5 anos | |26.00 |52.00 |
-
-|Entre 5 e 6 anos | |30.00 |60.00 |
-
-|Entre 6 e 7 anos | |34.00 |68.00 |
-
-|Entre 7 e 8 anos | |38.00 |76.00 |
-
-|Entre 8 e 9 anos | |42.00 |84.00 |
-
-|Entre 9 e 10 anos | |46.00 |92.00 |
-
-|Entre 10 e 11 anos | |49.00 |98.00 |
-
-|Entre 11 e 12 anos | |52.00 |104.00 |
-
-|Entre 12 e 13 anos | |55.00 |110.00 |
-
-|Entre 13 s 14 anos | |58.00 |116.00 |
-
-|Entre 14 e 15 anos | |61.00 |122.00 |
-
-|Entre 15 e 16 anos | |64.00 |128.00 |
-
-|Entre 16 e 17 anos | |67.00 |134.00 |
-
-|Entre 17 e 18 anos | |70.00 |140.00 |
-
-|Entre 18 e 19 anos | |73.00 |146.00 |
-
-|Entre 19 e 20 anos | |76.00 |152.00 |
-
-|Entre 20 e 21 anos | |78.50 |156.00 |
-
-|Entre 21 s 22 anos | |81.00 |160.00 |
-
-|Entre 22 e 23 anos | |83.50 |164.00 |
-
-|Entre 23 e 24 anos | |86.00 |168.00 |
-
-|Entre 24 e 25 anos | |88.50 |172.00 |
-
-|Entre 25 e 26 anos | |91.00 |176.00 |
-
-|Entre 26 e 27 anos | |93.50 |180.00 |
-
-|Entre 27 e 28 anos | |96.00 |184.00 |
-
-|Entre 28 e 29 anos | |98.50 |188.00 |
-
-|Entre 29 e 30 anos | |101.00 |192.00 |
-
-|Pelo que | |1.00 |2.00 |
-
-|ultrapassar | | | |
-
-|de 30 anos, | | | |
-
-|por ano | | | |
+| ESPECIFICAÇÃO |  | Com indicação | Sem indicação |
+| --- | --- | --- | --- |
+|  |  | do | do |
+|  |  | ano Cr$ | ano Cr$ |
+|  |  |  |  |
+| Até 1ano |  | 6.00 | 12.00 |
+| Entre 1 e 2 anos. |  | 11.00 | 22.00 |
+| Entre 2 e 3 anos |  | 16.00 | 32.00 |
+| Entre 3 e 4 anos |  | 21.00 | 42.00 |
+| Entre 4 e 5 anos |  | 26.00 | 52.00 |
+| Entre 5 e 6 anos |  | 30.00 | 60.00 |
+| Entre 6 e 7 anos |  | 34.00 | 68.00 |
+| Entre 7 e 8 anos |  | 38.00 | 76.00 |
+| Entre 8 e 9 anos |  | 42.00 | 84.00 |
+| Entre 9 e 10 anos |  | 46.00 | 92.00 |
+| Entre 10 e 11 anos |  | 49.00 | 98.00 |
+| Entre 11 e 12 anos |  | 52.00 | 104.00 |
+| Entre 12 e 13 anos |  | 55.00 | 110.00 |
+| Entre 13 s 14 anos |  | 58.00 | 116.00 |
+| Entre 14 e 15 anos |  | 61.00 | 122.00 |
+| Entre 15 e 16 anos |  | 64.00 | 128.00 |
+| Entre 16 e 17 anos |  | 67.00 | 134.00 |
+| Entre 17 e 18 anos |  | 70.00 | 140.00 |
+| Entre 18 e 19 anos |  | 73.00 | 146.00 |
+| Entre 19 e 20 anos |  | 76.00 | 152.00 |
+| Entre 20 e 21 anos |  | 78.50 | 156.00 |
+| Entre 21 s 22 anos |  | 81.00 | 160.00 |
+| Entre 22 e 23 anos |  | 83.50 | 164.00 |
+| Entre 23 e 24 anos |  | 86.00 | 168.00 |
+| Entre 24 e 25 anos |  | 88.50 | 172.00 |
+| Entre 25 e 26 anos |  | 91.00 | 176.00 |
+| Entre 26 e 27 anos |  | 93.50 | 180.00 |
+| Entre 27 e 28 anos |  | 96.00 | 184.00 |
+| Entre 28 e 29 anos |  | 98.50 | 188.00 |
+| Entre 29 e 30 anos |  | 101.00 | 192.00 |
+| Pelo que |  | 1.00 | 2.00 |
+| ultrapassar |  |  |  |
+| de 30 anos, |  |  |  |
+| por ano |  |  |  |
 
 **Art. 7º** - Os valores da taxa de rasa, cobrados quando da emissão da guia de recolhimento pela expedição de certidão com mais de 15 linhas, são os seguintes:
 

@@ -270,345 +270,181 @@ ANEXO I
 
 METAS DE OTIMIZAÇÃO DOS SERVIÇOS PÚBLICOS DE ENGENHARIA E ARQUITETURA
 
-|GRUPO |ATIVIDADE |INDICADOR MÍNINO DE PRODUÇÃO|DETALHAMENTO DAS ATIVIDADES |
-
-| |COMPLEXIDADE |ATIVIDADE |DEFINIÇÃO |UNIDADE | | |
-
-|I – |1 |a |Resposta oficial de baixa |expediente |88 |Execução de resposta com duração de até duas horas. |
-
-|PARECER | | |complexidade. | | | |
-
-|TÉCNICO | | | | | | |
-
-|CONCLUSIVO| | | | | | |
-
-| | | | |expediente |88 |Resposta à consulta formulada sobre legislação municipal ou atos |
-
-| | | | | | |administrativos. |
-
-| | | | |expediente |88 |Publicação de parecer do Conselho Municipal de Política Urbana. |
-
-| | | | |expediente |88 |Análise de recursos apresentados por munícipe com emissão de parecer |
-
-| | | | | | |conclusivo e comunicação ao interessado. |
-
-| | |b |Avaliação, cadastro e emissão de |expediente |88 |Avaliação, cadastro e emissão de consulta prévia manual. |
-
-| | | |consulta prévia manual e de | | | |
-
-| | | |permanência de uso. | | | |
-
-| | | | |expediente |88 |Avaliação, consolidação de cadastro e emissão de consulta prévia por |
-
-| | | | | | |direito de permanência de uso. |
-
-| | |c |Emissão de parecer de baixa |expediente |88 |Informações para subsidiar o Programa de Manutenção de Conjuntos |
-
-| | | |complexidade para subsidiar o Poder| | |Habitacionais. |
-
-| | | |Público e Conselhos. | | | |
-
-| | | | |expediente |88 |Fornecimento de informações e procedimentos para a interface. |
-
-| | | | |expediente |88 |Análise de processos ou de projeto com até 2hs de exame, com emissão de|
-
-| | | | | | |relatório para subsidiar parecer para fins de licenciamento ambiental. |
-
-| | | | |expediente |88 |Análise do artigo 38 para modificação de parcelamento. |
-
-| | | | |expediente |88 |Relatório de avaliação de situação de risco com vistoria. |
-
-| | | | |expediente |88 |Elaboração de material de apoio a conselheiros. |
-
-| | | | |expediente |88 |Relatório para Estações de Radiobase. |
-
-| | | | |expediente |88 |Relatórios com tempo máximo de execução de 2 horas. |
-
-| | | | |expediente |88 |Verificação de planta CP com emissão de parecer ou consolidação de |
-
-| | | | | | |informações para anuência de órgão metropolitano para parcelamento do |
-
-| | | | | | |solo. |
-
-| | |d |Análise de baixa complexidade para |expediente |88 |Solicitação de poda, supressão ou transplantio de árvore, análise de |
-
-| | | |intervenção em arborização ou | | |pequenas intervenções em áreas ajardinadas. |
-
-| | | |vegetação. | | | |
-
-| |2 |a |Análise de norma de baixa |expediente |44 |Norma, projeto ou proposição de lei, com duração máxima de 4 horas. |
-
-| | | |complexidade. | | | |
-
-| | |b |Análise de Transferência do Direito|expediente |44 |Atividade de aplicação direta, conforme definição. |
-
-| | | |de Construir ou Potencial | | | |
-
-| | | |Construtivo Adicional com emissão | | | |
-
-| | | |de laudo e consolidação de | | | |
-
-| | | |certidão. | | | |
-
-| | |c |Emissão de parecer conclusivo sobre|expediente |44 |Emissão de relatório dos atos administrativos constantes em processos |
-
-| | | |andamento de processos. | | |relativos à fiscalização e a licenciamento. |
-
-| | | | |expediente |44 |Relatório sobre situação do processo e pendências para atendimento à |
-
-| | | | | | |solicitação superior ou de outros órgãos. |
-
-| | |d |Relatório preliminar e preparação |expediente |44 |Emissão de diretrizes para parcelamento do solo, incluindo relatório |
-
-| | | |para reuniões de comissões ou grupo| | |preliminar e preparação do processo para avaliação da comissão. |
-
-| | | |de trabalho, incluindo análise dos | | | |
-
-| | | |processos. | | | |
-
-| | |e |Emissão de parecer de média |expediente |44 |Pareceres relativos à aplicação da legislação urbanística demandados |
-
-| | | |complexidade para subsidiar o Poder| | |pelas regionais. |
-
-| | | |Público e Conselhos. | | | |
-
-| | | | |expediente |44 |Análise de processos ou projeto com 3 a 5hs de exame, com emissão de |
-
-| | | | | | |relatório para subsidiar parecer para fins de licenciamento ambiental. |
-
-| | | | |expediente |44 |Parecer para subsidiar decisão sobre alienação de áreas públicas e |
-
-| | | | | | |mudança de destinação. |
-
-| | | | |expediente |44 |Relatórios com tempo máximo de execução de 4 horas. |
-
-| | | | |expediente |44 |Relatório de orientação técnica para subsidiar ações de fiscalização. |
-
-| | | | |expediente |44 |Parecer para subsidiar emissão de voto por relator dos Conselhos |
-
-| | | | | | |relativo a concessão de ALF, alteração pontual de zoneamento ou |
-
-| | | | | | |reclassificação viária. |
-
-| | |f |Resposta oficial de média |expediente |44 |Execução de resposta com duração acima de 2 e até 4 horas. |
-
-| | | |complexidade. | | | |
-
-|I – |3 |a |Análise de norma de média |expediente |22 |Norma, projeto ou proposição de lei, com duração acima de 4 e até 8 |
-
-|PARECER | | |complexidade. | | |horas. |
-
-|TÉCNICO | | | | | | |
-
-|CONCLUSIVO| | | | | | |
-
-| | | | |expediente |22 |Análise parcial de código de obras, plano diretor, LPOUS ou de |
-
-| | | | | | |legislação de complexidade semelhante, por designação superior. |
-
-| | |b |Avaliação do grau de proteção |expediente |22 |Atividade de aplicação direta, conforme definição. |
-
-| | | |histórico-cultural de imóvel, | | | |
-
-| | | |incluindo vistoria, cadastro de | | | |
-
-| | | |informações e edição da Carta de | | | |
-
-| | | |Grau de Proteção. | | | |
-
-| | |c |Resposta oficial de alta |expediente |22 |Execução de resposta com duração acima de 4 e até 8 horas. |
-
-| | | |complexidade. | | | |
-
-| | |d |Análise de licenciamento ambiental |expediente |22 |Atividade de aplicação direta, conforme definição. |
-
-| | | |de Estação de Radiobase, fase de | | | |
-
-| | | |Licença de Operação (exceto Licença| | | |
-
-| | | |de Operação de Adequação e Licença | | | |
-
-| | | |de Operação Corretiva). | | | |
-
-| | |e |Análise de plano, programa, projeto|expediente |22 |Estudos e projetos quanto ao aproveitamento do terreno, viabilidade |
-
-| | | |ou estudo de média complexidade | | |funcional, parâmetros urbanísticos e ambientais. |
-
-| | | | |expediente |22 |Análise para subsidiar intervenção física em conjuntos habitacionais. |
-
-| | | | |expediente |22 |Análise de plano, programa, projeto ou estudo de caráter ambiental. |
-
-| | | | |expediente |22 |Análise de projeto de infraestrutura urbana. |
-
-| | | | |expediente |22 |Análise ou reavaliação de projetos arquitetônicos ou complementares. |
-
-| | |f |Análise de solicitação de |expediente |22 |Atividade de aplicação direta, conforme definição. |
-
-| | | |transformação de área particular em| | | |
-
-| | | |Reserva Particular Ecológica. | | | |
-
-| | |g |Emissão de parecer de alta |expediente |22 |Análise de processos e emissão de parecer, para subsidiar decisão de |
-
-| | | |complexidade para subsidiar o Poder| | |conselho, quando ocupante do cargo de membro de conselho municipal. |
-
-| | | |Público e Conselhos. | | | |
-
-| | | | |expediente |22 |Análise de processos ou projetos com 6 a 8hs de exame, com emissão de |
-
-| | | | | | |relatório para subsidiar parecer para fins de licenciamento ambiental. |
-
-| | | | |expediente |22 |Análise de processos e emissão de parecer, para subsidiar decisão da |
-
-| | | | | | |junta de recursos fiscais, quando ocupante do cargo de membro da junta.|
-
-| | | | |expediente |22 |Análise de proposta de intervenção prevista nas deliberações normativas|
-
-| | | | | | |do COMAM. |
-
-| | | | |expediente |22 |Monitoramento do cumprimento de condicionantes ambientais com tempo de |
-
-| | | | | | |vistoria de até 3 horas. |
-
-| | | | |expediente |22 |Emissão de parecer conclusivo sobre andamento de processos de |
-
-| | | | | | |licenciamento ambiental, procedimento corretivo e fiscalização |
-
-| | | | | | |ambiental. |
-
-| | | | |expediente |22 |Emissão de parecer de conformidade urbanística para fins de |
-
-| | | | | | |licenciamento ambiental. |
-
-| | | | |expediente |22 |Análise de defesa contra Auto de Infração Ambiental, com duração acima |
-
-| | | | | | |de 4 e até 8 horas. |
-
-| | | | |expediente |22 |Análise de solicitação ou recurso para laudo emitido para parcelamento |
-
-| | | | | | |do solo, com duração de até 8 horas. |
-
-| | | | |expediente |22 |Análise relativa à questão ambiental, incluindo vistoria. |
-
-| | | | |expediente |22 |Análise de defesa contra Auto de Infração Ambiental. |
-
-| | | | |expediente |22 |Análise relativa à questão ambiental, incluindo vistoria. |
-
-| | | | |expediente |22 |Relatórios com tempo máximo de execução e entre 4 e 8 horas. |
+| GRUPO | ATIVIDADE | INDICADOR MÍNINO DE PRODUÇÃO | DETALHAMENTO DAS ATIVIDADES |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | COMPLEXIDADE | ATIVIDADE | DEFINIÇÃO | UNIDADE |  |  |
+| I – | 1 | a | Resposta oficial de baixa | expediente | 88 | Execução de resposta com duração de até duas horas. |
+| PARECER |  |  | complexidade. |  |  |  |
+| TÉCNICO |  |  |  |  |  |  |
+| CONCLUSIVO |  |  |  |  |  |  |
+|  |  |  |  | expediente | 88 | Resposta à consulta formulada sobre legislação municipal ou atos |
+|  |  |  |  |  |  | administrativos. |
+|  |  |  |  | expediente | 88 | Publicação de parecer do Conselho Municipal de Política Urbana. |
+|  |  |  |  | expediente | 88 | Análise de recursos apresentados por munícipe com emissão de parecer |
+|  |  |  |  |  |  | conclusivo e comunicação ao interessado. |
+|  |  | b | Avaliação, cadastro e emissão de | expediente | 88 | Avaliação, cadastro e emissão de consulta prévia manual. |
+|  |  |  | consulta prévia manual e de |  |  |  |
+|  |  |  | permanência de uso. |  |  |  |
+|  |  |  |  | expediente | 88 | Avaliação, consolidação de cadastro e emissão de consulta prévia por |
+|  |  |  |  |  |  | direito de permanência de uso. |
+|  |  | c | Emissão de parecer de baixa | expediente | 88 | Informações para subsidiar o Programa de Manutenção de Conjuntos |
+|  |  |  | complexidade para subsidiar o Poder |  |  | Habitacionais. |
+|  |  |  | Público e Conselhos. |  |  |  |
+|  |  |  |  | expediente | 88 | Fornecimento de informações e procedimentos para a interface. |
+|  |  |  |  | expediente | 88 | Análise de processos ou de projeto com até 2hs de exame, com emissão de |
+|  |  |  |  |  |  | relatório para subsidiar parecer para fins de licenciamento ambiental. |
+|  |  |  |  | expediente | 88 | Análise do artigo 38 para modificação de parcelamento. |
+|  |  |  |  | expediente | 88 | Relatório de avaliação de situação de risco com vistoria. |
+|  |  |  |  | expediente | 88 | Elaboração de material de apoio a conselheiros. |
+|  |  |  |  | expediente | 88 | Relatório para Estações de Radiobase. |
+|  |  |  |  | expediente | 88 | Relatórios com tempo máximo de execução de 2 horas. |
+|  |  |  |  | expediente | 88 | Verificação de planta CP com emissão de parecer ou consolidação de |
+|  |  |  |  |  |  | informações para anuência de órgão metropolitano para parcelamento do |
+|  |  |  |  |  |  | solo. |
+|  |  | d | Análise de baixa complexidade para | expediente | 88 | Solicitação de poda, supressão ou transplantio de árvore, análise de |
+|  |  |  | intervenção em arborização ou |  |  | pequenas intervenções em áreas ajardinadas. |
+|  |  |  | vegetação. |  |  |  |
+|  | 2 | a | Análise de norma de baixa | expediente | 44 | Norma, projeto ou proposição de lei, com duração máxima de 4 horas. |
+|  |  |  | complexidade. |  |  |  |
+|  |  | b | Análise de Transferência do Direito | expediente | 44 | Atividade de aplicação direta, conforme definição. |
+|  |  |  | de Construir ou Potencial |  |  |  |
+|  |  |  | Construtivo Adicional com emissão |  |  |  |
+|  |  |  | de laudo e consolidação de |  |  |  |
+|  |  |  | certidão. |  |  |  |
+|  |  | c | Emissão de parecer conclusivo sobre | expediente | 44 | Emissão de relatório dos atos administrativos constantes em processos |
+|  |  |  | andamento de processos. |  |  | relativos à fiscalização e a licenciamento. |
+|  |  |  |  | expediente | 44 | Relatório sobre situação do processo e pendências para atendimento à |
+|  |  |  |  |  |  | solicitação superior ou de outros órgãos. |
+|  |  | d | Relatório preliminar e preparação | expediente | 44 | Emissão de diretrizes para parcelamento do solo, incluindo relatório |
+|  |  |  | para reuniões de comissões ou grupo |  |  | preliminar e preparação do processo para avaliação da comissão. |
+|  |  |  | de trabalho, incluindo análise dos |  |  |  |
+|  |  |  | processos. |  |  |  |
+|  |  | e | Emissão de parecer de média | expediente | 44 | Pareceres relativos à aplicação da legislação urbanística demandados |
+|  |  |  | complexidade para subsidiar o Poder |  |  | pelas regionais. |
+|  |  |  | Público e Conselhos. |  |  |  |
+|  |  |  |  | expediente | 44 | Análise de processos ou projeto com 3 a 5hs de exame, com emissão de |
+|  |  |  |  |  |  | relatório para subsidiar parecer para fins de licenciamento ambiental. |
+|  |  |  |  | expediente | 44 | Parecer para subsidiar decisão sobre alienação de áreas públicas e |
+|  |  |  |  |  |  | mudança de destinação. |
+|  |  |  |  | expediente | 44 | Relatórios com tempo máximo de execução de 4 horas. |
+|  |  |  |  | expediente | 44 | Relatório de orientação técnica para subsidiar ações de fiscalização. |
+|  |  |  |  | expediente | 44 | Parecer para subsidiar emissão de voto por relator dos Conselhos |
+|  |  |  |  |  |  | relativo a concessão de ALF, alteração pontual de zoneamento ou |
+|  |  |  |  |  |  | reclassificação viária. |
+|  |  | f | Resposta oficial de média | expediente | 44 | Execução de resposta com duração acima de 2 e até 4 horas. |
+|  |  |  | complexidade. |  |  |  |
+| I – | 3 | a | Análise de norma de média | expediente | 22 | Norma, projeto ou proposição de lei, com duração acima de 4 e até 8 |
+| PARECER |  |  | complexidade. |  |  | horas. |
+| TÉCNICO |  |  |  |  |  |  |
+| CONCLUSIVO |  |  |  |  |  |  |
+|  |  |  |  | expediente | 22 | Análise parcial de código de obras, plano diretor, LPOUS ou de |
+|  |  |  |  |  |  | legislação de complexidade semelhante, por designação superior. |
+|  |  | b | Avaliação do grau de proteção | expediente | 22 | Atividade de aplicação direta, conforme definição. |
+|  |  |  | histórico-cultural de imóvel, |  |  |  |
+|  |  |  | incluindo vistoria, cadastro de |  |  |  |
+|  |  |  | informações e edição da Carta de |  |  |  |
+|  |  |  | Grau de Proteção. |  |  |  |
+|  |  | c | Resposta oficial de alta | expediente | 22 | Execução de resposta com duração acima de 4 e até 8 horas. |
+|  |  |  | complexidade. |  |  |  |
+|  |  | d | Análise de licenciamento ambiental | expediente | 22 | Atividade de aplicação direta, conforme definição. |
+|  |  |  | de Estação de Radiobase, fase de |  |  |  |
+|  |  |  | Licença de Operação (exceto Licença |  |  |  |
+|  |  |  | de Operação de Adequação e Licença |  |  |  |
+|  |  |  | de Operação Corretiva). |  |  |  |
+|  |  | e | Análise de plano, programa, projeto | expediente | 22 | Estudos e projetos quanto ao aproveitamento do terreno, viabilidade |
+|  |  |  | ou estudo de média complexidade |  |  | funcional, parâmetros urbanísticos e ambientais. |
+|  |  |  |  | expediente | 22 | Análise para subsidiar intervenção física em conjuntos habitacionais. |
+|  |  |  |  | expediente | 22 | Análise de plano, programa, projeto ou estudo de caráter ambiental. |
+|  |  |  |  | expediente | 22 | Análise de projeto de infraestrutura urbana. |
+|  |  |  |  | expediente | 22 | Análise ou reavaliação de projetos arquitetônicos ou complementares. |
+|  |  | f | Análise de solicitação de | expediente | 22 | Atividade de aplicação direta, conforme definição. |
+|  |  |  | transformação de área particular em |  |  |  |
+|  |  |  | Reserva Particular Ecológica. |  |  |  |
+|  |  | g | Emissão de parecer de alta | expediente | 22 | Análise de processos e emissão de parecer, para subsidiar decisão de |
+|  |  |  | complexidade para subsidiar o Poder |  |  | conselho, quando ocupante do cargo de membro de conselho municipal. |
+|  |  |  | Público e Conselhos. |  |  |  |
+|  |  |  |  | expediente | 22 | Análise de processos ou projetos com 6 a 8hs de exame, com emissão de |
+|  |  |  |  |  |  | relatório para subsidiar parecer para fins de licenciamento ambiental. |
+|  |  |  |  | expediente | 22 | Análise de processos e emissão de parecer, para subsidiar decisão da |
+|  |  |  |  |  |  | junta de recursos fiscais, quando ocupante do cargo de membro da junta. |
+|  |  |  |  | expediente | 22 | Análise de proposta de intervenção prevista nas deliberações normativas |
+|  |  |  |  |  |  | do COMAM. |
+|  |  |  |  | expediente | 22 | Monitoramento do cumprimento de condicionantes ambientais com tempo de |
+|  |  |  |  |  |  | vistoria de até 3 horas. |
+|  |  |  |  | expediente | 22 | Emissão de parecer conclusivo sobre andamento de processos de |
+|  |  |  |  |  |  | licenciamento ambiental, procedimento corretivo e fiscalização |
+|  |  |  |  |  |  | ambiental. |
+|  |  |  |  | expediente | 22 | Emissão de parecer de conformidade urbanística para fins de |
+|  |  |  |  |  |  | licenciamento ambiental. |
+|  |  |  |  | expediente | 22 | Análise de defesa contra Auto de Infração Ambiental, com duração acima |
+|  |  |  |  |  |  | de 4 e até 8 horas. |
+|  |  |  |  | expediente | 22 | Análise de solicitação ou recurso para laudo emitido para parcelamento |
+|  |  |  |  |  |  | do solo, com duração de até 8 horas. |
+|  |  |  |  | expediente | 22 | Análise relativa à questão ambiental, incluindo vistoria. |
+|  |  |  |  | expediente | 22 | Análise de defesa contra Auto de Infração Ambiental. |
+|  |  |  |  | expediente | 22 | Análise relativa à questão ambiental, incluindo vistoria. |
+|  |  |  |  | expediente | 22 | Relatórios com tempo máximo de execução e entre 4 e 8 horas. |
 
 ANEXO II
 
 SUPERAÇÃO DAS METAS DE OTIMIZAÇÃO DOS SERVIÇOS PÚBLICOS DE ENGENHARIA E ARQUITETURA
 
-|Órgão |Produtos |Meta |
-
-| |Regularização de edificação ex-officio |30 dias |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-|SMARU | | |
-
-| |Aprovação de desmembramento e modificação de |99 dias |
-
-| |parcelamento do solo | |
-
-| |Aprovação de edificação |84 dias |
-
-| |Alvará de localização e funcionamento sem parecer |11 dias |
-
-| |ambiental | |
-
-| |Alvará de localização e funcionamento com parecer |39 dias |
-
-| |ambiental | |
-
-| |Baixa de construção e Habite-se sem pendência |16 dias |
-
-| |Baixa de construção e Habite-se com pendência |53 dias |
-
-| |Licenciamento Ambiental – LI, LO, ZPAM, ZPI e APP |60 dias |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-|SMAMA | | |
-
-| |Licenciamento Ambiental – LP |120 dias |
-
-| |Parecer ambiental para ALF |28 dias |
-
-| |Parecer ambiental para construção |10 dias |
-
-| |Licenciamento para Movimentação de terra |15 dias |
-
-| |Licenciamento para intervenção em vegetação |15 dias |
-
-| |Licenciamento da DN 41 |15 dias |
-
-| |Conclusão de análise para encaminhamento ao COMPUR |30 dias |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-|SMURBE | | |
-
-| |Acompanhamento de plano, projeto ou obra |Redução de 10% do prazo do |
-
-| | |cronograma pré-programado |
-
-| |Elaboração de plano, projeto, mapa ou estudo |Redução de 10% do prazo do |
-
-| | |cronograma pré-programado |
-
-| |Acompanhamento de plano, projeto ou obra |Redução de 10% do prazo do |
-
-| | |cronograma pré-programado |
-
-| | | |
-
-|SMPL | | |
-
-| |Elaboração de plano, projeto, mapa ou estudo |Redução de 10% do prazo do |
-
-| | |cronograma pré-programado |
-
-| |Parecer Técnico – Projetos |20 dias |
-
-| | | |
-
-|SMAHAB | | |
-
-| |Parecer Técnico – Manutenção |20 dias |
-
-| |Acompanhamento de obras licitadas |Redução de 10% do prazo do |
-
-| | |cronograma pré-programado |
-
-|SARMUs e SARSUs|Atendimento às demandas do Disque Tapa Buraco |5 dias |
-
-| |Limpeza de Bocas de Lobo |40% do total da Regional/mês |
-
-| |Atendimento aos próprios municipais |30% do total da Regional/mês |
-
-| |Vistoria técnica para intervenção em arborização, em |15 dias |
-
-| |atendimento às demandas do SAC | |
+| Órgão | Produtos | Meta |
+| --- | --- | --- |
+|  | Regularização de edificação ex-officio | 30 dias |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| SMARU |  |  |
+|  | Aprovação de desmembramento e modificação de | 99 dias |
+|  | parcelamento do solo |  |
+|  | Aprovação de edificação | 84 dias |
+|  | Alvará de localização e funcionamento sem parecer | 11 dias |
+|  | ambiental |  |
+|  | Alvará de localização e funcionamento com parecer | 39 dias |
+|  | ambiental |  |
+|  | Baixa de construção e Habite-se sem pendência | 16 dias |
+|  | Baixa de construção e Habite-se com pendência | 53 dias |
+|  | Licenciamento Ambiental – LI, LO, ZPAM, ZPI e APP | 60 dias |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| SMAMA |  |  |
+|  | Licenciamento Ambiental – LP | 120 dias |
+|  | Parecer ambiental para ALF | 28 dias |
+|  | Parecer ambiental para construção | 10 dias |
+|  | Licenciamento para Movimentação de terra | 15 dias |
+|  | Licenciamento para intervenção em vegetação | 15 dias |
+|  | Licenciamento da DN 41 | 15 dias |
+|  | Conclusão de análise para encaminhamento ao COMPUR | 30 dias |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| SMURBE |  |  |
+|  | Acompanhamento de plano, projeto ou obra | Redução de 10% do prazo do |
+|  |  | cronograma pré-programado |
+|  | Elaboração de plano, projeto, mapa ou estudo | Redução de 10% do prazo do |
+|  |  | cronograma pré-programado |
+|  | Acompanhamento de plano, projeto ou obra | Redução de 10% do prazo do |
+|  |  | cronograma pré-programado |
+|  |  |  |
+| SMPL |  |  |
+|  | Elaboração de plano, projeto, mapa ou estudo | Redução de 10% do prazo do |
+|  |  | cronograma pré-programado |
+|  | Parecer Técnico – Projetos | 20 dias |
+|  |  |  |
+| SMAHAB |  |  |
+|  | Parecer Técnico – Manutenção | 20 dias |
+|  | Acompanhamento de obras licitadas | Redução de 10% do prazo do |
+|  |  | cronograma pré-programado |
+| SARMUs e SARSUs | Atendimento às demandas do Disque Tapa Buraco | 5 dias |
+|  | Limpeza de Bocas de Lobo | 40% do total da Regional/mês |
+|  | Atendimento aos próprios municipais | 30% do total da Regional/mês |
+|  | Vistoria técnica para intervenção em arborização, em | 15 dias |
+|  | atendimento às demandas do SAC |  |
 
 ANEXO II
 
@@ -616,73 +452,41 @@ SUPERAÇÃO DAS METAS DE OTIMIZAÇÃO DOS SERVIÇOS PÚBLICOS DE ENGENHARIA E AR
 
 Anexo II com redação dada pelo Decreto nº 14.415, de 12/5/2011 (Art. 6º)
 
-|Órgão |Produtos |Meta |
-
-|SMARU |Regularização de edificação ex-officio |30 dias |
-
-| |Aprovação de desmembramento e modificação de parcelamento do solo |99 dias |
-
-| |Aprovação de edificação |84 dias |
-
-| |Alvará de localização e funcionamento sem parecer ambiental |11 dias |
-
-| |Alvará de localização e funcionamento com parecer ambiental |39 dias |
-
-| |Baixa de construção e Habite-se sem pendência |16 dias |
-
-| |Baixa de construção e Habite-se com pendência |53 dias |
-
-|SMMA |Licenciamento Ambiental - LI, LO, ZPAM, ZPI e APP |60 dias |
-
-| |Licenciamento Ambiental - LP |120 dias |
-
-| |Parecer ambiental para ALF |28 dias |
-
-| |Parecer ambiental para construção |10 dias |
-
-| |Licenciamento para Movimentação de terra |15 dias |
-
-| |Licenciamento para intervenção em vegetação |15 dias |
-
-| |Licenciamento da DN 41 |15 dias |
-
-|SMAPU |Conclusão de análise para encaminhamento ao COMPUR |30 dias |
-
-|SMOI | | |
-
-|SMAPC | | |
-
-| |Acompanhamento de plano, projeto ou obra |Redução de 10% do prazo do |
-
-| | |cronograma pré-programado |
-
-| |Elaboração de plano, projeto, mapa ou estudo |Redução de 10% do prazo do |
-
-| | |cronograma pré-programado |
-
-| |Parecer Técnico - Projetos |20 dias |
-
-| |Parecer Técnico - Manutenção |20 dias |
-
-| |Acompanhamento de obras licitadas |Redução de 10% do prazo do |
-
-| | |cronograma pré-programado |
-
-|SMPL |Acompanhamento de plano, projeto ou obra |Redução de 10% do prazo do |
-
-| | |cronograma pré-programado |
-
-| |Elaboração de plano, projeto, mapa ou estudo |Redução de 10% do prazo do |
-
-| | |cronograma pré-programado |
-
-|SARMUs |Atendimento às demandas do Disque Tapa Buraco |5 dias |
-
-| |Limpeza de Bocas de Lobo |40% do total da Regional/mês |
-
-| |Atendimento aos próprios municipais |30% do total da Regional/mês |
-
-| |Vistoria técnica para intervenção em arborização, em atendimento às demandas do SAC |15 dias |
+| Órgão | Produtos | Meta |
+| --- | --- | --- |
+| SMARU | Regularização de edificação ex-officio | 30 dias |
+|  | Aprovação de desmembramento e modificação de parcelamento do solo | 99 dias |
+|  | Aprovação de edificação | 84 dias |
+|  | Alvará de localização e funcionamento sem parecer ambiental | 11 dias |
+|  | Alvará de localização e funcionamento com parecer ambiental | 39 dias |
+|  | Baixa de construção e Habite-se sem pendência | 16 dias |
+|  | Baixa de construção e Habite-se com pendência | 53 dias |
+| SMMA | Licenciamento Ambiental - LI, LO, ZPAM, ZPI e APP | 60 dias |
+|  | Licenciamento Ambiental - LP | 120 dias |
+|  | Parecer ambiental para ALF | 28 dias |
+|  | Parecer ambiental para construção | 10 dias |
+|  | Licenciamento para Movimentação de terra | 15 dias |
+|  | Licenciamento para intervenção em vegetação | 15 dias |
+|  | Licenciamento da DN 41 | 15 dias |
+| SMAPU | Conclusão de análise para encaminhamento ao COMPUR | 30 dias |
+| SMOI |  |  |
+| SMAPC |  |  |
+|  | Acompanhamento de plano, projeto ou obra | Redução de 10% do prazo do |
+|  |  | cronograma pré-programado |
+|  | Elaboração de plano, projeto, mapa ou estudo | Redução de 10% do prazo do |
+|  |  | cronograma pré-programado |
+|  | Parecer Técnico - Projetos | 20 dias |
+|  | Parecer Técnico - Manutenção | 20 dias |
+|  | Acompanhamento de obras licitadas | Redução de 10% do prazo do |
+|  |  | cronograma pré-programado |
+| SMPL | Acompanhamento de plano, projeto ou obra | Redução de 10% do prazo do |
+|  |  | cronograma pré-programado |
+|  | Elaboração de plano, projeto, mapa ou estudo | Redução de 10% do prazo do |
+|  |  | cronograma pré-programado |
+| SARMUs | Atendimento às demandas do Disque Tapa Buraco | 5 dias |
+|  | Limpeza de Bocas de Lobo | 40% do total da Regional/mês |
+|  | Atendimento aos próprios municipais | 30% do total da Regional/mês |
+|  | Vistoria técnica para intervenção em arborização, em atendimento às demandas do SAC | 15 dias |
 
 ## Observações da CMBH
 

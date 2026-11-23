@@ -58,107 +58,61 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do |R$ |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.302.085.2.605.3390.0000 |165.000,00 |
-
-|0604.19.572.085.2.602.3390.0000 |1.818,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.122.140.2.317.4490.0000 |20.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.233.2.811.3390.0000 |76.497,38 |
-
-|2700.04.122.233.1.219.3390.0000 |140.000,00 |
-
-|2700.15.452.057.2.770.3390.0000 |200.000,00 |
-
-|2700.17.512.066.1.400.4491.0030 |6.000.000,00 |
-
-|TOTAL |6.603.315,38 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no inciso I do |R$ |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.085.2.602.3190.0000 |1.000.000,00 |
-
-|TOTAL |1.000.000,00 |
-
-|I.1.3 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida |R$ |
-
-|no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2302.10.302.114.2.894.3390.0000 |2.853.981,96 |
-
-|2302.10.302.114.2.894.3391.0000 |146.018,04 |
-
-|TOTAL |3.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |10.603.315,38 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do | R$ |
+| --- | --- |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.302.085.2.605.3390.0000 | 165.000,00 |
+| 0604.19.572.085.2.602.3390.0000 | 1.818,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.122.140.2.317.4490.0000 | 20.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.233.2.811.3390.0000 | 76.497,38 |
+| 2700.04.122.233.1.219.3390.0000 | 140.000,00 |
+| 2700.15.452.057.2.770.3390.0000 | 200.000,00 |
+| 2700.17.512.066.1.400.4491.0030 | 6.000.000,00 |
+| TOTAL | 6.603.315,38 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no inciso I do | R$ |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.085.2.602.3190.0000 | 1.000.000,00 |
+| TOTAL | 1.000.000,00 |
+| I.1.3 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida | R$ |
+| no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2302.10.302.114.2.894.3390.0000 | 2.853.981,96 |
+| 2302.10.302.114.2.894.3391.0000 | 146.018,04 |
+| TOTAL | 3.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 10.603.315,38 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação |R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.122.140.2.317.4490.0000 |20.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.062.1.330.4490.0030 |3.000.000,00 |
-
-|2700.17.512.066.1.203.4490.0000 |340.000,00 |
-
-|2700.17.512.066.1.400.4490.0030 |3.000.000,00 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.04.122.233.1.219.4490.0000 |76.497,38 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.141.2.852.3390.0000 |1.818,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.126.117.2.662.3390.0000 |165.000,00 |
-
-|TOTAL |6.603.315,38 |
-
-|I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.085.2.603.3190.0000 |1.000.000,00 |
-
-|TOTAL |1.000.000,00 |
-
-|I.2.3 – Em contrapartida às suplementações relacionadas no item I.1.3, anulação |R$ |
-
-|de recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde – | |
-
-|FMS: | |
-
-|2302.10.122.117.2.662.3190.0000 |3.000.000,00 |
-
-|TOTAL |3.000.000,00 |
-
-|TOTAL DA ANULAÇÃO |10.603.315,38 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.122.140.2.317.4490.0000 | 20.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.062.1.330.4490.0030 | 3.000.000,00 |
+| 2700.17.512.066.1.203.4490.0000 | 340.000,00 |
+| 2700.17.512.066.1.400.4490.0030 | 3.000.000,00 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.04.122.233.1.219.4490.0000 | 76.497,38 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.141.2.852.3390.0000 | 1.818,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.126.117.2.662.3390.0000 | 165.000,00 |
+| TOTAL | 6.603.315,38 |
+| I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.085.2.603.3190.0000 | 1.000.000,00 |
+| TOTAL | 1.000.000,00 |
+| I.2.3 – Em contrapartida às suplementações relacionadas no item I.1.3, anulação | R$ |
+| de recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde – |  |
+| FMS: |  |
+| 2302.10.122.117.2.662.3190.0000 | 3.000.000,00 |
+| TOTAL | 3.000.000,00 |
+| TOTAL DA ANULAÇÃO | 10.603.315,38 |
 
 ANEXO II
 
@@ -200,36 +154,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do art. |Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|4º, limite de 15% do |4º, limite de 15% do total |
-
-|– Limites autorizados |Orçamento: |total do Orçamento do |do Orçamento do Fundo |
-
-|para abertura de | |Grupo 1 – Pessoal e |Municipal de Saúde – FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.021.008.199,99 |R$ 210.682.068,88 |R$ 536.056.978,14 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 1.280.142.485,66 |R$ 673.310.239,82 |R$ 191.160.174,51 |
-
-|suplementares | | | |
-
-|Percentual utilizado |44,37% |23,83% |73,71% |
-
-|Atualizado em 08/11/2022 às 16:38:02 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do art. | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | 4º, limite de 15% do | 4º, limite de 15% do total |
+| – Limites autorizados | Orçamento: | total do Orçamento do | do Orçamento do Fundo |
+| para abertura de |  | Grupo 1 – Pessoal e | Municipal de Saúde – FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.021.008.199,99 | R$ 210.682.068,88 | R$ 536.056.978,14 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 1.280.142.485,66 | R$ 673.310.239,82 | R$ 191.160.174,51 |
+| suplementares |  |  |  |
+| Percentual utilizado | 44,37% | 23,83% | 73,71% |
+| Atualizado em 08/11/2022 às 16:38:02 |  |  |  |

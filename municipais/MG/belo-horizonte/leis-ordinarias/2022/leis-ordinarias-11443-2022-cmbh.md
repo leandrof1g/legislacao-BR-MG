@@ -44,15 +44,15 @@ Programa: 0233 - MANUTENÇÃO DA CIDADE
 
 Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS E CANTEIROS
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |3.000.000,00 |3.000.000,00 |3.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 3.000.000,00 | 3.000.000,00 | 3.000.000,00 |
 
 Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS E CANTEIROS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |5 |8 |8 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 5 | 8 | 8 |
 
 Produto: PRAÇA E CANTEIRO EXECUTADOS
 
@@ -70,9 +70,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |3.000.000,00 |3.000.000,00 |3.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 3.000.000,00 | 3.000.000,00 | 3.000.000,00 |
 
 2)
 
@@ -84,15 +84,15 @@ Programa: 0059 - COORDENAÇÃO DA POLÍTICA URBANA
 
 Ação: 2566 - PLANEJAMENTO E DESENVOLVIMENTO URBANO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |1.500.000,00 |1.500.000,00 |1.500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.500.000,00 | 1.500.000,00 | 1.500.000,00 |
 
 Subação: 0011 - JARDINS DE CHUVA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |10 |10 |10 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 10 | 10 | 10 |
 
 Produto: JARDIM DE CHUVA IMPLANTADO
 
@@ -110,9 +110,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |1.500.000,00 |1.500.000,00 |1.500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.500.000,00 | 1.500.000,00 | 1.500.000,00 |
 
 3)
 
@@ -124,15 +124,15 @@ Programa: 0237 - QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
 
 Ação: 2404 - AÇÕES DE QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |300.000,00 |300.000,00 |300.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 300.000,00 | 300.000,00 | 300.000,00 |
 
 Subação: 0001 - CURSOS DE QUALIFICAÇÃO PARA O TRABALHO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |100 |100 |100 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 100 | 100 | 100 |
 
 Produto: VAGA DISPONIBILIZADA
 
@@ -150,9 +150,9 @@ Ação: 2584 - APOIO OPERACIONAL AOS INVESTIMENTOS MUNICIPAIS
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |300.000,00 |300.000,00 |300.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 300.000,00 | 300.000,00 | 300.000,00 |
 
 4)
 
@@ -164,15 +164,15 @@ Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
 
 Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |600.000,00 |600.000,00 |600.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 600.000,00 | 600.000,00 | 600.000,00 |
 
 Subação: 0012 - E. I. CONSTRUÇÃO E IMPLANTAÇÃO DE TELHADOS VERDES NAS UNIDADES DE ENSINO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1.100 |1.100 |1.100 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1.100 | 1.100 | 1.100 |
 
 Produto: TELHADO VERDE IMPLANTADO
 
@@ -190,9 +190,9 @@ Ação: 1230 - IMPLANTAÇÃO E RECONSTRUÇÃO DE VIAS PÚBLICAS
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |600.000,00 |600.000,00 |600.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 600.000,00 | 600.000,00 | 600.000,00 |
 
 5)
 
@@ -204,15 +204,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2041 - FORMAÇÃO PARA PROFISSIONAIS DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |800.000,00 |800.000,00 |800.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 800.000,00 | 800.000,00 | 800.000,00 |
 
 Subação: 0002 - FORMAÇÃO DE PROFESSORES
 
-|2022 |2023 |2024 |2025 |
-
-|0 |650 |650 |650 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 650 | 650 | 650 |
 
 Produto: PARTICIPAÇÃO
 
@@ -230,9 +230,9 @@ Ação: 1230 - IMPLANTAÇÃO E RECONSTRUÇÃO DE VIAS PÚBLICAS
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |800.000,00 |800.000,00 |800.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 800.000,00 | 800.000,00 | 800.000,00 |
 
 6)
 
@@ -244,15 +244,15 @@ Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
 
 Ação: 2891 - REDE ESPECIALIZADA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |3.166.000,00 |3.166.000,00 |3.166.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 3.166.000,00 | 3.166.000,00 | 3.166.000,00 |
 
 Subação: 0001 - ATENDIMENTO DA POPULAÇÃO NA REDE ESPECIALIZADA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |100.000 |100.000 |100.000 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 100.000 | 100.000 | 100.000 |
 
 Produto: PROCEDIMENTO REALIZADO
 
@@ -270,9 +270,9 @@ Ação: 2890 - FISCALIZAÇÃO URBANO-AMBIENTAL
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |3.166.000,00 |3.166.000,00 |3.166.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 3.166.000,00 | 3.166.000,00 | 3.166.000,00 |
 
 7)
 
@@ -284,15 +284,15 @@ Programa: 0154 - PROMOÇÃO E ACESSO ÀS ARTES E À CULTURA
 
 Ação: 2371 - DEMOCRATIZAÇÃO DAS ARTES E DAS CULTURAS
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |500.000,00 |500.000,00 |500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 500.000,00 | 500.000,00 | 500.000,00 |
 
 Subação: FESTIVAL DE ARTE E SAÚDE MENTAL
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |1 |1 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 1 | 1 |
 
 Produto: EVENTO REALIZADO
 
@@ -310,9 +310,9 @@ Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS E CANTEIROS
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |500.000,00 |500.000,00 |500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 500.000,00 | 500.000,00 | 500.000,00 |
 
 8)
 
@@ -324,15 +324,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2702 - GESTÃO DA EDUCAÇÃO INTEGRAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |95.360,00 |277.098,00 |491.513,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 95.360,00 | 277.098,00 | 491.513,00 |
 
 Subação: 0003 - ATENDIMENTO EDUCACIONAL INTEGRADO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |3.321 |10.720 |20.210 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 3.321 | 10.720 | 20.210 |
 
 Produto: ALUNO BENEFICIADO
 
@@ -350,9 +350,9 @@ Ação: 2770 - GESTÃO SUPERIOR DE POLÍTICAS URBANAS
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |95.360,00 |277.098,00 |491.513,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 95.360,00 | 277.098,00 | 491.513,00 |
 
 9)
 
@@ -364,15 +364,15 @@ Programa: 0012 - GESTÃO DO SISTEMA DE CONTROLE INTERNO
 
 Ação: 2874 - ATIVIDADES DE INTEGRIDADE E TRANSPARÊNCIA DA GESTÃO PÚBLICA MUNICIPAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |13.500,00 |15.750,00 |18.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 13.500,00 | 15.750,00 | 18.000,00 |
 
 Subação: 0013 - PROGRAMA DE FOMENTO À INTEGRIDADE MUNICIPAL
 
-|2022 |2023 |2024 |2025 |
-
-|0 |10 |20 |30 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 10 | 20 | 30 |
 
 Produto: ETAPA IMPLANTADA
 
@@ -390,9 +390,9 @@ Ação: 1323 - PROMOÇÃO DA EFICIÊNCIA ADMINISTRATIVA
 
 Unidade orçamentária: 0600 - SECRETARIA MUNICIPAL DE PLANEJAMENTO, ORÇAMENTO E GESTÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |13.500,00 |15.750,00 |18.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 13.500,00 | 15.750,00 | 18.000,00 |
 
 10)
 
@@ -404,15 +404,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2706 - MELHORIA DA APRENDIZAGEM E DA AVALIAÇÃO DE DESEMPENHO ESCOLAR
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |260.000,00 |260.000,00 |260.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 260.000,00 | 260.000,00 | 260.000,00 |
 
 Subação: IMPLEMENTAÇÃO DE PROJETOS DE REFORÇO ESCOLAR
 
-|2022 |2023 |2024 |2025 |
-
-|0 |2.000 |2.000 |2.000 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 2.000 | 2.000 | 2.000 |
 
 Produto: ALUNO BENEFICIADO
 
@@ -430,9 +430,9 @@ Ação: 1330 - OBRAS ESTRUTURANTES DO SISTEMA VIÁRIO
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |260.000,00 |260.000,00 |260.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 260.000,00 | 260.000,00 | 260.000,00 |
 
 11)
 
@@ -444,15 +444,15 @@ Programa: 0086 - FOMENTO AO TURISMO DE LAZER, EVENTOS E NEGÓCIOS
 
 Ação: 2914 - BELO HORIZONTE SURPREENDENTE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |149.458,00 |154.698,00 |159.542,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 149.458,00 | 154.698,00 | 159.542,00 |
 
 Subação: 0006 - MARKETING E PROMOÇÃO DO DESTINO BELO HORIZONTE
 
-|2022 |2023 |2024 |2025 |
-
-|0 |3 |3 |3 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 3 | 3 | 3 |
 
 Produto: AÇÃO REALIZADA
 
@@ -470,9 +470,9 @@ Ação: 2854 - PLANEJAMENTO E GESTÃO DA POLÍTICA URBANA
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |149.458,00 |154.698,00 |159.542,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 149.458,00 | 154.698,00 | 159.542,00 |
 
 12)
 
@@ -484,15 +484,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2080 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |75.000,00 |150.000,00 |225.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 75.000,00 | 150.000,00 | 225.000,00 |
 
 Subação: PROMOÇÃO DA SAÚDE MENTAL
 
-|2022 |2023 |2024 |2025 |
-
-|0 |50 |100 |150 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 50 | 100 | 150 |
 
 Produto: ESCOLA ATENDIDA
 
@@ -510,9 +510,9 @@ Ação: 1396 - INFRAESTRUTURA URBANA
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |75.000,00 |150.000,00 |225.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 75.000,00 | 150.000,00 | 225.000,00 |
 
 13)
 
@@ -524,15 +524,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2080 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |35.000,00 |35.000,00 |35.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 35.000,00 | 35.000,00 | 35.000,00 |
 
 Subação: COMBATE AO ABANDONO E À EVASÃO ESCOLAR
 
-|2022 |2023 |2024 |2025 |
-
-|0 |40 |40 |40 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 40 | 40 | 40 |
 
 Produto: MATRÍCULA RECUPERADA
 
@@ -550,9 +550,9 @@ Ação: 1330 - OBRAS ESTRUTURANTES DO SISTEMA VIÁRIO
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |35.000,00 |35.000,00 |35.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 35.000,00 | 35.000,00 | 35.000,00 |
 
 14)
 
@@ -564,15 +564,15 @@ Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
 
 Ação: 1215 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE CULTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: CONSTRUÇÃO DO CENTRO DE REFERÊNCIA DA CULTURA INDÍGENA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: UNIDADE DE CULTURA CONSTRUÍDA
 
@@ -590,9 +590,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 15) VETADO
 
@@ -606,15 +606,15 @@ Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
 
 Ação: 2928 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS PESSOAS LGBT
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |50.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. PROMOÇÃO DA CIDADANIA DA POPULAÇÃO LGBT
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: EVENTO PROMOVIDO
 
@@ -632,9 +632,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |50.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 0,00 | 0,00 |
 
 17)
 
@@ -646,15 +646,15 @@ Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
 
 Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. REFORÇO DE DOTAÇÃO ORÇAMENTÁRIA PARA O CENTRO DE SAÚDE VENTOSA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: META ADMINISTRATIVA
 
@@ -672,9 +672,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 18)
 
@@ -686,15 +686,15 @@ Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
 
 Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. REFORÇO DE DOTAÇÃO ORÇAMENTÁRIA AO CENTRO DE SAÚDE JARDIM FELICIDADE
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: META ADMINISTRATIVA
 
@@ -712,9 +712,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 19)
 
@@ -726,15 +726,15 @@ Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
 
 Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |200.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 200.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. REFORÇO DE DOTAÇÃO ORÇAMENTÁRIA PARA O CENTRO DE SAÚDE SÃO MARCOS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: META ADMINISTRATIVA
 
@@ -752,9 +752,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |200.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 200.000,00 | 0,00 | 0,00 |
 
 20)
 
@@ -766,15 +766,15 @@ Programa: 0117 - GESTÃO DO SUS
 
 Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |200.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 200.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. CONSTRUÇÃO, REFORMA E AMPLIAÇÃO DO CENTRO DE SAÚDE CAFEZAL
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: META ADMINISTRATIVA
 
@@ -792,9 +792,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |200.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 200.000,00 | 0,00 | 0,00 |
 
 21)
 
@@ -806,15 +806,15 @@ Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
 
 Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. REFORÇO ORÇAMENTÁRIO AO CENTRO DE SAÚDE PRIMEIRO DE MAIO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: META ADMINISTRATIVA
 
@@ -832,9 +832,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 22)
 
@@ -846,15 +846,15 @@ Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
 
 Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. REFORÇO DE DOTAÇÃO ORÇAMENTÁRIA PARA O CENTRO DE SAÚDE JOÃO PINHEIRO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: META ADMINISTRATIVA
 
@@ -872,9 +872,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 23)
 
@@ -886,15 +886,15 @@ Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
 
 Ação: 2894 - REDE HOSPITALAR
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |150.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 150.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. RECURSO PARA CUSTEIO DO HOSPITAL SOFIA FELDMAN
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: META ADMINISTRATIVA
 
@@ -912,9 +912,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |150.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 150.000,00 | 0,00 | 0,00 |
 
 24)
 
@@ -926,15 +926,15 @@ Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
 
 Ação: 2894 - REDE HOSPITALAR
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |150.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 150.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. REFORÇO DE DOTAÇÃO ORÇAMENTÁRIA AO HOSPITAL ODILON BEHRENS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: META ADMINISTRATIVA
 
@@ -952,9 +952,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |150.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 150.000,00 | 0,00 | 0,00 |
 
 25)
 
@@ -966,15 +966,15 @@ Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
 
 Ação: 2386 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DE REPARAÇÃO E IGUALDADE RACIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. GERAÇÃO DE RENDA PARA POTMA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: PROJETO GERADO
 
@@ -992,9 +992,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 26)
 
@@ -1006,15 +1006,15 @@ Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
 
 Ação: 2386 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DE REPARAÇÃO E IGUALDADE RACIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |50.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. DIAGNÓSTICO DE UNIDADES TERRITORIAIS TRADICIONAIS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: DIAGNÓSTICO REALIZADO
 
@@ -1032,9 +1032,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |50.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 0,00 | 0,00 |
 
 27)
 
@@ -1046,15 +1046,15 @@ Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
 
 Ação: 2928 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS PESSOAS LGBT
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |93.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 93.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. PROFISSIONALIZAÇÃO DO PÚBLICO LGBTQIANP+ ATENDIDO PELA CASA DE ACOLHIMENTO LGBT
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: CASA ATENDIDA
 
@@ -1072,9 +1072,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |93.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 93.000,00 | 0,00 | 0,00 |
 
 28)
 
@@ -1086,15 +1086,15 @@ Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
 
 Ação: 2819 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS JUVENTUDES
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |93.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 93.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. FORMAÇÃO ARTÍSTICA E MUSICAL PARA JOVENS – CRJ
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: PROCESSO FORMATIVO
 
@@ -1112,9 +1112,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |93.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 93.000,00 | 0,00 | 0,00 |
 
 29)
 
@@ -1126,15 +1126,15 @@ Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
 
 Ação: 2891 - REDE ESPECIALIZADA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |200.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 200.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. MOBILIÁRIO PARA RESIDÊNCIAS TERAPÊUTICAS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |5 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 5 | 0 | 0 |
 
 Produto: RESIDÊNCIA EQUIPADA
 
@@ -1152,9 +1152,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |200.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 200.000,00 | 0,00 | 0,00 |
 
 30)
 
@@ -1166,15 +1166,15 @@ Programa: 0146 - GESTÃO DA POLÍTICA MUNICIPAL DE CULTURA
 
 Ação: 2906 - REQUALIFICAÇÃO DE UNIDADES E ESPAÇOS CULTURAIS
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |60.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 60.000,00 | 0,00 | 0,00 |
 
 Subação: 0001 - GERENCIAMENTO DE INFRAESTRUTURA, QUALIFICAÇÃO E ACESSIBILIDADE DAS UNIDADES E ESPAÇOS CULTURAIS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: SERVIÇO ADMINISTRATIVO
 
@@ -1192,9 +1192,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |60.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 60.000,00 | 0,00 | 0,00 |
 
 31)
 
@@ -1206,15 +1206,15 @@ Programa: 0157 - ATENÇÃO PRIMÁRIA À SAÚDE
 
 Ação: 2690 - ATENÇÃO PRIMÁRIA À SAÚDE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. IMPLANTAÇÃO DE ACADEMIA DA CIDADE EM LOCAIS ESPECIFICADOS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: ACADEMIA IMPLANTADA
 
@@ -1232,9 +1232,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 32)
 
@@ -1246,15 +1246,15 @@ Programa: 0113 - APRIMORAMENTO DA GESTÃO DO SUAS
 
 Ação: 2350 - VIGILÂNCIA SOCIOASSISTENCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |200.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 200.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. DESCENTRALIZAÇÃO DA VIGILÂNCIA SOCIOASSISTENCIAL DAS NOVE DRAS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |9 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 9 | 0 | 0 |
 
 Produto: DIRETORIA DESCENTRALIZADA
 
@@ -1272,9 +1272,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |200.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 200.000,00 | 0,00 | 0,00 |
 
 33)
 
@@ -1286,15 +1286,15 @@ Programa: 0117 - GESTÃO DO SUS
 
 Ação: 1216 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE SAÚDE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE CENTROS DE SAÚDE - VILA SÃO JORGE
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: CENTRO REFORMADO
 
@@ -1312,9 +1312,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 34)
 
@@ -1326,15 +1326,15 @@ Programa: 0155 - MEMÓRIA E PATRIMÔNIO CULTURAL
 
 Ação: 2908 - PRESERVAÇÃO DO PATRIMÔNIO CULTURAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |40.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 40.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. DIAGNÓSTICO E DESENVOLVIMENTO DA DOCUMENTAÇÃO REFERENTE ÀS DOAÇÕES DE OBRAS DE ARTE
 
-|2022 |2023 |2024 |2025 |
-
-|0 |40 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 40 | 0 | 0 |
 
 Produto: OBRA DOCUMENTADA
 
@@ -1352,9 +1352,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |40.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 40.000,00 | 0,00 | 0,00 |
 
 35)
 
@@ -1366,15 +1366,15 @@ Programa: 0228 - COLETA, DESTINAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS
 
 Ação: 2537 - TRATAMENTO E DESTINAÇÃO DE RESÍDUOS SÓLIDOS
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: 0017 - E. I. PROJETO RECICLAGEM EM VILAS E FAVELAS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: PONTO IMPLEMENTADO
 
@@ -1392,9 +1392,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 36)
 
@@ -1406,15 +1406,15 @@ Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
 
 Ação: 2840 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS MULHERES
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |120.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 120.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. ESTRUTURAÇÃO DA REDE MUNICIPAL DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHERES E MENINAS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: PROJETO ELABORADO
 
@@ -1432,9 +1432,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |120.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 120.000,00 | 0,00 | 0,00 |
 
 37)
 
@@ -1446,15 +1446,15 @@ Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
 
 Ação: 2840 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS MULHERES
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. DEFESA E GARANTIA DE DIREITOS DAS TRABALHADORAS SEXUAIS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: PROJETO ELABORADO
 
@@ -1472,9 +1472,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 38)
 
@@ -1486,15 +1486,15 @@ Programa: 0308 - BH CIDADE SUSTENTÁVEL: MOBILIZAR, EDUCAR E CULTIVAR ALIMENTAÇ
 
 Ação: 2121 - FORTALECIMENTO DA PRODUÇÃO DA AGRICULTURA URBANA AGROECOLÓGICA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |150.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 150.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. QUALIFICAÇÃO E FORMAÇÃO PARA ATENDER OS PÚBLICOS PRIORITÁRIOS DA POLÍTICA DE AGRICULTURA URBANA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: PROCESSO FORMATIVO
 
@@ -1512,9 +1512,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |150.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 150.000,00 | 0,00 | 0,00 |
 
 39)
 
@@ -1526,15 +1526,15 @@ Programa: 0019 - PROTEÇÃO SOCIAL BÁSICA
 
 Ação: 2308 - SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. ORGANIZAÇÃO DA SOCIEDADE CIVIL OBRA SOCIAL ITAKA-ESCOLAPIOS, PARA EXECUÇÃO DE PROJETOS E AÇÕES CONVENIADAS COM A PBH
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: PROJETO EXECUTADO
 
@@ -1552,9 +1552,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 40)
 
@@ -1566,15 +1566,15 @@ Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
 
 Ação: 2334 - PARTICIPAÇÃO POPULAR
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |24.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 24.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. REALIZAÇÃO DA 1ª CONFERÊNCIA MUNICIPAL DE MIGRANTES
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: CONFERÊNCIA REALIZADA
 
@@ -1592,9 +1592,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |24.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 24.000,00 | 0,00 | 0,00 |
 
 41)
 
@@ -1606,15 +1606,15 @@ Programa: 0113 - APRIMORAMENTO DA GESTÃO DO SUAS
 
 Ação: 2916 - GESTÃO DO TRABALHO E EDUCAÇÃO PERMANENTE DO SUAS
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |120.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 120.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. FORMAÇÃO/CAPACITAÇÃO PARA DISCUTIR A QUESTÃO ÉTNICO-RACIAL NA POLÍTICA DE ASSISTÊNCIA SOCIAL DO MUNICÍPIO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: PROCESSO FORMATIVO
 
@@ -1632,9 +1632,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |120.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 120.000,00 | 0,00 | 0,00 |
 
 42)
 
@@ -1646,15 +1646,15 @@ Programa: 0308 - BH CIDADE SUSTENTÁVEL: MOBILIZAR, EDUCAR E CULTIVAR ALIMENTAÇ
 
 Ação: 2923 - VALORIZAÇÃO DA GASTRONOMIA ARTICULADA À AGROECOLOGIA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: E. I. AQUISIÇÃO E INSTALAÇÃO DE EQUIPAMENTOS PARA O CRESAN
 
-|2022 |2023 |2024 |2025 |
-
-|0 |1 |0 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: CRESAN EQUIPADO
 
@@ -1672,9 +1672,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 **Art. 4º** - Esta lei entra em vigor na data de sua publicação.
 

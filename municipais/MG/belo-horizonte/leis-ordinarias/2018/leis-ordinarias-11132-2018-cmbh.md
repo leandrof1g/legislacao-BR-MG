@@ -338,43 +338,26 @@ ANEXO I
 
 Tabela de Vencimentos do Cargo de Bibliotecário Escolar
 
-|Bibliotecário Escolar |
-
-|Nível |Valores (em R$) |
-
-| |Pleno |Sênior |
-
-| |(40 horas) |(30 horas) |(40 horas) |(30 horas) |
-
-|1 |2.511,99 |1.716,72 |4.231,21 |2.891,67 |
-
-|2 |2.637,58 |1.802,56 |4.442,77 |3.036,25 |
-
-|3 |2.769,46 |1.892,69 |4.664,91 |3.188,06 |
-
-|4 |2.907,94 |1.987,32 |4.898,15 |3.347,46 |
-
-|5 |3.053,33 |2.086,69 |5.143,06 |3.514,84 |
-
-|6 |3.206,00 |2.191,02 |5.400,21 |3.690,58 |
-
-|7 |3.366,30 |2.300,58 |5.670,22 |3.875,11 |
-
-|8 |3.534,62 |2.415,60 |5.953,73 |4.068,86 |
-
-|9 |3.711,35 |2.536,38 |6.251,42 |4.272,31 |
-
-|10 |3.896,91 |2.663,20 |6.563,99 |4.485,92 |
-
-|11 |4.091,76 |2.796,36 |6.892,19 |4.710,22 |
-
-|12 |4.296,35 |2.936,18 |7.236,80 |4.945,73 |
-
-|13 |4.511,16 |3.082,99 |7.598,64 |5.193,02 |
-
-|14 |4.736,72 |3.237,14 |7.978,57 |5.452,67 |
-
-|15 |4.973,56 |3.399,00 |8.377,50 |5.725,30 |
+| Bibliotecário Escolar |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Nível | Valores (em R$) |  |  |  |
+|  | Pleno | Sênior |  |  |
+|  | (40 horas) | (30 horas) | (40 horas) | (30 horas) |
+| 1 | 2.511,99 | 1.716,72 | 4.231,21 | 2.891,67 |
+| 2 | 2.637,58 | 1.802,56 | 4.442,77 | 3.036,25 |
+| 3 | 2.769,46 | 1.892,69 | 4.664,91 | 3.188,06 |
+| 4 | 2.907,94 | 1.987,32 | 4.898,15 | 3.347,46 |
+| 5 | 3.053,33 | 2.086,69 | 5.143,06 | 3.514,84 |
+| 6 | 3.206,00 | 2.191,02 | 5.400,21 | 3.690,58 |
+| 7 | 3.366,30 | 2.300,58 | 5.670,22 | 3.875,11 |
+| 8 | 3.534,62 | 2.415,60 | 5.953,73 | 4.068,86 |
+| 9 | 3.711,35 | 2.536,38 | 6.251,42 | 4.272,31 |
+| 10 | 3.896,91 | 2.663,20 | 6.563,99 | 4.485,92 |
+| 11 | 4.091,76 | 2.796,36 | 6.892,19 | 4.710,22 |
+| 12 | 4.296,35 | 2.936,18 | 7.236,80 | 4.945,73 |
+| 13 | 4.511,16 | 3.082,99 | 7.598,64 | 5.193,02 |
+| 14 | 4.736,72 | 3.237,14 | 7.978,57 | 5.452,67 |
+| 15 | 4.973,56 | 3.399,00 | 8.377,50 | 5.725,30 |
 
 ANEXO II
 
@@ -382,41 +365,25 @@ ANEXO II
 
 Tabela de Vencimentos do Cargo de Assistente Administrativo Educacional
 
-|Nível |Assistente Administrativo Educacional (40|Assistente Administrativo Educacional (30 |
-
-| |horas) |horas) |
-
-| |Valores (em R$) |
-
-|1 |1.811,77 |1.358,83 |
-
-|2 |1.902,36 |1.426,77 |
-
-|3 |1.997,48 |1.498,11 |
-
-|4 |2.097,36 |1.573,02 |
-
-|5 |2.202,22 |1.651,67 |
-
-|6 |2.312,33 |1.734,25 |
-
-|7 |2.427,95 |1.820,96 |
-
-|8 |2.549,35 |1.912,01 |
-
-|9 |2.676,82 |2.007,61 |
-
-|10 |2.810,66 |2.107,99 |
-
-|11 |2.951,19 |2.213,39 |
-
-|12 |3.098,75 |2.324,06 |
-
-|13 |3.253,69 |2.440,26 |
-
-|14 |3.416,37 |2.562,28 |
-
-|15 |3.587,19 |2.690,39 |
+| Nível | Assistente Administrativo Educacional (40 | Assistente Administrativo Educacional (30 |
+| --- | --- | --- |
+|  | horas) | horas) |
+|  | Valores (em R$) |  |
+| 1 | 1.811,77 | 1.358,83 |
+| 2 | 1.902,36 | 1.426,77 |
+| 3 | 1.997,48 | 1.498,11 |
+| 4 | 2.097,36 | 1.573,02 |
+| 5 | 2.202,22 | 1.651,67 |
+| 6 | 2.312,33 | 1.734,25 |
+| 7 | 2.427,95 | 1.820,96 |
+| 8 | 2.549,35 | 1.912,01 |
+| 9 | 2.676,82 | 2.007,61 |
+| 10 | 2.810,66 | 2.107,99 |
+| 11 | 2.951,19 | 2.213,39 |
+| 12 | 3.098,75 | 2.324,06 |
+| 13 | 3.253,69 | 2.440,26 |
+| 14 | 3.416,37 | 2.562,28 |
+| 15 | 3.587,19 | 2.690,39 |
 
 ANEXO I
 
@@ -424,33 +391,21 @@ ANEXO I
 
 Tabela de Vencimentos do Cargo de Bibliotecário Escolar
 
-|CARGO |TABELA DE VENCIMENTOS-BASE (valores em R$) |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-|1. Professor Municipal |12.100 |
-
-|2. Assistente Administrativo Educacional |1.750 |
-
-|3. Auxiliar de Escola |1.600 |
-
-|4. Técnico Superior de Educação |460 |
-
-|5. Professor para a Educação Infantil |6.900 |
-
-|6. Bibliotecário Escolar |415 |
-
-|Pleno: 380 | |
-
-|Sênior: 35 | |
-
-|TOTAL |23.225 |
+| CARGO | TABELA DE VENCIMENTOS-BASE (valores em R$) |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+| 1. Professor Municipal | 12.100 |
+| 2. Assistente Administrativo Educacional | 1.750 |
+| 3. Auxiliar de Escola | 1.600 |
+| 4. Técnico Superior de Educação | 460 |
+| 5. Professor para a Educação Infantil | 6.900 |
+| 6. Bibliotecário Escolar | 415 |
+| Pleno: 380 |  |
+| Sênior: 35 |  |
+| TOTAL | 23.225 |
 
 ”.
 
@@ -464,63 +419,36 @@ Cargos dos Quadros Específicos das Secretarias Municipais de Educação, de Ass
 
 A - Secretaria Municipal de Educação
 
-|Cargo Público em Comissão |Quantidade de Vagas|
-
-|Secretário Escolar I |180 |
-
-|Secretário Escolar II |200 |
-
-|Vice-Diretor de Escola Municipal I |200 |
-
-|Vice-Diretor de Escola Municipal II | |
-
-|Vice-Diretor de Escola Municipal III | |
-
-|Vice-Diretor de Escola Municipal IV | |
-
-|Vice-Diretor de Escola Municipal V | |
-
-|Diretor de Escola Municipal I |200 |
-
-|Diretor de Escola Municipal II | |
-
-|Diretor de Escola Municipal III | |
-
-|Diretor de Escola Municipal IV | |
-
-|Diretor de Escola Municipal V | |
-
-|Vice-Diretor de EMEI I |180 |
-
-|Vice-Diretor de EMEI II | |
-
-|Vice-Diretor de EMEI III | |
-
-|Vice-Diretor de EMEI IV | |
-
-|Vice-Diretor de EMEI V | |
-
-|Diretor de EMEI I |180 |
-
-|Diretor de EMEI II | |
-
-|Diretor de EMEI III | |
-
-|Diretor de EMEI IV | |
-
-|Diretor de EMEI V | |
-
-|Coordenador Pedagógico Geral I |180 |
-
-|Coordenador Pedagógico Geral II |200 |
-
-|Diretor de Centro de Aperfeiçoamento Profissional da Educação |1 |
-
-|Vice-Diretor de Centro de Aperfeiçoamento Profissional da Educação |1 |
-
-|Coordenador de Projetos Especiais da Educação |9 |
-
-|Total Geral de Cargos Comissionados da Área da Educação |1.531 |
+| Cargo Público em Comissão | Quantidade de Vagas |
+| --- | --- |
+| Secretário Escolar I | 180 |
+| Secretário Escolar II | 200 |
+| Vice-Diretor de Escola Municipal I | 200 |
+| Vice-Diretor de Escola Municipal II |  |
+| Vice-Diretor de Escola Municipal III |  |
+| Vice-Diretor de Escola Municipal IV |  |
+| Vice-Diretor de Escola Municipal V |  |
+| Diretor de Escola Municipal I | 200 |
+| Diretor de Escola Municipal II |  |
+| Diretor de Escola Municipal III |  |
+| Diretor de Escola Municipal IV |  |
+| Diretor de Escola Municipal V |  |
+| Vice-Diretor de EMEI I | 180 |
+| Vice-Diretor de EMEI II |  |
+| Vice-Diretor de EMEI III |  |
+| Vice-Diretor de EMEI IV |  |
+| Vice-Diretor de EMEI V |  |
+| Diretor de EMEI I | 180 |
+| Diretor de EMEI II |  |
+| Diretor de EMEI III |  |
+| Diretor de EMEI IV |  |
+| Diretor de EMEI V |  |
+| Coordenador Pedagógico Geral I | 180 |
+| Coordenador Pedagógico Geral II | 200 |
+| Diretor de Centro de Aperfeiçoamento Profissional da Educação | 1 |
+| Vice-Diretor de Centro de Aperfeiçoamento Profissional da Educação | 1 |
+| Coordenador de Projetos Especiais da Educação | 9 |
+| Total Geral de Cargos Comissionados da Área da Educação | 1.531 |
 
 ”.
 
@@ -534,73 +462,41 @@ Remuneração dos cargos dos Quadros Específicos
 
 A - Secretaria Municipal de Educação
 
-|Cargo Público em Comissão |Vencimento-Base |Gratificação de |Remuneração Total |
-
-| |(em R$) |Dedicação |(em R$) |
-
-| | |Exclusiva | |
-
-| | |(em R$) | |
-
-|Secretário Escolar I |1.130,61 |493,69 |1.624,30 |
-
-|Secretário Escolar II |1.159,21 |771,03 |1.930,24 |
-
-|Vice-Diretor de Escola Municipal I |2.588,09 |1.714,21 |4.302,30 |
-
-|Vice-Diretor de Escola Municipal II |2.691,62 |1.971,34 |4.662,96 |
-
-|Vice-Diretor de Escola Municipal III |2.795,16 |2.228,48 |5.023,64 |
-
-|Vice-Diretor de Escola Municipal IV |2.902,03 |2.485,60 |5.387,63 |
-
-|Vice-Diretor de Escola Municipal V |3.008,89 |2.742,74 |5.751,63 |
-
-|Diretor de Escola Municipal I |2.795,15 |2.057,06 |4.852,21 |
-
-|Diretor de Escola Municipal II |2.902,03 |2.314,18 |5.216,21 |
-
-|Diretor de Escola Municipal III |3.008,89 |2.571,32 |5.580,21 |
-
-|Diretor de Escola Municipal IV |3.145,61 |2.828,45 |5.974,06 |
-
-|Diretor de Escola Municipal V |3.282,37 |3.085,58 |6.367,95 |
-
-|Diretor de EMEI I |2.588,09 |1.714,21 |4.302,30 |
-
-|Diretor de EMEI II |2.691,62 |1.971,34 |4.662,96 |
-
-|Diretor de EMEI III |2.795,16 |2.228,48 |5.023,64 |
-
-|Diretor de EMEI IV |2.898,71 |2.485,61 |5.384,32 |
-
-|Diretor de EMEI V |3.002,26 |2.742,74 |5.745,00 |
-
-|Vice-Diretor de EMEI I |2.476,28 |1.230,36 |3.706,64 |
-
-|Vice-Diretor de EMEI II |2.578,81 |1.486,69 |4.065,50 |
-
-|Vice-Diretor de EMEI III |2.681,34 |1.743,01 |4.424,35 |
-
-|Vice-Diretor de EMEI IV |2.783,87 |1.999,34 |4.783,21 |
-
-|Vice-Diretor de EMEI V |2.886,40 |2.255,67 |5.142,07 |
-
-|Coordenador Pedagógico Geral I |2.476,28 |710,61 |3.186,90 |
-
-|Coordenador Pedagógico Geral II |2.653,57 |947,48 |3.601,06 |
-
-|Diretor de Centro de Aperfeiçoamento |3.282,36 |3.085,58 |6.367,94 |
-
-|Profissional da Educação | | | |
-
-|Vice-Diretor de Centro de |3.008,89 |2.742,74 |5.751,63 |
-
-|Aperfeiçoamento Profissional da Educação| | | |
-
-|Coordenador de Projetos Especiais da |1.842,78 |1.842,78 |3.685,56 |
-
-|Educação | | | |
+| Cargo Público em Comissão | Vencimento-Base | Gratificação de | Remuneração Total |
+| --- | --- | --- | --- |
+|  | (em R$) | Dedicação | (em R$) |
+|  |  | Exclusiva |  |
+|  |  | (em R$) |  |
+| Secretário Escolar I | 1.130,61 | 493,69 | 1.624,30 |
+| Secretário Escolar II | 1.159,21 | 771,03 | 1.930,24 |
+| Vice-Diretor de Escola Municipal I | 2.588,09 | 1.714,21 | 4.302,30 |
+| Vice-Diretor de Escola Municipal II | 2.691,62 | 1.971,34 | 4.662,96 |
+| Vice-Diretor de Escola Municipal III | 2.795,16 | 2.228,48 | 5.023,64 |
+| Vice-Diretor de Escola Municipal IV | 2.902,03 | 2.485,60 | 5.387,63 |
+| Vice-Diretor de Escola Municipal V | 3.008,89 | 2.742,74 | 5.751,63 |
+| Diretor de Escola Municipal I | 2.795,15 | 2.057,06 | 4.852,21 |
+| Diretor de Escola Municipal II | 2.902,03 | 2.314,18 | 5.216,21 |
+| Diretor de Escola Municipal III | 3.008,89 | 2.571,32 | 5.580,21 |
+| Diretor de Escola Municipal IV | 3.145,61 | 2.828,45 | 5.974,06 |
+| Diretor de Escola Municipal V | 3.282,37 | 3.085,58 | 6.367,95 |
+| Diretor de EMEI I | 2.588,09 | 1.714,21 | 4.302,30 |
+| Diretor de EMEI II | 2.691,62 | 1.971,34 | 4.662,96 |
+| Diretor de EMEI III | 2.795,16 | 2.228,48 | 5.023,64 |
+| Diretor de EMEI IV | 2.898,71 | 2.485,61 | 5.384,32 |
+| Diretor de EMEI V | 3.002,26 | 2.742,74 | 5.745,00 |
+| Vice-Diretor de EMEI I | 2.476,28 | 1.230,36 | 3.706,64 |
+| Vice-Diretor de EMEI II | 2.578,81 | 1.486,69 | 4.065,50 |
+| Vice-Diretor de EMEI III | 2.681,34 | 1.743,01 | 4.424,35 |
+| Vice-Diretor de EMEI IV | 2.783,87 | 1.999,34 | 4.783,21 |
+| Vice-Diretor de EMEI V | 2.886,40 | 2.255,67 | 5.142,07 |
+| Coordenador Pedagógico Geral I | 2.476,28 | 710,61 | 3.186,90 |
+| Coordenador Pedagógico Geral II | 2.653,57 | 947,48 | 3.601,06 |
+| Diretor de Centro de Aperfeiçoamento | 3.282,36 | 3.085,58 | 6.367,94 |
+| Profissional da Educação |  |  |  |
+| Vice-Diretor de Centro de | 3.008,89 | 2.742,74 | 5.751,63 |
+| Aperfeiçoamento Profissional da Educação |  |  |  |
+| Coordenador de Projetos Especiais da | 1.842,78 | 1.842,78 | 3.685,56 |
+| Educação |  |  |  |
 
 ”.
 
@@ -612,11 +508,10 @@ ANEXO VI
 
 CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE
 
-|Cargos |Números de cargos |
-
-|Analista de Políticas |1.044 |
-
-|Públicas | |
+| Cargos | Números de cargos |
+| --- | --- |
+| Analista de Políticas | 1.044 |
+| Públicas |  |
 
 ”.
 
@@ -630,50 +525,28 @@ TABELA DE VENCIMENTOS DOS CARGOS EFETIVOS DO QUADRO ESPECIAL DA EDUCAÇÃO
 
 [...]
 
-|PROFESSOR PARA A EDUCAÇÃO INFANTIL |
-
-|NÍVEL |Valores em R$ |
-
-|1 |1.451,93 |
-
-|2 |1.524,52 |
-
-|3 |1.600,75 |
-
-|4 |1.680,79 |
-
-|5 |1.764,83 |
-
-|6 |1.853,07 |
-
-|7 |1.945,72 |
-
-|8 |2.043,01 |
-
-|9 |2.145,16 |
-
-|10 |2.252,42 |
-
-|11 |2.365,04 |
-
-|12 |2.483,29 |
-
-|13 |2.607,45 |
-
-|14 |2.737,83 |
-
-|15 |2.874,72 |
-
-|16 |3.018,45 |
-
-|17 |3.169,38 |
-
-|18 |3.327,84 |
-
-|19 |3.494,24 |
-
-|20 |3.668,95 |
-
-|21 |3.852,40 |
-
-|22 |4.045,02 |
+| PROFESSOR PARA A EDUCAÇÃO INFANTIL |  |
+| --- | --- |
+| NÍVEL | Valores em R$ |
+| 1 | 1.451,93 |
+| 2 | 1.524,52 |
+| 3 | 1.600,75 |
+| 4 | 1.680,79 |
+| 5 | 1.764,83 |
+| 6 | 1.853,07 |
+| 7 | 1.945,72 |
+| 8 | 2.043,01 |
+| 9 | 2.145,16 |
+| 10 | 2.252,42 |
+| 11 | 2.365,04 |
+| 12 | 2.483,29 |
+| 13 | 2.607,45 |
+| 14 | 2.737,83 |
+| 15 | 2.874,72 |
+| 16 | 3.018,45 |
+| 17 | 3.169,38 |
+| 18 | 3.327,84 |
+| 19 | 3.494,24 |
+| 20 | 3.668,95 |
+| 21 | 3.852,40 |
+| 22 | 4.045,02 |

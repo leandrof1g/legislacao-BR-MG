@@ -32,35 +32,22 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 **§ 1º** - [...]
 
-|2h |Fechamento, pela BHTRANS, da Avenida Afonso Pena, entre a Rua da Bahia e a Rua dos |
-
-| |Guajajaras, para início da montagem das barracas. |
-
-|2h30 |Início da montagem das barracas pelos expositores e/ou montadores. |
-
-|5 às 6h30 |Permissão de acesso de veículos de expositores devidamente credenciados para |
-
-| |descarregar mercadorias em local previamente definido (baias do lado direito da |
-
-| |Avenida Afonso Pena). |
-
-|7h |Horário máximo de permanência dos veículos credenciados no interior da feira. |
-
-|8h |Horário máximo para ocupação do espaço pelo feirante e início da comercialização dos |
-
-| |produtos. |
-
-|14h |Encerramento da exposição e venda de produtos e abertura das grades para acesso dos |
-
-| |veículos de expositores e/ou montadores, devidamente credenciados, para recolherem as|
-
-| |mercadorias e barracas. |
-
-|14 às 15h |Desmontagem das barracas pelos expositores e/ou desmontadores. |
-
-|14h30 |Liberação da Avenida Afonso Pena para limpeza. |
-
-|17 h |Liberação, pela BHTRANS, da Avenida Afonso Pena para o tráfego de veículos. |
+| 2h | Fechamento, pela BHTRANS, da Avenida Afonso Pena, entre a Rua da Bahia e a Rua dos |
+| --- | --- |
+|  | Guajajaras, para início da montagem das barracas. |
+| 2h30 | Início da montagem das barracas pelos expositores e/ou montadores. |
+| 5 às 6h30 | Permissão de acesso de veículos de expositores devidamente credenciados para |
+|  | descarregar mercadorias em local previamente definido (baias do lado direito da |
+|  | Avenida Afonso Pena). |
+| 7h | Horário máximo de permanência dos veículos credenciados no interior da feira. |
+| 8h | Horário máximo para ocupação do espaço pelo feirante e início da comercialização dos |
+|  | produtos. |
+| 14h | Encerramento da exposição e venda de produtos e abertura das grades para acesso dos |
+|  | veículos de expositores e/ou montadores, devidamente credenciados, para recolherem as |
+|  | mercadorias e barracas. |
+| 14 às 15h | Desmontagem das barracas pelos expositores e/ou desmontadores. |
+| 14h30 | Liberação da Avenida Afonso Pena para limpeza. |
+| 17 h | Liberação, pela BHTRANS, da Avenida Afonso Pena para o tráfego de veículos. |
 
 ” (NR)
 

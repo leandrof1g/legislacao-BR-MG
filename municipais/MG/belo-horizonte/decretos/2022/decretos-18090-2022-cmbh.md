@@ -68,54 +68,30 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do | |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG | |
-
-|0600.19.572.302.1.373.4490.0000 |236.201,88 |
-
-|0600.19.572.302.1.373.4490.0030 |369.460,24 |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN | |
-
-|1010.23.692.132.2.307.4490.0030 |27.086,64 |
-
-|Fundo Municipal do Idoso – FUMID | |
-
-|1018.14.241.235.2.697.3390.0030 |23.000.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI | |
-
-|2700.18.541.073.1.202.4490.0030 |427.515,54 |
-
-|2700.27.812.101.1.213.4490.0030 |6.200.000,00 |
-
-|2700.15.451.062.1.230.4490.0080 |478.207,33 |
-
-|Fundo Municipal de Assistência Social – FMAS | |
-
-|1011.08.244.019.2.308.3390.0040 |1.768.538,13 |
-
-|TOTAL |32.507.009,76 |
-
-|I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida |R$ |
-
-|no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, | |
-
-|e no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2302.10.302.114.2.894.3390.0000 |20.000.000,00 |
-
-|2302.10.301.157.2.690.3390.0050 |4.581,70 |
-
-|2302.10.302.114.2.893.3390.0050 |74.886,00 |
-
-|2302.10.305.028.2.829.3390.0050 |330.931,40 |
-
-|TOTAL |20.410.399,10 |
-
-|TOTAL DA SUPLEMENTAÇÃO |52.917.408,86 |
+| I.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do |  |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.19.572.302.1.373.4490.0000 | 236.201,88 |
+| 0600.19.572.302.1.373.4490.0030 | 369.460,24 |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.23.692.132.2.307.4490.0030 | 27.086,64 |
+| Fundo Municipal do Idoso – FUMID |  |
+| 1018.14.241.235.2.697.3390.0030 | 23.000.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.073.1.202.4490.0030 | 427.515,54 |
+| 2700.27.812.101.1.213.4490.0030 | 6.200.000,00 |
+| 2700.15.451.062.1.230.4490.0080 | 478.207,33 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.019.2.308.3390.0040 | 1.768.538,13 |
+| TOTAL | 32.507.009,76 |
+| I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida | R$ |
+| no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, |  |
+| e no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2302.10.302.114.2.894.3390.0000 | 20.000.000,00 |
+| 2302.10.301.157.2.690.3390.0050 | 4.581,70 |
+| 2302.10.302.114.2.893.3390.0050 | 74.886,00 |
+| 2302.10.305.028.2.829.3390.0050 | 330.931,40 |
+| TOTAL | 20.410.399,10 |
+| TOTAL DA SUPLEMENTAÇÃO | 52.917.408,86 |

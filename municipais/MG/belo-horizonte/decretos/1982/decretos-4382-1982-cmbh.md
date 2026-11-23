@@ -272,9 +272,7 @@ Sérgio Carlos de Miranda Lanna
 
 Secretário Municipal da Fazenda
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

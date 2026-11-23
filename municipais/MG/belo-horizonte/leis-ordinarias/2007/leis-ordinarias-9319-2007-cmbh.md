@@ -870,13 +870,11 @@ Da Gratificação pelo Exercício de Atividades Insalubres
 
 **Art. 81** - O Guarda Municipal que trabalhe com habitualidade em locais insalubres ou em contato permanente com substâncias insalubres, de acordo com avaliação da unidade competente, faz jus a um adicional a ser pago nos seguintes valores, segundo se classifique a atividade do servidor nos graus mínimo, médio e máximo:
 
-|Cargo Público Efetivo |Insalubridade |Insalubridade |Insalubridade |
-
-| |Grau Mínimo |Grau Médio |Grau Máximo |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|Guarda Municipal |24,00 |48,00 |96,00 |
+| Cargo Público Efetivo | Insalubridade | Insalubridade | Insalubridade |
+| --- | --- | --- | --- |
+|  | Grau Mínimo | Grau Médio | Grau Máximo |
+|  | (em R$) | (em R$) | (em R$) |
+| Guarda Municipal | 24,00 | 48,00 | 96,00 |
 
 **§ 1º** - Observada a legislação específica, o regulamento desta Lei definirá o quadro das atividades e operações insalubres, os critérios de caracterização da insalubridade, os limites de tolerância aos agentes agressivos, meios de proteção e o tempo máximo de exposição do servidor a esses agentes.
 
@@ -2506,7 +2504,7 @@ V - Inspetor Guarda Municipal Patrimonial para Inspetor da Guarda Municipal de B
 
 "ANEXO I QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES (...)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 236** - Fica o Poder Executivo autorizado a abrir créditos adicionais ao orçamento vigente no valor de R$17.550.805,00 (dezessete milhões, quinhentos e cinqüenta mil, oitocentos e cinco reais), para atender ao disposto nesta Lei, podendo ser reaberto no exercício financeiro seguinte, no limite de seus saldos, nos termos dos arts 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17/03/1964.
 
@@ -2526,7 +2524,7 @@ ANEXO ÚNICO
 
 QUADRO QUANTITATIVO DE CARGOS DE GUARDA MUNICIPAL DE BELO HORIZONTE E DE INSPETOR DA GUARDA MUNICIPAL DE BELO HORIZONTE
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

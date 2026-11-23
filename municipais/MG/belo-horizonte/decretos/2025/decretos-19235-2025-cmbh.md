@@ -58,49 +58,32 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei |R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Câmara Municipal – CM |
-
-|0101.01.031.0001.2001.319092.1.500.000 |1.500.000,00 |
-
-|TOTAL |1.500.000,00 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei |R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Câmara Municipal – CM |
-
-|0101.01.031.0001.2001.339093.1.500.000 |4.000,00 |
-
-|TOTAL |4.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.504.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei | R$ |
+| --- | --- |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Câmara Municipal – CM |  |
+| 0101.01.031.0001.2001.319092.1.500.000 | 1.500.000,00 |
+| TOTAL | 1.500.000,00 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei | R$ |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Câmara Municipal – CM |  |
+| 0101.01.031.0001.2001.339093.1.500.000 | 4.000,00 |
+| TOTAL | 4.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.504.000,00 |
 
 I.2 – Anulação da dotação orçamentária a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Câmara Municipal – CM |
-
-|0101.01.031.0001.2922.449051.1.500.000 |1.500.000,00 |
-
-|TOTAL |1.500.000,00 |
-
-|I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|0101.01.031.0001.2922.449051.1.500.000 |4.000,00 |
-
-|TOTAL |4.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.504.000,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Câmara Municipal – CM |  |
+| 0101.01.031.0001.2922.449051.1.500.000 | 1.500.000,00 |
+| TOTAL | 1.500.000,00 |
+| I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| 0101.01.031.0001.2922.449051.1.500.000 | 4.000,00 |
+| TOTAL | 4.000,00 |
+| TOTAL DA ANULAÇÃO | 1.504.000,00 |
 
 ANEXO II
 
@@ -130,50 +113,31 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 5º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 62.816.329,10 |
-
-|Valor do Decreto publicado nesta data |R$ 1.500.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 64.316.329,10 |
-
-|Saldo atual de créditos suplementares |R$ 2.201.064.468,20 |
-
-|Percentual utilizado |2,84% |
-
-|Atualizado em 12/08/2025 às 13:36:06 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 62.816.329,10 |
+| Valor do Decreto publicado nesta data | R$ 1.500.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 64.316.329,10 |
+| Saldo atual de créditos suplementares | R$ 2.201.064.468,20 |
+| Percentual utilizado | 2,84% |
+| Atualizado em 12/08/2025 às 13:36:06 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2025 |
-
-|Art. 6.º da Lei nº 11.802, de 03/01/2025 - Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 447.963.194,68 |
-
-|Valor do Decreto publicado nesta data |R$ 4.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 447.967.194,68 |
-
-|Saldo atual de créditos suplementares |R$ 1.817.413.602,62 |
-
-|Percentual utilizado |19,77% |
-
-|Atualizado em 12/08/2025 às 13:36:06 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2025 |  |
+| --- | --- |
+| Art. 6.º da Lei nº 11.802, de 03/01/2025 - Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 447.963.194,68 |
+| Valor do Decreto publicado nesta data | R$ 4.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 447.967.194,68 |
+| Saldo atual de créditos suplementares | R$ 1.817.413.602,62 |
+| Percentual utilizado | 19,77% |
+| Atualizado em 12/08/2025 às 13:36:06 |  |

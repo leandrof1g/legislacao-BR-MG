@@ -66,460 +66,236 @@ Prefeito de Belo Horizonte
 
 VIGILANTE
 
-|MONTANTE "A" SALÁRIOS: | | | | |MONTANTE A - SALÁRIO CONFORME CCT |
-
-|VIGILANTES |0 |0,00 | | - | |
-
-| | | |- | | |
-
-| | | | | | |
-
-|Totais |0 |=/=/=/= | | - | |
-
-| | | |- | | |
-
-|ITENS DE INSUMOS: | | | | | |
-
-|Adicional noturno |0 |0,00 | | - | |
-
-| | | |- | | |
-
-|Adicional insalubridade |0 |0,00 | | - | |
-
-| | | |- | | |
-
-|Adicional periculosidade |0 |0,00 | | - | |
-
-| | | |- | | |
-
-|Horas-extras |0 |0,00 | | - | |
-
-| | | |- | | |
-
-| | | | | | |
-
-|1 - TOTAL DO MONTANTE "A" | |100,00% | | - | |
-
-| | | |- | | |
-
-| | | | | | |
-
-|2 - MONTANTE " B " - ENCARGOS SOCIAIS: | | | |MONTANTE B |
-
-| 2.1. - GRUPO " B1" | | | | | MONTANTE GRUPO B1 ENCARGOS BÁSICOS SOBRE |
-
-| | | | | |SALÁRIOS |
-
-| INSS | |20,00% | | - | |
-
-| | | |- | | |
-
-| FGTS | |8,00% | | - | |
-
-| | | |- | | |
-
-| SESC/SESI | |1,50% | | - | |
-
-| | | |- | | |
-
-| SENAC/SENAI | |1,00% | | - | |
-
-| | | |- | | |
-
-| INCRA | |0,20% | | - | |
-
-| | | |- | | |
-
-| SALARIO EDUCAÇÃO | |2,50% | | - | |
-
-| | | |- | | |
-
-| SEG.ACID.TRABALHO | |3,00% | | - | |
-
-| | | |- | | |
-
-| SEBRAE | |0,60% | | - | |
-
-| | | |- | | |
-
-| TOTAL DO GRUPO " B1 ": | |36,80% | | - | |
-
-| | | |- | | |
-
-| 2.2. - GRUPO " B2 " | | | | |GRUPO B2 |
-
-| FÉRIAS 1/12 + 1/3 CONST | |11,11% | | - | PAGAMENTO POR EVENTO |
-
-| | | |- | | |
-
-| 13º SALARIO 1/12 | |8,33% | | - | |
-
-| | | |- | | |
-
-| TOTAL DO GRUPO " B2 ": | |19,44% | | - | |
-
-| | | |- | | |
-
-| 2.3. - GRUPO " B3 " | | | | |GRUPO B3 |
-
-| FGTS-DISP.S/JUSTA CAUSA | |3,20% | | - | PAGAMENTO POR EVENTO |
-
-| | | |- | | |
-
-| TOTAL DO GRUPO " B3 ": | |3,20% | | - | |
-
-| | | |- | | |
-
-| 2.4. - GRUPO " B4 " | | | | |GRUPO B4 |
-
-| INCID.CUMULAT. B1 x B2 | |7,15% | | - |INCIDÊNCIA B1 x B2 |
-
-| | | |- | | |
-
-| TOTAL DO GRUPO " B4 ": | |7,15% | | - | |
-
-| | | |- | | |
-
-| SUB-TOTAL GR."B1"a "B4": | |66,59% | | - | |
-
-| | | |- | | |
-
-| 2.5. - GRUPO " B5 " | | | | |GRUPO B5 |
-
-| LICENÇA MATERNIDADE E PATERNIDADE, AUX. ENFERMIDADE, FALTAS LEGAIS, |13,66% | | - |PAGAMENTO POR EVENTO |
-
-|ACIDENTE DE TRABALHO E AVISO PRÉVIO. | |- | | |
-
-| TOTAL DO GRUPO " B5 ": | |13,66% | | - | |
-
-| | | |- | | |
-
-|2 - TOTAL DO MONTANTE " B " | |80,25% | | - |MONTANTE " C " |
-
-| | | |- | | |
-
-| | | | | | |
-
-|3 - MONTANTE " C " - OUTROS ENCARGOS SOCIAIS: | | |
-
-| 3.1 - GRUPO "C1"- | | | | |GRUPO C1 |
-
-| UNIFORMES | | | | - |PAGAMENTO POR EVENTO ATÉ O LIMITE DETERMINADO NO |
-
-| | | |- | |EDITAL |
-
-| VALES TRANSPORTES | | | | - | |
-
-| | | |- | | |
-
-| VALES REFEIÇÃO | | | | - | |
-
-| | | |- | | |
-
-| TOTAL DO GRUPO " C1 ": | | | | - | |
-
-| | | |- | | |
-
-| | | | | | |
-
-| 3.2- GRUPO " C 2" . | | | | |GRUPO C2 |
-
-| PLANO QUALIFICAÇÃO PROFISSIONAL CCT / ACT | | - |CONFORME PREÇOS DETERMINADOS EM CCT / ACT |
-
-| |- | | |
-
-| PLANO DE SAÚDE - CCT / ACT | | | | - | |
-
-| | | |- | | |
-
-| TOTAL DO GRUPO " C2 ": | | | | - | |
-
-| | | |- | | |
-
-| | | | | | |
-
-|3 - TOTAL DO MONTANTE " C " | | | | - | |
-
-| | | |- | | |
-
-|4 - SUB-TOTAL ( MONTANTES A+B+C)=(1+2+3) | | - | |
-
-| |- | | |
-
-|5 - MONTANTE " D " -TAXA DE ADMINISTRAÇÃO | | |VALOR EM REAIS PROPOSTO PELO LICITANTE |
-
-| 5.1 - GRUPO "D1"- Custo de Administração |#DIV/0! | | - | |
-
-| | |- | | |
-
-|5 - TOTAL DO MONTANTE " D " | |#DIV/0! | | - | |
-
-| | | |- | | |
-
-| | | | | | |
-
-|6 - SUB-TOTAL ( MONT. A+B+C+D)=(4+5) | | | - | |
-
-| | |- | | |
-
-|7 - MONTANTE ' E ' - IMPOSTOS - | | | | | |
-
-| 7.1 GRUPO "E1" | | | | | |
-
-| TOTAL DE IMPOSTOS S/ITENS: (1,2,3 e 5) | | | |
-
-| ISSQN - 2,00% |2,00% | | | - |BASE DE CÁLCULO DO GRUPO E1 = A SOMA DOS |
-
-| | | |- | |MONTANTES A, B, C e D |
-
-| COFINS - 7,60% |7,60% | | | - | |
-
-| | | |- | | |
-
-| IR - 1,00% |1,00% | | | - | |
-
-| | | |- | | |
-
-| TOTAL DO GRUPO " E1 ": |10,60% | | | - | |
-
-| | | |- | | |
-
-| | | | | | |
-
-| 7.2 GRUPO "E2" | | | | | |
-
-| TOTAL DE IMPOSTOS S/ITENS:( 1 e 2) | | | | |
-
-| PIS - 1,65% |1,65% | | | - |BASE DE CÁLCULO DO GRUPO E2 = A SOMA A e B |
-
-| | | |- | | |
-
-|7 - TOTAL GRUPO "E"- IMPOSTOS | | | | - | |
-
-| | | |- | | |
-
-| | | | | | |
-
-|8 - PREÇO TOTAL MENSAL(Mont. A+B+C+D+E)=(6+7) | | - | |
-
-| |- | | |
-
-| | | | | | |
-
-|9 - PREÇO FINAL E TOTAIS MENSAL E GLOBAL: | V A L O R E S E M R $ ( R E A I S ) |
-
-| | |VALOR MENSAL ESTIMADO | VALOR GLOBAL |CUSTO MENSAL ESTIMADO DA MÃO-DE-OBRA MENOS O |
-
-| | | | |CUSTO DO MONTANTE "C1" |
-
-|CATEGORIA DE TRABALHADORES |QUANT. | UNITÁRIO | TOTAL | | |
-
-|VIGILANTES |0 | | - | | |
-
-| | | | |- | |
-
-| | | | | | |
-
-| | | - | | | |
-
-| | | | | | |
-
-|Totais |0 | |0,00 | | |
-
-| | | | |- | |
-
-|9 - PREÇO TOTAL MENSAL(Mont.A+B+C2+D+E)=(1+2+3+5+7) | MENSAIS | |
-
-| | | | | - | |
-
-| | | |- | | |
-
-| | | | | | |
-
-|OBS: o valor unitário de hora destacado neste anexo só será considerado para cálculos de descontos das horas faltosas no período, se houverem. |
-
-| | | | | | |
+| MONTANTE "A" SALÁRIOS: |  |  |  |  | MONTANTE A - SALÁRIO CONFORME CCT |
+| --- | --- | --- | --- | --- | --- |
+| VIGILANTES | 0 | 0,00 |  | - |  |
+|  |  |  | - |  |  |
+|  |  |  |  |  |  |
+| Totais | 0 | =/=/=/= |  | - |  |
+|  |  |  | - |  |  |
+| ITENS DE INSUMOS: |  |  |  |  |  |
+| Adicional noturno | 0 | 0,00 |  | - |  |
+|  |  |  | - |  |  |
+| Adicional insalubridade | 0 | 0,00 |  | - |  |
+|  |  |  | - |  |  |
+| Adicional periculosidade | 0 | 0,00 |  | - |  |
+|  |  |  | - |  |  |
+| Horas-extras | 0 | 0,00 |  | - |  |
+|  |  |  | - |  |  |
+|  |  |  |  |  |  |
+| 1 - TOTAL DO MONTANTE "A" |  | 100,00% |  | - |  |
+|  |  |  | - |  |  |
+|  |  |  |  |  |  |
+| 2 - MONTANTE " B " - ENCARGOS SOCIAIS: |  |  |  | MONTANTE B |  |
+| 2.1. - GRUPO " B1" |  |  |  |  | MONTANTE GRUPO B1 ENCARGOS BÁSICOS SOBRE |
+|  |  |  |  |  | SALÁRIOS |
+| INSS |  | 20,00% |  | - |  |
+|  |  |  | - |  |  |
+| FGTS |  | 8,00% |  | - |  |
+|  |  |  | - |  |  |
+| SESC/SESI |  | 1,50% |  | - |  |
+|  |  |  | - |  |  |
+| SENAC/SENAI |  | 1,00% |  | - |  |
+|  |  |  | - |  |  |
+| INCRA |  | 0,20% |  | - |  |
+|  |  |  | - |  |  |
+| SALARIO EDUCAÇÃO |  | 2,50% |  | - |  |
+|  |  |  | - |  |  |
+| SEG.ACID.TRABALHO |  | 3,00% |  | - |  |
+|  |  |  | - |  |  |
+| SEBRAE |  | 0,60% |  | - |  |
+|  |  |  | - |  |  |
+| TOTAL DO GRUPO " B1 ": |  | 36,80% |  | - |  |
+|  |  |  | - |  |  |
+| 2.2. - GRUPO " B2 " |  |  |  |  | GRUPO B2 |
+| FÉRIAS 1/12 + 1/3 CONST |  | 11,11% |  | - | PAGAMENTO POR EVENTO |
+|  |  |  | - |  |  |
+| 13º SALARIO 1/12 |  | 8,33% |  | - |  |
+|  |  |  | - |  |  |
+| TOTAL DO GRUPO " B2 ": |  | 19,44% |  | - |  |
+|  |  |  | - |  |  |
+| 2.3. - GRUPO " B3 " |  |  |  |  | GRUPO B3 |
+| FGTS-DISP.S/JUSTA CAUSA |  | 3,20% |  | - | PAGAMENTO POR EVENTO |
+|  |  |  | - |  |  |
+| TOTAL DO GRUPO " B3 ": |  | 3,20% |  | - |  |
+|  |  |  | - |  |  |
+| 2.4. - GRUPO " B4 " |  |  |  |  | GRUPO B4 |
+| INCID.CUMULAT. B1 x B2 |  | 7,15% |  | - | INCIDÊNCIA B1 x B2 |
+|  |  |  | - |  |  |
+| TOTAL DO GRUPO " B4 ": |  | 7,15% |  | - |  |
+|  |  |  | - |  |  |
+| SUB-TOTAL GR."B1"a "B4": |  | 66,59% |  | - |  |
+|  |  |  | - |  |  |
+| 2.5. - GRUPO " B5 " |  |  |  |  | GRUPO B5 |
+| LICENÇA MATERNIDADE E PATERNIDADE, AUX. ENFERMIDADE, FALTAS LEGAIS, | 13,66% |  | - | PAGAMENTO POR EVENTO |  |
+| ACIDENTE DE TRABALHO E AVISO PRÉVIO. |  | - |  |  |  |
+| TOTAL DO GRUPO " B5 ": |  | 13,66% |  | - |  |
+|  |  |  | - |  |  |
+| 2 - TOTAL DO MONTANTE " B " |  | 80,25% |  | - | MONTANTE " C " |
+|  |  |  | - |  |  |
+|  |  |  |  |  |  |
+| 3 - MONTANTE " C " - OUTROS ENCARGOS SOCIAIS: |  |  |  |  |  |
+| 3.1 - GRUPO "C1"- |  |  |  |  | GRUPO C1 |
+| UNIFORMES |  |  |  | - | PAGAMENTO POR EVENTO ATÉ O LIMITE DETERMINADO NO |
+|  |  |  | - |  | EDITAL |
+| VALES TRANSPORTES |  |  |  | - |  |
+|  |  |  | - |  |  |
+| VALES REFEIÇÃO |  |  |  | - |  |
+|  |  |  | - |  |  |
+| TOTAL DO GRUPO " C1 ": |  |  |  | - |  |
+|  |  |  | - |  |  |
+|  |  |  |  |  |  |
+| 3.2- GRUPO " C 2" . |  |  |  |  | GRUPO C2 |
+| PLANO QUALIFICAÇÃO PROFISSIONAL CCT / ACT |  | - | CONFORME PREÇOS DETERMINADOS EM CCT / ACT |  |  |
+|  | - |  |  |  |  |
+| PLANO DE SAÚDE - CCT / ACT |  |  |  | - |  |
+|  |  |  | - |  |  |
+| TOTAL DO GRUPO " C2 ": |  |  |  | - |  |
+|  |  |  | - |  |  |
+|  |  |  |  |  |  |
+| 3 - TOTAL DO MONTANTE " C " |  |  |  | - |  |
+|  |  |  | - |  |  |
+| 4 - SUB-TOTAL ( MONTANTES A+B+C)=(1+2+3) |  | - |  |  |  |
+|  | - |  |  |  |  |
+| 5 - MONTANTE " D " -TAXA DE ADMINISTRAÇÃO |  |  | VALOR EM REAIS PROPOSTO PELO LICITANTE |  |  |
+| 5.1 - GRUPO "D1"- Custo de Administração | #DIV/0! |  | - |  |  |
+|  |  | - |  |  |  |
+| 5 - TOTAL DO MONTANTE " D " |  | #DIV/0! |  | - |  |
+|  |  |  | - |  |  |
+|  |  |  |  |  |  |
+| 6 - SUB-TOTAL ( MONT. A+B+C+D)=(4+5) |  |  | - |  |  |
+|  |  | - |  |  |  |
+| 7 - MONTANTE ' E ' - IMPOSTOS - |  |  |  |  |  |
+| 7.1 GRUPO "E1" |  |  |  |  |  |
+| TOTAL DE IMPOSTOS S/ITENS: (1,2,3 e 5) |  |  |  |  |  |
+| ISSQN - 2,00% | 2,00% |  |  | - | BASE DE CÁLCULO DO GRUPO E1 = A SOMA DOS |
+|  |  |  | - |  | MONTANTES A, B, C e D |
+| COFINS - 7,60% | 7,60% |  |  | - |  |
+|  |  |  | - |  |  |
+| IR - 1,00% | 1,00% |  |  | - |  |
+|  |  |  | - |  |  |
+| TOTAL DO GRUPO " E1 ": | 10,60% |  |  | - |  |
+|  |  |  | - |  |  |
+|  |  |  |  |  |  |
+| 7.2 GRUPO "E2" |  |  |  |  |  |
+| TOTAL DE IMPOSTOS S/ITENS:( 1 e 2) |  |  |  |  |  |
+| PIS - 1,65% | 1,65% |  |  | - | BASE DE CÁLCULO DO GRUPO E2 = A SOMA A e B |
+|  |  |  | - |  |  |
+| 7 - TOTAL GRUPO "E"- IMPOSTOS |  |  |  | - |  |
+|  |  |  | - |  |  |
+|  |  |  |  |  |  |
+| 8 - PREÇO TOTAL MENSAL(Mont. A+B+C+D+E)=(6+7) |  | - |  |  |  |
+|  | - |  |  |  |  |
+|  |  |  |  |  |  |
+| 9 - PREÇO FINAL E TOTAIS MENSAL E GLOBAL: | V A L O R E S E M R $ ( R E A I S ) |  |  |  |  |
+|  |  | VALOR MENSAL ESTIMADO | VALOR GLOBAL | CUSTO MENSAL ESTIMADO DA MÃO-DE-OBRA MENOS O |  |
+|  |  |  |  | CUSTO DO MONTANTE "C1" |  |
+| CATEGORIA DE TRABALHADORES | QUANT. | UNITÁRIO | TOTAL |  |  |
+| VIGILANTES | 0 |  | - |  |  |
+|  |  |  |  | - |  |
+|  |  |  |  |  |  |
+|  |  | - |  |  |  |
+|  |  |  |  |  |  |
+| Totais | 0 |  | 0,00 |  |  |
+|  |  |  |  | - |  |
+| 9 - PREÇO TOTAL MENSAL(Mont.A+B+C2+D+E)=(1+2+3+5+7) | MENSAIS |  |  |  |  |
+|  |  |  |  | - |  |
+|  |  |  | - |  |  |
+|  |  |  |  |  |  |
+| OBS: o valor unitário de hora destacado neste anexo só será considerado para cálculos de descontos das horas faltosas no período, se houverem. |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 SERVIÇOS TERCEIRIZADO
 
-|CATEGORIA DE TRABALHADORES |QUANT. |VALOR SALÁRIO| MENSAIS |VR. P/ 12 MESES | |
-
-|MONTANTE "A" SALÁRIOS: | | | | |MONTANTE A - SALÁRIO CONFORME CCT |
-
-| |0 |0,00 | - | - | |
-
-| | | | | | |
-
-|Totais |0 |=/=/=/= | - | - | |
-
-|ITENS DE INSUMOS: | | | | | |
-
-|Adicional noturno |0 |0,00 | - | - | |
-
-|Adicional insalubridade |0 |0,00 | - | - | |
-
-|Adicional periculosidade |0 |0,00 | - | - | |
-
-|Horas-extras |0 |0,00 | - | - | |
-
-| | | | | | |
-
-|1 - TOTAL DO MONTANTE "A" | |100,00% | - | - | |
-
-|2 - MONTANTE " B " - ENCARGOS SOCIAIS: | | | | |MONTANTE B |
-
-| 2.1. - GRUPO " B1" | | | | | MONTANTE GRUPO B1 ENCARGOS BÁSICOS SOBRE |
-
-| | | | | |SALÁRIOS |
-
-| INSS | |20,00% | - | - | |
-
-| FGTS | |8,00% | - | - | |
-
-| SESC/SESI | |1,50% | - | - | |
-
-| SENAC/SENAI | |1,00% | - | - | |
-
-| INCRA | |0,20% | - | - | |
-
-| SALARIO EDUCAÇÃO | |2,50% | - | - | |
-
-| SEG.ACID.TRABALHO | |2,00% | - | - | |
-
-| SEBRAE | |0,60% | - | - | |
-
-| TOTAL DO GRUPO " B1 ": | |35,80% | - | - | |
-
-| 2.2. - GRUPO " B2 " | | | | |GRUPO B2 |
-
-| FÉRIAS 1/12 + 1/3 CONST | |11,11% | - | - | PAGAMENTO POR EVENTO |
-
-| 13º SALARIO 1/12 | |8,33% | - | - | |
-
-| TOTAL DO GRUPO " B2 ": | |19,44% | - | - | |
-
-| 2.3. - GRUPO " B3 " | | | | |GRUPO B3 |
-
-| FGTS-DISP.S/JUSTA CAUSA | |3,20% | - | - | PAGAMENTO POR EVENTO |
-
-| TOTAL DO GRUPO " B3 ": | |3,20% | - | - | |
-
-| 2.4. - GRUPO " B4 " | | | | |GRUPO B4 |
-
-| INCID.CUMULAT. B1 x B2 | |6,96% | - | - |INCIDÊNCIA B1 x B2 |
-
-| TOTAL DO GRUPO " B4 ": | |6,96% | - | - | |
-
-| SUB-TOTAL GR."B1"a "B4": | |65,40% | - | - | |
-
-| 2.5. - GRUPO " B5 " | | | | |GRUPO B5 |
-
-| LICENÇA MATERNIDADE E PATERNIDADE, AUX. ENFERMIDADE, FALTAS LEGAIS, ACIDENTE DE |13,66% | - | - |PAGAMENTO POR EVENTO |
-
-|TRABALHO E AVISO PRÉVIO. | | | | |
-
-| TOTAL DO GRUPO " B5 ": | |13,66% | - | - | |
-
-|2 - TOTAL DO MONTANTE " B " | |79,06% | - | - |MONTANTE " C " |
-
-| | | | | | |
-
-|3 - MONTANTE " C " - OUTROS ENCARGOS SOCIAIS: | | | | | |
-
-| 3.1 - GRUPO "C1"- | | | | |GRUPO C1 |
-
-| UNIFORMES | | | - | - |PAGAMENTO POR EVENTO ATÉ O LIMITE DETERMINADO NO|
-
-| | | | | |EDITAL |
-
-| VALES TRANSPORTES | | | - | - | |
-
-| VALES REFEIÇÃO | | | - | - | |
-
-| TOTAL DO GRUPO " C1 ": | | | - | - | |
-
-| | | | | | |
-
-| 3.2- GRUPO " C 2" . | | | | |GRUPO C2 |
-
-| PLANO QUALIFICAÇÃO PROFISSIONAL CCT / ACT | | | - | - |CONFORME PREÇOS DETERMINADOS EM CCT / ACT |
-
-| PLANO DE SAÚDE - CCT / ACT | | | - | - | |
-
-| TOTAL DO GRUPO " C2 ": | | | - | - | |
-
-| | | | | | |
-
-|3 - TOTAL DO MONTANTE " C " | | | - | - | |
-
-|4 - SUB-TOTAL ( MONTANTES A+B+C)=(1+2+3) | | | - | - | |
-
-|5 - MONTANTE " D " -TAXA DE ADMINISTRAÇÃO | | | | |VALOR EM REAIS PROPOSTO PELO LICITANTE |
-
-| 5.1 - GRUPO "D1"- Custo de Administração | |#DIV/0! | - | - | |
-
-|5 - TOTAL DO MONTANTE " D " | |#DIV/0! | - | - | |
-
-| | | | | | |
-
-|6 - SUB-TOTAL ( MONT. A+B+C+D)=(4+5) | | | - | - | |
-
-|7 - MONTANTE ' E ' - IMPOSTOS - | | | | | |
-
-| 7.1 GRUPO "E1" | | | | | |
-
-| TOTAL DE IMPOSTOS S/ITENS: (1,2,3 e 5) | | | | |BASE DE CÁLCULO DO GRUPO E1 = SOMA DOS MONTANTES|
-
-| | | | | |DO GRUPO A, B, C e D |
-
-| ISSQN - 2,00% |2,00% | | - | - | |
-
-| COFINS - 7,60% |7,60% | | - | - | |
-
-| IR - 1,00% |1,00% | | - | - | |
-
-| TOTAL DO GRUPO " E1 ": |10,60% | | - | - | |
-
-| | | | | | |
-
-| 7.2 GRUPO "E2" | | | | | |
-
-| TOTAL DE IMPOSTOS S/ITENS:( 1 e 2) | | | | | |
-
-| PIS - 1,65% |1,65% | | - | - |BASE DE CÁLCULO DO GRUPO E2 = SOMA DOS MONTANTES|
-
-| | | | | |A e B |
-
-|7 - TOTAL GRUPO "E"- IMPOSTOS | | | - | - | |
-
-| | | | | | |
-
-|8 - PREÇO TOTAL MENSAL(Mont. A+B+C+D+E)=(6+7) | | | - | - | |
-
-| | | | | | |
-
-|9 - PREÇO FINAL E TOTAIS MENSAL E GLOBAL: | | V A L O R E S E M R $ ( R E A I S ) | |
-
-| | |VALOR MENSAL ESTIMADO | VALOR GLOBAL |CUSTO MENSAL ESTIMADO DA MÃO-DE-OBRA MENOS O |
-
-| | | | |CUSTO DO MONTANTE "C1" |
-
-|CATEGORIA DE TRABALHADORES |QUANT. | UNITÁRIO | TOTAL | | |
-
-|0 |0 | | - | - | |
-
-| | | | | | |
-
-| | | - | | | |
-
-| | | | | | |
-
-|Totais |0 | |0,00 | - | |
-
-|9 - PREÇO TOTAL MENSAL(Mont.A+B+C2+D+E)=(1+2+3+5+7) | | | MENSAIS | | |
-
-| | | | - | - | |
-
-| | | | | | |
-
-|OBS: o valor unitário de hora destacado neste anexo só será considerado para cálculos de descontos das horas faltosas no período, se houverem. | |
+| CATEGORIA DE TRABALHADORES | QUANT. | VALOR SALÁRIO | MENSAIS | VR. P/ 12 MESES |  |
+| --- | --- | --- | --- | --- | --- |
+| MONTANTE "A" SALÁRIOS: |  |  |  |  | MONTANTE A - SALÁRIO CONFORME CCT |
+|  | 0 | 0,00 | - | - |  |
+|  |  |  |  |  |  |
+| Totais | 0 | =/=/=/= | - | - |  |
+| ITENS DE INSUMOS: |  |  |  |  |  |
+| Adicional noturno | 0 | 0,00 | - | - |  |
+| Adicional insalubridade | 0 | 0,00 | - | - |  |
+| Adicional periculosidade | 0 | 0,00 | - | - |  |
+| Horas-extras | 0 | 0,00 | - | - |  |
+|  |  |  |  |  |  |
+| 1 - TOTAL DO MONTANTE "A" |  | 100,00% | - | - |  |
+| 2 - MONTANTE " B " - ENCARGOS SOCIAIS: |  |  |  |  | MONTANTE B |
+| 2.1. - GRUPO " B1" |  |  |  |  | MONTANTE GRUPO B1 ENCARGOS BÁSICOS SOBRE |
+|  |  |  |  |  | SALÁRIOS |
+| INSS |  | 20,00% | - | - |  |
+| FGTS |  | 8,00% | - | - |  |
+| SESC/SESI |  | 1,50% | - | - |  |
+| SENAC/SENAI |  | 1,00% | - | - |  |
+| INCRA |  | 0,20% | - | - |  |
+| SALARIO EDUCAÇÃO |  | 2,50% | - | - |  |
+| SEG.ACID.TRABALHO |  | 2,00% | - | - |  |
+| SEBRAE |  | 0,60% | - | - |  |
+| TOTAL DO GRUPO " B1 ": |  | 35,80% | - | - |  |
+| 2.2. - GRUPO " B2 " |  |  |  |  | GRUPO B2 |
+| FÉRIAS 1/12 + 1/3 CONST |  | 11,11% | - | - | PAGAMENTO POR EVENTO |
+| 13º SALARIO 1/12 |  | 8,33% | - | - |  |
+| TOTAL DO GRUPO " B2 ": |  | 19,44% | - | - |  |
+| 2.3. - GRUPO " B3 " |  |  |  |  | GRUPO B3 |
+| FGTS-DISP.S/JUSTA CAUSA |  | 3,20% | - | - | PAGAMENTO POR EVENTO |
+| TOTAL DO GRUPO " B3 ": |  | 3,20% | - | - |  |
+| 2.4. - GRUPO " B4 " |  |  |  |  | GRUPO B4 |
+| INCID.CUMULAT. B1 x B2 |  | 6,96% | - | - | INCIDÊNCIA B1 x B2 |
+| TOTAL DO GRUPO " B4 ": |  | 6,96% | - | - |  |
+| SUB-TOTAL GR."B1"a "B4": |  | 65,40% | - | - |  |
+| 2.5. - GRUPO " B5 " |  |  |  |  | GRUPO B5 |
+| LICENÇA MATERNIDADE E PATERNIDADE, AUX. ENFERMIDADE, FALTAS LEGAIS, ACIDENTE DE | 13,66% | - | - | PAGAMENTO POR EVENTO |  |
+| TRABALHO E AVISO PRÉVIO. |  |  |  |  |  |
+| TOTAL DO GRUPO " B5 ": |  | 13,66% | - | - |  |
+| 2 - TOTAL DO MONTANTE " B " |  | 79,06% | - | - | MONTANTE " C " |
+|  |  |  |  |  |  |
+| 3 - MONTANTE " C " - OUTROS ENCARGOS SOCIAIS: |  |  |  |  |  |
+| 3.1 - GRUPO "C1"- |  |  |  |  | GRUPO C1 |
+| UNIFORMES |  |  | - | - | PAGAMENTO POR EVENTO ATÉ O LIMITE DETERMINADO NO |
+|  |  |  |  |  | EDITAL |
+| VALES TRANSPORTES |  |  | - | - |  |
+| VALES REFEIÇÃO |  |  | - | - |  |
+| TOTAL DO GRUPO " C1 ": |  |  | - | - |  |
+|  |  |  |  |  |  |
+| 3.2- GRUPO " C 2" . |  |  |  |  | GRUPO C2 |
+| PLANO QUALIFICAÇÃO PROFISSIONAL CCT / ACT |  |  | - | - | CONFORME PREÇOS DETERMINADOS EM CCT / ACT |
+| PLANO DE SAÚDE - CCT / ACT |  |  | - | - |  |
+| TOTAL DO GRUPO " C2 ": |  |  | - | - |  |
+|  |  |  |  |  |  |
+| 3 - TOTAL DO MONTANTE " C " |  |  | - | - |  |
+| 4 - SUB-TOTAL ( MONTANTES A+B+C)=(1+2+3) |  |  | - | - |  |
+| 5 - MONTANTE " D " -TAXA DE ADMINISTRAÇÃO |  |  |  |  | VALOR EM REAIS PROPOSTO PELO LICITANTE |
+| 5.1 - GRUPO "D1"- Custo de Administração |  | #DIV/0! | - | - |  |
+| 5 - TOTAL DO MONTANTE " D " |  | #DIV/0! | - | - |  |
+|  |  |  |  |  |  |
+| 6 - SUB-TOTAL ( MONT. A+B+C+D)=(4+5) |  |  | - | - |  |
+| 7 - MONTANTE ' E ' - IMPOSTOS - |  |  |  |  |  |
+| 7.1 GRUPO "E1" |  |  |  |  |  |
+| TOTAL DE IMPOSTOS S/ITENS: (1,2,3 e 5) |  |  |  |  | BASE DE CÁLCULO DO GRUPO E1 = SOMA DOS MONTANTES |
+|  |  |  |  |  | DO GRUPO A, B, C e D |
+| ISSQN - 2,00% | 2,00% |  | - | - |  |
+| COFINS - 7,60% | 7,60% |  | - | - |  |
+| IR - 1,00% | 1,00% |  | - | - |  |
+| TOTAL DO GRUPO " E1 ": | 10,60% |  | - | - |  |
+|  |  |  |  |  |  |
+| 7.2 GRUPO "E2" |  |  |  |  |  |
+| TOTAL DE IMPOSTOS S/ITENS:( 1 e 2) |  |  |  |  |  |
+| PIS - 1,65% | 1,65% |  | - | - | BASE DE CÁLCULO DO GRUPO E2 = SOMA DOS MONTANTES |
+|  |  |  |  |  | A e B |
+| 7 - TOTAL GRUPO "E"- IMPOSTOS |  |  | - | - |  |
+|  |  |  |  |  |  |
+| 8 - PREÇO TOTAL MENSAL(Mont. A+B+C+D+E)=(6+7) |  |  | - | - |  |
+|  |  |  |  |  |  |
+| 9 - PREÇO FINAL E TOTAIS MENSAL E GLOBAL: |  | V A L O R E S E M R $ ( R E A I S ) |  |  |  |
+|  |  | VALOR MENSAL ESTIMADO | VALOR GLOBAL | CUSTO MENSAL ESTIMADO DA MÃO-DE-OBRA MENOS O |  |
+|  |  |  |  | CUSTO DO MONTANTE "C1" |  |
+| CATEGORIA DE TRABALHADORES | QUANT. | UNITÁRIO | TOTAL |  |  |
+| 0 | 0 |  | - | - |  |
+|  |  |  |  |  |  |
+|  |  | - |  |  |  |
+|  |  |  |  |  |  |
+| Totais | 0 |  | 0,00 | - |  |
+| 9 - PREÇO TOTAL MENSAL(Mont.A+B+C2+D+E)=(1+2+3+5+7) |  |  | MENSAIS |  |  |
+|  |  |  | - | - |  |
+|  |  |  |  |  |  |
+| OBS: o valor unitário de hora destacado neste anexo só será considerado para cálculos de descontos das horas faltosas no período, se houverem. |  |  |  |  |  |

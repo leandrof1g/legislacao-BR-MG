@@ -46,83 +46,46 @@ ANEXO I
 
 (a que se refere o art. 2º do Decreto nº 16.676, de 31 de agosto de 2017)
 
-|DISTRIBUIÇÃO DE PONTOS UNITÁRIOS DE DAM E FCA |
-
-|ÓRGÃOS |TOTAL DE PONTOS |TOTAL DE PONTOS FCA |
-
-| |DAM UNITÁRIOS |UNITÁRIOS |
-
-|Secretaria Municipal de Assistência Social e Direitos |352 |129 |
-
-|Humanos | | |
-
-|Secretaria Municipal de Segurança Alimentar e |155 |49 |
-
-|Nutricional | | |
-
-|Secretaria Municipal de Negócios, Investimentos e |23 |0 |
-
-|Relações Internacionais | | |
-
-|Secretaria Municipal de Cultura |146 |11,5 |
-
-|Secretaria Municipal de Desenvolvimento Econômico e |90,5 |12 |
-
-|Trabalho | | |
-
-|Secretaria Municipal de Educação |233 |30 |
-
-|Secretaria Municipal de Esportes e Lazer |166 |11,5 |
-
-|Secretaria Municipal de Fazenda |247,5 |64 |
-
-|Secretaria Municipal de Administração Logística e |163,5 |112,5 |
-
-|Patrimonial | | |
-
-|Secretaria Municipal de Governo |591,5 |7,5 |
-
-|Secretaria Municipal de Meio Ambiente |185 |2,5 |
-
-|Secretaria Municipal de Obras e Infraestrutura |490,5 |20,5 |
-
-|Secretaria Municipal de Planejamento, Orçamento e |436 |87,5 |
-
-|Gestão | | |
-
-|Secretaria Municipal de Desenvolvimento Urbano |508,5 |51,5 |
-
-|Secretaria Municipal de Saúde |323 |19 |
-
-|Secretaria Municipal de Segurança e Prevenção |203,5 |28 |
-
-|Secretaria Municipal de Mobilidade Urbana |91 |12 |
-
-|Secretaria-Geral |93 |1 |
-
-|Procuradoria-Geral do Município |438,5 |12,5 |
-
-|Controladoria-Geral do Município |122,5 |2,5 |
-
-|Fundação de Parques Municipais e Zoobotânica |234 |25 |
-
-|Fundação Municipal de Cultura |196,5 |31 |
-
-|Gabinete do Prefeito |459 |38 |
-
-|Gabinete do Vice-Prefeito |0 |0 |
-
-|Hospital Metropolitano Odilon Behrens |174 |0 |
-
-|Superintendência de Desenvolvimento da Capital |298 |9,5 |
-
-|Superintendência de Limpeza Urbana |240 |39 |
-
-|Superintendência de Mobilidade do Município de Belo |186,5 |37,5 |
-
-|Horizonte | | |
-
-|TOTAL DE PONTOS |6.847,5 |844 |
+| DISTRIBUIÇÃO DE PONTOS UNITÁRIOS DE DAM E FCA |  |  |
+| --- | --- | --- |
+| ÓRGÃOS | TOTAL DE PONTOS | TOTAL DE PONTOS FCA |
+|  | DAM UNITÁRIOS | UNITÁRIOS |
+| Secretaria Municipal de Assistência Social e Direitos | 352 | 129 |
+| Humanos |  |  |
+| Secretaria Municipal de Segurança Alimentar e | 155 | 49 |
+| Nutricional |  |  |
+| Secretaria Municipal de Negócios, Investimentos e | 23 | 0 |
+| Relações Internacionais |  |  |
+| Secretaria Municipal de Cultura | 146 | 11,5 |
+| Secretaria Municipal de Desenvolvimento Econômico e | 90,5 | 12 |
+| Trabalho |  |  |
+| Secretaria Municipal de Educação | 233 | 30 |
+| Secretaria Municipal de Esportes e Lazer | 166 | 11,5 |
+| Secretaria Municipal de Fazenda | 247,5 | 64 |
+| Secretaria Municipal de Administração Logística e | 163,5 | 112,5 |
+| Patrimonial |  |  |
+| Secretaria Municipal de Governo | 591,5 | 7,5 |
+| Secretaria Municipal de Meio Ambiente | 185 | 2,5 |
+| Secretaria Municipal de Obras e Infraestrutura | 490,5 | 20,5 |
+| Secretaria Municipal de Planejamento, Orçamento e | 436 | 87,5 |
+| Gestão |  |  |
+| Secretaria Municipal de Desenvolvimento Urbano | 508,5 | 51,5 |
+| Secretaria Municipal de Saúde | 323 | 19 |
+| Secretaria Municipal de Segurança e Prevenção | 203,5 | 28 |
+| Secretaria Municipal de Mobilidade Urbana | 91 | 12 |
+| Secretaria-Geral | 93 | 1 |
+| Procuradoria-Geral do Município | 438,5 | 12,5 |
+| Controladoria-Geral do Município | 122,5 | 2,5 |
+| Fundação de Parques Municipais e Zoobotânica | 234 | 25 |
+| Fundação Municipal de Cultura | 196,5 | 31 |
+| Gabinete do Prefeito | 459 | 38 |
+| Gabinete do Vice-Prefeito | 0 | 0 |
+| Hospital Metropolitano Odilon Behrens | 174 | 0 |
+| Superintendência de Desenvolvimento da Capital | 298 | 9,5 |
+| Superintendência de Limpeza Urbana | 240 | 39 |
+| Superintendência de Mobilidade do Município de Belo | 186,5 | 37,5 |
+| Horizonte |  |  |
+| TOTAL DE PONTOS | 6.847,5 | 844 |
 
 ”
 
@@ -138,116 +101,66 @@ ANEXO II
 
 IV.4 – Secretaria Municipal de Desenvolvimento Econômico e Trabalho – SMDE
 
-|SMDE |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |3 |SMDE.DAM1.L.001 a SMDE.DAM1.L.003 |
-
-| |AMPLO |0 |- |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMDE.DAM2.A.001 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |9 |SMDE.DAM3.A.001 a SMDE.DAM3.A.009 |
-
-|DAM-4 |LIMITADO |1 |SMDE.DAM4.L.001 |
-
-| |AMPLO |6 |SMDE.DAM4.A.001 a SMDE.DAM4.A.006 |
-
-|DAM-5 |LIMITADO |1 |SMDE.DAM5.L.001 |
-
-| |AMPLO |2 |SMDE.DAM5.A.001 a SMDE.DAM5.A.002 |
-
-|DAM-6 |LIMITADO |0 |- |
-
-| |AMPLO |3 |SMDE.DAM6.A.001 a SMDE.DAM6.A.003 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMDE.DAM7.A.001 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |2 |SMDE.DAM8.A.001 a SMDE.DAM8.A.002 |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |1 |SMDE.FCA3.001 |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |2 |SMDE.FCA5.001 a SMDE.FCA5.002 |
-
-|FCA-6 |LIMITADO |1 |SMDE.FCA6.001 |
-
-|TOTAL DE CARGOS |33 | |
+| SMDE |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 3 | SMDE.DAM1.L.001 a SMDE.DAM1.L.003 |
+|  | AMPLO | 0 | - |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMDE.DAM2.A.001 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 9 | SMDE.DAM3.A.001 a SMDE.DAM3.A.009 |
+| DAM-4 | LIMITADO | 1 | SMDE.DAM4.L.001 |
+|  | AMPLO | 6 | SMDE.DAM4.A.001 a SMDE.DAM4.A.006 |
+| DAM-5 | LIMITADO | 1 | SMDE.DAM5.L.001 |
+|  | AMPLO | 2 | SMDE.DAM5.A.001 a SMDE.DAM5.A.002 |
+| DAM-6 | LIMITADO | 0 | - |
+|  | AMPLO | 3 | SMDE.DAM6.A.001 a SMDE.DAM6.A.003 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMDE.DAM7.A.001 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 2 | SMDE.DAM8.A.001 a SMDE.DAM8.A.002 |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 1 | SMDE.FCA3.001 |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 2 | SMDE.FCA5.001 a SMDE.FCA5.002 |
+| FCA-6 | LIMITADO | 1 | SMDE.FCA6.001 |
+| TOTAL DE CARGOS | 33 |  |  |
 
 (...)
 
 IV.25 – Secretaria Municipal de Administração Logística e Patrimonial – SMALOG
 
-|SMALOG |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |0 |- |
-
-| |AMPLO |5 |SMAL.DAM1.A.001 a SMAL.DAM1.A.005 |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |5 |SMAL.DAM2.A.001 a SMAL.DAM2.A.005 |
-
-|DAM-3 |LIMITADO |1 |SMAL.DAM3.L.001 |
-
-| |AMPLO |11 |SMAL.DAM3.A.001 a SMAL.DAM3.A.011 |
-
-|DAM-4 |LIMITADO |2 |SMAL.DAM4.L.001 a SMAL.DAM4.L.002 |
-
-| |AMPLO |2 |SMAL.DAM4.A.001 a SMAL.DAM4.A.002 |
-
-|DAM-5 |LIMITADO |3 |SMAL.DAM5.L.001 a SMAL.DAM5.L.003 |
-
-| |AMPLO |11 |SMAL.DAM5.A.001 a SMAL.DAM5.A.011 |
-
-|DAM-6 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMAL.DAM6.A.001 |
-
-|DAM-7 |LIMITADO |1 |SMAL.DAM7.L.001 |
-
-| |AMPLO |8 |SMAL.DAM7.A.001 a SMAL.DAM7.A.008 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |8 |SMAL.FCA1.001 a SMAL.FCA1.008 |
-
-|FCA-2 |LIMITADO |8 |SMAL.FCA2.001 a SMAL.FCA2.008 |
-
-|FCA-3 |LIMITADO |8 |SMAL.FCA3.001 a SMAL.FCA3.008 |
-
-|FCA-4 |LIMITADO |15 |SMAL.FCA4.001 a SMAL.FCA4.015 |
-
-|FCA-5 |LIMITADO |5 |SMAL.FCA5.001 a SMAL.FCA5.005 |
-
-|FCA-6 |LIMITADO |6 |SMAL.FCA6.001 a SMAL.FCA6.006 |
-
-|TOTAL DE CARGOS |100 | |
+| SMALOG |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 0 | - |
+|  | AMPLO | 5 | SMAL.DAM1.A.001 a SMAL.DAM1.A.005 |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 5 | SMAL.DAM2.A.001 a SMAL.DAM2.A.005 |
+| DAM-3 | LIMITADO | 1 | SMAL.DAM3.L.001 |
+|  | AMPLO | 11 | SMAL.DAM3.A.001 a SMAL.DAM3.A.011 |
+| DAM-4 | LIMITADO | 2 | SMAL.DAM4.L.001 a SMAL.DAM4.L.002 |
+|  | AMPLO | 2 | SMAL.DAM4.A.001 a SMAL.DAM4.A.002 |
+| DAM-5 | LIMITADO | 3 | SMAL.DAM5.L.001 a SMAL.DAM5.L.003 |
+|  | AMPLO | 11 | SMAL.DAM5.A.001 a SMAL.DAM5.A.011 |
+| DAM-6 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMAL.DAM6.A.001 |
+| DAM-7 | LIMITADO | 1 | SMAL.DAM7.L.001 |
+|  | AMPLO | 8 | SMAL.DAM7.A.001 a SMAL.DAM7.A.008 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 8 | SMAL.FCA1.001 a SMAL.FCA1.008 |
+| FCA-2 | LIMITADO | 8 | SMAL.FCA2.001 a SMAL.FCA2.008 |
+| FCA-3 | LIMITADO | 8 | SMAL.FCA3.001 a SMAL.FCA3.008 |
+| FCA-4 | LIMITADO | 15 | SMAL.FCA4.001 a SMAL.FCA4.015 |
+| FCA-5 | LIMITADO | 5 | SMAL.FCA5.001 a SMAL.FCA5.005 |
+| FCA-6 | LIMITADO | 6 | SMAL.FCA6.001 a SMAL.FCA6.006 |
+| TOTAL DE CARGOS | 100 |  |  |
 
 ”

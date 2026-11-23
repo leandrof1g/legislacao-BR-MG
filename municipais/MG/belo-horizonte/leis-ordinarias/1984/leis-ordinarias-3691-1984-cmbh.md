@@ -172,342 +172,176 @@ Hélio Garcia
 
 Prefeito de Belo Horizonte
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+
+| ANEXO IV QUE SE REFERE O ARTIGO 14 |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| QUADRO PERMANENTE |  |  |  |  |  |  |  |
+| Grupo | Denominação dos Grupos e | Código das | Símbolo de | Regimento | Composição das Classes | Formas de Recrutamento |  |
+|  | das Classes | Classes | Vencimento ou | Jurídico |  |  |  |
+|  |  |  | salário |  |  |  |  |
+|  |  |  |  |  | Cargos | Empregos |  |
+| 1 | Administração Geral |  |  |  |  |  |  |
+| 1.1 | Provimento em Comissão |  |  |  |  |  |  |
+|  | Administrador Regional | DA-01 | XXII | Estatutário | 09 | - | Amplo |
+|  | Assessor III | DA-02 | XXI | Estatutário | 47 | - | Amplo |
+|  | Assessor II | DA-03 | XX | Estatutário | 75 | - | Amplo |
+|  | Assessor I | DA-04 | XIX | Estatutário | 135 | - | Amplo |
+|  | Assessor de Impressa | DA-05 | Especial | Estatutário | 01 | - | Amplo |
+|  | Assistente III | DA-06 | XVIII | Estatutário | 26 | - | 50% Amplo/50%Limitado |
+|  | Assistente II | DA-07 | XVII | Estatutário | 44 | - | 50%Amplo/50%Limitado |
+|  | Assistente I | DA-08 | XVI | Estatutário | 72 | - | 50%Amplo/50%Limitado |
+|  | Assistente Administrativo | DA-09 | XI | Estatutário | 30 | - | Limitado |
+|  | Auditor Geral | DA-10 | Especial | Estatutário | 01 | - | Amplo |
+|  | Auxiliar de Gabinete | DA-11 | XIII | Estatutário | 56 | - | Amplo |
+|  | Chefe de Consultoria do | DA-12 | XXII | Estatutário | 01 | - | Amplo |
+|  | Prefeito |  |  |  |  |  |  |
+|  | Chefe de Gabinete do | DA-13 | Espacial | Estatutário | 01 | - | Amplo |
+|  | Prefeito |  |  |  |  |  |  |
+|  | Chefe de Seção | DA-14 | XIX | Estatutário | 250 | - | Limitado |
+| Nº de cargos com redação dada pela Lei nº 4.304, de 27/12/1985 (art. 1º, I) 258 |  |  |  |  |  |  |  |
+|  | Chefe de Serviço | DA-15 | XX | Estatutário | 55 | - | Limitado |
+|  | Chefe de Setor | DA-16 | XVIII | Estatutário | 280 | - | Limitado |
+| Nº de cargos com redação dada pela Lei nº 4.304, de 27/12/1985 (art. 1º, II) 291 |  |  |  |  |  |  |  |
+|  | Coordenador de Fiscalização | DA-18 | XV | Estatutário | 40 | - | Limitado |
+|  | Coordenador de Projeto | DA-19 | XIX | Estatutário | 08 | - | Limitado |
+|  | Corregedor Municipal | DA-20 | Espacial | Estatutário | 01 | - | Amplo |
+|  | Corregedor Municipal |  |  |  |  |  |  |
+|  | Adjunto | DA-21 | XXII | Estatutário | 01 | - | Amplo |
+|  | Diretor II | DA-23 | XXI | Estatutário | 65 | - | Amplo |
+|  | Diretor I | DA-22 | XX | Estatutário | 06 | - | Amplo |
+|  | Encarregado II | DA-28 | IX | Estatutário | 30 | - | Limitado |
+|  | Encarregado I | DA-27 | VII | Estatutário | 100 | - | Limitado |
+|  | Inspetor de Finanças | DA-29 | XV | Estatutário | 10 | - | Limitado |
+|  | Oficial de Gabinete do | DA-30 | XVIII | Estatutário | 21 | - | Amplo |
+|  | Prefeito |  |  |  |  |  |  |
+|  | Procurador Geral do | DA-31 | Especial | Estatutário | 01 | - | Amplo |
+|  | Município |  |  |  |  |  |  |
+|  | Secretário da Junta de | DA-33 | XX | Estatutário | 01 | - | Amplo |
+|  | Recursos Fiscais |  |  |  |  |  |  |
+|  | Secretária Municipal | DA-34 | Especial | Estatutário | 14 | - | Amplo |
+|  | Secretário Municipal |  |  |  |  |  |  |
+|  | Adjunto | DA-35 | XXII | Estatutário | 14 | - | Amplo |
+|  | Secretário Particular |  |  |  |  |  |  |
+|  | Prefeito | DA-36 | XXII | Estatutário | 01 | - | Amplo |
+|  | Subprocurador | DA-37 | XXII | Estatutário | 01 | - | Amplo |
+|  | Supervisor de Segurança | DA-39 | XV | Estatutário | 03 | - | Amplo |
+| 1.2 | PROVIMENTO EFETIVO |  |  |  |  |  |  |
+|  | Advogado | NS-01 | XVII | Estatutário | 50 | - | - |
+|  | Agente de Administração III | SG-01 | X | Estatutário | 100 | - | - |
+|  | Agente Administração II | SG-02 | IX | Estatutário | 200 | - | - |
+|  | Agente de Administração I | SG-03 | VI | Estatutário | 1200 | - | - |
+|  | Auxiliar de Administração | PG-01 | III | Estatutário | 200 | - | - |
+|  | Estatístico | NS-13 | XVIII | CLT | - | 03 | - |
+|  | Fiscal Municipal | PG-05 | X | CLT | - | 180 | - |
+|  | Fiscal Municipal de | SG-07 | XIV | Estatutário | 100 | - | - |
+|  | Posturas |  |  |  |  |  |  |
+|  | Técnico de Administração | NS-23 | XVII | Estatutário | 20 | - | - |
+|  | Técnico em Comunicação | NS-24 | XVII | CLT | - | 08 | - |
+|  | Social |  |  |  |  |  |  |
+|  | Técnico em Estatística | SG-14 | X | CLT | - | 10 | - |
+|  | Telefonista | PG-10 | VI | CLT | - | 40 | - |
+| 2 | TRIBUTAÇÃO |  |  |  |  |  |  |
+|  | FISCALIZAÇÃO E |  |  |  |  |  |  |
+|  | CONTABILIDADE PROVIMENTO |  |  |  |  |  |  |
+|  | EFETIVO |  |  |  |  |  |  |
+| 3 | Contador | NS-07 | XVII | CLT | - | 04 | - |
+|  | Economista | NS-08 | XVII | CLT | - | 03 | - |
+| 3.1 | Fiscal Municipal de | SG-09 | XIV | Estatutário | 100 | - | - |
+|  | Tributação |  |  |  |  |  |  |
+| Nº de cargos com redação dada pela Lei nº 3.869, de 14/9/1984 (Art. 1º) | 140 |  |  |  |  |  |  |
+|  | Técnico de Contabilidade | SG-12 | X | CLT | - | 50 | - |
+|  | Técnico Municipal de | NS-25 | XVII | Estatutário | 25 | - | - |
+|  | Tributação |  |  |  |  |  |  |
+| Nº de cargos com redação dada pela Lei nº 3.869, de 14/9/1984 (Art. 1º) 50 |  |  |  |  |  |  |  |
+|  | Tesoureiro | SG-17 | X | CLT | - | 30 | - |
+| 3 | EDUCAÇÃO, CULTURA E TURISMO |  |  |  |  |  |  |
+|  | PROVIMENTO EM COMISSÃO |  |  |  |  |  |  |
+|  | Coordenador de Ensino | DA-17 | XVII | Estatutário | 20 | - | Limitado |
+|  | Diretor de Estabelecimento | DA-26 | XX | Estatutário | 03 | - | Limitado |
+|  | de Ensino III |  |  |  |  |  |  |
+|  | Diretor de Estabelecimento | DA-25 | XVIII | Estatutário | 20 | - | Limitado |
+|  | de Ensino II |  |  |  |  |  |  |
+|  | Diretor de Estabelecimento | DA-24 | XVII | Estatutário | 90 | - | Limitado |
+|  | de Ensino I |  |  |  |  |  |  |
+|  | Secretário de | DA-32 | XIII | Estatutário | 110 | - | Limitado |
+|  | Estabelecimento de Ensino |  |  |  |  |  |  |
+| Símbolo com redação dada pela Lei nº 3.803, de 11/7/1984 (Art. 5º, III), |  |  |  |  |  |  |  |
+| a partir de 1º 10/1984 XV |  |  |  |  |  |  |  |
+|  | Vice-Diretor de | DA-24 | XVIII | Estatutário | 08 | - | Limitado |
+|  | Estabelecimento de Ensino |  |  |  |  |  |  |
+|  | III |  |  |  |  |  |  |
+|  | Vice-Diretor de | DA-41 | XVI | Estatutário | 15 | - | Limitado |
+|  | Estabelecimento de Ensino |  |  |  |  |  |  |
+|  | II |  |  |  |  |  |  |
+|  | Vice-Diretor de | DA-40 | XIV | Estatutário | 73 | - | Limitado |
+|  | Estabelecimento de Ensino I |  |  |  |  |  |  |
+| Símbolo com redação dada pela Lei nº 3.803, de 11/7/1984 (Art. 5º, II), |  |  |  |  |  |  |  |
+| a partir de 1º 10/1984 XV |  |  |  |  |  |  |  |
+|  | Supervisão de Alimentação | DA-38 | XII | Estatutário | 20 | - | Limitado |
+|  | Escolar |  |  |  |  |  |  |
+| Símbolo com redação dada pela Lei nº 3.803, de 11/7/1984 (Art. 5º, IV), |  |  |  |  |  |  |  |
+| a partir de 1º/10/1984 XV |  |  |  |  |  |  |  |
+| 3.2 | PROVIMENTO EFETIVO |  |  |  |  |  |  |
+|  | Bibliotecário | NS-04 | XVII | CLT | - | 08 | - |
+|  | Orientador Educacional | NS-17 | XVII | CLT | - | 30 | - |
+|  | Pedagogo | NS-18 | XVII | CLT | - | 08 | - |
+|  | Psicólogo | NS-20 | XVII | CLT | - | 20 | - |
+| Nº de cargos com redação dada pela Lei nº 4.304, de 27/12/1985 (art. 1º, III) 26 |  |  |  |  |  |  |  |
+|  | Professor Municipal II | NS-19 | XVII | CLT | - | 100 | - |
+|  | Professor Municipal I | SG-10 | X | Estatutário | 3200 | - | - |
+| Símbolo com redação dada pela Lei nº 3.803, de 11/7/1984 (Art. 5º, I), a |  |  |  |  |  |  |  |
+| partir de 1º 10/1984 XIV |  |  |  |  |  |  |  |
+|  | Sociólogo | NS-21 | XVII | CLT | - | 03 | - |
+|  | Supervisor Pedagógico | NS-22 | XIV | CLT | - | 300 | - |
+| Símbolo com redação dada pela Lei nº 3.803, de 11/7/1984, a partir de |  |  |  |  |  |  |  |
+| 1º/10/1984 (Art. 5º, V) XV |  |  |  |  |  |  |  |
+| Símbolo com redação dada pela Lei nº 4.061, de 17/4/1985 (Art.1º) |  |  |  |  |  |  |  |
+| XVII |  |  |  |  |  |  |  |
+| Nº de cargos com redação dada pela Lei nº 4.304, de 27/12/1985 (art. 1º, IV) 369 |  |  |  |  |  |  |  |
+|  | Técnico de Turismo | NS-26 | XVII | CLT | - | 06 | - |
+| 4 | SAÚDE E ASSISTÊNCIA |  |  |  |  |  |  |
+|  | PROVIMENTO EFETIVO |  |  |  |  |  |  |
+|  | Assistente Social | NS-03 | XVII | CLT | - | 70 | - |
+|  | Auxiliar de Enfermagem | SG-04 | VI | CLT | - | 130 | - |
+|  | Biólogo | NS-05 | XVII | CLT | - | 03 | - |
+|  | Cirurgião-Dentista | NS-06 | XVII | CLT | - | 200 | - |
+|  | Enfermeiro | NS-09 | XVII | CLT | - | 30 | - |
+|  | Farmacêutico-Bioquímico | NS-14 | XVII | CLT | - | 25 | - |
+| 5 | Fiscal Municipal de Saúde | SG-08 | XIV | CLT | - | 200 | - |
+|  | Médico | NS-15 | XVII | CLT | - | 200 | - |
+|  | Médico Veterinário | NS-16 | XVII | CLT | - | 10 | - |
+|  | Operador de Raio X | PG-08 | VI | CLT | - | 15 | - |
+|  | Técnico em Equipamento | PG-09 | VIII | CLT | - | 04 | - |
+|  | Odontológico |  |  |  |  |  |  |
+|  | Técnico em Laboratórios | SG-16 | X | CLT | - | 30 | - |
+|  | Médicos |  |  |  |  |  |  |
+|  | ENGENHARIA E ATIVIDADES |  |  |  |  |  |  |
+|  | AFINS PROVIMENTOS EFETIVOS |  |  |  |  |  |  |
+|  | Arquiteto | NS-02 | XVII | CLT | - | 20 | - |
+|  | Desenhista Técnico | SG-05 | X | CLT | - | 40 | - |
+|  | Engenheiro | NS-10 | XVII | CLT | - | 80 | - |
+|  | Engenheiro Agrimensor | NS-11 | XVII | Estatutário | 11 | - | - |
+|  | Engenheiro Agrônomo | NS-12 | XVII | CLT | - | 05 | - |
+|  | Fiscal de Obras | SG-06 | XIV | Estatutário | 50 | - | - |
+|  | Técnico em Agrimensura | SG-11 | X | CLT | - | 20 | - |
+|  | Técnico em Edificações | SG-13 | X | CLT | - | 05 | - |
+|  | Técnico em Estradas | SG-15 | X | CLT | - | 06 | - |
+|  | Urbanista | NS-27 | XVII | CLT | - | 10 | - |
+| 6 | OFÍCIOS E TRABALHOS |  |  |  |  |  |  |
+|  | ELEMENTARARES PROVIMENTO |  |  |  |  |  |  |
+|  | EFETIVO |  |  |  |  |  |  |
+|  | Auxiliar de Serviços | NE-01 | II | CLT | - | 1517 | - |
+|  | Chapista | PG-02 | VIII | CLT | - | 04 | - |
+|  | Cortador | PG-03 | VIII | CLT | - | 03 | - |
+|  | Encadernador | PG-04 | IV | CLT | - | 10 | - |
+|  | Garçon | NE-02 | V | CLT | - | 20 | - |
+|  | Impressor | PG-06 | VIII | CLT | - | 10 | - |
+|  | Oficial de Serviços | NE-03 | IV | CLT | - | 515 | - |
+|  | Operador de Máquina |  |  |  |  |  |  |
+|  | Pesador | NE-04 | IX | CLT | - | 30 | - |
+|  | Operador de Microfilmagem | PG-07 | VIII | CLT | - | 15 | - |
+|  | Trabalhador Braçal | NE-05 | I | CLT | - | 550 | - |
+
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-|ANEXO IV QUE SE REFERE O ARTIGO 14 |
-
-|QUADRO PERMANENTE |
-
-|Grupo |Denominação dos Grupos e |Código das |Símbolo de |Regimento |Composição das Classes |Formas de Recrutamento |
-
-| |das Classes |Classes |Vencimento ou |Jurídico | | |
-
-| | | |salário | | | |
-
-| | | | | |Cargos |Empregos | |
-
-|1 |Administração Geral | | | | | | |
-
-|1.1 |Provimento em Comissão | | | | | | |
-
-| |Administrador Regional |DA-01 |XXII |Estatutário |09 |- |Amplo |
-
-| |Assessor III |DA-02 |XXI |Estatutário |47 |- |Amplo |
-
-| |Assessor II |DA-03 |XX |Estatutário |75 |- |Amplo |
-
-| |Assessor I |DA-04 |XIX |Estatutário |135 |- |Amplo |
-
-| |Assessor de Impressa |DA-05 |Especial |Estatutário |01 |- |Amplo |
-
-| |Assistente III |DA-06 |XVIII |Estatutário |26 |- |50% Amplo/50%Limitado |
-
-| |Assistente II |DA-07 |XVII |Estatutário |44 |- |50%Amplo/50%Limitado |
-
-| |Assistente I |DA-08 |XVI |Estatutário |72 |- |50%Amplo/50%Limitado |
-
-| |Assistente Administrativo |DA-09 |XI |Estatutário |30 |- |Limitado |
-
-| |Auditor Geral |DA-10 |Especial |Estatutário |01 |- |Amplo |
-
-| |Auxiliar de Gabinete |DA-11 |XIII |Estatutário |56 |- |Amplo |
-
-| |Chefe de Consultoria do |DA-12 |XXII |Estatutário |01 |- |Amplo |
-
-| |Prefeito | | | | | | |
-
-| |Chefe de Gabinete do |DA-13 |Espacial |Estatutário |01 |- |Amplo |
-
-| |Prefeito | | | | | | |
-
-| |Chefe de Seção |DA-14 |XIX |Estatutário |250 |- |Limitado |
-
-|Nº de cargos com redação dada pela Lei nº 4.304, de 27/12/1985 (art. 1º, I) 258 | | |
-
-| |Chefe de Serviço |DA-15 |XX |Estatutário |55 |- |Limitado |
-
-| |Chefe de Setor |DA-16 |XVIII |Estatutário |280 |- |Limitado |
-
-|Nº de cargos com redação dada pela Lei nº 4.304, de 27/12/1985 (art. 1º, II) 291 | | |
-
-| |Coordenador de Fiscalização|DA-18 |XV |Estatutário |40 |- |Limitado |
-
-| |Coordenador de Projeto |DA-19 |XIX |Estatutário |08 |- |Limitado |
-
-| |Corregedor Municipal |DA-20 |Espacial |Estatutário |01 |- |Amplo |
-
-| |Corregedor Municipal | | | | | | |
-
-| |Adjunto |DA-21 |XXII |Estatutário |01 |- |Amplo |
-
-| |Diretor II |DA-23 |XXI |Estatutário |65 |- |Amplo |
-
-| |Diretor I |DA-22 |XX |Estatutário |06 |- |Amplo |
-
-| |Encarregado II |DA-28 |IX |Estatutário |30 |- |Limitado |
-
-| |Encarregado I |DA-27 |VII |Estatutário |100 |- |Limitado |
-
-| |Inspetor de Finanças |DA-29 |XV |Estatutário |10 |- |Limitado |
-
-| |Oficial de Gabinete do |DA-30 |XVIII |Estatutário |21 |- |Amplo |
-
-| |Prefeito | | | | | | |
-
-| |Procurador Geral do |DA-31 |Especial |Estatutário |01 |- |Amplo |
-
-| |Município | | | | | | |
-
-| |Secretário da Junta de |DA-33 |XX |Estatutário |01 |- |Amplo |
-
-| |Recursos Fiscais | | | | | | |
-
-| |Secretária Municipal |DA-34 |Especial |Estatutário |14 |- |Amplo |
-
-| |Secretário Municipal | | | | | | |
-
-| |Adjunto |DA-35 |XXII |Estatutário |14 |- |Amplo |
-
-| |Secretário Particular | | | | | | |
-
-| |Prefeito |DA-36 |XXII |Estatutário |01 |- |Amplo |
-
-| |Subprocurador |DA-37 |XXII |Estatutário |01 |- |Amplo |
-
-| |Supervisor de Segurança |DA-39 |XV |Estatutário |03 |- |Amplo |
-
-|1.2 |PROVIMENTO EFETIVO | | | | | | |
-
-| |Advogado |NS-01 |XVII |Estatutário |50 |- |- |
-
-| |Agente de Administração III|SG-01 |X |Estatutário |100 |- |- |
-
-| |Agente Administração II |SG-02 |IX |Estatutário |200 |- |- |
-
-| |Agente de Administração I |SG-03 |VI |Estatutário |1200 |- |- |
-
-| |Auxiliar de Administração |PG-01 |III |Estatutário |200 |- |- |
-
-| |Estatístico |NS-13 |XVIII |CLT |- |03 |- |
-
-| |Fiscal Municipal |PG-05 |X |CLT |- |180 |- |
-
-| |Fiscal Municipal de |SG-07 |XIV |Estatutário |100 |- |- |
-
-| |Posturas | | | | | | |
-
-| |Técnico de Administração |NS-23 |XVII |Estatutário |20 |- |- |
-
-| |Técnico em Comunicação |NS-24 |XVII |CLT |- |08 |- |
-
-| |Social | | | | | | |
-
-| |Técnico em Estatística |SG-14 |X |CLT |- |10 |- |
-
-| |Telefonista |PG-10 |VI |CLT |- |40 |- |
-
-|2 |TRIBUTAÇÃO | | | | | | |
-
-| |FISCALIZAÇÃO E | | | | | | |
-
-| |CONTABILIDADE PROVIMENTO | | | | | | |
-
-| |EFETIVO | | | | | | |
-
-|3 |Contador |NS-07 |XVII |CLT |- |04 |- |
-
-| |Economista |NS-08 |XVII |CLT |- |03 |- |
-
-|3.1 |Fiscal Municipal de |SG-09 |XIV |Estatutário |100 |- |- |
-
-| |Tributação | | | | | | |
-
-|Nº de cargos com redação dada pela Lei nº 3.869, de 14/9/1984 (Art. 1º) |140 | | |
-
-| |Técnico de Contabilidade |SG-12 |X |CLT |- |50 |- |
-
-| |Técnico Municipal de |NS-25 |XVII |Estatutário |25 |- |- |
-
-| |Tributação | | | | | | |
-
-|Nº de cargos com redação dada pela Lei nº 3.869, de 14/9/1984 (Art. 1º) 50 | | |
-
-| |Tesoureiro |SG-17 |X |CLT |- |30 |- |
-
-|3 |EDUCAÇÃO, CULTURA E TURISMO| | | | | | |
-
-| |PROVIMENTO EM COMISSÃO | | | | | | |
-
-| |Coordenador de Ensino |DA-17 |XVII |Estatutário |20 |- |Limitado |
-
-| |Diretor de Estabelecimento |DA-26 |XX |Estatutário |03 |- |Limitado |
-
-| |de Ensino III | | | | | | |
-
-| |Diretor de Estabelecimento |DA-25 |XVIII |Estatutário |20 |- |Limitado |
-
-| |de Ensino II | | | | | | |
-
-| |Diretor de Estabelecimento |DA-24 |XVII |Estatutário |90 |- |Limitado |
-
-| |de Ensino I | | | | | | |
-
-| |Secretário de |DA-32 |XIII |Estatutário |110 |- |Limitado |
-
-| |Estabelecimento de Ensino | | | | | | |
-
-|Símbolo com redação dada pela Lei nº 3.803, de 11/7/1984 (Art. 5º, III),| | | | |
-
-|a partir de 1º 10/1984 XV | | | | |
-
-| |Vice-Diretor de |DA-24 |XVIII |Estatutário |08 |- |Limitado |
-
-| |Estabelecimento de Ensino | | | | | | |
-
-| |III | | | | | | |
-
-| |Vice-Diretor de |DA-41 |XVI |Estatutário |15 |- |Limitado |
-
-| |Estabelecimento de Ensino | | | | | | |
-
-| |II | | | | | | |
-
-| |Vice-Diretor de |DA-40 |XIV |Estatutário |73 |- |Limitado |
-
-| |Estabelecimento de Ensino I| | | | | | |
-
-|Símbolo com redação dada pela Lei nº 3.803, de 11/7/1984 (Art. 5º, II), | | | | |
-
-|a partir de 1º 10/1984 XV | | | | |
-
-| |Supervisão de Alimentação |DA-38 |XII |Estatutário |20 |- |Limitado |
-
-| |Escolar | | | | | | |
-
-|Símbolo com redação dada pela Lei nº 3.803, de 11/7/1984 (Art. 5º, IV), | | | | |
-
-|a partir de 1º/10/1984 XV | | | | |
-
-|3.2 |PROVIMENTO EFETIVO | | | | | | |
-
-| |Bibliotecário |NS-04 |XVII |CLT |- |08 |- |
-
-| |Orientador Educacional |NS-17 |XVII |CLT |- |30 |- |
-
-| |Pedagogo |NS-18 |XVII |CLT |- |08 |- |
-
-| |Psicólogo |NS-20 |XVII |CLT |- |20 |- |
-
-|Nº de cargos com redação dada pela Lei nº 4.304, de 27/12/1985 (art. 1º, III) 26 | |
-
-| |Professor Municipal II |NS-19 |XVII |CLT |- |100 |- |
-
-| |Professor Municipal I |SG-10 |X |Estatutário |3200 |- |- |
-
-|Símbolo com redação dada pela Lei nº 3.803, de 11/7/1984 (Art. 5º, I), a| | | | |
-
-|partir de 1º 10/1984 XIV | | | | |
-
-| |Sociólogo |NS-21 |XVII |CLT |- |03 |- |
-
-| |Supervisor Pedagógico |NS-22 |XIV |CLT |- |300 |- |
-
-|Símbolo com redação dada pela Lei nº 3.803, de 11/7/1984, a partir de | | | | |
-
-|1º/10/1984 (Art. 5º, V) XV | | | | |
-
-|Símbolo com redação dada pela Lei nº 4.061, de 17/4/1985 (Art.1º) | | | | |
-
-|XVII | | | | |
-
-|Nº de cargos com redação dada pela Lei nº 4.304, de 27/12/1985 (art. 1º, IV) 369 | |
-
-| |Técnico de Turismo |NS-26 |XVII |CLT |- |06 |- |
-
-|4 |SAÚDE E ASSISTÊNCIA | | | | | | |
-
-| |PROVIMENTO EFETIVO | | | | | | |
-
-| |Assistente Social |NS-03 |XVII |CLT |- |70 |- |
-
-| |Auxiliar de Enfermagem |SG-04 |VI |CLT |- |130 |- |
-
-| |Biólogo |NS-05 |XVII |CLT |- |03 |- |
-
-| |Cirurgião-Dentista |NS-06 |XVII |CLT |- |200 |- |
-
-| |Enfermeiro |NS-09 |XVII |CLT |- |30 |- |
-
-| |Farmacêutico-Bioquímico |NS-14 |XVII |CLT |- |25 |- |
-
-|5 |Fiscal Municipal de Saúde |SG-08 |XIV |CLT |- |200 |- |
-
-| |Médico |NS-15 |XVII |CLT |- |200 |- |
-
-| |Médico Veterinário |NS-16 |XVII |CLT |- |10 |- |
-
-| |Operador de Raio X |PG-08 |VI |CLT |- |15 |- |
-
-| |Técnico em Equipamento |PG-09 |VIII |CLT |- |04 |- |
-
-| |Odontológico | | | | | | |
-
-| |Técnico em Laboratórios |SG-16 |X |CLT |- |30 |- |
-
-| |Médicos | | | | | | |
-
-| |ENGENHARIA E ATIVIDADES | | | | | | |
-
-| |AFINS PROVIMENTOS EFETIVOS | | | | | | |
-
-| |Arquiteto |NS-02 |XVII |CLT |- |20 |- |
-
-| |Desenhista Técnico |SG-05 |X |CLT |- |40 |- |
-
-| |Engenheiro |NS-10 |XVII |CLT |- |80 |- |
-
-| |Engenheiro Agrimensor |NS-11 |XVII |Estatutário |11 |- |- |
-
-| |Engenheiro Agrônomo |NS-12 |XVII |CLT |- |05 |- |
-
-| |Fiscal de Obras |SG-06 |XIV |Estatutário |50 |- |- |
-
-| |Técnico em Agrimensura |SG-11 |X |CLT |- |20 |- |
-
-| |Técnico em Edificações |SG-13 |X |CLT |- |05 |- |
-
-| |Técnico em Estradas |SG-15 |X |CLT |- |06 |- |
-
-| |Urbanista |NS-27 |XVII |CLT |- |10 |- |
-
-|6 |OFÍCIOS E TRABALHOS | | | | | | |
-
-| |ELEMENTARARES PROVIMENTO | | | | | | |
-
-| |EFETIVO | | | | | | |
-
-| |Auxiliar de Serviços |NE-01 |II |CLT |- |1517 |- |
-
-| |Chapista |PG-02 |VIII |CLT |- |04 |- |
-
-| |Cortador |PG-03 |VIII |CLT |- |03 |- |
-
-| |Encadernador |PG-04 |IV |CLT |- |10 |- |
-
-| |Garçon |NE-02 |V |CLT |- |20 |- |
-
-| |Impressor |PG-06 |VIII |CLT |- |10 |- |
-
-| |Oficial de Serviços |NE-03 |IV |CLT |- |515 |- |
-
-| |Operador de Máquina | | | | | | |
-
-| |Pesador |NE-04 |IX |CLT |- |30 |- |
-
-| |Operador de Microfilmagem |PG-07 |VIII |CLT |- |15 |- |
-
-| |Trabalhador Braçal |NE-05 |I |CLT |- |550 |- |
-
-[pic]

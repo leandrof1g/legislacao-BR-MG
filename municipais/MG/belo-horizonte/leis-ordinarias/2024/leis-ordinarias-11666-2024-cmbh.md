@@ -38,11 +38,10 @@ O povo de Belo Horizonte, por seus representantes, decreta e eu sanciono a segui
 
 L - Dias comemorativos de dezembro:
 
-|DEZEMBRO |COMEMORAÇÃO |
-
-|primeiro domingo de dezembro|Dia Municipal de Mobilização para o Plantio de Árvores - Tempo de |
-
-| |Plantar |
+| DEZEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| primeiro domingo de dezembro | Dia Municipal de Mobilização para o Plantio de Árvores - Tempo de |
+|  | Plantar |
 
 .”.
 

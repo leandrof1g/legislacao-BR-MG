@@ -92,30 +92,28 @@ ANEXO I
 
 (a que se refere esta lei)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
 (a que se refere esta lei)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO III - PARÂMETROS URBANÍSTICOS
 
 (a que se refere esta lei)
 
-|Coeficiente de aproveitamento (bruto) |11,9 |
-
-|Afastamento lateral e de fundos |Conforme projeto anteriormente aprovado |
-
-|Número mínimo de vagas para veículos |1 vaga para cada 2 unidades residenciais |
+| Coeficiente de aproveitamento (bruto) | 11,9 |
+| --- | --- |
+| Afastamento lateral e de fundos | Conforme projeto anteriormente aprovado |
+| Número mínimo de vagas para veículos | 1 vaga para cada 2 unidades residenciais |
 
 ANEXO IV - CONTRAPARTIDA
 
 (a que se refere esta lei)
 
-|Renda fundiária adicional - RFA |R$7.527.625,94 |
-
-|Cálculo da contrapartida |RFA/2 |
-
-|Valor da contrapartida |R$3.763.812,97 |
+| Renda fundiária adicional - RFA | R$7.527.625,94 |
+| --- | --- |
+| Cálculo da contrapartida | RFA/2 |
+| Valor da contrapartida | R$3.763.812,97 |

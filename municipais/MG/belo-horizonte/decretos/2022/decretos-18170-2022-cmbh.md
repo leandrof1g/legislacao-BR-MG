@@ -58,101 +58,58 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 - A favor dos seguintes órgãos, conforme autorização contida no |R$ |
-
-|inciso I do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.121.004.2.518.3190.0000 |114.300,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.168.2.080.3191.0005 |982.200,00 |
-
-|2200.12.365.169.2.542.3190.0000 |2.100,00 |
-
-|2200.12.361.168.2.080.3190.0000 |1.000,00 |
-
-|2200.12.361.168.2.080.3191.0005 |1.437.600,00 |
-
-|2200.12.365.169.2.542.3190.0000 |1.100,00 |
-
-|2200.12.361.168.2.080.3190.0000 |2.300,00 |
-
-|2200.12.365.169.2.542.3190.0000 |2.300,00 |
-
-|2200.12.365.169.2.542.3190.0000 |1.800,00 |
-
-|2200.12.365.169.2.542.3191.0005 |259.200,00 |
-
-|2200.12.361.168.2.080.3191.0005 |833.900,00 |
-
-|2200.12.365.169.2.542.3191.0005 |303.200,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.302.030.2.620.3190.0006 |4.400.000,00 |
-
-|2301.10.302.030.2.875.3190.0006 |2.291.693,00 |
-
-|2301.10.302.030.2.875.3191.0006 |1.370.000,00 |
-
-|Fundo Municipal de Saúde - FMS |
-
-|2302.10.305.028.2.829.3190.0000 |555.900,00 |
-
-|2302.10.305.028.2.829.3190.0000 |444.100,00 |
-
-|2302.10.305.028.2.829.3190.0000 |477.200,00 |
-
-|2302.10.305.028.2.829.3190.0000 |375.600,00 |
-
-|2302.10.122.117.2.662.3191.0000 |667.558,12 |
-
-|TOTAL DA SUPLEMENTAÇÃO |14.523.051,12 |
+| I.1.1 - A favor dos seguintes órgãos, conforme autorização contida no | R$ |
+| --- | --- |
+| inciso I do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.121.004.2.518.3190.0000 | 114.300,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.168.2.080.3191.0005 | 982.200,00 |
+| 2200.12.365.169.2.542.3190.0000 | 2.100,00 |
+| 2200.12.361.168.2.080.3190.0000 | 1.000,00 |
+| 2200.12.361.168.2.080.3191.0005 | 1.437.600,00 |
+| 2200.12.365.169.2.542.3190.0000 | 1.100,00 |
+| 2200.12.361.168.2.080.3190.0000 | 2.300,00 |
+| 2200.12.365.169.2.542.3190.0000 | 2.300,00 |
+| 2200.12.365.169.2.542.3190.0000 | 1.800,00 |
+| 2200.12.365.169.2.542.3191.0005 | 259.200,00 |
+| 2200.12.361.168.2.080.3191.0005 | 833.900,00 |
+| 2200.12.365.169.2.542.3191.0005 | 303.200,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.302.030.2.620.3190.0006 | 4.400.000,00 |
+| 2301.10.302.030.2.875.3190.0006 | 2.291.693,00 |
+| 2301.10.302.030.2.875.3191.0006 | 1.370.000,00 |
+| Fundo Municipal de Saúde - FMS |  |
+| 2302.10.305.028.2.829.3190.0000 | 555.900,00 |
+| 2302.10.305.028.2.829.3190.0000 | 444.100,00 |
+| 2302.10.305.028.2.829.3190.0000 | 477.200,00 |
+| 2302.10.305.028.2.829.3190.0000 | 375.600,00 |
+| 2302.10.122.117.2.662.3191.0000 | 667.558,12 |
+| TOTAL DA SUPLEMENTAÇÃO | 14.523.051,12 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, |R$ |
-
-|anulação de recursos orçamentários anteriormente previstos nos seguintes | |
-
-|órgãos: | |
-
-| | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.014.2.809.3190.0000 |114.300,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.169.2.542.3190.0000 |5.200,00 |
-
-|2200.12.361.168.2.080.3190.0000 |2.300,00 |
-
-|2200.12.361.168.2.080.3190.0005 |2.833.900,00 |
-
-|2200.12.361.168.2.080.3190.0005 |982.200,00 |
-
-|2200.12.365.169.2.542.3190.0000 |3.100,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.122.030.2.900.3190.0006 |7.961.693,00 |
-
-|2301.10.122.030.2.900.3191.0006 |100.000,00 |
-
-|Fundo Municipal de Saúde - FMS |
-
-|2302.10.302.114.2.893.3190.0000 |1.000.000,00 |
-
-|2302.10.302.114.2.893.3190.0000 |924.600,00 |
-
-|2302.10.122.117.2.662.3190.0000 |595.758,12 |
-
-|TOTAL DA ANULAÇÃO |14.523.051,12 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, | R$ |
+| --- | --- |
+| anulação de recursos orçamentários anteriormente previstos nos seguintes |  |
+| órgãos: |  |
+|  |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.014.2.809.3190.0000 | 114.300,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.169.2.542.3190.0000 | 5.200,00 |
+| 2200.12.361.168.2.080.3190.0000 | 2.300,00 |
+| 2200.12.361.168.2.080.3190.0005 | 2.833.900,00 |
+| 2200.12.361.168.2.080.3190.0005 | 982.200,00 |
+| 2200.12.365.169.2.542.3190.0000 | 3.100,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.122.030.2.900.3190.0006 | 7.961.693,00 |
+| 2301.10.122.030.2.900.3191.0006 | 100.000,00 |
+| Fundo Municipal de Saúde - FMS |  |
+| 2302.10.302.114.2.893.3190.0000 | 1.000.000,00 |
+| 2302.10.302.114.2.893.3190.0000 | 924.600,00 |
+| 2302.10.122.117.2.662.3190.0000 | 595.758,12 |
+| TOTAL DA ANULAÇÃO | 14.523.051,12 |
 
 ANEXO II
 
@@ -182,36 +139,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite de |Inciso I do § 1º do art. 4º, |Inciso II do § 1º do art. 4º,|
-
-|11.336, de 30/12/2021 |15% do valor total do |limite de 15% do total do |limite de 15% do total do |
-
-|– Limites autorizados |Orçamento: |Orçamento do Grupo 1 – Pessoal |Orçamento do Fundo Municipal |
-
-|para abertura de | |e Encargos Sociais: |de Saúde – FMS: |
-
-|créditos | | | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.094.838.591,73 |R$ 225.786.520,00 |R$ 549.445.452,89 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 1.206.312.093,92 |R$ 658.205.788,70 |R$ 177.771.699,76 |
-
-|suplementares | | | |
-
-|Percentual utilizado |47,58% |25,54% |75,55% |
-
-|Atualizado em 25/11/2022 às 07:29:04 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite de | Inciso I do § 1º do art. 4º, | Inciso II do § 1º do art. 4º, |
+| 11.336, de 30/12/2021 | 15% do valor total do | limite de 15% do total do | limite de 15% do total do |
+| – Limites autorizados | Orçamento: | Orçamento do Grupo 1 – Pessoal | Orçamento do Fundo Municipal |
+| para abertura de |  | e Encargos Sociais: | de Saúde – FMS: |
+| créditos |  |  |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.094.838.591,73 | R$ 225.786.520,00 | R$ 549.445.452,89 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 1.206.312.093,92 | R$ 658.205.788,70 | R$ 177.771.699,76 |
+| suplementares |  |  |  |
+| Percentual utilizado | 47,58% | 25,54% | 75,55% |
+| Atualizado em 25/11/2022 às 07:29:04 |  |  |  |

@@ -58,35 +58,25 @@ DOS FATORES QUALITATIVOS
 
 **Art. 4º** - Os fatores qualitativos, avaliados pelos gerentes imediato e mediato do servidor, correspondem aos critérios adiante relacionados e à sua respectiva segmentação:
 
-|FATORES QUALITATIVOS |ITENS DE OBSERVAÇÃO |
-
-|Relacionamento profissional |Iniciativa |
-
-| |Relacionamento interpessoal |
-
-| |Adaptação e flexibilidade |
-
-|Compromisso institucional |Comprometimento com o trabalho |
-
-| |Planejamento e organização |
-
-| |Qualidade do trabalho |
-
-| |Envolvimento e disponibilidade |
-
-| |Conhecimento do trabalho |
-
-|Postura ética |Respeito às regras |
-
-| |Integridade e ética |
-
-| |Responsabilidade |
+| FATORES QUALITATIVOS | ITENS DE OBSERVAÇÃO |
+| --- | --- |
+| Relacionamento profissional | Iniciativa |
+|  | Relacionamento interpessoal |
+|  | Adaptação e flexibilidade |
+| Compromisso institucional | Comprometimento com o trabalho |
+|  | Planejamento e organização |
+|  | Qualidade do trabalho |
+|  | Envolvimento e disponibilidade |
+|  | Conhecimento do trabalho |
+| Postura ética | Respeito às regras |
+|  | Integridade e ética |
+|  | Responsabilidade |
 
 **§ 1º** - A aferição dos fatores qualitativos será desenvolvida em formulário específico, a ser preenchido conjuntamente pelo gerente imediato e pelo gerente mediato mediante avaliação que contará com a presença do servidor avaliado, oportunidade na qual serão distribuídas notas para cada critério, conforme a seguinte escala:
 
-|Insuficiente |Abaixo do esperado |Esperado |Excelente |
-
-|2 |3 |4 |5 |
+| Insuficiente | Abaixo do esperado | Esperado | Excelente |
+| --- | --- | --- | --- |
+| 2 | 3 | 4 | 5 |
 
 **§ 2º** - A avaliação efetuada pelos gerentes imediato e mediato deverá ser enviada à Gerência de Avaliação de Desempenho - GEAVDE/SMARH ou, conforme a hipótese, para a Divisão de Recursos Humanos - DVRCH-SLU.
 
@@ -98,35 +88,25 @@ DOS FATORES REGISTRAIS
 
 **§ 1º** - A aferição da frequência do servidor consiste na verificação de sua assiduidade e da eventual ocorrência de faltas injustificadas, mediante a atribuição da seguinte pontuação:
 
-|Nº DE FALTAS INJUSTIFICADAS |PONTUAÇÃO |
-
-|Nenhuma falta |5 (cinco) pontos |
-
-|1 (uma) falta |0 (zero) ponto |
-
-|2 (duas) faltas |-1 (menos um) ponto |
-
-|3 (três) faltas |-2 (menos dois) pontos |
-
-|4 (quatro) faltas |-3 (menos três) pontos |
-
-|5 (cinco) faltas |-4 (menos quatro) pontos |
+| Nº DE FALTAS INJUSTIFICADAS | PONTUAÇÃO |
+| --- | --- |
+| Nenhuma falta | 5 (cinco) pontos |
+| 1 (uma) falta | 0 (zero) ponto |
+| 2 (duas) faltas | -1 (menos um) ponto |
+| 3 (três) faltas | -2 (menos dois) pontos |
+| 4 (quatro) faltas | -3 (menos três) pontos |
+| 5 (cinco) faltas | -4 (menos quatro) pontos |
 
 **§ 2º** - A aferição da disciplina do servidor consiste na verificação de seu comportamento e da eventual aplicação de penalidades, mediante a atribuição da seguinte pontuação:
 
-|PENALIDADES APLICADAS PELA CGM |PONTUAÇÃO |
-
-|Nenhuma penalidade |5 (cinco) pontos |
-
-|Repreensão |-1 (menos um) ponto |
-
-|Suspensão de 1 (um) a 29 (vinte e nove) dias |-2 (menos dois) pontos |
-
-|Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias |-3 (menos três) pontos |
-
-|Suspensão de 45 (quarenta e cinco) a 59 (cinquenta e nove) dias |-4 (menos quatro) pontos |
-
-|Suspensão de 60 (sessenta) dias a 90 (noventa) dias |-5 (menos cinco) pontos |
+| PENALIDADES APLICADAS PELA CGM | PONTUAÇÃO |
+| --- | --- |
+| Nenhuma penalidade | 5 (cinco) pontos |
+| Repreensão | -1 (menos um) ponto |
+| Suspensão de 1 (um) a 29 (vinte e nove) dias | -2 (menos dois) pontos |
+| Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias | -3 (menos três) pontos |
+| Suspensão de 45 (quarenta e cinco) a 59 (cinquenta e nove) dias | -4 (menos quatro) pontos |
+| Suspensão de 60 (sessenta) dias a 90 (noventa) dias | -5 (menos cinco) pontos |
 
 CAPÍTULO III
 
@@ -138,15 +118,12 @@ DOS FATORES DE DIMENSIONAMENTO DA ATUAÇÃO
 
 **Parágrafo único** - O fator de atuação individual será informado pela Gerência Administrativo-Financeira - GEADMF-FIS/SMAFIS a partir do resultado pessoal do servidor definido nos Relatórios Mensais de Fiscalização Integrada - REMFI do ano anterior à realização do procedimento avaliatório deste Decreto, conforme a seguinte escala de pontos:
 
-|FATOR DE ATUAÇÃO INDIVIDUAL |PONTUAÇÃO |
-
-|Abaixo de 48% |0 (zero ponto) |
-
-|De 48% a 59,9% |16 (dezesseis pontos) |
-
-|De 60 % a 89,9% |22 (vinte e dois pontos) |
-
-|Igual ou maior a 90% |30 (trinta pontos) |
+| FATOR DE ATUAÇÃO INDIVIDUAL | PONTUAÇÃO |
+| --- | --- |
+| Abaixo de 48% | 0 (zero ponto) |
+| De 48% a 59,9% | 16 (dezesseis pontos) |
+| De 60 % a 89,9% | 22 (vinte e dois pontos) |
+| Igual ou maior a 90% | 30 (trinta pontos) |
 
 **Art. 8º** - O fator de atuação coletiva corresponde à mensuração do esforço e da motivação do servidor em participação colaborativa com seus pares para o aperfeiçoamento institucional da Fiscalização Integrada, conforme a média aritmética simples do total de Unidade de Padrão de Fiscalização Integrada - UPFI - que lhe forem devidas em decorrência da apuração das Metas de Otimização dos Serviços Públicos de Fiscalização Integrada - GCAMFI - do ano imediatamente anterior à aplicação do procedimento disciplinado neste Decreto, conforme a seguinte escala de pontos:
 
@@ -154,15 +131,12 @@ DOS FATORES DE DIMENSIONAMENTO DA ATUAÇÃO
 
 Caput com redação dada pelo Decreto nº 16.666, de 10/8/2017 (Art. 1º)
 
-|FATOR DE ATUAÇÃO COLETIVA |PONTUAÇÃO |
-
-|Abaixo de 48% |0 (zero ponto) |
-
-|De 48% a 59,9% |3 (três pontos) |
-
-|De 60 % a 89,9% |4 (quatro pontos) |
-
-|Igual ou maior a 90% |5 (cinco pontos) |
+| FATOR DE ATUAÇÃO COLETIVA | PONTUAÇÃO |
+| --- | --- |
+| Abaixo de 48% | 0 (zero ponto) |
+| De 48% a 59,9% | 3 (três pontos) |
+| De 60 % a 89,9% | 4 (quatro pontos) |
+| Igual ou maior a 90% | 5 (cinco pontos) |
 
 CAPÍTULO IV
 

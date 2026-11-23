@@ -564,43 +564,26 @@ ANEXO
 
 (a que se refere o art. 44 do Decreto nº 18.649, de 6 de março de 2024)
 
-|Item |D|
-
-| |e|
-
-| |s|
-
-| |c|
-
-| |r|
-
-| |i|
-
-| |ç|
-
-| |ã|
-
-| |o|
-
-| |d|
-
-| |a|
-
-| |i|
-
-| |n|
-
-| |f|
-
-| |r|
-
-| |a|
-
-| |ç|
-
-| |ã|
-
-| |o|
+| Item | D |
+| --- | --- |
+|  | e |
+|  | s |
+|  | c |
+|  | r |
+|  | i |
+|  | ç |
+|  | ã |
+|  | o |
+|  | d |
+|  | a |
+|  | i |
+|  | n |
+|  | f |
+|  | r |
+|  | a |
+|  | ç |
+|  | ã |
+|  | o |
 
 250 |Instalar e manter infraestrutura de suporte de ETR sem cadastro ou
 
@@ -626,7 +609,8 @@ logradouros públicos |
 
 arts. 43-B e 304, Lei nº 8.616, de 2003 e art. 6º, VI, Lei federal nº 13.116, de 2015 |Não | |GV |Por infraestrutura
 
-|20.000,00 |1 dia |Não |Sim |Apreensão e cassação imediatas e simultâneas à multa | | |253 |Impedir ou dificultar vistoria fiscal municipal |art. 304, Lei nº 8.616, de 2003, e art. 346, § 4º Lei nº 11.181, de 2019 |Sim |5 dias |G | |6.000,00 |A cada constatação |
+| 20.000,00 | 1 dia | Não | Sim | Apreensão e cassação imediatas e simultâneas à multa |  |  | 253 | Impedir ou dificultar vistoria fiscal municipal | art. 304, Lei nº 8.616, de 2003, e art. 346, § 4º Lei nº 11.181, de 2019 | Sim | 5 dias | G |  | 6.000,00 | A cada constatação |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 Não |Sim |Cassação a partir da 2ª reincidência | | |254 |Prestar informações inverídicas |art. 304 Lei nº 8.616, de 2003 e art. 346, § 3º, Lei nº 11.181, de 2019 |
 

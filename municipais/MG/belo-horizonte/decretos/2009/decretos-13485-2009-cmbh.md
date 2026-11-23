@@ -62,7 +62,7 @@ ANEXO ÚNICO
 
 Anexo único excluído pelo Decreto nº 13.495, de 29/1/2009 (Art. 2º)
 
-[pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 MEMORIAL DESCRITIVO DA ÁREA 1
 

@@ -416,81 +416,45 @@ ctr - Comprovante de Transporte de Resíduos (NBR 15.112/2004)
 
 (informações mínimas essenciais, que podem estar incluídas nos formulários próprios dos transportadores)
 
-|IDENTIFICAÇÃO DO TRANSPORTADOR |
-
-|Nome ou Razão Social: Tel: |
-
-|Endereço: Cadastro Municipal: |
-
-|Nome do condutor: Placa do veículo: |
-
-|2. IDENTIFICAÇÃO DO GERADOR |
-
-|Nome ou Razão Social: Tel: |
-
-|Endereço: CPF ou CNPJ: |
-
-|2.1 ENDEREÇO DA RETIRADA |
-
-|Rua/Av:: Bairro: Município: |
-
-|3. IDENTIFICAÇÃO da Área Receptora de grandes volumes |
-
-|Nome ou Razão Social: Nº da Licença Funcionamento: |
-
-|Endereço: Tel: |
-
-|4. CARACTERIZAÇÃO DO RESÍDUO |
-
-| | |Concreto / Argamassa / Alvenaria | |Solo | | |
-
-|Volume | |Volumosos (móveis e outros) | |Madeira | | |
-
-|transportado | |m3 Volumosos (podas) | |Outros (especificar)| | |
-
-| |
-
-|5. RESPONSABILIDADES |
-
-|Visto do condutor do veículo: _______________ Visto do gerador ou responsável pelo serviço: |
-
-|______________ |
-
-|Visto e carimbo da Área Receptora de Grandes Volumes: ______________________________ |
-
-|Data: ___ / ___ / ____ Horário: ___ : ___ |
-
-|6. ORIENTAÇÃO AO USUÁRIO (de acordo com a Lei n° __ de ___ de ____ e as sanções nela previstas) |
-
-|a) o gerador só pode dispor, no equipamento de coleta, resíduos da construção civil e resíduos |
-
-|volumosos; |
-
-|b) o transportador é proibido de coletar e transportar equipamentos com resíduos domiciliares, |
-
-|industriais e outros; |
-
-|c) o gerador só pode dispor resíduos até o limite superior original do equipamento; |
-
-|d) o transportador é proibido de deslocar equipamentos com excesso de volume; |
-
-|e) o transportador é obrigado a usar dispositivo de cobertura de carga dos resíduos; |
-
-|f) as caçambas devem ser estacionadas prioritariamente no interior do imóvel; |
-
-|g) o posicionamento das caçambas em via pública é responsabilidade do transportador e sua posição não |
-
-|pode ser alterada pelo gerador; |
-
-|h) as caçambas estacionárias devem ser utilizadas, conforme o disposto no Código de Posturas |
-
-|Municipal; |
-
-|i) ao gerador é proibido contratar transportador não licenciado pela administração municipal; |
-
-|j) o gerador tem o direito de receber do transportador documento de comprovação da correta destinação |
-
-|dos resíduos coletados. |
+| IDENTIFICAÇÃO DO TRANSPORTADOR |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nome ou Razão Social: Tel: |  |  |  |  |  |  |
+| Endereço: Cadastro Municipal: |  |  |  |  |  |  |
+| Nome do condutor: Placa do veículo: |  |  |  |  |  |  |
+| 2. IDENTIFICAÇÃO DO GERADOR |  |  |  |  |  |  |
+| Nome ou Razão Social: Tel: |  |  |  |  |  |  |
+| Endereço: CPF ou CNPJ: |  |  |  |  |  |  |
+| 2.1 ENDEREÇO DA RETIRADA |  |  |  |  |  |  |
+| Rua/Av:: Bairro: Município: |  |  |  |  |  |  |
+| 3. IDENTIFICAÇÃO da Área Receptora de grandes volumes |  |  |  |  |  |  |
+| Nome ou Razão Social: Nº da Licença Funcionamento: |  |  |  |  |  |  |
+| Endereço: Tel: |  |  |  |  |  |  |
+| 4. CARACTERIZAÇÃO DO RESÍDUO |  |  |  |  |  |  |
+|  |  | Concreto / Argamassa / Alvenaria |  | Solo |  |  |
+| Volume |  | Volumosos (móveis e outros) |  | Madeira |  |  |
+| transportado |  | m3 Volumosos (podas) |  | Outros (especificar) |  |  |
+|  |  |  |  |  |  |  |
+| 5. RESPONSABILIDADES |  |  |  |  |  |  |
+| Visto do condutor do veículo: _______________ Visto do gerador ou responsável pelo serviço: |  |  |  |  |  |  |
+| ______________ |  |  |  |  |  |  |
+| Visto e carimbo da Área Receptora de Grandes Volumes: ______________________________ |  |  |  |  |  |  |
+| Data: ___ / ___ / ____ Horário: ___ : ___ |  |  |  |  |  |  |
+| 6. ORIENTAÇÃO AO USUÁRIO (de acordo com a Lei n° __ de ___ de ____ e as sanções nela previstas) |  |  |  |  |  |  |
+| a) o gerador só pode dispor, no equipamento de coleta, resíduos da construção civil e resíduos |  |  |  |  |  |  |
+| volumosos; |  |  |  |  |  |  |
+| b) o transportador é proibido de coletar e transportar equipamentos com resíduos domiciliares, |  |  |  |  |  |  |
+| industriais e outros; |  |  |  |  |  |  |
+| c) o gerador só pode dispor resíduos até o limite superior original do equipamento; |  |  |  |  |  |  |
+| d) o transportador é proibido de deslocar equipamentos com excesso de volume; |  |  |  |  |  |  |
+| e) o transportador é obrigado a usar dispositivo de cobertura de carga dos resíduos; |  |  |  |  |  |  |
+| f) as caçambas devem ser estacionadas prioritariamente no interior do imóvel; |  |  |  |  |  |  |
+| g) o posicionamento das caçambas em via pública é responsabilidade do transportador e sua posição não |  |  |  |  |  |  |
+| pode ser alterada pelo gerador; |  |  |  |  |  |  |
+| h) as caçambas estacionárias devem ser utilizadas, conforme o disposto no Código de Posturas |  |  |  |  |  |  |
+| Municipal; |  |  |  |  |  |  |
+| i) ao gerador é proibido contratar transportador não licenciado pela administração municipal; |  |  |  |  |  |  |
+| j) o gerador tem o direito de receber do transportador documento de comprovação da correta destinação |  |  |  |  |  |  |
+| dos resíduos coletados. |  |  |  |  |  |  |
 
 ANEXO III
 
@@ -498,133 +462,71 @@ Plano de Gerenciamento de Resíduos da Construção Civil
 
 (informações básicas obrigatórias)
 
-|1. Características básicas da obra (finalidade, prazo de execução, áreas, pavimentos e outras |
-
-|descrições) |
-
-| |
-
-| |
-
-|2. Materiais e componentes básicos utilizados em cada etapa (preparo de canteiro, fundações, |
-
-|estrutura, vedações, instalações, revestimentos, cobertura etc.) |
-
-| |
-
-| |
-
-|2.1. Resíduos classe A que serão gerados (descrição e quantidade estimada em m3 dos resíduos de |
-
-|concreto, argamassas, alvenaria, produtos cerâmicos, solo e outros) |
-
-| |
-
-| |
-
-|2.2. Resíduos classe B que serão gerados (descrição e quantidade estimada em m3 dos resíduos de |
-
-|madeira, plásticos, papéis e papelões, metais, vidros e outros) |
-
-| |
-
-| |
-
-|2.3. Resíduos classe C que serão gerados (descrição e quantidade estimada em m3 dos resíduos de gesso |
-
-|e outros) |
-
-| |
-
-|2.4. Resíduos classe D que serão gerados (descrição e quantidade estimada em m3 dos resíduos de |
-
-|tintas, solventes, óleos, instalações radiológicas ou industriais e outros resíduos perigosos) |
-
-| |
-
-|3. Iniciativas para minimização dos resíduos (escolha dos materiais, orientação da mão de obra e |
-
-|responsáveis, controles a serem adotados etc.) |
-
-| |
-
-|4. Iniciativas para absorção dos resíduos na própria ou em outras obras (reutilização dos resíduos de |
-
-|demolição, reutilização nas diversas etapas etc.) |
-
-| |
-
-|5. Iniciativas para acondicionamento diferenciado e transporte adequado (forma de organização dos |
-
-|resíduos das quatro classes, dispositivos empregados etc.) |
-
-| |
-
-|6. Descrição do destino a ser dado aos resíduos não absorvidos |
-
-|Classe A (transporte |Classe B (transporte para|Classe C (transporte para|Classe D (transporte para |
-
-|para área de triagem, |área de triagem, área de |área de triagem, área de |área de triagem, área de |
-
-|área de reciclagem, |reciclagem específica, |reciclagem específica, |reciclagem específica, |
-
-|aterro para reservação, |aterro adequado |aterro adequado |aterro adequado licenciado|
-
-|aterro para |licenciado etc.) |licenciado etc.) |etc.) |
-
-|regularização de área | | | |
-
-|etc.) | | | |
-
-| | | | |
-
-| | | | |
-
-| | | | |
-
-| | | | |
-
-|7. Descrição do destino a ser dado a outros tipos de resíduos (eventuais resíduos de ambulatórios, |
-
-|refeitórios etc.) |
-
-| |
-
-|8. Indicação dos agentes licenciados responsáveis pelo fluxo posterior dos resíduos (os agentes podem ser substituídos, a critério do |
-
-|gerador, por outros, legalmente licenciados) |
-
-|8.1. Identificação do transportador |8.2. Identificação da área receptora dos resíduos |
-
-|Nome: _________________________________________ |Nome: ________________________________________ |
-
-| | |
-
-|Cadastro:_______________________________________ |Licença: _______________________________________ |
-
-| | |
-
-|End.: __________________________________________ |End.: _________________________________________ |
-
-| | |
-
-|Tel.: ___________________________________________ |Tel.: __________________________________________ |
-
-|8.1. Identificação do transportador |8.2. Identificação da área receptora dos resíduos |
-
-|Nome: _________________________________________ |Nome: ________________________________________ |
-
-| | |
-
-|Cadastro: ______________________________________ |Licença: _______________________________________ |
-
-| | |
-
-|End.: __________________________________________ |End.: _________________________________________ |
-
-| | |
-
-|Tel.: ___________________________________________ |Tel.: ___________________________________________ |
+| 1. Características básicas da obra (finalidade, prazo de execução, áreas, pavimentos e outras |  |  |  |
+| --- | --- | --- | --- |
+| descrições) |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| 2. Materiais e componentes básicos utilizados em cada etapa (preparo de canteiro, fundações, |  |  |  |
+| estrutura, vedações, instalações, revestimentos, cobertura etc.) |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| 2.1. Resíduos classe A que serão gerados (descrição e quantidade estimada em m3 dos resíduos de |  |  |  |
+| concreto, argamassas, alvenaria, produtos cerâmicos, solo e outros) |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| 2.2. Resíduos classe B que serão gerados (descrição e quantidade estimada em m3 dos resíduos de |  |  |  |
+| madeira, plásticos, papéis e papelões, metais, vidros e outros) |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| 2.3. Resíduos classe C que serão gerados (descrição e quantidade estimada em m3 dos resíduos de gesso |  |  |  |
+| e outros) |  |  |  |
+|  |  |  |  |
+| 2.4. Resíduos classe D que serão gerados (descrição e quantidade estimada em m3 dos resíduos de |  |  |  |
+| tintas, solventes, óleos, instalações radiológicas ou industriais e outros resíduos perigosos) |  |  |  |
+|  |  |  |  |
+| 3. Iniciativas para minimização dos resíduos (escolha dos materiais, orientação da mão de obra e |  |  |  |
+| responsáveis, controles a serem adotados etc.) |  |  |  |
+|  |  |  |  |
+| 4. Iniciativas para absorção dos resíduos na própria ou em outras obras (reutilização dos resíduos de |  |  |  |
+| demolição, reutilização nas diversas etapas etc.) |  |  |  |
+|  |  |  |  |
+| 5. Iniciativas para acondicionamento diferenciado e transporte adequado (forma de organização dos |  |  |  |
+| resíduos das quatro classes, dispositivos empregados etc.) |  |  |  |
+|  |  |  |  |
+| 6. Descrição do destino a ser dado aos resíduos não absorvidos |  |  |  |
+| Classe A (transporte | Classe B (transporte para | Classe C (transporte para | Classe D (transporte para |
+| para área de triagem, | área de triagem, área de | área de triagem, área de | área de triagem, área de |
+| área de reciclagem, | reciclagem específica, | reciclagem específica, | reciclagem específica, |
+| aterro para reservação, | aterro adequado | aterro adequado | aterro adequado licenciado |
+| aterro para | licenciado etc.) | licenciado etc.) | etc.) |
+| regularização de área |  |  |  |
+| etc.) |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| 7. Descrição do destino a ser dado a outros tipos de resíduos (eventuais resíduos de ambulatórios, |  |  |  |
+| refeitórios etc.) |  |  |  |
+|  |  |  |  |
+| 8. Indicação dos agentes licenciados responsáveis pelo fluxo posterior dos resíduos (os agentes podem ser substituídos, a critério do |  |  |  |
+| gerador, por outros, legalmente licenciados) |  |  |  |
+| 8.1. Identificação do transportador | 8.2. Identificação da área receptora dos resíduos |  |  |
+| Nome: _________________________________________ | Nome: ________________________________________ |  |  |
+|  |  |  |  |
+| Cadastro:_______________________________________ | Licença: _______________________________________ |  |  |
+|  |  |  |  |
+| End.: __________________________________________ | End.: _________________________________________ |  |  |
+|  |  |  |  |
+| Tel.: ___________________________________________ | Tel.: __________________________________________ |  |  |
+| 8.1. Identificação do transportador | 8.2. Identificação da área receptora dos resíduos |  |  |
+| Nome: _________________________________________ | Nome: ________________________________________ |  |  |
+|  |  |  |  |
+| Cadastro: ______________________________________ | Licença: _______________________________________ |  |  |
+|  |  |  |  |
+| End.: __________________________________________ | End.: _________________________________________ |  |  |
+|  |  |  |  |
+| Tel.: ___________________________________________ | Tel.: ___________________________________________ |  |  |
 
 9. Caracterização dos responsáveis
 
@@ -632,27 +534,18 @@ Preencher quantos campos sejam necessários.
 
 Podem ser incluídas, além dessas, outras informações julgadas necessárias pelos geradores.
 
-|9.1. Identificação do gerador | |9.2. Identificação do responsável técnico da obra |
-
-|Nome: __________________________________ | |Nome: ___________________________________ |
-
-| | | |
-
-|CPF/CNPJ:_______________________________ | |CREA: ___________________________________ |
-
-| | | |
-
-|End.: ____________________________________ | |End.: ____________________________________ |
-
-| | | |
-
-|Tel.: ____________________________________ | |Tel.: _____________________________________ |
-
-| | | |
-
-|Assinatura:..................... (Local)................ | |Assinatura:....................... (Local)................ |
-
-|(Data)...../...../..... | |(Data)...../...../..... |
+| 9.1. Identificação do gerador |  | 9.2. Identificação do responsável técnico da obra |
+| --- | --- | --- |
+| Nome: __________________________________ |  | Nome: ___________________________________ |
+|  |  |  |
+| CPF/CNPJ:_______________________________ |  | CREA: ___________________________________ |
+|  |  |  |
+| End.: ____________________________________ |  | End.: ____________________________________ |
+|  |  |  |
+| Tel.: ____________________________________ |  | Tel.: _____________________________________ |
+|  |  |  |
+| Assinatura:..................... (Local)................ |  | Assinatura:....................... (Local)................ |
+| (Data)...../...../..... |  | (Data)...../...../..... |
 
 ## Anexos e outros documentos
 

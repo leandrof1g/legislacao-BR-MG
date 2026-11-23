@@ -100,151 +100,80 @@ Prefeito de Belo Horizonte
 
 Anexo Único
 
-|IND. |META |ÁREAS DE RESULTADO |INDICADOR |FONTE |BH HOJE |METAS |
-
-| | | | | | |BH 2015 |BH 2030 |
-
-|2 |Aumentar o Índice de Qualidade de Vida Urbana|Cidade Saudável, Educação, Cidade com |IQVU |SMPL/PBH |0,59 (2006) |0,63 |0,70 |
-
-| |(IQVU) para 0,70 |Mobilidade, Cidade Segura, Cidade com | | | | | |
-
-| | |Todas as Vilas Vivas, Cidade | | | | | |
-
-| | |Sustentável, Cidade de Todos, Cultura | | | | | |
-
-|3 |Reduzir a mortalidade infantil (até 1 ano) | Cidade Saudável |TX de mortalidade infantil até 1 ano de idade|DataSUS |13 (2007) |10 |menos de 6 |
-
-| |para menos de 6 óbitos por mil nascidos vivos| | | | | | |
-
-|4 |Reduzir o percentual de internações por |Cidade Saudável |Percentual de internações por condições |SIH/MS |18,2% (2008) |13,94 |5,58 |
-
-| |condições sensíveis à atenção básica p/ 5,58%| |sensíveis à atenção básica | | | | |
-
-|5 |Reduzir a taxa de internação por fratura no |Cidade Saudável, Cidade de Todos |Taxa de internação por fratura no fêmur, por |SIH/MS |15,90 (2009) |13,99 |7,60 |
-
-| |fêmur por 10 mil idosos para 7,6 | |10 mil idosos | | | | |
-
-|6 |Reduzir a taxa de mortalidade materna por 100|Cidade Saudável |Óbito de mulheres em idade fértil de 10 a 49 |SIM/SINAC |51,08 (2008) |37,81 |22,90 |
-
-| |mil nascidos vivos para 22,9 | |anos por causas relacionadas à gestação, por | | | | |
-
-| | | |100 mil nascidos vivos | | | | |
-
-|7 |Aumentar para 12 anos de estudo o nível de |Educação |Escolaridade média da população com idade |IBGE |8,1 (2000) |9,5 |12,00 |
-
-| |escolaridade média da população com idade | |igual ou superior a 25 anos | | | | |
-
-| |igual ou superior a 25 anos | | | | | | |
-
-|8 |Reduzir o percentual de alunos no 3º ciclo do|Educação |Percentual de alunos no 3º ciclo do ensino |SMED/PBH |5,2% (2009) |4,9 |4,00 |
-
-| |ensino fundamental com idade superior à | |fundamental com idade superior à recomendada | | | | |
-
-| |recomendada para 4% | | | | | | |
-
-|9 |Aumentar o IDEB (Índ. de Des. da Educação |Educação |IDEB – PBH Séries Iniciais |MEC | 5,3 (2008) |5,9 |7,7 |
-
-| |Básica) para 7,7 nas séries iniciais e 6,8 | | | | | | |
-
-| |nas séries finais | | | | | | |
-
-| | | |IDEB - PBH Séries Finais | | 3,8 (2008) |4,9 |6,8 |
-
-| | | |IDEB - PBH/GMG Séries Iniciais | |5,6(2008) |5,9 |7,7 |
-
-| | | |IDEB - PBH/GMG Séries Finais | |3,9 (2008) |4,8 |6,8 |
-
-|10 |Aumentar o Índice de Mobilidade em modo de |Cidade com Mobilidade |Percentual de viagens em modos coletivos em |BHTRANS/PBH |54,2% (2008) |55 |70,00 |
-
-| |transporte coletivo para 70% | |relação ao total de viagens em modos | | | | |
-
-| | | |motorizados | | | | |
-
-|11 |Reduzir a taxa de homicídios por 100 mil |Cidade Segura |Taxa de homicídios por 100 mil habitantes |SEDS/FJP |39,4 (2007) |25 |menos de 10 |
-
-| |habitantes para menos de 10 | | | | | | |
-
-|12 |Reduzir a taxa de mortalidade por acidentes |Cidade com Mobilidade, Cidade Segura |Taxa de mortalidade por acidentes de trânsito|Detran/MG |11,21 (2008) |8 |5,00 |
-
-| |de trânsito por 100 mil habitantes para 5 | |por 100 mil habitantes | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-|13 |Ampliar as áreas de preservação, proteção e |Cidade Sustentável |M2 de áreas verdes por munícipe |SMMA/PBH |9,4 (2000) |10,3 |12,00 |
-
-| |de interesse ambiental para 12m² de área | | | | | | |
-
-| |verde por munícipe | | | | | | |
-
-|14 |Aumentar o Índice de Salubridade Ambiental |Cidade Saudável, Cidade Sustentável |ISA - Índice de Salubridade Ambiental |PMS/SUDECAP/ PBH |0,85 (2008) |0,91 |0,96 |
-
-| |para 0,96 | | | | | | |
-
-|15 |Reduzir a emissão de gases causadores do |Cidade Saudável, Cidade Sustentável |Toneladas de CO2 /ano por habitantes |Mundus Carbo |1,32 (2007) |1,2 |1,05 |
-
-| |efeito estufa para 1,05 t de CO2/ano por | | | | | | |
-
-| |habitante | | | | | | |
-
-|16 |Aumentar o PIB per capita para R$ 47 mil |Prosperidade, Cidade de Todos |PIB per capita a preços constantes |IBGE |R$15,83mil (2006) |R$20,6mil |R$47mil |
-
-|17 |Aumentar o número de empregos formais para |Prosperidade, Cidade de Todos |Número de empregos formais registrados no |SMPL/PBH |1265316 |1500000 |3000000,00 |
-
-| |3.000.000 | |Município no mês de dezembro e informado ao | | | | |
-
-| | | |Ministério do Trabalho e Emprego | | | | |
-
-|18 |Aumentar o número de novas empresas criadas |Prosperidade |Índice de empresas constituídas por empresas |Jucemg/GMB |4,14 (2009) |5,5 |6,50 |
-
-| |por empresas extintas para 6,5 | |extintas | | | | |
-
-|19 |Universalizar o acesso da população à rede |Modernidade |Número de áreas públicas com acesso à |Prodabel/PBH |12 pontos (2008) |79 pontos |ptos em todo o |
-
-| |sem fio em áreas públicas | |internet sem fio | | | |espaço urbano |
-
-|20 |Universalizar o saneamento |Cidade Saudável, Cidade com Todas as |Percentual de domicílios com acesso à água |IBGE |97% (2000) |100,00% |100,00% |
-
-| | |Vilas Vivas, Cidade Sustentável |potável | | | | |
-
-| | | |Percentual de domicílios com acesso a | |93% (2000) |100,00% | |
-
-| | | |esgotamento sanitário adequado | | | | |
-
-| | | | | | | | |
-
-| | | |Percentual de domicílios com acesso a | |98% (2000) |100,00% | |
-
-| | | |destinação adequada de lixo | | | | |
-
-| | | | | | | | |
-
-| | | |Percentual de esgoto tratado | |32% (2000) |53,00% | |
-
-| | | | | | | | |
-
-|21 |Erradicar o déficit habitacional em Belo |Cidade com Todas as Vilas Vivas, Cidade|Índice de déficit habitacional |Min. Cidades |57.639 (2008) |34583 |0,00 |
-
-| |Horizonte |de Todos | | | | | |
-
-|22 |Ampliar a participação da sociedade na gestão|Cidade Compartilhada |Percentual da população envolvida na |SMPL/PBH |6,5% (2008) |16 |40,00 |
-
-| |da cidade, alcançando 40% da população | |elaboração do Orçamento Participativo | | | | |
-
-|23 |Reduzir o percentual da população situada |Cidade de Todos |Taxa de pobreza |IBGE |14,2% (2000) |8 |menos de 5% |
-
-| |abaixo da linha de pobreza para menos de 5% | | | | | | |
-
-|24 |Aumentar os investimentos públicos e privados|Cultura |Total da despesa realizada na Função Cultura |IBGE |0,07% (2000) |0,1 |0,20 |
-
-| |realizados em Cultura para 0,2% do PIB de | |(União, Estado, Município e setor privado) em| | | | |
-
-| |Belo Horizonte | |relação ao PIB do município | | | | |
-
-|25 |Reduzir a diferença entre os municípios da |Integração Metropolitana |Razão entre o IDH mais elevado e o mais baixo|PNUD |1,20 (2003) |1,16 |1,10 |
-
-| |RMBH de maior e menor IDH para 1,1 | |da RMBH | | | | |
+| IND. | META | ÁREAS DE RESULTADO | INDICADOR | FONTE | BH HOJE | METAS |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  | BH 2015 | BH 2030 |
+| 2 | Aumentar o Índice de Qualidade de Vida Urbana | Cidade Saudável, Educação, Cidade com | IQVU | SMPL/PBH | 0,59 (2006) | 0,63 | 0,70 |
+|  | (IQVU) para 0,70 | Mobilidade, Cidade Segura, Cidade com |  |  |  |  |  |
+|  |  | Todas as Vilas Vivas, Cidade |  |  |  |  |  |
+|  |  | Sustentável, Cidade de Todos, Cultura |  |  |  |  |  |
+| 3 | Reduzir a mortalidade infantil (até 1 ano) | Cidade Saudável | TX de mortalidade infantil até 1 ano de idade | DataSUS | 13 (2007) | 10 | menos de 6 |
+|  | para menos de 6 óbitos por mil nascidos vivos |  |  |  |  |  |  |
+| 4 | Reduzir o percentual de internações por | Cidade Saudável | Percentual de internações por condições | SIH/MS | 18,2% (2008) | 13,94 | 5,58 |
+|  | condições sensíveis à atenção básica p/ 5,58% |  | sensíveis à atenção básica |  |  |  |  |
+| 5 | Reduzir a taxa de internação por fratura no | Cidade Saudável, Cidade de Todos | Taxa de internação por fratura no fêmur, por | SIH/MS | 15,90 (2009) | 13,99 | 7,60 |
+|  | fêmur por 10 mil idosos para 7,6 |  | 10 mil idosos |  |  |  |  |
+| 6 | Reduzir a taxa de mortalidade materna por 100 | Cidade Saudável | Óbito de mulheres em idade fértil de 10 a 49 | SIM/SINAC | 51,08 (2008) | 37,81 | 22,90 |
+|  | mil nascidos vivos para 22,9 |  | anos por causas relacionadas à gestação, por |  |  |  |  |
+|  |  |  | 100 mil nascidos vivos |  |  |  |  |
+| 7 | Aumentar para 12 anos de estudo o nível de | Educação | Escolaridade média da população com idade | IBGE | 8,1 (2000) | 9,5 | 12,00 |
+|  | escolaridade média da população com idade |  | igual ou superior a 25 anos |  |  |  |  |
+|  | igual ou superior a 25 anos |  |  |  |  |  |  |
+| 8 | Reduzir o percentual de alunos no 3º ciclo do | Educação | Percentual de alunos no 3º ciclo do ensino | SMED/PBH | 5,2% (2009) | 4,9 | 4,00 |
+|  | ensino fundamental com idade superior à |  | fundamental com idade superior à recomendada |  |  |  |  |
+|  | recomendada para 4% |  |  |  |  |  |  |
+| 9 | Aumentar o IDEB (Índ. de Des. da Educação | Educação | IDEB – PBH Séries Iniciais | MEC | 5,3 (2008) | 5,9 | 7,7 |
+|  | Básica) para 7,7 nas séries iniciais e 6,8 |  |  |  |  |  |  |
+|  | nas séries finais |  |  |  |  |  |  |
+|  |  |  | IDEB - PBH Séries Finais |  | 3,8 (2008) | 4,9 | 6,8 |
+|  |  |  | IDEB - PBH/GMG Séries Iniciais |  | 5,6(2008) | 5,9 | 7,7 |
+|  |  |  | IDEB - PBH/GMG Séries Finais |  | 3,9 (2008) | 4,8 | 6,8 |
+| 10 | Aumentar o Índice de Mobilidade em modo de | Cidade com Mobilidade | Percentual de viagens em modos coletivos em | BHTRANS/PBH | 54,2% (2008) | 55 | 70,00 |
+|  | transporte coletivo para 70% |  | relação ao total de viagens em modos |  |  |  |  |
+|  |  |  | motorizados |  |  |  |  |
+| 11 | Reduzir a taxa de homicídios por 100 mil | Cidade Segura | Taxa de homicídios por 100 mil habitantes | SEDS/FJP | 39,4 (2007) | 25 | menos de 10 |
+|  | habitantes para menos de 10 |  |  |  |  |  |  |
+| 12 | Reduzir a taxa de mortalidade por acidentes | Cidade com Mobilidade, Cidade Segura | Taxa de mortalidade por acidentes de trânsito | Detran/MG | 11,21 (2008) | 8 | 5,00 |
+|  | de trânsito por 100 mil habitantes para 5 |  | por 100 mil habitantes |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| 13 | Ampliar as áreas de preservação, proteção e | Cidade Sustentável | M2 de áreas verdes por munícipe | SMMA/PBH | 9,4 (2000) | 10,3 | 12,00 |
+|  | de interesse ambiental para 12m² de área |  |  |  |  |  |  |
+|  | verde por munícipe |  |  |  |  |  |  |
+| 14 | Aumentar o Índice de Salubridade Ambiental | Cidade Saudável, Cidade Sustentável | ISA - Índice de Salubridade Ambiental | PMS/SUDECAP/ PBH | 0,85 (2008) | 0,91 | 0,96 |
+|  | para 0,96 |  |  |  |  |  |  |
+| 15 | Reduzir a emissão de gases causadores do | Cidade Saudável, Cidade Sustentável | Toneladas de CO2 /ano por habitantes | Mundus Carbo | 1,32 (2007) | 1,2 | 1,05 |
+|  | efeito estufa para 1,05 t de CO2/ano por |  |  |  |  |  |  |
+|  | habitante |  |  |  |  |  |  |
+| 16 | Aumentar o PIB per capita para R$ 47 mil | Prosperidade, Cidade de Todos | PIB per capita a preços constantes | IBGE | R$15,83mil (2006) | R$20,6mil | R$47mil |
+| 17 | Aumentar o número de empregos formais para | Prosperidade, Cidade de Todos | Número de empregos formais registrados no | SMPL/PBH | 1265316 | 1500000 | 3000000,00 |
+|  | 3.000.000 |  | Município no mês de dezembro e informado ao |  |  |  |  |
+|  |  |  | Ministério do Trabalho e Emprego |  |  |  |  |
+| 18 | Aumentar o número de novas empresas criadas | Prosperidade | Índice de empresas constituídas por empresas | Jucemg/GMB | 4,14 (2009) | 5,5 | 6,50 |
+|  | por empresas extintas para 6,5 |  | extintas |  |  |  |  |
+| 19 | Universalizar o acesso da população à rede | Modernidade | Número de áreas públicas com acesso à | Prodabel/PBH | 12 pontos (2008) | 79 pontos | ptos em todo o |
+|  | sem fio em áreas públicas |  | internet sem fio |  |  |  | espaço urbano |
+| 20 | Universalizar o saneamento | Cidade Saudável, Cidade com Todas as | Percentual de domicílios com acesso à água | IBGE | 97% (2000) | 100,00% | 100,00% |
+|  |  | Vilas Vivas, Cidade Sustentável | potável |  |  |  |  |
+|  |  |  | Percentual de domicílios com acesso a |  | 93% (2000) | 100,00% |  |
+|  |  |  | esgotamento sanitário adequado |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  | Percentual de domicílios com acesso a |  | 98% (2000) | 100,00% |  |
+|  |  |  | destinação adequada de lixo |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  | Percentual de esgoto tratado |  | 32% (2000) | 53,00% |  |
+|  |  |  |  |  |  |  |  |
+| 21 | Erradicar o déficit habitacional em Belo | Cidade com Todas as Vilas Vivas, Cidade | Índice de déficit habitacional | Min. Cidades | 57.639 (2008) | 34583 | 0,00 |
+|  | Horizonte | de Todos |  |  |  |  |  |
+| 22 | Ampliar a participação da sociedade na gestão | Cidade Compartilhada | Percentual da população envolvida na | SMPL/PBH | 6,5% (2008) | 16 | 40,00 |
+|  | da cidade, alcançando 40% da população |  | elaboração do Orçamento Participativo |  |  |  |  |
+| 23 | Reduzir o percentual da população situada | Cidade de Todos | Taxa de pobreza | IBGE | 14,2% (2000) | 8 | menos de 5% |
+|  | abaixo da linha de pobreza para menos de 5% |  |  |  |  |  |  |
+| 24 | Aumentar os investimentos públicos e privados | Cultura | Total da despesa realizada na Função Cultura | IBGE | 0,07% (2000) | 0,1 | 0,20 |
+|  | realizados em Cultura para 0,2% do PIB de |  | (União, Estado, Município e setor privado) em |  |  |  |  |
+|  | Belo Horizonte |  | relação ao PIB do município |  |  |  |  |
+| 25 | Reduzir a diferença entre os municípios da | Integração Metropolitana | Razão entre o IDH mais elevado e o mais baixo | PNUD | 1,20 (2003) | 1,16 | 1,10 |
+|  | RMBH de maior e menor IDH para 1,1 |  | da RMBH |  |  |  |  |
 
 Anexo Único
 

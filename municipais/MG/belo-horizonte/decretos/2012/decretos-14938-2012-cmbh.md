@@ -44,52 +44,29 @@ ANEXO ÚNICO
 
 PARÂMETROS A QUE SE REFERE O PARÁGRAFO ÚNICO DO ART. 1º DESTE DECRETO
 
-|Parâmetros |Área |Dimensão Mínima |Pé-Direito |Largura Mínima|Observações |
-
-|Compartimentos |Mínima (m²) |(m) |Mínimo |dos Vãos de | |
-
-| | | |(m) |Acesso (m) | |
-
-|Circulação de |- |1,20 *¹ |2,30 |0,80 |*1 - quando o comprimento da |
-
-|Pessoas | |ou 1,50 *² | | |circulação for de até 10,00m |
-
-| | | | | |ou desde que seja intercalada,|
-
-| | | | | |a cada 10,00m, por área cujo |
-
-| | | | | |diâmetro seja de no mínimo |
-
-| | | | | |1,50m. |
-
-| | | | | |*2 - quando o comprimento da |
-
-| | | | | |circulação for superior a |
-
-| | | | | |10,00 m. |
-
-|Escada *¹ |- |1,20 *² |2,30 |0,80 |*1 - havendo passagem sob |
-
-| | | | | |escada, altura do vão h=2,10m.|
-
-| | | | | |*2 - largura livre de |
-
-| | | | | |corrimão. |
-
-|Área de estacionamento de |- |2,30 x 4,50 |2,20*2 |2,50 |*1 - garantir acesso, |
-
-|veículos *1 | |por vaga | | |circulação e espaço para |
-
-| | | | | |manobras. |
-
-| | | | | |*2 - pé-direito mínimo em |
-
-| | | | | |relação a qualquer elemento |
-
-| | | | | |construtivo. |
-
-|Circulação de |- |2,50 |2,20 |2,50 |* declividade máxima de 12% |
-
-|veículos * | | | | |para caminhões e de 20% para |
-
-| | | | | |automóveis. |
+| Parâmetros | Área | Dimensão Mínima | Pé-Direito | Largura Mínima | Observações |
+| --- | --- | --- | --- | --- | --- |
+| Compartimentos | Mínima (m²) | (m) | Mínimo | dos Vãos de |  |
+|  |  |  | (m) | Acesso (m) |  |
+| Circulação de | - | 1,20 *¹ | 2,30 | 0,80 | *1 - quando o comprimento da |
+| Pessoas |  | ou 1,50 *² |  |  | circulação for de até 10,00m |
+|  |  |  |  |  | ou desde que seja intercalada, |
+|  |  |  |  |  | a cada 10,00m, por área cujo |
+|  |  |  |  |  | diâmetro seja de no mínimo |
+|  |  |  |  |  | 1,50m. |
+|  |  |  |  |  | *2 - quando o comprimento da |
+|  |  |  |  |  | circulação for superior a |
+|  |  |  |  |  | 10,00 m. |
+| Escada *¹ | - | 1,20 *² | 2,30 | 0,80 | *1 - havendo passagem sob |
+|  |  |  |  |  | escada, altura do vão h=2,10m. |
+|  |  |  |  |  | *2 - largura livre de |
+|  |  |  |  |  | corrimão. |
+| Área de estacionamento de | - | 2,30 x 4,50 | 2,20*2 | 2,50 | *1 - garantir acesso, |
+| veículos *1 |  | por vaga |  |  | circulação e espaço para |
+|  |  |  |  |  | manobras. |
+|  |  |  |  |  | *2 - pé-direito mínimo em |
+|  |  |  |  |  | relação a qualquer elemento |
+|  |  |  |  |  | construtivo. |
+| Circulação de | - | 2,50 | 2,20 | 2,50 | * declividade máxima de 12% |
+| veículos * |  |  |  |  | para caminhões e de 20% para |
+|  |  |  |  |  | automóveis. |

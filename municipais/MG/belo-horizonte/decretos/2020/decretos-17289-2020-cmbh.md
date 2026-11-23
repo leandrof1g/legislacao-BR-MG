@@ -52,26 +52,19 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Desenvolvimento |
-
-|Econômico – SMDE –, conforme autorização contida no § 2º do |
-
-|art. 4º da Lei nº 11.211, de 26 de dezembro de 2019: |
-
-|R$ |
-
-|2800.04.212.005.2.758.3350.0300 |87.300,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |87.300,00 |
+| I.1 – A favor da Secretaria Municipal de Desenvolvimento |  |
+| --- | --- |
+| Econômico – SMDE –, conforme autorização contida no § 2º do |  |
+| art. 4º da Lei nº 11.211, de 26 de dezembro de 2019: |  |
+| R$ |  |
+| 2800.04.212.005.2.758.3350.0300 | 87.300,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 87.300,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item |
-
-|I.1 da tabela anterior: |
-
-|R$ |
-
-|2800.04.212.005.2.758.3380.0300 |87.300,00 |
-
-|TOTAL DA ANULAÇÃO |87.300,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item |  |
+| --- | --- |
+| I.1 da tabela anterior: |  |
+| R$ |  |
+| 2800.04.212.005.2.758.3380.0300 | 87.300,00 |
+| TOTAL DA ANULAÇÃO | 87.300,00 |

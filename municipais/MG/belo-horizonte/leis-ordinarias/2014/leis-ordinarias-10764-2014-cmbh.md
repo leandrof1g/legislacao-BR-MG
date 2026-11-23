@@ -28,9 +28,9 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 1º** - Ficam acrescidas ao quantitativo do cargo público de provimento efetivo de Assistente Administrativo, constante do quadro do Anexo I da Lei nº 8.690, de 19 de novembro de 2003, as seguintes vagas:
 
-|CARGOS |NÚMERO DE CARGOS |
-
-|Assistente Administrativo |346 |
+| CARGOS | NÚMERO DE CARGOS |
+| --- | --- |
+| Assistente Administrativo | 346 |
 
 **Art. 2º** - O art. 138 da Lei nº 9.011, de 1º de janeiro de 2005, passa a vigorar acrescido do seguinte parágrafo único:
 
@@ -46,35 +46,33 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I [...]
 
-|CARGO OU FUNÇÃO PÚBLICA PREVISTOS NA |CARGO OU FUNÇÃO PÚBLICA PREVISTOS NESTA|QUANTIDADE DE VAGAS |
-
-|LEGISLAÇÃO ANTERIOR |LEI | |
-
-| |Coordenador de Defesa dos Animais |1 |
+| CARGO OU FUNÇÃO PÚBLICA PREVISTOS NA | CARGO OU FUNÇÃO PÚBLICA PREVISTOS NESTA | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| LEGISLAÇÃO ANTERIOR | LEI |  |
+|  | Coordenador de Defesa dos Animais | 1 |
 
 (NR)
 
 **Parágrafo único** - Ficam acrescidas ao quadro que integra o Anexo I da Lei nº 9.011/05 as seguintes vagas:
 
-|CARGO |QUANTIDADE DE VAGAS |
-
-|Gerente de 3º nível |2 |
+| CARGO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Gerente de 3º nível | 2 |
 
 **Art. 5º** - Ficam acrescidas ao quadro que integra o Anexo I da Lei nº 9.011/05 as seguintes vagas:
 
-|CARGO |QUANTIDADE DE VAGAS |
-
-|Assessor Jurídico II |1 |
-
-|Assessor Jurídico III-C |3 |
+| CARGO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Assessor Jurídico II | 1 |
+| Assessor Jurídico III-C | 3 |
 
 **Art. 6º** - Fica acrescida a seguinte linha ao Anexo II da Lei nº 9.011/05:
 
 “ANEXO II [...]
 
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|Coordenador de Defesa dos Animais |conhecimentos específicos |
+| CARGO | REQUISITO PARA PROVIMENTO |
+| --- | --- |
+| Coordenador de Defesa dos Animais | conhecimentos específicos |
 
 ”. (NR)
 

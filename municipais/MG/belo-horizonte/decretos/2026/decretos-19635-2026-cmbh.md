@@ -58,53 +58,34 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei |R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria-Geral – SGE | |
-
-|3900.04.122.0096.2004.319113.1.500.000 |10.700,00 |
-
-|TOTAL |10.700,00 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei |R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS | |
-
-|3701.08.245.0019.2308.339046.1.500.000 |32.400,00 |
-
-|3701.08.245.0020.2878.339046.1.500.000 |83.000,00 |
-
-|TOTAL |115.400,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |126.100,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei | R$ |
+| --- | --- |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.319113.1.500.000 | 10.700,00 |
+| TOTAL | 10.700,00 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei | R$ |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0019.2308.339046.1.500.000 | 32.400,00 |
+| 3701.08.245.0020.2878.339046.1.500.000 | 83.000,00 |
+| TOTAL | 115.400,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 126.100,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recurso orçamentário anteriormente previsto no seguinte órgão: | |
-
-|Gabinete do Prefeito – GP | |
-
-|0201.04.122.0096.2004.319011.1.500.000 |10.700,00 |
-
-|TOTAL |10.700,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recurso orçamentário anteriormente previsto no seguinte órgão: | |
-
-|Fundo Municipal de Assistência Social – FMAS | |
-
-|3701.08.245.0019.2308.319011.1.500.000 |115.400,00 |
-
-|TOTAL |115.400,00 |
-
-|TOTAL DA ANULAÇÃO |126.100,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recurso orçamentário anteriormente previsto no seguinte órgão: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.319011.1.500.000 | 10.700,00 |
+| TOTAL | 10.700,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recurso orçamentário anteriormente previsto no seguinte órgão: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0019.2308.319011.1.500.000 | 115.400,00 |
+| TOTAL | 115.400,00 |
+| TOTAL DA ANULAÇÃO | 126.100,00 |
 
 ANEXO II
 
@@ -134,52 +115,32 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado |Limite de 10% (dez por cento) do |
-
-|para abertura de créditos suplementares para o grupo de despesa|valor do Orçamento |
-
-|Pessoal e Encargos Sociais (código 01) | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 97.844.410,63 |
-
-|Valor do decreto publicado nesta data |R$ 10.700,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 97.855.110,63 |
-
-|Saldo atual de créditos suplementares |R$ 2.394.579.956,97 |
-
-|Percentual utilizado |3,93% |
-
-|Atualizado em 26/06/2026 às 09:02:40 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado | Limite de 10% (dez por cento) do |
+| para abertura de créditos suplementares para o grupo de despesa | valor do Orçamento |
+| Pessoal e Encargos Sociais (código 01) |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 97.844.410,63 |
+| Valor do decreto publicado nesta data | R$ 10.700,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 97.855.110,63 |
+| Saldo atual de créditos suplementares | R$ 2.394.579.956,97 |
+| Percentual utilizado | 3,93% |
+| Atualizado em 26/06/2026 às 09:02:40 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado |Limite de 10% (dez por cento) do |
-
-|para abertura de créditos suplementares referentes às despesas |valor do Orçamento |
-
-|não contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 722.632.479,89 |
-
-|Valor do decreto publicado nesta data |R$ 115.400,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 722.747.879,89 |
-
-|Saldo atual de créditos suplementares |R$ 1.769.687.187,71 |
-
-|Percentual utilizado |29,00% |
-
-|Atualizado em 26/06/2026 às 09:04:28 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado | Limite de 10% (dez por cento) do |
+| para abertura de créditos suplementares referentes às despesas | valor do Orçamento |
+| não contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 722.632.479,89 |
+| Valor do decreto publicado nesta data | R$ 115.400,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 722.747.879,89 |
+| Saldo atual de créditos suplementares | R$ 1.769.687.187,71 |
+| Percentual utilizado | 29,00% |
+| Atualizado em 26/06/2026 às 09:04:28 |  |

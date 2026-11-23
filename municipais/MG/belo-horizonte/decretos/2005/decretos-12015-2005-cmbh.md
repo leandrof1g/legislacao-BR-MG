@@ -190,137 +190,73 @@ ANEXO I PARÂMETROS URBANÍSTICOS BÁSICOS E CRITÉRIOS GERAIS DE USO DO SOLO
 
 NAS ADEs BACIA DA PAMPULHA, DA PAMPULHA E TREVO
 
-| |ADE DA PAMPULHA |ADE TREVO |ADE BACIA DA PAMPULHA |
-
-| |PARÂMETROS |USO DO SOLO |PARÂMETROS |USO DO SOLO |PARÂMETROS |USO DO SOLO |
-
-|Área de |Terrenos Públicos: |Terrenos Públicos: |Terrenos Públicos: |Terrenos Públicos:|Terrenos Públicos: |Terrenos |
-
-|Proteção |- CA = 0,05 |- Somente admitidos |- CA = 0,05 |- Somente |- CA = 0,05 |Públicos: |
-
-|Máxima Grau 1|- QT: cf. |serviços de apoio à |- QT: 120m² * |admitidos serviços|- QT: cf. zoneamento |- Somente |
-
-|– AP-1 |zoneamento |manutenção da |- TO = 2% |de apoio à |- TO = 2% |admitidos |
-
-| |- TO = 2% |vegetação, nascentes|- TP = 95% |manutenção da |- TP = 95% |serviços de |
-
-| |- TP = 95% |e cursos d´água. |- Alt. Edif = 9m * |vegetação, |- Alt. Edif : indefinida|apoio à |
-
-| |- Alt. Edif. = 9m |Terrenos |- Afast: Frontal = 5m * |nascentes e cursos| |manutenção da |
-
-| |- Afast. Frontal = 5m |Particulares: |Lateral/Fundo = 1,5m* |d’água. |- Afast Frontal, |vegetação, |
-
-| |- Afast. Lat/Fundo = 3m |- Usos admitidos cf.|Terrenos Particulares: |Terrenos |laterais e de fundo: cf.|nascentes e |
-
-| |Terrenos Particulares: |Anexo VII e arts. |- CA, TO, QT e TP: |Particulares: |LPOUS |cursos d’água. |
-
-| |- CA, TO, QT e TP: |28, 29 e 33 da Lei |parâmetros de ZPAM |- Usos admitidos |Terrenos Particulares: |Terrenos |
-
-| |Parâmetros de ZPAM |9.037/05 |particular |cf. critérios da |- CA, TO, QT e TP: |Particulares |
-
-| |particular | |- Alt. Edif = 9m * |LPOUS |parâmetros de ZPAM |- Usos |
-
-| |- Alt. Edif = 9m | |- Afast: Frontal = 5m *|para ZPAM |particular |admitidos cf. |
-
-| |- Afast. Frontal = 5m | | |particular |- Alt. Edif: indefinida |critérios da |
-
-| |- Afast. Lat/Fundo = 3m | |Lateral/Fundo = 1,5m* | |- Afast Frontal, |LPOUS |
-
-| | | | | |laterais e de fundo: cf.|para ZPAM |
-
-| | | | | |LPOUS |particular |
-
-|Área de |- CA = 0,6 |- Usos admitidos cf.|- CA = 0,6 |- Usos admitidos |- CA = 0,6 |- Usos |
-
-|Proteção |- QT = 120m² |Anexo VII e arts.28,|- QT = 120 m² |cf. - critérios da|- QT = 120 m² |admitidos cf. |
-
-|Moderada Grau|- TO = 20% |29 e 33 da Lei |- TO = 20% |LPOUS |- TO = 20% |critérios da |
-
-|2 – AP-2 |- TP = 70% |9.037/05 |- TP = 70% |- Uso de Grupo II |- TP = 70% |LPOUS |
-
-| |- lote mínimo = 1000m² | |- lote mínimo = 1000m² |ou III: |- lote mínimo = 1000m² |- Uso de Grupo |
-
-| |- Alt. Edif = 9m | |- Alt. Edif = 9m * |- licenc. |- Alt. Edif : indefinida|II ou III: |
-
-| |- Afast Frontal = 5m | |- Afast: Frontal = 5m *|específico para |- Afast Frontal, |- licenc. |
-
-| |- Afast. Lat/Fundo = 3m | | |usos a serem |laterais e de fundo: cf.|específico para|
-
-| | | |Lateral/Fundo = 1,5m* |instalados |LPOUS |usos a serem |
-
-| | | | |- licenc. | |instalados |
-
-| | | | |corretivo para os | |- licenc. |
-
-| | | | |usos já instalados| |corretivo para |
-
-| | | | | | |os usos já |
-
-| | | | | | |instalados |
-
-|Area de |- CA: cf. zoneamento |- Usos admitidos cf.|- CA: cf. zoneamento * |- Usos admitidos |- CA: cf. zoneamento |- Usos |
-
-|Controle |- QT: cf. zoneamento | |- QT: 120m² * |cf. |- QT: cf. zoneamento |admitidos cf. |
-
-|Especial |- TO: 50% ** |Anexo VII e arts.28,|- TO: 50% * |critérios da LPOUS|- TO: cf. zoneamento - |critérios da |
-
-|de Uso |- TP: 30%, salvo em ZPAM|29 e 33 da Lei |- TP: 30%, salvo em ZPAM| |TP: 30%, salvo em ZPAM |LPOUS |
-
-| |(95%) e ZP-1 (70%) |9.037/05 |(95%) e ZP-1 (70%) |- Vedados: usos |(95%) e ZP-1 (70%) |- Vedados: usos|
-
-| |- Alt. Edif = 9m |- Vedados: usos |- Alt. Edif = 9m * |listados no art. |- Alt. Edif : indefinida|listados no |
-
-| |- Afast Frontal = 5m |listados no art. 11 |- Afast: Frontal = 5m *|11 “a” da Lei |- Afast Frontal, |art. 11 “a” da |
-
-| |- Afast. Lat/Fundo = 3m |“a” da Lei 9.037/05 | |9.037/05 e art. |laterais e de fundo: cf.|Lei 9.037/05 e |
-
-| | |e art. 3°, II deste |Lateral/Fundo = 1,5m* |3°, II deste |LPOUS |art. 3°, II |
-
-| | |Decreto. | |Decreto. | |deste Decreto. |
-
-| | |- Licenciamento | |- licenc. | |- Licenc. |
-
-| | |ambiental para os | |ambiental para os | |ambiental para |
-
-| | |usos listados no | |usos listados no | |os usos |
-
-| | |Anexo V da Lei | |Anexo V da Lei | |listados no |
-
-| | |9.037/05 | |9.037/05 | |Anexo V da Lei |
-
-| | |- licenciamento | |- licenciamento | |9.037/05 |
-
-| | |corretivo para usos | |corretivo para | |- licenc. |
-
-| | |já instalados do | |usos já instalados| |corretivo para |
-
-| | |art. 11 “a” e Anexo | |do art. 11 “a” e | |usos já |
-
-| | |V da Lei 9.037/05 | |Anexo V da Lei | |instalados do |
-
-| | | | |9.037/05 | |art. 11 “a” e |
-
-| | | | | | |Anexo V da Lei |
-
-| | | | | | |9.037/05 |
-
-|Demais áreas |- CA: cf. zoneamento |- Usos admitidos cf.|- CA: cf. zoneamento * |- Predominância do|- CA: cf. zoneamento |- Usos |
-
-| |- QT: cf. zoneamento |Anexo VII e arts. |- QT: 120 m² |uso residencial, |- QT: cf. zoneamento |admitidos cf. |
-
-| |- TO: 50% ** |28, 29 e 33 da Lei |- TO: 50% * |admitidos |- TO: cf. zoneamento |critérios da |
-
-| |-TP: 30%, salvo em ZPAM |9.037/05 |- TP: 30%, salvo em ZPAM|condomínios |- TP: 30%, salvo em ZPAM|LPOUS |
-
-| |(95%) e ZP-1 (70%) | |(95%) e ZP-1 (70%) |residenciais* |(95%) e ZP-1 (70%) | |
-
-| |- Alt. Edif. = 9m | |- Alt. Edif = 9m* |- Usos admitidos |- Alt. Edif: indefinida | |
-
-| |- Afast. Frontal = 5m | |- Afast: Frontal = 5m* |cf. critérios da |- Afast. Frontal, | |
-
-| |- Afast. Lat/Fundo = 3m | |Lateral/Fundo = 1,5m* |LPOUS |laterais e de fundo: cf.| |
-
-| | | | | |LPOUS | |
+|  | ADE DA PAMPULHA | ADE TREVO | ADE BACIA DA PAMPULHA |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | PARÂMETROS | USO DO SOLO | PARÂMETROS | USO DO SOLO | PARÂMETROS | USO DO SOLO |
+| Área de | Terrenos Públicos: | Terrenos Públicos: | Terrenos Públicos: | Terrenos Públicos: | Terrenos Públicos: | Terrenos |
+| Proteção | - CA = 0,05 | - Somente admitidos | - CA = 0,05 | - Somente | - CA = 0,05 | Públicos: |
+| Máxima Grau 1 | - QT: cf. | serviços de apoio à | - QT: 120m² * | admitidos serviços | - QT: cf. zoneamento | - Somente |
+| – AP-1 | zoneamento | manutenção da | - TO = 2% | de apoio à | - TO = 2% | admitidos |
+|  | - TO = 2% | vegetação, nascentes | - TP = 95% | manutenção da | - TP = 95% | serviços de |
+|  | - TP = 95% | e cursos d´água. | - Alt. Edif = 9m * | vegetação, | - Alt. Edif : indefinida | apoio à |
+|  | - Alt. Edif. = 9m | Terrenos | - Afast: Frontal = 5m * | nascentes e cursos |  | manutenção da |
+|  | - Afast. Frontal = 5m | Particulares: | Lateral/Fundo = 1,5m* | d’água. | - Afast Frontal, | vegetação, |
+|  | - Afast. Lat/Fundo = 3m | - Usos admitidos cf. | Terrenos Particulares: | Terrenos | laterais e de fundo: cf. | nascentes e |
+|  | Terrenos Particulares: | Anexo VII e arts. | - CA, TO, QT e TP: | Particulares: | LPOUS | cursos d’água. |
+|  | - CA, TO, QT e TP: | 28, 29 e 33 da Lei | parâmetros de ZPAM | - Usos admitidos | Terrenos Particulares: | Terrenos |
+|  | Parâmetros de ZPAM | 9.037/05 | particular | cf. critérios da | - CA, TO, QT e TP: | Particulares |
+|  | particular |  | - Alt. Edif = 9m * | LPOUS | parâmetros de ZPAM | - Usos |
+|  | - Alt. Edif = 9m |  | - Afast: Frontal = 5m * | para ZPAM | particular | admitidos cf. |
+|  | - Afast. Frontal = 5m |  |  | particular | - Alt. Edif: indefinida | critérios da |
+|  | - Afast. Lat/Fundo = 3m |  | Lateral/Fundo = 1,5m* |  | - Afast Frontal, | LPOUS |
+|  |  |  |  |  | laterais e de fundo: cf. | para ZPAM |
+|  |  |  |  |  | LPOUS | particular |
+| Área de | - CA = 0,6 | - Usos admitidos cf. | - CA = 0,6 | - Usos admitidos | - CA = 0,6 | - Usos |
+| Proteção | - QT = 120m² | Anexo VII e arts.28, | - QT = 120 m² | cf. - critérios da | - QT = 120 m² | admitidos cf. |
+| Moderada Grau | - TO = 20% | 29 e 33 da Lei | - TO = 20% | LPOUS | - TO = 20% | critérios da |
+| 2 – AP-2 | - TP = 70% | 9.037/05 | - TP = 70% | - Uso de Grupo II | - TP = 70% | LPOUS |
+|  | - lote mínimo = 1000m² |  | - lote mínimo = 1000m² | ou III: | - lote mínimo = 1000m² | - Uso de Grupo |
+|  | - Alt. Edif = 9m |  | - Alt. Edif = 9m * | - licenc. | - Alt. Edif : indefinida | II ou III: |
+|  | - Afast Frontal = 5m |  | - Afast: Frontal = 5m * | específico para | - Afast Frontal, | - licenc. |
+|  | - Afast. Lat/Fundo = 3m |  |  | usos a serem | laterais e de fundo: cf. | específico para |
+|  |  |  | Lateral/Fundo = 1,5m* | instalados | LPOUS | usos a serem |
+|  |  |  |  | - licenc. |  | instalados |
+|  |  |  |  | corretivo para os |  | - licenc. |
+|  |  |  |  | usos já instalados |  | corretivo para |
+|  |  |  |  |  |  | os usos já |
+|  |  |  |  |  |  | instalados |
+| Area de | - CA: cf. zoneamento | - Usos admitidos cf. | - CA: cf. zoneamento * | - Usos admitidos | - CA: cf. zoneamento | - Usos |
+| Controle | - QT: cf. zoneamento |  | - QT: 120m² * | cf. | - QT: cf. zoneamento | admitidos cf. |
+| Especial | - TO: 50% ** | Anexo VII e arts.28, | - TO: 50% * | critérios da LPOUS | - TO: cf. zoneamento - | critérios da |
+| de Uso | - TP: 30%, salvo em ZPAM | 29 e 33 da Lei | - TP: 30%, salvo em ZPAM |  | TP: 30%, salvo em ZPAM | LPOUS |
+|  | (95%) e ZP-1 (70%) | 9.037/05 | (95%) e ZP-1 (70%) | - Vedados: usos | (95%) e ZP-1 (70%) | - Vedados: usos |
+|  | - Alt. Edif = 9m | - Vedados: usos | - Alt. Edif = 9m * | listados no art. | - Alt. Edif : indefinida | listados no |
+|  | - Afast Frontal = 5m | listados no art. 11 | - Afast: Frontal = 5m * | 11 “a” da Lei | - Afast Frontal, | art. 11 “a” da |
+|  | - Afast. Lat/Fundo = 3m | “a” da Lei 9.037/05 |  | 9.037/05 e art. | laterais e de fundo: cf. | Lei 9.037/05 e |
+|  |  | e art. 3°, II deste | Lateral/Fundo = 1,5m* | 3°, II deste | LPOUS | art. 3°, II |
+|  |  | Decreto. |  | Decreto. |  | deste Decreto. |
+|  |  | - Licenciamento |  | - licenc. |  | - Licenc. |
+|  |  | ambiental para os |  | ambiental para os |  | ambiental para |
+|  |  | usos listados no |  | usos listados no |  | os usos |
+|  |  | Anexo V da Lei |  | Anexo V da Lei |  | listados no |
+|  |  | 9.037/05 |  | 9.037/05 |  | Anexo V da Lei |
+|  |  | - licenciamento |  | - licenciamento |  | 9.037/05 |
+|  |  | corretivo para usos |  | corretivo para |  | - licenc. |
+|  |  | já instalados do |  | usos já instalados |  | corretivo para |
+|  |  | art. 11 “a” e Anexo |  | do art. 11 “a” e |  | usos já |
+|  |  | V da Lei 9.037/05 |  | Anexo V da Lei |  | instalados do |
+|  |  |  |  | 9.037/05 |  | art. 11 “a” e |
+|  |  |  |  |  |  | Anexo V da Lei |
+|  |  |  |  |  |  | 9.037/05 |
+| Demais áreas | - CA: cf. zoneamento | - Usos admitidos cf. | - CA: cf. zoneamento * | - Predominância do | - CA: cf. zoneamento | - Usos |
+|  | - QT: cf. zoneamento | Anexo VII e arts. | - QT: 120 m² | uso residencial, | - QT: cf. zoneamento | admitidos cf. |
+|  | - TO: 50% ** | 28, 29 e 33 da Lei | - TO: 50% * | admitidos | - TO: cf. zoneamento | critérios da |
+|  | -TP: 30%, salvo em ZPAM | 9.037/05 | - TP: 30%, salvo em ZPAM | condomínios | - TP: 30%, salvo em ZPAM | LPOUS |
+|  | (95%) e ZP-1 (70%) |  | (95%) e ZP-1 (70%) | residenciais* | (95%) e ZP-1 (70%) |  |
+|  | - Alt. Edif. = 9m |  | - Alt. Edif = 9m* | - Usos admitidos | - Alt. Edif: indefinida |  |
+|  | - Afast. Frontal = 5m |  | - Afast: Frontal = 5m* | cf. critérios da | - Afast. Frontal, |  |
+|  | - Afast. Lat/Fundo = 3m |  | Lateral/Fundo = 1,5m* | LPOUS | laterais e de fundo: cf. |  |
+|  |  |  |  |  | LPOUS |  |
 
 * - Conforme art. 91 da Lei nº 7166/96 (ADE Trevo)
 
@@ -358,168 +294,89 @@ DO LENÇOL FREÁTICO
 
 Anexo II revogado pelo Decreto nº 12.732, de 12/06/2007 (Art. 1º)
 
-| |TERMO DE RESPONSABILIDADE QUANTO À PROFUNDIDADE DO LENÇOL FREÁTICO |
-
-| | |
-
-|01 - DADOS DO PROJETO |
-
-|PROJETO |PROCESSO |PROPRIETÁRIO |
-
-|LOTE |QUARTEIRÃO |BAIRRO |DATA |
-
-|02 - DECLARAÇÃO DE RESPONSABILIDADE |
-
-| | |
-
-|DECLARO QUE FOI EFETUADA SONDAGEM NO(S) LOTE(S) SUPRA CITADO(S) E QUE O PROJETO ORA APRESENTADO PARA EXAME PELA GELED – GERÊNCIA DE | |
-
-|LICENCIAMENTO DE EDIFICAÇÕES – NÃO APRESENTA CORTES DE TERRENO NATURAL QUE ATINJAM O LENÇOL FREÁTICO. | |
-
-| | |
-
-| | |
-
-|ACOMPANHA ESTA DECLARAÇÃO A ART DA SONDAGEM, ASSINADA PELO RESPONSÁVEL DA EXECUAÇÃO DO SERVIÇO. | |
-
-|03 - ASSINATURA DO RESPONSÁVEL TÉCNICO |
-
-|DECLARO SER VERDADE A AFIRMAÇÃO ACIMA |
-
-| |
-
-| |
-
-| |
-
-|((((((((((((((((((((((((((((((((((((((((((((((((((((((( |
-
-|ASSINATURA E CREA |
-
-|RESPONSÁVEL TÉCNICO PELO PROJETO |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-|ANEXO III |
-
-|MODELO DE FICHA DE INFORMAÇÕES DE EMPREENDIMENTO NA ADE DA PAMPULHA |
-
-| | | | | | | | | | |
-
-|Ficha de Informações de Empreendimentos na ADE da Pampulha |
-
-|Identificação do empreendedor |Nome |
-
-|Endereço |Fone |E-mail |
-
-|Identificação do empreendimento |Endereço |
-
-|Tipo de Uso Pretendido |Área construida prevista |
-
-|Observações |
-
-| |
-
-| |
-
-| |
-
-|Assinatura do requerente |Data |
-
-| |
-
-|Campo de preenchimento exclusivo do Fade |
-
-|Aspectos Positivos |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-|Aspectos Negativos |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |Recomendamos Avaliação | |Não Recomendamos |
-
-| |
-
-|Justificativa |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-|Preencher somente para os usos previstos no Artigo 33 alínea "b" da Lei 9.037/05 |
-
-| |
-
-| |Pela Aprovação | |Pelo Indeferimento |
-
-| |
-
-|Justificativa |
-
-| |
-
-| |
-
-| |
-
-| |
-
-|Assinatura Responsável Fade |Data |
-
-| |
-
-| |
-
-| |
+|  | TERMO DE RESPONSABILIDADE QUANTO À PROFUNDIDADE DO LENÇOL FREÁTICO |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |
+| 01 - DADOS DO PROJETO |  |  |  |  |  |  |  |  |  |
+| PROJETO | PROCESSO | PROPRIETÁRIO |  |  |  |  |  |  |  |
+| LOTE | QUARTEIRÃO | BAIRRO | DATA |  |  |  |  |  |  |
+| 02 - DECLARAÇÃO DE RESPONSABILIDADE |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| DECLARO QUE FOI EFETUADA SONDAGEM NO(S) LOTE(S) SUPRA CITADO(S) E QUE O PROJETO ORA APRESENTADO PARA EXAME PELA GELED – GERÊNCIA DE |  |  |  |  |  |  |  |  |  |
+| LICENCIAMENTO DE EDIFICAÇÕES – NÃO APRESENTA CORTES DE TERRENO NATURAL QUE ATINJAM O LENÇOL FREÁTICO. |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| ACOMPANHA ESTA DECLARAÇÃO A ART DA SONDAGEM, ASSINADA PELO RESPONSÁVEL DA EXECUAÇÃO DO SERVIÇO. |  |  |  |  |  |  |  |  |  |
+| 03 - ASSINATURA DO RESPONSÁVEL TÉCNICO |  |  |  |  |  |  |  |  |  |
+| DECLARO SER VERDADE A AFIRMAÇÃO ACIMA |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| ((((((((((((((((((((((((((((((((((((((((((((((((((((((( |  |  |  |  |  |  |  |  |  |
+| ASSINATURA E CREA |  |  |  |  |  |  |  |  |  |
+| RESPONSÁVEL TÉCNICO PELO PROJETO |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| ANEXO III |  |  |  |  |  |  |  |  |  |
+| MODELO DE FICHA DE INFORMAÇÕES DE EMPREENDIMENTO NA ADE DA PAMPULHA |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Ficha de Informações de Empreendimentos na ADE da Pampulha |  |  |  |  |  |  |  |  |  |
+| Identificação do empreendedor | Nome |  |  |  |  |  |  |  |  |
+| Endereço | Fone | E-mail |  |  |  |  |  |  |  |
+| Identificação do empreendimento | Endereço |  |  |  |  |  |  |  |  |
+| Tipo de Uso Pretendido | Área construida prevista |  |  |  |  |  |  |  |  |
+| Observações |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Assinatura do requerente | Data |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Campo de preenchimento exclusivo do Fade |  |  |  |  |  |  |  |  |  |
+| Aspectos Positivos |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Aspectos Negativos |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | Recomendamos Avaliação |  | Não Recomendamos |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Justificativa |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Preencher somente para os usos previstos no Artigo 33 alínea "b" da Lei 9.037/05 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | Pela Aprovação |  | Pelo Indeferimento |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Justificativa |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Assinatura Responsável Fade | Data |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
 
 -----------------------
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]

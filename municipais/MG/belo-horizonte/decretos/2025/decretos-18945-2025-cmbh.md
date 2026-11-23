@@ -62,21 +62,15 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48| |
-
-|da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2933.339039.2.749.778 |54.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449093.2.701.000 |89.096,18 |
-
-|TOTAL DA SUPLEMENTAÇÃO |143.096,18 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 |  |
+| da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2933.339039.2.749.778 | 54.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449093.2.701.000 | 89.096,18 |
+| TOTAL DA SUPLEMENTAÇÃO | 143.096,18 |
 
 ANEXO II
 

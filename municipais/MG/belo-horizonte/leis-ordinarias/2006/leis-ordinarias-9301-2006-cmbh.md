@@ -36,29 +36,19 @@ III - o Orçamento de Investimento das Empresas em que o Município detém a mai
 
 **Art. 2º** - A receita total da Administração Direta e Indireta é estimada em R$4.079.607.779,00 (quatro bilhões, setenta e nove milhões, seiscentos e sete mil setecentos e setenta e nove reais), em valores vigentes em 1º de julho de 2006, e decorrerá da arrecadação de tributos, transferências constitucionais, rendas e outras receitas correntes e de capital previstas na legislação em vigor e obedecerá aos seguintes desdobramentos da origem de recursos:
 
-| |R$1,00 |
-
-| I – Receita do Orçamento Fiscal da Administração Direta |2.940.257.662 |
-
-|Receita do Orçamento Fiscal da Administração Indireta |10.980.738 |
-
-| | |
-
-|Total do Orçamento Fiscal |2.951.238.400 |
-
-| | |
-
-|II – Receita do Orçamento da Seguridade Social da |1.073.031.725 |
-
-|Administração Direta | |
-
-|Receita do Orçamento da Seguridade Social da |55.337.654 |
-
-|Administração Indireta | |
-
-| | |
-
-|Total do Orçamento da Seguridade Social |1.128.369.379 |
+|  | R$1,00 |
+| --- | --- |
+| I – Receita do Orçamento Fiscal da Administração Direta | 2.940.257.662 |
+| Receita do Orçamento Fiscal da Administração Indireta | 10.980.738 |
+|  |  |
+| Total do Orçamento Fiscal | 2.951.238.400 |
+|  |  |
+| II – Receita do Orçamento da Seguridade Social da | 1.073.031.725 |
+| Administração Direta |  |
+| Receita do Orçamento da Seguridade Social da | 55.337.654 |
+| Administração Indireta |  |
+|  |  |
+| Total do Orçamento da Seguridade Social | 1.128.369.379 |
 
 **Parágrafo único** - O desdobramento da receita total estimada, no que respeita à classificação econômica, tem a seguinte especificação:
 
@@ -68,35 +58,28 @@ R$1,00
 
 1.RECEITAS CORRENTES..............................................................................................3.522.329.697
 
-|Receita Tributária |1.026.562.230 |
-
-|Receita de Contribuições |169.472.352 |
-
-|Receita Patrimonial |46.157.761 |
-
-|Receita Agropecuária |33.600 |
-
-|Receita de Serviços |145.702.820 |
-
-|Transferências Correntes |1.924.458.220 |
-
-|Outras Receitas Correntes |209.942.714 |
+| Receita Tributária | 1.026.562.230 |
+| --- | --- |
+| Receita de Contribuições | 169.472.352 |
+| Receita Patrimonial | 46.157.761 |
+| Receita Agropecuária | 33.600 |
+| Receita de Serviços | 145.702.820 |
+| Transferências Correntes | 1.924.458.220 |
+| Outras Receitas Correntes | 209.942.714 |
 
 2.RECEITAS DE CAPITAL..................................................................................................460.587.471
 
-|Operações de Crédito |48.582.623 |
-
-|Alienação de Bens |2.077.000 |
-
-|Transferências de Capital |407.655.933 |
-
-|Outras Receitas de Capital |2.271.915 |
+| Operações de Crédito | 48.582.623 |
+| --- | --- |
+| Alienação de Bens | 2.077.000 |
+| Transferências de Capital | 407.655.933 |
+| Outras Receitas de Capital | 2.271.915 |
 
 3.RECEITAS INTRAORÇAMENTÁRIAS CORRENTES....................................................201.421.221
 
-|Receitas de Contribuições |160.670.769 |
-
-|Receitas de Serviços |40.750.452 |
+| Receitas de Contribuições | 160.670.769 |
+| --- | --- |
+| Receitas de Serviços | 40.750.452 |
 
 4.DEDUÇÃO DE TRANSFERÊNCIAS CONSTITUCIONAIS PARA ENSINO BÁSICO..............................................................................................................................(-104.730.610)
 
@@ -104,25 +87,17 @@ TOTAL GERAL DAS RECEITAS.................................................4.079.6
 
 **Art. 3º** - A despesa total, no mesmo valor da receita total, é assim fixada:
 
-| |R$1,00 |
-
-|I - Despesa do Orçamento Fiscal da Administração Direta |2.070.365.790 |
-
-|Despesa do Orçamento Fiscal da Administração Indireta |430.272.903 |
-
-| | |
-
-|Total do Orçamento Fiscal |2.500.638.693 |
-
-| | |
-
-|II - Despesa do Orçamento da Seguridade Social da Administração Direta |1.429.710.776 |
-
-|Despesa do Orçamento da Seguridade Social da Administração Indireta |149.258.310 |
-
-| | |
-
-|Total do Orçamento da Seguridade Social |1.578.969.086 |
+|  | R$1,00 |
+| --- | --- |
+| I - Despesa do Orçamento Fiscal da Administração Direta | 2.070.365.790 |
+| Despesa do Orçamento Fiscal da Administração Indireta | 430.272.903 |
+|  |  |
+| Total do Orçamento Fiscal | 2.500.638.693 |
+|  |  |
+| II - Despesa do Orçamento da Seguridade Social da Administração Direta | 1.429.710.776 |
+| Despesa do Orçamento da Seguridade Social da Administração Indireta | 149.258.310 |
+|  |  |
+| Total do Orçamento da Seguridade Social | 1.578.969.086 |
 
 **Art. 4º** - Os valores das receitas e despesas contidos nesta Lei serão atualizados monetariamente pela variação do Índice de Preços ao Consumidor Amplo-Especial - IPCA-E - verificada no período de julho de 2006 a dezembro de 2006.
 
@@ -134,209 +109,109 @@ TOTAL GERAL DAS RECEITAS.................................................4.079.6
 
 DISTRIBUIÇÃO POR ÓRGÃOS, EM VALORES DE 1º DE JULHO DE 2006
 
-| |R$1,00 |
-
-|Legislativo Municipal |102.424.099 |
-
-|Gabinete do Prefeito |3.834.801 |
-
-|Gabinete do Vice-Prefeito |1.213.813 |
-
-|Assessoria de Cerimonial e Mobilização |677.923 |
-
-|Assessoria Policial Militar |316.131 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte S/A |44.395.726 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A |12.670.467 |
-
-|Fundação Municipal de Cultura |28.544.106 |
-
-|Fundo Municipal de Projetos Culturais |5.377.700 |
-
-|Assessoria de Comunicação Social do Município |2.868.454 |
-
-|Procuradoria-Geral do Município |13.155.296 |
-
-|Fundo da Procuradoria-Geral do Município |360.000 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Informação |3.235.720 |
-
-|Secretaria Municipal Adjunta de Planejamento |2.825.380 |
-
-|Secretaria Municipal Adjunta de Tecnologia da Informação |3.674.503 |
-
-|Fundo Municipal de Desenvolvimento Econômico |16.000 |
-
-|Secretaria Municipal Adjunta de Orçamento |1.182.407 |
-
-|Secretaria Municipal de Administração e Recursos Humanos |60.000 |
-
-|Beneficência da Prefeitura de Belo Horizonte |34.726.954 |
-
-|Fundo Previdenciário |253.421.427 |
-
-|Secretaria Municipal Adjunta de Gestão Administrativa |9.109.016 |
-
-|Secretaria Municipal Adjunta de Recursos Humanos |22.306.924 |
-
-|Secretaria Municipal de Finanças |6.375.653 |
-
-|Secretaria Municipal Adjunta de Arrecadações |36.607.611 |
-
-|Secretaria Municipal Adjunta do Tesouro |2.979.854 |
-
-|Secretaria Municipal de Políticas Urbanas |443.271.570 |
-
-|Secretaria Municipal Adjunta de Meio Ambiente |11.443.662 |
-
-|Secretaria Municipal Adjunta de Regulação Urbana |13.720.600 |
-
-|Secretaria Municipal Adjunta de Habitação |3.637.851 |
-
-|Superintendência de Desenvolvimento da Capital |192.952.863 |
-
-|Superintendência de Limpeza Urbana |170.602.075 |
-
-|Companhia Urbanizadora de Belo Horizonte S/A |15.072.622 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte S/A |32.816.157 |
-
-|Fundação Zoobotânica de Belo Horizonte |19.313.033 |
-
-|Fundo Municipal de Defesa Ambiental |450.000 |
-
-|Fundo Municipal de Habitação Popular |129.462.194 |
-
-|Fundo Municipal de Operação do Parque das Mangabeiras |16.000 |
-
-|Fundo Municipal de Saneamento |200.000 |
-
-|Fundo Municipal de Transportes Urbanos |52.070.955 |
-
-|Fundo Municipal de Calamidade Pública |40.000 |
-
-|Coordenadoria Municipal de Defesa Civil |1.048.128 |
-
-|Fundação de Parques Municipais |21.750.826 |
-
-|Secretaria Municipal de Políticas Sociais |9.449.443 |
-
-|Secretaria Municipal Adjunta de Abastecimento |17.029.971 |
-
-|Secretaria Municipal Adjunta de Assistência Social |10.220.073 |
-
-|Secretaria Municipal Adjunta de Esportes |13.296.924 |
-
-|Secretaria Municipal Adjunta de Direitos de Cidadania |6.556.542 |
-
-|Fundo Municipal de Abastecimento Alimentar |7.071.683 |
-
-|Fundo Municipal de Assistência Social |34.885.045 |
-
-|Fundo Municipal dos Direitos da Criança e do Adolescente |7.071.284 |
-
-|Fundo Municipal de Merenda Escolar |10.729.531 |
-
-|Fundo Municipal de Proteção e Defesa do Consumidor |121.024 |
-
-|Fundo Municipal do Idoso |85.316 |
-
-|Fundo Municipal de Proteção e Defesa das Minorias |28.000 |
-
-|Secretaria de Administração Regional Municipal Barreiro |3.071.676 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Urbanos- Barreiro |3.339.970 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Sociais-Barreiro |80.018.004 |
-
-|Secretaria de Administração Regional Municipal Centro-Sul |12.050.148 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Urbanos-Centro-Sul |16.545.479 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Sociais-Centro-Sul |35.969.676 |
-
-|Secretaria de Administração Regional Municipal Leste |3.114.067 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Urbanos-Leste |3.175.014 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Sociais-Leste |50.849.901 |
-
-|Secretaria de Administração Regional Municipal Nordeste |2.945.832 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Urbanos-Nordeste |2.985.216 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Sociais-Nordeste |71.601.910 |
-
-|Secretaria de Administração Regional Municipal Noroeste |2.666.538 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Urbanos-Noroeste |3.875.565 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Sociais-Noroeste |53.541.305 |
-
-|Secretaria de Administração Regional Municipal Norte |2.166.728 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Urbanos-Norte |2.836.955 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Sociais-Norte |47.209.889 |
-
-|Secretaria de Administração Regional Municipal Oeste |2.378.613 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Urbanos-Oeste |4.151.859 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Sociais-Oeste |45.337.473 |
-
-|Secretaria de Administração Regional Municipal Pampulha |3.251.629 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Urbanos-Pampulha |4.310.298 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Sociais-Pampulha |37.530.066 |
-
-|Secretaria de Administração Regional Municipal Venda Nova |2.651.336 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Urbanos-Venda Nova |3.488.454 |
-
-|Secretaria Adjunta de Administração Regional de Serviços Sociais-Venda Nova |80.653.473 |
-
-|Secretaria Municipal de Governo |6.189.583 |
-
-|Secretaria Municipal Adjunta de Relações Internacionais |407.477 |
-
-|Secretaria Municipal de Segurança Urbana e Patrimonial |32.267.434 |
-
-|Secretaria Municipal de Educação |170.762.703 |
-
-|Secretaria Municipal de Saúde |6.944.000 |
-
-|Hospital Municipal Odilon Behrens |111.641.356 |
-
-|Fundo Municipal de Saúde |1.048.267.979 |
-
-|Controladoria-Geral do Município |276.942 |
-
-|Auditoria-Geral do Município |2.809.182 |
-
-|Contadoria-Geral do Município |1.511.054 |
-
-|Corregedoria-Geral do Município |1.952.211 |
-
-|Ouvidoria do Município |213.741 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Finanças |256.786.522 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Administração e Recursos Humanos |39.948.800 |
-
-| | |
-
-|SUBTOTAL |4.078.469.395 |
-
-| | |
-
-|RESERVA DE CONTINGÊNCIA |1.138.384 |
-
-| | |
-
-|TOTAL GERAL DA DESPESA |4.079.607.779 |
+|  | R$1,00 |
+| --- | --- |
+| Legislativo Municipal | 102.424.099 |
+| Gabinete do Prefeito | 3.834.801 |
+| Gabinete do Vice-Prefeito | 1.213.813 |
+| Assessoria de Cerimonial e Mobilização | 677.923 |
+| Assessoria Policial Militar | 316.131 |
+| Empresa de Informática e Informação do Município de Belo Horizonte S/A | 44.395.726 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A | 12.670.467 |
+| Fundação Municipal de Cultura | 28.544.106 |
+| Fundo Municipal de Projetos Culturais | 5.377.700 |
+| Assessoria de Comunicação Social do Município | 2.868.454 |
+| Procuradoria-Geral do Município | 13.155.296 |
+| Fundo da Procuradoria-Geral do Município | 360.000 |
+| Secretaria Municipal de Planejamento, Orçamento e Informação | 3.235.720 |
+| Secretaria Municipal Adjunta de Planejamento | 2.825.380 |
+| Secretaria Municipal Adjunta de Tecnologia da Informação | 3.674.503 |
+| Fundo Municipal de Desenvolvimento Econômico | 16.000 |
+| Secretaria Municipal Adjunta de Orçamento | 1.182.407 |
+| Secretaria Municipal de Administração e Recursos Humanos | 60.000 |
+| Beneficência da Prefeitura de Belo Horizonte | 34.726.954 |
+| Fundo Previdenciário | 253.421.427 |
+| Secretaria Municipal Adjunta de Gestão Administrativa | 9.109.016 |
+| Secretaria Municipal Adjunta de Recursos Humanos | 22.306.924 |
+| Secretaria Municipal de Finanças | 6.375.653 |
+| Secretaria Municipal Adjunta de Arrecadações | 36.607.611 |
+| Secretaria Municipal Adjunta do Tesouro | 2.979.854 |
+| Secretaria Municipal de Políticas Urbanas | 443.271.570 |
+| Secretaria Municipal Adjunta de Meio Ambiente | 11.443.662 |
+| Secretaria Municipal Adjunta de Regulação Urbana | 13.720.600 |
+| Secretaria Municipal Adjunta de Habitação | 3.637.851 |
+| Superintendência de Desenvolvimento da Capital | 192.952.863 |
+| Superintendência de Limpeza Urbana | 170.602.075 |
+| Companhia Urbanizadora de Belo Horizonte S/A | 15.072.622 |
+| Empresa de Transportes e Trânsito de Belo Horizonte S/A | 32.816.157 |
+| Fundação Zoobotânica de Belo Horizonte | 19.313.033 |
+| Fundo Municipal de Defesa Ambiental | 450.000 |
+| Fundo Municipal de Habitação Popular | 129.462.194 |
+| Fundo Municipal de Operação do Parque das Mangabeiras | 16.000 |
+| Fundo Municipal de Saneamento | 200.000 |
+| Fundo Municipal de Transportes Urbanos | 52.070.955 |
+| Fundo Municipal de Calamidade Pública | 40.000 |
+| Coordenadoria Municipal de Defesa Civil | 1.048.128 |
+| Fundação de Parques Municipais | 21.750.826 |
+| Secretaria Municipal de Políticas Sociais | 9.449.443 |
+| Secretaria Municipal Adjunta de Abastecimento | 17.029.971 |
+| Secretaria Municipal Adjunta de Assistência Social | 10.220.073 |
+| Secretaria Municipal Adjunta de Esportes | 13.296.924 |
+| Secretaria Municipal Adjunta de Direitos de Cidadania | 6.556.542 |
+| Fundo Municipal de Abastecimento Alimentar | 7.071.683 |
+| Fundo Municipal de Assistência Social | 34.885.045 |
+| Fundo Municipal dos Direitos da Criança e do Adolescente | 7.071.284 |
+| Fundo Municipal de Merenda Escolar | 10.729.531 |
+| Fundo Municipal de Proteção e Defesa do Consumidor | 121.024 |
+| Fundo Municipal do Idoso | 85.316 |
+| Fundo Municipal de Proteção e Defesa das Minorias | 28.000 |
+| Secretaria de Administração Regional Municipal Barreiro | 3.071.676 |
+| Secretaria Adjunta de Administração Regional de Serviços Urbanos- Barreiro | 3.339.970 |
+| Secretaria Adjunta de Administração Regional de Serviços Sociais-Barreiro | 80.018.004 |
+| Secretaria de Administração Regional Municipal Centro-Sul | 12.050.148 |
+| Secretaria Adjunta de Administração Regional de Serviços Urbanos-Centro-Sul | 16.545.479 |
+| Secretaria Adjunta de Administração Regional de Serviços Sociais-Centro-Sul | 35.969.676 |
+| Secretaria de Administração Regional Municipal Leste | 3.114.067 |
+| Secretaria Adjunta de Administração Regional de Serviços Urbanos-Leste | 3.175.014 |
+| Secretaria Adjunta de Administração Regional de Serviços Sociais-Leste | 50.849.901 |
+| Secretaria de Administração Regional Municipal Nordeste | 2.945.832 |
+| Secretaria Adjunta de Administração Regional de Serviços Urbanos-Nordeste | 2.985.216 |
+| Secretaria Adjunta de Administração Regional de Serviços Sociais-Nordeste | 71.601.910 |
+| Secretaria de Administração Regional Municipal Noroeste | 2.666.538 |
+| Secretaria Adjunta de Administração Regional de Serviços Urbanos-Noroeste | 3.875.565 |
+| Secretaria Adjunta de Administração Regional de Serviços Sociais-Noroeste | 53.541.305 |
+| Secretaria de Administração Regional Municipal Norte | 2.166.728 |
+| Secretaria Adjunta de Administração Regional de Serviços Urbanos-Norte | 2.836.955 |
+| Secretaria Adjunta de Administração Regional de Serviços Sociais-Norte | 47.209.889 |
+| Secretaria de Administração Regional Municipal Oeste | 2.378.613 |
+| Secretaria Adjunta de Administração Regional de Serviços Urbanos-Oeste | 4.151.859 |
+| Secretaria Adjunta de Administração Regional de Serviços Sociais-Oeste | 45.337.473 |
+| Secretaria de Administração Regional Municipal Pampulha | 3.251.629 |
+| Secretaria Adjunta de Administração Regional de Serviços Urbanos-Pampulha | 4.310.298 |
+| Secretaria Adjunta de Administração Regional de Serviços Sociais-Pampulha | 37.530.066 |
+| Secretaria de Administração Regional Municipal Venda Nova | 2.651.336 |
+| Secretaria Adjunta de Administração Regional de Serviços Urbanos-Venda Nova | 3.488.454 |
+| Secretaria Adjunta de Administração Regional de Serviços Sociais-Venda Nova | 80.653.473 |
+| Secretaria Municipal de Governo | 6.189.583 |
+| Secretaria Municipal Adjunta de Relações Internacionais | 407.477 |
+| Secretaria Municipal de Segurança Urbana e Patrimonial | 32.267.434 |
+| Secretaria Municipal de Educação | 170.762.703 |
+| Secretaria Municipal de Saúde | 6.944.000 |
+| Hospital Municipal Odilon Behrens | 111.641.356 |
+| Fundo Municipal de Saúde | 1.048.267.979 |
+| Controladoria-Geral do Município | 276.942 |
+| Auditoria-Geral do Município | 2.809.182 |
+| Contadoria-Geral do Município | 1.511.054 |
+| Corregedoria-Geral do Município | 1.952.211 |
+| Ouvidoria do Município | 213.741 |
+| Encargos Gerais do Município da Secretaria Municipal de Finanças | 256.786.522 |
+| Encargos Gerais do Município da Secretaria Municipal de Administração e Recursos Humanos | 39.948.800 |
+|  |  |
+| SUBTOTAL | 4.078.469.395 |
+|  |  |
+| RESERVA DE CONTINGÊNCIA | 1.138.384 |
+|  |  |
+| TOTAL GERAL DA DESPESA | 4.079.607.779 |
 
 DISTRIBUIÇÃO POR FUNÇÃO DE GOVERNO,
 
@@ -344,77 +219,47 @@ EM VALORES DE 1º DE JULHO DE 2006
 
 ADMINISTRAÇÃO DIRETA E INDIRETA
 
-| |R$1,00 |
-
-|Legislativa |92.759.069 |
-
-|Administração |249.828.724 |
-
-|Segurança Pública |34.497.711 |
-
-|Assistência Social |132.486.752 |
-
-|Previdência Social |264.810.940 |
-
-|Saúde |1.181.671.394 |
-
-|Trabalho |16.100.169 |
-
-|Educação |696.959.159 |
-
-|Cultura |46.635.696 |
-
-|Direitos da Cidadania |7.969.484 |
-
-|Urbanismo |293.412.907 |
-
-|Habitação |190.938.956 |
-
-|Saneamento |323.060.800 |
-
-|Gestão Ambiental |95.621.890 |
-
-|Ciência e Tecnologia |28.750.277 |
-
-|Agricultura |650.100 |
-
-|Comércio e Serviços |26.381.868 |
-
-|Transporte |93.036.934 |
-
-|Desporto e Lazer |19.379.194 |
-
-|Encargos Especiais |283.517.371 |
-
-| | |
-
-|SUBTOTAL |4.078.469.395 |
-
-| | |
-
-|RESERVA DE CONTINGÊNCIA |1.138.384 |
-
-| | |
-
-|TOTAL GERAL DA DESPESA |4.079.607.779 |
+|  | R$1,00 |
+| --- | --- |
+| Legislativa | 92.759.069 |
+| Administração | 249.828.724 |
+| Segurança Pública | 34.497.711 |
+| Assistência Social | 132.486.752 |
+| Previdência Social | 264.810.940 |
+| Saúde | 1.181.671.394 |
+| Trabalho | 16.100.169 |
+| Educação | 696.959.159 |
+| Cultura | 46.635.696 |
+| Direitos da Cidadania | 7.969.484 |
+| Urbanismo | 293.412.907 |
+| Habitação | 190.938.956 |
+| Saneamento | 323.060.800 |
+| Gestão Ambiental | 95.621.890 |
+| Ciência e Tecnologia | 28.750.277 |
+| Agricultura | 650.100 |
+| Comércio e Serviços | 26.381.868 |
+| Transporte | 93.036.934 |
+| Desporto e Lazer | 19.379.194 |
+| Encargos Especiais | 283.517.371 |
+|  |  |
+| SUBTOTAL | 4.078.469.395 |
+|  |  |
+| RESERVA DE CONTINGÊNCIA | 1.138.384 |
+|  |  |
+| TOTAL GERAL DA DESPESA | 4.079.607.779 |
 
 **Art. 8º** - O Orçamento de Investimento das Empresas, observada a programação de receita e despesa constante dos anexos desta Lei, perfaz a quantia de R$9.567.071,00 (nove milhões, quinhentos e sessenta e sete mil e setenta e um reais) e apresenta a seguinte discriminação:
 
 ESPECIFICAÇÃO
 
-| |R$ 1,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte S/A – PRODABEL |6.811.854 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte S/A – BHTRANS |2.663.217 |
-
-|Companhia Urbanizadora de Belo Horizonte S/A - URBEL |42.000 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |50.000 |
-
-| | |
-
-|TOTAL |9.567.071 |
+|  | R$ 1,00 |
+| --- | --- |
+| Empresa de Informática e Informação do Município de Belo Horizonte S/A – PRODABEL | 6.811.854 |
+| Empresa de Transportes e Trânsito de Belo Horizonte S/A – BHTRANS | 2.663.217 |
+| Companhia Urbanizadora de Belo Horizonte S/A - URBEL | 42.000 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR | 50.000 |
+|  |  |
+| TOTAL | 9.567.071 |
 
 **Art. 9º** - O Orçamento de Investimento das Empresas, para fins de execução orçamentária, será expresso em valores vigentes em 1º de janeiro de 2007, com atualização monetária, nos termos dos arts. 4º e 5º desta Lei.
 

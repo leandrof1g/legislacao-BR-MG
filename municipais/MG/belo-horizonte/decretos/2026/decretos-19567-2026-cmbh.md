@@ -58,85 +58,50 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei nº|R$ |
-
-|11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0117.1216.449051.2.754.791 |3.000.000,00 |
-
-|TOTAL |3.000.000,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei|R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2900.339092.1.500.000 |595.330,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1203.449051.1.759.000 |500.000,00 |
-
-|2700.04.122.0233.1219.449051.1.500.000 |59.825,00 |
-
-|2700.17.512.0066.1203.449051.1.500.000 |10.993,00 |
-
-|2700.04.122.0044.1219.449051.1.500.000 |500.000,00 |
-
-|2700.04.122.0044.1403.449092.2.754.791 |470.000,00 |
-
-|2700.18.541.0233.1202.449051.1.500.000 |55.147,00 |
-
-|2700.04.122.0233.1219.339039.1.500.000 |0,09 |
-
-|2700.04.126.0057.2770.449040.2.754.791 |170.000,00 |
-
-|2700.04.126.0057.2770.449092.2.754.791 |30.000,00 |
-
-|2700.15.451.0171.1399.449051.1.752.000 |340.780,00 |
-
-|TOTAL |2.732.075,09 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.732.075,09 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei nº | R$ |
+| --- | --- |
+| 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0117.1216.449051.2.754.791 | 3.000.000,00 |
+| TOTAL | 3.000.000,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei | R$ |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2900.339092.1.500.000 | 595.330,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1203.449051.1.759.000 | 500.000,00 |
+| 2700.04.122.0233.1219.449051.1.500.000 | 59.825,00 |
+| 2700.17.512.0066.1203.449051.1.500.000 | 10.993,00 |
+| 2700.04.122.0044.1219.449051.1.500.000 | 500.000,00 |
+| 2700.04.122.0044.1403.449092.2.754.791 | 470.000,00 |
+| 2700.18.541.0233.1202.449051.1.500.000 | 55.147,00 |
+| 2700.04.122.0233.1219.339039.1.500.000 | 0,09 |
+| 2700.04.126.0057.2770.449040.2.754.791 | 170.000,00 |
+| 2700.04.126.0057.2770.449092.2.754.791 | 30.000,00 |
+| 2700.15.451.0171.1399.449051.1.752.000 | 340.780,00 |
+| TOTAL | 2.732.075,09 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.732.075,09 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2700.15.451.0305.1330.449051.2.754.791 |3.000.000,00 |
-
-|TOTAL |3.000.000,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.04.122.0165.2816.339037.1.500.000 |595.330,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.1.500.000 |625.965,09 |
-
-|2700.15.451.0062.1230.449051.1.752.000 |340.780,00 |
-
-|2700.17.512.0066.1403.449051.1.759.000 |500.000,00 |
-
-|2700.15.451.0305.1330.449051.2.754.791 |470.000,00 |
-
-|2700.15.452.0057.2770.449040.2.754.791 |200.000,00 |
-
-|TOTAL |2.732.075,09 |
-
-|TOTAL DA ANULAÇÃO |5.732.075,09 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2700.15.451.0305.1330.449051.2.754.791 | 3.000.000,00 |
+| TOTAL | 3.000.000,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.04.122.0165.2816.339037.1.500.000 | 595.330,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.1.500.000 | 625.965,09 |
+| 2700.15.451.0062.1230.449051.1.752.000 | 340.780,00 |
+| 2700.17.512.0066.1403.449051.1.759.000 | 500.000,00 |
+| 2700.15.451.0305.1330.449051.2.754.791 | 470.000,00 |
+| 2700.15.452.0057.2770.449040.2.754.791 | 200.000,00 |
+| TOTAL | 2.732.075,09 |
+| TOTAL DA ANULAÇÃO | 5.732.075,09 |
 
 ANEXO II
 
@@ -170,52 +135,32 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para|Limite de 15% (quinze por cento) |
-
-|abertura de créditos suplementares para o Fundo Municipal de |do valor do orçamento. |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 3.738.652.601,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 206.072.870,61 |
-
-|Valor do decreto publicado nesta data |R$ 3.000.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 209.072.870,61 |
-
-|Saldo atual de créditos suplementares |R$ 3.529.579.730,79 |
-
-|Percentual utilizado |5,59% |
-
-|Atualizado em 16/04/2026 às 09:44:40 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 15% (quinze por cento) |
+| abertura de créditos suplementares para o Fundo Municipal de | do valor do orçamento. |
+| Saúde. |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 3.738.652.601,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 206.072.870,61 |
+| Valor do decreto publicado nesta data | R$ 3.000.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 209.072.870,61 |
+| Saldo atual de créditos suplementares | R$ 3.529.579.730,79 |
+| Percentual utilizado | 5,59% |
+| Atualizado em 16/04/2026 às 09:44:40 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 520.830.334,93 |
-
-|Valor do decreto publicado nesta data |R$ 2.732.075,09 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 523.562.410,02 |
-
-|Saldo atual de créditos suplementares |R$ 1.968.872.657,58 |
-
-|Percentual utilizado |21,01% |
-
-|Atualizado em 16/04/2026 às 10:40:48 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 520.830.334,93 |
+| Valor do decreto publicado nesta data | R$ 2.732.075,09 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 523.562.410,02 |
+| Saldo atual de créditos suplementares | R$ 1.968.872.657,58 |
+| Percentual utilizado | 21,01% |
+| Atualizado em 16/04/2026 às 10:40:48 |  |

@@ -328,24 +328,15 @@ Secretário Municipal de Atividades Urbanas
 
 ANEXO ÚNICO
 
-|Art. 21 |1ª autuação |2ª autuação |3ª autuação |4ª autuação |5ª autuação |6ª autuação |
-
-|Incisos | | | | | | |
-
-|I, II, III, IV, V, |Advertência |Multa: 14 (quatorz)|Multa: 28 (vinte e |Multa: 42 (quarenta|Multa: 56 |Cassação da licença|
-
-|VII | |UFIRs |oito) UFIRs |e dois) UFIRs |(cinqüenta e seis) | |
-
-| | | | | |UFIRs | |
-
-|VI, VIII, XI, XII, |Advertência |Multa: 28 (vinte e |Multa: 42 (quarenta|Multa: 56 |Cassação da licença| |
-
-|XV | |oito) UFIRs |e dois) UFIRs |(cinqüenta e seis) | | |
-
-| | | | |UFIRs | | |
-
-|IX, X, XIII, XIV, |Multa: 56 |Multa: 70 (setenta)|Cassação da licença| | | |
-
-|XVI |(cinqüenta e seis) |UFIRs | | | | |
-
-| |UFIRs | | | | | |
+| Art. 21 | 1ª autuação | 2ª autuação | 3ª autuação | 4ª autuação | 5ª autuação | 6ª autuação |
+| --- | --- | --- | --- | --- | --- | --- |
+| Incisos |  |  |  |  |  |  |
+| I, II, III, IV, V, | Advertência | Multa: 14 (quatorz) | Multa: 28 (vinte e | Multa: 42 (quarenta | Multa: 56 | Cassação da licença |
+| VII |  | UFIRs | oito) UFIRs | e dois) UFIRs | (cinqüenta e seis) |  |
+|  |  |  |  |  | UFIRs |  |
+| VI, VIII, XI, XII, | Advertência | Multa: 28 (vinte e | Multa: 42 (quarenta | Multa: 56 | Cassação da licença |  |
+| XV |  | oito) UFIRs | e dois) UFIRs | (cinqüenta e seis) |  |  |
+|  |  |  |  | UFIRs |  |  |
+| IX, X, XIII, XIV, | Multa: 56 | Multa: 70 (setenta) | Cassação da licença |  |  |  |
+| XVI | (cinqüenta e seis) | UFIRs |  |  |  |  |
+|  | UFIRs |  |  |  |  |  |

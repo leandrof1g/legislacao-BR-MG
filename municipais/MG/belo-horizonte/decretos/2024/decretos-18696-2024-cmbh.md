@@ -58,53 +58,34 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei nº 11.594,|R$ |
-
-|de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.126.0302.2938.449051.500 |10.645,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.392.0154.2371.339039.500 |300.000,00 |
-
-|3103.13.392.0301.2907.339039.500 |100.000,00 |
-
-|3103.13.391.0155.2375.449052.500 |200.000,00 |
-
-|3103.13.392.0154.2371.449052.500 |100.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |710.645,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei nº 11.594, | R$ |
+| --- | --- |
+| de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.126.0302.2938.449051.500 | 10.645,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.392.0154.2371.339039.500 | 300.000,00 |
+| 3103.13.392.0301.2907.339039.500 | 100.000,00 |
+| 3103.13.391.0155.2375.449052.500 | 200.000,00 |
+| 3103.13.392.0154.2371.449052.500 | 100.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 710.645,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de emendas|R$ |
-
-|previstas inicialmente nos órgãos relacionados abaixo, conforme autorização contida no | |
-
-|art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º Lei nº 11.644, de 29 de | |
-
-|dezembro de 2023: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.126.0302.2938.339040.500 |10.645,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2930.339039.500 |250.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.392.0154.2371.339039.500 |100.000,00 |
-
-|3103.13.122.0146.2338.449052.500 |300.000,00 |
-
-|3103.13.392.0301.2907.339039.500 |50.000,00 |
-
-|TOTAL DA ANULAÇÃO |710.645,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de emendas | R$ |
+| --- | --- |
+| previstas inicialmente nos órgãos relacionados abaixo, conforme autorização contida no |  |
+| art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º Lei nº 11.644, de 29 de |  |
+| dezembro de 2023: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.126.0302.2938.339040.500 | 10.645,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2930.339039.500 | 250.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.392.0154.2371.339039.500 | 100.000,00 |
+| 3103.13.122.0146.2338.449052.500 | 300.000,00 |
+| 3103.13.392.0301.2907.339039.500 | 50.000,00 |
+| TOTAL DA ANULAÇÃO | 710.645,00 |
 
 ANEXO II
 
@@ -132,22 +113,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a adequação das |
-
-|programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 170.400.546,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 7.815.146,00 |
-
-|Valor do Decreto publicado nesta data |R$ 710.645,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 8.525.791,00 |
-
-|Saldo atual de créditos suplementares |R$ 161.874.755,00 |
-
-|Percentual utilizado |5,00% |
-
-|Atualizado em 29/04/2024 às 14:16:20 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a adequação das |  |
+| programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 170.400.546,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 7.815.146,00 |
+| Valor do Decreto publicado nesta data | R$ 710.645,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 8.525.791,00 |
+| Saldo atual de créditos suplementares | R$ 161.874.755,00 |
+| Percentual utilizado | 5,00% |
+| Atualizado em 29/04/2024 às 14:16:20 |  |

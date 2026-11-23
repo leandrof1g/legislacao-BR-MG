@@ -372,40 +372,30 @@ ANEXO I
 
 (a que se referem os arts. 15 e 18 do Decreto nº 18.268, de 6 de março de 2023)
 
-|ESPAÇO DE IDENTIFICAÇÃO EM PLACAS |
-
-| |DIMENSÕES DA PLACA DE |DIMENSÕES DA ÁREA DE |ÁREA DESTINADA À |ÁREA DESTINADA A TEXTO |
-
-| |IDENTIFICAÇÃO DO |DIAGRAMAÇÃO DAS PLACAS|LOGOMARCA DO |PUBLICITÁRIO |
-
-| |PROGRAMA | |ADOTANTE | |
-
-|Placa modelo A|50cm x 110cm |50cm x 100cm |40cm x 40cm |Não se aplica |
-
-|Placa modelo B|52,2cm x 200cm |49cm x 186,8cm |43,5cm x 43,5cm |43,5cm x 43,5cm |
+| ESPAÇO DE IDENTIFICAÇÃO EM PLACAS |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | DIMENSÕES DA PLACA DE | DIMENSÕES DA ÁREA DE | ÁREA DESTINADA À | ÁREA DESTINADA A TEXTO |
+|  | IDENTIFICAÇÃO DO | DIAGRAMAÇÃO DAS PLACAS | LOGOMARCA DO | PUBLICITÁRIO |
+|  | PROGRAMA |  | ADOTANTE |  |
+| Placa modelo A | 50cm x 110cm | 50cm x 100cm | 40cm x 40cm | Não se aplica |
+| Placa modelo B | 52,2cm x 200cm | 49cm x 186,8cm | 43,5cm x 43,5cm | 43,5cm x 43,5cm |
 
 ANEXO II
 
 (a que se refere o art. 17 do Decreto nº 18.268, de 6 de março de 2023)
 
-|ESPAÇO DE IDENTIFICAÇÃO EM CICLOVIAS E PISTAS DE COOPER |
-
-| |MARCOS DE |PINTURA NA |GRELHA DE |OUTROS MOBILIÁRIOS |
-
-| |METRAGEM |PISTA |PROTEÇÃO PARA |URBANOS |
-
-| | | |RAÍZES DE | |
-
-| | | |ÁRVORES | |
-
-|Área máxima de espaço publicitário |10cm x 10cm |30cm x 30cm |10cm x 5cm |20cm x 20cm |
+| ESPAÇO DE IDENTIFICAÇÃO EM CICLOVIAS E PISTAS DE COOPER |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | MARCOS DE | PINTURA NA | GRELHA DE | OUTROS MOBILIÁRIOS |
+|  | METRAGEM | PISTA | PROTEÇÃO PARA | URBANOS |
+|  |  |  | RAÍZES DE |  |
+|  |  |  | ÁRVORES |  |
+| Área máxima de espaço publicitário | 10cm x 10cm | 30cm x 30cm | 10cm x 5cm | 20cm x 20cm |
 
 Publicidade em vedações
 
-| |ÁREA DESTINADA À LOGOMARCA DO |ÁREA DESTINADA A |
-
-| |ADOTANTE |TRATAMENTO GRÁFICO SEM |
-
-| | |PUBLICIDADE |
-
-|A cada 12 metros lineares |40cm x 40cm |Livre |
+|  | ÁREA DESTINADA À LOGOMARCA DO | ÁREA DESTINADA A |
+| --- | --- | --- |
+|  | ADOTANTE | TRATAMENTO GRÁFICO SEM |
+|  |  | PUBLICIDADE |
+| A cada 12 metros lineares | 40cm x 40cm | Livre |

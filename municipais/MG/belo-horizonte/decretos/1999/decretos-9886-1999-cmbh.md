@@ -56,26 +56,11 @@ ANEXO I A QUE SE REFERE O DECRETO Nº 9.886
 
 1ª PARCELA - ASSISTÊNCIA AO EDUCANDO – 1999
 
-[pic]
-
-[pic][pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II A QUE SE REFERE AO DECRETO Nº 9.886
 
 1ª PARCELA DA SUBVENÇÃO DE CONSERVAÇÃO - 1999
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

@@ -188,37 +188,23 @@ DO PESSOAL E DOS CARGOS
 
 **Art. 16** - Para a execução de suas atividades, o CIAS disporá de quadro de pessoal composto por empregados públicos, nos termos do estabelecido no capítulo décimo segundo do Protocolo de Intenções de que trata esta Lei, em conformidade com a seguinte tabela de empregos e vencimentos:
 
-|PLANO DE EMPREGOS E VENCIMENTOS |
-
-|CARGO |QUANTIDADE |CLASSE DE VENCIMENTOS |VALOR (R$) |
-
-|Secretário Executivo |1 |AA-01 |10.494,00 |
-
-|Assessor Jurídico |1 |BA-01 |8.919,90 |
-
-|Assessor Técnico |1 |BA-01 |8.919,90 |
-
-|Coordenador |4 |CA-01 |6.068,00 |
-
-|Auditor |1 |CA-01 |8.919,90 |
-
-|Gerente |5 |DA-01 |4.428,00 |
-
-|Supervisor |5 |EA-01 |3.200,00 |
-
-|Enfermeiro Chefe |1 |FA-01 |4.068,00 |
-
-|Enfermeiro |2 |FA-02 |2.500,00 |
-
-|Técnico de Enfermagem |20 |GA-01 |1.200,00 |
-
-|Técnico de Radiologia |5 |HÁ-01 |1.200,00 |
-
-|Assistente Administrativo |5 |IA-01 |1.500,00 |
-
-|Auxiliar Administrativo |10 |JÁ-01 |1.100,00 |
-
-|Auxiliar de Serviços Gerais |5 |KA-01 |800,00 |
+| PLANO DE EMPREGOS E VENCIMENTOS |  |  |  |
+| --- | --- | --- | --- |
+| CARGO | QUANTIDADE | CLASSE DE VENCIMENTOS | VALOR (R$) |
+| Secretário Executivo | 1 | AA-01 | 10.494,00 |
+| Assessor Jurídico | 1 | BA-01 | 8.919,90 |
+| Assessor Técnico | 1 | BA-01 | 8.919,90 |
+| Coordenador | 4 | CA-01 | 6.068,00 |
+| Auditor | 1 | CA-01 | 8.919,90 |
+| Gerente | 5 | DA-01 | 4.428,00 |
+| Supervisor | 5 | EA-01 | 3.200,00 |
+| Enfermeiro Chefe | 1 | FA-01 | 4.068,00 |
+| Enfermeiro | 2 | FA-02 | 2.500,00 |
+| Técnico de Enfermagem | 20 | GA-01 | 1.200,00 |
+| Técnico de Radiologia | 5 | HÁ-01 | 1.200,00 |
+| Assistente Administrativo | 5 | IA-01 | 1.500,00 |
+| Auxiliar Administrativo | 10 | JÁ-01 | 1.100,00 |
+| Auxiliar de Serviços Gerais | 5 | KA-01 | 800,00 |
 
 **Parágrafo único** - Caberá à Assembleia Geral deliberar sobre o aumento da quantidade e da remuneração dos empregados públicos do Consórcio, bem como sobre a contratação temporária para atender a excepcional interesse público, observada, conforme o caso, a necessidade de autorização legislativa.
 

@@ -3838,33 +3838,21 @@ e) 1 área reservada (Box) para acomodação de uma pessoa com deficiência (PcD
 
 Tabela 1 – Resumo dos Tipos de Veículos
 
-|TIPO DE ÔNIBUS |(a) |COMPRI |QTDE PORTAS|QTDE |TIPO DE |ÁREA RESERVA | |
-
-| |PBT MÍNIMO |MENTO TOTAL|À ESQUER DA|PORTAS À |OPERA ÇÃO |DA (PcD) |ÁREA RESERVA|
-
-| |(t) | | |DIREITA | | |DA 2 |
-
-| | |(m) | | | | |Bicicletas |
-
-|ARTICULADO |26 | Até 19 |4 |2 (c) |Exclusiva à|1 |1 |
-
-| | | | | |Esquerda | | |
-
-| | | |4 |3 |Esquerda e | | |
-
-| | | | | |Direita | | |
-
-|PADRON |16 |13,2 a 15 |2 |1 (d) |Exclusiva à|1 |1 |
-
-| | |(b) | | |Esquerda | | |
-
-| | | |2 |3 |Esquerda e | | |
-
-| | | | | |Direita | | |
-
-| |16 |Até 12,7 |0 |3 |Exclusiva à|1 |0 |
-
-|BÁSICO | | | | |Direita | | |
+| TIPO DE ÔNIBUS | (a) | COMPRI | QTDE PORTAS | QTDE | TIPO DE | ÁREA RESERVA |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | PBT MÍNIMO | MENTO TOTAL | À ESQUER DA | PORTAS À | OPERA ÇÃO | DA (PcD) | ÁREA RESERVA |
+|  | (t) |  |  | DIREITA |  |  | DA 2 |
+|  |  | (m) |  |  |  |  | Bicicletas |
+| ARTICULADO | 26 | Até 19 | 4 | 2 (c) | Exclusiva à | 1 | 1 |
+|  |  |  |  |  | Esquerda |  |  |
+|  |  |  | 4 | 3 | Esquerda e |  |  |
+|  |  |  |  |  | Direita |  |  |
+| PADRON | 16 | 13,2 a 15 | 2 | 1 (d) | Exclusiva à | 1 | 1 |
+|  |  | (b) |  |  | Esquerda |  |  |
+|  |  |  | 2 | 3 | Esquerda e |  |  |
+|  |  |  |  |  | Direita |  |  |
+|  | 16 | Até 12,7 | 0 | 3 | Exclusiva à | 1 | 0 |
+| BÁSICO |  |  |  |  | Direita |  |  |
 
 Notas:
 
@@ -4188,21 +4176,15 @@ Os veículos Articulado e Padron devem estar equipados com a suspensão do tipo 
 
 Tabela 2 – Aplicação dos tipos de suspensão
 
-|TIPO DE ÔNIBUS |REFERÊNCIA DOS EIXOS |TIPO DA SUSPENSÃO |
-
-| |Todos os eixos |Pneumática ou Mista |
-
-|ARTICULADO | | |
-
-| |Todos os eixos | |
-
-|PADRON | | |
-
-|BÁSICO |Todos os eixos | |
-
-| | |Pneumática, Mista ou |
-
-| | |Metálica |
+| TIPO DE ÔNIBUS | REFERÊNCIA DOS EIXOS | TIPO DA SUSPENSÃO |
+| --- | --- | --- |
+|  | Todos os eixos | Pneumática ou Mista |
+| ARTICULADO |  |  |
+|  | Todos os eixos |  |
+| PADRON |  |  |
+| BÁSICO | Todos os eixos |  |
+|  |  | Pneumática, Mista ou |
+|  |  | Metálica |
 
 11.5 – MOTOR DO VEÍCULO
 
@@ -4218,19 +4200,14 @@ Excepcionalmente para os veículos que utilizem combustíveis alternativos ao ó
 
 Tabela 3 – Dados do motor
 
-|TIPO DE ÔNIBUS |PBT |kW/t |Nm/t |TOLERÂNCIA ADMITIDA |
-
-| |(mínimo) |(mínimo) |(mínimo) |(%) |
-
-|ARTICULADO |26 |8 | |5 |
-
-| | | |50 | |
-
-|PADRON |16 |9 | |5 |
-
-| | | |50 | |
-
-|BÁSICO |16 |9 |45 |5 |
+| TIPO DE ÔNIBUS | PBT | kW/t | Nm/t | TOLERÂNCIA ADMITIDA |
+| --- | --- | --- | --- | --- |
+|  | (mínimo) | (mínimo) | (mínimo) | (%) |
+| ARTICULADO | 26 | 8 |  | 5 |
+|  |  |  | 50 |  |
+| PADRON | 16 | 9 |  | 5 |
+|  |  |  | 50 |  |
+| BÁSICO | 16 | 9 | 45 | 5 |
 
 O motor deve dispor de tecnologia que proporcione atendimento integral aos limites de emissões estabelecido pela legislação de meio ambiente, em especial pelo Programa de Controle da Poluição do Ar por Veículos Automotores - PROCONVE.
 
@@ -4290,19 +4267,14 @@ Devem ser atendidos os critérios definidos nas normas ABNT NBR 10966, ABNT NBR 
 
 Tabela 4 – Aplicação da Transmissão Automática e Retarder
 
-|TIPO DE ÔNIBUS |TRANSMISSÃO AUTOMÁTICA |RETARDER |
-
-| |Obrigatório |Obrigatório |
-
-|ARTICULADO | | |
-
-| |Obrigatório (a) |Obrigatório (a) |
-
-|PADRON | | |
-
-|BÁSICO |Recomendado | |
-
-| | |Recomendado |
+| TIPO DE ÔNIBUS | TRANSMISSÃO AUTOMÁTICA | RETARDER |
+| --- | --- | --- |
+|  | Obrigatório | Obrigatório |
+| ARTICULADO |  |  |
+|  | Obrigatório (a) | Obrigatório (a) |
+| PADRON |  |  |
+| BÁSICO | Recomendado |  |
+|  |  | Recomendado |
 
 Nota (a): Nos veículos que operarem nas linhas troncais, com atendimento aos corredores de BRT, Hipercentro e Hospitais.
 
@@ -4314,11 +4286,13 @@ O sistema deve permitir a amplitude mínima de movimento entre o veículo princi
 
 Figura 1 – Ângulo horizontal
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Figura 2 – Ângulo vertical
 
-[pic] Para impedimento à ultrapassagem dos limites estabelecidos pelo fabricante deve existir batentes que limitem o ângulo horizontal sem causar danos ao veículo e no mínimo, conjugados aos dispositivos de alarme ótico e sonoro, além de sistema de acionamento do freio nas rodas motrizes para operação em marcha a ré.
+*[imagem no documento original — ver `fonte_texto`]*
+
+Para impedimento à ultrapassagem dos limites estabelecidos pelo fabricante deve existir batentes que limitem o ângulo horizontal sem causar danos ao veículo e no mínimo, conjugados aos dispositivos de alarme ótico e sonoro, além de sistema de acionamento do freio nas rodas motrizes para operação em marcha a ré.
 
 Outros sistemas de articulação devem ser apresentados à BHTRANS e poderão ser utilizados desde que apresentem desempenho e eficiência comprovados pelo uso.
 
@@ -4412,7 +4386,7 @@ Os ângulos (α) mínimos de entrada e de saída (ver Figura 3) devem ser de 7°
 
 Figura 3 - Ângulos de entrada e saída
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 12.2.6 - Raios de Giro
 
@@ -4422,35 +4396,25 @@ Devem ser atendidos os limites definidos na norma ABNT NBR 15570 e aos requisito
 
 Tabela 5 – Valores e condições de esterçamento para raio de giro
 
-|MANOBRABILIDADE |VALORES (mm) | |
-
-| | |CONDIÇÃO DE |
-
-| | |ESTERÇAMENTO |
-
-| |ARTICULADO / PADRON / BÁSICO | |
-
-|RAIO EXTERNO ENTRE PAREDES (REEP) |14.000 |Máxima |
-
-|MÁXIMO | | |
-
-|RAIO EXTERNO ENTRE GUIAS (REEG) |12.000 |Máxima |
-
-|MÁXIMO | | |
-
-|RAIO INTERNO ENTRE GUIAS (RIEG) |5.000 |Qualquer (a) |
-
-|MÍNIMO | | |
-
-|AVANÇO RADIAL DE TRASEIRA (ART) |1.400 |Máxima |
-
-|MÁXIMO | | |
+| MANOBRABILIDADE | VALORES (mm) |  |
+| --- | --- | --- |
+|  |  | CONDIÇÃO DE |
+|  |  | ESTERÇAMENTO |
+|  | ARTICULADO / PADRON / BÁSICO |  |
+| RAIO EXTERNO ENTRE PAREDES (REEP) | 14.000 | Máxima |
+| MÁXIMO |  |  |
+| RAIO EXTERNO ENTRE GUIAS (REEG) | 12.000 | Máxima |
+| MÁXIMO |  |  |
+| RAIO INTERNO ENTRE GUIAS (RIEG) | 5.000 | Qualquer (a) |
+| MÍNIMO |  |  |
+| AVANÇO RADIAL DE TRASEIRA (ART) | 1.400 | Máxima |
+| MÁXIMO |  |  |
 
 Nota (a): Desde que o veículo esteja percorrendo um trajeto inscrito ao REEP máximo.
 
 Figura 4 – Raios de giro
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 12.2.7 – Altura interna
 
@@ -4486,17 +4450,13 @@ Para possibilitar o adequado fluxo de passageiros no salão e considerando os as
 
 Tabela 6 – Modularização das portas esquerdas
 
-|MEDIDA |REFERÊNCIA |ARTICULADO |PADRON |
-
-| | |(mm) |(mm) |
-
-|A |Comprimento total máximo |19.000 |13.200 a 15.000 (b) |
-
-|B (a) |Distância da porta 1 à porta 2 |2.850 |5.700 |
-
-|C (a) |Distância da porta 2 à porta 3 |5.700 |- |
-
-|D (a) |Distância da porta 3 à porta 4 |3.600 |- |
+| MEDIDA | REFERÊNCIA | ARTICULADO | PADRON |
+| --- | --- | --- | --- |
+|  |  | (mm) | (mm) |
+| A | Comprimento total máximo | 19.000 | 13.200 a 15.000 (b) |
+| B (a) | Distância da porta 1 à porta 2 | 2.850 | 5.700 |
+| C (a) | Distância da porta 2 à porta 3 | 5.700 | - |
+| D (a) | Distância da porta 3 à porta 4 | 3.600 | - |
 
 Notas:
 
@@ -4506,9 +4466,11 @@ b) O veículo de 15 metros deve possuir autorização obrigatória da BHTRANS.
 
 Figura 5 – Posição das portas esquerdas do ônibus Articulado
 
-[pic] Figura 6 – Posição das portas esquerdas do ônibus Padron
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
+Figura 6 – Posição das portas esquerdas do ônibus Padron
+
+*[imagem no documento original — ver `fonte_texto`]*
 
 Todas as portas de serviço (esquerda e direita) e as portas operacionais (à direita) devem possuir vidros de segurança na parte superior.
 
@@ -4528,7 +4490,7 @@ Para efeito de medição da largura útil da porta deve ser garantida uma altura
 
 Figura 7 – Largura útil das portas
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Os veículos com embarque exclusivo à esquerda devem possuir porta operacional à direita, para acesso do motorista e para uso dos usuários em situações de emergência, possuindo vão livre de 800 mm para passagem. O veículo Articulado deve possuir 2 portas operacionais, sendo uma no balanço dianteiro e a outra após a rótula de articulação. O veículo Padron deve possuir, apenas, 1 porta operacional, posicionada no balanço dianteiro.
 
@@ -4540,19 +4502,14 @@ Caso a distância seja menor, para evitar uma possível colisão entre as folhas
 
 Tabela 7 - Quantidade mínima de portas
 
-| |ARTICULADO |PADRON |BÁSICO |
-
-|TIPO DE OPERAÇÃO| | | |
-
-| |Lado esquerdo|Lado direito |Lado esquerdo|Lado direito |Lado esquerdo|Lado direito |
-
-|Exclusivo |4 |2 (a) |2 |1 (b) |0 |0 |
-
-|à esquerda | | | | | | |
-
-|À esquerda e |4 |3 |2 |3 |0 |3 |
-
-|à direita | | | | | | |
+|  | ARTICULADO | PADRON | BÁSICO |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| TIPO DE OPERAÇÃO |  |  |  |  |  |  |
+|  | Lado esquerdo | Lado direito | Lado esquerdo | Lado direito | Lado esquerdo | Lado direito |
+| Exclusivo | 4 | 2 (a) | 2 | 1 (b) | 0 | 0 |
+| à esquerda |  |  |  |  |  |  |
+| À esquerda e | 4 | 3 | 2 | 3 | 0 | 3 |
+| à direita |  |  |  |  |  |  |
 
 Notas: (a) 1 porta no balanço dianteiro destinada ao acesso do motorista e 1 porta após a rótula de articulação destinada ao uso em situação de emergência pelos usuários, ambas com vão livre mínimo de 800 mm para passagem (ver item 12.7 – Saídas de emergência e Tabela 11).
 
@@ -4586,7 +4543,7 @@ Será admitida a tolerância de ± 20 mm em decorrência de interferências cons
 
 Figura 8 – Altura do patamar de embarque nas portas à esquerda
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 12.3.4 – Altura dos degraus à direita
 
@@ -4594,27 +4551,22 @@ As dimensões a serem observadas na construção dos degraus das escadas à dire
 
 Tabela 8 – Dimensões dos degraus à direita
 
-|MEDIDA |ARTICULADO / BÁSICO |PADRON |BÁSICO |
-
-|(ver Figura 9) |Suspensão Pneumática ou |Suspensão Pneumática ou |Suspensão Metálica |
-
-| |Mista |Mista | |
-
-| |Altura (mm) |Altura (mm) |Altura (mm) |
-
-| |Mínima |Máxima |Mínima |Máxima |Mínima |Máxima |
-
-|A |- |381 |- |370 |- |450 |
-
-|B |120 |275 |120 |275 |120 |300 |
-
-|C |300 |- |300 |- |270 |- |
-
-|Tolerância (%) |5 |5 |10 |
+| MEDIDA | ARTICULADO / BÁSICO | PADRON | BÁSICO |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| (ver Figura 9) | Suspensão Pneumática ou | Suspensão Pneumática ou | Suspensão Metálica |  |  |  |
+|  | Mista | Mista |  |  |  |  |
+|  | Altura (mm) | Altura (mm) | Altura (mm) |  |  |  |
+|  | Mínima | Máxima | Mínima | Máxima | Mínima | Máxima |
+| A | - | 381 | - | 370 | - | 450 |
+| B | 120 | 275 | 120 | 275 | 120 | 300 |
+| C | 300 | - | 300 | - | 270 | - |
+| Tolerância (%) | 5 | 5 | 10 |  |  |  |
 
 Figura 9 – Dimensões dos degraus das escadas à direita
 
-[pic] Legenda: A: altura do 1º degrau em relação ao solo nas portas à direita
+*[imagem no documento original — ver `fonte_texto`]*
+
+Legenda: A: altura do 1º degrau em relação ao solo nas portas à direita
 
 B: altura do espelho do degrau
 
@@ -4644,7 +4596,7 @@ A vista “A” da Figura 11 indica a movimentação de uma porta do tipo “bas
 
 Figura 10 — Corrimão inferior (bengala)
 
-[pic] [pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Nas portas com escada e vão livre mínimo de 1.100 mm deve ser instalado divisor de fluxo junto à região central, acompanhando a inclinação da escada, com altura do ponto de apoio entre 860 mm a 960 mm, obtida na aresta do segundo degrau (ver Figura 11).
 
@@ -4652,7 +4604,7 @@ Adicionalmente pode ser instalado corrimão inferior (tipo bengala) nos dois lad
 
 Figura 11 — Corrimão para embarque e desembarque (divisor de fluxo central)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 12.4 – PISO E TAMPAS DE INSPEÇÃO
 
@@ -4660,17 +4612,13 @@ Para os veículos com embarque elevado à esquerda e/ou com escada com degraus �
 
 Tabela 9 — Altura máxima do piso interno
 
-|Tipo de veículo |ALTURA MÁXIMA |TOLERÂNCIA ADMITIDA |
-
-| |DO PISO INTERNO |(%) |
-
-| |(mm) | |
-
-|ARTICULADO |920 |+ 5 |
-
-|PADRON |920 |+ 5 |
-
-|BÁSICO |1.050 |+ 10 |
+| Tipo de veículo | ALTURA MÁXIMA | TOLERÂNCIA ADMITIDA |
+| --- | --- | --- |
+|  | DO PISO INTERNO | (%) |
+|  | (mm) |  |
+| ARTICULADO | 920 | + 5 |
+| PADRON | 920 | + 5 |
+| BÁSICO | 1.050 | + 10 |
 
 Todas as superfícies do piso do salão de passageiros, da área de embarque e desembarque, da rampa de acesso veicular, da plataforma elevatória veicular e dos patamares de apoio dos pés dos passageiros, devem possuir características antiderrapantes, com Coeficiente de Atrito Estático (CAE) mínimo de 0,38 obtido conforme a norma ABNT NBR 15570.
 
@@ -4704,23 +4652,18 @@ A altura mínima interior em qualquer ponto do corredor central de circulação 
 
 Tabela 10 — Dimensões mínimas do corredor de circulação
 
-| |ALTURA LIVRE |LARGURA LIVRE MÍNIMA OBTIDA |LARGURA EFETIVA OBTIDA ENTRE AS|
-
-|TIPO DE VEÍCULO |MÍNIMA |300mm ACIMA DA LINHA DO |FACES LATERAIS DOS ASSENTOS |
-
-| |(mm) |ASSENTO |(mm) |
-
-| | |(mm) | |
-
-|ARTICULADO |2.100 |650 |550 |
-
-|PADRON |2.100 |650 |550 |
-
-|BÁSICO |2.100 |650 |550 |
+|  | ALTURA LIVRE | LARGURA LIVRE MÍNIMA OBTIDA | LARGURA EFETIVA OBTIDA ENTRE AS |
+| --- | --- | --- | --- |
+| TIPO DE VEÍCULO | MÍNIMA | 300mm ACIMA DA LINHA DO | FACES LATERAIS DOS ASSENTOS |
+|  | (mm) | ASSENTO | (mm) |
+|  |  | (mm) |  |
+| ARTICULADO | 2.100 | 650 | 550 |
+| PADRON | 2.100 | 650 | 550 |
+| BÁSICO | 2.100 | 650 | 550 |
 
 Figura 12 – Largura mínima do corredor de circulação
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Para acesso aos bancos posicionados imediatamente após a área reservada (Box), o vão livre para passagem entre os anteparos, caso existentes, deve ser de 450 mm, no mínimo.
 
@@ -4812,23 +4755,16 @@ As saídas de emergência (janelas e escotilhas/alçapões) devem possuir um sis
 
 Tabela 11 – Quantidade mínima de saídas de emergência
 
-|TIPO DE VEÍCULO |QUANTIDADE DE SAÍDAS DE EMERGÊNCIA (mínima) |
-
-| |JANELAS (a) | |Porta operacional (para acesso|
-
-| | |Teto |do motorista e para |
-
-| | | |emergência) |
-
-| |Lateral oposta às |Lateral adjacente às | | |
-
-| |portas de serviço |portas de serviço (b) | | |
-
-|ARTICULADO |4 |3 |3 |2 (c) |
-
-|PADRON |3 |2 |2 |1 (d) |
-
-|BÁSICO |3 |2 |2 |0 |
+| TIPO DE VEÍCULO | QUANTIDADE DE SAÍDAS DE EMERGÊNCIA (mínima) |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | JANELAS (a) |  | Porta operacional (para acesso |  |
+|  |  | Teto | do motorista e para |  |
+|  |  |  | emergência) |  |
+|  | Lateral oposta às | Lateral adjacente às |  |  |
+|  | portas de serviço | portas de serviço (b) |  |  |
+| ARTICULADO | 4 | 3 | 3 | 2 (c) |
+| PADRON | 3 | 2 | 2 | 1 (d) |
+| BÁSICO | 3 | 2 | 2 | 0 |
 
 Notas:
 
@@ -4870,27 +4806,24 @@ A informação indicada na Figura 13 quando aplicado diretamente na carroceria, 
 
 Figura 13 — Modelo de informação indicativa da saída de emergência
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 A informação indicada na Figura 14 deve ter linhas e texto em Branco e fundo Transparente.
 
 Figura 14 — Modelo de informação de indicação do acionamento da janela de emergência
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Os veículos equipados com Sistema de ar condicionado, cujas janelas possuam vidros fixos e inteiriços, devem dispor de dispositivo de destruição (rompimento), nas quantidades indicadas na Tabela 12.
 
 Tabela 12 — Quantidade mínima de dispositivos de destruição (rompimento)
 
-|Tipo de veículo |QUANTIDADE DE DISPOSITIVOS DE DESTRUIÇÃO |
-
-| |(mínimo) |
-
-|ARTICULADO |9 |
-
-|PADRON |7 |
-
-|BÁSICO |6 |
+| Tipo de veículo | QUANTIDADE DE DISPOSITIVOS DE DESTRUIÇÃO |
+| --- | --- |
+|  | (mínimo) |
+| ARTICULADO | 9 |
+| PADRON | 7 |
+| BÁSICO | 6 |
 
 Os dispositivos de destruição (rompimento) devem estar localizados nas proximidades das janelas de emergência, em locais visíveis e de fácil acesso, ao alcance dos passageiros.
 
@@ -4900,7 +4833,7 @@ As dimensões e texto padrão devem ser conforme Figura 15. A informação, quan
 
 Figura 15 — Modelo de informação para instruções de utilização do dispositivo de destruição
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 12.8 – BANCOS DOS PASSAGEIROS
 
@@ -4914,15 +4847,12 @@ Especificamente para uso preferencial das pessoas obesas, devem ser caracterizad
 
 Tabela 13- Quantidade mínima de assentos preferenciais
 
-|Tipo de Veículo |ARTICULADO |PADRON |BÁSICO |
-
-|/ | | | |
-
-|Posição dos | | | |
-
-|assentos | | | |
-
-| |
+| Tipo de Veículo | ARTICULADO | PADRON | BÁSICO |
+| --- | --- | --- | --- |
+| / |  |  |  |
+| Posição dos |  |  |  |
+| assentos |  |  |  |
+|  |  |  |  |
 
 12.16.2 – Sistema de ar forçado e natural
 
@@ -4942,21 +4872,15 @@ Para conforto térmico do motorista deve ser instalado um dispositivo de ventila
 
 Tabela 14 - Quantidade mínima de dispositivos (QMD)
 
-|TIPO DE ÔNIBUS |VENTILADORES |CÚPULAS |
-
-| |(ar forçado) |(ar natural) |
-
-|ARTICULADO |5 | |
-
-| | |2 |
-
-|PADRON |4 | |
-
-| | |2 |
-
-|BÁSICO |3 | |
-
-| | |2 |
+| TIPO DE ÔNIBUS | VENTILADORES | CÚPULAS |
+| --- | --- | --- |
+|  | (ar forçado) | (ar natural) |
+| ARTICULADO | 5 |  |
+|  |  | 2 |
+| PADRON | 4 |  |
+|  |  | 2 |
+| BÁSICO | 3 |  |
+|  |  | 2 |
 
 12.16.3 - Sistema de ar condicionado
 
@@ -5032,7 +4956,7 @@ Entretanto, como será o caso da operação à esquerda através das plataformas
 
 Figura 28 – Altura e projeção do espelho retrovisor externo
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Os espelhos devem ter face plana em dois terços (2/3) de sua altura (parte superior) e face convexa em um terço (1/3) restante (parte inferior), para propiciar a visão das regiões de embarque.
 
@@ -5070,27 +4994,26 @@ O sistema do limpador de para-brisa deve promover varredura das áreas principal
 
 Figura 29 — Áreas A e B do para-brisa inteiriço
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Figura 30 — Áreas A e B do para-brisa bipartido
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Figura 31 — Projeção dos ângulos verticais do campo de visão do motorista
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Figura 32 — Projeção dos ângulos horizontais do campo de visão do motorista
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Tabela 15 — Definição dos ângulos de varredura
 
-|ÁREA |Varredura com |Varredura com |Angulação |
-
-| |para-brisa inteiriço |para-brisa bipartido (%) |(⁰) |
-
-| |(%) | | |
+| ÁREA | Varredura com | Varredura com | Angulação |
+| --- | --- | --- | --- |
+|  | para-brisa inteiriço | para-brisa bipartido (%) | (⁰) |
+|  | (%) |  |  |
 
 | | |a |b |c |d |e |f |g |h | |A |90 |76 |18 |25 |- |- |11 |01 |- |- | |B |75 |60 |- |- |18 |56 |- |- |14 |07 | | O sistema do limpador de para-brisa deve possuir uma diferença de frequência alta e baixa de no mínimo 15 ciclos por minuto.
 
@@ -5150,7 +5073,7 @@ Para possibilitar o adequado fluxo de passageiros no salão, considerando os asp
 
 Figura 1 – Posição das portas esquerdas do Ônibus BRT Misto de 5 portas
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 II. Altura do patamar de embarque à esquerda
 
@@ -5160,7 +5083,7 @@ Será admitida a tolerância de ± 20mm em decorrência de interferências const
 
 Figura 2 – Altura do patamar de embarque nas portas à esquerda
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 III. Pontos de apoio
 
@@ -5178,7 +5101,7 @@ Obs.: A tonalidade da cor dos bancos/revestimentos deve proporcionar harmonia co
 
 Figura 3 – Protetor para cabeça
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 V. Assentos preferenciais
 
@@ -5208,7 +5131,7 @@ Para fins de adaptação às dimensões do veículo e desde que previamente apro
 
 -----------------------
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Anexos e outros documentos
 

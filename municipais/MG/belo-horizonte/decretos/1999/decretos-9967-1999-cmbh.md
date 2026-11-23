@@ -32,43 +32,26 @@ O Prefeito de Belo Horizonte, no uso de suas atribuições legais, e tendo em vi
 
 R$1,00
 
-| |
-
-|1 - RECEITAS CORRENTES |7.125 |
-
-| | |
-
-|- Transferências Correntes |7.125 |
-
-|- Transferências Intragovernamentais |7.125 |
-
-|- Transferências dos Municípios |7.125 |
-
-|- Transferências da PBH |7.125 |
-
-|- Transferências de Recursos do Tesouro Municipal |7.125 |
-
-| | |
-
-|2 - RECEITAS DE CAPITAL |2.775 |
-
-| | |
-
-|- Transferências de Capital |2.775 |
-
-|- Transferências Intragovernamentais |2.775 |
-
-|- Transferências dos Municípios |2.775 |
-
-|- Transferências da PBH |2.775 |
-
-|- Transferências de Recursos do Tesouro Municipal |2.775 |
-
-| | |
-
-|TOTAL.......................................................................|9.900 |
-
-|......... | |
+|  |  |
+| --- | --- |
+| 1 - RECEITAS CORRENTES | 7.125 |
+|  |  |
+| - Transferências Correntes | 7.125 |
+| - Transferências Intragovernamentais | 7.125 |
+| - Transferências dos Municípios | 7.125 |
+| - Transferências da PBH | 7.125 |
+| - Transferências de Recursos do Tesouro Municipal | 7.125 |
+|  |  |
+| 2 - RECEITAS DE CAPITAL | 2.775 |
+|  |  |
+| - Transferências de Capital | 2.775 |
+| - Transferências Intragovernamentais | 2.775 |
+| - Transferências dos Municípios | 2.775 |
+| - Transferências da PBH | 2.775 |
+| - Transferências de Recursos do Tesouro Municipal | 2.775 |
+|  |  |
+| TOTAL....................................................................... | 9.900 |
+| ......... |  |
 
 **Art. 3º** - A Despesa será realizada na forma da legislação em vigor, observada a fixação constante do seguinte detalhamento:
 
@@ -76,39 +59,28 @@ R$1,00
 
 a) Despesas por Categorias Econômicas
 
-|1- DESPESAS CORRENTES |7.125 |
-
-| | |
-
-|- Despesas de Custeio |7.125 |
-
-| | |
-
-|2 - DESPESAS DE CAPITAL |2.775 |
-
-| | |
-
-|- Investimentos |2.775 |
-
-| | |
-
-|TOTAL...........................................................|9.900 |
-
-|...... | |
+| 1- DESPESAS CORRENTES | 7.125 |
+| --- | --- |
+|  |  |
+| - Despesas de Custeio | 7.125 |
+|  |  |
+| 2 - DESPESAS DE CAPITAL | 2.775 |
+|  |  |
+| - Investimentos | 2.775 |
+|  |  |
+| TOTAL........................................................... | 9.900 |
+| ...... |  |
 
 b) Despesas por Programas de Trabalho
 
 Programática/Atividade/Projeto/Dotação
 
-|11633532.001 |Promoção de Eventos Educacionais e Científicos |3.425 |
-
-|11633532.002 |Execução da Política de Relações de Consumo |6.475 |
-
-| | | |
-
-| |TOTAL....................................................|9.900 |
-
-| |..... | |
+| 11633532.001 | Promoção de Eventos Educacionais e Científicos | 3.425 |
+| --- | --- | --- |
+| 11633532.002 | Execução da Política de Relações de Consumo | 6.475 |
+|  |  |  |
+|  | TOTAL.................................................... | 9.900 |
+|  | ..... |  |
 
 **Parágrafo único** - Os recursos financeiros do Tesouro Municipal para o custeio das atividades administrativas e investimentos serão repassados pelo sistema de provisão de crédito, tendo em vista a aprovação da JUCOF - Junta de Coordenação Orçamentária e Financeira e as disponibilidades de tesouraria.
 

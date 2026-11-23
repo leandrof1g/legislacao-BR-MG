@@ -58,55 +58,35 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da |R$ |
-
-|Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.12.361.0168.2850.319011.1.500.000 |500.000,00 |
-
-|4002.04.122.0007.2850.319011.1.500.000 |1.916.500,00 |
-
-|4002.04.122.0007.2850.319013.1.500.000 |597.000,00 |
-
-|4002.04.122.0007.2850.319113.1.500.000 |1.400.000,00 |
-
-|4002.04.122.0007.2850.319194.1.500.000 |500.000,00 |
-
-|Câmara Municipal – CM |
-
-|0101.01.031.0001.2001.319092.1.500.000 |2.850.000,00 |
-
-|Procuradoria-Geral do Município – PGM |
-
-|0500.04.062.0003.2010.319094.1.501.770 |5.500.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |13.263.500,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da | R$ |
+| --- | --- |
+| Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.12.361.0168.2850.319011.1.500.000 | 500.000,00 |
+| 4002.04.122.0007.2850.319011.1.500.000 | 1.916.500,00 |
+| 4002.04.122.0007.2850.319013.1.500.000 | 597.000,00 |
+| 4002.04.122.0007.2850.319113.1.500.000 | 1.400.000,00 |
+| 4002.04.122.0007.2850.319194.1.500.000 | 500.000,00 |
+| Câmara Municipal – CM |  |
+| 0101.01.031.0001.2001.319092.1.500.000 | 2.850.000,00 |
+| Procuradoria-Geral do Município – PGM |  |
+| 0500.04.062.0003.2010.319094.1.501.770 | 5.500.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 13.263.500,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.122.0007.3010.319094.1.500.000 |4.913.500,00 |
-
-|Câmara Municipal – CM |
-
-|0101.01.031.0001.2922.459061.1.500.000 |2.850.000,00 |
-
-|Procuradoria-Geral do Município – PGM |
-
-|0500.04.062.0003.2010.319016.1.501.770 |3.500.000,00 |
-
-|Fundo da Procuradoria Geral do Município – FPGM |
-
-|0501.04.123.0003.2830.319194.1.501.770 |2.000.000,00 |
-
-|TOTAL DA ANULAÇÃO |13.263.500,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.122.0007.3010.319094.1.500.000 | 4.913.500,00 |
+| Câmara Municipal – CM |  |
+| 0101.01.031.0001.2922.459061.1.500.000 | 2.850.000,00 |
+| Procuradoria-Geral do Município – PGM |  |
+| 0500.04.062.0003.2010.319016.1.501.770 | 3.500.000,00 |
+| Fundo da Procuradoria Geral do Município – FPGM |  |
+| 0501.04.123.0003.2830.319194.1.501.770 | 2.000.000,00 |
+| TOTAL DA ANULAÇÃO | 13.263.500,00 |
 
 ANEXO II
 
@@ -136,26 +116,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |do valor do Orçamento |
-
-|e Encargos Sociais (código 01) | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 0,00 |
-
-|Valor do decreto publicado nesta data |R$ 13.263.500,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 13.263.500,00 |
-
-|Saldo atual de créditos suplementares |R$ 2.479.171.567,60 |
-
-|Percentual utilizado |0,53% |
-
-|Atualizado em 30/01/2026 às 12:38:42 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | do valor do Orçamento |
+| e Encargos Sociais (código 01) |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 0,00 |
+| Valor do decreto publicado nesta data | R$ 13.263.500,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 13.263.500,00 |
+| Saldo atual de créditos suplementares | R$ 2.479.171.567,60 |
+| Percentual utilizado | 0,53% |
+| Atualizado em 30/01/2026 às 12:38:42 |  |

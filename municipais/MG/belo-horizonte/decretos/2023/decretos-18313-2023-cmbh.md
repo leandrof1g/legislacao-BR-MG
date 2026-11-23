@@ -44,34 +44,21 @@ ANEXO
 
 (a que se refere o inciso I do art. 3º do Decreto nº 16.676, de 31 de agosto de 2017)
 
-|CARGOS DO GRUPO DE DIREÇÃO SUPERIOR MUNICIPAL – ADMINISTRAÇÃO DIRETA |
-
-|CARGOS |QTDE. DE CARGOS|CODIFICAÇÃO |
-
-| |CRIADOS | |
-
-|Chefe de Gabinete do Prefeito |1 |CGP.0001 |
-
-|Coordenador de Atendimento Regional |9 |CAR.0001 a CAR.0009 |
-
-|Coordenador de Atendimento Regional Adjunto |9 |CRA.0001 a CRA.0009 |
-
-|Secretário/Procurador-Geral/Controlador-Geral |16 |SEC.0001 a SEC.0014; |
-
-| | |PRO.0001; CTR.0001 |
-
-|Secretário Municipal Adjunto/Procurador-Geral |16 |SMA.0001 a SMA.0014; |
-
-|Adjunto/Controlador-Geral Adjunto | |PGA.0001; CGA.0001 |
-
-|Subsecretário/Subprocurador/Subcontrolador |25 |SUB.0001 a SUB.0025 |
-
-|Consultor Técnico Especializado |10 |CTE.0001 a CTE.0010 |
-
-|Assessor Especial |7 |ASS.0001 a ASS.0007 |
-
-|Chefe de Gabinete do Vice-Prefeito |1 |CGV.0001 |
-
-|TOTAL GERAL |94 | |
+| CARGOS DO GRUPO DE DIREÇÃO SUPERIOR MUNICIPAL – ADMINISTRAÇÃO DIRETA |  |  |
+| --- | --- | --- |
+| CARGOS | QTDE. DE CARGOS | CODIFICAÇÃO |
+|  | CRIADOS |  |
+| Chefe de Gabinete do Prefeito | 1 | CGP.0001 |
+| Coordenador de Atendimento Regional | 9 | CAR.0001 a CAR.0009 |
+| Coordenador de Atendimento Regional Adjunto | 9 | CRA.0001 a CRA.0009 |
+| Secretário/Procurador-Geral/Controlador-Geral | 16 | SEC.0001 a SEC.0014; |
+|  |  | PRO.0001; CTR.0001 |
+| Secretário Municipal Adjunto/Procurador-Geral | 16 | SMA.0001 a SMA.0014; |
+| Adjunto/Controlador-Geral Adjunto |  | PGA.0001; CGA.0001 |
+| Subsecretário/Subprocurador/Subcontrolador | 25 | SUB.0001 a SUB.0025 |
+| Consultor Técnico Especializado | 10 | CTE.0001 a CTE.0010 |
+| Assessor Especial | 7 | ASS.0001 a ASS.0007 |
+| Chefe de Gabinete do Vice-Prefeito | 1 | CGV.0001 |
+| TOTAL GERAL | 94 |  |
 
 ”

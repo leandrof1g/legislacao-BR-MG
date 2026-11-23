@@ -44,15 +44,15 @@ Programa: 109 - Operacionalização dos serviços de segurança
 
 Ação: 2803 - Operacionalização da Guarda Municipal de Belo Horizonte
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |1.000.000,00 |1.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 1.000.000,00 | 1.000.000,00 |
 
 Subação: 6 - Equipamento de Proteção e Segurança
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |250 |250 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 250 | 250 |
 
 Produto: Equipamento adquirido
 
@@ -70,9 +70,9 @@ Ação: 2537 - Tratamento e Destinação de Resíduos Sólidos
 
 Unidade orçamentária: 2708 - SUPERINTENDÊNCIA DE LIMPEZA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |1.000.000,00 |1.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 1.000.000,00 | 1.000.000,00 |
 
 2)
 
@@ -84,15 +84,15 @@ Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer
 
 Ação: 1213 - Construção, Ampliação e Reforma de Equipamentos Esportivos e Áreas de Lazer
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |260.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 260.000,00 | 0,00 | 0,00 |
 
 Subação: 2 - Reformas, obras, capina e conservação dos campos de várzea de propriedade do Município
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Próprios reformados e conservados
 
@@ -110,9 +110,9 @@ Ação: 1213 - Construção, Ampliação e Reforma de Equipamentos Esportivos e 
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |260.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 260.000,00 | 0,00 | 0,00 |
 
 3)
 
@@ -124,15 +124,15 @@ Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer
 
 Ação: 1213 - Construção, Ampliação e Reforma de Equipamentos Esportivos e Áreas de Lazer
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |250.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 250.000,00 | 0,00 | 0,00 |
 
 Subação: 2 - Reformas, obras, capina e conservação dos campos de várzea de propriedade do Município
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Próprios reformados e conservados
 
@@ -150,9 +150,9 @@ Ação: 2060 - Articulações das Políticas do Governo Municipal
 
 Unidade orçamentária: 2000 - SECRETARIA MUNICIPAL DE GOVERNO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |76.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 76.000,00 | 0,00 | 0,00 |
 
 Área de resultado: 5 - Cultura
 
@@ -162,9 +162,9 @@ Ação: 2917 - Formulação e Desenvolvimento de Políticas Culturais
 
 Unidade orçamentária: 3100 - SECRETARIA MUNICIPAL DE CULTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |20.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 20.000,00 | 0,00 | 0,00 |
 
 Área de resultado: 5 - Cultura
 
@@ -174,9 +174,9 @@ Ação: 2900 - Serviços Administrativos e Financeiros
 
 Unidade orçamentária: 3100 - SECRETARIA MUNICIPAL DE CULTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |154.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 154.000,00 | 0,00 | 0,00 |
 
 4)
 
@@ -188,15 +188,15 @@ Programa: 242 - Prevenção Social à Criminalidade
 
 Ação: 2881 - Ações de Prevenção Social à Criminalidade
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |31.000,00 |31.000,00 |31.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 31.000,00 | 31.000,00 | 31.000,00 |
 
 Subação: 2 - Prevenção à Criminalidade Juvenil
 
-|2018 |2019 |2020 |2021 |
-
-|0 |8 |8 |8 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 8 | 8 | 8 |
 
 Produto: Programa implantado
 
@@ -214,9 +214,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |31.000,00 |31.000,00 |31.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 31.000,00 | 31.000,00 | 31.000,00 |
 
 5)
 
@@ -228,15 +228,15 @@ Programa: 109 - Operacionalização dos serviços de segurança
 
 Ação: 2803 - Operacionalização da Guarda Municipal de Belo Horizonte
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |31.000,00 |31.000,00 |31.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 31.000,00 | 31.000,00 | 31.000,00 |
 
 Subação: 8 - Prevenção à Violência nas Escolas Municipais de Belo Horizonte
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |1 |1 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 1 | 1 |
 
 Produto: Atividade realizada
 
@@ -254,9 +254,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |31.000,00 |31.000,00 |31.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 31.000,00 | 31.000,00 | 31.000,00 |
 
 6)
 
@@ -268,15 +268,15 @@ Programa: 242 - Prevenção Social à Criminalidade
 
 Ação: 2881 - Ações de Prevenção Social à Criminalidade
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |31.000,00 |31.000,00 |31.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 31.000,00 | 31.000,00 | 31.000,00 |
 
 Subação: 3 - Mediação de Conflitos e Prevenção à Violência
 
-|2018 |2019 |2020 |2021 |
-
-|0 |8 |8 |8 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 8 | 8 | 8 |
 
 Produto: Projeto implantado
 
@@ -294,9 +294,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |31.000,00 |31.000,00 |31.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 31.000,00 | 31.000,00 | 31.000,00 |
 
 7)
 
@@ -308,15 +308,15 @@ Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer
 
 Ação: 2536 - Promoção do Esporte e do Lazer para Pessoas com Deficiência/Superar
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |31.000,00 |31.000,00 |31.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 31.000,00 | 31.000,00 | 31.000,00 |
 
 Subação: 4 - Campeonato Municipal de "rugby" em cadeira de rodas
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |1 |1 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 1 | 1 |
 
 Produto: Evento realizado
 
@@ -334,9 +334,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |31.000,00 |31.000,00 |31.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 31.000,00 | 31.000,00 | 31.000,00 |
 
 8)
 
@@ -348,15 +348,15 @@ Programa: 19 - Proteção Social Básica
 
 Ação: 2647 - Programas e Projetos de Proteção Social Básica
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.013.009,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.013.009,00 | 0,00 | 0,00 |
 
 Subação: 4 - Programa Municipal de Qualificação, Emprego e Renda
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1.000 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1.000 | 0 | 0 |
 
 Produto: Vaga disponibilizada
 
@@ -374,9 +374,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.013.009,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.013.009,00 | 0,00 | 0,00 |
 
 9)
 
@@ -388,15 +388,15 @@ Programa: 20 - Proteção Social Especial
 
 Ação: 2878 - Serviço de Proteção Social Especial de Média Complexidade
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |447.600,00 |447.600,00 |447.600,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 447.600,00 | 447.600,00 | 447.600,00 |
 
 Subação: 9 - Adequação de Centros de Referência Especializados para pessoas em situação de rua - CENTRO POP
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |1 |1 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 1 | 1 |
 
 Produto: Unidade adequada
 
@@ -414,9 +414,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |447.600,00 |447.600,00 |447.600,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 447.600,00 | 447.600,00 | 447.600,00 |
 
 10)
 
@@ -428,15 +428,15 @@ Programa: 242 - Prevenção Social à Criminalidade
 
 Ação: 2881 - Ações de Prevenção Social à Criminalidade
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 100.000,00 | 100.000,00 |
 
 Subação: Prevenção à violência contra negros e indígenas
 
-|2018 |2019 |2020 |2021 |
-
-|0 |5 |10 |15 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 5 | 10 | 15 |
 
 Produto: redução dos crimes de intolerância racial em relação ao ano base de 2018.
 
@@ -454,9 +454,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 100.000,00 | 100.000,00 |
 
 11)
 
@@ -468,15 +468,15 @@ Programa: 127 - Promoção e Defesa de Direitos Humanos e Cidadania
 
 Ação: 2819 - Apoio à Promoção das Políticas da Juventude
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |60.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 60.000,00 | 0,00 | 0,00 |
 
 Subação: 6 - Montagem da cozinha coletiva do Centro de Referência da Juventude
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Cozinha montada
 
@@ -494,9 +494,9 @@ Ação: 2010 - Gestão Processual dos Assuntos Jurídicos
 
 Unidade orçamentária: 500 - PROCURADORIA-GERAL DO MUNICÍPIO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |60.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 60.000,00 | 0,00 | 0,00 |
 
 12)
 
@@ -508,15 +508,15 @@ Programa: 127 - Promoção e Defesa de Direitos Humanos e Cidadania
 
 Ação: 2819 - Apoio à Promoção das Políticas da Juventude
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |34.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 34.000,00 | 0,00 | 0,00 |
 
 Subação: 5 - Implementação de rede de internet com livre acesso no Centro de Referência da Juventude
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Rede instalada
 
@@ -534,9 +534,9 @@ Ação: 2010 - Gestão Processual dos Assuntos Jurídicos
 
 Unidade orçamentária: 500 - PROCURADORIA-GERAL DO MUNICÍPIO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |34.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 34.000,00 | 0,00 | 0,00 |
 
 13)
 
@@ -548,15 +548,15 @@ Programa: 127 - Promoção e Defesa de Direitos Humanos e Cidadania
 
 Ação: 2819 - Apoio à Promoção das Políticas da Juventude
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |250.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 250.000,00 | 0,00 | 0,00 |
 
 Subação: Equipagem do estúdio do CRJ
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Estúdio Equipado
 
@@ -574,9 +574,9 @@ Ação: 2605 - Evolução da Rede de Telecomunicações da PBH
 
 Unidade orçamentária: 604 - EMPRESA DE INFORMÁTICA E INFORMAÇÃO DO MUNICÍPIO DE BELO HORIZONTE
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |250.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 250.000,00 | 0,00 | 0,00 |
 
 14)
 
@@ -588,15 +588,15 @@ Programa: 127 - Promoção e Defesa de Direitos Humanos e Cidadania
 
 Ação: 2819 - Apoio à Promoção das Políticas da Juventude
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |150.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 150.000,00 | 0,00 | 0,00 |
 
 Subação: Sonorização do auditório, Arena e Sala das Artes
 
-|2018 |2019 |2020 |2021 |
-
-|0 |3 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 3 | 0 | 0 |
 
 Produto: Ambiente Sonorizado
 
@@ -614,9 +614,9 @@ Ação: 2605 - Evolução da Rede de Telecomunicações da PBH
 
 Unidade orçamentária: 604 - EMPRESA DE INFORMÁTICA E INFORMAÇÃO DO MUNICÍPIO DE BELO HORIZONTE
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |150.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 150.000,00 | 0,00 | 0,00 |
 
 15)
 
@@ -628,15 +628,15 @@ Programa: 127 - Promoção e Defesa de Direitos Humanos e Cidadania
 
 Ação: 2335 - Educação Política em Direitos Humanos e Cidadania
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |50.000,00 |50.000,00 |50.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 50.000,00 | 50.000,00 |
 
 Subação: Curso de capacitação em promoção da igualdade étnico-racial para servidores da administração municipal - Povos e comunidades tradicionais
 
-|2018 |2019 |2020 |2021 |
-
-|0 |2.000 |2.000 |2.000 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 2.000 | 2.000 | 2.000 |
 
 Produto: Servidor capacitado
 
@@ -654,9 +654,9 @@ Ação: 2605 - Evolução da Rede de Telecomunicações da PBH
 
 Unidade orçamentária: 604 - EMPRESA DE INFORMÁTICA E INFORMAÇÃO DO MUNICÍPIO DE BELO HORIZONTE
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |50.000,00 |50.000,00 |50.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 50.000,00 | 50.000,00 |
 
 16)
 
@@ -668,15 +668,15 @@ Programa: 157 - Atenção Primária à Saúde (APS)
 
 Ação: 2690 - Saúde da Família
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.440.000,00 |1.440.000,00 |1.440.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.440.000,00 | 1.440.000,00 | 1.440.000,00 |
 
 Subação: 5 - Consultórios de Rua
 
-|2018 |2019 |2020 |2021 |
-
-|0 |4 |4 |4 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 4 | 4 | 4 |
 
 Produto: Consultório existente
 
@@ -694,9 +694,9 @@ Ação: 2365 - Melhoria da Qualidade do Relacionamento com o Cidadão
 
 Unidade orçamentária: 600 - SECRETARIA MUNICIPAL DE PLANEJAMENTO, ORÇAMENTO E GESTÃO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.440.000,00 |1.440.000,00 |1.440.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.440.000,00 | 1.440.000,00 | 1.440.000,00 |
 
 17)
 
@@ -708,15 +708,15 @@ Programa: 127 - Promoção e Defesa de Direitos Humanos e Cidadania
 
 Ação: 2840 - Apoio ao Consórcio da Mulher
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 100.000,00 | 100.000,00 |
 
 Subação: Alimentação e transporte para mulheres em situação de violência
 
-|2018 |2019 |2020 |2021 |
-
-|0 |720 |720 |720 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 720 | 720 | 720 |
 
 Produto: alimento e transporte fornecidos
 
@@ -734,9 +734,9 @@ Ação: 2365 - Melhoria da Qualidade do Relacionamento com o Cidadão
 
 Unidade orçamentária: 600 - SECRETARIA MUNICIPAL DE PLANEJAMENTO, ORÇAMENTO E GESTÃO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 100.000,00 | 100.000,00 |
 
 18)
 
@@ -748,15 +748,15 @@ Programa: 127 - Promoção e Defesa de Direitos Humanos e Cidadania
 
 Ação: 2840 - Apoio ao Consórcio da Mulher
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: Elaboração de estudo com mapeamento das violências contra as mulheres no Município de Belo Horizonte.
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Estudo elaborado
 
@@ -774,9 +774,9 @@ Ação: 2365 - Melhoria da Qualidade do Relacionamento com o Cidadão
 
 Unidade orçamentária: 600 - SECRETARIA MUNICIPAL DE PLANEJAMENTO, ORÇAMENTO E GESTÃO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 19)
 
@@ -788,15 +788,15 @@ Programa: 114 - Rede de Cuidados Especializados Complementares à Saúde
 
 Ação: 2893 - Rede de Urgência
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |400.000,00 |400.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 400.000,00 | 400.000,00 |
 
 Subação: 5 - Transporte de Urgência/Motocicletas/SAMU
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |1.500 |1.500 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 1.500 | 1.500 |
 
 Produto: Pessoa beneficiada
 
@@ -814,9 +814,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |400.000,00 |400.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 400.000,00 | 400.000,00 |
 
 20)
 
@@ -828,15 +828,15 @@ Programa: 304 - BH Inclusiva, Segura e Cidadã
 
 Ação: 1393 - Transporte Seguro e Sustentável
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |500.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 500.000,00 | 0,00 | 0,00 |
 
 Subação: 2 - Projeto Pedala BH - Implantação de Estrutura Cicloviária
 
-|2018 |2019 |2020 |2021 |
-
-|0 |50 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 50 | 0 | 0 |
 
 Produto: Ciclovia/Ciclorrota/Ciclofaixa implantada
 
@@ -854,9 +854,9 @@ Ação: 2854 - Planejamento e Gestão da Política Urbana
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |500.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 500.000,00 | 0,00 | 0,00 |
 
 21)
 
@@ -868,15 +868,15 @@ Programa: 114 - Rede de Cuidados Especializados Complementares à Saúde
 
 Ação: 2891 - Rede Própria de Cuidados Especializados Complementares à Saúde – Ambulatorial
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.000.000,00 |1.000.000,00 |1.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.000.000,00 | 1.000.000,00 | 1.000.000,00 |
 
 Subação: Atendimento de pessoas com Transtorno do Espectro do Autismo – TEA
 
-|2018 |2019 |2020 |2021 |
-
-|0 |50.000 |50.000 |50.000 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 50.000 | 50.000 | 50.000 |
 
 Produto: Atendimento realizado
 
@@ -894,9 +894,9 @@ Ação: 2907 - Formação e Qualificação Cultural
 
 Unidade orçamentária: 3103 - FUNDAÇÃO MUNICIPAL DE CULTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |1.000.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 1.000.000,00 | 0,00 |
 
 Área de resultado: 6 - Desenvolvimento Econômico e Turismo
 
@@ -906,9 +906,9 @@ Ação: 2629 - Desenvolvimento e Promoção do Turismo
 
 Unidade orçamentária: 2805 - EMPRESA MUNICIPAL DE TURISMO DE BELO HORIZONTE S/A
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |0,00 |1.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.000.000,00 |
 
 Área de resultado: 9 - Habitação, Urbanização, Regulação e Ambiente Urbano
 
@@ -918,9 +918,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.000.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.000.000,00 | 0,00 | 0,00 |
 
 22)
 
@@ -932,15 +932,15 @@ Programa: 167 - Gestão da política de educação inclusiva e diversidade étni
 
 Ação: 2701 - Apoio à inclusão de alunos com deficiência no cotidiano escolar
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |50.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 0,00 | 0,00 |
 
 Subação: 1 - Atendimento, no ambiente escolar, às necessidades individuais dos estudantes com deficiência
 
-|2018 |2019 |2020 |2021 |
-
-|0 |6.000 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 6.000 | 0 | 0 |
 
 Produto: Aluno atendido
 
@@ -958,9 +958,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |50.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 0,00 | 0,00 |
 
 23)
 
@@ -972,15 +972,15 @@ Programa: 167 - Gestão da política de educação inclusiva e diversidade étni
 
 Ação: 2041 - Formação para Profissionais da Educação
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |120.000,00 |200.000,00 |200.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 120.000,00 | 200.000,00 | 200.000,00 |
 
 Subação: Formação de Professores para o atendimento ao Transtorno do Espectro do Autismo –TEA
 
-|2018 |2019 |2020 |2021 |
-
-|0 |100 |150 |150 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 100 | 150 | 150 |
 
 Produto: Profissional capacitado
 
@@ -998,9 +998,9 @@ Ação: 2404 - Ações de Qualificação, Profissionalização e Emprego
 
 Unidade orçamentária: 2800 - SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |200.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 200.000,00 | 0,00 |
 
 Área de resultado: 0 - Eixo Administração Geral
 
@@ -1010,9 +1010,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |120.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 120.000,00 | 0,00 | 0,00 |
 
 Área de resultado: 9 - Habitação, Urbanização, Regulação e Ambiente Urbano
 
@@ -1022,9 +1022,9 @@ Ação: 2770 - Gestão Superior de Políticas Urbanas
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |0,00 |200.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 200.000,00 |
 
 24)
 
@@ -1036,15 +1036,15 @@ Programa: 167 - Gestão da política de educação inclusiva e diversidade étni
 
 Ação: 2041 - Formação para Profissionais da Educação
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |20.000,00 |20.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 20.000,00 | 20.000,00 |
 
 Subação: 7 - Formação de Professores do Atendimento Educacional Especializado
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |608 |608 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 608 | 608 |
 
 Produto: Profissional capacitado
 
@@ -1062,9 +1062,9 @@ Ação: 2812 - Gestão Operacional dos Parques Municipais
 
 Unidade orçamentária: 2505 - FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |20.000,00 |20.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 20.000,00 | 20.000,00 |
 
 25)
 
@@ -1076,15 +1076,15 @@ Programa: 233 - Manutenção da Cidade
 
 Ação: 1396 - Infraestrutura Urbana
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |300.000,00 |300.000,00 |300.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 300.000,00 | 300.000,00 | 300.000,00 |
 
 Subação: Construção de banheiros públicos com pontos de acesso à água potável
 
-|2018 |2019 |2020 |2021 |
-
-|0 |3 |3 |3 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 3 | 3 | 3 |
 
 Produto: Próprio Construído
 
@@ -1102,9 +1102,9 @@ Ação: 1396 - Infraestrutura Urbana
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |300.000,00 |300.000,00 |300.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 300.000,00 | 300.000,00 | 300.000,00 |
 
 26)
 
@@ -1116,15 +1116,15 @@ Programa: 20 - Proteção Social Especial
 
 Ação: 2403 - Serviço de Proteção Social Especial de Alta Complexidade
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |2.625.342,00 |3.500.456,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.625.342,00 | 3.500.456,00 |
 
 Subação: 16 - Serviço de Acolhimento Institucional em Abrigo para Idosos – ILPI
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |150 |200 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 150 | 200 |
 
 Produto: Vaga disponibilizada
 
@@ -1142,9 +1142,9 @@ Ação: 2052 - Administração Tributária Municipal
 
 Unidade orçamentária: 800 - SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |1.500.000,00 |2.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 1.500.000,00 | 2.000.000,00 |
 
 Área de resultado: 9 - Habitação, Urbanização, Regulação e Ambiente Urbano
 
@@ -1154,9 +1154,9 @@ Ação: 1219 - Aquisição, Construção e Readaptação de Imóveis
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |1.125.342,00 |1.500.456,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 1.125.342,00 | 1.500.456,00 |
 
 27)
 
@@ -1168,15 +1168,15 @@ Programa: 109 - Operacionalização dos serviços de segurança
 
 Ação: 2803 - Operacionalização da Guarda Municipal de Belo Horizonte
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |190.000,00 |190.000,00 |190.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 190.000,00 | 190.000,00 | 190.000,00 |
 
 Subação: 6 - Equipamento de Proteção e Segurança
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: Equipamento adquirido
 
@@ -1194,9 +1194,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |190.000,00 |190.000,00 |190.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 190.000,00 | 190.000,00 | 190.000,00 |
 
 28)
 
@@ -1208,15 +1208,15 @@ Programa: 19 - Proteção Social Básica
 
 Ação: 2405 - Benefícios, Transferência de Renda e Cadastro Único
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |842.000,00 |842.000,00 |842.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 842.000,00 | 842.000,00 | 842.000,00 |
 
 Subação: Concessão de Benefícios Eventuais - Auxílio Cartão Alimentação
 
-|2018 |2019 |2020 |2021 |
-
-|0 |21.600 |21.600 |21.600 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 21.600 | 21.600 | 21.600 |
 
 Produto: Benefício Concedido
 
@@ -1234,9 +1234,9 @@ Ação: 1219 - Aquisição, Construção e Readaptação de Imóveis
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |842.000,00 |842.000,00 |842.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 842.000,00 | 842.000,00 | 842.000,00 |
 
 29)
 
@@ -1248,15 +1248,15 @@ Programa: 113 - Aprimoramento da Gestão do SUAS
 
 Ação: 2350 - Vigilância Socioassistencial
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |400.000,00 |0,00 |400.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 400.000,00 | 0,00 | 400.000,00 |
 
 Subação: Elaboração de diagnósticos socioterritoriais nas áreas de abrangência dos CRAS
 
-|2018 |2019 |2020 |2021 |
-
-|0 |34 |0 |34 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 34 | 0 | 34 |
 
 Produto: Diagnóstico Realizado
 
@@ -1274,9 +1274,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |400.000,00 |0,00 |400.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 400.000,00 | 0,00 | 400.000,00 |
 
 30)
 
@@ -1288,15 +1288,15 @@ Programa: 132 - Segurança Alimentar e Nutricional na Perspectiva do Direito e d
 
 Ação: 2307 - Gestão dos Restaurantes e Refeitórios Populares
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |400.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 400.000,00 | 0,00 | 0,00 |
 
 Subação: Construção de Refeitório Popular
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Próprio Construído
 
@@ -1314,9 +1314,9 @@ Ação: 2539 - Execução dos Serviços de Limpeza Urbana
 
 Unidade orçamentária: 2708 - SUPERINTENDÊNCIA DE LIMPEZA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |400.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 400.000,00 | 0,00 | 0,00 |
 
 31)
 
@@ -1328,15 +1328,15 @@ Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer
 
 Ação: 2536 - Promoção do Esporte e do Lazer para Pessoas com Deficiência / Superar
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |31.000,00 |31.000,00 |31.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 31.000,00 | 31.000,00 | 31.000,00 |
 
 Subação: 5 - Aquisição de cadeiras de rodas adaptadas para prática esportiva
 
-|2018 |2019 |2020 |2021 |
-
-|0 |6 |6 |6 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 6 | 6 | 6 |
 
 Produto: cadeira de rodas
 
@@ -1354,9 +1354,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |31.000,00 |31.000,00 |31.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 31.000,00 | 31.000,00 | 31.000,00 |
 
 32)
 
@@ -1368,15 +1368,15 @@ Programa: 168 - Gestão da Política do Ensino Fundamental
 
 Ação: 2706 - Melhoria da Aprendizagem e Avaliação de Desempenho Escolar
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |186.000,00 |186.000,00 |186.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 186.000,00 | 186.000,00 | 186.000,00 |
 
 Subação: 1 - Implementação de projetos de estímulos à aprendizagem
 
-|2018 |2019 |2020 |2021 |
-
-|0 |186 |186 |186 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 186 | 186 | 186 |
 
 Produto: Escola contemplada
 
@@ -1394,9 +1394,9 @@ Ação: 2007 - Serviços de Divulgação Institucional do Município
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |186.000,00 |186.000,00 |186.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 186.000,00 | 186.000,00 | 186.000,00 |
 
 33)
 
@@ -1408,15 +1408,15 @@ Programa: 235 - Programa de Atendimento ao Idoso
 
 Ação: 2697 - Promoção e Garantia de Direitos da Pessoa Idosa
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |600.000,00 |1.200.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 600.000,00 | 1.200.000,00 |
 
 Subação: Manutenção e reforma de Instituições de Longa Permanência para Idosos
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |3 |6 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 3 | 6 |
 
 Produto: Instituição contemplada
 
@@ -1434,9 +1434,9 @@ Ação: 2007 - Serviços de Divulgação Institucional do Município
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |600.000,00 |1.200.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 600.000,00 | 1.200.000,00 |
 
 34)
 
@@ -1448,15 +1448,15 @@ Programa: 167 - Gestão da política de educação inclusiva e diversidade étni
 
 Ação: 2386 - Promoção de Ações de Igualdade Racial
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |50.000,00 |50.000,00 |50.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 50.000,00 | 50.000,00 |
 
 Subação: 3 - Promoção da Igualdade Racial e Combate ao Racismo
 
-|2018 |2019 |2020 |2021 |
-
-|0 |7 |7 |7 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 7 | 7 | 7 |
 
 Produto: Atividade realizada
 
@@ -1474,9 +1474,9 @@ Ação: 3027 - Participações Societárias
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |50.000,00 |50.000,00 |50.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 50.000,00 | 50.000,00 |
 
 35)
 
@@ -1488,15 +1488,15 @@ Programa: 237 - Qualificação, Profissionalização e Emprego
 
 Ação: 2404 - Ações de Qualificação, Profissionalização e Emprego
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |50.000,00 |50.000,00 |50.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 50.000,00 | 50.000,00 |
 
 Subação: 6 - Instalação de feiras permanentes no centro de Belo Horizonte
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |1 |1 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 1 | 1 |
 
 Produto: Feira Instalada
 
@@ -1514,9 +1514,9 @@ Ação: 2629 - Desenvolvimento e Promoção do Turismo
 
 Unidade orçamentária: 2805 - EMPRESA MUNICIPAL DE TURISMO DE BELO HORIZONTE S/A
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |50.000,00 |50.000,00 |50.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 50.000,00 | 50.000,00 |
 
 36)
 
@@ -1528,15 +1528,15 @@ Programa: 303 - Mobilidade: Atendimento, Operação, Fiscalização e Moderniza�
 
 Ação: 2909 - Melhoria da Mobilidade
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |250.000,00 |250.000,00 |250.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 250.000,00 | 250.000,00 | 250.000,00 |
 
 Subação: Campanhas contra assédio no ônibus
 
-|2018 |2019 |2020 |2021 |
-
-|0 |5 |5 |5 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 5 | 5 | 5 |
 
 Produto: Campanha realizada
 
@@ -1554,9 +1554,9 @@ Ação: 2007 - Serviços de Divulgação Institucional do Município
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |250.000,00 |250.000,00 |250.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 250.000,00 | 250.000,00 | 250.000,00 |
 
 37)
 
@@ -1568,15 +1568,15 @@ Programa: 168 - Gestão da Política do Ensino Fundamental
 
 Ação: 1211 - Construção, Ampliação e Reforma de Unidades de Ensino
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |950.000,00 |950.000,00 |950.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 950.000,00 | 950.000,00 | 950.000,00 |
 
 Subação: Implantação de paraciclos em escolas
 
-|2018 |2019 |2020 |2021 |
-
-|0 |95 |95 |95 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 95 | 95 | 95 |
 
 Produto: escola com paraciclo implantado
 
@@ -1594,9 +1594,9 @@ Ação: 1211 - Construção, Ampliação e Reforma de Unidades de Ensino
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |950.000,00 |950.000,00 |950.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 950.000,00 | 950.000,00 | 950.000,00 |
 
 38)
 
@@ -1608,15 +1608,15 @@ Programa: 305 - Qualidade no Transporte Coletivo: um direito de todos
 
 Ação: 1392 - Implantação de Intervenções para Priorização do Transporte Coletivo
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |800.000,00 |800.000,00 |1.600.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 800.000,00 | 800.000,00 | 1.600.000,00 |
 
 Subação: 2 - Implantar Faixas Exclusivas/Preferenciais
 
-|2018 |2019 |2020 |2021 |
-
-|0 |20 |20 |40 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 20 | 20 | 40 |
 
 Produto: Km implantado
 
@@ -1634,9 +1634,9 @@ Ação: 1230 - Implantação e Reconstrução de Vias Públicas
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |800.000,00 |800.000,00 |1.600.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 800.000,00 | 800.000,00 | 1.600.000,00 |
 
 39)
 
@@ -1648,15 +1648,15 @@ Programa: 304 - BH Inclusiva, Segura e Cidadã
 
 Ação: 1393 - Transporte Seguro e Sustentável
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |240.000,00 |240.000,00 |240.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 240.000,00 | 240.000,00 | 240.000,00 |
 
 Subação: 1 - Projeto Pedala BH - Correção de Interseções inseguras das ciclovias/ciclorrotas
 
-|2018 |2019 |2020 |2021 |
-
-|0 |12 |12 |12 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 12 | 12 | 12 |
 
 Produto: Interseção corrigida
 
@@ -1674,9 +1674,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |240.000,00 |240.000,00 |240.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 240.000,00 | 240.000,00 | 240.000,00 |
 
 40)
 
@@ -1688,15 +1688,15 @@ Programa: 304 - BH Inclusiva, Segura e Cidadã
 
 Ação: 1393 - Transporte Seguro e Sustentável
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |3.000.000,00 |3.000.000,00 |3.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 3.000.000,00 | 3.000.000,00 | 3.000.000,00 |
 
 Subação: 4 - Projeto BH a Pé - Projetar e implantar Zonas 30
 
-|2018 |2019 |2020 |2021 |
-
-|0 |3 |3 |3 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 3 | 3 | 3 |
 
 Produto: Zona 30 implantada
 
@@ -1714,9 +1714,9 @@ Ação: 1396 - Infraestrutura Urbana
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |3.000.000,00 |3.000.000,00 |3.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 3.000.000,00 | 3.000.000,00 | 3.000.000,00 |
 
 41)
 
@@ -1728,15 +1728,15 @@ Programa: 304 - BH Inclusiva, Segura e Cidadã
 
 Ação: 1393 - Transporte Seguro e Sustentável
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |3.200.000,00 |4.650.000,00 |3.050.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 3.200.000,00 | 4.650.000,00 | 3.050.000,00 |
 
 Subação: 2 - Projeto Pedala BH - Implantação de Estrutura Cicloviária
 
-|2018 |2019 |2020 |2021 |
-
-|0 |64 |93 |61 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 64 | 93 | 61 |
 
 Produto: Ciclovia/Ciclorrota/Ciclofaixa implantada
 
@@ -1754,9 +1754,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |3.200.000,00 |4.650.000,00 |3.050.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 3.200.000,00 | 4.650.000,00 | 3.050.000,00 |
 
 42)
 
@@ -1768,15 +1768,15 @@ Programa: 60 - Gestão da Mobilidade Urbana
 
 Ação: 2837 - Gerenciamento da Mobilidade Urbana Municipal
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |900.000,00 |2.000.000,00 |2.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 900.000,00 | 2.000.000,00 | 2.000.000,00 |
 
 Subação: Implantação de anunciador sonoro de paradas no transporte coletivo
 
-|2018 |2019 |2020 |2021 |
-
-|0 |90 |200 |200 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 90 | 200 | 200 |
 
 Produto: Quantidade de ônibus
 
@@ -1794,9 +1794,9 @@ Ação: 1230 - Implantação e Reconstrução de Vias Públicas
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |900.000,00 |2.000.000,00 |2.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 900.000,00 | 2.000.000,00 | 2.000.000,00 |
 
 43)
 
@@ -1808,15 +1808,15 @@ Programa: 304 - BH Inclusiva, Segura e Cidadã
 
 Ação: 1393 - Transporte Seguro e Sustentável
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |2.700.000,00 |750.000,00 |750.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 2.700.000,00 | 750.000,00 | 750.000,00 |
 
 Subação: Manutenção da estrutura cicloviária
 
-|2018 |2019 |2020 |2021 |
-
-|0 |54 |15 |15 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 54 | 15 | 15 |
 
 Produto: Manutenção da Estrutura Cicloviária
 
@@ -1834,9 +1834,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |2.700.000,00 |750.000,00 |750.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 2.700.000,00 | 750.000,00 | 750.000,00 |
 
 44)
 
@@ -1848,15 +1848,15 @@ Programa: 168 - Gestão da Política do Ensino Fundamental
 
 Ação: 2041 - Formação para Profissionais da Educação
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |200.000,00 |200.000,00 |200.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 200.000,00 | 200.000,00 | 200.000,00 |
 
 Subação: Formação de professores de ensino fundamental para a mobilidade urbana sustentável
 
-|2018 |2019 |2020 |2021 |
-
-|0 |800 |800 |800 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 800 | 800 | 800 |
 
 Produto: Professor formado
 
@@ -1874,9 +1874,9 @@ Ação: 2567 - Gestão da Política de Transporte Urbano e Trânsito
 
 Unidade orçamentária: 2709 - EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |200.000,00 |200.000,00 |200.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 200.000,00 | 200.000,00 | 200.000,00 |
 
 45)
 
@@ -1888,15 +1888,15 @@ Programa: 307 - Sustentabilidade e Educação Ambiental
 
 Ação: 2912 - Preservação Ambiental e Desenvolvimento Sustentável
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |300.000,00 |300.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 300.000,00 | 300.000,00 | 0,00 |
 
 Subação: Elaboração do Cadastro Único de Nascentes
 
-|2018 |2019 |2020 |2021 |
-
-|0 |50 |50 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 50 | 50 | 0 |
 
 Produto: Cadastro Realizado
 
@@ -1914,9 +1914,9 @@ Ação: 2900 - Serviços Administrativos e Financeiros
 
 Unidade orçamentária: 201 - GABINETE DO PREFEITO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |300.000,00 |300.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 300.000,00 | 300.000,00 | 0,00 |
 
 46)
 
@@ -1928,15 +1928,15 @@ Programa: 304 - BH Inclusiva, Segura e Cidadã
 
 Ação: 1393 - Transporte Seguro e Sustentável
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |900.000,00 |900.000,00 |900.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 900.000,00 | 900.000,00 | 900.000,00 |
 
 Subação: 3 - Projeto Pedala BH - Implantação de Bicicletários/Paraciclos
 
-|2018 |2019 |2020 |2021 |
-
-|0 |3 |3 |3 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 3 | 3 | 3 |
 
 Produto: Bicicletário/paraciclo implantado
 
@@ -1954,9 +1954,9 @@ Ação: 1230 - Implantação e Reconstrução de Vias Públicas
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |620.000,00 |620.000,00 |620.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 620.000,00 | 620.000,00 | 620.000,00 |
 
 Área de resultado: 7 - Mobilidade Urbana
 
@@ -1966,9 +1966,9 @@ Ação: 1330 - Obras Estruturantes do Sistema Viário
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |280.000,00 |280.000,00 |280.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 280.000,00 | 280.000,00 | 280.000,00 |
 
 47)
 
@@ -1980,15 +1980,15 @@ Programa: 305 - Qualidade no Transporte Coletivo: um direito de todos
 
 Ação: 1272 - Implantação de Novos Terminais Rodoviários
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |2.000.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.000.000,00 | 0,00 |
 
 Subação: 1 - Implantação do Novo Terminal Rodoviário
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: Atividade realizada
 
@@ -2006,9 +2006,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |2.000.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.000.000,00 | 0,00 |
 
 48)
 
@@ -2020,15 +2020,15 @@ Programa: 168 - Gestão da Política do Ensino Fundamental
 
 Ação: 2080 - Administração do Ensino Fundamental
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |600.000,00 |1.200.000,00 |1.200.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 600.000,00 | 1.200.000,00 | 1.200.000,00 |
 
 Subação: 5 - Transporte Escolar
 
-|2018 |2019 |2020 |2021 |
-
-|0 |2.057 |4.114 |4.114 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 2.057 | 4.114 | 4.114 |
 
 Produto: Aluno beneficiado
 
@@ -2046,9 +2046,9 @@ Ação: 2900 - Serviços Administrativos e Financeiros
 
 Unidade orçamentária: 201 - GABINETE DO PREFEITO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |600.000,00 |1.200.000,00 |1.200.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 600.000,00 | 1.200.000,00 | 1.200.000,00 |
 
 49)
 
@@ -2060,15 +2060,15 @@ Programa: 168 - Gestão da Política do Ensino Fundamental
 
 Ação: 2706 - Melhoria da Aprendizagem e Avaliação de Desempenho Escolar
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |35.000,00 |35.000,00 |35.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 35.000,00 | 35.000,00 | 35.000,00 |
 
 Subação: 4 - Avaliação da Gestão Escolar
 
-|2018 |2019 |2020 |2021 |
-
-|0 |325 |325 |325 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 325 | 325 | 325 |
 
 Produto: Avaliação realizada
 
@@ -2086,9 +2086,9 @@ Ação: 2007 - Serviços de Divulgação Institucional do Município
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |35.000,00 |35.000,00 |35.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 35.000,00 | 35.000,00 | 35.000,00 |
 
 50)
 
@@ -2100,15 +2100,15 @@ Programa: 127 - Promoção e Defesa de Direitos Humanos e Cidadania
 
 Ação: 2819 - Apoio à Promoção das Políticas da Juventude
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |300.000,00 |300.000,00 |300.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 300.000,00 | 300.000,00 | 300.000,00 |
 
 Subação: 1 - Apoio à Promoção das Políticas da Juventude
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: Serviços administrativos
 
@@ -2126,9 +2126,9 @@ Ação: 2803 - Operacionalização da Guarda Municipal de Belo Horizonte
 
 Unidade orçamentária: 2100 - SECRETARIA MUNICIPAL DE SEGURANÇA E PREVENÇÃO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |300.000,00 |300.000,00 |300.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 300.000,00 | 300.000,00 | 300.000,00 |
 
 51)
 
@@ -2140,15 +2140,15 @@ Programa: 204 - Gestão e Regionalização da Saúde
 
 Ação: 1216 - Construção, Ampliação e Reforma de Unidades de Saúde
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |5.000.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 5.000.000,00 | 0,00 |
 
 Subação: 1 - Construção, Ampliação e Reforma de Unidades de Saúde
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |1 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 1 | 0 |
 
 Produto: Obra executada
 
@@ -2166,9 +2166,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |5.000.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 5.000.000,00 | 0,00 |
 
 52)
 
@@ -2180,15 +2180,15 @@ Programa: 19 - Proteção Social Básica
 
 Ação: 2308 - Serviços de Proteção Social Básica
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |4.000.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 4.000.000,00 | 0,00 |
 
 Subação: 1 - Implantação de Centros de Referência de Assistência Social – CRAS
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |1 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 1 | 0 |
 
 Produto: Unidade Implantada
 
@@ -2206,9 +2206,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |4.000.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 4.000.000,00 | 0,00 |
 
 53)
 
@@ -2220,15 +2220,15 @@ Programa: 303 - Mobilidade: Atendimento, Operação, Fiscalização e Moderniza�
 
 Ação: 2909 - Melhoria da Mobilidade
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |50.000,00 |50.000,00 |50.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 50.000,00 | 50.000,00 |
 
 Subação: Realização da Semana da Mobilidade
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |1 |1 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 1 | 1 |
 
 Produto: Evento realizado
 
@@ -2246,9 +2246,9 @@ Ação: 2007 - Serviços de Divulgação Institucional do Município
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |50.000,00 |50.000,00 |50.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 50.000,00 | 50.000,00 | 50.000,00 |
 
 54)
 
@@ -2260,15 +2260,15 @@ Programa: 204 - Gestão e Regionalização da Saúde
 
 Ação: 1216 - Construção, Ampliação e Reforma de Unidades de Saúde
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |4.000.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 4.000.000,00 | 0,00 |
 
 Subação: 1 - Construção, Ampliação e Reforma de Unidades de Saúde
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: Obra executada
 
@@ -2286,9 +2286,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |4.000.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 4.000.000,00 | 0,00 |
 
 55)
 
@@ -2300,15 +2300,15 @@ Programa: 86 - Fomento ao Turismo de Lazer, Eventos e Negócios
 
 Ação: 2915 - Marco Regulatório das Políticas Públicas do Turismo em Belo Horizonte
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 100.000,00 | 100.000,00 |
 
 Subação: 8 - Juventude no Turismo
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |1 |1 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 1 | 1 |
 
 Produto: Apoio realizado
 
@@ -2326,9 +2326,9 @@ Ação: 2803 - Operacionalização da Guarda Municipal de Belo Horizonte
 
 Unidade orçamentária: 2100 - SECRETARIA MUNICIPAL DE SEGURANÇA E PREVENÇÃO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 100.000,00 | 100.000,00 |
 
 56)
 
@@ -2340,15 +2340,15 @@ Programa: 308 - BH Cidade Sustentável: Mobilizar, Educar e Cultivar Alimentaç�
 
 Ação: 2305 - Fortalecimento da Comercialização Direta da Agricultura Urbana e Familiar e Apoio ao Abastecimento
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |25.000,00 |25.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 25.000,00 | 25.000,00 |
 
 Subação: Aquisição de mobiliário para comércio popular – fruteiros
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |5 |5 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 5 | 5 |
 
 Produto: Equipamento adquirido
 
@@ -2366,9 +2366,9 @@ Ação: 2900 - Serviços Administrativos e Financeiros
 
 Unidade orçamentária: 600 - SECRETARIA MUNICIPAL DE PLANEJAMENTO, ORÇAMENTO E GESTÃO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |25.000,00 |25.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 25.000,00 | 25.000,00 |
 
 57)
 
@@ -2380,15 +2380,15 @@ Programa: 168 - Gestão da Política do Ensino Fundamental
 
 Ação: 2702 - Gestão da Educação Integral
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |130.000,00 |130.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 130.000,00 | 130.000,00 |
 
 Subação: Oferta de cursos livres de Educação Ambiental
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |325 |325 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 325 | 325 |
 
 Produto: Cursos livres em educação ambiental
 
@@ -2406,9 +2406,9 @@ Ação: 2007 - Serviços de Divulgação Institucional do Município
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |130.000,00 |130.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 130.000,00 | 130.000,00 |
 
 58)
 
@@ -2420,15 +2420,15 @@ Programa: 167 - Gestão da política de educação inclusiva e diversidade étni
 
 Ação: 2701 - Apoio à inclusão de alunos com deficiência no cotidiano escolar
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.000.000,00 |1.000.000,00 |1.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.000.000,00 | 1.000.000,00 | 1.000.000,00 |
 
 Subação: Disponibilização de instrutores de libras e braile nas EMEIs
 
-|2018 |2019 |2020 |2021 |
-
-|0 |150 |150 |150 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 150 | 150 | 150 |
 
 Produto: Alunos atendidos por instrutores de libras e braile
 
@@ -2446,9 +2446,9 @@ Ação: 1211 - Construção, Ampliação e Reforma de Unidades de Ensino
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.000.000,00 |1.000.000,00 |1.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.000.000,00 | 1.000.000,00 | 1.000.000,00 |
 
 59)
 
@@ -2460,15 +2460,15 @@ Programa: 305 - Qualidade no Transporte Coletivo: um direito de todos
 
 Ação: 2910 - Qualidade no Transporte Coletivo
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: 6 - Implantação de Abrigos em Pontos de Ônibus
 
-|2018 |2019 |2020 |2021 |
-
-|0 |5 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 5 | 0 | 0 |
 
 Produto: Abrigo implantando
 
@@ -2486,9 +2486,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 60)
 
@@ -2500,15 +2500,15 @@ Programa: 154 - Fomento, Incentivo e Desenvolvimento Cultural
 
 Ação: 2369 - Gestão da Lei Municipal de Incentivo à Cultura
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |2.000.000,00 |2.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.000.000,00 | 2.000.000,00 |
 
 Subação: 1 - Fomento a Projetos e Ações Culturais
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |145 |145 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 145 | 145 |
 
 Produto: Projeto incentivado
 
@@ -2526,9 +2526,9 @@ Ação: 2052 - Administração Tributária Municipal
 
 Unidade orçamentária: 800 - SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |2.000.000,00 |2.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.000.000,00 | 2.000.000,00 |
 
 61)
 
@@ -2540,15 +2540,15 @@ Programa: 225 - Assentamentos de Interesse Social
 
 Ação: 1231 - Melhorias Urbanas em Assentamentos de Interesse Social
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |770.890,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 770.890,00 | 0,00 | 0,00 |
 
 Subação: 19 - Eliminação e Mitigação das Situações de Risco Geológico
 
-|2018 |2019 |2020 |2021 |
-
-|0 |4 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 4 | 0 | 0 |
 
 Produto: Família beneficiada
 
@@ -2566,9 +2566,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |770.890,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 770.890,00 | 0,00 | 0,00 |
 
 62)
 
@@ -2580,15 +2580,15 @@ Programa: 225 - Assentamentos de Interesse Social
 
 Ação: 1231 - Melhorias Urbanas em Assentamentos de Interesse Social
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |500.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 500.000,00 | 0,00 | 0,00 |
 
 Subação: 10 - Plano de Regularização Urbanística
 
-|2018 |2019 |2020 |2021 |
-
-|0 |74 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 74 | 0 | 0 |
 
 Produto: Família beneficiada
 
@@ -2606,9 +2606,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |500.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 500.000,00 | 0,00 | 0,00 |
 
 63)
 
@@ -2620,15 +2620,15 @@ Programa: 308 - BH Cidade Sustentável: Mobilizar, Educar e Cultivar Alimentaç�
 
 Ação: 2121 - Implantação de Territórios Sustentáveis
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |144.000,00 |144.000,00 |144.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 144.000,00 | 144.000,00 | 144.000,00 |
 
 Subação: Assessoria técnica - facilitadores da agroecologia
 
-|2018 |2019 |2020 |2021 |
-
-|0 |8 |8 |8 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 8 | 8 | 8 |
 
 Produto: facilitadores contratados
 
@@ -2646,9 +2646,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |144.000,00 |144.000,00 |144.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 144.000,00 | 144.000,00 | 144.000,00 |
 
 64)
 
@@ -2660,15 +2660,15 @@ Programa: 154 - Fomento, Incentivo e Desenvolvimento Cultural
 
 Ação: 2371 - Fomento e Estímulo à Cultura
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |194.000,00 |194.000,00 |194.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 194.000,00 | 194.000,00 | 194.000,00 |
 
 Subação: 2 - Iniciativas de Fomento, Incentivo e Difusão das Artes e da Cultura
 
-|2018 |2019 |2020 |2021 |
-
-|0 |3 |3 |3 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 3 | 3 | 3 |
 
 Produto: Ação realizada
 
@@ -2686,9 +2686,9 @@ Ação: 2900 - Serviços Administrativos e Financeiros
 
 Unidade orçamentária: 800 - SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |194.000,00 |194.000,00 |194.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 194.000,00 | 194.000,00 | 194.000,00 |
 
 65)
 
@@ -2700,15 +2700,15 @@ Programa: 308 - BH Cidade Sustentável: Mobilizar, Educar e Cultivar Alimentaç�
 
 Ação: 2121 - Implantação de Territórios Sustentáveis
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 100.000,00 | 100.000,00 |
 
 Subação: 3 - Atendimento Quintal Produtivo Agroecológico
 
-|2018 |2019 |2020 |2021 |
-
-|0 |50 |50 |50 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 50 | 50 | 50 |
 
 Produto: Quintal beneficiado
 
@@ -2726,9 +2726,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 100.000,00 | 100.000,00 |
 
 66)
 
@@ -2740,15 +2740,15 @@ Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer
 
 Ação: 2534 - Implantação, Manutenção e Recuperação de Infraestrutura Esportiva e de Lazer
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: 4 - Academias a Céu Aberto
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Academia a Céu Aberto existente
 
@@ -2766,9 +2766,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 67)
 
@@ -2780,15 +2780,15 @@ Programa: 154 - Fomento, Incentivo e Desenvolvimento Cultural
 
 Ação: 2371 - Fomento e Estímulo à Cultura
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 100.000,00 | 100.000,00 |
 
 Subação: 1 - Permissão de Ocupação dos Espaços Públicos da FMC para fins Culturais
 
-|2018 |2019 |2020 |2021 |
-
-|0 |17 |17 |17 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 17 | 17 | 17 |
 
 Produto: Permissão concedida
 
@@ -2806,9 +2806,9 @@ Ação: 2900 - Serviços Administrativos e Financeiros
 
 Unidade orçamentária: 800 - SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |100.000,00 |100.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 100.000,00 | 100.000,00 |
 
 68)
 
@@ -2820,15 +2820,15 @@ Programa: 225 - Assentamentos de Interesse Social
 
 Ação: 1231 - Melhorias Urbanas em Assentamentos de Interesse Social
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |150.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 150.000,00 | 0,00 | 0,00 |
 
 Subação: 10 - Plano de Regularização Urbanística
 
-|2018 |2019 |2020 |2021 |
-
-|0 |100 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 100 | 0 | 0 |
 
 Produto: Família beneficiada
 
@@ -2846,9 +2846,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |150.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 150.000,00 | 0,00 | 0,00 |
 
 69)
 
@@ -2860,15 +2860,15 @@ Programa: 154 - Fomento, Incentivo e Desenvolvimento Cultural
 
 Ação: 2371 - Fomento e Estímulo à Cultura
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |400.000,00 |400.000,00 |400.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 400.000,00 | 400.000,00 | 400.000,00 |
 
 Subação: 2 - Iniciativas de Fomento, Incentivo e Difusão das Artes e da Cultura
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |1 |1 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 1 | 1 |
 
 Produto: Ação realizada
 
@@ -2886,9 +2886,9 @@ Ação: 2052 - Administração Tributária Municipal
 
 Unidade orçamentária: 800 - SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |400.000,00 |400.000,00 |400.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 400.000,00 | 400.000,00 | 400.000,00 |
 
 70)
 
@@ -2900,15 +2900,15 @@ Programa: 301 - Formação na Área da Cultura
 
 Ação: 2907 - Formação e Qualificação Cultural
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.000.000,00 |1.000.000,00 |1.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.000.000,00 | 1.000.000,00 | 1.000.000,00 |
 
 Subação: 3 - Escola Livre de Artes
 
-|2018 |2019 |2020 |2021 |
-
-|0 |197 |197 |197 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 197 | 197 | 197 |
 
 Produto: Ação realizada
 
@@ -2926,9 +2926,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.000.000,00 |1.000.000,00 |1.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.000.000,00 | 1.000.000,00 | 1.000.000,00 |
 
 71)
 
@@ -2940,15 +2940,15 @@ Programa: 155 - Memória e Patrimônio Cultural
 
 Ação: 2375 - Identificação e Valorização da Memória e das Identidades Culturais
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |45.000,00 |45.000,00 |45.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 45.000,00 | 45.000,00 | 45.000,00 |
 
 Subação: 3 - Valorização e Fomento das Manifestações da Cultura Popular e Tradicional
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |1 |1 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 1 | 1 |
 
 Produto: Ação realizada
 
@@ -2966,9 +2966,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |45.000,00 |45.000,00 |45.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 45.000,00 | 45.000,00 | 45.000,00 |
 
 72)
 
@@ -2980,15 +2980,15 @@ Programa: 155 - Memória e Patrimônio Cultural
 
 Ação: 2908 - Preservação do Patrimônio Cultural
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |40.000,00 |40.000,00 |40.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 40.000,00 | 40.000,00 | 40.000,00 |
 
 Subação: 5 - Tratamento e Preservação de Acervos
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: Serviços administrativos
 
@@ -3006,9 +3006,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |40.000,00 |40.000,00 |40.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 40.000,00 | 40.000,00 | 40.000,00 |
 
 73)
 
@@ -3020,15 +3020,15 @@ Programa: 154 - Fomento, Incentivo e Desenvolvimento Cultural
 
 Ação: 2371 - Fomento e Estímulo à Cultura
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |1.000.000,00 |1.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 1.000.000,00 | 1.000.000,00 |
 
 Subação: Fomento à Cultura do Samba, Escolas de Samba e Blocos
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: Serviços administrativos
 
@@ -3046,9 +3046,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |1.000.000,00 |1.000.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 1.000.000,00 | 1.000.000,00 |
 
 74)
 
@@ -3060,15 +3060,15 @@ Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer
 
 Ação: 2536 - Promoção do Esporte e do Lazer para Pessoas com Deficiência / Superar
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |90.000,00 |150.000,00 |203.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 90.000,00 | 150.000,00 | 203.000,00 |
 
 Subação: Transporte Acessível para Ações Esportivas (porta a porta)
 
-|2018 |2019 |2020 |2021 |
-
-|0 |16 |26 |36 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 16 | 26 | 36 |
 
 Produto: Pessoa com deficiência atendida
 
@@ -3086,9 +3086,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |90.000,00 |150.000,00 |203.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 90.000,00 | 150.000,00 | 203.000,00 |
 
 75)
 
@@ -3100,15 +3100,15 @@ Programa: 114 - Rede de Cuidados Especializados Complementares à Saúde
 
 Ação: 2892 - Rede Contratada de Cuidados Especializados Complementares à Saúde – Ambulatorial
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |190.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 190.000,00 | 0,00 |
 
 Subação: Inclusão Social de Crianças e Adolescentes com Sofrimento Mental
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |5 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 5 | 0 |
 
 Produto: Atendimento
 
@@ -3126,9 +3126,9 @@ Ação: 2004 - Direção Superior da Política Municipal
 
 Unidade orçamentária: 201 - GABINETE DO PREFEITO
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |190.000,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 190.000,00 | 0,00 |
 
 76)
 
@@ -3140,15 +3140,15 @@ Programa: 64 - Geração e Qualificação Habitacional em Áreas de Interesse So
 
 Ação: 1231 - Melhorias Urbanas em Assentamentos de Interesse Social
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |300.000,00 |300.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 300.000,00 | 300.000,00 |
 
 Subação: Assessoria Técnica para Autogestão
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |114 |114 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 114 | 114 |
 
 Produto: família beneficiada
 
@@ -3166,9 +3166,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |300.000,00 |300.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 300.000,00 | 300.000,00 |
 
 77)
 
@@ -3180,15 +3180,15 @@ Programa: 20 - Proteção Social Especial
 
 Ação: 2409 - Ações Estratégicas de Proteção Social Especial
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |300.000,00 |300.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 300.000,00 | 300.000,00 |
 
 Subação: Bolsa Moradia - Mulheres em situação de violência
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |50 |50 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 50 | 50 |
 
 Produto: família beneficiada
 
@@ -3206,9 +3206,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |300.000,00 |300.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 300.000,00 | 300.000,00 |
 
 78)
 
@@ -3220,15 +3220,15 @@ Programa: 154 - Fomento, Incentivo e Desenvolvimento Cultural
 
 Ação: 2371 - Fomento e Estímulo à Cultura
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |60.000,00 |60.000,00 |60.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 60.000,00 | 60.000,00 | 60.000,00 |
 
 Subação: Manutenção e Gestão da Biblioteca Casa da Árvore
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |1 |1 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 1 | 1 |
 
 Produto: Unidade mantida
 
@@ -3246,9 +3246,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |60.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 60.000,00 | 0,00 | 0,00 |
 
 Área de resultado: 9 - Habitação, Urbanização, Regulação e Ambiente Urbano
 
@@ -3258,9 +3258,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |60.000,00 |60.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 60.000,00 | 60.000,00 |
 
 79)
 
@@ -3272,15 +3272,15 @@ Programa: 308 - BH Cidade Sustentável: Mobilizar, Educar e Cultivar Alimentaç�
 
 Ação: 2121 - Implantação de Territórios Sustentáveis
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |40.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 40.000,00 | 0,00 | 0,00 |
 
 Subação: 2 - Implantação Pomar Comunitário Agroecológico
 
-|2018 |2019 |2020 |2021 |
-
-|0 |3 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 3 | 0 | 0 |
 
 Produto: Pomar implantado
 
@@ -3298,9 +3298,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |40.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 40.000,00 | 0,00 | 0,00 |
 
 80)
 
@@ -3312,15 +3312,15 @@ Programa: 114 - Rede de Cuidados Especializados Complementares à Saúde
 
 Ação: 2891 - Rede Própria de Cuidados Especializados Complementares à Saúde – Ambulatorial
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |500.000,00 |500.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 500.000,00 | 500.000,00 |
 
 Subação: Implantação de Unidade de Acolhimento para Pessoas com necessidades decorrentes do uso de drogas e álcool
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |1 |1 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 1 | 1 |
 
 Produto: Unidade Existente
 
@@ -3338,9 +3338,9 @@ Ação: 2007 - Serviços de Divulgação Institucional do Município
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |500.000,00 |500.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 500.000,00 | 500.000,00 |
 
 81)
 
@@ -3352,15 +3352,15 @@ Programa: 114 - Rede de Cuidados Especializados Complementares à Saúde
 
 Ação: 2891 - Rede Própria de Cuidados Especializados Complementares à Saúde – Ambulatorial
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.500.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.500.000,00 | 0,00 | 0,00 |
 
 Subação: Implantação de CERSAM Saúde Mental
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Equipamento implantado
 
@@ -3378,9 +3378,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |1.500.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 1.500.000,00 | 0,00 | 0,00 |
 
 82)
 
@@ -3392,15 +3392,15 @@ Programa: 305 - Qualidade no Transporte Coletivo: um direito de todos
 
 Ação: 2910 - Qualidade no Transporte Coletivo
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |20.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 20.000,00 | 0,00 | 0,00 |
 
 Subação: 6 - Implantação de Abrigos em Pontos de Ônibus
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Abrigo implantando
 
@@ -3418,9 +3418,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |20.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 20.000,00 | 0,00 | 0,00 |
 
 83)
 
@@ -3432,15 +3432,15 @@ Programa: 228 - Coleta, Destinação e Tratamento de Resíduos Sólidos
 
 Ação: 2539 - Execução dos Serviços de Limpeza Urbana
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |20.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 20.000,00 | 0,00 | 0,00 |
 
 Subação: 5 - Instalação e Manutenção de Cestos Coletores
 
-|2018 |2019 |2020 |2021 |
-
-|0 |1 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 1 | 0 | 0 |
 
 Produto: Serviço realizado
 
@@ -3458,9 +3458,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |20.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 20.000,00 | 0,00 | 0,00 |
 
 84)
 
@@ -3472,15 +3472,15 @@ Programa: 59 - Coordenação da Política Urbana
 
 Ação: 2890 - Fiscalização Urbano – Ambiental
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 Subação: 10 - Programa Operação Disque Sossego
 
-|2018 |2019 |2020 |2021 |
-
-|0 |5.000 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 5.000 | 0 | 0 |
 
 Produto: Diligência realizada
 
@@ -3498,9 +3498,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |100.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 100.000,00 | 0,00 | 0,00 |
 
 85)
 
@@ -3512,15 +3512,15 @@ Programa: 304 - BH Inclusiva, Segura e Cidadã
 
 Ação: 1393 - Transporte Seguro e Sustentável
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |25.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 25.000,00 | 0,00 | 0,00 |
 
 Subação: 2 - Projeto Pedala BH - Implantação de Estrutura Cicloviária
 
-|2018 |2019 |2020 |2021 |
-
-|0 |20 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 20 | 0 | 0 |
 
 Produto: Ciclovia/Ciclorrota/Ciclofaixa implantada
 
@@ -3538,9 +3538,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |25.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 25.000,00 | 0,00 | 0,00 |
 
 86)
 
@@ -3552,15 +3552,15 @@ Programa: 304 - BH Inclusiva, Segura e Cidadã
 
 Ação: 1393 - Transporte Seguro e Sustentável
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |30.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 30.000,00 | 0,00 | 0,00 |
 
 Subação: 9 - Projeto Pedala BH - Implantação de Paraciclos
 
-|2018 |2019 |2020 |2021 |
-
-|0 |4 |0 |0 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 4 | 0 | 0 |
 
 Produto: Paraciclos Implantados
 
@@ -3578,9 +3578,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |30.000,00 |0,00 |0,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 30.000,00 | 0,00 | 0,00 |
 
 87)
 
@@ -3592,15 +3592,15 @@ Programa: 242 - Prevenção Social à Criminalidade
 
 Ação: 2881 - Ações de Prevenção Social à Criminalidade
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |262.000,00 |262.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 262.000,00 | 262.000,00 |
 
 Subação: 1 - Prevenção à Violência nos Territórios
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |9 |9 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 9 | 9 |
 
 Produto: Território atendido
 
@@ -3618,9 +3618,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |262.000,00 |262.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 262.000,00 | 262.000,00 |
 
 88)
 
@@ -3632,15 +3632,15 @@ Programa: 167 - Gestão da política de educação inclusiva e diversidade étni
 
 Ação: 2041 - Formação para Profissionais da Educação
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |20.000,00 |20.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 20.000,00 | 20.000,00 |
 
 Subação: 8 - Formação dos professores para Promoção da Igualdade Étnico-Racial
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |1.200 |1.200 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 1.200 | 1.200 |
 
 Produto: Profissional capacitado
 
@@ -3658,9 +3658,9 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |20.000,00 |20.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 20.000,00 | 20.000,00 |
 
 89)
 
@@ -3672,15 +3672,15 @@ Programa: 167 - Gestão da política de educação inclusiva e diversidade étni
 
 Ação: 2386 - Promoção de Ações de Igualdade Racial
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |20.000,00 |20.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 20.000,00 | 20.000,00 |
 
 Subação: 3 - Promoção da Igualdade Racial e Combate ao Racismo
 
-|2018 |2019 |2020 |2021 |
-
-|0 |0 |15 |15 |
+| 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- |
+| 0 | 0 | 15 | 15 |
 
 Produto: Atividade realizada
 
@@ -3698,75 +3698,67 @@ Ação: 2890 - Fiscalização Urbano - Ambiental
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2018 |2019 |2020 |2021 |
-
-|R$ |0,00 |0,00 |20.000,00 |20.000,00 |
+|  | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 20.000,00 | 20.000,00 |
 
 **Art. 4º** - O Executivo compatibilizará o anexo desta lei às seguintes alterações no Relatório Analítico de Programas por Área de Resultado e Eixo:
 
 1) Acrescente-se quadro com o seguinte indicador ao Programa 019 - Proteção Social Básica:
 
-|Descrição |Tipo |Índice |Data Apuração|Índice Esperado |Fonte |
-
-| |Índice |Ref. |Índice | |Dados |
-
-| |
+| Descrição | Tipo | Índice | Data Apuração | Índice Esperado | Fonte |
+| --- | --- | --- | --- | --- | --- |
+|  | Índice | Ref. | Índice |  | Dados |
+|  |  |  |  |  |  |
 
 2) Acrescente-se quadro com o seguinte indicador ao Programa 113 - Aprimoramento da Gestão do SUAS:
 
-|Descrição |Tipo |Índice |Data Apuração|Índice Esperado |Fonte |
-
-| |Índice |Ref. |Índice | |Dados |
-
-| |
+| Descrição | Tipo | Índice | Data Apuração | Índice Esperado | Fonte |
+| --- | --- | --- | --- | --- | --- |
+|  | Índice | Ref. | Índice |  | Dados |
+|  |  |  |  |  |  |
 
 3) Acrescente-se quadro com o seguinte indicador ao Programa 113 - Aprimoramento da Gestão do SUAS:
 
-|Descrição |Tipo |Índice |Data Apuração|Índice Esperado |Fonte |
-
-| |Índice |Ref. |Índice | |Dados |
-
-| |
+| Descrição | Tipo | Índice | Data Apuração | Índice Esperado | Fonte |
+| --- | --- | --- | --- | --- | --- |
+|  | Índice | Ref. | Índice |  | Dados |
+|  |  |  |  |  |  |
 
 4) Acrescente-se quadro com o seguinte indicador ao Programa 113 - Aprimoramento da Gestão do SUAS:
 
-|Descrição |Tipo |Índice |Data Apuração|Índice Esperado |Fonte |
-
-| |Índice |Ref. |Índice | |Dados |
-
-| |
+| Descrição | Tipo | Índice | Data Apuração | Índice Esperado | Fonte |
+| --- | --- | --- | --- | --- | --- |
+|  | Índice | Ref. | Índice |  | Dados |
+|  |  |  |  |  |  |
 
 5) Acrescente-se quadro com o seguinte indicador ao Programa 113 - Aprimoramento da Gestão do SUAS:
 
-|Descrição |Tipo |Índice |Data Apuração |Índice Esperado |Fonte |
-
-| |Índice |Ref. |Índice | |Dados |
-
-| |
+| Descrição | Tipo | Índice | Data Apuração | Índice Esperado | Fonte |
+| --- | --- | --- | --- | --- | --- |
+|  | Índice | Ref. | Índice |  | Dados |
+|  |  |  |  |  |  |
 
 6) Acrescente-se quadro com o seguinte indicador ao Programa 242 - Prevenção Social à Criminalidade:
 
-|Descrição |Tipo |Índice |Data Apuração|Índice Esperado |Fonte |
-
-| |Índice |Ref. |Índice | |Dados |
-
-| |
+| Descrição | Tipo | Índice | Data Apuração | Índice Esperado | Fonte |
+| --- | --- | --- | --- | --- | --- |
+|  | Índice | Ref. | Índice |  | Dados |
+|  |  |  |  |  |  |
 
 7) Acrescente-se quadro com o seguinte indicador ao Programa 019 – Proteção Social Básica:
 
-|Descrição |Tipo |Índice |Data Apuração |Índice Esperado |Fonte |
-
-| |Índice |Ref. |Índice | |Dados |
-
-| |
+| Descrição | Tipo | Índice | Data Apuração | Índice Esperado | Fonte |
+| --- | --- | --- | --- | --- | --- |
+|  | Índice | Ref. | Índice |  | Dados |
+|  |  |  |  |  |  |
 
 8) Acrescente-se quadro com o seguinte indicador ao Programa 020 – Proteção Social Especial:
 
-|Descrição |Tipo |Índice |Data Apuração|Índice Esperado |Fonte |
-
-| |Índice |Ref. |Índice | |Dados |
-
-| |
+| Descrição | Tipo | Índice | Data Apuração | Índice Esperado | Fonte |
+| --- | --- | --- | --- | --- | --- |
+|  | Índice | Ref. | Índice |  | Dados |
+|  |  |  |  |  |  |
 
 **Art. 5º** - Esta lei entra em vigor na data de sua publicação.
 

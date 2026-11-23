@@ -68,49 +68,29 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei | |
-
-|nº 11.594, de 22 de setembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.0089.3137.319091.501 |27.000.000,00 |
-
-|4001.28.846.0089.3137.339091.501 |10.000.000,00 |
-
-|4001.28.846.0089.3137.449091.501 |10.000.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2542.445052.710 |70.000,00 |
-
-|Fundo Municipal de Saúde – FMS | |
-
-|2302.10.305.0028.2829.339030.621 |34.130,00 |
-
-|2302.10.305.0028.2829.449052.621 |2.350,00 |
-
-|2302.10.305.0028.2829.339092.621 |200.000,00 |
-
-|Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA |
-
-|1013.14.243.0163.2859.339039.501 |10.907.151,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0166.1323.449193.754 |88.035,66 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.302.0030.2875.339093.501 |731.900,95 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0242.2881.339039.700 |7.280,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |59.040.847,61 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei |  |
+| nº 11.594, de 22 de setembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.0089.3137.319091.501 | 27.000.000,00 |
+| 4001.28.846.0089.3137.339091.501 | 10.000.000,00 |
+| 4001.28.846.0089.3137.449091.501 | 10.000.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.445052.710 | 70.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.621 | 34.130,00 |
+| 2302.10.305.0028.2829.449052.621 | 2.350,00 |
+| 2302.10.305.0028.2829.339092.621 | 200.000,00 |
+| Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA |  |
+| 1013.14.243.0163.2859.339039.501 | 10.907.151,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0166.1323.449193.754 | 88.035,66 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.302.0030.2875.339093.501 | 731.900,95 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0242.2881.339039.700 | 7.280,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 59.040.847,61 |
 
 ANEXO II
 

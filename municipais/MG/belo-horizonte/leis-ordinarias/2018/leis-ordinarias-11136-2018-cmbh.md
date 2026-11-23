@@ -362,11 +362,10 @@ ANEXO I
 
 QUANTITATIVO DOS EMPREGOS PÚBLICOS DE AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE A ENDEMIAS
 
-|EMPREGO PÚBLICO |QUANTITATIVO |
-
-|Agente Comunitário de Saúde |2.700 |
-
-|Agente de Combate a Endemias |1.574 |
+| EMPREGO PÚBLICO | QUANTITATIVO |
+| --- | --- |
+| Agente Comunitário de Saúde | 2.700 |
+| Agente de Combate a Endemias | 1.574 |
 
 Anexo I revogado pela Lei nº 11.940, de 29/12/2025 (art. 23), com vigência a partir de 1º/1/2026, nos termos do art. 24
 
@@ -376,9 +375,9 @@ ANEXO II
 
 QUANTITATIVO DOS EMPREGOS PÚBLICOS - QUADRO TRANSITÓRIO
 
-|EMPREGO PÚBLICO |QUANTITATIVO |
-
-|Agente de Combate a Endemias II (quadro transitório) |170 |
+| EMPREGO PÚBLICO | QUANTITATIVO |
+| --- | --- |
+| Agente de Combate a Endemias II (quadro transitório) | 170 |
 
 Anexo II revogado pela Lei nº 11.940, de 29/12/2025 (art. 23), com vigência a partir de 1º/1/2026, nos termos do art. 24
 
@@ -392,13 +391,11 @@ ANEXO III
 
 J - Função pública gratificada de Supervisor das Atividades Operacionais de Campo
 
-|Função Gratificada |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Supervisor das Atividades Operacionais de Campo |170 |350,00 |
-
-|Total |170 | |
+| Função Gratificada | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Supervisor das Atividades Operacionais de Campo | 170 | 350,00 |
+| Total | 170 |  |
 
 ”. (NR)
 
@@ -408,50 +405,29 @@ ANEXO IV
 
 TABELA DE SALÁRIO-BASE DOS EMPREGOS PÚBLICOS DE AGENTE COMUNITÁRIO DE SAÚDE - ACS, AGENTE DE COMBATE A ENDEMIAS - ACE - E AGENTE DE COMBATE A ENDEMIAS II
 
-|EMPREGO PÚBLICO |TABELA DE VENCIMENTOS-BASE (Valores em R$) |
-
-|EFETIVO | |
-
-| |
-
-|NÍVEL |
-
-| |
-
-|NÍVEL |EMPREGO PÚBLICO EFETIVO |
-
-| |AGENTE COMUNITÁRIO DE SAÚDE |AGENTE DE COMBATE A ENDEMIAS I |AGENTE DE COMBATE A ENDEMIAS|
-
-| | | |II |
-
-|1 |1.125,42 |1.125,42 |1.330,04 |
-
-|2 |1.181,69 |1.181,69 |1.396,55 |
-
-|3 |1.240,77 |1.240,77 |1.466,37 |
-
-|4 |1.302,81 |1.302,81 |1.539,69 |
-
-|5 |1.367,95 |1.367,95 |1.616,68 |
-
-|6 |1.436,35 |1.436,35 |1.697,51 |
-
-|7 |1.508,17 |1.508,17 |1.782,39 |
-
-|8 |1.583,58 |1.583,58 |1.871,50 |
-
-|9 |1.662,76 |1.662,76 |1.965,08 |
-
-|10 |1.745,89 |1.745,89 |2.063,33 |
-
-|11 |1.833,19 |1.833,19 |2.166,50 |
-
-|12 |1.924,85 |1.924,85 |2.274,83 |
-
-|13 |2.021,09 |2.021,09 |2.388,57 |
-
-|14 |2.122,15 |2.122,15 |2.508,00 |
-
-|15 |2.228,25 |2.228,25 |2.633,39 |
+| EMPREGO PÚBLICO | TABELA DE VENCIMENTOS-BASE (Valores em R$) |  |  |
+| --- | --- | --- | --- |
+| EFETIVO |  |  |  |
+|  |  |  |  |
+| NÍVEL |  |  |  |
+|  |  |  |  |
+| NÍVEL | EMPREGO PÚBLICO EFETIVO |  |  |
+|  | AGENTE COMUNITÁRIO DE SAÚDE | AGENTE DE COMBATE A ENDEMIAS I | AGENTE DE COMBATE A ENDEMIAS |
+|  |  |  | II |
+| 1 | 1.125,42 | 1.125,42 | 1.330,04 |
+| 2 | 1.181,69 | 1.181,69 | 1.396,55 |
+| 3 | 1.240,77 | 1.240,77 | 1.466,37 |
+| 4 | 1.302,81 | 1.302,81 | 1.539,69 |
+| 5 | 1.367,95 | 1.367,95 | 1.616,68 |
+| 6 | 1.436,35 | 1.436,35 | 1.697,51 |
+| 7 | 1.508,17 | 1.508,17 | 1.782,39 |
+| 8 | 1.583,58 | 1.583,58 | 1.871,50 |
+| 9 | 1.662,76 | 1.662,76 | 1.965,08 |
+| 10 | 1.745,89 | 1.745,89 | 2.063,33 |
+| 11 | 1.833,19 | 1.833,19 | 2.166,50 |
+| 12 | 1.924,85 | 1.924,85 | 2.274,83 |
+| 13 | 2.021,09 | 2.021,09 | 2.388,57 |
+| 14 | 2.122,15 | 2.122,15 | 2.508,00 |
+| 15 | 2.228,25 | 2.228,25 | 2.633,39 |
 
 Anexo V revogado pela Lei nº 11.940, de 29/12/2025 (art. 23), com vigência a partir de 1º/1/2026, nos termos do art. 24

@@ -60,24 +60,15 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Teatros, shows e espetáculos com público sentado em|Horário licenciado |
-
-|propriedade pública ou privada licenciadas ou | |
-
-|mediante licenciamento específico | |
-
-|Feiras, exposições, congressos e seminários, em |Horário licenciado |
-
-|propriedade pública ou privada licenciadas ou | |
-
-|mediante licenciamento específico | |
-
-|Eventos gastronômicos, mediante licenciamento |Horário licenciado |
-
-|específico, em logradouros públicos ou em | |
-
-|propriedades públicas e privadas | |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Teatros, shows e espetáculos com público sentado em | Horário licenciado |
+| propriedade pública ou privada licenciadas ou |  |
+| mediante licenciamento específico |  |
+| Feiras, exposições, congressos e seminários, em | Horário licenciado |
+| propriedade pública ou privada licenciadas ou |  |
+| mediante licenciamento específico |  |
+| Eventos gastronômicos, mediante licenciamento | Horário licenciado |
+| específico, em logradouros públicos ou em |  |
+| propriedades públicas e privadas |  |

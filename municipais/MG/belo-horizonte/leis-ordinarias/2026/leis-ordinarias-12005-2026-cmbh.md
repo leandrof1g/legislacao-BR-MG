@@ -42,11 +42,10 @@ O povo do Município De Belo Horizonte, por seus representantes, decreta e eu sa
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|outubro |Outubro Prateado - Promoção da valorização, do respeito e do cuidado com a |
-
-| |pessoa idosa |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| outubro | Outubro Prateado - Promoção da valorização, do respeito e do cuidado com a |
+|  | pessoa idosa |
 
 .”.
 
@@ -58,9 +57,9 @@ MÊS COMEMORATIVO
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|junho |Junho Violeta - Combate à violência contra a pessoa idosa |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| junho | Junho Violeta - Combate à violência contra a pessoa idosa |
 
 ’.”.
 

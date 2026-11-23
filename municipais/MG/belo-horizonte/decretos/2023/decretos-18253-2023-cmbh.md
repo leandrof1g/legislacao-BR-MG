@@ -214,44 +214,29 @@ ANEXO
 
 I – Tabela de valores – viagens nacionais.
 
-|SERVIDORES |TRASLADO |DIÁRIA |
-
-|Prefeito e Vice-Prefeito |R$ 120,00 |R$ 450,00 |
-
-|Membros da Direção Superior Municipal |R$ 120,00 |R$ 400,00 |
-
-|Diretores, gerentes, chefias e demais agentes públicos |R$ 120,00 |R$ 350,00 |
+| SERVIDORES | TRASLADO | DIÁRIA |
+| --- | --- | --- |
+| Prefeito e Vice-Prefeito | R$ 120,00 | R$ 450,00 |
+| Membros da Direção Superior Municipal | R$ 120,00 | R$ 400,00 |
+| Diretores, gerentes, chefias e demais agentes públicos | R$ 120,00 | R$ 350,00 |
 
 II – Tabela de valores – viagens internacionais.
 
-|SERVIDORES |LOCALIDADE/VALOR |
-
-| |América do Sul e América |América do Norte e outros |Europa |
-
-| |Central | | |
-
-| |TRASLADO |DIÁRIA |TRASLADO |DIÁRIA |TRASLADO |DIÁRIA |
-
-|Prefeito e Vice-Prefeito |US$ 50,00 |US$ 350,00 |
-
-|Prefeito e Vice-Prefeito |Brasília – DF |R$330,00 |
-
-| |Demais capitais |R$280,00 |
-
-| |Demais municípios |R$230,00 |
-
-|Membros da Direção Superior Municipal |Brasília – DF |R$280,00 |
-
-| |Demais capitais |R$230,00 |
-
-| |Demais municípios |R$180,00 |
-
-|Diretores, gerentes, chefias e demais |Brasília – DF |R$230,00 |
-
-|agentes públicos | | |
-
-| |Demais capitais |R$180,00 |
-
-| |Demais municípios |R$130,00 |
+| SERVIDORES | LOCALIDADE/VALOR |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | América do Sul e América | América do Norte e outros | Europa |  |  |  |
+|  | Central |  |  |  |  |  |
+|  | TRASLADO | DIÁRIA | TRASLADO | DIÁRIA | TRASLADO | DIÁRIA |
+| Prefeito e Vice-Prefeito | US$ 50,00 | US$ 350,00 |  |  |  |  |
+| Prefeito e Vice-Prefeito | Brasília – DF | R$330,00 |  |  |  |  |
+|  | Demais capitais | R$280,00 |  |  |  |  |
+|  | Demais municípios | R$230,00 |  |  |  |  |
+| Membros da Direção Superior Municipal | Brasília – DF | R$280,00 |  |  |  |  |
+|  | Demais capitais | R$230,00 |  |  |  |  |
+|  | Demais municípios | R$180,00 |  |  |  |  |
+| Diretores, gerentes, chefias e demais | Brasília – DF | R$230,00 |  |  |  |  |
+| agentes públicos |  |  |  |  |  |  |
+|  | Demais capitais | R$180,00 |  |  |  |  |
+|  | Demais municípios | R$130,00 |  |  |  |  |
 
 Tabela III acrescentada pelo Decreto nº 18.604, de 15/1/2024 (Art. 4º)

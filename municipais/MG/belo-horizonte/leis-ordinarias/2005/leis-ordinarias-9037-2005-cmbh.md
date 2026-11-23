@@ -464,45 +464,31 @@ ANEXO I - Vilas e Conjuntos Prioritários para Urbanização
 
 Relação de Vilas e Conjuntos
 
-|Vila São Bernardo |
-
-|Vila São Tomás |
-
-|Vila Novo Ouro Preto |
-
-|Vila Alvorada |
-
-|Vila Antena |
-
-|Vila Califórnia |
-
-|Vila Coqueiral |
-
-|Vila Santo Antônio |
-
-|Vila Paquetá |
-
-|Conjunto Jardim Filadélfia |
-
-|Conjunto São Francisco de Assis |
-
-|Fonte: PROPAM -2003 |
+| Vila São Bernardo |
+| --- |
+| Vila São Tomás |
+| Vila Novo Ouro Preto |
+| Vila Alvorada |
+| Vila Antena |
+| Vila Califórnia |
+| Vila Coqueiral |
+| Vila Santo Antônio |
+| Vila Paquetá |
+| Conjunto Jardim Filadélfia |
+| Conjunto São Francisco de Assis |
+| Fonte: PROPAM -2003 |
 
 ANEXO II - Fundos de Vale Prioritários para Interceptação de Esgoto
 
 Fundos de Vale
 
-|Avenida Havaí |
-
-|Avenida Hum |
-
-|Avenida Dois |
-
-|Avenida Francisco Negrão de Lima |
-
-|Avenida Otacílio Negrão de Lima (margem esquerda da Lagoa da Pampulha correspondendo ao trecho situado entre o Jardim Zoológico e o |
-
-|Pampulha Iate Clube) |
+| Avenida Havaí |
+| --- |
+| Avenida Hum |
+| Avenida Dois |
+| Avenida Francisco Negrão de Lima |
+| Avenida Otacílio Negrão de Lima (margem esquerda da Lagoa da Pampulha correspondendo ao trecho situado entre o Jardim Zoológico e o |
+| Pampulha Iate Clube) |
 
 Fonte: PROPAM –2003
 
@@ -510,121 +496,73 @@ ANEXO III - Fundos de Vale e Vias para Tratamento e Urbanização Prioritários
 
 Fundos de Vale para Tratamento
 
-|Avenida Havaí |
-
-|Avenida Hum |
+| Avenida Havaí |
+| --- |
+| Avenida Hum |
 
 Vias Prioritárias para Urbanização
 
-|Logradouro |Bairro |
-
-|Avenida Francisco Negrão de Lima |Garças |
-
-|Rua Cornélio Lima Rodrigues |Garças |
-
-|Rua Exp. Noraldino dos Santos |São Luiz |
-
-|Rua Exp. Nilo M. Pinheiro |São Luiz |
-
-|Avenida João XXIII |Alípio de Melo |
-
-|Rua Guimoar Paranhos |Ouro Preto |
-
-|Rua Andorra |Santa Terezinha |
-
-|Rua Geraldo Parreiras |Braúnas |
-
-|Rua Dirceu D. Braga |Braúnas |
-
-|Rua Otilia Moreira |Braúnas |
-
-|Rua Wanderley T. Matos |Braúnas |
-
-|Rua Tóquio |Braúnas |
-
-|Rua Manoel Ferreira Cardoso |Nova Pampulha |
-
-|Rua 45 |Ouro Preto |
-
-|Rua Bagdá |Trevo |
-
-|Rua Vocação |V. São José |
-
-|Rua Hum |Jardim Filadélfia |
-
-|Rua Montreal |Trevo |
-
-|Rua Oslo |Trevo |
-
-|Rua Idalisio A. Filho |Braúnas |
-
-|Rua Walquiria |Braúnas |
-
-|Rua Maestro João Cavalcante |Braúnas |
-
-|Rua Cartagena |Braúnas |
-
-|Rua Adolfo Lippi Fonseca |Garças |
-
-|Rua Radialista Sheilla Jordani |Garças |
-
-|Rua Radialista Carlos Filgueiras |Garças |
-
-|Rua Antônio Mazzinetti |Ouro Preto |
-
-|Rua Engenho da Noite |Ouro Preto |
-
-|Rua Engenho da Estrela |Ouro Preto |
-
-|Rua Engenho da Paz |Ouro Preto |
-
-|Rua Professor José Guerra |Ouro Preto |
-
-|Praça e Rua 47 |Ouro Preto |
-
-|Rua Nizia Torres |Ouro Preto |
-
-|Rua Celso Cunha |Braúnas |
+| Logradouro | Bairro |
+| --- | --- |
+| Avenida Francisco Negrão de Lima | Garças |
+| Rua Cornélio Lima Rodrigues | Garças |
+| Rua Exp. Noraldino dos Santos | São Luiz |
+| Rua Exp. Nilo M. Pinheiro | São Luiz |
+| Avenida João XXIII | Alípio de Melo |
+| Rua Guimoar Paranhos | Ouro Preto |
+| Rua Andorra | Santa Terezinha |
+| Rua Geraldo Parreiras | Braúnas |
+| Rua Dirceu D. Braga | Braúnas |
+| Rua Otilia Moreira | Braúnas |
+| Rua Wanderley T. Matos | Braúnas |
+| Rua Tóquio | Braúnas |
+| Rua Manoel Ferreira Cardoso | Nova Pampulha |
+| Rua 45 | Ouro Preto |
+| Rua Bagdá | Trevo |
+| Rua Vocação | V. São José |
+| Rua Hum | Jardim Filadélfia |
+| Rua Montreal | Trevo |
+| Rua Oslo | Trevo |
+| Rua Idalisio A. Filho | Braúnas |
+| Rua Walquiria | Braúnas |
+| Rua Maestro João Cavalcante | Braúnas |
+| Rua Cartagena | Braúnas |
+| Rua Adolfo Lippi Fonseca | Garças |
+| Rua Radialista Sheilla Jordani | Garças |
+| Rua Radialista Carlos Filgueiras | Garças |
+| Rua Antônio Mazzinetti | Ouro Preto |
+| Rua Engenho da Noite | Ouro Preto |
+| Rua Engenho da Estrela | Ouro Preto |
+| Rua Engenho da Paz | Ouro Preto |
+| Rua Professor José Guerra | Ouro Preto |
+| Praça e Rua 47 | Ouro Preto |
+| Rua Nizia Torres | Ouro Preto |
+| Rua Celso Cunha | Braúnas |
 
 Fonte: PROPAM - 2003
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO V
 
-|Usos Sujeitos a Licenciamento Especial - Áreas de Controle Especial de Uso do Solo |
-
-|Produção de Húmus |
-
-|Reparação de Baterias e Acumuladores |
-
-|Garagem de Empresa de Transporte de Carga e de Passageiros |
-
-|Garagem de Serviço de Guindaste e Reboque |
-
-|Lava-jato |
-
-|Posto de Serviço de Veículos |
-
-|Transportadora de Carga com Depósito sem Pátio de Veículos |
-
-|Transportadora de Carga com Pátio de Veículos com/sem Depósito |
-
-|Transportadora e Revendedora Retalhista de Derivados de Petróleo |
-
-|Pátio de Máquinas, Equipamentos e Veículos |
-
-|Indústria com Pequeno Potencial Poluidor não Geradora de Tráfego Pesado |
-
-|Indústria com Pequeno Potencial Poluidor |
-
-|Indústrias que não se enquadrem nos Grupos I e II |
-
-|Terminais de Cargas |
-
-|Unidade de Reciclagem de Resíduos Sólidos |
-
-|Posto de Abastecimento de Veículos |
+| Usos Sujeitos a Licenciamento Especial - Áreas de Controle Especial de Uso do Solo |
+| --- |
+| Produção de Húmus |
+| Reparação de Baterias e Acumuladores |
+| Garagem de Empresa de Transporte de Carga e de Passageiros |
+| Garagem de Serviço de Guindaste e Reboque |
+| Lava-jato |
+| Posto de Serviço de Veículos |
+| Transportadora de Carga com Depósito sem Pátio de Veículos |
+| Transportadora de Carga com Pátio de Veículos com/sem Depósito |
+| Transportadora e Revendedora Retalhista de Derivados de Petróleo |
+| Pátio de Máquinas, Equipamentos e Veículos |
+| Indústria com Pequeno Potencial Poluidor não Geradora de Tráfego Pesado |
+| Indústria com Pequeno Potencial Poluidor |
+| Indústrias que não se enquadrem nos Grupos I e II |
+| Terminais de Cargas |
+| Unidade de Reciclagem de Resíduos Sólidos |
+| Posto de Abastecimento de Veículos |
 
 ANEXO VI
 
@@ -634,175 +572,92 @@ ANEXO VII – Relação de Usos Permitidos na ADE da Pampulha
 
 Anexo VII substituído pela Lei nº 9.959, de 20/7/2010
 
-| |Atividades |Área Predominantemente |Av. O. N. Lima |Avs. Francisco N. Lima, Flemming/C. Racioppi, A.Camarate, Sta. | |
-
-| | |Residencial | |Rosa, Pça. Alberto D. Simão, Atlântida(1; 2), Antônio F. Lisboa(1;| |
-
-| | | | |3), Clóvis Salgado(1; 2) e Braúnas(1) | |
-
-| |Atividades do Grupo I da LPOUS em vigor | | |ν | |
-
-|SERVIÇOS |Instituiçoes de credito, seguro.... | | | | |
-
-| |Estabelecimentos bancários | | |ν | |
-
-| |Caixa eletrônico |€ |ν |ν | |
-
-| |Serviços de alojamento e alimentação | | | | |
-
-| |Bar, Restaurante e Lanchonete | |ν |ν | |
-
-| |Cafeteria, Casa de Chá, Casa de Doces, Casa de Sucos, Casa de Vitaminas | |ν |ν | |
-
-| |Hotel, Apart-Hotel e Residência Hotel | |ν |ν | |
-
-| |Pousada |€ |ν |ν | |
-
-| |Sorveteria | |ν |ν | |
-
-| |Serviços Domiciliares | |€ |€ | |
-
-| |Jardinagem e Paisagismo |ν |ν |ν | |
-
-| |Serviços pessoais | | | | |
-
-| |Academias de Ginástica, Esportivas e de Artes Marciais | |ν |ν | |
-
-| |Escola de Esportes | | |ν | |
-
-| |Escola de Dança e Música | | |ν | |
-
-| |Escola de Natação e Mergulho | | |ν | |
-
-| |Quadras de Esporte e conjuntos de Quadras de Esporte | | |ν | |
-
-| |Serviços de diversao e comunicaçao | | | | |
-
-| |Autopista para Diversão | | |ν | |
-
-| |Boliche | |ν |ν | |
-
-| |Brinquedos Mecânicos e Eletrônicos | | |ν | |
-
-| |Buffet com Salão de Recepção | |ν |ν | |
-
-| |Casa de Jogos | |ν |ν | |
-
-| |Casa de Jogos pela INTERNET | |ν |ν | |
-
-| |Casa de Recepção e Salão de Festas | |ν |ν | |
-
-| |Cinema, Teatro e Auditório | |ν |ν | |
-
-| |Parque de Diversões | |ν |ν | |
-
-| |Pista de Patinação | | |ν | |
-
-| |Serviço de Recreação Infantil, inclusive com Buffet | |ν |ν | |
-
-| |Serviços tecnico-profissionais | | | | |
-
-| |Estúdio de Escultura, Desenho e Pintura Artística | |ν |ν | |
-
-| |Serviços Auxiliares de Transpote | |€ |€ | |
-
-| |Estacionamento | |ν |ν | |
-
-| |Locação de Bicicletas | |ν |ν | |
-
-| |Outros serviços | | | | |
-
-| |Agência de Intercâmbio Cultural | |ν |ν | |
-
-|SERVIÇOS DE |Agência de Viagens, Turismo e Venda de Passagens | |ν |ν | |
-
-|USO COLETIVO | | | | | |
-
-| |Assistencia Social | | | | |
-
-| |Asilo e Casa de Idosos |ν |ν |ν | |
-
-| |Inst. Cientifica, Culturais, Tecnologicas e Filosoficas | | | | |
-
-| |Aquário | |ν |ν | |
-
-| |Associação Cultural, Filosófica e Científica | |ν |ν | |
-
-| |Associação de Apoio à Educação, Ciência e Tecnologia | |ν |ν | |
-
-| |Biblioteca | |ν |ν | |
-
-| |Centro Cultural | |ν |ν | |
-
-| |Centro de Documentação | |ν |ν | |
-
-| |Centro de Pesquisa | |ν |ν | |
-
-| |Estabelecimento de Cultura Artística | |ν |ν | |
-
-| |Estabelecimento de Pesquisa na área de Saúde | |ν |ν | |
-
-| |Jardim Botânico | |ν |ν | |
-
-| |Jardim Zoológico | |ν |ν | |
-
-| |Mostras Artesanais e Folclóricas | |ν |ν | |
-
-| |Museu | |ν |ν | |
-
-| |Entidades Desportivas e Recreativas | | | | |
-
-| |Clube Esportivo e Recreativo | | |ν | |
-
-| |Escola de Equitação | | |ν | |
-
-| |Serviços de Educação | | | | |
-
-| |Curso Supletivo (de ensino fundamental) |€ |€ |ν | |
-
-| |Escola de Ensino Fundamental |€ |€ |ν | |
-
-| |Escolas de Excepcionais |ν |€ |ν | |
-
-| |Escola maternal, Escola Infantil |ν |€ |ν | |
-
-| |Escola de Idiomas |ν |€ |ν | |
-
-| |Instituto para Portadores de Deficiência |ν |€ |ν | |
-
-| |Serviços Publicos | | | | |
-
-| |Delegacia de Policia | |€ |ν | |
-
-| |Sede de Orgão Público | |€ |ν | |
-
-| |Representação Diplomática |ν |ν |ν | |
-
-| |Representação de Organismos Internacionais |ν |ν |ν | |
-
-| |Outros serviços | | | | |
-
-|COMÉRCIO |Antiquário | |ν |ν | |
-
-| |Artesanato | |ν |ν | |
-
-| |Bomboniére | |ν |ν | |
-
-| |Confeitaria | |ν |ν | |
-
-| |Floricultura |ν |ν |ν | |
-
-| |Hidroponia |ν |ν |ν | |
-
-| |Jornais e Revistas | |ν |ν | |
-
-| |Tabacaria | |ν |ν | |
-
-|(1 ) São admitidas condições especiais de ocupação, conforme Art. 30 desta lei | | | |
-
-|(2) Não são admitidas Escolas Infantis e Estabelecimentos de Ensino Fundamental. | | | |
-
-|(3) Não são admitidos os Serviços de Alojamento e Alimentação; Pessoais; Diversão e Comunicação e Entidades Desportivas e Recreativas | | |
+|  | Atividades | Área Predominantemente | Av. O. N. Lima | Avs. Francisco N. Lima, Flemming/C. Racioppi, A.Camarate, Sta. |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Residencial |  | Rosa, Pça. Alberto D. Simão, Atlântida(1; 2), Antônio F. Lisboa(1; |  |
+|  |  |  |  | 3), Clóvis Salgado(1; 2) e Braúnas(1) |  |
+|  | Atividades do Grupo I da LPOUS em vigor |  |  | ν |  |
+| SERVIÇOS | Instituiçoes de credito, seguro.... |  |  |  |  |
+|  | Estabelecimentos bancários |  |  | ν |  |
+|  | Caixa eletrônico | € | ν | ν |  |
+|  | Serviços de alojamento e alimentação |  |  |  |  |
+|  | Bar, Restaurante e Lanchonete |  | ν | ν |  |
+|  | Cafeteria, Casa de Chá, Casa de Doces, Casa de Sucos, Casa de Vitaminas |  | ν | ν |  |
+|  | Hotel, Apart-Hotel e Residência Hotel |  | ν | ν |  |
+|  | Pousada | € | ν | ν |  |
+|  | Sorveteria |  | ν | ν |  |
+|  | Serviços Domiciliares |  | € | € |  |
+|  | Jardinagem e Paisagismo | ν | ν | ν |  |
+|  | Serviços pessoais |  |  |  |  |
+|  | Academias de Ginástica, Esportivas e de Artes Marciais |  | ν | ν |  |
+|  | Escola de Esportes |  |  | ν |  |
+|  | Escola de Dança e Música |  |  | ν |  |
+|  | Escola de Natação e Mergulho |  |  | ν |  |
+|  | Quadras de Esporte e conjuntos de Quadras de Esporte |  |  | ν |  |
+|  | Serviços de diversao e comunicaçao |  |  |  |  |
+|  | Autopista para Diversão |  |  | ν |  |
+|  | Boliche |  | ν | ν |  |
+|  | Brinquedos Mecânicos e Eletrônicos |  |  | ν |  |
+|  | Buffet com Salão de Recepção |  | ν | ν |  |
+|  | Casa de Jogos |  | ν | ν |  |
+|  | Casa de Jogos pela INTERNET |  | ν | ν |  |
+|  | Casa de Recepção e Salão de Festas |  | ν | ν |  |
+|  | Cinema, Teatro e Auditório |  | ν | ν |  |
+|  | Parque de Diversões |  | ν | ν |  |
+|  | Pista de Patinação |  |  | ν |  |
+|  | Serviço de Recreação Infantil, inclusive com Buffet |  | ν | ν |  |
+|  | Serviços tecnico-profissionais |  |  |  |  |
+|  | Estúdio de Escultura, Desenho e Pintura Artística |  | ν | ν |  |
+|  | Serviços Auxiliares de Transpote |  | € | € |  |
+|  | Estacionamento |  | ν | ν |  |
+|  | Locação de Bicicletas |  | ν | ν |  |
+|  | Outros serviços |  |  |  |  |
+|  | Agência de Intercâmbio Cultural |  | ν | ν |  |
+| SERVIÇOS DE | Agência de Viagens, Turismo e Venda de Passagens |  | ν | ν |  |
+| USO COLETIVO |  |  |  |  |  |
+|  | Assistencia Social |  |  |  |  |
+|  | Asilo e Casa de Idosos | ν | ν | ν |  |
+|  | Inst. Cientifica, Culturais, Tecnologicas e Filosoficas |  |  |  |  |
+|  | Aquário |  | ν | ν |  |
+|  | Associação Cultural, Filosófica e Científica |  | ν | ν |  |
+|  | Associação de Apoio à Educação, Ciência e Tecnologia |  | ν | ν |  |
+|  | Biblioteca |  | ν | ν |  |
+|  | Centro Cultural |  | ν | ν |  |
+|  | Centro de Documentação |  | ν | ν |  |
+|  | Centro de Pesquisa |  | ν | ν |  |
+|  | Estabelecimento de Cultura Artística |  | ν | ν |  |
+|  | Estabelecimento de Pesquisa na área de Saúde |  | ν | ν |  |
+|  | Jardim Botânico |  | ν | ν |  |
+|  | Jardim Zoológico |  | ν | ν |  |
+|  | Mostras Artesanais e Folclóricas |  | ν | ν |  |
+|  | Museu |  | ν | ν |  |
+|  | Entidades Desportivas e Recreativas |  |  |  |  |
+|  | Clube Esportivo e Recreativo |  |  | ν |  |
+|  | Escola de Equitação |  |  | ν |  |
+|  | Serviços de Educação |  |  |  |  |
+|  | Curso Supletivo (de ensino fundamental) | € | € | ν |  |
+|  | Escola de Ensino Fundamental | € | € | ν |  |
+|  | Escolas de Excepcionais | ν | € | ν |  |
+|  | Escola maternal, Escola Infantil | ν | € | ν |  |
+|  | Escola de Idiomas | ν | € | ν |  |
+|  | Instituto para Portadores de Deficiência | ν | € | ν |  |
+|  | Serviços Publicos |  |  |  |  |
+|  | Delegacia de Policia |  | € | ν |  |
+|  | Sede de Orgão Público |  | € | ν |  |
+|  | Representação Diplomática | ν | ν | ν |  |
+|  | Representação de Organismos Internacionais | ν | ν | ν |  |
+|  | Outros serviços |  |  |  |  |
+| COMÉRCIO | Antiquário |  | ν | ν |  |
+|  | Artesanato |  | ν | ν |  |
+|  | Bomboniére |  | ν | ν |  |
+|  | Confeitaria |  | ν | ν |  |
+|  | Floricultura | ν | ν | ν |  |
+|  | Hidroponia | ν | ν | ν |  |
+|  | Jornais e Revistas |  | ν | ν |  |
+|  | Tabacaria |  | ν | ν |  |
+| (1 ) São admitidas condições especiais de ocupação, conforme Art. 30 desta lei |  |  |  |  |  |
+| (2) Não são admitidas Escolas Infantis e Estabelecimentos de Ensino Fundamental. |  |  |  |  |  |
+| (3) Não são admitidos os Serviços de Alojamento e Alimentação; Pessoais; Diversão e Comunicação e Entidades Desportivas e Recreativas |  |  |  |  |  |
 
 -----------------------
 

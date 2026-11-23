@@ -52,26 +52,19 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Empresa de Informática e Informação do Município|
-
-|de Belo Horizonte – Prodabel –, conforme autorização contida no §|
-
-|2º do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|0604.19.572.085.2.605.3390.0007 |234.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |234.000,00 |
+| I.1 – A favor da Empresa de Informática e Informação do Município |  |
+| --- | --- |
+| de Belo Horizonte – Prodabel –, conforme autorização contida no § |  |
+| 2º do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 0604.19.572.085.2.605.3390.0007 | 234.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 234.000,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 |
-
-|da tabela anterior: |
-
-|R$ |
-
-|0604.19.572.085.2.605.3390.0000 |234.000,00 |
-
-|TOTAL DA ANULAÇÃO |234.000,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 0604.19.572.085.2.605.3390.0000 | 234.000,00 |
+| TOTAL DA ANULAÇÃO | 234.000,00 |

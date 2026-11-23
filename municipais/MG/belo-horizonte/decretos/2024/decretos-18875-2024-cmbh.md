@@ -68,43 +68,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei | |
-
-|nº 11.594, de 22 de setembro de 2023: | |
-
-|Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |
-
-|3304.26.452.0060.2567.339037.2.501.784 |3.650.000,00 |
-
-|3304.26.452.0060.2567.339039.2.501.784 |615.000,00 |
-
-|3304.26.452.0060.2567.319011.2.501.784 |5.200.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339039.2.710.610 |50.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.449052.2.621.000 |538.170,68 |
-
-|2302.10.301.0157.2690.339034.2.621.000 |3.954.889,56 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0020.2403.339039.2.660.000 |76.784,50 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.2.710.610 |350.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.339039.2.700.000 |4.527,10 |
-
-|TOTAL DA SUPLEMENTAÇÃO |14.439.371,84 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei |  |
+| nº 11.594, de 22 de setembro de 2023: |  |
+| Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3304.26.452.0060.2567.339037.2.501.784 | 3.650.000,00 |
+| 3304.26.452.0060.2567.339039.2.501.784 | 615.000,00 |
+| 3304.26.452.0060.2567.319011.2.501.784 | 5.200.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339039.2.710.610 | 50.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.449052.2.621.000 | 538.170,68 |
+| 2302.10.301.0157.2690.339034.2.621.000 | 3.954.889,56 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0020.2403.339039.2.660.000 | 76.784,50 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.2.710.610 | 350.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.339039.2.700.000 | 4.527,10 |
+| TOTAL DA SUPLEMENTAÇÃO | 14.439.371,84 |
 
 ANEXO II
 

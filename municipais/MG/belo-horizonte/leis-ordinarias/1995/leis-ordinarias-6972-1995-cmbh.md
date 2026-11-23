@@ -680,16 +680,5 @@ O Orçamento Participativo enquanto tal não consta do presente Plano Plurianual
 
 Tendo em vista o fato da construção da atual sede do Legislativo Municipal já ter sido realizada nos anos oitenta, as despesas dessa instituição têm se caracterizado pela inexistência de grandes investimentos de vulto, concentrando-se as despesas nos salários e outros custeios. O valor limite anual para o custeio e investimentos da Câmara Municipal de Belo Horizonte será fixado, necessariamente, como um percentual da receita corrente líquida que deverá constar da Lei de Diretrizes Orçamentárias de 1995 e 1996, bem como da lei orçamentária a ser aprovada nos dois anos respectivos. Do ponto de vista da aplicação desse critério, entende-se como receita corrente líquida o total de receitas próprias e transferidas não-vinculadas. As receitas financeiras das operações ARO serão calculadas tendo por base as receitas financeiras totais menos as despesas financeiras geradas diretamente pelas operações ARO.
 
-[pic][pic][pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic] [pic] [pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

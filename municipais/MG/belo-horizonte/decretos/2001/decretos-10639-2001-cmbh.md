@@ -28,43 +28,32 @@ O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 10
 
 **Art.1º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor de Encargos Gerais do Município da Secretaria Municipal da Coordenação de Administração e Recursos Humanos, o Crédito Especial no valor de R$3.863.300,00 (três milhões, oitocentos e sessenta e três mil e trezentos reais), com o seguinte programa de trabalho:
 
-|4003.150814782.176 - 3211 - Fonte 05.00 - Programação a Cargo da BEPREM |3.863.300,00 |
+| 4003.150814782.176 - 3211 - Fonte 05.00 - Programação a Cargo da BEPREM | 3.863.300,00 |
+| --- | --- |
 
 **Art.2º** - Os recursos necessários à execução do disposto no artigo anterior, decorrerão da anulação parcial da seguinte dotação do Orçamento da Seguridade Social da Prefeitura, no valor de R$3.863.300,00 (três milhões, oitocentos e sessenta e três mil e trezentos reais):
 
-|4003.150814782.176 - 3211 - Fonte 05.00 |3.863.300,00 |
+| 4003.150814782.176 - 3211 - Fonte 05.00 | 3.863.300,00 |
+| --- | --- |
 
 **Art.3º** - Fica aprovado, parcialmente, o Orçamento da Beneficência da Prefeitura de Belo Horizonte - BEPREM, no valor de R$4.113.300,00 (quatro milhões, cento e treze mil e trezentos reais), nos seguintes programas de trabalho:
 
-|5000.150754282.004 - Fonte 05.00 - Serv. de Assist. Odontológica e |1.416.000,00 |
-
-|Atenção a Saúde | |
-
-|5000.150754282.008 - Fonte 05.00 - Clínica Médica do Servidor |573.300,00 |
-
-|5000.150814862.003 - Fonte 05.00 - Gerenciamento do Clube e | |
-
-|Colônia de Férias |25.000,00 |
-
-|5000.150814862.003 - Fonte 06.06 - Gerenciamento do Clube e |250.000,00 |
-
-|Colônia de Férias | |
-
-|5000.150820202.001 - Fonte 05.00 - Direção Superior da BEPREM |471.000,00 |
-
-|5000.150820212.002 - Fonte 05.00 - Administração Serv. de Apoio | |
-
-|Adm. e Financeiro |1.115.000,00 |
-
-|5000.150820212.002 - Fonte 04.00 - Administração Serv. de Apoio | |
-
-|Adm. e Financeiro |50.000,00 |
-
-|5000.150824952.005 - Fonte 05.00 - Administração de Pecúlio e |173.000,00 |
-
-|Pensões | |
-
-|5000.150844922.007 - Fonte 05.00 - PASEP |40.000,00 |
+| 5000.150754282.004 - Fonte 05.00 - Serv. de Assist. Odontológica e | 1.416.000,00 |
+| --- | --- |
+| Atenção a Saúde |  |
+| 5000.150754282.008 - Fonte 05.00 - Clínica Médica do Servidor | 573.300,00 |
+| 5000.150814862.003 - Fonte 05.00 - Gerenciamento do Clube e |  |
+| Colônia de Férias | 25.000,00 |
+| 5000.150814862.003 - Fonte 06.06 - Gerenciamento do Clube e | 250.000,00 |
+| Colônia de Férias |  |
+| 5000.150820202.001 - Fonte 05.00 - Direção Superior da BEPREM | 471.000,00 |
+| 5000.150820212.002 - Fonte 05.00 - Administração Serv. de Apoio |  |
+| Adm. e Financeiro | 1.115.000,00 |
+| 5000.150820212.002 - Fonte 04.00 - Administração Serv. de Apoio |  |
+| Adm. e Financeiro | 50.000,00 |
+| 5000.150824952.005 - Fonte 05.00 - Administração de Pecúlio e | 173.000,00 |
+| Pensões |  |
+| 5000.150844922.007 - Fonte 05.00 - PASEP | 40.000,00 |
 
 **Art.4º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
 

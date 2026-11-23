@@ -176,499 +176,263 @@ I - TABELAS DE VENCIMENTOS E SALÁRIOS-BASE, COM VIGÊNCIA A PARTIR DE 1º DE JA
 
 A - Área de Atividades de Administração Geral:
 
-|ANALISTA DE POLÍTICAS PÚBLICAS |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|CARGO |NÍVEL |
-
-| |
-
-|CARGO |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |8 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |TRANSITÓRIO |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (VALORES EM R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |TRANSITÓRIO |
-
-| |TRANSITÓRIO |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|CLASSES |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |2 |3 |
-
-|Supervisor de |2.511,94 |2.511,94 |5.023,88 |
-
-|Alimentação | | | |
+| ANALISTA DE POLÍTICAS PÚBLICAS |  |  |  |
+| --- | --- | --- | --- |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  |  |  |  |
+| CARGO | NÍVEL |  |  |
+|  |  |  |  |
+| CARGO | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 8 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | TRANSITÓRIO |  |  |
+|  | 1 |  |  |
+|  | 1 |  |  |
+|  | 1 |  |  |
+|  | 1 |  |  |
+|  | 1 |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (VALORES EM R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | TRANSITÓRIO |  |  |
+|  | TRANSITÓRIO |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| CLASSES | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 | 2 | 3 |
+| Supervisor de | 2.511,94 | 2.511,94 | 5.023,88 |
+| Alimentação |  |  |  |
 
 II - Secretaria Municipal de Saúde - SMSA:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO (em |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL (em|
-
-| |R$) |DEDICAÇÃO EXCLUSIVA (em|R$) |
-
-| | |R$) | |
-
-|COORDENADOR DE SERVIÇO DE |972,96 |972,96 |1.945,92 |
-
-|CONTROLE DE ZOONOSES | | | |
-
-|ENCARREGADO DE SERVIÇO DE |727,82 |727,82 |1.455,64 |
-
-|CONTROLE DE ZOONOSES | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO (em | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL (em |
+| --- | --- | --- | --- |
+|  | R$) | DEDICAÇÃO EXCLUSIVA (em | R$) |
+|  |  | R$) |  |
+| COORDENADOR DE SERVIÇO DE | 972,96 | 972,96 | 1.945,92 |
+| CONTROLE DE ZOONOSES |  |  |  |
+| ENCARREGADO DE SERVIÇO DE | 727,82 | 727,82 | 1.455,64 |
+| CONTROLE DE ZOONOSES |  |  |  |
 
 III - Fundação Municipal de Cultura - FMC:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO (em |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL (em|
-
-| |R$) |DEDICAÇÃO EXCLUSIVA |R$) |
-
-| | |(em R$) | |
-
-|COORDENADOR DE UNIDADE |3.117,55 |3.117,55 |6.235,10 |
-
-|CULTURAL NÍVEL 1 | | | |
-
-|COORDENADOR DE UNIDADE |3.400,95 |3.400,95 |6.801,90 |
-
-|CULTURAL NÍVEL 2 | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO (em | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL (em |
+| --- | --- | --- | --- |
+|  | R$) | DEDICAÇÃO EXCLUSIVA | R$) |
+|  |  | (em R$) |  |
+| COORDENADOR DE UNIDADE | 3.117,55 | 3.117,55 | 6.235,10 |
+| CULTURAL NÍVEL 1 |  |  |  |
+| COORDENADOR DE UNIDADE | 3.400,95 | 3.400,95 | 6.801,90 |
+| CULTURAL NÍVEL 2 |  |  |  |
 
 IV - Secretaria Municipal de Educação - Smed:
 
-|CARGO PÚBLICO EM COMISSÃO |VENCIMENTO-BASE |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |DEDICAÇÃO EXCLUSIVA|(em R$) |
-
-| | |(em R$) | |
-
-|SECRETÁRIO ESCOLAR I |1.666,79 |727,83 |2.394,62 |
-
-|SECRETÁRIO ESCOLAR II |1.708,95 |1.136,69 |2.845,64 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL I |3.815,46 |2.527,17 |6.342,63 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL II |3.968,10 |2.906,22 |6.874,32 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL III |4.120,74 |3.285,31 |7.406,05 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL IV |4.278,29 |3.664,37 |7.942,66 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL V |4.435,83 |4.043,46 |8.479,29 |
-
-|DIRETOR DE ESCOLA MUNICIPAL I |4.120,73 |3.032,61 |7.153,34 |
-
-|DIRETOR DE ESCOLA MUNICIPAL II |4.278,29 |3.411,65 |7.689,94 |
-
-|DIRETOR DE ESCOLA MUNICIPAL III |4.435,83 |3.790,74 |8.226,57 |
-
-|DIRETOR DE ESCOLA MUNICIPAL IV |4.637,38 |4.169,82 |8.807,20 |
-
-|DIRETOR DE ESCOLA MUNICIPAL V |4.839,00 |4.548,88 |9.387,88 |
-
-|DIRETOR DE EMEI I |3.815,46 |2.527,17 |6.342,63 |
-
-|DIRETOR DE EMEI II |3.968,10 |2.906,22 |6.874,32 |
-
-|DIRETOR DE EMEI III |4.120,74 |3.285,31 |7.406,05 |
-
-|DIRETOR DE EMEI IV |4.273,40 |3.664,39 |7.937,79 |
-
-|DIRETOR DE EMEI V |4.426,05 |4.043,46 |8.469,51 |
-
-|VICE-DIRETOR DE EMEI I |3.650,62 |1.813,85 |5.464,47 |
-
-|VICE-DIRETOR DE EMEI II |3.801,78 |2.191,75 |5.993,53 |
-
-|VICE-DIRETOR DE EMEI III |3.952,95 |2.569,63 |6.522,58 |
-
-|VICE-DIRETOR DE EMEI IV |4.104,10 |2.947,50 |7.051,60 |
-
-|VICE-DIRETOR DE EMEI V |4.255,25 |3.325,39 |7.580,64 |
-
-|COORDENADOR PEDAGÓGICO GERAL I |3.650,62 |1.047,62 |4.698,24 |
-
-|COORDENADOR PEDAGÓGICO GERAL II |3.912,00 |1.396,82 |5.308,82 |
-
-|DIRETOR DE CENTRO DE APERFEIÇOAMENTO |4.838,98 |4.548,88 |9.387,86 |
-
-|PROFISSIONAL DA EDUCAÇÃO | | | |
-
-|VICE-DIRETOR DE CENTRO DE |4.435,83 |4.043,46 |8.479,29 |
-
-|APERFEIÇOAMENTO PROFISSIONAL DA EDUCAÇÃO| | | |
-
-|COORDENADOR DE PROJETOS ESPECIAIS DA |2.716,70 |2.716,70 |5.433,40 |
-
-|EDUCAÇÃO | | | |
+| CARGO PÚBLICO EM COMISSÃO | VENCIMENTO-BASE | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | DEDICAÇÃO EXCLUSIVA | (em R$) |
+|  |  | (em R$) |  |
+| SECRETÁRIO ESCOLAR I | 1.666,79 | 727,83 | 2.394,62 |
+| SECRETÁRIO ESCOLAR II | 1.708,95 | 1.136,69 | 2.845,64 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL I | 3.815,46 | 2.527,17 | 6.342,63 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL II | 3.968,10 | 2.906,22 | 6.874,32 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL III | 4.120,74 | 3.285,31 | 7.406,05 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL IV | 4.278,29 | 3.664,37 | 7.942,66 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL V | 4.435,83 | 4.043,46 | 8.479,29 |
+| DIRETOR DE ESCOLA MUNICIPAL I | 4.120,73 | 3.032,61 | 7.153,34 |
+| DIRETOR DE ESCOLA MUNICIPAL II | 4.278,29 | 3.411,65 | 7.689,94 |
+| DIRETOR DE ESCOLA MUNICIPAL III | 4.435,83 | 3.790,74 | 8.226,57 |
+| DIRETOR DE ESCOLA MUNICIPAL IV | 4.637,38 | 4.169,82 | 8.807,20 |
+| DIRETOR DE ESCOLA MUNICIPAL V | 4.839,00 | 4.548,88 | 9.387,88 |
+| DIRETOR DE EMEI I | 3.815,46 | 2.527,17 | 6.342,63 |
+| DIRETOR DE EMEI II | 3.968,10 | 2.906,22 | 6.874,32 |
+| DIRETOR DE EMEI III | 4.120,74 | 3.285,31 | 7.406,05 |
+| DIRETOR DE EMEI IV | 4.273,40 | 3.664,39 | 7.937,79 |
+| DIRETOR DE EMEI V | 4.426,05 | 4.043,46 | 8.469,51 |
+| VICE-DIRETOR DE EMEI I | 3.650,62 | 1.813,85 | 5.464,47 |
+| VICE-DIRETOR DE EMEI II | 3.801,78 | 2.191,75 | 5.993,53 |
+| VICE-DIRETOR DE EMEI III | 3.952,95 | 2.569,63 | 6.522,58 |
+| VICE-DIRETOR DE EMEI IV | 4.104,10 | 2.947,50 | 7.051,60 |
+| VICE-DIRETOR DE EMEI V | 4.255,25 | 3.325,39 | 7.580,64 |
+| COORDENADOR PEDAGÓGICO GERAL I | 3.650,62 | 1.047,62 | 4.698,24 |
+| COORDENADOR PEDAGÓGICO GERAL II | 3.912,00 | 1.396,82 | 5.308,82 |
+| DIRETOR DE CENTRO DE APERFEIÇOAMENTO | 4.838,98 | 4.548,88 | 9.387,86 |
+| PROFISSIONAL DA EDUCAÇÃO |  |  |  |
+| VICE-DIRETOR DE CENTRO DE | 4.435,83 | 4.043,46 | 8.479,29 |
+| APERFEIÇOAMENTO PROFISSIONAL DA EDUCAÇÃO |  |  |  |
+| COORDENADOR DE PROJETOS ESPECIAIS DA | 2.716,70 | 2.716,70 | 5.433,40 |
+| EDUCAÇÃO |  |  |  |
 
 ANEXO IX
 
@@ -676,19 +440,14 @@ GRATIFICAÇÃO E CLASSIFICAÇÃO DAS FUNÇÕES GRATIFICADAS DE COORDENAÇÃO E A
 
 COM VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2026.
 
-|NÍVEL |VALOR (em R$) |FCA-UNITÁRIO |
-
-|FCA-1 |755,78 |1 |
-
-|FCA-2 |1.133,67 |1,5 |
-
-|FCA-3 |1.511,54 |2 |
-
-|FCA-4 |1.889,42 |2,5 |
-
-|FCA-5 |2.267,30 |3 |
-
-|FCA-6 |3.023,08 |4 |
+| NÍVEL | VALOR (em R$) | FCA-UNITÁRIO |
+| --- | --- | --- |
+| FCA-1 | 755,78 | 1 |
+| FCA-2 | 1.133,67 | 1,5 |
+| FCA-3 | 1.511,54 | 2 |
+| FCA-4 | 1.889,42 | 2,5 |
+| FCA-5 | 2.267,30 | 3 |
+| FCA-6 | 3.023,08 | 4 |
 
 ANEXO X
 
@@ -698,112 +457,89 @@ COM VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2026.
 
 A - Conselheiro Tutelar:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO (em R$) |
-
-|CONSELHEIRO TUTELAR |7.557,69 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO (em R$) |
+| --- | --- |
+| CONSELHEIRO TUTELAR | 7.557,69 |
 
 B - Controlador de Tesouraria dos Restaurantes Populares:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO (em R$) |
-
-|CONTROLADOR DE TESOURARIA DOS RESTAURANTES POPULARES |1.904,54 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO (em R$) |
+| --- | --- |
+| CONTROLADOR DE TESOURARIA DOS RESTAURANTES POPULARES | 1.904,54 |
 
 C - Coordenador de Proteção Social e Cidadania:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO (em R$) |
-
-|COORDENADOR DE PROTEÇÃO SOCIAL E CIDADANIA |2.408,10 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO (em R$) |
+| --- | --- |
+| COORDENADOR DE PROTEÇÃO SOCIAL E CIDADANIA | 2.408,10 |
 
 D - Coordenador de Centro de Referência de Assistência Social, de Centro de Referência Especializado de Assistência Social e de Unidade de Acolhimento Institucional:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO (em R$) |
-
-|COORDENADOR DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL |2.408,10 |
-
-|COORDENADOR DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL |2.408,10 |
-
-|COORDENADOR DE ACOLHIMENTO INSTITUCIONAL |2.408,10 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO (em R$) |
+| --- | --- |
+| COORDENADOR DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL | 2.408,10 |
+| COORDENADOR DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL | 2.408,10 |
+| COORDENADOR DE ACOLHIMENTO INSTITUCIONAL | 2.408,10 |
 
 E - Coordenador do Núcleo de Atendimento às Medidas Socioeducativas e Protetivas:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO (em R$) |
-
-|COORDENADOR DO NÚCLEO DE ATENDIMENTO ÀS MEDIDAS SOCIOEDUCATIVAS E PROTETIVAS|2.250,56 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO (em R$) |
+| --- | --- |
+| COORDENADOR DO NÚCLEO DE ATENDIMENTO ÀS MEDIDAS SOCIOEDUCATIVAS E PROTETIVAS | 2.250,56 |
 
 F - Gerente de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO (em R$) |
-
-|GERENTE DE UNIDADE DE SAÚDE I |4.625,17 |
-
-|GERENTE DE UNIDADE DE SAÚDE II |5.091,60 |
-
-|GERENTE DE UNIDADE DE SAÚDE III |5.563,77 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO (em R$) |
+| --- | --- |
+| GERENTE DE UNIDADE DE SAÚDE I | 4.625,17 |
+| GERENTE DE UNIDADE DE SAÚDE II | 5.091,60 |
+| GERENTE DE UNIDADE DE SAÚDE III | 5.563,77 |
 
 G - Gerente Adjunto de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO (em R$) |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE I |2.312,99 |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE II |2.545,79 |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE III |2.781,90 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO (em R$) |
+| --- | --- |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE I | 2.312,99 |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE II | 2.545,79 |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE III | 2.781,90 |
 
 H - Hospital Metropolitano Odilon Behrens - HOB:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO (em R$) |
-
-|GERENTE DE UNIDADE DE SAÚDE I |4.515,44 |
-
-|GERENTE DE UNIDADE DE SAÚDE II |4.970,80 |
-
-|GERENTE DE UNIDADE DE SAÚDE III |5.431,78 |
-
-|COORDENADOR DE APOIO GERENCIAL |2.206,45 |
-
-|COORDENADOR DE EQUIPE |2.607,62 |
-
-|COORDENADOR DE ESPECIALIDADES E ENSINO |2.808,21 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO (em R$) |
+| --- | --- |
+| GERENTE DE UNIDADE DE SAÚDE I | 4.515,44 |
+| GERENTE DE UNIDADE DE SAÚDE II | 4.970,80 |
+| GERENTE DE UNIDADE DE SAÚDE III | 5.431,78 |
+| COORDENADOR DE APOIO GERENCIAL | 2.206,45 |
+| COORDENADOR DE EQUIPE | 2.607,62 |
+| COORDENADOR DE ESPECIALIDADES E ENSINO | 2.808,21 |
 
 I - Supervisor das Atividades Operacionais de Campo:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO (em R$) |
-
-|SUPERVISOR DAS ATIVIDADES OPERACIONAIS DE CAMPO |503,75 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO (em R$) |
+| --- | --- |
+| SUPERVISOR DAS ATIVIDADES OPERACIONAIS DE CAMPO | 503,75 |
 
 J - Gestor Administrativo e Financeiro Escolar:
 
-|FUNÇÃO GRATIFICADA |PISO DE REMUNERAÇÃO (em |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-| |R$) |EXCLUSIVA (em R$) |(em R$) |
-
-|Gestor Administrativo e |1.920,65 |1.587,30 |3.507,95 |
-
-|Financeiro Escolar I | | | |
-
-|Gestor Administrativo e |1.920,65 |1.746,03 |3.666,68 |
-
-|Financeiro Escolar II | | | |
-
-|Gestor Administrativo e |1.920,65 |1.920,65 |3.841,30 |
-
-|Financeiro Escolar III | | | |
-
-|Gestor Administrativo e |1.920,65 |2.112,69 |4.033,34 |
-
-|Financeiro Escolar IV | | | |
-
-|Gestor Administrativo e |1.920,65 |2.323,96 |4.244,61 |
-
-|Financeiro Escolar V | | | |
+| FUNÇÃO GRATIFICADA | PISO DE REMUNERAÇÃO (em | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | R$) | EXCLUSIVA (em R$) | (em R$) |
+| Gestor Administrativo e | 1.920,65 | 1.587,30 | 3.507,95 |
+| Financeiro Escolar I |  |  |  |
+| Gestor Administrativo e | 1.920,65 | 1.746,03 | 3.666,68 |
+| Financeiro Escolar II |  |  |  |
+| Gestor Administrativo e | 1.920,65 | 1.920,65 | 3.841,30 |
+| Financeiro Escolar III |  |  |  |
+| Gestor Administrativo e | 1.920,65 | 2.112,69 | 4.033,34 |
+| Financeiro Escolar IV |  |  |  |
+| Gestor Administrativo e | 1.920,65 | 2.323,96 | 4.244,61 |
+| Financeiro Escolar V |  |  |  |
 
 ANEXO XI
 
-|GRAU DE INSALUBRIDADE |
-
-|(VALORES EM R$) |
-
-|VIGÊNCIA |MÍNIMO |MÉDIO |MÁXIMO |
-
-|1º/1/26 |155,44 |310,89 |621,77 |
+| GRAU DE INSALUBRIDADE |  |  |  |
+| --- | --- | --- | --- |
+| (VALORES EM R$) |  |  |  |
+| VIGÊNCIA | MÍNIMO | MÉDIO | MÁXIMO |
+| 1º/1/26 | 155,44 | 310,89 | 621,77 |

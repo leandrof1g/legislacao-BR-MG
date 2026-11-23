@@ -64,31 +64,20 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |154.277,31 |
-
-|2302.10.302.0114.2936.339039.2.621.000 |1.256.750,34 |
-
-|2302.10.302.0114.2936.339036.2.621.000 |0,06 |
-
-|2302.10.302.0114.2936.339092.2.600.510 |200.000,00 |
-
-|2302.10.305.0028.2829.339039.2.621.000 |25.334,08 |
-
-|2302.10.302.0114.2936.339139.2.621.000 |135.497,17 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0305.2910.336045.2.500.000 |306.430.647,47 |
-
-|TOTAL DA SUPLEMENTAÇÃO |308.202.506,43 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 154.277,31 |
+| 2302.10.302.0114.2936.339039.2.621.000 | 1.256.750,34 |
+| 2302.10.302.0114.2936.339036.2.621.000 | 0,06 |
+| 2302.10.302.0114.2936.339092.2.600.510 | 200.000,00 |
+| 2302.10.305.0028.2829.339039.2.621.000 | 25.334,08 |
+| 2302.10.302.0114.2936.339139.2.621.000 | 135.497,17 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0305.2910.336045.2.500.000 | 306.430.647,47 |
+| TOTAL DA SUPLEMENTAÇÃO | 308.202.506,43 |
 
 ANEXO II
 

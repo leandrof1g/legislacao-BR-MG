@@ -270,29 +270,23 @@ ANEXO I
 
 CARGOS PÚBLICOS EFETIVOS QUADRO DE PESSOAL
 
-|Cargo |Quantitativo |
-
-|Arquiteto |1 |
-
-|Engenheiro |10 |
-
-|Técnico de Serviço Público |11 |
-
-|Técnico de Nível Superior |32 |
+| Cargo | Quantitativo |
+| --- | --- |
+| Arquiteto | 1 |
+| Engenheiro | 10 |
+| Técnico de Serviço Público | 11 |
+| Técnico de Nível Superior | 32 |
 
 QUADRO TRANSITÓRIO
 
 Extinção após vacância
 
-|Cargo público efetivo |Número de vagas |
-
-|Agente de Serviço Ambiental |68 |
-
-|Ajudante de Serviço Operacional* |1 |
-
-|Oficial de Serviço Público* |1 |
-
-|Porteiro-Bilheteiro* |4 |
+| Cargo público efetivo | Número de vagas |
+| --- | --- |
+| Agente de Serviço Ambiental | 68 |
+| Ajudante de Serviço Operacional* | 1 |
+| Oficial de Serviço Público* | 1 |
+| Porteiro-Bilheteiro* | 4 |
 
 *em extinção - art. 2º da Lei nº 9.241, de 28 de julho de 2006.
 
@@ -436,14 +430,11 @@ Tabela de vencimento-base dos servidores públicos efetivos integrantes do quadr
 
 Fundação de Parques Municipais e Zoobotânica, a partir de 1º de julho de 2022:
 
-|CARGOS |TABELA DE VENCIMENTOS-BASE A PARTIR DE 1º/7/2022 (valores em R$): |
-
-| |NÍVEL |
-
-| |1 |
-
-| |
-
-|Cargo |Nível |
+| CARGOS | TABELA DE VENCIMENTOS-BASE A PARTIR DE 1º/7/2022 (valores em R$): |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  |  |
+| Cargo | Nível |
 
 |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 | |TÉCNICO DE SERVIÇO PÚBLICO |2.900,00 |3.045,00 |3.197,25 |3.357,11 |3.524,97 |3.701,22 |3.886,28 |4.080,59 |4.284,62 |4.498,85 |4.723,79 |4.959,98 |5.207,98 |5.468,38 |5.741,80 |6.028,89 |6.330,34 |6.646,85 | |Anexo III com redação dada pela Lei nº 11.914, de 30/10/2025 (Art. 89 com vigência no art. 124)

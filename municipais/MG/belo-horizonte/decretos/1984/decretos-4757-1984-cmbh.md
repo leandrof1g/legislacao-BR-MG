@@ -46,9 +46,7 @@ ESPECIAL-4 (SE-4)
 
 A delimitação da área da Favela 1° de Maio obedece à poligonal listada abaixo, com todos os seus pontos definidos em coordenadas UTM. Todos eles estão materializados em campo, através de marcos numerados. A poligonal inicia e termina no marco M-1, percorrendo os seguintes pontos:
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO I A QUE SE REFERE O
 

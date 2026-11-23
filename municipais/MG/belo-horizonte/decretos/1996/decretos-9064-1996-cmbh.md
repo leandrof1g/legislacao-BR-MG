@@ -520,4 +520,5 @@ Secretário Municipal de Planejamento
 
 ANEXO I
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

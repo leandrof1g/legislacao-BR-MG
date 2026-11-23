@@ -60,22 +60,14 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos do Executivo, conforme autorização |
-
-|contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17|
-
-|de março de 1964: |
-
-|R$ |
-
-|2700.17.512.066.1.203.4490.0030 |7.308.774,95 |
-
-|2700.17.512.066.1.307.4490.0030 |2.858.858,56 |
-
-|3000.27.812.101.2.534.3390.0030 |5.769,10 |
-
-|4001.28.846.089.3.137.3390.0000 |4.000.000,00 |
-
-|2301.10.302.030.2.875.3390.0050 |2.216.488,66 |
-
-|TOTAL DA SUPLEMENTAÇÃO |16.389.891,27 |
+| I.1 – A favor de diversos órgãos do Executivo, conforme autorização |  |
+| --- | --- |
+| contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 |  |
+| de março de 1964: |  |
+| R$ |  |
+| 2700.17.512.066.1.203.4490.0030 | 7.308.774,95 |
+| 2700.17.512.066.1.307.4490.0030 | 2.858.858,56 |
+| 3000.27.812.101.2.534.3390.0030 | 5.769,10 |
+| 4001.28.846.089.3.137.3390.0000 | 4.000.000,00 |
+| 2301.10.302.030.2.875.3390.0050 | 2.216.488,66 |
+| TOTAL DA SUPLEMENTAÇÃO | 16.389.891,27 |

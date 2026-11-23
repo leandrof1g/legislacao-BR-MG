@@ -362,100 +362,56 @@ Prefeito de Belo Horizonte
 
 ANEXO I - SELOS INSTITUÍDOS NO MUNICÍPIO
 
-|Item |Selo instituído por lei ou decreto |
-
-|I |Selo Empresa-Cidadã |
-
-|II |Selo Amigo do Meio Ambiente |
-
-|III |Selo BH Sustentável |
-
-|IV |Selo Empresa Crescer BH |
-
-|V |Selo Pet Friendly |
-
-|VI |Selo Estabelecimento Contra o Desperdício |
-
-|VII |Selo Escolas Mais Seguras |
-
-|VIII |Selo BH Emprega + Mulher |
-
-|IX |Selo Autista a Bordo |
-
-|X |Selo Quebra-Cabeça |
-
-|XI |Selo Estabelecimento Amigo do Celíaco |
-
-|XII |Selo Contabilista Amigo da Criança, do Adolescente e do Idoso |
-
-|XIII |Selo de Promoção da Igualdade Racial |
-
-|XIV |Selo de Acessibilidade para o Comércio |
-
-|XV |Selo de Responsabilidade Cultural |
-
-|XVI |Selo de Responsabilidade Social - Programa Estamos Juntos |
+| Item | Selo instituído por lei ou decreto |
+| --- | --- |
+| I | Selo Empresa-Cidadã |
+| II | Selo Amigo do Meio Ambiente |
+| III | Selo BH Sustentável |
+| IV | Selo Empresa Crescer BH |
+| V | Selo Pet Friendly |
+| VI | Selo Estabelecimento Contra o Desperdício |
+| VII | Selo Escolas Mais Seguras |
+| VIII | Selo BH Emprega + Mulher |
+| IX | Selo Autista a Bordo |
+| X | Selo Quebra-Cabeça |
+| XI | Selo Estabelecimento Amigo do Celíaco |
+| XII | Selo Contabilista Amigo da Criança, do Adolescente e do Idoso |
+| XIII | Selo de Promoção da Igualdade Racial |
+| XIV | Selo de Acessibilidade para o Comércio |
+| XV | Selo de Responsabilidade Cultural |
+| XVI | Selo de Responsabilidade Social - Programa Estamos Juntos |
 
 ANEXO II - MODELO DE BALANÇO SOCIAL DO SELO EMPRESA-CIDADÃ
 
-|Base de Cálculo |
-
-| |2001 |2000 |
-
-| |Valor (Mil Reais) |Valor (Mil Reais) |
-
-|Receita Líquida (RL) | | |
-
-|Resultado Operacional (RO) | | |
-
-|Folha de Pagamento Bruta (FPB) | | |
-
-|Indicadores Sociais Internos |
-
-| |2001 |2000 |
-
-| |
-
-| |2001 |2000 |
-
-| |
-
-| |2001 |2000 |
-
-| |
-
-| |2001 |2000 |
-
-|Nº de empregados ao final do período | | |
-
-|Nº de admissões durante o período | | |
-
-|Nº de empregados terceirizados | | |
-
-|Nº de empregados acima de 45 anos | | |
-
-|Nº de mulheres que trabalham na empresa | | |
-
-|Percentual de cargos de chefia | | |
-
-|ocupados por mulheres | | |
-
-|Nº de negros de trabalham na empresa | | |
-
-|Percentual de cargos de chefia ocupados por negros | | |
-
-|Nº de empregados com deficiência | | |
-
-|Informações Relevantes quanto ao Exercício da Cidadania Empresarial |
-
-| |2001 |2000 |
-
-|Relação entre a maior e a menor | | |
-
-|remuneração na empresa | | |
-
-|Número total de acidentes de trabalho | | |
-
-|Os projetos sociais e ambientais desenvolvidos pela empresa foram definidos: |
-
-| |
+| Base de Cálculo |  |  |
+| --- | --- | --- |
+|  | 2001 | 2000 |
+|  | Valor (Mil Reais) | Valor (Mil Reais) |
+| Receita Líquida (RL) |  |  |
+| Resultado Operacional (RO) |  |  |
+| Folha de Pagamento Bruta (FPB) |  |  |
+| Indicadores Sociais Internos |  |  |
+|  | 2001 | 2000 |
+|  |  |  |
+|  | 2001 | 2000 |
+|  |  |  |
+|  | 2001 | 2000 |
+|  |  |  |
+|  | 2001 | 2000 |
+| Nº de empregados ao final do período |  |  |
+| Nº de admissões durante o período |  |  |
+| Nº de empregados terceirizados |  |  |
+| Nº de empregados acima de 45 anos |  |  |
+| Nº de mulheres que trabalham na empresa |  |  |
+| Percentual de cargos de chefia |  |  |
+| ocupados por mulheres |  |  |
+| Nº de negros de trabalham na empresa |  |  |
+| Percentual de cargos de chefia ocupados por negros |  |  |
+| Nº de empregados com deficiência |  |  |
+| Informações Relevantes quanto ao Exercício da Cidadania Empresarial |  |  |
+|  | 2001 | 2000 |
+| Relação entre a maior e a menor |  |  |
+| remuneração na empresa |  |  |
+| Número total de acidentes de trabalho |  |  |
+| Os projetos sociais e ambientais desenvolvidos pela empresa foram definidos: |  |  |
+|  |  |  |

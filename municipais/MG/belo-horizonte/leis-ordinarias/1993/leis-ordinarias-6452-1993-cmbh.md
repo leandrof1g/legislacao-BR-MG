@@ -152,23 +152,16 @@ TABELA I
 
 Índice aplicado ao m² (metro quadrado) de área excedente ao coeficiente de aproveitamento em edificação residencial
 
-|PADRÃO DE ACABAMENTO | ZONA | ZONA | ZONA | ZONA | ZONA |
-
-|DO |FISCAL |FISCAL |FISCAL |FISCAL |FISCAL |
-
-|IMÓVEL |E |D |C |B |A |
-
-| |(P/M²) |(P/M²) |(P/M²) |(P/M²) |(P/M²) |
-
-|LUXO |0,1506 |0,5356 |1,9049 |6,2749 |17,0953 |
-
-|ALTO |0,1284 |0,4336 |1,4641 |4,4438 |13,6935 |
-
-|NORMAL |0,1073 |0,3393 |1,0730 |2,8931 | 9,7299 |
-
-|BAIXO |0,0872 |0,2522 |0,7295 |1,6101 | 5,1035 |
-
-|POPULAR |0,0680 |0,1710 |0,4300 |1,0814 | 2,2196 |
+| PADRÃO DE ACABAMENTO | ZONA | ZONA | ZONA | ZONA | ZONA |
+| --- | --- | --- | --- | --- | --- |
+| DO | FISCAL | FISCAL | FISCAL | FISCAL | FISCAL |
+| IMÓVEL | E | D | C | B | A |
+|  | (P/M²) | (P/M²) | (P/M²) | (P/M²) | (P/M²) |
+| LUXO | 0,1506 | 0,5356 | 1,9049 | 6,2749 | 17,0953 |
+| ALTO | 0,1284 | 0,4336 | 1,4641 | 4,4438 | 13,6935 |
+| NORMAL | 0,1073 | 0,3393 | 1,0730 | 2,8931 | 9,7299 |
+| BAIXO | 0,0872 | 0,2522 | 0,7295 | 1,6101 | 5,1035 |
+| POPULAR | 0,0680 | 0,1710 | 0,4300 | 1,0814 | 2,2196 |
 
 * - índices em UFPBH
 
@@ -176,23 +169,16 @@ TABELA II
 
 Índice aplicado ao m² (metro quadrado) de área excedente ao coeficiente de aproveitamento em edificação não-residencial, inclusive sobreloja.
 
-|PADRÃO DE ACABAMENTO | ZONA | ZONA | ZONA | ZONA | ZONA |
-
-|DO |FISCAL |FISCAL |FISCAL |FISCAL |FISCAL |
-
-|IMÓVEL |E |D |C |B |A |
-
-| |(P/M²) |(P/M²) |(P/M²) |(P/M²) |(P/M²) |
-
-|LUXO |0,2636 |0,9373 |3,3336 |8,8561 | 27,1668 |
-
-|ALTO |0,2247 |0,7588 |2,5622 |6,6517 | 19,7136 |
-
-|NORMAL |0,1878 |0,5938 |1,8777 |4,9379 | 13,7773 |
-
-|BAIXO |0,1526 |0,4414 |1,2766 |3,1927 | 8,1811 |
-
-|POPULAR |0,1190 |0,2993 |0,7525 |1,8924 | 4,2593 |
+| PADRÃO DE ACABAMENTO | ZONA | ZONA | ZONA | ZONA | ZONA |
+| --- | --- | --- | --- | --- | --- |
+| DO | FISCAL | FISCAL | FISCAL | FISCAL | FISCAL |
+| IMÓVEL | E | D | C | B | A |
+|  | (P/M²) | (P/M²) | (P/M²) | (P/M²) | (P/M²) |
+| LUXO | 0,2636 | 0,9373 | 3,3336 | 8,8561 | 27,1668 |
+| ALTO | 0,2247 | 0,7588 | 2,5622 | 6,6517 | 19,7136 |
+| NORMAL | 0,1878 | 0,5938 | 1,8777 | 4,9379 | 13,7773 |
+| BAIXO | 0,1526 | 0,4414 | 1,2766 | 3,1927 | 8,1811 |
+| POPULAR | 0,1190 | 0,2993 | 0,7525 | 1,8924 | 4,2593 |
 
 * - índices em UFPBH
 
@@ -202,23 +188,16 @@ TABELA IV
 
 Índice aplicado ao m² (metro quadrado) de área construída com qualquer irregularidade exceto as relativas ao coeficiente de aproveitamento.
 
-|PADRÃO DE ACABAMENTO | ZONA | ZONA | ZONA | ZONA | ZONA |
-
-|DO |FISCAL |FISCAL |FISCAL |FISCAL |FISCAL |
-
-|IMÓVEL |E |D |C |B |A |
-
-| |(P/M²) |(P/M²) |(P/M²) |(P/M²) |(P/M²) |
-
-|LUXO |0,0753 |0,2678 |0,9524 |3,3874 |11,0476 |
-
-|ALTO |0,0642 |0,2168 |0,7320 |2,4719 | 8,3467 |
-
-|NORMAL |0,0536 |0,1696 |0,5365 |1,6965 | 5,3649 |
-
-|BAIXO |0,0436 |0,1261 |0,3647 |1,055 | 3,0517 |
-
-|POPULAR |0,0340 |0,0855 |0,2150 |0,5407 | 1,3598 |
+| PADRÃO DE ACABAMENTO | ZONA | ZONA | ZONA | ZONA | ZONA |
+| --- | --- | --- | --- | --- | --- |
+| DO | FISCAL | FISCAL | FISCAL | FISCAL | FISCAL |
+| IMÓVEL | E | D | C | B | A |
+|  | (P/M²) | (P/M²) | (P/M²) | (P/M²) | (P/M²) |
+| LUXO | 0,0753 | 0,2678 | 0,9524 | 3,3874 | 11,0476 |
+| ALTO | 0,0642 | 0,2168 | 0,7320 | 2,4719 | 8,3467 |
+| NORMAL | 0,0536 | 0,1696 | 0,5365 | 1,6965 | 5,3649 |
+| BAIXO | 0,0436 | 0,1261 | 0,3647 | 1,055 | 3,0517 |
+| POPULAR | 0,0340 | 0,0855 | 0,2150 | 0,5407 | 1,3598 |
 
 * - índices em UFPBH
 
@@ -226,23 +205,16 @@ TABELA V
 
 Índice aplicado a cada 10cm (dez centímetros) inferior/superior à dimensão mínima/máxima permitida.
 
-|PADRÃO DE | INFRAÇÃO P/CADA |Obs: Esta tabela aplica-se a: |
-
-|ACABAMENTO |10cm |pé direito |
-
-|DO IMÓVEL | |largura de corredor |
-
-| | |raio do círculo inscrito em cômodos |
-
-|LUXO |6,023 | - largura e/ou altura da |
-
-|ALTO |4,1733 | marquise |
-
-|NORMAL |1,7883 | - outros por semelhança |
-
-|BAIXO |0,7629 | |
-
-|POPULAR |0,3399 | |
+| PADRÃO DE | INFRAÇÃO P/CADA | Obs: Esta tabela aplica-se a: |
+| --- | --- | --- |
+| ACABAMENTO | 10cm | pé direito |
+| DO IMÓVEL |  | largura de corredor |
+|  |  | raio do círculo inscrito em cômodos |
+| LUXO | 6,023 | - largura e/ou altura da |
+| ALTO | 4,1733 | marquise |
+| NORMAL | 1,7883 | - outros por semelhança |
+| BAIXO | 0,7629 |  |
+| POPULAR | 0,3399 |  |
 
 * - Índices em UFPBH
 
@@ -250,21 +222,15 @@ TABELA VI
 
 Índice aplicado em caso de construção em desacordo com a altura permitida na divisa do lote.
 
-|PADRÃO DE | INFRAÇÃO P/CADA | |
-
-|ACABAMENTO |1 metro linear | |
-
-|DO IMÓVEL | | |
-
-|LUXO |13,0635 | |
-
-|ALTO | 9,2741 | |
-
-|NORMAL | 5,3649 | |
-
-|BAIXO | 2,7743 | |
-
-|POPULAR | 1,0878 | |
+| PADRÃO DE | INFRAÇÃO P/CADA |  |
+| --- | --- | --- |
+| ACABAMENTO | 1 metro linear |  |
+| DO IMÓVEL |  |  |
+| LUXO | 13,0635 |  |
+| ALTO | 9,2741 |  |
+| NORMAL | 5,3649 |  |
+| BAIXO | 2,7743 |  |
+| POPULAR | 1,0878 |  |
 
 * - Índices em UFPBH
 
@@ -272,21 +238,15 @@ TABELA VII
 
 Índice aplicado a cada irregularidade relativa aos parâmetros estabelecidos para conforto e higiene da habitação.
 
-|PADRÃO DE | INFRAÇÃO P/CADA |Obs: Esta tabela aplica-se a: |
-
-|ACABAMENTO |10cm |intercomunicação de cômodos |
-
-|DO IMÓVEL | |insuficiência de iluminação/ventilação |
-
-|LUXO |11,0476 | - falta de passeio |
-
-|ALTO | 8,3468 | - escada fora de padrão |
-
-|NORMAL | 1,7883 | - outros por semelhança |
-
-|BAIXO | 0,6103 | |
-
-|POPULAR | 0,2379 | |
+| PADRÃO DE | INFRAÇÃO P/CADA | Obs: Esta tabela aplica-se a: |
+| --- | --- | --- |
+| ACABAMENTO | 10cm | intercomunicação de cômodos |
+| DO IMÓVEL |  | insuficiência de iluminação/ventilação |
+| LUXO | 11,0476 | - falta de passeio |
+| ALTO | 8,3468 | - escada fora de padrão |
+| NORMAL | 1,7883 | - outros por semelhança |
+| BAIXO | 0,6103 |  |
+| POPULAR | 0,2379 |  |
 
 * - Índices em UFPBH
 

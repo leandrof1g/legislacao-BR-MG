@@ -28,11 +28,13 @@ O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 10
 
 **Art. 1º** - Fica aberto ao Orçamento Fiscal da Prefeitura de Belo Horizonte, em favor da Assessoria de Comunicação Social do Município - ASCOM, Crédito Suplementar no valor de R$4.133.556,00 (quatro milhões, cento e trinta e três mil, quinhentos e cinquenta e seis reais), na seguinte dotação orçamentária:
 
-|0300.04.131.015.2.007.3390.0300 |4.133.556,00 |
+| 0300.04.131.015.2.007.3390.0300 | 4.133.556,00 |
+| --- | --- |
 
 **Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial da seguinte dotação orçamentária, no valor de R$4.133.556,00 (quatro milhões, cento e trinta e três mil, quinhentos e cinquenta e seis reais):
 
-|4001.99.999.999.9.999.9999.1400 |4.133.556,00 |
+| 4001.99.999.999.9.999.9999.1400 | 4.133.556,00 |
+| --- | --- |
 
 **Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
 

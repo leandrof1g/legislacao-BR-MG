@@ -496,13 +496,11 @@ DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 23** - Os vencimentos-base atribuídos na Tabela de Vencimentos do Plano de Carreira da Área de Atividades de Tributação, instituído pela Lei 7.645/99 e suas alterações, aos ocupantes dos cargos públicos efetivos de Tesoureiro, Agente Fazendário, Técnico Fazendário de Nível Médio e Analista Fazendário, em cumprimento da jornada de 8 (oito) horas diárias, ficam alterados a partir de 1º de outubro de 2006, conforme os seguintes valores:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Parágrafo único** - Os vencimentos-base atribuídos na Tabela de Vencimentos do Plano de Carreira da Área de Tributação, instituído pela Lei nº 7.645/99 e suas alterações aos ocupantes dos cargos públicos efetivos de Tesoureiro, Agente Fazendário, Técnico Fazendário de Nível Médio e Analista Fazendário, em cumprimento da jornada de 6 (seis) horas diárias, ficam alterados a partir de 1º de outubro de 2006, conforme os seguintes valores:
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 24** - Fica o Poder Executivo autorizado a abrir créditos adicionais ao orçamento vigente no valor de R$7.791.000,00 (sete milhões, setecentos e noventa e um mil reais), para atender ao disposto nesta Lei, podendo ser reaberto no exercício financeiro seguinte no limite de seus saldos, nos termos dos arts. 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17 de março de 1964.
 
@@ -532,45 +530,27 @@ ANEXO I
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO POR ESFORÇO FISCAL TRIBUTÁRIO – GEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2014
 
-|Faixa de Arrecadação |Auditor Fiscal de Tributos Municipais e |
-
-| |Auditor Técnico de Tributos Municipais |
-
-| |Quantidade de UREFTs por Trimestre - 2014 |
-
-|A partir de 90% e abaixo de 92% |320,94 |
-
-|A partir de 92% e abaixo de 94% |348,46 |
-
-|A partir de 94% e abaixo de 96% |381,76 |
-
-|A partir de 96% e abaixo de 98% |422,05 |
-
-|A partir de 98% e abaixo de 99% |462,90 |
-
-|A partir de 99% e abaixo de 100% |486,44 |
-
-|A partir de 100% e abaixo de 101% |512,33 |
-
-|A partir de 101% e abaixo de 102% |538,22 |
-
-|A partir de 102% e abaixo de 103% |591,15 |
-
-|A partir de 103% e abaixo de 104% |649,37 |
-
-|A partir de 104% e abaixo de 105% |713,41 |
-
-|A partir de 105% e abaixo de 106% |783,86 |
-
-|A partir de 106% e abaixo de 107% |861,35 |
-
-|A partir de 107% e abaixo de 108% |946,60 |
-
-|A partir de 108% e abaixo de 109% |1.040,36 |
-
-|A partir de 109% e abaixo de 110% |1.143,51 |
-
-|A partir de 110% |1.256,96 |
+| Faixa de Arrecadação | Auditor Fiscal de Tributos Municipais e |
+| --- | --- |
+|  | Auditor Técnico de Tributos Municipais |
+|  | Quantidade de UREFTs por Trimestre - 2014 |
+| A partir de 90% e abaixo de 92% | 320,94 |
+| A partir de 92% e abaixo de 94% | 348,46 |
+| A partir de 94% e abaixo de 96% | 381,76 |
+| A partir de 96% e abaixo de 98% | 422,05 |
+| A partir de 98% e abaixo de 99% | 462,90 |
+| A partir de 99% e abaixo de 100% | 486,44 |
+| A partir de 100% e abaixo de 101% | 512,33 |
+| A partir de 101% e abaixo de 102% | 538,22 |
+| A partir de 102% e abaixo de 103% | 591,15 |
+| A partir de 103% e abaixo de 104% | 649,37 |
+| A partir de 104% e abaixo de 105% | 713,41 |
+| A partir de 105% e abaixo de 106% | 783,86 |
+| A partir de 106% e abaixo de 107% | 861,35 |
+| A partir de 107% e abaixo de 108% | 946,60 |
+| A partir de 108% e abaixo de 109% | 1.040,36 |
+| A partir de 109% e abaixo de 110% | 1.143,51 |
+| A partir de 110% | 1.256,96 |
 
 Anexo I acrescentado pela Lei nº 10.727, de 4/4/2014 (Art. 17)
 
@@ -580,45 +560,27 @@ ANEXO II
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO POR ESFORÇO FISCAL TRIBUTÁRIO – GEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2015
 
-|Faixa de Arrecadação |Auditor Fiscal de Tributos Municipais e Auditor|
-
-| |Técnico de Tributos Municipais |
-
-| |Quantidade de UREFTs por Trimestre - 2015 |
-
-|A partir de 90% e abaixo de 92% |348,77 |
-
-|A partir de 92% e abaixo de 94% |378,67 |
-
-|A partir de 94% e abaixo de 96% |414,86 |
-
-|A partir de 96% e abaixo de 98% |458,64 |
-
-|A partir de 98% e abaixo de 99% |503,03 |
-
-|A partir de 99% e abaixo de 100% |528,61 |
-
-|A partir de 100% e abaixo de 101% |556,75 |
-
-|A partir de 101% e abaixo de 102% |584,88 |
-
-|A partir de 102% e abaixo de 103% |642,40 |
-
-|A partir de 103% e abaixo de 104% |705,67 |
-
-|A partir de 104% e abaixo de 105% |775,26 |
-
-|A partir de 105% e abaixo de 106% |851,82 |
-
-|A partir de 106% e abaixo de 107% |936,03 |
-
-|A partir de 107% e abaixo de 108% |1.028,67 |
-
-|A partir de 108% e abaixo de 109% |1.130,56 |
-
-|A partir de 109% e abaixo de 110% |1.242,65 |
-
-|A partir de 110% |1.365,94 |
+| Faixa de Arrecadação | Auditor Fiscal de Tributos Municipais e Auditor |
+| --- | --- |
+|  | Técnico de Tributos Municipais |
+|  | Quantidade de UREFTs por Trimestre - 2015 |
+| A partir de 90% e abaixo de 92% | 348,77 |
+| A partir de 92% e abaixo de 94% | 378,67 |
+| A partir de 94% e abaixo de 96% | 414,86 |
+| A partir de 96% e abaixo de 98% | 458,64 |
+| A partir de 98% e abaixo de 99% | 503,03 |
+| A partir de 99% e abaixo de 100% | 528,61 |
+| A partir de 100% e abaixo de 101% | 556,75 |
+| A partir de 101% e abaixo de 102% | 584,88 |
+| A partir de 102% e abaixo de 103% | 642,40 |
+| A partir de 103% e abaixo de 104% | 705,67 |
+| A partir de 104% e abaixo de 105% | 775,26 |
+| A partir de 105% e abaixo de 106% | 851,82 |
+| A partir de 106% e abaixo de 107% | 936,03 |
+| A partir de 107% e abaixo de 108% | 1.028,67 |
+| A partir de 108% e abaixo de 109% | 1.130,56 |
+| A partir de 109% e abaixo de 110% | 1.242,65 |
+| A partir de 110% | 1.365,94 |
 
 Anexo II acrescentado pela Lei nº 10.727, de 4/4/2014 (Art. 17)
 
@@ -628,45 +590,27 @@ ANEXO III
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO POR ESFORÇO FISCAL TRIBUTÁRIO – GEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2016
 
-|Faixa de Arrecadação |Auditor Fiscal de Tributos Municipais e Auditor|
-
-| |Técnico de Tributos Municipais |
-
-| |Quantidade de UREFTs por Trimestre - 2016 |
-
-|A partir de 90% e abaixo de 92% |357,45 |
-
-|A partir de 92% e abaixo de 94% |388,10 |
-
-|A partir de 94% e abaixo de 96% |425,19 |
-
-|A partir de 96% e abaixo de 98% |470,06 |
-
-|A partir de 98% e abaixo de 99% |515,56 |
-
-|A partir de 99% e abaixo de 100% |541,78 |
-
-|A partir de 100% e abaixo de 101% |570,61 |
-
-|A partir de 101% e abaixo de 102% |599,45 |
-
-|A partir de 102% e abaixo de 103% |658,40 |
-
-|A partir de 103% e abaixo de 104% |723,24 |
-
-|A partir de 104% e abaixo de 105% |794,57 |
-
-|A partir de 105% e abaixo de 106% |873,03 |
-
-|A partir de 106% e abaixo de 107% |959,34 |
-
-|A partir de 107% e abaixo de 108% |1.054,28 |
-
-|A partir de 108% e abaixo de 109% |1.158,71 |
-
-|A partir de 109% e abaixo de 110% |1.273,59 |
-
-|A partir de 110% |1.399,95 |
+| Faixa de Arrecadação | Auditor Fiscal de Tributos Municipais e Auditor |
+| --- | --- |
+|  | Técnico de Tributos Municipais |
+|  | Quantidade de UREFTs por Trimestre - 2016 |
+| A partir de 90% e abaixo de 92% | 357,45 |
+| A partir de 92% e abaixo de 94% | 388,10 |
+| A partir de 94% e abaixo de 96% | 425,19 |
+| A partir de 96% e abaixo de 98% | 470,06 |
+| A partir de 98% e abaixo de 99% | 515,56 |
+| A partir de 99% e abaixo de 100% | 541,78 |
+| A partir de 100% e abaixo de 101% | 570,61 |
+| A partir de 101% e abaixo de 102% | 599,45 |
+| A partir de 102% e abaixo de 103% | 658,40 |
+| A partir de 103% e abaixo de 104% | 723,24 |
+| A partir de 104% e abaixo de 105% | 794,57 |
+| A partir de 105% e abaixo de 106% | 873,03 |
+| A partir de 106% e abaixo de 107% | 959,34 |
+| A partir de 107% e abaixo de 108% | 1.054,28 |
+| A partir de 108% e abaixo de 109% | 1.158,71 |
+| A partir de 109% e abaixo de 110% | 1.273,59 |
+| A partir de 110% | 1.399,95 |
 
 Anexo III acrescentado pela Lei nº 10.727, de 4/4/2014 (Art. 17)
 
@@ -676,47 +620,28 @@ ANEXO IV
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO DE APOIO AO ESFORÇO FISCAL TRIBUTÁRIO – GAEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2014
 
-|Faixa de Arrecadação |Quantidade de URAEFTs por Trimestre - 2014 |
-
-| |Analista |Agente |Técnico Fazendário de Nível |Tesoureiro 8 |
-
-| |Fazendário 8 |Fazendário 8 |Médio |horas |
-
-| |horas |horas |8 horas | |
-
-|A partir de 90% e abaixo de 92% |160,47 |80,23 |80,23 |80,23 |
-
-|A partir de 92% e abaixo de 94% |174,23 |87,11 |87,11 |87,11 |
-
-|A partir de 94% e abaixo de 96% |190,88 |95,44 |95,44 |95,44 |
-
-|A partir de 96% e abaixo de 98% |211,03 |105,51 |105,51 |105,51 |
-
-|A partir de 98% e abaixo de 99% |231,45 |115,72 |115,72 |115,72 |
-
-|A partir de 99% e abaixo de 100% |243,22 |121,61 |121,61 |121,61 |
-
-|A partir de 100% e abaixo de 101% |256,17 |128,08 |128,08 |128,08 |
-
-|A partir de 101% e abaixo de 102% |269,11 |134,56 |134,56 |134,56 |
-
-|A partir de 102% e abaixo de 103% |295,58 |147,79 |147,79 |147,79 |
-
-|A partir de 103% e abaixo de 104% |324,69 |162,34 |162,34 |162,34 |
-
-|A partir de 104% e abaixo de 105% |356,71 |178,35 |178,35 |178,35 |
-
-|A partir de 105% e abaixo de 106% |391,93 |195,97 |195,97 |195,97 |
-
-|A partir de 106% e abaixo de 107% |430,68 |215,34 |215,34 |215,34 |
-
-|A partir de 107% e abaixo de 108% |473,30 |236,65 |236,65 |236,65 |
-
-|A partir de 108% e abaixo de 109% |520,18 |260,09 |260,09 |260,09 |
-
-|A partir de 109% e abaixo de 110% |571,76 |285,88 |285,88 |285,88 |
-
-|A partir de 110% |628,48 |314,24 |314,24 |314,24 |
+| Faixa de Arrecadação | Quantidade de URAEFTs por Trimestre - 2014 |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Analista | Agente | Técnico Fazendário de Nível | Tesoureiro 8 |
+|  | Fazendário 8 | Fazendário 8 | Médio | horas |
+|  | horas | horas | 8 horas |  |
+| A partir de 90% e abaixo de 92% | 160,47 | 80,23 | 80,23 | 80,23 |
+| A partir de 92% e abaixo de 94% | 174,23 | 87,11 | 87,11 | 87,11 |
+| A partir de 94% e abaixo de 96% | 190,88 | 95,44 | 95,44 | 95,44 |
+| A partir de 96% e abaixo de 98% | 211,03 | 105,51 | 105,51 | 105,51 |
+| A partir de 98% e abaixo de 99% | 231,45 | 115,72 | 115,72 | 115,72 |
+| A partir de 99% e abaixo de 100% | 243,22 | 121,61 | 121,61 | 121,61 |
+| A partir de 100% e abaixo de 101% | 256,17 | 128,08 | 128,08 | 128,08 |
+| A partir de 101% e abaixo de 102% | 269,11 | 134,56 | 134,56 | 134,56 |
+| A partir de 102% e abaixo de 103% | 295,58 | 147,79 | 147,79 | 147,79 |
+| A partir de 103% e abaixo de 104% | 324,69 | 162,34 | 162,34 | 162,34 |
+| A partir de 104% e abaixo de 105% | 356,71 | 178,35 | 178,35 | 178,35 |
+| A partir de 105% e abaixo de 106% | 391,93 | 195,97 | 195,97 | 195,97 |
+| A partir de 106% e abaixo de 107% | 430,68 | 215,34 | 215,34 | 215,34 |
+| A partir de 107% e abaixo de 108% | 473,30 | 236,65 | 236,65 | 236,65 |
+| A partir de 108% e abaixo de 109% | 520,18 | 260,09 | 260,09 | 260,09 |
+| A partir de 109% e abaixo de 110% | 571,76 | 285,88 | 285,88 | 285,88 |
+| A partir de 110% | 628,48 | 314,24 | 314,24 | 314,24 |
 
 Anexo IV acrescentado pela Lei nº 10.727, de 4/4/2014 (Art. 17)
 
@@ -726,67 +651,38 @@ ANEXO V
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO DE APOIO AO ESFORÇO FISCAL TRIBUTÁRIO – GAEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2015
 
-|Faixa de Arrecadação |Quantidade de URAEFTs por Trimestre - 2015 |
-
-| |Analista Fazendário |Agente Fazendário |Técnico Fazendário de Nível |Tesoureiro |
-
-| |8 horas |8 horas |Médio |8 horas |
-
-| | | |8 horas | |
-
-|A partir de 90% e abaixo de 92% |174,38 |87,19 |87,19 |87,19 |
-
-|A partir de 92% e abaixo de 94% |189,33 |94,67 |94,67 |94,67 |
-
-|A partir de 94% e abaixo de 96% |207,43 |103,72 |103,72 |103,72 |
-
-|A partir de 96% e abaixo de 98% |229,32 |114,66 |114,66 |114,66 |
-
-|A partir de 98% e abaixo de 99% |251,51 |125,76 |125,76 |125,76 |
-
-|A partir de 99% e abaixo de 100%|264,30 |132,16 |132,16 |132,16 |
-
-|A partir de 100% e abaixo de |278,37 |139,19 |139,19 |139,19 |
-
-|101% | | | | |
-
-|A partir de 101% e abaixo de |292,44 |146,22 |146,22 |146,22 |
-
-|102% | | | | |
-
-|A partir de 102% e abaixo de |321,20 |160,60 |160,60 |160,60 |
-
-|103% | | | | |
-
-|A partir de 103% e abaixo de |352,84 |176,42 |176,42 |176,42 |
-
-|104% | | | | |
-
-|A partir de 104% e abaixo de |387,63 |193,82 |193,82 |193,82 |
-
-|105% | | | | |
-
-|A partir de 105% e abaixo de |425,91 |212,96 |212,96 |212,96 |
-
-|106% | | | | |
-
-|A partir de 106% e abaixo de |468,01 |234,01 |234,01 |234,01 |
-
-|107% | | | | |
-
-|A partir de 107% e abaixo de |514,34 |257,17 |257,17 |257,17 |
-
-|108% | | | | |
-
-|A partir de 108% e abaixo de |565,28 |282,64 |282,64 |282,64 |
-
-|109% | | | | |
-
-|A partir de 109% e abaixo de |621,33 |310,66 |310,66 |310,66 |
-
-|110% | | | | |
-
-|A partir de 110% |682,97 |341,48 |341,48 |341,48 |
+| Faixa de Arrecadação | Quantidade de URAEFTs por Trimestre - 2015 |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Analista Fazendário | Agente Fazendário | Técnico Fazendário de Nível | Tesoureiro |
+|  | 8 horas | 8 horas | Médio | 8 horas |
+|  |  |  | 8 horas |  |
+| A partir de 90% e abaixo de 92% | 174,38 | 87,19 | 87,19 | 87,19 |
+| A partir de 92% e abaixo de 94% | 189,33 | 94,67 | 94,67 | 94,67 |
+| A partir de 94% e abaixo de 96% | 207,43 | 103,72 | 103,72 | 103,72 |
+| A partir de 96% e abaixo de 98% | 229,32 | 114,66 | 114,66 | 114,66 |
+| A partir de 98% e abaixo de 99% | 251,51 | 125,76 | 125,76 | 125,76 |
+| A partir de 99% e abaixo de 100% | 264,30 | 132,16 | 132,16 | 132,16 |
+| A partir de 100% e abaixo de | 278,37 | 139,19 | 139,19 | 139,19 |
+| 101% |  |  |  |  |
+| A partir de 101% e abaixo de | 292,44 | 146,22 | 146,22 | 146,22 |
+| 102% |  |  |  |  |
+| A partir de 102% e abaixo de | 321,20 | 160,60 | 160,60 | 160,60 |
+| 103% |  |  |  |  |
+| A partir de 103% e abaixo de | 352,84 | 176,42 | 176,42 | 176,42 |
+| 104% |  |  |  |  |
+| A partir de 104% e abaixo de | 387,63 | 193,82 | 193,82 | 193,82 |
+| 105% |  |  |  |  |
+| A partir de 105% e abaixo de | 425,91 | 212,96 | 212,96 | 212,96 |
+| 106% |  |  |  |  |
+| A partir de 106% e abaixo de | 468,01 | 234,01 | 234,01 | 234,01 |
+| 107% |  |  |  |  |
+| A partir de 107% e abaixo de | 514,34 | 257,17 | 257,17 | 257,17 |
+| 108% |  |  |  |  |
+| A partir de 108% e abaixo de | 565,28 | 282,64 | 282,64 | 282,64 |
+| 109% |  |  |  |  |
+| A partir de 109% e abaixo de | 621,33 | 310,66 | 310,66 | 310,66 |
+| 110% |  |  |  |  |
+| A partir de 110% | 682,97 | 341,48 | 341,48 | 341,48 |
 
 Anexo V acrescentado pela Lei nº 10.727, de 4/4/2014 (Art. 17)
 
@@ -796,47 +692,28 @@ ANEXO VI
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO DE APOIO AO ESFORÇO FISCAL TRIBUTÁRIO – GAEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2016
 
-|Faixa de Arrecadação |Quantidade de URAEFTs por Trimestre - 2016 |
-
-| |Analista |Agente |Técnico Fazendário de Nível |Tesoureiro 8 |
-
-| |Fazendário |Fazendário 8 |Médio |horas |
-
-| |8 horas |horas |8 horas | |
-
-|A partir de 90% e abaixo de 92% |178,73 |89,36 |89,36 |89,36 |
-
-|A partir de 92% e abaixo de 94% |194,05 |97,02 |97,02 |97,02 |
-
-|A partir de 94% e abaixo de 96% |212,60 |106,29 |106,29 |106,29 |
-
-|A partir de 96% e abaixo de 98% |235,03 |117,51 |117,51 |117,51 |
-
-|A partir de 98% e abaixo de 99% |257,78 |128,89 |128,89 |128,89 |
-
-|A partir de 99% e abaixo de 100% |270,89 |135,44 |135,44 |135,44 |
-
-|A partir de 100% e abaixo de 101% |285,31 |142,65 |142,65 |142,65 |
-
-|A partir de 101% e abaixo de 102% |299,72 |149,86 |149,86 |149,86 |
-
-|A partir de 102% e abaixo de 103% |329,20 |164,60 |164,60 |164,60 |
-
-|A partir de 103% e abaixo de 104% |361,62 |180,81 |180,81 |180,81 |
-
-|A partir de 104% e abaixo de 105% |397,28 |198,64 |198,64 |198,64 |
-
-|A partir de 105% e abaixo de 106% |436,52 |218,26 |218,26 |218,26 |
-
-|A partir de 106% e abaixo de 107% |479,67 |239,83 |239,83 |239,83 |
-
-|A partir de 107% e abaixo de 108% |527,14 |263,57 |263,57 |263,57 |
-
-|A partir de 108% e abaixo de 109% |579,36 |289,68 |289,68 |289,68 |
-
-|A partir de 109% e abaixo de 110% |636,80 |318,40 |318,40 |318,40 |
-
-|A partir de 110% |699,98 |349,99 |349,99 |349,99 |
+| Faixa de Arrecadação | Quantidade de URAEFTs por Trimestre - 2016 |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Analista | Agente | Técnico Fazendário de Nível | Tesoureiro 8 |
+|  | Fazendário | Fazendário 8 | Médio | horas |
+|  | 8 horas | horas | 8 horas |  |
+| A partir de 90% e abaixo de 92% | 178,73 | 89,36 | 89,36 | 89,36 |
+| A partir de 92% e abaixo de 94% | 194,05 | 97,02 | 97,02 | 97,02 |
+| A partir de 94% e abaixo de 96% | 212,60 | 106,29 | 106,29 | 106,29 |
+| A partir de 96% e abaixo de 98% | 235,03 | 117,51 | 117,51 | 117,51 |
+| A partir de 98% e abaixo de 99% | 257,78 | 128,89 | 128,89 | 128,89 |
+| A partir de 99% e abaixo de 100% | 270,89 | 135,44 | 135,44 | 135,44 |
+| A partir de 100% e abaixo de 101% | 285,31 | 142,65 | 142,65 | 142,65 |
+| A partir de 101% e abaixo de 102% | 299,72 | 149,86 | 149,86 | 149,86 |
+| A partir de 102% e abaixo de 103% | 329,20 | 164,60 | 164,60 | 164,60 |
+| A partir de 103% e abaixo de 104% | 361,62 | 180,81 | 180,81 | 180,81 |
+| A partir de 104% e abaixo de 105% | 397,28 | 198,64 | 198,64 | 198,64 |
+| A partir de 105% e abaixo de 106% | 436,52 | 218,26 | 218,26 | 218,26 |
+| A partir de 106% e abaixo de 107% | 479,67 | 239,83 | 239,83 | 239,83 |
+| A partir de 107% e abaixo de 108% | 527,14 | 263,57 | 263,57 | 263,57 |
+| A partir de 108% e abaixo de 109% | 579,36 | 289,68 | 289,68 | 289,68 |
+| A partir de 109% e abaixo de 110% | 636,80 | 318,40 | 318,40 | 318,40 |
+| A partir de 110% | 699,98 | 349,99 | 349,99 | 349,99 |
 
 Anexo VI acrescentado pela Lei nº 10.727, de 4/4/2014 (Art. 17)
 
@@ -844,53 +721,31 @@ ANEXO VI
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO DE APOIO AO ESFORÇO FISCAL TRIBUTÁRIO - GAEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE AGOSTO DE 2018.
 
-|Faixa de Arrecadação |Quantidade de URAEFTs por |
-
-| |Trimestre - 2018 |
-
-| |Quantidade de URAEFTs por |
-
-| |Trimestre - 2018 |
-
-| |Analista Fazendário |Agente |Técnico |Tesoureiro 8 |
-
-| |8 horas |Fazendário 8 |Fazendário de |horas |
-
-| | |horas |Nível Médio | |
-
-|A partir de 90% e abaixo de 92% |146,78 |73,11 |73,11 |74,01 |
-
-|A partir de 92% e abaixo de 94% |159,36 |79,37 |79,37 |80,35 |
-
-|A partir de 94% e abaixo de 96% |174,59 |86,96 |86,96 |88,03 |
-
-|A partir de 96% e abaixo de 98% |193,01 |96,13 |96,13 |97,32 |
-
-|A partir de 98% e abaixo de 99% |211,69 |105,44 |105,44 |106,74 |
-
-|A partir de 99% e abaixo de 100% |222,46 |110,80 |110,80 |112,17 |
-
-|A partir de 100% e abaixo de 101% |234,30 |116,70 |116,70 |118,14 |
-
-|A partir de 101% e abaixo de 102% |246,13 |122,60 |122,60 |124,11 |
-
-|A partir de 102% e abaixo de 103% |270,34 |134,66 |134,66 |136,32 |
-
-|A partir de 103% e abaixo de 104% |296,97 |147,92 |147,92 |149,74 |
-
-|A partir de 104% e abaixo de 105% |326,25 |162,50 |162,50 |164,51 |
-
-|A partir de 105% e abaixo de 106% |358,48 |178,56 |178,56 |180,76 |
-
-|A partir de 106% e abaixo de 107% |393,91 |196,20 |196,20 |198,62 |
-
-|A partir de 107% e abaixo de 108% |432,89 |215,62 |215,62 |218,28 |
-
-|A partir de 108% e abaixo de 109% |475,78 |236,98 |236,98 |239,91 |
-
-|A partir de 109% e abaixo de 110% |522,95 |260,48 |260,48 |263,69 |
-
-|A partir de 110% |574,83 |286,32 |286,32 |289,86 |
+| Faixa de Arrecadação | Quantidade de URAEFTs por |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Trimestre - 2018 |  |  |  |
+|  | Quantidade de URAEFTs por |  |  |  |
+|  | Trimestre - 2018 |  |  |  |
+|  | Analista Fazendário | Agente | Técnico | Tesoureiro 8 |
+|  | 8 horas | Fazendário 8 | Fazendário de | horas |
+|  |  | horas | Nível Médio |  |
+| A partir de 90% e abaixo de 92% | 146,78 | 73,11 | 73,11 | 74,01 |
+| A partir de 92% e abaixo de 94% | 159,36 | 79,37 | 79,37 | 80,35 |
+| A partir de 94% e abaixo de 96% | 174,59 | 86,96 | 86,96 | 88,03 |
+| A partir de 96% e abaixo de 98% | 193,01 | 96,13 | 96,13 | 97,32 |
+| A partir de 98% e abaixo de 99% | 211,69 | 105,44 | 105,44 | 106,74 |
+| A partir de 99% e abaixo de 100% | 222,46 | 110,80 | 110,80 | 112,17 |
+| A partir de 100% e abaixo de 101% | 234,30 | 116,70 | 116,70 | 118,14 |
+| A partir de 101% e abaixo de 102% | 246,13 | 122,60 | 122,60 | 124,11 |
+| A partir de 102% e abaixo de 103% | 270,34 | 134,66 | 134,66 | 136,32 |
+| A partir de 103% e abaixo de 104% | 296,97 | 147,92 | 147,92 | 149,74 |
+| A partir de 104% e abaixo de 105% | 326,25 | 162,50 | 162,50 | 164,51 |
+| A partir de 105% e abaixo de 106% | 358,48 | 178,56 | 178,56 | 180,76 |
+| A partir de 106% e abaixo de 107% | 393,91 | 196,20 | 196,20 | 198,62 |
+| A partir de 107% e abaixo de 108% | 432,89 | 215,62 | 215,62 | 218,28 |
+| A partir de 108% e abaixo de 109% | 475,78 | 236,98 | 236,98 | 239,91 |
+| A partir de 109% e abaixo de 110% | 522,95 | 260,48 | 260,48 | 263,69 |
+| A partir de 110% | 574,83 | 286,32 | 286,32 | 289,86 |
 
 Anexo VI com redação dada pela Lei nº 11.134, de 17/10/2018 (Art. 19)
 
@@ -898,47 +753,28 @@ ANEXO VI
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO DE APOIO AO ESFORÇO FISCAL TRIBUTÁRIO – GAEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS A PARTIR DE 1º DE ABRIL DE 2020.
 
-|Faixa de Arrecadação |Quantidade de URAEFTs por Trimestre |
-
-| |Analista Fazendário 8 |Agente Fazendário |Técnico Fazendário de |Tesoureiro |
-
-| |horas |8 horas |Nível Médio |8 horas |
-
-| | | |8 horas | |
-
-|A partir de 90% e abaixo de 92% |100,10 |50,93 |50,93 |48,07 |
-
-|A partir de 92% e abaixo de 94% |108,68 |55,30 |55,30 |52,19 |
-
-|A partir de 94% e abaixo de 96% |119,07 |60,58 |60,58 |57,18 |
-
-|A partir de 96% e abaixo de 98% |131,63 |66,98 |66,98 |63,21 |
-
-|A partir de 98% e abaixo de 99% |144,37 |73,46 |73,46 |69,33 |
-
-|A partir de 99% e abaixo de 100% |151,72 |77,20 |77,20 |72,85 |
-
-|A partir de 100% e abaixo de 101% |159,79 |81,30 |81,30 |76,73 |
-
-|A partir de 101% e abaixo de 102% |167,86 |85,41 |85,41 |80,61 |
-
-|A partir de 102% e abaixo de 103% |184,37 |93,82 |93,82 |88,54 |
-
-|A partir de 103% e abaixo de 104% |202,53 |103,05 |103,05 |97,26 |
-
-|A partir de 104% e abaixo de 105% |222,50 |113,22 |113,22 |106,85 |
-
-|A partir de 105% e abaixo de 106% |244,48 |124,40 |124,40 |117,40 |
-
-|A partir de 106% e abaixo de 107% |268,65 |136,69 |136,69 |129,01 |
-
-|A partir de 107% e abaixo de 108% |295,23 |150,22 |150,22 |141,78 |
-
-|A partir de 108% e abaixo de 109% |324,48 |165,11 |165,11 |155,82 |
-
-|A partir de 109% e abaixo de 110% |356,65 |181,48 |181,48 |171,27 |
-
-|A partir de 110% |392,04 |199,48 |199,48 |188,26 |
+| Faixa de Arrecadação | Quantidade de URAEFTs por Trimestre |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Analista Fazendário 8 | Agente Fazendário | Técnico Fazendário de | Tesoureiro |
+|  | horas | 8 horas | Nível Médio | 8 horas |
+|  |  |  | 8 horas |  |
+| A partir de 90% e abaixo de 92% | 100,10 | 50,93 | 50,93 | 48,07 |
+| A partir de 92% e abaixo de 94% | 108,68 | 55,30 | 55,30 | 52,19 |
+| A partir de 94% e abaixo de 96% | 119,07 | 60,58 | 60,58 | 57,18 |
+| A partir de 96% e abaixo de 98% | 131,63 | 66,98 | 66,98 | 63,21 |
+| A partir de 98% e abaixo de 99% | 144,37 | 73,46 | 73,46 | 69,33 |
+| A partir de 99% e abaixo de 100% | 151,72 | 77,20 | 77,20 | 72,85 |
+| A partir de 100% e abaixo de 101% | 159,79 | 81,30 | 81,30 | 76,73 |
+| A partir de 101% e abaixo de 102% | 167,86 | 85,41 | 85,41 | 80,61 |
+| A partir de 102% e abaixo de 103% | 184,37 | 93,82 | 93,82 | 88,54 |
+| A partir de 103% e abaixo de 104% | 202,53 | 103,05 | 103,05 | 97,26 |
+| A partir de 104% e abaixo de 105% | 222,50 | 113,22 | 113,22 | 106,85 |
+| A partir de 105% e abaixo de 106% | 244,48 | 124,40 | 124,40 | 117,40 |
+| A partir de 106% e abaixo de 107% | 268,65 | 136,69 | 136,69 | 129,01 |
+| A partir de 107% e abaixo de 108% | 295,23 | 150,22 | 150,22 | 141,78 |
+| A partir de 108% e abaixo de 109% | 324,48 | 165,11 | 165,11 | 155,82 |
+| A partir de 109% e abaixo de 110% | 356,65 | 181,48 | 181,48 | 171,27 |
+| A partir de 110% | 392,04 | 199,48 | 199,48 | 188,26 |
 
 Anexo VI com redação dada pela Lei nº 11.224, de 19/3/2020 (Art. 17)
 

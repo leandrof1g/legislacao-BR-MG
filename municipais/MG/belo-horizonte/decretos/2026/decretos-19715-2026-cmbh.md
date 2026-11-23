@@ -46,81 +46,45 @@ ANEXO I
 
 (a que se refere o art. 2º do Decreto nº 16.676, de 31 de agosto de 2017)
 
-|DISTRIBUIÇÃO DE PONTOS UNITÁRIOS DE DAM E FCA |
-
-|ÓRGÃOS |TOTAL DE PONTOS DAM |TOTAL DE PONTOS FCA |
-
-| |UNITÁRIOS |UNITÁRIOS |
-
-|Secretaria Municipal de Assistência Social e |347 |129 |
-
-|Direitos Humanos | | |
-
-|Secretaria Municipal de Segurança Alimentar e |157 |49 |
-
-|Nutricional | | |
-
-|Secretaria Municipal de Relações Institucionais |474,5 |2,5 |
-
-|Secretaria Municipal de Cultura |146 |11,5 |
-
-|Secretaria Municipal de Desenvolvimento Econômico,|98,5 |12 |
-
-|Trabalho e Relações Internacionais | | |
-
-|Secretaria Municipal de Educação |229 |30 |
-
-|Secretaria Municipal de Esportes e Lazer |162 |11,5 |
-
-|Secretaria Municipal de Fazenda |244,5 |64 |
-
-|Secretaria Municipal de Administração Logística e |162,5 |111,5 |
-
-|Patrimonial | | |
-
-|Secretaria Municipal de Governo |131,5 |5 |
-
-|Secretaria Municipal de Meio Ambiente |185 |2,5 |
-
-|Secretaria Municipal de Obras e Infraestrutura |488,5 |20,5 |
-
-|Secretaria Municipal de Planejamento, Orçamento e |436 |87,5 |
-
-|Gestão | | |
-
-|Secretaria Municipal de Política Urbana |505,5 |51,5 |
-
-|Secretaria Municipal de Saúde |319,5 |19 |
-
-|Secretaria Municipal de Segurança e Prevenção |203,5 |28 |
-
-|Secretaria Municipal de Mobilidade Urbana |55 |0 |
-
-|Secretaria-Geral |93 |1 |
-
-|Procuradoria-Geral do Município |438,5 |12,5 |
-
-|Controladoria-Geral do Município |122,5 |2,5 |
-
-|Fundação de Parques Municipais e Zoobotânica |238 |25 |
-
-|Fundação Municipal de Cultura |195,5 |31 |
-
-|Gabinete do Prefeito |451 |38 |
-
-|Gabinete do Vice-Prefeito |0 |0 |
-
-|Hospital Metropolitano Odilon Behrens |174 |0 |
-
-|Superintendência de Desenvolvimento da Capital |298 |9,5 |
-
-|Superintendência de Limpeza Urbana |240 |39 |
-
-|Superintendência de Mobilidade do Município de |217,5 |30 |
-
-|Belo Horizonte | | |
-
-|TOTAL DE PONTOS |6.813,5 |823,5 |
+| DISTRIBUIÇÃO DE PONTOS UNITÁRIOS DE DAM E FCA |  |  |
+| --- | --- | --- |
+| ÓRGÃOS | TOTAL DE PONTOS DAM | TOTAL DE PONTOS FCA |
+|  | UNITÁRIOS | UNITÁRIOS |
+| Secretaria Municipal de Assistência Social e | 347 | 129 |
+| Direitos Humanos |  |  |
+| Secretaria Municipal de Segurança Alimentar e | 157 | 49 |
+| Nutricional |  |  |
+| Secretaria Municipal de Relações Institucionais | 474,5 | 2,5 |
+| Secretaria Municipal de Cultura | 146 | 11,5 |
+| Secretaria Municipal de Desenvolvimento Econômico, | 98,5 | 12 |
+| Trabalho e Relações Internacionais |  |  |
+| Secretaria Municipal de Educação | 229 | 30 |
+| Secretaria Municipal de Esportes e Lazer | 162 | 11,5 |
+| Secretaria Municipal de Fazenda | 244,5 | 64 |
+| Secretaria Municipal de Administração Logística e | 162,5 | 111,5 |
+| Patrimonial |  |  |
+| Secretaria Municipal de Governo | 131,5 | 5 |
+| Secretaria Municipal de Meio Ambiente | 185 | 2,5 |
+| Secretaria Municipal de Obras e Infraestrutura | 488,5 | 20,5 |
+| Secretaria Municipal de Planejamento, Orçamento e | 436 | 87,5 |
+| Gestão |  |  |
+| Secretaria Municipal de Política Urbana | 505,5 | 51,5 |
+| Secretaria Municipal de Saúde | 319,5 | 19 |
+| Secretaria Municipal de Segurança e Prevenção | 203,5 | 28 |
+| Secretaria Municipal de Mobilidade Urbana | 55 | 0 |
+| Secretaria-Geral | 93 | 1 |
+| Procuradoria-Geral do Município | 438,5 | 12,5 |
+| Controladoria-Geral do Município | 122,5 | 2,5 |
+| Fundação de Parques Municipais e Zoobotânica | 238 | 25 |
+| Fundação Municipal de Cultura | 195,5 | 31 |
+| Gabinete do Prefeito | 451 | 38 |
+| Gabinete do Vice-Prefeito | 0 | 0 |
+| Hospital Metropolitano Odilon Behrens | 174 | 0 |
+| Superintendência de Desenvolvimento da Capital | 298 | 9,5 |
+| Superintendência de Limpeza Urbana | 240 | 39 |
+| Superintendência de Mobilidade do Município de | 217,5 | 30 |
+| Belo Horizonte |  |  |
+| TOTAL DE PONTOS | 6.813,5 | 823,5 |
 
 ”
 
@@ -134,58 +98,33 @@ ANEXO II
 
 IV.2 – Secretaria Municipal de Relações Institucionais – SMRI:
 
-|SMRI |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |2 |SMRI.DAM1.L.001 a SMRI.DAM1.L.002 |
-
-| |AMPLO |7 |SMRI.DAM1.A.001 a SMRI.DAM1.A.007 |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |31 |SMRI.DAM2.A.001 a SMRI.DAM2.A.031 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |54 |SMRI.DAM3.A.001 a SMRI.DAM3.A.054 |
-
-|DAM-4 |LIMITADO |0 |- |
-
-| |AMPLO |44 |SMRI.DAM4.A.001 a SMRI.DAM4.A.044 |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |17 |SMRI.DAM5.A.001 a SMRI.DAM5.A.017 |
-
-|DAM-6 |LIMITADO |0 |- |
-
-| |AMPLO |18 |SMRI.DAM6.A.001 a SMRI.DAM6.A.018 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMRI.DAM7.A.001 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMRI.DAM8.A.001 |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMRI.DAM9.A.001 |
-
-|FCA-1 |LIMITADO |1 |SMRI.FCA1.001 |
-
-|FCA-2 |LIMITADO |1 |SMRI.FCA2.001 |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |178 | |
+| SMRI |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 2 | SMRI.DAM1.L.001 a SMRI.DAM1.L.002 |
+|  | AMPLO | 7 | SMRI.DAM1.A.001 a SMRI.DAM1.A.007 |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 31 | SMRI.DAM2.A.001 a SMRI.DAM2.A.031 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 54 | SMRI.DAM3.A.001 a SMRI.DAM3.A.054 |
+| DAM-4 | LIMITADO | 0 | - |
+|  | AMPLO | 44 | SMRI.DAM4.A.001 a SMRI.DAM4.A.044 |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 17 | SMRI.DAM5.A.001 a SMRI.DAM5.A.017 |
+| DAM-6 | LIMITADO | 0 | - |
+|  | AMPLO | 18 | SMRI.DAM6.A.001 a SMRI.DAM6.A.018 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMRI.DAM7.A.001 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMRI.DAM8.A.001 |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMRI.DAM9.A.001 |
+| FCA-1 | LIMITADO | 1 | SMRI.FCA1.001 |
+| FCA-2 | LIMITADO | 1 | SMRI.FCA2.001 |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 178 |  |  |
 
 ”

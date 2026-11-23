@@ -70,45 +70,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º |R$ |
-
-|do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei nº | |
-
-|11.594, de 22 de setembro de 2023: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2334.339039.706 |100.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.700 |12.434,32 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0020.2878.449052.660 |150.144,21 |
-
-|1011.08.244.0019.2308.339039.660 |209.061,59 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.449052.621 |34.933,28 |
-
-|2302.10.305.0028.2829.339030.621 |359.258,37 |
-
-|2302.10.301.0157.2690.339030.621 |11.400,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2930.339039.715 |113.500,00 |
-
-|Fundo Municipal de Cultura – FPC |
-
-|3101.13.392.0170.2369.339036.501 |509.493,00 |
-
-|3101.13.392.0170.2369.339039.501 |368.507,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.868.731,77 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei nº |  |
+| 11.594, de 22 de setembro de 2023: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2334.339039.706 | 100.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.700 | 12.434,32 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0020.2878.449052.660 | 150.144,21 |
+| 1011.08.244.0019.2308.339039.660 | 209.061,59 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.449052.621 | 34.933,28 |
+| 2302.10.305.0028.2829.339030.621 | 359.258,37 |
+| 2302.10.301.0157.2690.339030.621 | 11.400,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2930.339039.715 | 113.500,00 |
+| Fundo Municipal de Cultura – FPC |  |
+| 3101.13.392.0170.2369.339036.501 | 509.493,00 |
+| 3101.13.392.0170.2369.339039.501 | 368.507,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.868.731,77 |
 
 ANEXO II
 

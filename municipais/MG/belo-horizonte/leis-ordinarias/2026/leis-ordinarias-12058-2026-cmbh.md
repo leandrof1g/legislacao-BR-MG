@@ -40,9 +40,9 @@ DIA COMEMORATIVO
 
 J - Dias comemorativos de outubro:
 
-|OUTUBRO |COMEMORAÇÃO |
-
-|16 de outubro |Dia Municipal Alusivo ao Programa Desperdício Zero |
+| OUTUBRO | COMEMORAÇÃO |
+| --- | --- |
+| 16 de outubro | Dia Municipal Alusivo ao Programa Desperdício Zero |
 
 ”.
 

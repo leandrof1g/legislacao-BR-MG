@@ -78,83 +78,46 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339032.2.550.000 |808.806,42 |
-
-|2200.12.365.0169.2542.339032.2.550.000 |4.344.159,16 |
-
-|2200.12.361.0168.2046.445051.2.710.610 |700.000,00 |
-
-|2200.12.366.0168.2080.339032.2.550.000 |108.602,10 |
-
-|2200.12.361.0167.2080.339032.2.550.000 |4.888,08 |
-
-|2200.12.365.0169.2542.445042.2.500.000 |100.000,00 |
-
-|2200.12.361.0168.2046.445052.2.710.610 |200.505,11 |
-
-|2200.12.365.0169.2542.445051.2.710.620 |50.000,00 |
-
-|2200.12.365.0169.2046.445052.2.710.620 |80.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0317.1334.339039.2.751.000 |183.723,20 |
-
-|2100.06.181.0109.2803.339039.2.501.784 |148.285,76 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0309.2792.339048.2.665.000 |3.600.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.0146.2338.339039.2.501.784 |80.000,00 |
-
-|3103.13.122.0146.2338.449052.2.706.510 |100.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449193.2.703.000 |2.695,57 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.449052.2.710.620 |959.621,00 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.0007.2900.449052.2.710.620 |240.892,08 |
-
-|Fundo Municipal de Mobilidade Urbana – FMU |
-
-|3502.26.452.0060.2837.339030.2.752.000 |377.714,53 |
-
-|3502.26.452.0060.2837.339040.2.752.000 |313.948,30 |
-
-|3502.26.452.0060.2837.449052.2.752.000 |205.160,15 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|3503.26.452.0060.2567.339030.2.501.784 |175.180,00 |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.449052.2.710.620 |72.036,00 |
-
-|Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |
-
-|3102.13.391.0155.2375.339039.2.501.000 |3.846.250,00 |
-
-|3102.13.391.0155.2375.449052.2.501.000 |750.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |17.452.467,46 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339032.2.550.000 | 808.806,42 |
+| 2200.12.365.0169.2542.339032.2.550.000 | 4.344.159,16 |
+| 2200.12.361.0168.2046.445051.2.710.610 | 700.000,00 |
+| 2200.12.366.0168.2080.339032.2.550.000 | 108.602,10 |
+| 2200.12.361.0167.2080.339032.2.550.000 | 4.888,08 |
+| 2200.12.365.0169.2542.445042.2.500.000 | 100.000,00 |
+| 2200.12.361.0168.2046.445052.2.710.610 | 200.505,11 |
+| 2200.12.365.0169.2542.445051.2.710.620 | 50.000,00 |
+| 2200.12.365.0169.2046.445052.2.710.620 | 80.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0317.1334.339039.2.751.000 | 183.723,20 |
+| 2100.06.181.0109.2803.339039.2.501.784 | 148.285,76 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0309.2792.339048.2.665.000 | 3.600.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.0146.2338.339039.2.501.784 | 80.000,00 |
+| 3103.13.122.0146.2338.449052.2.706.510 | 100.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449193.2.703.000 | 2.695,57 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.449052.2.710.620 | 959.621,00 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.0007.2900.449052.2.710.620 | 240.892,08 |
+| Fundo Municipal de Mobilidade Urbana – FMU |  |
+| 3502.26.452.0060.2837.339030.2.752.000 | 377.714,53 |
+| 3502.26.452.0060.2837.339040.2.752.000 | 313.948,30 |
+| 3502.26.452.0060.2837.449052.2.752.000 | 205.160,15 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3503.26.452.0060.2567.339030.2.501.784 | 175.180,00 |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.449052.2.710.620 | 72.036,00 |
+| Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |  |
+| 3102.13.391.0155.2375.339039.2.501.000 | 3.846.250,00 |
+| 3102.13.391.0155.2375.449052.2.501.000 | 750.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 17.452.467,46 |
 
 ANEXO II
 
@@ -260,26 +223,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares não contida nos arts. 4º e 5º |do valor do Orçamento |
-
-|da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 297.977.880,07 |
-
-|Valor do decreto publicado nesta data |R$ 17.452.467,46 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 315.430.347,53 |
-
-|Saldo atual de créditos suplementares |R$ 2.177.004.720,07 |
-
-|Percentual utilizado |12,66% |
-
-|Atualizado em 10/02/2026 às 16:05:13 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares não contida nos arts. 4º e 5º | do valor do Orçamento |
+| da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 297.977.880,07 |
+| Valor do decreto publicado nesta data | R$ 17.452.467,46 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 315.430.347,53 |
+| Saldo atual de créditos suplementares | R$ 2.177.004.720,07 |
+| Percentual utilizado | 12,66% |
+| Atualizado em 10/02/2026 às 16:05:13 |  |

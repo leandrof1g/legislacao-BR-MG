@@ -60,17 +60,13 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § 1º do|R$ |
-
-|art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei nº 11.802,| |
-
-|de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.122.0146.2338.339039.1.710.610 |45.266,91 |
-
-|TOTAL DA SUPLEMENTAÇÃO |45.266,91 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § 1º do | R$ |
+| --- | --- |
+| art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei nº 11.802, |  |
+| de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.122.0146.2338.339039.1.710.610 | 45.266,91 |
+| TOTAL DA SUPLEMENTAÇÃO | 45.266,91 |
 
 ANEXO II
 
@@ -96,24 +92,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 901.611.600,38 |
-
-|Valor do Decreto publicado nesta data |R$ 45.266,91 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 901.656.867,29 |
-
-|Saldo atual de créditos suplementares |R$ 1.363.723.930,01 |
-
-|Percentual utilizado |39,80% |
-
-|Atualizado em 16/10/2025 às 14:41:31 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 901.611.600,38 |
+| Valor do Decreto publicado nesta data | R$ 45.266,91 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 901.656.867,29 |
+| Saldo atual de créditos suplementares | R$ 1.363.723.930,01 |
+| Percentual utilizado | 39,80% |
+| Atualizado em 16/10/2025 às 14:41:31 |  |

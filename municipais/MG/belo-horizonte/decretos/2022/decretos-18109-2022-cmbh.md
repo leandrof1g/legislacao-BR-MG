@@ -68,43 +68,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no |R$ |
-
-|inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de | |
-
-|1964, e no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.629.3390.0007 |33.208,91 |
-
-|2805.23.695.086.2.629.3390.0030 |974.600,49 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.146.2.900.3390.0006 |85.000,00 |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.09.272.026.3.004.3190.0000 |15.000.000,00 |
-
-|TOTAL |16.092.809,40 |
-
-|I.1.2 - A favor do Fundo Municipal de Saúde – FMS –, conforme autorização |R$ |
-
-|contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de | |
-
-|março de 1964, e no inciso II do art. 4º da Lei nº 11.336, de 30 de | |
-
-|dezembro de 2021: | |
-
-|2302.10.302.114.2.893.3390.0050 |367.877,53 |
-
-|2302.10.305.028.2.829.3390.0050 |6.299.598,49 |
-
-|TOTAL |6.667.476,02 |
-
-|TOTAL DA SUPLEMENTAÇÃO |22.760.285,42 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no | R$ |
+| --- | --- |
+| inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de |  |
+| 1964, e no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.629.3390.0007 | 33.208,91 |
+| 2805.23.695.086.2.629.3390.0030 | 974.600,49 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.146.2.900.3390.0006 | 85.000,00 |
+| Fundo Financeiro – FUFIN |  |
+| 0613.09.272.026.3.004.3190.0000 | 15.000.000,00 |
+| TOTAL | 16.092.809,40 |
+| I.1.2 - A favor do Fundo Municipal de Saúde – FMS –, conforme autorização | R$ |
+| contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de |  |
+| março de 1964, e no inciso II do art. 4º da Lei nº 11.336, de 30 de |  |
+| dezembro de 2021: |  |
+| 2302.10.302.114.2.893.3390.0050 | 367.877,53 |
+| 2302.10.305.028.2.829.3390.0050 | 6.299.598,49 |
+| TOTAL | 6.667.476,02 |
+| TOTAL DA SUPLEMENTAÇÃO | 22.760.285,42 |
 
 ANEXO II
 
@@ -140,36 +123,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do |Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|art. 4º, limite de 15% |4º, limite de 15% do total |
-
-|- Limites autorizados |Orçamento: |do total do Orçamento |do Orçamento do Fundo |
-
-|para abertura de | |do Grupo 1 - Pessoal e |Municipal de Saúde - FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 780.693.608,49 |R$ 144.535.272,88 |R$ 473.519.677,29 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 1.520.457.077,16 |R$ 739.457.035,82 |R$ 253.697.475,36 |
-
-|suplementares | | | |
-
-|Percentual utilizado |33,93% |16,35% |65,11% |
-
-|Atualizado em 27/09/2022 às 15:29:49 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | art. 4º, limite de 15% | 4º, limite de 15% do total |
+| - Limites autorizados | Orçamento: | do total do Orçamento | do Orçamento do Fundo |
+| para abertura de |  | do Grupo 1 - Pessoal e | Municipal de Saúde - FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 780.693.608,49 | R$ 144.535.272,88 | R$ 473.519.677,29 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 1.520.457.077,16 | R$ 739.457.035,82 | R$ 253.697.475,36 |
+| suplementares |  |  |  |
+| Percentual utilizado | 33,93% | 16,35% | 65,11% |
+| Atualizado em 27/09/2022 às 15:29:49 |  |  |  |

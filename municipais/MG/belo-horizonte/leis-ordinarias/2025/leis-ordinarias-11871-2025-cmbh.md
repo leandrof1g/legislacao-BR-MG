@@ -34,9 +34,9 @@ DIA COMEMORATIVO
 
 E - Dias comemorativos de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|17/5 |Dia da Conscientização sobre a Enterocolite Necrosante - NEC |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 17/5 | Dia da Conscientização sobre a Enterocolite Necrosante - NEC |
 
 .”.
 

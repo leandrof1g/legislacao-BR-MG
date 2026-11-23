@@ -58,49 +58,32 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no parágrafo único |R$ |
-
-|do art. 6º-A da Lei nº 11.458, de 17 de março de 2023, e na Lei nº 11.538, de 5 de | |
-
-|julho de 2023, e no Decreto nº 18.022, de 8 de julho de 2022: | |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.1100.26.452.305.2.910.336045.500 |31.642.601,48 |
-
-|TOTAL DA SUPLEMENTAÇÃO |31.642.601,48 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no parágrafo único | R$ |
+| --- | --- |
+| do art. 6º-A da Lei nº 11.458, de 17 de março de 2023, e na Lei nº 11.538, de 5 de |  |
+| julho de 2023, e no Decreto nº 18.022, de 8 de julho de 2022: |  |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.1100.26.452.305.2.910.336045.500 | 31.642.601,48 |
+| TOTAL DA SUPLEMENTAÇÃO | 31.642.601,48 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Câmara Municipal – CM |
-
-|0101.1000.01.031.001.2.001.319011.500 |9.000.000,00 |
-
-|0101.1000.01.031.001.2.001.319013.500 |1.000.000,00 |
-
-|0101.1000.01.031.001.2.001.319094.500 |3.000.000,00 |
-
-|0101.1000.01.031.001.2.001.319113.500 |1.500.000,00 |
-
-|0101.1000.01.031.001.2.001.339030.500 |500.000,00 |
-
-|0101.1000.01.031.001.2.001.339034.500 |1.500.000,00 |
-
-|0101.1000.01.031.001.2.001.339037.500 |6.500.000,00 |
-
-|0101.1000.01.031.001.2.001.339040.500 |3.000.000,00 |
-
-|0101.1000.01.031.001.2.921.339040.500 |2.500.000,00 |
-
-|0101.1000.01.031.001.2.921.449052.500 |2.142.601,48 |
-
-|0101.1000.01.031.001.2.001.339027.500 |1.000.000,00 |
-
-|TOTAL DA ANULAÇÃO |31.642.601,48 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Câmara Municipal – CM |  |
+| 0101.1000.01.031.001.2.001.319011.500 | 9.000.000,00 |
+| 0101.1000.01.031.001.2.001.319013.500 | 1.000.000,00 |
+| 0101.1000.01.031.001.2.001.319094.500 | 3.000.000,00 |
+| 0101.1000.01.031.001.2.001.319113.500 | 1.500.000,00 |
+| 0101.1000.01.031.001.2.001.339030.500 | 500.000,00 |
+| 0101.1000.01.031.001.2.001.339034.500 | 1.500.000,00 |
+| 0101.1000.01.031.001.2.001.339037.500 | 6.500.000,00 |
+| 0101.1000.01.031.001.2.001.339040.500 | 3.000.000,00 |
+| 0101.1000.01.031.001.2.921.339040.500 | 2.500.000,00 |
+| 0101.1000.01.031.001.2.921.449052.500 | 2.142.601,48 |
+| 0101.1000.01.031.001.2.001.339027.500 | 1.000.000,00 |
+| TOTAL DA ANULAÇÃO | 31.642.601,48 |
 
 ANEXO II
 

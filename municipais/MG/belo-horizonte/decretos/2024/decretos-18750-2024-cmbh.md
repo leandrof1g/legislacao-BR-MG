@@ -66,37 +66,23 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449051.2.759.709 |600.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.0146.2900.339093.2.501.784 |10.000,00 |
-
-|Fundo de Mobilidade Urbana – FMU |
-
-|3303.26.452.0060.2837.339039.2.752.000 |2.199.999,00 |
-
-|3303.26.452.0060.2837.339040.2.752.000 |368.466,37 |
-
-|3303.26.452.0060.2837.449052.2.752.000 |882.473,63 |
-
-|Fundo Municipal de Defesa Ambiental – FDA |
-
-|2503.18.541.0069.2073.339039.2.500.000 |140.400,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0305.2910.336045.2.500.000 |569.352,53 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.770.691,53 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449051.2.759.709 | 600.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.0146.2900.339093.2.501.784 | 10.000,00 |
+| Fundo de Mobilidade Urbana – FMU |  |
+| 3303.26.452.0060.2837.339039.2.752.000 | 2.199.999,00 |
+| 3303.26.452.0060.2837.339040.2.752.000 | 368.466,37 |
+| 3303.26.452.0060.2837.449052.2.752.000 | 882.473,63 |
+| Fundo Municipal de Defesa Ambiental – FDA |  |
+| 2503.18.541.0069.2073.339039.2.500.000 | 140.400,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0305.2910.336045.2.500.000 | 569.352,53 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.770.691,53 |
 
 ANEXO II
 

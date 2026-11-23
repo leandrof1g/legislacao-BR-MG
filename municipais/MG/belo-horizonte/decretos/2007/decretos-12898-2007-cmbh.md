@@ -58,7 +58,7 @@ RECLAMADO: Município de Belo Horizonte
 
 VALOR: R$3.411.476,98 em 30/04/2001
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 DESCRIÇÃO DAS VERBAS DE ACORDO COM AS COLUNAS ENUMERADAS:
 
@@ -72,4 +72,6 @@ OBS: DATAS, PRAZOS E VALORES
 
 HONORÁRIOS ADVOCATÍCIOS DO SINDICATO ÚNICO DOS TRABALHADORES EM EDUCAÇÃO DE MINAS GERAIS - SIND-UTE - MG
 
-[pic] 1ª Parcela a ser paga dia 15/10/2007
+*[imagem no documento original — ver `fonte_texto`]*
+
+1ª Parcela a ser paga dia 15/10/2007

@@ -40,49 +40,29 @@ O Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 **§ 5º** - A GTAO terá vigência a partir de 1º de janeiro de 2016 e será reajustada a partir de 1º de janeiro de 2017, conforme os seguintes valores:
 
-|Gratificação Técnico-Administrativa e Operacional - GTAO - dos empregados públicos efetivos integrantes do Plano de Carreira |
-
-|da Superintendência de Limpeza Urbana - SLU, instituído na Lei nº 9.329 de 29 de janeiro de 2007 |
-
-|Emprego Público |Valor GTAO a partir de 1º janeiro |Valor GTAO a partir de 1º janeiro 2017|
-
-| |2016 | |
-
-|Gari de Varrição |149,48 |298,95 |
-
-|Gari de Serviços Complementares |163,71 |327,42 |
-
-|Gari de Coleta |174,39 |348,78 |
-
-|Auxiliar de Apoio Operacional |149,48 |298,95 |
-
-|Operador de Rádio |163,71 |327,42 |
-
-|Telefonista |163,71 |327,42 |
-
-|Auxiliar Administrativo |163,71 |327,42 |
-
-|Auxiliar de Operação e Controle |209,98 |419,96 |
-
-|Oficial de Serviços |181,51 |363,02 |
-
-|Operador de Máquinas Pesadas |256,25 |512,49 |
-
-|Oficial de Manutenção |256,25 |512,49 |
-
-|Motorista |284,72 |569,43 |
-
-|Agente de Operação e Controle |389,05 |778,11 |
-
-|Assistente Administrativo |389,05 |778,11 |
-
-|Cadastrador |389,05 |778,11 |
-
-|Técnico de Nível Médio |389,05 |778,11 |
-
-|Técnico de Nível Superior |1.000,00 |2.000,00 |
-
-|Médico do Trabalho |587,75 |1175,51 |
+| Gratificação Técnico-Administrativa e Operacional - GTAO - dos empregados públicos efetivos integrantes do Plano de Carreira |  |  |
+| --- | --- | --- |
+| da Superintendência de Limpeza Urbana - SLU, instituído na Lei nº 9.329 de 29 de janeiro de 2007 |  |  |
+| Emprego Público | Valor GTAO a partir de 1º janeiro | Valor GTAO a partir de 1º janeiro 2017 |
+|  | 2016 |  |
+| Gari de Varrição | 149,48 | 298,95 |
+| Gari de Serviços Complementares | 163,71 | 327,42 |
+| Gari de Coleta | 174,39 | 348,78 |
+| Auxiliar de Apoio Operacional | 149,48 | 298,95 |
+| Operador de Rádio | 163,71 | 327,42 |
+| Telefonista | 163,71 | 327,42 |
+| Auxiliar Administrativo | 163,71 | 327,42 |
+| Auxiliar de Operação e Controle | 209,98 | 419,96 |
+| Oficial de Serviços | 181,51 | 363,02 |
+| Operador de Máquinas Pesadas | 256,25 | 512,49 |
+| Oficial de Manutenção | 256,25 | 512,49 |
+| Motorista | 284,72 | 569,43 |
+| Agente de Operação e Controle | 389,05 | 778,11 |
+| Assistente Administrativo | 389,05 | 778,11 |
+| Cadastrador | 389,05 | 778,11 |
+| Técnico de Nível Médio | 389,05 | 778,11 |
+| Técnico de Nível Superior | 1.000,00 | 2.000,00 |
+| Médico do Trabalho | 587,75 | 1175,51 |
 
 **Art. 2º** - Esta lei entra em vigor na data de sua publicação.
 

@@ -264,42 +264,24 @@ ANEXO ÚNICO
 
 VAGAS DE ESTACIONAMENTO DE VEÍCULOS LEVES
 
-|1. QUOTA DE REFERÊNCIA DE VAGAS PARA VEÍCULOS LEVES (art. 5º, § 1º, II, “a”) |
-
-|Uso residencial |2 vagas por unidade habitacional |
-
-|Uso não residencial |2 vagas a cada 150,0 m² de área das unidades autônomas |
-
-|2. FÓRMULA DE COBRANÇA POR VAGAS ADICIONAIS (art. 6º) |
-
-|Fórmula de cálculo da |VQ = ¿Aest x 0,2 x V x ISV |
-
-|cobrança | |
-
-|Fórmula de cálculo dos |Uso residencial|¿Aest = Aest – (CAb x AT) |
-
-|índices de superação de vagas| | |
-
-|(ISV) e do ¿Aest | | |
-
-| | |ISV = [Aest – (50 x nº de unidades habitacionais)/Aest] + 1 |
-
-| |Uso não |¿Aest = Aest – (CAb x AT) |
-
-| |residencial | |
-
-| | |ISV = {[Aest – (50 x área das unidades autônomas/150)]/Aest} + 1 |
-
-|Obs.: |
-
-|VQ corresponde ao valor referente ao pagamento decorrente da superação da quota máxima de vagas para veículos leves; |
-
-|Aest corresponde à área de estacionamento e manobra de veículos leves, coberta e descoberta; |
-
-|V corresponde ao valor do metro quadrado do terreno, obtido de acordo com a Planta de Valores Imobiliários utilizada para o cálculo do |
-
-|Imposto sobre Transmissão Inter Vivos de Bens Imóveis – ITBI; |
-
-|AT corresponde à área do terreno; |
-
-|Para efeito do cálculo da quota máxima de referência para veículos leves, devem ser consideradas as vagas cobertas e descobertas. |
+| 1. QUOTA DE REFERÊNCIA DE VAGAS PARA VEÍCULOS LEVES (art. 5º, § 1º, II, “a”) |  |  |
+| --- | --- | --- |
+| Uso residencial | 2 vagas por unidade habitacional |  |
+| Uso não residencial | 2 vagas a cada 150,0 m² de área das unidades autônomas |  |
+| 2. FÓRMULA DE COBRANÇA POR VAGAS ADICIONAIS (art. 6º) |  |  |
+| Fórmula de cálculo da | VQ = ¿Aest x 0,2 x V x ISV |  |
+| cobrança |  |  |
+| Fórmula de cálculo dos | Uso residencial | ¿Aest = Aest – (CAb x AT) |
+| índices de superação de vagas |  |  |
+| (ISV) e do ¿Aest |  |  |
+|  |  | ISV = [Aest – (50 x nº de unidades habitacionais)/Aest] + 1 |
+|  | Uso não | ¿Aest = Aest – (CAb x AT) |
+|  | residencial |  |
+|  |  | ISV = {[Aest – (50 x área das unidades autônomas/150)]/Aest} + 1 |
+| Obs.: |  |  |
+| VQ corresponde ao valor referente ao pagamento decorrente da superação da quota máxima de vagas para veículos leves; |  |  |
+| Aest corresponde à área de estacionamento e manobra de veículos leves, coberta e descoberta; |  |  |
+| V corresponde ao valor do metro quadrado do terreno, obtido de acordo com a Planta de Valores Imobiliários utilizada para o cálculo do |  |  |
+| Imposto sobre Transmissão Inter Vivos de Bens Imóveis – ITBI; |  |  |
+| AT corresponde à área do terreno; |  |  |
+| Para efeito do cálculo da quota máxima de referência para veículos leves, devem ser consideradas as vagas cobertas e descobertas. |  |  |

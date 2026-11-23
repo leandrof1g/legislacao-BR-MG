@@ -84,163 +84,86 @@ ANEXO I
 
 PROGRAMAS ABRANGIDOS
 
-|Programa |Secretaria |Descritivo básico |
-
-| |responsável | |
-
-|Esporte |SMEL |Desenvolvimento de práticas esportivas, no contraturno escolar, |
-
-|Esperança | |realizadas de maneira a atender os princípios do esporte educacional, |
-
-| | |visando à formação integral do participante. Este programa privilegia |
-
-| | |um processo pedagógico de ensino-aprendizagem de modalidades esportivas|
-
-| | |que possam contribuir para o desenvolvimento motor, físico e cognitivo |
-
-| | |e para a formação social, estimulando o desenvolvimento de atitudes |
-
-| | |solidárias, cooperativas, éticas e de cidadania, o respeito a |
-
-| | |individualidades e diferenças e incentivando a autonomia, cooperação e |
-
-| | |corresponsabilidade. |
-
-| | |Público atendido: crianças e adolescentes da faixa etária entre 6 |
-
-| | |(seis) e 17 (dezessete) anos. |
-
-|Superar |SMEL |Desenvolvimento do esporte adaptado, possibilitando às pessoas com |
-
-| | |deficiência participar e fruir de atividade física e socializante. Este|
-
-| | |programa é composto por dois serviços, sendo os atendimentos nomeados |
-
-| | |“Práticas Esportivas” e “Natação”, e visa oferecer atividades |
-
-| | |inclusivas, promovendo o bem-estar físico, mental, social e o |
-
-| | |desenvolvimento de hábitos de vida saudáveis. |
-
-| | |Público atendido: pessoas com deficiência a partir dos 6 (seis) anos de|
-
-| | |idade. |
-
-|Vida Ativa |SMEL |Desenvolvimento da atividade física regular e do lazer por meio da |
-
-| | |constituição de grupos de convivência. Este programa visa contribuir |
-
-| | |para a promoção da saúde, autoestima, socialização e qualidade de vida |
-
-| | |dos participantes. |
-
-| | |Público atendido: pessoas com idade igual ou superior a 50 (cinquenta) |
-
-| | |anos. |
-
-|Treina BH |SMEL |Contribuição para a saúde e qualidade de vida do público adulto a |
-
-| | |partir da vivência do lazer físico. Este programa é composto por dois |
-
-| | |serviços. O atendimento nomeado “Serviço Esporte”, que visa |
-
-| | |disponibilizar o acesso de pequenos grupos que se reúnem para praticar |
-
-| | |modalidades de esporte coletivo de forma autônoma, sem necessidade de |
-
-| | |orientação profissional, quadras, campos, piscinas e empréstimo de |
-
-| | |material necessário às atividades. O atendimento nomeado “Serviço |
-
-| | |Atividade Física” visa possibilitar a participação de indivíduos em |
-
-| | |modalidades de atividade física sistematizada com orientação |
-
-| | |profissional, como musculação, dança, ginástica funcional, |
-
-| | |hidroginástica, dentre outras. |
-
-| | |Público atendido: pessoas com idade entre 18 (dezoito) e 50 (cinquenta)|
-
-| | |anos. |
-
-|Academia da |SMSA |Desenvolvimento de exercícios físicos e outras ações de promoção à |
-
-|Cidade | |saúde. Este programa visa possibilitar a adesão a hábitos de vida |
-
-| | |saudáveis, por meio da oferta de atividades relacionadas às práticas |
-
-| | |corporais e às atividades físicas, bem como de ações educativas em |
-
-| | |saúde. |
-
-| | |Público atendido: munícipes de Belo Horizonte, preferencialmente com |
-
-| | |idade acima de 18 (dezoito) anos, que não possuam restrição clínica à |
-
-| | |prática da atividade física proposta na Academia da Cidade e que, após |
-
-| | |avaliação por profissional de Educação Física do programa, sejam |
-
-| | |considerados aptos às aulas ofertadas. |
-
-|Escola Integrada|SMED |Possibilitar vivências múltiplas desportivas e de lazer em espaços não |
-
-| | |escolares, garantindo aos estudantes da Rede Municipal de Educação a |
-
-| | |realização de atividades baseadas em experimentações corporais, lúdicas|
-
-| | |e inclusivas, a fim de promover o desenvolvimento das potencialidades |
-
-| | |físicas, socialização, cooperação e discussão de valores e atitudes. |
-
-| | |O atendimento realizado em cada módulo deverá garantir a utilização |
-
-| | |segura, pelos estudantes das escolas públicas municipais, dos diversos |
-
-| | |espaços dos clubes aderentes ao programa, sendo obrigatória a |
-
-| | |disponibilização de guarda-vidas pela entidade parceira durante o uso |
-
-| | |de piscinas para a execução de atividades aquáticas. Este programa visa|
-
-| | |a formação integral dos estudantes, possibilitando novas oportunidades,|
-
-| | |de múltiplas aprendizagens, em espaços sociais que ultrapassam os muros|
-
-| | |da escola. |
-
-| | |As escolas municipais serão fidelizadas aos clubes que estão inseridos |
-
-| | |prioritariamente no seu território. O quantitativo será condicionado à |
-
-| | |organização das escolas e aos espaços independentes disponibilizados |
-
-| | |pelo clube (piscinas, quadras, dentre outros). |
-
-| | |Público atendido: estudantes da Rede Municipal de Educação de Belo |
-
-| | |Horizonte. |
-
-|Cidadania e |SMASDH |Recepção da comunidade referenciada nas políticas públicas de |
-
-|Convivência | |Assistência Social e Direitos Humanos, possibilitando o fortalecimento |
-
-| | |de vínculos familiares e comunitários, a promoção de ações afirmativas |
-
-| | |e atividades lúdicas em prol da defesa dos direitos humanos e de |
-
-| | |cidadania por meio de vivências socializadoras de esporte e lazer de |
-
-| | |natureza recreativa nos espaços da entidade aderida. |
-
-| | |Público atendido: usuários ou famílias referenciadas nos serviços, |
-
-| | |programas, projetos e demais ações das Políticas de Assistência Social |
-
-| | |e Direitos Humanos no âmbito da Secretaria Municipal de Assistência |
-
-| | |Social e Direitos Humanos – SMASDH. |
+| Programa | Secretaria | Descritivo básico |
+| --- | --- | --- |
+|  | responsável |  |
+| Esporte | SMEL | Desenvolvimento de práticas esportivas, no contraturno escolar, |
+| Esperança |  | realizadas de maneira a atender os princípios do esporte educacional, |
+|  |  | visando à formação integral do participante. Este programa privilegia |
+|  |  | um processo pedagógico de ensino-aprendizagem de modalidades esportivas |
+|  |  | que possam contribuir para o desenvolvimento motor, físico e cognitivo |
+|  |  | e para a formação social, estimulando o desenvolvimento de atitudes |
+|  |  | solidárias, cooperativas, éticas e de cidadania, o respeito a |
+|  |  | individualidades e diferenças e incentivando a autonomia, cooperação e |
+|  |  | corresponsabilidade. |
+|  |  | Público atendido: crianças e adolescentes da faixa etária entre 6 |
+|  |  | (seis) e 17 (dezessete) anos. |
+| Superar | SMEL | Desenvolvimento do esporte adaptado, possibilitando às pessoas com |
+|  |  | deficiência participar e fruir de atividade física e socializante. Este |
+|  |  | programa é composto por dois serviços, sendo os atendimentos nomeados |
+|  |  | “Práticas Esportivas” e “Natação”, e visa oferecer atividades |
+|  |  | inclusivas, promovendo o bem-estar físico, mental, social e o |
+|  |  | desenvolvimento de hábitos de vida saudáveis. |
+|  |  | Público atendido: pessoas com deficiência a partir dos 6 (seis) anos de |
+|  |  | idade. |
+| Vida Ativa | SMEL | Desenvolvimento da atividade física regular e do lazer por meio da |
+|  |  | constituição de grupos de convivência. Este programa visa contribuir |
+|  |  | para a promoção da saúde, autoestima, socialização e qualidade de vida |
+|  |  | dos participantes. |
+|  |  | Público atendido: pessoas com idade igual ou superior a 50 (cinquenta) |
+|  |  | anos. |
+| Treina BH | SMEL | Contribuição para a saúde e qualidade de vida do público adulto a |
+|  |  | partir da vivência do lazer físico. Este programa é composto por dois |
+|  |  | serviços. O atendimento nomeado “Serviço Esporte”, que visa |
+|  |  | disponibilizar o acesso de pequenos grupos que se reúnem para praticar |
+|  |  | modalidades de esporte coletivo de forma autônoma, sem necessidade de |
+|  |  | orientação profissional, quadras, campos, piscinas e empréstimo de |
+|  |  | material necessário às atividades. O atendimento nomeado “Serviço |
+|  |  | Atividade Física” visa possibilitar a participação de indivíduos em |
+|  |  | modalidades de atividade física sistematizada com orientação |
+|  |  | profissional, como musculação, dança, ginástica funcional, |
+|  |  | hidroginástica, dentre outras. |
+|  |  | Público atendido: pessoas com idade entre 18 (dezoito) e 50 (cinquenta) |
+|  |  | anos. |
+| Academia da | SMSA | Desenvolvimento de exercícios físicos e outras ações de promoção à |
+| Cidade |  | saúde. Este programa visa possibilitar a adesão a hábitos de vida |
+|  |  | saudáveis, por meio da oferta de atividades relacionadas às práticas |
+|  |  | corporais e às atividades físicas, bem como de ações educativas em |
+|  |  | saúde. |
+|  |  | Público atendido: munícipes de Belo Horizonte, preferencialmente com |
+|  |  | idade acima de 18 (dezoito) anos, que não possuam restrição clínica à |
+|  |  | prática da atividade física proposta na Academia da Cidade e que, após |
+|  |  | avaliação por profissional de Educação Física do programa, sejam |
+|  |  | considerados aptos às aulas ofertadas. |
+| Escola Integrada | SMED | Possibilitar vivências múltiplas desportivas e de lazer em espaços não |
+|  |  | escolares, garantindo aos estudantes da Rede Municipal de Educação a |
+|  |  | realização de atividades baseadas em experimentações corporais, lúdicas |
+|  |  | e inclusivas, a fim de promover o desenvolvimento das potencialidades |
+|  |  | físicas, socialização, cooperação e discussão de valores e atitudes. |
+|  |  | O atendimento realizado em cada módulo deverá garantir a utilização |
+|  |  | segura, pelos estudantes das escolas públicas municipais, dos diversos |
+|  |  | espaços dos clubes aderentes ao programa, sendo obrigatória a |
+|  |  | disponibilização de guarda-vidas pela entidade parceira durante o uso |
+|  |  | de piscinas para a execução de atividades aquáticas. Este programa visa |
+|  |  | a formação integral dos estudantes, possibilitando novas oportunidades, |
+|  |  | de múltiplas aprendizagens, em espaços sociais que ultrapassam os muros |
+|  |  | da escola. |
+|  |  | As escolas municipais serão fidelizadas aos clubes que estão inseridos |
+|  |  | prioritariamente no seu território. O quantitativo será condicionado à |
+|  |  | organização das escolas e aos espaços independentes disponibilizados |
+|  |  | pelo clube (piscinas, quadras, dentre outros). |
+|  |  | Público atendido: estudantes da Rede Municipal de Educação de Belo |
+|  |  | Horizonte. |
+| Cidadania e | SMASDH | Recepção da comunidade referenciada nas políticas públicas de |
+| Convivência |  | Assistência Social e Direitos Humanos, possibilitando o fortalecimento |
+|  |  | de vínculos familiares e comunitários, a promoção de ações afirmativas |
+|  |  | e atividades lúdicas em prol da defesa dos direitos humanos e de |
+|  |  | cidadania por meio de vivências socializadoras de esporte e lazer de |
+|  |  | natureza recreativa nos espaços da entidade aderida. |
+|  |  | Público atendido: usuários ou famílias referenciadas nos serviços, |
+|  |  | programas, projetos e demais ações das Políticas de Assistência Social |
+|  |  | e Direitos Humanos no âmbito da Secretaria Municipal de Assistência |
+|  |  | Social e Direitos Humanos – SMASDH. |
 
 ANEXO II
 
@@ -252,30 +175,18 @@ ANEXO II
 
 MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
-|Programas |Nº de indivíduos |Duração diária |Frequência |
-
-| |atendidos por módulo | | |
-
-|Esporte Esperança |80 |1 hora |2x por semana |
-
-|Superar – Práticas Esportivas |10 |1 hora |2x por semana |
-
-|Superar - Natação |20 |30 min |2x por semana |
-
-|Vida Ativa |50 |1 hora |2x por semana |
-
-|Academia da Cidade |60 |1 hora |3x por semana |
-
-|Escola Integrada |160 – 80 estudantes pela |Total = 6 horas |2x por semana |
-
-| |manhã e 80 estudantes |3 horas manhã | |
-
-| |pela tarde |3 horas tarde | |
-
-|Cidadania e Convivência |40 |4 horas |20 anuais |
-
-|Treina BH – Serviço Esporte |50 |1 hora |1x por semana |
-
-|Treina BH – Serviço Atividade |30 |1 hora |2x por semana |
-
-|Física | | | |
+| Programas | Nº de indivíduos | Duração diária | Frequência |
+| --- | --- | --- | --- |
+|  | atendidos por módulo |  |  |
+| Esporte Esperança | 80 | 1 hora | 2x por semana |
+| Superar – Práticas Esportivas | 10 | 1 hora | 2x por semana |
+| Superar - Natação | 20 | 30 min | 2x por semana |
+| Vida Ativa | 50 | 1 hora | 2x por semana |
+| Academia da Cidade | 60 | 1 hora | 3x por semana |
+| Escola Integrada | 160 – 80 estudantes pela | Total = 6 horas | 2x por semana |
+|  | manhã e 80 estudantes | 3 horas manhã |  |
+|  | pela tarde | 3 horas tarde |  |
+| Cidadania e Convivência | 40 | 4 horas | 20 anuais |
+| Treina BH – Serviço Esporte | 50 | 1 hora | 1x por semana |
+| Treina BH – Serviço Atividade | 30 | 1 hora | 2x por semana |
+| Física |  |  |  |

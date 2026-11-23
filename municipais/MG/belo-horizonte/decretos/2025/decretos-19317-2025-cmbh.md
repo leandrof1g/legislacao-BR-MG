@@ -58,75 +58,45 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º |R$ |
-
-|da Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2900.339091.1.500.000 |1.491.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2702.339039.1.500.000 |193.475,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.16.482.0225.1231.449051.1.759.000 |163.755,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0305.2910.336045.1.500.000 |24.000.000,00 |
-
-|3302.26.452.0060.2567.339035.1.500.000 |179.560,00 |
-
-|Procuradoria-Geral do Município – PGM |
-
-|0500.04.062.0003.2011.339091.1.500.000 |500.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |26.527.790,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º | R$ |
+| --- | --- |
+| da Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2900.339091.1.500.000 | 1.491.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2702.339039.1.500.000 | 193.475,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.16.482.0225.1231.449051.1.759.000 | 163.755,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0305.2910.336045.1.500.000 | 24.000.000,00 |
+| 3302.26.452.0060.2567.339035.1.500.000 | 179.560,00 |
+| Procuradoria-Geral do Município – PGM |  |
+| 0500.04.062.0003.2011.339091.1.500.000 | 500.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 26.527.790,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.122.0140.2317.339040.1.500.000 |193.475,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449040.1.500.000 |500.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1400.449051.1.759.000 |163.755,00 |
-
-|2700.17.512.0233.1203.449051.1.500.000 |1.491.000,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0060.2567.319011.1.500.000 |179.560,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG|
-
-|4002.04.331.0014.2710.339008.1.500.000 |4.500.000,00 |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.04.122.0105.2900.319011.1.500.000 |6.500.000,00 |
-
-|0800.04.129.0013.2052.319113.1.500.000 |3.000.000,00 |
-
-|0800.04.122.0105.2900.319113.1.500.000 |2.000.000,00 |
-
-|Procuradoria-Geral do Município – PGM |
-
-|0500.04.062.0003.2010.319011.1.500.000 |8.000.000,00 |
-
-|TOTAL DA ANULAÇÃO |26.527.790,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.122.0140.2317.339040.1.500.000 | 193.475,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449040.1.500.000 | 500.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1400.449051.1.759.000 | 163.755,00 |
+| 2700.17.512.0233.1203.449051.1.500.000 | 1.491.000,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0060.2567.319011.1.500.000 | 179.560,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.331.0014.2710.339008.1.500.000 | 4.500.000,00 |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.04.122.0105.2900.319011.1.500.000 | 6.500.000,00 |
+| 0800.04.129.0013.2052.319113.1.500.000 | 3.000.000,00 |
+| 0800.04.122.0105.2900.319113.1.500.000 | 2.000.000,00 |
+| Procuradoria-Geral do Município – PGM |  |
+| 0500.04.062.0003.2010.319011.1.500.000 | 8.000.000,00 |
+| TOTAL DA ANULAÇÃO | 26.527.790,00 |
 
 ANEXO II
 
@@ -166,24 +136,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 798.201.056,38 |
-
-|Valor do Decreto publicado nesta data |R$ 26.527.790,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 824.728.846,38 |
-
-|Saldo atual de créditos suplementares |R$ 1.440.651.950,92 |
-
-|Percentual utilizado |36,41% |
-
-|Atualizado em 13/10/2025 às 14:15:35 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 798.201.056,38 |
+| Valor do Decreto publicado nesta data | R$ 26.527.790,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 824.728.846,38 |
+| Saldo atual de créditos suplementares | R$ 1.440.651.950,92 |
+| Percentual utilizado | 36,41% |
+| Atualizado em 13/10/2025 às 14:15:35 |  |

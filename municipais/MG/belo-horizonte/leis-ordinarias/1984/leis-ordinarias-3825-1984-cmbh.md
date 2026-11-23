@@ -24,7 +24,9 @@ LEI Nº 3.825, DE 27 DE JULHO DE 1984
 
 Republicada em 29/1/1985
 
-[pic] Retificada em 14/6/1985
+*[imagem no documento original — ver `fonte_texto`]*
+
+Retificada em 14/6/1985
 
 Dá a denominação de José de Paula Cotta a uma rua, avenida ou praça da Capital.
 

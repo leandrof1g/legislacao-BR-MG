@@ -58,167 +58,91 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei |R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339139.1.600.000 |14.000.000,00 |
-
-|2302.10.304.0028.2829.339039.1.600.000 |180.000,00 |
-
-|2302.10.305.0028.2829.335043.2.621.000 |21.000,00 |
-
-|2302.10.122.0117.2662.339039.1.501.000 |2.893.597,80 |
-
-|TOTAL |17.094.597,80 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339037.1.749.778 |136.142,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2046.339039.1.500.000 |2.454.982,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.391.0155.2375.449052.1.500.000 |250.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.1.500.000 |5.615.000,00 |
-
-|2700.15.451.0233.1396.449051.1.500.000 |6.640.000,00 |
-
-|2700.15.451.0062.1330.449051.1.500.000 |1.652.150,00 |
-
-|2700.17.512.0066.1203.449093.2.759.000 |145.690,00 |
-
-|2700.15.451.0233.1396.449051.2.759.000 |1.800.000,00 |
-
-|2700.15.451.0171.1399.449051.2.759.000 |400.000,00 |
-
-|2700.17.512.0066.1400.449051.2.759.000 |300.000,00 |
-
-|2700.17.512.0227.1403.449051.2.759.000 |130.000,00 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.542.0306.2877.339039.1.500.000 |300.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.0217.2853.339039.2.500.000 |128.055,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.333041.1.500.000 |150.000,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0228.2537.449052.1.700.000 |161.616,16 |
-
-|TOTAL |20.263.635,16 |
-
-|I.1.3 – A favor do seguinte órgão, conforme autorização contida no art. 19 da Lei |R$ |
-
-|nº 11.742, de 13 de setembro de 2024 e no art. 7º da Lei nº 11.802, de 3 de janeiro| |
-
-|de 2025: | |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.541.0307.2912.335041.1.500.000 |50.000,00 |
-
-|TOTAL |50.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |37.408.232,96 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339139.1.600.000 | 14.000.000,00 |
+| 2302.10.304.0028.2829.339039.1.600.000 | 180.000,00 |
+| 2302.10.305.0028.2829.335043.2.621.000 | 21.000,00 |
+| 2302.10.122.0117.2662.339039.1.501.000 | 2.893.597,80 |
+| TOTAL | 17.094.597,80 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339037.1.749.778 | 136.142,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2046.339039.1.500.000 | 2.454.982,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.391.0155.2375.449052.1.500.000 | 250.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.1.500.000 | 5.615.000,00 |
+| 2700.15.451.0233.1396.449051.1.500.000 | 6.640.000,00 |
+| 2700.15.451.0062.1330.449051.1.500.000 | 1.652.150,00 |
+| 2700.17.512.0066.1203.449093.2.759.000 | 145.690,00 |
+| 2700.15.451.0233.1396.449051.2.759.000 | 1.800.000,00 |
+| 2700.15.451.0171.1399.449051.2.759.000 | 400.000,00 |
+| 2700.17.512.0066.1400.449051.2.759.000 | 300.000,00 |
+| 2700.17.512.0227.1403.449051.2.759.000 | 130.000,00 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.542.0306.2877.339039.1.500.000 | 300.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0217.2853.339039.2.500.000 | 128.055,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.333041.1.500.000 | 150.000,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0228.2537.449052.1.700.000 | 161.616,16 |
+| TOTAL | 20.263.635,16 |
+| I.1.3 – A favor do seguinte órgão, conforme autorização contida no art. 19 da Lei | R$ |
+| nº 11.742, de 13 de setembro de 2024 e no art. 7º da Lei nº 11.802, de 3 de janeiro |  |
+| de 2025: |  |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.541.0307.2912.335041.1.500.000 | 50.000,00 |
+| TOTAL | 50.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 37.408.232,96 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339039.1.600.000 |14.000.000,00 |
-
-|2302.10.305.0028.2829.339030.1.600.000 |180.000,00 |
-
-|2302.10.305.0028.2829.445042.2.621.000 |21.000,00 |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.09.272.0026.3004.319001.1.501.000 |2.893.597,80 |
-
-|TOTAL |17.094.597,80 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.9999.999999.1.500.000 |300.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2046.339039.1.500.000 |2.454.982,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.1.500.000 |250.000,00 |
-
-|Fundo Municipal do Idoso – FMI |
-
-|1018.14.241.0235.2943.339039.1.749.778 |136.142,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449051.1.700.000 |161.616,16 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.16.482.0225.1231.449051.1.500.000 |6.015.000,00 |
-
-|2700.15.451.0062.1230.449051.1.500.000 |1.540.000,00 |
-
-|2700.15.451.0227.1403.449051.1.500.000 |6.352.150,00 |
-
-|2700.18.541.0244.1244.449051.2.759.000 |2.775.690,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.0217.2853.445042.2.500.000 |128.055,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0007.2900.339037.1.500.000 |150.000,00 |
-
-|TOTAL |20.263.635,16 |
-
-|I.2.3 – Em contrapartida à suplementação relacionada no item I.1.3, anulação de |R$ |
-
-|emenda prevista inicialmente no órgão relacionado abaixo, conforme autorização | |
-
-|contida no art. 19 da Lei nº 11.742, de 13 de setembro de 2024, e no art. 7º da Lei| |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0233.2811.339039.1.500.000 |50.000,00 |
-
-|TOTAL |50.000,00 |
-
-|TOTAL DA ANULAÇÃO |37.408.232,96 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339039.1.600.000 | 14.000.000,00 |
+| 2302.10.305.0028.2829.339030.1.600.000 | 180.000,00 |
+| 2302.10.305.0028.2829.445042.2.621.000 | 21.000,00 |
+| Fundo Financeiro – FUFIN |  |
+| 0613.09.272.0026.3004.319001.1.501.000 | 2.893.597,80 |
+| TOTAL | 17.094.597,80 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.9999.999999.1.500.000 | 300.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2046.339039.1.500.000 | 2.454.982,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.1.500.000 | 250.000,00 |
+| Fundo Municipal do Idoso – FMI |  |
+| 1018.14.241.0235.2943.339039.1.749.778 | 136.142,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449051.1.700.000 | 161.616,16 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.16.482.0225.1231.449051.1.500.000 | 6.015.000,00 |
+| 2700.15.451.0062.1230.449051.1.500.000 | 1.540.000,00 |
+| 2700.15.451.0227.1403.449051.1.500.000 | 6.352.150,00 |
+| 2700.18.541.0244.1244.449051.2.759.000 | 2.775.690,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0217.2853.445042.2.500.000 | 128.055,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0007.2900.339037.1.500.000 | 150.000,00 |
+| TOTAL | 20.263.635,16 |
+| I.2.3 – Em contrapartida à suplementação relacionada no item I.1.3, anulação de | R$ |
+| emenda prevista inicialmente no órgão relacionado abaixo, conforme autorização |  |
+| contida no art. 19 da Lei nº 11.742, de 13 de setembro de 2024, e no art. 7º da Lei |  |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0233.2811.339039.1.500.000 | 50.000,00 |
+| TOTAL | 50.000,00 |
+| TOTAL DA ANULAÇÃO | 37.408.232,96 |
 
 ANEXO II
 
@@ -290,72 +214,45 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 4º, limite de 15% do valor|
-
-|abertura de créditos suplementares para o Fundo Municipal de |total do Orçamento: |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 3.398.071.195,95 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 57.703.882,41 |
-
-|Valor do Decreto publicado nesta data |R$ 17.094.597,80 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 74.798.480,21 |
-
-|Saldo atual de créditos suplementares |R$ 3.323.272.715,74 |
-
-|Percentual utilizado |2,20% |
-
-|Atualizado em 08/07/2025 às 12:20:47 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 4º, limite de 15% do valor |
+| abertura de créditos suplementares para o Fundo Municipal de | total do Orçamento: |
+| Saúde. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 3.398.071.195,95 |
+| Total de créditos suplementares abertos anteriormente | R$ 57.703.882,41 |
+| Valor do Decreto publicado nesta data | R$ 17.094.597,80 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 74.798.480,21 |
+| Saldo atual de créditos suplementares | R$ 3.323.272.715,74 |
+| Percentual utilizado | 2,20% |
+| Atualizado em 08/07/2025 às 12:20:47 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 383.707.184,51 |
-
-|Valor do Decreto publicado nesta data |R$ 20.263.635,16 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 403.970.819,67 |
-
-|Saldo atual de créditos suplementares |R$ 1.861.409.977,63 |
-
-|Percentual utilizado |17,83% |
-
-|Atualizado em 08/07/2025 às 12:20:47 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 383.707.184,51 |
+| Valor do Decreto publicado nesta data | R$ 20.263.635,16 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 403.970.819,67 |
+| Saldo atual de créditos suplementares | R$ 1.861.409.977,63 |
+| Percentual utilizado | 17,83% |
+| Atualizado em 08/07/2025 às 12:20:47 |  |
 
 III.3 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 7º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 7º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 192.497.922,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 15.041.494,00 |
-
-|Valor do Decreto publicado nesta data |R$ 50.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 15.091.494,00 |
-
-|Saldo atual de créditos suplementares |R$ 177.406.428,00 |
-
-|Percentual utilizado |7,84% |
-
-|Atualizado em 08/07/2025 às 12:20:47 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 192.497.922,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 15.041.494,00 |
+| Valor do Decreto publicado nesta data | R$ 50.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 15.091.494,00 |
+| Saldo atual de créditos suplementares | R$ 177.406.428,00 |
+| Percentual utilizado | 7,84% |
+| Atualizado em 08/07/2025 às 12:20:47 |  |

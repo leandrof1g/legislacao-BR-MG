@@ -58,187 +58,101 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei |R$ |
-
-|nº 11.644, de 29 de dezembro de 2023: | |
-
-|Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |
-
-|3304.26.452.0060.2567.319092.1.501.770 |114.159,00 |
-
-|TOTAL |114.159,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei n° 11.644, de 29 de dezembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.0091.3501.469071.1.754.790 |100.000,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2335.339039.1.500.000 |33.615,00 |
-
-|1000.14.422.0127.2335.339039.2.706.510 |98.485,19 |
-
-|Secretaria Municipal de Educação - SMED |
-
-|2200.12.361.0168.2046.339039.1.500.000 |13.000.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0109.2802.339030.1.500.000 |12.152,00 |
-
-|2100.06.122.0109.2802.339039.1.500.000 |45.135,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.302.0085.2940.339040.1.500.000 |283.882,28 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.243.0020.2403.339039.1.500.000 |10.486.891,00 |
-
-|1011.08.243.0019.2647.339039.1.500.000 |94.097,00 |
-
-|1011.08.244.0019.2647.339039.1.500.000 |682.399,00 |
-
-|1011.08.244.0019.2647.339039.1.661.000 |82.900,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0066.1400.449051.1.759.000 |2.628.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.449052.1.749.000 |1.987,85 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1330.449051.1.754.791 |11.000.000,00 |
-
-|2700.17.512.0066.1400.449051.1.754.790 |7.400.000,00 |
-
-|2700.15.451.0062.1230.449051.1.754.790 |3.996.893,08 |
-
-|2700.17.512.0233.1203.449051.2.759.000 |1.360.000,00 |
-
-|2700.15.451.0062.1230.449051.2.759.000 |325.985,68 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.122.0093.2900.449052.1.500.000 |2.900,00 |
-
-|TOTAL |51.635.323,08 |
-
-|TOTAL DA SUPLEMENTAÇÃO |51.749.482,08 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei | R$ |
+| --- | --- |
+| nº 11.644, de 29 de dezembro de 2023: |  |
+| Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3304.26.452.0060.2567.319092.1.501.770 | 114.159,00 |
+| TOTAL | 114.159,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| Lei n° 11.644, de 29 de dezembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.0091.3501.469071.1.754.790 | 100.000,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2335.339039.1.500.000 | 33.615,00 |
+| 1000.14.422.0127.2335.339039.2.706.510 | 98.485,19 |
+| Secretaria Municipal de Educação - SMED |  |
+| 2200.12.361.0168.2046.339039.1.500.000 | 13.000.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0109.2802.339030.1.500.000 | 12.152,00 |
+| 2100.06.122.0109.2802.339039.1.500.000 | 45.135,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.302.0085.2940.339040.1.500.000 | 283.882,28 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.243.0020.2403.339039.1.500.000 | 10.486.891,00 |
+| 1011.08.243.0019.2647.339039.1.500.000 | 94.097,00 |
+| 1011.08.244.0019.2647.339039.1.500.000 | 682.399,00 |
+| 1011.08.244.0019.2647.339039.1.661.000 | 82.900,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0066.1400.449051.1.759.000 | 2.628.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.449052.1.749.000 | 1.987,85 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1330.449051.1.754.791 | 11.000.000,00 |
+| 2700.17.512.0066.1400.449051.1.754.790 | 7.400.000,00 |
+| 2700.15.451.0062.1230.449051.1.754.790 | 3.996.893,08 |
+| 2700.17.512.0233.1203.449051.2.759.000 | 1.360.000,00 |
+| 2700.15.451.0062.1230.449051.2.759.000 | 325.985,68 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.122.0093.2900.449052.1.500.000 | 2.900,00 |
+| TOTAL | 51.635.323,08 |
+| TOTAL DA SUPLEMENTAÇÃO | 51.749.482,08 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo da Procuradoria Geral do Município – FPGM |
-
-|0501.04.123.0003.2830.319194.1.501.770 |114.159,00 |
-
-|TOTAL |114.159,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2927.339039.1.500.000 |33.615,00 |
-
-|1000.14.422.0127.2334.339039.2.706.510 |98.485,19 |
-
-|Secretaria Municipal de Educação - SMED |
-
-|2200.12.367.0167.2041.339039.1.500.000 |15.000,00 |
-
-|2200.12.361.0168.2080.339039.1.500.000 |5.089.234,00 |
-
-|2200.12.365.0169.2702.339039.1.500.000 |824.618,00 |
-
-|2200.12.361.0168.2702.339039.1.500.000 |1.647.333,00 |
-
-|2200.12.361.0168.2041.339039.1.500.000 |20.000,00 |
-
-|2200.12.365.0169.2046.339039.1.500.000 |3.177.078,00 |
-
-|2200.12.361.0168.2080.339037.1.500.000 |1.200.000,00 |
-
-|2200.12.366.0168.2080.339039.1.500.000 |531.737,00 |
-
-|2200.12.122.0140.2334.339039.1.500.000 |100.000,00 |
-
-|2200.12.367.0167.2701.339039.1.500.000 |45.000,00 |
-
-|2200.12.361.0168.2706.339039.1.500.000 |200.000,00 |
-
-|2200.12.365.0169.2706.339039.1.500.000 |150.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0109.2802.449052.1.500.000 |57.287,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.126.0117.2662.339040.1.500.000 |283.882,28 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2308.339037.1.500.000 |1.161.262,00 |
-
-|1011.08.244.0019.2308.339036.1.500.000 |1.087.267,00 |
-
-|1011.08.244.0019.2308.339039.1.500.000 |1.861.161,00 |
-
-|1011.08.244.0113.2327.339048.1.500.000 |776.496,00 |
-
-|1011.08.244.0020.2403.339039.1.500.000 |791.180,00 |
-
-|1011.08.244.0019.2405.339037.1.500.000 |4.739.135,00 |
-
-|1011.08.244.0020.2878.339039.1.500.000 |846.886,00 |
-
-|1011.08.244.0020.2878.339039.1.661.000 |82.900,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0226.1207.459061.1.759.709 |2.628.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.339039.1.749.000 |1.987,85 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0227.1403.449051.1.754.790 |17.000.000,00 |
-
-|2700.17.512.0066.1400.449051.1.754.790 |1.996.893,08 |
-
-|2700.16.482.0227.1403.449051.1.754.790 |3.400.000,00 |
-
-|2700.15.451.0062.1330.449051.2.759.000 |1.360.000,00 |
-
-|2700.15.451.0233.1396.449051.2.759.000 |325.985,68 |
-
-|Fundo de Modernização e Aprimoramento Adm. Tributária do Município – FMAATM |
-
-|0805.04.129.0105.2652.449040.1.754.790 |100.000,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.122.0093.2900.339092.1.500.000 |2.900,00 |
-
-|TOTAL |51.635.323,08 |
-
-|TOTAL DA ANULAÇÃO |51.749.482,08 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo da Procuradoria Geral do Município – FPGM |  |
+| 0501.04.123.0003.2830.319194.1.501.770 | 114.159,00 |
+| TOTAL | 114.159,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2927.339039.1.500.000 | 33.615,00 |
+| 1000.14.422.0127.2334.339039.2.706.510 | 98.485,19 |
+| Secretaria Municipal de Educação - SMED |  |
+| 2200.12.367.0167.2041.339039.1.500.000 | 15.000,00 |
+| 2200.12.361.0168.2080.339039.1.500.000 | 5.089.234,00 |
+| 2200.12.365.0169.2702.339039.1.500.000 | 824.618,00 |
+| 2200.12.361.0168.2702.339039.1.500.000 | 1.647.333,00 |
+| 2200.12.361.0168.2041.339039.1.500.000 | 20.000,00 |
+| 2200.12.365.0169.2046.339039.1.500.000 | 3.177.078,00 |
+| 2200.12.361.0168.2080.339037.1.500.000 | 1.200.000,00 |
+| 2200.12.366.0168.2080.339039.1.500.000 | 531.737,00 |
+| 2200.12.122.0140.2334.339039.1.500.000 | 100.000,00 |
+| 2200.12.367.0167.2701.339039.1.500.000 | 45.000,00 |
+| 2200.12.361.0168.2706.339039.1.500.000 | 200.000,00 |
+| 2200.12.365.0169.2706.339039.1.500.000 | 150.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0109.2802.449052.1.500.000 | 57.287,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.126.0117.2662.339040.1.500.000 | 283.882,28 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.339037.1.500.000 | 1.161.262,00 |
+| 1011.08.244.0019.2308.339036.1.500.000 | 1.087.267,00 |
+| 1011.08.244.0019.2308.339039.1.500.000 | 1.861.161,00 |
+| 1011.08.244.0113.2327.339048.1.500.000 | 776.496,00 |
+| 1011.08.244.0020.2403.339039.1.500.000 | 791.180,00 |
+| 1011.08.244.0019.2405.339037.1.500.000 | 4.739.135,00 |
+| 1011.08.244.0020.2878.339039.1.500.000 | 846.886,00 |
+| 1011.08.244.0020.2878.339039.1.661.000 | 82.900,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0226.1207.459061.1.759.709 | 2.628.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.339039.1.749.000 | 1.987,85 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0227.1403.449051.1.754.790 | 17.000.000,00 |
+| 2700.17.512.0066.1400.449051.1.754.790 | 1.996.893,08 |
+| 2700.16.482.0227.1403.449051.1.754.790 | 3.400.000,00 |
+| 2700.15.451.0062.1330.449051.2.759.000 | 1.360.000,00 |
+| 2700.15.451.0233.1396.449051.2.759.000 | 325.985,68 |
+| Fundo de Modernização e Aprimoramento Adm. Tributária do Município – FMAATM |  |
+| 0805.04.129.0105.2652.449040.1.754.790 | 100.000,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.122.0093.2900.339092.1.500.000 | 2.900,00 |
+| TOTAL | 51.635.323,08 |
+| TOTAL DA ANULAÇÃO | 51.749.482,08 |
 
 ANEXO II
 
@@ -308,50 +222,31 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 134.716.353,88 |
-
-|Valor do Decreto publicado nesta data |R$ 114.159,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 134.830.512,88 |
-
-|Saldo atual de créditos suplementares |R$ 1.848.502.259,52 |
-
-|Percentual utilizado |6,80% |
-
-|Atualizado em 11/09/2024 às 19:06:53 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 134.716.353,88 |
+| Valor do Decreto publicado nesta data | R$ 114.159,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 134.830.512,88 |
+| Saldo atual de créditos suplementares | R$ 1.848.502.259,52 |
+| Percentual utilizado | 6,80% |
+| Atualizado em 11/09/2024 às 19:06:53 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 6º, limite de 10% do |
-
-|abertura de créditos suplementares. |valor total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 515.223.679,56 |
-
-|Valor do Decreto publicado nesta data |R$ 51.635.323,08 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 566.859.002,64 |
-
-|Saldo atual de créditos suplementares |R$ 1.416.473.769,76 |
-
-|Percentual utilizado |28,58% |
-
-|Atualizado em 11/09/2024 às 19:08:23 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 6º, limite de 10% do |
+| abertura de créditos suplementares. | valor total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 515.223.679,56 |
+| Valor do Decreto publicado nesta data | R$ 51.635.323,08 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 566.859.002,64 |
+| Saldo atual de créditos suplementares | R$ 1.416.473.769,76 |
+| Percentual utilizado | 28,58% |
+| Atualizado em 11/09/2024 às 19:08:23 |  |

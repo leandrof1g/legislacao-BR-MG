@@ -504,77 +504,43 @@ ANEXO I
 
 PROGRAMAS ABRANGIDOS
 
-|Programa |Secretaria Responsável |Descritivo Básico |
-
-|Segundo Tempo |SMAES |Aprendizagem de diversas modalidades esportivas, fundamentadas nas diretrizes do esporte |
-
-| | |educacional e das práticas lúdicas, desenvolvidas em quadras, campos, piscinas e demais |
-
-| | |áreas esportivas necessárias ao desenvolvimento das atividades planejadas, privilegiando os|
-
-| | |aspectos da socialização e da educação para a cidadania no contraturno escolar. Público |
-
-| | |atendido: crianças e adolescentes, de 6 a 17 anos. |
-
-|Superar |SMAES |Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência, de qualquer|
-
-| | |natureza, a participação e fruição deste bem cultural, caracterizando-se como uma atividade|
-
-| | |inclusiva, de promoção da cidadania e da qualidade de vida. Público atendido: pessoa com |
-
-| | |deficiência em qualquer faixa etária. |
-
-|Vida Ativa |SMAES |Promoção da atividade física regular e a vivência do lazer através da constituição de |
-
-| | |grupos de convivência, contribuindo para a promoção da saúde, da autoestima e da |
-
-| | |socialização, da qualidade de vida dos participantes. Público atendido: pessoas com mais de|
-
-| | |50 anos |
-
-|BH Cidadania |SMPS |Promoção do esporte e do lazer numa perspectiva de desenvolvimento humano, contribuindo |
-
-| | |intersetorialmente para a melhoria da qualidade de vida e diminuição dos índices de |
-
-| | |vulnerabilidade social das comunidades atendidas pelo Programa, tendo como foco a família. |
-
-| | |São desenvolvidas ações voltadas para todas as idades, desde crianças pequenas até o |
-
-| | |público da terceira idade |
-
-|Academia da Cidade|SMSA |As Academias da Cidade são locais com infraestrutura adequada para a prática da atividade |
-
-| | |física ministradas por profissionais de Educação Física, que tem como princípio, adoção de |
-
-| | |um processo educativo e cultural, que possibilite a mudança de hábitos de vida. |
-
-| | |Todos os usuários passam por uma avaliação física para a prescrição e o treinamento de |
-
-| | |exercícios físicos com a carga adequada de forma preventiva, com aulas para a melhora do |
-
-| | |sistema cardiorrespiratório e sistema funcional através de materiais como step’s, |
-
-| | |caneleiras, |
-
-| | |pesos alternativos, bola, goma elástica, arcos, bastões e cordas. |
-
-|Escola Integrada |SMED |A estrutura do Programa Escola Integrada atende aos alunos da rede municipal e está |
-
-| | |balizada por meio de atividades realizadas no contraturno das escolas que são monitoradas |
-
-| | |por professores comunitários (coordenadores), agentes culturais (moram e atuam na |
-
-| | |comunidade) e bolsistas (universitários) e planejam ações relacionadas a acompanhamento |
-
-| | |pedagógico, meio ambiente, atividades esportivas, culturais e artísticas. Ir para além dos |
-
-| | |muros da escola, utilizando espaços e lugares da comunidade, é um dos principais eixos de |
-
-| | |sustentação do programa. A formação integral dos estudantes exige aprendizagens que só |
-
-| | |podem ser construídas no exercício de vivenciar situações reais em outros espaços sociais, |
-
-| | |que extrapolam a natureza do ambiente escolar. |
+| Programa | Secretaria Responsável | Descritivo Básico |
+| --- | --- | --- |
+| Segundo Tempo | SMAES | Aprendizagem de diversas modalidades esportivas, fundamentadas nas diretrizes do esporte |
+|  |  | educacional e das práticas lúdicas, desenvolvidas em quadras, campos, piscinas e demais |
+|  |  | áreas esportivas necessárias ao desenvolvimento das atividades planejadas, privilegiando os |
+|  |  | aspectos da socialização e da educação para a cidadania no contraturno escolar. Público |
+|  |  | atendido: crianças e adolescentes, de 6 a 17 anos. |
+| Superar | SMAES | Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência, de qualquer |
+|  |  | natureza, a participação e fruição deste bem cultural, caracterizando-se como uma atividade |
+|  |  | inclusiva, de promoção da cidadania e da qualidade de vida. Público atendido: pessoa com |
+|  |  | deficiência em qualquer faixa etária. |
+| Vida Ativa | SMAES | Promoção da atividade física regular e a vivência do lazer através da constituição de |
+|  |  | grupos de convivência, contribuindo para a promoção da saúde, da autoestima e da |
+|  |  | socialização, da qualidade de vida dos participantes. Público atendido: pessoas com mais de |
+|  |  | 50 anos |
+| BH Cidadania | SMPS | Promoção do esporte e do lazer numa perspectiva de desenvolvimento humano, contribuindo |
+|  |  | intersetorialmente para a melhoria da qualidade de vida e diminuição dos índices de |
+|  |  | vulnerabilidade social das comunidades atendidas pelo Programa, tendo como foco a família. |
+|  |  | São desenvolvidas ações voltadas para todas as idades, desde crianças pequenas até o |
+|  |  | público da terceira idade |
+| Academia da Cidade | SMSA | As Academias da Cidade são locais com infraestrutura adequada para a prática da atividade |
+|  |  | física ministradas por profissionais de Educação Física, que tem como princípio, adoção de |
+|  |  | um processo educativo e cultural, que possibilite a mudança de hábitos de vida. |
+|  |  | Todos os usuários passam por uma avaliação física para a prescrição e o treinamento de |
+|  |  | exercícios físicos com a carga adequada de forma preventiva, com aulas para a melhora do |
+|  |  | sistema cardiorrespiratório e sistema funcional através de materiais como step’s, |
+|  |  | caneleiras, |
+|  |  | pesos alternativos, bola, goma elástica, arcos, bastões e cordas. |
+| Escola Integrada | SMED | A estrutura do Programa Escola Integrada atende aos alunos da rede municipal e está |
+|  |  | balizada por meio de atividades realizadas no contraturno das escolas que são monitoradas |
+|  |  | por professores comunitários (coordenadores), agentes culturais (moram e atuam na |
+|  |  | comunidade) e bolsistas (universitários) e planejam ações relacionadas a acompanhamento |
+|  |  | pedagógico, meio ambiente, atividades esportivas, culturais e artísticas. Ir para além dos |
+|  |  | muros da escola, utilizando espaços e lugares da comunidade, é um dos principais eixos de |
+|  |  | sustentação do programa. A formação integral dos estudantes exige aprendizagens que só |
+|  |  | podem ser construídas no exercício de vivenciar situações reais em outros espaços sociais, |
+|  |  | que extrapolam a natureza do ambiente escolar. |
 
 ANEXO I
 
@@ -582,75 +548,42 @@ PROGRAMAS ABRANGIDOS
 
 Anexo I com redação dada pelo Decreto nº 14.598, de 5/10/2011 (Art. 1º)
 
-|Programa |Secretaria Responsável|Descritivo Básico |
-
-|Esporte Esperança |SMAES |Aprendizagem de diversas modalidades esportivas, fundamentadas nas diretrizes do esporte |
-
-| | |educacional e das práticas lúdicas, desenvolvidas em quadras, campos, piscinas e demais |
-
-| | |áreas esportivas necessárias ao desenvolvimento das atividades planejadas, privilegiando |
-
-| | |os aspectos da socialização e da educação para a cidadania no contraturno escolar. |
-
-| | |Público atendido: crianças e adolescentes, de 6 a 17 anos. |
-
-|Superar |SMAES |Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência, de |
-
-| | |qualquer natureza, a participação e fruição deste bem cultural, caracterizando-se como |
-
-| | |uma atividade inclusiva, de promoção da cidadania e da qualidade de vida. Público |
-
-| | |atendido: pessoa com deficiência em qualquer faixa etária. |
-
-|Vida Ativa |SMAES |Promoção da atividade física regular e a vivência do lazer através da constituição de |
-
-| | |grupos de convivência, contribuindo para a promoção da saúde, da autoestima e da |
-
-| | |socialização, da qualidade de vida dos participantes. Público atendido: pessoas com mais |
-
-| | |de 50 anos |
-
-|Academia da Cidade |SMSA |As Academias da Cidade são locais com infraestrutura adequada para a prática da atividade|
-
-| | |física ministradas por profissionais de Educação Física, que tem como princípio, adoção |
-
-| | |de um processo educativo e cultural, que possibilite a mudança de hábitos de vida. |
-
-| | |Todos os usuários passam por uma avaliação física para a prescrição e o treinamento de |
-
-| | |exercícios físicos com a carga adequada de forma preventiva, com aulas para a melhora do |
-
-| | |sistema cardiorrespiratório e sistema funcional através de materiais como step’s, |
-
-| | |caneleiras, |
-
-| | |pesos alternativos, bola, goma elástica, arcos, bastões e cordas. |
-
-|Escola Integrada |SMED |A estrutura do Programa Escola Integrada atende aos alunos da rede municipal e está |
-
-| | |balizada por meio de atividades realizadas no contraturno das escolas que são monitoradas|
-
-| | |por professores comunitários (coordenadores), agentes culturais (moram e atuam na |
-
-| | |comunidade) e bolsistas (universitários) e planejam ações relacionadas a acompanhamento |
-
-| | |pedagógico, meio ambiente, atividades esportivas, culturais e artísticas. Ir para além |
-
-| | |dos muros da escola, utilizando espaços e lugares da comunidade, é um dos principais |
-
-| | |eixos de sustentação do programa. A formação integral dos estudantes exige aprendizagens |
-
-| | |que só podem ser construídas no exercício de vivenciar situações reais em outros espaços |
-
-| | |sociais, que extrapolam a natureza do ambiente escolar. |
-
-|BH Descobrindo Talentos |SMAES |Programa de esporte de rendimento voltado para a formação e treinamento de atletas nas |
-
-|no Esporte | |diversas modalidades olímpicas e para-olímpicas, a partir de 14 anos de idade, de caráter|
-
-| | |não profissional. O Programa visa a atender as ações de formação no esporte de |
-
-| | |rendimento, nas diversas modalidades olímpicas e para-olímpicas. |
+| Programa | Secretaria Responsável | Descritivo Básico |
+| --- | --- | --- |
+| Esporte Esperança | SMAES | Aprendizagem de diversas modalidades esportivas, fundamentadas nas diretrizes do esporte |
+|  |  | educacional e das práticas lúdicas, desenvolvidas em quadras, campos, piscinas e demais |
+|  |  | áreas esportivas necessárias ao desenvolvimento das atividades planejadas, privilegiando |
+|  |  | os aspectos da socialização e da educação para a cidadania no contraturno escolar. |
+|  |  | Público atendido: crianças e adolescentes, de 6 a 17 anos. |
+| Superar | SMAES | Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência, de |
+|  |  | qualquer natureza, a participação e fruição deste bem cultural, caracterizando-se como |
+|  |  | uma atividade inclusiva, de promoção da cidadania e da qualidade de vida. Público |
+|  |  | atendido: pessoa com deficiência em qualquer faixa etária. |
+| Vida Ativa | SMAES | Promoção da atividade física regular e a vivência do lazer através da constituição de |
+|  |  | grupos de convivência, contribuindo para a promoção da saúde, da autoestima e da |
+|  |  | socialização, da qualidade de vida dos participantes. Público atendido: pessoas com mais |
+|  |  | de 50 anos |
+| Academia da Cidade | SMSA | As Academias da Cidade são locais com infraestrutura adequada para a prática da atividade |
+|  |  | física ministradas por profissionais de Educação Física, que tem como princípio, adoção |
+|  |  | de um processo educativo e cultural, que possibilite a mudança de hábitos de vida. |
+|  |  | Todos os usuários passam por uma avaliação física para a prescrição e o treinamento de |
+|  |  | exercícios físicos com a carga adequada de forma preventiva, com aulas para a melhora do |
+|  |  | sistema cardiorrespiratório e sistema funcional através de materiais como step’s, |
+|  |  | caneleiras, |
+|  |  | pesos alternativos, bola, goma elástica, arcos, bastões e cordas. |
+| Escola Integrada | SMED | A estrutura do Programa Escola Integrada atende aos alunos da rede municipal e está |
+|  |  | balizada por meio de atividades realizadas no contraturno das escolas que são monitoradas |
+|  |  | por professores comunitários (coordenadores), agentes culturais (moram e atuam na |
+|  |  | comunidade) e bolsistas (universitários) e planejam ações relacionadas a acompanhamento |
+|  |  | pedagógico, meio ambiente, atividades esportivas, culturais e artísticas. Ir para além |
+|  |  | dos muros da escola, utilizando espaços e lugares da comunidade, é um dos principais |
+|  |  | eixos de sustentação do programa. A formação integral dos estudantes exige aprendizagens |
+|  |  | que só podem ser construídas no exercício de vivenciar situações reais em outros espaços |
+|  |  | sociais, que extrapolam a natureza do ambiente escolar. |
+| BH Descobrindo Talentos | SMAES | Programa de esporte de rendimento voltado para a formação e treinamento de atletas nas |
+| no Esporte |  | diversas modalidades olímpicas e para-olímpicas, a partir de 14 anos de idade, de caráter |
+|  |  | não profissional. O Programa visa a atender as ações de formação no esporte de |
+|  |  | rendimento, nas diversas modalidades olímpicas e para-olímpicas. |
 
 ANEXO I
 
@@ -658,73 +591,45 @@ PROGRAMAS ABRANGIDOS
 
 Anexo I com redação dada pelo Decreto nº 16.641, de 28/6/2017 (Art. 12)
 
-|Programa |Secretaria |Descritivo Básico |
-
-| |Responsável | |
-
-|Esporte Esperança |SMAES |Desenvolvimento de diversas modalidades esportivas fundamentadas nas diretrizes do esporte|
-
-| | |educacional e nas práticas lúdicas. O módulo privilegia a socialização e a educação, e tem|
-
-| | |como objetivo, o desenvolvimento da cidadania no período do contraturno escolar. Público |
-
-| | |atendido: crianças e adolescentes da faixa etária entre 6 e 17 anos. |
-
-|Superar |SMAES |Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência participar |
-
-| | |e fruir de uma atividade física e socializante. O módulo visa oferecer atividades de cunho|
-
-| | |inclusivo, promovendo a cidadania e o desenvolvimento da qualidade de vida. Público |
-
-| | |atendido: pessoas com deficiência, sem limitação de idade. |
-
-|Vida Ativa |SMAES |Desenvolvimento da atividade física regular e do lazer através da constituição de grupos |
-
-| | |de convivência. O módulo visa contribuir, para a promoção da saúde, da autoestima, da |
-
-| | |socialização e da qualidade de vida dos participantes. Público atendido: pessoas com idade|
-
-| | |igual ou superior a 50 anos |
-
-| |SMSA |Desenvolvimento de atividades físicas sistematizadas. O módulo visa possibilitar, por meio|
-
-|Academia da Cidade | |de um processo educativo e cultural, a implementação de hábitos saudáveis aos |
-
-| | |participantes. Público atendido: adolescentes em situação de vulnerabilidade e pessoas |
-
-| | |acima de 18 anos de idade. |
-
-|Escola Integrada |SMED |Recepcionar alunos de escolas públicas, permitindo a utilização dos espaços dos clubes |
-
-| | |aderentes ao programa como uma extensão dos muros da escola. |
-
-| | |O módulo visa a formação integral dos estudantes, possibilitando vivenciar situações em |
-
-| | |outros espaços sociais. Público atendido: alunos do programa escola integrada. |
-
-|BH Descobrindo Talentos |SMAES |Desenvolvimento do esporte de formação e rendimento, voltado para o treinamento de |
-
-|no Esporte | |atletas, nas diversas modalidades esportivas, com caráter não profissional. Público |
-
-| | |atendido: todas as faixas etárias previstas nas categorias oficiais de cada modalidade. |
+| Programa | Secretaria | Descritivo Básico |
+| --- | --- | --- |
+|  | Responsável |  |
+| Esporte Esperança | SMAES | Desenvolvimento de diversas modalidades esportivas fundamentadas nas diretrizes do esporte |
+|  |  | educacional e nas práticas lúdicas. O módulo privilegia a socialização e a educação, e tem |
+|  |  | como objetivo, o desenvolvimento da cidadania no período do contraturno escolar. Público |
+|  |  | atendido: crianças e adolescentes da faixa etária entre 6 e 17 anos. |
+| Superar | SMAES | Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência participar |
+|  |  | e fruir de uma atividade física e socializante. O módulo visa oferecer atividades de cunho |
+|  |  | inclusivo, promovendo a cidadania e o desenvolvimento da qualidade de vida. Público |
+|  |  | atendido: pessoas com deficiência, sem limitação de idade. |
+| Vida Ativa | SMAES | Desenvolvimento da atividade física regular e do lazer através da constituição de grupos |
+|  |  | de convivência. O módulo visa contribuir, para a promoção da saúde, da autoestima, da |
+|  |  | socialização e da qualidade de vida dos participantes. Público atendido: pessoas com idade |
+|  |  | igual ou superior a 50 anos |
+|  | SMSA | Desenvolvimento de atividades físicas sistematizadas. O módulo visa possibilitar, por meio |
+| Academia da Cidade |  | de um processo educativo e cultural, a implementação de hábitos saudáveis aos |
+|  |  | participantes. Público atendido: adolescentes em situação de vulnerabilidade e pessoas |
+|  |  | acima de 18 anos de idade. |
+| Escola Integrada | SMED | Recepcionar alunos de escolas públicas, permitindo a utilização dos espaços dos clubes |
+|  |  | aderentes ao programa como uma extensão dos muros da escola. |
+|  |  | O módulo visa a formação integral dos estudantes, possibilitando vivenciar situações em |
+|  |  | outros espaços sociais. Público atendido: alunos do programa escola integrada. |
+| BH Descobrindo Talentos | SMAES | Desenvolvimento do esporte de formação e rendimento, voltado para o treinamento de |
+| no Esporte |  | atletas, nas diversas modalidades esportivas, com caráter não profissional. Público |
+|  |  | atendido: todas as faixas etárias previstas nas categorias oficiais de cada modalidade. |
 
 ANEXO II
 
 MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
-|Programa |Nº Indivíduos atendidos |Duração Diária (em horas) |Frequência Semanal |
-
-|Segundo Tempo |100 |2 |3 |
-
-|Superar |10 |1 |2 |
-
-|Vida Ativa |50 |1 |2 |
-
-|BH Cidadania |100 |2 |3 |
-
-|Academia da Cidade |60 |1 |3 |
-
-|Escola Integrada |30 |8 |5 |
+| Programa | Nº Indivíduos atendidos | Duração Diária (em horas) | Frequência Semanal |
+| --- | --- | --- | --- |
+| Segundo Tempo | 100 | 2 | 3 |
+| Superar | 10 | 1 | 2 |
+| Vida Ativa | 50 | 1 | 2 |
+| BH Cidadania | 100 | 2 | 3 |
+| Academia da Cidade | 60 | 1 | 3 |
+| Escola Integrada | 30 | 8 | 5 |
 
 ANEXO II
 
@@ -732,23 +637,16 @@ MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
 Anexo II com redação dada pelo Decreto nº 14.598, de 5/10/2011 (Art. 1º)
 
-|Programa |Nº Indivíduos atendidos |Duração Diária (em |Frequência Semanal |
-
-| | |horas) | |
-
-|Esporte Esperança |100 |2 |3 |
-
-|Superar |10 |1 |2 |
-
-|Vida Ativa |50 |1 |2 |
-
-|Academia da Cidade |60 |1 |3 |
-
-|Escola Integrada |30 |8 |5 |
-
-|BH Descobrindo Talentos no |100 |2 |3 |
-
-|Esporte | | | |
+| Programa | Nº Indivíduos atendidos | Duração Diária (em | Frequência Semanal |
+| --- | --- | --- | --- |
+|  |  | horas) |  |
+| Esporte Esperança | 100 | 2 | 3 |
+| Superar | 10 | 1 | 2 |
+| Vida Ativa | 50 | 1 | 2 |
+| Academia da Cidade | 60 | 1 | 3 |
+| Escola Integrada | 30 | 8 | 5 |
+| BH Descobrindo Talentos no | 100 | 2 | 3 |
+| Esporte |  |  |  |
 
 ANEXO II
 
@@ -756,107 +654,69 @@ MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
 Anexo II com redação dada pelo Decreto nº 16.641, de 28/6/2017 (Art. 12)
 
-|Programa |Nº Indivíduos atendidos|Duração Diária (em horas)|Frequência Semanal |
-
-|Esporte Esperança |80 |1 |2 |
-
-|Superar |10 |1 |2 |
-
-|Vida Ativa |50 |1 |2 |
-
-|Academia da Cidade |60 |1 |3 |
-
-|Escola Integrada |80 |6 |2 |
-
-|BH Descobrindo Talentos no |100 |2 |3 |
-
-|Esporte | | | |
+| Programa | Nº Indivíduos atendidos | Duração Diária (em horas) | Frequência Semanal |
+| --- | --- | --- | --- |
+| Esporte Esperança | 80 | 1 | 2 |
+| Superar | 10 | 1 | 2 |
+| Vida Ativa | 50 | 1 | 2 |
+| Academia da Cidade | 60 | 1 | 3 |
+| Escola Integrada | 80 | 6 | 2 |
+| BH Descobrindo Talentos no | 100 | 2 | 3 |
+| Esporte |  |  |  |
 
 ANEXO III
 
-|[pic] |Formulário de Requerimento de Conveniamento – Decreto nº 14.183, de 10 de novembro de 2010 |
+| *[imagem no documento original — ver `fonte_texto`]*
 
-|Nome da Entidade |
-
-|Endereço |
-
-| |
-
-|Telefone |CNPJ |
-
-|Nome do Representante: |
-
-|Cargo ou função: |CPF: |
-
-|A Entidade acima identificada, por meio de seu representante, vem solicitar a habilitação no Programa Esporte para Todos de benefício |
-
-|fiscal de IPTU e débitos perante a Fazenda Pública Municipal, previsto no art. 4º da Lei nº 9.795/09, regulamentada pelo Decreto nº |
-
-|14.183/10, estando ciente das condições previstas na normatização indicada. |
-
-|Programas aos quais pretende aderir: |
-
-| |Segundo Tempo | |BH Cidadania |
-
-| |Superar | |Academia da Cidade |
-
-| |Vida Ativa | |Escola Integrada |
-
-|Local e Data: |
-
-|Assinatura: |
-
-|Para uso da PBH |
-
-|Local e Data de Protocolo: |
-
-|Rubrica do recebedor: |BM: |
+| Formulário de Requerimento de Conveniamento – Decreto nº 14.183, de 10 de novembro de 2010 |  |  |
+| --- | --- | --- | --- |
+| Nome da Entidade |  |  |  |
+| Endereço |  |  |  |
+|  |  |  |  |
+| Telefone | CNPJ |  |  |
+| Nome do Representante: |  |  |  |
+| Cargo ou função: | CPF: |  |  |
+| A Entidade acima identificada, por meio de seu representante, vem solicitar a habilitação no Programa Esporte para Todos de benefício |  |  |  |
+| fiscal de IPTU e débitos perante a Fazenda Pública Municipal, previsto no art. 4º da Lei nº 9.795/09, regulamentada pelo Decreto nº |  |  |  |
+| 14.183/10, estando ciente das condições previstas na normatização indicada. |  |  |  |
+| Programas aos quais pretende aderir: |  |  |  |
+|  | Segundo Tempo |  | BH Cidadania |
+|  | Superar |  | Academia da Cidade |
+|  | Vida Ativa |  | Escola Integrada |
+| Local e Data: |  |  |  |
+| Assinatura: |  |  |  |
+| Para uso da PBH |  |  |  |
+| Local e Data de Protocolo: |  |  |  |
+| Rubrica do recebedor: | BM: |  |  |
 
 ANEXO III
 
 Anexo III com redação dada pelo Decreto nº 14.598, de 5/10/2011 (Art. 1º)
 
-|[pic] |Formulário de Requerimento de Conveniamento – Decreto nº ________ |
+| *[imagem no documento original — ver `fonte_texto`]*
 
-|Nome da Entidade |
-
-|Endereço |
-
-| |
-
-|Telefone |CNPJ |
-
-|Nome do Representante: |
-
-|Cargo ou função: |CPF: |
-
-|A Entidade acima identificada, por meio de seu representante , vem solicitar a habilitação no Programa Esporte para Todos de |
-
-|benefício fiscal de IPTU e débitos perante a Fazenda Pública Municipal, previsto no art. 4º da Lei nº 9.795/09, regulamentada pelo|
-
-|Decreto nº ________, estando ciente das condições previstas na normatização indicada. |
-
-|Programas aos quais pretende aderir: |
-
-| |Esporte | |Academia da Cidade |
-
-| |Esperança | | |
-
-| |Superar | |Escola Integrada |
-
-| |Vida Ativa | |BH Descobrindo Talentos no |
-
-| | | |Esporte |
-
-|Local e Data: |
-
-|Assinatura: |
-
-|Para uso da PBH |
-
-|Local e Data de Protocolo: |
-
-|Rubrica do recebedor: |BM: |
+| Formulário de Requerimento de Conveniamento – Decreto nº ________ |  |  |
+| --- | --- | --- | --- |
+| Nome da Entidade |  |  |  |
+| Endereço |  |  |  |
+|  |  |  |  |
+| Telefone | CNPJ |  |  |
+| Nome do Representante: |  |  |  |
+| Cargo ou função: | CPF: |  |  |
+| A Entidade acima identificada, por meio de seu representante , vem solicitar a habilitação no Programa Esporte para Todos de |  |  |  |
+| benefício fiscal de IPTU e débitos perante a Fazenda Pública Municipal, previsto no art. 4º da Lei nº 9.795/09, regulamentada pelo |  |  |  |
+| Decreto nº ________, estando ciente das condições previstas na normatização indicada. |  |  |  |
+| Programas aos quais pretende aderir: |  |  |  |
+|  | Esporte |  | Academia da Cidade |
+|  | Esperança |  |  |
+|  | Superar |  | Escola Integrada |
+|  | Vida Ativa |  | BH Descobrindo Talentos no |
+|  |  |  | Esporte |
+| Local e Data: |  |  |  |
+| Assinatura: |  |  |  |
+| Para uso da PBH |  |  |  |
+| Local e Data de Protocolo: |  |  |  |
+| Rubrica do recebedor: | BM: |  |  |
 
 ANEXO I
 
@@ -864,197 +724,107 @@ PROGRAMAS ABRANGIDOS
 
 Anexo I com redação dada pelo Decreto nº 17.091, de 25/4/2019 (Art. 9º)
 
-|Programa |Secretaria |Descritivo Básico |
-
-| |Responsável | |
-
-|Esporte Esperança |SMEL |Desenvolvimento de práticas esportivas no contraturno escolar |
-
-| | |com base no aprendizado e formação integral, contribuindo para|
-
-| | |o desenvolvimento motor, físico, cognitivo e socioafetivo da |
-
-| | |criança e do adolescente. O módulo privilegia o processo |
-
-| | |pedagógico de ensino-aprendizagem do esporte, a diversidade de|
-
-| | |vivências esportivas, o respeito às individualidades e |
-
-| | |diferenças e o incentivo à autonomia, cooperação e |
-
-| | |corresponsabilidade. Público atendido: crianças e adolescentes|
-
-| | |da faixa etária entre seis e dezessete anos. |
-
-|Superar |SMEL |Desenvolvimento do esporte adaptado, possibilitando às pessoas|
-
-| | |com deficiência participar e fruir de uma atividade física e |
-
-| | |socializante. O módulo visa oferecer atividades de cunho |
-
-| | |inclusivo, promovendo a cidadania e o desenvolvimento da |
-
-| | |qualidade de vida. Público atendido: pessoas com deficiência, |
-
-| | |sem limitação de idade. |
-
-|Vida Ativa |SMEL |Desenvolvimento da atividade física regular e do lazer através|
-
-| | |da constituição de grupos de convivência. O módulo visa |
-
-| | |contribuir, para a promoção da saúde, da autoestima, da |
-
-| | |socialização e da qualidade de vida dos participantes. Público|
-
-| | |atendido: pessoas com idade igual ou superior a cinquenta anos|
-
-|Academia da Cidade |SMSA |Desenvolvimento de atividades físicas sistematizadas. O módulo|
-
-| | |visa possibilitar, por meio de um processo educativo e |
-
-| | |cultural, a implementação de hábitos saudáveis aos |
-
-| | |participantes. Público atendido: adolescentes em situação de |
-
-| | |vulnerabilidade e pessoas acima de dezoito anos de idade. |
-
-|Escola Integrada |SMED |Possibilitar diferentes práticas esportivas e de lazer em |
-
-| | |espaços não escolares, garantindo aos estudantes da RME a |
-
-| | |realização de atividades baseadas em experimentações |
-
-| | |corporais, lúdicas e esportivas a fim de promover o |
-
-| | |desenvolvimento das potencialidades físicas, socialização e |
-
-| | |vivência coletiva dos valores e atitudes. |
-
-| | |O atendimento realizado em cada módulo deverá garantir a |
-
-| | |utilização, pelos estudantes das escolas públicas municipais, |
-
-| | |dos diversos espaços dos clubes aderentes ao programa. |
-
-| | |O módulo visa a formação integral dos estudantes, |
-
-| | |possibilitando novas oportunidades, de múltiplas |
-
-| | |aprendizagens, em espaços sociais que ultrapassam os muros da |
-
-| | |escola. |
-
-| | |Público atendido: Estudantes da Rede Municipal de Educação de |
-
-| | |Belo Horizonte |
-
-|Sistema Único de |SMASAC |Recepção da comunidade referenciada pelos Centros de |
-
-|Assistência Social | |Referência de Assitência Social (CRAS) possibilitando o |
-
-|– SUAS | |fortalecimento de vínculos familiares e comunitários por meio |
-
-| | |de vivências socializadoras de esporte e lazer de natureza |
-
-| | |recreativa nos espaços da entidade aderida. |
-
-| | |Público atendido: Comunidade/família referenciada no CRAS |
+| Programa | Secretaria | Descritivo Básico |
+| --- | --- | --- |
+|  | Responsável |  |
+| Esporte Esperança | SMEL | Desenvolvimento de práticas esportivas no contraturno escolar |
+|  |  | com base no aprendizado e formação integral, contribuindo para |
+|  |  | o desenvolvimento motor, físico, cognitivo e socioafetivo da |
+|  |  | criança e do adolescente. O módulo privilegia o processo |
+|  |  | pedagógico de ensino-aprendizagem do esporte, a diversidade de |
+|  |  | vivências esportivas, o respeito às individualidades e |
+|  |  | diferenças e o incentivo à autonomia, cooperação e |
+|  |  | corresponsabilidade. Público atendido: crianças e adolescentes |
+|  |  | da faixa etária entre seis e dezessete anos. |
+| Superar | SMEL | Desenvolvimento do esporte adaptado, possibilitando às pessoas |
+|  |  | com deficiência participar e fruir de uma atividade física e |
+|  |  | socializante. O módulo visa oferecer atividades de cunho |
+|  |  | inclusivo, promovendo a cidadania e o desenvolvimento da |
+|  |  | qualidade de vida. Público atendido: pessoas com deficiência, |
+|  |  | sem limitação de idade. |
+| Vida Ativa | SMEL | Desenvolvimento da atividade física regular e do lazer através |
+|  |  | da constituição de grupos de convivência. O módulo visa |
+|  |  | contribuir, para a promoção da saúde, da autoestima, da |
+|  |  | socialização e da qualidade de vida dos participantes. Público |
+|  |  | atendido: pessoas com idade igual ou superior a cinquenta anos |
+| Academia da Cidade | SMSA | Desenvolvimento de atividades físicas sistematizadas. O módulo |
+|  |  | visa possibilitar, por meio de um processo educativo e |
+|  |  | cultural, a implementação de hábitos saudáveis aos |
+|  |  | participantes. Público atendido: adolescentes em situação de |
+|  |  | vulnerabilidade e pessoas acima de dezoito anos de idade. |
+| Escola Integrada | SMED | Possibilitar diferentes práticas esportivas e de lazer em |
+|  |  | espaços não escolares, garantindo aos estudantes da RME a |
+|  |  | realização de atividades baseadas em experimentações |
+|  |  | corporais, lúdicas e esportivas a fim de promover o |
+|  |  | desenvolvimento das potencialidades físicas, socialização e |
+|  |  | vivência coletiva dos valores e atitudes. |
+|  |  | O atendimento realizado em cada módulo deverá garantir a |
+|  |  | utilização, pelos estudantes das escolas públicas municipais, |
+|  |  | dos diversos espaços dos clubes aderentes ao programa. |
+|  |  | O módulo visa a formação integral dos estudantes, |
+|  |  | possibilitando novas oportunidades, de múltiplas |
+|  |  | aprendizagens, em espaços sociais que ultrapassam os muros da |
+|  |  | escola. |
+|  |  | Público atendido: Estudantes da Rede Municipal de Educação de |
+|  |  | Belo Horizonte |
+| Sistema Único de | SMASAC | Recepção da comunidade referenciada pelos Centros de |
+| Assistência Social |  | Referência de Assitência Social (CRAS) possibilitando o |
+| – SUAS |  | fortalecimento de vínculos familiares e comunitários por meio |
+|  |  | de vivências socializadoras de esporte e lazer de natureza |
+|  |  | recreativa nos espaços da entidade aderida. |
+|  |  | Público atendido: Comunidade/família referenciada no CRAS |
 
 ANEXO I
 
 PROGRAMAS ABRANGIDOS Anexo I com redação dada pelo Decreto nº 17.690, de 18/8/2021 (Art. 1º)
 
-|Programa |Secretaria |Descritivo básico |
-
-| |responsável | |
-
-|Esporte Esperança |SMEL |Desenvolvimento de práticas esportivas, no contraturno escolar, realizadas de maneira a |
-
-| | |atender os princípios do esporte educacional, visando à formação integral do participante. |
-
-| | |Este módulo privilegia um processo pedagógico de ensino-aprendizagem de modalidades esportivas|
-
-| | |que possam contribuir para o desenvolvimento motor, físico e cognitivo e para a formação |
-
-| | |social, estimulando o desenvolvimento de atitudes solidárias, cooperativas, éticas e de |
-
-| | |cidadania, o respeito a individualidades e diferenças e incentivando a autonomia, cooperação e|
-
-| | |corresponsabilidade. |
-
-| | |Público atendido: crianças e adolescentes da faixa etária entre seis e dezessete anos. |
-
-|Superar |SMEL |Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência participar e |
-
-| | |fruir de atividade física e socializante. O módulo visa oferecer atividades inclusivas, |
-
-| | |promovendo a cidadania e desenvolvendo a qualidade de vida. |
-
-| | |Público atendido: pessoas com deficiência, sem limitação de idade. |
-
-|Vida Ativa |SMEL |Desenvolvimento da atividade física regular e do lazer por meio da constituição de grupos de |
-
-| | |convivência. O módulo visa contribuir para a promoção da saúde, autoestima, socialização e |
-
-| | |qualidade de vida dos participantes. |
-
-| | |Público atendido: pessoas com idade igual ou superior a cinquenta anos. |
-
-|Caminhar |SMEL |Contribuição para a saúde e qualidade de vida do público adulto a partir da vivência do lazer |
-
-| | |físico. O módulo visa possibilitar o acesso de pequenos grupos a espaços e equipamentos |
-
-| | |necessários à prática não monitorada do esporte coletivo, bem como a participação de |
-
-| | |indivíduos em modalidades de atividade física com caráter continuado e com orientação |
-
-| | |profissional. |
-
-| | |Público atendido: pessoas com idade entre dezoito e cinquenta anos. |
-
-|Academia da Cidade |SMSA |Desenvolvimento de exercícios físicos e outras ações de promoção à saúde. O módulo visa |
-
-| | |possibilitar a adesão a hábitos de vida saudáveis, por meio da oferta de atividades |
-
-| | |relacionadas às práticas corporais e às atividades físicas, bem como de ações educativas em |
-
-| | |saúde. |
-
-| | |Público atendido: munícipes de Belo Horizonte, preferencialmente com idade acima de dezoito |
-
-| | |anos, que não possuam restrição clínica à prática da atividade física proposta na Academia da |
-
-| | |Cidade e que, após avaliação por profissional de Educação Física do programa, sejam |
-
-| | |considerados aptos às aulas ofertadas. |
-
-|Escola Integrada |SMED |Desenvolvimento de oficinas esportivas e de lazer em espaços não escolares. O módulo visa à |
-
-| | |formação integral dos estudantes, possibilitando novas oportunidades de múltiplas |
-
-| | |aprendizagens, em espaços sociais que ultrapassam os muros da escola. |
-
-| | |Os atendimentos serão espelhos das ações realizadas nas escolas, seguindo todas as orientações|
-
-| | |de higienização de espaços, quantitativo de estudantes por ambiente e carga horária. |
-
-| | |As escolas municipais serão fidelizadas aos clubes que estão inseridos no seu território. O |
-
-| | |quantitativo será condicionado à organização das escolas e aos espaços independentes |
-
-| | |disponibilizados pelo clube (piscinas, quadras, dentre outros). |
-
-| | |Público atendido: estudantes da Rede Municipal de Educação de Belo Horizonte. |
-
-|Sistema Único de |SMASAC |Recepção da comunidade referenciada pelos Centros de Referência de Assistência Social |
-
-|Assistência Social – | |– Cras –, possibilitando o fortalecimento de vínculos familiares e comunitários por meio de |
-
-|Suas | |vivências socializadoras de esporte e lazer de natureza recreativa nos espaços da entidade |
-
-| | |aderida. |
-
-| | |Público atendido: comunidade ou família referenciada no Cras. |
+| Programa | Secretaria | Descritivo básico |
+| --- | --- | --- |
+|  | responsável |  |
+| Esporte Esperança | SMEL | Desenvolvimento de práticas esportivas, no contraturno escolar, realizadas de maneira a |
+|  |  | atender os princípios do esporte educacional, visando à formação integral do participante. |
+|  |  | Este módulo privilegia um processo pedagógico de ensino-aprendizagem de modalidades esportivas |
+|  |  | que possam contribuir para o desenvolvimento motor, físico e cognitivo e para a formação |
+|  |  | social, estimulando o desenvolvimento de atitudes solidárias, cooperativas, éticas e de |
+|  |  | cidadania, o respeito a individualidades e diferenças e incentivando a autonomia, cooperação e |
+|  |  | corresponsabilidade. |
+|  |  | Público atendido: crianças e adolescentes da faixa etária entre seis e dezessete anos. |
+| Superar | SMEL | Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência participar e |
+|  |  | fruir de atividade física e socializante. O módulo visa oferecer atividades inclusivas, |
+|  |  | promovendo a cidadania e desenvolvendo a qualidade de vida. |
+|  |  | Público atendido: pessoas com deficiência, sem limitação de idade. |
+| Vida Ativa | SMEL | Desenvolvimento da atividade física regular e do lazer por meio da constituição de grupos de |
+|  |  | convivência. O módulo visa contribuir para a promoção da saúde, autoestima, socialização e |
+|  |  | qualidade de vida dos participantes. |
+|  |  | Público atendido: pessoas com idade igual ou superior a cinquenta anos. |
+| Caminhar | SMEL | Contribuição para a saúde e qualidade de vida do público adulto a partir da vivência do lazer |
+|  |  | físico. O módulo visa possibilitar o acesso de pequenos grupos a espaços e equipamentos |
+|  |  | necessários à prática não monitorada do esporte coletivo, bem como a participação de |
+|  |  | indivíduos em modalidades de atividade física com caráter continuado e com orientação |
+|  |  | profissional. |
+|  |  | Público atendido: pessoas com idade entre dezoito e cinquenta anos. |
+| Academia da Cidade | SMSA | Desenvolvimento de exercícios físicos e outras ações de promoção à saúde. O módulo visa |
+|  |  | possibilitar a adesão a hábitos de vida saudáveis, por meio da oferta de atividades |
+|  |  | relacionadas às práticas corporais e às atividades físicas, bem como de ações educativas em |
+|  |  | saúde. |
+|  |  | Público atendido: munícipes de Belo Horizonte, preferencialmente com idade acima de dezoito |
+|  |  | anos, que não possuam restrição clínica à prática da atividade física proposta na Academia da |
+|  |  | Cidade e que, após avaliação por profissional de Educação Física do programa, sejam |
+|  |  | considerados aptos às aulas ofertadas. |
+| Escola Integrada | SMED | Desenvolvimento de oficinas esportivas e de lazer em espaços não escolares. O módulo visa à |
+|  |  | formação integral dos estudantes, possibilitando novas oportunidades de múltiplas |
+|  |  | aprendizagens, em espaços sociais que ultrapassam os muros da escola. |
+|  |  | Os atendimentos serão espelhos das ações realizadas nas escolas, seguindo todas as orientações |
+|  |  | de higienização de espaços, quantitativo de estudantes por ambiente e carga horária. |
+|  |  | As escolas municipais serão fidelizadas aos clubes que estão inseridos no seu território. O |
+|  |  | quantitativo será condicionado à organização das escolas e aos espaços independentes |
+|  |  | disponibilizados pelo clube (piscinas, quadras, dentre outros). |
+|  |  | Público atendido: estudantes da Rede Municipal de Educação de Belo Horizonte. |
+| Sistema Único de | SMASAC | Recepção da comunidade referenciada pelos Centros de Referência de Assistência Social |
+| Assistência Social – |  | – Cras –, possibilitando o fortalecimento de vínculos familiares e comunitários por meio de |
+| Suas |  | vivências socializadoras de esporte e lazer de natureza recreativa nos espaços da entidade |
+|  |  | aderida. |
+|  |  | Público atendido: comunidade ou família referenciada no Cras. |
 
 ANEXO I
 
@@ -1062,145 +832,77 @@ PROGRAMAS ABRANGIDOS
 
 Anexo I com redação dada pelo Decreto nº 19.244, de 20/8/2025 (Art. 7º)
 
-|Programa |Secretaria responsável |Descritivo básico |
-
-|Esporte Esperança |SMEL |Desenvolvimento de práticas esportivas, no contraturno escolar, realizadas de |
-
-| | |maneira a atender os princípios do esporte educacional, visando à formação |
-
-| | |integral do participante. Este programa privilegia um processo pedagógico de |
-
-| | |ensino-aprendizagem de modalidades esportivas que possam contribuir para o |
-
-| | |desenvolvimento motor, físico e cognitivo e para a formação social, |
-
-| | |estimulando o desenvolvimento de atitudes solidárias, cooperativas, éticas e |
-
-| | |de cidadania, o respeito a individualidades e diferenças e incentivando a |
-
-| | |autonomia, cooperação e corresponsabilidade. |
-
-| | |Público atendido: crianças e adolescentes da faixa etária entre 6 (seis) e 17 |
-
-| | |(dezessete) anos. |
-
-|Superar |SMEL |Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência|
-
-| | |participar e fruir de atividade física e socializante. Este programa é |
-
-| | |composto por dois serviços, sendo os atendimentos nomeados “Práticas |
-
-| | |Esportivas” e “Natação”, e visa oferecer atividades inclusivas, promovendo o |
-
-| | |bem-estar físico, mental, social e o desenvolvimento de hábitos de vida |
-
-| | |saudáveis. |
-
-| | |Público atendido: pessoas com deficiência a partir dos 6 (seis) anos de idade.|
-
-|Vida Ativa |SMEL |Desenvolvimento da atividade física regular e do lazer por meio da |
-
-| | |constituição de grupos de convivência. Este programa visa contribuir para a |
-
-| | |promoção da saúde, autoestima, socialização e qualidade de vida dos |
-
-| | |participantes. |
-
-| | |Público atendido: pessoas com idade igual ou superior a 50 (cinquenta) anos. |
-
-|Treina BH |SMEL |Contribuição para a saúde e qualidade de vida do público adulto a partir da |
-
-| | |vivência do lazer físico. Este programa é composto por dois serviços. O |
-
-| | |atendimento nomeado “Serviço Esporte”, que visa disponibilizar o acesso de |
-
-| | |pequenos grupos que se reúnem para praticar modalidades de esporte coletivo de|
-
-| | |forma autônoma, sem necessidade de orientação profissional, quadras, campos, |
-
-| | |piscinas e empréstimo de material necessário às atividades. O atendimento |
-
-| | |nomeado “Serviço Atividade Física” visa possibilitar a participação de |
-
-| | |indivíduos em modalidades de atividade física sistematizada com orientação |
-
-| | |profissional, como musculação, dança, ginástica funcional, hidroginástica, |
-
-| | |dentre outras. |
-
-| | |Público atendido: pessoas com idade entre 18 (dezoito) e 50 (cinquenta) anos. |
-
-|Academia da Cidade |SMSA |Desenvolvimento de exercícios físicos e outras ações de promoção à saúde. Este|
-
-| | |programa visa possibilitar a adesão a hábitos de vida saudáveis, por meio da |
-
-| | |oferta de atividades relacionadas às práticas corporais e às atividades |
-
-| | |físicas, bem como de ações educativas em saúde. |
-
-| | |Público atendido: munícipes de Belo Horizonte, preferencialmente com idade |
-
-| | |acima de 18 (dezoito) anos, que não possuam restrição clínica à prática da |
-
-| | |atividade física proposta na Academia da Cidade e que, após avaliação por |
-
-| | |profissional de Educação Física do programa, sejam considerados aptos às aulas|
-
-| | |ofertadas. |
-
-|Escola Integrada |SMED |Possibilitar vivências múltiplas desportivas e de lazer em espaços não |
-
-| | |escolares, garantindo aos estudantes da Rede Municipal de Educação a |
-
-| | |realização de atividades baseadas em experimentações corporais, lúdicas e |
-
-| | |inclusivas, a fim de promover o desenvolvimento das potencialidades físicas, |
-
-| | |socialização, cooperação e discussão de valores e atitudes. |
-
-| | |O atendimento realizado em cada módulo deverá garantir a utilização segura, |
-
-| | |pelos estudantes das escolas públicas municipais, dos diversos espaços dos |
-
-| | |clubes aderentes ao programa, sendo obrigatória a disponibilização de |
-
-| | |guarda-vidas pela entidade parceira durante o uso de piscinas para a execução |
-
-| | |de atividades aquáticas. Este programa visa a formação integral dos |
-
-| | |estudantes, possibilitando novas oportunidades, de múltiplas aprendizagens, em|
-
-| | |espaços sociais que ultrapassam os muros da escola. |
-
-| | |As escolas municipais serão fidelizadas aos clubes que estão inseridos |
-
-| | |prioritariamente no seu território. O quantitativo será condicionado à |
-
-| | |organização das escolas e aos espaços independentes disponibilizados pelo |
-
-| | |clube (piscinas, quadras, dentre outros). |
-
-| | |Público atendido: estudantes da Rede Municipal de Educação de Belo Horizonte. |
-
-|Cidadania e |SMASDH |Recepção da comunidade referenciada nas políticas públicas de Assistência |
-
-|Convivência | |Social e Direitos Humanos, possibilitando o fortalecimento de vínculos |
-
-| | |familiares e comunitários, a promoção de ações afirmativas e atividades |
-
-| | |lúdicas em prol da defesa dos direitos humanos e de cidadania por meio de |
-
-| | |vivências socializadoras de esporte e lazer de natureza recreativa nos espaços|
-
-| | |da entidade aderida. |
-
-| | |Público atendido: usuários ou famílias referenciadas nos serviços, programas, |
-
-| | |projetos e demais ações das Políticas de Assistência Social e Direitos Humanos|
-
-| | |no âmbito da Secretaria Municipal de Assistência Social e Direitos Humanos – |
-
-| | |SMASDH. |
+| Programa | Secretaria responsável | Descritivo básico |
+| --- | --- | --- |
+| Esporte Esperança | SMEL | Desenvolvimento de práticas esportivas, no contraturno escolar, realizadas de |
+|  |  | maneira a atender os princípios do esporte educacional, visando à formação |
+|  |  | integral do participante. Este programa privilegia um processo pedagógico de |
+|  |  | ensino-aprendizagem de modalidades esportivas que possam contribuir para o |
+|  |  | desenvolvimento motor, físico e cognitivo e para a formação social, |
+|  |  | estimulando o desenvolvimento de atitudes solidárias, cooperativas, éticas e |
+|  |  | de cidadania, o respeito a individualidades e diferenças e incentivando a |
+|  |  | autonomia, cooperação e corresponsabilidade. |
+|  |  | Público atendido: crianças e adolescentes da faixa etária entre 6 (seis) e 17 |
+|  |  | (dezessete) anos. |
+| Superar | SMEL | Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência |
+|  |  | participar e fruir de atividade física e socializante. Este programa é |
+|  |  | composto por dois serviços, sendo os atendimentos nomeados “Práticas |
+|  |  | Esportivas” e “Natação”, e visa oferecer atividades inclusivas, promovendo o |
+|  |  | bem-estar físico, mental, social e o desenvolvimento de hábitos de vida |
+|  |  | saudáveis. |
+|  |  | Público atendido: pessoas com deficiência a partir dos 6 (seis) anos de idade. |
+| Vida Ativa | SMEL | Desenvolvimento da atividade física regular e do lazer por meio da |
+|  |  | constituição de grupos de convivência. Este programa visa contribuir para a |
+|  |  | promoção da saúde, autoestima, socialização e qualidade de vida dos |
+|  |  | participantes. |
+|  |  | Público atendido: pessoas com idade igual ou superior a 50 (cinquenta) anos. |
+| Treina BH | SMEL | Contribuição para a saúde e qualidade de vida do público adulto a partir da |
+|  |  | vivência do lazer físico. Este programa é composto por dois serviços. O |
+|  |  | atendimento nomeado “Serviço Esporte”, que visa disponibilizar o acesso de |
+|  |  | pequenos grupos que se reúnem para praticar modalidades de esporte coletivo de |
+|  |  | forma autônoma, sem necessidade de orientação profissional, quadras, campos, |
+|  |  | piscinas e empréstimo de material necessário às atividades. O atendimento |
+|  |  | nomeado “Serviço Atividade Física” visa possibilitar a participação de |
+|  |  | indivíduos em modalidades de atividade física sistematizada com orientação |
+|  |  | profissional, como musculação, dança, ginástica funcional, hidroginástica, |
+|  |  | dentre outras. |
+|  |  | Público atendido: pessoas com idade entre 18 (dezoito) e 50 (cinquenta) anos. |
+| Academia da Cidade | SMSA | Desenvolvimento de exercícios físicos e outras ações de promoção à saúde. Este |
+|  |  | programa visa possibilitar a adesão a hábitos de vida saudáveis, por meio da |
+|  |  | oferta de atividades relacionadas às práticas corporais e às atividades |
+|  |  | físicas, bem como de ações educativas em saúde. |
+|  |  | Público atendido: munícipes de Belo Horizonte, preferencialmente com idade |
+|  |  | acima de 18 (dezoito) anos, que não possuam restrição clínica à prática da |
+|  |  | atividade física proposta na Academia da Cidade e que, após avaliação por |
+|  |  | profissional de Educação Física do programa, sejam considerados aptos às aulas |
+|  |  | ofertadas. |
+| Escola Integrada | SMED | Possibilitar vivências múltiplas desportivas e de lazer em espaços não |
+|  |  | escolares, garantindo aos estudantes da Rede Municipal de Educação a |
+|  |  | realização de atividades baseadas em experimentações corporais, lúdicas e |
+|  |  | inclusivas, a fim de promover o desenvolvimento das potencialidades físicas, |
+|  |  | socialização, cooperação e discussão de valores e atitudes. |
+|  |  | O atendimento realizado em cada módulo deverá garantir a utilização segura, |
+|  |  | pelos estudantes das escolas públicas municipais, dos diversos espaços dos |
+|  |  | clubes aderentes ao programa, sendo obrigatória a disponibilização de |
+|  |  | guarda-vidas pela entidade parceira durante o uso de piscinas para a execução |
+|  |  | de atividades aquáticas. Este programa visa a formação integral dos |
+|  |  | estudantes, possibilitando novas oportunidades, de múltiplas aprendizagens, em |
+|  |  | espaços sociais que ultrapassam os muros da escola. |
+|  |  | As escolas municipais serão fidelizadas aos clubes que estão inseridos |
+|  |  | prioritariamente no seu território. O quantitativo será condicionado à |
+|  |  | organização das escolas e aos espaços independentes disponibilizados pelo |
+|  |  | clube (piscinas, quadras, dentre outros). |
+|  |  | Público atendido: estudantes da Rede Municipal de Educação de Belo Horizonte. |
+| Cidadania e | SMASDH | Recepção da comunidade referenciada nas políticas públicas de Assistência |
+| Convivência |  | Social e Direitos Humanos, possibilitando o fortalecimento de vínculos |
+|  |  | familiares e comunitários, a promoção de ações afirmativas e atividades |
+|  |  | lúdicas em prol da defesa dos direitos humanos e de cidadania por meio de |
+|  |  | vivências socializadoras de esporte e lazer de natureza recreativa nos espaços |
+|  |  | da entidade aderida. |
+|  |  | Público atendido: usuários ou famílias referenciadas nos serviços, programas, |
+|  |  | projetos e demais ações das Políticas de Assistência Social e Direitos Humanos |
+|  |  | no âmbito da Secretaria Municipal de Assistência Social e Direitos Humanos – |
+|  |  | SMASDH. |
 
 Anexo I com redação dada pelo Decreto nº 19.244, de 20/8/2025 (Art. 7º)
 
@@ -1210,79 +912,52 @@ MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
 Anexo II com redação dada pelo Decreto nº 17.091, de 25/4/2019 (Art. 9º)
 
-|Programa |Nº Indivíduos atendidos|Duração Diária (em |Frequência |
-
-| | |horas) | |
-
-|Esporte Esperança |80 |1 |2 Semanal |
-
-|Superar |10 |1 |2 Semanal |
-
-|Vida Ativa |50 |1 |2 Semanal |
-
-|Academia da Cidade |60 |1 |3 Semanal |
-
-|Escola Integrada |80 |6 |2 Semanal |
-
-|SUAS |50 |4 |20 Anual |
+| Programa | Nº Indivíduos atendidos | Duração Diária (em | Frequência |
+| --- | --- | --- | --- |
+|  |  | horas) |  |
+| Esporte Esperança | 80 | 1 | 2 Semanal |
+| Superar | 10 | 1 | 2 Semanal |
+| Vida Ativa | 50 | 1 | 2 Semanal |
+| Academia da Cidade | 60 | 1 | 3 Semanal |
+| Escola Integrada | 80 | 6 | 2 Semanal |
+| SUAS | 50 | 4 | 20 Anual |
 
 ANEXO II
 
 MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I Anexo II com redação dada pelo Decreto nº 17.690, de 18/8/2021 (Art. 2º)
 
-|A execução dos módulos previstos neste anexo ocorrerá por período determinado, o qual terá registro no Termo de Adesão, e será |
-
-|reavaliada pelo Comitê de Acompanhamento do Programa Esportes para Todos quando da expedição de regulamentação dispondo sobre a |
-
-|retomada das atividades no âmbito do Município |
-
-|Programa |Nº de indivíduos atendidos por módulo|Duração diária |Frequência |
-
-|Esporte Esperança |50 |1 hora |2x por semana |
-
-|Superar |10 |1 hora |2x por semana |
-
-|Vida Ativa |20 |50 minutos |2x por semana |
-
-|Academia da Cidade* |60 |1 hora |3x por semana |
-
-|Suas |20 |4 horas |15x por ano |
-
-|Escola Integrada** |
+| A execução dos módulos previstos neste anexo ocorrerá por período determinado, o qual terá registro no Termo de Adesão, e será |  |  |  |
+| --- | --- | --- | --- |
+| reavaliada pelo Comitê de Acompanhamento do Programa Esportes para Todos quando da expedição de regulamentação dispondo sobre a |  |  |  |
+| retomada das atividades no âmbito do Município |  |  |  |
+| Programa | Nº de indivíduos atendidos por módulo | Duração diária | Frequência |
+| Esporte Esperança | 50 | 1 hora | 2x por semana |
+| Superar | 10 | 1 hora | 2x por semana |
+| Vida Ativa | 20 | 50 minutos | 2x por semana |
+| Academia da Cidade* | 60 | 1 hora | 3x por semana |
+| Suas | 20 | 4 horas | 15x por ano |
+| Escola Integrada** |  |  |  |
 
 ANEXO II
 
 MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
-|Programas |Nº de indivíduos |Duração diária |Frequência |
-
-| |atendidos por | | |
-
-| |módulo | | |
-
-|Esporte Esperança |80 |1 hora |2x por semana |
-
-|Superar |10 |1 hora |2x por semana |
-
-|Vida Ativa |50 |1 hora |2x por semana |
-
-|Academia da Cidade |60 |1 hora |3x por semana |
-
-|Escola Integrada |80 |Total = 6horas |2x por semana |
-
-| | |3 horas manhã | |
-
-| | |3 horas tarde | |
-
-|SUAS |50 |4 horas |20 anuais |
-
-|Caminhar* |Serviço Esporte |50 |1 hora |1x por semana |
-
-| |Serviço Atividade |30 |1 hora |2x por semana |
-
-| |Física | | | |
-
-|*O módulo Caminhar é composto por dois serviços (Esporte e Atividade Física). |
+| Programas | Nº de indivíduos | Duração diária | Frequência |  |
+| --- | --- | --- | --- | --- |
+|  | atendidos por |  |  |  |
+|  | módulo |  |  |  |
+| Esporte Esperança | 80 | 1 hora | 2x por semana |  |
+| Superar | 10 | 1 hora | 2x por semana |  |
+| Vida Ativa | 50 | 1 hora | 2x por semana |  |
+| Academia da Cidade | 60 | 1 hora | 3x por semana |  |
+| Escola Integrada | 80 | Total = 6horas | 2x por semana |  |
+|  |  | 3 horas manhã |  |  |
+|  |  | 3 horas tarde |  |  |
+| SUAS | 50 | 4 horas | 20 anuais |  |
+| Caminhar* | Serviço Esporte | 50 | 1 hora | 1x por semana |
+|  | Serviço Atividade | 30 | 1 hora | 2x por semana |
+|  | Física |  |  |  |
+| *O módulo Caminhar é composto por dois serviços (Esporte e Atividade Física). |  |  |  |  |
 
 Anexo II com redação dada pelo Decreto nº 17.999, de 21/6/2022 (Art. 4º)
 
@@ -1292,31 +967,20 @@ MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
 Anexo II com redação dada pelo Decreto nº 19.244, de 20/8/2025 (Art. 8º)
 
-|Programas |Nº de indivíduos atendidos |Duração diária |Frequência |
-
-| |por módulo | | |
-
-|Esporte Esperança |80 |1 hora |2x por semana |
-
-|Superar – Práticas Esportivas |10 |1 hora |2x por semana |
-
-|Superar - Natação |20 |30 min |2x por semana |
-
-|Vida Ativa |50 |1 hora |2x por semana |
-
-|Academia da Cidade |60 |1 hora |3x por semana |
-
-|Escola Integrada |160 – 80 estudantes pela |Total = 6 horas |2x por semana |
-
-| |manhã e 80 estudantes pela |3 horas manhã | |
-
-| |tarde |3 horas tarde | |
-
-|Cidadania e Convivência |40 |4 horas |20 anuais |
-
-|Treina BH – Serviço Esporte |50 |1 hora |1x por semana |
-
-|Treina BH – Serviço Atividade Física |30 |1 hora |2x por semana |
+| Programas | Nº de indivíduos atendidos | Duração diária | Frequência |
+| --- | --- | --- | --- |
+|  | por módulo |  |  |
+| Esporte Esperança | 80 | 1 hora | 2x por semana |
+| Superar – Práticas Esportivas | 10 | 1 hora | 2x por semana |
+| Superar - Natação | 20 | 30 min | 2x por semana |
+| Vida Ativa | 50 | 1 hora | 2x por semana |
+| Academia da Cidade | 60 | 1 hora | 3x por semana |
+| Escola Integrada | 160 – 80 estudantes pela | Total = 6 horas | 2x por semana |
+|  | manhã e 80 estudantes pela | 3 horas manhã |  |
+|  | tarde | 3 horas tarde |  |
+| Cidadania e Convivência | 40 | 4 horas | 20 anuais |
+| Treina BH – Serviço Esporte | 50 | 1 hora | 1x por semana |
+| Treina BH – Serviço Atividade Física | 30 | 1 hora | 2x por semana |
 
 Anexo II com redação dada pelo Decreto nº 19.244, de 20/8/2025 (Art. 8º)
 
@@ -1326,55 +990,34 @@ Anexo III com redação dada pelo Decreto nº 17.091, de 25/4/2019 (Art. 9º)
 
 Anexo III revogado pelo Decreto nº 19.244, de 20/8/2025 (Art. 9º)
 
-|[pic] |Formulário de Requerimento de Adesão |
+| *[imagem no documento original — ver `fonte_texto`]*
 
-| |Decreto nº 14.183, de 10 de novembro de 2010 |
-
-|Nome da Entidade |
-
-|Endereço |
-
-| |
-
-|Telefone |CNPJ |
-
-|Nome do Representante: |
-
-|Cargo ou função: |CPF: |
-
-|A Entidade acima identificada, por meio de seu representante, vem solicitar a habilitação no Programa |
-
-|Esporte para Todos de benefício fiscal de IPTU e débitos perante a Fazenda Pública Municipal, previsto|
-
-|no art. 4º da Lei nº 9.795/09, conforme Decreto nº 14.183, de 10 de novembro de 2010, estando ciente |
-
-|das condições previstas na normatização indicada. |
-
-|Módulo/Quantitativo de adesão: |
-
-| |Esporte | |Academia da Cidade |
-
-| |Esperança | | |
-
-| |Superar | |Escola Integrada |
-
-| |Vida Ativa | |SUAS |
-
-|Opção de Incentivo tributário da Adesão: |
-
-| | |
-
-|___________ IPTU |__________ Dívida Ativa |
-
-|Local e Data: |
-
-|Assinatura: |
-
-|Para uso da PBH |
-
-|Local e Data de Protocolo: |
-
-|Rubrica do recebedor: |BM: |
+| Formulário de Requerimento de Adesão |  |  |
+| --- | --- | --- | --- |
+|  | Decreto nº 14.183, de 10 de novembro de 2010 |  |  |
+| Nome da Entidade |  |  |  |
+| Endereço |  |  |  |
+|  |  |  |  |
+| Telefone | CNPJ |  |  |
+| Nome do Representante: |  |  |  |
+| Cargo ou função: | CPF: |  |  |
+| A Entidade acima identificada, por meio de seu representante, vem solicitar a habilitação no Programa |  |  |  |
+| Esporte para Todos de benefício fiscal de IPTU e débitos perante a Fazenda Pública Municipal, previsto |  |  |  |
+| no art. 4º da Lei nº 9.795/09, conforme Decreto nº 14.183, de 10 de novembro de 2010, estando ciente |  |  |  |
+| das condições previstas na normatização indicada. |  |  |  |
+| Módulo/Quantitativo de adesão: |  |  |  |
+|  | Esporte |  | Academia da Cidade |
+|  | Esperança |  |  |
+|  | Superar |  | Escola Integrada |
+|  | Vida Ativa |  | SUAS |
+| Opção de Incentivo tributário da Adesão: |  |  |  |
+|  |  |  |  |
+| ___________ IPTU | __________ Dívida Ativa |  |  |
+| Local e Data: |  |  |  |
+| Assinatura: |  |  |  |
+| Para uso da PBH |  |  |  |
+| Local e Data de Protocolo: |  |  |  |
+| Rubrica do recebedor: | BM: |  |  |
 
 Anexo III revogado pelo Decreto nº 19.244, de 20/8/2025 (Art. 9º)
 
@@ -1384,38 +1027,26 @@ PROPORCIONALIDADE DE DESCONTO
 
 Anexo IV acrescentado pelo Decreto nº 16.641, de 28/6/2017 (Art. 13)
 
-|EXECUÇÃO (MESES) |DESCONTO PROPORCIONAL (DÉCIMOS) |
-
-|1 |1/10 |
-
-|2 |2/10 |
-
-|3 |3/10 |
-
-|4 |4/10 |
-
-|5 |5/10 |
-
-|6 |6/10 |
-
-|7 |7/10 |
-
-|8 |8/10 |
-
-|9 |9/10 |
-
-|10 a 12 |10/10 |
+| EXECUÇÃO (MESES) | DESCONTO PROPORCIONAL (DÉCIMOS) |
+| --- | --- |
+| 1 | 1/10 |
+| 2 | 2/10 |
+| 3 | 3/10 |
+| 4 | 4/10 |
+| 5 | 5/10 |
+| 6 | 6/10 |
+| 7 | 7/10 |
+| 8 | 8/10 |
+| 9 | 9/10 |
+| 10 a 12 | 10/10 |
 
 ANEXO V
 
-|Faixas de valor total do IPTU e taxas imobiliárias |Percentual de Indivíduos atendidos |
-
-|relativos a 2021 e 2022 | |
-
-|Até R$250.000,00 |60% |
-
-|De R$250.000,01 até R$500.000,00 |80% |
-
-|Acima de R$500.000,01 |100% |
+| Faixas de valor total do IPTU e taxas imobiliárias | Percentual de Indivíduos atendidos |
+| --- | --- |
+| relativos a 2021 e 2022 |  |
+| Até R$250.000,00 | 60% |
+| De R$250.000,01 até R$500.000,00 | 80% |
+| Acima de R$500.000,01 | 100% |
 
 Anexo V acrescentado pelo Decreto nº 17.999, de 21/6/2022 (Art. 5º)

@@ -144,4 +144,5 @@ ANEXO ÚNICO
 
 Programação das despesas de custeio – Recursos Ordinários do Tesouro (ROT)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

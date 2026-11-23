@@ -428,259 +428,134 @@ ANEXO I
 
 A - Tabelas de vencimentos-base do plano de carreira da área de atividades de Educação, instituído pela Lei nº 7.235, de 27 de dezembro de 1996:
 
-|CARGOS |TABELA DE VENCIMENTOS-BASE |
-
-| |NÍVEL |
-
-| |3 |
-
-| |NÍVEL |
-
-| |1 |
-
-|CARGO |TABELA DE VENCIMENTOS-BASE |
-
-| | |NÍVEL |
-
-| | |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|CARGO |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |2 |3 |4 |5 |
-
-| | |(em R$) |(em R$) |(em R$) |(em R$) |
-
-|DAM -1 |1 |296,30 |384,89 |681,19 |1.362,38 |
-
-|DAM-2 |1,5 |296,30 |725,49 |1.021,79 |2.043,59 |
-
-|DAM-3 |2 |321,39 |1.041,00 |1.362,39 |2.724,78 |
-
-|DAM-4 |3 |401,87 |1.641,71 |2.043,59 |4.087,17 |
-
-|DAM-5 |4 |837,36 |1.887,42 |2.724,78 |5.449,56 |
-
-|DAM-6 |5 |837,36 |2.568,62 |3.405,98 |6.811,96 |
-
-|DAM-7 |6 |837,36 |3.249,82 |4.087,17 |8.174,35 |
-
-|DAM-8 |7 |837,36 |3.931,01 |4.768,37 |9.536,74 |
-
-|DAM-9 |8 |837,36 |4.612,21 |5.449,56 |10.899,13 |
-
-| | | | | | |
+| CARGOS | TABELA DE VENCIMENTOS-BASE |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | NÍVEL |  |  |  |  |
+|  | 3 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+| CARGO | TABELA DE VENCIMENTOS-BASE |  |  |  |  |
+|  |  | NÍVEL |  |  |  |
+|  |  |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  |  |  |  |  |  |
+| CARGO | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 | 2 | 3 | 4 | 5 |
+|  |  | (em R$) | (em R$) | (em R$) | (em R$) |
+| DAM -1 | 1 | 296,30 | 384,89 | 681,19 | 1.362,38 |
+| DAM-2 | 1,5 | 296,30 | 725,49 | 1.021,79 | 2.043,59 |
+| DAM-3 | 2 | 321,39 | 1.041,00 | 1.362,39 | 2.724,78 |
+| DAM-4 | 3 | 401,87 | 1.641,71 | 2.043,59 | 4.087,17 |
+| DAM-5 | 4 | 837,36 | 1.887,42 | 2.724,78 | 5.449,56 |
+| DAM-6 | 5 | 837,36 | 2.568,62 | 3.405,98 | 6.811,96 |
+| DAM-7 | 6 | 837,36 | 3.249,82 | 4.087,17 | 8.174,35 |
+| DAM-8 | 7 | 837,36 | 3.931,01 | 4.768,37 | 9.536,74 |
+| DAM-9 | 8 | 837,36 | 4.612,21 | 5.449,56 | 10.899,13 |
+|  |  |  |  |  |  |
 
 ANEXO VIII
 
@@ -688,125 +563,80 @@ Remuneração dos cargos dos Quadros Específicos, a partir de 1º de janeiro de
 
 A - Da Secretaria Municipal de Educação:
 
-|CARGO PÚBLICO EM COMISSÃO |VENCIMENTO-BASE |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO EXCLUSIVA | |
-
-|SECRETÁRIO ESCOLAR I |1.201,86 |524,81 |1.726,66 |
-
-|SECRETÁRIO ESCOLAR II |1.232,26 |819,62 |2.051,89 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL I |2.751,19 |1.822,24 |4.573,43 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL II |2.861,25 |2.095,57 |4.956,81 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL III |2.971,30 |2.368,91 |5.340,22 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL IV |3.084,91 |2.642,24 |5.727,15 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL V |3.198,51 |2.915,58 |6.114,09 |
-
-|DIRETOR DE ESCOLA MUNICIPAL I |2.971,29 |2.186,70 |5.157,99 |
-
-|DIRETOR DE ESCOLA MUNICIPAL II |3.084,91 |2.460,01 |5.544,92 |
-
-|DIRETOR DE ESCOLA MUNICIPAL III |3.198,51 |2.733,36 |5.931,87 |
-
-|DIRETOR DE ESCOLA MUNICIPAL IV |3.343,84 |3.006,69 |6.350,54 |
-
-|DIRETOR DE ESCOLA MUNICIPAL V |3.489,22 |3.280,03 |6.769,25 |
-
-|DIRETOR DE EMEI I |2.751,19 |1.822,24 |4.573,43 |
-
-|DIRETOR DE EMEI II |2.861,25 |2.095,57 |4.956,81 |
-
-|DIRETOR DE EMEI III |2.971,30 |2.368,91 |5.340,22 |
-
-|DIRETOR DE EMEI IV |3.081,38 |2.642,25 |5.723,63 |
-
-|DIRETOR DE EMEI V |3.191,45 |2.915,58 |6.107,04 |
-
-|VICE-DIRETOR DE EMEI I |2.632,33 |1.307,90 |3.940,23 |
-
-|VICE-DIRETOR DE EMEI II |2.741,33 |1.580,38 |4.321,71 |
-
-|VICE-DIRETOR DE EMEI III |2.850,32 |1.852,86 |4.703,17 |
-
-|VICE-DIRETOR DE EMEI IV |2.959,31 |2.125,33 |5.084,64 |
-
-|VICE-DIRETOR DE EMEI V |3.068,30 |2.397,82 |5.466,11 |
-
-|COORDENADOR PEDAGÓGICO GERAL I |2.632,33 |755,39 |3.387,72 |
-
-|COORDENADOR PEDAGÓGICO GERAL II |2.820,79 |1.007,18 |3.827,98 |
-
-|DIRETOR DE CENTRO DE APERFEIÇOAMENTO |3.489,21 |3.280,03 |6.769,24 |
-
-|PROFISSIONAL DA EDUCAÇÃO | | | |
-
-|VICE-DIRETOR DE CENTRO DE APERFEIÇOAMENTO |3.198,51 |2.915,58 |6.114,09 |
-
-|PROFISSIONAL DA EDUCAÇÃO | | | |
-
-|COORDENADOR DE PROJETOS ESPECIAIS DA |1.958,91 |1.958,91 |3.917,82 |
-
-|EDUCAÇÃO | | | |
+| CARGO PÚBLICO EM COMISSÃO | VENCIMENTO-BASE | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO EXCLUSIVA |  |
+| SECRETÁRIO ESCOLAR I | 1.201,86 | 524,81 | 1.726,66 |
+| SECRETÁRIO ESCOLAR II | 1.232,26 | 819,62 | 2.051,89 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL I | 2.751,19 | 1.822,24 | 4.573,43 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL II | 2.861,25 | 2.095,57 | 4.956,81 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL III | 2.971,30 | 2.368,91 | 5.340,22 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL IV | 3.084,91 | 2.642,24 | 5.727,15 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL V | 3.198,51 | 2.915,58 | 6.114,09 |
+| DIRETOR DE ESCOLA MUNICIPAL I | 2.971,29 | 2.186,70 | 5.157,99 |
+| DIRETOR DE ESCOLA MUNICIPAL II | 3.084,91 | 2.460,01 | 5.544,92 |
+| DIRETOR DE ESCOLA MUNICIPAL III | 3.198,51 | 2.733,36 | 5.931,87 |
+| DIRETOR DE ESCOLA MUNICIPAL IV | 3.343,84 | 3.006,69 | 6.350,54 |
+| DIRETOR DE ESCOLA MUNICIPAL V | 3.489,22 | 3.280,03 | 6.769,25 |
+| DIRETOR DE EMEI I | 2.751,19 | 1.822,24 | 4.573,43 |
+| DIRETOR DE EMEI II | 2.861,25 | 2.095,57 | 4.956,81 |
+| DIRETOR DE EMEI III | 2.971,30 | 2.368,91 | 5.340,22 |
+| DIRETOR DE EMEI IV | 3.081,38 | 2.642,25 | 5.723,63 |
+| DIRETOR DE EMEI V | 3.191,45 | 2.915,58 | 6.107,04 |
+| VICE-DIRETOR DE EMEI I | 2.632,33 | 1.307,90 | 3.940,23 |
+| VICE-DIRETOR DE EMEI II | 2.741,33 | 1.580,38 | 4.321,71 |
+| VICE-DIRETOR DE EMEI III | 2.850,32 | 1.852,86 | 4.703,17 |
+| VICE-DIRETOR DE EMEI IV | 2.959,31 | 2.125,33 | 5.084,64 |
+| VICE-DIRETOR DE EMEI V | 3.068,30 | 2.397,82 | 5.466,11 |
+| COORDENADOR PEDAGÓGICO GERAL I | 2.632,33 | 755,39 | 3.387,72 |
+| COORDENADOR PEDAGÓGICO GERAL II | 2.820,79 | 1.007,18 | 3.827,98 |
+| DIRETOR DE CENTRO DE APERFEIÇOAMENTO | 3.489,21 | 3.280,03 | 6.769,24 |
+| PROFISSIONAL DA EDUCAÇÃO |  |  |  |
+| VICE-DIRETOR DE CENTRO DE APERFEIÇOAMENTO | 3.198,51 | 2.915,58 | 6.114,09 |
+| PROFISSIONAL DA EDUCAÇÃO |  |  |  |
+| COORDENADOR DE PROJETOS ESPECIAIS DA | 1.958,91 | 1.958,91 | 3.917,82 |
+| EDUCAÇÃO |  |  |  |
 
 B - Da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO|GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO | |
-
-| | |EXCLUSIVA | |
-
-|SUPERVISOR DE ALIMENTAÇÃO |1.169,22 |1.169,22 |2.338,43 |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO |  |
+|  |  | EXCLUSIVA |  |
+| SUPERVISOR DE ALIMENTAÇÃO | 1.169,22 | 1.169,22 | 2.338,43 |
 
 C - Da Secretaria Municipal de Saúde:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO|GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO | |
-
-| | |EXCLUSIVA | |
-
-|COORDENADOR DE SERVIÇO DE CONTROLE DE |701,57 |701,57 |1.403,14 |
-
-|ZOONOSES | | | |
-
-|ENCARREGADO DE SERVIÇO DE CONTROLE DE |524,80 |524,80 |1.049,60 |
-
-|ZOONOSES | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO |  |
+|  |  | EXCLUSIVA |  |
+| COORDENADOR DE SERVIÇO DE CONTROLE DE | 701,57 | 701,57 | 1.403,14 |
+| ZOONOSES |  |  |  |
+| ENCARREGADO DE SERVIÇO DE CONTROLE DE | 524,80 | 524,80 | 1.049,60 |
+| ZOONOSES |  |  |  |
 
 D - Secretaria Municipal de Segurança e Prevenção:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO|GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO | |
-
-| | |EXCLUSIVA | |
-
-|SUBINSPETOR DA GUARDA CIVIL MUNICIPAL DE |1.384,91 |1.384,91 |2.769,82 |
-
-|BELO HORIZONTE | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO |  |
+|  |  | EXCLUSIVA |  |
+| SUBINSPETOR DA GUARDA CIVIL MUNICIPAL DE | 1.384,91 | 1.384,91 | 2.769,82 |
+| BELO HORIZONTE |  |  |  |
 
 ANEXO IX
 
 Classificação das Funções Gratificadas de Coordenação e Assessoramento - FCA, a partir de 1º de janeiro de 2020
 
-|NÍVEL |VALOR |FCA-UNITÁRIO |
-
-|FCA-1 |544,96 |1 |
-
-|FCA-2 |817,44 |1,5 |
-
-|FCA-3 |1.089,91 |2 |
-
-|FCA-4 |1.362,40 |2,5 |
-
-|FCA-5 |1.634,87 |3 |
-
-|FCA-6 |2.179,83 |4 |
+| NÍVEL | VALOR | FCA-UNITÁRIO |
+| --- | --- | --- |
+| FCA-1 | 544,96 | 1 |
+| FCA-2 | 817,44 | 1,5 |
+| FCA-3 | 1.089,91 | 2 |
+| FCA-4 | 1.362,40 | 2,5 |
+| FCA-5 | 1.634,87 | 3 |
+| FCA-6 | 2.179,83 | 4 |
 
 ANEXO X
 
@@ -814,123 +644,96 @@ Remuneração das Funções Públicas, a partir de 1º de janeiro de 2020
 
 A - Função pública de Conselheiro Tutelar:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-|CONSELHEIRO TUTELAR |45 |4.087,17 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+| CONSELHEIRO TUTELAR | 45 | 4.087,17 |
 
 B - Função pública de Gerente de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-|GERENTE DE UNIDADE DE SAÚDE I |180 |3.335,03 |
-
-|GERENTE DE UNIDADE DE SAÚDE II |71 |3.671,36 |
-
-|GERENTE DE UNIDADE DE SAÚDE III |40 |4.011,82 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+| GERENTE DE UNIDADE DE SAÚDE I | 180 | 3.335,03 |
+| GERENTE DE UNIDADE DE SAÚDE II | 71 | 3.671,36 |
+| GERENTE DE UNIDADE DE SAÚDE III | 40 | 4.011,82 |
 
 C - Função pública de Coordenador de Proteção Social e Cidadania:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|COORDENADOR DE PROTEÇÃO SOCIAL E CIDADANIA |15 |1.736,39 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| COORDENADOR DE PROTEÇÃO SOCIAL E CIDADANIA | 15 | 1.736,39 |
 
 D - Função pública de Coordenador de Centro de Referência de Assistência Social, de Centro de Referência Especializado de Assistência Social e de Unidade de Acolhimento Institucional:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | | |
-
-|COORDENADOR DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL|34 |1.736,39 |
-
-|COORDENADOR DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE |9 |1.736,39 |
-
-|ASSISTÊNCIA SOCIAL | | |
-
-|COORDENADOR DE ACOLHIMENTO INSTITUCIONAL |2 |1.736,39 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  |  |
+| COORDENADOR DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL | 34 | 1.736,39 |
+| COORDENADOR DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE | 9 | 1.736,39 |
+| ASSISTÊNCIA SOCIAL |  |  |
+| COORDENADOR DE ACOLHIMENTO INSTITUCIONAL | 2 | 1.736,39 |
 
 E - Função pública instituída no art. 15 da Lei nº 9.443/07:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-|FUNÇÃO GRATIFICADA INS |154 |400,01 |
-
-|TITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - PARA JORNADA DE 20 | | |
-
-|HORAS | | |
-
-|FUNÇÃO GRATIFICADA INSTITUÍDA NO ART. 15 DA LEI Nº 9.443/07 -|148 |800,01 |
-
-|PARA JORNADA DE 40 HORAS | | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+| FUNÇÃO GRATIFICADA INS | 154 | 400,01 |
+| TITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - PARA JORNADA DE 20 |  |  |
+| HORAS |  |  |
+| FUNÇÃO GRATIFICADA INSTITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - | 148 | 800,01 |
+| PARA JORNADA DE 40 HORAS |  |  |
 
 F - Função pública de Gerente Adjunto de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE I |164 |1.667,81 |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE II |40 |1.835,67 |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE III |25 |2.005,92 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE I | 164 | 1.667,81 |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE II | 40 | 1.835,67 |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE III | 25 | 2.005,92 |
 
 G - Função pública gratificada de Gestor Administrativo e Financeiro Escolar:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE |VENCIMENTO-BASE |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| |VAGAS | |DEDICAÇÃO EXCLUSIVA | |
-
-|GESTOR ADMINISTRATIVO E FINANCEIRO ESCOLAR I |200 |1.384,90 |1.144,54 |2.529,44 |
-
-|GESTOR ADMINISTRATIVO E FINANCEIRO ESCOLAR II | |1.384,90 |1.259,00 |2.643,90 |
-
-|GESTOR ADMINISTRATIVO E FINANCEIRO ESCOLAR III | |1.384,90 |1.384,90 |2.769,80 |
-
-|GESTOR ADMINISTRATIVO E FINANCEIRO ESCOLAR IV | |1.384,90 |1.523,38 |2.908,28 |
-
-|GESTOR ADMINISTRATIVO E FINANCEIRO ESCOLAR V | |1.384,90 |1.675,72 |3.060,62 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE | VENCIMENTO-BASE | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- | --- |
+|  | VAGAS |  | DEDICAÇÃO EXCLUSIVA |  |
+| GESTOR ADMINISTRATIVO E FINANCEIRO ESCOLAR I | 200 | 1.384,90 | 1.144,54 | 2.529,44 |
+| GESTOR ADMINISTRATIVO E FINANCEIRO ESCOLAR II |  | 1.384,90 | 1.259,00 | 2.643,90 |
+| GESTOR ADMINISTRATIVO E FINANCEIRO ESCOLAR III |  | 1.384,90 | 1.384,90 | 2.769,80 |
+| GESTOR ADMINISTRATIVO E FINANCEIRO ESCOLAR IV |  | 1.384,90 | 1.523,38 | 2.908,28 |
+| GESTOR ADMINISTRATIVO E FINANCEIRO ESCOLAR V |  | 1.384,90 | 1.675,72 | 3.060,62 |
 
 H - Função pública gratificada de Coordenador do Núcleo de Atendimento às Medidas Socioeducativas e Protetivas:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-|COORDENADOR DO NÚCLEO DE ATENDIMENTO ÀS MEDIDAS SOCIOEDUCATIVAS|1 |1.622,79 |
-
-|E PROTETIVAS | | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+| COORDENADOR DO NÚCLEO DE ATENDIMENTO ÀS MEDIDAS SOCIOEDUCATIVAS | 1 | 1.622,79 |
+| E PROTETIVAS |  |  |
 
 I - Função pública gratificada de Controlador de Tesouraria dos Restaurantes Populares:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-|CONTROLADOR DE TESOURARIA DOS RESTAURANTES POPULARES |5 |1.373,29 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+| CONTROLADOR DE TESOURARIA DOS RESTAURANTES POPULARES | 5 | 1.373,29 |
 
 J - Função pública gratificada de Supervisor das Atividades Operacionais de Campo:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | | |
-
-|SUPERVISOR DAS ATIVIDADES OPERACIONAIS DE CAMPO |170 |363,23 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  |  |
+| SUPERVISOR DAS ATIVIDADES OPERACIONAIS DE CAMPO | 170 | 363,23 |
 
 K - Funções públicas gratificadas do Hospital Metropolitano Odilon Behrens - HOB:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | | |
-
-|GERENTE DE UNIDADE DE SAÚDE I |1 |3.255,91 |
-
-|GERENTE DE UNIDADE DE SAÚDE II |6 |3.584,26 |
-
-|GERENTE DE UNIDADE DE SAÚDE III |7 |3.916,65 |
-
-|COORDENADOR DE APOIO GERENCIAL |14 |1.590,99 |
-
-|COORDENADOR DE EQUIPE |7 |1.880,25 |
-
-|COORDENADOR DE ESPECIALIDADES E ENSINO |13 |2.024,89 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  |  |
+| GERENTE DE UNIDADE DE SAÚDE I | 1 | 3.255,91 |
+| GERENTE DE UNIDADE DE SAÚDE II | 6 | 3.584,26 |
+| GERENTE DE UNIDADE DE SAÚDE III | 7 | 3.916,65 |
+| COORDENADOR DE APOIO GERENCIAL | 14 | 1.590,99 |
+| COORDENADOR DE EQUIPE | 7 | 1.880,25 |
+| COORDENADOR DE ESPECIALIDADES E ENSINO | 13 | 2.024,89 |
 
 ANEXO XI
 
@@ -938,19 +741,14 @@ ANEXO XI
 
 JORNADAS DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DA SAÚDE DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CARGOS |JORNADAS SEMANAIS |
-
-|Agente Sanitário |30 e 40 horas |
-
-|Agente de Serviços de Saúde |30 e 40 horas |
-
-|Técnico de Serviços de Saúde |24, 30 e 40 horas |
-
-|Técnico Superior de Saúde |20, 30 e 40 horas |
-
-|Cirurgião-Dentista |20 e 40 horas |
-
-|Enfermeiro |20, 30 e 40 horas |
+| CARGOS | JORNADAS SEMANAIS |
+| --- | --- |
+| Agente Sanitário | 30 e 40 horas |
+| Agente de Serviços de Saúde | 30 e 40 horas |
+| Técnico de Serviços de Saúde | 24, 30 e 40 horas |
+| Técnico Superior de Saúde | 20, 30 e 40 horas |
+| Cirurgião-Dentista | 20 e 40 horas |
+| Enfermeiro | 20, 30 e 40 horas |
 
 ”.
 
@@ -986,47 +784,28 @@ ANEXO XIV
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO DE APOIO AO ESFORÇO FISCAL TRIBUTÁRIO - GAEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS A PARTIR DE 1º DE ABRIL DE 2020.
 
-|Faixa de Arrecadação |Quantidade de URAEFTs por Trimestre |
-
-| |Analista Fazendário 8 |Agente Fazendário |Técnico Fazendário de |Tesoureiro |
-
-| |horas |8 horas |Nível Médio |8 horas |
-
-| | | |8 horas | |
-
-|A partir de 90% e abaixo de 92% |100,10 |50,93 |50,93 |48,07 |
-
-|A partir de 92% e abaixo de 94% |108,68 |55,30 |55,30 |52,19 |
-
-|A partir de 94% e abaixo de 96% |119,07 |60,58 |60,58 |57,18 |
-
-|A partir de 96% e abaixo de 98% |131,63 |66,98 |66,98 |63,21 |
-
-|A partir de 98% e abaixo de 99% |144,37 |73,46 |73,46 |69,33 |
-
-|A partir de 99% e abaixo de 100% |151,72 |77,20 |77,20 |72,85 |
-
-|A partir de 100% e abaixo de 101% |159,79 |81,30 |81,30 |76,73 |
-
-|A partir de 101% e abaixo de 102% |167,86 |85,41 |85,41 |80,61 |
-
-|A partir de 102% e abaixo de 103% |184,37 |93,82 |93,82 |88,54 |
-
-|A partir de 103% e abaixo de 104% |202,53 |103,05 |103,05 |97,26 |
-
-|A partir de 104% e abaixo de 105% |222,50 |113,22 |113,22 |106,85 |
-
-|A partir de 105% e abaixo de 106% |244,48 |124,40 |124,40 |117,40 |
-
-|A partir de 106% e abaixo de 107% |268,65 |136,69 |136,69 |129,01 |
-
-|A partir de 107% e abaixo de 108% |295,23 |150,22 |150,22 |141,78 |
-
-|A partir de 108% e abaixo de 109% |324,48 |165,11 |165,11 |155,82 |
-
-|A partir de 109% e abaixo de 110% |356,65 |181,48 |181,48 |171,27 |
-
-|A partir de 110% |392,04 |199,48 |199,48 |188,26 |
+| Faixa de Arrecadação | Quantidade de URAEFTs por Trimestre |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Analista Fazendário 8 | Agente Fazendário | Técnico Fazendário de | Tesoureiro |
+|  | horas | 8 horas | Nível Médio | 8 horas |
+|  |  |  | 8 horas |  |
+| A partir de 90% e abaixo de 92% | 100,10 | 50,93 | 50,93 | 48,07 |
+| A partir de 92% e abaixo de 94% | 108,68 | 55,30 | 55,30 | 52,19 |
+| A partir de 94% e abaixo de 96% | 119,07 | 60,58 | 60,58 | 57,18 |
+| A partir de 96% e abaixo de 98% | 131,63 | 66,98 | 66,98 | 63,21 |
+| A partir de 98% e abaixo de 99% | 144,37 | 73,46 | 73,46 | 69,33 |
+| A partir de 99% e abaixo de 100% | 151,72 | 77,20 | 77,20 | 72,85 |
+| A partir de 100% e abaixo de 101% | 159,79 | 81,30 | 81,30 | 76,73 |
+| A partir de 101% e abaixo de 102% | 167,86 | 85,41 | 85,41 | 80,61 |
+| A partir de 102% e abaixo de 103% | 184,37 | 93,82 | 93,82 | 88,54 |
+| A partir de 103% e abaixo de 104% | 202,53 | 103,05 | 103,05 | 97,26 |
+| A partir de 104% e abaixo de 105% | 222,50 | 113,22 | 113,22 | 106,85 |
+| A partir de 105% e abaixo de 106% | 244,48 | 124,40 | 124,40 | 117,40 |
+| A partir de 106% e abaixo de 107% | 268,65 | 136,69 | 136,69 | 129,01 |
+| A partir de 107% e abaixo de 108% | 295,23 | 150,22 | 150,22 | 141,78 |
+| A partir de 108% e abaixo de 109% | 324,48 | 165,11 | 165,11 | 155,82 |
+| A partir de 109% e abaixo de 110% | 356,65 | 181,48 | 181,48 | 171,27 |
+| A partir de 110% | 392,04 | 199,48 | 199,48 | 188,26 |
 
 ”.
 
@@ -1036,27 +815,18 @@ ANEXO XV
 
 A - CARGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|CARGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|AGENTE DE ADMINISTRAÇÃO |140 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |906 |
-
-|TÉCNICO DE NÍVEL MÉDIO |42 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |36 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |135 |
-
-|ENFERMEIRO |236 |
-
-|CIRURGIÃO-DENTISTA |20 |
-
-|MÉDICO |322 |
-
-|ENGENHEIRO |3 |
-
-|ARQUITETO |1 |
+| CARGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| AGENTE DE ADMINISTRAÇÃO | 140 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 906 |
+| TÉCNICO DE NÍVEL MÉDIO | 42 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 36 |
+| TÉCNICO SUPERIOR DE SAÚDE | 135 |
+| ENFERMEIRO | 236 |
+| CIRURGIÃO-DENTISTA | 20 |
+| MÉDICO | 322 |
+| ENGENHEIRO | 3 |
+| ARQUITETO | 1 |
 
 ”.
 
@@ -1148,33 +918,21 @@ ANEXO XVII
 
 B - JORNADAS SEMANAIS DOS CARGOS PÚBLICOS EFETIVOS DO HOB
 
-| |JORNADAS SEMANAIS |
-
-|CARGOS E EMPREGOS PÚBLICOS |Jornadas Básicas para os |Jornadas Especiais para os |
-
-| |servidores públicos |servidores públicos integrantes |
-
-| |integrantes deste plano de |deste plano de carreira. |
-
-| |Carreira. | |
-
-|Agente de Administração |30 |40 |
-
-|Técnico de Serviços de Saúde |30 |40 |
-
-|Técnico de Nível Médio |30 |40 |
-
-|Analista de Políticas Públicas |30 |40 |
-
-|Técnico Superior de Saúde |20 |24 e 30 |
-
-|Cirurgião-Dentista |20 |24 e 30 |
-
-|Médico |20 |24 e 30 |
-
-|Engenheiro |30 |40 |
-
-|Arquiteto |30 |40 |
+|  | JORNADAS SEMANAIS |  |
+| --- | --- | --- |
+| CARGOS E EMPREGOS PÚBLICOS | Jornadas Básicas para os | Jornadas Especiais para os |
+|  | servidores públicos | servidores públicos integrantes |
+|  | integrantes deste plano de | deste plano de carreira. |
+|  | Carreira. |  |
+| Agente de Administração | 30 | 40 |
+| Técnico de Serviços de Saúde | 30 | 40 |
+| Técnico de Nível Médio | 30 | 40 |
+| Analista de Políticas Públicas | 30 | 40 |
+| Técnico Superior de Saúde | 20 | 24 e 30 |
+| Cirurgião-Dentista | 20 | 24 e 30 |
+| Médico | 20 | 24 e 30 |
+| Engenheiro | 30 | 40 |
+| Arquiteto | 30 | 40 |
 
 ”.
 
@@ -1186,49 +944,29 @@ ANEXO XVIII
 
 J - Tabela de vencimentos-base dos cargos públicos efetivos de Engenheiro e Arquiteto do plano de carreira do HOB, instituído pela Lei nº 9.154/06, para a jornada de trabalho de 30h (trinta horas) semanais:
 
-|CARGOS |TABELA DE VENCIMENTOS-BASE – 30 HORAS SEMANAIS |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-|Auxiliar de Apoio Operacional |104 |
-
-|Oficial de Serviços |73 |
-
-|Auxiliar Administrativo |19 |
-
-|Agente de Operações e Controle |51 |
-
-|Agente de Apoio Administrativo |65 |
-
-|Agente de Apoio Técnico |1 |
-
-|Auxiliar de Saúde |2 |
-
-|Telefonista |2 |
-
-|Motorista |72 |
-
-|Assistente Técnico |81 |
-
-|Assistente Administrativo |96 |
-
-|Engenheiro |220 |
-
-|Arquiteto |63 |
-
-|Advogado Público Autárquico |36 |
-
-|Técnico de Nível Superior |64 |
-
-|Médico do Trabalho |1 |
-
-|Cirurgião-Dentista |1 |
+| CARGOS | TABELA DE VENCIMENTOS-BASE – 30 HORAS SEMANAIS |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+| Auxiliar de Apoio Operacional | 104 |
+| Oficial de Serviços | 73 |
+| Auxiliar Administrativo | 19 |
+| Agente de Operações e Controle | 51 |
+| Agente de Apoio Administrativo | 65 |
+| Agente de Apoio Técnico | 1 |
+| Auxiliar de Saúde | 2 |
+| Telefonista | 2 |
+| Motorista | 72 |
+| Assistente Técnico | 81 |
+| Assistente Administrativo | 96 |
+| Engenheiro | 220 |
+| Arquiteto | 63 |
+| Advogado Público Autárquico | 36 |
+| Técnico de Nível Superior | 64 |
+| Médico do Trabalho | 1 |
+| Cirurgião-Dentista | 1 |
 
 ”.
 

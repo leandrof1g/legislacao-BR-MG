@@ -22,131 +22,70 @@ baixado_em: "2026-10-23"
 
 SUMÁRIO
 
-|TÍTULO I - Disposições gerais |arts. 1º a 6º |
-
-|CAPÍTULO I - Disposições preliminares |arts. 1º a 5º |
-
-|CAPÍTULO II - Do direito ao atendimento prioritário |art. 6º |
-
-|TÍTULO II - Do direito à participação na vida pública e política |art. 7º |
-
-|TÍTULO III - Do direito à saúde |arts. 8º a 12 |
-
-|TÍTULO IV - Do direito à educação |arts. 13 a 16 |
-
-|TÍTULO V - Do direito à cultura, ao desporto, ao turismo e ao lazer |arts. 17 a 20 |
-
-|TÍTULO VI - Do direito ao trabalho |arts. 21 a 24 |
-
-|TÍTULO VII - Do direito à assistência social |arts. 25 a 32 |
-
-|TÍTULO VIII - Do direito ao cuidado |art. 33 |
-
-|TÍTULO IX - Do direito à moradia |arts. 34 e 35 |
-
-|TÍTULO X - Do direito à acessibilidade |arts. 36 a 110 |
-
-|CAPÍTULO I - Do direito à acessibilidade no espaço público |arts. 37 a 51 |
-
-|Seção I - Disposições gerais |art. 37 |
-
-|Seção II - Dos logradouros públicos |arts. 38 a 43 |
-
-|Seção III - Da sinalização semafórica com sinal sonoro |art. 44 |
-
-|Seção IV - Do mobiliário urbano |arts. 45 a 48 |
-
-|Seção V - Dos brinquedos e equipamentos |arts. 49 e 50 |
-
-|Seção VI - Da acessibilidade em eventos, feiras e exposições |art. 51 |
-
-|CAPÍTULO II - Do direito à acessibilidade nas edificações |arts. 52 a 94 |
-
-|Seção I - Disposições gerais |art. 52 |
-
-|Seção II - Dos elevadores |arts. 53 a 55 |
-
-|Seção III - Dos equipamentos de controle de acesso |art. 56 |
-
-|Seção IV - Do acesso com cão-guia ou cão de auxílio |arts. 57 a 59 |
-
-|Seção V - Dos sanitários acessíveis |arts. 60 e 61 |
-
-|Seção V-A - Dos trocadores acessíveis para crianças e adultos |arts. 61-A e |
-
-| |61-B |
-
-|Seção VI - Da acessibilidade nas edificações públicas e nas edificações | |
-
-|privadas de uso coletivo |arts. 62 a 89 |
-
-|Subseção I - Disposições gerais |arts. 62 a 65 |
-
-|Subseção II - Da reserva de vagas nos estacionamentos em edificações |arts. 66 e 67 |
-
-|Subseção III - Dos balcões, guichês e bilheterias |art. 68 |
-
-|Subseção IV - Dos terminais de autoatendimento |art. 69 |
-
-|Subseção V - Dos estabelecimentos de ensino |arts. 70 a 71-A |
-
-|Subseção VI - Dos estabelecimentos destinados a espetáculos, diversão, lazer e | |
-
-|esporte |arts. 72 a 77 |
-
-|Subseção VII - Dos shopping centers, hipermercados, supermercados e similares | |
-
-| |arts. 78 e 79 |
-
-|Subseção VIII - Dos estabelecimentos bancários |arts. 80 a 82 |
-
-|Subseção IX - Dos restaurantes, refeitórios, bares e similares |arts. 83 a 86 |
-
-|Subseção X - Dos hotéis, motéis, pousadas e similares |art. 87 |
-
-|Subseção XI - Dos estabelecimentos que comercializam artigos de vestuário e | |
-
-|similares |art. 88 |
-
-|Subseção XII - Dos telecentros, lan houses e cybercafés |art. 89 |
-
-|Seção VII - Da acessibilidade nas edificações de uso residencial |arts. 90 a 94 |
-
-|Subseção I - Das edificações destinadas ao uso residencial multifamiliar | |
-
-| |arts. 90 a 92 |
-
-|Subseção II - Das edificações destinadas à habitação de interesse social | |
-
-| |arts. 93 e 94 |
-
-|CAPÍTULO III - Do direito à acessibilidade no transporte |arts. 95 a 106 |
-
-|Seção I - Do transporte coletivo |arts. 96 a 104 |
-
-|Subseção I - Da acessibilidade no transporte coletivo |arts. 96 a 99 |
-
-|Subseção II - Dos assentos reservados |arts. 100 a 102 |
-
-|Subseção III - Da gratuidade no transporte público coletivo |arts. 103 e 104 |
-
-|Seção II - Do transporte individual remunerado de passageiros |arts. 105 e 106 |
-
-|CAPÍTULO IV - Do direito à acessibilidade nas comunicações |arts. 107 a |
-
-| |110-A |
-
-|TÍTULO XI - Da administração pública |arts. 111 a 117 |
-
-|CAPÍTULO I - Dos cargos e empregos públicos |arts. 111 e 112 |
-
-|CAPÍTULO II - Da realização de concursos e processos seletivos |arts. 113 a |
-
-| |117-A |
-
-|TÍTULO XII - Da infração |arts. 118 a 120 |
-
-|TÍTULO XIII - Disposições finais |arts. 121 a 127 |
+| TÍTULO I - Disposições gerais | arts. 1º a 6º |
+| --- | --- |
+| CAPÍTULO I - Disposições preliminares | arts. 1º a 5º |
+| CAPÍTULO II - Do direito ao atendimento prioritário | art. 6º |
+| TÍTULO II - Do direito à participação na vida pública e política | art. 7º |
+| TÍTULO III - Do direito à saúde | arts. 8º a 12 |
+| TÍTULO IV - Do direito à educação | arts. 13 a 16 |
+| TÍTULO V - Do direito à cultura, ao desporto, ao turismo e ao lazer | arts. 17 a 20 |
+| TÍTULO VI - Do direito ao trabalho | arts. 21 a 24 |
+| TÍTULO VII - Do direito à assistência social | arts. 25 a 32 |
+| TÍTULO VIII - Do direito ao cuidado | art. 33 |
+| TÍTULO IX - Do direito à moradia | arts. 34 e 35 |
+| TÍTULO X - Do direito à acessibilidade | arts. 36 a 110 |
+| CAPÍTULO I - Do direito à acessibilidade no espaço público | arts. 37 a 51 |
+| Seção I - Disposições gerais | art. 37 |
+| Seção II - Dos logradouros públicos | arts. 38 a 43 |
+| Seção III - Da sinalização semafórica com sinal sonoro | art. 44 |
+| Seção IV - Do mobiliário urbano | arts. 45 a 48 |
+| Seção V - Dos brinquedos e equipamentos | arts. 49 e 50 |
+| Seção VI - Da acessibilidade em eventos, feiras e exposições | art. 51 |
+| CAPÍTULO II - Do direito à acessibilidade nas edificações | arts. 52 a 94 |
+| Seção I - Disposições gerais | art. 52 |
+| Seção II - Dos elevadores | arts. 53 a 55 |
+| Seção III - Dos equipamentos de controle de acesso | art. 56 |
+| Seção IV - Do acesso com cão-guia ou cão de auxílio | arts. 57 a 59 |
+| Seção V - Dos sanitários acessíveis | arts. 60 e 61 |
+| Seção V-A - Dos trocadores acessíveis para crianças e adultos | arts. 61-A e |
+|  | 61-B |
+| Seção VI - Da acessibilidade nas edificações públicas e nas edificações |  |
+| privadas de uso coletivo | arts. 62 a 89 |
+| Subseção I - Disposições gerais | arts. 62 a 65 |
+| Subseção II - Da reserva de vagas nos estacionamentos em edificações | arts. 66 e 67 |
+| Subseção III - Dos balcões, guichês e bilheterias | art. 68 |
+| Subseção IV - Dos terminais de autoatendimento | art. 69 |
+| Subseção V - Dos estabelecimentos de ensino | arts. 70 a 71-A |
+| Subseção VI - Dos estabelecimentos destinados a espetáculos, diversão, lazer e |  |
+| esporte | arts. 72 a 77 |
+| Subseção VII - Dos shopping centers, hipermercados, supermercados e similares |  |
+|  | arts. 78 e 79 |
+| Subseção VIII - Dos estabelecimentos bancários | arts. 80 a 82 |
+| Subseção IX - Dos restaurantes, refeitórios, bares e similares | arts. 83 a 86 |
+| Subseção X - Dos hotéis, motéis, pousadas e similares | art. 87 |
+| Subseção XI - Dos estabelecimentos que comercializam artigos de vestuário e |  |
+| similares | art. 88 |
+| Subseção XII - Dos telecentros, lan houses e cybercafés | art. 89 |
+| Seção VII - Da acessibilidade nas edificações de uso residencial | arts. 90 a 94 |
+| Subseção I - Das edificações destinadas ao uso residencial multifamiliar |  |
+|  | arts. 90 a 92 |
+| Subseção II - Das edificações destinadas à habitação de interesse social |  |
+|  | arts. 93 e 94 |
+| CAPÍTULO III - Do direito à acessibilidade no transporte | arts. 95 a 106 |
+| Seção I - Do transporte coletivo | arts. 96 a 104 |
+| Subseção I - Da acessibilidade no transporte coletivo | arts. 96 a 99 |
+| Subseção II - Dos assentos reservados | arts. 100 a 102 |
+| Subseção III - Da gratuidade no transporte público coletivo | arts. 103 e 104 |
+| Seção II - Do transporte individual remunerado de passageiros | arts. 105 e 106 |
+| CAPÍTULO IV - Do direito à acessibilidade nas comunicações | arts. 107 a |
+|  | 110-A |
+| TÍTULO XI - Da administração pública | arts. 111 a 117 |
+| CAPÍTULO I - Dos cargos e empregos públicos | arts. 111 e 112 |
+| CAPÍTULO II - Da realização de concursos e processos seletivos | arts. 113 a |
+|  | 117-A |
+| TÍTULO XII - Da infração | arts. 118 a 120 |
+| TÍTULO XIII - Disposições finais | arts. 121 a 127 |
 
 LEI Nº 11.416, DE 3 DE OUTUBRO DE 2022
 

@@ -44,206 +44,106 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|Secretaria de Administração Regional Municipal Barreiro |
-
-| | |
-
-|Umei |Escola Municipal |
-
-|Umei Jatobá IV |Escola Municipal Aires da Mata Machado |
-
-|Umei Sol Nascente |Escola Municipal Ana Alves Teixeira |
-
-|Umei Cardoso |Escola Municipal Antônio Mourão Guimarães |
-
-|Umei Lucas Monteiro Machado |Escola Municipal Ciac - Lucas Monteiro Machado |
-
-|Umei Águas Claras |Escola Municipal da Vila Pinho |
-
-|Umei José Isidoro Filho |Escola Municipal Dinorah Magalhães Fabri |
-
-|Umei Miramar |Escola Municipal Dulce Maria Homem |
-
-|Umei Pilar Olhos d'Água |Escola Municipal Pedro Nava |
-
-|Umei Mangueiras |Escola Municipal Professor Hilton Rocha |
-
-|Secretaria de Administração Regional Municipal Centro-Sul |
-
-| | |
-
-|Umei |Escola Municipal |
-
-|Umei Delfim Moreira |Escola Municipal Imaco |
-
-|Umei Timbiras |Escola Municipal Marconi |
-
-|Umei Luxemburgo |Escola Municipal Mestre Paranhos |
-
-|Umei Vila Conceição |Escola Municipal Padre Guilherme Peters |
-
-|Umei Santa Isabel |Escola Municipal Professor Edson Pisani |
-
-|Umei São João | |
-
-|Umei Padre Tarcísio |Escola Municipal Senador Levindo Coelho |
-
-|Umei Professora Marta Nair Monteiro |Escola Municipal Ulysses Guimarães |
-
-|Umei Capivari |Escola Municipal Professor Edson Pisani |
-
-|Linha acrescentada pelo Decreto nº 15.231, de 6/6/2013 | |
-
-|(Art. 1º) | |
-
-|Secretaria de Administração Regional Municipal Leste |
-
-| | |
-
-|Umei |Escola Municipal |
-
-|Umei Taquaril |Escola Municipal Fernando Dias Costa |
-
-|Umei Paraíso |Escola Municipal Levindo Lopes |
-
-|Umei Granja de Freitas |Escola Municipal Professora Alcida Torres |
-
-|Umei Caetano Furquim |Escola Municipal Wladimir de Paula Gomes |
-
-|Secretaria de Administração Regional Municipal Nordeste |
-
-| | |
-
-|Umei |Escola Municipal |
-
-|Umei Cachoeirinha |Escola Municipal Américo Renê Giannetti |
-
-|Umei Capitão Eduardo |Escola Municipal Governador Ozanan Coelho |
-
-|Umei São Gabriel |Escola Municipal Oswaldo França Júnior |
-
-|Umei Jardim Vitória |Escola Municipal Prefeito Souza Lima |
-
-|Umei Cavalinho de Pau |Escola Municipal Professor Edgar da Matta Machado |
-
-|Umei Ribeiro de Abreu |Escola Municipal Professor Paulo Freire |
-
-|Umei Professora Acidália Lott |Escola Municipal Professora Acidália Lott |
-
-|Umei Ouro Minas |Escola Municipal Professora Consuelita Cândida |
-
-|Umei Santa Cruz |Escola Municipal Renascença |
-
-|Umei Coqueiro Verde |Escola Municipal Sobral Pinto |
-
-|Secretaria de Administração Regional Municipal Noroeste |
-
-| | |
-
-|Umei |Escola Municipal |
-
-|Umei Carlos Prates |Escola Municipal Arthur Guimarães |
-
-|Umei Nova Esperança | |
-
-|Umei Pituchinha |Escola Municipal Dom Bosco |
-
-|Umei Sabinópolis |Escola Municipal Dom Jaime de Barros Câmara |
-
-|Umei Pedreira Prado Lopes |Escola Municipal Dr. José Diogo de Almeida Magalhães |
-
-|Umei Pindorama |Escola Municipal Luigi Toniolo |
-
-|Umei Vila Senhor dos Passos |Escola Municipal Maria da Glória Lommez |
-
-|Umei Vila São Vicente |Escola Municipal Nossa Senhora do Amparo |
-
-|Umei Califórnia |Escola Municipal João Pinheiro |
-
-|Linha acrescentada pelo Decreto nº 15.231, de 6/6/2013 | |
-
-|(Art. 1º) | |
-
-|Secretaria de Administração Regional Municipal Norte |
-
-| | |
-
-|Umei |Escola Municipal |
-
-|Umei Juliana |Escola Municipal Acadêmico Vivaldi Moreira |
-
-|Umei Aarão Reis |Escola Municipal Hélio Pellegrino |
-
-|Umei Betinho |Escola Municipal Herbert José de Souza |
-
-|Umei Jardim Guanabara |Escola Municipal Jardim Felicidade |
-
-|Umei Heliópolis |Escola Municipal José Maria dos Mares Guia |
-
-|Umei Primeiro de Maio |Escola Municipal Josefina Sousa Lima |
-
-|Umei São Bernardo |Escola Municipal Maria Silveira |
-
-|Umei Mariquinhas |Escola Municipal Minervina Augusta |
-
-|Umei Zilah Spósito |Escola Municipal Professor Daniel Alvarenga |
-
-|Secretaria de Administração Regional Municipal Oeste |
-
-| | |
-
-|Umei |Escola Municipal |
-
-|Umei Grajaú |Escola Municipal Hugo Werneck |
-
-|Umei Silva Lobo |Escola Municipal Magalhães Drumond |
-
-|Umei Gameleira |Escola Municipal Maria Sales Ferreira |
-
-|Umei Cac Havaí |Escola Municipal Prefeito Aminthas de Barros |
-
-|Umei da Vila Santa Maria |Escola Municipal Professor Mário Werneck |
-
-|Umei Santa Maria | |
-
-|Item com denominação dada pelo Decreto nº 16.577, de | |
-
-|16/02/2017 (Art. 1º) | |
-
-|Secretaria de Administração Regional Municipal Pampulha |
-
-| | |
-
-|Umei |Escola Municipal |
-
-|Umei Alaíde Lisboa |Escola Municipal Henfil |
-
-|Umei Santa Amélia |Escola Municipal José Madureira Horta |
-
-|Umei Vila Antena |Escola Municipal Júlia Paraíso |
-
-|Umei Itatiaia |Escola Municipal Maria de Magalhães Pinto |
-
-|Umei Braúnas |Escola Municipal Professora Alice Nacif |
-
-|Umei Castelo |Escola Municipal Santa Terezinha |
-
-|Secretaria de Administração Regional Municipal Venda Nova |
-
-| | |
-
-|Umei |Escola Municipal |
-
-|Umei Paraúnas |Escola Municipal Alessandra Salum Cadar |
-
-|Umei Itamarati |Escola Municipal Antônio Gomes Horta |
-
-|Umei Vila Apolônia |Escola Municipal Elisa Buzelin |
-
-|Umei Céu Azul |Escola Municipal Míriam Brandão |
-
-|Umei Lagoa |Escola Municipal Professor Moacyr Andrade |
-
-|Umei Jardim Leblon |Escola Municipal Vereador Antônio Menezes |
-
-|Umei ardim dos Comerciários |Escola Municipal Vicente Guimarães |
+| Secretaria de Administração Regional Municipal Barreiro |  |
+| --- | --- |
+|  |  |
+| Umei | Escola Municipal |
+| Umei Jatobá IV | Escola Municipal Aires da Mata Machado |
+| Umei Sol Nascente | Escola Municipal Ana Alves Teixeira |
+| Umei Cardoso | Escola Municipal Antônio Mourão Guimarães |
+| Umei Lucas Monteiro Machado | Escola Municipal Ciac - Lucas Monteiro Machado |
+| Umei Águas Claras | Escola Municipal da Vila Pinho |
+| Umei José Isidoro Filho | Escola Municipal Dinorah Magalhães Fabri |
+| Umei Miramar | Escola Municipal Dulce Maria Homem |
+| Umei Pilar Olhos d'Água | Escola Municipal Pedro Nava |
+| Umei Mangueiras | Escola Municipal Professor Hilton Rocha |
+| Secretaria de Administração Regional Municipal Centro-Sul |  |
+|  |  |
+| Umei | Escola Municipal |
+| Umei Delfim Moreira | Escola Municipal Imaco |
+| Umei Timbiras | Escola Municipal Marconi |
+| Umei Luxemburgo | Escola Municipal Mestre Paranhos |
+| Umei Vila Conceição | Escola Municipal Padre Guilherme Peters |
+| Umei Santa Isabel | Escola Municipal Professor Edson Pisani |
+| Umei São João |  |
+| Umei Padre Tarcísio | Escola Municipal Senador Levindo Coelho |
+| Umei Professora Marta Nair Monteiro | Escola Municipal Ulysses Guimarães |
+| Umei Capivari | Escola Municipal Professor Edson Pisani |
+| Linha acrescentada pelo Decreto nº 15.231, de 6/6/2013 |  |
+| (Art. 1º) |  |
+| Secretaria de Administração Regional Municipal Leste |  |
+|  |  |
+| Umei | Escola Municipal |
+| Umei Taquaril | Escola Municipal Fernando Dias Costa |
+| Umei Paraíso | Escola Municipal Levindo Lopes |
+| Umei Granja de Freitas | Escola Municipal Professora Alcida Torres |
+| Umei Caetano Furquim | Escola Municipal Wladimir de Paula Gomes |
+| Secretaria de Administração Regional Municipal Nordeste |  |
+|  |  |
+| Umei | Escola Municipal |
+| Umei Cachoeirinha | Escola Municipal Américo Renê Giannetti |
+| Umei Capitão Eduardo | Escola Municipal Governador Ozanan Coelho |
+| Umei São Gabriel | Escola Municipal Oswaldo França Júnior |
+| Umei Jardim Vitória | Escola Municipal Prefeito Souza Lima |
+| Umei Cavalinho de Pau | Escola Municipal Professor Edgar da Matta Machado |
+| Umei Ribeiro de Abreu | Escola Municipal Professor Paulo Freire |
+| Umei Professora Acidália Lott | Escola Municipal Professora Acidália Lott |
+| Umei Ouro Minas | Escola Municipal Professora Consuelita Cândida |
+| Umei Santa Cruz | Escola Municipal Renascença |
+| Umei Coqueiro Verde | Escola Municipal Sobral Pinto |
+| Secretaria de Administração Regional Municipal Noroeste |  |
+|  |  |
+| Umei | Escola Municipal |
+| Umei Carlos Prates | Escola Municipal Arthur Guimarães |
+| Umei Nova Esperança |  |
+| Umei Pituchinha | Escola Municipal Dom Bosco |
+| Umei Sabinópolis | Escola Municipal Dom Jaime de Barros Câmara |
+| Umei Pedreira Prado Lopes | Escola Municipal Dr. José Diogo de Almeida Magalhães |
+| Umei Pindorama | Escola Municipal Luigi Toniolo |
+| Umei Vila Senhor dos Passos | Escola Municipal Maria da Glória Lommez |
+| Umei Vila São Vicente | Escola Municipal Nossa Senhora do Amparo |
+| Umei Califórnia | Escola Municipal João Pinheiro |
+| Linha acrescentada pelo Decreto nº 15.231, de 6/6/2013 |  |
+| (Art. 1º) |  |
+| Secretaria de Administração Regional Municipal Norte |  |
+|  |  |
+| Umei | Escola Municipal |
+| Umei Juliana | Escola Municipal Acadêmico Vivaldi Moreira |
+| Umei Aarão Reis | Escola Municipal Hélio Pellegrino |
+| Umei Betinho | Escola Municipal Herbert José de Souza |
+| Umei Jardim Guanabara | Escola Municipal Jardim Felicidade |
+| Umei Heliópolis | Escola Municipal José Maria dos Mares Guia |
+| Umei Primeiro de Maio | Escola Municipal Josefina Sousa Lima |
+| Umei São Bernardo | Escola Municipal Maria Silveira |
+| Umei Mariquinhas | Escola Municipal Minervina Augusta |
+| Umei Zilah Spósito | Escola Municipal Professor Daniel Alvarenga |
+| Secretaria de Administração Regional Municipal Oeste |  |
+|  |  |
+| Umei | Escola Municipal |
+| Umei Grajaú | Escola Municipal Hugo Werneck |
+| Umei Silva Lobo | Escola Municipal Magalhães Drumond |
+| Umei Gameleira | Escola Municipal Maria Sales Ferreira |
+| Umei Cac Havaí | Escola Municipal Prefeito Aminthas de Barros |
+| Umei da Vila Santa Maria | Escola Municipal Professor Mário Werneck |
+| Umei Santa Maria |  |
+| Item com denominação dada pelo Decreto nº 16.577, de |  |
+| 16/02/2017 (Art. 1º) |  |
+| Secretaria de Administração Regional Municipal Pampulha |  |
+|  |  |
+| Umei | Escola Municipal |
+| Umei Alaíde Lisboa | Escola Municipal Henfil |
+| Umei Santa Amélia | Escola Municipal José Madureira Horta |
+| Umei Vila Antena | Escola Municipal Júlia Paraíso |
+| Umei Itatiaia | Escola Municipal Maria de Magalhães Pinto |
+| Umei Braúnas | Escola Municipal Professora Alice Nacif |
+| Umei Castelo | Escola Municipal Santa Terezinha |
+| Secretaria de Administração Regional Municipal Venda Nova |  |
+|  |  |
+| Umei | Escola Municipal |
+| Umei Paraúnas | Escola Municipal Alessandra Salum Cadar |
+| Umei Itamarati | Escola Municipal Antônio Gomes Horta |
+| Umei Vila Apolônia | Escola Municipal Elisa Buzelin |
+| Umei Céu Azul | Escola Municipal Míriam Brandão |
+| Umei Lagoa | Escola Municipal Professor Moacyr Andrade |
+| Umei Jardim Leblon | Escola Municipal Vereador Antônio Menezes |
+| Umei ardim dos Comerciários | Escola Municipal Vicente Guimarães |

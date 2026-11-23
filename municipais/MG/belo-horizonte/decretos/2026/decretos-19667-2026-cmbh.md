@@ -58,111 +58,63 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei|R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.0091.3501.469071.1.634.790 |24.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339030.1.500.000 |16.000,00 |
-
-|2505.18.541.0073.2812.449052.1.500.000 |74.000,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.0085.2940.339040.1.500.000 |71.980,72 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0019.2308.339046.1.500.000 |95.300,00 |
-
-|3701.08.245.0020.2878.339046.1.500.000 |83.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.1.500.000 |12.838,00 |
-
-|2700.15.451.0062.1230.449051.1.500.000 |7.418.574,00 |
-
-|2700.18.541.0233.1202.449051.1.500.000 |18.700,00 |
-
-|2700.04.122.0044.1219.449051.2.500.000 |141.896,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.0141.2852.339036.1.500.000 |60.500,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0007.2900.339036.1.500.000 |41.000,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0127.2928.339046.1.500.000 |16.900,00 |
-
-|3700.14.422.0127.2928.339039.1.500.000 |26.700,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |8.101.388,72 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei | R$ |
+| --- | --- |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.0091.3501.469071.1.634.790 | 24.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339030.1.500.000 | 16.000,00 |
+| 2505.18.541.0073.2812.449052.1.500.000 | 74.000,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.0085.2940.339040.1.500.000 | 71.980,72 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0019.2308.339046.1.500.000 | 95.300,00 |
+| 3701.08.245.0020.2878.339046.1.500.000 | 83.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.1.500.000 | 12.838,00 |
+| 2700.15.451.0062.1230.449051.1.500.000 | 7.418.574,00 |
+| 2700.18.541.0233.1202.449051.1.500.000 | 18.700,00 |
+| 2700.04.122.0044.1219.449051.2.500.000 | 141.896,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0141.2852.339036.1.500.000 | 60.500,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0007.2900.339036.1.500.000 | 41.000,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0127.2928.339046.1.500.000 | 16.900,00 |
+| 3700.14.422.0127.2928.339039.1.500.000 | 26.700,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 8.101.388,72 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.1000.999999.1.500.000 |90.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339040.1.500.000 |8.250,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.449052.1.500.000 |43.791,52 |
-
-|2302.10.126.0117.2662.449052.1.634.790 |24.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0113.2334.319011.1.500.000 |95.300,00 |
-
-|3701.08.245.0019.2308.319011.1.500.000 |83.000,00 |
-
-|Fundo Municipal de Habitação Popular - FMHP |
-
-|2704.16.482.0225.1231.339040.1.500.000 |19.939,20 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0315.1407.449051.1.500.000 |31.538,00 |
-
-|2700.15.451.0311.1408.449051.1.500.000 |6.878.241,00 |
-
-|2700.15.451.0311.2955.449051.1.500.000 |540.333,00 |
-
-|2700.13.391.0319.1215.449051.2.500.000 |141.896,00 |
-
-|Fundo Municipal de Proteção e Defesa do Consumidor – FMPDC |
-
-|2809.04.121.0141.2904.339036.1.500.000 |60.500,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.131.0015.2007.339030.1.500.000 |41.000,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0127.2334.319011.1.500.000 |16.900,00 |
-
-|3700.14.243.0127.2957.339039.1.500.000 |26.700,00 |
-
-|TOTAL DA ANULAÇÃO |8.101.388,72 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.1000.999999.1.500.000 | 90.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339040.1.500.000 | 8.250,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.449052.1.500.000 | 43.791,52 |
+| 2302.10.126.0117.2662.449052.1.634.790 | 24.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0113.2334.319011.1.500.000 | 95.300,00 |
+| 3701.08.245.0019.2308.319011.1.500.000 | 83.000,00 |
+| Fundo Municipal de Habitação Popular - FMHP |  |
+| 2704.16.482.0225.1231.339040.1.500.000 | 19.939,20 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0315.1407.449051.1.500.000 | 31.538,00 |
+| 2700.15.451.0311.1408.449051.1.500.000 | 6.878.241,00 |
+| 2700.15.451.0311.2955.449051.1.500.000 | 540.333,00 |
+| 2700.13.391.0319.1215.449051.2.500.000 | 141.896,00 |
+| Fundo Municipal de Proteção e Defesa do Consumidor – FMPDC |  |
+| 2809.04.121.0141.2904.339036.1.500.000 | 60.500,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.131.0015.2007.339030.1.500.000 | 41.000,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0127.2334.319011.1.500.000 | 16.900,00 |
+| 3700.14.243.0127.2957.339039.1.500.000 | 26.700,00 |
+| TOTAL DA ANULAÇÃO | 8.101.388,72 |
 
 ANEXO II
 
@@ -210,26 +162,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 898.069.502,49 |
-
-|Valor do decreto publicado nesta data |R$ 8.101.388,72 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 906.170.891,21 |
-
-|Saldo atual de créditos suplementares |R$ 1.586.264.176,39 |
-
-|Percentual utilizado |36,36% |
-
-|Atualizado em 22/07/2026 às 08:12:24 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 898.069.502,49 |
+| Valor do decreto publicado nesta data | R$ 8.101.388,72 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 906.170.891,21 |
+| Saldo atual de créditos suplementares | R$ 1.586.264.176,39 |
+| Percentual utilizado | 36,36% |
+| Atualizado em 22/07/2026 às 08:12:24 |  |

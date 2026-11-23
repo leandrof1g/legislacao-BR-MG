@@ -104,266 +104,136 @@ Secretário Municipal de Educação
 
 ANEXO ÚNICO
 
-|Nº |ESCOLAS |REGIONAL |FONTE RECURSO |UEX-CENTRAIS |VALOR |
-
-|1 |E.M. Antônio Mourão Guimarães |BARREIRO |PDDE-EA | |10.000,00 |
-
-|2 |E.M. Antônio Salles Barbosa |BARREIRO |SMEDBH | |26.000,00 |
-
-|3 |E.M. Aurélio Buarque de Holanda |BARREIRO |PDDE-EA | |10.000,00 |
-
-|4 |E.M. CIAC - Lucas Monteiro Machado |BARREIRO |PDDE-EA | |10.000,00 |
-
-|5 |E.M. Cônego Sequeira |BARREIRO |PDDE-EA | |10.000,00 |
-
-|6 |E.M. Dinorah Magalhães Fabri |BARREIRO |PDDE-EA | |10.000,00 |
-
-|7 |E.M. Edith Pimenta da Veiga |BARREIRO |SMEDBH | |26.000,00 |
-
-|8 |E.M. Helena Antipoff |BARREIRO |PDDE-EA | |10.000,00 |
-
-|9 |E.M. Jonas Barcelos Corrêa |BARREIRO |PDDE-EA | |10.000,00 |
-
-|10 |E.M. Luiz Gonzaga Júnior |BARREIRO |PDDE-EA | |10.000,00 |
-
-|11 |E.M. Padre Flávio Giammetta |BARREIRO |SMEDBH | |26.000,00 |
-
-|12 |E.M. Pedro Aleixo |BARREIRO |SMEDBH | |26.000,00 |
-
-|13 |E.M. Pedro Nava |BARREIRO |SMEDBH | |26.000,00 |
-
-|14 |E.M. Professor Hilton Rocha |BARREIRO |PDDE-EA | |10.000,00 |
-
-|15 |E.M. Sebastião Guilherme de Oliveira |BARREIRO |SMEDBH |UEX-CENTRAIS |28.700,00 |
-
-|16 |E.M. União Comunitária |BARREIRO |PDDE-EA | |10.000,00 |
-
-|17 |E.M. Vila Pinho |BARREIRO |PDDE-EA | |10.000,00 |
-
-|TOTAL REGIONAL BARREIRO |268.700,00 |
-
-|Nº |ESCOLAS |REGIONAL |FONTE RECURSO |UEX-CENTRAIS |VALOR |
-
-|18 |E.M. IMACO |CENTRO-SUL |PDDE-EA | |10.000,00 |
-
-|19 |E.M. Professor Edson Pisani |CENTRO-SUL |PDDE-EA | |10.000,00 |
-
-|20 |E.M. Professor Mestre Paranhos |CENTRO-SUL |PDDE-EA | |10.000,00 |
-
-|21 |E.M. Senador Levindo Coelho |CENTRO-SUL |PDDE-EA | |10.000,00 |
-
-|22 |E.M. Ulysses Guimarães |CENTRO-SUL |PDDE-EA | |10.000,00 |
-
-|TOTAL REGIONAL CENTRO-SUL |50.000,00 |
-
-|23 |E.M. Professora Alcida Torres |LESTE |PDDE-EA | |10.000,00 |
-
-|24 |E.M. da Vila Fazendinha |LESTE |SMEDBH |UEX-CENTRAIS |28.700,00 |
-
-|25 |E.M. Fernando Dias Costa |LESTE |PDDE-EA | |10.000,00 |
-
-|26 |E.M. George Ricarco Salum |LESTE |PDDE-EA | |10.000,00 |
-
-|27 |E.M. Israel Pinheiro |LESTE |PDDE-EA | |10.000,00 |
-
-|28 |E.M. Levindo Lopes |LESTE |SMEDBH | |26.000,00 |
-
-|29 |E.M. Maria das Neves |LESTE |PDDE-EA | |10.000,00 |
-
-|30 |E.M. Monsenhor João Rodrigues de Oliveira |LESTE |SMEDBH | |26.000,00 |
-
-|31 |E.M. Padre Francisco Carvalho Moreira |LESTE |PDDE-EA | |10.000,00 |
-
-|32 |E.M. Padre Guilherme Peters |LESTE |PDDE-EA | |10.000,00 |
-
-|33 |E.M. Professor Domiciano Vieira |LESTE |PDDE-EA | |10.000,00 |
-
-|34 |E.M. São Rafael |LESTE |PDDE-EA | |10.000,00 |
-
-|35 |E.M. Wladimir de Paula Gomes |LESTE |PDDE-EA | |10.000,00 |
-
-|TOTAL REGIONAL LESTE |180.700,00 |
-
-|36 |E.M. Agenor Alves de Carvalho |NORDESTE |PDDE-EA | |10.000,00 |
-
-|37 |E.M. Consuelita Cândida |NORDESTE |PDDE-EA | |10.000,00 |
-
-|38 |E.M. Francisco Bressane de Azevedo |NORDESTE |PDDE-EA | |10.000,00 |
-
-|39 |E.M. Governador Ozanan Coelho |NORDESTE |PDDE-EA | |10.000,00 |
-
-|40 |E.M. Henriqueta Lisboa |NORDESTE |PDDE-EA | |10.000,00 |
-
-|41 |E.M. Honorina Rabello |NORDESTE |PDDE-EA | |10.000,00 |
-
-|42 |E.M. Hugo Pinheiro Soares |NORDESTE |PDDE-EA | |10.000,00 |
-
-|43 |E.M. José de Calazans |NORDESTE |PDDE-EA | |10.000,00 |
-
-|44 |E.M. Maria Assunção de Marco |NORDESTE |SMEDBH |UEX-CENTRAIS |28.700,00 |
-
-|45 |E.M. Oswaldo França Júnior |NORDESTE |PDDE-EA | |10.000,00 |
-
-|46 |E.M. Pérsio Pereira Pinto |NORDESTE |PDDE-EA | |10.000,00 |
-
-|47 |E.M. Prefeito Souza Lima |NORDESTE |SMEDBH | |26.000,00 |
-
-|48 |E.M. Professor Edgar da Mata Machado |NORDESTE |PDDE-EA | |10.000,00 |
-
-|49 |E.M. Professor Milton Lage |NORDESTE |SMEDBH | |26.000,00 |
-
-|50 |E.M. Professor Paulo Freire |NORDESTE |PDDE-EA | |10.000,00 |
-
-|51 |E.M. Professora Acidália Lott |NORDESTE |PDDE-EA | |10.000,00 |
-
-|52 |E.M. Professora Eleonora Pieruccetti |NORDESTE |PDDE-EA | |10.000,00 |
-
-|53 |E.M. Professora Maria Modesta Cravo |NORDESTE |SMEDBH | |26.000,00 |
-
-|54 |E.M. Sobral Pinto |NORDESTE |PDDE-EA | |10.000,00 |
-
-|TOTAL REGIONAL NORDESTE |256.700,00 |
-
-|55 |E.M. Arthur Guimarães |NOROESTE |PDDE-EA | |10.000,00 |
-
-|56 |E.M. Augusta Medeiros |NOROESTE |PDDE-EA | |10.000,00 |
-
-|57 |E.M. Carlos Góis |NOROESTE |PDDE-EA | |10.000,00 |
-
-|58 |E.M. Honorina de Barros |NOROESTE |PDDE-EA | |10.000,00 |
-
-|59 |E.M. Ignácio Andrade de Mello |NOROESTE |SMEDBH | |26.000,00 |
-
-|60 |E.M. João Pinheiro |NOROESTE |SMEDBH |UEX-CENTRAIS |28.700,00 |
-
-|61 |E.M. Júlia Paraíso |NOROESTE |SMEDBH | |26.000,00 |
-
-|62 |E.M. Luigi Toniolo |NOROESTE |PDDE-EA | |10.000,00 |
-
-|Nº |ESCOLAS |REGIONAL |FONTE RECURSO |UEX-CENTRAIS |VALOR |
-
-|63 |E.M. Maria de Rezende Costa |NOROESTE |SMEDBH | |26.000,00 |
-
-|64 |E.M. Marlene Pereira Racante |NOROESTE |SMEDBH | |26.000,00 |
-
-|65 |E.M. Monsenhor Arthur de Oliveira |NOROESTE |PDDE-EA | |10.000,00 |
-
-|66 |E.M. Nossa Senhora do Amparo |NOROESTE |PDDE-EA | |10.000,00 |
-
-|67 |E.M. Padre Edeimar Massote |NOROESTE |PDDE-EA | |10.000,00 |
-
-|68 |E.M. Prefeito Oswaldo Pieruccetti |NOROESTE |PDDE-EA | |10.000,00 |
-
-|69 |E.M. Professor Cláudio Brandão |NOROESTE |SMEDBH |UEX-CENTRAIS |28.700,00 |
-
-|70 |E.M. Professor Mário Werneck |NOROESTE |PDDE-EA | |10.000,00 |
-
-|TOTAL REGIONAL NOROESTE |261.400,00 |
-
-|71 |E.M. Cônsul Antônio Cadar |NORTE |SMEDBH | |26.000,00 |
-
-|72 |E.M. Felicidade |NORTE |PDDE-EA | |10.000,00 |
-
-|73 |E.M. Florestan Fernandes |NORTE |PDDE-EA | |10.000,00 |
-
-|74 |E.M. Francisco Campos |NORTE |SMEDBH | |26.000,00 |
-
-|75 |E.M. Francisco Magalhães Gomes |NORTE |PDDE-EA | |10.000,00 |
-
-|76 |E.M. Hélio Pellegrino |NORTE |PDDE-EA | |10.000,00 |
-
-|77 |E.M. José Maria dos Mares Guia |NORTE |PDDE-EA | |10.000,00 |
-
-|78 |E.M. Josefina Souza Lima |NORTE |PDDE-EA | |10.000,00 |
-
-|79 |E.M. Maria Silveira |NORTE |PDDE-EA | |10.000,00 |
-
-|80 |E.M. Professor Daniel Alvarenga |NORTE |PDDE-EA | |10.000,00 |
-
-|81 |E.M. Secretário Humberto Almeida |NORTE |PDDE-EA | |10.000,00 |
-
-|82 |E.M. Tristão da Cunha |NORTE |SMEDBH |UEX-CENTRAIS |28.700,00 |
-
-|TOTAL REGIONAL NORTE |170.700,00 |
-
-|83 |E.M. Deputado Milton Salles |OESTE |SMEDBH | |26.000,00 |
-
-|84 |E.M. Francisca de Paula |OESTE |PDDE-EA | |10.000,00 |
-
-|85 |E.M. Hugo Werneck |OESTE |PDDE-EA | |10.000,00 |
-
-|86 |E.M. João do Patrocínio |OESTE |SMEDBH | |26.000,00 |
-
-|87 |E.M. Magalhães Drumond |OESTE |PDDE-EA | |10.000,00 |
-
-|88 |E.M. Mestre Ataíde |OESTE |PDDE-EA | |10.000,00 |
-
-|89 |E.M. Oswaldo Cruz |OESTE |PDDE-EA | |10.000,00 |
-
-|90 |E.M. Padre Henrique Brandão |OESTE |SMEDBH | |26.000,00 |
-
-|91 |E.M. Prefeito Aminthas de Barros |OESTE |PDDE-EA | |10.000,00 |
-
-|92 |E.M. Professora Efigênia Vidigal |OESTE |PDDE-EA | |10.000,00 |
-
-|93 |E.M. Salgado Filho |OESTE |SMEDBH |UEX-CENTRAIS |28.700,00 |
-
-|94 |E.M. Tenente Manoel Magalhães Penido |OESTE |SMEDBH | |26.000,00 |
-
-|TOTAL REGIONAL OESTE |202.700,00 |
-
-|95 |E.M. Anne Frank |PAMPULHA |PDDE-EA | |10.000,00 |
-
-|96 |E.M. Aurélio Pires |PAMPULHA |PDDE-EA | |10.000,00 |
-
-|97 |E.M. Carmelita Carvalho Garcia |PAMPULHA |PDDE-EA | |10.000,00 |
-
-|98 |E.M. Dom Orione |PAMPULHA |SMEDBH | |26.000,00 |
-
-|99 |E.M. Maria de Magalhães Pinto |PAMPULHA |PDDE-EA | |10.000,00 |
-
-|100 |E.M. Professor Amilcar Martins |PAMPULHA |SMEDBH | |26.000,00 |
-
-|101 |E.M. Professora Alice Nacif |PAMPULHA |PDDE-EA | |10.000,00 |
-
-|TOTAL REGIONAL PAMPULHA |102.000,00 |
-
-|102 |E.M. Adauto Lúcio Cardoso |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|103 |E.M. Antônia Ferreira |VENDA NOVA |SMEDBH | |26.000,00 |
-
-|104 |E.M. Carlos Drumond de Andrande |VENDA NOVA |SMEDBH | |26.000,00 |
-
-|105 |E.M. Cônego Raimundo Trindade |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|106 |E.M. Deputado Renato Azeredo |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|Nº |ESCOLAS |REGIONAL |FONTE RECURSO |UEX-CENTRAIS |VALOR |
-
-|107 |E.M. Dora Domich Laender |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|108 |E.M. Elisa Buzelin |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|109 |E.M. Geraldo Teixeira da Costa |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|110 |E.M. Gracy Viana Lage |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|111 |E.M. José Maria Alkimim |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|112 |E.M. Mário Mourão Filho |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|113 |E.M. Milton Campos |VENDA NOVA |SMEDBH | |26.000,00 |
-
-|114 |E.M. Moysés Kalil |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|115 |E.M. Professor Armando Ziller |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|116 |E.M. Professor Moacyr Andrade |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|117 |E.M. Professor Tabajara Pedroso |VENDA NOVA |PDDE-EA | |10.000,00 |
-
-|118 |E.M. Vicente Guimarães |VENDA NOVA |SMEDBH |UEX-CENTRAIS |28.700,00 |
-
-|TOTAL REGIONAL VENDA NOVA |236.700,00 |
-
-|TOTAL GERAL | 1.729.600,00|
+| Nº | ESCOLAS | REGIONAL | FONTE RECURSO | UEX-CENTRAIS | VALOR |
+| --- | --- | --- | --- | --- | --- |
+| 1 | E.M. Antônio Mourão Guimarães | BARREIRO | PDDE-EA |  | 10.000,00 |
+| 2 | E.M. Antônio Salles Barbosa | BARREIRO | SMEDBH |  | 26.000,00 |
+| 3 | E.M. Aurélio Buarque de Holanda | BARREIRO | PDDE-EA |  | 10.000,00 |
+| 4 | E.M. CIAC - Lucas Monteiro Machado | BARREIRO | PDDE-EA |  | 10.000,00 |
+| 5 | E.M. Cônego Sequeira | BARREIRO | PDDE-EA |  | 10.000,00 |
+| 6 | E.M. Dinorah Magalhães Fabri | BARREIRO | PDDE-EA |  | 10.000,00 |
+| 7 | E.M. Edith Pimenta da Veiga | BARREIRO | SMEDBH |  | 26.000,00 |
+| 8 | E.M. Helena Antipoff | BARREIRO | PDDE-EA |  | 10.000,00 |
+| 9 | E.M. Jonas Barcelos Corrêa | BARREIRO | PDDE-EA |  | 10.000,00 |
+| 10 | E.M. Luiz Gonzaga Júnior | BARREIRO | PDDE-EA |  | 10.000,00 |
+| 11 | E.M. Padre Flávio Giammetta | BARREIRO | SMEDBH |  | 26.000,00 |
+| 12 | E.M. Pedro Aleixo | BARREIRO | SMEDBH |  | 26.000,00 |
+| 13 | E.M. Pedro Nava | BARREIRO | SMEDBH |  | 26.000,00 |
+| 14 | E.M. Professor Hilton Rocha | BARREIRO | PDDE-EA |  | 10.000,00 |
+| 15 | E.M. Sebastião Guilherme de Oliveira | BARREIRO | SMEDBH | UEX-CENTRAIS | 28.700,00 |
+| 16 | E.M. União Comunitária | BARREIRO | PDDE-EA |  | 10.000,00 |
+| 17 | E.M. Vila Pinho | BARREIRO | PDDE-EA |  | 10.000,00 |
+| TOTAL REGIONAL BARREIRO | 268.700,00 |  |  |  |  |
+| Nº | ESCOLAS | REGIONAL | FONTE RECURSO | UEX-CENTRAIS | VALOR |
+| 18 | E.M. IMACO | CENTRO-SUL | PDDE-EA |  | 10.000,00 |
+| 19 | E.M. Professor Edson Pisani | CENTRO-SUL | PDDE-EA |  | 10.000,00 |
+| 20 | E.M. Professor Mestre Paranhos | CENTRO-SUL | PDDE-EA |  | 10.000,00 |
+| 21 | E.M. Senador Levindo Coelho | CENTRO-SUL | PDDE-EA |  | 10.000,00 |
+| 22 | E.M. Ulysses Guimarães | CENTRO-SUL | PDDE-EA |  | 10.000,00 |
+| TOTAL REGIONAL CENTRO-SUL | 50.000,00 |  |  |  |  |
+| 23 | E.M. Professora Alcida Torres | LESTE | PDDE-EA |  | 10.000,00 |
+| 24 | E.M. da Vila Fazendinha | LESTE | SMEDBH | UEX-CENTRAIS | 28.700,00 |
+| 25 | E.M. Fernando Dias Costa | LESTE | PDDE-EA |  | 10.000,00 |
+| 26 | E.M. George Ricarco Salum | LESTE | PDDE-EA |  | 10.000,00 |
+| 27 | E.M. Israel Pinheiro | LESTE | PDDE-EA |  | 10.000,00 |
+| 28 | E.M. Levindo Lopes | LESTE | SMEDBH |  | 26.000,00 |
+| 29 | E.M. Maria das Neves | LESTE | PDDE-EA |  | 10.000,00 |
+| 30 | E.M. Monsenhor João Rodrigues de Oliveira | LESTE | SMEDBH |  | 26.000,00 |
+| 31 | E.M. Padre Francisco Carvalho Moreira | LESTE | PDDE-EA |  | 10.000,00 |
+| 32 | E.M. Padre Guilherme Peters | LESTE | PDDE-EA |  | 10.000,00 |
+| 33 | E.M. Professor Domiciano Vieira | LESTE | PDDE-EA |  | 10.000,00 |
+| 34 | E.M. São Rafael | LESTE | PDDE-EA |  | 10.000,00 |
+| 35 | E.M. Wladimir de Paula Gomes | LESTE | PDDE-EA |  | 10.000,00 |
+| TOTAL REGIONAL LESTE | 180.700,00 |  |  |  |  |
+| 36 | E.M. Agenor Alves de Carvalho | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 37 | E.M. Consuelita Cândida | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 38 | E.M. Francisco Bressane de Azevedo | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 39 | E.M. Governador Ozanan Coelho | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 40 | E.M. Henriqueta Lisboa | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 41 | E.M. Honorina Rabello | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 42 | E.M. Hugo Pinheiro Soares | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 43 | E.M. José de Calazans | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 44 | E.M. Maria Assunção de Marco | NORDESTE | SMEDBH | UEX-CENTRAIS | 28.700,00 |
+| 45 | E.M. Oswaldo França Júnior | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 46 | E.M. Pérsio Pereira Pinto | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 47 | E.M. Prefeito Souza Lima | NORDESTE | SMEDBH |  | 26.000,00 |
+| 48 | E.M. Professor Edgar da Mata Machado | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 49 | E.M. Professor Milton Lage | NORDESTE | SMEDBH |  | 26.000,00 |
+| 50 | E.M. Professor Paulo Freire | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 51 | E.M. Professora Acidália Lott | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 52 | E.M. Professora Eleonora Pieruccetti | NORDESTE | PDDE-EA |  | 10.000,00 |
+| 53 | E.M. Professora Maria Modesta Cravo | NORDESTE | SMEDBH |  | 26.000,00 |
+| 54 | E.M. Sobral Pinto | NORDESTE | PDDE-EA |  | 10.000,00 |
+| TOTAL REGIONAL NORDESTE | 256.700,00 |  |  |  |  |
+| 55 | E.M. Arthur Guimarães | NOROESTE | PDDE-EA |  | 10.000,00 |
+| 56 | E.M. Augusta Medeiros | NOROESTE | PDDE-EA |  | 10.000,00 |
+| 57 | E.M. Carlos Góis | NOROESTE | PDDE-EA |  | 10.000,00 |
+| 58 | E.M. Honorina de Barros | NOROESTE | PDDE-EA |  | 10.000,00 |
+| 59 | E.M. Ignácio Andrade de Mello | NOROESTE | SMEDBH |  | 26.000,00 |
+| 60 | E.M. João Pinheiro | NOROESTE | SMEDBH | UEX-CENTRAIS | 28.700,00 |
+| 61 | E.M. Júlia Paraíso | NOROESTE | SMEDBH |  | 26.000,00 |
+| 62 | E.M. Luigi Toniolo | NOROESTE | PDDE-EA |  | 10.000,00 |
+| Nº | ESCOLAS | REGIONAL | FONTE RECURSO | UEX-CENTRAIS | VALOR |
+| 63 | E.M. Maria de Rezende Costa | NOROESTE | SMEDBH |  | 26.000,00 |
+| 64 | E.M. Marlene Pereira Racante | NOROESTE | SMEDBH |  | 26.000,00 |
+| 65 | E.M. Monsenhor Arthur de Oliveira | NOROESTE | PDDE-EA |  | 10.000,00 |
+| 66 | E.M. Nossa Senhora do Amparo | NOROESTE | PDDE-EA |  | 10.000,00 |
+| 67 | E.M. Padre Edeimar Massote | NOROESTE | PDDE-EA |  | 10.000,00 |
+| 68 | E.M. Prefeito Oswaldo Pieruccetti | NOROESTE | PDDE-EA |  | 10.000,00 |
+| 69 | E.M. Professor Cláudio Brandão | NOROESTE | SMEDBH | UEX-CENTRAIS | 28.700,00 |
+| 70 | E.M. Professor Mário Werneck | NOROESTE | PDDE-EA |  | 10.000,00 |
+| TOTAL REGIONAL NOROESTE | 261.400,00 |  |  |  |  |
+| 71 | E.M. Cônsul Antônio Cadar | NORTE | SMEDBH |  | 26.000,00 |
+| 72 | E.M. Felicidade | NORTE | PDDE-EA |  | 10.000,00 |
+| 73 | E.M. Florestan Fernandes | NORTE | PDDE-EA |  | 10.000,00 |
+| 74 | E.M. Francisco Campos | NORTE | SMEDBH |  | 26.000,00 |
+| 75 | E.M. Francisco Magalhães Gomes | NORTE | PDDE-EA |  | 10.000,00 |
+| 76 | E.M. Hélio Pellegrino | NORTE | PDDE-EA |  | 10.000,00 |
+| 77 | E.M. José Maria dos Mares Guia | NORTE | PDDE-EA |  | 10.000,00 |
+| 78 | E.M. Josefina Souza Lima | NORTE | PDDE-EA |  | 10.000,00 |
+| 79 | E.M. Maria Silveira | NORTE | PDDE-EA |  | 10.000,00 |
+| 80 | E.M. Professor Daniel Alvarenga | NORTE | PDDE-EA |  | 10.000,00 |
+| 81 | E.M. Secretário Humberto Almeida | NORTE | PDDE-EA |  | 10.000,00 |
+| 82 | E.M. Tristão da Cunha | NORTE | SMEDBH | UEX-CENTRAIS | 28.700,00 |
+| TOTAL REGIONAL NORTE | 170.700,00 |  |  |  |  |
+| 83 | E.M. Deputado Milton Salles | OESTE | SMEDBH |  | 26.000,00 |
+| 84 | E.M. Francisca de Paula | OESTE | PDDE-EA |  | 10.000,00 |
+| 85 | E.M. Hugo Werneck | OESTE | PDDE-EA |  | 10.000,00 |
+| 86 | E.M. João do Patrocínio | OESTE | SMEDBH |  | 26.000,00 |
+| 87 | E.M. Magalhães Drumond | OESTE | PDDE-EA |  | 10.000,00 |
+| 88 | E.M. Mestre Ataíde | OESTE | PDDE-EA |  | 10.000,00 |
+| 89 | E.M. Oswaldo Cruz | OESTE | PDDE-EA |  | 10.000,00 |
+| 90 | E.M. Padre Henrique Brandão | OESTE | SMEDBH |  | 26.000,00 |
+| 91 | E.M. Prefeito Aminthas de Barros | OESTE | PDDE-EA |  | 10.000,00 |
+| 92 | E.M. Professora Efigênia Vidigal | OESTE | PDDE-EA |  | 10.000,00 |
+| 93 | E.M. Salgado Filho | OESTE | SMEDBH | UEX-CENTRAIS | 28.700,00 |
+| 94 | E.M. Tenente Manoel Magalhães Penido | OESTE | SMEDBH |  | 26.000,00 |
+| TOTAL REGIONAL OESTE | 202.700,00 |  |  |  |  |
+| 95 | E.M. Anne Frank | PAMPULHA | PDDE-EA |  | 10.000,00 |
+| 96 | E.M. Aurélio Pires | PAMPULHA | PDDE-EA |  | 10.000,00 |
+| 97 | E.M. Carmelita Carvalho Garcia | PAMPULHA | PDDE-EA |  | 10.000,00 |
+| 98 | E.M. Dom Orione | PAMPULHA | SMEDBH |  | 26.000,00 |
+| 99 | E.M. Maria de Magalhães Pinto | PAMPULHA | PDDE-EA |  | 10.000,00 |
+| 100 | E.M. Professor Amilcar Martins | PAMPULHA | SMEDBH |  | 26.000,00 |
+| 101 | E.M. Professora Alice Nacif | PAMPULHA | PDDE-EA |  | 10.000,00 |
+| TOTAL REGIONAL PAMPULHA | 102.000,00 |  |  |  |  |
+| 102 | E.M. Adauto Lúcio Cardoso | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 103 | E.M. Antônia Ferreira | VENDA NOVA | SMEDBH |  | 26.000,00 |
+| 104 | E.M. Carlos Drumond de Andrande | VENDA NOVA | SMEDBH |  | 26.000,00 |
+| 105 | E.M. Cônego Raimundo Trindade | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 106 | E.M. Deputado Renato Azeredo | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| Nº | ESCOLAS | REGIONAL | FONTE RECURSO | UEX-CENTRAIS | VALOR |
+| 107 | E.M. Dora Domich Laender | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 108 | E.M. Elisa Buzelin | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 109 | E.M. Geraldo Teixeira da Costa | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 110 | E.M. Gracy Viana Lage | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 111 | E.M. José Maria Alkimim | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 112 | E.M. Mário Mourão Filho | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 113 | E.M. Milton Campos | VENDA NOVA | SMEDBH |  | 26.000,00 |
+| 114 | E.M. Moysés Kalil | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 115 | E.M. Professor Armando Ziller | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 116 | E.M. Professor Moacyr Andrade | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 117 | E.M. Professor Tabajara Pedroso | VENDA NOVA | PDDE-EA |  | 10.000,00 |
+| 118 | E.M. Vicente Guimarães | VENDA NOVA | SMEDBH | UEX-CENTRAIS | 28.700,00 |
+| TOTAL REGIONAL VENDA NOVA | 236.700,00 |  |  |  |  |
+| TOTAL GERAL | 1.729.600,00 |  |  |  |  |

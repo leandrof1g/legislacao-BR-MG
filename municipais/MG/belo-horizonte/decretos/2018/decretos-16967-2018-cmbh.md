@@ -100,45 +100,27 @@ Anexo I
 
 Doenças/Condições de Enquadramento
 
-|Doenças |CID |
-
-|AIDS (Síndrome da Imunodeficiência Adquirida) |B24 |
-
-|Alienação Mental |F20 até F29; F00 até F09; G30; G31; G32 |
-
-|Cegueira (inclusive monocular) |H54 |
-
-|Contaminação por Radiação |W88 |
-
-|Doença de Paget em estados avançados (Osteíte |M88 |
-
-|Deformante) | |
-
-|Doença de Parkinson |G20 |
-
-|Esclerose Múltipla |G35 |
-
-|Espondiloartrose Anquilosante |M45 |
-
-|Fibrose Cística |E84 |
-
-|Hanseníase |A30 |
-
-|Neoplasia |C00 até D48 |
-
-|Paralisia irreversível e incapacitante |G81; G82; G83; I69 |
-
-|Tuberculose Ativa |A15 até A19 |
-
-|Artrite Reumatóide |M05; M06 |
-
-|Lúpus Eritematoso Sistêmico |M32 |
-
-|Pênfigo Foleáceo |L10.2 |
-
-|Doenças infecciosas endêmicas |A90 até A99 |
-
-|Traumas |Todos os “S”; “T” ; Z 54.4 |
+| Doenças | CID |
+| --- | --- |
+| AIDS (Síndrome da Imunodeficiência Adquirida) | B24 |
+| Alienação Mental | F20 até F29; F00 até F09; G30; G31; G32 |
+| Cegueira (inclusive monocular) | H54 |
+| Contaminação por Radiação | W88 |
+| Doença de Paget em estados avançados (Osteíte | M88 |
+| Deformante) |  |
+| Doença de Parkinson | G20 |
+| Esclerose Múltipla | G35 |
+| Espondiloartrose Anquilosante | M45 |
+| Fibrose Cística | E84 |
+| Hanseníase | A30 |
+| Neoplasia | C00 até D48 |
+| Paralisia irreversível e incapacitante | G81; G82; G83; I69 |
+| Tuberculose Ativa | A15 até A19 |
+| Artrite Reumatóide | M05; M06 |
+| Lúpus Eritematoso Sistêmico | M32 |
+| Pênfigo Foleáceo | L10.2 |
+| Doenças infecciosas endêmicas | A90 até A99 |
+| Traumas | Todos os “S”; “T” ; Z 54.4 |
 
 Anexo II
 
@@ -146,16 +128,11 @@ Anexo II
 
 Doenças Graves Classificáveis
 
-|Doenças |CID |
-
-|Doenças infecciosas graves |A ou B + Z 54.8 ou Z54.9 |
-
-|Doenças neurológicas graves |G + Z54.8 ou Z54.9 |
-
-|Doenças cardiovasculares graves |I + Z 54.8 ou Z54.9 |
-
-|Doenças pulmonares graves |J + Z54.8 ou Z54.9 |
-
-|Doenças hepáticas graves |K70-77 + Z54.8 ou Z54.9 |
-
-|Doenças geniturinárias graves |N 00-29 + Z54.8 ou Z54.9 |
+| Doenças | CID |
+| --- | --- |
+| Doenças infecciosas graves | A ou B + Z 54.8 ou Z54.9 |
+| Doenças neurológicas graves | G + Z54.8 ou Z54.9 |
+| Doenças cardiovasculares graves | I + Z 54.8 ou Z54.9 |
+| Doenças pulmonares graves | J + Z54.8 ou Z54.9 |
+| Doenças hepáticas graves | K70-77 + Z54.8 ou Z54.9 |
+| Doenças geniturinárias graves | N 00-29 + Z54.8 ou Z54.9 |

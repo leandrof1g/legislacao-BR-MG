@@ -30,119 +30,73 @@ O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 10
 
 I - Para a Secretaria Municipal da Coordenação de Gestão Regional Venda Nova-SCOMGER-VN
 
-|1900.030070212.536 - 3120 - Fonte 03.00 |
-
-|Serviços Adm. e Financeiros da Gestão Regional |9.230,00 |
-
-|1900.030070212.536 - 3131 - Fonte 03.00 | |
-
-|Serviços Adm. e Financeiros da Gestão Regional |2.810,00 |
-
-|1900.030070212.536 - 3132 - Fonte 03.00 | |
-
-|Serviços Adm. e Financeiros da Gestão Regional |66.402,00 |
+| 1900.030070212.536 - 3120 - Fonte 03.00 |  |
+| --- | --- |
+| Serviços Adm. e Financeiros da Gestão Regional | 9.230,00 |
+| 1900.030070212.536 - 3131 - Fonte 03.00 |  |
+| Serviços Adm. e Financeiros da Gestão Regional | 2.810,00 |
+| 1900.030070212.536 - 3132 - Fonte 03.00 |  |
+| Serviços Adm. e Financeiros da Gestão Regional | 66.402,00 |
 
 II - Para a Secretaria Municipal Regional de Serviços Urbanos - SMSUR-VN
 
-|1901.100583232.540 - 3120 - Fonte 03.00 |
-
-|Gestão do Controle Urbano e Ambiental |500,00 |
-
-|1901.100583232.540 - 3131 - Fonte 03.00 | |
-
-|Gestão do Controle Urbano e Ambiental |2.108,00 |
-
-|1901.100583232.540 - 3132 - Fonte 03.00 | |
-
-|Gestão do Controle Urbano e Ambiental |1.000,00 |
-
-|1901.100603282.079 - 3132 - Fonte 03.00 | |
-
-|Implantação e Manutenção de Parques e Jardins |74.484,00 |
-
-|1901.160915751.230 - 3131 - Fonte 03.00 | |
-
-|Impl. e Pavimentação de Vias Públicas |711,00 |
-
-|1901.160915751.230 - 3132 - Fonte 03.00 | |
-
-|Impl. e Pavimentação de Vias Públicas |21.824,00 |
+| 1901.100583232.540 - 3120 - Fonte 03.00 |  |
+| --- | --- |
+| Gestão do Controle Urbano e Ambiental | 500,00 |
+| 1901.100583232.540 - 3131 - Fonte 03.00 |  |
+| Gestão do Controle Urbano e Ambiental | 2.108,00 |
+| 1901.100583232.540 - 3132 - Fonte 03.00 |  |
+| Gestão do Controle Urbano e Ambiental | 1.000,00 |
+| 1901.100603282.079 - 3132 - Fonte 03.00 |  |
+| Implantação e Manutenção de Parques e Jardins | 74.484,00 |
+| 1901.160915751.230 - 3131 - Fonte 03.00 |  |
+| Impl. e Pavimentação de Vias Públicas | 711,00 |
+| 1901.160915751.230 - 3132 - Fonte 03.00 |  |
+| Impl. e Pavimentação de Vias Públicas | 21.824,00 |
 
 III - Para a Secretaria Municipal Regional de Serviços Sociais- SMSES-VN
 
-|1902.080411902.542 - 3132 - Fonte 03.00 | |
-
-|Administração da Educação Infantil |15.000,00 |
-
-|1902.080421881.211 - 3132 - Fonte 03.00 | |
-
-|Const. Ampliação e Reforma de Unidades de Ensino |30.346,00 |
-
-|1902.080431882.150 - 3132 - Fonte 03.00 | |
-
-|Administração do Ensino Médio |57.300,00 |
-
-|1902.080421882.080 - 3120 - Fonte 03.00 | |
-
-|Administração do Ensino Fundamental |700,00 |
-
-|1902.080421882.080 - 3131 - Fonte 03.00 | |
-
-|Administração do Ensino Fundamental |28.456,00 |
-
-|1902.080421882.080 - 3132 - Fonte 03.00 | |
-
-|Administração do Ensino Fundamental |311.750,00 |
-
-|1902.080482472.081 - 3131 - Fonte 03.00 | |
-
-|Promoção e Impl. Equipamentos e Eventos Culturais |1.429,00 |
-
-|1902.080482472.081 - 3132 - Fonte 03.00 | |
-
-|Promoção e Impl. Equipamentos e Eventos Culturais |4.000,00 |
-
-|1902.150814862.218 - 3131 - Fonte 03.00 | |
-
-|Apoio ao Desenvolvimento Social |1.437,00 |
+| 1902.080411902.542 - 3132 - Fonte 03.00 |  |
+| --- | --- |
+| Administração da Educação Infantil | 15.000,00 |
+| 1902.080421881.211 - 3132 - Fonte 03.00 |  |
+| Const. Ampliação e Reforma de Unidades de Ensino | 30.346,00 |
+| 1902.080431882.150 - 3132 - Fonte 03.00 |  |
+| Administração do Ensino Médio | 57.300,00 |
+| 1902.080421882.080 - 3120 - Fonte 03.00 |  |
+| Administração do Ensino Fundamental | 700,00 |
+| 1902.080421882.080 - 3131 - Fonte 03.00 |  |
+| Administração do Ensino Fundamental | 28.456,00 |
+| 1902.080421882.080 - 3132 - Fonte 03.00 |  |
+| Administração do Ensino Fundamental | 311.750,00 |
+| 1902.080482472.081 - 3131 - Fonte 03.00 |  |
+| Promoção e Impl. Equipamentos e Eventos Culturais | 1.429,00 |
+| 1902.080482472.081 - 3132 - Fonte 03.00 |  |
+| Promoção e Impl. Equipamentos e Eventos Culturais | 4.000,00 |
+| 1902.150814862.218 - 3131 - Fonte 03.00 |  |
+| Apoio ao Desenvolvimento Social | 1.437,00 |
 
 **Art.2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$629.487,00 (seiscentos e vinte e nove mil, quatrocentos e oitenta e sete reais):
 
-|2800.030070212.078 - 3120 - Fonte 03.00 |9.230,00 |
-
-|2800.030070212.078 - 3131 - Fonte 03.00 |2.810,00 |
-
-|2800.030070212.078 - 3132 - Fonte 03.00 |66.402,00 |
-
-|2800.100583232.031 - 3120 - Fonte 03.00 |500,00 |
-
-|2800.100583232.031 - 3131 - Fonte 03.00 |2.108,00 |
-
-|2800.100583232.031 - 3132 - Fonte 03.00 |1.000,00 |
-
-|2800.100603282.079 - 3132 - Fonte 03.00 |74.484,00 |
-
-|2800.160915751.230 - 3131 - Fonte 03.00 |711,00 |
-
-|2800.160915751.230 - 3132 - Fonte 03.00 |21.824,00 |
-
-|2800.080411902.151 - 3132 - Fonte 03.00 |15.000,00 |
-
-|2800.080421881.211 - 3132 - Fonte 03.00 |30.346,00 |
-
-|2800.080431882.150 - 3132 - Fonte 03.00 |57.300,00 |
-
-|2800.080421882.080 - 3120 - Fonte 03.00 |700,00 |
-
-|2800.080421882.080 - 3131 - Fonte 03.00 |28.456,00 |
-
-|2800.080421882.080 - 3132 - Fonte 03.00 |311.750,00 |
-
-|2800.080482472.081 - 3131 - Fonte 03.00 |1.429,00 |
-
-|2800.080482472.081 - 3132 - Fonte 03.00 |4.000,00 |
-
-|2800.150814862.218 - 3131 - Fonte 03.00 |1.437,00 |
+| 2800.030070212.078 - 3120 - Fonte 03.00 | 9.230,00 |
+| --- | --- |
+| 2800.030070212.078 - 3131 - Fonte 03.00 | 2.810,00 |
+| 2800.030070212.078 - 3132 - Fonte 03.00 | 66.402,00 |
+| 2800.100583232.031 - 3120 - Fonte 03.00 | 500,00 |
+| 2800.100583232.031 - 3131 - Fonte 03.00 | 2.108,00 |
+| 2800.100583232.031 - 3132 - Fonte 03.00 | 1.000,00 |
+| 2800.100603282.079 - 3132 - Fonte 03.00 | 74.484,00 |
+| 2800.160915751.230 - 3131 - Fonte 03.00 | 711,00 |
+| 2800.160915751.230 - 3132 - Fonte 03.00 | 21.824,00 |
+| 2800.080411902.151 - 3132 - Fonte 03.00 | 15.000,00 |
+| 2800.080421881.211 - 3132 - Fonte 03.00 | 30.346,00 |
+| 2800.080431882.150 - 3132 - Fonte 03.00 | 57.300,00 |
+| 2800.080421882.080 - 3120 - Fonte 03.00 | 700,00 |
+| 2800.080421882.080 - 3131 - Fonte 03.00 | 28.456,00 |
+| 2800.080421882.080 - 3132 - Fonte 03.00 | 311.750,00 |
+| 2800.080482472.081 - 3131 - Fonte 03.00 | 1.429,00 |
+| 2800.080482472.081 - 3132 - Fonte 03.00 | 4.000,00 |
+| 2800.150814862.218 - 3131 - Fonte 03.00 | 1.437,00 |
 
 Art. º - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
 

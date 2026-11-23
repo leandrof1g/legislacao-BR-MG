@@ -62,29 +62,19 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48| |
-
-|da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.0089.3137.319091.2.501.000 |9.000.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2902.456782.2.755.000 |13.057.520,16 |
-
-|Fundo de Desenvolvimento Urbano das Centralidades – FC |
-
-|3301.04.122.0059.2566.339035.2.501.000 |32.445.303,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.339039.2.501.784 |491.277,46 |
-
-|TOTAL DA SUPLEMENTAÇÃO |54.994.100,62 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 |  |
+| da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.0089.3137.319091.2.501.000 | 9.000.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2902.456782.2.755.000 | 13.057.520,16 |
+| Fundo de Desenvolvimento Urbano das Centralidades – FC |  |
+| 3301.04.122.0059.2566.339035.2.501.000 | 32.445.303,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.339039.2.501.784 | 491.277,46 |
+| TOTAL DA SUPLEMENTAÇÃO | 54.994.100,62 |
 
 ANEXO II
 

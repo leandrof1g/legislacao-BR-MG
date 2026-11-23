@@ -422,25 +422,17 @@ A avaliação dos valores constantes do Anexo de Metas Fiscais, previstas na Lei
 
 Valores em R$ 1.000,00
 
-|Especificação |Previsão - LDO |Realizado – LOA |
-
-|Receita Fiscal |2.076.311 |2.041.591 |
-
-|Despesa Fiscal |2.016.821 |2.040.535 |
-
-|Resultado Primário |59.491 |1.057 |
-
-|Dívida Consolidada Líquida |565.745 |413.407 |
-
-| | |A Lei de Diretrizes Orçamentárias para o exercício de 2003 fixou a meta de resultado primário em R$ 59.491 mil. As previsões de |
-
-| | |receitas e despesas fiscais para 2003 foram realizadas tendo em vista projeção de crescimento do Produto Interno Bruto do |
-
-| | |Município de 2% ao ano e taxa de inflação de 8% ao ano. Os indicadores econômicos demonstram, entretanto, uma queda do PIB, em |
-
-| | |2003, de 0,2% e inflação medida pelo IPCA-E de 9,86%, o que interferiu nos resultados primário e nominal previstos, em comparação|
-
-| | |à execução do exercício financeiro de 2003. |
+| Especificação | Previsão - LDO | Realizado – LOA |
+| --- | --- | --- |
+| Receita Fiscal | 2.076.311 | 2.041.591 |
+| Despesa Fiscal | 2.016.821 | 2.040.535 |
+| Resultado Primário | 59.491 | 1.057 |
+| Dívida Consolidada Líquida | 565.745 | 413.407 |
+|  |  | A Lei de Diretrizes Orçamentárias para o exercício de 2003 fixou a meta de resultado primário em R$ 59.491 mil. As previsões de |
+|  |  | receitas e despesas fiscais para 2003 foram realizadas tendo em vista projeção de crescimento do Produto Interno Bruto do |
+|  |  | Município de 2% ao ano e taxa de inflação de 8% ao ano. Os indicadores econômicos demonstram, entretanto, uma queda do PIB, em |
+|  |  | 2003, de 0,2% e inflação medida pelo IPCA-E de 9,86%, o que interferiu nos resultados primário e nominal previstos, em comparação |
+|  |  | à execução do exercício financeiro de 2003. |
 
 Pelo lado da receita, a diferença entre a meta (R$ 2.076.311 mil) e a efetivamente arrecadada (R$ 2.041.591 mil) chegou a R$ 34.720 mil. Esta diferença é decorrente principalmente da não efetivação de receita de capital, na subcategoria Operações de Crédito e da estagnação do PIB em 2003.
 
@@ -460,19 +452,14 @@ O cálculo dos resultados nominal e primário servirá para apuração das metas
 
 Adotou-se para a definição das metas fiscais o cenário econômico projetado no projeto de Lei de diretrizes orçamentárias da União para 2005, a quem compete constitucionalmente a definição de políticas macroeconômicas, conforme a tabela abaixo.
 
-|Variáveis |2005 |2006 |2007 |
-
-|Crescimento PIB |4,0 |4,5 |5,0 |
-
-|Inflação |4,5 |4,0 |4,0 |
-
-| | | |Para executarmos a projeção da receita para os exercícios de 2005 a 2007 foram aplicados os parâmetros acima |
-
-| | | |indicados, a partir de uma reestimativa da receita fixada para o exercício de 2004, elaborada considerando a |
-
-| | | |efetiva arrecadação até abril deste ano e uma projeção baseada no comparativo com a execução de anos |
-
-| | | |anteriores. |
+| Variáveis | 2005 | 2006 | 2007 |
+| --- | --- | --- | --- |
+| Crescimento PIB | 4,0 | 4,5 | 5,0 |
+| Inflação | 4,5 | 4,0 | 4,0 |
+|  |  |  | Para executarmos a projeção da receita para os exercícios de 2005 a 2007 foram aplicados os parâmetros acima |
+|  |  |  | indicados, a partir de uma reestimativa da receita fixada para o exercício de 2004, elaborada considerando a |
+|  |  |  | efetiva arrecadação até abril deste ano e uma projeção baseada no comparativo com a execução de anos |
+|  |  |  | anteriores. |
 
 No tocante à despesa, analisamos a execução orçamentária até o momento, nos seus diversos componentes, tais como folha de pessoal, custeio e dívida, projetando-os para o exercício e reestimando-se os investimentos, baseando na efetiva disponibilidade de recursos e nos ingressos de recursos vinculados até o final de 2004.
 
@@ -488,93 +475,55 @@ Demonstrativos dos Resultados Primário e Nominal
 
 Valores Correntes em R$ 1.000,00
 
-|Discriminação |2002 |2003 |2004 |2005 |2006 |2007 |
-
-|Receitas Correntes |1.864.599 |2.120.413 |2.508.839 |2.785.492 |2.971.509 |3.248.268 |
-
-|Receitas de Capital |25.345 |23.781 |175.894 |114.517 |159.673 |195.684 |
-
-|(-) Dedução para o FUNDEF | |63.015 |69.039 |74.562 |80.527 |87.775 |
-
-|Subtotal |1.889.944 |2.081.179 |2.615.694 |2.825.447 |3.050.655 |3.356.177 |
-
-|(-) Rec. Operação de Crédito |15.854 |20.212 |30.894 |114.517 |144.673 |190.683 |
-
-|(-) Rendimentos Aplicação Financeira |10.231 |19.371 |10.749 |11.609 |12.537 |13.666 |
-
-|(-) Alienação de Bens | |4 |0 |0 |0 |0 |
-
-|Total das Receitas Fiscais |1.863.859 |2.041.592 |2.574.051 |2.699.321 |2.893.445 |3.151.828 |
-
-|Despesas Correntes |1.592.009 |1.830.607 |2.297.299 |2.451.216 |2.647.334 |2.855.418 |
-
-|(-) Juros e Encargos da Dívida |38.826 |41.317 |53.529 |63.660 |77.659 |117.325 |
-
-|Despesas de Capital |216.241 |285.555 |387.455 |444.912 |479.696 |585.218 |
-
-|(-) Amortização da Dívida |31.596 |34.311 |62.676 |71.590 |86.323 |118.348 |
-
-|Total das Despesas Fiscais |1.737.828 |2.040.534 |2.568.549 |2.760.878 |2.963.048 |3.204.963 |
-
-|Resultado Primário |126.031 |1.057 |5.502 |-61.557 |-69.603 |-53.135 |
-
-|Dívida Consolidada |602.158 |566.385 |571.251 |657.484 |762.436 |910.780 |
-
-|(-) Disponibilidade de Caixa |10.763 |13.757 |14.537 |15.700 |16.956 |18.482 |
-
-|(-) Aplicações Financeiras |49.620 |53.580 |56.618 |61.147 |66.039 |71.983 |
-
-|(-) Demais Ativos Financeiros |47.865 |85.641 |90.497 |97.737 |105.556 |115.056 |
-
-|Total da Dívida Fiscal Líquida |493.910 |413.407 |409.599 |482.900 |573.885 |705.259 |
-
-|Resultado Nominal |33.017 |(80.503) |-3.808 |73.301 |90.985 |131.374 |
+| Discriminação | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Receitas Correntes | 1.864.599 | 2.120.413 | 2.508.839 | 2.785.492 | 2.971.509 | 3.248.268 |
+| Receitas de Capital | 25.345 | 23.781 | 175.894 | 114.517 | 159.673 | 195.684 |
+| (-) Dedução para o FUNDEF |  | 63.015 | 69.039 | 74.562 | 80.527 | 87.775 |
+| Subtotal | 1.889.944 | 2.081.179 | 2.615.694 | 2.825.447 | 3.050.655 | 3.356.177 |
+| (-) Rec. Operação de Crédito | 15.854 | 20.212 | 30.894 | 114.517 | 144.673 | 190.683 |
+| (-) Rendimentos Aplicação Financeira | 10.231 | 19.371 | 10.749 | 11.609 | 12.537 | 13.666 |
+| (-) Alienação de Bens |  | 4 | 0 | 0 | 0 | 0 |
+| Total das Receitas Fiscais | 1.863.859 | 2.041.592 | 2.574.051 | 2.699.321 | 2.893.445 | 3.151.828 |
+| Despesas Correntes | 1.592.009 | 1.830.607 | 2.297.299 | 2.451.216 | 2.647.334 | 2.855.418 |
+| (-) Juros e Encargos da Dívida | 38.826 | 41.317 | 53.529 | 63.660 | 77.659 | 117.325 |
+| Despesas de Capital | 216.241 | 285.555 | 387.455 | 444.912 | 479.696 | 585.218 |
+| (-) Amortização da Dívida | 31.596 | 34.311 | 62.676 | 71.590 | 86.323 | 118.348 |
+| Total das Despesas Fiscais | 1.737.828 | 2.040.534 | 2.568.549 | 2.760.878 | 2.963.048 | 3.204.963 |
+| Resultado Primário | 126.031 | 1.057 | 5.502 | -61.557 | -69.603 | -53.135 |
+| Dívida Consolidada | 602.158 | 566.385 | 571.251 | 657.484 | 762.436 | 910.780 |
+| (-) Disponibilidade de Caixa | 10.763 | 13.757 | 14.537 | 15.700 | 16.956 | 18.482 |
+| (-) Aplicações Financeiras | 49.620 | 53.580 | 56.618 | 61.147 | 66.039 | 71.983 |
+| (-) Demais Ativos Financeiros | 47.865 | 85.641 | 90.497 | 97.737 | 105.556 | 115.056 |
+| Total da Dívida Fiscal Líquida | 493.910 | 413.407 | 409.599 | 482.900 | 573.885 | 705.259 |
+| Resultado Nominal | 33.017 | (80.503) | -3.808 | 73.301 | 90.985 | 131.374 |
 
 Demonstrativos dos Resultados Primário e Nominal
 
 Valores em R$ 1.000,00 - Preços Médios de 2004
 
-|Discriminação |2002 |2003 |2004 |2005 |2006 |2007 |
-
-|Receitas Correntes |2.126.080 |2.284.643 |2.508.839 |2.650.745 |2.712.491 |2.851.082 |
-
-|Receitas de Capital |28.899 |25.623 |175.894 |108.977 |145.755 |171.756 |
-
-|(-) Dedução para o FUNDEF | |67.895 |69.039 |70.955 |73.508 |77.042 |
-
-|Subtotal |2.154.979 |2.242.371 |2.615.694 |2.688.767 |2.784.738 |2.945.796 |
-
-|(-) Rec. Operação de Crédito |18.077 |21.778 |30.894 |108.977 |132.063 |167.367 |
-
-|(-) Rendimentos Aplicação Financeira |11.666 |20.872 |10.749 |11.047 |11.444 |11.995 |
-
-|(-) Alienação de Bens |0 |4 |0 |0 |0 |0 |
-
-|Total das Receitas Fiscais |2.125.236 |2.199.717 |2.574.051 |2.568.743 |2.641.231 |2.766.434 |
-
-|Despesas Correntes |1.815.264 |1.972.392 |2.297.299 |2.332.639 |2.416.573 |2.506.268 |
-
-|(-) Juros e Encargos da Dívida |44.271 |44.517 |53.529 |60.581 |70.890 |102.979 |
-
-|Despesas de Capital |246.566 |307.672 |387.455 |423.390 |437.883 |513.660 |
-
-|(-) Amortização da Dívida |36.027 |36.968 |62.676 |68.127 |78.799 |103.877 |
-
-|Total das Despesas Fiscais |1.981.532 |2.198.579 |2.568.549 |2.627.321 |2.704.767 |2.813.072 |
-
-|Resultado Primário |143.704 |1.138 |5.502 |-58.578 |-63.536 |-46.638 |
-
-|Dívida Consolidada |686.601 |610.253 |571.251 |625.678 |695.976 |799.413 |
-
-|(-) Disponibilidade de Caixa |12.272 |14.823 |14.537 |14.941 |15.478 |16.222 |
-
-|(-) Aplicações Financeiras |56.578 |57.730 |56.618 |58.189 |60.283 |63.181 |
-
-|(-) Demais Ativos Financeiros |54.577 |92.274 |90.497 |93.009 |96.355 |100.987 |
-
-|Total da Dívida Fiscal Líquida |563.174 |445.426 |409.599 |459.539 |523.860 |619.023 |
-
-|Resultado Nominal |37.647 |-117.748 |-35.827 |49.940 |64.321 |95.163 |
+| Discriminação | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Receitas Correntes | 2.126.080 | 2.284.643 | 2.508.839 | 2.650.745 | 2.712.491 | 2.851.082 |
+| Receitas de Capital | 28.899 | 25.623 | 175.894 | 108.977 | 145.755 | 171.756 |
+| (-) Dedução para o FUNDEF |  | 67.895 | 69.039 | 70.955 | 73.508 | 77.042 |
+| Subtotal | 2.154.979 | 2.242.371 | 2.615.694 | 2.688.767 | 2.784.738 | 2.945.796 |
+| (-) Rec. Operação de Crédito | 18.077 | 21.778 | 30.894 | 108.977 | 132.063 | 167.367 |
+| (-) Rendimentos Aplicação Financeira | 11.666 | 20.872 | 10.749 | 11.047 | 11.444 | 11.995 |
+| (-) Alienação de Bens | 0 | 4 | 0 | 0 | 0 | 0 |
+| Total das Receitas Fiscais | 2.125.236 | 2.199.717 | 2.574.051 | 2.568.743 | 2.641.231 | 2.766.434 |
+| Despesas Correntes | 1.815.264 | 1.972.392 | 2.297.299 | 2.332.639 | 2.416.573 | 2.506.268 |
+| (-) Juros e Encargos da Dívida | 44.271 | 44.517 | 53.529 | 60.581 | 70.890 | 102.979 |
+| Despesas de Capital | 246.566 | 307.672 | 387.455 | 423.390 | 437.883 | 513.660 |
+| (-) Amortização da Dívida | 36.027 | 36.968 | 62.676 | 68.127 | 78.799 | 103.877 |
+| Total das Despesas Fiscais | 1.981.532 | 2.198.579 | 2.568.549 | 2.627.321 | 2.704.767 | 2.813.072 |
+| Resultado Primário | 143.704 | 1.138 | 5.502 | -58.578 | -63.536 | -46.638 |
+| Dívida Consolidada | 686.601 | 610.253 | 571.251 | 625.678 | 695.976 | 799.413 |
+| (-) Disponibilidade de Caixa | 12.272 | 14.823 | 14.537 | 14.941 | 15.478 | 16.222 |
+| (-) Aplicações Financeiras | 56.578 | 57.730 | 56.618 | 58.189 | 60.283 | 63.181 |
+| (-) Demais Ativos Financeiros | 54.577 | 92.274 | 90.497 | 93.009 | 96.355 | 100.987 |
+| Total da Dívida Fiscal Líquida | 563.174 | 445.426 | 409.599 | 459.539 | 523.860 | 619.023 |
+| Resultado Nominal | 37.647 | -117.748 | -35.827 | 49.940 | 64.321 | 95.163 |
 
 ANEXO I - DAS METAS FISCAIS
 
@@ -586,45 +535,27 @@ I.3- EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO DO MUNICÍPIO
 
 Valores em R$ 1,00
 
-|DISCRIMINAÇÃO |2001 |2002 |2003 |
-
-|I - Variações Ativas - PBH |2.324.117.780 |3.435.287.730 |3.786.389.428 |
-
-|I.1 - Resultantes da Execução Orçamentária |1.715.542.485 |1.960.172.447 |2.167.829.171 |
-
-|1 - Receita Orçamentária |1.665.738.249 |1.889.943.804 |2.081.178.691 |
-
-|Receitas Correntes |1.664.798.959 |1.864.598.657 |2.120.412.475 |
-
-|Receitas de Capital |939.290 |25.345.147 |23.780.918 |
-
-|2 - Mutações Patrimoniais |49.804.236 |70.228.643 |86.650.481 |
-
-|I.2 - Independentes da Execução Orçamentária |608.575.295 |1.475.115.283 |1.618.560.257 |
-
-|II - Variações Ativas - Câmara |380.557 |1.240.559 |972.403 |
-
-|III - Total das Variações Ativas |2.324.498.337 |3.436.528.289 |3.787.361.831 |
-
-|I - Variações Passivas - PBH |1.942.495.464 |2.971.412.229 |3.258.896.281 |
-
-|I.1 - Resultantes da Execução Orçamentária |1.706.431.921 |2.023.314.498 |2.302.088.800 |
-
-|1 - Despesa Orçamentária |1.651.101.576 |1.914.710.584 |2.164.089.003 |
-
-|Despesas Correntes |1.423.918.058 |1.697.202.515 |1.854.981.204 |
-
-|Despesas de Capital |227.183.518 |217.508.068 |309.107.798 |
-
-|2 - Mutações Patrimoniais |55.330.345 |108.603.914 |137.999.798 |
-
-|I.2 - Independentes da Execução Orçamentária |236.063.543 |948.097.731 |956.807.480 |
-
-|II - Variações Passivas - Câmara |50.787.540 |52.694.169 |59.812.234 |
-
-|Resultado Patrimonial do Exercício |331.215.332 |412.421.891 |468.653.316 |
-
-|III - Total das Variações Passivas |2.324.498.337 |3.436.528.289 |3.787.361.831 |
+| DISCRIMINAÇÃO | 2001 | 2002 | 2003 |
+| --- | --- | --- | --- |
+| I - Variações Ativas - PBH | 2.324.117.780 | 3.435.287.730 | 3.786.389.428 |
+| I.1 - Resultantes da Execução Orçamentária | 1.715.542.485 | 1.960.172.447 | 2.167.829.171 |
+| 1 - Receita Orçamentária | 1.665.738.249 | 1.889.943.804 | 2.081.178.691 |
+| Receitas Correntes | 1.664.798.959 | 1.864.598.657 | 2.120.412.475 |
+| Receitas de Capital | 939.290 | 25.345.147 | 23.780.918 |
+| 2 - Mutações Patrimoniais | 49.804.236 | 70.228.643 | 86.650.481 |
+| I.2 - Independentes da Execução Orçamentária | 608.575.295 | 1.475.115.283 | 1.618.560.257 |
+| II - Variações Ativas - Câmara | 380.557 | 1.240.559 | 972.403 |
+| III - Total das Variações Ativas | 2.324.498.337 | 3.436.528.289 | 3.787.361.831 |
+| I - Variações Passivas - PBH | 1.942.495.464 | 2.971.412.229 | 3.258.896.281 |
+| I.1 - Resultantes da Execução Orçamentária | 1.706.431.921 | 2.023.314.498 | 2.302.088.800 |
+| 1 - Despesa Orçamentária | 1.651.101.576 | 1.914.710.584 | 2.164.089.003 |
+| Despesas Correntes | 1.423.918.058 | 1.697.202.515 | 1.854.981.204 |
+| Despesas de Capital | 227.183.518 | 217.508.068 | 309.107.798 |
+| 2 - Mutações Patrimoniais | 55.330.345 | 108.603.914 | 137.999.798 |
+| I.2 - Independentes da Execução Orçamentária | 236.063.543 | 948.097.731 | 956.807.480 |
+| II - Variações Passivas - Câmara | 50.787.540 | 52.694.169 | 59.812.234 |
+| Resultado Patrimonial do Exercício | 331.215.332 | 412.421.891 | 468.653.316 |
+| III - Total das Variações Passivas | 2.324.498.337 | 3.436.528.289 | 3.787.361.831 |
 
 ANEXO I - DAS METAS FISCAIS
 
@@ -638,27 +569,18 @@ Demonstrativo da Origem e Aplicação dos Recursos Obtidos com a Alienação de 
 
 Valores em R$ 1,00
 
-|Receitas |2001 |2002 |2003 |
-
-|Receita de Capital |54.070 |102.114 |3.527 |
-
-|Alienação de Ativos |54.070 |102.114 |3.527 |
-
-|Alienação de Bens Móveis | | | |
-
-|Alienação de Bens Imóveis |54.070 |102.114 |3.527 |
-
-|Despesas |2001 |2002 |2003 |
-
-|Empenhada |54.070 |102.114 |3.527 |
-
-|Liquidada |54.070 |102.114 |3.527 |
-
-|Paga |54.070 |102.114 |3.527 |
-
-|Saldo Financeiro |2001 |2002 |2003 |
-
-| |0 |0 |0 |
+| Receitas | 2001 | 2002 | 2003 |
+| --- | --- | --- | --- |
+| Receita de Capital | 54.070 | 102.114 | 3.527 |
+| Alienação de Ativos | 54.070 | 102.114 | 3.527 |
+| Alienação de Bens Móveis |  |  |  |
+| Alienação de Bens Imóveis | 54.070 | 102.114 | 3.527 |
+| Despesas | 2001 | 2002 | 2003 |
+| Empenhada | 54.070 | 102.114 | 3.527 |
+| Liquidada | 54.070 | 102.114 | 3.527 |
+| Paga | 54.070 | 102.114 | 3.527 |
+| Saldo Financeiro | 2001 | 2002 | 2003 |
+|  | 0 | 0 | 0 |
 
 ANEXO I - DAS METAS FISCAIS
 
@@ -732,21 +654,15 @@ Taxas Anuais de Sobrevivência e Mortalidade inclusive de Inválidos:
 
 · Turnover dos Servidores, em relação ao vínculo de emprego, conforme abaixo:
 
-|Idade x |Calculado |
-
-|Até 25 |1% |
-
-|De 26 a 30 |1% |
-
-|De 31 a 40 |1% |
-
-|De 41 a 50 |1% |
-
-|De 51 a 60 |0% |
-
-|Acima de 60 |0% |
-
-| |• Crescimento de 1% do salário real |
+| Idade x | Calculado |
+| --- | --- |
+| Até 25 | 1% |
+| De 26 a 30 | 1% |
+| De 31 a 40 | 1% |
+| De 41 a 50 | 1% |
+| De 51 a 60 | 0% |
+| Acima de 60 | 0% |
+|  | • Crescimento de 1% do salário real |
 
 · Sem solidariedade de gerações, no financiamento dos benefícios
 
@@ -828,13 +744,11 @@ Os dados dos Servidores Ativos, Aposentados e Pensões, foram enviados para a Av
 
 Não houve inconsistência de dados dos Servidores Ativos, Aposentados e Pensões conforme abaixo:
 
-| |Enviados |Calculados |Inconsistência |
-
-|Servidores Ativos |21.760 |21.760 |- o - |
-
-|Aposentados |7.256 |7.256 |- o - |
-
-|Pensões |2.433 |2.433 |- o - |
+|  | Enviados | Calculados | Inconsistência |
+| --- | --- | --- | --- |
+| Servidores Ativos | 21.760 | 21.760 | - o - |
+| Aposentados | 7.256 | 7.256 | - o - |
+| Pensões | 2.433 | 2.433 | - o - |
 
 O passivo atuarial é representado pelo valor atual dos compromissos do Fundo Previdenciário com os Servidores Ativos, Aposentados e Pensões, menos o valor atual das receitas de contribuições dos segurados e empregadores.
 
@@ -872,27 +786,21 @@ Os resultados obtidos no estudo da massa de servidores segurados estão conforme
 
 a) Reserva Matemática de Benefícios Concedidos:
 
-|Benefício |N.º |Valor mensal do |Reserva Matemática |
-
-| |Beneficiários |Benefício/Salário | |
-
-|• Aposentadoria |7.256 |10.115.357,79 |1.456.729.092,90 |
-
-|• Pensão por morte |2.433 |2.017.028,65 |245.481.657,47 |
-
-|Total |9.689 |12.132.386,44 |1.702.210.750,37 |
+| Benefício | N.º | Valor mensal do | Reserva Matemática |
+| --- | --- | --- | --- |
+|  | Beneficiários | Benefício/Salário |  |
+| • Aposentadoria | 7.256 | 10.115.357,79 | 1.456.729.092,90 |
+| • Pensão por morte | 2.433 | 2.017.028,65 | 245.481.657,47 |
+| Total | 9.689 | 12.132.386,44 | 1.702.210.750,37 |
 
 b) Reserva Matemática de Benefícios a Conceder:
 
-|Benefício |N.º |Valor mensal do |Reserva |
-
-| |Beneficiários |Benefício/Salário |Matemática |
-
-|• Apos. Iminentes |496 |829.168,58 |125.321.877,07 |
-
-|• Apos. Não Imin. |21.264 |32.063.769,76 |1.113.020.042,97 |
-
-|Total |21.760 |32.892.938,34 |1.238.341.920,04 |
+| Benefício | N.º | Valor mensal do | Reserva |
+| --- | --- | --- | --- |
+|  | Beneficiários | Benefício/Salário | Matemática |
+| • Apos. Iminentes | 496 | 829.168,58 | 125.321.877,07 |
+| • Apos. Não Imin. | 21.264 | 32.063.769,76 | 1.113.020.042,97 |
+| Total | 21.760 | 32.892.938,34 | 1.238.341.920,04 |
 
 Total da Reserva Matemática ou Passivo Atuarial: R$ 2.940.552.670,41.
 
@@ -912,13 +820,11 @@ c) Fundo de Previdência menor que a Reserva Matemática: neste caso, a situaç�
 
 A situação é a seguinte:
 
-|Fundo de Previdência |R$ 54.209.661,30 |
-
-|Compensação Financeira |R$ 372.340.538,00 |
-
-|Reserva Matemática |R$ 2.940.552.670,41 |
-
-|Déficit-Técnico Total |R$ 2.514.002.471,11 |
+| Fundo de Previdência | R$ 54.209.661,30 |
+| --- | --- |
+| Compensação Financeira | R$ 372.340.538,00 |
+| Reserva Matemática | R$ 2.940.552.670,41 |
+| Déficit-Técnico Total | R$ 2.514.002.471,11 |
 
 A cobertura do Déficit-Técnico Total pode ser feita através de "dotações orçamentárias" ou através de contribuições adicionais num montante mensal não inferior a 45,28% sobre o total da folha de pessoal em atividade, durante um prazo de 30 (trinta) anos.
 
@@ -932,13 +838,13 @@ c) Fundo Previdenciário, capitalizado para os atuais servidores em atividade, a
 
 O Fundo Previdenciário irá receber uma contribuição complementar para saldar o Déficit-Técnico restante de maneira crescente nos primeiro anos e nivelando-se nos próximos anos da seguinte maneira:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Plano de Custeio Anual
 
 Os custos dos benefícios previdenciários a serem suportados pelo Fundo de Previdência foram calculados com base nos regimes atuariais explicitados no item 5, e os resultados estão conforme a seguir:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Obs.: O custo do 13º (décimo terceiro) salário está implícito no custo de cada benefício de prestação continuada correspondente.
 
@@ -948,7 +854,7 @@ Para suportar o custo dos benefícios previdenciários além da cobertura do Dé
 
 A arrecadação correspondente a 27,37% sobre o total da folha de ativos, pode ser obtida com a aplicação dos percentuais de contribuição, conforme segue:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 O custo das Despesas de Administração não está incluso nos percentuais de contribuição, cabendo ao Fundo de Previdência agregar o valor necessário, conforme estabelecido em lei.
 
@@ -966,37 +872,23 @@ Demonstrativo das Receitas Realizadas e Despesas Empenhadas do Regime de Previd�
 
 Valores em R$ 1,00
 
-|Receitas |Previsão |Realizado |
-
-|I - Receita Previdenciária | | |
-
-|Contribuição Patronal |107.147.437 |108.676.157 |
-
-|Contribuição Servidor Ativo |51.011.388 |50.644.981 |
-
-|Contr. Serv. Inativo e Pensionista |10.812.546 |6.647.949 |
-
-|Receitas Patrimoniais | |1.259.786 |
-
-|Outras Receitas Correntes | |34.345 |
-
-|Total (I) |168.971.371 |167.263.218 |
-
-|Despesas |Dotação Anual |Empenhado |
-
-|II - Despesa Previdenciária | | |
-
-|Administração Geral |2.065 |1.000 |
-
-|Previdência Social - Segurados |0 |0 |
-
-|Previd. Social - Inativos e Pensionistas |152.070.862 |150.704.814 |
-
-|Total (II) |152.072.927 |150.705.814 |
-
-| | | |
-
-|Resultado Previdenciário (I-II) |16.898.444 |16.557.404 |
+| Receitas | Previsão | Realizado |
+| --- | --- | --- |
+| I - Receita Previdenciária |  |  |
+| Contribuição Patronal | 107.147.437 | 108.676.157 |
+| Contribuição Servidor Ativo | 51.011.388 | 50.644.981 |
+| Contr. Serv. Inativo e Pensionista | 10.812.546 | 6.647.949 |
+| Receitas Patrimoniais |  | 1.259.786 |
+| Outras Receitas Correntes |  | 34.345 |
+| Total (I) | 168.971.371 | 167.263.218 |
+| Despesas | Dotação Anual | Empenhado |
+| II - Despesa Previdenciária |  |  |
+| Administração Geral | 2.065 | 1.000 |
+| Previdência Social - Segurados | 0 | 0 |
+| Previd. Social - Inativos e Pensionistas | 152.070.862 | 150.704.814 |
+| Total (II) | 152.072.927 | 150.705.814 |
+|  |  |  |
+| Resultado Previdenciário (I-II) | 16.898.444 | 16.557.404 |
 
 ANEXO I - DAS METAS FISCAIS
 
@@ -1020,43 +912,38 @@ Renúncia fiscal
 
 1 – Isenções
 
-|IPTU (total) |5.553.700,00 |
-
-|IPTU (parcial) |2.014.000,00 |
-
-|ISSQN - autônomos |1.567.500,00 |
-
-|ISSQN - micro-empresas |36.100,00 |
-
-|ISSQN - empresas (art. 2º Lei 5839) |17.100,00 |
-
-|Taxas (TFLF/TFS/TFEP) |1.320.500,00 |
-
-|Total de Isenções |10.508.900,00 |
+| IPTU (total) | 5.553.700,00 |
+| --- | --- |
+| IPTU (parcial) | 2.014.000,00 |
+| ISSQN - autônomos | 1.567.500,00 |
+| ISSQN - micro-empresas | 36.100,00 |
+| ISSQN - empresas (art. 2º Lei 5839) | 17.100,00 |
+| Taxas (TFLF/TFS/TFEP) | 1.320.500,00 |
+| Total de Isenções | 10.508.900,00 |
 
 2 – Remissões
 
-|Total de Remissões |5.187.840,00 |
+| Total de Remissões | 5.187.840,00 |
+| --- | --- |
 
 3 - Desconto antecipado de pagamento de IPTU
 
-|Total desconto |22.769.192,00 |
+| Total desconto | 22.769.192,00 |
+| --- | --- |
 
 4 - Incentivo Cultural
 
-|Lei de Incentivo à Cultura |5.000.068,00 |
+| Lei de Incentivo à Cultura | 5.000.068,00 |
+| --- | --- |
 
 Total da Renúncia
 
-|Isenções |10.508.900,00 |
-
-|Remissões |5.187.840,00 |
-
-|Desconto antecipado IPTU |22.769.192,00 |
-
-|Incentivo cultural |5.000.068,00 |
-
-|Total |43.466.000,00 |
+| Isenções | 10.508.900,00 |
+| --- | --- |
+| Remissões | 5.187.840,00 |
+| Desconto antecipado IPTU | 22.769.192,00 |
+| Incentivo cultural | 5.000.068,00 |
+| Total | 43.466.000,00 |
 
 A LOA conterá quadro anexo específico com a indicação das medidas de compensação destas renúncias.
 
@@ -1082,935 +969,472 @@ LEI DE DIRETRIZES ORÇAMENTÁRIAS - 2005
 
 I.7 - PRIORIDADES E METAS
 
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|7 - Apoio Administrativo e Financeiro | | |
-
-|Abrir processos de perdão de débitos |processo |12.000 |
-
-|10 - Sistema de Informações Municipais | | |
-
-|Editar caderno de conjuntura e indicadores econômicos da PBH |edição |1 |
-
-|Implantar centro de documentação urbanística |mapa |10.330 |
-
-|13 - Gestão do Sistema Tributário Municipal | | |
-
-|Realizar Cobranças Gerais através de emissão de guias |cobrança |1.000.000 |
-
-|Atender contribuintes de IPTU |atendimento |146.400 |
-
-|Atender contribuintes de ITBI |atendimento |74.700 |
-
-|Atender demandas diversas dos contribuintes |informação |5.000 |
-
-|16 - Proteção Social ao Munícipe | | |
-
-|Implantar o projeto TV Sala de Espera |programa |6 |
-
-|Prestar assistência a flagelados, atingidos por calamidades |cesta básica |2.700 |
-
-|Prestar assistência a flagelados, atingidos por calamidades |pessoa |5.000 |
-
-|19 - Proteção Especial | | |
-
-|Assistir crianças e adolescentes nos aspectos físicos, psicopedagógico|pessoa |15.000 |
-
-|e social | | |
-
-|Contribuir para a promoção das famílias de crianças/adolescentes na |família |10.000 |
-
-|comunidade | | |
-
-|Atender crianças/adolescente/famílias vítimas de violência doméstica |pessoa |750 |
-
-|e/ou exploração sexual | | |
-
-|Atender famílias de crianças/adolescentes em situação de exploração ou|pessoa |1.100 |
-
-|trabalho infantil | | |
-
-|Distribuir cestas básicas para famílias |família |420 |
-
-|Conceder benefícios de renda mínima a famílias atendidas |família |260 |
-
-|Atender crianças através de convênio com entidades municipalizadas |pessoa |12.393 |
-
-|Implementar o Kit Criança |família |687 |
-
-|Garantir a convivência familiar de crianças em situação de risco |família |630 |
-
-|social e/ou pessoal | | |
-
-|Atender famílias de crianças e adolescentes de 7 a 14 anos em situação|pessoa |5.400 |
-
-|de exploração do trabalho infantil | | |
-
-|Promover convênio com centros infanto-juvenis para a inserção das |pessoa |750 |
-
-|crianças/adolescentes atendidos no PETI | | |
-
-|Promover a inclusão de jovens em atividades socioculturais e |pessoa |2.100 |
-
-|pedagógicas com a concessão de bolsas vinculadas à presença na escola | | |
-
-|Atender crianças e adolescentes de 6 a 18 anos de idade, em seus |pessoa |21.000 |
-
-|aspectos físico, psicopedagógico e social, através de convênio com | | |
-
-|entidades filantrópicas | | |
-
-|Atender crianças e adolescentes em regime de abrigo |pessoa |320 |
-
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|Atender crianças/adolescentes em situação de risco de morte |pessoa |24 |
-
-|Atender crianças e adolescentes em regime de abrigo, através de |pessoa |420 |
-
-|entidades não governamentais integrantes da rede municipal | | |
-
-|Realizar atendimento a crianças e adolescentes no serviço de abordagem|Pessoa |5.400 |
-
-|Fazer atendimento a crianças e adolescentes nas diversas oficinas de |pessoa |1.800 |
-
-|arte e cultura promovidas pelo Miguilim | | |
-
-|Atender crianças e adolescentes com trajetória de rua através de |pessoa |1.100 |
-
-|convênio com entidades | | |
-
-|Realizar encaminhamento e acompanhamento familiar do público atendido |pessoa |3.600 |
-
-|tendo como objetivo promover o retorno ao convívio familiar e | | |
-
-|comunitário | | |
-
-|Atender pessoas através de conveniamento com entidades que oferecem |pessoa |960 |
-
-|serviços de saúde e apoio psicossocial, em especial, a pessoa | | |
-
-|portadora de HIV, hemofilia e drogaditos | | |
-
-|Atender crianças de zero a seis anos de idade em seus aspectos físico,|pessoa |14.432 |
-
-|psicopedagógico, social e nutricional | | |
-
-|Promover a família de crianças e adolescentes na comunidade |família |8.600 |
-
-|Atender crianças/adolescentes e famílias em situação de violência |família |750 |
-
-|doméstica e exploração sexual | | |
-
-|Atender famílias de crianças/adolescentes em situação de exploração ou|pessoa |1.100 |
-
-|trabalho infantil | | |
-
-|Conceder benefícios de renda mínima a famílias atendidas |família |130 |
-
-|Implementação do Kit Criança em programas que atendam família com |família |687 |
-
-|crianças pequenas | | |
-
-|Conceder benefícios de um salário mínimo a famílias acolhedoras e/ou |família |420 |
-
-|de origem | | |
-
-|Manter o projeto MURIKI, objetivando a inclusão de crianças e |pessoa |5.400 |
-
-|adolescentes portadores de deficiência | | |
-
-|Promover a inclusão e integração de jovens em atividades |pessoa |2.100 |
-
-|socioculturais e pedagógicas com a concessão de bolsas vinculadas à | | |
-
-|presença na escola | | |
-
-|Atender crianças e adolescentes de 6 a 18 anos de idade, em seus |pessoa |21.000 |
-
-|aspectos físico, psicopedagógico e social, através de conveniamento | | |
-
-|com entidades filantrópicas | | |
-
-|Atender crianças e adolescentes em regime de abrigo |pessoa |640 |
-
-|Atender crianças e adolescentes em regime de abrigo, através de |pessoa |840 |
-
-|entidades não governamentais integrantes da rede municipal | | |
-
-|Atender pessoas através de conveniamento com entidades que oferecem |pessoa |950 |
-
-|serviços de saúde e apoio psicossocial, em especial, a pessoas | | |
-
-|portadoras de HIV, hemofilia e drogaditos | | |
-
-|Atender adolescentes com medidas socioeducativas de liberdade |pessoa |1.560 |
-
-|assistida através de entidades filantrópicas da rede municipal | | |
-
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|Realizar atendimento psicossocial aos adolescentes com medida de |pessoa |36 |
-
-|privação de liberdade | | |
-
-|Contribuir para promoção de família de crianças e adolescentes em suas|família |10.000 |
-
-|comunidades | | |
-
-|Atender pessoas através de conveniamento com entidades que oferecem |pessoa |960 |
-
-|serviços de saúde e apoio psicossocial, em especial, a pessoa | | |
-
-|portadora de HIV, hemofilia e drogaditos | | |
-
-|Atender crianças/adolescentes e famílias em situação de violência |família |750 |
-
-|doméstica e exploração sexual | | |
-
-|Atender famílias de crianças/adolescentes em situação de exploração do|pessoa |1.100 |
-
-|trabalho infantil | | |
-
-|Atender crianças através de conveniamento com entidades filantrópicas |pessoa |12.393 |
-
-|da rede municipal | | |
-
-|Promover convênio com centro infanto-juvenis para a inserção das |pessoa |750 |
-
-|crianças/adolescentes atendidos no PETI | | |
-
-|Atender crianças e adolescentes de 6 a 18 anos de idade, em seus |pessoa |21.000 |
-
-|aspectos físico, psicopedagógico e social, através de conveniamento | | |
-
-|com entidades filantrópicas | | |
-
-|Atender crianças e adolescentes com trajetória de rua e suas famílias |pessoa |1.100 |
-
-|através de conveniamento com entidades não governamentais | | |
-
-|20 - Promoção e Proteção Social | | |
-
-|Assistir à portadores de deficiência, idoso, população de rua, |pessoa |74.752 |
-
-|famílias desabrigadas e em situação de risco | | |
-
-|Realizar abordagem, encaminhamento e acompanhamento social a famílias,|família |2.352 |
-
-|grupos e pessoas sozinhas | | |
-
-|Promover o suprimento nutricional às entidades assistenciais |pessoa |30.682 |
-
-|conveniadas e equipamentos municipais | | |
-
-|Distribuir cestas básicas para a população carente |família |1.200 |
-
-|Acompanhar crianças vítimas de violência doméstica, sexual e com |família |180 |
-
-|trajetória de rua | | |
-
-|Acompanhar os adolescentes sob medida socioeducativa |pessoa |1.200 |
-
-|Realizar atendimento aos casos de desrespeito e violação dos direitos |pessoa |2.500 |
-
-|da criança e do adolescente | | |
-
-|22 - Inclusão Produtiva | | |
-
-|Promover a intermediação ou encaminhamento de pessoas carentes ao |pessoa |14.180 |
-
-|mercado de trabalho | | |
-
-|Capacitar e organizar grupos de geração de trabalho e renda, através |pessoa |5.870 |
-
-|de convênios com entidades filantrópicas da rede municipal | | |
-
-|Encaminhar pessoas ao mercado de trabalho localizado em empresas |pessoa |1.100 |
-
-|públicas e privadas | | |
-
-|23 - Concessão de Benefícios Eventuais | | |
-
-|Atender pessoas através da prestação de serviços e benefícios como |pessoa |168.006 |
-
-|fornecimento de fotografias para documentos, passes, passagens | | |
-
-|ferroviárias e rodoviárias, auxílio trigêmeos e outros | | |
-
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|25 - Assistência Individual ao Servidor Municipal | | |
-
-|Realizar atendimentos diversos na clínica geral odontológica |atendimento |464.430 |
-
-|Realizar administração de medicamentos |atendimento |23.950 |
-
-|Realizar consultas médicas em diversas modalidades |consulta |184.550 |
-
-|Realizar exames ECG, EEG, patologia, radiologia |exame |275.490 |
-
-|Realizar internação hospitalar |internação |1.130 |
-
-|Realizar procedimentos de ortopedia - infiltração/ imobilização |procedimento |410 |
-
-|Realizar pequenas cirurgias |cirurgia |4.380 |
-
-|Aplicar Vacina |vacina |60.760 |
-
-|27 - Atenção à Saúde / BH-VIDA | | |
-
-|Realizar a coleta de amostras de alimentos e água para análise |amostra |137.280 |
-
-|laboratorial | | |
-
-|Realizar consultas médicas de psiquiatria |consulta |82.819 |
-
-|Realizar diversos procedimentos odontológicos |procedimento |1.170.279 |
-
-|Realizar consultas especializadas de otorrinolaringologia, angiologia,|consulta |473.968 |
-
-|dermatologia, pneumologia, cardiologia, endocrinológica, etc | | |
-
-|Realizar procedimentos de oftalmologia, otorrinolaringologia, |procedimento |6.500 |
-
-|angiologia, pneumologia, ginecologia | | |
-
-|Realizar procedimentos cirúrgicos |procedimento |2.000 |
-
-|Realizar procedimentos ortopédicos |procedimento |10.000 |
-
-|Realizar vistoria em farmácias, comércio de alimentos e comércio |vistoria |7.963 |
-
-|eventual | | |
-
-|Realizar controle de dengue e de Aedes aegypti |vistoria |15.060 |
-
-|Realizar o controle de leishmaniose, através da coleta de sangue |amostra |144.312 |
-
-|Realizar captura, recolhimento e sacrifício de cães positivos |captura |167.700 |
-
-|Realizar o controle de escorpiões, roedores e outros animais |vistoria |52.865 |
-
-|peçonhentos | | |
-
-|Realizar a captura de grandes e médios animais |captura |65.000 |
-
-|Realizar consultas ambulatoriais de prevenção de raiva |consulta |15.860 |
-
-|Realizar consultas ambulatoriais de enfermagem |consulta |102.683 |
-
-|Realizar consultas ambulatoriais de psicologia |consulta |48.788 |
-
-|Realizar consultas ambulatoriais de serviço social |consulta |650.250 |
-
-|Realizar consultas ambulatoriais de atendimento da nutrição |consulta |338.000 |
-
-|Realizar doação de óculos |procedimento |145.000 |
-
-|Realizar análises diversas no Laboratório de Bromatologia |análise |473.429 |
-
-|Realizar consultas médicas básicas de clínica geral, pediatria, |consulta |2.834.671 |
-
-|ginecologia, oftalmologia, dermatologia, psiquiatria | | |
-
-|Oferecer serviços de vacinação em menores de 1 ano, em gestantes e |vacina |4.901.723 |
-
-|outros | | |
-
-|Realizar visitas domiciliares em unidades básicas e com o BH/SAÚDE - |visita |175.186 |
-
-|equipes e agentes comunitários | | |
-
-|Realizar ações de vigilância epidemiológica |visita |55.940 |
-
-|Realizar controle de zoonoses |procedimento |10.411 |
-
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|Oferecer sessões de fisioterapia programadas |consulta |169.936 |
-
-|Construção, ampliação e reforma de unidade de saúde |unidade |300 |
-
-|Realizar oficinas terapêuticas |oficina |1.275.000 |
-
-|Realizar consultas de urgência |consulta |450.087 |
-
-|Realizar controle de roedores, vetores, escorpiões, dengue, |visita |51.663 |
-
-|leishmaniose visceral canina | | |
-
-|Realizar exames laboratoriais, ultra-sonográficos, radiológicos, |exame |6.019.549 |
-
-|eletrocardiógrafos | | |
-
-|Realizar ações de desratização |procedimento |387.687 |
-
-|Realizar atendimento de terapia ocupacional |consulta |27.566 |
-
-|Realizar consultas de homeopatia |consulta |2.469 |
-
-|Realizar visitas domiciliares |visita |71.446 |
-
-|Realizar atendimento odontológico |atendimento |35.000.000 |
-
-|Realizar exames para suporte às ações da Zoonoses e à vigilância |exame |604.000 |
-
-|sanitária | | |
-
-|Realizar controle de leishmaniose, de dengue, de roedores, de |procedimento |1.081.000 |
-
-|escorpiões e de raiva | | |
-
-|Organizar e desenvolver o Programa Coletivo de Saúde Bucal |procedimento |122.100 |
-
-|Realizar recuperação do alcoólatra e do drogadito, de portador de |procedimento |140.000 |
-
-|sofrimento mental | | |
-
-|28 - Vigilância à Saúde BH/VIDA | | |
-
-|Realizar ações de vigilância em empresas do município de BH |vistoria |900 |
-
-|Vacinar animais |vacina |226.811 |
-
-|Capturar cães errantes e buscar animais no domicilio |captura |29.000 |
-
-|Sacrificar animais e observar os suspeitos |sacrifício |24.670 |
-
-|Vacinar 95% das crianças menores de 1 ano contra poliomielite, |vacina |71.333 |
-
-|hepatite B, sarampo , haemophillus tipo B, difteria, tétano, | | |
-
-|coqueluche e tuberculose | | |
-
-|29 - Gestão e Regulação da Saúde / SUS / BH | | |
-
-|Realizar obras de construção, ampliação e reforma de unidades de saúde|unidade |6 |
-
-|35 - Segurança Alimentar | | |
-
-|Garantir ao aluno da rede pública municipal o fornecimento de |merenda |26.293.500 |
-
-|alimentação durante o período de permanência nas escolas | | |
-
-|37 - Geração de Emprego e Renda | | |
-
-|Implantar laboratórios de informática |unidade |2 |
-
-|Formar jovens para o primeiro emprego |pessoa |480 |
-
-|Capacitar alunos de escolas municipais e pessoas da comunidade |aluno |2.700 |
-
-|Qualificar artesãos |artesão |180 |
-
-|Capacitar empreendimentos econômicos populares |unidade |15 |
-
-|39 - Serviços de Utilidade Pública | | |
-
-|Realizar obras de construção, ampliação e reforma de cemitérios |cemitério |4 |
-
-|Realizar serviços de poda e supressão de árvores em vias públicas e |poda |43.000 |
-
-|praças | | |
-
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|40 - Escola Plural | | |
-
-|Atender crianças da RME no PROJETO BH PARA CRIANÇAS |aluno |8.712 |
-
-|Assegurar a formação em nível superior de professores da RME |professor |600 |
-
-|Realizar o Projeto Alfabetização e Letramento |inscrição |900 |
-
-|Melhorar o acervo das bibliotecas escolares |livro |67.200 |
-
-|Informatizar as bibliotecas da Rede Municipal de Ensino |equipamento |25 |
-
-|Criar bibliotecas-pólo |biblioteca |3 |
-
-|Ampliar o atendimento para crianças de 0 a 5 anos |matrícula |21.000 |
-
-|Construir escolas de Educação Infantil |escola |10 |
-
-|Garantir o transporte escolar aos alunos da RME |viagem/dia |112 |
-
-|Implementar o Programa Bolsa-Escola do Governo Federal |família |37.416 |
-
-|44 - Qualificação dos Próprios Municipais | | |
-
-|Reformar próprios municipais dentro do Programa de Acessibilidade |unidade |3 |
-
-|Construir restaurantes populares |projeto |1 |
-
-|Construir, ampliar e reformar unidades de ensino |escola |10 |
-
-|46 - Execução da Limpeza Pública | | |
-
-|Ampliar os serviços de coleta em todas as vilas e favelas |t/dia |38 |
-
-|Ampliar a coleta seletiva |t/dia |31 |
-
-|Realizar coleta seletiva de orgânicos em feiras e sacolões |tonelada |720 |
-
-|Realizar coleta seletiva de papel, vidro, metal e plástico |tonelada |1.700 |
-
-|Realizar serviços de coleta domiciliar com caminhão |tonelada |141.626 |
-
-|Realizar serviços de coleta domiciliar com caçambas em vilas e favelas|tonelada |28.031 |
-
-|Realizar serviços de reciclagem de entulho |tonelada |1.473.093 |
-
-|Realizar serviços de aterragem de resíduos |tonelada |1.473.093 |
-
-|Realizar serviço de varrição manual de vias |km |162.442 |
-
-|Realizar serviços de coleta dom com caminhão carroceria aberta |tonelada |47.386 |
-
-|Realizar roçada nas vias urbanas |m2 |949.741 |
-
-|Realizar capina em asfalto, poliédrico, terra e passeio |metro |5.214.231 |
-
-|49 - Formação Cultural | | |
-
-|Realizar oficinas do "Arena da Cultura" |oficina |129 |
-
-|Realizar o projeto "Arte e Cultura", em parceria com a SMAS |oficina |50 |
-
-|Realizar oficinas nas "Escolas-Pólo" |oficina |142 |
-
-|Realizar as oficinas "Agente Jovem", em parceria com a SMAS |oficina |60 |
-
-|Promover oficinas lúdicas |oficina |500 |
-
-|Realizar o projeto "Incubadora Cultural" |curso |24 |
-
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|50 - Difusão Cultural | | |
-
-|Ampliar e restaurar centros culturais |unidade |2 |
-
-|Produzir e publicar as revistas Releitura e Ler-o-Lero |publicação |20 |
-
-|Realizar o projeto cinema p/ todos, em locais abertos e fechados |exibição |100 |
-
-|Produzir programas para a televisão sobre a memória da Cidade |documentário |5 |
-
-|Realizar mostras promovidas pela Casa do Baile e visitantes |mostra |4 |
-
-|Realizar o projeto "Música de Domingo" |apresentação |37 |
-
-|Realizar mostras e exposições sobre a história de Belo Horizonte |evento |38 |
-
-|Realizar a mostra infantil de teatro |mostra |2 |
-
-|Realizar os concursos nacionais de literatura "Cidade de Belo |concurso |1 |
-
-|Horizonte e João-de-Barro" | | |
-
-|Promover o Arraial de Belô |evento |1 |
-
-|Apoiar e incentivar eventos e atividades culturais diversas |evento |50 |
-
-|Elaborar programa de recuperação e restauração de monumentos, bustos e|programa |1 |
-
-|prédios históricos | | |
-
-|Realizar o Circuito Cultural |evento |10 |
-
-|Realizar a Ação Regional Integrada |evento |6 |
-
-|Realizar espetáculos musicais |evento |10 |
-
-|Realizar peças teatrais |evento |8 |
-
-|Realizar espetáculos de dança |evento |10 |
-
-|51 - Qualificação de Equipamentos e Serviços Culturais | | |
-
-|Realizar atividades de recuperação, tratamento e restauração de |restauração |40 |
-
-|acervos | | |
-
-|52 - Valorização do Patrimônio e Identidades Culturais | | |
-
-|Realizar pesquisa sobre a história dos bairros de Belo Horizonte |pesquisa |1 |
-
-|Realizar pesquisas sobre a história da Cidade |diagnóstico |1 |
-
-|Realizar oficinas com professores da rede municipal |oficina |8 |
-
-|Realizar pesquisas sobre patrimônio e identidades culturais de Belo |pesquisa |13 |
-
-|Horizonte, com produção de vídeo e publicação | | |
-
-|Realizar atividades sobre a história de Belo Horizonte, o museu e seu |visita |288 |
-
-|acervo, para estudantes | | |
-
-|57 - Gestão da Política de Regulação Urbana | | |
-
-|Implantar o programa de inclusão/legalização da cidade informal |unidade |60.000 |
-
-|Elaborar planos urbanísticos/arquitetônicos e análise |projeto |14 |
-
-|econômico-financeira de propostas de operações urbanas | | |
-
-|59 - Gerenciamento do Controle Urbano | | |
-
-|Transferir para meio digital as fichas de obra de edificações |ficha |10.000 |
-
-|Transferir para meio digital os projetos de edificação aprovados no |microfilme |24.200 |
-
-|período de 1898 a 1976 | | |
-
-|Licenciar faixas, aterro e desterro, demolições, tráfico de terra, |licença |15.033 |
-
-|tapumes e etc | | |
-
-|Emplacar equipamentos de camelôs, permissionários de bancas de jornais|placa |1.730 |
-
-|e ambulantes | | |
-
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|Emitir autorização para uso de fonte sonora na via pública |autorização |1.200 |
-
-|Emitir autorização para eventos em via pública |autorização |3.567 |
-
-|Emitir autorização para atividades econômicas temporárias |autorização |70 |
-
-|Emitir autorização para faixas em fachada e no espaço aéreo |autorização |390 |
-
-|Emitir autorização para publicidade |processo |2.000 |
-
-|Emitir autorização para uso de mesas e cadeiras na via pública |processo |520 |
-
-|Implantar e manter shopping popular para abrigar camelô e ambulantes |projeto |1 |
-
-|Realizar ações referentes ao CADAN - cadastro de anúncios |licença |1.000 |
-
-|Licenciar as atividades econômicas, urbanísticas e ambientais |licença |4.531 |
-
-|Atender consultas prévias para licenciamento de atividades |consulta |3.833 |
-
-|Efetuar levantamento de logradouros para emplacamento |vistoria |799 |
-
-|Encaminhar solicitações de numeração de lotes |solicitação |825 |
-
-|Emitir alvarás de construção |alvará |319 |
-
-|Emitir certidões de baixa e habite-se |certidão |319 |
-
-|Fornecer informações básicas para a aprovação de projetos |croqui |240 |
-
-|Vistoriar: estabelecimentos comerciais |vistoria |46.284 |
-
-|Dar continuidade ao Projeto Tolerância Zero |operação |15 |
-
-|Emitir notificações de atividades irregulares |notificação |9.647 |
-
-|Demolir construções em vias públicas |demolição |32 |
-
-|62 - Gestão do Sistema Viário Municipal | | |
-
-|Implantar e recuperar passarelas, trincheiras e viadutos |unidade |44 |
-
-|Implantar e recuperar vias urbanas |projeto |1 |
-
-|Realizar serviços de conservação de vias urbanas |projeto |1 |
-
-|63 - Gestão do Trânsito Municipal | | |
-
-|Implantar terminais rodoviários |projeto |1 |
-
-|Reduzir os índices de acidentes, principalmente os acidentes com |morto/10.000 veículos |2 |
-
-|vítimas | | |
-
-|Realizar tratamento de pontos críticos de acidentes |Unidade |3 |
-
-|Promover ações educativas nas escolas do município através de |pessoa |110.000 |
-
-|atividades lúdico-pedagógicas | | |
-
-|Promover campanhas de segurança no trânsito |campanha |4 |
-
-|Implantar sinalização estatigráfica vertical |placa |18.500 |
-
-|Implantar sinalização estatigráfica horizontal |m² |80.000 |
-
-|Realizar geometria viária |interseção |35 |
-
-|Implantar sinalização semafórica |interseção |595 |
-
-|Ampliar a fiscalização eletrônica |local |117 |
-
-|64 - Geração de Habitações Urbanas Populares | | |
-
-|Implantar Conjunto Habitacional da Vila São José |unidade |80 |
-
-|Diminuir o deficit habitacional, com aquisição de unidades |programa |1 |
-
-|habitacionais | | |
-
-|65 - Geração e Qualificação Habitacional em Vilas e Favelas | | |
-
-|Regularizar 12000 lotes em 19 vilas/conjuntos habitacionais |projeto |1 |
-
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|Atender às famílias residentes nas vilas Senhor dos Passos e |projeto |1 |
-
-|Califórnia com obras de infra-estrutura, regularização fundiária, | | |
-
-|equipamentos públicos e construção de unidades habitacionais | | |
-
-|Promover a remoção, com reassentamento ou indenização de famílias |família |500 |
-
-|66 - Saneamento e Tratamento de Fundos de Vale | | |
-
-|Executar as obras do Plano Diretor de Drenagem |km |19 |
-
-|Realizar serviços de manutenção do sistema de drenagem pluvial |projeto |1 |
-
-|Realizar obras de drenagem e tratamento de fundos de vale |projeto |1 |
-
-|67 - Desassoreamento de Lagoas | | |
-
-|Desassorear cursos d'água e lagoas |m³ |38.730 |
-
-|Retirar aguapés |viagem |2.000 |
-
-|69 - Gestão da Política Ambiental | | |
-
-|Elaborar projetos para revitalização, revegetação e proteção das áreas|projeto |1 |
-
-|verdes e das nascentes | | |
-
-|Executar intervenções em áreas verdes e nascentes e desassoreamento da|intervenção |1 |
-
-|lagoa | | |
-
-|Regulamentar ADEs de Interesse Ambiental |diagnóstico |1 |
-
-|Executar o licenciamento ambiental mensal de 80 (oitenta) |licença |960 |
-
-|empreendimentos | | |
-
-|Realizar vistorias para acompanhar o crescimento das instalações de |vistoria |2.400 |
-
-|empreendimentos de impacto | | |
-
-|Efetuar vistorias para atendimento ao licenciamento ambiental |vistoria |960 |
-
-|Efetuar diligências fiscais diárias, para melhor controlar a poluição |diligência |10.000 |
-
-|sonora | | |
-
-|Realizar vistorias, priorizando as regiões mais críticas indicadas |vistoria |9.600 |
-
-|pelo mapeamento da Cidade | | |
-
-|70 - Gestão da Política de Saneamento Ambiental | | |
-
-|Implementar a recuperação de focos de erosão |foco |10 |
-
-|Promover a proteção de nascentes |nascente |5 |
-
-|Urbanizar praças e implantar parques |m² |2.500 |
-
-|Realizar projeto do sistema de dragagem a longa distância, dragagem de|m³ |1.020.000 |
-
-|manutenção nos canais de acesso à represa | | |
-
-|71 - Gestão da Política de Educação Ambiental | | |
-
-|Realizar oficinas de educação ambiental e sanitária |oficina |30 |
-
-|Realizar oficinas de segurança alimentar e saúde |oficina |30 |
-
-|Realizar campanhas educativas de recuperação de cursos d'água e áreas |campanha |24 |
-
-|degradadas | | |
-
-|Implantar e monitorar hortas de quintais |projeto |60 |
-
-|Implantar sistemas de irrigação |sistema |1 |
-
-|Realizar oficinas de educação ambiental |oficina |80 |
-
-|72 - Preservação dos Parques, Praças e Jardins | | |
-
-|Revitalizar jardins |m² |25.000 |
-
-|Atender a adolescentes de 14 a 18 anos em situação de risco social |adolescente |25 |
-
-|através de oficinas profissionalizantes | | |
-
-|Atender a crianças e adolescentes de 6 a 19 anos em situação de risco |criança |450 |
-
-|social através de oficinas educativas | | |
-
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|Realizar a manutenção de praças e canteiros |praça/canteiro |969 |
-
-|Realizar a manutenção de parques e áreas verdes |m² |300.000 |
-
-|Realizar a manutenção de praças e canteiros centrais |m² |200.000 |
-
-|Realizar o plantio de árvore |unidade |200 |
-
-|Implantar o programa adote o verde |unidade |220 |
-
-|Realizar secção de raízes |unidade |480 |
-
-|Executar podas, plantio, secção de raízes e supressão de árvores |árvore |34.286 |
-
-|Proceder à arborização das vias e praças, embelezando a Cidade |árvore |1.997 |
-
-|73 - Preservação e Conservação da Fauna e Flora | | |
-
-|Construir novos recintos para exibição e reprodução de animais |projeto |9 |
-
-|Melhorar e ampliar a produção de mudas |projeto |4 |
-
-|74 - Assistência Alimentar | | |
-
-|Ampliar o número de beneficiários nos projetos desenvolvidos |Beneficiário |77.200 |
-
-|75 - Controle do Sistema Municipal de Abastecimento | | |
-
-|Ampliar o número de famílias atendidas, através da implantação de |Família |25.971 |
-
-|pontos fixos e da ampliação dos pontos móveis existentes | | |
-
-|77 - Comercialização Subsidiada de Gêneros Alimentícios e Refeições | | |
-
-|Realizar a comercialização de refeições nas novas unidades do |Refeição |9.000 |
-
-|Restaurante Popular | | |
-
-|Ampliar o número de refeições comercializadas diariamente |Refeição |4.500 |
-
-|78 - Incentivo à Produção e Comercialização Direta de Alimentos | | |
-
-|Aumentar o volume comercializado |Tonelada |1.000 |
-
-|Aumentar o número de beneficiários |Beneficiário |300.000 |
-
-|79 - Práticas Esportivas e de Lazer | | |
-
-|Construir, ampliar e reformar áreas de lazer e esportes |Projeto |1 |
-
-|Promover, apoiar e estimular iniciativas de recreação e lazer |Evento |12 |
-
-|Criar novos espaços de convivência e lazer |Evento |6 |
-
-|Realizar a Copa Centenário de Futebol Amador |Evento |1 |
-
-|Promover os jogos estaduais municipais |Evento |1 |
-
-|Desenvolver ações esportivas e de lazer para crianças e adolescentes |Pessoa |3.000 |
-
-|na faixa etária de 7 a 17 anos | | |
-
-|Realizar rua do lazer |Encontro |6 |
-
-|Promover e realizar o Arraial de Belô |Evento |1 |
-
-|Realizar torneio esportivo no parque ecológico |Torneio |5 |
-
-|82 - Fomento ao Empreendedorismo Econômico | | |
-
-|Implantar e manter postos avançados p/ atendimento das micro e |Posto |2 |
-
-|pequenas empresas | | |
-
-|PROGRAMA/META |Unidade medida |Quantificação |
-
-|84 - Serviços de Iluminação Pública | | |
-
-|Realizar obras para ampliação de rede de iluminação pública |Projeto |1 |
-
-|Realizar serviços de ampliação de rede de iluminação pública |Luminária |23.000 |
-
-|85 - Gestão e Aplicação de Tecnologia da Informação | | |
-
-|Aumentar a oferta de serviços de infra-estrutura e o nível de |Máquina |7.500 |
-
-|integração via rede | | |
-
-|Implantar soluções e inovações tecnológicas no âmbito da PBH, |Sistema |2 |
-
-|priorizando as políticas sociais e finanças | | |
-
-|86 - Fomento ao Turismo de Lazer, Eventos e Negócios | | |
-
-|Implantar novos postos de informação turística |Posto |13 |
-
-|Estudar e propor mecanismos para o fomento do turismo da Cidade |Pesquisa |3 |
-
-|Montar um banco de dados que demonstre os indicadores turísticos de |banco de dados |1 |
-
-|Belo Horizonte | | |
-
-|Elaborar e produzir mapas turísticos, informando a localização dos |Mapa |10 |
-
-|atrativos turísticos da cidade | | |
-
-|95 - Assistência Jurídica e Psicossocial | | |
-
-|Abrir uma unidade de atendimento do Balcão de Direitos nas 9 |Unidade |9 |
-
-|diferentes regionais | | |
-
-|Prestar atendimento aos cidadãos que procurarem o programa |Atendimento |1.500 |
-
-|Atender casos de violação aos direitos fundamentais e de cidadania |Atendimento |1.600 |
-
-|96 - Coordenação Superior Municipal | | |
-
-|Implantar o Programa BH-Cidadania nas nove secretarias de Coordenação |Projeto |1 |
-
-|de Gestão Regional | | |
-
-|Elaborar e implementar o Cadastro Único e o Sistema de Informações da |Projeto |1 |
-
-|Política Social | | |
-
-|Publicar a revista Política Social da PBH |Exemplar |9.000 |
-
-|Implantar o Sistema de Contabilidade e Custos com inclusão da dimensão|Projeto |1 |
-
-|física | | |
-
-|98 - BH Pólo Esportivo | | |
-
-|Realizar o Circuito BH de Corridas de Rua |Atleta |3.780 |
-
-|Realizar o projeto Criança e Adolescente e suas 1001 Brincadeiras |Criança |16.000 |
-
-|Realizar a Copa BH de Futebol Amador |Atleta |4.440 |
-
-|Realizar a Corrida Rústica para Pessoas Portadoras de Deficiência |Pessoa |1.900 |
-
-|Realizar os Jogos Esportivos Comunitários |Pessoa |4.680 |
-
-|99 - Programas Esportivos Comunitários | | |
-
-|Realizar o Programa Vida Ativa |Pessoa |15.000 |
-
-|Realizar o Programa Superar |Pessoa |15.000 |
-
-|Realizar o Programa Caminhar |Pessoa |30.000 |
-
-|Realizar o Programa Recrear |Evento |120 |
-
-|Realizar o Programa Criança e Adolescente |Pessoa |16.000 |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| --- | --- | --- |
+| 7 - Apoio Administrativo e Financeiro |  |  |
+| Abrir processos de perdão de débitos | processo | 12.000 |
+| 10 - Sistema de Informações Municipais |  |  |
+| Editar caderno de conjuntura e indicadores econômicos da PBH | edição | 1 |
+| Implantar centro de documentação urbanística | mapa | 10.330 |
+| 13 - Gestão do Sistema Tributário Municipal |  |  |
+| Realizar Cobranças Gerais através de emissão de guias | cobrança | 1.000.000 |
+| Atender contribuintes de IPTU | atendimento | 146.400 |
+| Atender contribuintes de ITBI | atendimento | 74.700 |
+| Atender demandas diversas dos contribuintes | informação | 5.000 |
+| 16 - Proteção Social ao Munícipe |  |  |
+| Implantar o projeto TV Sala de Espera | programa | 6 |
+| Prestar assistência a flagelados, atingidos por calamidades | cesta básica | 2.700 |
+| Prestar assistência a flagelados, atingidos por calamidades | pessoa | 5.000 |
+| 19 - Proteção Especial |  |  |
+| Assistir crianças e adolescentes nos aspectos físicos, psicopedagógico | pessoa | 15.000 |
+| e social |  |  |
+| Contribuir para a promoção das famílias de crianças/adolescentes na | família | 10.000 |
+| comunidade |  |  |
+| Atender crianças/adolescente/famílias vítimas de violência doméstica | pessoa | 750 |
+| e/ou exploração sexual |  |  |
+| Atender famílias de crianças/adolescentes em situação de exploração ou | pessoa | 1.100 |
+| trabalho infantil |  |  |
+| Distribuir cestas básicas para famílias | família | 420 |
+| Conceder benefícios de renda mínima a famílias atendidas | família | 260 |
+| Atender crianças através de convênio com entidades municipalizadas | pessoa | 12.393 |
+| Implementar o Kit Criança | família | 687 |
+| Garantir a convivência familiar de crianças em situação de risco | família | 630 |
+| social e/ou pessoal |  |  |
+| Atender famílias de crianças e adolescentes de 7 a 14 anos em situação | pessoa | 5.400 |
+| de exploração do trabalho infantil |  |  |
+| Promover convênio com centros infanto-juvenis para a inserção das | pessoa | 750 |
+| crianças/adolescentes atendidos no PETI |  |  |
+| Promover a inclusão de jovens em atividades socioculturais e | pessoa | 2.100 |
+| pedagógicas com a concessão de bolsas vinculadas à presença na escola |  |  |
+| Atender crianças e adolescentes de 6 a 18 anos de idade, em seus | pessoa | 21.000 |
+| aspectos físico, psicopedagógico e social, através de convênio com |  |  |
+| entidades filantrópicas |  |  |
+| Atender crianças e adolescentes em regime de abrigo | pessoa | 320 |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| Atender crianças/adolescentes em situação de risco de morte | pessoa | 24 |
+| Atender crianças e adolescentes em regime de abrigo, através de | pessoa | 420 |
+| entidades não governamentais integrantes da rede municipal |  |  |
+| Realizar atendimento a crianças e adolescentes no serviço de abordagem | Pessoa | 5.400 |
+| Fazer atendimento a crianças e adolescentes nas diversas oficinas de | pessoa | 1.800 |
+| arte e cultura promovidas pelo Miguilim |  |  |
+| Atender crianças e adolescentes com trajetória de rua através de | pessoa | 1.100 |
+| convênio com entidades |  |  |
+| Realizar encaminhamento e acompanhamento familiar do público atendido | pessoa | 3.600 |
+| tendo como objetivo promover o retorno ao convívio familiar e |  |  |
+| comunitário |  |  |
+| Atender pessoas através de conveniamento com entidades que oferecem | pessoa | 960 |
+| serviços de saúde e apoio psicossocial, em especial, a pessoa |  |  |
+| portadora de HIV, hemofilia e drogaditos |  |  |
+| Atender crianças de zero a seis anos de idade em seus aspectos físico, | pessoa | 14.432 |
+| psicopedagógico, social e nutricional |  |  |
+| Promover a família de crianças e adolescentes na comunidade | família | 8.600 |
+| Atender crianças/adolescentes e famílias em situação de violência | família | 750 |
+| doméstica e exploração sexual |  |  |
+| Atender famílias de crianças/adolescentes em situação de exploração ou | pessoa | 1.100 |
+| trabalho infantil |  |  |
+| Conceder benefícios de renda mínima a famílias atendidas | família | 130 |
+| Implementação do Kit Criança em programas que atendam família com | família | 687 |
+| crianças pequenas |  |  |
+| Conceder benefícios de um salário mínimo a famílias acolhedoras e/ou | família | 420 |
+| de origem |  |  |
+| Manter o projeto MURIKI, objetivando a inclusão de crianças e | pessoa | 5.400 |
+| adolescentes portadores de deficiência |  |  |
+| Promover a inclusão e integração de jovens em atividades | pessoa | 2.100 |
+| socioculturais e pedagógicas com a concessão de bolsas vinculadas à |  |  |
+| presença na escola |  |  |
+| Atender crianças e adolescentes de 6 a 18 anos de idade, em seus | pessoa | 21.000 |
+| aspectos físico, psicopedagógico e social, através de conveniamento |  |  |
+| com entidades filantrópicas |  |  |
+| Atender crianças e adolescentes em regime de abrigo | pessoa | 640 |
+| Atender crianças e adolescentes em regime de abrigo, através de | pessoa | 840 |
+| entidades não governamentais integrantes da rede municipal |  |  |
+| Atender pessoas através de conveniamento com entidades que oferecem | pessoa | 950 |
+| serviços de saúde e apoio psicossocial, em especial, a pessoas |  |  |
+| portadoras de HIV, hemofilia e drogaditos |  |  |
+| Atender adolescentes com medidas socioeducativas de liberdade | pessoa | 1.560 |
+| assistida através de entidades filantrópicas da rede municipal |  |  |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| Realizar atendimento psicossocial aos adolescentes com medida de | pessoa | 36 |
+| privação de liberdade |  |  |
+| Contribuir para promoção de família de crianças e adolescentes em suas | família | 10.000 |
+| comunidades |  |  |
+| Atender pessoas através de conveniamento com entidades que oferecem | pessoa | 960 |
+| serviços de saúde e apoio psicossocial, em especial, a pessoa |  |  |
+| portadora de HIV, hemofilia e drogaditos |  |  |
+| Atender crianças/adolescentes e famílias em situação de violência | família | 750 |
+| doméstica e exploração sexual |  |  |
+| Atender famílias de crianças/adolescentes em situação de exploração do | pessoa | 1.100 |
+| trabalho infantil |  |  |
+| Atender crianças através de conveniamento com entidades filantrópicas | pessoa | 12.393 |
+| da rede municipal |  |  |
+| Promover convênio com centro infanto-juvenis para a inserção das | pessoa | 750 |
+| crianças/adolescentes atendidos no PETI |  |  |
+| Atender crianças e adolescentes de 6 a 18 anos de idade, em seus | pessoa | 21.000 |
+| aspectos físico, psicopedagógico e social, através de conveniamento |  |  |
+| com entidades filantrópicas |  |  |
+| Atender crianças e adolescentes com trajetória de rua e suas famílias | pessoa | 1.100 |
+| através de conveniamento com entidades não governamentais |  |  |
+| 20 - Promoção e Proteção Social |  |  |
+| Assistir à portadores de deficiência, idoso, população de rua, | pessoa | 74.752 |
+| famílias desabrigadas e em situação de risco |  |  |
+| Realizar abordagem, encaminhamento e acompanhamento social a famílias, | família | 2.352 |
+| grupos e pessoas sozinhas |  |  |
+| Promover o suprimento nutricional às entidades assistenciais | pessoa | 30.682 |
+| conveniadas e equipamentos municipais |  |  |
+| Distribuir cestas básicas para a população carente | família | 1.200 |
+| Acompanhar crianças vítimas de violência doméstica, sexual e com | família | 180 |
+| trajetória de rua |  |  |
+| Acompanhar os adolescentes sob medida socioeducativa | pessoa | 1.200 |
+| Realizar atendimento aos casos de desrespeito e violação dos direitos | pessoa | 2.500 |
+| da criança e do adolescente |  |  |
+| 22 - Inclusão Produtiva |  |  |
+| Promover a intermediação ou encaminhamento de pessoas carentes ao | pessoa | 14.180 |
+| mercado de trabalho |  |  |
+| Capacitar e organizar grupos de geração de trabalho e renda, através | pessoa | 5.870 |
+| de convênios com entidades filantrópicas da rede municipal |  |  |
+| Encaminhar pessoas ao mercado de trabalho localizado em empresas | pessoa | 1.100 |
+| públicas e privadas |  |  |
+| 23 - Concessão de Benefícios Eventuais |  |  |
+| Atender pessoas através da prestação de serviços e benefícios como | pessoa | 168.006 |
+| fornecimento de fotografias para documentos, passes, passagens |  |  |
+| ferroviárias e rodoviárias, auxílio trigêmeos e outros |  |  |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| 25 - Assistência Individual ao Servidor Municipal |  |  |
+| Realizar atendimentos diversos na clínica geral odontológica | atendimento | 464.430 |
+| Realizar administração de medicamentos | atendimento | 23.950 |
+| Realizar consultas médicas em diversas modalidades | consulta | 184.550 |
+| Realizar exames ECG, EEG, patologia, radiologia | exame | 275.490 |
+| Realizar internação hospitalar | internação | 1.130 |
+| Realizar procedimentos de ortopedia - infiltração/ imobilização | procedimento | 410 |
+| Realizar pequenas cirurgias | cirurgia | 4.380 |
+| Aplicar Vacina | vacina | 60.760 |
+| 27 - Atenção à Saúde / BH-VIDA |  |  |
+| Realizar a coleta de amostras de alimentos e água para análise | amostra | 137.280 |
+| laboratorial |  |  |
+| Realizar consultas médicas de psiquiatria | consulta | 82.819 |
+| Realizar diversos procedimentos odontológicos | procedimento | 1.170.279 |
+| Realizar consultas especializadas de otorrinolaringologia, angiologia, | consulta | 473.968 |
+| dermatologia, pneumologia, cardiologia, endocrinológica, etc |  |  |
+| Realizar procedimentos de oftalmologia, otorrinolaringologia, | procedimento | 6.500 |
+| angiologia, pneumologia, ginecologia |  |  |
+| Realizar procedimentos cirúrgicos | procedimento | 2.000 |
+| Realizar procedimentos ortopédicos | procedimento | 10.000 |
+| Realizar vistoria em farmácias, comércio de alimentos e comércio | vistoria | 7.963 |
+| eventual |  |  |
+| Realizar controle de dengue e de Aedes aegypti | vistoria | 15.060 |
+| Realizar o controle de leishmaniose, através da coleta de sangue | amostra | 144.312 |
+| Realizar captura, recolhimento e sacrifício de cães positivos | captura | 167.700 |
+| Realizar o controle de escorpiões, roedores e outros animais | vistoria | 52.865 |
+| peçonhentos |  |  |
+| Realizar a captura de grandes e médios animais | captura | 65.000 |
+| Realizar consultas ambulatoriais de prevenção de raiva | consulta | 15.860 |
+| Realizar consultas ambulatoriais de enfermagem | consulta | 102.683 |
+| Realizar consultas ambulatoriais de psicologia | consulta | 48.788 |
+| Realizar consultas ambulatoriais de serviço social | consulta | 650.250 |
+| Realizar consultas ambulatoriais de atendimento da nutrição | consulta | 338.000 |
+| Realizar doação de óculos | procedimento | 145.000 |
+| Realizar análises diversas no Laboratório de Bromatologia | análise | 473.429 |
+| Realizar consultas médicas básicas de clínica geral, pediatria, | consulta | 2.834.671 |
+| ginecologia, oftalmologia, dermatologia, psiquiatria |  |  |
+| Oferecer serviços de vacinação em menores de 1 ano, em gestantes e | vacina | 4.901.723 |
+| outros |  |  |
+| Realizar visitas domiciliares em unidades básicas e com o BH/SAÚDE - | visita | 175.186 |
+| equipes e agentes comunitários |  |  |
+| Realizar ações de vigilância epidemiológica | visita | 55.940 |
+| Realizar controle de zoonoses | procedimento | 10.411 |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| Oferecer sessões de fisioterapia programadas | consulta | 169.936 |
+| Construção, ampliação e reforma de unidade de saúde | unidade | 300 |
+| Realizar oficinas terapêuticas | oficina | 1.275.000 |
+| Realizar consultas de urgência | consulta | 450.087 |
+| Realizar controle de roedores, vetores, escorpiões, dengue, | visita | 51.663 |
+| leishmaniose visceral canina |  |  |
+| Realizar exames laboratoriais, ultra-sonográficos, radiológicos, | exame | 6.019.549 |
+| eletrocardiógrafos |  |  |
+| Realizar ações de desratização | procedimento | 387.687 |
+| Realizar atendimento de terapia ocupacional | consulta | 27.566 |
+| Realizar consultas de homeopatia | consulta | 2.469 |
+| Realizar visitas domiciliares | visita | 71.446 |
+| Realizar atendimento odontológico | atendimento | 35.000.000 |
+| Realizar exames para suporte às ações da Zoonoses e à vigilância | exame | 604.000 |
+| sanitária |  |  |
+| Realizar controle de leishmaniose, de dengue, de roedores, de | procedimento | 1.081.000 |
+| escorpiões e de raiva |  |  |
+| Organizar e desenvolver o Programa Coletivo de Saúde Bucal | procedimento | 122.100 |
+| Realizar recuperação do alcoólatra e do drogadito, de portador de | procedimento | 140.000 |
+| sofrimento mental |  |  |
+| 28 - Vigilância à Saúde BH/VIDA |  |  |
+| Realizar ações de vigilância em empresas do município de BH | vistoria | 900 |
+| Vacinar animais | vacina | 226.811 |
+| Capturar cães errantes e buscar animais no domicilio | captura | 29.000 |
+| Sacrificar animais e observar os suspeitos | sacrifício | 24.670 |
+| Vacinar 95% das crianças menores de 1 ano contra poliomielite, | vacina | 71.333 |
+| hepatite B, sarampo , haemophillus tipo B, difteria, tétano, |  |  |
+| coqueluche e tuberculose |  |  |
+| 29 - Gestão e Regulação da Saúde / SUS / BH |  |  |
+| Realizar obras de construção, ampliação e reforma de unidades de saúde | unidade | 6 |
+| 35 - Segurança Alimentar |  |  |
+| Garantir ao aluno da rede pública municipal o fornecimento de | merenda | 26.293.500 |
+| alimentação durante o período de permanência nas escolas |  |  |
+| 37 - Geração de Emprego e Renda |  |  |
+| Implantar laboratórios de informática | unidade | 2 |
+| Formar jovens para o primeiro emprego | pessoa | 480 |
+| Capacitar alunos de escolas municipais e pessoas da comunidade | aluno | 2.700 |
+| Qualificar artesãos | artesão | 180 |
+| Capacitar empreendimentos econômicos populares | unidade | 15 |
+| 39 - Serviços de Utilidade Pública |  |  |
+| Realizar obras de construção, ampliação e reforma de cemitérios | cemitério | 4 |
+| Realizar serviços de poda e supressão de árvores em vias públicas e | poda | 43.000 |
+| praças |  |  |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| 40 - Escola Plural |  |  |
+| Atender crianças da RME no PROJETO BH PARA CRIANÇAS | aluno | 8.712 |
+| Assegurar a formação em nível superior de professores da RME | professor | 600 |
+| Realizar o Projeto Alfabetização e Letramento | inscrição | 900 |
+| Melhorar o acervo das bibliotecas escolares | livro | 67.200 |
+| Informatizar as bibliotecas da Rede Municipal de Ensino | equipamento | 25 |
+| Criar bibliotecas-pólo | biblioteca | 3 |
+| Ampliar o atendimento para crianças de 0 a 5 anos | matrícula | 21.000 |
+| Construir escolas de Educação Infantil | escola | 10 |
+| Garantir o transporte escolar aos alunos da RME | viagem/dia | 112 |
+| Implementar o Programa Bolsa-Escola do Governo Federal | família | 37.416 |
+| 44 - Qualificação dos Próprios Municipais |  |  |
+| Reformar próprios municipais dentro do Programa de Acessibilidade | unidade | 3 |
+| Construir restaurantes populares | projeto | 1 |
+| Construir, ampliar e reformar unidades de ensino | escola | 10 |
+| 46 - Execução da Limpeza Pública |  |  |
+| Ampliar os serviços de coleta em todas as vilas e favelas | t/dia | 38 |
+| Ampliar a coleta seletiva | t/dia | 31 |
+| Realizar coleta seletiva de orgânicos em feiras e sacolões | tonelada | 720 |
+| Realizar coleta seletiva de papel, vidro, metal e plástico | tonelada | 1.700 |
+| Realizar serviços de coleta domiciliar com caminhão | tonelada | 141.626 |
+| Realizar serviços de coleta domiciliar com caçambas em vilas e favelas | tonelada | 28.031 |
+| Realizar serviços de reciclagem de entulho | tonelada | 1.473.093 |
+| Realizar serviços de aterragem de resíduos | tonelada | 1.473.093 |
+| Realizar serviço de varrição manual de vias | km | 162.442 |
+| Realizar serviços de coleta dom com caminhão carroceria aberta | tonelada | 47.386 |
+| Realizar roçada nas vias urbanas | m2 | 949.741 |
+| Realizar capina em asfalto, poliédrico, terra e passeio | metro | 5.214.231 |
+| 49 - Formação Cultural |  |  |
+| Realizar oficinas do "Arena da Cultura" | oficina | 129 |
+| Realizar o projeto "Arte e Cultura", em parceria com a SMAS | oficina | 50 |
+| Realizar oficinas nas "Escolas-Pólo" | oficina | 142 |
+| Realizar as oficinas "Agente Jovem", em parceria com a SMAS | oficina | 60 |
+| Promover oficinas lúdicas | oficina | 500 |
+| Realizar o projeto "Incubadora Cultural" | curso | 24 |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| 50 - Difusão Cultural |  |  |
+| Ampliar e restaurar centros culturais | unidade | 2 |
+| Produzir e publicar as revistas Releitura e Ler-o-Lero | publicação | 20 |
+| Realizar o projeto cinema p/ todos, em locais abertos e fechados | exibição | 100 |
+| Produzir programas para a televisão sobre a memória da Cidade | documentário | 5 |
+| Realizar mostras promovidas pela Casa do Baile e visitantes | mostra | 4 |
+| Realizar o projeto "Música de Domingo" | apresentação | 37 |
+| Realizar mostras e exposições sobre a história de Belo Horizonte | evento | 38 |
+| Realizar a mostra infantil de teatro | mostra | 2 |
+| Realizar os concursos nacionais de literatura "Cidade de Belo | concurso | 1 |
+| Horizonte e João-de-Barro" |  |  |
+| Promover o Arraial de Belô | evento | 1 |
+| Apoiar e incentivar eventos e atividades culturais diversas | evento | 50 |
+| Elaborar programa de recuperação e restauração de monumentos, bustos e | programa | 1 |
+| prédios históricos |  |  |
+| Realizar o Circuito Cultural | evento | 10 |
+| Realizar a Ação Regional Integrada | evento | 6 |
+| Realizar espetáculos musicais | evento | 10 |
+| Realizar peças teatrais | evento | 8 |
+| Realizar espetáculos de dança | evento | 10 |
+| 51 - Qualificação de Equipamentos e Serviços Culturais |  |  |
+| Realizar atividades de recuperação, tratamento e restauração de | restauração | 40 |
+| acervos |  |  |
+| 52 - Valorização do Patrimônio e Identidades Culturais |  |  |
+| Realizar pesquisa sobre a história dos bairros de Belo Horizonte | pesquisa | 1 |
+| Realizar pesquisas sobre a história da Cidade | diagnóstico | 1 |
+| Realizar oficinas com professores da rede municipal | oficina | 8 |
+| Realizar pesquisas sobre patrimônio e identidades culturais de Belo | pesquisa | 13 |
+| Horizonte, com produção de vídeo e publicação |  |  |
+| Realizar atividades sobre a história de Belo Horizonte, o museu e seu | visita | 288 |
+| acervo, para estudantes |  |  |
+| 57 - Gestão da Política de Regulação Urbana |  |  |
+| Implantar o programa de inclusão/legalização da cidade informal | unidade | 60.000 |
+| Elaborar planos urbanísticos/arquitetônicos e análise | projeto | 14 |
+| econômico-financeira de propostas de operações urbanas |  |  |
+| 59 - Gerenciamento do Controle Urbano |  |  |
+| Transferir para meio digital as fichas de obra de edificações | ficha | 10.000 |
+| Transferir para meio digital os projetos de edificação aprovados no | microfilme | 24.200 |
+| período de 1898 a 1976 |  |  |
+| Licenciar faixas, aterro e desterro, demolições, tráfico de terra, | licença | 15.033 |
+| tapumes e etc |  |  |
+| Emplacar equipamentos de camelôs, permissionários de bancas de jornais | placa | 1.730 |
+| e ambulantes |  |  |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| Emitir autorização para uso de fonte sonora na via pública | autorização | 1.200 |
+| Emitir autorização para eventos em via pública | autorização | 3.567 |
+| Emitir autorização para atividades econômicas temporárias | autorização | 70 |
+| Emitir autorização para faixas em fachada e no espaço aéreo | autorização | 390 |
+| Emitir autorização para publicidade | processo | 2.000 |
+| Emitir autorização para uso de mesas e cadeiras na via pública | processo | 520 |
+| Implantar e manter shopping popular para abrigar camelô e ambulantes | projeto | 1 |
+| Realizar ações referentes ao CADAN - cadastro de anúncios | licença | 1.000 |
+| Licenciar as atividades econômicas, urbanísticas e ambientais | licença | 4.531 |
+| Atender consultas prévias para licenciamento de atividades | consulta | 3.833 |
+| Efetuar levantamento de logradouros para emplacamento | vistoria | 799 |
+| Encaminhar solicitações de numeração de lotes | solicitação | 825 |
+| Emitir alvarás de construção | alvará | 319 |
+| Emitir certidões de baixa e habite-se | certidão | 319 |
+| Fornecer informações básicas para a aprovação de projetos | croqui | 240 |
+| Vistoriar: estabelecimentos comerciais | vistoria | 46.284 |
+| Dar continuidade ao Projeto Tolerância Zero | operação | 15 |
+| Emitir notificações de atividades irregulares | notificação | 9.647 |
+| Demolir construções em vias públicas | demolição | 32 |
+| 62 - Gestão do Sistema Viário Municipal |  |  |
+| Implantar e recuperar passarelas, trincheiras e viadutos | unidade | 44 |
+| Implantar e recuperar vias urbanas | projeto | 1 |
+| Realizar serviços de conservação de vias urbanas | projeto | 1 |
+| 63 - Gestão do Trânsito Municipal |  |  |
+| Implantar terminais rodoviários | projeto | 1 |
+| Reduzir os índices de acidentes, principalmente os acidentes com | morto/10.000 veículos | 2 |
+| vítimas |  |  |
+| Realizar tratamento de pontos críticos de acidentes | Unidade | 3 |
+| Promover ações educativas nas escolas do município através de | pessoa | 110.000 |
+| atividades lúdico-pedagógicas |  |  |
+| Promover campanhas de segurança no trânsito | campanha | 4 |
+| Implantar sinalização estatigráfica vertical | placa | 18.500 |
+| Implantar sinalização estatigráfica horizontal | m² | 80.000 |
+| Realizar geometria viária | interseção | 35 |
+| Implantar sinalização semafórica | interseção | 595 |
+| Ampliar a fiscalização eletrônica | local | 117 |
+| 64 - Geração de Habitações Urbanas Populares |  |  |
+| Implantar Conjunto Habitacional da Vila São José | unidade | 80 |
+| Diminuir o deficit habitacional, com aquisição de unidades | programa | 1 |
+| habitacionais |  |  |
+| 65 - Geração e Qualificação Habitacional em Vilas e Favelas |  |  |
+| Regularizar 12000 lotes em 19 vilas/conjuntos habitacionais | projeto | 1 |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| Atender às famílias residentes nas vilas Senhor dos Passos e | projeto | 1 |
+| Califórnia com obras de infra-estrutura, regularização fundiária, |  |  |
+| equipamentos públicos e construção de unidades habitacionais |  |  |
+| Promover a remoção, com reassentamento ou indenização de famílias | família | 500 |
+| 66 - Saneamento e Tratamento de Fundos de Vale |  |  |
+| Executar as obras do Plano Diretor de Drenagem | km | 19 |
+| Realizar serviços de manutenção do sistema de drenagem pluvial | projeto | 1 |
+| Realizar obras de drenagem e tratamento de fundos de vale | projeto | 1 |
+| 67 - Desassoreamento de Lagoas |  |  |
+| Desassorear cursos d'água e lagoas | m³ | 38.730 |
+| Retirar aguapés | viagem | 2.000 |
+| 69 - Gestão da Política Ambiental |  |  |
+| Elaborar projetos para revitalização, revegetação e proteção das áreas | projeto | 1 |
+| verdes e das nascentes |  |  |
+| Executar intervenções em áreas verdes e nascentes e desassoreamento da | intervenção | 1 |
+| lagoa |  |  |
+| Regulamentar ADEs de Interesse Ambiental | diagnóstico | 1 |
+| Executar o licenciamento ambiental mensal de 80 (oitenta) | licença | 960 |
+| empreendimentos |  |  |
+| Realizar vistorias para acompanhar o crescimento das instalações de | vistoria | 2.400 |
+| empreendimentos de impacto |  |  |
+| Efetuar vistorias para atendimento ao licenciamento ambiental | vistoria | 960 |
+| Efetuar diligências fiscais diárias, para melhor controlar a poluição | diligência | 10.000 |
+| sonora |  |  |
+| Realizar vistorias, priorizando as regiões mais críticas indicadas | vistoria | 9.600 |
+| pelo mapeamento da Cidade |  |  |
+| 70 - Gestão da Política de Saneamento Ambiental |  |  |
+| Implementar a recuperação de focos de erosão | foco | 10 |
+| Promover a proteção de nascentes | nascente | 5 |
+| Urbanizar praças e implantar parques | m² | 2.500 |
+| Realizar projeto do sistema de dragagem a longa distância, dragagem de | m³ | 1.020.000 |
+| manutenção nos canais de acesso à represa |  |  |
+| 71 - Gestão da Política de Educação Ambiental |  |  |
+| Realizar oficinas de educação ambiental e sanitária | oficina | 30 |
+| Realizar oficinas de segurança alimentar e saúde | oficina | 30 |
+| Realizar campanhas educativas de recuperação de cursos d'água e áreas | campanha | 24 |
+| degradadas |  |  |
+| Implantar e monitorar hortas de quintais | projeto | 60 |
+| Implantar sistemas de irrigação | sistema | 1 |
+| Realizar oficinas de educação ambiental | oficina | 80 |
+| 72 - Preservação dos Parques, Praças e Jardins |  |  |
+| Revitalizar jardins | m² | 25.000 |
+| Atender a adolescentes de 14 a 18 anos em situação de risco social | adolescente | 25 |
+| através de oficinas profissionalizantes |  |  |
+| Atender a crianças e adolescentes de 6 a 19 anos em situação de risco | criança | 450 |
+| social através de oficinas educativas |  |  |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| Realizar a manutenção de praças e canteiros | praça/canteiro | 969 |
+| Realizar a manutenção de parques e áreas verdes | m² | 300.000 |
+| Realizar a manutenção de praças e canteiros centrais | m² | 200.000 |
+| Realizar o plantio de árvore | unidade | 200 |
+| Implantar o programa adote o verde | unidade | 220 |
+| Realizar secção de raízes | unidade | 480 |
+| Executar podas, plantio, secção de raízes e supressão de árvores | árvore | 34.286 |
+| Proceder à arborização das vias e praças, embelezando a Cidade | árvore | 1.997 |
+| 73 - Preservação e Conservação da Fauna e Flora |  |  |
+| Construir novos recintos para exibição e reprodução de animais | projeto | 9 |
+| Melhorar e ampliar a produção de mudas | projeto | 4 |
+| 74 - Assistência Alimentar |  |  |
+| Ampliar o número de beneficiários nos projetos desenvolvidos | Beneficiário | 77.200 |
+| 75 - Controle do Sistema Municipal de Abastecimento |  |  |
+| Ampliar o número de famílias atendidas, através da implantação de | Família | 25.971 |
+| pontos fixos e da ampliação dos pontos móveis existentes |  |  |
+| 77 - Comercialização Subsidiada de Gêneros Alimentícios e Refeições |  |  |
+| Realizar a comercialização de refeições nas novas unidades do | Refeição | 9.000 |
+| Restaurante Popular |  |  |
+| Ampliar o número de refeições comercializadas diariamente | Refeição | 4.500 |
+| 78 - Incentivo à Produção e Comercialização Direta de Alimentos |  |  |
+| Aumentar o volume comercializado | Tonelada | 1.000 |
+| Aumentar o número de beneficiários | Beneficiário | 300.000 |
+| 79 - Práticas Esportivas e de Lazer |  |  |
+| Construir, ampliar e reformar áreas de lazer e esportes | Projeto | 1 |
+| Promover, apoiar e estimular iniciativas de recreação e lazer | Evento | 12 |
+| Criar novos espaços de convivência e lazer | Evento | 6 |
+| Realizar a Copa Centenário de Futebol Amador | Evento | 1 |
+| Promover os jogos estaduais municipais | Evento | 1 |
+| Desenvolver ações esportivas e de lazer para crianças e adolescentes | Pessoa | 3.000 |
+| na faixa etária de 7 a 17 anos |  |  |
+| Realizar rua do lazer | Encontro | 6 |
+| Promover e realizar o Arraial de Belô | Evento | 1 |
+| Realizar torneio esportivo no parque ecológico | Torneio | 5 |
+| 82 - Fomento ao Empreendedorismo Econômico |  |  |
+| Implantar e manter postos avançados p/ atendimento das micro e | Posto | 2 |
+| pequenas empresas |  |  |
+| PROGRAMA/META | Unidade medida | Quantificação |
+| 84 - Serviços de Iluminação Pública |  |  |
+| Realizar obras para ampliação de rede de iluminação pública | Projeto | 1 |
+| Realizar serviços de ampliação de rede de iluminação pública | Luminária | 23.000 |
+| 85 - Gestão e Aplicação de Tecnologia da Informação |  |  |
+| Aumentar a oferta de serviços de infra-estrutura e o nível de | Máquina | 7.500 |
+| integração via rede |  |  |
+| Implantar soluções e inovações tecnológicas no âmbito da PBH, | Sistema | 2 |
+| priorizando as políticas sociais e finanças |  |  |
+| 86 - Fomento ao Turismo de Lazer, Eventos e Negócios |  |  |
+| Implantar novos postos de informação turística | Posto | 13 |
+| Estudar e propor mecanismos para o fomento do turismo da Cidade | Pesquisa | 3 |
+| Montar um banco de dados que demonstre os indicadores turísticos de | banco de dados | 1 |
+| Belo Horizonte |  |  |
+| Elaborar e produzir mapas turísticos, informando a localização dos | Mapa | 10 |
+| atrativos turísticos da cidade |  |  |
+| 95 - Assistência Jurídica e Psicossocial |  |  |
+| Abrir uma unidade de atendimento do Balcão de Direitos nas 9 | Unidade | 9 |
+| diferentes regionais |  |  |
+| Prestar atendimento aos cidadãos que procurarem o programa | Atendimento | 1.500 |
+| Atender casos de violação aos direitos fundamentais e de cidadania | Atendimento | 1.600 |
+| 96 - Coordenação Superior Municipal |  |  |
+| Implantar o Programa BH-Cidadania nas nove secretarias de Coordenação | Projeto | 1 |
+| de Gestão Regional |  |  |
+| Elaborar e implementar o Cadastro Único e o Sistema de Informações da | Projeto | 1 |
+| Política Social |  |  |
+| Publicar a revista Política Social da PBH | Exemplar | 9.000 |
+| Implantar o Sistema de Contabilidade e Custos com inclusão da dimensão | Projeto | 1 |
+| física |  |  |
+| 98 - BH Pólo Esportivo |  |  |
+| Realizar o Circuito BH de Corridas de Rua | Atleta | 3.780 |
+| Realizar o projeto Criança e Adolescente e suas 1001 Brincadeiras | Criança | 16.000 |
+| Realizar a Copa BH de Futebol Amador | Atleta | 4.440 |
+| Realizar a Corrida Rústica para Pessoas Portadoras de Deficiência | Pessoa | 1.900 |
+| Realizar os Jogos Esportivos Comunitários | Pessoa | 4.680 |
+| 99 - Programas Esportivos Comunitários |  |  |
+| Realizar o Programa Vida Ativa | Pessoa | 15.000 |
+| Realizar o Programa Superar | Pessoa | 15.000 |
+| Realizar o Programa Caminhar | Pessoa | 30.000 |
+| Realizar o Programa Recrear | Evento | 120 |
+| Realizar o Programa Criança e Adolescente | Pessoa | 16.000 |
 
 ANEXO II - DOS RISCOS FISCAIS
 

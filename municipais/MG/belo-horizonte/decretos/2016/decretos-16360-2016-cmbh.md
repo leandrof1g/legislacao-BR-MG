@@ -90,46 +90,27 @@ ANEXO ÚNICO
 
 ATIVIDADES ATRATORAS DE ALTO NÚMERO DE PESSOAS
 
-|Código CNAE |Descrição das atividades |
-
-|932980100 |Discotecas, danceterias, salões de dança e similares. |
-
-|823000201 |Casa de festas e eventos |
-
-|900350002 |Casa de shows e espetáculos |
-
-|823000202 |Centros de convenções |
-
-|478909906 |Comércio varejista de produtos em geral - Centro de comércio popular |
-
-|829979904 |Gestão de espaços para exposição, feiras e congêneres, para uso de terceiros. |
-
-|591460000 |Atividades de exibição cinematográfica |
-
-|900350001 |Teatro |
-
-|900190400 |Produção de espetáculos circenses, de marionetes e similares. |
-
-|932120000 |Parques de diversão e parques temáticos |
-
-|851390000 |Ensino fundamental (área utilizada > 750m²) |
-
-|852010000 |Ensino médio (área utilizada > 750m²) |
-
-|853170000 |Educação Superior - Graduação (área utilizada > 750m²) |
-
-|853250000 |Educação Superior - Graduação e pós-graduação (área utilizada > 750m²) |
-
-|853330000 |Educação Superior - Pós-graduação e extensão (área utilizada > 750m²) |
-
-|854140000 |Educação profissional de nível técnico (área utilizada > 750m²) |
-
-|854220000 |Educação profissional de nível tecnológico (área utilizada > 750m²) |
-
-|859960500 |Cursos preparatórios para concursos |
-
-|931150001 |Gestão de estádio e ginásio esportivo |
-
-| |Shopping Center |
+| Código CNAE | Descrição das atividades |
+| --- | --- |
+| 932980100 | Discotecas, danceterias, salões de dança e similares. |
+| 823000201 | Casa de festas e eventos |
+| 900350002 | Casa de shows e espetáculos |
+| 823000202 | Centros de convenções |
+| 478909906 | Comércio varejista de produtos em geral - Centro de comércio popular |
+| 829979904 | Gestão de espaços para exposição, feiras e congêneres, para uso de terceiros. |
+| 591460000 | Atividades de exibição cinematográfica |
+| 900350001 | Teatro |
+| 900190400 | Produção de espetáculos circenses, de marionetes e similares. |
+| 932120000 | Parques de diversão e parques temáticos |
+| 851390000 | Ensino fundamental (área utilizada > 750m²) |
+| 852010000 | Ensino médio (área utilizada > 750m²) |
+| 853170000 | Educação Superior - Graduação (área utilizada > 750m²) |
+| 853250000 | Educação Superior - Graduação e pós-graduação (área utilizada > 750m²) |
+| 853330000 | Educação Superior - Pós-graduação e extensão (área utilizada > 750m²) |
+| 854140000 | Educação profissional de nível técnico (área utilizada > 750m²) |
+| 854220000 | Educação profissional de nível tecnológico (área utilizada > 750m²) |
+| 859960500 | Cursos preparatórios para concursos |
+| 931150001 | Gestão de estádio e ginásio esportivo |
+|  | Shopping Center |
 
 ” (NR)

@@ -58,39 +58,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da|R$ |
-
-|Lei n° 11.644, de 29 de dezembro de 2023: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB | |
-
-|2505.04.122.0165.2816.339040.501 |100.450,00 |
-
-|2505.18.541.0073.2900.339030.501 |90.119,00 |
-
-|2505.18.541.0073.2580.449052.501 |23.960,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE | |
-
-|2800.04.122.0217.2853.335041.500 |6.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |220.529,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei n° 11.644, de 29 de dezembro de 2023: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.04.122.0165.2816.339040.501 | 100.450,00 |
+| 2505.18.541.0073.2900.339030.501 | 90.119,00 |
+| 2505.18.541.0073.2580.449052.501 | 23.960,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0217.2853.335041.500 | 6.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 220.529,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação |R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB | |
-
-|2505.18.541.0073.2580.339030.501 |214.529,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE | |
-
-|2800.04.122.0217.2853.339039.500 |6.000,00 |
-
-|TOTAL DA ANULAÇÃO |220.529,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2580.339030.501 | 214.529,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0217.2853.339039.500 | 6.000,00 |
+| TOTAL DA ANULAÇÃO | 220.529,00 |
 
 ANEXO II
 
@@ -120,24 +108,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 85.012.549,86 |
-
-|Valor do Decreto publicado nesta data |R$ 220.529,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 85.233.078,86 |
-
-|Saldo atual de créditos suplementares |R$ 1.898.099.693,54 |
-
-|Percentual utilizado |4,30% |
-
-|Atualizado em 19/02/2024 às 16:59:13 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 85.012.549,86 |
+| Valor do Decreto publicado nesta data | R$ 220.529,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 85.233.078,86 |
+| Saldo atual de créditos suplementares | R$ 1.898.099.693,54 |
+| Percentual utilizado | 4,30% |
+| Atualizado em 19/02/2024 às 16:59:13 |  |

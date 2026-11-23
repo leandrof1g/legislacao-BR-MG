@@ -58,85 +58,50 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da|R$ |
-
-|Lei nº 11.442, de 29 de dezembro de 2022, e no art. 66 da Lei nº 11.539, de 5| |
-
-|de julho de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.0100.12.361.168.2.080.319113.500 |8.800,00 |
-
-|2200.0100.12.365.169.2.542.319011.500 |24.700,00 |
-
-|2200.0100.12.365.169.2.542.319113.500 |5.400,00 |
-
-|2200.0200.12.361.168.2.080.319113.500 |3.800,00 |
-
-|2200.0200.12.365.169.2.542.319011.500 |13.600,00 |
-
-|2200.0200.12.365.169.2.542.319113.500 |3.000,00 |
-
-|2200.0200.12.366.168.2.080.319113.500 |700,00 |
-
-|2200.0300.12.361.168.2.080.319113.500 |4.800,00 |
-
-|2200.0300.12.365.169.2.542.319011.500 |6.800,00 |
-
-|2200.0300.12.365.169.2.542.319113.500 |1.500,00 |
-
-|2200.0400.12.361.168.2.080.319113.500 |7.300,00 |
-
-|2200.0400.12.365.169.2.542.319011.500 |28.100,00 |
-
-|2200.0400.12.365.169.2.542.319113.500 |6.100,00 |
-
-|2200.0500.12.361.168.2.080.319113.500 |5.200,00 |
-
-|2200.0500.12.365.169.2.542.319011.500 |20.000,00 |
-
-|2200.0500.12.365.169.2.542.319113.500 |4.500,00 |
-
-|2200.0600.12.361.168.2.080.319113.500 |4.700,00 |
-
-|2200.0600.12.365.169.2.542.319011.500 |28.000,00 |
-
-|2200.0600.12.365.169.2.542.319113.500 |6.100,00 |
-
-|2200.0600.12.366.168.2.080.319113.500 |600,00 |
-
-|2200.0700.12.361.168.2.080.319113.500 |4.100,00 |
-
-|2200.0700.12.365.169.2.542.319011.500 |13.800,00 |
-
-|2200.0700.12.365.169.2.542.319113.500 |3.100,00 |
-
-|2200.0800.12.361.168.2.080.319113.500 |6.000,00 |
-
-|2200.0800.12.365.169.2.542.319011.500 |21.000,00 |
-
-|2200.0800.12.365.169.2.542.319113.500 |4.500,00 |
-
-|2200.0900.12.361.168.2.080.319113.500 |9.200,00 |
-
-|2200.0900.12.365.169.2.542.319011.500 |13.100,00 |
-
-|2200.0900.12.365.169.2.542.319113.500 |2.700,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |261.200,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da | R$ |
+| --- | --- |
+| Lei nº 11.442, de 29 de dezembro de 2022, e no art. 66 da Lei nº 11.539, de 5 |  |
+| de julho de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0100.12.361.168.2.080.319113.500 | 8.800,00 |
+| 2200.0100.12.365.169.2.542.319011.500 | 24.700,00 |
+| 2200.0100.12.365.169.2.542.319113.500 | 5.400,00 |
+| 2200.0200.12.361.168.2.080.319113.500 | 3.800,00 |
+| 2200.0200.12.365.169.2.542.319011.500 | 13.600,00 |
+| 2200.0200.12.365.169.2.542.319113.500 | 3.000,00 |
+| 2200.0200.12.366.168.2.080.319113.500 | 700,00 |
+| 2200.0300.12.361.168.2.080.319113.500 | 4.800,00 |
+| 2200.0300.12.365.169.2.542.319011.500 | 6.800,00 |
+| 2200.0300.12.365.169.2.542.319113.500 | 1.500,00 |
+| 2200.0400.12.361.168.2.080.319113.500 | 7.300,00 |
+| 2200.0400.12.365.169.2.542.319011.500 | 28.100,00 |
+| 2200.0400.12.365.169.2.542.319113.500 | 6.100,00 |
+| 2200.0500.12.361.168.2.080.319113.500 | 5.200,00 |
+| 2200.0500.12.365.169.2.542.319011.500 | 20.000,00 |
+| 2200.0500.12.365.169.2.542.319113.500 | 4.500,00 |
+| 2200.0600.12.361.168.2.080.319113.500 | 4.700,00 |
+| 2200.0600.12.365.169.2.542.319011.500 | 28.000,00 |
+| 2200.0600.12.365.169.2.542.319113.500 | 6.100,00 |
+| 2200.0600.12.366.168.2.080.319113.500 | 600,00 |
+| 2200.0700.12.361.168.2.080.319113.500 | 4.100,00 |
+| 2200.0700.12.365.169.2.542.319011.500 | 13.800,00 |
+| 2200.0700.12.365.169.2.542.319113.500 | 3.100,00 |
+| 2200.0800.12.361.168.2.080.319113.500 | 6.000,00 |
+| 2200.0800.12.365.169.2.542.319011.500 | 21.000,00 |
+| 2200.0800.12.365.169.2.542.319113.500 | 4.500,00 |
+| 2200.0900.12.361.168.2.080.319113.500 | 9.200,00 |
+| 2200.0900.12.365.169.2.542.319011.500 | 13.100,00 |
+| 2200.0900.12.365.169.2.542.319113.500 | 2.700,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 261.200,00 |
 
 I.2 – Anulação da dotação orçamentária a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, |R$ |
-
-|anulação de recursos orçamentários anteriormente previstos no seguinte órgão:| |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.1100.12.122.140.2.317.319011.500 |261.200,00 |
-
-|TOTAL DA ANULAÇÃO |261.200,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, | R$ |
+| --- | --- |
+| anulação de recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.1100.12.122.140.2.317.319011.500 | 261.200,00 |
+| TOTAL DA ANULAÇÃO | 261.200,00 |
 
 ANEXO II
 
@@ -160,22 +125,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 66 da Lei nº 11.539, de 5 de julho de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |
-
-|Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |
-
-|empregados públicos da administração direta e indireta do Poder Executivo |
-
-|Limite total autorizado |261.693.719,44 |
-
-|Total de créditos suplementares abertos anteriormente |172.804.930,00 |
-
-|Valor do Decreto publicado nesta data |261.200,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |173.066.130,00 |
-
-|Saldo atual do limite autorizado |88.627.589,44 |
-
-|Percentual utilizado |66,13% |
-
-|Atualizado em 09/11/2023 às 17:30:33 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |  |
+| --- | --- |
+| Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |  |
+| empregados públicos da administração direta e indireta do Poder Executivo |  |
+| Limite total autorizado | 261.693.719,44 |
+| Total de créditos suplementares abertos anteriormente | 172.804.930,00 |
+| Valor do Decreto publicado nesta data | 261.200,00 |
+| Valor total dos créditos suplementares abertos no exercício | 173.066.130,00 |
+| Saldo atual do limite autorizado | 88.627.589,44 |
+| Percentual utilizado | 66,13% |
+| Atualizado em 09/11/2023 às 17:30:33 |  |

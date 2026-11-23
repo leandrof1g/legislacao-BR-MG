@@ -118,45 +118,27 @@ ANEXO À LEI Nº 7.274
 
 DAS MULTAS A SEREM APLICADAS PELA INFRAÇÃO AOS DISPOSITIVOS ABAIXO RELACIONADOS
 
-|DISPOSITIVOS |VALOR EM UFIR |
-
-|Caput – art. 2º |1.100 |
-
-|Art.2º § 1º |660 |
-
-|§ 2º |660 |
-
-|§ 3º |660 |
-
-|§ 4º |660 |
-
-|§ 5º |880 |
-
-|Caput – art. 3º |880 |
-
-|Art.3º §1º |660 |
-
-|§ 2º |660 |
-
-|§ 3º |660 |
-
-|Art. 4º I |660 |
-
-| II |660 |
-
-| III |660 |
-
-|Art. 5º |880 |
-
-|Art. 6º |880 |
-
-|Art. 7º |1.000 |
-
-|Art. 8º |1.000 |
-
-|Art. 9º |1.000 |
-
-|Art. 10º |880 |
+| DISPOSITIVOS | VALOR EM UFIR |
+| --- | --- |
+| Caput – art. 2º | 1.100 |
+| Art.2º § 1º | 660 |
+| § 2º | 660 |
+| § 3º | 660 |
+| § 4º | 660 |
+| § 5º | 880 |
+| Caput – art. 3º | 880 |
+| Art.3º §1º | 660 |
+| § 2º | 660 |
+| § 3º | 660 |
+| Art. 4º I | 660 |
+| II | 660 |
+| III | 660 |
+| Art. 5º | 880 |
+| Art. 6º | 880 |
+| Art. 7º | 1.000 |
+| Art. 8º | 1.000 |
+| Art. 9º | 1.000 |
+| Art. 10º | 880 |
 
 ## Observações da CMBH
 

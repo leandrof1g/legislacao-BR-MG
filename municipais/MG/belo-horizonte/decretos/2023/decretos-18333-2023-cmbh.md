@@ -48,58 +48,33 @@ ANEXO
 
 IV.4 – Secretaria Municipal de Desenvolvimento Econômico – SMDE:
 
-|SMDE |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |4 |SMDE.DAM1.L.001 a SMDE.DAM1.L.004 |
-
-| |AMPLO |3 |SMDE.DAM1.A.001 a SMDE.DAM1.A.003 |
-
-|DAM-2 |LIMITADO |1 |SMDE.DAM2.L.001 |
-
-| |AMPLO |1 |SMDE.DAM2.A.001 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |6 |SMDE.DAM3.A.001 a SMDE.DAM3.A.006 |
-
-|DAM-4 |LIMITADO |2 |SMDE.DAM4.L.001 a SMDE.DAM4.L.002 |
-
-| |AMPLO |7 |SMDE.DAM4.A.001 a SMDE.DAM4.A.007 |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-6 |LIMITADO |1 |SMDE.DAM6.L.001 |
-
-| |AMPLO |0 |- |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |2 |SMDE.DAM8.A.001 a SMDE.DAM8.A.002 |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |2 |SMDE.FCA5.001 a SMDE.FCA5.002 |
-
-|FCA-6 |LIMITADO |1 |SMDE.FCA6.001 |
-
-|TOTAL DE CARGOS |30 | |
+| SMDE |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 4 | SMDE.DAM1.L.001 a SMDE.DAM1.L.004 |
+|  | AMPLO | 3 | SMDE.DAM1.A.001 a SMDE.DAM1.A.003 |
+| DAM-2 | LIMITADO | 1 | SMDE.DAM2.L.001 |
+|  | AMPLO | 1 | SMDE.DAM2.A.001 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 6 | SMDE.DAM3.A.001 a SMDE.DAM3.A.006 |
+| DAM-4 | LIMITADO | 2 | SMDE.DAM4.L.001 a SMDE.DAM4.L.002 |
+|  | AMPLO | 7 | SMDE.DAM4.A.001 a SMDE.DAM4.A.007 |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-6 | LIMITADO | 1 | SMDE.DAM6.L.001 |
+|  | AMPLO | 0 | - |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 2 | SMDE.DAM8.A.001 a SMDE.DAM8.A.002 |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 2 | SMDE.FCA5.001 a SMDE.FCA5.002 |
+| FCA-6 | LIMITADO | 1 | SMDE.FCA6.001 |
+| TOTAL DE CARGOS | 30 |  |  |
 
 ”

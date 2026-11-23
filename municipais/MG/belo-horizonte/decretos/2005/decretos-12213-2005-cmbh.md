@@ -58,42 +58,30 @@ Descrição:
 
 URNAS
 
-|"B" ADULTO |R$177,00 |
-
-|"B" MENOR |R$166,50 |
-
-|"A" ADULTO |R$193,00 |
-
-|"A" MENOR |R$184,80 |
-
-|ESPECIAL |R$319,30 |
-
-|EXTRA |R$591,90 |
-
-|EXTRA ESPECIAL |R$1.292,00 |
-
-|SUPER EXTRA |R$2.701,00 |
-
-|SUPER LUXO |R$4.772,00 |
-
-|EXTRA HORIZONTE |R$4.903,00 |
+| "B" ADULTO | R$177,00 |
+| --- | --- |
+| "B" MENOR | R$166,50 |
+| "A" ADULTO | R$193,00 |
+| "A" MENOR | R$184,80 |
+| ESPECIAL | R$319,30 |
+| EXTRA | R$591,90 |
+| EXTRA ESPECIAL | R$1.292,00 |
+| SUPER EXTRA | R$2.701,00 |
+| SUPER LUXO | R$4.772,00 |
+| EXTRA HORIZONTE | R$4.903,00 |
 
 CAIXÕES
 
-|"C" ADULTO |R$145,00 |
-
-|"C" MENOR |R$96,00 |
-
-|"D" ADULTO |R$73,00 |
-
-|"D" MENOR |R$48,00 |
-
-|"E" ADULTO |R$68,00 |
-
-|"E" MENOR |R$42,00 |
+| "C" ADULTO | R$145,00 |
+| --- | --- |
+| "C" MENOR | R$96,00 |
+| "D" ADULTO | R$73,00 |
+| "D" MENOR | R$48,00 |
+| "E" ADULTO | R$68,00 |
+| "E" MENOR | R$42,00 |
 
 ESSAS
 
-|ESSA SIMPLES |R$42,00 |
-
-|ESSA LUXO |R$96,00 |
+| ESSA SIMPLES | R$42,00 |
+| --- | --- |
+| ESSA LUXO | R$96,00 |

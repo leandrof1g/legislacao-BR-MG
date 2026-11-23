@@ -222,9 +222,9 @@ A BHTRANS, a Superintendência de Desenvolvimento da Capital - SUDECAP - e a Sec
 
 Fica alterada a classificação viária abaixo relacionada.
 
-|Folha |Quadrícula |Logradouro |Alteração |
-
-|33 |4853 |Rua Grande Otelo |classificar como coletora entre Rua Coletora A e Avenida João XXIII |
+| Folha | Quadrícula | Logradouro | Alteração |
+| --- | --- | --- | --- |
+| 33 | 4853 | Rua Grande Otelo | classificar como coletora entre Rua Coletora A e Avenida João XXIII |
 
 1.2 Estação Barreiro
 
@@ -262,25 +262,20 @@ Será assegurada a integração entre as estações de ônibus, do trem metropol
 
 Fica alterada a classificação viária abaixo relacionada:
 
-|Folha |Quadrícula |Logradouro |Alteração |
-
-|51 |4545 |Rua Boaventura Costa |classificar como coletora entre os trilhos da RFFSA e a |
-
-| | | |Avenida Afonso Vaz de Melo |
+| Folha | Quadrícula | Logradouro | Alteração |
+| --- | --- | --- | --- |
+| 51 | 4545 | Rua Boaventura Costa | classificar como coletora entre os trilhos da RFFSA e a |
+|  |  |  | Avenida Afonso Vaz de Melo |
 
 Fica alterada a classificação viária abaixo relacionada:
 
-|Folha |Quadrícula |Logradouro |Alteração |
-
-|51 |4545 |Rua Boaventura Costa |Fica classificada como coletora | |
-
-| | |(cód. 009802) |entre os trilhos da RFFSA e a | |
-
-| | | |Avenida Afonso Vaz de Melo, com | |
-
-| | | |largura de 15m, entre as quadras | |
-
-| | | |de cód. CTM 89 e 76 | |
+| Folha | Quadrícula | Logradouro | Alteração |  |
+| --- | --- | --- | --- | --- |
+| 51 | 4545 | Rua Boaventura Costa | Fica classificada como coletora |  |
+|  |  | (cód. 009802) | entre os trilhos da RFFSA e a |  |
+|  |  |  | Avenida Afonso Vaz de Melo, com |  |
+|  |  |  | largura de 15m, entre as quadras |  |
+|  |  |  | de cód. CTM 89 e 76 |  |
 
 Item 1.2.3 com redação dada pela Lei nº 8.294, de 31/12/2001 (Art. 2º)
 
@@ -358,21 +353,15 @@ Com o objetivo de melhorar o desempenho operacional da estação, será constru�
 
 Ficam alteradas as classificações viárias abaixo relacionadas.
 
-|Folha |Quadrícula |Logradouro |Alterações |
-
-|57 |4543/4542 |R. José Furtado Nunes |classificar como coletora entre Avenida João Rolla Filho e Rua |
-
-| | | |Professor Frederico Rangel |
-
-|57 |4543/4542 |R. do Torno |classificar como coletora entre ruas da Olaria e José Furtado Nunes|
-
-|57 |4543/4542 |Av. João Rolla Filho |classificar como coletora entre Avenida Waldyr Soeiro Emrich e Rua |
-
-| | | |José Furtado Nunes |
-
-|57 |4543/4542 |R. Prof. Frederico Rangel |classificar como coletora entre Rua do Torno e Rua José Furtado |
-
-| | | |Nunes |
+| Folha | Quadrícula | Logradouro | Alterações |
+| --- | --- | --- | --- |
+| 57 | 4543/4542 | R. José Furtado Nunes | classificar como coletora entre Avenida João Rolla Filho e Rua |
+|  |  |  | Professor Frederico Rangel |
+| 57 | 4543/4542 | R. do Torno | classificar como coletora entre ruas da Olaria e José Furtado Nunes |
+| 57 | 4543/4542 | Av. João Rolla Filho | classificar como coletora entre Avenida Waldyr Soeiro Emrich e Rua |
+|  |  |  | José Furtado Nunes |
+| 57 | 4543/4542 | R. Prof. Frederico Rangel | classificar como coletora entre Rua do Torno e Rua José Furtado |
+|  |  |  | Nunes |
 
 1.6 Estação Dom Bosco
 
@@ -392,13 +381,11 @@ O projeto da estação e do empreendimento empresarial tem como diretriz básica
 
 Ficam alteradas as classificações viárias abaixo relacionadas.
 
-|Folha |Quadrícula |Logradouro |Alteração |
-
-|33 |4751/4752 |R. Olinto Magalhães |classificar como coletora entre Rua Guaiana e Brigadeiro Eduardo Gomes |
-
-|33 |4751/4752 |R. Marataízes |classificar como coletora entre Rua Olinto Magalhães e Avenida Ivaí |
-
-|33 |4751/4752 |R. Guaiana |classificar como coletora entre Rua Olinto Magalhães e Av. Ivaí |
+| Folha | Quadrícula | Logradouro | Alteração |
+| --- | --- | --- | --- |
+| 33 | 4751/4752 | R. Olinto Magalhães | classificar como coletora entre Rua Guaiana e Brigadeiro Eduardo Gomes |
+| 33 | 4751/4752 | R. Marataízes | classificar como coletora entre Rua Olinto Magalhães e Avenida Ivaí |
+| 33 | 4751/4752 | R. Guaiana | classificar como coletora entre Rua Olinto Magalhães e Av. Ivaí |
 
 1.6.4 Novo parâmetro urbanístico
 
@@ -428,9 +415,9 @@ Além do licenciamento ambiental, deverá o empreendimento ser submetido e aprov
 
 Fica alterada a classificação viária abaixo relacionada.
 
-|Folha |Quadrícula |Logradouro |Alteração |
-
-|14 |5059 |R. Cheik Nagib Assrauy |classificar como arterial entre as avenidas Portugal e Dom Pedro I |
+| Folha | Quadrícula | Logradouro | Alteração |
+| --- | --- | --- | --- |
+| 14 | 5059 | R. Cheik Nagib Assrauy | classificar como arterial entre as avenidas Portugal e Dom Pedro I |
 
 1.7.4 Novos parâmetros urbanísticos
 
@@ -478,11 +465,10 @@ O projeto da estação incluirá solução para acesso não só dos usuários do
 
 Fica alterada a classificação viária abaixo relacionada.
 
-|Folha |Quadrícula |Logradouro |Ajuste proposto |
-
-|45 |4947 |R. Felicíssimo |classificar como coletora entre Ruas Carmo da Cachoeira e das Flores |
-
-|45 |4947 |R. das Flores |classificar como coletora entre Rua Felicíssimo e Avenida Teresa Cristina |
+| Folha | Quadrícula | Logradouro | Ajuste proposto |
+| --- | --- | --- | --- |
+| 45 | 4947 | R. Felicíssimo | classificar como coletora entre Ruas Carmo da Cachoeira e das Flores |
+| 45 | 4947 | R. das Flores | classificar como coletora entre Rua Felicíssimo e Avenida Teresa Cristina |
 
 1.9 Estação Venda Nova
 
@@ -502,11 +488,10 @@ Será recuado o alinhamento das ruas da área em torno da estação, de acordo c
 
 Fica alterada a classificação viária abaixo relacionada.
 
-|Folha |Quadrícula |Logradouro |Alteração |
-
-|8 |5063 |Rua Apatita |classificar como coletora entre as ruas Antônio Rodrigues Fróes e Água Marinha|
-
-|8 |5063 |Rua Água Marinha |classificar como coletora entre as ruas Apatita e Farmacêutico Raul Machado. |
+| Folha | Quadrícula | Logradouro | Alteração |
+| --- | --- | --- | --- |
+| 8 | 5063 | Rua Apatita | classificar como coletora entre as ruas Antônio Rodrigues Fróes e Água Marinha |
+| 8 | 5063 | Rua Água Marinha | classificar como coletora entre as ruas Apatita e Farmacêutico Raul Machado. |
 
 1.9.4 Novos parâmetros urbanísticos
 
@@ -540,13 +525,11 @@ O sistema viário da área em torno receberá tratamento para viabilizar, em con
 
 Fica alterada a classificação viária abaixo relacionada.
 
-|Folha |Quadrícula |Logradouro |Alteração |
-
-|15 |5359/5358 |Rua Treze |classificar como coletora entre Avenida Waldomiro Lobo e Rua Vinte e Três |
-
-|15 |5359/5358 |Rua Um |classificar como coletora entre Ruas Padre Antônio Araújo e João Lopes de Oliveira |
-
-|22 |5358 |Rua Vinte e Três |classificar como coletora entre Avenida Cristiano Machado e Rua Um |
+| Folha | Quadrícula | Logradouro | Alteração |
+| --- | --- | --- | --- |
+| 15 | 5359/5358 | Rua Treze | classificar como coletora entre Avenida Waldomiro Lobo e Rua Vinte e Três |
+| 15 | 5359/5358 | Rua Um | classificar como coletora entre Ruas Padre Antônio Araújo e João Lopes de Oliveira |
+| 22 | 5358 | Rua Vinte e Três | classificar como coletora entre Avenida Cristiano Machado e Rua Um |
 
 2- Mapas das Estações
 

@@ -28,13 +28,14 @@ O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 10
 
 **Art.1º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura de Belo Horizonte, em favor do Fundo Municipal de Saúde – FMSA, Crédito Suplementar no valor de R$4.185.000,00 (quatro milhões, cento e oitenta e cinco mil reais), nas seguintes dotações orçamentárias:
 
-|2302.10.301.157.2.690.3390.0350 |185.000,00 |
-
-|2302.10.302.203.2.894.3390.0300 |4.000.000,00 |
+| 2302.10.301.157.2.690.3390.0350 | 185.000,00 |
+| --- | --- |
+| 2302.10.302.203.2.894.3390.0300 | 4.000.000,00 |
 
 **Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial da seguinte dotação orçamentária, no valor de R$4.185.000,00 (quatro milhões, cento e oitenta e cinco mil reais):
 
-|2302.10.302.201.2.896.4490.0450 |4.185.000,00 |
+| 2302.10.302.201.2.896.4490.0450 | 4.185.000,00 |
+| --- | --- |
 
 **Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
 

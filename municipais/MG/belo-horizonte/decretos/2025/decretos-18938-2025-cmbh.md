@@ -62,25 +62,17 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º do art.|R$ |
-
-|43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei nº 11.742, de 13 de | |
-
-|setembro de 2024: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2933.339030.2.700.000 |69.475,95 |
-
-|3000.27.812.0101.2933.339039.2.700.000 |60.000,00 |
-
-|Fundo Municipal de Cultura – FPC |
-
-|3101.13.392.0170.2369.339036.2.749.778 |234.843,43 |
-
-|3101.13.392.0170.2369.339039.2.749.778 |265.156,57 |
-
-|TOTAL DA SUPLEMENTAÇÃO |629.475,95 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º do art. | R$ |
+| --- | --- |
+| 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei nº 11.742, de 13 de |  |
+| setembro de 2024: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2933.339030.2.700.000 | 69.475,95 |
+| 3000.27.812.0101.2933.339039.2.700.000 | 60.000,00 |
+| Fundo Municipal de Cultura – FPC |  |
+| 3101.13.392.0170.2369.339036.2.749.778 | 234.843,43 |
+| 3101.13.392.0170.2369.339039.2.749.778 | 265.156,57 |
+| TOTAL DA SUPLEMENTAÇÃO | 629.475,95 |
 
 ANEXO II
 

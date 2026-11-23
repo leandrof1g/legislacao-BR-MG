@@ -58,21 +58,15 @@ ANEXO
 
 (a que se refere o § 2º do art. 1º do Decreto nº 17.798, de 14 de dezembro de 2021)
 
-|Saída do Recurso |
-
-|Fonte |Banco |Agência |Conta Bancária |R$ |
-
-|00/1.17 |104 |0093-0 |265-4 |R$142.146.719,61 |
-
-|Total Saída: | | | |R$142.146.719,61 |
-
-|Entrada do Recurso |
-
-|Fonte |Banco |Agência |Conta Bancária |R$ |
-
-|00/2.17 |104 |0093-0 |265-4 |R$142.146.719,61 |
-
-|Total Entrada: | | | |R$142.146.719,61 |
+| Saída do Recurso |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Fonte | Banco | Agência | Conta Bancária | R$ |
+| 00/1.17 | 104 | 0093-0 | 265-4 | R$142.146.719,61 |
+| Total Saída: |  |  |  | R$142.146.719,61 |
+| Entrada do Recurso |  |  |  |  |
+| Fonte | Banco | Agência | Conta Bancária | R$ |
+| 00/2.17 | 104 | 0093-0 | 265-4 | R$142.146.719,61 |
+| Total Entrada: |  |  |  | R$142.146.719,61 |
 
 ## Observações da CMBH
 

@@ -2288,39 +2288,28 @@ Anexo Único revogado pelo Decreto nº 18.253, de 6/2/2023 (Art. 18, I)
 
 A – GRUPOS
 
-|GRUPO |INTEGRANTES |
-
-|A |Prefeito e Vice-Prefeito |
-
-|B |Outros agentes públicos de 1º e 2º graus hierárquicos |
-
-|B |Membros da Direção Superior Municipal. |
-
-| |Grupo B com redação dada pelo Decreto nº 16.736, de 5/10/2017 (Art. 46) |
-
-|C |Gerentes e equivalentes, consultores e equivalentes da Administração Direta e diretores e chefias da Administração |
-
-| |Indireta |
-
-|C |Diretores, Gerentes e Chefias. |
-
-| |Grupo C com redação dada pelo Decreto nº 16.736, de 5/10/2017 (Art. 46) |
-
-|D |Servidores e empregados |
+| GRUPO | INTEGRANTES |
+| --- | --- |
+| A | Prefeito e Vice-Prefeito |
+| B | Outros agentes públicos de 1º e 2º graus hierárquicos |
+| B | Membros da Direção Superior Municipal. |
+|  | Grupo B com redação dada pelo Decreto nº 16.736, de 5/10/2017 (Art. 46) |
+| C | Gerentes e equivalentes, consultores e equivalentes da Administração Direta e diretores e chefias da Administração |
+|  | Indireta |
+| C | Diretores, Gerentes e Chefias. |
+|  | Grupo C com redação dada pelo Decreto nº 16.736, de 5/10/2017 (Art. 46) |
+| D | Servidores e empregados |
 
 B – VIAGENS NACIONAIS
 
-|GRUPO |HOSPEDAGEM |TRANSLADO |ALIMENTAÇÃO |TRANSPORTE URBANO |
+| GRUPO | HOSPEDAGEM | TRANSLADO | ALIMENTAÇÃO | TRANSPORTE URBANO |
+| --- | --- | --- | --- | --- |
+| A | R$ 250,00 | R$ 50,00 | R$ 150,00 | R$ 60,00 |
+| B | R$ 200,00 | R$ 50,00 | R$ 120,00 | R$ 60,00 |
+| C | R$ 170,00 | R$ 50,00 | R$ 100,00 | R$ 50,00 |
+| D | R$ 130,00 | R$ 50,00 | R$ 80,00 | R$ 50,00 |
 
-|A |R$ 250,00 |R$ 50,00 |R$ 150,00 |R$ 60,00 |
-
-|B |R$ 200,00 |R$ 50,00 |R$ 120,00 |R$ 60,00 |
-
-|C |R$ 170,00 |R$ 50,00 |R$ 100,00 |R$ 50,00 |
-
-|D |R$ 130,00 |R$ 50,00 |R$ 80,00 |R$ 50,00 |
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Anexo Único acrescentado pelo Decreto nº 12.746, de 27/6/2007 (Art. 14)
 

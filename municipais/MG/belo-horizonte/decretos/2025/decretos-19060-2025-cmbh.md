@@ -72,37 +72,23 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei | |
-
-|nº 11.742, de 13 de setembro de 2024: | |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0226.2792.339048.2.665.000 |1.950.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.391.0155.2375.449093.2.701.000 |30.094,15 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.0146.2900.339039.2.501.784 |80.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1330.449051.2.752.000 |24.000.000,00 |
-
-|2700.15.451.0233.1396.449051.2.752.000 |39.000.000,00 |
-
-|2700.15.451.0233.1396.449051.2.704.000 |2.000.000,00 |
-
-|2700.15.451.0233.1396.449051.2.708.000 |6.100.000,00 |
-
-|2700.15.451.0233.1396.449051.2.750.000 |2.900.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |76.060.094,15 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024: |  |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0226.2792.339048.2.665.000 | 1.950.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.391.0155.2375.449093.2.701.000 | 30.094,15 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.0146.2900.339039.2.501.784 | 80.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1330.449051.2.752.000 | 24.000.000,00 |
+| 2700.15.451.0233.1396.449051.2.752.000 | 39.000.000,00 |
+| 2700.15.451.0233.1396.449051.2.704.000 | 2.000.000,00 |
+| 2700.15.451.0233.1396.449051.2.708.000 | 6.100.000,00 |
+| 2700.15.451.0233.1396.449051.2.750.000 | 2.900.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 76.060.094,15 |
 
 ANEXO II
 

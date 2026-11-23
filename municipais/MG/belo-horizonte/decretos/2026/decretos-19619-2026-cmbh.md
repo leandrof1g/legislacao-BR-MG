@@ -66,35 +66,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0317.1334.449040.2.751.000 |249,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0309.2792.339193.2.665.000 |9.741.356,70 |
-
-|2704.16.482.0066.2954.449039.2.710.620 |298.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.2.710.610 |200.000,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|3503.26.452.0060.2567.449052.2.501.784 |58.600,00 |
-
-|3503.26.452.0060.2567.339030.2.501.784 |50.000,00 |
-
-|3503.26.452.0060.2567.449051.2.501.784 |237.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |10.585.205,70 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0317.1334.449040.2.751.000 | 249,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0309.2792.339193.2.665.000 | 9.741.356,70 |
+| 2704.16.482.0066.2954.449039.2.710.620 | 298.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.2.710.610 | 200.000,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3503.26.452.0060.2567.449052.2.501.784 | 58.600,00 |
+| 3503.26.452.0060.2567.339030.2.501.784 | 50.000,00 |
+| 3503.26.452.0060.2567.449051.2.501.784 | 237.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 10.585.205,70 |
 
 ANEXO II
 
@@ -142,26 +129,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 606.454.845,90 |
-
-|Valor do decreto publicado nesta data |R$ 10.585.205,70 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 617.040.051,60 |
-
-|Saldo atual de créditos suplementares |R$ 1.875.395.016,00 |
-
-|Percentual utilizado |24,76% |
-
-|Atualizado em 09/06/2026 às 09:55:50 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 606.454.845,90 |
+| Valor do decreto publicado nesta data | R$ 10.585.205,70 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 617.040.051,60 |
+| Saldo atual de créditos suplementares | R$ 1.875.395.016,00 |
+| Percentual utilizado | 24,76% |
+| Atualizado em 09/06/2026 às 09:55:50 |  |

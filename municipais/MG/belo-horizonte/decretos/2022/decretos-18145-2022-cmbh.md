@@ -58,27 +58,21 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Crédito adicional especial suplementando a seguinte dotação orçamentária a que se refere o art. 1º:
 
-| I.1.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, |R$ |
-
-|conforme autorização contida no art. 7º da Lei nº 11.314, de 5 de | |
-
-|outubro de 2021, e dispositivos do art. 1º da Lei nº 11.422, de 27 de | |
-
-|outubro de 2022: | |
-
-|1011.08.244.172.1.402.3390.0000 |29.917.857,69 |
-
-|TOTAL DA SUPLEMENTAÇÃO |29.917.857,69 |
+| I.1.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, | R$ |
+| --- | --- |
+| conforme autorização contida no art. 7º da Lei nº 11.314, de 5 de |  |
+| outubro de 2021, e dispositivos do art. 1º da Lei nº 11.422, de 27 de |  |
+| outubro de 2022: |  |
+| 1011.08.244.172.1.402.3390.0000 | 29.917.857,69 |
+| TOTAL DA SUPLEMENTAÇÃO | 29.917.857,69 |
 
 I.2 – Anulação parcial da seguinte dotação orçamentária do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1 |R$ |
-
-|da tabela anterior: | |
-
-|3302.26.452.060.2.910.3360.0000 |29.917.857,69 |
-
-|TOTAL DA ANULAÇÃO |29.917.857,69 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1 | R$ |
+| --- | --- |
+| da tabela anterior: |  |
+| 3302.26.452.060.2.910.3360.0000 | 29.917.857,69 |
+| TOTAL DA ANULAÇÃO | 29.917.857,69 |
 
 ANEXO II
 
@@ -102,18 +96,12 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 7º da Lei nº 11.314, de 5 de outubro de 2021:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO |
-
-|Art. 7º da Lei nº 11.314, de 05/10/2021 – Crédito Especial – Programa Auxílio BH |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|Limite total autorizado |R$ 239.556.672,00 |
-
-|Valor do crédito especial aberto em 2021 e 2022 |R$ 133.826.344,09 |
-
-|Saldo de crédito especial |R$ 105.730.327,91 |
-
-|Percentual utilizado |55,86% |
-
-|Atualizado em 03/11/2022 às 11:04:03 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.314, de 05/10/2021 – Crédito Especial – Programa Auxílio BH |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| Limite total autorizado | R$ 239.556.672,00 |
+| Valor do crédito especial aberto em 2021 e 2022 | R$ 133.826.344,09 |
+| Saldo de crédito especial | R$ 105.730.327,91 |
+| Percentual utilizado | 55,86% |
+| Atualizado em 03/11/2022 às 11:04:03 |  |

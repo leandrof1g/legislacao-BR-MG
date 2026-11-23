@@ -32,11 +32,10 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 C - Dias comemorativos de março:
 
-|DATA |COMEMORAÇÃO |
-
-|27/3 |Dia Municipal de Conscientização da Prevenção ao Câncer |
-
-| |Colorretal e Gástrico |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 27/3 | Dia Municipal de Conscientização da Prevenção ao Câncer |
+|  | Colorretal e Gástrico |
 
 .”.
 

@@ -80,4 +80,5 @@ ANEXO ÚNICO
 
 FICHA DE INFORMAÇÕES DE ATIVIDADE INSTALADA NA ADE CIDADE JARDIM EM CONFORMIDADE COM O § 1º DO ART. 14.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

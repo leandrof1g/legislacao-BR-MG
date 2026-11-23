@@ -28,21 +28,19 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 1º** - Fica alterado o quantitativo do emprego público de Agente de Combate a Endemias I, constante do quadro que integra o § 4º do art. 1º da Lei nº 9.490, de 14 de janeiro de 2008, nos seguintes termos:
 
-|EMPREGO PÚBLICO |QUANTITATIVO |
-
-|Agente de Combate a Endemias I |1.574 |
+| EMPREGO PÚBLICO | QUANTITATIVO |
+| --- | --- |
+| Agente de Combate a Endemias I | 1.574 |
 
 **Art. 2º** - Fica alterado o número de cargos públicos efetivos de Enfermeiro, Técnico de Serviços de Saúde e Técnico Superior de Saúde, constante do Anexo I da Lei nº 7.238, de 30 de dezembro de 1996, nos seguintes termos:
 
 “ANEXO I
 
-|CARGOS |NÚMERO DE CARGOS |
-
-|Técnico Superior de Saúde |1.584 |
-
-|Técnico de Serviços de Saúde |1.603 |
-
-|Enfermeiro |1.418 |
+| CARGOS | NÚMERO DE CARGOS |
+| --- | --- |
+| Técnico Superior de Saúde | 1.584 |
+| Técnico de Serviços de Saúde | 1.603 |
+| Enfermeiro | 1.418 |
 
 **Art. 3º** - Para atender ao disposto nesta lei, fica o Poder Executivo autorizado a adaptar seus instrumentos de planejamento financeiro e, nos termos dos arts. 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17 de março de 1964, a abrir crédito adicional no valor de R$29.011.853,35 (vinte e nove milhões, onze mil, oitocentos e cinquenta e três reais e trinta e cinco centavos) ao orçamento corrente, bem como reabri-lo pelo seu saldo para o exercício seguinte.
 

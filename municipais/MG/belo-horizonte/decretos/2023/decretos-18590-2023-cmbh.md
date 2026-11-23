@@ -1001,8 +1001,8 @@ ANEXO
 (a que se refere o art. 64 do Decreto nº 18.590, de 28 de dezembro de 2023)
 
 | Seção V – Do evento |
-
-|104 |
+| --- |
+| 104 |
 
 247 |Realizar evento sem licença, em propriedade privada ou pública. |Arts. 227, caput e § 1º, 325 e 325-A;
 

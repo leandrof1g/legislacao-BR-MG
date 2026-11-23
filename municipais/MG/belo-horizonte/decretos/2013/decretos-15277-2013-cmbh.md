@@ -160,72 +160,39 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|ATIVIDADE ORDINÁRIA/ PRODUTO DE AUDITORIA/NÍVEIS |Jornada de 8 (oito) |Jornada de 6 (seis) |
-
-| |horas diárias |horas diárias |
-
-|PRODUTO PRELIMINAR (Incisos I e II do art. 5º) |Ponto por Dia* |% |Total de Pontos |Ponto por dia** |% |Total de Pontos |
-
-|Nível I |253,97 |100,00 |507,94 |190,48 |100,00 |507,94 |
-
-|Nível II |253,97 |100,00 |1.015,87 |190,48 |100,00 |1.015,87 |
-
-|Nível III |253,97 |100,00 |1.523,81 |190,48 |100,00 |1.523,81 |
-
-|Nível IV |253,97 |100,00 |2.031,75 |190,48 |100,00 |2.031,75 |
-
-|Nível V |253,97 |100,00 |2.539,69 |190,48 |100,00 |2.539,69 |
-
-|PRODUTO CONCLUSIVO (§ 2º do art. 5º) |Ponto por Dia |% |Total de Pontos |Ponto por dia |% |Total de Pontos |
-
-|Nível I |253,97 |60,00 |304,76 |190,48 |60,00 |304,76 |
-
-|Nível II |253,97 |60,00 |609,52 |190,48 |60,00 |609,52 |
-
-|Nível III |253,97 |60,00 |914,29 |190,48 |60,00 |914,29 |
-
-|Nível IV |253,97 |60,00 |1.209,05 |190,48 |60,00 |1.209,05 |
-
-|Nível V |253,97 |60,00 |1.523,81 |190,48 |60,00 |1.523,81 |
-
-|PRODUTO DE MONITORAMENTO (§ 2º do art. 5º) |Ponto por Dia |% |Total de Pontos |Ponto por dia |% |Total de Pontos |
-
-|Nível I |253,97 |40,00 |203,17 |190,48 |40,00 |203,17 |
-
-|Nível II |253,97 |40,00 |406,35 |190,48 |40,00 |406,35 |
-
-|Nível III |253,97 |40,00 |609,52 |190,48 |40,00 |609,52 |
-
-|Nível IV |253,97 |40,00 |812,70 |190,48 |40,00 |812,70 |
-
-|Nível V |253,97 |40,00 |1.015,87 |190,48 |40,00 |1.015,87 |
-
-|REVISÃO DE CONCLUSIVO (§ 3º do art. 5º) |Ponto por Dia |% |Total de Pontos |Ponto por dia |% |Total de Pontos |
-
-|Nível I |253,97 |20,00 |60,95 |190,48 |20,00 |60,95 |
-
-|Nível II |253,97 |20,00 |121,90 |190,48 |20,00 |121,90 |
-
-|Nível III |253,97 |20,00 |182,86 |190,48 |20,00 |182,86 |
-
-|Nível IV |253,97 |20,00 |243,81 |190,48 |20,00 |243,81 |
-
-|Nível V |253,97 |20,00 |304,76 |190,48 |20,00 |304,76 |
-
-|REVISÃO DE MONITORAMENTO |Ponto por Dia |% |Total de Pontos |Ponto por dia |% |Total de Pontos |
-
-|(§3º do art. 5º) | | | | | | |
-
-|Nível l |253,97 |20,00 |40,63 |190,48 |20,00 |40,63 |
-
-|Nível ll |253,97 |20,00 |81,27 |190,48 |20,00 |81,27 |
-
-|Nível lll |253,97 |20,00 |121,90 |190,48 |20,00 |121,90 |
-
-|Nível IV |253,97 |20,00 |162,54 |190,48 |20,00 |162,54 |
-
-|Nível V |253,97 |20,00 |203,17 |190,48 |20,00 |203,17 |
-
-|PRODUTO EXTRAORDINÁRIO |
-
-|(§ 8º do art. 5º) |
+| ATIVIDADE ORDINÁRIA/ PRODUTO DE AUDITORIA/NÍVEIS | Jornada de 8 (oito) | Jornada de 6 (seis) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | horas diárias | horas diárias |  |  |  |  |
+| PRODUTO PRELIMINAR (Incisos I e II do art. 5º) | Ponto por Dia* | % | Total de Pontos | Ponto por dia** | % | Total de Pontos |
+| Nível I | 253,97 | 100,00 | 507,94 | 190,48 | 100,00 | 507,94 |
+| Nível II | 253,97 | 100,00 | 1.015,87 | 190,48 | 100,00 | 1.015,87 |
+| Nível III | 253,97 | 100,00 | 1.523,81 | 190,48 | 100,00 | 1.523,81 |
+| Nível IV | 253,97 | 100,00 | 2.031,75 | 190,48 | 100,00 | 2.031,75 |
+| Nível V | 253,97 | 100,00 | 2.539,69 | 190,48 | 100,00 | 2.539,69 |
+| PRODUTO CONCLUSIVO (§ 2º do art. 5º) | Ponto por Dia | % | Total de Pontos | Ponto por dia | % | Total de Pontos |
+| Nível I | 253,97 | 60,00 | 304,76 | 190,48 | 60,00 | 304,76 |
+| Nível II | 253,97 | 60,00 | 609,52 | 190,48 | 60,00 | 609,52 |
+| Nível III | 253,97 | 60,00 | 914,29 | 190,48 | 60,00 | 914,29 |
+| Nível IV | 253,97 | 60,00 | 1.209,05 | 190,48 | 60,00 | 1.209,05 |
+| Nível V | 253,97 | 60,00 | 1.523,81 | 190,48 | 60,00 | 1.523,81 |
+| PRODUTO DE MONITORAMENTO (§ 2º do art. 5º) | Ponto por Dia | % | Total de Pontos | Ponto por dia | % | Total de Pontos |
+| Nível I | 253,97 | 40,00 | 203,17 | 190,48 | 40,00 | 203,17 |
+| Nível II | 253,97 | 40,00 | 406,35 | 190,48 | 40,00 | 406,35 |
+| Nível III | 253,97 | 40,00 | 609,52 | 190,48 | 40,00 | 609,52 |
+| Nível IV | 253,97 | 40,00 | 812,70 | 190,48 | 40,00 | 812,70 |
+| Nível V | 253,97 | 40,00 | 1.015,87 | 190,48 | 40,00 | 1.015,87 |
+| REVISÃO DE CONCLUSIVO (§ 3º do art. 5º) | Ponto por Dia | % | Total de Pontos | Ponto por dia | % | Total de Pontos |
+| Nível I | 253,97 | 20,00 | 60,95 | 190,48 | 20,00 | 60,95 |
+| Nível II | 253,97 | 20,00 | 121,90 | 190,48 | 20,00 | 121,90 |
+| Nível III | 253,97 | 20,00 | 182,86 | 190,48 | 20,00 | 182,86 |
+| Nível IV | 253,97 | 20,00 | 243,81 | 190,48 | 20,00 | 243,81 |
+| Nível V | 253,97 | 20,00 | 304,76 | 190,48 | 20,00 | 304,76 |
+| REVISÃO DE MONITORAMENTO | Ponto por Dia | % | Total de Pontos | Ponto por dia | % | Total de Pontos |
+| (§3º do art. 5º) |  |  |  |  |  |  |
+| Nível l | 253,97 | 20,00 | 40,63 | 190,48 | 20,00 | 40,63 |
+| Nível ll | 253,97 | 20,00 | 81,27 | 190,48 | 20,00 | 81,27 |
+| Nível lll | 253,97 | 20,00 | 121,90 | 190,48 | 20,00 | 121,90 |
+| Nível IV | 253,97 | 20,00 | 162,54 | 190,48 | 20,00 | 162,54 |
+| Nível V | 253,97 | 20,00 | 203,17 | 190,48 | 20,00 | 203,17 |
+| PRODUTO EXTRAORDINÁRIO |  |  |  |  |  |  |
+| (§ 8º do art. 5º) |  |  |  |  |  |  |

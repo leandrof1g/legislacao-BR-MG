@@ -58,95 +58,55 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do |R$ |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.062.1.330.4490.0000 |11.768.895,00 |
-
-|2700.15.451.171.1.399.4490.0000 |1.228.875,00 |
-
-|2700.17.512.066.1.203.4490.0000 |2.055.000,00 |
-
-|2700.17.512.066.1.400.4490.0000 |1.405.000,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|2709.26.452.060.2.567.3190.0007 |17.000.000,00 |
-
-|2709.26.452.060.2.567.4490.0000 |500.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.089.3.137.3390.0000 |2.500.000,00 |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.09.272.026.3.004.3190.0000 |3.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |39.457.770,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do | R$ |
+| --- | --- |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.062.1.330.4490.0000 | 11.768.895,00 |
+| 2700.15.451.171.1.399.4490.0000 | 1.228.875,00 |
+| 2700.17.512.066.1.203.4490.0000 | 2.055.000,00 |
+| 2700.17.512.066.1.400.4490.0000 | 1.405.000,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 2709.26.452.060.2.567.3190.0007 | 17.000.000,00 |
+| 2709.26.452.060.2.567.4490.0000 | 500.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.089.3.137.3390.0000 | 2.500.000,00 |
+| Fundo Financeiro – FUFIN |  |
+| 0613.09.272.026.3.004.3190.0000 | 3.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 39.457.770,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.007.2.900.3190.0000 |1.000.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.301.109.2.803.3190.0000 |1.000.000,00 |
-
-|2100.12.361.109.2.803.3190.0000 |1.000.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.27.812.101.1.213.4490.0000 |227.700,00 |
-
-|2700.18.541.073.1.202.4490.0000 |125.000,00 |
-
-|2700.18.541.073.1.202.4490.0000 |698.000,00 |
-
-|2700.27.812.101.1.213.4490.0000 |822.687,00 |
-
-|2700.27.812.101.1.213.4490.0000 |49.095,00 |
-
-|2700.13.392.146.1.215.4490.0000 |215.101,00 |
-
-|2700.04.122.044.1.219.4490.0000 |1.959.764,00 |
-
-|2700.04.122.233.1.219.4490.0000 |495.000,00 |
-
-|2700.15.451.062.1.330.4490.0000 |94.000,00 |
-
-|2700.15.451.062.1.392.4490.0000 |2.248.582,00 |
-
-|2700.17.512.066.1.400.4490.0000 |770.000,00 |
-
-|2700.17.512.066.1.400.4491.0000 |3.279.074,00 |
-
-|2700.18.541.073.1.202.4490.0000 |141.478,00 |
-
-|2700.27.812.101.1.213.4490.0000 |240.000,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|2709.26.452.060.2.567.3390.0007 |17.000.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.091.3.501.3290.0000 |4.492.289,00 |
-
-|4001.28.844.091.3.089.3290.0000 |1.100.000,00 |
-
-|4001.28.844.091.3.089.4690.0000 |2.500.000,00 |
-
-|TOTAL DA ANULAÇÃO |39.457.770,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.007.2.900.3190.0000 | 1.000.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.301.109.2.803.3190.0000 | 1.000.000,00 |
+| 2100.12.361.109.2.803.3190.0000 | 1.000.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.27.812.101.1.213.4490.0000 | 227.700,00 |
+| 2700.18.541.073.1.202.4490.0000 | 125.000,00 |
+| 2700.18.541.073.1.202.4490.0000 | 698.000,00 |
+| 2700.27.812.101.1.213.4490.0000 | 822.687,00 |
+| 2700.27.812.101.1.213.4490.0000 | 49.095,00 |
+| 2700.13.392.146.1.215.4490.0000 | 215.101,00 |
+| 2700.04.122.044.1.219.4490.0000 | 1.959.764,00 |
+| 2700.04.122.233.1.219.4490.0000 | 495.000,00 |
+| 2700.15.451.062.1.330.4490.0000 | 94.000,00 |
+| 2700.15.451.062.1.392.4490.0000 | 2.248.582,00 |
+| 2700.17.512.066.1.400.4490.0000 | 770.000,00 |
+| 2700.17.512.066.1.400.4491.0000 | 3.279.074,00 |
+| 2700.18.541.073.1.202.4490.0000 | 141.478,00 |
+| 2700.27.812.101.1.213.4490.0000 | 240.000,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 2709.26.452.060.2.567.3390.0007 | 17.000.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.091.3.501.3290.0000 | 4.492.289,00 |
+| 4001.28.844.091.3.089.3290.0000 | 1.100.000,00 |
+| 4001.28.844.091.3.089.4690.0000 | 2.500.000,00 |
+| TOTAL DA ANULAÇÃO | 39.457.770,00 |
 
 ANEXO II
 
@@ -182,36 +142,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite de 15% do|Inciso I do § 1º do art. 4º, |Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |valor total do Orçamento: |limite de 15% do total do |4º, limite de 15% do total |
-
-|– Limites autorizados | |Orçamento do Grupo 1 – |do Orçamento do Fundo |
-
-|para abertura de | |Pessoal e Encargos Sociais: |Municipal de Saúde – FMS: |
-
-|créditos | | | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 2.207.497.174,55 |R$ 279.840.007,38 |R$ 636.716.261,40 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 93.653.511,10 |R$ 604.152.301,32 |R$ 90.500.891,25 |
-
-|suplementares | | | |
-
-|Percentual utilizado |95,93% |31,66% |87,56% |
-
-|Atualizado em 30/12/2022 às 07:38:37 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite de 15% do | Inciso I do § 1º do art. 4º, | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | valor total do Orçamento: | limite de 15% do total do | 4º, limite de 15% do total |
+| – Limites autorizados |  | Orçamento do Grupo 1 – | do Orçamento do Fundo |
+| para abertura de |  | Pessoal e Encargos Sociais: | Municipal de Saúde – FMS: |
+| créditos |  |  |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 2.207.497.174,55 | R$ 279.840.007,38 | R$ 636.716.261,40 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 93.653.511,10 | R$ 604.152.301,32 | R$ 90.500.891,25 |
+| suplementares |  |  |  |
+| Percentual utilizado | 95,93% | 31,66% | 87,56% |
+| Atualizado em 30/12/2022 às 07:38:37 |  |  |  |

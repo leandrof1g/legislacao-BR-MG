@@ -58,103 +58,59 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei |R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.122.0117.2662.339049.1.500.000 |3.777.523,00 |
-
-|2302.10.301.0157.2690.335043.1.621.000 |879.680,00 |
-
-|TOTAL |4.657.203,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1203.449051.1.759.000 |5.600.000,00 |
-
-|2700.18.541.0073.1202.449051.1.500.000 |49.996,00 |
-
-|2700.04.122.0233.1219.449051.1.500.000 |98.799,00 |
-
-|2700.04.122.0044.1219.449051.1.500.000 |120.000,00 |
-
-|2700.15.451.0062.1230.449051.2.752.000 |600.000,00 |
-
-|2700.15.451.0062.1230.449051.1.752.000 |6.600.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.331.0014.2710.339049.1.500.000 |91.000,00 |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |
-
-|2703.16.482.0007.2900.339046.1.500.000 |413.000,00 |
-
-|2703.16.482.0007.2900.449052.1.500.000 |1.051.000,00 |
-
-|TOTAL |14.623.795,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |19.280.998,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.122.0117.2662.339049.1.500.000 | 3.777.523,00 |
+| 2302.10.301.0157.2690.335043.1.621.000 | 879.680,00 |
+| TOTAL | 4.657.203,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1203.449051.1.759.000 | 5.600.000,00 |
+| 2700.18.541.0073.1202.449051.1.500.000 | 49.996,00 |
+| 2700.04.122.0233.1219.449051.1.500.000 | 98.799,00 |
+| 2700.04.122.0044.1219.449051.1.500.000 | 120.000,00 |
+| 2700.15.451.0062.1230.449051.2.752.000 | 600.000,00 |
+| 2700.15.451.0062.1230.449051.1.752.000 | 6.600.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.331.0014.2710.339049.1.500.000 | 91.000,00 |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |  |
+| 2703.16.482.0007.2900.339046.1.500.000 | 413.000,00 |
+| 2703.16.482.0007.2900.449052.1.500.000 | 1.051.000,00 |
+| TOTAL | 14.623.795,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 19.280.998,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.335043.1.621.000 |879.680,00 |
-
-|2302.10.122.0117.2895.339049.1.500.000 |68.777,00 |
-
-|2302.10.302.0114.2936.339049.1.500.000 |2.962.532,00 |
-
-|2302.10.304.0028.2829.339049.1.500.000 |538.227,00 |
-
-|2302.10.305.0028.2829.339049.1.500.000 |207.987,00 |
-
-|TOTAL |4.657.203,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0073.1202.449051.1.500.000 |120.000,00 |
-
-|2700.15.451.0233.1396.449051.1.500.000 |148.795,00 |
-
-|2700.17.512.0066.1400.449051.1.759.000 |1.600.000,00 |
-
-|2700.15.451.0062.1330.449051.2.752.000 |600.000,00 |
-
-|2700.17.512.0227.1403.449051.1.759.000 |2.000.000,00 |
-
-|2700.15.451.0062.1230.449051.1.759.000 |1.000.000,00 |
-
-|2700.17.512.0066.1400.449051.1.752.000 |6.600.000,00 |
-
-|2700.16.482.0227.1403.449051.1.759.000 |1.000.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.331.0014.2710.339008.1.500.000 |91.000,00 |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |
-
-|2703.16.482.0007.2900.319011.1.500.000 |1.464.000,00 |
-
-|TOTAL |14.623.795,00 |
-
-|TOTAL DA ANULAÇÃO |19.280.998,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.335043.1.621.000 | 879.680,00 |
+| 2302.10.122.0117.2895.339049.1.500.000 | 68.777,00 |
+| 2302.10.302.0114.2936.339049.1.500.000 | 2.962.532,00 |
+| 2302.10.304.0028.2829.339049.1.500.000 | 538.227,00 |
+| 2302.10.305.0028.2829.339049.1.500.000 | 207.987,00 |
+| TOTAL | 4.657.203,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0073.1202.449051.1.500.000 | 120.000,00 |
+| 2700.15.451.0233.1396.449051.1.500.000 | 148.795,00 |
+| 2700.17.512.0066.1400.449051.1.759.000 | 1.600.000,00 |
+| 2700.15.451.0062.1330.449051.2.752.000 | 600.000,00 |
+| 2700.17.512.0227.1403.449051.1.759.000 | 2.000.000,00 |
+| 2700.15.451.0062.1230.449051.1.759.000 | 1.000.000,00 |
+| 2700.17.512.0066.1400.449051.1.752.000 | 6.600.000,00 |
+| 2700.16.482.0227.1403.449051.1.759.000 | 1.000.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.331.0014.2710.339008.1.500.000 | 91.000,00 |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |  |
+| 2703.16.482.0007.2900.319011.1.500.000 | 1.464.000,00 |
+| TOTAL | 14.623.795,00 |
+| TOTAL DA ANULAÇÃO | 19.280.998,00 |
 
 ANEXO II
 
@@ -198,50 +154,31 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 4º, limite de 15% do valor|
-
-|abertura de créditos suplementares para o Fundo Municipal de |total do Orçamento: |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 3.398.071.195,95 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 156.796.479,32 |
-
-|Valor do Decreto publicado nesta data |R$ 4.657.203,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 161.453.682,32 |
-
-|Saldo atual de créditos suplementares |R$ 3.236.617.513,63 |
-
-|Percentual utilizado |4,75% |
-
-|Atualizado em 26/08/2025 às 11:22:20 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 4º, limite de 15% do valor |
+| abertura de créditos suplementares para o Fundo Municipal de | total do Orçamento: |
+| Saúde. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 3.398.071.195,95 |
+| Total de créditos suplementares abertos anteriormente | R$ 156.796.479,32 |
+| Valor do Decreto publicado nesta data | R$ 4.657.203,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 161.453.682,32 |
+| Saldo atual de créditos suplementares | R$ 3.236.617.513,63 |
+| Percentual utilizado | 4,75% |
+| Atualizado em 26/08/2025 às 11:22:20 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 507.993.518,68 |
-
-|Valor do Decreto publicado nesta data |R$ 14.623.795,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 522.617.313,68 |
-
-|Saldo atual de créditos suplementares |R$ 1.742.763.483,62 |
-
-|Percentual utilizado |23,07% |
-
-|Atualizado em 26/08/2025 às 11:23:03 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 507.993.518,68 |
+| Valor do Decreto publicado nesta data | R$ 14.623.795,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 522.617.313,68 |
+| Saldo atual de créditos suplementares | R$ 1.742.763.483,62 |
+| Percentual utilizado | 23,07% |
+| Atualizado em 26/08/2025 às 11:23:03 |  |

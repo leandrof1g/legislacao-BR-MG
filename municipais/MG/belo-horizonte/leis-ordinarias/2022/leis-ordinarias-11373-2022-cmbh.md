@@ -464,183 +464,96 @@ TABELAS DE VENCIMENTOS-BASE E SALÁRIOS-BASE DOS CARGOS E EMPREGOS PÚBLICOS EFE
 
 A - Tabela de vencimentos-base dos cargos de provimento efetivo da área de atividades de Engenharia e Arquitetura da administração direta do Poder Executivo, a partir de 1º de julho de 2022:
 
-|CARGOS |TABELA DE VENCIMENTOS-BASE — 30 HORAS SEMANAIS |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|CARGO |NÍVEL |
-
-| |
-
-|CARGO |NÍVEL |
-
-| |TRANSITÓRIO |
-
-| |NÍVEL |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |2 |
-
-| | |1 |
-
-| | |1 |
-
-| | |1 |
-
-| | |1 |
-
-| | |
-
-| |NÍVEL |
-
-| |TRANSITÓRIO |5|
-
-| |NÍVEL | |
-
-| |1 |2|
-
-| |NÍVEL | |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|CARGO |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|CARGO |NÍVEL |
-
-| |
-
-|CARGO |NÍVEL |
-
-| |TRANSITÓRIO |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |2|
-
-| |NÍVEL | |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|CARGO |DAM-UNITÁRIO |VENCIMENTO |COMPLEMENTAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |REMUNERAÇÃO TOTAL |
-
-|DAM-1 |1 |321,38 |417,47 |738,85 |1.477,71 |
-
-|DAM-2 |1,5 |321,39 |786,90 |1.108,29 |2.216,58 |
-
-|DAM-3 |2 |348,60 |1.129,12 |1.477,72 |2.955,44 |
-
-|DAM-4 |3 |435,89 |1.780,69 |2.216,58 |4.433,15 |
-
-|DAM-5 |4 |908,24 |2.047,19 |2.955,44 |5.910,87 |
-
-|DAM-6 |5 |908,24 |2.786,05 |3.694,29 |7.388,59 |
-
-|DAM-7 |6 |908,24 |3.524,91 |4.433,15 |8.866,31 |
-
-|DAM-8 |7 |908,24 |4.263,77 |5.172,01 |10.344,02 |
-
-|DAM-9 |8 |908,24 |5.002,63 |5.910,87 |11.821,74 |
-
-|A partir de 1º de novembro de 2022 |
-
-|CARGO |DAM-UNITÁRIO |VENCIMENTO |COMPLEMENTAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |REMUNERAÇÃO TOTAL |
-
-|DAM -1 |1 |342,11 |444,40 |786,51 |1.573,02 |
-
-|DAM-2 |1,5 |342,12 |837,66 |1.179,77 |2.359,55 |
-
-|DAM-3 |2 |371,08 |1.201,95 |1.573,03 |3.146,06 |
-
-|DAM-4 |3 |464,01 |1.895,54 |2.359,55 |4.719,09 |
-
-|DAM-5 |4 |966,82 |2.179,24 |3.146,06 |6.292,12 |
-
-|DAM-6 |5 |966,82 |2.965,75 |3.932,58 |7.865,15 |
-
-|DAM-7 |6 |966,82 |3.752,27 |4.719,09 |9.438,18 |
-
-|DAM-8 |7 |966,82 |4.538,78 |5.505,61 |11.011,21 |
-
-|DAM-9 |8 |966,82 |5.325,30 |6.292,12 |12.584,24 |
+| CARGOS | TABELA DE VENCIMENTOS-BASE — 30 HORAS SEMANAIS |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  |  |  |  |  |  |
+| CARGO | NÍVEL |  |  |  |  |
+|  |  |  |  |  |  |
+| CARGO | NÍVEL |  |  |  |  |
+|  | TRANSITÓRIO |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | 1 | 2 |  |  |  |
+|  |  | 1 |  |  |  |
+|  |  | 1 |  |  |  |
+|  |  | 1 |  |  |  |
+|  |  | 1 |  |  |  |
+|  |  |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | TRANSITÓRIO | 5 |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 | 2 |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  |  |  |  |  |  |
+| CARGO | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  |  |  |  |  |  |
+| CARGO | NÍVEL |  |  |  |  |
+|  |  |  |  |  |  |
+| CARGO | NÍVEL |  |  |  |  |
+|  | TRANSITÓRIO |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 | 2 |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  |  |  |  |  |  |
+| CARGO | DAM-UNITÁRIO | VENCIMENTO | COMPLEMENTAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | REMUNERAÇÃO TOTAL |
+| DAM-1 | 1 | 321,38 | 417,47 | 738,85 | 1.477,71 |
+| DAM-2 | 1,5 | 321,39 | 786,90 | 1.108,29 | 2.216,58 |
+| DAM-3 | 2 | 348,60 | 1.129,12 | 1.477,72 | 2.955,44 |
+| DAM-4 | 3 | 435,89 | 1.780,69 | 2.216,58 | 4.433,15 |
+| DAM-5 | 4 | 908,24 | 2.047,19 | 2.955,44 | 5.910,87 |
+| DAM-6 | 5 | 908,24 | 2.786,05 | 3.694,29 | 7.388,59 |
+| DAM-7 | 6 | 908,24 | 3.524,91 | 4.433,15 | 8.866,31 |
+| DAM-8 | 7 | 908,24 | 4.263,77 | 5.172,01 | 10.344,02 |
+| DAM-9 | 8 | 908,24 | 5.002,63 | 5.910,87 | 11.821,74 |
+| A partir de 1º de novembro de 2022 |  |  |  |  |  |
+| CARGO | DAM-UNITÁRIO | VENCIMENTO | COMPLEMENTAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | REMUNERAÇÃO TOTAL |
+| DAM -1 | 1 | 342,11 | 444,40 | 786,51 | 1.573,02 |
+| DAM-2 | 1,5 | 342,12 | 837,66 | 1.179,77 | 2.359,55 |
+| DAM-3 | 2 | 371,08 | 1.201,95 | 1.573,03 | 3.146,06 |
+| DAM-4 | 3 | 464,01 | 1.895,54 | 2.359,55 | 4.719,09 |
+| DAM-5 | 4 | 966,82 | 2.179,24 | 3.146,06 | 6.292,12 |
+| DAM-6 | 5 | 966,82 | 2.965,75 | 3.932,58 | 7.865,15 |
+| DAM-7 | 6 | 966,82 | 3.752,27 | 4.719,09 | 9.438,18 |
+| DAM-8 | 7 | 966,82 | 4.538,78 | 5.505,61 | 11.011,21 |
+| DAM-9 | 8 | 966,82 | 5.325,30 | 6.292,12 | 12.584,24 |
 
 ANEXO XI
 
@@ -652,209 +565,131 @@ A partir de 1º de julho de 2022:
 
 A – Da Secretaria Municipal de Educação:
 
-|CARGO PÚBLICO EM COMISSÃO |VENCIMENTO-BASE |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO EXCLUSIVA | |
-
-|SECRETÁRIO ESCOLAR I |1.303,59 |569,23 |1.872,82 |
-
-|SECRETÁRIO ESCOLAR II |1.336,57 |889,00 |2.225,58 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL I |2.984,08 |1.976,49 |4.960,57 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL II |3.103,45 |2.272,96 |5.376,41 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL III|3.222,83 |2.569,44 |5.792,27 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL IV |3.346,05 |2.865,90 |6.211,95 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL V |3.469,26 |3.162,39 |6.631,65 |
-
-|DIRETOR DE ESCOLA MUNICIPAL I |3.222,81 |2.371,80 |5.594,61 |
-
-|DIRETOR DE ESCOLA MUNICIPAL II |3.346,05 |2.668,25 |6.014,30 |
-
-|DIRETOR DE ESCOLA MUNICIPAL III |3.469,26 |2.964,74 |6.434,00 |
-
-|DIRETOR DE ESCOLA MUNICIPAL IV |3.626,90 |3.261,21 |6.888,11 |
-
-|DIRETOR DE ESCOLA MUNICIPAL V |3.784,58 |3.557,68 |7.342,26 |
-
-|DIRETOR DE EMEI I |2.984,08 |1.976,49 |4.960,57 |
-
-|DIRETOR DE EMEI II |3.103,45 |2.272,96 |5.376,41 |
-
-|DIRETOR DE EMEI III |3.222,83 |2.569,44 |5.792,27 |
-
-|DIRETOR DE EMEI IV |3.342,22 |2.865,92 |6.208,14 |
-
-|DIRETOR DE EMEI V |3.461,61 |3.162,39 |6.624,00 |
-
-|VICE-DIRETOR DE EMEI I |2.855,15 |1.418,61 |4.273,77 |
-
-|VICE-DIRETOR DE EMEI II |2.973,38 |1.714,16 |4.687,54 |
-
-|VICE-DIRETOR DE EMEI III |3.091,60 |2.009,70 |5.101,30 |
-
-|VICE-DIRETOR DE EMEI IV |3.209,81 |2.305,24 |5.515,05 |
-
-|VICE-DIRETOR DE EMEI V |3.328,03 |2.600,79 |5.928,82 |
-
-|COORDENADOR PEDAGÓGICO GERAL I |2.855,15 |819,34 |3.674,49 |
-
-|COORDENADOR PEDAGÓGICO GERAL II |3.059,57 |1.092,44 |4.152,02 |
-
-|DIRETOR DE CENTRO DE APERFEIÇOAMENTO|3.784,57 |3.557,68 |7.342,25 |
-
-|PROFISSIONAL DA EDUCAÇÃO | | | |
-
-|VICE-DIRETOR DE CENTRO DE |3.469,26 |3.162,39 |6.631,65 |
-
-|APERFEIÇOAMENTO PROFISSIONAL DA | | | |
-
-|EDUCAÇÃO | | | |
-
-|COORDENADOR DE PROJETOS ESPECIAIS DA|2.124,73 |2.124,73 |4.249,46 |
-
-|EDUCAÇÃO | | | |
+| CARGO PÚBLICO EM COMISSÃO | VENCIMENTO-BASE | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO EXCLUSIVA |  |
+| SECRETÁRIO ESCOLAR I | 1.303,59 | 569,23 | 1.872,82 |
+| SECRETÁRIO ESCOLAR II | 1.336,57 | 889,00 | 2.225,58 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL I | 2.984,08 | 1.976,49 | 4.960,57 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL II | 3.103,45 | 2.272,96 | 5.376,41 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL III | 3.222,83 | 2.569,44 | 5.792,27 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL IV | 3.346,05 | 2.865,90 | 6.211,95 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL V | 3.469,26 | 3.162,39 | 6.631,65 |
+| DIRETOR DE ESCOLA MUNICIPAL I | 3.222,81 | 2.371,80 | 5.594,61 |
+| DIRETOR DE ESCOLA MUNICIPAL II | 3.346,05 | 2.668,25 | 6.014,30 |
+| DIRETOR DE ESCOLA MUNICIPAL III | 3.469,26 | 2.964,74 | 6.434,00 |
+| DIRETOR DE ESCOLA MUNICIPAL IV | 3.626,90 | 3.261,21 | 6.888,11 |
+| DIRETOR DE ESCOLA MUNICIPAL V | 3.784,58 | 3.557,68 | 7.342,26 |
+| DIRETOR DE EMEI I | 2.984,08 | 1.976,49 | 4.960,57 |
+| DIRETOR DE EMEI II | 3.103,45 | 2.272,96 | 5.376,41 |
+| DIRETOR DE EMEI III | 3.222,83 | 2.569,44 | 5.792,27 |
+| DIRETOR DE EMEI IV | 3.342,22 | 2.865,92 | 6.208,14 |
+| DIRETOR DE EMEI V | 3.461,61 | 3.162,39 | 6.624,00 |
+| VICE-DIRETOR DE EMEI I | 2.855,15 | 1.418,61 | 4.273,77 |
+| VICE-DIRETOR DE EMEI II | 2.973,38 | 1.714,16 | 4.687,54 |
+| VICE-DIRETOR DE EMEI III | 3.091,60 | 2.009,70 | 5.101,30 |
+| VICE-DIRETOR DE EMEI IV | 3.209,81 | 2.305,24 | 5.515,05 |
+| VICE-DIRETOR DE EMEI V | 3.328,03 | 2.600,79 | 5.928,82 |
+| COORDENADOR PEDAGÓGICO GERAL I | 2.855,15 | 819,34 | 3.674,49 |
+| COORDENADOR PEDAGÓGICO GERAL II | 3.059,57 | 1.092,44 | 4.152,02 |
+| DIRETOR DE CENTRO DE APERFEIÇOAMENTO | 3.784,57 | 3.557,68 | 7.342,25 |
+| PROFISSIONAL DA EDUCAÇÃO |  |  |  |
+| VICE-DIRETOR DE CENTRO DE | 3.469,26 | 3.162,39 | 6.631,65 |
+| APERFEIÇOAMENTO PROFISSIONAL DA |  |  |  |
+| EDUCAÇÃO |  |  |  |
+| COORDENADOR DE PROJETOS ESPECIAIS DA | 2.124,73 | 2.124,73 | 4.249,46 |
+| EDUCAÇÃO |  |  |  |
 
 B – Da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania:
 
-|CARGO PÚBLICO EM |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-|COMISSÃO | |EXCLUSIVA | |
-
-|SUPERVISOR DE |1.268,19 |1.268,19 |2.536,39 |
-
-|ALIMENTAÇÃO | | | |
+| CARGO PÚBLICO EM | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+| COMISSÃO |  | EXCLUSIVA |  |
+| SUPERVISOR DE | 1.268,19 | 1.268,19 | 2.536,39 |
+| ALIMENTAÇÃO |  |  |  |
 
 C – Da Secretaria Municipal de Saúde:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO EXCLUSIVA | |
-
-|COORDENADOR DE SERVIÇO DE |760,96 |760,96 |1.521,92 |
-
-|CONTROLE DE ZOONOSES | | | |
-
-|ENCARREGADO DE SERVIÇO DE |569,22 |569,22 |1.138,45 |
-
-|CONTROLE DE ZOONOSES | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO EXCLUSIVA |  |
+| COORDENADOR DE SERVIÇO DE | 760,96 | 760,96 | 1.521,92 |
+| CONTROLE DE ZOONOSES |  |  |  |
+| ENCARREGADO DE SERVIÇO DE | 569,22 | 569,22 | 1.138,45 |
+| CONTROLE DE ZOONOSES |  |  |  |
 
 D – Da Secretaria Municipal de Segurança e Prevenção:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO EXCLUSIVA | |
-
-|SUBINSPETOR DA GUARDA CIVIL |1.502,14 |1.502,14 |3.004,29 |
-
-|MUNICIPAL DE BELO HORIZONTE | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO EXCLUSIVA |  |
+| SUBINSPETOR DA GUARDA CIVIL | 1.502,14 | 1.502,14 | 3.004,29 |
+| MUNICIPAL DE BELO HORIZONTE |  |  |  |
 
 A partir de 1º de novembro de 2022:
 
 A – Da Secretaria Municipal de Educação:
 
-|CARGO PÚBLICO EM COMISSÃO |VENCIMENTO-BASE |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO EXCLUSIVA | |
-
-|SECRETÁRIO ESCOLAR I |1.387,67 |605,95 |1.993,62 |
-
-|SECRETÁRIO ESCOLAR II |1.422,78 |946,35 |2.369,13 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL I |3.176,55 |2.103,98 |5.280,53 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL II |3.303,62 |2.419,56 |5.723,19 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL III|3.430,70 |2.735,17 |6.165,87 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL IV |3.561,87 |3.050,76 |6.612,63 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL V |3.693,03 |3.366,36 |7.059,39 |
-
-|DIRETOR DE ESCOLA MUNICIPAL I |3.430,69 |2.524,78 |5.955,47 |
-
-|DIRETOR DE ESCOLA MUNICIPAL II |3.561,87 |2.840,35 |6.402,22 |
-
-|DIRETOR DE ESCOLA MUNICIPAL III |3.693,03 |3.155,96 |6.848,99 |
-
-|DIRETOR DE ESCOLA MUNICIPAL IV |3.860,83 |3.471,56 |7.332,39 |
-
-|DIRETOR DE ESCOLA MUNICIPAL V |4.028,69 |3.787,15 |7.815,84 |
-
-|DIRETOR DE EMEI I |3.176,55 |2.103,98 |5.280,53 |
-
-|DIRETOR DE EMEI II |3.303,62 |2.419,56 |5.723,19 |
-
-|DIRETOR DE EMEI III |3.430,70 |2.735,17 |6.165,87 |
-
-|DIRETOR DE EMEI IV |3.557,80 |3.050,77 |6.608,56 |
-
-|DIRETOR DE EMEI V |3.684,88 |3.366,36 |7.051,25 |
-
-|VICE-DIRETOR DE EMEI I |3.039,31 |1.510,11 |4.549,42 |
-
-|VICE-DIRETOR DE EMEI II |3.165,16 |1.824,73 |4.989,89 |
-
-|VICE-DIRETOR DE EMEI III |3.291,01 |2.139,33 |5.430,33 |
-
-|VICE-DIRETOR DE EMEI IV |3.416,85 |2.453,93 |5.870,77 |
-
-|VICE-DIRETOR DE EMEI V |3.542,69 |2.768,54 |6.311,23 |
-
-|COORDENADOR PEDAGÓGICO GERAL I |3.039,31 |872,19 |3.911,50 |
-
-|COORDENADOR PEDAGÓGICO GERAL II |3.256,91 |1.162,91 |4.419,82 |
-
-|DIRETOR DE CENTRO DE APERFEIÇOAMENTO|4.028,67 |3.787,15 |7.815,83 |
-
-|PROFISSIONAL DA EDUCAÇÃO | | | |
-
-|VICE-DIRETOR DE CENTRO DE |3.693,03 |3.366,36 |7.059,39 |
-
-|APERFEIÇOAMENTO PROFISSIONAL DA | | | |
-
-|EDUCAÇÃO | | | |
-
-|COORDENADOR DE PROJETOS ESPECIAIS DA|2.261,78 |2.261,78 |4.523,55 |
-
-|EDUCAÇÃO | | | |
+| CARGO PÚBLICO EM COMISSÃO | VENCIMENTO-BASE | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO EXCLUSIVA |  |
+| SECRETÁRIO ESCOLAR I | 1.387,67 | 605,95 | 1.993,62 |
+| SECRETÁRIO ESCOLAR II | 1.422,78 | 946,35 | 2.369,13 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL I | 3.176,55 | 2.103,98 | 5.280,53 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL II | 3.303,62 | 2.419,56 | 5.723,19 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL III | 3.430,70 | 2.735,17 | 6.165,87 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL IV | 3.561,87 | 3.050,76 | 6.612,63 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL V | 3.693,03 | 3.366,36 | 7.059,39 |
+| DIRETOR DE ESCOLA MUNICIPAL I | 3.430,69 | 2.524,78 | 5.955,47 |
+| DIRETOR DE ESCOLA MUNICIPAL II | 3.561,87 | 2.840,35 | 6.402,22 |
+| DIRETOR DE ESCOLA MUNICIPAL III | 3.693,03 | 3.155,96 | 6.848,99 |
+| DIRETOR DE ESCOLA MUNICIPAL IV | 3.860,83 | 3.471,56 | 7.332,39 |
+| DIRETOR DE ESCOLA MUNICIPAL V | 4.028,69 | 3.787,15 | 7.815,84 |
+| DIRETOR DE EMEI I | 3.176,55 | 2.103,98 | 5.280,53 |
+| DIRETOR DE EMEI II | 3.303,62 | 2.419,56 | 5.723,19 |
+| DIRETOR DE EMEI III | 3.430,70 | 2.735,17 | 6.165,87 |
+| DIRETOR DE EMEI IV | 3.557,80 | 3.050,77 | 6.608,56 |
+| DIRETOR DE EMEI V | 3.684,88 | 3.366,36 | 7.051,25 |
+| VICE-DIRETOR DE EMEI I | 3.039,31 | 1.510,11 | 4.549,42 |
+| VICE-DIRETOR DE EMEI II | 3.165,16 | 1.824,73 | 4.989,89 |
+| VICE-DIRETOR DE EMEI III | 3.291,01 | 2.139,33 | 5.430,33 |
+| VICE-DIRETOR DE EMEI IV | 3.416,85 | 2.453,93 | 5.870,77 |
+| VICE-DIRETOR DE EMEI V | 3.542,69 | 2.768,54 | 6.311,23 |
+| COORDENADOR PEDAGÓGICO GERAL I | 3.039,31 | 872,19 | 3.911,50 |
+| COORDENADOR PEDAGÓGICO GERAL II | 3.256,91 | 1.162,91 | 4.419,82 |
+| DIRETOR DE CENTRO DE APERFEIÇOAMENTO | 4.028,67 | 3.787,15 | 7.815,83 |
+| PROFISSIONAL DA EDUCAÇÃO |  |  |  |
+| VICE-DIRETOR DE CENTRO DE | 3.693,03 | 3.366,36 | 7.059,39 |
+| APERFEIÇOAMENTO PROFISSIONAL DA |  |  |  |
+| EDUCAÇÃO |  |  |  |
+| COORDENADOR DE PROJETOS ESPECIAIS DA | 2.261,78 | 2.261,78 | 4.523,55 |
+| EDUCAÇÃO |  |  |  |
 
 B – Da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania:
 
-|CARGO PÚBLICO EM |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-|COMISSÃO | |EXCLUSIVA | |
-
-|SUPERVISOR DE |1.349,99 |1.349,99 |2.699,99 |
-
-|ALIMENTAÇÃO | | | |
+| CARGO PÚBLICO EM | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+| COMISSÃO |  | EXCLUSIVA |  |
+| SUPERVISOR DE | 1.349,99 | 1.349,99 | 2.699,99 |
+| ALIMENTAÇÃO |  |  |  |
 
 C – Da Secretaria Municipal de Saúde:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO EXCLUSIVA | |
-
-|COORDENADOR DE SERVIÇO DE |810,04 |810,04 |1.620,08 |
-
-|CONTROLE DE ZOONOSES | | | |
-
-|ENCARREGADO DE SERVIÇO DE |605,94 |605,94 |1.211,88 |
-
-|CONTROLE DE ZOONOSES | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO EXCLUSIVA |  |
+| COORDENADOR DE SERVIÇO DE | 810,04 | 810,04 | 1.620,08 |
+| CONTROLE DE ZOONOSES |  |  |  |
+| ENCARREGADO DE SERVIÇO DE | 605,94 | 605,94 | 1.211,88 |
+| CONTROLE DE ZOONOSES |  |  |  |
 
 D – Da Secretaria Municipal de Segurança e Prevenção:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO EXCLUSIVA | |
-
-|SUBINSPETOR DA GUARDA CIVIL |1.599,03 |1.599,03 |3.198,06 |
-
-|MUNICIPAL DE BELO HORIZONTE | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO EXCLUSIVA |  |
+| SUBINSPETOR DA GUARDA CIVIL | 1.599,03 | 1.599,03 | 3.198,06 |
+| MUNICIPAL DE BELO HORIZONTE |  |  |  |
 
 ANEXO XII
 
@@ -862,37 +697,23 @@ ANEXO XII
 
 Classificação das Funções Gratificadas de Coordenação e Assessoramento – FCA
 
-|A partir de 1º de julho de 2022 |
-
-|NÍVEL |VALOR |FCA-UNITÁRIO |
-
-|FCA-1 |591,09 |1 |
-
-|FCA-2 |886,64 |1,5 |
-
-|FCA-3 |1.182,17 |2 |
-
-|FCA-4 |1.477,72 |2,5 |
-
-|FCA-5 |1.773,26 |3 |
-
-|FCA-6 |2.364,35 |4 |
-
-|A partir de 1º de novembro de 2022 |
-
-|NÍVEL |VALOR |FCA-UNITÁRIO |
-
-|FCA-1 |629,22 |1 |
-
-|FCA-2 |943,83 |1,5 |
-
-|FCA-3 |1.258,42 |2 |
-
-|FCA-4 |1.573,03 |2,5 |
-
-|FCA-5 |1.887,63 |3 |
-
-|FCA-6 |2.516,85 |4 |
+| A partir de 1º de julho de 2022 |  |  |
+| --- | --- | --- |
+| NÍVEL | VALOR | FCA-UNITÁRIO |
+| FCA-1 | 591,09 | 1 |
+| FCA-2 | 886,64 | 1,5 |
+| FCA-3 | 1.182,17 | 2 |
+| FCA-4 | 1.477,72 | 2,5 |
+| FCA-5 | 1.773,26 | 3 |
+| FCA-6 | 2.364,35 | 4 |
+| A partir de 1º de novembro de 2022 |  |  |
+| NÍVEL | VALOR | FCA-UNITÁRIO |
+| FCA-1 | 629,22 | 1 |
+| FCA-2 | 943,83 | 1,5 |
+| FCA-3 | 1.258,42 | 2 |
+| FCA-4 | 1.573,03 | 2,5 |
+| FCA-5 | 1.887,63 | 3 |
+| FCA-6 | 2.516,85 | 4 |
 
 ANEXO XIII
 
@@ -904,235 +725,187 @@ A partir de 1º de julho de 2022:
 
 A – Função pública de Conselheiro Tutelar:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|CONSELHEIRO TUTELAR |4.433,15 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| CONSELHEIRO TUTELAR | 4.433,15 |
 
 B – Função pública de Gerente de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|GERENTE DE UNIDADE DE SAÚDE I |3.617,34 |
-
-|GERENTE DE UNIDADE DE SAÚDE II |3.982,14 |
-
-|GERENTE DE UNIDADE DE SAÚDE III |4.351,42 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| GERENTE DE UNIDADE DE SAÚDE I | 3.617,34 |
+| GERENTE DE UNIDADE DE SAÚDE II | 3.982,14 |
+| GERENTE DE UNIDADE DE SAÚDE III | 4.351,42 |
 
 C – Função pública de Coordenador de Proteção Social e Cidadania:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|COORDENADOR DE PROTEÇÃO SOCIAL E CIDADANIA |1.883,38 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| COORDENADOR DE PROTEÇÃO SOCIAL E CIDADANIA | 1.883,38 |
 
 D – Função pública de Coordenador de Centro de Referência de Assistência Social, de Centro de Referência Especializado de Assistência Social e de Unidade de Acolhimento Institucional:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|COORDENADOR DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL |1.883,38 |
-
-|COORDENADOR DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL |1.883,38 |
-
-|COORDENADOR DE ACOLHIMENTO INSTITUCIONAL |1.883,38 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| COORDENADOR DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL | 1.883,38 |
+| COORDENADOR DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL | 1.883,38 |
+| COORDENADOR DE ACOLHIMENTO INSTITUCIONAL | 1.883,38 |
 
 E – Função pública instituída no art. 15 da Lei nº 9.443, de 18 de outubro de 2007:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|FUNÇÃO GRATIFICADA INSTITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - PARA JORNADA DE 20|433,87 |
-
-|HORAS | |
-
-|FUNÇÃO GRATIFICADA INSTITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - PARA JORNADA DE 40|867,73 |
-
-|HORAS | |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| FUNÇÃO GRATIFICADA INSTITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - PARA JORNADA DE 20 | 433,87 |
+| HORAS |  |
+| FUNÇÃO GRATIFICADA INSTITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - PARA JORNADA DE 40 | 867,73 |
+| HORAS |  |
 
 Item E revogado pela Lei nº 11.491, de 10/5/2023 (Art. 33, II)
 
 F – Função pública de Gerente Adjunto de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE I |1.808,99 |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE II |1.991,06 |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE III |2.175,72 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE I | 1.808,99 |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE II | 1.991,06 |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE III | 2.175,72 |
 
 G – Função pública gratificada de Gestor Administrativo e Financeiro Escolar:
 
-|FUNÇÃO GRATIFICADA |VENCIMENTO-BASE |GRATIFICAÇÃO DE DEDICAÇÃO|REMUNERAÇÃO TOTAL |
-
-| | |EXCLUSIVA | |
-
-|GESTOR ADMINISTRATIVO E |1.502,13 |1.241,43 |2.743,56 |
-
-|FINANCEIRO ESCOLAR I | | | |
-
-|GESTOR ADMINISTRATIVO E |1.502,13 |1.365,57 |2.867,71 |
-
-|FINANCEIRO ESCOLAR II | | | |
-
-|GESTOR ADMINISTRATIVO E |1.502,13 |1.502,13 |3.004,26 |
-
-|FINANCEIRO ESCOLAR III | | | |
-
-|GESTOR ADMINISTRATIVO E |1.502,13 |1.652,33 |3.154,47 |
-
-|FINANCEIRO ESCOLAR IV | | | |
-
-|GESTOR ADMINISTRATIVO E |1.502,13 |1.817,57 |3.319,70 |
-
-|FINANCEIRO ESCOLAR V | | | |
+| FUNÇÃO GRATIFICADA | VENCIMENTO-BASE | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | EXCLUSIVA |  |
+| GESTOR ADMINISTRATIVO E | 1.502,13 | 1.241,43 | 2.743,56 |
+| FINANCEIRO ESCOLAR I |  |  |  |
+| GESTOR ADMINISTRATIVO E | 1.502,13 | 1.365,57 | 2.867,71 |
+| FINANCEIRO ESCOLAR II |  |  |  |
+| GESTOR ADMINISTRATIVO E | 1.502,13 | 1.502,13 | 3.004,26 |
+| FINANCEIRO ESCOLAR III |  |  |  |
+| GESTOR ADMINISTRATIVO E | 1.502,13 | 1.652,33 | 3.154,47 |
+| FINANCEIRO ESCOLAR IV |  |  |  |
+| GESTOR ADMINISTRATIVO E | 1.502,13 | 1.817,57 | 3.319,70 |
+| FINANCEIRO ESCOLAR V |  |  |  |
 
 H – Função pública gratificada de Coordenador do Núcleo de Atendimento às Medidas Socioeducativas e Protetivas:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|COORDENADOR DO NÚCLEO DE ATENDIMENTO ÀS MEDIDAS SOCIOEDUCATIVAS E PROTETIVAS |1.760,16 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| COORDENADOR DO NÚCLEO DE ATENDIMENTO ÀS MEDIDAS SOCIOEDUCATIVAS E PROTETIVAS | 1.760,16 |
 
 I – Função pública gratificada de Controlador de Tesouraria dos Restaurantes Populares:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|CONTROLADOR DE TESOURARIA DOS RESTAURANTES POPULARES |1.489,54 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| CONTROLADOR DE TESOURARIA DOS RESTAURANTES POPULARES | 1.489,54 |
 
 J – Função pública gratificada de Supervisor das Atividades Operacionais de Campo:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|SUPERVISOR DAS ATIVIDADES OPERACIONAIS DE CAMPO |393,98 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| SUPERVISOR DAS ATIVIDADES OPERACIONAIS DE CAMPO | 393,98 |
 
 K – Funções públicas gratificadas do Hospital Metropolitano Odilon Behrens – HOB:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|GERENTE DE UNIDADE DE SAÚDE I |3.531,52 |
-
-|GERENTE DE UNIDADE DE SAÚDE II |3.887,67 |
-
-|GERENTE DE UNIDADE DE SAÚDE III |4.248,19 |
-
-|COORDENADOR DE APOIO GERENCIAL |1.725,67 |
-
-|COORDENADOR DE EQUIPE |2.039,41 |
-
-|COORDENADOR DE ESPECIALIDADES E ENSINO |2.196,30 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| GERENTE DE UNIDADE DE SAÚDE I | 3.531,52 |
+| GERENTE DE UNIDADE DE SAÚDE II | 3.887,67 |
+| GERENTE DE UNIDADE DE SAÚDE III | 4.248,19 |
+| COORDENADOR DE APOIO GERENCIAL | 1.725,67 |
+| COORDENADOR DE EQUIPE | 2.039,41 |
+| COORDENADOR DE ESPECIALIDADES E ENSINO | 2.196,30 |
 
 A partir de 1º de novembro de 2022:
 
 A – Função pública de Conselheiro Tutelar:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|CONSELHEIRO TUTELAR |4.719,09 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| CONSELHEIRO TUTELAR | 4.719,09 |
 
 B – Função pública de Gerente de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|GERENTE DE UNIDADE DE SAÚDE I |3.850,66 |
-
-|GERENTE DE UNIDADE DE SAÚDE II |4.238,99 |
-
-|GERENTE DE UNIDADE DE SAÚDE III |4.632,09 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| GERENTE DE UNIDADE DE SAÚDE I | 3.850,66 |
+| GERENTE DE UNIDADE DE SAÚDE II | 4.238,99 |
+| GERENTE DE UNIDADE DE SAÚDE III | 4.632,09 |
 
 C – Função pública de Coordenador de Proteção Social e Cidadania:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|COORDENADOR DE PROTEÇÃO SOCIAL E CIDADANIA |2.004,85 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| COORDENADOR DE PROTEÇÃO SOCIAL E CIDADANIA | 2.004,85 |
 
 D – Função pública de Coordenador de Centro de Referência de Assistência Social, de Centro de Referência Especializado de Assistência Social e de Unidade de Acolhimento Institucional:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|COORDENADOR DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL |2.004,85 |
-
-|COORDENADOR DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL |2.004,85 |
-
-|COORDENADOR DE ACOLHIMENTO INSTITUCIONAL |2.004,85 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| COORDENADOR DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL | 2.004,85 |
+| COORDENADOR DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL | 2.004,85 |
+| COORDENADOR DE ACOLHIMENTO INSTITUCIONAL | 2.004,85 |
 
 E – Função pública instituída no art. 15 da Lei nº 9.443/07:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|FUNÇÃO GRATIFICADA INSTITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - PARA JORNADA DE 20|461,86 |
-
-|HORAS | |
-
-|FUNÇÃO GRATIFICADA INSTITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - PARA JORNADA DE 40|923,70 |
-
-|HORAS | |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| FUNÇÃO GRATIFICADA INSTITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - PARA JORNADA DE 20 | 461,86 |
+| HORAS |  |
+| FUNÇÃO GRATIFICADA INSTITUÍDA NO ART. 15 DA LEI Nº 9.443/07 - PARA JORNADA DE 40 | 923,70 |
+| HORAS |  |
 
 F – Função pública de Gerente Adjunto de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE I |1.925,67 |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE II |2.119,48 |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE III |2.316,06 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE I | 1.925,67 |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE II | 2.119,48 |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE III | 2.316,06 |
 
 G – Função pública gratificada de Gestor Administrativo e Financeiro Escolar:
 
-|FUNÇÃO GRATIFICADA |VENCIMENTO-BASE |GRATIFICAÇÃO DE DEDICAÇÃO|REMUNERAÇÃO TOTAL |
-
-| | |EXCLUSIVA | |
-
-|GESTOR ADMINISTRATIVO E |1.599,02 |1.321,50 |2.920,52 |
-
-|FINANCEIRO ESCOLAR I | | | |
-
-|GESTOR ADMINISTRATIVO E |1.599,02 |1.453,65 |3.052,67 |
-
-|FINANCEIRO ESCOLAR II | | | |
-
-|GESTOR ADMINISTRATIVO E |1.599,02 |1.599,02 |3.198,04 |
-
-|FINANCEIRO ESCOLAR III | | | |
-
-|GESTOR ADMINISTRATIVO E |1.599,02 |1.758,91 |3.357,93 |
-
-|FINANCEIRO ESCOLAR IV | | | |
-
-|GESTOR ADMINISTRATIVO E |1.599,02 |1.934,80 |3.533,82 |
-
-|FINANCEIRO ESCOLAR V | | | |
+| FUNÇÃO GRATIFICADA | VENCIMENTO-BASE | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | EXCLUSIVA |  |
+| GESTOR ADMINISTRATIVO E | 1.599,02 | 1.321,50 | 2.920,52 |
+| FINANCEIRO ESCOLAR I |  |  |  |
+| GESTOR ADMINISTRATIVO E | 1.599,02 | 1.453,65 | 3.052,67 |
+| FINANCEIRO ESCOLAR II |  |  |  |
+| GESTOR ADMINISTRATIVO E | 1.599,02 | 1.599,02 | 3.198,04 |
+| FINANCEIRO ESCOLAR III |  |  |  |
+| GESTOR ADMINISTRATIVO E | 1.599,02 | 1.758,91 | 3.357,93 |
+| FINANCEIRO ESCOLAR IV |  |  |  |
+| GESTOR ADMINISTRATIVO E | 1.599,02 | 1.934,80 | 3.533,82 |
+| FINANCEIRO ESCOLAR V |  |  |  |
 
 H – Função pública gratificada de Coordenador do Núcleo de Atendimento às Medidas Socioeducativas e Protetivas:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|COORDENADOR DO NÚCLEO DE ATENDIMENTO ÀS MEDIDAS SOCIOEDUCATIVAS E PROTETIVAS |1.585,61 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| COORDENADOR DO NÚCLEO DE ATENDIMENTO ÀS MEDIDAS SOCIOEDUCATIVAS E PROTETIVAS | 1.585,61 |
 
 I – Função pública gratificada de Controlador de Tesouraria dos Restaurantes Populares:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|CONTROLADOR DE TESOURARIA DOS RESTAURANTES POPULARES |1.585,61 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| CONTROLADOR DE TESOURARIA DOS RESTAURANTES POPULARES | 1.585,61 |
 
 J – Função pública gratificada de Supervisor das Atividades Operacionais de Campo:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|SUPERVISOR DAS ATIVIDADES OPERACIONAIS DE CAMPO |419,39 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| SUPERVISOR DAS ATIVIDADES OPERACIONAIS DE CAMPO | 419,39 |
 
 K – Funções públicas gratificadas do Hospital Metropolitano Odilon Behrens – HOB:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|GERENTE DE UNIDADE DE SAÚDE I |3.759,31 |
-
-|GERENTE DE UNIDADE DE SAÚDE II |4.138,42 |
-
-|GERENTE DE UNIDADE DE SAÚDE III |4.522,20 |
-
-|COORDENADOR DE APOIO GERENCIAL |1.836,97 |
-
-|COORDENADOR DE EQUIPE |2.170,96 |
-
-|COORDENADOR DE ESPECIALIDADES E ENSINO |2.337,96 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| GERENTE DE UNIDADE DE SAÚDE I | 3.759,31 |
+| GERENTE DE UNIDADE DE SAÚDE II | 4.138,42 |
+| GERENTE DE UNIDADE DE SAÚDE III | 4.522,20 |
+| COORDENADOR DE APOIO GERENCIAL | 1.836,97 |
+| COORDENADOR DE EQUIPE | 2.170,96 |
+| COORDENADOR DE ESPECIALIDADES E ENSINO | 2.337,96 |
 
 ANEXO XIV
 
@@ -1140,31 +913,20 @@ ANEXO XIV
 
 Fator de reajuste para as aposentadorias e pensões sem direito à paridade, conforme as respectivas datas de início, aplicável a partir de 1º de janeiro de 2021
 
-|DATA DE INÍCIO DO BENEFÍCIO |REAJUSTE (%) |
-
-|Até janeiro de 2020 |5,45 |
-
-|Em fevereiro de 2020 |5,25 |
-
-|Em março de 2020 |5,07 |
-
-|Em abril de 2020 |4,88 |
-
-|Em maio de 2020 |5,12 |
-
-|Em junho de 2020 |5,39 |
-
-|Em julho de 2020 |5,07 |
-
-|Em agosto de 2020 |4,61 |
-
-|Em setembro de 2020 |4,23 |
-
-|Em outubro de 2020 |3,34 |
-
-|Em novembro de 2020 |2,42 |
-
-|Em dezembro de 2020 |1,46 |
+| DATA DE INÍCIO DO BENEFÍCIO | REAJUSTE (%) |
+| --- | --- |
+| Até janeiro de 2020 | 5,45 |
+| Em fevereiro de 2020 | 5,25 |
+| Em março de 2020 | 5,07 |
+| Em abril de 2020 | 4,88 |
+| Em maio de 2020 | 5,12 |
+| Em junho de 2020 | 5,39 |
+| Em julho de 2020 | 5,07 |
+| Em agosto de 2020 | 4,61 |
+| Em setembro de 2020 | 4,23 |
+| Em outubro de 2020 | 3,34 |
+| Em novembro de 2020 | 2,42 |
+| Em dezembro de 2020 | 1,46 |
 
 ANEXO XV
 
@@ -1172,39 +934,28 @@ ANEXO XV
 
 Fator de reajuste para as aposentadorias e pensões sem direito à paridade, conforme as respectivas datas de início, aplicável a partir de 1º de janeiro de 2022
 
-|DATA DE INÍCIO DO BENEFÍCIO |REAJUSTE (%) |
-
-|Até janeiro de 2021 |10,16 |
-
-|Em fevereiro de 2021 |9,86 |
-
-|Em março de 2021 |8,97 |
-
-|Em abril de 2021 |8,04 |
-
-|Em maio de 2021 |7,63 |
-
-|Em junho de 2021 |6,61 |
-
-|Em julho de 2021 |5,97 |
-
-|Em agosto de 2021 |4,90 |
-
-|Em setembro de 2021 |3,99 |
-
-|Em outubro de 2021 |2,75 |
-
-|Em novembro de 2021 |1,58 |
-
-|Em dezembro de 2021 |0,73 |
+| DATA DE INÍCIO DO BENEFÍCIO | REAJUSTE (%) |
+| --- | --- |
+| Até janeiro de 2021 | 10,16 |
+| Em fevereiro de 2021 | 9,86 |
+| Em março de 2021 | 8,97 |
+| Em abril de 2021 | 8,04 |
+| Em maio de 2021 | 7,63 |
+| Em junho de 2021 | 6,61 |
+| Em julho de 2021 | 5,97 |
+| Em agosto de 2021 | 4,90 |
+| Em setembro de 2021 | 3,99 |
+| Em outubro de 2021 | 2,75 |
+| Em novembro de 2021 | 1,58 |
+| Em dezembro de 2021 | 0,73 |
 
 ANEXO XVI
 
 (a que se refere esta lei)
 
-|CARGO PÚBLICO EFETIVO |QUANTITATIVO |
-
-|Fiscal de Controle Urbanístico e Ambiental |364 |
+| CARGO PÚBLICO EFETIVO | QUANTITATIVO |
+| --- | --- |
+| Fiscal de Controle Urbanístico e Ambiental | 364 |
 
 ANEXO XVII
 
@@ -1214,19 +965,14 @@ ANEXO XVII
 
 CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CARGOS |NÚMERO DE CARGOS |
-
-|Agente Fazendário |200 |
-
-|Analista Fazendário |50 |
-
-|Auditor Fiscal de Tributos Municipais |120 |
-
-|Auditor Técnico de Tributos Municipais |30 |
-
-|Técnico Fazendário de Nível Médio (em extinção) |3 |
-
-|Tesoureiro (em extinção) |2 |
+| CARGOS | NÚMERO DE CARGOS |
+| --- | --- |
+| Agente Fazendário | 200 |
+| Analista Fazendário | 50 |
+| Auditor Fiscal de Tributos Municipais | 120 |
+| Auditor Técnico de Tributos Municipais | 30 |
+| Técnico Fazendário de Nível Médio (em extinção) | 3 |
+| Tesoureiro (em extinção) | 2 |
 
 ANEXO XVIII
 
@@ -1306,19 +1052,14 @@ ANEXO XIX
 
 Gratificação por desempenho das atividades tributárias – GDAT
 
-|CARGO |VALOR MENSAL BASE 8 HORAS |
-
-|Auditor Fiscal de Tributos Municipais |R$ 10.907,26 |
-
-|Auditor Técnico de Tributos Municipais (até 31/07/2024) |R$ 10.907,26 |
-
-|Agente Fazendário – 40 (quarenta) horas semanais |R$ 2.647,47 |
-
-|Analista Fazendário |R$ 5.313,49 |
-
-|Técnico Fazendário de Nível Médio |R$ 2.647,47 |
-
-|Tesoureiro – 30 (trinta) horas semanais |R$ 2.647,47 |
+| CARGO | VALOR MENSAL BASE 8 HORAS |
+| --- | --- |
+| Auditor Fiscal de Tributos Municipais | R$ 10.907,26 |
+| Auditor Técnico de Tributos Municipais (até 31/07/2024) | R$ 10.907,26 |
+| Agente Fazendário – 40 (quarenta) horas semanais | R$ 2.647,47 |
+| Analista Fazendário | R$ 5.313,49 |
+| Técnico Fazendário de Nível Médio | R$ 2.647,47 |
+| Tesoureiro – 30 (trinta) horas semanais | R$ 2.647,47 |
 
 ANEXO XX
 
@@ -1342,31 +1083,20 @@ ANEXO XXI
 
 (a que se refere esta lei)
 
-|Item da |Índice de correção anual* |
-
-|receita | |
-
-|Dívida Ativa |IPCA ano “0” x PIB ano “1” |
-
-|ISSQN |IPCA ano “1” x PIB ano “1” |
-
-|IPTU |IPCA ano “0” |
-
-|ITBI |IPCA ano “1” x PIB ano “1” |
-
-|ICMS |IPCA ano “1” x PIB ano “1” x Variação do índice VAF ano “1” em relação ao ano “0” |
-
-|TCRS |IPCA ano “0” |
-
-|TFOP |IPCA ano “0” |
-
-|TFEP |IPCA ano “0” |
-
-|TFLF |IPCA ano “0” |
-
-|TFS |IPCA ano “0” |
-
-|TFAT |IPCA ano “0” |
+| Item da | Índice de correção anual* |
+| --- | --- |
+| receita |  |
+| Dívida Ativa | IPCA ano “0” x PIB ano “1” |
+| ISSQN | IPCA ano “1” x PIB ano “1” |
+| IPTU | IPCA ano “0” |
+| ITBI | IPCA ano “1” x PIB ano “1” |
+| ICMS | IPCA ano “1” x PIB ano “1” x Variação do índice VAF ano “1” em relação ao ano “0” |
+| TCRS | IPCA ano “0” |
+| TFOP | IPCA ano “0” |
+| TFEP | IPCA ano “0” |
+| TFLF | IPCA ano “0” |
+| TFS | IPCA ano “0” |
+| TFAT | IPCA ano “0” |
 
 *Ano “0” – corresponde ao ano retrasado ao exercício de apuração
 
@@ -1376,21 +1106,15 @@ ANEXO XXII
 
 (a que se refere esta lei)
 
-|CARGO |Valor mensal da gratificação em abril/2023 |
-
-|FCA 1, 2 e 3 |738,70 |
-
-|DAM 1 e FCA 4, 5 e 6 |886,82 |
-
-|DAM 2 |1.034,55 |
-
-|DAM 3 e 4 |1.182,30 |
-
-|DAM 5 e 6 |1.330,04 |
-
-|DAM 7, Subsecretário e Secretário Adjunto |1.477,78 |
-
-|DAM 8 e 9 e Secretário Municipal |1.625,52 |
+| CARGO | Valor mensal da gratificação em abril/2023 |
+| --- | --- |
+| FCA 1, 2 e 3 | 738,70 |
+| DAM 1 e FCA 4, 5 e 6 | 886,82 |
+| DAM 2 | 1.034,55 |
+| DAM 3 e 4 | 1.182,30 |
+| DAM 5 e 6 | 1.330,04 |
+| DAM 7, Subsecretário e Secretário Adjunto | 1.477,78 |
+| DAM 8 e 9 e Secretário Municipal | 1.625,52 |
 
 ANEXO XXIII
 
@@ -1402,11 +1126,10 @@ CARGOS DE PROVIMENTO EFETIVO DA CARREIRA DOS SERVIDORES DA
 
 VIGILÂNCIA SANITÁRIA DA PREFEITURA DE BELO HORIZONTE
 
-|Cargo |Quantitativo |
-
-|Fiscal Sanitário Municipal de Nível Superior |60 |
-
-|Fiscal Sanitário Municipal |106 |
+| Cargo | Quantitativo |
+| --- | --- |
+| Fiscal Sanitário Municipal de Nível Superior | 60 |
+| Fiscal Sanitário Municipal | 106 |
 
 ANEXO XXIV
 

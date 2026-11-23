@@ -68,43 +68,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.126.0302.2938.339037.2.700.000 |300.000,00 |
-
-|0604.19.572.0302.2905.339040.2.751.000 |2.175.965,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |67.100,00 |
-
-|2302.10.302.0114.2936.339039.2.621.000 |6.007.351,51 |
-
-|2302.10.305.0028.2829.339039.2.621.000 |1.620,90 |
-
-|2302.10.302.0114.2936.339034.2.621.000 |1.400.000,00 |
-
-|2302.10.301.0157.2690.339036.2.621.000 |9.325,00 |
-
-|2302.10.302.0114.2936.339139.2.621.000 |171.665,37 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2308.339039.2.660.000 |343.784,91 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449039.2.701.000 |86.014,35 |
-
-|2704.16.482.0225.1231.449093.2.701.000 |538.513,98 |
-
-|TOTAL DA SUPLEMENTAÇÃO |11.101.341,02 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.126.0302.2938.339037.2.700.000 | 300.000,00 |
+| 0604.19.572.0302.2905.339040.2.751.000 | 2.175.965,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 67.100,00 |
+| 2302.10.302.0114.2936.339039.2.621.000 | 6.007.351,51 |
+| 2302.10.305.0028.2829.339039.2.621.000 | 1.620,90 |
+| 2302.10.302.0114.2936.339034.2.621.000 | 1.400.000,00 |
+| 2302.10.301.0157.2690.339036.2.621.000 | 9.325,00 |
+| 2302.10.302.0114.2936.339139.2.621.000 | 171.665,37 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.339039.2.660.000 | 343.784,91 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449039.2.701.000 | 86.014,35 |
+| 2704.16.482.0225.1231.449093.2.701.000 | 538.513,98 |
+| TOTAL DA SUPLEMENTAÇÃO | 11.101.341,02 |
 
 ANEXO II
 

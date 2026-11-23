@@ -66,39 +66,24 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do|R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, no art. 57 da | |
-
-|Lei nº 11.742, de 13 de setembro de 2024, e no art. 31 da Lei nº 11.801, de 2 de | |
-
-|janeiro de 2025: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|3802.20.608.0308.2939.449052.2.706.510 |42.480,00 |
-
-|3802.23.692.0132.2307.449093.2.500.000 |50.333,04 |
-
-|3802.20.608.0308.2939.449040.2.706.510 |1.748,46 |
-
-|3802.23.692.0132.2307.449193.2.500.000 |79.572,00 |
-
-|3802.11.333.0308.2923.449052.2.710.610 |42.450,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0019.2308.449052.2.660.000 |1.452.057,84 |
-
-|3701.08.245.0020.2403.449052.2.660.000 |200.000,00 |
-
-|3701.08.245.0020.2878.339039.2.660.000 |4.900.916,43 |
-
-|3701.08.245.0019.2308.339039.2.660.000 |1.000.000,00 |
-
-|3701.08.245.0020.2327.449052.2.660.000 |1.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |8.769.557,77 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, no art. 57 da |  |
+| Lei nº 11.742, de 13 de setembro de 2024, e no art. 31 da Lei nº 11.801, de 2 de |  |
+| janeiro de 2025: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 3802.20.608.0308.2939.449052.2.706.510 | 42.480,00 |
+| 3802.23.692.0132.2307.449093.2.500.000 | 50.333,04 |
+| 3802.20.608.0308.2939.449040.2.706.510 | 1.748,46 |
+| 3802.23.692.0132.2307.449193.2.500.000 | 79.572,00 |
+| 3802.11.333.0308.2923.449052.2.710.610 | 42.450,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0019.2308.449052.2.660.000 | 1.452.057,84 |
+| 3701.08.245.0020.2403.449052.2.660.000 | 200.000,00 |
+| 3701.08.245.0020.2878.339039.2.660.000 | 4.900.916,43 |
+| 3701.08.245.0019.2308.339039.2.660.000 | 1.000.000,00 |
+| 3701.08.245.0020.2327.449052.2.660.000 | 1.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 8.769.557,77 |
 
 ANEXO II
 
@@ -140,20 +125,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |R$ 2.049.027.226,93 |
-
-|Total de créditos especiais abertos anteriormente |R$ 1.227.464.569,85 |
-
-|Valor do Decreto publicado nesta data |R$ 8.769.557,77 |
-
-|Valor total dos créditos especiais abertos no exercício |R$ 1.236.234.127,62 |
-
-|Saldo atual do limite autorizado |R$ 812.793.099,31 |
-
-|Percentual utilizado |60,33% |
-
-|Atualizado em 11/11/2025 às 11:41:09 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | R$ 2.049.027.226,93 |
+| Total de créditos especiais abertos anteriormente | R$ 1.227.464.569,85 |
+| Valor do Decreto publicado nesta data | R$ 8.769.557,77 |
+| Valor total dos créditos especiais abertos no exercício | R$ 1.236.234.127,62 |
+| Saldo atual do limite autorizado | R$ 812.793.099,31 |
+| Percentual utilizado | 60,33% |
+| Atualizado em 11/11/2025 às 11:41:09 |  |

@@ -58,95 +58,55 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 - A favor dos seguintes órgãos, conforme autorização contida no caput do art. 4º da Lei |R$ |
-
-|nº 11.336, de 30 de dezembro de 2021: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.900.3390.0000 |9.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.233.1.203.4490.0000 |1.227.666,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.11.334.237.2.404.3390.0000 |141.625,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.392.154.2.371.4490.0000 |20.000,00 |
-
-|3103.13.122.146.2.900.3390.0000 |3.276.860,00 |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|1010.08.306.132.2.120.3390.0000 |2.950.000,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|1014.08.306.132.2.761.3390.0000 |3.600.000,00 |
-
-|TOTAL |11.225.151,00 |
-
-|I.1.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso II|R$ |
-
-|do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2302.10.301.157.2.690.3390.0050 |17.737,12 |
-
-|2302.10.302.114.2.893.4490.0050 |1.331,50 |
-
-|TOTAL |19.068,62 |
-
-|TOTAL DA SUPLEMENTAÇÃO |11.244.219,62 |
+| I.1.1 - A favor dos seguintes órgãos, conforme autorização contida no caput do art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.336, de 30 de dezembro de 2021: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.900.3390.0000 | 9.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.233.1.203.4490.0000 | 1.227.666,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.11.334.237.2.404.3390.0000 | 141.625,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.392.154.2.371.4490.0000 | 20.000,00 |
+| 3103.13.122.146.2.900.3390.0000 | 3.276.860,00 |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.08.306.132.2.120.3390.0000 | 2.950.000,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 1014.08.306.132.2.761.3390.0000 | 3.600.000,00 |
+| TOTAL | 11.225.151,00 |
+| I.1.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso II | R$ |
+| do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2302.10.301.157.2.690.3390.0050 | 17.737,12 |
+| 2302.10.302.114.2.893.4490.0050 | 1.331,50 |
+| TOTAL | 19.068,62 |
+| TOTAL DA SUPLEMENTAÇÃO | 11.244.219,62 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de recursos |R$ |
-
-|orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.17.512.233.1.203.4490.0000 |1.227.666,00 |
-
-|Fundo Municipal do Trabalho – FMT |
-
-|2810.11.334.237.2.404.3390.0000 |141.625,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.392.154.2.371.3390.0000 |20.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.999.9.999.9999.0000 |4.263.616,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.331.014.2.710.3390.0000 |3.276.860,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.019.2.308.3390.0000 |835.128,00 |
-
-|1011.08.244.020.2.403.3390.0000 |1.460.256,00 |
-
-|TOTAL |11.225.151,00 |
-
-|I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de recursos |R$ |
-
-|orçamentários anteriormente previstos no Fundo Municipal de Saúde – FMS: | |
-
-|2302.10.304.028.2.829.4490.0050 |10.000,00 |
-
-|2302.10.305.028.2.829.3390.0050 |9.068,62 |
-
-|TOTAL |19.068,62 |
-
-|TOTAL DA ANULAÇÃO |11.244.219,62 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de recursos | R$ |
+| --- | --- |
+| orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.17.512.233.1.203.4490.0000 | 1.227.666,00 |
+| Fundo Municipal do Trabalho – FMT |  |
+| 2810.11.334.237.2.404.3390.0000 | 141.625,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.392.154.2.371.3390.0000 | 20.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.999.9.999.9999.0000 | 4.263.616,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.331.014.2.710.3390.0000 | 3.276.860,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.019.2.308.3390.0000 | 835.128,00 |
+| 1011.08.244.020.2.403.3390.0000 | 1.460.256,00 |
+| TOTAL | 11.225.151,00 |
+| I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de recursos | R$ |
+| orçamentários anteriormente previstos no Fundo Municipal de Saúde – FMS: |  |
+| 2302.10.304.028.2.829.4490.0050 | 10.000,00 |
+| 2302.10.305.028.2.829.3390.0050 | 9.068,62 |
+| TOTAL | 19.068,62 |
+| TOTAL DA ANULAÇÃO | 11.244.219,62 |
 
 ANEXO II
 
@@ -194,36 +154,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do art.|Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|4º, limite de 15% do |4º, limite de 15% do total |
-
-|- Limites autorizados |Orçamento: |total do Orçamento do |do Orçamento do Fundo |
-
-|para abertura de | |Grupo 1 - Pessoal e |Municipal de Saúde - FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 804.807.529,49 |R$ 144.535.272,88 |R$ 473.538.745,91 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 1.496.343.156,16 |R$ 739.457.035,82 |R$ 253.678.406,74 |
-
-|suplementares | | | |
-
-|Percentual utilizado |34,97% |16,35% |65,12% |
-
-|Atualizado em 04/10/2022 às 12:33:57 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS - LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do art. | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | 4º, limite de 15% do | 4º, limite de 15% do total |
+| - Limites autorizados | Orçamento: | total do Orçamento do | do Orçamento do Fundo |
+| para abertura de |  | Grupo 1 - Pessoal e | Municipal de Saúde - FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 804.807.529,49 | R$ 144.535.272,88 | R$ 473.538.745,91 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 1.496.343.156,16 | R$ 739.457.035,82 | R$ 253.678.406,74 |
+| suplementares |  |  |  |
+| Percentual utilizado | 34,97% | 16,35% | 65,12% |
+| Atualizado em 04/10/2022 às 12:33:57 |  |  |  |

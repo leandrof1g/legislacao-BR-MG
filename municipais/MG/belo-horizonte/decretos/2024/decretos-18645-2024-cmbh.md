@@ -58,51 +58,33 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da|R$ |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2817.339039.500 |4.150,00 |
-
-|Secretaria Municipal de Educação – SMED | |
-
-|2200.12.365.0169.2542.445042.500 |21.325.724,00 |
-
-|2200.12.122.0140.2317.339039.500 |3.258.000,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.333041.500 |318.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |24.905.874,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2817.339039.500 | 4.150,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.445042.500 | 21.325.724,00 |
+| 2200.12.122.0140.2317.339039.500 | 3.258.000,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.333041.500 | 318.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 24.905.874,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.1.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação |R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.9999.999999.500 |4.150,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339030.500 |12.000.000,00 |
-
-|2200.12.361.0168.2080.449052.500 |5.183.724,00 |
-
-|2200.12.365.0169.2542.339030.500 |5.000.000,00 |
-
-|2200.12.365.0169.2542.449052.500 |2.400.000,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.334041.500 |318.000,00 |
-
-|TOTAL DA ANULAÇÃO |24.905.874,00 |
+| I.1.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.9999.999999.500 | 4.150,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339030.500 | 12.000.000,00 |
+| 2200.12.361.0168.2080.449052.500 | 5.183.724,00 |
+| 2200.12.365.0169.2542.339030.500 | 5.000.000,00 |
+| 2200.12.365.0169.2542.449052.500 | 2.400.000,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.334041.500 | 318.000,00 |
+| TOTAL DA ANULAÇÃO | 24.905.874,00 |
 
 ANEXO II
 
@@ -134,24 +116,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 85.233.078,86 |
-
-|Valor do Decreto publicado nesta data |R$ 24.905.874,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 110.138.952,86 |
-
-|Saldo atual de créditos suplementares |R$ 1.873.193.819,54 |
-
-|Percentual utilizado |5,55% |
-
-|Atualizado em 28/02/2024 às 14:27:26 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 85.233.078,86 |
+| Valor do Decreto publicado nesta data | R$ 24.905.874,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 110.138.952,86 |
+| Saldo atual de créditos suplementares | R$ 1.873.193.819,54 |
+| Percentual utilizado | 5,55% |
+| Atualizado em 28/02/2024 às 14:27:26 |  |

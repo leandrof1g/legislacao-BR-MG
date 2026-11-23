@@ -42,7 +42,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 LIMITES DO PARQUE JACQUES COUSTEAU
 
-[pic] ”.
+*[imagem no documento original — ver `fonte_texto`]*
+
+”.
 
 **Art. 3º** - Esta lei entra em vigor na data de sua publicação.
 

@@ -62,23 +62,16 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei| |
-
-|nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão - SMPOG |
-
-|0600.04.122.0166.1323.449035.2.754.790 |774.576,00 |
-
-|0600.04.122.0166.1401.449040.2.754.790 |505.321,63 |
-
-|0600.04.122.0166.1323.449035.2.500.000 |86.064,00 |
-
-|0600.04.122.0166.1401.449040.2.500.000 |56.147,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.422.108,63 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão - SMPOG |  |
+| 0600.04.122.0166.1323.449035.2.754.790 | 774.576,00 |
+| 0600.04.122.0166.1401.449040.2.754.790 | 505.321,63 |
+| 0600.04.122.0166.1323.449035.2.500.000 | 86.064,00 |
+| 0600.04.122.0166.1401.449040.2.500.000 | 56.147,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.422.108,63 |
 
 ANEXO II
 

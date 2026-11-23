@@ -44,56 +44,31 @@ ANEXO
 
 IV.2 – Secretaria Municipal de Assuntos Institucionais e Comunicação Social – Smaics:
 
-|SMAICS |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |0 |- |
-
-| |AMPLO |4 |SMAI.DAM1.A.001 a SMAI.DAM1.A.004 |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |5 |SMAI.DAM2.A.001 a SMAI.DAM2.A.005 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |4 |SMAI.DAM3.A.001 a SMAI.DAM3.A.004 |
-
-|DAM-4 |LIMITADO |0 |- |
-
-| |AMPLO |17 |SMAI.DAM4.A.001 a SMAI.DAM4.A.017 |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |5 |SMAI.DAM5.A.001 a SMAI.DAM5.A.005 |
-
-|DAM-6 |LIMITADO |0 |- |
-
-| |AMPLO |6 |SMAI.DAM6.A.001 a SMAI.DAM6.A.006 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |3 |SMAI.DAM7.A.001 a SMAI.DAM7.A.003 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |7 |SMAI.DAM9.A.001 a SMAI.DAM9.A.007 |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |51 | |
+| SMAICS |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 0 | - |
+|  | AMPLO | 4 | SMAI.DAM1.A.001 a SMAI.DAM1.A.004 |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 5 | SMAI.DAM2.A.001 a SMAI.DAM2.A.005 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 4 | SMAI.DAM3.A.001 a SMAI.DAM3.A.004 |
+| DAM-4 | LIMITADO | 0 | - |
+|  | AMPLO | 17 | SMAI.DAM4.A.001 a SMAI.DAM4.A.017 |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 5 | SMAI.DAM5.A.001 a SMAI.DAM5.A.005 |
+| DAM-6 | LIMITADO | 0 | - |
+|  | AMPLO | 6 | SMAI.DAM6.A.001 a SMAI.DAM6.A.006 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 3 | SMAI.DAM7.A.001 a SMAI.DAM7.A.003 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 7 | SMAI.DAM9.A.001 a SMAI.DAM9.A.007 |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 51 |  |  |

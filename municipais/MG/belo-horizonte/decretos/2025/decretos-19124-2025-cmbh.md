@@ -58,39 +58,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei| |
-
-|nº 11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0019.2308.339039.1.660.000 |905.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |905.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei |  |
+| nº 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0019.2308.339039.1.660.000 | 905.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 905.000,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente no órgão relacionado abaixo, conforme | |
-
-|autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2405.339039.1.660.000 |261.300,00 |
-
-|1011.08.244.0113.2327.339039.1.660.000 |23.494,83 |
-
-|1011.08.244.0113.2334.339039.1.660.000 |400.205,17 |
-
-|1011.08.244.0019.2647.339039.1.660.000 |100.000,00 |
-
-|1011.08.245.0020.2878.339039.1.660.000 |120.000,00 |
-
-|TOTAL DA ANULAÇÃO |905.000,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente no órgão relacionado abaixo, conforme |  |
+| autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2405.339039.1.660.000 | 261.300,00 |
+| 1011.08.244.0113.2327.339039.1.660.000 | 23.494,83 |
+| 1011.08.244.0113.2334.339039.1.660.000 | 400.205,17 |
+| 1011.08.244.0019.2647.339039.1.660.000 | 100.000,00 |
+| 1011.08.245.0020.2878.339039.1.660.000 | 120.000,00 |
+| TOTAL DA ANULAÇÃO | 905.000,00 |
 
 ANEXO II
 
@@ -114,20 +102,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos especiais abertos anteriormente |841.567.604,33 |
-
-|Valor do Decreto publicado nesta data |905.000,00 |
-
-|Valor total dos créditos especiais abertos no exercício |842.472.604,33 |
-
-|Saldo atual do limite autorizado |1.206.554.622,60 |
-
-|Percentual utilizado |41,12% |
-
-|Atualizado em 27/05/2025 às 09:59:35 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos especiais abertos anteriormente | 841.567.604,33 |
+| Valor do Decreto publicado nesta data | 905.000,00 |
+| Valor total dos créditos especiais abertos no exercício | 842.472.604,33 |
+| Saldo atual do limite autorizado | 1.206.554.622,60 |
+| Percentual utilizado | 41,12% |
+| Atualizado em 27/05/2025 às 09:59:35 |  |

@@ -46,40 +46,23 @@ ANEXO I
 
 RELAÇÃO DAS ALTERAÇÕES DA HIERARQUIZAÇÃO DO SISTEMA VIÁRIO
 
-|TIPO |LOGRADOURO |Nº |FOLHA |QUADRÍCULA |TRECHO |CLASSIFICAÇÃO |
-
-|Rod. |MG-05 (cód. 26598) |01 |23 e 30 |56/57 e 56/56 |Entre o Anel Rodoviário – BR 262 |Ligação regional |
-
-| | | | | |e o limite com o Município de | |
-
-| | | | | |Sabará | |
-
-|Rua |Maria (cód. 43737) |02 |38 |46/49 |Entre a Rua Andira e a Rua das |Coletora |
-
-| | | | | |Pérolas | |
-
-|Rua |Alcindo Vieira (cód. |03 |51 |46/44 |Entre a Avenida Afonso Vaz de |Coletora |
-
-| |1968) | | | |Melo e a Rua Caetano Azeredo | |
-
-|Rua |São Miguel (cód. 063410)|04 |14 |51/59 |Entre a Rua Prof. Hermínio Guerra|Coletora |
-
-| | | | | |e a Rua Irlanda | |
-
-|Rua |Jordânia (cód. 38250) |05 |27 |48/56 e 49/56 |Entre a Rua Sena Madureira e a |Coletora |
-
-| | | | | |Avenida Fleming | |
+| TIPO | LOGRADOURO | Nº | FOLHA | QUADRÍCULA | TRECHO | CLASSIFICAÇÃO |
+| --- | --- | --- | --- | --- | --- | --- |
+| Rod. | MG-05 (cód. 26598) | 01 | 23 e 30 | 56/57 e 56/56 | Entre o Anel Rodoviário – BR 262 | Ligação regional |
+|  |  |  |  |  | e o limite com o Município de |  |
+|  |  |  |  |  | Sabará |  |
+| Rua | Maria (cód. 43737) | 02 | 38 | 46/49 | Entre a Rua Andira e a Rua das | Coletora |
+|  |  |  |  |  | Pérolas |  |
+| Rua | Alcindo Vieira (cód. | 03 | 51 | 46/44 | Entre a Avenida Afonso Vaz de | Coletora |
+|  | 1968) |  |  |  | Melo e a Rua Caetano Azeredo |  |
+| Rua | São Miguel (cód. 063410) | 04 | 14 | 51/59 | Entre a Rua Prof. Hermínio Guerra | Coletora |
+|  |  |  |  |  | e a Rua Irlanda |  |
+| Rua | Jordânia (cód. 38250) | 05 | 27 | 48/56 e 49/56 | Entre a Rua Sena Madureira e a | Coletora |
+|  |  |  |  |  | Avenida Fleming |  |
 
 ANEXO II
 
 MAPA DAS ALTERAÇÕES DA HIERARQUIZAÇÃO DO SISTEMA VIÁRIO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

@@ -38,9 +38,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 E - Dias comemorativos de maio
 
-|DATA |COMEMORAÇÃO |
-
-|2/5 |Dia Municipal do Futebol de Várzea |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 2/5 | Dia Municipal do Futebol de Várzea |
 
 .”.
 

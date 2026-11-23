@@ -518,13 +518,11 @@ Subseção II Da Promoção Por Processo Seletivo Interno
 
 **Art. 73** - Os atuais servidores ocupantes do cargo público de Agente Executivo Governamental serão posicionados conforme tabela a seguir no mesmo nível de vencimento-base em que se encontrarem na data de publicação desta lei.
 
-|Cargo atual |Posicionamento |
-
-|Agente Executivo Governamental A |Agente Executivo Governamental |
-
-|Agente Executivo Governamental B |Agente Executivo Governamental Júnior |
-
-|Agente Executivo Governamental C |Agente Executivo Governamental Pleno |
+| Cargo atual | Posicionamento |
+| --- | --- |
+| Agente Executivo Governamental A | Agente Executivo Governamental |
+| Agente Executivo Governamental B | Agente Executivo Governamental Júnior |
+| Agente Executivo Governamental C | Agente Executivo Governamental Pleno |
 
 **Parágrafo único** - O posicionamento de que trata o caput deste artigo não interrompe a contagem de tempo para fins de progressão ou promoção na carreira.
 
@@ -994,25 +992,17 @@ ANEXO I
 
 CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE EDUCAÇÃO DA PREFEITURA DE BELO HORIZONTE
 
-|CARGOS |Nº DE CARGOS |
-
-|1. Professor Municipal |10.000 |
-
-|2. Assistente Administrativo Educacional |1.750 |
-
-|3. Auxiliar de Escola |1.600 |
-
-|4. Técnico Superior de Educação |460 |
-
-|5. Professor para a Educação Infantil |9.000 |
-
-|6. Bibliotecário Escolar |415 |
-
-|Pleno: 380 | |
-
-|Sênior: 35 | |
-
-|TOTAL |23.225 |
+| CARGOS | Nº DE CARGOS |
+| --- | --- |
+| 1. Professor Municipal | 10.000 |
+| 2. Assistente Administrativo Educacional | 1.750 |
+| 3. Auxiliar de Escola | 1.600 |
+| 4. Técnico Superior de Educação | 460 |
+| 5. Professor para a Educação Infantil | 9.000 |
+| 6. Bibliotecário Escolar | 415 |
+| Pleno: 380 |  |
+| Sênior: 35 |  |
+| TOTAL | 23.225 |
 
 .”.
 
@@ -1022,105 +1012,57 @@ ANEXO II
 
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO DA PREFEITURA MUNICIPAL DE BELO HORIZONTE COM JORNADA DE 8 HORAS
 
-|CARGOS |TABELA DE VENCIMENTOS-BASE – 40 HORAS SEMANAIS |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |TRANSITÓRIO |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |2 |
-
-| | |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|CARGO/ CATEGORIA |De 7h (sete horas) de |De 19h (dezenove horas) de |
-
-| |segunda-feira até 19h (dezenove |sexta-feira até 7h (sete horas) de |
-
-| |horas) de sexta-feira |segunda-feira, feriados e pontos |
-
-| | |facultativos |
-
-|AGENTE DE SERVIÇOS DE SAÚDE|332,55 |415,69 |
-
-|TÉCNICO DE SERVIÇOS DE |332,55 |415,69 |
-
-|SAÚDE | | |
-
-|CIRURGIÃO-DENTISTA |499,46 |624,32 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |499,46 |624,32 |
-
-|ENFERMEIRO |740,60 |925,75 |
-
-|MÉDICO |1.498,37 |1.872,96 |
+| CARGOS | TABELA DE VENCIMENTOS-BASE – 40 HORAS SEMANAIS |  |
+| --- | --- | --- |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | TRANSITÓRIO |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 | 2 |
+|  |  | NÍVEL |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  |  |  |
+| CARGO/ CATEGORIA | De 7h (sete horas) de | De 19h (dezenove horas) de |
+|  | segunda-feira até 19h (dezenove | sexta-feira até 7h (sete horas) de |
+|  | horas) de sexta-feira | segunda-feira, feriados e pontos |
+|  |  | facultativos |
+| AGENTE DE SERVIÇOS DE SAÚDE | 332,55 | 415,69 |
+| TÉCNICO DE SERVIÇOS DE | 332,55 | 415,69 |
+| SAÚDE |  |  |
+| CIRURGIÃO-DENTISTA | 499,46 | 624,32 |
+| TÉCNICO SUPERIOR DE SAÚDE | 499,46 | 624,32 |
+| ENFERMEIRO | 740,60 | 925,75 |
+| MÉDICO | 1.498,37 | 1.872,96 |
 
 ANEXO XIII
 
@@ -1128,37 +1070,23 @@ ANEXO XIII
 
 TABELA DE VENCIMENTOS-BASE DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DE FISCALIZAÇÃO INTEGRADA
 
-|CARGO |NÍVEL |
-
-| |TRANSITÓRIO |
-
-| |TRANSITÓRIO |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |2 |
-
-|Execução/Coordenação |Guarda Civil Municipal III - GCM III |83% |
-
-| |Guarda Civil Municipal II - GCM II | |
-
-| |Guarda Civil Municipal I - GCM I | |
-
-| |Guarda Civil Municipal Classe Distinta II - GCD II | |
-
-| |Guarda Civil Municipal Classe Distinta I - GCD I | |
-
-|Comando |Subinspetor |10% |
-
-| |Inspetor |5% |
-
-| |Supervisor |1,3% |
-
-| |Superintendente |0,7% |
+| CARGO | NÍVEL |  |
+| --- | --- | --- |
+|  | TRANSITÓRIO |  |
+|  | TRANSITÓRIO |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 | 2 |
+| Execução/Coordenação | Guarda Civil Municipal III - GCM III | 83% |
+|  | Guarda Civil Municipal II - GCM II |  |
+|  | Guarda Civil Municipal I - GCM I |  |
+|  | Guarda Civil Municipal Classe Distinta II - GCD II |  |
+|  | Guarda Civil Municipal Classe Distinta I - GCD I |  |
+| Comando | Subinspetor | 10% |
+|  | Inspetor | 5% |
+|  | Supervisor | 1,3% |
+|  | Superintendente | 0,7% |
 
 .”.
 
@@ -1170,111 +1098,60 @@ ANEXO XVI
 
 TABELA DE VENCIMENTOS-BASE DO PLANO DE CARREIRA DA GUARDA CIVIL MUNICIPAL DE BELO HORIZONTE
 
-|POSTO HIERÁRQUICO |TABELA DE VENCIMENTOS-BASE (Valores em R$) |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|Cargo |Nível |
-
-| |
-
-|Cargo |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |1 |
-
-| |
-
-|Cargo |Nível |
-
-| |1 |
-
-|Analista de Políticas Públicas |1.048 |
-
-|Analista de Planejamento e Gestão Governamental |320 |
+| POSTO HIERÁRQUICO | TABELA DE VENCIMENTOS-BASE (Valores em R$) |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  |  |
+| 30 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| 40 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| Cargo | Nível |
+|  |  |
+| Cargo | Nível |
+|  |  |
+| 30 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| 40 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| 30 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| 40 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| 30 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| 40 HORAS SEMANAIS |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  | 1 |
+|  |  |
+| Cargo | Nível |
+|  | 1 |
+| Analista de Políticas Públicas | 1.048 |
+| Analista de Planejamento e Gestão Governamental | 320 |
 
 .”.
 
@@ -1282,120 +1159,63 @@ ANEXO XXIII
 
 “ANEXO III TABELAS DE VENCIMENTOS-BASE DOS CARGOS DE PROVIMENTO EFETIVO DE ANALISTA DE POLÍTICAS PÚBLICAS E ANALISTA DE PLANEJAMENTO E GESTÃO GOVERNAMENTAL DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE
 
-|ANALISTA DE POLÍTICAS PÚBLICAS |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|(VALORES EM R$) |
-
-|VIGÊNCIA |MÍNIMO |MÉDIO |MÁXIMO |
-
-|1º (PRIMEIRO) DIA DO MÊS SUBSEQUENTE À PUBLICAÇÃO DA LEI |151,80 |303,60 |607,20 |
+| ANALISTA DE POLÍTICAS PÚBLICAS |  |  |  |
+| --- | --- | --- | --- |
+| 30 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |
+| Classe | Nível |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  | 1 |  |  |
+|  | NÍVEL |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |  |  |
+| Classe | Nível |  |  |
+|  |  |  |  |
+| (VALORES EM R$) |  |  |  |
+| VIGÊNCIA | MÍNIMO | MÉDIO | MÁXIMO |
+| 1º (PRIMEIRO) DIA DO MÊS SUBSEQUENTE À PUBLICAÇÃO DA LEI | 151,80 | 303,60 | 607,20 |

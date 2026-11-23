@@ -64,31 +64,20 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do|R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |
-
-|3304.26.452.0060.2567.319013.2.501.784 |533.108,66 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339034.2.601.000 |7.412,16 |
-
-|2302.10.302.0114.2936.339034.2.600.000 |56.271,71 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.0146.2900.319011.2.501.784 |588.142,32 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0060.2567.319013.2.501.784 |50.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.234.934,85 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3304.26.452.0060.2567.319013.2.501.784 | 533.108,66 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339034.2.601.000 | 7.412,16 |
+| 2302.10.302.0114.2936.339034.2.600.000 | 56.271,71 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.0146.2900.319011.2.501.784 | 588.142,32 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0060.2567.319013.2.501.784 | 50.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.234.934,85 |
 
 ANEXO II
 

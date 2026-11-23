@@ -58,37 +58,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no caput do art. 4º da|R$ |
-
-|Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.302.030.2.620.3190.0006 |500.000,00 |
-
-|2301.10.302.030.2.620.3191.0006 |510.000,00 |
-
-|2301.10.302.030.2.620.3390.0006 |293.000,00 |
-
-|2301.10.302.030.2.875.3190.0006 |5.000.000,00 |
-
-|2301.10.302.030.2.875.3191.0006 |1.650.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |7.953.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no caput do art. 4º da | R$ |
+| --- | --- |
+| Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.302.030.2.620.3190.0006 | 500.000,00 |
+| 2301.10.302.030.2.620.3191.0006 | 510.000,00 |
+| 2301.10.302.030.2.620.3390.0006 | 293.000,00 |
+| 2301.10.302.030.2.875.3190.0006 | 5.000.000,00 |
+| 2301.10.302.030.2.875.3191.0006 | 1.650.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 7.953.000,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.122.030.2.900.3390.0006 |2.160.000,00 |
-
-|2301.10.302.030.2.875.3390.0006 |5.793.000,00 |
-
-|TOTAL DA ANULAÇÃO |7.953.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.122.030.2.900.3390.0006 | 2.160.000,00 |
+| 2301.10.302.030.2.875.3390.0006 | 5.793.000,00 |
+| TOTAL DA ANULAÇÃO | 7.953.000,00 |
 
 ANEXO II
 
@@ -112,36 +101,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do art.|Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|4º, limite de 15% do |4º, limite de 15% do total |
-
-|– Limites autorizados |Orçamento: |total do Orçamento do |do Orçamento do Fundo |
-
-|para abertura de | |Grupo 1 – Pessoal e |Municipal de Saúde – FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.821.907.864,79 |R$ 230.915.100,00 |R$ 624.780.748,25 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 479.242.820,86 |R$ 653.077.208,70 |R$ 102.436.404,40 |
-
-|suplementares | | | |
-
-|Percentual utilizado |79,17% |26,12% |85,91% |
-
-|Atualizado em 16/12/2022 às 14:52:17 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do art. | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | 4º, limite de 15% do | 4º, limite de 15% do total |
+| – Limites autorizados | Orçamento: | total do Orçamento do | do Orçamento do Fundo |
+| para abertura de |  | Grupo 1 – Pessoal e | Municipal de Saúde – FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.821.907.864,79 | R$ 230.915.100,00 | R$ 624.780.748,25 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 479.242.820,86 | R$ 653.077.208,70 | R$ 102.436.404,40 |
+| suplementares |  |  |  |
+| Percentual utilizado | 79,17% | 26,12% | 85,91% |
+| Atualizado em 16/12/2022 às 14:52:17 |  |  |  |

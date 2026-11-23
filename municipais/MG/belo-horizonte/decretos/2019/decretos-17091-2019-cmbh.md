@@ -110,101 +110,55 @@ ANEXO I
 
 PROGRAMAS ABRANGIDOS
 
-|Programa |Secretaria |Descritivo Básico |
-
-| |Responsável | |
-
-|Esporte Esperança |SMEL |Desenvolvimento de práticas esportivas no contraturno escolar |
-
-| | |com base no aprendizado e formação integral, contribuindo para|
-
-| | |o desenvolvimento motor, físico, cognitivo e socioafetivo da |
-
-| | |criança e do adolescente. O módulo privilegia o processo |
-
-| | |pedagógico de ensino-aprendizagem do esporte, a diversidade de|
-
-| | |vivências esportivas, o respeito às individualidades e |
-
-| | |diferenças e o incentivo à autonomia, cooperação e |
-
-| | |corresponsabilidade. Público atendido: crianças e adolescentes|
-
-| | |da faixa etária entre seis e dezessete anos. |
-
-|Superar |SMEL |Desenvolvimento do esporte adaptado, possibilitando às pessoas|
-
-| | |com deficiência participar e fruir de uma atividade física e |
-
-| | |socializante. O módulo visa oferecer atividades de cunho |
-
-| | |inclusivo, promovendo a cidadania e o desenvolvimento da |
-
-| | |qualidade de vida. Público atendido: pessoas com deficiência, |
-
-| | |sem limitação de idade. |
-
-|Vida Ativa |SMEL |Desenvolvimento da atividade física regular e do lazer através|
-
-| | |da constituição de grupos de convivência. O módulo visa |
-
-| | |contribuir, para a promoção da saúde, da autoestima, da |
-
-| | |socialização e da qualidade de vida dos participantes. Público|
-
-| | |atendido: pessoas com idade igual ou superior a cinquenta anos|
-
-|Academia da Cidade |SMSA |Desenvolvimento de atividades físicas sistematizadas. O módulo|
-
-| | |visa possibilitar, por meio de um processo educativo e |
-
-| | |cultural, a implementação de hábitos saudáveis aos |
-
-| | |participantes. Público atendido: adolescentes em situação de |
-
-| | |vulnerabilidade e pessoas acima de dezoito anos de idade. |
-
-|Escola Integrada |SMED |Possibilitar diferentes práticas esportivas e de lazer em |
-
-| | |espaços não escolares, garantindo aos estudantes da RME a |
-
-| | |realização de atividades baseadas em experimentações |
-
-| | |corporais, lúdicas e esportivas a fim de promover o |
-
-| | |desenvolvimento das potencialidades físicas, socialização e |
-
-| | |vivência coletiva dos valores e atitudes. |
-
-| | |O atendimento realizado em cada módulo deverá garantir a |
-
-| | |utilização, pelos estudantes das escolas públicas municipais, |
-
-| | |dos diversos espaços dos clubes aderentes ao programa. |
-
-| | |O módulo visa a formação integral dos estudantes, |
-
-| | |possibilitando novas oportunidades, de múltiplas |
-
-| | |aprendizagens, em espaços sociais que ultrapassam os muros da |
-
-| | |escola. |
-
-| | |Público atendido: Estudantes da Rede Municipal de Educação de |
-
-| | |Belo Horizonte |
-
-|Sistema Único de |SMASAC |Recepção da comunidade referenciada pelos Centros de |
-
-|Assistência Social | |Referência de Assitência Social (CRAS) possibilitando o |
-
-|– SUAS | |fortalecimento de vínculos familiares e comunitários por meio |
-
-| | |de vivências socializadoras de esporte e lazer de natureza |
-
-| | |recreativa nos espaços da entidade aderida. |
-
-| | |Público atendido: Comunidade/família referenciada no CRAS |
+| Programa | Secretaria | Descritivo Básico |
+| --- | --- | --- |
+|  | Responsável |  |
+| Esporte Esperança | SMEL | Desenvolvimento de práticas esportivas no contraturno escolar |
+|  |  | com base no aprendizado e formação integral, contribuindo para |
+|  |  | o desenvolvimento motor, físico, cognitivo e socioafetivo da |
+|  |  | criança e do adolescente. O módulo privilegia o processo |
+|  |  | pedagógico de ensino-aprendizagem do esporte, a diversidade de |
+|  |  | vivências esportivas, o respeito às individualidades e |
+|  |  | diferenças e o incentivo à autonomia, cooperação e |
+|  |  | corresponsabilidade. Público atendido: crianças e adolescentes |
+|  |  | da faixa etária entre seis e dezessete anos. |
+| Superar | SMEL | Desenvolvimento do esporte adaptado, possibilitando às pessoas |
+|  |  | com deficiência participar e fruir de uma atividade física e |
+|  |  | socializante. O módulo visa oferecer atividades de cunho |
+|  |  | inclusivo, promovendo a cidadania e o desenvolvimento da |
+|  |  | qualidade de vida. Público atendido: pessoas com deficiência, |
+|  |  | sem limitação de idade. |
+| Vida Ativa | SMEL | Desenvolvimento da atividade física regular e do lazer através |
+|  |  | da constituição de grupos de convivência. O módulo visa |
+|  |  | contribuir, para a promoção da saúde, da autoestima, da |
+|  |  | socialização e da qualidade de vida dos participantes. Público |
+|  |  | atendido: pessoas com idade igual ou superior a cinquenta anos |
+| Academia da Cidade | SMSA | Desenvolvimento de atividades físicas sistematizadas. O módulo |
+|  |  | visa possibilitar, por meio de um processo educativo e |
+|  |  | cultural, a implementação de hábitos saudáveis aos |
+|  |  | participantes. Público atendido: adolescentes em situação de |
+|  |  | vulnerabilidade e pessoas acima de dezoito anos de idade. |
+| Escola Integrada | SMED | Possibilitar diferentes práticas esportivas e de lazer em |
+|  |  | espaços não escolares, garantindo aos estudantes da RME a |
+|  |  | realização de atividades baseadas em experimentações |
+|  |  | corporais, lúdicas e esportivas a fim de promover o |
+|  |  | desenvolvimento das potencialidades físicas, socialização e |
+|  |  | vivência coletiva dos valores e atitudes. |
+|  |  | O atendimento realizado em cada módulo deverá garantir a |
+|  |  | utilização, pelos estudantes das escolas públicas municipais, |
+|  |  | dos diversos espaços dos clubes aderentes ao programa. |
+|  |  | O módulo visa a formação integral dos estudantes, |
+|  |  | possibilitando novas oportunidades, de múltiplas |
+|  |  | aprendizagens, em espaços sociais que ultrapassam os muros da |
+|  |  | escola. |
+|  |  | Público atendido: Estudantes da Rede Municipal de Educação de |
+|  |  | Belo Horizonte |
+| Sistema Único de | SMASAC | Recepção da comunidade referenciada pelos Centros de |
+| Assistência Social |  | Referência de Assitência Social (CRAS) possibilitando o |
+| – SUAS |  | fortalecimento de vínculos familiares e comunitários por meio |
+|  |  | de vivências socializadoras de esporte e lazer de natureza |
+|  |  | recreativa nos espaços da entidade aderida. |
+|  |  | Público atendido: Comunidade/família referenciada no CRAS |
 
 ”
 
@@ -216,21 +170,15 @@ ANEXO II
 
 MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
-|Programa |Nº Indivíduos atendidos|Duração Diária (em |Frequência |
-
-| | |horas) | |
-
-|Esporte Esperança |80 |1 |2 Semanal |
-
-|Superar |10 |1 |2 Semanal |
-
-|Vida Ativa |50 |1 |2 Semanal |
-
-|Academia da Cidade |60 |1 |3 Semanal |
-
-|Escola Integrada |80 |6 |2 Semanal |
-
-|SUAS |50 |4 |20 Anual |
+| Programa | Nº Indivíduos atendidos | Duração Diária (em | Frequência |
+| --- | --- | --- | --- |
+|  |  | horas) |  |
+| Esporte Esperança | 80 | 1 | 2 Semanal |
+| Superar | 10 | 1 | 2 Semanal |
+| Vida Ativa | 50 | 1 | 2 Semanal |
+| Academia da Cidade | 60 | 1 | 3 Semanal |
+| Escola Integrada | 80 | 6 | 2 Semanal |
+| SUAS | 50 | 4 | 20 Anual |
 
 ”
 
@@ -240,54 +188,33 @@ ANEXO III
 
 “ANEXO III
 
-|[pic] |Formulário de Requerimento de Adesão |
+| *[imagem no documento original — ver `fonte_texto`]*
 
-| |Decreto nº 14.183, de 10 de novembro de 2010 |
-
-|Nome da Entidade |
-
-|Endereço |
-
-| |
-
-|Telefone |CNPJ |
-
-|Nome do Representante: |
-
-|Cargo ou função: |CPF: |
-
-|A Entidade acima identificada, por meio de seu representante, vem solicitar a habilitação no Programa |
-
-|Esporte para Todos de benefício fiscal de IPTU e débitos perante a Fazenda Pública Municipal, previsto|
-
-|no art. 4º da Lei nº 9.795/09, conforme Decreto nº 14.183, de 10 de novembro de 2010, estando ciente |
-
-|das condições previstas na normatização indicada. |
-
-|Módulo/Quantitativo de adesão: |
-
-| |Esporte | |Academia da Cidade |
-
-| |Esperança | | |
-
-| |Superar | |Escola Integrada |
-
-| |Vida Ativa | |SUAS |
-
-|Opção de Incentivo tributário da Adesão: |
-
-| | |
-
-|___________ IPTU |__________ Dívida Ativa |
-
-|Local e Data: |
-
-|Assinatura: |
-
-|Para uso da PBH |
-
-|Local e Data de Protocolo: |
-
-|Rubrica do recebedor: |BM: |
+| Formulário de Requerimento de Adesão |  |  |
+| --- | --- | --- | --- |
+|  | Decreto nº 14.183, de 10 de novembro de 2010 |  |  |
+| Nome da Entidade |  |  |  |
+| Endereço |  |  |  |
+|  |  |  |  |
+| Telefone | CNPJ |  |  |
+| Nome do Representante: |  |  |  |
+| Cargo ou função: | CPF: |  |  |
+| A Entidade acima identificada, por meio de seu representante, vem solicitar a habilitação no Programa |  |  |  |
+| Esporte para Todos de benefício fiscal de IPTU e débitos perante a Fazenda Pública Municipal, previsto |  |  |  |
+| no art. 4º da Lei nº 9.795/09, conforme Decreto nº 14.183, de 10 de novembro de 2010, estando ciente |  |  |  |
+| das condições previstas na normatização indicada. |  |  |  |
+| Módulo/Quantitativo de adesão: |  |  |  |
+|  | Esporte |  | Academia da Cidade |
+|  | Esperança |  |  |
+|  | Superar |  | Escola Integrada |
+|  | Vida Ativa |  | SUAS |
+| Opção de Incentivo tributário da Adesão: |  |  |  |
+|  |  |  |  |
+| ___________ IPTU | __________ Dívida Ativa |  |  |
+| Local e Data: |  |  |  |
+| Assinatura: |  |  |  |
+| Para uso da PBH |  |  |  |
+| Local e Data de Protocolo: |  |  |  |
+| Rubrica do recebedor: | BM: |  |  |
 
 ”

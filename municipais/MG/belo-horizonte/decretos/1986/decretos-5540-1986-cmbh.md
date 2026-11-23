@@ -176,65 +176,37 @@ MODELOS I E II A QUE SE REFERE O DECRETO Nº 5540 DE 19 DE DEZEMBRO DE 1986
 
 MODELO I
 
-|Firma ou razão social |
-
-|endereço |
-
-| |
-
-|fone insc. munic.: |
-
-|atividade código: |
-
-|O contribuinte acima identificado, através identificado, através de seu representante legal, abaixo assinado, faz, neste ato, a sua |
-
-|opção pelo regime de compensação de débitos tributários com a concessão de bolsas de estudos e, para tal, declara os seguintes débitos |
-
-|de sua responsabilidade que deverão servir de base à compensação. |
-
-|MÊS/ANO | |ISSQN | |TVF(S). | |DÉBITOS EM DÍVIDA ATIVA |
-
-|nov/ | | | |Nºs: | |ORIGEM: |
-
-|dez/ | | | |IMPOSTO: | | |
-
-|jan/ | | | |CORREÇÃO: | | |
-
-|fev/ | | | |MULTA: | | |
-
-|mar/ | | | |JUROS: | |VALOR EM |
-
-| | | | | | |.........../.........../........... |
-
-|abr/ | | | |TOTAL: | |CZ$ |
-
-|mai/ | | | |TFF(S) | |DÉBITOS AJUIZADOS |
-
-|jun/ |
-
-|EXERCÍCIO |Imóvel próprio |ÍNDICE CADASTRAL |VALORES |
-
-| | | | |
-
-| | | | |
-
-| | | | |
-
-|OUTROS DÉBITOS (DECLARAR: ORGIEM, DATA DE VENCIMENTO E VALOR) |
-
-| |
-
-| |
-
-| |
-
-|DÉBITO REMANESCENTE DO EXERCÍCIO DE: CZ$ |
-
-|BELO HORIZONTE......../......../........ |
-
-|Contribuinte ou Representante Legal |
-
-|OBSERVAÇÃO: |
+| Firma ou razão social |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| endereço |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| fone insc. munic.: |  |  |  |  |  |  |
+| atividade código: |  |  |  |  |  |  |
+| O contribuinte acima identificado, através identificado, através de seu representante legal, abaixo assinado, faz, neste ato, a sua |  |  |  |  |  |  |
+| opção pelo regime de compensação de débitos tributários com a concessão de bolsas de estudos e, para tal, declara os seguintes débitos |  |  |  |  |  |  |
+| de sua responsabilidade que deverão servir de base à compensação. |  |  |  |  |  |  |
+| MÊS/ANO |  | ISSQN |  | TVF(S). |  | DÉBITOS EM DÍVIDA ATIVA |
+| nov/ |  |  |  | Nºs: |  | ORIGEM: |
+| dez/ |  |  |  | IMPOSTO: |  |  |
+| jan/ |  |  |  | CORREÇÃO: |  |  |
+| fev/ |  |  |  | MULTA: |  |  |
+| mar/ |  |  |  | JUROS: |  | VALOR EM |
+|  |  |  |  |  |  | .........../.........../........... |
+| abr/ |  |  |  | TOTAL: |  | CZ$ |
+| mai/ |  |  |  | TFF(S) |  | DÉBITOS AJUIZADOS |
+| jun/ |  |  |  |  |  |  |
+| EXERCÍCIO | Imóvel próprio | ÍNDICE CADASTRAL | VALORES |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| OUTROS DÉBITOS (DECLARAR: ORGIEM, DATA DE VENCIMENTO E VALOR) |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| DÉBITO REMANESCENTE DO EXERCÍCIO DE: CZ$ |  |  |  |  |  |  |
+| BELO HORIZONTE......../......../........ |  |  |  |  |  |  |
+| Contribuinte ou Representante Legal |  |  |  |  |  |  |
+| OBSERVAÇÃO: |  |  |  |  |  |  |
 
 Este anexo compõe-se de 12 campos e está dividido em três partes, a saber:
 

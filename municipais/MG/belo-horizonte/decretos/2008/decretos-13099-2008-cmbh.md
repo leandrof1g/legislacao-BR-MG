@@ -32,33 +32,21 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, decret
 
 "Art. 1º -
 
-|4 às 5h |Fechamento, pela BHTRANS, da Avenida Afonso Pena, entre as Ruas da Bahia e Guajajaras, para início da montagem das |
-
-| |barracas. |
-
-|5 h |Início da montagem das barracas pelos expositores e/ou montadores.* |
-
-|5 às 6h30 |Permissão de acesso de veículos de expositores devidamente credenciados para descarregar mercadorias em local previamente |
-
-| |definido (baias do lado direito da Avenida Afonso Pena). |
-
-|7h |Horário máximo de permanência dos veículos credenciados no interior da feira. |
-
-|8h |Horário máximo para ocupação do espaço pelo feirante e início da comercialização dos produtos. |
-
-|14h |Encerramento da exposição e venda de produtos. |
-
-|14h30 |Abertura das grades para acesso dos veículos de expositores e/ou montadores, devidamente credenciados, para recolherem as |
-
-| |mercadorias e barracas. |
-
-|14 às 15h |Desmontagem das barracas pelos expositores e/ou desmontadores. |
-
-|14h30 |Liberação da Avenida Afonso Pena para limpeza. |
-
-|17 h |Liberação, pela BHTRANS, da Avenida Afonso Pena para o tráfego de veículos. |
-
-| |*Os expositores e montadores deverão evitar o excesso de barulho, para não incomodar os moradores." (NR) |
+| 4 às 5h | Fechamento, pela BHTRANS, da Avenida Afonso Pena, entre as Ruas da Bahia e Guajajaras, para início da montagem das |
+| --- | --- |
+|  | barracas. |
+| 5 h | Início da montagem das barracas pelos expositores e/ou montadores.* |
+| 5 às 6h30 | Permissão de acesso de veículos de expositores devidamente credenciados para descarregar mercadorias em local previamente |
+|  | definido (baias do lado direito da Avenida Afonso Pena). |
+| 7h | Horário máximo de permanência dos veículos credenciados no interior da feira. |
+| 8h | Horário máximo para ocupação do espaço pelo feirante e início da comercialização dos produtos. |
+| 14h | Encerramento da exposição e venda de produtos. |
+| 14h30 | Abertura das grades para acesso dos veículos de expositores e/ou montadores, devidamente credenciados, para recolherem as |
+|  | mercadorias e barracas. |
+| 14 às 15h | Desmontagem das barracas pelos expositores e/ou desmontadores. |
+| 14h30 | Liberação da Avenida Afonso Pena para limpeza. |
+| 17 h | Liberação, pela BHTRANS, da Avenida Afonso Pena para o tráfego de veículos. |
+|  | *Os expositores e montadores deverão evitar o excesso de barulho, para não incomodar os moradores." (NR) |
 
 **Art. 2º** - Os parágrafos 1º e 2º do art. 4º do Anexo I do Decreto n° 12.818/07 passam a vigorar com a seguinte redação:
 

@@ -46,15 +46,12 @@ ANEXO I
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|Padarias e lanchonetes (permitido o consumo no local) |Diariamente, entre 5h e 1h |
-
-| | |
-
-| |Para o consumo de bebidas alcoólicas no local, devem-se observar as|
-
-| |restrições dos demais serviços de alimentação |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| Padarias e lanchonetes (permitido o consumo no local) | Diariamente, entre 5h e 1h |
+|  |  |
+|  | Para o consumo de bebidas alcoólicas no local, devem-se observar as |
+|  | restrições dos demais serviços de alimentação |
 
 ”
 
@@ -66,26 +63,17 @@ ANEXO II
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Comércio atacadista da cadeia de atividades do comércio varejista |Diariamente, sem restrição de horário |
-
-|autorizada a funcionar | |
-
-|(...) |(...) |
-
-|Serviços de alimentação, para consumo no local: restaurantes, |Diariamente, entre 11h e 1h |
-
-|cantinas, sorveterias, bares e similares, inclusive aqueles no | |
-
-|interior de galerias de lojas, centros de comércio, shopping |A retirada no local deve observar o horário de funcionamento para o|
-
-|centers e clubes de serviço, de lazer, sociais e esportivos |consumo no local |
-
-| | |
-
-| |Não há restrição de horário para a entrega em domicílio |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Comércio atacadista da cadeia de atividades do comércio varejista | Diariamente, sem restrição de horário |
+| autorizada a funcionar |  |
+| (...) | (...) |
+| Serviços de alimentação, para consumo no local: restaurantes, | Diariamente, entre 11h e 1h |
+| cantinas, sorveterias, bares e similares, inclusive aqueles no |  |
+| interior de galerias de lojas, centros de comércio, shopping | A retirada no local deve observar o horário de funcionamento para o |
+| centers e clubes de serviço, de lazer, sociais e esportivos | consumo no local |
+|  |  |
+|  | Não há restrição de horário para a entrega em domicílio |
 
 ”

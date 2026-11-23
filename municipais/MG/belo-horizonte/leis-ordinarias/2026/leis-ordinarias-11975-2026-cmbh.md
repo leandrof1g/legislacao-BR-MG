@@ -32,9 +32,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|agosto |Mês da Conscientização sobre a Paternidade Responsável |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| agosto | Mês da Conscientização sobre a Paternidade Responsável |
 
 .”.
 

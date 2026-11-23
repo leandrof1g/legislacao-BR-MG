@@ -152,7 +152,7 @@ Diretrizes para operacionalização do Sistema de Administração de Formulário
 
 Os formulários podem ser classificados quanto aos seguintes aspectos:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 4.3.5. Dimensões
 
@@ -160,19 +160,19 @@ As dimensões de um formulário são padronizadas a fim de uniformizar sua elabo
 
 Série A (utilizada para formulários, revistas, impressos, livros e folhetos)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Série B (utilizada para confecção de cartazes e pastas)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Série C (utilizada para confecção de fichas, pastas e capas)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Série Polegadas (para fichas destinadas a fichários)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 4.4. Do Desenvolvimento do Sistema
 
@@ -268,8 +268,9 @@ As dimensões de modelos destinados à circulação interna, expedição por mal
 
 6.1.Solicitação de Criação, Alteração e Extinção de Formulários
 
-[pic][pic][pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 INSTRUÇÕES DE PREENCHIMENTO
 
-Formulário: "Solicitação de Serviços Gráficos" - AGDA-00104007[pic][pic]
+Formulário: "Solicitação de Serviços Gráficos" - AGDA-00104007*[imagem no documento original — ver `fonte_texto`]*
+

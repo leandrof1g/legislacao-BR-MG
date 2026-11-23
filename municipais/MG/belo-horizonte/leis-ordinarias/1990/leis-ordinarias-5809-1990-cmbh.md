@@ -98,31 +98,28 @@ c) os titulares do cargo de Motorista I passam a perceber seus vencimentos segun
 
 **Art. 11** - A partir de 1° de junho de 1990 a correlação do cargo ou emprego de Assistente Social, estabelecida no anexo IV da Lei n° 5447, de 30 de novembro de 1988, fica alterada para:
 
-|ATUAL |PROPOSTO |QUALIFICAÇÃO |
-
-|Assistente Social cujos ocupantes prestam |Técnico Superior de Saúde I, II e III |Assistente Social |
-
-|serviços na Secretaria Municipal de Saúde. | | |
+| ATUAL | PROPOSTO | QUALIFICAÇÃO |
+| --- | --- | --- |
+| Assistente Social cujos ocupantes prestam | Técnico Superior de Saúde I, II e III | Assistente Social |
+| serviços na Secretaria Municipal de Saúde. |  |  |
 
 **Art. 11** revogado pela Lei nº 6.352, de 15/7/1993 (Art. 93, XI)
 
 **Art. 12** - A partir de 1° de agosto de 1990, a correlação do cargo ou emprego de Sociólogo, estabelecida no anexo IV da Lei n° 5447, de 30 de novembro de 1988, fica alterada para:
 
-|ATUAL |PROPOSTO |QUALIFICAÇÃO |
-
-|Sociólogo - cujos ocupantes prestam serviços |Técnico Superior de Saúde I, II e III. |Sociólogo |
-
-|na Secretaria Municipal de Saúde | | |
+| ATUAL | PROPOSTO | QUALIFICAÇÃO |
+| --- | --- | --- |
+| Sociólogo - cujos ocupantes prestam serviços | Técnico Superior de Saúde I, II e III. | Sociólogo |
+| na Secretaria Municipal de Saúde |  |  |
 
 **Art. 12** revogado pela Lei nº 6.352, de 15/7/1993 (Art. 93, XI)
 
 **Art. 13** - Inclui-se no Anexo IV - Quadro de Correlação da Lei n° 5447, de 30 de novembro de 1988:
 
-|ATUAL |PROPOSTO |QUALIFICAÇÃO |
-
-|Fotógrafo |Técnico Superior Público I, II e III. |--------------- |
-
-|(extinto) | | |
+| ATUAL | PROPOSTO | QUALIFICAÇÃO |
+| --- | --- | --- |
+| Fotógrafo | Técnico Superior Público I, II e III. | --------------- |
+| (extinto) |  |  |
 
 **Art. 14** - Os adicionais, as gratificações e as vantagens do servidor apostilado, aposentado e da ativa, e do ocupante de cargo em comissão que tiveram seu pagamento suspenso em virtude da aplicação do art. 7° da Lei n° 5673, de 15 de fevereiro de 1990, são pagos a partir do dia 1° de junho de 1990.
 

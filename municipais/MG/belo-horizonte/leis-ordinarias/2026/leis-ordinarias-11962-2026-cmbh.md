@@ -38,9 +38,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 G - Dias comemorativos de julho
 
-|DATA |COMEMORAÇÃO |
-
-|terceiro domingo de julho |Dia Municipal da Parada do Orgulho LGBT |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| terceiro domingo de julho | Dia Municipal da Parada do Orgulho LGBT |
 
 .”.
 

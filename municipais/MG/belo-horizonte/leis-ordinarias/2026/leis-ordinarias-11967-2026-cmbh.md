@@ -38,9 +38,9 @@ DIA COMEMORATIVO
 
 F - Dias comemorativos de junho:
 
-|DATA |COMEMORAÇÃO |
-
-|21/6 |Dia Municipal da Esclerose Lateral Amiotrófica - ELA |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 21/6 | Dia Municipal da Esclerose Lateral Amiotrófica - ELA |
 
 ”.
 

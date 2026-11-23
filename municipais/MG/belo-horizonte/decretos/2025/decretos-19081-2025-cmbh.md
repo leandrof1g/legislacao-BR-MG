@@ -58,51 +58,33 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 1º da Lei |R$ |
-
-|nº 11.842, de 3 de abril de 2025: | |
-
-|Câmara Municipal – CM |
-
-|0101.01.031.0001.2001.339037.1.500.000 |10.967.000,00 |
-
-|0101.01.031.0001.2001.339039.1.500.000 |9.574.000,00 |
-
-|0101.01.031.0001.2001.339040.1.500.000 |3.396.500,00 |
-
-|0101.01.031.0001.2001.339046.1.500.000 |12.000.000,00 |
-
-|0101.01.031.0001.2920.339039.1.500.000 |1.732.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |37.669.500,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 1º da Lei | R$ |
+| --- | --- |
+| nº 11.842, de 3 de abril de 2025: |  |
+| Câmara Municipal – CM |  |
+| 0101.01.031.0001.2001.339037.1.500.000 | 10.967.000,00 |
+| 0101.01.031.0001.2001.339039.1.500.000 | 9.574.000,00 |
+| 0101.01.031.0001.2001.339040.1.500.000 | 3.396.500,00 |
+| 0101.01.031.0001.2001.339046.1.500.000 | 12.000.000,00 |
+| 0101.01.031.0001.2920.339039.1.500.000 | 1.732.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 37.669.500,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.9999.999999.1.500.000 |169.500,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.1.500.000 |2.900.000,00 |
-
-|2700.15.451.0233.1396.449051.1.500.000 |6.500.000,00 |
-
-|2700.18.541.0233.2811.339039.1.500.000 |14.500.000,00 |
-
-|2700.16.482.0225.1231.449051.1.500.000 |6.000.000,00 |
-
-|2700.15.451.0227.1403.449051.1.500.000 |5.600.000,00 |
-
-|2700.15.452.0057.2770.339039.1.500.000 |1.000.000,00 |
-
-|2700.13.391.0233.1219.449051.1.500.000 |1.000.000,00 |
-
-|TOTAL DA ANULAÇÃO |37.669.500,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.9999.999999.1.500.000 | 169.500,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.1.500.000 | 2.900.000,00 |
+| 2700.15.451.0233.1396.449051.1.500.000 | 6.500.000,00 |
+| 2700.18.541.0233.2811.339039.1.500.000 | 14.500.000,00 |
+| 2700.16.482.0225.1231.449051.1.500.000 | 6.000.000,00 |
+| 2700.15.451.0227.1403.449051.1.500.000 | 5.600.000,00 |
+| 2700.15.452.0057.2770.339039.1.500.000 | 1.000.000,00 |
+| 2700.13.391.0233.1219.449051.1.500.000 | 1.000.000,00 |
+| TOTAL DA ANULAÇÃO | 37.669.500,00 |
 
 ANEXO II
 
@@ -126,20 +108,13 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 1º da Lei nº 11.842, de 3 de abril de 2025:
 
-|Art. 1º da Lei nº 11.842, de 03/04/2025 – Autoriza o Poder Executivo a abrir créditos adicionais |
-
-|ao orçamento vigente |
-
-|Limite total anual autorizado |R$ 40.660.500,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 0,00 |
-
-|Valor do Decreto publicado nesta data |R$ 37.669.500,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 37.669.500,00 |
-
-|Saldo atual de créditos suplementares |R$ 2.991.000,00 |
-
-|Percentual utilizado |92,64% |
-
-|Atualizado em 24/04/2025 às 10:56:00 |
+| Art. 1º da Lei nº 11.842, de 03/04/2025 – Autoriza o Poder Executivo a abrir créditos adicionais |  |
+| --- | --- |
+| ao orçamento vigente |  |
+| Limite total anual autorizado | R$ 40.660.500,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 0,00 |
+| Valor do Decreto publicado nesta data | R$ 37.669.500,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 37.669.500,00 |
+| Saldo atual de créditos suplementares | R$ 2.991.000,00 |
+| Percentual utilizado | 92,64% |
+| Atualizado em 24/04/2025 às 10:56:00 |  |

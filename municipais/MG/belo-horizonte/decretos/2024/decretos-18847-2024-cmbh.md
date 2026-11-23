@@ -60,17 +60,13 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § 1º do|R$ |
-
-|art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 5º da Lei nº 11.644,| |
-
-|de 29 de dezembro de 2023: | |
-
-|Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |
-
-|3304.26.452.0060.2567.319016.1.501.770 |41.835,60 |
-
-|TOTAL DA SUPLEMENTAÇÃO |41.835,60 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § 1º do | R$ |
+| --- | --- |
+| art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 5º da Lei nº 11.644, |  |
+| de 29 de dezembro de 2023: |  |
+| Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3304.26.452.0060.2567.319016.1.501.770 | 41.835,60 |
+| TOTAL DA SUPLEMENTAÇÃO | 41.835,60 |
 
 ANEXO II
 
@@ -96,26 +92,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal e|valor total do Orçamento: |
-
-|Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 156.157.777,88 |
-
-|Valor do Decreto publicado nesta data |R$ 41.835,60 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 156.199.613,48 |
-
-|Saldo atual de créditos suplementares |R$ 1.827.133.158,92 |
-
-|Percentual utilizado |7,88% |
-
-|Atualizado em 17/10/2024 às 10:27:37 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal e | valor total do Orçamento: |
+| Encargos Sociais. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 156.157.777,88 |
+| Valor do Decreto publicado nesta data | R$ 41.835,60 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 156.199.613,48 |
+| Saldo atual de créditos suplementares | R$ 1.827.133.158,92 |
+| Percentual utilizado | 7,88% |
+| Atualizado em 17/10/2024 às 10:27:37 |  |

@@ -258,21 +258,15 @@ DA DELIMITAÇÃO DA POLIGONAL DA ZEIS-3
 
 **Art.17** - A delimitação da área de Zona de Especial Interesse Social 3 (ZEIS-3) no Bairro Jatobá, na região popularmente conhecida como Conjunto Habitacional Jatobá I - Vila Santa Rita, obedece a poligonal listada abaixo, com todos os seus pontos definidos por coordenadas UTM. A poligonal, representada na planta CP 251-050-M, refere-se aos lotes e espaço livre de uso público aprovados neste Decreto e inicia e termina no Marco 01, percorrendo os seguintes pontos:
 
-|MARCO |NORTE |ESTE |
-
-|M-01 |7.787.616,135 |601.490,246 |
-
-|M-02 |7.786.953,529 |601.767,326 |
-
-|M-03 |7.786.934,669 |601.617,393 |
-
-|M-04 |7.787.361,814 |601.407,131 |
-
-|M-05 |7.787.597,259 |601.291,254 |
-
-|Área: |121.293,70m² | |
-
-|Perímetro: |001.807,71m² | |
+| MARCO | NORTE | ESTE |
+| --- | --- | --- |
+| M-01 | 7.787.616,135 | 601.490,246 |
+| M-02 | 7.786.953,529 | 601.767,326 |
+| M-03 | 7.786.934,669 | 601.617,393 |
+| M-04 | 7.787.361,814 | 601.407,131 |
+| M-05 | 7.787.597,259 | 601.291,254 |
+| Área: | 121.293,70m² |  |
+| Perímetro: | 001.807,71m² |  |
 
 **Art.18** - Este Decreto entra em vigor na data de sua publicação.
 

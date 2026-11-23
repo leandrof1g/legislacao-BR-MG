@@ -86,9 +86,7 @@ ANEXO I
 
 LOCALIZAÇÃO DO CORREDOR ECOLÓGICO ESPINHAÇO-SERRA DO CURRAL, NO MUNICÍPIO
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
@@ -96,7 +94,7 @@ ANEXO II
 
 ZONEAMENTO DO CORREDOR ECOLÓGICO ESPINHAÇO-SERRA DO CURRAL
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO III
 

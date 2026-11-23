@@ -60,31 +60,20 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º|R$ |
-
-|do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei nº | |
-
-|11.742, de 13 de setembro de 2024: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.449052.2.500.000 |127.239,50 |
-
-|2302.10.302.0114.2936.449052.2.500.000 |30.867,50 |
-
-|2302.10.305.0028.2829.339030.2.500.000 |39.505,75 |
-
-|2302.10.305.0028.2829.339032.2.500.000 |28.800,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.2.500.000 |50.000,00 |
-
-|2700.15.451.0233.1396.449051.2.500.000 |135.000,00 |
-
-|2700.18.541.0073.1202.449051.2.500.000 |20.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |431.412,75 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei nº |  |
+| 11.742, de 13 de setembro de 2024: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.449052.2.500.000 | 127.239,50 |
+| 2302.10.302.0114.2936.449052.2.500.000 | 30.867,50 |
+| 2302.10.305.0028.2829.339030.2.500.000 | 39.505,75 |
+| 2302.10.305.0028.2829.339032.2.500.000 | 28.800,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.2.500.000 | 50.000,00 |
+| 2700.15.451.0233.1396.449051.2.500.000 | 135.000,00 |
+| 2700.18.541.0073.1202.449051.2.500.000 | 20.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 431.412,75 |
 
 ANEXO II
 

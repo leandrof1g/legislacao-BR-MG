@@ -60,21 +60,15 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei | |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339139.1.621.000 |2.000.000,00 |
-
-|2302.10.302.0114.2936.339034.1.621.000 |10.172.000,00 |
-
-|2302.10.302.0114.2936.445042.1.621.000 |274.450,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |12.446.450,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei |  |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339139.1.621.000 | 2.000.000,00 |
+| 2302.10.302.0114.2936.339034.1.621.000 | 10.172.000,00 |
+| 2302.10.302.0114.2936.445042.1.621.000 | 274.450,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 12.446.450,00 |
 
 ANEXO II
 
@@ -100,26 +94,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 4º, limite de 15% do valor|
-
-|abertura de créditos suplementares para o Fundo Municipal de |total do Orçamento: |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 3.398.071.195,95 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 438.631.425,27 |
-
-|Valor do decreto publicado nesta data |R$ 12.446.450,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 451.077.875,27 |
-
-|Saldo atual de créditos suplementares |R$ 2.946.993.320,68 |
-
-|Percentual utilizado |13,27% |
-
-|Atualizado em 30/12/2025 às 10:34:50 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 4º, limite de 15% do valor |
+| abertura de créditos suplementares para o Fundo Municipal de | total do Orçamento: |
+| Saúde. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 3.398.071.195,95 |
+| Total de créditos suplementares abertos anteriormente | R$ 438.631.425,27 |
+| Valor do decreto publicado nesta data | R$ 12.446.450,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 451.077.875,27 |
+| Saldo atual de créditos suplementares | R$ 2.946.993.320,68 |
+| Percentual utilizado | 13,27% |
+| Atualizado em 30/12/2025 às 10:34:50 |  |

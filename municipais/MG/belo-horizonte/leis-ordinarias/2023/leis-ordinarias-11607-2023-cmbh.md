@@ -42,12 +42,9 @@ ANEXO
 
 Atualização da classificação viária, conforme inciso V e § 5º do art. 83 da Lei nº 11.181/19
 
-|Logradouro |Regional |Bairro |Trecho |PU¹ |Reunião |CV² |
-
-|Rua Gurupá |Nordeste |Santa Cruz|Entre as ruas Jaborandi e Sambeatiba |VM |306 |- |
-
-|¹PU: classificação quanto à permissividade de usos |
-
-|²CV: classificação viária. Para as vias para as quais não há indicação de CV, a classificação viária |
-
-|permanece inalterada. |
+| Logradouro | Regional | Bairro | Trecho | PU¹ | Reunião | CV² |
+| --- | --- | --- | --- | --- | --- | --- |
+| Rua Gurupá | Nordeste | Santa Cruz | Entre as ruas Jaborandi e Sambeatiba | VM | 306 | - |
+| ¹PU: classificação quanto à permissividade de usos |  |  |  |  |  |  |
+| ²CV: classificação viária. Para as vias para as quais não há indicação de CV, a classificação viária |  |  |  |  |  |  |
+| permanece inalterada. |  |  |  |  |  |  |

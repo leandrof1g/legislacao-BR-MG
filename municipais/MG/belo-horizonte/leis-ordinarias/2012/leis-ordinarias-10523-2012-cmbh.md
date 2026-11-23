@@ -100,9 +100,9 @@ II - 180 (cento e oitenta) para as escolas municipais de educação infantil - E
 
 **Art. 2º** - O ocupante da função pública de Gestor Administrativo e Financeiro Escolar fará jus à Gratificação de Dedicação Exclusiva, cujos valores irão variar conforme a segmentação do estabelecimento de ensino a que se vincular, prevista no art. 3º da Lei nº 9.232, de 24 de julho de 2006, da seguinte forma:
 
-| |DATA DE PUBLICAÇÃO DESTA LEI |1º DE JULHO DE 2012 |1º DE NOVEMBRO DE 2012 |
-
-|VENCIMENTO-BASE |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |VENCIMENTO-BASE |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |VENCIMENTO-BASE |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | |CLASSE I |995,28 |822,54 |1.030,12 |851,33 |1.064,95 |880,12 | |CLASSE II |995,28 |904,80 |1.030,12 |932,47 |1.064,95 |968,13 | |CLASSE III |995,28 |995,28 |1.030,12 |1.030,12 |1.064,95 |1.064,95 | |CLASSE IV |995,28 |1.094,80 |1.030,12 |1.133,13 |1.064,95 |1.171,44 | |CLASSE V |995,28 |1.204,29 |1.030,12 |1.246,44 |1.064,95 |1.288,58 | |
+|  | DATA DE PUBLICAÇÃO DESTA LEI | 1º DE JULHO DE 2012 | 1º DE NOVEMBRO DE 2012 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VENCIMENTO-BASE | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | VENCIMENTO-BASE | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | VENCIMENTO-BASE | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA |  | CLASSE I | 995,28 | 822,54 | 1.030,12 | 851,33 | 1.064,95 | 880,12 |  | CLASSE II | 995,28 | 904,80 | 1.030,12 | 932,47 | 1.064,95 | 968,13 |  | CLASSE III | 995,28 | 995,28 | 1.030,12 | 1.030,12 | 1.064,95 | 1.064,95 |  | CLASSE IV | 995,28 | 1.094,80 | 1.030,12 | 1.133,13 | 1.064,95 | 1.171,44 |  | CLASSE V | 995,28 | 1.204,29 | 1.030,12 | 1.246,44 | 1.064,95 | 1.288,58 |  |
 
 **Parágrafo único** - Aplica-se ao ocupante da função pública de Gestor Administrativo e Financeiro Escolar o disposto nos arts. 122, 122-A e 122-B da Lei nº 8.146, de 29 de dezembro de 2000, com a redação dada pelo art. 23 da Lei nº 8.288, de 28 de dezembro de 2001.
 

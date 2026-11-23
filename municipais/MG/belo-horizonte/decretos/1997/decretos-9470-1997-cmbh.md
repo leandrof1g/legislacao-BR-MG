@@ -214,7 +214,7 @@ IX - as modificações com acréscimo ou decréscimo de área de projeto anterio
 
 X - serão adotadas, as seguintes convenções para a apresentação do projeto:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Inciso X retificado em 30/12/1997
 
@@ -358,7 +358,7 @@ Secretário Municipal de Atividades Urbanas
 
 ANEXO I
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

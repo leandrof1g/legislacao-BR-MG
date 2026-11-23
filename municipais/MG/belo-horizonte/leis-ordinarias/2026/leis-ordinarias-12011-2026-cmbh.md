@@ -246,65 +246,37 @@ Cargos dos Quadros Específicos das Secretarias Municipais
 
 A - Secretaria Municipal de Educação
 
-|Cargo Público em Comissão |Quantidade de Vagas |
-
-|Secretário Escolar I |180 |
-
-|Secretário Escolar II |200 |
-
-|Vice-Diretor de Escola Municipal I |200 |
-
-|Vice-Diretor de Escola Municipal II | |
-
-|Vice-Diretor de Escola Municipal III | |
-
-|Vice-Diretor de Escola Municipal IV | |
-
-|Vice-Diretor de Escola Municipal V | |
-
-|Diretor de Escola Municipal I |200 |
-
-|Diretor de Escola Municipal II | |
-
-|Diretor de Escola Municipal III | |
-
-|Diretor de Escola Municipal IV | |
-
-|Diretor de Escola Municipal V | |
-
-|Vice-Diretor de EMEI I |180 |
-
-|Vice-Diretor de EMEI II | |
-
-|Vice-Diretor de EMEI III | |
-
-|Vice-Diretor de EMEI IV | |
-
-|Vice-Diretor de EMEI V | |
-
-|Diretor de EMEI I |180 |
-
-|Diretor de EMEI II | |
-
-|Diretor de EMEI III | |
-
-|Diretor de EMEI IV | |
-
-|Diretor de EMEI V | |
-
-|Coordenador Pedagógico Geral I |180 |
-
-|Coordenador Pedagógico Geral II |210 |
-
-|Diretor de Centro de Aperfeiçoamento Profissional da Educação |1 |
-
-|Vice-Diretor de Centro de Aperfeiçoamento Profissional da Educação |1 |
-
-|Coordenador de Projetos Especiais da Educação |34 |
-
-|Vice-Diretor de Centro Municipal Escolar de Treinamento Esportivo |10 |
-
-|Total Geral de Cargos Comissionados da Área da Educação |1.551 |
+| Cargo Público em Comissão | Quantidade de Vagas |
+| --- | --- |
+| Secretário Escolar I | 180 |
+| Secretário Escolar II | 200 |
+| Vice-Diretor de Escola Municipal I | 200 |
+| Vice-Diretor de Escola Municipal II |  |
+| Vice-Diretor de Escola Municipal III |  |
+| Vice-Diretor de Escola Municipal IV |  |
+| Vice-Diretor de Escola Municipal V |  |
+| Diretor de Escola Municipal I | 200 |
+| Diretor de Escola Municipal II |  |
+| Diretor de Escola Municipal III |  |
+| Diretor de Escola Municipal IV |  |
+| Diretor de Escola Municipal V |  |
+| Vice-Diretor de EMEI I | 180 |
+| Vice-Diretor de EMEI II |  |
+| Vice-Diretor de EMEI III |  |
+| Vice-Diretor de EMEI IV |  |
+| Vice-Diretor de EMEI V |  |
+| Diretor de EMEI I | 180 |
+| Diretor de EMEI II |  |
+| Diretor de EMEI III |  |
+| Diretor de EMEI IV |  |
+| Diretor de EMEI V |  |
+| Coordenador Pedagógico Geral I | 180 |
+| Coordenador Pedagógico Geral II | 210 |
+| Diretor de Centro de Aperfeiçoamento Profissional da Educação | 1 |
+| Vice-Diretor de Centro de Aperfeiçoamento Profissional da Educação | 1 |
+| Coordenador de Projetos Especiais da Educação | 34 |
+| Vice-Diretor de Centro Municipal Escolar de Treinamento Esportivo | 10 |
+| Total Geral de Cargos Comissionados da Área da Educação | 1.551 |
 
 .”.
 

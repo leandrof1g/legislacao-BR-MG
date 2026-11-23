@@ -58,127 +58,71 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da Lei|R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.319113.1.500.000 |671.300,00 |
-
-|2200.12.366.0168.2080.319113.1.500.000 |36.800,00 |
-
-|2200.12.365.0169.2542.319113.1.500.000 |171.800,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0007.2900.319113.1.500.000 |46.700,00 |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.319113.1.500.000 |11.900,00 |
-
-|Controladoria-Geral do Município – CTGM |
-
-|2400.04.124.0012.2366.319011.1.500.000 |102.800,00 |
-
-|2400.04.124.0012.2366.319113.1.500.000 |16.200,00 |
-
-|TOTAL |1.057.500,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei|R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0113.2327.339046.1.500.000 |134.100,00 |
-
-|3701.08.245.0019.2308.339046.1.500.000 |117.600,00 |
-
-|3701.08.245.0020.2878.339046.1.500.000 |76.200,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.0141.2852.339036.1.500.000 |253.368,00 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.0007.2900.339036.1.500.000 |100,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0127.2928.339046.1.500.000 |9.200,00 |
-
-|Secretaria Municipal de Mobilidade Urbana – SMMUR |
-
-|3500.26.452.0060.2567.339036.1.500.000 |4.000,00 |
-
-|TOTAL |594.568,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.652.068,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da Lei | R$ |
+| --- | --- |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.319113.1.500.000 | 671.300,00 |
+| 2200.12.366.0168.2080.319113.1.500.000 | 36.800,00 |
+| 2200.12.365.0169.2542.319113.1.500.000 | 171.800,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0007.2900.319113.1.500.000 | 46.700,00 |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.319113.1.500.000 | 11.900,00 |
+| Controladoria-Geral do Município – CTGM |  |
+| 2400.04.124.0012.2366.319011.1.500.000 | 102.800,00 |
+| 2400.04.124.0012.2366.319113.1.500.000 | 16.200,00 |
+| TOTAL | 1.057.500,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei | R$ |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0113.2327.339046.1.500.000 | 134.100,00 |
+| 3701.08.245.0019.2308.339046.1.500.000 | 117.600,00 |
+| 3701.08.245.0020.2878.339046.1.500.000 | 76.200,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0141.2852.339036.1.500.000 | 253.368,00 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.0007.2900.339036.1.500.000 | 100,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0127.2928.339046.1.500.000 | 9.200,00 |
+| Secretaria Municipal de Mobilidade Urbana – SMMUR |  |
+| 3500.26.452.0060.2567.339036.1.500.000 | 4.000,00 |
+| TOTAL | 594.568,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.652.068,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.366.0168.2080.319011.1.500.000 |36.800,00 |
-
-|2200.12.365.0169.2542.319011.1.500.000 |171.800,00 |
-
-|2200.12.361.0168.2080.319011.1.500.000 |671.300,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.319011.1.500.000 |46.700,00 |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.319011.1.500.000 |11.900,00 |
-
-|Controladoria-Geral do Município – CTGM |
-
-|2400.04.124.0012.2523.319113.1.500.000 |102.800,00 |
-
-|2400.04.124.0012.2523.339046.1.500.000 |16.200,00 |
-
-|TOTAL |1.057.500,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0020.2878.319011.1.500.000 |117.600,00 |
-
-|3701.08.245.0020.2878.319113.1.500.000 |76.200,00 |
-
-|3701.08.245.0019.2308.319113.1.500.000 |134.100,00 |
-
-|Fundo Municipal de Proteção e Defesa do Consumidor – FMPDC |
-
-|2809.04.121.0141.2904.339036.1.500.000 |253.368,00 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.0007.2900.339092.1.500.000 |100,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos - SMASDH |
-
-|3700.08.122.0123.2900.319013.1.500.000 |9.200,00 |
-
-|Secretaria Municipal de Mobilidade Urbana – SMMUR |
-
-|3500.26.452.0060.2567.339030.1.500.000 |4.000,00 |
-
-|TOTAL |594.568,00 |
-
-|TOTAL DA ANULAÇÃO |1.652.068,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.366.0168.2080.319011.1.500.000 | 36.800,00 |
+| 2200.12.365.0169.2542.319011.1.500.000 | 171.800,00 |
+| 2200.12.361.0168.2080.319011.1.500.000 | 671.300,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.319011.1.500.000 | 46.700,00 |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.319011.1.500.000 | 11.900,00 |
+| Controladoria-Geral do Município – CTGM |  |
+| 2400.04.124.0012.2523.319113.1.500.000 | 102.800,00 |
+| 2400.04.124.0012.2523.339046.1.500.000 | 16.200,00 |
+| TOTAL | 1.057.500,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0020.2878.319011.1.500.000 | 117.600,00 |
+| 3701.08.245.0020.2878.319113.1.500.000 | 76.200,00 |
+| 3701.08.245.0019.2308.319113.1.500.000 | 134.100,00 |
+| Fundo Municipal de Proteção e Defesa do Consumidor – FMPDC |  |
+| 2809.04.121.0141.2904.339036.1.500.000 | 253.368,00 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.0007.2900.339092.1.500.000 | 100,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos - SMASDH |  |
+| 3700.08.122.0123.2900.319013.1.500.000 | 9.200,00 |
+| Secretaria Municipal de Mobilidade Urbana – SMMUR |  |
+| 3500.26.452.0060.2567.339030.1.500.000 | 4.000,00 |
+| TOTAL | 594.568,00 |
+| TOTAL DA ANULAÇÃO | 1.652.068,00 |
 
 ANEXO II
 
@@ -222,52 +166,32 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |do valor do Orçamento |
-
-|e Encargos Sociais (código 01) | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 112.769.210,63 |
-
-|Valor do decreto publicado nesta data |R$ 1.057.500,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 113.826.710,63 |
-
-|Saldo atual de créditos suplementares |R$ 2.378.608.356,97 |
-
-|Percentual utilizado |4,57% |
-
-|Atualizado em 21/08/2026 às 15:09:40 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | do valor do Orçamento |
+| e Encargos Sociais (código 01) |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 112.769.210,63 |
+| Valor do decreto publicado nesta data | R$ 1.057.500,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 113.826.710,63 |
+| Saldo atual de créditos suplementares | R$ 2.378.608.356,97 |
+| Percentual utilizado | 4,57% |
+| Atualizado em 21/08/2026 às 15:09:40 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.040.394.131,84 |
-
-|Valor do decreto publicado nesta data |R$ 594.568,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.040.988.699,84 |
-
-|Saldo atual de créditos suplementares |R$ 1.451.446.367,76 |
-
-|Percentual utilizado |41,77% |
-
-|Atualizado em 21/08/2026 às 15:11:32 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.040.394.131,84 |
+| Valor do decreto publicado nesta data | R$ 594.568,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.040.988.699,84 |
+| Saldo atual de créditos suplementares | R$ 1.451.446.367,76 |
+| Percentual utilizado | 41,77% |
+| Atualizado em 21/08/2026 às 15:11:32 |  |

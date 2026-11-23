@@ -56,32 +56,19 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|Descrição da infração |Dispositivo|Notificaç|Prazo para|Multas |
-
-| |infringido |ão Prévia|atendiment| |
-
-| |(Lei nº | |o | |
-
-| |10.606/13) | | | |
-
-| | | | |Classificação |Valor (R$)|Periodicida|
-
-| | | | | | |de mínima |
-
-|Não fornecer, sempre que solicitada, comanda impressa que permita o controle|Art. 1º |Sim | |M |500,00 |10 dias |
-
-|do consumo pelos clientes. | | | | | | |
-
-| | | |10 dias | | | |
-
-|Não afixar cartaz na área destinada ao atendimento ao público, nos termos |Artigos 3º |Sim | |L |200,00 |10 dias |
-
-|definidos na legislação. |e 5º. | |10 dias | | | |
-
-|Não permitir ou dificultar o acesso dos agentes municipais de fiscalização |Art. 5º |Sim | |M |500,00 |05 dias |
-
-|devidamente identificados ao estabelecimento, nos termos previstos na | | | | | | |
-
-|legislação. | | | | | | |
-
-| | | |24 horas | | | |
+| Descrição da infração | Dispositivo | Notificaç | Prazo para | Multas |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | infringido | ão Prévia | atendiment |  |  |  |
+|  | (Lei nº |  | o |  |  |  |
+|  | 10.606/13) |  |  |  |  |  |
+|  |  |  |  | Classificação | Valor (R$) | Periodicida |
+|  |  |  |  |  |  | de mínima |
+| Não fornecer, sempre que solicitada, comanda impressa que permita o controle | Art. 1º | Sim |  | M | 500,00 | 10 dias |
+| do consumo pelos clientes. |  |  |  |  |  |  |
+|  |  |  | 10 dias |  |  |  |
+| Não afixar cartaz na área destinada ao atendimento ao público, nos termos | Artigos 3º | Sim |  | L | 200,00 | 10 dias |
+| definidos na legislação. | e 5º. |  | 10 dias |  |  |  |
+| Não permitir ou dificultar o acesso dos agentes municipais de fiscalização | Art. 5º | Sim |  | M | 500,00 | 05 dias |
+| devidamente identificados ao estabelecimento, nos termos previstos na |  |  |  |  |  |  |
+| legislação. |  |  |  |  |  |  |
+|  |  |  | 24 horas |  |  |  |

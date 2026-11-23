@@ -630,17 +630,13 @@ Pontuação – 1 ponto
 
 Códigos Enquadramentos
 
-|18050 |Saída de ar individual - más condições |
-
-|18051 |Cortina de ar da porta - más condições |
-
-|18052 |Sistema de ventilação forçada (unitário) - más condições |
-
-|18053 |Tampa do retorno de ar - más condições |
-
-|18054 |Escotilha janela - más condições |
-
-|18055 |Filtro de ar – más condições |
+| 18050 | Saída de ar individual - más condições |
+| --- | --- |
+| 18051 | Cortina de ar da porta - más condições |
+| 18052 | Sistema de ventilação forçada (unitário) - más condições |
+| 18053 | Tampa do retorno de ar - más condições |
+| 18054 | Escotilha janela - más condições |
+| 18055 | Filtro de ar – más condições |
 
 II - Desligar o sistema de ar condicionado durante viagem operacional sem motivo justo, quando flagrado pelas equipes de fiscalização.
 

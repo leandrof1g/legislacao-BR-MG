@@ -256,21 +256,15 @@ Item 96 retificado em 16/01/1988
 
 **Art. 2º** - Os itens IV e IX, da Tabela II, anexa à Lei nº 4906, de 8 de dezembro de 1987, passam a vigorar com a seguinte redação:
 
-|“Nº DE ORDEM |NATUREZA DA ATIVIDADE |ALÍQUOTA |
-
-| | |BASE NA UFPBH |SOBRE PREÇO SERVIÇO |
-
-| | | | |
-
-|IV |Fornecimento de mão-de-obra e vigilância |------------- |2% |
-
-| | | | |
-
-|IX |Apresentação de música popular, concertos e recitais de música| | |
-
-| |erudita, espetáculos folclóricos e populares realizados em | | |
-
-| |caráter temporário |------------- |2%” |
+| “Nº DE ORDEM | NATUREZA DA ATIVIDADE | ALÍQUOTA |  |
+| --- | --- | --- | --- |
+|  |  | BASE NA UFPBH | SOBRE PREÇO SERVIÇO |
+|  |  |  |  |
+| IV | Fornecimento de mão-de-obra e vigilância | ------------- | 2% |
+|  |  |  |  |
+| IX | Apresentação de música popular, concertos e recitais de música |  |  |
+|  | erudita, espetáculos folclóricos e populares realizados em |  |  |
+|  | caráter temporário | ------------- | 2%” |
 
 Tabela retificada em 16/01/1988
 

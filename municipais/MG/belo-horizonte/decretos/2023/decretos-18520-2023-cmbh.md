@@ -62,25 +62,17 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Créditos adicionais especiais suplementando as seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 1º da | |
-
-|Lei nº 11.601, de 16 de outubro de 2023: | |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.1100.16.482.225.1.397.449051.710 |120.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.305.028.2.829.335043.621 |1.000.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.1100.08.244.019.2.308.339039.706 |120.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.240.000,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 1º da |  |
+| Lei nº 11.601, de 16 de outubro de 2023: |  |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.1100.16.482.225.1.397.449051.710 | 120.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.305.028.2.829.335043.621 | 1.000.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.1100.08.244.019.2.308.339039.706 | 120.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.240.000,00 |
 
 ANEXO II
 

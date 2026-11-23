@@ -34,9 +34,9 @@ DIA COMEMORATIVO
 
 E - Dias comemorativos de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|20/5 |Dia Municipal do Técnico e do Auxiliar de Enfermagem |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 20/5 | Dia Municipal do Técnico e do Auxiliar de Enfermagem |
 
 .”.
 

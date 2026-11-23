@@ -94,81 +94,49 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 PROGRAMAS ABRANGIDOS
 
-|Programa |Secretaria Responsável |Descritivo Básico |
-
-|Esporte Esperança |SMAES |Desenvolvimento de diversas modalidades esportivas fundamentadas nas diretrizes |
-
-| | |do esporte educacional e nas práticas lúdicas. O módulo privilegia a |
-
-| | |socialização e a educação, e tem como objetivo, o desenvolvimento da cidadania |
-
-| | |no período do contraturno escolar. Público atendido: crianças e adolescentes da |
-
-| | |faixa etária entre 6 e 17 anos. |
-
-|Superar |SMAES |Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência |
-
-| | |participar e fruir de uma atividade física e socializante. O módulo visa |
-
-| | |oferecer atividades de cunho inclusivo, promovendo a cidadania e o |
-
-| | |desenvolvimento da qualidade de vida. Público atendido: pessoas com deficiência,|
-
-| | |sem limitação de idade. |
-
-|Vida Ativa |SMAES |Desenvolvimento da atividade física regular e do lazer através da constituição |
-
-| | |de grupos de convivência. O módulo visa contribuir, para a promoção da saúde, da|
-
-| | |autoestima, da socialização e da qualidade de vida dos participantes. Público |
-
-| | |atendido: pessoas com idade igual ou superior a 50 anos |
-
-| |SMSA |Desenvolvimento de atividades físicas sistematizadas. O módulo visa |
-
-|Academia da Cidade | |possibilitar, por meio de um processo educativo e cultural, a implementação de |
-
-| | |hábitos saudáveis aos participantes. Público atendido: adolescentes em situação |
-
-| | |de vulnerabilidade e pessoas acima de 18 anos de idade. |
-
-|Escola Integrada |SMED |Recepcionar alunos de escolas públicas, permitindo a utilização dos espaços dos |
-
-| | |clubes aderentes ao programa como uma extensão dos muros da escola. |
-
-| | |O módulo visa a formação integral dos estudantes, possibilitando vivenciar |
-
-| | |situações em outros espaços sociais. Público atendido: alunos do programa escola|
-
-| | |integrada. |
-
-|BH Descobrindo Talentos|SMAES |Desenvolvimento do esporte de formação e rendimento, voltado para o treinamento |
-
-|no Esporte | |de atletas, nas diversas modalidades esportivas, com caráter não profissional. |
-
-| | |Público atendido: todas as faixas etárias previstas nas categorias oficiais de |
-
-| | |cada modalidade. |
+| Programa | Secretaria Responsável | Descritivo Básico |
+| --- | --- | --- |
+| Esporte Esperança | SMAES | Desenvolvimento de diversas modalidades esportivas fundamentadas nas diretrizes |
+|  |  | do esporte educacional e nas práticas lúdicas. O módulo privilegia a |
+|  |  | socialização e a educação, e tem como objetivo, o desenvolvimento da cidadania |
+|  |  | no período do contraturno escolar. Público atendido: crianças e adolescentes da |
+|  |  | faixa etária entre 6 e 17 anos. |
+| Superar | SMAES | Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência |
+|  |  | participar e fruir de uma atividade física e socializante. O módulo visa |
+|  |  | oferecer atividades de cunho inclusivo, promovendo a cidadania e o |
+|  |  | desenvolvimento da qualidade de vida. Público atendido: pessoas com deficiência, |
+|  |  | sem limitação de idade. |
+| Vida Ativa | SMAES | Desenvolvimento da atividade física regular e do lazer através da constituição |
+|  |  | de grupos de convivência. O módulo visa contribuir, para a promoção da saúde, da |
+|  |  | autoestima, da socialização e da qualidade de vida dos participantes. Público |
+|  |  | atendido: pessoas com idade igual ou superior a 50 anos |
+|  | SMSA | Desenvolvimento de atividades físicas sistematizadas. O módulo visa |
+| Academia da Cidade |  | possibilitar, por meio de um processo educativo e cultural, a implementação de |
+|  |  | hábitos saudáveis aos participantes. Público atendido: adolescentes em situação |
+|  |  | de vulnerabilidade e pessoas acima de 18 anos de idade. |
+| Escola Integrada | SMED | Recepcionar alunos de escolas públicas, permitindo a utilização dos espaços dos |
+|  |  | clubes aderentes ao programa como uma extensão dos muros da escola. |
+|  |  | O módulo visa a formação integral dos estudantes, possibilitando vivenciar |
+|  |  | situações em outros espaços sociais. Público atendido: alunos do programa escola |
+|  |  | integrada. |
+| BH Descobrindo Talentos | SMAES | Desenvolvimento do esporte de formação e rendimento, voltado para o treinamento |
+| no Esporte |  | de atletas, nas diversas modalidades esportivas, com caráter não profissional. |
+|  |  | Público atendido: todas as faixas etárias previstas nas categorias oficiais de |
+|  |  | cada modalidade. |
 
 ANEXO II
 
 MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
-|Programa |Nº Indivíduos atendidos|Duração Diária (em horas)|Frequência Semanal |
-
-|Esporte Esperança |80 |1 |2 |
-
-|Superar |10 |1 |2 |
-
-|Vida Ativa |50 |1 |2 |
-
-|Academia da Cidade |60 |1 |3 |
-
-|Escola Integrada |80 |6 |2 |
-
-|BH Descobrindo Talentos no |100 |2 |3 |
-
-|Esporte | | | |
+| Programa | Nº Indivíduos atendidos | Duração Diária (em horas) | Frequência Semanal |
+| --- | --- | --- | --- |
+| Esporte Esperança | 80 | 1 | 2 |
+| Superar | 10 | 1 | 2 |
+| Vida Ativa | 50 | 1 | 2 |
+| Academia da Cidade | 60 | 1 | 3 |
+| Escola Integrada | 80 | 6 | 2 |
+| BH Descobrindo Talentos no | 100 | 2 | 3 |
+| Esporte |  |  |  |
 
 ” (NR)
 
@@ -178,27 +146,18 @@ MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
 PROPORCIONALIDADE DE DESCONTO
 
-|EXECUÇÃO (MESES) |DESCONTO PROPORCIONAL (DÉCIMOS) |
-
-|1 |1/10 |
-
-|2 |2/10 |
-
-|3 |3/10 |
-
-|4 |4/10 |
-
-|5 |5/10 |
-
-|6 |6/10 |
-
-|7 |7/10 |
-
-|8 |8/10 |
-
-|9 |9/10 |
-
-|10 a 12 |10/10 |
+| EXECUÇÃO (MESES) | DESCONTO PROPORCIONAL (DÉCIMOS) |
+| --- | --- |
+| 1 | 1/10 |
+| 2 | 2/10 |
+| 3 | 3/10 |
+| 4 | 4/10 |
+| 5 | 5/10 |
+| 6 | 6/10 |
+| 7 | 7/10 |
+| 8 | 8/10 |
+| 9 | 9/10 |
+| 10 a 12 | 10/10 |
 
 ” (NR)
 

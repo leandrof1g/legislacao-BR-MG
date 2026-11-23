@@ -40,53 +40,31 @@ DIA COMEMORATIVO
 
 H - Dias comemorativos de agosto:
 
-|AGOSTO |COMEMORAÇÃO |
-
-|2/8 |Dia Municipal da Ordem Rosacruz |
-
-|3/8 |Dia do Capoeirista |
-
-|3/8 |Dia Municipal da Capoeira |
-
-|3/8 |Dia Municipal do Skate |
-
-|6/8 |Dia Municipal da Tecnologia da Informação |
-
-|6/8 |Dia Municipal do Ar |
-
-|8/8 |Dia Municipal de São Domingos |
-
-|10/8 |Dia Municipal do Agente de Segurança Socioeducativo |
-
-|10/8 |Dia Municipal do Protetor de Animais |
-
-|11/8 |Dia do Garçom e do Profissional de Eventos |
-
-|11/8 |Dia do Mâitre |
-
-|11/8 |Dia Municipal do Advogado |
-
-|13/8 |Dia do Economista |
-
-|15/8 |Dia do Mutirão da Saúde |
-
-|15/8 |Dia Municipal do Congado |
-
-|17/8 |Dia do Camelô |
-
-|20/8 |Dia Municipal do Maçom |
-
-|25/8 |Dia Municipal do Guarda Municipal de Belo Horizonte |
-
-|27/8 |Dia Municipal da Luta de Braço |
-
-|28/8 |Dia Nacional dos Bancários |
-
-|30/8 |Dia Municipal de Padre Eustáquio |
-
-|31/8 |Dia Municipal da Reciclagem |
-
-|último domingo de agosto |Dia Municipal do Catador de Papel e Outros Materiais Recicláveis |
+| AGOSTO | COMEMORAÇÃO |
+| --- | --- |
+| 2/8 | Dia Municipal da Ordem Rosacruz |
+| 3/8 | Dia do Capoeirista |
+| 3/8 | Dia Municipal da Capoeira |
+| 3/8 | Dia Municipal do Skate |
+| 6/8 | Dia Municipal da Tecnologia da Informação |
+| 6/8 | Dia Municipal do Ar |
+| 8/8 | Dia Municipal de São Domingos |
+| 10/8 | Dia Municipal do Agente de Segurança Socioeducativo |
+| 10/8 | Dia Municipal do Protetor de Animais |
+| 11/8 | Dia do Garçom e do Profissional de Eventos |
+| 11/8 | Dia do Mâitre |
+| 11/8 | Dia Municipal do Advogado |
+| 13/8 | Dia do Economista |
+| 15/8 | Dia do Mutirão da Saúde |
+| 15/8 | Dia Municipal do Congado |
+| 17/8 | Dia do Camelô |
+| 20/8 | Dia Municipal do Maçom |
+| 25/8 | Dia Municipal do Guarda Municipal de Belo Horizonte |
+| 27/8 | Dia Municipal da Luta de Braço |
+| 28/8 | Dia Nacional dos Bancários |
+| 30/8 | Dia Municipal de Padre Eustáquio |
+| 31/8 | Dia Municipal da Reciclagem |
+| último domingo de agosto | Dia Municipal do Catador de Papel e Outros Materiais Recicláveis |
 
 .”
 

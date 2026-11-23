@@ -38,9 +38,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 K - Dias comemorativos de novembro:
 
-|NOVEMBRO |COMEMORAÇÃO |
-
-|25/11 |Dia Municipal de Combate à Violência contra a Mulher |
+| NOVEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 25/11 | Dia Municipal de Combate à Violência contra a Mulher |
 
 ”.
 

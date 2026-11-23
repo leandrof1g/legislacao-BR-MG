@@ -72,47 +72,28 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49| |
-
-|da Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.0091.3501.469071.2.754.790 |57.117,15 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |6.574,79 |
-
-|2302.10.302.0114.2936.339039.2.621.000 |116.565,87 |
-
-|2302.10.305.0028.2829.449052.2.621.000 |191.272,68 |
-
-|2302.10.302.0114.2936.339034.2.621.000 |1.953.914,40 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0227.1403.449051.2.759.709 |568.000,00 |
-
-|2704.16.482.0226.1207.449093.2.500.000 |2.751.775,59 |
-
-|2704.16.482.0226.1207.449093.2.755.000 |279.718,25 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.15.122.0057.2584.319011.2.501.784 |1.095.651,20 |
-
-|2702.15.122.0057.2584.449052.2.756.000 |159.053,45 |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |
-
-|2703.16.482.0007.2900.449051.2.501.784 |16.000,00 |
-
-|2703.16.482.0007.2900.449052.2.501.784 |272.928,36 |
-
-|TOTAL DA SUPLEMENTAÇÃO |7.468.571,74 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 |  |
+| da Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.0091.3501.469071.2.754.790 | 57.117,15 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 6.574,79 |
+| 2302.10.302.0114.2936.339039.2.621.000 | 116.565,87 |
+| 2302.10.305.0028.2829.449052.2.621.000 | 191.272,68 |
+| 2302.10.302.0114.2936.339034.2.621.000 | 1.953.914,40 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0227.1403.449051.2.759.709 | 568.000,00 |
+| 2704.16.482.0226.1207.449093.2.500.000 | 2.751.775,59 |
+| 2704.16.482.0226.1207.449093.2.755.000 | 279.718,25 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.15.122.0057.2584.319011.2.501.784 | 1.095.651,20 |
+| 2702.15.122.0057.2584.449052.2.756.000 | 159.053,45 |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |  |
+| 2703.16.482.0007.2900.449051.2.501.784 | 16.000,00 |
+| 2703.16.482.0007.2900.449052.2.501.784 | 272.928,36 |
+| TOTAL DA SUPLEMENTAÇÃO | 7.468.571,74 |
 
 ANEXO II
 

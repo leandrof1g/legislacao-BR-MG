@@ -44,19 +44,14 @@ IV - revisor, tradutor ou elaborador de conteúdo.
 
 **§ 2º** - Os critérios de concessão e os limites da gratificação de que trata este artigo serão fixados em regulamento, observados os seguintes valores:
 
-|MODALIDADE DE INSTRUTORIA |VALORES EM R$ |
-
-| |(por hora trabalhada) |
-
-|Instrutor / Facilitador / Preceptor / Coordenador |60,00 |
-
-|Tutor de Oficina / Tutor de Educação a Distância / Planejador |55,00 |
-
-|Instrucional | |
-
-|Palestrante / Conferencista / Intérprete |45,00 |
-
-|Revisor / Tradutor / Elaborador de Conteúdo |35,00 |
+| MODALIDADE DE INSTRUTORIA | VALORES EM R$ |
+| --- | --- |
+|  | (por hora trabalhada) |
+| Instrutor / Facilitador / Preceptor / Coordenador | 60,00 |
+| Tutor de Oficina / Tutor de Educação a Distância / Planejador | 55,00 |
+| Instrucional |  |
+| Palestrante / Conferencista / Intérprete | 45,00 |
+| Revisor / Tradutor / Elaborador de Conteúdo | 35,00 |
 
 **§ 3º** - Para a apuração das horas trabalhadas em atividades de instrutoria, a fração de hora será paga da seguinte forma:
 

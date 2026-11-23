@@ -62,33 +62,21 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. | |
-
-|6º da Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|3802.23.692.0132.2307.339037.2.501.000 |4.597.937,82 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.2.501.784 |182.742,69 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.0302.2938.449052.2.501.784 |1.410.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.2.706.510 |1.485.000,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|3503.26.452.0060.2567.449052.2.501.784 |3.151,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |7.678.831,51 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. |  |
+| 6º da Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 3802.23.692.0132.2307.339037.2.501.000 | 4.597.937,82 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.2.501.784 | 182.742,69 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.0302.2938.449052.2.501.784 | 1.410.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.2.706.510 | 1.485.000,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3503.26.452.0060.2567.449052.2.501.784 | 3.151,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 7.678.831,51 |
 
 ANEXO II
 
@@ -138,26 +126,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 477.699.018,71 |
-
-|Valor do decreto publicado nesta data |R$ 7.678.831,51 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 485.377.850,22 |
-
-|Saldo atual de créditos suplementares |R$ 2.007.057.217,38 |
-
-|Percentual utilizado |19,47% |
-
-|Atualizado em 27/03/2026 às 12:47:39 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 477.699.018,71 |
+| Valor do decreto publicado nesta data | R$ 7.678.831,51 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 485.377.850,22 |
+| Saldo atual de créditos suplementares | R$ 2.007.057.217,38 |
+| Percentual utilizado | 19,47% |
+| Atualizado em 27/03/2026 às 12:47:39 |  |

@@ -52,66 +52,39 @@ ANEXO
 
 I – Crédito adicional especial instituindo as seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Encargos Gerais do Município da Secretaria Municipal de Finanças - EGM-SMFA, para |
-
-|Indenizações e Manutenção de Bens Incorporados da BEPREM, conforme autorização contida no art. 5º da |
-
-|Lei nº 11.104, de 16 de janeiro de 2018: |
-
-|R$ |
-
-|4001.04.122.007.2.924.3390.0300 |762.615,00 |
-
-|4001.04.122.007.2.924.3391.0300 |3.194.561,00 |
-
-|4001.04.122.007.2.924.4591.0400 |98.784.336,00 |
-
-|TOTAL |102.741.512,00 |
-
-|I.2 – A favor do Fundo Financeiro – FUFIN, para Indenizações e Restituições de Bens ao Município, |
-
-|conforme autorização contida no art. 5º da Lei nº 11.104, de 16 de janeiro de 2018: |
-
-|R$ |
-
-|0613.09.272.026.2.925.3391.0970 |13.810.876,00 |
-
-|TOTAL |13.810.876,00 |
-
-|TOTAL DO CRÉDITO ESPECIAL |116.552.388,00 |
+| I.1 – A favor do Encargos Gerais do Município da Secretaria Municipal de Finanças - EGM-SMFA, para |  |
+| --- | --- |
+| Indenizações e Manutenção de Bens Incorporados da BEPREM, conforme autorização contida no art. 5º da |  |
+| Lei nº 11.104, de 16 de janeiro de 2018: |  |
+| R$ |  |
+| 4001.04.122.007.2.924.3390.0300 | 762.615,00 |
+| 4001.04.122.007.2.924.3391.0300 | 3.194.561,00 |
+| 4001.04.122.007.2.924.4591.0400 | 98.784.336,00 |
+| TOTAL | 102.741.512,00 |
+| I.2 – A favor do Fundo Financeiro – FUFIN, para Indenizações e Restituições de Bens ao Município, |  |
+| conforme autorização contida no art. 5º da Lei nº 11.104, de 16 de janeiro de 2018: |  |
+| R$ |  |
+| 0613.09.272.026.2.925.3391.0970 | 13.810.876,00 |
+| TOTAL | 13.810.876,00 |
+| TOTAL DO CRÉDITO ESPECIAL | 116.552.388,00 |
 
 II – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1 da tabela anterior: |
-
-|R$ |
-
-|2700.23.695.086.1.219.4490.0480 |10.000.000,00 |
-
-|2700.12.361.168.1.211.4490.0880 |5.000.000,00 |
-
-|2700.15.451.062.1.230.4490.0430 |8.000.000,00 |
-
-|2700.15.451.062.1.230.4490.0880 |24.000.000,00 |
-
-|2700.17.512.066.1.203.4490.0880 |21.000.000,00 |
-
-|2700.18.541.073.1.349.4490.0880 |10.000.000,00 |
-
-|2700.27.812.101.1.213.4490.0880 |9.741.512,00 |
-
-|2301.10.302.030.2.616.4490.0480 |10.000.000,00 |
-
-|2700.08.244.019.1.220.4490.0880 |5.000.000,00 |
-
-|TOTAL |102.741.512,00 |
-
-|II.2 – Em contrapartida às suplementações relacionadas no item I.2 da tabela anterior: |
-
-|R$ |
-
-|0614.99.999.999.9.999.9999.0970 |13.810.876,00 |
-
-|TOTAL |13.810.876,00 |
-
-|TOTAL DA ANULAÇÃO |116.552.388,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 da tabela anterior: |  |
+| --- | --- |
+| R$ |  |
+| 2700.23.695.086.1.219.4490.0480 | 10.000.000,00 |
+| 2700.12.361.168.1.211.4490.0880 | 5.000.000,00 |
+| 2700.15.451.062.1.230.4490.0430 | 8.000.000,00 |
+| 2700.15.451.062.1.230.4490.0880 | 24.000.000,00 |
+| 2700.17.512.066.1.203.4490.0880 | 21.000.000,00 |
+| 2700.18.541.073.1.349.4490.0880 | 10.000.000,00 |
+| 2700.27.812.101.1.213.4490.0880 | 9.741.512,00 |
+| 2301.10.302.030.2.616.4490.0480 | 10.000.000,00 |
+| 2700.08.244.019.1.220.4490.0880 | 5.000.000,00 |
+| TOTAL | 102.741.512,00 |
+| II.2 – Em contrapartida às suplementações relacionadas no item I.2 da tabela anterior: |  |
+| R$ |  |
+| 0614.99.999.999.9.999.9999.0970 | 13.810.876,00 |
+| TOTAL | 13.810.876,00 |
+| TOTAL DA ANULAÇÃO | 116.552.388,00 |

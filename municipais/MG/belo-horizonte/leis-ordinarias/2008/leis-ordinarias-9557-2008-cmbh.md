@@ -858,6 +858,6 @@ Prefeito Municipal de Sabará
 
 ANEXO ÚNICO DO PROTOCOLO DE INTENÇÕES QUADRO DE PESSOAL DO CONSÓRCIO
 
-|EMPREGOS |Qtide. |Salário |Escolaridade |Provimento |
-
-|Superintendente Consórcio |1 |R$ 7.000,00 |3º Grau |Em Comissão |
+| EMPREGOS | Qtide. | Salário | Escolaridade | Provimento |
+| --- | --- | --- | --- | --- |
+| Superintendente Consórcio | 1 | R$ 7.000,00 | 3º Grau | Em Comissão |

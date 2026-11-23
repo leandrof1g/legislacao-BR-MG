@@ -58,29 +58,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei nº |R$ |
-
-|11.802, de 3 de janeiro de 2025: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.12.361.0168.2850.319011.1.500.000 |122.500,00 |
-
-|4002.12.361.0168.2850.319113.1.500.000 |30.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |152.500,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei nº | R$ |
+| --- | --- |
+| 11.802, de 3 de janeiro de 2025: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.12.361.0168.2850.319011.1.500.000 | 122.500,00 |
+| 4002.12.361.0168.2850.319113.1.500.000 | 30.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 152.500,00 |
 
 I.2 – Anulação da dotação orçamentária a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.122.0007.3010.319094.1.500.000 |152.500,00 |
-
-|TOTAL DA ANULAÇÃO |152.500,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.122.0007.3010.319094.1.500.000 | 152.500,00 |
+| TOTAL DA ANULAÇÃO | 152.500,00 |
 
 ANEXO II
 
@@ -104,26 +97,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 5º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 0,00 |
-
-|Valor do Decreto publicado nesta data |R$ 152.500,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 152.500,00 |
-
-|Saldo atual de créditos suplementares |R$ 2.265.228.297,30 |
-
-|Percentual utilizado |0,01% |
-
-|Atualizado em 09/01/2025 às 10:52:52 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 0,00 |
+| Valor do Decreto publicado nesta data | R$ 152.500,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 152.500,00 |
+| Saldo atual de créditos suplementares | R$ 2.265.228.297,30 |
+| Percentual utilizado | 0,01% |
+| Atualizado em 09/01/2025 às 10:52:52 |  |

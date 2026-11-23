@@ -70,4 +70,5 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

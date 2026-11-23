@@ -58,145 +58,80 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do art. |R$ |
-
-|4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.096.2.004.4490.0000 |2.190,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.085.2.605.4490.0007 |162.000,00 |
-
-|0604.19.572.085.2.603.3390.0000 |209.256,19 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.18.541.233.2.811.3390.0000 |195.094,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|2709.26.452.060.2.567.3190.0000 |1.500.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.900.3390.0000 |1.070.970,00 |
-
-|Fundo Municipal de Proteção e Defesa do Consumidor – FMPDC |
-
-|2809.04.121.141.2.904.4490.0000 |8.075,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.155.2.375.3390.0000 |103.816,00 |
-
-|3103.13.122.146.2.900.3190.0000 |213.000,00 |
-
-|3103.13.122.146.2.900.3191.0000 |46.500,00 |
-
-|3103.13.391.155.2.908.3190.0000 |243.500,00 |
-
-|3103.13.391.155.2.908.3191.0000 |16.000,00 |
-
-|3103.13.392.146.2.338.3190.0000 |395.000,00 |
-
-|3103.13.392.146.2.338.3191.0000 |42.000,00 |
-
-|3103.13.392.154.2.371.3190.0000 |304.000,00 |
-
-|3103.13.392.154.2.371.3191.0000 |64.000,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.122.093.2.900.3390.0000 |45.270,00 |
-
-|TOTAL |4.620.671,19 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|2709.26.452.060.2.567.3190.0007 |15.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.900.3190.0000 |566.400,00 |
-
-|TOTAL |581.400,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.202.071,19 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do art. | R$ |
+| --- | --- |
+| 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.096.2.004.4490.0000 | 2.190,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.085.2.605.4490.0007 | 162.000,00 |
+| 0604.19.572.085.2.603.3390.0000 | 209.256,19 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.18.541.233.2.811.3390.0000 | 195.094,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 2709.26.452.060.2.567.3190.0000 | 1.500.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.900.3390.0000 | 1.070.970,00 |
+| Fundo Municipal de Proteção e Defesa do Consumidor – FMPDC |  |
+| 2809.04.121.141.2.904.4490.0000 | 8.075,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.155.2.375.3390.0000 | 103.816,00 |
+| 3103.13.122.146.2.900.3190.0000 | 213.000,00 |
+| 3103.13.122.146.2.900.3191.0000 | 46.500,00 |
+| 3103.13.391.155.2.908.3190.0000 | 243.500,00 |
+| 3103.13.391.155.2.908.3191.0000 | 16.000,00 |
+| 3103.13.392.146.2.338.3190.0000 | 395.000,00 |
+| 3103.13.392.146.2.338.3191.0000 | 42.000,00 |
+| 3103.13.392.154.2.371.3190.0000 | 304.000,00 |
+| 3103.13.392.154.2.371.3191.0000 | 64.000,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.122.093.2.900.3390.0000 | 45.270,00 |
+| TOTAL | 4.620.671,19 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 2709.26.452.060.2.567.3190.0007 | 15.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.900.3190.0000 | 566.400,00 |
+| TOTAL | 581.400,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.202.071,19 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.085.2.602.4490.0007 |162.000,00 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.007.2.900.3390.0000 |47.460,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.109.2.803.3190.0000 |70.970,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.126.057.2.770.4490.0000 |141.862,00 |
-
-|2700.15.452.057.2.770.4490.0000 |67.394,19 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.15.451.233.1.396.4490.0000 |195.094,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.225.1.231.4490.0000 |1.000.000,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|2709.26.452.060.2.567.3390.0000 |1.500.000,00 |
-
-|Fundo Municipal de Proteção e Defesa do Consumidor – FMPDC |
-
-|2809.04.121.141.2.904.3390.0000 |790,00 |
-
-|2809.04.121.141.2.904.4490.0000 |7.285,00 |
-
-|Fundo Municipal de Cultura – FPC |
-
-|3101.13.392.170.2.369.3390.0000 |1.324.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.155.2.908.3390.0000 |103.816,00 |
-
-|TOTAL |4.620.671,19 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo da Procuradoria-Geral do Município – FPGM |
-
-|0501.04.123.003.2.830.3191.0000 |15.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.109.2.803.3190.0000 |566.400,00 |
-
-|TOTAL |581.400,00 |
-
-|TOTAL DA ANULAÇÃO |5.202.071,19 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.085.2.602.4490.0007 | 162.000,00 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.007.2.900.3390.0000 | 47.460,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.109.2.803.3190.0000 | 70.970,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.126.057.2.770.4490.0000 | 141.862,00 |
+| 2700.15.452.057.2.770.4490.0000 | 67.394,19 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.15.451.233.1.396.4490.0000 | 195.094,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.225.1.231.4490.0000 | 1.000.000,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 2709.26.452.060.2.567.3390.0000 | 1.500.000,00 |
+| Fundo Municipal de Proteção e Defesa do Consumidor – FMPDC |  |
+| 2809.04.121.141.2.904.3390.0000 | 790,00 |
+| 2809.04.121.141.2.904.4490.0000 | 7.285,00 |
+| Fundo Municipal de Cultura – FPC |  |
+| 3101.13.392.170.2.369.3390.0000 | 1.324.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.155.2.908.3390.0000 | 103.816,00 |
+| TOTAL | 4.620.671,19 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo da Procuradoria-Geral do Município – FPGM |  |
+| 0501.04.123.003.2.830.3191.0000 | 15.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.109.2.803.3190.0000 | 566.400,00 |
+| TOTAL | 581.400,00 |
+| TOTAL DA ANULAÇÃO | 5.202.071,19 |
 
 ANEXO II
 
@@ -262,36 +197,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do |Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|art. 4º, limite de 15% |4º, limite de 15% do total |
-
-|– Limites autorizados |Orçamento: |do total do Orçamento |do Orçamento do Fundo |
-
-|para abertura de | |do Grupo 1 – Pessoal e |Municipal de Saúde – FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.051.101.525,63 |R$ 211.263.468,88 |R$ 549.445.452,89 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 1.250.049.160,02 |R$ 672.728.839,82 |R$ 177.771.699,76 |
-
-|suplementares | | | |
-
-|Percentual utilizado |45,68% |23,90% |75,55% |
-
-|Atualizado em 21/11/2022 às 10:49:31 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | art. 4º, limite de 15% | 4º, limite de 15% do total |
+| – Limites autorizados | Orçamento: | do total do Orçamento | do Orçamento do Fundo |
+| para abertura de |  | do Grupo 1 – Pessoal e | Municipal de Saúde – FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.051.101.525,63 | R$ 211.263.468,88 | R$ 549.445.452,89 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 1.250.049.160,02 | R$ 672.728.839,82 | R$ 177.771.699,76 |
+| suplementares |  |  |  |
+| Percentual utilizado | 45,68% | 23,90% | 75,55% |
+| Atualizado em 21/11/2022 às 10:49:31 |  |  |  |

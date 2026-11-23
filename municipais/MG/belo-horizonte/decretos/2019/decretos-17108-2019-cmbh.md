@@ -98,4 +98,5 @@ ESPECIFICAÇÕES TÉCNICAS E MODELO DA IDENTIDADE FUNCIONAL
 
 4. Modelo com fundo verde claro e brasão do Município impresso em marca d’água na frente e no verso da seguinte forma:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

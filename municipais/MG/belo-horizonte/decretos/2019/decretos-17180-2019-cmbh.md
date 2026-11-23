@@ -52,26 +52,19 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos, conforme autorização contida no caput do art. 4º da |
-
-|Lei nº 11.145, de 26 de dezembro de 2018: |
-
-| R$ |
-
-|2805.23.695.086.2.629.3390.0307 |295.000,00 |
-
-|3200.04.131.015.2.007.3390.0300 |4.265.502,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.560.502,00 |
+| I.1 – A favor de diversos órgãos, conforme autorização contida no caput do art. 4º da |  |
+| --- | --- |
+| Lei nº 11.145, de 26 de dezembro de 2018: |  |
+| R$ |  |
+| 2805.23.695.086.2.629.3390.0307 | 295.000,00 |
+| 3200.04.131.015.2.007.3390.0300 | 4.265.502,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.560.502,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1 da tabela anterior: |
-
-| R$ |
-
-|2805.23.695.086.2.629.3390.0300 |295.000,00 |
-
-|4002.12.361.140.2.850.3191.0100 |4.265.502,00 |
-
-|TOTAL DA ANULAÇÃO |4.560.502,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 da tabela anterior: |  |
+| --- | --- |
+| R$ |  |
+| 2805.23.695.086.2.629.3390.0300 | 295.000,00 |
+| 4002.12.361.140.2.850.3191.0100 | 4.265.502,00 |
+| TOTAL DA ANULAÇÃO | 4.560.502,00 |

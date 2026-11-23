@@ -52,14 +52,10 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Cultura – SMC –, conforme |
-
-|autorização contida no caput do art. 4º da Lei nº 11.211, de 26 de |
-
-|dezembro de 2019: |
-
-|R$ |
-
-|3100.13.122.146.2.917.3390.0330 |15.890.620,34 |
-
-|TOTAL DA SUPLEMENTAÇÃO |15.890.620,34 |
+| I.1 – A favor da Secretaria Municipal de Cultura – SMC –, conforme |  |
+| --- | --- |
+| autorização contida no caput do art. 4º da Lei nº 11.211, de 26 de |  |
+| dezembro de 2019: |  |
+| R$ |  |
+| 3100.13.122.146.2.917.3390.0330 | 15.890.620,34 |
+| TOTAL DA SUPLEMENTAÇÃO | 15.890.620,34 |

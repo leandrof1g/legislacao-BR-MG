@@ -34,9 +34,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I DIA COMEMORATIVO F - Dias comemorativos de junho:
 
-|DATA |COMEMORAÇÃO |
-
-|9/6 |Dia Municipal da Música Gospel |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 9/6 | Dia Municipal da Música Gospel |
 
 .”.
 

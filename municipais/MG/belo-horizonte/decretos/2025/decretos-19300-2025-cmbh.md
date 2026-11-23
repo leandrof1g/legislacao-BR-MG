@@ -58,125 +58,70 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.366.0168.2080.319011.1.500.000 |393.400,00 |
-
-|2200.12.366.0168.2080.319113.1.500.000 |74.800,00 |
-
-|2200.12.365.0169.2542.319113.1.500.000 |1.497.300,00 |
-
-|2200.12.366.0168.2080.319004.1.500.000 |49.100,00 |
-
-|2200.12.122.0140.2317.319008.1.500.000 |804.300,00 |
-
-|2200.12.122.0140.2317.319011.1.500.000 |9.619.800,00 |
-
-|2200.12.122.0140.2317.319113.1.500.000 |1.894.200,00 |
-
-|2200.12.366.0168.2080.319008.1.500.000 |147.300,00 |
-
-|2200.12.366.0168.2080.319013.1.500.000 |900,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.319008.1.500.000 |3.758.200,00 |
-
-|2302.10.305.0028.2829.319008.1.500.000 |197.800,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0014.2021.319011.1.500.000 |748.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2571.319011.1.500.000 |2.677.500,00 |
-
-|3300.15.452.0059.2571.319004.1.500.000 |603.800,00 |
-
-|3300.15.452.0059.2571.319007.1.500.000 |3.400,00 |
-
-|3300.15.452.0059.2571.319013.1.500.000 |46.400,00 |
-
-|3300.15.452.0059.2571.319113.1.500.000 |499.400,00 |
-
-|TOTAL |23.015.600,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339036.1.500.000 |810.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2571.339046.1.500.000 |271.200,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.121.0004.2518.339036.1.500.000 |700,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.122.0146.2900.339036.1.500.000 |14.100,00 |
-
-|TOTAL |1.096.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |24.111.600,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da | R$ |
+| --- | --- |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.366.0168.2080.319011.1.500.000 | 393.400,00 |
+| 2200.12.366.0168.2080.319113.1.500.000 | 74.800,00 |
+| 2200.12.365.0169.2542.319113.1.500.000 | 1.497.300,00 |
+| 2200.12.366.0168.2080.319004.1.500.000 | 49.100,00 |
+| 2200.12.122.0140.2317.319008.1.500.000 | 804.300,00 |
+| 2200.12.122.0140.2317.319011.1.500.000 | 9.619.800,00 |
+| 2200.12.122.0140.2317.319113.1.500.000 | 1.894.200,00 |
+| 2200.12.366.0168.2080.319008.1.500.000 | 147.300,00 |
+| 2200.12.366.0168.2080.319013.1.500.000 | 900,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.319008.1.500.000 | 3.758.200,00 |
+| 2302.10.305.0028.2829.319008.1.500.000 | 197.800,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0014.2021.319011.1.500.000 | 748.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2571.319011.1.500.000 | 2.677.500,00 |
+| 3300.15.452.0059.2571.319004.1.500.000 | 603.800,00 |
+| 3300.15.452.0059.2571.319007.1.500.000 | 3.400,00 |
+| 3300.15.452.0059.2571.319013.1.500.000 | 46.400,00 |
+| 3300.15.452.0059.2571.319113.1.500.000 | 499.400,00 |
+| TOTAL | 23.015.600,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339036.1.500.000 | 810.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2571.339046.1.500.000 | 271.200,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.121.0004.2518.339036.1.500.000 | 700,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.122.0146.2900.339036.1.500.000 | 14.100,00 |
+| TOTAL | 1.096.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 24.111.600,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339046.1.500.000 |14.481.100,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.319011.1.500.000 |3.956.000,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0014.2809.319011.1.500.000 |748.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2890.319011.1.500.000 |3.830.500,00 |
-
-|TOTAL |23.015.600,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2542.339039.1.500.000 |810.000,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0014.2809.339036.1.500.000 |700,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.122.0146.2900.339046.1.500.000 |14.100,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2890.319011.1.500.000 |271.200,00 |
-
-|TOTAL |1.096.000,00 |
-
-|TOTAL DA ANULAÇÃO |24.111.600,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339046.1.500.000 | 14.481.100,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.319011.1.500.000 | 3.956.000,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0014.2809.319011.1.500.000 | 748.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2890.319011.1.500.000 | 3.830.500,00 |
+| TOTAL | 23.015.600,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.339039.1.500.000 | 810.000,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0014.2809.339036.1.500.000 | 700,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.122.0146.2900.339046.1.500.000 | 14.100,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2890.319011.1.500.000 | 271.200,00 |
+| TOTAL | 1.096.000,00 |
+| TOTAL DA ANULAÇÃO | 24.111.600,00 |
 
 ANEXO II
 
@@ -218,50 +163,31 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 5º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 80.764.586,46 |
-
-|Valor do Decreto publicado nesta data |R$ 23.015.600,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 103.780.186,46 |
-
-|Saldo atual de créditos suplementares |R$ 2.161.600.610,84 |
-
-|Percentual utilizado |4,58% |
-
-|Atualizado em 29/09/2025 às 10:37:02 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 80.764.586,46 |
+| Valor do Decreto publicado nesta data | R$ 23.015.600,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 103.780.186,46 |
+| Saldo atual de créditos suplementares | R$ 2.161.600.610,84 |
+| Percentual utilizado | 4,58% |
+| Atualizado em 29/09/2025 às 10:37:02 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 739.595.952,13 |
-
-|Valor do Decreto publicado nesta data |R$ 1.096.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 740.691.952,13 |
-
-|Saldo atual de créditos suplementares |R$ 1.524.688.845,17 |
-
-|Percentual utilizado |32,70% |
-
-|Atualizado em 29/09/2025 às 10:38:17 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 739.595.952,13 |
+| Valor do Decreto publicado nesta data | R$ 1.096.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 740.691.952,13 |
+| Saldo atual de créditos suplementares | R$ 1.524.688.845,17 |
+| Percentual utilizado | 32,70% |
+| Atualizado em 29/09/2025 às 10:38:17 |  |

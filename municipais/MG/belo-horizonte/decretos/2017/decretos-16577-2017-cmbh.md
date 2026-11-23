@@ -30,13 +30,11 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 “Secretaria de Administração Regional Municipal Oeste
 
-|Umei |Escola Municipal |
-
-|[...] |[...] |
-
-|Umei Santa |Escola Municipal Professor Mário|
-
-|Maria |Werneck |
+| Umei | Escola Municipal |
+| --- | --- |
+| [...] | [...] |
+| Umei Santa | Escola Municipal Professor Mário |
+| Maria | Werneck |
 
 ” (NR)
 

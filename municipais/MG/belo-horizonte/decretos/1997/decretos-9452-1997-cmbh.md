@@ -294,22 +294,14 @@ ANEXO A QUE SE REFERE O DECRETO N° 9.452
 
 PARÂMETROS URBANÍSTICOS POR SUBÁREAS
 
-| |COEFICIENTE DE APROVEITAMENTO|TAXA DE OCUPAÇÃO |QUOTAS DE |GABARITO |ALTURA NAS |AFASTAMENTOS LATERAL OU |
-
-| | | |TERRENO/ UNIDADE| |DIVISAS |FUNDOS |
-
-|SUBÁREA 1 |1,6 |0,8 |60m2 |2 pavimentos e h. máx. =|6m -incluído |1,50m quando |
-
-|40m2 <A1 < 120m2 | | | |6,00m |o muro |h< 6,00 |
-
-| |1,2 |0,6 | | | | |
-
-|120m2 A1 240 m2 | | | | | | |
-
-|SUBÁREA 2 |1,6 |0,8 |40m2 |Térreo + 2 pavimentos e |6m -incluído |1,50m quando h 6,00 m |
-
-|40 m2 A1 < 120 m2 | | | |h. máx. = 9,00m |o muro | |
-
-| |1,2 |0,6 | | | |2,30m quando |
-
-|120 m2 A1 240 m2 | | | | | |6<h 9,00 |
+|  | COEFICIENTE DE APROVEITAMENTO | TAXA DE OCUPAÇÃO | QUOTAS DE | GABARITO | ALTURA NAS | AFASTAMENTOS LATERAL OU |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | TERRENO/ UNIDADE |  | DIVISAS | FUNDOS |
+| SUBÁREA 1 | 1,6 | 0,8 | 60m2 | 2 pavimentos e h. máx. = | 6m -incluído | 1,50m quando |
+| 40m2 <A1 < 120m2 |  |  |  | 6,00m | o muro | h< 6,00 |
+|  | 1,2 | 0,6 |  |  |  |  |
+| 120m2 A1 240 m2 |  |  |  |  |  |  |
+| SUBÁREA 2 | 1,6 | 0,8 | 40m2 | Térreo + 2 pavimentos e | 6m -incluído | 1,50m quando h 6,00 m |
+| 40 m2 A1 < 120 m2 |  |  |  | h. máx. = 9,00m | o muro |  |
+|  | 1,2 | 0,6 |  |  |  | 2,30m quando |
+| 120 m2 A1 240 m2 |  |  |  |  |  | 6<h 9,00 |

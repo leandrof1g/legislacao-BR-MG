@@ -40,53 +40,35 @@ O Prefeito de Belo Horizonte, no exercício das atribuições que lhe confere o 
 
 ÁREAS DE HABILITAÇÃO PROFISSIONAL E FORMAÇÃO EXIGIDA PARA O CARGO EFETIVO DE ANALISTA DE POLÍTICAS PÚBLICAS, INTEGRANTE DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DA ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE
 
-|ÁREA |HABILITAÇÃO PROFISSIONAL |
-
-|ADMINISTRAÇÃO |Curso superior completo de Administração, em nível de bacharelado. |
-
-|BIBLIOTECONOMIA |Curso superior completo de Biblioteconomia, em nível de bacharelado. |
-
-|CIÊNCIAS CONTÁBEIS |Curso superior completo de Ciências Contábeis, em nível de |
-
-| |bacharelado. |
-
-|CIÊNCIAS ECONÔMICAS |Curso superior completo de Ciências Econômicas, em nível de |
-
-| |bacharelado. |
-
-|EDUCAÇÃO FÍSICA |Curso superior completo de Educação Física, em nível de bacharelado. |
-
-|GEOGRAFIA |Curso superior completo de Geografia, em nível de bacharelado. |
-
-|PSICOLOGIA |Curso superior completo de Psicologia, em nível de bacharelado. |
-
-|SERVIÇO SOCIAL |Curso superior completo de Serviço Social, em nível de bacharelado. |
+| ÁREA | HABILITAÇÃO PROFISSIONAL |
+| --- | --- |
+| ADMINISTRAÇÃO | Curso superior completo de Administração, em nível de bacharelado. |
+| BIBLIOTECONOMIA | Curso superior completo de Biblioteconomia, em nível de bacharelado. |
+| CIÊNCIAS CONTÁBEIS | Curso superior completo de Ciências Contábeis, em nível de |
+|  | bacharelado. |
+| CIÊNCIAS ECONÔMICAS | Curso superior completo de Ciências Econômicas, em nível de |
+|  | bacharelado. |
+| EDUCAÇÃO FÍSICA | Curso superior completo de Educação Física, em nível de bacharelado. |
+| GEOGRAFIA | Curso superior completo de Geografia, em nível de bacharelado. |
+| PSICOLOGIA | Curso superior completo de Psicologia, em nível de bacharelado. |
+| SERVIÇO SOCIAL | Curso superior completo de Serviço Social, em nível de bacharelado. |
 
 ANEXO II
 
 DISTRIBUIÇÃO DE CARGOS POR ÁREA DE HABILITAÇÃO PROFISSIONAL DO CARGO EFETIVO DE ANALISTA DE POLÍTICAS PÚBLICAS, INTEGRANTE DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DA ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE
 
-|ÁREA |Nº DE CARGOS |
-
-|ADMINISTRAÇÃO |53 |
-
-|BIBLIOTECONOMIA |66 |
-
-|CIÊNCIAS CONTÁBEIS |24 |
-
-|CIÊNCIAS ECONÔMICAS |12 |
-
-|EDUCAÇÃO FÍSICA |52 |
-
-|GEOGRAFIA |11 |
-
-|PSICOLOGIA |339 |
-
-|SERVIÇO SOCIAL |414 |
-
-|OUTRAS ÁREAS |107 |
-
-|TOTAL |1.078 |
+| ÁREA | Nº DE CARGOS |
+| --- | --- |
+| ADMINISTRAÇÃO | 53 |
+| BIBLIOTECONOMIA | 66 |
+| CIÊNCIAS CONTÁBEIS | 24 |
+| CIÊNCIAS ECONÔMICAS | 12 |
+| EDUCAÇÃO FÍSICA | 52 |
+| GEOGRAFIA | 11 |
+| PSICOLOGIA | 339 |
+| SERVIÇO SOCIAL | 414 |
+| OUTRAS ÁREAS | 107 |
+| TOTAL | 1.078 |
 
 ” (NR)
 

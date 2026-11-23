@@ -46,76 +46,41 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividades e horários |
-
-|Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |
-
-|Atividade |Faixa de horário de funcionamento |
-
-|Comércio varejista não contemplado na fase de controle |Segunda a sexta-feira, entre 11h e 19h |
-
-| | |
-
-| |Sábado, entre 9h e 17h |
-
-|Comércio atacadista da cadeia de atividades do comércio varejista autorizada |Segunda a sexta-feira, entre 11h e 19h |
-
-|a funcionar, exceto comércio atacadista de recicláveis | |
-
-| |Sábado, entre 9h e 17h |
-
-|Cabeleireiros, manicures e pedicures |Terça a sexta-feira, entre 11h e 20h |
-
-| | |
-
-| |Sábado, entre 9h e 17h |
-
-|Atividades de estética e outros serviços de cuidados com a beleza: clínicas |Terça a sexta-feira, entre 11h e 20h |
-
-|de estética |Sábado, entre 9h e 17h |
-
-|Atividades autorizadas em funcionamento no interior de galerias de lojas e |Segunda a sexta-feira, entre 11h e 19h |
-
-|centros de comércio | |
-
-| |Sábado, entre 9h e 17h |
-
-|Atividades autorizadas em funcionamento no interior de shopping centers |Segunda-feira a sábado, entre 12h e 20h |
-
-| | |
-
-| |Domingo, somente para retirada de produtos no |
-
-| |estacionamento, em formato drive-thru, sem |
-
-| |restrição de horário |
-
-|Atividades no formato drive-in |Diariamente, entre 14h e 23h59min |
-
-|Atividades de condicionamento físico: academia, centro de ginástica e |Sem restrição de horário |
-
-|estabelecimentos de condicionamento físico, inclusive no interior de galerias| |
-
-|de lojas, centros de comércio e shopping centers | |
-
-|Serviços de alimentação, para consumo no local: restaurantes, lanchonetes, |Segunda a domingo e feriados, entre 11h e 22h |
-
-|cantinas, sorveterias, bares e similares, inclusive aqueles no interior de | |
-
-|clubes de serviço, de lazer, sociais, esportivos e similares e com acesso |Comercialização de bebidas alcoólicas somente entre|
-
-|direto de pedestres ao logradouro, se localizados em galerias de lojas, |17h e 22h, de quarta a sexta-feira, e entre 11h e |
-
-|centros de comércio e shopping centers |22h aos sábados, domingos e feriados |
-
-|Serviços de alimentação, para consumo no local: restaurantes, lanchonetes, |Segunda a sábado, entre 11h e 22h |
-
-|cantinas, sorveterias, bares e similares no interior de galerias de lojas, | |
-
-|centros de comércio e shopping centers |Comercialização de bebidas alcoólicas somente entre|
-
-| |17h e 22h, de quarta a sexta-feira, e entre 11h e |
-
-| |22h aos sábados |
-
-|Clubes de serviço, de lazer, sociais, esportivos e similares |Sem restrição de horário |
+| Atividades e horários |  |
+| --- | --- |
+| Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |  |
+| Atividade | Faixa de horário de funcionamento |
+| Comércio varejista não contemplado na fase de controle | Segunda a sexta-feira, entre 11h e 19h |
+|  |  |
+|  | Sábado, entre 9h e 17h |
+| Comércio atacadista da cadeia de atividades do comércio varejista autorizada | Segunda a sexta-feira, entre 11h e 19h |
+| a funcionar, exceto comércio atacadista de recicláveis |  |
+|  | Sábado, entre 9h e 17h |
+| Cabeleireiros, manicures e pedicures | Terça a sexta-feira, entre 11h e 20h |
+|  |  |
+|  | Sábado, entre 9h e 17h |
+| Atividades de estética e outros serviços de cuidados com a beleza: clínicas | Terça a sexta-feira, entre 11h e 20h |
+| de estética | Sábado, entre 9h e 17h |
+| Atividades autorizadas em funcionamento no interior de galerias de lojas e | Segunda a sexta-feira, entre 11h e 19h |
+| centros de comércio |  |
+|  | Sábado, entre 9h e 17h |
+| Atividades autorizadas em funcionamento no interior de shopping centers | Segunda-feira a sábado, entre 12h e 20h |
+|  |  |
+|  | Domingo, somente para retirada de produtos no |
+|  | estacionamento, em formato drive-thru, sem |
+|  | restrição de horário |
+| Atividades no formato drive-in | Diariamente, entre 14h e 23h59min |
+| Atividades de condicionamento físico: academia, centro de ginástica e | Sem restrição de horário |
+| estabelecimentos de condicionamento físico, inclusive no interior de galerias |  |
+| de lojas, centros de comércio e shopping centers |  |
+| Serviços de alimentação, para consumo no local: restaurantes, lanchonetes, | Segunda a domingo e feriados, entre 11h e 22h |
+| cantinas, sorveterias, bares e similares, inclusive aqueles no interior de |  |
+| clubes de serviço, de lazer, sociais, esportivos e similares e com acesso | Comercialização de bebidas alcoólicas somente entre |
+| direto de pedestres ao logradouro, se localizados em galerias de lojas, | 17h e 22h, de quarta a sexta-feira, e entre 11h e |
+| centros de comércio e shopping centers | 22h aos sábados, domingos e feriados |
+| Serviços de alimentação, para consumo no local: restaurantes, lanchonetes, | Segunda a sábado, entre 11h e 22h |
+| cantinas, sorveterias, bares e similares no interior de galerias de lojas, |  |
+| centros de comércio e shopping centers | Comercialização de bebidas alcoólicas somente entre |
+|  | 17h e 22h, de quarta a sexta-feira, e entre 11h e |
+|  | 22h aos sábados |
+| Clubes de serviço, de lazer, sociais, esportivos e similares | Sem restrição de horário |

@@ -30,7 +30,7 @@ O Vice-Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribui
 
 **Art. 1º** - Fica proibida, no Município, a cobrança do Custo de Gerenciamento Operacional - CGO.
 
-ADI nº 0362146-79.2014.8.13.0000 - Improcedência do pedido –Art. 1º vigente [pic]
+ADI nº 0362146-79.2014.8.13.0000 - Improcedência do pedido –Art. 1º vigente *[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 2º** - O Executivo regulamentará esta lei no prazo de 30 (trinta) dias.
 

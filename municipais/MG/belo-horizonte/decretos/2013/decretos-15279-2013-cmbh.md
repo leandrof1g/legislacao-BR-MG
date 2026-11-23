@@ -70,38 +70,25 @@ Prefeito de Belo Horizonte
 
 ANEXO I
 
-|Lotação por ambiente (nº de frequentadores) |Número mínimo de bebedouros por ambiente |
-
-|Até 200 |1 |
-
-|201 a 400 |2 |
-
-|401 a 600 |3 |
-
-|601 a 800 |4 |
-
-|801 a 1000 |5 |
-
-|Acima de 1000 |6 mais 1 a cada 300 pessoas |
+| Lotação por ambiente (nº de frequentadores) | Número mínimo de bebedouros por ambiente |
+| --- | --- |
+| Até 200 | 1 |
+| 201 a 400 | 2 |
+| 401 a 600 | 3 |
+| 601 a 800 | 4 |
+| 801 a 1000 | 5 |
+| Acima de 1000 | 6 mais 1 a cada 300 pessoas |
 
 ANEXO II
 
-|Descrição da infração |Dispositivo |Notificação Prévia|Prazo para |Multa |Interdição |
-
-| |infringido | |atendimento | | |
-
-| | | | |Classificação |Descrição |Valor (R$) |Periodicidade de | |
-
-| | | | | | | |aplicação | |
-
-|Não instalar ou não manter em |Lei nº 10.544, |Sim |10 dias |M |Por Bebedouro |500,00 |10 dias | |
-
-|funcionamento, em condições apropriadas |Art. 1º | | | |faltante ou | | |Interdição do |
-
-|de higiene e uso, bebedouros de água | | | | |irregular | | |estabelecimento a partir |
-
-|potável nas danceterias e casas noturnas | | | | | | | |da 3ª reincidência |
-
-|do Município, nos termos previstos na | | | | | | | | |
-
-|legislação. | | | | | | | | |
+| Descrição da infração | Dispositivo | Notificação Prévia | Prazo para | Multa | Interdição |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | infringido |  | atendimento |  |  |  |  |  |
+|  |  |  |  | Classificação | Descrição | Valor (R$) | Periodicidade de |  |
+|  |  |  |  |  |  |  | aplicação |  |
+| Não instalar ou não manter em | Lei nº 10.544, | Sim | 10 dias | M | Por Bebedouro | 500,00 | 10 dias |  |
+| funcionamento, em condições apropriadas | Art. 1º |  |  |  | faltante ou |  |  | Interdição do |
+| de higiene e uso, bebedouros de água |  |  |  |  | irregular |  |  | estabelecimento a partir |
+| potável nas danceterias e casas noturnas |  |  |  |  |  |  |  | da 3ª reincidência |
+| do Município, nos termos previstos na |  |  |  |  |  |  |  |  |
+| legislação. |  |  |  |  |  |  |  |  |

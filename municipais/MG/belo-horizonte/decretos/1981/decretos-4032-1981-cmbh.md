@@ -284,47 +284,28 @@ III - no caso de execução de obra por administração, além de comissão cobr
 
 **Art. 8°** - As alíquotas do imposto são as da tabela abaixo:
 
-|Nº DE |NATUREZA DA ATIVIDADE |UFPBH |PREÇO DO |
-
-|ORDEM | |P/ANO |SERVIÇO P/MÊS |
-
-| |Profissionais autônomos | | |
-
-|I |Profissionais de nível superior |1 | |
-
-|II |Profissionais de nível médio e afins |0,7 | |
-
-|III |Demais Profissionais |0,35 | |
-
-|IV |Sociedade de Profissionais Liberais por profissional habilitado, |3 | |
-
-| |Seja sócio, empregado ou terceiro | | |
-
-| |Empresas | | |
-
-|V |Apresentação de peças teatrais, música popular, concertos e | |2% |
-
-| |recitais de música erudita, espetáculos folclóricos e populares, | | |
-
-| |realizados em caráter temporário, inclusive por | | |
-
-| |profissionais autônomos | | |
-
-|VI |Espetáculos desportivos sob o patrocínio da Federação Mineira de futebol | |2% |
-
-|VII |Execução, por administração, empreitada ou subempreitada de construção civil, de obras | |2% |
-
-| |hidráulicas e outras semelhantes inclusive serviços auxiliares ou complementares. | | |
-
-|VIII |Demolição, conservação e reparação de edifícios (inclusive elevadores neles instalados) | |2% |
-
-| |estradas, pontes e congêneres. | | |
-
-|IX |Composição gráfica, clicheria, zincografia, litografia e fotolitografia. | |3% |
-
-|X |Diversões públicas, exceto as mencionadas nos itens V e VI | |10% |
-
-|XI |Demais serviços | |5% |
+| Nº DE | NATUREZA DA ATIVIDADE | UFPBH | PREÇO DO |
+| --- | --- | --- | --- |
+| ORDEM |  | P/ANO | SERVIÇO P/MÊS |
+|  | Profissionais autônomos |  |  |
+| I | Profissionais de nível superior | 1 |  |
+| II | Profissionais de nível médio e afins | 0,7 |  |
+| III | Demais Profissionais | 0,35 |  |
+| IV | Sociedade de Profissionais Liberais por profissional habilitado, | 3 |  |
+|  | Seja sócio, empregado ou terceiro |  |  |
+|  | Empresas |  |  |
+| V | Apresentação de peças teatrais, música popular, concertos e |  | 2% |
+|  | recitais de música erudita, espetáculos folclóricos e populares, |  |  |
+|  | realizados em caráter temporário, inclusive por |  |  |
+|  | profissionais autônomos |  |  |
+| VI | Espetáculos desportivos sob o patrocínio da Federação Mineira de futebol |  | 2% |
+| VII | Execução, por administração, empreitada ou subempreitada de construção civil, de obras |  | 2% |
+|  | hidráulicas e outras semelhantes inclusive serviços auxiliares ou complementares. |  |  |
+| VIII | Demolição, conservação e reparação de edifícios (inclusive elevadores neles instalados) |  | 2% |
+|  | estradas, pontes e congêneres. |  |  |
+| IX | Composição gráfica, clicheria, zincografia, litografia e fotolitografia. |  | 3% |
+| X | Diversões públicas, exceto as mencionadas nos itens V e VI |  | 10% |
+| XI | Demais serviços |  | 5% |
 
 **§ 1º** - Os profissionais autônomos que exercerem mais de uma atividade, pagarão tantos impostos fixos quantos forem as atividades exercidas.
 
@@ -2398,12 +2379,5 @@ DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 138** - Ficam revogados, a partir da publicação deste regulamento, despachos normativos ou não, ordens de serviços, portarias que disponham em contrário às normas presentemente estabelecidas.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

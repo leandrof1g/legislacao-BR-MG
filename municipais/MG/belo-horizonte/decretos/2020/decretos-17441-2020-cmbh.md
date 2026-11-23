@@ -52,26 +52,19 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Segurança e Prevenção – |
-
-|SMSP –, conforme autorização contida no § 2º do art. 4º da Lei nº |
-
-|11.211, de 26 de dezembro de 2019: |
-
-|R$ |
-
-|2100.06.122.109.2.802.3320.0330 |1.280.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.280.000,00 |
+| I.1 – A favor da Secretaria Municipal de Segurança e Prevenção – |  |
+| --- | --- |
+| SMSP –, conforme autorização contida no § 2º do art. 4º da Lei nº |  |
+| 11.211, de 26 de dezembro de 2019: |  |
+| R$ |  |
+| 2100.06.122.109.2.802.3320.0330 | 1.280.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.280.000,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 da |
-
-|tabela anterior: |
-
-|R$ |
-
-|2100.06.122.109.2.802.3390.0330 |1.280.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.280.000,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 da |  |
+| --- | --- |
+| tabela anterior: |  |
+| R$ |  |
+| 2100.06.122.109.2.802.3390.0330 | 1.280.000,00 |
+| TOTAL DA ANULAÇÃO | 1.280.000,00 |

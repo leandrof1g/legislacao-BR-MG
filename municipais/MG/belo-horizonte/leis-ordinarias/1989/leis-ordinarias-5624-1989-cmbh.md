@@ -102,13 +102,11 @@ Servente Escolar I IV Servente Escolar II V
 
 **Art. 9°** - Incluem-se no Anexo IV -Quadro de Correlação da Lei n° 5.447, de 30 de novembro de 1988:
 
-|ATUAL |PROPOSTO |QUALIFICAÇÃO |
-
-|Auxiliar de Serviços e Auxiliar de Serviços I e II do Quadro|Servente Escolar I e II |Primeiro Grau Completo |
-
-|Suplementar, cujos ocupantes prestam serviços nas Escolas | | |
-
-|Municipais. | | |
+| ATUAL | PROPOSTO | QUALIFICAÇÃO |
+| --- | --- | --- |
+| Auxiliar de Serviços e Auxiliar de Serviços I e II do Quadro | Servente Escolar I e II | Primeiro Grau Completo |
+| Suplementar, cujos ocupantes prestam serviços nas Escolas |  |  |
+| Municipais. |  |  |
 
 **Art. 9º** revogado pela Lei nº 6.352, de 15/7/1993 (Art. 93, IV)
 

@@ -36,9 +36,9 @@ O Povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 "ANEXO I DIA COMEMORATIVO H - Dias comemorativos de agosto:
 
-|DATA |COMEMORAÇÃO |
-
-|3/8 |Dia Municipal de Comemoração do Aniversário do Barreiro |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 3/8 | Dia Municipal de Comemoração do Aniversário do Barreiro |
 
 .".
 
@@ -52,9 +52,9 @@ O Povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 "ANEXO III MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|agosto |Mês Municipal de Comemoração do Aniversário do Barreiro |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| agosto | Mês Municipal de Comemoração do Aniversário do Barreiro |
 
 .".
 

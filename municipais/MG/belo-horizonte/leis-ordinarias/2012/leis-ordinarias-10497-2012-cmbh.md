@@ -50,27 +50,18 @@ VIII - Superintendente.
 
 **§ 2º** - O quantitativo de vagas do cargo público e dos postos previstos no caput deste artigo é o seguinte:
 
-|CARGO PÚBLICO EFETIVO / POSTO HIERÁRQUICO |QUANTITATIVO DE VAGAS |
-
-|Guarda Municipal de 2ª Classe |3.000 |
-
-|Classe | |
-
-|Guarda Municipal de 1ª Classe | |
-
-|Guarda Municipal de Classe Especial |300 |
-
-|Subinspetor I |45 |
-
-|Subinspetor II |30 |
-
-|Inspetor I |25 |
-
-|Inspetor II |20 |
-
-|Supervisor |12 |
-
-|Superintendente |6 |
+| CARGO PÚBLICO EFETIVO / POSTO HIERÁRQUICO | QUANTITATIVO DE VAGAS |
+| --- | --- |
+| Guarda Municipal de 2ª Classe | 3.000 |
+| Classe |  |
+| Guarda Municipal de 1ª Classe |  |
+| Guarda Municipal de Classe Especial | 300 |
+| Subinspetor I | 45 |
+| Subinspetor II | 30 |
+| Inspetor I | 25 |
+| Inspetor II | 20 |
+| Supervisor | 12 |
+| Superintendente | 6 |
 
 **§ 3º** - O quantitativo das vagas do cargo público de Guarda Municipal de 2ª Classe transfere-se ao posto hierárquico de Guarda Municipal de 1ª Classe por ocasião do acesso do servidor a este último e retorna ao cargo de Guarda Municipal de 2ª Classe quando o servidor tiver acesso à Classe Especial ou quando de sua vacância.
 
@@ -80,49 +71,32 @@ VIII - Superintendente.
 
 **§ 1º** - Os ocupantes do posto hierárquico de Guarda Municipal de 1ª Classe e dos postos subsequentes progredirão em sua carreira desde que aprovados em processo de avaliação de desempenho destinado à promoção para os postos de hierarquia imediatamente superior, respeitada, em qualquer hipótese, a existência de vagas, bem como o cumprimento dos seguintes tempos de serviço mínimos no posto precedente:
 
-|POSTO HIERÁRQUICO |TEMPO MÍNIMO DE SERVIÇO NO POSTO PRECEDENTE (em anos) |
-
-|Guarda Municipal de 1ª Classe |3 (três) anos de efetivo exercício no nível inicial |
-
-|Guarda Municipal de Classe Especial |2 |
-
-|Subinspetor I |2 |
-
-|Subinspetor II |3 |
-
-|Inspetor I |3 |
-
-|Inspetor II |3 |
-
-|Supervisor |3 |
-
-|Superintendente |2 |
+| POSTO HIERÁRQUICO | TEMPO MÍNIMO DE SERVIÇO NO POSTO PRECEDENTE (em anos) |
+| --- | --- |
+| Guarda Municipal de 1ª Classe | 3 (três) anos de efetivo exercício no nível inicial |
+| Guarda Municipal de Classe Especial | 2 |
+| Subinspetor I | 2 |
+| Subinspetor II | 3 |
+| Inspetor I | 3 |
+| Inspetor II | 3 |
+| Supervisor | 3 |
+| Superintendente | 2 |
 
 **§ 2º** - O processo de avaliação de desempenho a que se refere o § 1º deste artigo compreende as seguintes etapas, nas quais deverão ser aprovados os candidatos para serem promovidos aos seguintes postos hierárquicos:
 
-|POSTO HIERÁRQUICO |ETAPAS DO PROCESSO DE AVALIAÇÃO DE DESEMPENHO |
-
-|Guarda Municipal Classe |Seleção Interna e Análise Conclusiva de Títulos |
-
-|Especial | |
-
-|Subinspetor I |Exame Introdutório, Curso Específico de 120 horas/aula e Análise Conclusiva |
-
-| |de Títulos |
-
-|Subinspetor II |Seleção Interna e Análise Conclusiva de Títulos |
-
-|Inspetor I |Exame Introdutório, Curso Específico de 200 horas/aula e Análise Conclusiva |
-
-| |de Títulos |
-
-|Inspetor II |Seleção Interna e Análise Conclusiva de Títulos |
-
-|Supervisor |Exame Introdutório, Curso Específico de 360 horas/aula, com apresentação de |
-
-| |trabalho final, e Análise Conclusiva de Títulos |
-
-|Superintendente |Seleção Interna e Análise Conclusiva de Títulos |
+| POSTO HIERÁRQUICO | ETAPAS DO PROCESSO DE AVALIAÇÃO DE DESEMPENHO |
+| --- | --- |
+| Guarda Municipal Classe | Seleção Interna e Análise Conclusiva de Títulos |
+| Especial |  |
+| Subinspetor I | Exame Introdutório, Curso Específico de 120 horas/aula e Análise Conclusiva |
+|  | de Títulos |
+| Subinspetor II | Seleção Interna e Análise Conclusiva de Títulos |
+| Inspetor I | Exame Introdutório, Curso Específico de 200 horas/aula e Análise Conclusiva |
+|  | de Títulos |
+| Inspetor II | Seleção Interna e Análise Conclusiva de Títulos |
+| Supervisor | Exame Introdutório, Curso Específico de 360 horas/aula, com apresentação de |
+|  | trabalho final, e Análise Conclusiva de Títulos |
+| Superintendente | Seleção Interna e Análise Conclusiva de Títulos |
 
 **§ 3º** - A seleção interna consiste na aplicação de provas cujos critérios serão definidos no regulamento desta lei.
 
@@ -200,21 +174,15 @@ IX - Superintendente: comando, coordenação e controle de uma Superintendência
 
 **§ 1º** - Os ocupantes dos postos hierárquicos da Carreira da Guarda Municipal de Belo Horizonte não mencionados no caput deste artigo poderão exercer os cargos em comissão da estrutura da Secretaria Municipal de Segurança Urbana e Patrimonial pertencentes ao seu 3º nível hierárquico, nas seguintes correspondências:
 
-|POSTO HIERÁRQUICO |SUBNÍVEIS DOS CARGOS EM COMISSÃO DO 3º NÍVEL |
-
-| |HIERÁRQUICO DA SMSEG |
-
-|Subinspetor I |3º |
-
-|Subinspetor II |3º |
-
-|Inspetor I |2º |
-
-|Inspetor II |2º |
-
-|Supervisor |1º |
-
-|Superintendente |1º |
+| POSTO HIERÁRQUICO | SUBNÍVEIS DOS CARGOS EM COMISSÃO DO 3º NÍVEL |
+| --- | --- |
+|  | HIERÁRQUICO DA SMSEG |
+| Subinspetor I | 3º |
+| Subinspetor II | 3º |
+| Inspetor I | 2º |
+| Inspetor II | 2º |
+| Supervisor | 1º |
+| Superintendente | 1º |
 
 **§ 2º** - O servidor ocupante de cargo público efetivo/posto hierárquico da Guarda Municipal em exercício de cargo em comissão da estrutura da Secretaria Municipal de Segurança Urbana e Patrimonial pertencente ao seu 3º nível hierárquico fará jus à remuneração correspondente ao seu cargo público/posto hierárquico em jornada de 8 (oito) horas diárias acrescida do valor relativo à Gratificação de Dedicação Exclusiva do cargo em comissão.
 
@@ -230,21 +198,15 @@ IX - Superintendente: comando, coordenação e controle de uma Superintendência
 
 **§ 2º** - Os ocupantes dos postos hierárquicos de Subinspetor I e subsequentes poderão exercer os cargos em comissão da estrutura organizacional da Secretaria Municipal de Segurança Urbana e Patrimonial pertencentes ao seu 3° nível hierárquico, nas seguintes correspondências:
 
-|POSTO HIERÁRQUICO |SUBNÍVEIS DOS CARGOS EM COMISSÃO DO 3° NÍVEL |
-
-| |HIERÁRQUICO DA SMSEG |
-
-|Subinspetor I |3º |
-
-|Subinspetor II |3º |
-
-|Inspetor I |2º |
-
-|Inspetor II |2º |
-
-|Supervisor |1º |
-
-|Superintendente |1º |
+| POSTO HIERÁRQUICO | SUBNÍVEIS DOS CARGOS EM COMISSÃO DO 3° NÍVEL |
+| --- | --- |
+|  | HIERÁRQUICO DA SMSEG |
+| Subinspetor I | 3º |
+| Subinspetor II | 3º |
+| Inspetor I | 2º |
+| Inspetor II | 2º |
+| Supervisor | 1º |
+| Superintendente | 1º |
 
 **§ 3º** - A substituição de que tratam os arts. 26 e 27 da Lei n° 9.319/07 somente poderá ser autorizada para os cargos públicos em comissão e funções públicas comissionadas mencionadas no § 2° deste artigo na hipótese de o substituto exercer posto hierárquico igual ou imediatamente inferior ao do substituído.
 
@@ -256,27 +218,18 @@ IX - Superintendente: comando, coordenação e controle de uma Superintendência
 
 **Art. 6º** - A Gratificação por Disponibilidade Integral - GDI - instituída no art. 4º da Lei nº 9.985, de 22 de novembro de 2010, é devida aos ocupantes do cargo público/posto hierárquico da Carreira da Guarda Municipal de Belo Horizonte nos seguintes valores:
 
-|CARGO PÚBLICO EFETIVO / POSTO HIERÁRQUICO |GRATIFICAÇÃO POR DISPONIBILIDADE INTEGRAL (EM |
-
-| |R$) |
-
-|Guarda Municipal de 2ª Classe |263,00 |
-
-|Guarda Municipal de 1ª Classe |294,56 |
-
-|Guarda Municipal de Classe Especial |362,31 |
-
-|Subinspetor I |447,81 |
-
-|Subinspetor II |537,38 |
-
-|Inspetor I |655,60 |
-
-|Inspetor II |786,72 |
-
-|Supervisor |944,06 |
-
-|Superintendente |1.095,11 |
+| CARGO PÚBLICO EFETIVO / POSTO HIERÁRQUICO | GRATIFICAÇÃO POR DISPONIBILIDADE INTEGRAL (EM |
+| --- | --- |
+|  | R$) |
+| Guarda Municipal de 2ª Classe | 263,00 |
+| Guarda Municipal de 1ª Classe | 294,56 |
+| Guarda Municipal de Classe Especial | 362,31 |
+| Subinspetor I | 447,81 |
+| Subinspetor II | 537,38 |
+| Inspetor I | 655,60 |
+| Inspetor II | 786,72 |
+| Supervisor | 944,06 |
+| Superintendente | 1.095,11 |
 
 **Art. 6º** - A Gratificação por Disponibilidade Integral - GDI - instituída no art. 4º da Lei nº 9.985, de 22 de novembro de 2010, é devida aos ocupantes do cargo público/posto hierárquico da Carreira da Guarda Municipal de Belo Horizonte calculada sobre o vencimento-base do nível inicial de seu posto hierárquico, à razão de 15% (quinze por cento).
 
@@ -284,21 +237,15 @@ IX - Superintendente: comando, coordenação e controle de uma Superintendência
 
 **Art. 7º** - Na data da publicação desta lei, os ocupantes do cargo público efetivo de Guarda Municipal de Belo Horizonte ficam imediatamente enquadrados na Carreira nela instituída conforme a seguinte correspondência:
 
-|SITUAÇÃO FUNCIONAL NO INSTANTE ANTERIOR À PUBLICAÇÃO |CARGO PÚBLICO EFETIVO / POSTO HIERÁRQUICO |
-
-|DESTA LEI |PROPOSTO |
-
-|Servidor que ainda não tenha cumprido os requisitos |Guarda Municipal de 2ª Classe |
-
-|temporais do caput do art. 2º desta lei | |
-
-|Servidor que tenha cumprido os requisitos temporais do |Guarda Municipal de 1ª Classe |
-
-|caput do art. 2º desta lei e não incorra na hipótese | |
-
-|prevista no inciso VI do parágrafo único do art. 223 da| |
-
-|Lei nº 9.319/07. | |
+| SITUAÇÃO FUNCIONAL NO INSTANTE ANTERIOR À PUBLICAÇÃO | CARGO PÚBLICO EFETIVO / POSTO HIERÁRQUICO |
+| --- | --- |
+| DESTA LEI | PROPOSTO |
+| Servidor que ainda não tenha cumprido os requisitos | Guarda Municipal de 2ª Classe |
+| temporais do caput do art. 2º desta lei |  |
+| Servidor que tenha cumprido os requisitos temporais do | Guarda Municipal de 1ª Classe |
+| caput do art. 2º desta lei e não incorra na hipótese |  |
+| prevista no inciso VI do parágrafo único do art. 223 da |  |
+| Lei nº 9.319/07. |  |
 
 **Parágrafo único** - Para os servidores que forem enquadrados no posto hierárquico de Guarda Municipal de 1ª Classe o tempo de serviço mínimo neste posto para fins de promoção para o posto subsequente de Guarda Municipal Classe Especial, exigido no § 1º do art. 2º desta lei, será reduzido, em caráter excepcional, para 1 (um) ano, sem prejuízo da aplicação das etapas do processo de avaliação de desempenho.
 
@@ -408,15 +355,12 @@ II - a Bonificação por Cumprimento de Metas, Resultados e Indicadores - BCMRI 
 
 **Art. 19** - Ficam acrescidas ao Quadro de Cargos de Provimento em Comissão e Funções Públicas de Confiança da Administração Direta do Poder Executivo e de Correlação com os Cargos e Funções anteriores, que integra o Anexo I da Lei nº 9.011, de 1º de janeiro de 2005, as seguintes vagas referentes aos seguintes cargos:
 
-|Cargo |Quantidade de Vagas |
-
-|Gerente de 1º Nível - A |1 |
-
-|Gerente de 1º Nível - C |4 |
-
-|Gerente de 2º Nível |11 |
-
-|Gerente de 3º Nível |1 |
+| Cargo | Quantidade de Vagas |
+| --- | --- |
+| Gerente de 1º Nível - A | 1 |
+| Gerente de 1º Nível - C | 4 |
+| Gerente de 2º Nível | 11 |
+| Gerente de 3º Nível | 1 |
 
 **Art. 20** - Para atender ao disposto nesta lei, fica o Poder Executivo autorizado a adaptar seus instrumentos de planejamento financeiro e, nos termos dos arts. 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17 de março de 1964, a abrir crédito adicional no valor de R$ 4.727.583,51 (quatro milhões, setecentos e vinte e sete mil, quinhentos e oitenta e três reais e cinquenta e um centavos) ao orçamento corrente, bem como reabri-lo pelo seu saldo para o exercício seguinte.
 
@@ -436,6 +380,7 @@ ANEXO ÚNICO
 
 TABELA DE VENCIMENTOS-BASE DO PLANO DE CARREIRA DA GUARDA MUNICIPAL DE BELO HORIZONTE
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |
+| --- |
 
 POSTO HIERÁRQUICO |NÍVEL 1 |NÍVEL 2 |NÍVEL 3 |NÍVEL 4 |NÍVEL 5 |NÍVEL 6 |NÍVEL 7 |NÍVEL 8 |NÍVEL 9 |NÍVEL 10 |NÍVEL 11 |NÍVEL 12 |NÍVEL 13 |NÍVEL 14 |NÍVEL 15 | |Guarda Municipal de 2ª Classe |1.375,00 | | | | | | | | | | | | | | | |Guarda Municipal de 1ª Classe |1.540,00 |1.617,00 |1.697,85 |1.782,74 |1.871,88 |1.965,47 |2.063,75 |2.166,93 |2.275,28 |2.389,05 |2.508,50 |2.633,92 |2.765,62 |2.903,90 |3.049,09 | |Guarda Municipal de Classe Especial |1.894,20 |1.988,91 |2.088,36 |2.192,77 |2.302,41 |2.417,53 |2.538,41 |2.665,33 |2.798,60 |2.938,53 |3.085,45 |3.239,72 |3.401,71 |3.571,80 |3.750,39 | |Subinspetor I |2.341,23 |2.458,29 |2.581,21 |2.710,27 |2.845,78 |2.988,07 |3.137,47 |3.294,35 |3.459,06 |3.632,02 |3.813,62 |4.004,30 |4.204,51 |4.414,74 |4.635,48 | |Subinspetor II |2.809,47 |2.949,94 |3.097,44 |3.252,31 |3.414,93 |3.585,67 |3.764,96 |3.953,21 |4.150,87 |4.358,41 |4.576,33 |4.805,15 |5.045,40 |5.297,67 |5.562,56 | |Inspetor I |3.427,56 |3.598,94 |3.778,88 |3.967,83 |4.166,22 |4.374,53 |4.593,26 |4.822,92 |5.064,07 |5.317,27 |5.583,13 |5.862,29 |6.155,41 |6.463,18 |6.786,33 | |Inspetor II |4.113,08 |4.318,73 |4.534,67 |4.761,40 |4.999,47 |5.249,45 |5.511,92 |5.787,52 |6.076,89 |6.380,74 |6.699,77 |7.034,76 |7.386,50 |7.755,83 |8.143,62 | |Supervisor |4.935,69 |5.182,47 |5.441,60 |5.713,68 |5.999,36 |6.299,33 |6.614,30 |6.945,01 |7.292,26 |7.656,88 |8.039,72 |8.441,70 |8.863,79 |9.306,98 |9.772,33 | |Superintendente |5.725,40 |6.011,67 |6.312,25 |6.627,87 |6.959,26 |7.307,22 |7.672,58 |8.056,21 |8.459,02 |8.881,97 |9.326,07 |9.792,38 |10.282,00 |10.796,10 |11.335,90 | |

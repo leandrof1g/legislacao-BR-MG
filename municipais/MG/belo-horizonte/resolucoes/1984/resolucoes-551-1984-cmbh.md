@@ -200,10 +200,5 @@ Arthur Vianna Neto
 
 Secretário
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]

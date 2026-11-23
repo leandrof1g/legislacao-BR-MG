@@ -648,25 +648,23 @@ CÁLCULO DOS RUMOS E DISTÂNCIAS
 
 PROJEÇÃO U.T.M., MERIDIANO CENTRAL 45º W.G.
 
-DATUM PLANIMÉTRICO C.N.G. - CÓRREGO ALEGRE[pic]
-
-[pic]
+DATUM PLANIMÉTRICO C.N.G. - CÓRREGO ALEGRE*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO 3
 
 Zonas de Uso Ocupação e Parcelamento do Município de Belo Horizonte
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO 4
 
 Modelos de Parcelamento urbano do Município de Belo Horizonte
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO 5
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO 6
 

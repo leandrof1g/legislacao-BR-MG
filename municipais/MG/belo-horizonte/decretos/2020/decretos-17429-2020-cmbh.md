@@ -48,74 +48,41 @@ ANEXO
 
 “
 
-|Atividades e horários |
-
-|Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |
-
-|Atividade |Faixa de horário de funcionamento |
-
-| |A partir de 31 de agosto de |A partir de 4 de setembro de |
-
-| |2020 |2020 |
-
-|(...) |(...) |(...) |
-
-|Serviços de alimentação, para consumo no |Segunda a sexta-feira, entre|Segunda a quinta-feira, entre|
-
-|local: restaurantes, lanchonetes, cantinas,|11h e 15h, sem |11h e 15h |
-
-|sorveterias, bares e similares, inclusive |comercialização de bebidas | |
-
-|aqueles com acesso direto de pedestres ao |alcoólicas |Sexta-feira a domingo e |
-
-|logradouro, se localizados em galerias de | |feriados, entre 11h e 22h |
-
-|lojas, centros de comércio e shopping | | |
-
-|centers | |Comercialização de bebidas |
-
-| | |alcoólicas somente entre 17h |
-
-| | |e 22h, na sexta-feira, e |
-
-| | |entre 11h e 22h, nos sábados,|
-
-| | |domingos e feriados |
-
-|Serviços de alimentação, para consumo no |Segunda a sexta-feira, entre|Segunda a quinta-feira, entre|
-
-|local: restaurantes, lanchonetes, cantinas,|11h e 15h, sem |11h e 15h, sem |
-
-|sorveterias, bares e similares no interior |comercialização de bebidas |comercialização de bebidas |
-
-|de galerias de lojas e centros de comércio |alcoólicas |alcoólicas |
-
-| | | |
-
-| | |Sexta-feira, entre 11h e 20h,|
-
-| | |com comercialização de |
-
-| | |bebidas alcoólicas a partir |
-
-| | |das 17h |
-
-|Serviços de alimentação, para consumo no |Segunda a sexta-feira, entre|Segunda a quinta-feira, entre|
-
-|local: restaurantes, lanchonetes, cantinas,|12h e 15h, sem |12h e 15h, sem |
-
-|sorveterias, bares e similares no interior |comercialização de bebidas |comercialização de bebidas |
-
-|de shopping centers |alcoólicas |alcoólicas |
-
-| | | |
-
-| | |Sexta-feira, entre 12h e 20h,|
-
-| | |com comercialização de |
-
-| | |bebidas alcoólicas a partir |
-
-| | |das 17h |
+| Atividades e horários |  |  |
+| --- | --- | --- |
+| Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |  |  |
+| Atividade | Faixa de horário de funcionamento |  |
+|  | A partir de 31 de agosto de | A partir de 4 de setembro de |
+|  | 2020 | 2020 |
+| (...) | (...) | (...) |
+| Serviços de alimentação, para consumo no | Segunda a sexta-feira, entre | Segunda a quinta-feira, entre |
+| local: restaurantes, lanchonetes, cantinas, | 11h e 15h, sem | 11h e 15h |
+| sorveterias, bares e similares, inclusive | comercialização de bebidas |  |
+| aqueles com acesso direto de pedestres ao | alcoólicas | Sexta-feira a domingo e |
+| logradouro, se localizados em galerias de |  | feriados, entre 11h e 22h |
+| lojas, centros de comércio e shopping |  |  |
+| centers |  | Comercialização de bebidas |
+|  |  | alcoólicas somente entre 17h |
+|  |  | e 22h, na sexta-feira, e |
+|  |  | entre 11h e 22h, nos sábados, |
+|  |  | domingos e feriados |
+| Serviços de alimentação, para consumo no | Segunda a sexta-feira, entre | Segunda a quinta-feira, entre |
+| local: restaurantes, lanchonetes, cantinas, | 11h e 15h, sem | 11h e 15h, sem |
+| sorveterias, bares e similares no interior | comercialização de bebidas | comercialização de bebidas |
+| de galerias de lojas e centros de comércio | alcoólicas | alcoólicas |
+|  |  |  |
+|  |  | Sexta-feira, entre 11h e 20h, |
+|  |  | com comercialização de |
+|  |  | bebidas alcoólicas a partir |
+|  |  | das 17h |
+| Serviços de alimentação, para consumo no | Segunda a sexta-feira, entre | Segunda a quinta-feira, entre |
+| local: restaurantes, lanchonetes, cantinas, | 12h e 15h, sem | 12h e 15h, sem |
+| sorveterias, bares e similares no interior | comercialização de bebidas | comercialização de bebidas |
+| de shopping centers | alcoólicas | alcoólicas |
+|  |  |  |
+|  |  | Sexta-feira, entre 12h e 20h, |
+|  |  | com comercialização de |
+|  |  | bebidas alcoólicas a partir |
+|  |  | das 17h |
 
 ”

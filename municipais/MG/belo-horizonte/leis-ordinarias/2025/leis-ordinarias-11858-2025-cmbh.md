@@ -40,9 +40,9 @@ DIA COMEMORATIVO
 
 H - Dias comemorativos de agosto:
 
-|DATA |COMEMORAÇÃO |
-
-|5/8 |Dia Municipal do Profissional da Saúde |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 5/8 | Dia Municipal do Profissional da Saúde |
 
 .”.
 

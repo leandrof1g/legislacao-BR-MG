@@ -52,158 +52,85 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do art. |R$ |
-
-|4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Secretaria Municipal de Educação - SMED |
-
-|2200.12.361.168.2.080.3390.0000 |196.800,00 |
-
-|2200.12.365.169.2.542.3390.0000 |77.500,00 |
-
-|2200.12.366.168.2.080.3390.0000 |11.500,00 |
-
-|2200.12.365.169.2.542.3390.0000 |269.900,00 |
-
-|2200.12.365.169.2.542.3390.0000 |99.000,00 |
-
-|2200.12.365.169.2.542.3390.0000 |159.000,00 |
-
-|2200.12.361.168.2.080.3390.0000 |106.200,00 |
-
-|2200.12.365.169.2.542.3390.0000 |153.900,00 |
-
-|2200.12.361.168.2.080.3390.0000 |97.400,00 |
-
-|2200.12.365.169.2.542.3390.0000 |135.800,00 |
-
-|2200.12.361.168.2.080.3390.0000 |59.800,00 |
-
-|2200.12.365.169.2.542.3390.0000 |143.400,00 |
-
-|TOTAL |1.510.200,00 |
-
-| |
-
-|I.2 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Gabinete do Prefeito - GP |
-
-|0201.04.122.096.2.004.3190.0000 |658.800,00 |
-
-|0201.04.122.096.2.004.3191.0000 |43.900,00 |
-
-|Secretaria Municipal de Educação - SMED |
-
-|2200.12.361.168.2.080.3191.0000 |20.800,00 |
-
-|2200.12.365.169.2.542.3190.0000 |4.700,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura - SMOBI |
-
-|2700.06.182.164.2.541.3190.0000 |167.200,00 |
-
-|2700.15.452.057.2.770.3190.0000 |44.000,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania - SMASAC |
-
-|1000.08.122.123.2.900.3190.0000 |158.400,00 |
-
-|Fundo Municipal de Assistência Social - FMAS |
-
-|1011.08.244.019.2.308.3190.0000 |200.000,00 |
-
-|1011.08.244.019.2.308.3190.0000 |158.500,00 |
-
-|1011.08.244.019.2.308.3190.0000 |124.700,00 |
-
-|1011.08.244.019.2.308.3190.0000 |280.000,00 |
-
-|1011.08.244.019.2.308.3190.0000 |255.200,00 |
-
-|1011.08.244.019.2.308.3190.0000 |388.300,00 |
-
-|1011.08.244.019.2.308.3190.0000 |278.800,00 |
-
-|1011.08.244.019.2.308.3190.0000 |129.300,00 |
-
-|Fundo Municipal de Saúde - FMS |
-
-|2302.10.302.114.2.891.3190.0000 |116.500,00 |
-
-|TOTAL |3.029.100,00 |
-
-| |
-
-|I.3 – A favor do Fundo Municipal de Saúde - FMS, conforme autorização contida no |R$ |
-
-|inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2302.10.122.117.2.662.3390.0000 |16.300,00 |
-
-|2302.10.122.117.2.662.3390.0000 |21.800,00 |
-
-|2302.10.122.117.2.662.3390.0000 |2.200,00 |
-
-|2302.10.122.117.2.662.3390.0000 |19.400,00 |
-
-|2302.10.302.114.2.893.3390.0000 |35.100,00 |
-
-|TOTAL |94.800,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.634.100,00 |
+| I.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do art. | R$ |
+| --- | --- |
+| 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Secretaria Municipal de Educação - SMED |  |
+| 2200.12.361.168.2.080.3390.0000 | 196.800,00 |
+| 2200.12.365.169.2.542.3390.0000 | 77.500,00 |
+| 2200.12.366.168.2.080.3390.0000 | 11.500,00 |
+| 2200.12.365.169.2.542.3390.0000 | 269.900,00 |
+| 2200.12.365.169.2.542.3390.0000 | 99.000,00 |
+| 2200.12.365.169.2.542.3390.0000 | 159.000,00 |
+| 2200.12.361.168.2.080.3390.0000 | 106.200,00 |
+| 2200.12.365.169.2.542.3390.0000 | 153.900,00 |
+| 2200.12.361.168.2.080.3390.0000 | 97.400,00 |
+| 2200.12.365.169.2.542.3390.0000 | 135.800,00 |
+| 2200.12.361.168.2.080.3390.0000 | 59.800,00 |
+| 2200.12.365.169.2.542.3390.0000 | 143.400,00 |
+| TOTAL | 1.510.200,00 |
+|  |  |
+| I.2 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Gabinete do Prefeito - GP |  |
+| 0201.04.122.096.2.004.3190.0000 | 658.800,00 |
+| 0201.04.122.096.2.004.3191.0000 | 43.900,00 |
+| Secretaria Municipal de Educação - SMED |  |
+| 2200.12.361.168.2.080.3191.0000 | 20.800,00 |
+| 2200.12.365.169.2.542.3190.0000 | 4.700,00 |
+| Secretaria Municipal de Obras e Infraestrutura - SMOBI |  |
+| 2700.06.182.164.2.541.3190.0000 | 167.200,00 |
+| 2700.15.452.057.2.770.3190.0000 | 44.000,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania - SMASAC |  |
+| 1000.08.122.123.2.900.3190.0000 | 158.400,00 |
+| Fundo Municipal de Assistência Social - FMAS |  |
+| 1011.08.244.019.2.308.3190.0000 | 200.000,00 |
+| 1011.08.244.019.2.308.3190.0000 | 158.500,00 |
+| 1011.08.244.019.2.308.3190.0000 | 124.700,00 |
+| 1011.08.244.019.2.308.3190.0000 | 280.000,00 |
+| 1011.08.244.019.2.308.3190.0000 | 255.200,00 |
+| 1011.08.244.019.2.308.3190.0000 | 388.300,00 |
+| 1011.08.244.019.2.308.3190.0000 | 278.800,00 |
+| 1011.08.244.019.2.308.3190.0000 | 129.300,00 |
+| Fundo Municipal de Saúde - FMS |  |
+| 2302.10.302.114.2.891.3190.0000 | 116.500,00 |
+| TOTAL | 3.029.100,00 |
+|  |  |
+| I.3 – A favor do Fundo Municipal de Saúde - FMS, conforme autorização contida no | R$ |
+| inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2302.10.122.117.2.662.3390.0000 | 16.300,00 |
+| 2302.10.122.117.2.662.3390.0000 | 21.800,00 |
+| 2302.10.122.117.2.662.3390.0000 | 2.200,00 |
+| 2302.10.122.117.2.662.3390.0000 | 19.400,00 |
+| 2302.10.302.114.2.893.3390.0000 | 35.100,00 |
+| TOTAL | 94.800,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.634.100,00 |
 
 II – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação - SMED |
-
-|2200.12.361.168.2.080.3190.0000 |1.510.200,00 |
-
-|TOTAL |1.510.200,00 |
-
-| |
-
-|II.2 – Em contrapartida às suplementações relacionadas no item I.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Gabinete do Prefeito - GP |
-
-|0201.04.122.007.2.900.3190.0000 |702.700,00 |
-
-|Secretaria Municipal de Fazenda - SMFA |
-
-|0800.04.129.013.2.052.3190.0000 |1.973.200,00 |
-
-|Secretaria Municipal de Educação - SMED |
-
-|2200.12.361.168.2.080.3190.0000 |25.500,00 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.15.122.057.2.584.3190.0000 |211.200,00 |
-
-|Fundo Municipal de Saúde - FMS |
-
-|2302.10.301.157.2.690.3190.0000 |116.500,00 |
-
-|TOTAL |3.029.100,00 |
-
-| |
-
-|II.3 – Em contrapartida às suplementações relacionadas no item I.3, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde - FMS: | |
-
-|2302.10.301.157.2.690.3190.0000 |94.800,00 |
-
-|TOTAL |94.800,00 |
-
-|TOTAL DA ANULAÇÃO |4.634.100,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação - SMED |  |
+| 2200.12.361.168.2.080.3190.0000 | 1.510.200,00 |
+| TOTAL | 1.510.200,00 |
+|  |  |
+| II.2 – Em contrapartida às suplementações relacionadas no item I.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Gabinete do Prefeito - GP |  |
+| 0201.04.122.007.2.900.3190.0000 | 702.700,00 |
+| Secretaria Municipal de Fazenda - SMFA |  |
+| 0800.04.129.013.2.052.3190.0000 | 1.973.200,00 |
+| Secretaria Municipal de Educação - SMED |  |
+| 2200.12.361.168.2.080.3190.0000 | 25.500,00 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.15.122.057.2.584.3190.0000 | 211.200,00 |
+| Fundo Municipal de Saúde - FMS |  |
+| 2302.10.301.157.2.690.3190.0000 | 116.500,00 |
+| TOTAL | 3.029.100,00 |
+|  |  |
+| II.3 – Em contrapartida às suplementações relacionadas no item I.3, anulação de | R$ |
+| recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde - FMS: |  |
+| 2302.10.301.157.2.690.3190.0000 | 94.800,00 |
+| TOTAL | 94.800,00 |
+| TOTAL DA ANULAÇÃO | 4.634.100,00 |

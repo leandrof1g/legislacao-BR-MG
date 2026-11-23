@@ -58,45 +58,30 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 1º da |R$ |
-
-|Lei nº 11.377, de 8 de julho de 2022: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|1010.20.608.308.2.121.4490.0000 |100.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.168.2.046.3390.0000 |126.000,00 |
-
-|Fundo Municipal de Transportes Urbanos – FTU |
-
-|2710.26.452.060.2.837.3390.0000 |157.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |383.000,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 1º da | R$ |
+| --- | --- |
+| Lei nº 11.377, de 8 de julho de 2022: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.20.608.308.2.121.4490.0000 | 100.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.168.2.046.3390.0000 | 126.000,00 |
+| Fundo Municipal de Transportes Urbanos – FTU |  |
+| 2710.26.452.060.2.837.3390.0000 | 157.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 383.000,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, | |
-
-|conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|1010.20.608.308.2.121.3390.0000 |100.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.168.2.080.4490.0000 |126.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.233.2.811.4490.0000 |157.000,00 |
-
-|TOTAL DA ANULAÇÃO |383.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, |  |
+| conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.20.608.308.2.121.3390.0000 | 100.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.168.2.080.4490.0000 | 126.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.233.2.811.4490.0000 | 157.000,00 |
+| TOTAL DA ANULAÇÃO | 383.000,00 |
 
 ANEXO II
 
@@ -138,16 +123,11 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 1º da Lei nº 11.377, de 8 de julho de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2022 |
-
-|Art. 1º da Lei nº 11.377, de 08/07/2022 – Emendas Parlamentares Individuais |
-
-|Limite total autorizado |R$ 64.153.793,00 |
-
-|Valor dos créditos suplementares abertos no exercício |R$ 61.949.914,80 |
-
-|Saldos de créditos suplementares |R$ 2.203.878,20 |
-
-|Percentual utilizado |96,56% |
-
-|Atualizado em 07/12/2022 às 12:08:41 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2022 |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.377, de 08/07/2022 – Emendas Parlamentares Individuais |  |
+| Limite total autorizado | R$ 64.153.793,00 |
+| Valor dos créditos suplementares abertos no exercício | R$ 61.949.914,80 |
+| Saldos de créditos suplementares | R$ 2.203.878,20 |
+| Percentual utilizado | 96,56% |
+| Atualizado em 07/12/2022 às 12:08:41 |  |

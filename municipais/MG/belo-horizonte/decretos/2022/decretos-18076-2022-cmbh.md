@@ -52,38 +52,25 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I – A favor da Superintendência de Desenvolvimento da Capital – SUDECAP –, |R$ |
-
-|conforme autorização contida nos arts. 1º e 3º da Lei nº 11.377, de 8 de julho de | |
-
-|2022: | |
-
-|2702.18.541.233.2.811.3390.0000 |18.004,78 |
-
-|2702.15.451.233.1.396.4490.0000 |10.747,98 |
-
-|2702.04.122.233.1.219.4490.0000 |23.753,21 |
-
-|2702.04.122.233.1.219.4490.0000 |39.626,64 |
-
-|TOTAL DA SUPLEMENTAÇÃO |92.132,61 |
+| I – A favor da Superintendência de Desenvolvimento da Capital – SUDECAP –, | R$ |
+| --- | --- |
+| conforme autorização contida nos arts. 1º e 3º da Lei nº 11.377, de 8 de julho de |  |
+| 2022: |  |
+| 2702.18.541.233.2.811.3390.0000 | 18.004,78 |
+| 2702.15.451.233.1.396.4490.0000 | 10.747,98 |
+| 2702.04.122.233.1.219.4490.0000 | 23.753,21 |
+| 2702.04.122.233.1.219.4490.0000 | 39.626,64 |
+| TOTAL DA SUPLEMENTAÇÃO | 92.132,61 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II – Em contrapartida às suplementações relacionadas no item I: |R$ |
-
-|Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, | |
-
-|conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.233.1.219.4490.0000 |39.626,64 |
-
-|2700.18.541.233.2.811.4490.0000 |28.752,76 |
-
-|Fundo Municipal de Saúde - FMS |
-
-|2302.10.122.117.1.216.4490.0000 |23.753,21 |
-
-|TOTAL DA ANULAÇÃO |92.132,61 |
+| II – Em contrapartida às suplementações relacionadas no item I: | R$ |
+| --- | --- |
+| Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, |  |
+| conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.233.1.219.4490.0000 | 39.626,64 |
+| 2700.18.541.233.2.811.4490.0000 | 28.752,76 |
+| Fundo Municipal de Saúde - FMS |  |
+| 2302.10.122.117.1.216.4490.0000 | 23.753,21 |
+| TOTAL DA ANULAÇÃO | 92.132,61 |

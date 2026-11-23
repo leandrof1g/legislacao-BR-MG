@@ -52,390 +52,41 @@ ANEXO I
 
 RELATÓRIO DE ORÇAMENTO SUMÁRIO RECEITA
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
 RELATÓRIO DE ORÇAMENTO INVESTIMENTO RECEITA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO III
 
 RELATÓRIO DE ORÇAMENTO INVESTIMENTO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO IV
 
 RELATÓRIO DE ORÇAMENTO QDD
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO V
 
 RELATÓRIO DE ORÇAMENTO SÍNTESE ORÇAMENTO CONSOLIDADO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO VI
 
 RELATÓRIO DE ORÇAMENTO SÍNTESE ORÇAMENTO DESPESA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO VII
 
 RELATÓRIO DE ORÇAMENTO EVOLUÇÃO DESPESA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

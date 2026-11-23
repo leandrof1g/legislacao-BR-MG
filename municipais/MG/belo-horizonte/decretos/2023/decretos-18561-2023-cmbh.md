@@ -56,29 +56,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Créditos adicionais especiais suplementando a seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no inciso II, | |
-
-|parágrafo único do art. 9º da Lei nº 11.603, de 25 de outubro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.301.157.2.690.319011.605 |158.100,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |158.100,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no inciso II, |  |
+| parágrafo único do art. 9º da Lei nº 11.603, de 25 de outubro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.301.157.2.690.319011.605 | 158.100,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 158.100,00 |
 
 I.2 – Anulação da seguinte dotação orçamentária do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.122.117.2.662.319011.605 |158.100,00 |
-
-|TOTAL DA ANULAÇÃO |158.100,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.122.117.2.662.319011.605 | 158.100,00 |
+| TOTAL DA ANULAÇÃO | 158.100,00 |
 
 ANEXO II
 

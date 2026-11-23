@@ -28,15 +28,15 @@ O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 10
 
 **Art. 1º** - Fica aberto ao Orçamento da Seguridade Social da Prefeitura, em favor do Fundo Financeiro, o Crédito Especial no valor de R$369.800,00 (trezentos e sessenta e nove mil e oitocentos reais), com as seguintes classificações orçamentárias:
 
-|0613.09.271.026.2.174.339035.0970 |130.000,00 |
-
-|0613.09.271.026.2.174.339039.0970 |45.000,00 |
-
-|0613.09.271.026.2.174.449052.0970 |194.800,00 |
+| 0613.09.271.026.2.174.339035.0970 | 130.000,00 |
+| --- | --- |
+| 0613.09.271.026.2.174.339039.0970 | 45.000,00 |
+| 0613.09.271.026.2.174.449052.0970 | 194.800,00 |
 
 **Art. 2º** - Para atender ao disposto no artigo anterior fica anulada, parcialmente, a seguinte dotação do Orçamento da Seguridade Social da Prefeitura, no valor de R$369.800,00 (trezentos e sessenta e nove mil e oitocentos reais):
 
-|0609.09.271.026.3.005.319001.0970 |369.800,00 |
+| 0609.09.271.026.3.005.319001.0970 | 369.800,00 |
+| --- | --- |
 
 **Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
 

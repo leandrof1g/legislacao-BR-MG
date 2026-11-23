@@ -32,9 +32,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 E - Dias comemorativos de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|3/5 |Dia Municipal do Soul |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 3/5 | Dia Municipal do Soul |
 
 .”.
 

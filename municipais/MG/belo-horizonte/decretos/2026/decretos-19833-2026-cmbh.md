@@ -58,95 +58,55 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.04.122.0007.2124.339037.1.500.000 |1.364,00 |
-
-|4001.28.846.0088.3090.339047.1.500.000 |34.000.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339040.1.500.000 |17.382,00 |
-
-|2505.18.541.0073.2900.339047.1.500.000 |25.611,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449051.1.500.000 |400.000,00 |
-
-|2700.04.122.0233.1219.449030.1.500.000 |750.000,00 |
-
-|2700.15.451.0313.1219.449051.1.700.530 |396.000,00 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.0007.2900.339037.1.500.000 |1.015.114,89 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2539.339039.1.500.000 |15.626.121,00 |
-
-|Secretaria Municipal de Mobilidade Urbana – SMMUR |
-
-|3500.26.452.0060.2567.339039.1.500.000 |5.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |52.236.592,89 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.04.122.0007.2124.339037.1.500.000 | 1.364,00 |
+| 4001.28.846.0088.3090.339047.1.500.000 | 34.000.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339040.1.500.000 | 17.382,00 |
+| 2505.18.541.0073.2900.339047.1.500.000 | 25.611,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449051.1.500.000 | 400.000,00 |
+| 2700.04.122.0233.1219.449030.1.500.000 | 750.000,00 |
+| 2700.15.451.0313.1219.449051.1.700.530 | 396.000,00 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.0007.2900.339037.1.500.000 | 1.015.114,89 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2539.339039.1.500.000 | 15.626.121,00 |
+| Secretaria Municipal de Mobilidade Urbana – SMMUR |  |
+| 3500.26.452.0060.2567.339039.1.500.000 | 5.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 52.236.592,89 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.0091.3501.329021.1.500.000 |34.000.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2900.339092.1.500.000 |42.993,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449051.1.500.000 |15.182.371,00 |
-
-|2704.16.482.0225.1231.449030.1.500.000 |1.593.750,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0014.2809.339039.1.500.000 |5.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0313.1219.449051.1.700.000 |396.000,00 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.339030.1.500.000 |28.380,17 |
-
-|3600.04.122.0007.2900.339039.1.500.000 |21.195,11 |
-
-|3600.04.122.0093.2934.339039.1.500.000 |3.562,00 |
-
-|3600.04.122.0093.2900.339037.1.500.000 |684.130,00 |
-
-|3600.04.122.0007.2519.339039.1.500.000 |5.692,50 |
-
-|3600.04.122.0007.2519.339030.1.500.000 |26.500,00 |
-
-|3600.04.122.0007.2900.339037.1.500.000 |243.061,21 |
-
-|3600.04.122.0093.2934.339093.1.500.000 |2.593,90 |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |
-
-|2703.16.482.0007.2900.339037.1.500.000 |1.364,00 |
-
-|TOTAL DA ANULAÇÃO |52.236.592,89 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.0091.3501.329021.1.500.000 | 34.000.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2900.339092.1.500.000 | 42.993,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449051.1.500.000 | 15.182.371,00 |
+| 2704.16.482.0225.1231.449030.1.500.000 | 1.593.750,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0014.2809.339039.1.500.000 | 5.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0313.1219.449051.1.700.000 | 396.000,00 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.339030.1.500.000 | 28.380,17 |
+| 3600.04.122.0007.2900.339039.1.500.000 | 21.195,11 |
+| 3600.04.122.0093.2934.339039.1.500.000 | 3.562,00 |
+| 3600.04.122.0093.2900.339037.1.500.000 | 684.130,00 |
+| 3600.04.122.0007.2519.339039.1.500.000 | 5.692,50 |
+| 3600.04.122.0007.2519.339030.1.500.000 | 26.500,00 |
+| 3600.04.122.0007.2900.339037.1.500.000 | 243.061,21 |
+| 3600.04.122.0093.2934.339093.1.500.000 | 2.593,90 |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |  |
+| 2703.16.482.0007.2900.339037.1.500.000 | 1.364,00 |
+| TOTAL DA ANULAÇÃO | 52.236.592,89 |
 
 ANEXO II
 
@@ -190,26 +150,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.592.177.595,93 |
-
-|Valor do decreto publicado nesta data |R$ 52.236.592,89 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.644.414.188,82 |
-
-|Saldo atual de créditos suplementares |R$ 848.020.878,78 |
-
-|Percentual utilizado |65,98% |
-
-|Atualizado em 16/11/2026 às 09:57:56 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.592.177.595,93 |
+| Valor do decreto publicado nesta data | R$ 52.236.592,89 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.644.414.188,82 |
+| Saldo atual de créditos suplementares | R$ 848.020.878,78 |
+| Percentual utilizado | 65,98% |
+| Atualizado em 16/11/2026 às 09:57:56 |  |

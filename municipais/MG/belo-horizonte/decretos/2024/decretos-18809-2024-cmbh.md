@@ -58,139 +58,77 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei nº|R$ |
-
-|11.644, de 29 de dezembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.1.500.000 |11.328,00 |
-
-|2302.10.302.0117.1216.449052.2.634.791 |3.306,00 |
-
-|2302.10.302.0114.2936.445042.1.621.000 |1.205.959,00 |
-
-|2302.10.302.0114.2936.449152.1.621.000 |308.331,00 |
-
-|2302.10.301.0157.2690.449052.1.500.000 |12.183,30 |
-
-|2302.10.301.0117.1216.449052.2.634.791 |36.111,00 |
-
-|2302.10.305.0028.2829.449052.1.500.000 |23.589,90 |
-
-|TOTAL |1.600.808,20 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei|R$ |
-
-|nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de | |
-
-|dezembro de 2024: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2581.449052.1.500.000 |3.369,39 |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|1010.20.608.0308.2121.339039.1.500.000 |50.000,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2840.339039.1.500.000 |650.000,00 |
-
-|1000.14.241.0127.2697.339039.1.500.000 |50.000,00 |
-
-|Fundo Municipal de Saúde - FMS |
-
-|2302.10.302.0114.2936.339039.1.500.000 |150.000,00 |
-
-|2302.10.301.0157.2690.449052.1.500.000 |100.000,00 |
-
-|2302.10.302.0114.2936.445042.1.500.000 |857.000,00 |
-
-|2302.10.302.0114.2936.443042.1.500.000 |200.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2308.339039.1.500.000 |1.567.082,00 |
-
-|1011.08.244.0020.2878.339039.1.500.000 |50.000,00 |
-
-|TOTAL |3.677.451,39 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.278.259,59 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei nº | R$ |
+| --- | --- |
+| 11.644, de 29 de dezembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.1.500.000 | 11.328,00 |
+| 2302.10.302.0117.1216.449052.2.634.791 | 3.306,00 |
+| 2302.10.302.0114.2936.445042.1.621.000 | 1.205.959,00 |
+| 2302.10.302.0114.2936.449152.1.621.000 | 308.331,00 |
+| 2302.10.301.0157.2690.449052.1.500.000 | 12.183,30 |
+| 2302.10.301.0117.1216.449052.2.634.791 | 36.111,00 |
+| 2302.10.305.0028.2829.449052.1.500.000 | 23.589,90 |
+| TOTAL | 1.600.808,20 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei | R$ |
+| nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de |  |
+| dezembro de 2024: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2581.449052.1.500.000 | 3.369,39 |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.20.608.0308.2121.339039.1.500.000 | 50.000,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2840.339039.1.500.000 | 650.000,00 |
+| 1000.14.241.0127.2697.339039.1.500.000 | 50.000,00 |
+| Fundo Municipal de Saúde - FMS |  |
+| 2302.10.302.0114.2936.339039.1.500.000 | 150.000,00 |
+| 2302.10.301.0157.2690.449052.1.500.000 | 100.000,00 |
+| 2302.10.302.0114.2936.445042.1.500.000 | 857.000,00 |
+| 2302.10.302.0114.2936.443042.1.500.000 | 200.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.339039.1.500.000 | 1.567.082,00 |
+| 1011.08.244.0020.2878.339039.1.500.000 | 50.000,00 |
+| TOTAL | 3.677.451,39 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.278.259,59 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.319011.1.500.000 |47.101,20 |
-
-|2302.10.302.0114.2936.339039.1.621.000 |1.205.959,00 |
-
-|2302.10.302.0114.2936.339139.1.621.000 |308.331,00 |
-
-|2302.10.122.0117.2662.339040.2.634.791 |39.417,00 |
-
-|TOTAL |1.600.808,20 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização | |
-
-|contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei | |
-
-|nº 11.644, de 29 de dezembro de 2024: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB | |
-
-|2505.18.541.0073.2581.339030.1.500.000 |3.369,39 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2927.339039.1.500.000 |580.000,00 |
-
-|1000.08.244.0123.2804.339039.1.500.000 |100.000,00 |
-
-|1000.14.422.0127.2335.339039.1.500.000 |148.055,00 |
-
-|Secretaria Municipal de Educação – SMED | |
-
-|2200.12.365.0169.2542.339039.1.500.000 |689.027,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP | |
-
-|2100.06.122.0242.2881.339039.1.500.000 |650.000,00 |
-
-|Fundo Municipal de Saúde – FMS | |
-
-|2302.10.302.0114.2936.339039.1.500.000 |937.000,00 |
-
-|2302.10.302.0114.2936.449052.1.500.000 |270.000,00 |
-
-|2302.10.301.0117.1216.449052.1.500.000 |100.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS | |
-
-|1011.08.244.0019.2308.339039.1.500.000 |50.000,00 |
-
-|1011.08.244.0020.2878.449052.1.500.000 |50.000,00 |
-
-|Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA | |
-
-|1013.14.243.0163.2859.339039.1.500.000 |50.000,00 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA | |
-
-|2500.18.541.0307.2913.335041.1.500.000 |50.000,00 |
-
-|TOTAL |3.677.451,39 |
-
-|TOTAL DA ANULAÇÃO |5.278.259,59 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.319011.1.500.000 | 47.101,20 |
+| 2302.10.302.0114.2936.339039.1.621.000 | 1.205.959,00 |
+| 2302.10.302.0114.2936.339139.1.621.000 | 308.331,00 |
+| 2302.10.122.0117.2662.339040.2.634.791 | 39.417,00 |
+| TOTAL | 1.600.808,20 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização |  |
+| contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei |  |
+| nº 11.644, de 29 de dezembro de 2024: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2581.339030.1.500.000 | 3.369,39 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2927.339039.1.500.000 | 580.000,00 |
+| 1000.08.244.0123.2804.339039.1.500.000 | 100.000,00 |
+| 1000.14.422.0127.2335.339039.1.500.000 | 148.055,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.339039.1.500.000 | 689.027,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0242.2881.339039.1.500.000 | 650.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339039.1.500.000 | 937.000,00 |
+| 2302.10.302.0114.2936.449052.1.500.000 | 270.000,00 |
+| 2302.10.301.0117.1216.449052.1.500.000 | 100.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.339039.1.500.000 | 50.000,00 |
+| 1011.08.244.0020.2878.449052.1.500.000 | 50.000,00 |
+| Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA |  |
+| 1013.14.243.0163.2859.339039.1.500.000 | 50.000,00 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.541.0307.2913.335041.1.500.000 | 50.000,00 |
+| TOTAL | 3.677.451,39 |
+| TOTAL DA ANULAÇÃO | 5.278.259,59 |
 
 ANEXO II
 
@@ -234,48 +172,30 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 4º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 4º, limite de 15% do valor|
-
-|abertura de créditos suplementares para o Fundo Municipal de |total do Orçamento: |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 2.974.999.158,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 74.836.848,55 |
-
-|Valor do Decreto publicado nesta data |R$ 1.600.808,20 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 76.437.656,75 |
-
-|Saldo atual de créditos suplementares |R$ 2.898.561.501,85 |
-
-|Percentual utilizado |2,57% |
-
-|Atualizado em 09/09/2024 às 12:26:17 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 4º, limite de 15% do valor |
+| abertura de créditos suplementares para o Fundo Municipal de | total do Orçamento: |
+| Saúde. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 2.974.999.158,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 74.836.848,55 |
+| Valor do Decreto publicado nesta data | R$ 1.600.808,20 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 76.437.656,75 |
+| Saldo atual de créditos suplementares | R$ 2.898.561.501,85 |
+| Percentual utilizado | 2,57% |
+| Atualizado em 09/09/2024 às 12:26:17 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 170.400.546,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 13.047.576,00 |
-
-|Valor do Decreto publicado nesta data |R$ 3.677.451,39 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 16.725.027,39 |
-
-|Saldo atual de créditos suplementares |R$ 153.675.518,61 |
-
-|Percentual utilizado |9,82% |
-
-|Atualizado em 09/09/2024 às 12:28:45 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 170.400.546,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 13.047.576,00 |
+| Valor do Decreto publicado nesta data | R$ 3.677.451,39 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 16.725.027,39 |
+| Saldo atual de créditos suplementares | R$ 153.675.518,61 |
+| Percentual utilizado | 9,82% |
+| Atualizado em 09/09/2024 às 12:28:45 |  |

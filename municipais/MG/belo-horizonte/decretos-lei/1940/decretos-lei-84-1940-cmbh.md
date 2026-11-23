@@ -2500,31 +2500,23 @@ I - multa:
 
 a) para transgressões relativas à área demolida irregularmente, de acordo com a tabela abaixo:
 
-|Área demolida |Valor da multa |
-
-|até 10 m² |5 UFPBHs |
-
-|mais de 10 m² a 50 m² |10 UFPBHs |
-
-|mais de 50 m² a 100 m² |50 UFPBHs |
-
-|mais de 100 m² a 250 m² |150 UFPBHs |
-
-|mais de 250 m² |300 UFPBHs |
+| Área demolida | Valor da multa |
+| --- | --- |
+| até 10 m² | 5 UFPBHs |
+| mais de 10 m² a 50 m² | 10 UFPBHs |
+| mais de 50 m² a 100 m² | 50 UFPBHs |
+| mais de 100 m² a 250 m² | 150 UFPBHs |
+| mais de 250 m² | 300 UFPBHs |
 
 b) para outras transgressões, de acordo com a tabela abaixo:
 
-|Número de transgressões |Valor da multa |
-
-|até 5 |4 UFPBHs |
-
-|de 6 a 10 |8 UFPBHs |
-
-|de 11 a 20 |12 UFPBHs |
-
-|de 21 a 35 |16 UFPBHs |
-
-|mais de 35 | 25 UFPBHs |
+| Número de transgressões | Valor da multa |
+| --- | --- |
+| até 5 | 4 UFPBHs |
+| de 6 a 10 | 8 UFPBHs |
+| de 11 a 20 | 12 UFPBHs |
+| de 21 a 35 | 16 UFPBHs |
+| mais de 35 | 25 UFPBHs |
 
 II - cassação do alvará de construção, se já concedido, por apresentar documento inexato ou inverídico, no processo de aprovação da edificação;
 

@@ -52,26 +52,19 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 –A favor da Secretaria Municipal de Esportes e Lazer – SMEL,|
-
-|conforme autorização contida no § 2º do art. 4º da Lei nº |
-
-|11.097, de 29 de dezembro de 2017: |
-
-|R$ |
-
-|3000.27.812.101.2.534.4490.0430 |943.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |943.000,00 |
+| I.1 –A favor da Secretaria Municipal de Esportes e Lazer – SMEL, |  |
+| --- | --- |
+| conforme autorização contida no § 2º do art. 4º da Lei nº |  |
+| 11.097, de 29 de dezembro de 2017: |  |
+| R$ |  |
+| 3000.27.812.101.2.534.4490.0430 | 943.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 943.000,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 |
-
-|da tabela anterior: |
-
-|R$ |
-
-|3000.27.812.101.2.531.3350.0330 |943.000,00 |
-
-|TOTAL DA ANULAÇÃO |943.000,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 3000.27.812.101.2.531.3350.0330 | 943.000,00 |
+| TOTAL DA ANULAÇÃO | 943.000,00 |

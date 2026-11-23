@@ -214,7 +214,7 @@ Estas Prestações de Contas devem basear-se nos seguintes documentos:
 
 Somente após o término da obra, com emissão do Laudo Técnico de Entrega emitido pelo órgão técnico fiscalizador da construção é que o processo deverá ser remetido à Inspetoria de Finanças, para baixa da responsabilidade da PREFEITURA e do órgão fiscalizador da construção, e encaminhamento ao Tribunal de Contas.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 3.5.4
 

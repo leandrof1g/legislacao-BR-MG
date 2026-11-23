@@ -234,7 +234,7 @@ Secretário Municipal da Fazenda
 
 ANEXO ÚNICO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

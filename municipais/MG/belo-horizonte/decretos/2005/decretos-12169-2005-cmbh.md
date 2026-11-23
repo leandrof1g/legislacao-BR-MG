@@ -46,16 +46,17 @@ TABELA 1
 
 ASSEIO E CONSERVAÇÃO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 TABELA 2
 
 VIGILÂNCIA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 TABELA 3
 
 GRUPO DE PAGAMENTOS POR EVENTO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

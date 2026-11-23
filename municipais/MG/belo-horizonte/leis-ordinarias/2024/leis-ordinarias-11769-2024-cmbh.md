@@ -40,9 +40,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 G - Dias comemorativos de julho:
 
-|DATA |COMEMORAÇÃO |
-
-|1°/7 |Dia Municipal da Doula |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 1°/7 | Dia Municipal da Doula |
 
 .”.
 

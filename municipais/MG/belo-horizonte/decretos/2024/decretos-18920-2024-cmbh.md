@@ -60,17 +60,13 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º |R$ |
-
-|do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei nº | |
-
-|11.594, de 22 de setembro de 2023: | |
-
-|Hospital Metropolitano Odilon Behrens – HOB |
-
-|2301.10.302.0030.2875.339034.2.621.000 |2.915.499,52 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.915.499,52 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei nº |  |
+| 11.594, de 22 de setembro de 2023: |  |
+| Hospital Metropolitano Odilon Behrens – HOB |  |
+| 2301.10.302.0030.2875.339034.2.621.000 | 2.915.499,52 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.915.499,52 |
 
 ANEXO II
 

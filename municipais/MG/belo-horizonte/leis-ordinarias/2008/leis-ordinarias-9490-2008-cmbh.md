@@ -40,73 +40,44 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **§ 3º** - A jornada de trabalho diária dos ocupantes dos empregos públicos de Agente Comunitário de Saúde e de Agente de Combate a Endemias I e II é de 8 (oito) horas diárias e 40 (quarenta horas) semanais, e os seus salários mensais são os seguintes:
 
-|EMPREGO PÚBLICO |SALÁRIO MENSAL (EM R$) |
-
-|Agente Comunitário de Saúde |504,00 |
-
-|Agente de Combate a Endemias I |600,00 |
-
-| |693,00 |
-
-| |Valor do salário com redação |
-
-| |dada pela Lei nº 9.783, de |
-
-| |9/12/2009, a partir de 2/1/2009|
-
-| |(Art. 1º) |
-
-|Agente de Combate a Endemias II |726,00 |
-
-| |819,00 |
-
-| |Valor do salário com redação |
-
-| |dada pela Lei nº 9.783, de |
-
-| |9/12/2009, a partir de 2/1/2009|
-
-| |(Art. 1º) |
+| EMPREGO PÚBLICO | SALÁRIO MENSAL (EM R$) |
+| --- | --- |
+| Agente Comunitário de Saúde | 504,00 |
+| Agente de Combate a Endemias I | 600,00 |
+|  | 693,00 |
+|  | Valor do salário com redação |
+|  | dada pela Lei nº 9.783, de |
+|  | 9/12/2009, a partir de 2/1/2009 |
+|  | (Art. 1º) |
+| Agente de Combate a Endemias II | 726,00 |
+|  | 819,00 |
+|  | Valor do salário com redação |
+|  | dada pela Lei nº 9.783, de |
+|  | 9/12/2009, a partir de 2/1/2009 |
+|  | (Art. 1º) |
 
 **§ 3º** - A jornada de trabalho diária dos ocupantes dos empregos públicos de Agente Comunitário de Saúde e de Agente de Combate a Endemias I e II é de 8 (oito) horas diárias e 40 (quarenta) horas semanais, e, a partir de 1º de julho de 2013, serão posicionados no nível 1 da seguinte tabela de salários-base:
 
-|TABELA DE SALÁRIOS-BASE (valores em R$ a partir de 1/7/13) |
-
-|NÍVEL |EMPREGO PÚBLICO |
-
-| |Agente Comunitário de Saúde |Agente de Combate a Endemias I |Agente de Combate a Endemias |
-
-| | | |II |
-
-|1 |700,00 |898,13 |1.061,42 |
-
-|2 |735,00 |943,03 |1.114,50 |
-
-|3 |771,75 |990,19 |1.170,22 |
-
-|4 |810,34 |1.039,70 |1.228,73 |
-
-|5 |850,85 |1.091,68 |1.290,17 |
-
-|6 |893,40 |1.146,26 |1.354,68 |
-
-|7 |938,07 |1.203,58 |1.422,41 |
-
-|8 |984,97 |1.263,76 |1.493,53 |
-
-|9 |1.034,22 |1.326,94 |1.568,21 |
-
-|10 |1.085,93 |1.393,29 |1.646,62 |
-
-|11 |1.140,23 |1.462,96 |1.728,95 |
-
-|12 |1.197,24 |1.536,10 |1.815,40 |
-
-|13 |1.257,10 |1.612,91 |1.906,17 |
-
-|14 |1.319,95 |1.693,55 |2.001,47 |
-
-|15 |1.385,95 |1.778,23 |2.101,55 |
+| TABELA DE SALÁRIOS-BASE (valores em R$ a partir de 1/7/13) |  |  |  |
+| --- | --- | --- | --- |
+| NÍVEL | EMPREGO PÚBLICO |  |  |
+|  | Agente Comunitário de Saúde | Agente de Combate a Endemias I | Agente de Combate a Endemias |
+|  |  |  | II |
+| 1 | 700,00 | 898,13 | 1.061,42 |
+| 2 | 735,00 | 943,03 | 1.114,50 |
+| 3 | 771,75 | 990,19 | 1.170,22 |
+| 4 | 810,34 | 1.039,70 | 1.228,73 |
+| 5 | 850,85 | 1.091,68 | 1.290,17 |
+| 6 | 893,40 | 1.146,26 | 1.354,68 |
+| 7 | 938,07 | 1.203,58 | 1.422,41 |
+| 8 | 984,97 | 1.263,76 | 1.493,53 |
+| 9 | 1.034,22 | 1.326,94 | 1.568,21 |
+| 10 | 1.085,93 | 1.393,29 | 1.646,62 |
+| 11 | 1.140,23 | 1.462,96 | 1.728,95 |
+| 12 | 1.197,24 | 1.536,10 | 1.815,40 |
+| 13 | 1.257,10 | 1.612,91 | 1.906,17 |
+| 14 | 1.319,95 | 1.693,55 | 2.001,47 |
+| 15 | 1.385,95 | 1.778,23 | 2.101,55 |
 
 **§ 3º** com redação dada pela Lei nº 10.671, de 25/10/2013 (Art. 6º)
 
@@ -114,21 +85,15 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **§ 4º** - O quantitativo dos empregos públicos de Agente Comunitário de Saúde e de Agente de Combate a Endemias I e II é o seguinte:
 
-|EMPREGO PÚBLICO |QUANTITATIVO |
-
-|Agente Comunitário de Saúde |2.700 |
-
-|Agente de Combate a Endemias I |1.500 |
-
-| |1.574 |
-
-| |Número de cargos com redação dada|
-
-| |pela Lei nº 10.695, de 9/1/2014 |
-
-| |(Art. 1º) |
-
-|Agente de Combate a Endemias II |170 |
+| EMPREGO PÚBLICO | QUANTITATIVO |
+| --- | --- |
+| Agente Comunitário de Saúde | 2.700 |
+| Agente de Combate a Endemias I | 1.500 |
+|  | 1.574 |
+|  | Número de cargos com redação dada |
+|  | pela Lei nº 10.695, de 9/1/2014 |
+|  | (Art. 1º) |
+| Agente de Combate a Endemias II | 170 |
 
 **§4º** revogado pela Lei nº 11.136, de 18/10/2018 (Art. 24)
 

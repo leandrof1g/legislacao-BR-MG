@@ -34,9 +34,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I C - Dias comemorativos de março:
 
-|DATA |COMEMORAÇÃO |
-
-|9/3 |Dia Municipal do DJ |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 9/3 | Dia Municipal do DJ |
 
 ”.
 

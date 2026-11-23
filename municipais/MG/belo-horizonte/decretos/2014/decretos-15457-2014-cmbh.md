@@ -34,13 +34,11 @@ CRITÉRIOS PARA VALIDAÇÃO DA GAMPFI
 
 PERÍODO 01/01/2014 A 31/07/2014
 
-|PONTOS (UFPI) OBTIDOS = A |PERCENTUAL DE VALIDAÇÃO |RESULTADO FINAL (UPFI) |
-
-|A >300 |Até 25% DE A |375 |
-
-|180 ≤ A < 300 |Até 25% DE A |A + até 25% DE A |
-
-|A < 180 |0% |A |
+| PONTOS (UFPI) OBTIDOS = A | PERCENTUAL DE VALIDAÇÃO | RESULTADO FINAL (UPFI) |
+| --- | --- | --- |
+| A >300 | Até 25% DE A | 375 |
+| 180 ≤ A < 300 | Até 25% DE A | A + até 25% DE A |
+| A < 180 | 0% | A |
 
 **Parágrafo único** - O teto mensal individual da GAMPFI é de 375 (trezentas e setenta e cinco) UPFI, nos termos do disposto no § 1º do art. 4º da Lei nº 10.308/11.
 

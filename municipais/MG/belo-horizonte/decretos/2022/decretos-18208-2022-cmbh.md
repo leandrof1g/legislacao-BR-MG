@@ -60,35 +60,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º| |
-
-|da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.066.1.400.4490.0080 |5.132.594,13 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.225.1.231.4490.0080 |884.000,00 |
-
-|2704.16.482.225.1.231.4490.0080 |275.000,00 |
-
-|2704.16.482.225.1.231.4490.0080 |2.096.000,00 |
-
-|2704.16.482.225.1.231.4490.0080 |1.062.000,00 |
-
-|2704.16.482.225.1.231.4490.0080 |30.000,00 |
-
-|2704.16.482.225.1.231.4490.0080 |1.572.000,00 |
-
-|2704.16.482.225.1.231.4490.0080 |195.000,00 |
-
-|2704.16.482.225.1.231.4490.0080 |786.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |12.032.594,13 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º |  |
+| da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.066.1.400.4490.0080 | 5.132.594,13 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.225.1.231.4490.0080 | 884.000,00 |
+| 2704.16.482.225.1.231.4490.0080 | 275.000,00 |
+| 2704.16.482.225.1.231.4490.0080 | 2.096.000,00 |
+| 2704.16.482.225.1.231.4490.0080 | 1.062.000,00 |
+| 2704.16.482.225.1.231.4490.0080 | 30.000,00 |
+| 2704.16.482.225.1.231.4490.0080 | 1.572.000,00 |
+| 2704.16.482.225.1.231.4490.0080 | 195.000,00 |
+| 2704.16.482.225.1.231.4490.0080 | 786.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 12.032.594,13 |
 
 ANEXO II
 
@@ -120,36 +107,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do art.|Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|4º, limite de 15% do |4º, limite de 15% do total |
-
-|– Limites autorizados |Orçamento: |total do Orçamento do |do Orçamento do Fundo |
-
-|para abertura de | |Grupo 1 – Pessoal e |Municipal de Saúde – FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.858.705.265,36 |R$ 230.915.100,00 |R$ 624.780.748,25 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 442.445.420,29 |R$ 653.077.208,70 |R$ 102.436.404,40 |
-
-|suplementares | | | |
-
-|Percentual utilizado |80,77% |26,12% |85,91% |
-
-|Atualizado em 23/12/2022 às 08:58:32 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do art. | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | 4º, limite de 15% do | 4º, limite de 15% do total |
+| – Limites autorizados | Orçamento: | total do Orçamento do | do Orçamento do Fundo |
+| para abertura de |  | Grupo 1 – Pessoal e | Municipal de Saúde – FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.858.705.265,36 | R$ 230.915.100,00 | R$ 624.780.748,25 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 442.445.420,29 | R$ 653.077.208,70 | R$ 102.436.404,40 |
+| suplementares |  |  |  |
+| Percentual utilizado | 80,77% | 26,12% | 85,91% |
+| Atualizado em 23/12/2022 às 08:58:32 |  |  |  |

@@ -216,15 +216,12 @@ ANEXO I
 
 [...]
 
-|HOSPITAL METROPOLITANO ODILON BEHRENS – HOB |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Diretor |3 |
-
-|TOTAL GERAL |4 |
+| HOSPITAL METROPOLITANO ODILON BEHRENS – HOB |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Diretor | 3 |
+| TOTAL GERAL | 4 |
 
 “ANEXO I
 
@@ -238,9 +235,9 @@ Cargos do Grupo de Direção Superior Municipal - DSM:ANEXO II
 
 B - Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania
 
-|CARGO PÚBLICO EM COMISSÃO |QUANTIDADE DE VAGAS |
-
-|Supervisor de Alimentação |52 |
+| CARGO PÚBLICO EM COMISSÃO | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Supervisor de Alimentação | 52 |
 
 ”
 
@@ -252,47 +249,28 @@ ANEXO III
 
 Remuneração dos cargos do Grupo de Direção Superior Municipal – DSM
 
-|ADMINISTRAÇÃO DIRETA |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR |
-
-| |(EM R$) |
-
-|Chefe de Gabinete do Prefeito |17.083,81 |
-
-|Chefe de Gabinete do Vice-Prefeito |15.500,00 |
-
-|Coordenador de Atendimento Regional |15.500,00 |
-
-|Subsecretário/Subprocurador /Subcontrolador |15.500,00 |
-
-|Consultor Técnico Especializado |17.083,81 |
-
-|Assessor Especial |14.521,24 |
-
-| | |
-
-|FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |
-
-|FUNDAÇÃO MUNICIPAL DE CULTURA |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR |
-
-|Presidente |20.811,18 |
-
-| | |
-
-|SUPERINTENDÊNCIA DE LIMPEZA URBANA |
-
-|SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |
-
-|HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |
-
-|Grupo de Direção Superior Municipal - DSM |VALOR |
-
-|Superintendente |20.811,18 |
-
-|Diretor |15.500,00 |
+| ADMINISTRAÇÃO DIRETA |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | VALOR |
+|  | (EM R$) |
+| Chefe de Gabinete do Prefeito | 17.083,81 |
+| Chefe de Gabinete do Vice-Prefeito | 15.500,00 |
+| Coordenador de Atendimento Regional | 15.500,00 |
+| Subsecretário/Subprocurador /Subcontrolador | 15.500,00 |
+| Consultor Técnico Especializado | 17.083,81 |
+| Assessor Especial | 14.521,24 |
+|  |  |
+| FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA |  |
+| FUNDAÇÃO MUNICIPAL DE CULTURA |  |
+| Grupo de Direção Superior Municipal - DSM | VALOR |
+| Presidente | 20.811,18 |
+|  |  |
+| SUPERINTENDÊNCIA DE LIMPEZA URBANA |  |
+| SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL - SUDECAP |  |
+| HOSPITAL METROPOLITANO ODILON BEHRENS - HOB |  |
+| Grupo de Direção Superior Municipal - DSM | VALOR |
+| Superintendente | 20.811,18 |
+| Diretor | 15.500,00 |
 
 ”
 
@@ -306,13 +284,11 @@ ANEXO IV
 
 B - Da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| |(em R$) |DEDICAÇÃO EXCLUSIVA |(em R$) |
-
-| | |(em R$) | |
-
-|Supervisor de Alimentação |1.099,90 |1.099,90 |2.199,80 |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  | (em R$) | DEDICAÇÃO EXCLUSIVA | (em R$) |
+|  |  | (em R$) |  |
+| Supervisor de Alimentação | 1.099,90 | 1.099,90 | 2.199,80 |
 
 ”
 
@@ -326,48 +302,34 @@ ANEXO V
 
 C - Função pública de Coordenador de Proteção Social e Cidadania
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Coordenador de Proteção Social e Cidadania |15 |1.633,45 |
-
-|Total |15 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Coordenador de Proteção Social e Cidadania | 15 | 1.633,45 |
+| Total | 15 |  |
 
 D - Função pública de Coordenador de Centro de Referência de Assistência Social, de Coordenador de Centro de Referência Especializado de Assistência Social e de Coordenador de Unidade de Acolhimento Institucional.
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Coordenador de Centro de Referência de Assistência |34 |1.633,45 |
-
-|Social | | |
-
-|Coordenador de Centro de Referência Especializado de |9 |1.633,45 |
-
-|Assistência Social | | |
-
-|Coordenador de Acolhimento Institucional |2 |1.633,45 |
-
-|Total |45 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Coordenador de Centro de Referência de Assistência | 34 | 1.633,45 |
+| Social |  |  |
+| Coordenador de Centro de Referência Especializado de | 9 | 1.633,45 |
+| Assistência Social |  |  |
+| Coordenador de Acolhimento Institucional | 2 | 1.633,45 |
+| Total | 45 |  |
 
 [...]
 
 K - Funções públicas gratificadas do Hospital Metropolitano Odilon Behrens
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Gerente de Unidade de Saúde I |1 |3.137,32 |
-
-|Gerente de Unidade de Saúde II |6 |3.453,71 |
-
-|Gerente de Unidade de Saúde III |7 |3.773,99 |
-
-|Coordenador de Apoio Gerencial |14 |1.533,04 |
-
-|Coordenador de Equipe |7 |1.811,77 |
-
-|Coordenador de Especialidades e Ensino |13 |1.951,14 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Gerente de Unidade de Saúde I | 1 | 3.137,32 |
+| Gerente de Unidade de Saúde II | 6 | 3.453,71 |
+| Gerente de Unidade de Saúde III | 7 | 3.773,99 |
+| Coordenador de Apoio Gerencial | 14 | 1.533,04 |
+| Coordenador de Equipe | 7 | 1.811,77 |
+| Coordenador de Especialidades e Ensino | 13 | 1.951,14 |

@@ -52,76 +52,44 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I – A favor dos seguintes órgãos, conforme autorização contida no caput do art. 4º|R$ |
-
-|da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Fundo Previdenciário - BHPREV |
-
-|0614.09.122.026.2.871.4490.0070 |34.250,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.04.122.165.2.816.3390.0006 |77.505,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.244.1.244.4490.0080 |1.141.878,14 |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |
-
-|2703.16.482.007.2.900.3390.0007 |15.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.141.2.852.4490.0000 |71.062,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.900.3390.0000 |1.500.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.392.154.2.371.3390.0000 |500.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.089.3.137.3390.0000 |3.000.000,00 |
-
-|4001.28.846.089.3.137.4490.0000 |1.586.728,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |7.926.423,14 |
+| I – A favor dos seguintes órgãos, conforme autorização contida no caput do art. 4º | R$ |
+| --- | --- |
+| da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Fundo Previdenciário - BHPREV |  |
+| 0614.09.122.026.2.871.4490.0070 | 34.250,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.04.122.165.2.816.3390.0006 | 77.505,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.244.1.244.4490.0080 | 1.141.878,14 |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |  |
+| 2703.16.482.007.2.900.3390.0007 | 15.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.141.2.852.4490.0000 | 71.062,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.900.3390.0000 | 1.500.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.392.154.2.371.3390.0000 | 500.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.089.3.137.3390.0000 | 3.000.000,00 |
+| 4001.28.846.089.3.137.4490.0000 | 1.586.728,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 7.926.423,14 |
 
 II – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|II – Em contrapartida às suplementações relacionadas no item I, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Previdenciário - BHPREV |
-
-|0614.99.997.999.9.999.9999.0070 |34.250,00 |
-
-|Fundação de Parques Municipais e Zoobotânica - FPMZB |
-
-|2505.18.541.073.2.812.3390.0006 |77.505,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.244.1.244.4490.0080 |1.141.878,14 |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte - URBEL |
-
-|2703.16.482.007.2.900.4490.0007 |15.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico - SMDE |
-
-|2800.04.212.005.2.758.3380.0000 |71.062,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda - EGM-SMFA |
-
-|4001.99.999.999.9.999.9999.0000 |2.000.000,00 |
-
-|4001.28.846.089.3.137.3190.0000 |4.586.728,00 |
-
-|TOTAL DA ANULAÇÃO |7.926.423,14 |
+| II – Em contrapartida às suplementações relacionadas no item I, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Previdenciário - BHPREV |  |
+| 0614.99.997.999.9.999.9999.0070 | 34.250,00 |
+| Fundação de Parques Municipais e Zoobotânica - FPMZB |  |
+| 2505.18.541.073.2.812.3390.0006 | 77.505,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.244.1.244.4490.0080 | 1.141.878,14 |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte - URBEL |  |
+| 2703.16.482.007.2.900.4490.0007 | 15.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico - SMDE |  |
+| 2800.04.212.005.2.758.3380.0000 | 71.062,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda - EGM-SMFA |  |
+| 4001.99.999.999.9.999.9999.0000 | 2.000.000,00 |
+| 4001.28.846.089.3.137.3190.0000 | 4.586.728,00 |
+| TOTAL DA ANULAÇÃO | 7.926.423,14 |

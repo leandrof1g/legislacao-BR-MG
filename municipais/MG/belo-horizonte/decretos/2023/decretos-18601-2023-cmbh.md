@@ -60,21 +60,15 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 | |
-
-|da Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.168.2.080.319011.540 |2.500.000,00 |
-
-|2200.12.365.169.2.542.319011.540 |30.000.000,00 |
-
-|2200.12.366.168.2.080.319011.540 |45.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |77.500.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 |  |
+| da Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.168.2.080.319011.540 | 2.500.000,00 |
+| 2200.12.365.169.2.542.319011.540 | 30.000.000,00 |
+| 2200.12.366.168.2.080.319011.540 | 45.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 77.500.000,00 |
 
 ANEXO II
 

@@ -48,20 +48,14 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividades e horários |
-
-|Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |
-
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Atividades no formato drive-in |Diariamente, sem restrição de horário |
-
-|(...) |(...) |
-
-|Atividades presenciais em escolas de ensino |Segunda-feira a sábado, sem restrição de |
-
-|fundamental |horário |
+| Atividades e horários |  |
+| --- | --- |
+| Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |  |
+| Atividade | Faixa de horário de funcionamento |
+| (...) | (...) |
+| Atividades no formato drive-in | Diariamente, sem restrição de horário |
+| (...) | (...) |
+| Atividades presenciais em escolas de ensino | Segunda-feira a sábado, sem restrição de |
+| fundamental | horário |
 
 ”

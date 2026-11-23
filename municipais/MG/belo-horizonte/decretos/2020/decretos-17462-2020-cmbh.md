@@ -52,14 +52,10 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, |
-
-|conforme autorização contida no caput do art. 4º da Lei nº 11.211, |
-
-|de 26 de dezembro de 2019: |
-
-|R$ |
-
-|1011.08.244.020.2.403.3391.0340 |12.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |12.000.000,00 |
+| I.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, |  |
+| --- | --- |
+| conforme autorização contida no caput do art. 4º da Lei nº 11.211, |  |
+| de 26 de dezembro de 2019: |  |
+| R$ |  |
+| 1011.08.244.020.2.403.3391.0340 | 12.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 12.000.000,00 |

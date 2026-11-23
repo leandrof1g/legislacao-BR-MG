@@ -122,7 +122,7 @@ Limite das Despesas de Custeio – Outras Despesas Correntes
 
 Recursos Ordinários do Tesouro
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
@@ -132,4 +132,5 @@ Cronograma de Desembolso das Despesas de Custeios – Outras Despesas Correntes
 
 Recursos Ordinários do Tesouro
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

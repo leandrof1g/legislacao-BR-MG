@@ -40,8 +40,5 @@ Betinho Duarte
 
 Secretário-Geral
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]

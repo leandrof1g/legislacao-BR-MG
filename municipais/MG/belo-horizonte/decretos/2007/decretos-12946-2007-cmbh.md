@@ -32,9 +32,7 @@ O Prefeito de Belo Horizonte, no exercício das atribuições que lhe confere o 
 
 **Art. 2°** - As Tabelas I e II constantes do Anexo Único do Decreto n° 12.675/07 passam a vigorar com a seguinte redação:
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 3º** - Fica revogado o § 1º do art. 3º do Decreto nº 12.675/07.
 

@@ -44,11 +44,10 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|julho |Julho Branco - Conscientização sobre Prevenção de Acidentes com Linhas |
-
-| |Cortantes e Proteção de Motociclistas |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| julho | Julho Branco - Conscientização sobre Prevenção de Acidentes com Linhas |
+|  | Cortantes e Proteção de Motociclistas |
 
 .”.
 

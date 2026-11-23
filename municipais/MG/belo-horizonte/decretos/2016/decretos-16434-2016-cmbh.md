@@ -90,17 +90,13 @@ V - Superintendência de Limpeza Urbana de Belo Horizonte – SLU;
 
 **§ 4º** - O valor percentual a ser pago aos Advogados de cada uma das entidades mencionadas no art. 2º deste Decreto a título de Gratificação de Metas Jurídicas– GMJ – será obtido a partir do Índice de Desempenho no Cumprimento de Meta Jurídica Coletiva, nos seguintes termos:
 
-|Índice de Desempenho no Cumprimento de Meta |Valor percentual da Gratificação pelo Cumprimento |
-
-|Jurídica Coletiva |de Metas Jurídicas |
-
-|0,9 a 1,0 |100% |
-
-|0,8 a 0,89 |90% |
-
-|0,7 a 0,79 |80% |
-
-|0,0 a 0,69 |0 % |
+| Índice de Desempenho no Cumprimento de Meta | Valor percentual da Gratificação pelo Cumprimento |
+| --- | --- |
+| Jurídica Coletiva | de Metas Jurídicas |
+| 0,9 a 1,0 | 100% |
+| 0,8 a 0,89 | 90% |
+| 0,7 a 0,79 | 80% |
+| 0,0 a 0,69 | 0 % |
 
 **Art. 5º** - Fica instituído o Conselho Fiscal, composto por 3 (três) membros, com competência para fiscalizar os procedimentos de apuração e cálculo previstos neste Decreto.
 
@@ -126,51 +122,30 @@ Descrição: O indicador tem como objetivo medir a eficiência, a qualidade e a 
 
 Fonte: Relatórios de Desempenho na Execução de Atividades Jurídicas – RDEAJ
 
-|Detalhamento das Tarefas Jurídicas |Índice de Produção |
-
-|1.1 - Adoção de medidas judiciais cabíveis e pertinentes, no prazo assinalado |1,5 |
-
-|pelo Diretor Jurídico ou Titular da respectiva entidade da Administração | |
-
-|Indireta, à obtenção ou à reversão de decisões liminares e antecipação de | |
-
-|tutela proferidas contra a mesma em demanda sinalizada como prioritária e/ou | |
-
-|urgente; | |
-
-|1.2 - Ajuizamento de ações prioritárias e/ou urgentes, assim definidas pelo |1 |
-
-|Diretor Jurídico ou Titular da respectiva entidade da Administração Indireta, | |
-
-|no prazo por este assinalado; | |
-
-|1.3 - Apresentação de defesa em ação judicial de alta complexidade, assim |1 |
-
-|definida pelo Diretor Jurídico ou Titular da respectiva entidade da | |
-
-|Administração Indireta, no prazo por este assinalado; | |
-
-|1.4 - Realização de sustentação oral e/ou elaboração e apresentação de |1 |
-
-|memoriais em demanda sinalizada como prioritária, sob designação do Diretor | |
-
-|Jurídico ou Titular da respectiva entidade da Administração Indireta, no prazo| |
-
-|por este assinalado; | |
-
-|1.5 - Agendamento e realização de despacho pessoal em demanda sinalizada como |1 |
-
-|prioritária, sob designação do Diretor Jurídico ou Titular da respectiva | |
-
-|entidade da Administração Indireta, no prazo por este assinalado; | |
-
-|1.6 - Acompanhamento pessoal do Assistente Técnico nomeado para diligência |1 |
-
-|pericial em demanda sinalizada como prioritária, sob designação do Diretor | |
-
-|Jurídico ou Titular da respectiva entidade da Administração Indireta, no prazo| |
-
-|por este assinalado; | |
+| Detalhamento das Tarefas Jurídicas | Índice de Produção |
+| --- | --- |
+| 1.1 - Adoção de medidas judiciais cabíveis e pertinentes, no prazo assinalado | 1,5 |
+| pelo Diretor Jurídico ou Titular da respectiva entidade da Administração |  |
+| Indireta, à obtenção ou à reversão de decisões liminares e antecipação de |  |
+| tutela proferidas contra a mesma em demanda sinalizada como prioritária e/ou |  |
+| urgente; |  |
+| 1.2 - Ajuizamento de ações prioritárias e/ou urgentes, assim definidas pelo | 1 |
+| Diretor Jurídico ou Titular da respectiva entidade da Administração Indireta, |  |
+| no prazo por este assinalado; |  |
+| 1.3 - Apresentação de defesa em ação judicial de alta complexidade, assim | 1 |
+| definida pelo Diretor Jurídico ou Titular da respectiva entidade da |  |
+| Administração Indireta, no prazo por este assinalado; |  |
+| 1.4 - Realização de sustentação oral e/ou elaboração e apresentação de | 1 |
+| memoriais em demanda sinalizada como prioritária, sob designação do Diretor |  |
+| Jurídico ou Titular da respectiva entidade da Administração Indireta, no prazo |  |
+| por este assinalado; |  |
+| 1.5 - Agendamento e realização de despacho pessoal em demanda sinalizada como | 1 |
+| prioritária, sob designação do Diretor Jurídico ou Titular da respectiva |  |
+| entidade da Administração Indireta, no prazo por este assinalado; |  |
+| 1.6 - Acompanhamento pessoal do Assistente Técnico nomeado para diligência | 1 |
+| pericial em demanda sinalizada como prioritária, sob designação do Diretor |  |
+| Jurídico ou Titular da respectiva entidade da Administração Indireta, no prazo |  |
+| por este assinalado; |  |
 
 META 2 – EFICIÊNCIA NO TRATAMENTO DE CONSULTAS E PARECERES JURÍDICOS DE ALTA COMPLEXIDADE
 
@@ -178,13 +153,11 @@ Descrição: A emissão de pareceres jurídicos dinamiza o exercício da funçã
 
 Fonte: Relatórios de Desempenho na Execução de Atividades Jurídicas – RDEAJ
 
-|Detalhamento das Tarefas Jurídicas |Índice de Produção |
-
-|2 - Elaboração de parecer urgente ou de alta complexidade jurídica, assim |1 |
-
-|definido pelo Diretor Jurídico ou Titular da respectiva entidade da | |
-
-|Administração Indireta, no prazo por este assinalado; | |
+| Detalhamento das Tarefas Jurídicas | Índice de Produção |
+| --- | --- |
+| 2 - Elaboração de parecer urgente ou de alta complexidade jurídica, assim | 1 |
+| definido pelo Diretor Jurídico ou Titular da respectiva entidade da |  |
+| Administração Indireta, no prazo por este assinalado; |  |
 
 META 3 – EFICIÊNCIA NA ORGANIZAÇÃO, RACIONALIZAÇÃO E REALIZAÇÃO DE AÇÕES DE DIAGNÓSTICO E GERENCIAMENTO DE RISCO JUDICIAL DE POLÍTICAS PÚBLICAS, DE ESTUDOS E LEVANTAMENTOS INDIVIDUAIS E/OU EM GRUPOS DE TRABALHO, E RESPECTIVO ENCAMINHAMENTO PROPOSITIVO À ADMINISTRAÇÃO MUNICIPAL
 
@@ -192,48 +165,27 @@ Descrição: A realização de atividades de diagnóstico do risco judicial envo
 
 Fonte: Relatórios de Desempenho na Execução de Atividades Jurídicas – RDEAJ
 
-|Detalhamento das Tarefas Jurídicas |Índice de Produção |
-
-|3.1 - Realização, individualmente ou através de Grupos de Trabalho, e por |1 |
-
-|designação do Diretor Jurídico ou Titular da respectiva entidade da | |
-
-|Administração Indireta, de diagnósticos e/ou levantamentos de passivo judicial e| |
-
-|seu respectivo risco de sucumbência, por meio do mapeamento de entendimentos | |
-
-|doutrinários e/ou jurisprudenciais sobre a matéria, no prazo por este | |
-
-|assinalado; | |
-
-|3.2 - Estudo e eventual proposição de Súmulas Administrativas, novas linhas de |1,5 |
-
-|atuação e/ou teses jurídicas de defesa em demandas sinalizadas como prioritárias| |
-
-|e/ou repetitivas, conforme designação do Diretor Jurídico ou Titular da | |
-
-|respectiva entidade da Administração Indireta, no prazo por este assinalado; | |
-
-|3.3 - Participação em Comissões, Reuniões e/ou Grupos de Trabalho |1 |
-
-|interdisciplinares internos e/ou constituídos por representantes de outros | |
-
-|órgãos ou entidades, conforme designação do Diretor Jurídico ou Titular da | |
-
-|respectiva entidade da Administração Indireta; | |
-
-|3.4 - Encaminhamento propositivo das conclusões de estudos desenvolvidos por |1,5 |
-
-|Comissões e/ou Grupos de Trabalho a órgãos e autoridades da Administração | |
-
-|Municipal, as quais contenham orientação jurídica fundamentada sobre a forma | |
-
-|mais econômica, eficiente e/ou adequada para a prática de atos e procedimentos | |
-
-|administrativos; | |
-
-|3.5 - Participação de ações de atendimento presencial de munícipes, por |1, por cada mês em |
-
-|designação do Diretor Jurídico ou Titular da respectiva entidade da |que estiver vigente a|
-
-|Administração Indireta; |ação |
+| Detalhamento das Tarefas Jurídicas | Índice de Produção |
+| --- | --- |
+| 3.1 - Realização, individualmente ou através de Grupos de Trabalho, e por | 1 |
+| designação do Diretor Jurídico ou Titular da respectiva entidade da |  |
+| Administração Indireta, de diagnósticos e/ou levantamentos de passivo judicial e |  |
+| seu respectivo risco de sucumbência, por meio do mapeamento de entendimentos |  |
+| doutrinários e/ou jurisprudenciais sobre a matéria, no prazo por este |  |
+| assinalado; |  |
+| 3.2 - Estudo e eventual proposição de Súmulas Administrativas, novas linhas de | 1,5 |
+| atuação e/ou teses jurídicas de defesa em demandas sinalizadas como prioritárias |  |
+| e/ou repetitivas, conforme designação do Diretor Jurídico ou Titular da |  |
+| respectiva entidade da Administração Indireta, no prazo por este assinalado; |  |
+| 3.3 - Participação em Comissões, Reuniões e/ou Grupos de Trabalho | 1 |
+| interdisciplinares internos e/ou constituídos por representantes de outros |  |
+| órgãos ou entidades, conforme designação do Diretor Jurídico ou Titular da |  |
+| respectiva entidade da Administração Indireta; |  |
+| 3.4 - Encaminhamento propositivo das conclusões de estudos desenvolvidos por | 1,5 |
+| Comissões e/ou Grupos de Trabalho a órgãos e autoridades da Administração |  |
+| Municipal, as quais contenham orientação jurídica fundamentada sobre a forma |  |
+| mais econômica, eficiente e/ou adequada para a prática de atos e procedimentos |  |
+| administrativos; |  |
+| 3.5 - Participação de ações de atendimento presencial de munícipes, por | 1, por cada mês em |
+| designação do Diretor Jurídico ou Titular da respectiva entidade da | que estiver vigente a |
+| Administração Indireta; | ação |

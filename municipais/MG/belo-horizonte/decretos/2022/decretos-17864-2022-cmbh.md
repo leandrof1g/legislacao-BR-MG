@@ -54,14 +54,10 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Cultura – |
-
-|SMC –, conforme autorização contida no caput do art. |
-
-|4º da Lei nº 11.336 de 30 de dezembro de 2021: |
-
-|R$ |
-
-|3100.13.122.146.2.900.3390.0030 |91,49 |
-
-|TOTAL DA SUPLEMENTAÇÃO |91,49 |
+| I.1 – A favor da Secretaria Municipal de Cultura – |  |
+| --- | --- |
+| SMC –, conforme autorização contida no caput do art. |  |
+| 4º da Lei nº 11.336 de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 3100.13.122.146.2.900.3390.0030 | 91,49 |
+| TOTAL DA SUPLEMENTAÇÃO | 91,49 |

@@ -64,37 +64,23 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º do art. |R$ |
-
-|43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei nº 11.442, de 29 de | |
-
-|dezembro de 2022: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.2500.14.422.127.2.840.339039.500 |4.040,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.0100.08.244.020.2.878.339039.661 |242.159,39 |
-
-|1011.1100.08.242.020.2.403.339039.661 |519.263,86 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.1100.13.392.146.2.338.339036.701 |70.000,00 |
-
-|3100.1100.13.392.146.2.338.339036.500 |44.000,00 |
-
-|3100.1100.13.392.146.2.338.339039.500 |12.864,88 |
-
-|3100.1100.13.392.146.2.338.339039.701 |498.897,79 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.1100.26.452.305.2.910.336045.500 |11.386.334,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |12.777.559,92 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º do art. | R$ |
+| --- | --- |
+| 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei nº 11.442, de 29 de |  |
+| dezembro de 2022: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.2500.14.422.127.2.840.339039.500 | 4.040,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.0100.08.244.020.2.878.339039.661 | 242.159,39 |
+| 1011.1100.08.242.020.2.403.339039.661 | 519.263,86 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.1100.13.392.146.2.338.339036.701 | 70.000,00 |
+| 3100.1100.13.392.146.2.338.339036.500 | 44.000,00 |
+| 3100.1100.13.392.146.2.338.339039.500 | 12.864,88 |
+| 3100.1100.13.392.146.2.338.339039.701 | 498.897,79 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.1100.26.452.305.2.910.336045.500 | 11.386.334,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 12.777.559,92 |
 
 ANEXO II
 
@@ -140,24 +126,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração do saldo de crédito suplementar passível de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 236.857.025,61 |
-
-|Valor do Decreto publicado nesta data |R$ 12.777.559,92 |
-
-|Saldo atual de créditos suplementares |R$ 1.464.532.602,67 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 249.634.585,53 |
-
-|Percentual utilizado |14,56% |
-
-|Atualizado em 23/03/2023 às 13:48:31 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 236.857.025,61 |
+| Valor do Decreto publicado nesta data | R$ 12.777.559,92 |
+| Saldo atual de créditos suplementares | R$ 1.464.532.602,67 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 249.634.585,53 |
+| Percentual utilizado | 14,56% |
+| Atualizado em 23/03/2023 às 13:48:31 |  |

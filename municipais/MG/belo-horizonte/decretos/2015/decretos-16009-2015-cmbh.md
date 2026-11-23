@@ -54,8 +54,7 @@ Marcelo Piancastelli de Siqueira
 
 Secretário Municipal de Finanças
 
-|ANEXO ÚNICO – SUBVENÇÕES |
-
-| |
-
-|Nº |
+| ANEXO ÚNICO – SUBVENÇÕES |
+| --- |
+|  |
+| Nº |

@@ -58,193 +58,104 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da|R$ |
-
-|Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.331.0014.2021.339039.1.500.000 |445.177,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.1.700.510 |129.150,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.122.0140.2317.339093.1.500.000 |5.587.549,00 |
-
-|2200.12.365.0169.2542.336783.1.550.000 |718.543,00 |
-
-|2200.12.365.0169.2542.339039.1.500.000 |10.464.634,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.13.392.0146.1215.449051.1.754.790 |5.000.000,00 |
-
-|2700.15.451.0311.2955.449051.1.500.000 |2.500.000,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0226.1207.449051.1.759.709 |2.350.000,00 |
-
-|2704.16.482.0318.2959.449051.1.759.709 |1.050.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2545.339039.1.500.000 |275.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2371.339039.1.500.000 |45.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.0146.2900.339037.1.500.000 |353.500,00 |
-
-|3103.13.392.0170.2369.339039.1.500.000 |200.000,00 |
-
-|3103.13.392.0301.2907.339039.1.500.000 |48.000,00 |
-
-|Fundo Municipal de Mobilidade Urbana – FMU |
-
-|3502.26.452.0060.2837.339039.1.500.000 |450.000,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0123.2941.339030.1.700.000 |12.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0019.2405.339048.1.661.000 |90.000,00 |
-
-|3701.08.244.0113.2327.449052.1.500.000 |35.000,00 |
-
-|3701.08.245.0020.2403.339039.2.660.000 |76.000,00 |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|3802.23.692.0132.2307.339139.1.500.000 |1.000,00 |
-
-|3802.23.692.0132.2307.339193.1.500.000 |20.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |29.850.553,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.331.0014.2021.339039.1.500.000 | 445.177,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.1.700.510 | 129.150,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.122.0140.2317.339093.1.500.000 | 5.587.549,00 |
+| 2200.12.365.0169.2542.336783.1.550.000 | 718.543,00 |
+| 2200.12.365.0169.2542.339039.1.500.000 | 10.464.634,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.13.392.0146.1215.449051.1.754.790 | 5.000.000,00 |
+| 2700.15.451.0311.2955.449051.1.500.000 | 2.500.000,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0226.1207.449051.1.759.709 | 2.350.000,00 |
+| 2704.16.482.0318.2959.449051.1.759.709 | 1.050.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.1.500.000 | 275.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2371.339039.1.500.000 | 45.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.0146.2900.339037.1.500.000 | 353.500,00 |
+| 3103.13.392.0170.2369.339039.1.500.000 | 200.000,00 |
+| 3103.13.392.0301.2907.339039.1.500.000 | 48.000,00 |
+| Fundo Municipal de Mobilidade Urbana – FMU |  |
+| 3502.26.452.0060.2837.339039.1.500.000 | 450.000,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0123.2941.339030.1.700.000 | 12.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0019.2405.339048.1.661.000 | 90.000,00 |
+| 3701.08.244.0113.2327.449052.1.500.000 | 35.000,00 |
+| 3701.08.245.0020.2403.339039.2.660.000 | 76.000,00 |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 3802.23.692.0132.2307.339139.1.500.000 | 1.000,00 |
+| 3802.23.692.0132.2307.339193.1.500.000 | 20.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 29.850.553,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação |R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.04.122.0166.1323.339035.1.500.000 |445.177,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0109.2802.449052.1.700.000 |30.000,00 |
-
-|2100.06.122.0242.2881.339039.1.700.000 |9.150,00 |
-
-|2100.06.122.0317.1334.339030.1.700.000 |30.000,00 |
-
-|2100.06.122.0317.1334.339039.1.700.000 |30.000,00 |
-
-|2100.06.181.0109.2803.339030.1.700.000 |30.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0167.2701.339039.1.500.000 |5.587.549,00 |
-
-|2200.12.365.0167.2701.339039.1.500.000 |10.464.634,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.04.122.0165.2816.339040.1.700.000 |12.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.06.182.0164.2541.339046.1.500.000 |1.000.000,00 |
-
-|2700.15.452.0057.2770.339030.1.500.000 |9.890,00 |
-
-|2700.15.452.0057.2770.339035.1.500.000 |19.780,00 |
-
-|2700.15.452.0057.2770.339037.1.500.000 |67.877,00 |
-
-|2700.15.452.0057.2770.339039.1.500.000 |5.200,00 |
-
-|2700.15.452.0057.2770.339040.1.500.000 |135.053,00 |
-
-|2700.15.452.0057.2770.339046.1.500.000 |1.500.000,00 |
-
-|2700.15.452.0057.2770.339093.1.500.000 |10.200,00 |
-
-|2700.17.512.0066.1403.449051.1.754.790 |5.000.000,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449051.1.759.709 |3.400.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.339030.1.500.000 |82.100,28 |
-
-|3000.27.812.0101.2534.449052.1.500.000 |15.710,00 |
-
-|3000.27.812.0101.2933.339039.1.500.000 |50.000,00 |
-
-|3000.27.812.0313.2945.339039.1.500.000 |28.965,72 |
-
-|3000.27.812.0313.2945.339040.1.500.000 |23.224,00 |
-
-|3000.27.812.0313.2945.449052.1.500.000 |25.000,00 |
-
-|3000.27.812.0318.1404.449052.1.500.000 |50.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0170.2369.339036.1.500.000 |35.000,00 |
-
-|3100.13.392.0301.2907.339039.1.500.000 |10.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.0146.2338.339030.1.500.000 |50.000,00 |
-
-|3103.13.122.0146.2338.339039.1.500.000 |70.000,00 |
-
-|3103.13.391.0155.2375.339030.1.500.000 |40.500,00 |
-
-|3103.13.391.0155.2375.339039.1.500.000 |177.000,00 |
-
-|3103.13.391.0155.2375.339040.1.500.000 |5.000,00 |
-
-|3103.13.392.0154.2371.339039.1.500.000 |11.000,00 |
-
-|Empresa de Trânsito de Belo Horizonte – BHTRANS |
-
-|3503.26.452.0060.2567.339030.1.500.000 |200.000,00 |
-
-|3503.26.452.0060.2567.339039.1.500.000 |250.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0113.2804.339039.1.661.000 |90.000,00 |
-
-|3701.08.245.0019.2308.339039.2.660.000 |76.000,00 |
-
-|3701.08.245.0020.2878.449052.1.500.000 |35.000,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|3801.12.306.0132.2761.339030.1.550.000 |718.543,00 |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|3802.11.333.0245.2923.339039.1.500.000 |21.000,00 |
-
-|TOTAL DA ANULAÇÃO |29.850.553,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.04.122.0166.1323.339035.1.500.000 | 445.177,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0109.2802.449052.1.700.000 | 30.000,00 |
+| 2100.06.122.0242.2881.339039.1.700.000 | 9.150,00 |
+| 2100.06.122.0317.1334.339030.1.700.000 | 30.000,00 |
+| 2100.06.122.0317.1334.339039.1.700.000 | 30.000,00 |
+| 2100.06.181.0109.2803.339030.1.700.000 | 30.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0167.2701.339039.1.500.000 | 5.587.549,00 |
+| 2200.12.365.0167.2701.339039.1.500.000 | 10.464.634,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.04.122.0165.2816.339040.1.700.000 | 12.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.06.182.0164.2541.339046.1.500.000 | 1.000.000,00 |
+| 2700.15.452.0057.2770.339030.1.500.000 | 9.890,00 |
+| 2700.15.452.0057.2770.339035.1.500.000 | 19.780,00 |
+| 2700.15.452.0057.2770.339037.1.500.000 | 67.877,00 |
+| 2700.15.452.0057.2770.339039.1.500.000 | 5.200,00 |
+| 2700.15.452.0057.2770.339040.1.500.000 | 135.053,00 |
+| 2700.15.452.0057.2770.339046.1.500.000 | 1.500.000,00 |
+| 2700.15.452.0057.2770.339093.1.500.000 | 10.200,00 |
+| 2700.17.512.0066.1403.449051.1.754.790 | 5.000.000,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449051.1.759.709 | 3.400.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.339030.1.500.000 | 82.100,28 |
+| 3000.27.812.0101.2534.449052.1.500.000 | 15.710,00 |
+| 3000.27.812.0101.2933.339039.1.500.000 | 50.000,00 |
+| 3000.27.812.0313.2945.339039.1.500.000 | 28.965,72 |
+| 3000.27.812.0313.2945.339040.1.500.000 | 23.224,00 |
+| 3000.27.812.0313.2945.449052.1.500.000 | 25.000,00 |
+| 3000.27.812.0318.1404.449052.1.500.000 | 50.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0170.2369.339036.1.500.000 | 35.000,00 |
+| 3100.13.392.0301.2907.339039.1.500.000 | 10.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.0146.2338.339030.1.500.000 | 50.000,00 |
+| 3103.13.122.0146.2338.339039.1.500.000 | 70.000,00 |
+| 3103.13.391.0155.2375.339030.1.500.000 | 40.500,00 |
+| 3103.13.391.0155.2375.339039.1.500.000 | 177.000,00 |
+| 3103.13.391.0155.2375.339040.1.500.000 | 5.000,00 |
+| 3103.13.392.0154.2371.339039.1.500.000 | 11.000,00 |
+| Empresa de Trânsito de Belo Horizonte – BHTRANS |  |
+| 3503.26.452.0060.2567.339030.1.500.000 | 200.000,00 |
+| 3503.26.452.0060.2567.339039.1.500.000 | 250.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0113.2804.339039.1.661.000 | 90.000,00 |
+| 3701.08.245.0019.2308.339039.2.660.000 | 76.000,00 |
+| 3701.08.245.0020.2878.449052.1.500.000 | 35.000,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 3801.12.306.0132.2761.339030.1.550.000 | 718.543,00 |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 3802.11.333.0245.2923.339039.1.500.000 | 21.000,00 |
+| TOTAL DA ANULAÇÃO | 29.850.553,00 |
 
 ANEXO II
 
@@ -312,26 +223,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.394.428.466,77 |
-
-|Valor do decreto publicado nesta data |R$ 29.850.553,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.424.279.019,77 |
-
-|Saldo atual de créditos suplementares |R$ 1.068.156.047,83 |
-
-|Percentual utilizado |57,14% |
-
-|Atualizado em 26/10/2026 às 14:56:55 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.394.428.466,77 |
+| Valor do decreto publicado nesta data | R$ 29.850.553,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.424.279.019,77 |
+| Saldo atual de créditos suplementares | R$ 1.068.156.047,83 |
+| Percentual utilizado | 57,14% |
+| Atualizado em 26/10/2026 às 14:56:55 |  |

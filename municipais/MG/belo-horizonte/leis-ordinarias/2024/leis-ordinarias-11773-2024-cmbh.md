@@ -32,9 +32,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 F - Dias comemorativos de junho:
 
-|DATA |COMEMORAÇÃO |
-
-|9/6 |Dia de Anchieta |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 9/6 | Dia de Anchieta |
 
 .”.
 

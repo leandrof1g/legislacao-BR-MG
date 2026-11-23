@@ -62,4 +62,5 @@ LIMITES DO PARQUE JACQUES COUSTEAU
 
 Anexo Único acrescentado pela Lei nº 11.987, de 31/3/2026 (Art. 2º)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

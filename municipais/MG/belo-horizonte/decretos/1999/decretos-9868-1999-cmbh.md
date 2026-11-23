@@ -28,13 +28,13 @@ O Prefeito de Belo Horizonte, no uso de suas atribuições legais, e tendo em vi
 
 **Art. 1º** - Fica aprovado o Orçamento do Fundo Especial Municipal de Calamidade Pública, para o exercício de 1999, estimando a Receita em R$ 22.770,00 (vinte dois mil, setecentos e setenta reais), e fixando a Despesa em igual importância.
 
-**Art. 2º** - A Receita será realizada na forma da legislação em vigor, segundo as seguintes estimativas: [pic]
+**Art. 2º** - A Receita será realizada na forma da legislação em vigor, segundo as seguintes estimativas: *[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 3º** - A Despesa será realizada na forma da legislação em vigor, observada a fixação constante do seguinte detalhamento:
 
 a) Despesas por Categorias Econômicas
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 b) Despesas por Programas de Trabalho
 

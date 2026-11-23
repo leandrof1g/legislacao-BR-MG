@@ -222,47 +222,28 @@ ANEXO A QUE SE REFERE O ART. 2° DA LEI N° 5.872 DE 14 DE MARÇO DE 1991
 
 Título do Anexo retificado em 12/804/1991
 
-|DESCRIÇÃO |TAXA EM % DA |PERÍODO DE INCIDÊNCIA |
-
-| |UFPBH | |
-
-|1 - Anúncios indicativos | | |
-
-|Luminoso |15% por m2 |ano |
-
-|Não-Luminoso |50% por m2 |ano |
-
-|2 - Anúncios cooperativos | | |
-
-|Luminoso |20% por m2 |ano |
-
-|Não-Luminoso |70% por m2 |ano |
-
-|3 - Anúncios publicitários | | |
-
-|- Inanimado e sem movimento | | |
-
-|Luminoso |25% por m2 |ano |
-
-|Não-Luminoso |90% por m2 |ano |
-
-| | | |
-
-|- Animado e com movimento | | |
-
-|(com mudanças de cores, | | |
-
-|desenhos, dizeres, jogos de | | |
-
-|luz ou intermitentes) | | |
-
-|Luminoso |30% por m2 |ano |
-
-|Não-Luminoso |100% por m2 |ano |
-
-| | | |
-
-| | | |
+| DESCRIÇÃO | TAXA EM % DA | PERÍODO DE INCIDÊNCIA |
+| --- | --- | --- |
+|  | UFPBH |  |
+| 1 - Anúncios indicativos |  |  |
+| Luminoso | 15% por m2 | ano |
+| Não-Luminoso | 50% por m2 | ano |
+| 2 - Anúncios cooperativos |  |  |
+| Luminoso | 20% por m2 | ano |
+| Não-Luminoso | 70% por m2 | ano |
+| 3 - Anúncios publicitários |  |  |
+| - Inanimado e sem movimento |  |  |
+| Luminoso | 25% por m2 | ano |
+| Não-Luminoso | 90% por m2 | ano |
+|  |  |  |
+| - Animado e com movimento |  |  |
+| (com mudanças de cores, |  |  |
+| desenhos, dizeres, jogos de |  |  |
+| luz ou intermitentes) |  |  |
+| Luminoso | 30% por m2 | ano |
+| Não-Luminoso | 100% por m2 | ano |
+|  |  |  |
+|  |  |  |
 
 Anexo revogado pela Lei nº 7.131, de 24/06/1996 (Art. 25, XXII)
 

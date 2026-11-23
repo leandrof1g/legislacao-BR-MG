@@ -72,58 +72,36 @@ ANEXO I
 
 Fator de reajuste para as aposentadorias e pensões sem direito à paridade, de acordo com as respectivas datas de início, aplicável a partir de 1º de janeiro de 2019.
 
-|Data de início do benefício |Reajuste (%) |
-
-|Até janeiro de 2018 |3,43 |
-
-|em fevereiro de 2018 |3,20 |
-
-|em março de 2018 |3,01 |
-
-|em abril de 2018 |2,94 |
-
-|em maio de 2018 |2,72 |
-
-|em junho de 2018 |2,28 |
-
-|em julho de 2018 |0,84 |
-
-|em agosto de 2018 |0,59 |
-
-|em setembro de 2018 |0,59 |
-
-|em outubro de 2018 |0,29 |
-
-|em novembro de 2018 |0,00 |
-
-|em dezembro de 2018 |0,14 |
+| Data de início do benefício | Reajuste (%) |
+| --- | --- |
+| Até janeiro de 2018 | 3,43 |
+| em fevereiro de 2018 | 3,20 |
+| em março de 2018 | 3,01 |
+| em abril de 2018 | 2,94 |
+| em maio de 2018 | 2,72 |
+| em junho de 2018 | 2,28 |
+| em julho de 2018 | 0,84 |
+| em agosto de 2018 | 0,59 |
+| em setembro de 2018 | 0,59 |
+| em outubro de 2018 | 0,29 |
+| em novembro de 2018 | 0,00 |
+| em dezembro de 2018 | 0,14 |
 
 ANEXO II
 
 Fator de reajuste para as aposentadorias e pensões sem direito à paridade, de acordo com as respectivas datas de início, aplicável a partir de 1º de janeiro de 2020.
 
-|Data de início do benefício |Reajuste (%) |
-
-|Até janeiro de 2019 |4,48 |
-
-|em fevereiro de 2019 |4,11 |
-
-|em março de 2019 |3,55 |
-
-|em abril de 2019 |2,76 |
-
-|em maio de 2019 |2,14 |
-
-|em junho de 2019 |1,99 |
-
-|em julho de 2019 |1,98 |
-
-|em agosto de 2019 |1,88 |
-
-|em setembro de 2019 |1,76 |
-
-|em outubro de 2019 |1,81 |
-
-|em novembro de 2019 |1,77 |
-
-|em dezembro de 2019 |1,22 |
+| Data de início do benefício | Reajuste (%) |
+| --- | --- |
+| Até janeiro de 2019 | 4,48 |
+| em fevereiro de 2019 | 4,11 |
+| em março de 2019 | 3,55 |
+| em abril de 2019 | 2,76 |
+| em maio de 2019 | 2,14 |
+| em junho de 2019 | 1,99 |
+| em julho de 2019 | 1,98 |
+| em agosto de 2019 | 1,88 |
+| em setembro de 2019 | 1,76 |
+| em outubro de 2019 | 1,81 |
+| em novembro de 2019 | 1,77 |
+| em dezembro de 2019 | 1,22 |

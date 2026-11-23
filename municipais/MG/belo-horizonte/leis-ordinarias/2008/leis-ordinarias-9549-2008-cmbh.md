@@ -442,65 +442,43 @@ II - nos demais casos, por recrutamento limitado e amplo, na proporção de 65% 
 
 **Art. 37** - Os cargos de provimento em comissão da estrutura organizacional do HOB, nas áreas administrativa, de apoio à assistência e de gestão do trabalho, do 3º ao 5º nível hierárquico, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA ORGANIZACIONAL DA |
-
-|COMISSÃO DA ESTRUTURA ORGANIZACIONAL DO|ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
-
-|HOB | |
-
-|Gerente de 1º nível |Gerente de 1º nível não exercente de Gerência de unidade de gestão estratégica |
-
-| |Gerente de 1º nível – C |
-
-| |Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 (Art. 29, § 1º), a partir de |
-
-| |14/4/2011 ou da publicação dos regulamentos, valendo o que ocorrer primeiro. |
-
-|Gerente de 2º nível |Gerente de 2º nível |
-
-|Gerente de 3º nível |Gerente de 3º nível |
-
-|Assessor Jurídico III |Assessor Jurídico III |
-
-|Assessor Jurídico II |Assessor Jurídico II |
-
-|Assessor III |Assessor III |
-
-| |Assessor III – C |
-
-| |Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 (Art. 29, § 1º), a partir de |
-
-| |14/4/2011 ou da publicação dos regulamentos, valendo o que ocorrer primeiro. |
-
-|Assessor II |Assessor II |
-
-|Assessor I |Assessor I |
-
-|Assistente |Assistente |
+| CARGOS PÚBLICOS DE PROVIMENTO EM | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA ORGANIZACIONAL DA |
+| --- | --- |
+| COMISSÃO DA ESTRUTURA ORGANIZACIONAL DO | ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
+| HOB |  |
+| Gerente de 1º nível | Gerente de 1º nível não exercente de Gerência de unidade de gestão estratégica |
+|  | Gerente de 1º nível – C |
+|  | Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 (Art. 29, § 1º), a partir de |
+|  | 14/4/2011 ou da publicação dos regulamentos, valendo o que ocorrer primeiro. |
+| Gerente de 2º nível | Gerente de 2º nível |
+| Gerente de 3º nível | Gerente de 3º nível |
+| Assessor Jurídico III | Assessor Jurídico III |
+| Assessor Jurídico II | Assessor Jurídico II |
+| Assessor III | Assessor III |
+|  | Assessor III – C |
+|  | Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 (Art. 29, § 1º), a partir de |
+|  | 14/4/2011 ou da publicação dos regulamentos, valendo o que ocorrer primeiro. |
+| Assessor II | Assessor II |
+| Assessor I | Assessor I |
+| Assistente | Assistente |
 
 **Art. 38** - Os exercedores das funções públicas de Gerente de Unidade de Saúde I, II e III farão jus à Gratificação por Exercício de Função de Gerente de Unidade de Saúde I, II e III, instituída no art. 3º da Lei nº 6.794, de 19 de dezembro de 1994, que lhes será paga sem prejuízo da remuneração atribuída ao cargo ou emprego público efetivo de que seja titular, de acordo com os níveis de responsabilidades atribuídas à Gerência sob seu encargo, conforme a classificação prevista no regulamento desta Lei, e observada a seguinte correlação:
 
-|FUNÇÃO PÚBLICA DA ESTRUTURA ORGANIZACIONAL DO HOB|FUNÇÃO PÚBLICA EQUIVALENTE NA ESTRUTURA ORGANIZACIONAL DA |
-
-| |ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
-
-|Gerente de Unidade de Saúde I |Gerente de Unidade de Saúde I |
-
-|Gerente de Unidade de Saúde II |Gerente de Unidade de Saúde II |
-
-|Gerente de Unidade de Saúde III |Gerente de Unidade de Saúde III |
+| FUNÇÃO PÚBLICA DA ESTRUTURA ORGANIZACIONAL DO HOB | FUNÇÃO PÚBLICA EQUIVALENTE NA ESTRUTURA ORGANIZACIONAL DA |
+| --- | --- |
+|  | ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
+| Gerente de Unidade de Saúde I | Gerente de Unidade de Saúde I |
+| Gerente de Unidade de Saúde II | Gerente de Unidade de Saúde II |
+| Gerente de Unidade de Saúde III | Gerente de Unidade de Saúde III |
 
 **Art. 39** - Os exercedores das funções públicas de Coordenador de Apoio Gerencial, de Coordenador de Equipe e de Coordenador de Especialidades e Ensino farão jus à Gratificação por Exercício de Função de Coordenadoria, que lhes será paga sem prejuízo da remuneração atribuída ao cargo ou emprego público efetivo de que seja titular, nos seguintes valores:
 
-|FUNÇÃO PÚBLICA |GRATIFICAÇÃO POR EXERCÍCIO DE |
-
-| |FUNÇÃO DE Coordenadoria (em R$) |
-
-|Coordenador de Apoio Gerencial |1.100,00 |
-
-|Coordenador de Equipe |1.300,00 |
-
-|Coordenador de Especialidades e Ensino |1.400,00 |
+| FUNÇÃO PÚBLICA | GRATIFICAÇÃO POR EXERCÍCIO DE |
+| --- | --- |
+|  | FUNÇÃO DE Coordenadoria (em R$) |
+| Coordenador de Apoio Gerencial | 1.100,00 |
+| Coordenador de Equipe | 1.300,00 |
+| Coordenador de Especialidades e Ensino | 1.400,00 |
 
 **Art. 40** - O servidor e o empregado público ocupante de cargo ou emprego público efetivo, optante pelos Planos de Carreira das Áreas de Atividades da estrutura da Administração Direta ou pelo Plano de Carreira do HOB, e que for nomeado para o exercício de cargo em comissão na estrutura do HOB, com jornada de 40 horas semanais, poderá optar, em substituição ao piso de remuneração previsto para o cargo comissionado respectivo, pelo recebimento da remuneração do seu cargo ou emprego efetivo, mais a Gratificação de Dedicação Exclusiva prevista para o cargo em comissão que ocupar.
 
@@ -538,33 +516,25 @@ DAS ALTERAÇÕES À LEI 9.011/05
 
 “Art. 107A - Os cargos de provimento em comissão da estrutura organizacional da SLU e da SUDECAP, do 3° ao 5° nível hierárquico, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA ORGANIZACIONAL DA |
-
-|ORGANIZACIONAL DA SLU E DA SUDECAP |ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
-
-|Cargos públicos em comissão do 3º nível |Gerente de 1º nível não exercedor de Gerência de unidade de gestão estratégica |
-
-|Cargos públicos em comissão do 4º nível |Gerente de 2º nível |
-
-|Cargos públicos em comissão do 5º nível |Gerente de 3º nível |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA ORGANIZACIONAL DA |
+| --- | --- |
+| ORGANIZACIONAL DA SLU E DA SUDECAP | ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
+| Cargos públicos em comissão do 3º nível | Gerente de 1º nível não exercedor de Gerência de unidade de gestão estratégica |
+| Cargos públicos em comissão do 4º nível | Gerente de 2º nível |
+| Cargos públicos em comissão do 5º nível | Gerente de 3º nível |
 
 **Art. 45** - O § 4º do art. 121 da Lei nº 9.011/05 passa a vigorar com a seguinte redação:
 
 “§ 4º - Os cargos de provimento em comissão da estrutura organizacional da Fundação de Parques Municipais, do 3° ao 5° nível hierárquico, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-| | |
-
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA ORGANIZACIONAL DA |
-
-|ESTRUTURA ORGANIZACIONAL DA FUNDAÇÃO DE PARQUES |ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
-
-|MUNICIPAIS | |
-
-|Cargos públicos em comissão do 3º nível |Gerente de 1º nível não exercedor de Gerência de unidade de gestão estratégica |
-
-|Cargos públicos em comissão do 4º nível |Gerente de 2º nível |
-
-|Cargos públicos em comissão do 5º nível |Gerente de 3º nível |
+|  |  |
+| --- | --- |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA ORGANIZACIONAL DA |
+| ESTRUTURA ORGANIZACIONAL DA FUNDAÇÃO DE PARQUES | ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
+| MUNICIPAIS |  |
+| Cargos públicos em comissão do 3º nível | Gerente de 1º nível não exercedor de Gerência de unidade de gestão estratégica |
+| Cargos públicos em comissão do 4º nível | Gerente de 2º nível |
+| Cargos públicos em comissão do 5º nível | Gerente de 3º nível |
 
 (NR)”
 
@@ -580,19 +550,14 @@ DAS ALTERAÇÕES À LEI 9.011/05
 
 “§ 4º - Os cargos de provimento em comissão da estrutura organizacional da Fundação Municipal de Cultura, do 3° ao 5° nível hierárquico, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA |
-
-|ORGANIZACIONAL DA FUNDAÇÃO MUNICIPAL DE CULTURA |ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER |
-
-| |EXECUTIVO |
-
-|Cargos públicos em comissão do 3º nível |Gerente de 1º nível não exercedor de Gerência de unidade de |
-
-| |gestão estratégica |
-
-|Cargos públicos em comissão do 4º nível |Gerente de 2º nível |
-
-|Cargos públicos em comissão do 5º nível |Gerente de 3º nível |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA |
+| --- | --- |
+| ORGANIZACIONAL DA FUNDAÇÃO MUNICIPAL DE CULTURA | ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER |
+|  | EXECUTIVO |
+| Cargos públicos em comissão do 3º nível | Gerente de 1º nível não exercedor de Gerência de unidade de |
+|  | gestão estratégica |
+| Cargos públicos em comissão do 4º nível | Gerente de 2º nível |
+| Cargos públicos em comissão do 5º nível | Gerente de 3º nível |
 
 (NR)”
 
@@ -606,63 +571,39 @@ DISPOSIÇÕES FINAIS
 
 **Art. 50** - Os cargos de provimento em comissão da estrutura organizacional da Beneficência da Prefeitura de Belo Horizonte - BEPREM - são os seguintes:
 
-|DENOMINAÇÃO DO CARGO |NÚMERO DE CARGOS EXISTENTES |
-
-|Presidente |01 |
-
-|Procurador-Geral |01 |
-
-|Diretor de Administração e Finanças |01 |
-
-|Diretor de Serviços de Saúde |01 |
-
-|Diretor de Pecúlio e Pensões |01 |
-
-|Chefe de Gabinete |01 |
-
-|Gerente de 1º Nível |04 |
-
-|Gerente de 2º Nível |07 |
-
-|Gerente de 3º Nível |10 |
-
-|Secretário da Presidência |01 |
-
-|Secretário da Procuradoria |01 |
-
-|Secretário de Diretoria |03 |
-
-|Coordenador de Turno |02 |
-
-|Encarregado de Serviço |02 |
+| DENOMINAÇÃO DO CARGO | NÚMERO DE CARGOS EXISTENTES |
+| --- | --- |
+| Presidente | 01 |
+| Procurador-Geral | 01 |
+| Diretor de Administração e Finanças | 01 |
+| Diretor de Serviços de Saúde | 01 |
+| Diretor de Pecúlio e Pensões | 01 |
+| Chefe de Gabinete | 01 |
+| Gerente de 1º Nível | 04 |
+| Gerente de 2º Nível | 07 |
+| Gerente de 3º Nível | 10 |
+| Secretário da Presidência | 01 |
+| Secretário da Procuradoria | 01 |
+| Secretário de Diretoria | 03 |
+| Coordenador de Turno | 02 |
+| Encarregado de Serviço | 02 |
 
 **§ 1º** - Os seguintes cargos públicos de provimento em comissão da estrutura organizacional da BEPREM terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA |
-
-|ESTRUTURA ORGANIZACIONAL DA BEPREM |ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER |
-
-| |EXECUTIVO |
-
-|Chefe de Gabinete |Chefe de Gabinete |
-
-|Gerente de 1º Nível |Gerente de 1º nível não exercedor de Gerência de unidade de |
-
-| |gestão estratégica |
-
-|Gerente de 2º Nível |Gerente de 2º Nível |
-
-|Gerente de 3º Nível |Gerente de 3º Nível |
-
-|Secretário da Presidência |Gerente de 3º Nível |
-
-|Secretário da Procuradoria |Gerente de 4º Nível |
-
-|Secretário de Diretoria |Gerente de 4º Nível |
-
-|Coordenador de Turno |Gerente de 4º Nível |
-
-|Encarregado de Serviço |Encarregado de Serviço |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA |
+| --- | --- |
+| ESTRUTURA ORGANIZACIONAL DA BEPREM | ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER |
+|  | EXECUTIVO |
+| Chefe de Gabinete | Chefe de Gabinete |
+| Gerente de 1º Nível | Gerente de 1º nível não exercedor de Gerência de unidade de |
+|  | gestão estratégica |
+| Gerente de 2º Nível | Gerente de 2º Nível |
+| Gerente de 3º Nível | Gerente de 3º Nível |
+| Secretário da Presidência | Gerente de 3º Nível |
+| Secretário da Procuradoria | Gerente de 4º Nível |
+| Secretário de Diretoria | Gerente de 4º Nível |
+| Coordenador de Turno | Gerente de 4º Nível |
+| Encarregado de Serviço | Encarregado de Serviço |
 
 **§ 2º** - Os cargos previstos no caput deste artigo serão providos observadas as seguintes regras:
 
@@ -676,21 +617,15 @@ II - nos demais casos, por recrutamento limitado e amplo, na proporção de 65% 
 
 **Art. 51** - Os exercedores das funções públicas de Gerente da Clínica de Saúde Mental - CLISAM -, de Gerente da Clínica Odontológica Central - CLINOC -, de Gerente da Clínica Odontológica Barreiro - CLINOB -, de Gerente da Clínica Odontológica Venda Nova - CLINOV - e de Gerente da Clínica Médica Ambulatorial dos Servidores Municipais - CLISERV -, integrantes da estrutura organizacional da BEPREM, farão jus à Gratificação por Exercício de Função de Gerente de Unidade de Saúde I e II, instituída no art. 3º da Lei nº 6.794/94, que lhes será paga sem prejuízo da remuneração atribuída ao cargo público efetivo de que seja titular, de acordo com os níveis de responsabilidades atribuídas à Gerência sob seu encargo, observada a seguinte correlação:
 
-|FUNÇÃO PÚBLICA DA ESTRUTURA ORGANIZACIONAL DA BEPREM |FUNÇÃO PÚBLICA EQUIVALENTE NA ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO |
-
-| |DIRETA DO PODER EXECUTIVO |
-
-|Gerente da Clínica de Saúde Mental - CLISAM |Gerente de Unidade de Saúde I |
-
-|Gerente da Clínica Odontológica Central - CLINOC |Gerente de Unidade de Saúde I |
-
-|Gerente da Clínica Odontológica Barreiro -CLINOB |Gerente de Unidade de Saúde I |
-
-|Gerente da Clínica Odontológica Venda Nova - CLINOV |Gerente de Unidade de Saúde I |
-
-|Gerente da Clínica Médica Ambulatorial dos Servidores |Gerente de Unidade de Saúde II |
-
-|Municipais - CLISERV | |
+| FUNÇÃO PÚBLICA DA ESTRUTURA ORGANIZACIONAL DA BEPREM | FUNÇÃO PÚBLICA EQUIVALENTE NA ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO |
+| --- | --- |
+|  | DIRETA DO PODER EXECUTIVO |
+| Gerente da Clínica de Saúde Mental - CLISAM | Gerente de Unidade de Saúde I |
+| Gerente da Clínica Odontológica Central - CLINOC | Gerente de Unidade de Saúde I |
+| Gerente da Clínica Odontológica Barreiro -CLINOB | Gerente de Unidade de Saúde I |
+| Gerente da Clínica Odontológica Venda Nova - CLINOV | Gerente de Unidade de Saúde I |
+| Gerente da Clínica Médica Ambulatorial dos Servidores | Gerente de Unidade de Saúde II |
+| Municipais - CLISERV |  |
 
 **Art. 52** - Ficam convalidados e ratificados os atos administrativos editados até a data da publicação desta Lei que ajustaram e disciplinaram o pagamento das remunerações dos cargos públicos em comissão e das funções públicas da estrutura organizacional da BEPREM, bem como os atos administrativos pertinentes à instituição da CLISAM e ao desenvolvimento das atribuições cometidas a esta unidade de Saúde.
 
@@ -698,25 +633,17 @@ II - nos demais casos, por recrutamento limitado e amplo, na proporção de 65% 
 
 “§ 8º - Os seguintes cargos públicos de provimento em comissão da estrutura organizacional da Fundação Zoobotânica de Belo Horizonte -FZB/BH -, cujo quantitativo é o do Anexo III-B desta Lei, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA|
-
-|ORGANIZACIONAL DA FZB/BH |ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
-
-|Gerente de 2º nível |Gerente de 2º nível |
-
-|Gerente de 3º nível |Gerente de 3º nível |
-
-|Gerente de 4º nível |Gerente de 4º nível |
-
-|Assessor III |Assessor III |
-
-|Assessor II |Assessor II |
-
-|Assessor I |Assessor I |
-
-|Assistente |Assistente |
-
-|Encarregado |Encarregado de Serviço |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA |
+| --- | --- |
+| ORGANIZACIONAL DA FZB/BH | ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
+| Gerente de 2º nível | Gerente de 2º nível |
+| Gerente de 3º nível | Gerente de 3º nível |
+| Gerente de 4º nível | Gerente de 4º nível |
+| Assessor III | Assessor III |
+| Assessor II | Assessor II |
+| Assessor I | Assessor I |
+| Assistente | Assistente |
+| Encarregado | Encarregado de Serviço |
 
 **Art. 54** - O caput e o § 2º do art. 15 da Lei nº 9.443, de 18 de outubro de 2007, passam a vigorar com a seguinte redação:
 

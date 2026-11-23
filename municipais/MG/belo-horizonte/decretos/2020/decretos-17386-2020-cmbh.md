@@ -54,18 +54,12 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Obras e Infraestrutura, conforme autorização contida no inciso I do § 1º art. 43 da |
-
-|Lei Federal nº 4.320, de 17 de março de 1964: |
-
-|R$ |
-
-|2700.18.541.244.1.244.4490.0400 |1.990.000,00 |
-
-|2700.15.451.062.1.230.4490.0400 |3.725.000,00 |
-
-|2700.17.512.066.1.203.4490.0400 |8.910.000,00 |
-
-|2700.17.512.066.1.307.4490.0400 |3.925.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |18.550.000,00 |
+| I.1 – A favor da Secretaria Municipal de Obras e Infraestrutura, conforme autorização contida no inciso I do § 1º art. 43 da |  |
+| --- | --- |
+| Lei Federal nº 4.320, de 17 de março de 1964: |  |
+| R$ |  |
+| 2700.18.541.244.1.244.4490.0400 | 1.990.000,00 |
+| 2700.15.451.062.1.230.4490.0400 | 3.725.000,00 |
+| 2700.17.512.066.1.203.4490.0400 | 8.910.000,00 |
+| 2700.17.512.066.1.307.4490.0400 | 3.925.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 18.550.000,00 |

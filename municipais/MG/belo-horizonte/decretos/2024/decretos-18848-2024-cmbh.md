@@ -68,35 +68,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.0085.2602.339139.2.501.784 |581.033,54 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339092.2.621.000 |118.857,42 |
-
-|2302.10.304.0028.2829.339030.2.621.000 |22.277,49 |
-
-|2302.10.302.0114.2936.339192.2.621.000 |29.311,46 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449093.2.701.000 |429.802,81 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449093.2.500.000 |361,83 |
-
-|2700.15.451.0062.1230.449093.2.702.000 |316.636,32 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.498.280,87 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.0085.2602.339139.2.501.784 | 581.033,54 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339092.2.621.000 | 118.857,42 |
+| 2302.10.304.0028.2829.339030.2.621.000 | 22.277,49 |
+| 2302.10.302.0114.2936.339192.2.621.000 | 29.311,46 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449093.2.701.000 | 429.802,81 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449093.2.500.000 | 361,83 |
+| 2700.15.451.0062.1230.449093.2.702.000 | 316.636,32 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.498.280,87 |
 
 ANEXO II
 

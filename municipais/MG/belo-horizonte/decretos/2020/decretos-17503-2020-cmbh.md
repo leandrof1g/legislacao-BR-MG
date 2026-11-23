@@ -48,36 +48,21 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividades e horários |
-
-|Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |
-
-|Atividade |Faixa de horário de funcionamento |
-
-|Comércio varejista não contemplado na fase de |Segunda-feira a sábado, entre 9h e 20h |
-
-|controle | |
-
-|Comércio atacadista da cadeia de atividades do|Segunda-feira a sábado, entre 8h e 18h |
-
-|comércio varejista autorizada a funcionar, | |
-
-|exceto comércio atacadista de recicláveis | |
-
-|(...) |(...) |
-
-|Atividades autorizadas em funcionamento no |Segunda-feira a sábado, entre 9h e 20h |
-
-|interior de galerias de lojas e centros de | |
-
-|comércio | |
-
-|Atividades autorizadas em funcionamento no |Segunda-feira a sábado, entre 10h e 21h |
-
-|interior de shopping centers | |
-
-| |Domingo, somente para retirada de produtos no |
-
-| |estacionamento, em formato drive-thru, sem restrição |
-
-| |de horário |
+| Atividades e horários |  |
+| --- | --- |
+| Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |  |
+| Atividade | Faixa de horário de funcionamento |
+| Comércio varejista não contemplado na fase de | Segunda-feira a sábado, entre 9h e 20h |
+| controle |  |
+| Comércio atacadista da cadeia de atividades do | Segunda-feira a sábado, entre 8h e 18h |
+| comércio varejista autorizada a funcionar, |  |
+| exceto comércio atacadista de recicláveis |  |
+| (...) | (...) |
+| Atividades autorizadas em funcionamento no | Segunda-feira a sábado, entre 9h e 20h |
+| interior de galerias de lojas e centros de |  |
+| comércio |  |
+| Atividades autorizadas em funcionamento no | Segunda-feira a sábado, entre 10h e 21h |
+| interior de shopping centers |  |
+|  | Domingo, somente para retirada de produtos no |
+|  | estacionamento, em formato drive-thru, sem restrição |
+|  | de horário |

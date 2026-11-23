@@ -68,33 +68,21 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **§ 8º** - Os seguintes cargos públicos de provimento em comissão da estrutura organizacional da Fundação Zoobotânica de Belo Horizonte -FZB/BH -, cujo quantitativo é o do Anexo III-B desta Lei, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA|
-
-|ORGANIZACIONAL DA FZB/BH |ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
-
-|Gerente de 2º nível |Gerente de 2º nível |
-
-|Gerente de 3º nível |Gerente de 3º nível |
-
-|Gerente de 4º nível |Gerente de 4º nível |
-
-|Assessor III |Assessor III |
-
-| |Assessor III-C |
-
-| |Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 |
-
-| |(Art. 29, § 2º), a partir de 14/4/2011 ou da publicação dos |
-
-| |regulamentos, valendo o que ocorrer primeiro. |
-
-|Assessor II |Assessor II |
-
-|Assessor I |Assessor I |
-
-|Assistente |Assistente |
-
-|Encarregado |Encarregado de Serviço |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA |
+| --- | --- |
+| ORGANIZACIONAL DA FZB/BH | ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
+| Gerente de 2º nível | Gerente de 2º nível |
+| Gerente de 3º nível | Gerente de 3º nível |
+| Gerente de 4º nível | Gerente de 4º nível |
+| Assessor III | Assessor III |
+|  | Assessor III-C |
+|  | Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 |
+|  | (Art. 29, § 2º), a partir de 14/4/2011 ou da publicação dos |
+|  | regulamentos, valendo o que ocorrer primeiro. |
+| Assessor II | Assessor II |
+| Assessor I | Assessor I |
+| Assistente | Assistente |
+| Encarregado | Encarregado de Serviço |
 
 **§ 8º** com redação dada pela Lei nº 9.549, de 7/4/2008 (Art. 53)
 
@@ -200,145 +188,80 @@ ANEXO I A QUE SE REFERE A LEI N° 9.241, DE 28 DE JULHO DE 2006
 
 A - QUANTITATIVOS DOS CARGOS PÚBLICOS EFETIVOS DA FZB/BH
 
-|CARGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Ajudante de Serviço Operacional |10 |
-
-|Auxiliar Administrativo |20 |
-
-|Oficial de Serviço Público |32 |
-
-|Porteiro-Bilheteiro |10 |
-
-|Jardineiro |40 |
-
-|Tratador de Animais |65 |
-
-|Agente de Visitação |40 |
-
-|Assistente Administrativo |40 |
-
-|Técnico de Serviço Público |15 |
-
-|Técnico Superior de Serviço Público |55 |
-
-| |53 |
-
-| |Número com redação dada |
-
-| |pela Lei nº 10.252, de |
-
-| |12/9/2011 (Art. 19, § |
-
-| |13) |
-
-| |48 |
-
-| |Número com redação dada |
-
-| |pela Lei nº 10.671, de |
-
-| |25/10/2013 (Art. 19) |
-
-|Advogado |2 |
-
-|Cargo acrescentado pela Lei nº 10.252, de 12/9/2011 (Art. 19, § 13) | |
-
-|TOTAL |327 |
-
-| |322 |
-
-| |Número com redação dada |
-
-| |pela Lei nº 10.671, de |
-
-| |25/10/2013 (Art. 19) |
+| CARGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Ajudante de Serviço Operacional | 10 |
+| Auxiliar Administrativo | 20 |
+| Oficial de Serviço Público | 32 |
+| Porteiro-Bilheteiro | 10 |
+| Jardineiro | 40 |
+| Tratador de Animais | 65 |
+| Agente de Visitação | 40 |
+| Assistente Administrativo | 40 |
+| Técnico de Serviço Público | 15 |
+| Técnico Superior de Serviço Público | 55 |
+|  | 53 |
+|  | Número com redação dada |
+|  | pela Lei nº 10.252, de |
+|  | 12/9/2011 (Art. 19, § |
+|  | 13) |
+|  | 48 |
+|  | Número com redação dada |
+|  | pela Lei nº 10.671, de |
+|  | 25/10/2013 (Art. 19) |
+| Advogado | 2 |
+| Cargo acrescentado pela Lei nº 10.252, de 12/9/2011 (Art. 19, § 13) |  |
+| TOTAL | 327 |
+|  | 322 |
+|  | Número com redação dada |
+|  | pela Lei nº 10.671, de |
+|  | 25/10/2013 (Art. 19) |
 
 B - QUANTITATIVOS DOS CARGOS EM COMISSÃO DA FZB/BH
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |NÚMERO DE VAGAS |
-
-|GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO |
-
-|Chefe de Serviço |Gerente de 2º Nível |02 |
-
-|Chefe de Seção |Gerente de 3º Nível |14 |
-
-| | |12 |
-
-| | |Nº de vagas com redação dada pela Lei nº|
-
-| | |10.101, de 14/1/2011 (Art. 38), a partir|
-
-| | |de 14/4/2011 ou da publicação dos |
-
-| | |regulamentos, valendo o que ocorrer |
-
-| | |primeiro. |
-
-|Chefe de Setor |Gerente de 4º Nível |05 |
-
-| | |02 |
-
-| | |Nº de vagas com redação dada pela Lei nº|
-
-| | |10.101, de 14/1/2011 (Art. 38), a partir|
-
-| | |de 14/4/2011 ou da publicação dos |
-
-| | |regulamentos, valendo o que ocorrer |
-
-| | |primeiro. |
-
-|Encarregado |Encarregado |10 |
-
-|GRUPO DE ASSESSORAMENTO |
-
-|Assessor III |Assessor III |02 |
-
-| | |01 |
-
-| | |Nº de vagas com redação dada pela Lei nº|
-
-| | |10.101, de 14/1/2011 (Art. 38), a partir|
-
-| | |de 14/4/2011 ou da publicação dos |
-
-| | |regulamentos, valendo o que ocorrer |
-
-| | |primeiro. |
-
-|Assessor II |Assessor II |02 |
-
-|Assessor I |Assessor I |02 |
-
-| | |01 |
-
-| | |Nº de vagas com redação dada pela Lei nº|
-
-| | |10.101, de 14/1/2011 (Art. 38), a partir|
-
-| | |de 14/4/2011 ou da publicação dos |
-
-| | |regulamentos, valendo o que ocorrer |
-
-| | |primeiro. |
-
-|Assistente |Assistente |01 |
-
-|TOTAL |38 | |
-
-| |31 | |
-
-| |Nº de vagas com redação dada pela Lei| |
-
-| |nº 10.101, de 14/1/2011 (Art. 38), a | |
-
-| |partir de 14/4/2011 ou da publicação | |
-
-| |dos regulamentos, valendo o que | |
-
-| |ocorrer primeiro. | |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | NÚMERO DE VAGAS |
+| --- | --- | --- |
+| GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO |  |  |
+| Chefe de Serviço | Gerente de 2º Nível | 02 |
+| Chefe de Seção | Gerente de 3º Nível | 14 |
+|  |  | 12 |
+|  |  | Nº de vagas com redação dada pela Lei nº |
+|  |  | 10.101, de 14/1/2011 (Art. 38), a partir |
+|  |  | de 14/4/2011 ou da publicação dos |
+|  |  | regulamentos, valendo o que ocorrer |
+|  |  | primeiro. |
+| Chefe de Setor | Gerente de 4º Nível | 05 |
+|  |  | 02 |
+|  |  | Nº de vagas com redação dada pela Lei nº |
+|  |  | 10.101, de 14/1/2011 (Art. 38), a partir |
+|  |  | de 14/4/2011 ou da publicação dos |
+|  |  | regulamentos, valendo o que ocorrer |
+|  |  | primeiro. |
+| Encarregado | Encarregado | 10 |
+| GRUPO DE ASSESSORAMENTO |  |  |
+| Assessor III | Assessor III | 02 |
+|  |  | 01 |
+|  |  | Nº de vagas com redação dada pela Lei nº |
+|  |  | 10.101, de 14/1/2011 (Art. 38), a partir |
+|  |  | de 14/4/2011 ou da publicação dos |
+|  |  | regulamentos, valendo o que ocorrer |
+|  |  | primeiro. |
+| Assessor II | Assessor II | 02 |
+| Assessor I | Assessor I | 02 |
+|  |  | 01 |
+|  |  | Nº de vagas com redação dada pela Lei nº |
+|  |  | 10.101, de 14/1/2011 (Art. 38), a partir |
+|  |  | de 14/4/2011 ou da publicação dos |
+|  |  | regulamentos, valendo o que ocorrer |
+|  |  | primeiro. |
+| Assistente | Assistente | 01 |
+| TOTAL | 38 |  |
+|  | 31 |  |
+|  | Nº de vagas com redação dada pela Lei |  |
+|  | nº 10.101, de 14/1/2011 (Art. 38), a |  |
+|  | partir de 14/4/2011 ou da publicação |  |
+|  | dos regulamentos, valendo o que |  |
+|  | ocorrer primeiro. |  |
 
 C - POSICIONAMENTO DOS CARGOS PÚBLICOS DA ESTRUTURA FUNCIONAL DA FZB/BH
 
@@ -346,35 +269,22 @@ NA DATA DA PUBLICAÇÃO DESTA LEI CUJOS TITULARES OPTEM POR ESTE
 
 PLANO DE CARREIRA
 
-|CARGO PÚBLICO EFETIVO ATUAL |CARGO PÚBLICO EFETIVO PROPOSTO |
-
-|Ajudante de Serviço Público |Ajudante de Serviço Operacional |
-
-|Auxiliar de Administração | |
-
-| |Auxiliar Administrativo |
-
-|Auxiliar de Serviço Administrativo | |
-
-|Oficial de Serviço Público |Oficial de Serviço Público |
-
-|Porteiro-Bilheteiro |Porteiro-Bilheteiro |
-
-|CARGO PÚBLICO EFETIVO ATUAL |CARGO PÚBLICO EFETIVO PROPOSTO |
-
-|Tratador de Animais |Tratador de Animais |
-
-|Jardineiro |Jardineiro |
-
-|Motorista |Extinto |
-
-| |Agente de Visitação |
-
-|Agente de Administração |Assistente Administrativo |
-
-|Técnico de Nível Médio |Técnico de Serviço Público |
-
-|Técnico Superior de Serviço Público |Técnico Superior de Serviço Público |
+| CARGO PÚBLICO EFETIVO ATUAL | CARGO PÚBLICO EFETIVO PROPOSTO |
+| --- | --- |
+| Ajudante de Serviço Público | Ajudante de Serviço Operacional |
+| Auxiliar de Administração |  |
+|  | Auxiliar Administrativo |
+| Auxiliar de Serviço Administrativo |  |
+| Oficial de Serviço Público | Oficial de Serviço Público |
+| Porteiro-Bilheteiro | Porteiro-Bilheteiro |
+| CARGO PÚBLICO EFETIVO ATUAL | CARGO PÚBLICO EFETIVO PROPOSTO |
+| Tratador de Animais | Tratador de Animais |
+| Jardineiro | Jardineiro |
+| Motorista | Extinto |
+|  | Agente de Visitação |
+| Agente de Administração | Assistente Administrativo |
+| Técnico de Nível Médio | Técnico de Serviço Público |
+| Técnico Superior de Serviço Público | Técnico Superior de Serviço Público |
 
 ANEXO II A QUE SE REFERE A LEI N° 9.241, DE 28 DE JULHO DE 2006
 
@@ -514,48 +424,31 @@ ANEXO III A QUE SE REFERE A LEI N° 9.241, DE 28 DE JULHO DE 2006
 
 A - TABELA DE VENCIMENTOS DOS CARGOS PÚBLICOS DE PROVIMENTO EFETIVOS da FZB/BH PARA JORNADA DE 40 HORAS SEMANAIS - EM R$
 
-|Níveis de Vencimento |Ajudante de Serviço Operacional |Auxiliar Administrativo |Oficial de Serviço |
-
-| | | |Publico |
-
-|Gerente de 2° Nível |1.075,00 |1.075,00 |2.150,00 |
-
-|Gerente de 3° Nível |760,00 |760,00 |1.520,00 |
-
-|Gerente de 4° Nível |475,00 |475,00 |950,00 |
-
-|Encarregado |288,00 |288,00 |576,00 |
-
-|Assessor III |1.800,00 |1.800,00 |3.600,00 |
-
-|Assessor II |1.075,00 |1.075,00 |2.150,00 |
-
-|Assessor I |760,00 |760,00 |1.520,00 |
-
-|Assistente |475,00 |475,00 |950,00 |
+| Níveis de Vencimento | Ajudante de Serviço Operacional | Auxiliar Administrativo | Oficial de Serviço |
+| --- | --- | --- | --- |
+|  |  |  | Publico |
+| Gerente de 2° Nível | 1.075,00 | 1.075,00 | 2.150,00 |
+| Gerente de 3° Nível | 760,00 | 760,00 | 1.520,00 |
+| Gerente de 4° Nível | 475,00 | 475,00 | 950,00 |
+| Encarregado | 288,00 | 288,00 | 576,00 |
+| Assessor III | 1.800,00 | 1.800,00 | 3.600,00 |
+| Assessor II | 1.075,00 | 1.075,00 | 2.150,00 |
+| Assessor I | 760,00 | 760,00 | 1.520,00 |
+| Assistente | 475,00 | 475,00 | 950,00 |
 
 ANEXO IV A QUE SE REFERE A LEI N° 9.241, DE 28 DE JULHO DE 2006
 
 TABELA DE VALORES DO ADICIONAL DE INSALUBRIDADE - EM R$
 
-|CARGO PÚBLICO EFETIVO |MÍNIMO |MÉDIO |MÁXIMO |
-
-|AJUDANTE DE SERVIÇO OPERACIONAL |30,00 |60,00 |120,00 |
-
-|AUXILIAR ADMINISTRATIVO |30,00 |60,00 |120,00 |
-
-|OFICIAL DE SERVIÇO PÚBLICO |30,00 |60,00 |120,00 |
-
-|PORTEIRO/BILHETEIRO |30,00 |60,00 |120,00 |
-
-|JARDINEIRO |30,00 |60,00 |120,00 |
-
-|TRATADOR DE ANIMAIS |30,00 |60,00 |120,00 |
-
-|AGENTE DE VISITAÇÃO |30,00 |60,00 |120,00 |
-
-|ASSISTENTE ADMINISTRATIVO |30,00 |60,00 |120,00 |
-
-|TÉCNICO DE SERVIÇO PÚBLICO |30,00 |60,00 |120,00 |
-
-|TÉCNICO SUPERIOR DE SERVIÇO PÚBLICO |30,00 |60,00 |120,00 |
+| CARGO PÚBLICO EFETIVO | MÍNIMO | MÉDIO | MÁXIMO |
+| --- | --- | --- | --- |
+| AJUDANTE DE SERVIÇO OPERACIONAL | 30,00 | 60,00 | 120,00 |
+| AUXILIAR ADMINISTRATIVO | 30,00 | 60,00 | 120,00 |
+| OFICIAL DE SERVIÇO PÚBLICO | 30,00 | 60,00 | 120,00 |
+| PORTEIRO/BILHETEIRO | 30,00 | 60,00 | 120,00 |
+| JARDINEIRO | 30,00 | 60,00 | 120,00 |
+| TRATADOR DE ANIMAIS | 30,00 | 60,00 | 120,00 |
+| AGENTE DE VISITAÇÃO | 30,00 | 60,00 | 120,00 |
+| ASSISTENTE ADMINISTRATIVO | 30,00 | 60,00 | 120,00 |
+| TÉCNICO DE SERVIÇO PÚBLICO | 30,00 | 60,00 | 120,00 |
+| TÉCNICO SUPERIOR DE SERVIÇO PÚBLICO | 30,00 | 60,00 | 120,00 |

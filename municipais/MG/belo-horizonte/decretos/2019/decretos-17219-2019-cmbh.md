@@ -176,23 +176,16 @@ ANEXO I
 
 (...)
 
-|GRUPO I – PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS (autorização, permissão ou |
-
-|concessão): |
-
-|(...) |
-
-|6 – Atividade comercial em veículo de tração humana: |
-
-|6.1 – dentro dos limites da Regional Centro-Sul |R$229,20 p/unidade p/ano |
-
-|6.2 – demais regiões |R$154,92 p/unidade p/ano |
-
-|7 – Atividade comercial em veículo automotor: |
-
-|7.1 – dentro dos limites da Regional Centro-Sul |R$678,23 p/unidade p/ano |
-
-|7.2 – demais regiões |R$458,43 p/unidade p/ano |
+| GRUPO I – PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS (autorização, permissão ou |  |
+| --- | --- |
+| concessão): |  |
+| (...) |  |
+| 6 – Atividade comercial em veículo de tração humana: |  |
+| 6.1 – dentro dos limites da Regional Centro-Sul | R$229,20 p/unidade p/ano |
+| 6.2 – demais regiões | R$154,92 p/unidade p/ano |
+| 7 – Atividade comercial em veículo automotor: |  |
+| 7.1 – dentro dos limites da Regional Centro-Sul | R$678,23 p/unidade p/ano |
+| 7.2 – demais regiões | R$458,43 p/unidade p/ano |
 
 ”.
 
@@ -204,32 +197,20 @@ ANEXO II
 
 (...)
 
-|GRUPO II – PELO USO E OCUPAÇÃO DE DEPENDÊNCIAS PÚBLICAS (autorização, permissão ou concessão): |
-
-|(...) |
-
-|7 – Utilização de imóveis públicos no âmbito da Política Municipal de Habitação: |
-
-|7.1 – imóveis de uso não residencial |
-
-|7.1.1 – imóvel utilizado por família com renda |terreno sem edificação |R$0,48/m²/mês |
-
-|mensal igual ou inferior a três salários mínimos | | |
-
-| |terreno edificado |R$0,58/m²/mês |
-
-|7.1.2 – imóvel utilizado por família com renda |terreno sem edificação |R$0,85/m²/mês |
-
-|mensal superior a três salários mínimos e inferior | | |
-
-|ou igual a cinco salários mínimos | | |
-
-| |terreno edificado |R$0,95/m²/mês |
-
-|7.1.3 – imóvel utilizado por família com renda |terreno sem edificação |R$1,35/m²/mês |
-
-|mensal superior a cinco salários mínimos | | |
-
-| |terreno edificado |R$1,45/m²/mês |
+| GRUPO II – PELO USO E OCUPAÇÃO DE DEPENDÊNCIAS PÚBLICAS (autorização, permissão ou concessão): |  |  |
+| --- | --- | --- |
+| (...) |  |  |
+| 7 – Utilização de imóveis públicos no âmbito da Política Municipal de Habitação: |  |  |
+| 7.1 – imóveis de uso não residencial |  |  |
+| 7.1.1 – imóvel utilizado por família com renda | terreno sem edificação | R$0,48/m²/mês |
+| mensal igual ou inferior a três salários mínimos |  |  |
+|  | terreno edificado | R$0,58/m²/mês |
+| 7.1.2 – imóvel utilizado por família com renda | terreno sem edificação | R$0,85/m²/mês |
+| mensal superior a três salários mínimos e inferior |  |  |
+| ou igual a cinco salários mínimos |  |  |
+|  | terreno edificado | R$0,95/m²/mês |
+| 7.1.3 – imóvel utilizado por família com renda | terreno sem edificação | R$1,35/m²/mês |
+| mensal superior a cinco salários mínimos |  |  |
+|  | terreno edificado | R$1,45/m²/mês |
 
 ”.

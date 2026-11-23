@@ -62,7 +62,8 @@ Planilha demonstrativa das parcelas a serem pagas a partir de JANEIRO/2011, conf
 
 Base de Cálculo para Imposto de Renda = B + C Base de Cálculo para Contribuição Previdenciária = B Parcela Isenta = D
 
-| |A |B |C |D |
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
 
 |Reclamantes |BM |Situação Funcional |Total Bruto devido em 30/11/2010 |Valor da parcela |Qtde. de parcelas DEVIDAS |DESEMBOLSO MENSAL
 

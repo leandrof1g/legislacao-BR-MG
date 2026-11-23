@@ -56,28 +56,17 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Obras e Infraestrutura – SMOBI –, conforme autorização |
-
-|contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e |
-
-|no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2700.17.512.066.1.203.4490.0080 |19.939,13 |
-
-|TOTAL |19.939,13 |
-
-|I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso I do § |
-
-|1º do art. 43, da Lei Federal nº 4.320, de 17 de março de 1964 e no inciso II do do art. 4º da Lei|
-
-|nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2302.10.302.114.2.894.3390.0050 |167.144,94 |
-
-|TOTAL |167.144,94 |
-
-|TOTAL DA SUPLEMENTAÇÃO |187.084,07 |
+| I.1 – A favor da Secretaria Municipal de Obras e Infraestrutura – SMOBI –, conforme autorização |  |
+| --- | --- |
+| contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e |  |
+| no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2700.17.512.066.1.203.4490.0080 | 19.939,13 |
+| TOTAL | 19.939,13 |
+| I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso I do § |  |
+| 1º do art. 43, da Lei Federal nº 4.320, de 17 de março de 1964 e no inciso II do do art. 4º da Lei |  |
+| nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2302.10.302.114.2.894.3390.0050 | 167.144,94 |
+| TOTAL | 167.144,94 |
+| TOTAL DA SUPLEMENTAÇÃO | 187.084,07 |

@@ -52,28 +52,20 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos da PBH, conforme autorização contida no caput do |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|1010.23.692.132.2.307.3391.0000 |1.502,00 |
-
-|3300.15.452.059.2.566.3390.0000 |2.415.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.416.502,00 |
+| I.1 – A favor de diversos órgãos da PBH, conforme autorização contida no caput do |  |
+| --- | --- |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 1010.23.692.132.2.307.3391.0000 | 1.502,00 |
+| 3300.15.452.059.2.566.3390.0000 | 2.415.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.416.502,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1 da tabela |
-
-|anterior: |
-
-|R$ |
-
-|1010.23.692.132.2.307.3390.0000 |1.502,00 |
-
-|3300.15.452.059.2.890.3390.0000 |2.415.000,00 |
-
-|TOTAL DA ANULAÇÃO |2.416.502,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 da tabela |  |
+| --- | --- |
+| anterior: |  |
+| R$ |  |
+| 1010.23.692.132.2.307.3390.0000 | 1.502,00 |
+| 3300.15.452.059.2.890.3390.0000 | 2.415.000,00 |
+| TOTAL DA ANULAÇÃO | 2.416.502,00 |

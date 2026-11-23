@@ -52,38 +52,25 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos da PBH, conforme autorização |
-
-|contida no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de|
-
-|2020: |
-
-|R$ |
-
-| | |
-
-|0202.04.122.096.2.801.3390.0000 |20.000,00 |
-
-|0604.19.572.085.2.602.3390.0000 |700.000,00 |
-
-|4001.04.122.088.2.500.3390.0000 |930.000,00 |
-
-|4001.28.846.089.3.137.4490.0000 |150.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.800.000,00 |
+| I.1 – A favor de diversos órgãos da PBH, conforme autorização |  |
+| --- | --- |
+| contida no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de |  |
+| 2020: |  |
+| R$ |  |
+|  |  |
+| 0202.04.122.096.2.801.3390.0000 | 20.000,00 |
+| 0604.19.572.085.2.602.3390.0000 | 700.000,00 |
+| 4001.04.122.088.2.500.3390.0000 | 930.000,00 |
+| 4001.28.846.089.3.137.4490.0000 | 150.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.800.000,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1|
-
-|da tabela anterior: |
-
-|R$ |
-
-|2700.15.452.057.2.770.4490.0000 |150.000,00 |
-
-|4001.28.846.088.3.090.3390.0000 |930.000,00 |
-
-|4001.99.999.999.9.999.9999.0000 |720.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.800.000,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 2700.15.452.057.2.770.4490.0000 | 150.000,00 |
+| 4001.28.846.088.3.090.3390.0000 | 930.000,00 |
+| 4001.99.999.999.9.999.9999.0000 | 720.000,00 |
+| TOTAL DA ANULAÇÃO | 1.800.000,00 |

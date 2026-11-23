@@ -40,9 +40,9 @@ DIA COMEMORATIVO
 
 E - Dias comemorativos de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|15/5 |Dia Municipal de Conscientização sobre a Esclerose Tuberosa |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 15/5 | Dia Municipal de Conscientização sobre a Esclerose Tuberosa |
 
 .”.
 

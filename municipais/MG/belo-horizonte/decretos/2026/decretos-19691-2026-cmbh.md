@@ -58,31 +58,23 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § 2º |R$ |
-
-|do art. 19 da Lei nº 11.899, de 17 de setembro de 2025, e no art. 1º da Lei nº 12.075,| |
-
-|de 20 de julho de 2026: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.813.0101.2545.339039.1.500.000 |390.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |390.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § 2º | R$ |
+| --- | --- |
+| do art. 19 da Lei nº 11.899, de 17 de setembro de 2025, e no art. 1º da Lei nº 12.075, |  |
+| de 20 de julho de 2026: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.813.0101.2545.339039.1.500.000 | 390.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 390.000,00 |
 
 I.2 – Anulação da seguinte dotação orçamentária a que se refere o art. 2º.
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos previstos inicialmente no órgão relacionado abaixo, conforme autorização | |
-
-|contida no art. 2º da Lei nº 12.075, de 20 de julho de 2026: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2545.339039.1.500.000 |390.000,00 |
-
-|TOTAL DA ANULAÇÃO |390.000,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos previstos inicialmente no órgão relacionado abaixo, conforme autorização |  |
+| contida no art. 2º da Lei nº 12.075, de 20 de julho de 2026: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.1.500.000 | 390.000,00 |
+| TOTAL DA ANULAÇÃO | 390.000,00 |
 
 ANEXO II
 
@@ -106,20 +98,13 @@ SALDO ATUAL DE CRÉDITO SUPLEMENTAR
 
 III.1 – Demonstração do saldo de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 1º da Lei nº 12.075, de 20 de julho de 2026:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |
-
-|Art. 1º da Lei nº 12.075, de 20/07/2026 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 15.098.695,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 0,00 |
-
-|Valor do decreto publicado nesta data |R$ 390.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 390.000,00 |
-
-|Saldo atual de créditos suplementares |R$ 14.708.695,00 |
-
-|Percentual utilizado |2,58% |
-
-|Atualizado em 11/08/2026 às 09:49:47 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |  |
+| --- | --- |
+| Art. 1º da Lei nº 12.075, de 20/07/2026 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 15.098.695,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 0,00 |
+| Valor do decreto publicado nesta data | R$ 390.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 390.000,00 |
+| Saldo atual de créditos suplementares | R$ 14.708.695,00 |
+| Percentual utilizado | 2,58% |
+| Atualizado em 11/08/2026 às 09:49:47 |  |

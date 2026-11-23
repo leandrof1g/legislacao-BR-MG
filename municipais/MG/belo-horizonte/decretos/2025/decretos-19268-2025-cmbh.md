@@ -58,35 +58,25 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei nº|R$ |
-
-|11.802, de 3 de janeiro de 2025: | |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0305.2910.336045.1.500.000 |3.622.360,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |3.622.360,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei nº | R$ |
+| --- | --- |
+| 11.802, de 3 de janeiro de 2025: |  |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0305.2910.336045.1.500.000 | 3.622.360,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.622.360,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0060.2567.339040.1.500.000 |196.740,00 |
-
-|3302.26.452.0060.2567.339034.1.500.000 |599.000,00 |
-
-|3302.26.452.0060.2567.339030.1.500.000 |330.020,00 |
-
-|3302.26.452.0060.2567.339140.1.500.000 |876.000,00 |
-
-|3302.26.452.0060.2567.449052.1.500.000 |1.620.600,00 |
-
-|TOTAL DE ANULAÇÃO |3.622.360,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0060.2567.339040.1.500.000 | 196.740,00 |
+| 3302.26.452.0060.2567.339034.1.500.000 | 599.000,00 |
+| 3302.26.452.0060.2567.339030.1.500.000 | 330.020,00 |
+| 3302.26.452.0060.2567.339140.1.500.000 | 876.000,00 |
+| 3302.26.452.0060.2567.449052.1.500.000 | 1.620.600,00 |
+| TOTAL DE ANULAÇÃO | 3.622.360,00 |
 
 ANEXO II
 
@@ -110,24 +100,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 572.479.066,32 |
-
-|Valor do Decreto publicado nesta data |R$ 3.622.360,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 576.101.426,32 |
-
-|Saldo atual de créditos suplementares |R$ 1.689.279.370,98 |
-
-|Percentual utilizado |25,43% |
-
-|Atualizado em 05/09/2025 às 13:34:29 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 572.479.066,32 |
+| Valor do Decreto publicado nesta data | R$ 3.622.360,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 576.101.426,32 |
+| Saldo atual de créditos suplementares | R$ 1.689.279.370,98 |
+| Percentual utilizado | 25,43% |
+| Atualizado em 05/09/2025 às 13:34:29 |  |

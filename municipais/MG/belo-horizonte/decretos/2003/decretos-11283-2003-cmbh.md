@@ -228,59 +228,41 @@ Tabela de Pontuação
 
 1 - Número de Filhos:
 
-|Idade até 14 anos completos |Pontos por filho até ao máximo de 12 pontos |Pontos |
-
-|1) 1 a 3 anos |5 pontos | |
-
-|2) 4 a 7 anos |4 pontos | |
-
-|3) 8 a 10 anos |3 pontos | |
-
-|4) 11 a 14 anos |1 ponto | |
-
-|Total final pontos | |
+| Idade até 14 anos completos | Pontos por filho até ao máximo de 12 pontos | Pontos |
+| --- | --- | --- |
+| 1) 1 a 3 anos | 5 pontos |  |
+| 2) 4 a 7 anos | 4 pontos |  |
+| 3) 8 a 10 anos | 3 pontos |  |
+| 4) 11 a 14 anos | 1 ponto |  |
+| Total final pontos |  |  |
 
 2- Renda Familiar
 
 A - Renda bruta total da família, até 5 salários Mínimos
 
-|Renda |Pontos |
-
-|1 ) Até 10% do salário mínimo |20 |
-
-|2) Acima de 10%, até 20% do salário mínimo |18 |
-
-|3) Acima de 20%, até 30% do salário mínimo |15 |
-
-|4) Acima de 30%, até 40% do salário mínimo |12 |
-
-|5) Acima de 40%, até 50% do salário mínimo |9 |
-
-|6) Acima de 50% do salário mínimo |6 |
-
-|Total final |
-
-|pontos |
+| Renda | Pontos |
+| --- | --- |
+| 1 ) Até 10% do salário mínimo | 20 |
+| 2) Acima de 10%, até 20% do salário mínimo | 18 |
+| 3) Acima de 20%, até 30% do salário mínimo | 15 |
+| 4) Acima de 30%, até 40% do salário mínimo | 12 |
+| 5) Acima de 40%, até 50% do salário mínimo | 9 |
+| 6) Acima de 50% do salário mínimo | 6 |
+| Total final |  |
+| pontos |  |
 
 B - Renda bruta por cabeça
 
-|Classificação, em salários mínimos da renda bruta familiar |Pontos |
-
-|1 ) Sem renda |6 |
-
-|2) Até 50% do salário mínimo |5 |
-
-|3) Acima de 50% do salário mínimo até 1 salário |4 |
-
-|4) Acima 1, até 2,50 salários mínimos |3 |
-
-|5) Acima de 2,50 até 4 salários mínimos |2 |
-
-|6) Acima de 4, até 5 salários mínimos |1 |
-
-|Total final |
-
-|pontos |
+| Classificação, em salários mínimos da renda bruta familiar | Pontos |
+| --- | --- |
+| 1 ) Sem renda | 6 |
+| 2) Até 50% do salário mínimo | 5 |
+| 3) Acima de 50% do salário mínimo até 1 salário | 4 |
+| 4) Acima 1, até 2,50 salários mínimos | 3 |
+| 5) Acima de 2,50 até 4 salários mínimos | 2 |
+| 6) Acima de 4, até 5 salários mínimos | 1 |
+| Total final |  |
+| pontos |  |
 
 3- Famílias com um ou mais membros maiores de 60 anos: 10 pontos por membro.
 

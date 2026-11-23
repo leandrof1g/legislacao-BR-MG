@@ -58,23 +58,16 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Créditos adicionais especiais suplementando as seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão conforme autorização contida no inciso II do § 1º do |R$ |
-
-|art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 1º da Lei nº 11.601,| |
-
-|de 16 de outubro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.0100.12.361.168.2.046.445052.710 |25.000,00 |
-
-|2200.0500.12.361.168.2.046.445052.710 |25.000,00 |
-
-|2200.0800.12.365.169.2.542.445052.710 |100.000,00 |
-
-|2200.0200.12.365.169.2.542.445052.710 |70.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |220.000,00 |
+| I.1.1 – A favor do seguinte órgão conforme autorização contida no inciso II do § 1º do | R$ |
+| --- | --- |
+| art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 1º da Lei nº 11.601, |  |
+| de 16 de outubro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0100.12.361.168.2.046.445052.710 | 25.000,00 |
+| 2200.0500.12.361.168.2.046.445052.710 | 25.000,00 |
+| 2200.0800.12.365.169.2.542.445052.710 | 100.000,00 |
+| 2200.0200.12.365.169.2.542.445052.710 | 70.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 220.000,00 |
 
 ANEXO II
 

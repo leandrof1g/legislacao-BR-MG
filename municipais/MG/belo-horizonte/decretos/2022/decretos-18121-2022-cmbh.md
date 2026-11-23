@@ -64,41 +64,25 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do | |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.302.2.905.3390.0007 |500.000,00 |
-
-|Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA |
-
-|1013.14.243.163.2.859.3390.0030 |3.000.000,00 |
-
-|TOTAL |3.500.000,00 |
-
-|I.1.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida |R$ |
-
-|no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e | |
-
-|no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2302.10.301.157.2.690.4490.0050 |54.572,00 |
-
-|2302.10.302.114.2.893.4490.0050 |43.785,00 |
-
-|2302.10.302.114.2.894.4450.0050 |100.000,00 |
-
-|2302.10.305.028.2.829.3350.0050 |200.000,00 |
-
-|2302.10.305.028.2.829.3390.0050 |3.280,00 |
-
-|TOTAL |401.637,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |3.901.637,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do |  |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.302.2.905.3390.0007 | 500.000,00 |
+| Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA |  |
+| 1013.14.243.163.2.859.3390.0030 | 3.000.000,00 |
+| TOTAL | 3.500.000,00 |
+| I.1.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida | R$ |
+| no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e |  |
+| no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2302.10.301.157.2.690.4490.0050 | 54.572,00 |
+| 2302.10.302.114.2.893.4490.0050 | 43.785,00 |
+| 2302.10.302.114.2.894.4450.0050 | 100.000,00 |
+| 2302.10.305.028.2.829.3350.0050 | 200.000,00 |
+| 2302.10.305.028.2.829.3390.0050 | 3.280,00 |
+| TOTAL | 401.637,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.901.637,00 |
 
 ANEXO II
 
@@ -130,36 +114,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do art.|Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|4º, limite de 15% do |4º, limite de 15% do total |
-
-|– Limites autorizados |Orçamento: |total do Orçamento do |do Orçamento do Fundo |
-
-|para abertura de | |Grupo 1 – Pessoal e |Municipal de Saúde –FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 823.176.197,58 |R$ 144.535.272,88 |R$ 475.637.761,83 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 1.477.974.488,07 |R$ 739.457.035,82 |R$ 251.579.390,82 |
-
-|suplementares | | | |
-
-|Percentual utilizado |35,77% |16,35% |65,41% |
-
-|Atualizado em 05/10/2022 às 15:31:40 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do art. | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | 4º, limite de 15% do | 4º, limite de 15% do total |
+| – Limites autorizados | Orçamento: | total do Orçamento do | do Orçamento do Fundo |
+| para abertura de |  | Grupo 1 – Pessoal e | Municipal de Saúde –FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 823.176.197,58 | R$ 144.535.272,88 | R$ 475.637.761,83 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 1.477.974.488,07 | R$ 739.457.035,82 | R$ 251.579.390,82 |
+| suplementares |  |  |  |
+| Percentual utilizado | 35,77% | 16,35% | 65,41% |
+| Atualizado em 05/10/2022 às 15:31:40 |  |  |  |

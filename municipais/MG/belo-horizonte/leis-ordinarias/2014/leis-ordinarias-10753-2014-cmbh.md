@@ -84,15 +84,12 @@ j) função pública de Gestor Administrativo e Financeiro Escolar, instituída 
 
 **Art. 4º** - Fica concedido abono aos demais servidores e empregados públicos integrantes do quadro de pessoal da Administração Direta do Poder Executivo, da Fundação Municipal de Cultura - FMC, da Fundação de Parques Municipais - FPM, da Fundação Zoo-Botânica - FZB, do Hospital Municipal Odilon Behrens - HOB, da Superintendência de Limpeza Urbana de Belo Horizonte - SLU e da Superintendência de Desenvolvimento da Capital - SUDECAP, bem como aos servidores e empregados públicos municipalizados, que percebam remuneração máxima de R$5.500,00 (cinco mil e quinhentos reais), a ser pago em uma única vez, no mês de dezembro de 2014, conforme as seguintes faixas de remuneração apuradas no mês de maio de 2014 e os seguintes valores:
 
-|REMUNERAÇÃO DO SERVIDOR/EMPREGADO PÚBLICO EM MAIO DE 2014 |VALOR DO ABONO |
-
-|Até R$1.500,00 |R$600,00 |
-
-|De R$1.500,01 até R$2.500,00 |R$400,00 |
-
-|De R$2.500,01 até R$3.500,00 |R$300,00 |
-
-|De R$3.500,01 até R$5.500,00 |R$200,00 |
+| REMUNERAÇÃO DO SERVIDOR/EMPREGADO PÚBLICO EM MAIO DE 2014 | VALOR DO ABONO |
+| --- | --- |
+| Até R$1.500,00 | R$600,00 |
+| De R$1.500,01 até R$2.500,00 | R$400,00 |
+| De R$2.500,01 até R$3.500,00 | R$300,00 |
+| De R$3.500,01 até R$5.500,00 | R$200,00 |
 
 **§ 1º** - Para os fins do disposto no caput deste artigo, considera-se remuneração do servidor ou do empregado público o somatório dos vencimentos-base, salários-base e de todas as demais vantagens pecuniárias atribuídas aos seus cargos e empregos públicos no mês de maio de 2014, inclusive as parcelas cujos pagamentos decorram de extensões de jornadas, dobras e jornadas complementares, bem como as que decorram do exercício do comissionato ou de funções públicas, excluídas as seguintes parcelas:
 

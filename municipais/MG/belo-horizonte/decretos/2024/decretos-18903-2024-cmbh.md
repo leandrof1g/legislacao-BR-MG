@@ -58,95 +58,55 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.0091.3501.469071.1.754.790 |210.000,00 |
-
-|4001.28.844.0091.3089.329021.1.500.000 |5.000.000,00 |
-
-|4001.28.843.0091.3501.329022.1.500.000 |3.500.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2542.445042.1.550.000 |1.247.235,00 |
-
-|2200.12.365.0169.2542.456782.2.550.000 |20.871,00 |
-
-|2200.12.361.0168.2080.339032.2.550.000 |2.488.931,00 |
-
-|2200.12.365.0169.2542.339032.1.550.000 |7.346.035,00 |
-
-|2200.12.361.0168.2080.339032.1.550.000 |7.533.155,00 |
-
-|Fundo de Mobilidade Urbana – FMU |
-
-|3303.26.452.0060.2837.339039.1.500.000 |67.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |27.413.227,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.0091.3501.469071.1.754.790 | 210.000,00 |
+| 4001.28.844.0091.3089.329021.1.500.000 | 5.000.000,00 |
+| 4001.28.843.0091.3501.329022.1.500.000 | 3.500.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.445042.1.550.000 | 1.247.235,00 |
+| 2200.12.365.0169.2542.456782.2.550.000 | 20.871,00 |
+| 2200.12.361.0168.2080.339032.2.550.000 | 2.488.931,00 |
+| 2200.12.365.0169.2542.339032.1.550.000 | 7.346.035,00 |
+| 2200.12.361.0168.2080.339032.1.550.000 | 7.533.155,00 |
+| Fundo de Mobilidade Urbana – FMU |  |
+| 3303.26.452.0060.2837.339039.1.500.000 | 67.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 27.413.227,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |
-
-|3304.26.452.0060.2567.339039.1.500.000 |67.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.844.0091.3089.469071.1.500.000 |8.500.000,00 |
-
-|Secretaria Municipal de Educação - SMED |
-
-|2200.12.365.0169.2046.339039.1.550.000 |5.000,00 |
-
-|2200.12.361.0168.2046.339039.1.550.000 |5.000,00 |
-
-|2200.12.365.0169.2046.445042.1.550.000 |5.000,00 |
-
-|2200.12.361.0168.2046.445042.1.550.000 |5.000,00 |
-
-|2200.12.365.0169.2046.445052.1.550.000 |5.000,00 |
-
-|2200.12.361.0168.2046.445052.1.550.000 |5.000,00 |
-
-|2200.12.361.0168.2080.336783.1.550.000 |1.000.000,00 |
-
-|2200.12.361.0168.2080.339030.1.550.000 |1.000,00 |
-
-|2200.12.361.0168.2080.449052.1.550.000 |1.000,00 |
-
-|2200.12.361.0168.2080.456782.1.550.000 |5.000,00 |
-
-|2200.12.365.0169.2542.336783.1.550.000 |1.000.000,00 |
-
-|2200.12.365.0169.2542.445052.1.550.000 |5.000,00 |
-
-|2200.12.365.0169.2542.449052.1.550.000 |14.079.425,00 |
-
-|2200.12.365.0169.2542.456782.1.550.000 |5.000,00 |
-
-|2200.12.361.0168.2080.339030.2.550.000 |20.871,00 |
-
-|2200.12.122.0140.2317.339035.2.550.000 |41.237,00 |
-
-|2200.12.361.0167.2386.339030.2.550.000 |391.663,00 |
-
-|2200.12.365.0167.2386.339030.2.550.000 |296.466,00 |
-
-|2200.12.122.0140.2317.339040.2.550.000 |1.759.565,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0226.1207.442042.1.754.790 |210.000,00 |
-
-|TOTAL DA ANULAÇÃO |27.413.227,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3304.26.452.0060.2567.339039.1.500.000 | 67.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.844.0091.3089.469071.1.500.000 | 8.500.000,00 |
+| Secretaria Municipal de Educação - SMED |  |
+| 2200.12.365.0169.2046.339039.1.550.000 | 5.000,00 |
+| 2200.12.361.0168.2046.339039.1.550.000 | 5.000,00 |
+| 2200.12.365.0169.2046.445042.1.550.000 | 5.000,00 |
+| 2200.12.361.0168.2046.445042.1.550.000 | 5.000,00 |
+| 2200.12.365.0169.2046.445052.1.550.000 | 5.000,00 |
+| 2200.12.361.0168.2046.445052.1.550.000 | 5.000,00 |
+| 2200.12.361.0168.2080.336783.1.550.000 | 1.000.000,00 |
+| 2200.12.361.0168.2080.339030.1.550.000 | 1.000,00 |
+| 2200.12.361.0168.2080.449052.1.550.000 | 1.000,00 |
+| 2200.12.361.0168.2080.456782.1.550.000 | 5.000,00 |
+| 2200.12.365.0169.2542.336783.1.550.000 | 1.000.000,00 |
+| 2200.12.365.0169.2542.445052.1.550.000 | 5.000,00 |
+| 2200.12.365.0169.2542.449052.1.550.000 | 14.079.425,00 |
+| 2200.12.365.0169.2542.456782.1.550.000 | 5.000,00 |
+| 2200.12.361.0168.2080.339030.2.550.000 | 20.871,00 |
+| 2200.12.122.0140.2317.339035.2.550.000 | 41.237,00 |
+| 2200.12.361.0167.2386.339030.2.550.000 | 391.663,00 |
+| 2200.12.365.0167.2386.339030.2.550.000 | 296.466,00 |
+| 2200.12.122.0140.2317.339040.2.550.000 | 1.759.565,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0226.1207.442042.1.754.790 | 210.000,00 |
+| TOTAL DA ANULAÇÃO | 27.413.227,00 |
 
 ANEXO II
 
@@ -184,24 +144,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.186.216.999,96 |
-
-|Valor do Decreto publicado nesta data |R$ 27.413.227,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.213.630.226,96 |
-
-|Saldo atual de créditos suplementares |R$ 769.702.545,44 |
-
-|Percentual utilizado |61,19% |
-
-|Atualizado em 11/12/2024 às 09:20:41 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.186.216.999,96 |
+| Valor do Decreto publicado nesta data | R$ 27.413.227,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.213.630.226,96 |
+| Saldo atual de créditos suplementares | R$ 769.702.545,44 |
+| Percentual utilizado | 61,19% |
+| Atualizado em 11/12/2024 às 09:20:41 |  |

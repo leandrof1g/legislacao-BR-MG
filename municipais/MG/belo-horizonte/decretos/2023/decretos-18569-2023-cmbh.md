@@ -48,56 +48,31 @@ ANEXO
 
 IV.16 – Controladoria-Geral do Município – CTGM:
 
-|CTGM |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |1 |CTGM.DAM1.L.001 |
-
-| |AMPLO |0 |- |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |6 |CTGM.DAM2.A.001 a CTGM.DAM2.A.006 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |6 |CTGM.DAM3.A.001 a CTGM.DAM3.A.006 |
-
-|DAM-4 |LIMITADO |4 |CTGM.DAM4.L.001 a CTGM.DAM4.L.004 |
-
-| |AMPLO |3 |CTGM.DAM4.A.001 a CTGM.DAM4.A.003 |
-
-|DAM-5 |LIMITADO |8 |CTGM.DAM5.L.001 a CTGM.DAM5.L.008 |
-
-| |AMPLO |0 |- |
-
-|DAM-6 |LIMITADO |2 |CTGM.DAM6.L.001 a CTGM.DAM6.L.002 |
-
-| |AMPLO |6 |CTGM.DAM6.A.001 a CTGM.DAM6.A.006 |
-
-|DAM-7 |LIMITADO |1 |CTGM.DAM7.L.001 |
-
-| |AMPLO |0 |- |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |1 |CTGM.FCA1.001 |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |38 | |
+| CTGM |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 1 | CTGM.DAM1.L.001 |
+|  | AMPLO | 0 | - |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 6 | CTGM.DAM2.A.001 a CTGM.DAM2.A.006 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 6 | CTGM.DAM3.A.001 a CTGM.DAM3.A.006 |
+| DAM-4 | LIMITADO | 4 | CTGM.DAM4.L.001 a CTGM.DAM4.L.004 |
+|  | AMPLO | 3 | CTGM.DAM4.A.001 a CTGM.DAM4.A.003 |
+| DAM-5 | LIMITADO | 8 | CTGM.DAM5.L.001 a CTGM.DAM5.L.008 |
+|  | AMPLO | 0 | - |
+| DAM-6 | LIMITADO | 2 | CTGM.DAM6.L.001 a CTGM.DAM6.L.002 |
+|  | AMPLO | 6 | CTGM.DAM6.A.001 a CTGM.DAM6.A.006 |
+| DAM-7 | LIMITADO | 1 | CTGM.DAM7.L.001 |
+|  | AMPLO | 0 | - |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 1 | CTGM.FCA1.001 |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 38 |  |  |

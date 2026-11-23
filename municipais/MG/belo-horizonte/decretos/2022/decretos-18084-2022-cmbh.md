@@ -52,72 +52,42 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 - A favor dos seguintes órgãos, conforme autorização contida no caput do art. 4º da |R$ | |
-
-|Lei nº 11.336, de 30 de dezembro de 2021: | | |
-
-| | | |
-
-|Secretaria Municipal de Cultura – SMC | |
-
-|3100.13.122.146.2.900.3390.0000 | | | | |261.725,00 | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA | |
-
-|4001.28.846.088.3.091.3390.0000 | | | | |1.130.000,00 | |
-
-|4001.28.846.089.3.137.3390.0000 | | | | |1.000.000,00 | |
-
-|Fundo Municipal de Alimentação Escolar – FMAE | |
-
-|1014.08.306.132.2.761.3390.0000 | | | | |2.000.000,00 | |
-
-|TOTAL | | | | | | | |4.391.725,00 | |
-
-|I.2 – A favor do Fundo Municipal de Saúde – FMS, conforme autorização contida no inciso II|R$ | |
-
-|do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | | |
-
-| | | |
-
-|2302.10.305.028.2.829.3390.0000 | | | | |4.374.527,74 | |
-
-|TOTAL | | | | | | | |4.374.527,74 | |
-
-|TOTAL DA SUPLEMENTAÇÃO | | | | |8.766.252,74 | |
+| I.1 - A favor dos seguintes órgãos, conforme autorização contida no caput do art. 4º da | R$ |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lei nº 11.336, de 30 de dezembro de 2021: |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Secretaria Municipal de Cultura – SMC |  |  |  |  |  |  |  |  |  |
+| 3100.13.122.146.2.900.3390.0000 |  |  |  |  | 261.725,00 |  |  |  |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |  |  |  |  |  |  |  |  |
+| 4001.28.846.088.3.091.3390.0000 |  |  |  |  | 1.130.000,00 |  |  |  |  |
+| 4001.28.846.089.3.137.3390.0000 |  |  |  |  | 1.000.000,00 |  |  |  |  |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |  |  |  |  |  |  |  |  |
+| 1014.08.306.132.2.761.3390.0000 |  |  |  |  | 2.000.000,00 |  |  |  |  |
+| TOTAL |  |  |  |  |  |  |  | 4.391.725,00 |  |
+| I.2 – A favor do Fundo Municipal de Saúde – FMS, conforme autorização contida no inciso II | R$ |  |  |  |  |  |  |  |  |
+| do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| 2302.10.305.028.2.829.3390.0000 |  |  |  |  | 4.374.527,74 |  |  |  |  |
+| TOTAL |  |  |  |  |  |  |  | 4.374.527,74 |  |
+| TOTAL DA SUPLEMENTAÇÃO |  |  |  |  | 8.766.252,74 |  |  |  |  |
 
 II – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|II – Em contrapartida às suplementações relacionadas no item I.1, anulação de recursos |R$ | |
-
-|orçamentários anteriormente previstos nos seguintes órgãos: | | |
-
-| | | |
-
-|Secretaria Municipal de Cultura – SMC | |
-
-|3100.13.392.146.2.338.3390.0000 | | | | |261.725,00 | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA | |
-
-|4001.28.846.088.3.090.3390.0000 | | | | |1.130.000,00 | |
-
-|4001.28.846.089.3.137.3190.0000 | | | | |1.000.000,00 | |
-
-|Fundo Municipal de Assistência Social – FMAS | |
-
-|1011.08.244.020.2.403.3390.0000 | | | | |2.000.000,00 | |
-
-|TOTAL | | | | | | | |4.391.725,00 | |
-
-|II.2 – Em contrapartida à suplementação relacionada no item I.2, anulação de recursos |R$ | |
-
-|orçamentários anteriormente previstos no Fundo Municipal de Saúde – FMS: | | |
-
-| | | |
-
-|2302.10.301.157.2.690.3190.0000 | | | | |4.374.527,74 | |
-
-|TOTAL | | | | | | | |4.374.527,74 | |
-
-|TOTAL DA ANULAÇÃO | | | | | |8.766.252,74 | |
+| II – Em contrapartida às suplementações relacionadas no item I.1, anulação de recursos | R$ |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| orçamentários anteriormente previstos nos seguintes órgãos: |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Secretaria Municipal de Cultura – SMC |  |  |  |  |  |  |  |  |  |
+| 3100.13.392.146.2.338.3390.0000 |  |  |  |  | 261.725,00 |  |  |  |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |  |  |  |  |  |  |  |  |
+| 4001.28.846.088.3.090.3390.0000 |  |  |  |  | 1.130.000,00 |  |  |  |  |
+| 4001.28.846.089.3.137.3190.0000 |  |  |  |  | 1.000.000,00 |  |  |  |  |
+| Fundo Municipal de Assistência Social – FMAS |  |  |  |  |  |  |  |  |  |
+| 1011.08.244.020.2.403.3390.0000 |  |  |  |  | 2.000.000,00 |  |  |  |  |
+| TOTAL |  |  |  |  |  |  |  | 4.391.725,00 |  |
+| II.2 – Em contrapartida à suplementação relacionada no item I.2, anulação de recursos | R$ |  |  |  |  |  |  |  |  |
+| orçamentários anteriormente previstos no Fundo Municipal de Saúde – FMS: |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| 2302.10.301.157.2.690.3190.0000 |  |  |  |  | 4.374.527,74 |  |  |  |  |
+| TOTAL |  |  |  |  |  |  |  | 4.374.527,74 |  |
+| TOTAL DA ANULAÇÃO |  |  |  |  |  | 8.766.252,74 |  |  |  |

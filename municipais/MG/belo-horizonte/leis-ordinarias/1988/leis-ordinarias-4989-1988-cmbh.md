@@ -88,40 +88,23 @@ Sérgio Ferrara
 
 Prefeito de Belo Horizonte
 
-| |
-
-|ANEXO I A QUE SE REFERE O ARTIGO 8º DA LEI Nº 4989 DE 18 DE JANEIRO DE 1988 |
-
-|Grupo |Denominação dos Grupos e|Código das |Símbolo de |Regime Jurídico |Composição das classes |Forma de Recrutamento|
-
-| |das Classes |Classes |vencimento ou | | | |
-
-| | | |salário | | | |
-
-| | | | | |Cargos |Empregos | |
-
-|1. |Administração Geral | | | | | | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| |Provimento em Comissão | | | | | | |
-
-|1.1 | | | | | | | |
-
-| | | | | | | | |
-
-| |Presidente da Junta de | | | | | |Limitado |
-
-| |Julgamento Fiscal |DA-45 |XXI |Estatutário |01 |- | |
-
-| | | | | | | | |
-
-| | | | | | | | |
-
-| |Secretário Geral da | | | | | | |
-
-| |Junta de Julgamento | | |Estatutário | | | |
-
-| |Fiscal |DA-46 |XX | |01 |- |Limitado |
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ANEXO I A QUE SE REFERE O ARTIGO 8º DA LEI Nº 4989 DE 18 DE JANEIRO DE 1988 |  |  |  |  |  |  |  |
+| Grupo | Denominação dos Grupos e | Código das | Símbolo de | Regime Jurídico | Composição das classes | Forma de Recrutamento |  |
+|  | das Classes | Classes | vencimento ou |  |  |  |  |
+|  |  |  | salário |  |  |  |  |
+|  |  |  |  |  | Cargos | Empregos |  |
+| 1. | Administração Geral |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | Provimento em Comissão |  |  |  |  |  |  |
+| 1.1 |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | Presidente da Junta de |  |  |  |  |  | Limitado |
+|  | Julgamento Fiscal | DA-45 | XXI | Estatutário | 01 | - |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | Secretário Geral da |  |  |  |  |  |  |
+|  | Junta de Julgamento |  |  | Estatutário |  |  |  |
+|  | Fiscal | DA-46 | XX |  | 01 | - | Limitado |

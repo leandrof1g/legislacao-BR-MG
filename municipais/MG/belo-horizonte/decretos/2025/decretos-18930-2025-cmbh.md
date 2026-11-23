@@ -70,45 +70,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei | |
-
-|nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.366.0168.2080.319011.2.540.000 |209.900,00 |
-
-|2200.12.361.0168.2080.319011.2.540.000 |9.045.200,00 |
-
-|2200.12.365.0169.2542.319011.2.540.000 |5.745.000,00 |
-
-|2200.12.361.0168.2046.339039.2.550.000 |6.501.172,00 |
-
-|2200.12.365.0169.2046.339039.2.550.000 |1.850.725,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2930.339093.2.715.000 |775.006,79 |
-
-|3100.13.392.0154.2930.339093.2.716.000 |44.620,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.0146.2900.339039.2.501.784 |80.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.452.0057.2770.339092.2.500.000 |577.910,66 |
-
-|Fundo Municipal de Cultura – FPC |
-
-|3101.13.392.0170.2369.339036.2.500.000 |1.800.000,00 |
-
-|3101.13.392.0170.2369.339039.2.500.000 |634.643,43 |
-
-|TOTAL DA SUPLEMENTAÇÃO |27.264.177,88 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.366.0168.2080.319011.2.540.000 | 209.900,00 |
+| 2200.12.361.0168.2080.319011.2.540.000 | 9.045.200,00 |
+| 2200.12.365.0169.2542.319011.2.540.000 | 5.745.000,00 |
+| 2200.12.361.0168.2046.339039.2.550.000 | 6.501.172,00 |
+| 2200.12.365.0169.2046.339039.2.550.000 | 1.850.725,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2930.339093.2.715.000 | 775.006,79 |
+| 3100.13.392.0154.2930.339093.2.716.000 | 44.620,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.0146.2900.339039.2.501.784 | 80.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.452.0057.2770.339092.2.500.000 | 577.910,66 |
+| Fundo Municipal de Cultura – FPC |  |
+| 3101.13.392.0170.2369.339036.2.500.000 | 1.800.000,00 |
+| 3101.13.392.0170.2369.339039.2.500.000 | 634.643,43 |
+| TOTAL DA SUPLEMENTAÇÃO | 27.264.177,88 |
 
 ANEXO II
 

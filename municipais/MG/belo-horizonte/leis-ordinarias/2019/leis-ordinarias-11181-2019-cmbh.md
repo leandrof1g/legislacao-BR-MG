@@ -2992,13 +2992,11 @@ a) o seu atendimento na área parcelada como um todo, calculada a partir da áre
 
 b) a observância dos seguintes limites mínimos:
 
-|Área do lote |Limite mínimo de TP |
-
-|Até 360m² |10% |
-
-|Maior que 360m², limitada a 1.000m² |20% |
-
-|Maior que 1.000m² |30% |
+| Área do lote | Limite mínimo de TP |
+| --- | --- |
+| Até 360m² | 10% |
+| Maior que 360m², limitada a 1.000m² | 20% |
+| Maior que 1.000m² | 30% |
 
 **§ 1º** - Poderão ser considerados, para fins de aferição da área média prevista no inciso I do caput deste artigo, os lotes inseridos em PA-1, bem como os lotes destinados a espaços livres de uso público, reservas particulares ecológicas e equipamentos urbanos e comunitários em qualquer zoneamento.
 

@@ -38,9 +38,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 I - Dias comemorativos de setembro:
 
-|DATA |COMEMORAÇÃO |
-
-|28/9 |Dia Municipal de Conscientização sobre a Síndrome de Arnold-Chiari |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 28/9 | Dia Municipal de Conscientização sobre a Síndrome de Arnold-Chiari |
 
 .”.
 

@@ -32,19 +32,17 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 3º** - O Quadro de Cargos de Provimento em Comissão da Administração Direta do Poder Executivo e de Correlação com os Cargos Anteriores, constante do Anexo I da Lei nº 8.146/00, fica acrescido das seguintes linhas:
 
-|CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|Encarregado de Serviço de Controle de Zoonose |30 |(NR) |
-
-|Coordenador de Serviço de Controle de Zoonose |10 |(NR) |
+| CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |  |
+| --- | --- | --- |
+| Encarregado de Serviço de Controle de Zoonose | 30 | (NR) |
+| Coordenador de Serviço de Controle de Zoonose | 10 | (NR) |
 
 **Art. 4º** - O Quadro de Exigências para Provimento, constante do Anexo IV da Lei nº 8.146/00, fica acrescido das seguintes linhas:
 
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|Encarregado de Serviço de Controle de Zoonose |conhecimentos específicos |(NR) |
-
-|Coordenador de Serviço de Controle de Zoonose |conhecimentos específicos |(NR) |
+| CARGO | REQUISITO PARA PROVIMENTO |  |
+| --- | --- | --- |
+| Encarregado de Serviço de Controle de Zoonose | conhecimentos específicos | (NR) |
+| Coordenador de Serviço de Controle de Zoonose | conhecimentos específicos | (NR) |
 
 **Art. 5º** - Fica o Executivo autorizado a abrir crédito adicional no Orçamento vigente, no valor de R$84.875,30 (oitenta e quatro mil, oitocentos e setenta e cinco reais e trinta centavos), conforme o disposto nos arts. 40 a 46 da Lei nº 4.320, de 17 de março de 1964.
 

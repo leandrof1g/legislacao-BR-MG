@@ -502,23 +502,16 @@ I.1 - AVALIAÇÃO DO CUMPRIMENTO DAS METAS FISCAIS RELATIVAS AO ANO ANTERIOR (Ar
 
 A avaliação dos valores constantes do Anexo de Metas Fiscais, previstas na Lei nº 9.963, de 25 de agosto de 2010, com o efetivamente realizado em 2011, é a seguinte:
 
-|Especificação |Metas Previstas na LDO/2011 |Valores Realizados - Relatório de |
-
-| | |Gestão Fiscal |
-
-|Receita Fiscal |5.476.594 |6.044.343 |
-
-|Despesa Fiscal |5.731.755 |5.981.003 |
-
-|Resultado Primário |-255.161 |63.340 |
-
-|Resultado Nominal |437.882 |564.530 |
-
-|Dívida Consolidada |2.143.072 |2.371.618 |
-
-|Deduções |148.605 |537.794 |
-
-|Dívida Consolidada Líquida |1.994.467 |1.833.824 |
+| Especificação | Metas Previstas na LDO/2011 | Valores Realizados - Relatório de |
+| --- | --- | --- |
+|  |  | Gestão Fiscal |
+| Receita Fiscal | 5.476.594 | 6.044.343 |
+| Despesa Fiscal | 5.731.755 | 5.981.003 |
+| Resultado Primário | -255.161 | 63.340 |
+| Resultado Nominal | 437.882 | 564.530 |
+| Dívida Consolidada | 2.143.072 | 2.371.618 |
+| Deduções | 148.605 | 537.794 |
+| Dívida Consolidada Líquida | 1.994.467 | 1.833.824 |
 
 Primeiramente, verificamos que o valor da receita fiscal efetivamente arrecadada foi 10% superior à receita prevista na Lei de Diretrizes Orçamentárias para 2011, tendo em vista o expressivo crescimento de 16,06% das receitas tributárias em relação à arrecadação de 2010. Esse desempenho é superior à variação acumulada, em 2011, dos principais indicadores econômicos apurados e aos previstos quando da elaboração da mesma para 2011.
 
@@ -528,131 +521,77 @@ I.2 - DEMONSTRATIVO DAS METAS ANUAIS
 
 Demonstrativos dos Resultados Primário e Nominal (Valores Correntes, em R$1.000,00)
 
-| |2010 |2011 |2012 |2013 |2014 |2015 |
-
-|Receitas Correntes |5.135.676 |5.987.628 |6.937.466 |7.478.780 |8.183.704 |9.014.657 |
-
-|Receitas de Capital |193.892 |442.216 |1.229.474 |1.131.774 |1.079.038 |735.688 |
-
-|Receitas Intraorçamentárias |277.199 |298.015 |352.949 |378.202 |407.298 |438.310 |
-
-|Subtotal |5.606.767 |6.727.859 |8.519.889 |8.988.756 |9.670.040 |10.188.655 |
-
-|(-) Receita de Op. Crédito |123.620 |269.766 |828.379 |788.094 |635.691 |200.991 |
-
-|(-) Rendimentos Aplic. Financeiras |41.112 |65.684 |75.865 |81.818 |90.630 |99.917 |
-
-|(-) Alienação de Bens |1.452 |56.572 |30.000 |30.000 |30.000 |30.000 |
-
-|(-) Dedução para o FUNDEB |257.321 |291.493 |337.887 |364.403 |403.650 |445.014 |
-
-|Subtotal |423.505 |683.515 |1.272.131 |1.264.315 |1.159.971 |775.922 |
-
-|TOTAL DAS RECEITAS FISCAIS |5.183.262 |6.044.344 |7.247.758 |7.724.441 |8.510.069 |9.412.733 |
-
-|Despesas Correntes |4.171.329 |4.709.850 |5.273.501 |5.662.453 |6.100.695 |6.675.360 |
-
-|(-) Juros/Encargos Dívida |68.399 |115.690 |100.152 |137.503 |167.084 |214.443 |
-
-|Subtotal |4.102.930 |4.594.160 |5.173.349 |5.524.950 |5.933.611 |6.460.917 |
-
-|Despesas de Capital |725.950 |1.021.670 |2.054.616 |2.065.231 |2.147.128 |2.001.014 |
-
-|(-) Amortização de Dívida |134.968 |207.043 |186.135 |312.609 |299.221 |340.085 |
-
-|Subtotal |590.982,00 |814.627,00 |1.868.481 |1.752.622 |1.847.907 |1.660.929 |
-
-|Despesas Intraorçamentárias |274.109 |305.926 |349.419 |374.420 |403.225 |433.927 |
-
-|TOTAL DESPESAS FISCAIS |4.968.021 |5.714.713 |7.391.249 |7.651.992 |8.184.743 |8.555.773 |
-
-|RESULTADO PRIMÁRIO |215.241 |329.631 |-143.491 |72.449 |325.326 |856.960 |
-
-|RESULTADO NOMINAL |2010 |2011 |2012 |2013 |2014 |2015 |
-
-|I - DÍVIDA CONSOLIDADA |1.543.583 |2.371.618 |3.123.136 |3.737.515 |4.147.738 |4.179.289 |
-
-|(-) Disponibilidade de Caixa |329.555 |286.167 |299.044 |312.501 |326.564 |341.259 |
-
-|(-) Aplicações Financeiras |192.397 |291.911 |305.047 |318.774 |333.119 |351.440 |
-
-|(-) Demais Ativos Financeiros |211.903 |433.329 |452.829 |473.206 |494.500 |516.753 |
-
-|(+) Restos a Pagar Processados |459.566 |473.613 |494.925 |517.197 |540.471 |564.792 |
-
-|II - DÍVIDA FISCAL LÍQUIDA |1.269.294 |1.833.824 |2.561.141 |3.150.231 |3.534.026 |3.534.629 |
-
-|RESULTADO NOMINAL |-203.537 |564.530 |727.317 |589.090 |383.795 |603 |
+|  | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Receitas Correntes | 5.135.676 | 5.987.628 | 6.937.466 | 7.478.780 | 8.183.704 | 9.014.657 |
+| Receitas de Capital | 193.892 | 442.216 | 1.229.474 | 1.131.774 | 1.079.038 | 735.688 |
+| Receitas Intraorçamentárias | 277.199 | 298.015 | 352.949 | 378.202 | 407.298 | 438.310 |
+| Subtotal | 5.606.767 | 6.727.859 | 8.519.889 | 8.988.756 | 9.670.040 | 10.188.655 |
+| (-) Receita de Op. Crédito | 123.620 | 269.766 | 828.379 | 788.094 | 635.691 | 200.991 |
+| (-) Rendimentos Aplic. Financeiras | 41.112 | 65.684 | 75.865 | 81.818 | 90.630 | 99.917 |
+| (-) Alienação de Bens | 1.452 | 56.572 | 30.000 | 30.000 | 30.000 | 30.000 |
+| (-) Dedução para o FUNDEB | 257.321 | 291.493 | 337.887 | 364.403 | 403.650 | 445.014 |
+| Subtotal | 423.505 | 683.515 | 1.272.131 | 1.264.315 | 1.159.971 | 775.922 |
+| TOTAL DAS RECEITAS FISCAIS | 5.183.262 | 6.044.344 | 7.247.758 | 7.724.441 | 8.510.069 | 9.412.733 |
+| Despesas Correntes | 4.171.329 | 4.709.850 | 5.273.501 | 5.662.453 | 6.100.695 | 6.675.360 |
+| (-) Juros/Encargos Dívida | 68.399 | 115.690 | 100.152 | 137.503 | 167.084 | 214.443 |
+| Subtotal | 4.102.930 | 4.594.160 | 5.173.349 | 5.524.950 | 5.933.611 | 6.460.917 |
+| Despesas de Capital | 725.950 | 1.021.670 | 2.054.616 | 2.065.231 | 2.147.128 | 2.001.014 |
+| (-) Amortização de Dívida | 134.968 | 207.043 | 186.135 | 312.609 | 299.221 | 340.085 |
+| Subtotal | 590.982,00 | 814.627,00 | 1.868.481 | 1.752.622 | 1.847.907 | 1.660.929 |
+| Despesas Intraorçamentárias | 274.109 | 305.926 | 349.419 | 374.420 | 403.225 | 433.927 |
+| TOTAL DESPESAS FISCAIS | 4.968.021 | 5.714.713 | 7.391.249 | 7.651.992 | 8.184.743 | 8.555.773 |
+| RESULTADO PRIMÁRIO | 215.241 | 329.631 | -143.491 | 72.449 | 325.326 | 856.960 |
+| RESULTADO NOMINAL | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
+| I - DÍVIDA CONSOLIDADA | 1.543.583 | 2.371.618 | 3.123.136 | 3.737.515 | 4.147.738 | 4.179.289 |
+| (-) Disponibilidade de Caixa | 329.555 | 286.167 | 299.044 | 312.501 | 326.564 | 341.259 |
+| (-) Aplicações Financeiras | 192.397 | 291.911 | 305.047 | 318.774 | 333.119 | 351.440 |
+| (-) Demais Ativos Financeiros | 211.903 | 433.329 | 452.829 | 473.206 | 494.500 | 516.753 |
+| (+) Restos a Pagar Processados | 459.566 | 473.613 | 494.925 | 517.197 | 540.471 | 564.792 |
+| II - DÍVIDA FISCAL LÍQUIDA | 1.269.294 | 1.833.824 | 2.561.141 | 3.150.231 | 3.534.026 | 3.534.629 |
+| RESULTADO NOMINAL | -203.537 | 564.530 | 727.317 | 589.090 | 383.795 | 603 |
 
 Demonstrativos dos Resultados Primário e Nominal (Preços Médios de 2012, em R$1.000,00)
 
-| |2010 |2011 |2012 |2013 |2014 |2015 |
-
-|Receitas Correntes |5.759.368 |6.324.356 |6.937.466 |7.149.888 |7.486.902 |7.891.964 |
-
-|Receitas de Capital |217.438 |467.085 |1.229.474 |1.082.003 |987.163 |644.065 |
-
-|Receitas Intraorçamentárias |310.863 |314.774 |352.949 |361.570 |372.618 |383.723 |
-
-|Subtotal |6.287.669 |7.106.215 |8.519.889 |8.593.461 |8.846.683 |8.919.752 |
-
-|(-) Receita de Op. Crédito |138.633 |284.937 |828.379 |753.436 |581.565 |175.959 |
-
-|(-) Rendimentos Aplic. Financeiras |46.105 |69.378 |75.865 |78.220 |82.913 |87.473 |
-
-|(-) Alienação de Bens |1.628 |59.754 |30.000 |28.681 |27.446 |26.264 |
-
-|(-) Dedução para o FUNDEB |288.571 |307.886 |337.887 |348.378 |369.281 |389.591 |
-
-|Subtotal |474.937 |721.955 |1.272.131 |1.208.715 |1.061.205 |679.287 |
-
-|TOTAL DAS RECEITAS FISCAIS |5.812.732 |6.384.260 |7.247.758 |7.384.746 |7.785.478 |8.240.465 |
-
-|Despesas Correntes |4.677.908 |4.974.719 |5.273.501 |5.413.438 |5.581.250 |5.844.006 |
-
-|(-) Juros/Encargos Dívida |76.706 |122.196 |100.152 |131.456 |152.857 |187.736 |
-
-|Subtotal |4.601.202 |4.852.523 |5.173.349 |5.281.982 |5.428.393 |5.656.270 |
-
-|Despesas de Capital |814.112 |1.079.126 |2.054.616 |1.974.409 |1.964.311 |1.751.807 |
-
-|(-) Amortização de Dívida |151.359 |218.687 |186.135 |298.862 |273.744 |297.730 |
-
-|Subtotal |662.753 |860.439 |1.868.481 |1.675.547 |1.690.567 |1.454.077 |
-
-|Despesas Intraorçamentárias |307.398 |323.130 |349.419 |357.954 |368.892 |379.886 |
-
-|TOTAL DESPESAS FISCAIS |5.571.353 |6.036.092 |7.391.249 |7.315.483 |7.487.852 |7.490.233 |
-
-|RESULTADO PRIMÁRIO | | 348.168 | -143.491 | | | |
-
-| |241.379 | | |69.263 |297.626 |750.232 |
-
-|RESULTADO NOMINAL |2010 |2011 |2012 |2013 |2014 |2015 |
-
-|I - DÍVIDA CONSOLIDADA |1.731.040 |2.504.992 |3.123.136 |3.573.152 |3.794.579 |3.658.797 |
-
-|(-) Disponibilidade de Caixa |369.578 |302.260 |299.044 |298.758 |298.758 |298.758 |
-
-|(-) Aplicações Financeiras |215.762 |308.327 |305.047 |304.755 |304.755 |307.672 |
-
-|(-) Demais Ativos Financeiros |237.637 |457.698 |452.829 |452.396 |452.396 |452.396 |
-
-|(+) Restos a Pagar Processados |515.377 |500.247 |494.925 |494.452 |494.452 |494.452 |
-
-|II - DÍVIDA FISCAL LÍQUIDA |1.423.440 |1.936.954 |2.561.141 |3.011.695 |3.233.122 |3.094.423 |
-
-|RESULTADO NOMINAL |-228.256 |596.278 |727.318 |563.184 |351.117 |528 |
+|  | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Receitas Correntes | 5.759.368 | 6.324.356 | 6.937.466 | 7.149.888 | 7.486.902 | 7.891.964 |
+| Receitas de Capital | 217.438 | 467.085 | 1.229.474 | 1.082.003 | 987.163 | 644.065 |
+| Receitas Intraorçamentárias | 310.863 | 314.774 | 352.949 | 361.570 | 372.618 | 383.723 |
+| Subtotal | 6.287.669 | 7.106.215 | 8.519.889 | 8.593.461 | 8.846.683 | 8.919.752 |
+| (-) Receita de Op. Crédito | 138.633 | 284.937 | 828.379 | 753.436 | 581.565 | 175.959 |
+| (-) Rendimentos Aplic. Financeiras | 46.105 | 69.378 | 75.865 | 78.220 | 82.913 | 87.473 |
+| (-) Alienação de Bens | 1.628 | 59.754 | 30.000 | 28.681 | 27.446 | 26.264 |
+| (-) Dedução para o FUNDEB | 288.571 | 307.886 | 337.887 | 348.378 | 369.281 | 389.591 |
+| Subtotal | 474.937 | 721.955 | 1.272.131 | 1.208.715 | 1.061.205 | 679.287 |
+| TOTAL DAS RECEITAS FISCAIS | 5.812.732 | 6.384.260 | 7.247.758 | 7.384.746 | 7.785.478 | 8.240.465 |
+| Despesas Correntes | 4.677.908 | 4.974.719 | 5.273.501 | 5.413.438 | 5.581.250 | 5.844.006 |
+| (-) Juros/Encargos Dívida | 76.706 | 122.196 | 100.152 | 131.456 | 152.857 | 187.736 |
+| Subtotal | 4.601.202 | 4.852.523 | 5.173.349 | 5.281.982 | 5.428.393 | 5.656.270 |
+| Despesas de Capital | 814.112 | 1.079.126 | 2.054.616 | 1.974.409 | 1.964.311 | 1.751.807 |
+| (-) Amortização de Dívida | 151.359 | 218.687 | 186.135 | 298.862 | 273.744 | 297.730 |
+| Subtotal | 662.753 | 860.439 | 1.868.481 | 1.675.547 | 1.690.567 | 1.454.077 |
+| Despesas Intraorçamentárias | 307.398 | 323.130 | 349.419 | 357.954 | 368.892 | 379.886 |
+| TOTAL DESPESAS FISCAIS | 5.571.353 | 6.036.092 | 7.391.249 | 7.315.483 | 7.487.852 | 7.490.233 |
+| RESULTADO PRIMÁRIO |  | 348.168 | -143.491 |  |  |  |
+|  | 241.379 |  |  | 69.263 | 297.626 | 750.232 |
+| RESULTADO NOMINAL | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
+| I - DÍVIDA CONSOLIDADA | 1.731.040 | 2.504.992 | 3.123.136 | 3.573.152 | 3.794.579 | 3.658.797 |
+| (-) Disponibilidade de Caixa | 369.578 | 302.260 | 299.044 | 298.758 | 298.758 | 298.758 |
+| (-) Aplicações Financeiras | 215.762 | 308.327 | 305.047 | 304.755 | 304.755 | 307.672 |
+| (-) Demais Ativos Financeiros | 237.637 | 457.698 | 452.829 | 452.396 | 452.396 | 452.396 |
+| (+) Restos a Pagar Processados | 515.377 | 500.247 | 494.925 | 494.452 | 494.452 | 494.452 |
+| II - DÍVIDA FISCAL LÍQUIDA | 1.423.440 | 1.936.954 | 2.561.141 | 3.011.695 | 3.233.122 | 3.094.423 |
+| RESULTADO NOMINAL | -228.256 | 596.278 | 727.318 | 563.184 | 351.117 | 528 |
 
 Em cumprimento ao disposto na Lei Complementar Federal n° 101/00, o Anexo de Metas Anuais da Lei de Diretrizes Orçamentárias para 2013 estabelece a meta de resultado primário para o exercício de 2013 e indica as metas para os exercícios de 2014 e 2015, que poderão ser revistas a cada exercício, havendo mudanças no cenário macroeconômico interno e externo.
 
 Adotou-se, para a definição das metas fiscais, o cenário econômico projetado no Projeto de Lei de Diretrizes Orçamentárias da União para 2013, a quem compete constitucionalmente a definição de políticas macroeconômicas, conforme a tabela a seguir.
 
-|Variáveis |2012 |2013 |2014 |2015 |
-
-|Crescimento PIB |4,5% |5,5% |6,0% |5,5% |
-
-|Inflação |4,7% |4,5% |4,5% |4,5% |
+| Variáveis | 2012 | 2013 | 2014 | 2015 |
+| --- | --- | --- | --- | --- |
+| Crescimento PIB | 4,5% | 5,5% | 6,0% | 5,5% |
+| Inflação | 4,7% | 4,5% | 4,5% | 4,5% |
 
 Para a execução da projeção da receita para os exercícios de 2012 a 2015, foram aplicados os parâmetros acima indicados, a partir de uma reestimativa da receita fixada para o exercício de 2012, elaborada considerando-se a efetiva arrecadação até março deste ano e uma projeção baseada no comparativo com a execução de anos anteriores.
 
@@ -668,169 +607,97 @@ I.3 - EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO DO MUNICÍPIO DE BH - PERÍODO 2009/201
 
 Valores em R$
 
-|DISCRIMINAÇÃO |2009 |2010 |2011 |
-
-|I - Variações Ativas - PBH |8.491.026.757,33 |9.565.223.204,41 |14.055.781.310,43 |
-
-|I.1 - Resultantes da Execução |5.087.411.639,28 |5.622.989.683,00 |6.777.885.739,45 |
-
-|Orçamentária | | | |
-
-|1 - Receita Orçamentária |4.825.925.739,42 |5.349.446.381,93 |6.436.365.281,92 |
-
-|Receitas Correntes |4.444.966.017,36 |5.135.676.497,17 |5.987.627.938,83 |
-
-|Receitas de Capital |350.493.477,07 |193.891.579,12 |442.215.744,12 |
-
-|Receita Intraorçamentária Corrente |253.952.805,80 |277.199.051,38 |298.014.623,78 |
-
-|Dedução de Receitas para FUNDEB |-223.486.560,81 |-257.320.745,74 |-291.493.024,81 |
-
-|2 - Mutações Patrimoniais |261.485.899,86 |273.543.301,07 |341.520.457,53 |
-
-|I.2 - Independentes da Execução |3.403.615.118,05 |3.942.233.521,41 |7.277.895.570,98 |
-
-|Orçamentária | | | |
-
-|II - Variações Ativas - Câmara |112.635.618,65 |105.384.387,06 |109.734.088,01 |
-
-|Resultado Patrimonial do Exercício | |2.799.208.185,50 |6.254.995.653,59 |
-
-|III - Total das Variações Ativas |8.603.662.375,98 |12.469.815.776,97 |20.420.511.052,03 |
-
-|I - Variações Passivas - PBH |8.091.506.005,73 |12.359.364.293,62 |20.296.149.186,93 |
-
-|I.1 - Resultantes da Execução |5.121.533.477,09 |5.441.947.684,41 |6.588.285.097,92 |
-
-|Orçamentária | | | |
-
-|1 - Despesa Orçamentária |4.746.148.011,03 |5.107.097.600,39 |5.999.427.532,95 |
-
-|Despesas Correntes |3.809.201.348,32 |4.357.539.234,04 |4.952.011.007,14 |
-
-|Despesas de Capital |936.946.662,71 |749.558.366,35 |1.047.416.525,81 |
-
-|2 - Mutações Patrimoniais |375.385.466,06 |334.850.084,02 |588.857.564,97 |
-
-|I.2 - Independentes da Execução |2.969.972.528,64 |6.917.416.609,21 |13.707.864.089,01 |
-
-|Orçamentária | | | |
-
-|II - Variações Passivas - Câmara |98.767.955,22 |110.451.483,35 |124.361.865,10 |
-
-|Resultado Patrimonial do Exercício |413.388.415,03 | | |
-
-|III - Total das Variações Passivas |8.603.662.375,98 |12.469.815.776,97 |20.420.511.052,03 |
+| DISCRIMINAÇÃO | 2009 | 2010 | 2011 |
+| --- | --- | --- | --- |
+| I - Variações Ativas - PBH | 8.491.026.757,33 | 9.565.223.204,41 | 14.055.781.310,43 |
+| I.1 - Resultantes da Execução | 5.087.411.639,28 | 5.622.989.683,00 | 6.777.885.739,45 |
+| Orçamentária |  |  |  |
+| 1 - Receita Orçamentária | 4.825.925.739,42 | 5.349.446.381,93 | 6.436.365.281,92 |
+| Receitas Correntes | 4.444.966.017,36 | 5.135.676.497,17 | 5.987.627.938,83 |
+| Receitas de Capital | 350.493.477,07 | 193.891.579,12 | 442.215.744,12 |
+| Receita Intraorçamentária Corrente | 253.952.805,80 | 277.199.051,38 | 298.014.623,78 |
+| Dedução de Receitas para FUNDEB | -223.486.560,81 | -257.320.745,74 | -291.493.024,81 |
+| 2 - Mutações Patrimoniais | 261.485.899,86 | 273.543.301,07 | 341.520.457,53 |
+| I.2 - Independentes da Execução | 3.403.615.118,05 | 3.942.233.521,41 | 7.277.895.570,98 |
+| Orçamentária |  |  |  |
+| II - Variações Ativas - Câmara | 112.635.618,65 | 105.384.387,06 | 109.734.088,01 |
+| Resultado Patrimonial do Exercício |  | 2.799.208.185,50 | 6.254.995.653,59 |
+| III - Total das Variações Ativas | 8.603.662.375,98 | 12.469.815.776,97 | 20.420.511.052,03 |
+| I - Variações Passivas - PBH | 8.091.506.005,73 | 12.359.364.293,62 | 20.296.149.186,93 |
+| I.1 - Resultantes da Execução | 5.121.533.477,09 | 5.441.947.684,41 | 6.588.285.097,92 |
+| Orçamentária |  |  |  |
+| 1 - Despesa Orçamentária | 4.746.148.011,03 | 5.107.097.600,39 | 5.999.427.532,95 |
+| Despesas Correntes | 3.809.201.348,32 | 4.357.539.234,04 | 4.952.011.007,14 |
+| Despesas de Capital | 936.946.662,71 | 749.558.366,35 | 1.047.416.525,81 |
+| 2 - Mutações Patrimoniais | 375.385.466,06 | 334.850.084,02 | 588.857.564,97 |
+| I.2 - Independentes da Execução | 2.969.972.528,64 | 6.917.416.609,21 | 13.707.864.089,01 |
+| Orçamentária |  |  |  |
+| II - Variações Passivas - Câmara | 98.767.955,22 | 110.451.483,35 | 124.361.865,10 |
+| Resultado Patrimonial do Exercício | 413.388.415,03 |  |  |
+| III - Total das Variações Passivas | 8.603.662.375,98 | 12.469.815.776,97 | 20.420.511.052,03 |
 
 Demonstrativo da Origem e da Aplicação dos Recursos Obtidos com a Alienação de Ativos
 
 Valores em R$
 
-|Receitas |2009 |2010 |2011 |
-
-|Alienação de Bens |226.700,00 |1.451.643,72 |56.572.420,99 |
-
-|Alienação de Bens Móveis |226.700,00 |1.331.264,60 |20,00 |
-
-|Alienação de Bens Imóveis |- |120.379,12 |56.572.400,99 |
-
-|Despesas |2009 |2010 |2011 |
-
-|Empenhada |226.700,00 |1.451.643,72 |56.572.420,99 |
-
-|Liquidada |226.700,00 |1.451.643,72 |56.572.420,99 |
-
-|Paga |226.700,00 |1.451.643,72 |56.572.420,99 |
-
-|Saldo Financeiro |2009 |2010 |2011 |
-
-| |0,00 |0,00 |0,00 |
+| Receitas | 2009 | 2010 | 2011 |
+| --- | --- | --- | --- |
+| Alienação de Bens | 226.700,00 | 1.451.643,72 | 56.572.420,99 |
+| Alienação de Bens Móveis | 226.700,00 | 1.331.264,60 | 20,00 |
+| Alienação de Bens Imóveis | - | 120.379,12 | 56.572.400,99 |
+| Despesas | 2009 | 2010 | 2011 |
+| Empenhada | 226.700,00 | 1.451.643,72 | 56.572.420,99 |
+| Liquidada | 226.700,00 | 1.451.643,72 | 56.572.420,99 |
+| Paga | 226.700,00 | 1.451.643,72 | 56.572.420,99 |
+| Saldo Financeiro | 2009 | 2010 | 2011 |
+|  | 0,00 | 0,00 | 0,00 |
 
 I. 4 - AVALIAÇÕES DA SITUAÇÃO FINANCEIRA E ATUARIAL DO REGIME PRÓPRIO DE PREVIDÊNCIA (Art. 4º, § 2º, inciso IV, alínea "a", da Lei Complementar Federal n° 101/00)
 
 ÍNDICE
 
-|I. OBJETIVO |3 |
-
-| | |
-
-|II. PARÂMETROS TÉCNICOS ATUARIAIS |4 |
-
-| | |
-
-|III. DESCRIÇÃO DAS COBERTURAS DO PLANO DE BENEFÍCIOS |5 |
-
-| | |
-
-|1. Aposentadoria |5 |
-
-| | |
-
-|2. Aposentadoria por Invalidez |7 |
-
-| | |
-
-|3. Licença para tratamento de saúde ou por motivo de acidente em serviço |7 |
-
-| | |
-
-|4. Abono Família |7 |
-
-| | |
-
-|5. Licença Maternidade |7 |
-
-| | |
-
-|6. Pensão por Morte |7 |
-
-| | |
-
-|7. Auxílio Reclusão |8 |
-
-| | |
-
-|IV. BASE DE DADOS |9 |
-
-| | |
-
-|1. Servidores Ativos |9 |
-
-| | |
-
-|2. Servidores Aposentados |9 |
-
-| | |
-
-|V. PERFIL ESTATÍSTICO |10 |
-
-| | |
-
-|1. Dos Servidores Ativos |11 |
-
-| | |
-
-|2. Dos Aposentados |15 |
-
-| | |
-
-|3. Dos Pensionistas |16 |
-
-| | |
-
-|VI. PLANO DE CUSTEIO |17 |
-
-| | |
-
-|VII. ANÁLISE COMPARATIVA |19 |
-
-| | |
-
-|VIII. PARECER ATUARIAL |21 |
-
-| | |
-
-|IX. ENCERRAMENTO |23 |
+| I. OBJETIVO | 3 |
+| --- | --- |
+|  |  |
+| II. PARÂMETROS TÉCNICOS ATUARIAIS | 4 |
+|  |  |
+| III. DESCRIÇÃO DAS COBERTURAS DO PLANO DE BENEFÍCIOS | 5 |
+|  |  |
+| 1. Aposentadoria | 5 |
+|  |  |
+| 2. Aposentadoria por Invalidez | 7 |
+|  |  |
+| 3. Licença para tratamento de saúde ou por motivo de acidente em serviço | 7 |
+|  |  |
+| 4. Abono Família | 7 |
+|  |  |
+| 5. Licença Maternidade | 7 |
+|  |  |
+| 6. Pensão por Morte | 7 |
+|  |  |
+| 7. Auxílio Reclusão | 8 |
+|  |  |
+| IV. BASE DE DADOS | 9 |
+|  |  |
+| 1. Servidores Ativos | 9 |
+|  |  |
+| 2. Servidores Aposentados | 9 |
+|  |  |
+| V. PERFIL ESTATÍSTICO | 10 |
+|  |  |
+| 1. Dos Servidores Ativos | 11 |
+|  |  |
+| 2. Dos Aposentados | 15 |
+|  |  |
+| 3. Dos Pensionistas | 16 |
+|  |  |
+| VI. PLANO DE CUSTEIO | 17 |
+|  |  |
+| VII. ANÁLISE COMPARATIVA | 19 |
+|  |  |
+| VIII. PARECER ATUARIAL | 21 |
+|  |  |
+| IX. ENCERRAMENTO | 23 |
 
 I. OBJETIVO
 
@@ -1016,7 +883,7 @@ Verifica-se, ante os dados dispostos, que os ativos representam a maioria de ser
 
 Gráfico 1 – Quantidade de Participantes
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -1030,7 +897,7 @@ O perfil estatístico do grupo de ativos do Município de Belo Horizonte é apre
 
 Gráfico 2 – Servidores Ativos por Sexo e Carreira
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -1042,13 +909,15 @@ Dentre os professores, 86,30% são mulheres. Significa dizer que existe apenas u
 
 Gráfico 3 – Servidores Ativos por Faixa Etária
 
-[pic] Fonte: Base de dados da Prefeitura
+*[imagem no documento original — ver `fonte_texto`]*
+
+Fonte: Base de dados da Prefeitura
 
 Verifica-se que a maioria dos servidores ativos se encontra na faixa etária entre 46 a 50 anos. Observa-se, ainda, que não há servidores com idade acima de 70 anos.
 
 Gráfico 4 – Servidores Ativos por Tempo de Serviço na Prefeitura
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -1058,7 +927,7 @@ O gráfico a seguir discrimina as estatísticas relacionadas à remuneração do
 
 Gráfico 5 – Servidores Ativos por Faixa de Remuneração
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -1070,31 +939,23 @@ Tabela 2 - Servidores Ativos
 
 Valores em R$
 
-| |Sexo | |
-
-|Discriminação | |Total |
-
-| |Feminino |Masculino | |
-
-|População |22.259 |7.776 |30.035 |
-
-|Idade média atual |44,08 |41,08 |43,30 |
-
-|Idade média de admissão no serviço público | | | |
-
-| |31,78 |29,68 |31,24 |
-
-|Salário médio | | | |
-
-| |2.674,50 |2.721,67 |2.686,72 |
-
-|Folha Mensal |59.531.793,74 |21.163.719,43 |80.695.513,17 |
+|  | Sexo |  |  |
+| --- | --- | --- | --- |
+| Discriminação |  | Total |  |
+|  | Feminino | Masculino |  |
+| População | 22.259 | 7.776 | 30.035 |
+| Idade média atual | 44,08 | 41,08 | 43,30 |
+| Idade média de admissão no serviço público |  |  |  |
+|  | 31,78 | 29,68 | 31,24 |
+| Salário médio |  |  |  |
+|  | 2.674,50 | 2.721,67 | 2.686,72 |
+| Folha Mensal | 59.531.793,74 | 21.163.719,43 | 80.695.513,17 |
 
 Fonte: Base de dados da Prefeitura
 
 Gráfico 6 – Servidores Ativos por Tempo para Aposentação
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 As expectativas de aposentação encontram-se distribuídas nas próximas duas décadas, quando dois terços dos atuais ativos preencherão os requisitos.
 
@@ -1106,19 +967,14 @@ Tabela 3 - Servidores Aposentados
 
 Valores em R$
 
-| |Sexo | |
-
-|Discriminação | |Total |
-
-| |Feminino |Masculino | |
-
-|População |879 |138 |1.017 |
-
-|Idade média atual |63,45 |70,38 |65,35 |
-
-|Benefício médio |2.883,14 |3.003,01 |2.915,98 |
-
-|Folha Mensal |21.127.629,49 |8.303.328,69 |29.430.958,18 |
+|  | Sexo |  |  |
+| --- | --- | --- | --- |
+| Discriminação |  | Total |  |
+|  | Feminino | Masculino |  |
+| População | 879 | 138 | 1.017 |
+| Idade média atual | 63,45 | 70,38 | 65,35 |
+| Benefício médio | 2.883,14 | 3.003,01 | 2.915,98 |
+| Folha Mensal | 21.127.629,49 | 8.303.328,69 | 29.430.958,18 |
 
 Fonte: Base de dados da Prefeitura
 
@@ -1128,7 +984,7 @@ Elas têm benefício médio de valor inferior, correspondente a 96% do valor con
 
 Gráfico 7 – Aposentados por Valor de Benefício
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados da Prefeitura
 
@@ -1142,19 +998,14 @@ Tabela 4 - Pensionistas
 
 Valores em R$
 
-| |Sexo | |
-
-|Discriminação | |Total |
-
-| |Feminino |Masculino | |
-
-|População |2.433 |567 |3.000 |
-
-|Idade média atual |67,62 |45,39 |63,41 |
-
-|Benefício médio |1.740,95 |1.380,50 |1.672,82 |
-
-|Folha Mensal |4.235.719,88 |782.743,86 |5.018.463,74 |
+|  | Sexo |  |  |
+| --- | --- | --- | --- |
+| Discriminação |  | Total |  |
+|  | Feminino | Masculino |  |
+| População | 2.433 | 567 | 3.000 |
+| Idade média atual | 67,62 | 45,39 | 63,41 |
+| Benefício médio | 1.740,95 | 1.380,50 | 1.672,82 |
+| Folha Mensal | 4.235.719,88 | 782.743,86 | 5.018.463,74 |
 
 Fonte: Base de dados da Prefeitura
 
@@ -1186,35 +1037,22 @@ Tabela 6 - Reservas Técnicas
 
 Valores em R$
 
-|Discriminação |Valores |
-
-|Valor Presente dos Benefícios Futuros (aposentados) Valor Presente das Contribuições Futuras |3.990.803.126,85 |
-
-|(aposentados) Valor Presente dos Benefícios Futuros (pensionistas) Valor Presente das |85.444.438,49 |
-
-|Contribuições Futuras (pensionistas) |580.786.461,42 |
-
-| |11.276.421,62 |
-
-|Reserva Matemática de Benefícios Concedidos (RMBC) |4.474.868.728,16 |
-
-|Valor Presente dos Benefícios Futuros1 |7.364.818.467,56 |
-
-|Valor Presente das Contribuições Futuras2 |2.220.448.834,28 |
-
-|Reserva Matemática de Benefícios a Conceder (RMBaC) (1-2) |5.144.369.633,28 |
-
-|Reserva Matemática de Benefícios Concedidos (RMBC) Reserva Matemática de Benefícios a |4.474.868.728,16 |
-
-|Conceder (RMBaC) |5.144.369.633,28 |
-
-|Reservas Matemáticas (RMBaC + RMBC) 3 |9.619.238.361,44 |
-
-|Compensação Financeira a receber*4 |30.823.203,08 |
-
-|Ativo do Plano5 |0,00 |
-
-|Superávit/Déficit Técnico Atuarial (4+5-3) |-9.588.415.158,36 |
+| Discriminação | Valores |
+| --- | --- |
+| Valor Presente dos Benefícios Futuros (aposentados) Valor Presente das Contribuições Futuras | 3.990.803.126,85 |
+| (aposentados) Valor Presente dos Benefícios Futuros (pensionistas) Valor Presente das | 85.444.438,49 |
+| Contribuições Futuras (pensionistas) | 580.786.461,42 |
+|  | 11.276.421,62 |
+| Reserva Matemática de Benefícios Concedidos (RMBC) | 4.474.868.728,16 |
+| Valor Presente dos Benefícios Futuros1 | 7.364.818.467,56 |
+| Valor Presente das Contribuições Futuras2 | 2.220.448.834,28 |
+| Reserva Matemática de Benefícios a Conceder (RMBaC) (1-2) | 5.144.369.633,28 |
+| Reserva Matemática de Benefícios Concedidos (RMBC) Reserva Matemática de Benefícios a | 4.474.868.728,16 |
+| Conceder (RMBaC) | 5.144.369.633,28 |
+| Reservas Matemáticas (RMBaC + RMBC) 3 | 9.619.238.361,44 |
+| Compensação Financeira a receber*4 | 30.823.203,08 |
+| Ativo do Plano5 | 0,00 |
+| Superávit/Déficit Técnico Atuarial (4+5-3) | -9.588.415.158,36 |
 
 *Compensação Financeira para servidores ativos.
 
@@ -1234,27 +1072,18 @@ Ante os dados dispostos, observam-se grandes variações nos valores do salário
 
 Tabela 9 - Comparativo do Custo Normal
 
-| |Avaliação (*) |
-
-|CUSTO NORMAL | |
-
-| |Mar/10 |Mar/11 |Dez/11 |
-
-|Aposentadorias |26,02% |16,32% |31,00% |
-
-|Invalidez |1,88% |0,77% |2,59% |
-
-|Pensão de ativos |4,23% |1,22% |1,99% |
-
-|Pensão de assistidos |0,02% |2,63% |0,02% |
-
-|Auxílios |1,73% |1,18% |1,25% |
-
-|CUSTO ANUAL LÍQUIDO NORMAL |33,88% |22,12% |36,85% |
-
-|,Administração do Plano |2,00% |2,00% |2,00% |
-
-|CUSTO ANUAL NORMAL TOTAL |35,88% |24,12% |38,85% |
+|  | Avaliação (*) |  |  |
+| --- | --- | --- | --- |
+| CUSTO NORMAL |  |  |  |
+|  | Mar/10 | Mar/11 | Dez/11 |
+| Aposentadorias | 26,02% | 16,32% | 31,00% |
+| Invalidez | 1,88% | 0,77% | 2,59% |
+| Pensão de ativos | 4,23% | 1,22% | 1,99% |
+| Pensão de assistidos | 0,02% | 2,63% | 0,02% |
+| Auxílios | 1,73% | 1,18% | 1,25% |
+| CUSTO ANUAL LÍQUIDO NORMAL | 33,88% | 22,12% | 36,85% |
+| ,Administração do Plano | 2,00% | 2,00% | 2,00% |
+| CUSTO ANUAL NORMAL TOTAL | 35,88% | 24,12% | 38,85% |
 
 (*) correspondem às datas-base no mês de 11/2009, 12/2010 e 11/2011.
 
@@ -1428,83 +1257,46 @@ Atendendo o disposto na Lei 9.717, de 27/11/1998, Portaria 7.796 de 28/08/2000 e
 
 Classificação Contábil conforme Portaria MPS 95, de 06 de março de 2007
 
-|DEMONSTRATIVO DAS PROVISÕES MATEMÁTICAS - PLANO DE CUSTEIO ATUAL |
-
-|2.2.2.5.0.00.00 |PROVISÕES MATEMÁTICAS PREVIDENCIÁRIAS |R$ |10.407.139.560,70 |
-
-|2.2.2.5.1.00.00 |PROVISÕES PARA BENEFÍCIOS CONCEDIDOS |R$ |4.474.868.728,16 |
-
-|2.2.2.5.1.01.00 |Aposentadorias/Pensões/Outros Benefícios do Plano |R$ |4.571.589.588,27 |
-
-|2.2.2.5.1.02.00 |Contribuições do Ente (redutora) |R$ |- |
-
-|2.2.2.5.1.03.00 |Contribuições dos Servidores (redutora) |-R$ |85.444.438,49 |
-
-|2.2.2.5.1.03.01 |Ativos (redutora) |R$ |- |
-
-|2.2.2.5.1.03.02 |Inativos (redutora) |-R$ |85.444.438,49 |
-
-|2.2.2.5.1.04.00 |Contribuições dos Pensionistas (redutora) |-R$ |11.276.421,62 |
-
-|2.2.2.5.2.00.00 |PROVISÕES PARA BENEFÍCIOS A CONCEDER |R$ |5.932.270.832,54 |
-
-|2.2.2.5.2.01.00 |Aposentadorias/Pensões/Outros Benefícios do Plano |R$ |7.364.818.467,56 |
-
-| |para Geração Atual | | |
-
-|2.2.2.5.2.02.00 |Contribuições do Ente para Geração Atual |-R$ |1.432.547.635,02 |
-
-| |(redutora) | | |
-
-|2.2.2.5.2.03.00 |Contribuições dos servidores para a Geração Atual |R$ |- |
-
-| |(redutora) | | |
-
-|2.2.2.5.2.03.01 |Ativos (redutora) |-R$ |787.901.199,26 |
-
-|2.2.2.5.2.03.02 |Inativos (redutora) |R$ |- |
-
-|2.2.2.5.2.04.00 |Contribuições dos Pensionistas para a Geração |R$ |- |
-
-| |Atual (redutora) | | |
-
-|2.2.2.5.2.05.00 |Aposentadorias/Pensões/Outros Benefícios do Plano |R$ |- |
-
-| |para Geração Futura | | |
-
-|2.2.2.5.2.06.00 |Contribuições do Ente para a Geração Futura |R$ |- |
-
-| |(redutora) | | |
-
-|2.2.2.5.2.07.00 |Contribuições dos Servidores para a Geração Futura|R$ |- |
-
-| |(redutora) | | |
-
-|2.2.2.5.2.07.01 |Ativos (redutora) |R$ |- |
-
-|2.2.2.5.2.07.02 |Inativos (redutora) |R$ |- |
-
-|2.2.2.5.2.08.00 |Contribuições dos Pensionistas para a Geração |R$ |- |
-
-| |Futura (redutora) | | |
-
-|2.2.2.5.3.00.00 |PROVISÕES AMORTIZADAS (REDUTORA) |R$ |- |
-
-|2.2.2.5.3.01.00 |Serviço Passado (redutora) |R$ |- |
-
-|2.2.2.5.3.02.00 |Déficit Equacionado (redutora) |R$ |- |
-
-|2.2.2.5.9.00.00 |PROVISÕES ATUARIAIS PARA AJUSTES DO PLANO |R$ |- |
-
-|2.2.2.5.9.01.00 |Provisão Atuarial para Riscos não Expirados |R$ |- |
-
-|2.2.2.5.9.02.00 |Provisão Atuarial para Oscilação de Riscos |R$ | |
-
-|2.2.2.5.9.03.00 |Provisão Atuarial para Benefícios a Regularizar |R$ | |
-
-|2.2.2.5.9.04.00 |Provisão Atuarial para Contingências de Benefícios|R$ | |
-
-|2.2.2.5.9.05.00 |Outras Provisões Atuariais para Ajustes do Plano |R$ |- |
+| DEMONSTRATIVO DAS PROVISÕES MATEMÁTICAS - PLANO DE CUSTEIO ATUAL |  |  |  |
+| --- | --- | --- | --- |
+| 2.2.2.5.0.00.00 | PROVISÕES MATEMÁTICAS PREVIDENCIÁRIAS | R$ | 10.407.139.560,70 |
+| 2.2.2.5.1.00.00 | PROVISÕES PARA BENEFÍCIOS CONCEDIDOS | R$ | 4.474.868.728,16 |
+| 2.2.2.5.1.01.00 | Aposentadorias/Pensões/Outros Benefícios do Plano | R$ | 4.571.589.588,27 |
+| 2.2.2.5.1.02.00 | Contribuições do Ente (redutora) | R$ | - |
+| 2.2.2.5.1.03.00 | Contribuições dos Servidores (redutora) | -R$ | 85.444.438,49 |
+| 2.2.2.5.1.03.01 | Ativos (redutora) | R$ | - |
+| 2.2.2.5.1.03.02 | Inativos (redutora) | -R$ | 85.444.438,49 |
+| 2.2.2.5.1.04.00 | Contribuições dos Pensionistas (redutora) | -R$ | 11.276.421,62 |
+| 2.2.2.5.2.00.00 | PROVISÕES PARA BENEFÍCIOS A CONCEDER | R$ | 5.932.270.832,54 |
+| 2.2.2.5.2.01.00 | Aposentadorias/Pensões/Outros Benefícios do Plano | R$ | 7.364.818.467,56 |
+|  | para Geração Atual |  |  |
+| 2.2.2.5.2.02.00 | Contribuições do Ente para Geração Atual | -R$ | 1.432.547.635,02 |
+|  | (redutora) |  |  |
+| 2.2.2.5.2.03.00 | Contribuições dos servidores para a Geração Atual | R$ | - |
+|  | (redutora) |  |  |
+| 2.2.2.5.2.03.01 | Ativos (redutora) | -R$ | 787.901.199,26 |
+| 2.2.2.5.2.03.02 | Inativos (redutora) | R$ | - |
+| 2.2.2.5.2.04.00 | Contribuições dos Pensionistas para a Geração | R$ | - |
+|  | Atual (redutora) |  |  |
+| 2.2.2.5.2.05.00 | Aposentadorias/Pensões/Outros Benefícios do Plano | R$ | - |
+|  | para Geração Futura |  |  |
+| 2.2.2.5.2.06.00 | Contribuições do Ente para a Geração Futura | R$ | - |
+|  | (redutora) |  |  |
+| 2.2.2.5.2.07.00 | Contribuições dos Servidores para a Geração Futura | R$ | - |
+|  | (redutora) |  |  |
+| 2.2.2.5.2.07.01 | Ativos (redutora) | R$ | - |
+| 2.2.2.5.2.07.02 | Inativos (redutora) | R$ | - |
+| 2.2.2.5.2.08.00 | Contribuições dos Pensionistas para a Geração | R$ | - |
+|  | Futura (redutora) |  |  |
+| 2.2.2.5.3.00.00 | PROVISÕES AMORTIZADAS (REDUTORA) | R$ | - |
+| 2.2.2.5.3.01.00 | Serviço Passado (redutora) | R$ | - |
+| 2.2.2.5.3.02.00 | Déficit Equacionado (redutora) | R$ | - |
+| 2.2.2.5.9.00.00 | PROVISÕES ATUARIAIS PARA AJUSTES DO PLANO | R$ | - |
+| 2.2.2.5.9.01.00 | Provisão Atuarial para Riscos não Expirados | R$ | - |
+| 2.2.2.5.9.02.00 | Provisão Atuarial para Oscilação de Riscos | R$ |  |
+| 2.2.2.5.9.03.00 | Provisão Atuarial para Benefícios a Regularizar | R$ |  |
+| 2.2.2.5.9.04.00 | Provisão Atuarial para Contingências de Benefícios | R$ |  |
+| 2.2.2.5.9.05.00 | Outras Provisões Atuariais para Ajustes do Plano | R$ | - |
 
 Ivan Sant’Ana Ernandes
 
@@ -1516,167 +1308,88 @@ ANEXO III
 
 DEMONSTRATIVO DA PROJEÇÃO ATUARIAL DO RPPS - BH
 
-| |Receitas |Despesas |Resultado |Saldo Financeiro Do |
-
-| |Previdenciárias |Previdenciárias |Previdenciário |Exercício |
-
-|ANO | | | | |
-
-| |Valor |Valor |Valor |Valor (d) = (d Exerc. |
-
-| |(a) |(b) |(c) = (a-b) |Anterior) + (c) |
-
-|2011 |431.542.792,09 |436.074.321,58 |(4.531.529,49) |(4.531.529,49) |
-
-|2012 |256.793.687,68 |597.079.185,93 |(340.285.498,25) |(344.817.027,74) |
-
-|2013 |233.497.547,62 |578.458.807,78 |(344.961.260,16) |(689.778.287,90) |
-
-|2014 |211.842.548,22 |559.721.840,35 |(347.879.292,13) |(1.037.657.580,03) |
-
-|2015 |189.800.891,88 |546.830.220,26 |(357.029.328,38) |(1.394.686.908,41) |
-
-|2016 |167.329.511,17 |539.633.573,76 |(372.304.062,59) |(1.766.990.971,00) |
-
-|2017 |148.504.839,80 |525.468.716,49 |(376.963.876,69) |(2.143.954.847,69) |
-
-|2018 |131.388.583,46 |510.100.358,18 |(378.711.774,72) |(2.522.666.622,41) |
-
-|2019 |116.166.442,35 |492.818.614,25 |(376.652.171,90) |(2.899.318.794,31) |
-
-|2020 |102.545.617,65 |474.309.061,04 |(371.763.443,39) |(3.271.082.237,70) |
-
-|2021 |89.678.005,99 |457.003.099,98 |(367.325.093,99) |(3.638.407.331,69) |
-
-|2022 |78.745.467,64 |437.153.216,37 |(358.407.748,73) |(3.996.815.080,42) |
-
-|2023 |69.010.628,93 |416.866.503,28 |(347.855.874,35) |(4.344.670.954,77) |
-
-|2024 |60.556.865,31 |395.726.054,30 |(335.169.188,99) |(4.679.840.143,76) |
-
-|2025 |52.858.076,85 |375.176.722,12 |(322.318.645,27) |(5.002.158.789,03) |
-
-|2026 |45.745.473,79 |355.579.777,29 |(309.834.303,50) |(5.311.993.092,53) |
-
-|2027 |40.643.584,15 |332.538.706,00 |(291.895.121,85) |(5.603.888.214,38) |
-
-|2028 |35.746.278,72 |311.361.017,44 |(275.614.738,72) |(5.879.502.953,10) |
-
-|2029 |31.247.650,59 |291.343.231,57 |(260.095.580,98) |(6.139.598.534,08) |
-
-|2030 |27.238.039,07 |272.097.663,48 |(244.859.624,41) |(6.384.458.158,49) |
-
-|2031 |23.580.285,34 |253.907.750,68 |(230.327.465,34) |(6.614.785.623,83) |
-
-|2032 |20.517.692,14 |235.943.289,64 |(215.425.597,50) |(6.830.211.221,33) |
-
-|2033 |17.726.103,19 |219.067.227,66 |(201.341.124,47) |(7.031.552.345,80) |
-
-|2034 |14.802.911,88 |204.345.786,61 |(189.542.874,73) |(7.221.095.220,53) |
-
-|2035 |12.447.103,24 |189.627.183,59 |(177.180.080,35) |(7.398.275.300,88) |
-
-|2036 |10.316.678,94 |175.834.117,87 |(165.517.438,93) |(7.563.792.739,81) |
-
-|2037 |8.237.904,00 |163.351.671,28 |(155.113.767,28) |(7.718.906.507,09) |
-
-|2038 |6.311.139,47 |151.847.031,45 |(145.535.891,98) |(7.864.442.399,07) |
-
-|2039 |5.101.377,19 |139.560.781,68 |(134.459.404,49) |(7.998.901.803,56) |
-
-|2040 |3.684.622,48 |129.093.598,08 |(125.408.975,60) |(8.124.310.779,16) |
-
-|2041 |2.689.735,28 |118.609.117,65 |(115.919.382,37) |(8.240.230.161,53) |
-
-|2042 |1.865.384,77 |108.731.839,28 |(106.866.454,51) |(8.347.096.616,04) |
-
-|2043 |1.251.644,03 |99.264.524,48 |(98.012.880,45) |(8.445.109.496,49) |
-
-|2044 |888.549,75 |90.065.896,48 |(89.177.346,73) |(8.534.286.843,22) |
-
-|2045 |557.516,37 |81.728.104,28 |(81.170.587,91) |(8.615.457.431,13) |
-
-|2046 |343.941,18 |73.861.770,35 |(73.517.829,17) |(8.688.975.260,30) |
-
-|2047 |248.693,20 |66.479.058,86 |(66.230.365,66) |(8.755.205.625,96) |
-
-|2048 |182.741,64 |59.770.673,07 |(59.587.931,43) |(8.814.793.557,39) |
-
-|2049 |143.809,44 |53.650.309,67 |(53.506.500,23) |(8.868.300.057,62) |
-
-|2050 |118.628,57 |48.100.433,48 |(47.981.804,91) |(8.916.281.862,53) |
-
-|2051 |96.227,18 |43.139.402,76 |(43.043.175,58) |(8.959.325.038,11) |
-
-|2052 |82.477,19 |38.648.637,56 |(38.566.160,37) |(8.997.891.198,48) |
-
-|2053 |73.426,55 |34.584.691,72 |(34.511.265,17) |(9.032.402.463,65) |
-
-|2054 |66.661,71 |30.948.984,41 |(30.882.322,70) |(9.063.284.786,35) |
-
-|2055 |60.787,53 |27.709.105,21 |(27.648.317,68) |(9.090.933.104,03) |
-
-|2056 |54.105,31 |24.768.044,67 |(24.713.939,36) |(9.115.647.043,39) |
-
-|2057 |48.526,04 |22.139.198,10 |(22.090.672,06) |(9.137.737.715,45) |
-
-|2058 |42.856,65 |19.758.671,10 |(19.715.814,45) |(9.157.453.529,90) |
-
-|2059 |37.301,15 |17.594.528,28 |(17.557.227,13) |(9.175.010.757,03) |
-
-|2060 |30.584,06 |15.644.750,20 |(15.614.166,14) |(9.190.624.923,17) |
-
-|2061 |25.469,25 |13.918.490,92 |(13.893.021,67) |(9.204.517.944,84) |
-
-|2062 |20.707,34 |12.365.492,02 |(12.344.784,68) |(9.216.862.729,52) |
-
-|2063 |16.469,31 |10.978.095,44 |(10.961.626,13) |(9.227.824.355,65) |
-
-|2064 |13.323,71 |9.739.735,99 |(9.726.412,28) |(9.237.550.767,93) |
-
-|2065 |10.412,21 |8.638.363,24 |(8.627.951,03) |(9.246.178.718,96) |
-
-|2066 |8.026,37 |7.640.174,27 |(7.632.147,90) |(9.253.810.866,86) |
-
-|2067 |6.067,54 |6.768.604,04 |(6.762.536,50) |(9.260.573.403,36) |
-
-|2068 |4.606,07 |5.997.033,72 |(5.992.427,65) |(9.266.565.831,01) |
-
-|2069 |3.054,92 |5.281.242,96 |(5.278.188,04) |(9.271.844.019,05) |
-
-|2070 |1.892,35 |4.633.861,00 |(4.631.968,65) |(9.276.475.987,70) |
-
-|2071 |1.319,74 |4.048.199,66 |(4.046.879,92) |(9.280.522.867,62) |
-
-|2072 |1.007,38 |3.505.727,93 |(3.504.720,55) |(9.284.027.588,17) |
-
-|2073 |686,00 |3.021.043,36 |(3.020.357,36) |(9.287.047.945,53) |
-
-|2074 |587,50 |2.561.141,71 |(2.560.554,21) |(9.289.608.499,74) |
-
-|2075 |552,57 |2.127.085,33 |(2.126.532,76) |(9.291.735.032,50) |
-
-|2076 |514,74 |1.776.853,88 |(1.776.339,14) |(9.293.511.371,64) |
-
-|2077 |490,24 |1.495.238,45 |(1.494.748,21) |(9.295.006.119,85) |
-
-|2078 |348,87 |1.262.493,79 |(1.262.144,92) |(9.296.268.264,77) |
-
-|2079 |317,69 |1.066.639,06 |(1.066.321,37) |(9.297.334.586,14) |
-
-|2080 |271,74 |904.072,62 |(903.800,88) |(9.298.238.387,02) |
-
-|2081 |253,43 |770.369,95 |(770.116,52) |(9.299.008.503,54) |
-
-|2082 |231,69 |663.175,88 |(662.944,19) |(9.299.671.447,73) |
-
-|2083 |218,76 |574.559,76 |(574.341,00) |(9.300.245.788,73) |
-
-|2084 |207,26 |496.644,37 |(496.437,11) |(9.300.742.225,84) |
-
-|2085 |183,36 |424.943,60 |(424.760,24) |(9.301.166.986,08) |
-
-|2086 |174,32 |366.438,67 |(366.264,35) |(9.301.533.250,43) |
+|  | Receitas | Despesas | Resultado | Saldo Financeiro Do |
+| --- | --- | --- | --- | --- |
+|  | Previdenciárias | Previdenciárias | Previdenciário | Exercício |
+| ANO |  |  |  |  |
+|  | Valor | Valor | Valor | Valor (d) = (d Exerc. |
+|  | (a) | (b) | (c) = (a-b) | Anterior) + (c) |
+| 2011 | 431.542.792,09 | 436.074.321,58 | (4.531.529,49) | (4.531.529,49) |
+| 2012 | 256.793.687,68 | 597.079.185,93 | (340.285.498,25) | (344.817.027,74) |
+| 2013 | 233.497.547,62 | 578.458.807,78 | (344.961.260,16) | (689.778.287,90) |
+| 2014 | 211.842.548,22 | 559.721.840,35 | (347.879.292,13) | (1.037.657.580,03) |
+| 2015 | 189.800.891,88 | 546.830.220,26 | (357.029.328,38) | (1.394.686.908,41) |
+| 2016 | 167.329.511,17 | 539.633.573,76 | (372.304.062,59) | (1.766.990.971,00) |
+| 2017 | 148.504.839,80 | 525.468.716,49 | (376.963.876,69) | (2.143.954.847,69) |
+| 2018 | 131.388.583,46 | 510.100.358,18 | (378.711.774,72) | (2.522.666.622,41) |
+| 2019 | 116.166.442,35 | 492.818.614,25 | (376.652.171,90) | (2.899.318.794,31) |
+| 2020 | 102.545.617,65 | 474.309.061,04 | (371.763.443,39) | (3.271.082.237,70) |
+| 2021 | 89.678.005,99 | 457.003.099,98 | (367.325.093,99) | (3.638.407.331,69) |
+| 2022 | 78.745.467,64 | 437.153.216,37 | (358.407.748,73) | (3.996.815.080,42) |
+| 2023 | 69.010.628,93 | 416.866.503,28 | (347.855.874,35) | (4.344.670.954,77) |
+| 2024 | 60.556.865,31 | 395.726.054,30 | (335.169.188,99) | (4.679.840.143,76) |
+| 2025 | 52.858.076,85 | 375.176.722,12 | (322.318.645,27) | (5.002.158.789,03) |
+| 2026 | 45.745.473,79 | 355.579.777,29 | (309.834.303,50) | (5.311.993.092,53) |
+| 2027 | 40.643.584,15 | 332.538.706,00 | (291.895.121,85) | (5.603.888.214,38) |
+| 2028 | 35.746.278,72 | 311.361.017,44 | (275.614.738,72) | (5.879.502.953,10) |
+| 2029 | 31.247.650,59 | 291.343.231,57 | (260.095.580,98) | (6.139.598.534,08) |
+| 2030 | 27.238.039,07 | 272.097.663,48 | (244.859.624,41) | (6.384.458.158,49) |
+| 2031 | 23.580.285,34 | 253.907.750,68 | (230.327.465,34) | (6.614.785.623,83) |
+| 2032 | 20.517.692,14 | 235.943.289,64 | (215.425.597,50) | (6.830.211.221,33) |
+| 2033 | 17.726.103,19 | 219.067.227,66 | (201.341.124,47) | (7.031.552.345,80) |
+| 2034 | 14.802.911,88 | 204.345.786,61 | (189.542.874,73) | (7.221.095.220,53) |
+| 2035 | 12.447.103,24 | 189.627.183,59 | (177.180.080,35) | (7.398.275.300,88) |
+| 2036 | 10.316.678,94 | 175.834.117,87 | (165.517.438,93) | (7.563.792.739,81) |
+| 2037 | 8.237.904,00 | 163.351.671,28 | (155.113.767,28) | (7.718.906.507,09) |
+| 2038 | 6.311.139,47 | 151.847.031,45 | (145.535.891,98) | (7.864.442.399,07) |
+| 2039 | 5.101.377,19 | 139.560.781,68 | (134.459.404,49) | (7.998.901.803,56) |
+| 2040 | 3.684.622,48 | 129.093.598,08 | (125.408.975,60) | (8.124.310.779,16) |
+| 2041 | 2.689.735,28 | 118.609.117,65 | (115.919.382,37) | (8.240.230.161,53) |
+| 2042 | 1.865.384,77 | 108.731.839,28 | (106.866.454,51) | (8.347.096.616,04) |
+| 2043 | 1.251.644,03 | 99.264.524,48 | (98.012.880,45) | (8.445.109.496,49) |
+| 2044 | 888.549,75 | 90.065.896,48 | (89.177.346,73) | (8.534.286.843,22) |
+| 2045 | 557.516,37 | 81.728.104,28 | (81.170.587,91) | (8.615.457.431,13) |
+| 2046 | 343.941,18 | 73.861.770,35 | (73.517.829,17) | (8.688.975.260,30) |
+| 2047 | 248.693,20 | 66.479.058,86 | (66.230.365,66) | (8.755.205.625,96) |
+| 2048 | 182.741,64 | 59.770.673,07 | (59.587.931,43) | (8.814.793.557,39) |
+| 2049 | 143.809,44 | 53.650.309,67 | (53.506.500,23) | (8.868.300.057,62) |
+| 2050 | 118.628,57 | 48.100.433,48 | (47.981.804,91) | (8.916.281.862,53) |
+| 2051 | 96.227,18 | 43.139.402,76 | (43.043.175,58) | (8.959.325.038,11) |
+| 2052 | 82.477,19 | 38.648.637,56 | (38.566.160,37) | (8.997.891.198,48) |
+| 2053 | 73.426,55 | 34.584.691,72 | (34.511.265,17) | (9.032.402.463,65) |
+| 2054 | 66.661,71 | 30.948.984,41 | (30.882.322,70) | (9.063.284.786,35) |
+| 2055 | 60.787,53 | 27.709.105,21 | (27.648.317,68) | (9.090.933.104,03) |
+| 2056 | 54.105,31 | 24.768.044,67 | (24.713.939,36) | (9.115.647.043,39) |
+| 2057 | 48.526,04 | 22.139.198,10 | (22.090.672,06) | (9.137.737.715,45) |
+| 2058 | 42.856,65 | 19.758.671,10 | (19.715.814,45) | (9.157.453.529,90) |
+| 2059 | 37.301,15 | 17.594.528,28 | (17.557.227,13) | (9.175.010.757,03) |
+| 2060 | 30.584,06 | 15.644.750,20 | (15.614.166,14) | (9.190.624.923,17) |
+| 2061 | 25.469,25 | 13.918.490,92 | (13.893.021,67) | (9.204.517.944,84) |
+| 2062 | 20.707,34 | 12.365.492,02 | (12.344.784,68) | (9.216.862.729,52) |
+| 2063 | 16.469,31 | 10.978.095,44 | (10.961.626,13) | (9.227.824.355,65) |
+| 2064 | 13.323,71 | 9.739.735,99 | (9.726.412,28) | (9.237.550.767,93) |
+| 2065 | 10.412,21 | 8.638.363,24 | (8.627.951,03) | (9.246.178.718,96) |
+| 2066 | 8.026,37 | 7.640.174,27 | (7.632.147,90) | (9.253.810.866,86) |
+| 2067 | 6.067,54 | 6.768.604,04 | (6.762.536,50) | (9.260.573.403,36) |
+| 2068 | 4.606,07 | 5.997.033,72 | (5.992.427,65) | (9.266.565.831,01) |
+| 2069 | 3.054,92 | 5.281.242,96 | (5.278.188,04) | (9.271.844.019,05) |
+| 2070 | 1.892,35 | 4.633.861,00 | (4.631.968,65) | (9.276.475.987,70) |
+| 2071 | 1.319,74 | 4.048.199,66 | (4.046.879,92) | (9.280.522.867,62) |
+| 2072 | 1.007,38 | 3.505.727,93 | (3.504.720,55) | (9.284.027.588,17) |
+| 2073 | 686,00 | 3.021.043,36 | (3.020.357,36) | (9.287.047.945,53) |
+| 2074 | 587,50 | 2.561.141,71 | (2.560.554,21) | (9.289.608.499,74) |
+| 2075 | 552,57 | 2.127.085,33 | (2.126.532,76) | (9.291.735.032,50) |
+| 2076 | 514,74 | 1.776.853,88 | (1.776.339,14) | (9.293.511.371,64) |
+| 2077 | 490,24 | 1.495.238,45 | (1.494.748,21) | (9.295.006.119,85) |
+| 2078 | 348,87 | 1.262.493,79 | (1.262.144,92) | (9.296.268.264,77) |
+| 2079 | 317,69 | 1.066.639,06 | (1.066.321,37) | (9.297.334.586,14) |
+| 2080 | 271,74 | 904.072,62 | (903.800,88) | (9.298.238.387,02) |
+| 2081 | 253,43 | 770.369,95 | (770.116,52) | (9.299.008.503,54) |
+| 2082 | 231,69 | 663.175,88 | (662.944,19) | (9.299.671.447,73) |
+| 2083 | 218,76 | 574.559,76 | (574.341,00) | (9.300.245.788,73) |
+| 2084 | 207,26 | 496.644,37 | (496.437,11) | (9.300.742.225,84) |
+| 2085 | 183,36 | 424.943,60 | (424.760,24) | (9.301.166.986,08) |
+| 2086 | 174,32 | 366.438,67 | (366.264,35) | (9.301.533.250,43) |
 
 Notas:
 
@@ -1706,39 +1419,24 @@ DEMONSTRATIVO DAS RECEITAS REALIZADAS E DESPESAS EMPENHADAS DO REGIME DE PREVID�
 
 Valores em R$ 1,00
 
-|Receitas |Previsão 2011 |Realizado 2011 |
-
-|I – Receita Previdenciária | | |
-
+| Receitas | Previsão 2011 | Realizado 2011 |
+| --- | --- | --- |
+| I – Receita Previdenciária |  |  |
 | Contribuição Patronal | 1.023.600,00 | 466.301,61 |
-
-| | | |
-
+|  |  |  |
 | Contribuição do Servidor Ativo | 140.130.815,00 | 124.614.424,04 |
-
 | Contribuição do Servidor Inativo e | 11.052.979,00 | 10.583.539,78 |
-
-|Pensionista | | |
-
+| Pensionista |  |  |
 | Receitas Patrimoniais | 282.839,00 | 232.645,22 |
-
 | Outras Receitas correntes | 1.926.280,00 | 9.371.865,41 |
-
 | Receitas Intraorçamentárias Correntes | 269.104.430,00 | 248.674.016,03 |
-
-|Total Receita (I) |423.520.943,00 |393.942.792,09 |
-
-|II – Despesa Previdenciária | | |
-
-| Previdência Social - Inativos e Pensionistas| 421.027.400,00 | 415.824.414,87 |
-
+| Total Receita (I) | 423.520.943,00 | 393.942.792,09 |
+| II – Despesa Previdenciária |  |  |
+| Previdência Social - Inativos e Pensionistas | 421.027.400,00 | 415.824.414,87 |
 | Outras Despesas Correntes | 8.599.317,00 | 20.249.906,71 |
-
-| Investimentos | 35.826,00 | |
-
-|Total Despesa (II) | 429.662.543,00 | 436.074.321,58 |
-
-|Resultado Previdenciário (I-II) |-6.141.600,00 |-42.131.529,49 |
+| Investimentos | 35.826,00 |  |
+| Total Despesa (II) | 429.662.543,00 | 436.074.321,58 |
+| Resultado Previdenciário (I-II) | -6.141.600,00 | -42.131.529,49 |
 
 I.5 - DEMONSTRATIVO DA ESTIMATIVA DA RENÚNCIA DE RECEITA
 
@@ -1754,25 +1452,26 @@ Por fim, os incentivos à cultura poderão chegar a R$8,8 milhões.
 
 Quadro Resumo da Renúncia Fiscal 1 - Isenções
 
-|IPTU (Isenções condicionadas) |R$ 20.000.000,00 |
-
-|ITBI - Minha Casa, Minha Vida |R$ 1.656.500,00 |
-
-|Total de Isenções |R$ 21.656.500,00 |
+| IPTU (Isenções condicionadas) | R$ 20.000.000,00 |
+| --- | --- |
+| ITBI - Minha Casa, Minha Vida | R$ 1.656.500,00 |
+| Total de Isenções | R$ 21.656.500,00 |
 
 2 - Remissões
 
-|Total de Remissões |R$1.000.000,00 |
+| Total de Remissões | R$1.000.000,00 |
+| --- | --- |
 
 3 - Desconto antecipado de pagamento de IPTU
 
-|Total de desconto |R$ 30.000.000,00 |
+| Total de desconto | R$ 30.000.000,00 |
+| --- | --- |
 
 4 - Incentivo Cultural
 
-|Total de incentivo a atividades culturais |R$ 8.800.000,00 |
-
-|Total Geral da Renúncia Fiscal |R$ 61.456.500,00 |
+| Total de incentivo a atividades culturais | R$ 8.800.000,00 |
+| --- | --- |
+| Total Geral da Renúncia Fiscal | R$ 61.456.500,00 |
 
 I.6 - DEMONSTRATIVO DA ESTIMATIVA DA MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO
 
@@ -1788,257 +1487,136 @@ Baseado no entendimento do aumento da arrecadação para fins de apuração do a
 
 Valores em R$1.000,00
 
-|EVENTOS |VALOR |
-
-|Aumento Permanente da Receita |278.000 |
-
-|Margem Líquida de Expansão |278.000 |
+| EVENTOS | VALOR |
+| --- | --- |
+| Aumento Permanente da Receita | 278.000 |
+| Margem Líquida de Expansão | 278.000 |
 
 I.7 - PRIORIDADES E METAS PARA 2013
 
-|Área de Resultado: Cidade Saudável |
-
-|Programa |Produto |Unidade de Medida|Meta prevista 2013|
-
-|Vigilância em Saúde |Vistoria realizada - Zoonozes |unidade |3.785.000 |
-
-| |Ações de imunização/aplicação de |unidade |29.030 |
-
-| |vacina tetravalente | | |
-
-|Rede Assistencial |Processamento dos procedimentos |unidade |215.000 |
-
-| |hospitalares/internação realizada | | |
-
-| |Centros de especialidades |unidade |31.130 |
-
-| |odontológicas/consulta realizada | | |
-
-|Atenção Primária à Saúde |Ações de saúde mental/atendimento |unidade |118.000 |
-
-| |realizado | | |
-
-| |Ações de atenção à saúde da criança |unidade |515.000 |
-
-| |e do adolescente/atendimento | | |
-
-| |realizado | | |
-
-|Área de Resultado: Educação |
-
-|Gestão e Operacionalização da|Transporte escolar/aluno |unidade |9.000 |
-
-|Política Educacional |beneficiado | | |
-
-| |Projeto BH para Crianças - Ensino |unidade |245.000 |
-
-| |Fundamental/aluno atendido | | |
-
-| |Fornecimento de kits escolares - |unidade |73.018 |
-
-| |educação infantil | | |
-
-| |Fornecimento de kits escolares - |unidade |149.070 |
-
-| |Ensino Fundamental | | |
-
-| |Fornecimento de kits escolares - |unidade |24.000 |
-
-| |EJA | | |
-
-|Área de Resultado: Cidade com Mobilidade |
-
-|Gestão da Mobilidade Urbana |Gerenciamento do trânsito |pessoa atendida |2.500.000 |
-
-| |municipal e do transporte urbano | | |
-
-|Implantação do Corta Caminho |Obras do Boulevard Arrudas |percentual de |20 |
-
-| | |execução | |
-
-|Prioridade ao Transporte |Implantação de corredor rápido de |percentual de |70 |
-
-|Coletivo |ônibus Pedro II-Catalão |execução | |
-
-| |Implantação de corredor rápido de |percentual de |20 |
-
-| |ônibus Cristiano Machado |execução | |
-
-| |Implantação de corredor rápido de |percentual de |30 |
-
-| |ônibus Antônio Carlos e Pedro I |execução | |
-
-|Área de Resultado: Cidade Segura |
-
-|Gestão da Segurança Pública e|Capacitação e reciclagem na Guarda|pessoa capacitada |2.250 |
-
-|Patrimonial |Municipal de Belo Horizonte | | |
-
-|Vigilância Eletrônica |Instalação de câmeras de |unidade |30 |
-
-| |videomonitoramento em unidades de | | |
-
-| |ensino | | |
-
-| |Instalação de câmeras de |unidade |20 |
-
-| |videomonitoramento em unidades de | | |
-
-| |saúde | | |
-
-|Área de Resultado: Prosperidade |
-
-|Fomento ao Turismo de Lazer, |Confecção e distribuição do Guia |unidade |960.000 |
-
-|Eventos e Negócios |Turístico de BH | | |
-
-| |Apoio a eventos de interesse |unidade |300 |
-
-| |público | | |
-
-|Copa 2014 |Implementação da sinalização |percentual de |50 |
-
-| |turística |execução | |
-
-|Área de Resultado: Modernidade |
-
-|Gestão de Atendimento ao |Operação da Central de Atendimento|unidade |960.000 |
-
-|Cidadão |Integrado/atendimento realizado | | |
-
-|Evolução da Rede de |Fibra ótica instalada |quilômetro |590 |
-
-|Telecomunicações da PBH | | | |
-
-|Gestão Estratégica de Pessoas|Programa de capacitação dos |servidor capacitado|1.000 |
-
-| |servidores públicos previsto no | | |
-
-| |PNAFM | | |
-
-|Área de Resultado: Cidade com Todas as Vilas Vivas |
-
-|Qualificação Habitacional em |Programa Bolsa Moradia - diversas |família beneficiada|3.171 |
-
-|Vilas, Favelas e Áreas de |obras | | |
-
-|Interesse Social | | | |
-
-|Vila Viva |Vila São José |percentual de |20% |
-
-| | |execução | |
-
-| |Planos globais específicos |família beneficiada|1.162 |
-
-| |Ações sociais em vilas e favelas |família beneficiada|8.220 |
-
-| |(incluindo Aglomerado da Serra) | | |
-
-| |Complexo Várzea da Palma |percentual de |50% |
-
-| | |execução | |
-
-| |Regularização de domicílios |unidade |13.155 |
-
-|Habitação |Produção de moradias do Programa |unidade |8.000 |
-
-| |Minha Casa, Minha Vida | | |
-
-|Área de Resultado: Cidade Compartilhada |
-
-|Orçamento Participativo e |Realização dos Fóruns Regionais de|unidade |9 |
-
-|Gestão Compartilhada |Planejamento | | |
-
-| |Realização do OP Digital |unidade |1 |
-
-|Área de Resultado: Cidade Sustentável |
-
-|Operacionalização da Limpeza |Coleta de resíduos sólidos |tonelada |3.129.891 |
-
-|Pública | | | |
-
-| |Cobertura dos serviços de limpeza |quilômetro |47.964 |
-
-| |urbana em vilas e favelas | | |
-
-|Estruturação Urbana |Implantação do Projeto Pedala |quilômetro | |
-
-| |BH/ciclovia implantada | |75 |
-
-|Área de Resultado: Cidade de Todos |
-
-|Proteção Social Básica |Centro de Referência da |unidade |175.000 |
-
-| |Assistência Social - CRAS/família | | |
-
-| |referenciada | | |
-
-|Proteção Social Especial |Liberdade assistida/atendimento |unidade |22.400 |
-
-| |realizado | | |
-
-| |Prestação de serviço à |unidade |17.000 |
-
-| |comunidade/atendimento realizado | | |
-
-|Promoção e Democratização das|Programa Segundo Tempo/aluno |unidade |23.812 |
-
-|Práticas de Esportes e Lazer |atendido | | |
-
-| |Programa Superar/pessoa com |unidade | 1.000 |
-
-| |deficiência atendida | | |
-
-| |Programa Vida Ativa/idoso atendido|unidade |7.000 |
-
-|Transferência de Renda |Apoio ao Programa Transferência de|unidade |140.000 |
-
-| |Renda/família acompanhada e | | |
-
-| |atendida | | |
-
-|BH Cidadania e o SUAS - |Construção de Espaços BH Cidadania|unidade |11 |
-
-|Sistema Único de Assistência | | | |
-
-|Social | | | |
-
-|Gestão Intersetorial de |Centro de Referência da Pessoa |unidade |24.000 |
-
-|Atenção ao Idoso |Idosa/idoso atendido | | |
-
-|Promoção e Defesa de Direitos|Serviço de abrigamento de mulheres|mulher abrigada |150 |
-
-|Humanos e Cidadania |em situação de risco - Casa Abrigo| | |
-
-| |Sempre Viva | | |
-
-| |Centro de Referência da Pessoa |unidade |12.000 |
-
-| |Portadora de Deficiência/pessoa | | |
-
-| |atendida | | |
-
-|Qualificação, |Disponibilização de vagas para o |unidade |40.670 |
-
-|Profissionalização e Emprego |Programa Municipal de Qualificação| | |
-
-| |- diversos órgãos da PBH | | |
-
-|Área de Resultado: Cultura |
-
-|Fomento e Incentivo à Cultura|Lei Municipal de Incentivo à |unidade |98 |
-
-| |Cultura /incentivos a projetos | | |
-
-| |culturais | | |
-
-|Promoção e Apoio ao |Promoção de festival, encontro e |unidade |7 |
-
-|Desenvolvimento Cultural |mostra de arte e cultura/evento | | |
-
-| |realizado | | |
+| Área de Resultado: Cidade Saudável |  |  |  |
+| --- | --- | --- | --- |
+| Programa | Produto | Unidade de Medida | Meta prevista 2013 |
+| Vigilância em Saúde | Vistoria realizada - Zoonozes | unidade | 3.785.000 |
+|  | Ações de imunização/aplicação de | unidade | 29.030 |
+|  | vacina tetravalente |  |  |
+| Rede Assistencial | Processamento dos procedimentos | unidade | 215.000 |
+|  | hospitalares/internação realizada |  |  |
+|  | Centros de especialidades | unidade | 31.130 |
+|  | odontológicas/consulta realizada |  |  |
+| Atenção Primária à Saúde | Ações de saúde mental/atendimento | unidade | 118.000 |
+|  | realizado |  |  |
+|  | Ações de atenção à saúde da criança | unidade | 515.000 |
+|  | e do adolescente/atendimento |  |  |
+|  | realizado |  |  |
+| Área de Resultado: Educação |  |  |  |
+| Gestão e Operacionalização da | Transporte escolar/aluno | unidade | 9.000 |
+| Política Educacional | beneficiado |  |  |
+|  | Projeto BH para Crianças - Ensino | unidade | 245.000 |
+|  | Fundamental/aluno atendido |  |  |
+|  | Fornecimento de kits escolares - | unidade | 73.018 |
+|  | educação infantil |  |  |
+|  | Fornecimento de kits escolares - | unidade | 149.070 |
+|  | Ensino Fundamental |  |  |
+|  | Fornecimento de kits escolares - | unidade | 24.000 |
+|  | EJA |  |  |
+| Área de Resultado: Cidade com Mobilidade |  |  |  |
+| Gestão da Mobilidade Urbana | Gerenciamento do trânsito | pessoa atendida | 2.500.000 |
+|  | municipal e do transporte urbano |  |  |
+| Implantação do Corta Caminho | Obras do Boulevard Arrudas | percentual de | 20 |
+|  |  | execução |  |
+| Prioridade ao Transporte | Implantação de corredor rápido de | percentual de | 70 |
+| Coletivo | ônibus Pedro II-Catalão | execução |  |
+|  | Implantação de corredor rápido de | percentual de | 20 |
+|  | ônibus Cristiano Machado | execução |  |
+|  | Implantação de corredor rápido de | percentual de | 30 |
+|  | ônibus Antônio Carlos e Pedro I | execução |  |
+| Área de Resultado: Cidade Segura |  |  |  |
+| Gestão da Segurança Pública e | Capacitação e reciclagem na Guarda | pessoa capacitada | 2.250 |
+| Patrimonial | Municipal de Belo Horizonte |  |  |
+| Vigilância Eletrônica | Instalação de câmeras de | unidade | 30 |
+|  | videomonitoramento em unidades de |  |  |
+|  | ensino |  |  |
+|  | Instalação de câmeras de | unidade | 20 |
+|  | videomonitoramento em unidades de |  |  |
+|  | saúde |  |  |
+| Área de Resultado: Prosperidade |  |  |  |
+| Fomento ao Turismo de Lazer, | Confecção e distribuição do Guia | unidade | 960.000 |
+| Eventos e Negócios | Turístico de BH |  |  |
+|  | Apoio a eventos de interesse | unidade | 300 |
+|  | público |  |  |
+| Copa 2014 | Implementação da sinalização | percentual de | 50 |
+|  | turística | execução |  |
+| Área de Resultado: Modernidade |  |  |  |
+| Gestão de Atendimento ao | Operação da Central de Atendimento | unidade | 960.000 |
+| Cidadão | Integrado/atendimento realizado |  |  |
+| Evolução da Rede de | Fibra ótica instalada | quilômetro | 590 |
+| Telecomunicações da PBH |  |  |  |
+| Gestão Estratégica de Pessoas | Programa de capacitação dos | servidor capacitado | 1.000 |
+|  | servidores públicos previsto no |  |  |
+|  | PNAFM |  |  |
+| Área de Resultado: Cidade com Todas as Vilas Vivas |  |  |  |
+| Qualificação Habitacional em | Programa Bolsa Moradia - diversas | família beneficiada | 3.171 |
+| Vilas, Favelas e Áreas de | obras |  |  |
+| Interesse Social |  |  |  |
+| Vila Viva | Vila São José | percentual de | 20% |
+|  |  | execução |  |
+|  | Planos globais específicos | família beneficiada | 1.162 |
+|  | Ações sociais em vilas e favelas | família beneficiada | 8.220 |
+|  | (incluindo Aglomerado da Serra) |  |  |
+|  | Complexo Várzea da Palma | percentual de | 50% |
+|  |  | execução |  |
+|  | Regularização de domicílios | unidade | 13.155 |
+| Habitação | Produção de moradias do Programa | unidade | 8.000 |
+|  | Minha Casa, Minha Vida |  |  |
+| Área de Resultado: Cidade Compartilhada |  |  |  |
+| Orçamento Participativo e | Realização dos Fóruns Regionais de | unidade | 9 |
+| Gestão Compartilhada | Planejamento |  |  |
+|  | Realização do OP Digital | unidade | 1 |
+| Área de Resultado: Cidade Sustentável |  |  |  |
+| Operacionalização da Limpeza | Coleta de resíduos sólidos | tonelada | 3.129.891 |
+| Pública |  |  |  |
+|  | Cobertura dos serviços de limpeza | quilômetro | 47.964 |
+|  | urbana em vilas e favelas |  |  |
+| Estruturação Urbana | Implantação do Projeto Pedala | quilômetro |  |
+|  | BH/ciclovia implantada |  | 75 |
+| Área de Resultado: Cidade de Todos |  |  |  |
+| Proteção Social Básica | Centro de Referência da | unidade | 175.000 |
+|  | Assistência Social - CRAS/família |  |  |
+|  | referenciada |  |  |
+| Proteção Social Especial | Liberdade assistida/atendimento | unidade | 22.400 |
+|  | realizado |  |  |
+|  | Prestação de serviço à | unidade | 17.000 |
+|  | comunidade/atendimento realizado |  |  |
+| Promoção e Democratização das | Programa Segundo Tempo/aluno | unidade | 23.812 |
+| Práticas de Esportes e Lazer | atendido |  |  |
+|  | Programa Superar/pessoa com | unidade | 1.000 |
+|  | deficiência atendida |  |  |
+|  | Programa Vida Ativa/idoso atendido | unidade | 7.000 |
+| Transferência de Renda | Apoio ao Programa Transferência de | unidade | 140.000 |
+|  | Renda/família acompanhada e |  |  |
+|  | atendida |  |  |
+| BH Cidadania e o SUAS - | Construção de Espaços BH Cidadania | unidade | 11 |
+| Sistema Único de Assistência |  |  |  |
+| Social |  |  |  |
+| Gestão Intersetorial de | Centro de Referência da Pessoa | unidade | 24.000 |
+| Atenção ao Idoso | Idosa/idoso atendido |  |  |
+| Promoção e Defesa de Direitos | Serviço de abrigamento de mulheres | mulher abrigada | 150 |
+| Humanos e Cidadania | em situação de risco - Casa Abrigo |  |  |
+|  | Sempre Viva |  |  |
+|  | Centro de Referência da Pessoa | unidade | 12.000 |
+|  | Portadora de Deficiência/pessoa |  |  |
+|  | atendida |  |  |
+| Qualificação, | Disponibilização de vagas para o | unidade | 40.670 |
+| Profissionalização e Emprego | Programa Municipal de Qualificação |  |  |
+|  | - diversos órgãos da PBH |  |  |
+| Área de Resultado: Cultura |  |  |  |
+| Fomento e Incentivo à Cultura | Lei Municipal de Incentivo à | unidade | 98 |
+|  | Cultura /incentivos a projetos |  |  |
+|  | culturais |  |  |
+| Promoção e Apoio ao | Promoção de festival, encontro e | unidade | 7 |
+| Desenvolvimento Cultural | mostra de arte e cultura/evento |  |  |
+|  | realizado |  |  |
 
 ANEXO II
 
@@ -2064,75 +1642,46 @@ Do ponto de vista das ações judiciais trabalhistas e fiscais, existe um passiv
 
 Valores em R$1.000,00
 
-|RISCOS FISCAIS |PROVIDÊNCIAS |
-
-|DESCRIÇÃO |VALOR |DESCRIÇÃO |VALOR |
-
-|Aumento de despesas obrigatórias |22.561 |Abertura de créditos adicionais a partir |158.374 |
-
-|decorrentes de taxa de inflação | |da Reserva de Contingência e cancelamento| |
-
-|superior à prevista | |de despesas discricionárias | |
-
-|Aumento da despesa de pagamento de |3.213 | | |
-
-|juros da dívida fundada | | | |
-
-|Arrecadação de tributos menor que a|132.600 | | |
-
-|prevista no orçamento | | | |
-
-|TOTAL |158.374 |TOTAL |158.374 |
+| RISCOS FISCAIS | PROVIDÊNCIAS |  |  |
+| --- | --- | --- | --- |
+| DESCRIÇÃO | VALOR | DESCRIÇÃO | VALOR |
+| Aumento de despesas obrigatórias | 22.561 | Abertura de créditos adicionais a partir | 158.374 |
+| decorrentes de taxa de inflação |  | da Reserva de Contingência e cancelamento |  |
+| superior à prevista |  | de despesas discricionárias |  |
+| Aumento da despesa de pagamento de | 3.213 |  |  |
+| juros da dívida fundada |  |  |  |
+| Arrecadação de tributos menor que a | 132.600 |  |  |
+| prevista no orçamento |  |  |  |
+| TOTAL | 158.374 | TOTAL | 158.374 |
 
 (*) Republicada por ter saído com incorreções no DOM de 21/07/2012.
 
 -----------------------
 
-| | |Percentual sobre a folha de |
-
-|Custo Normal |Custo Anual |ativos |
-
-|Aposentadorias com reversão ao dependente |325.202.918,08 | 31,00% |
-
-|Invalidez com reversão ao dependente |27.276.935,65 |2,60% |
-
-|Pensão de ativos |20.881.631,89 |1,99% |
-
-|Auxílios |13.157.419,30 |1,25% |
-
-|Custo Anual Líquido Normal |386.518.904,92 | 36,84% |
-
-|Administração do Plano |20.980.833,42 |2,00% |
-
-|Custo Anual Normal Total |407.499.738,35 | 38,84% |
-
-|Custo Suplementar |744.454.838,60 | 70,97% |
-
-|Custo Total |1.151.954.576,95 | 109,81% |
-
-|Avaliação Atuarial |Data base |Participantes |
-
-| | |Ativos |Aposentados |Pensionistas |
-
-|Março/2010 |Novembro/2009 |29.687 |8.960 |2.628 |
-
-|Março/2011 |Dezembro/2010 |29.440 |9.576 |2.580 |
-
-|Dezembro/2011 |Novembro/2011 |30.035 |10.094 |3.000 |
-
-| | |Valores em R$ |
-
-|Avaliação |Data-base |Salários e Benefícios Médios |
-
-|Atuarial | | |
-
-| | |Ativos |Aposentados |Pensionistas |
-
-|Março/2010 |Novembro/2009 |2.313,68 |2.121,26 |1.615,30 |
-
-|Março/2011 |Dezembro/2010 |2.527,57 |2.263,04 |1.762,55 |
-
-|Dezembro/2011 |Novembro/2011 |2.698,09 |2.364,01 |1.560,73 |
+|  |  | Percentual sobre a folha de |  |  |
+| --- | --- | --- | --- | --- |
+| Custo Normal | Custo Anual | ativos |  |  |
+| Aposentadorias com reversão ao dependente | 325.202.918,08 | 31,00% |  |  |
+| Invalidez com reversão ao dependente | 27.276.935,65 | 2,60% |  |  |
+| Pensão de ativos | 20.881.631,89 | 1,99% |  |  |
+| Auxílios | 13.157.419,30 | 1,25% |  |  |
+| Custo Anual Líquido Normal | 386.518.904,92 | 36,84% |  |  |
+| Administração do Plano | 20.980.833,42 | 2,00% |  |  |
+| Custo Anual Normal Total | 407.499.738,35 | 38,84% |  |  |
+| Custo Suplementar | 744.454.838,60 | 70,97% |  |  |
+| Custo Total | 1.151.954.576,95 | 109,81% |  |  |
+| Avaliação Atuarial | Data base | Participantes |  |  |
+|  |  | Ativos | Aposentados | Pensionistas |
+| Março/2010 | Novembro/2009 | 29.687 | 8.960 | 2.628 |
+| Março/2011 | Dezembro/2010 | 29.440 | 9.576 | 2.580 |
+| Dezembro/2011 | Novembro/2011 | 30.035 | 10.094 | 3.000 |
+|  |  | Valores em R$ |  |  |
+| Avaliação | Data-base | Salários e Benefícios Médios |  |  |
+| Atuarial |  |  |  |  |
+|  |  | Ativos | Aposentados | Pensionistas |
+| Março/2010 | Novembro/2009 | 2.313,68 | 2.121,26 | 1.615,30 |
+| Março/2011 | Dezembro/2010 | 2.527,57 | 2.263,04 | 1.762,55 |
+| Dezembro/2011 | Novembro/2011 | 2.698,09 | 2.364,01 | 1.560,73 |
 
 ## Observações da CMBH
 

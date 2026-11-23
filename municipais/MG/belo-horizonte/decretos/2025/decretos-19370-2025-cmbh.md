@@ -58,103 +58,59 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.0090.3027.459165.1.500.000 |58.318,20 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2580.339030.1.500.000 |150.000,00 |
-
-|2505.18.541.0073.2900.339047.1.500.000 |14.780,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.122.0140.2317.339092.1.500.000 |703.991,00 |
-
-|2200.12.365.0169.2542.339039.1.500.000 |25.590.260,00 |
-
-|2200.12.361.0168.2080.339037.1.550.000 |7.383.086,00 |
-
-|2200.12.365.0169.2542.339037.1.550.000 |2.663.351,00 |
-
-|2200.12.365.0167.2701.339037.1.550.000 |1.100.000,00 |
-
-|2200.12.361.0167.2701.339037.1.550.000 |4.600.000,00 |
-
-|2200.12.367.0167.2041.339039.2.550.000 |1.319.996,00 |
-
-|2200.12.367.0167.2701.339030.2.550.000 |1.428.799,00 |
-
-|2200.12.367.0167.2701.339040.2.550.000 |1.361.070,00 |
-
-|2200.12.367.0167.2701.449052.2.550.000 |668.170,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.2.752.000 |933.045,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.331.0014.2710.339046.1.500.000 |2.660,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |47.977.526,20 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.0090.3027.459165.1.500.000 | 58.318,20 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2580.339030.1.500.000 | 150.000,00 |
+| 2505.18.541.0073.2900.339047.1.500.000 | 14.780,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.122.0140.2317.339092.1.500.000 | 703.991,00 |
+| 2200.12.365.0169.2542.339039.1.500.000 | 25.590.260,00 |
+| 2200.12.361.0168.2080.339037.1.550.000 | 7.383.086,00 |
+| 2200.12.365.0169.2542.339037.1.550.000 | 2.663.351,00 |
+| 2200.12.365.0167.2701.339037.1.550.000 | 1.100.000,00 |
+| 2200.12.361.0167.2701.339037.1.550.000 | 4.600.000,00 |
+| 2200.12.367.0167.2041.339039.2.550.000 | 1.319.996,00 |
+| 2200.12.367.0167.2701.339030.2.550.000 | 1.428.799,00 |
+| 2200.12.367.0167.2701.339040.2.550.000 | 1.361.070,00 |
+| 2200.12.367.0167.2701.449052.2.550.000 | 668.170,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.2.752.000 | 933.045,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.331.0014.2710.339046.1.500.000 | 2.660,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 47.977.526,20 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.0090.3027.459065.1.500.000 |58.318,20 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339037.1.500.000 |164.780,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.449052.1.500.000 |56.543,00 |
-
-|2200.12.122.0140.2334.339036.1.500.000 |20.000,00 |
-
-|2200.12.361.0168.2046.339039.1.500.000 |18.999.269,00 |
-
-|2200.12.122.0140.2317.339039.1.500.000 |6.000,00 |
-
-|2200.12.365.0169.2046.339039.1.500.000 |5.088.385,00 |
-
-|2200.12.367.0167.2046.339039.1.500.000 |319.306,00 |
-
-|2200.12.122.0140.2317.339040.1.500.000 |184.723,00 |
-
-|2200.12.365.0169.2542.336783.1.550.000 |15.746.437,00 |
-
-|2200.12.367.0167.2701.339039.1.500.000 |436.725,00 |
-
-|2200.12.361.0168.2706.339039.1.500.000 |1.183.300,00 |
-
-|2200.12.365.0169.2046.339039.2.550.000 |1.338.181,00 |
-
-|2200.12.361.0168.2046.339039.2.550.000 |1.444.517,00 |
-
-|2200.12.365.0169.2542.339039.2.550.000 |1.995.337,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1330.449051.2.752.000 |933.045,00 |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.04.122.0105.2900.449052.1.500.000 |2.660,00 |
-
-|TOTAL DA ANULAÇÃO |47.977.526,20 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.0090.3027.459065.1.500.000 | 58.318,20 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339037.1.500.000 | 164.780,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.449052.1.500.000 | 56.543,00 |
+| 2200.12.122.0140.2334.339036.1.500.000 | 20.000,00 |
+| 2200.12.361.0168.2046.339039.1.500.000 | 18.999.269,00 |
+| 2200.12.122.0140.2317.339039.1.500.000 | 6.000,00 |
+| 2200.12.365.0169.2046.339039.1.500.000 | 5.088.385,00 |
+| 2200.12.367.0167.2046.339039.1.500.000 | 319.306,00 |
+| 2200.12.122.0140.2317.339040.1.500.000 | 184.723,00 |
+| 2200.12.365.0169.2542.336783.1.550.000 | 15.746.437,00 |
+| 2200.12.367.0167.2701.339039.1.500.000 | 436.725,00 |
+| 2200.12.361.0168.2706.339039.1.500.000 | 1.183.300,00 |
+| 2200.12.365.0169.2046.339039.2.550.000 | 1.338.181,00 |
+| 2200.12.361.0168.2046.339039.2.550.000 | 1.444.517,00 |
+| 2200.12.365.0169.2542.339039.2.550.000 | 1.995.337,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1330.449051.2.752.000 | 933.045,00 |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.04.122.0105.2900.449052.1.500.000 | 2.660,00 |
+| TOTAL DA ANULAÇÃO | 47.977.526,20 |
 
 ANEXO II
 
@@ -196,24 +152,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.016.269.412,32 |
-
-|Valor do decreto publicado nesta data |R$ 47.977.526,20 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.064.246.938,52 |
-
-|Saldo atual de créditos suplementares |R$ 1.201.133.858,78 |
-
-|Percentual utilizado |46,98% |
-
-|Atualizado em 13/11/2025 às 16:29:53 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.016.269.412,32 |
+| Valor do decreto publicado nesta data | R$ 47.977.526,20 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.064.246.938,52 |
+| Saldo atual de créditos suplementares | R$ 1.201.133.858,78 |
+| Percentual utilizado | 46,98% |
+| Atualizado em 13/11/2025 às 16:29:53 |  |

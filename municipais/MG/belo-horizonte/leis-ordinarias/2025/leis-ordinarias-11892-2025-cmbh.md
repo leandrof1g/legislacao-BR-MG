@@ -50,9 +50,9 @@ DIA COMEMORATIVO
 
 E - Dias comemorativos de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|15/5 |Dia Municipal de Conscientização sobre a Síndrome de Prader-Willi – SPW |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 15/5 | Dia Municipal de Conscientização sobre a Síndrome de Prader-Willi – SPW |
 
 .”.
 

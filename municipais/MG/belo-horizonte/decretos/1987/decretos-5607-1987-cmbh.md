@@ -156,11 +156,11 @@ TRIPÉ SANFONADO COM 70CM DE ALTURA MODELO I PARA SUSTENTAÇÃO DO TABULEIRO
 
 (VISTA DA PARTE FRONTAL)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 PAINEL PARTE POSTERIOR E SUPERIOR DO TABULEIRO FORMANDO UM ÂNGULO DE 90º (noventa graus) COM O TABULEIRO MEDINDO 30 cm de largura x 100 cm de comprimento.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 MODELO II
 

@@ -58,43 +58,29 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 1º da Lei|R$ |
-
-|nº 11.767, de 30 de outubro de 2024: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.813.0101.2545.339039.1.500.000 |580.000,00 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.541.0307.2913.335041.1.500.000 |100.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |680.000,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 1º da Lei | R$ |
+| --- | --- |
+| nº 11.767, de 30 de outubro de 2024: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.813.0101.2545.339039.1.500.000 | 580.000,00 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.541.0307.2913.335041.1.500.000 | 100.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 680.000,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, conforme | |
-
-|autorização contida no art. 2º da Lei nº 11.767, de 30 de outubro de 2024: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2545.339039.1.500.000 |450.000,00 |
-
-|3000.27.813.0101.2545.339039.1.500.000 |80.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.1.500.000 |50.000,00 |
-
-|Fundo Municipal de Defesa Ambiental – FDA | |
-
-|2503.18.541.0069.2073.339039.1.500.000 |100.000,00 |
-
-|TOTAL DA ANULAÇÃO |680.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, conforme |  |
+| autorização contida no art. 2º da Lei nº 11.767, de 30 de outubro de 2024: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.1.500.000 | 450.000,00 |
+| 3000.27.813.0101.2545.339039.1.500.000 | 80.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.1.500.000 | 50.000,00 |
+| Fundo Municipal de Defesa Ambiental – FDA |  |
+| 2503.18.541.0069.2073.339039.1.500.000 | 100.000,00 |
+| TOTAL DA ANULAÇÃO | 680.000,00 |
 
 ANEXO II
 
@@ -128,20 +114,13 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 1º da Lei nº 11.767, de 30 de outubro de 2024:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 1º da Lei nº 11.767, de 30/10/2024 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 18.398.324,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 0,00 |
-
-|Valor do Decreto publicado nesta data |R$ 680.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 680.000,00 |
-
-|Saldo atual de créditos suplementares |R$ 17.718.324,00 |
-
-|Percentual utilizado |3,70% |
-
-|Atualizado em 19/11/2024 às 14:30:38 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.767, de 30/10/2024 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 18.398.324,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 0,00 |
+| Valor do Decreto publicado nesta data | R$ 680.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 680.000,00 |
+| Saldo atual de créditos suplementares | R$ 17.718.324,00 |
+| Percentual utilizado | 3,70% |
+| Atualizado em 19/11/2024 às 14:30:38 |  |

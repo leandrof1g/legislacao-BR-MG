@@ -58,83 +58,49 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º |R$ |
-
-|da Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2542.339039.1.500.000 |1.700.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0244.1244.449051.1.500.000 |400.000,00 |
-
-|2700.15.451.0062.1230.449093.1.702.000 |10.000,00 |
-
-|TOTAL |2.110.000,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 19 |R$ |
-
-|da Lei nº 11.742, de 13 de setembro de 2024, e no art. 7º da Lei nº 11.802, de | |
-
-|3 de janeiro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB | |
-
-|2505.18.541.0073.2812.339039.1.500.000 |80.000,00 |
-
-|Secretaria Municipal de Educação – SMED | |
-
-|2200.12.361.0168.2046.445042.1.500.000 |100.000,00 |
-
-|Fundação Municipal de Cultura – FMC | |
-
-|3103.13.392.0154.2371.339039.1.500.000 |50.000,00 |
-
-|TOTAL |230.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.340.000,000 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º | R$ |
+| --- | --- |
+| da Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.339039.1.500.000 | 1.700.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0244.1244.449051.1.500.000 | 400.000,00 |
+| 2700.15.451.0062.1230.449093.1.702.000 | 10.000,00 |
+| TOTAL | 2.110.000,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 19 | R$ |
+| da Lei nº 11.742, de 13 de setembro de 2024, e no art. 7º da Lei nº 11.802, de |  |
+| 3 de janeiro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339039.1.500.000 | 80.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2046.445042.1.500.000 | 100.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.392.0154.2371.339039.1.500.000 | 50.000,00 |
+| TOTAL | 230.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.340.000,000 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.367.0167.2041.339039.1.500.000 |1.700.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.339030.1.702.000 |10.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0171.1399.449093.1.500.000 |400.000,00 |
-
-|TOTAL |2.110.000,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2580.339039.1.500.000 |80.000,00 |
-
-|Fundação Municipal de Cultura - FMC |
-
-|3103.13.392.0301.2907.339039.1.500.000 |50.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.12.365.0169.1211.449051.1.500.000 |100.000,00 |
-
-|TOTAL |230.000,00 |
-
-|TOTAL DA ANULAÇÃO |2.340.000,000 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.367.0167.2041.339039.1.500.000 | 1.700.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.339030.1.702.000 | 10.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0171.1399.449093.1.500.000 | 400.000,00 |
+| TOTAL | 2.110.000,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação | R$ |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2580.339039.1.500.000 | 80.000,00 |
+| Fundação Municipal de Cultura - FMC |  |
+| 3103.13.392.0301.2907.339039.1.500.000 | 50.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.12.365.0169.1211.449051.1.500.000 | 100.000,00 |
+| TOTAL | 230.000,00 |
+| TOTAL DA ANULAÇÃO | 2.340.000,000 |
 
 ANEXO II
 
@@ -180,46 +146,29 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 125.472.462,64 |
-
-|Valor do Decreto publicado nesta data |R$ 2.110.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 127.582.462,64 |
-
-|Saldo atual de créditos suplementares |R$ 2.137.798.334,66 |
-
-|Percentual utilizado |5,63% |
-
-|Atualizado em 06/05/2025 às 09:59:53 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 125.472.462,64 |
+| Valor do Decreto publicado nesta data | R$ 2.110.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 127.582.462,64 |
+| Saldo atual de créditos suplementares | R$ 2.137.798.334,66 |
+| Percentual utilizado | 5,63% |
+| Atualizado em 06/05/2025 às 09:59:53 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 7º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 7º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 192.497.922,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 10.084.707,00 |
-
-|Valor do Decreto publicado nesta data |R$ 230.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 10.314.707,00 |
-
-|Saldo atual de créditos suplementares |R$ 182.183.215,00 |
-
-|Percentual utilizado |5,36% |
-
-|Atualizado em 06/05/2025 às 09:59:53 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 192.497.922,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 10.084.707,00 |
+| Valor do Decreto publicado nesta data | R$ 230.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 10.314.707,00 |
+| Saldo atual de créditos suplementares | R$ 182.183.215,00 |
+| Percentual utilizado | 5,36% |
+| Atualizado em 06/05/2025 às 09:59:53 |  |

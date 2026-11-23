@@ -94,73 +94,41 @@ Procurador-Geral do Município
 
 ANEXO A QUE SE REFERE O DECRETO Nº 10.179
 
-|CÓDIGO |DESCRIÇÃO DOS PONTOS POSITIVOS |PONTUAÇÃO |
-
-|01 |Informação ou instauração de Processo Tributário Administrativo, no prazo de 10 dias | |
-
-| | |50 pontos |
-
-|02 |Cumprimento de tarefa especial extraordinária, com repercussão nas atividades jurídico-fiscais, designada|de 200 a 600 pontos |
-
-| |pela Diretoria do Departamento Jurídico-Fiscal. | |
-
-|03 |Relatórios e documentos |
-
-|03.01 |Cientificação da chefia, à época da publicação, com entrega de respectiva cópia na íntegra de sentenças | |
-
-| |e/ou acórdãos da área fiscal, proferidas em processos sob sua responsabilidade. | |
-
-| | |50 pontos |
-
-|03.02 |Fornecimento de peças judiciais e extrajudiciais destinadas a contribuir com os trabalhos desenvolvidos | |
-
-| |no âmbito fiscal. |30 pontos |
-
-|03.03 |Devolução de Certidões de Dívida Ativa |10 pontos |
-
-|04 |Execução das atividades de plantão fiscal |
-
-|04.01 |Em cumprimento de escala na sede da Procuradoria Geral do Município | |
-
-| | |600 pontos |
-
-|04.02 |Fora da escala, em virtude de necessidade do serviço, na sede da Procuradoria Geral do Município. |600 pontos/hora |
-
-|04.03 |Em cumprimentos de escala fora da sede da Procuradoria Geral do Município. |800 pontos |
-
-|04.04 |Plantão fora da sede da Procuradoria Geral do Município, extra escala, em virtude de necessidade de |250 pontos/hora |
-
-| |serviço | |
-
-|05 |Ofícios a órgãos e autoridades federais e estaduais para obtenção para subsídios a Certidão de Dívida | |
-
-| |Ativa. |50 pontos |
-
-|06 |Elaboração de parecer por regular distribuição de processo da Junta de Recursos Fiscais da Secretaria Municipal da Fazenda, no prazo|
-
-| |designado e com comparecimento à sessão respectiva. |
-
-|06.01 |Nos casos de menor complexidade. |600 pontos |
-
-|06.02 |Nos casos de maior complexidade, reconhecida pela Diretoria do Departamento Jurídico Fiscal. |1.200 pontos |
-
-|CÓDIGO |DESCRIÇÃO DOS PONTOS NEGATIVOS |PONTUAÇÃO |
-
-|07 |Abertura irregular de Processo Tributário Administrativo para obtenção de informações junto à Secretaria |60 pontos |
-
-| |Municipal da Fazenda. | |
-
-|08 |Não devolução do Processo Tributário Administrativo no prazo de dez dias. |10 pontos |
-
-|09 |Não cumprimento ou recusa em cumprir as tarefas especiais extraordinárias designadas. |de 40 a 120 pontos |
-
-|10 |Devolução irregular de Certidão de Dívida Ativa. |12 pontos |
-
-|11 |Falta injustificada no plantão fiscal |
-
-|11.01 |Nos casos do item 04.01 |80 pontos |
-
-|11.02 |Nos casos do item 04.03 |120 pontos |
+| CÓDIGO | DESCRIÇÃO DOS PONTOS POSITIVOS | PONTUAÇÃO |
+| --- | --- | --- |
+| 01 | Informação ou instauração de Processo Tributário Administrativo, no prazo de 10 dias |  |
+|  |  | 50 pontos |
+| 02 | Cumprimento de tarefa especial extraordinária, com repercussão nas atividades jurídico-fiscais, designada | de 200 a 600 pontos |
+|  | pela Diretoria do Departamento Jurídico-Fiscal. |  |
+| 03 | Relatórios e documentos |  |
+| 03.01 | Cientificação da chefia, à época da publicação, com entrega de respectiva cópia na íntegra de sentenças |  |
+|  | e/ou acórdãos da área fiscal, proferidas em processos sob sua responsabilidade. |  |
+|  |  | 50 pontos |
+| 03.02 | Fornecimento de peças judiciais e extrajudiciais destinadas a contribuir com os trabalhos desenvolvidos |  |
+|  | no âmbito fiscal. | 30 pontos |
+| 03.03 | Devolução de Certidões de Dívida Ativa | 10 pontos |
+| 04 | Execução das atividades de plantão fiscal |  |
+| 04.01 | Em cumprimento de escala na sede da Procuradoria Geral do Município |  |
+|  |  | 600 pontos |
+| 04.02 | Fora da escala, em virtude de necessidade do serviço, na sede da Procuradoria Geral do Município. | 600 pontos/hora |
+| 04.03 | Em cumprimentos de escala fora da sede da Procuradoria Geral do Município. | 800 pontos |
+| 04.04 | Plantão fora da sede da Procuradoria Geral do Município, extra escala, em virtude de necessidade de | 250 pontos/hora |
+|  | serviço |  |
+| 05 | Ofícios a órgãos e autoridades federais e estaduais para obtenção para subsídios a Certidão de Dívida |  |
+|  | Ativa. | 50 pontos |
+| 06 | Elaboração de parecer por regular distribuição de processo da Junta de Recursos Fiscais da Secretaria Municipal da Fazenda, no prazo |  |
+|  | designado e com comparecimento à sessão respectiva. |  |
+| 06.01 | Nos casos de menor complexidade. | 600 pontos |
+| 06.02 | Nos casos de maior complexidade, reconhecida pela Diretoria do Departamento Jurídico Fiscal. | 1.200 pontos |
+| CÓDIGO | DESCRIÇÃO DOS PONTOS NEGATIVOS | PONTUAÇÃO |
+| 07 | Abertura irregular de Processo Tributário Administrativo para obtenção de informações junto à Secretaria | 60 pontos |
+|  | Municipal da Fazenda. |  |
+| 08 | Não devolução do Processo Tributário Administrativo no prazo de dez dias. | 10 pontos |
+| 09 | Não cumprimento ou recusa em cumprir as tarefas especiais extraordinárias designadas. | de 40 a 120 pontos |
+| 10 | Devolução irregular de Certidão de Dívida Ativa. | 12 pontos |
+| 11 | Falta injustificada no plantão fiscal |  |
+| 11.01 | Nos casos do item 04.01 | 80 pontos |
+| 11.02 | Nos casos do item 04.03 | 120 pontos |
 
 ## Observações da CMBH
 

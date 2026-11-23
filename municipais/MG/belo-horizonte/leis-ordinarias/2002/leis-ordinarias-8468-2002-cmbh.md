@@ -238,21 +238,15 @@ ANEXO ÚNICO
 
 Tabela para cálculo da CCIP
 
-|1 |Consumo de até 100KWH por mês |1,00% da TCIP |
-
-|2 |Consumo de 101 a 200KWH por mês |4,00% da TCIP |
-
-|3 |Consumo de 201 a 300KWH por mês |6,00% da TCIP |
-
-|4 |Consumo de 301 a 500KWH por mês |8,00% da TCIP |
-
-|5 |Consumo de mais de 500KWH por mês |10,00% da TCIP |
-
-|6 |Imóvel sem medidor de consumo de energia por ano |60,00% da TCIP |
-
-|TCIP: Tarifa Convencional de Iluminação Pública |
-
-|TCIP = 0,98181 X Tarifa Convencional do subgrupo B4a - Iluminação Pública |
+| 1 | Consumo de até 100KWH por mês | 1,00% da TCIP |
+| --- | --- | --- |
+| 2 | Consumo de 101 a 200KWH por mês | 4,00% da TCIP |
+| 3 | Consumo de 201 a 300KWH por mês | 6,00% da TCIP |
+| 4 | Consumo de 301 a 500KWH por mês | 8,00% da TCIP |
+| 5 | Consumo de mais de 500KWH por mês | 10,00% da TCIP |
+| 6 | Imóvel sem medidor de consumo de energia por ano | 60,00% da TCIP |
+| TCIP: Tarifa Convencional de Iluminação Pública |  |  |
+| TCIP = 0,98181 X Tarifa Convencional do subgrupo B4a - Iluminação Pública |  |  |
 
 Anexo único com redação dada pela Lei nº 11.315, de 7/10/2021 (Art. 8º)
 

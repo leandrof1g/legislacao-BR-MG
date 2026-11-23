@@ -52,34 +52,24 @@ ANEXO
 
 I – Crédito adicional especial instituindo as seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Mobilidade Urbana – FMU –, |
-
-|conforme autorização contida no art. 28 da Lei nº 11.319, de 22|
-
-|de outubro de 2021, e dispositivos do § 2º do art. 10 do |
-
-|Decreto nº 17.845, de 14 de janeiro de 2022: |
-
-|R$ |
-
-|3303.26.452.060.2.837.3390.0000 |538.968,00 |
-
-|3303.26.452.304.1.393.4490.0080 |40.500,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |579.468,00 |
+| I.1 – A favor do Fundo Municipal de Mobilidade Urbana – FMU –, |  |
+| --- | --- |
+| conforme autorização contida no art. 28 da Lei nº 11.319, de 22 |  |
+| de outubro de 2021, e dispositivos do § 2º do art. 10 do |  |
+| Decreto nº 17.845, de 14 de janeiro de 2022: |  |
+| R$ |  |
+| 3303.26.452.060.2.837.3390.0000 | 538.968,00 |
+| 3303.26.452.304.1.393.4490.0080 | 40.500,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 579.468,00 |
 
 II – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item |
-
-|I.1 da tabela anterior: |
-
-|R$ |
-
-|2710.26.452.060.2.837.3390.0000 |538.968,00 |
-
-|2710.26.452.304.1.393.4490.0080 |40.500,00 |
-
-|TOTAL DA ANULAÇÃO |579.468,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item |  |
+| --- | --- |
+| I.1 da tabela anterior: |  |
+| R$ |  |
+| 2710.26.452.060.2.837.3390.0000 | 538.968,00 |
+| 2710.26.452.304.1.393.4490.0080 | 40.500,00 |
+| TOTAL DA ANULAÇÃO | 579.468,00 |
 
 1

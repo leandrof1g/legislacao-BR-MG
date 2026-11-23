@@ -48,56 +48,31 @@ ANEXO
 
 IV.8 – Secretaria Municipal de Governo – SMGO:
 
-|SMGO |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-4 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-6 |LIMITADO |0 |- |
-
-| |AMPLO |5 |SMGO.DAM6.A.001 a SMGO.DAM6.A.005 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMGO.DAM8.A.001 |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |2 |SMGO.DAM9.A.001 a SMGO.DAM9.A.002 |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |8 | |
+| SMGO |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-4 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-6 | LIMITADO | 0 | - |
+|  | AMPLO | 5 | SMGO.DAM6.A.001 a SMGO.DAM6.A.005 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMGO.DAM8.A.001 |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 2 | SMGO.DAM9.A.001 a SMGO.DAM9.A.002 |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 8 |  |  |

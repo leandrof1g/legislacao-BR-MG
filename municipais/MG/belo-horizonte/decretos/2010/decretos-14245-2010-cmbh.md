@@ -536,44 +536,29 @@ Prefeito de Belo Horizonte
 
 ANEXO II
 
-| |Descrição da infração |Dispositivo infringido |Notif|Prazo para |Multas |Suspe|Cassaç|Penalidade(s) cabível(eis) |
-
-| | |(Lei nº 8.616, e Anexo I|icaçã|atendimento| |nsão |ão | |
-
-| | |deste Decreto) |o p/ |e correção | | | | |
-
-| | | |defes| | | | | |
-
-| | | |a | | | | | |
-
-| |
-
-| |
-
-|2. Poderão ser aplicadas, ainda, sanções previstas no edital do processo pública ou no termo de outorga, ainda que não transcritas no regulamento ou neste anexo, observado o devido processo legal. |
-
-| |
-
-|3. É permitido à fiscalização, no exercício de sua atividade, a apreensão cautelar de produto para fins de instrução do processo administrativo de aplicação de penalidade. |
-
-| |
+|  | Descrição da infração | Dispositivo infringido | Notif | Prazo para | Multas | Suspe | Cassaç | Penalidade(s) cabível(eis) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | (Lei nº 8.616, e Anexo I | icaçã | atendimento |  | nsão | ão |  |
+|  |  | deste Decreto) | o p/ | e correção |  |  |  |  |
+|  |  |  | defes |  |  |  |  |  |
+|  |  |  | a |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+| 2. Poderão ser aplicadas, ainda, sanções previstas no edital do processo pública ou no termo de outorga, ainda que não transcritas no regulamento ou neste anexo, observado o devido processo legal. |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+| 3. É permitido à fiscalização, no exercício de sua atividade, a apreensão cautelar de produto para fins de instrução do processo administrativo de aplicação de penalidade. |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 ANEXO II
 
-| |Descrição da infração |
-
-| | |
-
-|2. Poderão ser aplicadas, ainda, sanções previstas no edital do processo público ou no termo de outorga, | |
-
-|ainda que não transcritas no regulamento ou neste anexo, observado o devido processo legal. | |
-
-| | |
-
-|3. É permitido à fiscalização, no exercício de sua atividade, a apreensão cautelar de produto para fins de | |
-
-|instrução do processo administrativo de aplicação de penalidade. | |
-
-| | |
+|  | Descrição da infração |
+| --- | --- |
+|  |  |
+| 2. Poderão ser aplicadas, ainda, sanções previstas no edital do processo público ou no termo de outorga, |  |
+| ainda que não transcritas no regulamento ou neste anexo, observado o devido processo legal. |  |
+|  |  |
+| 3. É permitido à fiscalização, no exercício de sua atividade, a apreensão cautelar de produto para fins de |  |
+| instrução do processo administrativo de aplicação de penalidade. |  |
+|  |  |
 
 Anexo II com redação dada pelo Decreto nº 15.727, de 15/10/2014 (Art. 16)

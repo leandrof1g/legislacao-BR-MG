@@ -52,38 +52,25 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida nos arts. 1º e 3º da|
-
-|Lei nº 11.377, de 8 de julho de 2022: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0000 |300.000,00 |
-
-|2302.10.301.157.2.690.4490.0000 |236.000,00 |
-
-|2302.10.302.114.2.891.3390.0000 |952.000,00 |
-
-|2302.10.302.114.2.894.3391.0000 |409.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.897.000,00 |
+| I – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida nos arts. 1º e 3º da |  |
+| --- | --- |
+| Lei nº 11.377, de 8 de julho de 2022: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0000 | 300.000,00 |
+| 2302.10.301.157.2.690.4490.0000 | 236.000,00 |
+| 2302.10.302.114.2.891.3390.0000 | 952.000,00 |
+| 2302.10.302.114.2.894.3391.0000 | 409.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.897.000,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II – Em contrapartida às suplementações relacionadas no item I: |
-
-|Anulação de emendas previstas inicialmente no Fundo Municipal de Saúde – FMS –, conforme |
-
-|autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |
-
-|R$ |
-
-|2302.10.122.117.1.216.4490.0000 |236.000,00 |
-
-|2302.10.122.117.1.216.4490.0000 |300.000,00 |
-
-|2302.10.302.114.2.891.3350.0000 |952.000,00 |
-
-|2302.10.302.114.2.894.3390.0000 |409.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.897.000,00 |
+| II – Em contrapartida às suplementações relacionadas no item I: |  |
+| --- | --- |
+| Anulação de emendas previstas inicialmente no Fundo Municipal de Saúde – FMS –, conforme |  |
+| autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| R$ |  |
+| 2302.10.122.117.1.216.4490.0000 | 236.000,00 |
+| 2302.10.122.117.1.216.4490.0000 | 300.000,00 |
+| 2302.10.302.114.2.891.3350.0000 | 952.000,00 |
+| 2302.10.302.114.2.894.3390.0000 | 409.000,00 |
+| TOTAL DA ANULAÇÃO | 1.897.000,00 |

@@ -48,24 +48,27 @@ Secretário Municipal de Finanças
 
 ANEXO I
 
-[pic][pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-ANEXO II [pic] [pic] [pic]ANEXO III
+ANEXO II *[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
+ANEXO III
+
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO IV
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO V
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO VI
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO VII
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

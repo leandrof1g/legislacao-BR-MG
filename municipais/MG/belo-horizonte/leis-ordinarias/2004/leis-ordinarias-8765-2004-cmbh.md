@@ -40,21 +40,15 @@ II - 5% (cinco por cento) a partir de 1º de abril de 2004, sobre o valor da rem
 
 **Art. 3º** - Fica concedido, a partir de 1º de outubro de 2001, abono ao servidor público ocupante de cargo e emprego público efetivo da Área de Atividades de Saúde da Administração Direta, da Beneficência da Prefeitura de Belo Horizonte - BEPREM - e do HMOB, nos seguintes valores:
 
-|CARGOS EFETIVOS |VALOR DO ABONO (em R$) |
-
-|Agente Sanitário |19,00 |
-
-|Agente de Serviço de Saúde |23,00 |
-
-|Auxiliar Sanitário |19,00 |
-
-|Cirurgião-Dentista |47,00 |
-
-|Médico |67,00 |
-
-|Técnico de Serviço de Saúde |24,00 |
-
-|Técnico Superior de Saúde |43,00 |
+| CARGOS EFETIVOS | VALOR DO ABONO (em R$) |
+| --- | --- |
+| Agente Sanitário | 19,00 |
+| Agente de Serviço de Saúde | 23,00 |
+| Auxiliar Sanitário | 19,00 |
+| Cirurgião-Dentista | 47,00 |
+| Médico | 67,00 |
+| Técnico de Serviço de Saúde | 24,00 |
+| Técnico Superior de Saúde | 43,00 |
 
 **§ 1º** - Passa a ser de R$94,00 (noventa e quatro reais), a partir de 1º de novembro de 2001, o valor do abono a que se refere o caput, para o servidor público ocupante de cargo ou emprego público efetivo de Cirurgião-Dentista.
 
@@ -70,11 +64,10 @@ II - não se incorporará à remuneração do servidor público e nem poderá se
 
 **Art. 5º** - Fica instituído, a partir de 1º de janeiro de 2002, abono para o servidor ocupante, e em efetivo exercício, de cargo ou emprego público efetivo de Médico e de Técnico Superior de Saúde da Área de Atividades de Saúde da Administração Direta, lotados nos centros de Referência em Saúde Mental do Município - CERSAM -, pelo cumprimento de plantão de 12 horas, prestado em fim de semana e feriado, excedente à jornada semanal legalmente prevista para seu cargo ou emprego, nos seguintes valores:
 
-|CARGO |VALOR DO ABONO (em R$) |
-
-|Médico |231,00 |
-
-|Técnico Superior de Saúde |215,00 |
+| CARGO | VALOR DO ABONO (em R$) |
+| --- | --- |
+| Médico | 231,00 |
+| Técnico Superior de Saúde | 215,00 |
 
 **Parágrafo único** - O abono a que se refere o caput:
 

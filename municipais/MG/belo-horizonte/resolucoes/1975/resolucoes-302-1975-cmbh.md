@@ -328,7 +328,7 @@ V. PRÉ-INVESTIMENTO
 
 - Aquisição de hidrômetros e peças para ligações prediais.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 2º** - Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

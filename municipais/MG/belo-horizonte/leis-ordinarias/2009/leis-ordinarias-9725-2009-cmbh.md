@@ -1350,141 +1350,79 @@ ANEXO II
 
 PARÂMETROS RELATIVOS AOS COMPARTIMENTOS DAS EDIFICAÇÕES DE USO RESIDENCIAL UNIFAMILIAR
 
-|Parâmetros |Área |Dimensão |Área Mínima do Vão de |Pé-Direito |Largura Mínima|Observações |
-
-| |Mínima |Mínima |Iluminação e Ventilação|Mínimo |dos Vãos de | |
-
-|Compartimentos |(m²) |(m) |em Relação à Área do |(m) |Acesso (m) | |
-
-| | | |Piso do Compartimento | | | |
-
-|Compartimentos de |- |- |- |2,30 |0,80*¹ |*1 - largura mínima exigida |
-
-|permanência transitória | | | | | |apenas para vãos de acesso |
-
-| | | | | | |externo de ambientes de preparo |
-
-| | | | | | |de alimentos |
-
-|Compartimentos de |- |- |1/6 |2,60 |0,80*² |*1 - quando o compartimento |
-
-|permanência prolongada | | |ou 1/5 *¹ | | |estiver sendo iluminado através |
-
-| | | | | | |de varanda. |
-
-| | | | | | |*2- largura mínima exigida apenas|
-
-| | | | | | |para um dos vãos de acesso |
-
-| | | | | | |externo. |
+| Parâmetros | Área | Dimensão | Área Mínima do Vão de | Pé-Direito | Largura Mínima | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Mínima | Mínima | Iluminação e Ventilação | Mínimo | dos Vãos de |  |
+| Compartimentos | (m²) | (m) | em Relação à Área do | (m) | Acesso (m) |  |
+|  |  |  | Piso do Compartimento |  |  |  |
+| Compartimentos de | - | - | - | 2,30 | 0,80*¹ | *1 - largura mínima exigida |
+| permanência transitória |  |  |  |  |  | apenas para vãos de acesso |
+|  |  |  |  |  |  | externo de ambientes de preparo |
+|  |  |  |  |  |  | de alimentos |
+| Compartimentos de | - | - | 1/6 | 2,60 | 0,80*² | *1 - quando o compartimento |
+| permanência prolongada |  |  | ou 1/5 *¹ |  |  | estiver sendo iluminado através |
+|  |  |  |  |  |  | de varanda. |
+|  |  |  |  |  |  | *2- largura mínima exigida apenas |
+|  |  |  |  |  |  | para um dos vãos de acesso |
+|  |  |  |  |  |  | externo. |
 
 ANEXO III
 
 PARÂMETROS RELATIVOS AOS COMPARTIMENTOS DAS UNIDADES PRIVATIVAS DAS EDIFICAÇÕES DE USO RESIDENCIAL MULTIFAMILIARES
 
-|Parâmetros |Área |Dimensão |Área Mínima do Vão de |Pé-Direito |Largura |Observações |
-
-| |Mínima |Mínima |Iluminação e Ventilação|Mínimo |Mínima dos | |
-
-| |(m²) |(m) |em Relação à Área do |(m) |Vãos de | |
-
-| | | |Piso do Compartimento | |Acesso (m) | |
-
-|Compartimentos | | | | | | |
-
-|Estar |12,00 |2,40 |1/6 |2,60 |0,70*² |*1 - quando o compartimento |
-
-| | | |ou 1/5 *1 | | |estiver sendo iluminado através de|
-
-| | | | | | |varanda. |
-
-| | | | | | |*2 - a largura mínima de um dos |
-
-| | | | | | |vãos de acesso externo deverá ser |
-
-| | | | | | |de 0,80m. |
-
-|Dormitórios |8,00 *1 |2,00*1 |1/6 |2,60 |0,70 | *1 – VETADO |
-
-| | | |ou 1/5 *² | | | |
-
-| | | | | | |*2 - quando o compartimento |
-
-| | | | | | |estiver sendo iluminado através de|
-
-| | | | | | |varanda. |
-
-|Manuseio de alimentos |4,00 |1,80 |1/8 |2,30 |0,70 *2 |*1 - quando o compartimento |
-
-| | | |ou 1/6 *1 | | |estiver sendo iluminado através da|
-
-| | | | | | |área de serviço ou varanda. |
-
-| | | | | | |*2 - A largura mínima de um dos |
-
-| | | | | | |vãos de acesso externo deverá ser |
-
-| | | | | | |de 0,80m. |
-
-|Área de |- |0,90 |- |2,30 |0,80 |*1 - pode ser conjugada com a|
-
-|serviço *¹ | | | | | |cozinha. |
-
-|Instalação sanitária |2,40*1 |1,20 |1/8 ou |2,30 |0,60*3 |*1- é facultada a instalação de |
-
-|principal | | |1/6 *2 | | |lavatório externo à instalação |
-
-| | | | | | |sanitária, ficando este com a área|
-
-| | | | | | |mínima de 1,80m2. |
-
-| | | | | | |*2 - quando o compartimento |
-
-| | | | | | |estiver sendo iluminado através de|
-
-| | | | | | |varanda ou através da área de |
-
-| | | | | | |serviço, desde que a área de |
-
-| | | | | | |serviço esteja separada da cozinha|
-
-| | | | | | |por parede até o teto ou porta. |
-
-| | | | | | |*3 - pelo menos uma das |
-
-| | | | | | |instalações sanitárias deverá ter |
-
-| | | | | | |vão de acesso com largura mínima |
-
-| | | | | | |de 0,70m. |
-
-|Instalação sanitária |1,50 |1,00 |1/8 |2,30 |0,60 | |
-
-|secundária | | | | | | |
-
-|Circulação |- |0,90 |- |2,30 |- |- |
-
-|Rampa * |- |0,90 |- |2,30 |- |* pelo menos uma das rampas com |
-
-| | | | | | |declividade máxima = 8,33% para |
-
-| | | | | | |garantia de acessibilidade a |
-
-| | | | | | |pessoa portadora de deficiência ou|
-
-| | | | | | |mobilidade reduzida e de 15% para |
-
-| | | | | | |as demais rampas. |
-
-|Escada * |- |0,80 |- |2,30 |- |* havendo passagem sob escada, |
-
-| | | | | | |altura do vão h=2,10m. |
-
-|Abrigo/Área de |- |2,30 x 4,50 |- |2,20* |- |* pé direito mínimo em relação a |
-
-|estacionamento de | |por vaga | | | |qualquer elemento construtivo. |
-
-|veículos | | | | | | |
+| Parâmetros | Área | Dimensão | Área Mínima do Vão de | Pé-Direito | Largura | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Mínima | Mínima | Iluminação e Ventilação | Mínimo | Mínima dos |  |
+|  | (m²) | (m) | em Relação à Área do | (m) | Vãos de |  |
+|  |  |  | Piso do Compartimento |  | Acesso (m) |  |
+| Compartimentos |  |  |  |  |  |  |
+| Estar | 12,00 | 2,40 | 1/6 | 2,60 | 0,70*² | *1 - quando o compartimento |
+|  |  |  | ou 1/5 *1 |  |  | estiver sendo iluminado através de |
+|  |  |  |  |  |  | varanda. |
+|  |  |  |  |  |  | *2 - a largura mínima de um dos |
+|  |  |  |  |  |  | vãos de acesso externo deverá ser |
+|  |  |  |  |  |  | de 0,80m. |
+| Dormitórios | 8,00 *1 | 2,00*1 | 1/6 | 2,60 | 0,70 | *1 – VETADO |
+|  |  |  | ou 1/5 *² |  |  |  |
+|  |  |  |  |  |  | *2 - quando o compartimento |
+|  |  |  |  |  |  | estiver sendo iluminado através de |
+|  |  |  |  |  |  | varanda. |
+| Manuseio de alimentos | 4,00 | 1,80 | 1/8 | 2,30 | 0,70 *2 | *1 - quando o compartimento |
+|  |  |  | ou 1/6 *1 |  |  | estiver sendo iluminado através da |
+|  |  |  |  |  |  | área de serviço ou varanda. |
+|  |  |  |  |  |  | *2 - A largura mínima de um dos |
+|  |  |  |  |  |  | vãos de acesso externo deverá ser |
+|  |  |  |  |  |  | de 0,80m. |
+| Área de | - | 0,90 | - | 2,30 | 0,80 | *1 - pode ser conjugada com a |
+| serviço *¹ |  |  |  |  |  | cozinha. |
+| Instalação sanitária | 2,40*1 | 1,20 | 1/8 ou | 2,30 | 0,60*3 | *1- é facultada a instalação de |
+| principal |  |  | 1/6 *2 |  |  | lavatório externo à instalação |
+|  |  |  |  |  |  | sanitária, ficando este com a área |
+|  |  |  |  |  |  | mínima de 1,80m2. |
+|  |  |  |  |  |  | *2 - quando o compartimento |
+|  |  |  |  |  |  | estiver sendo iluminado através de |
+|  |  |  |  |  |  | varanda ou através da área de |
+|  |  |  |  |  |  | serviço, desde que a área de |
+|  |  |  |  |  |  | serviço esteja separada da cozinha |
+|  |  |  |  |  |  | por parede até o teto ou porta. |
+|  |  |  |  |  |  | *3 - pelo menos uma das |
+|  |  |  |  |  |  | instalações sanitárias deverá ter |
+|  |  |  |  |  |  | vão de acesso com largura mínima |
+|  |  |  |  |  |  | de 0,70m. |
+| Instalação sanitária | 1,50 | 1,00 | 1/8 | 2,30 | 0,60 |  |
+| secundária |  |  |  |  |  |  |
+| Circulação | - | 0,90 | - | 2,30 | - | - |
+| Rampa * | - | 0,90 | - | 2,30 | - | * pelo menos uma das rampas com |
+|  |  |  |  |  |  | declividade máxima = 8,33% para |
+|  |  |  |  |  |  | garantia de acessibilidade a |
+|  |  |  |  |  |  | pessoa portadora de deficiência ou |
+|  |  |  |  |  |  | mobilidade reduzida e de 15% para |
+|  |  |  |  |  |  | as demais rampas. |
+| Escada * | - | 0,80 | - | 2,30 | - | * havendo passagem sob escada, |
+|  |  |  |  |  |  | altura do vão h=2,10m. |
+| Abrigo/Área de | - | 2,30 x 4,50 | - | 2,20* | - | * pé direito mínimo em relação a |
+| estacionamento de |  | por vaga |  |  |  | qualquer elemento construtivo. |
+| veículos |  |  |  |  |  |  |
 
 ANEXO III
 
@@ -1494,267 +1432,154 @@ Anexo III com redação dada pela Lei nº 11.834, de 17/3/2025 (Art. 1º)
 
 Anexo III com vigência a partir de 2/5/2025, nos termos do Decreto-Lei nº 4.657, de 4/9/1942 (Art. 1º)
 
-|Parâmetros |Área |Dimensão |Área Mínima do |Pé-Direi|Largura | |
-
-|Compartimentos |Mínima |Mínima |Vão de |to |Mínima dos |Observações |
-
-| |(m2) |(m) |Iluminação e |Mínimo |Vãos de | |
-
-| | | |Ventilação em |(m) |Acesso | |
-
-| | | |Relação à Área | |(m) | |
-
-| | | |do Piso do | | | |
-
-| | | |Compartimento | | | |
-
-|Estar |12,00 |2,40 |1/6 ou 1/5*¹ |2,60 |0,70*² |*1 - quando o compartimento estiver sendo iluminado |
-
-| | | | | | |através de varanda. |
-
-| | | | | | |*2 - a largura mínima de um dos vãos de acesso |
-
-| | | | | | |externo deverá ser de 0,80m. |
-
-|Dormitórios |8,00*¹ |2,00*¹ |1/6 ou 1/5*² |2,60 |0,70 |*1 - VETADO |
-
-| | | | | | |*2 - quando o compartimento estiver sendo iluminado |
-
-| | | | | | |através de varanda. |
-
-|Manuseio de |4,00 |1,80 |1/8 ou 1/6 *¹ |2,30 |0,70*² |*1 - quando o compartimento estiver sendo iluminado |
-
-|alimentos | | | | | |através da área de serviço ou varanda sanitária, |
-
-| | | | | | |ficando este com a área mínima de 1,80m2. |
-
-| | | | | | |*2 - a largura mínima de um dos vãos de acesso |
-
-| | | | | | |externo deverá ser de 0,80m. |
-
-|Área de serviço*1 |- |0,90 |- |2,30 |0,80 |*1 - pode ser conjugada com a cozinha. |
-
-|Parâmetros |Área |Dimensão |Área Mínima do |Pé-Direi|Largura |Observações |
-
-| |Mínima |Mínima |Vão de |to |Mínima dos | |
-
-|Compartimentos |(m2) |(m) |Iluminação e |Mínimo |Vãos de | |
-
-| | | |Ventilação em |(m) |Acesso | |
-
-| | | |Relação à Área | |(m) | |
-
-| | | |do Piso do | | | |
-
-| | | |Compartimento | | | |
-
-|Instalação |2,40*¹ |1,20 |- |2,30 |0,60*² |*1 - é facultada a instalação de lavatório externo à|
-
-|sanitária | | | | | |instalação sanitária. |
-
-|principal | | | | | | |
-
-| | | | | | |*2 - pelo menos uma das instalações sanitárias |
-
-| | | | | | |deverá ter vão de acesso com largura mínima de |
-
-| | | | | | |0,70m. |
-
-|Instalação |1,50 |1,00 |1/8 |2,30 |0,60 |- |
-
-|sanitária | | | | | | |
-
-|secundária | | | | | | |
-
-|Circulação |- |0,90 |- |2,30 |- |- |
-
-|Rampa* |- |0,90 |- |2,30 |- |*pelo menos uma das rampas com declividade máxima = |
-
-| | | | | | |8,33% para garantia de acessibilidade a pessoa com |
-
-| | | | | | |deficiência ou mobilidade reduzida e de 15% para as |
-
-| | | | | | |demais rampas. |
-
-|Escada* |- |0,80 |- |2,30 |- |*havendo passagem sob escada, altura do vão |
-
-| | | | | | |h = 2,10m. |
-
-|Abrigo/Área de |- |2,30 x 4,50|- |2,20* |- |*pé-direito mínimo em relação a qualquer elemento |
-
-|estacionamento de | | | | | |construtivo. |
-
-|veículos | |por vaga | | | | |
+| Parâmetros | Área | Dimensão | Área Mínima do | Pé-Direi | Largura |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Compartimentos | Mínima | Mínima | Vão de | to | Mínima dos | Observações |
+|  | (m2) | (m) | Iluminação e | Mínimo | Vãos de |  |
+|  |  |  | Ventilação em | (m) | Acesso |  |
+|  |  |  | Relação à Área |  | (m) |  |
+|  |  |  | do Piso do |  |  |  |
+|  |  |  | Compartimento |  |  |  |
+| Estar | 12,00 | 2,40 | 1/6 ou 1/5*¹ | 2,60 | 0,70*² | *1 - quando o compartimento estiver sendo iluminado |
+|  |  |  |  |  |  | através de varanda. |
+|  |  |  |  |  |  | *2 - a largura mínima de um dos vãos de acesso |
+|  |  |  |  |  |  | externo deverá ser de 0,80m. |
+| Dormitórios | 8,00*¹ | 2,00*¹ | 1/6 ou 1/5*² | 2,60 | 0,70 | *1 - VETADO |
+|  |  |  |  |  |  | *2 - quando o compartimento estiver sendo iluminado |
+|  |  |  |  |  |  | através de varanda. |
+| Manuseio de | 4,00 | 1,80 | 1/8 ou 1/6 *¹ | 2,30 | 0,70*² | *1 - quando o compartimento estiver sendo iluminado |
+| alimentos |  |  |  |  |  | através da área de serviço ou varanda sanitária, |
+|  |  |  |  |  |  | ficando este com a área mínima de 1,80m2. |
+|  |  |  |  |  |  | *2 - a largura mínima de um dos vãos de acesso |
+|  |  |  |  |  |  | externo deverá ser de 0,80m. |
+| Área de serviço*1 | - | 0,90 | - | 2,30 | 0,80 | *1 - pode ser conjugada com a cozinha. |
+| Parâmetros | Área | Dimensão | Área Mínima do | Pé-Direi | Largura | Observações |
+|  | Mínima | Mínima | Vão de | to | Mínima dos |  |
+| Compartimentos | (m2) | (m) | Iluminação e | Mínimo | Vãos de |  |
+|  |  |  | Ventilação em | (m) | Acesso |  |
+|  |  |  | Relação à Área |  | (m) |  |
+|  |  |  | do Piso do |  |  |  |
+|  |  |  | Compartimento |  |  |  |
+| Instalação | 2,40*¹ | 1,20 | - | 2,30 | 0,60*² | *1 - é facultada a instalação de lavatório externo à |
+| sanitária |  |  |  |  |  | instalação sanitária. |
+| principal |  |  |  |  |  |  |
+|  |  |  |  |  |  | *2 - pelo menos uma das instalações sanitárias |
+|  |  |  |  |  |  | deverá ter vão de acesso com largura mínima de |
+|  |  |  |  |  |  | 0,70m. |
+| Instalação | 1,50 | 1,00 | 1/8 | 2,30 | 0,60 | - |
+| sanitária |  |  |  |  |  |  |
+| secundária |  |  |  |  |  |  |
+| Circulação | - | 0,90 | - | 2,30 | - | - |
+| Rampa* | - | 0,90 | - | 2,30 | - | *pelo menos uma das rampas com declividade máxima = |
+|  |  |  |  |  |  | 8,33% para garantia de acessibilidade a pessoa com |
+|  |  |  |  |  |  | deficiência ou mobilidade reduzida e de 15% para as |
+|  |  |  |  |  |  | demais rampas. |
+| Escada* | - | 0,80 | - | 2,30 | - | *havendo passagem sob escada, altura do vão |
+|  |  |  |  |  |  | h = 2,10m. |
+| Abrigo/Área de | - | 2,30 x 4,50 | - | 2,20* | - | *pé-direito mínimo em relação a qualquer elemento |
+| estacionamento de |  |  |  |  |  | construtivo. |
+| veículos |  | por vaga |  |  |  |  |
 
 ANEXO IV
 
 DIMENSÕES MÍNIMAS DE MOBILIÁRIO E CIRCULAÇÃO DOS DORMITÓRIOS (LEIAUTE)
 
-|Compartimento |Mobiliário mínimo |Circulação (m) |
-
-| |Móvel ou equipamento |Dimensões (m) | |
-
-| | |Largura |Profundidade | |
-
-|Dormitório |Duas camas de solteiro|0,80 (cada) |1,90 (cada) |Circulação mínima entre o mobiliário |
-
-|Principal | | | |e/ou paredes de 0,70m, respeitado o |
-
-| | | | |raio de abertura das portas. |
-
-| |Criado-mudo |0,50 |0,50 | |
-
-| |Guarda-roupa |1,50 |0,60 | |
-
-|Dormitório secundário |Cama de solteiro |0,80 |1,90 | |
-
-| |Criado-mudo |0,50 |0,50 | |
-
-| |Guarda-roupa |1,50 |0,60 | |
+| Compartimento | Mobiliário mínimo | Circulação (m) |  |  |
+| --- | --- | --- | --- | --- |
+|  | Móvel ou equipamento | Dimensões (m) |  |  |
+|  |  | Largura | Profundidade |  |
+| Dormitório | Duas camas de solteiro | 0,80 (cada) | 1,90 (cada) | Circulação mínima entre o mobiliário |
+| Principal |  |  |  | e/ou paredes de 0,70m, respeitado o |
+|  |  |  |  | raio de abertura das portas. |
+|  | Criado-mudo | 0,50 | 0,50 |  |
+|  | Guarda-roupa | 1,50 | 0,60 |  |
+| Dormitório secundário | Cama de solteiro | 0,80 | 1,90 |  |
+|  | Criado-mudo | 0,50 | 0,50 |  |
+|  | Guarda-roupa | 1,50 | 0,60 |  |
 
 ANEXO V
 
 PARÂMETROS RELATIVOS AOS COMPARTIMENTOS DAS UNIDADES PRIVATIVAS DAS EDIFICAÇÕES DE USO NÃO RESIDENCIAL
 
-|Parâmetros |Área |Dimensão |Área Mínima do vão de|Pé- |Largura Mínima |Observações |
-
-| |Mínima |Mínima |Iluminação e |Direito |dos vãos de | |
-
-| |(m²) |(m) |Ventilação |Mínimo |acesso | |
-
-| | | |em Relação ao Piso do|(m) |(m) | |
-
-| | | |Compartimento | | | |
-
-|Compartimentos | | | | | | |
-
-|Circulação |- |0,90 |- |2,30 |- |- |
-
-|privativa | | | | | | |
-
-|Escada * |- |0,80 |- |2,30 |- |* havendo passagem sob escada, |
-
-| | | | | | |altura do vão h= 2,10m. |
-
-|Sala de aula |- |3,50 |1/6 |1/12 da área do|0,80 |* para compartimento com área |
-
-| | | | |comparti-mento,| |maior ou igual a 48,00 m², o pé|
-
-| | | | |não podendo ser| |direito mínimo é de 4,00 m. |
-
-| | | | |inferior a 2,60| | |
-
-| | | | |m * | | |
-
-|Salas comerciais, |- |2,00 |1/6 |2,60 |0,80 |* permitida ventilação |
-
-|escritórios, etc. * | | | | | |mecânica. |
-
-|Lojas *¹ |- |2,00 | |2,60 |0,80 |* 1 - permitida ventilação |
-
-| | | |1/10 |ou 5,00 *² | |mecânica. |
-
-| | | | | | |*2 - quando tiver sobreloja. |
-
-|Sobrelojas *¹ | |2,00 | |2,30*² |- |*1 - permitida ventilação |
-
-| | | |1/10 | | |mecânica. |
-
-| | | | | | |*2 - pé-direito máximo = 3,00m.|
+| Parâmetros | Área | Dimensão | Área Mínima do vão de | Pé- | Largura Mínima | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Mínima | Mínima | Iluminação e | Direito | dos vãos de |  |
+|  | (m²) | (m) | Ventilação | Mínimo | acesso |  |
+|  |  |  | em Relação ao Piso do | (m) | (m) |  |
+|  |  |  | Compartimento |  |  |  |
+| Compartimentos |  |  |  |  |  |  |
+| Circulação | - | 0,90 | - | 2,30 | - | - |
+| privativa |  |  |  |  |  |  |
+| Escada * | - | 0,80 | - | 2,30 | - | * havendo passagem sob escada, |
+|  |  |  |  |  |  | altura do vão h= 2,10m. |
+| Sala de aula | - | 3,50 | 1/6 | 1/12 da área do | 0,80 | * para compartimento com área |
+|  |  |  |  | comparti-mento, |  | maior ou igual a 48,00 m², o pé |
+|  |  |  |  | não podendo ser |  | direito mínimo é de 4,00 m. |
+|  |  |  |  | inferior a 2,60 |  |  |
+|  |  |  |  | m * |  |  |
+| Salas comerciais, | - | 2,00 | 1/6 | 2,60 | 0,80 | * permitida ventilação |
+| escritórios, etc. * |  |  |  |  |  | mecânica. |
+| Lojas *¹ | - | 2,00 |  | 2,60 | 0,80 | * 1 - permitida ventilação |
+|  |  |  | 1/10 | ou 5,00 *² |  | mecânica. |
+|  |  |  |  |  |  | *2 - quando tiver sobreloja. |
+| Sobrelojas *¹ |  | 2,00 |  | 2,30*² | - | *1 - permitida ventilação |
+|  |  |  | 1/10 |  |  | mecânica. |
+|  |  |  |  |  |  | *2 - pé-direito máximo = 3,00m. |
 
 ANEXO VI
 
 PARÂMETROS RELATIVOS AOS COMPARTIMENTOS DAS ÁREAS DE USO COMUM
 
-|Parâmetros |Área |Dimensão Mínima |Área Mínima do Vão de|Pé- |Largura Mínima |Observações |
-
-| |Mínima |(m) |Iluminação e |Direito |dos Vãos de | |
-
-| |(m²) | |Ventilação em Relação|Mínimo |Acesso (m) | |
-
-| | | |à Área do Piso do |(m) | | |
-
-|Compartimentos | | |Compartimento | | | |
-
-|Hall * |- |1,20 |1/8 |2,30 |0,80 |* permitida ventilação mecânica |
-
-|Circulação de |- |1,20 *¹ |1/8 |2,30 |0,80 | |
-
-|Pessoas | |ou 1,50 *² | | | |*1 - quando o comprimento da |
-
-| | | | | | |circulação for de até 10,00m ou |
-
-| | | | | | |desde que seja intercalada, a cada |
-
-| | | | | | |10,00m, por área cujo diâmetro seja|
-
-| | | | | | |de no mínimo 1,50m. |
-
-| | | | | | |*2 - quando o comprimento da |
-
-| | | | | | |circulação for superior a 10,00 m. |
-
-|Escada *¹ |- |1,20 *² |1/8 |2,30 |0,80 |*1 - havendo passagem sob escada, |
-
-| | | | | | |altura do vão h=2,10m. |
-
-| | | | | | |*2 - largura livre de corrimão. |
-
-|Área de estacionamento |- |2,30 x 4,50 |- |2,20*2 |2,50 |*1 - garantir acesso, circulação e |
-
-|de veículos *1 | |por vaga | | | |espaço para manobras. |
-
-| | | | | | |*2 - pé-direito mínimo em relação a|
-
-| | | | | | |qualquer elemento construtivo. |
-
-|Circulação de |- |2,50 |- |2,20 |2,50 |* declividade máxima de 12% para |
-
-|veículos * | | | | | |caminhões e de 20% para automóveis.|
+| Parâmetros | Área | Dimensão Mínima | Área Mínima do Vão de | Pé- | Largura Mínima | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Mínima | (m) | Iluminação e | Direito | dos Vãos de |  |
+|  | (m²) |  | Ventilação em Relação | Mínimo | Acesso (m) |  |
+|  |  |  | à Área do Piso do | (m) |  |  |
+| Compartimentos |  |  | Compartimento |  |  |  |
+| Hall * | - | 1,20 | 1/8 | 2,30 | 0,80 | * permitida ventilação mecânica |
+| Circulação de | - | 1,20 *¹ | 1/8 | 2,30 | 0,80 |  |
+| Pessoas |  | ou 1,50 *² |  |  |  | *1 - quando o comprimento da |
+|  |  |  |  |  |  | circulação for de até 10,00m ou |
+|  |  |  |  |  |  | desde que seja intercalada, a cada |
+|  |  |  |  |  |  | 10,00m, por área cujo diâmetro seja |
+|  |  |  |  |  |  | de no mínimo 1,50m. |
+|  |  |  |  |  |  | *2 - quando o comprimento da |
+|  |  |  |  |  |  | circulação for superior a 10,00 m. |
+| Escada *¹ | - | 1,20 *² | 1/8 | 2,30 | 0,80 | *1 - havendo passagem sob escada, |
+|  |  |  |  |  |  | altura do vão h=2,10m. |
+|  |  |  |  |  |  | *2 - largura livre de corrimão. |
+| Área de estacionamento | - | 2,30 x 4,50 | - | 2,20*2 | 2,50 | *1 - garantir acesso, circulação e |
+| de veículos *1 |  | por vaga |  |  |  | espaço para manobras. |
+|  |  |  |  |  |  | *2 - pé-direito mínimo em relação a |
+|  |  |  |  |  |  | qualquer elemento construtivo. |
+| Circulação de | - | 2,50 | - | 2,20 | 2,50 | * declividade máxima de 12% para |
+| veículos * |  |  |  |  |  | caminhões e de 20% para automóveis. |
 
 ANEXO VII
 
 TABELA DE INFRAÇÕES E PENALIDADES CABÍVEIS
 
-|Item |Detalhamento da Infração |Detalhamento da Penalidade |
-
-| | |Multa |Embargo |Cassaçã|Interdição |Demolição |
-
-| | | | |o da | | |
-
-| | | | |licença| | |
-
-| |
-
-|02 |Executar obra não licenciada ou sem acompanhamento de RT. |Art. 8º, II |
-
-| | |Art. 11, § 2º |
-
-| | |Multa | | | | |
-
-| |Descrição |Dispositivo Infringido/ |
-
-| | |Dispositivo previsto |
-
-| | |Multa |Embargo |Cassação |Interdição |Demolição |
-
-| | | | |da licença| | |
-
-| |Descrição |Dispositivo Infringido/ |
-
-| | |Dispositivo previsto |
-
-| | |Multa |Embargo |Cassação |Interdição |Demolição |
-
-| | | | |da licença| | |
-
-| |Descrição |Dispositivo Infringido/ |
-
-| | |Dispositivo previsto |
-
-| | |Multa |Embargo |Cassação |Interdição |Demolição |
-
-| | | | |da licença| | |
+| Item | Detalhamento da Infração | Detalhamento da Penalidade |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Multa | Embargo | Cassaçã | Interdição | Demolição |
+|  |  |  |  | o da |  |  |
+|  |  |  |  | licença |  |  |
+|  |  |  |  |  |  |  |
+| 02 | Executar obra não licenciada ou sem acompanhamento de RT. | Art. 8º, II |  |  |  |  |
+|  |  | Art. 11, § 2º |  |  |  |  |
+|  |  | Multa |  |  |  |  |
+|  | Descrição | Dispositivo Infringido/ |  |  |  |  |
+|  |  | Dispositivo previsto |  |  |  |  |
+|  |  | Multa | Embargo | Cassação | Interdição | Demolição |
+|  |  |  |  | da licença |  |  |
+|  | Descrição | Dispositivo Infringido/ |  |  |  |  |
+|  |  | Dispositivo previsto |  |  |  |  |
+|  |  | Multa | Embargo | Cassação | Interdição | Demolição |
+|  |  |  |  | da licença |  |  |
+|  | Descrição | Dispositivo Infringido/ |  |  |  |  |
+|  |  | Dispositivo previsto |  |  |  |  |
+|  |  | Multa | Embargo | Cassação | Interdição | Demolição |
+|  |  |  |  | da licença |  |  |
 
 |Descrição |Dispositivo Infringido/ Dispositivo previsto |Notificação |Prazo atendimento notificação (dias) |Infrator (es) |Detalhamento |Grau |Periodicidade de aplicação (dias) | | | | | |26 |Execução de obra em desacordo com o projeto aprovado e/ou com a legislação vigente |Art. 50, §§ 2º a 5º |NP |30 |RT ou proprietário, no caso de obra sem RT |Por unidade que infringir o dispositivo |G |30 |Na primeira reincidência |Sim |Sim |Sim | | | |Art. 63, caput, §§ 1º e 2º
 

@@ -164,4 +164,5 @@ Secretário Municipal de Saúde
 
 ANEXO ÚNICO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

@@ -36,9 +36,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 C - Semanas comemorativas de março:
 
-|DATA |COMEMORAÇÃO |
-
-|Semana que contenha o dia 8/3 |Semana Municipal de Conscientização, Prevenção e Combate ao HPV |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Semana que contenha o dia 8/3 | Semana Municipal de Conscientização, Prevenção e Combate ao HPV |
 
 .”.
 

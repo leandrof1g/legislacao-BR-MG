@@ -42,9 +42,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 J - Dias comemorativos de outubro:
 
-|DATA |COMEMORAÇÃO |
-
-|2/10 |Dia Municipal de Conscientização sobre a Síndrome de Moebius |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 2/10 | Dia Municipal de Conscientização sobre a Síndrome de Moebius |
 
 [...]”
 

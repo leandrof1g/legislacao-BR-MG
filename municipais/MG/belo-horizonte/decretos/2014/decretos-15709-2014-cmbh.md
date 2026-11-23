@@ -100,15 +100,12 @@ IEPM = x , em que x = IFEPM _______________ Percentual de cargos providos 100
 
 **§ 6º** – O valor da Gratificação de Metas Jurídicas Coletivas – GMJC – a ser pago aos Procuradores Municipais dependerá do alcance mínimo de 0,7 do Índice Final de Eficiência dos Procuradores Municipais – IFEPM, obedecendo a seguinte sistemática:
 
-|Índice Final de Eficiência dos Procuradores Municipais - IFEPM|Valor percentual da Gratificação pelo Cumprimento de Metas |
-
-| |Jurídicas |
-
-|0,9 a 1,0 |100 % |
-
-|0,8 a 0,89 |90 % |
-
-|0,7 a 0,79 |80% |
+| Índice Final de Eficiência dos Procuradores Municipais - IFEPM | Valor percentual da Gratificação pelo Cumprimento de Metas |
+| --- | --- |
+|  | Jurídicas |
+| 0,9 a 1,0 | 100 % |
+| 0,8 a 0,89 | 90 % |
+| 0,7 a 0,79 | 80% |
 
 **Art. 5º** - Fica instituído o Conselho Fiscal, composto por 3 (três) membros, com competência para fiscalizar os procedimentos de apuração e cálculo previstos neste Decreto.
 
@@ -132,25 +129,17 @@ Descrição: Os grandes devedores do Município, aqui identificados como aqueles
 
 Fonte: Relatório Gerencial de Desempenho na Execução de Atividades Jurídicas – RGDEAJ
 
-|Detalhamento das Tarefas Jurídicas |Índice de Produção |
-
-|1.1 - Elaboração de relatório mensal, até o 5º dia útil do mês seguinte ao da apuração, sobre o |1 |
-
-|andamento processual das ações que integram o grupo de grandes devedores | |
-
-|1.2 - Ajuizamento de medida cautelar fiscal ou requerimento de administração judicial quando solicitado |1 |
-
-|ou cabível, respectivamente, no prazo assinalado pelo Procurador-Geral do Município | |
-
-|1.3 - Solicitação, no prazo de até 20 (vinte) dias da intimação, da transferência de valores das contas |1 |
-
-|do Judiciário para a conta do Município após o trânsito em julgado | |
-
-|1.4 - Diligenciar de forma pessoal, no prazo de 10 (dez) dias, a distribuição das ações acima de R$ |1 |
-
-|500.000,00 | |
-
-|1.5 - Sustentação oral nos casos indicados pelo Gerente Imediato | |
+| Detalhamento das Tarefas Jurídicas | Índice de Produção |
+| --- | --- |
+| 1.1 - Elaboração de relatório mensal, até o 5º dia útil do mês seguinte ao da apuração, sobre o | 1 |
+| andamento processual das ações que integram o grupo de grandes devedores |  |
+| 1.2 - Ajuizamento de medida cautelar fiscal ou requerimento de administração judicial quando solicitado | 1 |
+| ou cabível, respectivamente, no prazo assinalado pelo Procurador-Geral do Município |  |
+| 1.3 - Solicitação, no prazo de até 20 (vinte) dias da intimação, da transferência de valores das contas | 1 |
+| do Judiciário para a conta do Município após o trânsito em julgado |  |
+| 1.4 - Diligenciar de forma pessoal, no prazo de 10 (dez) dias, a distribuição das ações acima de R$ | 1 |
+| 500.000,00 |  |
+| 1.5 - Sustentação oral nos casos indicados pelo Gerente Imediato |  |
 
 META 2 - EFICIÊNCIA NO TRATAMENTO DE EXPEDIENTES RELACIONADOS COM O CONTENCIOSO JUDICIAL - MEDIDAS DE URGÊNCIA E AJUIZAMENTO DE AÇÕES JUDICIAIS PRIORITÁRIAS
 
@@ -158,19 +147,14 @@ Descrição: O indicador tem como objetivo medir a eficiência e a agilidade da 
 
 Fonte: Relatórios Gerenciais de Desempenho na Execução de Atividades Jurídicas – RGDEAJ
 
-|Detalhamento das Tarefas Jurídicas |Índice de Produção |
-
-|2.1 - Adoção de medidas judiciais cabíveis e pertinentes, no prazo assinalado pelo |1,5 |
-
-|Procurador-Geral do Município, à reversão de decisões liminares e antecipação de tutela | |
-
-|proferidas contra o Município de Belo Horizonte em casos prioritários, na hipótese em que a | |
-
-|adoção posterior da medida implicar perda de objeto da demanda ou grave prejuízo | |
-
-|2.2 - Ajuizamento de ações prioritárias, assim definidas pelo Procurador-Geral do Município, no |1 |
-
-|prazo por este assinalado | |
+| Detalhamento das Tarefas Jurídicas | Índice de Produção |
+| --- | --- |
+| 2.1 - Adoção de medidas judiciais cabíveis e pertinentes, no prazo assinalado pelo | 1,5 |
+| Procurador-Geral do Município, à reversão de decisões liminares e antecipação de tutela |  |
+| proferidas contra o Município de Belo Horizonte em casos prioritários, na hipótese em que a |  |
+| adoção posterior da medida implicar perda de objeto da demanda ou grave prejuízo |  |
+| 2.2 - Ajuizamento de ações prioritárias, assim definidas pelo Procurador-Geral do Município, no | 1 |
+| prazo por este assinalado |  |
 
 META 3 – EFICIÊNCIA NO TRATAMENTO DE CONSULTAS E PARECERES JURÍDICOS DE ALTA COMPLEXIDADE
 
@@ -178,11 +162,10 @@ Descrição: A emissão de pareceres jurídicos dinamiza o exercício da funçã
 
 Fonte: Relatórios Gerenciais de Desempenho na Execução de Atividades Jurídicas – RGDEAJ
 
-|Detalhamento das Tarefas Jurídicas |Índice de Produção |
-
-|3 - Elaboração de parecer de alta complexidade jurídica, assim definido pelo Procurador-Geral do |1 |
-
-|Município ou pelo Gerente Imediato | |
+| Detalhamento das Tarefas Jurídicas | Índice de Produção |
+| --- | --- |
+| 3 - Elaboração de parecer de alta complexidade jurídica, assim definido pelo Procurador-Geral do | 1 |
+| Município ou pelo Gerente Imediato |  |
 
 ANEXO II
 
@@ -190,34 +173,21 @@ Gerência:
 
 Período de captação:
 
-|Tarefas Jurídicas |Data do recebimento |Data da Saída |Percentual de conformidade|Índice de Produção-IP |
-
-|Distribuídas-TJD | | |com o prazo, se for o | |
-
-| | | |caso: 100%, 70%, 30% ou 0 | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-|Índice de Produção-IP |__________ |___________ | |Índice de Produção-IP |
+| Tarefas Jurídicas | Data do recebimento | Data da Saída | Percentual de conformidade | Índice de Produção-IP |
+| --- | --- | --- | --- | --- |
+| Distribuídas-TJD |  |  | com o prazo, se for o |  |
+|  |  |  | caso: 100%, 70%, 30% ou 0 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| Índice de Produção-IP | __________ | ___________ |  | Índice de Produção-IP |
 
 Índice Gerencial no Cumprimento de Metas Jurídicas Coletivas = Total de IP . Total de TJD

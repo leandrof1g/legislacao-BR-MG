@@ -58,117 +58,66 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da |R$ |
-
-|Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2900.319011.1.500.000 |849.167,00 |
-
-|2505.04.122.0165.2816.319011.1.500.000 |139.807,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.319113.1.500.000 |6.493.422,00 |
-
-|2200.12.365.0169.2542.319011.1.500.000 |10.305.631,00 |
-
-|2200.12.366.0168.2080.319113.1.500.000 |74.319,00 |
-
-|2200.12.365.0169.2542.319113.1.500.000 |3.518.246,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.319011.1.604.000 |2.066.385,00 |
-
-|TOTAL |23.446.977,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2900.339036.1.500.000 |126.618,00 |
-
-|2505.18.541.0073.2900.339091.1.500.000 |7.459,00 |
-
-|2505.18.541.0073.2900.339046.1.500.000 |595.191,00 |
-
-|2505.18.541.0073.2900.339047.1.500.000 |32.950,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2900.339039.1.500.000 |1.718.742,65 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.241.0127.2697.339036.1.500.000 |1.500,00 |
-
-|TOTAL |2.482.460,65 |
-
-|TOTAL DA SUPLEMENTAÇÃO |25.929.437,65 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da | R$ |
+| --- | --- |
+| Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2900.319011.1.500.000 | 849.167,00 |
+| 2505.04.122.0165.2816.319011.1.500.000 | 139.807,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.319113.1.500.000 | 6.493.422,00 |
+| 2200.12.365.0169.2542.319011.1.500.000 | 10.305.631,00 |
+| 2200.12.366.0168.2080.319113.1.500.000 | 74.319,00 |
+| 2200.12.365.0169.2542.319113.1.500.000 | 3.518.246,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.319011.1.604.000 | 2.066.385,00 |
+| TOTAL | 23.446.977,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2900.339036.1.500.000 | 126.618,00 |
+| 2505.18.541.0073.2900.339091.1.500.000 | 7.459,00 |
+| 2505.18.541.0073.2900.339046.1.500.000 | 595.191,00 |
+| 2505.18.541.0073.2900.339047.1.500.000 | 32.950,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2900.339039.1.500.000 | 1.718.742,65 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.241.0127.2697.339036.1.500.000 | 1.500,00 |
+| TOTAL | 2.482.460,65 |
+| TOTAL DA SUPLEMENTAÇÃO | 25.929.437,65 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2581.319011.1.500.000 |275.337,60 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.122.0140.2317.319011.1.500.000 |20.391.618,00 |
-
-|Fundo Municipal de Saúde – FMS | |
-
-|2302.10.305.0028.2829.319011.1.604.000 |2.066.385,00 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.319011.1.500.000 |713.636,40 |
-
-|TOTAL |23.446.977,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2581.319011.1.500.000 |125.150,00 |
-
-|2505.18.541.0073.2900.319004.1.500.000 |637.068,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2900.319091.1.500.000 |21.000,00 |
-
-|2708.17.512.0046.2900.319092.1.500.000 |1.000,00 |
-
-|2708.17.512.0046.2537.339030.1.500.000 |363.163,00 |
-
-|2708.17.512.0046.2537.339039.1.500.000 |147.311,00 |
-
-|2708.17.512.0046.2900.339030.1.500.000 |300.000,00 |
-
-|2708.17.512.0046.2900.339035.1.500.000 |200.000,00 |
-
-|2708.17.512.0046.2900.339049.1.500.000 |171.268,65 |
-
-|2708.17.512.0228.2539.339039.1.500.000 |515.000,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.241.0127.2697.339039.1.500.000 |1.500,00 |
-
-|TOTAL |2.482.460,65 |
-
-|TOTAL DA ANULAÇÃO |25.929.437,65 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2581.319011.1.500.000 | 275.337,60 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.122.0140.2317.319011.1.500.000 | 20.391.618,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.319011.1.604.000 | 2.066.385,00 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.319011.1.500.000 | 713.636,40 |
+| TOTAL | 23.446.977,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2581.319011.1.500.000 | 125.150,00 |
+| 2505.18.541.0073.2900.319004.1.500.000 | 637.068,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2900.319091.1.500.000 | 21.000,00 |
+| 2708.17.512.0046.2900.319092.1.500.000 | 1.000,00 |
+| 2708.17.512.0046.2537.339030.1.500.000 | 363.163,00 |
+| 2708.17.512.0046.2537.339039.1.500.000 | 147.311,00 |
+| 2708.17.512.0046.2900.339030.1.500.000 | 300.000,00 |
+| 2708.17.512.0046.2900.339035.1.500.000 | 200.000,00 |
+| 2708.17.512.0046.2900.339049.1.500.000 | 171.268,65 |
+| 2708.17.512.0228.2539.339039.1.500.000 | 515.000,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.241.0127.2697.339039.1.500.000 | 1.500,00 |
+| TOTAL | 2.482.460,65 |
+| TOTAL DA ANULAÇÃO | 25.929.437,65 |
 
 ANEXO II
 
@@ -208,52 +157,32 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal e|do valor do Orçamento |
-
-|Encargos Sociais (código 01) | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 217.799.087,83 |
-
-|Valor do decreto publicado nesta data |R$ 23.446.977,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 241.246.064,83 |
-
-|Saldo atual de créditos suplementares |R$ 2.251.189.002,77 |
-
-|Percentual utilizado |9,68% |
-
-|Atualizado em 28/10/2026 às 12:32:05 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares para o grupo de despesa Pessoal e | do valor do Orçamento |
+| Encargos Sociais (código 01) |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 217.799.087,83 |
+| Valor do decreto publicado nesta data | R$ 23.446.977,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 241.246.064,83 |
+| Saldo atual de créditos suplementares | R$ 2.251.189.002,77 |
+| Percentual utilizado | 9,68% |
+| Atualizado em 28/10/2026 às 12:32:05 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.424.768.539,25 |
-
-|Valor do decreto publicado nesta data |R$ 2.482.460,65 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.427.250.999,90 |
-
-|Saldo atual de créditos suplementares |R$ 1.065.184.067,70 |
-
-|Percentual utilizado |57,26% |
-
-|Atualizado em 28/10/2026 às 12:32:32 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.424.768.539,25 |
+| Valor do decreto publicado nesta data | R$ 2.482.460,65 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.427.250.999,90 |
+| Saldo atual de créditos suplementares | R$ 1.065.184.067,70 |
+| Percentual utilizado | 57,26% |
+| Atualizado em 28/10/2026 às 12:32:32 |  |

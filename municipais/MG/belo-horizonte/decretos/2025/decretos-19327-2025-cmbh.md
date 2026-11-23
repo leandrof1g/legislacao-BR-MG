@@ -90,53 +90,43 @@ PARÂMETROS URBANÍSTICOS
 
 TABELA 1 – Parâmetros para fins de parcelamento do solo e de regularização
 
-|Áreas do Anexo|Área máxima de lote |Área mínima de lote |Frente |Extensão máxima de quadra |
-
-|I |(m²) |(m²) |mínima |(m) |
-
-| | | |de lote (m) | |
-
-| | | | | | |
-
-|Áreas A1, A2 e|10.000 |125 |5 |200 | |
-
-|B | | | | | |
-
-|Área C |10.000 |2.500 |5 |200 | |
+| Áreas do Anexo | Área máxima de lote | Área mínima de lote | Frente | Extensão máxima de quadra |  |
+| --- | --- | --- | --- | --- | --- |
+| I | (m²) | (m²) | mínima | (m) |  |
+|  |  |  | de lote (m) |  |  |
+|  |  |  |  |  |  |
+| Áreas A1, A2 e | 10.000 | 125 | 5 | 200 |  |
+| B |  |  |  |  |  |
+| Área C | 10.000 | 2.500 | 5 | 200 |  |
 
 TABELA 2 – Rampa máxima para trechos de vias
 
-| |Via Local 1 |Via Local 2 |Via Mista |Via de Pedestres |
-
-|Rampa máxima (%) |24 |30 |25 |- |
+|  | Via Local 1 | Via Local 2 | Via Mista | Via de Pedestres |
+| --- | --- | --- | --- | --- |
+| Rampa máxima (%) | 24 | 30 | 25 | - |
 
 TABELA 3 – Largura mínima das vias
 
-|Vias, conforme Anexo II |Largura mínima das vias (m) |
-
-|Via local 1 |7,40 |
-
-|Via local 2 |3,00 |
-
-|Via mista |2,50 |
-
-|Via de pedestre |1,20 |
+| Vias, conforme Anexo II | Largura mínima das vias (m) |
+| --- | --- |
+| Via local 1 | 7,40 |
+| Via local 2 | 3,00 |
+| Via mista | 2,50 |
+| Via de pedestre | 1,20 |
 
 TABELA 4 – Parâmetros de ocupação para as áreas A1, A2 e B do Anexo I
 
-| |CAbas |CAmax |CAcent |QT (m²/un) |QTcent (m²/un) |
-
-|Áreas A1 e A2 |1,0 |2,8 |2,8 |Sem limite |Sem limite |
-
-|Área B |1,0 |Não se aplica |Não se aplica |Sem limite |Sem limite |
+|  | CAbas | CAmax | CAcent | QT (m²/un) | QTcent (m²/un) |
+| --- | --- | --- | --- | --- | --- |
+| Áreas A1 e A2 | 1,0 | 2,8 | 2,8 | Sem limite | Sem limite |
+| Área B | 1,0 | Não se aplica | Não se aplica | Sem limite | Sem limite |
 
 TABELA 5 – Taxa de Ocupação máxima e Taxa de Permeabilidade mínima
 
-| |TO máxima |TP mínima |
-
-|Área A1 |90% |15% |
-
-|Área A2 |não se aplica |não se aplica |
+|  | TO máxima | TP mínima |
+| --- | --- | --- |
+| Área A1 | 90% | 15% |
+| Área A2 | não se aplica | não se aplica |
 
 ## Anexos e outros documentos
 

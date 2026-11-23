@@ -40,12 +40,10 @@ Prefeito de Belo Horizonte
 
 ANEXO
 
-|Atualização da Classificação Viária, conforme art. 83 |
-
-|Logradouro |Regional |Bairro |Trecho |PU1 |Reunião |CV2 |
-
-|Rua Rubens |Oeste |Buritis |Entre a Avenida Aggeo Pio Sobrinho|VM |275 |_ |
-
-|Caporali Ribeiro| | |e a Rua Senador José Augusto | | | |
+| Atualização da Classificação Viária, conforme art. 83 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Logradouro | Regional | Bairro | Trecho | PU1 | Reunião | CV2 |
+| Rua Rubens | Oeste | Buritis | Entre a Avenida Aggeo Pio Sobrinho | VM | 275 | _ |
+| Caporali Ribeiro |  |  | e a Rua Senador José Augusto |  |  |  |
 
 1PU: classificação quanto à permissividade de usos. 2CV: classificação viária. Para as vias sem indicação de CV, a classificação viária permanece inalterada.

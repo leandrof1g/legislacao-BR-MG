@@ -30,21 +30,15 @@ O Prefeito de Belo Horizonte, no exercício da atribuição que lhe confere o in
 
 **Art. 1º** – Reajusta, a partir de zero hora do dia 30 de dezembro de 2018, as tarifas do Serviço Público de Transporte Coletivo de Passageiros por Ônibus do Município de Belo Horizonte, conforme valores abaixo:
 
-|Grupo de Linhas |Tarifa Atual (R$) |Tarifa Reajustada (R$) |
-
-|I – Diametrais, Semi-expressas, Radiais, |4,05 |4,50 |
-
-|Perimetrais e Troncais | | |
-
-|II – Circulares e Alimentadoras |2,85 |3,15 |
-
-|III – Vilas e Favelas |0,90 |1,00 |
-
-|IV – Tarifa Integrada A: Linhas integradas ao |4,05 |4,50 |
-
-|metrô com Tarifa A | | |
-
-|V – Serviço Executivo - Linhas Curtas |6,10 |6,75 |
+| Grupo de Linhas | Tarifa Atual (R$) | Tarifa Reajustada (R$) |
+| --- | --- | --- |
+| I – Diametrais, Semi-expressas, Radiais, | 4,05 | 4,50 |
+| Perimetrais e Troncais |  |  |
+| II – Circulares e Alimentadoras | 2,85 | 3,15 |
+| III – Vilas e Favelas | 0,90 | 1,00 |
+| IV – Tarifa Integrada A: Linhas integradas ao | 4,05 | 4,50 |
+| metrô com Tarifa A |  |  |
+| V – Serviço Executivo - Linhas Curtas | 6,10 | 6,75 |
 
 **§ 1º** – Aplicam-se os critérios e regras de integração tarifária descritas nos subitens 3.2.8 a 3.2.15 do Anexo I do Edital de Concorrência Pública nº 131/2008 a todas as integrações temporais com complemento tarifário entre as linhas do Sistema Municipal de Transporte Coletivo por ônibus, com os valores das tarifas reajustados conforme correspondência entre a tarifa atual e a tarifa reajustada listada no caput deste artigo.
 

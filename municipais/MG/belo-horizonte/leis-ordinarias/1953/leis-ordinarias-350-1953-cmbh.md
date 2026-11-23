@@ -60,41 +60,25 @@ Publicada no Minas Gerais aos oito (8) dias do mês de novembro de mil novecento
 
 FUNÇÕES DE MENSALISTAS
 
-| |
-
-|FUNÇÕES |
-
-|Denominação |Número |Código |
-
-|Coveiro |52 |M. 1-1 |
-
-|................................................ |14 |M. 2-2 |
-
-|Eletricista...........................................|44 |M. 3-3 |
-
-|.. |24 |M. 3-3 |
-
-|Encarregado........................................ |8 |M. 4-2 |
-
-|Encarregado Auxiliar........................... |63 |M. 5-2 |
-
-|Gráfico...............................................|10 |M. 6-1 |
-
-|.. |17 |M. 7-1 |
-
-|Magarefe............................................. |1 |M. 8-1 |
-
-|Serviçal..............................................|233 | |
-
-|.. | | |
-
-|Varredor..............................................| | |
-
-|. | | |
-
-|Lavadeira.............................................| | |
-
-|TOTAL ................................................| | |
+|  |  |  |
+| --- | --- | --- |
+| FUNÇÕES |  |  |
+| Denominação | Número | Código |
+| Coveiro | 52 | M. 1-1 |
+| ................................................ | 14 | M. 2-2 |
+| Eletricista........................................... | 44 | M. 3-3 |
+| .. | 24 | M. 3-3 |
+| Encarregado........................................ | 8 | M. 4-2 |
+| Encarregado Auxiliar........................... | 63 | M. 5-2 |
+| Gráfico............................................... | 10 | M. 6-1 |
+| .. | 17 | M. 7-1 |
+| Magarefe............................................. | 1 | M. 8-1 |
+| Serviçal.............................................. | 233 |  |
+| .. |  |  |
+| Varredor.............................................. |  |  |
+| . |  |  |
+| Lavadeira............................................. |  |  |
+| TOTAL ................................................ |  |  |
 
 QUADRO COMPARATIVO DAS FUNÇÕES RESTABELECIDAS NESTA LEI
 
@@ -102,114 +86,68 @@ E DAS FUNÇÕES CORRESPONDENTES NA LEI 304/52
 
 FUNÇÕES RESTABELECIDAS FUNÇÕES DA LEI 304/52
 
-|Número |Denominação |Número |Denominação |
-
-|52 |Coveiros.......................... M.1-1 |52 |Trabalhador V.T.16.III |
-
-|14 |Eletricista..........................M.2-2 |14 |Artífice Art. 1. IV |
-
-|44 |Encarregado.................... M.3-3 |44 |Enc. de Serviços V.T.13.V |
-
-|24 |Enc. Auxiliar.....................M.3-3 |24 |Enc. de Serviços V.T.13.V |
-
-|8 |Gráfico..............................M.4-2 |8 |Artífice Art.1.IV |
-
-|63 |Magarefe..........................M.5-2 |63 |Magarefe Art.4.IV |
-
-|10 |Serviçal.............................M.6-1 |10 |Serviçal V.T.15.III |
-
-|17 |Varredor.......................... M.7-1 |17 |Trabalhador V.T.16.III |
-
-|1 |Lavadeira.........................M.8-1 |1 |Serviçal V.T.15.III |
+| Número | Denominação | Número | Denominação |
+| --- | --- | --- | --- |
+| 52 | Coveiros.......................... M.1-1 | 52 | Trabalhador V.T.16.III |
+| 14 | Eletricista..........................M.2-2 | 14 | Artífice Art. 1. IV |
+| 44 | Encarregado.................... M.3-3 | 44 | Enc. de Serviços V.T.13.V |
+| 24 | Enc. Auxiliar.....................M.3-3 | 24 | Enc. de Serviços V.T.13.V |
+| 8 | Gráfico..............................M.4-2 | 8 | Artífice Art.1.IV |
+| 63 | Magarefe..........................M.5-2 | 63 | Magarefe Art.4.IV |
+| 10 | Serviçal.............................M.6-1 | 10 | Serviçal V.T.15.III |
+| 17 | Varredor.......................... M.7-1 | 17 | Trabalhador V.T.16.III |
+| 1 | Lavadeira.........................M.8-1 | 1 | Serviçal V.T.15.III |
 
 QUADRO ANEXO Nº 2
 
 TABELA DE SALÁRIOS PARA AS FUNÇÕES DE MENSALISTAS
 
-| | |VALOR DO VENCIMENTO (CR$) |
-
-|REFERÊNCIA |PERÍODOOO | |
-
-| | |Básico |COM PROGRESSÃO |
-
-| | |CLASSE 0 |CLASSE 1 |CLASSE 2 |CLASSE 3 |CLASSE 4 |CLASSE 5 |
-
-|1 |Mensal |945,00 |1.035,00 |1.130,00 |1.220,00 |1.310,00 |1.400,00 |
-
-| |Anual |11.340,00 |12.420,00 |13.560,00 |14.640,00 |15.720,00 |16.800,00 |
-
-| | | | | | | | |
-
-|2 |Mensal |1.190,00 |1.340,00 |1.500,00 |1.700,00 |1.900,00 |2.100,00 |
-
-| |Anual |14.280,00 |16.080,00 |18.000,00 |20.400,00 |22.800,00 |25.200,00 |
-
-| | |1.430,00 | | | | | |
-
-|3 |Mensal |17.160,00 |1.615,00 |1.800,00 |2.000,00 |2.200,00 |2.400,00 |
-
-| |Anual | |19.380,00 |21.600,00 |24.000,00 |26.400,00 |28.800,00 |
+|  |  | VALOR DO VENCIMENTO (CR$) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| REFERÊNCIA | PERÍODOOO |  |  |  |  |  |  |
+|  |  | Básico | COM PROGRESSÃO |  |  |  |  |
+|  |  | CLASSE 0 | CLASSE 1 | CLASSE 2 | CLASSE 3 | CLASSE 4 | CLASSE 5 |
+| 1 | Mensal | 945,00 | 1.035,00 | 1.130,00 | 1.220,00 | 1.310,00 | 1.400,00 |
+|  | Anual | 11.340,00 | 12.420,00 | 13.560,00 | 14.640,00 | 15.720,00 | 16.800,00 |
+|  |  |  |  |  |  |  |  |
+| 2 | Mensal | 1.190,00 | 1.340,00 | 1.500,00 | 1.700,00 | 1.900,00 | 2.100,00 |
+|  | Anual | 14.280,00 | 16.080,00 | 18.000,00 | 20.400,00 | 22.800,00 | 25.200,00 |
+|  |  | 1.430,00 |  |  |  |  |  |
+| 3 | Mensal | 17.160,00 | 1.615,00 | 1.800,00 | 2.000,00 | 2.200,00 | 2.400,00 |
+|  | Anual |  | 19.380,00 | 21.600,00 | 24.000,00 | 26.400,00 | 28.800,00 |
 
 QUADRO ANEXO Nº 3
 
 E N Q U A D R A M E N T O
 
-|SITUAÇÃO ATUAL |SITUAÇÃO PROPOSTA |
-
-|Denominações |Nº de Funções |Códigos |Salários |Denominações | Funções |Códigos |Salários |
-
-|Trabalhador |5 |V.T.16.III.3 |40,00 |Coveiro |5 |M.1.1.3 |1.220,00 |
-
-|Trabalhador |34 |V.T.16.III.4 |43,00 |Coveiro |34 |M.1.1.4 |1.310,00 |
-
-|Trabalhador |13 |V.T.16.III.5 |46,00 |Coveiro |13 |M.1.1.5 |1.400,00 |
-
-|Artífice |2 |Art. 1. IV.1 |44,00 |Eletricista |2 |M.2.2.1 |1.340,00 |
-
-|Artífice |3 |Art. 1. IV.2 |49,00 |Eletricista |3 |M.2.2.2 |1.500,00 |
-
-|Artífice |3 |Art. 1. IV.3 |54,00 |Eletricista |3 |M.2.2.3 |1.700,00 |
-
-|Artífice |3 |Art. 1. IV.4 |59,00 |Eletricista |3 |M.2.2.4 |1.900,00 |
-
-|Artífice |3 |Art. 1. IV.5 |64,00 |Eletricista |3 |M.2.2.5 |2.100,00 |
-
-|Enc. Serviços |11 |V.T.13.V.2 |59,00 |Encarregado |11 |M.3.3.2 |1.800,00 |
-
-|Enc. Serviços |11 |V.T.13.V.3 |65,00 |Encarregado |11 |M.3.3.3 |2.000,00 |
-
-|Enc. Serviços |12 |V.T.13.V.4 |71,00 |Encarregado |12 |M.3.3.4 |2.200,00 |
-
-|Enc. Serviços |10 |V.T.13.V.5 |77,00 |Encarregado |10 |M.3.3.5 |2.400,00 |
-
-|Enc. Serviços |9 |V.T.13.V.1 |53,00 |Enc. Auxiliar |9 |M.3.3.1 |1.615,00 |
-
-|Enc. Serviços |15 |V.T.13.V.1 |53,00 |Enc. Auxiliar |15 |M.3.3.1 |1.615,00 |
-
-|Artífice |3 |Art. 1. IV.1 |44,00 |Gráfico |3 |M.4.2.1 |1.340,00 |
-
-|Artífice |2 |Art. 1. IV.1 |44,00 |Gráfico |2 |M.4.2.1 |1.340,00 |
-
-|Artífice |2 |Art. 1. IV.2 |49,00 |Gráfico |2 |M.4.2.2 |1.500,00 |
-
-|Artífice |1 |Art. 1. IV.3 |54,00 |Gráfico |1 |M.4.2.3 |1.700,00 |
-
-|Magarefe |18 |Art. 4. IV.1 |44,00 |Magarefe |18 |M.5.2.1 |1.340,00 |
-
-|Magarefe |30 |Art. 4. IV.1 |44,00 |Magarefe |30 |M.5.2.1 |1.340,00 |
-
-|Magarefe |15 |Art. 4. IV.2 |49,00 |Magarefe |15 |M.5.2.2 |1.500,00 |
-
-|Serviçal |3 |V.T.15.III.1 |34,00 |Serviçal |3 |M.6.1.1 |1.035,00 |
-
-|Serviçal |3 |V.T.15.III.3 |40,00 |Serviçal |3 |M.6.1.3 |1.220,00 |
-
-|Serviçal |2 |V.T.15.III.4 |43,00 |Serviçal |2 |M.6.1.4 |1.310,00 |
-
-|Serviçal |2 |V.T.15.III.5 |46,00 |Serviçal |2 |M.6.1.5 |1.400,00 |
-
-|Trabalhador |11 |V.T.16.III.3 |40,00 |Varredor |11 |M.7.1.3 |1.220,00 |
-
-|Trabalhador |6 |V.T.16.III.4 |43,00 |Varredor |6 |M.7.1.4 |1.310,00 |
-
-|Serviçal |1 |V.T.15.III.1 |34,00 |Lavadeira |1 |M.8.1.1 |1.035,00 |
+| SITUAÇÃO ATUAL | SITUAÇÃO PROPOSTA |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Denominações | Nº de Funções | Códigos | Salários | Denominações | Funções | Códigos | Salários |
+| Trabalhador | 5 | V.T.16.III.3 | 40,00 | Coveiro | 5 | M.1.1.3 | 1.220,00 |
+| Trabalhador | 34 | V.T.16.III.4 | 43,00 | Coveiro | 34 | M.1.1.4 | 1.310,00 |
+| Trabalhador | 13 | V.T.16.III.5 | 46,00 | Coveiro | 13 | M.1.1.5 | 1.400,00 |
+| Artífice | 2 | Art. 1. IV.1 | 44,00 | Eletricista | 2 | M.2.2.1 | 1.340,00 |
+| Artífice | 3 | Art. 1. IV.2 | 49,00 | Eletricista | 3 | M.2.2.2 | 1.500,00 |
+| Artífice | 3 | Art. 1. IV.3 | 54,00 | Eletricista | 3 | M.2.2.3 | 1.700,00 |
+| Artífice | 3 | Art. 1. IV.4 | 59,00 | Eletricista | 3 | M.2.2.4 | 1.900,00 |
+| Artífice | 3 | Art. 1. IV.5 | 64,00 | Eletricista | 3 | M.2.2.5 | 2.100,00 |
+| Enc. Serviços | 11 | V.T.13.V.2 | 59,00 | Encarregado | 11 | M.3.3.2 | 1.800,00 |
+| Enc. Serviços | 11 | V.T.13.V.3 | 65,00 | Encarregado | 11 | M.3.3.3 | 2.000,00 |
+| Enc. Serviços | 12 | V.T.13.V.4 | 71,00 | Encarregado | 12 | M.3.3.4 | 2.200,00 |
+| Enc. Serviços | 10 | V.T.13.V.5 | 77,00 | Encarregado | 10 | M.3.3.5 | 2.400,00 |
+| Enc. Serviços | 9 | V.T.13.V.1 | 53,00 | Enc. Auxiliar | 9 | M.3.3.1 | 1.615,00 |
+| Enc. Serviços | 15 | V.T.13.V.1 | 53,00 | Enc. Auxiliar | 15 | M.3.3.1 | 1.615,00 |
+| Artífice | 3 | Art. 1. IV.1 | 44,00 | Gráfico | 3 | M.4.2.1 | 1.340,00 |
+| Artífice | 2 | Art. 1. IV.1 | 44,00 | Gráfico | 2 | M.4.2.1 | 1.340,00 |
+| Artífice | 2 | Art. 1. IV.2 | 49,00 | Gráfico | 2 | M.4.2.2 | 1.500,00 |
+| Artífice | 1 | Art. 1. IV.3 | 54,00 | Gráfico | 1 | M.4.2.3 | 1.700,00 |
+| Magarefe | 18 | Art. 4. IV.1 | 44,00 | Magarefe | 18 | M.5.2.1 | 1.340,00 |
+| Magarefe | 30 | Art. 4. IV.1 | 44,00 | Magarefe | 30 | M.5.2.1 | 1.340,00 |
+| Magarefe | 15 | Art. 4. IV.2 | 49,00 | Magarefe | 15 | M.5.2.2 | 1.500,00 |
+| Serviçal | 3 | V.T.15.III.1 | 34,00 | Serviçal | 3 | M.6.1.1 | 1.035,00 |
+| Serviçal | 3 | V.T.15.III.3 | 40,00 | Serviçal | 3 | M.6.1.3 | 1.220,00 |
+| Serviçal | 2 | V.T.15.III.4 | 43,00 | Serviçal | 2 | M.6.1.4 | 1.310,00 |
+| Serviçal | 2 | V.T.15.III.5 | 46,00 | Serviçal | 2 | M.6.1.5 | 1.400,00 |
+| Trabalhador | 11 | V.T.16.III.3 | 40,00 | Varredor | 11 | M.7.1.3 | 1.220,00 |
+| Trabalhador | 6 | V.T.16.III.4 | 43,00 | Varredor | 6 | M.7.1.4 | 1.310,00 |
+| Serviçal | 1 | V.T.15.III.1 | 34,00 | Lavadeira | 1 | M.8.1.1 | 1.035,00 |

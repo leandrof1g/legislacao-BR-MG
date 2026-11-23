@@ -122,25 +122,17 @@ DISCRIMINAÇÃO PARTICIPATIVA DE RECURSOS
 
 Número do Convênio: 1352/87 Município: BH UF: MG
 
-|ENTIDADES/ |VALORES (EM CZ$ 1,00) |
-
-|PROJETOS | |
-
-| |SEAC |PREFEITURA |ENTIDADES |TOTAL |
-
-|SB Professora Maria |2.000.000 |100.000 |20.000 |2.120.000 |
-
-|Coutinho | | | | |
-
-| | | | | |
-
-|870055925 – CAMPANHA DE | | | | |
-
-|ROUPAS E AGASALHOS | | | | |
-
-|NÚMERO DE PEÇAS: 25200 | | | | |
-
-|TOTAL |2.000.000 |100.000 |20.000 |2.120.000 |
+| ENTIDADES/ | VALORES (EM CZ$ 1,00) |  |  |  |
+| --- | --- | --- | --- | --- |
+| PROJETOS |  |  |  |  |
+|  | SEAC | PREFEITURA | ENTIDADES | TOTAL |
+| SB Professora Maria | 2.000.000 | 100.000 | 20.000 | 2.120.000 |
+| Coutinho |  |  |  |  |
+|  |  |  |  |  |
+| 870055925 – CAMPANHA DE |  |  |  |  |
+| ROUPAS E AGASALHOS |  |  |  |  |
+| NÚMERO DE PEÇAS: 25200 |  |  |  |  |
+| TOTAL | 2.000.000 | 100.000 | 20.000 | 2.120.000 |
 
 Planilha acrescentada por retificação em 22/4/1988
 

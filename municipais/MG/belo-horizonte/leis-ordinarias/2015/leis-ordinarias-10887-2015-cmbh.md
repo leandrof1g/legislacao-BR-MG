@@ -218,64 +218,38 @@ ANEXO ÚNICO
 
 Quadro 1 - Matriz de pontuação para a Categoria I – Serviço de uso coletivo
 
-|CRITÉRIO |DISTRIBUIÇÃO DE PONTOS PARA PRIORIZAÇÃO DO SERVIÇO DE USO COLETIVO |
-
-|Tipo de serviço prestado |Serviços |Assistência social, entidades |Entidades | |
-
-| |educacionais |associativas e instituições |desportivas e | |
-
-| |10 pontos |religiosas |culturais | |
-
-| | |7 pontos |3 pontos | |
-
-|Número de pessoas assistidas|Acima de 50 pessoas|Mais de 20 até 50 pessoas 7 |Até 20 pessoas | |
-
-| |10 pontos |pontos |3 pontos | |
-
-|Tempo de atuação no local |Mais de 20 anos |De 10 a 20 anos |De 2 a 10 anos |Menos de 2 anos |
-
-| |10 pontos |7 pontos |3 pontos |0 ponto |
+| CRITÉRIO | DISTRIBUIÇÃO DE PONTOS PARA PRIORIZAÇÃO DO SERVIÇO DE USO COLETIVO |  |  |  |
+| --- | --- | --- | --- | --- |
+| Tipo de serviço prestado | Serviços | Assistência social, entidades | Entidades |  |
+|  | educacionais | associativas e instituições | desportivas e |  |
+|  | 10 pontos | religiosas | culturais |  |
+|  |  | 7 pontos | 3 pontos |  |
+| Número de pessoas assistidas | Acima de 50 pessoas | Mais de 20 até 50 pessoas 7 | Até 20 pessoas |  |
+|  | 10 pontos | pontos | 3 pontos |  |
+| Tempo de atuação no local | Mais de 20 anos | De 10 a 20 anos | De 2 a 10 anos | Menos de 2 anos |
+|  | 10 pontos | 7 pontos | 3 pontos | 0 ponto |
 
 Quadro 2 - Matriz de pontuação para a Categoria II – Comércio, Serviço e Indústria
 
-|CRITÉRIO |DISTRIBUIÇÃO DE PONTOS PARA PRIORIZAÇÃO DA RELOCAÇÃO DA ATIVIDADE COMERCIAL / |
-
-| |SERVIÇOS |
-
-|Atividade como renda principal da família |SIM |NÃO | | |
-
-| |10 pontos |0 ponto | | |
-
-|Renda per capita da família do dono excluindo o|Até 0,5 Salário |Entre 0,5 e 1 |Acima de 1 Salário| |
-
-|comércio |Mínimo |Salário Mínimo |Mínimo | |
-
-| |7 pontos |3 pontos |0 ponto | |
-
-|Responsável pelo comércio ser morador da vila |SIM Morador da |NÃO, mas é morador |NÃO | |
-
-|ou de outra Zeis |vila |de outra vila |0 ponto | |
-
-| |15 pontos |inserida em Zeis | | |
-
-| | |7 pontos | | |
-
-|Famílias removidas em função do empreendimento,|SIM |NÃO | | |
-
-|reassentadas em unidades habitacionais |5 pontos |0 ponto | | |
-
-|construídas pelo município | | | | |
-
-|Tempo de atuação nessa atividade comercial na |Mais de 20 anos |De 10 a 20 anos |De 2 a 10 anos |Menos de 2 anos |
-
-|área |10 pontos |7 pontos |3 pontos |0 ponto |
-
-|Atividade geradora de emprego para moradores da|Mais de 10 |De 5 a 10 empregos |Menos de 5 | |
-
-|vila ou aglomerado |empregos |7 pontos |empregos | |
-
-| |10 pontos | |3 pontos | |
-
-|Empresa formalizada |SIM |NÃO | | |
-
-| |10 pontos |0 ponto | | |
+| CRITÉRIO | DISTRIBUIÇÃO DE PONTOS PARA PRIORIZAÇÃO DA RELOCAÇÃO DA ATIVIDADE COMERCIAL / |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | SERVIÇOS |  |  |  |
+| Atividade como renda principal da família | SIM | NÃO |  |  |
+|  | 10 pontos | 0 ponto |  |  |
+| Renda per capita da família do dono excluindo o | Até 0,5 Salário | Entre 0,5 e 1 | Acima de 1 Salário |  |
+| comércio | Mínimo | Salário Mínimo | Mínimo |  |
+|  | 7 pontos | 3 pontos | 0 ponto |  |
+| Responsável pelo comércio ser morador da vila | SIM Morador da | NÃO, mas é morador | NÃO |  |
+| ou de outra Zeis | vila | de outra vila | 0 ponto |  |
+|  | 15 pontos | inserida em Zeis |  |  |
+|  |  | 7 pontos |  |  |
+| Famílias removidas em função do empreendimento, | SIM | NÃO |  |  |
+| reassentadas em unidades habitacionais | 5 pontos | 0 ponto |  |  |
+| construídas pelo município |  |  |  |  |
+| Tempo de atuação nessa atividade comercial na | Mais de 20 anos | De 10 a 20 anos | De 2 a 10 anos | Menos de 2 anos |
+| área | 10 pontos | 7 pontos | 3 pontos | 0 ponto |
+| Atividade geradora de emprego para moradores da | Mais de 10 | De 5 a 10 empregos | Menos de 5 |  |
+| vila ou aglomerado | empregos | 7 pontos | empregos |  |
+|  | 10 pontos |  | 3 pontos |  |
+| Empresa formalizada | SIM | NÃO |  |  |
+|  | 10 pontos | 0 ponto |  |  |

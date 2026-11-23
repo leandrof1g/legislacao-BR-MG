@@ -42,4 +42,5 @@ ANEXO
 
 ANEXO XXII
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

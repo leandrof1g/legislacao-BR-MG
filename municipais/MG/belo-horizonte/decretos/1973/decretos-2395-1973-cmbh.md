@@ -2304,21 +2304,7 @@ TAXA DE LICENÇA DE LOCALIZAÇÃO
 
 205299.7 - Quaisquer atividades não especificadas nos itens anteriores ou na lista de atividades sujeitas ao ISS.
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

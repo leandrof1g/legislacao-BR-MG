@@ -58,43 +58,29 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 8º da Lei|R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS | |
-
-|2302.10.302.0114.2952.445042.1.500.000 |100.000,00 |
-
-|2302.10.302.0114.2952.339039.1.500.000 |70.000,00 |
-
-|2302.10.302.0114.2951.335043.1.500.000 |7.522.325,00 |
-
-|Fundação Municipal de Cultura – FMC | |
-
-|3103.13.391.0155.2375.339039.1.500.000 |140.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |7.832.325,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 8º da Lei | R$ |
+| --- | --- |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2952.445042.1.500.000 | 100.000,00 |
+| 2302.10.302.0114.2952.339039.1.500.000 | 70.000,00 |
+| 2302.10.302.0114.2951.335043.1.500.000 | 7.522.325,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.339039.1.500.000 | 140.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 7.832.325,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0117.1216.449051.1.500.000 |70.000,00 |
-
-|2302.10.302.0114.2951.339039.1.500.000 |7.522.325,00 |
-
-|2302.10.302.0114.2952.449052.1.500.000 |100.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.392.0154.2371.339039.1.500.000 |140.000,00 |
-
-|TOTAL DA ANULAÇÃO |7.832.325,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0117.1216.449051.1.500.000 | 70.000,00 |
+| 2302.10.302.0114.2951.339039.1.500.000 | 7.522.325,00 |
+| 2302.10.302.0114.2952.449052.1.500.000 | 100.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.392.0154.2371.339039.1.500.000 | 140.000,00 |
+| TOTAL DA ANULAÇÃO | 7.832.325,00 |
 
 ANEXO II
 
@@ -122,22 +108,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 8º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 207.210.703,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 22.036.362,02 |
-
-|Valor do decreto publicado nesta data |R$ 7.832.325,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 29.868.687,02 |
-
-|Saldo atual de créditos suplementares |R$ 177.342.015,98 |
-
-|Percentual utilizado |14,41% |
-
-|Atualizado em 28/09/2026 às 09:21:51 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 207.210.703,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 22.036.362,02 |
+| Valor do decreto publicado nesta data | R$ 7.832.325,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 29.868.687,02 |
+| Saldo atual de créditos suplementares | R$ 177.342.015,98 |
+| Percentual utilizado | 14,41% |
+| Atualizado em 28/09/2026 às 09:21:51 |  |

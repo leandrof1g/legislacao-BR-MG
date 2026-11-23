@@ -70,13 +70,11 @@ j) função pública de Gerente de Centro Cultural instituída no art. 136-A da 
 
 **Art. 3º** - O valor do vale-refeição atribuído aos servidores e empregados públicos integrantes do quadro de pessoal da Administração Direta do Poder Executivo, da Beneficência da Prefeitura de Belo Horizonte - BEPREM -, da Fundação de Parques Municipais - FPM -, da Fundação Municipal de Cultura - FMC -, da Fundação Zoobotânica de Belo Horizonte - FZB/BH -, da Superintendência de Limpeza Urbana de Belo Horizonte - SLU - e da Superintendência de Desenvolvimento da Capital - SUDECAP - será reajustado nas seguintes datas e nos seguintes valores:
 
-|VALE-REFEIÇÃO POR DIA EFETIVAMENTE TRABALHADO |
-
-|(EM R$) |
-
-|1º DE JULHO DE 2011 |1º DE NOVEMBRO DE 2011 |
-
-|12,50 |15,00 |
+| VALE-REFEIÇÃO POR DIA EFETIVAMENTE TRABALHADO |  |
+| --- | --- |
+| (EM R$) |  |
+| 1º DE JULHO DE 2011 | 1º DE NOVEMBRO DE 2011 |
+| 12,50 | 15,00 |
 
 **Parágrafo único** - A contrapartida dos servidores e empregados públicos destinada ao custeio do valor do vale-refeição permanecerá sendo disciplinada por meio de regulamento.
 
@@ -88,15 +86,12 @@ j) função pública de Gerente de Centro Cultural instituída no art. 136-A da 
 
 “
 
-|CARGOS |NÚMERO DE CARGOS |
-
-|(...) |(...) |
-
-|Técnico Superior de Saúde |1400 |
-
-|Enfermeiro |1400 |
-
-|(...) |(...) |
+| CARGOS | NÚMERO DE CARGOS |
+| --- | --- |
+| (...) | (...) |
+| Técnico Superior de Saúde | 1400 |
+| Enfermeiro | 1400 |
+| (...) | (...) |
 
 ” (NR)
 
@@ -116,23 +111,16 @@ IV-A - ENFERMEIRO HABILITAÇÃO: curso superior completo de Enfermagem, com habi
 
 A - CARGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-|CARGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|AGENTE DE ADMINISTRAÇÃO |140 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |906 |
-
-|TÉCNICO DE NÍVEL MÉDIO |42 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |40 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |135 |
-
-|ENFERMEIRO |236 |
-
-|CIRURGIÃO-DENTISTA |20 |
-
-|MÉDICO |322 |
+| CARGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| AGENTE DE ADMINISTRAÇÃO | 140 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 906 |
+| TÉCNICO DE NÍVEL MÉDIO | 42 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 40 |
+| TÉCNICO SUPERIOR DE SAÚDE | 135 |
+| ENFERMEIRO | 236 |
+| CIRURGIÃO-DENTISTA | 20 |
+| MÉDICO | 322 |
 
 ” (NR)
 
@@ -140,17 +128,13 @@ A - CARGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
 “B - EMPREGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
-| EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|(...) |(...) |
-
-|TÉCNICO SUPERIOR DE SAÚDE |35 |
-
-|ENFERMEIRO |30 |
-
-|(...) |(...) |
-
-|TOTAL |981 |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| (...) | (...) |
+| TÉCNICO SUPERIOR DE SAÚDE | 35 |
+| ENFERMEIRO | 30 |
+| (...) | (...) |
+| TOTAL | 981 |
 
 ” (NR)
 
@@ -184,57 +168,33 @@ A - CARGOS PÚBLICOS EFETIVOS DO HOB / NÚMERO DE VAGAS
 
 **Art. 7º** - A partir da publicação desta Lei, o abono instituído no parágrafo único do art. 7º da Lei nº 6.560, de 28 de fevereiro de 1994, e suas alterações, será pago aos servidores e empregados públicos integrantes da Área de Atividades de Saúde da Administração Direta do Poder Executivo e aos servidores públicos ocupantes de cargos correlatos vinculados ao Sistema Estadual de Gestão de Saúde e colocados à disposição do Município para o cumprimento de atividades no âmbito do Sistema Único de Saúde - SUS - que, preenchendo as condições hábeis ao seu recebimento, cumpram integralmente a jornada de 40 (quarenta) horas semanais em unidades de saúde classificadas como de urgência e emergência, inclusive os optantes pela jornada prevista no caput do art. 10 da Lei nº 9.816/10, conforme os seguintes valores mensais:
 
-|CARGO/EMPREGO PÚBLICO EFETIVO |VALOR DO ABONO EM 40 HORAS (em R$) |
-
-|AGENTE SANITÁRIO |288,00 |
-
-|AGENTE DE SERVIÇO DE SAÚDE |385,60 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |438,40 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |1.392,00 |
-
-|ENFERMEIRO |1.392,00 |
-
-|CIRURGIÃO-DENTISTA |1.492,80 |
-
-|AJUDANTE DE SERVIÇO OPERACIONAL |288,00 |
-
-|AUXILIAR ADMINISTRATIVO |288,00 |
-
-|OFICIAL DE SERVIÇO PÚBLICO |288,00 |
-
-|MOTORISTA |288,00 |
-
-|TELEFONISTA |288,00 |
-
-|ASSISTENTE ADMINISTRATIVO |438,40 |
-
-|TÉCNICO DE SERVIÇO PÚBLICO |438,40 |
-
-|EDUCADOR SOCIAL |438,40 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |982,40 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE I, II E III |385,60 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE I, II E III |438,40 |
-
-|TÉCNICO SUPERIOR DE SAÚDE I, II E III |1.392,00 |
-
-|AUXILIAR DE SERVIÇO ADMINISTRATIVO |288,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |288,00 |
-
-|OFICIAL DE GRÁFICA I E II |288,00 |
-
-|AGENTE DE ADMINISTRAÇÃO I, II E III |438,40 |
-
-|TÉCNICO DE NÍVEL MÉDIO I, II E III |438,40 |
-
-|ANALISTA DE SISTEMA ADMINISTRATIVO I, II E III |982,40 |
-
-|TÉCNICO DE RECURSOS HUMANOS I, II E III |982,40 |
+| CARGO/EMPREGO PÚBLICO EFETIVO | VALOR DO ABONO EM 40 HORAS (em R$) |
+| --- | --- |
+| AGENTE SANITÁRIO | 288,00 |
+| AGENTE DE SERVIÇO DE SAÚDE | 385,60 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 438,40 |
+| TÉCNICO SUPERIOR DE SAÚDE | 1.392,00 |
+| ENFERMEIRO | 1.392,00 |
+| CIRURGIÃO-DENTISTA | 1.492,80 |
+| AJUDANTE DE SERVIÇO OPERACIONAL | 288,00 |
+| AUXILIAR ADMINISTRATIVO | 288,00 |
+| OFICIAL DE SERVIÇO PÚBLICO | 288,00 |
+| MOTORISTA | 288,00 |
+| TELEFONISTA | 288,00 |
+| ASSISTENTE ADMINISTRATIVO | 438,40 |
+| TÉCNICO DE SERVIÇO PÚBLICO | 438,40 |
+| EDUCADOR SOCIAL | 438,40 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 982,40 |
+| AGENTE DE SERVIÇOS DE SAÚDE I, II E III | 385,60 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE I, II E III | 438,40 |
+| TÉCNICO SUPERIOR DE SAÚDE I, II E III | 1.392,00 |
+| AUXILIAR DE SERVIÇO ADMINISTRATIVO | 288,00 |
+| AUXILIAR DE ADMINISTRAÇÃO | 288,00 |
+| OFICIAL DE GRÁFICA I E II | 288,00 |
+| AGENTE DE ADMINISTRAÇÃO I, II E III | 438,40 |
+| TÉCNICO DE NÍVEL MÉDIO I, II E III | 438,40 |
+| ANALISTA DE SISTEMA ADMINISTRATIVO I, II E III | 982,40 |
+| TÉCNICO DE RECURSOS HUMANOS I, II E III | 982,40 |
 
 **§ 1º** - O servidor ou empregado público referido no caput deste artigo que esteja em cumprimento da jornada de 40 (quarenta) horas semanais em mais de uma unidade de saúde fará jus ao abono nele previsto conforme a jornada trabalhada em cada unidade e desde que preencha as demais condições para o pagamento da referida vantagem pecuniária.
 
@@ -266,157 +226,90 @@ II - DAM-4 a DAM-9: R$1.191,43 (mil cento e noventa e um reais e quarenta e trê
 
 “ANEXO VI - A
 
-|CARGO / EMPREGO PÚBLICO |JORNADA SEMANAL |SETORES (em R$) |
-
-|MÉDICO | | |
-
-|Modalidade |Descrição | |
-
-| | |I |II |III |IV |V |
-
-|TÉCNICO SUPERIOR DE SAÚDE|20 horas ou |696,00 |386,40 |231,60 |116,40 |0,00 |
-
-| |24 horas | | | | | |
-
-| |30 horas ou |1.044,00 |579,60 |347,40 |174,60 |0,00 |
-
-| |36 horas | | | | | |
-
-| |40 horas |1.392,00 |772,80 |463,20 |232,80 |0,00 |
-
-|ENFERMEIRO |20 horas ou |696,00 |386,40 |231,60 |116,40 |0,00 |
-
-| |24 horas | | | | | |
-
-| |30 horas ou 36 |1.044,00 |579,60 |347,40 |174,60 |0,00 |
-
-| |horas | | | | | |
-
-| |40 horas |1.392,00 |772,80 |463,20 |232,80 |0,00 |
-
-|CIRURGIÃO-DENTISTA |20 horas ou |746,40 |415,20 |248,40 |124,80 |0,00 |
-
-| |24 horas | | | | | |
-
-| |30 horas |1.119,60 |622,80 |372,60 |187,20 |0,00 |
-
-| |40 horas |1.492,80 |830,40 |496,80 |249,60 |0,00 |
+| CARGO / EMPREGO PÚBLICO | JORNADA SEMANAL | SETORES (em R$) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| MÉDICO |  |  |  |  |  |  |
+| Modalidade | Descrição |  |  |  |  |  |
+|  |  | I | II | III | IV | V |
+| TÉCNICO SUPERIOR DE SAÚDE | 20 horas ou | 696,00 | 386,40 | 231,60 | 116,40 | 0,00 |
+|  | 24 horas |  |  |  |  |  |
+|  | 30 horas ou | 1.044,00 | 579,60 | 347,40 | 174,60 | 0,00 |
+|  | 36 horas |  |  |  |  |  |
+|  | 40 horas | 1.392,00 | 772,80 | 463,20 | 232,80 | 0,00 |
+| ENFERMEIRO | 20 horas ou | 696,00 | 386,40 | 231,60 | 116,40 | 0,00 |
+|  | 24 horas |  |  |  |  |  |
+|  | 30 horas ou 36 | 1.044,00 | 579,60 | 347,40 | 174,60 | 0,00 |
+|  | horas |  |  |  |  |  |
+|  | 40 horas | 1.392,00 | 772,80 | 463,20 | 232,80 | 0,00 |
+| CIRURGIÃO-DENTISTA | 20 horas ou | 746,40 | 415,20 | 248,40 | 124,80 | 0,00 |
+|  | 24 horas |  |  |  |  |  |
+|  | 30 horas | 1.119,60 | 622,80 | 372,60 | 187,20 | 0,00 |
+|  | 40 horas | 1.492,80 | 830,40 | 496,80 | 249,60 | 0,00 |
 
 ANEXO VI - C
 
-|CARGO / EMPREGO PÚBLICO |JORNADA SEMANAL |SETORES (EM R$) |
-
-|EFETIVO | | |
-
-| | |I |II |III |IV |V |
-
-|AUXILIAR DE SERVIÇOS |30 horas |216,00 |120,00 |72,00 |36,00 |0,00 |
-
-| |40 horas |288,00 |160,00 |96,00 |48,00 |0,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |30 horas |216,00 |120,00 |72,00 |36,00 |0,00 |
-
-| |40 horas |288,00 |160,00 |96,00 |48,00 |0,00 |
-
-|OFICIAL DE SERVIÇOS |30 horas |216,00 |120,00 |72,00 |36,00 |0,00 |
-
-| |40 horas |288,00 |160,00 |96,00 |48,00 |0,00 |
-
-|TELEFONISTA |30 horas |216,00 |120,00 |72,00 |36,00 |0,00 |
-
-| |40 horas |288,00 |160,00 |96,00 |48,00 |0,00 |
-
-|MOTORISTA |30 horas |216,00 |120,00 |72,00 |36,00 |0,00 |
-
-| |40 horas |288,00 |160,00 |96,00 |48,00 |0,00 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |30 horas |289,20 |162,00 |94,80 |48,00 |0,00 |
-
-| |40 horas |385,60 |216,00 |126,40 |64,00 |0,00 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE|30 horas |328,80 |182,40 |109,20 |55,20 |0,00 |
-
-| |40 horas |438,40 |243,20 |145,60 |73,60 |0,00 |
-
-|AGENTE DE ADMINISTRAÇÃO |30 horas |328,80 |182,40 |109,20 |55,20 |0,00 |
-
-| |40 horas |438,40 |243,20 |145,60 |73,60 |0,00 |
-
-|TÉCNICO DE NÍVEL MÉDIO |40 horas |438,40 |243,20 |145,60 |73,60 |0,00 |
-
-|ANALISTA DE POLÍTICAS |40 horas |696,00 |386,40 |231,60 |116,40 |0,00 |
-
-|PÚBLICAS | | | | | | |
+| CARGO / EMPREGO PÚBLICO | JORNADA SEMANAL | SETORES (EM R$) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| EFETIVO |  |  |  |  |  |  |
+|  |  | I | II | III | IV | V |
+| AUXILIAR DE SERVIÇOS | 30 horas | 216,00 | 120,00 | 72,00 | 36,00 | 0,00 |
+|  | 40 horas | 288,00 | 160,00 | 96,00 | 48,00 | 0,00 |
+| AUXILIAR DE ADMINISTRAÇÃO | 30 horas | 216,00 | 120,00 | 72,00 | 36,00 | 0,00 |
+|  | 40 horas | 288,00 | 160,00 | 96,00 | 48,00 | 0,00 |
+| OFICIAL DE SERVIÇOS | 30 horas | 216,00 | 120,00 | 72,00 | 36,00 | 0,00 |
+|  | 40 horas | 288,00 | 160,00 | 96,00 | 48,00 | 0,00 |
+| TELEFONISTA | 30 horas | 216,00 | 120,00 | 72,00 | 36,00 | 0,00 |
+|  | 40 horas | 288,00 | 160,00 | 96,00 | 48,00 | 0,00 |
+| MOTORISTA | 30 horas | 216,00 | 120,00 | 72,00 | 36,00 | 0,00 |
+|  | 40 horas | 288,00 | 160,00 | 96,00 | 48,00 | 0,00 |
+| AGENTE DE SERVIÇOS DE SAÚDE | 30 horas | 289,20 | 162,00 | 94,80 | 48,00 | 0,00 |
+|  | 40 horas | 385,60 | 216,00 | 126,40 | 64,00 | 0,00 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 30 horas | 328,80 | 182,40 | 109,20 | 55,20 | 0,00 |
+|  | 40 horas | 438,40 | 243,20 | 145,60 | 73,60 | 0,00 |
+| AGENTE DE ADMINISTRAÇÃO | 30 horas | 328,80 | 182,40 | 109,20 | 55,20 | 0,00 |
+|  | 40 horas | 438,40 | 243,20 | 145,60 | 73,60 | 0,00 |
+| TÉCNICO DE NÍVEL MÉDIO | 40 horas | 438,40 | 243,20 | 145,60 | 73,60 | 0,00 |
+| ANALISTA DE POLÍTICAS | 40 horas | 696,00 | 386,40 | 231,60 | 116,40 | 0,00 |
+| PÚBLICAS |  |  |  |  |  |  |
 
 ” (NR)
 
 **Art. 9º** - O Abono de Estímulo à Fixação Profissional instituído no art. 11 da Lei nº 7.238/96, com a redação dada pelo § 1º do art. 12 da Lei nº 9.443/07 e pelo art. 1º da Lei nº 9.816/10, será pago aos servidores e empregados públicos integrantes da Área de Atividades de Saúde da Administração Direta do Poder Executivo e aos servidores públicos ocupantes de cargos correlatos vinculados ao Sistema Estadual de Gestão de Saúde e colocados à disposição do Município para o cumprimento de atividades no âmbito do SUS que, preenchendo as condições hábeis ao seu recebimento, cumpram integralmente a jornada de 40 (quarenta) horas semanais em uma única unidade de saúde classificada como ‘B’, ‘C’ ou ‘D’, inclusive os optantes pela jornada prevista no caput do art. 10 da mencionada Lei nº 9.816/10, conforme os seguintes valores mensais:
 
-|CARGO/EMPREGO PÚBLICO EFETIVO |VALOR DO ABONO DE ESTÍMULO A FIXAÇÃO |
-
-| |PROFISSIONAL PREVISTO NO § 1º DO ART. 12 |
-
-| |DA LEI Nº 9.443/07 PARA A HIPÓTESE DE |
-
-| |CUMPRIMENTO DA JORNADA DE 40 HORAS |
-
-| |SEMANAIS (em R$) |
-
-| |CLASSIFICAÇÃO DA UNIDADE |
-
-| |A |B |C |D |
-
-|AGENTE SANITÁRIO |0,00 |40,00 |93,00 |133,00 |
-
-|AGENTE DE SERVIÇO DE SAÚDE |0,00 |60,00 |120,00 |173,00 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |0,00 |66,67 |173,00 |253,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |0,00 |200,00 |500,00 |800,00 |
-
-|ENFERMEIRO |0,00 |200,00 |500,00 |800,00 |
-
-|CIRURGIÃO-DENTISTA |0,00 |200,00 |500,00 |800,00 |
-
-|MÉDICO |0,00 |400,00 |800,00 |1.800,00 |
-
-|AJUDANTE DE SERVIÇO OPERACIONAL |0,00 |40,00 |93,00 |133,00 |
-
-|AUXILIAR ADMINISTRATIVO |0,00 |40,00 |93,00 |133,00 |
-
-|OFICIAL DE SERVIÇO PÚBLICO |0,00 |40,00 |93,00 |133,00 |
-
-|MOTORISTA |0,00 |40,00 |93,00 |133,00 |
-
-|TELEFONISTA |0,00 |40,00 |93,00 |133,00 |
-
-|ASSISTENTE ADMINISTRATIVO |0,00 |66,67 |173,00 |253,00 |
-
-|TÉCNICO DE SERVIÇO PÚBLICO |0,00 |66,67 |173,00 |253,00 |
-
-|EDUCADOR SOCIAL |0,00 |66,67 |173,00 |253,00 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |0,00 |133,00 |333,00 |533,00 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE I, II E III |0,00 |60,00 |120,00 |173,00 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE I, II E III |0,00 |66,67 |173,00 |253,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE I, II E III |0,00 |200,00 |500,00 |800,00 |
-
-|AUXILIAR DE SERVIÇO ADMINISTRATIVO |0,00 |40,00 |93,00 |133,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |0,00 |40,00 |93,00 |133,00 |
-
-|OFICIAL DE GRÁFICA I E II |0,00 |40,00 |93,00 |133,00 |
-
-|AGENTE DE ADMINISTRAÇÃO I, II E III |0,00 |66,67 |173,00 |253,00 |
-
-|TÉCNICO DE NÍVEL MÉDIO I, II E III |0,00 |66,67 |173,00 |253,00 |
-
-|ANALISTA DE SISTEMA ADMINISTRATIVO I, II E III |0,00 |133,00 |333,00 |533,00 |
-
-|TÉCNICO DE RECURSOS HUMANOS I, II E III |0,00 |133,00 |333,00 |533,00 |
+| CARGO/EMPREGO PÚBLICO EFETIVO | VALOR DO ABONO DE ESTÍMULO A FIXAÇÃO |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | PROFISSIONAL PREVISTO NO § 1º DO ART. 12 |  |  |  |
+|  | DA LEI Nº 9.443/07 PARA A HIPÓTESE DE |  |  |  |
+|  | CUMPRIMENTO DA JORNADA DE 40 HORAS |  |  |  |
+|  | SEMANAIS (em R$) |  |  |  |
+|  | CLASSIFICAÇÃO DA UNIDADE |  |  |  |
+|  | A | B | C | D |
+| AGENTE SANITÁRIO | 0,00 | 40,00 | 93,00 | 133,00 |
+| AGENTE DE SERVIÇO DE SAÚDE | 0,00 | 60,00 | 120,00 | 173,00 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 0,00 | 66,67 | 173,00 | 253,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 0,00 | 200,00 | 500,00 | 800,00 |
+| ENFERMEIRO | 0,00 | 200,00 | 500,00 | 800,00 |
+| CIRURGIÃO-DENTISTA | 0,00 | 200,00 | 500,00 | 800,00 |
+| MÉDICO | 0,00 | 400,00 | 800,00 | 1.800,00 |
+| AJUDANTE DE SERVIÇO OPERACIONAL | 0,00 | 40,00 | 93,00 | 133,00 |
+| AUXILIAR ADMINISTRATIVO | 0,00 | 40,00 | 93,00 | 133,00 |
+| OFICIAL DE SERVIÇO PÚBLICO | 0,00 | 40,00 | 93,00 | 133,00 |
+| MOTORISTA | 0,00 | 40,00 | 93,00 | 133,00 |
+| TELEFONISTA | 0,00 | 40,00 | 93,00 | 133,00 |
+| ASSISTENTE ADMINISTRATIVO | 0,00 | 66,67 | 173,00 | 253,00 |
+| TÉCNICO DE SERVIÇO PÚBLICO | 0,00 | 66,67 | 173,00 | 253,00 |
+| EDUCADOR SOCIAL | 0,00 | 66,67 | 173,00 | 253,00 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 0,00 | 133,00 | 333,00 | 533,00 |
+| AGENTE DE SERVIÇOS DE SAÚDE I, II E III | 0,00 | 60,00 | 120,00 | 173,00 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE I, II E III | 0,00 | 66,67 | 173,00 | 253,00 |
+| TÉCNICO SUPERIOR DE SAÚDE I, II E III | 0,00 | 200,00 | 500,00 | 800,00 |
+| AUXILIAR DE SERVIÇO ADMINISTRATIVO | 0,00 | 40,00 | 93,00 | 133,00 |
+| AUXILIAR DE ADMINISTRAÇÃO | 0,00 | 40,00 | 93,00 | 133,00 |
+| OFICIAL DE GRÁFICA I E II | 0,00 | 40,00 | 93,00 | 133,00 |
+| AGENTE DE ADMINISTRAÇÃO I, II E III | 0,00 | 66,67 | 173,00 | 253,00 |
+| TÉCNICO DE NÍVEL MÉDIO I, II E III | 0,00 | 66,67 | 173,00 | 253,00 |
+| ANALISTA DE SISTEMA ADMINISTRATIVO I, II E III | 0,00 | 133,00 | 333,00 | 533,00 |
+| TÉCNICO DE RECURSOS HUMANOS I, II E III | 0,00 | 133,00 | 333,00 | 533,00 |
 
 **§ 1º** - O servidor ou empregado público referido no caput deste artigo que esteja em cumprimento da jornada de 40 (quarenta) horas semanais em mais de uma unidade de saúde fará jus ao abono nele previsto conforme a jornada trabalhada em cada unidade e desde que preencha as demais condições para o pagamento da referida vantagem pecuniária.
 
@@ -426,51 +319,33 @@ ANEXO VI - C
 
 I -
 
-|CARGOS E EMPREGOS PÚBLICOS |VALOR DO ABONO (em R$) |
-
-| |JORNADA SEMANAL |
-
-| |20 HORAS |30 HORAS |40 HORAS |
-
-| |ou |ou | |
-
-| |24 HORAS |36 HORAS | |
-
-|TÉCNICO SUPERIOR DE SAÚDE |100,00 |150,00 |200,00 |
-
-|ENFERMEIRO |100,00 |150,00 |200,00 |
-
-|CIRURGIÃO-DENTISTA |100,00 |150,00 |200,00 |
-
-|MÉDICO |200,00 |300,00 |400,00 |
+| CARGOS E EMPREGOS PÚBLICOS | VALOR DO ABONO (em R$) |  |  |
+| --- | --- | --- | --- |
+|  | JORNADA SEMANAL |  |  |
+|  | 20 HORAS | 30 HORAS | 40 HORAS |
+|  | ou | ou |  |
+|  | 24 HORAS | 36 HORAS |  |
+| TÉCNICO SUPERIOR DE SAÚDE | 100,00 | 150,00 | 200,00 |
+| ENFERMEIRO | 100,00 | 150,00 | 200,00 |
+| CIRURGIÃO-DENTISTA | 100,00 | 150,00 | 200,00 |
+| MÉDICO | 200,00 | 300,00 | 400,00 |
 
 II -
 
-|CARGOS E EMPREGOS PÚBLICOS |VALOR DO ABONO (em R$) |
-
-| |JORNADA SEMANAL |
-
-| |30 HORAS |40 HORAS |
-
-|AUXILIAR DE SERVIÇOS |30,00 |40,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |30,00 |40,00 |
-
-|OFICIAL DE SERVIÇOS |30,00 |40,00 |
-
-|TELEFONISTA |30,00 |40,00 |
-
-|MOTORISTA |30,00 |40,00 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |45,00 |60,00 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |50,00 |66,67 |
-
-|AGENTE DE ADMINISTRAÇÃO |50,00 |66,67 |
-
-|TÉCNICO DE NÍVEL MÉDIO |- |66,67 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |- |100,00 |
+| CARGOS E EMPREGOS PÚBLICOS | VALOR DO ABONO (em R$) |  |
+| --- | --- | --- |
+|  | JORNADA SEMANAL |  |
+|  | 30 HORAS | 40 HORAS |
+| AUXILIAR DE SERVIÇOS | 30,00 | 40,00 |
+| AUXILIAR DE ADMINISTRAÇÃO | 30,00 | 40,00 |
+| OFICIAL DE SERVIÇOS | 30,00 | 40,00 |
+| TELEFONISTA | 30,00 | 40,00 |
+| MOTORISTA | 30,00 | 40,00 |
+| AGENTE DE SERVIÇOS DE SAÚDE | 45,00 | 60,00 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 50,00 | 66,67 |
+| AGENTE DE ADMINISTRAÇÃO | 50,00 | 66,67 |
+| TÉCNICO DE NÍVEL MÉDIO | - | 66,67 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | - | 100,00 |
 
 **Art. 10** - Ficam convalidados e ratificados os atos administrativos editados até a data da publicação desta Lei referentes ao pagamento de parcelas pecuniárias devidas aos servidores públicos da Área de Atividades de Saúde que exerceram a opção pela jornada prevista no art. 10 da Lei nº 9.816/10.
 
@@ -494,17 +369,13 @@ d) Profissionais de Nível Médio e Fundamental optantes pela jornada de trabalh
 
 **§ 5º** - Os ocupantes dos cargos públicos de Agente de Serviço de Saúde, Técnico de Serviço de Saúde, Técnico Superior de Saúde, Enfermeiro e Cirurgião Dentista, integrantes da Área de Atividades de Saúde da Prefeitura de Belo Horizonte, os ocupantes dos cargos públicos de Técnico Superior de Saúde, Enfermeiro e Cirurgião Dentista integrantes do Plano de Carreira do HOB, bem como os ocupantes dos cargos públicos de Agente de Serviço de Saúde, Técnico de Serviço de Saúde, Técnico Superior de Saúde, Enfermeiro e Cirurgião Dentista vinculados ao Sistema Estadual de Gestão de Saúde e colocados à disposição do Município para o cumprimento de atividades no âmbito do SUS, que exercerem, nos setores de urgência e emergência das unidades de saúde do Município assim definidos no regulamento desta Lei, plantão de 12 (doze) horas excedentes à jornada semanal legalmente prevista para o seu cargo público efetivo, entre as 19:00 horas das sextas-feiras e as 07:00 horas das segundas-feiras e nos feriados, receberão, por plantão prestado, abono pecuniário nos seguintes valores:
 
-|CARGO/EMPREGO PÚBLICO EFETIVO |VALOR DA PARCELA (em R$) |
-
-|AGENTE DE SERVIÇO DE SAÚDE |150,00 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |150,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |320,00 |
-
-|ENFERMEIRO |320,00 |
-
-|CIRURGIÃO DENTISTA |320,00 |
+| CARGO/EMPREGO PÚBLICO EFETIVO | VALOR DA PARCELA (em R$) |
+| --- | --- |
+| AGENTE DE SERVIÇO DE SAÚDE | 150,00 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 150,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 320,00 |
+| ENFERMEIRO | 320,00 |
+| CIRURGIÃO DENTISTA | 320,00 |
 
 ” (NR)
 
@@ -512,157 +383,86 @@ d) Profissionais de Nível Médio e Fundamental optantes pela jornada de trabalh
 
 **Art. 14** - A partir de 1º de julho de 2011, os abonos previstos nos §§ 2º e 3º do art. 4º da Lei nº 9.450/07, com a redação dada pela Lei nº 9.816/10, e no art. 22 do referido diploma legal passam a vigorar com os seguintes valores para os seguintes cargos e empregos públicos:
 
-|CARGOS E EMPREGOS PÚBLICOS INTEGRANTES |ABONO POR PLANTÃO EM DATA ESPECIAL |
-
-|DO QUADRO DE PESSOAL DA |(em R$) |
-
-|ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO | |
-
-|AGENTE COMUNITÁRIO DE SAÚDE |120,00 |
-
-|AGENTE DE COMBATE A ENDEMIAS I e II |120,00 |
-
-|AGENTE SANITÁRIO |120,00 |
-
-|AGENTE DE SERVIÇO DE SAÚDE |120,00 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |120,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |240,00 |
-
-|ENFERMEIRO |240,00 |
-
-|CIRURGIÃO-DENTISTA |240,00 |
-
-|AJUDANTE DE SERVIÇO OPERACIONAL |120,00 |
-
-|AUXILIAR ADMINISTRATIVO |120,00 |
-
-|OFICIAL DE SERVIÇO PÚBLICO |120,00 |
-
-|MOTORISTA |120,00 |
-
-|TELEFONISTA |120,00 |
-
-|ASSISTENTE ADMINISTRATIVO |120,00 |
-
-|TÉCNICO DE SERVIÇO PÚBLICO |120,00 |
-
-|EDUCADOR SOCIAL |120,00 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |120,00 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE I, II E III |120,00 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE I, II E III |120,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE I, II E III |240,00 |
-
-|AUXILIAR DE SERVIÇO ADMINISTRATIVO |120,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |120,00 |
-
-|OFICIAL DE GRÁFICA I E II |120,00 |
-
-|AGENTE DE ADMINISTRAÇÃO I, II E III |120,00 |
-
-|TÉCNICO DE NÍVEL MÉDIO I, II E III |120,00 |
-
-|ANALISTA DE SISTEMA ADMINISTRATIVO I, II E III |120,00 |
-
-|TÉCNICO DE RECURSOS HUMANOS I, II E III |120,00 |
-
-|MÉDICO |300,00 |
-
-|CARGOS PÚBLICOS EFETIVOS INTEGRANTES DO QUADRO DE PESSOAL DO HOB |ABONO POR PLANTÃO EM DATA ESPECIAL |
-
-| |(em R$) |
-
-|AUXILIAR DE SERVIÇOS |120,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |120,00 |
-
-|OFICIAL DE SERVIÇOS |120,00 |
-
-|TELEFONISTA |120,00 |
-
-|MOTORISTA |120,00 |
-
-|AGENTE DE ADMINISTRAÇÃO |120,00 |
-
-|TÉCNICO DE NÍVEL MÉDIO |120,00 |
-
-|AGENTE DE SERVIÇO DE SAÚDE |120,00 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |120,00 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |120,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |240,00 |
-
-|ENFERMEIRO |240,00 |
-
-|CIRURGIÃO-DENTISTA |240,00 |
-
-|MÉDICO |300,00 |
+| CARGOS E EMPREGOS PÚBLICOS INTEGRANTES | ABONO POR PLANTÃO EM DATA ESPECIAL |
+| --- | --- |
+| DO QUADRO DE PESSOAL DA | (em R$) |
+| ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |  |
+| AGENTE COMUNITÁRIO DE SAÚDE | 120,00 |
+| AGENTE DE COMBATE A ENDEMIAS I e II | 120,00 |
+| AGENTE SANITÁRIO | 120,00 |
+| AGENTE DE SERVIÇO DE SAÚDE | 120,00 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 120,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 240,00 |
+| ENFERMEIRO | 240,00 |
+| CIRURGIÃO-DENTISTA | 240,00 |
+| AJUDANTE DE SERVIÇO OPERACIONAL | 120,00 |
+| AUXILIAR ADMINISTRATIVO | 120,00 |
+| OFICIAL DE SERVIÇO PÚBLICO | 120,00 |
+| MOTORISTA | 120,00 |
+| TELEFONISTA | 120,00 |
+| ASSISTENTE ADMINISTRATIVO | 120,00 |
+| TÉCNICO DE SERVIÇO PÚBLICO | 120,00 |
+| EDUCADOR SOCIAL | 120,00 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 120,00 |
+| AGENTE DE SERVIÇOS DE SAÚDE I, II E III | 120,00 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE I, II E III | 120,00 |
+| TÉCNICO SUPERIOR DE SAÚDE I, II E III | 240,00 |
+| AUXILIAR DE SERVIÇO ADMINISTRATIVO | 120,00 |
+| AUXILIAR DE ADMINISTRAÇÃO | 120,00 |
+| OFICIAL DE GRÁFICA I E II | 120,00 |
+| AGENTE DE ADMINISTRAÇÃO I, II E III | 120,00 |
+| TÉCNICO DE NÍVEL MÉDIO I, II E III | 120,00 |
+| ANALISTA DE SISTEMA ADMINISTRATIVO I, II E III | 120,00 |
+| TÉCNICO DE RECURSOS HUMANOS I, II E III | 120,00 |
+| MÉDICO | 300,00 |
+| CARGOS PÚBLICOS EFETIVOS INTEGRANTES DO QUADRO DE PESSOAL DO HOB | ABONO POR PLANTÃO EM DATA ESPECIAL |
+|  | (em R$) |
+| AUXILIAR DE SERVIÇOS | 120,00 |
+| AUXILIAR DE ADMINISTRAÇÃO | 120,00 |
+| OFICIAL DE SERVIÇOS | 120,00 |
+| TELEFONISTA | 120,00 |
+| MOTORISTA | 120,00 |
+| AGENTE DE ADMINISTRAÇÃO | 120,00 |
+| TÉCNICO DE NÍVEL MÉDIO | 120,00 |
+| AGENTE DE SERVIÇO DE SAÚDE | 120,00 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 120,00 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 120,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 240,00 |
+| ENFERMEIRO | 240,00 |
+| CIRURGIÃO-DENTISTA | 240,00 |
+| MÉDICO | 300,00 |
 
 **Art. 15** - A partir de 1º de julho de 2011, o abono instituído no art. 9º da Lei nº 9.816/10 e suas alterações passa a vigorar com os seguintes valores para os seguintes cargos e empregos públicos:
 
-|CARGOS/ EMPREGOS PÚBLICOS EFETIVOS |ABONO DE REDE COMPLEMENTAR |
-
-| |(em R$) |
-
-|AGENTE SANITÁRIO |100,00 |
-
-|AGENTE DE SERVIÇO DE SAÚDE |100,00 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |100,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |100,00 |
-
-|ENFERMEIRO |100,00 |
-
-|CIRURGIÃO-DENTISTA |100,00 |
-
-|AJUDANTE DE SERVIÇO OPERACIONAL |100,00 |
-
-|AUXILIAR ADMINISTRATIVO |100,00 |
-
-|OFICIAL DE SERVIÇO PÚBLICO |100,00 |
-
-|MOTORISTA |100,00 |
-
-|TELEFONISTA |100,00 |
-
-|ASSISTENTE ADMINISTRATIVO |100,00 |
-
-|TÉCNICO DE SERVIÇO PÚBLICO |100,00 |
-
-|EDUCADOR SOCIAL |100,00 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |100,00 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE I, II E III |100,00 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE I, II E III |100,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE I, II E III |100,00 |
-
-|AUXILIAR DE SERVIÇO ADMINISTRATIVO |100,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |100,00 |
-
-|OFICIAL DE GRÁFICA I E II |100,00 |
-
-|AGENTE DE ADMINISTRAÇÃO I, II E III |100,00 |
-
-|TÉCNICO DE NÍVEL MÉDIO I, II E III |100,00 |
-
-|ANALISTA DE SISTEMA ADMINISTRATIVO I, II E III |100,00 |
-
-|TÉCNICO DE RECURSOS HUMANOS I, II E III |100,00 |
-
-|MÉDICO |300,00 |
+| CARGOS/ EMPREGOS PÚBLICOS EFETIVOS | ABONO DE REDE COMPLEMENTAR |
+| --- | --- |
+|  | (em R$) |
+| AGENTE SANITÁRIO | 100,00 |
+| AGENTE DE SERVIÇO DE SAÚDE | 100,00 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 100,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 100,00 |
+| ENFERMEIRO | 100,00 |
+| CIRURGIÃO-DENTISTA | 100,00 |
+| AJUDANTE DE SERVIÇO OPERACIONAL | 100,00 |
+| AUXILIAR ADMINISTRATIVO | 100,00 |
+| OFICIAL DE SERVIÇO PÚBLICO | 100,00 |
+| MOTORISTA | 100,00 |
+| TELEFONISTA | 100,00 |
+| ASSISTENTE ADMINISTRATIVO | 100,00 |
+| TÉCNICO DE SERVIÇO PÚBLICO | 100,00 |
+| EDUCADOR SOCIAL | 100,00 |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 100,00 |
+| AGENTE DE SERVIÇOS DE SAÚDE I, II E III | 100,00 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE I, II E III | 100,00 |
+| TÉCNICO SUPERIOR DE SAÚDE I, II E III | 100,00 |
+| AUXILIAR DE SERVIÇO ADMINISTRATIVO | 100,00 |
+| AUXILIAR DE ADMINISTRAÇÃO | 100,00 |
+| OFICIAL DE GRÁFICA I E II | 100,00 |
+| AGENTE DE ADMINISTRAÇÃO I, II E III | 100,00 |
+| TÉCNICO DE NÍVEL MÉDIO I, II E III | 100,00 |
+| ANALISTA DE SISTEMA ADMINISTRATIVO I, II E III | 100,00 |
+| TÉCNICO DE RECURSOS HUMANOS I, II E III | 100,00 |
+| MÉDICO | 300,00 |
 
 **Art. 16** - Os servidores públicos efetivos integrantes do Plano de Carreira da Área de Atividades de Saúde de que trata a Lei nº 7.238/96 e suas alterações, bem como os servidores e empregados públicos integrantes do Plano de Carreira do Hospital Municipal Odilon Behrens - HOB - instituído na Lei nº 9.154/06, que forem colocados à disposição e estiverem em efetivo exercício das atribuições de seus cargos e empregos públicos em quaisquer das unidades de saúde dos órgãos e entidades da Administração Direta e Indireta do Poder Executivo, permanecerão computando os períodos trabalhados nessa condição para todos os fins, especialmente para fins de aposentadoria, de estabilidade e de progressão em sua carreira de origem, ficando convalidados e ratificados os atos administrativos editados até a data da publicação desta Lei com tal propósito.
 
@@ -672,23 +472,16 @@ d) Profissionais de Nível Médio e Fundamental optantes pela jornada de trabalh
 
 **Art. 17** - A jornada complementar instituída no art. 5º da Lei nº 6.560/94 e suas alterações, devida aos ocupantes do cargo público efetivo de Educador Infantil, integrante do Plano de Carreira da Área de Atividades de Educação, instituída pela Lei nº 7.235, de 27 de dezembro de 1996, passa a ser paga nas seguintes datas, nos seguintes valores e conforme as seguintes jornadas:
 
-|JORNADA |VALOR EM 1º DE |VALOR EM 1º |VALOR EM 1º DE |VALOR EM 1º DE| |
-
-|COMPLEMENTAR |JULHO DE 2011 |DE NOVEMBRO |JULHO DE 2012 (EM |NOVEMBRO DE | |
-
-|PRESTADA |(EM R$) |DE 2011 (EM |R$) |2012 (EM R$) | |
-
-| | |R$) | | | |
-
-|01h30min |07h30min |
-
-|(...) |(...) |
-
-|Técnico Superior de Serviço Público |53 |
-
-|Advogado |2 |
-
-|(...) |(...) |
+| JORNADA | VALOR EM 1º DE | VALOR EM 1º | VALOR EM 1º DE | VALOR EM 1º DE |  |
+| --- | --- | --- | --- | --- | --- |
+| COMPLEMENTAR | JULHO DE 2011 | DE NOVEMBRO | JULHO DE 2012 (EM | NOVEMBRO DE |  |
+| PRESTADA | (EM R$) | DE 2011 (EM | R$) | 2012 (EM R$) |  |
+|  |  | R$) |  |  |  |
+| 01h30min | 07h30min |  |  |  |  |
+| (...) | (...) |  |  |  |  |
+| Técnico Superior de Serviço Público | 53 |  |  |  |  |
+| Advogado | 2 |  |  |  |  |
+| (...) | (...) |  |  |  |  |
 
 ”(NR)
 
@@ -726,13 +519,11 @@ FUNDAÇÃO DE PARQUES MUNICIPAIS
 
 CARGOS DE PROVIMENTO EFETIVO
 
-|NOME DO CARGO |NÚMERO DE VAGAS |
-
-|Advogado |2 |
-
-|Técnico de Nível Superior |29 |
-
-|(...) |(...) |
+| NOME DO CARGO | NÚMERO DE VAGAS |
+| --- | --- |
+| Advogado | 2 |
+| Técnico de Nível Superior | 29 |
+| (...) | (...) |
 
 ”(NR)
 
@@ -744,13 +535,11 @@ FUNDAÇÃO MUNICIPAL DE CULTURA
 
 CARGOS DE PROVIMENTO EFETIVO
 
-|NOME DO CARGO |NÚMERO DE VAGAS |
-
-|Advogado |3 |
-
-|Técnico de Nível Superior |132 |
-
-|(...) |(...) |
+| NOME DO CARGO | NÚMERO DE VAGAS |
+| --- | --- |
+| Advogado | 3 |
+| Técnico de Nível Superior | 132 |
+| (...) | (...) |
 
 ”(NR)
 
@@ -778,23 +567,16 @@ CARGOS DE PROVIMENTO EFETIVO
 
 A - EMPREGOS PÚBLICOS EFETIVOS DA SUDECAP / NÚMERO DE VAGAS
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|(...) |(...) |
-
-|Assistente Administrativo |96 |
-
-|Engenheiro |218 |
-
-|Arquiteto |63 |
-
-|Advogado |36 |
-
-|Técnico de Nível Superior |66 |
-
-|(...) |(...) |
-
-|TOTAL |951 |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| (...) | (...) |
+| Assistente Administrativo | 96 |
+| Engenheiro | 218 |
+| Arquiteto | 63 |
+| Advogado | 36 |
+| Técnico de Nível Superior | 66 |
+| (...) | (...) |
+| TOTAL | 951 |
 
 ”(NR)
 
@@ -810,53 +592,31 @@ A - EMPREGOS PÚBLICOS EFETIVOS DA SUDECAP / NÚMERO DE VAGAS
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS E FUNÇÕES ANTERIORES
 
-|CARGO OU FUNÇÃO PÚBLICA PREVISTOS NA|CARGO OU FUNÇÃO PÚBLICA |QUANTIDADE DE VAGAS |
-
-|LEGISLAÇÃO ANTERIOR |PREVISTOS NESTA LEI | |
-
-|(...) |(...) |(...) |
-
-|GRUPO DE ASSESSORAMENTO |
-
-|Assessor II |Assessor II |104 |
-
-|(...) |(...) |(...) |
-
-|Assessor III |Assessor III - C |40 |
-
-|Assessor Jurídico II |Assessor Jurídico II |35 |
-
-|Assessor Jurídico III |Assessor Jurídico III-A |2 |
-
-|Assessor Jurídico III |Assessor Jurídico III-B |0 |
-
-|Assessor Jurídico III |Assessor Jurídico III-C |19 |
-
-|(...) |(...) |(...) |
-
-|(...) |Assessor de Contas e Perícia Judicial |10 |
-
-|(...) |(...) |(...) |
-
-|Supervisor de Alimentação Escolar |Supervisor de Alimentação Escolar |52 |
-
-|(...) |(...) |(...) |
-
-|FUNÇÕES GRATIFICADAS |
-
-|Gerente de Unidade de Saúde I |Gerente de Unidade de Saúde I |170 |
-
-|Gerente de Unidade de Saúde II |Gerente de Unidade de Saúde II |70 |
-
-|Gerente de Unidade de Saúde III |Gerente de Unidade de Saúde III |40 |
-
-|(...) |Gerente Adjunto de Unidade de Saúde I |164 |
-
-|(...) |Gerente Adjunto de Unidade de Saúde II |40 |
-
-|(...) |Gerente Adjunto de Unidade de Saúde III |25 |
-
-|(...) |(...) |(...) |
+| CARGO OU FUNÇÃO PÚBLICA PREVISTOS NA | CARGO OU FUNÇÃO PÚBLICA | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| LEGISLAÇÃO ANTERIOR | PREVISTOS NESTA LEI |  |
+| (...) | (...) | (...) |
+| GRUPO DE ASSESSORAMENTO |  |  |
+| Assessor II | Assessor II | 104 |
+| (...) | (...) | (...) |
+| Assessor III | Assessor III - C | 40 |
+| Assessor Jurídico II | Assessor Jurídico II | 35 |
+| Assessor Jurídico III | Assessor Jurídico III-A | 2 |
+| Assessor Jurídico III | Assessor Jurídico III-B | 0 |
+| Assessor Jurídico III | Assessor Jurídico III-C | 19 |
+| (...) | (...) | (...) |
+| (...) | Assessor de Contas e Perícia Judicial | 10 |
+| (...) | (...) | (...) |
+| Supervisor de Alimentação Escolar | Supervisor de Alimentação Escolar | 52 |
+| (...) | (...) | (...) |
+| FUNÇÕES GRATIFICADAS |  |  |
+| Gerente de Unidade de Saúde I | Gerente de Unidade de Saúde I | 170 |
+| Gerente de Unidade de Saúde II | Gerente de Unidade de Saúde II | 70 |
+| Gerente de Unidade de Saúde III | Gerente de Unidade de Saúde III | 40 |
+| (...) | Gerente Adjunto de Unidade de Saúde I | 164 |
+| (...) | Gerente Adjunto de Unidade de Saúde II | 40 |
+| (...) | Gerente Adjunto de Unidade de Saúde III | 25 |
+| (...) | (...) | (...) |
 
 ”(NR)
 

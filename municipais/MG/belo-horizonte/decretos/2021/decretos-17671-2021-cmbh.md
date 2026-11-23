@@ -48,13 +48,11 @@ ANEXO I
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Comércio varejista de mercadorias em lojas de |Diariamente, entre 7h e 22h |
-
-|conveniência ou similares | |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Comércio varejista de mercadorias em lojas de | Diariamente, entre 7h e 22h |
+| conveniência ou similares |  |
 
 ”
 
@@ -66,22 +64,14 @@ ANEXO II
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Serviços de alimentação, para consumo no local: |Diariamente, entre 11h e 23h |
-
-|restaurantes, cantinas, sorveterias, bares e |A retirada no local é permitida até às 22h |
-
-|similares, inclusive aqueles no interior de |Não há restrição de horário para a entrega em |
-
-|galerias de lojas, centros de comércio, shopping|domicílio |
-
-|centers e clubes de serviço, de lazer, sociais e| |
-
-|esportivos | |
-
-|(...) |(...) |
-
-|Jogos de futebol profissional |Diariamente, sem restrição de horário |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Serviços de alimentação, para consumo no local: | Diariamente, entre 11h e 23h |
+| restaurantes, cantinas, sorveterias, bares e | A retirada no local é permitida até às 22h |
+| similares, inclusive aqueles no interior de | Não há restrição de horário para a entrega em |
+| galerias de lojas, centros de comércio, shopping | domicílio |
+| centers e clubes de serviço, de lazer, sociais e |  |
+| esportivos |  |
+| (...) | (...) |
+| Jogos de futebol profissional | Diariamente, sem restrição de horário |

@@ -48,62 +48,35 @@ ANEXO I
 
 IV.8 – Secretaria Municipal de Governo – SMGO:
 
-|SMGO |
-
-|CARGO / |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|FUNÇÃO – | | | |
-
-|NÍVEL | | | |
-
-|DAM-1 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |8 |SMGO.DAM2.A.001 a SMGO.DAM2.A.008 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |11 |SMGO.DAM3.A.001 a SMGO.DAM3.A.011 |
-
-|DAM-4 |LIMITADO |0 |- |
-
-| |AMPLO |15 |SMGO.DAM4.A.001 a SMGO.DAM4.A.015 |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |5 |SMGO.DAM5.A.001 a SMGO.DAM5.A.005 |
-
-|DAM-6 |LIMITADO |0 |- |
-
-| |AMPLO |13 |SMGO.DAM6.A.001 a SMGO.DAM6.A.013 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMGO.DAM7.A.001 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMGO.DAM8.A.001 |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMGO.DAM9.A.001 |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |55 | |
+| SMGO |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| FUNÇÃO – |  |  |  |
+| NÍVEL |  |  |  |
+| DAM-1 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 8 | SMGO.DAM2.A.001 a SMGO.DAM2.A.008 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 11 | SMGO.DAM3.A.001 a SMGO.DAM3.A.011 |
+| DAM-4 | LIMITADO | 0 | - |
+|  | AMPLO | 15 | SMGO.DAM4.A.001 a SMGO.DAM4.A.015 |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 5 | SMGO.DAM5.A.001 a SMGO.DAM5.A.005 |
+| DAM-6 | LIMITADO | 0 | - |
+|  | AMPLO | 13 | SMGO.DAM6.A.001 a SMGO.DAM6.A.013 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMGO.DAM7.A.001 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMGO.DAM8.A.001 |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMGO.DAM9.A.001 |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 55 |  |  |
 
 ”

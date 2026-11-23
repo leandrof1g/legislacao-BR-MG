@@ -58,17 +58,13 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Créditos Adicionais Especiais suplementando a seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º|R$ |
-
-|do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 1º da Lei nº | |
-
-|11.600, de 16 de outubro de 2023: | |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|1014.1100.08.306.132.2.761.339030.550 |20.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |20.000.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 1º da Lei nº |  |
+| 11.600, de 16 de outubro de 2023: |  |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 1014.1100.08.306.132.2.761.339030.550 | 20.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 20.000.000,00 |
 
 ANEXO II
 

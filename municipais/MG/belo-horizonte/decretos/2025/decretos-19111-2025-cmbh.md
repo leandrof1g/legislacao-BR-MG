@@ -58,39 +58,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º |R$ |
-
-|da Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2581.339030.1.500.000 |287,40 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.813.0101.2545.339039.1.500.000 |877.822,80 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.1.500.000 |126.619,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0304.1393.339039.1.500.000 |200.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.204.729,20 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º | R$ |
+| --- | --- |
+| da Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2581.339030.1.500.000 | 287,40 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.813.0101.2545.339039.1.500.000 | 877.822,80 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.1.500.000 | 126.619,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0304.1393.339039.1.500.000 | 200.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.204.729,20 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.9999.999999.1.500.000 |1.204.729,20 |
-
-|TOTAL DA ANULAÇÃO |1.204.729,20 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.9999.999999.1.500.000 | 1.204.729,20 |
+| TOTAL DA ANULAÇÃO | 1.204.729,20 |
 
 ANEXO II
 
@@ -126,24 +114,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 137.741.405,88 |
-
-|Valor do Decreto publicado nesta data |R$ 1.204.729,20 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 138.946.135,08 |
-
-|Saldo atual de créditos suplementares |R$ 2.126.434.662,22 |
-
-|Percentual utilizado |6,13% |
-
-|Atualizado em 15/05/2025 às 20:21:04 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 137.741.405,88 |
+| Valor do Decreto publicado nesta data | R$ 1.204.729,20 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 138.946.135,08 |
+| Saldo atual de créditos suplementares | R$ 2.126.434.662,22 |
+| Percentual utilizado | 6,13% |
+| Atualizado em 15/05/2025 às 20:21:04 |  |

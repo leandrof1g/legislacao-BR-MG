@@ -84,13 +84,13 @@ ANEXO I
 
 (a que se refere o Decreto nº 18.639, de 21 de fevereiro de 2024)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
 (a que se refere o Decreto nº 18.639, de 21 de fevereiro de 2024)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO III
 
@@ -100,52 +100,41 @@ PARÂMETROS URBANÍSTICOS
 
 TABELA 1 – Parâmetros para fins de parcelamento do solo e de regularização
 
-|Áreas do |Área máxima de lote|Área mínima de lote|Frente mínima |Extensão máxima de |
-
-|Anexo II |(m²) |(m²) |de lote (m) |quadra (m) |
-
-| | | | | | |
-
-|Áreas A, B e |360 |90 |5 |480 | |
-
-|C | | | | | |
-
-|Áreas D, E e |- |10.000 |5 |480 | |
-
-|F | | | | | |
+| Áreas do | Área máxima de lote | Área mínima de lote | Frente mínima | Extensão máxima de |  |
+| --- | --- | --- | --- | --- | --- |
+| Anexo II | (m²) | (m²) | de lote (m) | quadra (m) |  |
+|  |  |  |  |  |  |
+| Áreas A, B e | 360 | 90 | 5 | 480 |  |
+| C |  |  |  |  |  |
+| Áreas D, E e | - | 10.000 | 5 | 480 |  |
+| F |  |  |  |  |  |
 
 TABELA 2 – Inclinação máxima de rampa para trechos de vias existentes
 
-|Via Local |Via Mista |
-
-|35% |21% |
+| Via Local | Via Mista |
+| --- | --- |
+| 35% | 21% |
 
 TABELA 3 – Afastamento frontal mínimo
 
-|Classificação da via |Afastamento frontal mínimo (m) |
-
-|Via local e coletora |3,0 |
-
-|Via mista ou de pedestre |sem exigência |
+| Classificação da via | Afastamento frontal mínimo (m) |
+| --- | --- |
+| Via local e coletora | 3,0 |
+| Via mista ou de pedestre | sem exigência |
 
 TABELA 4 – Afastamento lateral e de fundos mínimo
 
-|Altura total da |Afastamento lateral e de fundos mínimo (m) |
-
-|edificação | |
-
-|H < 8m |Afastamento mínimo de 1,50m quando houver abertura para a edificação |
-
-| |vizinha. |
-
-| |Afastamento mínimo de 0,90m quando não houver abertura para a edificação |
-
-| |vizinha. |
-
-|8m ≤ H ≤ 12,0 m |1,5m |
+| Altura total da | Afastamento lateral e de fundos mínimo (m) |
+| --- | --- |
+| edificação |  |
+| H < 8m | Afastamento mínimo de 1,50m quando houver abertura para a edificação |
+|  | vizinha. |
+|  | Afastamento mínimo de 0,90m quando não houver abertura para a edificação |
+|  | vizinha. |
+| 8m ≤ H ≤ 12,0 m | 1,5m |
 
 TABELA 5 – Parâmetros de ocupação
 
-|CAbas |CAmax |CAcent |QT (m²/un) |QTcent (m²/un) |
-
-|0,3 |0,3 |0,3 |2.500 |2.500 |
+| CAbas | CAmax | CAcent | QT (m²/un) | QTcent (m²/un) |
+| --- | --- | --- | --- | --- |
+| 0,3 | 0,3 | 0,3 | 2.500 | 2.500 |

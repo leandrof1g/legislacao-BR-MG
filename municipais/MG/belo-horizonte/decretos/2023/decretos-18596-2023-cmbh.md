@@ -56,101 +56,58 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotaões orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no Parágrafo Único |R$ |
-
-|do art. 6º-A da Lei nº 11.458, de 17 de março de 2023, e na Lei nº 11.538, de 5 de | |
-
-|julho de 2023, e no Decreto nº 18.022, de 8 de julho de 2022: | |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.1100.26.452.305.2.910.336045.501 |13.500.000,00 |
-
-|3302.1100.26.452.305.2.910.336045.500 |14.857.398,52 |
-
-|TOTAL DA SUPLEMENTAÇÃO |28.357.398,52 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no Parágrafo Único | R$ |
+| --- | --- |
+| do art. 6º-A da Lei nº 11.458, de 17 de março de 2023, e na Lei nº 11.538, de 5 de |  |
+| julho de 2023, e no Decreto nº 18.022, de 8 de julho de 2022: |  |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.1100.26.452.305.2.910.336045.501 | 13.500.000,00 |
+| 3302.1100.26.452.305.2.910.336045.500 | 14.857.398,52 |
+| TOTAL DA SUPLEMENTAÇÃO | 28.357.398,52 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.1100.04.121.148.2.900.339040.500 |165.372,00 |
-
-|0600.1600.04.122.014.2.809.339039.500 |688.136,00 |
-
-|0600.1600.04.122.014.2.809.339040.500 |728.747,00 |
-
-|0600.1800.04.122.166.1.401.449040.500 |1.000.000,00 |
-
-|0600.1800.04.122.166.2.900.339040.500 |1.275.386,00 |
-
-|Controladoria-Geral do Município – CTGM |
-
-|2400.1100.04.124.012.2.366.449052.500 |95.218,00 |
-
-|2400.3500.04.124.012.2.523.339039.500 |189.061,00 |
-
-|2400.3600.04.124.012.2.548.339039.500 |131.426,00 |
-
-|2400.3700.04.124.012.2.367.339039.500 |228.762,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.1100.15.452.057.2.770.449040.500 |281.290,82 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.1100.15.122.057.2.584.449052.500 |1.500.000,00 |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |
-
-|2703.1100.16.482.007.2.900.449051.500 |700.000,00 |
-
-|2703.1100.16.482.007.2.900.449052.500 |789.318,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.0600.16.482.225.1.231.449051.500 |1.336.026,50 |
-
-|2704.0700.16.482.225.1.231.449051.500 |1.913.600,00 |
-
-|2704.1100.16.482.225.1.231.449051.500 |1.075.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.1100.23.695.086.2.900.339040.500 |96.967,00 |
-
-|2805.1100.23.695.086.2.900.339046.500 |95.680,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.1100.13.391.155.2.908.339039.500 |145.225,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.5500.15.452.059.2.571.339037.500 |285.560,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.1100.26.452.060.2.567.339037.501 |13.500.000,00 |
-
-|Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |
-
-|3304.1100.26.452.060.2.567.339037.500 |398.096,00 |
-
-|3304.1100.26.452.060.2.567.339040.500 |882.448,97 |
-
-|3304.1100.26.452.060.2.567.339091.500 |731.043,23 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.1100.18.541.073.2.900.339093.500 |125.035,00 |
-
-|TOTAL DA ANULAÇÃO |28.357.398,52 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.1100.04.121.148.2.900.339040.500 | 165.372,00 |
+| 0600.1600.04.122.014.2.809.339039.500 | 688.136,00 |
+| 0600.1600.04.122.014.2.809.339040.500 | 728.747,00 |
+| 0600.1800.04.122.166.1.401.449040.500 | 1.000.000,00 |
+| 0600.1800.04.122.166.2.900.339040.500 | 1.275.386,00 |
+| Controladoria-Geral do Município – CTGM |  |
+| 2400.1100.04.124.012.2.366.449052.500 | 95.218,00 |
+| 2400.3500.04.124.012.2.523.339039.500 | 189.061,00 |
+| 2400.3600.04.124.012.2.548.339039.500 | 131.426,00 |
+| 2400.3700.04.124.012.2.367.339039.500 | 228.762,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.1100.15.452.057.2.770.449040.500 | 281.290,82 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.1100.15.122.057.2.584.449052.500 | 1.500.000,00 |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |  |
+| 2703.1100.16.482.007.2.900.449051.500 | 700.000,00 |
+| 2703.1100.16.482.007.2.900.449052.500 | 789.318,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.0600.16.482.225.1.231.449051.500 | 1.336.026,50 |
+| 2704.0700.16.482.225.1.231.449051.500 | 1.913.600,00 |
+| 2704.1100.16.482.225.1.231.449051.500 | 1.075.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.1100.23.695.086.2.900.339040.500 | 96.967,00 |
+| 2805.1100.23.695.086.2.900.339046.500 | 95.680,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.1100.13.391.155.2.908.339039.500 | 145.225,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.5500.15.452.059.2.571.339037.500 | 285.560,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.1100.26.452.060.2.567.339037.501 | 13.500.000,00 |
+| Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3304.1100.26.452.060.2.567.339037.500 | 398.096,00 |
+| 3304.1100.26.452.060.2.567.339040.500 | 882.448,97 |
+| 3304.1100.26.452.060.2.567.339091.500 | 731.043,23 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.1100.18.541.073.2.900.339093.500 | 125.035,00 |
+| TOTAL DA ANULAÇÃO | 28.357.398,52 |
 
 ANEXO II
 

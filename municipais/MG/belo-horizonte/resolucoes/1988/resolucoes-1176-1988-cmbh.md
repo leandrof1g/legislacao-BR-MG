@@ -102,23 +102,16 @@ QUADRO DEMONSTRATIVO DA ALOCAÇÃO DE RECURSOS
 
 ANEXO
 
-|ORDEM DO RECURSO |Valor Cz$ |PARTICIPAÇÃO PERCENTUAL |
-
-| |REPASSADO |A REPASSAR |TOTAL | |
-
-|SETAS |185.555,50 |285.110,56 |470.666,06 |25% |
-
-|GTZ |271.111,00 |425.474,77 |696.585,77 |37% |
-
-|AVSI |100.000,00 |144.746,35 |244.746,35 |13% |
-
-|SUB-TOTAL |556.666,50 |855.331,68 |1.411.998,18 |75% |
-
-|URBEL |185.555,50 |285.110,56 |470.666,06 |25% |
-
-| | | | | |
-
-|TOTAL |742.222,00 |1.140.442,24 |1.882.664,24 |100% |
+| ORDEM DO RECURSO | Valor Cz$ | PARTICIPAÇÃO PERCENTUAL |  |  |
+| --- | --- | --- | --- | --- |
+|  | REPASSADO | A REPASSAR | TOTAL |  |
+| SETAS | 185.555,50 | 285.110,56 | 470.666,06 | 25% |
+| GTZ | 271.111,00 | 425.474,77 | 696.585,77 | 37% |
+| AVSI | 100.000,00 | 144.746,35 | 244.746,35 | 13% |
+| SUB-TOTAL | 556.666,50 | 855.331,68 | 1.411.998,18 | 75% |
+| URBEL | 185.555,50 | 285.110,56 | 470.666,06 | 25% |
+|  |  |  |  |  |
+| TOTAL | 742.222,00 | 1.140.442,24 | 1.882.664,24 | 100% |
 
 Segundo Termo Aditivo ao Convênio firmado em 11 de março de 1987, entre a Secretaria do Trabalho e Ação Social e a Prefeitura Municipal de Belo Horizonte, através de sua Superintendência de Limpeza Urbana - SLU, e de sua Companhia Urbanizadora de Belo Horizonte - URBEL.
 
@@ -198,20 +191,13 @@ José Geraldo de Oliveira Filho
 
 1º Secretário
 
-|QUADRO DEMONSTRATIVO DA ALOCAÇÃO DE RECURSOS |
-
-|ANEXO |
-
-|ORDEM DE RECURSO |VALOR Cz$ |PARTICIPAÇÃO |
-
-|SETAS |296.233,06 |25% |
-
-|GTZ |423.624,03 |73% |
-
-|AVSI |148.841,19 |13% |
-
-|SUB-TOTAL |858.699,18 |75% |
-
-|URBEL |286.233,06 |25% |
-
-|TOTAL 1.144.932,24 100% |
+| QUADRO DEMONSTRATIVO DA ALOCAÇÃO DE RECURSOS |  |  |
+| --- | --- | --- |
+| ANEXO |  |  |
+| ORDEM DE RECURSO | VALOR Cz$ | PARTICIPAÇÃO |
+| SETAS | 296.233,06 | 25% |
+| GTZ | 423.624,03 | 73% |
+| AVSI | 148.841,19 | 13% |
+| SUB-TOTAL | 858.699,18 | 75% |
+| URBEL | 286.233,06 | 25% |
+| TOTAL 1.144.932,24 100% |  |  |

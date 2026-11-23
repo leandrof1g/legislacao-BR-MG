@@ -472,7 +472,7 @@ O Demonstrativo das Metas Anuais - Tabela 1.1 - estabelece a meta de Resultado P
 
 Tabela 1.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 O cálculo das projeções foi realizado considerando-se o cenário macroeconômico contido no Projeto de Lei de Diretrizes Orçamentárias para 2018 do governo federal, encaminhado ao Congresso em abril de 2017, cujos parâmetros encontram-se na tabela 1.2.
 
@@ -480,7 +480,7 @@ Tabela 1.2
 
 VARIÁVEIS SELECIONADAS
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 A meta de resultado primário para 2018 é de déficit de R$119 milhões em valores correntes, devendo a receita primária situar-se em torno de R$9.901 milhões e a despesa primária em torno de R$10.020 milhões. Quanto à previsão do resultado nominal para 2018, estima-se um valor de R$134 milhões, tendo em vista a previsão de aumento da dívida contratada decorrente do ingresso de operação de crédito da Caixa Econômica Federal para atender aos programas Pró-Moradia, Pró-Transporte, de operação de crédito para o PMAT, BID DRENURBS e para financiamento de investimentos previstos no Programa de Governo e no Orçamento Participativo.
 
@@ -498,7 +498,7 @@ Dentro desse contexto, foram feitas as projeções anuais das receitas municipai
 
 Tabela 1.3
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 2.1.1 - Imposto sobre Propriedade Territorial Predial e Urbana – IPTU
 
@@ -564,7 +564,7 @@ Tabela 1.4
 
 TOTAL DAS DESPESAS
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 2.2.1 - Despesas Correntes
 
@@ -592,7 +592,7 @@ A tabela 1.5 apresenta os resultados primários do município de Belo Horizonte 
 
 Tabela 1.5
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 2.4 - Metodologia e Memória de Cálculo para o Resultado Nominal
 
@@ -604,7 +604,7 @@ A metodologia e a memória de cálculo do Resultado Nominal têm como referênci
 
 Tabela 1.6
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.2 - Avaliação do Cumprimento das Metas Fiscais do Exercício Anterior
 
@@ -614,7 +614,7 @@ A tabela 2.1 demonstra essa comparação e destaca as informações referentes �
 
 Tabela 2.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 A Lei de Diretrizes Orçamentárias para 2016, em seu anexo I-2, estabeleceu que a execução da Lei Orçamentária fosse compatível com a obtenção de um déficit primário de R$97 milhões, segundo os parâmetros econômicos para 2016 de crescimento do PIB, de 1,11% em 2016, e uma inflação de 5,63% ao ano para 2016, projetados pelo Banco Central do Brasil.
 
@@ -636,7 +636,7 @@ A tabela 3.1 apresenta, a preços correntes, o comparativo das metas anuais fixa
 
 Tabela 3.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.4 - Evolução do Patrimônio Líquido do Município de Belo Horizonte
 
@@ -644,7 +644,7 @@ O demonstrativo do Patrimônio Líquido, Tabela 4.1, tem por finalidade evidenci
 
 Tabela 4.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.5 - Origem e Aplicação dos Recursos Obtidos com a Alienação de Ativos
 
@@ -652,7 +652,7 @@ O demonstrativo a seguir – Tabela 5.1 – tem como finalidade demonstrar a rec
 
 Tabela 5.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.6 - Avaliação da Situação Financeira e Atuarial do Regime Próprio de Previdência (Art. 4º, § 2º, inciso IV, alínea “a”, da Lei Complementar nº 101/00)
 
@@ -728,13 +728,11 @@ Conforme informações disponibilizadas na base de dados, o conjunto populaciona
 
 Tabela 1 – Conjunto Populacional do Fufin
 
-|Ano |Ativos |Aposentados |Pensionistas |Total |
-
-|2014 |26.871 |11.790 |2.972 |41.633 |
-
-|2015 |25.613 |12.317 |3.011 |40.941 |
-
-|2016 |24.496 |12.948 |3.015 |40.459 |
+| Ano | Ativos | Aposentados | Pensionistas | Total |
+| --- | --- | --- | --- | --- |
+| 2014 | 26.871 | 11.790 | 2.972 | 41.633 |
+| 2015 | 25.613 | 12.317 | 3.011 | 40.941 |
+| 2016 | 24.496 | 12.948 | 3.015 | 40.459 |
 
 Fonte: Base de dados de agosto de 2014, agosto de 2015 e agosto de 2016.
 
@@ -742,7 +740,7 @@ Há uma redução no número de segurados ativos quando se compara o ano de 2001
 
 Gráfico 1 – Quantidade de Segurados em 2016
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016
 
@@ -756,35 +754,28 @@ O perfil estatístico do grupo de ativos do Fufin é apresentado como segue:
 
 Tabela 2 – Participantes Ativos por Tipo de Entidade
 
-| Entidade |Masculino |Feminino |
-
-| |Qtde |Remuneração Média (R$) |Idade |Qtde |Remuneração Média (R$) |Idade Média |
-
-| | | |Média | | | |
-
-|CMBH – 0002 |82 |12.223,21 |47 |1163 |13.078,81 |48 |
-
-|HOB – 6000 |248 |3.748,01 |41 |6676 |3.015,00 |40 |
-
-|FZB – 0013 |78 |2.678,02 |45 |555 |3.411,33 |44 |
-
-|FPM – 0014 |14 |3.640,35 |42 |118 |4.202,06 |38 |
-
-|FMC – 0015 |52 |3.853,28 |39 |558 |4.699,24 |39 |
-
-|TOTAL |6.556 |4.403,31 |45 |117.940 |4.044,55 |48 |
+| Entidade | Masculino | Feminino |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Qtde | Remuneração Média (R$) | Idade | Qtde | Remuneração Média (R$) | Idade Média |
+|  |  |  | Média |  |  |  |
+| CMBH – 0002 | 82 | 12.223,21 | 47 | 1163 | 13.078,81 | 48 |
+| HOB – 6000 | 248 | 3.748,01 | 41 | 6676 | 3.015,00 | 40 |
+| FZB – 0013 | 78 | 2.678,02 | 45 | 555 | 3.411,33 | 44 |
+| FPM – 0014 | 14 | 3.640,35 | 42 | 118 | 4.202,06 | 38 |
+| FMC – 0015 | 52 | 3.853,28 | 39 | 558 | 4.699,24 | 39 |
+| TOTAL | 6.556 | 4.403,31 | 45 | 117.940 | 4.044,55 | 48 |
 
 Fonte: Base de dados de agosto de 2016
 
 Gráfico 2 – Ativos por Sexo e Carreira
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016
 
 Gráfico 3 – Ativos por Faixa Etária
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016
 
@@ -792,7 +783,7 @@ Verifica-se que a maioria dos ativos se encontra na faixa etária entre 46 e 55 
 
 Gráfico 4 – Ativos por Tempo de Serviço PBH
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016
 
@@ -802,7 +793,7 @@ O gráfico a seguir discrimina as estatísticas relacionadas à remuneração do
 
 Gráfico 5 – Ativos por Faixa de Remuneração
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016
 
@@ -812,25 +803,20 @@ O perfil estatístico consolidado dos ativos é visualizado na tabela a seguir:
 
 Tabela 3 – Ativos
 
-|Discriminação |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |17.940 |6.556 |24.496 |
-
-|Idade média atual |48 |45 |47 |
-
-|Idade média de admissão no serviço público|32 |30 |31 |
-
-|Salário médio |R$ 4.044,55 |R$ 4.403,31 |R$ 4.140,57 |
-
-|Folha Mensal |R$ 72.559.251,04 |R$ 28.868.095,88 |R$ 101.427.346,92 |
+| Discriminação | Sexo | Total |  |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 17.940 | 6.556 | 24.496 |
+| Idade média atual | 48 | 45 | 47 |
+| Idade média de admissão no serviço público | 32 | 30 | 31 |
+| Salário médio | R$ 4.044,55 | R$ 4.403,31 | R$ 4.140,57 |
+| Folha Mensal | R$ 72.559.251,04 | R$ 28.868.095,88 | R$ 101.427.346,92 |
 
 Fonte: Base de dados de agosto de 2016
 
 Gráfico 6 – Ativos por Ano de Aposentadoria
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016
 
@@ -842,17 +828,13 @@ O grupo de aposentados está distribuído da seguinte forma:
 
 Tabela 4 – Aposentados
 
-|Discriminação |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |10.131 |2.817 |12.948 |
-
-|Idade média atual |65 |72 |67 |
-
-|Benefício médio | R$ 4.121,01 | R$ 4.487,17 |R$ 4.200,67 |
-
-|Folha Mensal |R$ 41.749.918,84 |R$ 12.640.347,76 |R$ 54.390.266,60 |
+| Discriminação | Sexo | Total |  |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 10.131 | 2.817 | 12.948 |
+| Idade média atual | 65 | 72 | 67 |
+| Benefício médio | R$ 4.121,01 | R$ 4.487,17 | R$ 4.200,67 |
+| Folha Mensal | R$ 41.749.918,84 | R$ 12.640.347,76 | R$ 54.390.266,60 |
 
 Fonte: Base de dados de agosto de 2016
 
@@ -860,21 +842,18 @@ Os dados apontam para um número maior de segurados do sexo feminino, representa
 
 Tabela 5 – Aposentados por Tipo de Entidade
 
-| |Masculino |Feminino |
-
-| |Qtde |Benefício Médio |Idade Média |Qtde |Benefício Médio|Idade Média |
-
-| | |(R$) | | |(R$) | |
-
-|CMBH – 0002 |28 | 0,00 |0,00 |337 | 12.482,19 |75,41 |
-
-|TOTAL |2.817 | 4.487,17 |72 |110.131 | 4.121,01 |65 |
+|  | Masculino | Feminino |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Qtde | Benefício Médio | Idade Média | Qtde | Benefício Médio | Idade Média |
+|  |  | (R$) |  |  | (R$) |  |
+| CMBH – 0002 | 28 | 0,00 | 0,00 | 337 | 12.482,19 | 75,41 |
+| TOTAL | 2.817 | 4.487,17 | 72 | 110.131 | 4.121,01 | 65 |
 
 Fonte: Base de dados de agosto de 2016
 
 Gráfico 7 – Aposentados por Faixa de Benefício
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016
 
@@ -886,17 +865,13 @@ O grupo de pensionistas está distribuído da seguinte maneira:
 
 Tabela 6 – Pensionistas
 
-|Discriminação |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |2.379 |636 |3.015 |
-
-|Idade média atual |70 |53 |67 |
-
-|Benefício médio | R$ 2.608,93 | R$ 2.134,17 | R$ 2.508,78 |
-
-|Folha Mensal |R$ 6.206.647,97 |R$ 1.357.333,75 |R$ 7.563.981,72 |
+| Discriminação | Sexo | Total |  |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 2.379 | 636 | 3.015 |
+| Idade média atual | 70 | 53 | 67 |
+| Benefício médio | R$ 2.608,93 | R$ 2.134,17 | R$ 2.508,78 |
+| Folha Mensal | R$ 6.206.647,97 | R$ 1.357.333,75 | R$ 7.563.981,72 |
 
 Fonte: Base de dados de agosto de 2016
 
@@ -904,7 +879,7 @@ As mulheres representam quase 80% do total de pensionistas.
 
 Gráfico 8 – Pensionistas por Faixa de Benefício
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016
 
@@ -920,43 +895,30 @@ Além disso, cumpre o disposto no artigo 4º da Lei nº 10.887/04, que determina
 
 Tabela 7 – Resultados Avaliação Atuarial 31/12/2016
 
-| |Valores em R$ |
-
-|(+)Ativos Garantidores |26.549.748,97 |
-
-|( -)Provisões Matemáticas Previdenciárias |26.549.748,97 |
-
-| |( -)Plano Financeiro |26.549.748,97 |
-
-| | |( -)Provisões de Benefícios Concedidos |18.254.460.849,84 |
-
-| | |VABF – Encargos de Benefícios Concedidos |18.774.385.546,55 |
-
-| | |VACF – Receitas de Benefícios Concedidos |(519.924.696,71) |
-
-| | |( -)Provisões de Benefícios A Conceder |39.109.301.525,85 |
-
-| | |VABF – Encargos de Benefícios A Conceder |44.645.473.661,13 |
-
-| | |VACF – Receitas de Benefícios A Conceder |(5.536.172.135,29) |
-
-| | |(+)Provisão para Cobertura de Insuficiências Financeiras |57.337.212.626,72 |
-
-|Resultado Atuarial |0,00 |
+|  | Valores em R$ |  |  |
+| --- | --- | --- | --- |
+| (+)Ativos Garantidores | 26.549.748,97 |  |  |
+| ( -)Provisões Matemáticas Previdenciárias | 26.549.748,97 |  |  |
+|  | ( -)Plano Financeiro | 26.549.748,97 |  |
+|  |  | ( -)Provisões de Benefícios Concedidos | 18.254.460.849,84 |
+|  |  | VABF – Encargos de Benefícios Concedidos | 18.774.385.546,55 |
+|  |  | VACF – Receitas de Benefícios Concedidos | (519.924.696,71) |
+|  |  | ( -)Provisões de Benefícios A Conceder | 39.109.301.525,85 |
+|  |  | VABF – Encargos de Benefícios A Conceder | 44.645.473.661,13 |
+|  |  | VACF – Receitas de Benefícios A Conceder | (5.536.172.135,29) |
+|  |  | (+)Provisão para Cobertura de Insuficiências Financeiras | 57.337.212.626,72 |
+| Resultado Atuarial | 0,00 |  |  |
 
 7. ANÁLISE COMPARATIVA
 
 Tabela 8 – Comparativo da Quantidade de Participantes
 
-|Avaliação Atuarial |Data Base |Segurados |
-
-| | |Ativos |Aposentados |Pensionistas |
-
-|Dezembro/2014 |Agosto/2014 |26.871 |11.790 |2.972 |
-
-|Dezembro/2015 |Agosto/2015 |25.613 |12.317 |3.011 |
-
-|Dezembro/2016 |Agosto/2016 |24.496 |12.948 |3.015 |
+| Avaliação Atuarial | Data Base | Segurados |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Ativos | Aposentados | Pensionistas |
+| Dezembro/2014 | Agosto/2014 | 26.871 | 11.790 | 2.972 |
+| Dezembro/2015 | Agosto/2015 | 25.613 | 12.317 | 3.011 |
+| Dezembro/2016 | Agosto/2016 | 24.496 | 12.948 | 3.015 |
 
 Fonte: Base de Dados de agosto de 2016 e DRAA anteriores
 
@@ -966,15 +928,12 @@ Tabela 9 – Comparativo da Remuneração e Provento Médio
 
 Valores em R$
 
-|Avaliação Atuarial |Data-Base |Remunerações e Proventos Médios |
-
-| | |Ativos |Aposentados |Pensionistas |
-
-|Dezembro/2014 |Agosto/2014 |3.608,60 |3.685,01 |2.044,70 |
-
-|Dezembro/2015 |Agosto/2015 |4.022,68 | 4.022,08 |2.371,41 |
-
-|Dezembro/2016 |Agosto/2016 |4.140,57 | 4.200,67 |2.508,78 |
+| Avaliação Atuarial | Data-Base | Remunerações e Proventos Médios |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Ativos | Aposentados | Pensionistas |
+| Dezembro/2014 | Agosto/2014 | 3.608,60 | 3.685,01 | 2.044,70 |
+| Dezembro/2015 | Agosto/2015 | 4.022,68 | 4.022,08 | 2.371,41 |
+| Dezembro/2016 | Agosto/2016 | 4.140,57 | 4.200,67 | 2.508,78 |
 
 Fonte: Base de Dados de agosto de 2016 e DRAA anteriores
 
@@ -986,17 +945,13 @@ O custo normal fica limitado ao custeio normal definido na Lei Municipal nº 10.
 
 Tabela 10 – Base de Contribuição do Custeio Normal
 
-| |Alíquota |Base de Contribuição (R$) |Contribuição Anual (R$) |
-
-|Contribuição Ente |22,00% |1.318.555.509,92 | 290.082.212,18 |
-
-|Contribuição Ativo |11,00% | | 145.041.106,09 |
-
-|Contribuição Aposentado |11,00% | 147.528.595,63 | 16.228.145,52 |
-
-|Contribuição Pensionista |11,00% | 22.496.195,67 | 2.474.581,52 |
-
-|Total |30,49% | 1.488.580.301,22 | 453.826.045,32 |
+|  | Alíquota | Base de Contribuição (R$) | Contribuição Anual (R$) |
+| --- | --- | --- | --- |
+| Contribuição Ente | 22,00% | 1.318.555.509,92 | 290.082.212,18 |
+| Contribuição Ativo | 11,00% |  | 145.041.106,09 |
+| Contribuição Aposentado | 11,00% | 147.528.595,63 | 16.228.145,52 |
+| Contribuição Pensionista | 11,00% | 22.496.195,67 | 2.474.581,52 |
+| Total | 30,49% | 1.488.580.301,22 | 453.826.045,32 |
 
 Fonte: Base de Dados de agosto de 2016
 
@@ -1112,13 +1067,11 @@ Conforme informações disponibilizadas na base de dados, o conjunto populaciona
 
 Tabela 7 - Conjunto Populacional BHPrev
 
-|Ano |Ativos |Aposentados |Pensionistas |Total |
-
-|2014 |7.325 |1 |1 | |
-
-|2015 |9.013 |2 |9 |9.024 |
-
-|2016 |10.109 |2 |12 |10.123 |
+| Ano | Ativos | Aposentados | Pensionistas | Total |
+| --- | --- | --- | --- | --- |
+| 2014 | 7.325 | 1 | 1 |  |
+| 2015 | 9.013 | 2 | 9 | 9.024 |
+| 2016 | 10.109 | 2 | 12 | 10.123 |
 
 Fonte: Base de dados de agosto de 2014, agosto de 2015 e agosto de 2016.
 
@@ -1130,27 +1083,21 @@ O perfil estatístico do grupo de ativos do BHPrev é apresentado como segue:
 
 Tabela 8 - Participantes Ativos por Tipo de Entidade
 
-| |Masculino |Feminino |
-
-| |Qtde |Remuneração Média |Idade Média |Qtde |Remuneração Média |Idade |
-
-| | | | | | |Média |
-
-|FMC – 0015 |15 |R$ 3.606,89 |41 |43 |R$ 3.682,78 |41 |
-
-|FMP – 0014 |5 |R$ 3.617,15 |43 |10 |R$ 4.226,05 |40 |
-
-|HOB – 6000 |126 |R$ 3.309,47 |36 |453 |R$ 2.469,79 |36 |
-
-|PBH – 0001 |1.159 |R$ 3.568,02 |37 |8.256 |R$ 2.114,01 |39 |
-
-|TOTAL |1.330 |R$ 3.577,85 |37 |8.779 |R$ 2.148,41 |38 |
+|  | Masculino | Feminino |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Qtde | Remuneração Média | Idade Média | Qtde | Remuneração Média | Idade |
+|  |  |  |  |  |  | Média |
+| FMC – 0015 | 15 | R$ 3.606,89 | 41 | 43 | R$ 3.682,78 | 41 |
+| FMP – 0014 | 5 | R$ 3.617,15 | 43 | 10 | R$ 4.226,05 | 40 |
+| HOB – 6000 | 126 | R$ 3.309,47 | 36 | 453 | R$ 2.469,79 | 36 |
+| PBH – 0001 | 1.159 | R$ 3.568,02 | 37 | 8.256 | R$ 2.114,01 | 39 |
+| TOTAL | 1.330 | R$ 3.577,85 | 37 | 8.779 | R$ 2.148,41 | 38 |
 
 Fonte: Base de dados de agosto de 2016
 
 Gráfico 9 – Ativos por Sexo e Carreira
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016.
 
@@ -1158,7 +1105,7 @@ As servidoras professoras representam mais de 58% da população. Os demais ativ
 
 Gráfico 10 – Ativos por Faixa Etária
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016.
 
@@ -1166,7 +1113,7 @@ Há maior concentração de segurados ativos nas faixas etárias até 40 anos. E
 
 Gráfico 11 – Número de Admissões por Tempo de Plano
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016.
 
@@ -1174,7 +1121,7 @@ O BHPrev contempla apenas ativos admitidos após 31/12/2011, razão pela qual a 
 
 Gráfico 12 – Ativos por Faixa de Remuneração
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016
 
@@ -1184,27 +1131,21 @@ O perfil estatístico consolidado dos ativos é visualizado na tabela a seguir:
 
 Tabela 9 – Ativos
 
-|Discriminação |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |8.779 |1.330 |10.109 |
-
-|Idade média atual |38 |37 |38 |
-
-|Idade média de admissão no serviço |36 |34 |35 |
-
-|público | | | |
-
-|Salário médio |2.148,41 |3.577,85 |2.336,47 |
-
-|Folha Mensal |R$ 18.860.847,60 |R$ 4.758.541,74 |R$ 23.619.389,33 |
+| Discriminação | Sexo | Total |  |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 8.779 | 1.330 | 10.109 |
+| Idade média atual | 38 | 37 | 38 |
+| Idade média de admissão no serviço | 36 | 34 | 35 |
+| público |  |  |  |
+| Salário médio | 2.148,41 | 3.577,85 | 2.336,47 |
+| Folha Mensal | R$ 18.860.847,60 | R$ 4.758.541,74 | R$ 23.619.389,33 |
 
 Fonte: Base de dados de agosto de 2016
 
 Gráfico 13 – Ativos por Ano de Aposentadoria
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Fonte: Base de dados de agosto de 2016
 
@@ -1216,17 +1157,13 @@ O perfil estatístico consolidado dos aposentados é visualizado na tabela a seg
 
 Tabela 10 – Aposentados
 
-|Discriminação |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |1 |1 |2 |
-
-|Idade média atual |46,00 |72 |59 |
-
-|Benefício médio |R$ 880,00 |R$ 880,00 |R$ 880,00 |
-
-|Folha Mensal |R$ 880,00 |R$ 880,00 |R$ 1.760,00 |
+| Discriminação | Sexo | Total |  |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 1 | 1 | 2 |
+| Idade média atual | 46,00 | 72 | 59 |
+| Benefício médio | R$ 880,00 | R$ 880,00 | R$ 880,00 |
+| Folha Mensal | R$ 880,00 | R$ 880,00 | R$ 1.760,00 |
 
 Fonte: Base de dados de agosto de 2016
 
@@ -1234,17 +1171,13 @@ O perfil estatístico consolidado dos pensionistas é visualizado na tabela a se
 
 Tabela 11 – Pensionistas
 
-|Discriminação |Sexo |Total |
-
-| |Feminino |Masculino | |
-
-|População |7 |5 |12 |
-
-|Idade média atual |30 |28 |32 |
-
-|Benefício médio |R$ 1.862,80 |R$ 2.050,81 |R$ 1.941,14 |
-
-|Folha Mensal |R$ 13.039,63 |R$ 10.254,03 |R$ 23.293,66 |
+| Discriminação | Sexo | Total |  |
+| --- | --- | --- | --- |
+|  | Feminino | Masculino |  |
+| População | 7 | 5 | 12 |
+| Idade média atual | 30 | 28 | 32 |
+| Benefício médio | R$ 1.862,80 | R$ 2.050,81 | R$ 1.941,14 |
+| Folha Mensal | R$ 13.039,63 | R$ 10.254,03 | R$ 23.293,66 |
 
 Fonte: Base de dados de agosto de 2016
 
@@ -1258,39 +1191,24 @@ Além disso, cumpre o disposto no artigo 4º da Lei Federal nº 10.887/04, que d
 
 Tabela 12 – Custo Previdenciário (com idade inicial 25 anos e tx. Juros 4,5%)
 
-|Benefícios a Conceder |Custo Anual (R$) |Custo Anual (%) |
-
-|Regime de Capitalização |142.415.059,91 |46,37% |
-
-|Aposentadoria Programada |48.024.603,16 |15,64% |
-
-|Aposentadoria Professores | 86.386.422,09 |28,13% |
-
-|Pensão por Morte Aposentados |8.004.034,66 |2,61% |
-
-| | | |
-
-|Regime de RCC e RS |4.677.036,11 |1,52% |
-
-|Aposentadoria Invalidez |194.493,61 |0,06% |
-
-|Pensão por Morte em Atividade |4.482.542,49 |1,46% |
-
-|Pensão por Morte de Inválido | - |0,00% |
-
-| Auxílios¹ |- |0,00% |
-
-| | | |
-
-|Custo Anual Líquido Normal |147.092.096,02 |47,89% |
-
-| | | |
-
-|Administração RPPS (Fufin e BHPrev)² |2.431.375,31 |0,79% |
-
-| | | |
-
-|Custo Anual Total Normal |149.523.471,33 |48,68% |
+| Benefícios a Conceder | Custo Anual (R$) | Custo Anual (%) |
+| --- | --- | --- |
+| Regime de Capitalização | 142.415.059,91 | 46,37% |
+| Aposentadoria Programada | 48.024.603,16 | 15,64% |
+| Aposentadoria Professores | 86.386.422,09 | 28,13% |
+| Pensão por Morte Aposentados | 8.004.034,66 | 2,61% |
+|  |  |  |
+| Regime de RCC e RS | 4.677.036,11 | 1,52% |
+| Aposentadoria Invalidez | 194.493,61 | 0,06% |
+| Pensão por Morte em Atividade | 4.482.542,49 | 1,46% |
+| Pensão por Morte de Inválido | - | 0,00% |
+| Auxílios¹ | - | 0,00% |
+|  |  |  |
+| Custo Anual Líquido Normal | 147.092.096,02 | 47,89% |
+|  |  |  |
+| Administração RPPS (Fufin e BHPrev)² | 2.431.375,31 | 0,79% |
+|  |  |  |
+| Custo Anual Total Normal | 149.523.471,33 | 48,68% |
 
 [7] Conforme art. 23, § 3º, da lei 10.362/2011, o custo com os auxílios será ressarcido pela Prefeitura de Belo Horizonte.
 
@@ -1298,39 +1216,24 @@ Tabela 12 – Custo Previdenciário (com idade inicial 25 anos e tx. Juros 4,5%)
 
 Tabela 13 – Custeio Previdenciário
 
-|Benefícios |Custeio Anual R$ |Custeio Anual %¹ |
-
-|Regime de Capitalização |95.761.553,54 |31,18% |
-
-|Aposentadoria Programada |32.292.305,39 |10,51% |
-
-|Aposentadoria Professores | 58.087.241,54 |18,91% |
-
-|Pensão por Morte Aposentados |5.382.006,61 |1,75% |
-
-| | | |
-
-|Regime de RCC e RS |3.144.893,83 |1,02% |
-
-|Aposentadoria Invalidez | 130.779,78 |0,04% |
-
-|Pensão por Morte em Atividade | 3.014.114,05 |0,98% |
-
-|Pensão por Morte de Inválido | - |0,00% |
-
-|Auxílios |- |0,00% |
-
-| | | |
-
-|Custo Anual Líquido Normal |98.906.447,37 |32,20% |
-
-| | | |
-
-|Administração RPPS (Fufin e BHPrev) | 2.431.375,31 |0,79% |
-
-| | | |
-
-|Custo Anual Total Normal | 101.337.822,68 |32,99% |
+| Benefícios | Custeio Anual R$ | Custeio Anual %¹ |
+| --- | --- | --- |
+| Regime de Capitalização | 95.761.553,54 | 31,18% |
+| Aposentadoria Programada | 32.292.305,39 | 10,51% |
+| Aposentadoria Professores | 58.087.241,54 | 18,91% |
+| Pensão por Morte Aposentados | 5.382.006,61 | 1,75% |
+|  |  |  |
+| Regime de RCC e RS | 3.144.893,83 | 1,02% |
+| Aposentadoria Invalidez | 130.779,78 | 0,04% |
+| Pensão por Morte em Atividade | 3.014.114,05 | 0,98% |
+| Pensão por Morte de Inválido | - | 0,00% |
+| Auxílios | - | 0,00% |
+|  |  |  |
+| Custo Anual Líquido Normal | 98.906.447,37 | 32,20% |
+|  |  |  |
+| Administração RPPS (Fufin e BHPrev) | 2.431.375,31 | 0,79% |
+|  |  |  |
+| Custo Anual Total Normal | 101.337.822,68 | 32,99% |
 
 [8] O custeio está estruturado sobre a base de contribuição dos segurados ativos, aposentados e pensionistas.
 
@@ -1338,41 +1241,29 @@ Tabela 13 – Custeio Previdenciário
 
 Tabela 14 – Resultados Avaliação Atuarial de 31/12/2016
 
-| |Valores em R$ |
-
-|(+)Ativos Garantidores |381.944.198,71 |
-
-|( -)Provisões Matemáticas Previdenciárias |376.458.769,81 |
-
-| |( -)Plano Previdenciário |376.458.769,81 |
-
-| | |( -)Provisões de Benefícios Concedidos |5.156.252,80 |
-
-| | |VABF – Encargos de Benefícios Concedidos |5.332.565,75 |
-
-| | |VACF – Receitas de Benefícios Concedidos |(176.312,94) |
-
-| | |( -)Provisões de Benefícios A Conceder |371.302.517,01 |
-
-| | |VABF – Encargos de Benefícios a Conceder |2.258.395.058,43 |
-
-| | |VACF – Receitas de Benefícios a Conceder |(1.887.092.541,42) |
-
-|Resultado Atuarial |5.485.428,90 |
+|  | Valores em R$ |  |  |
+| --- | --- | --- | --- |
+| (+)Ativos Garantidores | 381.944.198,71 |  |  |
+| ( -)Provisões Matemáticas Previdenciárias | 376.458.769,81 |  |  |
+|  | ( -)Plano Previdenciário | 376.458.769,81 |  |
+|  |  | ( -)Provisões de Benefícios Concedidos | 5.156.252,80 |
+|  |  | VABF – Encargos de Benefícios Concedidos | 5.332.565,75 |
+|  |  | VACF – Receitas de Benefícios Concedidos | (176.312,94) |
+|  |  | ( -)Provisões de Benefícios A Conceder | 371.302.517,01 |
+|  |  | VABF – Encargos de Benefícios a Conceder | 2.258.395.058,43 |
+|  |  | VACF – Receitas de Benefícios a Conceder | (1.887.092.541,42) |
+| Resultado Atuarial | 5.485.428,90 |  |  |
 
 3. Análise Comparativa
 
 Tabela 15 – Comparativo da Quantidade de Participantes
 
-|Avaliação Atuarial |Data Base |Segurados |
-
-| | |Ativos |Aposentados |Pensionistas |
-
-|Dezembro/2014 |Agosto/2014 |7.325 |1 |1 |
-
-|Dezembro/2015 |Agosto/2015 |9.013 |2 |9 |
-
-|Dezembro/2016 |Agosto/2016 |10.109 |2 |12 |
+| Avaliação Atuarial | Data Base | Segurados |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Ativos | Aposentados | Pensionistas |
+| Dezembro/2014 | Agosto/2014 | 7.325 | 1 | 1 |
+| Dezembro/2015 | Agosto/2015 | 9.013 | 2 | 9 |
+| Dezembro/2016 | Agosto/2016 | 10.109 | 2 | 12 |
 
 Fonte: Base de Dados de agosto de 2016 e DRAA anteriores
 
@@ -1382,15 +1273,12 @@ Tabela 16 – Comparativo da Remuneração e Provento Médio
 
 Valores em R$
 
-|Avaliação Atuarial |Data-Base |Remunerações e Proventos Médios |
-
-| | |Ativos |Aposentados |Pensionistas |
-
-|Dezembro/2014 |Agosto/2014 |2.262,58 |2.160,28 |2.286,71 |
-
-|Dezembro/2015 |Agosto/2015 |2.353,11 |1.440,12 |2.048,60 |
-
-|Dezembro/2016 |Agosto/2016 |2.336,47 |880,00 |1.941,14 |
+| Avaliação Atuarial | Data-Base | Remunerações e Proventos Médios |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Ativos | Aposentados | Pensionistas |
+| Dezembro/2014 | Agosto/2014 | 2.262,58 | 2.160,28 | 2.286,71 |
+| Dezembro/2015 | Agosto/2015 | 2.353,11 | 1.440,12 | 2.048,60 |
+| Dezembro/2016 | Agosto/2016 | 2.336,47 | 880,00 | 1.941,14 |
 
 Fonte: Base de Dados de agosto de 2016 e DRAA anteriores
 
@@ -1398,25 +1286,17 @@ A remuneração média de 2016 em comparação ao exercício anterior teve um de
 
 Tabela 11 – Comparativo do Custo Normal Anual
 
-|Custo Normal Anual |Avaliação (*) |
-
-| |Dez/14 |Dez/15 |Dez/16 |
-
-|Aposentadorias |21,42% |24,86% |43,76% |
-
-|Invalidez |1,54% |0,57% |0,06% |
-
-|Pensão de Ativos |4,27% |2,19% |1,46% |
-
-|Pensão de Aposentados |2,82% |0,79% |2,61% |
-
-|Auxílios¹ |0,00% |0,00% |0,00% |
-
-|Custo Anual Líquido Normal |30,05% |28,42% |47,89% |
-
-|Administração do Plano² |0,99% |0,85% |0,79% |
-
-|Custo Anual Normal Total |31,04% |29,27% |48,68% |
+| Custo Normal Anual | Avaliação (*) |  |  |
+| --- | --- | --- | --- |
+|  | Dez/14 | Dez/15 | Dez/16 |
+| Aposentadorias | 21,42% | 24,86% | 43,76% |
+| Invalidez | 1,54% | 0,57% | 0,06% |
+| Pensão de Ativos | 4,27% | 2,19% | 1,46% |
+| Pensão de Aposentados | 2,82% | 0,79% | 2,61% |
+| Auxílios¹ | 0,00% | 0,00% | 0,00% |
+| Custo Anual Líquido Normal | 30,05% | 28,42% | 47,89% |
+| Administração do Plano² | 0,99% | 0,85% | 0,79% |
+| Custo Anual Normal Total | 31,04% | 29,27% | 48,68% |
 
 Fonte: Base de Dados de agosto de 2016 e DRAA anteriores
 
@@ -1430,19 +1310,14 @@ Consideram-se as contribuições de 22% do Ente, 11% de servidores sobre as remu
 
 Tabela 12 – Base de Contribuição do Custo Normal
 
-| |Alíquota |Base De Contribuição |Contribuição Anual (R$) |
-
-| | |(R$) | |
-
-|Contribuição Ente¹ |21,22% | 307.052.061,29 | 65.168.485,79 |
-
-|Contribuição Ativo |11,00% | | 33.775.726,74 |
-
-|Contribuição Aposentado |11,00% |0,00 | - |
-
-|Contribuição Pensionista |11,00% |90.254,44 | 9.927,99 |
-
-|Total |32,22% | 307.142.315,74 | 98.954.140,52 |
+|  | Alíquota | Base De Contribuição | Contribuição Anual (R$) |
+| --- | --- | --- | --- |
+|  |  | (R$) |  |
+| Contribuição Ente¹ | 21,22% | 307.052.061,29 | 65.168.485,79 |
+| Contribuição Ativo | 11,00% |  | 33.775.726,74 |
+| Contribuição Aposentado | 11,00% | 0,00 | - |
+| Contribuição Pensionista | 11,00% | 90.254,44 | 9.927,99 |
+| Total | 32,22% | 307.142.315,74 | 98.954.140,52 |
 
 Fonte: Base de Dados de agosto de 2016
 
@@ -1482,9 +1357,7 @@ Este relatório é parte complementar do DRAA – Demonstrativo dos Resultados d
 
 Belo Horizonte, 28 de abril de 2017.
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.7 - Demonstrativo da Estimativa e Compensação da Renúncia de Receita
 
@@ -1498,7 +1371,7 @@ As isenções respondem por, aproximadamente, R$19 milhões anuais da renúncia 
 
 O desconto concedido pela antecipação do pagamento do IPTU está estimado em R$48,6 milhões, referentes tanto à antecipação total ou de parcelas do imposto.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.8 - Margem de Expansão das Despesas Obrigatórias de Caráter Continuado
 
@@ -1514,7 +1387,7 @@ Baseado no entendimento do aumento da arrecadação para fins de apuração do a
 
 Tabela 8.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
@@ -1538,7 +1411,7 @@ Os riscos fiscais advindos do estoque da dívida pública estão sob controle, n
 
 Do ponto de vista das ações judiciais trabalhistas e fiscais, existe um passivo contingente, em decorrência de demandas em tramitação, que provocará impacto nos cofres públicos municipais. Contudo, a incerteza de que naturalmente se reveste o resultado efetivo de tais demandas e a consequente repercussão nos cofres públicos municipais leva à estimativa de passivo meramente eventual, cujo caráter por si torna sua mensuração difícil e imprecisa.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 -----------------------
 

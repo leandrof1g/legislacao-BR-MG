@@ -60,21 +60,15 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, no art. 57 da Lei | |
-
-|nº 11.742, de 13 de setembro de 2024, e no art. 31 da Lei nº 11.801, de 2 de | |
-
-|janeiro de 2025: | |
-
-|Fundo Municipal de Mobilidade Urbana – FMU |
-
-|3502.26.452.0060.2837.449052.2.752.000 |782.760,00 |
-
-|3502.26.452.0060.2837.339040.2.752.000 |295.898,50 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.078.658,50 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, no art. 57 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024, e no art. 31 da Lei nº 11.801, de 2 de |  |
+| janeiro de 2025: |  |
+| Fundo Municipal de Mobilidade Urbana – FMU |  |
+| 3502.26.452.0060.2837.449052.2.752.000 | 782.760,00 |
+| 3502.26.452.0060.2837.339040.2.752.000 | 295.898,50 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.078.658,50 |
 
 ANEXO II
 
@@ -100,22 +94,14 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |R$ 2.049.027.226,93 |
-
-| | |
-
-|Total de créditos especiais abertos anteriormente |R$ 1.220.792.761,85 |
-
-|Valor do Decreto publicado nesta data |R$ 1.078.658,50 |
-
-|Valor total dos créditos especiais abertos no exercício |R$ 1.221.871.420,35 |
-
-|Saldo atual do limite autorizado |R$ 827.155.806,58 |
-
-|Percentual utilizado |59,63% |
-
-|Atualizado em 06/11/2025 às 11:20:09 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | R$ 2.049.027.226,93 |
+|  |  |
+| Total de créditos especiais abertos anteriormente | R$ 1.220.792.761,85 |
+| Valor do Decreto publicado nesta data | R$ 1.078.658,50 |
+| Valor total dos créditos especiais abertos no exercício | R$ 1.221.871.420,35 |
+| Saldo atual do limite autorizado | R$ 827.155.806,58 |
+| Percentual utilizado | 59,63% |
+| Atualizado em 06/11/2025 às 11:20:09 |  |

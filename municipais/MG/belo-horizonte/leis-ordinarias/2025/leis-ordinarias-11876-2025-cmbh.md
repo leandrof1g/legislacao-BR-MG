@@ -34,9 +34,9 @@ DIA COMEMORATIVO
 
 G - Dias comemorativos de julho:
 
-|Data |COMEMORAÇÃO |
-
-|23/7 |Dia Municipal dos Legendários |
+| Data | COMEMORAÇÃO |
+| --- | --- |
+| 23/7 | Dia Municipal dos Legendários |
 
 .”.
 

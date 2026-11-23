@@ -30,15 +30,12 @@ O Prefeito de Belo Horizonte, no exercício das atribuições que lhe confere o 
 
 “Art. 1º - [...]
 
-|[...] |[...] |
-
-|Transporte Coletivo Brasil Ltda. |Osasco |
-
-|Transporte Coletivo Brasil Ltda. |Natal |
-
-|Transporte Coletivo Brasil Ltda. |Foz do Iguaçu |
-
-|Transporte Coletivo Brasil Ltda. |Fortaleza |
+| [...] | [...] |
+| --- | --- |
+| Transporte Coletivo Brasil Ltda. | Osasco |
+| Transporte Coletivo Brasil Ltda. | Natal |
+| Transporte Coletivo Brasil Ltda. | Foz do Iguaçu |
+| Transporte Coletivo Brasil Ltda. | Fortaleza |
 
 ” (NR)
 

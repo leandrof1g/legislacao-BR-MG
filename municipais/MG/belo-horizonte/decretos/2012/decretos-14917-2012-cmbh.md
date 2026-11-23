@@ -94,13 +94,11 @@ IV - na faixa compartilhada entre pedestres e trânsito local.
 
 “
 
-| |
-
-|42 |Utilizar mesa e cadeira em via pública sem licença ou em desconformidade com a mesma |
-
-|44 |Utilizar mesa e cadeira fora da área permitida. |
-
-| | |
+|  |  |
+| --- | --- |
+| 42 | Utilizar mesa e cadeira em via pública sem licença ou em desconformidade com a mesma |
+| 44 | Utilizar mesa e cadeira fora da área permitida. |
+|  |  |
 
 46 |Utilizar mesa e cadeira fora do horário constante na licença |[...] |[...] | |[...] |[...] |[...] | |[...] |[...] |[...] | | | | | | |[...] |[...] |[...] | | | | | | | | | | |[...] |[...] |[...] | | | | | | | | | | |GV |Nos quarteirões fechados inseridos no Projeto de Requalificação da Praça Diogo de Vasconcelos e Adjacências |4.000,00 | | | | | |“ (NR)
 

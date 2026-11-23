@@ -182,11 +182,10 @@ ANEXO II
 
 CARGOS PÚBLICOS DE MÉDICO VINCULADOS À ÁREA DE ATIVIDADES DE MEDICINA DO MUNICÍPIO
 
-|ENTIDADE |NÚMERO DE VAGAS |
-
-|ADMINISTRAÇÃO DIRETA |3.266 |
-
-|HOB |678 |
+| ENTIDADE | NÚMERO DE VAGAS |
+| --- | --- |
+| ADMINISTRAÇÃO DIRETA | 3.266 |
+| HOB | 678 |
 
 ”.
 
@@ -200,15 +199,12 @@ ANEXO III
 
 B - Da Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania:
 
-|CARGO PÚBLICO EM |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |REMUNERAÇÃO TOTAL |
-
-|COMISSÃO |(em R$) |EXCLUSIVA |(em R$) |
-
-| | |(em R$) | |
-
-|Supervisor de |1.126,63 |1.126,63 |2.253,26 |
-
-|Alimentação | | | |
+| CARGO PÚBLICO EM | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+| COMISSÃO | (em R$) | EXCLUSIVA | (em R$) |
+|  |  | (em R$) |  |
+| Supervisor de | 1.126,63 | 1.126,63 | 2.253,26 |
+| Alimentação |  |  |  |
 
 ”.
 
@@ -222,46 +218,33 @@ ANEXO IV
 
 C - Função pública de Coordenador de Proteção Social e Cidadania:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO (EM R$) |
-
-|Coordenador de Proteção Social e Cidadania |15 |1.673,14 |
-
-|Total |15 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO (EM R$) |
+| --- | --- | --- |
+| Coordenador de Proteção Social e Cidadania | 15 | 1.673,14 |
+| Total | 15 |  |
 
 D - Função pública de Coordenador de Centro de Referência de Assistência Social, de Coordenador de Centro de Referência Especializado de Assistência Social e de Coordenador de Unidade de Acolhimento Institucional:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Coordenador de Centro de Referência de Assistência |34 |1.673,14 |
-
-|Social | | |
-
-|Coordenador de Centro de Referência Especializado |9 |1.673,14 |
-
-|de Assistência Social | | |
-
-|Coordenador de Acolhimento Institucional |2 |1.673,14 |
-
-|Total |45 | |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Coordenador de Centro de Referência de Assistência | 34 | 1.673,14 |
+| Social |  |  |
+| Coordenador de Centro de Referência Especializado | 9 | 1.673,14 |
+| de Assistência Social |  |  |
+| Coordenador de Acolhimento Institucional | 2 | 1.673,14 |
+| Total | 45 |  |
 
 [...]
 
 K - Funções públicas gratificadas do Hospital Metropolitano Odilon Behrens:
 
-|FUNÇÃO GRATIFICADA |QUANTIDADE DE VAGAS |GRATIFICAÇÃO |
-
-| | |(EM R$) |
-
-|Gerente de Unidade de Saúde I |1 |3.213,56 |
-
-|Gerente de Unidade de Saúde II |6 |3.537,64 |
-
-|Gerente de Unidade de Saúde III |7 |3.865,70 |
-
-|Coordenador de Apoio Gerencial |14 |1.570,29 |
-
-|Coordenador de Equipe |7 |1.855,80 |
-
-|Coordenador de Especialidades e Ensino |13 |1.998,55 |
+| FUNÇÃO GRATIFICADA | QUANTIDADE DE VAGAS | GRATIFICAÇÃO |
+| --- | --- | --- |
+|  |  | (EM R$) |
+| Gerente de Unidade de Saúde I | 1 | 3.213,56 |
+| Gerente de Unidade de Saúde II | 6 | 3.537,64 |
+| Gerente de Unidade de Saúde III | 7 | 3.865,70 |
+| Coordenador de Apoio Gerencial | 14 | 1.570,29 |
+| Coordenador de Equipe | 7 | 1.855,80 |
+| Coordenador de Especialidades e Ensino | 13 | 1.998,55 |

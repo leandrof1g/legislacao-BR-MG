@@ -686,172 +686,94 @@ Secretário Municipal de Atividades Urbanas
 
 ANEXO I DO DECRETO Nº 9.232
 
-|[pic] |BOLETIM DE INSCRIÇÃO E BAIXA – CADAN-BH | INSCRIÇÃO |
+| *[imagem no documento original — ver `fonte_texto`]*
 
-| | | BAIXA |
-
-|DADOS DO CONTRIBUINTE |
-
-|NOME OU RAZÃO SOCIAL |
-
-|NOME FANTASIA |
-
-|LOGRADOURO |
-
-|TIPO |CÓDIGO |NOME |
-
-|NÚMERO |COMPLEMENTO |BAIRRO |CEP |
-
-|CGC/CPF |INSCRIÇÃO |TELEFONE |
-
-| |
-
-|NOME OU RAZÃO SOCIAL |Nº DO CRC |
-
-|NOME FANTASIA |
-
-|LOGRADOURO |
-
-|TIPO |CÓDIGO |NOME |
-
-|NÚMERO |COMPLEMENTO |BAIRRO |CEP |
-
-|CGC/CPF |INSCRIÇÃO |TELEFONE |
-
-| |
-
-|TIPO |CÓDIGO |NOME |
-
-|NÚMERO |COMPLEMENTO |BAIRRO |CEP |
-
-|CGC/CPF |INSCRIÇÃO |TELEFONE |
-
-| | | | |
-
-|1 | | |1 | |
-
-| |5 |1 | |1 |
-
-| | | | | |
-
-|PAINEL | | |ANIMADO | |
-
-| |ACOPLADO A RELÓGIO |NÃO LUMINOSO | |INDICATIVO |
-
-| | | |2 | |
-
-| | |3 | |2 |
-
-| | | | | |
-
-| | | |INANIMADO | |
-
-| | |LUMINOSO | |PUBLICITÁRIO |
-
-| | | | | |
-
-| | | | |3 |
-
-| | | | | |
-
-| | | | | |
-
-| | | | |COOPERATIVO |
-
-|2 |6 | | | |
-
-| | | | | |
-
-| | | | | |
-
-|LETREIRO |OUT-DOOR | | | |
-
-|3 |7 | | | |
-
-| | | | | |
-
-| | | | | |
-
-|PINTURA MURAL ACOPLADO A |SIMPLES | | | |
-
-|PAINEL | | | | |
-
-|4 |8 | | | |
-
-| | | | | |
-
-| | | | | |
-
-|NOME LOGRADOURO |OUTROS | | | |
-
-|DATA DE PREENCHIMENTO |DATA DE INSTALAÇÃO/BAIXA |ASSINATURA DO RESPONSÁVEL |
-
-|___/___/___ |___/___/___ | |
-
-|ESPAÇO DESTINADO A USO DA REPARTIÇÃO FISCAL |DATA INSCRIÇÃO CADAN |
-
-| |___/___/___ |
-
-| | |
-
-| | |
-
-| | |
-
-| | |
-
-| | |
-
-| | |
+| BOLETIM DE INSCRIÇÃO E BAIXA – CADAN-BH |  INSCRIÇÃO |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  BAIXA |  |  |
+| DADOS DO CONTRIBUINTE |  |  |  |  |
+| NOME OU RAZÃO SOCIAL |  |  |  |  |
+| NOME FANTASIA |  |  |  |  |
+| LOGRADOURO |  |  |  |  |
+| TIPO | CÓDIGO | NOME |  |  |
+| NÚMERO | COMPLEMENTO | BAIRRO | CEP |  |
+| CGC/CPF | INSCRIÇÃO | TELEFONE |  |  |
+|  |  |  |  |  |
+| NOME OU RAZÃO SOCIAL | Nº DO CRC |  |  |  |
+| NOME FANTASIA |  |  |  |  |
+| LOGRADOURO |  |  |  |  |
+| TIPO | CÓDIGO | NOME |  |  |
+| NÚMERO | COMPLEMENTO | BAIRRO | CEP |  |
+| CGC/CPF | INSCRIÇÃO | TELEFONE |  |  |
+|  |  |  |  |  |
+| TIPO | CÓDIGO | NOME |  |  |
+| NÚMERO | COMPLEMENTO | BAIRRO | CEP |  |
+| CGC/CPF | INSCRIÇÃO | TELEFONE |  |  |
+|  |  |  |  |  |
+| 1 |  |  | 1 |  |
+|  | 5 | 1 |  | 1 |
+|  |  |  |  |  |
+| PAINEL |  |  | ANIMADO |  |
+|  | ACOPLADO A RELÓGIO | NÃO LUMINOSO |  | INDICATIVO |
+|  |  |  | 2 |  |
+|  |  | 3 |  | 2 |
+|  |  |  |  |  |
+|  |  |  | INANIMADO |  |
+|  |  | LUMINOSO |  | PUBLICITÁRIO |
+|  |  |  |  |  |
+|  |  |  |  | 3 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  | COOPERATIVO |
+| 2 | 6 |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| LETREIRO | OUT-DOOR |  |  |  |
+| 3 | 7 |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| PINTURA MURAL ACOPLADO A | SIMPLES |  |  |  |
+| PAINEL |  |  |  |  |
+| 4 | 8 |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| NOME LOGRADOURO | OUTROS |  |  |  |
+| DATA DE PREENCHIMENTO | DATA DE INSTALAÇÃO/BAIXA | ASSINATURA DO RESPONSÁVEL |  |  |
+| ___/___/___ | ___/___/___ |  |  |  |
+| ESPAÇO DESTINADO A USO DA REPARTIÇÃO FISCAL | DATA INSCRIÇÃO CADAN |  |  |  |
+|  | ___/___/___ |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 ANEXO II DO DECRETO Nº 9.232
 
-|DESCRIÇÃO |VALOR DA TFA |
-
-|1 - ENGENHOS INDICATIVOS | |
-
-|- Luminoso |33,9537 UFIR P/M² |
-
-|1.2 - Não luminoso |15,8450 UFIR P/M² |
-
-|2 – ENGENHOS COOPERATIVOS | |
-
-|2.1 - Luminoso |33,9537 UFIR P/M² |
-
-|2.2 - Não luminoso |15,8450 UFIR P/M² |
-
-|3 - ENGENHOS PUBLICITÁRIOS | |
-
-|3.1 - Inanimado e sem movimento |33,9537 UFIR P/M² |
-
-|3.1.1 - Luminoso |15,8450 UFIR P/M² |
-
-|3.2.2 - Não luminoso | |
-
-| | |
-
-|3.2 - Tabuleta (Outdoor) | |
-
-| | |
-
-|3.3 - Com Programação de Múltiplas Mensagens: Animado e com | |
-
-|Movimento (com mudanças de cores, desenho, dizeres, jogos de luz ou | |
-
-|intermitente) | |
-
-| | |
-
-|3.3.1 - Luminoso | |
-
-|3.3.2 - Não luminoso | |
-
-| |45,2716 UFIR P/M² |
-
-| |22,6358 UFIR P/M² |
-
-|4 - ENGENHOS ACOPLADOS A TERMÔMETROS OU RELÓGIOS |90,5432 UFIR P/UN |
-
-|5 - ENGENHOS SIMPLES (INDICATIVOS, PUBLICITÁRIOS OU COOPERATIVOS) | |
-
-| |9,0543 UFIR P/UN |
+| DESCRIÇÃO | VALOR DA TFA |
+| --- | --- |
+| 1 - ENGENHOS INDICATIVOS |  |
+| - Luminoso | 33,9537 UFIR P/M² |
+| 1.2 - Não luminoso | 15,8450 UFIR P/M² |
+| 2 – ENGENHOS COOPERATIVOS |  |
+| 2.1 - Luminoso | 33,9537 UFIR P/M² |
+| 2.2 - Não luminoso | 15,8450 UFIR P/M² |
+| 3 - ENGENHOS PUBLICITÁRIOS |  |
+| 3.1 - Inanimado e sem movimento | 33,9537 UFIR P/M² |
+| 3.1.1 - Luminoso | 15,8450 UFIR P/M² |
+| 3.2.2 - Não luminoso |  |
+|  |  |
+| 3.2 - Tabuleta (Outdoor) |  |
+|  |  |
+| 3.3 - Com Programação de Múltiplas Mensagens: Animado e com |  |
+| Movimento (com mudanças de cores, desenho, dizeres, jogos de luz ou |  |
+| intermitente) |  |
+|  |  |
+| 3.3.1 - Luminoso |  |
+| 3.3.2 - Não luminoso |  |
+|  | 45,2716 UFIR P/M² |
+|  | 22,6358 UFIR P/M² |
+| 4 - ENGENHOS ACOPLADOS A TERMÔMETROS OU RELÓGIOS | 90,5432 UFIR P/UN |
+| 5 - ENGENHOS SIMPLES (INDICATIVOS, PUBLICITÁRIOS OU COOPERATIVOS) |  |
+|  | 9,0543 UFIR P/UN |

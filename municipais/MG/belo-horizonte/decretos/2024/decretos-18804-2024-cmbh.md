@@ -58,105 +58,60 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da |R$ |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2840.319011.1.500.000 |29.700,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.366.0168.2080.319011.1.500.000 |405.100,00 |
-
-|2200.12.365.0169.2542.319113.1.500.000 |463.000,00 |
-
-|2200.12.366.0168.2080.319004.1.500.000 |42.200,00 |
-
-|2200.12.366.0168.2080.319113.1.500.000 |23.200,00 |
-
-|2200.12.361.0168.2080.319113.1.500.000 |1.438.200,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.301.0109.2803.319011.1.500.000 |2.292.500,00 |
-
-|2100.06.301.0109.2803.319113.1.500.000 |455.300,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2308.319011.1.500.000 |1.582.600,00 |
-
-|TOTAL |6.731.800,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da |R$ |
-
-|Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de | |
-
-|dezembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.1.500.000 |1.600.000,00 |
-
-|2302.10.305.0028.2829.339039.1.500.000 |60.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.339039.1.500.000 |9.200,00 |
-
-|TOTAL |1.669.200,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |8.401.000,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da | R$ |
+| --- | --- |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2840.319011.1.500.000 | 29.700,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.366.0168.2080.319011.1.500.000 | 405.100,00 |
+| 2200.12.365.0169.2542.319113.1.500.000 | 463.000,00 |
+| 2200.12.366.0168.2080.319004.1.500.000 | 42.200,00 |
+| 2200.12.366.0168.2080.319113.1.500.000 | 23.200,00 |
+| 2200.12.361.0168.2080.319113.1.500.000 | 1.438.200,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.301.0109.2803.319011.1.500.000 | 2.292.500,00 |
+| 2100.06.301.0109.2803.319113.1.500.000 | 455.300,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.319011.1.500.000 | 1.582.600,00 |
+| TOTAL | 6.731.800,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da | R$ |
+| Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de |  |
+| dezembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.1.500.000 | 1.600.000,00 |
+| 2302.10.305.0028.2829.339039.1.500.000 | 60.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.339039.1.500.000 | 9.200,00 |
+| TOTAL | 1.669.200,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 8.401.000,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.08.122.0123.2900.319011.1.500.000 |29.700,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.122.0140.2317.319011.1.500.000 |2.371.700,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.319011.1.500.000 |2.292.500,00 |
-
-|2100.06.181.0109.2803.319113.1.500.000 |455.300,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0113.2327.319011.1.500.000 |1.582.600,00 |
-
-|TOTAL |6.731.800,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de|R$ |
-
-|emendas previstas inicialmente nos órgãos relacionados abaixo, conforme | |
-
-|autorização contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no | |
-
-|art. 7º Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.304.0028.2829.339030.1.500.000 |1.600.000,00 |
-
-|2302.10.304.0028.2829.339039.1.500.000 |60.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.449052.1.500.000 |9.200,00 |
-
-|TOTAL |1.669.200,00 |
-
-|TOTAL DA ANULAÇÃO |8.401.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.08.122.0123.2900.319011.1.500.000 | 29.700,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.122.0140.2317.319011.1.500.000 | 2.371.700,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.319011.1.500.000 | 2.292.500,00 |
+| 2100.06.181.0109.2803.319113.1.500.000 | 455.300,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0113.2327.319011.1.500.000 | 1.582.600,00 |
+| TOTAL | 6.731.800,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| emendas previstas inicialmente nos órgãos relacionados abaixo, conforme |  |
+| autorização contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no |  |
+| art. 7º Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.304.0028.2829.339030.1.500.000 | 1.600.000,00 |
+| 2302.10.304.0028.2829.339039.1.500.000 | 60.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.449052.1.500.000 | 9.200,00 |
+| TOTAL | 1.669.200,00 |
+| TOTAL DA ANULAÇÃO | 8.401.000,00 |
 
 ANEXO II
 
@@ -196,48 +151,30 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 127.984.553,88 |
-
-|Valor do Decreto publicado nesta data |R$ 6.731.800,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 134.716.353,88 |
-
-|Saldo atual de créditos suplementares |R$ 1.848.616.418,52 |
-
-|Percentual utilizado |6,79% |
-
-|Atualizado em 29/08/2024 às 11:16:29 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 127.984.553,88 |
+| Valor do Decreto publicado nesta data | R$ 6.731.800,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 134.716.353,88 |
+| Saldo atual de créditos suplementares | R$ 1.848.616.418,52 |
+| Percentual utilizado | 6,79% |
+| Atualizado em 29/08/2024 às 11:16:29 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 170.400.546,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 11.378.376,00 |
-
-|Valor do Decreto publicado nesta data |R$ 1.669.200,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 13.047.576,00 |
-
-|Saldo atual de créditos suplementares |R$ 157.352.970,00 |
-
-|Percentual utilizado |7,66% |
-
-|Atualizado em 29/08/2024 às 11:16:29 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 170.400.546,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 11.378.376,00 |
+| Valor do Decreto publicado nesta data | R$ 1.669.200,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 13.047.576,00 |
+| Saldo atual de créditos suplementares | R$ 157.352.970,00 |
+| Percentual utilizado | 7,66% |
+| Atualizado em 29/08/2024 às 11:16:29 |  |

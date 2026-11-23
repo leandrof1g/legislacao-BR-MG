@@ -36,9 +36,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I DIA COMEMORATIVO C - Dias comemorativos de março
 
-|DATA |COMEMORAÇÃO |
-
-|8/3 |Dia Municipal da Mulher Advogada |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 8/3 | Dia Municipal da Mulher Advogada |
 
 .”.
 

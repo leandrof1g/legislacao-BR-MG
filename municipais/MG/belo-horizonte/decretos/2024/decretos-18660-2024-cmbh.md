@@ -66,29 +66,19 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49| |
-
-|da Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.0091.3501.469071.754 |3.233.154,70 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339093.571 |6.662,76 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449051.500 |5.521.537,25 |
-
-|Fundo de Desenvolvimento Urbano das Centralidades – FC |
-
-|3301.04.122.0059.2566.339035.501 |15.100.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |23.861.354,71 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 |  |
+| da Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.0091.3501.469071.754 | 3.233.154,70 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339093.571 | 6.662,76 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449051.500 | 5.521.537,25 |
+| Fundo de Desenvolvimento Urbano das Centralidades – FC |  |
+| 3301.04.122.0059.2566.339035.501 | 15.100.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 23.861.354,71 |
 
 ANEXO II
 

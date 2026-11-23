@@ -122,17 +122,13 @@ Inciso VI com redação dada pela Lei nº 8.288, de 28/12/2001 (Art. 36)
 
 **Art. 18** - Ficam acrescidos à Tabela que compõe o Anexo III da Lei nº 7645/99 os seguintes níveis de vencimentos para o cargo de Tesoureiro:
 
-|Cargos Efetivos |1 |2 |3 |4 |5 |
-
-|Tesoureiro |643,40 |675,57 |709,35 |744,82 |782,06 |
-
-|Cargos Efetivos |6 |7 |8 |9 |10 |
-
-|Tesoureiro |821,16 |862,22 |905,33 |950,59 |998,12 |
-
-|Cargos Efetivos |11 |12 |13 |14 |15 |
-
-|Tesoureiro |1.048,03 |1,100,43 |1.155,45 |1.213,23 |1.273,89 |
+| Cargos Efetivos | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Tesoureiro | 643,40 | 675,57 | 709,35 | 744,82 | 782,06 |
+| Cargos Efetivos | 6 | 7 | 8 | 9 | 10 |
+| Tesoureiro | 821,16 | 862,22 | 905,33 | 950,59 | 998,12 |
+| Cargos Efetivos | 11 | 12 | 13 | 14 | 15 |
+| Tesoureiro | 1.048,03 | 1,100,43 | 1.155,45 | 1.213,23 | 1.273,89 |
 
 **Art. 19** - Ficam revogados o art. 56, as alíneas "d", "e", "f" do art. 75, os arts. 76, 78, 79 e 95, todos do Decreto nº 127, de 26 de maio de 1937, o art. 7º do Decreto nº 117, de 15 de outubro de 1942, com a redação dada pelo Decreto nº 120, de 31 de outubro de 1942, e o inciso IX do art. 56 da Lei nº 4146, de 10 de julho de 1985.
 

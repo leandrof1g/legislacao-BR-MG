@@ -46,9 +46,9 @@ DIA COMEMORATIVO
 
 H - Dias comemorativos de agosto:
 
-|AGOSTO |COMEMORAÇÃO |
-
-|29/8 |Dia Municipal do Cipeiro |
+| AGOSTO | COMEMORAÇÃO |
+| --- | --- |
+| 29/8 | Dia Municipal do Cipeiro |
 
 ”.
 

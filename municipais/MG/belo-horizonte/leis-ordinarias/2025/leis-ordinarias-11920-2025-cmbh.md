@@ -36,9 +36,9 @@ O povo no município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 G - Dias comemorativos de julho:
 
-|DATA |COMEMORAÇÃO |
-
-|7/7 |Dia Municipal de Incentivo à Política de Planejamento Familiar |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 7/7 | Dia Municipal de Incentivo à Política de Planejamento Familiar |
 
 .”.
 

@@ -116,63 +116,39 @@ CARGOS COMISSIONADOS
 
 Cargos de Recrutamento Amplo
 
-|DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|Diretor-Geral |1 |9 |
-
-|Procurador-Geral |1 |9 |
-
-|Controlador-Geral |1 |9 |
-
-|Superintendente de Comunicação Institucional |1 |9 |
-
-|Assessor Técnico Especializado |1 |9 |
-
-|Assessor Especialista em Segurança e Inteligência |2 |9 |
-
-|Superintendente de Segurança e Inteligência |1 |9 |
-
-|Chefe de Gabinete da Presidência |1 |8 |
-
-|Chefe do Cerimonial |1 |8 |
-
-|Assistente Técnico Especializado |9 |8 |
-
-|Coordenador |1 |8 |
-
-|Assistente Técnico |7 |7 |
-
-|Secretário Executivo |3 |7 |
-
-|Secretário da Presidência |1 |5 |
-
-|Assessor da Presidência |4 |4 |
-
-|Agente Legislativo Especial |4 |3 |
+| DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- |
+| Diretor-Geral | 1 | 9 |
+| Procurador-Geral | 1 | 9 |
+| Controlador-Geral | 1 | 9 |
+| Superintendente de Comunicação Institucional | 1 | 9 |
+| Assessor Técnico Especializado | 1 | 9 |
+| Assessor Especialista em Segurança e Inteligência | 2 | 9 |
+| Superintendente de Segurança e Inteligência | 1 | 9 |
+| Chefe de Gabinete da Presidência | 1 | 8 |
+| Chefe do Cerimonial | 1 | 8 |
+| Assistente Técnico Especializado | 9 | 8 |
+| Coordenador | 1 | 8 |
+| Assistente Técnico | 7 | 7 |
+| Secretário Executivo | 3 | 7 |
+| Secretário da Presidência | 1 | 5 |
+| Assessor da Presidência | 4 | 4 |
+| Agente Legislativo Especial | 4 | 3 |
 
 Cargos de Recrutamento Limitado
 
-|DENOMINAÇÃO |VAGAS |
-
-|Diretor |3 |
-
-|Diretor-Adjunto |3 |
-
-|Diretor-Geral Adjunto |1 |
-
-|Procurador-Geral Adjunto |1 |
-
-|Auditor |1 |
-
-|Ouvidor Administrativo |1 |
-
-|Corregedor Administrativo |1 |
-
-|Gerente |3 |
-
-|Chefe de Divisão |15 |
-
-|Chefe de Seção |41 |
+| DENOMINAÇÃO | VAGAS |
+| --- | --- |
+| Diretor | 3 |
+| Diretor-Adjunto | 3 |
+| Diretor-Geral Adjunto | 1 |
+| Procurador-Geral Adjunto | 1 |
+| Auditor | 1 |
+| Ouvidor Administrativo | 1 |
+| Corregedor Administrativo | 1 |
+| Gerente | 3 |
+| Chefe de Divisão | 15 |
+| Chefe de Seção | 41 |
 
 ”.
 

@@ -36,9 +36,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|abril |Abril Azul - Conscientização sobre o autismo |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| abril | Abril Azul - Conscientização sobre o autismo |
 
 Belo Horizonte, 26 de maio de 2025.
 

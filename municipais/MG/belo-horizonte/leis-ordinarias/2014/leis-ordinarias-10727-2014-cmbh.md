@@ -28,39 +28,24 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 1º** - Ficam reajustados, a partir de 1º de janeiro de 2014, os vencimentos-base do cargo público de provimento efetivo de Auditor, previstos na Tabela do Plano de Carreira da Área de Atividades de Administração Geral da Prefeitura de Belo Horizonte, instituído pela Lei nº 8.690, de 19 de novembro de 2003, nos seguintes termos:
 
-|AUDITOR |
-
-|NÍVEL |JORNADA DE 6 HORAS |JORNADA DE 8 HORAS |
-
-|1 |3.840,00 |5.120,01 |
-
-|2 |4.032,00 |5.376,01 |
-
-|3 |4.233,60 |5.644,81 |
-
-|4 |4.445,28 |5.927,05 |
-
-|5 |4.667,54 |6.223,40 |
-
-|6 |4.900,92 |6.534,57 |
-
-|7 |5.145,97 |6.861,30 |
-
-|8 |5.403,27 |7.204,37 |
-
-|9 |5.673,43 |7.564,59 |
-
-|10 |5.957,10 |7.942,82 |
-
-|11 |6.254,96 |8.339,96 |
-
-|12 |6.567,70 |8.756,95 |
-
-|13 |6.896,09 |9.194,80 |
-
-|14 |7.240,89 |9.654,54 |
-
-|15 |7.602,94 |10.137,27 |
+| AUDITOR |  |  |
+| --- | --- | --- |
+| NÍVEL | JORNADA DE 6 HORAS | JORNADA DE 8 HORAS |
+| 1 | 3.840,00 | 5.120,01 |
+| 2 | 4.032,00 | 5.376,01 |
+| 3 | 4.233,60 | 5.644,81 |
+| 4 | 4.445,28 | 5.927,05 |
+| 5 | 4.667,54 | 6.223,40 |
+| 6 | 4.900,92 | 6.534,57 |
+| 7 | 5.145,97 | 6.861,30 |
+| 8 | 5.403,27 | 7.204,37 |
+| 9 | 5.673,43 | 7.564,59 |
+| 10 | 5.957,10 | 7.942,82 |
+| 11 | 6.254,96 | 8.339,96 |
+| 12 | 6.567,70 | 8.756,95 |
+| 13 | 6.896,09 | 9.194,80 |
+| 14 | 7.240,89 | 9.654,54 |
+| 15 | 7.602,94 | 10.137,27 |
 
 **Art. 2º** - Fica reajustado, a partir de 1º de janeiro de 2014, para R$0,96 (noventa e seis centavos de real) o valor unitário do ponto da Gratificação de Desempenho de Auditoria – GDA, instituída pela Lei nº 7.227, de 23 de dezembro de 1996.
 
@@ -218,277 +203,163 @@ II - para o cargo de Analista Fazendário, a GAEFT e a URAEFT serão calculadas 
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO POR ESFORÇO FISCAL TRIBUTÁRIO – GEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2014
 
-|Faixa de Arrecadação |Auditor Fiscal de Tributos Municipais e |
-
-| |Auditor Técnico de Tributos Municipais |
-
-| |Quantidade de UREFTs por Trimestre - 2014 |
-
-|A partir de 90% e abaixo de 92% |320,94 |
-
-|A partir de 92% e abaixo de 94% |348,46 |
-
-|A partir de 94% e abaixo de 96% |381,76 |
-
-|A partir de 96% e abaixo de 98% |422,05 |
-
-|A partir de 98% e abaixo de 99% |462,90 |
-
-|A partir de 99% e abaixo de 100% |486,44 |
-
-|A partir de 100% e abaixo de 101% |512,33 |
-
-|A partir de 101% e abaixo de 102% |538,22 |
-
-|A partir de 102% e abaixo de 103% |591,15 |
-
-|A partir de 103% e abaixo de 104% |649,37 |
-
-|A partir de 104% e abaixo de 105% |713,41 |
-
-|A partir de 105% e abaixo de 106% |783,86 |
-
-|A partir de 106% e abaixo de 107% |861,35 |
-
-|A partir de 107% e abaixo de 108% |946,60 |
-
-|A partir de 108% e abaixo de 109% |1.040,36 |
-
-|A partir de 109% e abaixo de 110% |1.143,51 |
-
-|A partir de 110% |1.256,96 |
+| Faixa de Arrecadação | Auditor Fiscal de Tributos Municipais e |
+| --- | --- |
+|  | Auditor Técnico de Tributos Municipais |
+|  | Quantidade de UREFTs por Trimestre - 2014 |
+| A partir de 90% e abaixo de 92% | 320,94 |
+| A partir de 92% e abaixo de 94% | 348,46 |
+| A partir de 94% e abaixo de 96% | 381,76 |
+| A partir de 96% e abaixo de 98% | 422,05 |
+| A partir de 98% e abaixo de 99% | 462,90 |
+| A partir de 99% e abaixo de 100% | 486,44 |
+| A partir de 100% e abaixo de 101% | 512,33 |
+| A partir de 101% e abaixo de 102% | 538,22 |
+| A partir de 102% e abaixo de 103% | 591,15 |
+| A partir de 103% e abaixo de 104% | 649,37 |
+| A partir de 104% e abaixo de 105% | 713,41 |
+| A partir de 105% e abaixo de 106% | 783,86 |
+| A partir de 106% e abaixo de 107% | 861,35 |
+| A partir de 107% e abaixo de 108% | 946,60 |
+| A partir de 108% e abaixo de 109% | 1.040,36 |
+| A partir de 109% e abaixo de 110% | 1.143,51 |
+| A partir de 110% | 1.256,96 |
 
 ANEXO II
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO POR ESFORÇO FISCAL TRIBUTÁRIO – GEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2015
 
-|Faixa de Arrecadação |Auditor Fiscal de Tributos Municipais e Auditor|
-
-| |Técnico de Tributos Municipais |
-
-| |Quantidade de UREFTs por Trimestre - 2015 |
-
-|A partir de 90% e abaixo de 92% |348,77 |
-
-|A partir de 92% e abaixo de 94% |378,67 |
-
-|A partir de 94% e abaixo de 96% |414,86 |
-
-|A partir de 96% e abaixo de 98% |458,64 |
-
-|A partir de 98% e abaixo de 99% |503,03 |
-
-|A partir de 99% e abaixo de 100% |528,61 |
-
-|A partir de 100% e abaixo de 101% |556,75 |
-
-|A partir de 101% e abaixo de 102% |584,88 |
-
-|A partir de 102% e abaixo de 103% |642,40 |
-
-|A partir de 103% e abaixo de 104% |705,67 |
-
-|A partir de 104% e abaixo de 105% |775,26 |
-
-|A partir de 105% e abaixo de 106% |851,82 |
-
-|A partir de 106% e abaixo de 107% |936,03 |
-
-|A partir de 107% e abaixo de 108% |1.028,67 |
-
-|A partir de 108% e abaixo de 109% |1.130,56 |
-
-|A partir de 109% e abaixo de 110% |1.242,65 |
-
-|A partir de 110% |1.365,94 |
+| Faixa de Arrecadação | Auditor Fiscal de Tributos Municipais e Auditor |
+| --- | --- |
+|  | Técnico de Tributos Municipais |
+|  | Quantidade de UREFTs por Trimestre - 2015 |
+| A partir de 90% e abaixo de 92% | 348,77 |
+| A partir de 92% e abaixo de 94% | 378,67 |
+| A partir de 94% e abaixo de 96% | 414,86 |
+| A partir de 96% e abaixo de 98% | 458,64 |
+| A partir de 98% e abaixo de 99% | 503,03 |
+| A partir de 99% e abaixo de 100% | 528,61 |
+| A partir de 100% e abaixo de 101% | 556,75 |
+| A partir de 101% e abaixo de 102% | 584,88 |
+| A partir de 102% e abaixo de 103% | 642,40 |
+| A partir de 103% e abaixo de 104% | 705,67 |
+| A partir de 104% e abaixo de 105% | 775,26 |
+| A partir de 105% e abaixo de 106% | 851,82 |
+| A partir de 106% e abaixo de 107% | 936,03 |
+| A partir de 107% e abaixo de 108% | 1.028,67 |
+| A partir de 108% e abaixo de 109% | 1.130,56 |
+| A partir de 109% e abaixo de 110% | 1.242,65 |
+| A partir de 110% | 1.365,94 |
 
 ANEXO III
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO POR ESFORÇO FISCAL TRIBUTÁRIO – GEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2016
 
-|Faixa de Arrecadação |Auditor Fiscal de Tributos Municipais e Auditor|
-
-| |Técnico de Tributos Municipais |
-
-| |Quantidade de UREFTs por Trimestre - 2016 |
-
-|A partir de 90% e abaixo de 92% |357,45 |
-
-|A partir de 92% e abaixo de 94% |388,10 |
-
-|A partir de 94% e abaixo de 96% |425,19 |
-
-|A partir de 96% e abaixo de 98% |470,06 |
-
-|A partir de 98% e abaixo de 99% |515,56 |
-
-|A partir de 99% e abaixo de 100% |541,78 |
-
-|A partir de 100% e abaixo de 101% |570,61 |
-
-|A partir de 101% e abaixo de 102% |599,45 |
-
-|A partir de 102% e abaixo de 103% |658,40 |
-
-|A partir de 103% e abaixo de 104% |723,24 |
-
-|A partir de 104% e abaixo de 105% |794,57 |
-
-|A partir de 105% e abaixo de 106% |873,03 |
-
-|A partir de 106% e abaixo de 107% |959,34 |
-
-|A partir de 107% e abaixo de 108% |1.054,28 |
-
-|A partir de 108% e abaixo de 109% |1.158,71 |
-
-|A partir de 109% e abaixo de 110% |1.273,59 |
-
-|A partir de 110% |1.399,95 |
+| Faixa de Arrecadação | Auditor Fiscal de Tributos Municipais e Auditor |
+| --- | --- |
+|  | Técnico de Tributos Municipais |
+|  | Quantidade de UREFTs por Trimestre - 2016 |
+| A partir de 90% e abaixo de 92% | 357,45 |
+| A partir de 92% e abaixo de 94% | 388,10 |
+| A partir de 94% e abaixo de 96% | 425,19 |
+| A partir de 96% e abaixo de 98% | 470,06 |
+| A partir de 98% e abaixo de 99% | 515,56 |
+| A partir de 99% e abaixo de 100% | 541,78 |
+| A partir de 100% e abaixo de 101% | 570,61 |
+| A partir de 101% e abaixo de 102% | 599,45 |
+| A partir de 102% e abaixo de 103% | 658,40 |
+| A partir de 103% e abaixo de 104% | 723,24 |
+| A partir de 104% e abaixo de 105% | 794,57 |
+| A partir de 105% e abaixo de 106% | 873,03 |
+| A partir de 106% e abaixo de 107% | 959,34 |
+| A partir de 107% e abaixo de 108% | 1.054,28 |
+| A partir de 108% e abaixo de 109% | 1.158,71 |
+| A partir de 109% e abaixo de 110% | 1.273,59 |
+| A partir de 110% | 1.399,95 |
 
 ANEXO IV
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO DE APOIO AO ESFORÇO FISCAL TRIBUTÁRIO – GAEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2014
 
-|Faixa de Arrecadação |Quantidade de URAEFTs por Trimestre - 2014 |
-
-| |Analista |Agente |Técnico |Tesoureiro 8 |
-
-| |Fazendário 8 |Fazendário 8 |Fazendário de |horas |
-
-| |horas |horas |Nível Médio | |
-
-| | | |8 horas | |
-
-|A partir de 90% e abaixo de 92% |160,47 |80,23 |80,23 |80,23 |
-
-|A partir de 92% e abaixo de 94% |174,23 |87,11 |87,11 |87,11 |
-
-|A partir de 94% e abaixo de 96% |190,88 |95,44 |95,44 |95,44 |
-
-|A partir de 96% e abaixo de 98% |211,03 |105,51 |105,51 |105,51 |
-
-|A partir de 98% e abaixo de 99% |231,45 |115,72 |115,72 |115,72 |
-
-|A partir de 99% e abaixo de 100% |243,22 |121,61 |121,61 |121,61 |
-
-|A partir de 100% e abaixo de 101%|256,17 |128,08 |128,08 |128,08 |
-
-|A partir de 101% e abaixo de 102%|269,11 |134,56 |134,56 |134,56 |
-
-|A partir de 102% e abaixo de 103%|295,58 |147,79 |147,79 |147,79 |
-
-|A partir de 103% e abaixo de 104%|324,69 |162,34 |162,34 |162,34 |
-
-|A partir de 104% e abaixo de 105%|356,71 |178,35 |178,35 |178,35 |
-
-|A partir de 105% e abaixo de 106%|391,93 |195,97 |195,97 |195,97 |
-
-|A partir de 106% e abaixo de 107%|430,68 |215,34 |215,34 |215,34 |
-
-|A partir de 107% e abaixo de 108%|473,30 |236,65 |236,65 |236,65 |
-
-|A partir de 108% e abaixo de 109%|520,18 |260,09 |260,09 |260,09 |
-
-|A partir de 109% e abaixo de 110%|571,76 |285,88 |285,88 |285,88 |
-
-|A partir de 110% |628,48 |314,24 |314,24 |314,24 |
+| Faixa de Arrecadação | Quantidade de URAEFTs por Trimestre - 2014 |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Analista | Agente | Técnico | Tesoureiro 8 |
+|  | Fazendário 8 | Fazendário 8 | Fazendário de | horas |
+|  | horas | horas | Nível Médio |  |
+|  |  |  | 8 horas |  |
+| A partir de 90% e abaixo de 92% | 160,47 | 80,23 | 80,23 | 80,23 |
+| A partir de 92% e abaixo de 94% | 174,23 | 87,11 | 87,11 | 87,11 |
+| A partir de 94% e abaixo de 96% | 190,88 | 95,44 | 95,44 | 95,44 |
+| A partir de 96% e abaixo de 98% | 211,03 | 105,51 | 105,51 | 105,51 |
+| A partir de 98% e abaixo de 99% | 231,45 | 115,72 | 115,72 | 115,72 |
+| A partir de 99% e abaixo de 100% | 243,22 | 121,61 | 121,61 | 121,61 |
+| A partir de 100% e abaixo de 101% | 256,17 | 128,08 | 128,08 | 128,08 |
+| A partir de 101% e abaixo de 102% | 269,11 | 134,56 | 134,56 | 134,56 |
+| A partir de 102% e abaixo de 103% | 295,58 | 147,79 | 147,79 | 147,79 |
+| A partir de 103% e abaixo de 104% | 324,69 | 162,34 | 162,34 | 162,34 |
+| A partir de 104% e abaixo de 105% | 356,71 | 178,35 | 178,35 | 178,35 |
+| A partir de 105% e abaixo de 106% | 391,93 | 195,97 | 195,97 | 195,97 |
+| A partir de 106% e abaixo de 107% | 430,68 | 215,34 | 215,34 | 215,34 |
+| A partir de 107% e abaixo de 108% | 473,30 | 236,65 | 236,65 | 236,65 |
+| A partir de 108% e abaixo de 109% | 520,18 | 260,09 | 260,09 | 260,09 |
+| A partir de 109% e abaixo de 110% | 571,76 | 285,88 | 285,88 | 285,88 |
+| A partir de 110% | 628,48 | 314,24 | 314,24 | 314,24 |
 
 ANEXO V
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO DE APOIO AO ESFORÇO FISCAL TRIBUTÁRIO – GAEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2015
 
-|Faixa de Arrecadação |Quantidade de URAEFTs por Trimestre - 2015 |
-
-| |Analista |Agente |Técnico |Tesoureiro 8 |
-
-| |Fazendário 8 |Fazendário 8 |Fazendário de |horas |
-
-| |horas |horas |Nível Médio | |
-
-| | | |8 horas | |
-
-|A partir de 90% e abaixo de 92% |174,38 |87,19 |87,19 |87,19 |
-
-|A partir de 92% e abaixo de 94% |189,33 |94,67 |94,67 |94,67 |
-
-|A partir de 94% e abaixo de 96% |207,43 |103,72 |103,72 |103,72 |
-
-|A partir de 96% e abaixo de 98% |229,32 |114,66 |114,66 |114,66 |
-
-|A partir de 98% e abaixo de 99% |251,51 |125,76 |125,76 |125,76 |
-
-|A partir de 99% e abaixo de 100% |264,30 |132,16 |132,16 |132,16 |
-
-|A partir de 100% e abaixo de 101%|278,37 |139,19 |139,19 |139,19 |
-
-|A partir de 101% e abaixo de 102%|292,44 |146,22 |146,22 |146,22 |
-
-|A partir de 102% e abaixo de 103%|321,20 |160,60 |160,60 |160,60 |
-
-|A partir de 103% e abaixo de 104%|352,84 |176,42 |176,42 |176,42 |
-
-|A partir de 104% e abaixo de 105%|387,63 |193,82 |193,82 |193,82 |
-
-|A partir de 105% e abaixo de 106%|425,91 |212,96 |212,96 |212,96 |
-
-|A partir de 106% e abaixo de 107%|468,01 |234,01 |234,01 |234,01 |
-
-|A partir de 107% e abaixo de 108%|514,34 |257,17 |257,17 |257,17 |
-
-|A partir de 108% e abaixo de 109%|565,28 |282,64 |282,64 |282,64 |
-
-|A partir de 109% e abaixo de 110%|621,33 |310,66 |310,66 |310,66 |
-
-|A partir de 110% |682,97 |341,48 |341,48 |341,48 |
+| Faixa de Arrecadação | Quantidade de URAEFTs por Trimestre - 2015 |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Analista | Agente | Técnico | Tesoureiro 8 |
+|  | Fazendário 8 | Fazendário 8 | Fazendário de | horas |
+|  | horas | horas | Nível Médio |  |
+|  |  |  | 8 horas |  |
+| A partir de 90% e abaixo de 92% | 174,38 | 87,19 | 87,19 | 87,19 |
+| A partir de 92% e abaixo de 94% | 189,33 | 94,67 | 94,67 | 94,67 |
+| A partir de 94% e abaixo de 96% | 207,43 | 103,72 | 103,72 | 103,72 |
+| A partir de 96% e abaixo de 98% | 229,32 | 114,66 | 114,66 | 114,66 |
+| A partir de 98% e abaixo de 99% | 251,51 | 125,76 | 125,76 | 125,76 |
+| A partir de 99% e abaixo de 100% | 264,30 | 132,16 | 132,16 | 132,16 |
+| A partir de 100% e abaixo de 101% | 278,37 | 139,19 | 139,19 | 139,19 |
+| A partir de 101% e abaixo de 102% | 292,44 | 146,22 | 146,22 | 146,22 |
+| A partir de 102% e abaixo de 103% | 321,20 | 160,60 | 160,60 | 160,60 |
+| A partir de 103% e abaixo de 104% | 352,84 | 176,42 | 176,42 | 176,42 |
+| A partir de 104% e abaixo de 105% | 387,63 | 193,82 | 193,82 | 193,82 |
+| A partir de 105% e abaixo de 106% | 425,91 | 212,96 | 212,96 | 212,96 |
+| A partir de 106% e abaixo de 107% | 468,01 | 234,01 | 234,01 | 234,01 |
+| A partir de 107% e abaixo de 108% | 514,34 | 257,17 | 257,17 | 257,17 |
+| A partir de 108% e abaixo de 109% | 565,28 | 282,64 | 282,64 | 282,64 |
+| A partir de 109% e abaixo de 110% | 621,33 | 310,66 | 310,66 | 310,66 |
+| A partir de 110% | 682,97 | 341,48 | 341,48 | 341,48 |
 
 ANEXO VI
 
 TABELA DE PAGAMENTO DA GRATIFICAÇÃO DE APOIO AO ESFORÇO FISCAL TRIBUTÁRIO – GAEFT, DEVIDA PELO ALCANCE DAS FAIXAS PERCENTUAIS DAS METAS TRIBUTÁRIAS, A PARTIR DE 1º DE JANEIRO DE 2016
 
-|Faixa de Arrecadação |Quantidade de URAEFTs por Trimestre - 2016 |
-
-| |Analista |Agente |Técnico |Tesoureiro 8 |
-
-| |Fazendário |Fazendário 8 |Fazendário de |horas |
-
-| |8 horas |horas |Nível Médio 8 | |
-
-| | | |horas | |
-
-|A partir de 90% e abaixo de 92% |178,73 |89,36 |89,36 |89,36 |
-
-|A partir de 92% e abaixo de 94% |194,05 |97,02 |97,02 |97,02 |
-
-|A partir de 94% e abaixo de 96% |212,60 |106,29 |106,29 |106,29 |
-
-|A partir de 96% e abaixo de 98% |235,03 |117,51 |117,51 |117,51 |
-
-|A partir de 98% e abaixo de 99% |257,78 |128,89 |128,89 |128,89 |
-
-|A partir de 99% e abaixo de 100% |270,89 |135,44 |135,44 |135,44 |
-
-|A partir de 100% e abaixo de 101%|285,31 |142,65 |142,65 |142,65 |
-
-|A partir de 101% e abaixo de 102%|299,72 |149,86 |149,86 |149,86 |
-
-|A partir de 102% e abaixo de 103%|329,20 |164,60 |164,60 |164,60 |
-
-|A partir de 103% e abaixo de 104%|361,62 |180,81 |180,81 |180,81 |
-
-|A partir de 104% e abaixo de 105%|397,28 |198,64 |198,64 |198,64 |
-
-|A partir de 105% e abaixo de 106%|436,52 |218,26 |218,26 |218,26 |
-
-|A partir de 106% e abaixo de 107%|479,67 |239,83 |239,83 |239,83 |
-
-|A partir de 107% e abaixo de 108%|527,14 |263,57 |263,57 |263,57 |
-
-|A partir de 108% e abaixo de 109%|579,36 |289,68 |289,68 |289,68 |
-
-|A partir de 109% e abaixo de 110%|636,80 |318,40 |318,40 |318,40 |
-
-|A partir de 110% |699,98 |349,99 |349,99 |349,99 |
+| Faixa de Arrecadação | Quantidade de URAEFTs por Trimestre - 2016 |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Analista | Agente | Técnico | Tesoureiro 8 |
+|  | Fazendário | Fazendário 8 | Fazendário de | horas |
+|  | 8 horas | horas | Nível Médio 8 |  |
+|  |  |  | horas |  |
+| A partir de 90% e abaixo de 92% | 178,73 | 89,36 | 89,36 | 89,36 |
+| A partir de 92% e abaixo de 94% | 194,05 | 97,02 | 97,02 | 97,02 |
+| A partir de 94% e abaixo de 96% | 212,60 | 106,29 | 106,29 | 106,29 |
+| A partir de 96% e abaixo de 98% | 235,03 | 117,51 | 117,51 | 117,51 |
+| A partir de 98% e abaixo de 99% | 257,78 | 128,89 | 128,89 | 128,89 |
+| A partir de 99% e abaixo de 100% | 270,89 | 135,44 | 135,44 | 135,44 |
+| A partir de 100% e abaixo de 101% | 285,31 | 142,65 | 142,65 | 142,65 |
+| A partir de 101% e abaixo de 102% | 299,72 | 149,86 | 149,86 | 149,86 |
+| A partir de 102% e abaixo de 103% | 329,20 | 164,60 | 164,60 | 164,60 |
+| A partir de 103% e abaixo de 104% | 361,62 | 180,81 | 180,81 | 180,81 |
+| A partir de 104% e abaixo de 105% | 397,28 | 198,64 | 198,64 | 198,64 |
+| A partir de 105% e abaixo de 106% | 436,52 | 218,26 | 218,26 | 218,26 |
+| A partir de 106% e abaixo de 107% | 479,67 | 239,83 | 239,83 | 239,83 |
+| A partir de 107% e abaixo de 108% | 527,14 | 263,57 | 263,57 | 263,57 |
+| A partir de 108% e abaixo de 109% | 579,36 | 289,68 | 289,68 | 289,68 |
+| A partir de 109% e abaixo de 110% | 636,80 | 318,40 | 318,40 | 318,40 |
+| A partir de 110% | 699,98 | 349,99 | 349,99 | 349,99 |
 
 **Art. 18** - O § 2º do art. 6º da Lei nº 10.202, de 9 de junho de 2011, passa a vigorar com a seguinte redação:
 
@@ -590,77 +461,47 @@ ANEXO I
 
 TABELA DE VENCIMENTOS-BASE DOS SERVIDORES PÚBLICOS EFETIVOS OCUPANTES DOS CARGOS DE AUDITOR TÉCNICO DE TRIBUTOS MUNICIPAIS E AUDITOR FISCAL DE TRIBUTOS MUNICIPAIS, INTEGRANTES DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO, INSTITUÍDO PELA LEI Nº 7.645/99, CUJOS OCUPANTES TENHAM EXERCIDO AS OPÇÕES PREVISTAS NO § 3º DO ART. 1º DA LEI Nº 8.577/03 E NO CAPUT DO ART. 4º DA LEI Nº 8.766/04, COM VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2014
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
-
-|NÍVEL |AUDITOR TÉCNICO DE TRIBUTOS MUNICIPAIS E AUDITOR FISCAL DE TRIBUTOS MUNICIPAIS |
-
-|1 |6.304,58 |
-
-|2 |6.619,81 |
-
-|3 |6.950,80 |
-
-|4 |7.298,34 |
-
-|5 |7.663,26 |
-
-|6 |8.046,42 |
-
-|7 |8.448,74 |
-
-|8 |8.871,18 |
-
-|9 |9.314,74 |
-
-|10 |9.780,47 |
-
-|11 |10.269,50 |
-
-|12 |10.782,97 |
-
-|13 |11.322,12 |
-
-|14 |11.888,23 |
-
-|15 |12.482,64 |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |  |
+| --- | --- |
+| NÍVEL | AUDITOR TÉCNICO DE TRIBUTOS MUNICIPAIS E AUDITOR FISCAL DE TRIBUTOS MUNICIPAIS |
+| 1 | 6.304,58 |
+| 2 | 6.619,81 |
+| 3 | 6.950,80 |
+| 4 | 7.298,34 |
+| 5 | 7.663,26 |
+| 6 | 8.046,42 |
+| 7 | 8.448,74 |
+| 8 | 8.871,18 |
+| 9 | 9.314,74 |
+| 10 | 9.780,47 |
+| 11 | 10.269,50 |
+| 12 | 10.782,97 |
+| 13 | 11.322,12 |
+| 14 | 11.888,23 |
+| 15 | 12.482,64 |
 
 ANEXO II
 
 TABELA DE VENCIMENTOS-BASE DOS SERVIDORES PÚBLICOS EFETIVOS OCUPANTES DOS CARGOS DE AUDITOR TÉCNICO DE TRIBUTOS MUNICIPAIS E AUDITOR FISCAL DE TRIBUTOS MUNICIPAIS, INTEGRANTES DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO, INSTITUÍDO PELA LEI Nº 7.645/99, CUJOS OCUPANTES TENHAM EXERCIDO AS OPÇÕES PREVISTAS NO § 3º DO ART. 1º DA LEI Nº 8.577/03 E NO CAPUT DO ART. 4º DA LEI Nº 8.766/04, COM VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2015
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
-
-|NÍVEL |AUDITOR TÉCNICO DE TRIBUTOS MUNICIPAIS E AUDITOR FISCAL DE TRIBUTOS MUNICIPAIS |
-
-|1 |6.874,37 |
-
-|2 |7.218,09 |
-
-|3 |7.578,99 |
-
-|4 |7.957,94 |
-
-|5 |8.355,84 |
-
-|6 |8.773,63 |
-
-|7 |9.212,31 |
-
-|8 |9.672,93 |
-
-|9 |10.156,58 |
-
-|10 |10.664,40 |
-
-|11 |11.197,62 |
-
-|12 |11.757,51 |
-
-|13 |12.345,38 |
-
-|14 |12.962,65 |
-
-|15 |13.610,78 |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |  |
+| --- | --- |
+| NÍVEL | AUDITOR TÉCNICO DE TRIBUTOS MUNICIPAIS E AUDITOR FISCAL DE TRIBUTOS MUNICIPAIS |
+| 1 | 6.874,37 |
+| 2 | 7.218,09 |
+| 3 | 7.578,99 |
+| 4 | 7.957,94 |
+| 5 | 8.355,84 |
+| 6 | 8.773,63 |
+| 7 | 9.212,31 |
+| 8 | 9.672,93 |
+| 9 | 10.156,58 |
+| 10 | 10.664,40 |
+| 11 | 11.197,62 |
+| 12 | 11.757,51 |
+| 13 | 12.345,38 |
+| 14 | 12.962,65 |
+| 15 | 13.610,78 |
 
 ANEXO III
 
@@ -668,39 +509,24 @@ ANEXO III
 
 2
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
-
-|NÍVEL |AUDITOR TÉCNICO DE TRIBUTOS MUNICIPAIS E AUDITOR FISCAL DE TRIBUTOS MUNICIPAIS |
-
-|1 |7.444,16 |
-
-|2 |7.816,37 |
-
-|3 |8.207,19 |
-
-|4 |8.617,55 |
-
-|5 |9.048,42 |
-
-|6 |9.500,84 |
-
-|7 |9.975,89 |
-
-|8 |10.474,68 |
-
-|9 |10.998,41 |
-
-|10 |11.548,34 |
-
-|11 |12.125,75 |
-
-|12 |12.732,04 |
-
-|13 |13.368,64 |
-
-|14 |14.037,07 |
-
-|15 |14.738,93 |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |  |
+| --- | --- |
+| NÍVEL | AUDITOR TÉCNICO DE TRIBUTOS MUNICIPAIS E AUDITOR FISCAL DE TRIBUTOS MUNICIPAIS |
+| 1 | 7.444,16 |
+| 2 | 7.816,37 |
+| 3 | 8.207,19 |
+| 4 | 8.617,55 |
+| 5 | 9.048,42 |
+| 6 | 9.500,84 |
+| 7 | 9.975,89 |
+| 8 | 10.474,68 |
+| 9 | 10.998,41 |
+| 10 | 11.548,34 |
+| 11 | 12.125,75 |
+| 12 | 12.732,04 |
+| 13 | 13.368,64 |
+| 14 | 14.037,07 |
+| 15 | 14.738,93 |
 
 ANEXO IV
 
@@ -708,270 +534,138 @@ TABELAS DE VENCIMENTOS-BASE DOS SERVIDORES PÚBLICOS EFETIVOS OCUPANTES DOS CARG
 
 3
 
-|A - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 8 horas diárias: |
-
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 8 horas diárias |
-
-|Nível |Tesoureiro |Agente Fazendário |Técnico Fazendário de |Analista Fazendário |
-
-| | | |Nível Médio | |
-
-|1 |1.823,59 |2.078,18 |2.078,18 |4.080,46 |
-
-|2 |1.914,77 |2.182,09 |2.182,09 |4.284,49 |
-
-|3 |2.010,51 |2.291,19 |2.291,19 |4.498,71 |
-
-|4 |2.111,03 |2.405,75 |2.405,75 |4.723,65 |
-
-|5 |2.216,58 |2.526,04 |2.526,04 |4.959,83 |
-
-|6 |2.327,41 |2.652,34 |2.652,34 |5.207,82 |
-
-|7 |2.443,78 |2.784,96 |2.784,96 |5.468,21 |
-
-|8 |2.565,97 |2.924,20 |2.924,20 |5.741,62 |
-
-|9 |2.694,27 |3.070,41 |3.070,41 |6.028,70 |
-
-|10 |2.828,98 |3.223,93 |3.223,93 |6.330,14 |
-
-|11 |2.970,43 |3.385,13 |3.385,13 |6.646,65 |
-
-|12 |3.118,95 |3.554,39 |3.554,39 |6.978,98 |
-
-|13 |3.274,90 |3.732,11 |3.732,11 |7.327,93 |
-
-|14 |3.438,65 |3.918,71 |3.918,71 |7.694,32 |
-
-|15 |3.610,58 |4.114,65 |4.114,65 |8.079,04 |
-
-| |
-
-|B - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 6 horas diárias: |
-
-| | | | | |
-
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 6 horas diárias |
-
-|Nível |Tesoureiro |Agente Fazendário |Técnico Fazendário de |Analista Fazendário |
-
-| | | |Nível Médio | |
-
-|1 |1.045,28 |1.191,22 |1.191,22 |2.391,56 |
-
-|2 |1.097,54 |1.250,78 |1.250,78 |2.511,14 |
-
-|3 |1.152,42 |1.313,31 |1.313,31 |2.636,70 |
-
-|4 |1.210,04 |1.378,98 |1.378,98 |2.768,53 |
-
-|5 |1.270,54 |1.447,93 |1.447,93 |2.906,96 |
-
-|6 |1.334,07 |1.520,33 |1.520,33 |3.052,30 |
-
-|7 |1.400,77 |1.596,34 |1.596,34 |3.204,92 |
-
-|8 |1.470,81 |1.676,16 |1.676,16 |3.365,17 |
-
-|9 |1.544,35 |1.759,97 |1.759,97 |3.533,42 |
-
-|10 |1.621,57 |1.847,97 |1.847,97 |3.710,10 |
-
-|11 |1.702,64 |1.940,36 |1.940,36 |3.895,60 |
-
-|12 |1.787,78 |2.037,38 |2.037,38 |4.090,38 |
-
-|13 |1.877,17 |2.139,25 |2.139,25 |4.294,90 |
-
-|14 |1.971,02 |2.246,21 |2.246,21 |4.509,64 |
-
-|15 |2.069,58 |2.358,52 |2.358,52 |4.735,13 |
-
-| | | | | |
-
-| |
-
-|ANEXO V |
-
-| |
-
-|TABELAS DE VENCIMENTOS-BASE DOS SERVIDORES PÚBLICOS EFETIVOS OCUPANTES DOS CARGOS DE TESOUREIRO, AGENTE FAZENDÁRIO, TÉCNICO |
-
-|FAZENDÁRIO DE NÍVEL MÉDIO E ANALISTA FAZENDÁRIO, INTEGRANTES DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO, INSTITUÍDO |
-
-|PELA LEI Nº 7.645/99, CUJOS OCUPANTES TENHAM EXERCIDO AS OPÇÕES PREVISTAS NO § 3º DO ART. 1º DA LEI Nº 8.577/03 E NO CAPUT DO ART.|
-
-|4º DA LEI Nº 8.766/04, COM VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2015 |
-
-|A - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 8 horas diárias: |
-
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 8 horas diárias |
-
-|Nível |Tesoureiro |Agente Fazendário |Técnico Fazendário de |Analista Fazendário |
-
-| | | |Nível Médio | |
-
-|1 |1.988,40 |2.266,00 |2.266,00 |4.449,25 |
-
-|2 |2.087,82 |2.379,30 |2.379,30 |4.671,71 |
-
-|3 |2.192,21 |2.498,26 |2.498,26 |4.905,29 |
-
-|4 |2.301,82 |2.623,17 |2.623,17 |5.150,56 |
-
-|5 |2.416,91 |2.754,33 |2.754,33 |5.408,09 |
-
-|6 |2.537,76 |2.892,05 |2.892,05 |5.678,49 |
-
-|7 |2.664,64 |3.036,65 |3.036,65 |5.962,41 |
-
-|8 |2.797,88 |3.188,48 |3.188,48 |6.260,53 |
-
-|9 |2.937,77 |3.347,91 |3.347,91 |6.573,56 |
-
-|10 |3.084,66 |3.515,30 |3.515,30 |6.902,24 |
-
-|11 |3.238,89 |3.691,07 |3.691,07 |7.247,35 |
-
-|12 |3.400,84 |3.875,62 |3.875,62 |7.609,72 |
-
-|13 |3.570,88 |4.069,40 |4.069,40 |7.990,20 |
-
-|14 |3.749,42 |4.272,87 |4.272,87 |8.389,72 |
-
-|15 |3.936,89 |4.486,52 |4.486,52 |8.809,20 |
-
-| |
-
-|B - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 6 horas diárias: |
-
-| | | | | |
-
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 6 horas diárias |
-
-|Nível |Tesoureiro |Agente Fazendário |Técnico Fazendário de |Analista Fazendário |
-
-| | | |Nível Médio | |
-
-|1 |1.139,75 |1.298,87 |1.298,87 |2.607,70 |
-
-|2 |1.196,73 |1.363,82 |1.363,82 |2.738,09 |
-
-|3 |1.256,57 |1.432,01 |1.432,01 |2.874,99 |
-
-|4 |1.319,40 |1.503,61 |1.503,61 |3.018,74 |
-
-|5 |1.385,37 |1.578,79 |1.578,79 |3.169,68 |
-
-|6 |1.454,64 |1.657,73 |1.657,73 |3.328,16 |
-
-|7 |1.527,37 |1.740,62 |1.740,62 |3.494,57 |
-
-|8 |1.603,74 |1.827,65 |1.827,65 |3.669,30 |
-
-|9 |1.683,92 |1.919,03 |1.919,03 |3.852,77 |
-
-|10 |1.768,12 |2.014,98 |2.014,98 |4.045,40 |
-
-|11 |1.856,52 |2.115,73 |2.115,73 |4.247,67 |
-
-|12 |1.949,35 |2.221,52 |2.221,52 |4.460,06 |
-
-|13 |2.046,82 |2.332,59 |2.332,59 |4.683,06 |
-
-|14 |2.149,16 |2.449,22 |2.449,22 |4.917,21 |
-
-|15 |2.256,62 |2.571,68 |2.571,68 |5.163,07 |
-
-| | | | | |
-
-|ANEXO VI |
-
-| |
-
-|TABELAS DE VENCIMENTOS-BASE DOS SERVIDORES PÚBLICOS EFETIVOS OCUPANTES DOS CARGOS DE TESOUREIRO, AGENTE FAZENDÁRIO, TÉCNICO |
-
-|FAZENDÁRIO DE NÍVEL MÉDIO E ANALISTA FAZENDÁRIO, INTEGRANTES DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO, INSTITUÍDO |
-
-|PELA LEI Nº 7.645/99, CUJOS OCUPANTES TENHAM EXERCIDO AS OPÇÕES PREVISTAS NO § 3º DO ART. 1º DA LEI Nº 8.577/03 E NO CAPUT DO ART.|
-
-|4º DA LEI Nº 8.766/04, COM VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2016 |
-
-|A - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 8 horas diárias: |
-
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 8 horas diárias |
-
-|Nível |Tesoureiro |Agente Fazendário |Técnico Fazendário de |Analista Fazendário |
-
-| | | |Nível Médio | |
-
-|1 |2.153,21 |2.453,82 |2.453,82 |4.818,03 |
-
-|2 |2.260,87 |2.576,51 |2.576,51 |5.058,93 |
-
-|3 |2.373,91 |2.705,33 |2.705,33 |5.311,87 |
-
-|4 |2.492,61 |2.840,60 |2.840,60 |5.577,47 |
-
-|5 |2.617,24 |2.982,63 |2.982,63 |5.856,34 |
-
-|6 |2.748,10 |3.131,76 |3.131,76 |6.149,16 |
-
-|7 |2.885,51 |3.288,35 |3.288,35 |6.456,62 |
-
-|8 |3.029,78 |3.452,77 |3.452,77 |6.779,45 |
-
-|9 |3.181,27 |3.625,40 |3.625,40 |7.118,42 |
-
-|10 |3.340,33 |3.806,67 |3.806,67 |7.474,34 |
-
-|11 |3.507,35 |3.997,01 |3.997,01 |7.848,06 |
-
-|12 |3.682,72 |4.196,86 |4.196,86 |8.240,46 |
-
-|13 |3.866,85 |4.406,70 |4.406,70 |8.652,48 |
-
-|14 |4.060,20 |4.627,04 |4.627,04 |9.085,11 |
-
-|15 |4.263,21 |4.858,39 |4.858,39 |9.539,36 |
-
-| |
-
-|B - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 6 horas diárias: |
-
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 6 horas diárias |
-
-|Nível |Tesoureiro |Agente Fazendário |Técnico Fazendário de |Analista Fazendário |
-
-| | | |Nível Médio | |
-
-|1 |1.234,21 |1.406,53 |1.406,53 |2.823,85 |
-
-|2 |1.295,92 |1.476,86 |1.476,86 |2.965,04 |
-
-|3 |1.360,72 |1.550,70 |1.550,70 |3.113,29 |
-
-|4 |1.428,76 |1.628,24 |1.628,24 |3.268,95 |
-
-|5 |1.500,20 |1.709,65 |1.709,65 |3.432,40 |
-
-|6 |1.575,20 |1.795,13 |1.795,13 |3.604,02 |
-
-|7 |1.653,97 |1.884,89 |1.884,89 |3.784,22 |
-
-|8 |1.736,66 |1.979,13 |1.979,13 |3.973,43 |
-
-|9 |1.823,50 |2.078,09 |2.078,09 |4.172,11 |
-
-|10 |1.914,67 |2.181,99 |2.181,99 |4.380,71 |
-
-|11 |2.010,40 |2.291,09 |2.291,09 |4.599,75 |
-
-|12 |2.110,93 |2.405,65 |2.405,65 |4.829,73 |
-
-|13 |2.216,47 |2.525,93 |2.525,93 |5.071,22 |
-
-|14 |2.327,29 |2.652,23 |2.652,23 |5.324,78 |
-
-|15 |2.443,66 |2.784,84 |2.784,84 |5.591,02 |
+| A - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 8 horas diárias: |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 8 horas diárias |  |  |  |  |
+| Nível | Tesoureiro | Agente Fazendário | Técnico Fazendário de | Analista Fazendário |
+|  |  |  | Nível Médio |  |
+| 1 | 1.823,59 | 2.078,18 | 2.078,18 | 4.080,46 |
+| 2 | 1.914,77 | 2.182,09 | 2.182,09 | 4.284,49 |
+| 3 | 2.010,51 | 2.291,19 | 2.291,19 | 4.498,71 |
+| 4 | 2.111,03 | 2.405,75 | 2.405,75 | 4.723,65 |
+| 5 | 2.216,58 | 2.526,04 | 2.526,04 | 4.959,83 |
+| 6 | 2.327,41 | 2.652,34 | 2.652,34 | 5.207,82 |
+| 7 | 2.443,78 | 2.784,96 | 2.784,96 | 5.468,21 |
+| 8 | 2.565,97 | 2.924,20 | 2.924,20 | 5.741,62 |
+| 9 | 2.694,27 | 3.070,41 | 3.070,41 | 6.028,70 |
+| 10 | 2.828,98 | 3.223,93 | 3.223,93 | 6.330,14 |
+| 11 | 2.970,43 | 3.385,13 | 3.385,13 | 6.646,65 |
+| 12 | 3.118,95 | 3.554,39 | 3.554,39 | 6.978,98 |
+| 13 | 3.274,90 | 3.732,11 | 3.732,11 | 7.327,93 |
+| 14 | 3.438,65 | 3.918,71 | 3.918,71 | 7.694,32 |
+| 15 | 3.610,58 | 4.114,65 | 4.114,65 | 8.079,04 |
+|  |  |  |  |  |
+| B - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 6 horas diárias: |  |  |  |  |
+|  |  |  |  |  |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 6 horas diárias |  |  |  |  |
+| Nível | Tesoureiro | Agente Fazendário | Técnico Fazendário de | Analista Fazendário |
+|  |  |  | Nível Médio |  |
+| 1 | 1.045,28 | 1.191,22 | 1.191,22 | 2.391,56 |
+| 2 | 1.097,54 | 1.250,78 | 1.250,78 | 2.511,14 |
+| 3 | 1.152,42 | 1.313,31 | 1.313,31 | 2.636,70 |
+| 4 | 1.210,04 | 1.378,98 | 1.378,98 | 2.768,53 |
+| 5 | 1.270,54 | 1.447,93 | 1.447,93 | 2.906,96 |
+| 6 | 1.334,07 | 1.520,33 | 1.520,33 | 3.052,30 |
+| 7 | 1.400,77 | 1.596,34 | 1.596,34 | 3.204,92 |
+| 8 | 1.470,81 | 1.676,16 | 1.676,16 | 3.365,17 |
+| 9 | 1.544,35 | 1.759,97 | 1.759,97 | 3.533,42 |
+| 10 | 1.621,57 | 1.847,97 | 1.847,97 | 3.710,10 |
+| 11 | 1.702,64 | 1.940,36 | 1.940,36 | 3.895,60 |
+| 12 | 1.787,78 | 2.037,38 | 2.037,38 | 4.090,38 |
+| 13 | 1.877,17 | 2.139,25 | 2.139,25 | 4.294,90 |
+| 14 | 1.971,02 | 2.246,21 | 2.246,21 | 4.509,64 |
+| 15 | 2.069,58 | 2.358,52 | 2.358,52 | 4.735,13 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| ANEXO V |  |  |  |  |
+|  |  |  |  |  |
+| TABELAS DE VENCIMENTOS-BASE DOS SERVIDORES PÚBLICOS EFETIVOS OCUPANTES DOS CARGOS DE TESOUREIRO, AGENTE FAZENDÁRIO, TÉCNICO |  |  |  |  |
+| FAZENDÁRIO DE NÍVEL MÉDIO E ANALISTA FAZENDÁRIO, INTEGRANTES DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO, INSTITUÍDO |  |  |  |  |
+| PELA LEI Nº 7.645/99, CUJOS OCUPANTES TENHAM EXERCIDO AS OPÇÕES PREVISTAS NO § 3º DO ART. 1º DA LEI Nº 8.577/03 E NO CAPUT DO ART. |  |  |  |  |
+| 4º DA LEI Nº 8.766/04, COM VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2015 |  |  |  |  |
+| A - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 8 horas diárias: |  |  |  |  |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 8 horas diárias |  |  |  |  |
+| Nível | Tesoureiro | Agente Fazendário | Técnico Fazendário de | Analista Fazendário |
+|  |  |  | Nível Médio |  |
+| 1 | 1.988,40 | 2.266,00 | 2.266,00 | 4.449,25 |
+| 2 | 2.087,82 | 2.379,30 | 2.379,30 | 4.671,71 |
+| 3 | 2.192,21 | 2.498,26 | 2.498,26 | 4.905,29 |
+| 4 | 2.301,82 | 2.623,17 | 2.623,17 | 5.150,56 |
+| 5 | 2.416,91 | 2.754,33 | 2.754,33 | 5.408,09 |
+| 6 | 2.537,76 | 2.892,05 | 2.892,05 | 5.678,49 |
+| 7 | 2.664,64 | 3.036,65 | 3.036,65 | 5.962,41 |
+| 8 | 2.797,88 | 3.188,48 | 3.188,48 | 6.260,53 |
+| 9 | 2.937,77 | 3.347,91 | 3.347,91 | 6.573,56 |
+| 10 | 3.084,66 | 3.515,30 | 3.515,30 | 6.902,24 |
+| 11 | 3.238,89 | 3.691,07 | 3.691,07 | 7.247,35 |
+| 12 | 3.400,84 | 3.875,62 | 3.875,62 | 7.609,72 |
+| 13 | 3.570,88 | 4.069,40 | 4.069,40 | 7.990,20 |
+| 14 | 3.749,42 | 4.272,87 | 4.272,87 | 8.389,72 |
+| 15 | 3.936,89 | 4.486,52 | 4.486,52 | 8.809,20 |
+|  |  |  |  |  |
+| B - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 6 horas diárias: |  |  |  |  |
+|  |  |  |  |  |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 6 horas diárias |  |  |  |  |
+| Nível | Tesoureiro | Agente Fazendário | Técnico Fazendário de | Analista Fazendário |
+|  |  |  | Nível Médio |  |
+| 1 | 1.139,75 | 1.298,87 | 1.298,87 | 2.607,70 |
+| 2 | 1.196,73 | 1.363,82 | 1.363,82 | 2.738,09 |
+| 3 | 1.256,57 | 1.432,01 | 1.432,01 | 2.874,99 |
+| 4 | 1.319,40 | 1.503,61 | 1.503,61 | 3.018,74 |
+| 5 | 1.385,37 | 1.578,79 | 1.578,79 | 3.169,68 |
+| 6 | 1.454,64 | 1.657,73 | 1.657,73 | 3.328,16 |
+| 7 | 1.527,37 | 1.740,62 | 1.740,62 | 3.494,57 |
+| 8 | 1.603,74 | 1.827,65 | 1.827,65 | 3.669,30 |
+| 9 | 1.683,92 | 1.919,03 | 1.919,03 | 3.852,77 |
+| 10 | 1.768,12 | 2.014,98 | 2.014,98 | 4.045,40 |
+| 11 | 1.856,52 | 2.115,73 | 2.115,73 | 4.247,67 |
+| 12 | 1.949,35 | 2.221,52 | 2.221,52 | 4.460,06 |
+| 13 | 2.046,82 | 2.332,59 | 2.332,59 | 4.683,06 |
+| 14 | 2.149,16 | 2.449,22 | 2.449,22 | 4.917,21 |
+| 15 | 2.256,62 | 2.571,68 | 2.571,68 | 5.163,07 |
+|  |  |  |  |  |
+| ANEXO VI |  |  |  |  |
+|  |  |  |  |  |
+| TABELAS DE VENCIMENTOS-BASE DOS SERVIDORES PÚBLICOS EFETIVOS OCUPANTES DOS CARGOS DE TESOUREIRO, AGENTE FAZENDÁRIO, TÉCNICO |  |  |  |  |
+| FAZENDÁRIO DE NÍVEL MÉDIO E ANALISTA FAZENDÁRIO, INTEGRANTES DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO, INSTITUÍDO |  |  |  |  |
+| PELA LEI Nº 7.645/99, CUJOS OCUPANTES TENHAM EXERCIDO AS OPÇÕES PREVISTAS NO § 3º DO ART. 1º DA LEI Nº 8.577/03 E NO CAPUT DO ART. |  |  |  |  |
+| 4º DA LEI Nº 8.766/04, COM VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2016 |  |  |  |  |
+| A - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 8 horas diárias: |  |  |  |  |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 8 horas diárias |  |  |  |  |
+| Nível | Tesoureiro | Agente Fazendário | Técnico Fazendário de | Analista Fazendário |
+|  |  |  | Nível Médio |  |
+| 1 | 2.153,21 | 2.453,82 | 2.453,82 | 4.818,03 |
+| 2 | 2.260,87 | 2.576,51 | 2.576,51 | 5.058,93 |
+| 3 | 2.373,91 | 2.705,33 | 2.705,33 | 5.311,87 |
+| 4 | 2.492,61 | 2.840,60 | 2.840,60 | 5.577,47 |
+| 5 | 2.617,24 | 2.982,63 | 2.982,63 | 5.856,34 |
+| 6 | 2.748,10 | 3.131,76 | 3.131,76 | 6.149,16 |
+| 7 | 2.885,51 | 3.288,35 | 3.288,35 | 6.456,62 |
+| 8 | 3.029,78 | 3.452,77 | 3.452,77 | 6.779,45 |
+| 9 | 3.181,27 | 3.625,40 | 3.625,40 | 7.118,42 |
+| 10 | 3.340,33 | 3.806,67 | 3.806,67 | 7.474,34 |
+| 11 | 3.507,35 | 3.997,01 | 3.997,01 | 7.848,06 |
+| 12 | 3.682,72 | 4.196,86 | 4.196,86 | 8.240,46 |
+| 13 | 3.866,85 | 4.406,70 | 4.406,70 | 8.652,48 |
+| 14 | 4.060,20 | 4.627,04 | 4.627,04 | 9.085,11 |
+| 15 | 4.263,21 | 4.858,39 | 4.858,39 | 9.539,36 |
+|  |  |  |  |  |
+| B - Tabela de vencimentos-base dos seguintes servidores públicos, em cumprimento da jornada de 6 horas diárias: |  |  |  |  |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) / jornada de 6 horas diárias |  |  |  |  |
+| Nível | Tesoureiro | Agente Fazendário | Técnico Fazendário de | Analista Fazendário |
+|  |  |  | Nível Médio |  |
+| 1 | 1.234,21 | 1.406,53 | 1.406,53 | 2.823,85 |
+| 2 | 1.295,92 | 1.476,86 | 1.476,86 | 2.965,04 |
+| 3 | 1.360,72 | 1.550,70 | 1.550,70 | 3.113,29 |
+| 4 | 1.428,76 | 1.628,24 | 1.628,24 | 3.268,95 |
+| 5 | 1.500,20 | 1.709,65 | 1.709,65 | 3.432,40 |
+| 6 | 1.575,20 | 1.795,13 | 1.795,13 | 3.604,02 |
+| 7 | 1.653,97 | 1.884,89 | 1.884,89 | 3.784,22 |
+| 8 | 1.736,66 | 1.979,13 | 1.979,13 | 3.973,43 |
+| 9 | 1.823,50 | 2.078,09 | 2.078,09 | 4.172,11 |
+| 10 | 1.914,67 | 2.181,99 | 2.181,99 | 4.380,71 |
+| 11 | 2.010,40 | 2.291,09 | 2.291,09 | 4.599,75 |
+| 12 | 2.110,93 | 2.405,65 | 2.405,65 | 4.829,73 |
+| 13 | 2.216,47 | 2.525,93 | 2.525,93 | 5.071,22 |
+| 14 | 2.327,29 | 2.652,23 | 2.652,23 | 5.324,78 |
+| 15 | 2.443,66 | 2.784,84 | 2.784,84 | 5.591,02 |

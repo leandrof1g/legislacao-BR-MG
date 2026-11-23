@@ -86,37 +86,23 @@ Subseção II Da Secretaria Municipal Adjunta de Lazer
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS E FUNÇÕES ANTERIORES
 
-|CARGO OU FUNÇÃO PÚBLICA PREVISTOS NA LEGISLAÇÃO ANTERIOR |CARGO OU FUNÇÃO PÚBLICA PREVISTOS NESTA LEI |QUANTIDADE DE VAGAS |
-
-|Secretário Municipal |Secretário Municipal |13 |
-
-|(...) |(...) |(...) |
-
-|Secretário Municipal Adjunto |Secretário Municipal Adjunto |24 |
-
-|(...) |(...) |(...) |
-
-|Chefe de Gabinete |Chefe de Gabinete |26 |
-
-|Gerente de 1º Nível |Gerente de 1º Nível - C |255 |
-
-|Gerente de 2º Nível |Gerente de 2º Nível |522 |
-
-|Gerente de 3º Nível |Gerente de 3º Nível |328 |
-
-|Gerente de 4º Nível |Gerente de 4º Nível |50 |
-
-|(...) |(...) |(...) |
-
-|VETADO |
-
-|Assessor III |Assessor III - A |6 |
-
-|Assessor III |Assessor III - B |4 |
-
-|VETADO |
-
-|(...) |(...) |(...) |
+| CARGO OU FUNÇÃO PÚBLICA PREVISTOS NA LEGISLAÇÃO ANTERIOR | CARGO OU FUNÇÃO PÚBLICA PREVISTOS NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| Secretário Municipal | Secretário Municipal | 13 |
+| (...) | (...) | (...) |
+| Secretário Municipal Adjunto | Secretário Municipal Adjunto | 24 |
+| (...) | (...) | (...) |
+| Chefe de Gabinete | Chefe de Gabinete | 26 |
+| Gerente de 1º Nível | Gerente de 1º Nível - C | 255 |
+| Gerente de 2º Nível | Gerente de 2º Nível | 522 |
+| Gerente de 3º Nível | Gerente de 3º Nível | 328 |
+| Gerente de 4º Nível | Gerente de 4º Nível | 50 |
+| (...) | (...) | (...) |
+| VETADO |  |  |
+| Assessor III | Assessor III - A | 6 |
+| Assessor III | Assessor III - B | 4 |
+| VETADO |  |  |
+| (...) | (...) | (...) |
 
 ” (NR)
 

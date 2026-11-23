@@ -472,13 +472,11 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER E
 
 (...)
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|- |Assessor de Inspecção Judicial |4 |
-
-|- |Assessor de Contas e Perícia |6 |
-
-| |Judicial | |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| - | Assessor de Inspecção Judicial | 4 |
+| - | Assessor de Contas e Perícia | 6 |
+|  | Judicial |  |
 
 **Art. 15** - Ficam criadas as Gerências de Inspecção Judicial e de Contas e Perícia Judicial, ambas de 1º nível, destinadas ao suporte das atividades das Assessorias de Inspecção Judicial e de Contas e Perícia Judicial, respectivamente, e uma Gerência de 2º nível para atuação na área fiscal, a ser alocada em decreto.
 
@@ -488,11 +486,10 @@ Gerência de Inspecção Judicial extinta pela Lei nº 10.878, de 25/11/2015 (ar
 
 "ANEXO I QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES (...)
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|Gerente de 1º nível |Gerente de 1º nível |02 |
-
-|Gerente de 2º nível |Gerente de 2º nível |01 |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| Gerente de 1º nível | Gerente de 1º nível | 02 |
+| Gerente de 2º nível | Gerente de 2º nível | 01 |
 
 **§ 2º** - Além do disposto no parágrafo anterior, ficam criados os seguintes cargos públicos comissionados, passando o Anexo I da Lei n° 9.011/05 a vigorar acrescido dos mesmos:
 
@@ -502,15 +499,12 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER E
 
 (...)
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|Gerente de 1º nível |Gerente de 1º nível |06 |
-
-|Gerente de 2º nível |Gerente de 2º nível |06 |
-
-|Gerente de 3º nível |Gerente de 3º nível |06 |
-
-|Gerente de 4º nível |Gerente de 4º nível |06 |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| Gerente de 1º nível | Gerente de 1º nível | 06 |
+| Gerente de 2º nível | Gerente de 2º nível | 06 |
+| Gerente de 3º nível | Gerente de 3º nível | 06 |
+| Gerente de 4º nível | Gerente de 4º nível | 06 |
 
 **Art. 16** - Fica instituído o Fundo da Procuradoria-Geral do Município que tem por objetivo o investimento no aperfeiçoamento e melhoria da estrutura operacional e das condições materiais do órgão e o aprimoramento profissional do Procurador do Município, com autonomia administrativa e financeira nos limites da legislação em vigor e nos termos do regulamento desta Lei.
 
@@ -576,25 +570,25 @@ Prefeito de Belo Horizonte
 
 ANEXO I QUANTITATIVO DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES JURÍDICAS DA PREFEITURA DE BELO HORIZONTE
 
-|CARGO PÚBLICO EFETIVO |QUANTITATIVO |
-
-|Procurador Municipal |80 (oitenta) |
+| CARGO PÚBLICO EFETIVO | QUANTITATIVO |
+| --- | --- |
+| Procurador Municipal | 80 (oitenta) |
 
 ANEXO I
 
 QUANTITATIVO DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES JURÍDICAS DA PREFEITURA DE BELO HORIZONTE
 
-|CARGO PÚBLICO EFETIVO |QUANTITATIVO |
-
-|Procurador Municipal |84 (oitenta e quatro) |
+| CARGO PÚBLICO EFETIVO | QUANTITATIVO |
+| --- | --- |
+| Procurador Municipal | 84 (oitenta e quatro) |
 
 Anexo I com redação dada pela Lei nº 9.418, de 27/7/2007 (Art. 3º)
 
 ANEXO II QUANTITATIVO DOS CARGOS DE PROVIMENTO EFETIVO DE ASSISTENTE DE PROCURADORIA
 
-|CARGO PÚBLICO EFETIVO |QUANTITATIVO |
-
-|Assistente de Procuradoria |100 (cem ) |
+| CARGO PÚBLICO EFETIVO | QUANTITATIVO |
+| --- | --- |
+| Assistente de Procuradoria | 100 (cem ) |
 
 ANEXO III CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES JURÍDICAS DA PREFEITURA DE BELO HORIZONTE
 
@@ -698,44 +692,30 @@ ANEXO V
 
 TABELA DE VENCIMENTOS-BASE DOS CARGOS DE PROVIMENTO EFETIVOS DA ÁREA DE ATIVIDADES JURÍDICAS DA PREFEITURA DE BELO HORIZONTE E DO CARGO DE PROVIMENTO EFETIVO DE ASSISTENTE DE PROCURADORIA
 
-|Níveis de Vencimento |Assistente de Procuradoria (em |Procurador Municipal (em R$) |
-
-| |R$) | |
-
-|1 |550,00 |4.650,00 |
-
-|2 |577,50 |4.882,50 |
-
-|3 |606,38 |5.126,63 |
-
-|4 |636,69 |5.382,96 |
-
-|5 |668,53 |5.652,10 |
-
-|6 |701,95 |5.934,71 |
-
-|7 |737,05 |6.231,44 |
-
-|8 |773,91 |6.543,02 |
-
-|9 |812,60 |6.870,17 |
-
-|10 |853,23 |7.213,68 |
-
-|11 |895,89 |7.574,36 |
-
-|12 |940,69 |7.953,08 |
-
-|13 |987,72 |8.350,73 |
-
-|14 |1.037,11 |8.768,27 |
-
-|15 |1.088,96 |9.206,68 |
+| Níveis de Vencimento | Assistente de Procuradoria (em | Procurador Municipal (em R$) |
+| --- | --- | --- |
+|  | R$) |  |
+| 1 | 550,00 | 4.650,00 |
+| 2 | 577,50 | 4.882,50 |
+| 3 | 606,38 | 5.126,63 |
+| 4 | 636,69 | 5.382,96 |
+| 5 | 668,53 | 5.652,10 |
+| 6 | 701,95 | 5.934,71 |
+| 7 | 737,05 | 6.231,44 |
+| 8 | 773,91 | 6.543,02 |
+| 9 | 812,60 | 6.870,17 |
+| 10 | 853,23 | 7.213,68 |
+| 11 | 895,89 | 7.574,36 |
+| 12 | 940,69 | 7.953,08 |
+| 13 | 987,72 | 8.350,73 |
+| 14 | 1.037,11 | 8.768,27 |
+| 15 | 1.088,96 | 9.206,68 |
 
 ANEXO V
 
 TABELA DE VENCIMENTOS-BASE DOS CARGOS DE PROVIMENTO EFETIVO DE PROCURADOR MUNICIPAL DA ÁREA DE ATIVIDADES JURÍDICAS DA PREFEITURA DE BELO HORIZONTE
 
-|CARGO |NÍVEL |
+| CARGO | NÍVEL |
+| --- | --- |
 
 |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 | |PROCURADOR MUNICIPAL |14.772,52 |15.511,15 |16.286,70 |17.101,04 |17.956,09 |18.853,89 |19.796,59 |20.786,42 |21.825,74 |22.917,03 |24.062,88 |25.266,02 |26.529,32 |27.855,79 |29.248,58 |30.711,01 | |Anexo V com redação dada pela Lei nº 11.914, de 30/10/2025 (Art. 29 com vigência no art. 124)

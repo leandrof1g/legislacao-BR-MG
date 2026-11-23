@@ -28,63 +28,39 @@ O Interventor Federal no Estado de Minas Gerais, no uso de suas atribuições le
 
 **Art. 1º** - A Receita do Município de Belo Horizonte, para o exercício de 1946 é orçada em sessenta e três milhões, oitocentos e cinqüenta e dois mil cruzeiros (Cr$63.852,00), de acordo com a seguinte especificação e quadros anexos:
 
-|I - RECEITA ORDINÁRIA | | |
-
-| a) RECEITA TRIBUTÁRIA | | |
-
-| |Cr$ |Cr$ |
-
-|Impostos ............................................... |32.335.100,00 | |
-
-|Taxas .................................................... |6.731.000,00 |39.066.000,00 |
-
-| | | |
-
-| b) RECEITA PATRIMONIAL ....................... | |1.858.000,00 |
-
-| c) RECEITA INDUSTRIAL .......................... | |6.424.000,00 |
-
-| d) RECEITAS DIVERSAS ........................... | |1.680.000,00 |
-
-| | |49.028.000,00 |
-
-| | | |
-
-|II - RECEITA EXTRAORDINÁRIA ..................... | |14.824.000,00 |
-
-| | | |
-
-|TOTAL GERAL DA RECEITA .............. | |63.852.000,00 |
-
-| | | |
+| I - RECEITA ORDINÁRIA |  |  |
+| --- | --- | --- |
+| a) RECEITA TRIBUTÁRIA |  |  |
+|  | Cr$ | Cr$ |
+| Impostos ............................................... | 32.335.100,00 |  |
+| Taxas .................................................... | 6.731.000,00 | 39.066.000,00 |
+|  |  |  |
+| b) RECEITA PATRIMONIAL ....................... |  | 1.858.000,00 |
+| c) RECEITA INDUSTRIAL .......................... |  | 6.424.000,00 |
+| d) RECEITAS DIVERSAS ........................... |  | 1.680.000,00 |
+|  |  | 49.028.000,00 |
+|  |  |  |
+| II - RECEITA EXTRAORDINÁRIA ..................... |  | 14.824.000,00 |
+|  |  |  |
+| TOTAL GERAL DA RECEITA .............. |  | 63.852.000,00 |
+|  |  |  |
 
 **Art. 2º** - A Despesa do Município de Belo Horizonte para o exercício de 1946 é fixada em sessenta e três milhões, oitocentos e cinqüenta e dois mil cruzeiros (Cr$63.852.000,00) distribuída pelos órgãos administrativos municipais abaixo referidos e discriminada em anexos:
 
-| | |
-
-| |Cr$ |
-
-|1 – Governo |88.068,00 |
-
-|2 – Secretaria |2.021.337,30 |
-
-|3 – Serviço de Fazenda |2.222.332,00 |
-
-|4 – Serviço de Obras |18.153.889,00 |
-
-|5 – Serviço de Patrimônio |4.345.791,20 |
-
-|6 – Serviço de Educação e Saúde |3.734.733,60 |
-
-|7 – Serviços Diversos |4.483.409,00 |
-
-|8 – Dívida Pública |23.306.209,00 |
-
-|9 – Encargos Diversos |5.495.690,90 |
-
-| | |
-
-|TOTAL GERAL DA DESPESA |63.852.000,00 |
+|  |  |
+| --- | --- |
+|  | Cr$ |
+| 1 – Governo | 88.068,00 |
+| 2 – Secretaria | 2.021.337,30 |
+| 3 – Serviço de Fazenda | 2.222.332,00 |
+| 4 – Serviço de Obras | 18.153.889,00 |
+| 5 – Serviço de Patrimônio | 4.345.791,20 |
+| 6 – Serviço de Educação e Saúde | 3.734.733,60 |
+| 7 – Serviços Diversos | 4.483.409,00 |
+| 8 – Dívida Pública | 23.306.209,00 |
+| 9 – Encargos Diversos | 5.495.690,90 |
+|  |  |
+| TOTAL GERAL DA DESPESA | 63.852.000,00 |
 
 **Art. 3º** - Fazem parte integrante do presente Decreto-lei os anexos que o acompanham, especificando a Receita e discriminando a Despesa, com indicação da respectiva legislação.
 
@@ -168,8 +144,5 @@ RECEITA DO CEMITÉRIO: Dec. nº 63, de 18-12-935.
 
 COBRANÇA DA DÍVIDA ATIVA: Dec. nº 115, de 18-1-936
 
-[pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic][pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic] [pic]
-
-[pic]

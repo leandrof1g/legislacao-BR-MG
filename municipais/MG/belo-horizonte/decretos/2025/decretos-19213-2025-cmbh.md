@@ -58,33 +58,24 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § 3º |R$ |
-
-|do art. 19 da Lei nº 11.742, de 13 de setembro de 2024, e no art. 1º da Lei nº 11.875, | |
-
-|de 14 de julho de 2025: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0302.1334.449052.1.500.000 |88.247,48 |
-
-|2100.06.122.0302.1334.449040.1.500.000 |11.265,52 |
-
-|TOTAL DA SUPLEMENTAÇÃO |99.513,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § 3º | R$ |
+| --- | --- |
+| do art. 19 da Lei nº 11.742, de 13 de setembro de 2024, e no art. 1º da Lei nº 11.875, |  |
+| de 14 de julho de 2025: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0302.1334.449052.1.500.000 | 88.247,48 |
+| 2100.06.122.0302.1334.449040.1.500.000 | 11.265,52 |
+| TOTAL DA SUPLEMENTAÇÃO | 99.513,00 |
 
 I.2 – Anulação da seguinte dotação orçamentária a que se refere o art. 2º.
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente no órgão relacionado abaixo, conforme | |
-
-|autorização contida no art. 2º da Lei nº 11.875, de 14 de julho de 2025: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0302.1334.339039.1.500.000 |99.513,00 |
-
-|TOTAL DA ANULAÇÃO |99.513,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente no órgão relacionado abaixo, conforme |  |
+| autorização contida no art. 2º da Lei nº 11.875, de 14 de julho de 2025: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0302.1334.339039.1.500.000 | 99.513,00 |
+| TOTAL DA ANULAÇÃO | 99.513,00 |
 
 ANEXO II
 
@@ -108,20 +99,13 @@ SALDO ATUAL DE CRÉDITO SUPLEMENTAR
 
 III.1 – Demonstração do saldo de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 1º da Lei nº 11.875, de 14 de julho de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |
-
-|Art. 1º da Lei nº 11.875, de 14/07/2025 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 11.680.000,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.287.750,00 |
-
-|Valor do Decreto publicado nesta data |R$ 99.513,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.387.263,00 |
-
-|Saldo atual de créditos suplementares |R$ 10.292.737,00 |
-
-|Percentual utilizado |11,88% |
-
-|Atualizado em 30/07/2025 às 14:38:43 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.875, de 14/07/2025 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 11.680.000,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.287.750,00 |
+| Valor do Decreto publicado nesta data | R$ 99.513,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.387.263,00 |
+| Saldo atual de créditos suplementares | R$ 10.292.737,00 |
+| Percentual utilizado | 11,88% |
+| Atualizado em 30/07/2025 às 14:38:43 |  |

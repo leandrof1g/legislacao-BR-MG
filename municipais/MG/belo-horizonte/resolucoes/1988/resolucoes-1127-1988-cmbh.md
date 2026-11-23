@@ -142,4 +142,5 @@ José Geraldo de Oliveira Filho
 
 1º Secretário
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

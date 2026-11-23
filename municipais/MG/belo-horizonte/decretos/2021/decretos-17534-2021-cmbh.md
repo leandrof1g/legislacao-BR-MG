@@ -114,12 +114,11 @@ Recursos Ordinários do Tesouro
 
 Valores em R$1,00
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
 (a se refere o art. 11 do Decreto nº 17.534, de 27 de janeiro de 2021)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]

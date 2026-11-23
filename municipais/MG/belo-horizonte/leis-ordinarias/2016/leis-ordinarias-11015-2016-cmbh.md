@@ -42,15 +42,15 @@ Programa: 239 - Rede BH Cultural
 
 Ação: 2371 - Fomento e Estímulo à Cultura
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |200.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 200.000,00 |
 
 Subação: 21 - Criação do Cadastro Único de Cultura
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |50 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 50 |
 
 Produto: Ação realizada
 
@@ -68,9 +68,9 @@ Ação: 2900 - Serviços Administrativos e Financeiros
 
 Unidade orçamentária: 2000 - SECRETARIA MUNICIPAL DE GOVERNO
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |100.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 100.000,00 |
 
 Área de resultado: 9 - Cidade Sustentável
 
@@ -80,9 +80,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |100.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 100.000,00 |
 
 2) ACRÉSCIMO:
 
@@ -92,15 +92,15 @@ Programa: 228 - Coleta, Destinação e Tratamento de Resíduos Sólidos
 
 Ação: 2537 - Tratamento e Destinação de Resíduos Sólidos
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 Subação: 16 - Cobertura dos Serviços de Coleta Seletiva
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |14 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 14 |
 
 Produto: Bairro atendido
 
@@ -118,9 +118,9 @@ Ação: 2855 - Coordenação da Fiscalização Municipal
 
 Unidade orçamentária: 2902 - SECRETARIA MUNICIPAL ADJUNTA DE FISCALIZAÇÃO
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |250.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 250.000,00 |
 
 Área de resultado: 9 - Cidade Sustentável
 
@@ -130,9 +130,9 @@ Ação: 2890 - Serviços de Fiscalização Urbana
 
 Unidade orçamentária: 2902 - SECRETARIA MUNICIPAL ADJUNTA DE FISCALIZAÇÃO
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |250.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 250.000,00 |
 
 3) ACRÉSCIMO:
 
@@ -142,15 +142,15 @@ Programa: 113 - Gestão da Política de Assistência Social
 
 Ação: 2348 - Gestão, Comunicação e Mobilização Social
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |450.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 450.000,00 |
 
 Subação: 1 - Gestão do Trabalho
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |0 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: Pessoa capacitada
 
@@ -168,9 +168,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |450.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 450.000,00 |
 
 4) ACRÉSCIMO:
 
@@ -180,15 +180,15 @@ Programa: 113 - Gestão da Política de Assistência Social
 
 Ação: 2334 - Gestão Compartilhada e Participação Social
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |200.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 200.000,00 |
 
 Subação: 28 - Ampliação da participação popular nas Comissões Locais de Assistência Social - CLAS
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |0 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: Participantes
 
@@ -206,9 +206,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |200.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 200.000,00 |
 
 5) ACRÉSCIMO:
 
@@ -218,15 +218,15 @@ Programa: 113 - Gestão da Política de Assistência Social
 
 Ação: 2804 - Gestão dos Equipamentos e Promoção Social
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |90.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 90.000,00 |
 
 Subação: 1 - Gestão dos Equipamentos e Promoção Social
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |0 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: Serviços Administrativos
 
@@ -244,9 +244,9 @@ Ação: 2802 - Articulação da Política de Segurança Urbana
 
 Unidade orçamentária: 2100 - SECRETARIA MUNICIPAL DE SEGURANÇA URBANA E PATRIMONIAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |90.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 90.000,00 |
 
 6) ACRÉSCIMO:
 
@@ -256,15 +256,15 @@ Programa: 30 - Atendimento Ambulatorial, Emergencial e Hospitalar
 
 Ação: 2616 - Gestão da Assistência Hospitalar e Ambulatorial
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |120.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 120.000,00 |
 
 Subação: 1 - Assistência Hospitalar e Ambulatorial
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |60 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 60 |
 
 Produto: Atendimento realizado
 
@@ -282,9 +282,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |120.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 120.000,00 |
 
 7) ACRÉSCIMO:
 
@@ -294,15 +294,15 @@ Programa: 19 - Proteção Social Básica
 
 Ação: 2405 - Serviços, Benefícios e Transferência de Renda
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |1.500.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.500.000,00 |
 
 Subação: 3 - Inserção, Acompanhamento das Famílias Beneficiárias dos Programas de Transferência de Renda
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |0 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
 
 Produto: Serviços Administrativos
 
@@ -320,9 +320,9 @@ Ação: 2602 - Gerenciamento, Implantação e Atendimento de Serviços na RMI
 
 Unidade orçamentária: 0604 - EMPRESA DE INFORMÁTICA E INFORMAÇÃO DO MUNICÍPIO DE BELO HORIZONTE
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |1.000.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.000.000,00 |
 
 Área de resultado: 6 - Modernidade
 
@@ -332,9 +332,9 @@ Ação: 2603 - Implantação de Soluções e Modernização de Sistemas
 
 Unidade orçamentária: 0604 - EMPRESA DE INFORMÁTICA E INFORMAÇÃO DO MUNICÍPIO DE BELO HORIZONTE
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 8) ACRÉSCIMO:
 
@@ -344,15 +344,15 @@ Programa: 241 - Recomeço
 
 Ação: 2873 - Apoio às Ações de Políticas sobre Drogas
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |100.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 100.000,00 |
 
 Subação: 6 - Política de prevenção da gravidez em situação de drogatição
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |10 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 10 |
 
 Produto: mulher atendida
 
@@ -370,9 +370,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FINANÇAS
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |100.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 100.000,00 |
 
 9) ACRÉSCIMO:
 
@@ -382,15 +382,15 @@ Programa: 241 - Recomeço
 
 Ação: 2891 - Rede Própria de Cuidados Especializados Complementares à Saúde – Ambulatorial
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |200.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 200.000,00 |
 
 Subação: 0003 - Implantação do CERSAM AD Adulto
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |1 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 1 |
 
 Produto: Equipamento Implantado
 
@@ -408,9 +408,9 @@ Ação: 2007 - Serviços de Divulgação Institucional do Município
 
 Unidade orçamentária: 0300 - ASSESSORIA DE COMUNICAÇÃO SOCIAL DO MUNICÍPIO
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |200.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 200.000,00 |
 
 10) ACRÉSCIMO:
 
@@ -420,15 +420,15 @@ Programa: 60 - Gestão da Mobilidade Urbana
 
 Ação: 2837 - Gerenciamento da Mobilidade Urbana Municipal
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |6.248.340,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 6.248.340,00 |
 
 Subação: Implantação de sinais de pedeste acessíveis, com sonorização, para garantia da acessibilidade às pessoas com deficiência visual e mobilidade reduzida no Município de Belo Horizonte
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |100 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 100 |
 
 Produto: Sistema de sinalização de pedeste acessível, com sonorização, implantado
 
@@ -446,9 +446,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |3.000.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 3.000.000,00 |
 
 Área de resultado: 9 - Cidade Sustentável
 
@@ -458,9 +458,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |2.500.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 2.500.000,00 |
 
 Área de resultado: 6 - Modernidade
 
@@ -470,9 +470,9 @@ Ação: 2052 - Administração Tributária Municipal
 
 Unidade orçamentária: 0801 - SECRETARIA MUNICIPAL ADJUNTA DE ARRECADAÇÕES
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |748.340,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 748.340,00 |
 
 11) ACRÉSCIMO:
 
@@ -482,15 +482,15 @@ Programa: 239 - Rede BH Cultural
 
 Ação: 1339 - Requalificação dos Espaços e Serviços da Cultura
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 Subação: Reforma e revitalização do Mercado de Santa Tereza
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |100 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 100 |
 
 Produto: Equipamento público implantado
 
@@ -508,9 +508,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 12)
 
@@ -522,15 +522,15 @@ Programa: 239 - Rede BH Cultural
 
 Ação: 2371 - Fomento e Estímulo à Cultura
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |60.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 60.000,00 |
 
 Subação: Promoção da Mostra de Arte, Cultura e Agroecologia do Mercado de Santa Tereza
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |12 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 12 |
 
 Produto: Evento realizado
 
@@ -548,9 +548,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |60.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 60.000,00 |
 
 13) ACRÉSCIMO:
 
@@ -560,15 +560,15 @@ Programa: 127 - Promoção e Defesa de Direitos Humanos e Cidadania
 
 Ação: 2334 - Gestão Compartilhada e Participação Social
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |30.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 30.000,00 |
 
 Subação: 3 - Realização de Conferências
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |1 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 1 |
 
 Produto: Evento realizado
 
@@ -586,9 +586,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FINANÇAS
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |30.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 30.000,00 |
 
 14) ACRÉSCIMO:
 
@@ -598,15 +598,15 @@ Programa: 19 - Proteção Social Básica
 
 Ação: 2405 - Serviços, Benefícios e Transferência de Renda
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |50.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 50.000,00 |
 
 Subação: Programa de Assistência Alimentar
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |500 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 500 |
 
 Produto: Famílias atendidas
 
@@ -624,9 +624,9 @@ Ação: 2853 - Fomento ao Desenvolvimento Econômico
 
 Unidade orçamentária: 2801 - SECRETARIA MUNICIPAL ADJUNTA DE DESENVOLVIMENTO ECONÔMICO
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |50.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 50.000,00 |
 
 15) ACRÉSCIMO:
 
@@ -636,15 +636,15 @@ Programa: 235 - Programa de Atendimento ao Idoso
 
 Ação: 2700 - Operação e Manutenção da Educação
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |900.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 900.000,00 |
 
 Subação: 17 - Implantação do Programa específico de alfabetização das pessoas idosas
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |34 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 34 |
 
 Produto: Programa implantado
 
@@ -662,9 +662,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |900.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 900.000,00 |
 
 16) ACRÉSCIMO:
 
@@ -674,15 +674,15 @@ Programa: 20 - Proteção Social Especial
 
 Ação: 2409 - Centros de Referência
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |600.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 600.000,00 |
 
 Subação: 6 - Implantação do Centro Dia para a Pessoa Idosa, seus familiares e seus cuidadores
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |8 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 8 |
 
 Produto: Obra executada
 
@@ -700,9 +700,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |600.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 600.000,00 |
 
 17) ACRÉSCIMO:
 
@@ -712,15 +712,15 @@ Programa: 101 - Promoção e Democratização das Práticas de Esportes e Lazer
 
 Ação: 2534 - Implantação, Manutenção e Recuperação de Equipamentos Esportivos e Áreas de Lazer
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |1.400.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.400.000,00 |
 
 Subação: 1 - Manutenção, Conservação, Pequenas Reformas e Custeio de Equipamentos Esportivos
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |34 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 34 |
 
 Produto: Equipamento Público Mantido
 
@@ -738,9 +738,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |1.400.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.400.000,00 |
 
 18) ACRÉSCIMO:
 
@@ -750,15 +750,15 @@ Programa: 221 - BH Digital
 
 Ação: 1373 - Gestão do Plano Diretor de Informática
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 Subação: 5 - Internet Banda Larga Disponibilizada em Áreas de Vilas e Favelas
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |34 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 34 |
 
 Produto: Vilas e Favelas com áreas de Internet disponibilizada
 
@@ -776,9 +776,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 19) ACRÉSCIMO:
 
@@ -788,15 +788,15 @@ Programa: 113 - Gestão da Política de Assistência Social
 
 Ação: 2348 - Gestão, Comunicação e Mobilização Social
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |200.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 200.000,00 |
 
 Subação: 6 - Capacitação de Profissionais de Entidades Socioassistenciais
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |194 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 194 |
 
 Produto: Pessoa capacitada
 
@@ -814,9 +814,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |200.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 200.000,00 |
 
 20) ACRÉSCIMO:
 
@@ -826,15 +826,15 @@ Programa: 239 - Rede BH Cultural
 
 Ação: 1339 - Requalificação dos Espaços e Serviços da Cultura
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |300.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 300.000,00 |
 
 Subação: Requalificação dos Centros Culturais
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |3 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 3 |
 
 Produto: Centro Cultural Requalificado
 
@@ -852,9 +852,9 @@ Ação: 2900 - Serviços Administrativos e Financeiros
 
 Unidade orçamentária: 2000 - SECRETARIA MUNICIPAL DE GOVERNO
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |180.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 180.000,00 |
 
 Área de resultado: 6 - Modernidade
 
@@ -864,9 +864,9 @@ Ação: 2004 - Direção Superior da Política Municipal
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |100.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 100.000,00 |
 
 Área de resultado: 6 - Modernidade
 
@@ -876,9 +876,9 @@ Ação: 2553 - Assistência Militar ao Executivo Municipal
 
 Unidade orçamentária: 0204 - ASSESSORIA POLICIAL-MILITAR
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |20.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 20.000,00 |
 
 21) ACRÉSCIMO:
 
@@ -888,17 +888,16 @@ Programa: 20 - Proteção Social Especial
 
 Ação: 2403 - Serviço de Proteção Social Especial de Alta Complexidade
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |1.800.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.800.000,00 |
 
 Subação: 3 - Acolhimento Institucional para Criança e Adolescente
 
-| |2015 |2016 |2017 |
-
-|2014 | | | |
-
-|0 |0 |0 |60 |
+|  | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 2014 |  |  |  |
+| 0 | 0 | 0 | 60 |
 
 Produto: Vaga disponibilizada
 
@@ -916,9 +915,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |1.800.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.800.000,00 |
 
 22) ACRÉSCIMO:
 
@@ -928,15 +927,15 @@ Programa: 205 - Expansão da Educação Infantil
 
 Ação: 1211 - Construção, Ampliação e Reforma de Unidades de Ensino
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |3.000.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 3.000.000,00 |
 
 Subação: 1 - Construção, Ampliação e Reforma de Unidades de Ensino
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |9 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 9 |
 
 Produto: UMEI / Escola Infantil reformada/implantada
 
@@ -954,9 +953,9 @@ Ação: 1203 - Drenagem e Tratamento de Fundos de Vale
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |3.000.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 3.000.000,00 |
 
 23) ACRÉSCIMO:
 
@@ -966,15 +965,15 @@ Programa: 113 - Gestão da Política de Assistência Social
 
 Ação: 2804 - Gestão dos Equipamentos e Promoção Social
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |1.000.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.000.000,00 |
 
 Subação: Unidade de Banheiro Móvel
 
-| 2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |3 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 3 |
 
 Produto: Banheiro Móvel
 
@@ -992,9 +991,9 @@ Ação: 1203 - Drenagem e Tratamento de Fundos de Vale
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |1.000.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.000.000,00 |
 
 24) ACRÉSCIMO:
 
@@ -1004,15 +1003,15 @@ Programa: 241 - Recomeço
 
 Ação: 2891 - Rede Própria de Cuidados Especializados Complementares à Saúde – Ambulatorial
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |1.500.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.500.000,00 |
 
 Subação: Implantação de novos CERSAMs - AD para Adolescentes
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |2 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 2 |
 
 Produto: unidade implantada
 
@@ -1030,9 +1029,9 @@ Ação: 2035 - Controle das Operações de Iluminação Pública
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 Área de resultado: 9 - Cidade Sustentável
 
@@ -1042,9 +1041,9 @@ Ação: 1208 - Conservação de Vias Urbanas
 
 Unidade orçamentária: 2702 - SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA CAPITAL
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |1.000.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.000.000,00 |
 
 25) ACRÉSCIMO:
 
@@ -1054,15 +1053,15 @@ Programa: 236 - Direito de Todos
 
 Ação: 2345 - Atendimento e Orientação Psicossocial e Jurídico
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |70.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 70.000,00 |
 
 Subação: 7 - Atendimento psicossocial e jurídico à mulher em situação de violência de gênero – Benvinda
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |60 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 60 |
 
 Produto: Atendimento realizado
 
@@ -1080,9 +1079,9 @@ Ação: 9999 - Reserva de Contingência
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FINANÇAS
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |70.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 70.000,00 |
 
 26) ACRÉSCIMO:
 
@@ -1092,15 +1091,15 @@ Programa: 206 - Expansão da Escola Integrada
 
 Ação: 2702 - Gestão do Programa Escola Integrada
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |10.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 10.000,00 |
 
 Subação: 2 - Atendimento do Programa Escola Integrada
 
-|2014 |2015 |2016 |2017 |
-
-|0 |0 |0 |100 |
+| 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 100 |
 
 Produto: vaga ofertada
 
@@ -1118,9 +1117,9 @@ Ação: 2007 - Serviços de Divulgação Institucional do Município
 
 Unidade orçamentária: 0300 - ASSESSORIA DE COMUNICAÇÃO SOCIAL DO MUNICÍPIO
 
-| |2014 |2015 |2016 |2017 |
-
-|R$ |0,00 |0,00 |0,00 |10.000,00 |
+|  | 2014 | 2015 | 2016 | 2017 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 10.000,00 |
 
 **Art. 4º** - Esta lei entra em vigor na data de sua publicação.
 

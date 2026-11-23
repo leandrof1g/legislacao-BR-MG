@@ -202,23 +202,20 @@ CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA
 
 PREFEITURA DE BELO HORIZONTE
 
-|Cargos |Números de cargos |
-
-|Analista de Políticas Públicas |1.079 |
+| Cargos | Números de cargos |
+| --- | --- |
+| Analista de Políticas Públicas | 1.079 |
 
 “. (NR)
 
 **Art. 18** - As linhas do Anexo III da Lei nº 9.011, de 1º de janeiro de 2005, referentes aos cargos públicos de provimento efetivo de Técnico de Nível Superior e de Engenheiro da Fundação de Parques Municipais, passam a vigorar com a seguinte redação:
 
-|“NOME DO CARGO |NÚMERO DE VAGAS |
-
-|Técnico de Nível Superior |23 |
-
-|(...) |(...) |
-
-|Engenheiro |10 |
-
-|(...) |(...) |
+| “NOME DO CARGO | NÚMERO DE VAGAS |
+| --- | --- |
+| Técnico de Nível Superior | 23 |
+| (...) | (...) |
+| Engenheiro | 10 |
+| (...) | (...) |
 
 ” (NR)
 
@@ -226,13 +223,11 @@ PREFEITURA DE BELO HORIZONTE
 
 “
 
-|NOME DO CARGO |NÚMERO DE VAGAS |
-
-|Técnico de Nível Superior |124 |
-
-|(...) |(...) |
-
-|Engenheiro |2 |
+| NOME DO CARGO | NÚMERO DE VAGAS |
+| --- | --- |
+| Técnico de Nível Superior | 124 |
+| (...) | (...) |
+| Engenheiro | 2 |
 
 ” (NR)
 

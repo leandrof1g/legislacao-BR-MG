@@ -38,9 +38,9 @@ DIA COMEMORATIVO
 
 G - Dias comemorativos de julho:
 
-|DATA |COMEMORAÇÃO |
-
-|11/07 |Dia Municipal do Motociclista |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 11/07 | Dia Municipal do Motociclista |
 
 **Art. 3º** - Fica acrescentado ao Capítulo III - Das Semanas Comemorativas - da Lei nº 11.397/22, o seguinte art. 96-AA:
 
@@ -56,11 +56,10 @@ SEMANA COMEMORATIVA
 
 G - Semanas comemorativas de julho:
 
-|DATA |COMEMORAÇÃO |
-
-|semana que contenha o |Semana da Conscientização sobre o Respeito às Leis de Trânsito e a |
-
-|dia 11/07 |Pilotagem Segura e a Convivência Harmônica no Trânsito |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| semana que contenha o | Semana da Conscientização sobre o Respeito às Leis de Trânsito e a |
+| dia 11/07 | Pilotagem Segura e a Convivência Harmônica no Trânsito |
 
 .”.
 

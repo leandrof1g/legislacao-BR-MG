@@ -48,56 +48,31 @@ ANEXO
 
 IV.21 – Hospital Metropolitano Odilon Behrens – HOB:
 
-| HOB |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |19 |HOBE.DAM1.L.001 a HOBE.DAM1.L.019 |
-
-| |AMPLO |0 |- |
-
-|DAM-2 |LIMITADO |1 |HOBE.DAM2.L.001 |
-
-| |AMPLO |3 |HOBE.DAM2.A.001 a HOBE.DAM2.A.003 |
-
-|DAM-3 |LIMITADO |1 |HOBE.DAM3.L.001 |
-
-| |AMPLO |2 |HOBE.DAM3.A.001 a HOBE.DAM3.A.002 |
-
-|DAM-4 |LIMITADO |7 |HOBE.DAM4.L.001 a HOBE.DAM4.L.007 |
-
-| |AMPLO |7 |HOBE.DAM4.A.001 a HOBE.DAM4.A.007 |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |2 |HOBE.DAM5.A.001 a HOBE.DAM5.A.002 |
-
-|DAM-6 |LIMITADO |12 |HOBE.DAM6.L.001 a HOBE.DAM6.L.012 |
-
-| |AMPLO |6 |HOBE.DAM6.A.001 a HOBE.DAM6.A.006 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |60 |- |
+| HOB |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 19 | HOBE.DAM1.L.001 a HOBE.DAM1.L.019 |
+|  | AMPLO | 0 | - |
+| DAM-2 | LIMITADO | 1 | HOBE.DAM2.L.001 |
+|  | AMPLO | 3 | HOBE.DAM2.A.001 a HOBE.DAM2.A.003 |
+| DAM-3 | LIMITADO | 1 | HOBE.DAM3.L.001 |
+|  | AMPLO | 2 | HOBE.DAM3.A.001 a HOBE.DAM3.A.002 |
+| DAM-4 | LIMITADO | 7 | HOBE.DAM4.L.001 a HOBE.DAM4.L.007 |
+|  | AMPLO | 7 | HOBE.DAM4.A.001 a HOBE.DAM4.A.007 |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 2 | HOBE.DAM5.A.001 a HOBE.DAM5.A.002 |
+| DAM-6 | LIMITADO | 12 | HOBE.DAM6.L.001 a HOBE.DAM6.L.012 |
+|  | AMPLO | 6 | HOBE.DAM6.A.001 a HOBE.DAM6.A.006 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 60 | - |  |

@@ -30,19 +30,14 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 "I.2 - Recrutamento Amplo - Gabinete Parlamentar
 
-|CÓDIGO |DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|CMPC10 |Chefe de Gabinete Parlamentar |conf. art. 150 |8 |
-
-|CMPC11 |Atendente Parlamentar |conf. art. 150 |4 |
-
-|CMPC12 |Auxiliar Legislativo |conf. art. 150 |1 |
-
-|CMPC13 |Assessor Parlamentar |conf. art. 149 |conf. art. 148 |
-
-|CMPC14 |Assistente Parlamentar |conf. art. 149 |conf. art. 148 |
-
-| |(NR)". |
+| CÓDIGO | DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- | --- |
+| CMPC10 | Chefe de Gabinete Parlamentar | conf. art. 150 | 8 |
+| CMPC11 | Atendente Parlamentar | conf. art. 150 | 4 |
+| CMPC12 | Auxiliar Legislativo | conf. art. 150 | 1 |
+| CMPC13 | Assessor Parlamentar | conf. art. 149 | conf. art. 148 |
+| CMPC14 | Assistente Parlamentar | conf. art. 149 | conf. art. 148 |
+|  | (NR)". |  |  |
 
 **Art. 2º** - O ato de nomeação para as 4 (quatro) vagas dos cargos de Chefe de Gabinete Parlamentar, Atendente Parlamentar e Auxiliar Legislativo, criadas em conseqüência da regra do artigo anterior, poderá ser assinado até 10 (dez) dias após a publicação desta Lei e publicado no Diário Oficial do Município - DOM -, nos 5 (cinco) dias úteis seguintes.
 

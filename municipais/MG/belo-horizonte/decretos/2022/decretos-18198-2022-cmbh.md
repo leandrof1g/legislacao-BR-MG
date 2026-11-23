@@ -58,37 +58,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Crédito adicional especial suplementando as seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor da Superintendência de Mobilidade do Município de Belo Horizonte – |R$ |
-
-|SUMOB, conforme autorização contida no art. 28 da Lei nº 11.319, de 22 de outubro de| |
-
-|2021, e dispositivos do Decreto nº 17.845, de 14 de janeiro de 2022: | |
-
-|3302.26.452.060.2.567.3190.0007 |30.000,00 |
-
-|3302.26.452.060.2.567.3390.0007 |70.000,00 |
-
-|3302.26.452.060.2.567.4490.0007 |800.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |900.000,00 |
+| I.1.1 – A favor da Superintendência de Mobilidade do Município de Belo Horizonte – | R$ |
+| --- | --- |
+| SUMOB, conforme autorização contida no art. 28 da Lei nº 11.319, de 22 de outubro de |  |
+| 2021, e dispositivos do Decreto nº 17.845, de 14 de janeiro de 2022: |  |
+| 3302.26.452.060.2.567.3190.0007 | 30.000,00 |
+| 3302.26.452.060.2.567.3390.0007 | 70.000,00 |
+| 3302.26.452.060.2.567.4490.0007 | 800.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 900.000,00 |
 
 I.2 – Anulação parcial de crédito adicional especial autorizado pela Lei nº 11.319, de 22 de outubro de 2021, nos termos do inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1 da tabela |R$ |
-
-|anterior, anulação de recursos orçamentários anteriormente previstos no seguinte | |
-
-|órgão: | |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|2709.26.452.060.2.567.3190.0007 |30.000,00 |
-
-|2709.26.452.060.2.567.3390.0007 |70.000,00 |
-
-|2709.26.452.060.2.567.4490.0007 |800.000,00 |
-
-|TOTAL DA ANULAÇÃO |900.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1 da tabela | R$ |
+| --- | --- |
+| anterior, anulação de recursos orçamentários anteriormente previstos no seguinte |  |
+| órgão: |  |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 2709.26.452.060.2.567.3190.0007 | 30.000,00 |
+| 2709.26.452.060.2.567.3390.0007 | 70.000,00 |
+| 2709.26.452.060.2.567.4490.0007 | 800.000,00 |
+| TOTAL DA ANULAÇÃO | 900.000,00 |
 
 ANEXO II
 
@@ -112,18 +101,12 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 28 da Lei nº 11.319, de 22 de outubro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITO ESPECIAL AUTORIZADO |
-
-|Art. 28 da Lei nº 11.319, de 22/10/2021 – Crédito Especial – Superintendência de Mobilidade do |
-
-|Município de Belo Horizonte – SUMOB |
-
-|Limite total autorizado |R$ 105.000.000,00 |
-
-|Valor do crédito especial aberto no exercício |R$ 98.450.012,00 |
-
-|Saldo de crédito especial |R$ 6.549.988,00 |
-
-|Percentual utilizado |93,76% |
-
-|Atualizado em 15/12/2022 às 17:55:10 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITO ESPECIAL AUTORIZADO |  |
+| --- | --- |
+| Art. 28 da Lei nº 11.319, de 22/10/2021 – Crédito Especial – Superintendência de Mobilidade do |  |
+| Município de Belo Horizonte – SUMOB |  |
+| Limite total autorizado | R$ 105.000.000,00 |
+| Valor do crédito especial aberto no exercício | R$ 98.450.012,00 |
+| Saldo de crédito especial | R$ 6.549.988,00 |
+| Percentual utilizado | 93,76% |
+| Atualizado em 15/12/2022 às 17:55:10 |  |

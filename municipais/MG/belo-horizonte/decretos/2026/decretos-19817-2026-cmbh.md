@@ -176,14 +176,15 @@ ANEXO
 
 A – (a que se refere o § 1º do art. 8º)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Hora normal = o total de horas e frações de minutos efetivamente trabalhados, apurado a partir dos registros de frequência.
 
 B – (a que se refere o § 2º do art. 8º)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 C – (a que se refere o art. 13)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

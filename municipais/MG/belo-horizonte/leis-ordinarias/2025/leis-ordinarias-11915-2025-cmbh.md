@@ -32,9 +32,9 @@ O Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|outubro |Outubro Violeta - Conscientização sobre o Respeito ao Idoso |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| outubro | Outubro Violeta - Conscientização sobre o Respeito ao Idoso |
 
 .”.
 
@@ -44,9 +44,9 @@ MÊS COMEMORATIVO
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|junho |Junho Violeta - Combate à violência contra a pessoa idosa |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| junho | Junho Violeta - Combate à violência contra a pessoa idosa |
 
 ".
 

@@ -52,103 +52,56 @@ ANEXO I
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Fase de controle – permanecem abertos |
-
-|Atividades autorizadas a funcionar nos termos do Decreto nº 17.328, de 8 de abril de 2020, e do |
-
-|Decreto nº 17.332, de 16 de abril de 2020. |
-
-| |
-
-|Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH. |
-
-|Atividade |Faixa de horário de funcionamento |
-
-|Padarias e lanchonetes (vedado o consumo no local) |5h às 22h |
-
-|Comércio varejista de laticínios e frios |7h às 21h |
-
-|Açougue e peixaria |7h às 21h |
-
-|Hortifrutigranjeiros |7h às 21h |
-
-|Minimercados, mercearias e armazéns |7h às 21h |
-
-|Supermercados e hipermercados |7h às 22h |
-
-|Artigos farmacêuticos |Sem restrição de horário |
-
-|Artigos farmacêuticos, com manipulação de fórmula |Sem restrição de horário |
-
-|Comércio varejista de artigos de óptica |Sem restrição de horário |
-
-|Artigos médicos e ortopédicos |Sem restrição de horário |
-
-|Tintas, solventes e materiais para pintura |7h às 21h |
-
-|Material elétrico e hidráulico, vidros e ferragens |7h às 21h |
-
-|Madeireira |7h às 21h |
-
-|Material de construção em geral |7h às 21h |
-
-|Combustíveis para veículos automotores |Sem restrição de horário |
-
-|Peças e acessórios para veículos automotores |8h às 17h |
-
-|Comércio varejista de gás liquefeito de petróleo |Sem restrição de horário |
-
-|(GLP) | |
-
-|Comércio atacadista da cadeia de atividades do |5h às 17h |
-
-|comércio varejista da fase de controle | |
-
-|Agências bancárias: instituições de crédito, seguro,|Sem restrição de horário |
-
-|capitalização, comércio e administração de valores | |
-
-|imobiliários | |
-
-|Casas lotéricas |Sem restrição de horário |
-
-|Agência de correio e telégrafo |Sem restrição de horário |
-
-|Comércio de medicamentos, artigos e alimentos para |Sem restrição de horário |
-
-|animais de estimação | |
-
-|Atividades de serviços e serviços de uso coletivo, |Sem restrição de horário |
-
-|exceto os especificados no art. 2º do Decreto nº | |
-
-|17.328, de 8 de abril de 2020 | |
-
-|Atividades industriais |Sem restrição de horário |
-
-|Banca de jornal e revista |Sem restrição de horário |
-
-|Serviços de alimentação, apenas para entrega em |Sem restrição de horário |
-
-|domicílio e retirada no local de alimentos prontos e| |
-
-|embalados para consumo fora do estabelecimento, nos | |
-
-|termos do art. 3º do Decreto nº 17.328, de 2020 | |
-
-|Restaurantes, lanchonetes, bares e estabelecimentos |Sem restrição de horário |
-
-|congêneres no interior de hotéis, pousadas e | |
-
-|similares, para atendimento exclusivo aos hóspedes, | |
-
-|nos termos do art. 4º do Decreto nº 17.328, de 2020 | |
-
-|Atividades autorizadas neste Anexo em funcionamento |Deverão ser observados os horários de cada |
-
-|no interior de shopping centers, galerias de loja e |atividade |
-
-|centros de comércio | |
+| Fase de controle – permanecem abertos |  |
+| --- | --- |
+| Atividades autorizadas a funcionar nos termos do Decreto nº 17.328, de 8 de abril de 2020, e do |  |
+| Decreto nº 17.332, de 16 de abril de 2020. |  |
+|  |  |
+| Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH. |  |
+| Atividade | Faixa de horário de funcionamento |
+| Padarias e lanchonetes (vedado o consumo no local) | 5h às 22h |
+| Comércio varejista de laticínios e frios | 7h às 21h |
+| Açougue e peixaria | 7h às 21h |
+| Hortifrutigranjeiros | 7h às 21h |
+| Minimercados, mercearias e armazéns | 7h às 21h |
+| Supermercados e hipermercados | 7h às 22h |
+| Artigos farmacêuticos | Sem restrição de horário |
+| Artigos farmacêuticos, com manipulação de fórmula | Sem restrição de horário |
+| Comércio varejista de artigos de óptica | Sem restrição de horário |
+| Artigos médicos e ortopédicos | Sem restrição de horário |
+| Tintas, solventes e materiais para pintura | 7h às 21h |
+| Material elétrico e hidráulico, vidros e ferragens | 7h às 21h |
+| Madeireira | 7h às 21h |
+| Material de construção em geral | 7h às 21h |
+| Combustíveis para veículos automotores | Sem restrição de horário |
+| Peças e acessórios para veículos automotores | 8h às 17h |
+| Comércio varejista de gás liquefeito de petróleo | Sem restrição de horário |
+| (GLP) |  |
+| Comércio atacadista da cadeia de atividades do | 5h às 17h |
+| comércio varejista da fase de controle |  |
+| Agências bancárias: instituições de crédito, seguro, | Sem restrição de horário |
+| capitalização, comércio e administração de valores |  |
+| imobiliários |  |
+| Casas lotéricas | Sem restrição de horário |
+| Agência de correio e telégrafo | Sem restrição de horário |
+| Comércio de medicamentos, artigos e alimentos para | Sem restrição de horário |
+| animais de estimação |  |
+| Atividades de serviços e serviços de uso coletivo, | Sem restrição de horário |
+| exceto os especificados no art. 2º do Decreto nº |  |
+| 17.328, de 8 de abril de 2020 |  |
+| Atividades industriais | Sem restrição de horário |
+| Banca de jornal e revista | Sem restrição de horário |
+| Serviços de alimentação, apenas para entrega em | Sem restrição de horário |
+| domicílio e retirada no local de alimentos prontos e |  |
+| embalados para consumo fora do estabelecimento, nos |  |
+| termos do art. 3º do Decreto nº 17.328, de 2020 |  |
+| Restaurantes, lanchonetes, bares e estabelecimentos | Sem restrição de horário |
+| congêneres no interior de hotéis, pousadas e |  |
+| similares, para atendimento exclusivo aos hóspedes, |  |
+| nos termos do art. 4º do Decreto nº 17.328, de 2020 |  |
+| Atividades autorizadas neste Anexo em funcionamento | Deverão ser observados os horários de cada |
+| no interior de shopping centers, galerias de loja e | atividade |
+| centros de comércio |  |
 
 ANEXO II
 
@@ -158,4 +111,5 @@ ANEXO II
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|SUSPENSO POR PRAZO INDETERMINADO |
+| SUSPENSO POR PRAZO INDETERMINADO |
+| --- |

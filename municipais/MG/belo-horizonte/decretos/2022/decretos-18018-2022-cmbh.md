@@ -54,19 +54,14 @@ ANEXO
 
 I – Crédito adicional especial instituindo a seguinte dotação orçamentária a que se refere o art. 1º:
 
-|1 – A favor da Superintendência de Mobilidade do Município de Belo Horizonte – Sumob –, para |
-
-|atender concessão de subsídio mensal ao transporte público coletivo, convencional e suplementar, |
-
-|de passageiros por ônibus do Município, conforme autorização contida no art. 9º da Lei nº 11.367, |
-
-|de 1º de julho de 2022: |
-
-|R$ |
-
-|3302.26.452.060.2.910.3360.0000 |206.043.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |206.043.000,00 |
+| 1 – A favor da Superintendência de Mobilidade do Município de Belo Horizonte – Sumob –, para |  |
+| --- | --- |
+| atender concessão de subsídio mensal ao transporte público coletivo, convencional e suplementar, |  |
+| de passageiros por ônibus do Município, conforme autorização contida no art. 9º da Lei nº 11.367, |  |
+| de 1º de julho de 2022: |  |
+| R$ |  |
+| 3302.26.452.060.2.910.3360.0000 | 206.043.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 206.043.000,00 |
 
 *Republicado em razão de incorreção no decreto original, publicado no DOM de 6 de julho de 2022.
 

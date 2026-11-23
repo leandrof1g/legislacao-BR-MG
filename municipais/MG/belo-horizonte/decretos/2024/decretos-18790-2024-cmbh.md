@@ -78,7 +78,7 @@ Para possibilitar o adequado fluxo de passageiros no salão, considerando os asp
 
 Figura 1 – Posição das portas esquerdas do Ônibus BRT Misto de 5 portas
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 II. Altura do patamar de embarque à esquerda
 
@@ -88,7 +88,7 @@ Será admitida a tolerância de ± 20mm em decorrência de interferências const
 
 Figura 2 – Altura do patamar de embarque nas portas à esquerda
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 III. Pontos de apoio
 
@@ -106,7 +106,7 @@ Obs.: A tonalidade da cor dos bancos/revestimentos deve proporcionar harmonia co
 
 Figura 3 – Protetor para cabeça
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 V. Assentos preferenciais
 

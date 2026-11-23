@@ -28,7 +28,7 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições, em especial a
 
 **Art. 1º** - A Tabela 1 do Anexo Único do Decreto nº 10.406, de 16 de novembro de 2000, passa a vigorar acrescida do seguinte modelo Nº 7:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 2º** - O Decreto nº 11.601, de 09 de janeiro de 2004, passa a vigorar acrescido do seguinte art. 92A:
 

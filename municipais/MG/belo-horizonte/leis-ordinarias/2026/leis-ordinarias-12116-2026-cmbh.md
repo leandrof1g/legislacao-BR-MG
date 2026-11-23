@@ -40,9 +40,9 @@ DIA COMEMORATIVO
 
 D - Dias comemorativos de abril:
 
-|DATA |COMEMORAÇÃO |
-
-|27/4 |Dia Municipal do Auditor de Controle Externo |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 27/4 | Dia Municipal do Auditor de Controle Externo |
 
 ”.
 

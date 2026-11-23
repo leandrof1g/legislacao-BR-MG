@@ -238,37 +238,23 @@ II - art. 55:
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO | | |
-
-|Diretor de Departamento |Gerente de 1º Nível |256 |
-
-|Chefe de Serviço |Gerente de 2º Nível |484 |
-
-|---- |Diretor de Equipamento Cultural |13 |
-
-|---- |Diretor de Centro Cultural |11 |
-
-|Coordenador de Apoio a Pessoa Portadora de |Coordenador dos Direitos da Pessoa Portadora de |1 |
-
-|Deficiência |Deficiência | |
-
-|---- |Coordenador dos Direitos da Pessoa Idosa |1 |
-
-|---- |Depositário |1 |
-
-|---- |Presidente de Junta de Julgamento Fiscal Sanitário de 1ª |1 |
-
-| |Instância | |
-
-|---- |Secretário da Junta de Recursos Fiscais Sanitários de 2ª |1 |
-
-| |Instância | |
-
-|Supervisor de Alimentação Escolar |Supervisor de Alimentação Escolar |Lei nº 6.740, de 17 |(NR)" |
-
-| | |de outubro de 1994 | |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |  |
+| --- | --- | --- | --- |
+| GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO |  |  |  |
+| Diretor de Departamento | Gerente de 1º Nível | 256 |  |
+| Chefe de Serviço | Gerente de 2º Nível | 484 |  |
+| ---- | Diretor de Equipamento Cultural | 13 |  |
+| ---- | Diretor de Centro Cultural | 11 |  |
+| Coordenador de Apoio a Pessoa Portadora de | Coordenador dos Direitos da Pessoa Portadora de | 1 |  |
+| Deficiência | Deficiência |  |  |
+| ---- | Coordenador dos Direitos da Pessoa Idosa | 1 |  |
+| ---- | Depositário | 1 |  |
+| ---- | Presidente de Junta de Julgamento Fiscal Sanitário de 1ª | 1 |  |
+|  | Instância |  |  |
+| ---- | Secretário da Junta de Recursos Fiscais Sanitários de 2ª | 1 |  |
+|  | Instância |  |  |
+| Supervisor de Alimentação Escolar | Supervisor de Alimentação Escolar | Lei nº 6.740, de 17 | (NR)" |
+|  |  | de outubro de 1994 |  |
 
 **Art. 27** - O Grupo de Magistério do Anexo I da Lei nº 8.146/00 passa a ter a seguinte redação:
 
@@ -276,23 +262,16 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO EXECUTI
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES
 
-|GRUPOS DO MAGISTÉRIO |
-
-|Diretor de Estabelecimento de Ensino A, B, C Diretor de Estabelecimento de Ensino A, B, C 200 |
-
-|Vice-Diretor de Estabelecimento de Ensino A, B, C Vice-Diretor de Estabelecimento de Ensino A, B, C 200 |
-
-|Secretário de Estabelecimento de Ensino A, B, C Secretário de Estabelecimento de Ensino A, B, C 200 |
-
-|Coordenador de Centro de Educação Infantil Coordenador de Centro de Educação Infantil 9 |
-
-|Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação 1 |
-
-|Vice-Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação Vice-Diretor do Centro de Aperfeiçoamento dos Profissionais da |
-
-|Educação 1 |
-
-|(NR)". |
+| GRUPOS DO MAGISTÉRIO |
+| --- |
+| Diretor de Estabelecimento de Ensino A, B, C Diretor de Estabelecimento de Ensino A, B, C 200 |
+| Vice-Diretor de Estabelecimento de Ensino A, B, C Vice-Diretor de Estabelecimento de Ensino A, B, C 200 |
+| Secretário de Estabelecimento de Ensino A, B, C Secretário de Estabelecimento de Ensino A, B, C 200 |
+| Coordenador de Centro de Educação Infantil Coordenador de Centro de Educação Infantil 9 |
+| Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação 1 |
+| Vice-Diretor do Centro de Aperfeiçoamento dos Profissionais da Educação Vice-Diretor do Centro de Aperfeiçoamento dos Profissionais da |
+| Educação 1 |
+| (NR)". |
 
 **Art. 28** - Ficam excluídos os itens V.19 e e.42 e e.43 do Anexo II e do Anexo III, respectivamente, da Lei nº 8.146/00, acrescendo-se aos anexos os seguintes itens respectivamente:
 
@@ -308,27 +287,18 @@ II - Anexo III:
 
 QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|Diretor de Equipamento Cultural |Conhecimentos específicos |
-
-|Diretor de Centro Cultural |Conhecimentos específicos |
-
-|Coordenador de Direitos da Pessoa Portadora de Deficiência |Conhecimentos específicos |
-
-|Depositário |Conhecimentos específicos |
-
-|Diretor de Centro de Aperfeiçoamento dos Profissionais da Educação |Curso superior |
-
-|Vice-Diretor de Centro de Aperfeiçoamento dos Profissionais da |Curso superior |
-
-|Educação | |
-
-|Coordenador de Apoio à Pessoa Idosa |Conhecimentos específicos |
-
-|Presidente da Junta de Julgamento Fiscal Sanitário de 1ª Instância |Conhecimentos específicos |
-
-|Secretário da Junta de Recursos Fiscais Sanitários de 2ª Instância |Conhecimentos específicos |(NR)" |
+| CARGO | REQUISITO PARA PROVIMENTO |  |
+| --- | --- | --- |
+| Diretor de Equipamento Cultural | Conhecimentos específicos |  |
+| Diretor de Centro Cultural | Conhecimentos específicos |  |
+| Coordenador de Direitos da Pessoa Portadora de Deficiência | Conhecimentos específicos |  |
+| Depositário | Conhecimentos específicos |  |
+| Diretor de Centro de Aperfeiçoamento dos Profissionais da Educação | Curso superior |  |
+| Vice-Diretor de Centro de Aperfeiçoamento dos Profissionais da | Curso superior |  |
+| Educação |  |  |
+| Coordenador de Apoio à Pessoa Idosa | Conhecimentos específicos |  |
+| Presidente da Junta de Julgamento Fiscal Sanitário de 1ª Instância | Conhecimentos específicos |  |
+| Secretário da Junta de Recursos Fiscais Sanitários de 2ª Instância | Conhecimentos específicos | (NR)" |
 
 **Art. 30** - Fica fixado em 55 (cinqüenta e cinco) o número de cargos de Analista de Sistema Administrativo I previsto no Anexo II da Lei nº 5.447, de 30 de novembro de 1988.
 

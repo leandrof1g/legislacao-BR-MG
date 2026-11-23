@@ -32,11 +32,10 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 L - Dias comemorativos de dezembro:
 
-|DEZEMBRO |COMEMORAÇÃO |
-
-|5/12 |Dia Municipal do Profissional e do Dirigente de Creches Comunitárias, |
-
-| |Filantrópicas e Confessionais |
+| DEZEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 5/12 | Dia Municipal do Profissional e do Dirigente de Creches Comunitárias, |
+|  | Filantrópicas e Confessionais |
 
 .”.
 
@@ -46,13 +45,11 @@ L - Dias comemorativos de dezembro:
 
 J - Dias comemorativos de outubro:
 
-|OUTUBRO |COMEMORAÇÃO |
-
-|20/10 |Dia Municipal do Profissional e do Dirigente de Creches Comunitárias, |
-
-| |Filantrópicas e |
-
-| |Confessionais |
+| OUTUBRO | COMEMORAÇÃO |
+| --- | --- |
+| 20/10 | Dia Municipal do Profissional e do Dirigente de Creches Comunitárias, |
+|  | Filantrópicas e |
+|  | Confessionais |
 
 .”.
 

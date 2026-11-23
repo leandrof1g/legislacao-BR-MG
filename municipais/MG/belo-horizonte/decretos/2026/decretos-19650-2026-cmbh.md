@@ -72,41 +72,25 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0113.2804.449052.2.706.510 |198.000,00 |
-
-|3701.08.245.0019.2401.339039.2.660.510 |470.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico, Trabalho e Relações Internacionais – SMDE |
-
-|2800.04.212.0005.2758.339093.2.500.000 |1.098,92 |
-
-|2800.04.212.0005.2758.339093.2.749.782 |59.398,70 |
-
-|Fundo Financeiro – FUFIN |
-
-|0613.09.272.0026.3004.319003.2.802.000 |1.106.141,62 |
-
-|Fundo Previdenciário – BHPREV |
-
-|0614.09.272.0026.3004.319003.2.802.000 |518.452,57 |
-
-|Fundo Municipal de Defesa Ambiental – FDA |
-
-|2503.18.541.0069.2073.335041.2.753.000 |912.500,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0127.2928.339039.2.710.620 |36.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |3.301.591,81 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0113.2804.449052.2.706.510 | 198.000,00 |
+| 3701.08.245.0019.2401.339039.2.660.510 | 470.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico, Trabalho e Relações Internacionais – SMDE |  |
+| 2800.04.212.0005.2758.339093.2.500.000 | 1.098,92 |
+| 2800.04.212.0005.2758.339093.2.749.782 | 59.398,70 |
+| Fundo Financeiro – FUFIN |  |
+| 0613.09.272.0026.3004.319003.2.802.000 | 1.106.141,62 |
+| Fundo Previdenciário – BHPREV |  |
+| 0614.09.272.0026.3004.319003.2.802.000 | 518.452,57 |
+| Fundo Municipal de Defesa Ambiental – FDA |  |
+| 2503.18.541.0069.2073.335041.2.753.000 | 912.500,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0127.2928.339039.2.710.620 | 36.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.301.591,81 |
 
 ANEXO II
 
@@ -168,26 +152,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 883.827.554,50 |
-
-|Valor do decreto publicado nesta data |R$ 3.301.591,81 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 887.129.146,31 |
-
-|Saldo atual de créditos suplementares |R$ 1.605.305.921,29 |
-
-|Percentual utilizado |35,59% |
-
-|Atualizado em 09/07/2026 às 11:12:21 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 883.827.554,50 |
+| Valor do decreto publicado nesta data | R$ 3.301.591,81 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 887.129.146,31 |
+| Saldo atual de créditos suplementares | R$ 1.605.305.921,29 |
+| Percentual utilizado | 35,59% |
+| Atualizado em 09/07/2026 às 11:12:21 |  |

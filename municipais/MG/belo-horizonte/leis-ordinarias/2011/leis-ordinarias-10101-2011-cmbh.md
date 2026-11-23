@@ -270,13 +270,11 @@ Subseção II Da Secretaria Municipal Adjunta de Fiscalização
 
 “
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA |
-
-|ESTRUTURA ORGANIZACIONAL DA SLU, DA SUDECAP, DA FPM |ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER |
-
-|E DA FMC |EXECUTIVO |
-
-|Cargos públicos em comissão do 3º nível |Gerente de 1º nível - C / Assessor III - C |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA |
+| --- | --- |
+| ESTRUTURA ORGANIZACIONAL DA SLU, DA SUDECAP, DA FPM | ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER |
+| E DA FMC | EXECUTIVO |
+| Cargos públicos em comissão do 3º nível | Gerente de 1º nível - C / Assessor III - C |
 
 (NR)”.
 
@@ -284,19 +282,14 @@ Subseção II Da Secretaria Municipal Adjunta de Fiscalização
 
 “
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA |
-
-|ESTRUTURA ORGANIZACIONAL DO HOB |ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER |
-
-| |EXECUTIVO |
-
-|Gerente de 1º nível |Gerente de 1º nível - C |
-
-|(...) |(...) |
-
-|Assessor III |Assessor III-C |
-
-|(...) |(...) |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA |
+| --- | --- |
+| ESTRUTURA ORGANIZACIONAL DO HOB | ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER |
+|  | EXECUTIVO |
+| Gerente de 1º nível | Gerente de 1º nível - C |
+| (...) | (...) |
+| Assessor III | Assessor III-C |
+| (...) | (...) |
 
 (NR)”.
 
@@ -304,17 +297,13 @@ Subseção II Da Secretaria Municipal Adjunta de Fiscalização
 
 “
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA |
-
-|ORGANIZACIONAL DA FZB/BH |ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER |
-
-| |EXECUTIVO |
-
-|(...) |(...) |
-
-|Assessor III |Assessor III-C |
-
-|(...) |(...) |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA |
+| --- | --- |
+| ORGANIZACIONAL DA FZB/BH | ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER |
+|  | EXECUTIVO |
+| (...) | (...) |
+| Assessor III | Assessor III-C |
+| (...) | (...) |
 
 (NR)”.
 
@@ -372,25 +361,17 @@ Subseção II Da Secretaria Municipal Adjunta de Fiscalização
 
 B - QUANTITATIVOS DOS CARGOS EM COMISSÃO DA FZB/BH
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|(...) |(...) |(...) |
-
-|Chefe de Seção |Gerente de 3º Nível |12 |
-
-|Chefe de Setor |Gerente de 4º Nível |02 |
-
-|(...) |(...) |(...) |
-
-|Assessor III |Assessor III |01 |
-
-|(...) |(...) |(...) |
-
-|Assessor I |Assessor I |01 |
-
-|(...) |(...) |(...) |
-
-|TOTAL |31 | |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| (...) | (...) | (...) |
+| Chefe de Seção | Gerente de 3º Nível | 12 |
+| Chefe de Setor | Gerente de 4º Nível | 02 |
+| (...) | (...) | (...) |
+| Assessor III | Assessor III | 01 |
+| (...) | (...) | (...) |
+| Assessor I | Assessor I | 01 |
+| (...) | (...) | (...) |
+| TOTAL | 31 |  |
 
 (NR)”.
 
@@ -402,39 +383,24 @@ B - QUANTITATIVOS DOS CARGOS EM COMISSÃO DA FZB/BH
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS E FUNÇÕES ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|Secretário Municipal |Secretário Municipal |12 |
-
-|(...) | | |
-
-|Secretário Municipal Adjunto |Secretário Municipal Adjunto |23 |
-
-|Chefe de Gabinete |Chefe de Gabinete |25 |
-
-|Gerente de 1º Nível |Gerente de 1º Nível - A |24 |
-
-|Gerente de 1º Nível |Gerente de 1º Nível - B |3 |
-
-|Gerente de 1º Nível |Gerente de 1º Nível - C |252 |
-
-|Gerente de 2º Nível |Gerente de 2º Nível |503 |
-
-|Gerente de 3º Nível |Gerente de 3º Nível |323 |
-
-|(...) |(...) |(...) |
-
-|Assessor I |Assessor I |98 |
-
-|Assessor II |Assessor II |96 |
-
-|Assessor III |Assessor III - A |4 |
-
-|Assessor III |Assessor III - B |2 |
-
-|Assessor III |Assessor III - C |36 |
-
-|(...) |(...) |(...) |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| Secretário Municipal | Secretário Municipal | 12 |
+| (...) |  |  |
+| Secretário Municipal Adjunto | Secretário Municipal Adjunto | 23 |
+| Chefe de Gabinete | Chefe de Gabinete | 25 |
+| Gerente de 1º Nível | Gerente de 1º Nível - A | 24 |
+| Gerente de 1º Nível | Gerente de 1º Nível - B | 3 |
+| Gerente de 1º Nível | Gerente de 1º Nível - C | 252 |
+| Gerente de 2º Nível | Gerente de 2º Nível | 503 |
+| Gerente de 3º Nível | Gerente de 3º Nível | 323 |
+| (...) | (...) | (...) |
+| Assessor I | Assessor I | 98 |
+| Assessor II | Assessor II | 96 |
+| Assessor III | Assessor III - A | 4 |
+| Assessor III | Assessor III - B | 2 |
+| Assessor III | Assessor III - C | 36 |
+| (...) | (...) | (...) |
 
 (NR)”.
 
@@ -444,17 +410,13 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA 
 
 QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
-|CARGO |REQUISITOS PARA PROVIMENTO |
-
-|(...) |(...) |
-
-|Gerente de 1º Nível, nas segmentações A, B e C |conhecimentos específicos |
-
-|(...) |(...) |
-
-|Assessor III, nas segmentações A, B e C |conhecimentos específicos |
-
-|(...) |(...) |
+| CARGO | REQUISITOS PARA PROVIMENTO |
+| --- | --- |
+| (...) | (...) |
+| Gerente de 1º Nível, nas segmentações A, B e C | conhecimentos específicos |
+| (...) | (...) |
+| Assessor III, nas segmentações A, B e C | conhecimentos específicos |
+| (...) | (...) |
 
 (NR)”.
 
@@ -466,25 +428,21 @@ QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS E FUNÇÕES ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|(...) |(...) |(...) |
-
-| |Coordenador Executivo do Programa BH Metas|1 |
-
-| |e Resultados | |
-
-|(...) |(...) |(...) |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| (...) | (...) | (...) |
+|  | Coordenador Executivo do Programa BH Metas | 1 |
+|  | e Resultados |  |
+| (...) | (...) | (...) |
 
 (NR)”.
 
 **§ 1º** - Fica criado o seguinte quadro no Anexo I da Lei nº 9.011/05:
 
-|FUNÇÃO PÚBLICA PREVISTA NA LEGISLAÇÃO |FUNÇÃO PÚBLICA PREVISTA NESTA LEI |QUANTIDADE DE VAGAS |
-
-|ANTERIOR | | |
-
-| |Gerente de Centro Cultural |16 |
+| FUNÇÃO PÚBLICA PREVISTA NA LEGISLAÇÃO | FUNÇÃO PÚBLICA PREVISTA NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| ANTERIOR |  |  |
+|  | Gerente de Centro Cultural | 16 |
 
 **§ 2º** - Ficam inseridas as seguintes linhas no Anexo II da Lei nº 9.011/05:
 
@@ -492,17 +450,13 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA 
 
 QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|(...) |(...) |
-
-|Coordenador Executivo do Programa BH Metas e Resultados |conhecimentos específicos |
-
-|(...) |(...) |
-
-|Gerente de Centro Cultural |conhecimentos específicos |
-
-|(...) |(...) |
+| CARGO | REQUISITO PARA PROVIMENTO |
+| --- | --- |
+| (...) | (...) |
+| Coordenador Executivo do Programa BH Metas e Resultados | conhecimentos específicos |
+| (...) | (...) |
+| Gerente de Centro Cultural | conhecimentos específicos |
+| (...) | (...) |
 
 (NR)”.
 
@@ -512,25 +466,17 @@ QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
 PISOS DE REMUNERAÇÃO E GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA DOS CARGOS PÚBLICOS EM COMISSÃO RELACIONADOS NESTE ANEXO V
 
-|CARGOS |PISO DE REMUNERAÇÃO (em R$) |GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA|TOTAL |
-
-|EM COMISSÃO | |(em R$) |(em R$) |
-
-|Gerente de 1º Nível - A |3.300,00 |3.300,00 |6.600,00 |
-
-|Gerente de 1º Nível - B |2.750,00 |2.750,00 |5.500,00 |
-
-|Gerente de 1º Nível - C |2.214,00 |2.214,00 |4.428,00 |
-
-|(...) |(...) |(...) |(...) |
-
-|Assessor III - A |3.300,00 |3.300,00 |6.600,00 |
-
-|Assessor III - B |2.750,00 |2.750,00 |5.500,00 |
-
-|Assessor III - C |2.214,00 |2.214,00 |4.428,00 |
-
-|(...) |(...) |(...) |(...) |
+| CARGOS | PISO DE REMUNERAÇÃO (em R$) | GRATIFICAÇÃO DE DEDICAÇÃO EXCLUSIVA | TOTAL |
+| --- | --- | --- | --- |
+| EM COMISSÃO |  | (em R$) | (em R$) |
+| Gerente de 1º Nível - A | 3.300,00 | 3.300,00 | 6.600,00 |
+| Gerente de 1º Nível - B | 2.750,00 | 2.750,00 | 5.500,00 |
+| Gerente de 1º Nível - C | 2.214,00 | 2.214,00 | 4.428,00 |
+| (...) | (...) | (...) | (...) |
+| Assessor III - A | 3.300,00 | 3.300,00 | 6.600,00 |
+| Assessor III - B | 2.750,00 | 2.750,00 | 5.500,00 |
+| Assessor III - C | 2.214,00 | 2.214,00 | 4.428,00 |
+| (...) | (...) | (...) | (...) |
 
 (NR)”.
 

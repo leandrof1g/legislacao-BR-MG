@@ -132,7 +132,7 @@ Jorge Raimundo Nahas
 
 Secretário Municipal da Coordenação de Política Social
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

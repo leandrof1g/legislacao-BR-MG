@@ -2872,33 +2872,25 @@ III – o provimento dos cargos de diretores, chefes de departamento; de divisã
 
 **Art. 107-A** – Os cargos de provimento em comissão da SLU e SUDECAP, do 3° ao 5° nível hierárquicos, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|Cargos de Provimento em Comissão da SLU e SUDECAP |Cargo de Provimento em Comissão da Administração Direta |
-
-| |Equivalente |
-
-|Cargos em comissão do 3º nível |Gerente de 1º nível |
-
-|Cargos em comissão do 4º nível |Gerente de 2º nível |
-
-|Cargos em comissão do 5º nível |Gerente de 3º nível |
+| Cargos de Provimento em Comissão da SLU e SUDECAP | Cargo de Provimento em Comissão da Administração Direta |
+| --- | --- |
+|  | Equivalente |
+| Cargos em comissão do 3º nível | Gerente de 1º nível |
+| Cargos em comissão do 4º nível | Gerente de 2º nível |
+| Cargos em comissão do 5º nível | Gerente de 3º nível |
 
 **Art. 107-A** acrescentado pela Lei nº 9.154, de 12/1/2006 (Art. 49)
 
 **Art. 107-A** – Os cargos de provimento em comissão da estrutura organizacional da SLU e da SUDECAP, do 3° ao 5° nível hierárquico, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA ORGANIZACIONAL DA|
-
-|ESTRUTURA ORGANIZACIONAL DA SLU E DA SUDECAP |ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
-
-|Cargos públicos em comissão do 3º nível |Gerente de 1º nível não exercedor de Gerência de unidade de gestão estratégica |
-
-| |Gerente de 1º nível – C / Assessor III – C |
-
-| |Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 (Art. 29) |
-
-|Cargos públicos em comissão do 4º nível |Gerente de 2º nível |
-
-|Cargos públicos em comissão do 5º nível |Gerente de 3º nível |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA ORGANIZACIONAL DA |
+| --- | --- |
+| ESTRUTURA ORGANIZACIONAL DA SLU E DA SUDECAP | ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
+| Cargos públicos em comissão do 3º nível | Gerente de 1º nível não exercedor de Gerência de unidade de gestão estratégica |
+|  | Gerente de 1º nível – C / Assessor III – C |
+|  | Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 (Art. 29) |
+| Cargos públicos em comissão do 4º nível | Gerente de 2º nível |
+| Cargos públicos em comissão do 5º nível | Gerente de 3º nível |
 
 **Art. 107-A** com redação dada pela Lei nº 9.549, de 7/4/2008 (Art. 44)
 
@@ -3114,31 +3106,23 @@ III – o provimento dos cargos de diretores, chefes de departamento; de divisã
 
 **§ 4º** - Os cargos de provimento em comissão da Fundação do 3º ao 5º nível hierárquico terão as suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS DE PROVIMENTO EM COMISSÃO DA FUNDAÇÃO |CARGO DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA EQUIVALENTE |
-
-|Cargos em comissão do 3º nível |Gerente de 1º nível |
-
-|Cargos em comissão do 4º nível |Gerente de 2º nível |
-
-|Cargos em comissão do 5º nível |Gerente de 3º nível |
+| CARGOS DE PROVIMENTO EM COMISSÃO DA FUNDAÇÃO | CARGO DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA EQUIVALENTE |
+| --- | --- |
+| Cargos em comissão do 3º nível | Gerente de 1º nível |
+| Cargos em comissão do 4º nível | Gerente de 2º nível |
+| Cargos em comissão do 5º nível | Gerente de 3º nível |
 
 **§ 4º** - Os cargos de provimento em comissão da estrutura organizacional da Fundação de Parques Municipais, do 3° ao 5° nível hierárquico, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA ORGANIZACIONAL DA |
-
-|ESTRUTURA ORGANIZACIONAL DA FUNDAÇÃO DE PARQUES |ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
-
-|MUNICIPAIS | |
-
-|Cargos públicos em comissão do 3º nível |Gerente de 1º nível não exercedor de Gerência de unidade de gestão estratégica |
-
-| |Gerente de 1º nível – C / Assessor III – C |
-
-| |Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 (Art. 29) |
-
-|Cargos públicos em comissão do 4º nível |Gerente de 2º nível |
-
-|Cargos públicos em comissão do 5º nível |Gerente de 3º nível |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA ORGANIZACIONAL DA |
+| --- | --- |
+| ESTRUTURA ORGANIZACIONAL DA FUNDAÇÃO DE PARQUES | ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
+| MUNICIPAIS |  |
+| Cargos públicos em comissão do 3º nível | Gerente de 1º nível não exercedor de Gerência de unidade de gestão estratégica |
+|  | Gerente de 1º nível – C / Assessor III – C |
+|  | Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 (Art. 29) |
+| Cargos públicos em comissão do 4º nível | Gerente de 2º nível |
+| Cargos públicos em comissão do 5º nível | Gerente de 3º nível |
 
 **§ 4º** com redação dada pela Lei nº 9.549, de 7/4/2008 (Art. 45)
 
@@ -3416,31 +3400,23 @@ III – o provimento dos cargos de diretores, chefes de departamento; de divisã
 
 **§ 4º** - Os cargos de provimento em comissão da Fundação do 3º ao 5º nível hierárquico terão as suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS DE PROVIMENTO EM COMISSÃO DA FUNDAÇÃO |CARGO DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA EQUIVALENTE |
-
-|Cargos em comissão do 3º nível |Gerente de 1º nível |
-
-|Cargos em comissão do 4º nível |Gerente de 1º nível |
-
-|Cargos em comissão do 5º nível |Gerente de 3º nível |
+| CARGOS DE PROVIMENTO EM COMISSÃO DA FUNDAÇÃO | CARGO DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA EQUIVALENTE |
+| --- | --- |
+| Cargos em comissão do 3º nível | Gerente de 1º nível |
+| Cargos em comissão do 4º nível | Gerente de 1º nível |
+| Cargos em comissão do 5º nível | Gerente de 3º nível |
 
 **§ 4º** - Os cargos de provimento em comissão da estrutura organizacional da Fundação Municipal de Cultura, do 3° ao 5° nível hierárquico, terão suas remunerações fixadas em parâmetros equivalentes às remunerações dos cargos de provimento em comissão da Administração Direta do Poder Executivo de igual hierarquia, nos seguintes termos:
 
-|CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA |CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA |
-
-|ORGANIZACIONAL DA FUNDAÇÃO MUNICIPAL DE CULTURA |ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
-
-|Cargos públicos em comissão do 3º nível |Gerente de 1º nível não exercedor de Gerência de unidade de gestão |
-
-| |estratégica |
-
-| |Gerente de 1º nível – C / Assessor III – C |
-
-| |Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 (Art. 29) |
-
-|Cargos públicos em comissão do 4º nível |Gerente de 2º nível |
-
-|Cargos públicos em comissão do 5º nível |Gerente de 3º nível |
+| CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO DA ESTRUTURA | CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO EQUIVALENTES NA ESTRUTURA |
+| --- | --- |
+| ORGANIZACIONAL DA FUNDAÇÃO MUNICIPAL DE CULTURA | ORGANIZACIONAL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |
+| Cargos públicos em comissão do 3º nível | Gerente de 1º nível não exercedor de Gerência de unidade de gestão |
+|  | estratégica |
+|  | Gerente de 1º nível – C / Assessor III – C |
+|  | Nome do cargo com redação dada pela Lei nº 10.101, de 14/1/2011 (Art. 29) |
+| Cargos públicos em comissão do 4º nível | Gerente de 2º nível |
+| Cargos públicos em comissão do 5º nível | Gerente de 3º nível |
 
 **§ 4º** com redação dada pela Lei nº 9.549, de 7/4/2008 (Art. 48)
 

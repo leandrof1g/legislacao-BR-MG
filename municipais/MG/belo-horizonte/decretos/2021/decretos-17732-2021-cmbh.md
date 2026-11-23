@@ -44,34 +44,21 @@ ANEXO
 
 “
 
-|ANEXO ÚNICO |
-
-|PREÇOS PÚBLICOS |
-
-|GRUPO I – PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS (autorização,|
-
-|permissão ou concessão): |
-
-|(...) |
-
-|12.3 – Programa ABC (Abastecer e Comboio do Trabalhador), por ponto de comercialização:|
-
-|12.3.1 Barreiro |R$4,45 p/m² p/exercício |
-
-|12.3.2 Centro-Sul |R$6,35 p/m² p/exercício |
-
-|12.3.3 Leste |R$4,41 p/m² p/exercício |
-
-|12.3.4 Nordeste |R$4,36 p/m² p/exercício |
-
-|12.3.5 Noroeste |R$5,43 p/m² p/exercício |
-
-|12.3.6 Norte |R$5,08 p/m² p/exercício |
-
-|12.3.7 Oeste |R$5,73 p/m² p/exercício |
-
-|12.3.8 Pampulha |R$4,64 p/m² p/exercício |
-
-|12.3.9 Venda Nova |R$4,28 p/m² p/exercício |
+| ANEXO ÚNICO |  |
+| --- | --- |
+| PREÇOS PÚBLICOS |  |
+| GRUPO I – PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS (autorização, |  |
+| permissão ou concessão): |  |
+| (...) |  |
+| 12.3 – Programa ABC (Abastecer e Comboio do Trabalhador), por ponto de comercialização: |  |
+| 12.3.1 Barreiro | R$4,45 p/m² p/exercício |
+| 12.3.2 Centro-Sul | R$6,35 p/m² p/exercício |
+| 12.3.3 Leste | R$4,41 p/m² p/exercício |
+| 12.3.4 Nordeste | R$4,36 p/m² p/exercício |
+| 12.3.5 Noroeste | R$5,43 p/m² p/exercício |
+| 12.3.6 Norte | R$5,08 p/m² p/exercício |
+| 12.3.7 Oeste | R$5,73 p/m² p/exercício |
+| 12.3.8 Pampulha | R$4,64 p/m² p/exercício |
+| 12.3.9 Venda Nova | R$4,28 p/m² p/exercício |
 
 ”

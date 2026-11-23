@@ -28,17 +28,13 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 **Art. 1º** - O Grupo VI do Anexo Único do Decreto nº 15.508, de 20 de março de 2014, passa a vigorar acrescido do seguinte item 3: “
 
-|ANEXO ÚNICO |
-
-|PREÇOS PÚBLICOS |
-
-|[...] |
-
-|GRUPO VI - SERVIÇOS DIVERSOS: |
-
-|[...] |[...] |
-
-|3 - Vistoria de veículos locados |R$122,85 p/serviço/ veículo |
+| ANEXO ÚNICO |  |
+| --- | --- |
+| PREÇOS PÚBLICOS |  |
+| [...] |  |
+| GRUPO VI - SERVIÇOS DIVERSOS: |  |
+| [...] | [...] |
+| 3 - Vistoria de veículos locados | R$122,85 p/serviço/ veículo |
 
 ”. (NR)
 

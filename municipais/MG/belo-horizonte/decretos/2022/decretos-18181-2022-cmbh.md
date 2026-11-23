@@ -58,23 +58,19 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida |R$ |
-
-|no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2302.10.302.114.2.893.3350.0050 |1.170.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.170.000,00 |
+| I.1.1 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida | R$ |
+| --- | --- |
+| no inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2302.10.302.114.2.893.3350.0050 | 1.170.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.170.000,00 |
 
 I.2 – Anulação da dotação orçamentária a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde – FMS: | |
-
-|2302.10.302.114.2.894.3390.0050 |1.170.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.170.000,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde – FMS: |  |
+| 2302.10.302.114.2.894.3390.0050 | 1.170.000,00 |
+| TOTAL DA ANULAÇÃO | 1.170.000,00 |
 
 ANEXO II
 
@@ -96,36 +92,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do art.|Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|4º, limite de 15% do |4º, limite de 15% do total |
-
-|– Limites autorizados |Orçamento: |total do Orçamento do |do Orçamento do Fundo |
-
-|para abertura de | |Grupo 1 – Pessoal e |Municipal de Saúde – FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.391.203.764,70 |R$ 225.895.100,00 |R$ 554.847.770,82 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 909.946.920,95 |R$ 658.097.208,70 |R$ 172.369.381,83 |
-
-|suplementares | | | |
-
-|Percentual utilizado |60,46% |25,55% |76,30% |
-
-|Atualizado em 05/12/2022 às 11:55:15 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do art. | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | 4º, limite de 15% do | 4º, limite de 15% do total |
+| – Limites autorizados | Orçamento: | total do Orçamento do | do Orçamento do Fundo |
+| para abertura de |  | Grupo 1 – Pessoal e | Municipal de Saúde – FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.391.203.764,70 | R$ 225.895.100,00 | R$ 554.847.770,82 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 909.946.920,95 | R$ 658.097.208,70 | R$ 172.369.381,83 |
+| suplementares |  |  |  |
+| Percentual utilizado | 60,46% | 25,55% | 76,30% |
+| Atualizado em 05/12/2022 às 11:55:15 |  |  |  |

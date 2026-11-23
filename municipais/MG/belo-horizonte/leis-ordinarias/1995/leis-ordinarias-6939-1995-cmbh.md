@@ -38,71 +38,44 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 3º** - O Subgrupo de Atividades de Fiscalização descrito no Anexo II da Lei nº 5.447/88, com a redação dada pelo art. 77 da Lei nº 6.352/93, passa a ter a seguinte redação, revogando-se todas as anteriormente determinadas:
 
-|CÓDIGO DENOMINAÇÃO |FAIXA DE VENCIMENTO |
-
-|SUBGRUPO DE ATIVIDADES DE FISCALIZAÇÃO | |
-
-|Fiscal Sanitário Municipal I |I |
-
-|Fiscal Sanitário Municipal II |II |
-
-|Fiscal Sanitário Municipal III |III |
-
-|Fiscal Sanitário Municipal de Nível Superior I |IV |
-
-|Fiscal Sanitário Municipal de Nível Superior II |V |
-
-|Fiscal Sanitário Municipal de Nível Superior III |VI |
-
-|Fiscal Municipal de Obras I |I |
-
-|Fiscal Municipal de Obras II |II |
-
-|Fiscal Municipal de Obras III |III |
-
-|Agente de Fiscalização de Atividades em Vias Urbanas I |I |
-
-|Agente de Fiscalização de Atividades em Vias Urbanas II |II |
-
-|Agente de Fiscalização de Atividades em Vias Urbanas III |III |
-
-|Fiscal Municipal de Posturas I |I |
-
-|Fiscal Municipal de Posturas II |II |
-
-|Fiscal Municipal de Posturas III |III |
-
-|Fiscal Municipal de Controle Ambiental I |I |
-
-|Fiscal Municipal de Controle Ambiental II |II |
-
-|Fiscal Municipal de Controle Ambiental III |III |
+| CÓDIGO DENOMINAÇÃO | FAIXA DE VENCIMENTO |
+| --- | --- |
+| SUBGRUPO DE ATIVIDADES DE FISCALIZAÇÃO |  |
+| Fiscal Sanitário Municipal I | I |
+| Fiscal Sanitário Municipal II | II |
+| Fiscal Sanitário Municipal III | III |
+| Fiscal Sanitário Municipal de Nível Superior I | IV |
+| Fiscal Sanitário Municipal de Nível Superior II | V |
+| Fiscal Sanitário Municipal de Nível Superior III | VI |
+| Fiscal Municipal de Obras I | I |
+| Fiscal Municipal de Obras II | II |
+| Fiscal Municipal de Obras III | III |
+| Agente de Fiscalização de Atividades em Vias Urbanas I | I |
+| Agente de Fiscalização de Atividades em Vias Urbanas II | II |
+| Agente de Fiscalização de Atividades em Vias Urbanas III | III |
+| Fiscal Municipal de Posturas I | I |
+| Fiscal Municipal de Posturas II | II |
+| Fiscal Municipal de Posturas III | III |
+| Fiscal Municipal de Controle Ambiental I | I |
+| Fiscal Municipal de Controle Ambiental II | II |
+| Fiscal Municipal de Controle Ambiental III | III |
 
 **Parágrafo único** - A tabela de vencimentos dos cargos mencionados no artigo é a constante do anexo desta Lei.
 
 **Art. 4º** - A composição numérica dos cargos do Subgrupo de Atividades de Fiscalização é a seguinte:
 
-|ÁREA |CARGOS |COMPOSIÇÃO |
-
-|Saúde |- Fiscal Sanitário Municipal |275 |
-
-| | | |
-
-| |- Fiscal Sanitário Municipal de Nível |60 |
-
-| |Superior | |
-
-|Obras |- Fiscal Municipal de Obras |90 |
-
-|Atividades |- Agente de Fiscalização de Atividades em |97 |
-
-|Urbanas |Vias Urbanas | |
-
-| | | |
-
-| |- Fiscal Municipal de Posturas |231 |
-
-|Controle Ambiental |- Fiscal Municipal de Controle Ambiental |100 |
+| ÁREA | CARGOS | COMPOSIÇÃO |
+| --- | --- | --- |
+| Saúde | - Fiscal Sanitário Municipal | 275 |
+|  |  |  |
+|  | - Fiscal Sanitário Municipal de Nível | 60 |
+|  | Superior |  |
+| Obras | - Fiscal Municipal de Obras | 90 |
+| Atividades | - Agente de Fiscalização de Atividades em | 97 |
+| Urbanas | Vias Urbanas |  |
+|  |  |  |
+|  | - Fiscal Municipal de Posturas | 231 |
+| Controle Ambiental | - Fiscal Municipal de Controle Ambiental | 100 |
 
 **Parágrafo único** - A composição numérica do cargo de Fiscal Sanitário Municipal de Nível Superior na classe I é de 60 (sessenta) cargos.
 

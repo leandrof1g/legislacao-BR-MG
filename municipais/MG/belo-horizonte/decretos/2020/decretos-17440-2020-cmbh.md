@@ -52,66 +52,39 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos, conforme autorização contida |
-
-|no caput do art. 4º da Lei nº 11.211, de 26 de dezembro de 2019: |
-
-|R$ |
-
-|2700.15.451.062.1.230.4490.0400 |902.561,00 |
-
-|2700.15.451.062.1.330.4490.0430 |400.000,00 |
-
-|2700.17.512.066.1.203.4490.0400 |2.000.000,00 |
-
-|2703.16.482.007.2.900.3190.0100 |1.445.626,00 |
-
-|3103.13.122.146.2.900.3390.0300 |4.000.000,00 |
-
-|TOTAL |8.748.187,00 |
-
-|I.2 – A favor de Encargos Gerais do Município da Secretaria |
-
-|Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG –, |
-
-|conforme autorização contida no inciso I do § 1º do art. 4º da Lei |
-
-|nº 11.211, de 26 de dezembro de 2019: |
-
-|R$ |
-
-|4002.04.122.014.2.850.3190.0100 |120.000,00 |
-
-|TOTAL |120.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |8.868.187,00 |
+| I.1 – A favor de diversos órgãos, conforme autorização contida |  |
+| --- | --- |
+| no caput do art. 4º da Lei nº 11.211, de 26 de dezembro de 2019: |  |
+| R$ |  |
+| 2700.15.451.062.1.230.4490.0400 | 902.561,00 |
+| 2700.15.451.062.1.330.4490.0430 | 400.000,00 |
+| 2700.17.512.066.1.203.4490.0400 | 2.000.000,00 |
+| 2703.16.482.007.2.900.3190.0100 | 1.445.626,00 |
+| 3103.13.122.146.2.900.3390.0300 | 4.000.000,00 |
+| TOTAL | 8.748.187,00 |
+| I.2 – A favor de Encargos Gerais do Município da Secretaria |  |
+| Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG –, |  |
+| conforme autorização contida no inciso I do § 1º do art. 4º da Lei |  |
+| nº 11.211, de 26 de dezembro de 2019: |  |
+| R$ |  |
+| 4002.04.122.014.2.850.3190.0100 | 120.000,00 |
+| TOTAL | 120.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 8.868.187,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1 |
-
-|da tabela anterior: |
-
-|R$ |
-
-|2700.15.451.062.1.230.4490.0430 |400.000,00 |
-
-|2700.15.451.062.1.230.4490.0800 |2.902.561,00 |
-
-|2704.16.482.225.1.231.4490.0400 |1.445.626,00 |
-
-|3103.13.392.154.2.371.3390.0300 |4.000.000,00 |
-
-|TOTAL |8.748.187,00 |
-
-|II.2 – Em contrapartida à suplementação relacionada no item I.2 da |
-
-|tabela anterior: |
-
-|R$ |
-
-|0201.04.122.007.2.900.3190.0100 |120.000,00 |
-
-|TOTAL |120.000,00 |
-
-|TOTAL DA ANULAÇÃO |8.868.187,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 2700.15.451.062.1.230.4490.0430 | 400.000,00 |
+| 2700.15.451.062.1.230.4490.0800 | 2.902.561,00 |
+| 2704.16.482.225.1.231.4490.0400 | 1.445.626,00 |
+| 3103.13.392.154.2.371.3390.0300 | 4.000.000,00 |
+| TOTAL | 8.748.187,00 |
+| II.2 – Em contrapartida à suplementação relacionada no item I.2 da |  |
+| tabela anterior: |  |
+| R$ |  |
+| 0201.04.122.007.2.900.3190.0100 | 120.000,00 |
+| TOTAL | 120.000,00 |
+| TOTAL DA ANULAÇÃO | 8.868.187,00 |

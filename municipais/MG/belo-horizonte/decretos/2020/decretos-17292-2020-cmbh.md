@@ -48,142 +48,78 @@ ANEXO
 
 IV.4 – Secretaria Municipal de Desenvolvimento Econômico – SMDE:
 
-|SMDE |
-
-|CARGO / FUNÇÃO - NÍVEL|RECRUTAMENTO |QTDE. CARGOS |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |3 |SMDE.DAM1.L.001 a |
-
-| | | |SMDE.DAM1.L.003 |
-
-| |AMPLO |3 |SMDE.DAM1.A.001 a |
-
-| | | |SMDE.DAM1.A.003 |
-
-|DAM-2 |LIMITADO |2 |SMDE.DAM2.L.001 a |
-
-| | | |SMDE.DAM2.L.002 |
-
-| |AMPLO |1 |SMDE.DAM2.A.001 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |5 |SMDE.DAM3.A.001 a |
-
-| | | |SMDE.DAM3.A.005 |
-
-|DAM-4 |LIMITADO |2 |SMDE.DAM4.L.001 a |
-
-| | | |SMDE.DAM4.L.002 |
-
-| |AMPLO |8 |SMDE.DAM4.A.001 a |
-
-| | | |SMDE.DAM4.A.008 |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-6 |LIMITADO |1 |SMDE.DAM6.L.001 |
-
-| |AMPLO |1 |SMDE.DAM6.A.001 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |2 |SMDE.DAM8.A.001 a |
-
-| | | |SMDE.DAM8.A.002 |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |4 |SMDE.FCA4.001 a |
-
-| | | |SMDE.FCA4.004 |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |32 | |
+| SMDE |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO - NÍVEL | RECRUTAMENTO | QTDE. CARGOS | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 3 | SMDE.DAM1.L.001 a |
+|  |  |  | SMDE.DAM1.L.003 |
+|  | AMPLO | 3 | SMDE.DAM1.A.001 a |
+|  |  |  | SMDE.DAM1.A.003 |
+| DAM-2 | LIMITADO | 2 | SMDE.DAM2.L.001 a |
+|  |  |  | SMDE.DAM2.L.002 |
+|  | AMPLO | 1 | SMDE.DAM2.A.001 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 5 | SMDE.DAM3.A.001 a |
+|  |  |  | SMDE.DAM3.A.005 |
+| DAM-4 | LIMITADO | 2 | SMDE.DAM4.L.001 a |
+|  |  |  | SMDE.DAM4.L.002 |
+|  | AMPLO | 8 | SMDE.DAM4.A.001 a |
+|  |  |  | SMDE.DAM4.A.008 |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-6 | LIMITADO | 1 | SMDE.DAM6.L.001 |
+|  | AMPLO | 1 | SMDE.DAM6.A.001 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 2 | SMDE.DAM8.A.001 a |
+|  |  |  | SMDE.DAM8.A.002 |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 4 | SMDE.FCA4.001 a |
+|  |  |  | SMDE.FCA4.004 |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 32 |  |  |
 
 (...) IV.22 – Superintendência de Limpeza Urbana – SLU:
 
-|SLU |
-
-|CARGO / FUNÇÃO - NÍVEL |RECRUTAMENTO |QTDE. CARGOS |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-3 |LIMITADO |24 |SLUR.DAM3.L.001 a |
-
-| | | |SLUR.DAM3.L.024 |
-
-| |AMPLO |3 |SLUR.DAM3.A.001 a |
-
-| | | |SLUR.DAM3.A.003 |
-
-|DAM-4 |LIMITADO |25 |SLUR.DAM4.L.001 a |
-
-| | | |SLUR.DAM4.L.025 |
-
-| |AMPLO |2 |SLUR.DAM4.A.001 a |
-
-| | | |SLUR.DAM4.A.002 |
-
-|DAM-5 |LIMITADO |1 |SLUR.DAM5.L.001 |
-
-| |AMPLO |1 |SLUR.DAM5.A.001 |
-
-|DAM-6 |LIMITADO |13 |SLUR.DAM6.L.001 a |
-
-| | | |SLUR.DAM6.L.013 |
-
-| |AMPLO |8 |SLUR.DAM6.A.001 a |
-
-| | | |SLUR.DAM6.A.008 |
-
-|DAM-7 |LIMITADO |1 |SLUR.DAM7.L.001 |
-
-| |AMPLO |1 |SLUR.DAM7.A.001 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SLUR.DAM8.A.001 |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |80 |PERCENTUAL: |
+| SLU |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO - NÍVEL | RECRUTAMENTO | QTDE. CARGOS | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-3 | LIMITADO | 24 | SLUR.DAM3.L.001 a |
+|  |  |  | SLUR.DAM3.L.024 |
+|  | AMPLO | 3 | SLUR.DAM3.A.001 a |
+|  |  |  | SLUR.DAM3.A.003 |
+| DAM-4 | LIMITADO | 25 | SLUR.DAM4.L.001 a |
+|  |  |  | SLUR.DAM4.L.025 |
+|  | AMPLO | 2 | SLUR.DAM4.A.001 a |
+|  |  |  | SLUR.DAM4.A.002 |
+| DAM-5 | LIMITADO | 1 | SLUR.DAM5.L.001 |
+|  | AMPLO | 1 | SLUR.DAM5.A.001 |
+| DAM-6 | LIMITADO | 13 | SLUR.DAM6.L.001 a |
+|  |  |  | SLUR.DAM6.L.013 |
+|  | AMPLO | 8 | SLUR.DAM6.A.001 a |
+|  |  |  | SLUR.DAM6.A.008 |
+| DAM-7 | LIMITADO | 1 | SLUR.DAM7.L.001 |
+|  | AMPLO | 1 | SLUR.DAM7.A.001 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SLUR.DAM8.A.001 |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 80 | PERCENTUAL: |  |
 
 ”.

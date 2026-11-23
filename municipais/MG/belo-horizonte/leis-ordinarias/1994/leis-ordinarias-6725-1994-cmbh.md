@@ -578,103 +578,56 @@ Betinho Duarte
 
 Secretário-Geral
 
-|ANEXO |
-
-|PESSOAS CUJOS RESTOS MORTAIS RECEBERAM O FAVOR |DIPLOMA QUE OUTORGOU O FAVOR |
-
-|001- Mariano Ribeiro Abreu |Lei nº 32, de 23 de outubro de 1908 |
-
-|002- Modesto de Faria Bello |Lei nº 32, de 23 de outubro de 1908 |
-
-|003-Salvador Pinto |Lei nº 32, de 23 de outubro de 1908 |
-
-|004- Alfredo da Costa Guimarães |Lei nº 39, de 29 de outubro de 1909 |
-
-|005- Antônio Cyrillo de Oliveira |Lei nº 39, de 29 de outubro de 1909 |
-
-|006- Donato Joaquim da Fonseca |Lei nº 81, de 24 de outubro de 1914 |
-
-|007- Francisco Ferreira Alves |Lei nº 81, de 24 de outubro de 1914 |
-
-|008- Francisco Otaviano Gomes |Lei nº 94, de 4 de outubro de 1915 |
-
-|009- Edmundo Recchioni |Lei nº 144, de 9 de abril de 1918 |
-
-|010- Manoel Lopes Guimarães |Lei nº 144, de 9 de abril de 1918 |
-
-|011- Bernardo Pinto Monteiro |Lei nº 283, de 4 de outubro de 1924 |
-
-|012- Levindo Ferreira Lopes |Lei nº 283, de 4 de outubro de 1924 |
-
-|013- Raul Soares de Moura |Lei nº 283, de 4 de outubro de 1924 |
-
-|014- Francisco Gonçalves das Neves |Lei nº 315, de 28 de outubro de 1926 |
-
-|015- Alípio Ferreira de Melo |Decreto nº 167, de 20 de setembro de 1933 |
-
-|016- Mário Andrade |Decreto nº 170, de 6 de novembro de 1933 |
-
-|018- Flávio Fernandes dos Santos |Decreto nº 64, de 22 de junho de 1939 |
-
-|019- Afonso Vaz de Melo |Decreto nº 77, de 14 de novembro de 1940 |
-
-|020- Nestor Gomes |Decreto-lei nº 88, de 5 de abril de 1941 |
-
-|021- João Almeida Lisboa |Resolução nº 2, de 5 de janeiro de 1948 |
-
-|022- Olinto Deodato dos Reis Meireles |Decreto nº 19, de 27 de outubro de 1948 |
-
-|023- João Lúcio Brandão |Lei nº 30, de 28 de junho de 1948 |
-
-|024- J Magalhães Drumond |Lei nº 264, de 4 de janeiro de 1952 |
-
-|025- Elizeu Mariano |Lei nº 300, de 5 de setembro de 1952 |
-
-|026- Júlio César de Freitas |Lei nº 324, de 2 de fevereiro de 1953 |
-
-|027- Benjamim Flores |Lei nº 336, de 7 de julho de 1953 |
-
-|028- Antônio Pereira da Silva |Lei n º 348, de 1º de outubro de 1953 |
-
-|029- Cristiano Monteiro Machado |Decreto nº 293, de 4 de janeiro de 1954 |
-
-|030- Fernando de Melo Viana |Decreto nº 300, de 11 de fevereiro de 1954 |
-
-|031- Religiosas Angélicas de São Paulo Apóstolo |Lei nº 372, de 23 de fevereiro de 1954 |
-
-|032- Horácio Godinho |Lei nº 378, de 30 de março de 1954 |
-
-|033- Polidoro dos Reis Figueiredo |Lei nº 380, de 10 de abril de 1954 |
-
-|034- Religiosas da Congregação das Filhas de Maria Auxiliadora |Lei nº 393, de 23 de julho de 1954 |
-
-|035- Eduardo Campos do Amaral |Lei nº 414, de 25 de novembro de 1954 |
-
-|036- Rodolfo Henriques |Lei nº 454, de 29 de janeiro de 1955 |
-
-|037- Artur de Oliveira |Lei nº 505, de 28 de outubro de 1955 |
-
-|038- Religiosas Servas do Santíssimo Sacramento |Lei nº 553, de 31 de julho de 1956 |
-
-|039- Domingos Gatti |Lei nº 963, de 18 de dezembro de 1962 |
-
-|040- Octacílio Negrão de Lima |Decreto nº 1.040, de 25 de janeiro de 1963 |
-
-|041- Religiosas da Congregação Filhas de N. Sra. do Monte Calvário |Lei nº 1.028, de 9 de julho de 1963 |
-
-|042- Bombeiros falecidos no cumprimento do dever |Decreto nº 1.122, de 23 de agosto de 1963 |
-
-|043- Otávio Goulart Pena |Decreto nº 1.279, de 5 de janeiro de 1965 |
-
-|044- Membros da Guarda Civil mortos em serviço |Lei nº 1.669, de 23 de junho de 1969 |
-
-|045- Membros da Polícia Civil do Dep. De Invest. mortos em serviço |Lei nº 1.669, de 23 de junho de 1969 |
-
-|046- Milton Soares Campos |Decreto nº 2.348, de 12 de abril de 1973 |
-
-|047- Benedito Valadares Ribeiro |Decreto nº 2.348, de 12 de abril de 1973 |
-
-|048- Pedro Aleixo |Decreto nº 2.736, de 10 de março de 1975 |
+| ANEXO |  |
+| --- | --- |
+| PESSOAS CUJOS RESTOS MORTAIS RECEBERAM O FAVOR | DIPLOMA QUE OUTORGOU O FAVOR |
+| 001- Mariano Ribeiro Abreu | Lei nº 32, de 23 de outubro de 1908 |
+| 002- Modesto de Faria Bello | Lei nº 32, de 23 de outubro de 1908 |
+| 003-Salvador Pinto | Lei nº 32, de 23 de outubro de 1908 |
+| 004- Alfredo da Costa Guimarães | Lei nº 39, de 29 de outubro de 1909 |
+| 005- Antônio Cyrillo de Oliveira | Lei nº 39, de 29 de outubro de 1909 |
+| 006- Donato Joaquim da Fonseca | Lei nº 81, de 24 de outubro de 1914 |
+| 007- Francisco Ferreira Alves | Lei nº 81, de 24 de outubro de 1914 |
+| 008- Francisco Otaviano Gomes | Lei nº 94, de 4 de outubro de 1915 |
+| 009- Edmundo Recchioni | Lei nº 144, de 9 de abril de 1918 |
+| 010- Manoel Lopes Guimarães | Lei nº 144, de 9 de abril de 1918 |
+| 011- Bernardo Pinto Monteiro | Lei nº 283, de 4 de outubro de 1924 |
+| 012- Levindo Ferreira Lopes | Lei nº 283, de 4 de outubro de 1924 |
+| 013- Raul Soares de Moura | Lei nº 283, de 4 de outubro de 1924 |
+| 014- Francisco Gonçalves das Neves | Lei nº 315, de 28 de outubro de 1926 |
+| 015- Alípio Ferreira de Melo | Decreto nº 167, de 20 de setembro de 1933 |
+| 016- Mário Andrade | Decreto nº 170, de 6 de novembro de 1933 |
+| 018- Flávio Fernandes dos Santos | Decreto nº 64, de 22 de junho de 1939 |
+| 019- Afonso Vaz de Melo | Decreto nº 77, de 14 de novembro de 1940 |
+| 020- Nestor Gomes | Decreto-lei nº 88, de 5 de abril de 1941 |
+| 021- João Almeida Lisboa | Resolução nº 2, de 5 de janeiro de 1948 |
+| 022- Olinto Deodato dos Reis Meireles | Decreto nº 19, de 27 de outubro de 1948 |
+| 023- João Lúcio Brandão | Lei nº 30, de 28 de junho de 1948 |
+| 024- J Magalhães Drumond | Lei nº 264, de 4 de janeiro de 1952 |
+| 025- Elizeu Mariano | Lei nº 300, de 5 de setembro de 1952 |
+| 026- Júlio César de Freitas | Lei nº 324, de 2 de fevereiro de 1953 |
+| 027- Benjamim Flores | Lei nº 336, de 7 de julho de 1953 |
+| 028- Antônio Pereira da Silva | Lei n º 348, de 1º de outubro de 1953 |
+| 029- Cristiano Monteiro Machado | Decreto nº 293, de 4 de janeiro de 1954 |
+| 030- Fernando de Melo Viana | Decreto nº 300, de 11 de fevereiro de 1954 |
+| 031- Religiosas Angélicas de São Paulo Apóstolo | Lei nº 372, de 23 de fevereiro de 1954 |
+| 032- Horácio Godinho | Lei nº 378, de 30 de março de 1954 |
+| 033- Polidoro dos Reis Figueiredo | Lei nº 380, de 10 de abril de 1954 |
+| 034- Religiosas da Congregação das Filhas de Maria Auxiliadora | Lei nº 393, de 23 de julho de 1954 |
+| 035- Eduardo Campos do Amaral | Lei nº 414, de 25 de novembro de 1954 |
+| 036- Rodolfo Henriques | Lei nº 454, de 29 de janeiro de 1955 |
+| 037- Artur de Oliveira | Lei nº 505, de 28 de outubro de 1955 |
+| 038- Religiosas Servas do Santíssimo Sacramento | Lei nº 553, de 31 de julho de 1956 |
+| 039- Domingos Gatti | Lei nº 963, de 18 de dezembro de 1962 |
+| 040- Octacílio Negrão de Lima | Decreto nº 1.040, de 25 de janeiro de 1963 |
+| 041- Religiosas da Congregação Filhas de N. Sra. do Monte Calvário | Lei nº 1.028, de 9 de julho de 1963 |
+| 042- Bombeiros falecidos no cumprimento do dever | Decreto nº 1.122, de 23 de agosto de 1963 |
+| 043- Otávio Goulart Pena | Decreto nº 1.279, de 5 de janeiro de 1965 |
+| 044- Membros da Guarda Civil mortos em serviço | Lei nº 1.669, de 23 de junho de 1969 |
+| 045- Membros da Polícia Civil do Dep. De Invest. mortos em serviço | Lei nº 1.669, de 23 de junho de 1969 |
+| 046- Milton Soares Campos | Decreto nº 2.348, de 12 de abril de 1973 |
+| 047- Benedito Valadares Ribeiro | Decreto nº 2.348, de 12 de abril de 1973 |
+| 048- Pedro Aleixo | Decreto nº 2.736, de 10 de março de 1975 |
 
 ## Observações da CMBH
 

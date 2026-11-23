@@ -66,39 +66,24 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49| |
-
-|da Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA | |
-
-|4001.28.846.0089.3137.319091.500 |5.177.923,72 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339034.500 |5.160.994,84 |
-
-|2302.10.305.0028.2829.339039.500 |89.789,60 |
-
-|2302.10.302.0114.2936.335043.500 |2.728.149,76 |
-
-|2302.10.301.0157.2690.339034.500 |4.772.814,78 |
-
-|2302.10.301.0157.2690.339037.500 |113.520,96 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449051.710 |3.206.089,32 |
-
-|2700.15.451.0062.1230.339193.754 |3.399.575,24 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2900.339193.700 |83.414,07 |
-
-|TOTAL DA SUPLEMENTAÇÃO |24.732.272,29 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 |  |
+| da Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.0089.3137.319091.500 | 5.177.923,72 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339034.500 | 5.160.994,84 |
+| 2302.10.305.0028.2829.339039.500 | 89.789,60 |
+| 2302.10.302.0114.2936.335043.500 | 2.728.149,76 |
+| 2302.10.301.0157.2690.339034.500 | 4.772.814,78 |
+| 2302.10.301.0157.2690.339037.500 | 113.520,96 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449051.710 | 3.206.089,32 |
+| 2700.15.451.0062.1230.339193.754 | 3.399.575,24 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2900.339193.700 | 83.414,07 |
+| TOTAL DA SUPLEMENTAÇÃO | 24.732.272,29 |
 
 ANEXO II
 

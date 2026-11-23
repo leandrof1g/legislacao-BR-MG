@@ -118,4 +118,5 @@ Auditor-Chefe do Município e Corregedor-Chefe, interino
 
 ANEXO ÚNICO DO DECRETO Nº 11.116
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

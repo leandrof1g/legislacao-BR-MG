@@ -56,16 +56,11 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Saúde – FMS –, conforme |
-
-|autorização contida no inciso I do § 1º do art. 43 da Lei Federal|
-
-|nº 4.320, de 17 de março de 1964: |
-
-|R$ |
-
-|2302.10.302.114.2.891.4490.0450 |72.661,15 |
-
-|2302.10.302.114.2.893.3390.0350 |193.899,42 |
-
-|TOTAL DA SUPLEMENTAÇÃO |266.560,57 |
+| I.1 – A favor do Fundo Municipal de Saúde – FMS –, conforme |  |
+| --- | --- |
+| autorização contida no inciso I do § 1º do art. 43 da Lei Federal |  |
+| nº 4.320, de 17 de março de 1964: |  |
+| R$ |  |
+| 2302.10.302.114.2.891.4490.0450 | 72.661,15 |
+| 2302.10.302.114.2.893.3390.0350 | 193.899,42 |
+| TOTAL DA SUPLEMENTAÇÃO | 266.560,57 |

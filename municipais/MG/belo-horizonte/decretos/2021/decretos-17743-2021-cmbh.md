@@ -56,30 +56,21 @@ Secretário Municipal de Planejamento, Orçamento e Gestão
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Saúde – FMS –, conforme |
-
-|autorização contida no caput do art. 4º da Lei nº 11.277, de 28|
-
-|de dezembro de 2020: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0000 |131.897,00 |
-
-|2302.10.302.114.2.893.3390.0000 |4.403.521,32 |
-
-|2302.10.302.203.2.894.3390.0000 |5.424.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |9.959.418,32 |
+| I.1 – A favor do Fundo Municipal de Saúde – FMS –, conforme |  |
+| --- | --- |
+| autorização contida no caput do art. 4º da Lei nº 11.277, de 28 |  |
+| de dezembro de 2020: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0000 | 131.897,00 |
+| 2302.10.302.114.2.893.3390.0000 | 4.403.521,32 |
+| 2302.10.302.203.2.894.3390.0000 | 5.424.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 9.959.418,32 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item |
-
-|I.1 da tabela anterior: |
-
-|R$ |
-
-|1014.08.306.132.2.761.3390.0000 |9.959.418,32 |
-
-|TOTAL DA ANULAÇÃO |9.959.418,32 |
+| II.1 – Em contrapartida às suplementações relacionadas no item |  |
+| --- | --- |
+| I.1 da tabela anterior: |  |
+| R$ |  |
+| 1014.08.306.132.2.761.3390.0000 | 9.959.418,32 |
+| TOTAL DA ANULAÇÃO | 9.959.418,32 |

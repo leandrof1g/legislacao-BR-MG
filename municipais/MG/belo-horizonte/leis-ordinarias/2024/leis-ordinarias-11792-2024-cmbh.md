@@ -96,39 +96,24 @@ V - bares, casas de festas e eventos e casa de shows e espetáculos.”.
 
 12. LIMITE DE ALTIMETRIA
 
-|Situação |Altimetria |Observações |
-
-| |máxima (m) | |
-
-| | |Para terrenos lindeiros à Avenida Otacílio Negrão de |
-
-|ADE Pampulha |9,0 |Lima, a soma dos pés-direitos de todos os níveis não |
-
-| | |pode, em nenhuma parte da edificação, ultrapassar a |
-
-| | |altura de 9,0m. |
-
-| | |Não serão computadas na altura das edificações as |
-
-| | |áreas destinadas a caixa de escadas, casa de |
-
-| | |máquinas, elevador, caixa d’água e barrilete. |
-
-| | |Não são permitidos níveis de subsolo enterrados em |
-
-| | |mais de 3,0m de altura em relação ao terreno natural.|
-
-| | |A restrição de altimetria na ADE Santa Lúcia e na ADE|
-
-|ADE Belvedere, ADE Estoril, |Admitida apenas|São Bento não se aplica aos terrenos com frente para |
-
-|ADE Mangabeiras, ADE Santa |edificação |a Avenida Raja Gabaglia. |
-
-|Lúcia e ADE São Bento. |horizontal |Não serão computadas na altura das edificações as |
-
-| | |áreas destinadas a caixa de escadas, casa de |
-
-| | |máquinas, elevador, caixa d’água e barrilete. |
+| Situação | Altimetria | Observações |
+| --- | --- | --- |
+|  | máxima (m) |  |
+|  |  | Para terrenos lindeiros à Avenida Otacílio Negrão de |
+| ADE Pampulha | 9,0 | Lima, a soma dos pés-direitos de todos os níveis não |
+|  |  | pode, em nenhuma parte da edificação, ultrapassar a |
+|  |  | altura de 9,0m. |
+|  |  | Não serão computadas na altura das edificações as |
+|  |  | áreas destinadas a caixa de escadas, casa de |
+|  |  | máquinas, elevador, caixa d’água e barrilete. |
+|  |  | Não são permitidos níveis de subsolo enterrados em |
+|  |  | mais de 3,0m de altura em relação ao terreno natural. |
+|  |  | A restrição de altimetria na ADE Santa Lúcia e na ADE |
+| ADE Belvedere, ADE Estoril, | Admitida apenas | São Bento não se aplica aos terrenos com frente para |
+| ADE Mangabeiras, ADE Santa | edificação | a Avenida Raja Gabaglia. |
+| Lúcia e ADE São Bento. | horizontal | Não serão computadas na altura das edificações as |
+|  |  | áreas destinadas a caixa de escadas, casa de |
+|  |  | máquinas, elevador, caixa d’água e barrilete. |
 
 **Art. 12** promulgado em 30/12/2024 e publicado em 31/12/2024
 

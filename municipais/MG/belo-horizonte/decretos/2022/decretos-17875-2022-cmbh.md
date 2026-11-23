@@ -52,64 +52,38 @@ Secretário Municipal de Fazenda
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos da PBH, conforme autorização contida no |
-
-|caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2100.06.181.109.2.803.4490.0000 |1.500,00 |
-
-|2805.23.695.086.2.629.3390.0007 |5.000,00 |
-
-|2805.23.695.086.2.900.3390.0007 |3.000,00 |
-
-|1000.08.244.123.2.804.4490.0030 |80.444,00 |
-
-|TOTAL |89.944,00 |
-
-|I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização |
-
-|contida no inciso II do § 1º do art. 4º da Lei nº 11.336, de 30 de dezembro |
-
-|de 2021: |
-
-|R$ |
-
-|2302.10.122.117.1.395.3390.0080 |2.400.000,00 |
-
-|2302.10.122.117.1.395.3391.0080 |600.000,00 |
-
-|TOTAL |3.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |3.089.944,00 |
+| I.1 – A favor de diversos órgãos da PBH, conforme autorização contida no |  |
+| --- | --- |
+| caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2100.06.181.109.2.803.4490.0000 | 1.500,00 |
+| 2805.23.695.086.2.629.3390.0007 | 5.000,00 |
+| 2805.23.695.086.2.900.3390.0007 | 3.000,00 |
+| 1000.08.244.123.2.804.4490.0030 | 80.444,00 |
+| TOTAL | 89.944,00 |
+| I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização |  |
+| contida no inciso II do § 1º do art. 4º da Lei nº 11.336, de 30 de dezembro |  |
+| de 2021: |  |
+| R$ |  |
+| 2302.10.122.117.1.395.3390.0080 | 2.400.000,00 |
+| 2302.10.122.117.1.395.3391.0080 | 600.000,00 |
+| TOTAL | 3.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.089.944,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1 da tabela |
-
-|anterior: |
-
-|R$ |
-
-|1000.14.422.127.2.840.4490.0030 |80.444,00 |
-
-|2100.06.181.109.2.803.3390.0000 |1.500,00 |
-
-|2805.23.695.086.2.900.4490.0007 |8.000,00 |
-
-|TOTAL |89.944,00 |
-
-|II.2 – Em contrapartida às suplementações relacionadas no item I.2 da tabela |
-
-|anterior: |
-
-|R$ |
-
-|2302.10.122.117.1.395.4490.0080 |1.493.387,00 |
-
-|2302.10.126.117.1.395.3390.0080 |1.506.613,00 |
-
-|TOTAL |3.000.000,00 |
-
-|TOTAL DA ANULAÇÃO |3.089.944,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 da tabela |  |
+| --- | --- |
+| anterior: |  |
+| R$ |  |
+| 1000.14.422.127.2.840.4490.0030 | 80.444,00 |
+| 2100.06.181.109.2.803.3390.0000 | 1.500,00 |
+| 2805.23.695.086.2.900.4490.0007 | 8.000,00 |
+| TOTAL | 89.944,00 |
+| II.2 – Em contrapartida às suplementações relacionadas no item I.2 da tabela |  |
+| anterior: |  |
+| R$ |  |
+| 2302.10.122.117.1.395.4490.0080 | 1.493.387,00 |
+| 2302.10.126.117.1.395.3390.0080 | 1.506.613,00 |
+| TOTAL | 3.000.000,00 |
+| TOTAL DA ANULAÇÃO | 3.089.944,00 |

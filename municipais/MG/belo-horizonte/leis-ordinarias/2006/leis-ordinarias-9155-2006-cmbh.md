@@ -324,31 +324,24 @@ Da Secretaria Municipal Adjunta de Direitos de Cidadania" (NR)
 
 (...)
 
-|CARGO PREVISTO NA LEGISLAÇÃO |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|ANTERIOR | | |
-
-| |Controlador-Geral do Município |1 |
-
-| |Contador-Geral do Município |1 |
-
-| |Ouvidor do Município |1 |
-
-|Chefe de Gabinete |Chefe de Gabinete |3 |
-
-|Gerente de 2° Nível |Gerente de 2° Nível |10 |
-
-|Gerente de 3° Nível |Gerente de 3° Nível |10 |
+| CARGO PREVISTO NA LEGISLAÇÃO | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| ANTERIOR |  |  |
+|  | Controlador-Geral do Município | 1 |
+|  | Contador-Geral do Município | 1 |
+|  | Ouvidor do Município | 1 |
+| Chefe de Gabinete | Chefe de Gabinete | 3 |
+| Gerente de 2° Nível | Gerente de 2° Nível | 10 |
+| Gerente de 3° Nível | Gerente de 3° Nível | 10 |
 
 **Art. 36** - O Anexo I da Lei n° 9.011/05 passa a vigorar acrescido do seguinte cargo:
 
 "ANEXO I QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|Chefe da Assessoria de Cerimonial e |Chefe da Assessoria de Cerimonial e Mobilização |1 |
-
-|Mobilização | | |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| Chefe da Assessoria de Cerimonial e | Chefe da Assessoria de Cerimonial e Mobilização | 1 |
+| Mobilização |  |  |
 
 **Art. 37** - O Anexo II da Lei n° 9.011/05 passa a vigorar acrescido dos seguintes cargos:
 
@@ -358,17 +351,13 @@ QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
 (...)
 
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|Controlador-Geral do Município |Conhecimentos específicos |
-
-|Contador-Geral do Município |Habilitação no Conselho Regional de Contabilidade |
-
-|Ouvidor do Município |Conhecimentos específicos |
-
-|Chefe da Assessoria de Cerimonial e |Conhecimentos específicos |
-
-|Mobilização | |
+| CARGO | REQUISITO PARA PROVIMENTO |
+| --- | --- |
+| Controlador-Geral do Município | Conhecimentos específicos |
+| Contador-Geral do Município | Habilitação no Conselho Regional de Contabilidade |
+| Ouvidor do Município | Conhecimentos específicos |
+| Chefe da Assessoria de Cerimonial e | Conhecimentos específicos |
+| Mobilização |  |
 
 **Art. 38** - O § 1º do art. 5º da Lei nº 2.273, de 10 de janeiro de 1974, passa a vigorar com a seguinte redação:
 

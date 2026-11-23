@@ -58,85 +58,50 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da |R$ |
-
-|Lei nº 11.442, de 29 de dezembro de 2022: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.1901.19.572.085.2.605.449052.501 |31.913,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.2500.14.243.127.2.860.339030.500 |60.000,00 |
-
-|1000.2500.14.243.127.2.860.339039.500 |10.000,00 |
-
-|1000.2500.14.243.127.2.860.339037.500 |1.337.581,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.0100.04.122.165.2.816.339039.500 |18.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0200.04.122.233.1.219.449051.500 |60.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.1100.13.391.155.2.375.339039.701 |400.000,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.5300.04.131.015.2.007.339039.500 |10.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |11.917.494,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da | R$ |
+| --- | --- |
+| Lei nº 11.442, de 29 de dezembro de 2022: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.1901.19.572.085.2.605.449052.501 | 31.913,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.2500.14.243.127.2.860.339030.500 | 60.000,00 |
+| 1000.2500.14.243.127.2.860.339039.500 | 10.000,00 |
+| 1000.2500.14.243.127.2.860.339037.500 | 1.337.581,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.0100.04.122.165.2.816.339039.500 | 18.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0200.04.122.233.1.219.449051.500 | 60.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.1100.13.391.155.2.375.339039.701 | 400.000,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.5300.04.131.015.2.007.339039.500 | 10.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 11.917.494,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.1901.19.572.085.2.602.449051.501 |31.913,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.1100.08.244.123.2.804.339039.500 |70.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0200.04.122.233.1.219.339030.500 |60.000,00 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.1100.15.122.057.2.584.449052.500 |567.581,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.0700.16.482.225.1.231.449051.500 |770.000,00 |
-
-|2704.1100.16.482.225.1.231.449051.500 |4.100.000,00 |
-
-|2704.1100.16.482.226.1.207.459061.500 |1.400.000,00 |
-
-|Fundo Municipal de Desenvolvimento Econômico de Belo Horizonte – FUMDEBH |
-
-|2806.1100.19.572.217.2.759.453042.701 |400.000,00 |
-
-|Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |
-
-|3304.1100.26.452.060.2.567.339091.500 |2.000.000,00 |
-
-|3304.1100.26.452.060.2.567.449051.500 |2.500.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.5701.99.999.999.1.000.999999.500 |18.000,00 |
-
-|TOTAL DA ANULAÇÃO |11.917.494,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.1901.19.572.085.2.602.449051.501 | 31.913,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.1100.08.244.123.2.804.339039.500 | 70.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0200.04.122.233.1.219.339030.500 | 60.000,00 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.1100.15.122.057.2.584.449052.500 | 567.581,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.0700.16.482.225.1.231.449051.500 | 770.000,00 |
+| 2704.1100.16.482.225.1.231.449051.500 | 4.100.000,00 |
+| 2704.1100.16.482.226.1.207.459061.500 | 1.400.000,00 |
+| Fundo Municipal de Desenvolvimento Econômico de Belo Horizonte – FUMDEBH |  |
+| 2806.1100.19.572.217.2.759.453042.701 | 400.000,00 |
+| Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3304.1100.26.452.060.2.567.339091.500 | 2.000.000,00 |
+| 3304.1100.26.452.060.2.567.449051.500 | 2.500.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.5701.99.999.999.1.000.999999.500 | 18.000,00 |
+| TOTAL DA ANULAÇÃO | 11.917.494,00 |
 
 ANEXO II
 
@@ -180,24 +145,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.248.081.310,36 |
-
-|Valor do Decreto publicado nesta data |R$ 11.917.494,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.259.998.804,36 |
-
-|Saldo atual de créditos suplementares |R$ 454.168.383,84 |
-
-|Percentual utilizado |73,51% |
-
-|Atualizado em 20/11/2023 às 11:52:45 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.248.081.310,36 |
+| Valor do Decreto publicado nesta data | R$ 11.917.494,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.259.998.804,36 |
+| Saldo atual de créditos suplementares | R$ 454.168.383,84 |
+| Percentual utilizado | 73,51% |
+| Atualizado em 20/11/2023 às 11:52:45 |  |

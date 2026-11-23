@@ -36,9 +36,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|fevereiro |Fevereiro Roxo e Laranja |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| fevereiro | Fevereiro Roxo e Laranja |
 
 .”.
 

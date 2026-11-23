@@ -42,26 +42,17 @@ ANEXO
 
 “ANEXO II DISTRIBUIÇÃO DOS CARGOS EFETIVOS DE ANALISTA DE POLÍTICAS PÚBLICAS, INTEGRANTES DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DA ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE, POR ÁREA DE HABILITAÇÃO PROFISSIONAL:
 
-|ÁREA |Nº DE CARGOS |
-
-|Administração |88 |
-
-|Biblioteconomia |25 |
-
-|Ciências atuariais |01 |
-
-|Ciências contábeis |33 |
-
-|Ciências econômicas |14 |
-
-|Educação física |52 |
-
-|Psicologia |333 |
-
-|Serviço social |416 |
-
-|Outras áreas |81 |
-
-|TOTAL |1.043 |
+| ÁREA | Nº DE CARGOS |
+| --- | --- |
+| Administração | 88 |
+| Biblioteconomia | 25 |
+| Ciências atuariais | 01 |
+| Ciências contábeis | 33 |
+| Ciências econômicas | 14 |
+| Educação física | 52 |
+| Psicologia | 333 |
+| Serviço social | 416 |
+| Outras áreas | 81 |
+| TOTAL | 1.043 |
 
 ”

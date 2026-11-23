@@ -54,7 +54,7 @@ ANEXO ÚNICO
 
 ADE DE SANTA LÚCIA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 -----------------------
 

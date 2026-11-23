@@ -56,39 +56,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida na Lei nº 11.458|R$ |
-
-|de 17 de março de 2023, regulamentada pelo Decreto nº 18.022, de 05 de julho de | |
-
-|2023, e no art. 12 da Lei nº 11.538, de 5 de julho de 2023: | |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.1100.26.452.305.2.910.336045.500 |30.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |30.000.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida na Lei nº 11.458 | R$ |
+| --- | --- |
+| de 17 de março de 2023, regulamentada pelo Decreto nº 18.022, de 05 de julho de |  |
+| 2023, e no art. 12 da Lei nº 11.538, de 5 de julho de 2023: |  |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.1100.26.452.305.2.910.336045.500 | 30.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 30.000.000,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação |R$ |
-
-|de recursos orçamentários anteriormente previstos no seguinte órgão, conforme | |
-
-|Of. EXTERNO GABPRE nº 70/2023: | |
-
-|Câmara Municipal – CM |
-
-|0101.1000.01.031.001.2.001.319011.500 |15.000.000,00 |
-
-|0101.1000.01.031.001.2.001.339037.500 |5.000.000,00 |
-
-|0101.1000.01.031.001.2.001.339039.500 |3.000.000,00 |
-
-|0101.1000.01.031.001.2.001.339040.500 |6.000.000,00 |
-
-|0101.1000.01.031.001.2.922.449051.500 |1.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |30.000.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos no seguinte órgão, conforme |  |
+| Of. EXTERNO GABPRE nº 70/2023: |  |
+| Câmara Municipal – CM |  |
+| 0101.1000.01.031.001.2.001.319011.500 | 15.000.000,00 |
+| 0101.1000.01.031.001.2.001.339037.500 | 5.000.000,00 |
+| 0101.1000.01.031.001.2.001.339039.500 | 3.000.000,00 |
+| 0101.1000.01.031.001.2.001.339040.500 | 6.000.000,00 |
+| 0101.1000.01.031.001.2.922.449051.500 | 1.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 30.000.000,00 |
 
 ANEXO II
 

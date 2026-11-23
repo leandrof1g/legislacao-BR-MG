@@ -58,17 +58,13 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Créditos adicionais especiais suplementando a seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § 1º |R$ |
-
-|do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no inciso I do parágrafo| |
-
-|único do art. 9º da Lei nº 11.603, de 25 de outubro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.301.157.2.690.319011.605 |181.800,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |181.800,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no inciso I do parágrafo |  |
+| único do art. 9º da Lei nº 11.603, de 25 de outubro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.301.157.2.690.319011.605 | 181.800,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 181.800,00 |
 
 ANEXO II
 

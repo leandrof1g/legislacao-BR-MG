@@ -58,31 +58,23 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei nº |R$ |
-
-|11.802, de 3 de janeiro de 2025: | |
-
-| | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.449052.1.500.000 |95.945,86 |
-
-|3000.27.812.0101.2534.339039.1.500.000 |5.992,62 |
-
-|TOTAL DA SUPLEMENTAÇÃO |101.938,48 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 6º da Lei nº | R$ |
+| --- | --- |
+| 11.802, de 3 de janeiro de 2025: |  |
+|  |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.449052.1.500.000 | 95.945,86 |
+| 3000.27.812.0101.2534.339039.1.500.000 | 5.992,62 |
+| TOTAL DA SUPLEMENTAÇÃO | 101.938,48 |
 
 I.2 – Anulação da seguinte dotação orçamentária a que se refere o art. 2º.
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2545.339039.1.500.000 |101.938,48 |
-
-|TOTAL DA ANULAÇÃO |101.938,48 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.1.500.000 | 101.938,48 |
+| TOTAL DA ANULAÇÃO | 101.938,48 |
 
 ANEXO II
 
@@ -106,24 +98,15 @@ SALDO ATUAL DE CRÉDITO SUPLEMENTAR
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 946.023.865,10 |
-
-|Valor do Decreto publicado nesta data |R$ 101.938,48 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 946.125.803,58 |
-
-|Saldo atual de créditos suplementares |R$ 1.319.254.993,72 |
-
-|Percentual utilizado |41,76% |
-
-|Atualizado em 28/10/2025 às 16:12:32 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 946.023.865,10 |
+| Valor do Decreto publicado nesta data | R$ 101.938,48 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 946.125.803,58 |
+| Saldo atual de créditos suplementares | R$ 1.319.254.993,72 |
+| Percentual utilizado | 41,76% |
+| Atualizado em 28/10/2025 às 16:12:32 |  |

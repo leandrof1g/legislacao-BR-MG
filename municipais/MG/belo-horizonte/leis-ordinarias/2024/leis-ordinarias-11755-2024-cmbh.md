@@ -38,9 +38,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 I - Dias comemorativos de setembro
 
-|DATA |COMEMORAÇÃO |
-
-|25/9 |DIA DA EDUCAÇÃO CLIMÁTICA |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 25/9 | DIA DA EDUCAÇÃO CLIMÁTICA |
 
 ”.
 

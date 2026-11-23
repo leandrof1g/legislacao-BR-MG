@@ -58,53 +58,34 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei |R$ |
-
-|nº 11.594, de 22 de setembro de 2023 e no art. 7º da Lei nº 11.644, de 29 de dezembro | |
-
-|de 2023: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2927.339039.500 |1.740,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339037.500 |2.900,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2539.339039.500 |25.245,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2854.339039.500 |22.700,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2934.339039.500 |225.061,00 |
-
-|Fundo de Mobilidade Urbana – FMU |
-
-|3303.26.452.0060.2837.339039.500 |42.670,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |320.316,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei | R$ |
+| --- | --- |
+| nº 11.594, de 22 de setembro de 2023 e no art. 7º da Lei nº 11.644, de 29 de dezembro |  |
+| de 2023: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2927.339039.500 | 1.740,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339037.500 | 2.900,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2539.339039.500 | 25.245,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2854.339039.500 | 22.700,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2934.339039.500 | 225.061,00 |
+| Fundo de Mobilidade Urbana – FMU |  |
+| 3303.26.452.0060.2837.339039.500 | 42.670,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 320.316,00 |
 
 I.2 – Anulação da dotação orçamentária a que se refere o art. 2º:
 
-|I.1.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|emendas previstas inicialmente no órgão relacionado abaixo, conforme autorização | |
-
-|contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023 e no art. 7º da Lei nº | |
-
-|11.644, de 29 de dezembro de 2023: | |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.339039.500 |320.316,00 |
-
-|TOTAL DA ANULAÇÃO |320.316,00 |
+| I.1.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| emendas previstas inicialmente no órgão relacionado abaixo, conforme autorização |  |
+| contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023 e no art. 7º da Lei nº |  |
+| 11.644, de 29 de dezembro de 2023: |  |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.339039.500 | 320.316,00 |
+| TOTAL DA ANULAÇÃO | 320.316,00 |
 
 ANEXO II
 
@@ -144,22 +125,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no artigo 20 da Lei nº 11.594, de 22 de setembro de 2023 e no art. 7º Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 170.400.546,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 7.266.775,00 |
-
-|Valor do Decreto publicado nesta data |R$ 320.316,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 7.587.091,00 |
-
-|Saldo atual de créditos suplementares |R$ 162.813.455,00 |
-
-|Percentual utilizado |4,45% |
-
-|Atualizado em 25/03/2024 às 11:19:13 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 170.400.546,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 7.266.775,00 |
+| Valor do Decreto publicado nesta data | R$ 320.316,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 7.587.091,00 |
+| Saldo atual de créditos suplementares | R$ 162.813.455,00 |
+| Percentual utilizado | 4,45% |
+| Atualizado em 25/03/2024 às 11:19:13 |  |

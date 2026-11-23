@@ -2892,31 +2892,23 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DE CHEFIA
 
 I.1 - Recrutamento Amplo
 
-|Código |Denominação |Vagas |Nível |
-
-|CMPC01 |Auditor |1 |8 |
-
-|CMPC02 |Diretor-Geral |1 |8 |
-
-|CMPC03 |Procurador-Geral |1 |8 |
-
-|CMPC04 |Assessor |4 |7 |
-
-|CMPC05 |Coordenador de Comunicação Institucional |1 |7 |
+| Código | Denominação | Vagas | Nível |
+| --- | --- | --- | --- |
+| CMPC01 | Auditor | 1 | 8 |
+| CMPC02 | Diretor-Geral | 1 | 8 |
+| CMPC03 | Procurador-Geral | 1 | 8 |
+| CMPC04 | Assessor | 4 | 7 |
+| CMPC05 | Coordenador de Comunicação Institucional | 1 | 7 |
 
 I.2 - Recrutamento Limitado
 
-|Código |Denominação |Vagas |
-
-|CMPC06 |Diretor |3 |
-
-|CMPC07 |Procurador-Geral Adjunto |1 |
-
-|CMPC08 |Chefe de Divisão |11 |
-
-|CMPC09 |Chefe de Seção |11 |
-
-|CMPC10 |Chefe de Serviço |6 |
+| Código | Denominação | Vagas |
+| --- | --- | --- |
+| CMPC06 | Diretor | 3 |
+| CMPC07 | Procurador-Geral Adjunto | 1 |
+| CMPC08 | Chefe de Divisão | 11 |
+| CMPC09 | Chefe de Seção | 11 |
+| CMPC10 | Chefe de Serviço | 6 |
 
 ANEXO I
 
@@ -2926,75 +2918,53 @@ Anexo I com redação dada pela Lei nº 8.665, de 17/10/2003 (Art. 25)
 
 I.1 - Recrutamento Amplo - Secretaria da Câmara
 
-|CÓDIGO |DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|CMPC01 |Diretor-Geral |1 |9 |
-
-|CMPC02 |Procurador-Geral |1 |9 |
-
-|CMPC03 |Auditor |1 |8 |
-
-|CMPC04 |Chefe de Gabinete da Presidência |1 |8 |
-
-|CMPC05 |Coordenador |3 |7 |
-
-|CMPC06 |Assessor Analista de Dados |1 |7 |
-
-|CMPC07 |Secretário da Presidência |1 |5 |
-
-|CMPC08 |Atendente da Presidência |4 |4 |
-
-|CMPC09 |Agente Legislativo Especial |4 |3 |
+| CÓDIGO | DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- | --- |
+| CMPC01 | Diretor-Geral | 1 | 9 |
+| CMPC02 | Procurador-Geral | 1 | 9 |
+| CMPC03 | Auditor | 1 | 8 |
+| CMPC04 | Chefe de Gabinete da Presidência | 1 | 8 |
+| CMPC05 | Coordenador | 3 | 7 |
+| CMPC06 | Assessor Analista de Dados | 1 | 7 |
+| CMPC07 | Secretário da Presidência | 1 | 5 |
+| CMPC08 | Atendente da Presidência | 4 | 4 |
+| CMPC09 | Agente Legislativo Especial | 4 | 3 |
 
 I.2 - Recrutamento Amplo - Gabinete Parlamentar
 
-|CÓDIGO |DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|CMPC10 |Chefe de Gabinete Parlamentar |37 |8 |
-
-|CMPC11 |Atendente Parlamentar |37 |4 |
-
-|CMPC12 |Auxiliar Legislativo |37 |1 |
-
-|CMPC13 |Assessor Parlamentar |conf. art. 149 |conf. art. 148|
-
-|CÓDIGO |DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|CMPC14 |Assistente Parlamentar |Conf. Art. 149 |Conf. Art. 148 |
+| CÓDIGO | DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- | --- |
+| CMPC10 | Chefe de Gabinete Parlamentar | 37 | 8 |
+| CMPC11 | Atendente Parlamentar | 37 | 4 |
+| CMPC12 | Auxiliar Legislativo | 37 | 1 |
+| CMPC13 | Assessor Parlamentar | conf. art. 149 | conf. art. 148 |
+| CÓDIGO | DENOMINAÇÃO | VAGAS | NÍVEL |
+| CMPC14 | Assistente Parlamentar | Conf. Art. 149 | Conf. Art. 148 |
 
 Item acrescentado pela Lei nº 8.940, de 1º/1/2005 (Art. 5º)
 
 I.2 - Recrutamento Amplo - Gabinete Parlamentar
 
-|CÓDIGO |DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|CMPC10 |Chefe de Gabinete Parlamentar |conf. art. 150 |8 |
-
-|CMPC11 |Atendente Parlamentar |conf. art. 150 |4 |
-
-|CMPC12 |Auxiliar Legislativo |conf. art. 150 |1 |
-
-|CMPC13 |Assessor Parlamentar |conf. art. 149 |conf. art. 148 |
-
-|CMPC14 |Assistente Parlamentar |conf. art. 149 |conf. art. 148 |
+| CÓDIGO | DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- | --- |
+| CMPC10 | Chefe de Gabinete Parlamentar | conf. art. 150 | 8 |
+| CMPC11 | Atendente Parlamentar | conf. art. 150 | 4 |
+| CMPC12 | Auxiliar Legislativo | conf. art. 150 | 1 |
+| CMPC13 | Assessor Parlamentar | conf. art. 149 | conf. art. 148 |
+| CMPC14 | Assistente Parlamentar | conf. art. 149 | conf. art. 148 |
 
 Item 1.2 com redação dada pela Lei nº 9.081. de 21/1/2005 (Art. 1º)
 
 I.3 - Recrutamento Limitado - Secretaria da Câmara
 
-|CÓDIGO |DENOMINAÇÃO |VAGAS |
-
-|CMPC14 |Diretor |3 |
-
-|CMPC15 |Procurador-Geral Adjunto |1 |
-
-|CMPC16 |Chefe de Divisão |12 |
-
-|CMPC17 |Assistente de Diretoria |4 |
-
-|CMPC18 |Chefe de Seção |15 |
-
-|CMPC19 |Chefe de Serviço |5 |
+| CÓDIGO | DENOMINAÇÃO | VAGAS |
+| --- | --- | --- |
+| CMPC14 | Diretor | 3 |
+| CMPC15 | Procurador-Geral Adjunto | 1 |
+| CMPC16 | Chefe de Divisão | 12 |
+| CMPC17 | Assistente de Diretoria | 4 |
+| CMPC18 | Chefe de Seção | 15 |
+| CMPC19 | Chefe de Serviço | 5 |
 
 ANEXO I
 
@@ -3004,131 +2974,73 @@ Anexo I com redação dada pelo Anexo II da Lei nº 10.904, de 11/1/2016 (art. 1
 
 Cargos de Recrutamento Amplo
 
-|DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|Diretor-Geral |1 |9 |
-
-|Procurador-Geral |1 |9 |
-
-|Superintendente de Comunicação Institucional |1 |9 |
-
-|Assessor Técnico Especializado |1 |9 |
-
-|Auditor |1 |8 |
-
-|Cargo extinto pela Lei nº 11.565, de 16/8/2023 (Art. 8º com vigência no art. 14) |
-
-|Chefe de Gabinete da Presidência |1 |8 |
-
-|Chefe do Cerimonial |1 |8 |
-
-|Assistente Técnico Especializado |3 |8 |
-
-|Coordenador |7 8 |8 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.534, de 28/6/2023 (art. 4º c/c art. 3º, I) |
-
-|Assessor Analista de Dados |1 |7 |
-
-|Assistente Técnico |1 |7 |
-
-|Coordenador Adjunto |5 |7 |
-
-|Secretário Executivo |3 |7 |
-
-|Secretário da Presidência |1 |5 |
-
-|Atendente da Presidência |4 |4 |
-
-|Cargo extinto a partir de 1º/5/2026, nos termos da Lei nº 11.990, de 8/4/2026 (Art. 8º, IV c/c arts. |
-
-|10 e 15) |
-
-|Assessor da Presidência |4 |4 |
-
-|Cargo criado a partir de 1º/5/2026, nos termos da Lei nº 11.990, de 8/4/2026 (Art. 1º c/c arts. 10 e |
-
-|15) |
-
-|Agente Legislativo Especial |4 |3 |
+| DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- |
+| Diretor-Geral | 1 | 9 |
+| Procurador-Geral | 1 | 9 |
+| Superintendente de Comunicação Institucional | 1 | 9 |
+| Assessor Técnico Especializado | 1 | 9 |
+| Auditor | 1 | 8 |
+| Cargo extinto pela Lei nº 11.565, de 16/8/2023 (Art. 8º com vigência no art. 14) |  |  |
+| Chefe de Gabinete da Presidência | 1 | 8 |
+| Chefe do Cerimonial | 1 | 8 |
+| Assistente Técnico Especializado | 3 | 8 |
+| Coordenador | 7 8 | 8 |
+| Quantitativo atualizado de acordo com a Lei nº 11.534, de 28/6/2023 (art. 4º c/c art. 3º, I) |  |  |
+| Assessor Analista de Dados | 1 | 7 |
+| Assistente Técnico | 1 | 7 |
+| Coordenador Adjunto | 5 | 7 |
+| Secretário Executivo | 3 | 7 |
+| Secretário da Presidência | 1 | 5 |
+| Atendente da Presidência | 4 | 4 |
+| Cargo extinto a partir de 1º/5/2026, nos termos da Lei nº 11.990, de 8/4/2026 (Art. 8º, IV c/c arts. |  |  |
+| 10 e 15) |  |  |
+| Assessor da Presidência | 4 | 4 |
+| Cargo criado a partir de 1º/5/2026, nos termos da Lei nº 11.990, de 8/4/2026 (Art. 1º c/c arts. 10 e |  |  |
+| 15) |  |  |
+| Agente Legislativo Especial | 4 | 3 |
 
 Cargos de Recrutamento Limitado
 
-|DENOMINAÇÃO |VAGAS |
-
-|Diretor |3 |
-
-|Procurador-Geral Adjunto |1 |
-
-|Controlador-Geral |1 |
-
-|Cargo criado pela Lei nº 11.565, de 16/8/2023 | |
-
-|(Art. 3º c/c art. 9º) | |
-
-|Auditor |1 |
-
-|Cargo criado pela Lei nº 11.565, de 16/8/2023 | |
-
-|(Art. 4º c/c art. 9º) | |
-
-|Ouvidor |1 |
-
-|Cargo criado pela Lei nº 11.565, de 16/8/2023 | |
-
-|(Art. 5º c/c art. 9º) | |
-
-| |1 |
-
-|Ouvidor Administrativo | |
-
-|Cargo criado pela Lei nº 11.565, de 16/8/2023 | |
-
-|(Art. 5º), com redação dada pela Lei nº 11.854, de| |
-
-|22/5/25 (Art. 5º) | |
-
-|Corregedor Administrativo |1 |
-
-|Cargo criado pela Lei nº 11.565, de 16/8/2023 | |
-
-|(Art. 6º c/c art. 9º) | |
-
-|Gerente |2 3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.854, de 22/5/2025 |
-
-|(Art. 27, I, c/c parágrafo único) |
-
-|Chefe de Divisão |13 14 15 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.534, de 28/6/2023 |
-
-|(art. 4º c/c art. 3º, III) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.854, de 22/5/2025 |
-
-|(Art. 27, II, c/c parágrafo único) |
-
-|Assistente de Diretoria |4 |
-
-|Chefe de Seção |34 37 38 40 41 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.231, de 3/4/2020 |
-
-|(art. 10 c/c art. 8º, III) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.534, de 28/6/2023 |
-
-|(art. 4º c/c art. 3º, II) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 |
-
-|(art. 4º, incisos VII, c/c art. 5º) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.854, de 22/5/2025 |
-
-|(Art. 27, III, c/c parágrafo único) |
+| DENOMINAÇÃO | VAGAS |
+| --- | --- |
+| Diretor | 3 |
+| Procurador-Geral Adjunto | 1 |
+| Controlador-Geral | 1 |
+| Cargo criado pela Lei nº 11.565, de 16/8/2023 |  |
+| (Art. 3º c/c art. 9º) |  |
+| Auditor | 1 |
+| Cargo criado pela Lei nº 11.565, de 16/8/2023 |  |
+| (Art. 4º c/c art. 9º) |  |
+| Ouvidor | 1 |
+| Cargo criado pela Lei nº 11.565, de 16/8/2023 |  |
+| (Art. 5º c/c art. 9º) |  |
+|  | 1 |
+| Ouvidor Administrativo |  |
+| Cargo criado pela Lei nº 11.565, de 16/8/2023 |  |
+| (Art. 5º), com redação dada pela Lei nº 11.854, de |  |
+| 22/5/25 (Art. 5º) |  |
+| Corregedor Administrativo | 1 |
+| Cargo criado pela Lei nº 11.565, de 16/8/2023 |  |
+| (Art. 6º c/c art. 9º) |  |
+| Gerente | 2 3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.854, de 22/5/2025 |  |
+| (Art. 27, I, c/c parágrafo único) |  |
+| Chefe de Divisão | 13 14 15 |
+| Quantitativo atualizado de acordo com a Lei nº 11.534, de 28/6/2023 |  |
+| (art. 4º c/c art. 3º, III) |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.854, de 22/5/2025 |  |
+| (Art. 27, II, c/c parágrafo único) |  |
+| Assistente de Diretoria | 4 |
+| Chefe de Seção | 34 37 38 40 41 |
+| Quantitativo atualizado de acordo com a Lei nº 11.231, de 3/4/2020 |  |
+| (art. 10 c/c art. 8º, III) |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.534, de 28/6/2023 |  |
+| (art. 4º c/c art. 3º, II) |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 |  |
+| (art. 4º, incisos VII, c/c art. 5º) |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.854, de 22/5/2025 |  |
+| (Art. 27, III, c/c parágrafo único) |  |
 
 ANEXO I
 
@@ -3136,63 +3048,39 @@ CARGOS COMISSIONADOS
 
 Cargos de Recrutamento Amplo
 
-|DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|Diretor-Geral |1 |9 |
-
-|Procurador-Geral |1 |9 |
-
-|Controlador-Geral |1 |9 |
-
-|Superintendente de Comunicação Institucional |1 |9 |
-
-|Assessor Técnico Especializado |1 |9 |
-
-|Assessor Especialista em Segurança e Inteligência |2 |9 |
-
-|Superintendente de Segurança e Inteligência |1 |9 |
-
-|Chefe de Gabinete da Presidência |1 |8 |
-
-|Chefe do Cerimonial |1 |8 |
-
-|Assistente Técnico Especializado |9 |8 |
-
-|Coordenador |1 |8 |
-
-|Assistente Técnico |7 |7 |
-
-|Secretário Executivo |3 |7 |
-
-|Secretário da Presidência |1 |5 |
-
-|Assessor da Presidência |4 |4 |
-
-|Agente Legislativo Especial |4 |3 |
+| DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- |
+| Diretor-Geral | 1 | 9 |
+| Procurador-Geral | 1 | 9 |
+| Controlador-Geral | 1 | 9 |
+| Superintendente de Comunicação Institucional | 1 | 9 |
+| Assessor Técnico Especializado | 1 | 9 |
+| Assessor Especialista em Segurança e Inteligência | 2 | 9 |
+| Superintendente de Segurança e Inteligência | 1 | 9 |
+| Chefe de Gabinete da Presidência | 1 | 8 |
+| Chefe do Cerimonial | 1 | 8 |
+| Assistente Técnico Especializado | 9 | 8 |
+| Coordenador | 1 | 8 |
+| Assistente Técnico | 7 | 7 |
+| Secretário Executivo | 3 | 7 |
+| Secretário da Presidência | 1 | 5 |
+| Assessor da Presidência | 4 | 4 |
+| Agente Legislativo Especial | 4 | 3 |
 
 Cargos de Recrutamento Limitado
 
-|DENOMINAÇÃO |VAGAS |
-
-|Diretor |3 |
-
-|Diretor-Adjunto |3 |
-
-|Diretor-Geral Adjunto |1 |
-
-|Procurador-Geral Adjunto |1 |
-
-|Auditor |1 |
-
-|Ouvidor Administrativo |1 |
-
-|Corregedor Administrativo |1 |
-
-|Gerente |3 |
-
-|Chefe de Divisão |15 |
-
-|Chefe de Seção |41 |
+| DENOMINAÇÃO | VAGAS |
+| --- | --- |
+| Diretor | 3 |
+| Diretor-Adjunto | 3 |
+| Diretor-Geral Adjunto | 1 |
+| Procurador-Geral Adjunto | 1 |
+| Auditor | 1 |
+| Ouvidor Administrativo | 1 |
+| Corregedor Administrativo | 1 |
+| Gerente | 3 |
+| Chefe de Divisão | 15 |
+| Chefe de Seção | 41 |
 
 Anexo I com redação dada pela lei nº 12.024, de 29/5/2026 (art. 10)
 
@@ -3200,49 +3088,29 @@ ANEXO II
 
 QUADRO DE CARGOS DE PROVIMENTO POR RECRUTAMENTO AMPLO
 
-|Código |Denominação |Vagas |Nível |
-
-|CMRA01 |Auxiliar Legislativo |70 |1 |
-
-|CMRA02 |Artífice |5 |2 |
-
-|CMRA03 |Garçom |2 |2 |
-
-|CMRA04 |Mecânico |7 |2 |
-
-|CMRA05 |Auxiliar de Saúde |4 |2 |
-
-|CMRA06 |Agente de Informática |12 |3 |
-
-|CMRA07 |Desenhista |2 |3 |
-
-|CMRA08 |Fotógrafo |2 |3 |
-
-|CMRA09 |Atendente Legislativo |44 |4 |
-
-|CMRA10 |Secretário da Presidência |4 |5 |
-
-|CMRA11 |Assistente Técnico |4 |6 |
-
-|CMRA12 |Analista de Sistemas |8 |6 |
-
-|CMRA13 |Assistente Social |2 |6 |
-
-|CMRA14 |Dentista |5 |6 |
-
-|CMRA15 |Enfermeiro |2 |6 |
-
-|CMRA16 |Fisioterapeuta |2 |6 |
-
-|CMRA17 |Jornalista |5 |6 |
-
-|CMRA18 |Médico |4 |6 |
-
-|CMRA19 |Secretário de Cerimonial |2 |6 |
-
-|CMRA2O |Chefe de Gabinete |37 |8 |
-
-|CMRA21 |Assessor Parlamentar |- |- |
+| Código | Denominação | Vagas | Nível |
+| --- | --- | --- | --- |
+| CMRA01 | Auxiliar Legislativo | 70 | 1 |
+| CMRA02 | Artífice | 5 | 2 |
+| CMRA03 | Garçom | 2 | 2 |
+| CMRA04 | Mecânico | 7 | 2 |
+| CMRA05 | Auxiliar de Saúde | 4 | 2 |
+| CMRA06 | Agente de Informática | 12 | 3 |
+| CMRA07 | Desenhista | 2 | 3 |
+| CMRA08 | Fotógrafo | 2 | 3 |
+| CMRA09 | Atendente Legislativo | 44 | 4 |
+| CMRA10 | Secretário da Presidência | 4 | 5 |
+| CMRA11 | Assistente Técnico | 4 | 6 |
+| CMRA12 | Analista de Sistemas | 8 | 6 |
+| CMRA13 | Assistente Social | 2 | 6 |
+| CMRA14 | Dentista | 5 | 6 |
+| CMRA15 | Enfermeiro | 2 | 6 |
+| CMRA16 | Fisioterapeuta | 2 | 6 |
+| CMRA17 | Jornalista | 5 | 6 |
+| CMRA18 | Médico | 4 | 6 |
+| CMRA19 | Secretário de Cerimonial | 2 | 6 |
+| CMRA2O | Chefe de Gabinete | 37 | 8 |
+| CMRA21 | Assessor Parlamentar | - | - |
 
 ANEXO II
 
@@ -3250,59 +3118,38 @@ CARGOS DE ASSESSORAMENTO PARLAMENTAR
 
 Anexo II com redação dada pelo Anexo II da Lei nº 10.904, de 11/1/2016 (art. 1º, §6º)
 
-|DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|Chefe de Gabinete Parlamentar |conf. art. 150 |8 |
-
-|Cargo extinto a partir de 1º/5/2026, nos termos da Lei nº 11.990, de 8/4/2026 (Art. 8º, I c/c |
-
-|arts. 10 e 15) |
-
-|Atendente Parlamentar |conf. art. 150 |4 |
-
-|Cargo extinto a partir de 1º/5/2026, nos termos da Lei nº 11.990, de 8/4/2026 (Art. 8º, II c/c |
-
-|arts. 10 e 15) |
-
-|Auxiliar Legislativo |conf. art. 150 |1 |
-
-|Cargo extinto a partir de 1º/5/2026, nos termos da Lei nº 11.990, de 8/4/2026 (Art. 8º, III c/c |
-
-|arts. 10 e 15) |
-
-|Assessor Parlamentar |conf. art. 149 |conf. art. 148 |
+| DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- |
+| Chefe de Gabinete Parlamentar | conf. art. 150 | 8 |
+| Cargo extinto a partir de 1º/5/2026, nos termos da Lei nº 11.990, de 8/4/2026 (Art. 8º, I c/c |  |  |
+| arts. 10 e 15) |  |  |
+| Atendente Parlamentar | conf. art. 150 | 4 |
+| Cargo extinto a partir de 1º/5/2026, nos termos da Lei nº 11.990, de 8/4/2026 (Art. 8º, II c/c |  |  |
+| arts. 10 e 15) |  |  |
+| Auxiliar Legislativo | conf. art. 150 | 1 |
+| Cargo extinto a partir de 1º/5/2026, nos termos da Lei nº 11.990, de 8/4/2026 (Art. 8º, III c/c |  |  |
+| arts. 10 e 15) |  |  |
+| Assessor Parlamentar | conf. art. 149 | conf. art. 148 |
 
 ANEXO III
 
 QUADRO DE CARGOS DE PROVIMENTO EFETIVO
 
-|Código |Denominação |Vagas |Classe |
-
-|CMPE01 |Oficial Legislativo I |- |E.2 |
-
-|CMPE02 |Oficial Legislativo II |- |E.2 |
-
-|CMPE03 |Técnico Legislativo |270 |E.2 |
-
-|CMPE04 |Administrador de Empresas |4 |E.3 |
-
-|CMPE05 |Arquiteto |1 |E.3 |
-
-|CMPE06 |Contador |5 |E.3 |
-
-|CMPE07 |Coordenador do Processo Legislativo |15 |E.3 |
-
-|CMPE08 |Economista |1 |E.3 |
-
-|CMPE09 |Engenheiro Civil |2 |E.3 |
-
-|CMPE10 |Médico |1 |E.3 |
-
-|CMPE11 |Procurador |12 |E.3 |
-
-|CMPE12 |Psicólogo |5 |E.3 |
-
-|CMPE13 |Redator |6 |E.3 |
+| Código | Denominação | Vagas | Classe |
+| --- | --- | --- | --- |
+| CMPE01 | Oficial Legislativo I | - | E.2 |
+| CMPE02 | Oficial Legislativo II | - | E.2 |
+| CMPE03 | Técnico Legislativo | 270 | E.2 |
+| CMPE04 | Administrador de Empresas | 4 | E.3 |
+| CMPE05 | Arquiteto | 1 | E.3 |
+| CMPE06 | Contador | 5 | E.3 |
+| CMPE07 | Coordenador do Processo Legislativo | 15 | E.3 |
+| CMPE08 | Economista | 1 | E.3 |
+| CMPE09 | Engenheiro Civil | 2 | E.3 |
+| CMPE10 | Médico | 1 | E.3 |
+| CMPE11 | Procurador | 12 | E.3 |
+| CMPE12 | Psicólogo | 5 | E.3 |
+| CMPE13 | Redator | 6 | E.3 |
 
 ANEXO III
 
@@ -3310,43 +3157,26 @@ QUADRO DE CARGOS DE PROVIMENTO EFETIVO
 
 Anexo III com redação dada pela Lei nº 8.665, de 17/10/2003 (Art. 21, § 6º)
 
-|CÓDIGO |DENOMINAÇÃO |VAGAS |CLASSE |
-
-|CMPE01 |Oficial Legislativo I |conf. art. 225 |E.2 |
-
-|CMPE02 |Oficial Legislativo II |conf. art. 225 |E.2 |
-
-|CMPE03 |Técnico de Enfermagem |2 |E.2 |
-
-|CMPE04 |Técnico Legislativo |250 |E.2 |
-
-|CMPE05 |Administrador |7 |E.3 |
-
-|CMPE06 |Analista de Tecnologia da Informação |4 |E.3 |
-
-|CMPE07 |Arquiteto |1 |E.3 |
-
-|CMPE08 |Assistente Social |2 |E.3 |
-
-|CMPE09 |Contador |5 |E.3 |
-
-|CMPE10 |Coordenador do Processo Legislativo |15 |E.3 |
-
-|CMPE11 |Economista |1 |E.3 |
-
-|CMPE12 |Enfermeiro do Trabalho |1 |E.3 |
-
-|CMPE13 |Engenheiro Civil |2 |E.3 |
-
-|CMPE14 |Médico Clínico |2 |E.3 |
-
-|CMPE15 |Médico do Trabalho |2 |E.3 |
-
-|CMPE16 |Procurador |12 |E.3 |
-
-|CMPE17 |Psicólogo |5 |E.3 |
-
-|CMPE18 |Redator |8 |E.3 |
+| CÓDIGO | DENOMINAÇÃO | VAGAS | CLASSE |
+| --- | --- | --- | --- |
+| CMPE01 | Oficial Legislativo I | conf. art. 225 | E.2 |
+| CMPE02 | Oficial Legislativo II | conf. art. 225 | E.2 |
+| CMPE03 | Técnico de Enfermagem | 2 | E.2 |
+| CMPE04 | Técnico Legislativo | 250 | E.2 |
+| CMPE05 | Administrador | 7 | E.3 |
+| CMPE06 | Analista de Tecnologia da Informação | 4 | E.3 |
+| CMPE07 | Arquiteto | 1 | E.3 |
+| CMPE08 | Assistente Social | 2 | E.3 |
+| CMPE09 | Contador | 5 | E.3 |
+| CMPE10 | Coordenador do Processo Legislativo | 15 | E.3 |
+| CMPE11 | Economista | 1 | E.3 |
+| CMPE12 | Enfermeiro do Trabalho | 1 | E.3 |
+| CMPE13 | Engenheiro Civil | 2 | E.3 |
+| CMPE14 | Médico Clínico | 2 | E.3 |
+| CMPE15 | Médico do Trabalho | 2 | E.3 |
+| CMPE16 | Procurador | 12 | E.3 |
+| CMPE17 | Psicólogo | 5 | E.3 |
+| CMPE18 | Redator | 8 | E.3 |
 
 ANEXO III
 
@@ -3354,109 +3184,59 @@ CARGOS EFETIVOS
 
 Anexo III com redação dada pelo Anexo II da Lei nº 10.904, de 11/1/2016 (art. 1º, §6º)
 
-|DENOMINAÇÃO |VAGAS |CLASSE |
-
-|Técnico Legislativo I |conf. art. 225 |E2 C2 |
-
-|Técnico Legislativo II |196 212 252 270 |E2 C2 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 2º, inciso V, c/c art. 4º) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 (art. 4º, inciso I, c/c art. 5º) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.903, de 29/9/2025 (art. 1º, inciso I, c/c art. 2º) |
-
-|Técnico de Enfermagem |2 |E2 C2 |
-
-|Técnico de Saúde Bucal |2 |E2 C2 |
-
-|Técnico de Segurança do Trabalho |2 |E2 C2 |
-
-|Administrador |8 7 8 |E3 C3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.340, de 19/1/2022 (art. 1º c/c art. 8º) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.903, de 29/9/2025 (art. 1º, inciso IV, c/c art. 2º) |
-
-|Analista de Controle Interno |6 |E3 C3 |
-
-|Cargo criado pela Lei nº 11.565, de 16/8/2023 (Art. 2º c/c art. 9º) |
-
-|Analista de Tecnologia da Informação |12 13 14 18 26 |E3 C3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.231, de 3/4/2020 (art. 10 c/c art. 8º, inciso I) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.340, de 19/1/2022 (art. 2º c/c art. 8º) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 2º, inciso III, c/c art. 4º) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 (art. 4º, incisos IV e V, c/c art. 5º) |
-
-|Arquiteto |1 |E3 C3 |
-
-|Arquivista |2 |E3 C3 |
-
-|Assistente Social |2 |E3 C3 |
-
-|Consultor Legislativo |16 17 18 |E3 C3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 2º, inciso I, c/c art. 4º) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 (art. 4º, inciso II, c/c art. 5º) |
-
-|Contador |8 9 |E3 C3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 2º, inciso II, c/c art. 4º) |
-
-|Coordenador do Processo Legislativo |18 17 |E3 C3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.231, de 03/04/2020 (art. 10 c/c art. 9º, inciso I) |
-
-|Dentista |2 |E3 C3 |
-
-|Economista |1 0 |E3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 1º, inciso II, c/c art. 4º) |
-
-|Cargo revogado pela Lei nº 11.854, de 22/5/2025 (Art. 28, II, "c") |
-
-|Enfermeiro do Trabalho |1 |E3 C3 |
-
-|Engenheiro Civil | 4 5 |E3 C3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 (art. 4º, inciso III, c/c art. 5º) |
-
-|Jornalista |6 7 12 14 |E3 C3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.231, de 03/04/2020 (art. 10 c/c art. 8º, inciso II) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 2º, inciso IV, c/c art. 4º) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.903, de 29/9/2025 (art. 1º, inciso II, c/c art. 2º) |
-
-|Médico Clínico |3 |E3 C3 |
-
-|Médico do Trabalho |2 |E3 C3 |
-
-|Procurador |12 11 12 |E3 C3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.231, de 03/04/2020 (art. 10 c/c art. 9º, inciso II) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 (art. 4º, incisos VI, c/c art. 5º) |
-
-|Psicólogo |7 6 |E3 C3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 1º, inciso I, c/c art. 4º) |
-
-|Publicitário |2 |E3 C3 |
-
-|Cargo criado pela Lei nº 11.357, de 28/4/2022 (art. 3º) |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 3º c/c art. 4º) |
-
-|Redator |10 11 |E3 C3 |
-
-|Quantitativo atualizado de acordo com a Lei nº 11.903, de 29/9/2025 (art. 1º, inciso III, c/c art. 2º) |
+| DENOMINAÇÃO | VAGAS | CLASSE |
+| --- | --- | --- |
+| Técnico Legislativo I | conf. art. 225 | E2 C2 |
+| Técnico Legislativo II | 196 212 252 270 | E2 C2 |
+| Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 2º, inciso V, c/c art. 4º) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 (art. 4º, inciso I, c/c art. 5º) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.903, de 29/9/2025 (art. 1º, inciso I, c/c art. 2º) |  |  |
+| Técnico de Enfermagem | 2 | E2 C2 |
+| Técnico de Saúde Bucal | 2 | E2 C2 |
+| Técnico de Segurança do Trabalho | 2 | E2 C2 |
+| Administrador | 8 7 8 | E3 C3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.340, de 19/1/2022 (art. 1º c/c art. 8º) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.903, de 29/9/2025 (art. 1º, inciso IV, c/c art. 2º) |  |  |
+| Analista de Controle Interno | 6 | E3 C3 |
+| Cargo criado pela Lei nº 11.565, de 16/8/2023 (Art. 2º c/c art. 9º) |  |  |
+| Analista de Tecnologia da Informação | 12 13 14 18 26 | E3 C3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.231, de 3/4/2020 (art. 10 c/c art. 8º, inciso I) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.340, de 19/1/2022 (art. 2º c/c art. 8º) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 2º, inciso III, c/c art. 4º) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 (art. 4º, incisos IV e V, c/c art. 5º) |  |  |
+| Arquiteto | 1 | E3 C3 |
+| Arquivista | 2 | E3 C3 |
+| Assistente Social | 2 | E3 C3 |
+| Consultor Legislativo | 16 17 18 | E3 C3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 2º, inciso I, c/c art. 4º) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 (art. 4º, inciso II, c/c art. 5º) |  |  |
+| Contador | 8 9 | E3 C3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 2º, inciso II, c/c art. 4º) |  |  |
+| Coordenador do Processo Legislativo | 18 17 | E3 C3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.231, de 03/04/2020 (art. 10 c/c art. 9º, inciso I) |  |  |
+| Dentista | 2 | E3 C3 |
+| Economista | 1 0 | E3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 1º, inciso II, c/c art. 4º) |  |  |
+| Cargo revogado pela Lei nº 11.854, de 22/5/2025 (Art. 28, II, "c") |  |  |
+| Enfermeiro do Trabalho | 1 | E3 C3 |
+| Engenheiro Civil | 4 5 | E3 C3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 (art. 4º, inciso III, c/c art. 5º) |  |  |
+| Jornalista | 6 7 12 14 | E3 C3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.231, de 03/04/2020 (art. 10 c/c art. 8º, inciso II) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 2º, inciso IV, c/c art. 4º) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.903, de 29/9/2025 (art. 1º, inciso II, c/c art. 2º) |  |  |
+| Médico Clínico | 3 | E3 C3 |
+| Médico do Trabalho | 2 | E3 C3 |
+| Procurador | 12 11 12 | E3 C3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.231, de 03/04/2020 (art. 10 c/c art. 9º, inciso II) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.632, de 13/12/2023 (art. 4º, incisos VI, c/c art. 5º) |  |  |
+| Psicólogo | 7 6 | E3 C3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 1º, inciso I, c/c art. 4º) |  |  |
+| Publicitário | 2 | E3 C3 |
+| Cargo criado pela Lei nº 11.357, de 28/4/2022 (art. 3º) |  |  |
+| Quantitativo atualizado de acordo com a Lei nº 11.357, de 28/4/2022 (art. 3º c/c art. 4º) |  |  |
+| Redator | 10 11 | E3 C3 |
+| Quantitativo atualizado de acordo com a Lei nº 11.903, de 29/9/2025 (art. 1º, inciso III, c/c art. 2º) |  |  |
 
 Classes E.2 e E.3 alteradas, respectivamente, para C.2 e C.3 pela Lei nº 12.004 de 4/5//2026 (art. 37)
 

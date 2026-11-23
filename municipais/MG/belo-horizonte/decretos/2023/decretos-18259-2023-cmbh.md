@@ -70,101 +70,55 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º do art. 43 da|R$ |
-
-|Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei nº 11.442, de 29 de dezembro de | |
-
-|2022: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.1800.04.122.166.1.401.449040.754 |1.305.109,00 |
-
-|0600.1800.04.122.302.2.365.449040.754 |325.807,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.2500.14.422.127.2.335.339039.700 |350.640,42 |
-
-|1000.2500.14.422.127.2.335.339039.500 |3.535,35 |
-
-|Fundo Municipal de Defesa Ambiental – FDA |
-
-|2503.1100.18.541.069.2.073.449052.500 |464.755,20 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.1100.15.451.171.1.399.449051.754 |17.794.283,73 |
-
-|Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |
-
-|3102.1100.13.391.155.2.375.339031.500 |150.000,00 |
-
-|3102.1100.13.391.155.2.375.339039.500 |300.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.1100.13.122.146.2.900.449040.501 |90.250,00 |
-
-|3103.1100.13.122.146.2.900.449052.501 |239.750,00 |
-
-|TOTAL |21.024.130,70 |
-
-|I.1.2 – A favor da Secretaria Municipal de Educação – SMED –, conforme autorização contida no inciso|R$ |
-
-|I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, no art. 4º da Lei nº 11.442, | |
-
-|de 29 de dezembro de 2022 e § 3º do art. 25 da Lei Federal nº 14.113, de 25 de dezembro de 2020: | |
-
-|2200.0100.12.361.168.2.080.319011.540 |10.017.100,00 |
-
-|2200.0100.12.365.169.2.542.319011.540 |4.443.500,00 |
-
-|2200.0100.12.365.169.2.542.319113.540 |920.700,00 |
-
-|2200.0200.12.361.168.2.080.319011.540 |3.261.100,00 |
-
-|2200.0200.12.361.168.2.080.319113.540 |613.900,00 |
-
-|2200.0200.12.365.169.2.542.319011.540 |2.395.800,00 |
-
-|2200.0200.12.365.169.2.542.319113.540 |480.900,00 |
-
-|2200.0200.12.366.168.2.080.319011.540 |715.800,00 |
-
-|2200.0300.12.361.168.2.080.319011.540 |4.272.700,00 |
-
-|2200.0300.12.361.168.2.080.319113.540 |819.000,00 |
-
-|2200.0300.12.365.169.2.542.319011.540 |1.607.600,00 |
-
-|2200.0300.12.365.169.2.542.319113.540 |332.300,00 |
-
-|2200.0400.12.361.168.2.080.319011.540 |6.794.100,00 |
-
-|2200.0400.12.361.168.2.080.319113.540 |1.268.200,00 |
-
-|2200.0400.12.365.169.2.542.319011.540 |222.800,00 |
-
-|2200.0500.12.361.168.2.080.319011.540 |574.500,00 |
-
-|2200.0600.12.361.168.2.080.319011.540 |4.619.500,00 |
-
-|2200.0600.12.361.168.2.080.319113.540 |866.300,00 |
-
-|2200.0600.12.365.169.2.542.319011.540 |5.119.700,00 |
-
-|2200.0600.12.365.169.2.542.319113.540 |1.035.000,00 |
-
-|2200.0700.12.361.168.2.080.319011.540 |314.700,00 |
-
-|2200.0800.12.361.168.2.080.319011.540 |351.500,00 |
-
-|2200.0900.12.361.168.2.080.319011.540 |1.064.400,00 |
-
-|TOTAL |52.111.100,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |73.135.230,70 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º do art. 43 da | R$ |
+| --- | --- |
+| Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei nº 11.442, de 29 de dezembro de |  |
+| 2022: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.1800.04.122.166.1.401.449040.754 | 1.305.109,00 |
+| 0600.1800.04.122.302.2.365.449040.754 | 325.807,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.2500.14.422.127.2.335.339039.700 | 350.640,42 |
+| 1000.2500.14.422.127.2.335.339039.500 | 3.535,35 |
+| Fundo Municipal de Defesa Ambiental – FDA |  |
+| 2503.1100.18.541.069.2.073.449052.500 | 464.755,20 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.1100.15.451.171.1.399.449051.754 | 17.794.283,73 |
+| Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |  |
+| 3102.1100.13.391.155.2.375.339031.500 | 150.000,00 |
+| 3102.1100.13.391.155.2.375.339039.500 | 300.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.1100.13.122.146.2.900.449040.501 | 90.250,00 |
+| 3103.1100.13.122.146.2.900.449052.501 | 239.750,00 |
+| TOTAL | 21.024.130,70 |
+| I.1.2 – A favor da Secretaria Municipal de Educação – SMED –, conforme autorização contida no inciso | R$ |
+| I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, no art. 4º da Lei nº 11.442, |  |
+| de 29 de dezembro de 2022 e § 3º do art. 25 da Lei Federal nº 14.113, de 25 de dezembro de 2020: |  |
+| 2200.0100.12.361.168.2.080.319011.540 | 10.017.100,00 |
+| 2200.0100.12.365.169.2.542.319011.540 | 4.443.500,00 |
+| 2200.0100.12.365.169.2.542.319113.540 | 920.700,00 |
+| 2200.0200.12.361.168.2.080.319011.540 | 3.261.100,00 |
+| 2200.0200.12.361.168.2.080.319113.540 | 613.900,00 |
+| 2200.0200.12.365.169.2.542.319011.540 | 2.395.800,00 |
+| 2200.0200.12.365.169.2.542.319113.540 | 480.900,00 |
+| 2200.0200.12.366.168.2.080.319011.540 | 715.800,00 |
+| 2200.0300.12.361.168.2.080.319011.540 | 4.272.700,00 |
+| 2200.0300.12.361.168.2.080.319113.540 | 819.000,00 |
+| 2200.0300.12.365.169.2.542.319011.540 | 1.607.600,00 |
+| 2200.0300.12.365.169.2.542.319113.540 | 332.300,00 |
+| 2200.0400.12.361.168.2.080.319011.540 | 6.794.100,00 |
+| 2200.0400.12.361.168.2.080.319113.540 | 1.268.200,00 |
+| 2200.0400.12.365.169.2.542.319011.540 | 222.800,00 |
+| 2200.0500.12.361.168.2.080.319011.540 | 574.500,00 |
+| 2200.0600.12.361.168.2.080.319011.540 | 4.619.500,00 |
+| 2200.0600.12.361.168.2.080.319113.540 | 866.300,00 |
+| 2200.0600.12.365.169.2.542.319011.540 | 5.119.700,00 |
+| 2200.0600.12.365.169.2.542.319113.540 | 1.035.000,00 |
+| 2200.0700.12.361.168.2.080.319011.540 | 314.700,00 |
+| 2200.0800.12.361.168.2.080.319011.540 | 351.500,00 |
+| 2200.0900.12.361.168.2.080.319011.540 | 1.064.400,00 |
+| TOTAL | 52.111.100,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 73.135.230,70 |
 
 ANEXO II
 
@@ -232,24 +186,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4.º da Lei nº 11.442, de 29/12/2022 – Limite autorizado para abertura de|Art. 4º, limite de 10% do valor |
-
-|créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 123.199.843,52 |
-
-|Valor do Decreto publicado nesta data |R$ 73.135.230,70 |
-
-|Saldo atual de créditos suplementares |R$ 1.517.832.113,98 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 196.335.074,22 |
-
-|Percentual utilizado |11,45% |
-
-|Atualizado em 27/02/2023 às 15:11:07 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4.º da Lei nº 11.442, de 29/12/2022 – Limite autorizado para abertura de | Art. 4º, limite de 10% do valor |
+| créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 123.199.843,52 |
+| Valor do Decreto publicado nesta data | R$ 73.135.230,70 |
+| Saldo atual de créditos suplementares | R$ 1.517.832.113,98 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 196.335.074,22 |
+| Percentual utilizado | 11,45% |
+| Atualizado em 27/02/2023 às 15:11:07 |  |

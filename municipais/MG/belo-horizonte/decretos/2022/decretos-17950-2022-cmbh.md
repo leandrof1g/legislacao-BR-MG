@@ -48,58 +48,33 @@ ANEXO
 
 IV.21 – Hospital Metropolitano Odilon Behrens – HOB:
 
-|HOB |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |15 |HOBE.DAM1.L.001 a HOBE.DAM1.L.015 |
-
-| |AMPLO |0 |- |
-
-|DAM-2 |LIMITADO |1 |HOBE.DAM2.L.001 |
-
-| |AMPLO |3 |HOBE.DAM2.A.001 a HOBE.DAM2.A.003 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |1 |HOBE.DAM3.A.001 |
-
-|DAM-4 |LIMITADO |8 |HOBE.DAM4.L.001 a HOBE.DAM4.L.008 |
-
-| |AMPLO |8 |HOBE.DAM4.A.001 a HOBE.DAM4.A.008 |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-6 |LIMITADO |12 |HOBE.DAM6.L.001 a HOBE.DAM6.L.012 |
-
-| |AMPLO |8 |HOBE.DAM6.A.001 a HOBE.DAM6.A.008 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |56 | |
+| HOB |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 15 | HOBE.DAM1.L.001 a HOBE.DAM1.L.015 |
+|  | AMPLO | 0 | - |
+| DAM-2 | LIMITADO | 1 | HOBE.DAM2.L.001 |
+|  | AMPLO | 3 | HOBE.DAM2.A.001 a HOBE.DAM2.A.003 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | HOBE.DAM3.A.001 |
+| DAM-4 | LIMITADO | 8 | HOBE.DAM4.L.001 a HOBE.DAM4.L.008 |
+|  | AMPLO | 8 | HOBE.DAM4.A.001 a HOBE.DAM4.A.008 |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-6 | LIMITADO | 12 | HOBE.DAM6.L.001 a HOBE.DAM6.L.012 |
+|  | AMPLO | 8 | HOBE.DAM6.A.001 a HOBE.DAM6.A.008 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 56 |  |  |
 
 ”

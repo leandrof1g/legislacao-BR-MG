@@ -214,119 +214,95 @@ CCXLI - Lei nº 4.449, de 7 de maio de 1986; CCXLII - Lei nº 6.669, de 28 de ju
 
 A - Dias comemorativos de janeiro:
 
-|DATA |COMEMORAÇÃO |
-
-|Segundo sábado de maio do mês |Dia Municipal dos Grupos de Jovens Cristãos de Belo Horizonte |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Segundo sábado de maio do mês | Dia Municipal dos Grupos de Jovens Cristãos de Belo Horizonte |
 
 [...]
 
 C - Dias comemorativos de março:
 
-|DATA |COMEMORAÇÃO |
-
-|1/3 |Dia Municipal de Conscientização da Neuromielite Óptica |
-
-|5/3 |Dia Municipal da Lagoinha |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 1/3 | Dia Municipal de Conscientização da Neuromielite Óptica |
+| 5/3 | Dia Municipal da Lagoinha |
 
 D - Dias comemorativos de abril:
 
-|DATA |COMEMORAÇÃO |
-
-|30/4 |Dia Municipal do Jazz |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 30/4 | Dia Municipal do Jazz |
 
 E - Dias comemorativos de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|6/5 |Dia Municipal da Síndrome de Edwards |
-
-|10/5 |Dia Municipal de Atenção à Pessoa com Lúpus |
-
-|10/5 |Dia Municipal do Judô |
-
-|12/5 |Dia Municipal da Fibromialgia |
-
-|21/5 |Dia Municipal de Proteção ao Aleitamento Materno |
-
-|26/5 |Dia Municipal do Glaucoma |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 6/5 | Dia Municipal da Síndrome de Edwards |
+| 10/5 | Dia Municipal de Atenção à Pessoa com Lúpus |
+| 10/5 | Dia Municipal do Judô |
+| 12/5 | Dia Municipal da Fibromialgia |
+| 21/5 | Dia Municipal de Proteção ao Aleitamento Materno |
+| 26/5 | Dia Municipal do Glaucoma |
 
 F - Dias comemorativos de junho:
 
-|DATA |COMEMORAÇÃO |
-
-|14/6 |Dia Municipal do Capelão |
-
-|20/6 |Dia Municipal de Luta Contra o Encarceramento da Juventude |
-
-| |Negra |
-
-|23/6 |Dia Municipal do Esporte |
-
-|27/6 |Dia Municipal da Dança Afro |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 14/6 | Dia Municipal do Capelão |
+| 20/6 | Dia Municipal de Luta Contra o Encarceramento da Juventude |
+|  | Negra |
+| 23/6 | Dia Municipal do Esporte |
+| 27/6 | Dia Municipal da Dança Afro |
 
 G - Dias comemorativos de julho:
 
-|JULHO |COMEMORAÇÃO |
-
-|14/7 |Dia Municipal dos Hospitais, das Entidades Filantrópicas e das|
-
-| |Entidades sem Fins Lucrativos que prestam serviço ao Sistema |
-
-| |Único de Saúde - SUS - do Município. |
-
-|29/7 |Dia Municipal de Conscientização sobre a Síndrome de Alopecia |
-
-| |Areata |
+| JULHO | COMEMORAÇÃO |
+| --- | --- |
+| 14/7 | Dia Municipal dos Hospitais, das Entidades Filantrópicas e das |
+|  | Entidades sem Fins Lucrativos que prestam serviço ao Sistema |
+|  | Único de Saúde - SUS - do Município. |
+| 29/7 | Dia Municipal de Conscientização sobre a Síndrome de Alopecia |
+|  | Areata |
 
 H - Dias comemorativos de agosto:
 
-|AGOSTO |COMEMORAÇÃO |
-
-|6/8 |Dia Municipal do Cônsul |
-
-|25/8 |Dia Municipal de Combate à Trombofilia |
-
-|Terceiro domingo de agosto |Dia Municipal do Obreiro Universal |
+| AGOSTO | COMEMORAÇÃO |
+| --- | --- |
+| 6/8 | Dia Municipal do Cônsul |
+| 25/8 | Dia Municipal de Combate à Trombofilia |
+| Terceiro domingo de agosto | Dia Municipal do Obreiro Universal |
 
 I - Dias comemorativos de setembro:
 
-|SETEMBRO |COMEMORAÇÃO |
-
-|21/9 |Dia Municipal de Prevenção à Doença de Alzheimer |
-
-|23/9 |Dia Municipal do Atleta Paralímpico |
+| SETEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 21/9 | Dia Municipal de Prevenção à Doença de Alzheimer |
+| 23/9 | Dia Municipal do Atleta Paralímpico |
 
 J - Dias comemorativos de outubro:
 
-|OUTUBRO |COMEMORAÇÃO |
-
-|1/10 |Dia Municipal do Socorrista do Serviço de Atendimento Móvel de|
-
-| |Urgência - Samu |
-
-|4/10 |Dia Municipal de Proteção aos Animais |
-
-|8/10 |Dia Municipal do Serviço Leonístico |
-
-|31/10 |Dia Municipal da Reforma Protestante |
+| OUTUBRO | COMEMORAÇÃO |
+| --- | --- |
+| 1/10 | Dia Municipal do Socorrista do Serviço de Atendimento Móvel de |
+|  | Urgência - Samu |
+| 4/10 | Dia Municipal de Proteção aos Animais |
+| 8/10 | Dia Municipal do Serviço Leonístico |
+| 31/10 | Dia Municipal da Reforma Protestante |
 
 K - Dias comemorativos de novembro:
 
-|NOVEMBRO |COMEMORAÇÃO |
-
-|12/11 |Dia Municipal de Conscientização sobre a Surdo-Cegueira |
-
-|16/11 |Dia Municipal do Ostomizado |
-
-|17/11 |Dia Municipal da Prematuridade |
+| NOVEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 12/11 | Dia Municipal de Conscientização sobre a Surdo-Cegueira |
+| 16/11 | Dia Municipal do Ostomizado |
+| 17/11 | Dia Municipal da Prematuridade |
 
 L - Dias comemorativos de dezembro:
 
-|DEZEMBRO |COMEMORAÇÃO |
-
-|8/12 |Dia Municipal do Pico Belo Horizonte |
-
-|Segundo domingo de dezembro |Dia Municipal da Bíblia |
+| DEZEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 8/12 | Dia Municipal do Pico Belo Horizonte |
+| Segundo domingo de dezembro | Dia Municipal da Bíblia |
 
 .”
 
@@ -340,83 +316,71 @@ SEMANA COMEMORATIVA
 
 C - Semanas comemorativas de março:
 
-|DATA |COMEMORAÇÃO |
-
-|Segunda semana de março |Semana Municipal de Combate à Importunação Sexual |
-
-|Segunda semana de março |Semana Municipal de Prevenção da Doença Renal Crônica |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Segunda semana de março | Semana Municipal de Combate à Importunação Sexual |
+| Segunda semana de março | Semana Municipal de Prevenção da Doença Renal Crônica |
 
 D - Semanas comemorativas de abril:
 
-|DATA |COMEMORAÇÃO |
-
-|Primeira semana de abril, |Semana Municipal de Prevenção da Depressão |
-
-|coincidindo com o Dia Mundial da | |
-
-|Saúde | |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Primeira semana de abril, | Semana Municipal de Prevenção da Depressão |
+| coincidindo com o Dia Mundial da |  |
+| Saúde |  |
 
 E - Semanas comemorativas de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|Última semana do mês de maio |Semana Municipal do Brincar |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Última semana do mês de maio | Semana Municipal do Brincar |
 
 [...]
 
 G - Semanas comemorativas de julho:
 
-|DATA |COMEMORAÇÃO |
-
-|Última semana de julho |Semana Municipal de Orientação, Prevenção e Luta contra as |
-
-| |Hepatites Virais |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Última semana de julho | Semana Municipal de Orientação, Prevenção e Luta contra as |
+|  | Hepatites Virais |
 
 H - Semanas comemorativas de agosto:
 
-|DATA |COMEMORAÇÃO |
-
-|Primeira semana de agosto |Semana Municipal de Integração e Relacionamento com outros |
-
-| |Países |
-
-|9 a 15 de agosto |Semana Municipal dos Povos Indígenas |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Primeira semana de agosto | Semana Municipal de Integração e Relacionamento com outros |
+|  | Países |
+| 9 a 15 de agosto | Semana Municipal dos Povos Indígenas |
 
 I - Semanas comemorativas de setembro:
 
-|DATA |COMEMORAÇÃO |
-
-|Segunda semana de setembro |Semana Municipal de Prevenção, Conscientização e Combate à |
-
-| |Automutilação |
-
-|Semana do dia 21/9 |Semana Municipal de Conscientização sobre o Uso do Cordão de |
-
-| |Girassol |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Segunda semana de setembro | Semana Municipal de Prevenção, Conscientização e Combate à |
+|  | Automutilação |
+| Semana do dia 21/9 | Semana Municipal de Conscientização sobre o Uso do Cordão de |
+|  | Girassol |
 
 J - Semanas comemorativas de outubro:
 
-|DATA |COMEMORAÇÃO |
-
-|Semana do dia 1º de outubro |Semana Municipal da Conscientização sobre a Menopausa |
-
-|Semana do dia 15 de outubro |Semana Municipal de Conscientização sobre a Síndrome de |
-
-| |Burnout. |
-
-|Terceira semana de outubro |Semana Municipal de Conscientização sobre a Dislexia |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Semana do dia 1º de outubro | Semana Municipal da Conscientização sobre a Menopausa |
+| Semana do dia 15 de outubro | Semana Municipal de Conscientização sobre a Síndrome de |
+|  | Burnout. |
+| Terceira semana de outubro | Semana Municipal de Conscientização sobre a Dislexia |
 
 K - Semanas comemorativas de novembro:
 
-|DATA |COMEMORAÇÃO |
-
-|Semana do dia 17/11 |Semana Municipal da Prematuridade |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Semana do dia 17/11 | Semana Municipal da Prematuridade |
 
 L - Semanas comemorativas de dezembro:
 
-|DATA |COMEMORAÇÃO |
-
-|7 a 14 de dezembro |Semana Municipal de Mobilização para Doação de Medula Óssea |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 7 a 14 de dezembro | Semana Municipal de Mobilização para Doação de Medula Óssea |
 
 .”
 
@@ -426,21 +390,15 @@ L - Semanas comemorativas de dezembro:
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|janeiro |Janeiro Verde - Combate à Meningite |
-
-|abril |Abril Verde - Prevenção de Acidentes e de Doenças do Trabalho |
-
-|agosto |Mês de Prevenção do Glaucoma |
-
-|outubro |Outubro Lilás - Conscientização sobre a Síndrome de Rett |
-
-|novembro |Novembro Roxo - Conscientização sobre o parto prematuro |
-
-|dezembro |Dezembro Verde - Combate aos maus-tratos e ao abandono de |
-
-| |Animais |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| janeiro | Janeiro Verde - Combate à Meningite |
+| abril | Abril Verde - Prevenção de Acidentes e de Doenças do Trabalho |
+| agosto | Mês de Prevenção do Glaucoma |
+| outubro | Outubro Lilás - Conscientização sobre a Síndrome de Rett |
+| novembro | Novembro Roxo - Conscientização sobre o parto prematuro |
+| dezembro | Dezembro Verde - Combate aos maus-tratos e ao abandono de |
+|  | Animais |
 
 .”
 
@@ -450,11 +408,10 @@ MÊS COMEMORATIVO
 
 EVENTO COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|Primeiro dia que anteceder as festividades do Carnaval |Evento Graça Brasil |
-
-|Sem data definida em lei |Virada Esportiva |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Primeiro dia que anteceder as festividades do Carnaval | Evento Graça Brasil |
+| Sem data definida em lei | Virada Esportiva |
 
 .”
 

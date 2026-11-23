@@ -78,13 +78,11 @@ Subseção IV Da Contadoria-Geral do Município
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO |QUANTIDADE DE VAGAS |
-
-| |NESTA LEI | |
-
-|Secretário Municipal de Coordenação |Secretário Municipal |8 |
-
-|Chefe de Gabinete |Chefe de Gabinete |41 |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+|  | NESTA LEI |  |
+| Secretário Municipal de Coordenação | Secretário Municipal | 8 |
+| Chefe de Gabinete | Chefe de Gabinete | 41 |
 
 (NR)".
 

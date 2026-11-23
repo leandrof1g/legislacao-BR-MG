@@ -478,36 +478,21 @@ Secretário Municipal de Administração
 
 ANEXO I A QUE SE REFERE O DECRETO Nº 5314 DE 26 DE MARÇO DE 1986
 
-|GRUPO |DENOMINAÇÃO DOS GRUPOS E DAS CLASSES |CÓDIGOS DAS CLASSES |SÍMBOLO DE VENCIMENTO |REGIME JURÍDICO |COMPOSIÇÃO DAS CLASSES |FORMA DE RECRUTAMENTO |
-
-| | | |OU SALÁRIO | | | |
-
-| | | | | |CARGOS EMPREGOS | |
-
-|I. |ADMINISTRAÇÃO GERAL | | | | | |
-
-|I.1 |PROVIMENTO EM COMISSÃO | | | | | |
-
-| |Assessor II |DA-03 |XX |Estatutário | 03 - |Amplo |
-
-| |Assessor I |DA-04 |XIX |Estatutário | 02 - |Amplo |
-
-| |Assistente II |DA-07 |XVII |Estatutário | 04 - |50% Amplo |
-
-| | | | | | |50% Limitado |
-
-| |Chefe de Seção |DA-14 |XIX |Estatutário | 08 - |Limitado |
-
-| |Chefe de Serviço |DA-15 |XX |Estatutário | 04 - |Limitado |
-
-| |Chefe de Setor |DA-16 |XVIII |Estatutário | 08 - |Limitado |
-
-| |Diretor II |DA-23 |XXI |Estatutário | 03 - |Amplo |
-
-| |Procurador Chefe |DA-43 |XXII |Estatutário | 01 - |Amplo |
-
-| | | | | | | |
-
-|I.2 |PROVIMENTO EFETIVO | | | | | |
-
-| |Procurador Fiscal |NS-28 |XVII |Estatutário | 20 - |Limitado |
+| GRUPO | DENOMINAÇÃO DOS GRUPOS E DAS CLASSES | CÓDIGOS DAS CLASSES | SÍMBOLO DE VENCIMENTO | REGIME JURÍDICO | COMPOSIÇÃO DAS CLASSES | FORMA DE RECRUTAMENTO |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | OU SALÁRIO |  |  |  |
+|  |  |  |  |  | CARGOS EMPREGOS |  |
+| I. | ADMINISTRAÇÃO GERAL |  |  |  |  |  |
+| I.1 | PROVIMENTO EM COMISSÃO |  |  |  |  |  |
+|  | Assessor II | DA-03 | XX | Estatutário | 03 - | Amplo |
+|  | Assessor I | DA-04 | XIX | Estatutário | 02 - | Amplo |
+|  | Assistente II | DA-07 | XVII | Estatutário | 04 - | 50% Amplo |
+|  |  |  |  |  |  | 50% Limitado |
+|  | Chefe de Seção | DA-14 | XIX | Estatutário | 08 - | Limitado |
+|  | Chefe de Serviço | DA-15 | XX | Estatutário | 04 - | Limitado |
+|  | Chefe de Setor | DA-16 | XVIII | Estatutário | 08 - | Limitado |
+|  | Diretor II | DA-23 | XXI | Estatutário | 03 - | Amplo |
+|  | Procurador Chefe | DA-43 | XXII | Estatutário | 01 - | Amplo |
+|  |  |  |  |  |  |  |
+| I.2 | PROVIMENTO EFETIVO |  |  |  |  |  |
+|  | Procurador Fiscal | NS-28 | XVII | Estatutário | 20 - | Limitado |

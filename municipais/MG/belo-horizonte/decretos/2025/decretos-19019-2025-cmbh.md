@@ -60,43 +60,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º |R$ |
-
-|do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei nº | |
-
-|11.742, de 13 de setembro de 2024. | |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.392.0154.2371.449052.2.500.000 |100.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2581.339030.2.500.000 |16.331,13 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.449052.2.500.000 |161.834,20 |
-
-|2302.10.302.0114.2936.449052.2.500.000 |16.883,00 |
-
-|2302.10.302.0117.1216.449052.2.500.000 |319.960,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2930.339039.2.500.000 |300.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.0217.2853.339039.2.500.000 |120.000,00 |
-
-|2800.11.334.0237.2404.339039.2.500.000 |525.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.449052.2.500.000 |21.832,31 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.581.840,64 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei nº |  |
+| 11.742, de 13 de setembro de 2024. |  |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.392.0154.2371.449052.2.500.000 | 100.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2581.339030.2.500.000 | 16.331,13 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.449052.2.500.000 | 161.834,20 |
+| 2302.10.302.0114.2936.449052.2.500.000 | 16.883,00 |
+| 2302.10.302.0117.1216.449052.2.500.000 | 319.960,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2930.339039.2.500.000 | 300.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0217.2853.339039.2.500.000 | 120.000,00 |
+| 2800.11.334.0237.2404.339039.2.500.000 | 525.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.449052.2.500.000 | 21.832,31 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.581.840,64 |
 
 ANEXO II
 

@@ -62,19 +62,18 @@ Lei nº 11.153, de 9/1/2019 (Art. 52)
 
 Termo “ensino médio” alterado para “ensino superior” pela Lei nº 11.153, de 9/1/2019 (Art. 52)
 
-|CARGO PÚBLICO EFETIVO |QUANTITATIVO |
-
-|Fiscal Integrado Fiscal de Controle Urbanístico|600 (seiscentas) vagas |
-
-|e Ambiental | |
+| CARGO PÚBLICO EFETIVO | QUANTITATIVO |
+| --- | --- |
+| Fiscal Integrado Fiscal de Controle Urbanístico | 600 (seiscentas) vagas |
+| e Ambiental |  |
 
 Denominação “Fiscal Integrado” alterada para “Fiscal de Controle Urbanístico e Ambiental” pela
 
 Lei nº 11.153, de 9/1/2019 (Art. 52)
 
-|CARGO PÚBLICO EFETIVO |QUANTITATIVO |
-
-|Fiscal de Controle Urbanístico e Ambiental |364 |
+| CARGO PÚBLICO EFETIVO | QUANTITATIVO |
+| --- | --- |
+| Fiscal de Controle Urbanístico e Ambiental | 364 |
 
 Tabela do § 1º com redação dada pela Lei nº 11.373, de 4/7/2022 (Art. 14)
 
@@ -88,9 +87,9 @@ Lei nº 11.153, de 9/1/2019 (Art. 52)
 
 **§ 1°** - O nível de escolaridade exigido para provimento do cargo público efetivo de Fiscal de Atividades Urbanas e Controle Ambiental é de ensino superior completo, e o seu quantitativo é o seguinte:
 
-|CARGO PÚBLICO EFETIVO |QUANTITATIVO |
-
-|Fiscal de Atividades Urbanas e Controle Ambiental |600 (seiscentas) vagas |
+| CARGO PÚBLICO EFETIVO | QUANTITATIVO |
+| --- | --- |
+| Fiscal de Atividades Urbanas e Controle Ambiental | 600 (seiscentas) vagas |
 
 **§ 2°** - O Fiscal de Atividades Urbanas e Controle Ambiental desenvolverá suas atividades na Secretaria Municipal Adjunta de Fiscalização, nas unidades administrativas dos órgãos e das entidades da Administração Municipal e nos locais onde for designado para o cumprimento de suas atribuições institucionais.
 
@@ -142,13 +141,11 @@ Lei nº 11.153, de 9/1/2019 (Art. 52)
 
 **§ 2º** - A UPFI terá os seguintes valores nas seguintes datas:
 
-|Valor da Unidade Padrão de Fiscalização Integrada - UPFI (em R$) |
-
-|A partir do exercício da opção prevista nos artigos |1º de julho de 2012 |1º de dezembro de 2012 |
-
-|12 e 13 desta Lei | | |
-
-|R$0,37 |R$1,84 |R$3,67 |
+| Valor da Unidade Padrão de Fiscalização Integrada - UPFI (em R$) |  |  |
+| --- | --- | --- |
+| A partir do exercício da opção prevista nos artigos | 1º de julho de 2012 | 1º de dezembro de 2012 |
+| 12 e 13 desta Lei |  |  |
+| R$0,37 | R$1,84 | R$3,67 |
 
 **§ 2º** - A partir de 1º de abril de 2020, o valor da UPFI da GAMPFI será de R$4,46 (quatro reais e quarenta e seis centavos).
 
@@ -436,41 +433,25 @@ DA FISCALIZAÇÃO DE VIAS URBANAS, CONTROLE AMBIENTAL, OBRAS E POSTURAS
 
 **§ 1º** - Exercida a opção prevista no caput deste artigo, e após a incorporação da GEFEG, os vencimentos-base previstos na Tabela do Anexo III do Plano de Carreira da Área de Atividades de Fiscalização da Prefeitura de Belo Horizonte, instituído pela Lei nº 8.691/03, passam a ser os seguintes:
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
-
-|NÍVEL |FISCAL MUNICIPAL DE ATIVIDADES EM VIAS URBANAS, FISCAL MUNICIPAL DE CONTROLE AMBIENTAL,|
-
-| |FISCAL MUNICIPAL DE OBRAS E FISCAL MUNICIPAL DE POSTURAS |
-
-|1 |2.769,99 |
-
-|2 |2.908,49 |
-
-|3 |3.053,91 |
-
-|4 |3.206,61 |
-
-|5 |3.366,94 |
-
-|6 |3.535,29 |
-
-|7 |3.712,05 |
-
-|8 |3.897,65 |
-
-|9 |4.092,54 |
-
-|10 |4.297,16 |
-
-|11 |4.512,02 |
-
-|12 |4.737,62 |
-
-|13 |4.974,50 |
-
-|14 |5.223,23 |
-
-|15 |5.484,39 |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |  |
+| --- | --- |
+| NÍVEL | FISCAL MUNICIPAL DE ATIVIDADES EM VIAS URBANAS, FISCAL MUNICIPAL DE CONTROLE AMBIENTAL, |
+|  | FISCAL MUNICIPAL DE OBRAS E FISCAL MUNICIPAL DE POSTURAS |
+| 1 | 2.769,99 |
+| 2 | 2.908,49 |
+| 3 | 3.053,91 |
+| 4 | 3.206,61 |
+| 5 | 3.366,94 |
+| 6 | 3.535,29 |
+| 7 | 3.712,05 |
+| 8 | 3.897,65 |
+| 9 | 4.092,54 |
+| 10 | 4.297,16 |
+| 11 | 4.512,02 |
+| 12 | 4.737,62 |
+| 13 | 4.974,50 |
+| 14 | 5.223,23 |
+| 15 | 5.484,39 |
 
 **§ 2º** - Aplica-se o disposto neste artigo aos servidores aposentados nos cargos públicos de Fiscal Municipal de Atividades em Vias Urbanas, Fiscal Municipal de Controle Ambiental, Fiscal Municipal de Obras e Fiscal Municipal de Posturas, integrantes do Plano de Carreira da Área de Atividades de Fiscalização, e aos pensionistas cujos benefícios previdenciários sejam oriundos desses cargos públicos, e que façam jus à paridade dos seus proventos e pensões com a remuneração atribuída ao cargo público efetivo do qual derive o benefício previdenciário respectivo, observada a condição de integralidade ou de proporcionalidade que lhes for atribuída por ocasião da concessão do benefício previdenciário inicial, em conformidade com o disposto no art. 40 da Constituição Federal.
 
@@ -490,39 +471,24 @@ DA FISCALIZAÇÃO DE LIMPEZA URBANA
 
 **§ 1º** - Exercida a opção prevista no caput deste artigo, e após a incorporação da PROFLU, os salários-base previstos na Tabela do Anexo III do Plano de Carreira da SLU para o emprego público efetivo de Fiscal de Limpeza Urbana passam a ser os seguintes:
 
-|TABELA DE SALÁRIOS-BASE (Valores em R$) |
-
-|NÍVEL |FISCAL DE LIMPEZA URBANA |
-
-|1 |2.769,99 |
-
-|2 |2.908,49 |
-
-|3 |3.053,91 |
-
-|4 |3.206,61 |
-
-|5 |3.366,94 |
-
-|6 |3.535,29 |
-
-|7 |3.712,05 |
-
-|8 |3.897,65 |
-
-|9 |4.092,54 |
-
-|10 |4.297,16 |
-
-|11 |4.512,02 |
-
-|12 |4.737,62 |
-
-|13 |4.974,50 |
-
-|14 |5.223,23 |
-
-|15 |5.484,39 |
+| TABELA DE SALÁRIOS-BASE (Valores em R$) |  |
+| --- | --- |
+| NÍVEL | FISCAL DE LIMPEZA URBANA |
+| 1 | 2.769,99 |
+| 2 | 2.908,49 |
+| 3 | 3.053,91 |
+| 4 | 3.206,61 |
+| 5 | 3.366,94 |
+| 6 | 3.535,29 |
+| 7 | 3.712,05 |
+| 8 | 3.897,65 |
+| 9 | 4.092,54 |
+| 10 | 4.297,16 |
+| 11 | 4.512,02 |
+| 12 | 4.737,62 |
+| 13 | 4.974,50 |
+| 14 | 5.223,23 |
+| 15 | 5.484,39 |
 
 **§ 2º** - Os empregados públicos efetivos ocupantes dos empregos públicos de Fiscal de Limpeza Urbana, integrantes do Plano de Carreira da SLU, que não exercerem a opção prevista no caput deste artigo, permanecerão fazendo jus à PROFLU e aos seus respectivos salários-base no limite de pontos e nos valores pagos até a data da publicação desta Lei.
 
@@ -586,39 +552,24 @@ III - às demais vantagens pessoais a que faz jus, inclusive as derivadas de seu
 
 **§ 1º** - Exercida a opção prevista no caput deste artigo, e após a incorporação da GEFES, os vencimentos-base previstos na Tabela do Anexo III do Plano de Carreira dos Servidores da Vigilância Sanitária da Prefeitura de Belo Horizonte, instituído pela Lei nº 8.788/04, passam a ser os seguintes:
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
-
-|NÍVEL |FISCAL SANITÁRIO MUNICIPAL |FISCAL SANITÁRIO MUNICIPAL DE NÍVEL SUPERIOR |
-
-|1 |2.769,16 |3.189,27 |
-
-|2 |2.907,62 |3.348,73 |
-
-|3 |3.053,00 |3.516,17 |
-
-|4 |3.205,65 |3.691,98 |
-
-|5 |3.365,93 |3.876,58 |
-
-|6 |3.534,23 |4.070,41 |
-
-|7 |3.710,94 |4.273,93 |
-
-|8 |3.896,49 |4.487,62 |
-
-|9 |4.091,31 |4.712,00 |
-
-|10 |4.295,88 |4.947,60 |
-
-|11 |4.510,67 |5.194,98 |
-
-|12 |4.736,20 |5.454,73 |
-
-|13 |4.973,01 |5.727,47 |
-
-|14 |5.221,66 |6.013,84 |
-
-|15 |5.482,75 |6.314,54 |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |  |  |
+| --- | --- | --- |
+| NÍVEL | FISCAL SANITÁRIO MUNICIPAL | FISCAL SANITÁRIO MUNICIPAL DE NÍVEL SUPERIOR |
+| 1 | 2.769,16 | 3.189,27 |
+| 2 | 2.907,62 | 3.348,73 |
+| 3 | 3.053,00 | 3.516,17 |
+| 4 | 3.205,65 | 3.691,98 |
+| 5 | 3.365,93 | 3.876,58 |
+| 6 | 3.534,23 | 4.070,41 |
+| 7 | 3.710,94 | 4.273,93 |
+| 8 | 3.896,49 | 4.487,62 |
+| 9 | 4.091,31 | 4.712,00 |
+| 10 | 4.295,88 | 4.947,60 |
+| 11 | 4.510,67 | 5.194,98 |
+| 12 | 4.736,20 | 5.454,73 |
+| 13 | 4.973,01 | 5.727,47 |
+| 14 | 5.221,66 | 6.013,84 |
+| 15 | 5.482,75 | 6.314,54 |
 
 **§ 2º** - Aplica-se o disposto neste artigo aos servidores aposentados nos cargos públicos de Fiscal Sanitário Municipal de Nível Superior e Fiscal Sanitário Municipal, integrantes do Plano de Carreira dos Servidores da Vigilância Sanitária, e aos pensionistas cujos benefícios previdenciários sejam oriundos desses cargos públicos e que façam jus à paridade dos seus proventos e pensões com a remuneração atribuída ao cargo público efetivo do qual derive o benefício previdenciário respectivo, observada a condição de integralidade ou de proporcionalidade que lhes for atribuída por ocasião da concessão do benefício previdenciário inicial, em conformidade com o disposto no art. 40 da Constituição Federal.
 
@@ -658,35 +609,22 @@ II - na Junta Integrada de Recursos Fiscais: R$50,00 (cinqüenta reais) por comp
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS E FUNÇÕES ANTERIORES
 
-|CARGO OU FUNÇÃO PÚBLICA PREVISTOS NA LEGISLAÇÃO ANTERIOR|CARGO OU FUNÇÃO PÚBLICA PREVISTOS NESTA LEI |QUANTIDADE DE VAGAS |
-
-|(...) |(...) |(...) |
-
-|Gerente de 1º Nível |Gerente de 1º Nível - C |258 |
-
-|Gerente de 2º Nível |Gerente de 2º Nível |560 |
-
-|Gerente de 3º Nível |Gerente de 3º Nível |312 |
-
-|Assessor I |Assessor I |103 |
-
-|Assessor II |Assessor II |114 |
-
-|Assessor III |Assessor III-C |45 |
-
-|Assessor Jurídico III |Assessor Jurídico III-C |20 |
-
-| | | |
-
-|(...) |(...) |(...) |
-
-| |Secretário da Junta Integrada de Recursos |1 |
-
-| |Fiscais | |
-
-| |Secretário da Junta Integrada de Julgamento |9 |
-
-| |Fiscal | |
+| CARGO OU FUNÇÃO PÚBLICA PREVISTOS NA LEGISLAÇÃO ANTERIOR | CARGO OU FUNÇÃO PÚBLICA PREVISTOS NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| (...) | (...) | (...) |
+| Gerente de 1º Nível | Gerente de 1º Nível - C | 258 |
+| Gerente de 2º Nível | Gerente de 2º Nível | 560 |
+| Gerente de 3º Nível | Gerente de 3º Nível | 312 |
+| Assessor I | Assessor I | 103 |
+| Assessor II | Assessor II | 114 |
+| Assessor III | Assessor III-C | 45 |
+| Assessor Jurídico III | Assessor Jurídico III-C | 20 |
+|  |  |  |
+| (...) | (...) | (...) |
+|  | Secretário da Junta Integrada de Recursos | 1 |
+|  | Fiscais |  |
+|  | Secretário da Junta Integrada de Julgamento | 9 |
+|  | Fiscal |  |
 
 (NR)”
 
@@ -696,13 +634,11 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES PÚBLICAS DE CONFIANÇA 
 
 QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
-|CARGO |REQUISITO PARA PROVIMENTO |
-
-|(...) |(...) |
-
-|Secretário da Junta Integrada de Recursos Fiscais |conhecimentos específicos |
-
-|Secretário da Junta Integrada de Julgamento Fiscal |conhecimentos específicos |
+| CARGO | REQUISITO PARA PROVIMENTO |
+| --- | --- |
+| (...) | (...) |
+| Secretário da Junta Integrada de Recursos Fiscais | conhecimentos específicos |
+| Secretário da Junta Integrada de Julgamento Fiscal | conhecimentos específicos |
 
 (NR)”
 
@@ -712,39 +648,27 @@ QUADRO DE EXIGÊNCIAS PARA PROVIMENTO
 
 PISOS DE REMUNERAÇÃO E GRATIFICAÇÕES DE DEDICAÇÃO EXCLUSIVA DOS CARGOS PÚBLICOS EM COMISSÃO RELACIONADOS NESTE ANEXO V
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |TOTAL |
-
-| | |EXCLUSIVA | |
-
-|(...) |(...) |(...) | |
-
-|Secretário da Junta Integrada|995,28 |995,28 |1.990,56 |
-
-|de Recursos Fiscais | | | |
-
-|Secretário da Junta Integrada|622,05 |622,05 |1.244,10 |
-
-|de Julgamento Fiscal | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | TOTAL |
+| --- | --- | --- | --- |
+|  |  | EXCLUSIVA |  |
+| (...) | (...) | (...) |  |
+| Secretário da Junta Integrada | 995,28 | 995,28 | 1.990,56 |
+| de Recursos Fiscais |  |  |  |
+| Secretário da Junta Integrada | 622,05 | 622,05 | 1.244,10 |
+| de Julgamento Fiscal |  |  |  |
 
 **§ 10** - Os pisos de remuneração e a Gratificação de Dedicação Exclusiva previstos na Tabela do Anexo V da Lei nº 9.011/05 para os cargos públicos em comissão de Secretário da Junta Integrada de Recursos Fiscais e de Secretário da Junta Integrada de Julgamento Fiscal serão pagos nos valores e nas datas previstas na seguinte Tabela:
 
-|CARGO PÚBLICO EM COMISSÃO |1º DE NOVEMBRO DE 2011 OU A PARTIR DA PUBLICAÇÃO DESTA LEI, O QUE |1º DE JULHO DE 2012 |1º DE NOVEMBRO DE 2012 |
-
-| |OCORRER POR ÚLTIMO | | |
-
-| |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO |
-
-| | |EXCLUSIVA | |EXCLUSIVA | |EXCLUSIVA |
-
-|(...) |(...) |(...) |(...) |(...) |(...) |(...) |
-
-|Secretário da Junta Integrada |995,28 |995,28 |1.030,12 |1.030,12 |1.064,95 |1.064,95 |
-
-|de Recursos Fiscais | | | | | | |
-
-|Secretário da Junta Integrada |622,05 |622,05 |643,82 |643,82 |665,59 |665,59 |
-
-|de Julgamento Fiscal | | | | | | |
+| CARGO PÚBLICO EM COMISSÃO | 1º DE NOVEMBRO DE 2011 OU A PARTIR DA PUBLICAÇÃO DESTA LEI, O QUE | 1º DE JULHO DE 2012 | 1º DE NOVEMBRO DE 2012 |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | OCORRER POR ÚLTIMO |  |  |  |  |  |
+|  | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO |
+|  |  | EXCLUSIVA |  | EXCLUSIVA |  | EXCLUSIVA |
+| (...) | (...) | (...) | (...) | (...) | (...) | (...) |
+| Secretário da Junta Integrada | 995,28 | 995,28 | 1.030,12 | 1.030,12 | 1.064,95 | 1.064,95 |
+| de Recursos Fiscais |  |  |  |  |  |  |
+| Secretário da Junta Integrada | 622,05 | 622,05 | 643,82 | 643,82 | 665,59 | 665,59 |
+| de Julgamento Fiscal |  |  |  |  |  |  |
 
 (NR)”
 
@@ -896,73 +820,41 @@ Tabela de Vencimentos-base
 
 a partir do exercício da opção prevista no art. 12 desta lei
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
-
-|NÍVEL |FISCAL INTEGRADO |
-
-| |Fiscal de Atividades Urbanas e Controle |
-
-| |Ambiental |
-
-| |FISCAL DE CONTROLE URBANÍSTICO E |
-
-| |AMBIENTAL |
-
-| | |
-
-| |Denominação “Fiscal Integrado” alterada |
-
-| |para “Fiscal de Atividades Urbanas e |
-
-| |Controle Ambiental” pela Lei nº 10.927, |
-
-| |de 7/6/2016 (Art. 1º), |
-
-| |Lei nº 10.927, de 7/6/2016, declarada |
-
-| |inconstitucional pela ADI nº |
-
-| |1.0000.16.074913-1/000 |
-
-| |Denominação “Fiscal Integrado” alterada |
-
-| |para “Fiscal de Controle Urbanístico e |
-
-| |Ambiental” pela Lei nº 11.153, de |
-
-| |9/1/2019 (Art. 52) |
-
-| | |
-
-|1 |2.769,99 |
-
-|2 |2.908,49 |
-
-|3 |3.053,91 |
-
-|4 |3.206,61 |
-
-|5 |3.366,94 |
-
-|6 |3.535,29 |
-
-|7 |3.712,05 |
-
-|8 |3.897,65 |
-
-|9 |4.092,54 |
-
-|10 |4.297,16 |
-
-|11 |4.512,02 |
-
-|12 |4.737,62 |
-
-|13 |4.974,50 |
-
-|14 |5.223,23 |
-
-|15 |5.484,39 |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |  |
+| --- | --- |
+| NÍVEL | FISCAL INTEGRADO |
+|  | Fiscal de Atividades Urbanas e Controle |
+|  | Ambiental |
+|  | FISCAL DE CONTROLE URBANÍSTICO E |
+|  | AMBIENTAL |
+|  |  |
+|  | Denominação “Fiscal Integrado” alterada |
+|  | para “Fiscal de Atividades Urbanas e |
+|  | Controle Ambiental” pela Lei nº 10.927, |
+|  | de 7/6/2016 (Art. 1º), |
+|  | Lei nº 10.927, de 7/6/2016, declarada |
+|  | inconstitucional pela ADI nº |
+|  | 1.0000.16.074913-1/000 |
+|  | Denominação “Fiscal Integrado” alterada |
+|  | para “Fiscal de Controle Urbanístico e |
+|  | Ambiental” pela Lei nº 11.153, de |
+|  | 9/1/2019 (Art. 52) |
+|  |  |
+| 1 | 2.769,99 |
+| 2 | 2.908,49 |
+| 3 | 3.053,91 |
+| 4 | 3.206,61 |
+| 5 | 3.366,94 |
+| 6 | 3.535,29 |
+| 7 | 3.712,05 |
+| 8 | 3.897,65 |
+| 9 | 4.092,54 |
+| 10 | 4.297,16 |
+| 11 | 4.512,02 |
+| 12 | 4.737,62 |
+| 13 | 4.974,50 |
+| 14 | 5.223,23 |
+| 15 | 5.484,39 |
 
 ANEXO II-B
 
@@ -970,151 +862,84 @@ Tabela de Vencimentos-base
 
 a partir de 1º de dezembro de 2012
 
-|TABELA DE VENCIMENTOS-BASE (Valores em R$) |
-
-|NÍVEL |FISCAL INTEGRADO |
-
-| |Fiscal de Atividades Urbanas |
-
-| |e Controle Ambiental FISCAL |
-
-| |DE CONTROLE URBANÍSTICO E |
-
-| |AMBIENTAL |
-
-| | |
-
-| |Denominação “Fiscal |
-
-| |Integrado” alterada para |
-
-| |“Fiscal de Atividades Urbanas|
-
-| |e Controle Ambiental” pela |
-
-| |Lei nº 10.927, de 7/6/2016 |
-
-| |(Art. 1º), |
-
-| |Lei nº 10.927, de 7/6/2016, |
-
-| |declarada inconstitucional |
-
-| |pela ADI nº |
-
-| |1.0000.16.074913-1/000 |
-
-| |Denominação “Fiscal |
-
-| |Integrado” alterada para |
-
-| |“Fiscal de Controle |
-
-| |Urbanístico e Ambiental” pela|
-
-| |Lei nº 11.153, de 9/1/2019 |
-
-| |(Art. 52) |
-
-|1 |2.869,99 |
-
-|2 |3.013,49 |
-
-|3 |3.164,16 |
-
-|4 |3.322,37 |
-
-|5 |3.488,49 |
-
-|6 |3.662,92 |
-
-|7 |3.846,06 |
-
-|8 |4.038,36 |
-
-|9 |4.240,28 |
-
-|10 |4.452,30 |
-
-|11 |4.674,91 |
-
-|12 |4.908,66 |
-
-|13 |5.154,09 |
-
-|14 |5.411,79 |
-
-|15 |5.682,38 |
+| TABELA DE VENCIMENTOS-BASE (Valores em R$) |  |
+| --- | --- |
+| NÍVEL | FISCAL INTEGRADO |
+|  | Fiscal de Atividades Urbanas |
+|  | e Controle Ambiental FISCAL |
+|  | DE CONTROLE URBANÍSTICO E |
+|  | AMBIENTAL |
+|  |  |
+|  | Denominação “Fiscal |
+|  | Integrado” alterada para |
+|  | “Fiscal de Atividades Urbanas |
+|  | e Controle Ambiental” pela |
+|  | Lei nº 10.927, de 7/6/2016 |
+|  | (Art. 1º), |
+|  | Lei nº 10.927, de 7/6/2016, |
+|  | declarada inconstitucional |
+|  | pela ADI nº |
+|  | 1.0000.16.074913-1/000 |
+|  | Denominação “Fiscal |
+|  | Integrado” alterada para |
+|  | “Fiscal de Controle |
+|  | Urbanístico e Ambiental” pela |
+|  | Lei nº 11.153, de 9/1/2019 |
+|  | (Art. 52) |
+| 1 | 2.869,99 |
+| 2 | 3.013,49 |
+| 3 | 3.164,16 |
+| 4 | 3.322,37 |
+| 5 | 3.488,49 |
+| 6 | 3.662,92 |
+| 7 | 3.846,06 |
+| 8 | 4.038,36 |
+| 9 | 4.240,28 |
+| 10 | 4.452,30 |
+| 11 | 4.674,91 |
+| 12 | 4.908,66 |
+| 13 | 5.154,09 |
+| 14 | 5.411,79 |
+| 15 | 5.682,38 |
 
 ANEXO II
 
 TABELA DE VENCIMENTOS-BASE DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DE FISCALIZAÇÃO INTEGRADA
 
-|CARGO |NÍVEL |
-
-| |
-
-|NÍVEL |FISCAL INTEGRADO |
-
-| |Fiscal de Atividades Urbanas e Controle |
-
-| |Ambiental |
-
-| |FISCAL DE CONTROLE URBANÍSTICO E AMBIENTAL|
-
-| | |
-
-| |Denominação “Fiscal Integrado” alterada |
-
-| |para “Fiscal de Atividades Urbanas e |
-
-| |Controle Ambiental” pela Lei nº 10.927, de|
-
-| |7/6/2016 (Art. 1º), |
-
-| |Lei nº 10.927, de 7/6/2016, declarada |
-
-| |inconstitucional pela ADI nº |
-
-| |1.0000.16.074913-1/000 |
-
-| |Denominação “Fiscal Integrado” alterada |
-
-| |para “Fiscal de Controle Urbanístico e |
-
-| |Ambiental” pela Lei nº 11.153, de 9/1/2019|
-
-| |(Art. 52) |
-
-|1 |2.769,99 |
-
-|2 |2.908,49 |
-
-|3 |3.053,91 |
-
-|4 |3.206,61 |
-
-|5 |3.366,94 |
-
-|6 |3.535,29 |
-
-|7 |3.712,05 |
-
-|8 |3.897,65 |
-
-|9 |4.092,54 |
-
-|10 |4.297,16 |
-
-|11 |4.512,02 |
-
-|12 |4.737,62 |
-
-|13 |4.974,50 |
-
-|14 |5.223,23 |
-
-|15 |5.484,39 |
+| CARGO | NÍVEL |
+| --- | --- |
+|  |  |
+| NÍVEL | FISCAL INTEGRADO |
+|  | Fiscal de Atividades Urbanas e Controle |
+|  | Ambiental |
+|  | FISCAL DE CONTROLE URBANÍSTICO E AMBIENTAL |
+|  |  |
+|  | Denominação “Fiscal Integrado” alterada |
+|  | para “Fiscal de Atividades Urbanas e |
+|  | Controle Ambiental” pela Lei nº 10.927, de |
+|  | 7/6/2016 (Art. 1º), |
+|  | Lei nº 10.927, de 7/6/2016, declarada |
+|  | inconstitucional pela ADI nº |
+|  | 1.0000.16.074913-1/000 |
+|  | Denominação “Fiscal Integrado” alterada |
+|  | para “Fiscal de Controle Urbanístico e |
+|  | Ambiental” pela Lei nº 11.153, de 9/1/2019 |
+|  | (Art. 52) |
+| 1 | 2.769,99 |
+| 2 | 2.908,49 |
+| 3 | 3.053,91 |
+| 4 | 3.206,61 |
+| 5 | 3.366,94 |
+| 6 | 3.535,29 |
+| 7 | 3.712,05 |
+| 8 | 3.897,65 |
+| 9 | 4.092,54 |
+| 10 | 4.297,16 |
+| 11 | 4.512,02 |
+| 12 | 4.737,62 |
+| 13 | 4.974,50 |
+| 14 | 5.223,23 |
+| 15 | 5.484,39 |
 
 ANEXO III-B
 
@@ -1122,77 +947,47 @@ Tabela de Salários-base
 
 a partir de 1º de dezembro de 2012
 
-|TABELA DE SALÁRIOS-BASE (Valores em R$) |
-
-|NÍVEL |FISCAL INTEGRADO |
-
-| |Fiscal de Atividades Urbanas e |
-
-| |Controle Ambiental |
-
-| |FISCAL DE CONTROLE URBANÍSTICO E |
-
-| |AMBIENTAL |
-
-| | |
-
-| |Denominação “Fiscal Integrado” |
-
-| |alterada para “Fiscal de Atividades |
-
-| |Urbanas e Controle Ambiental” pela Lei|
-
-| |nº 10.927, de 7/6/2016 (Art. 1º), |
-
-| |Lei nº 10.927, de 7/6/2016, declarada |
-
-| |inconstitucional pela ADI nº |
-
-| |1.0000.16.074913-1/000 |
-
-| |Denominação “Fiscal Integrado” |
-
-| |alterada para “Fiscal de Controle |
-
-| |Urbanístico e Ambiental” pela Lei nº |
-
-| |11.153, de 9/1/2019 (Art. 52) |
-
-|1 |2.869,99 |
-
-|2 |3.013,49 |
-
-|3 |3.164,16 |
-
-|4 |3.322,37 |
-
-|5 |3.488,49 |
-
-|6 |3.662,92 |
-
-|7 |3.846,06 |
-
-|8 |4.038,36 |
-
-|9 |4.240,28 |
-
-|10 |4.452,30 |
-
-|11 |4.674,91 |
-
-|12 |4.908,66 |
-
-|13 |5.154,09 |
-
-|14 |5.411,79 |
-
-|15 |5.682,38 |
+| TABELA DE SALÁRIOS-BASE (Valores em R$) |  |
+| --- | --- |
+| NÍVEL | FISCAL INTEGRADO |
+|  | Fiscal de Atividades Urbanas e |
+|  | Controle Ambiental |
+|  | FISCAL DE CONTROLE URBANÍSTICO E |
+|  | AMBIENTAL |
+|  |  |
+|  | Denominação “Fiscal Integrado” |
+|  | alterada para “Fiscal de Atividades |
+|  | Urbanas e Controle Ambiental” pela Lei |
+|  | nº 10.927, de 7/6/2016 (Art. 1º), |
+|  | Lei nº 10.927, de 7/6/2016, declarada |
+|  | inconstitucional pela ADI nº |
+|  | 1.0000.16.074913-1/000 |
+|  | Denominação “Fiscal Integrado” |
+|  | alterada para “Fiscal de Controle |
+|  | Urbanístico e Ambiental” pela Lei nº |
+|  | 11.153, de 9/1/2019 (Art. 52) |
+| 1 | 2.869,99 |
+| 2 | 3.013,49 |
+| 3 | 3.164,16 |
+| 4 | 3.322,37 |
+| 5 | 3.488,49 |
+| 6 | 3.662,92 |
+| 7 | 3.846,06 |
+| 8 | 4.038,36 |
+| 9 | 4.240,28 |
+| 10 | 4.452,30 |
+| 11 | 4.674,91 |
+| 12 | 4.908,66 |
+| 13 | 5.154,09 |
+| 14 | 5.411,79 |
+| 15 | 5.682,38 |
 
 ANEXO III
 
 TABELA DE SALÁRIOS-BASE DOS OPTANTES NA FORMA DO ART. 13 DESTA LEI
 
-|CARGO |NÍVEL |
+| CARGO | NÍVEL |
+| --- | --- |
 
 |TRANSITÓRIO |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 |19 |20 | | |T1 |T2 |T3 |T4 | | | | | | | | | | | | | | | | | |FISCAL DE CONTROLE URBANÍSTICO E AMBIENTAL |7.247,34 |7.609,71 |7.990,20 |8.389,71 |8.809,19 |9.249,65 |9.712,13 |10.197,74 |10.707,63 |11.243,01 |11.805,16 |12.395,42 |13.015,19 |13.665,95 |14.349,25 |15.066,71 |15.820,04 |16.611,05 |17.441,60 |18.313,68 | |Anexo III com redação dada pela Lei nº 11.914, de 30/10/2025 (Art. 48 com vigência no art. 124)
 

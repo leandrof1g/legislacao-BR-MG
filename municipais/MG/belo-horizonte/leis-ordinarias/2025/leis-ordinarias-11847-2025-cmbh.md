@@ -36,9 +36,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 E - Dias comemorativos de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|18/5 |Dia do Combate à Pedofilia |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 18/5 | Dia do Combate à Pedofilia |
 
 **Art. 3º** - Esta lei entra em vigor na data de sua publicação.
 

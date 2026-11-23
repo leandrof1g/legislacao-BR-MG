@@ -58,187 +58,101 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|1010.20.608.0308.2121.339040.1.500.000 |4.961,00 |
-
-|1010.08.306.0132.2120.339032.1.500.000 |6.839.557,87 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2819.339046.1.500.000 |2.700,00 |
-
-|1000.08.122.0123.2900.339046.1.500.000 |16.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0109.2802.339046.1.500.000 |13.300,00 |
-
-|2100.06.181.0109.2803.339046.1.500.000 |1.696.000,00 |
-
-|2100.12.361.0109.2803.339046.1.500.000 |32.300,00 |
-
-|2100.06.301.0109.2803.339046.1.500.000 |309.400,00 |
-
-|2100.06.181.0109.2803.339049.1.500.000 |100.607,00 |
-
-|2100.06.301.0109.2803.339049.1.500.000 |14.932,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2308.339046.1.500.000 |9.400,00 |
-
-|1011.08.244.0019.2405.339039.1.660.000 |89.379,00 |
-
-|1011.08.244.0019.2405.339037.1.660.000 |1.002.555,00 |
-
-|1011.08.244.0020.2878.339039.1.500.000 |16.715,00 |
-
-|1011.08.244.0019.2308.339039.1.660.000 |3.304.562,00 |
-
-|1011.08.244.0019.2405.339040.1.660.000 |195.582,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.339037.1.500.000 |390.000,00 |
-
-|3000.27.812.0101.2106.339039.1.500.000 |146.000,00 |
-
-|3000.27.812.0101.2106.339037.1.500.000 |70.000,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0060.2567.339036.1.500.000 |60.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2854.339046.1.500.000 |111.200,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0007.2900.339039.1.500.000 |653.216,50 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.04.122.0007.2900.339039.1.500.000 |227.296,68 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0228.2538.339039.1.500.000 |2.958.894,00 |
-
-|2708.17.512.0046.2900.339039.1.500.000 |1.283.048,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2900.339008.1.500.000 |83.252,00 |
-
-|2805.23.695.0086.2900.339046.1.500.000 |257.694,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.331.0014.2710.339046.1.500.000 |23.101,00 |
-
-|4002.04.331.0014.2710.339049.1.500.000 |133.686,00 |
-
-|TOTAL |20.045.339,05 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 20 da Lei|R$ |
-
-|nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de | |
-
-|dezembro de 2023: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.449052.1.500.000 |23.000,00 |
-
-|3000.27.812.0101.2534.339039.1.500.000 |6.000,00 |
-
-|TOTAL |29.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |20.074.339,05 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.20.608.0308.2121.339040.1.500.000 | 4.961,00 |
+| 1010.08.306.0132.2120.339032.1.500.000 | 6.839.557,87 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2819.339046.1.500.000 | 2.700,00 |
+| 1000.08.122.0123.2900.339046.1.500.000 | 16.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0109.2802.339046.1.500.000 | 13.300,00 |
+| 2100.06.181.0109.2803.339046.1.500.000 | 1.696.000,00 |
+| 2100.12.361.0109.2803.339046.1.500.000 | 32.300,00 |
+| 2100.06.301.0109.2803.339046.1.500.000 | 309.400,00 |
+| 2100.06.181.0109.2803.339049.1.500.000 | 100.607,00 |
+| 2100.06.301.0109.2803.339049.1.500.000 | 14.932,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.339046.1.500.000 | 9.400,00 |
+| 1011.08.244.0019.2405.339039.1.660.000 | 89.379,00 |
+| 1011.08.244.0019.2405.339037.1.660.000 | 1.002.555,00 |
+| 1011.08.244.0020.2878.339039.1.500.000 | 16.715,00 |
+| 1011.08.244.0019.2308.339039.1.660.000 | 3.304.562,00 |
+| 1011.08.244.0019.2405.339040.1.660.000 | 195.582,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.339037.1.500.000 | 390.000,00 |
+| 3000.27.812.0101.2106.339039.1.500.000 | 146.000,00 |
+| 3000.27.812.0101.2106.339037.1.500.000 | 70.000,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0060.2567.339036.1.500.000 | 60.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2854.339046.1.500.000 | 111.200,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0007.2900.339039.1.500.000 | 653.216,50 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.04.122.0007.2900.339039.1.500.000 | 227.296,68 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0228.2538.339039.1.500.000 | 2.958.894,00 |
+| 2708.17.512.0046.2900.339039.1.500.000 | 1.283.048,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2900.339008.1.500.000 | 83.252,00 |
+| 2805.23.695.0086.2900.339046.1.500.000 | 257.694,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.331.0014.2710.339046.1.500.000 | 23.101,00 |
+| 4002.04.331.0014.2710.339049.1.500.000 | 133.686,00 |
+| TOTAL | 20.045.339,05 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 20 da Lei | R$ |
+| nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de |  |
+| dezembro de 2023: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.449052.1.500.000 | 23.000,00 |
+| 3000.27.812.0101.2534.339039.1.500.000 | 6.000,00 |
+| TOTAL | 29.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 20.074.339,05 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação |R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|1010.23.692.0132.2307.339030.1.500.000 |4.961,00 |
-
-|1010.23.692.0132.2307.339039.1.500.000 |6.839.557,87 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.319011.1.500.000 |2.411.426,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2308.319011.1.660.000 |4.307.117,00 |
-
-|1011.08.244.0019.2308.339037.1.660.000 |89.379,00 |
-
-|1011.08.244.0019.2308.339039.1.500.000 |16.715,00 |
-
-|1011.08.244.0113.2327.339048.1.660.000 |7.653,00 |
-
-|1011.08.243.0020.2403.339092.1.660.000 |115.000,00 |
-
-|1011.08.244.0020.2403.339139.1.660.000 |1.066,00 |
-
-|1011.08.244.0113.2916.339039.1.660.000 |55.000,00 |
-
-|1011.08.244.0019.2308.339030.1.660.000 |16.863,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.339039.1.500.000 |142.000,00 |
-
-|3000.27.813.0101.2545.339039.1.500.000 |464.000,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2934.339030.1.500.000 |548.526,00 |
-
-|0201.04.122.0096.2934.339039.1.500.000 |331.987,18 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2539.339039.1.500.000 |4.241.942,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.339036.1.500.000 |340.946,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.122.0007.3010.319094.1.500.000 |111.200,00 |
-
-|TOTAL |20.045.339,05 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação |R$ |
-
-|de emendas previstas inicialmente nos órgãos relacionados abaixo, conforme | |
-
-|autorização contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no | |
-
-|art. 7º Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.339037.1.500.000 |24.000,00 |
-
-|3000.27.812.0101.2534.449052.1.500.000 |5.000,00 |
-
-|TOTAL |29.000,00 |
-
-|TOTAL DA ANULAÇÃO |20.074.339,05 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.23.692.0132.2307.339030.1.500.000 | 4.961,00 |
+| 1010.23.692.0132.2307.339039.1.500.000 | 6.839.557,87 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.319011.1.500.000 | 2.411.426,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.319011.1.660.000 | 4.307.117,00 |
+| 1011.08.244.0019.2308.339037.1.660.000 | 89.379,00 |
+| 1011.08.244.0019.2308.339039.1.500.000 | 16.715,00 |
+| 1011.08.244.0113.2327.339048.1.660.000 | 7.653,00 |
+| 1011.08.243.0020.2403.339092.1.660.000 | 115.000,00 |
+| 1011.08.244.0020.2403.339139.1.660.000 | 1.066,00 |
+| 1011.08.244.0113.2916.339039.1.660.000 | 55.000,00 |
+| 1011.08.244.0019.2308.339030.1.660.000 | 16.863,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.339039.1.500.000 | 142.000,00 |
+| 3000.27.813.0101.2545.339039.1.500.000 | 464.000,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2934.339030.1.500.000 | 548.526,00 |
+| 0201.04.122.0096.2934.339039.1.500.000 | 331.987,18 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2539.339039.1.500.000 | 4.241.942,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.339036.1.500.000 | 340.946,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.122.0007.3010.319094.1.500.000 | 111.200,00 |
+| TOTAL | 20.045.339,05 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação | R$ |
+| de emendas previstas inicialmente nos órgãos relacionados abaixo, conforme |  |
+| autorização contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no |  |
+| art. 7º Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.339037.1.500.000 | 24.000,00 |
+| 3000.27.812.0101.2534.449052.1.500.000 | 5.000,00 |
+| TOTAL | 29.000,00 |
+| TOTAL DA ANULAÇÃO | 20.074.339,05 |
 
 ANEXO II
 
@@ -326,46 +240,29 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 631.991.738,01 |
-
-|Valor do Decreto publicado nesta data |R$ 20.074.339,05 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 652.066.077,06 |
-
-|Saldo atual de créditos suplementares |R$ 1.331.266.695,34 |
-
-|Percentual utilizado |32,88% |
-
-|Atualizado em 26/09/2024 às 14:59:36 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 631.991.738,01 |
+| Valor do Decreto publicado nesta data | R$ 20.074.339,05 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 652.066.077,06 |
+| Saldo atual de créditos suplementares | R$ 1.331.266.695,34 |
+| Percentual utilizado | 32,88% |
+| Atualizado em 26/09/2024 às 14:59:36 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 170.400.546,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 18.561.610,42 |
-
-|Valor do Decreto publicado nesta data |R$ 29.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 18.590.610,42 |
-
-|Saldo atual de créditos suplementares |R$ 151.809.935,58 |
-
-|Percentual utilizado |10,91% |
-
-|Atualizado em 26/09/2024 às 14:59:36 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 170.400.546,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 18.561.610,42 |
+| Valor do Decreto publicado nesta data | R$ 29.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 18.590.610,42 |
+| Saldo atual de créditos suplementares | R$ 151.809.935,58 |
+| Percentual utilizado | 10,91% |
+| Atualizado em 26/09/2024 às 14:59:36 |  |

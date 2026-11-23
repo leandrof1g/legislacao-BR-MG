@@ -34,9 +34,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I I - Dias comemorativos de setembro:
 
-|SETEMBRO |COMEMORAÇÃO |
-
-|1º/9 |Dia do Profissional de Educação Física |
+| SETEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 1º/9 | Dia do Profissional de Educação Física |
 
 .”.
 

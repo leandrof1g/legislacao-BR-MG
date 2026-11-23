@@ -56,38 +56,25 @@ Secretário Municipal de Planejamento, Orçamento e Gestão
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos do Executivo, conforme |
-
-|autorização contida no caput do art. 4º da Lei nº 11.277, de 28 |
-
-|de dezembro de 2020: |
-
-|R$ |
-
-|3200.04.131.015.2.007.3390.0000 |3.000.000,00 |
-
-|2302.10.301.157.2.902.3367.0000 |3.639.000,00 |
-
-|2302.10.301.157.2.902.4567.0000 |4.377.000,00 |
-
-|2302.10.302.203.2.902.3367.0000 |4.956.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |15.972.000,00 |
+| I.1 – A favor de diversos órgãos do Executivo, conforme |  |
+| --- | --- |
+| autorização contida no caput do art. 4º da Lei nº 11.277, de 28 |  |
+| de dezembro de 2020: |  |
+| R$ |  |
+| 3200.04.131.015.2.007.3390.0000 | 3.000.000,00 |
+| 2302.10.301.157.2.902.3367.0000 | 3.639.000,00 |
+| 2302.10.301.157.2.902.4567.0000 | 4.377.000,00 |
+| 2302.10.302.203.2.902.3367.0000 | 4.956.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 15.972.000,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item |
-
-|I.1 da tabela anterior: |
-
-|R$ |
-
-|2100.06.181.109.2.791.3390.0000 |9.294.130,00 |
-
-|3300.15.452.059.2.566.3390.0000 |1.355.084,00 |
-
-|4001.99.999.999.9.999.9999.0000 |1.644.916,00 |
-
-|4002.04.122.014.2.850.3190.0000 |3.677.870,00 |
-
-|TOTAL DA ANULAÇÃO |15.972.000,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item |  |
+| --- | --- |
+| I.1 da tabela anterior: |  |
+| R$ |  |
+| 2100.06.181.109.2.791.3390.0000 | 9.294.130,00 |
+| 3300.15.452.059.2.566.3390.0000 | 1.355.084,00 |
+| 4001.99.999.999.9.999.9999.0000 | 1.644.916,00 |
+| 4002.04.122.014.2.850.3190.0000 | 3.677.870,00 |
+| TOTAL DA ANULAÇÃO | 15.972.000,00 |

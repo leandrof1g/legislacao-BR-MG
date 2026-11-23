@@ -192,7 +192,7 @@ Auxiliar de Gabinete do Secretário 17 01 01 00
 
 * Art. 7º do Decreto nº 1.598, de 29 de dezembro de 1967
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

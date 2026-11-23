@@ -28,11 +28,15 @@ O Prefeito de Belo Horizonte, no uso de suas atribuições legais, e tendo em vi
 
 **Art. 1º** - Fica aprovado o Orçamento do Fundo Municipal de Defesa Ambiental, para o exercício de 1999, estimando a Receita em R$173.394,00 (cento e setenta e três mil, trezentos e noventa e quatro reais), e fixando a Despesa em igual importância.
 
-**Art. 2º** - A Receita será realizada na forma da legislação em vigor, segundo as seguintes estimativas:[pic]Art. 3º - A Despesa será realizada na forma da legislação em vigor, observada a fixação constante do seguinte detalhamento:
+**Art. 2º** - A Receita será realizada na forma da legislação em vigor, segundo as seguintes estimativas:*[imagem no documento original — ver `fonte_texto`]*
+
+Art. 3º - A Despesa será realizada na forma da legislação em vigor, observada a fixação constante do seguinte detalhamento:
 
 a) Despesas por Categorias Econômicas
 
-[pic]b) Despesas por Programas de Trabalho
+*[imagem no documento original — ver `fonte_texto`]*
+
+b) Despesas por Programas de Trabalho
 
 PROGRAMÁTICA/ATIVIDADE/PROJETO/DOTAÇÃO
 

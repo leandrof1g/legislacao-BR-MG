@@ -66,35 +66,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei | |
-
-|nº 11.594, de 22 de setembro de 2023: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.127.2386.339093.500 |3.030,30 |
-
-|1000.14.422.127.2386.339093.700 |648,22 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.169.2542.456782.550 |30.000.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.233.1396.449051.500 |5.000.000,00 |
-
-|2700.15.451.233.1396.449051.704 |7.500.000,00 |
-
-|2700.15.451.233.1396.449051.704 |3.900.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.090.3027.459065.500 |29.999.836,53 |
-
-|TOTAL DA SUPLEMENTAÇÃO |76.403.515,05 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei |  |
+| nº 11.594, de 22 de setembro de 2023: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.127.2386.339093.500 | 3.030,30 |
+| 1000.14.422.127.2386.339093.700 | 648,22 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.169.2542.456782.550 | 30.000.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.233.1396.449051.500 | 5.000.000,00 |
+| 2700.15.451.233.1396.449051.704 | 7.500.000,00 |
+| 2700.15.451.233.1396.449051.704 | 3.900.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.090.3027.459065.500 | 29.999.836,53 |
+| TOTAL DA SUPLEMENTAÇÃO | 76.403.515,05 |
 
 ANEXO II
 

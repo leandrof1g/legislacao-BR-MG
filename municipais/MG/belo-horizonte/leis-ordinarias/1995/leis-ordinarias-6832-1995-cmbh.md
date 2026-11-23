@@ -60,19 +60,14 @@ IX - Supervisor de Alimentação Escolar - 84,00 URVs (oitenta e quatro Unidades
 
 **Art. 6°** - Fica concedido, nos meses de maio e junho de 1994, abono aos servidores e empregados da área de saúde do Município ocupantes dos cargos ou empregos dos níveis VIII a XII da tabela constante do Anexo II da Lei n° 6.206, de 22 de julho de 1992, conforme o seguinte quadro:
 
-|NÍVEL |MESES DE PAGAMENTO DO ABONO (valores em URVs) |
-
-| |MAIO |JUNHO |
-
-|VIII |44,52 URV’s |65,93 URV’s |
-
-|IX |48,70 URV’s |72,12 URV’s |
-
-|X |52,18 URV’s |77,27 URV’s |
-
-|XI |60,00 URV’s |88,85 URV’s |
-
-|XII |69,00 URV’s |102,10 URV’s |
+| NÍVEL | MESES DE PAGAMENTO DO ABONO (valores em URVs) |  |
+| --- | --- | --- |
+|  | MAIO | JUNHO |
+| VIII | 44,52 URV’s | 65,93 URV’s |
+| IX | 48,70 URV’s | 72,12 URV’s |
+| X | 52,18 URV’s | 77,27 URV’s |
+| XI | 60,00 URV’s | 88,85 URV’s |
+| XII | 69,00 URV’s | 102,10 URV’s |
 
 **Parágrafo único** - O abono será estendido, nos mesmos meses e nos mesmos valores, aos aposentados e pensionistas cujos benefícios sejam derivados dos cargos e respectivos níveis relacionados no caput.
 
@@ -80,27 +75,18 @@ IX - Supervisor de Alimentação Escolar - 84,00 URVs (oitenta e quatro Unidades
 
 **Art. 8°** - Fica concedido, nos meses de maio e junho de 1994, abono aos servidores ocupantes de cargo ou emprego dos Subgrupos de Atividades Jurídicas, de Atividades de Administração Geral e de Atividades de Serviços Públicos dos níveis IV a XIII da tabela constante do art. 77 da Lei n° 6.352, de 15 de julho de 1993, conforme o seguinte quadro:
 
-|NÍVEL |VALOR DO ABONO (em URVs) |
-
-|IV |13,85 URVs |
-
-|V |15,25 URVs |
-
-|VI |16,80 URVs |
-
-|VII |18,00 URVs |
-
-|VII |21,16 URVs |
-
-|IX |23,16 URVs |
-
-|X |27,82 URVs |
-
-|XI |44,52 URVs |
-
-|XII |48,70 URVs |
-
-|XIII |52,18 URVs |
+| NÍVEL | VALOR DO ABONO (em URVs) |
+| --- | --- |
+| IV | 13,85 URVs |
+| V | 15,25 URVs |
+| VI | 16,80 URVs |
+| VII | 18,00 URVs |
+| VII | 21,16 URVs |
+| IX | 23,16 URVs |
+| X | 27,82 URVs |
+| XI | 44,52 URVs |
+| XII | 48,70 URVs |
+| XIII | 52,18 URVs |
 
 **§ 1°** - O abono de que trata o caput será pago aos servidores ocupantes dos cargos e empregos do Subgrupo de Atividades Fazendárias, conforme o nível do cargo, exceto àqueles que percebam a gratificação instituída pelo art. 5° da Lei n° 2.165, de 12 de janeiro de 1973, e suas alterações posteriores.
 
@@ -108,49 +94,29 @@ IX - Supervisor de Alimentação Escolar - 84,00 URVs (oitenta e quatro Unidades
 
 **Art. 9°** - Fica concedido, nos meses de maio e junho de 1994, abono aos servidores ocupantes dos cargos do Grupo de Direção, Chefia e Execução e do Grupo de Assessoramento constantes do Anexo I da Lei n° 5.447, de 30 de novembro de 1988, com a redação dada pela Lei n° 6.352, de 15 de julho de 1993, adiante relacionados, nos seguintes valores:
 
-|Encarregado de Serviço |13,11 URVs |
-
-|Auxiliar de Gabinete |15,17 URVs |
-
-|Supervisor de Segurança |22,49 URVs |
-
-|Coordenador de Fiscalização |22,49 URVs |
-
-|Oficial de Gabinete do Prefeito |22,49 URVs |
-
-|Assistente |27,17 URVs |
-
-|Chefe de Setor |27,17 URVs |
-
-|Secretário da Junta de Julgamento Fiscal |27,17 URVs |
-
-|Assessor I |38,76 URVs |
-
-|Chefe de Seção |38,76 URVs |
-
-|Secretário da Junta de Recursos Fiscais |38,76 URVs |
-
-|Assessor II |55,30 URVs |
-
-|Chefe de Serviço |55,30 URVs |
-
-|Assessor Jurídico |55,30 URVs |
-
-|Chefe de Gabinete de Secretário |78,88 URVs |
-
-|Diretor |78,88 URVs |
-
-|Assessor III |78,88 URVs |
-
-|Presidente da Junta de Julgamento Fiscal |78,88 URVs |
-
-|Coordenador de Proteção e Defesa do Consumidor |78,88 URVs |
-
-|Coordenador de Direitos Humanos e Cidadania |78,88 URVs |
-
-|Coord. de Polit. de Rem. e Relações do Trabalho |78,88 URVs |
-
-|Coordenador de Defesa Civil |78,88 URVs |
+| Encarregado de Serviço | 13,11 URVs |
+| --- | --- |
+| Auxiliar de Gabinete | 15,17 URVs |
+| Supervisor de Segurança | 22,49 URVs |
+| Coordenador de Fiscalização | 22,49 URVs |
+| Oficial de Gabinete do Prefeito | 22,49 URVs |
+| Assistente | 27,17 URVs |
+| Chefe de Setor | 27,17 URVs |
+| Secretário da Junta de Julgamento Fiscal | 27,17 URVs |
+| Assessor I | 38,76 URVs |
+| Chefe de Seção | 38,76 URVs |
+| Secretário da Junta de Recursos Fiscais | 38,76 URVs |
+| Assessor II | 55,30 URVs |
+| Chefe de Serviço | 55,30 URVs |
+| Assessor Jurídico | 55,30 URVs |
+| Chefe de Gabinete de Secretário | 78,88 URVs |
+| Diretor | 78,88 URVs |
+| Assessor III | 78,88 URVs |
+| Presidente da Junta de Julgamento Fiscal | 78,88 URVs |
+| Coordenador de Proteção e Defesa do Consumidor | 78,88 URVs |
+| Coordenador de Direitos Humanos e Cidadania | 78,88 URVs |
+| Coord. de Polit. de Rem. e Relações do Trabalho | 78,88 URVs |
+| Coordenador de Defesa Civil | 78,88 URVs |
 
 **Parágrafo único** - O abono será estendido, nos mesmos meses e nos mesmos valores, aos servidores apostilados, aposentados e pensionistas, cujos benefícios sejam derivados dos cargos relacionados no caput.
 
@@ -158,21 +124,15 @@ IX - Supervisor de Alimentação Escolar - 84,00 URVs (oitenta e quatro Unidades
 
 **Art. 11** - A partir de 1° de julho de 1994, os pisos de remuneração dos servidores da área da saúde do Município ocupantes dos cargos ou empregos dos níveis I a VII da tabela constante do Anexo II da Lei n° 6.206, de 22 de julho de 1992, serão acrescidos dos valores constantes do seguinte quadro:
 
-|NÍVEL |VALOR A SER INCORPORADO AO PISO DE REMUNERAÇÃO (EM R$) |
-
-|I |R$ 13,85 |
-
-|II |R$ 15,25 |
-
-|III |R$ 16,80 |
-
-|IV |R$ 18,00 |
-
-|V |R$ 21,16 |
-
-|VI |R$ 23,16 |
-
-|VII |R$ 27,82 |
+| NÍVEL | VALOR A SER INCORPORADO AO PISO DE REMUNERAÇÃO (EM R$) |
+| --- | --- |
+| I | R$ 13,85 |
+| II | R$ 15,25 |
+| III | R$ 16,80 |
+| IV | R$ 18,00 |
+| V | R$ 21,16 |
+| VI | R$ 23,16 |
+| VII | R$ 27,82 |
 
 **Art. 12** - A partir de 1° de julho de 1994, as tabelas de pisos de remuneração dos servidores da Administração Direta, da Beneficência da Prefeitura Municipal de Belo Horizonte - BEPREM -, do Hospital Municipal Odilon Behrens e da Fundação Zoo-Botânica de Belo Horizonte ficam acrescidas do valor do abono pago no mês de junho de 1994, nos moldes fixados nos arts. 6°, 8° e 9° desta Lei, consoante o Anexo II desta Lei.
 
@@ -310,31 +270,24 @@ VIGÊNCIA A PARTIR DE 1° DE MARÇO DE 1994
 
 VENCIMENTOS
 
-|CARGOS |PISOS |NÍVEL |VENCIMENTOS |
-
-| | | |BASE |
-
-| | | |BASE |
-
-| |
+| CARGOS | PISOS | NÍVEL | VENCIMENTOS |
+| --- | --- | --- | --- |
+|  |  |  | BASE |
+|  |  |  | BASE |
+|  |  |  |  |
 
 ANEXO I A QUE SE REFERE O ART. 2°
 
 TABELAS DE PISOS DE REMUNERAÇÃO, VENCIMENTOS E SALÁRIOS - VIGÊNCIA A PARTIR DE 1° DE MARÇO DE 1994
 
-|CARGOS |NÍVEL |VENCIMENTOS |
-
-| | |
-
-| |BASE |
-
-| |BASE |
-
-| |PISOS |BASE |A |
-
-| | | |BASE |
-
-| |
+| CARGOS | NÍVEL | VENCIMENTOS |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  | BASE |  |  |
+|  | BASE |  |  |
+|  | PISOS | BASE | A |
+|  |  |  | BASE |
+|  |  |  |  |
 
 ANEXO II A QUE SE REFERE O ART. 12
 
@@ -342,15 +295,12 @@ TABELAS DE PISOS DE REMUNERAÇÃO, VENCIMENTOS E SALÁRIOS
 
 VIGÊNCIA A PARTIR DE 1° DE JULHO DE 1994
 
-|CARGOS |PISOS |NÍVEL |VENCIMENTOS |
-
-| | | |
-
-| | |
-
-| |PISOS |
-
-| |BASE |
+| CARGOS | PISOS | NÍVEL | VENCIMENTOS |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  | PISOS |  |  |
+|  | BASE |  |  |
 
 |BASE |A |B |C |D |E |F |G |GRATIFICAÇÃO
 

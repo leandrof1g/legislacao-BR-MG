@@ -330,272 +330,147 @@ Secretário Municipal de Arrecadações
 
 ANEXO I
 
-| | | |
-
-| |(DADOS RELATIVOS À FIRMA EMITENTE) | |
-
-| | NOTA FISCAL DE SERVIÇOS | |
-
-| | | |
-
-| | VIA SERIE "A" No 000001 | |
-
-| | IMPOSTO SOBRE SERVIÇOS | |
-
-| | | |
-
-| |(ENDEREÇO DO ESTABELECIMENTO EMITENTE) | |
-
-| |(MUNICÍPIO) (ESTADO) | |
-
-| |INSCRIÇÃO NO CNPJ_____ ________________________________ | |
-
-| |INSCRIÇÃO MUNICIPAL __________________________________ | |
-
-| |NATUREZA DA OPERAÇÃO _______________________________ | |
-
-| |VIA DE TRANSPORTE ____________________________________ | |
-
-| |DATA DA EMISSÃO DA NOTA _____/_____/_____ | |
-
-| |----------------------------------------------------------------------------------------------------------------------------------- | |
-
-| |AO(S) Sr(S) ______________________________________________ INSCRIÇÃO ___________________ | |
-
-| |ENDEREÇO _____________________________________________ Nº ______________ SALA ________ | |
-
-| |NA CIDADE DE __________________________ ESTADO_______ CNPJ Nº ________________________ | |
-
-| |EM _____ DE ________________ DE ______ CONDIÇÕES DE PAGAMENTO _____________________ | |
-
-| |Quantidade |Unid. |DISCRIMINAÇÃO DO SERVIÇO |PREÇO | |
-
-| | | | |Unitário |Total | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | |
-
-| | | | | | |
-
-| | |VALOR TOTAL DA NOTA |R$ |____________ | |
-
-| | |Alíquota do ISSQN |% |____________ | |
-
-| | |Valor do ISSQN |R$ |____________ | |
-
-| |NOME, ENDEREÇO E OS NÚMEROS DE INSCRIÇÃO ESTADUAL E NO CNPJ DO IMPRESSOR DA NOTA, E DATA E A QUALIDADE DE IMPRESSÃO, O NÚMERO DE ORDEM| |
-
-| |DA PRIMEIRA E DA ÚLTIMA NOTA IMPRESSA E RESPECTIVA SÉRIE E SUB-SÉRIE E O NÚMERO DA AUTORIZAÇÃO DE IMPRESSÃO DE DOCUMENTOS FISCAIS. | |
-
-| |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - | |
-
-| |- - - - - - - | |
-
-| |RECEB___ OS SERVIÇOS CONSTANTES DA PRESENTE NOTA-SÉRIE "A" No 000001. | |
-
-| | | |
-
-| |BELO HORIZONTE, ___ de_______ de _____ ________________________ _____________ __________________ | |
-
-| |Nome CPF Assinatura | |
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | (DADOS RELATIVOS À FIRMA EMITENTE) |  |  |  |  |  |  |  |  |
+|  | NOTA FISCAL DE SERVIÇOS |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | VIA SERIE "A" No 000001 |  |  |  |  |  |  |  |  |
+|  | IMPOSTO SOBRE SERVIÇOS |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | (ENDEREÇO DO ESTABELECIMENTO EMITENTE) |  |  |  |  |  |  |  |  |
+|  | (MUNICÍPIO) (ESTADO) |  |  |  |  |  |  |  |  |
+|  | INSCRIÇÃO NO CNPJ_____ ________________________________ |  |  |  |  |  |  |  |  |
+|  | INSCRIÇÃO MUNICIPAL __________________________________ |  |  |  |  |  |  |  |  |
+|  | NATUREZA DA OPERAÇÃO _______________________________ |  |  |  |  |  |  |  |  |
+|  | VIA DE TRANSPORTE ____________________________________ |  |  |  |  |  |  |  |  |
+|  | DATA DA EMISSÃO DA NOTA _____/_____/_____ |  |  |  |  |  |  |  |  |
+|  | ----------------------------------------------------------------------------------------------------------------------------------- |  |  |  |  |  |  |  |  |
+|  | AO(S) Sr(S) ______________________________________________ INSCRIÇÃO ___________________ |  |  |  |  |  |  |  |  |
+|  | ENDEREÇO _____________________________________________ Nº ______________ SALA ________ |  |  |  |  |  |  |  |  |
+|  | NA CIDADE DE __________________________ ESTADO_______ CNPJ Nº ________________________ |  |  |  |  |  |  |  |  |
+|  | EM _____ DE ________________ DE ______ CONDIÇÕES DE PAGAMENTO _____________________ |  |  |  |  |  |  |  |  |
+|  | Quantidade | Unid. | DISCRIMINAÇÃO DO SERVIÇO | PREÇO |  |  |  |  |  |
+|  |  |  |  | Unitário | Total |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  | VALOR TOTAL DA NOTA | R$ | ____________ |  |  |  |  |  |
+|  |  | Alíquota do ISSQN | % | ____________ |  |  |  |  |  |
+|  |  | Valor do ISSQN | R$ | ____________ |  |  |  |  |  |
+|  | NOME, ENDEREÇO E OS NÚMEROS DE INSCRIÇÃO ESTADUAL E NO CNPJ DO IMPRESSOR DA NOTA, E DATA E A QUALIDADE DE IMPRESSÃO, O NÚMERO DE ORDEM |  |  |  |  |  |  |  |  |
+|  | DA PRIMEIRA E DA ÚLTIMA NOTA IMPRESSA E RESPECTIVA SÉRIE E SUB-SÉRIE E O NÚMERO DA AUTORIZAÇÃO DE IMPRESSÃO DE DOCUMENTOS FISCAIS. |  |  |  |  |  |  |  |  |
+|  | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |  |  |  |  |  |  |  |  |
+|  | - - - - - - - |  |  |  |  |  |  |  |  |
+|  | RECEB___ OS SERVIÇOS CONSTANTES DA PRESENTE NOTA-SÉRIE "A" No 000001. |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | BELO HORIZONTE, ___ de_______ de _____ ________________________ _____________ __________________ |  |  |  |  |  |  |  |  |
+|  | Nome CPF Assinatura |  |  |  |  |  |  |  |  |
 
 TAMANHO NÃO INFERIOR A 115 x 117 mm. EM QUALQUER SENTIDO
 
 ANEXO II
 
-| | | |
-
-| |(DADOS RELATIVOS À FIRMA EMITENTE) | |
-
-| | NOTA FISCAL DE SERVIÇOS | |
-
-| | | |
-
-| | VIA SERIE "B" Nº 000001 | |
-
-| | IMPOSTO SOBRE SERVIÇOS | |
-
-| | | |
-
-| |(ENDEREÇO DO ESTABELECIMENTO EMITENTE) | |
-
-| |(MUNICÍPIO) (ESTADO) | |
-
-| |INSCRIÇÃO NO CNPJ _____ ________________________________ | |
-
-| |INSCRIÇÃO MUNICIPAL __________________________________ | |
-
-| |NATUREZA DA OPERAÇÃO _______________________________ | |
-
-| |VIA DE TRANSPORTE ____________________________________ | |
-
-| |DATA DA EMISSÃO DA NOTA _____/_____/_____ | |
-
-| | | |
-
-| |AO(S) Sr(S) ______________________________________________ INSCRIÇÃO ___________________ | |
-
-| |ENDEREÇO _____________________________________________ Nº ______________ SALA ________ | |
-
-| |NA CIDADE DE __________________________ ESTADO_______ CNPJ Nº ________________________ | |
-
-| |EM ____ DE _____________ DE ________ CONDIÇÕES DE PAGAMENTO _______________________ | |
-
-| |Quantidade |Unid. |DISCRIMINAÇÃO DO SERVIÇO |PREÇO | |
-
-| | | | |Unitário |Total | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | | | | | | | | |
-
-| | | |
-
-| | | | | | |
-
-| | |VALOR TOTAL DA NOTA |R$ |____________ | |
-
-| | |Alíquota do ISSQN |% |____________ | |
-
-| | |Valor do ISSQN |R$ |____________ | |
-
-| |NOME, ENDEREÇO E OS NÚMEROS DE INSCRIÇÃO ESTADUAL E NO CNPJ DO IMPRESSOR DA NOTA, E DATA E A QUALIDADE DE IMPRESSÃO, O NÚMERO DE ORDEM| |
-
-| |DA PRIMEIRA E DA ÚLTIMA NOTA IMPRESSA E RESPECTIVA SÉRIE E SUB-SÉRIE E O NÚMERO DA AUTORIZAÇÃO DE IMPRESSÃO DE DOCUMENTOS FISCAIS. | |
-
-| |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - | |
-
-| |- - - - - - - | |
-
-| |RECEB___ OS SERVIÇOS CONSTANTES DA PRESENTE NOTA-SÉRIE "B" Nº 000001. | |
-
-| | | |
-
-| |BELO HORIZONTE, ___de_______ de ____ ______________________ _______________ ____________________ | |
-
-| |Nome CPF Assinatura | |
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | (DADOS RELATIVOS À FIRMA EMITENTE) |  |  |  |  |  |  |  |  |
+|  | NOTA FISCAL DE SERVIÇOS |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | VIA SERIE "B" Nº 000001 |  |  |  |  |  |  |  |  |
+|  | IMPOSTO SOBRE SERVIÇOS |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | (ENDEREÇO DO ESTABELECIMENTO EMITENTE) |  |  |  |  |  |  |  |  |
+|  | (MUNICÍPIO) (ESTADO) |  |  |  |  |  |  |  |  |
+|  | INSCRIÇÃO NO CNPJ _____ ________________________________ |  |  |  |  |  |  |  |  |
+|  | INSCRIÇÃO MUNICIPAL __________________________________ |  |  |  |  |  |  |  |  |
+|  | NATUREZA DA OPERAÇÃO _______________________________ |  |  |  |  |  |  |  |  |
+|  | VIA DE TRANSPORTE ____________________________________ |  |  |  |  |  |  |  |  |
+|  | DATA DA EMISSÃO DA NOTA _____/_____/_____ |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | AO(S) Sr(S) ______________________________________________ INSCRIÇÃO ___________________ |  |  |  |  |  |  |  |  |
+|  | ENDEREÇO _____________________________________________ Nº ______________ SALA ________ |  |  |  |  |  |  |  |  |
+|  | NA CIDADE DE __________________________ ESTADO_______ CNPJ Nº ________________________ |  |  |  |  |  |  |  |  |
+|  | EM ____ DE _____________ DE ________ CONDIÇÕES DE PAGAMENTO _______________________ |  |  |  |  |  |  |  |  |
+|  | Quantidade | Unid. | DISCRIMINAÇÃO DO SERVIÇO | PREÇO |  |  |  |  |  |
+|  |  |  |  | Unitário | Total |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  | VALOR TOTAL DA NOTA | R$ | ____________ |  |  |  |  |  |
+|  |  | Alíquota do ISSQN | % | ____________ |  |  |  |  |  |
+|  |  | Valor do ISSQN | R$ | ____________ |  |  |  |  |  |
+|  | NOME, ENDEREÇO E OS NÚMEROS DE INSCRIÇÃO ESTADUAL E NO CNPJ DO IMPRESSOR DA NOTA, E DATA E A QUALIDADE DE IMPRESSÃO, O NÚMERO DE ORDEM |  |  |  |  |  |  |  |  |
+|  | DA PRIMEIRA E DA ÚLTIMA NOTA IMPRESSA E RESPECTIVA SÉRIE E SUB-SÉRIE E O NÚMERO DA AUTORIZAÇÃO DE IMPRESSÃO DE DOCUMENTOS FISCAIS. |  |  |  |  |  |  |  |  |
+|  | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |  |  |  |  |  |  |  |  |
+|  | - - - - - - - |  |  |  |  |  |  |  |  |
+|  | RECEB___ OS SERVIÇOS CONSTANTES DA PRESENTE NOTA-SÉRIE "B" Nº 000001. |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | BELO HORIZONTE, ___de_______ de ____ ______________________ _______________ ____________________ |  |  |  |  |  |  |  |  |
+|  | Nome CPF Assinatura |  |  |  |  |  |  |  |  |
 
 TAMANHO NÃO INFERIOR A 75 x 105 mm. EM QUALQUER SENTIDO
 
 ANEXO III
 
-|(DADOS RELATIVOS À FIRMA EMITENTE) |
-
-|(ENDEREÇO) (MUNICÍPIO) (ESTADO) |
-
-| INSCRIÇÃO NO CNPJ |
-
-| INSCRIÇÃO MUNICIPAL |
-
-| INSCRIÇÃO ESTADUAL |
-
-| DATA DA EMISSÃO: |
-
-| |
-
-| |FATURA Nº |Fatura Duplicata |Duplicata |DATA EMISSÃO |VENCIMENTO | |NOTA FISCAL/FATURA | |
-
-| | |Valor R$ |Nº de Ordem | | | | | |
-
-| | | | | | | | | |
-
-| | | |
-
-| Desconto de até | | |
-
-| Condições Especiais |
-
-| |
-
-| |NOME DO SACADO | |
-
-| |ENDEREÇO | |
-
-| |MUNICÍPIO ESTADO | |
-
-| |PRAÇA DO PAGAMENTO | |
-
-| |INSC. NO CNPJ INSC. ESTADUAL Nº | |
-
-| |VALOR POR | | |
-
-| | EXTENSO | | |
-
-| |................................... DEVE (M) A ..............................................................., ESTABELECIDA EM |
-
-| |BELO HORIZONTE, À RUA ......................................., MINAS GERAIS, A IMPORTÂNCIA DESTA NOTA FISCAL/FATURA, |
-
-| |PROVENIENTE DE PRESTAÇÃO DE SERVIÇOS, CONFORME DISCRIMINAÇÃO ABAIXO. |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| | NOTA FISCAL/FATURA |
-
-|NAT. DA OPERAÇÃO: Prestação de Serviços | PRESTAÇÃO DE SERVIÇOS |
-
-| | 1ª VIA - CLIENTE |
-
-| |PREÇOS - R$ |
-
-|DESCRIÇÃO DOS SERVIÇOS |UNITÁRIO |TOTAL |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| |VALOR TOTAL DA NOTA R$ | |
-
-| |Alíquota do ISSQN % | |
-
-| |Valor do ISSQN R$ | |
-
-|NOME, ENDEREÇO E OS NÚMEROS DE INSCRIÇÃO ESTADUAL E NO CNPJ DO IMPRESSOR DA NOTA, DATA E QUALIDADE DA IMPRESSÃO, O NÚMERO DE ORDEM DA PRIMEIRA |
-
-|E DA ÚLTIMA NOTA IMPRESSA, E O NÚMERO DA AUTORIZAÇÃO DE IMPRESSÃO DE DOCUMENTOS FISCAIS. |
+| (DADOS RELATIVOS À FIRMA EMITENTE) |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| (ENDEREÇO) (MUNICÍPIO) (ESTADO) |  |  |  |  |  |  |  |  |
+| INSCRIÇÃO NO CNPJ |  |  |  |  |  |  |  |  |
+| INSCRIÇÃO MUNICIPAL |  |  |  |  |  |  |  |  |
+| INSCRIÇÃO ESTADUAL |  |  |  |  |  |  |  |  |
+| DATA DA EMISSÃO: |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | FATURA Nº | Fatura Duplicata | Duplicata | DATA EMISSÃO | VENCIMENTO |  | NOTA FISCAL/FATURA |  |
+|  |  | Valor R$ | Nº de Ordem |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+| Desconto de até |  |  |  |  |  |  |  |  |
+| Condições Especiais |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | NOME DO SACADO |  |  |  |  |  |  |  |
+|  | ENDEREÇO |  |  |  |  |  |  |  |
+|  | MUNICÍPIO ESTADO |  |  |  |  |  |  |  |
+|  | PRAÇA DO PAGAMENTO |  |  |  |  |  |  |  |
+|  | INSC. NO CNPJ INSC. ESTADUAL Nº |  |  |  |  |  |  |  |
+|  | VALOR POR |  |  |  |  |  |  |  |
+|  | EXTENSO |  |  |  |  |  |  |  |
+|  | ................................... DEVE (M) A ..............................................................., ESTABELECIDA EM |  |  |  |  |  |  |  |
+|  | BELO HORIZONTE, À RUA ......................................., MINAS GERAIS, A IMPORTÂNCIA DESTA NOTA FISCAL/FATURA, |  |  |  |  |  |  |  |
+|  | PROVENIENTE DE PRESTAÇÃO DE SERVIÇOS, CONFORME DISCRIMINAÇÃO ABAIXO. |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | NOTA FISCAL/FATURA |  |  |  |  |  |  |  |
+| NAT. DA OPERAÇÃO: Prestação de Serviços | PRESTAÇÃO DE SERVIÇOS |  |  |  |  |  |  |  |
+|  | 1ª VIA - CLIENTE |  |  |  |  |  |  |  |
+|  | PREÇOS - R$ |  |  |  |  |  |  |  |
+| DESCRIÇÃO DOS SERVIÇOS | UNITÁRIO | TOTAL |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | VALOR TOTAL DA NOTA R$ |  |  |  |  |  |  |  |
+|  | Alíquota do ISSQN % |  |  |  |  |  |  |  |
+|  | Valor do ISSQN R$ |  |  |  |  |  |  |  |
+| NOME, ENDEREÇO E OS NÚMEROS DE INSCRIÇÃO ESTADUAL E NO CNPJ DO IMPRESSOR DA NOTA, DATA E QUALIDADE DA IMPRESSÃO, O NÚMERO DE ORDEM DA PRIMEIRA |  |  |  |  |  |  |  |  |
+| E DA ÚLTIMA NOTA IMPRESSA, E O NÚMERO DA AUTORIZAÇÃO DE IMPRESSÃO DE DOCUMENTOS FISCAIS. |  |  |  |  |  |  |  |  |

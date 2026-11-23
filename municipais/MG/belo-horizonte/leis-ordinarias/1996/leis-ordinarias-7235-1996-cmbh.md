@@ -360,59 +360,34 @@ ANEXO I
 
 CARGOS DA ÁREA DE EDUCAÇÃO DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CLASSES | Nº DE CARGOS |
-
-|Professor Municipal |9.600 |
-
-| |10.750 |
-
-| |Nº de cargos com redação dada |
-
-| |pela Lei nº 7.790, de 30/8/1999 |
-
-| |( Art. 1º) |
-
-|Auxiliar de Biblioteca Escolar |360 |
-
-| |500 |
-
-| |Nº de cargos com redação dada |
-
-| |pela Lei nº 7.790, de 30/8/1999 |
-
-| |( Art. 1º) |
-
-| | |
-
-| |1.600 |
-
-|3. Auxiliar de Escola |460 |
-
-|4. Técnico Superior de Educação | |
-
-| TOTAL |12.020 |
-
-| CARGOS DE PROVIMENTO EM COMISSÃO |Nº DE CARGOS |
-
-|1. Diretor de Escola A, B e C |180 |
-
-|2. Secretário Escolar A, B e C |180 |
-
-|3. Coordenador de Centro de Educação Infantil |9 |
-
-|4. Coordenador de Oficina Pública Profissionalizante |3 |
-
-| TOTAL |372 |
-
-| FUNÇÃO PÚBLICA |Nº DE FUNÇÕES |
-
-|1. Vice-Diretor de Escola A, B e C |180 |
-
-| TOTAL |180 |
-
-|Auxiliar de Secretaria Escolar |Nº DE CARGOS |
-
-|Cargo acrescentado pela Lei n 7.790, de 30/8/1999 (Art. 2º e 3º) |500 |
+| CLASSES | Nº DE CARGOS |
+| --- | --- |
+| Professor Municipal | 9.600 |
+|  | 10.750 |
+|  | Nº de cargos com redação dada |
+|  | pela Lei nº 7.790, de 30/8/1999 |
+|  | ( Art. 1º) |
+| Auxiliar de Biblioteca Escolar | 360 |
+|  | 500 |
+|  | Nº de cargos com redação dada |
+|  | pela Lei nº 7.790, de 30/8/1999 |
+|  | ( Art. 1º) |
+|  |  |
+|  | 1.600 |
+| 3. Auxiliar de Escola | 460 |
+| 4. Técnico Superior de Educação |  |
+| TOTAL | 12.020 |
+| CARGOS DE PROVIMENTO EM COMISSÃO | Nº DE CARGOS |
+| 1. Diretor de Escola A, B e C | 180 |
+| 2. Secretário Escolar A, B e C | 180 |
+| 3. Coordenador de Centro de Educação Infantil | 9 |
+| 4. Coordenador de Oficina Pública Profissionalizante | 3 |
+| TOTAL | 372 |
+| FUNÇÃO PÚBLICA | Nº DE FUNÇÕES |
+| 1. Vice-Diretor de Escola A, B e C | 180 |
+| TOTAL | 180 |
+| Auxiliar de Secretaria Escolar | Nº DE CARGOS |
+| Cargo acrescentado pela Lei n 7.790, de 30/8/1999 (Art. 2º e 3º) | 500 |
 
 ANEXO I
 
@@ -478,25 +453,17 @@ CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE EDUCAÇÃO DA
 
 PREFEITURA DE BELO HORIZONTE
 
-|CARGOS |Nº DE CARGOS |
-
-|1. Professor Municipal |12.100 |
-
-|2. Assistente Administrativo Educacional |1.750 |
-
-|3. Auxiliar de Escola |1.600 |
-
-|4. Técnico Superior de Educação |460 |
-
-|5. Professor para a Educação Infantil |6.900 |
-
-|6. Bibliotecário Escolar |415 |
-
-|Pleno: 380 | |
-
-|Sênior: 35 | |
-
-|TOTAL |23.225 |
+| CARGOS | Nº DE CARGOS |
+| --- | --- |
+| 1. Professor Municipal | 12.100 |
+| 2. Assistente Administrativo Educacional | 1.750 |
+| 3. Auxiliar de Escola | 1.600 |
+| 4. Técnico Superior de Educação | 460 |
+| 5. Professor para a Educação Infantil | 6.900 |
+| 6. Bibliotecário Escolar | 415 |
+| Pleno: 380 |  |
+| Sênior: 35 |  |
+| TOTAL | 23.225 |
 
 Anexo I com redação dada pela Lei nº 11.132, de 18/9/2018 (Art. 23)
 
@@ -504,25 +471,17 @@ ANEXO I
 
 CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE EDUCAÇÃO DA PREFEITURA DE BELO HORIZONTE
 
-|CARGOS |Nº DE CARGOS |
-
-|1. Professor Municipal |10.000 |
-
-|2. Assistente Administrativo Educacional |1.750 |
-
-|3. Auxiliar de Escola |1.600 |
-
-|4. Técnico Superior de Educação |460 |
-
-|5. Professor para a Educação Infantil |9.000 |
-
-|6. Bibliotecário Escolar |415 |
-
-|Pleno: 380 | |
-
-|Sênior: 35 | |
-
-|TOTAL |23.225 |
+| CARGOS | Nº DE CARGOS |
+| --- | --- |
+| 1. Professor Municipal | 10.000 |
+| 2. Assistente Administrativo Educacional | 1.750 |
+| 3. Auxiliar de Escola | 1.600 |
+| 4. Técnico Superior de Educação | 460 |
+| 5. Professor para a Educação Infantil | 9.000 |
+| 6. Bibliotecário Escolar | 415 |
+| Pleno: 380 |  |
+| Sênior: 35 |  |
+| TOTAL | 23.225 |
 
 Anexo I com redação dada pela Lei nº 11.914, de 30/10/2025 (Art. 10 com vigência no art. 124)
 
@@ -726,71 +685,44 @@ Itens 1 a 5 revogados pela Lei nº 11.132, de 18/9/18 (art. 45)
 
 ANEXO III
 
-|CLASSE DO CARGO DE PROVIMENTO EM COMISSÃO/FUNÇÃO PÚBLICA |NÚMERO DE ALUNOS REGULARMANTE MATRICULADOS POR UNIDADE|
-
-| |ESCOLAR |
-
-|DIRETOR, VICE-DIRETOR e SECRETÁRIO ESCOLAR A |Em escolas com menos de 700 alunos |
-
-|DIRETOR, VICE-DIRETOR e SECRETÁRIO ESCOLAR B |Em escolas com 700 a 1400 alunos |
-
-|DIRETOR, VICE-DIRETOR e SECRETÁRIO ESCOLAR C |Em escolas com mais de 1400 alunos |
+| CLASSE DO CARGO DE PROVIMENTO EM COMISSÃO/FUNÇÃO PÚBLICA | NÚMERO DE ALUNOS REGULARMANTE MATRICULADOS POR UNIDADE |
+| --- | --- |
+|  | ESCOLAR |
+| DIRETOR, VICE-DIRETOR e SECRETÁRIO ESCOLAR A | Em escolas com menos de 700 alunos |
+| DIRETOR, VICE-DIRETOR e SECRETÁRIO ESCOLAR B | Em escolas com 700 a 1400 alunos |
+| DIRETOR, VICE-DIRETOR e SECRETÁRIO ESCOLAR C | Em escolas com mais de 1400 alunos |
 
 ANEXO IV
 
 TABELA DE VENCIMENTOS DOS CARGOS EFETIVOS DO QUADRO ESPECIAL DA EDUCAÇÃO
 
-|NÍVEIS DE VENCIMENTO |
-
-|Cargos |
-
-|Efetivos |
-
-|NÍVEL |Valores em R$ |
-
-|1 |1.451,93 |
-
-|2 |1.524,52 |
-
-|3 |1.600,75 |
-
-|4 |1.680,79 |
-
-|5 |1.764,83 |
-
-|6 |1.853,07 |
-
-|7 |1.945,72 |
-
-|8 |2.043,01 |
-
-|9 |2.145,16 |
-
-|10 |2.252,42 |
-
-|11 |2.365,04 |
-
-|12 |2.483,29 |
-
-|13 |2.607,45 |
-
-|14 |2.737,83 |
-
-|15 |2.874,72 |
-
-|16 |3.018,45 |
-
-|17 |3.169,38 |
-
-|18 |3.327,84 |
-
-|19 |3.494,24 |
-
-|20 |3.668,95 |
-
-|21 |3.852,40 |
-
-|22 |4.045,02 |
+| NÍVEIS DE VENCIMENTO |  |
+| --- | --- |
+| Cargos |  |
+| Efetivos |  |
+| NÍVEL | Valores em R$ |
+| 1 | 1.451,93 |
+| 2 | 1.524,52 |
+| 3 | 1.600,75 |
+| 4 | 1.680,79 |
+| 5 | 1.764,83 |
+| 6 | 1.853,07 |
+| 7 | 1.945,72 |
+| 8 | 2.043,01 |
+| 9 | 2.145,16 |
+| 10 | 2.252,42 |
+| 11 | 2.365,04 |
+| 12 | 2.483,29 |
+| 13 | 2.607,45 |
+| 14 | 2.737,83 |
+| 15 | 2.874,72 |
+| 16 | 3.018,45 |
+| 17 | 3.169,38 |
+| 18 | 3.327,84 |
+| 19 | 3.494,24 |
+| 20 | 3.668,95 |
+| 21 | 3.852,40 |
+| 22 | 4.045,02 |
 
 Anexo IV com redação dada pela Lei nº 11.132, de 18/9/2018 (Art. 42)
 
@@ -800,29 +732,19 @@ EM COMISSÃO E FUNÇÃO PÚBLICA DO QUADRO ESPECIAL DA
 
 EDUCAÇÃO
 
-|Cargos em comissão |Vencimento |
-
-|Secretário de Estabelecimento de Ensino “A” |416,06 |
-
-|Secretário de Estabelecimento de Ensino “B” |445,18 |
-
-|Secretário de Estabelecimento de Ensino “C” |476,35 |
-
-|Vice-Diretor de Estabelecimento de Ensino “A” |952,41 |
-
-|Diretor de Estabelecimento de Ensino “A” |1.028,61 |
-
-|Vice-Diretor de Estabelecimento de Ensino “B” | |
-
-|Coordenador de Centro de Educação Infantil | |
-
-|Coordenador de Oficina Pública Profissionalizante | |
-
-|Diretor de Estabelecimento de Ensino “B” |1.107,26 |
-
-|Vice-Diretor de Estabelecimento de Ensino “C” |1.207,90 |
-
-|Diretor de Estabelecimento de Ensino “C” | |
+| Cargos em comissão | Vencimento |
+| --- | --- |
+| Secretário de Estabelecimento de Ensino “A” | 416,06 |
+| Secretário de Estabelecimento de Ensino “B” | 445,18 |
+| Secretário de Estabelecimento de Ensino “C” | 476,35 |
+| Vice-Diretor de Estabelecimento de Ensino “A” | 952,41 |
+| Diretor de Estabelecimento de Ensino “A” | 1.028,61 |
+| Vice-Diretor de Estabelecimento de Ensino “B” |  |
+| Coordenador de Centro de Educação Infantil |  |
+| Coordenador de Oficina Pública Profissionalizante |  |
+| Diretor de Estabelecimento de Ensino “B” | 1.107,26 |
+| Vice-Diretor de Estabelecimento de Ensino “C” | 1.207,90 |
+| Diretor de Estabelecimento de Ensino “C” |  |
 
 ANEXO V
 

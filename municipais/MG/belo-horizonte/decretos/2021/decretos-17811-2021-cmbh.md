@@ -52,14 +52,10 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Alimentação Escolar – FMAE |
-
-|–, conforme autorização contida no inciso I do § 1º do art 43 e|
-
-|no art. 44, da Lei Federal nº 4.320, de 17 de março de 1964: |
-
-|R$ |
-
-|1014.08.306.132.2.761.3390.0000 |2.150.185,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.150.185,00 |
+| I.1 – A favor do Fundo Municipal de Alimentação Escolar – FMAE |  |
+| --- | --- |
+| –, conforme autorização contida no inciso I do § 1º do art 43 e |  |
+| no art. 44, da Lei Federal nº 4.320, de 17 de março de 1964: |  |
+| R$ |  |
+| 1014.08.306.132.2.761.3390.0000 | 2.150.185,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.150.185,00 |

@@ -80,17 +80,13 @@ XIII - exercer outras tarefas, mediante designação expressa do Secretário Mun
 
 **Art. 2º** - O quantitativo de cargos efetivos de Analista Fazendário previsto no Anexo I da Lei nº 7.645, de 12 de fevereiro de 1999, será distribuído de acordo com as áreas de habilitação profissional a que se refere o item III do Anexo II da mesma lei, da seguinte forma:
 
-|ÁREA |QUANTIDADE DE VAGAS |
-
-|Administração, Economia e Direito |10 |
-
-|Análise de Sistemas, Ciência da Computação, Informática ou Sistemas de |23 |
-
-|Informação | |
-
-|Ciências Contábeis |17 |
-
-|Total |50 |
+| ÁREA | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Administração, Economia e Direito | 10 |
+| Análise de Sistemas, Ciência da Computação, Informática ou Sistemas de | 23 |
+| Informação |  |
+| Ciências Contábeis | 17 |
+| Total | 50 |
 
 **Art. 2º** com redação dada pelo Decreto nº 14.725, de 20/12/2011 (Art. 1º)
 

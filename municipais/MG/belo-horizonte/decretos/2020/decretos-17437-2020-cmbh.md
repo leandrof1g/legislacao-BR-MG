@@ -260,96 +260,51 @@ ANEXO
 
 Tabela de despesas aceitas para comprovação do custo mínimo mensal para o enquadramento nas categorias 2 e 3 do art. 4º deste decreto e respectivos documentos comprobatórios.
 
-|Tipo de Gasto |Comprovantes Aceitos - Emitidos até seis meses antes do estado de calamidade pública | |
-
-| |reconhecido pelo Decreto Legislativo Federal nº 6, de 20 de março de 2020 | |
-
-|1 |Aluguel |Contrato de locação. |Comprovante do pagamento – recibo ou comprovante | |
-
-| | | |de depósito bancário no nome do locatário. | |
-
-|2 |Consumo de Água e Luz |Comprovante da Cemig e da Copasa em | | |
-
-| | |nome do espaço ou no endereço | | |
-
-| | |registrado no ato da inscrição. | | |
-
-|3 |Telefone Fixo, Celular e Internet |Comprovante de operadora de telefonia | | |
-
-| | |em nome do espaço ou no endereço | | |
-
-| | |registrado no ato da inscrição. | | |
-
-|4 |Transporte |Contrato em nome da instituição, do |Comprovante de pagamento em nome da instituição, | |
-
-| | |representante ou de algum membro |do representante ou de algum membro formalizado do| |
-
-| | |formalizado do grupo. |grupo. | |
-
-|5 |Despesa com manutenção de locação |Contrato em nome da instituição, do |Comprovante de pagamento em nome da instituição, | |
-
-| |ou financiamento de bens móveis e |representante ou de algum membro |do representante ou de algum membro formalizado do| |
-
-| |equipamentos necessários à |formalizado do grupo. |grupo emitido. | |
-
-| |continuidade das atividades | | | |
-
-| |culturais | | | |
-
-|6 |Despesa com manutenção de locação, |Contrato de parcelamento do serviço ou | | |
-
-| |taxa de uso, taxa de condomínio e |da aquisição com comprovante do | | |
-
-| |similares e de financiamento de |pagamento de despesas ou do recibo do | | |
-
-| |imóvel onde são realizadas as |pagamento. | | |
-
-| |atividades culturais | | | |
-
-| | | | | |
-
-|7 |Despesas com serviços de tecnologia|Nota fiscal em nome da instituição, do |Contrato em nome da instituição, do representante | |
-
-| |e comunicação efetivados para a |representante ou de algum membro |ou de algum membro do grupo. | |
-
-| |realização de atividades |formalizado do grupo. | | |
-
-| |como lives para garantir a | | | |
-
-| |continuidade das ações e interação | | | |
-
-| |com o público de modo virtual | | | |
-
-|8 |Pagamento de serviços necessários a|Nota fiscal em nome da instituição, do |Contrato em nome da instituição, do representante | |
-
-| |manutenção do objeto cultural, como|representante ou de algum membro do |ou de algum membro do grupo. | |
-
-| |serviço jurídico, contábil, limpeza|grupo. | | |
-
-| |e outros similares | | | |
-
-|9 |Pagamento de serviços necessários à|Nota fiscal em nome da instituição, do |Contrato em nome da instituição, do representante | |
-
-| |manutenção de atividades culturais,|representante ou de algum membro do |ou de algum membro do grupo. | |
-
-| |como curadoria, produção, |grupo. | | |
-
-| |fotografia, direção artística e | | | |
-
-| |outros similares | | | |
-
-|10 |Despesas com contribuição sindical,|Documentos de comprovação oficial em | | |
-
-| |cartorárias, impostos, tributos e |nome da instituição, do representante | | |
-
-| |encargos sociais devidos |ou de algum membro do grupo. | | |
-
-|11 |Despesas com folha de pagamento de |Carteira assinada. |Contrato de estágio ou de prestação de serviço. | |
-
-| |pessoal com carteira assinada, | | | |
-
-| |bolsistas e estagiários, desde que | | | |
-
-| |não estejam com suspensão do | | | |
-
-| |contrato de trabalho | | | |
+| Tipo de Gasto | Comprovantes Aceitos - Emitidos até seis meses antes do estado de calamidade pública |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | reconhecido pelo Decreto Legislativo Federal nº 6, de 20 de março de 2020 |  |  |  |
+| 1 | Aluguel | Contrato de locação. | Comprovante do pagamento – recibo ou comprovante |  |
+|  |  |  | de depósito bancário no nome do locatário. |  |
+| 2 | Consumo de Água e Luz | Comprovante da Cemig e da Copasa em |  |  |
+|  |  | nome do espaço ou no endereço |  |  |
+|  |  | registrado no ato da inscrição. |  |  |
+| 3 | Telefone Fixo, Celular e Internet | Comprovante de operadora de telefonia |  |  |
+|  |  | em nome do espaço ou no endereço |  |  |
+|  |  | registrado no ato da inscrição. |  |  |
+| 4 | Transporte | Contrato em nome da instituição, do | Comprovante de pagamento em nome da instituição, |  |
+|  |  | representante ou de algum membro | do representante ou de algum membro formalizado do |  |
+|  |  | formalizado do grupo. | grupo. |  |
+| 5 | Despesa com manutenção de locação | Contrato em nome da instituição, do | Comprovante de pagamento em nome da instituição, |  |
+|  | ou financiamento de bens móveis e | representante ou de algum membro | do representante ou de algum membro formalizado do |  |
+|  | equipamentos necessários à | formalizado do grupo. | grupo emitido. |  |
+|  | continuidade das atividades |  |  |  |
+|  | culturais |  |  |  |
+| 6 | Despesa com manutenção de locação, | Contrato de parcelamento do serviço ou |  |  |
+|  | taxa de uso, taxa de condomínio e | da aquisição com comprovante do |  |  |
+|  | similares e de financiamento de | pagamento de despesas ou do recibo do |  |  |
+|  | imóvel onde são realizadas as | pagamento. |  |  |
+|  | atividades culturais |  |  |  |
+|  |  |  |  |  |
+| 7 | Despesas com serviços de tecnologia | Nota fiscal em nome da instituição, do | Contrato em nome da instituição, do representante |  |
+|  | e comunicação efetivados para a | representante ou de algum membro | ou de algum membro do grupo. |  |
+|  | realização de atividades | formalizado do grupo. |  |  |
+|  | como lives para garantir a |  |  |  |
+|  | continuidade das ações e interação |  |  |  |
+|  | com o público de modo virtual |  |  |  |
+| 8 | Pagamento de serviços necessários a | Nota fiscal em nome da instituição, do | Contrato em nome da instituição, do representante |  |
+|  | manutenção do objeto cultural, como | representante ou de algum membro do | ou de algum membro do grupo. |  |
+|  | serviço jurídico, contábil, limpeza | grupo. |  |  |
+|  | e outros similares |  |  |  |
+| 9 | Pagamento de serviços necessários à | Nota fiscal em nome da instituição, do | Contrato em nome da instituição, do representante |  |
+|  | manutenção de atividades culturais, | representante ou de algum membro do | ou de algum membro do grupo. |  |
+|  | como curadoria, produção, | grupo. |  |  |
+|  | fotografia, direção artística e |  |  |  |
+|  | outros similares |  |  |  |
+| 10 | Despesas com contribuição sindical, | Documentos de comprovação oficial em |  |  |
+|  | cartorárias, impostos, tributos e | nome da instituição, do representante |  |  |
+|  | encargos sociais devidos | ou de algum membro do grupo. |  |  |
+| 11 | Despesas com folha de pagamento de | Carteira assinada. | Contrato de estágio ou de prestação de serviço. |  |
+|  | pessoal com carteira assinada, |  |  |  |
+|  | bolsistas e estagiários, desde que |  |  |  |
+|  | não estejam com suspensão do |  |  |  |
+|  | contrato de trabalho |  |  |  |

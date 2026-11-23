@@ -40,26 +40,16 @@ ANEXO
 
 (a que se refere o art. 1º do Decreto nº 18.164, de 22 de novembro de 2022)
 
-|ANEXO ÚNICO |
-
-|PREÇOS PÚBLICOS |
-
-|(...) |
-
-|GRUPO III – RESTAURANTE POPULAR: |
-
-|(...) |
-
-|Obs.: 1) Os preços públicos previstos neste grupo serão reduzidos à metade para membros de |
-
-|famílias beneficiárias ativas do Programa Auxílio Brasil, mediante apresentação de documento de |
-
-|identificação oficial com foto. |
-
-|2) Os preços públicos previstos neste grupo não serão cobrados de pessoas em situação de rua, com |
-
-|inscrição atualizada no Cadastro Único para Programas Sociais do Governo Federal – CAD Único – |
-
-|Formulário Suplementar 2 “População em Situação de Rua”, mediante apresentação de documento de |
-
-|identificação oficial com foto. |
+| ANEXO ÚNICO |
+| --- |
+| PREÇOS PÚBLICOS |
+| (...) |
+| GRUPO III – RESTAURANTE POPULAR: |
+| (...) |
+| Obs.: 1) Os preços públicos previstos neste grupo serão reduzidos à metade para membros de |
+| famílias beneficiárias ativas do Programa Auxílio Brasil, mediante apresentação de documento de |
+| identificação oficial com foto. |
+| 2) Os preços públicos previstos neste grupo não serão cobrados de pessoas em situação de rua, com |
+| inscrição atualizada no Cadastro Único para Programas Sociais do Governo Federal – CAD Único – |
+| Formulário Suplementar 2 “População em Situação de Rua”, mediante apresentação de documento de |
+| identificação oficial com foto. |

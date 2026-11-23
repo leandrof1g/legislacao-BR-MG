@@ -52,72 +52,39 @@ ANEXO ÚNICO
 
 Expediente dos órgãos e entidades da Administração Pública Municipal no período de realização da Copa do Mundo FIFA 2014
 
-|Local |Data |Dia |Hora |Jogo |Horário de expediente da |
-
-| | | | | |Administração Pública |
-
-| | | | | |Municipal, exceto serviços |
-
-| | | | | |essenciais |
-
-|São Paulo |12 de |5ª feira |17h00 |Brasil x Croácia |Ponto facultativo: 14:00h |
-
-| |junho | | | | |
-
-|Belo Horizonte |14 de |Sábado |13h00 |Colômbia x Grécia |Normal |
-
-| |junho | | | | |
-
-|Belo Horizonte |17 de |3ª feira |13h00 |Bélgica x Argélia | |
-
-| |junho | | | |Ponto facultativo: 13:00h |
-
-|Fortaleza |17 de |3ª feira |16h00 |Brasil x México | |
-
-| |junho | | | | |
-
-|Belo Horizonte |21 de |Sábado |13h00 |Argentina x Irã |Normal |
-
-| |junho | | | | |
-
-|Brasília |23 de |2ª feira |17h00 |Brasil x Camarões |Ponto facultativo: 14:00h |
-
-| |junho | | | | |
-
-|Belo Horizonte |24 de |3ª feira |13h00 |Costa Rica x |Normal |
-
-| |junho | | |Inglaterra | |
-
-|Belo Horizonte |28 de |Sábado |13h00 |Oitavas de final: |Normal |
-
-| |junho | | |possível Brasil | |
-
-|Fortaleza |29 de |Domingo |13h00 |Oitavas de final: |Normal |
-
-| |junho | | |possível Brasil | |
-
-|Fortaleza |4 de |6ª feira |17h00 |Quartas de final: |Ponto facultativo: 14:00h |
-
-| |julho | | |possível Brasil | |
-
-|Salvador |5 de |Sábado |17h00 |Quartas de final: |Normal |
-
-| |julho | | |possível Brasil | |
-
-|Belo Horizonte |8 de |3ª feira |17h00 |Semi-final: possível |Ponto facultativo: 12:00h |
-
-| |julho | | |Brasil | |
-
-|São Paulo |9 de |4ª feira |17h00 |Semi-final: possível |Ponto facultativo: 14:00h |
-
-| |julho | | |Brasil | |
-
-|Brasília |12 de |Sábado |17h00 |Disputa pelo 3º |Normal |
-
-| |julho | | |lugar: possível | |
-
-| | | | |Brasil | |
-
-|Rio de Janeiro |13 de |Domingo |16h00 |Final: possível |Normal |
-
-| |julho | | |Brasil | |
+| Local | Data | Dia | Hora | Jogo | Horário de expediente da |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | Administração Pública |
+|  |  |  |  |  | Municipal, exceto serviços |
+|  |  |  |  |  | essenciais |
+| São Paulo | 12 de | 5ª feira | 17h00 | Brasil x Croácia | Ponto facultativo: 14:00h |
+|  | junho |  |  |  |  |
+| Belo Horizonte | 14 de | Sábado | 13h00 | Colômbia x Grécia | Normal |
+|  | junho |  |  |  |  |
+| Belo Horizonte | 17 de | 3ª feira | 13h00 | Bélgica x Argélia |  |
+|  | junho |  |  |  | Ponto facultativo: 13:00h |
+| Fortaleza | 17 de | 3ª feira | 16h00 | Brasil x México |  |
+|  | junho |  |  |  |  |
+| Belo Horizonte | 21 de | Sábado | 13h00 | Argentina x Irã | Normal |
+|  | junho |  |  |  |  |
+| Brasília | 23 de | 2ª feira | 17h00 | Brasil x Camarões | Ponto facultativo: 14:00h |
+|  | junho |  |  |  |  |
+| Belo Horizonte | 24 de | 3ª feira | 13h00 | Costa Rica x | Normal |
+|  | junho |  |  | Inglaterra |  |
+| Belo Horizonte | 28 de | Sábado | 13h00 | Oitavas de final: | Normal |
+|  | junho |  |  | possível Brasil |  |
+| Fortaleza | 29 de | Domingo | 13h00 | Oitavas de final: | Normal |
+|  | junho |  |  | possível Brasil |  |
+| Fortaleza | 4 de | 6ª feira | 17h00 | Quartas de final: | Ponto facultativo: 14:00h |
+|  | julho |  |  | possível Brasil |  |
+| Salvador | 5 de | Sábado | 17h00 | Quartas de final: | Normal |
+|  | julho |  |  | possível Brasil |  |
+| Belo Horizonte | 8 de | 3ª feira | 17h00 | Semi-final: possível | Ponto facultativo: 12:00h |
+|  | julho |  |  | Brasil |  |
+| São Paulo | 9 de | 4ª feira | 17h00 | Semi-final: possível | Ponto facultativo: 14:00h |
+|  | julho |  |  | Brasil |  |
+| Brasília | 12 de | Sábado | 17h00 | Disputa pelo 3º | Normal |
+|  | julho |  |  | lugar: possível |  |
+|  |  |  |  | Brasil |  |
+| Rio de Janeiro | 13 de | Domingo | 16h00 | Final: possível | Normal |
+|  | julho |  |  | Brasil |  |

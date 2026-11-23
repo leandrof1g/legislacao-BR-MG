@@ -58,37 +58,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei |R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.1.500.000 |308.467,01 |
-
-|2100.06.181.0109.2803.339030.1.500.000 |532.020,32 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.339030.2.500.000 |40.203,92 |
-
-|TOTAL DA SUPLEMENTAÇÃO |880.691,25 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei | R$ |
+| --- | --- |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.1.500.000 | 308.467,01 |
+| 2100.06.181.0109.2803.339030.1.500.000 | 532.020,32 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.339030.2.500.000 | 40.203,92 |
+| TOTAL DA SUPLEMENTAÇÃO | 880.691,25 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.1.500.000 |840.487,33 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.449052.2.500.000 |40.203,92 |
-
-|TOTAL DA ANULAÇÃO |880.691,25 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.1.500.000 | 840.487,33 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.449052.2.500.000 | 40.203,92 |
+| TOTAL DA ANULAÇÃO | 880.691,25 |
 
 ANEXO II
 
@@ -116,24 +105,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 429.639.379,43 |
-
-|Valor do Decreto publicado nesta data |R$ 880.691,25 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 430.520.070,68 |
-
-|Saldo atual de créditos suplementares |R$ 1.834.860.726,62 |
-
-|Percentual utilizado |19,00% |
-
-|Atualizado em 17/07/2025 às 16:57:12 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 429.639.379,43 |
+| Valor do Decreto publicado nesta data | R$ 880.691,25 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 430.520.070,68 |
+| Saldo atual de créditos suplementares | R$ 1.834.860.726,62 |
+| Percentual utilizado | 19,00% |
+| Atualizado em 17/07/2025 às 16:57:12 |  |

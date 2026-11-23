@@ -34,9 +34,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I DIA COMEMORATIVO B - Dias comemorativos de fevereiro:
 
-|DATA |COMEMORAÇÃO |
-
-|12/2 |Dia Municipal de Incentivo às Simulações Temáticas e Debates |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 12/2 | Dia Municipal de Incentivo às Simulações Temáticas e Debates |
 
 .”.
 

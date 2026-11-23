@@ -680,7 +680,7 @@ O Demonstrativo das Metas Anuais – Tabela 1.1 – estabelece a meta de Resulta
 
 Tabela 1.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 O cálculo das projeções foi realizado considerando-se o cenário macroeconômico contido no Projeto de Lei de Diretrizes Orçamentárias para 2019 do Governo Federal, encaminhado ao Congresso em abril de 2018, cujos parâmetros encontram-se na tabela 1.2, com exceção do último parâmetro, que se trata de projeção realizada pelo Poder Executivo municipal.
 
@@ -688,7 +688,7 @@ Tabela 1.2
 
 Variáveis Selecionadas
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 A meta de resultado primário para 2019 é de déficit de R$261 milhões em valores correntes, devendo a receita primária situar-se em torno de R$10.081 milhões e a despesa primária em torno de R$10.342 milhões. Quanto à previsão do resultado nominal para 2019, estima-se um aumento da dívida consolidada líquida no valor de R$52 milhões.
 
@@ -708,7 +708,7 @@ Dentro desse contexto, foram feitas as projeções anuais das receitas municipai
 
 Tabela 1.3
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 2.1.1 – Imposto sobre Propriedade Territorial Predial e Urbana – IPTU
 
@@ -772,7 +772,7 @@ Os valores dos grupos de despesas previstas para o triênio estão consolidados 
 
 Tabela 1.4
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 2.2.1 – Despesas Correntes
 
@@ -800,7 +800,7 @@ A tabela 1.5 apresenta a metodologia de cálculo dos resultados primários do Mu
 
 Tabela 1.5
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 2.4 – Metodologia e Memória de Cálculo para o Resultado Nominal
 
@@ -812,7 +812,7 @@ A metodologia e a memória de cálculo do Resultado Nominal têm como referênci
 
 Tabela 1.6
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.2 – Avaliação do Cumprimento das Metas Fiscais do Exercício Anterior
 
@@ -822,7 +822,7 @@ A tabela 2.1 demonstra essa comparação e destaca as informações referentes �
 
 Tabela 2.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 A Lei de Diretrizes Orçamentárias para 2017, em seu anexo I-2, estabeleceu que a execução da Lei Orçamentária fosse compatível com a obtenção de um superávit primário de R$117 milhões, segundo os parâmetros econômicos para 2017 de crescimento do PIB de 1,0% em 2017 e uma inflação de 6,0% ao ano para 2017, conforme projeções constantes do Projeto de Lei de Diretrizes Orçamentárias do Governo Federal.
 
@@ -844,7 +844,7 @@ A tabela 3.1 apresenta a preços correntes o comparativo das metas anuais fixada
 
 Tabela 3.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.4 – Evolução do Patrimônio Líquido do Município de Belo Horizonte
 
@@ -852,7 +852,7 @@ O demonstrativo do Patrimônio Líquido, Tabela 4.1, tem por finalidade evidenci
 
 Tabela 4.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.5 – Origem e Aplicação dos Recursos Obtidos com a Alienação de Ativos
 
@@ -860,7 +860,7 @@ O demonstrativo a seguir – Tabela 5.1 – tem como finalidade demonstrar a rec
 
 Tabela 5.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.6 – Avaliação da Situação Financeira e Atuarial do Regime Próprio de Previdência (alínea “a” do inciso IV do § 2º do art. 4º da Lei Complementar Federal nº 101/00)
 
@@ -940,11 +940,10 @@ O Plano de Custeio atual está regulado na Lei nº 10.362, de 29 de dezembro de 
 
 1. Contribuições Vertidas ao RPPS em 2017
 
-|DESCRIÇÃO |PLANO PREVIDENCIÁRIO |PLANO FINANCEIRO |
-
-|Contribuição Segurado |11,00% |11,00% |
-
-|Contribuição do Ente Federativo |22,00% |22,00% |
+| DESCRIÇÃO | PLANO PREVIDENCIÁRIO | PLANO FINANCEIRO |
+| --- | --- | --- |
+| Contribuição Segurado | 11,00% | 11,00% |
+| Contribuição do Ente Federativo | 22,00% | 22,00% |
 
 2 Resultado atuarial 2017
 
@@ -952,13 +951,11 @@ No exercido de 2017 os estudos de avaliação atuarial do RPPS-BH demonstraram u
 
 2. Ativo Financeiro e Resultado Atuarial do Exercício de 2017
 
-|RESULTADOS |PLANO PREVIDENCIÁRIO |PLANO FINANCEIRO |
-
-| |2017* |2017 |
-
-|Ativo Real Líquido do Plano |R$ 533.801.012,09 |R$ 23.276.566,70 |
-
-|Resultado Atuarial |R$ 32.151.676,03 |-R$ 55.509.915.008,59 |
+| RESULTADOS | PLANO PREVIDENCIÁRIO | PLANO FINANCEIRO |
+| --- | --- | --- |
+|  | 2017* | 2017 |
+| Ativo Real Líquido do Plano | R$ 533.801.012,09 | R$ 23.276.566,70 |
+| Resultado Atuarial | R$ 32.151.676,03 | -R$ 55.509.915.008,59 |
 
 Análise da Base Cadastral
 
@@ -1000,153 +997,98 @@ O RPPS-BH possui atualmente um contingente de 50.684 segurados, divididos entre 
 
 3. Estatísticas Gerais dos Segurados do Plano Previdenciário
 
-|Situação da População |Quantidade |Remuneração média (R$) |Idade média |
-
-|coberta | | | |
-
-| |Sexo |Sexo |Sexo |Sexo |Sexo |Sexo masculino|
-
-| |feminino |masculino |feminino |masculino |feminino | |
-
-|Ativos |9181 |1472 |R$ 2.302,68 |R$ 3.804,32 |39,47 |37,64 |
-
-|Aposentados por Tempo |1 |0 |R$ 2.230,37 |R$ 0,00 |58,00 |0,00 |
-
-|de Contribuição | | | | | | |
-
-|Aposentados por idade |0 |0 |R$ 0,00 |R$ 0,00 |0,00 |0,00 |
-
-|Aposentados - |0 |1 |R$ 0,00 |R$ 937,00 |0,00 |73,00 |
-
-|Compulsória | | | | | | |
-
-|Aposentados por |5 |1 |R$ 1.061,14 |R$ 1.088,93 |47,00 |53,00 |
-
-|Invalidez | | | | | | |
-
-|Pensionistas |6 |7 |R$ 1.942,99 |R$ 1.667,16 |35,83 |30,43 |
+| Situação da População | Quantidade | Remuneração média (R$) | Idade média |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| coberta |  |  |  |  |  |  |
+|  | Sexo | Sexo | Sexo | Sexo | Sexo | Sexo masculino |
+|  | feminino | masculino | feminino | masculino | feminino |  |
+| Ativos | 9181 | 1472 | R$ 2.302,68 | R$ 3.804,32 | 39,47 | 37,64 |
+| Aposentados por Tempo | 1 | 0 | R$ 2.230,37 | R$ 0,00 | 58,00 | 0,00 |
+| de Contribuição |  |  |  |  |  |  |
+| Aposentados por idade | 0 | 0 | R$ 0,00 | R$ 0,00 | 0,00 | 0,00 |
+| Aposentados - | 0 | 1 | R$ 0,00 | R$ 937,00 | 0,00 | 73,00 |
+| Compulsória |  |  |  |  |  |  |
+| Aposentados por | 5 | 1 | R$ 1.061,14 | R$ 1.088,93 | 47,00 | 53,00 |
+| Invalidez |  |  |  |  |  |  |
+| Pensionistas | 6 | 7 | R$ 1.942,99 | R$ 1.667,16 | 35,83 | 30,43 |
 
 GRAFÍCO 1 – DISTRIBUIÇÃO GERAL DA POPULAÇÃO POR STATUS – PLANO PREVIDENCIÁRIO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 4. ESTATÍSTICAS GERAIS DOS SEGURADOS DO PLANO FINANCEIRO
 
-|Situação da população |Quantidade |Remuneração média |Idade média |
-
-|coberta | |(R$) | |
-
-| |Sexo |Sexo |Sexo |Sexo |Sexo feminino|Sexo |
-
-| |feminino |masculino |feminino |masculino | |masculino |
-
-|Ativos |16685 |6268 |R$ 4.299,60|R$ 4.704,32 |48,31 |46,13 |
-
-|Aposentados por Tempo |9587 |2373 |R$ 4.674,58|R$ 5.300,60 |64,91 |72,43 |
-
-|de Contribuição | | | | | | |
-
-|Aposentados por idade |681 |95 |R$ 1.888,60|R$ 2.882,69 |71,28 |75,45 |
-
-|Aposentados - |102 |44 |R$ 1.802,09|R$ 2.181,04 |78,08 |78,70 |
-
-|Compulsória | | | | | | |
-
-|Aposentados por |809 |344 |R$ 2.140,92|R$ 2.683,37 |64,07 |67,56 |
-
-|Invalidez | | | | | | |
-
-|Pensionistas |2384 |638 |R$ 2.744,63|R$ 2.321,06 |71,08 |54,65 |
-
-| | | | | | | |
+| Situação da população | Quantidade | Remuneração média | Idade média |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| coberta |  | (R$) |  |  |  |  |
+|  | Sexo | Sexo | Sexo | Sexo | Sexo feminino | Sexo |
+|  | feminino | masculino | feminino | masculino |  | masculino |
+| Ativos | 16685 | 6268 | R$ 4.299,60 | R$ 4.704,32 | 48,31 | 46,13 |
+| Aposentados por Tempo | 9587 | 2373 | R$ 4.674,58 | R$ 5.300,60 | 64,91 | 72,43 |
+| de Contribuição |  |  |  |  |  |  |
+| Aposentados por idade | 681 | 95 | R$ 1.888,60 | R$ 2.882,69 | 71,28 | 75,45 |
+| Aposentados - | 102 | 44 | R$ 1.802,09 | R$ 2.181,04 | 78,08 | 78,70 |
+| Compulsória |  |  |  |  |  |  |
+| Aposentados por | 809 | 344 | R$ 2.140,92 | R$ 2.683,37 | 64,07 | 67,56 |
+| Invalidez |  |  |  |  |  |  |
+| Pensionistas | 2384 | 638 | R$ 2.744,63 | R$ 2.321,06 | 71,08 | 54,65 |
+|  |  |  |  |  |  |  |
 
 Gráfico 2 – Distribuição Geral da População por Status – Plano Financeiro
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 HIPÓTESES/PREMISSAS ATUARIAIS
 
 1 Hipóteses Econômico-Financeiras
 
-|HIPÓTESES |P. PREVIDENCIÁRIO |P. FINANCEIRO |
-
-|Taxa de juros atuariais |5,10% |0,00% |
-
-|Fator de Capacidade Salarial |100,00% |100,00% |
-
-|Fator de Capacidade de Benefício |100,00% |100,00% |
-
-|Projeção de Crescimento Real Anual do|2,50% |2,50% |
-
-|Salário dos Ativos | | |
-
-|Projeção de Crescimento Real Anual |0,00% |0,00% |
-
-|dos Benefícios dos Inativos | | |
-
-|Critério para Concessão de |92,00% / 98,00% da remuneração |92,00% / 98,00% da remuneração |
-
-|Aposentadoria pela regra da Média |projetada |projetada |
-
-|(sem e com paridade) | | |
-
-| | | |
+| HIPÓTESES | P. PREVIDENCIÁRIO | P. FINANCEIRO |
+| --- | --- | --- |
+| Taxa de juros atuariais | 5,10% | 0,00% |
+| Fator de Capacidade Salarial | 100,00% | 100,00% |
+| Fator de Capacidade de Benefício | 100,00% | 100,00% |
+| Projeção de Crescimento Real Anual do | 2,50% | 2,50% |
+| Salário dos Ativos |  |  |
+| Projeção de Crescimento Real Anual | 0,00% | 0,00% |
+| dos Benefícios dos Inativos |  |  |
+| Critério para Concessão de | 92,00% / 98,00% da remuneração | 92,00% / 98,00% da remuneração |
+| Aposentadoria pela regra da Média | projetada | projetada |
+| (sem e com paridade) |  |  |
+|  |  |  |
 
 2 Hipóteses Biométricas
 
-|HIPÓTESES |P. PREVIDENCIÁRIO |P. FINANCEIRO |
-
-|Tábua de Mortalidade de Válidos |AT-2000 B MALE (“Básica”) |AT-2000 B MALE (“Básica”) |
-
-|(Evento Gerador - Morte) | | |
-
-|Tábua de Mortalidade de Válidos |AT-2000 B MALE (“Básica”) |AT-2000 B MALE (“Básica”) |
-
-|(Evento Gerador - Sobrevivência) | | |
-
-|Entrada em Invalidez |ALVARO VINDAS |ALVARO VINDAS |
-
-|Sobrevivência de Inválidos |AT-2000 B MALE (“Básica”) |AT-2000 B MALE (“Básica”) |
-
-|Morbidez |- |- |
-
-|Rotatividade |0,00% |0,00% |
+| HIPÓTESES | P. PREVIDENCIÁRIO | P. FINANCEIRO |
+| --- | --- | --- |
+| Tábua de Mortalidade de Válidos | AT-2000 B MALE (“Básica”) | AT-2000 B MALE (“Básica”) |
+| (Evento Gerador - Morte) |  |  |
+| Tábua de Mortalidade de Válidos | AT-2000 B MALE (“Básica”) | AT-2000 B MALE (“Básica”) |
+| (Evento Gerador - Sobrevivência) |  |  |
+| Entrada em Invalidez | ALVARO VINDAS | ALVARO VINDAS |
+| Sobrevivência de Inválidos | AT-2000 B MALE (“Básica”) | AT-2000 B MALE (“Básica”) |
+| Morbidez | - | - |
+| Rotatividade | 0,00% | 0,00% |
 
 3 Hipóteses Demográficas
 
-|HIPÓTESES |P. PREVIDENCIÁRIO |P. FINANCEIRO |
-
-|Idade de entrada no mercado de |26 anos |26 anos |
-
-|trabalho (Servidores sem | | |
-
-|informação cadastral) | | |
-
-|Novos Entrados (Geração Futura) |1/1, observada a média de idade de|Grupo Fechado |
-
-| |ingresso como servidor efetivo dos| |
-
-| |atuais segurados ativos, sendo | |
-
-| |assumida esta idade para o | |
-
-| |ingresso no mercado de trabalho da| |
-
-| |geração futura. | |
-
-|Composição familiar |Hipótese de que 90,00% dos |Hipótese de que 90,00% dos |
-
-| |segurados Ativos e Inativos, ao |segurados Ativos e Inativos, ao |
-
-| |falecer, gerarão pensão vitalícia |falecer, gerarão pensão vitalícia |
-
-| |para um dependente 3 anos mais |para um dependente 2 anos mais |
-
-| |velho, se segurado do sexo |velho, se segurado do sexo feminino|
-
-| |feminino e 2 anos mais novo, se |e -3 anos mais novo, se segurado do|
-
-| |segurado do sexo masculino. |sexo masculino. |
+| HIPÓTESES | P. PREVIDENCIÁRIO | P. FINANCEIRO |
+| --- | --- | --- |
+| Idade de entrada no mercado de | 26 anos | 26 anos |
+| trabalho (Servidores sem |  |  |
+| informação cadastral) |  |  |
+| Novos Entrados (Geração Futura) | 1/1, observada a média de idade de | Grupo Fechado |
+|  | ingresso como servidor efetivo dos |  |
+|  | atuais segurados ativos, sendo |  |
+|  | assumida esta idade para o |  |
+|  | ingresso no mercado de trabalho da |  |
+|  | geração futura. |  |
+| Composição familiar | Hipótese de que 90,00% dos | Hipótese de que 90,00% dos |
+|  | segurados Ativos e Inativos, ao | segurados Ativos e Inativos, ao |
+|  | falecer, gerarão pensão vitalícia | falecer, gerarão pensão vitalícia |
+|  | para um dependente 3 anos mais | para um dependente 2 anos mais |
+|  | velho, se segurado do sexo | velho, se segurado do sexo feminino |
+|  | feminino e 2 anos mais novo, se | e -3 anos mais novo, se segurado do |
+|  | segurado do sexo masculino. | sexo masculino. |
 
 5 Justificativas
 
@@ -1208,13 +1150,21 @@ Dados os referidos efeitos da inflação, ocorrem perdas do poder de compra tant
 
 Para a hipótese do Fator de Determinação dos Salários e dos Benefícios, adota-se uma projeção de inflação, a qual será determinada pela aplicação da seguinte formulação:
 
-[pic], sendo [pic],
+*[imagem no documento original — ver `fonte_texto`]*
+
+, sendo *[imagem no documento original — ver `fonte_texto`]*
+
+,
 
 Onde,
 
-[pic]: Corresponde à hipótese adotada de inflação anual;
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]: Corresponde à inflação mensal calculada com base na hipótese;
+: Corresponde à hipótese adotada de inflação anual;
+
+*[imagem no documento original — ver `fonte_texto`]*
+
+: Corresponde à inflação mensal calculada com base na hipótese;
 
 n: Corresponde a 12 meses.
 
@@ -1380,67 +1330,44 @@ O grupo de segurados do Plano Previdenciário, definidos pela aludida norma, se 
 
 Assim, com base no referido plano de custeio e nos benefícios cobertos pelo RPPS, bem como nas informações financeiras e cadastrais encaminhadas e ainda com base nas hipóteses e métodos atuariais adotados, apurou-se os seguintes valores, posicionados na mesma data base de avaliação do ativo do plano, qual seja em 31 de dezembro de 2017:
 
-|RESULTADOS |GERAÇÃO ATUAL |GERAÇÃO FUTURA |CONSOLIDADO |
-
-|Ativo Real Líquido do Plano (1 = a +|R$ 533.801.012,09 |R$ 0,00 |R$ 533.801.012,09 |
-
-|b) | | | |
-
-| Aplicações e Recursos - DAIR |R$ 533.801.012,09 |R$ 0,00 |R$ 533.801.012,09 |
-
-|(a) | | | |
-
-| Dívidas Reconhecidas (b) |R$ 0,00 |R$ 0,00 |R$ 0,00 |
-
-|Plano Previdenciário (2 = 3 - 6) |R$ 501.649.336,06 |-R$ 359.602.842,06 |R$ 501.649.336,06 |
-
-|Provisões Matemáticas (3 = 4 + 5) |R$ 501.649.336,06 |-R$ 359.602.842,06 |R$ 501.649.336,06 |
-
-| Benefícios Concedidos (+) (4) |R$ 5.576.859,48 |R$ 0,00 |R$ 5.576.859,48 |
-
-| Benefícios a Conceder (+) (5) |R$ 496.072.476,58 |-R$ 359.602.842,06 |R$ 496.072.476,58 |
-
-| Saldo de COMPREV[5] (-) |R$ 237.416.929,12 |R$ 0,00 |R$ 237.416.929,12 |
-
-|Plano de Amortização (6) |R$ 0,00 |R$ 0,00 |R$ 0,00 |
-
-|Resultado Atuarial [+/(-)] (7 = 1 - |R$ 32.151.676,03 |R$ 359.602.842,06 |R$ 32.151.676,03 |
-
-|2) | | | |
+| RESULTADOS | GERAÇÃO ATUAL | GERAÇÃO FUTURA | CONSOLIDADO |
+| --- | --- | --- | --- |
+| Ativo Real Líquido do Plano (1 = a + | R$ 533.801.012,09 | R$ 0,00 | R$ 533.801.012,09 |
+| b) |  |  |  |
+| Aplicações e Recursos - DAIR | R$ 533.801.012,09 | R$ 0,00 | R$ 533.801.012,09 |
+| (a) |  |  |  |
+| Dívidas Reconhecidas (b) | R$ 0,00 | R$ 0,00 | R$ 0,00 |
+| Plano Previdenciário (2 = 3 - 6) | R$ 501.649.336,06 | -R$ 359.602.842,06 | R$ 501.649.336,06 |
+| Provisões Matemáticas (3 = 4 + 5) | R$ 501.649.336,06 | -R$ 359.602.842,06 | R$ 501.649.336,06 |
+| Benefícios Concedidos (+) (4) | R$ 5.576.859,48 | R$ 0,00 | R$ 5.576.859,48 |
+| Benefícios a Conceder (+) (5) | R$ 496.072.476,58 | -R$ 359.602.842,06 | R$ 496.072.476,58 |
+| Saldo de COMPREV[5] (-) | R$ 237.416.929,12 | R$ 0,00 | R$ 237.416.929,12 |
+| Plano de Amortização (6) | R$ 0,00 | R$ 0,00 | R$ 0,00 |
+| Resultado Atuarial [+/(-)] (7 = 1 - | R$ 32.151.676,03 | R$ 359.602.842,06 | R$ 32.151.676,03 |
+| 2) |  |  |  |
 
 De forma comparativa aos exercícios anteriores, tem-se os seguintes resultados:
 
-|RESULTADOS |2016* |2017* |2018 |
-
-|Ativo Real Líquido do Plano (1 = a + b) |R$ 217.103.576,69 |R$ 381.925.555,91 |R$ 533.801.012,09 |
-
-| Aplicações e Recursos - DAIR (a) |R$ 217.103.576,69 |R$ 381.925.555,91 |R$ 533.801.012,09 |
-
-| Dívidas Reconhecidas (b) |R$0,00 |R$ 0,00 |R$ 0,00 |
-
-|Plano Previdenciário (2 = 3 - 6) |R$ 132.827.013,04 |R$ 376.458.769,81 |R$ 501.649.336,06 |
-
-|Provisões Matemáticas (3 = 4 + 5) |R$ 132.827.013,04 |R$ 376.458.769,81 |R$ 501.649.336,06 |
-
-| Benefícios Concedidos (+) (4) |R$ 4.019.555,13 |R$ 5.156.252,80 |R$ 5.576.859,48 |
-
-| Benefícios a Conceder (+) (5) |R$ 128.807.457,91 |R$ 371.302.517,01 |R$ 496.072.476,58 |
-
-| Saldo de COMPREV[6] (-) |R$ 14.100.768,88 |R$ 62.268.283,53 |R$ 237.416.929,12 |
-
-|Plano de Amortização (6) |R$ 0,00 |R$ 0,00 |R$ 0,00 |
-
-|Resultado Atuarial [+/(-)] (7 = 1 - 2) |R$ 84.276.563,65 |R$ 5.466.786,10 |R$ 32.151.676,03 |
-
-|Evolução do Índice de Cobertura das |163,45% |100,08% |106,41% |
-
-|Provisões Matemáticas IC = (a / 3) | | | |
+| RESULTADOS | 2016* | 2017* | 2018 |
+| --- | --- | --- | --- |
+| Ativo Real Líquido do Plano (1 = a + b) | R$ 217.103.576,69 | R$ 381.925.555,91 | R$ 533.801.012,09 |
+| Aplicações e Recursos - DAIR (a) | R$ 217.103.576,69 | R$ 381.925.555,91 | R$ 533.801.012,09 |
+| Dívidas Reconhecidas (b) | R$0,00 | R$ 0,00 | R$ 0,00 |
+| Plano Previdenciário (2 = 3 - 6) | R$ 132.827.013,04 | R$ 376.458.769,81 | R$ 501.649.336,06 |
+| Provisões Matemáticas (3 = 4 + 5) | R$ 132.827.013,04 | R$ 376.458.769,81 | R$ 501.649.336,06 |
+| Benefícios Concedidos (+) (4) | R$ 4.019.555,13 | R$ 5.156.252,80 | R$ 5.576.859,48 |
+| Benefícios a Conceder (+) (5) | R$ 128.807.457,91 | R$ 371.302.517,01 | R$ 496.072.476,58 |
+| Saldo de COMPREV[6] (-) | R$ 14.100.768,88 | R$ 62.268.283,53 | R$ 237.416.929,12 |
+| Plano de Amortização (6) | R$ 0,00 | R$ 0,00 | R$ 0,00 |
+| Resultado Atuarial [+/(-)] (7 = 1 - 2) | R$ 84.276.563,65 | R$ 5.466.786,10 | R$ 32.151.676,03 |
+| Evolução do Índice de Cobertura das | 163,45% | 100,08% | 106,41% |
+| Provisões Matemáticas IC = (a / 3) |  |  |  |
 
 * Dados extraídos dos respectivos DRAA cadastrados no site do MPS.
 
 Evolução Anual: Ativo Líquido x Provisões Matemáticas
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 O RESULTADO APURADO PARA A AVALIAÇÃO ATUARIAL 2018 REMONTOU A UM SUPERÁVIT ATUARIAL NO VALOR DE R$32.151.676,03, E FOI APURADO CONSIDERANDO A AS ALÍQUOTAS NORMAIS DE CONTRIBUIÇÃO DE 11,00% DOS SEGURADOS E DE 22,00% DO ENTE FEDERATIVO, BEM COMO O SALDO DE COMPENSAÇÃO PREVIDENCIÁRIA, TODOS JÁ ABORDADOS.
 
@@ -1494,39 +1421,24 @@ No entanto, vale ressalvar novamente, que os resultados da avaliação dos futur
 
 Tendo em vista os resultados apurados, considerando os regimes financeiros, métodos e hipóteses atuariais apresentados, sugere-se a manutenção do plano de custeio atual com a consequente manutenção do custo normal e manutenção do atual plano de amortização, conforme tabelas a seguir:
 
-|CONTRIBUINTE |NORMAL % |SUPLEMENTAR % |
-
-|Ente Público |22,00% |0,00% |
-
-|Servidor Ativo |11,00% |0,00% |
-
-|Servidor |11,00% |0,00% |
-
-|Aposentado | | |
-
-|Pensionista |11,00% |0,00% |
-
-|Total |33,00% |0,00% |
-
-|BENEFÍCIOS COBERTOS |NORMAL % |
-
-|Aposentadoria Programada |24,79% |
-
-|Aposentadoria por Invalidez |1,62% |
-
-|Pensão por Morte de Ativo |2,03% |
-
-|Reversão em Pensão de |4,55% |
-
-|Aposentadoria Programada | |
-
-|Reversão em Pensão de |0,00% |
-
-|Aposentadoria por Invalidez | |
-
-|Administração |0,00% |
-
-|Total |33,00% |
+| CONTRIBUINTE | NORMAL % | SUPLEMENTAR % |
+| --- | --- | --- |
+| Ente Público | 22,00% | 0,00% |
+| Servidor Ativo | 11,00% | 0,00% |
+| Servidor | 11,00% | 0,00% |
+| Aposentado |  |  |
+| Pensionista | 11,00% | 0,00% |
+| Total | 33,00% | 0,00% |
+| BENEFÍCIOS COBERTOS | NORMAL % |  |
+| Aposentadoria Programada | 24,79% |  |
+| Aposentadoria por Invalidez | 1,62% |  |
+| Pensão por Morte de Ativo | 2,03% |  |
+| Reversão em Pensão de | 4,55% |  |
+| Aposentadoria Programada |  |  |
+| Reversão em Pensão de | 0,00% |  |
+| Aposentadoria por Invalidez |  |  |
+| Administração | 0,00% |  |
+| Total | 33,00% |  |
 
 Em virtude de ter sido apurado um resultado superavitário para o RPPS-BH no encerramento do exercício de 2017, bem como considerando que o superávit apurado representa apenas 6,41% da totalidade das Reservas Matemáticas calculadas, se faz prudente a manutenção das alíquotas contributivas.
 
@@ -1552,65 +1464,37 @@ Para cálculo atuarial do VACF, considerou-se o plano de custeio atual, disposto
 
 Assim, com base no referido plano de custeio e nos benefícios cobertos pelo RPPS, bem como nas informações financeiras e cadastrais encaminhadas, apurou-se os seguintes valores em 31 de dezembro de 2017:
 
-|RESULTADOS PLANO |31/12/2017 |
-
-|FINANCEIRO | |
-
-|Ativo Real Líquido do |R$ 23.276.566,70 |
-
-|Plano (1 = a + b) | |
-
-|Aplicações e Recursos - |R$ 23.276.566,70 |
-
-|DAIR (a) | |
-
-| Dívidas Reconhecidas |R$ 0,00 |
-
-|(b) | |
-
-|Benefícios Concedidos |R$ 23.276.566,70 |
-
-|Benefícios do Plano |R$ 20.006.535.860,43 |
-
-|Contribuições do Ente (-) |R$ 0,00 |
-
-|Contribuições do Inativo |R$ 317.771.752,80 |
-
-|(-) | |
-
-|Contribuições do |R$ 29.688.148,12 |
-
-|Pensionista (-) | |
-
-|Compensação Previdenciária|R$ 0,00 |
-
-|(-) | |
-
-|Cobertura de Insuficiência|R$ 19.635.799.392,81 |
-
-|Financeira (-) * | |
-
-|Benefícios a Conceder |-R$ 55.509.915.008,59|
-
-|Benefícios do Plano |R$ 44.825.763.460,22 |
-
-|Contribuições do Ente (-) |R$ 3.508.260.906,45 |
-
-|Contribuições do Ativo (-)|R$ 2.820.918.784,46 |
-
-|Compensação Previdenciária|R$ 2.622.468.153,53 |
-
-|(-) | |
-
-|Cobertura de Insuficiência|R$ 35.874.115.615,78 |
-
-|Financeira (-) * | |
-
-|* Aporte Complementar do |R$ 55.509.915.008,59 |
-
-|Ente para Cobertura de | |
-
-|Insuficiência Financeira | |
+| RESULTADOS PLANO | 31/12/2017 |
+| --- | --- |
+| FINANCEIRO |  |
+| Ativo Real Líquido do | R$ 23.276.566,70 |
+| Plano (1 = a + b) |  |
+| Aplicações e Recursos - | R$ 23.276.566,70 |
+| DAIR (a) |  |
+| Dívidas Reconhecidas | R$ 0,00 |
+| (b) |  |
+| Benefícios Concedidos | R$ 23.276.566,70 |
+| Benefícios do Plano | R$ 20.006.535.860,43 |
+| Contribuições do Ente (-) | R$ 0,00 |
+| Contribuições do Inativo | R$ 317.771.752,80 |
+| (-) |  |
+| Contribuições do | R$ 29.688.148,12 |
+| Pensionista (-) |  |
+| Compensação Previdenciária | R$ 0,00 |
+| (-) |  |
+| Cobertura de Insuficiência | R$ 19.635.799.392,81 |
+| Financeira (-) * |  |
+| Benefícios a Conceder | -R$ 55.509.915.008,59 |
+| Benefícios do Plano | R$ 44.825.763.460,22 |
+| Contribuições do Ente (-) | R$ 3.508.260.906,45 |
+| Contribuições do Ativo (-) | R$ 2.820.918.784,46 |
+| Compensação Previdenciária | R$ 2.622.468.153,53 |
+| (-) |  |
+| Cobertura de Insuficiência | R$ 35.874.115.615,78 |
+| Financeira (-) * |  |
+| * Aporte Complementar do | R$ 55.509.915.008,59 |
+| Ente para Cobertura de |  |
+| Insuficiência Financeira |  |
 
 Caso as hipóteses atuariais venham a se confirmar ao longo do tempo, o ente federativo fará contribuições complementares de R$55.509.915.008,59 em valor nominal a título de aportes para Cobertura de Insuficiência Financeira. A distribuição de tais aportes pode ser observada no fluxo atuarial apresentado para o referido Plano Financeiro.
 
@@ -1638,47 +1522,31 @@ Tendo em vista a estruturação do Plano Financeiro, financiado em Regime de Rep
 
 5. Alíquota de custeio por contribuinte
 
-|Contribuinte |Normal % |
-
-|Ente Público |22,00% |
-
-|Servidor Ativo |11,00% |
-
-|Servidor Aposentado |11,00% |
-
-|Pensionista |11,00% |
-
-|Total |33,00% |
+| Contribuinte | Normal % |
+| --- | --- |
+| Ente Público | 22,00% |
+| Servidor Ativo | 11,00% |
+| Servidor Aposentado | 11,00% |
+| Pensionista | 11,00% |
+| Total | 33,00% |
 
 6. Alíquota de custeio por tipo de benefício
 
-|Benefícios Cobertos |Normal % |
-
-|Aposentadoria Programada |24,29% |
-
-|Aposentadoria por Invalidez |0,97% |
-
-|Pensão por Morte de Ativo |1,20% |
-
-|Reversão em Pensão de |6,28% |
-
-|Aposentadoria Programada | |
-
-|Reversão em Pensão de |0,26% |
-
-|Aposentadoria por Invalidez | |
-
-|Auxílio Doença |0,00% |
-
-|Salário Maternidade |0,00% |
-
-|Auxílio Reclusão |0,00% |
-
-|Salário Família |0,00% |
-
-|Administração |0,00% |
-
-|Total |33,00% |
+| Benefícios Cobertos | Normal % |
+| --- | --- |
+| Aposentadoria Programada | 24,29% |
+| Aposentadoria por Invalidez | 0,97% |
+| Pensão por Morte de Ativo | 1,20% |
+| Reversão em Pensão de | 6,28% |
+| Aposentadoria Programada |  |
+| Reversão em Pensão de | 0,26% |
+| Aposentadoria por Invalidez |  |
+| Auxílio Doença | 0,00% |
+| Salário Maternidade | 0,00% |
+| Auxílio Reclusão | 0,00% |
+| Salário Família | 0,00% |
+| Administração | 0,00% |
+| Total | 33,00% |
 
 Os percentuais apresentados na primeira tabela refletem o plano de custeio vigente para o Plano Financeiro, sendo 11,00% como alíquota contributiva para o Servidor e 22,00% para o ente.
 
@@ -1708,87 +1576,51 @@ Desta forma, julgamos sob o ponto de vista atuarial que o RPPS-BH encontra-se em
 
 Canoas (RS), 26/03/2018.
 
-|Guilherme Walter |Rafael Porto de Almeida |
-
-|Atuário MIBA n° 2.091 |Atuário MIBA n° 1.738 |
-
-|LUMENS ATUARIAL – Consultoria e Assessoria |LUMENS ATUARIAL – Consultoria e Assessoria |
+| Guilherme Walter | Rafael Porto de Almeida |
+| --- | --- |
+| Atuário MIBA n° 2.091 | Atuário MIBA n° 1.738 |
+| LUMENS ATUARIAL – Consultoria e Assessoria | LUMENS ATUARIAL – Consultoria e Assessoria |
 
 ANEXO I – Demonstrativo Contábil
 
-|MASCARA |DESCRIÇÃO |VALOR |
-
-|Sem Máscara |ATIVO - PLANO FINANCEIRO |R$ 23.276.566,70 |
-
-|Sem Máscara |Aplicações conforme DAIR |R$ 23.276.566,70 |
-
-|Sem Máscara |Parcelamentos |R$ 0,00 |
-
-|Sem Máscara |Provisões Matemáticas - Plano Financeiro |R$ 55.509.915.008,59 |
-
-|2.2.7.2.1.01.00 |Provisões de Benefícios Concedidos |R$ 23.276.566,70 |
-
-|2.2.7.2.1.01.01 |Aposentadorias/Pensões/Outros Benefícios do Plano |R$ 20.006.535.860,43 |
-
-|2.2.7.2.1.01.02 |Contribuições do Ente (redutora) |R$ 0,00 |
-
-|2.2.7.2.1.01.03 |Contribuições do Inativo (redutora) |R$ 317.771.752,80 |
-
-|2.2.7.2.1.01.04 |Contribuições do Pensionista (redutora) |R$ 29.688.148,12 |
-
-|2.2.7.2.1.01.05 |Compensação Previdenciária (redutora) |R$ 0,00 |
-
-|2.2.7.2.1.01.07 |Cobertura de Insuficiência Financeira (redutora) |R$ 19.635.799.392,81 |
-
-|2.2.7.2.1.02.00 |Provisões de Benefícios A Conceder |R$ 0,00 |
-
-|2.2.7.2.1.02.01 |Aposentadorias/Pensões/Outros Benefícios do Plano |R$ 44.825.763.460,22 |
-
-|2.2.7.2.1.02.02 |Contribuições do Ente (redutora) |R$ 3.508.260.906,45 |
-
-|2.2.7.2.1.02.03 |Contribuições do Ativo (redutora) |R$ 2.820.918.784,46 |
-
-|2.2.7.2.1.02.04 |Compensação previdenciária (redutora) |R$ 2.622.468.153,53 |
-
-|2.2.7.2.1.02.06 |Cobertura de Insuficiência Financeira (redutora) |R$ 35.874.115.615,78 |
-
-|Sem Máscara |ATIVO - PLANO PREVIDENCIÁRIO |R$ 533.801.012,09 |
-
-|Sem Máscara |Aplicações conforme DAIR |R$ 533.801.012,09 |
-
-|Sem Máscara |Parcelamentos |R$ 0,00 |
-
-|Sem Máscara |Provisões Matemáticas - Plano Previdenciário |R$ 501.649.336,06 |
-
-|2.2.7.2.0.00.00 |Provisões Matemáticas Previdenciárias a Longo Prazo |R$ 501.649.336,06 |
-
-|2.2.7.2.1.03.00 |Provisões de Benefícios Concedidos |R$ 5.576.859,48 |
-
-|2.2.7.2.1.03.01 |Aposentadorias/Pensões/Outros Benefícios do Plano |R$ 5.583.733,85 |
-
-|2.2.7.2.1.03.02 |Contribuições do Ente (redutora) |R$ 0,00 |
-
-|2.2.7.2.1.03.03 |Contribuições do Inativo (redutora) |R$ 0,00 |
-
-|2.2.7.2.1.03.04 |Contribuições do Pensionista (redutora) |R$ 6.874,37 |
-
-|2.2.7.2.1.03.05 |Compensação Previdenciária (redutora) |R$ 0,00 |
-
-|2.2.7.2.1.04.00 |Provisões de Benefícios A Conceder |R$ 496.072.476,58 |
-
-|2.2.7.2.1.04.01 |Aposentadorias/Pensões/Outros Benefícios do Plano |R$ 2.445.996.037,82 |
-
-|2.2.7.2.1.04.02 |Contribuições do Ente (redutora) |R$ 1.129.723.454,29 |
-
-|2.2.7.2.1.04.03 |Contribuições do Ativo (redutora) |R$ 582.783.177,83 |
-
-|2.2.7.2.1.04.04 |Compensação Previdenciária (redutora) |R$ 237.416.929,12 |
-
-|2.2.7.2.1.05.00 |Plano de Amortização (redutora) |R$ 0,00 |
-
-|2.2.7.2.1.05.98 |Outros Créditos (redutora) |R$ 0,00 |
-
-| |Superávit Acumulado |R$ 32.151.676,03 |
+| MASCARA | DESCRIÇÃO | VALOR |
+| --- | --- | --- |
+| Sem Máscara | ATIVO - PLANO FINANCEIRO | R$ 23.276.566,70 |
+| Sem Máscara | Aplicações conforme DAIR | R$ 23.276.566,70 |
+| Sem Máscara | Parcelamentos | R$ 0,00 |
+| Sem Máscara | Provisões Matemáticas - Plano Financeiro | R$ 55.509.915.008,59 |
+| 2.2.7.2.1.01.00 | Provisões de Benefícios Concedidos | R$ 23.276.566,70 |
+| 2.2.7.2.1.01.01 | Aposentadorias/Pensões/Outros Benefícios do Plano | R$ 20.006.535.860,43 |
+| 2.2.7.2.1.01.02 | Contribuições do Ente (redutora) | R$ 0,00 |
+| 2.2.7.2.1.01.03 | Contribuições do Inativo (redutora) | R$ 317.771.752,80 |
+| 2.2.7.2.1.01.04 | Contribuições do Pensionista (redutora) | R$ 29.688.148,12 |
+| 2.2.7.2.1.01.05 | Compensação Previdenciária (redutora) | R$ 0,00 |
+| 2.2.7.2.1.01.07 | Cobertura de Insuficiência Financeira (redutora) | R$ 19.635.799.392,81 |
+| 2.2.7.2.1.02.00 | Provisões de Benefícios A Conceder | R$ 0,00 |
+| 2.2.7.2.1.02.01 | Aposentadorias/Pensões/Outros Benefícios do Plano | R$ 44.825.763.460,22 |
+| 2.2.7.2.1.02.02 | Contribuições do Ente (redutora) | R$ 3.508.260.906,45 |
+| 2.2.7.2.1.02.03 | Contribuições do Ativo (redutora) | R$ 2.820.918.784,46 |
+| 2.2.7.2.1.02.04 | Compensação previdenciária (redutora) | R$ 2.622.468.153,53 |
+| 2.2.7.2.1.02.06 | Cobertura de Insuficiência Financeira (redutora) | R$ 35.874.115.615,78 |
+| Sem Máscara | ATIVO - PLANO PREVIDENCIÁRIO | R$ 533.801.012,09 |
+| Sem Máscara | Aplicações conforme DAIR | R$ 533.801.012,09 |
+| Sem Máscara | Parcelamentos | R$ 0,00 |
+| Sem Máscara | Provisões Matemáticas - Plano Previdenciário | R$ 501.649.336,06 |
+| 2.2.7.2.0.00.00 | Provisões Matemáticas Previdenciárias a Longo Prazo | R$ 501.649.336,06 |
+| 2.2.7.2.1.03.00 | Provisões de Benefícios Concedidos | R$ 5.576.859,48 |
+| 2.2.7.2.1.03.01 | Aposentadorias/Pensões/Outros Benefícios do Plano | R$ 5.583.733,85 |
+| 2.2.7.2.1.03.02 | Contribuições do Ente (redutora) | R$ 0,00 |
+| 2.2.7.2.1.03.03 | Contribuições do Inativo (redutora) | R$ 0,00 |
+| 2.2.7.2.1.03.04 | Contribuições do Pensionista (redutora) | R$ 6.874,37 |
+| 2.2.7.2.1.03.05 | Compensação Previdenciária (redutora) | R$ 0,00 |
+| 2.2.7.2.1.04.00 | Provisões de Benefícios A Conceder | R$ 496.072.476,58 |
+| 2.2.7.2.1.04.01 | Aposentadorias/Pensões/Outros Benefícios do Plano | R$ 2.445.996.037,82 |
+| 2.2.7.2.1.04.02 | Contribuições do Ente (redutora) | R$ 1.129.723.454,29 |
+| 2.2.7.2.1.04.03 | Contribuições do Ativo (redutora) | R$ 582.783.177,83 |
+| 2.2.7.2.1.04.04 | Compensação Previdenciária (redutora) | R$ 237.416.929,12 |
+| 2.2.7.2.1.05.00 | Plano de Amortização (redutora) | R$ 0,00 |
+| 2.2.7.2.1.05.98 | Outros Créditos (redutora) | R$ 0,00 |
+|  | Superávit Acumulado | R$ 32.151.676,03 |
 
 ANEXO II – Projeções Atuariais – Plano Previdenciário
 
@@ -1800,161 +1632,85 @@ A utilização da geração atual para a realização das projeções permite um
 
 Como Saldo inicial considera-se o Ativo Real Líquido posicionado na data base dos cálculos. Ao referido valor são somadas as receitas e deduzidas as despesas anualmente. Considera-se também, caso haja, o fluxo financeiro proveniente do financiamento das dívidas já confessadas, bem como da Compensação Previdenciária. Desta forma, é importante que se busque o recebimento dos referidos recursos para que a Projeção Atuarial sirva como parâmetro para as políticas financeiras do RPPS.
 
-|Exercício |Novos benefícios|Novos benefícios|Repasse patronal |Repasse segurados |Despesa |Resultado |Saldo financeiro |
-
-| |(qtde. Ano / |(R$) | | |previdenciária |previdenciário | |
-
-| |acumulado) | | | | | | |
-
-|2018 |0 / 0 |0,00 |75.551.941,14 |37.775.970,57 |13.133.756,49 |100.194.155,22 |633.995.167,31 |
-
-|2019 |0 / 0 |0,00 |70.850.874,29 |35.425.437,15 |313.296,05 |105.963.015,39 |739.958.182,70 |
-
-|2020 |0 / 0 |0,00 |68.907.355,65 |34.453.677,83 |297.013,68 |103.064.019,80 |843.022.202,50 |
-
-|2021 |0 / 0 |0,00 |67.002.717,57 |33.501.358,78 |281.482,09 |100.222.594,25 |943.244.796,76 |
-
-|2022 |1 / 1 |1.225,06 |65.134.900,06 |32.567.450,03 |275.434,71 |97.426.915,38 |1.040.671.712,13 |
-
-|2023 |1 / 2 |2.306,68 |63.299.601,11 |31.649.800,55 |276.043,56 |94.673.358,10 |1.135.345.070,24 |
-
-|2024 |0 / 2 |0,00 |61.495.491,01 |30.747.745,51 |260.594,18 |91.982.642,34 |1.227.327.712,57 |
-
-|2025 |188 / 190 |436.663,44 |59.726.348,22 |29.863.174,11 |3.639.322,47 |85.950.199,87 |1.313.277.912,44 |
-
-|2026 |417 / 607 |1.022.949,22 |57.094.507,67 |28.547.253,83 |11.082.739,21 |74.559.022,29 |1.387.836.934,73 |
-
-|2027 |486 / 1093 |1.017.760,01 |53.406.182,12 |26.703.091,06 |17.937.689,52 |62.171.583,66 |1.450.008.518,39 |
-
-|2028 |743 / 1836 |1.409.368,29 |49.869.021,86 |24.934.510,93 |26.947.586,28 |47.855.946,51 |1.497.864.464,90 |
-
-|2029 |658 / 2494 |1.214.897,62 |45.760.172,81 |22.880.086,40 |33.929.485,04 |34.710.774,18 |1.532.575.239,07 |
-
-|2030 |496 / 2990 |939.145,76 |42.187.717,07 |21.093.858,53 |38.502.931,99 |24.778.643,61 |1.557.353.882,69 |
-
-|2031 |382 / 3372 |773.226,84 |39.263.485,56 |19.631.742,78 |41.649.674,44 |17.245.553,90 |1.574.599.436,59 |
-
-|2032 |382 / 3754 |792.404,90 |36.731.693,54 |18.365.846,77 |44.608.851,51 |10.488.688,80 |1.585.088.125,39 |
-
-|2033 |438 / 4192 |907.607,48 |34.262.642,44 |17.131.321,22 |47.953.262,83 |3.440.700,84 |1.588.528.826,23 |
-
-|2034 |426 / 4618 |934.612,44 |31.701.749,86 |15.850.874,93 |51.098.386,82 |-3.545.762,03 |1.584.983.064,20 |
-
-|2035 |397 / 5015 |881.354,57 |29.206.889,84 |14.603.444,92 |53.584.280,41 |-9.773.945,66 |1.575.209.118,54 |
-
-|2036 |416 / 5431 |881.405,58 |26.904.216,36 |13.452.108,18 |55.780.450,23 |-15.424.125,69 |1.559.784.992,85 |
-
-|2037 |381 / 5812 |911.564,77 |24.695.221,00 |12.347.610,50 |57.811.205,09 |-20.768.373,59 |1.539.016.619,26 |
-
-|2038 |439 / 6251 |1.109.610,58 |22.546.976,17 |11.273.488,08 |60.534.981,63 |-26.714.517,38 |1.512.302.101,88 |
-
-|2039 |411 / 6662 |1.045.387,78 |20.214.219,32 |10.107.109,66 |62.590.594,22 |-32.269.265,24 |1.480.032.836,64 |
-
-|2040 |467 / 7129 |1.218.500,68 |18.081.335,03 |9.040.667,52 |65.131.330,99 |-38.009.328,45 |1.442.023.508,19 |
-
-|2041 |413 / 7542 |1.146.827,61 |15.820.142,68 |7.910.071,34 |66.993.162,52 |-43.262.948,50 |1.398.760.559,70 |
-
-|2042 |443 / 7985 |1.257.286,04 |13.765.310,08 |6.882.655,04 |69.053.460,49 |-48.405.495,37 |1.350.355.064,33 |
-
-|2043 |440 / 8425 |1.358.926,04 |11.665.311,25 |5.832.655,62 |71.165.638,75 |-53.667.671,88 |1.296.687.392,45 |
-
-|2044 |387 / 8812 |1.296.500,04 |9.562.709,47 |4.781.354,74 |72.675.863,71 |-58.331.799,50 |1.238.355.592,95 |
-
-|2045 |378 / 9190 |1.284.027,91 |7.653.414,74 |3.826.707,37 |73.805.527,00 |-62.325.404,88 |1.176.030.188,07 |
-
-|2046 |379 / 9569 |1.321.487,12 |5.872.056,57 |2.936.028,28 |74.791.538,00 |-65.983.453,15 |1.110.046.734,92 |
-
-|2047 |230 / 9799 |804.455,38 |4.151.017,67 |2.075.508,84 |73.639.960,09 |-67.413.433,58 |1.042.633.301,34 |
-
-|2048 |216 / 10015 |726.107,37 |3.105.405,08 |1.552.702,54 |72.101.299,37 |-67.443.191,75 |975.190.109,59 |
-
-|2049 |144 / 10159 |527.795,89 |2.213.225,20 |1.106.612,60 |69.825.837,22 |-66.505.999,42 |908.684.110,17 |
-
-|2050 |124 / 10283 |443.618,68 |1.589.757,65 |794.878,82 |67.283.984,73 |-64.899.348,25 |843.784.761,92 |
-
-|2051 |123 / 10406 |478.541,80 |1.089.332,24 |544.666,12 |64.854.926,16 |-63.220.927,80 |780.563.834,12 |
-
-|2052 |86 / 10492 |276.743,95 |593.738,51 |296.869,26 |61.883.119,66 |-60.992.511,89 |719.571.322,22 |
-
-|2053 |57 / 10549 |131.882,38 |310.791,64 |155.395,82 |58.587.048,68 |-58.120.861,21 |661.450.461,01 |
-
-|2054 |38 / 10587 |84.349,54 |176.832,21 |88.416,11 |55.258.462,53 |-54.993.214,21 |606.457.246,80 |
-
-|2055 |30 / 10617 |47.412,94 |94.633,81 |47.316,90 |51.950.161,50 |-51.808.210,78 |554.649.036,02 |
-
-|2056 |16 / 10633 |26.971,77 |49.472,11 |24.736,06 |48.700.132,46 |-48.625.924,29 |506.023.111,73 |
-
-|2057 |4 / 10637 |5.443,96 |24.631,72 |12.315,86 |45.517.413,41 |-45.480.465,83 |460.542.645,90 |
-
-|2058 |3 / 10640 |3.658,74 |19.194,69 |9.597,34 |42.450.518,30 |-42.421.726,27 |418.120.919,63 |
-
-|2059 |8 / 10648 |10.630,83 |15.502,99 |7.751,49 |39.511.648,92 |-39.488.394,44 |378.632.525,19 |
-
-|2060 |4 / 10652 |6.467,93 |6.563,24 |3.281,62 |36.673.632,88 |-36.663.788,02 |341.968.737,17 |
-
-|2061 |1 / 10653 |1.767,07 |1.367,74 |683,87 |33.931.652,60 |-33.929.600,99 |308.039.136,18 |
-
-|2062 |0 / 10653 |0,00 |0,00 |0,00 |31.284.068,12 |-31.284.068,12 |276.755.068,06 |
-
-|2063 |0 / 10653 |0,00 |0,00 |0,00 |28.757.996,41 |-28.757.996,41 |247.997.071,64 |
-
-|2064 |0 / 10653 |0,00 |0,00 |0,00 |26.322.908,09 |-26.322.908,09 |221.674.163,56 |
-
-|2065 |0 / 10653 |0,00 |0,00 |0,00 |23.988.212,93 |-23.988.212,93 |197.685.950,63 |
-
-|2066 |0 / 10653 |0,00 |0,00 |0,00 |21.774.338,77 |-21.774.338,77 |175.911.611,85 |
-
-|2067 |0 / 10653 |0,00 |0,00 |0,00 |19.683.007,48 |-19.683.007,48 |156.228.604,37 |
-
-|2068 |0 / 10653 |0,00 |0,00 |0,00 |17.713.545,71 |-17.713.545,71 |138.515.058,67 |
-
-|2069 |0 / 10653 |0,00 |0,00 |0,00 |15.844.735,18 |-15.844.735,18 |122.670.323,48 |
-
-|2070 |0 / 10653 |0,00 |0,00 |0,00 |14.071.960,12 |-14.071.960,12 |108.598.363,36 |
-
-|2071 |0 / 10653 |0,00 |0,00 |0,00 |12.436.991,19 |-12.436.991,19 |96.161.372,17 |
-
-|2072 |0 / 10653 |0,00 |0,00 |0,00 |10.888.736,71 |-10.888.736,71 |85.272.635,46 |
-
-|2073 |0 / 10653 |0,00 |0,00 |0,00 |9.483.824,68 |-9.483.824,68 |75.788.810,78 |
-
-|2074 |0 / 10653 |0,00 |0,00 |0,00 |8.170.439,41 |-8.170.439,41 |67.618.371,37 |
-
-|2075 |0 / 10653 |0,00 |0,00 |0,00 |6.971.272,36 |-6.971.272,36 |60.647.099,02 |
-
-|2076 |0 / 10653 |0,00 |0,00 |0,00 |5.873.876,32 |-5.873.876,32 |54.773.222,70 |
-
-|2077 |0 / 10653 |0,00 |0,00 |0,00 |4.922.506,77 |-4.922.506,77 |49.850.715,92 |
-
-|2078 |0 / 10653 |0,00 |0,00 |0,00 |4.067.182,43 |-4.067.182,43 |45.783.533,49 |
-
-|2079 |0 / 10653 |0,00 |0,00 |0,00 |3.301.011,94 |-3.301.011,94 |42.482.521,55 |
-
-|2080 |0 / 10653 |0,00 |0,00 |0,00 |2.644.296,14 |-2.644.296,14 |39.838.225,41 |
-
-|2081 |0 / 10653 |0,00 |0,00 |0,00 |2.074.453,26 |-2.074.453,26 |37.763.772,14 |
-
-|2082 |0 / 10653 |0,00 |0,00 |0,00 |1.611.281,66 |-1.611.281,66 |36.152.490,48 |
-
-|2083 |0 / 10653 |0,00 |0,00 |0,00 |1.219.581,77 |-1.219.581,77 |34.932.908,71 |
-
-|2084 |0 / 10653 |0,00 |0,00 |0,00 |904.027,61 |-904.027,61 |34.028.881,10 |
-
-|2085 |0 / 10653 |0,00 |0,00 |0,00 |641.019,55 |-641.019,55 |33.387.861,56 |
-
-|2086 |0 / 10653 |0,00 |0,00 |0,00 |438.735,27 |-438.735,27 |32.949.126,28 |
-
-|2087 |0 / 10653 |0,00 |0,00 |0,00 |294.062,59 |-294.062,59 |32.655.063,70 |
-
-|2088 |0 / 10653 |0,00 |0,00 |0,00 |188.564,29 |-188.564,29 |32.466.499,41 |
-
-|2089 |0 / 10653 |0,00 |0,00 |0,00 |117.672,46 |-117.672,46 |32.348.826,95 |
-
-|2090 |0 / 10653 |0,00 |0,00 |0,00 |74.061,14 |-74.061,14 |32.274.765,80 |
-
-|2091 |0 / 10653 |0,00 |0,00 |0,00 |46.573,51 |-46.573,51 |32.228.192,29 |
-
-|2092 |0 / 10653 |0,00 |0,00 |0,00 |28.461,47 |-28.461,47 |32.199.730,83 |
+| Exercício | Novos benefícios | Novos benefícios | Repasse patronal | Repasse segurados | Despesa | Resultado | Saldo financeiro |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | (qtde. Ano / | (R$) |  |  | previdenciária | previdenciário |  |
+|  | acumulado) |  |  |  |  |  |  |
+| 2018 | 0 / 0 | 0,00 | 75.551.941,14 | 37.775.970,57 | 13.133.756,49 | 100.194.155,22 | 633.995.167,31 |
+| 2019 | 0 / 0 | 0,00 | 70.850.874,29 | 35.425.437,15 | 313.296,05 | 105.963.015,39 | 739.958.182,70 |
+| 2020 | 0 / 0 | 0,00 | 68.907.355,65 | 34.453.677,83 | 297.013,68 | 103.064.019,80 | 843.022.202,50 |
+| 2021 | 0 / 0 | 0,00 | 67.002.717,57 | 33.501.358,78 | 281.482,09 | 100.222.594,25 | 943.244.796,76 |
+| 2022 | 1 / 1 | 1.225,06 | 65.134.900,06 | 32.567.450,03 | 275.434,71 | 97.426.915,38 | 1.040.671.712,13 |
+| 2023 | 1 / 2 | 2.306,68 | 63.299.601,11 | 31.649.800,55 | 276.043,56 | 94.673.358,10 | 1.135.345.070,24 |
+| 2024 | 0 / 2 | 0,00 | 61.495.491,01 | 30.747.745,51 | 260.594,18 | 91.982.642,34 | 1.227.327.712,57 |
+| 2025 | 188 / 190 | 436.663,44 | 59.726.348,22 | 29.863.174,11 | 3.639.322,47 | 85.950.199,87 | 1.313.277.912,44 |
+| 2026 | 417 / 607 | 1.022.949,22 | 57.094.507,67 | 28.547.253,83 | 11.082.739,21 | 74.559.022,29 | 1.387.836.934,73 |
+| 2027 | 486 / 1093 | 1.017.760,01 | 53.406.182,12 | 26.703.091,06 | 17.937.689,52 | 62.171.583,66 | 1.450.008.518,39 |
+| 2028 | 743 / 1836 | 1.409.368,29 | 49.869.021,86 | 24.934.510,93 | 26.947.586,28 | 47.855.946,51 | 1.497.864.464,90 |
+| 2029 | 658 / 2494 | 1.214.897,62 | 45.760.172,81 | 22.880.086,40 | 33.929.485,04 | 34.710.774,18 | 1.532.575.239,07 |
+| 2030 | 496 / 2990 | 939.145,76 | 42.187.717,07 | 21.093.858,53 | 38.502.931,99 | 24.778.643,61 | 1.557.353.882,69 |
+| 2031 | 382 / 3372 | 773.226,84 | 39.263.485,56 | 19.631.742,78 | 41.649.674,44 | 17.245.553,90 | 1.574.599.436,59 |
+| 2032 | 382 / 3754 | 792.404,90 | 36.731.693,54 | 18.365.846,77 | 44.608.851,51 | 10.488.688,80 | 1.585.088.125,39 |
+| 2033 | 438 / 4192 | 907.607,48 | 34.262.642,44 | 17.131.321,22 | 47.953.262,83 | 3.440.700,84 | 1.588.528.826,23 |
+| 2034 | 426 / 4618 | 934.612,44 | 31.701.749,86 | 15.850.874,93 | 51.098.386,82 | -3.545.762,03 | 1.584.983.064,20 |
+| 2035 | 397 / 5015 | 881.354,57 | 29.206.889,84 | 14.603.444,92 | 53.584.280,41 | -9.773.945,66 | 1.575.209.118,54 |
+| 2036 | 416 / 5431 | 881.405,58 | 26.904.216,36 | 13.452.108,18 | 55.780.450,23 | -15.424.125,69 | 1.559.784.992,85 |
+| 2037 | 381 / 5812 | 911.564,77 | 24.695.221,00 | 12.347.610,50 | 57.811.205,09 | -20.768.373,59 | 1.539.016.619,26 |
+| 2038 | 439 / 6251 | 1.109.610,58 | 22.546.976,17 | 11.273.488,08 | 60.534.981,63 | -26.714.517,38 | 1.512.302.101,88 |
+| 2039 | 411 / 6662 | 1.045.387,78 | 20.214.219,32 | 10.107.109,66 | 62.590.594,22 | -32.269.265,24 | 1.480.032.836,64 |
+| 2040 | 467 / 7129 | 1.218.500,68 | 18.081.335,03 | 9.040.667,52 | 65.131.330,99 | -38.009.328,45 | 1.442.023.508,19 |
+| 2041 | 413 / 7542 | 1.146.827,61 | 15.820.142,68 | 7.910.071,34 | 66.993.162,52 | -43.262.948,50 | 1.398.760.559,70 |
+| 2042 | 443 / 7985 | 1.257.286,04 | 13.765.310,08 | 6.882.655,04 | 69.053.460,49 | -48.405.495,37 | 1.350.355.064,33 |
+| 2043 | 440 / 8425 | 1.358.926,04 | 11.665.311,25 | 5.832.655,62 | 71.165.638,75 | -53.667.671,88 | 1.296.687.392,45 |
+| 2044 | 387 / 8812 | 1.296.500,04 | 9.562.709,47 | 4.781.354,74 | 72.675.863,71 | -58.331.799,50 | 1.238.355.592,95 |
+| 2045 | 378 / 9190 | 1.284.027,91 | 7.653.414,74 | 3.826.707,37 | 73.805.527,00 | -62.325.404,88 | 1.176.030.188,07 |
+| 2046 | 379 / 9569 | 1.321.487,12 | 5.872.056,57 | 2.936.028,28 | 74.791.538,00 | -65.983.453,15 | 1.110.046.734,92 |
+| 2047 | 230 / 9799 | 804.455,38 | 4.151.017,67 | 2.075.508,84 | 73.639.960,09 | -67.413.433,58 | 1.042.633.301,34 |
+| 2048 | 216 / 10015 | 726.107,37 | 3.105.405,08 | 1.552.702,54 | 72.101.299,37 | -67.443.191,75 | 975.190.109,59 |
+| 2049 | 144 / 10159 | 527.795,89 | 2.213.225,20 | 1.106.612,60 | 69.825.837,22 | -66.505.999,42 | 908.684.110,17 |
+| 2050 | 124 / 10283 | 443.618,68 | 1.589.757,65 | 794.878,82 | 67.283.984,73 | -64.899.348,25 | 843.784.761,92 |
+| 2051 | 123 / 10406 | 478.541,80 | 1.089.332,24 | 544.666,12 | 64.854.926,16 | -63.220.927,80 | 780.563.834,12 |
+| 2052 | 86 / 10492 | 276.743,95 | 593.738,51 | 296.869,26 | 61.883.119,66 | -60.992.511,89 | 719.571.322,22 |
+| 2053 | 57 / 10549 | 131.882,38 | 310.791,64 | 155.395,82 | 58.587.048,68 | -58.120.861,21 | 661.450.461,01 |
+| 2054 | 38 / 10587 | 84.349,54 | 176.832,21 | 88.416,11 | 55.258.462,53 | -54.993.214,21 | 606.457.246,80 |
+| 2055 | 30 / 10617 | 47.412,94 | 94.633,81 | 47.316,90 | 51.950.161,50 | -51.808.210,78 | 554.649.036,02 |
+| 2056 | 16 / 10633 | 26.971,77 | 49.472,11 | 24.736,06 | 48.700.132,46 | -48.625.924,29 | 506.023.111,73 |
+| 2057 | 4 / 10637 | 5.443,96 | 24.631,72 | 12.315,86 | 45.517.413,41 | -45.480.465,83 | 460.542.645,90 |
+| 2058 | 3 / 10640 | 3.658,74 | 19.194,69 | 9.597,34 | 42.450.518,30 | -42.421.726,27 | 418.120.919,63 |
+| 2059 | 8 / 10648 | 10.630,83 | 15.502,99 | 7.751,49 | 39.511.648,92 | -39.488.394,44 | 378.632.525,19 |
+| 2060 | 4 / 10652 | 6.467,93 | 6.563,24 | 3.281,62 | 36.673.632,88 | -36.663.788,02 | 341.968.737,17 |
+| 2061 | 1 / 10653 | 1.767,07 | 1.367,74 | 683,87 | 33.931.652,60 | -33.929.600,99 | 308.039.136,18 |
+| 2062 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 31.284.068,12 | -31.284.068,12 | 276.755.068,06 |
+| 2063 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 28.757.996,41 | -28.757.996,41 | 247.997.071,64 |
+| 2064 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 26.322.908,09 | -26.322.908,09 | 221.674.163,56 |
+| 2065 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 23.988.212,93 | -23.988.212,93 | 197.685.950,63 |
+| 2066 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 21.774.338,77 | -21.774.338,77 | 175.911.611,85 |
+| 2067 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 19.683.007,48 | -19.683.007,48 | 156.228.604,37 |
+| 2068 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 17.713.545,71 | -17.713.545,71 | 138.515.058,67 |
+| 2069 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 15.844.735,18 | -15.844.735,18 | 122.670.323,48 |
+| 2070 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 14.071.960,12 | -14.071.960,12 | 108.598.363,36 |
+| 2071 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 12.436.991,19 | -12.436.991,19 | 96.161.372,17 |
+| 2072 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 10.888.736,71 | -10.888.736,71 | 85.272.635,46 |
+| 2073 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 9.483.824,68 | -9.483.824,68 | 75.788.810,78 |
+| 2074 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 8.170.439,41 | -8.170.439,41 | 67.618.371,37 |
+| 2075 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 6.971.272,36 | -6.971.272,36 | 60.647.099,02 |
+| 2076 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 5.873.876,32 | -5.873.876,32 | 54.773.222,70 |
+| 2077 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 4.922.506,77 | -4.922.506,77 | 49.850.715,92 |
+| 2078 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 4.067.182,43 | -4.067.182,43 | 45.783.533,49 |
+| 2079 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 3.301.011,94 | -3.301.011,94 | 42.482.521,55 |
+| 2080 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 2.644.296,14 | -2.644.296,14 | 39.838.225,41 |
+| 2081 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 2.074.453,26 | -2.074.453,26 | 37.763.772,14 |
+| 2082 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 1.611.281,66 | -1.611.281,66 | 36.152.490,48 |
+| 2083 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 1.219.581,77 | -1.219.581,77 | 34.932.908,71 |
+| 2084 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 904.027,61 | -904.027,61 | 34.028.881,10 |
+| 2085 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 641.019,55 | -641.019,55 | 33.387.861,56 |
+| 2086 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 438.735,27 | -438.735,27 | 32.949.126,28 |
+| 2087 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 294.062,59 | -294.062,59 | 32.655.063,70 |
+| 2088 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 188.564,29 | -188.564,29 | 32.466.499,41 |
+| 2089 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 117.672,46 | -117.672,46 | 32.348.826,95 |
+| 2090 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 74.061,14 | -74.061,14 | 32.274.765,80 |
+| 2091 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 46.573,51 | -46.573,51 | 32.228.192,29 |
+| 2092 | 0 / 10653 | 0,00 | 0,00 | 0,00 | 28.461,47 | -28.461,47 | 32.199.730,83 |
 
 Ressalta-se que, assim como os cálculos atuariais, as projeções apresentadas são extremamente sensíveis às hipóteses atuariais adotadas e às informações cadastrais disponíveis. Assim, a alteração destas pode impactar profundamente na apresentação dos resultados demonstrados.
 
@@ -1968,7 +1724,7 @@ Pelo Gráfico a seguir se observa uma massa não muito jovem de segurados e que,
 
 GRÁFICO 3 – Projeções atuariais - previdenciário
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 As projeções atuariais podem também ser utilizadas pelos gestores financeiros para otimizar a alocação dos recursos do RPPS, buscando comprar os melhores títulos cujos vencimentos sejam compatíveis com o fluxo do passivo. À técnica de compatibilização de ativos e passivos previdenciários se dá o nome de ALM (Asset Liability Management). Existem diversos modelos de ALM no mercado, desde os mais simples e determinísticos, até os complexos sistemas estocásticos.
 
@@ -1980,161 +1736,85 @@ Em um Plano Financeiro, estruturado em Regime de Repartição Simples, a projeç
 
 Os aportes necessários para manutenção do equilíbrio financeiro são apresentados separadamente em coluna específica e as análises complementares serão realizadas com base nos gráficos que seguem.
 
-|Exercício |Novos Benefícios |Novos Benefícios|Repasse |Despesa |Resultado |Contribuição |Saldo Financeiro |
-
-| |(Qtde. ano / |(R$) |Previdenciário |Previdenciária |Previdenciário |Complementar (Aporte | |
-
-| |Acumulado) | | | | |Financeiro) | |
-
-|2018 |5010 / 5010 |28.758.887,04 |428.994.004,05 |1.245.787.524,31 |-816.793.520,26 |793.516.953,56 |-793.516.953,56 |
-
-|2019 |0 / 5010 |0,00 |372.067.567,20 |1.162.627.117,68 |-790.559.550,47 |790.559.550,47 |-1.584.076.504,03 |
-
-|2020 |0 / 5010 |0,00 |379.534.073,88 |1.155.435.070,76 |-775.900.996,88 |775.900.996,88 |-2.359.977.500,91 |
-
-|2021 |283 / 5293 |872.935,89 |386.975.870,11 |1.157.884.496,73 |-770.908.626,63 |770.908.626,63 |-3.130.886.127,54 |
-
-|2022 |531 / 5824 |1.712.194,02 |389.761.438,80 |1.169.693.642,05 |-779.932.203,25 |779.932.203,25 |-3.910.818.330,78 |
-
-|2023 |440 / 6264 |1.481.811,06 |387.846.405,64 |1.178.689.101,09 |-790.842.695,46 |790.842.695,46 |-4.701.661.026,24 |
-
-|2024 |1024 / 7288 |4.418.257,90 |386.769.891,15 |1.221.904.257,39 |-835.134.366,24 |835.134.366,24 |-5.536.795.392,48 |
-
-|2025 |1239 / 8527 |5.463.790,50 |368.983.235,76 |1.277.487.114,02 |-908.503.878,26 |908.503.878,26 |-6.445.299.270,74 |
-
-|2026 |1091 / 9618 |5.084.899,74 |344.372.199,54 |1.328.052.634,99 |-983.680.435,45 |983.680.435,45 |-7.428.979.706,19 |
-
-|2027 |969 / 10587 |4.553.727,24 |320.854.908,87 |1.371.207.169,79 |-1.050.352.260,92 |1.050.352.260,92 |-8.479.331.967,11 |
-
-|2028 |959 / 11546 |4.599.957,38 |299.597.368,14 |1.413.933.313,34 |-1.114.335.945,21 |1.114.335.945,21 |-9.593.667.912,32 |
-
-|2029 |928 / 12474 |4.138.521,76 |277.221.232,72 |1.449.928.645,93 |-1.172.707.413,21 |1.172.707.413,21 |-10.766.375.325,53 |
-
-|2030 |803 / 13277 |3.700.718,83 |256.701.531,22 |1.479.240.716,18 |-1.222.539.184,95 |1.222.539.184,95 |-11.988.914.510,48 |
-
-|2031 |860 / 14137 |3.565.757,74 |238.004.147,23 |1.506.020.645,43 |-1.268.016.498,20 |1.268.016.498,20 |-13.256.931.008,68 |
-
-|2032 |823 / 14960 |3.631.827,07 |219.204.062,65 |1.532.308.355,78 |-1.313.104.293,13 |1.313.104.293,13 |-14.570.035.301,81 |
-
-|2033 |764 / 15724 |3.118.833,15 |199.186.042,66 |1.550.314.010,91 |-1.351.127.968,26 |1.351.127.968,26 |-15.921.163.270,07 |
-
-|2034 |717 / 16441 |2.739.924,54 |181.686.263,86 |1.561.755.859,82 |-1.380.069.595,96 |1.380.069.595,96 |-17.301.232.866,03 |
-
-|2035 |634 / 17075 |2.358.044,77 |165.987.399,61 |1.566.519.686,15 |-1.400.532.286,54 |1.400.532.286,54 |-18.701.765.152,57 |
-
-|2036 |562 / 17637 |2.217.084,59 |152.238.252,90 |1.567.541.332,85 |-1.415.303.079,95 |1.415.303.079,95 |-20.117.068.232,52 |
-
-|2037 |484 / 18121 |1.936.524,56 |138.887.231,00 |1.562.747.461,08 |-1.423.860.230,08 |1.423.860.230,08 |-21.540.928.462,60 |
-
-|2038 |463 / 18584 |1.897.842,82 |126.995.299,49 |1.555.872.321,71 |-1.428.877.022,21 |1.428.877.022,21 |-22.969.805.484,81 |
-
-|2039 |489 / 19073 |1.894.262,59 |114.844.304,60 |1.547.251.730,80 |-1.432.407.426,21 |1.432.407.426,21 |-24.402.212.911,01 |
-
-|2040 |438 / 19511 |1.605.918,91 |102.204.036,21 |1.532.556.542,69 |-1.430.352.506,47 |1.430.352.506,47 |-25.832.565.417,48 |
-
-|2041 |523 / 20034 |1.875.019,66 |91.216.621,23 |1.520.144.191,36 |-1.428.927.570,14 |1.428.927.570,14 |-27.261.492.987,62 |
-
-|2042 |488 / 20522 |1.884.559,46 |77.661.189,82 |1.506.365.077,85 |-1.428.703.888,03 |1.428.703.888,03 |-28.690.196.875,65 |
-
-|2043 |375 / 20897 |1.299.117,60 |63.624.028,33 |1.482.024.015,73 |-1.418.399.987,40 |1.418.399.987,40 |-30.108.596.863,05 |
-
-|2044 |356 / 21253 |1.310.441,80 |53.854.919,93 |1.455.939.464,83 |-1.402.084.544,91 |1.402.084.544,91 |-31.510.681.407,96 |
-
-|2045 |369 / 21622 |1.234.967,48 |43.615.294,23 |1.427.620.591,67 |-1.384.005.297,44 |1.384.005.297,44 |-32.894.686.705,39 |
-
-|2046 |339 / 21961 |979.491,72 |33.761.895,19 |1.393.943.514,15 |-1.360.181.618,96 |1.360.181.618,96 |-34.254.868.324,35 |
-
-|2047 |306 / 22267 |909.081,29 |25.711.000,13 |1.357.582.336,34 |-1.331.871.336,21 |1.331.871.336,21 |-35.586.739.660,57 |
-
-|2048 |214 / 22481 |700.771,08 |18.029.041,38 |1.317.347.165,96 |-1.299.318.124,58 |1.299.318.124,58 |-36.886.057.785,15 |
-
-|2049 |162 / 22643 |455.276,20 |11.902.084,38 |1.272.521.872,03 |-1.260.619.787,65 |1.260.619.787,65 |-38.146.677.572,80 |
-
-|2050 |127 / 22770 |349.482,16 |7.869.410,65 |1.225.697.573,02 |-1.217.828.162,37 |1.217.828.162,37 |-39.364.505.735,17 |
-
-|2051 |72 / 22842 |187.828,16 |4.643.545,19 |1.175.632.747,09 |-1.170.989.201,90 |1.170.989.201,90 |-40.535.494.937,07 |
-
-|2052 |50 / 22892 |135.912,46 |2.866.318,86 |1.125.068.869,50 |-1.122.202.550,64 |1.122.202.550,64 |-41.657.697.487,72 |
-
-|2053 |30 / 22922 |76.959,04 |1.546.666,17 |1.072.779.377,23 |-1.071.232.711,06 |1.071.232.711,06 |-42.728.930.198,77 |
-
-|2054 |12 / 22934 |27.591,79 |780.508,61 |1.020.529.850,28 |-1.019.749.341,67 |1.019.749.341,67 |-43.748.679.540,44 |
-
-|2055 |14 / 22948 |34.465,77 |501.178,44 |968.696.151,62 |-968.194.973,18 |968.194.973,18 |-44.716.874.513,62 |
-
-|2056 |5 / 22953 |12.891,30 |139.122,00 |916.826.556,21 |-916.687.434,21 |916.687.434,21 |-45.633.561.947,83 |
-
-|2057 |0 / 22953 |0,00 |0,00 |865.528.298,43 |-865.528.298,43 |865.528.298,43 |-46.499.090.246,26 |
-
-|2058 |0 / 22953 |0,00 |0,00 |815.567.932,52 |-815.567.932,52 |815.567.932,52 |-47.314.658.178,79 |
-
-|2059 |0 / 22953 |0,00 |0,00 |765.769.993,92 |-765.769.993,92 |765.769.993,92 |-48.080.428.172,70 |
-
-|2060 |0 / 22953 |0,00 |0,00 |717.403.443,03 |-717.403.443,03 |717.403.443,03 |-48.797.831.615,74 |
-
-|2061 |0 / 22953 |0,00 |0,00 |670.008.568,09 |-670.008.568,09 |670.008.568,09 |-49.467.840.183,82 |
-
-|2062 |0 / 22953 |0,00 |0,00 |623.295.287,20 |-623.295.287,20 |623.295.287,20 |-50.091.135.471,03 |
-
-|2063 |0 / 22953 |0,00 |0,00 |577.880.205,31 |-577.880.205,31 |577.880.205,31 |-50.669.015.676,33 |
-
-|2064 |0 / 22953 |0,00 |0,00 |534.161.717,24 |-534.161.717,24 |534.161.717,24 |-51.203.177.393,57 |
-
-|2065 |0 / 22953 |0,00 |0,00 |493.211.227,13 |-493.211.227,13 |493.211.227,13 |-51.696.388.620,70 |
-
-|2066 |0 / 22953 |0,00 |0,00 |452.750.620,67 |-452.750.620,67 |452.750.620,67 |-52.149.139.241,37 |
-
-|2067 |0 / 22953 |0,00 |0,00 |414.786.793,78 |-414.786.793,78 |414.786.793,78 |-52.563.926.035,15 |
-
-|2068 |0 / 22953 |0,00 |0,00 |378.055.212,34 |-378.055.212,34 |378.055.212,34 |-52.941.981.247,49 |
-
-|2069 |0 / 22953 |0,00 |0,00 |343.001.476,15 |-343.001.476,15 |343.001.476,15 |-53.284.982.723,64 |
-
-|2070 |0 / 22953 |0,00 |0,00 |309.165.229,48 |-309.165.229,48 |309.165.229,48 |-53.594.147.953,12 |
-
-|2071 |0 / 22953 |0,00 |0,00 |277.696.049,20 |-277.696.049,20 |277.696.049,20 |-53.871.844.002,33 |
-
-|2072 |0 / 22953 |0,00 |0,00 |248.163.899,47 |-248.163.899,47 |248.163.899,47 |-54.120.007.901,80 |
-
-|2073 |0 / 22953 |0,00 |0,00 |219.271.427,08 |-219.271.427,08 |219.271.427,08 |-54.339.279.328,88 |
-
-|2074 |0 / 22953 |0,00 |0,00 |192.587.268,30 |-192.587.268,30 |192.587.268,30 |-54.531.866.597,18 |
-
-|2075 |0 / 22953 |0,00 |0,00 |168.484.042,88 |-168.484.042,88 |168.484.042,88 |-54.700.350.640,06 |
-
-|2076 |0 / 22953 |0,00 |0,00 |144.772.883,86 |-144.772.883,86 |144.772.883,86 |-54.845.123.523,93 |
-
-|2077 |0 / 22953 |0,00 |0,00 |123.001.689,16 |-123.001.689,16 |123.001.689,16 |-54.968.125.213,09 |
-
-|2078 |0 / 22953 |0,00 |0,00 |102.774.043,23 |-102.774.043,23 |102.774.043,23 |-55.070.899.256,32 |
-
-|2079 |0 / 22953 |0,00 |0,00 |84.782.252,42 |-84.782.252,42 |84.782.252,42 |-55.155.681.508,74 |
-
-|2080 |0 / 22953 |0,00 |0,00 |68.677.883,01 |-68.677.883,01 |68.677.883,01 |-55.224.359.391,75 |
-
-|2081 |0 / 22953 |0,00 |0,00 |54.737.625,78 |-54.737.625,78 |54.737.625,78 |-55.279.097.017,52 |
-
-|2082 |0 / 22953 |0,00 |0,00 |42.160.426,55 |-42.160.426,55 |42.160.426,55 |-55.321.257.444,07 |
-
-|2083 |0 / 22953 |0,00 |0,00 |32.184.055,63 |-32.184.055,63 |32.184.055,63 |-55.353.441.499,70 |
-
-|2084 |0 / 22953 |0,00 |0,00 |24.207.153,63 |-24.207.153,63 |24.207.153,63 |-55.377.648.653,33 |
-
-|2085 |0 / 22953 |0,00 |0,00 |17.762.719,21 |-17.762.719,21 |17.762.719,21 |-55.395.411.372,54 |
-
-|2086 |0 / 22953 |0,00 |0,00 |12.584.477,13 |-12.584.477,13 |12.584.477,13 |-55.407.995.849,67 |
-
-|2087 |0 / 22953 |0,00 |0,00 |9.559.303,86 |-9.559.303,86 |9.559.303,86 |-55.417.555.153,53 |
-
-|2088 |0 / 22953 |0,00 |0,00 |7.493.832,06 |-7.493.832,06 |7.493.832,06 |-55.425.048.985,59 |
-
-|2089 |0 / 22953 |0,00 |0,00 |5.890.557,54 |-5.890.557,54 |5.890.557,54 |-55.430.939.543,12 |
-
-|2090 |0 / 22953 |0,00 |0,00 |4.859.040,91 |-4.859.040,91 |4.859.040,91 |-55.435.798.584,03 |
-
-|2091 |0 / 22953 |0,00 |0,00 |4.068.710,91 |-4.068.710,91 |4.068.710,91 |-55.439.867.294,94 |
-
-|2092 |0 / 22953 |0,00 |0,00 |3.707.398,71 |-3.707.398,71 |3.707.398,71 |-55.443.574.693,65 |
+| Exercício | Novos Benefícios | Novos Benefícios | Repasse | Despesa | Resultado | Contribuição | Saldo Financeiro |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | (Qtde. ano / | (R$) | Previdenciário | Previdenciária | Previdenciário | Complementar (Aporte |  |
+|  | Acumulado) |  |  |  |  | Financeiro) |  |
+| 2018 | 5010 / 5010 | 28.758.887,04 | 428.994.004,05 | 1.245.787.524,31 | -816.793.520,26 | 793.516.953,56 | -793.516.953,56 |
+| 2019 | 0 / 5010 | 0,00 | 372.067.567,20 | 1.162.627.117,68 | -790.559.550,47 | 790.559.550,47 | -1.584.076.504,03 |
+| 2020 | 0 / 5010 | 0,00 | 379.534.073,88 | 1.155.435.070,76 | -775.900.996,88 | 775.900.996,88 | -2.359.977.500,91 |
+| 2021 | 283 / 5293 | 872.935,89 | 386.975.870,11 | 1.157.884.496,73 | -770.908.626,63 | 770.908.626,63 | -3.130.886.127,54 |
+| 2022 | 531 / 5824 | 1.712.194,02 | 389.761.438,80 | 1.169.693.642,05 | -779.932.203,25 | 779.932.203,25 | -3.910.818.330,78 |
+| 2023 | 440 / 6264 | 1.481.811,06 | 387.846.405,64 | 1.178.689.101,09 | -790.842.695,46 | 790.842.695,46 | -4.701.661.026,24 |
+| 2024 | 1024 / 7288 | 4.418.257,90 | 386.769.891,15 | 1.221.904.257,39 | -835.134.366,24 | 835.134.366,24 | -5.536.795.392,48 |
+| 2025 | 1239 / 8527 | 5.463.790,50 | 368.983.235,76 | 1.277.487.114,02 | -908.503.878,26 | 908.503.878,26 | -6.445.299.270,74 |
+| 2026 | 1091 / 9618 | 5.084.899,74 | 344.372.199,54 | 1.328.052.634,99 | -983.680.435,45 | 983.680.435,45 | -7.428.979.706,19 |
+| 2027 | 969 / 10587 | 4.553.727,24 | 320.854.908,87 | 1.371.207.169,79 | -1.050.352.260,92 | 1.050.352.260,92 | -8.479.331.967,11 |
+| 2028 | 959 / 11546 | 4.599.957,38 | 299.597.368,14 | 1.413.933.313,34 | -1.114.335.945,21 | 1.114.335.945,21 | -9.593.667.912,32 |
+| 2029 | 928 / 12474 | 4.138.521,76 | 277.221.232,72 | 1.449.928.645,93 | -1.172.707.413,21 | 1.172.707.413,21 | -10.766.375.325,53 |
+| 2030 | 803 / 13277 | 3.700.718,83 | 256.701.531,22 | 1.479.240.716,18 | -1.222.539.184,95 | 1.222.539.184,95 | -11.988.914.510,48 |
+| 2031 | 860 / 14137 | 3.565.757,74 | 238.004.147,23 | 1.506.020.645,43 | -1.268.016.498,20 | 1.268.016.498,20 | -13.256.931.008,68 |
+| 2032 | 823 / 14960 | 3.631.827,07 | 219.204.062,65 | 1.532.308.355,78 | -1.313.104.293,13 | 1.313.104.293,13 | -14.570.035.301,81 |
+| 2033 | 764 / 15724 | 3.118.833,15 | 199.186.042,66 | 1.550.314.010,91 | -1.351.127.968,26 | 1.351.127.968,26 | -15.921.163.270,07 |
+| 2034 | 717 / 16441 | 2.739.924,54 | 181.686.263,86 | 1.561.755.859,82 | -1.380.069.595,96 | 1.380.069.595,96 | -17.301.232.866,03 |
+| 2035 | 634 / 17075 | 2.358.044,77 | 165.987.399,61 | 1.566.519.686,15 | -1.400.532.286,54 | 1.400.532.286,54 | -18.701.765.152,57 |
+| 2036 | 562 / 17637 | 2.217.084,59 | 152.238.252,90 | 1.567.541.332,85 | -1.415.303.079,95 | 1.415.303.079,95 | -20.117.068.232,52 |
+| 2037 | 484 / 18121 | 1.936.524,56 | 138.887.231,00 | 1.562.747.461,08 | -1.423.860.230,08 | 1.423.860.230,08 | -21.540.928.462,60 |
+| 2038 | 463 / 18584 | 1.897.842,82 | 126.995.299,49 | 1.555.872.321,71 | -1.428.877.022,21 | 1.428.877.022,21 | -22.969.805.484,81 |
+| 2039 | 489 / 19073 | 1.894.262,59 | 114.844.304,60 | 1.547.251.730,80 | -1.432.407.426,21 | 1.432.407.426,21 | -24.402.212.911,01 |
+| 2040 | 438 / 19511 | 1.605.918,91 | 102.204.036,21 | 1.532.556.542,69 | -1.430.352.506,47 | 1.430.352.506,47 | -25.832.565.417,48 |
+| 2041 | 523 / 20034 | 1.875.019,66 | 91.216.621,23 | 1.520.144.191,36 | -1.428.927.570,14 | 1.428.927.570,14 | -27.261.492.987,62 |
+| 2042 | 488 / 20522 | 1.884.559,46 | 77.661.189,82 | 1.506.365.077,85 | -1.428.703.888,03 | 1.428.703.888,03 | -28.690.196.875,65 |
+| 2043 | 375 / 20897 | 1.299.117,60 | 63.624.028,33 | 1.482.024.015,73 | -1.418.399.987,40 | 1.418.399.987,40 | -30.108.596.863,05 |
+| 2044 | 356 / 21253 | 1.310.441,80 | 53.854.919,93 | 1.455.939.464,83 | -1.402.084.544,91 | 1.402.084.544,91 | -31.510.681.407,96 |
+| 2045 | 369 / 21622 | 1.234.967,48 | 43.615.294,23 | 1.427.620.591,67 | -1.384.005.297,44 | 1.384.005.297,44 | -32.894.686.705,39 |
+| 2046 | 339 / 21961 | 979.491,72 | 33.761.895,19 | 1.393.943.514,15 | -1.360.181.618,96 | 1.360.181.618,96 | -34.254.868.324,35 |
+| 2047 | 306 / 22267 | 909.081,29 | 25.711.000,13 | 1.357.582.336,34 | -1.331.871.336,21 | 1.331.871.336,21 | -35.586.739.660,57 |
+| 2048 | 214 / 22481 | 700.771,08 | 18.029.041,38 | 1.317.347.165,96 | -1.299.318.124,58 | 1.299.318.124,58 | -36.886.057.785,15 |
+| 2049 | 162 / 22643 | 455.276,20 | 11.902.084,38 | 1.272.521.872,03 | -1.260.619.787,65 | 1.260.619.787,65 | -38.146.677.572,80 |
+| 2050 | 127 / 22770 | 349.482,16 | 7.869.410,65 | 1.225.697.573,02 | -1.217.828.162,37 | 1.217.828.162,37 | -39.364.505.735,17 |
+| 2051 | 72 / 22842 | 187.828,16 | 4.643.545,19 | 1.175.632.747,09 | -1.170.989.201,90 | 1.170.989.201,90 | -40.535.494.937,07 |
+| 2052 | 50 / 22892 | 135.912,46 | 2.866.318,86 | 1.125.068.869,50 | -1.122.202.550,64 | 1.122.202.550,64 | -41.657.697.487,72 |
+| 2053 | 30 / 22922 | 76.959,04 | 1.546.666,17 | 1.072.779.377,23 | -1.071.232.711,06 | 1.071.232.711,06 | -42.728.930.198,77 |
+| 2054 | 12 / 22934 | 27.591,79 | 780.508,61 | 1.020.529.850,28 | -1.019.749.341,67 | 1.019.749.341,67 | -43.748.679.540,44 |
+| 2055 | 14 / 22948 | 34.465,77 | 501.178,44 | 968.696.151,62 | -968.194.973,18 | 968.194.973,18 | -44.716.874.513,62 |
+| 2056 | 5 / 22953 | 12.891,30 | 139.122,00 | 916.826.556,21 | -916.687.434,21 | 916.687.434,21 | -45.633.561.947,83 |
+| 2057 | 0 / 22953 | 0,00 | 0,00 | 865.528.298,43 | -865.528.298,43 | 865.528.298,43 | -46.499.090.246,26 |
+| 2058 | 0 / 22953 | 0,00 | 0,00 | 815.567.932,52 | -815.567.932,52 | 815.567.932,52 | -47.314.658.178,79 |
+| 2059 | 0 / 22953 | 0,00 | 0,00 | 765.769.993,92 | -765.769.993,92 | 765.769.993,92 | -48.080.428.172,70 |
+| 2060 | 0 / 22953 | 0,00 | 0,00 | 717.403.443,03 | -717.403.443,03 | 717.403.443,03 | -48.797.831.615,74 |
+| 2061 | 0 / 22953 | 0,00 | 0,00 | 670.008.568,09 | -670.008.568,09 | 670.008.568,09 | -49.467.840.183,82 |
+| 2062 | 0 / 22953 | 0,00 | 0,00 | 623.295.287,20 | -623.295.287,20 | 623.295.287,20 | -50.091.135.471,03 |
+| 2063 | 0 / 22953 | 0,00 | 0,00 | 577.880.205,31 | -577.880.205,31 | 577.880.205,31 | -50.669.015.676,33 |
+| 2064 | 0 / 22953 | 0,00 | 0,00 | 534.161.717,24 | -534.161.717,24 | 534.161.717,24 | -51.203.177.393,57 |
+| 2065 | 0 / 22953 | 0,00 | 0,00 | 493.211.227,13 | -493.211.227,13 | 493.211.227,13 | -51.696.388.620,70 |
+| 2066 | 0 / 22953 | 0,00 | 0,00 | 452.750.620,67 | -452.750.620,67 | 452.750.620,67 | -52.149.139.241,37 |
+| 2067 | 0 / 22953 | 0,00 | 0,00 | 414.786.793,78 | -414.786.793,78 | 414.786.793,78 | -52.563.926.035,15 |
+| 2068 | 0 / 22953 | 0,00 | 0,00 | 378.055.212,34 | -378.055.212,34 | 378.055.212,34 | -52.941.981.247,49 |
+| 2069 | 0 / 22953 | 0,00 | 0,00 | 343.001.476,15 | -343.001.476,15 | 343.001.476,15 | -53.284.982.723,64 |
+| 2070 | 0 / 22953 | 0,00 | 0,00 | 309.165.229,48 | -309.165.229,48 | 309.165.229,48 | -53.594.147.953,12 |
+| 2071 | 0 / 22953 | 0,00 | 0,00 | 277.696.049,20 | -277.696.049,20 | 277.696.049,20 | -53.871.844.002,33 |
+| 2072 | 0 / 22953 | 0,00 | 0,00 | 248.163.899,47 | -248.163.899,47 | 248.163.899,47 | -54.120.007.901,80 |
+| 2073 | 0 / 22953 | 0,00 | 0,00 | 219.271.427,08 | -219.271.427,08 | 219.271.427,08 | -54.339.279.328,88 |
+| 2074 | 0 / 22953 | 0,00 | 0,00 | 192.587.268,30 | -192.587.268,30 | 192.587.268,30 | -54.531.866.597,18 |
+| 2075 | 0 / 22953 | 0,00 | 0,00 | 168.484.042,88 | -168.484.042,88 | 168.484.042,88 | -54.700.350.640,06 |
+| 2076 | 0 / 22953 | 0,00 | 0,00 | 144.772.883,86 | -144.772.883,86 | 144.772.883,86 | -54.845.123.523,93 |
+| 2077 | 0 / 22953 | 0,00 | 0,00 | 123.001.689,16 | -123.001.689,16 | 123.001.689,16 | -54.968.125.213,09 |
+| 2078 | 0 / 22953 | 0,00 | 0,00 | 102.774.043,23 | -102.774.043,23 | 102.774.043,23 | -55.070.899.256,32 |
+| 2079 | 0 / 22953 | 0,00 | 0,00 | 84.782.252,42 | -84.782.252,42 | 84.782.252,42 | -55.155.681.508,74 |
+| 2080 | 0 / 22953 | 0,00 | 0,00 | 68.677.883,01 | -68.677.883,01 | 68.677.883,01 | -55.224.359.391,75 |
+| 2081 | 0 / 22953 | 0,00 | 0,00 | 54.737.625,78 | -54.737.625,78 | 54.737.625,78 | -55.279.097.017,52 |
+| 2082 | 0 / 22953 | 0,00 | 0,00 | 42.160.426,55 | -42.160.426,55 | 42.160.426,55 | -55.321.257.444,07 |
+| 2083 | 0 / 22953 | 0,00 | 0,00 | 32.184.055,63 | -32.184.055,63 | 32.184.055,63 | -55.353.441.499,70 |
+| 2084 | 0 / 22953 | 0,00 | 0,00 | 24.207.153,63 | -24.207.153,63 | 24.207.153,63 | -55.377.648.653,33 |
+| 2085 | 0 / 22953 | 0,00 | 0,00 | 17.762.719,21 | -17.762.719,21 | 17.762.719,21 | -55.395.411.372,54 |
+| 2086 | 0 / 22953 | 0,00 | 0,00 | 12.584.477,13 | -12.584.477,13 | 12.584.477,13 | -55.407.995.849,67 |
+| 2087 | 0 / 22953 | 0,00 | 0,00 | 9.559.303,86 | -9.559.303,86 | 9.559.303,86 | -55.417.555.153,53 |
+| 2088 | 0 / 22953 | 0,00 | 0,00 | 7.493.832,06 | -7.493.832,06 | 7.493.832,06 | -55.425.048.985,59 |
+| 2089 | 0 / 22953 | 0,00 | 0,00 | 5.890.557,54 | -5.890.557,54 | 5.890.557,54 | -55.430.939.543,12 |
+| 2090 | 0 / 22953 | 0,00 | 0,00 | 4.859.040,91 | -4.859.040,91 | 4.859.040,91 | -55.435.798.584,03 |
+| 2091 | 0 / 22953 | 0,00 | 0,00 | 4.068.710,91 | -4.068.710,91 | 4.068.710,91 | -55.439.867.294,94 |
+| 2092 | 0 / 22953 | 0,00 | 0,00 | 3.707.398,71 | -3.707.398,71 | 3.707.398,71 | -55.443.574.693,65 |
 
 Ressalta-se que, assim como os cálculos atuariais, as projeções apresentadas são extremamente sensíveis às hipóteses atuariais adotadas e às informações cadastrais disponíveis. Com isso, a alteração destas pode impactar profundamente na apresentação dos resultados demonstrados.
 
@@ -2146,7 +1826,7 @@ Vale ressaltar ainda que se trata de cálculos considerando uma massa fechada de
 
 Gráfico 4 – Projeção Atuarial de Receitas e Despesas Previdenciárias
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 O Gráfico acima nos apresenta o fluxo atuarial estimado de Despesas Previdenciárias, de Contribuições Normais e de Contribuições Complementares para cobertura da insuficiência financeira.
 
@@ -2164,169 +1844,135 @@ O Anexo referente às estatísticas do Plano tem como objetivo demonstrar as obs
 
 TABELA 7 – DISTRIBUIÇÃO GERAL DA POPULAÇÃO
 
-|SITUAÇÃO DA POPULAÇÃO COBERTA|QUANTIDADE |REMUNERAÇÃO MÉDIA (R$) |IDADE MÉDIA |
-
-| |SEXO FEMININO |SEXO MASCULINO |SEXO |SEXO MASCULINO |SEXO FEMININO |SEXO MASCULINO |
-
-| | | |FEMININO | | | |
-
-|ATIVOS |9181 |1472 |R$ 2.302,68 |R$ 3.804,32 |39,47 |37,64 |
-
-|APOSENTADOS POR TEMPO DE |1 |0 |R$ 2.230,37 |R$ 0,00 |58,00 |0,00 |
-
-|CONTRIBUIÇÃO | | | | | | |
-
-|APOSENTADOS POR IDADE |0 |0 |R$ 0,00 |R$ 0,00 |0,00 |0,00 |
-
-|APOSENTADOS - COMPULSÓRIA |0 |1 |R$ 0,00 |R$ 937,00 |0,00 |73,00 |
-
-|APOSENTADOS POR INVALIDEZ |5 |1 |R$ 1.061,14 |R$ 1.088,93 |47,00 |53,00 |
-
-|PENSIONISTAS |6 |7 |R$ 1.942,99 |R$ 1.667,16 |35,83 |30,43 |
+| SITUAÇÃO DA POPULAÇÃO COBERTA | QUANTIDADE | REMUNERAÇÃO MÉDIA (R$) | IDADE MÉDIA |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | SEXO FEMININO | SEXO MASCULINO | SEXO | SEXO MASCULINO | SEXO FEMININO | SEXO MASCULINO |
+|  |  |  | FEMININO |  |  |  |
+| ATIVOS | 9181 | 1472 | R$ 2.302,68 | R$ 3.804,32 | 39,47 | 37,64 |
+| APOSENTADOS POR TEMPO DE | 1 | 0 | R$ 2.230,37 | R$ 0,00 | 58,00 | 0,00 |
+| CONTRIBUIÇÃO |  |  |  |  |  |  |
+| APOSENTADOS POR IDADE | 0 | 0 | R$ 0,00 | R$ 0,00 | 0,00 | 0,00 |
+| APOSENTADOS - COMPULSÓRIA | 0 | 1 | R$ 0,00 | R$ 937,00 | 0,00 | 73,00 |
+| APOSENTADOS POR INVALIDEZ | 5 | 1 | R$ 1.061,14 | R$ 1.088,93 | 47,00 | 53,00 |
+| PENSIONISTAS | 6 | 7 | R$ 1.942,99 | R$ 1.667,16 | 35,83 | 30,43 |
 
 Gráfico 5 – Distribuição da População por Sexo
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 6 – Distribuição Geral da População por Faixa Etária
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 7 – Distribuição Geral da População por Status
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 2. Estatísticas dos Servidores Ativos
 
 GRÁFICO 8 – DISTRIBUIÇÃO DOS SEGURADOS ATIVOS, POR FAIXA ETÁRIA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 9 – Distribuição dos Segurados Ativos, por Sexo
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 10 – Distribuição dos Segurados Ativos, por Estado Civil
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 11 – Distribuição dos Segurados Ativos, por Faixa de Salário de Contribuição
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 12 – Salário Médio dos Segurados Ativos por Idade
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 13 – Distribuição da população de segurados ativos por tempo de espera
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 14 – Tempo Médio de Contribuição dos Segurados Ativos
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 3 – Estatísticas dos Servidores Inativos
 
 GRÁFICO 15 – DISTRIBUIÇÃO DOS SEGURADOS INATIVOS POR FAIXA ETÁRIA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 16 – Distribuição dos Segurados Inativos por Sexo
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 GRÁFICO 17 – DISTRIBUIÇÃO DOS SEGURADOS INATIVOS POR FAIXA DE BENEFÍCIO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-Gráfico 18 – Distribuição dos Segurados Inativos por Tipo de Benefício[pic]
+Gráfico 18 – Distribuição dos Segurados Inativos por Tipo de Benefício*[imagem no documento original — ver `fonte_texto`]*
 
 4 – ESTATÍSTICAS DOS PENSIONISTAS
 
 GRÁFICO 19 – DISTRIBUIÇÃO DE PENSIONISTAS POR FAIXA ETÁRIA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 GRÁFICO 20 – DISTRIBUIÇÃO DE PENSIONISTA POR SEXO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 21 – Distribuição de Pensionista por Faixa de Benefício
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 5 – Análise Comparativa
 
 Tabela 8 – Análise Comparativa por Quantidade de Participantes
 
-|Situação da população |Quantidade |
-
-|coberta | |
-
-| |2017 |2018 |
-
-| |Sexo feminino |Sexo masculino |Sexo feminino |Sexo masculino |
-
-|Ativos |8758 |1351 |9181 |1472 |
-
-|Aposentados por Tempo de |0 |0 |1 |0 |
-
-|Contribuição | | | | |
-
-|Aposentados por idade |0 |0 |0 |0 |
-
-|Aposentados - Compulsória |0 |1 |0 |1 |
-
-|Aposentados por Invalidez |1 |0 |5 |1 |
-
-|Pensionistas |0 |0 |6 |7 |
+| Situação da população | Quantidade |  |  |  |
+| --- | --- | --- | --- | --- |
+| coberta |  |  |  |  |
+|  | 2017 | 2018 |  |  |
+|  | Sexo feminino | Sexo masculino | Sexo feminino | Sexo masculino |
+| Ativos | 8758 | 1351 | 9181 | 1472 |
+| Aposentados por Tempo de | 0 | 0 | 1 | 0 |
+| Contribuição |  |  |  |  |
+| Aposentados por idade | 0 | 0 | 0 | 0 |
+| Aposentados - Compulsória | 0 | 1 | 0 | 1 |
+| Aposentados por Invalidez | 1 | 0 | 5 | 1 |
+| Pensionistas | 0 | 0 | 6 | 7 |
 
 Tabela 9 – Análise Comparativa por Remuneração Média
 
-|Situação da população |Remuneração média |
-
-|coberta | |
-
-| |2017 |2018 |
-
-| |Sexo feminino |Sexo masculino |Sexo feminino |Sexo masculino |
-
-|Ativos |R$ 2.152,11 |R$ 3.531,59 |R$ 2.302,68 |R$ 3.804,32 |
-
-|Aposentados por Tempo de |R$ 0,00 |R$ 0,00 |R$ 2.230,37 |R$ 0,00 |
-
-|Contribuição | | | | |
-
-|Aposentados por idade |R$ 0,00 |R$ 0,00 |R$ 0,00 |R$ 0,00 |
-
-|Aposentados - Compulsória|R$ 0,00 |R$ 880,00 |R$ 0,00 |R$ 937,00 |
-
-|Aposentados por Invalidez|R$ 880,00 |R$ 0,00 |R$ 1.061,14 |R$ 1.088,93 |
-
-|Pensionistas |R$ 0,00 |R$ 0,00 |R$ 1.942,99 |R$ 1.667,16 |
+| Situação da população | Remuneração média |  |  |  |
+| --- | --- | --- | --- | --- |
+| coberta |  |  |  |  |
+|  | 2017 | 2018 |  |  |
+|  | Sexo feminino | Sexo masculino | Sexo feminino | Sexo masculino |
+| Ativos | R$ 2.152,11 | R$ 3.531,59 | R$ 2.302,68 | R$ 3.804,32 |
+| Aposentados por Tempo de | R$ 0,00 | R$ 0,00 | R$ 2.230,37 | R$ 0,00 |
+| Contribuição |  |  |  |  |
+| Aposentados por idade | R$ 0,00 | R$ 0,00 | R$ 0,00 | R$ 0,00 |
+| Aposentados - Compulsória | R$ 0,00 | R$ 880,00 | R$ 0,00 | R$ 937,00 |
+| Aposentados por Invalidez | R$ 880,00 | R$ 0,00 | R$ 1.061,14 | R$ 1.088,93 |
+| Pensionistas | R$ 0,00 | R$ 0,00 | R$ 1.942,99 | R$ 1.667,16 |
 
 Tabela 10 – Análise Comparativa por Idade
 
-|População coberta |Idade média |
-
-| |2017 |2018 |
-
-| |Sexo feminino |Sexo masculino |Sexo feminino |Sexo masculino |
-
-|Ativos |38,46 |37,02 |39,47 |37,64 |
-
-|Aposentados por Tempo de |0,00 |0,00 |58,00 |0,00 |
-
-|Contribuição | | | | |
-
-|Aposentados por idade |0,00 |0,00 |0,00 |0,00 |
-
-|Aposentados - Compulsória|0,00 |72,00 |0,00 |73,00 |
-
-|Aposentados por Invalidez|46,00 |0,00 |47,00 |53,00 |
-
-|Pensionistas |0,00 |0,00 |35,83 |30,43 |
+| População coberta | Idade média |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 2017 | 2018 |  |  |
+|  | Sexo feminino | Sexo masculino | Sexo feminino | Sexo masculino |
+| Ativos | 38,46 | 37,02 | 39,47 | 37,64 |
+| Aposentados por Tempo de | 0,00 | 0,00 | 58,00 | 0,00 |
+| Contribuição |  |  |  |  |
+| Aposentados por idade | 0,00 | 0,00 | 0,00 | 0,00 |
+| Aposentados - Compulsória | 0,00 | 72,00 | 0,00 | 73,00 |
+| Aposentados por Invalidez | 46,00 | 0,00 | 47,00 | 53,00 |
+| Pensionistas | 0,00 | 0,00 | 35,83 | 30,43 |
 
 ANEXO V – Estatísticas – Plano Financeiro
 
@@ -2336,183 +1982,143 @@ O Anexo referente às estatísticas do Plano tem como objetivo demonstrar as obs
 
 TABELA 11 – DISTRIBUIÇÃO GERAL DA POPULAÇÃO
 
-|SITUAÇÃO DA |QUANTIDADE |REMUNERAÇÃO MÉDIA |IDADE MÉDIA |
-
-|POPULAÇÃO COBERTA | |(R$) | |
-
-| |SEXO |SEXO |SEXO |SEXO |SEXO |SEXO |
-
-| |FEMININO |MASCULINO |FEMININO |MASCULINO |FEMININO |MASCULINO |
-
-|ATIVOS |16685 |6268 |R$ 4.299,60 |R$ 4.704,32 |48,31 |46,13 |
-
-|APOSENTADOS POR |9587 |2373 |R$ 4.674,58 |R$ 5.300,60 |64,91 |72,43 |
-
-|TEMPO DE | | | | | | |
-
-|CONTRIBUIÇÃO | | | | | | |
-
-|APOSENTADOS POR |681 |95 |R$ 1.888,60 |R$ 2.882,69 |71,28 |75,45 |
-
-|IDADE | | | | | | |
-
-|APOSENTADOS - |102 |44 |R$ 1.802,09 |R$ 2.181,04 |78,08 |78,70 |
-
-|COMPULSÓRIA | | | | | | |
-
-|APOSENTADOS POR |809 |344 |R$ 2.140,92 |R$ 2.683,37 |64,07 |67,56 |
-
-|INVALIDEZ | | | | | | |
-
-|PENSIONISTAS |2384 |638 |R$ 2.744,63 |R$ 2.321,06 |71,08 |54,65 |
+| SITUAÇÃO DA | QUANTIDADE | REMUNERAÇÃO MÉDIA | IDADE MÉDIA |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| POPULAÇÃO COBERTA |  | (R$) |  |  |  |  |
+|  | SEXO | SEXO | SEXO | SEXO | SEXO | SEXO |
+|  | FEMININO | MASCULINO | FEMININO | MASCULINO | FEMININO | MASCULINO |
+| ATIVOS | 16685 | 6268 | R$ 4.299,60 | R$ 4.704,32 | 48,31 | 46,13 |
+| APOSENTADOS POR | 9587 | 2373 | R$ 4.674,58 | R$ 5.300,60 | 64,91 | 72,43 |
+| TEMPO DE |  |  |  |  |  |  |
+| CONTRIBUIÇÃO |  |  |  |  |  |  |
+| APOSENTADOS POR | 681 | 95 | R$ 1.888,60 | R$ 2.882,69 | 71,28 | 75,45 |
+| IDADE |  |  |  |  |  |  |
+| APOSENTADOS - | 102 | 44 | R$ 1.802,09 | R$ 2.181,04 | 78,08 | 78,70 |
+| COMPULSÓRIA |  |  |  |  |  |  |
+| APOSENTADOS POR | 809 | 344 | R$ 2.140,92 | R$ 2.683,37 | 64,07 | 67,56 |
+| INVALIDEZ |  |  |  |  |  |  |
+| PENSIONISTAS | 2384 | 638 | R$ 2.744,63 | R$ 2.321,06 | 71,08 | 54,65 |
 
 Gráfico 22 – Distribuição da População por Sexo
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 GRÁFICO 23 – DISTRIBUIÇÃO GERAL DA POPULAÇÃO POR FAIXA ETÁRIA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 24 – Distribuição Geral da População por Status
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 2 – Estatísticas dos Servidores Ativos
 
 GRÁFICO 25 – DISTRIBUIÇÃO DOS SEGURADOS ATIVOS, POR FAIXA ETÁRIA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 GRÁFICO 26 – DISTRIBUIÇÃO DOS SEGURADOS ATIVOS, POR SEXO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 27 – Distribuição dos Segurados Ativos, por Estado Civil
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 28 – Distribuição dos Segurados Ativos, por Faixa de Salário de Contribuição
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 29 – Salário Médio dos Segurados Ativos por Idade
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 30 – Distribuição da População de Segurados Ativos por Tempo de Espera
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 31 – Tempo Médio de Contribuição dos Segurados Ativos
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 3 – Estatísticas dos Servidores Inativos
 
 GRÁFICO 32 – DISTRIBUIÇÃO DOS SEGURADOS INATIVOS POR FAIXA ETÁRIA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 GRÁFICO 33 – DISTRIBUIÇÃO DOS SEGURADOS INATIVOS POR SEXO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 GRÁFICO 34 – DISTRIBUIÇÃO DOS SEGURADOS INATIVOS POR FAIXA DE BENEFÍCIO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 GRÁFICO 35 – DISTRIBUIÇÃO DOS SEGURADOS INATIVOS POR TIPO DE BENEFÍCIO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 4 – ESTATÍSTICAS DOS PENSIONISTAS
 
 GRÁFICO 36 – DISTRIBUIÇÃO DE PENSIONISTAS POR FAIXA ETÁRIA
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 GRÁFICO 37 – DISTRIBUIÇÃO DE PENSIONISTA POR SEXO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Gráfico 38 – Distribuição de Pensionista por Faixa de Benefício
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 5 – Análise Comparativa
 
 TABELA 12 – ANÁLISE COMPARATIVA POR QUANTIDADE DE PARTICIPANTES
 
-|SITUAÇÃO DA POPULAÇÃO |QUANTIDADE |
-
-|COBERTA | |
-
-| |2017 |2018 |
-
-| |SEXO FEMININO |SEXO MASCULINO |SEXO FEMININO |SEXO MASCULINO |
-
-|ATIVOS |18020 |6476 |16685 |6268 |
-
-|APOSENTADOS POR TEMPO DE |4599 |1949 |9587 |2373 |
-
-|CONTRIBUIÇÃO | | | | |
-
-|APOSENTADOS POR IDADE |631 |91 |681 |95 |
-
-|APOSENTADOS - COMPULSÓRIA|102 |44 |102 |44 |
-
-|APOSENTADOS POR INVALIDEZ|823 |355 |809 |344 |
-
-|PENSIONISTAS |2379 |636 |2384 |638 |
+| SITUAÇÃO DA POPULAÇÃO | QUANTIDADE |  |  |  |
+| --- | --- | --- | --- | --- |
+| COBERTA |  |  |  |  |
+|  | 2017 | 2018 |  |  |
+|  | SEXO FEMININO | SEXO MASCULINO | SEXO FEMININO | SEXO MASCULINO |
+| ATIVOS | 18020 | 6476 | 16685 | 6268 |
+| APOSENTADOS POR TEMPO DE | 4599 | 1949 | 9587 | 2373 |
+| CONTRIBUIÇÃO |  |  |  |  |
+| APOSENTADOS POR IDADE | 631 | 91 | 681 | 95 |
+| APOSENTADOS - COMPULSÓRIA | 102 | 44 | 102 | 44 |
+| APOSENTADOS POR INVALIDEZ | 823 | 355 | 809 | 344 |
+| PENSIONISTAS | 2379 | 636 | 2384 | 638 |
 
 Tabela 13 – Análise Comparativa por Remuneração Média
 
-|SITUAÇÃO DA POPULAÇÃO |REMUNERAÇÃO MÉDIA |
-
-|COBERTA | |
-
-| |2017 |2018 |
-
-| |SEXO FEMININO |SEXO MASCULINO |SEXO FEMININO |SEXO MASCULINO |
-
-|ATIVOS |R$ 4.081,37 |R$ 4.305,05 |R$ 4.299,60 |R$ 4.704,32 |
-
-|APOSENTADOS POR TEMPO DE |R$ 4.332,42 |R$ 4.700,97 |R$ 4.674,58 |R$ 5.300,60 |
-
-|CONTRIBUIÇÃO | | | | |
-
-|APOSENTADOS POR IDADE |R$ 1.820,68 |R$ 2.762,08 |R$ 1.888,60 |R$ 2.882,69 |
-
-|APOSENTADOS - COMPULSÓRIA|R$ 1.729,35 |R$ 2.175,82 |R$ 1.802,09 |R$ 2.181,04 |
-
-|APOSENTADOS POR INVALIDEZ|R$ 2.092,14 |R$ 2.553,04 |R$ 2.140,92 |R$ 2.683,37 |
-
-|PENSIONISTAS |R$ 2.608,93 |R$ 2.134,17 |R$ 2.744,63 |R$ 2.321,06 |
+| SITUAÇÃO DA POPULAÇÃO | REMUNERAÇÃO MÉDIA |  |  |  |
+| --- | --- | --- | --- | --- |
+| COBERTA |  |  |  |  |
+|  | 2017 | 2018 |  |  |
+|  | SEXO FEMININO | SEXO MASCULINO | SEXO FEMININO | SEXO MASCULINO |
+| ATIVOS | R$ 4.081,37 | R$ 4.305,05 | R$ 4.299,60 | R$ 4.704,32 |
+| APOSENTADOS POR TEMPO DE | R$ 4.332,42 | R$ 4.700,97 | R$ 4.674,58 | R$ 5.300,60 |
+| CONTRIBUIÇÃO |  |  |  |  |
+| APOSENTADOS POR IDADE | R$ 1.820,68 | R$ 2.762,08 | R$ 1.888,60 | R$ 2.882,69 |
+| APOSENTADOS - COMPULSÓRIA | R$ 1.729,35 | R$ 2.175,82 | R$ 1.802,09 | R$ 2.181,04 |
+| APOSENTADOS POR INVALIDEZ | R$ 2.092,14 | R$ 2.553,04 | R$ 2.140,92 | R$ 2.683,37 |
+| PENSIONISTAS | R$ 2.608,93 | R$ 2.134,17 | R$ 2.744,63 | R$ 2.321,06 |
 
 Tabela 14 – Análise Comparativa por Idade
 
-|SITUAÇÃO DA POPULAÇÃO |IDADE MÉDIA |
-
-|COBERTA | |
-
-| |2017 |2018 |
-
-| |SEXO FEMININO |SEXO MASCULINO |SEXO FEMININO |SEXO MASCULINO |
-
-|ATIVOS |47,93 |45,47 |48,31 |46,13 |
-
-|APOSENTADOS POR TEMPO DE |66,76 |73,27 |64,91 |72,43 |
-
-|CONTRIBUIÇÃO | | | | |
-
-|APOSENTADOS POR IDADE |70,85 |75,59 |71,28 |75,45 |
-
-|APOSENTADOS - COMPULSÓRIA|77,27 |77,89 |78,08 |78,70 |
-
-|APOSENTADOS POR INVALIDEZ|63,31 |66,89 |64,07 |67,56 |
-
-|PENSIONISTAS |59,00 | |71,08 |54,65 |
+| SITUAÇÃO DA POPULAÇÃO | IDADE MÉDIA |  |  |  |
+| --- | --- | --- | --- | --- |
+| COBERTA |  |  |  |  |
+|  | 2017 | 2018 |  |  |
+|  | SEXO FEMININO | SEXO MASCULINO | SEXO FEMININO | SEXO MASCULINO |
+| ATIVOS | 47,93 | 45,47 | 48,31 | 46,13 |
+| APOSENTADOS POR TEMPO DE | 66,76 | 73,27 | 64,91 | 72,43 |
+| CONTRIBUIÇÃO |  |  |  |  |
+| APOSENTADOS POR IDADE | 70,85 | 75,59 | 71,28 | 75,45 |
+| APOSENTADOS - COMPULSÓRIA | 77,27 | 77,89 | 78,08 | 78,70 |
+| APOSENTADOS POR INVALIDEZ | 63,31 | 66,89 | 64,07 | 67,56 |
+| PENSIONISTAS | 59,00 |  | 71,08 | 54,65 |
 
 ANEXO VI – CONCEITOS E DEFINIÇÕES
 
@@ -2564,15 +2170,7 @@ v) Reserva para Oscilações de Riscos e Riscos Não Expirados: A Reserva de Ris
 
 w) Reserva de Benefícios a Regularizar: É a soma dos benefícios já concedidos e devidos, porém ainda não efetivamente pagos.
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.7 – Demonstrativo da Estimativa e Compensação da Renúncia de Receita
 
@@ -2582,7 +2180,7 @@ Estima-se que a renúncia de receita atinja o montante de R$ 59,8 milhões em 20
 
 As remissões estão avaliadas em cerca de R$3,0 milhões. As isenções respondem por, aproximadamente, R$21,4 milhões anuais da renúncia fiscal. Os benefícios fiscais concedidos por meio do IPTU estão estimados em R$2,6 milhões e, por meio do ITBI, em R$6,0 milhões, e os incentivos à cultura poderão chegar a R$12,8 milhões. O desconto concedido pela antecipação do pagamento do IPTU está estimado em R$35,4 milhões, referentes tanto à antecipação total quanto a parcelas do imposto.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.8 – Margem de Expansão das Despesas Obrigatórias de Caráter Continuado
 
@@ -2598,7 +2196,7 @@ Baseado no entendimento do aumento da arrecadação para fins de apuração do a
 
 Tabela 8.1
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 I.9 – PRIORIDADES PARA 2019
 
@@ -2748,69 +2346,39 @@ Os riscos fiscais advindos do estoque da dívida pública estão sob controle, n
 
 Do ponto de vista das ações judiciais trabalhistas e fiscais, existe um passivo contingente, em decorrência de demandas em tramitação, que provocará impacto nos cofres públicos municipais. Contudo, a incerteza de que naturalmente se reveste o resultado efetivo de tais demandas e a consequente repercussão nos cofres públicos municipais leva à estimativa de passivo meramente eventual, cujo caráter por si torna sua mensuração difícil e imprecisa.
 
-|MUNICÍPIO DE BELO HORIZONTE |
-
-|LEI DE DIRETRIZES ORÇAMENTÁRIAS |
-
-|ANEXO DE RISCOS FISCAIS |
-
-|DEMONSTRATIVO DE RISCOS FISCAIS E PROVIDÊNCIAS |
-
-|2019 |
-
-| |
-
-|ARF (LRF, art 4º, § 3º) |R$ 1.000,00 |
-
-|PASSIVOS CONTINGENTES |PROVIDÊNCIAS |
-
-|Descrição |Valor |Descrição |Valor |
-
-|Demandas Judiciais | |Abertura de créditos adicionais | |
-
-| | |a partir da Reserva de | |
-
-| | |Contingência e cancelamento de | |
-
-| | |despesas discricionárias. | |
-
-|Dívidas em Processo de Reconhecimento | | | |
-
-|Avais e Garantias Concedidas | | | |
-
-|Assunção de Passivos | | | |
-
-|Assistências Diversas | | | |
-
-|Outros Passivos Contingentes | | | |
-
-|SUBTOTAL |0 |SUBTOTAL |0 |
-
-| | |
-
-|DEMAIS RISCOS FISCAIS PASSIVOS |PROVIDÊNCIAS |
-
-|Descrição |Valor |Descrição |Valor |
-
-|Frustração de Arrecadação | |Abertura de créditos adicionais |108.982 |
-
-| | |a partir da Reserva de | |
-
-| | |Contingência e cancelamento de | |
-
-| | |despesas discricionárias. | |
-
-|Restituição de Tributos a Maior | | | |
-
-|Discrepância de Projeções: |108.982 | | |
-
-|Outros Riscos Fiscais | | | |
-
-|SUBTOTAL |108.982 |SUBTOTAL |108.982 |
-
-|TOTAL |108.982 |TOTAL |108.982 |
-
-|FONTE: Unidade Responsável SMPOG/SMFA/PGM, data da emissão 14/05/2018 | |
+| MUNICÍPIO DE BELO HORIZONTE |  |  |  |
+| --- | --- | --- | --- |
+| LEI DE DIRETRIZES ORÇAMENTÁRIAS |  |  |  |
+| ANEXO DE RISCOS FISCAIS |  |  |  |
+| DEMONSTRATIVO DE RISCOS FISCAIS E PROVIDÊNCIAS |  |  |  |
+| 2019 |  |  |  |
+|  |  |  |  |
+| ARF (LRF, art 4º, § 3º) | R$ 1.000,00 |  |  |
+| PASSIVOS CONTINGENTES | PROVIDÊNCIAS |  |  |
+| Descrição | Valor | Descrição | Valor |
+| Demandas Judiciais |  | Abertura de créditos adicionais |  |
+|  |  | a partir da Reserva de |  |
+|  |  | Contingência e cancelamento de |  |
+|  |  | despesas discricionárias. |  |
+| Dívidas em Processo de Reconhecimento |  |  |  |
+| Avais e Garantias Concedidas |  |  |  |
+| Assunção de Passivos |  |  |  |
+| Assistências Diversas |  |  |  |
+| Outros Passivos Contingentes |  |  |  |
+| SUBTOTAL | 0 | SUBTOTAL | 0 |
+|  |  |  |  |
+| DEMAIS RISCOS FISCAIS PASSIVOS | PROVIDÊNCIAS |  |  |
+| Descrição | Valor | Descrição | Valor |
+| Frustração de Arrecadação |  | Abertura de créditos adicionais | 108.982 |
+|  |  | a partir da Reserva de |  |
+|  |  | Contingência e cancelamento de |  |
+|  |  | despesas discricionárias. |  |
+| Restituição de Tributos a Maior |  |  |  |
+| Discrepância de Projeções: | 108.982 |  |  |
+| Outros Riscos Fiscais |  |  |  |
+| SUBTOTAL | 108.982 | SUBTOTAL | 108.982 |
+| TOTAL | 108.982 | TOTAL | 108.982 |
+| FONTE: Unidade Responsável SMPOG/SMFA/PGM, data da emissão 14/05/2018 |  |  |  |
 
 -----------------------
 

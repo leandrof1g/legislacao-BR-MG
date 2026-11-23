@@ -30,19 +30,14 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “TABELA I PARA LANÇAMENTO DAS TAXAS INSTITUÍDAS PELO MUNICÍPIO [...] VII - TAXA DE EXPEDIENTE: [...]
 
-|V - Atividades Relacionadas ao Licenciamento, à Inspeção e à Vigilância Sanitária: |
-
-|[...] |
-
-|4 - Atividades relacionadas à apreensão e guarda de animais: |
-
-|[...] |
-
-|4.3 - Animais de grande porte: |
-
-|4.3.1 - Apreensão |R$100,50 |
-
-|4.3.2 - Diária |R$105,50 p/dia |
+| V - Atividades Relacionadas ao Licenciamento, à Inspeção e à Vigilância Sanitária: |  |
+| --- | --- |
+| [...] |  |
+| 4 - Atividades relacionadas à apreensão e guarda de animais: |  |
+| [...] |  |
+| 4.3 - Animais de grande porte: |  |
+| 4.3.1 - Apreensão | R$100,50 |
+| 4.3.2 - Diária | R$105,50 p/dia |
 
 .”.
 

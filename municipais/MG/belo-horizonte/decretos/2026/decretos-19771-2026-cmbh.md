@@ -58,69 +58,42 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei|R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.0088.3091.339039.1.500.000 |1.112.000,00 |
-
-|4001.28.846.0088.3091.339047.1.500.000 |555.000,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2539.449051.1.759.000 |185.298,95 |
-
-|Secretaria Municipal de Mobilidade Urbana – SMMUR |
-
-|3500.26.452.0305.2910.339039.1.754.790 |1.072.000,00 |
-
-|TOTAL |2.924.298,95 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 8º da Lei nº|R$ |
-
-|11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.339030.1.500.000 |132.510,30 |
-
-|TOTAL |132.510,30 |
-
-|TOTAL DA SUPLEMENTAÇÃO |3.056.809,25 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da Lei | R$ |
+| --- | --- |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.0088.3091.339039.1.500.000 | 1.112.000,00 |
+| 4001.28.846.0088.3091.339047.1.500.000 | 555.000,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2539.449051.1.759.000 | 185.298,95 |
+| Secretaria Municipal de Mobilidade Urbana – SMMUR |  |
+| 3500.26.452.0305.2910.339039.1.754.790 | 1.072.000,00 |
+| TOTAL | 2.924.298,95 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 8º da Lei nº | R$ |
+| 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.339030.1.500.000 | 132.510,30 |
+| TOTAL | 132.510,30 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.056.809,25 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.843.0091.3501.329021.1.500.000 |1.667.000,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2537.339035.1.759.000 |185.298,95 |
-
-|Secretaria Municipal de Mobilidade Urbana – SMMUR |
-
-|3500.26.452.0305.2910.449052.1.754.790 |1.072.000,00 |
-
-|TOTAL |2.924.298,95 |
-
-|I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previsto no seguinte órgão: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.449052.1.500.000 |132.510,30 |
-
-|TOTAL |132.510,30 |
-
-|TOTAL DA ANULAÇÃO |3.056.809,25 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.843.0091.3501.329021.1.500.000 | 1.667.000,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2537.339035.1.759.000 | 185.298,95 |
+| Secretaria Municipal de Mobilidade Urbana – SMMUR |  |
+| 3500.26.452.0305.2910.449052.1.754.790 | 1.072.000,00 |
+| TOTAL | 2.924.298,95 |
+| I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previsto no seguinte órgão: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.449052.1.500.000 | 132.510,30 |
+| TOTAL | 132.510,30 |
+| TOTAL DA ANULAÇÃO | 3.056.809,25 |
 
 ANEXO II
 
@@ -158,48 +131,30 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.192.151.689,51 |
-
-|Valor do decreto publicado nesta data |R$ 2.924.298,95 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.195.075.988,46 |
-
-|Saldo atual de créditos suplementares |R$ 1.297.359.079,14 |
-
-|Percentual utilizado |47,95% |
-
-|Atualizado em 30/09/2026 às 08:50:25 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.192.151.689,51 |
+| Valor do decreto publicado nesta data | R$ 2.924.298,95 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.195.075.988,46 |
+| Saldo atual de créditos suplementares | R$ 1.297.359.079,14 |
+| Percentual utilizado | 47,95% |
+| Atualizado em 30/09/2026 às 08:50:25 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 8º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 207.210.703,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 29.868.687,02 |
-
-|Valor do decreto publicado nesta data |R$ 132.510,30 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 30.001.197,32 |
-
-|Saldo atual de créditos suplementares |R$ 177.209.505,68 |
-
-|Percentual utilizado |14,48% |
-
-|Atualizado em 30/09/2026 às 08:50:46 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 207.210.703,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 29.868.687,02 |
+| Valor do decreto publicado nesta data | R$ 132.510,30 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 30.001.197,32 |
+| Saldo atual de créditos suplementares | R$ 177.209.505,68 |
+| Percentual utilizado | 14,48% |
+| Atualizado em 30/09/2026 às 08:50:46 |  |

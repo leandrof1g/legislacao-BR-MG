@@ -374,7 +374,7 @@ Colégio Municipal e Anexo Salgado Filho Médico 03 Dentista 03 Auxiliar de Enfe
 
 Colégio IMACO Oficial Redator 01 Estatístico I 01 Zelador I 01 Servente 56 Auxiliar de Enfermagem 02 Dentista 03 Médico 03 Eletricista 01 Bombeiro 01 Carpinteiro 01 Pedreiro 01
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

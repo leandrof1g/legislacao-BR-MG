@@ -54,14 +54,10 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Tranportes Urbanos – FTU –, conforme autorização contida no inciso I do § 1º do art. 43 da Lei |
-
-|Federal nº 4.320, de 17 de março de 1964: |
-
-|R$ |
-
-|2710.26.452.060.2.837.3390.0000 |9.000.000,00 |
-
-|2710.26.452.303.2.909.3390.0000 |1.104.793,78 |
-
-|TOTAL DA SUPLEMENTAÇÃO |10.104.793,78 |
+| I.1 – A favor do Fundo Municipal de Tranportes Urbanos – FTU –, conforme autorização contida no inciso I do § 1º do art. 43 da Lei |  |
+| --- | --- |
+| Federal nº 4.320, de 17 de março de 1964: |  |
+| R$ |  |
+| 2710.26.452.060.2.837.3390.0000 | 9.000.000,00 |
+| 2710.26.452.303.2.909.3390.0000 | 1.104.793,78 |
+| TOTAL DA SUPLEMENTAÇÃO | 10.104.793,78 |

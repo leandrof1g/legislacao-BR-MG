@@ -42,11 +42,10 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 J - Dias comemorativos de outubro:
 
-|DATA |COMEMORAÇÃO |
-
-|4/10 |Dia Municipal do Agente Comunitário de Saúde, do Agente de Combate a Endemias e do Agente |
-
-| |Sanitário |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 4/10 | Dia Municipal do Agente Comunitário de Saúde, do Agente de Combate a Endemias e do Agente |
+|  | Sanitário |
 
 .”.
 

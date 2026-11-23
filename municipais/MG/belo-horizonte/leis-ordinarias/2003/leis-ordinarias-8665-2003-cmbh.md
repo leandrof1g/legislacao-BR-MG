@@ -162,45 +162,27 @@ V - Técnico de Enfermagem, com 2 (duas) vagas.
 
 QUADRO DE CARGOS DE PROVIMENTO EFETIVO
 
-|CÓDIGO |DENOMINAÇÃO |VAGAS |CLASSE |
-
-|CMPE01 |Oficial Legislativo I |conf. art. 225 |E.2 |
-
-|CMPE02 |Oficial Legislativo II |conf. art. 225 |E.2 |
-
-|CMPE03 |Técnico de Enfermagem |2 |E.2 |
-
-|CMPE04 |Técnico Legislativo |250 |E.2 |
-
-|CMPE05 |Administrador |7 |E.3 |
-
-|CMPE06 |Analista de Tecnologia da Informação |4 |E.3 |
-
-|CMPE07 |Arquiteto |1 |E.3 |
-
-|CMPE08 |Assistente Social |2 |E.3 |
-
-|CMPE09 |Contador |5 |E.3 |
-
-|CMPE10 |Coordenador do Processo Legislativo |15 |E.3 |
-
-|CMPE11 |Economista |1 |E.3 |
-
-|CMPE12 |Enfermeiro do Trabalho |1 |E.3 |
-
-|CMPE13 |Engenheiro Civil |2 |E.3 |
-
-|CMPE14 |Médico Clínico |2 |E.3 |
-
-|CMPE15 |Médico do Trabalho |2 |E.3 |
-
-|CMPE16 |Procurador |12 |E.3 |
-
-|CMPE17 |Psicólogo |5 |E.3 |
-
-|CMPE18 |Redator |8 |E.3 |
-
-| | | |(NR)". |
+| CÓDIGO | DENOMINAÇÃO | VAGAS | CLASSE |
+| --- | --- | --- | --- |
+| CMPE01 | Oficial Legislativo I | conf. art. 225 | E.2 |
+| CMPE02 | Oficial Legislativo II | conf. art. 225 | E.2 |
+| CMPE03 | Técnico de Enfermagem | 2 | E.2 |
+| CMPE04 | Técnico Legislativo | 250 | E.2 |
+| CMPE05 | Administrador | 7 | E.3 |
+| CMPE06 | Analista de Tecnologia da Informação | 4 | E.3 |
+| CMPE07 | Arquiteto | 1 | E.3 |
+| CMPE08 | Assistente Social | 2 | E.3 |
+| CMPE09 | Contador | 5 | E.3 |
+| CMPE10 | Coordenador do Processo Legislativo | 15 | E.3 |
+| CMPE11 | Economista | 1 | E.3 |
+| CMPE12 | Enfermeiro do Trabalho | 1 | E.3 |
+| CMPE13 | Engenheiro Civil | 2 | E.3 |
+| CMPE14 | Médico Clínico | 2 | E.3 |
+| CMPE15 | Médico do Trabalho | 2 | E.3 |
+| CMPE16 | Procurador | 12 | E.3 |
+| CMPE17 | Psicólogo | 5 | E.3 |
+| CMPE18 | Redator | 8 | E.3 |
+|  |  |  | (NR)". |
 
 **Art. 22** - Ficam criados os seguintes cargos:
 
@@ -236,55 +218,38 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO
 
 I.1 - Recrutamento Amplo - Secretaria da Câmara
 
-|CÓDIGO |DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|CMPC01 |Diretor-Geral |1 |9 |
-
-|CMPC02 |Procurador-Geral |1 |9 |
-
-|CMPC03 |Auditor |1 |8 |
-
-|CMPC04 |Chefe de Gabinete da Presidência |1 |8 |
-
-|CMPC05 |Coordenador |3 |7 |
-
-|CMPC06 |Assessor Analista de Dados |1 |7 |
-
-|CMPC07 |Secretário da Presidência |1 |5 |
-
-|CMPC08 |Atendente da Presidência |4 |4 |
-
-|CMPC09 |Agente Legislativo Especial |4 |3 |
+| CÓDIGO | DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- | --- |
+| CMPC01 | Diretor-Geral | 1 | 9 |
+| CMPC02 | Procurador-Geral | 1 | 9 |
+| CMPC03 | Auditor | 1 | 8 |
+| CMPC04 | Chefe de Gabinete da Presidência | 1 | 8 |
+| CMPC05 | Coordenador | 3 | 7 |
+| CMPC06 | Assessor Analista de Dados | 1 | 7 |
+| CMPC07 | Secretário da Presidência | 1 | 5 |
+| CMPC08 | Atendente da Presidência | 4 | 4 |
+| CMPC09 | Agente Legislativo Especial | 4 | 3 |
 
 I.2 - Recrutamento Amplo - Gabinete Parlamentar
 
-|CÓDIGO |DENOMINAÇÃO |VAGAS |NÍVEL |
-
-|CMPC10 |Chefe de Gabinete Parlamentar |37 |8 |
-
-|CMPC11 |Atendente Parlamentar |37 |4 |
-
-|CMPC12 |Auxiliar Legislativo |37 |1 |
-
-|CMPC13 |Assessor Parlamentar |conf. art. 149 |conf. art. 148|
+| CÓDIGO | DENOMINAÇÃO | VAGAS | NÍVEL |
+| --- | --- | --- | --- |
+| CMPC10 | Chefe de Gabinete Parlamentar | 37 | 8 |
+| CMPC11 | Atendente Parlamentar | 37 | 4 |
+| CMPC12 | Auxiliar Legislativo | 37 | 1 |
+| CMPC13 | Assessor Parlamentar | conf. art. 149 | conf. art. 148 |
 
 I.3 - Recrutamento Limitado - Secretaria da Câmara
 
-|CÓDIGO |DENOMINAÇÃO |VAGAS |
-
-|CMPC14 |Diretor |3 |
-
-|CMPC15 |Procurador-Geral Adjunto |1 |
-
-|CMPC16 |Chefe de Divisão |12 |
-
-|CMPC17 |Assistente de Diretoria |4 |
-
-|CMPC18 |Chefe de Seção |15 |
-
-|CMPC19 |Chefe de Serviço |5 |
-
-| | |(NR)". |
+| CÓDIGO | DENOMINAÇÃO | VAGAS |
+| --- | --- | --- |
+| CMPC14 | Diretor | 3 |
+| CMPC15 | Procurador-Geral Adjunto | 1 |
+| CMPC16 | Chefe de Divisão | 12 |
+| CMPC17 | Assistente de Diretoria | 4 |
+| CMPC18 | Chefe de Seção | 15 |
+| CMPC19 | Chefe de Serviço | 5 |
+|  |  | (NR)". |
 
 **Art. 26** - O Anexo V da Lei nº 7.863/99 passa a conter os cargos seguintes, criados por esta Lei e distribuídos no referido Anexo, conforme a natureza de provimento determinada por esta Lei, com as respectivas atribuições:
 

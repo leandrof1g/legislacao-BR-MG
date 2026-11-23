@@ -62,14 +62,5 @@ Geraldo Majella Barreto
 
 Secretário Municipal de Administração
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

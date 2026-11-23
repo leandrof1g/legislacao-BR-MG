@@ -58,207 +58,111 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339039.1.500.000 |191.226,00 |
-
-|2505.18.541.0073.2580.339039.1.500.000 |535.262,00 |
-
-|2505.04.122.0165.2816.339039.1.500.000 |57.911,51 |
-
-|2505.18.541.0073.2581.339039.1.500.000 |140.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2702.339030.1.569.000 |10.000,00 |
-
-|2200.12.365.0167.2701.339039.1.550.000 |1.296.000,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.0085.2940.339040.1.500.000 |24.699,00 |
-
-|0604.19.572.0085.2940.339030.1.500.000 |3.607,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0020.2403.339039.1.500.000 |309.200,00 |
-
-|3701.08.243.0020.2409.339037.1.500.000 |4.500,00 |
-
-|3701.08.244.0113.2327.339039.1.500.000 |4.900,00 |
-
-|3701.08.244.0113.2334.339037.1.500.000 |3.000,00 |
-
-|3701.08.245.0020.2403.339039.1.661.000 |3.154.600,00 |
-
-|3701.08.244.0019.2405.339037.1.500.000 |170.000,00 |
-
-|3701.08.244.0113.2327.339039.1.661.000 |44.000,00 |
-
-|3701.08.245.0019.2308.339093.1.660.000 |18.300,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2933.339039.1.500.000 |225.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0073.1202.449051.1.500.000 |169.266,00 |
-
-|2700.04.122.0233.1219.449051.1.500.000 |725.378,00 |
-
-|2700.15.451.0233.1396.449051.1.500.000 |58.902,00 |
-
-|2700.15.451.0171.1399.449051.1.500.000 |717.000,00 |
-
-|2700.16.482.0225.1231.449051.1.500.000 |350.000,00 |
-
-|2700.04.122.0044.1219.449051.1.500.000 |218.062,00 |
-
-|2700.15.451.0171.1399.449051.1.759.000 |113.056,00 |
-
-|2700.15.451.0084.2035.456783.1.751.000 |12.880.250,00 |
-
-|2700.15.451.0062.1403.449051.1.710.010 |160.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.11.334.0237.2404.339037.1.500.000 |19.360,00 |
-
-|Fundo Municipal de Cultura – FPC |
-
-|3101.13.392.0170.2369.449052.2.719.000 |1.442.203,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2854.449052.1.500.000 |9.014,20 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0046.2539.339039.1.500.000 |15.300.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2900.339014.1.500.000 |50.000,00 |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.04.122.0105.2900.339037.1.500.000 |565.115,74 |
-
-|0800.04.122.0105.2900.339040.1.500.000 |29.863,26 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0127.2819.339039.1.500.000 |115.000,00 |
-
-|3700.14.243.0127.2957.339037.1.500.000 |174.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |39.288.675,71 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339039.1.500.000 | 191.226,00 |
+| 2505.18.541.0073.2580.339039.1.500.000 | 535.262,00 |
+| 2505.04.122.0165.2816.339039.1.500.000 | 57.911,51 |
+| 2505.18.541.0073.2581.339039.1.500.000 | 140.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2702.339030.1.569.000 | 10.000,00 |
+| 2200.12.365.0167.2701.339039.1.550.000 | 1.296.000,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.0085.2940.339040.1.500.000 | 24.699,00 |
+| 0604.19.572.0085.2940.339030.1.500.000 | 3.607,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0020.2403.339039.1.500.000 | 309.200,00 |
+| 3701.08.243.0020.2409.339037.1.500.000 | 4.500,00 |
+| 3701.08.244.0113.2327.339039.1.500.000 | 4.900,00 |
+| 3701.08.244.0113.2334.339037.1.500.000 | 3.000,00 |
+| 3701.08.245.0020.2403.339039.1.661.000 | 3.154.600,00 |
+| 3701.08.244.0019.2405.339037.1.500.000 | 170.000,00 |
+| 3701.08.244.0113.2327.339039.1.661.000 | 44.000,00 |
+| 3701.08.245.0019.2308.339093.1.660.000 | 18.300,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2933.339039.1.500.000 | 225.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0073.1202.449051.1.500.000 | 169.266,00 |
+| 2700.04.122.0233.1219.449051.1.500.000 | 725.378,00 |
+| 2700.15.451.0233.1396.449051.1.500.000 | 58.902,00 |
+| 2700.15.451.0171.1399.449051.1.500.000 | 717.000,00 |
+| 2700.16.482.0225.1231.449051.1.500.000 | 350.000,00 |
+| 2700.04.122.0044.1219.449051.1.500.000 | 218.062,00 |
+| 2700.15.451.0171.1399.449051.1.759.000 | 113.056,00 |
+| 2700.15.451.0084.2035.456783.1.751.000 | 12.880.250,00 |
+| 2700.15.451.0062.1403.449051.1.710.010 | 160.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.11.334.0237.2404.339037.1.500.000 | 19.360,00 |
+| Fundo Municipal de Cultura – FPC |  |
+| 3101.13.392.0170.2369.449052.2.719.000 | 1.442.203,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2854.449052.1.500.000 | 9.014,20 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0046.2539.339039.1.500.000 | 15.300.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2900.339014.1.500.000 | 50.000,00 |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.04.122.0105.2900.339037.1.500.000 | 565.115,74 |
+| 0800.04.122.0105.2900.339040.1.500.000 | 29.863,26 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0127.2819.339039.1.500.000 | 115.000,00 |
+| 3700.14.243.0127.2957.339037.1.500.000 | 174.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 39.288.675,71 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339037.1.500.000 |924.399,51 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2542.339030.1.550.000 |1.296.000,00 |
-
-|2200.12.365.0316.2948.456782.1.569.000 |10.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.243.0019.2647.339039.1.500.000 |135.000,00 |
-
-|3701.08.245.0020.2403.339039.1.660.000 |18.300,00 |
-
-|3701.08.245.0020.2409.339048.1.500.000 |4.500,00 |
-
-|3701.08.245.0019.2308.339039.1.500.000 |177.200,00 |
-
-|3701.08.245.0019.2308.339037.1.500.000 |170.000,00 |
-
-|3701.08.244.0019.2405.339037.1.661.000 |3.198.600,00 |
-
-|3701.08.244.0113.2804.339039.1.500.000 |22.900,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449051.1.710.010 |50.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2545.339039.1.500.000 |225.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.04.122.0233.1219.449051.1.500.000 |608.826,00 |
-
-|2700.17.512.0066.1400.449051.1.759.000 |113.056,00 |
-
-|2700.13.392.0146.1215.449051.1.500.000 |350.000,00 |
-
-|2700.13.391.0319.1215.449051.1.500.000 |1.279.782,00 |
-
-|2700.15.451.0062.1230.449051.1.710.010 |110.000,00 |
-
-|2700.15.451.0062.1230.449051.1.751.000 |7.000.000,00 |
-
-|2700.15.451.0084.2035.339039.1.751.000 |4.535.650,00 |
-
-|2700.15.451.0084.2035.339092.1.751.000 |12.000,00 |
-
-|2700.15.451.0084.2035.339093.1.751.000 |1.287.600,00 |
-
-|2700.15.451.0084.2035.449052.1.751.000 |45.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.0141.2852.339039.1.500.000 |19.360,00 |
-
-|Fundo Municipal de Cultura – FPC |
-
-|3101.13.392.0170.2369.339039.2.719.000 |1.442.203,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2854.339030.1.500.000 |9.014,20 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0228.2538.339039.1.500.000 |15.000.000,00 |
-
-|2708.17.512.0046.2539.339039.1.500.000 |300.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2914.339039.1.500.000 |50.000,00 |
-
-|Secretaria Municipal de Fazenda - SMFA |
-
-|0800.04.129.0013.2052.339039.1.500.000 |594.979,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0127.2334.339036.1.500.000 |115.000,00 |
-
-|3700.08.122.0123.2900.339039.1.500.000 |54.000,00 |
-
-|3700.14.243.0127.2957.339039.1.500.000 |120.000,00 |
-
-|3700.14.422.0127.2819.339030.1.500.000 |10.306,00 |
-
-|TOTAL DA ANULAÇÃO |39.288.675,71 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339037.1.500.000 | 924.399,51 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.339030.1.550.000 | 1.296.000,00 |
+| 2200.12.365.0316.2948.456782.1.569.000 | 10.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.243.0019.2647.339039.1.500.000 | 135.000,00 |
+| 3701.08.245.0020.2403.339039.1.660.000 | 18.300,00 |
+| 3701.08.245.0020.2409.339048.1.500.000 | 4.500,00 |
+| 3701.08.245.0019.2308.339039.1.500.000 | 177.200,00 |
+| 3701.08.245.0019.2308.339037.1.500.000 | 170.000,00 |
+| 3701.08.244.0019.2405.339037.1.661.000 | 3.198.600,00 |
+| 3701.08.244.0113.2804.339039.1.500.000 | 22.900,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449051.1.710.010 | 50.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.1.500.000 | 225.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.04.122.0233.1219.449051.1.500.000 | 608.826,00 |
+| 2700.17.512.0066.1400.449051.1.759.000 | 113.056,00 |
+| 2700.13.392.0146.1215.449051.1.500.000 | 350.000,00 |
+| 2700.13.391.0319.1215.449051.1.500.000 | 1.279.782,00 |
+| 2700.15.451.0062.1230.449051.1.710.010 | 110.000,00 |
+| 2700.15.451.0062.1230.449051.1.751.000 | 7.000.000,00 |
+| 2700.15.451.0084.2035.339039.1.751.000 | 4.535.650,00 |
+| 2700.15.451.0084.2035.339092.1.751.000 | 12.000,00 |
+| 2700.15.451.0084.2035.339093.1.751.000 | 1.287.600,00 |
+| 2700.15.451.0084.2035.449052.1.751.000 | 45.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0141.2852.339039.1.500.000 | 19.360,00 |
+| Fundo Municipal de Cultura – FPC |  |
+| 3101.13.392.0170.2369.339039.2.719.000 | 1.442.203,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2854.339030.1.500.000 | 9.014,20 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0228.2538.339039.1.500.000 | 15.000.000,00 |
+| 2708.17.512.0046.2539.339039.1.500.000 | 300.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2914.339039.1.500.000 | 50.000,00 |
+| Secretaria Municipal de Fazenda - SMFA |  |
+| 0800.04.129.0013.2052.339039.1.500.000 | 594.979,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0127.2334.339036.1.500.000 | 115.000,00 |
+| 3700.08.122.0123.2900.339039.1.500.000 | 54.000,00 |
+| 3700.14.243.0127.2957.339039.1.500.000 | 120.000,00 |
+| 3700.14.422.0127.2819.339030.1.500.000 | 10.306,00 |
+| TOTAL DA ANULAÇÃO | 39.288.675,71 |
 
 ANEXO II
 
@@ -330,26 +234,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.098.880.489,47 |
-
-|Valor do decreto publicado nesta data |R$ 39.288.675,71 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.138.169.165,18 |
-
-|Saldo atual de créditos suplementares |R$ 1.354.265.902,42 |
-
-|Percentual utilizado |45,66% |
-
-|Atualizado em 18/09/2026 às 16:30:16 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.098.880.489,47 |
+| Valor do decreto publicado nesta data | R$ 39.288.675,71 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.138.169.165,18 |
+| Saldo atual de créditos suplementares | R$ 1.354.265.902,42 |
+| Percentual utilizado | 45,66% |
+| Atualizado em 18/09/2026 às 16:30:16 |  |

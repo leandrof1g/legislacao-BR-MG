@@ -74,63 +74,36 @@ Jorge Fernando Vilela
 
 Secretário Municipal de Atividades Urbanas
 
-|TABELA DE PREÇOS N° 1 |
-
-|DESCRIÇÃO |UFPBH |
-
-| | |
-
-|URNAS | |
-
-| | |
-
-|Classe "A" adulto |2,75 |
-
-|Classe "A" menor |2,65 |
-
-|Classe "B" adulto |2,55 |
-
-|Classe "B" menor |2,50 |
-
-|Classe especial |4,65 |
-
-|Classe extra |7,90 |
-
-|Classe extra-especial |15,50 |
-
-|Classe super-extra |34,35 |
-
-|Classe super-luxo |63,85 |
-
-|Classe extra-horizonte |85,00 |
-
-| | |
-
-|CAIXÕES | |
-
-| | |
-
-|Classe "C" adulto |2,20 |
-
-|Classe "C" menor |1,30 |
-
-|Classe "D" adulto |1,90 |
-
-|Classe "D" menor |1,25 |
-
-|Classe "E" adulto |1,75 |
-
-|Classe "E" menor |1,10 |
-
-| | |
-
-|ESSAS | |
-
-| | |
-
-|Classe de luxo |1,30 |
-
-|1ª classe |0,65 |
+| TABELA DE PREÇOS N° 1 |  |
+| --- | --- |
+| DESCRIÇÃO | UFPBH |
+|  |  |
+| URNAS |  |
+|  |  |
+| Classe "A" adulto | 2,75 |
+| Classe "A" menor | 2,65 |
+| Classe "B" adulto | 2,55 |
+| Classe "B" menor | 2,50 |
+| Classe especial | 4,65 |
+| Classe extra | 7,90 |
+| Classe extra-especial | 15,50 |
+| Classe super-extra | 34,35 |
+| Classe super-luxo | 63,85 |
+| Classe extra-horizonte | 85,00 |
+|  |  |
+| CAIXÕES |  |
+|  |  |
+| Classe "C" adulto | 2,20 |
+| Classe "C" menor | 1,30 |
+| Classe "D" adulto | 1,90 |
+| Classe "D" menor | 1,25 |
+| Classe "E" adulto | 1,75 |
+| Classe "E" menor | 1,10 |
+|  |  |
+| ESSAS |  |
+|  |  |
+| Classe de luxo | 1,30 |
+| 1ª classe | 0,65 |
 
 ## Observações da CMBH
 

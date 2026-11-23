@@ -32,9 +32,9 @@ O presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 C - Dias comemorativos de março:
 
-|DATA |COMEMORAÇÃO |
-
-|22/03 |Dia Municipal do Conservadorismo - Deus, Pátria e Família |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 22/03 | Dia Municipal do Conservadorismo - Deus, Pátria e Família |
 
 .”.
 

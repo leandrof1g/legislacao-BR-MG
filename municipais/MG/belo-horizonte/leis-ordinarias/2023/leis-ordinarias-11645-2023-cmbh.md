@@ -44,15 +44,15 @@ Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
 
 Ação: 2936 - REDE ESPECIALIZADA, REDE DE URGÊNCIA E EMERGÊNCIA E REDE HOSPITALAR
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |2.200.000,00 |2.200.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.200.000,00 | 2.200.000,00 |
 
 Subação: ATENDIMENTO ODONTOLÓGICO DOS ALUNOS DO ENSINO FUNDAMENTAL DA REDE MUNICIPAL DE EDUCAÇÃO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |10.000 |10.000 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 10.000 | 10.000 |
 
 Produto: PROFILAXIA ODONTOLÓGICA BÁSICA
 
@@ -70,9 +70,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |2.200.000,00 |2.200.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.200.000,00 | 2.200.000,00 |
 
 2)
 
@@ -84,15 +84,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2041 - FORMAÇÃO PARA PROFISSIONAIS DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |784.820,00 |784.820,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 784.820,00 | 784.820,00 |
 
 Subação: 0002 - FORMAÇÃO DE PROFESSORES E DEMAIS PROFISSIONAIS DA EDUCAÇÃO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |260 |260 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 260 | 260 |
 
 Produto: PARTICIPAÇÕES
 
@@ -110,9 +110,9 @@ Ação: 2812 - GESTÃO OPERACIONAL DOS PARQUES MUNICIPAIS
 
 Unidade orçamentária: 2505 - FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |784.820,00 |784.820,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 784.820,00 | 784.820,00 |
 
 3)
 
@@ -124,15 +124,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2041 - FORMAÇÃO PARA PROFISSIONAIS DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |10.000,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 10.000,00 | 10.000,00 |
 
 Subação: 0012 - FORMAÇÃO DE PROFESSORES PARA EDUCAÇÃO INTEGRAL
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |1.000 |1.000 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 1.000 | 1.000 |
 
 Produto: PARTICIPAÇÕES
 
@@ -150,9 +150,9 @@ Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS E CANTEIROS
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |10.000,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 10.000,00 | 10.000,00 |
 
 4)
 
@@ -164,15 +164,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2041 - FORMAÇÃO PARA PROFISSIONAIS DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |363.820,00 |363.820,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 363.820,00 | 363.820,00 |
 
 Subação: 0010 - FORMAÇÃO EM TECNOLOGIAS DIGITAIS PARA USOS PEDAGÓGICOS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |125 |125 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 125 | 125 |
 
 Produto: PARTICIPAÇÕES
 
@@ -190,9 +190,9 @@ Ação: 2812 - GESTÃO OPERACIONAL DOS PARQUES MUNICIPAIS
 
 Unidade orçamentária: 2505 - FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |363.820,00 |363.820,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 363.820,00 | 363.820,00 |
 
 5)
 
@@ -204,15 +204,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2080 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |10.000,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 10.000,00 | 10.000,00 |
 
 Subação: 0007 - PROGRAMA SAÚDE NA ESCOLA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |35 |35 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 35 | 35 |
 
 Produto: ESCOLA ATENDIDA
 
@@ -230,9 +230,9 @@ Ação: 2812 - GESTÃO OPERACIONAL DOS PARQUES MUNICIPAIS
 
 Unidade orçamentária: 2505 - FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |10.000,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 10.000,00 | 10.000,00 |
 
 6)
 
@@ -244,15 +244,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2080 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |10.000,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 10.000,00 | 10.000,00 |
 
 Subação: 0010 - MELHORIA DA SEGURANÇA NO AMBIENTE ESCOLAR
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |35 |35 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 35 | 35 |
 
 Produto: ESCOLA ATENDIDA
 
@@ -270,9 +270,9 @@ Ação: 2934 - BH MAIS FELIZ
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |10.000,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 10.000,00 | 10.000,00 |
 
 7)
 
@@ -284,15 +284,15 @@ Programa: 0114 - ATENÇÃO SECUNDÁRIA E TERCIÁRIA À SAÚDE
 
 Ação: 2936 - REDE ESPECIALIZADA, REDE DE URGÊNCIA E EMERGÊNCIA E REDE HOSPITALAR
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |10.000.000,00 |10.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 10.000.000,00 | 10.000.000,00 |
 
 Subação: 0011 - TRANSPORTE EM SAÚDE
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |20.000 |20.000 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 20.000 | 20.000 |
 
 Produto: ATENDIMENTO REALIZADO
 
@@ -310,9 +310,9 @@ Ação: 2910 - QUALIDADE NO TRANSPORTE COLETIVO
 
 Unidade orçamentária: 3302 - SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |10.000.000,00 |10.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 10.000.000,00 | 10.000.000,00 |
 
 8)
 
@@ -324,15 +324,15 @@ Programa: 0217 - FOMENTO AO DESENVOLVIMENTO ECONÔMICO
 
 Ação: 2759 - FOMENTO AO DESENVOLVIMENTO SOCIOECONÔMICO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |350.000,00 |350.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 350.000,00 | 350.000,00 |
 
 Subação: BÔNUS TECNOLÓGICO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |5 |5 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 5 | 5 |
 
 Produto: PROJETO INCENTIVADO
 
@@ -350,9 +350,9 @@ Ação: 2812 - GESTÃO OPERACIONAL DOS PARQUES MUNICIPAIS
 
 Unidade orçamentária: 2505 - FUNDAÇÃO DE PARQUES MUNICIPAIS E ZOOBOTÂNICA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |350.000,00 |350.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 350.000,00 | 350.000,00 |
 
 9)
 
@@ -364,15 +364,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2080 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |15.000,00 |15.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 15.000,00 | 15.000,00 |
 
 Subação: 0045 - PROJETOS DE COMBATE AO ABANDONO E À EVASÃO ESCOLAR
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |50 |50 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 50 | 50 |
 
 Produto: MATRÍCULA RECUPERADA
 
@@ -390,9 +390,9 @@ Ação: 2571 - REGULAÇÃO E CONTROLE URBANO
 
 Unidade orçamentária: 3300 - SECRETARIA MUNICIPAL DE POLÍTICA URBANA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |15.000,00 |15.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 15.000,00 | 15.000,00 |
 
 10)
 
@@ -404,15 +404,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2702 - GESTÃO DA EDUCAÇÃO INTEGRAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |15.000,00 |15.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 15.000,00 | 15.000,00 |
 
 Subação: 0004 - PROGRAMA ESCOLA ABERTA – PEA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |35 |35 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 35 | 35 |
 
 Produto: ESCOLA PARTICIPANTE
 
@@ -430,9 +430,9 @@ Ação: 2934 - BH MAIS FELIZ
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |15.000,00 |15.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 15.000,00 | 15.000,00 |
 
 11)
 
@@ -446,15 +446,15 @@ FUNDAMENTAL
 
 Ação: 2702 - GESTÃO DA EDUCAÇÃO INTEGRAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |15.000,00 |15.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 15.000,00 | 15.000,00 |
 
 Subação: 0006 - PROGRAMA ESCOLA NAS FÉRIAS – PEF
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |35 |35 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 35 | 35 |
 
 Produto: ESCOLA PARTICIPANTE
 
@@ -472,9 +472,9 @@ Ação: 2934 - BH MAIS FELIZ
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |15.000,00 |15.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 15.000,00 | 15.000,00 |
 
 12)
 
@@ -486,15 +486,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2702 - GESTÃO DA EDUCAÇÃO INTEGRAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |15.000,00 |15.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 15.000,00 | 15.000,00 |
 
 Subação: 0018 - ATENDIMENTO NO CENTRO DE LÍNGUAS, LINGUAGENS, INOVAÇÕES E CRIATIVIDADE – CLIC
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |5.200 |5.200 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 5.200 | 5.200 |
 
 Produto: PARTICIPAÇÕES
 
@@ -512,9 +512,9 @@ Ação: 2934 - BH MAIS FELIZ
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |15.000,00 |15.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 15.000,00 | 15.000,00 |
 
 13)
 
@@ -526,15 +526,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2702 - GESTÃO DA EDUCAÇÃO INTEGRAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |15.000,00 |15.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 15.000,00 | 15.000,00 |
 
 Subação: 0024 - EMPREENDEDORISMO NA EDUCAÇÃO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |5.125 |5.125 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 5.125 | 5.125 |
 
 Produto: ALUNO ATENDIDO
 
@@ -552,9 +552,9 @@ Ação: 2934 - BH MAIS FELIZ
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |15.000,00 |15.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 15.000,00 | 15.000,00 |
 
 14)
 
@@ -566,15 +566,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2706 - MELHORIA DA APRENDIZAGEM E DA AVALIAÇÃO DE DESEMPENHO ESCOLAR
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |30.000,00 |30.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 30.000,00 | 30.000,00 |
 
 Subação: 0001 - IMPLEMENTAÇÃO DE PROJETOS DE ESTÍMULOS À APRENDIZAGEM
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |34 |34 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 34 | 34 |
 
 Produto: ESCOLA CONTEMPLADA
 
@@ -592,9 +592,9 @@ Ação: 2934 - BH MAIS FELIZ
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |30.000,00 |30.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 30.000,00 | 30.000,00 |
 
 15)
 
@@ -606,15 +606,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2706 - MELHORIA DA APRENDIZAGEM E DA AVALIAÇÃO DE DESEMPENHO ESCOLAR
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |20.000,00 |20.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 20.000,00 | 20.000,00 |
 
 Subação: 0005 - FORMAÇÃO PARA O MERCADO DE TRABALHO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |400 |400 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 400 | 400 |
 
 Produto: ALUNO ATENDIDO
 
@@ -632,9 +632,9 @@ Ação: 2934 - BH MAIS FELIZ
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |20.000,00 |20.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 20.000,00 | 20.000,00 |
 
 16)
 
@@ -646,15 +646,15 @@ Programa: 0228 - COLETA, DESTINAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS
 
 Ação: 2538 - EXECUÇÃO DOS SERVIÇOS DE COLETA DE RESÍDUOS
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |10.000,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 10.000,00 | 10.000,00 |
 
 Subação: 0002 - SERVIÇOS DE COLETA SELETIVA NA MODALIDADE PONTO A PONTO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |105 |105 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 105 | 105 |
 
 Produto: LOCAIS DE ENTREGA VOLUNTÁRIA INSTALADOS
 
@@ -672,9 +672,9 @@ Ação: 2934 - BH MAIS FELIZ
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |10.000,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 10.000,00 | 10.000,00 |
 
 17)
 
@@ -686,15 +686,15 @@ Programa: 0228 - COLETA, DESTINAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS
 
 Ação: 2538 - EXECUÇÃO DOS SERVIÇOS DE COLETA DE RESÍDUOS
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |288.604,00 |288.604,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 288.604,00 | 288.604,00 |
 
 Subação: 0003 - SERVIÇOS DE COLETA SELETIVA NA MODALIDADE PORTA A PORTA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |6 |6 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 6 | 6 |
 
 Produto: BAIRRO ATENDIDO
 
@@ -712,9 +712,9 @@ Ação: 2934 - BH MAIS FELIZ
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |288.604,00 |288.604,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 288.604,00 | 288.604,00 |
 
 18)
 
@@ -726,15 +726,15 @@ Programa: 0233 - MANUTENÇÃO DA CIDADE
 
 Ação: 1396 - INFRAESTRUTURA URBANA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |2.500.000,00 |2.500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.500.000,00 | 2.500.000,00 |
 
 Subação: 0056 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS, PARQUES E CANTEIROS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |15 |15 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 15 | 15 |
 
 Produto: PRAÇA/PARQUE/CANTEIRO EXECUTADO
 
@@ -752,9 +752,9 @@ Ação: 1230 - IMPLANTAÇÃO E RECONSTRUÇÃO DE VIAS PÚBLICAS
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |2.500.000,00 |2.500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.500.000,00 | 2.500.000,00 |
 
 19)
 
@@ -766,15 +766,15 @@ Programa: 0059 - COORDENAÇÃO DA POLÍTICA URBANA
 
 Ação: 2566 - PLANEJAMENTO E DESENVOLVIMENTO URBANO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |340.000,00 |340.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 340.000,00 | 340.000,00 |
 
 Subação: 0011 - JARDINS DE CHUVA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |30 |30 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 30 | 30 |
 
 Produto: JARDIM DE CHUVA IMPLANTADO
 
@@ -792,9 +792,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |340.000,00 |340.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 340.000,00 | 340.000,00 |
 
 20)
 
@@ -806,15 +806,15 @@ Programa: 0109 - OPERACIONALIZAÇÃO DOS SERVIÇOS DE SEGURANÇA
 
 Ação: 2803 - OPERACIONALIZAÇÃO DA GUARDA CIVIL MUNICIPAL DE BELO HORIZONTE – GCMBH
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |5.000.000,00 |5.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 5.000.000,00 | 5.000.000,00 |
 
 Subação: IMPLANTAÇÃO DE BASES MÓVEIS DA GUARDA MUNICIPAL
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |10 |10 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 10 | 10 |
 
 Produto: BASES IMPLANTADAS
 
@@ -832,9 +832,9 @@ Ação: 2567 - GESTÃO DA POLÍTICA DE TRANSPORTE URBANO E TRÂNSITO
 
 Unidade orçamentária: 3304 - EMPRESA DE TRANSPORTE E TRÂNSITO DE BELO HORIZONTE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |5.000.000,00 |5.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 5.000.000,00 | 5.000.000,00 |
 
 21)
 
@@ -846,15 +846,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2702 - GESTÃO DA EDUCAÇÃO INTEGRAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |300.000,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 300.000,00 | 0,00 |
 
 Subação: 0021 - PRÁTICA DE ARTES MARCIAIS E LUTAS NO AMBIENTE ESCOLAR
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |4.738 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 4.738 | 0 |
 
 Produto: ALUNO ATENDIDO
 
@@ -872,9 +872,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |300.000,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 300.000,00 | 0,00 |
 
 22)
 
@@ -886,15 +886,15 @@ Programa: 0233 - MANUTENÇÃO DA CIDADE
 
 Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |2.500.000,00 |2.500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.500.000,00 | 2.500.000,00 |
 
 Subação: CONSTRUÇÃO E IMPLANTAÇÃO DE PISTAS DE SKATE
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |2 |2 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 2 | 2 |
 
 Produto: PISTAS INSTALADAS
 
@@ -912,9 +912,9 @@ Ação: 2567 - GESTÃO DA POLÍTICA DE TRANSPORTE URBANO E TRÂNSITO
 
 Unidade orçamentária: 3304 - EMPRESA DE TRANSPORTE E TRÂNSITO DE BELO HORIZONTE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |2.500.000,00 |2.500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.500.000,00 | 2.500.000,00 |
 
 23)
 
@@ -926,15 +926,15 @@ Programa: 0302 - BELO HORIZONTE CIDADE INTELIGENTE
 
 Ação: 1334 – VIDEOMONITORAMENTO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |2.000.000,00 |2.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.000.000,00 | 2.000.000,00 |
 
 Subação: 0005 - E. I. - LOA 985 - INSTALAÇÃO DE CÂMERAS DE VIDEOMONITORAMENTO EM RUAS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |1.000 |1.000 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 1.000 | 1.000 |
 
 Produto: SERVIÇOS ADMINISTRATIVOS
 
@@ -952,9 +952,9 @@ Ação: 2567 - GESTÃO DA POLÍTICA DE TRANSPORTE URBANO E TRÂNSITO
 
 Unidade orçamentária: 3304 - EMPRESA DE TRANSPORTE E TRÂNSITO DE BELO HORIZONTE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |2.000.000,00 |2.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.000.000,00 | 2.000.000,00 |
 
 24)
 
@@ -966,15 +966,15 @@ Programa: 0086 - FOMENTO AO TURISMO DE LAZER, EVENTOS E NEGÓCIOS
 
 Ação: 2629 - DESENVOLVIMENTO E PROMOÇÃO DO TURISMO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |100.000,00 |100.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 100.000,00 | 100.000,00 |
 
 Subação: JORNADA PASCOAL
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |1 |1 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 1 | 1 |
 
 Produto: EVENTO/AÇÃO REALIZADA
 
@@ -992,9 +992,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |100.000,00 |100.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 100.000,00 | 100.000,00 |
 
 25)
 
@@ -1006,15 +1006,15 @@ Programa: 0233 - MANUTENÇÃO DA CIDADE
 
 Ação: 1219 - AQUISIÇÃO, CONSTRUÇÃO, REFORMA E READAPTAÇÃO DE IMÓVEIS
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |2.000.000,00 |2.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.000.000,00 | 2.000.000,00 |
 
 Subação: REFORMA E REVITALIZAÇÃO DO VIADUTO SANTA TEREZA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |1 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 1 | 0 |
 
 Produto: REFORMA REALIZADA
 
@@ -1032,9 +1032,9 @@ Ação: 2567 - GESTÃO DA POLÍTICA DE TRANSPORTE URBANO E TRÂNSITO
 
 Unidade orçamentária: 3304 - EMPRESA DE TRANSPORTE E TRÂNSITO DE BELO HORIZONTE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |2.000.000,00 |2.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 2.000.000,00 | 2.000.000,00 |
 
 26)
 
@@ -1046,15 +1046,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2046 - GESTÃO DESCENTRALIZADA DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |72.731,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 72.731,00 | 0,00 |
 
 Subação: CUSTEIO DO PROJETO EDUCACIONAL DIREITO NA ESCOLA, INSTITUÍDO PELA LEI Nº 11.243, DE 30 DE JUNHO DE 2020
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |27 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 27 | 0 |
 
 Produto: ESCOLA CONTEMPLADA
 
@@ -1072,9 +1072,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |72.731,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 72.731,00 | 0,00 |
 
 27)
 
@@ -1086,15 +1086,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2046 - GESTÃO DESCENTRALIZADA DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |72.731,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 72.731,00 | 0,00 |
 
 Subação: AO CUSTEIO DO PROJETO EDUCACIONAL EMPREENDEDORISMO E EDUCAÇÃO FINANCEIRA NA ESCOLA, INSTITUÍDO PELA LEI Nº 11.243, DE 30 DE JUNHO DE 2020
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |135 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 135 | 0 |
 
 Produto: ESCOLA CONTEMPLADA
 
@@ -1112,9 +1112,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |72.731,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 72.731,00 | 0,00 |
 
 28)
 
@@ -1126,15 +1126,15 @@ Programa: 0059 - COORDENAÇÃO DA POLÍTICA URBANA
 
 Ação: 2571 - REGULAÇÃO E CONTROLE URBANO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |50.000,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 50.000,00 | 0,00 |
 
 Subação: DESENVOLVIMENTO E DISPONIBILIZAÇÃO DO APLICATIVO VEM PRA FEIRA VISANDO AO INCENTIVO E A MODERNIZAÇÃO DA FEIRA DA AFONSO PENA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |1 |0 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 1 | 0 |
 
 Produto: APLICATIVO IMPLANTADO
 
@@ -1152,9 +1152,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |50.000,00 |0,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 50.000,00 | 0,00 |
 
 29)
 
@@ -1166,15 +1166,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2080 - ADMINISTRAÇÃO DO ENSINO FUNDAMENTAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |1.200.000,00 |1.200.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 1.200.000,00 | 1.200.000,00 |
 
 Subação: MUTIRÃO OFTALMOLÓGICO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |21.000 |21.000 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 21.000 | 21.000 |
 
 Produto: PACOTE BÁSICO DE OFTALMOLOGIA
 
@@ -1192,9 +1192,9 @@ Ação: 2934 - BH MAIS FELIZ
 
 Unidade orçamentária: 0201 - GABINETE DO PREFEITO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |1.200.000,00 |1.200.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 1.200.000,00 | 1.200.000,00 |
 
 30)
 
@@ -1206,15 +1206,15 @@ Programa: 0217 - FOMENTO AO DESENVOLVIMENTO ECONÔMICO
 
 Ação: 2759 - FOMENTO AO DESENVOLVIMENTO SOCIOECONÔMICO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |500.000,00 |500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 500.000,00 | 500.000,00 |
 
 Subação: APOIO AOS EMPREENDIMENTOS ECONÔMICOS SOLIDÁRIOS CADASTRADOS NO CENTRO PÚBLICO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |230 |230 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 230 | 230 |
 
 Produto: EMPREENDIMENTO APOIADO
 
@@ -1232,9 +1232,9 @@ Ação: 1330 - OBRAS ESTRUTURANTES DO SISTEMA VIÁRIO
 
 Unidade orçamentária: 2700 - SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |500.000,00 |500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 500.000,00 | 500.000,00 |
 
 **Art. 4º** - Esta lei entra em vigor na data de sua publicação.
 

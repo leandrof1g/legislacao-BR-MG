@@ -30,101 +30,64 @@ O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 10
 
 I - Para a Secretaria Municipal da Coordenação de Gestão Regional Pampulha-SCOMGER-P:
 
-|1800.030070212.536 - 3120 - Fonte 03.00 |
-
-|Serviços Adm. e Financeiros da Gestão Regional |6.839,00 |
-
-|1800.030070212.536 - 3131 - Fonte 03.00 | |
-
-|Serviços Adm. e Financeiros da Gestão Regional |2.467,00 |
-
-|1800.030070212.536 - 3132 - Fonte 03.00 | |
-
-|Serviços Adm. e Financeiros da Gestão Regional |112.818,00 |
-
-|1800.030070212.536 - 4120 - Fonte 04.00 | |
-
-|Serviços Adm. e Financeiros da Gestão Regional |1.605,00 |
+| 1800.030070212.536 - 3120 - Fonte 03.00 |  |
+| --- | --- |
+| Serviços Adm. e Financeiros da Gestão Regional | 6.839,00 |
+| 1800.030070212.536 - 3131 - Fonte 03.00 |  |
+| Serviços Adm. e Financeiros da Gestão Regional | 2.467,00 |
+| 1800.030070212.536 - 3132 - Fonte 03.00 |  |
+| Serviços Adm. e Financeiros da Gestão Regional | 112.818,00 |
+| 1800.030070212.536 - 4120 - Fonte 04.00 |  |
+| Serviços Adm. e Financeiros da Gestão Regional | 1.605,00 |
 
 II - Para a Secretaria Municipal Regional de Serviços Urbanos - SMSUR-P:
 
-|1801.100583232.540 - 3131 - Fonte 03.00 |
-
-|Gestão do Controle Urbano e Ambiental |1.405,00 |
-
-|1801.100603282.079 - 3132 - Fonte 03.00 | |
-
-|Implantação e Manutenção de Parques e Jardins |45.574,00 |
-
-|1801.130764481.214 - 3132 - Fonte 03.00 | |
-
-|Drenagem e Desassoreamento de Lagoas |32.193,00 |
-
-|1801.130764481.244 - 3132 - Fonte 03.00 | |
-
-|Implantação do Programa Pampulha |500,00 |
+| 1801.100583232.540 - 3131 - Fonte 03.00 |  |
+| --- | --- |
+| Gestão do Controle Urbano e Ambiental | 1.405,00 |
+| 1801.100603282.079 - 3132 - Fonte 03.00 |  |
+| Implantação e Manutenção de Parques e Jardins | 45.574,00 |
+| 1801.130764481.214 - 3132 - Fonte 03.00 |  |
+| Drenagem e Desassoreamento de Lagoas | 32.193,00 |
+| 1801.130764481.244 - 3132 - Fonte 03.00 |  |
+| Implantação do Programa Pampulha | 500,00 |
 
 III - Para a Secretaria Municipal Regional de Serviços Sociais- SMSES-P:
 
-|1802.080411902.542 - 3132 - Fonte 03.00 | |
-
-|Administração da Educação Infantil |15.080,00 |
-
-|1802.080421882.080 - 3131 - Fonte 03.00 | |
-
-|Administração do Ensino Fundamental |7.024,00 |
-
-|1802.080421882.080 - 3132 - Fonte 03.00 | |
-
-|Administração do Ensino Fundamental |173.010,00 |
-
-|1802.080431882.150 - 3132 - Fonte 03.00 | |
-
-|Administração do Ensino Médio |5.600,00 |
-
-|1802.080482472.081 - 3131 - Fonte 03.00 | |
-
-|Promoção e Impl. Equipamentos e Eventos Culturais |352,00 |
-
-|1802.080482472.081 - 3132 - Fonte 03.00 | |
-
-|Promoção e Impl. Equipamentos e Eventos Culturais |1.265,00 |
-
-|1802.150814862.218 - 3131 - Fonte 03.00 | |
-
-|Apoio ao Desenvolvimento Social |1.437,00 |
+| 1802.080411902.542 - 3132 - Fonte 03.00 |  |
+| --- | --- |
+| Administração da Educação Infantil | 15.080,00 |
+| 1802.080421882.080 - 3131 - Fonte 03.00 |  |
+| Administração do Ensino Fundamental | 7.024,00 |
+| 1802.080421882.080 - 3132 - Fonte 03.00 |  |
+| Administração do Ensino Fundamental | 173.010,00 |
+| 1802.080431882.150 - 3132 - Fonte 03.00 |  |
+| Administração do Ensino Médio | 5.600,00 |
+| 1802.080482472.081 - 3131 - Fonte 03.00 |  |
+| Promoção e Impl. Equipamentos e Eventos Culturais | 352,00 |
+| 1802.080482472.081 - 3132 - Fonte 03.00 |  |
+| Promoção e Impl. Equipamentos e Eventos Culturais | 1.265,00 |
+| 1802.150814862.218 - 3131 - Fonte 03.00 |  |
+| Apoio ao Desenvolvimento Social | 1.437,00 |
 
 **Art.2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal e do Orçamento da Seguridade Social da Prefeitura, no valor de R$407.169,00 (quatrocentos e sete mil, cento e sessenta e nove reais):
 
-|2700.030070212.078 - 3120 - Fonte 03.00 |6.839,00 |
-
-|2700.030070212.078 - 3131 - Fonte 03.00 |2.467,00 |
-
-|2700.030070212.078 - 3132 - Fonte 03.00 |112.818,00 |
-
-|2700.030070212.078 - 4120 - Fonte 04.00 |1.605,00 |
-
-|2700.100583232.031 - 3131 - Fonte 03.00 |1.405,00 |
-
-|2700.100603282.079 - 3132 - Fonte 03.00 |45.574,00 |
-
-|2700.080411902.151 - 3132 - Fonte 03.00 |15.080,00 |
-
-|2700.080421882.080 - 3131 - Fonte 03.00 |7.024,00 |
-
-|2700.080421882.080 - 3132 - Fonte 03.00 |173.010,00 |
-
-|2700.080431882.150 - 3132 - Fonte 03.00 |5.600,00 |
-
-|2700.080482472.081 - 3131 - Fonte 03.00 |352,00 |
-
-|2700.080482472.081 - 3132 - Fonte 03.00 |1.265,00 |
-
-|2700.130764481.214 - 3132 - Fonte 03.00 |32.193,00 |
-
-|2700.130764481.244 - 3132 - Fonte 03.00 |500,00 |
-
-|2700.150814862.218 - 3131 - Fotne 03.00 |1.437,00 |
+| 2700.030070212.078 - 3120 - Fonte 03.00 | 6.839,00 |
+| --- | --- |
+| 2700.030070212.078 - 3131 - Fonte 03.00 | 2.467,00 |
+| 2700.030070212.078 - 3132 - Fonte 03.00 | 112.818,00 |
+| 2700.030070212.078 - 4120 - Fonte 04.00 | 1.605,00 |
+| 2700.100583232.031 - 3131 - Fonte 03.00 | 1.405,00 |
+| 2700.100603282.079 - 3132 - Fonte 03.00 | 45.574,00 |
+| 2700.080411902.151 - 3132 - Fonte 03.00 | 15.080,00 |
+| 2700.080421882.080 - 3131 - Fonte 03.00 | 7.024,00 |
+| 2700.080421882.080 - 3132 - Fonte 03.00 | 173.010,00 |
+| 2700.080431882.150 - 3132 - Fonte 03.00 | 5.600,00 |
+| 2700.080482472.081 - 3131 - Fonte 03.00 | 352,00 |
+| 2700.080482472.081 - 3132 - Fonte 03.00 | 1.265,00 |
+| 2700.130764481.214 - 3132 - Fonte 03.00 | 32.193,00 |
+| 2700.130764481.244 - 3132 - Fonte 03.00 | 500,00 |
+| 2700.150814862.218 - 3131 - Fotne 03.00 | 1.437,00 |
 
 **Art.3º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
 

@@ -46,28 +46,18 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Serviços de alimentação, para consumo no local: restaurantes, cantinas, sorveterias, bares|Diariamente, entre 5h e 1h |
-
-|e similares, inclusive aqueles no interior de galerias de lojas, centros de comércio, | |
-
-|shopping centers e clubes de serviço, de lazer, sociais e esportivos |A retirada no local deve observar o horário|
-
-| |de funcionamento para o consumo no local |
-
-| | |
-
-| |Não há restrição de horário para a entrega |
-
-| |em domicílio |
-
-|Comércio de alimentos em veículo automotor e em veículo de tração humana |Diariamente, entre 5h e 23h |
-
-|(...) |(...) |
-
-|Eventos de corrida licenciados |Horário licenciado |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Serviços de alimentação, para consumo no local: restaurantes, cantinas, sorveterias, bares | Diariamente, entre 5h e 1h |
+| e similares, inclusive aqueles no interior de galerias de lojas, centros de comércio, |  |
+| shopping centers e clubes de serviço, de lazer, sociais e esportivos | A retirada no local deve observar o horário |
+|  | de funcionamento para o consumo no local |
+|  |  |
+|  | Não há restrição de horário para a entrega |
+|  | em domicílio |
+| Comércio de alimentos em veículo automotor e em veículo de tração humana | Diariamente, entre 5h e 23h |
+| (...) | (...) |
+| Eventos de corrida licenciados | Horário licenciado |
 
 ”

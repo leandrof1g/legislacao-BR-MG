@@ -52,22 +52,17 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS –, |
-
-|conforme autorização contida no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|3200.04.131.015.2.007.3390.0000 |8.343.986,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |8.343.986,00 |
+| I.1 – A favor da Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS –, |  |
+| --- | --- |
+| conforme autorização contida no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 3200.04.131.015.2.007.3390.0000 | 8.343.986,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 8.343.986,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 da tabela anterior: |
-
-|R$ |
-
-|4001.28.846.089.3.137.3390.0000 |8.343.986,00 |
-
-|TOTAL DA ANULAÇÃO |8.343.986,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 da tabela anterior: |  |
+| --- | --- |
+| R$ |  |
+| 4001.28.846.089.3.137.3390.0000 | 8.343.986,00 |
+| TOTAL DA ANULAÇÃO | 8.343.986,00 |

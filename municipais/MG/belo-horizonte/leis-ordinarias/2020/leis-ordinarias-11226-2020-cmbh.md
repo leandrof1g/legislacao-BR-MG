@@ -320,37 +320,27 @@ ANEXO I
 
 CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE REGIDOS POR ESTA LEI
 
-|CARGOS |QUANTITATIVO |
-
-|Ajudante de Serviço Operacional |740 |
-
-|Auxiliar Administrativo |1.240 |
-
-|Oficial de Serviço Público |480 |
-
-|Telefonista |40 |
-
-|Motorista |70 |
-
-|Técnico de Serviço Público |200 |
+| CARGOS | QUANTITATIVO |
+| --- | --- |
+| Ajudante de Serviço Operacional | 740 |
+| Auxiliar Administrativo | 1.240 |
+| Oficial de Serviço Público | 480 |
+| Telefonista | 40 |
+| Motorista | 70 |
+| Técnico de Serviço Público | 200 |
 
 ANEXO I
 
 CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE REGIDOS POR ESTA LEI
 
-|CARGOS |QUANTITATIVO |
-
-|Ajudante de Serviço Operacional |740 |
-
-|Assistente de Serviço Público |1.240 |
-
-|Oficial de Serviço Público |480 |
-
-|Telefonista |40 |
-
-|Motorista |70 |
-
-|Técnico de Serviço Público |40 |
+| CARGOS | QUANTITATIVO |
+| --- | --- |
+| Ajudante de Serviço Operacional | 740 |
+| Assistente de Serviço Público | 1.240 |
+| Oficial de Serviço Público | 480 |
+| Telefonista | 40 |
+| Motorista | 70 |
+| Técnico de Serviço Público | 40 |
 
 Anexo I com redação dada pela Lei nº 11.376, de 4/7/22 (art. 25, II)
 
@@ -588,91 +578,50 @@ TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE
 
 (Valores em R$)
 
-|TÉCNICO DE SERVIÇO PÚBLICO |
-
-|JORNADA DE 30 (TRINTA) HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |1 |
-
-|Classe |Nível | |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|Cargo |Nível |
-
-| |
-
-|Cargo |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
+| TÉCNICO DE SERVIÇO PÚBLICO |  |  |
+| --- | --- | --- |
+| JORNADA DE 30 (TRINTA) HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| Classe | Nível |  |
+|  | 1 |  |
+| Classe | Nível |  |
+|  |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| Cargo | Nível |  |
+|  |  |  |
+| Cargo | Nível |  |
+|  |  |  |
+| 30 HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| 40 HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| 30 HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| 40 HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| 30 HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  |  |  |
+| 40 HORAS SEMANAIS |  |  |
+| Classe | Nível |  |
+|  | 1 |  |
+|  | NÍVEL |  |
+|  | 1 |  |
+|  | NÍVEL |  |
 
 |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 | |AJUDANTE DE SERVIÇO OPERACIONAL |1.175,93 |1.234,72 |1.296,46 |1.361,28 |1.429,34 |1.500,81 |1.575,85 |1.654,64 |1.737,38 |1.824,25 |1.915,46 |2.011,23 |2.111,79 |2.217,38 |2.328,25 | |AUXILIAR ADMINISTRATIVO ASSISTENTE DE SERVIÇO PÚBLICO
 

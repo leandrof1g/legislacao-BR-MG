@@ -54,16 +54,9 @@ Secretária Municipal de Educação
 
 ANEXO I A QUE SE REFERE O DECRETO Nº 9.823
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
+ANEXO II A QUE SE REFERE O DECRETO Nº 9.823
 
-[pic]ANEXO II A QUE SE REFERE O DECRETO Nº 9.823
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

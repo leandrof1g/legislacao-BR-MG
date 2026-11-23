@@ -50,18 +50,12 @@ ANEXO
 
 I – Crédito adicional especial instituindo a seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Fazenda – SMFA –, para|
-
-|repasse de recursos ao Programa Auxílio BH para famílias em |
-
-|situação de extrema pobreza e em situação de vulnerabilidade |
-
-|social, conforme autorização contida no art. 7º da Lei nº |
-
-|11.314, de 5 de outubro de 2021: |
-
-|R$ |
-
-|0800.04.129.172.1.402.3390.0000 |2.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.000.000,00 |
+| I.1 – A favor da Secretaria Municipal de Fazenda – SMFA –, para |  |
+| --- | --- |
+| repasse de recursos ao Programa Auxílio BH para famílias em |  |
+| situação de extrema pobreza e em situação de vulnerabilidade |  |
+| social, conforme autorização contida no art. 7º da Lei nº |  |
+| 11.314, de 5 de outubro de 2021: |  |
+| R$ |  |
+| 0800.04.129.172.1.402.3390.0000 | 2.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.000.000,00 |

@@ -386,15 +386,12 @@ Cargos do Grupo de Direção Superior Municipal - DSM
 
 [...]
 
-|SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |
-
-|Grupo de Direção Superior Municipal - DSM |QUANTIDADE DE VAGAS |
-
-|Superintendente |1 |
-
-|Diretor |6 |
-
-|Total geral |7 |
+| SUPERINTENDÊNCIA DE MOBILIDADE DO MUNICÍPIO DE BELO HORIZONTE - SUMOB |  |
+| --- | --- |
+| Grupo de Direção Superior Municipal - DSM | QUANTIDADE DE VAGAS |
+| Superintendente | 1 |
+| Diretor | 6 |
+| Total geral | 7 |
 
 ## Observações da CMBH
 

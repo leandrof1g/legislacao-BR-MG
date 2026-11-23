@@ -58,83 +58,49 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei| |
-
-|nº 11.801, de 2 de janeiro de 2025: | |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.08.122.0123.2900.339036.1.500.000 |405.600,00 |
-
-|3700.14.243.0127.2860.339036.1.500.000 |76.400,00 |
-
-|3700.14.422.0127.2334.339036.1.500.000 |27.600,00 |
-
-|3700.14.422.0127.2819.339036.1.500.000 |25.200,00 |
-
-|3700.14.422.0127.2928.339036.1.500.000 |10.000,00 |
-
-|3700.14.422.0127.2927.339036.1.500.000 |5.200,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0019.2405.339036.1.660.000 |137.200,00 |
-
-|Secretaria Municipal de Mobilidade Urbana – SMMUR |
-
-|3500.26.452.0060.2567.339036.1.500.000 |700,00 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.339036.1.500.000 |600,00 |
-
-|3600.04.122.0007.2900.339046.1.500.000 |14.000,00 |
-
-|3600.04.122.0093.2900.339046.1.500.000 |44.300,00 |
-
-|Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN |
-
-|3800.20.608.0308.2939.339036.1.500.000 |46.800,00 |
-
-|Secretaria-Geral – SGE |
-
-|3900.04.122.0096.2004.319011.1.500.000 |258.100,00 |
-
-|3900.04.122.0096.2004.319013.1.500.000 |12.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.063.700,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei |  |
+| nº 11.801, de 2 de janeiro de 2025: |  |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.08.122.0123.2900.339036.1.500.000 | 405.600,00 |
+| 3700.14.243.0127.2860.339036.1.500.000 | 76.400,00 |
+| 3700.14.422.0127.2334.339036.1.500.000 | 27.600,00 |
+| 3700.14.422.0127.2819.339036.1.500.000 | 25.200,00 |
+| 3700.14.422.0127.2928.339036.1.500.000 | 10.000,00 |
+| 3700.14.422.0127.2927.339036.1.500.000 | 5.200,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0019.2405.339036.1.660.000 | 137.200,00 |
+| Secretaria Municipal de Mobilidade Urbana – SMMUR |  |
+| 3500.26.452.0060.2567.339036.1.500.000 | 700,00 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.339036.1.500.000 | 600,00 |
+| 3600.04.122.0007.2900.339046.1.500.000 | 14.000,00 |
+| 3600.04.122.0093.2900.339046.1.500.000 | 44.300,00 |
+| Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN |  |
+| 3800.20.608.0308.2939.339036.1.500.000 | 46.800,00 |
+| Secretaria-Geral – SGE |  |
+| 3900.04.122.0096.2004.319011.1.500.000 | 258.100,00 |
+| 3900.04.122.0096.2004.319013.1.500.000 | 12.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.063.700,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|1010.23.692.0132.2307.339030.1.500.000 |596.800,00 |
-
-|Secretaria Municipal de Mobilidade Urbana – SMMUR |
-
-|3500.26.452.0060.2567.339014.1.500.000 |700,00 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.339037.1.500.000 |600,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.245.0020.2878.339039.1.660.000 |137.200,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.122.0093.2900.319013.1.500.000 |270.100,00 |
-
-|3200.04.122.0093.2900.339014.1.500.000 |58.300,00 |
-
-|TOTAL DA ANULAÇÃO |1.063.700,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.23.692.0132.2307.339030.1.500.000 | 596.800,00 |
+| Secretaria Municipal de Mobilidade Urbana – SMMUR |  |
+| 3500.26.452.0060.2567.339014.1.500.000 | 700,00 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.339037.1.500.000 | 600,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.245.0020.2878.339039.1.660.000 | 137.200,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.122.0093.2900.319013.1.500.000 | 270.100,00 |
+| 3200.04.122.0093.2900.339014.1.500.000 | 58.300,00 |
+| TOTAL DA ANULAÇÃO | 1.063.700,00 |
 
 ANEXO II
 
@@ -168,20 +134,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos suplementares abertos anteriormente |809.716.083,47 |
-
-|Valor do Decreto publicado nesta data |1.063.700,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |810.779.783,47 |
-
-|Saldo atual do limite autorizado |1.238.247.443,46 |
-
-|Percentual utilizado |39,57% |
-
-|Atualizado em 29/04/2025 às 10:09:12 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos suplementares abertos anteriormente | 809.716.083,47 |
+| Valor do Decreto publicado nesta data | 1.063.700,00 |
+| Valor total dos créditos suplementares abertos no exercício | 810.779.783,47 |
+| Saldo atual do limite autorizado | 1.238.247.443,46 |
+| Percentual utilizado | 39,57% |
+| Atualizado em 29/04/2025 às 10:09:12 |  |

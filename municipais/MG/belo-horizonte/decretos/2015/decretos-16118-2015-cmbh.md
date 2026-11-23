@@ -54,33 +54,24 @@ DOS FATORES QUALITATIVOS
 
 **Art. 4º** - Os fatores qualitativos, avaliados pela chefia imediata do servidor, correspondem aos critérios adiante relacionados e à sua respectiva segmentação:
 
-|FATORES QUALITATIVOS |SEGMENTO |
-
-|Compromisso Institucional |Comprometimento e presteza |
-
-| |Conhecimento e qualidade do trabalho |
-
-| |Desenvolvimento profissional |
-
-| |Preservação do patrimônio |
-
-|Relacionamento profissional |Adaptação e flexibilidade |
-
-| |Relacionamento interpessoal |
-
-| |Trabalho em equipe/cooperação |
-
-|Postura profissional |Apresentação pessoal |
-
-| |Observância de normas e procedimentos |
-
-| |Iniciativa e proatividade |
+| FATORES QUALITATIVOS | SEGMENTO |
+| --- | --- |
+| Compromisso Institucional | Comprometimento e presteza |
+|  | Conhecimento e qualidade do trabalho |
+|  | Desenvolvimento profissional |
+|  | Preservação do patrimônio |
+| Relacionamento profissional | Adaptação e flexibilidade |
+|  | Relacionamento interpessoal |
+|  | Trabalho em equipe/cooperação |
+| Postura profissional | Apresentação pessoal |
+|  | Observância de normas e procedimentos |
+|  | Iniciativa e proatividade |
 
 **§ 1º** - A aferição dos fatores qualitativos será desenvolvida em formulário específico, a ser preenchido pela chefia imediata mediante avaliação que contará com a presença do servidor avaliado, oportunidade na qual serão distribuídas notas para cada critério, conforme a seguinte escala:
 
-|Insuficiente |Abaixo do esperado |Esperado |Excelente |
-
-|0 a 4 |4,5 a 7 |7,5 a 8,5 |9 a 10 |
+| Insuficiente | Abaixo do esperado | Esperado | Excelente |
+| --- | --- | --- | --- |
+| 0 a 4 | 4,5 a 7 | 7,5 a 8,5 | 9 a 10 |
 
 **§ 2º** - A avaliação efetuada pela chefia imediata será remetida à chefia mediata para apreciação e pronunciamento, devendo ser enviada à da Gerência de Recursos Humanos da Secretaria Municipal de Segurança Urbana e Patrimonial - GERHU/SEG - após a respectiva validação do resultado.
 
@@ -94,35 +85,25 @@ DOS FATORES REGISTRAIS
 
 **§ 1º** - A aferição da frequência do servidor consiste na verificação de sua assiduidade e da eventual ocorrência de faltas injustificadas, mediante a atribuição da seguinte pontuação:
 
-|Nº DE FALTAS INJUSTIFICADAS |PONTUAÇÃO |
-
-|Nenhuma falta |10 (dez) pontos |
-
-|1 (uma) falta |-2 (menos dois) pontos |
-
-|2 (duas) faltas |-4 (menos quatro) pontos |
-
-|3 (três) faltas |-6 (menos seis) pontos |
-
-|4 (quatro) faltas |-8 (menos oito) pontos |
-
-|5 (cinco) faltas ou mais |-10 (menos dez) pontos |
+| Nº DE FALTAS INJUSTIFICADAS | PONTUAÇÃO |
+| --- | --- |
+| Nenhuma falta | 10 (dez) pontos |
+| 1 (uma) falta | -2 (menos dois) pontos |
+| 2 (duas) faltas | -4 (menos quatro) pontos |
+| 3 (três) faltas | -6 (menos seis) pontos |
+| 4 (quatro) faltas | -8 (menos oito) pontos |
+| 5 (cinco) faltas ou mais | -10 (menos dez) pontos |
 
 **§ 2º** - A aferição da disciplina do servidor consiste na verificação de seu comportamento e da eventual aplicação de penalidades, mediante a atribuição da seguinte pontuação:
 
-|PENALIDADES APLICADAS PELA CGMBH |PONTUAÇÃO |
-
-|Nenhuma penalidade |10 (dez) pontos |
-
-|Repreensão |-2 (menos dois) pontos |
-
-|Suspensão de 1 (um) a 29 (vinte e nove) dias |-4 (menos quatro) pontos |
-
-|Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias |-6 (menos seis) pontos |
-
-|Suspensão de 45 (quarenta e cinco) a 59 (cinquenta e nove) dias |-8 (menos oito) pontos |
-
-|Suspensão igual ou superior à 60 (sessenta) dias |-10 (menos dez) pontos |
+| PENALIDADES APLICADAS PELA CGMBH | PONTUAÇÃO |
+| --- | --- |
+| Nenhuma penalidade | 10 (dez) pontos |
+| Repreensão | -2 (menos dois) pontos |
+| Suspensão de 1 (um) a 29 (vinte e nove) dias | -4 (menos quatro) pontos |
+| Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias | -6 (menos seis) pontos |
+| Suspensão de 45 (quarenta e cinco) a 59 (cinquenta e nove) dias | -8 (menos oito) pontos |
+| Suspensão igual ou superior à 60 (sessenta) dias | -10 (menos dez) pontos |
 
 CAPÍTULO III
 
@@ -132,15 +113,12 @@ DO FATOR DE AGRUPAMENTO
 
 **Parágrafo único** - O fator de agrupamento será informado a partir do resultado individual do servidor definido no Relatório de Execução do Compromisso de Resultados do ano anterior à realização do procedimento avaliatório deste Decreto, conforme a seguinte escala de pontos:
 
-| FATOR DE PAGAMENTO DA BCMRI |PONTUAÇÃO |
-
-|Abaixo de 48% |0 (zero ponto) |
-
-|De 48% a 59,9% |5 (cinco pontos) |
-
-|De 60 % a 89,9% |8 (oito pontos) |
-
-|Igual ou maior a 90% |10 (dez pontos) |
+| FATOR DE PAGAMENTO DA BCMRI | PONTUAÇÃO |
+| --- | --- |
+| Abaixo de 48% | 0 (zero ponto) |
+| De 48% a 59,9% | 5 (cinco pontos) |
+| De 60 % a 89,9% | 8 (oito pontos) |
+| Igual ou maior a 90% | 10 (dez pontos) |
 
 CAPÍTULO IV
 
@@ -298,35 +276,25 @@ b) autoavaliação.
 
 I - para a apuração da assiduidade do servidor será atribuído um máximo de 10 (dez) pontos, considerando-se as faltas injustificadas, conforme a seguinte tabela:
 
-|Número de Faltas |Pontuação |
-
-|Nenhuma falta |10 (dez) pontos |
-
-|De 1 (uma) a 5 (cinco) faltas |8 (oito) pontos |
-
-|De 6 (seis) a 8 (oito) faltas |6 (seis) pontos |
-
-|De 9 (nove) a 11 (onze) faltas |4 (quatro) pontos |
-
-|De 12 (doze) a 13 (treze) faltas |2 (dois) pontos |
-
-|De 14 (quatorze) a 15 (quinze) faltas |0 (zero) ponto |
+| Número de Faltas | Pontuação |
+| --- | --- |
+| Nenhuma falta | 10 (dez) pontos |
+| De 1 (uma) a 5 (cinco) faltas | 8 (oito) pontos |
+| De 6 (seis) a 8 (oito) faltas | 6 (seis) pontos |
+| De 9 (nove) a 11 (onze) faltas | 4 (quatro) pontos |
+| De 12 (doze) a 13 (treze) faltas | 2 (dois) pontos |
+| De 14 (quatorze) a 15 (quinze) faltas | 0 (zero) ponto |
 
 II - para a apuração das penalidades disciplinares aplicadas ao servidor avaliado, serão atribuídos 10 (dez) pontos, conforme a seguinte tabela:
 
-|Penalidade |Pontuação |
-
-|Nenhuma penalidade |10 (dez) pontos |
-
-|Repreensão |8 (oito) pontos |
-
-|Suspensão de 1 (um) a 29 (vinte e nove) dias |6 (seis) pontos |
-
-|Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias |4 (quatro) pontos |
-
-|Suspensão de 45 (quarenta e cinco) a 59 (cinquenta e nove) dias |2 (dois) pontos |
-
-|Suspensão igual ou superior a 60 (sessenta) dias |0 (zero) ponto |
+| Penalidade | Pontuação |
+| --- | --- |
+| Nenhuma penalidade | 10 (dez) pontos |
+| Repreensão | 8 (oito) pontos |
+| Suspensão de 1 (um) a 29 (vinte e nove) dias | 6 (seis) pontos |
+| Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias | 4 (quatro) pontos |
+| Suspensão de 45 (quarenta e cinco) a 59 (cinquenta e nove) dias | 2 (dois) pontos |
+| Suspensão igual ou superior a 60 (sessenta) dias | 0 (zero) ponto |
 
 III - para a apuração dos demais quesitos do formulário de avaliação de desempenho serão atribuídos 80 (oitenta) pontos.
 

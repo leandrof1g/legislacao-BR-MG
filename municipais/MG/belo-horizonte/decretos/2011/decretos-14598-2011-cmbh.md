@@ -46,87 +46,48 @@ PROGRAMAS ABRANGIDOS
 
 (Substitui o Anexo I do Decreto nº 14.183/10)
 
-|Programa |Secretaria Responsável|Descritivo Básico |
-
-|Esporte Esperança |SMAES |Aprendizagem de diversas modalidades esportivas, fundamentadas nas |
-
-| | |diretrizes do esporte educacional e das práticas lúdicas, desenvolvidas em |
-
-| | |quadras, campos, piscinas e demais áreas esportivas necessárias ao |
-
-| | |desenvolvimento das atividades planejadas, privilegiando os aspectos da |
-
-| | |socialização e da educação para a cidadania no contraturno escolar. Público |
-
-| | |atendido: crianças e adolescentes, de 6 a 17 anos. |
-
-|Superar |SMAES |Desenvolvimento do esporte adaptado, possibilitando às pessoas com |
-
-| | |deficiência, de qualquer natureza, a participação e fruição deste bem |
-
-| | |cultural, caracterizando-se como uma atividade inclusiva, de promoção da |
-
-| | |cidadania e da qualidade de vida. Público atendido: pessoa com deficiência |
-
-| | |em qualquer faixa etária. |
-
-|Vida Ativa |SMAES |Promoção da atividade física regular e a vivência do lazer através da |
-
-| | |constituição de grupos de convivência, contribuindo para a promoção da |
-
-| | |saúde, da autoestima e da socialização, da qualidade de vida dos |
-
-| | |participantes. Público atendido: pessoas com mais de 50 anos |
-
-|Academia da Cidade |SMSA |As Academias da Cidade são locais com infraestrutura adequada para a prática|
-
-| | |da atividade física ministradas por profissionais de Educação Física, que |
-
-| | |tem como princípio, adoção de um processo educativo e cultural, que |
-
-| | |possibilite a mudança de hábitos de vida. |
-
-| | |Todos os usuários passam por uma avaliação física para a prescrição e o |
-
-| | |treinamento de exercícios físicos com a carga adequada de forma preventiva, |
-
-| | |com aulas para a melhora do sistema cardiorrespiratório e sistema funcional |
-
-| | |através de materiais como step’s, caneleiras, |
-
-| | |pesos alternativos, bola, goma elástica, arcos, bastões e cordas. |
-
-|Escola Integrada |SMED |A estrutura do Programa Escola Integrada atende aos alunos da rede municipal|
-
-| | |e está balizada por meio de atividades realizadas no contraturno das escolas|
-
-| | |que são monitoradas por professores comunitários (coordenadores), agentes |
-
-| | |culturais (moram e atuam na comunidade) e bolsistas (universitários) e |
-
-| | |planejam ações relacionadas a acompanhamento pedagógico, meio ambiente, |
-
-| | |atividades esportivas, culturais e artísticas. Ir para além dos muros da |
-
-| | |escola, utilizando espaços e lugares da comunidade, é um dos principais |
-
-| | |eixos de sustentação do programa. A formação integral dos estudantes exige |
-
-| | |aprendizagens que só podem ser construídas no exercício de vivenciar |
-
-| | |situações reais em outros espaços sociais, que extrapolam a natureza do |
-
-| | |ambiente escolar. |
-
-|BH Descobrindo |SMAES |Programa de esporte de rendimento voltado para a formação e treinamento de |
-
-|Talentos no Esporte | |atletas nas diversas modalidades olímpicas e para-olímpicas, a partir de 14 |
-
-| | |anos de idade, de caráter não profissional. O Programa visa a atender as |
-
-| | |ações de formação no esporte de rendimento, nas diversas modalidades |
-
-| | |olímpicas e para-olímpicas. |
+| Programa | Secretaria Responsável | Descritivo Básico |
+| --- | --- | --- |
+| Esporte Esperança | SMAES | Aprendizagem de diversas modalidades esportivas, fundamentadas nas |
+|  |  | diretrizes do esporte educacional e das práticas lúdicas, desenvolvidas em |
+|  |  | quadras, campos, piscinas e demais áreas esportivas necessárias ao |
+|  |  | desenvolvimento das atividades planejadas, privilegiando os aspectos da |
+|  |  | socialização e da educação para a cidadania no contraturno escolar. Público |
+|  |  | atendido: crianças e adolescentes, de 6 a 17 anos. |
+| Superar | SMAES | Desenvolvimento do esporte adaptado, possibilitando às pessoas com |
+|  |  | deficiência, de qualquer natureza, a participação e fruição deste bem |
+|  |  | cultural, caracterizando-se como uma atividade inclusiva, de promoção da |
+|  |  | cidadania e da qualidade de vida. Público atendido: pessoa com deficiência |
+|  |  | em qualquer faixa etária. |
+| Vida Ativa | SMAES | Promoção da atividade física regular e a vivência do lazer através da |
+|  |  | constituição de grupos de convivência, contribuindo para a promoção da |
+|  |  | saúde, da autoestima e da socialização, da qualidade de vida dos |
+|  |  | participantes. Público atendido: pessoas com mais de 50 anos |
+| Academia da Cidade | SMSA | As Academias da Cidade são locais com infraestrutura adequada para a prática |
+|  |  | da atividade física ministradas por profissionais de Educação Física, que |
+|  |  | tem como princípio, adoção de um processo educativo e cultural, que |
+|  |  | possibilite a mudança de hábitos de vida. |
+|  |  | Todos os usuários passam por uma avaliação física para a prescrição e o |
+|  |  | treinamento de exercícios físicos com a carga adequada de forma preventiva, |
+|  |  | com aulas para a melhora do sistema cardiorrespiratório e sistema funcional |
+|  |  | através de materiais como step’s, caneleiras, |
+|  |  | pesos alternativos, bola, goma elástica, arcos, bastões e cordas. |
+| Escola Integrada | SMED | A estrutura do Programa Escola Integrada atende aos alunos da rede municipal |
+|  |  | e está balizada por meio de atividades realizadas no contraturno das escolas |
+|  |  | que são monitoradas por professores comunitários (coordenadores), agentes |
+|  |  | culturais (moram e atuam na comunidade) e bolsistas (universitários) e |
+|  |  | planejam ações relacionadas a acompanhamento pedagógico, meio ambiente, |
+|  |  | atividades esportivas, culturais e artísticas. Ir para além dos muros da |
+|  |  | escola, utilizando espaços e lugares da comunidade, é um dos principais |
+|  |  | eixos de sustentação do programa. A formação integral dos estudantes exige |
+|  |  | aprendizagens que só podem ser construídas no exercício de vivenciar |
+|  |  | situações reais em outros espaços sociais, que extrapolam a natureza do |
+|  |  | ambiente escolar. |
+| BH Descobrindo | SMAES | Programa de esporte de rendimento voltado para a formação e treinamento de |
+| Talentos no Esporte |  | atletas nas diversas modalidades olímpicas e para-olímpicas, a partir de 14 |
+|  |  | anos de idade, de caráter não profissional. O Programa visa a atender as |
+|  |  | ações de formação no esporte de rendimento, nas diversas modalidades |
+|  |  | olímpicas e para-olímpicas. |
 
 ANEXO II
 
@@ -134,64 +95,41 @@ MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
 (Substitui o Anexo II do Decreto nº 14.183/10)
 
-|Programa |Nº Indivíduos atendidos |Duração Diária (em |Frequência Semanal |
-
-| | |horas) | |
-
-|Esporte Esperança |100 |2 |3 |
-
-|Superar |10 |1 |2 |
-
-|Vida Ativa |50 |1 |2 |
-
-|Academia da Cidade |60 |1 |3 |
-
-|Escola Integrada |30 |8 |5 |
-
-|BH Descobrindo Talentos no |100 |2 |3 |
-
-|Esporte | | | |
+| Programa | Nº Indivíduos atendidos | Duração Diária (em | Frequência Semanal |
+| --- | --- | --- | --- |
+|  |  | horas) |  |
+| Esporte Esperança | 100 | 2 | 3 |
+| Superar | 10 | 1 | 2 |
+| Vida Ativa | 50 | 1 | 2 |
+| Academia da Cidade | 60 | 1 | 3 |
+| Escola Integrada | 30 | 8 | 5 |
+| BH Descobrindo Talentos no | 100 | 2 | 3 |
+| Esporte |  |  |  |
 
 ANEXO III
 
 (Substitui o Anexo III do Decreto nº 14.183/10)
 
-|[pic] |Formulário de Requerimento de Conveniamento – Decreto nº |
+| *[imagem no documento original — ver `fonte_texto`]*
 
-| |________ |
-
-|Nome da Entidade |
-
-|Endereço |
-
-| |
-
-|Telefone |CNPJ |
-
-|Nome do Representante: |
-
-|Cargo ou função: |CPF: |
-
-|A Entidade acima identificada, por meio de seu representante , vem solicitar a habilitação no Programa Esporte para |
-
-|Todos de benefício fiscal de IPTU e débitos perante a Fazenda Pública Municipal, previsto no art. 4º da Lei nº |
-
-|9.795/09, regulamentada pelo Decreto nº ________, estando ciente das condições previstas na normatização indicada. |
-
-|Programas aos quais pretende aderir: |
-
-| |Esporte Esperança| |Academia da Cidade |
-
-| |Superar | |Escola Integrada |
-
-| |Vida Ativa | |BH Descobrindo Talentos no Esporte |
-
-|Local e Data: |
-
-|Assinatura: |
-
-|Para uso da PBH |
-
-|Local e Data de Protocolo: |
-
-|Rubrica do recebedor: |BM: |
+| Formulário de Requerimento de Conveniamento – Decreto nº |  |  |
+| --- | --- | --- | --- |
+|  | ________ |  |  |
+| Nome da Entidade |  |  |  |
+| Endereço |  |  |  |
+|  |  |  |  |
+| Telefone | CNPJ |  |  |
+| Nome do Representante: |  |  |  |
+| Cargo ou função: | CPF: |  |  |
+| A Entidade acima identificada, por meio de seu representante , vem solicitar a habilitação no Programa Esporte para |  |  |  |
+| Todos de benefício fiscal de IPTU e débitos perante a Fazenda Pública Municipal, previsto no art. 4º da Lei nº |  |  |  |
+| 9.795/09, regulamentada pelo Decreto nº ________, estando ciente das condições previstas na normatização indicada. |  |  |  |
+| Programas aos quais pretende aderir: |  |  |  |
+|  | Esporte Esperança |  | Academia da Cidade |
+|  | Superar |  | Escola Integrada |
+|  | Vida Ativa |  | BH Descobrindo Talentos no Esporte |
+| Local e Data: |  |  |  |
+| Assinatura: |  |  |  |
+| Para uso da PBH |  |  |  |
+| Local e Data de Protocolo: |  |  |  |
+| Rubrica do recebedor: | BM: |  |  |

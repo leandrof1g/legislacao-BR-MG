@@ -34,9 +34,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 ANEXO I DIA COMEMORATIVO K - Dias comemorativos de novembro
 
-|DATA |COMEMORAÇÃO |
-
-|1º/11 |Dia do Heavy Metal |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 1º/11 | Dia do Heavy Metal |
 
 .”.
 

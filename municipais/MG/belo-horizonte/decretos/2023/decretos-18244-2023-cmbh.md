@@ -66,55 +66,32 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei | |
-
-|nº 11.442, de 29 de dezembro de 2022: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.2900.06.181.109.2.803.449093.700 |2.826,75 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.0100.12.367.167.2.701.339037.500 |7.300.598,00 |
-
-|2200.0200.12.367.167.2.701.339037.500 |3.372.023,00 |
-
-|2200.0300.12.367.167.2.701.339037.500 |2.782.737,00 |
-
-|2200.0400.12.367.167.2.701.339037.500 |7.186.012,00 |
-
-|2200.0500.12.367.167.2.701.339037.500 |3.961.309,00 |
-
-|2200.0600.12.367.167.2.701.339037.500 |4.796.132,00 |
-
-|2200.0700.12.367.167.2.701.339037.500 |3.568.452,00 |
-
-|2200.0800.12.367.167.2.701.339037.500 |4.648.809,00 |
-
-|2200.0900.12.367.167.2.701.339037.500 |6.383.928,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.1100.16.482.226.2.792.339048.665 |1.500.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.1100.23.695.086.2.629.339039.500 |13.953.906,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.1100.13.392.154.2.930.339036.500 |550,51 |
-
-|3100.1100.13.392.154.2.930.339039.700 |135.660,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.1100.13.122.146.2.900.339039.501 |70.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |59.662.943,26 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei |  |
+| nº 11.442, de 29 de dezembro de 2022: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.2900.06.181.109.2.803.449093.700 | 2.826,75 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0100.12.367.167.2.701.339037.500 | 7.300.598,00 |
+| 2200.0200.12.367.167.2.701.339037.500 | 3.372.023,00 |
+| 2200.0300.12.367.167.2.701.339037.500 | 2.782.737,00 |
+| 2200.0400.12.367.167.2.701.339037.500 | 7.186.012,00 |
+| 2200.0500.12.367.167.2.701.339037.500 | 3.961.309,00 |
+| 2200.0600.12.367.167.2.701.339037.500 | 4.796.132,00 |
+| 2200.0700.12.367.167.2.701.339037.500 | 3.568.452,00 |
+| 2200.0800.12.367.167.2.701.339037.500 | 4.648.809,00 |
+| 2200.0900.12.367.167.2.701.339037.500 | 6.383.928,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.1100.16.482.226.2.792.339048.665 | 1.500.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.1100.23.695.086.2.629.339039.500 | 13.953.906,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.1100.13.392.154.2.930.339036.500 | 550,51 |
+| 3100.1100.13.392.154.2.930.339039.700 | 135.660,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.1100.13.122.146.2.900.339039.501 | 70.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 59.662.943,26 |
 
 ANEXO II
 
@@ -172,24 +149,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4.º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 0,00 |
-
-|Valor do Decreto publicado nesta data |59.662.943,26 |
-
-|Saldo atual de créditos suplementares |R$ 1.654.504.244,94 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 59.662.943,26 |
-
-|Percentual utilizado |3,48% |
-
-|Atualizado em 27/01/2023 às 17:03:41 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4.º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 0,00 |
+| Valor do Decreto publicado nesta data | 59.662.943,26 |
+| Saldo atual de créditos suplementares | R$ 1.654.504.244,94 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 59.662.943,26 |
+| Percentual utilizado | 3,48% |
+| Atualizado em 27/01/2023 às 17:03:41 |  |

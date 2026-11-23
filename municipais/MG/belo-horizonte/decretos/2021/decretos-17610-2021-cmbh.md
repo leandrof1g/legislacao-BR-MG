@@ -52,26 +52,19 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Obras e Infraestrutura –|
-
-|SMOBI –, conforme autorização contida no caput do art. 4º da Lei |
-
-|nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|2700.18.541.073.1.349.4490.0000 |400.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |400.000,00 |
+| I.1 – A favor da Secretaria Municipal de Obras e Infraestrutura – |  |
+| --- | --- |
+| SMOBI –, conforme autorização contida no caput do art. 4º da Lei |  |
+| nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 2700.18.541.073.1.349.4490.0000 | 400.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 400.000,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 |
-
-|da tabela anterior: |
-
-|R$ |
-
-|2700.12.361.168.1.211.4490.0000 |400.000,00 |
-
-|TOTAL DA ANULAÇÃO |400.000,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 2700.12.361.168.1.211.4490.0000 | 400.000,00 |
+| TOTAL DA ANULAÇÃO | 400.000,00 |

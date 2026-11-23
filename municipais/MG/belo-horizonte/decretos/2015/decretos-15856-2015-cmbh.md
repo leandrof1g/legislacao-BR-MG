@@ -34,13 +34,11 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 **Art. 1º** - Reajustar as tarifas de ônibus do Serviço de Transporte Suplementar de Passageiros de Belo Horizonte, conforme valores de tarifa por linha, abaixo:
 
-|Grupo |Tarifa Atual (R$) |Tarifa Reajustada (R$) |
-
-|1 |2,05 |2,20 |
-
-|2 |2,35 |2,50 |
-
-|3 |2,85 |3,10 |
+| Grupo | Tarifa Atual (R$) | Tarifa Reajustada (R$) |
+| --- | --- | --- |
+| 1 | 2,05 | 2,20 |
+| 2 | 2,35 | 2,50 |
+| 3 | 2,85 | 3,10 |
 
 **Art. 2º** - Os créditos eletrônicos dos Cartões BHBUS Usuário adquiridos até 28 de dezembro de 2014 poderão ser utilizados até o dia 11 de fevereiro de 2015, com manutenção do valor de uso, ou seja, serão debitados os valores das tarifas anteriores ao reajuste e, a partir de 12 de fevereiro de 2014, serão debitados os valores das tarifas vigentes.
 

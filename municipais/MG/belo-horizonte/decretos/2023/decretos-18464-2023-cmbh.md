@@ -60,35 +60,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § |R$ |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, no art. 4º da Lei | |
-
-|nº 11.442, de 29 de dezembro de 2022, e no art. 66 da Lei nº 11.539, de 5 de julho| |
-
-|de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.0100.10.301.157.2.690.319011.604 |1.107.800,00 |
-
-|2302.0200.10.301.157.2.690.319011.604 |466.200,00 |
-
-|2302.0300.10.301.157.2.690.319011.604 |748.000,00 |
-
-|2302.0500.10.301.157.2.690.319011.604 |871.000,00 |
-
-|2302.0600.10.301.157.2.690.319011.604 |891.800,00 |
-
-|2302.0700.10.301.157.2.690.319011.604 |841.600,00 |
-
-|2302.0800.10.301.157.2.690.319011.604 |605.000,00 |
-
-|2302.0800.10.305.028.2.829.319011.604 |76.600,00 |
-
-|2302.0900.10.305.028.2.829.319011.604 |113.600,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.721.600,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, no art. 4º da Lei |  |
+| nº 11.442, de 29 de dezembro de 2022, e no art. 66 da Lei nº 11.539, de 5 de julho |  |
+| de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.0100.10.301.157.2.690.319011.604 | 1.107.800,00 |
+| 2302.0200.10.301.157.2.690.319011.604 | 466.200,00 |
+| 2302.0300.10.301.157.2.690.319011.604 | 748.000,00 |
+| 2302.0500.10.301.157.2.690.319011.604 | 871.000,00 |
+| 2302.0600.10.301.157.2.690.319011.604 | 891.800,00 |
+| 2302.0700.10.301.157.2.690.319011.604 | 841.600,00 |
+| 2302.0800.10.301.157.2.690.319011.604 | 605.000,00 |
+| 2302.0800.10.305.028.2.829.319011.604 | 76.600,00 |
+| 2302.0900.10.305.028.2.829.319011.604 | 113.600,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.721.600,00 |
 
 ANEXO II
 
@@ -114,22 +101,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 66 da Lei nº 11.539, de 5 de julho de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |
-
-|Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |
-
-|empregados públicos da administração direta e indireta do Poder Executivo |
-
-|Limite total autorizado |261.693.719,44 |
-
-|Total de créditos suplementares abertos anteriormente |95.696.989,00 |
-
-|Valor do Decreto publicado nesta data |5.721.600,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |101.418.589,00 |
-
-|Saldo atual do limite autorizado |160.275.130,44 |
-
-|Percentual utilizado |38,75% |
-
-|Atualizado em 28/09/2023 às 16:32:38 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |  |
+| --- | --- |
+| Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |  |
+| empregados públicos da administração direta e indireta do Poder Executivo |  |
+| Limite total autorizado | 261.693.719,44 |
+| Total de créditos suplementares abertos anteriormente | 95.696.989,00 |
+| Valor do Decreto publicado nesta data | 5.721.600,00 |
+| Valor total dos créditos suplementares abertos no exercício | 101.418.589,00 |
+| Saldo atual do limite autorizado | 160.275.130,44 |
+| Percentual utilizado | 38,75% |
+| Atualizado em 28/09/2023 às 16:32:38 |  |

@@ -62,109 +62,62 @@ Leonardo Maurício Colombini Lima
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da |R$ |
-
-|Lei nº 11.442, de 29 de dezembro de 2022: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.1100.04.122.096.2.004.449052.500 |7.410,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.1100.08.122.123.2.900.449092.500 |24.267,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.2900.06.181.109.2.803.339039.500 |166.800,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0200.18.541.073.1.202.449051.754 |440.000,00 |
-
-|2700.1100.15.451.062.1.330.449051.759 |3.000.000,00 |
-
-|2700.1100.15.451.062.1.330.449051.500 |6.200.000,00 |
-
-|2700.1100.17.512.066.1.203.449051.759 |500.000,00 |
-
-|2700.1100.17.512.066.1.400.449051.759 |8.900.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.1100.04.212.005.2.758.339039.500 |84.200,00 |
-
-|2800.1100.11.334.237.2.404.339030.500 |1.491,00 |
-
-|2800.1100.11.334.237.2.404.339037.500 |136.890,00 |
-
-|2800.1100.11.334.237.2.404.339039.500 |386.210,00 |
-
-|2800.1100.11.334.237.2.404.339040.500 |9.720,00 |
-
-|2800.1100.11.334.237.2.404.339092.500 |12.538,00 |
-
-|2800.1100.11.334.237.2.404.339048.500 |1.620.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.5801.12.361.168.2.850.319011.500 |200.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |21.689.526,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da | R$ |
+| --- | --- |
+| Lei nº 11.442, de 29 de dezembro de 2022: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.1100.04.122.096.2.004.449052.500 | 7.410,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.1100.08.122.123.2.900.449092.500 | 24.267,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.2900.06.181.109.2.803.339039.500 | 166.800,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0200.18.541.073.1.202.449051.754 | 440.000,00 |
+| 2700.1100.15.451.062.1.330.449051.759 | 3.000.000,00 |
+| 2700.1100.15.451.062.1.330.449051.500 | 6.200.000,00 |
+| 2700.1100.17.512.066.1.203.449051.759 | 500.000,00 |
+| 2700.1100.17.512.066.1.400.449051.759 | 8.900.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.1100.04.212.005.2.758.339039.500 | 84.200,00 |
+| 2800.1100.11.334.237.2.404.339030.500 | 1.491,00 |
+| 2800.1100.11.334.237.2.404.339037.500 | 136.890,00 |
+| 2800.1100.11.334.237.2.404.339039.500 | 386.210,00 |
+| 2800.1100.11.334.237.2.404.339040.500 | 9.720,00 |
+| 2800.1100.11.334.237.2.404.339092.500 | 12.538,00 |
+| 2800.1100.11.334.237.2.404.339048.500 | 1.620.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.5801.12.361.168.2.850.319011.500 | 200.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 21.689.526,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.1100.04.122.096.2.004.339039.500 |7.410,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.2900.06.181.109.2.803.319011.500 |200.000,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.1100.08.122.123.2.787.449052.500 |15.000,00 |
-
-|1000.1100.08.244.123.2.804.449052.500 |9.267,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0300.15.451.062.1.230.449051.500 |5.200.000,00 |
-
-|2700.0700.15.451.233.1.208.449051.500 |1.000.000,00 |
-
-|2700.0800.18.541.244.1.244.449051.759 |8.200.000,00 |
-
-|2700.1100.04.122.044.1.219.449051.754 |440.000,00 |
-
-|2700.1100.15.451.062.1.230.449051.759 |2.500.000,00 |
-
-|2700.1100.17.512.233.1.203.449051.759 |1.700.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.1100.04.212.005.2.758.338041.500 |84.200,00 |
-
-|Fundo Municipal do Trabalho – FMT |
-
-|2810.1100.11.334.237.2.404.339030.500 |1.491,00 |
-
-|2810.1100.11.334.237.2.404.339037.500 |136.890,00 |
-
-|2810.1100.11.334.237.2.404.339039.500 |18.748,00 |
-
-|2810.1100.11.334.237.2.404.339040.500 |9.720,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.5701.99.999.999.9.999.999999.500 |2.166.800,00 |
-
-|TOTAL DA ANULAÇÃO |21.689.526,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.1100.04.122.096.2.004.339039.500 | 7.410,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.2900.06.181.109.2.803.319011.500 | 200.000,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.1100.08.122.123.2.787.449052.500 | 15.000,00 |
+| 1000.1100.08.244.123.2.804.449052.500 | 9.267,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0300.15.451.062.1.230.449051.500 | 5.200.000,00 |
+| 2700.0700.15.451.233.1.208.449051.500 | 1.000.000,00 |
+| 2700.0800.18.541.244.1.244.449051.759 | 8.200.000,00 |
+| 2700.1100.04.122.044.1.219.449051.754 | 440.000,00 |
+| 2700.1100.15.451.062.1.230.449051.759 | 2.500.000,00 |
+| 2700.1100.17.512.233.1.203.449051.759 | 1.700.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.1100.04.212.005.2.758.338041.500 | 84.200,00 |
+| Fundo Municipal do Trabalho – FMT |  |
+| 2810.1100.11.334.237.2.404.339030.500 | 1.491,00 |
+| 2810.1100.11.334.237.2.404.339037.500 | 136.890,00 |
+| 2810.1100.11.334.237.2.404.339039.500 | 18.748,00 |
+| 2810.1100.11.334.237.2.404.339040.500 | 9.720,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.5701.99.999.999.9.999.999999.500 | 2.166.800,00 |
+| TOTAL DA ANULAÇÃO | 21.689.526,00 |
 
 8 ANEXO II
 
@@ -216,24 +169,15 @@ A suplementação visa acobertar despesas com variações ocorridas na folha de 
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 387.602.176,85 |
-
-|Valor do Decreto publicado nesta data |21.689.526,00 |
-
-|Saldo atual de créditos suplementares |R$ 1.304.875.485,35 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 409.291.702,85 |
-
-|Percentual utilizado |23,88% |
-
-|Atualizado em 29/05/2023 às 16:20:09 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 387.602.176,85 |
+| Valor do Decreto publicado nesta data | 21.689.526,00 |
+| Saldo atual de créditos suplementares | R$ 1.304.875.485,35 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 409.291.702,85 |
+| Percentual utilizado | 23,88% |
+| Atualizado em 29/05/2023 às 16:20:09 |  |

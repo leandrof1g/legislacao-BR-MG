@@ -72,7 +72,7 @@ ANEXO I
 
 PERÍMETRO E ÁREAS COM PARÂMETROS ESPECÍFICOS
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
@@ -80,7 +80,7 @@ ANEXO II
 
 LARGURAS MÍNIMAS DE VIAS
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO III
 
@@ -90,66 +90,52 @@ PARÂMETROS URBANÍSTICOS
 
 TABELA 1 – Parâmetros para fins de parcelamento do solo e de regularização
 
-|Áreas do |Área máxima de lote|Área mínima de lote|Frente |Extensão máxima de |
-
-|Anexo I |(m²) |(m²) |mínima |quadra (m) |
-
-| | | |de lote (m)| |
-
-| | | | | | |
-
-|Áreas A |250 |125 |5 |200 | |
-
-|Área B |10.000 |125 |5 |200 | |
-
-|Área C |10.000 |1.000 |10 |200 | |
+| Áreas do | Área máxima de lote | Área mínima de lote | Frente | Extensão máxima de |  |
+| --- | --- | --- | --- | --- | --- |
+| Anexo I | (m²) | (m²) | mínima | quadra (m) |  |
+|  |  |  | de lote (m) |  |  |
+|  |  |  |  |  |  |
+| Áreas A | 250 | 125 | 5 | 200 |  |
+| Área B | 10.000 | 125 | 5 | 200 |  |
+| Área C | 10.000 | 1.000 | 10 | 200 |  |
 
 TABELA 2 – Inclinação máxima de rampa para trechos de vias
 
-|Via Local 1 e |Via Mista |Via de pedestre |
-
-|Via Local 2 | | |
-
-|30% |25% |Sem limite. Acima de 25%, obrigatória implantação de escada |
+| Via Local 1 e | Via Mista | Via de pedestre |
+| --- | --- | --- |
+| Via Local 2 |  |  |
+| 30% | 25% | Sem limite. Acima de 25%, obrigatória implantação de escada |
 
 Obs.: Para vias existentes, os parâmetros previstos nesta tabela poderão ser flexibilizados, mediante anuência do órgão municipal responsável pela política municipal de habitação.
 
 TABELA 3 – Afastamento frontal mínimo
 
-|Classificação da via |Afastamento frontal mínimo (m) |
-
-|Via local 1 e Via local 2 |1,5 |
-
-|Via mista ou de pedestre |sem exigência |
+| Classificação da via | Afastamento frontal mínimo (m) |
+| --- | --- |
+| Via local 1 e Via local 2 | 1,5 |
+| Via mista ou de pedestre | sem exigência |
 
 TABELA 4 – Afastamento lateral e de fundos mínimo
 
-|Altura total da edificação |Afastamento lateral e de fundos mínimo (m) |
+| Altura total da edificação | Afastamento lateral e de fundos mínimo (m) |
+| --- | --- |
+| H < 8m | Afastamento mínimo de 1,50m quando houver abertura |
+|  | para a edificação vizinha. |
+|  | Afastamento mínimo de 0,90m quando não houver abertura |
+|  | para a edificação vizinha. |
+| 8m ≤ H ≤ 12,0 m | 1,5m |
+| *[imagem no documento original — ver `fonte_texto`]*
 
-|H < 8m |Afastamento mínimo de 1,50m quando houver abertura |
-
-| |para a edificação vizinha. |
-
-| |Afastamento mínimo de 0,90m quando não houver abertura|
-
-| |para a edificação vizinha. |
-
-|8m ≤ H ≤ 12,0 m |1,5m |
-
-|[pic] 12,0 m |Conforme tabela 4 do Anexo XII da Lei nº 11.181/19, |
-
-| |considerando b=8. |
+12,0 m | Conforme tabela 4 do Anexo XII da Lei nº 11.181/19, |
+|  | considerando b=8. |
 
 TABELA 5 – Coeficiente de aproveitamento, quota de terreno por unidade habitacional e taxa de permeabilidade vegetada
 
-|Áreas do |CAbas |CAmax |CAcent |QT |QTcent |TO |TP* |
-
-|Anexo I | | | |(m²/un) |(m²/un) | | |
-
-|B |1,7 (área |2,5 (área |2,8 (área |Sem |Sem limite |80% |20% |
-
-| |bruta) |bruta) |bruta) |limite | | | |
-
-|C |0,8 |1,0 |1,0 |500 |500 |60% |30% |
+| Áreas do | CAbas | CAmax | CAcent | QT | QTcent | TO | TP* |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Anexo I |  |  |  | (m²/un) | (m²/un) |  |  |
+| B | 1,7 (área | 2,5 (área | 2,8 (área | Sem | Sem limite | 80% | 20% |
+|  | bruta) | bruta) | bruta) | limite |  |  |  |
+| C | 0,8 | 1,0 | 1,0 | 500 | 500 | 60% | 30% |
 
 *Exceto para as áreas correspondentes às conexões de fundo de vale, que deverão observar o disposto no inciso III do art. 188 da Lei nº 11.181, de 2019.

@@ -62,21 +62,15 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 | |
-
-|da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.122.0146.2338.339039.2.710.610 |1.187.230,64 |
-
-|3100.13.122.0146.2338.339039.2.706.510 |1.052.647,41 |
-
-|3100.13.122.0146.2338.339039.2.710.620 |554.204,05 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.794.082,10 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 |  |
+| da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.122.0146.2338.339039.2.710.610 | 1.187.230,64 |
+| 3100.13.122.0146.2338.339039.2.706.510 | 1.052.647,41 |
+| 3100.13.122.0146.2338.339039.2.710.620 | 554.204,05 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.794.082,10 |
 
 ANEXO II
 

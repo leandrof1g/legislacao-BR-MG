@@ -60,35 +60,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei | |
-
-|nº 11.742, de 13 de setembro de 2024. | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.449052.2.500.000 |431.009,02 |
-
-|2302.10.302.0114.2936.449052.2.500.000 |145.099,49 |
-
-|2302.10.305.0028.2829.339030.2.500.000 |41.008,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2933.339039.2.500.000 |280.000,00 |
-
-|3000.27.813.0101.2545.339092.2.500.000 |15.055,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.11.334.0237.2404.339039.2.500.000 |100.000,00 |
-
-|2800.04.122.0217.2853.339039.2.500.000 |210.000,00 |
-
-|2800.04.122.0217.2853.445042.2.500.000 |128.055,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.350.226,51 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024. |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.449052.2.500.000 | 431.009,02 |
+| 2302.10.302.0114.2936.449052.2.500.000 | 145.099,49 |
+| 2302.10.305.0028.2829.339030.2.500.000 | 41.008,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2933.339039.2.500.000 | 280.000,00 |
+| 3000.27.813.0101.2545.339092.2.500.000 | 15.055,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.11.334.0237.2404.339039.2.500.000 | 100.000,00 |
+| 2800.04.122.0217.2853.339039.2.500.000 | 210.000,00 |
+| 2800.04.122.0217.2853.445042.2.500.000 | 128.055,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.350.226,51 |
 
 ANEXO II
 

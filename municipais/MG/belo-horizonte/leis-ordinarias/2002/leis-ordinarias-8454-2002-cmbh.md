@@ -142,4 +142,5 @@ Prefeito de Belo Horizonte, em exercício
 
 (Originária do Projeto de Lei nº 749/02, de autoria do Vereador Leonardo Quintão)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

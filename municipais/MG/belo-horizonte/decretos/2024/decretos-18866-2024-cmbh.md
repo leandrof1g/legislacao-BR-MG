@@ -68,31 +68,20 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |54.000,00 |
-
-|2302.10.302.0114.2936.339092.2.621.000 |1.013.559,84 |
-
-|2302.10.305.0028.2829.339039.2.621.000 |1.000.000,00 |
-
-|2302.10.302.0114.2936.449052.2.749.778 |2.580,00 |
-
-|2302.10.301.0157.2690.339034.2.601.000 |240.453,86 |
-
-|2302.10.301.0157.2690.339034.2.602.000 |476.830,29 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.339039.2.701.000 |150.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.937.423,99 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 54.000,00 |
+| 2302.10.302.0114.2936.339092.2.621.000 | 1.013.559,84 |
+| 2302.10.305.0028.2829.339039.2.621.000 | 1.000.000,00 |
+| 2302.10.302.0114.2936.449052.2.749.778 | 2.580,00 |
+| 2302.10.301.0157.2690.339034.2.601.000 | 240.453,86 |
+| 2302.10.301.0157.2690.339034.2.602.000 | 476.830,29 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.339039.2.701.000 | 150.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.937.423,99 |
 
 ANEXO II
 

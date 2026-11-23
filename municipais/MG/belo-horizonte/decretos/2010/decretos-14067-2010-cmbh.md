@@ -28,89 +28,49 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições, em especial a
 
 **Art. 1º** - Para os fins do disposto no art. 9º da Lei nº 9.816, de 18 de janeiro de 2010, ficam classificadas como integrantes da Rede Complementar de Saúde as seguintes unidades e os respectivos serviços vinculados às unidades de saúde do Município:
 
-|REGIONAL |UNIDADES |
-
-|Barreiro |Centro de Especialidade Médica – CEM |
-
-|Barreiro |Centro de Referência em Saúde do Trabalhador |
-
-|Barreiro |Centro de Convivência Barreiro |
-
-|Barreiro |Centro de Especialidades Odontológicas – CEO |
-
-|Item acrescentado pelo Decreto nº 15.046, de 6/11/2012 (Art. 1º) |
-
-|Barreiro |Centro de Referência em Reabilitação Barreiro – CREAB-B |
-
-|Item acrescentado pelo Decreto nº 16.594, de 17/3/2017 (Art. 1º) |
-
-|Centro-Sul |Policlínica Centro-Sul – URS |
-
-|Centro-Sul |Centro de Especialidades Odontológicas – CEO |
-
-|Centro-Sul |Centro de Referência em Saúde do Trabalhador |
-
-|Centro-Sul |Centro de Convivência César Campos |
-
-|Centro-Sul |Centro Geral de Reabilitação - CGR |
-
-|Centro-Sul |Centro de Especialidade Médica- CEM |
-
-|Leste |Centro de Convivência Artur Bispo Rosário |
-
-|Leste |Centro de Referência em Reabilitação Sagrada Família - CREAB |
-
-|Leste |Unidade de Referência Secundária Sagrada Família – URS |
-
-|Leste |Unidade de Referência Secundária Saudade - URS |
-
-|Leste |Centro de Especialidade Médica - CEM |
-
-|Leste |Centro de Testagem e Aconselhamento/Serviços de Atendimento Especializado – CTA/SAE |
-
-|Item acrescentado pelo Decreto nº 15.046, de 6/11/2012 (Art. 1º) |
-
-|Nordeste |Centro de Convivência São Paulo |
-
-|Nordeste |Centro de Especialidade Médica- CEM |
-
-|Noroeste |Centro de Referência em Reabilitação Padre Eustáquio - CREAB |
-
-|Noroeste |Unidade de Referência Secundária Padre Eustáquio - URS |
-
-|Noroeste |Centro Municipal de Oftalmologia – CMO |
-
-|Noroeste |Centro de Especialidade Médica - CEM |
-
-|Noroeste |Centro Municipal de Diagnóstico por Imagem |
-
-|Noroeste |Centro de Convivência Carlos Prates |
-
-|Norte |Centro de Convivência Providência |
-
-|Norte |Centro de Especialidade Médica - CEM |
-
-|Oeste |Centro de Convivência Oeste |
-
-|Oeste |Unidade de Referência Secundária Campos Sales - URS |
-
-|Oeste |Centro de Especialidade Médica – CEM |
-
-|Pampulha |Centro de Convivência Lagoa da Pampulha |
-
-|Pampulha |Centro de Especialidade Médica - CEM |
-
-|Venda Nova |Centro de Convivência Venda Nova |
-
-|Venda Nova |Centro de Especialidade Médica- CEM |
-
-|Venda Nova |Centro de Especialidades Odontológicas - CEO |
-
-|Item acrescentado pelo Decreto nº 15.046, de 6/11/2012 (Art. 1º) |
-
-|Venda Nova |Centro de Referência em Reabilitação Venda Nova – CREAB-VN |
-
-|Item acrescentado pelo Decreto nº 16.594, de 17/3/2017 (Art. 1º) |
+| REGIONAL | UNIDADES |
+| --- | --- |
+| Barreiro | Centro de Especialidade Médica – CEM |
+| Barreiro | Centro de Referência em Saúde do Trabalhador |
+| Barreiro | Centro de Convivência Barreiro |
+| Barreiro | Centro de Especialidades Odontológicas – CEO |
+| Item acrescentado pelo Decreto nº 15.046, de 6/11/2012 (Art. 1º) |  |
+| Barreiro | Centro de Referência em Reabilitação Barreiro – CREAB-B |
+| Item acrescentado pelo Decreto nº 16.594, de 17/3/2017 (Art. 1º) |  |
+| Centro-Sul | Policlínica Centro-Sul – URS |
+| Centro-Sul | Centro de Especialidades Odontológicas – CEO |
+| Centro-Sul | Centro de Referência em Saúde do Trabalhador |
+| Centro-Sul | Centro de Convivência César Campos |
+| Centro-Sul | Centro Geral de Reabilitação - CGR |
+| Centro-Sul | Centro de Especialidade Médica- CEM |
+| Leste | Centro de Convivência Artur Bispo Rosário |
+| Leste | Centro de Referência em Reabilitação Sagrada Família - CREAB |
+| Leste | Unidade de Referência Secundária Sagrada Família – URS |
+| Leste | Unidade de Referência Secundária Saudade - URS |
+| Leste | Centro de Especialidade Médica - CEM |
+| Leste | Centro de Testagem e Aconselhamento/Serviços de Atendimento Especializado – CTA/SAE |
+| Item acrescentado pelo Decreto nº 15.046, de 6/11/2012 (Art. 1º) |  |
+| Nordeste | Centro de Convivência São Paulo |
+| Nordeste | Centro de Especialidade Médica- CEM |
+| Noroeste | Centro de Referência em Reabilitação Padre Eustáquio - CREAB |
+| Noroeste | Unidade de Referência Secundária Padre Eustáquio - URS |
+| Noroeste | Centro Municipal de Oftalmologia – CMO |
+| Noroeste | Centro de Especialidade Médica - CEM |
+| Noroeste | Centro Municipal de Diagnóstico por Imagem |
+| Noroeste | Centro de Convivência Carlos Prates |
+| Norte | Centro de Convivência Providência |
+| Norte | Centro de Especialidade Médica - CEM |
+| Oeste | Centro de Convivência Oeste |
+| Oeste | Unidade de Referência Secundária Campos Sales - URS |
+| Oeste | Centro de Especialidade Médica – CEM |
+| Pampulha | Centro de Convivência Lagoa da Pampulha |
+| Pampulha | Centro de Especialidade Médica - CEM |
+| Venda Nova | Centro de Convivência Venda Nova |
+| Venda Nova | Centro de Especialidade Médica- CEM |
+| Venda Nova | Centro de Especialidades Odontológicas - CEO |
+| Item acrescentado pelo Decreto nº 15.046, de 6/11/2012 (Art. 1º) |  |
+| Venda Nova | Centro de Referência em Reabilitação Venda Nova – CREAB-VN |
+| Item acrescentado pelo Decreto nº 16.594, de 17/3/2017 (Art. 1º) |  |
 
 **Art. 1º** revogado pelo Decreto nº 17.345, de 24/4/2020 (Art. 91, III)
 
@@ -118,19 +78,14 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições, em especial a
 
 **§ 1º** – Terão prioridade para o cumprimento da jornada optativa de 40 (quarenta) horas semanais os servidores que, na data da publicação deste Decreto, estejam em cumprimento de jornada de 8 (oito) horas diárias mediante extensão de jornada, jornada complementar ou função gerencial, de acordo com o seguinte cronograma:
 
-|ÁREAS |PERÍODO DE IMPLANTAÇÃO |
-
-|Servidores em efetivo exercício e lotados em Unidades de |Nos primeiros 90 (noventa) dias após a publicação deste |
-
-|Atenção Primária e sedes dos Distritos Sanitários no |Decreto. |
-
-|Município. | |
-
-|Servidores em efetivo exercício e lotados na Rede |Entre 91 (noventa e um) e 180 (cento e oitenta) dias |
-
-|Complementar, nas UPAs, no HOB, demais unidades de saúde e |subsequentes à publicação deste Decreto. |
-
-|sede do nível central da Secretaria Municipal de Saúde. | |
+| ÁREAS | PERÍODO DE IMPLANTAÇÃO |
+| --- | --- |
+| Servidores em efetivo exercício e lotados em Unidades de | Nos primeiros 90 (noventa) dias após a publicação deste |
+| Atenção Primária e sedes dos Distritos Sanitários no | Decreto. |
+| Município. |  |
+| Servidores em efetivo exercício e lotados na Rede | Entre 91 (noventa e um) e 180 (cento e oitenta) dias |
+| Complementar, nas UPAs, no HOB, demais unidades de saúde e | subsequentes à publicação deste Decreto. |
+| sede do nível central da Secretaria Municipal de Saúde. |  |
 
 **§ 2º** - A opção mencionada no caput deste artigo, após as datas e prioridades elencadas no cronograma previsto no § 1º, ocorrerá de acordo com as diretrizes de gestão do trabalho e organização dos serviços da rede de saúde pública municipal, definidas pela Secretaria Municipal de Saúde, e em conformidade com a disponibilidade orçamentário-financeira daquela Pasta.
 

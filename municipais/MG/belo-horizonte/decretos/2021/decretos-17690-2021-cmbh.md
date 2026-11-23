@@ -46,89 +46,49 @@ ANEXO I
 
 PROGRAMAS ABRANGIDOS
 
-|Programa |Secretaria |Descritivo básico |
-
-| |responsável | |
-
-|Esporte Esperança |SMEL |Desenvolvimento de práticas esportivas, no contraturno escolar, realizadas de maneira a atender os|
-
-| | |princípios do esporte educacional, visando à formação integral do participante. Este módulo |
-
-| | |privilegia um processo pedagógico de ensino-aprendizagem de modalidades esportivas que possam |
-
-| | |contribuir para o desenvolvimento motor, físico e cognitivo e para a formação social, estimulando |
-
-| | |o desenvolvimento de atitudes solidárias, cooperativas, éticas e de cidadania, o respeito a |
-
-| | |individualidades e diferenças e incentivando a autonomia, cooperação e corresponsabilidade. |
-
-| | |Público atendido: crianças e adolescentes da faixa etária entre seis e dezessete anos. |
-
-|Superar |SMEL |Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência participar e fruir |
-
-| | |de atividade física e socializante. O módulo visa oferecer atividades inclusivas, promovendo a |
-
-| | |cidadania e desenvolvendo a qualidade de vida. |
-
-| | |Público atendido: pessoas com deficiência, sem limitação de idade. |
-
-|Vida Ativa |SMEL |Desenvolvimento da atividade física regular e do lazer por meio da constituição de grupos de |
-
-| | |convivência. O módulo visa contribuir para a promoção da saúde, autoestima, socialização e |
-
-| | |qualidade de vida dos participantes. |
-
-| | |Público atendido: pessoas com idade igual ou superior a cinquenta anos. |
-
-|Caminhar |SMEL |Contribuição para a saúde e qualidade de vida do público adulto a partir da vivência do lazer |
-
-| | |físico. O módulo visa possibilitar o acesso de pequenos grupos a espaços e equipamentos |
-
-| | |necessários à prática não monitorada do esporte coletivo, bem como a participação de indivíduos em|
-
-| | |modalidades de atividade física com caráter continuado e com orientação profissional. |
-
-| | |Público atendido: pessoas com idade entre dezoito e cinquenta anos. |
-
-|Academia da Cidade |SMSA |Desenvolvimento de exercícios físicos e outras ações de promoção à saúde. O módulo visa |
-
-| | |possibilitar a adesão a hábitos de vida saudáveis, por meio da oferta de atividades relacionadas |
-
-| | |às práticas corporais e às atividades físicas, bem como de ações educativas em saúde. |
-
-| | |Público atendido: munícipes de Belo Horizonte, preferencialmente com idade acima de dezoito anos, |
-
-| | |que não possuam restrição clínica à prática da atividade física proposta na Academia da Cidade e |
-
-| | |que, após avaliação por profissional de Educação Física do programa, sejam considerados aptos às |
-
-| | |aulas ofertadas. |
-
-|Escola Integrada |SMED |Desenvolvimento de oficinas esportivas e de lazer em espaços não escolares. O módulo visa à |
-
-| | |formação integral dos estudantes, possibilitando novas oportunidades de múltiplas aprendizagens, |
-
-| | |em espaços sociais que ultrapassam os muros da escola. |
-
-| | |Os atendimentos serão espelhos das ações realizadas nas escolas, seguindo todas as orientações de |
-
-| | |higienização de espaços, quantitativo de estudantes por ambiente e carga horária. |
-
-| | |As escolas municipais serão fidelizadas aos clubes que estão inseridos no seu território. O |
-
-| | |quantitativo será condicionado à organização das escolas e aos espaços independentes |
-
-| | |disponibilizados pelo clube (piscinas, quadras, dentre outros). |
-
-| | |Público atendido: estudantes da Rede Municipal de Educação de Belo Horizonte. |
-
-|Sistema Único de |SMASAC |Recepção da comunidade referenciada pelos Centros de Referência de Assistência Social – Cras –, |
-
-|Assistência Social – | |possibilitando o fortalecimento de vínculos familiares e comunitários por meio de vivências |
-
-|Suas | |socializadoras de esporte e lazer de natureza recreativa nos espaços da entidade aderida. |
-
-| | |Público atendido: comunidade ou família referenciada no Cras. |
+| Programa | Secretaria | Descritivo básico |
+| --- | --- | --- |
+|  | responsável |  |
+| Esporte Esperança | SMEL | Desenvolvimento de práticas esportivas, no contraturno escolar, realizadas de maneira a atender os |
+|  |  | princípios do esporte educacional, visando à formação integral do participante. Este módulo |
+|  |  | privilegia um processo pedagógico de ensino-aprendizagem de modalidades esportivas que possam |
+|  |  | contribuir para o desenvolvimento motor, físico e cognitivo e para a formação social, estimulando |
+|  |  | o desenvolvimento de atitudes solidárias, cooperativas, éticas e de cidadania, o respeito a |
+|  |  | individualidades e diferenças e incentivando a autonomia, cooperação e corresponsabilidade. |
+|  |  | Público atendido: crianças e adolescentes da faixa etária entre seis e dezessete anos. |
+| Superar | SMEL | Desenvolvimento do esporte adaptado, possibilitando às pessoas com deficiência participar e fruir |
+|  |  | de atividade física e socializante. O módulo visa oferecer atividades inclusivas, promovendo a |
+|  |  | cidadania e desenvolvendo a qualidade de vida. |
+|  |  | Público atendido: pessoas com deficiência, sem limitação de idade. |
+| Vida Ativa | SMEL | Desenvolvimento da atividade física regular e do lazer por meio da constituição de grupos de |
+|  |  | convivência. O módulo visa contribuir para a promoção da saúde, autoestima, socialização e |
+|  |  | qualidade de vida dos participantes. |
+|  |  | Público atendido: pessoas com idade igual ou superior a cinquenta anos. |
+| Caminhar | SMEL | Contribuição para a saúde e qualidade de vida do público adulto a partir da vivência do lazer |
+|  |  | físico. O módulo visa possibilitar o acesso de pequenos grupos a espaços e equipamentos |
+|  |  | necessários à prática não monitorada do esporte coletivo, bem como a participação de indivíduos em |
+|  |  | modalidades de atividade física com caráter continuado e com orientação profissional. |
+|  |  | Público atendido: pessoas com idade entre dezoito e cinquenta anos. |
+| Academia da Cidade | SMSA | Desenvolvimento de exercícios físicos e outras ações de promoção à saúde. O módulo visa |
+|  |  | possibilitar a adesão a hábitos de vida saudáveis, por meio da oferta de atividades relacionadas |
+|  |  | às práticas corporais e às atividades físicas, bem como de ações educativas em saúde. |
+|  |  | Público atendido: munícipes de Belo Horizonte, preferencialmente com idade acima de dezoito anos, |
+|  |  | que não possuam restrição clínica à prática da atividade física proposta na Academia da Cidade e |
+|  |  | que, após avaliação por profissional de Educação Física do programa, sejam considerados aptos às |
+|  |  | aulas ofertadas. |
+| Escola Integrada | SMED | Desenvolvimento de oficinas esportivas e de lazer em espaços não escolares. O módulo visa à |
+|  |  | formação integral dos estudantes, possibilitando novas oportunidades de múltiplas aprendizagens, |
+|  |  | em espaços sociais que ultrapassam os muros da escola. |
+|  |  | Os atendimentos serão espelhos das ações realizadas nas escolas, seguindo todas as orientações de |
+|  |  | higienização de espaços, quantitativo de estudantes por ambiente e carga horária. |
+|  |  | As escolas municipais serão fidelizadas aos clubes que estão inseridos no seu território. O |
+|  |  | quantitativo será condicionado à organização das escolas e aos espaços independentes |
+|  |  | disponibilizados pelo clube (piscinas, quadras, dentre outros). |
+|  |  | Público atendido: estudantes da Rede Municipal de Educação de Belo Horizonte. |
+| Sistema Único de | SMASAC | Recepção da comunidade referenciada pelos Centros de Referência de Assistência Social – Cras –, |
+| Assistência Social – |  | possibilitando o fortalecimento de vínculos familiares e comunitários por meio de vivências |
+| Suas |  | socializadoras de esporte e lazer de natureza recreativa nos espaços da entidade aderida. |
+|  |  | Público atendido: comunidade ou família referenciada no Cras. |
 
 ”
 
@@ -140,24 +100,16 @@ ANEXO II
 
 MÓDULOS REFERENTES AOS PROGRAMAS PREVISTOS NO ANEXO I
 
-|A execução dos módulos previstos neste anexo ocorrerá por período determinado, o qual terá registro no Termo de Adesão, e será reavaliada |
-
-|pelo Comitê de Acompanhamento do Programa Esportes para Todos quando da expedição de regulamentação dispondo sobre a retomada das |
-
-|atividades no âmbito do Município |
-
-|Programa |Nº de indivíduos atendidos por módulo |Duração diária |Frequência |
-
-|Esporte Esperança |50 |1 hora |2x por semana |
-
-|Superar |10 |1 hora |2x por semana |
-
-|Vida Ativa |20 |50 minutos |2x por semana |
-
-|Academia da Cidade* |60 |1 hora |3x por semana |
-
-|Suas |20 |4 horas |15x por ano |
-
-|Escola Integrada** |
+| A execução dos módulos previstos neste anexo ocorrerá por período determinado, o qual terá registro no Termo de Adesão, e será reavaliada |  |  |  |
+| --- | --- | --- | --- |
+| pelo Comitê de Acompanhamento do Programa Esportes para Todos quando da expedição de regulamentação dispondo sobre a retomada das |  |  |  |
+| atividades no âmbito do Município |  |  |  |
+| Programa | Nº de indivíduos atendidos por módulo | Duração diária | Frequência |
+| Esporte Esperança | 50 | 1 hora | 2x por semana |
+| Superar | 10 | 1 hora | 2x por semana |
+| Vida Ativa | 20 | 50 minutos | 2x por semana |
+| Academia da Cidade* | 60 | 1 hora | 3x por semana |
+| Suas | 20 | 4 horas | 15x por ano |
+| Escola Integrada** |  |  |  |
 
 ”

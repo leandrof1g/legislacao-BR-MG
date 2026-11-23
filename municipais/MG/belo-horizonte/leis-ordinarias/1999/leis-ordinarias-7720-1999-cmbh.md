@@ -42,4 +42,5 @@ Prefeito de Belo Horizonte
 
 ANEXO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

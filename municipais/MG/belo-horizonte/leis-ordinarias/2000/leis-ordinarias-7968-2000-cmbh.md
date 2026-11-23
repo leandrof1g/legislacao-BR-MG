@@ -118,144 +118,81 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO A QUE SE REFERE A LEI Nº 7.968
 
-|CARGOS |VALOR DO ABONO |
-
-|Encarregado de Serviços |48,00 |
-
-|Auxiliar de Gabinete |48,00 |
-
-|Coordenador de Fiscalização |48,00 |
-
-|Oficial Gabinete Prefeito |48,00 |
-
-|Supervisor de Segurança |48,00 |
-
-|Assistente |78,00 |
-
-|Chefe de Setor |78,00 |
-
-|Secretário Geral Junta Julgamento Fiscal|78,00 |
-
-|Supervisor de Alimentação Escolar |78,00 |
-
-|Assessor I |78,00 |
-
-|Chefe de Seção |78,00 |
-
-|Secretário Junta Recursos Fiscais |78,00 |
-
-|Secretário de Estabelecimento de Ensino |78,00 |
-
-|"A" | |
-
-|Secretário de Estabelecimento de Ensino |78,00 |
-
-|"B" | |
-
-|Secretário de Estabelecimento de Ensino |78,00 |
-
-|"C" | |
-
-|Vice-Diretor de Estabelecimento de |130,00 |
-
-|Ensino "A" | |
-
-|Assessor II |130,00 |
-
-|Assessor Jurídico |130,00 |
-
-|Chefe de Serviço |130,00 |
-
-|Assessor III |150,00 |
-
-|Chefe de Gabinete Secretario |150,00 |
-
-|Coordenador Direitos Humanos e |150,00 |
-
-|Cidadania | |
-
-|Coordenador Pol. Remuneração Rel. |150,00 |
-
-|Trabalho | |
-
-|Coordenador Proteção Defesa Consumidor |150,00 |
-
-|Diretor de Departamento |150,00 |
-
-|Presidente Junta Julgamento Fiscal |150,00 |
-
-|Gerente de Centros de Saúde |150,00 |
-
-|Gerente de Unidades de Referência |150,00 |
-
-|Distrital ou Municipal | |
-
-|Gerente de Centros de Referência |150,00 |
-
-|Secundária e de Urgência | |
-
-|Gerente de Unidade de Apoio Comunitário |150,00 |
-
-|Diretor de Estabelecimento de Ensino "A"|150,00 |
-
-|Vice-Diretor de Estabelecimento de |150,00 |
-
-|Ensino "B" | |
-
-|Coordenador de Centro de Educação |150,00 |
-
-|Infantil | |
-
-|Coordenador de Oficina Pública |150,00 |
-
-|Profissionalizante | |
-
-|Diretor de Estabelecimento de Ensino "B"|150,00 |
-
-|Vice-Diretor de Estabelecimento de |150,00 |
-
-|Ensino "C" | |
-
-|Diretor de Estabelecimento de Ensino "C"|150,00 |
+| CARGOS | VALOR DO ABONO |
+| --- | --- |
+| Encarregado de Serviços | 48,00 |
+| Auxiliar de Gabinete | 48,00 |
+| Coordenador de Fiscalização | 48,00 |
+| Oficial Gabinete Prefeito | 48,00 |
+| Supervisor de Segurança | 48,00 |
+| Assistente | 78,00 |
+| Chefe de Setor | 78,00 |
+| Secretário Geral Junta Julgamento Fiscal | 78,00 |
+| Supervisor de Alimentação Escolar | 78,00 |
+| Assessor I | 78,00 |
+| Chefe de Seção | 78,00 |
+| Secretário Junta Recursos Fiscais | 78,00 |
+| Secretário de Estabelecimento de Ensino | 78,00 |
+| "A" |  |
+| Secretário de Estabelecimento de Ensino | 78,00 |
+| "B" |  |
+| Secretário de Estabelecimento de Ensino | 78,00 |
+| "C" |  |
+| Vice-Diretor de Estabelecimento de | 130,00 |
+| Ensino "A" |  |
+| Assessor II | 130,00 |
+| Assessor Jurídico | 130,00 |
+| Chefe de Serviço | 130,00 |
+| Assessor III | 150,00 |
+| Chefe de Gabinete Secretario | 150,00 |
+| Coordenador Direitos Humanos e | 150,00 |
+| Cidadania |  |
+| Coordenador Pol. Remuneração Rel. | 150,00 |
+| Trabalho |  |
+| Coordenador Proteção Defesa Consumidor | 150,00 |
+| Diretor de Departamento | 150,00 |
+| Presidente Junta Julgamento Fiscal | 150,00 |
+| Gerente de Centros de Saúde | 150,00 |
+| Gerente de Unidades de Referência | 150,00 |
+| Distrital ou Municipal |  |
+| Gerente de Centros de Referência | 150,00 |
+| Secundária e de Urgência |  |
+| Gerente de Unidade de Apoio Comunitário | 150,00 |
+| Diretor de Estabelecimento de Ensino "A" | 150,00 |
+| Vice-Diretor de Estabelecimento de | 150,00 |
+| Ensino "B" |  |
+| Coordenador de Centro de Educação | 150,00 |
+| Infantil |  |
+| Coordenador de Oficina Pública | 150,00 |
+| Profissionalizante |  |
+| Diretor de Estabelecimento de Ensino "B" | 150,00 |
+| Vice-Diretor de Estabelecimento de | 150,00 |
+| Ensino "C" |  |
+| Diretor de Estabelecimento de Ensino "C" | 150,00 |
 
 BEPREM
 
-|CARGOS |VALOR DO ABONO |
-
-|Encarregado de Serviços |48,00 |
-
-|Coordenador de Turno |78,00 |
-
-|Secretária |78,00 |
-
-|Chefe de Seção |78,00 |
-
-|Coordenador Informações Tec. Mod. |130,00 |
-
-|Administrativa | |
-
-|Administrador |150,00 |
-
-|Chefe de Gabinete |150,00 |
-
-|Gerente |150,00 |
+| CARGOS | VALOR DO ABONO |
+| --- | --- |
+| Encarregado de Serviços | 48,00 |
+| Coordenador de Turno | 78,00 |
+| Secretária | 78,00 |
+| Chefe de Seção | 78,00 |
+| Coordenador Informações Tec. Mod. | 130,00 |
+| Administrativa |  |
+| Administrador | 150,00 |
+| Chefe de Gabinete | 150,00 |
+| Gerente | 150,00 |
 
 FUNDAÇÃO ZOOBOTÂNICA
 
-|CARGOS |VALOR DO ABONO |
-
-|Encarregado de Serviços |48,00 |
-
-|Chefe de Setor |78,00 |
-
-|Chefe de Seção |78,00 |
-
-|Assessor I |78,00 |
-
-|Assistente |78,00 |
-
-|Chefe de Serviço |130,00 |
-
-|Assessor II |130,00 |
-
-|Assessor III |150,00 |
+| CARGOS | VALOR DO ABONO |
+| --- | --- |
+| Encarregado de Serviços | 48,00 |
+| Chefe de Setor | 78,00 |
+| Chefe de Seção | 78,00 |
+| Assessor I | 78,00 |
+| Assistente | 78,00 |
+| Chefe de Serviço | 130,00 |
+| Assessor II | 130,00 |
+| Assessor III | 150,00 |

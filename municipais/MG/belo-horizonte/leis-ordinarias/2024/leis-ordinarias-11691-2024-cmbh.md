@@ -38,9 +38,9 @@ O Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 F - Dias comemorativos de junho:
 
-|DATA |COMEMORAÇÃO |
-
-|29/6 |Dia Municipal da Pipa |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 29/6 | Dia Municipal da Pipa |
 
 .”.
 

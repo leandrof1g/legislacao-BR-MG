@@ -234,35 +234,26 @@ Anexo II revogado pelo Decreto nº 14.911, de 22/5/2012 (Art. 4º)
 
 1 - Relação “Valor dos Serviços Oferecidos” e “Valor Total do Débito de ISSQN” – 20 PONTOS:
 
-|“Valor dos Serviços Oferecidos”/“Total da Dívida” (%) |Pontuação Atribuída |
-
-|90% a 100% |20 |
-
-|80% a 89,99% |18 |
-
-|70% a 79,99% |16 |
-
-|50% a 69,99% |14 |
-
-|Abaixo de 50% |6 |
+| “Valor dos Serviços Oferecidos”/“Total da Dívida” (%) | Pontuação Atribuída |
+| --- | --- |
+| 90% a 100% | 20 |
+| 80% a 89,99% | 18 |
+| 70% a 79,99% | 16 |
+| 50% a 69,99% | 14 |
+| Abaixo de 50% | 6 |
 
 Obs.: O valor dos serviços ofertados deverá ser calculado, conforme o caso, de acordo com os valores de remuneração vigentes na data do requerimento de Adesão ao “Programa BH Mais Saúde” previstos na Tabela SUS ou na Tabela CBHPM (Classificação Brasileira Hierárquica de Procedimentos Médicos) para os procedimentos não constantes na Tabela SUS.
 
 2 - Relação “Oferta de procedimentos prioritários” (Anexo I) e “Total de Procedimentos Ofertados” – 20 PONTOS:
 
-|“Qde. de Procedimentos Prioritários Oferecidos” / “Qde. Total de |Pontuação Atribuída |
-
-|Procedimentos Ofertados” (%) | |
-
-|90% a 100% |20 |
-
-|80% a 89,99% |18 |
-
-|70% a 79,99% |16 |
-
-|50% a 69,99% |14 |
-
-|Abaixo de 50% |6 |
+| “Qde. de Procedimentos Prioritários Oferecidos” / “Qde. Total de | Pontuação Atribuída |
+| --- | --- |
+| Procedimentos Ofertados” (%) |  |
+| 90% a 100% | 20 |
+| 80% a 89,99% | 18 |
+| 70% a 79,99% | 16 |
+| 50% a 69,99% | 14 |
+| Abaixo de 50% | 6 |
 
 Obs.: Deverá ser considerado o número de procedimentos de saúde por espécie de serviço prioritário discriminado no Anexo I, oferecidos no período de adesão ao Programa BH Mais Saúde.
 

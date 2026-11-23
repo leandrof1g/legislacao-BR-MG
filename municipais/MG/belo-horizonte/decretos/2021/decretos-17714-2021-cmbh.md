@@ -44,10 +44,8 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Eventos gastronômicos licenciados em propriedades |Horário licenciado |
-
-|públicas ou privadas | |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| (...) | (...) |
+| Eventos gastronômicos licenciados em propriedades | Horário licenciado |
+| públicas ou privadas |  |

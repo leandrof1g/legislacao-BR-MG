@@ -64,33 +64,21 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei | |
-
-|nº 11.742, de 13 de setembro de 2024: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |41.789,70 |
-
-|2302.10.301.0157.2690.339030.2.621.000 |695,74 |
-
-|2302.10.302.0114.2936.339030.2.621.000 |33.491,80 |
-
-|2302.10.304.0028.2829.339030.2.621.000 |10.782,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0226.1207.442042.2.710.010 |4.982.000,00 |
-
-|2704.16.482.0226.1207.442042.2.500.000 |12.163.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.122.0146.2338.339039.2.710.610 |900.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |18.131.759,24 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 41.789,70 |
+| 2302.10.301.0157.2690.339030.2.621.000 | 695,74 |
+| 2302.10.302.0114.2936.339030.2.621.000 | 33.491,80 |
+| 2302.10.304.0028.2829.339030.2.621.000 | 10.782,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0226.1207.442042.2.710.010 | 4.982.000,00 |
+| 2704.16.482.0226.1207.442042.2.500.000 | 12.163.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.122.0146.2338.339039.2.710.610 | 900.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 18.131.759,24 |
 
 ANEXO II
 

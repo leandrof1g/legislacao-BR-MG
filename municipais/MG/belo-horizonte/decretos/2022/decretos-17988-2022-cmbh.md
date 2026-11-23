@@ -72,48 +72,27 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos do Poder Executivo, conforme autorização contida no inciso I do §|
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art 4º da Lei nº |
-
-|11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|0604.19.572.302.2.905.4490.0007 |594.000,00 |
-
-|1000.14.422.127.2.819.4490.0030 |203.920,06 |
-
-|2100.06.122.242.2.881.3390.0030 |29.322,74 |
-
-|2700.17.512.066.1.203.4490.0080 |2.538,80 |
-
-|3101.13.392.170.2.369.3390.0000 |11.360,76 |
-
-|3102.13.391.155.2.375.3390.0000 |875.322,00 |
-
-|1011.08.244.019.2.308.3390.0040 |350.000,00 |
-
-|TOTAL |2.066.464,36 |
-
-|I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso I do § |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no inciso II do § 1º do art 4º da|
-
-|Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0050 |75.680,41 |
-
-|2302.10.301.157.2.690.4490.0050 |92.796,00 |
-
-|2302.10.302.114.2.891.3390.0050 |15.247,98 |
-
-|2302.10.302.114.2.893.3390.0050 |170.198,71 |
-
-|2302.10.302.114.2.894.3390.0050 |17.909,42 |
-
-|TOTAL |371.832,52 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.438.296,88 |
+| I.1 – A favor de diversos órgãos do Poder Executivo, conforme autorização contida no inciso I do § |  |
+| --- | --- |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art 4º da Lei nº |  |
+| 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 0604.19.572.302.2.905.4490.0007 | 594.000,00 |
+| 1000.14.422.127.2.819.4490.0030 | 203.920,06 |
+| 2100.06.122.242.2.881.3390.0030 | 29.322,74 |
+| 2700.17.512.066.1.203.4490.0080 | 2.538,80 |
+| 3101.13.392.170.2.369.3390.0000 | 11.360,76 |
+| 3102.13.391.155.2.375.3390.0000 | 875.322,00 |
+| 1011.08.244.019.2.308.3390.0040 | 350.000,00 |
+| TOTAL | 2.066.464,36 |
+| I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso I do § |  |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no inciso II do § 1º do art 4º da |  |
+| Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0050 | 75.680,41 |
+| 2302.10.301.157.2.690.4490.0050 | 92.796,00 |
+| 2302.10.302.114.2.891.3390.0050 | 15.247,98 |
+| 2302.10.302.114.2.893.3390.0050 | 170.198,71 |
+| 2302.10.302.114.2.894.3390.0050 | 17.909,42 |
+| TOTAL | 371.832,52 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.438.296,88 |

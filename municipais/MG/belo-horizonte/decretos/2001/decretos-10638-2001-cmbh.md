@@ -36,11 +36,10 @@ O Prefeito de Belo Horizonte, no uso da atribuição que lhe confere o artigo 10
 
 **Art.2º** - Os recursos necessários à execução do disposto no artigo anterior, decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal da Prefeitura, no valor de R$9.369.944,00 (nove milhões, trezentos e sessenta e nove mil, novecentos e quarenta e quatro reais):
 
-|4002.100573162.096 - 3212 - Fonte 05.00 |1.618.000,00 |
-
-|4002.100603252.093 - 3211 - Fonte 05.00 |7.741.944,00 |
-
-|4002.100603252.093 - 4311 - Fonte 04.00 |10.000,00 |
+| 4002.100573162.096 - 3212 - Fonte 05.00 | 1.618.000,00 |
+| --- | --- |
+| 4002.100603252.093 - 3211 - Fonte 05.00 | 7.741.944,00 |
+| 4002.100603252.093 - 4311 - Fonte 04.00 | 10.000,00 |
 
 **Art.3º** - Fica aprovado, parcialmente, o Orçamento da Superintendência de Limpeza Urbana - SLU, no valor de R$7.751.944,00 (sete milhões, setecentos e cinqüenta e um mil, novecentos e quarenta e quatro reais), nos programas de trabalho internos da autarquia.
 

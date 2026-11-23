@@ -58,133 +58,91 @@ QUADRO 01
 
 MATRÍCULA NA REDE EDUCADIONAL DE B.H. - 1993
 
-|NÍVEL DE ENSINO |M A N T E N E D O R A S |TOTAL DE ALUNOS |
-
-| |PART. |EST. |MUN. | |
-
-|PRÉ |18.830 |20.100 |8.053 |46.983 |
-
-|1ª/4ª |29.208 |112.715 |85.252 |227.175 |
-
-|5ª/8ª |34.072 |102.100 |59.471 |195.643 |
-
-|MÉDIO |21.173 |37.472 |15.126 |73.771 |
-
-|ENS. ESP. | |93 |417 |510 |
-
-|SUPLÊNCIA |323 |10.408 |9.004 |19.735 |
-
-|TOTAL |103.606 |282.888 |177.323 |563.817 |
-
-|PERCENTUAL |18,38 |50,17 |31,45 |100,00 |
+| NÍVEL DE ENSINO | M A N T E N E D O R A S | TOTAL DE ALUNOS |  |  |
+| --- | --- | --- | --- | --- |
+|  | PART. | EST. | MUN. |  |
+| PRÉ | 18.830 | 20.100 | 8.053 | 46.983 |
+| 1ª/4ª | 29.208 | 112.715 | 85.252 | 227.175 |
+| 5ª/8ª | 34.072 | 102.100 | 59.471 | 195.643 |
+| MÉDIO | 21.173 | 37.472 | 15.126 | 73.771 |
+| ENS. ESP. |  | 93 | 417 | 510 |
+| SUPLÊNCIA | 323 | 10.408 | 9.004 | 19.735 |
+| TOTAL | 103.606 | 282.888 | 177.323 | 563.817 |
+| PERCENTUAL | 18,38 | 50,17 | 31,45 | 100,00 |
 
 QUADRO 02
 
 REDE DE ENSINO DO MUNICÍPIO DE BELO HORIZONTE
 
-|REDES |Nº DE ALUNOS |CRESC. |
-
-| |1989 |1993 |% |
-
-|ESTADUAL |253.936 |282.888 |11,40% |
-
-|MUNICIPAL |122.004 |177.323 |45,34% |
-
-|PARTICULAR |133.105 |103.606 |22,16% |
+| REDES | Nº DE ALUNOS | CRESC. |  |
+| --- | --- | --- | --- |
+|  | 1989 | 1993 | % |
+| ESTADUAL | 253.936 | 282.888 | 11,40% |
+| MUNICIPAL | 122.004 | 177.323 | 45,34% |
+| PARTICULAR | 133.105 | 103.606 | 22,16% |
 
 QUADRO 03
 
 EVOLUÇÃO DA MATRÍCULA EFETIVA NA RME - 1992/1994
 
-|NÍVEL DE ENSINO |1992 |1993 |1994 |
-
-| |MATRÍCULA |MATRÍCULA |% |MATRÍCULA |% |
-
-|PRÉ-ESCOLAR |6.965 |8.053 |15,6 |8.565 |6,4 |
-
-|FUNDAMENTAL 1ª/4ª |86.213 |85.252 |-1,1 |86.082 |1,0 |
-
-|FUNDAMENTAL 5ª/8ª |54.678 |59.471 |8,8 |66.080 |11,1 |
-
-|ENSINO MÉDIO |13.455 |15.126 |12,4 |17.157 |13,4 |
-
-|SUPLÊNCIA |5.788 |9.004 |55,8 |11.008 |22,3 |
-
-|ENSINO ESPECIAL |458 |417 |-9,0 |466 |11,8 |
-
-|TOTAL |167.555 |177.323 |5,8 |189.358 |6,8 |
+| NÍVEL DE ENSINO | 1992 | 1993 | 1994 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | MATRÍCULA | MATRÍCULA | % | MATRÍCULA | % |
+| PRÉ-ESCOLAR | 6.965 | 8.053 | 15,6 | 8.565 | 6,4 |
+| FUNDAMENTAL 1ª/4ª | 86.213 | 85.252 | -1,1 | 86.082 | 1,0 |
+| FUNDAMENTAL 5ª/8ª | 54.678 | 59.471 | 8,8 | 66.080 | 11,1 |
+| ENSINO MÉDIO | 13.455 | 15.126 | 12,4 | 17.157 | 13,4 |
+| SUPLÊNCIA | 5.788 | 9.004 | 55,8 | 11.008 | 22,3 |
+| ENSINO ESPECIAL | 458 | 417 | -9,0 | 466 | 11,8 |
+| TOTAL | 167.555 | 177.323 | 5,8 | 189.358 | 6,8 |
 
 QUADRO 04
 
 MATRÍCULA EFETIVA NA REDE MUNICIPAL DE ENSINO - 1994
 
-|REGIONAL |N Í V E L D E E N S I N O |
-
-| |PRÉ |1ª/4ª |5ª/8ª |MÉDIO |SUPL. |ESP. |TOTAL |
-
-|BARREIRO |1.303 |15.473 |9.938 |1.040 |1.663 |0 |29.417 |
-
-|CENTRO-SUL |1.165 |3.094 |4.498 |4.568 |1.921 |196 |15.444 |
-
-|LESTE |538 |7.945 |8.427 |1.648 |749 |0 |19.307 |
-
-|NORDESTE |1.284 |11.452 |11.235 |1.507 |1.379 |0 |26.857 |
-
-|NOROESTE |843 |11.506 |6.245 |1.710 |719 |0 |21.023 |
-
-|NORTE |308 |9.201 |5.070 |1.085 |468 |0 |16.129 |
-
-|OESTE |1.60 |6.414 |5.486 |1.487 |1.567 |117 |18.879 |
-
-|PAMPULHA |738 |5.967 |4.221 |497 |615 |0 |12.036 |
-
-|VENDA NOVA |780 |15.032 |10.960 |3.615 |1.927 |151 |32.464 |
-
-|TOTAL |8.565 |86.082 |66.080 |17.157 |11.008 |466 |189.358 |
+| REGIONAL | N Í V E L D E E N S I N O |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | PRÉ | 1ª/4ª | 5ª/8ª | MÉDIO | SUPL. | ESP. | TOTAL |
+| BARREIRO | 1.303 | 15.473 | 9.938 | 1.040 | 1.663 | 0 | 29.417 |
+| CENTRO-SUL | 1.165 | 3.094 | 4.498 | 4.568 | 1.921 | 196 | 15.444 |
+| LESTE | 538 | 7.945 | 8.427 | 1.648 | 749 | 0 | 19.307 |
+| NORDESTE | 1.284 | 11.452 | 11.235 | 1.507 | 1.379 | 0 | 26.857 |
+| NOROESTE | 843 | 11.506 | 6.245 | 1.710 | 719 | 0 | 21.023 |
+| NORTE | 308 | 9.201 | 5.070 | 1.085 | 468 | 0 | 16.129 |
+| OESTE | 1.60 | 6.414 | 5.486 | 1.487 | 1.567 | 117 | 18.879 |
+| PAMPULHA | 738 | 5.967 | 4.221 | 497 | 615 | 0 | 12.036 |
+| VENDA NOVA | 780 | 15.032 | 10.960 | 3.615 | 1.927 | 151 | 32.464 |
+| TOTAL | 8.565 | 86.082 | 66.080 | 17.157 | 11.008 | 466 | 189.358 |
 
 QUADRO 05
 
 EVOLUÇÃO DA MATRÍCULA EFETIVA NA REDE ESTADUAL
 
-| |Nº DE ALUNOS |
-
-|TIPO DE ENSINO |1989 |1990 |1991 |1992 |1993 |
-
-|PRÉ |17.583 |16.545 |16.772 |18.788 |20.100 |
-
-|1ª/4ª |119.876 |121.867 |120.392 |116.557 |112.715 |
-
-|5ª/8ª |83.575 |87.917 |91.219 |92.038 |102.100 |
-
-|SUBTOTAL |203.451 |209.784 |211.611 |208.596 |214.815 |
-
-|ENS. MÉDIO |22.922 |27.761 |30.102 |30.431 |37.472 |
-
-|SUPLÊNCIA |9.110 | | |9.700 |10.408 |
-
-|TOTAL |253.066 |254.090 |258.485 |267.512 |262.795 |
+|  | Nº DE ALUNOS |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| TIPO DE ENSINO | 1989 | 1990 | 1991 | 1992 | 1993 |
+| PRÉ | 17.583 | 16.545 | 16.772 | 18.788 | 20.100 |
+| 1ª/4ª | 119.876 | 121.867 | 120.392 | 116.557 | 112.715 |
+| 5ª/8ª | 83.575 | 87.917 | 91.219 | 92.038 | 102.100 |
+| SUBTOTAL | 203.451 | 209.784 | 211.611 | 208.596 | 214.815 |
+| ENS. MÉDIO | 22.922 | 27.761 | 30.102 | 30.431 | 37.472 |
+| SUPLÊNCIA | 9.110 |  |  | 9.700 | 10.408 |
+| TOTAL | 253.066 | 254.090 | 258.485 | 267.512 | 262.795 |
 
 QUADRO 06
 
 EVOLUÇÃO DA MATRÍCULA EFETIVA NA REDE PARTICULAR
 
-| |Nº DE ALUNOS |
-
-|TIPO DE ENSINO |1991 |1992 |1993 |
-
-|PRÉ |28.413 |23.407 |18.830 |
-
-|1ª/4ª |38.190 |34.159 |29.208 |
-
-|5ª/8ª |39.758 |37.096 |34.072 |
-
-|SUBTOTAL |77.948 |71.255 |63.280 |
-
-|ENS. MÉDIO |28.903 |23.374 |21.173 |
-
-|SUPLÊNCIA | |276 |323 |
-
-|TOTAL |135.264 |118.312 |103.606 |
+|  | Nº DE ALUNOS |  |  |
+| --- | --- | --- | --- |
+| TIPO DE ENSINO | 1991 | 1992 | 1993 |
+| PRÉ | 28.413 | 23.407 | 18.830 |
+| 1ª/4ª | 38.190 | 34.159 | 29.208 |
+| 5ª/8ª | 39.758 | 37.096 | 34.072 |
+| SUBTOTAL | 77.948 | 71.255 | 63.280 |
+| ENS. MÉDIO | 28.903 | 23.374 | 21.173 |
+| SUPLÊNCIA |  | 276 | 323 |
+| TOTAL | 135.264 | 118.312 | 103.606 |
 
 QUADRO 07
 
@@ -192,23 +150,16 @@ NÚMERO DE ESCOLAS DA REDE DE ENSINO DE B.H.
 
 SEGUNDO OS NÍVEIS DE ENSINO QUE OFERECEM – 1993
 
-|NÍVEL DE ENSINO |Nº CURSOS OFERECIDOS NAS REDES |
-
-| |ESTADUAL |MUNICIPAL |PARTICULAR |
-
-|ED. INFANTIL |118 |74 |177 |
-
-|1ª A 4ª |175 |121 |100 |
-
-|5ª A 8ª |117 |76 |91 |
-
-|ENSINO MÉDIO |62 |26 |74 |
-
-|ED. ESPECIAL |5 |3 | |
-
-|SUPLÊNCIA |60 |55 |2 |
-
-|Nº DE ESCOLAS (*) |247 |168 |214 |
+| NÍVEL DE ENSINO | Nº CURSOS OFERECIDOS NAS REDES |  |  |
+| --- | --- | --- | --- |
+|  | ESTADUAL | MUNICIPAL | PARTICULAR |
+| ED. INFANTIL | 118 | 74 | 177 |
+| 1ª A 4ª | 175 | 121 | 100 |
+| 5ª A 8ª | 117 | 76 | 91 |
+| ENSINO MÉDIO | 62 | 26 | 74 |
+| ED. ESPECIAL | 5 | 3 |  |
+| SUPLÊNCIA | 60 | 55 | 2 |
+| Nº DE ESCOLAS (*) | 247 | 168 | 214 |
 
 FONTE SMED/CEDIVE (*) ESSE TOTAL NÃO É A SOMA.
 
@@ -218,19 +169,14 @@ NÚMERO DE ESCOLAS DA REDE ESTADUAL EM BELO HORIZONTE,
 
 SEGUNDO OS NÍVEIS DE ENSINO
 
-|NÍVEL DE ENSINO |1989 |1990 |1991 |1992 |1993 |
-
-|PRÉ |99 |93 |102 |112 |118 |
-
-|1ª/4ª |172 |174 |173 |171 |176 |
-
-|5ª/8ª |91 |97 |100 |104 |117 |
-
-|ENS. MÉDIO |40 |45 |49 |51 |62 |
-
-|SUPLÊNCIA |46 | | |52 |60 |
-
-|Nº DE ESCOLAS |240 |241 |240 |238 |247 |
+| NÍVEL DE ENSINO | 1989 | 1990 | 1991 | 1992 | 1993 |
+| --- | --- | --- | --- | --- | --- |
+| PRÉ | 99 | 93 | 102 | 112 | 118 |
+| 1ª/4ª | 172 | 174 | 173 | 171 | 176 |
+| 5ª/8ª | 91 | 97 | 100 | 104 | 117 |
+| ENS. MÉDIO | 40 | 45 | 49 | 51 | 62 |
+| SUPLÊNCIA | 46 |  |  | 52 | 60 |
+| Nº DE ESCOLAS | 240 | 241 | 240 | 238 | 247 |
 
 FONTE CEDIVE DADOS EM BRANCO ==> NÃO INFORMADOS
 
@@ -240,19 +186,14 @@ NÚMERO DE ESCOLAS DA REDE PARTICULAR EM B.H.
 
 SEGUNDO OS NÍVEIS DE ENSINO QUE OFERECEM
 
-|NÍVEL DE ENSINO |1991 |1992 |1993 |
-
-|PRÉ |247 |229 |177 |
-
-|1ª/4ª |113 |110 |100 |
-
-|5ª/8ª |93 |96 |91 |
-
-|ENS. MÉDIO |79 |74 |74 |
-
-|SUPLÊNCIA |* |2 |2 |
-
-|Nº DE ESCOLAS |294 |270 |214 |
+| NÍVEL DE ENSINO | 1991 | 1992 | 1993 |
+| --- | --- | --- | --- |
+| PRÉ | 247 | 229 | 177 |
+| 1ª/4ª | 113 | 110 | 100 |
+| 5ª/8ª | 93 | 96 | 91 |
+| ENS. MÉDIO | 79 | 74 | 74 |
+| SUPLÊNCIA | * | 2 | 2 |
+| Nº DE ESCOLAS | 294 | 270 | 214 |
 
 FONTE CEDIVE * DADOS NÃO INFORMADOS
 
@@ -262,29 +203,19 @@ SALAS DE AULA
 
 REDE MUNICIPAL DE ENSINO - B.H. – 1994
 
-|REGIONAL |Nº DE SALAS DE AULA |TOTAL |
-
-| |ENS. REGULAR |ENS. ESPECIAL | |
-
-|ARB |348 |0 |348 |
-
-|ARCS |175 |13 |168 |
-
-|ARL |233 |0 |233 |
-
-|ARNE |335 |0 |335 |
-
-|ARNO |269 |0 |269 |
-
-|ARN |187 |0 |187 |
-
-|ARO |200 |6 |206 |
-
-|ARP |157 |0 |157 |
-
-|ARVN |384 |10 |394 |
-
-|TOTAL |2.288 |29 |2.317 |
+| REGIONAL | Nº DE SALAS DE AULA | TOTAL |  |
+| --- | --- | --- | --- |
+|  | ENS. REGULAR | ENS. ESPECIAL |  |
+| ARB | 348 | 0 | 348 |
+| ARCS | 175 | 13 | 168 |
+| ARL | 233 | 0 | 233 |
+| ARNE | 335 | 0 | 335 |
+| ARNO | 269 | 0 | 269 |
+| ARN | 187 | 0 | 187 |
+| ARO | 200 | 6 | 206 |
+| ARP | 157 | 0 | 157 |
+| ARVN | 384 | 10 | 394 |
+| TOTAL | 2.288 | 29 | 2.317 |
 
 DADOS DO INÍCIO DE 1994.
 
@@ -294,27 +225,18 @@ NÚMERO DE TURMAS
 
 REDES DE ENSINO DE BELO HORIZONTE – 1993
 
-|NÍVEL DE ENSINO |NÚMERO DE TURMAS |
-
-| |REDES |
-
-| |ESTADUAL |MUNICIPAL |PARTICULAR |TOTAL |
-
-|ED. INFANTIL |694 |308 |910 |1.912 |
-
-|1ª A 4ª |3.765 |2.851 |1030 |7.646 |
-
-|5ª A 8ª |2.796 |1.760 |947 |5.503 |
-
-|ENS. MÉDIO |1.007 |409 |634 |2.050 |
-
-|ED. ESPECIAL |6 |67 |0 |73 |
-
-|SUPLÊNCIA |341 |307 |9 |657 |
-
-|TOTAL |8.609 |5.702 |3.530 |17.841 |
-
-|ALUNO/TURMA |32,9 |31,0 |29,4 |31,6 |
+| NÍVEL DE ENSINO | NÚMERO DE TURMAS |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | REDES |  |  |  |
+|  | ESTADUAL | MUNICIPAL | PARTICULAR | TOTAL |
+| ED. INFANTIL | 694 | 308 | 910 | 1.912 |
+| 1ª A 4ª | 3.765 | 2.851 | 1030 | 7.646 |
+| 5ª A 8ª | 2.796 | 1.760 | 947 | 5.503 |
+| ENS. MÉDIO | 1.007 | 409 | 634 | 2.050 |
+| ED. ESPECIAL | 6 | 67 | 0 | 73 |
+| SUPLÊNCIA | 341 | 307 | 9 | 657 |
+| TOTAL | 8.609 | 5.702 | 3.530 | 17.841 |
+| ALUNO/TURMA | 32,9 | 31,0 | 29,4 | 31,6 |
 
 FONTE SMED/CEDIVE
 
@@ -324,29 +246,19 @@ NÚMERO DE ESCOLAS POR TURNO
 
 DE FUNCIONAMENTO - R.M.E. - B.H. – 1994
 
-|REGIONAIS |3 TURNOS |NOTURNOS |
-
-| |DIURNOS | |
-
-|BARREIRO |8 |12 |
-
-|CENTRO-SUL |0 |9 |
-
-|LESTE |0 |9 |
-
-|NORDESTE |3 |14 |
-
-|NOROESTE |3 |8 |
-
-|NORTE |5 |5 |
-
-|OESTE |2 |12 |
-
-|PAMPULHA |1 |7 |
-
-|VENDA NOVA |3 |21 |
-
-|TOTAL |25 |97 |
+| REGIONAIS | 3 TURNOS | NOTURNOS |
+| --- | --- | --- |
+|  | DIURNOS |  |
+| BARREIRO | 8 | 12 |
+| CENTRO-SUL | 0 | 9 |
+| LESTE | 0 | 9 |
+| NORDESTE | 3 | 14 |
+| NOROESTE | 3 | 8 |
+| NORTE | 5 | 5 |
+| OESTE | 2 | 12 |
+| PAMPULHA | 1 | 7 |
+| VENDA NOVA | 3 | 21 |
+| TOTAL | 25 | 97 |
 
 QUADRO 13
 
@@ -354,27 +266,18 @@ NÚMERO DE ESCOLAS COM QUADRAS COBERTAS,
 
 DESCOBERTAS E SEM QUADRAS - RME - 1994
 
-|REGIONAL |QUADRA COBERTA |QUADRA DESCOBERTA |SEM QUADRA |
-
-|BARREIRO |12 |10 |3 |
-
-|CENTRO-SUL |1 |4 |5 |
-
-|LESTE |6 |9 |1 |
-
-|NORDESTE |11 |16 |0 |
-
-|NOROESTE |3 |13 |5 |
-
-|NORTE |3 |10 |1 |
-
-|OESTE |2 |6 |7 |
-
-|PAMPULHA |3 |5 |3 |
-
-|VENDA NOVA |13 |10 |4 |
-
-|TOTAL |54 |83 |30 |
+| REGIONAL | QUADRA COBERTA | QUADRA DESCOBERTA | SEM QUADRA |
+| --- | --- | --- | --- |
+| BARREIRO | 12 | 10 | 3 |
+| CENTRO-SUL | 1 | 4 | 5 |
+| LESTE | 6 | 9 | 1 |
+| NORDESTE | 11 | 16 | 0 |
+| NOROESTE | 3 | 13 | 5 |
+| NORTE | 3 | 10 | 1 |
+| OESTE | 2 | 6 | 7 |
+| PAMPULHA | 3 | 5 | 3 |
+| VENDA NOVA | 13 | 10 | 4 |
+| TOTAL | 54 | 83 | 30 |
 
 FONTE CEDIVE
 
@@ -384,29 +287,19 @@ QUADRO 14
 
 BELO HORIZONTE - 1990 A 1993 - DADOS PERCENTUAIS
 
-|NÍVEL DE ENSINO |P E R Í O D O |
-
-| |90 |91 |92 |93 |
-
-| |1ª. SÉRIE |60,1 |62,8 |65,4 |67,0 |
-
-|ENSINO | | | | | |
-
-|FUNDAMENTAL | | | | | |
-
-| |2ª/4ª SÉRIE |75,2 |77,1 |76,5 |80,8 |
-
-| |5ª. SÉRIE |56,6 |55,7 |55,2 |64,5 |
-
-| |6ª/8ª SÉRIE |68,3 |65,3 |54,1 |71,6 |
-
-|ENSINO |1ª SÉRIE |57,0 |52,6 |57,0 |66,5 |
-
-|MÉDIO | | | | | |
-
-| |2ª/3ª SÉRIE |77,8 |72,7 |77,7 |83,2 |
-
-|SUPLÊNCIA |63,1 |43,8 |60,7 |65,9 |
+| NÍVEL DE ENSINO | P E R Í O D O |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 90 | 91 | 92 | 93 |  |
+|  | 1ª. SÉRIE | 60,1 | 62,8 | 65,4 | 67,0 |
+| ENSINO |  |  |  |  |  |
+| FUNDAMENTAL |  |  |  |  |  |
+|  | 2ª/4ª SÉRIE | 75,2 | 77,1 | 76,5 | 80,8 |
+|  | 5ª. SÉRIE | 56,6 | 55,7 | 55,2 | 64,5 |
+|  | 6ª/8ª SÉRIE | 68,3 | 65,3 | 54,1 | 71,6 |
+| ENSINO | 1ª SÉRIE | 57,0 | 52,6 | 57,0 | 66,5 |
+| MÉDIO |  |  |  |  |  |
+|  | 2ª/3ª SÉRIE | 77,8 | 72,7 | 77,7 | 83,2 |
+| SUPLÊNCIA | 63,1 | 43,8 | 60,7 | 65,9 |  |
 
 FONTE SMED
 
@@ -416,17 +309,13 @@ QUADRO 15
 
 BELO HORIZONTE - 1990 A 1993
 
-|NÍVEL DE ENSINO |% EVASÃO |% EVASÃO |% EVASÃO |% EVASÃO |
-
-| |1990 |1991 |1992 |1993 |
-
-|1ª / 4ª |1,3 |1,8 |1,7 |1,6 |
-
-|5ª / 8ª |4,6 |7,0 |4,6 |6,7 |
-
-|ENSINO MÉDIO |6,9 |12,0 |12,4 |9,8 |
-
-|SUPLÊNCIA |16,0 |14,6 |24,7 |23,5 |
+| NÍVEL DE ENSINO | % EVASÃO | % EVASÃO | % EVASÃO | % EVASÃO |
+| --- | --- | --- | --- | --- |
+|  | 1990 | 1991 | 1992 | 1993 |
+| 1ª / 4ª | 1,3 | 1,8 | 1,7 | 1,6 |
+| 5ª / 8ª | 4,6 | 7,0 | 4,6 | 6,7 |
+| ENSINO MÉDIO | 6,9 | 12,0 | 12,4 | 9,8 |
+| SUPLÊNCIA | 16,0 | 14,6 | 24,7 | 23,5 |
 
 FONTE SMED
 
@@ -436,15 +325,12 @@ PREVISÃO DA POPULAÇÃO DE BELO HORIZONTE
 
 EM IDADE ESCOLAR - 1994 A 1997
 
-|IDADE |1994 |1995 |1996 |1997 |
-
-|0-4 |176.098 |173.118 |170.188 |167.308 |
-
-|5-9 |216.995 |219.535 |222.104 |224.703 |
-
-|10-14 |214.822 |217.378 |219.964 |222.580 |
-
-|15-19 |181.233 |179.105 |177.002 |174.924 |
+| IDADE | 1994 | 1995 | 1996 | 1997 |
+| --- | --- | --- | --- | --- |
+| 0-4 | 176.098 | 173.118 | 170.188 | 167.308 |
+| 5-9 | 216.995 | 219.535 | 222.104 | 224.703 |
+| 10-14 | 214.822 | 217.378 | 219.964 | 222.580 |
+| 15-19 | 181.233 | 179.105 | 177.002 | 174.924 |
 
 III - DIRETRIZES GERAIS
 
@@ -498,23 +384,16 @@ PREVISÃO DE MATRÍCULA PARA O PERÍODO 1995/1997
 
 REDE MUNICIPAL DE ENSINO
 
-| |1994 |1995 |1996 |1997 |
-
-|ED. INFANTIL |8.595 |9.583 |10.744 |12.033 |
-
-|ED. FUNDAMENTAL 1ª A 4ª |56.062 |87.803 |89.559 |91.350 |
-
-|5ª A 8ª |66.080 |68.992 |71.554 |73.806 |
-
-|SUBTOTAL |152.162 |156.795 |161.113 |165.150 |
-
-|ENS. MÉDIO |17.157 |17.672 |19.212 |18.748 |
-
-|ED. de JOVENS E ADULTO |11.008 |12.108 |13.319 |14.651 |
-
-|ED. ESPECIAL |406 |600 |800 |1.000 |
-
-|TOTAL |169.558 |196.768 |204.178 |211.568 |
+|  | 1994 | 1995 | 1996 | 1997 |
+| --- | --- | --- | --- | --- |
+| ED. INFANTIL | 8.595 | 9.583 | 10.744 | 12.033 |
+| ED. FUNDAMENTAL 1ª A 4ª | 56.062 | 87.803 | 89.559 | 91.350 |
+| 5ª A 8ª | 66.080 | 68.992 | 71.554 | 73.806 |
+| SUBTOTAL | 152.162 | 156.795 | 161.113 | 165.150 |
+| ENS. MÉDIO | 17.157 | 17.672 | 19.212 | 18.748 |
+| ED. de JOVENS E ADULTO | 11.008 | 12.108 | 13.319 | 14.651 |
+| ED. ESPECIAL | 406 | 600 | 800 | 1.000 |
+| TOTAL | 169.558 | 196.768 | 204.178 | 211.568 |
 
 2) Esse crescimento deverá ocorrer principalmente no Ensino Fundamental (1ª a 8ª série). As novas escolas públicas de Ensino Fundamental deverão ser criadas pelo Município, nas regiões que, atualmente, não dispõem de tais instituições.
 
@@ -988,17 +867,13 @@ QUADRO 18
 
 META: SALAS DE AULA NECESSÁRIAS E PROJETADAS
 
-| |1994 |1995 |1996 |1997 |
-
-|SALAS DE AULA DISPONÍVEIS |2.317 |2.442 |2.683 |2.857 |
-
-|SALAS DE AULA NECESSÁRIAS |2.592 |2.683 |2.771 |2.857 |
-
-|DÉFICIT DE SALAS |275 |241 |68 |- |
-
-|SALAS NOVAS AMPLIADAS |125 |279 |174 |180 |
-
-|DURANTE O ANO * | | | | |
+|  | 1994 | 1995 | 1996 | 1997 |
+| --- | --- | --- | --- | --- |
+| SALAS DE AULA DISPONÍVEIS | 2.317 | 2.442 | 2.683 | 2.857 |
+| SALAS DE AULA NECESSÁRIAS | 2.592 | 2.683 | 2.771 | 2.857 |
+| DÉFICIT DE SALAS | 275 | 241 | 68 | - |
+| SALAS NOVAS AMPLIADAS | 125 | 279 | 174 | 180 |
+| DURANTE O ANO * |  |  |  |  |
 
 * Do total de novas salas foram incluídas as salas utilizadas em caráter precário.
 
@@ -1006,25 +881,17 @@ QUADRO 19
 
 META: ESCOLAS A SEREM CONSTRUÍDAS EM 1994//95 JÁ PROGRAMADAS
 
-| |Nº DE ESCOLAS |Nº DE SALAS |ALUNOS BENEF. |
-
-|Construções previstas no Orçamento Participativo |4 |88 |5.280 |
-
-|de 1994 e que serão concluídas em 1995 | | | |
-
-|Escolas de Ensino Fundamental previstas no PTA |5 |76 |4.560 |
-
-|94/95 | | | |
-
-|Escolas de Educação Infantil previstas no PTA |2 |17 |850 |
-
-|94/95 | | | |
-
-|Escolas de Educação Especial previstas no PTA |2 |16 |300 |
-
-|94/95 | | | |
-
-|TOTAIS |13 |197 |10.990 |
+|  | Nº DE ESCOLAS | Nº DE SALAS | ALUNOS BENEF. |
+| --- | --- | --- | --- |
+| Construções previstas no Orçamento Participativo | 4 | 88 | 5.280 |
+| de 1994 e que serão concluídas em 1995 |  |  |  |
+| Escolas de Ensino Fundamental previstas no PTA | 5 | 76 | 4.560 |
+| 94/95 |  |  |  |
+| Escolas de Educação Infantil previstas no PTA | 2 | 17 | 850 |
+| 94/95 |  |  |  |
+| Escolas de Educação Especial previstas no PTA | 2 | 16 | 300 |
+| 94/95 |  |  |  |
+| TOTAIS | 13 | 197 | 10.990 |
 
 QUADRO 20
 
@@ -1032,59 +899,38 @@ META: ESCOLAS PROJETADAS OU A SEREM
 
 CONSTRUÍDAS EM 1995/1997
 
-|REGIONAIS |NÚMERO DE ESCOLAS | |
-
-| |ENSINO FUNDAM. |EDUC. INFANTIL |EDUC. ESPECIAL |Nº DE SALAS |ALUNOS BENEF. |
-
-|ARB |2 |0 |1 |42 |2.160 |
-
-|ARCS |1 |0 |0 |16 |960 |
-
-|ARL |4 |1 |0 |74 |4.340 |
-
-|ARNE |4 |0 |0 |64 |3.840 |
-
-|ARN |2 |0 |0 |32 |1.920 |
-
-|ARNO |2 |0 |0 |32 |1.920 |
-
-|ARO |2 |1 |0 |42 |2.420 |
-
-|ARP |1 |0 |0 |16 |960 |
-
-|ARVN |2 |0 |0 |32 |1.920 |
-
-|TOTAIS |20 |2 |1 |350 |20.440 |
+| REGIONAIS | NÚMERO DE ESCOLAS |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | ENSINO FUNDAM. | EDUC. INFANTIL | EDUC. ESPECIAL | Nº DE SALAS | ALUNOS BENEF. |
+| ARB | 2 | 0 | 1 | 42 | 2.160 |
+| ARCS | 1 | 0 | 0 | 16 | 960 |
+| ARL | 4 | 1 | 0 | 74 | 4.340 |
+| ARNE | 4 | 0 | 0 | 64 | 3.840 |
+| ARN | 2 | 0 | 0 | 32 | 1.920 |
+| ARNO | 2 | 0 | 0 | 32 | 1.920 |
+| ARO | 2 | 1 | 0 | 42 | 2.420 |
+| ARP | 1 | 0 | 0 | 16 | 960 |
+| ARVN | 2 | 0 | 0 | 32 | 1.920 |
+| TOTAIS | 20 | 2 | 1 | 350 | 20.440 |
 
 QUADRO 21
 
 META: AMPLIAÇÕES E REFORMAS PREVISTAS – 1994/1997
 
-|REG. |AMPLIAÇÕES PROGRAMADAS |AMPLIAÇÕES PROJETADAS 1996/1997 |REFORMAS |
-
-| |1994/1995 | | |
-
-| |Nº DE ESCOLAS |Nº DE SALAS |Nº DE ESCOLAS |Nº DE SALAS |PROGR. |PROJET. |
-
-|ARB |4 |30 |5 |22 |5 |6 |
-
-|ARCS |1 |4 |0 |0 |3 |4 |
-
-|ARL |1 |6 |4 |21 |3 |5 |
-
-|ARNE |2 |4 |3 |14 |8 |7 |
-
-|ARN |3 |18 |4 |14 |2 |8 |
-
-|ARNO |3 |10 |4 |14 |2 |6 |
-
-|ARO |3 |22 |2 |8 |7 |3 |
-
-|ARP |3 |11 |2 |8 |2 |3 |
-
-|ARVN |3 |14 |5 |12 |2 |13 |
-
-|TOTAIS |24 |119 |29 |113 |34 |55 |
+| REG. | AMPLIAÇÕES PROGRAMADAS | AMPLIAÇÕES PROJETADAS 1996/1997 | REFORMAS |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 1994/1995 |  |  |  |  |  |
+|  | Nº DE ESCOLAS | Nº DE SALAS | Nº DE ESCOLAS | Nº DE SALAS | PROGR. | PROJET. |
+| ARB | 4 | 30 | 5 | 22 | 5 | 6 |
+| ARCS | 1 | 4 | 0 | 0 | 3 | 4 |
+| ARL | 1 | 6 | 4 | 21 | 3 | 5 |
+| ARNE | 2 | 4 | 3 | 14 | 8 | 7 |
+| ARN | 3 | 18 | 4 | 14 | 2 | 8 |
+| ARNO | 3 | 10 | 4 | 14 | 2 | 6 |
+| ARO | 3 | 22 | 2 | 8 | 7 | 3 |
+| ARP | 3 | 11 | 2 | 8 | 2 | 3 |
+| ARVN | 3 | 14 | 5 | 12 | 2 | 13 |
+| TOTAIS | 24 | 119 | 29 | 113 | 34 | 55 |
 
 QUADRO 22
 
@@ -1092,17 +938,13 @@ RECURSOS NECESSÁRIOS PARA OBRAS PROJETADAS DE CONSTRUÇÃO,
 
 AMPLIAÇÃO E REFORMA DA RME - PREVISÃO PARA 1995/1996/1997:
 
-|1. CONSTRUÇÃO DE 23 NOVAS ESCOLAS |11.300.000 |
-
-|(350 SALAS DE AULA) | |
-
-|2. AQUISIÇÃO DE 15 TERRENOS |1.500.000 |
-
-|3. AMPLIAÇÃO DE ESCOLAS (113 SALAS DE AULA) |2.260.000 |
-
-|4. REFORMA DE ESCOLAS |1.650.000 |
-
-|TOTAL |16.710.000 |
+| 1. CONSTRUÇÃO DE 23 NOVAS ESCOLAS | 11.300.000 |
+| --- | --- |
+| (350 SALAS DE AULA) |  |
+| 2. AQUISIÇÃO DE 15 TERRENOS | 1.500.000 |
+| 3. AMPLIAÇÃO DE ESCOLAS (113 SALAS DE AULA) | 2.260.000 |
+| 4. REFORMA DE ESCOLAS | 1.650.000 |
+| TOTAL | 16.710.000 |
 
 Obs.: Valores em Reais.
 
@@ -1110,15 +952,12 @@ QUADRO 23
 
 ORÇAMENTO BIENAL E PLURIANUAL - DESPESAS DE OBRAS
 
-|ANO |CONSTR. |AQUISIÇÃO |AMPL. |REFORMA |TOTAL |
-
-|1995 |3.700.000 |750.000 |750.000 |550.000 |5.750.000 |
-
-|1996 |3.700.000 |750.000 |750.000 |550.000 |5.750.000 |
-
-|1997 |3.900.000 |- |760.000 |550.000 |5.210.000 |
-
-|TOTAL |11.300.000 |1.500.000 |2.260.000 |1.650.000 |16.710.000 |
+| ANO | CONSTR. | AQUISIÇÃO | AMPL. | REFORMA | TOTAL |
+| --- | --- | --- | --- | --- | --- |
+| 1995 | 3.700.000 | 750.000 | 750.000 | 550.000 | 5.750.000 |
+| 1996 | 3.700.000 | 750.000 | 750.000 | 550.000 | 5.750.000 |
+| 1997 | 3.900.000 | - | 760.000 | 550.000 | 5.210.000 |
+| TOTAL | 11.300.000 | 1.500.000 | 2.260.000 | 1.650.000 | 16.710.000 |
 
 Obs.: Valores em Reais.
 
@@ -1126,48 +965,31 @@ QUADRO 24
 
 EXPANSÃO DO QUADRO DE MAGISTÉRIO
 
-|SITUAÇÃO |1994 |1995 |1996 |1997 |
-
-|PROFESSORES NECESSÁRIOS EM SALA DE AULA |6.507 |9.152 |9.496 |9.655 |
-
-|PROFESSORES ATUAIS |8.807 |9.517 |10.012 |10.507 |
-
-|PROFESSORES LOTADOS CAPE, SMED, AR |145 |145 |145 |145 |
-
-|PROFESSORES AFASTADOS POR LAUDOS, À DISPOSIÇÃO, LEI 5.016 |520 |520 |520 |520 |
-
-|PROFESSORES DISPONÍVEIS PARA SALAS |8.142 |8.852 |9.347 |9.842 |
-
-|DÉFICIT COBERTO POR DOBRA |665 |300 |150 | |
-
-|PROFESSORES A SEREM ADMITIDOS: | | | | |
-
-|PARA COBRIR PARTE DAS DOBRAS | |365 |150 |150 |
-
-|PARA AMPLIAÇÃO DAS MATRÍCULAS | |345 |345 |345 |
-
-|NOVOS PROFESSORES | |710 |495 |495 |
+| SITUAÇÃO | 1994 | 1995 | 1996 | 1997 |
+| --- | --- | --- | --- | --- |
+| PROFESSORES NECESSÁRIOS EM SALA DE AULA | 6.507 | 9.152 | 9.496 | 9.655 |
+| PROFESSORES ATUAIS | 8.807 | 9.517 | 10.012 | 10.507 |
+| PROFESSORES LOTADOS CAPE, SMED, AR | 145 | 145 | 145 | 145 |
+| PROFESSORES AFASTADOS POR LAUDOS, À DISPOSIÇÃO, LEI 5.016 | 520 | 520 | 520 | 520 |
+| PROFESSORES DISPONÍVEIS PARA SALAS | 8.142 | 8.852 | 9.347 | 9.842 |
+| DÉFICIT COBERTO POR DOBRA | 665 | 300 | 150 |  |
+| PROFESSORES A SEREM ADMITIDOS: |  |  |  |  |
+| PARA COBRIR PARTE DAS DOBRAS |  | 365 | 150 | 150 |
+| PARA AMPLIAÇÃO DAS MATRÍCULAS |  | 345 | 345 | 345 |
+| NOVOS PROFESSORES |  | 710 | 495 | 495 |
 
 QUADRO 25
 
 EXPANSÃO DO QUADRO DE PESSOAL
 
-|QUADRO DE PESSOAL |1994 |1995 |1996 |1997 |
-
-|PROFESSORES PI E PII |8.807 |9.517 |10.012 |10.507 |
-
-|DIRETORES E VICES |346 |360 |362 |374 |
-
-|SECRETÁRIOS DE ESCOLA |170 |174 |180 |186 |
-
-|TÉC. SUP. DE ENSINO |564 |564 |564 |564 |
-
-|AUXILIARES DE ESCOLA |1.748 |1.726 |1.708 |1.688 |
-
-|OUTRAS CATEGORIAS |145 |145 |145 |145 |
-
-|TOTAL |11.774 |12.478 |12.971 |13.464 |
-
-|CONTRATAÇÃO DE SERVIÇO DE FAXINA, VIGILÂNCIA E OUTROS |1.036 |1.165 |1.294 |1.423 |
-
-|TOTAL DE PESSOAS |12.810 |13.643 |14.265 |14.887 |
+| QUADRO DE PESSOAL | 1994 | 1995 | 1996 | 1997 |
+| --- | --- | --- | --- | --- |
+| PROFESSORES PI E PII | 8.807 | 9.517 | 10.012 | 10.507 |
+| DIRETORES E VICES | 346 | 360 | 362 | 374 |
+| SECRETÁRIOS DE ESCOLA | 170 | 174 | 180 | 186 |
+| TÉC. SUP. DE ENSINO | 564 | 564 | 564 | 564 |
+| AUXILIARES DE ESCOLA | 1.748 | 1.726 | 1.708 | 1.688 |
+| OUTRAS CATEGORIAS | 145 | 145 | 145 | 145 |
+| TOTAL | 11.774 | 12.478 | 12.971 | 13.464 |
+| CONTRATAÇÃO DE SERVIÇO DE FAXINA, VIGILÂNCIA E OUTROS | 1.036 | 1.165 | 1.294 | 1.423 |
+| TOTAL DE PESSOAS | 12.810 | 13.643 | 14.265 | 14.887 |

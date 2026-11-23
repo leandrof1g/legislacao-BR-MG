@@ -74,55 +74,32 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei | |
-
-|nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0242.2881.339093.2.700.000 |219.936,76 |
-
-|2100.06.181.0109.2803.339030.2.702.000 |87.783,30 |
-
-|2100.06.181.0109.2803.449052.2.701.000 |1.658.127,17 |
-
-|2100.06.181.0109.2803.449052.2.702.000 |1.446.819,86 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339039.2.621.000 |1.584.090,31 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0226.1207.442042.2.710.010 |9.084.455,71 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.122.0030.2900.339093.2.621.000 |13.676,00 |
-
-|2301.10.122.0030.2900.449093.2.621.000 |559.212,00 |
-
-|2301.10.302.0030.2875.339093.2.621.000 |1.065.858,97 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.542.0306.2877.335041.2.706.510 |120.000,00 |
-
-|2500.18.542.0306.2877.449052.2.706.510 |80.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.212.0005.2758.339093.2.500.000 |982,09 |
-
-|2800.04.212.0005.2758.339093.2.749.782 |11.951,54 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0228.2537.449052.2.700.000 |2.163,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |15.935.056,71 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0242.2881.339093.2.700.000 | 219.936,76 |
+| 2100.06.181.0109.2803.339030.2.702.000 | 87.783,30 |
+| 2100.06.181.0109.2803.449052.2.701.000 | 1.658.127,17 |
+| 2100.06.181.0109.2803.449052.2.702.000 | 1.446.819,86 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339039.2.621.000 | 1.584.090,31 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0226.1207.442042.2.710.010 | 9.084.455,71 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.122.0030.2900.339093.2.621.000 | 13.676,00 |
+| 2301.10.122.0030.2900.449093.2.621.000 | 559.212,00 |
+| 2301.10.302.0030.2875.339093.2.621.000 | 1.065.858,97 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.542.0306.2877.335041.2.706.510 | 120.000,00 |
+| 2500.18.542.0306.2877.449052.2.706.510 | 80.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.212.0005.2758.339093.2.500.000 | 982,09 |
+| 2800.04.212.0005.2758.339093.2.749.782 | 11.951,54 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0228.2537.449052.2.700.000 | 2.163,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 15.935.056,71 |
 
 ANEXO II
 

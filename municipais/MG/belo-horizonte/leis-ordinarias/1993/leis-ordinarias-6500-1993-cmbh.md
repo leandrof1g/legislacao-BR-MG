@@ -100,157 +100,87 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 19** - Fica alterado no Anexo II da Lei n° 5.447, de 30 de novembro de 1988, com a redação dada pela Lei n° 6.352, de 15 de julho de 1993, a redação do Subgrupo de Atividades de Fiscalização, que passa a viger da seguinte forma:
 
-| | |
-
-|SUBGRUPO DE ATIVIDADES DE FISCALIZAÇÃO | |
-
-|Inspetor Sanitário Municipal I | |
-
-|Inspetor Sanitário Municipal II | |
-
-|Inspetor Sanitário Municipal III | |
-
-|Inspetor Sanitário Municipal IV | |
-
-|Inspetor Sanitário Municipal V | |
-
-|Inspetor Sanitário Municipal VI | |
-
-|Inspetor Sanitário Municipal - Classe Especial I | |
-
-|Inspetor Sanitário Municipal - Classe Especial II | |
-
-|Inspetor Sanitário Municipal - Classe Especial III | |
-
-|Inspetor Municipal de Obras I | |
-
-|Inspetor Municipal de Obras II | |
-
-|Inspetor Municipal de Obras III | |
-
-|Inspetor Municipal de Obras IV | |
-
-|Inspetor Municipal de Obras V |LEI ESPECÍFICA |
-
-|Inspetor Municipal de Obras VI | |
-
-|Inspetor Municipal de Obras - Classe Especial I | |
-
-|Inspetor Municipal de Obras - Classe Especial II |(Lei nº 6.205, de 22 de julho de 1992) |
-
-|Inspetor Municipal de Obras - Classe Especial III | |
-
-|Inspetor Municipal de Atividades Urbanas I | |
-
-|Inspetor Municipal de Atividades Urbanas II | |
-
-|Inspetor Municipal de Atividades Urbanas III | |
-
-|Inspetor Municipal de Atividades Urbanas IV | |
-
-|Inspetor Municipal de Atividades Urbanas V | |
-
-|Inspetor Municipal de Atividades Urbanas VI | |
-
-|Insp. Munic. de Ativ. Urbanas - Classe Especial I | |
-
-|Insp. Munic. de Ativ. Urbanas - Classe Especial II | |
-
-|Insp. Munic. de Ativ. Urbanas - Classe Especial III | |
-
-|Inspetor Municipal de Controle Ambiental I | |
-
-|Inspetor Municipal de Controle Ambiental II | |
-
-|Inspetor Municipal de Controle Ambiental III | |
-
-|Inspetor Municipal de Controle Ambiental IV | |
-
-|Inspetor Municipal de Controle Ambiental V | |
-
-|Inspetor Municipal de Controle Ambiental VI | |
-
-|Insp. Mun. de Cont. Ambiental - Classe Especial I | |
-
-|Insp. Mun. de Cont. Ambiental - Classe Especial II | |
-
-|Insp. Mun. de Cont. Ambiental - Classe Especial III | |
+|  |  |
+| --- | --- |
+| SUBGRUPO DE ATIVIDADES DE FISCALIZAÇÃO |  |
+| Inspetor Sanitário Municipal I |  |
+| Inspetor Sanitário Municipal II |  |
+| Inspetor Sanitário Municipal III |  |
+| Inspetor Sanitário Municipal IV |  |
+| Inspetor Sanitário Municipal V |  |
+| Inspetor Sanitário Municipal VI |  |
+| Inspetor Sanitário Municipal - Classe Especial I |  |
+| Inspetor Sanitário Municipal - Classe Especial II |  |
+| Inspetor Sanitário Municipal - Classe Especial III |  |
+| Inspetor Municipal de Obras I |  |
+| Inspetor Municipal de Obras II |  |
+| Inspetor Municipal de Obras III |  |
+| Inspetor Municipal de Obras IV |  |
+| Inspetor Municipal de Obras V | LEI ESPECÍFICA |
+| Inspetor Municipal de Obras VI |  |
+| Inspetor Municipal de Obras - Classe Especial I |  |
+| Inspetor Municipal de Obras - Classe Especial II | (Lei nº 6.205, de 22 de julho de 1992) |
+| Inspetor Municipal de Obras - Classe Especial III |  |
+| Inspetor Municipal de Atividades Urbanas I |  |
+| Inspetor Municipal de Atividades Urbanas II |  |
+| Inspetor Municipal de Atividades Urbanas III |  |
+| Inspetor Municipal de Atividades Urbanas IV |  |
+| Inspetor Municipal de Atividades Urbanas V |  |
+| Inspetor Municipal de Atividades Urbanas VI |  |
+| Insp. Munic. de Ativ. Urbanas - Classe Especial I |  |
+| Insp. Munic. de Ativ. Urbanas - Classe Especial II |  |
+| Insp. Munic. de Ativ. Urbanas - Classe Especial III |  |
+| Inspetor Municipal de Controle Ambiental I |  |
+| Inspetor Municipal de Controle Ambiental II |  |
+| Inspetor Municipal de Controle Ambiental III |  |
+| Inspetor Municipal de Controle Ambiental IV |  |
+| Inspetor Municipal de Controle Ambiental V |  |
+| Inspetor Municipal de Controle Ambiental VI |  |
+| Insp. Mun. de Cont. Ambiental - Classe Especial I |  |
+| Insp. Mun. de Cont. Ambiental - Classe Especial II |  |
+| Insp. Mun. de Cont. Ambiental - Classe Especial III |  |
 
 **Art. 19** revogado pela Lei nº 6.939, de 16/8/1995 (Art. 18)
 
 **Art. 20** - Ficam alteradas no Anexo IV da Lei n° 5.447, de 30 de novembro de 1988, com a redação dada pela Lei n° 6.352, de 15 de julho de 1993, as seguintes correlações:
 
-|Psicólogo/ Administrador/ Pedagogo/ |Técnico de Recursos Humanos I, II e III |Psicólogo/ Administrador/ Pedagogo/ |
-
-|Assistente Social | |Assistente Social |
-
-|Urbanista/Técnico em Turismo/ Sociólogo/ |Técnico Superior de Serviço Público I, II e |Engenheiro/ Arquiteto/ Assistente Social/ |
-
-|Arquiteto/ Engenheiro Agrimensor/ Engenheiro |III |Sociólogo/ Técnico em Turismo/ Educação |
-
-|Agrônomo/ Engenheiro/ Assistente Social/ | |Física/ Biólogo/ Administrador/ Bacharel em |
-
-|Técnico em Zoobotânica/ Psicólogo/ Assessor | |Direito/ Psicólogo/ Nível Superior |
-
-|Administrativo (Q Supl)/ Assessor Legislativo| | |
-
-|(Q Supl)/ Capelão | | |
-
-|Engenheiro Civil Sanitarista e Técnico de | |Engenheiro/ Nível Superior |
-
-|Planejamento absorvidos pela Prefeitura nos | | |
-
-|termos da Lei nº 5.655, de 23 de janeiro de | | |
-
-|1990 | | |
-
-|Fiscal Municipal de Saúde |Inspetor Sanitário Municipal I, II, III |2º Grau completo |
-
-| |Inspetor Sanitário IV, V, VI |Curso superior Completo, nos termos da Lei nº|
-
-| |Inspetor Sanitário Municipal – Classe |6205 de 22 de julho de 1992 (Anexo I) |
-
-| |Especial I, II, III | |
-
-|Fiscal Municipal de Obras/ Técnico em |Inspetor Municipal de Obras I, II, III |2º Grau completo |
-
-|Edificações/ Técnico em Estradas | | |
-
-| |Inspetor Municipal de Obras IV, V, VI |Curso superior completo, nos termos da Lei nº|
-
-| |Inspetor Municipal de Obras - Classe Especial|6205 de 22 de julho de 1992 (Anexo II) |
-
-| |I, II, III | |
-
-|Fiscal Municipal de Posturas/Fiscal Municipal|Inspetor Municipal de Atividades Urbanas I, |2º Grau completo |
-
-| |II, III | |
-
-| |Inspetor Municipal de Atividades Urbanas IV, |Curso superior completo, nos termos da Lei nº|
-
-| |V, VI |6205, de 22 de julho de 1992 (Anexo III) |
-
-| |Inspetor Municipal de Atividades Urbanas | |
-
-| |Classe Especial I, II, III | |
-
-|Fiscal Municipal de Posturas I,II |Inspetor Municipal de Controle Ambiental I, |2º Grau completo |
-
-|III e Fiscal Municipal de Obras I, II, III, |II, III. | |
-
-|que estavam lotados na Secretaria Municipal | | |
-
-|de Meio Ambiente quando da promulgação da Lei| | |
-
-|nº 6205, de 22 de julho de 1992. | | |
-
-| |Inspetor Municipal de Controle Ambiental IV, |Curso superior completo nos termos de Lei nº |
-
-| |V, VI |6205, de 22 de julho de 1992 |
-
-| |Inspetor Municipal de Controle Ambiental - |(Anexo IV) |
-
-| |Classe Especial I, II, III | |
+| Psicólogo/ Administrador/ Pedagogo/ | Técnico de Recursos Humanos I, II e III | Psicólogo/ Administrador/ Pedagogo/ |
+| --- | --- | --- |
+| Assistente Social |  | Assistente Social |
+| Urbanista/Técnico em Turismo/ Sociólogo/ | Técnico Superior de Serviço Público I, II e | Engenheiro/ Arquiteto/ Assistente Social/ |
+| Arquiteto/ Engenheiro Agrimensor/ Engenheiro | III | Sociólogo/ Técnico em Turismo/ Educação |
+| Agrônomo/ Engenheiro/ Assistente Social/ |  | Física/ Biólogo/ Administrador/ Bacharel em |
+| Técnico em Zoobotânica/ Psicólogo/ Assessor |  | Direito/ Psicólogo/ Nível Superior |
+| Administrativo (Q Supl)/ Assessor Legislativo |  |  |
+| (Q Supl)/ Capelão |  |  |
+| Engenheiro Civil Sanitarista e Técnico de |  | Engenheiro/ Nível Superior |
+| Planejamento absorvidos pela Prefeitura nos |  |  |
+| termos da Lei nº 5.655, de 23 de janeiro de |  |  |
+| 1990 |  |  |
+| Fiscal Municipal de Saúde | Inspetor Sanitário Municipal I, II, III | 2º Grau completo |
+|  | Inspetor Sanitário IV, V, VI | Curso superior Completo, nos termos da Lei nº |
+|  | Inspetor Sanitário Municipal – Classe | 6205 de 22 de julho de 1992 (Anexo I) |
+|  | Especial I, II, III |  |
+| Fiscal Municipal de Obras/ Técnico em | Inspetor Municipal de Obras I, II, III | 2º Grau completo |
+| Edificações/ Técnico em Estradas |  |  |
+|  | Inspetor Municipal de Obras IV, V, VI | Curso superior completo, nos termos da Lei nº |
+|  | Inspetor Municipal de Obras - Classe Especial | 6205 de 22 de julho de 1992 (Anexo II) |
+|  | I, II, III |  |
+| Fiscal Municipal de Posturas/Fiscal Municipal | Inspetor Municipal de Atividades Urbanas I, | 2º Grau completo |
+|  | II, III |  |
+|  | Inspetor Municipal de Atividades Urbanas IV, | Curso superior completo, nos termos da Lei nº |
+|  | V, VI | 6205, de 22 de julho de 1992 (Anexo III) |
+|  | Inspetor Municipal de Atividades Urbanas |  |
+|  | Classe Especial I, II, III |  |
+| Fiscal Municipal de Posturas I,II | Inspetor Municipal de Controle Ambiental I, | 2º Grau completo |
+| III e Fiscal Municipal de Obras I, II, III, | II, III. |  |
+| que estavam lotados na Secretaria Municipal |  |  |
+| de Meio Ambiente quando da promulgação da Lei |  |  |
+| nº 6205, de 22 de julho de 1992. |  |  |
+|  | Inspetor Municipal de Controle Ambiental IV, | Curso superior completo nos termos de Lei nº |
+|  | V, VI | 6205, de 22 de julho de 1992 |
+|  | Inspetor Municipal de Controle Ambiental - | (Anexo IV) |
+|  | Classe Especial I, II, III |  |
 
 **Art. 21** - Os órgãos colegiados que não forem incompatíveis com a estrutura administrativa constante da Lei n° 6.352, de 15 de julho de 1993, continuarão com a composição e competências atuais, até a revisão a ser realizada pelo Executivo, mediante projeto de lei.
 

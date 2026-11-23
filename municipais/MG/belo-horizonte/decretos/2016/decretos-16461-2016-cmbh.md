@@ -66,17 +66,13 @@ VII - horário núcleo: período em que, excetuadas as hipóteses específicas p
 
 **Art. 3º** - O horário flexível a ser praticado nas unidades administrativas em que o mesmo for admitido será de, no máximo, 1 (uma) hora no início e no final da jornada diária do agente público, e observará os seguintes critérios:
 
-|DURAÇÃO DA JORNADA DE TRABALHO DO|HORÁRIO FLEXÍVEL PARA O REGISTRO |HORÁRIO FLEXÍVEL PARA O REGISTRO |HORÁRIO-NÚCLEO DA UNIDADE |
-
-|AGENTE PÚBLICO |DO INÍCIO DA JORNADA DIÁRIA |DO FINAL DA JORNADA DIÁRIA |ADMINISTRATIVA |
-
-|6 horas diárias |8:00 às 09:00 h |14:00 às 15:00 h |Entre 09:00h e 14:00h |
-
-|6 horas diárias |12:00 às 13:00 h |18:00 às 19:00 h |Entre 13:00h e 18:00h |
-
-|8 horas diárias |08:00 às 09:00 h |17:00 às 18:00 h |Entre 09:00h e 11:00h e entre |
-
-| | | |15:00h e 17:00h |
+| DURAÇÃO DA JORNADA DE TRABALHO DO | HORÁRIO FLEXÍVEL PARA O REGISTRO | HORÁRIO FLEXÍVEL PARA O REGISTRO | HORÁRIO-NÚCLEO DA UNIDADE |
+| --- | --- | --- | --- |
+| AGENTE PÚBLICO | DO INÍCIO DA JORNADA DIÁRIA | DO FINAL DA JORNADA DIÁRIA | ADMINISTRATIVA |
+| 6 horas diárias | 8:00 às 09:00 h | 14:00 às 15:00 h | Entre 09:00h e 14:00h |
+| 6 horas diárias | 12:00 às 13:00 h | 18:00 às 19:00 h | Entre 13:00h e 18:00h |
+| 8 horas diárias | 08:00 às 09:00 h | 17:00 às 18:00 h | Entre 09:00h e 11:00h e entre |
+|  |  |  | 15:00h e 17:00h |
 
 **Parágrafo único** - É vedado o exercício do horário flexível aos agentes públicos que estejam em locais ou exerçam atividades incompatíveis com o instituto, como as áreas e atividades de atendimento e prestação de serviços aos cidadãos.
 

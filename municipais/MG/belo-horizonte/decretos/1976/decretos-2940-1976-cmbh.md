@@ -54,68 +54,37 @@ Secretário Municipal de Serviços Urbano
 
 RELAÇÃO E DESCRIÇÃO DAS ÁRVORES QUE SERÃO INCLUÍDAS EM DECRETO COMO: “IMUNES DE CORTE OU DERRUBADA”
 
-|Nome Vulgar |Nome Científico |Família |Localização |Unid. |Observações |
-
-| | | | | |Gerais |
-
-|Paineira |Chorisia apeciosa |Bombacacoae |Rua Bernardo Guimarães esq/ Rua Mato Grosso |I |Árvore majestosa, de grande porte, adulta (60 anos aprox.) |
-
-|Jambo do Pará | | |Rua Espírito Santo, em frente ao nº 881, no passeio |I |Único exemplar desta espécie existente nas ruas de BH. |
-
-|Flamboyant |Dalonix regia |Leguminoseae |Praça da Igreja da Boa Viagem |VIII |Árvores adultas |
-
-|Grevilea |Grevílea robusta |Proteaceae |Praça da Igreja da Boa Viagem |IX |Árvores adultas |
-
-|Ficus |Fícus retusa |Moraceae |Praça da Igreja da Boa Viagem |VII | |
-
-|Mulungu |Erytrina mulungu |Leguminoseae |Praça da Igreja da Boa Viagem |XIX | |
-
-|Espatodea |Espatodea campanulata |Bignoniaceae |Praça da Igreja da Boa Viagem |V | |
-
-| |Beauv. | | | | |
-
-|Pinheiro do Paraná |Araucária angustifólia |Araucareaceae |Praça da Igreja da Boa Viagem |I | |
-
-|Paineira |Chorisia apeciosa |Bombacacoae |Praça da Igreja da Boa Viagem |VII | |
-
-|Ipê Amarelo |Tabebuia serratifolia |Leguminoseae |Praça da Igreja da Boa Viagem |II | |
-
-|Cassia albrisia |Cassia albrisia |Leguminoseae |Praça da Igreja da Boa Viagem |II | |
-
-|Magnólia Amarela |Michelia champaca |Magnoliaceae |Praça da Igreja da Boa Viagem |I | |
-
-|Eucalipto |Eucalyptus spp |Myrtaceae |Praça da Igreja da Boa Viagem |III | |
-
-|Tipuana |Tipuana tipu |Leguminoseae |Praça da Igreja da Boa Viagem |I | |
-
-|Casuarina |Casuarina Equisetifolia |Casuarinaceae |Praça da Igreja da Boa Viagem |I | |
-
-|Mangueiras |Mangifera indica |Anacardiaceae |Av. Carandaí, trecho compreendido entre Praça João Pessoa |XIX |São as últimas mangueiras restantes das centenas que foram |
-
-| | | |e Rua Ceará | |plantadas nas ruas da cidade. |
-
-| | | |Av. Alfredo Balena, no trecho compreendido entre Carandaí | | |
-
-| | | |e Av. Bernardo Monteiro | | |
-
-|Quaresmeira |Tibouchina spp |Melastomastaceae |Praça da Igreja da Boa Viagem |I | |
-
-|Ficus |Fícus retusa |Moraceae |Praça Afonso Arinos com Rua Goiás |II | |
-
-|Palmeira Imperial |Poystonea |Leguminoseae |Todas as palmeiras existentes na Av. Brasil, no trecho |XXIX | |
-
-| |oleraceae | |compreendido entre a Rua Sergipe e a Rua Pernambuco | | |
-
-|Pau Brasil |Caesalpina echinata, LAM |Leguminoseae |Praça Afonso Arinos |II | |
-
-|Paineiras |Chorisia apeciosa |Bombacacoae |Praça da Assembléia |V |Paineiras que foram transplantadas |
-
-|Ipê Branco |Tabeluia odontodiscus |Bignomiaceae |Av. Afonso Pena, entre Brasil e Contorno |I |Único Ipê Branco existente na Av. Afonso Pena |
-
-| | | |Todas as árvores localizadas em praças públicas |Div. |As praças públicas de uma cidade representam o mais importante |
-
-| | | | | |centro de lazer comunitário |
-
-| | | |Todas as árvores localizadas em Parques Municipais |Div. |Naturais ou artificiais, os Parques representam, além de área de |
-
-| | | | | |lazer, importantes centros de preservação da natureza. |
+| Nome Vulgar | Nome Científico | Família | Localização | Unid. | Observações |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | Gerais |
+| Paineira | Chorisia apeciosa | Bombacacoae | Rua Bernardo Guimarães esq/ Rua Mato Grosso | I | Árvore majestosa, de grande porte, adulta (60 anos aprox.) |
+| Jambo do Pará |  |  | Rua Espírito Santo, em frente ao nº 881, no passeio | I | Único exemplar desta espécie existente nas ruas de BH. |
+| Flamboyant | Dalonix regia | Leguminoseae | Praça da Igreja da Boa Viagem | VIII | Árvores adultas |
+| Grevilea | Grevílea robusta | Proteaceae | Praça da Igreja da Boa Viagem | IX | Árvores adultas |
+| Ficus | Fícus retusa | Moraceae | Praça da Igreja da Boa Viagem | VII |  |
+| Mulungu | Erytrina mulungu | Leguminoseae | Praça da Igreja da Boa Viagem | XIX |  |
+| Espatodea | Espatodea campanulata | Bignoniaceae | Praça da Igreja da Boa Viagem | V |  |
+|  | Beauv. |  |  |  |  |
+| Pinheiro do Paraná | Araucária angustifólia | Araucareaceae | Praça da Igreja da Boa Viagem | I |  |
+| Paineira | Chorisia apeciosa | Bombacacoae | Praça da Igreja da Boa Viagem | VII |  |
+| Ipê Amarelo | Tabebuia serratifolia | Leguminoseae | Praça da Igreja da Boa Viagem | II |  |
+| Cassia albrisia | Cassia albrisia | Leguminoseae | Praça da Igreja da Boa Viagem | II |  |
+| Magnólia Amarela | Michelia champaca | Magnoliaceae | Praça da Igreja da Boa Viagem | I |  |
+| Eucalipto | Eucalyptus spp | Myrtaceae | Praça da Igreja da Boa Viagem | III |  |
+| Tipuana | Tipuana tipu | Leguminoseae | Praça da Igreja da Boa Viagem | I |  |
+| Casuarina | Casuarina Equisetifolia | Casuarinaceae | Praça da Igreja da Boa Viagem | I |  |
+| Mangueiras | Mangifera indica | Anacardiaceae | Av. Carandaí, trecho compreendido entre Praça João Pessoa | XIX | São as últimas mangueiras restantes das centenas que foram |
+|  |  |  | e Rua Ceará |  | plantadas nas ruas da cidade. |
+|  |  |  | Av. Alfredo Balena, no trecho compreendido entre Carandaí |  |  |
+|  |  |  | e Av. Bernardo Monteiro |  |  |
+| Quaresmeira | Tibouchina spp | Melastomastaceae | Praça da Igreja da Boa Viagem | I |  |
+| Ficus | Fícus retusa | Moraceae | Praça Afonso Arinos com Rua Goiás | II |  |
+| Palmeira Imperial | Poystonea | Leguminoseae | Todas as palmeiras existentes na Av. Brasil, no trecho | XXIX |  |
+|  | oleraceae |  | compreendido entre a Rua Sergipe e a Rua Pernambuco |  |  |
+| Pau Brasil | Caesalpina echinata, LAM | Leguminoseae | Praça Afonso Arinos | II |  |
+| Paineiras | Chorisia apeciosa | Bombacacoae | Praça da Assembléia | V | Paineiras que foram transplantadas |
+| Ipê Branco | Tabeluia odontodiscus | Bignomiaceae | Av. Afonso Pena, entre Brasil e Contorno | I | Único Ipê Branco existente na Av. Afonso Pena |
+|  |  |  | Todas as árvores localizadas em praças públicas | Div. | As praças públicas de uma cidade representam o mais importante |
+|  |  |  |  |  | centro de lazer comunitário |
+|  |  |  | Todas as árvores localizadas em Parques Municipais | Div. | Naturais ou artificiais, os Parques representam, além de área de |
+|  |  |  |  |  | lazer, importantes centros de preservação da natureza. |

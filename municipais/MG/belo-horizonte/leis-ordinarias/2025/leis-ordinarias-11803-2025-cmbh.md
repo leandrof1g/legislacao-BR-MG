@@ -44,15 +44,15 @@ Programa: 0140 - GESTÃO E OPERACIONALIZAÇÃO DA POLÍTICA EDUCACIONAL
 
 Ação: 2041 - FORMAÇÃO PARA PROFISSIONAIS DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |5.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 5.000,00 |
 
 Subação: 0001 - FORMAÇÃO DE GESTORES DAS ESCOLAS MUNICIPAIS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |500 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 500 |
 
 Produto: PROFISSIONAL CAPACITADO
 
@@ -70,9 +70,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |5.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 5.000,00 |
 
 2)
 
@@ -84,15 +84,15 @@ Programa: 0167 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INCLUSIVA E DIVERSIDADE ÉTN
 
 Ação: 2041 - FORMAÇÃO PARA PROFISSIONAIS DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |5.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 5.000,00 |
 
 Subação: 0007 - FORMAÇÃO DE PROFESSORES DO ATENDIMENTO EDUCACIONAL ESPECIALIZADO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |130 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 130 |
 
 Produto: PROFESSOR CAPACITADO
 
@@ -110,9 +110,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |5.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 5.000,00 |
 
 3)
 
@@ -124,15 +124,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2702 - GESTÃO DA EDUCAÇÃO INTEGRAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |18.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 18.000,00 |
 
 Subação: 0004 - PROGRAMA ESCOLA ABERTA - PEA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |70 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 70 |
 
 Produto: ESCOLA PARTICIPANTE
 
@@ -150,9 +150,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |18.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 18.000,00 |
 
 4)
 
@@ -164,15 +164,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2702 - GESTÃO DA EDUCAÇÃO INTEGRAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |3.499.143,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 3.499.143,00 |
 
 Subação: 0003 - PROGRAMA DE ATENDIMENTO EDUCACIONAL INTEGRADO - PAEI
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |455 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 455 |
 
 Produto: ALUNO BENEFICIADO
 
@@ -190,9 +190,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |3.499.143,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 3.499.143,00 |
 
 5)
 
@@ -204,15 +204,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2702 - GESTÃO DA EDUCAÇÃO INTEGRAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |1.500.001,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.500.001,00 |
 
 Subação: 0001 - ATENDIMENTO NO PROGRAMA ESCOLA INTEGRADA - PEI - NO ENSINO FUNDAMENTAL
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |11.789 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 11.789 |
 
 Produto: ALUNO ATENDIDO
 
@@ -230,9 +230,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |1.500.001,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 1.500.001,00 |
 
 6)
 
@@ -244,15 +244,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2041 - FORMAÇÃO PARA PROFISSIONAIS DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |5.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 5.000,00 |
 
 Subação: 0012 - FORMAÇÃO DE PROFESSORES PARA A EDUCAÇÃO INTEGRAL
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |2.000 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 2.000 |
 
 Produto: PARTICIPAÇÕES
 
@@ -270,9 +270,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |5.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 5.000,00 |
 
 7)
 
@@ -284,15 +284,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2041 - FORMAÇÃO PARA PROFISSIONAIS DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |5.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 5.000,00 |
 
 Subação: 0010 - FORMAÇÃO EM TECNOLOGIAS DIGITAIS PARA USOS PEDAGÓGICOS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |1.375 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 1.375 |
 
 Produto: PARTICIPAÇÕES
 
@@ -310,9 +310,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |5.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 5.000,00 |
 
 8)
 
@@ -324,15 +324,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2706 - MELHORIA DA APRENDIZAGEM E AVALIAÇÃO DE DESEMPENHO ESCOLAR
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 10.000,00 |
 
 Subação: 0005 - FORMAÇÃO PARA O MERCADO DE TRABALHO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |1.600 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 1.600 |
 
 Produto: ALUNO ATENDIDO
 
@@ -350,9 +350,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 10.000,00 |
 
 9)
 
@@ -364,15 +364,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2706 - MELHORIA DA APRENDIZAGEM E AVALIAÇÃO DE DESEMPENHO ESCOLAR
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 10.000,00 |
 
 Subação: 0012 - PROJETOS DE REFORÇO ESCOLAR
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |27.000 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 27.000 |
 
 Produto: ALUNO BENEFICIADO
 
@@ -390,9 +390,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |10.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 10.000,00 |
 
 10) VETADO
 
@@ -412,15 +412,15 @@ Programa: 0073 - PRESERVAÇÃO E CONSERVAÇÃO DA FAUNA E FLORA EM PARQUES, JARD
 
 Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS E CANTEIROS
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |2.500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 2.500.000,00 |
 
 Subação: 0001 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS E CANTEIROS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |5 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 5 |
 
 Produto: PRAÇA E CANTEIRO EXECUTADOS
 
@@ -438,9 +438,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |2.500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 2.500.000,00 |
 
 15)
 
@@ -452,15 +452,15 @@ Programa: 0059 - COORDENAÇÃO DA POLÍTICA URBANA
 
 Ação: 2566 - PLANEJAMENTO E DESENVOLVIMENTO URBANO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |800.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 800.000,00 |
 
 Subação: 0011 - JARDINS DE CHUVA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |65 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 65 |
 
 Produto: JARDIM DE CHUVA IMPLANTADO
 
@@ -478,9 +478,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |800.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 800.000,00 |
 
 16)
 
@@ -492,15 +492,15 @@ Programa: 0109 - OPERACIONALIZAÇÃO DOS SERVIÇOS DE SEGURANÇA
 
 Ação: 2803 - OPERACIONALIZAÇÃO DA GUARDA CIVIL MUNICIPAL DE BELO HORIZONTE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |4.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 4.000.000,00 |
 
 Subação: IMPLANTAÇÃO DE BASES MÓVEIS DA GUARDA CIVIL MUNICIPAL DE BELO HORIZONTE
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |8 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 8 |
 
 Produto: BASES IMPLANTADAS
 
@@ -518,9 +518,9 @@ Ação: 2007 - SERVIÇOS DE DIVULGAÇÃO INSTITUCIONAL DO MUNICÍPIO
 
 Unidade orçamentária: 3200 - SECRETARIA MUNICIPAL DE ASSUNTOS INSTITUCIONAIS E COMUNICAÇÃO SOCIAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |4.000.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 4.000.000,00 |
 
 17) VETADO
 
@@ -534,15 +534,15 @@ Programa: 0167 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INCLUSIVA E DIVERSIDADE ÉTN
 
 Ação: 2041 - FORMAÇÃO PARA PROFISSIONAIS DA EDUCAÇÃO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 Subação: 0007 - FORMAÇÃO DE PROFESSORES DO ATENDIMENTO EDUCACIONAL ESPECIALIZADO
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |370 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 370 |
 
 Produto: PROFESSOR CAPACITADO
 
@@ -560,9 +560,9 @@ Ação: 2567 - GESTÃO DA POLÍTICA DE TRANSPORTE URBANO E TRÂNSITO
 
 Unidade orçamentária: 2709 - EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 19)
 
@@ -574,15 +574,15 @@ Programa: 0169 - GESTÃO DA POLÍTICA DE EDUCAÇÃO INFANTIL
 
 Ação: 1211 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDADES DE ENSINO
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |100.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 100.000,00 |
 
 Subação: PINTURA DE SALAS DE AULA COM TINTA INSETICIDA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |40 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 40 |
 
 Produto: ESCOLAS PINTADAS
 
@@ -600,9 +600,9 @@ Ação: 2567 - GESTÃO DA POLÍTICA DE TRANSPORTE URBANO E TRÂNSITO
 
 Unidade orçamentária: 2709 - EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |100.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 100.000,00 |
 
 20)
 
@@ -614,15 +614,15 @@ Programa: 0020 - PROTEÇÃO SOCIAL ESPECIAL
 
 Ação: 2878 - SERVIÇO DE PROTEÇÃO SOCIAL ESPECIAL DE MÉDIA COMPLEXIDADE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 Subação: 0031 - SERVIÇO DE PROTEÇÃO SOCIAL ESPECIAL PARA PESSOAS COM DEFICIÊNCIA, IDOSAS E SUAS FAMÍLIAS/CENTRO DIA DA PESSOA IDOSA
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |50 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 50 |
 
 Produto: VAGA DISPONIBILIZADA
 
@@ -640,9 +640,9 @@ Ação: 2567 - GESTÃO DA POLÍTICA DE TRANSPORTE URBANO E TRÂNSITO
 
 Unidade orçamentária: 2709 - EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |500.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 500.000,00 |
 
 21) VETADO
 
@@ -660,15 +660,15 @@ Programa: 0060 - GESTÃO DA MOBILIDADE URBANA
 
 Ação: 2837 - GERENCIAMENTO DA MOBILIDADE URBANA MUNICIPAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |400.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 400.000,00 |
 
 Subação: IMPLANTAÇÃO DE FAIXA EXCLUSIVA PARA MOTOS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |20 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 20 |
 
 Produto: FAIXA IMPLEMENTADA
 
@@ -686,9 +686,9 @@ Ação: 2900 - SERVIÇOS ADMINISTRATIVOS E FINANCEIROS
 
 Unidade orçamentária: 0800 - SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |400.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 400.000,00 |
 
 25) VETADO
 
@@ -708,15 +708,15 @@ Programa: 0168 - GESTÃO DA POLÍTICA DO ENSINO FUNDAMENTAL
 
 Ação: 2702 - GESTÃO DA EDUCAÇÃO INTEGRAL
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |140.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 140.000,00 |
 
 Subação: IMPLEMENTAÇÃO DO PROJETO TRANSITOLÂNDIA NAS ESCOLAS
 
-|2022 |2023 |2024 |2025 |
-
-|0 |0 |0 |1 |
+| 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 1 |
 
 Produto: PROJETO
 
@@ -734,9 +734,9 @@ Ação: 1000 - RESERVA DE RECURSOS PARA EMENDAS INDIVIDUAIS
 
 Unidade orçamentária: 4001 - ENCARGOS GERAIS DO MUNICÍPIO DA SECRETARIA MUNICIPAL DE FAZENDA
 
-| |2022 |2023 |2024 |2025 |
-
-|R$ |0,00 |0,00 |0,00 |140.000,00 |
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| R$ | 0,00 | 0,00 | 0,00 | 140.000,00 |
 
 30) VETADO
 

@@ -574,10 +574,11 @@ ANEXO I
 
 (a que se refere o art. 31 do Decreto nº 17.272, de 4 de fevereiro de 2020)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
 (a que se refere o art. 31 do Decreto nº 17.272, de 4 de fevereiro de 2020)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

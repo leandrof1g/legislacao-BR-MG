@@ -32,13 +32,11 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 CARGOS DE PROVIMENTO EFETIVO E FUNÇÕES PÚBLICAS DA ÁREA DA SAÚDE DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CLASSES |NÚMERO DE CARGOS|
-
-|Agente de Serviços de Saúde |3.450 |
-
-|Técnico Superior de Saúde | 1.968 |
-
-|TOTAL |10.060 |(NR)" |
+| CLASSES | NÚMERO DE CARGOS |  |
+| --- | --- | --- |
+| Agente de Serviços de Saúde | 3.450 |  |
+| Técnico Superior de Saúde | 1.968 |  |
+| TOTAL | 10.060 | (NR)" |
 
 **Art. 2º** - Para atender ao disposto nesta Lei, fica o Poder Executivo autorizado a adaptar seus instrumentos de planejamento financeiro e, nos termos dos arts. 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17 de março de 1964, a abrir crédito adicional no valor de R$16.226.171,78 (dezesseis milhões, duzentos e vinte e seis mil, cento e setenta e um reais e setenta e oito centavos) ao orçamento corrente, bem como reabri-lo pelo seu saldo para o exercício seguinte.
 

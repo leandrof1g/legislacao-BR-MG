@@ -30,365 +30,215 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **§ 1º** - Após a incorporação prevista no caput deste artigo, os vencimentos-base do cargo público efetivo de Médico previstos na Tabela do Anexo III da Lei nº 7.238/96 e suas alterações passam a ter os seguintes valores a partir de 1º de junho de 2007:
 
-|NÍVEL |VENCIMENTOS-BASE (em R$) |
-
-|1 |2.143,00 |
-
-|2 |2.250,15 |
-
-|3 |2.362,66 |
-
-|4 |2.480,79 |
-
-|5 |2.604,83 |
-
-|6 |2.735,07 |
-
-|7 |2.871,82 |
-
-|8 |3.015,42 |
-
-|9 |3.166,19 |
-
-|10 |3.324,50 |
-
-|11 |3.490,72 |
-
-|12 |3.665,26 |
-
-|13 |3.848,52 |
-
-|14 |4.040,95 |
-
-|15 |4.242,99 |
+| NÍVEL | VENCIMENTOS-BASE (em R$) |
+| --- | --- |
+| 1 | 2.143,00 |
+| 2 | 2.250,15 |
+| 3 | 2.362,66 |
+| 4 | 2.480,79 |
+| 5 | 2.604,83 |
+| 6 | 2.735,07 |
+| 7 | 2.871,82 |
+| 8 | 3.015,42 |
+| 9 | 3.166,19 |
+| 10 | 3.324,50 |
+| 11 | 3.490,72 |
+| 12 | 3.665,26 |
+| 13 | 3.848,52 |
+| 14 | 4.040,95 |
+| 15 | 4.242,99 |
 
 **§ 2º** - Os vencimentos-base do cargo público efetivo de Médico previstos na Tabela do Anexo III da Lei nº 7.238/96 e suas alterações passam a ter os seguintes valores a partir de 1º novembro de 2007:
 
-|NÍVEL |VENCIMENTOS-BASE (em R$) |
-
-|1 |2.229,00 |
-
-|2 |2.340,45 |
-
-|3 |2.457,47 |
-
-|4 |2.580,35 |
-
-|5 |2.709,36 |
-
-|6 |2.844,83 |
-
-|7 |2.987,07 |
-
-|8 |3.136,43 |
-
-|9 |3.293,25 |
-
-|10 |3.457,91 |
-
-|11 |3.630,81 |
-
-|12 |3.812,35 |
-
-|13 |4.002,96 |
-
-|14 |4.203,11 |
-
-|15 |4.413,27 |
+| NÍVEL | VENCIMENTOS-BASE (em R$) |
+| --- | --- |
+| 1 | 2.229,00 |
+| 2 | 2.340,45 |
+| 3 | 2.457,47 |
+| 4 | 2.580,35 |
+| 5 | 2.709,36 |
+| 6 | 2.844,83 |
+| 7 | 2.987,07 |
+| 8 | 3.136,43 |
+| 9 | 3.293,25 |
+| 10 | 3.457,91 |
+| 11 | 3.630,81 |
+| 12 | 3.812,35 |
+| 13 | 4.002,96 |
+| 14 | 4.203,11 |
+| 15 | 4.413,27 |
 
 **§ 3º** - Os vencimentos-base do cargo público efetivo de Médico previstos na Tabela do Anexo III da Lei nº 7.238/96 e suas alterações passam a ter os seguintes valores a partir de 1º de janeiro de 2008:
 
-|NÍVEL |VENCIMENTOS-BASE (em R$) |
-
-|1 |2.379,00 |
-
-|2 |2.497,95 |
-
-|3 |2.622,85 |
-
-|4 |2.753,99 |
-
-|5 |2.891,69 |
-
-|6 |3.036,27 |
-
-|7 |3.188,09 |
-
-|8 |3.347,49 |
-
-|9 |3.514,87 |
-
-|10 |3.690,61 |
-
-|11 |3.875,14 |
-
-|12 |4.068,90 |
-
-|13 |4.272,34 |
-
-|14 |4.485,96 |
-
-|15 |4.710,26 |
+| NÍVEL | VENCIMENTOS-BASE (em R$) |
+| --- | --- |
+| 1 | 2.379,00 |
+| 2 | 2.497,95 |
+| 3 | 2.622,85 |
+| 4 | 2.753,99 |
+| 5 | 2.891,69 |
+| 6 | 3.036,27 |
+| 7 | 3.188,09 |
+| 8 | 3.347,49 |
+| 9 | 3.514,87 |
+| 10 | 3.690,61 |
+| 11 | 3.875,14 |
+| 12 | 4.068,90 |
+| 13 | 4.272,34 |
+| 14 | 4.485,96 |
+| 15 | 4.710,26 |
 
 **§ 4º** - Os vencimentos-base do cargo público efetivo de Médico previstos na Tabela do Anexo III da Lei nº 7.238/96 e suas alterações passam a ter os seguintes valores a partir de 1º de junho de 2008:
 
-|NÍVEL |VENCIMENTOS-BASE (em R$) |
-
-|1 |2.529,00 |
-
-|2 |2.655,45 |
-
-|3 |2.788,22 |
-
-|4 |2.927,63 |
-
-|5 |3.074,02 |
-
-|6 |3.227,72 |
-
-|7 |3.389,10 |
-
-|8 |3.558,56 |
-
-|9 |3.736,48 |
-
-|10 |3.923,31 |
-
-|11 |4.119,47 |
-
-|12 |4.325,45 |
-
-|13 |4.541,72 |
-
-|14 |4.768,81 |
-
-|15 |5.007,25 |
+| NÍVEL | VENCIMENTOS-BASE (em R$) |
+| --- | --- |
+| 1 | 2.529,00 |
+| 2 | 2.655,45 |
+| 3 | 2.788,22 |
+| 4 | 2.927,63 |
+| 5 | 3.074,02 |
+| 6 | 3.227,72 |
+| 7 | 3.389,10 |
+| 8 | 3.558,56 |
+| 9 | 3.736,48 |
+| 10 | 3.923,31 |
+| 11 | 4.119,47 |
+| 12 | 4.325,45 |
+| 13 | 4.541,72 |
+| 14 | 4.768,81 |
+| 15 | 5.007,25 |
 
 **§ 5º** – Os vencimentos-base do cargo público efetivo de Médico previstos na Tabela do Anexo III da Lei nº 7.238/96 e suas alterações passam a ter os seguintes valores a partir de 1º de novembro de 2008:
 
-|NÍVEL |VENCIMENTOS-BASE (em R$) |
-
-|1 |2.736,00 |
-
-|2 |2.872,80 |
-
-|3 |3.016,44 |
-
-|4 |3.167,26 |
-
-|5 |3.325,63 |
-
-|6 |3.491,91 |
-
-|7 |3.666,50 |
-
-|8 |3.849,83 |
-
-|9 |4.042,32 |
-
-|10 |4.244,43 |
-
-|11 |4.456,66 |
-
-|12 |4.679,49 |
-
-|13 |4.913,46 |
-
-|14 |5.159,14 |
-
-|15 |5.417,09 |
+| NÍVEL | VENCIMENTOS-BASE (em R$) |
+| --- | --- |
+| 1 | 2.736,00 |
+| 2 | 2.872,80 |
+| 3 | 3.016,44 |
+| 4 | 3.167,26 |
+| 5 | 3.325,63 |
+| 6 | 3.491,91 |
+| 7 | 3.666,50 |
+| 8 | 3.849,83 |
+| 9 | 4.042,32 |
+| 10 | 4.244,43 |
+| 11 | 4.456,66 |
+| 12 | 4.679,49 |
+| 13 | 4.913,46 |
+| 14 | 5.159,14 |
+| 15 | 5.417,09 |
 
 **Art. 2º** - O abono de complementação de que trata o art. 4º da Lei nº 8.765/04, combinado com o disposto no § 1º do art. 18 da Lei nº 9.154, de 12 de janeiro de 2006, devido aos servidores públicos ocupantes do cargo público efetivo de Médico, posicionados nos níveis 1 a 3 da Tabela de vencimentos-base do Anexo IV do Plano de Carreira do Hospital Municipal Odilon Behrens, instituído pela citada Lei nº 9.154/06, será incorporado ao vencimento-base devido ao servidor público conforme o valor do abono que lhe estiver sendo pago no instante da vigência deste dispositivo.
 
 **§ 1º** - Após a incorporação prevista no caput deste artigo, os vencimentos-base e os salários-base do cargo e do emprego público efetivo de Médico previstos na Tabela do Anexo IV da Lei nº 9.154/06, passam a ter os seguintes valores a partir de 1º de junho de 2007:
 
-|NÍVEL |VENCIMENTOS-BASE / |VENCIMENTOS-BASE / |VENCIMENTOS-BASE / |
-
-| |SALÁRIOS-BASE (em R$) |SALÁRIOS-BASE (em R$) |SALÁRIOS-BASE (em R$) |
-
-| |JORNADA 20 HS |JORNADA 24 HS |JORNADA 30 HS |
-
-|1 |2.143,00 |2.571,60 |3.214,50 |
-
-|2 |2.250,15 |2.700,18 |3.375,23 |
-
-|3 |2.362,66 |2.835,19 |3.543,99 |
-
-|4 |2.480,79 |2.976,95 |3.721,19 |
-
-|5 |2.604,83 |3.125,80 |3.907,24 |
-
-|6 |2.735,07 |3.282,09 |4.102,61 |
-
-|7 |2.871,82 |3.446,19 |4.307,74 |
-
-|8 |3.015,42 |3.618,50 |4.523,12 |
-
-|9 |3.166,19 |3.799,42 |4.749,28 |
-
-|10 |3.324,50 |3.989,40 |4.986,74 |
-
-|11 |3.490,72 |4.188,87 |5.236,08 |
-
-|12 |3.665,26 |4.398,31 |5.497,89 |
-
-|13 |3.848,52 |4.618,22 |5.772,78 |
-
-|14 |4.040,95 |4.849,14 |6.061,42 |
-
-|15 |4.242,99 |5.091,59 |6.364,49 |
+| NÍVEL | VENCIMENTOS-BASE / | VENCIMENTOS-BASE / | VENCIMENTOS-BASE / |
+| --- | --- | --- | --- |
+|  | SALÁRIOS-BASE (em R$) | SALÁRIOS-BASE (em R$) | SALÁRIOS-BASE (em R$) |
+|  | JORNADA 20 HS | JORNADA 24 HS | JORNADA 30 HS |
+| 1 | 2.143,00 | 2.571,60 | 3.214,50 |
+| 2 | 2.250,15 | 2.700,18 | 3.375,23 |
+| 3 | 2.362,66 | 2.835,19 | 3.543,99 |
+| 4 | 2.480,79 | 2.976,95 | 3.721,19 |
+| 5 | 2.604,83 | 3.125,80 | 3.907,24 |
+| 6 | 2.735,07 | 3.282,09 | 4.102,61 |
+| 7 | 2.871,82 | 3.446,19 | 4.307,74 |
+| 8 | 3.015,42 | 3.618,50 | 4.523,12 |
+| 9 | 3.166,19 | 3.799,42 | 4.749,28 |
+| 10 | 3.324,50 | 3.989,40 | 4.986,74 |
+| 11 | 3.490,72 | 4.188,87 | 5.236,08 |
+| 12 | 3.665,26 | 4.398,31 | 5.497,89 |
+| 13 | 3.848,52 | 4.618,22 | 5.772,78 |
+| 14 | 4.040,95 | 4.849,14 | 6.061,42 |
+| 15 | 4.242,99 | 5.091,59 | 6.364,49 |
 
 **§ 2º** – Os vencimentos-base e os salários-base do cargo e do emprego público efetivo de Médico previstos na Tabela do Anexo IV da Lei nº 9.154/06 passam a ter os seguintes valores a partir de 1º de novembro de 2007:
 
-|NÍVEL |JORNADA DE 20 HORAS |JORNADA DE 24 HORAS |JORNADA DE 30 HORAS |
-
-| |VENCIMENTOS / SALÁRIOS-BASE |VENCIMENTOS / SALÁRIOS-BASE |VENCIMENTOS / SALÁRIOS-BASE |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|1 |2.229,00 |2.674,80 |3.343,50 |
-
-|2 |2.340,45 |2.808,54 |3.510,68 |
-
-|3 |2.457,47 |2.948,97 |3.686,21 |
-
-|4 |2.580,35 |3.096,42 |3.870,52 |
-
-|5 |2.709,36 |3.251,24 |4.064,05 |
-
-|6 |2.844,83 |3.413,80 |4.267,25 |
-
-|7 |2.987,07 |3.584,49 |4.480,61 |
-
-|8 |3.136,43 |3.763,71 |4.704,64 |
-
-|9 |3.293,25 |3.951,90 |4.939,87 |
-
-|10 |3.457,91 |4.149,49 |5.186,87 |
-
-|11 |3.630,81 |4.356,97 |5.446,21 |
-
-|12 |3.812,35 |4.574,82 |5.718,52 |
-
-|13 |4.002,96 |4.803,56 |6.004,45 |
-
-|14 |4.203,11 |5.043,73 |6.304,67 |
-
-|15 |4.413,27 |5.295,92 |6.619,90 |
+| NÍVEL | JORNADA DE 20 HORAS | JORNADA DE 24 HORAS | JORNADA DE 30 HORAS |
+| --- | --- | --- | --- |
+|  | VENCIMENTOS / SALÁRIOS-BASE | VENCIMENTOS / SALÁRIOS-BASE | VENCIMENTOS / SALÁRIOS-BASE |
+|  | (em R$) | (em R$) | (em R$) |
+| 1 | 2.229,00 | 2.674,80 | 3.343,50 |
+| 2 | 2.340,45 | 2.808,54 | 3.510,68 |
+| 3 | 2.457,47 | 2.948,97 | 3.686,21 |
+| 4 | 2.580,35 | 3.096,42 | 3.870,52 |
+| 5 | 2.709,36 | 3.251,24 | 4.064,05 |
+| 6 | 2.844,83 | 3.413,80 | 4.267,25 |
+| 7 | 2.987,07 | 3.584,49 | 4.480,61 |
+| 8 | 3.136,43 | 3.763,71 | 4.704,64 |
+| 9 | 3.293,25 | 3.951,90 | 4.939,87 |
+| 10 | 3.457,91 | 4.149,49 | 5.186,87 |
+| 11 | 3.630,81 | 4.356,97 | 5.446,21 |
+| 12 | 3.812,35 | 4.574,82 | 5.718,52 |
+| 13 | 4.002,96 | 4.803,56 | 6.004,45 |
+| 14 | 4.203,11 | 5.043,73 | 6.304,67 |
+| 15 | 4.413,27 | 5.295,92 | 6.619,90 |
 
 **§ 3º** – Os vencimentos-base e os salários-base do cargo e do emprego público efetivo de Médico previstos na Tabela do Anexo IV da Lei nº 9.154/06 passam a ter os seguintes valores a partir de 1º de janeiro de 2008:
 
-|NÍVEL |JORNADA DE 20 HORAS |JORNADA DE 24 HORAS |JORNADA DE 30 HORAS |
-
-| |VENCIMENTOS / SALÁRIOS-BASE |VENCIMENTOS / SALÁRIOS-BASE |VENCIMENTOS / SALÁRIOS-BASE |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|1 |2.379,00 |2.854,80 |3.568,50 |
-
-|2 |2.497,95 |2.997,54 |3.746,93 |
-
-|3 |2.622,85 |3.147,42 |3.934,27 |
-
-|4 |2.753,99 |3.304,79 |4.130,98 |
-
-|5 |2.891,69 |3.470,03 |4.337,53 |
-
-|6 |3.036,27 |3.643,53 |4.554,41 |
-
-|7 |3.188,09 |3.825,71 |4.782,13 |
-
-|8 |3.347,49 |4.016,99 |5.021,24 |
-
-|9 |3.514,87 |4.217,84 |5.272,30 |
-
-|10 |3.690,61 |4.428,73 |5.535,91 |
-
-|11 |3.875,14 |4.650,17 |5.812,71 |
-
-|12 |4.068,90 |4.882,68 |6.103,35 |
-
-|13 |4.272,34 |5.126,81 |6.408,51 |
-
-|14 |4.485,96 |5.383,15 |6.728,94 |
-
-|15 |4.710,26 |5.652,31 |7.065,39 |
+| NÍVEL | JORNADA DE 20 HORAS | JORNADA DE 24 HORAS | JORNADA DE 30 HORAS |
+| --- | --- | --- | --- |
+|  | VENCIMENTOS / SALÁRIOS-BASE | VENCIMENTOS / SALÁRIOS-BASE | VENCIMENTOS / SALÁRIOS-BASE |
+|  | (em R$) | (em R$) | (em R$) |
+| 1 | 2.379,00 | 2.854,80 | 3.568,50 |
+| 2 | 2.497,95 | 2.997,54 | 3.746,93 |
+| 3 | 2.622,85 | 3.147,42 | 3.934,27 |
+| 4 | 2.753,99 | 3.304,79 | 4.130,98 |
+| 5 | 2.891,69 | 3.470,03 | 4.337,53 |
+| 6 | 3.036,27 | 3.643,53 | 4.554,41 |
+| 7 | 3.188,09 | 3.825,71 | 4.782,13 |
+| 8 | 3.347,49 | 4.016,99 | 5.021,24 |
+| 9 | 3.514,87 | 4.217,84 | 5.272,30 |
+| 10 | 3.690,61 | 4.428,73 | 5.535,91 |
+| 11 | 3.875,14 | 4.650,17 | 5.812,71 |
+| 12 | 4.068,90 | 4.882,68 | 6.103,35 |
+| 13 | 4.272,34 | 5.126,81 | 6.408,51 |
+| 14 | 4.485,96 | 5.383,15 | 6.728,94 |
+| 15 | 4.710,26 | 5.652,31 | 7.065,39 |
 
 **§ 4º** – Os vencimentos-base e os salários-base do cargo e do emprego público efetivo de Médico previstos na Tabela do Anexo IV da Lei nº 9.154/06 passam a ter os seguintes valores a partir de 1º de junho de 2008:
 
-|NÍVEL |JORNADA DE 20 HORAS |JORNADA DE 24 HORAS |JORNADA DE 30 HORAS |
-
-| |VENCIMENTOS / SALÁRIOS-BASE (em |VENCIMENTOS / SALÁRIOS-BASE |VENCIMENTOS / SALÁRIOS-BASE |
-
-| |R$) |(em R$) |(em R$) |
-
-|1 |2.529,00 |3.034,80 |3.793,50 |
-
-|2 |2.655,45 |3.186,54 |3.983,18 |
-
-|3 |2.788,22 |3.345,87 |4.182,33 |
-
-|4 |2.927,63 |3.513,16 |4.391,45 |
-
-|5 |3.074,02 |3.688,82 |4.611,02 |
-
-|6 |3.227,72 |3.873,26 |4.841,57 |
-
-|7 |3.389,10 |4.066,92 |5.083,65 |
-
-|8 |3.558,56 |4.270,27 |5.337,84 |
-
-|9 |3.736,48 |4.483,78 |5.604,73 |
-
-|10 |3.923,31 |4.707,97 |5.884,96 |
-
-|11 |4.119,47 |4.943,37 |6.179,21 |
-
-|12 |4.325,45 |5.190,54 |6.488,17 |
-
-|13 |4.541,72 |5.450,06 |6.812,58 |
-
-|14 |4.768,81 |5.722,57 |7.153,21 |
-
-|15 |5.007,25 |6.008,70 |7.510,87 |
+| NÍVEL | JORNADA DE 20 HORAS | JORNADA DE 24 HORAS | JORNADA DE 30 HORAS |
+| --- | --- | --- | --- |
+|  | VENCIMENTOS / SALÁRIOS-BASE (em | VENCIMENTOS / SALÁRIOS-BASE | VENCIMENTOS / SALÁRIOS-BASE |
+|  | R$) | (em R$) | (em R$) |
+| 1 | 2.529,00 | 3.034,80 | 3.793,50 |
+| 2 | 2.655,45 | 3.186,54 | 3.983,18 |
+| 3 | 2.788,22 | 3.345,87 | 4.182,33 |
+| 4 | 2.927,63 | 3.513,16 | 4.391,45 |
+| 5 | 3.074,02 | 3.688,82 | 4.611,02 |
+| 6 | 3.227,72 | 3.873,26 | 4.841,57 |
+| 7 | 3.389,10 | 4.066,92 | 5.083,65 |
+| 8 | 3.558,56 | 4.270,27 | 5.337,84 |
+| 9 | 3.736,48 | 4.483,78 | 5.604,73 |
+| 10 | 3.923,31 | 4.707,97 | 5.884,96 |
+| 11 | 4.119,47 | 4.943,37 | 6.179,21 |
+| 12 | 4.325,45 | 5.190,54 | 6.488,17 |
+| 13 | 4.541,72 | 5.450,06 | 6.812,58 |
+| 14 | 4.768,81 | 5.722,57 | 7.153,21 |
+| 15 | 5.007,25 | 6.008,70 | 7.510,87 |
 
 **§ 5º** – Os vencimentos-base e os salários-base do cargo e do emprego público efetivo de Médico previstos na Tabela do Anexo IV da Lei nº 9.154/06 passam a ter os seguintes valores a partir de 1º de novembro de 2008:
 
-|NÍVEL |JORNADA DE 20 HORAS |JORNADA DE 24 HORAS |JORNADA DE 30 HORAS |
-
-| |VENCIMENTOS / SALÁRIOS-BASE |VENCIMENTOS / SALÁRIOS-BASE |VENCIMENTOS / SALÁRIOS-BASE |
-
-| |(em R$) |(em R$) |(em R$) |
-
-|1 |2.736,00 |3.283,20 |4.104,00 |
-
-|2 |2.872,80 |3.447,36 |4.309,20 |
-
-|3 |3.016,44 |3.619,73 |4.524,66 |
-
-|4 |3.167,26 |3.800,71 |4.750,89 |
-
-|5 |3.325,63 |3.990,75 |4.988,44 |
-
-|6 |3.491,91 |4.190,29 |5.237,86 |
-
-|7 |3.666,50 |4.399,80 |5.499,75 |
-
-|8 |3.849,83 |4.619,79 |5.774,74 |
-
-|9 |4.042,32 |4.850,78 |6.063,48 |
-
-|10 |4.244,43 |5.093,32 |6.366,65 |
-
-|11 |4.456,66 |5.347,99 |6.684,98 |
-
-|12 |4.679,49 |5.615,39 |7.019,23 |
-
-|13 |4.913,46 |5.896,16 |7.370,19 |
-
-|14 |5.159,14 |6.190,96 |7.738,70 |
-
-|15 |5.417,09 |6.500,51 |8.125,64 |
+| NÍVEL | JORNADA DE 20 HORAS | JORNADA DE 24 HORAS | JORNADA DE 30 HORAS |
+| --- | --- | --- | --- |
+|  | VENCIMENTOS / SALÁRIOS-BASE | VENCIMENTOS / SALÁRIOS-BASE | VENCIMENTOS / SALÁRIOS-BASE |
+|  | (em R$) | (em R$) | (em R$) |
+| 1 | 2.736,00 | 3.283,20 | 4.104,00 |
+| 2 | 2.872,80 | 3.447,36 | 4.309,20 |
+| 3 | 3.016,44 | 3.619,73 | 4.524,66 |
+| 4 | 3.167,26 | 3.800,71 | 4.750,89 |
+| 5 | 3.325,63 | 3.990,75 | 4.988,44 |
+| 6 | 3.491,91 | 4.190,29 | 5.237,86 |
+| 7 | 3.666,50 | 4.399,80 | 5.499,75 |
+| 8 | 3.849,83 | 4.619,79 | 5.774,74 |
+| 9 | 4.042,32 | 4.850,78 | 6.063,48 |
+| 10 | 4.244,43 | 5.093,32 | 6.366,65 |
+| 11 | 4.456,66 | 5.347,99 | 6.684,98 |
+| 12 | 4.679,49 | 5.615,39 | 7.019,23 |
+| 13 | 4.913,46 | 5.896,16 | 7.370,19 |
+| 14 | 5.159,14 | 6.190,96 | 7.738,70 |
+| 15 | 5.417,09 | 6.500,51 | 8.125,64 |
 
 **Art. 3º** - O abono instituído no parágrafo único do art. 7º da Lei nº 6.560, de 28 de fevereiro de 1994, devido ao ocupante do cargo público efetivo de Médico, integrante do Plano de Carreira da Área de Atividades de Saúde da Prefeitura de Belo Horizonte, lotado e em efetivo exercício das atribuições de seu cargo nos setores de urgência e emergência das unidades de saúde da Administração Direta do Poder Executivo, assim definidos no regulamento desta Lei, será pago conforme as seguintes condições e valores mensais:
 
@@ -468,87 +318,48 @@ III - outras unidades de saúde, a critério da Secretaria Municipal de Saúde.
 
 **§ 3°** - Os servidores e empregados públicos das Áreas de Atividades de Administração Geral e de Saúde da Prefeitura de Belo Horizonte, do Plano de Carreira do Hospital Municipal Odilon Behrens - HOB, instituído pela Lei n° 9.154/06, bem como os servidores públicos ocupantes de cargos correlatos vinculados ao Sistema Estadual de Gestão de Saúde e colocados à disposição do Município para o cumprimento de atividades no âmbito do SUS, em exercício das atribuições de seus cargos nas unidades definidas no caput deste artigo nas datas especiais a que se refere o seu § 2°, farão jus a um abono por cumprimento de plantão em data especial, conforme a classificação do Titular da Secretaria Municipal de Saúde ou do Superintendente do HOB, conforme a hipótese, nos seguintes valores:
 
-|CARGOS PÚBLICOS EFETIVOS INTEGRANTES |ABONO POR PLANTÃO |
-
-|DO QUADRO DE PESSOAL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO |EM DATA ESPECIAL |
-
-| |(em R$) |
-
-|AGENTE SANITÁRIO |60,00 |
-
-|AGENTE DE SERVIÇO DE SAÚDE |60,00 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |60,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |120,00 |
-
-|CIRURGIÃO-DENTISTA |120,00 |
-
-|AJUDANTE DE SERVIÇO OPERACIONAL |60,00 |
-
-|AUXILIAR ADMINISTRATIVO |60,00 |
-
-|OFICIAL DE SERVIÇO PÚBLICO |60,00 |
-
-|MOTORISTA | |60,00 |
-
-|TELEFONISTA | |60,00 |
-
-|ASSISTENTE ADMINISTRATIVO |60,00 |
-
-|TÉCNICO DE SERVIÇO PÚBLICO |60,00 |
-
-|EDUCADOR SOCIAL |60,00 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |60,00 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE I, II E III |60,00 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE I, II E III |60,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE I, II E III |120,00 |
-
-|AUXILIAR DE SERVIÇO ADMINISTRATIVO |60,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |60,00 |
-
-|OFICIAL DE GRÁFICA I E II |60,00 |
-
-|AGENTE DE ADMINISTRAÇÃO I, II E III |60,00 |
-
-|TÉCNICO DE NÍVEL MÉDIO I, II E III |60,00 |
-
-|ANALISTA DE SISTEMA ADMINISTRATIVO I, II E III |60,00 |
-
-|TÉCNICO DE RECURSOS HUMANOS I, II E III |60,00 |
-
-|CARGOS E EMPREGOS PÚBLICOS EFETIVOS INTEGRANTES DO QUADRO DE PESSOAL DO HOB |ABONO POR PLANTÃO EM DATA |
-
-| |ESPECIAL (em R$) |
-
-|AUXILIAR DE SERVIÇOS |60,00 |
-
-|AUXILIAR DE ADMINISTRAÇÃO |60,00 |
-
-|OFICIAL DE SERVIÇOS |60,00 |
-
-|TELEFONISTA |60,00 |
-
-|MOTORISTA |60,00 |
-
-|AGENTE DE ADMINISTRAÇÃO |60,00 |
-
-|TÉCNICO DE NÍVEL MÉDIO |60,00 |
-
-|AGENTE DE SERVIÇO DE SAÚDE |60,00 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |60,00 |
-
-|ANALISTA DE POLÍTICAS PÚBLICAS |60,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |120,00 |
-
-|CIRURGIÃO-DENTISTA |120,00 |
+| CARGOS PÚBLICOS EFETIVOS INTEGRANTES | ABONO POR PLANTÃO |  |
+| --- | --- | --- |
+| DO QUADRO DE PESSOAL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO | EM DATA ESPECIAL |  |
+|  | (em R$) |  |
+| AGENTE SANITÁRIO | 60,00 |  |
+| AGENTE DE SERVIÇO DE SAÚDE | 60,00 |  |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 60,00 |  |
+| TÉCNICO SUPERIOR DE SAÚDE | 120,00 |  |
+| CIRURGIÃO-DENTISTA | 120,00 |  |
+| AJUDANTE DE SERVIÇO OPERACIONAL | 60,00 |  |
+| AUXILIAR ADMINISTRATIVO | 60,00 |  |
+| OFICIAL DE SERVIÇO PÚBLICO | 60,00 |  |
+| MOTORISTA |  | 60,00 |
+| TELEFONISTA |  | 60,00 |
+| ASSISTENTE ADMINISTRATIVO | 60,00 |  |
+| TÉCNICO DE SERVIÇO PÚBLICO | 60,00 |  |
+| EDUCADOR SOCIAL | 60,00 |  |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 60,00 |  |
+| AGENTE DE SERVIÇOS DE SAÚDE I, II E III | 60,00 |  |
+| TÉCNICO DE SERVIÇOS DE SAÚDE I, II E III | 60,00 |  |
+| TÉCNICO SUPERIOR DE SAÚDE I, II E III | 120,00 |  |
+| AUXILIAR DE SERVIÇO ADMINISTRATIVO | 60,00 |  |
+| AUXILIAR DE ADMINISTRAÇÃO | 60,00 |  |
+| OFICIAL DE GRÁFICA I E II | 60,00 |  |
+| AGENTE DE ADMINISTRAÇÃO I, II E III | 60,00 |  |
+| TÉCNICO DE NÍVEL MÉDIO I, II E III | 60,00 |  |
+| ANALISTA DE SISTEMA ADMINISTRATIVO I, II E III | 60,00 |  |
+| TÉCNICO DE RECURSOS HUMANOS I, II E III | 60,00 |  |
+| CARGOS E EMPREGOS PÚBLICOS EFETIVOS INTEGRANTES DO QUADRO DE PESSOAL DO HOB | ABONO POR PLANTÃO EM DATA |  |
+|  | ESPECIAL (em R$) |  |
+| AUXILIAR DE SERVIÇOS | 60,00 |  |
+| AUXILIAR DE ADMINISTRAÇÃO | 60,00 |  |
+| OFICIAL DE SERVIÇOS | 60,00 |  |
+| TELEFONISTA | 60,00 |  |
+| MOTORISTA | 60,00 |  |
+| AGENTE DE ADMINISTRAÇÃO | 60,00 |  |
+| TÉCNICO DE NÍVEL MÉDIO | 60,00 |  |
+| AGENTE DE SERVIÇO DE SAÚDE | 60,00 |  |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 60,00 |  |
+| ANALISTA DE POLÍTICAS PÚBLICAS | 60,00 |  |
+| TÉCNICO SUPERIOR DE SAÚDE | 120,00 |  |
+| CIRURGIÃO-DENTISTA | 120,00 |  |
 
 **§ 3º** acrescentado pela Lei nº 9.816, de 18/1/2010 (Art. 6º)
 
@@ -558,17 +369,13 @@ III - outras unidades de saúde, a critério da Secretaria Municipal de Saúde.
 
 **§ 5º** - Os ocupantes dos cargos públicos de Agente de Serviço de Saúde, Técnico de Serviço de Saúde, Técnico Superior de Saúde, Enfermeiro e Cirurgião Dentista, integrantes da Área de Atividades de Saúde da Prefeitura de Belo Horizonte, os ocupantes dos cargos públicos de Técnico Superior de Saúde, Enfermeiro e Cirurgião Dentista integrantes do Plano de Carreira do HOB, bem como os ocupantes dos cargos públicos de Agente de Serviço de Saúde, Técnico de Serviço de Saúde, Técnico Superior de Saúde, Enfermeiro e Cirurgião Dentista vinculados ao Sistema Estadual de Gestão de Saúde e colocados à disposição do Município para o cumprimento de atividades no âmbito do SUS, que exercerem, nos setores de urgência e emergência das unidades de saúde do Município assim definidos no regulamento desta Lei, plantão de 12 (doze) horas excedentes à jornada semanal legalmente prevista para o seu cargo público efetivo, entre as 19:00 horas das sextas-feiras e as 07:00 horas das segundas-feiras e nos feriados, receberão, por plantão prestado, abono pecuniário nos seguintes valores:
 
-|CARGO/EMPREGO PÚBLICO EFETIVO |VALOR DA PARCELA (em R$) |
-
-|AGENTE DE SERVIÇO DE SAÚDE |150,00 |
-
-|TÉCNICO DE SERVIÇO DE SAÚDE |150,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |320,00 |
-
-|ENFERMEIRO |320,00 |
-
-|CIRURGIÃO DENTISTA |320,00 |
+| CARGO/EMPREGO PÚBLICO EFETIVO | VALOR DA PARCELA (em R$) |
+| --- | --- |
+| AGENTE DE SERVIÇO DE SAÚDE | 150,00 |
+| TÉCNICO DE SERVIÇO DE SAÚDE | 150,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 320,00 |
+| ENFERMEIRO | 320,00 |
+| CIRURGIÃO DENTISTA | 320,00 |
 
 **§ 5º** acrescentado pela Lei nº 10.252, de 12/9/2011 (Art. 12)
 
@@ -798,57 +605,33 @@ c) R$1.700,00 (mil e setecentos reais) para os Médicos.
 
 **Art. 5º** - O abono de urgência hospitalar previsto no § 1º do art. 5º da Lei nº 9.154/06, devido ao ocupante do cargo e do emprego público efetivo de Médico, integrante do Plano de Carreira do Hospital Municipal Odilon Behrens, lotado e em efetivo exercício das atribuições de seu cargo público ou emprego público nos setores onde a vantagem é devida, será pago conforme as seguintes condições e valores mensais:
 
-|REGIME DE PLANTÃO |SETORES (em R$) |
-
-| |I |II |III |IV |V |
-
-|Em cumprimento de regime de plantão de 24 (vinte e quatro) |813,00 |454,00 |273,00 |134,00 |0,00 |
-
-|horas semanais ou em cumprimento das jornadas previstas no | | | | | |
-
-|Anexo III da Lei nº 9.154/06, entre segundas e sextas-feiras. | | | | | |
-
-|Em cumprimento de regime de plantão, de 12 (doze) horas |1.263,00 |706,00 |423,00 |208,00 |0,00 |
-
-|semanais entre segundas e sextas-feiras, mais 12 (doze) horas | | | | | |
-
-|semanais aos sábados e domingos. | | | | | |
-
-|Em cumprimento de regime de plantão de 24 (vinte e quatro) |1.713,00 |957,00 |574,00 |282,00 |0,00 |
-
-|horas semanais aos sábados e domingos. | | | | | |
-
-|REGIME DE PLANTÃO |SETORES (em R$) |
-
-|Modalidade |Descrição |I |II |III |IV |V |
-
-|A |Em cumprimento de regime de plantão de 24 (vinte e| |677,00 |407,00 |200,00 |0,00 |
-
-| |quatro) horas semanais ou em cumprimento das | | | | | |
-
-| |jornadas previstas no Anexo III da Lei nº | | | | | |
-
-| |9.154/06, entre 07:00 horas das segundas e 19:00 |1.213,00 | | | | |
-
-| |horas das sextas-feiras. | | | | | |
-
-|B |Em cumprimento de regime de plantão, de 12 (doze) |1.763,00 |985,00 |590,00 |290,00 |0,00 |
-
-| |horas semanais entre as 7:00 horas das segundas e | | | | | |
-
-| |19:00 horas das sextas-feiras, mais 12 (doze) | | | | | |
-
-| |horas semanais entre as 19:00 horas das | | | | | |
-
-| |sextas-feiras e 07:00 horas das segundas-feiras. | | | | | |
-
-|C |Em cumprimento de regime de plantão de 24 (vinte e|2.213,00 |1.236,00 |741,00 |364,00 |0,00 |
-
-| |quatro) horas semanais entre as 19:00 horas das | | | | | |
-
-| |sextas-feiras e às 07:00 horas das | | | | | |
-
-| |segundas-feiras. | | | | | |
+| REGIME DE PLANTÃO | SETORES (em R$) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | I | II | III | IV | V |  |
+| Em cumprimento de regime de plantão de 24 (vinte e quatro) | 813,00 | 454,00 | 273,00 | 134,00 | 0,00 |  |
+| horas semanais ou em cumprimento das jornadas previstas no |  |  |  |  |  |  |
+| Anexo III da Lei nº 9.154/06, entre segundas e sextas-feiras. |  |  |  |  |  |  |
+| Em cumprimento de regime de plantão, de 12 (doze) horas | 1.263,00 | 706,00 | 423,00 | 208,00 | 0,00 |  |
+| semanais entre segundas e sextas-feiras, mais 12 (doze) horas |  |  |  |  |  |  |
+| semanais aos sábados e domingos. |  |  |  |  |  |  |
+| Em cumprimento de regime de plantão de 24 (vinte e quatro) | 1.713,00 | 957,00 | 574,00 | 282,00 | 0,00 |  |
+| horas semanais aos sábados e domingos. |  |  |  |  |  |  |
+| REGIME DE PLANTÃO | SETORES (em R$) |  |  |  |  |  |
+| Modalidade | Descrição | I | II | III | IV | V |
+| A | Em cumprimento de regime de plantão de 24 (vinte e |  | 677,00 | 407,00 | 200,00 | 0,00 |
+|  | quatro) horas semanais ou em cumprimento das |  |  |  |  |  |
+|  | jornadas previstas no Anexo III da Lei nº |  |  |  |  |  |
+|  | 9.154/06, entre 07:00 horas das segundas e 19:00 | 1.213,00 |  |  |  |  |
+|  | horas das sextas-feiras. |  |  |  |  |  |
+| B | Em cumprimento de regime de plantão, de 12 (doze) | 1.763,00 | 985,00 | 590,00 | 290,00 | 0,00 |
+|  | horas semanais entre as 7:00 horas das segundas e |  |  |  |  |  |
+|  | 19:00 horas das sextas-feiras, mais 12 (doze) |  |  |  |  |  |
+|  | horas semanais entre as 19:00 horas das |  |  |  |  |  |
+|  | sextas-feiras e 07:00 horas das segundas-feiras. |  |  |  |  |  |
+| C | Em cumprimento de regime de plantão de 24 (vinte e | 2.213,00 | 1.236,00 | 741,00 | 364,00 | 0,00 |
+|  | quatro) horas semanais entre as 19:00 horas das |  |  |  |  |  |
+|  | sextas-feiras e às 07:00 horas das |  |  |  |  |  |
+|  | segundas-feiras. |  |  |  |  |  |
 
 Tabela com redação dada pela Lei nº 9.816, de 18/1/2010 (Art. 7º)
 

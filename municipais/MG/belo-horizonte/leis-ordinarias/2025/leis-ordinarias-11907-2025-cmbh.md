@@ -38,11 +38,10 @@ O Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 “ANEXO I DIA COMEMORATIVO G - Dias comemorativos de julho:
 
-|DATA |COMEMORAÇÃO |
-
-|7/7 |Dia Municipal de Prevenção às Infecções Sexualmente Transmissíveis - |
-
-| |ISTs |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 7/7 | Dia Municipal de Prevenção às Infecções Sexualmente Transmissíveis - |
+|  | ISTs |
 
 .”.
 

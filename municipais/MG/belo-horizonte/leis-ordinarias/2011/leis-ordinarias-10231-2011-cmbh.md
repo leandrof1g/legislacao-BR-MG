@@ -72,7 +72,7 @@ Prefeito de Belo Horizonte
 
 (Originária do Projeto de Lei nº 1.114/10, de autoria do Executivo)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Anexos e outros documentos
 

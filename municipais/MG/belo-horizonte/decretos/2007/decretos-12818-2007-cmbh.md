@@ -52,29 +52,19 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - A Feira de Arte e Artesanato da Avenida Afonso Pena funcionará aos domingos, na Avenida Afonso Pena, no trecho compreendido entre as Ruas da Bahia e Guajajaras, observando rigorosamente a seguinte escala de horários:
 
-|4:00 horas |Fechamento, pela BHTRANS, da Avenida Afonso Pena, entre as Ruas da Bahia e Guajajaras, para início da |
-
-| |montagem das barracas. |
-
-|5:00 horas |Início da montagem das barracas pelos expositores e/ou montadores.* |
-
-|5:00 às 6:30 horas |Permissão de acesso de veículos de expositores devidamente credenciados para descarregar mercadorias |
-
-| |em local previamente definido (baias do lado direito da Avenida Afonso Pena).** |
-
-|8 h |Início da comercialização dos produtos. |
-
-|14:00 horas |Encerramento da exposição e venda de produtos. |
-
-|15:00 |Abertura das grades para acesso dos veículos de expositores devidamente credenciados, para recolherem |
-
-| |as mercadorias. |
-
-|14:00 às 15:00 horas |Desmontagem das barracas pelos expositores e/ou desmontadores. |
-
-|15:30 horas |Liberação da Avenida Afonso Pena para limpeza. |
-
-|17:00 horas |Liberação, pela BHTRANS, da Avenida Afonso Pena para o tráfego de veículos. |
+| 4:00 horas | Fechamento, pela BHTRANS, da Avenida Afonso Pena, entre as Ruas da Bahia e Guajajaras, para início da |
+| --- | --- |
+|  | montagem das barracas. |
+| 5:00 horas | Início da montagem das barracas pelos expositores e/ou montadores.* |
+| 5:00 às 6:30 horas | Permissão de acesso de veículos de expositores devidamente credenciados para descarregar mercadorias |
+|  | em local previamente definido (baias do lado direito da Avenida Afonso Pena).** |
+| 8 h | Início da comercialização dos produtos. |
+| 14:00 horas | Encerramento da exposição e venda de produtos. |
+| 15:00 | Abertura das grades para acesso dos veículos de expositores devidamente credenciados, para recolherem |
+|  | as mercadorias. |
+| 14:00 às 15:00 horas | Desmontagem das barracas pelos expositores e/ou desmontadores. |
+| 15:30 horas | Liberação da Avenida Afonso Pena para limpeza. |
+| 17:00 horas | Liberação, pela BHTRANS, da Avenida Afonso Pena para o tráfego de veículos. |
 
 *Os expositores e montadores deverão evitar o excesso de barulho, para não incomodar os moradores.
 
@@ -84,35 +74,22 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - A Feira de Arte e Artesanato da Avenida Afonso Pena funcionará aos domingos, na Avenida Afonso Pena, no trecho compreendido entre as Ruas da Bahia e Guajajaras, observando rigorosamente a seguinte escala de horários:
 
-|4 às 5h |Fechamento, pela BHTRANS, da Avenida Afonso Pena, entre as Ruas da Bahia e Guajajaras, para início da montagem das |
-
-| |barracas. |
-
-|5 h |Início da montagem das barracas pelos expositores e/ou montadores.* |
-
-|5 às 6h30 |Permissão de acesso de veículos de expositores devidamente credenciados para descarregar mercadorias em local previamente |
-
-| |definido (baias do lado direito da Avenida Afonso Pena). |
-
-|7h |Horário máximo de permanência dos veículos credenciados no interior da feira. |
-
-|8h |Horário máximo para ocupação do espaço pelo feirante e início da comercialização dos produtos. |
-
-| | |
-
-|14h |Encerramento da exposição e venda de produtos. |
-
-|14h30 |Abertura das grades para acesso dos veículos de expositores e/ou montadores, devidamente credenciados, para recolherem as |
-
-| |mercadorias e barracas. |
-
-|14 às 15h |Desmontagem das barracas pelos expositores e/ou desmontadores. |
-
-|14h30 |Liberação da Avenida Afonso Pena para limpeza. |
-
-|17 h |Liberação, pela BHTRANS, da Avenida Afonso Pena para o tráfego de veículos. |
-
-| |*Os expositores e montadores deverão evitar o excesso de barulho, para não incomodar os moradores." (NR) |
+| 4 às 5h | Fechamento, pela BHTRANS, da Avenida Afonso Pena, entre as Ruas da Bahia e Guajajaras, para início da montagem das |
+| --- | --- |
+|  | barracas. |
+| 5 h | Início da montagem das barracas pelos expositores e/ou montadores.* |
+| 5 às 6h30 | Permissão de acesso de veículos de expositores devidamente credenciados para descarregar mercadorias em local previamente |
+|  | definido (baias do lado direito da Avenida Afonso Pena). |
+| 7h | Horário máximo de permanência dos veículos credenciados no interior da feira. |
+| 8h | Horário máximo para ocupação do espaço pelo feirante e início da comercialização dos produtos. |
+|  |  |
+| 14h | Encerramento da exposição e venda de produtos. |
+| 14h30 | Abertura das grades para acesso dos veículos de expositores e/ou montadores, devidamente credenciados, para recolherem as |
+|  | mercadorias e barracas. |
+| 14 às 15h | Desmontagem das barracas pelos expositores e/ou desmontadores. |
+| 14h30 | Liberação da Avenida Afonso Pena para limpeza. |
+| 17 h | Liberação, pela BHTRANS, da Avenida Afonso Pena para o tráfego de veículos. |
+|  | *Os expositores e montadores deverão evitar o excesso de barulho, para não incomodar os moradores." (NR) |
 
 **Art. 1º** com redação dada pelo Decreto nº 13.099, de 24/3/2008 (Art. 1º)
 
@@ -386,6 +363,5 @@ Prefeito de Belo Horizonte
 
 ANEXO II
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]

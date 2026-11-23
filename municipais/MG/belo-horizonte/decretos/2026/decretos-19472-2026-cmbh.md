@@ -74,71 +74,40 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2046.339039.2.550.000 |1.056.823,00 |
-
-|2200.12.361.0168.2046.339039.2.550.000 |2.851.528,00 |
-
-|2200.12.365.0169.2542.339032.2.550.000 |7.552.611,00 |
-
-|2200.12.361.0168.2080.339032.2.550.000 |2.978.400,00 |
-
-|2200.12.361.0167.2080.339032.2.550.000 |31.098,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.339039.2.501.784 |420.949,32 |
-
-|2100.06.181.0109.2803.339030.2.501.784 |114.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0310.2902.456782.2.634.790 |1.824.983,10 |
-
-|2302.10.302.0114.2951.339091.2.659.000 |343.815,76 |
-
-|2302.10.302.0117.1216.449092.2.634.791 |150.000,00 |
-
-|2302.10.302.0117.1216.449051.2.634.791 |2.850.000,00 |
-
-|2302.10.301.0310.2950.339040.2.634.791 |1.110.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.391.0155.2375.339093.2.700.000 |8,24 |
-
-|3100.13.391.0155.2375.339093.2.700.510 |18.706,08 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1400.449051.2.500.000 |833.185,59 |
-
-|2700.17.512.0066.1203.449051.2.754.790 |1.100.000,00 |
-
-|2700.15.451.0062.1230.449051.2.754.790 |15.506.000,00 |
-
-|2700.15.451.0062.1330.449051.2.754.790 |357.773,95 |
-
-|2700.04.122.0044.1219.449051.2.500.000 |326.361,83 |
-
-|2700.04.122.0044.1219.449051.2.700.000 |7.934.829,06 |
-
-|2700.04.122.0044.1219.449051.2.700.520 |24.565,37 |
-
-|2700.13.391.0319.1215.449051.2.500.000 |5.256.636,01 |
-
-|2700.13.391.0319.1215.449051.2.501.000 |1.327.865,24 |
-
-|2700.17.512.0066.1400.449051.2.701.000 |6.105.005,63 |
-
-|TOTAL DA SUPLEMENTAÇÃO |60.075.145,18 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2046.339039.2.550.000 | 1.056.823,00 |
+| 2200.12.361.0168.2046.339039.2.550.000 | 2.851.528,00 |
+| 2200.12.365.0169.2542.339032.2.550.000 | 7.552.611,00 |
+| 2200.12.361.0168.2080.339032.2.550.000 | 2.978.400,00 |
+| 2200.12.361.0167.2080.339032.2.550.000 | 31.098,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.339039.2.501.784 | 420.949,32 |
+| 2100.06.181.0109.2803.339030.2.501.784 | 114.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0310.2902.456782.2.634.790 | 1.824.983,10 |
+| 2302.10.302.0114.2951.339091.2.659.000 | 343.815,76 |
+| 2302.10.302.0117.1216.449092.2.634.791 | 150.000,00 |
+| 2302.10.302.0117.1216.449051.2.634.791 | 2.850.000,00 |
+| 2302.10.301.0310.2950.339040.2.634.791 | 1.110.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.391.0155.2375.339093.2.700.000 | 8,24 |
+| 3100.13.391.0155.2375.339093.2.700.510 | 18.706,08 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1400.449051.2.500.000 | 833.185,59 |
+| 2700.17.512.0066.1203.449051.2.754.790 | 1.100.000,00 |
+| 2700.15.451.0062.1230.449051.2.754.790 | 15.506.000,00 |
+| 2700.15.451.0062.1330.449051.2.754.790 | 357.773,95 |
+| 2700.04.122.0044.1219.449051.2.500.000 | 326.361,83 |
+| 2700.04.122.0044.1219.449051.2.700.000 | 7.934.829,06 |
+| 2700.04.122.0044.1219.449051.2.700.520 | 24.565,37 |
+| 2700.13.391.0319.1215.449051.2.500.000 | 5.256.636,01 |
+| 2700.13.391.0319.1215.449051.2.501.000 | 1.327.865,24 |
+| 2700.17.512.0066.1400.449051.2.701.000 | 6.105.005,63 |
+| TOTAL DA SUPLEMENTAÇÃO | 60.075.145,18 |
 
 ANEXO II
 
@@ -206,26 +175,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares não contidas nos arts. 4º e 5º|do valor do Orçamento |
-
-|da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 16.781.634,08 |
-
-|Valor do decreto publicado nesta data |R$ 60.075.145,18 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 76.856.779,26 |
-
-|Saldo atual de créditos suplementares |R$ 2.415.578.288,34 |
-
-|Percentual utilizado |3,08% |
-
-|Atualizado em 29/01/2026 às 11:44:48 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares não contidas nos arts. 4º e 5º | do valor do Orçamento |
+| da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 16.781.634,08 |
+| Valor do decreto publicado nesta data | R$ 60.075.145,18 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 76.856.779,26 |
+| Saldo atual de créditos suplementares | R$ 2.415.578.288,34 |
+| Percentual utilizado | 3,08% |
+| Atualizado em 29/01/2026 às 11:44:48 |  |

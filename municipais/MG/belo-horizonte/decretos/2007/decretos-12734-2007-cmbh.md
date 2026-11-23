@@ -60,24 +60,11 @@ ANEXO I
 
 2ª PARCELA DA SUBVENÇÃO DE ASSISTÊNCIA AO EDUCANDO – 2007
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
 2ª PARCELA DA SUBVENÇÃO DE CONSERVAÇÃO E MANUTENÇÃO - 2007
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

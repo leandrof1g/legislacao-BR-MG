@@ -58,47 +58,31 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III|R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31| |
-
-|da Lei nº 11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|3802.23.692.0132.2307.339093.1.701.000 |4.303,28 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0113.2916.339035.1.500.000 |5.800,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.241.0127.2697.339030.2.500.000 |50.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |60.103,28 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 |  |
+| da Lei nº 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 3802.23.692.0132.2307.339093.1.701.000 | 4.303,28 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0113.2916.339035.1.500.000 | 5.800,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.241.0127.2697.339030.2.500.000 | 50.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 60.103,28 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, | |
-
-|conforme autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de | |
-
-|2024: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0019.2308.339039.2.500.000 |50.000,00 |
-
-|1011.08.245.0020.2403.339139.1.500.000 |5.800,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.391.0155.2375.339039.1.701.000 |4.303,28 |
-
-|TOTAL DA ANULAÇÃO |60.103,28 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, |  |
+| conforme autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de |  |
+| 2024: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0019.2308.339039.2.500.000 | 50.000,00 |
+| 1011.08.245.0020.2403.339139.1.500.000 | 5.800,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.391.0155.2375.339039.1.701.000 | 4.303,28 |
+| TOTAL DA ANULAÇÃO | 60.103,28 |
 
 ANEXO II
 
@@ -126,20 +110,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos especiais abertos anteriormente |1.188.087.254,50 |
-
-|Valor do Decreto publicado nesta data |60.103,28 |
-
-|Valor total dos créditos especiais abertos no exercício |1.188.147.357,78 |
-
-|Saldo atual do limite autorizado |860.879.869,15 |
-
-|Percentual utilizado |57,99% |
-
-|Atualizado em 02/10/2025 às 10:02:44 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos especiais abertos anteriormente | 1.188.087.254,50 |
+| Valor do Decreto publicado nesta data | 60.103,28 |
+| Valor total dos créditos especiais abertos no exercício | 1.188.147.357,78 |
+| Saldo atual do limite autorizado | 860.879.869,15 |
+| Percentual utilizado | 57,99% |
+| Atualizado em 02/10/2025 às 10:02:44 |  |

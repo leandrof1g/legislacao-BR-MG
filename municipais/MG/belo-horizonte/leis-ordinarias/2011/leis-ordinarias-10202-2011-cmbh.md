@@ -86,11 +86,10 @@ XV – observar os deveres estabelecidos na Lei nº 7.169, de 30 de agosto de 19
 
 “ANEXO I CARGOS DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE
 
-|CARGOS |NÚMERO DE CARGOS |
-
-|(...) |(...) |
-
-|Auditor |50 |
+| CARGOS | NÚMERO DE CARGOS |
+| --- | --- |
+| (...) | (...) |
+| Auditor | 50 |
 
 ” (NR).
 
@@ -124,39 +123,24 @@ HABILITAÇÃO: Curso de graduação completo de nível superior, em nível de ba
 
 **§ 3º** - A partir da publicação desta Lei e conforme os critérios de eficiência e produtividade mencionados no § 1º deste artigo, os vencimentos constantes na Tabela do Anexo III do Plano de Carreira da Área de Atividades de Administração Geral da Prefeitura de Belo Horizonte, instituído pela Lei nº 8.690/03, para o cargo público efetivo de Auditor, conforme a sua respectiva jornada, serão reajustados para os seguintes valores:
 
-|AUDITOR |
-
-|NÍVEL |JORNADA DE 6 HORAS |JORNADA DE 8 HORAS |
-
-|1 |2.406,00 |3.200,00 |
-
-|2 |2.526,30 |3.360,00 |
-
-|3 |2.652,62 |3.528,00 |
-
-|4 |2.785,25 |3.704,40 |
-
-|5 |2.924,51 |3.889,62 |
-
-|6 |3.070,74 |4.084,10 |
-
-|7 |3.224,28 |4.288,31 |
-
-|8 |3.385,49 |4.502,72 |
-
-|9 |3.554,76 |4.727,86 |
-
-|10 |3.732,50 |4.964,25 |
-
-|11 |3.919,13 |5.212,46 |
-
-|12 |4.115,08 |5.473,09 |
-
-|13 |4.320,84 |5.746,74 |
-
-|14 |4.536,88 |6.034,08 |
-
-|15 |4.763,72 |6.335,78 |
+| AUDITOR |  |  |
+| --- | --- | --- |
+| NÍVEL | JORNADA DE 6 HORAS | JORNADA DE 8 HORAS |
+| 1 | 2.406,00 | 3.200,00 |
+| 2 | 2.526,30 | 3.360,00 |
+| 3 | 2.652,62 | 3.528,00 |
+| 4 | 2.785,25 | 3.704,40 |
+| 5 | 2.924,51 | 3.889,62 |
+| 6 | 3.070,74 | 4.084,10 |
+| 7 | 3.224,28 | 4.288,31 |
+| 8 | 3.385,49 | 4.502,72 |
+| 9 | 3.554,76 | 4.727,86 |
+| 10 | 3.732,50 | 4.964,25 |
+| 11 | 3.919,13 | 5.212,46 |
+| 12 | 4.115,08 | 5.473,09 |
+| 13 | 4.320,84 | 5.746,74 |
+| 14 | 4.536,88 | 6.034,08 |
+| 15 | 4.763,72 | 6.335,78 |
 
 **§ 4º** - Os servidores públicos admitidos no cargo público efetivo de Auditor após a publicação desta Lei cumprirão jornada de 40 (quarenta) horas semanais, fazendo jus aos vencimentos-base previstos para essa jornada e ao limite máximo de pontos a que se refere o § 1º deste artigo.
 

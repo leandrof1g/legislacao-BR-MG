@@ -68,57 +68,33 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|3802.20.608.0308.2121.449052.2.710.610 |40.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0020.2403.339039.2.660.000 |5.000.000,00 |
-
-|3701.08.245.0019.2308.449052.2.660.000 |2.000.000,00 |
-
-|3701.08.245.0019.2308.339039.2.660.000 |3.229.510,24 |
-
-|3701.08.245.0020.2878.449052.2.660.000 |800.000,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0226.1207.449051.2.759.709 |196.000,00 |
-
-|2704.16.482.0062.1330.449051.2.759.709 |610.000,00 |
-
-|2704.16.482.0225.1399.449051.2.759.709 |952.000,00 |
-
-|2704.16.482.0066.1400.449051.2.759.709 |117.000,00 |
-
-|2704.16.482.0066.2954.449039.2.759.709 |120.000,00 |
-
-|2704.16.482.0066.2954.449051.2.759.709 |1.928.000,00 |
-
-|2704.16.482.0225.1231.449039.2.759.709 |627.221,52 |
-
-|2704.16.482.0225.1231.449051.2.759.709 |20.217.000,00 |
-
-|2704.16.482.0225.1403.449051.2.759.709 |3.242.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1203.449093.2.754.790 |359.978,42 |
-
-|2700.17.512.0066.1203.449093.2.754.791 |1.496,79 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|3503.26.452.0060.2567.449051.2.501.784 |68.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |39.508.206,97 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 3802.20.608.0308.2121.449052.2.710.610 | 40.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0020.2403.339039.2.660.000 | 5.000.000,00 |
+| 3701.08.245.0019.2308.449052.2.660.000 | 2.000.000,00 |
+| 3701.08.245.0019.2308.339039.2.660.000 | 3.229.510,24 |
+| 3701.08.245.0020.2878.449052.2.660.000 | 800.000,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0226.1207.449051.2.759.709 | 196.000,00 |
+| 2704.16.482.0062.1330.449051.2.759.709 | 610.000,00 |
+| 2704.16.482.0225.1399.449051.2.759.709 | 952.000,00 |
+| 2704.16.482.0066.1400.449051.2.759.709 | 117.000,00 |
+| 2704.16.482.0066.2954.449039.2.759.709 | 120.000,00 |
+| 2704.16.482.0066.2954.449051.2.759.709 | 1.928.000,00 |
+| 2704.16.482.0225.1231.449039.2.759.709 | 627.221,52 |
+| 2704.16.482.0225.1231.449051.2.759.709 | 20.217.000,00 |
+| 2704.16.482.0225.1403.449051.2.759.709 | 3.242.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1203.449093.2.754.790 | 359.978,42 |
+| 2700.17.512.0066.1203.449093.2.754.791 | 1.496,79 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3503.26.452.0060.2567.449051.2.501.784 | 68.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 39.508.206,97 |
 
 ANEXO II
 
@@ -172,26 +148,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 344.520.351,35 |
-
-|Valor do decreto publicado nesta data |R$ 39.508.206,97 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 384.028.558,32 |
-
-|Saldo atual de créditos suplementares |R$ 2.108.406.509,28 |
-
-|Percentual utilizado |15,41% |
-
-|Atualizado em 26/02/2026 às 12:24:35 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 344.520.351,35 |
+| Valor do decreto publicado nesta data | R$ 39.508.206,97 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 384.028.558,32 |
+| Saldo atual de créditos suplementares | R$ 2.108.406.509,28 |
+| Percentual utilizado | 15,41% |
+| Atualizado em 26/02/2026 às 12:24:35 |  |

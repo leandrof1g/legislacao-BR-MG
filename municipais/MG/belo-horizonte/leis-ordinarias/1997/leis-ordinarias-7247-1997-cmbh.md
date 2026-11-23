@@ -60,17 +60,13 @@ XI - realizar diligências externas.
 
 **Art. 2º** - O Sub-grupo de Atividades Jurídicas, descrito no Anexo II da Lei nº 5.447/88, com a redação dada pelo art. 77 da Lei nº 6.352/93, fica acrescido dos cargos criados no art. 1º, passando a ter a seguinte redação:
 
-|CÓDIGO DENOMINAÇÃO |FAIXA DE VENCIMENTO |
-
-|SUBGRUPO DE ATICIDADES JURÍDICAS | |
-
-|(...) |(...) |
-
-|CORREGEDOR MUNICIPAL I |XI |
-
-|CORREGEDOR MUNICIPAL II |XII |
-
-|CORREGEDOR MUNICIPAL III |XIII |
+| CÓDIGO DENOMINAÇÃO | FAIXA DE VENCIMENTO |
+| --- | --- |
+| SUBGRUPO DE ATICIDADES JURÍDICAS |  |
+| (...) | (...) |
+| CORREGEDOR MUNICIPAL I | XI |
+| CORREGEDOR MUNICIPAL II | XII |
+| CORREGEDOR MUNICIPAL III | XIII |
 
 **§ 1º** - As tabelas de vencimentos e de pisos de remuneração dos cargos de Corregedor Municipal I, II, III serão equivalentes às dos cargos de Procurador Municipal I, II e III, e os critérios de movimentação nas classes serão fixados no Estatuto dos Servidores Públicos do Município e na lei instituidora do Plano de Carreira dos Corregedores Municipais.
 

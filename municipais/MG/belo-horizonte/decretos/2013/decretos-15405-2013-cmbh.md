@@ -108,46 +108,26 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|ITEM |DESCRIÇÃO DO SERVIÇO / REFERÊNCIA AO ACESSO |PREÇO |
-
-|1 - Acesso aos Jardins Zoológico e Botânico: |
-
-|1.1 – Pedestre – ingresso por pessoa |
-
-|1.1.1 |de terça-feira a sexta-feira |R$ 3,00 |
-
-|1.1.2 |sábado |R$ 4,00 |
-
-|1.1.3 |domingo e feriado |R$ 6,00 |
-
-|1.2 - Veículos – autorização para circular nas áreas internas: |
-
-|1.2.1 |automóvel (capacidade máxima de 7 passageiros): |
-
-|1.2.1.1 |de terça-feira a sábado |R$ 10,00 |
-
-|1.2.1.2 |domingo e feriado |R$ 15,00 |
-
-|1.2.2 |motocicleta: |
-
-|1.2.2.1 |de terça-feira a sábado |R$ 4,00 |
-
-|1.2.2.2 |domingo e feriado |R$ 8,00 |
-
-|1.2.3 |Veículo médio (capacidade acima de 7 passageiros e micro-ônibus): |
-
-|1.2.3.1 |de terça-feira a sábado |R$ 30,00 |
-
-|1.2.3.2 |domingo e feriado |R$ 40,00 |
-
-|1.2.4 |Ônibus de Escola Particular e de Turismo |
-
-|1.2.4.1 |de terça-feira a sábado |R$ 50,00 |
-
-|1.2.4.2 |domingo e feriado |R$ 70,00 |
-
-|2 - Acesso ao Aquário do Rio São Francisco |
-
-|2.1 – Pedestre – ingresso por pessoa |
-
-|2.1.1 |de terça-feira a domingo e feriado |R$ 6,00 |
+| ITEM | DESCRIÇÃO DO SERVIÇO / REFERÊNCIA AO ACESSO | PREÇO |
+| --- | --- | --- |
+| 1 - Acesso aos Jardins Zoológico e Botânico: |  |  |
+| 1.1 – Pedestre – ingresso por pessoa |  |  |
+| 1.1.1 | de terça-feira a sexta-feira | R$ 3,00 |
+| 1.1.2 | sábado | R$ 4,00 |
+| 1.1.3 | domingo e feriado | R$ 6,00 |
+| 1.2 - Veículos – autorização para circular nas áreas internas: |  |  |
+| 1.2.1 | automóvel (capacidade máxima de 7 passageiros): |  |
+| 1.2.1.1 | de terça-feira a sábado | R$ 10,00 |
+| 1.2.1.2 | domingo e feriado | R$ 15,00 |
+| 1.2.2 | motocicleta: |  |
+| 1.2.2.1 | de terça-feira a sábado | R$ 4,00 |
+| 1.2.2.2 | domingo e feriado | R$ 8,00 |
+| 1.2.3 | Veículo médio (capacidade acima de 7 passageiros e micro-ônibus): |  |
+| 1.2.3.1 | de terça-feira a sábado | R$ 30,00 |
+| 1.2.3.2 | domingo e feriado | R$ 40,00 |
+| 1.2.4 | Ônibus de Escola Particular e de Turismo |  |
+| 1.2.4.1 | de terça-feira a sábado | R$ 50,00 |
+| 1.2.4.2 | domingo e feriado | R$ 70,00 |
+| 2 - Acesso ao Aquário do Rio São Francisco |  |  |
+| 2.1 – Pedestre – ingresso por pessoa |  |  |
+| 2.1.1 | de terça-feira a domingo e feriado | R$ 6,00 |

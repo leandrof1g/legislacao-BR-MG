@@ -106,45 +106,31 @@ VI - inobservância de qualquer das exigências estabelecidas na Lei nº 8.405, 
 
 CONTRIBUINTE PESSOA FÍSICA
 
-|QUANTIDADE DE PARCELAS |DEPÓSITO |VALOR MÍNIMO DA PARCELA |FAIXA DE VALORES |
-
-| |INICIAL | | |
-
-|De 2 a 10 |10% |15,00 |Entre 33,33 e 289,46 |
-
-|De 11 a 20 |5% |25,00 |Entre 289,47 e 773,67 |
-
-|De 21 a 30 |5% |35,00 |Entre 773,68 e 1.438,13 |
-
-|De 31 a 40 |3% |45,00 |Entre 1.438,14 e 2.324,73 |
-
-|De 41 a 50 |3% |55,00 |Entre 2.324,74 e 3.382,64 |
-
-|De 51 a 59 |2% |65,00 |Entre 3.382,65 e 3.979,58 |
-
-|Em 60 |2% |Maior que 65,00 |Acima de 3.979,59 |
+| QUANTIDADE DE PARCELAS | DEPÓSITO | VALOR MÍNIMO DA PARCELA | FAIXA DE VALORES |
+| --- | --- | --- | --- |
+|  | INICIAL |  |  |
+| De 2 a 10 | 10% | 15,00 | Entre 33,33 e 289,46 |
+| De 11 a 20 | 5% | 25,00 | Entre 289,47 e 773,67 |
+| De 21 a 30 | 5% | 35,00 | Entre 773,68 e 1.438,13 |
+| De 31 a 40 | 3% | 45,00 | Entre 1.438,14 e 2.324,73 |
+| De 41 a 50 | 3% | 55,00 | Entre 2.324,74 e 3.382,64 |
+| De 51 a 59 | 2% | 65,00 | Entre 3.382,65 e 3.979,58 |
+| Em 60 | 2% | Maior que 65,00 | Acima de 3.979,59 |
 
 * As faixas de valores deverão ser observadas em função do montante a parcelar, incluindo o "Depósito Inicial." * O parcelamento poderá ser efetuado de duas até a quantidade máxima de parcelas, desde que observado o valor mínimo da parcela;
 
 CONTRIBUINTE PESSOA JURÍDICA
 
-|QUANTIDADE DE PARCELAS |DEPÓSITO |VALOR MÍNIMO DA PARCELA |FAIXA DE VALORES |
-
-| |INICIAL | | |
-
-|De 2 a 10 |10% |35,00 |Entre 77,78 e 752,62 |
-
-|De 11 a 20 |5% |65,00 |Entre 752,63 e 2.099,99 |
-
-|De 21 a 30 |5% |95,00 |Entre 2.100,00 e 3.994,84 |
-
-|De 31 a 40 |3% |125,00 |Entre 3.994,85 e 6.974,22 |
-
-|De 41 a 50 |3% |165,00 |Entre 6.974,23 e 10.147,95 |
-
-|De 51 a 59 |2% |195,00 |Entre 10.147,96 e 11.938,77 |
-
-|Em 60 |2% |Maior que 195,00 |Acima de 11.938,78 |
+| QUANTIDADE DE PARCELAS | DEPÓSITO | VALOR MÍNIMO DA PARCELA | FAIXA DE VALORES |
+| --- | --- | --- | --- |
+|  | INICIAL |  |  |
+| De 2 a 10 | 10% | 35,00 | Entre 77,78 e 752,62 |
+| De 11 a 20 | 5% | 65,00 | Entre 752,63 e 2.099,99 |
+| De 21 a 30 | 5% | 95,00 | Entre 2.100,00 e 3.994,84 |
+| De 31 a 40 | 3% | 125,00 | Entre 3.994,85 e 6.974,22 |
+| De 41 a 50 | 3% | 165,00 | Entre 6.974,23 e 10.147,95 |
+| De 51 a 59 | 2% | 195,00 | Entre 10.147,96 e 11.938,77 |
+| Em 60 | 2% | Maior que 195,00 | Acima de 11.938,78 |
 
 *As faixas de valores deverão ser observadas em função do montante a parcelar, incluindo o "Depósito Inicial." * O parcelamento poderá ser efetuado de duas até a quantidade máxima de parcelas, desde que observado o valor mínimo da parcela; ( NR)"
 

@@ -54,12 +54,9 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I – A favor da Superintendência de Desenvolvimento da Capital – Sudecap –, conforme |R$ |
-
-|autorização contida no inciso II do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de | |
-
-|março de 1964 e no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2702.15.451.233.1.396.4490.0030 |26.923,58 |
-
-|TOTAL DA SUPLEMENTAÇÃO |26.923,58 |
+| I – A favor da Superintendência de Desenvolvimento da Capital – Sudecap –, conforme | R$ |
+| --- | --- |
+| autorização contida no inciso II do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de |  |
+| março de 1964 e no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2702.15.451.233.1.396.4490.0030 | 26.923,58 |
+| TOTAL DA SUPLEMENTAÇÃO | 26.923,58 |

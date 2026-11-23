@@ -58,107 +58,61 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339030.1.500.000 |38.766.094,35 |
-
-|2200.12.361.0168.2080.456782.1.500.000 |18.000.000,00 |
-
-|2200.12.365.0169.2542.456782.1.500.000 |3.596.838,00 |
-
-|2200.12.122.0140.2317.339035.1.500.000 |2.034.719,04 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339046.1.500.000 |355.857,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |62.753.508,39 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339030.1.500.000 | 38.766.094,35 |
+| 2200.12.361.0168.2080.456782.1.500.000 | 18.000.000,00 |
+| 2200.12.365.0169.2542.456782.1.500.000 | 3.596.838,00 |
+| 2200.12.122.0140.2317.339035.1.500.000 | 2.034.719,04 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339046.1.500.000 | 355.857,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 62.753.508,39 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |
-
-|3304.26.452.0060.2567.339039.1.500.000 |628.222,70 |
-
-|3304.26.452.0060.2567.339037.1.500.000 |1.668.000,00 |
-
-|3304.26.452.0060.2567.339091.1.500.000 |1.032.739,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.0089.3137.339091.1.500.000 |9.126.150,00 |
-
-|4001.28.846.0089.3137.449091.1.500.000 |5.976.800,00 |
-
-|4001.28.846.0089.3137.339093.1.500.000 |8.200.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2542.339030.1.500.000 |1.944.627,90 |
-
-|2200.12.365.0169.2542.339039.1.500.000 |1.800.000,67 |
-
-|2200.12.367.0167.2701.339039.1.500.000 |832.857,93 |
-
-|2200.12.367.0167.2046.339039.1.500.000 |562.740,00 |
-
-|2200.12.361.0168.2046.445042.1.500.000 |1.065.248,54 |
-
-|2200.12.367.0167.2386.339030.1.500.000 |624.100,00 |
-
-|2200.12.361.0167.2701.339037.1.500.000 |2.153.296,65 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0302.1334.339039.1.500.000 |893.205,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.12.361.0085.2602.339040.1.500.000 |1.108.034,00 |
-
-|0604.12.361.0085.2940.339040.1.500.000 |1.884.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339046.1.500.000 |355.857,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.19.572.0148.1373.459165.1.500.000 |2.810.486,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449051.1.500.000 |4.124.000,00 |
-
-|2700.12.365.0169.1211.449051.1.500.000 |285.000,00 |
-
-|2700.15.452.0057.2770.339039.1.500.000 |1.457.000,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0305.2910.336045.1.500.000 |5.300.000,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.131.0015.2007.339039.1.500.000 |2.880.000,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2934.339039.1.500.000 |856.143,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.339039.1.500.000 |5.185.000,00 |
-
-|TOTAL DA ANULAÇÃO |62.753.508,39 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3304.26.452.0060.2567.339039.1.500.000 | 628.222,70 |
+| 3304.26.452.0060.2567.339037.1.500.000 | 1.668.000,00 |
+| 3304.26.452.0060.2567.339091.1.500.000 | 1.032.739,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.0089.3137.339091.1.500.000 | 9.126.150,00 |
+| 4001.28.846.0089.3137.449091.1.500.000 | 5.976.800,00 |
+| 4001.28.846.0089.3137.339093.1.500.000 | 8.200.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2542.339030.1.500.000 | 1.944.627,90 |
+| 2200.12.365.0169.2542.339039.1.500.000 | 1.800.000,67 |
+| 2200.12.367.0167.2701.339039.1.500.000 | 832.857,93 |
+| 2200.12.367.0167.2046.339039.1.500.000 | 562.740,00 |
+| 2200.12.361.0168.2046.445042.1.500.000 | 1.065.248,54 |
+| 2200.12.367.0167.2386.339030.1.500.000 | 624.100,00 |
+| 2200.12.361.0167.2701.339037.1.500.000 | 2.153.296,65 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0302.1334.339039.1.500.000 | 893.205,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.12.361.0085.2602.339040.1.500.000 | 1.108.034,00 |
+| 0604.12.361.0085.2940.339040.1.500.000 | 1.884.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339046.1.500.000 | 355.857,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.19.572.0148.1373.459165.1.500.000 | 2.810.486,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449051.1.500.000 | 4.124.000,00 |
+| 2700.12.365.0169.1211.449051.1.500.000 | 285.000,00 |
+| 2700.15.452.0057.2770.339039.1.500.000 | 1.457.000,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0305.2910.336045.1.500.000 | 5.300.000,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.131.0015.2007.339039.1.500.000 | 2.880.000,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2934.339039.1.500.000 | 856.143,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.339039.1.500.000 | 5.185.000,00 |
+| TOTAL DA ANULAÇÃO | 62.753.508,39 |
 
 ANEXO II
 
@@ -186,24 +140,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.233.705.681,05 |
-
-|Valor do Decreto publicado nesta data |R$ 62.753.508,39 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.296.459.189,44 |
-
-|Saldo atual de créditos suplementares |R$ 686.873.582,96 |
-
-|Percentual utilizado |65,37% |
-
-|Atualizado em 30/12/2024 às 11:56:51 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.233.705.681,05 |
+| Valor do Decreto publicado nesta data | R$ 62.753.508,39 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.296.459.189,44 |
+| Saldo atual de créditos suplementares | R$ 686.873.582,96 |
+| Percentual utilizado | 65,37% |
+| Atualizado em 30/12/2024 às 11:56:51 |  |

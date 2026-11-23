@@ -150,28 +150,17 @@ Sérgio Ferrara
 
 Prefeito de Belo Horizonte
 
-| |
-
-|ANEXO I A QUE SE REFERE A LEI Nº 5282 DE 03 DE OUTUBRO DE 1988 |
-
-| |Denominação dos Grupos e |Código das Classes |Símbolo de Vencimento| |Composição das classes |Forma de Recrutamento |
-
-|Grupo |das Classes | |ou Salário |Regime Jurídico | | |
-
-| | | | | |Cargos |Empregos | |
-
-|1 |
-
-|Administração Geral |
-
-|1.1 |Provimento em Comissão | | | | | | |
-
-| |Diretor II | | | | | | |
-
-| |Diretor I |DA-23 |XXI |Estatutário |02 |- |Amplo |
-
-| |Chefe de Serviço |DA-22 |XX |Estatutário |02 |- |Amplo |
-
-| |Chefe de Seção |DA-15 |XX |Estatutário |05 |- |Limitado |
-
-| | |DA-14 |XIX |Estatutário |05 |- |Limitado |
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ANEXO I A QUE SE REFERE A LEI Nº 5282 DE 03 DE OUTUBRO DE 1988 |  |  |  |  |  |  |  |
+|  | Denominação dos Grupos e | Código das Classes | Símbolo de Vencimento |  | Composição das classes | Forma de Recrutamento |  |
+| Grupo | das Classes |  | ou Salário | Regime Jurídico |  |  |  |
+|  |  |  |  |  | Cargos | Empregos |  |
+| 1 |  |  |  |  |  |  |  |
+| Administração Geral |  |  |  |  |  |  |  |
+| 1.1 | Provimento em Comissão |  |  |  |  |  |  |
+|  | Diretor II |  |  |  |  |  |  |
+|  | Diretor I | DA-23 | XXI | Estatutário | 02 | - | Amplo |
+|  | Chefe de Serviço | DA-22 | XX | Estatutário | 02 | - | Amplo |
+|  | Chefe de Seção | DA-15 | XX | Estatutário | 05 | - | Limitado |
+|  |  | DA-14 | XIX | Estatutário | 05 | - | Limitado |

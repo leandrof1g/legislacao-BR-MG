@@ -42,9 +42,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 F - Dias comemorativos de junho:
 
-|DATA |COMEMORAÇÃO |
-
-|3/6 |Dia Municipal do Conselheiro de Saúde |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 3/6 | Dia Municipal do Conselheiro de Saúde |
 
 .”.
 

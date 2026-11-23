@@ -304,7 +304,8 @@ y(+) = projeções y positivas
 
 y(-) = projeções y negativas
 
-|Xp - Xc | - | dx |
+| Xp - Xc | - | dx |
+| --- | --- | --- |
 
 Cx = _________________ |∑ X (+) - ∑ X (-)
 
@@ -494,26 +495,5 @@ seus marcos implantados, poligonais, secundárias e pontos irradiados.
 
 ESQUEMA DE ARTICULAÇÃO DE FOLHAS
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

@@ -58,55 +58,35 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do § |R$ |
-
-|2º do art. 19 da Lei nº 11.899, de 17 de setembro de 2025, e no art. 1º da Lei nº | |
-
-|12.075, de 20 de julho de 2026: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2902.336783.1.500.000 |126.525,00 |
-
-|2302.10.302.0114.2951.339039.1.500.000 |280.425,00 |
-
-|Fundo Municipal de Mobilidade Urbana – FMU |
-
-|3502.26.452.0060.2837.339039.1.500.000 |130.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |536.950,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 2º do art. 19 da Lei nº 11.899, de 17 de setembro de 2025, e no art. 1º da Lei nº |  |
+| 12.075, de 20 de julho de 2026: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2902.336783.1.500.000 | 126.525,00 |
+| 2302.10.302.0114.2951.339039.1.500.000 | 280.425,00 |
+| Fundo Municipal de Mobilidade Urbana – FMU |  |
+| 3502.26.452.0060.2837.339039.1.500.000 | 130.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 536.950,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º.
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos previstos inicialmente nos órgãos relacionados abaixo, conforme autorização | |
-
-|contida no art. 2º da Lei nº 12.075, de 20 de julho de 2026: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339039.1.500.000 |20.000,00 |
-
-|2200.12.365.0169.2046.339039.1.500.000 |90.425,00 |
-
-|2200.12.361.0168.2046.339039.1.500.000 |10.000,00 |
-
-|2200.12.361.0168.2046.445051.1.500.000 |6.525,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339030.1.500.000 |100.000,00 |
-
-|2302.10.302.0114.2952.339039.1.500.000 |100.000,00 |
-
-|2302.10.302.0114.2951.339039.1.500.000 |80.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2545.339039.1.500.000 |130.000,00 |
-
-|TOTAL DA ANULAÇÃO |536.950,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos previstos inicialmente nos órgãos relacionados abaixo, conforme autorização |  |
+| contida no art. 2º da Lei nº 12.075, de 20 de julho de 2026: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339039.1.500.000 | 20.000,00 |
+| 2200.12.365.0169.2046.339039.1.500.000 | 90.425,00 |
+| 2200.12.361.0168.2046.339039.1.500.000 | 10.000,00 |
+| 2200.12.361.0168.2046.445051.1.500.000 | 6.525,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339030.1.500.000 | 100.000,00 |
+| 2302.10.302.0114.2952.339039.1.500.000 | 100.000,00 |
+| 2302.10.302.0114.2951.339039.1.500.000 | 80.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.1.500.000 | 130.000,00 |
+| TOTAL DA ANULAÇÃO | 536.950,00 |
 
 ANEXO II
 
@@ -140,20 +120,13 @@ SALDO ATUAL DE CRÉDITO SUPLEMENTAR
 
 III.1 – Demonstração do saldo de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 1º da Lei nº 12.075, de 20 de julho de 2026:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |
-
-|Art. 1º da Lei nº 12.075, de 20/07/2026 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 15.098.695,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 390.000,00 |
-
-|Valor do decreto publicado nesta data |R$ 536.950,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 926.950,00 |
-
-|Saldo atual de créditos suplementares |R$ 14.171.745,00 |
-
-|Percentual utilizado |6,14% |
-
-|Atualizado em 20/08/2026 às 10:58:18 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS |  |
+| --- | --- |
+| Art. 1º da Lei nº 12.075, de 20/07/2026 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 15.098.695,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 390.000,00 |
+| Valor do decreto publicado nesta data | R$ 536.950,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 926.950,00 |
+| Saldo atual de créditos suplementares | R$ 14.171.745,00 |
+| Percentual utilizado | 6,14% |
+| Atualizado em 20/08/2026 às 10:58:18 |  |

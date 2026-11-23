@@ -62,21 +62,15 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º |R$ |
-
-|do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei nº | |
-
-|11.742, de 13 de setembro de 2024: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339030.2.621.000 |45.082,26 |
-
-|2302.10.302.0114.2936.339092.2.621.610 |538.845,00 |
-
-|2302.10.302.0114.2936.339039.2.605.000 |1.010.134,82 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.594.062,08 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso I do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei nº |  |
+| 11.742, de 13 de setembro de 2024: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339030.2.621.000 | 45.082,26 |
+| 2302.10.302.0114.2936.339092.2.621.610 | 538.845,00 |
+| 2302.10.302.0114.2936.339039.2.605.000 | 1.010.134,82 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.594.062,08 |
 
 ANEXO II
 

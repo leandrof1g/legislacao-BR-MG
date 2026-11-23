@@ -58,31 +58,23 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da | |
-
-|Lei nº 11.801, de 2 de janeiro de 2025: | |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.339046.1.500.000 |290.000,00 |
-
-|3600.04.122.0093.2900.339046.1.500.000 |150.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |440.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da |  |
+| Lei nº 11.801, de 2 de janeiro de 2025: |  |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.339046.1.500.000 | 290.000,00 |
+| 3600.04.122.0093.2900.339046.1.500.000 | 150.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 440.000,00 |
 
 I.2 – Anulação da seguinte dotação orçamentária do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.9999.999999.1.500.000 |440.000,00 |
-
-|TOTAL DA ANULAÇÃO |440.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.9999.999999.1.500.000 | 440.000,00 |
+| TOTAL DA ANULAÇÃO | 440.000,00 |
 
 ANEXO II
 
@@ -106,20 +98,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos suplementares abertos anteriormente |813.565.072,17 |
-
-|Valor do Decreto publicado nesta data |440.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |814.005.072,17 |
-
-|Saldo atual do limite autorizado |1.235.022.154,76 |
-
-|Percentual utilizado |39,73% |
-
-|Atualizado em 12/05/2025 às 12:24:37 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos suplementares abertos anteriormente | 813.565.072,17 |
+| Valor do Decreto publicado nesta data | 440.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | 814.005.072,17 |
+| Saldo atual do limite autorizado | 1.235.022.154,76 |
+| Percentual utilizado | 39,73% |
+| Atualizado em 12/05/2025 às 12:24:37 |  |

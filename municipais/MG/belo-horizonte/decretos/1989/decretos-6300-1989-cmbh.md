@@ -96,59 +96,34 @@ Secretário Municipal de Atividades Urbanas
 
 Tabela de Multas a que se refere o art. 2º do Decreto nº 6.300, de 3 de agosto de 1989
 
-|Irregularidades |Valor/UFPBH |
-
-|Obra em desacordo com o cronograma aprovado pela PBH/Diretoria de Obra |2 |
-
-|Obra paralisada |2 |
-
-|Obra em desacordo com o alvará |2 |
-
-|Obra com alvará vencido |5 |
-
-|Obra sem alvará |5 |
-
-|Sinalização diurna inadequada |2 |
-
-|Sinalização diurna inexistente |5 |
-
-|Sinalização diurna insuficiente |1 |
-
-|Sinalização noturna inadequada |3 |
-
-|Sinalização noturna inexistente |5 |
-
-|Sinalização noturna insuficiente |4 |
-
-|Acesso a imóvel prejudicado |5 |
-
-|Passagem de pedestre prejudicada |5 |
-
-|Bloqueio de via não autorizado |5 |
-
-|Reaterro de vala com material inadequado |5 |
-
-|Passeio sem recompor |5 |
-
-|Passeio mal recomposto |2 |
-
-|Pista sem recompor |4 |
-
-|Pista mal recomposta |5 |
-
-|Abatimento de vala |5 |
-
-|Equipamento público danificado |5 |
-
-|Vegetação danificada |5 |
-
-|Material depositado sobre passeio sem autorização |1 |
-
-|Material depositado na pista sem autorização |4 |
-
-|Material depositado sobre vegetação |5 |
-
-|Não observância da especificação da recomposição de base e pavimento |5 |
+| Irregularidades | Valor/UFPBH |
+| --- | --- |
+| Obra em desacordo com o cronograma aprovado pela PBH/Diretoria de Obra | 2 |
+| Obra paralisada | 2 |
+| Obra em desacordo com o alvará | 2 |
+| Obra com alvará vencido | 5 |
+| Obra sem alvará | 5 |
+| Sinalização diurna inadequada | 2 |
+| Sinalização diurna inexistente | 5 |
+| Sinalização diurna insuficiente | 1 |
+| Sinalização noturna inadequada | 3 |
+| Sinalização noturna inexistente | 5 |
+| Sinalização noturna insuficiente | 4 |
+| Acesso a imóvel prejudicado | 5 |
+| Passagem de pedestre prejudicada | 5 |
+| Bloqueio de via não autorizado | 5 |
+| Reaterro de vala com material inadequado | 5 |
+| Passeio sem recompor | 5 |
+| Passeio mal recomposto | 2 |
+| Pista sem recompor | 4 |
+| Pista mal recomposta | 5 |
+| Abatimento de vala | 5 |
+| Equipamento público danificado | 5 |
+| Vegetação danificada | 5 |
+| Material depositado sobre passeio sem autorização | 1 |
+| Material depositado na pista sem autorização | 4 |
+| Material depositado sobre vegetação | 5 |
+| Não observância da especificação da recomposição de base e pavimento | 5 |
 
 ## Observações da CMBH
 

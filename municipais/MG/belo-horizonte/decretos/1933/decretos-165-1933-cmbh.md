@@ -1744,7 +1744,7 @@ As notações que deverão ser usadas na memoria de calculos são as seguintes:
 
 A - DIMENSÕES - Unidade o centimetro (cm).
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 d = altura total das lages e ou das vigas de secção retangular.
 
@@ -1774,7 +1774,7 @@ e = espaçamento dos estribos ou das fretas.
 
 B - SECÇÕES - Unidade o centimetro quaerado (cm.2).
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Sc = secção do concréto sem dedução da área dos ferros.
 
@@ -1920,7 +1920,7 @@ O coeffiente de Poisson (m) deverá ser tomadoigual a 6.
 
 9 - No estabelecimento do problema hyperestatico pelas equações, utilizar-se-á o seguinte symbolismo, apresentado eschematicamente:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 10 - Os ss poderão ser calculados por qualquer processo, analytico ou grapho-analytico, sendo preferivel pelos processos do trabalho elastico. Nos casos correntes será permittido apenas introduzir para o calculo dos ss os esforços flectivos.
 
@@ -1962,13 +1962,13 @@ b2 = c2 + 2m + d
 
 onde l é o vão c1 e c2 são as dimensões da superficie de contacto da carga, roda, etc., nas direcções consideradas; o m é a altura do enchimento.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Em caso algum o trecho de lage constituindo viga deverá ser superior a 20d.
 
 4 - Em lages armadas em cruz, apoiadas ou engastadas nos 4 lados, a repartição das cargas uniformemente distribuidas (salvo o disposto no § 9. 1-b,c) obedecerá ás seguintes relações:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **§ 8** - Lages armadas num unico sentido.
 
@@ -2048,7 +2048,7 @@ Em vigas continuas, os vão theoricos serão os comprehendidos entre os centros 
 
 b = bo + v + d
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 5 - A largura da meza de uma viga em T deverá ser inferior á menor das seguintes dimensões:
 
@@ -2148,7 +2148,7 @@ b) pelo methodo simplificado de substituição da lage chata por vigas continuas
 
 5 - Os momentos resultantes da connexação de Mx e My provenientes da viga ou quadros em cada uma das direcções x e y, e necessarios ao dimensionamento, serão calcullados pelas formulas seguintes:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 e outras duas similares respectivamente para a direcçào ly. Os dois momentos Mmc (x) e Mme (x) significam momentos na direcção lx, o primeiro na faixa central e o segundo nas fixas lateraes. Faixa central é a comprehendida pelos 2|4 centraes da largura da lage e faixas lateraes são as constituidas cada uma pelo quarto de cada lado. (Distancia entre seixos de columnas na direcção considerada).
 
@@ -2180,7 +2180,7 @@ b) n = 15 quinze - para as solicitações do concreto, superiores a 50 (cincoent
 
 1 - O esforço unitario de adherencia, em peças de secção constante, será calculado pelo quociente da força cortante (C), na secção transversal considerada, pelo producto do perimetro dos ferros horizontaes (u) vezes o (Z) braço de alavanca do momento resistente, isto é:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 A solicitação limite de adherencia T1, será tomada egual a 5 kg|cm2., (cinco kg. por cm. q.).
 
@@ -2200,25 +2200,25 @@ b) 13 treze vezes no caso de armação fretada (paragrapho 21,6);
 
 2 - considera-se armação simples a prescripta neste Regulamento (paragrapho 21,5), sendo nesse caso applicavel a seguinte formula:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 3 - Considerar-se armação fretada a prescripta por este Regulamento (paragrapho 21,6) sendo, neste caso, applicavel a seguinte formula (admittidos sómente nucleos fretados de forma circular):
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **§ 16** - Flexão simples
 
 1 - Admittindo o estabelecido no paragrapho 13, considerando-se que o eixo neutro de uma peça fletida é o lugar geometrico dos centros de gravidade das secções transversaes, e desigfnando por n o modulo de armação (porcentagem), dever-se-á ter para uma secção transversal constante e rectangular, e ferro só a tracção:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 2 - Para ferro tambem na zona compressiva, de uma viga, em condições identicas ás da alinea precedente, dever-se-á ter:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 onde h'é a distancia entre a face da viga e o centro de gravidade da armadura compressiva e:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 3 - Todos os demais casos de flexão simples deverão ser estudados dentro de condições identicas, e de accordo com o paragrapho 13.
 
@@ -2226,23 +2226,23 @@ onde h'é a distancia entre a face da viga e o centro de gravidade da armadura c
 
 1 - O esforço unitario de cisalhamento numa peça de secção transversal constante, será egual ao quociente da força cortante (C), nessa secção, pelo producto da menor largura (bo), existente na secção pelo braço de alavanca do momento resistente (z):
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 É claro que se tratando de secções em T, b será a largura da nervura, ou alma. Em todos os casos, b será sempre a menor largura que apresente a secção transversal considerada.
 
 2 - Quando a secção transversal da viga crescer no sentido inverso do momento, dever-se-á levar em conta o augmento do trabalho elastico cisalhante, mediante o emprego ao invez da formula precedente, da seguinte:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 No caso inverso, isto é, o da secção transversal crescente no mesmo sentido do momento, poder-se-á empregar a formula acima com o signal -. O angulo a é o comprehendido entre a tangente á curva da viga e a horizontal.
 
 3 - Em edificios poder-se-á empregar nos voutes, para a formula do artigo precedente, as variações abaixo, e só quando as cargas, quer as mortas, quer as vivas, forem uniformemente repartidas. Para o começo do voute:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Para o ponto que faceja o pilar:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 4 - Em hypothese alguma será permittido, para To esforço cisalhante unitario calculado pelas formulas das alineas precedentes, um valor superior a 2,5|10 (dois e meio decimos) da taxa admittida para compressão, devida a flexão, sendo que em caso algum esse valor poderá ultrapassar para o concreto commum 14 (quatorze) kg|cm2 e 15 (quinze) kg|cm2, para o concreto de alta resistencia.
 
@@ -2268,7 +2268,7 @@ c) estribos normaes ao eixo da peça.
 
 1 - Quando concorrerem simultaneamente numa peça de concreto armado, esforços solicitantes de compressão e de flexão, isto é, submettendo-a a uma flexão composta, o calculo dos esforços resistentes deverá ser feito de dois modos differentes, segundo seja o limite de taxa de trabalho trativo fornecido para o concreto, pela applicação da formula:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 inferior ou superior a 1|10 (um decimo) das taxas prescriptas na Secção V, deste Regulamento.
 
@@ -2286,7 +2286,7 @@ As secções transversaes a introduzir na equaçào (paragrapho 18,1) serão, em
 
 3 - Em qualquer condição, as alturas h das columnas, em edificios, deverão ser tomadas como as alturas completas dos andares respectivos.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Secção IV
 
@@ -2404,7 +2404,7 @@ As acções nocivas só se produzem quando existe ou póde apresentar-se humilda
 
 __h__ em que h é a altura do pilar e a menor dimensão da secção transversal. A
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Para valores intermediarios de ___h___ far-se-á interpolação. a
 
@@ -2468,7 +2468,7 @@ Para valores intermediarios de ___h___ far-se-á interpolação. a
 
 3 - Quando houver reforço da lage, conforme a alinea precedente, o capitel do pilar terá um comprimento medido na face inferior do reforço, a partir do eixo e para cada lado do pilar, igual a 1|10 (um decimo) do vão entre pilares. (Ver fig.).
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Secção V
 
@@ -2486,7 +2486,7 @@ A) MATERIAES
 
 4 - Em qualquer caso, os attestados de analyse deverão conter dados sobre a finura de moagem, sobre o peso especifico, começo da péga, sobre a resistencia á tração e á compresesão observada com a argamassa normal, e sobre a invariabilidade do volume (expansão a quente).
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 NOTA: - Os algarismos indicam o tamanho em milimetros das malhas quaeradas das peneiras.
 
@@ -2606,7 +2606,9 @@ c) Resistencia dos concretos. - Solicitações limites.
 
 1 - As solicitações limites admissiveis para os concretos dosados arbitrariamente, são as seguintes:
 
-[pic]NOTA: Os algarismos exprimem kilos por centimetro quadrado.
+*[imagem no documento original — ver `fonte_texto`]*
+
+NOTA: Os algarismos exprimem kilos por centimetro quadrado.
 
 2 - Quando as estructuras forem calculadas de accordo com o § 6,5 a 14, e sendo computados todos os esforços susceptiveis de actuar sobre as mesmas (variação de temperatura, contracção, vento, esforços dynamicos e de freiagem, empuxos, etc., as solicitações que figuram no quadro do § 37,1 poderão ser majorados de 20% (vinte por cento).
 
@@ -2622,11 +2624,11 @@ c) Resistencia dos concretos. - Solicitações limites.
 
 a) para pilares com cargas axiaes:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 b) em geral:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 4 - Quando as estructuras foram calculadas de accordo com o § 6,5 a 14, e sendo computados todos os esforços susceptiveis de actuar sobre as mesmas (variação de temperatura, contracção, vento, esforços dynamicos e de freiagem, empuxos, etc.), as solicitações indicadas do § 38,3 poderão ser majoradas de 20% (vinte por cento).
 
@@ -2636,11 +2638,11 @@ b) em geral:
 
 7 - Quando as provas de resistencia á compressão forem realizadas sobre eylindros ou vigas de prova, a resistencia Rc 28, definida na alinea precedente será substituida nas formulas do § 38,3, por:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 8 - A resistencia a 28 dias poderá ser calculada pela fórma:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 onde R7 é a resistencia a 7 dias.
 
@@ -2758,7 +2760,7 @@ Quando o trabalho estiver assim interrompido, o concreto deverá ser protegido c
 
 2 - O tempo de permanencia das fôrmas e escoramentos, após a conclusão da concretagem, depende de varios elementos, como sejam: condições atmosphericas, vão das vigas, qualidade do cimento empregado, etc. Serão considerados como sufficientes os seguintes tempos minimos de permanencia:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 3 - Quando, immediatamente depois de retiradas as fôrmas e escoramentos, as estructuras se achem submettidas a cargas sensivelmente identicas áquellas para as quaes foram calculadas, deve-se augmentar o tempo de permanencia indicado na tabella acima e adoptar precauções especiaes ao retirar o escoramento.
 

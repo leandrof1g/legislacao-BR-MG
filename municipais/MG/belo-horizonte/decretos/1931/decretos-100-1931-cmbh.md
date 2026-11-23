@@ -1014,4 +1014,5 @@ Operário 1.200:000$000
 
 2 – Material 300:000$000 1.500:000$000 5.100:000$000 6.386:902$000
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

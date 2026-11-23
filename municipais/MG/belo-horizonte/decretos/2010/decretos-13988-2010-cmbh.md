@@ -42,66 +42,36 @@ ANEXO ÚNICO
 
 TERMO DE CIÊNCIA
 
-|1. COMO PROPRIETÁRIO E/OU COMO RESPONSÁVEL TÉCNICO: |
-
-|Declaro que ao optar pelo procedimento previsto no Decreto n° 13.988, de 10 de junho de 2010, opção que exerço em razão de meu |
-
-|exclusivo interesse, ESTOU CIENTE DA NÃO APLICABILIDADE DOS PRAZOS DE EXAME PREVISTOS NO ART. 15 DA LEI 9.725/10 ao processo de |
-
-|licenciamento para o qual se requer análise simplificada. |
-
-|ASSINATURA DO PROPRIETÁRIO |
-
-|ASSINATURA DO RESPONSÁVEL TÉCNICO |
-
-|2. IDENTIFICAÇÃO DO IMÓVEL |
-
-|CÓDIGO DO BAIRRO |DENOMINAÇÃO DO BAIRRO |
-
-| | |
-
-|SEÇÃO |QUARTEIRÃO |LOTE(S) |
-
-| | | |
-
-|3.IDENTIFICAÇÃO DO RESPONSÁVEL TÉCNICO |
-
-|NOME |CPF/CNPJ |
-
-| | |
-
-|ENDEREÇO PARA CORRESPONDÊNCIA (RUA/AVE) |N.º |
-
-| | |
-
-|COMPLEMENTO |CEP |BAIRRO |MUNICÍPIO |UF |
-
-| | | | | |
-
-|E-MAIL |TELEFONES PARA CONTATO |FAX |
-
-| | | |
-
-|CREA: |
-
-| |
-
-|4. IDENTIFICAÇÃO DO PROPRIETÁRIO |
-
-|NOME |CPF/CNPJ |
-
-| | |
-
-|ENDEREÇO PARA CORRESPONDÊNCIA (RUA/AVE) |N.º |
-
-| | |
-
-|COMPLEMENTO |CEP |BAIRRO |MUNICÍPIO |U.F. |
-
-| | | | | |
-
-|E-MAIL |TELEFONES PARA CONTATO |FAX |
-
-| | | |
-
-| | | | | | |
+| 1. COMO PROPRIETÁRIO E/OU COMO RESPONSÁVEL TÉCNICO: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Declaro que ao optar pelo procedimento previsto no Decreto n° 13.988, de 10 de junho de 2010, opção que exerço em razão de meu |  |  |  |  |  |
+| exclusivo interesse, ESTOU CIENTE DA NÃO APLICABILIDADE DOS PRAZOS DE EXAME PREVISTOS NO ART. 15 DA LEI 9.725/10 ao processo de |  |  |  |  |  |
+| licenciamento para o qual se requer análise simplificada. |  |  |  |  |  |
+| ASSINATURA DO PROPRIETÁRIO |  |  |  |  |  |
+| ASSINATURA DO RESPONSÁVEL TÉCNICO |  |  |  |  |  |
+| 2. IDENTIFICAÇÃO DO IMÓVEL |  |  |  |  |  |
+| CÓDIGO DO BAIRRO | DENOMINAÇÃO DO BAIRRO |  |  |  |  |
+|  |  |  |  |  |  |
+| SEÇÃO | QUARTEIRÃO | LOTE(S) |  |  |  |
+|  |  |  |  |  |  |
+| 3.IDENTIFICAÇÃO DO RESPONSÁVEL TÉCNICO |  |  |  |  |  |
+| NOME | CPF/CNPJ |  |  |  |  |
+|  |  |  |  |  |  |
+| ENDEREÇO PARA CORRESPONDÊNCIA (RUA/AVE) | N.º |  |  |  |  |
+|  |  |  |  |  |  |
+| COMPLEMENTO | CEP | BAIRRO | MUNICÍPIO | UF |  |
+|  |  |  |  |  |  |
+| E-MAIL | TELEFONES PARA CONTATO | FAX |  |  |  |
+|  |  |  |  |  |  |
+| CREA: |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 4. IDENTIFICAÇÃO DO PROPRIETÁRIO |  |  |  |  |  |
+| NOME | CPF/CNPJ |  |  |  |  |
+|  |  |  |  |  |  |
+| ENDEREÇO PARA CORRESPONDÊNCIA (RUA/AVE) | N.º |  |  |  |  |
+|  |  |  |  |  |  |
+| COMPLEMENTO | CEP | BAIRRO | MUNICÍPIO | U.F. |  |
+|  |  |  |  |  |  |
+| E-MAIL | TELEFONES PARA CONTATO | FAX |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |

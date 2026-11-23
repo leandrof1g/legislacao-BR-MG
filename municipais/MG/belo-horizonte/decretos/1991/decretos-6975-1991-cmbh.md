@@ -44,19 +44,14 @@ O Prefeito de Belo Horizonte, no uso de suas atribuições legais, decreta:
 
 **Art. 4°** - O valor da diária é estabelecido com base na Unidade Fiscal da Prefeitura de Belo Horizonte (UFPBH) em vigor no dia da partida, e obedece a escala de cargos descrita na seguinte tabela:
 
-|GRUPO |CARGOS |DESPESAS DIÁRIAS |POR TRASLADO |
-
-| | |ALIMENTAÇÃO |TRANSP- URBANO | |
-
-|A |Prefeito, Vice-Prefeito, Secretários |2,0 |0,50 |1,20 |
-
-| |Municipais e correlatos, Secretários | | | |
-
-| |Adjuntos e correlatos | | | |
-
-|B |Diretor e correlatos |1,70 | | |
-
-|C |Demais Cargos |1,30 | | |
+| GRUPO | CARGOS | DESPESAS DIÁRIAS | POR TRASLADO |  |
+| --- | --- | --- | --- | --- |
+|  |  | ALIMENTAÇÃO | TRANSP- URBANO |  |
+| A | Prefeito, Vice-Prefeito, Secretários | 2,0 | 0,50 | 1,20 |
+|  | Municipais e correlatos, Secretários |  |  |  |
+|  | Adjuntos e correlatos |  |  |  |
+| B | Diretor e correlatos | 1,70 |  |  |
+| C | Demais Cargos | 1,30 |  |  |
 
 **Parágrafo único** - Aos ocupantes dos cargos integrantes do grupo "A" caberá ressarcimento de despesas com terceiros, referente a alimentação, mediante justificativa expressa do interesse público e da apresentação de documento fiscal do fornecedor.
 

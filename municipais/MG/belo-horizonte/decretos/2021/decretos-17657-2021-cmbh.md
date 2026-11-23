@@ -52,16 +52,11 @@ Secretário Municipal de Fazenda
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor do Hospital Metropolitano Odilon Behrens – HMOB –, |
-
-|conforme autorização contida no inciso I do § 1º do art. 43 da Lei |
-
-|Federal nº 4.320, de 17 de março de 1964, e autorização contida no § 2º |
-
-|do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|2301.10.122.030.2.900.3390.0050 | 1.193.971,47 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.193.971,47 |
+| I.1 – A favor do Hospital Metropolitano Odilon Behrens – HMOB –, |  |
+| --- | --- |
+| conforme autorização contida no inciso I do § 1º do art. 43 da Lei |  |
+| Federal nº 4.320, de 17 de março de 1964, e autorização contida no § 2º |  |
+| do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 2301.10.122.030.2.900.3390.0050 | 1.193.971,47 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.193.971,47 |

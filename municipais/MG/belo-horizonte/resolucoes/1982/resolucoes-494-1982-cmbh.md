@@ -190,46 +190,31 @@ OBRAS DE CANALIZAÇÃO DO CÓRREGO RESSACA E IMPLANTAÇÃO DA AVENIDA ATLÂNTIDA
 
 Programas de Investimentos (Cláusula Quarta, do Convênio)
 
-| |EXERCÌCIOS | |
-
-|FONTES | |PARTICIPAÇÃO PERCENTUAL |
-
-| |**1982 |1983 |Total | |
-
-| |VALORES EM CRUZEIROS | |
-
-|PREFEITURA |204.860.000 |321.817.589 |526.677.589 |71,40% |
-
-|FAYAL S/A |86.195.830 |4.241.347 |90.437.177 |12,26% |
-
-|CEU |32.468.340 |--- |32.468.340 |4.40% |
-
-|CINOVA S/A |86.195.830 |1.881.381 |88.077.211 |11,94% |
-
-|TOTAL |409.670.000 |327.940.317 |737.610.317* |100,00% |
+|  | EXERCÌCIOS |  |  |  |
+| --- | --- | --- | --- | --- |
+| FONTES |  | PARTICIPAÇÃO PERCENTUAL |  |  |
+|  | **1982 | 1983 | Total |  |
+|  | VALORES EM CRUZEIROS |  |  |  |
+| PREFEITURA | 204.860.000 | 321.817.589 | 526.677.589 | 71,40% |
+| FAYAL S/A | 86.195.830 | 4.241.347 | 90.437.177 | 12,26% |
+| CEU | 32.468.340 | --- | 32.468.340 | 4.40% |
+| CINOVA S/A | 86.195.830 | 1.881.381 | 88.077.211 | 11,94% |
+| TOTAL | 409.670.000 | 327.940.317 | 737.610.317* | 100,00% |
 
 NOTAS:
 
 *Cálculos realizados com base na UPC de Cr$ 1.045,54, vigorante em julho de 1981. ** Programação financeira, com base nas disponibilidades de recursos do BNH (contrapartida).
 
-|PREFEITURA DE BELO HORIZONTE FOLHA Nº |
-
-|01/03 |
-
-|SUDECAP |
-
-|DATA Julho/81 |
-
-|PLANILHA DE PREÇOS |
-
-|OBRA: Av. Atlântida (Córrego do Ressaca) |
-
-|ANEXO I – Convênio de Cooperação |
-
-|NATUREZA DO SERVIÇO Urbanização |
-
+| PREFEITURA DE BELO HORIZONTE FOLHA Nº |
+| --- |
+| 01/03 |
+| SUDECAP |
+| DATA Julho/81 |
+| PLANILHA DE PREÇOS |
+| OBRA: Av. Atlântida (Córrego do Ressaca) |
+| ANEXO I – Convênio de Cooperação |
+| NATUREZA DO SERVIÇO Urbanização |
 | ITEM |
-
 | ITEM |
 
 ITEM |

@@ -42,9 +42,9 @@ ADIN nº 1.0000.08.482.509-0/000, do Tribunal de Justiça do Estado de Minas Ger
 
 QUANTITATIVO DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES JURÍDICAS DA PREFEITURA DE BELO HORIZONTE
 
-|CARGO PÚBLICO EFETIVO |QUANTITATIVO |
-
-|Procurador Municipal |84 (oitenta e quatro) |
+| CARGO PÚBLICO EFETIVO | QUANTITATIVO |
+| --- | --- |
+| Procurador Municipal | 84 (oitenta e quatro) |
 
 (NR)".
 

@@ -48,30 +48,19 @@ ANEXO
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Fase de controle – permanecem abertos |
-
-|Atividades autorizadas a funcionar nos termos do Decreto nº 17.313, de 21 de março de 2020, do Decreto|
-
-|nº 17.328, de 8 de abril de 2020, e do Decreto nº 17.332, de 16 de abril de 2020. |
-
-| |
-
-|(informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH) |
-
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |
-
-|Agências bancárias: instituições de crédito, |Sem restrição de horário |
-
-|seguro, capitalização, comércio e administração de| |
-
-|valores imobiliários | |
-
-|Casas lotéricas | |
-
-|Agências de correio e telégrafo | |
-
-|(...) |
+| Fase de controle – permanecem abertos |  |
+| --- | --- |
+| Atividades autorizadas a funcionar nos termos do Decreto nº 17.313, de 21 de março de 2020, do Decreto |  |
+| nº 17.328, de 8 de abril de 2020, e do Decreto nº 17.332, de 16 de abril de 2020. |  |
+|  |  |
+| (informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH) |  |
+| Atividade | Faixa de horário de funcionamento |
+| (...) |  |
+| Agências bancárias: instituições de crédito, | Sem restrição de horário |
+| seguro, capitalização, comércio e administração de |  |
+| valores imobiliários |  |
+| Casas lotéricas |  |
+| Agências de correio e telégrafo |  |
+| (...) |  |
 
 .”

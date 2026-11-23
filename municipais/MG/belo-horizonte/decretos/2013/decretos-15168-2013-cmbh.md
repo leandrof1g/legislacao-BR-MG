@@ -50,36 +50,21 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-| |Descrição da infração |Dispositivo |Notific|Prazo |Multas |Interdição |
-
-| | |infringido |ação |para | | |
-
-| | |(Lei nº |Prévia |atendimen| | |
-
-| | |10.516/12) | |to | | |
-
-| | | | | |Valor (R$) |Periodicidade | |
-
-| | | | | | |mínima | |
-
-| |Não respeitar o tempo máximo de |Art. 1º |Sim |30 dias |2.000,00 |30 dias |Interdição da empresa e |
-
-| |espera para atendimento de clientes.| | | | | |cassação do alvará de |
-
-| | | | | | | |localização e funcionamento a |
-
-| | | | | | | |partir da 3ª reincidência. |
-
-| |Não realizar o controle do |Art. 2º |Sim |30 dias |2.000,00 |30 dias |Interdição da empresa e |
-
-| |atendimento de clientes por meio de | | | | | |cassação do alvará de |
-
-| |senha, com a respectiva data e | | | | | |localização e funcionamento a |
-
-| |horário. | | | | | |partir da 3ª reincidência. |
-
-| |Deixar de afixar cartaz indicativo |Art. 3º |Sim |30 dias |2.000,00 |30 dias | |
-
-| |do tempo máximo de atendimento ao | | | | | | |
-
-| |cliente. | | | | | | |
+|  | Descrição da infração | Dispositivo | Notific | Prazo | Multas | Interdição |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | infringido | ação | para |  |  |  |
+|  |  | (Lei nº | Prévia | atendimen |  |  |  |
+|  |  | 10.516/12) |  | to |  |  |  |
+|  |  |  |  |  | Valor (R$) | Periodicidade |  |
+|  |  |  |  |  |  | mínima |  |
+|  | Não respeitar o tempo máximo de | Art. 1º | Sim | 30 dias | 2.000,00 | 30 dias | Interdição da empresa e |
+|  | espera para atendimento de clientes. |  |  |  |  |  | cassação do alvará de |
+|  |  |  |  |  |  |  | localização e funcionamento a |
+|  |  |  |  |  |  |  | partir da 3ª reincidência. |
+|  | Não realizar o controle do | Art. 2º | Sim | 30 dias | 2.000,00 | 30 dias | Interdição da empresa e |
+|  | atendimento de clientes por meio de |  |  |  |  |  | cassação do alvará de |
+|  | senha, com a respectiva data e |  |  |  |  |  | localização e funcionamento a |
+|  | horário. |  |  |  |  |  | partir da 3ª reincidência. |
+|  | Deixar de afixar cartaz indicativo | Art. 3º | Sim | 30 dias | 2.000,00 | 30 dias |  |
+|  | do tempo máximo de atendimento ao |  |  |  |  |  |  |
+|  | cliente. |  |  |  |  |  |  |

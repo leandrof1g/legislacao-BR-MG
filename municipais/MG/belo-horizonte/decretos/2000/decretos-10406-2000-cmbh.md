@@ -94,68 +94,43 @@ Secretário Municipal de Atividades Urbanas
 
 ANEXO ÚNICO A QUE SE REFERE O DECRETO Nº 10.406
 
-|TABELA 1 - DIMENSÕES |
+| TABELA 1 - DIMENSÕES |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| MODELOS | a (cm) | b (cm) | AREA (m²) | LARGURA MÍNIMA DE PASSEIO (m) |
+| Nº 1 | 600 | 225 | 17,87 | 500 |
+| Nº 2 | 500 | 200 | 13,75 | 400 |
+| Nº 3 | 400 | 200 | 11,25 | 350 |
+| Nº 4 | 400 | 150 | 9,00 | 300 |
+| Nº 5 | 350 | 120 | 6,80 | 270 |
+| Nº 6 | 300 | 90 | 4,90 | 240 |
 
-|MODELOS |a (cm) |b (cm) |AREA (m²) |LARGURA MÍNIMA DE PASSEIO (m) |
-
-|Nº 1 |600 |225 |17,87 |500 |
-
-|Nº 2 |500 |200 |13,75 |400 |
-
-|Nº 3 |400 |200 |11,25 |350 |
-
-|Nº 4 |400 |150 |9,00 |300 |
-
-|Nº 5 |350 |120 |6,80 |270 |
-
-|Nº 6 |300 |90 |4,90 |240 |
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Tabela I com redação dada pelo Decreto nº 12.685, de 19/04/2007(Art. 1º)
 
-|TABELA 2 - ESPECIFICAÇÕES DE MATERIAIS |
+| TABELA 2 - ESPECIFICAÇÕES DE MATERIAIS |  |
+| --- | --- |
+| ESTRUTURA - PISO E TETO | Barras e chapas de aço carbono zincado soldadas |
+| PAREDES E TESTEIRA | Aço galvanizado com pintura eletrostática ou aço escovado |
+| COBERTURA | Aço inox, policarbonato ou aço com pintura eletrostática |
+| PORTA | Aço inox ou aço com pintura eletrostática |
+| PINTURA | Eletrostática a pó, padrão RAL de cores: verde 6005 e alumínio 9006 ou cinza 7001 |
+| PUBLICIDADE | Painel simples ou iluminado - não-luminoso |
+| BASE DE NIVELAMENTO DO PISO | Concreto aparente ou alvenaria rebocada e pintada na cor de concreto |
+| INSTALAÇÕES | Subterrâneas com visores para medição embutidos na parede da banca |
+| LEGENDA |  |
+| 1 | Parede |
+| 2 | Canto arredondado 90º, raio = 40 cm |
+| 3 | Cobertura em arco, flecha máxima = 25cm |
+| 4 | Porta de enrolar ou de abrir h = 2,00 m (ver nota abaixo) |
+| 5 | Testeira h = 40 cm |
+| 6 | Vitrine totalmente embutida na parede, h = 1,60 m |
+| 7 | Projeção do beiral |
+| 8 | Projeção do prolongamento do beiral (opcional) |
+| 9 | Local permitido para publicidade |
+| 10 | Medidores de água e luz – embutidos na parede |
+| NOTA: | No caso de porta de abrir, esta terá esta terá duas folhas iguais , a serem abertas 180º, com largura máxima da folha (f) |
+|  | dada pela seguinte fórmula: f = a – 80 cm: 4 |
 
-|ESTRUTURA - PISO E TETO |Barras e chapas de aço carbono zincado soldadas |
+. *[imagem no documento original — ver `fonte_texto`]*
 
-|PAREDES E TESTEIRA |Aço galvanizado com pintura eletrostática ou aço escovado |
-
-|COBERTURA |Aço inox, policarbonato ou aço com pintura eletrostática |
-
-|PORTA |Aço inox ou aço com pintura eletrostática |
-
-|PINTURA |Eletrostática a pó, padrão RAL de cores: verde 6005 e alumínio 9006 ou cinza 7001 |
-
-|PUBLICIDADE |Painel simples ou iluminado - não-luminoso |
-
-|BASE DE NIVELAMENTO DO PISO |Concreto aparente ou alvenaria rebocada e pintada na cor de concreto |
-
-|INSTALAÇÕES |Subterrâneas com visores para medição embutidos na parede da banca |
-
-|LEGENDA |
-
-|1 |Parede |
-
-|2 |Canto arredondado 90º, raio = 40 cm |
-
-|3 |Cobertura em arco, flecha máxima = 25cm |
-
-|4 |Porta de enrolar ou de abrir h = 2,00 m (ver nota abaixo) |
-
-|5 |Testeira h = 40 cm |
-
-|6 |Vitrine totalmente embutida na parede, h = 1,60 m |
-
-|7 |Projeção do beiral |
-
-|8 |Projeção do prolongamento do beiral (opcional) |
-
-|9 |Local permitido para publicidade |
-
-|10 |Medidores de água e luz – embutidos na parede |
-
-|NOTA: |No caso de porta de abrir, esta terá esta terá duas folhas iguais , a serem abertas 180º, com largura máxima da folha (f) |
-
-| |dada pela seguinte fórmula: f = a – 80 cm: 4 |
-
-. [pic][pic]

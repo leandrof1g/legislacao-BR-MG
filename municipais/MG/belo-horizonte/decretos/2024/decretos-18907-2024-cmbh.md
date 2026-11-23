@@ -64,79 +64,44 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4ºda Lei| |
-
-|nº 11.644, de 29 de dezembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339039.1.621.000 |92.987.005,01 |
-
-|2302.10.301.0157.2690.339034.1.621.000 |20.000.000,00 |
-
-|TOTAL |112.987.005,01 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no inciso II |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 5º | |
-
-|da Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.319011.1.543.000 |1.691.421,94 |
-
-|2200.12.361.0168.2080.319013.1.543.000 |1.800,00 |
-
-|2200.12.361.0168.2080.319113.1.543.000 |311.700,00 |
-
-|2200.12.365.0169.2542.319011.1.543.000 |153.200,00 |
-
-|2200.12.365.0169.2542.319113.1.543.000 |58.500,00 |
-
-|2200.12.366.0168.2080.319011.1.543.000 |7.300,00 |
-
-|2200.12.366.0168.2080.319113.1.543.000 |2.700,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.302.0030.2875.319011.1.659.002 |6.400.000,00 |
-
-|2301.10.302.0030.2875.319013.1.659.002 |1.170.000,00 |
-
-|TOTAL |9.796.621,94 |
-
-|I.1.3 – A favor do seguinte órgão, conforme autorização contida no inciso II do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6ºda Lei| |
-
-|nº 11.644, de 29 de dezembro de 2023: | |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.302.0030.2620.339008.1.659.002 |15.000,00 |
-
-|2301.10.302.0030.2620.339034.1.659.002 |300.000,00 |
-
-|2301.10.302.0030.2620.339046.1.659.002 |280.000,00 |
-
-|2301.10.122.0030.2900.339008.1.659.002 |5.000,00 |
-
-|2301.10.122.0030.2900.339034.1.659.002 |67.000,00 |
-
-|2301.10.122.0030.2900.339046.1.659.002 |130.000,00 |
-
-|2301.10.302.0030.2875.339008.1.659.002 |100.000,00 |
-
-|2301.10.302.0030.2875.339034.1.659.002 |2.000.000,00 |
-
-|2301.10.302.0030.2875.339046.1.659.002 |1.350.000,00 |
-
-|TOTAL |4.247.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |127.030.626,95 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4ºda Lei |  |
+| nº 11.644, de 29 de dezembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339039.1.621.000 | 92.987.005,01 |
+| 2302.10.301.0157.2690.339034.1.621.000 | 20.000.000,00 |
+| TOTAL | 112.987.005,01 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no inciso II | R$ |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 5º |  |
+| da Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.319011.1.543.000 | 1.691.421,94 |
+| 2200.12.361.0168.2080.319013.1.543.000 | 1.800,00 |
+| 2200.12.361.0168.2080.319113.1.543.000 | 311.700,00 |
+| 2200.12.365.0169.2542.319011.1.543.000 | 153.200,00 |
+| 2200.12.365.0169.2542.319113.1.543.000 | 58.500,00 |
+| 2200.12.366.0168.2080.319011.1.543.000 | 7.300,00 |
+| 2200.12.366.0168.2080.319113.1.543.000 | 2.700,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.302.0030.2875.319011.1.659.002 | 6.400.000,00 |
+| 2301.10.302.0030.2875.319013.1.659.002 | 1.170.000,00 |
+| TOTAL | 9.796.621,94 |
+| I.1.3 – A favor do seguinte órgão, conforme autorização contida no inciso II do § | R$ |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6ºda Lei |  |
+| nº 11.644, de 29 de dezembro de 2023: |  |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.302.0030.2620.339008.1.659.002 | 15.000,00 |
+| 2301.10.302.0030.2620.339034.1.659.002 | 300.000,00 |
+| 2301.10.302.0030.2620.339046.1.659.002 | 280.000,00 |
+| 2301.10.122.0030.2900.339008.1.659.002 | 5.000,00 |
+| 2301.10.122.0030.2900.339034.1.659.002 | 67.000,00 |
+| 2301.10.122.0030.2900.339046.1.659.002 | 130.000,00 |
+| 2301.10.302.0030.2875.339008.1.659.002 | 100.000,00 |
+| 2301.10.302.0030.2875.339034.1.659.002 | 2.000.000,00 |
+| 2301.10.302.0030.2875.339046.1.659.002 | 1.350.000,00 |
+| TOTAL | 4.247.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 127.030.626,95 |
 
 ANEXO II
 
@@ -184,76 +149,47 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 4º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 4º, limite de 15% do valor|
-
-|abertura de créditos suplementares para o Fundo Municipal de |total do Orçamento: |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 2.974.999.158,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 221.406.627,02 |
-
-|Valor do Decreto publicado nesta data |R$ 112.987.005,01 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 334.393.632,03 |
-
-|Saldo atual de créditos suplementares |R$ 2.640.605.526,57 |
-
-|Percentual utilizado |11,24% |
-
-|Atualizado em 13/12/2024 às 15:00:20 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 4º, limite de 15% do valor |
+| abertura de créditos suplementares para o Fundo Municipal de | total do Orçamento: |
+| Saúde. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 2.974.999.158,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 221.406.627,02 |
+| Valor do Decreto publicado nesta data | R$ 112.987.005,01 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 334.393.632,03 |
+| Saldo atual de créditos suplementares | R$ 2.640.605.526,57 |
+| Percentual utilizado | 11,24% |
+| Atualizado em 13/12/2024 às 15:00:20 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 392.600.680,12 |
-
-|Valor do Decreto publicado nesta data |R$ 9.796.621,94 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 402.397.302,06 |
-
-|Saldo atual de créditos suplementares |R$ 1.580.935.470,34 |
-
-|Percentual utilizado |20,29% |
-
-|Atualizado em 13/12/2024 às 16:55:56 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 392.600.680,12 |
+| Valor do Decreto publicado nesta data | R$ 9.796.621,94 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 402.397.302,06 |
+| Saldo atual de créditos suplementares | R$ 1.580.935.470,34 |
+| Percentual utilizado | 20,29% |
+| Atualizado em 13/12/2024 às 16:55:56 |  |
 
 III.3 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 6º, limite de 10% do |
-
-|abertura de créditos suplementares. |valor total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.220.854.063,29 |
-
-|Valor do Decreto publicado nesta data |R$ 4.247.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.225.101.063,29 |
-
-|Saldo atual de créditos suplementares |R$ 758.231.709,11 |
-
-|Percentual utilizado |61,77% |
-
-|Atualizado em 13/12/2024 às 15:00:20 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 6º, limite de 10% do |
+| abertura de créditos suplementares. | valor total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.220.854.063,29 |
+| Valor do Decreto publicado nesta data | R$ 4.247.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.225.101.063,29 |
+| Saldo atual de créditos suplementares | R$ 758.231.709,11 |
+| Percentual utilizado | 61,77% |
+| Atualizado em 13/12/2024 às 15:00:20 |  |

@@ -68,11 +68,13 @@ TERMO DE ADESÃO AO PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO - PDV PREVISTO NA LEI N
 
 Pelo presente instrumento, eu,________________________________________, Matrícula nº ____________________, abaixo assinado, ocupante do emprego público efetivo de ___________________________, venho aderir, de forma expressa, definitiva e irretratável ao Programa de Desligamento Voluntário da Superintendência de Limpeza Urbana - SLU, instituído pela Lei nº 10.816, de 02 de junho de 2015, e declaro preencher todas as condições exigidas para o exercício deste direito, conforme definido na citada lei e regulamentado no presente decreto.
 
-| |
+|  |
+| --- |
 
 Declaro de forma expressa que renuncio à estabilidade provisória decorrente de _____________________,conforme previsto no § 2º do art. 2º da Lei nº 10.816/2015, atestando que esta renúncia somente poderá produzir efeitos após o deferimento do meu pedido de demissão .
 
-| |
+|  |
+| --- |
 
 Declaro que o disposto no § 2º do art. 2º da Lei nº 10.816/2015 não se aplica ao meu vínculo com a SLU.
 

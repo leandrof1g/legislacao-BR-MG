@@ -74,4 +74,5 @@ ANEXO
 
 (a que se refere o § 1º do art. 1º do Decreto nº 18.957, de 29 de janeiro de 2025)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

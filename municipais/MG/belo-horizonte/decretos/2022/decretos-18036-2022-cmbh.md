@@ -60,76 +60,41 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Segurança e Prevenção – SMSP –, conforme autorização |
-
-|contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput|
-
-|do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2100.06.181.109.2.803.4490.0000 |1.554,52 |
-
-|TOTAL |1.554,52 |
-
-| | |
-
-|I.2 – A favor da Fundo Municipal de Habitação Popular – FMHP –, conforme autorização contida no |
-
-|inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º|
-
-|da Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2704.16.482.225.1.231.4490.0000 |1.100.000,00 |
-
-|2704.16.482.062.1.330.4490.0000 |1.250.000,00 |
-
-|2704.16.482.225.1.231.4490.0000 |7.443.000,00 |
-
-|2704.16.482.226.1.207.4490.0000 |1.187.000,00 |
-
-|2704.16.482.226.1.207.4590.0000 |1.000.000,00 |
-
-|TOTAL |11.980.000,00 |
-
-| | |
-
-|I.3 – A favor da Empresa de Transportes e Trânsito de Belo Horizonte – BHTrans –, conforme |
-
-|autorização contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de |
-
-|1964, e no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2709.26.452.060.2.567.3390.0007 |2.631.010,25 |
-
-|2709.26.452.060.2.567.3391.0007 |43.000,00 |
-
-|2709.26.452.303.2.909.3391.0007 |817.000,00 |
-
-|TOTAL |3.491.010,25 |
-
-| | |
-
-|I.4 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso I do § |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no inciso II do art 4º da Lei nº |
-
-|11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0050 |13.197.704,61 |
-
-|2302.10.302.114.2.891.3350.0050 |2.304.000,00 |
-
-|2302.10.302.114.2.893.3390.0050 |1.059,10 |
-
-|2302.10.302.114.2.893.4490.0050 |32.818,30 |
-
-|2302.10.302.114.2.894.3390.0050 |58.606,15 |
-
-|TOTAL DA SUPLEMENTAÇÃO |31.066.752,93 |
+| I.1 – A favor da Secretaria Municipal de Segurança e Prevenção – SMSP –, conforme autorização |  |
+| --- | --- |
+| contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput |  |
+| do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2100.06.181.109.2.803.4490.0000 | 1.554,52 |
+| TOTAL | 1.554,52 |
+|  |  |
+| I.2 – A favor da Fundo Municipal de Habitação Popular – FMHP –, conforme autorização contida no |  |
+| inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º |  |
+| da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2704.16.482.225.1.231.4490.0000 | 1.100.000,00 |
+| 2704.16.482.062.1.330.4490.0000 | 1.250.000,00 |
+| 2704.16.482.225.1.231.4490.0000 | 7.443.000,00 |
+| 2704.16.482.226.1.207.4490.0000 | 1.187.000,00 |
+| 2704.16.482.226.1.207.4590.0000 | 1.000.000,00 |
+| TOTAL | 11.980.000,00 |
+|  |  |
+| I.3 – A favor da Empresa de Transportes e Trânsito de Belo Horizonte – BHTrans –, conforme |  |
+| autorização contida no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de |  |
+| 1964, e no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2709.26.452.060.2.567.3390.0007 | 2.631.010,25 |
+| 2709.26.452.060.2.567.3391.0007 | 43.000,00 |
+| 2709.26.452.303.2.909.3391.0007 | 817.000,00 |
+| TOTAL | 3.491.010,25 |
+|  |  |
+| I.4 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso I do § |  |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no inciso II do art 4º da Lei nº |  |
+| 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0050 | 13.197.704,61 |
+| 2302.10.302.114.2.891.3350.0050 | 2.304.000,00 |
+| 2302.10.302.114.2.893.3390.0050 | 1.059,10 |
+| 2302.10.302.114.2.893.4490.0050 | 32.818,30 |
+| 2302.10.302.114.2.894.3390.0050 | 58.606,15 |
+| TOTAL DA SUPLEMENTAÇÃO | 31.066.752,93 |

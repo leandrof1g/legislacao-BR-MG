@@ -3152,267 +3152,138 @@ QUADRO DE CORRELAÇÃO
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-|ATUAL |PROPOSTO |QUALIFICAÇÃO |
-
-|Advogado/Assessor Jurídico (Q Supl)/Assessor |Procurador Municipal I, II, III |Advogado |
-
-|Legislativo (Q Supl)/Consultor Jurídico (Q | | |
-
-|Supl0/Assessor de Divulgação | | |
-
-|Procurador Fiscal |Procurador Fiscal I, II, III |Advogado |
-
-|Biólogo/Enfermeiro/Farmacêutico |Técnico Superior de Saúde I, II, III |Biólogo/Enfermeiro/Nutricionista/Farmacêutico |
-
-|Bioquímico/Médico | |Bioquímico/Veterinário/Psicólogo/ |
-
-|Veterinário/Psicólogo/Parteira (Q | |Fisioterapeuta/Terapeuta |
-
-|Supl)/Sociólogo e Assistente Social, cujos | |Ocupacional/Sociólogo/Assistente Social |
-
-|ocupantes prestam serviços na Secretaria | | |
-
-|Municipal de Saúde | | |
-
-|Médico |Médico I, II, III |Médico |
-
-|Cirurgião Dentista |Cirurgião Dentista I, II, III |Dentista |
-
-|ATUAL |PROPOSTO |QUALIFICAÇÃO |
-
-|Auxiliar de Enfermagem/Técnico de |Técnico de Serviço de Saúde I, II, |Ortopedista/Técnico em Enfermagem/Técnico em Higiene|
-
-|Nutrição/Técnico em Laboratórios |III |Dental/Técnico em Laboratório/Técnico de Radiologia |
-
-|Médicos/Operador de Raio X | | |
-
-|Técnico de Higiene Dental/Técnico de | |2º Grau completo e habilitação específica |
-
-|Nutrição/Técnico de Laboratório Médico/Técnico | | |
-
-|de Enfermagem/Técnico de Saneamento/Técnico em | | |
-
-|óptica, todos absorvidos pela Prefeitura em | | |
-
-|obediência à Lei nº 5655/90 | | |
-
-|Atendente Odontológico/Auxiliar de | |Habilitação específica e tempo de serviço na |
-
-|Enfermagem/Auxiliar de Laboratório/Auxiliar de | |seguinte condição: menos de três anos, para classe |
-
-|Serviços Gerais/Auxiliar de Serviço | |I, de três a sete anos para a classe II, mais de |
-
-|Administrativo/Auxiliar de Serviço de Saúde, | |sete anos para a classe III |
-
-|que prestam serviço de Técnico de ótica, | | |
-
-|Técnico em Aparelho Odontológico ou Técnico em | | |
-
-|Refrigeração, todos absorvidos pela Prefeitura | | |
-
-|nos Termos da Lei nº 5858/91 | | |
-
-|Atendente Odontológico/Auxiliar de |Agente de Serviço de Saúde I, II, III|1º Grau incompleto para a classe I; 1º grau completo|
-
-|Enfermagem/Auxiliar de Laboratório/Auxiliar de | |para a classe II; e 1º Grau completo mais |
-
-|Serviços Gerais/Auxiliar de Serviço | |habilitação específica para a classe III |
-
-|Administrativo/Auxiliar de Serviço de Saúde, | | |
-
-|que prestavam, quando da promulgação da Lei nº | | |
-
-|5655/90, serviços específicos de auxiliar de | | |
-
-|saúde em unidades de saúde e de ensino | | |
-
-|municipal | | |
-
-| |Auxiliar Sanitário |1ª/4ª Séries do 1º Grau |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| |Técnico Superior de Ensino | |
-
-|Auxiliar de Serviços Gerais/Auxiliar de Serviço| |1ª/4ª Séries do 1º Grau, mais efetivo serviço por |
-
-|Administrativo/Ajudante de Serviço | |pelo menos três anos |
-
-|Público/Oficial de Serviço Público I e II, que | | |
-
-|prestavam serviços de controle e/ou guarda de | | |
-
-|endemias ou zoonoses, absorvidos por força das | | |
-
-|Leis nºs5655/90 e 5858/91 | | |
-
-|Bibliotecário/Orientador Educacional/Supervisor| | |
-
-|Pedagógico/Pedagogo/Diretor Escola Primária I | | |
-
-|(Q Supl)/Diretor de Unidade Piloto (Q | |Bibliotecário/Pedagogo/Psicólogo |
-
-|Supl)/Orientador Pedagógico (Q Supl)/Técnico de| | |
-
-|Ensino (Q Supl)/Vice-Diretor de Unidade Piloto | | |
-
-|(Q Supl)/Diretor de Escola Primária II (Q | | |
-
-|Supl)/Psicólogo | | |
-
-|Professor Municipal I/Secretário de |Professor Municipal I |Curso de Magistério |
-
-|Estabelecimento de Ensino I e II (Q | |(2º Grau) |
-
-|Supl)/Regente de Classe I e II ( Q Supl) | | |
-
-|Professor Municipal II/Professor Municipal III |Professor Municipal II |Curso Superior |
-
-|(Q Supl) | | |
-
-|ATUAL |PROPOSTO |QUALIFICAÇÃO |
-
-|Auxiliar de Serviços e Auxiliar de Serviços I e|Auxiliar de Escola |Elementar |
-
-|II do Quadro Suplementar cujos ocupantes | | |
-
-|prestam serviços nas Escolas Municipais | | |
-
-|Técnico Municipal de Tributação/Fiscal de |Técnico Municipal de Tributação I, II|Administrador/Contador/Advogado/E-conomista/ |
-
-|Tributos Municipais II (Q Supl) |e III | |
-
-|Administrador/Contador/Econo-mista/ |Analista Fazendário I, II, III |Administrador/Contador/Advogado/ Economista |
-
-|Agente de Administração I, II, III |Agente Fazendário I, II, III |2º Grau |
-
-|Fiscal Municipal de Tributação/Tesoureiro |Fiscal Municipal de Tributação I, II,|2º Grau |
-
-| |III | |
-
-|Psicólogo/Administrador/Pedagogo/Assistente |Técnico de Recursos Humanos I, II, |Psicólogo/Administrador/Pedagogo/ |
-
-|Social/Assessor de Divulgação (Supl) |III |Assistente Social/Técnico de Comunicação Social |
-
-|Administrador/Contador/Estatístico/Economista/T|Analista de Sistema Administrativo I,|Administrador/Contador/Advogado/Estatístico/Economis|
-
-|écnico de Comunicação Social (Q Supl) |II, III |ta/Técnico de Comunicação Social |
-
-|Administrador/Economista/Contador |Analista Orçamentário I, II, III |Administrador/Economista/Contador |
-
-| |Auditor I, II, II |Contador |
-
-|Desenhista Técnico/Técnico em |Técnico de Nível Médio I, II, III |Técnico de Contabilidade/Desenhista |
-
-|Estatística/Técnico em Contabilidade/Topógrafo | |Projetista/Topógrafo |
-
-|(Q Supl) | | |
-
-|Oficial Redator | |2º Grau |
-
-|Técnico em Equipamento Odontológico | |2º Grau Técnico |
-
-|Técnico de Manutenção absorvido pela Prefeitura| |2º Grau Completo com habilitação específica |
-
-|nos termos da Lei Nº 5655/90 | | |
-
-|Agente de Administração I, II, III/Operador de |Agente de Administração I, II, III |2º Grau |
-
-|Microfilmagem/Mecanógrafo (Q Supl) | | |
-
-|Secretário de Estabelecimento de Ensino I e II |Agente de Administração III |2º Grau |
-
-|Agente de Administração I, II, II |Datilógrafo |2º Grau |
-
-|Telefonista |Telefonista |1º Grau |
-
-|Motorista (Q Supl) |Motorista |1º Grau |
-
-|Auxiliar de Administração |Auxiliar de Administração |1º Grau |
-
-|Chapista/Cortador/Impressor/ Encanador |Oficial de Gráfica I, II |1º Grau |
-
-|Auxiliar de Serviços/Garçom/ Auxiliar de |Auxiliar de Serviço Administrativo |1ª/4ª Séries do 1º Grau |
-
-|Serviços II (Q Supl)/ Auxiliar de Serviços I (Q| | |
-
-|Supl)/ Mensageiro/ Auxiliar de Serviços Gerais | | |
-
-|absorvido nos termos da Lei nº 5655/90 | | |
-
-|Urbanista/ Técnico em Turismo/ Sociólogo/ |Técnico Superior de Serviço Público |Engenheiro/ Arquiteto/ Assistente Social/ Sociólogo/|
-
-|Arquiteto/ Engenheiro Agrimensor/ Engenheiro |I, II, III |Técnico de Turismo/ Educação Física/ Biólogo/ |
-
-|Agrônomo/ Engenheiro/ Assistente Social/ | |Administrador/ Bacharel em Direito/ Psicólogo/ Nível|
-
-|Assessor de Divulgação (Q Supl)/ Técnico em | |Superior |
-
-|Zoobotânica/ Psicólogo/ Assessor Administrativo| | |
-
-|(Q Supl)/Assessor Legislativo (Q Supl)/ Capelão| | |
-
-|ATUAL |PROPOSTO |QUALIFICAÇÃO |
-
-|Engenheiro Civil Sanitarista e Técnico de |Técnico Superior de Serviço Público |Engenheiro/ Nível Superior |
-
-|Planejamento absorvidos pela Prefeitura nos |I, II, III | |
-
-|termos da Lei nº 5655/90 | | |
-
-|Desenhista Técnico/ Técnico em Agrimensura/ |Técnico de Serviço Público I, II, III|Desenhista Projetista/ Técnico em Edificações/ |
-
-|Técnico em Edificações/ Técnico em Estradas | |Técnico em Agrimensura/ Técnico em Estradas |
-
-|Fotógrafo (extinto) | | |
-
-|Oficial de Serviços / Operador de Máquinas |Oficial de Serviço Público I, II, III|1ª/4ª Séries do 1º Grau |
-
-|Pesadas/ Oficial e Serviços II (Q Supl)/ | | |
-
-|Oficial de Serviços I (Q Supl) | | |
-
-|Auxiliar e Oficial de Manutenção, absorvidos | |1ª/4ª Séries do 1º Grau e habilitação específica |
-
-|nos termos da Lei nº 5655/90 | | |
-
-|Trabalhador Braçal |Ajudante de Serviço Público |Elementar |
-
-|Fiscal Municipal de Saúde |Inspetor Sanitário Municipal I, II, |2º Grau |
-
-| |III | |
-
-|Fiscal Municipal de Obras/ Técnico em |Inspetor Municipal de Obras I, II, |2º Grau |
-
-|Edificações/ Técnico em Estradas |III | |
-
-|Fiscal Municipal de Posturas/ Fiscal Municipal |Inspetor Municipal de Atividades |2º Grau |
-
-| |Urbanas I, II, III | |
-
-|Fiscal Municipal de Posturas I, II, III, e |Inspetor Municipal de Controle |2º Grau |
-
-|Fiscal Municipal de Obras I, II, III, que |Ambiental I, II, III | |
-
-|estavam loteados na Secretaria Municipal de | | |
-
-|Meio Ambiente quando da promulgação da Lei Nº | | |
-
-|6205/92 | | |
+| ATUAL | PROPOSTO | QUALIFICAÇÃO |
+| --- | --- | --- |
+| Advogado/Assessor Jurídico (Q Supl)/Assessor | Procurador Municipal I, II, III | Advogado |
+| Legislativo (Q Supl)/Consultor Jurídico (Q |  |  |
+| Supl0/Assessor de Divulgação |  |  |
+| Procurador Fiscal | Procurador Fiscal I, II, III | Advogado |
+| Biólogo/Enfermeiro/Farmacêutico | Técnico Superior de Saúde I, II, III | Biólogo/Enfermeiro/Nutricionista/Farmacêutico |
+| Bioquímico/Médico |  | Bioquímico/Veterinário/Psicólogo/ |
+| Veterinário/Psicólogo/Parteira (Q |  | Fisioterapeuta/Terapeuta |
+| Supl)/Sociólogo e Assistente Social, cujos |  | Ocupacional/Sociólogo/Assistente Social |
+| ocupantes prestam serviços na Secretaria |  |  |
+| Municipal de Saúde |  |  |
+| Médico | Médico I, II, III | Médico |
+| Cirurgião Dentista | Cirurgião Dentista I, II, III | Dentista |
+| ATUAL | PROPOSTO | QUALIFICAÇÃO |
+| Auxiliar de Enfermagem/Técnico de | Técnico de Serviço de Saúde I, II, | Ortopedista/Técnico em Enfermagem/Técnico em Higiene |
+| Nutrição/Técnico em Laboratórios | III | Dental/Técnico em Laboratório/Técnico de Radiologia |
+| Médicos/Operador de Raio X |  |  |
+| Técnico de Higiene Dental/Técnico de |  | 2º Grau completo e habilitação específica |
+| Nutrição/Técnico de Laboratório Médico/Técnico |  |  |
+| de Enfermagem/Técnico de Saneamento/Técnico em |  |  |
+| óptica, todos absorvidos pela Prefeitura em |  |  |
+| obediência à Lei nº 5655/90 |  |  |
+| Atendente Odontológico/Auxiliar de |  | Habilitação específica e tempo de serviço na |
+| Enfermagem/Auxiliar de Laboratório/Auxiliar de |  | seguinte condição: menos de três anos, para classe |
+| Serviços Gerais/Auxiliar de Serviço |  | I, de três a sete anos para a classe II, mais de |
+| Administrativo/Auxiliar de Serviço de Saúde, |  | sete anos para a classe III |
+| que prestam serviço de Técnico de ótica, |  |  |
+| Técnico em Aparelho Odontológico ou Técnico em |  |  |
+| Refrigeração, todos absorvidos pela Prefeitura |  |  |
+| nos Termos da Lei nº 5858/91 |  |  |
+| Atendente Odontológico/Auxiliar de | Agente de Serviço de Saúde I, II, III | 1º Grau incompleto para a classe I; 1º grau completo |
+| Enfermagem/Auxiliar de Laboratório/Auxiliar de |  | para a classe II; e 1º Grau completo mais |
+| Serviços Gerais/Auxiliar de Serviço |  | habilitação específica para a classe III |
+| Administrativo/Auxiliar de Serviço de Saúde, |  |  |
+| que prestavam, quando da promulgação da Lei nº |  |  |
+| 5655/90, serviços específicos de auxiliar de |  |  |
+| saúde em unidades de saúde e de ensino |  |  |
+| municipal |  |  |
+|  | Auxiliar Sanitário | 1ª/4ª Séries do 1º Grau |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | Técnico Superior de Ensino |  |
+| Auxiliar de Serviços Gerais/Auxiliar de Serviço |  | 1ª/4ª Séries do 1º Grau, mais efetivo serviço por |
+| Administrativo/Ajudante de Serviço |  | pelo menos três anos |
+| Público/Oficial de Serviço Público I e II, que |  |  |
+| prestavam serviços de controle e/ou guarda de |  |  |
+| endemias ou zoonoses, absorvidos por força das |  |  |
+| Leis nºs5655/90 e 5858/91 |  |  |
+| Bibliotecário/Orientador Educacional/Supervisor |  |  |
+| Pedagógico/Pedagogo/Diretor Escola Primária I |  |  |
+| (Q Supl)/Diretor de Unidade Piloto (Q |  | Bibliotecário/Pedagogo/Psicólogo |
+| Supl)/Orientador Pedagógico (Q Supl)/Técnico de |  |  |
+| Ensino (Q Supl)/Vice-Diretor de Unidade Piloto |  |  |
+| (Q Supl)/Diretor de Escola Primária II (Q |  |  |
+| Supl)/Psicólogo |  |  |
+| Professor Municipal I/Secretário de | Professor Municipal I | Curso de Magistério |
+| Estabelecimento de Ensino I e II (Q |  | (2º Grau) |
+| Supl)/Regente de Classe I e II ( Q Supl) |  |  |
+| Professor Municipal II/Professor Municipal III | Professor Municipal II | Curso Superior |
+| (Q Supl) |  |  |
+| ATUAL | PROPOSTO | QUALIFICAÇÃO |
+| Auxiliar de Serviços e Auxiliar de Serviços I e | Auxiliar de Escola | Elementar |
+| II do Quadro Suplementar cujos ocupantes |  |  |
+| prestam serviços nas Escolas Municipais |  |  |
+| Técnico Municipal de Tributação/Fiscal de | Técnico Municipal de Tributação I, II | Administrador/Contador/Advogado/E-conomista/ |
+| Tributos Municipais II (Q Supl) | e III |  |
+| Administrador/Contador/Econo-mista/ | Analista Fazendário I, II, III | Administrador/Contador/Advogado/ Economista |
+| Agente de Administração I, II, III | Agente Fazendário I, II, III | 2º Grau |
+| Fiscal Municipal de Tributação/Tesoureiro | Fiscal Municipal de Tributação I, II, | 2º Grau |
+|  | III |  |
+| Psicólogo/Administrador/Pedagogo/Assistente | Técnico de Recursos Humanos I, II, | Psicólogo/Administrador/Pedagogo/ |
+| Social/Assessor de Divulgação (Supl) | III | Assistente Social/Técnico de Comunicação Social |
+| Administrador/Contador/Estatístico/Economista/T | Analista de Sistema Administrativo I, | Administrador/Contador/Advogado/Estatístico/Economis |
+| écnico de Comunicação Social (Q Supl) | II, III | ta/Técnico de Comunicação Social |
+| Administrador/Economista/Contador | Analista Orçamentário I, II, III | Administrador/Economista/Contador |
+|  | Auditor I, II, II | Contador |
+| Desenhista Técnico/Técnico em | Técnico de Nível Médio I, II, III | Técnico de Contabilidade/Desenhista |
+| Estatística/Técnico em Contabilidade/Topógrafo |  | Projetista/Topógrafo |
+| (Q Supl) |  |  |
+| Oficial Redator |  | 2º Grau |
+| Técnico em Equipamento Odontológico |  | 2º Grau Técnico |
+| Técnico de Manutenção absorvido pela Prefeitura |  | 2º Grau Completo com habilitação específica |
+| nos termos da Lei Nº 5655/90 |  |  |
+| Agente de Administração I, II, III/Operador de | Agente de Administração I, II, III | 2º Grau |
+| Microfilmagem/Mecanógrafo (Q Supl) |  |  |
+| Secretário de Estabelecimento de Ensino I e II | Agente de Administração III | 2º Grau |
+| Agente de Administração I, II, II | Datilógrafo | 2º Grau |
+| Telefonista | Telefonista | 1º Grau |
+| Motorista (Q Supl) | Motorista | 1º Grau |
+| Auxiliar de Administração | Auxiliar de Administração | 1º Grau |
+| Chapista/Cortador/Impressor/ Encanador | Oficial de Gráfica I, II | 1º Grau |
+| Auxiliar de Serviços/Garçom/ Auxiliar de | Auxiliar de Serviço Administrativo | 1ª/4ª Séries do 1º Grau |
+| Serviços II (Q Supl)/ Auxiliar de Serviços I (Q |  |  |
+| Supl)/ Mensageiro/ Auxiliar de Serviços Gerais |  |  |
+| absorvido nos termos da Lei nº 5655/90 |  |  |
+| Urbanista/ Técnico em Turismo/ Sociólogo/ | Técnico Superior de Serviço Público | Engenheiro/ Arquiteto/ Assistente Social/ Sociólogo/ |
+| Arquiteto/ Engenheiro Agrimensor/ Engenheiro | I, II, III | Técnico de Turismo/ Educação Física/ Biólogo/ |
+| Agrônomo/ Engenheiro/ Assistente Social/ |  | Administrador/ Bacharel em Direito/ Psicólogo/ Nível |
+| Assessor de Divulgação (Q Supl)/ Técnico em |  | Superior |
+| Zoobotânica/ Psicólogo/ Assessor Administrativo |  |  |
+| (Q Supl)/Assessor Legislativo (Q Supl)/ Capelão |  |  |
+| ATUAL | PROPOSTO | QUALIFICAÇÃO |
+| Engenheiro Civil Sanitarista e Técnico de | Técnico Superior de Serviço Público | Engenheiro/ Nível Superior |
+| Planejamento absorvidos pela Prefeitura nos | I, II, III |  |
+| termos da Lei nº 5655/90 |  |  |
+| Desenhista Técnico/ Técnico em Agrimensura/ | Técnico de Serviço Público I, II, III | Desenhista Projetista/ Técnico em Edificações/ |
+| Técnico em Edificações/ Técnico em Estradas |  | Técnico em Agrimensura/ Técnico em Estradas |
+| Fotógrafo (extinto) |  |  |
+| Oficial de Serviços / Operador de Máquinas | Oficial de Serviço Público I, II, III | 1ª/4ª Séries do 1º Grau |
+| Pesadas/ Oficial e Serviços II (Q Supl)/ |  |  |
+| Oficial de Serviços I (Q Supl) |  |  |
+| Auxiliar e Oficial de Manutenção, absorvidos |  | 1ª/4ª Séries do 1º Grau e habilitação específica |
+| nos termos da Lei nº 5655/90 |  |  |
+| Trabalhador Braçal | Ajudante de Serviço Público | Elementar |
+| Fiscal Municipal de Saúde | Inspetor Sanitário Municipal I, II, | 2º Grau |
+|  | III |  |
+| Fiscal Municipal de Obras/ Técnico em | Inspetor Municipal de Obras I, II, | 2º Grau |
+| Edificações/ Técnico em Estradas | III |  |
+| Fiscal Municipal de Posturas/ Fiscal Municipal | Inspetor Municipal de Atividades | 2º Grau |
+|  | Urbanas I, II, III |  |
+| Fiscal Municipal de Posturas I, II, III, e | Inspetor Municipal de Controle | 2º Grau |
+| Fiscal Municipal de Obras I, II, III, que | Ambiental I, II, III |  |
+| estavam loteados na Secretaria Municipal de |  |  |
+| Meio Ambiente quando da promulgação da Lei Nº |  |  |
+| 6205/92 |  |  |
 
 **Art. 82** - O Anexo V da Lei n° 5.447, de 30 de novembro de 1988, passa a ter a seguinte redação, revogando-se todas as anteriormente determinadas:
 

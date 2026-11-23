@@ -56,74 +56,40 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|Descrição da infração |Dispositi|Notific|Prazo |Multa | | | |
-
-| |vo |ação |para | | | | |
-
-| |infringid|Prévia |atendime| | | | |
-
-| |o | |nto | | | | |
-
-| |(Lei nº | | | | | | |
-
-| |10.723/14| | | | | | |
-
-| |) | | | | | | |
-
-|Apresentar informações|Artigos |Sim |10 dias |3.000,00 |5 dias |- |- |
-
-|relacionadas à |1º, 2º e | | | | | | |
-
-|segurança do |3º | | | | | | |
-
-|estabelecimento em | | | | | | | |
-
-|desacordo com a | | | | | | | |
-
-|legislação. | | | | | | | |
-
-|Utilização de |Art. 4º |Não |- |10.000,00 |A cada |Sim |Interdição da atividade |
-
-|equipamentos | | | | |constatação | |de queima dos fogos, |
-
-|pirotécnicos ou de | | | | | | |cassação do Alvará de |
-
-|sinalizadores sem a | | | | | | |Localização e |
-
-|autorização do Corpo | | | | | | |Funcionamento na 1ª |
-
-|de Bombeiros Militar | | | | | | |reincidência, com |
-
-|de Minas Gerais ou sem| | | | | | |interdição imediata do |
-
-|a presença de | | | | | | |estabelecimento. |
-
-|responsável técnico. | | | | | | | |
-
-|Utilização de |Art. 4º |Não |- |8.000,00 |A cada |Sim |Cassação do Alvará de |
-
-|equipamentos | | | | |constatação | |Localização e |
-
-|pirotécnicos ou de | | | | | | |Funcionamento na 1ª |
-
-|sinalizadores em | | | | | | |reincidência, com |
-
-|desacordo com a | | | | | | |interdição imediata das |
-
-|autorização do Corpo | | | | | | |atividades. |
-
-|de Bombeiros Militar | | | | | | | |
-
-|de Minas Gerais . | | | | | | | |
-
-|Não apresentar Auto de|Art. 5º |Não |- |10.000,00 |A cada |Sim |Cassação do Alvará de |
-
-|Vistoria do Corpo de | | | | |constatação | |Localização e |
-
-|Bombeiros Militar de | | | | | | |Funcionamento na 1ª |
-
-|Minas Gerais – AVCB. | | | | | | |reincidência, com |
-
-| | | | | | | |interdição imediata das |
-
-| | | | | | | |atividades. |
+| Descrição da infração | Dispositi | Notific | Prazo | Multa |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | vo | ação | para |  |  |  |  |
+|  | infringid | Prévia | atendime |  |  |  |  |
+|  | o |  | nto |  |  |  |  |
+|  | (Lei nº |  |  |  |  |  |  |
+|  | 10.723/14 |  |  |  |  |  |  |
+|  | ) |  |  |  |  |  |  |
+| Apresentar informações | Artigos | Sim | 10 dias | 3.000,00 | 5 dias | - | - |
+| relacionadas à | 1º, 2º e |  |  |  |  |  |  |
+| segurança do | 3º |  |  |  |  |  |  |
+| estabelecimento em |  |  |  |  |  |  |  |
+| desacordo com a |  |  |  |  |  |  |  |
+| legislação. |  |  |  |  |  |  |  |
+| Utilização de | Art. 4º | Não | - | 10.000,00 | A cada | Sim | Interdição da atividade |
+| equipamentos |  |  |  |  | constatação |  | de queima dos fogos, |
+| pirotécnicos ou de |  |  |  |  |  |  | cassação do Alvará de |
+| sinalizadores sem a |  |  |  |  |  |  | Localização e |
+| autorização do Corpo |  |  |  |  |  |  | Funcionamento na 1ª |
+| de Bombeiros Militar |  |  |  |  |  |  | reincidência, com |
+| de Minas Gerais ou sem |  |  |  |  |  |  | interdição imediata do |
+| a presença de |  |  |  |  |  |  | estabelecimento. |
+| responsável técnico. |  |  |  |  |  |  |  |
+| Utilização de | Art. 4º | Não | - | 8.000,00 | A cada | Sim | Cassação do Alvará de |
+| equipamentos |  |  |  |  | constatação |  | Localização e |
+| pirotécnicos ou de |  |  |  |  |  |  | Funcionamento na 1ª |
+| sinalizadores em |  |  |  |  |  |  | reincidência, com |
+| desacordo com a |  |  |  |  |  |  | interdição imediata das |
+| autorização do Corpo |  |  |  |  |  |  | atividades. |
+| de Bombeiros Militar |  |  |  |  |  |  |  |
+| de Minas Gerais . |  |  |  |  |  |  |  |
+| Não apresentar Auto de | Art. 5º | Não | - | 10.000,00 | A cada | Sim | Cassação do Alvará de |
+| Vistoria do Corpo de |  |  |  |  | constatação |  | Localização e |
+| Bombeiros Militar de |  |  |  |  |  |  | Funcionamento na 1ª |
+| Minas Gerais – AVCB. |  |  |  |  |  |  | reincidência, com |
+|  |  |  |  |  |  |  | interdição imediata das |
+|  |  |  |  |  |  |  | atividades. |

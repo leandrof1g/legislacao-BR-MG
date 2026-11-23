@@ -616,15 +616,7 @@ Martim Francisco Coelho de Andrada
 
 Vice-presidente do Conselho Municipal de Planejamento do Desenvolvimento
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

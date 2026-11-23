@@ -70,43 +70,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |61.500,00 |
-
-|2302.10.302.0114.2936.339039.2.621.000 |27.440.882,11 |
-
-|2302.10.303.0117.2895.339039.2.621.000 |32.240,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449093.2.701.000 |188.030,02 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.10.302.0030.2875.449093.2.501.784 |457.804,54 |
-
-|2301.10.302.0030.2875.449093.2.501.778 |406.387,57 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1400.449051.2.754.791 |2.034.533,48 |
-
-|2700.15.451.0062.1230.449093.2.700.000 |2.560.473,71 |
-
-|2700.04.122.0233.1219.449093.2.703.000 |2.695,60 |
-
-|Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |
-
-|3102.13.391.0155.2375.339039.2.501.000 |123.002,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |33.307.549,03 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 61.500,00 |
+| 2302.10.302.0114.2936.339039.2.621.000 | 27.440.882,11 |
+| 2302.10.303.0117.2895.339039.2.621.000 | 32.240,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449093.2.701.000 | 188.030,02 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.10.302.0030.2875.449093.2.501.784 | 457.804,54 |
+| 2301.10.302.0030.2875.449093.2.501.778 | 406.387,57 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1400.449051.2.754.791 | 2.034.533,48 |
+| 2700.15.451.0062.1230.449093.2.700.000 | 2.560.473,71 |
+| 2700.04.122.0233.1219.449093.2.703.000 | 2.695,60 |
+| Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |  |
+| 3102.13.391.0155.2375.339039.2.501.000 | 123.002,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 33.307.549,03 |
 
 ANEXO II
 

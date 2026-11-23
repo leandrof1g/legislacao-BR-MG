@@ -52,16 +52,11 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-| |
-
-|I.1 – A favor do Fundo Municipal do Idoso – FMI –, conforme autorização contida no art. 43 da Lei federal nº 4.320,|
-
-|de 17 de março de 1964: |
-
-|R$ |
-
-|1018.08.241.235.2.697.3390.0330 |9.202.538,00 |
-
-|1018.08.241.235.2.697.4490.0430 |39.600,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |9.242.138,00 |
+|  |  |
+| --- | --- |
+| I.1 – A favor do Fundo Municipal do Idoso – FMI –, conforme autorização contida no art. 43 da Lei federal nº 4.320, |  |
+| de 17 de março de 1964: |  |
+| R$ |  |
+| 1018.08.241.235.2.697.3390.0330 | 9.202.538,00 |
+| 1018.08.241.235.2.697.4490.0430 | 39.600,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 9.242.138,00 |

@@ -812,11 +812,10 @@ ANEXO VII
 
 TABELA DE INFRAÇÕES E PENALIDADES CABÍVEIS
 
-|Item |Detalhamento da Infração |Detalhamento da Penalidade |
-
-| | |Multa |Embargo |Cassação da |Interdição |Demolição |
-
-| | | | |licença | | |
+| Item | Detalhamento da Infração | Detalhamento da Penalidade |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Multa | Embargo | Cassação da | Interdição | Demolição |
+|  |  |  |  | licença |  |  |
 
 |Descrição |Dispositivo Infringido/
 

@@ -64,89 +64,49 @@ XII - Secretaria Municipal de Governo; XIII - Secretaria Municipal Adjunta de Es
 
 “ANEXO II SUPERAÇÃO DAS METAS DE OTIMIZAÇÃO DOS SERVIÇOS PÚBLICOS DE ENGENHARIA E ARQUITETURA
 
-|Órgão |Produtos |Meta |
-
-|SMARU |Regularização de edificação ex-officio |30 dias |
-
-| |Aprovação de desmembramento e modificação de parcelamento do solo |99 dias |
-
-| |Aprovação de edificação |84 dias |
-
-| |Alvará de localização e funcionamento sem parecer ambiental |11 dias |
-
-| |Alvará de localização e funcionamento com parecer ambiental |39 dias |
-
-| |Baixa de construção e Habite-se sem pendência |16 dias |
-
-| |Baixa de construção e Habite-se com pendência |53 dias |
-
-|SMMA |Licenciamento Ambiental - LI, LO, ZPAM, ZPI e APP |60 dias |
-
-| |Licenciamento Ambiental - LP |120 dias |
-
-| |Parecer ambiental para ALF |28 dias |
-
-| |Parecer ambiental para construção |10 dias |
-
-| |Licenciamento para Movimentação de terra |15 dias |
-
-| |Licenciamento para intervenção em vegetação |15 dias |
-
-| |Licenciamento da DN 41 |15 dias |
-
-|SMAPU |Conclusão de análise para encaminhamento ao COMPUR |30 dias |
-
-|SMOI | | |
-
-|SMAPC | | |
-
-| |Acompanhamento de plano, projeto ou obra |Redução de 10% do |
-
-| | |prazo do cronograma |
-
-| | |pré-programado |
-
-| |Elaboração de plano, projeto, mapa ou estudo |Redução de 10% do |
-
-| | |prazo do cronograma |
-
-| | |pré-programado |
-
-| |Parecer Técnico - Projetos |20 dias |
-
-| |Parecer Técnico - Manutenção |20 dias |
-
-| |Acompanhamento de obras licitadas |Redução de 10% do |
-
-| | |prazo do cronograma |
-
-| | |pré-programado |
-
-|SMPL |Acompanhamento de plano, projeto ou obra |Redução de 10% do |
-
-| | |prazo do cronograma |
-
-| | |pré-programado |
-
-| |Elaboração de plano, projeto, mapa ou estudo |Redução de 10% do |
-
-| | |prazo do cronograma |
-
-| | |pré-programado |
-
-|SARMUs |Atendimento às demandas do Disque Tapa Buraco |5 dias |
-
-| |Limpeza de Bocas de Lobo |40% do total da |
-
-| | |Regional/mês |
-
-| |Atendimento aos próprios municipais |30% do total da |
-
-| | |Regional/mês |
-
-| |Vistoria técnica para intervenção em arborização, em atendimento às |15 dias |
-
-| |demandas do SAC | |
+| Órgão | Produtos | Meta |
+| --- | --- | --- |
+| SMARU | Regularização de edificação ex-officio | 30 dias |
+|  | Aprovação de desmembramento e modificação de parcelamento do solo | 99 dias |
+|  | Aprovação de edificação | 84 dias |
+|  | Alvará de localização e funcionamento sem parecer ambiental | 11 dias |
+|  | Alvará de localização e funcionamento com parecer ambiental | 39 dias |
+|  | Baixa de construção e Habite-se sem pendência | 16 dias |
+|  | Baixa de construção e Habite-se com pendência | 53 dias |
+| SMMA | Licenciamento Ambiental - LI, LO, ZPAM, ZPI e APP | 60 dias |
+|  | Licenciamento Ambiental - LP | 120 dias |
+|  | Parecer ambiental para ALF | 28 dias |
+|  | Parecer ambiental para construção | 10 dias |
+|  | Licenciamento para Movimentação de terra | 15 dias |
+|  | Licenciamento para intervenção em vegetação | 15 dias |
+|  | Licenciamento da DN 41 | 15 dias |
+| SMAPU | Conclusão de análise para encaminhamento ao COMPUR | 30 dias |
+| SMOI |  |  |
+| SMAPC |  |  |
+|  | Acompanhamento de plano, projeto ou obra | Redução de 10% do |
+|  |  | prazo do cronograma |
+|  |  | pré-programado |
+|  | Elaboração de plano, projeto, mapa ou estudo | Redução de 10% do |
+|  |  | prazo do cronograma |
+|  |  | pré-programado |
+|  | Parecer Técnico - Projetos | 20 dias |
+|  | Parecer Técnico - Manutenção | 20 dias |
+|  | Acompanhamento de obras licitadas | Redução de 10% do |
+|  |  | prazo do cronograma |
+|  |  | pré-programado |
+| SMPL | Acompanhamento de plano, projeto ou obra | Redução de 10% do |
+|  |  | prazo do cronograma |
+|  |  | pré-programado |
+|  | Elaboração de plano, projeto, mapa ou estudo | Redução de 10% do |
+|  |  | prazo do cronograma |
+|  |  | pré-programado |
+| SARMUs | Atendimento às demandas do Disque Tapa Buraco | 5 dias |
+|  | Limpeza de Bocas de Lobo | 40% do total da |
+|  |  | Regional/mês |
+|  | Atendimento aos próprios municipais | 30% do total da |
+|  |  | Regional/mês |
+|  | Vistoria técnica para intervenção em arborização, em atendimento às | 15 dias |
+|  | demandas do SAC |  |
 
 ” (NR)
 

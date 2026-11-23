@@ -320,232 +320,119 @@ NOTAS:
 
 4 - Na impossibilidade técnica de remoção ou apreensão do equipamento ou produto, serão aplicadas sucessivas multas, considerando o valor da última multa e a periodicidade previstos no Anexo I do Decreto nº 11.601/04, com redação dada pelo Decreto nº 11.698/04 (ver art. 188 do Decreto nº 11.601/04, com redação dada pelo Decreto nº 11.698/04).
 
-|ITENS DE MOBILIÁRIO URBANO DO ANEXO I DO DECRETO Nº 11.601/04 APLICÁVEIS A TOLDO |
-
-|ITEM |INFRAÇÃO |DISPOSITIVO INFRINGIDO |PENALIDADES |
-
-|29 |Instalar mobiliário urbano |Lei nº 8.616/03, art. 61, § 2°. |INSTALAÇÃO DE MOBILIÁRIO MÓVEL: |
-
-| |em padrões diferentes do | | |
-
-| |aprovado pelo Executivo. | |- Multa de R$50,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 24 (vinte e quatro) horas, conforme Lei nº |
-
-| | | |8.616/03, artigos 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art.169, V, Anexo I, item 29, com redação dada pelo Decreto nº |
-
-| | | |11.698/04. |
-
-| | | |- Apreensão imediata e simultânea à multa, conforme Lei nº 8.616/03, art. 313, caput e § 1º e Decreto nº 11.601/04, art. 172, caput e|
-
-| | | |Anexo I, item 29, com redação dada pelo Decreto nº 11.698/04. |
-
-| | | | |
-
-| | | |INSTALAÇÃO DE MOBILIÁRIO FIXO: |
-
-| | | | |
-
-| | | |- Multa de R$500,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 7 (sete) dias, conforme Lei nº 8.616/03, artigos|
-
-| | | |307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art. 169, V, Anexo I, item 29, com redação dada pelo Decreto nº 11.698/04. |
-
-| | | |- Notificação acessória, conforme Decreto nº 11.601/04, art. 168, § 2º e Anexo I, item 29, com redação dada pelo Decreto nº |
-
-| | | |11.698/04. |
-
-| | | |- Demolição simultânea à multa, conforme art. 318, III da Lei nº 8.616/03 e Decreto nº 11.601/04, Anexo I, item 29, com redação dada |
-
-| | | |pelo Decreto nº 11.698/04. |
-
-| | | |- Apreensão simultânea à multa, conforme art. 313, caput da Lei nº 8.616/03, e Decreto nº 11.601/04, Anexo I, item 29, com redação |
-
-| | | |dada Decreto nº 11.698/04. |
-
-|31 |Instalar mobiliário urbano |Lei nº 8.616/03, art. 67 e Decreto |NÃO PREJUDICANDO A SEGURANÇA: |
-
-| |prejudicando a segurança, o|nº 11.601/04, art. 46, I e II. | |
-
-| |trânsito ou a estética da | |- Notificação prévia com prazo de 5 (cinco) dias. |
-
-| |cidade. | |- Multa de R$150,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 05 (cinco) dias, conforme Lei nº 8.616/03, art. |
-
-| | | |311, caput, §§ 1º e 2º e Decreto nº 11.601/04, Anexo I, item 31, com redação dada pelo Decreto nº 11.698/04. |
-
-| | | |- Apreensão na terceira reincidência, conforme Lei nº 8.616/03, art. 313, caput e Decreto nº 11.601/04, Anexo I, item 31, com redação|
-
-| | | |dada pelo Decreto nº 11.698/04. |
-
-| | | | |
-
-| | | |PREJUDICANDO A SEGURANÇA: |
-
-| | | | |
-
-| | | |- Multa de R$400,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 24 (vinte e quatro) horas, conforme Lei nº |
-
-| | | |8.616/03, artigos 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art.169, V, Anexo I, item 31, com redação dada pelo Decreto nº |
-
-| | | |11.698/04. |
-
-| | | |- Apreensão imediata e simultânea à multa, conforme Lei nº 8.616/03, art. 313, caput e § 1º e Decreto nº 11.601/04, art. 172, caput e|
-
-| | | |Anexo I, item 31, com redação dada pelo Decreto nº 11.698/04. |
-
-|32 |Instalar mobiliário urbano |Lei nº 8.616/03, art. 68 e art. 46,|- Notificação prévia com prazo de 48 (quarenta e oito) horas. |
-
-| |interferindo na |III do Decreto nº 11.601/04. |- Multa de R$500,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 05 (cinco) dias, conforme Lei nº 8.616/03, art. |
-
-| |visibilidade de bem | |311, caput, §§ 1º e 2º e Decreto nº 11.601/04, Anexo I, item 32, com redação dada pelo Decreto nº11.698/04. |
-
-| |tombado. | |- Apreensão na terceira reincidência, conforme Lei nº 8.616/03, art. 313, caput e Decreto nº 11.601/04, Anexo I, item 32, com redação|
-
-| | | |dada pelo Decreto nº 11.698/04. |
-
-|34 |Deixar de manter mobiliário|Lei nº 8.616/03, art. 72. |PREJUDICANDO A CONDIÇÃO DE FUNCIONAMENTO OU CONSERVAÇÃO: |
-
-| |urbano em perfeita condição| | |
-
-| |de funcionamento, | |- Notificação prévia com prazo de 5 (cinco) dias. |
-
-| |conservação e segurança. | |- Multa de R$100,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 5 (cinco) dias, conforme Lei nº 8.616/03, art. |
-
-| | | |311, caput, §§ 1º e 2º e Decreto nº 11.601/04, Anexo I, item 34, com redação dada Decreto nº 11.698/04. |
-
-| | | |- Cassação do DML conforme Lei nº 8.616/03, art. 315 e Decreto nº 11.601/04, art. 179, Anexo I, item 34, com redação dada pelo |
-
-| | | |Decreto nº 11.698/04. |
-
-| | | |- Apreensão após cassação, conforme Lei nº 8.616/03, art. 313, caput, e Decreto nº 11.601/04, Anexo I, item 34, com redação dada pelo|
-
-| | | |Decreto nº 11.698/04. |
-
-| | | | |
-
-| | | |PREJUDICANDO A CONDIÇÃO DE SEGURANÇA: |
-
-| | | | |
-
-| | | |- Multa de R$400,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 24 (vinte e quatro) horas, conforme Lei nº |
-
-| | | |8.616/03, artigos 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art.169, V, Anexo I, item 34, com redação dada pelo Decreto nº |
-
-| | | |11.698/04. |
-
-| | | |- Apreensão imediata e simultânea à multa, conforme Lei nº 8.616/03, art. 313, caput e § 1º e Decreto nº 11.601/04, art. 172, caput e|
-
-| | | |Anexo I, item 34, com redação dada pelo Decreto nº 11.698/04. |
-
-|35 |Deixar de remover |Lei nº 8.616/03, art. 73, I |SE MOBILIÁRIO MÓVEL: |
-
-| |mobiliário urbano. |(mobiliário móvel), II (mobiliário | |
-
-| | |fixo) e III (mobiliário móvel ou |- Multa de R$50,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 24 (vinte e quatro) horas, conforme Lei nº |
-
-| | |fixo por interesse público). |8.616/03, artigos 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art. 169, V, Anexo I, item 35, com redação dada pelo Decreto nº |
-
-| | | |11.698/04. |
-
-| | | |- Apreensão imediata e simultânea à multa, conforme Lei nº 8.616/03, art. 313, caput e § 1º e Decreto nº 11.601/04, art. 172, caput e|
-
-| | | |Anexo I, item 35, com redação dada pelo Decreto nº 11.698/04. |
-
-| | | | |
-
-| | | |SE MOBILIÁRIO FIXO: |
-
-| | | | |
-
-| | | |- Multa de R$200,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 5 (cinco) dias, conforme Lei nº 8.616/03, |
-
-| | | |artigos 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art. 169, V, Anexo I, item 35, com redação dada pelo Decreto nº 11.698/04. |
-
-| | | |- Notificação acessória, conforme Decreto nº 11.601/04, art. 168, § 2º e Anexo I, item 35, com redação dada pelo Decreto nº |
-
-| | | |11.698/04. |
-
-| | | |- Demolição, conforme art. 318, III da Lei nº 8.616/03 e Decreto nº 11.601/04, Anexo I, item 35, com redação dada pelo Decreto nº |
-
-| | | |11.698/04. |
-
-| | | |- Apreensão, conforme art. 313, caput da Lei nº 8.616/03, e Decreto nº 11.601/04, Anexo I, item 35, com redação dada Decreto nº |
-
-| | | |11.698/04. |
-
-| | | | |
-
-| | | |SE MOBILIÁRIO MÓVEL OU FIXO POR INTERESSE PÚBLICO: |
-
-| | | | |
-
-| | | |- Notificação prévia com prazo de 5 (cinco) dias. |
-
-| | | |- Multa de R$200,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 5 (cinco) dias, conforme Lei nº 8.616/03, art. |
-
-| | | |311, caput, §§ 1º e 2º e Decreto nº 11.601/04, Anexo I, item 35, com redação dada pelo Decreto nº 11.698/04. |
-
-| | | |- Cassação do DML conforme Lei nº 8.616/03, art. 315 e Decreto nº 11.601/04, art. 179, Anexo I, item 35, com redação dada pelo |
-
-| | | |Decreto nº 11.698/04. |
-
-| | | |- Apreensão imediata após cassação conforme artigos 313, caput, e Decreto nº 11.601/04, Anexo I, item 35, com redação dada Decreto nº|
-
-| | | |11.698/04. |
-
-| | | |- Demolição (se mobiliário fixo), conforme art. 318, III da Lei nº 8.616/03 e Decreto nº 11.601/04, Anexo I, item 35, com redação |
-
-| | | |dada pelo Decreto nº 11.698/04. |
-
-|36 |Deixar de reparar dano no |Lei nº 8.616/03, art. 73, § 2º. |- Notificação prévia com prazo de 5 (cinco) dias. |
-
-| |logradouro público em | |- Multa de R$150,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 5 (cinco) dias, conforme Lei nº 8.616/03, art. |
-
-| |decorrência de remoção de | |311, caput, §§ 1º e 2º e Decreto nº 11.601/04, Anexo I, item 36, com redação dada pelo Decreto nº 11.698/04. |
-
-| |mobiliário urbano. | | |
-
-|ITENS DO ANEXO I DO DECRETO Nº 11.601/04 ESPECÍFICOS DE TOLDO |
-
-|ITEM |INFRAÇÃO |DISPOSITIVO TRANSGREDIDO |PENALIDADES |
-
-|42 |Instalar toldo sem licença.|Art.84, parágrafo único da Lei nº |TOLDO PASSÍVEL DE REGULARIZAÇÃO: |
-
-| | |8.616/03 e Decreto nº 11.601/04, | |
-
-| | |art. 59, parágrafo único. |- Notificação prévia, no prazo de 15 (quinze) dias. |
-
-| | | |- Multa de R$50,00 cobrada em dobro e em triplo nas reincidências, aplicada a cada 15 (quinze) dias, conforme Lei nº 8.616/03, art. |
-
-| | | |311, caput, §§1º e 2º e Decreto nº 11.601/04, Anexo I, item 42, com redação dada do Decreto nº 11.698/04. |
-
-| | | |- Apreensão na 3ª reincidência, conforme art. 313, caput, da Lei nº 8.616/03 e Decreto nº 11.601/04, Anexo I, item 42, com redação |
-
-| | | |dada pelo Decreto nº 11.698/04. |
-
-| | | | |
-
-| | | |TOLDO NÃO PASSÍVEL DE REGULARIZAÇÃO: |
-
-| | | | |
-
-| | | |- Notificação prévia, no prazo de 15 (quinze) dias. |
-
-| | | |- Multa de R$100,00 cobrada em dobro e em triplo nas reincidências, aplicada a cada 15(quinze) dias, conforme Lei nº 8.616/03, art. |
-
-| | | |311, caput, §§1º e 2º e Decreto nº 11.601/04, Anexo I, item 42, com redação dada do Decreto nº 11.698/04. |
-
-| | | |- Apreensão na 3ª reincidência, conforme art. 313, caput, da Lei nº 8.616/03 e Decreto nº 11.601/04, Anexo I, item 42, com redação |
-
-| | | |dada pelo Decreto nº 11.698/04. |
-
-|43 |Instalar toldo em desacordo|Artigos 84,85,86,87 da Lei 8.616/03|- Notificação prévia, no prazo de 15 (quinze) dias; |
-
-| |com o previsto. |e Decreto nº 11.601/04 artigos 59, |- Multa de R$50,00 cobrada em dobro e em triplo nas reincidências, aplicada a cada 15 (quinze) dias, conforme Lei nº 8.616/03, art. |
-
-| | |60, 62, 63, 64. |311, caput, §§1º e 2º e Decreto nº 11.601/04, Anexo I, item 43, com redação dada pelo Decreto nº 11.698/04. |
-
-| | | |- Cassação, conforme art. 315 da Lei nº 8.616/03 e Decreto nº 11.601/04, art. 179, Anexo I, item 43, com redação dada pelo Decreto |
-
-| | | |nº 11.698/04; |
-
-| | | |- Apreensão imediata após a cassação, conforme art. 313, caput, da Lei nº 8.616/03 e do Decreto nº 11.601/04, Anexo I, item 43, com |
-
-| | | |redação dada pelo Decreto nº 11.698/04. |
+| ITENS DE MOBILIÁRIO URBANO DO ANEXO I DO DECRETO Nº 11.601/04 APLICÁVEIS A TOLDO |  |  |  |
+| --- | --- | --- | --- |
+| ITEM | INFRAÇÃO | DISPOSITIVO INFRINGIDO | PENALIDADES |
+| 29 | Instalar mobiliário urbano | Lei nº 8.616/03, art. 61, § 2°. | INSTALAÇÃO DE MOBILIÁRIO MÓVEL: |
+|  | em padrões diferentes do |  |  |
+|  | aprovado pelo Executivo. |  | - Multa de R$50,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 24 (vinte e quatro) horas, conforme Lei nº |
+|  |  |  | 8.616/03, artigos 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art.169, V, Anexo I, item 29, com redação dada pelo Decreto nº |
+|  |  |  | 11.698/04. |
+|  |  |  | - Apreensão imediata e simultânea à multa, conforme Lei nº 8.616/03, art. 313, caput e § 1º e Decreto nº 11.601/04, art. 172, caput e |
+|  |  |  | Anexo I, item 29, com redação dada pelo Decreto nº 11.698/04. |
+|  |  |  |  |
+|  |  |  | INSTALAÇÃO DE MOBILIÁRIO FIXO: |
+|  |  |  |  |
+|  |  |  | - Multa de R$500,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 7 (sete) dias, conforme Lei nº 8.616/03, artigos |
+|  |  |  | 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art. 169, V, Anexo I, item 29, com redação dada pelo Decreto nº 11.698/04. |
+|  |  |  | - Notificação acessória, conforme Decreto nº 11.601/04, art. 168, § 2º e Anexo I, item 29, com redação dada pelo Decreto nº |
+|  |  |  | 11.698/04. |
+|  |  |  | - Demolição simultânea à multa, conforme art. 318, III da Lei nº 8.616/03 e Decreto nº 11.601/04, Anexo I, item 29, com redação dada |
+|  |  |  | pelo Decreto nº 11.698/04. |
+|  |  |  | - Apreensão simultânea à multa, conforme art. 313, caput da Lei nº 8.616/03, e Decreto nº 11.601/04, Anexo I, item 29, com redação |
+|  |  |  | dada Decreto nº 11.698/04. |
+| 31 | Instalar mobiliário urbano | Lei nº 8.616/03, art. 67 e Decreto | NÃO PREJUDICANDO A SEGURANÇA: |
+|  | prejudicando a segurança, o | nº 11.601/04, art. 46, I e II. |  |
+|  | trânsito ou a estética da |  | - Notificação prévia com prazo de 5 (cinco) dias. |
+|  | cidade. |  | - Multa de R$150,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 05 (cinco) dias, conforme Lei nº 8.616/03, art. |
+|  |  |  | 311, caput, §§ 1º e 2º e Decreto nº 11.601/04, Anexo I, item 31, com redação dada pelo Decreto nº 11.698/04. |
+|  |  |  | - Apreensão na terceira reincidência, conforme Lei nº 8.616/03, art. 313, caput e Decreto nº 11.601/04, Anexo I, item 31, com redação |
+|  |  |  | dada pelo Decreto nº 11.698/04. |
+|  |  |  |  |
+|  |  |  | PREJUDICANDO A SEGURANÇA: |
+|  |  |  |  |
+|  |  |  | - Multa de R$400,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 24 (vinte e quatro) horas, conforme Lei nº |
+|  |  |  | 8.616/03, artigos 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art.169, V, Anexo I, item 31, com redação dada pelo Decreto nº |
+|  |  |  | 11.698/04. |
+|  |  |  | - Apreensão imediata e simultânea à multa, conforme Lei nº 8.616/03, art. 313, caput e § 1º e Decreto nº 11.601/04, art. 172, caput e |
+|  |  |  | Anexo I, item 31, com redação dada pelo Decreto nº 11.698/04. |
+| 32 | Instalar mobiliário urbano | Lei nº 8.616/03, art. 68 e art. 46, | - Notificação prévia com prazo de 48 (quarenta e oito) horas. |
+|  | interferindo na | III do Decreto nº 11.601/04. | - Multa de R$500,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 05 (cinco) dias, conforme Lei nº 8.616/03, art. |
+|  | visibilidade de bem |  | 311, caput, §§ 1º e 2º e Decreto nº 11.601/04, Anexo I, item 32, com redação dada pelo Decreto nº11.698/04. |
+|  | tombado. |  | - Apreensão na terceira reincidência, conforme Lei nº 8.616/03, art. 313, caput e Decreto nº 11.601/04, Anexo I, item 32, com redação |
+|  |  |  | dada pelo Decreto nº 11.698/04. |
+| 34 | Deixar de manter mobiliário | Lei nº 8.616/03, art. 72. | PREJUDICANDO A CONDIÇÃO DE FUNCIONAMENTO OU CONSERVAÇÃO: |
+|  | urbano em perfeita condição |  |  |
+|  | de funcionamento, |  | - Notificação prévia com prazo de 5 (cinco) dias. |
+|  | conservação e segurança. |  | - Multa de R$100,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 5 (cinco) dias, conforme Lei nº 8.616/03, art. |
+|  |  |  | 311, caput, §§ 1º e 2º e Decreto nº 11.601/04, Anexo I, item 34, com redação dada Decreto nº 11.698/04. |
+|  |  |  | - Cassação do DML conforme Lei nº 8.616/03, art. 315 e Decreto nº 11.601/04, art. 179, Anexo I, item 34, com redação dada pelo |
+|  |  |  | Decreto nº 11.698/04. |
+|  |  |  | - Apreensão após cassação, conforme Lei nº 8.616/03, art. 313, caput, e Decreto nº 11.601/04, Anexo I, item 34, com redação dada pelo |
+|  |  |  | Decreto nº 11.698/04. |
+|  |  |  |  |
+|  |  |  | PREJUDICANDO A CONDIÇÃO DE SEGURANÇA: |
+|  |  |  |  |
+|  |  |  | - Multa de R$400,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 24 (vinte e quatro) horas, conforme Lei nº |
+|  |  |  | 8.616/03, artigos 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art.169, V, Anexo I, item 34, com redação dada pelo Decreto nº |
+|  |  |  | 11.698/04. |
+|  |  |  | - Apreensão imediata e simultânea à multa, conforme Lei nº 8.616/03, art. 313, caput e § 1º e Decreto nº 11.601/04, art. 172, caput e |
+|  |  |  | Anexo I, item 34, com redação dada pelo Decreto nº 11.698/04. |
+| 35 | Deixar de remover | Lei nº 8.616/03, art. 73, I | SE MOBILIÁRIO MÓVEL: |
+|  | mobiliário urbano. | (mobiliário móvel), II (mobiliário |  |
+|  |  | fixo) e III (mobiliário móvel ou | - Multa de R$50,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 24 (vinte e quatro) horas, conforme Lei nº |
+|  |  | fixo por interesse público). | 8.616/03, artigos 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art. 169, V, Anexo I, item 35, com redação dada pelo Decreto nº |
+|  |  |  | 11.698/04. |
+|  |  |  | - Apreensão imediata e simultânea à multa, conforme Lei nº 8.616/03, art. 313, caput e § 1º e Decreto nº 11.601/04, art. 172, caput e |
+|  |  |  | Anexo I, item 35, com redação dada pelo Decreto nº 11.698/04. |
+|  |  |  |  |
+|  |  |  | SE MOBILIÁRIO FIXO: |
+|  |  |  |  |
+|  |  |  | - Multa de R$200,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 5 (cinco) dias, conforme Lei nº 8.616/03, |
+|  |  |  | artigos 307, II e 311, §§ 1º e 2º e Decreto nº 11.601/04, art. 169, V, Anexo I, item 35, com redação dada pelo Decreto nº 11.698/04. |
+|  |  |  | - Notificação acessória, conforme Decreto nº 11.601/04, art. 168, § 2º e Anexo I, item 35, com redação dada pelo Decreto nº |
+|  |  |  | 11.698/04. |
+|  |  |  | - Demolição, conforme art. 318, III da Lei nº 8.616/03 e Decreto nº 11.601/04, Anexo I, item 35, com redação dada pelo Decreto nº |
+|  |  |  | 11.698/04. |
+|  |  |  | - Apreensão, conforme art. 313, caput da Lei nº 8.616/03, e Decreto nº 11.601/04, Anexo I, item 35, com redação dada Decreto nº |
+|  |  |  | 11.698/04. |
+|  |  |  |  |
+|  |  |  | SE MOBILIÁRIO MÓVEL OU FIXO POR INTERESSE PÚBLICO: |
+|  |  |  |  |
+|  |  |  | - Notificação prévia com prazo de 5 (cinco) dias. |
+|  |  |  | - Multa de R$200,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 5 (cinco) dias, conforme Lei nº 8.616/03, art. |
+|  |  |  | 311, caput, §§ 1º e 2º e Decreto nº 11.601/04, Anexo I, item 35, com redação dada pelo Decreto nº 11.698/04. |
+|  |  |  | - Cassação do DML conforme Lei nº 8.616/03, art. 315 e Decreto nº 11.601/04, art. 179, Anexo I, item 35, com redação dada pelo |
+|  |  |  | Decreto nº 11.698/04. |
+|  |  |  | - Apreensão imediata após cassação conforme artigos 313, caput, e Decreto nº 11.601/04, Anexo I, item 35, com redação dada Decreto nº |
+|  |  |  | 11.698/04. |
+|  |  |  | - Demolição (se mobiliário fixo), conforme art. 318, III da Lei nº 8.616/03 e Decreto nº 11.601/04, Anexo I, item 35, com redação |
+|  |  |  | dada pelo Decreto nº 11.698/04. |
+| 36 | Deixar de reparar dano no | Lei nº 8.616/03, art. 73, § 2º. | - Notificação prévia com prazo de 5 (cinco) dias. |
+|  | logradouro público em |  | - Multa de R$150,00, cobrada em dobro e em triplo nas reincidências, aplicada a cada 5 (cinco) dias, conforme Lei nº 8.616/03, art. |
+|  | decorrência de remoção de |  | 311, caput, §§ 1º e 2º e Decreto nº 11.601/04, Anexo I, item 36, com redação dada pelo Decreto nº 11.698/04. |
+|  | mobiliário urbano. |  |  |
+| ITENS DO ANEXO I DO DECRETO Nº 11.601/04 ESPECÍFICOS DE TOLDO |  |  |  |
+| ITEM | INFRAÇÃO | DISPOSITIVO TRANSGREDIDO | PENALIDADES |
+| 42 | Instalar toldo sem licença. | Art.84, parágrafo único da Lei nº | TOLDO PASSÍVEL DE REGULARIZAÇÃO: |
+|  |  | 8.616/03 e Decreto nº 11.601/04, |  |
+|  |  | art. 59, parágrafo único. | - Notificação prévia, no prazo de 15 (quinze) dias. |
+|  |  |  | - Multa de R$50,00 cobrada em dobro e em triplo nas reincidências, aplicada a cada 15 (quinze) dias, conforme Lei nº 8.616/03, art. |
+|  |  |  | 311, caput, §§1º e 2º e Decreto nº 11.601/04, Anexo I, item 42, com redação dada do Decreto nº 11.698/04. |
+|  |  |  | - Apreensão na 3ª reincidência, conforme art. 313, caput, da Lei nº 8.616/03 e Decreto nº 11.601/04, Anexo I, item 42, com redação |
+|  |  |  | dada pelo Decreto nº 11.698/04. |
+|  |  |  |  |
+|  |  |  | TOLDO NÃO PASSÍVEL DE REGULARIZAÇÃO: |
+|  |  |  |  |
+|  |  |  | - Notificação prévia, no prazo de 15 (quinze) dias. |
+|  |  |  | - Multa de R$100,00 cobrada em dobro e em triplo nas reincidências, aplicada a cada 15(quinze) dias, conforme Lei nº 8.616/03, art. |
+|  |  |  | 311, caput, §§1º e 2º e Decreto nº 11.601/04, Anexo I, item 42, com redação dada do Decreto nº 11.698/04. |
+|  |  |  | - Apreensão na 3ª reincidência, conforme art. 313, caput, da Lei nº 8.616/03 e Decreto nº 11.601/04, Anexo I, item 42, com redação |
+|  |  |  | dada pelo Decreto nº 11.698/04. |
+| 43 | Instalar toldo em desacordo | Artigos 84,85,86,87 da Lei 8.616/03 | - Notificação prévia, no prazo de 15 (quinze) dias; |
+|  | com o previsto. | e Decreto nº 11.601/04 artigos 59, | - Multa de R$50,00 cobrada em dobro e em triplo nas reincidências, aplicada a cada 15 (quinze) dias, conforme Lei nº 8.616/03, art. |
+|  |  | 60, 62, 63, 64. | 311, caput, §§1º e 2º e Decreto nº 11.601/04, Anexo I, item 43, com redação dada pelo Decreto nº 11.698/04. |
+|  |  |  | - Cassação, conforme art. 315 da Lei nº 8.616/03 e Decreto nº 11.601/04, art. 179, Anexo I, item 43, com redação dada pelo Decreto |
+|  |  |  | nº 11.698/04; |
+|  |  |  | - Apreensão imediata após a cassação, conforme art. 313, caput, da Lei nº 8.616/03 e do Decreto nº 11.601/04, Anexo I, item 43, com |
+|  |  |  | redação dada pelo Decreto nº 11.698/04. |

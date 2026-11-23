@@ -42,11 +42,10 @@ O Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|agosto |Agosto Marrom - Combate, Prevenção e Conscientização sobre a Intolerância |
-
-| |Religiosa |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| agosto | Agosto Marrom - Combate, Prevenção e Conscientização sobre a Intolerância |
+|  | Religiosa |
 
 .".
 

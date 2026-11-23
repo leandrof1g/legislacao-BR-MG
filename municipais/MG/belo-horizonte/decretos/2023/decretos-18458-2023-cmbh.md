@@ -58,237 +58,126 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da |R$ |
-
-|Lei nº 11.442, de 29 de dezembro de 2022: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.0500.04.122.007.2.900.339037.500 |1.574,00 |
-
-|0201.0800.04.122.007.2.900.339037.500 |37.190,00 |
-
-|0201.0900.04.122.007.2.900.339037.500 |56.490,00 |
-
-|0201.1100.04.122.096.2.004.339037.500 |518,00 |
-
-|0201.1100.04.122.096.2.004.339040.500 |18.000,00 |
-
-|0201.1100.04.122.096.2.004.339093.500 |10.000,00 |
-
-|0201.1100.04.122.096.2.004.449052.500 |2.000,00 |
-
-|Procuradoria-Geral do Município - PGM |
-
-|0500.1200.04.062.003.2.011.339093.500 |1.290.588,00 |
-
-|0500.1200.04.062.003.2.028.339036.500 |400.000,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.1800.04.122.302.2.365.339037.500 |270.000,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.1901.19.572.302.2.905.339040.500 |520.242,80 |
-
-|Fundo Previdenciário – BHPREV |
-
-|0614.1100.09.122.026.2.871.339040.802 |150.000,00 |
-
-|Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA |
-
-|1013.1100.14.243.163.2.860.449052.749 |268.906,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|1014.1100.08.306.132.2.761.339030.500 |3.000.000,00 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.1100.04.122.007.2.900.339037.500 |171.003,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.301.157.2.690.339039.621 |180.000,00 |
-
-|2302.3401.10.302.114.2.893.335043.600 |1.703.761,00 |
-
-|2302.3401.10.302.114.2.893.335043.621 |349.000,00 |
-
-|2302.3401.10.302.114.2.893.339037.621 |45.551,00 |
-
-|2302.3401.10.302.114.2.893.449052.621 |30.400,00 |
-
-|2302.3401.10.304.028.2.829.339030.621 |18.400,00 |
-
-|2302.3401.10.302.114.2.893.339034.621 |2.898.000,00 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.1100.18.542.306.2.877.335041.500 |700.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.4001.18.541.073.2.580.449052.501 |2.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.1100.12.365.169.1.211.449051.500 |694.860,00 |
-
-|2700.1100.15.451.062.1.230.449051.754 |12.000.000,00 |
-
-|2700.1100.15.451.233.1.396.449051.500 |280.000,00 |
-
-|2700.1100.17.512.066.1.203.449051.759 |1.520.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.1100.04.122.217.2.853.339035.500 |1.250.722,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.1100.27.812.101.2.534.449052.500 |39.800,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.5300.04.131.015.2.007.339039.500 |5.000.000,00 |
-
-|Fundo de Mobilidade Urbana – FMU |
-
-|3303.1100.26.452.304.1.393.339037.752 |5.420,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.5702.04.122.007.2.124.339039.500 |400.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |33.314.425,80 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da | R$ |
+| --- | --- |
+| Lei nº 11.442, de 29 de dezembro de 2022: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.0500.04.122.007.2.900.339037.500 | 1.574,00 |
+| 0201.0800.04.122.007.2.900.339037.500 | 37.190,00 |
+| 0201.0900.04.122.007.2.900.339037.500 | 56.490,00 |
+| 0201.1100.04.122.096.2.004.339037.500 | 518,00 |
+| 0201.1100.04.122.096.2.004.339040.500 | 18.000,00 |
+| 0201.1100.04.122.096.2.004.339093.500 | 10.000,00 |
+| 0201.1100.04.122.096.2.004.449052.500 | 2.000,00 |
+| Procuradoria-Geral do Município - PGM |  |
+| 0500.1200.04.062.003.2.011.339093.500 | 1.290.588,00 |
+| 0500.1200.04.062.003.2.028.339036.500 | 400.000,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.1800.04.122.302.2.365.339037.500 | 270.000,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.1901.19.572.302.2.905.339040.500 | 520.242,80 |
+| Fundo Previdenciário – BHPREV |  |
+| 0614.1100.09.122.026.2.871.339040.802 | 150.000,00 |
+| Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA |  |
+| 1013.1100.14.243.163.2.860.449052.749 | 268.906,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 1014.1100.08.306.132.2.761.339030.500 | 3.000.000,00 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.1100.04.122.007.2.900.339037.500 | 171.003,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.301.157.2.690.339039.621 | 180.000,00 |
+| 2302.3401.10.302.114.2.893.335043.600 | 1.703.761,00 |
+| 2302.3401.10.302.114.2.893.335043.621 | 349.000,00 |
+| 2302.3401.10.302.114.2.893.339037.621 | 45.551,00 |
+| 2302.3401.10.302.114.2.893.449052.621 | 30.400,00 |
+| 2302.3401.10.304.028.2.829.339030.621 | 18.400,00 |
+| 2302.3401.10.302.114.2.893.339034.621 | 2.898.000,00 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.1100.18.542.306.2.877.335041.500 | 700.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.4001.18.541.073.2.580.449052.501 | 2.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.1100.12.365.169.1.211.449051.500 | 694.860,00 |
+| 2700.1100.15.451.062.1.230.449051.754 | 12.000.000,00 |
+| 2700.1100.15.451.233.1.396.449051.500 | 280.000,00 |
+| 2700.1100.17.512.066.1.203.449051.759 | 1.520.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.1100.04.122.217.2.853.339035.500 | 1.250.722,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.812.101.2.534.449052.500 | 39.800,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.5300.04.131.015.2.007.339039.500 | 5.000.000,00 |
+| Fundo de Mobilidade Urbana – FMU |  |
+| 3303.1100.26.452.304.1.393.339037.752 | 5.420,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.5702.04.122.007.2.124.339039.500 | 400.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 33.314.425,80 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.0500.04.122.007.2.900.339040.500 |1.574,00 |
-
-|0201.0800.04.122.007.2.900.339039.500 |37.190,00 |
-
-|0201.0900.04.122.007.2.900.339039.500 |56.490,00 |
-
-|0201.1100.04.122.096.2.004.339030.500 |28.000,00 |
-
-|0201.1100.04.122.096.2.004.339039.500 |2.518,00 |
-
-|Procuradoria-Geral do Município - PGM |
-
-|0500.1200.04.062.003.2.011.339091.500 |400.000,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.1100.04.121.148.2.900.339040.500 |7.200,00 |
-
-|0600.1600.04.122.014.2.809.339036.500 |270.000,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.1901.19.572.085.2.605.339040.500 |300.000,00 |
-
-|Fundo Previdenciário – BHPREV |
-
-|0614.1100.09.122.026.2.871.449040.802 |150.000,00 |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.1100.04.122.105.2.900.339040.500 |1.800,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.0500.08.244.019.2.308.339039.500 |8.350,00 |
-
-|Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA |
-
-|1013.1100.14.243.163.2.859.339032.749 |268.906,00 |
-
-|Secretaria Municipal de Governo – SMGO |
-
-|2000.1100.04.122.007.2.900.339039.500 |171.003,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.2900.06.181.109.2.803.339030.500 |7.512,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.0400.12.361.168.2.080.449052.500 |694.860,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.302.114.2.891.339039.621 |598.000,00 |
-
-|2302.3401.10.302.114.2.891.339092.621 |653.351,00 |
-
-|2302.3401.10.302.114.2.894.339039.621 |2.270.000,00 |
-
-|2302.3401.10.303.117.2.895.339092.600 |418.974,93 |
-
-|2302.3401.10.303.117.2.895.339093.600 |300.000,00 |
-
-|2302.3401.10.305.028.2.829.339093.600 |984.786,07 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.1100.18.542.306.2.877.339039.500 |700.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.4001.18.541.073.2.580.339030.501 |2.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.1100.15.451.062.1.330.449051.754 |12.000.000,00 |
-
-|2700.1100.15.451.233.1.202.449051.500 |280.000,00 |
-
-|2700.1100.17.512.233.1.203.449051.759 |1.520.000,00 |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |
-
-|2703.1100.16.482.007.2.900.339039.500 |19.900,00 |
-
-|Superintendência de Limpeza Urbana de Belo Horizonte – SLU |
-
-|2708.1100.17.512.046.2.900.339040.500 |102.180,80 |
-
-|Fundo Municipal do Trabalho – FMT |
-
-|2810.1100.11.334.237.2.404.339014.500 |1.216.200,00 |
-
-|2810.1100.11.334.237.2.404.339039.500 |34.522,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.1100.27.812.101.2.106.449052.500 |39.800,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.1100.13.122.146.2.900.339039.500 |5.400,00 |
-
-|Fundo de Mobilidade Urbana – FMU |
-
-|3303.1100.26.452.060.2.837.339035.752 |5.420,00 |
-
-|3303.1100.26.452.060.2.837.339039.500 |61.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.5801.04.122.014.2.850.319113.500 |3.000.000,00 |
-
-|4002.5801.04.331.014.2.710.339049.500 |6.697.488,00 |
-
-|TOTAL DA ANULAÇÃO |33.314.425,80 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.0500.04.122.007.2.900.339040.500 | 1.574,00 |
+| 0201.0800.04.122.007.2.900.339039.500 | 37.190,00 |
+| 0201.0900.04.122.007.2.900.339039.500 | 56.490,00 |
+| 0201.1100.04.122.096.2.004.339030.500 | 28.000,00 |
+| 0201.1100.04.122.096.2.004.339039.500 | 2.518,00 |
+| Procuradoria-Geral do Município - PGM |  |
+| 0500.1200.04.062.003.2.011.339091.500 | 400.000,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.1100.04.121.148.2.900.339040.500 | 7.200,00 |
+| 0600.1600.04.122.014.2.809.339036.500 | 270.000,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.1901.19.572.085.2.605.339040.500 | 300.000,00 |
+| Fundo Previdenciário – BHPREV |  |
+| 0614.1100.09.122.026.2.871.449040.802 | 150.000,00 |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.1100.04.122.105.2.900.339040.500 | 1.800,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.0500.08.244.019.2.308.339039.500 | 8.350,00 |
+| Fundo Municipal dos Direitos da Criança e do Adolescente – FMDCA |  |
+| 1013.1100.14.243.163.2.859.339032.749 | 268.906,00 |
+| Secretaria Municipal de Governo – SMGO |  |
+| 2000.1100.04.122.007.2.900.339039.500 | 171.003,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.2900.06.181.109.2.803.339030.500 | 7.512,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0400.12.361.168.2.080.449052.500 | 694.860,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.302.114.2.891.339039.621 | 598.000,00 |
+| 2302.3401.10.302.114.2.891.339092.621 | 653.351,00 |
+| 2302.3401.10.302.114.2.894.339039.621 | 2.270.000,00 |
+| 2302.3401.10.303.117.2.895.339092.600 | 418.974,93 |
+| 2302.3401.10.303.117.2.895.339093.600 | 300.000,00 |
+| 2302.3401.10.305.028.2.829.339093.600 | 984.786,07 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.1100.18.542.306.2.877.339039.500 | 700.000,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.4001.18.541.073.2.580.339030.501 | 2.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.1100.15.451.062.1.330.449051.754 | 12.000.000,00 |
+| 2700.1100.15.451.233.1.202.449051.500 | 280.000,00 |
+| 2700.1100.17.512.233.1.203.449051.759 | 1.520.000,00 |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |  |
+| 2703.1100.16.482.007.2.900.339039.500 | 19.900,00 |
+| Superintendência de Limpeza Urbana de Belo Horizonte – SLU |  |
+| 2708.1100.17.512.046.2.900.339040.500 | 102.180,80 |
+| Fundo Municipal do Trabalho – FMT |  |
+| 2810.1100.11.334.237.2.404.339014.500 | 1.216.200,00 |
+| 2810.1100.11.334.237.2.404.339039.500 | 34.522,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.812.101.2.106.449052.500 | 39.800,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.1100.13.122.146.2.900.339039.500 | 5.400,00 |
+| Fundo de Mobilidade Urbana – FMU |  |
+| 3303.1100.26.452.060.2.837.339035.752 | 5.420,00 |
+| 3303.1100.26.452.060.2.837.339039.500 | 61.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.5801.04.122.014.2.850.319113.500 | 3.000.000,00 |
+| 4002.5801.04.331.014.2.710.339049.500 | 6.697.488,00 |
+| TOTAL DA ANULAÇÃO | 33.314.425,80 |
 
 ANEXO II
 
@@ -384,24 +273,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$17.141.671.882,00 |
-
-|Limite total anual autorizado |R$1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$908.285.784,10 |
-
-|Valor do Decreto publicado nesta data |R$33.314.425,80 |
-
-|Saldo atual de créditos suplementares |R$772.566.978,30 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$941.600.209,90 |
-
-|Percentual utilizado |54,93% |
-
-|Atualizado em 26/09/2023 às 11:36:19 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$17.141.671.882,00 |
+| Limite total anual autorizado | R$1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$908.285.784,10 |
+| Valor do Decreto publicado nesta data | R$33.314.425,80 |
+| Saldo atual de créditos suplementares | R$772.566.978,30 |
+| Valor total dos créditos suplementares abertos no exercício | R$941.600.209,90 |
+| Percentual utilizado | 54,93% |
+| Atualizado em 26/09/2023 às 11:36:19 |  |

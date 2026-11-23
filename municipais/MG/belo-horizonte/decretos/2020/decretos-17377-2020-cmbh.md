@@ -60,13 +60,11 @@ ANEXO I
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|(...) |
-
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |(...) |
-
-|Peças e acessórios para veículos automotores |8h às 17h |
+| (...) |  |
+| --- | --- |
+| Atividade | Faixa de horário de funcionamento |
+| (...) | (...) |
+| Peças e acessórios para veículos automotores | 8h às 17h |
 
 ”
 
@@ -80,10 +78,12 @@ ANEXO II
 
 II.1 – Fase 1
 
-|Fase 1 – SUSPENSA POR PRAZO INDETERMINADO |
+| Fase 1 – SUSPENSA POR PRAZO INDETERMINADO |
+| --- |
 
 II.2 – Fase 2
 
-|Fase 2 – SUSPENSA POR PRAZO INDETERMINADO |
+| Fase 2 – SUSPENSA POR PRAZO INDETERMINADO |
+| --- |
 
 ”

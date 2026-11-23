@@ -52,20 +52,13 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Obras e Infraestrutura - |
-
-|SMOBI, conforme autorização contida no art. 43 da Lei federal nº |
-
-|4.320, de 17 de março de 1964: |
-
-|R$ |
-
-|2700.15.451.062.1.230.4490.0400 |2.200.000,00 |
-
-|2700.17.512.066.1.203.4490.0400 |1.700.000,00 |
-
-|2700.17.512.066.1.307.4490.0400 |1.150.000,00 |
-
-|2700.17.512.233.1.203.4490.0400 |1.250.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |6.300.000,00 |
+| I.1 – A favor da Secretaria Municipal de Obras e Infraestrutura - |  |
+| --- | --- |
+| SMOBI, conforme autorização contida no art. 43 da Lei federal nº |  |
+| 4.320, de 17 de março de 1964: |  |
+| R$ |  |
+| 2700.15.451.062.1.230.4490.0400 | 2.200.000,00 |
+| 2700.17.512.066.1.203.4490.0400 | 1.700.000,00 |
+| 2700.17.512.066.1.307.4490.0400 | 1.150.000,00 |
+| 2700.17.512.233.1.203.4490.0400 | 1.250.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 6.300.000,00 |

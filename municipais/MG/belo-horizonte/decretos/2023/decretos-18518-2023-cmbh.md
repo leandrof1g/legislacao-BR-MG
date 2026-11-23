@@ -58,77 +58,46 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da |R$ |
-
-|Lei nº 11.442, de 29 de dezembro de 2022, e no art. 66 da Lei nº 11.539, de 5 de | |
-
-|julho de 2023: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.0100.18.541.073.2.812.319011.500 |61.429,00 |
-
-|2505.0100.18.541.073.2.812.319113.500 |23.772,00 |
-
-|2505.0200.18.541.073.2.812.319011.500 |143.327,00 |
-
-|2505.0200.18.541.073.2.812.319013.500 |30.060,00 |
-
-|2505.0300.04.122.165.2.816.319011.500 |59.731,00 |
-
-|2505.0300.04.122.165.2.816.319013.500 |11.266,00 |
-
-|2505.0400.18.541.073.2.812.319011.500 |10.748,00 |
-
-|2505.0500.18.541.073.2.812.319011.500 |1.076,00 |
-
-|2505.0600.18.541.073.2.812.319011.500 |54.598,00 |
-
-|2505.0600.18.541.073.2.812.319113.500 |9.597,00 |
-
-|2505.0700.18.541.073.2.812.319011.500 |11.442,00 |
-
-|2505.0800.18.541.073.2.812.319011.500 |76.701,00 |
-
-|2505.0800.18.541.073.2.812.319113.500 |39.857,00 |
-
-|2505.0900.18.541.073.2.812.319013.500 |3.049,00 |
-
-|2505.1100.18.541.073.2.900.319011.500 |337.834,00 |
-
-|2505.1100.18.541.073.2.900.319013.500 |39.660,00 |
-
-|2505.1100.18.541.073.2.900.319113.500 |217.790,00 |
-
-|2505.4001.18.541.073.2.580.319011.500 |151.712,00 |
-
-|2505.4002.18.541.073.2.581.319011.500 |80.693,00 |
-
-|2505.1100.18.541.073.2.900.319004.500 |543.084,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.1100.23.695.086.2.900.319011.500 |500.000,00 |
-
-|2805.1100.23.695.086.2.900.319013.500 |28.160,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.435.586,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da | R$ |
+| --- | --- |
+| Lei nº 11.442, de 29 de dezembro de 2022, e no art. 66 da Lei nº 11.539, de 5 de |  |
+| julho de 2023: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.0100.18.541.073.2.812.319011.500 | 61.429,00 |
+| 2505.0100.18.541.073.2.812.319113.500 | 23.772,00 |
+| 2505.0200.18.541.073.2.812.319011.500 | 143.327,00 |
+| 2505.0200.18.541.073.2.812.319013.500 | 30.060,00 |
+| 2505.0300.04.122.165.2.816.319011.500 | 59.731,00 |
+| 2505.0300.04.122.165.2.816.319013.500 | 11.266,00 |
+| 2505.0400.18.541.073.2.812.319011.500 | 10.748,00 |
+| 2505.0500.18.541.073.2.812.319011.500 | 1.076,00 |
+| 2505.0600.18.541.073.2.812.319011.500 | 54.598,00 |
+| 2505.0600.18.541.073.2.812.319113.500 | 9.597,00 |
+| 2505.0700.18.541.073.2.812.319011.500 | 11.442,00 |
+| 2505.0800.18.541.073.2.812.319011.500 | 76.701,00 |
+| 2505.0800.18.541.073.2.812.319113.500 | 39.857,00 |
+| 2505.0900.18.541.073.2.812.319013.500 | 3.049,00 |
+| 2505.1100.18.541.073.2.900.319011.500 | 337.834,00 |
+| 2505.1100.18.541.073.2.900.319013.500 | 39.660,00 |
+| 2505.1100.18.541.073.2.900.319113.500 | 217.790,00 |
+| 2505.4001.18.541.073.2.580.319011.500 | 151.712,00 |
+| 2505.4002.18.541.073.2.581.319011.500 | 80.693,00 |
+| 2505.1100.18.541.073.2.900.319004.500 | 543.084,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.1100.23.695.086.2.900.319011.500 | 500.000,00 |
+| 2805.1100.23.695.086.2.900.319013.500 | 28.160,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.435.586,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.5701.99.999.999.1.000.999999.500 |528.160,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.1100.08.244.020.2.327.319011.500 |1.907.426,00 |
-
-|TOTAL DA ANULAÇÃO |2.435.586,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.5701.99.999.999.1.000.999999.500 | 528.160,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.1100.08.244.020.2.327.319011.500 | 1.907.426,00 |
+| TOTAL DA ANULAÇÃO | 2.435.586,00 |
 
 ANEXO II
 
@@ -156,22 +125,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 66 da Lei nº 11.539, de 5 de julho de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |
-
-|Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |
-
-|empregados públicos da administração direta e indireta do Poder Executivo |
-
-|Limite total autorizado |261.693.719,44 |
-
-|Total de créditos suplementares abertos anteriormente |173.066.130,00 |
-
-|Valor do Decreto publicado nesta data |2.435.586,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |175.501.716,00 |
-
-|Saldo atual do limite autorizado |86.192.003,44 |
-
-|Percentual utilizado |67,06% |
-
-|Atualizado em 16/11/2023 às 11:40:20 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |  |
+| --- | --- |
+| Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |  |
+| empregados públicos da administração direta e indireta do Poder Executivo |  |
+| Limite total autorizado | 261.693.719,44 |
+| Total de créditos suplementares abertos anteriormente | 173.066.130,00 |
+| Valor do Decreto publicado nesta data | 2.435.586,00 |
+| Valor total dos créditos suplementares abertos no exercício | 175.501.716,00 |
+| Saldo atual do limite autorizado | 86.192.003,44 |
+| Percentual utilizado | 67,06% |
+| Atualizado em 16/11/2023 às 11:40:20 |  |

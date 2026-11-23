@@ -318,13 +318,11 @@ Comprimento: ajustado à largura das 2 (duas) portas do veículo, de cada lado.
 
 O adesivo será composto de 3 (três) faixas horizontais de cores fluorescentes:
 
-|Faixa |Cor |Código hexadecimal da cor |
-
-|faixa superior |laranja |#FFA500 |
-
-|faixa central |verde |#CCFF33 |
-
-|faixa inferior |vermelha |#FF0000 |
+| Faixa | Cor | Código hexadecimal da cor |
+| --- | --- | --- |
+| faixa superior | laranja | #FFA500 |
+| faixa central | verde | #CCFF33 |
+| faixa inferior | vermelha | #FF0000 |
 
 4. Texto
 
@@ -338,7 +336,7 @@ Cor: preta.
 
 Exemplo:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

@@ -222,39 +222,24 @@ FORMULÁRIO I
 
 PLANEJAMENTO DAS AÇÕES ESTRATÉGICAS DE FISCALIZAÇÃO
 
-|Regional | |Período |
-
-|Tipo de |Fiscal |UPFreqüência de Fiscalização por dia da|
-
-|Atuação |Responsável |semana |
-
-| | |(definida de acordo com estrutura de |
-
-| | |cada Regional) |
-
-| | |2a3a4a5a6asábadoDomingo |
-
-|Obras | | |
-
-| | | |
-
-|Posturas | | |
-
-| | | |
-
-|Vias urbanas | | |
-
-| | | |
-
-|Controle | | |
-
-|Ambiental | | |
-
-| | | |
-
-|Limpeza | | |
-
-|Urbana | | |
+| Regional |  | Período |
+| --- | --- | --- |
+| Tipo de | Fiscal | UPFreqüência de Fiscalização por dia da |
+| Atuação | Responsável | semana |
+|  |  | (definida de acordo com estrutura de |
+|  |  | cada Regional) |
+|  |  | 2a3a4a5a6asábadoDomingo |
+| Obras |  |  |
+|  |  |  |
+| Posturas |  |  |
+|  |  |  |
+| Vias urbanas |  |  |
+|  |  |  |
+| Controle |  |  |
+| Ambiental |  |  |
+|  |  |  |
+| Limpeza |  |  |
+| Urbana |  |  |
 
 OBSERVAÇÕES:
 
@@ -278,11 +263,10 @@ FORMULÁRIO II
 
 PLANEJAMENTO DA ATUAÇÃO FISCAL
 
-|REGIONAL: |
-
-|TIPO DE AÇÃO ESTRATÉGICA: FR FT FP |
-
-|Número do expedienteDataUPBairroRuaFiscal |
+| REGIONAL: |
+| --- |
+| TIPO DE AÇÃO ESTRATÉGICA: FR FT FP |
+| Número do expedienteDataUPBairroRuaFiscal |
 
 OBSERVAÇÕES:
 
@@ -298,29 +282,19 @@ FORMULÁRIO III
 
 PLANEJAMENTO ANUAL DO PROGRAMA DE TREINAMENTO
 
-|Programa de Treinamento: Posturas Obras Vias Urbanas |
-
-|Controle Ambiental Limpeza Urbana |
-
-|RegionalNome dos CursosDisponibilidade de vagasPeriodo |
-
-|BA |
-
-|CS |
-
-|L |
-
-|N |
-
-|NE |
-
-|NO |
-
-|O |
-
-|P |
-
-|VN |
+| Programa de Treinamento: Posturas Obras Vias Urbanas |
+| --- |
+| Controle Ambiental Limpeza Urbana |
+| RegionalNome dos CursosDisponibilidade de vagasPeriodo |
+| BA |
+| CS |
+| L |
+| N |
+| NE |
+| NO |
+| O |
+| P |
+| VN |
 
 OBSERVAÇÕES:
 
@@ -332,61 +306,35 @@ FORMULÁRIO IV
 
 MONITORAMENTO DIÁRIO DA ATUAÇÃO DO FISCAL
 
-|NÚMERO DE EXPEDIENTE: |REGIONAL: |UP: |
-
-|TIPO DE AÇÃO ESTRATÉGICA: FR FT FP |FISCAL: | |
-
-|SITUAÇÃO: Regular Irregular |DATA: | |
-
-|ENDEREÇO: | | |
-
-|IRREGULARIDADES: | | |
-
-|RESULTADOS |Tipo |Quantidade |
-
-| |Orientação | |
-
-| |Conferência de documentos | |
-
-| |Conferência de atividades | |
-
-| |Conferência de área | |
-
-| |Conferência de projeto aprovado | |
-
-| |Cadastro | |
-
-|DOCUMENTOS EMITIDOS |Notificação | |
-
-| |Auto de Apreensão | |
-
-| |Auto de Infração | |
-
-| |Auto de Embargo | |
-
-| |Auto de Interdição | |
-
-|DATA DE RETORNO | | |
-
-|RETORNO: |DATA: | |
-
-|AVALIAÇÃO |Tipo |Quantidade |
-
-| |Irregularidade sanada | |
-
-| |Irregularidade persiste | |
-
-|RESULTADO DO RETORNO |Auto de Apreensão | |
-
-| |Auto de Infração | |
-
-| |Auto de Embargo | |
-
-| |Auto de Interdição | |
-
-|OBSERVAÇÕES: | | |
-
-|ASSINATURA: |BM: | |
+| NÚMERO DE EXPEDIENTE: | REGIONAL: | UP: |
+| --- | --- | --- |
+| TIPO DE AÇÃO ESTRATÉGICA: FR FT FP | FISCAL: |  |
+| SITUAÇÃO: Regular Irregular | DATA: |  |
+| ENDEREÇO: |  |  |
+| IRREGULARIDADES: |  |  |
+| RESULTADOS | Tipo | Quantidade |
+|  | Orientação |  |
+|  | Conferência de documentos |  |
+|  | Conferência de atividades |  |
+|  | Conferência de área |  |
+|  | Conferência de projeto aprovado |  |
+|  | Cadastro |  |
+| DOCUMENTOS EMITIDOS | Notificação |  |
+|  | Auto de Apreensão |  |
+|  | Auto de Infração |  |
+|  | Auto de Embargo |  |
+|  | Auto de Interdição |  |
+| DATA DE RETORNO |  |  |
+| RETORNO: | DATA: |  |
+| AVALIAÇÃO | Tipo | Quantidade |
+|  | Irregularidade sanada |  |
+|  | Irregularidade persiste |  |
+| RESULTADO DO RETORNO | Auto de Apreensão |  |
+|  | Auto de Infração |  |
+|  | Auto de Embargo |  |
+|  | Auto de Interdição |  |
+| OBSERVAÇÕES: |  |  |
+| ASSINATURA: | BM: |  |
 
 OBSERVAÇÕES:
 
@@ -400,137 +348,73 @@ FORMULÁRIO V
 
 MONITORAMENTO MENSAL DA ATUAÇÃO DA FISCALIZAÇÃO
 
-|REGIONAL: |MÊS/ANO: |
-
-|AÇÕES FISCAIS |TipoQuantidadeSanadoNão sanado |
-
-|REALIZADAS | |
-
-| |Irregularidade constatada |
-
-| |Regularidade constatada |
-
-|AÇÕES FISCAIS |UP1 |
-
-|POR UP | |
-
-| |UP2 |
-
-|DAS |POSTURAS Ações de Fiscalização *QuantidadeSanadoNão sanado |
-
-|IRREGULARIDADES | |
-
-| |Alvará de localização |
-
-| |Obstrução vias públicas |
-
-| |Publicidade |
-
-| |Muro e passeio |
-
-| |Caçamba |
-
-| |Elevadores |
-
-| |Mesas e cadeiras |
-
-| |Obras públicas |
-
-| |Poluição |
-
-| |Limpeza urbana |
-
-| |Outros (especificar) |
-
-| |OBRAS Construção clandestina |
-
-| |Demolição |
-
-| |Terraplenagem |
-
-| |Loteamento clandestino |
-
-| |Alvará de construção |
-
-| |Prevenção de combate |
-
-| |à incêndio |
-
-| |Outros (especificar) |
-
-| |VIAS |
-
-| |URBANAS Camelô |
-
-| |Ambulante |
-
-| |Invasão de bens públicos |
-
-| |Outros (especificar) |
-
-| |CONTROLE |
-
-| |AMBIENTAL exploração mineral |
-
-| |Depósito de explosivo |
-
-| |Poda |
-
-| |Cobertura Vegetal |
-
-| |Disposição de Resíduos |
-
-| |sólidos |
-
-| |Outros (especificar) |
-
-| |LIMPEZA |
-
-| |URBANA Bota-fora |
-
-| |feiras livres |
-
-| |adjacências do comércio |
-
-| |ambulante |
-
-| |Outros ( especificar) |
-
-|AÇÕES |Fiscalização Rotineira |
-
-|ESTRATÉGICAS | |
-
-| |Fiscalização Temática |
-
-| |Fiscalização Preventiva |
-
-|DOCUMENTOS |Notificação |
-
-|EMITIDOS | |
-
-| |Auto de Apreensão |
-
-| |Auto de Infração |
-
-| |Auto de Embargo |
-
-| |Auto de Interdição |
-
-|EXPEDIENTES E |Tipo/quantidadeDeferidoIndeferidoAnálise |
-
-|RECURSOS ADMINISTRATIVOS | |
-
-| |Prazo para cumprir exigências |
-
-| |Cancelamento de notificação |
-
-| |Cancelamento de Auto de |
-
-| |Infração |
-
-| |Suspensão de Embargo |
-
-| |Outros |
+| REGIONAL: | MÊS/ANO: |
+| --- | --- |
+| AÇÕES FISCAIS | TipoQuantidadeSanadoNão sanado |
+| REALIZADAS |  |
+|  | Irregularidade constatada |
+|  | Regularidade constatada |
+| AÇÕES FISCAIS | UP1 |
+| POR UP |  |
+|  | UP2 |
+| DAS | POSTURAS Ações de Fiscalização *QuantidadeSanadoNão sanado |
+| IRREGULARIDADES |  |
+|  | Alvará de localização |
+|  | Obstrução vias públicas |
+|  | Publicidade |
+|  | Muro e passeio |
+|  | Caçamba |
+|  | Elevadores |
+|  | Mesas e cadeiras |
+|  | Obras públicas |
+|  | Poluição |
+|  | Limpeza urbana |
+|  | Outros (especificar) |
+|  | OBRAS Construção clandestina |
+|  | Demolição |
+|  | Terraplenagem |
+|  | Loteamento clandestino |
+|  | Alvará de construção |
+|  | Prevenção de combate |
+|  | à incêndio |
+|  | Outros (especificar) |
+|  | VIAS |
+|  | URBANAS Camelô |
+|  | Ambulante |
+|  | Invasão de bens públicos |
+|  | Outros (especificar) |
+|  | CONTROLE |
+|  | AMBIENTAL exploração mineral |
+|  | Depósito de explosivo |
+|  | Poda |
+|  | Cobertura Vegetal |
+|  | Disposição de Resíduos |
+|  | sólidos |
+|  | Outros (especificar) |
+|  | LIMPEZA |
+|  | URBANA Bota-fora |
+|  | feiras livres |
+|  | adjacências do comércio |
+|  | ambulante |
+|  | Outros ( especificar) |
+| AÇÕES | Fiscalização Rotineira |
+| ESTRATÉGICAS |  |
+|  | Fiscalização Temática |
+|  | Fiscalização Preventiva |
+| DOCUMENTOS | Notificação |
+| EMITIDOS |  |
+|  | Auto de Apreensão |
+|  | Auto de Infração |
+|  | Auto de Embargo |
+|  | Auto de Interdição |
+| EXPEDIENTES E | Tipo/quantidadeDeferidoIndeferidoAnálise |
+| RECURSOS ADMINISTRATIVOS |  |
+|  | Prazo para cumprir exigências |
+|  | Cancelamento de notificação |
+|  | Cancelamento de Auto de |
+|  | Infração |
+|  | Suspensão de Embargo |
+|  | Outros |
 
 OBSERVAÇÕES:
 
@@ -544,37 +428,23 @@ FORMULÁRIO VI
 
 MONITORAMENTO MENSAL DA ATUAÇÃO DO FISCAL
 
-|REGIONAL: |MÊS: |
-
-|NOME |UPQUANTIDADE |
-
-| |AçõesDocumentos |
-
-| |EmitidosAções ou |
-
-| |documentos |
-
-| |anuladosIrregularidades |
-
-| |SanadasIrregularidades |
-
-| |não sanadas |
-
-|1 | |
-
-|2 | |
-
-|3 | |
-
-|4 | |
-
-|5 | |
-
-|6 | |
-
-|7 | |
-
-|OBSERVAÇÕES: | |
+| REGIONAL: | MÊS: |
+| --- | --- |
+| NOME | UPQUANTIDADE |
+|  | AçõesDocumentos |
+|  | EmitidosAções ou |
+|  | documentos |
+|  | anuladosIrregularidades |
+|  | SanadasIrregularidades |
+|  | não sanadas |
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+| 7 |  |
+| OBSERVAÇÕES: |  |
 
 OBSERVAÇÕES:
 
@@ -588,7 +458,7 @@ FORMULÁRIO VII
 
 BOLETIM MENSAL DE APURAÇÃO E CONTROLE DE PONTOS – BOLMAP
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 OBSERVAÇÕES
 
@@ -638,7 +508,7 @@ FORMULÁRIO VIII
 
 SÍNTESE DO BOLETIM MENSAL DE APURAÇÃO E CONTROLE DE PONTOS
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 OBSERVAÇÕES
 

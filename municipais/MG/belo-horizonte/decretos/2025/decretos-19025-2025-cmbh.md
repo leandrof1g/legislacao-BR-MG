@@ -58,121 +58,68 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, no art. 57 da Lei nº | |
-
-|11.742, de 13 de setembro de 2024, e no art. 31 da Lei nº 11.801, de 2 de janeiro de | |
-
-|2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0113.2327.339046.1.500.000 |97.700,00 |
-
-|3701.08.244.0113.2334.339046.1.500.000 |3.700,00 |
-
-|3701.08.245.0019.2308.339046.1.500.000 |30.800,00 |
-
-|3701.08.245.0020.2878.339046.1.500.000 |11.100,00 |
-
-|3701.08.244.0019.2405.339036.1.660.000 |46.700,00 |
-
-|Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |
-
-|3400.04.122.0007.2900.339046.1.500.000 |123.800,00 |
-
-|Secretaria Municipal de Mobilidade Urbana – SMMUR |
-
-|3500.26.452.0060.2567.339046.1.500.000 |4.200,00 |
-
-|3500.26.452.0060.2567.339036.1.500.000 |1.500,00 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.339046.1.500.000 |78.700,00 |
-
-|3600.04.122.0093.2900.339046.1.500.000 |25.500,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.08.122.0123.2900.339036.1.500.000 |103.500,00 |
-
-|3700.08.122.0123.2900.339046.1.500.000 |154.200,00 |
-
-|3700.14.422.0127.2334.339036.1.500.000 |6.400,00 |
-
-|3700.14.422.0127.2334.339046.1.500.000 |5.800,00 |
-
-|3700.14.241.0127.2697.339046.1.500.000 |5.900,00 |
-
-|3700.14.422.0127.2840.339046.1.500.000 |2.800,00 |
-
-|3700.14.422.0127.2927.339036.1.500.000 |1.300,00 |
-
-|3700.14.422.0127.2927.339046.1.500.000 |1.600,00 |
-
-|3700.14.422.0127.2928.339036.1.500.000 |2.600,00 |
-
-|3700.14.422.0127.2928.339046.1.500.000 |1.400,00 |
-
-|3700.14.422.0127.2386.339036.1.500.000 |1.600,00 |
-
-|3700.14.422.0127.2386.339046.1.500.000 |2.400,00 |
-
-|3700.14.422.0127.2819.339036.1.500.000 |10.000,00 |
-
-|3700.14.422.0127.2819.339046.1.500.000 |6.000,00 |
-
-|3700.14.243.0127.2860.339036.1.500.000 |17.700,00 |
-
-|3700.14.243.0127.2860.339046.1.500.000 |50.300,00 |
-
-|Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN |
-
-|3800.20.608.0308.2939.339036.1.500.000 |14.200,00 |
-
-|3800.20.608.0308.2939.339046.1.500.000 |136.700,00 |
-
-|Secretaria - Geral – SGE |
-
-|3900.04.122.0096.2004.339046.1.500.000 |16.600,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |964.700,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, no art. 57 da Lei nº |  |
+| 11.742, de 13 de setembro de 2024, e no art. 31 da Lei nº 11.801, de 2 de janeiro de |  |
+| 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0113.2327.339046.1.500.000 | 97.700,00 |
+| 3701.08.244.0113.2334.339046.1.500.000 | 3.700,00 |
+| 3701.08.245.0019.2308.339046.1.500.000 | 30.800,00 |
+| 3701.08.245.0020.2878.339046.1.500.000 | 11.100,00 |
+| 3701.08.244.0019.2405.339036.1.660.000 | 46.700,00 |
+| Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |  |
+| 3400.04.122.0007.2900.339046.1.500.000 | 123.800,00 |
+| Secretaria Municipal de Mobilidade Urbana – SMMUR |  |
+| 3500.26.452.0060.2567.339046.1.500.000 | 4.200,00 |
+| 3500.26.452.0060.2567.339036.1.500.000 | 1.500,00 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.339046.1.500.000 | 78.700,00 |
+| 3600.04.122.0093.2900.339046.1.500.000 | 25.500,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.08.122.0123.2900.339036.1.500.000 | 103.500,00 |
+| 3700.08.122.0123.2900.339046.1.500.000 | 154.200,00 |
+| 3700.14.422.0127.2334.339036.1.500.000 | 6.400,00 |
+| 3700.14.422.0127.2334.339046.1.500.000 | 5.800,00 |
+| 3700.14.241.0127.2697.339046.1.500.000 | 5.900,00 |
+| 3700.14.422.0127.2840.339046.1.500.000 | 2.800,00 |
+| 3700.14.422.0127.2927.339036.1.500.000 | 1.300,00 |
+| 3700.14.422.0127.2927.339046.1.500.000 | 1.600,00 |
+| 3700.14.422.0127.2928.339036.1.500.000 | 2.600,00 |
+| 3700.14.422.0127.2928.339046.1.500.000 | 1.400,00 |
+| 3700.14.422.0127.2386.339036.1.500.000 | 1.600,00 |
+| 3700.14.422.0127.2386.339046.1.500.000 | 2.400,00 |
+| 3700.14.422.0127.2819.339036.1.500.000 | 10.000,00 |
+| 3700.14.422.0127.2819.339046.1.500.000 | 6.000,00 |
+| 3700.14.243.0127.2860.339036.1.500.000 | 17.700,00 |
+| 3700.14.243.0127.2860.339046.1.500.000 | 50.300,00 |
+| Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN |  |
+| 3800.20.608.0308.2939.339036.1.500.000 | 14.200,00 |
+| 3800.20.608.0308.2939.339046.1.500.000 | 136.700,00 |
+| Secretaria - Geral – SGE |  |
+| 3900.04.122.0096.2004.339046.1.500.000 | 16.600,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 964.700,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, conforme | |
-
-|autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.08.122.0123.2900.339046.1.500.000 |510.400,00 |
-
-|1000.14.241.0127.2697.339036.1.500.000 |133.100,00 |
-
-|1000.14.422.0127.2840.339036.1.500.000 |14.200,00 |
-
-|1000.14.243.0127.2860.339036.1.500.000 |56.700,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0060.2567.339036.1.500.000 |1.500,00 |
-
-|3302.26.452.0060.2567.319011.1.500.000 |4.200,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.122.0093.2900.339046.1.500.000 |120.800,00 |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.04.129.0013.2052.339046.1.500.000 |123.800,00 |
-
-|TOTAL DA ANULAÇÃO |964.700,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, conforme |  |
+| autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.08.122.0123.2900.339046.1.500.000 | 510.400,00 |
+| 1000.14.241.0127.2697.339036.1.500.000 | 133.100,00 |
+| 1000.14.422.0127.2840.339036.1.500.000 | 14.200,00 |
+| 1000.14.243.0127.2860.339036.1.500.000 | 56.700,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0060.2567.339036.1.500.000 | 1.500,00 |
+| 3302.26.452.0060.2567.319011.1.500.000 | 4.200,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.122.0093.2900.339046.1.500.000 | 120.800,00 |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.04.129.0013.2052.339046.1.500.000 | 123.800,00 |
+| TOTAL DA ANULAÇÃO | 964.700,00 |
 
 ANEXO II
 
@@ -208,20 +155,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos suplementares abertos anteriormente |364.100.596,84 |
-
-|Valor do Decreto publicado nesta data |964.700,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |365.065.296,84 |
-
-|Saldo atual do limite autorizado |1.683.961.930,09 |
-
-|Percentual utilizado |17,82% |
-
-|Atualizado em 27/02/2025 às 11:54:42 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos suplementares abertos anteriormente | 364.100.596,84 |
+| Valor do Decreto publicado nesta data | 964.700,00 |
+| Valor total dos créditos suplementares abertos no exercício | 365.065.296,84 |
+| Saldo atual do limite autorizado | 1.683.961.930,09 |
+| Percentual utilizado | 17,82% |
+| Atualizado em 27/02/2025 às 11:54:42 |  |

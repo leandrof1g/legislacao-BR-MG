@@ -30,9 +30,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I K - Dias comemorativos de novembro:
 
-|DATA |COMEMORAÇÃO |
-
-|9/11 |Dia Municipal de Combate ao Antissemitismo e ao Fascismo |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 9/11 | Dia Municipal de Combate ao Antissemitismo e ao Fascismo |
 
 .”.
 

@@ -58,43 +58,29 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei |R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2951.339039.1.500.000 |6.681.079,15 |
-
-|2302.10.303.0117.2895.339030.1.600.000 |466.451,00 |
-
-|2302.10.303.0117.2895.339032.1.600.000 |6.000.000,00 |
-
-|2302.10.302.0114.2952.335043.1.600.000 |1.604.782,76 |
-
-|2302.10.301.0157.2690.339037.1.621.610 |3.247.035,00 |
-
-|2302.10.301.0157.2690.339037.1.621.620 |217.127,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |18.216.474,91 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2951.339039.1.500.000 | 6.681.079,15 |
+| 2302.10.303.0117.2895.339030.1.600.000 | 466.451,00 |
+| 2302.10.303.0117.2895.339032.1.600.000 | 6.000.000,00 |
+| 2302.10.302.0114.2952.335043.1.600.000 | 1.604.782,76 |
+| 2302.10.301.0157.2690.339037.1.621.610 | 3.247.035,00 |
+| 2302.10.301.0157.2690.339037.1.621.620 | 217.127,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 18.216.474,91 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previsto no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.319011.1.500.000 |6.681.079,15 |
-
-|2302.10.301.0157.2690.339032.1.600.000 |6.466.451,00 |
-
-|2302.10.302.0114.2951.339039.1.621.000 |3.464.162,00 |
-
-|2302.10.302.0114.2952.337170.1.600.000 |1.604.782,76 |
-
-|TOTAL DA ANULAÇÃO |18.216.474,91 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previsto no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.319011.1.500.000 | 6.681.079,15 |
+| 2302.10.301.0157.2690.339032.1.600.000 | 6.466.451,00 |
+| 2302.10.302.0114.2951.339039.1.621.000 | 3.464.162,00 |
+| 2302.10.302.0114.2952.337170.1.600.000 | 1.604.782,76 |
+| TOTAL DA ANULAÇÃO | 18.216.474,91 |
 
 ANEXO II
 
@@ -118,26 +104,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado |Limite de 15% (quinze por cento) |
-
-|para abertura de créditos suplementares para o Fundo Municipal|do valor do orçamento. |
-
-|de Saúde. | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 3.738.652.601,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 390.298.034,61 |
-
-|Valor do decreto publicado nesta data |R$ 18.216.474,91 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 408.514.509,52 |
-
-|Saldo atual de créditos suplementares |R$ 3.330.138.091,88 |
-
-|Percentual utilizado |10,93% |
-
-|Atualizado em 31/08/2026 às 10:56:36 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado | Limite de 15% (quinze por cento) |
+| para abertura de créditos suplementares para o Fundo Municipal | do valor do orçamento. |
+| de Saúde. |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 3.738.652.601,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 390.298.034,61 |
+| Valor do decreto publicado nesta data | R$ 18.216.474,91 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 408.514.509,52 |
+| Saldo atual de créditos suplementares | R$ 3.330.138.091,88 |
+| Percentual utilizado | 10,93% |
+| Atualizado em 31/08/2026 às 10:56:36 |  |

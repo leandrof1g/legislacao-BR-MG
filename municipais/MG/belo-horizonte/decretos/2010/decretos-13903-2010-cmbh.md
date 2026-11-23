@@ -80,39 +80,27 @@ III - ao fator ocorrências disciplinares, apuradas por meio de relatório da Co
 
 **§ 3º** - O fator freqüência e assiduidade, respeitado o seu peso no resultado final da avaliação, será subdividido, conforme a seguinte pontuação:
 
-|PERÍODO DE 365 DIAS |
-
-|FALTAS INJUSTIFICADAS |PONTUAÇÃO |
-
-|Nenhuma falta |10 (dez) pontos |
-
-|1 (uma) falta |-2 (menos dois) pontos |
-
-|2 (duas) faltas |-4 (menos quatro) pontos |
-
-|3 (três) faltas |-6 (menos seis) pontos |
-
-|4 (quatro) faltas |-8 (menos oito) pontos |
-
-|5 (cinco) faltas |-10 (menos dez) pontos |
+| PERÍODO DE 365 DIAS |  |
+| --- | --- |
+| FALTAS INJUSTIFICADAS | PONTUAÇÃO |
+| Nenhuma falta | 10 (dez) pontos |
+| 1 (uma) falta | -2 (menos dois) pontos |
+| 2 (duas) faltas | -4 (menos quatro) pontos |
+| 3 (três) faltas | -6 (menos seis) pontos |
+| 4 (quatro) faltas | -8 (menos oito) pontos |
+| 5 (cinco) faltas | -10 (menos dez) pontos |
 
 **§ 4º** - O fator ocorrências disciplinares, respeitado o seu peso no resultado final da avaliação, será subdividido conforme a seguinte pontuação e conforme os seguintes períodos de avaliação:
 
-|PERÍODO DE 365 DIAS |
-
-|PENALIDADE |PONTUAÇÃO |
-
-|Nenhuma penalidade |10 (dez) pontos |
-
-|Repreensão |-2 (menos dois) pontos |
-
-|Suspensão de 1 (um) a 09 (nove) dias |-4 (menos quatro) pontos |
-
-|Suspensão de 10 (dez) a 14 (quatorze) dias |-6 (menos seis) pontos |
-
-|Suspensão de 15 (quinze) a 19 (dezenove) dias |-8 (menos oito) pontos |
-
-|Suspensão acima de 20 (vinte) dias |-10 (menos dez) pontos |
+| PERÍODO DE 365 DIAS |  |
+| --- | --- |
+| PENALIDADE | PONTUAÇÃO |
+| Nenhuma penalidade | 10 (dez) pontos |
+| Repreensão | -2 (menos dois) pontos |
+| Suspensão de 1 (um) a 09 (nove) dias | -4 (menos quatro) pontos |
+| Suspensão de 10 (dez) a 14 (quatorze) dias | -6 (menos seis) pontos |
+| Suspensão de 15 (quinze) a 19 (dezenove) dias | -8 (menos oito) pontos |
+| Suspensão acima de 20 (vinte) dias | -10 (menos dez) pontos |
 
 **§ 5º** - Caso ocorra modificação da subordinação imediata a outro gerente na unidade em que for lotado, ou em caso de mudança de lotação no período de avaliação, o servidor será avaliado pelo gerente a que esteve subordinado por maior tempo no período correspondente à avaliação em curso.
 
@@ -162,39 +150,27 @@ V - histórico de licenças médicas e readaptações.
 
 **§ 6º** - Para os fins do disposto no § 1º deste artigo, o fator frequência e assiduidade, respeitado o seu peso no resultado final da avaliação, será subdividido conforme a seguinte pontuação:
 
-|PERÍODO DE 1.095 DIAS |
-
-|FALTAS INJUSTIFICADAS |PONTUAÇÃO |
-
-|Nenhuma falta |10 (dez) pontos |
-
-|1 (uma) a 3 (três) faltas |-2 (menos dois) pontos |
-
-|4 (quatro) a 6 (seis) faltas |-4 (menos quatro) pontos |
-
-|7 (sete) a 9 (nove) faltas |-6 (menos seis) pontos |
-
-|10 (dez) a 12 (doze) faltas |-8 (menos oito) pontos |
-
-|13 (treze) a 15 (quinze) faltas |-10 (menos dez) pontos |
+| PERÍODO DE 1.095 DIAS |  |
+| --- | --- |
+| FALTAS INJUSTIFICADAS | PONTUAÇÃO |
+| Nenhuma falta | 10 (dez) pontos |
+| 1 (uma) a 3 (três) faltas | -2 (menos dois) pontos |
+| 4 (quatro) a 6 (seis) faltas | -4 (menos quatro) pontos |
+| 7 (sete) a 9 (nove) faltas | -6 (menos seis) pontos |
+| 10 (dez) a 12 (doze) faltas | -8 (menos oito) pontos |
+| 13 (treze) a 15 (quinze) faltas | -10 (menos dez) pontos |
 
 **§ 7º** - Para os fins do disposto no § 1º deste artigo, o fator ocorrências disciplinares, respeitado o seu peso no resultado final da avaliação, será subdividido conforme a seguinte pontuação:
 
-|PERÍODO DE 1.095 DIAS |
-
-|PENALIDADE |PONTUAÇÃO |
-
-|Nenhuma penalidade |10 (dez) pontos |
-
-|Repreensão |-2 (menos dois) pontos |
-
-|Suspensão de 1 (um) a 29 (vinte e nove) dias |-4 (menos quatro) pontos |
-
-|Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias |-6 (menos seis) pontos |
-
-|Suspensão de 45 (quarenta e cinco) a 59 (cinqüenta e nove) dias |-8 (menos oito) pontos |
-
-|Suspensão acima de 60 (sessenta) dias |-10 (menos dez) pontos |
+| PERÍODO DE 1.095 DIAS |  |
+| --- | --- |
+| PENALIDADE | PONTUAÇÃO |
+| Nenhuma penalidade | 10 (dez) pontos |
+| Repreensão | -2 (menos dois) pontos |
+| Suspensão de 1 (um) a 29 (vinte e nove) dias | -4 (menos quatro) pontos |
+| Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias | -6 (menos seis) pontos |
+| Suspensão de 45 (quarenta e cinco) a 59 (cinqüenta e nove) dias | -8 (menos oito) pontos |
+| Suspensão acima de 60 (sessenta) dias | -10 (menos dez) pontos |
 
 **Art. 7º** - Para os servidores cujo resultado da avaliação anual constate a necessidade de atendimento médico, acolhimento, acompanhamento sócio-funcional e capacitação, será oferecido suporte para a melhoria do seu desempenho, pelo interregno de 12 (doze) meses, mediante projetos coordenados pelas Gerências de Gestão de Recursos Humanos - GERH e de Avaliação de Desempenho, com a colaboração da Gerência de Saúde do Servidor e Perícia Médica, todas da Secretaria Municipal Adjunta de Recursos Humanos.
 

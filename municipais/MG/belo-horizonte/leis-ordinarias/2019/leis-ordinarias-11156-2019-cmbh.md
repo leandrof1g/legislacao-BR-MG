@@ -150,31 +150,20 @@ ANEXO I
 
 (a que se refere o § 2º do art. 6º da Lei nº 10.948, de 13 de julho de 2016)
 
-|Nível de |Tempo de permanência nos níveis de vencimentos/salário-base necessário |
-
-|vencimento/salário-base em que|para fins de progressão de desempenho nas classes A e B |
-
-|estiver posicionado o servidor| |
-
-|público | |
-
-|Nível 1 |1.095 (um mil e noventa e cinco) dias efetivamente trabalhados |
-
-|Níveis 2 a 4 |365 (trezentos e sessenta e cinco) dias efetivamente trabalhados |
-
-|Níveis 5 a 12 |730 (setecentos e trinta) dias efetivamente trabalhados |
-
-|Níveis 13 a 19 |1.095 (um mil e noventa e cinco) dias efetivamente trabalhados |
-
-|Nível de |Tempo de permanência nos níveis de vencimentos/salário-base necessário |
-
-|vencimento/salário-base em que|à progressão de desempenho na classe C |
-
-|estiver posicionado o servidor| |
-
-|público | |
-
-|Níveis 5 a 19 |1.095 (um mil e noventa e cinco) dias efetivamente trabalhados |
+| Nível de | Tempo de permanência nos níveis de vencimentos/salário-base necessário |
+| --- | --- |
+| vencimento/salário-base em que | para fins de progressão de desempenho nas classes A e B |
+| estiver posicionado o servidor |  |
+| público |  |
+| Nível 1 | 1.095 (um mil e noventa e cinco) dias efetivamente trabalhados |
+| Níveis 2 a 4 | 365 (trezentos e sessenta e cinco) dias efetivamente trabalhados |
+| Níveis 5 a 12 | 730 (setecentos e trinta) dias efetivamente trabalhados |
+| Níveis 13 a 19 | 1.095 (um mil e noventa e cinco) dias efetivamente trabalhados |
+| Nível de | Tempo de permanência nos níveis de vencimentos/salário-base necessário |
+| vencimento/salário-base em que | à progressão de desempenho na classe C |
+| estiver posicionado o servidor |  |
+| público |  |
+| Níveis 5 a 19 | 1.095 (um mil e noventa e cinco) dias efetivamente trabalhados |
 
 ” (NR)
 
@@ -188,63 +177,36 @@ ANEXO II
 
 TABELAS DE VENCIMENTOS-BASE DO CARGO PÚBLICO MÉDICO INTEGRANTE DO QUADRO DE PESSOAL DA ADMINISTRAÇÃO DIRETA CONFORME AS SEGUINTES JORNADAS DE TRABALHO
 
-|CLASSES |NÍVEL - JORNADA DE 12 HORAS SEMANAIS |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |2 |
-
-| |Médicos detentores de curso completo de nível superior em |Médicos detentores de curso completo de nível superior em Medicina, no grau de bacharelado, |
-
-| |Medicina, no grau de bacharelado, reconhecido pelo Ministério |reconhecido pelo Ministério da Educação, com habilitação legal para o exercício da profissão, e |
-
-| |da Educação, com habilitação legal para o exercício da |detentores de título de residência médica ou de título de especialista reconhecido pelo Conselho |
-
-| |profissão |Regional de Medicina - CRM |
-
-|Médico - nível 1 |Médico - Classe A - nível 2 |Médico - Classe B - nível 1 |
-
-|Médico - nível 2 |Médico - Classe A - nível 5 |Médico - Classe B - nível 4 |
-
-|Médico - nível 3 |Médico - Classe A - nível 6 |Médico - Classe B - nível 5 |
-
-|Médico - nível 4 |Médico - Classe A - nível 7 |Médico - Classe B - nível 6 |
-
-|Médico - nível 5 |Médico - Classe A - nível 8 |Médico - Classe B - nível 7 |
-
-|Médico - nível 6 |Médico - Classe A - nível 10 |Médico - Classe B - nível 9 |
-
-|Médico - nível 7 |Médico - Classe A - nível 11 |Médico - Classe B - nível 10 |
-
-|Médico - nível 8 |Médico - Classe A - nível 12 |Médico - Classe B - nível 11 |
-
-|Médico - nível 9 |Médico - Classe A - nível 13 |Médico - Classe B - nível 12 |
-
-|Médico - nível 10 |Médico - Classe A - nível 14 |Médico - Classe B - nível 13 |
-
-|Médico - nível 11 |Médico - Classe A - nível 15 |Médico - Classe B - nível 14 |
-
-|Médico - nível 12 |Médico - Classe A - nível 16 |Médico - Classe B - nível 15 |
-
-|Médico - nível 13 |Médico - Classe A - nível 17 |Médico - Classe B - nível 16 |
-
-|Médico - nível 14 |Médico - Classe A - nível 18 |Médico - Classe B - nível 17 |
-
-|Médico - nível 15 |Médico - Classe A - nível 19 |Médico - Classe B - nível 18 |
+| CLASSES | NÍVEL - JORNADA DE 12 HORAS SEMANAIS |  |
+| --- | --- | --- |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 | 2 |
+|  | Médicos detentores de curso completo de nível superior em | Médicos detentores de curso completo de nível superior em Medicina, no grau de bacharelado, |
+|  | Medicina, no grau de bacharelado, reconhecido pelo Ministério | reconhecido pelo Ministério da Educação, com habilitação legal para o exercício da profissão, e |
+|  | da Educação, com habilitação legal para o exercício da | detentores de título de residência médica ou de título de especialista reconhecido pelo Conselho |
+|  | profissão | Regional de Medicina - CRM |
+| Médico - nível 1 | Médico - Classe A - nível 2 | Médico - Classe B - nível 1 |
+| Médico - nível 2 | Médico - Classe A - nível 5 | Médico - Classe B - nível 4 |
+| Médico - nível 3 | Médico - Classe A - nível 6 | Médico - Classe B - nível 5 |
+| Médico - nível 4 | Médico - Classe A - nível 7 | Médico - Classe B - nível 6 |
+| Médico - nível 5 | Médico - Classe A - nível 8 | Médico - Classe B - nível 7 |
+| Médico - nível 6 | Médico - Classe A - nível 10 | Médico - Classe B - nível 9 |
+| Médico - nível 7 | Médico - Classe A - nível 11 | Médico - Classe B - nível 10 |
+| Médico - nível 8 | Médico - Classe A - nível 12 | Médico - Classe B - nível 11 |
+| Médico - nível 9 | Médico - Classe A - nível 13 | Médico - Classe B - nível 12 |
+| Médico - nível 10 | Médico - Classe A - nível 14 | Médico - Classe B - nível 13 |
+| Médico - nível 11 | Médico - Classe A - nível 15 | Médico - Classe B - nível 14 |
+| Médico - nível 12 | Médico - Classe A - nível 16 | Médico - Classe B - nível 15 |
+| Médico - nível 13 | Médico - Classe A - nível 17 | Médico - Classe B - nível 16 |
+| Médico - nível 14 | Médico - Classe A - nível 18 | Médico - Classe B - nível 17 |
+| Médico - nível 15 | Médico - Classe A - nível 19 | Médico - Classe B - nível 18 |
 
 ” (NR)
 
@@ -258,55 +220,32 @@ ANEXO V
 
 TABELAS DE SALÁRIOS-BASE DO EMPREGO PÚBLICO DE MÉDICO DO HOB CONFORME AS SEGUINTES JORNADAS DE TRABALHO
 
-|CLASSES |NÍVEL - JORNADA DE 12 HORAS SEMANAIS |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |2 |
-
-| |Médicos detentores de curso completo de nível superior em Medicina, no grau |Médicos detentores de curso completo de nível superior em Medicina, no grau de |
-
-| |de bacharelado, reconhecido pelo Ministério da Educação, com habilitação |bacharelado, reconhecido pelo Ministério da Educação, com habilitação legal |
-
-| |legal para o exercício da profissão |para o exercício da profissão, e detentores de título de residência médica ou |
-
-| | |de título de especialista reconhecido pelo Conselho Regional de Medicina - CRM |
-
-|Médico - nível 1 |Médico - Classe A - nível 2 |Médico - Classe B - nível 1 |
-
-|Médico - nível 2 |Médico - Classe A - nível 5 |Médico - Classe B - nível 4 |
-
-|Médico - nível 3 |Médico - Classe A - nível 6 |Médico - Classe B - nível 5 |
-
-|Médico - nível 4 |Médico - Classe A - nível 7 |Médico - Classe B - nível 6 |
-
-|Médico - nível 5 |Médico - Classe A - nível 8 |Médico - Classe B - nível 7 |
-
-|Médico - nível 6 |Médico - Classe A - nível 10 |Médico - Classe B - nível 9 |
-
-|Médico - nível 7 |Médico - Classe A - nível 11 |Médico - Classe B - nível 10 |
-
-|Médico - nível 8 |Médico - Classe A - nível 12 |Médico - Classe B - nível 11 |
-
-|Médico - nível 9 |Médico - Classe A - nível 13 |Médico - Classe B - nível 12 |
-
-|Médico - nível 10 |Médico - Classe A - nível 14 |Médico - Classe B - nível 13 |
-
-|Médico - nível 11 |Médico - Classe A - nível 15 |Médico - Classe B - nível 14 |
-
-|Médico - nível 12 |Médico - Classe A - nível 16 |Médico - Classe B - nível 15 |
-
-|Médico - nível 13 |Médico - Classe A - nível 17 |Médico - Classe B - nível 16 |
-
-|Médico - nível 14 |Médico - Classe A - nível 18 |Médico - Classe B - nível 17 |
-
-|Médico - nível 15 |Médico - Classe A - nível 19 |Médico - Classe B - nível 18 |
+| CLASSES | NÍVEL - JORNADA DE 12 HORAS SEMANAIS |  |
+| --- | --- | --- |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 | 2 |
+|  | Médicos detentores de curso completo de nível superior em Medicina, no grau | Médicos detentores de curso completo de nível superior em Medicina, no grau de |
+|  | de bacharelado, reconhecido pelo Ministério da Educação, com habilitação | bacharelado, reconhecido pelo Ministério da Educação, com habilitação legal |
+|  | legal para o exercício da profissão | para o exercício da profissão, e detentores de título de residência médica ou |
+|  |  | de título de especialista reconhecido pelo Conselho Regional de Medicina - CRM |
+| Médico - nível 1 | Médico - Classe A - nível 2 | Médico - Classe B - nível 1 |
+| Médico - nível 2 | Médico - Classe A - nível 5 | Médico - Classe B - nível 4 |
+| Médico - nível 3 | Médico - Classe A - nível 6 | Médico - Classe B - nível 5 |
+| Médico - nível 4 | Médico - Classe A - nível 7 | Médico - Classe B - nível 6 |
+| Médico - nível 5 | Médico - Classe A - nível 8 | Médico - Classe B - nível 7 |
+| Médico - nível 6 | Médico - Classe A - nível 10 | Médico - Classe B - nível 9 |
+| Médico - nível 7 | Médico - Classe A - nível 11 | Médico - Classe B - nível 10 |
+| Médico - nível 8 | Médico - Classe A - nível 12 | Médico - Classe B - nível 11 |
+| Médico - nível 9 | Médico - Classe A - nível 13 | Médico - Classe B - nível 12 |
+| Médico - nível 10 | Médico - Classe A - nível 14 | Médico - Classe B - nível 13 |
+| Médico - nível 11 | Médico - Classe A - nível 15 | Médico - Classe B - nível 14 |
+| Médico - nível 12 | Médico - Classe A - nível 16 | Médico - Classe B - nível 15 |
+| Médico - nível 13 | Médico - Classe A - nível 17 | Médico - Classe B - nível 16 |
+| Médico - nível 14 | Médico - Classe A - nível 18 | Médico - Classe B - nível 17 |
+| Médico - nível 15 | Médico - Classe A - nível 19 | Médico - Classe B - nível 18 |
 
 ” (NR)
 
@@ -316,60 +255,34 @@ ANEXO VII
 
 TABELAS DE VENCIMENTOS-BASE DO CARGO PÚBLICO DE MÉDICO INTEGRANTE DO QUADRO DE PESSOAL DA ADMINISTRAÇÃO DIRETA CONFORME AS SEGUINTES JORNADAS DE TRABALHO REESTRUTURADO PELA LEI Nº 10.948, DE 13 DE JULHO DE 2016
 
-|CLASSES |NÍVEL - JORNADA DE 12 HORAS SEMANAIS |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |1 |2 |
-
-|1 |Auxiliar de Serviços |84 |
-
-|2 |Auxiliar de Administração |13 |
-
-|3 |Oficial de Serviços |14 |
-
-|4 |Telefonista |2 |
-
-|5 |Motorista |1 |
-
-|6 |Agente de Administração |64 |
-
-|7 |Agente de Serviços de Saúde |321 |
-
-|8 |Técnico de Serviços de Saúde |124 |
-
-|9 |Técnico de Nível Médio |4 |
-
-|10 |Técnico Superior de Saúde |35 |
-
-|11 |Cirurgião-Dentista |1 |
-
-|12 |Enfermeiro |30 |
-
-|13 |Total |693 |
+| CLASSES | NÍVEL - JORNADA DE 12 HORAS SEMANAIS |  |
+| --- | --- | --- |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 | 2 |
+| 1 | Auxiliar de Serviços | 84 |
+| 2 | Auxiliar de Administração | 13 |
+| 3 | Oficial de Serviços | 14 |
+| 4 | Telefonista | 2 |
+| 5 | Motorista | 1 |
+| 6 | Agente de Administração | 64 |
+| 7 | Agente de Serviços de Saúde | 321 |
+| 8 | Técnico de Serviços de Saúde | 124 |
+| 9 | Técnico de Nível Médio | 4 |
+| 10 | Técnico Superior de Saúde | 35 |
+| 11 | Cirurgião-Dentista | 1 |
+| 12 | Enfermeiro | 30 |
+| 13 | Total | 693 |
 
 ”(NR)

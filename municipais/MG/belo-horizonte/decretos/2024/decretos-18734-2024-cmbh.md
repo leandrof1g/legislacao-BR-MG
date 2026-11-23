@@ -66,33 +66,21 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei | |
-
-|nº 11.594, de 22 de setembro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339093.2.571.000 |1.629.468,90 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.0146.2900.339039.2.501.784 |80.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.0066.1400.449051.2.500.000 |3.775.056,36 |
-
-|2700.15.451.0062.1230.449051.2.754.790 |89.983,49 |
-
-|2700.15.451.0062.1330.449051.2.754.790 |1.600.000,00 |
-
-|Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |
-
-|3102.13.391.0155.2375.339039.2.501.000 |176.998,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |7.351.506,75 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei |  |
+| nº 11.594, de 22 de setembro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339093.2.571.000 | 1.629.468,90 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.0146.2900.339039.2.501.784 | 80.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.0066.1400.449051.2.500.000 | 3.775.056,36 |
+| 2700.15.451.0062.1230.449051.2.754.790 | 89.983,49 |
+| 2700.15.451.0062.1330.449051.2.754.790 | 1.600.000,00 |
+| Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |  |
+| 3102.13.391.0155.2375.339039.2.501.000 | 176.998,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 7.351.506,75 |
 
 ANEXO II
 

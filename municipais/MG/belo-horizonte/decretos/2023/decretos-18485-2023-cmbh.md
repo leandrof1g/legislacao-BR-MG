@@ -56,105 +56,60 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida nos artigos 1º e|R$ |
-
-|3° da Lei nº 11.602, de 17 de outubro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.0100.12.361.168.2.080.339030.500 |400.000,00 |
-
-|2200.1100.12.361.168.2.080.339032.500 |28.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0300.15.451.233.1.202.449051.500 |210.000,00 |
-
-|2700.1100.27.812.101.1.213.449051.500 |50.000,00 |
-
-|2700.0300.17.512.066.1.203.449051.500 |633.133,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.1100.11.334.237.2.404.339039.500 |1.050.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.0300.27.813.101.2.545.339039.500 |20.000,00 |
-
-|3000.0800.27.812.101.2.534.339039.500 |2.500,00 |
-
-|3000.0800.27.812.101.2.534.449052.500 |27.427,77 |
-
-|3000.1100.27.812.101.2.534.339039.500 |5.000,00 |
-
-|3000.1100.27.812.101.2.534.449052.500 |60.000,00 |
-
-|3000.1100.27.813.101.2.545.339039.500 |225.000,00 |
-
-|3000.0900.27.813.101.2.545.339039.500 |20.000,00 |
-
-|Fundo de Mobilidade Urbana – FMU |
-
-|3303.1100.26.452.060.2.837.339039.500 |471.150,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |3.202.210,77 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida nos artigos 1º e | R$ |
+| --- | --- |
+| 3° da Lei nº 11.602, de 17 de outubro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0100.12.361.168.2.080.339030.500 | 400.000,00 |
+| 2200.1100.12.361.168.2.080.339032.500 | 28.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0300.15.451.233.1.202.449051.500 | 210.000,00 |
+| 2700.1100.27.812.101.1.213.449051.500 | 50.000,00 |
+| 2700.0300.17.512.066.1.203.449051.500 | 633.133,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.1100.11.334.237.2.404.339039.500 | 1.050.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.0300.27.813.101.2.545.339039.500 | 20.000,00 |
+| 3000.0800.27.812.101.2.534.339039.500 | 2.500,00 |
+| 3000.0800.27.812.101.2.534.449052.500 | 27.427,77 |
+| 3000.1100.27.812.101.2.534.339039.500 | 5.000,00 |
+| 3000.1100.27.812.101.2.534.449052.500 | 60.000,00 |
+| 3000.1100.27.813.101.2.545.339039.500 | 225.000,00 |
+| 3000.0900.27.813.101.2.545.339039.500 | 20.000,00 |
+| Fundo de Mobilidade Urbana – FMU |  |
+| 3303.1100.26.452.060.2.837.339039.500 | 471.150,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 3.202.210,77 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização |
-
-|contida nos artigos 1º e 3° da Lei nº 11.602, de 17 de outubro de 2023: |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.0400.08.244.019.2.308.339039.500 |600.000,00 |
-
-|1011.0700.08.244.019.2.647.339039.500 |29.927,77 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.0100.12.367.167.2.080.339030.500 |400.000,00 |
-
-|2200.1100.12.366.168.2.080.339030.500 |28.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0400.15.451.233.1.202.449051.500 |130.000,00 |
-
-|2700.0700.15.451.233.1.396.449051.500 |116.150,00 |
-
-|2700.1100.15.451.062.1.230.449051.500 |140.000,00 |
-
-|2700.1100.15.451.062.1.330.449051.500 |200.000,00 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.0100.15.451.233.1.208.449051.500 |15.000,00 |
-
-|Fundo Municipal do Trabalho – FMT |
-
-|2810.1100.11.334.237.2.404.339030.500 |150.000,00 |
-
-|2810.1100.11.334.237.2.404.339039.500 |300.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.0300.27.812.101.2.534.449052.500 |843.133,00 |
-
-|3000.0300.27.812.101.2.545.339039.500 |20.000,00 |
-
-|3000.0900.27.812.101.2.545.339039.500 |20.000,00 |
-
-|3000.1100.27.812.101.2.106.319011.500 |50.000,00 |
-
-|3000.1100.27.812.101.2.545.339039.500 |160.000,00 |
-
-|TOTAL DA ANULAÇÃO |3.202.210,77 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, conforme autorização |  |
+| contida nos artigos 1º e 3° da Lei nº 11.602, de 17 de outubro de 2023: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.0400.08.244.019.2.308.339039.500 | 600.000,00 |
+| 1011.0700.08.244.019.2.647.339039.500 | 29.927,77 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0100.12.367.167.2.080.339030.500 | 400.000,00 |
+| 2200.1100.12.366.168.2.080.339030.500 | 28.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0400.15.451.233.1.202.449051.500 | 130.000,00 |
+| 2700.0700.15.451.233.1.396.449051.500 | 116.150,00 |
+| 2700.1100.15.451.062.1.230.449051.500 | 140.000,00 |
+| 2700.1100.15.451.062.1.330.449051.500 | 200.000,00 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.0100.15.451.233.1.208.449051.500 | 15.000,00 |
+| Fundo Municipal do Trabalho – FMT |  |
+| 2810.1100.11.334.237.2.404.339030.500 | 150.000,00 |
+| 2810.1100.11.334.237.2.404.339039.500 | 300.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.0300.27.812.101.2.534.449052.500 | 843.133,00 |
+| 3000.0300.27.812.101.2.545.339039.500 | 20.000,00 |
+| 3000.0900.27.812.101.2.545.339039.500 | 20.000,00 |
+| 3000.1100.27.812.101.2.106.319011.500 | 50.000,00 |
+| 3000.1100.27.812.101.2.545.339039.500 | 160.000,00 |
+| TOTAL DA ANULAÇÃO | 3.202.210,77 |
 
 ANEXO II
 

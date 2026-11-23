@@ -1200,67 +1200,47 @@ I - QUADRO ESPECÍFICO DE PROVIMENTO EM COMISSÃO
 
 1 - GRUPO DE DIREÇÃO SUPERIOR - (CM-DS)
 
-|Código |Denominação |Símbolo de |Nº de cargos |Forma de Recrutamento |
-
-| | |Vencimento | | |
-
-|CM-DS-01 |Diretor Geral |Especial |01 |Limitado |
-
-|CM-DS-02 |Diretor Financeiro |70 |01 |Limitado |
-
-|CM-DS-03 |Diretor Administrativo |70 |01 |Limitado |
-
-|CM-DS-04 |Diretor do Legislativo |70 |01 |Limitado |
-
-|CM-DS-05 |Diretor do Pessoal |70 |01 |Limitado |
+| Código | Denominação | Símbolo de | Nº de cargos | Forma de Recrutamento |
+| --- | --- | --- | --- | --- |
+|  |  | Vencimento |  |  |
+| CM-DS-01 | Diretor Geral | Especial | 01 | Limitado |
+| CM-DS-02 | Diretor Financeiro | 70 | 01 | Limitado |
+| CM-DS-03 | Diretor Administrativo | 70 | 01 | Limitado |
+| CM-DS-04 | Diretor do Legislativo | 70 | 01 | Limitado |
+| CM-DS-05 | Diretor do Pessoal | 70 | 01 | Limitado |
 
 2 - GRUPO DE ASSESSORAMENTO - (CM-AS)
 
-|Código |Denominação |Símbolo de |Nº de cargos |Forma de recrutamento |
-
-| | |vencimento | | |
-
-|CM-AS-01 |Assistente Financeiro |65 |01 |Limitado |
-
-|CM-AS-02 |Assistente Administrativo |65 |01 |Limitado |
-
-|CM-AS-03 |Assistente Legislativo |65 |01 |Limitado |
-
-|CM-AS-04 |Assistente do Pessoal |65 |01 |Limitado |
-
-|CM-AS-05 |Assessor de Imprensa |60 |01 |Amplo |
-
-|Número de vagas com redação dada pela Lei nº 4.529, de 11/7/1986 (Art. 3º) |03 | |
-
-|CM-AS-06 |Assessor de Relações Públicas |60 |01 |Amplo |
-
-|CM-AS-07 |Assessor II |58 |02 |Limitado |
-
-|CM-AS-08 |Assessor I |45 |02 |Limitado |
+| Código | Denominação | Símbolo de | Nº de cargos | Forma de recrutamento |
+| --- | --- | --- | --- | --- |
+|  |  | vencimento |  |  |
+| CM-AS-01 | Assistente Financeiro | 65 | 01 | Limitado |
+| CM-AS-02 | Assistente Administrativo | 65 | 01 | Limitado |
+| CM-AS-03 | Assistente Legislativo | 65 | 01 | Limitado |
+| CM-AS-04 | Assistente do Pessoal | 65 | 01 | Limitado |
+| CM-AS-05 | Assessor de Imprensa | 60 | 01 | Amplo |
+| Número de vagas com redação dada pela Lei nº 4.529, de 11/7/1986 (Art. 3º) | 03 |  |  |  |
+| CM-AS-06 | Assessor de Relações Públicas | 60 | 01 | Amplo |
+| CM-AS-07 | Assessor II | 58 | 02 | Limitado |
+| CM-AS-08 | Assessor I | 45 | 02 | Limitado |
 
 3 – GRUPO DE CHEFIA – (CM-CH)
 
-|Código |Denominação |Símbolo de |Nº de cargos |Forma de recrutamento |
-
-| | |vencimento | | |
-
-|CM-CH-01 |Chefe de Divisão |48 |15 |Limitado |
-
-|CM-CH-02 |Chefe de Setor |40 |05 |Limitado |
+| Código | Denominação | Símbolo de | Nº de cargos | Forma de recrutamento |
+| --- | --- | --- | --- | --- |
+|  |  | vencimento |  |  |
+| CM-CH-01 | Chefe de Divisão | 48 | 15 | Limitado |
+| CM-CH-02 | Chefe de Setor | 40 | 05 | Limitado |
 
 4 – GRUPO DE EXECUÇÃO – (CM-EX)
 
-|Código |Denominação |Símbolo de |Nº de cargos |Forma de recrutamento |
-
-| | |vencimento | | |
-
-|CM-EX-01 |Secretário Parlamentar |40 |33 |Amplo |
-
-|CM-EX-02 |Assistente Legislativo |35 |07 |Limitado |
-
-|CM-EX-03 |Assistente de Gabinete |30 |34 |Amplo |
-
-|CM-EX-04 |Assistente Auxiliar |25 |05 |Limitado |
+| Código | Denominação | Símbolo de | Nº de cargos | Forma de recrutamento |
+| --- | --- | --- | --- | --- |
+|  |  | vencimento |  |  |
+| CM-EX-01 | Secretário Parlamentar | 40 | 33 | Amplo |
+| CM-EX-02 | Assistente Legislativo | 35 | 07 | Limitado |
+| CM-EX-03 | Assistente de Gabinete | 30 | 34 | Amplo |
+| CM-EX-04 | Assistente Auxiliar | 25 | 05 | Limitado |
 
 ANEXO II
 
@@ -1272,87 +1252,57 @@ I - QUADRO ESPECÍFICO DE PROVIMENTO EFETIVO
 
 1 – GRUPO DE NÍVEL SUPERIOR DE ESCOLARIDADE - (CM-NS)
 
-|Código |Denominação |Faixa de vencimento |Nº de cargos |
-
-|CM-NS-01 |Assessor Jurídico |55 a 75 |04 |
-
-|CM-NS-02 |Assessor Legislativo |55 a 75 |04 |
-
-|CM-NS-03 |Contador |55 a 75 |01 |
-
-|CM-NS-04 |Tesoureiro |50 a 70 |01 |
-
-|CM-NS-05 |Bibliotecário |50 a 70 |01 |
+| Código | Denominação | Faixa de vencimento | Nº de cargos |
+| --- | --- | --- | --- |
+| CM-NS-01 | Assessor Jurídico | 55 a 75 | 04 |
+| CM-NS-02 | Assessor Legislativo | 55 a 75 | 04 |
+| CM-NS-03 | Contador | 55 a 75 | 01 |
+| CM-NS-04 | Tesoureiro | 50 a 70 | 01 |
+| CM-NS-05 | Bibliotecário | 50 a 70 | 01 |
 
 2 – GRUPO DE NÍVEL DE 2º GRAU DE ESCOLARIDADE (CM-SG)
 
-|Código |Denominação |Faixa de vencimento |Nº de cargos |
-
-|CM-SG-01 |Técnico Legislativo |42 a 62 |12 |
-
-|CM-SG-02 |Técnico em Contabilidade |42 a 62 |05 |
-
-|CM-SG-03 |Taquígrafo |42 a 62 |08 |
-
-|CM-SG-04 |Operador de Audio-Gravação |42 a 62 |03 |
-
-|CM-SG-05 |Auxiliar de Proposições |42 a 62 |03 |
-
-|CM-SG-06 |Revisor de Correspondência |42 a 62 |02 |
-
-|CM-SG-07 |Agente de Processamento de Despesas |40 a 60 |04 |
-
-|CM-SG-08 |Agente de Registros Funcionais |40 a 60 |04 |
-
-|CM-SG-09 |Encarregado de Estoques |40 a 60 |02 |
-
-|CM-SG-10 |Encarregado de Compras |40 a 60 |02 |
-
-|CM-SG-11 |Encarregado do Patrimônio |40 a 60 |02 |
-
-|CM-SG-12 |Redator de Atas |42 a 62 |03 |
-
-|CM-SG-13 |Redator de Debates |42 a 62 |03 |
-
-|CM-SG-14 |Auxiliar de Tesouraria |37 a 57 |02 |
+| Código | Denominação | Faixa de vencimento | Nº de cargos |
+| --- | --- | --- | --- |
+| CM-SG-01 | Técnico Legislativo | 42 a 62 | 12 |
+| CM-SG-02 | Técnico em Contabilidade | 42 a 62 | 05 |
+| CM-SG-03 | Taquígrafo | 42 a 62 | 08 |
+| CM-SG-04 | Operador de Audio-Gravação | 42 a 62 | 03 |
+| CM-SG-05 | Auxiliar de Proposições | 42 a 62 | 03 |
+| CM-SG-06 | Revisor de Correspondência | 42 a 62 | 02 |
+| CM-SG-07 | Agente de Processamento de Despesas | 40 a 60 | 04 |
+| CM-SG-08 | Agente de Registros Funcionais | 40 a 60 | 04 |
+| CM-SG-09 | Encarregado de Estoques | 40 a 60 | 02 |
+| CM-SG-10 | Encarregado de Compras | 40 a 60 | 02 |
+| CM-SG-11 | Encarregado do Patrimônio | 40 a 60 | 02 |
+| CM-SG-12 | Redator de Atas | 42 a 62 | 03 |
+| CM-SG-13 | Redator de Debates | 42 a 62 | 03 |
+| CM-SG-14 | Auxiliar de Tesouraria | 37 a 57 | 02 |
 
 3 – GRUPO DE NÍVEL DE 1º GRAU DE ESCOLARIDADE (CM-PG)
 
-|Código |Denominação |Faixa de vencimento |Nº de cargos |
-
-|CM-PG-01 |Protocolista |35 a 55 |03 |
-
-|CM-PG-02 |Encadernador |35 a 55 |02 |
-
-|CM-PG-03 |Operador Reprográfico |35 a 55 |03 |
-
-|CM-PG-04 |Auxiliar Legislativo |30 a 50 |60 |
-
-|Número de vagas com redação dada pela Lei nº 4.478, de 3/6/1986 (Art. 1º) |120 |
-
-|CM-PG-05 |Arquivista |30 a 50 |02 |
-
-|CM-PG-06 |Telefonista |26 a 46 |06 |
-
-|CM-PG-07 |Recepcionista |25 a 45 |06 |
-
-|CM-PG-08 |Agente de Segurança |25 a 45 |10 |
+| Código | Denominação | Faixa de vencimento | Nº de cargos |
+| --- | --- | --- | --- |
+| CM-PG-01 | Protocolista | 35 a 55 | 03 |
+| CM-PG-02 | Encadernador | 35 a 55 | 02 |
+| CM-PG-03 | Operador Reprográfico | 35 a 55 | 03 |
+| CM-PG-04 | Auxiliar Legislativo | 30 a 50 | 60 |
+| Número de vagas com redação dada pela Lei nº 4.478, de 3/6/1986 (Art. 1º) | 120 |  |  |
+| CM-PG-05 | Arquivista | 30 a 50 | 02 |
+| CM-PG-06 | Telefonista | 26 a 46 | 06 |
+| CM-PG-07 | Recepcionista | 25 a 45 | 06 |
+| CM-PG-08 | Agente de Segurança | 25 a 45 | 10 |
 
 4 – GRUPO DE NÍVEL ELEMENTAR DE ESCOLARIDADE (CM-NE)
 
-|Código |Denominação |Faixa de vencimento |Nº de cargos |
-
-|CM-NE-01 |Zelador |24 a 44 |01 |
-
-|CM-NE-02 |Motorista |23 a 43 |15 |
-
-|CM-NE-03 |Porteiro |15 a 35 |06 |
-
-|CM-NE-04 |Copeira |15 a 35 |06 |
-
-|CM-NE-05 |Auxiliar de Serviço |10 a 30 |25 |
-
-|Número de vagas com redação dada pela Lei nº 4.478, de 3/6/1986 (Art. 1º) |30 |
+| Código | Denominação | Faixa de vencimento | Nº de cargos |
+| --- | --- | --- | --- |
+| CM-NE-01 | Zelador | 24 a 44 | 01 |
+| CM-NE-02 | Motorista | 23 a 43 | 15 |
+| CM-NE-03 | Porteiro | 15 a 35 | 06 |
+| CM-NE-04 | Copeira | 15 a 35 | 06 |
+| CM-NE-05 | Auxiliar de Serviço | 10 a 30 | 25 |
+| Número de vagas com redação dada pela Lei nº 4.478, de 3/6/1986 (Art. 1º) | 30 |  |  |
 
 ANEXO III
 

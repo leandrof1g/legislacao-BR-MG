@@ -100,13 +100,11 @@ Das áreas com Grau de Proteção 2
 
 **Art. 6º** - As áreas submetidas ao Grau de Proteção 2, conforme delimitação do Anexo Único desta lei, ficam sujeitas aos seguintes parâmetros de parcelamento, ocupação e uso do solo:
 
-| |Área mínima dos |Coeficiente de Aproveitamento|Taxa de |Taxa de |Quota de Terreno|
-
-| |lotes | |Ocupação Máxima|Permeabilidade |por Unidade |
-
-| | | | |Mínima |Habitacional |
-
-| |Básico |Máximo | | | | |Lotes destinados a uso residencial e à implantação de equipamento urbano e comunitário |1.000 m² |2,0 |- |70% |20% |25 m² | |Lotes destinados a uso não residencial ou misto |360 m² |1,0 |3,5 | | | | |
+|  | Área mínima dos | Coeficiente de Aproveitamento | Taxa de | Taxa de | Quota de Terreno |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | lotes |  | Ocupação Máxima | Permeabilidade | por Unidade |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | Mínima | Habitacional |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Básico | Máximo |  |  |  |  | Lotes destinados a uso residencial e à implantação de equipamento urbano e comunitário | 1.000 m² | 2,0 | - | 70% | 20% | 25 m² |  | Lotes destinados a uso não residencial ou misto | 360 m² | 1,0 | 3,5 |  |  |  |  |
 
 **Parágrafo único** - O Coeficiente de Aproveitamento máximo - CAm - previsto no caput deste artigo poderá ser atingido exclusivamente a partir da aplicação da Outorga Onerosa do Direito de Construir - ODC.
 

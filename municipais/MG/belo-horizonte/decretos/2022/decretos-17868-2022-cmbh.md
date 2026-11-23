@@ -52,32 +52,22 @@ ANEXO
 
 I – Crédito adicional especial instituindo as seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Empresa de Transportes e Trânsito de Belo |
-
-|Horizonte – BHTrans –, conforme autorização contida no art. 28 |
-
-|da Lei nº 11.319, de 22 de outubro de 2021, e dispositivos do |
-
-|art. 11 do Decreto nº 17.845, de 14 de janeiro de 2022: |
-
-|R$ |
-
-|3304.26.452.060.2.567.3390.0000 |1.216.000,00 |
-
-|3304.26.452.060.2.567.3391.0000 |50.000,00 |
-
-|3304.26.452.303.2.909.3391.0000 |1.365.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.631.000,00 |
+| I.1 – A favor da Empresa de Transportes e Trânsito de Belo |  |
+| --- | --- |
+| Horizonte – BHTrans –, conforme autorização contida no art. 28 |  |
+| da Lei nº 11.319, de 22 de outubro de 2021, e dispositivos do |  |
+| art. 11 do Decreto nº 17.845, de 14 de janeiro de 2022: |  |
+| R$ |  |
+| 3304.26.452.060.2.567.3390.0000 | 1.216.000,00 |
+| 3304.26.452.060.2.567.3391.0000 | 50.000,00 |
+| 3304.26.452.303.2.909.3391.0000 | 1.365.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.631.000,00 |
 
 II – Anulação da seguinte dotação orçamentária do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item |
-
-|I.1 da tabela anterior: |
-
-|R$ |
-
-|2709.26.452.060.2.567.3390.0000 |2.631.000,00 |
-
-|TOTAL DA ANULAÇÃO |2.631.000,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item |  |
+| --- | --- |
+| I.1 da tabela anterior: |  |
+| R$ |  |
+| 2709.26.452.060.2.567.3390.0000 | 2.631.000,00 |
+| TOTAL DA ANULAÇÃO | 2.631.000,00 |

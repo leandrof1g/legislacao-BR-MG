@@ -32,17 +32,13 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE EDUCAÇÃO DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CLASSES |Nº DE CARGOS |
-
-|[...] 5. Auxiliar de Secretaria Escolar |1.150 |
-
-|6. Professor para a Educação Infantil |6.900 |
-
-| | |
-
-|TOTAL | |
-
-| |22.810 |
+| CLASSES | Nº DE CARGOS |
+| --- | --- |
+| [...] 5. Auxiliar de Secretaria Escolar | 1.150 |
+| 6. Professor para a Educação Infantil | 6.900 |
+|  |  |
+| TOTAL |  |
+|  | 22.810 |
 
 ” (NR)
 

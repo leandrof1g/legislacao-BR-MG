@@ -58,154 +58,80 @@ Secretário Municipal da Fazenda
 
 ANEXO I A QUE SE REFERE O DECRETO N° 9.074
 
-| |
-
-| |
-
-| |
-
-|Ilmo. Sr. Diretor do DIFFA |
-
-| |
-
-| |
-
-|REQUERIMENTO |
-
-| |
-
-| |
-
-| |
-
-|______________________________________________, titular do direito à restituição deferida através do processo administrativo nº |
-
-|________________________ vem requerer a V.S.ª, com base no disposto no Decreto nº ________/96, a compensação do valor a ser restituído com |
-
-|o(s) crédito(s) tributário(s) abaixo relacionado(s), de minha responsabilidade: |
-
-| |
-
-| |
-
-|Índice Cadastral |
-
-|Exercício |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-| |
-
-|Nestes Termos |
-
-|Pede Deferimento. |
-
-| |
-
-| |
-
-| |
-
-|Belo Horizonte, ___ de _____________ de _______. |
-
-| |
-
-| |
-
-|Ass.:_________________________________________________ |
-
-| |
-
-|C.I.:________________________ CPF: _____________________ |
+|  |
+| --- |
+|  |
+|  |
+| Ilmo. Sr. Diretor do DIFFA |
+|  |
+|  |
+| REQUERIMENTO |
+|  |
+|  |
+|  |
+| ______________________________________________, titular do direito à restituição deferida através do processo administrativo nº |
+| ________________________ vem requerer a V.S.ª, com base no disposto no Decreto nº ________/96, a compensação do valor a ser restituído com |
+| o(s) crédito(s) tributário(s) abaixo relacionado(s), de minha responsabilidade: |
+|  |
+|  |
+| Índice Cadastral |
+| Exercício |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+| Nestes Termos |
+| Pede Deferimento. |
+|  |
+|  |
+|  |
+| Belo Horizonte, ___ de _____________ de _______. |
+|  |
+|  |
+| Ass.:_________________________________________________ |
+|  |
+| C.I.:________________________ CPF: _____________________ |

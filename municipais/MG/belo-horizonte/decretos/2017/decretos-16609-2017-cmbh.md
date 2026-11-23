@@ -36,7 +36,8 @@ PLANILHA DEMONSTRATIVA DAS PARCELAS A SEREM PAGAS A PARTIR DA COMPETÊNCIA FEVER
 
 [...]
 
-| | | | | |A |B |C | |Qtde. |PENSIONISTAS |BM |CPF |Total devido - valor bruto |Qtde. de parcelas DEVIDAS |Desembolso mensal de FEVEREIRO a DEZEMBRO/2017 + 13º Sal. |Principal (Parcela que é base de cálculo para Contribuição Previdenciária e Imposto de Renda) |Juros (Parcela Isenta) | |1 |Hilma dos Santos Bettoni |437790 |074.436.166-20 |576.568,61 |115,31 |5.000,00 |2.644,22 |2.355,78 | |
+|  |  |  |  |  | A | B | C |  | Qtde. | PENSIONISTAS | BM | CPF | Total devido - valor bruto | Qtde. de parcelas DEVIDAS | Desembolso mensal de FEVEREIRO a DEZEMBRO/2017 + 13º Sal. | Principal (Parcela que é base de cálculo para Contribuição Previdenciária e Imposto de Renda) | Juros (Parcela Isenta) |  | 1 | Hilma dos Santos Bettoni | 437790 | 074.436.166-20 | 576.568,61 | 115,31 | 5.000,00 | 2.644,22 | 2.355,78 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 **Art. 2º** - Este Decreto entra em vigor na data de sua publicação.
 

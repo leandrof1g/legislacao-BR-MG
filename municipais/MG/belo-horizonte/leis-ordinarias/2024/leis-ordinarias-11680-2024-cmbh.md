@@ -30,9 +30,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “FERIADO RELIGIOSO [...] FERIADO CIVIL
 
-|DATA |COMEMORAÇÃO |
-
-|20 de novembro |Dia da Consciência Negra |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 20 de novembro | Dia da Consciência Negra |
 
 ”.”
 

@@ -30,23 +30,16 @@ O Prefeito de Belo Horizonte, no exercício da atribuição que lhe confere o in
 
 **Art. 1º** - O cargo efetivo de Auditor será distribuído nas seguintes áreas de habilitação e nos seguintes quantitativos, em conformidade com os Anexos I e II da Lei nº 8.690/03, alterados, respectivamente, pelos arts. 4º e 5º da Lei nº 10.202/11:
 
-|ÁREA |QUANTIDADE DE VAGAS |
-
-|Administração |3 |
-
-|Ciência da Computação |4 |
-
-|Ciências Contábeis |2 |
-
-|Ciências Econômicas |1 |
-
-|Direito |2 |
-
-|Engenharia Civil |18 |
-
-|Tecnologia da Informação |4 |
-
-|Total |34 |
+| ÁREA | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Administração | 3 |
+| Ciência da Computação | 4 |
+| Ciências Contábeis | 2 |
+| Ciências Econômicas | 1 |
+| Direito | 2 |
+| Engenharia Civil | 18 |
+| Tecnologia da Informação | 4 |
+| Total | 34 |
 
 **Art. 2º** - Esse Decreto entra em vigor na data de sua publicação.
 

@@ -34,9 +34,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I DIA COMEMORATIVO C - Dias comemorativos de março:
 
-|DATA |COMEMORAÇÃO |
-
-|5/3 |Dia Municipal da Música Erudita |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 5/3 | Dia Municipal da Música Erudita |
 
 .”.
 

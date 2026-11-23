@@ -54,14 +54,10 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, |
-
-|conforme autorização contida no inciso II do § 1º do art. 43 da Lei |
-
-|Federal nº 4.320, de 17 de março de 1964: |
-
-|R$ |
-
-|1011.08.241.020.2.403.3390.0340 |1.530.945,03 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.530.945,03 |
+| I.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, |  |
+| --- | --- |
+| conforme autorização contida no inciso II do § 1º do art. 43 da Lei |  |
+| Federal nº 4.320, de 17 de março de 1964: |  |
+| R$ |  |
+| 1011.08.241.020.2.403.3390.0340 | 1.530.945,03 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.530.945,03 |

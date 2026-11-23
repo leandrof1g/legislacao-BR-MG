@@ -54,14 +54,10 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|A favor da Secretaria Municipal de Obras e Infraestrutura – SMOBI –, conforme autorização contida |
-
-|no inciso II do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e |
-
-|no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2700.15.451.062.1.230.4490.0030 |22.249.529,73 |
-
-|TOTAL DA SUPLEMENTAÇÃO |22.249.529,73 |
+| A favor da Secretaria Municipal de Obras e Infraestrutura – SMOBI –, conforme autorização contida |  |
+| --- | --- |
+| no inciso II do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e |  |
+| no caput do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2700.15.451.062.1.230.4490.0030 | 22.249.529,73 |
+| TOTAL DA SUPLEMENTAÇÃO | 22.249.529,73 |

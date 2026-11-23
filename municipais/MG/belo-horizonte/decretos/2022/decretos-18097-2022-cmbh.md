@@ -58,147 +58,81 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do art. 4º da Lei nº 11.336, de| R$ |
-
-|30 de dezembro de 2021: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do art. 4º da Lei nº 11.336, de | R$ |
+| --- | --- |
+| 30 de dezembro de 2021: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
 | 2100.06.122.242.2.881.3390.0000 | 3.700,00 |
-
 | 2100.06.181.109.2.803.3390.0000 | 343.912,00 |
-
 | 2100.06.181.109.2.803.4490.0000 | 181.800,00 |
-
 | 2100.06.301.109.2.803.3390.0000 | 48.220,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
+| Secretaria Municipal de Educação – SMED |  |
 | 2200.12.361.168.2.046.3390.0000 | 293.194,00 |
-
 | 2200.12.365.169.2.046.3390.0000 | 372.870,00 |
-
 | 2200.12.361.168.2.046.3390.0000 | 1.253.856,00 |
-
 | 2200.12.361.168.2.046.4450.0000 | 179.396,00 |
-
 | 2200.12.365.169.2.046.3390.0000 | 395.320,00 |
-
 | 2200.12.365.169.2.046.4450.0000 | 431.526,00 |
-
 | 2200.12.361.168.2.046.3390.0000 | 761.613,00 |
-
 | 2200.12.361.168.2.046.4450.0000 | 1.327.463,00 |
-
 | 2200.12.361.168.2.046.3390.0000 | 618.461,00 |
-
 | 2200.12.365.169.2.046.3390.0000 | 272.870,00 |
-
 | 2200.12.365.169.2.046.4450.0000 | 267.194,00 |
-
 | 2200.12.361.168.2.046.4450.0000 | 89.037,00 |
-
 | 2200.12.365.169.2.046.3390.0000 | 180.710,00 |
-
 | 2200.12.367.167.2.046.3390.0000 | 138.193,00 |
-
 | 2200.12.361.168.2.046.3390.0000 | 3.080.741,00 |
-
 | 2200.12.361.168.2.046.4450.0000 | 2.149.051,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
 | 4002.04.122.007.2.507.3190.0000 | 1.258.000,00 |
-
-|TOTAL | 13.647.127,00 |
-
-|I.1.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso II do art. 4º | R$ |
-
-|da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
+| TOTAL | 13.647.127,00 |
+| I.1.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso II do art. 4º | R$ |
+| da Lei nº 11.336, de 30 de dezembro de 2021: |  |
 | 2302.10.301.157.2.690.3390.0050 | 184.201,67 |
-
 | 2302.10.302.114.2.891.3390.0050 | 289.076,99 |
-
 | 2302.10.302.114.2.893.4490.0050 | 4.756,90 |
-
 | 2302.10.302.114.2.894.3390.0050 | 24.900,00 |
-
 | 2302.10.302.114.2.894.3391.0050 | 159.072,16 |
-
 | 2302.10.303.117.2.895.3390.0050 | 963.930,46 |
-
-|TOTAL | 1.625.938,18 |
-
-|TOTAL DA SUPLEMENTAÇÃO | 15.273.065,18 |
+| TOTAL | 1.625.938,18 |
+| TOTAL DA SUPLEMENTAÇÃO | 15.273.065,18 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de recursos | R$ | | |
-
-|orçamentários anteriormente previstos nos seguintes órgãos: | | | |
-
-| | | | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP | | |
-
-| 2100.06.181.109.2.803.3390.0000 | 93.654,00 | | |
-
-|Secretaria Municipal de Educação – SMED | | |
-
-| 2200.12.361.168.2.080.3390.0000 | 5.015.238,00 | | |
-
-| 2200.12.361.168.2.080.3390.0000 | 1.247.562,00 | | |
-
-| 2200.12.361.168.2.080.3390.0000 | 2.545.750,00 | | |
-
-| 2200.12.361.168.2.080.3390.0000 | 3.002.945,00 | | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG | | |
-
-| 4002.04.331.014.2.710.3390.0000 | 1.741.978,00 | | |
-
-|TOTAL | 13.647.127,00 | | |
-
-|I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de recursos | R$ | | |
-
-|orçamentários anteriormente previstos no Fundo Municipal de Saúde – FMS: | | | |
-
-| | | | |
-
-| 2302.10.305.028.2.829.3190.0050 | 20.000,00 | | |
-
-| 2302.10.305.028.2.829.3190.0050 | 20.000,00 | | |
-
-| 2302.10.305.028.2.829.3190.0050 | 20.000,00 | | |
-
-| 2302.10.305.028.2.829.3190.0050 | 20.000,00 | | |
-
-| 2302.10.305.028.2.829.3190.0050 | 20.000,00 | | |
-
-| 2302.10.305.028.2.829.3190.0050 | 20.000,00 | | |
-
-| 2302.10.305.028.2.829.3190.0050 | 18.929,06 | | |
-
-| 2302.10.301.157.2.690.3390.0050 | 9.747,33 | | |
-
-| 2302.10.302.114.2.891.3391.0050 | 12.500,00 | | |
-
-| 2302.10.302.114.2.891.4490.0050 | 10.183,12 | | |
-
-| 2302.10.302.114.2.893.3350.0050 | 1.045.739,91 | | |
-
-| 2302.10.302.114.2.893.3390.0050 | 304.371,64 | | |
-
-| 2302.10.303.117.2.895.3390.0050 | 77.350,24 | | |
-
-| 2302.10.304.028.2.829.4490.0050 | 10.000,00 | | |
-
-| 2302.10.305.028.2.829.4490.0050 | 17.116,88 | | |
-
-|TOTAL | 1.625.938,18 | | |
-
-|TOTAL DA ANULAÇÃO | 15.273.065,18 | | |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de recursos | R$ |  |  |
+| --- | --- | --- | --- |
+| orçamentários anteriormente previstos nos seguintes órgãos: |  |  |  |
+|  |  |  |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |  |  |
+| 2100.06.181.109.2.803.3390.0000 | 93.654,00 |  |  |
+| Secretaria Municipal de Educação – SMED |  |  |  |
+| 2200.12.361.168.2.080.3390.0000 | 5.015.238,00 |  |  |
+| 2200.12.361.168.2.080.3390.0000 | 1.247.562,00 |  |  |
+| 2200.12.361.168.2.080.3390.0000 | 2.545.750,00 |  |  |
+| 2200.12.361.168.2.080.3390.0000 | 3.002.945,00 |  |  |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |  |  |
+| 4002.04.331.014.2.710.3390.0000 | 1.741.978,00 |  |  |
+| TOTAL | 13.647.127,00 |  |  |
+| I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de recursos | R$ |  |  |
+| orçamentários anteriormente previstos no Fundo Municipal de Saúde – FMS: |  |  |  |
+|  |  |  |  |
+| 2302.10.305.028.2.829.3190.0050 | 20.000,00 |  |  |
+| 2302.10.305.028.2.829.3190.0050 | 20.000,00 |  |  |
+| 2302.10.305.028.2.829.3190.0050 | 20.000,00 |  |  |
+| 2302.10.305.028.2.829.3190.0050 | 20.000,00 |  |  |
+| 2302.10.305.028.2.829.3190.0050 | 20.000,00 |  |  |
+| 2302.10.305.028.2.829.3190.0050 | 20.000,00 |  |  |
+| 2302.10.305.028.2.829.3190.0050 | 18.929,06 |  |  |
+| 2302.10.301.157.2.690.3390.0050 | 9.747,33 |  |  |
+| 2302.10.302.114.2.891.3391.0050 | 12.500,00 |  |  |
+| 2302.10.302.114.2.891.4490.0050 | 10.183,12 |  |  |
+| 2302.10.302.114.2.893.3350.0050 | 1.045.739,91 |  |  |
+| 2302.10.302.114.2.893.3390.0050 | 304.371,64 |  |  |
+| 2302.10.303.117.2.895.3390.0050 | 77.350,24 |  |  |
+| 2302.10.304.028.2.829.4490.0050 | 10.000,00 |  |  |
+| 2302.10.305.028.2.829.4490.0050 | 17.116,88 |  |  |
+| TOTAL | 1.625.938,18 |  |  |
+| TOTAL DA ANULAÇÃO | 15.273.065,18 |  |  |
 
 ANEXO II
 
@@ -238,32 +172,19 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei n.º 11.336, |Caput do art. 4º, limite |Inciso I do § 1º do art. 4º - |Inciso II do § 1º do art. 4º –limite de |
-
-|de 30/12/2021 - Limites |de 15% do valor total do |Limite de 15% do total do |15% do total do Orçamento do Fundo |
-
-|autorizados para abertura de |Orçamento: |Orçamento do Grupo 1 - Pessoal e |Municipal de Saúde - FMS: |
-
-|créditos suplementares | |Encargos Sociais: | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 561.180.496,31 |R$ 138.257.072,88 |R$ 350.866.799,67 |
-
-|suplementares abertos no | | | |
-
-|exercício | | | |
-
-|Saldos de créditos |R$ 1.739.970.189,34 |R$ 745.735.235,82 |R$ 376.350.352,98 |
-
-|suplementares | | | |
-
-|Percentual utilizado |24,39% |15,64% |48,25% |
-
-|Atualizado em 19/09/2022 às 15:43. |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei n.º 11.336, | Caput do art. 4º, limite | Inciso I do § 1º do art. 4º - | Inciso II do § 1º do art. 4º –limite de |
+| de 30/12/2021 - Limites | de 15% do valor total do | Limite de 15% do total do | 15% do total do Orçamento do Fundo |
+| autorizados para abertura de | Orçamento: | Orçamento do Grupo 1 - Pessoal e | Municipal de Saúde - FMS: |
+| créditos suplementares |  | Encargos Sociais: |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 561.180.496,31 | R$ 138.257.072,88 | R$ 350.866.799,67 |
+| suplementares abertos no |  |  |  |
+| exercício |  |  |  |
+| Saldos de créditos | R$ 1.739.970.189,34 | R$ 745.735.235,82 | R$ 376.350.352,98 |
+| suplementares |  |  |  |
+| Percentual utilizado | 24,39% | 15,64% | 48,25% |
+| Atualizado em 19/09/2022 às 15:43. |  |  |  |

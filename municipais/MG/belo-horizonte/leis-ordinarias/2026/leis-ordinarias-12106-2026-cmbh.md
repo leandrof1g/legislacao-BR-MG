@@ -38,11 +38,10 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 J - Dias comemorativos de outubro:
 
-|OUTUBRO |COMEMORAÇÃO |
-
-|17/10 |Dia de Luto e de Memória às Mulheres |
-
-| |Vítimas de Feminicídio |
+| OUTUBRO | COMEMORAÇÃO |
+| --- | --- |
+| 17/10 | Dia de Luto e de Memória às Mulheres |
+|  | Vítimas de Feminicídio |
 
 .”.
 

@@ -390,42 +390,24 @@ ANEXO II
 
 PERCENTUAL DO ABONO POR CARGO EM UNIDADES ESPECIAIS TIPO IV E VI
 
-|CARGOS |TIPO IV |TIPO VI |
-
-|Auxiliar Sanitário |18% |36% |
-
-|Agente de Serviço de Saúde I |20% |40% |
-
-|Agente de Serviço de Saúde II |22% |44% |
-
-|Agente de Serviço de Saúde III |24% |48% |
-
-|Técnico de Serviço de Saúde I |28% |56% |
-
-|Técnico de Serviço de Saúde II |30% |60% |
-
-|Técnico de Serviço de Saúde III |36% |72% |
-
-|Técnico Superior de Saúde I |58% |100% |
-
-|Cirurgião Dentista I |60% |100% |
-
-|Técnico Superior de Saúde II | | |
-
-|Médico I |58% |100% |
-
-|Cirurgião Dentista II | | |
-
-|Técnico Superior de Saúde III | | |
-
-|Cirurgião Dentista III |58% |100% |
-
-|Médico II | | |
-
-|Médico III |58% |100% |
-
-|Agente Administração I |24% |48% |
-
-|Agente Administração II |28% |56% |
-
-|Agente Administração III |28% |56% |
+| CARGOS | TIPO IV | TIPO VI |
+| --- | --- | --- |
+| Auxiliar Sanitário | 18% | 36% |
+| Agente de Serviço de Saúde I | 20% | 40% |
+| Agente de Serviço de Saúde II | 22% | 44% |
+| Agente de Serviço de Saúde III | 24% | 48% |
+| Técnico de Serviço de Saúde I | 28% | 56% |
+| Técnico de Serviço de Saúde II | 30% | 60% |
+| Técnico de Serviço de Saúde III | 36% | 72% |
+| Técnico Superior de Saúde I | 58% | 100% |
+| Cirurgião Dentista I | 60% | 100% |
+| Técnico Superior de Saúde II |  |  |
+| Médico I | 58% | 100% |
+| Cirurgião Dentista II |  |  |
+| Técnico Superior de Saúde III |  |  |
+| Cirurgião Dentista III | 58% | 100% |
+| Médico II |  |  |
+| Médico III | 58% | 100% |
+| Agente Administração I | 24% | 48% |
+| Agente Administração II | 28% | 56% |
+| Agente Administração III | 28% | 56% |

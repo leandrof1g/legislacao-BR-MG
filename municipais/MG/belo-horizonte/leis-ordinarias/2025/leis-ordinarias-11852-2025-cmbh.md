@@ -40,11 +40,10 @@ SEMANA COMEMORATIVA
 
 D - Semanas comemorativas de abril:
 
-|DATA |COMEMORAÇÃO |
-
-|Semana do dia 7 de |Semana de Prevenção e Combate às Intimidações Sistemáticas Bullying e |
-
-|abril |Cyberbullying |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Semana do dia 7 de | Semana de Prevenção e Combate às Intimidações Sistemáticas Bullying e |
+| abril | Cyberbullying |
 
 .”.
 

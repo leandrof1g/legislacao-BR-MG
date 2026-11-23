@@ -52,69 +52,39 @@ José Antônio Torres
 
 Secretário Municipal de Administração
 
-| | |
-
-| |Alíquota/UPPBH |
-
-|ANEXO A QUE SE REFERE O ARTIGO 1.º DO DECRETO N.º 4260 DE 14 DE JULHO DE 1982 | |
-
-| | | |
-
-| |JAN a JUN |JUL a DEZ |
-
-|Transformação de sepultura em carneiro com colocação de ferros e 6 | | |
-
-|lajes........................................................................... |2,0 |2,5 |
-
-|Transformação de sepultura entijolada em carneiro com colocação de ferros e 6 | | |
-
-|lajes..................................................... |1,0 |1,5 |
-
-|Fundição de 6 lajes completas do carneiro............................... |0,10 |0,15 |
-
-|Colocação de 2 lajes em carneiro............................................. |0,08 |0,12 |
-
-|Colocação de 4 ferros em carneiro........................................... |0,07 |0,11 |
-
-|Abrir e fechar túmulo de mármore ou granito............................ |0,12 |0,18 |
-
-|Abrir e fechar túmulo geminado................................................ |0,11 |0,17 |
-
-|Abrir e fechar |0,10 |0,15 |
-
-|ataúde................................................................. |0,07 |0,11 |
-
-|Abrir e fechar túmulo de pó de pedra........................................ |0,05 |0,08 |
-
-|Abrir e fechar laje inteiriça de 4 cm........................................... |0,06 |0,09 |
-
-| |0,04 |0,06 |
-
-|Abrir e fechar túmulo de lousa de 8 cm..................................... |0,03 |0,05 |
-
-|Abrir e fechar túmulo de lousa de 6 cm..................................... |0,02 |0,03 |
-
-|Abrir e fechar túmulo de lousa de 4 cm..................................... |0,02 |0,03 |
-
-|Abrir e fechar túmulo de lousa de 3 cm..................................... |0,02 |0,03 |
-
-| |0,04 |0,06 |
-
-|Abrir e fechar túmulo de lousa de 2 cm..................................... | | |
-
-|Abrir e fechar túmulo de laje em pó de pedra........................... |0,01 |0,02 |
-
-|Vedamento completo em carneiro............................................. |0,02 |0,03 |
-
-|Perfuração de 8 buracos na parede para colocação | | |
-
-|de | | |
-
-|ferros.............................................................................| | |
-
-|....... | | |
-
-|Exumação em carneiro............................................................. | | |
+|  |  |  |
+| --- | --- | --- |
+|  | Alíquota/UPPBH |  |
+| ANEXO A QUE SE REFERE O ARTIGO 1.º DO DECRETO N.º 4260 DE 14 DE JULHO DE 1982 |  |  |
+|  |  |  |
+|  | JAN a JUN | JUL a DEZ |
+| Transformação de sepultura em carneiro com colocação de ferros e 6 |  |  |
+| lajes........................................................................... | 2,0 | 2,5 |
+| Transformação de sepultura entijolada em carneiro com colocação de ferros e 6 |  |  |
+| lajes..................................................... | 1,0 | 1,5 |
+| Fundição de 6 lajes completas do carneiro............................... | 0,10 | 0,15 |
+| Colocação de 2 lajes em carneiro............................................. | 0,08 | 0,12 |
+| Colocação de 4 ferros em carneiro........................................... | 0,07 | 0,11 |
+| Abrir e fechar túmulo de mármore ou granito............................ | 0,12 | 0,18 |
+| Abrir e fechar túmulo geminado................................................ | 0,11 | 0,17 |
+| Abrir e fechar | 0,10 | 0,15 |
+| ataúde................................................................. | 0,07 | 0,11 |
+| Abrir e fechar túmulo de pó de pedra........................................ | 0,05 | 0,08 |
+| Abrir e fechar laje inteiriça de 4 cm........................................... | 0,06 | 0,09 |
+|  | 0,04 | 0,06 |
+| Abrir e fechar túmulo de lousa de 8 cm..................................... | 0,03 | 0,05 |
+| Abrir e fechar túmulo de lousa de 6 cm..................................... | 0,02 | 0,03 |
+| Abrir e fechar túmulo de lousa de 4 cm..................................... | 0,02 | 0,03 |
+| Abrir e fechar túmulo de lousa de 3 cm..................................... | 0,02 | 0,03 |
+|  | 0,04 | 0,06 |
+| Abrir e fechar túmulo de lousa de 2 cm..................................... |  |  |
+| Abrir e fechar túmulo de laje em pó de pedra........................... | 0,01 | 0,02 |
+| Vedamento completo em carneiro............................................. | 0,02 | 0,03 |
+| Perfuração de 8 buracos na parede para colocação |  |  |
+| de |  |  |
+| ferros............................................................................. |  |  |
+| ....... |  |  |
+| Exumação em carneiro............................................................. |  |  |
 
 ## Observações da CMBH
 

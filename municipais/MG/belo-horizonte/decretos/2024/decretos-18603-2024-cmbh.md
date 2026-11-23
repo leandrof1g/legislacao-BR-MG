@@ -58,27 +58,21 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguints dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei nº |R$ |
-
-|11.644, de 29 de dezembro de 2023: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.168.2080.319011.540 |42.500.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |42.500.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei nº | R$ |
+| --- | --- |
+| 11.644, de 29 de dezembro de 2023: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.168.2080.319011.540 | 42.500.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 42.500.000,00 |
 
 I.2 – Anulação das dotação orçamentária a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de recursos |R$ |
-
-|orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.366.168.2080.319011.540 |42.500.000,00 |
-
-|TOTAL DA ANULAÇÃO |42.500.000,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de recursos | R$ |
+| --- | --- |
+| orçamentários anteriormente previstos no seguinte órgão: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.366.168.2080.319011.540 | 42.500.000,00 |
+| TOTAL DA ANULAÇÃO | 42.500.000,00 |
 
 ANEXO II
 
@@ -102,24 +96,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para abertura |Art. 5º, limite de 10% do valor |
-
-|de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 0,00 |
-
-|Valor do Decreto publicado nesta data |R$ 42.500.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 42.500.000,00 |
-
-|Saldo atual de créditos suplementares |R$ 1.940.832.772,40 |
-
-|Percentual utilizado |2,14% |
-
-|Atualizado em 10/01/2024 às 18:17:29 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para abertura | Art. 5º, limite de 10% do valor |
+| de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 0,00 |
+| Valor do Decreto publicado nesta data | R$ 42.500.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 42.500.000,00 |
+| Saldo atual de créditos suplementares | R$ 1.940.832.772,40 |
+| Percentual utilizado | 2,14% |
+| Atualizado em 10/01/2024 às 18:17:29 |  |

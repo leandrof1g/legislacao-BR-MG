@@ -48,118 +48,67 @@ ANEXO
 
 IV.6 – Secretaria Municipal de Esportes e Lazer – SMEL:
 
-|SMEL |
-
-|CARGO / FUNÇÃO - |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|NÍVEL | | | |
-
-|DAM-1 |LIMITADO |2 |SMEL.DAM1.L.001 a SMEL.DAM1.L.002 |
-
-| |AMPLO |3 |SMEL.DAM1.A.001 a SMEL.DAM1.A.003 |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMEL.DAM2.A.001 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-4 |LIMITADO |8 |SMEL.DAM4.L.001 a SMEL.DAM4.L.008 |
-
-| |AMPLO |6 |SMEL.DAM4.A.001 a SMEL.DAM4.A.006 |
-
-|DAM-5 |LIMITADO |1 |SMEL.DAM5.L.001 |
-
-| |AMPLO |1 |SMEL.DAM5.A.001 |
-
-|DAM-6 |LIMITADO |6 |SMEL.DAM6.L.001 a SMEL.DAM6.L.006 |
-
-| |AMPLO |1 |SMEL.DAM6.A.001 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |4 |SMEL.FCA4.001 a SMEL.FCA4.004 |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |33 | |
+| SMEL |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO - | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| NÍVEL |  |  |  |
+| DAM-1 | LIMITADO | 2 | SMEL.DAM1.L.001 a SMEL.DAM1.L.002 |
+|  | AMPLO | 3 | SMEL.DAM1.A.001 a SMEL.DAM1.A.003 |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMEL.DAM2.A.001 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-4 | LIMITADO | 8 | SMEL.DAM4.L.001 a SMEL.DAM4.L.008 |
+|  | AMPLO | 6 | SMEL.DAM4.A.001 a SMEL.DAM4.A.006 |
+| DAM-5 | LIMITADO | 1 | SMEL.DAM5.L.001 |
+|  | AMPLO | 1 | SMEL.DAM5.A.001 |
+| DAM-6 | LIMITADO | 6 | SMEL.DAM6.L.001 a SMEL.DAM6.L.006 |
+|  | AMPLO | 1 | SMEL.DAM6.A.001 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 4 | SMEL.FCA4.001 a SMEL.FCA4.004 |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 33 |  |  |
 
 (...)
 
 IV.18 – Fundação Municipal de Cultura – FMC:
 
-|FMC |
-
-|CARGO / FUNÇÃO - NÍVEL|RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |1 |CULT.DAM3.A.001 |
-
-|DAM-4 |LIMITADO |4 |CULT.DAM4.L.001 a CULT.DAM4.L.004 |
-
-| |AMPLO |7 |CULT.DAM4.A.001 a CULT.DAM4.A.007 |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |12 |CULT.DAM5.A.001 a CULT.DAM5.A.012 |
-
-|DAM-6 |LIMITADO |0 |- |
-
-| |AMPLO |5 |CULT.DAM6.A.001 a CULT.DAM6.A.005 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |1 |CULT.DAM7.A.001 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |5 |CULT.DAM8.A.001 a CULT.DAM8.A.005 |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|FCA-1 |LIMITADO |1 |CULT.FCA1.001 |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |5 |CULT.FCA4.001 a CULT.FCA4.005 |
-
-|FCA-5 |LIMITADO |1 |CULT.FCA5.001 |
-
-|FCA-6 |LIMITADO |28 |CULT.FCA6.001 a CULT.FCA6.028 |
-
-|TOTAL DE CARGOS |70 | |
+| FMC |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO - NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | CULT.DAM3.A.001 |
+| DAM-4 | LIMITADO | 4 | CULT.DAM4.L.001 a CULT.DAM4.L.004 |
+|  | AMPLO | 7 | CULT.DAM4.A.001 a CULT.DAM4.A.007 |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 12 | CULT.DAM5.A.001 a CULT.DAM5.A.012 |
+| DAM-6 | LIMITADO | 0 | - |
+|  | AMPLO | 5 | CULT.DAM6.A.001 a CULT.DAM6.A.005 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | CULT.DAM7.A.001 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 5 | CULT.DAM8.A.001 a CULT.DAM8.A.005 |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| FCA-1 | LIMITADO | 1 | CULT.FCA1.001 |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 5 | CULT.FCA4.001 a CULT.FCA4.005 |
+| FCA-5 | LIMITADO | 1 | CULT.FCA5.001 |
+| FCA-6 | LIMITADO | 28 | CULT.FCA6.001 a CULT.FCA6.028 |
+| TOTAL DE CARGOS | 70 |  |  |
 
 ”

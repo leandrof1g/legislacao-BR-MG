@@ -36,11 +36,10 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO Il SEMANA COMEMORATIVA [...] C - Semanas comemorativas de março:
 
-|DATA |COMEMORAÇÃO |
-
-|Primeira semana de março |Semana Escolar de Conscientização sobre a Importância dos |
-
-| |Primeiros Socorros |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Primeira semana de março | Semana Escolar de Conscientização sobre a Importância dos |
+|  | Primeiros Socorros |
 
 ”.
 

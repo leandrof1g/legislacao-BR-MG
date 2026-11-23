@@ -64,17 +64,13 @@ ANEXO
 
 TABELA DE VENCIMENTOS-BASE DOS CARGOS EFETIVOS DA ÁREA DE ATIVIDADE DE EDUCAÇÃO, A PARTIR DE 1º DE AGOSTO DE 2024:
 
-|CARGOS |TABELA DE VENCIMENTOS-BASE (valores em R$) |
-
-| |NÍVEL |
-
-| |8 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
+| CARGOS | TABELA DE VENCIMENTOS-BASE (valores em R$) |
+| --- | --- |
+|  | NÍVEL |
+|  | 8 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
 
 |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 | |BIBLIOTECÁRIO
 

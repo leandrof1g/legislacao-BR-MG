@@ -58,91 +58,53 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei nº|R$ |
-
-|11.644, de 29 de dezembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.449052.1.500.000 |25.578,54 |
-
-|2302.10.301.0157.2690.449052.1.500.000 |69.521,16 |
-
-|2302.10.301.0157.2690.339039.1.600.000 |302.427,70 |
-
-|2302.10.302.0114.2936.339037.1.600.000 |1.726.482,41 |
-
-|2302.10.301.0157.2690.339037.1.600.000 |1.700.000,00 |
-
-|2302.10.305.0028.2829.445042.1.621.000 |80.472,00 |
-
-|TOTAL |3.904.481,81 |
-
-|I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei nº|R$ |
-
-|11.644, de 29 de dezembro de 2023: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.319011.1.500.000 |226.087,00 |
-
-|2505.18.541.0073.2900.319011.1.500.000 |1.079.779,00 |
-
-|2505.18.541.0073.2812.319113.1.500.000 |45.646,00 |
-
-|2505.04.122.0165.2816.319011.1.500.000 |44.677,00 |
-
-|2505.04.122.0165.2816.319013.1.500.000 |4.149,00 |
-
-|2505.18.541.0073.2900.319013.1.500.000 |2.065,00 |
-
-|2505.18.541.0073.2900.319113.1.500.000 |125.648,00 |
-
-|2505.18.541.0073.2581.319011.1.500.000 |120.885,00 |
-
-|2505.18.541.0073.2580.319011.1.500.000 |140.284,00 |
-
-|2505.18.541.0073.2580.319013.1.500.000 |3.165,00 |
-
-|2505.18.541.0073.2580.319113.1.500.000 |22.839,00 |
-
-|TOTAL |1.815.224,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.719.705,81 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei nº | R$ |
+| --- | --- |
+| 11.644, de 29 de dezembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.449052.1.500.000 | 25.578,54 |
+| 2302.10.301.0157.2690.449052.1.500.000 | 69.521,16 |
+| 2302.10.301.0157.2690.339039.1.600.000 | 302.427,70 |
+| 2302.10.302.0114.2936.339037.1.600.000 | 1.726.482,41 |
+| 2302.10.301.0157.2690.339037.1.600.000 | 1.700.000,00 |
+| 2302.10.305.0028.2829.445042.1.621.000 | 80.472,00 |
+| TOTAL | 3.904.481,81 |
+| I.1.2 – A favor do seguinte órgão, conforme autorização contida no art. 5º da Lei nº | R$ |
+| 11.644, de 29 de dezembro de 2023: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.319011.1.500.000 | 226.087,00 |
+| 2505.18.541.0073.2900.319011.1.500.000 | 1.079.779,00 |
+| 2505.18.541.0073.2812.319113.1.500.000 | 45.646,00 |
+| 2505.04.122.0165.2816.319011.1.500.000 | 44.677,00 |
+| 2505.04.122.0165.2816.319013.1.500.000 | 4.149,00 |
+| 2505.18.541.0073.2900.319013.1.500.000 | 2.065,00 |
+| 2505.18.541.0073.2900.319113.1.500.000 | 125.648,00 |
+| 2505.18.541.0073.2581.319011.1.500.000 | 120.885,00 |
+| 2505.18.541.0073.2580.319011.1.500.000 | 140.284,00 |
+| 2505.18.541.0073.2580.319013.1.500.000 | 3.165,00 |
+| 2505.18.541.0073.2580.319113.1.500.000 | 22.839,00 |
+| TOTAL | 1.815.224,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.719.705,81 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.335043.1.621.000 |80.472,00 |
-
-|2302.10.305.0028.2829.339030.1.600.000 |567.600,56 |
-
-|2302.10.302.0114.2936.335043.1.600.000 |3.161.309,55 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.846.0089.3137.319091.1.500.000 |95.099,70 |
-
-|TOTAL |3.904.481,81 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |
-
-|3304.26.452.0060.2567.339091.1.500.000 |1.142.588,00 |
-
-|3304.26.452.0060.2567.449052.1.500.000 |672.636,00 |
-
-|TOTAL |1.815.224,00 |
-
-|TOTAL DA ANULAÇÃO |5.719.705,81 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.335043.1.621.000 | 80.472,00 |
+| 2302.10.305.0028.2829.339030.1.600.000 | 567.600,56 |
+| 2302.10.302.0114.2936.335043.1.600.000 | 3.161.309,55 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.846.0089.3137.319091.1.500.000 | 95.099,70 |
+| TOTAL | 3.904.481,81 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Empresa de Transporte e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3304.26.452.0060.2567.339091.1.500.000 | 1.142.588,00 |
+| 3304.26.452.0060.2567.449052.1.500.000 | 672.636,00 |
+| TOTAL | 1.815.224,00 |
+| TOTAL DA ANULAÇÃO | 5.719.705,81 |
 
 ANEXO II
 
@@ -174,52 +136,32 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 4º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 4º, limite de 15% do valor|
-
-|abertura de créditos suplementares para o Fundo Municipal de |total do Orçamento: |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 2.974.999.158,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 141.604.368,08 |
-
-|Valor do Decreto publicado nesta data |R$ 3.904.481,81 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 145.508.849,89 |
-
-|Saldo atual de créditos suplementares |R$ 2.829.490.308,71 |
-
-|Percentual utilizado |4,89% |
-
-|Atualizado em 06/11/2024 às 11:19:37 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 4º, limite de 15% do valor |
+| abertura de créditos suplementares para o Fundo Municipal de | total do Orçamento: |
+| Saúde. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 2.974.999.158,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 141.604.368,08 |
+| Valor do Decreto publicado nesta data | R$ 3.904.481,81 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 145.508.849,89 |
+| Saldo atual de créditos suplementares | R$ 2.829.490.308,71 |
+| Percentual utilizado | 4,89% |
+| Atualizado em 06/11/2024 às 11:19:37 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 194.146.773,48 |
-
-|Valor do Decreto publicado nesta data |R$ 1.815.224,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 195.961.997,48 |
-
-|Saldo atual de créditos suplementares |R$ 1.787.370.774,92 |
-
-|Percentual utilizado |9,88% |
-
-|Atualizado em 06/11/2024 às 11:17:29 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 194.146.773,48 |
+| Valor do Decreto publicado nesta data | R$ 1.815.224,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 195.961.997,48 |
+| Saldo atual de créditos suplementares | R$ 1.787.370.774,92 |
+| Percentual utilizado | 9,88% |
+| Atualizado em 06/11/2024 às 11:17:29 |  |

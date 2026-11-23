@@ -394,43 +394,30 @@ ANEXO I
 
 CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CLASSES |NÚMERO DE CARGOS |
-
-|Agente Fazendário |230 |
-
-| |295 |
-
-| |Nº de cargos fixados pela Lei nº 8.288, de |
-
-| |28/12/2001 (Art. 31) |
-
-|Técnico Fazendário de Nível Médio |80 |
-
-|Analista Fazendário |50 |
-
-|Auditor Fiscal de Tributos Municipais |180 |
-
-|Auditor Técnico de Tributos Municipais |60 |
-
-|Tesoureiro (em extinção) | |
+| CLASSES | NÚMERO DE CARGOS |
+| --- | --- |
+| Agente Fazendário | 230 |
+|  | 295 |
+|  | Nº de cargos fixados pela Lei nº 8.288, de |
+|  | 28/12/2001 (Art. 31) |
+| Técnico Fazendário de Nível Médio | 80 |
+| Analista Fazendário | 50 |
+| Auditor Fiscal de Tributos Municipais | 180 |
+| Auditor Técnico de Tributos Municipais | 60 |
+| Tesoureiro (em extinção) |  |
 
 ANEXO I
 
 CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CARGOS |NÚMERO DE CARGOS |
-
-|Agente Fazendário |200 |
-
-|Analista Fazendário |50 |
-
-|Auditor Fiscal de Tributos Municipais |120 |
-
-|Auditor Técnico de Tributos Municipais |30 |
-
-|Técnico Fazendário de Nível Médio (em extinção) |3 |
-
-|Tesoureiro (em extinção) |2 |
+| CARGOS | NÚMERO DE CARGOS |
+| --- | --- |
+| Agente Fazendário | 200 |
+| Analista Fazendário | 50 |
+| Auditor Fiscal de Tributos Municipais | 120 |
+| Auditor Técnico de Tributos Municipais | 30 |
+| Técnico Fazendário de Nível Médio (em extinção) | 3 |
+| Tesoureiro (em extinção) | 2 |
 
 Anexo I com redação dada pela Lei nº 11.373, de 4/7/2022 (Art. 29, parágrafo único)
 
@@ -584,19 +571,14 @@ ANEXO III
 
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO DA PREFEITURA MUNICIPAL DE BELO HORIZONTE COM JORNADA DE 8 HORAS
 
-|CARGOS |1 |2 |3 |4 |5 |
-
-|EFETIVOS | | | | | |
-
-|Tesoureiro |643,40 |675,57 |709,35 |744,82 |782,06 |
-
-|Cargos Efetivos |6 |7 |8 |9 |10 |
-
-|Tesoureiro |821,16 |862,22 |905,33 |950,59 |998,12 |
-
-|Cargos Efetivos |11 |12 |13 |14 |15 |
-
-|Tesoureiro |1.048,03 |1,100,43 |1.155,45 |1.213,23 |1.273,89 |
+| CARGOS | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| EFETIVOS |  |  |  |  |  |
+| Tesoureiro | 643,40 | 675,57 | 709,35 | 744,82 | 782,06 |
+| Cargos Efetivos | 6 | 7 | 8 | 9 | 10 |
+| Tesoureiro | 821,16 | 862,22 | 905,33 | 950,59 | 998,12 |
+| Cargos Efetivos | 11 | 12 | 13 | 14 | 15 |
+| Tesoureiro | 1.048,03 | 1,100,43 | 1.155,45 | 1.213,23 | 1.273,89 |
 
 Níveis de vencimentos acrescentados pela Lei nº 7.918, de 17/12/1999 (Art. 18)
 
@@ -604,47 +586,28 @@ ANEXO IV
 
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE TRIBUTAÇÃO DA PREFEITURA MUNICIPAL DE BELO HORIZONTE COM JORNADA DE 6 HORAS
 
-|CARGOS |1 |
-
-|EFETIVOS | |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-|Agente Fazendário I em estágio probatório |Agente Fazendário Nível 1 |
-
-|Agente Fazendário I estável |Agente Fazendário Nível 2 |
-
-|Agente Fazendário II |Agente Fazendário Nível 3 |
-
-|Agente Fazendário III |Agente Fazendário Nível 4 |
-
-|Técnico de Nível Médio I |Técnico Fazendário de Nível Médio Nível 1 |
-
-|Técnico de Nível Médio II |Técnico Fazendário de Nível Médio Nível 2 |
-
-|Técnico de Nível Médio III |Técnico Fazendário de Nível Médio Nível 3 |
-
-|Analista Fazendário I, II e III |Analista Fazendário Nível 1 |
-
-|Fiscal Municipal de Tributação I |Auditor Fiscal de Tributos Municipais Nível 1 |
-
-|Fiscal Municipal de Tributação II |Auditor Fiscal de Tributos Municipais Nível 2 |
-
-|Fiscal Municipal de Tributação III |Auditor Fiscal de Tributos Municipais Nível 3 |
-
-|Técnico Municipal de Tributação I |Auditor Técnico de Tributos Municipais Nível 2 |
-
-|Técnico Municipal de Tributação II |Auditor Técnico de Tributos Municipais Nível 3 |
-
-|Técnico Municipal de Tributação III |Auditor Técnico de Tributos Municipais Nível 4 |
-
-|Tesoureiro I, II e III |Tesoureiro Nível 1 (em extinção, conforme a Lei nº 6.915/95) |
+| CARGOS | 1 |
+| --- | --- |
+| EFETIVOS |  |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+| Agente Fazendário I em estágio probatório | Agente Fazendário Nível 1 |
+| Agente Fazendário I estável | Agente Fazendário Nível 2 |
+| Agente Fazendário II | Agente Fazendário Nível 3 |
+| Agente Fazendário III | Agente Fazendário Nível 4 |
+| Técnico de Nível Médio I | Técnico Fazendário de Nível Médio Nível 1 |
+| Técnico de Nível Médio II | Técnico Fazendário de Nível Médio Nível 2 |
+| Técnico de Nível Médio III | Técnico Fazendário de Nível Médio Nível 3 |
+| Analista Fazendário I, II e III | Analista Fazendário Nível 1 |
+| Fiscal Municipal de Tributação I | Auditor Fiscal de Tributos Municipais Nível 1 |
+| Fiscal Municipal de Tributação II | Auditor Fiscal de Tributos Municipais Nível 2 |
+| Fiscal Municipal de Tributação III | Auditor Fiscal de Tributos Municipais Nível 3 |
+| Técnico Municipal de Tributação I | Auditor Técnico de Tributos Municipais Nível 2 |
+| Técnico Municipal de Tributação II | Auditor Técnico de Tributos Municipais Nível 3 |
+| Técnico Municipal de Tributação III | Auditor Técnico de Tributos Municipais Nível 4 |
+| Tesoureiro I, II e III | Tesoureiro Nível 1 (em extinção, conforme a Lei nº 6.915/95) |
 
 ## Observações da CMBH
 

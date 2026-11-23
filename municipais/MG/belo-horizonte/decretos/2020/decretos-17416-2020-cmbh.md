@@ -52,23 +52,16 @@ ANEXO I
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Fase de controle – permanecem abertos |
-
-|Atividades autorizadas a funcionar nos termos do Decreto nº 17.328, de 8 de abril de 2020, e do |
-
-|Decreto nº 17.332, de 16 de abril de 2020. |
-
-|Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH. |
-
-|Atividade |Faixa de horário de funcionamento |
-
-|(...) |
-
-|Comércio varejista de artigos de óptica |Sem restrição de horário |
-
-|Artigos médicos e ortopédicos |Sem restrição de horário |
-
-|(...) |
+| Fase de controle – permanecem abertos |  |
+| --- | --- |
+| Atividades autorizadas a funcionar nos termos do Decreto nº 17.328, de 8 de abril de 2020, e do |  |
+| Decreto nº 17.332, de 16 de abril de 2020. |  |
+| Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH. |  |
+| Atividade | Faixa de horário de funcionamento |
+| (...) |  |
+| Comércio varejista de artigos de óptica | Sem restrição de horário |
+| Artigos médicos e ortopédicos | Sem restrição de horário |
+| (...) |  |
 
 ANEXO II
 
@@ -78,60 +71,33 @@ ANEXO II
 
 (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividades e horários |
-
-|(A partir de 24 de agosto de 2020) |
-
-|Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |
-
-|Atividade |Faixa de horário de funcionamento |
-
-|Comércio varejista não contemplado na fase de |Segunda a sexta-feira, entre 11h e 19h |
-
-|controle | |
-
-|Comércio atacadista da cadeia de atividades do|Segunda a sexta-feira, entre 11h e 19h |
-
-|comércio varejista autorizada a funcionar na | |
-
-|fase 1, exceto comércio atacadista de | |
-
-|recicláveis | |
-
-|Cabeleireiros, manicures e pedicures |Terça a sexta-feira, entre 11h e 20h |
-
-| |Sábado, entre 9h e 17h |
-
-|Atividades autorizadas na fase 1 em |Segunda a sexta-feira, entre 11h e 19h |
-
-|funcionamento no interior de galerias de lojas| |
-
-|e centros de comércio | |
-
-|Atividades autorizadas na fase 1 em |Segunda a sexta-feira, entre 12h e 20h |
-
-|funcionamento no interior de shopping centers | |
-
-|Atividades no formato drive-in |Diariamente, entre 14h e 23h59min |
-
-|Serviços de alimentação, para consumo no |Segunda a sexta-feira, entre 11h e 15h |
-
-|local, exceto de bebidas alcoólicas: | |
-
-|restaurantes, lanchonetes, cantinas, | |
-
-|sorveterias, bares e similares, inclusive no | |
-
-|interior de galerias de lojas e centros de | |
-
-|comércio | |
-
-|Serviços de alimentação, para consumo no |Segunda a sexta-feira, entre 12h e 15h |
-
-|local, exceto de bebidas alcoólicas: | |
-
-|restaurantes, lanchonetes, cantinas, | |
-
-|sorveterias, bares e similares no interior | |
-
-|de shopping centers | |
+| Atividades e horários |  |
+| --- | --- |
+| (A partir de 24 de agosto de 2020) |  |
+| Informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH |  |
+| Atividade | Faixa de horário de funcionamento |
+| Comércio varejista não contemplado na fase de | Segunda a sexta-feira, entre 11h e 19h |
+| controle |  |
+| Comércio atacadista da cadeia de atividades do | Segunda a sexta-feira, entre 11h e 19h |
+| comércio varejista autorizada a funcionar na |  |
+| fase 1, exceto comércio atacadista de |  |
+| recicláveis |  |
+| Cabeleireiros, manicures e pedicures | Terça a sexta-feira, entre 11h e 20h |
+|  | Sábado, entre 9h e 17h |
+| Atividades autorizadas na fase 1 em | Segunda a sexta-feira, entre 11h e 19h |
+| funcionamento no interior de galerias de lojas |  |
+| e centros de comércio |  |
+| Atividades autorizadas na fase 1 em | Segunda a sexta-feira, entre 12h e 20h |
+| funcionamento no interior de shopping centers |  |
+| Atividades no formato drive-in | Diariamente, entre 14h e 23h59min |
+| Serviços de alimentação, para consumo no | Segunda a sexta-feira, entre 11h e 15h |
+| local, exceto de bebidas alcoólicas: |  |
+| restaurantes, lanchonetes, cantinas, |  |
+| sorveterias, bares e similares, inclusive no |  |
+| interior de galerias de lojas e centros de |  |
+| comércio |  |
+| Serviços de alimentação, para consumo no | Segunda a sexta-feira, entre 12h e 15h |
+| local, exceto de bebidas alcoólicas: |  |
+| restaurantes, lanchonetes, cantinas, |  |
+| sorveterias, bares e similares no interior |  |
+| de shopping centers |  |

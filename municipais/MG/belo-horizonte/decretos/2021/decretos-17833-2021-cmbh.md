@@ -54,28 +54,20 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Educação – SMED –, |
-
-|conforme autorização contida no caput do art. 4º da Lei nº |
-
-|11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|2200.12.361.168.2.080.3190.0000 |177.100,00 |
-
-|2200.12.361.168.2.080.3190.0000 |114.900,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |292.000,00 |
+| I.1 – A favor da Secretaria Municipal de Educação – SMED –, |  |
+| --- | --- |
+| conforme autorização contida no caput do art. 4º da Lei nº |  |
+| 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 2200.12.361.168.2.080.3190.0000 | 177.100,00 |
+| 2200.12.361.168.2.080.3190.0000 | 114.900,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 292.000,00 |
 
 II – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no |
-
-|item I.1 da tabela anterior: |
-
-|R$ |
-
-|0613.09.272.026.3.004.3190.0000 |292.000,00 |
-
-|TOTAL DA ANULAÇÃO |292.000,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no |  |
+| --- | --- |
+| item I.1 da tabela anterior: |  |
+| R$ |  |
+| 0613.09.272.026.3.004.3190.0000 | 292.000,00 |
+| TOTAL DA ANULAÇÃO | 292.000,00 |

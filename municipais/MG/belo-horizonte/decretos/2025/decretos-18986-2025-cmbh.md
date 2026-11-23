@@ -48,49 +48,29 @@ ANEXO
 
 (a que se refere o inciso I do art. 3º do Decreto nº 16.676, de 31 de agosto de 2017.)
 
-|CARGOS DO GRUPO DE DIREÇÃO SUPERIOR MUNICIPAL – ADMINISTRAÇÃO DIRETA |
-
-|CARGOS |QTDE. DE CARGOS |CODIFICAÇÃO |
-
-| |CRIADOS | |
-
-|Chefe de Gabinete do Prefeito |1 |CGP.0001 |
-
-|Administrador Regional/ Coordenador Especial |12 |ADR.0001 a ADR.0010 |
-
-| | |COE.0001 a COE.0002 |
-
-|Administrador Regional Adjunto/ Coordenador Especial |12 |ARA.0001 a ARA.0010 |
-
-|Adjunto | |CEA.0001 a CEA.0002 |
-
-|Secretário/Procurador-Geral/Controlador-Geral/ |20 |SEC.0001 a SEC.0017; |
-
-|Secretário-Geral | |PRO.0001; |
-
-| | |CTR.0001 |
-
-| | |SEG.001 |
-
-|Secretário Municipal Adjunto/Procurador-Geral |20 |SMA.0001 a SMA.0017; |
-
-|Adjunto/Controlador-Geral Adjunto/ Secretário-Geral Adjunto| |PGA.0001; CGA.0001; |
-
-| | |SGA.0001 |
-
-|Subsecretário/Subprocurador/Subcontrolador |32 |SUB.0001 a SUB.0032 |
-
-|Comandante da Guarda Civil Municipal | | |
-
-|Consultor Técnico Especializado |20 |CTE.0001 a CTE.0020 |
-
-|Assessor-Chefe |3 |ASC.0001 a ASC.0003 |
-
-|Assessor Especial |20 |ASS.0001 a ASS.0020 |
-
-|Chefe de Gabinete do Vice-Prefeito |1 |CGV.0001 |
-
-|TOTAL GERAL |141 | |
+| CARGOS DO GRUPO DE DIREÇÃO SUPERIOR MUNICIPAL – ADMINISTRAÇÃO DIRETA |  |  |
+| --- | --- | --- |
+| CARGOS | QTDE. DE CARGOS | CODIFICAÇÃO |
+|  | CRIADOS |  |
+| Chefe de Gabinete do Prefeito | 1 | CGP.0001 |
+| Administrador Regional/ Coordenador Especial | 12 | ADR.0001 a ADR.0010 |
+|  |  | COE.0001 a COE.0002 |
+| Administrador Regional Adjunto/ Coordenador Especial | 12 | ARA.0001 a ARA.0010 |
+| Adjunto |  | CEA.0001 a CEA.0002 |
+| Secretário/Procurador-Geral/Controlador-Geral/ | 20 | SEC.0001 a SEC.0017; |
+| Secretário-Geral |  | PRO.0001; |
+|  |  | CTR.0001 |
+|  |  | SEG.001 |
+| Secretário Municipal Adjunto/Procurador-Geral | 20 | SMA.0001 a SMA.0017; |
+| Adjunto/Controlador-Geral Adjunto/ Secretário-Geral Adjunto |  | PGA.0001; CGA.0001; |
+|  |  | SGA.0001 |
+| Subsecretário/Subprocurador/Subcontrolador | 32 | SUB.0001 a SUB.0032 |
+| Comandante da Guarda Civil Municipal |  |  |
+| Consultor Técnico Especializado | 20 | CTE.0001 a CTE.0020 |
+| Assessor-Chefe | 3 | ASC.0001 a ASC.0003 |
+| Assessor Especial | 20 | ASS.0001 a ASS.0020 |
+| Chefe de Gabinete do Vice-Prefeito | 1 | CGV.0001 |
+| TOTAL GERAL | 141 |  |
 
 ”
 
@@ -98,13 +78,11 @@ ANEXO
 
 (a que se refere o inciso II do art. 3º do Decreto nº 16.676, de 31 de agosto de 2017)
 
-|CARGOS DO GRUPO DE DIREÇÃO SUPERIOR MUNICIPAL – FUNDAÇÕES |
-
-|CARGOS |QTDE. DE CARGOS CRIADOS |CODIFICAÇÃO |
-
-|Presidente |2 |PFZ.0001 E PFC.0001 |
-
-|Vice-Presidente |2 |VPZ.0001 E VPC.0001 |
+| CARGOS DO GRUPO DE DIREÇÃO SUPERIOR MUNICIPAL – FUNDAÇÕES |  |  |
+| --- | --- | --- |
+| CARGOS | QTDE. DE CARGOS CRIADOS | CODIFICAÇÃO |
+| Presidente | 2 | PFZ.0001 E PFC.0001 |
+| Vice-Presidente | 2 | VPZ.0001 E VPC.0001 |
 
 ”
 
@@ -112,12 +90,9 @@ ANEXO
 
 (a que se refere o inciso III do art. 3º do Decreto nº 16.676, de 31 de agosto de 2017)
 
-|CARGOS DO GRUPO DE DIREÇÃO SUPERIOR MUNICIPAL – AUTARQUIAS |
-
-|CARGOS |QTDE. DE CARGOS CRIADOS |CODIFICAÇÃO |
-
-|SUPERINTENDENTE |4 |SUP.0001 a SUP.0004 |
-
-|SUPERINTENDENTE ADJUNTO |4 |SUA.0001 a SUA.0004 |
-
-|DIRETOR |19 |DIR.0001 a DIR.0019 |
+| CARGOS DO GRUPO DE DIREÇÃO SUPERIOR MUNICIPAL – AUTARQUIAS |  |  |
+| --- | --- | --- |
+| CARGOS | QTDE. DE CARGOS CRIADOS | CODIFICAÇÃO |
+| SUPERINTENDENTE | 4 | SUP.0001 a SUP.0004 |
+| SUPERINTENDENTE ADJUNTO | 4 | SUA.0001 a SUA.0004 |
+| DIRETOR | 19 | DIR.0001 a DIR.0019 |

@@ -68,79 +68,44 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei | |
-
-|nº 11.442, de 29 de dezembro de 2022: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.2900.06.181.109.2.803.339039.702 |1.313.335,28 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.1100.15.451.233.1.396.449051.759 |1.200.000,00 |
-
-|2700.1100.17.512.066.1.203.449051.759 |483.776,45 |
-
-|2700.1100.17.512.066.1.400.449051.759 |483.780,00 |
-
-|2700.1100.17.512.066.1.400.449051.701 |19.782.054,43 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.0200.16.482.225.1.231.449039.759 |11.000,00 |
-
-|2704.0200.16.482.225.1.231.449051.759 |70.000,00 |
-
-|2704.0200.16.482.225.1.231.449051.755 |755.430,00 |
-
-|2704.0300.16.482.225.1.231.449051.759 |90.000,00 |
-
-|2704.0400.16.482.225.1.231.449051.759 |23.000,00 |
-
-|2704.0500.16.482.225.1.231.449051.759 |235.500,00 |
-
-|2704.0600.16.482.225.1.231.449051.759 |318.000,00 |
-
-|2704.0700.16.482.225.1.231.449051.759 |80.000,00 |
-
-|2704.0800.16.482.225.1.231.449051.759 |115.000,00 |
-
-|2704.0900.16.482.225.1.231.449039.759 |5.000,00 |
-
-|2704.0900.16.482.225.1.231.449051.759 |100.000,00 |
-
-|2704.1100.16.482.062.1.330.449051.755 |64.250,00 |
-
-|2704.1100.16.482.066.1.400.449051.759 |306.000,00 |
-
-|2704.1100.16.482.225.1.231.449051.755 |19.411.870,00 |
-
-|2704.1100.16.482.225.1.231.449051.759 |1.405.500,00 |
-
-|2704.1100.16.482.226.1.207.449039.755 |40.000,00 |
-
-|2704.1100.16.482.226.1.207.449051.755 |105.450,00 |
-
-|2704.1100.16.482.226.1.207.449061.755 |2.000.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.301.157.2.690.339034.621 |2.100.000,00 |
-
-|2302.3401.10.301.157.2.690.339039.621 |510.000,00 |
-
-|2302.3401.10.302.114.2.891.339034.621 |2.000.000,00 |
-
-|2302.3401.10.302.114.2.894.339092.621 |480.613,10 |
-
-|2302.3401.10.305.028.2.829.339030.621 |15.450,00 |
-
-|2302.3401.10.305.028.2.829.339039.621 |1.200.692,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |54.705.701,26 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei |  |
+| nº 11.442, de 29 de dezembro de 2022: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.2900.06.181.109.2.803.339039.702 | 1.313.335,28 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.1100.15.451.233.1.396.449051.759 | 1.200.000,00 |
+| 2700.1100.17.512.066.1.203.449051.759 | 483.776,45 |
+| 2700.1100.17.512.066.1.400.449051.759 | 483.780,00 |
+| 2700.1100.17.512.066.1.400.449051.701 | 19.782.054,43 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.0200.16.482.225.1.231.449039.759 | 11.000,00 |
+| 2704.0200.16.482.225.1.231.449051.759 | 70.000,00 |
+| 2704.0200.16.482.225.1.231.449051.755 | 755.430,00 |
+| 2704.0300.16.482.225.1.231.449051.759 | 90.000,00 |
+| 2704.0400.16.482.225.1.231.449051.759 | 23.000,00 |
+| 2704.0500.16.482.225.1.231.449051.759 | 235.500,00 |
+| 2704.0600.16.482.225.1.231.449051.759 | 318.000,00 |
+| 2704.0700.16.482.225.1.231.449051.759 | 80.000,00 |
+| 2704.0800.16.482.225.1.231.449051.759 | 115.000,00 |
+| 2704.0900.16.482.225.1.231.449039.759 | 5.000,00 |
+| 2704.0900.16.482.225.1.231.449051.759 | 100.000,00 |
+| 2704.1100.16.482.062.1.330.449051.755 | 64.250,00 |
+| 2704.1100.16.482.066.1.400.449051.759 | 306.000,00 |
+| 2704.1100.16.482.225.1.231.449051.755 | 19.411.870,00 |
+| 2704.1100.16.482.225.1.231.449051.759 | 1.405.500,00 |
+| 2704.1100.16.482.226.1.207.449039.755 | 40.000,00 |
+| 2704.1100.16.482.226.1.207.449051.755 | 105.450,00 |
+| 2704.1100.16.482.226.1.207.449061.755 | 2.000.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.301.157.2.690.339034.621 | 2.100.000,00 |
+| 2302.3401.10.301.157.2.690.339039.621 | 510.000,00 |
+| 2302.3401.10.302.114.2.891.339034.621 | 2.000.000,00 |
+| 2302.3401.10.302.114.2.894.339092.621 | 480.613,10 |
+| 2302.3401.10.305.028.2.829.339030.621 | 15.450,00 |
+| 2302.3401.10.305.028.2.829.339039.621 | 1.200.692,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 54.705.701,26 |
 
 ANEXO II
 
@@ -190,24 +155,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 67.480.043,26 |
-
-|Valor do Decreto publicado nesta data |54.705.701,26 |
-
-|Saldo atual de créditos suplementares |R$ 1.591.981.443,68 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 122.185.744,52 |
-
-|Percentual utilizado |7,13% |
-
-|Atualizado em 09/02/2023 às 08:58:56 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 67.480.043,26 |
+| Valor do Decreto publicado nesta data | 54.705.701,26 |
+| Saldo atual de créditos suplementares | R$ 1.591.981.443,68 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 122.185.744,52 |
+| Percentual utilizado | 7,13% |
+| Atualizado em 09/02/2023 às 08:58:56 |  |

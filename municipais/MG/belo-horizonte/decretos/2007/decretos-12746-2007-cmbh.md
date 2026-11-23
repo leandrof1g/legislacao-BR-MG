@@ -94,9 +94,7 @@ III - definir o nome do portador do CBC e sua validade.
 
 **Art. 14** - O Decreto nº 10.710/01 passa a vigorar acrescido do seguinte Anexo Único:
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 15** - Este Decreto entra em vigor na data de sua publicação.
 

@@ -170,19 +170,15 @@ b) O parcelamento poderá ser efetuado de duas até a quantidade máxima de parc
 
 c) O valor mínimo de cada parcela de honorário não poderá ser inferior a R$20,00 (vinte reais).
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Tabela I com redação dada pelo Decreto nº 12.946, de 19/11/2007 (Art. 2º)
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Tabela II com redação dada pelo Decreto nº 12.946, de 19/11/2007 (Art. 2º)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

@@ -240,142 +240,74 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|ITEM |INDICAÇÃO DAS DEPENDÊNCIAS, DOS EQUIPAMENTOS, DOS SERVIÇOS E |PREÇO |
-
-| |REFERÊNCIA AO ACESSO E VISITA | |
-
-|Grupo I – Visita |
-
-|1 – Jardins Zoológico e Botânico: |
-
-|1.1 –Visitante – ingresso por pessoa |
-
-|1.1.1 |de terça-feira a sexta-feira |R$ 4,00 |
-
-|1.1.2 |Sábado |R$ 5,00 |
-
-|1.1.3 |domingo e feriado |R$ 8,00 |
-
-|2 - Aquário do Rio São Francisco |
-
-|2.1 – Visitante – ingresso por pessoa |
-
-|2.1.1 |de terça-feira a domingo e feriado |R$ 6,00 |
-
-|3 – Passeio Motorizado |
-
-|3.1 - Automóvel (capacidade máxima de 7 passageiros): |
-
-|3.1.1 |de terça-feira a sábado |R$ 10,00 |
-
-|3.1.2 |domingo e feriado |R$ 20,00 |
-
-|3.2 – Motocicleta |
-
-|3.2.1 |de terça-feira a sábado |R$ 5,00 |
-
-|3.2.2 |domingo e feriado |R$ 10,00 |
-
-|Grupo II – Acesso |
-
-|1 – Jardins Zoológico e Botânico: |
-
-|1.1 – Veículo médio (capacidade acima de 7 passageiros, van, kombi e micro-ônibus): |
-
-|1.1. 1 |de terça-feira a sábado |R$ 30,00 |
-
-|1.1..2 |domingo e feriado |R$ 40,00 |
-
-|1.2 – Ônibus de Escola Particular e de Turismo |
-
-|1.2.1 |de terça-feira a sábado |R$ 50,00 |
-
-|1.2.2 |domingo e feriado |R$ 70,00 |
-
-|Grupo III – Uso e Ocupação |
-
-|1 – Uso de Espaço |Dia |Meio Período |Hora |
-
-|1.1 |Jardins Zoológico e Botânico |R$5.250,00 |R$2.650,00 |R$670,00 |
-
-|1.2 |Borboletário |R$3.150,00 |R$1.580,00 |R$400,00 |
-
-|1.3 |Jardim Japonês |R$3.150,00 |R$1.580,00 |R$400,00 |
-
-|1.4 |Estufa da Mata Atlântica |R$3.150,00 |R$1.580,00 |R$400,00 |
-
-|1.5 |Parque Ecológico Francisco Lins do Rego |R$4.900,00 |R$2.450,00 |R$620,00 |
-
-| |(áreas de visitação: Esplanada, Bosque, | | | |
-
-| |Centro de Apoio e Área Silvestre) | | | |
-
-|1.6 |Salão Vermelho Memorial Minas-Japão |R$6.000,00 |R$3.100,00 |R$880,00 |
-
-|2 – Ação Promocional |Dia |Meio Período |Hora |
-
-|2.1 |Jardins Zoológico e Botânico |R$5.000,00 |R$2.550,00 |R$700,00 |
-
-|2.2 |Jardim Japonês |R$5.000,00 |R$2.550,00 |R$700,00 |
-
-|2.3 |Estufa da Mata Atlântica |R$5.000,00 |R$2.550,00 |R$700,00 |
-
-|2.4 |Parque Ecológico Francisco Lins do Rego |R$3.500,00 |R$1.800,00 |R$450,00 |
-
-| |(áreas de visitação: Esplanada, Bosque, | | | |
-
-| |Centro de Apoio e Área Silvestre) | | | |
-
-|2.5 |Salão Vermelho Memorial Minas-Japão |R$6.000,00 |R$3.100,00 |R$800,00 |
-
-|3 – Fotografia, Filmagem e Gravação |Dia |Meio Período |Hora |
-
-|3.1 |Jardins Zoológico e Botânico |R$1.750,00 |R$880,00 |R$230,00 |
-
-|3.2 |Borboletário |R$1.750,00 |R$880,00 |R$230,00 |
-
-|2.3 |Jardim Japonês |R$2.450,00 |R$1.230,00 |R$310,00 |
-
-|3.4 |Estufa da Mata Atlântica |R$1.750,00 |R$880,00 |R$230,00 |
-
-|3.5 |Parque Ecológico Francisco Lins do Rego |R$1.250,00 |R$730,00 |R$170,00 |
-
-| |(áreas de visitação: Esplanada, Bosque, | | | |
-
-| |Centro de Apoio e Área Silvestre) | | | |
-
-|3.6 |Salão Vermelho Memorial Minas-Japão |R$3.000,00 |R$1.500,00 |R$420,00 |
-
-|Grupo IV: Fornecimento de Mudas de Plantas |
-
-|1 |Mudas Árvores, classe tradicional, altura H1 (até 100cm) |R$10,00 p/unidade |
-
-|2 |Mudas Árvores, classe tradicional, altura H2 (de 101 a 200m) |R$20,00 p/unidade |
-
-|3 |Mudas Árvores, classe tradicional, altura H3 (acima de 200cm) |R$170,00 p/unidade |
-
-|4 |Mudas Árvores, classe especial, altura H1 (até 100cm) |R$28,00 p/unidade |
-
-|5 |Mudas Árvores, classe especial, altura H2 (de 101 a 200cm) |R$40,00 p/unidade |
-
-|6 |Mudas Árvores, classe especial, altura H3 (acima de 200cm) |R$500,00 p/unidade |
-
-|7 |Mudas de palmeiras, classe tronco simples, altura H1 (até 100cm) |R$50,00 p/unidade |
-
-|8 |Mudas de palmeiras, classe tronco simples, altura H2 (de 101 a 200cm) |R$90,00 p/unidade |
-
-|9 |Mudas de palmeiras, classe tronco simples, altura H3 (acima de 200cm) |R$250,00 p/unidade |
-
-|10 |Mudas de palmeiras, classe perfilhada, altura H1(até 100cm) |R$20,00 p/unidade |
-
-|11 |Mudas de palmeiras, classe perfilhada, altura H2 (de 101 a 200cm) |R$40,00 p/unidade |
-
-|12 |Mudas de palmeiras, classe perfilhada, altura H (acima de 200cm) |R$70,00 p/unidade |
-
-|13 |Mudas palmeiras, classe especial, altura H1 (até 100cm) |R$250,00 p/unidade |
-
-|14 |Mudas palmeiras, classe especial, altura H2 (de 101 a 200cm) |R$500,00 p/unidade |
-
-|15 |Mudas palmeiras, classe especial, altura H3 (acima de 200cm) |R$1.900,00 p/unidade |
-
-|16 |Mudas palmeiras, raphis excelsa, altura H1 (até 100cm) |R$15,00 p/unidade |
+| ITEM | INDICAÇÃO DAS DEPENDÊNCIAS, DOS EQUIPAMENTOS, DOS SERVIÇOS E | PREÇO |  |  |
+| --- | --- | --- | --- | --- |
+|  | REFERÊNCIA AO ACESSO E VISITA |  |  |  |
+| Grupo I – Visita |  |  |  |  |
+| 1 – Jardins Zoológico e Botânico: |  |  |  |  |
+| 1.1 –Visitante – ingresso por pessoa |  |  |  |  |
+| 1.1.1 | de terça-feira a sexta-feira | R$ 4,00 |  |  |
+| 1.1.2 | Sábado | R$ 5,00 |  |  |
+| 1.1.3 | domingo e feriado | R$ 8,00 |  |  |
+| 2 - Aquário do Rio São Francisco |  |  |  |  |
+| 2.1 – Visitante – ingresso por pessoa |  |  |  |  |
+| 2.1.1 | de terça-feira a domingo e feriado | R$ 6,00 |  |  |
+| 3 – Passeio Motorizado |  |  |  |  |
+| 3.1 - Automóvel (capacidade máxima de 7 passageiros): |  |  |  |  |
+| 3.1.1 | de terça-feira a sábado | R$ 10,00 |  |  |
+| 3.1.2 | domingo e feriado | R$ 20,00 |  |  |
+| 3.2 – Motocicleta |  |  |  |  |
+| 3.2.1 | de terça-feira a sábado | R$ 5,00 |  |  |
+| 3.2.2 | domingo e feriado | R$ 10,00 |  |  |
+| Grupo II – Acesso |  |  |  |  |
+| 1 – Jardins Zoológico e Botânico: |  |  |  |  |
+| 1.1 – Veículo médio (capacidade acima de 7 passageiros, van, kombi e micro-ônibus): |  |  |  |  |
+| 1.1. 1 | de terça-feira a sábado | R$ 30,00 |  |  |
+| 1.1..2 | domingo e feriado | R$ 40,00 |  |  |
+| 1.2 – Ônibus de Escola Particular e de Turismo |  |  |  |  |
+| 1.2.1 | de terça-feira a sábado | R$ 50,00 |  |  |
+| 1.2.2 | domingo e feriado | R$ 70,00 |  |  |
+| Grupo III – Uso e Ocupação |  |  |  |  |
+| 1 – Uso de Espaço | Dia | Meio Período | Hora |  |
+| 1.1 | Jardins Zoológico e Botânico | R$5.250,00 | R$2.650,00 | R$670,00 |
+| 1.2 | Borboletário | R$3.150,00 | R$1.580,00 | R$400,00 |
+| 1.3 | Jardim Japonês | R$3.150,00 | R$1.580,00 | R$400,00 |
+| 1.4 | Estufa da Mata Atlântica | R$3.150,00 | R$1.580,00 | R$400,00 |
+| 1.5 | Parque Ecológico Francisco Lins do Rego | R$4.900,00 | R$2.450,00 | R$620,00 |
+|  | (áreas de visitação: Esplanada, Bosque, |  |  |  |
+|  | Centro de Apoio e Área Silvestre) |  |  |  |
+| 1.6 | Salão Vermelho Memorial Minas-Japão | R$6.000,00 | R$3.100,00 | R$880,00 |
+| 2 – Ação Promocional | Dia | Meio Período | Hora |  |
+| 2.1 | Jardins Zoológico e Botânico | R$5.000,00 | R$2.550,00 | R$700,00 |
+| 2.2 | Jardim Japonês | R$5.000,00 | R$2.550,00 | R$700,00 |
+| 2.3 | Estufa da Mata Atlântica | R$5.000,00 | R$2.550,00 | R$700,00 |
+| 2.4 | Parque Ecológico Francisco Lins do Rego | R$3.500,00 | R$1.800,00 | R$450,00 |
+|  | (áreas de visitação: Esplanada, Bosque, |  |  |  |
+|  | Centro de Apoio e Área Silvestre) |  |  |  |
+| 2.5 | Salão Vermelho Memorial Minas-Japão | R$6.000,00 | R$3.100,00 | R$800,00 |
+| 3 – Fotografia, Filmagem e Gravação | Dia | Meio Período | Hora |  |
+| 3.1 | Jardins Zoológico e Botânico | R$1.750,00 | R$880,00 | R$230,00 |
+| 3.2 | Borboletário | R$1.750,00 | R$880,00 | R$230,00 |
+| 2.3 | Jardim Japonês | R$2.450,00 | R$1.230,00 | R$310,00 |
+| 3.4 | Estufa da Mata Atlântica | R$1.750,00 | R$880,00 | R$230,00 |
+| 3.5 | Parque Ecológico Francisco Lins do Rego | R$1.250,00 | R$730,00 | R$170,00 |
+|  | (áreas de visitação: Esplanada, Bosque, |  |  |  |
+|  | Centro de Apoio e Área Silvestre) |  |  |  |
+| 3.6 | Salão Vermelho Memorial Minas-Japão | R$3.000,00 | R$1.500,00 | R$420,00 |
+| Grupo IV: Fornecimento de Mudas de Plantas |  |  |  |  |
+| 1 | Mudas Árvores, classe tradicional, altura H1 (até 100cm) | R$10,00 p/unidade |  |  |
+| 2 | Mudas Árvores, classe tradicional, altura H2 (de 101 a 200m) | R$20,00 p/unidade |  |  |
+| 3 | Mudas Árvores, classe tradicional, altura H3 (acima de 200cm) | R$170,00 p/unidade |  |  |
+| 4 | Mudas Árvores, classe especial, altura H1 (até 100cm) | R$28,00 p/unidade |  |  |
+| 5 | Mudas Árvores, classe especial, altura H2 (de 101 a 200cm) | R$40,00 p/unidade |  |  |
+| 6 | Mudas Árvores, classe especial, altura H3 (acima de 200cm) | R$500,00 p/unidade |  |  |
+| 7 | Mudas de palmeiras, classe tronco simples, altura H1 (até 100cm) | R$50,00 p/unidade |  |  |
+| 8 | Mudas de palmeiras, classe tronco simples, altura H2 (de 101 a 200cm) | R$90,00 p/unidade |  |  |
+| 9 | Mudas de palmeiras, classe tronco simples, altura H3 (acima de 200cm) | R$250,00 p/unidade |  |  |
+| 10 | Mudas de palmeiras, classe perfilhada, altura H1(até 100cm) | R$20,00 p/unidade |  |  |
+| 11 | Mudas de palmeiras, classe perfilhada, altura H2 (de 101 a 200cm) | R$40,00 p/unidade |  |  |
+| 12 | Mudas de palmeiras, classe perfilhada, altura H (acima de 200cm) | R$70,00 p/unidade |  |  |
+| 13 | Mudas palmeiras, classe especial, altura H1 (até 100cm) | R$250,00 p/unidade |  |  |
+| 14 | Mudas palmeiras, classe especial, altura H2 (de 101 a 200cm) | R$500,00 p/unidade |  |  |
+| 15 | Mudas palmeiras, classe especial, altura H3 (acima de 200cm) | R$1.900,00 p/unidade |  |  |
+| 16 | Mudas palmeiras, raphis excelsa, altura H1 (até 100cm) | R$15,00 p/unidade |  |  |

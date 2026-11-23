@@ -40,9 +40,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 C - Dias comemorativos de março:
 
-|DATA |COMEMORAÇÃO |
-
-|30/3 |Dia Municipal da Conscientização sobre a Doação de Órgãos, Tecidos e Sangue |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 30/3 | Dia Municipal da Conscientização sobre a Doação de Órgãos, Tecidos e Sangue |
 
 ”.
 

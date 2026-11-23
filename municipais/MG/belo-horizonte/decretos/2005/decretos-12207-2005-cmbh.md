@@ -718,21 +718,15 @@ ANEXO I
 
 Anexo I acrescentado pelo Decreto nº 14.833, de 9/2/2012 (Art. 2º)
 
-|ÁREA |HABILITAÇÃO PROFISSIONAL |
-
-|ADMINISTRAÇÃO |Curso superior completo de Administração, em nível de bacharelado. |
-
-|BIBLIOTECONOMIA |Curso superior completo de Biblioteconomia, em nível de bacharelado. |
-
-|CIÊNCIAS CONTÁBEIS |Curso superior completo de Ciências Contábeis, em nível de bacharelado. |
-
-|CIÊNCIAS ECONÔMICAS |Curso superior completo de Ciências Econômicas, em nível de bacharelado.|
-
-|GEOGRAFIA |Curso superior completo de Geografia, em nível de bacharelado. |
-
-|PSICOLOGIA |Curso superior completo de Psicologia, em nível de bacharelado. |
-
-|SERVIÇO SOCIAL |Curso superior completo de Serviço Social, em nível de bacharelado. |
+| ÁREA | HABILITAÇÃO PROFISSIONAL |
+| --- | --- |
+| ADMINISTRAÇÃO | Curso superior completo de Administração, em nível de bacharelado. |
+| BIBLIOTECONOMIA | Curso superior completo de Biblioteconomia, em nível de bacharelado. |
+| CIÊNCIAS CONTÁBEIS | Curso superior completo de Ciências Contábeis, em nível de bacharelado. |
+| CIÊNCIAS ECONÔMICAS | Curso superior completo de Ciências Econômicas, em nível de bacharelado. |
+| GEOGRAFIA | Curso superior completo de Geografia, em nível de bacharelado. |
+| PSICOLOGIA | Curso superior completo de Psicologia, em nível de bacharelado. |
+| SERVIÇO SOCIAL | Curso superior completo de Serviço Social, em nível de bacharelado. |
 
 ANEXO II
 
@@ -740,25 +734,17 @@ DISTRIBUIÇÃO DE CARGOS POR ÁREA DE HABILITAÇÃO PROFISSIONAL DO CARGO EFETIV
 
 Anexo II acrescentado pelo Decreto nº 14.833, de 9/2/2012 (Art. 2º)
 
-|ÁREA |Nº DE CARGOS |
-
-|ADMINISTRAÇÃO |66 |
-
-|BIBLIOTECONOMIA |66 |
-
-|CIÊNCIAS CONTÁBEIS |26 |
-
-|CIÊNCIAS ECONÔMICAS |14 |
-
-|GEOGRAFIA |11 |
-
-|PSICOLOGIA |341 |
-
-|SERVIÇO SOCIAL |414 |
-
-|OUTRAS ÁREAS |140 |
-
-|TOTAL |1.078 |
+| ÁREA | Nº DE CARGOS |
+| --- | --- |
+| ADMINISTRAÇÃO | 66 |
+| BIBLIOTECONOMIA | 66 |
+| CIÊNCIAS CONTÁBEIS | 26 |
+| CIÊNCIAS ECONÔMICAS | 14 |
+| GEOGRAFIA | 11 |
+| PSICOLOGIA | 341 |
+| SERVIÇO SOCIAL | 414 |
+| OUTRAS ÁREAS | 140 |
+| TOTAL | 1.078 |
 
 ANEXO I
 
@@ -766,27 +752,18 @@ ANEXO I
 
 Anexo I acrescentado pelo Decreto nº 14.841, de 16/2/2012 (Art. 2º)
 
-|ÁREA |HABILITAÇÃO PROFISSIONAL |
-
-|ADMINISTRAÇÃO |Curso superior completo de Administração, em nível de bacharelado. |
-
-|BIBLIOTECONOMIA |Curso superior completo de Biblioteconomia, em nível de bacharelado. |
-
-|CIÊNCIAS ATUARIAIS |Curso superior completo em Ciências Atuariais, em nível de bacharelado. |
-
-| |Área acrescentada pelo Decreto nº 15.809, de 16/12/2014 (Art. 2º) |
-
-|CIÊNCIAS CONTÁBEIS |Curso superior completo de Ciências Contábeis, em nível de bacharelado. |
-
-|CIÊNCIAS ECONÔMICAS |Curso superior completo de Ciências Econômicas, em nível de bacharelado. |
-
-|EDUCAÇÃO FÍSICA |Curso superior completo de Educação Física, em nível de bacharelado. |
-
-|GEOGRAFIA |Curso superior completo de Geografia, em nível de bacharelado. |
-
-|PSICOLOGIA |Curso superior completo de Psicologia, em nível de bacharelado. |
-
-|SERVIÇO SOCIAL |Curso superior completo de Serviço Social, em nível de bacharelado. |
+| ÁREA | HABILITAÇÃO PROFISSIONAL |
+| --- | --- |
+| ADMINISTRAÇÃO | Curso superior completo de Administração, em nível de bacharelado. |
+| BIBLIOTECONOMIA | Curso superior completo de Biblioteconomia, em nível de bacharelado. |
+| CIÊNCIAS ATUARIAIS | Curso superior completo em Ciências Atuariais, em nível de bacharelado. |
+|  | Área acrescentada pelo Decreto nº 15.809, de 16/12/2014 (Art. 2º) |
+| CIÊNCIAS CONTÁBEIS | Curso superior completo de Ciências Contábeis, em nível de bacharelado. |
+| CIÊNCIAS ECONÔMICAS | Curso superior completo de Ciências Econômicas, em nível de bacharelado. |
+| EDUCAÇÃO FÍSICA | Curso superior completo de Educação Física, em nível de bacharelado. |
+| GEOGRAFIA | Curso superior completo de Geografia, em nível de bacharelado. |
+| PSICOLOGIA | Curso superior completo de Psicologia, em nível de bacharelado. |
+| SERVIÇO SOCIAL | Curso superior completo de Serviço Social, em nível de bacharelado. |
 
 ANEXO II
 
@@ -794,27 +771,18 @@ DISTRIBUIÇÃO DE CARGOS POR ÁREA DE HABILITAÇÃO PROFISSIONAL DO CARGO EFETIV
 
 Anexo II acrescentado pelo Decreto nº 14.841, de 16/2/2012 (Art. 2º)
 
-|ÁREA |Nº DE CARGOS |
-
-|ADMINISTRAÇÃO |53 |
-
-|BIBLIOTECONOMIA |66 |
-
-|CIÊNCIAS CONTÁBEIS |24 |
-
-|CIÊNCIAS ECONÔMICAS |12 |
-
-|EDUCAÇÃO FÍSICA |52 |
-
-|GEOGRAFIA |11 |
-
-|PSICOLOGIA |339 |
-
-|SERVIÇO SOCIAL |414 |
-
-|OUTRAS ÁREAS |107 |
-
-|TOTAL |1.078 |
+| ÁREA | Nº DE CARGOS |
+| --- | --- |
+| ADMINISTRAÇÃO | 53 |
+| BIBLIOTECONOMIA | 66 |
+| CIÊNCIAS CONTÁBEIS | 24 |
+| CIÊNCIAS ECONÔMICAS | 12 |
+| EDUCAÇÃO FÍSICA | 52 |
+| GEOGRAFIA | 11 |
+| PSICOLOGIA | 339 |
+| SERVIÇO SOCIAL | 414 |
+| OUTRAS ÁREAS | 107 |
+| TOTAL | 1.078 |
 
 ANEXO II
 
@@ -822,52 +790,33 @@ DISTRIBUIÇÃO DE CARGOS POR ÁREA DE HABILITAÇÃO PROFISSIONAL DO CARGO EFETIV
 
 Anexo II com redação dada pelo Decreto nº 15.809, de 16/12/2014 (Art. 3º)
 
-|ÁREA |Nº DE CARGOS |
-
-|ADMINISTRAÇÃO |63 |
-
-|BIBLIOTECONOMIA |80 |
-
-|CIÊNCIAS ATUARIAIS |01 |
-
-|CIÊNCIAS CONTÁBEIS |24 |
-
-|CIÊNCIAS ECONÔMICAS |14 |
-
-|EDUCAÇÃO FÍSICA |52 |
-
-|GEOGRAFIA |12 |
-
-|PSICOLOGIA |333 |
-
-|SERVIÇO SOCIAL |416 |
-
-|OUTRAS ÁREAS |97 |
-
-|TOTAL |1092 |
+| ÁREA | Nº DE CARGOS |
+| --- | --- |
+| ADMINISTRAÇÃO | 63 |
+| BIBLIOTECONOMIA | 80 |
+| CIÊNCIAS ATUARIAIS | 01 |
+| CIÊNCIAS CONTÁBEIS | 24 |
+| CIÊNCIAS ECONÔMICAS | 14 |
+| EDUCAÇÃO FÍSICA | 52 |
+| GEOGRAFIA | 12 |
+| PSICOLOGIA | 333 |
+| SERVIÇO SOCIAL | 416 |
+| OUTRAS ÁREAS | 97 |
+| TOTAL | 1092 |
 
 ANEXO II DISTRIBUIÇÃO DOS CARGOS EFETIVOS DE ANALISTA DE POLÍTICAS PÚBLICAS, INTEGRANTES DO PLANO DE CARREIRA DA ÁREA DE ATIVIDADES DA ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE, POR ÁREA DE HABILITAÇÃO PROFISSIONAL:
 
-|ÁREA |Nº DE CARGOS |
-
-|Administração |88 |
-
-|Biblioteconomia |25 |
-
-|Ciências atuariais |01 |
-
-|Ciências contábeis |33 |
-
-|Ciências econômicas |14 |
-
-|Educação física |52 |
-
-|Psicologia |333 |
-
-|Serviço social |416 |
-
-|Outras áreas |81 |
-
-|TOTAL |1.043 |
+| ÁREA | Nº DE CARGOS |
+| --- | --- |
+| Administração | 88 |
+| Biblioteconomia | 25 |
+| Ciências atuariais | 01 |
+| Ciências contábeis | 33 |
+| Ciências econômicas | 14 |
+| Educação física | 52 |
+| Psicologia | 333 |
+| Serviço social | 416 |
+| Outras áreas | 81 |
+| TOTAL | 1.043 |
 
 Anexo II com redação dada pelo Decreto nº 17.970, de 19/5/2022 (Art. 1º)

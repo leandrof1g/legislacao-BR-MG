@@ -36,9 +36,9 @@ O Presidente da Câmara Municipal de Belo Horizonte, no uso de suas atribuiçõe
 
 G - Dias comemorativos de julho
 
-|DATA |COMEMORAÇÃO |
-
-|7/7 |Dia Municipal Dos Métodos Naturais |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 7/7 | Dia Municipal Dos Métodos Naturais |
 
 .”.
 

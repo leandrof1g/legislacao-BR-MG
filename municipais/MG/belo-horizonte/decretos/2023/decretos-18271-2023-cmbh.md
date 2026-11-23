@@ -58,67 +58,41 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º |R$ |
-
-|da Lei nº 11.442, de 29 de dezembro de 2022: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.1100.04.122.096.2.004.449052.500 |32.500,00 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.1100.18.542.306.2.877.335041.500 |515.300,00 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.1100.15.451.233.1.396.449092.500 |38.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.0100.08.244.113.2.327.339037.500 |59.962,00 |
-
-|1011.0200.08.244.113.2.327.339037.500 |157.228,00 |
-
-|1011.0300.08.244.113.2.327.339037.500 |59.962,00 |
-
-|1011.0400.08.244.113.2.327.339037.500 |59.962,00 |
-
-|1011.0500.08.244.113.2.327.339037.500 |59.962,00 |
-
-|1011.0600.08.244.113.2.327.339037.500 |59.962,00 |
-
-|1011.0700.08.244.113.2.327.339037.500 |59.962,00 |
-
-|1011.0800.08.244.113.2.327.339037.500 |140.875,00 |
-
-|1011.0900.08.244.113.2.327.339037.500 |59.962,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.303.637,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º | R$ |
+| --- | --- |
+| da Lei nº 11.442, de 29 de dezembro de 2022: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.1100.04.122.096.2.004.449052.500 | 32.500,00 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.1100.18.542.306.2.877.335041.500 | 515.300,00 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.1100.15.451.233.1.396.449092.500 | 38.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.0100.08.244.113.2.327.339037.500 | 59.962,00 |
+| 1011.0200.08.244.113.2.327.339037.500 | 157.228,00 |
+| 1011.0300.08.244.113.2.327.339037.500 | 59.962,00 |
+| 1011.0400.08.244.113.2.327.339037.500 | 59.962,00 |
+| 1011.0500.08.244.113.2.327.339037.500 | 59.962,00 |
+| 1011.0600.08.244.113.2.327.339037.500 | 59.962,00 |
+| 1011.0700.08.244.113.2.327.339037.500 | 59.962,00 |
+| 1011.0800.08.244.113.2.327.339037.500 | 140.875,00 |
+| 1011.0900.08.244.113.2.327.339037.500 | 59.962,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.303.637,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Gabinete do Prefeito – GP |
-
-|0201.1100.04.122.096.2.004.339039.500 |32.500,00 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.1100.15.122.057.2.584.449052.500 |38.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.5701.99.999.999.9.999.999999.500 |515.300,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.1100.08.241.020.2.403.339039.500 |717.837,00 |
-
-|TOTAL DA ANULAÇÃO |1.303.637,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Gabinete do Prefeito – GP |  |
+| 0201.1100.04.122.096.2.004.339039.500 | 32.500,00 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.1100.15.122.057.2.584.449052.500 | 38.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.5701.99.999.999.9.999.999999.500 | 515.300,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.1100.08.241.020.2.403.339039.500 | 717.837,00 |
+| TOTAL DA ANULAÇÃO | 1.303.637,00 |
 
 ANEXO II
 
@@ -154,24 +128,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 203.967.029,73 |
-
-|Valor do Decreto publicado nesta data |R$ 1.303.637,00 |
-
-|Saldo atual de créditos suplementares |R$ 1.508.896.521,47 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 205.270.666,73 |
-
-|Percentual utilizado |11,97% |
-
-|Atualizado em 06/03/2023 às 10:58:24 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 203.967.029,73 |
+| Valor do Decreto publicado nesta data | R$ 1.303.637,00 |
+| Saldo atual de créditos suplementares | R$ 1.508.896.521,47 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 205.270.666,73 |
+| Percentual utilizado | 11,97% |
+| Atualizado em 06/03/2023 às 10:58:24 |  |

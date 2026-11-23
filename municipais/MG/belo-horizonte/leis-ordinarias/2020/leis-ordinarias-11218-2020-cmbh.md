@@ -110,37 +110,23 @@ ANEXO
 
 (a que se refere esta lei)
 
-|Coeficiente de |7,72². |
-
-|aproveitamento bruto¹ | |
-
-|Taxa de Permeabilidade |24% (vinte e quatro por cento), na forma descrita no inciso IV do art. |
-
-| |5º. |
-
-|Taxa de ocupação |Conforme deliberação do Conselho Deliberativo do Patrimônio Cultural do |
-
-| |Município de Belo Horizonte. |
-
-|Número mínimo de vagas para |Não se aplica. |
-
-|veículos leves | |
-
-|Número mínimo de vagas para |Conforme definição do órgão municipal responsável pela política de |
-
-|carga e descarga |mobilidade urbana. |
-
-|Distância mínima entre |a) entre torre existente e anexo sul do TJMG: 15m (quinze metros), |
-
-|blocos |podendo atingir 11,32m (onze metros e trinta e dois centímetros) até a |
-
-| |altura de 12,50m (doze metros e cinquenta centímetros) em relação ao |
-
-| |terreno; |
-
-| |b) entre bloco existente e anexo norte: 4,70m (quatro metros e setenta |
-
-| |centímetros). |
+| Coeficiente de | 7,72². |
+| --- | --- |
+| aproveitamento bruto¹ |  |
+| Taxa de Permeabilidade | 24% (vinte e quatro por cento), na forma descrita no inciso IV do art. |
+|  | 5º. |
+| Taxa de ocupação | Conforme deliberação do Conselho Deliberativo do Patrimônio Cultural do |
+|  | Município de Belo Horizonte. |
+| Número mínimo de vagas para | Não se aplica. |
+| veículos leves |  |
+| Número mínimo de vagas para | Conforme definição do órgão municipal responsável pela política de |
+| carga e descarga | mobilidade urbana. |
+| Distância mínima entre | a) entre torre existente e anexo sul do TJMG: 15m (quinze metros), |
+| blocos | podendo atingir 11,32m (onze metros e trinta e dois centímetros) até a |
+|  | altura de 12,50m (doze metros e cinquenta centímetros) em relação ao |
+|  | terreno; |
+|  | b) entre bloco existente e anexo norte: 4,70m (quatro metros e setenta |
+|  | centímetros). |
 
 ¹ Coeficiente de aproveitamento bruto é o índice que, multiplicado pela área do terreno, define a área construída máxima que o empreendimento pode alcançar.
 

@@ -40,11 +40,10 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 J - Semanas comemorativas de outubro:
 
-|DATA |COMEMORAÇÃO |
-
-|Semana que contenha o dia 8/10 |Semana de Doação de Células-Tronco e de |
-
-| |Cordão Umbilical e Placentário |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Semana que contenha o dia 8/10 | Semana de Doação de Células-Tronco e de |
+|  | Cordão Umbilical e Placentário |
 
 .”.
 

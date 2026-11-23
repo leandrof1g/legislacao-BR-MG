@@ -52,44 +52,28 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN –, conforme autorização |
-
-|contida no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|1010.23.692.132.2.307.3390.0000 |34.764,00 |
-
-|TOTAL |34.764,00 |
-
-|I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso II do § 1º do art. |
-
-|4º da Lei nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|2302.10.301.157.2.902.4567.0000 |2.710.720,00 |
-
-|TOTAL |2.710.720,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.745.484,00 |
+| I.1 – A favor do Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN –, conforme autorização |  |
+| --- | --- |
+| contida no caput do art. 4º da Lei nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 1010.23.692.132.2.307.3390.0000 | 34.764,00 |
+| TOTAL | 34.764,00 |
+| I.2 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no inciso II do § 1º do art. |  |
+| 4º da Lei nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 2302.10.301.157.2.902.4567.0000 | 2.710.720,00 |
+| TOTAL | 2.710.720,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.745.484,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 da tabela anterior: |
-
-|R$ |
-
-|1014.08.306.132.2.761.3390.0000 |34.764,00 |
-
-|TOTAL |34.764,00 |
-
-|II.2 – Em contrapartida à suplementação relacionada no item I.2 da tabela anterior: |
-
-|R$ |
-
-|2302.10.301.157.2.902.3367.0000 |2.710.720,00 |
-
-|TOTAL |2.710.720,00 |
-
-|TOTAL DA ANULAÇÃO |2.745.484,00 |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 da tabela anterior: |  |
+| --- | --- |
+| R$ |  |
+| 1014.08.306.132.2.761.3390.0000 | 34.764,00 |
+| TOTAL | 34.764,00 |
+| II.2 – Em contrapartida à suplementação relacionada no item I.2 da tabela anterior: |  |
+| R$ |  |
+| 2302.10.301.157.2.902.3367.0000 | 2.710.720,00 |
+| TOTAL | 2.710.720,00 |
+| TOTAL DA ANULAÇÃO | 2.745.484,00 |

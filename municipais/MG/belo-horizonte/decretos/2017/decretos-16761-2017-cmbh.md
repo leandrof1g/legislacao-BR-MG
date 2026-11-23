@@ -46,4 +46,5 @@ ANEXO
 
 (a que se refere o art. 1º do Decreto nº 16.761, de 31 de outubro de 2017)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

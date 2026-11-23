@@ -34,23 +34,16 @@ decreta:
 
 “Art. 1º - O cargo efetivo de Auditor será distribuído nas seguintes áreas de habilitação e nos seguintes quantitativos, em conformidade com os Anexos I e II da Lei nº 8.690/2003, alterados, respectivamente, pelos arts. 4º e 5º da Lei nº 10.202/2011:
 
-|ÁREA |QUANTIDADE DE VAGAS |
-
-|Administração |3 |
-
-|Ciência da Computação |5 |
-
-|Ciências Contábeis |19 |
-
-|Ciências Econômicas |1 |
-
-|Direito |4 |
-
-|Engenharia Civil |14 |
-
-|Tecnologia da Informação |4 |
-
-|Total |50 |
+| ÁREA | QUANTIDADE DE VAGAS |
+| --- | --- |
+| Administração | 3 |
+| Ciência da Computação | 5 |
+| Ciências Contábeis | 19 |
+| Ciências Econômicas | 1 |
+| Direito | 4 |
+| Engenharia Civil | 14 |
+| Tecnologia da Informação | 4 |
+| Total | 50 |
 
 **Art. 2º** - Este Decreto entra em vigor na data de sua publicação.
 

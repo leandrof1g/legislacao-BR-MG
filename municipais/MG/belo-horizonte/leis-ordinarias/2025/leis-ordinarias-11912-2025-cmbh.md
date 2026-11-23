@@ -30,9 +30,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I DIA COMEMORATIVO E - Dias comemorativos de maio:
 
-|DDATA |COMEMORAÇÃO |
-
-|118/5 |Dia Municipal da Fidelidade Conjugal e do Casamento Monogâmico Cristão |
+| DDATA | COMEMORAÇÃO |
+| --- | --- |
+| 118/5 | Dia Municipal da Fidelidade Conjugal e do Casamento Monogâmico Cristão |
 
 .”.
 

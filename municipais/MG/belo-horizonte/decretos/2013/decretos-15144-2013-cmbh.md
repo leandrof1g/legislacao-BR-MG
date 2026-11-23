@@ -40,47 +40,28 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, e tend
 
 **Art. 3º** - No período de 3 (três) anos de duração do estágio probatório, o servidor será submetido a 6 (seis) avaliações de desempenho, sendo 1 (uma) a cada semestre, nas quais serão aferidos frequência e comportamento disciplinar, denominados fatores mecânicos, e ainda os fatores referidos no art. 31 da Lei nº 7.169/96, denominados qualitativos, estes segmentados nos seguintes critérios específicos:
 
-|FATORES QUALITATIVOS |CRITÉRIOS ESPECÍFICOS |
-
-|Relacionamento |Cooperação |
-
-| |Habilidade de comunicação |
-
-| |Interação com autoridade |
-
-| |Equilíbrio emocional e temperamento |
-
-|Compromisso Institucional |Engajamento |
-
-| |Busca de informações |
-
-| |Participação em atividades de aperfeiçoamento |
-
-| |Transparência |
-
-| |Disponibilidade |
-
-|Postura Profissional |Observação às normas e procedimentos |
-
-| |Adaptabilidade |
-
-| |Desafio e superação de obstáculos |
-
-| |Iniciativa e agilidade |
-
-|Desempenho técnico e eficiência nas |Conhecimento |
-
-|atribuições do cargo | |
-
-| |Compromisso com a qualidade |
-
-| |Organização |
-
-| |Foco em resultado |
-
-| |Acordo de Resultados/Avaliação do usuário do serviço público (conforme a |
-
-| |hipótese) |
+| FATORES QUALITATIVOS | CRITÉRIOS ESPECÍFICOS |
+| --- | --- |
+| Relacionamento | Cooperação |
+|  | Habilidade de comunicação |
+|  | Interação com autoridade |
+|  | Equilíbrio emocional e temperamento |
+| Compromisso Institucional | Engajamento |
+|  | Busca de informações |
+|  | Participação em atividades de aperfeiçoamento |
+|  | Transparência |
+|  | Disponibilidade |
+| Postura Profissional | Observação às normas e procedimentos |
+|  | Adaptabilidade |
+|  | Desafio e superação de obstáculos |
+|  | Iniciativa e agilidade |
+| Desempenho técnico e eficiência nas | Conhecimento |
+| atribuições do cargo |  |
+|  | Compromisso com a qualidade |
+|  | Organização |
+|  | Foco em resultado |
+|  | Acordo de Resultados/Avaliação do usuário do serviço público (conforme a |
+|  | hipótese) |
 
 **§ 1º** - A cada avaliação semestral a que se refere o caput deste artigo, o servidor terá o seu desempenho aferido em uma escala de até 100 (cem) pontos, sendo 30 (trinta) pontos destinados aos fatores mecânicos e 70 (setenta) pontos destinados aos fatores qualitativos.
 
@@ -98,27 +79,21 @@ III - obtiver, nas avaliações a que se submeter, antes da conclusão das 6 (se
 
 I – para a apuração da frequência do servidor público em estágio probatório, será atribuído um máximo de 10 (dez) pontos na parte da escala destinada aos fatores mecânicos, conforme a seguinte tabela:
 
-| NÚMERO DE FALTAS INJUSTIFICADAS |PONTUAÇÃO |
-
-|Nenhuma falta |10 (dez) pontos |
-
-|1 (uma) falta |- 3 (menos três) pontos |
-
-|2 (duas) faltas |- 7 (menos sete) pontos |
-
-|3 (três) faltas |- 10 (menos dez) pontos |
+| NÚMERO DE FALTAS INJUSTIFICADAS | PONTUAÇÃO |
+| --- | --- |
+| Nenhuma falta | 10 (dez) pontos |
+| 1 (uma) falta | - 3 (menos três) pontos |
+| 2 (duas) faltas | - 7 (menos sete) pontos |
+| 3 (três) faltas | - 10 (menos dez) pontos |
 
 II - para a apuração do comportamento disciplinar do servidor público em estágio probatório, será atribuído um máximo de 20 (vinte) pontos na parte da escala destinada aos fatores mecânicos, conforme a seguinte tabela:
 
-| PENALIDADE |PONTUAÇÃO |
-
-|Nenhuma ocorrência |20(vinte) pontos |
-
-|Repreensão |- 6 (menos seis) pontos |
-
-|Suspensão de 01 a 14 dias |- 14 (menos quatorze) pontos |
-
-|Suspensão de 15 a 29 dias |- 20 (menos vinte) pontos |
+| PENALIDADE | PONTUAÇÃO |
+| --- | --- |
+| Nenhuma ocorrência | 20(vinte) pontos |
+| Repreensão | - 6 (menos seis) pontos |
+| Suspensão de 01 a 14 dias | - 14 (menos quatorze) pontos |
+| Suspensão de 15 a 29 dias | - 20 (menos vinte) pontos |
 
 **§ 1º** - Caso o servidor alcance pontuação negativa no somatório dos pontos distribuídos para os fatores mecânicos, terá zerada a sua nota exclusivamente em relação a esses fatores na escala prevista no § 1º do art. 3º deste Decreto.
 

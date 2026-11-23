@@ -66,27 +66,18 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei | |
-
-|nº 11.442, de 29 de dezembro de 2022: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.0800.12.361.168.2.080.319011.540 |194.824,66 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0800.18.541.244.1.244.449092.700 |14.425,74 |
-
-|2700.1100.15.451.062.1.230.449051.703 |10.480.902,11 |
-
-|Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |
-
-|3102.1100.13.391.155.2.375.339031.500 |375.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |11.065.152,51 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei |  |
+| nº 11.442, de 29 de dezembro de 2022: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0800.12.361.168.2.080.319011.540 | 194.824,66 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0800.18.541.244.1.244.449092.700 | 14.425,74 |
+| 2700.1100.15.451.062.1.230.449051.703 | 10.480.902,11 |
+| Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte – FPPC-BH |  |
+| 3102.1100.13.391.155.2.375.339031.500 | 375.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 11.065.152,51 |
 
 ANEXO II
 
@@ -126,24 +117,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração do saldo de crédito suplementar passível de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 260.405.474,46 |
-
-|Valor do Decreto publicado nesta data |R$ 11.065.152,51 |
-
-|Saldo atual de créditos suplementares |R$ 1.442.696.561,23 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 271.470.626,97 |
-
-|Percentual utilizado |15,84% |
-
-|Atualizado em 30/03/2023 às 15:54:07 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 260.405.474,46 |
+| Valor do Decreto publicado nesta data | R$ 11.065.152,51 |
+| Saldo atual de créditos suplementares | R$ 1.442.696.561,23 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 271.470.626,97 |
+| Percentual utilizado | 15,84% |
+| Atualizado em 30/03/2023 às 15:54:07 |  |

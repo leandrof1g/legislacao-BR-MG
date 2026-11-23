@@ -74,4 +74,5 @@ Fernando Damata Pimentel
 
 Secretário Municipal da Fazenda
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

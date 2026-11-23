@@ -510,44 +510,26 @@ ANEXO I
 
 Penalidades
 
-|Item |
-
-|1 |
-
-|(...) |
-
-|GRUPO I – PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS (autorização, permissão |
-
-|ou concessão): |
-
-|(...) |
-
-|2.8 – Uso de mobiliário urbano para instalação de equipamento|R$12.000,00 p/exercício |
-
-|de infraestrutura de telecomunicação, sujeita a licenciamento| |
-
-|do tipo I – por unidade ou conjunto com volume de até 1m³ (um| |
-
-|metro cúbico) | |
-
-|(...) |
-
-|GRUPO II – PELO USO E OCUPAÇÃO DE DEPENDÊNCIAS PÚBLICAS (autorização, permissão ou concessão): |
-
-|(...) |
-
-|8 – Uso de imóvel público municipal especial e dominical para| |
-
-|instalação de equipamento de infraestrutura de | |
-
-|telecomunicação: | |
-
-|8.1 – sujeita a licenciamento do tipo I – por unidade ou |R$20.000,00 p/exercício |
-
-|conjunto com volume de até 1m³ (um metro cúbico) | |
-
-|8.2 – sujeita a licenciamento do tipo II – por unidade ou |R$20.000,00/por metro cúbico ou |
-
-|conjunto com volume superior a 1m³ (um metro cúbico) |fração/exercício |
+| Item |  |
+| --- | --- |
+| 1 |  |
+| (...) |  |
+| GRUPO I – PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS (autorização, permissão |  |
+| ou concessão): |  |
+| (...) |  |
+| 2.8 – Uso de mobiliário urbano para instalação de equipamento | R$12.000,00 p/exercício |
+| de infraestrutura de telecomunicação, sujeita a licenciamento |  |
+| do tipo I – por unidade ou conjunto com volume de até 1m³ (um |  |
+| metro cúbico) |  |
+| (...) |  |
+| GRUPO II – PELO USO E OCUPAÇÃO DE DEPENDÊNCIAS PÚBLICAS (autorização, permissão ou concessão): |  |
+| (...) |  |
+| 8 – Uso de imóvel público municipal especial e dominical para |  |
+| instalação de equipamento de infraestrutura de |  |
+| telecomunicação: |  |
+| 8.1 – sujeita a licenciamento do tipo I – por unidade ou | R$20.000,00 p/exercício |
+| conjunto com volume de até 1m³ (um metro cúbico) |  |
+| 8.2 – sujeita a licenciamento do tipo II – por unidade ou | R$20.000,00/por metro cúbico ou |
+| conjunto com volume superior a 1m³ (um metro cúbico) | fração/exercício |
 
 ”

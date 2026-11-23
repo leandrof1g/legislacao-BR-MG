@@ -44,16 +44,5 @@ Prefeito de Belo Horizonte
 
 (OS ANEXOS A QUE SE REFERE ESTA LEI ENCONTRAM-SE À DISPOSIÇÃO NO SERVIÇO DE DOCUMENTAÇÃO GERAL DA SMAD.)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

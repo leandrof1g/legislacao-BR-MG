@@ -204,18 +204,13 @@ DEMONSTRATIVO DE REDUÇÃO DE RECURSOS POR FONTES E PROJETOS
 
 1982 EM Cr$ MILHÕES
 
-|PROGRAMA/PROJETO |CONVÊNIO EBTU Nº 064/82 |PME/ESTADO |VALOR |
-
-| | | |CORRIGIDO |
-
-|Avenida Antônio Carlos |2.930,00 |326,4 |2.603,6 |
-
-|II - Construção, Pavimentação - obras |2.930,00 |326,4 |2.603,6 |
-
-|complementares, Estudos, | | | |
-
-|Projetos | | | |
-
-|TOTAL |2.930,00 |326,4 |2.603,6 |
+| PROGRAMA/PROJETO | CONVÊNIO EBTU Nº 064/82 | PME/ESTADO | VALOR |
+| --- | --- | --- | --- |
+|  |  |  | CORRIGIDO |
+| Avenida Antônio Carlos | 2.930,00 | 326,4 | 2.603,6 |
+| II - Construção, Pavimentação - obras | 2.930,00 | 326,4 | 2.603,6 |
+| complementares, Estudos, |  |  |  |
+| Projetos |  |  |  |
+| TOTAL | 2.930,00 | 326,4 | 2.603,6 |
 
 8.445 - P. 61.982 - x

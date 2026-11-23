@@ -190,29 +190,22 @@ Da Progressão Funcional
 
 I -
 
-|Nível de vencimento-base em que estiver |Tempo de permanência nos níveis de vencimentos-base necessário à apuração do |
-
-|posicionado o servidor público |resultado final da avaliação de desempenho para fins de progressão de desempenho |
-
-| |nas classes A e B |
-
-|Nível 1 |1.095 (um mil e noventa e cinco) dias |
-
-|Níveis 2 a 4 |365 (trezentos e sessenta e cinco) dias |
-
-|Níveis 5 a 12 |730 (setecentos e trinta) dias |
-
-|Níveis 13 a 18 |1.095 (um mil e noventa e cinco) dias |
+| Nível de vencimento-base em que estiver | Tempo de permanência nos níveis de vencimentos-base necessário à apuração do |
+| --- | --- |
+| posicionado o servidor público | resultado final da avaliação de desempenho para fins de progressão de desempenho |
+|  | nas classes A e B |
+| Nível 1 | 1.095 (um mil e noventa e cinco) dias |
+| Níveis 2 a 4 | 365 (trezentos e sessenta e cinco) dias |
+| Níveis 5 a 12 | 730 (setecentos e trinta) dias |
+| Níveis 13 a 18 | 1.095 (um mil e noventa e cinco) dias |
 
 II -
 
-|Nível de vencimento-base em que estiver |Tempo de permanência nos níveis de vencimentos-base necessário à apuração do |
-
-|posicionado o servidor público |resultado final da avaliação de desempenho para fins de progressão de desempenho |
-
-| |nas classes C a E |
-
-|Níveis 5 a 18 |1.095 (um mil e noventa e cinco) dias |
+| Nível de vencimento-base em que estiver | Tempo de permanência nos níveis de vencimentos-base necessário à apuração do |
+| --- | --- |
+| posicionado o servidor público | resultado final da avaliação de desempenho para fins de progressão de desempenho |
+|  | nas classes C a E |
+| Níveis 5 a 18 | 1.095 (um mil e noventa e cinco) dias |
 
 **§ 3º** - Por uma única vez ao longo de sua carreira, o médico fará jus a 1 (um) nível adicional de vencimento-base à guisa da progressão funcional na hipótese de desempenho excepcional constante, assim considerada a hipótese de o servidor, posicionado a partir do nível 6 da tabela de vencimentos-base de sua classe, ser progredido por merecimento em 3 (três) dos interstícios previstos nos incisos I e II do § 2º deste artigo, de modo consecutivo e caso obtenha, em todos eles, resultado superior a 90% (noventa) por cento da nota máxima exigida nos procedimentos avaliatórios respectivos.
 
@@ -458,17 +451,13 @@ II - o percentual resultante do cálculo a que se refere o inciso I será aplica
 
 “ANEXO XX [...] E - Gratificação devida ao exercente da função pública instituída no art. 15 da Lei nº 9.443, 18 de outubro de 2007, e suas alterações
 
-|Função Gratificada |GRATIFICAÇÃO (EM R$) |
-
-| |1º DE JANEIRO DE 2016 |1º DE DEZEMBRO DE 2016 |
-
-|Função gratificada instituída no art. 15 da Lei nº 9.443/07|358,27 |367,01 |
-
-|- para jornada de 20 horas | | |
-
-|Função gratificada instituída no art. 15 da Lei nº 9.443/07|716,53 |734,01 |
-
-|- para jornada de 40 horas | | |
+| Função Gratificada | GRATIFICAÇÃO (EM R$) |  |
+| --- | --- | --- |
+|  | 1º DE JANEIRO DE 2016 | 1º DE DEZEMBRO DE 2016 |
+| Função gratificada instituída no art. 15 da Lei nº 9.443/07 | 358,27 | 367,01 |
+| - para jornada de 20 horas |  |  |
+| Função gratificada instituída no art. 15 da Lei nº 9.443/07 | 716,53 | 734,01 |
+| - para jornada de 40 horas |  |  |
 
 ” (NR)
 
@@ -490,21 +479,19 @@ CARGOS PÚBLICOS DE MÉDICO VINCULADOS À ÁREA DE ATIVIDADES
 
 DE MEDICINA DO MUNICÍPIO
 
-|ENTIDADE |NÚMERO DE VAGAS |
-
-|ADMINISTRAÇÃO DIRETA |3.266 |
-
-|HOB |322 |
+| ENTIDADE | NÚMERO DE VAGAS |
+| --- | --- |
+| ADMINISTRAÇÃO DIRETA | 3.266 |
+| HOB | 322 |
 
 ANEXO I-A
 
 CARGOS PÚBLICOS DE MÉDICO VINCULADOS À ÁREA DE ATIVIDADES DE MEDICINA DO MUNICÍPIO
 
-|ENTIDADE |NÚMERO DE VAGAS |
-
-|ADMINISTRAÇÃO DIRETA |3.266 |
-
-|HOB |678 |
+| ENTIDADE | NÚMERO DE VAGAS |
+| --- | --- |
+| ADMINISTRAÇÃO DIRETA | 3.266 |
+| HOB | 678 |
 
 Anexo I-A com redação dada pela Lei nº 11.222, de 19/3/2020 (Art. 13)
 
@@ -512,9 +499,9 @@ ANEXO I-B
 
 EMPREGOS PÚBLICOS DE MÉDICO DO HOB
 
-|ENTIDADE |NÚMERO DE VAGAS |
-
-|HOB |179 |
+| ENTIDADE | NÚMERO DE VAGAS |
+| --- | --- |
+| HOB | 179 |
 
 ANEXO II
 

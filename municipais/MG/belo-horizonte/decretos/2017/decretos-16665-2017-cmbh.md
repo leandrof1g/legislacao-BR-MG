@@ -28,13 +28,11 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 **Art. 1º** - O item 3 e o subitem 3.1.1 do Grupo II do Anexo Único do Decreto nº 15.508, de 20 de março de 2014, passam a vigorar com a seguinte redação:
 
-|3 - Shopping Popular Caetés/PBH: |
-
-|[...] |
-
-|3.1.1 - Valor relativo ao |R$300,00 p/mês |
-
-|aluguel dos boxes | |
+| 3 - Shopping Popular Caetés/PBH: |  |
+| --- | --- |
+| [...] |  |
+| 3.1.1 - Valor relativo ao | R$300,00 p/mês |
+| aluguel dos boxes |  |
 
 **Art. 2º** - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de julho de 2017.
 

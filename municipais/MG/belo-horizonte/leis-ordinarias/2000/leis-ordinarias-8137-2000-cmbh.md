@@ -1776,125 +1776,67 @@ ANEXO III DA LEI Nº 8.137
 
 VIAS COM PREVISÃO DE RECUO DE ALINHAMENTO A SEREM ACRESCENTADAS AO ANEXO V DA LEI Nº 7.166, DE 27 DE AGOSTO DE 1996
 
-|Logradouro | Nome |Bairro |Trecho |
-
-|026560 |Antiga estrada para Nova Lima |Taquaril | |
-
-|002872 |Av. Álvaro da Silveira |Barreiro | |
-
-|022339 |Av. Dom José Gaspar |Coração Eucarístico | |
-
-|007775 |Av. dos Bandeirantes |Sion | |
-
-|122851 |Av. Miguel Perrela |Castelo | |
-
-|049847 |Av. Olinto Meireles |Barreiro | |
-
-|072840 |Av. Solferina Ricci Pace |Jatobá | |
-
-|118904 |Av. Waldir Soeiro Enrich |Betânia | |
-
-|005099 |Rua Aporé |Aparecida | |
-
-|006050 |Rua Arquiteto Morandi |Barreiro | |
-
-|009336 |Rua Bernardino de Lima |Gutierrez | |
-
-|010096 |Rua Bonfim |Bonfim | |
-
-|107490 |Rua Bonsucesso |Betânia | |
-
-|010405 |Rua Brás Baltazar |Caiçara | |
-
-|011713 |Rua Camanducaia |Salgado Filho | |
-
-|012338 |Rua Canaã |Nova Granada | |
-
-|Logradouro |Nome |Bairro |Trecho |
-
-|072002 |Rua Capitão Nelson Albuquerque |Venda Nova | |
-
-|016401 |Rua Comendador Nohme Salomão |Lagoinha | |
-
-|016988 |Rua Conselheiro Carneiro de Campos |Salgado Filho | |
-
-|017041 |Rua Conselheiro Lafaiete |Floresta | |
-
-|014894 |Rua Corcovado |Jardim América | |
-
-|087091 |Rua Corrêas |Sion | |
-
-|050682 |Rua do Ouro |Serra | |
-
-|033096 |Rua Dr. Henrique Tann |São Bernardo | |
-
-|028322 |Rua Fides |Aparecida | |
-
-|031425 |Rua Gomes Freire |Cachoeirinha | |
-
-|031769 |Rua Grão Mogol |Sion | |
-
-|032790 |Rua Haiti |Belvedere | |
-
-|033260 |Rua Hespéria |Aparecida | |
-
-|035237 |Rua Itabira |Lagoinha |R. Rio Novo / R. Formiga |
-
-|037260 |Rua Jequitaí |São Cristóvão |R. Belmiro Almeida / Av. |
-
-| | | |Antônio Carlos |
-
-|037608 |Rua João de Deus Matos |Cachoeirinha | |
-
-|091244 |Rua José Rodrigues Pereira |Buritis | |
-
-|039990 |Rua Kepler |Santa Lúcia | |
-
-|042315 |Rua Madalena |São Cristóvão |R. Belmiro Almeida / Av. |
-
-| | | |Antônio Carlos |
-
-|042618 |Rua Major Barbosa |Santa Efigênia | |
-
-|043273 |Rua Mantena |Ouro Preto | |
-
-|036620 |Rua Maquiné |Salgado Filho | |
-
-|091840 |Rua Maria Macêdo |Nova Suissa | |
-
-|093010 |Rua Medusa |Santa Lúcia | |
-
-|Logradouro | Nome |Bairro |Trecho |
-
-|046650 |Rua Montes Claros |Anchieta | |
-
-|123665 |Rua Nilo A. Gazire |Estoril | |
-
-|052688 |Rua Paulo Afonso |Santo Antônio | |
-
-|054365 |Rua Pitangui |São Cristóvão | |
-
-|026342 |Rua Prof. Estevão Pinto |Serra | |
-
-|026430 |Rua Prof. José Vieira de Mendonça |Engenho Nogueira | |
-
-|058817 |Rua Rio Novo |Lagoinha |R. Itabira / R. Itapecerica |
-
-|058990 |Rua Rocha Lagoa |Cachoeirinha | |
-
-|063883 |Rua São Vicente |Olhos D´agua | |
-
-|065980 |Rua Silvério Ribeiro |Santa Rosa | |
-
-|979948 |Rua Taquaril |Saudade | |
-
-|067106 |Rua Tecelões |Aparecida | |
-
-|070035 |Rua Turquesa |Prado | |
-
-|071302 |Rua Varginha |Floresta | |
-
-|071910 |Rua Viçosa |São Pedro | |
+| Logradouro | Nome | Bairro | Trecho |
+| --- | --- | --- | --- |
+| 026560 | Antiga estrada para Nova Lima | Taquaril |  |
+| 002872 | Av. Álvaro da Silveira | Barreiro |  |
+| 022339 | Av. Dom José Gaspar | Coração Eucarístico |  |
+| 007775 | Av. dos Bandeirantes | Sion |  |
+| 122851 | Av. Miguel Perrela | Castelo |  |
+| 049847 | Av. Olinto Meireles | Barreiro |  |
+| 072840 | Av. Solferina Ricci Pace | Jatobá |  |
+| 118904 | Av. Waldir Soeiro Enrich | Betânia |  |
+| 005099 | Rua Aporé | Aparecida |  |
+| 006050 | Rua Arquiteto Morandi | Barreiro |  |
+| 009336 | Rua Bernardino de Lima | Gutierrez |  |
+| 010096 | Rua Bonfim | Bonfim |  |
+| 107490 | Rua Bonsucesso | Betânia |  |
+| 010405 | Rua Brás Baltazar | Caiçara |  |
+| 011713 | Rua Camanducaia | Salgado Filho |  |
+| 012338 | Rua Canaã | Nova Granada |  |
+| Logradouro | Nome | Bairro | Trecho |
+| 072002 | Rua Capitão Nelson Albuquerque | Venda Nova |  |
+| 016401 | Rua Comendador Nohme Salomão | Lagoinha |  |
+| 016988 | Rua Conselheiro Carneiro de Campos | Salgado Filho |  |
+| 017041 | Rua Conselheiro Lafaiete | Floresta |  |
+| 014894 | Rua Corcovado | Jardim América |  |
+| 087091 | Rua Corrêas | Sion |  |
+| 050682 | Rua do Ouro | Serra |  |
+| 033096 | Rua Dr. Henrique Tann | São Bernardo |  |
+| 028322 | Rua Fides | Aparecida |  |
+| 031425 | Rua Gomes Freire | Cachoeirinha |  |
+| 031769 | Rua Grão Mogol | Sion |  |
+| 032790 | Rua Haiti | Belvedere |  |
+| 033260 | Rua Hespéria | Aparecida |  |
+| 035237 | Rua Itabira | Lagoinha | R. Rio Novo / R. Formiga |
+| 037260 | Rua Jequitaí | São Cristóvão | R. Belmiro Almeida / Av. |
+|  |  |  | Antônio Carlos |
+| 037608 | Rua João de Deus Matos | Cachoeirinha |  |
+| 091244 | Rua José Rodrigues Pereira | Buritis |  |
+| 039990 | Rua Kepler | Santa Lúcia |  |
+| 042315 | Rua Madalena | São Cristóvão | R. Belmiro Almeida / Av. |
+|  |  |  | Antônio Carlos |
+| 042618 | Rua Major Barbosa | Santa Efigênia |  |
+| 043273 | Rua Mantena | Ouro Preto |  |
+| 036620 | Rua Maquiné | Salgado Filho |  |
+| 091840 | Rua Maria Macêdo | Nova Suissa |  |
+| 093010 | Rua Medusa | Santa Lúcia |  |
+| Logradouro | Nome | Bairro | Trecho |
+| 046650 | Rua Montes Claros | Anchieta |  |
+| 123665 | Rua Nilo A. Gazire | Estoril |  |
+| 052688 | Rua Paulo Afonso | Santo Antônio |  |
+| 054365 | Rua Pitangui | São Cristóvão |  |
+| 026342 | Rua Prof. Estevão Pinto | Serra |  |
+| 026430 | Rua Prof. José Vieira de Mendonça | Engenho Nogueira |  |
+| 058817 | Rua Rio Novo | Lagoinha | R. Itabira / R. Itapecerica |
+| 058990 | Rua Rocha Lagoa | Cachoeirinha |  |
+| 063883 | Rua São Vicente | Olhos D´agua |  |
+| 065980 | Rua Silvério Ribeiro | Santa Rosa |  |
+| 979948 | Rua Taquaril | Saudade |  |
+| 067106 | Rua Tecelões | Aparecida |  |
+| 070035 | Rua Turquesa | Prado |  |
+| 071302 | Rua Varginha | Floresta |  |
+| 071910 | Rua Viçosa | São Pedro |  |
 
 ANEXO IV DA LEI Nº 8.137
 
@@ -1902,85 +1844,47 @@ PARÂMETROS URBANÍSTICOS DAS ZONAS DE GRANDES
 
 EQUIPAMENTOS - ZE's ESTABELECIDAS POR ESTA LEI
 
-|ZONEAMENTO |CA (1) |QT(2) |TP (3) |Altura |Afast. Frontal (m) |OBS. |
-
-| | |(m²) |(%) |Máx. na Divisa | | |
-
-| | | | |(m) | | |
-
-|ZE Venda Nova |1,7 |25 |20 |9,0 m | |- |
-
-| | | | | | | |
-
-| | | | | | | |
-
-| | | | | | | |
-
-| | | | | | | |
-
-| | | | | |Cf. arts. 51 a 53 da | |
-
-| | | | | |Lei nº 7166/96 | |
-
-| | | | | | | |
-
-| | | | | | | |
-
-| | | | | | | |
-
-| | | | | | | |
-
-| | | | | | | |
-
-| | | | | | | |
-
-| | | | | | | |
-
-| | | | | |Cf. arts. 51 a 53 da | |
-
-| | | | | |Lei nº 7166/96 | |
-
-|ZE Vilarinho |1,7 |25 |20 |5,0 m | |- |
-
-|ZE Pampulha |1,7 |2.500 |20 |5,0 m | |Ver §§ 2º e 3º do |
-
-| | | | | | |art. 46 |
-
-|ZE Waldomiro Lobo |1,7 |25 |20 |5,0 m | |- |
-
-|ZE Carlos Luz |1,7 |25 |20 |5,0 m | |- |
-
-|ZE José Cândido da Silveira |1,7 |25 |20 |5,0 m | |- |
-
-|ZONEAMENTO |CA (1) |QT(2) |TP (3) |Altura | |OBS. |
-
-| | |(m²) |(%) |Máx. na Divisa | | |
-
-| | | | |(m) | | |
-
-|ZE Dom Bosco |1,7 |45 |20 |5,0m | |- |
-
-|ZE Alípio de Melo |1,7 |25 |20 |5,0m | |- |
-
-|ZE Salgado Filho |1,7 |25 |20 |5,0m | |- |
-
-|ZE Barreiro |2,0 |25 |20 |9,0m | |- |
-
-|ZE Belvedere |1,5 |90 |20 |5,0m | |Ver § 4º do art. 46 |
-
-|ZE Diamante |1,7 |25 |20 |5,0m | |- |
-
-|ZE Pilar |1,0 |180 |20 |5,0m |5,0 |Ver §§ 5º a 8º do |
-
-| | | | | | |art. 46 |
-
-|ZE São Francisco |1,0 |180 |20 |5,0m |4,0 |Ver § 6º do art. 46 |
-
-|ZE Jatobá |1,0 |180 |20 |5,0m |4,0 |Ver § 6º do art. 46 |
-
-|ZE Engenho Nogueira |1,0 |180 |30 |5,0m |5,0 |Ver §§ 6º e 7º do |
-
-| | | | | | |art. 46 |
+| ZONEAMENTO | CA (1) | QT(2) | TP (3) | Altura | Afast. Frontal (m) | OBS. |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | (m²) | (%) | Máx. na Divisa |  |  |
+|  |  |  |  | (m) |  |  |
+| ZE Venda Nova | 1,7 | 25 | 20 | 9,0 m |  | - |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  | Cf. arts. 51 a 53 da |  |
+|  |  |  |  |  | Lei nº 7166/96 |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  | Cf. arts. 51 a 53 da |  |
+|  |  |  |  |  | Lei nº 7166/96 |  |
+| ZE Vilarinho | 1,7 | 25 | 20 | 5,0 m |  | - |
+| ZE Pampulha | 1,7 | 2.500 | 20 | 5,0 m |  | Ver §§ 2º e 3º do |
+|  |  |  |  |  |  | art. 46 |
+| ZE Waldomiro Lobo | 1,7 | 25 | 20 | 5,0 m |  | - |
+| ZE Carlos Luz | 1,7 | 25 | 20 | 5,0 m |  | - |
+| ZE José Cândido da Silveira | 1,7 | 25 | 20 | 5,0 m |  | - |
+| ZONEAMENTO | CA (1) | QT(2) | TP (3) | Altura |  | OBS. |
+|  |  | (m²) | (%) | Máx. na Divisa |  |  |
+|  |  |  |  | (m) |  |  |
+| ZE Dom Bosco | 1,7 | 45 | 20 | 5,0m |  | - |
+| ZE Alípio de Melo | 1,7 | 25 | 20 | 5,0m |  | - |
+| ZE Salgado Filho | 1,7 | 25 | 20 | 5,0m |  | - |
+| ZE Barreiro | 2,0 | 25 | 20 | 9,0m |  | - |
+| ZE Belvedere | 1,5 | 90 | 20 | 5,0m |  | Ver § 4º do art. 46 |
+| ZE Diamante | 1,7 | 25 | 20 | 5,0m |  | - |
+| ZE Pilar | 1,0 | 180 | 20 | 5,0m | 5,0 | Ver §§ 5º a 8º do |
+|  |  |  |  |  |  | art. 46 |
+| ZE São Francisco | 1,0 | 180 | 20 | 5,0m | 4,0 | Ver § 6º do art. 46 |
+| ZE Jatobá | 1,0 | 180 | 20 | 5,0m | 4,0 | Ver § 6º do art. 46 |
+| ZE Engenho Nogueira | 1,0 | 180 | 30 | 5,0m | 5,0 | Ver §§ 6º e 7º do |
+|  |  |  |  |  |  | art. 46 |
 
 1) Coeficiente de Aproveitamento
 
@@ -1998,65 +1902,37 @@ LEI Nº 8.137/2.000
 
 Anexo IV com redação dada pela Lei nº 9.959, de 20/7/2010 (Art. 171, XVIII e § 2º, e Anexo XVIII)
 
-|IDENTIFICAÇÃO DA ZE |Coeficiente de |Quota |Taxa de Permeabilidade |Altura Máxima |
-
-| |Aproveitamento |Básica de | |na Divisa |
-
-| | |Terreno por | | |
-
-| | |Unidade | | |
-
-| | |Habitacional | | |
-
-|"Estação Venda Nova": localizada na região de Venda |1,7 |25 m²/un |20 % |9,0 m |
-
-|Nova, com frente para a Rua Padre Pedro Pinto, | | | | |
-
-|identificada à folha 8**. | | | | |
-
-|"Estação Vilarinho": localizada na região de Venda |1,7 |25 m²/un |20 % |5,0 m |
-
-|Nova, na confluência das avenidas Cristiano Machado | | | | |
-
-|e Vilarinho, identificada à folha 9**. | | | | |
-
-|"Estação Pampulha": localizada na região da |1,7 |2500 m²/un |20 % |5,0 m |
-
-|Pampulha, na interseção das avenidas Pedro I e | | | | |
-
-|Portugal, identificada à folha 14** (*) | | | | |
-
-|“Estação Carlos Luz": localizada na região de |1,7 |25 m²/un |20 % |5,0 m |
-
-|Engenho Nogueira, indicada para estação de | | | | |
-
-|integração de transporte coletivo e centro | | | | |
-
-|tecnológico, identificada à folha 28**. | | | | |
-
-|"Estação José Cândido da Silveira: localizada no |1,7 |25 m²/un |20 % |5,0 m |
-
-|bairro Santa Inês, identificada à folha 30**. | | | | |
-
-|“Estação Alípio de Melo": localizada no bairro |1,7 |25 m²/un |20 % |5,0 m |
-
-|Manacás, destinada a estação de integração de | | | | |
-
-|transporte coletivo, identificada à folha 33**. | | | | |
-
-|"Estação Salgado Filho": localizada no bairro |1,7 |25 m²/un |20 % |5,0 m |
-
-|Salgado Filho, identificada à folha 45**. | | | | |
-
-|"Estação Barreiro": localizada na região do |2,0 |25 m²/un |20 % |9,0 m |
-
-|Barreiro, identificada à folha | | | | |
-
-|51**. | | | | |
-
-|"Estação Diamante", correspondente à Estação |1,7 |25 m²/un |20 % |5,0 m |
-
-|Diamante e sua expansão, identificada à folha 57**. | | | | |
+| IDENTIFICAÇÃO DA ZE | Coeficiente de | Quota | Taxa de Permeabilidade | Altura Máxima |
+| --- | --- | --- | --- | --- |
+|  | Aproveitamento | Básica de |  | na Divisa |
+|  |  | Terreno por |  |  |
+|  |  | Unidade |  |  |
+|  |  | Habitacional |  |  |
+| "Estação Venda Nova": localizada na região de Venda | 1,7 | 25 m²/un | 20 % | 9,0 m |
+| Nova, com frente para a Rua Padre Pedro Pinto, |  |  |  |  |
+| identificada à folha 8**. |  |  |  |  |
+| "Estação Vilarinho": localizada na região de Venda | 1,7 | 25 m²/un | 20 % | 5,0 m |
+| Nova, na confluência das avenidas Cristiano Machado |  |  |  |  |
+| e Vilarinho, identificada à folha 9**. |  |  |  |  |
+| "Estação Pampulha": localizada na região da | 1,7 | 2500 m²/un | 20 % | 5,0 m |
+| Pampulha, na interseção das avenidas Pedro I e |  |  |  |  |
+| Portugal, identificada à folha 14** (*) |  |  |  |  |
+| “Estação Carlos Luz": localizada na região de | 1,7 | 25 m²/un | 20 % | 5,0 m |
+| Engenho Nogueira, indicada para estação de |  |  |  |  |
+| integração de transporte coletivo e centro |  |  |  |  |
+| tecnológico, identificada à folha 28**. |  |  |  |  |
+| "Estação José Cândido da Silveira: localizada no | 1,7 | 25 m²/un | 20 % | 5,0 m |
+| bairro Santa Inês, identificada à folha 30**. |  |  |  |  |
+| “Estação Alípio de Melo": localizada no bairro | 1,7 | 25 m²/un | 20 % | 5,0 m |
+| Manacás, destinada a estação de integração de |  |  |  |  |
+| transporte coletivo, identificada à folha 33**. |  |  |  |  |
+| "Estação Salgado Filho": localizada no bairro | 1,7 | 25 m²/un | 20 % | 5,0 m |
+| Salgado Filho, identificada à folha 45**. |  |  |  |  |
+| "Estação Barreiro": localizada na região do | 2,0 | 25 m²/un | 20 % | 9,0 m |
+| Barreiro, identificada à folha |  |  |  |  |
+| 51**. |  |  |  |  |
+| "Estação Diamante", correspondente à Estação | 1,7 | 25 m²/un | 20 % | 5,0 m |
+| Diamante e sua expansão, identificada à folha 57**. |  |  |  |  |
 
 (*) Na ZE identificada como Estação Pampulha, a altura máxima das edificações é de 12m (doze metros), medidos a partir do terreno natural, em qualquer ponto. O parcelamento e a ocupação do solo ficam condicionados a autorização dos órgãos responsáveis pelo patrimônio cultural.
 
@@ -2070,867 +1946,448 @@ CONSTANTE DO ANEXO X DA LEI Nº 7.166 DE 1996
 
 1 - S E R V I Ç O S
 
-|GRUPO I |GRUPO II |GRUPO III |
-
-| |(Área < 300m², com exceções) | |
-
-|INSTITUIÇÕES DE CRÉDITO, SEGURO, CAPITALIZAÇÃO, COMÉRCIO E ADMINISTRAÇÃO DE VALORES IMOBILIÁRIOS |
-
-|* Administrações de Loterias |* Banco de Desenvolvimento | |
-
-|* Administrações de Seguros e Resseguros |* Bolsa de Valores | |
-
-|* Administrações de Cartões de Crédito |* Estabelecimentos bancários | |
-
-|* Arrendamento Mercantil | | |
-
-|* Caixas Eletrônicos e Postos de Atendimento | | |
-
-|Bancário | | |
-
-| | | |
-
-|* Casas de Câmbio | | |
-
-|* Crédito Habitacional | | |
-
-|* Distribuidoras e Corretoras de Títulos e Valores| | |
-
-| | | |
-
-|* Fundos de Investimento | | |
-
-|* Instituições de Aplicação Financeira, | | |
-
-|Financiamento, Investimento e Crédito | | |
-
-| | | |
-
-|* Sociedade de Capitalização | | |
-
-|COMÉRCIO E ADMINISTRAÇÃO DE IMÓVEIS |
-
-|(Área < 150m²) | | |
-
-|* Administrações de Imóveis | | |
-
-|* Compra, Venda e Corretagem de Imóveis | | |
-
-|* Empreendimentos Imobiliários | | |
-
-|* Incorporação de Imóveis | | |
-
-| | | |
-
-|SERVIÇOS DE ALOJAMENTO E ALIMENTAÇÃO |
-
-|(Área < 150m² com exceções) | | |
-
-|* Albergues |* Bares, Lanchonetes e Restaurantes |* Apart-Hotéis |
-
-| |( Área ( 30 m² e < 150m² ) | |
-
-|* Bares, Lanchonetes, Restaurantes e Similares | |* Hotéis |
-
-|( Área < 30m² ) | | |
-
-| | |* Motéis |
-
-| | | |
-
-|* Lanches em trailer (Área < 30m² ) | | |
-
-|* Pensões | | |
-
-|* Sorveterias | | |
-
-|SERVIÇOS DOMICILIARES |
-
-|(Área < 100m²) | | |
-
-|* Chaveiros |* Administração de Condomínios |* Buffets |
-
-|* Dedetização |* Escritório de Limpeza e Conservação de |* Casas de Recepção e Salões de Festa |
-
-| |Edificações | |
-
-|* Jardinagem e Paisagismo | | |
-
-|* Lavanderias Self-service |* Lavanderias, Tinturarias | |
-
-|* Locação de Artigos para Festa |* Toalheiros | |
-
-|* Posto de Recebimento de Pequenas Mercadorias | | |
-
-| | | |
-
-|* Produção de Húmus | | |
-
-|SERVIÇOS DE REPARAÇÃO E CONSERVAÇÃO |
-
-|(Área < 100m²) | | |
-
-|* Borracharias |* Capotarias |* Montagem Industrial |
-
-| | |* Recondicionamento de Motores de combustão interna |
-
-|* Montagem de Molduras e Quadros |* Instalação, Reparação e | |
-
-| |Conservação deAcessórios para Veículos, | |
-
-| |Inclusive Som | |
-
-| | | |
-
-|* Recarga de extintores | |* Reparação de Aeronaves |
-
-|* Reparação de Aparelhos Eletrônicos |* Reparação de Baterias e |* Reparação de Embarcações |
-
-| |Acumuladores | |
-
-|* Recondicionamento de peças e acessórios |* Reparação de Veículos e Motocicletas, |* Reparação de Veículos Ferroviários |
-
-| |incluindo lanternagem e pintura | |
-
-| | |* Reparação e Conservação de Máquinas, Aparelhos e |
-
-| | |Equipamentos de Grande Porte |
-
-|* Reparação de armas de fogo | | |
-
-|* Reparação de Artigos de Couro e Similares |* Reparação e Conservação de Máquinas, | |
-
-| |Aparelhos e Equipamentos de Médio Porte | |
-
-| | | |
-
-|* Reparação de Bicicletas | | |
-
-|* Reparação de Instalações de Gás, Elétricase | | |
-
-|Hidráulicas | | |
-
-| | | |
-
-|* Reparação e Conservação de Ferramentas | | |
-
-|* Reparação, Instalação e Manutenção de Taxímetros| | |
-
-|(Área < 400 m²) | | |
-
-| | | |
-
-|* Reparação e Conservação de Máquinas, Aparelhos e| | |
-
-|Equipamentos de Pequeno Porte | | |
-
-| | | |
-
-|* Reparação e Instalação de Antenas | | |
-
-|* Reparação e Instalação de Computadores, | | |
-
-|Periféricos e Impressoras | | |
-
-|* Serviço de Corte e Vinco em Embalagens | | |
-
-|* Serviço de Esterilização | | |
-
-|* Serviço de Montagem de Divisórias | | |
-
-|* Serviço de Montagem de Quiosques | | |
-
-|* Serviço de Reparação de Móveis | | |
-
-|* Serviço Gerais de Pintura,exceto em veículos | | |
-
-| | | |
-
-|* Serviço de Tornearia | | |
-
-|* Serviços de Vidraçaria | | |
-
-|SERVIÇOS PESSOAIS |
-
-|(Área < 100m²) | | |
-
-|* Agência de Casamento |* Academias de Ginástica e |* Serviços Funerários |
-
-| |Esportivas | |
-
-|* Barbeiros | | |
-
-|* Centros de Estética |* Escolas de Dança, Música e Natação | |
-
-|* Confecções e Reparação de Artigos de Vestuário | | |
-
-|sob Medida | | |
-
-| |* Escola de Esportes | |
-
-|* Cursos Aula Particular | | |
-
-|* Cursos Diversos | | |
-
-|* Estilista | | |
-
-|* Escola de Mergulho | | |
-
-|* Estúdios Fotográficos | | |
-
-|* Locação de Artigos de Vestuário | | |
-
-|* Massagens, Saunas, Duchas e Banhos | | |
-
-|* Salões de Beleza | | |
-
-|* Salões de Engraxate | | |
-
-|* Serviço de Tele-informática | | |
-
-|* Serviços Esotéricos | | |
-
-|SERVIÇOS DE DIVERSÃO E COMUNICAÇÃO |
-
-|(Área<100m², com exceções ) | | |
-
-|* Casas Lotéricas |* Cinemas, Teatros e Auditórios |* Autopistas para Diversão |
-
-|* Estúdio de Gravação |* Emissoras de Radiodifusão |* Boates e Danceterias |
-
-|* Locação de Filmes e Discos |* Emissoras de Televisão |* Boliches |
-
-|* Locação de Livros |* Emissoras de Vídeo Comunicação |* Brinquedos Mecânicos e Eletrônicos |
-
-|* Locação de Fitas de Vídeo-Game com até Duas |* Casas de Jogos |* Casas de Shows |
-
-|Máquinas de Vídeo Game | | |
-
-| |* Música Funcional |* Circos |
-
-|* Prestação de Serviços por Telefone ( Área < | |* Drive in |
-
-|150m² ) | | |
-
-| | |* Parques de Diversões |
-
-|* Serviço de Recreação Infantil (Área < 400) | |* Pistas de Patinação |
-
-| | | |
-
-|SERVIÇOS TÉCNICO-PROFISSIONAIS |
-
-|(Área < 150m²) | | |
-
-|* Agências de Publicidade e Propaganda | |* Escritórios com Pátio de Máquinas, Equipamentos e |
-
-| | |Veículos |
-
-| | | |
-
-|* Consultórios | | |
-
-|* Consultórios Veterinários | |* Laboratórios, exceto os incluídosem outros grupos |
-
-|* Empreiteira de Serviços de Construção | | |
-
-| | |* Leiloeiros |
-
-|* Escritórios | | |
-
-|* Estúdios de Escultura, Desenho e Pintura | | |
-
-|Artística | | |
-
-| | | |
-
-|* Laboratório de Prótese Dentária | | |
-
-|* Laboratório Fotográfico | | |
-
-|* Posto de Coleta de Materiais Biológicos | | |
-
-|* Profissionais Autônomos | | |
-
-|* Provedor – INTERNET | | |
-
-|* Serviços de Acupuntura | | |
-
-|* Serviços de Auditoria | | |
-
-|* Serviço de Comunicação e Programação Visual | | |
-
-| | | |
-
-|* Serviços de Decoração | | |
-
-|* Serviços de Informática | | |
-
-|* Serviços Gráficos, Editoriais e de Reprodução| | |
-
-| | | |
-
-|* Serviços de Investigação Particular | | |
-
-|* Serviços de Jornalismo e Comunicação | | |
-
-|* Serviço de Nutricionismo | | |
-
-|* Serviços de Promoção e Organização de Eventos | | |
-
-| | | |
-
-|* Serviço de Serigrafia / Silk- Screen | | |
-
-|* Serviços de Tradução e Documentação | | |
-
-| | | |
-
-|SERVIÇOS AUXILIARES DA AGRICULTURA |
-
-|* Assistência Técnico - Rural Combate a Pragas | |* Locação de Máquinas e Equipamentos Agrícolas |
-
-|* Reflorestamento | | |
-
-| | | |
-
-|SERVIÇOS AUXILIARES DE TRANSPORTE |
-
-|* Auto - Escolas |* Escoltas Especializadas a Veículos |* Garagens de Empresa de Transporte de Passageiros |
-
-|* Locação e Arrendamento de Bicicletas | | |
-
-| |* Estacionamentos e Edifícios- Garagem |* Garagens de Empresa de Transporte de Cargas |
-
-| | | |
-
-| |* Lavajato |* Garagens de Serviço de Guindaste e Reboque |
-
-| |* Posto de serviço de Veículos | |
-
-| |* Prestação de Serviço de Entrega a |* Guarda-Móveis |
-
-| |Domicílio | |
-
-| | |* Locação e Arrendamento de Veículos Automotores |
-
-| |* Transportes de Documentos | |
-
-| |* Transportes em Motocicletas |* Locação e Arrendamento de Veículos Rodoviários e|
-
-| | |Ferroviários, Aeronaves e Embarcações |
-
-| |* Transportes Escolares | |
-
-| | | |
-
-| | |* Locação e Guarda de Caçambas |
-
-| | |* Transporte em Ambulância |
-
-| | |* Transporte e Coleta de Lixo |
-
-| | |* Transporte de Mudança e Valores, com Pátio de |
-
-| | |veículos |
-
-| | | |
-
-|SERVIÇOS AUXILIARES DE INDÚSTRIA E COMÉRCIO |
-
-|(Área < 150m²) | | |
-
-|* Confecção de Carimbos |* Agências de Empregos, Treinamento e |* Locação de Artigos, Aparelhos, Máquinas, e |
-
-| |Seleção |Equipamentos de Grande Porte |
-
-|* Locação de Artigos, Aparelhos, Máquinas e | | |
-
-|Equipamentos de Pequeno Porte | | |
-
-| |* Locação de Aparelhos e Artigos de Uso | |
-
-| |Comercial | |
-
-| | | |
-
-|* Locação de Marcas e Patentes |* Locação de Artigos, Aparelhos, Máquinas | |
-
-| |e Equipamentos de Médio Porte | |
-
-|* Posto de Intermediação de Serviços | | |
-
-| | | |
-
-|* Serviços de Vigilância |* Locação de mão-de-obra | |
-
-| |* Serviço de Lavanderia e Tinturaria para| |
-
-| |Indústria | |
-
-| | | |
-
-|OUTROS SERVIÇOS |
-
-|* Administração de Tickets,Vales, Cartões e Fichas| | |
-
-| | | |
-
-|* Administração de Consórcio | | |
-
-|* Agência de Intercâmbio Cultural | | |
-
-|* Agências de Turismo | | |
-
-|* Locação, Compra e Venda de Telefones | | |
-
-|* Locação e Venda de Telões | | |
-
-|* Gravação, Lapidação e Vitrificação de Jóias e | | |
-
-|pequenos objetos | | |
-
-|* Sedes Administrativas de Empresas | | |
-
-| |* Usos do Grupo I com área superior à |* Usos do Grupo II com área superior à estipulada|
-
-| |estipulada | |
-
-| | | |
+| GRUPO I | GRUPO II | GRUPO III |
+| --- | --- | --- |
+|  | (Área < 300m², com exceções) |  |
+| INSTITUIÇÕES DE CRÉDITO, SEGURO, CAPITALIZAÇÃO, COMÉRCIO E ADMINISTRAÇÃO DE VALORES IMOBILIÁRIOS |  |  |
+| * Administrações de Loterias | * Banco de Desenvolvimento |  |
+| * Administrações de Seguros e Resseguros | * Bolsa de Valores |  |
+| * Administrações de Cartões de Crédito | * Estabelecimentos bancários |  |
+| * Arrendamento Mercantil |  |  |
+| * Caixas Eletrônicos e Postos de Atendimento |  |  |
+| Bancário |  |  |
+|  |  |  |
+| * Casas de Câmbio |  |  |
+| * Crédito Habitacional |  |  |
+| * Distribuidoras e Corretoras de Títulos e Valores |  |  |
+|  |  |  |
+| * Fundos de Investimento |  |  |
+| * Instituições de Aplicação Financeira, |  |  |
+| Financiamento, Investimento e Crédito |  |  |
+|  |  |  |
+| * Sociedade de Capitalização |  |  |
+| COMÉRCIO E ADMINISTRAÇÃO DE IMÓVEIS |  |  |
+| (Área < 150m²) |  |  |
+| * Administrações de Imóveis |  |  |
+| * Compra, Venda e Corretagem de Imóveis |  |  |
+| * Empreendimentos Imobiliários |  |  |
+| * Incorporação de Imóveis |  |  |
+|  |  |  |
+| SERVIÇOS DE ALOJAMENTO E ALIMENTAÇÃO |  |  |
+| (Área < 150m² com exceções) |  |  |
+| * Albergues | * Bares, Lanchonetes e Restaurantes | * Apart-Hotéis |
+|  | ( Área ( 30 m² e < 150m² ) |  |
+| * Bares, Lanchonetes, Restaurantes e Similares |  | * Hotéis |
+| ( Área < 30m² ) |  |  |
+|  |  | * Motéis |
+|  |  |  |
+| * Lanches em trailer (Área < 30m² ) |  |  |
+| * Pensões |  |  |
+| * Sorveterias |  |  |
+| SERVIÇOS DOMICILIARES |  |  |
+| (Área < 100m²) |  |  |
+| * Chaveiros | * Administração de Condomínios | * Buffets |
+| * Dedetização | * Escritório de Limpeza e Conservação de | * Casas de Recepção e Salões de Festa |
+|  | Edificações |  |
+| * Jardinagem e Paisagismo |  |  |
+| * Lavanderias Self-service | * Lavanderias, Tinturarias |  |
+| * Locação de Artigos para Festa | * Toalheiros |  |
+| * Posto de Recebimento de Pequenas Mercadorias |  |  |
+|  |  |  |
+| * Produção de Húmus |  |  |
+| SERVIÇOS DE REPARAÇÃO E CONSERVAÇÃO |  |  |
+| (Área < 100m²) |  |  |
+| * Borracharias | * Capotarias | * Montagem Industrial |
+|  |  | * Recondicionamento de Motores de combustão interna |
+| * Montagem de Molduras e Quadros | * Instalação, Reparação e |  |
+|  | Conservação deAcessórios para Veículos, |  |
+|  | Inclusive Som |  |
+|  |  |  |
+| * Recarga de extintores |  | * Reparação de Aeronaves |
+| * Reparação de Aparelhos Eletrônicos | * Reparação de Baterias e | * Reparação de Embarcações |
+|  | Acumuladores |  |
+| * Recondicionamento de peças e acessórios | * Reparação de Veículos e Motocicletas, | * Reparação de Veículos Ferroviários |
+|  | incluindo lanternagem e pintura |  |
+|  |  | * Reparação e Conservação de Máquinas, Aparelhos e |
+|  |  | Equipamentos de Grande Porte |
+| * Reparação de armas de fogo |  |  |
+| * Reparação de Artigos de Couro e Similares | * Reparação e Conservação de Máquinas, |  |
+|  | Aparelhos e Equipamentos de Médio Porte |  |
+|  |  |  |
+| * Reparação de Bicicletas |  |  |
+| * Reparação de Instalações de Gás, Elétricase |  |  |
+| Hidráulicas |  |  |
+|  |  |  |
+| * Reparação e Conservação de Ferramentas |  |  |
+| * Reparação, Instalação e Manutenção de Taxímetros |  |  |
+| (Área < 400 m²) |  |  |
+|  |  |  |
+| * Reparação e Conservação de Máquinas, Aparelhos e |  |  |
+| Equipamentos de Pequeno Porte |  |  |
+|  |  |  |
+| * Reparação e Instalação de Antenas |  |  |
+| * Reparação e Instalação de Computadores, |  |  |
+| Periféricos e Impressoras |  |  |
+| * Serviço de Corte e Vinco em Embalagens |  |  |
+| * Serviço de Esterilização |  |  |
+| * Serviço de Montagem de Divisórias |  |  |
+| * Serviço de Montagem de Quiosques |  |  |
+| * Serviço de Reparação de Móveis |  |  |
+| * Serviço Gerais de Pintura,exceto em veículos |  |  |
+|  |  |  |
+| * Serviço de Tornearia |  |  |
+| * Serviços de Vidraçaria |  |  |
+| SERVIÇOS PESSOAIS |  |  |
+| (Área < 100m²) |  |  |
+| * Agência de Casamento | * Academias de Ginástica e | * Serviços Funerários |
+|  | Esportivas |  |
+| * Barbeiros |  |  |
+| * Centros de Estética | * Escolas de Dança, Música e Natação |  |
+| * Confecções e Reparação de Artigos de Vestuário |  |  |
+| sob Medida |  |  |
+|  | * Escola de Esportes |  |
+| * Cursos Aula Particular |  |  |
+| * Cursos Diversos |  |  |
+| * Estilista |  |  |
+| * Escola de Mergulho |  |  |
+| * Estúdios Fotográficos |  |  |
+| * Locação de Artigos de Vestuário |  |  |
+| * Massagens, Saunas, Duchas e Banhos |  |  |
+| * Salões de Beleza |  |  |
+| * Salões de Engraxate |  |  |
+| * Serviço de Tele-informática |  |  |
+| * Serviços Esotéricos |  |  |
+| SERVIÇOS DE DIVERSÃO E COMUNICAÇÃO |  |  |
+| (Área<100m², com exceções ) |  |  |
+| * Casas Lotéricas | * Cinemas, Teatros e Auditórios | * Autopistas para Diversão |
+| * Estúdio de Gravação | * Emissoras de Radiodifusão | * Boates e Danceterias |
+| * Locação de Filmes e Discos | * Emissoras de Televisão | * Boliches |
+| * Locação de Livros | * Emissoras de Vídeo Comunicação | * Brinquedos Mecânicos e Eletrônicos |
+| * Locação de Fitas de Vídeo-Game com até Duas | * Casas de Jogos | * Casas de Shows |
+| Máquinas de Vídeo Game |  |  |
+|  | * Música Funcional | * Circos |
+| * Prestação de Serviços por Telefone ( Área < |  | * Drive in |
+| 150m² ) |  |  |
+|  |  | * Parques de Diversões |
+| * Serviço de Recreação Infantil (Área < 400) |  | * Pistas de Patinação |
+|  |  |  |
+| SERVIÇOS TÉCNICO-PROFISSIONAIS |  |  |
+| (Área < 150m²) |  |  |
+| * Agências de Publicidade e Propaganda |  | * Escritórios com Pátio de Máquinas, Equipamentos e |
+|  |  | Veículos |
+|  |  |  |
+| * Consultórios |  |  |
+| * Consultórios Veterinários |  | * Laboratórios, exceto os incluídosem outros grupos |
+| * Empreiteira de Serviços de Construção |  |  |
+|  |  | * Leiloeiros |
+| * Escritórios |  |  |
+| * Estúdios de Escultura, Desenho e Pintura |  |  |
+| Artística |  |  |
+|  |  |  |
+| * Laboratório de Prótese Dentária |  |  |
+| * Laboratório Fotográfico |  |  |
+| * Posto de Coleta de Materiais Biológicos |  |  |
+| * Profissionais Autônomos |  |  |
+| * Provedor – INTERNET |  |  |
+| * Serviços de Acupuntura |  |  |
+| * Serviços de Auditoria |  |  |
+| * Serviço de Comunicação e Programação Visual |  |  |
+|  |  |  |
+| * Serviços de Decoração |  |  |
+| * Serviços de Informática |  |  |
+| * Serviços Gráficos, Editoriais e de Reprodução |  |  |
+|  |  |  |
+| * Serviços de Investigação Particular |  |  |
+| * Serviços de Jornalismo e Comunicação |  |  |
+| * Serviço de Nutricionismo |  |  |
+| * Serviços de Promoção e Organização de Eventos |  |  |
+|  |  |  |
+| * Serviço de Serigrafia / Silk- Screen |  |  |
+| * Serviços de Tradução e Documentação |  |  |
+|  |  |  |
+| SERVIÇOS AUXILIARES DA AGRICULTURA |  |  |
+| * Assistência Técnico - Rural Combate a Pragas |  | * Locação de Máquinas e Equipamentos Agrícolas |
+| * Reflorestamento |  |  |
+|  |  |  |
+| SERVIÇOS AUXILIARES DE TRANSPORTE |  |  |
+| * Auto - Escolas | * Escoltas Especializadas a Veículos | * Garagens de Empresa de Transporte de Passageiros |
+| * Locação e Arrendamento de Bicicletas |  |  |
+|  | * Estacionamentos e Edifícios- Garagem | * Garagens de Empresa de Transporte de Cargas |
+|  |  |  |
+|  | * Lavajato | * Garagens de Serviço de Guindaste e Reboque |
+|  | * Posto de serviço de Veículos |  |
+|  | * Prestação de Serviço de Entrega a | * Guarda-Móveis |
+|  | Domicílio |  |
+|  |  | * Locação e Arrendamento de Veículos Automotores |
+|  | * Transportes de Documentos |  |
+|  | * Transportes em Motocicletas | * Locação e Arrendamento de Veículos Rodoviários e |
+|  |  | Ferroviários, Aeronaves e Embarcações |
+|  | * Transportes Escolares |  |
+|  |  |  |
+|  |  | * Locação e Guarda de Caçambas |
+|  |  | * Transporte em Ambulância |
+|  |  | * Transporte e Coleta de Lixo |
+|  |  | * Transporte de Mudança e Valores, com Pátio de |
+|  |  | veículos |
+|  |  |  |
+| SERVIÇOS AUXILIARES DE INDÚSTRIA E COMÉRCIO |  |  |
+| (Área < 150m²) |  |  |
+| * Confecção de Carimbos | * Agências de Empregos, Treinamento e | * Locação de Artigos, Aparelhos, Máquinas, e |
+|  | Seleção | Equipamentos de Grande Porte |
+| * Locação de Artigos, Aparelhos, Máquinas e |  |  |
+| Equipamentos de Pequeno Porte |  |  |
+|  | * Locação de Aparelhos e Artigos de Uso |  |
+|  | Comercial |  |
+|  |  |  |
+| * Locação de Marcas e Patentes | * Locação de Artigos, Aparelhos, Máquinas |  |
+|  | e Equipamentos de Médio Porte |  |
+| * Posto de Intermediação de Serviços |  |  |
+|  |  |  |
+| * Serviços de Vigilância | * Locação de mão-de-obra |  |
+|  | * Serviço de Lavanderia e Tinturaria para |  |
+|  | Indústria |  |
+|  |  |  |
+| OUTROS SERVIÇOS |  |  |
+| * Administração de Tickets,Vales, Cartões e Fichas |  |  |
+|  |  |  |
+| * Administração de Consórcio |  |  |
+| * Agência de Intercâmbio Cultural |  |  |
+| * Agências de Turismo |  |  |
+| * Locação, Compra e Venda de Telefones |  |  |
+| * Locação e Venda de Telões |  |  |
+| * Gravação, Lapidação e Vitrificação de Jóias e |  |  |
+| pequenos objetos |  |  |
+| * Sedes Administrativas de Empresas |  |  |
+|  | * Usos do Grupo I com área superior à | * Usos do Grupo II com área superior à estipulada |
+|  | estipulada |  |
+|  |  |  |
 
 2 - I N D Ú S T R I A S
 
-|GRUPO I |GRUPO II |GRUPO III |
-
-|* Indústria não poluente até 150 m² de área |* Indústria com até 300 m² de área |* Indústria com área superior a300 m² |
+| GRUPO I | GRUPO II | GRUPO III |
+| --- | --- | --- |
+| * Indústria não poluente até 150 m² de área | * Indústria com até 300 m² de área | * Indústria com área superior a300 m² |
 
 3 - S E R V I Ç O S D E U S O C O L E T I V O
 
-|GRUPO I |GRUPO II |GRUPO III |
-
-|ASSISTÊNCIA SOCIAL |
-
-|(Área < 400m²) | | |
-
-|* Asilos | | |
-
-|* Associação Beneficente | | |
-
-|* Creches | | |
-
-|* Entidades de Assistência e Promoção Social | | |
-
-|* Entidades de Atendimento Não Asilar | | |
-
-|* Orfanatos | | |
-
-|ÓRGÃOS DE PREVIDÊNCIA |
-
-| |* Previdência Privada | |
-
-| |* Previdência Pública | |
-
-|ENTIDADES DE CLASSE E SINDICAIS |
-
-|* Associações |* Confederações | |
-
-|* Sindicatos |* Conselhos | |
-
-| |* Federações | |
-
-| |* Órgãos de Assistência a Empresas | |
-
-|INSTITUIÇÕES CIENTÍFICAS, CULTURAIS, TECNOLÓGICAS E FILOSÓFICAS |
-
-|(Área < 150m²) | | |
-
-|* Aquário |* Museus |* Jardins Botânicos (1) |
-
-|* Associações Culturais, Filosóficas e Científicas | |* Jardins Zoológicos (1) |
-
-| | | |
-
-|* Bibliotecas | | |
-
-|* Centros de Documentação | | |
-
-|* Centros de Pesquisa | | |
-
-|* Estabelecimentos de Cultura Artística | | |
-
-|* Mostras Artesanais e Folclóricas | | |
-
-|ENTIDADES DESPORTIVAS E RECREATIVAS |
-
-| |* Confederações e Federações |* Autódromos (1) |
-
-| |* Ligas Desportivas |* Campings |
-
-| |* Associações Desportiva e Recreativa |* Clubes |
-
-| | |* Clube de Pesca |
-
-| |* Quadra de Esportes |* Clube de Tiro |
-
-| | |* Estádios (1) |
-
-| | |* Hipódromos (1) |
-
-| | |* Kartódromos (1) |
-
-| | |* Praças de Esportes |
-
-|INSTITUIÇÕES RELIGIOSAS |
-
-|(Área < 400m²) | | |
-
-|* Associações Religiosas | | |
-
-|* Congregações Religiosas | | |
-
-|* Órgãos Administrativos de Instituições Religiosas | | |
-
-| | | |
-
-|* Seminários Religiosos | | |
-
-|* Templos | | |
-
-|ORGANIZAÇÕES CÍVICAS E POLÍTICAS |
-
-| |* Comitês Políticos | |
-
-| |* Diretórios Políticos | |
-
-| |* Sedes de Partidos Políticos | |
-
-|DEFESA DE INTERESSE COLETIVO |
-
-|(Área < 150m²) | | |
-
-|* Associações de Bairros |* Cooperativas | |
-
-|* Associações de Moradores |* Diretórios Estudantis | |
-
-| |* Sedes de Movimentos Sociais | |
-
-|SERVIÇOS DE SAÚDE |
-
-|(Área < 150m²) | | |
-
-|* Clínicas Especializadas sem internação |* Bancos de Sangue |* Hospitais |
-
-| |* Clínicas Especializadas com internação |* Hospitais Veterinários |
-
-|* Postos de Saúde Pública | |* Manicômios |
-
-|* Postos de Vacinação |* Clínicas Veterinárias |* Maternidades |
-
-|* Serviços de Enfermagem |* Institutos de Fisioterapia |* Policlínicas |
-
-|* Serviços Veterinários de Embelezamento e |* Laboratórios de Análises Clínicas |* Pronto-Socorros |
-
-|Vacinação | | |
-
-| | |* Serviços Veterinários de Alojamento |
-
-| |* Laboratórios Radiológicos | |
-
-| |* Serviços de Ambulância | |
-
-|SERVIÇOS DE EDUCAÇÃO |
-
-|* Instituto para Portadores de |* Centros de Formação Profissional | |
-
-|Deficiência | | |
-
-| | | |
-
-|* Jardim de Infância e Maternais |* Cursos Supletivos | |
-
-|* Pré-Primário |* Cursos Pré-Vestibular | |
-
-|* Escolas de Excepcionais |* Escolas Superiores | |
-
-|* Escolas de Idiomas | | |
-
-|* Escolas de Primeiro Grau | | |
-
-|* Escolas de Segundo Grau | | |
-
-|SERVIÇOS PÚBLICOS |
-
-|(Área < 150m²) | | |
-
-|* Agências de Correios e Telégrafos |* Cartórios |* Corpo de Bombeiros (1) |
-
-|* Postos Policiais | |* Delegacias de Polícia |
-
-|* Postos de Atendimento de Serviços Públicos | |* Empresas de Energia Elétrica, Telecomunicações,|
-
-| | |Água e Esgotos, Correios e Telégrafos |
-
-| | | |
-
-|* Postos de Identificação | | |
-
-|* Postos Telefônicos | |* Fóruns e Tribunais |
-
-|* Representação Diplomática | |* Sedes de Órgãos Públicos |
-
-|* Representação de Organismos | |* Presídios (1) |
-
-|Internacionais | | |
-
-| | |* Quartéis (1) |
-
-| | |* Instalação Militar |
-
-| | | |
-
-|OUTROS SERVIÇOS |
-
-| |* Capela Velório |* Aterros Sanitários (1) |
-
-| |* Unidades de Reciclagem de Resíduos |* Canil |
-
-| |Sólidos (1) | |
-
-| | |* Cemitérios (1) |
-
-| | |* Centros de Convenções |
-
-| | |* Crematórios |
-
-| | |* Centro de Feiras, Exposições e Outros Eventos |
-
-| | | |
-
-| | |* Necrotérios (1) |
-
-| | |* Terminais Aéreo, Ferroviário e Rodoviário (1) |
-
-| | | |
-
-| | |* Terminais de Carga (1) |
-
-| |* Usos do Grupo I com área superior à | |
-
-| |estipulada | |
+| GRUPO I | GRUPO II | GRUPO III |
+| --- | --- | --- |
+| ASSISTÊNCIA SOCIAL |  |  |
+| (Área < 400m²) |  |  |
+| * Asilos |  |  |
+| * Associação Beneficente |  |  |
+| * Creches |  |  |
+| * Entidades de Assistência e Promoção Social |  |  |
+| * Entidades de Atendimento Não Asilar |  |  |
+| * Orfanatos |  |  |
+| ÓRGÃOS DE PREVIDÊNCIA |  |  |
+|  | * Previdência Privada |  |
+|  | * Previdência Pública |  |
+| ENTIDADES DE CLASSE E SINDICAIS |  |  |
+| * Associações | * Confederações |  |
+| * Sindicatos | * Conselhos |  |
+|  | * Federações |  |
+|  | * Órgãos de Assistência a Empresas |  |
+| INSTITUIÇÕES CIENTÍFICAS, CULTURAIS, TECNOLÓGICAS E FILOSÓFICAS |  |  |
+| (Área < 150m²) |  |  |
+| * Aquário | * Museus | * Jardins Botânicos (1) |
+| * Associações Culturais, Filosóficas e Científicas |  | * Jardins Zoológicos (1) |
+|  |  |  |
+| * Bibliotecas |  |  |
+| * Centros de Documentação |  |  |
+| * Centros de Pesquisa |  |  |
+| * Estabelecimentos de Cultura Artística |  |  |
+| * Mostras Artesanais e Folclóricas |  |  |
+| ENTIDADES DESPORTIVAS E RECREATIVAS |  |  |
+|  | * Confederações e Federações | * Autódromos (1) |
+|  | * Ligas Desportivas | * Campings |
+|  | * Associações Desportiva e Recreativa | * Clubes |
+|  |  | * Clube de Pesca |
+|  | * Quadra de Esportes | * Clube de Tiro |
+|  |  | * Estádios (1) |
+|  |  | * Hipódromos (1) |
+|  |  | * Kartódromos (1) |
+|  |  | * Praças de Esportes |
+| INSTITUIÇÕES RELIGIOSAS |  |  |
+| (Área < 400m²) |  |  |
+| * Associações Religiosas |  |  |
+| * Congregações Religiosas |  |  |
+| * Órgãos Administrativos de Instituições Religiosas |  |  |
+|  |  |  |
+| * Seminários Religiosos |  |  |
+| * Templos |  |  |
+| ORGANIZAÇÕES CÍVICAS E POLÍTICAS |  |  |
+|  | * Comitês Políticos |  |
+|  | * Diretórios Políticos |  |
+|  | * Sedes de Partidos Políticos |  |
+| DEFESA DE INTERESSE COLETIVO |  |  |
+| (Área < 150m²) |  |  |
+| * Associações de Bairros | * Cooperativas |  |
+| * Associações de Moradores | * Diretórios Estudantis |  |
+|  | * Sedes de Movimentos Sociais |  |
+| SERVIÇOS DE SAÚDE |  |  |
+| (Área < 150m²) |  |  |
+| * Clínicas Especializadas sem internação | * Bancos de Sangue | * Hospitais |
+|  | * Clínicas Especializadas com internação | * Hospitais Veterinários |
+| * Postos de Saúde Pública |  | * Manicômios |
+| * Postos de Vacinação | * Clínicas Veterinárias | * Maternidades |
+| * Serviços de Enfermagem | * Institutos de Fisioterapia | * Policlínicas |
+| * Serviços Veterinários de Embelezamento e | * Laboratórios de Análises Clínicas | * Pronto-Socorros |
+| Vacinação |  |  |
+|  |  | * Serviços Veterinários de Alojamento |
+|  | * Laboratórios Radiológicos |  |
+|  | * Serviços de Ambulância |  |
+| SERVIÇOS DE EDUCAÇÃO |  |  |
+| * Instituto para Portadores de | * Centros de Formação Profissional |  |
+| Deficiência |  |  |
+|  |  |  |
+| * Jardim de Infância e Maternais | * Cursos Supletivos |  |
+| * Pré-Primário | * Cursos Pré-Vestibular |  |
+| * Escolas de Excepcionais | * Escolas Superiores |  |
+| * Escolas de Idiomas |  |  |
+| * Escolas de Primeiro Grau |  |  |
+| * Escolas de Segundo Grau |  |  |
+| SERVIÇOS PÚBLICOS |  |  |
+| (Área < 150m²) |  |  |
+| * Agências de Correios e Telégrafos | * Cartórios | * Corpo de Bombeiros (1) |
+| * Postos Policiais |  | * Delegacias de Polícia |
+| * Postos de Atendimento de Serviços Públicos |  | * Empresas de Energia Elétrica, Telecomunicações, |
+|  |  | Água e Esgotos, Correios e Telégrafos |
+|  |  |  |
+| * Postos de Identificação |  |  |
+| * Postos Telefônicos |  | * Fóruns e Tribunais |
+| * Representação Diplomática |  | * Sedes de Órgãos Públicos |
+| * Representação de Organismos |  | * Presídios (1) |
+| Internacionais |  |  |
+|  |  | * Quartéis (1) |
+|  |  | * Instalação Militar |
+|  |  |  |
+| OUTROS SERVIÇOS |  |  |
+|  | * Capela Velório | * Aterros Sanitários (1) |
+|  | * Unidades de Reciclagem de Resíduos | * Canil |
+|  | Sólidos (1) |  |
+|  |  | * Cemitérios (1) |
+|  |  | * Centros de Convenções |
+|  |  | * Crematórios |
+|  |  | * Centro de Feiras, Exposições e Outros Eventos |
+|  |  |  |
+|  |  | * Necrotérios (1) |
+|  |  | * Terminais Aéreo, Ferroviário e Rodoviário (1) |
+|  |  |  |
+|  |  | * Terminais de Carga (1) |
+|  | * Usos do Grupo I com área superior à |  |
+|  | estipulada |  |
 
 (1) Atividades sujeitas ao licenciamento ambiental
 
 4 - U S O C O M E R C I A L
 
-|GRUPO I |GRUPO II |GRUPO III |
-
-|(Área < 150m²) |(Área < 300m²) | |
-
-|* Abrasivos |* Aparelhos de Uso Comercial |* Equipamentos Gráficos |
-
-|* Açougues |* Artigos de Uso Comercial e industrial |* Equipamentos de Energia Solar |
-
-|* Antiquários | |* Explosivos |
-
-|* Aparelhos e Artigos de Cine Foto |* Artigos Gráficos |* Fogos de Artifícios |
-
-|* Aparelhos Elétricos e Eletrônicos |* Artigos Funerários |* Gás Liqüefeito |
-
-|* Aparelhos de Uso Pessoal |* Baterias e Acumuladores |* Gases Especiais ou Naturais |
-
-|* Armas e Munições |* Bebidas |* Granjas com Abatedouros |
-
-|* Aquários e Peixes Ornamentais |* Cestas Básicas |* Lojas de Departamentos |
-
-|* Armarinhos |* Colchões |* Máquinas e Equipamentos de Grande Porte |
-
-|* Artesanato |* Equipamentos de Segurança | |
-
-|* Artigos de Apicultura |* Máquinas de Pequeno Porte Sem Incômodo |* Máquinas e Equipamentos de Pequeno Porte com|
-
-| |Ambiental |Incômodo Ambiental |
-
-|* Artigos de Borracha e Couro | | |
-
-|* Artigos de caça e pesca |* Materiais de Acabamento de Edificações | |
-
-|* Artigos de Cama, Mesa e Banho | |* Máquinas e Equipamentos de Uso Industrial |
-
-|* Artigos Desportivos e Recreativos |* Motocicletas | |
-
-|* Artigos de Escritório |* Móveis |* Produtos Siderúrgicos |
-
-|* Artigos de Gesso |* Peças e acessórios de Máquinas, Motores e |* Shopping Center |
-
-| |Implementos Agrícolas | |
-
-|* Artigos de Uso Doméstico e Pessoal | |* Super e Hipermercados |
-
-|* Artigos de Vestuário |* Peças e Acessórios para Veículos, inclusive |* Tintas |
-
-| |som | |
-
-|* Artigos de Madeira | |* Veículos |
-
-|* Artigos Esotéricos |* Piscinas |* Veículos, Máquinas e Equipamentos Agrícolas |
-
-| | |e da Construção Civil |
-
-|* Artigos, Materiais e Equipamentos Médicos, |* Pneus Automotivos | |
-
-|Odontológicos, laboratoriais e Hospitalares | | |
-
-| |* Postos de Abastecimento | |
-
-| |* Produtos para Agropecuária | |
-
-|* Artigos e Produtos Veterinários |* Produtos Metalúrgicos | |
-
-|* Artigos e Suprimentos de Informática |* Produtos Químicos, Inflamáveis, Tóxicos e | |
-
-| |Venenosos | |
-
-|* Artigos para Camping | | |
-
-|* Artigos para Decoração |* Show Room | |
-
-|* Artigos para Festas |* Toldos | |
-
-|* Artigos para Forração |* Vidraçarias | |
-
-|* Artigos para Pintura Artística |* Materiais de Construção, Madeira e Sucata | |
-
-|* Artigos para Piscina | | |
-
-|* Artigos Religiosos | | |
-
-|* Aves Abatidas | | |
-
-|* Bazares | | |
-
-|* Bicicletas | | |
-
-|* Bijuterias | | |
-
-|* Bomboniere | | |
-
-|* Brinquedos | | |
-
-|* Cestas de alimentação | | |
-
-|* Confeitarias | | |
-
-|* Cosméticos | | |
-
-|* Drogarias e Farmácias | | |
-
-|* Eletrodomésticos | | |
-
-|* Embalagens | | |
-
-| | | |
-
-|* Equipamentos de Pequeno Porte Sem Incômodo | | |
-
-|Ambiental | | |
-
-| | | |
-
-|* Equipamentos de Segurança de Uso Pessoal | | |
-
-|* Equipamentos e Materiais Elétricos e Eletrônicos | | |
-
-| | | |
-
-|* Essências, Corantes e Especiarias | | |
-
-|* Ferragens | | |
-
-|* Ferramentas | | |
-
-|* Fitas e Discos | | |
-
-|* Floriculturas | | |
-
-|* Gelo | | |
-
-|* Instrumentos Musicais | | |
-
-|* Joalherias e Relojoarias | | |
-
-|* Jornais e Revistas | | |
-
-|* Laticínios e Frios | | |
-
-|* Livrarias e Papelarias | | |
-
-|* Lubrificantes | | |
-
-|* Materiais Plásticos | | |
-
-|* Materiais de Serigrafia, Silk – screen | | |
-
-|* Mercearias | | |
-
-|* Metais e Pedras Preciosas | | |
-
-|* Molduras | | |
-
-|* Objetos de Arte e Adornos | | |
-
-|* Óticas | | |
-
-|* Padarias | | |
-
-|* Peças e Acessórios para Bicicletas | | |
-
-| | | |
-
-|* Pequenos Animais não Abatidos | | |
-
-|* Perfumarias | | |
-
-|* Pescados | | |
-
-|* Produtos Hortifrutigranjeiros | | |
-
-|* Presentes | | |
-
-|* Produtos preparados e/ ou comercializados em | | |
-
-|equipamentos compactos tipo: jornais, | | |
-
-|refrigerantes, pipocas, balas, churros, etc. | | |
-
-| | | |
-
-| | | |
-
-|* Produtos de Limpeza | | |
-
-|* Produtos Naturais | | |
-
-|* Programas para Computadores | | |
-
-|* Quitandas | | |
-
-|* Roupas Especiais de Segurança | | |
-
-|* Sapatarias | | |
-
-|* Tabacarias | | |
-
-|* Tecidos | | |
-
-| |* Usos do Grupo I com |* Usos do Grupo II |
-
-| |área > 150 e < 300 m² |com área superior a 300 m² |
-
-| |* Comércio Atacadista dos artigos |* Comércios Atacadistas, Distribuidores e |
-
-| |comercializados pelo comércio Varejista, |Depósitos |
-
-| |Classificado como Uso do Grupo I ou Grupo II | |
+| GRUPO I | GRUPO II | GRUPO III |
+| --- | --- | --- |
+| (Área < 150m²) | (Área < 300m²) |  |
+| * Abrasivos | * Aparelhos de Uso Comercial | * Equipamentos Gráficos |
+| * Açougues | * Artigos de Uso Comercial e industrial | * Equipamentos de Energia Solar |
+| * Antiquários |  | * Explosivos |
+| * Aparelhos e Artigos de Cine Foto | * Artigos Gráficos | * Fogos de Artifícios |
+| * Aparelhos Elétricos e Eletrônicos | * Artigos Funerários | * Gás Liqüefeito |
+| * Aparelhos de Uso Pessoal | * Baterias e Acumuladores | * Gases Especiais ou Naturais |
+| * Armas e Munições | * Bebidas | * Granjas com Abatedouros |
+| * Aquários e Peixes Ornamentais | * Cestas Básicas | * Lojas de Departamentos |
+| * Armarinhos | * Colchões | * Máquinas e Equipamentos de Grande Porte |
+| * Artesanato | * Equipamentos de Segurança |  |
+| * Artigos de Apicultura | * Máquinas de Pequeno Porte Sem Incômodo | * Máquinas e Equipamentos de Pequeno Porte com |
+|  | Ambiental | Incômodo Ambiental |
+| * Artigos de Borracha e Couro |  |  |
+| * Artigos de caça e pesca | * Materiais de Acabamento de Edificações |  |
+| * Artigos de Cama, Mesa e Banho |  | * Máquinas e Equipamentos de Uso Industrial |
+| * Artigos Desportivos e Recreativos | * Motocicletas |  |
+| * Artigos de Escritório | * Móveis | * Produtos Siderúrgicos |
+| * Artigos de Gesso | * Peças e acessórios de Máquinas, Motores e | * Shopping Center |
+|  | Implementos Agrícolas |  |
+| * Artigos de Uso Doméstico e Pessoal |  | * Super e Hipermercados |
+| * Artigos de Vestuário | * Peças e Acessórios para Veículos, inclusive | * Tintas |
+|  | som |  |
+| * Artigos de Madeira |  | * Veículos |
+| * Artigos Esotéricos | * Piscinas | * Veículos, Máquinas e Equipamentos Agrícolas |
+|  |  | e da Construção Civil |
+| * Artigos, Materiais e Equipamentos Médicos, | * Pneus Automotivos |  |
+| Odontológicos, laboratoriais e Hospitalares |  |  |
+|  | * Postos de Abastecimento |  |
+|  | * Produtos para Agropecuária |  |
+| * Artigos e Produtos Veterinários | * Produtos Metalúrgicos |  |
+| * Artigos e Suprimentos de Informática | * Produtos Químicos, Inflamáveis, Tóxicos e |  |
+|  | Venenosos |  |
+| * Artigos para Camping |  |  |
+| * Artigos para Decoração | * Show Room |  |
+| * Artigos para Festas | * Toldos |  |
+| * Artigos para Forração | * Vidraçarias |  |
+| * Artigos para Pintura Artística | * Materiais de Construção, Madeira e Sucata |  |
+| * Artigos para Piscina |  |  |
+| * Artigos Religiosos |  |  |
+| * Aves Abatidas |  |  |
+| * Bazares |  |  |
+| * Bicicletas |  |  |
+| * Bijuterias |  |  |
+| * Bomboniere |  |  |
+| * Brinquedos |  |  |
+| * Cestas de alimentação |  |  |
+| * Confeitarias |  |  |
+| * Cosméticos |  |  |
+| * Drogarias e Farmácias |  |  |
+| * Eletrodomésticos |  |  |
+| * Embalagens |  |  |
+|  |  |  |
+| * Equipamentos de Pequeno Porte Sem Incômodo |  |  |
+| Ambiental |  |  |
+|  |  |  |
+| * Equipamentos de Segurança de Uso Pessoal |  |  |
+| * Equipamentos e Materiais Elétricos e Eletrônicos |  |  |
+|  |  |  |
+| * Essências, Corantes e Especiarias |  |  |
+| * Ferragens |  |  |
+| * Ferramentas |  |  |
+| * Fitas e Discos |  |  |
+| * Floriculturas |  |  |
+| * Gelo |  |  |
+| * Instrumentos Musicais |  |  |
+| * Joalherias e Relojoarias |  |  |
+| * Jornais e Revistas |  |  |
+| * Laticínios e Frios |  |  |
+| * Livrarias e Papelarias |  |  |
+| * Lubrificantes |  |  |
+| * Materiais Plásticos |  |  |
+| * Materiais de Serigrafia, Silk – screen |  |  |
+| * Mercearias |  |  |
+| * Metais e Pedras Preciosas |  |  |
+| * Molduras |  |  |
+| * Objetos de Arte e Adornos |  |  |
+| * Óticas |  |  |
+| * Padarias |  |  |
+| * Peças e Acessórios para Bicicletas |  |  |
+|  |  |  |
+| * Pequenos Animais não Abatidos |  |  |
+| * Perfumarias |  |  |
+| * Pescados |  |  |
+| * Produtos Hortifrutigranjeiros |  |  |
+| * Presentes |  |  |
+| * Produtos preparados e/ ou comercializados em |  |  |
+| equipamentos compactos tipo: jornais, |  |  |
+| refrigerantes, pipocas, balas, churros, etc. |  |  |
+|  |  |  |
+|  |  |  |
+| * Produtos de Limpeza |  |  |
+| * Produtos Naturais |  |  |
+| * Programas para Computadores |  |  |
+| * Quitandas |  |  |
+| * Roupas Especiais de Segurança |  |  |
+| * Sapatarias |  |  |
+| * Tabacarias |  |  |
+| * Tecidos |  |  |
+|  | * Usos do Grupo I com | * Usos do Grupo II |
+|  | área > 150 e < 300 m² | com área superior a 300 m² |
+|  | * Comércio Atacadista dos artigos | * Comércios Atacadistas, Distribuidores e |
+|  | comercializados pelo comércio Varejista, | Depósitos |
+|  | Classificado como Uso do Grupo I ou Grupo II |  |
 
 ANEXO VI DA LEI Nº 8.137
 
@@ -2940,1141 +2397,592 @@ Anexo VI revogado pela Lei nº 9.959, de 20/7/2010 (Art. 175, XXXI)
 
 1. SERVIÇOS
 
-|ATIVIDADE |Tipos de Repercussão |Medidas Mitigadoras |
-
-| |(Lei nº 7.166, art. 66) |(Art. 97 desta Lei) |
-
-| | |Retificado em |
-
-| | |28/12/2000 |
-
-|INSTITUIÇÕES DE CRÉDITO, SEGURO, CAPITALIZAÇÃO, COMÉRCIO E ADMINISTRAÇÃO DE VALORES IMOBILIÁRIOS |
-
-|* Estabelecimentos bancários |IV |h, i |
-
-|SERVIÇOS DE ALOJAMENTO E ALIMENTAÇÃO |
-
-|* Bares, Lanchonetes, Restaurantes e Similares |IV, V, VI |h, l, o, q |
-
-|* Lanches em Trailer (Área >150m² ) |V, VI |l, o |
-
-|* Apart-Hotéis |V, VI |h, l, o, q |
-
-|* Hotéis e Motéis |IV, V, VI |h, i, l, o, q |
-
-|SERVIÇOS DOMICILIARES |
-
-|* Dedetização |V |l |
-
-|* Lavanderias, Tinturarias |IV, V, VI |h, l, o, q |
-
-|* Toalheiros |IV, V, VI |h, l, o, q |
-
-|* Buffets |IV, V, VI |h, l, o,q |
-
-|* Casas de Recepção e Salões de Festa |IV, V, VI |h, i, l, o, q |
-
-|SERVIÇOS DE REPARAÇÃO E CONSERVAÇÃO |
-
-|* Reparação e Conservação de Artigos, Aparelhos, Máquinas e Equipamentos de Pequeno |V, VI |o, q |
-
-|Porte | | |
-
-|* Serviços de Vidraçaria |V, VI |l, q |
-
-|* Serviços de Montagem de Divisórias |VI |q |
-
-|* Reparação e Conservação de Artigos, Aparelhos, Máquinas e Equipamentos |IV, V, VI |h, l, o, q |
-
-|de Médio Porte | | |
-
-|* Reparação de Veículos e Motocicletas, incluindo lanternagem e pintura |IV, V, VI |h, l, o, q |
-
-|* Reparação e Conservação de Artigos, Aparelhos, Máquinas e Equipamentos |IV, V, VI |h, l, o, q |
-
-|de Grande Porte | | |
-
-|* Montagem Industrial |IV, V, VI |h, l, o, q |
-
-|* Recondicionamento de Motores de Combustão Interna |IV, V, VI |l, o, q |
-
-|* Reparação de Aeronaves |IV, V, VI |h, i, l ,o, q |
-
-|* Reparação de Embarcações |IV, V, VI |h, l, o, q |
-
-|* Reparação de Veículos Ferroviários |IV, V, VI |h, l, o, q |
-
-|SERVIÇOS PESSOAIS |
-
-|* Cursos diversos (área >100m²) |IV, VI |h,. l, o, q |
-
-|Massagens, Saunas, Duchas, Banhos |IV, V, VI |h, l, o, q |
-
-|(área >100m²) | | |
-
-|* Academias de Ginástica e Esportivas |IV, VI |h, q |
-
-|* Escolas de Dança, Música e Natação |IV, V, VI |h, l, q |
-
-|SERVIÇOS DE DIVERSÃO E COMUNICAÇÃO |
-
-|Locação de Filmes e Discos |IV |H |
-
-|(área > 100m²) | | |
-
-|* Locação de Fitas de Vídeo-Game (área >100m²) |IV |H |
-
-|* Cinemas, Teatros e Auditórios |IV, VI |h, i, q |
-
-|* Emissoras de Radiodifusão e Televisão |IV, VI |h, q |
-
-|* Casas de Jogos |IV, VI |h, q |
-
-|* Música Funcional |VI |q |
-
-|* Autopistas para Diversão |V, VI |l, q, q |
-
-|* Boates e Danceterias |IV, VI, V |h, i, l, o, q |
-
-|* Boliches |IV,VI, V |h, i, l, o, q |
-
-|* Brinquedos Mecânicos e Eletrônicos |VI |q |
-
-|* Casas de Show |IV, V, VI |h, i , l, q, o |
-
-|* Circos |IV, V, VI |h, l, o, q |
-
-|* Drive-in |IV |h |
-
-|* Parques de Diversões |IV, V, VI |h, l, o, q |
-
-|* Pistas de Patinação |IV, V, VI |l, q, h |
-
-|SERVIÇOS TÉCNICO – PROFISSIONAIS |
-
-|* Consultórios Veterinários |V, VI |o, q |
-
-|* Serviços Gráficos, Editoriais e de Reprodução |IV, V, VI |h, l, q ,o, q |
-
-|* Escritórios com Pátio de Máquinas, Equipamentos e Veículos |V, VI |l, o, q |
-
-|* Laboratórios |V, VI |l, o, q |
-
-|SERVIÇOS AUXILIARES DA AGRICULTURA |
-
-|* Locação de Máquinas e Equipamentos Agrícolas |IV |h |
-
-|SERVIÇOS AUXILIARES DE TRANSPORTE |
-
-|* Estacionamentos e Edifícios- Garagem |V, VI |h, l, o, q |
-
-|* Postos de Abastecimento e Serviço de Veículos |IV, V, VI |h, l, o, q |
-
-|* Garagens de Empresa de Transporte de Passageiros |IV, V, VI |h, l, o, q |
-
-|* Garagens de Empresa de Transporte de Cargas |IV, V, VI |h, l, o, q |
-
-|* Garagens de Serviço de Guindaste e Reboque |IV, V, VI |h, l, o, q |
-
-|* Guarda-Móveis |IV |h |
-
-|* Locação e Arrendamento de Veículos Rodoviários e Ferroviários, Aeronaves e |IV |h |
-
-|Embarcações | | |
-
-|* Transporte de Mudança e Valores, com pátio de veículos |V, VI |o, q |
-
-|* Transporte e Coleta de Lixo |V, VI |o, q |
-
-|SERVIÇOS AUXILIARES DE INDÚSTRIA E COMÉRCIO |
-
-|* Locação de Máquinas |IV |h |
-
-|OUTROS SERVIÇOS |
-
-|* Gravação |V, VI |l, m, o, q |
-
-|* Lapidação |V, VI |l, m, o, q |
-
-|* Vitrificação |V, VI |l, m, o, q |
-
-|USOS DOS GRUPOS I E II COM ÁREA SUPERIOR A ESTIPULADA |De acordo com item similar de |
-
-| |uso |
+| ATIVIDADE | Tipos de Repercussão | Medidas Mitigadoras |
+| --- | --- | --- |
+|  | (Lei nº 7.166, art. 66) | (Art. 97 desta Lei) |
+|  |  | Retificado em |
+|  |  | 28/12/2000 |
+| INSTITUIÇÕES DE CRÉDITO, SEGURO, CAPITALIZAÇÃO, COMÉRCIO E ADMINISTRAÇÃO DE VALORES IMOBILIÁRIOS |  |  |
+| * Estabelecimentos bancários | IV | h, i |
+| SERVIÇOS DE ALOJAMENTO E ALIMENTAÇÃO |  |  |
+| * Bares, Lanchonetes, Restaurantes e Similares | IV, V, VI | h, l, o, q |
+| * Lanches em Trailer (Área >150m² ) | V, VI | l, o |
+| * Apart-Hotéis | V, VI | h, l, o, q |
+| * Hotéis e Motéis | IV, V, VI | h, i, l, o, q |
+| SERVIÇOS DOMICILIARES |  |  |
+| * Dedetização | V | l |
+| * Lavanderias, Tinturarias | IV, V, VI | h, l, o, q |
+| * Toalheiros | IV, V, VI | h, l, o, q |
+| * Buffets | IV, V, VI | h, l, o,q |
+| * Casas de Recepção e Salões de Festa | IV, V, VI | h, i, l, o, q |
+| SERVIÇOS DE REPARAÇÃO E CONSERVAÇÃO |  |  |
+| * Reparação e Conservação de Artigos, Aparelhos, Máquinas e Equipamentos de Pequeno | V, VI | o, q |
+| Porte |  |  |
+| * Serviços de Vidraçaria | V, VI | l, q |
+| * Serviços de Montagem de Divisórias | VI | q |
+| * Reparação e Conservação de Artigos, Aparelhos, Máquinas e Equipamentos | IV, V, VI | h, l, o, q |
+| de Médio Porte |  |  |
+| * Reparação de Veículos e Motocicletas, incluindo lanternagem e pintura | IV, V, VI | h, l, o, q |
+| * Reparação e Conservação de Artigos, Aparelhos, Máquinas e Equipamentos | IV, V, VI | h, l, o, q |
+| de Grande Porte |  |  |
+| * Montagem Industrial | IV, V, VI | h, l, o, q |
+| * Recondicionamento de Motores de Combustão Interna | IV, V, VI | l, o, q |
+| * Reparação de Aeronaves | IV, V, VI | h, i, l ,o, q |
+| * Reparação de Embarcações | IV, V, VI | h, l, o, q |
+| * Reparação de Veículos Ferroviários | IV, V, VI | h, l, o, q |
+| SERVIÇOS PESSOAIS |  |  |
+| * Cursos diversos (área >100m²) | IV, VI | h,. l, o, q |
+| Massagens, Saunas, Duchas, Banhos | IV, V, VI | h, l, o, q |
+| (área >100m²) |  |  |
+| * Academias de Ginástica e Esportivas | IV, VI | h, q |
+| * Escolas de Dança, Música e Natação | IV, V, VI | h, l, q |
+| SERVIÇOS DE DIVERSÃO E COMUNICAÇÃO |  |  |
+| Locação de Filmes e Discos | IV | H |
+| (área > 100m²) |  |  |
+| * Locação de Fitas de Vídeo-Game (área >100m²) | IV | H |
+| * Cinemas, Teatros e Auditórios | IV, VI | h, i, q |
+| * Emissoras de Radiodifusão e Televisão | IV, VI | h, q |
+| * Casas de Jogos | IV, VI | h, q |
+| * Música Funcional | VI | q |
+| * Autopistas para Diversão | V, VI | l, q, q |
+| * Boates e Danceterias | IV, VI, V | h, i, l, o, q |
+| * Boliches | IV,VI, V | h, i, l, o, q |
+| * Brinquedos Mecânicos e Eletrônicos | VI | q |
+| * Casas de Show | IV, V, VI | h, i , l, q, o |
+| * Circos | IV, V, VI | h, l, o, q |
+| * Drive-in | IV | h |
+| * Parques de Diversões | IV, V, VI | h, l, o, q |
+| * Pistas de Patinação | IV, V, VI | l, q, h |
+| SERVIÇOS TÉCNICO – PROFISSIONAIS |  |  |
+| * Consultórios Veterinários | V, VI | o, q |
+| * Serviços Gráficos, Editoriais e de Reprodução | IV, V, VI | h, l, q ,o, q |
+| * Escritórios com Pátio de Máquinas, Equipamentos e Veículos | V, VI | l, o, q |
+| * Laboratórios | V, VI | l, o, q |
+| SERVIÇOS AUXILIARES DA AGRICULTURA |  |  |
+| * Locação de Máquinas e Equipamentos Agrícolas | IV | h |
+| SERVIÇOS AUXILIARES DE TRANSPORTE |  |  |
+| * Estacionamentos e Edifícios- Garagem | V, VI | h, l, o, q |
+| * Postos de Abastecimento e Serviço de Veículos | IV, V, VI | h, l, o, q |
+| * Garagens de Empresa de Transporte de Passageiros | IV, V, VI | h, l, o, q |
+| * Garagens de Empresa de Transporte de Cargas | IV, V, VI | h, l, o, q |
+| * Garagens de Serviço de Guindaste e Reboque | IV, V, VI | h, l, o, q |
+| * Guarda-Móveis | IV | h |
+| * Locação e Arrendamento de Veículos Rodoviários e Ferroviários, Aeronaves e | IV | h |
+| Embarcações |  |  |
+| * Transporte de Mudança e Valores, com pátio de veículos | V, VI | o, q |
+| * Transporte e Coleta de Lixo | V, VI | o, q |
+| SERVIÇOS AUXILIARES DE INDÚSTRIA E COMÉRCIO |  |  |
+| * Locação de Máquinas | IV | h |
+| OUTROS SERVIÇOS |  |  |
+| * Gravação | V, VI | l, m, o, q |
+| * Lapidação | V, VI | l, m, o, q |
+| * Vitrificação | V, VI | l, m, o, q |
+| USOS DOS GRUPOS I E II COM ÁREA SUPERIOR A ESTIPULADA | De acordo com item similar de |  |
+|  | uso |  |
 
 2. INDÚSTRIAS
 
-| ATIVIDADE |Tipos de Repercussão |Medidas Mitigadoras |
-
-| |(Lei nº 7.166, art. 66) |(Art. 97 desta Lei) |
-
-| | |Retificado em |
-
-| | |28/12/2000 |
-
-|* Indústrias em geral |IV, V, VI |h, i, l, m, n, o, p, q |
+| ATIVIDADE | Tipos de Repercussão | Medidas Mitigadoras |
+| --- | --- | --- |
+|  | (Lei nº 7.166, art. 66) | (Art. 97 desta Lei) |
+|  |  | Retificado em |
+|  |  | 28/12/2000 |
+| * Indústrias em geral | IV, V, VI | h, i, l, m, n, o, p, q |
 
 3. SERVIÇOS DE USO COLETIVO
 
-| ATIVIDADE |Tipos de Repercussão |Medidas Mitigadoras |
-
-| |(Lei nº 7.166, art. 66) |(Art. 97 desta Lei) |
-
-| | |Retificado em |
-
-| | |28/12/2000 |
-
-|ENTIDADES DESPORTIVAS E RECREATIVAS |
-
-|* Associações Desportiva e Recreativa |VI, IV |q, h |
-
-|* Quadra de Esportes |VI, IV |q, m |
-
-|* Clubes |VI, IV |q, h |
-
-|* Praças de Esportes |VI, IV |q, m |
-
-|SERVIÇOS DE SAÚDE |
-
-|* Clínicas Especializadas |V, VI |o, p, q |
-
-|* Clínicas Veterinárias |V, VI |O, q |
-
-|* Institutos de Fisioterapia |V |p |
-
-|* Serviços Veterinários de Embelezamento e Vacinação |V, VI |o, q |
-
-|* Laboratórios de Análises Clínicas |V, VI |o, n, q |
-
-|* Laboratórios Radiológicos |V |p |
-
-|* Hospitais |IV, V, VI |h, i, l, n, o, p, q, a |
-
-|* Hospitais Veterinários |V, VI |o, n, p, q |
-
-|* Manicômios |IV, V, VI |h, i, l, o, p, q, a |
-
-|* Maternidades |IV, V, VI |h, l, n, p, o, q, a |
-
-|* Policlínicas |IV, V, VI |h, n, p, o, q, a |
-
-|* Pronto-Socorros |IV, V, VI |h, l, o, n, p, q, a, i |
-
-|* Serviços Veterinários de Alojamento |V, VI |o, q |
-
-|SERVIÇOS DE EDUCAÇÃO |
-
-|Jardim de Infância e Maternais |IV |h |
-
-|(área > 400m2) | | |
-
-|* Pré-Primário (área > 400m2) |IV |h |
-
-|* Escolas de Excepcionais |IV |h |
-
-|* Escolas de Idiomas |IV |h |
-
-|* Escolas de Primeiro Grau |IV |h |
-
-|* Escolas de Segundo Grau |IV |h |
-
-|* Centros de Formação Profissional |IV, VI |h, q |
-
-|* Cursos Pré-Vestibular |IV |h |
-
-|* Cursos Supletivos |IV |h |
-
-|* Escolas Superiores |IV |h |
-
-|SERVIÇOS PÚBLICOS |
-
-|Agência de Correios e Telégrafos |IV |h |
-
-|(área > 150m2) | | |
-
-|* Empresas de Energia Elétrica, Telecomunicações, Água e Esgoto, Correios e Telégrafos|IV |h |
-
-|USOS DO GRUPO II COM ÁREAS SUPERIORES ÀS ESTIPULADAS |De acordo com item similar de uso|
+| ATIVIDADE | Tipos de Repercussão | Medidas Mitigadoras |
+| --- | --- | --- |
+|  | (Lei nº 7.166, art. 66) | (Art. 97 desta Lei) |
+|  |  | Retificado em |
+|  |  | 28/12/2000 |
+| ENTIDADES DESPORTIVAS E RECREATIVAS |  |  |
+| * Associações Desportiva e Recreativa | VI, IV | q, h |
+| * Quadra de Esportes | VI, IV | q, m |
+| * Clubes | VI, IV | q, h |
+| * Praças de Esportes | VI, IV | q, m |
+| SERVIÇOS DE SAÚDE |  |  |
+| * Clínicas Especializadas | V, VI | o, p, q |
+| * Clínicas Veterinárias | V, VI | O, q |
+| * Institutos de Fisioterapia | V | p |
+| * Serviços Veterinários de Embelezamento e Vacinação | V, VI | o, q |
+| * Laboratórios de Análises Clínicas | V, VI | o, n, q |
+| * Laboratórios Radiológicos | V | p |
+| * Hospitais | IV, V, VI | h, i, l, n, o, p, q, a |
+| * Hospitais Veterinários | V, VI | o, n, p, q |
+| * Manicômios | IV, V, VI | h, i, l, o, p, q, a |
+| * Maternidades | IV, V, VI | h, l, n, p, o, q, a |
+| * Policlínicas | IV, V, VI | h, n, p, o, q, a |
+| * Pronto-Socorros | IV, V, VI | h, l, o, n, p, q, a, i |
+| * Serviços Veterinários de Alojamento | V, VI | o, q |
+| SERVIÇOS DE EDUCAÇÃO |  |  |
+| Jardim de Infância e Maternais | IV | h |
+| (área > 400m2) |  |  |
+| * Pré-Primário (área > 400m2) | IV | h |
+| * Escolas de Excepcionais | IV | h |
+| * Escolas de Idiomas | IV | h |
+| * Escolas de Primeiro Grau | IV | h |
+| * Escolas de Segundo Grau | IV | h |
+| * Centros de Formação Profissional | IV, VI | h, q |
+| * Cursos Pré-Vestibular | IV | h |
+| * Cursos Supletivos | IV | h |
+| * Escolas Superiores | IV | h |
+| SERVIÇOS PÚBLICOS |  |  |
+| Agência de Correios e Telégrafos | IV | h |
+| (área > 150m2) |  |  |
+| * Empresas de Energia Elétrica, Telecomunicações, Água e Esgoto, Correios e Telégrafos | IV | h |
+| USOS DO GRUPO II COM ÁREAS SUPERIORES ÀS ESTIPULADAS | De acordo com item similar de uso |  |
 
 4. USO COMERCIAL
 
-|ATIVIDADE |Tipos de Repercussão |Medidas Mitigadoras |
-
-| |(Lei nº 7.166, art. 66) |(Art. 97 desta Lei) |
-
-| | |Retificado em |
-
-| | |28/12/2000 |
-
-|* Açougues |V, VI |o, q |
-
-|* Animais |V, VI |o, q |
-
-|* Armas e Munições |IV |h, i, j, k |
-
-|* Artigos de Caça e Pesca |IV |i, j, h |
-
-|* Aves Abatidas |V, VI |o, q |
-
-|* Colchões |IV |h, k |
-
-|* Embalagens |IV |h, k |
-
-|* Gelo |V, VI |o, q |
-
-|* Móveis |IV |h |
-
-|* Padarias |V, VI |l, q |
-
-|* Peças e Acessórios para Veículos, inclusive som |IV |q |
-
-|* Pescados |V, VI |o, q |
-
-|* Pneus automotivos |IV |h, k |
-
-|* Produtos Químicos, Inflamáveis, Tóxicos e Venenosos |IV, V |h, i, o, k |
-
-|* Show -room |IV |h |
-
-|* Explosivos |IV |h, i, j, k |
-
-|* Fogos de Artifícios |IV |h, i, j, k |
-
-|* Gás Liquefeito |IV |h, i, k |
-
-|* Granjas com Abatedouros |V, VI |o, q |
-
-|* Materiais de Construção, Madeira e Sucata |V, VI |h, m, q |
-
-|* Shopping Center |IV |h |
-
-|* Super e Hiper Mercado |IV |h |
-
-|* Tintas |IV |h, i, k |
-
-|COMÉRCIO ATACADISTA DOS ARTIGOS COMERCIALIZADOS PELO COMÉRCIO VAREJISTA, CLASSIFICADO COMO USO DO GRUPO I OU |De acordo com item similar de uso|
-
-|GRUPO II | |
-
-|USOS DO GRUPO I COM ÁREA > 150 E < 300M² | |
-
-|COMÉRCIOS ATACADISTAS, DISTRIBUIDORES E DEPÓSITOS |De acordo com item similar de uso|
-
-|USOS DO GRUPO II COM ÁREA SUPERIOR A 300M² | |
+| ATIVIDADE | Tipos de Repercussão | Medidas Mitigadoras |
+| --- | --- | --- |
+|  | (Lei nº 7.166, art. 66) | (Art. 97 desta Lei) |
+|  |  | Retificado em |
+|  |  | 28/12/2000 |
+| * Açougues | V, VI | o, q |
+| * Animais | V, VI | o, q |
+| * Armas e Munições | IV | h, i, j, k |
+| * Artigos de Caça e Pesca | IV | i, j, h |
+| * Aves Abatidas | V, VI | o, q |
+| * Colchões | IV | h, k |
+| * Embalagens | IV | h, k |
+| * Gelo | V, VI | o, q |
+| * Móveis | IV | h |
+| * Padarias | V, VI | l, q |
+| * Peças e Acessórios para Veículos, inclusive som | IV | q |
+| * Pescados | V, VI | o, q |
+| * Pneus automotivos | IV | h, k |
+| * Produtos Químicos, Inflamáveis, Tóxicos e Venenosos | IV, V | h, i, o, k |
+| * Show -room | IV | h |
+| * Explosivos | IV | h, i, j, k |
+| * Fogos de Artifícios | IV | h, i, j, k |
+| * Gás Liquefeito | IV | h, i, k |
+| * Granjas com Abatedouros | V, VI | o, q |
+| * Materiais de Construção, Madeira e Sucata | V, VI | h, m, q |
+| * Shopping Center | IV | h |
+| * Super e Hiper Mercado | IV | h |
+| * Tintas | IV | h, i, k |
+| COMÉRCIO ATACADISTA DOS ARTIGOS COMERCIALIZADOS PELO COMÉRCIO VAREJISTA, CLASSIFICADO COMO USO DO GRUPO I OU | De acordo com item similar de uso |  |
+| GRUPO II |  |  |
+| USOS DO GRUPO I COM ÁREA > 150 E < 300M² |  |  |
+| COMÉRCIOS ATACADISTAS, DISTRIBUIDORES E DEPÓSITOS | De acordo com item similar de uso |  |
+| USOS DO GRUPO II COM ÁREA SUPERIOR A 300M² |  |  |
 
 ANEXO VII DA LEI Nº 8.137
 
 MEDIDAS MITIGADORAS PARA ATIVIDADES ATRATORAS DE VEÍCULOS
 
-| |Vias locais | |
-
-| | |1 vaga / 450m² de área líquida |
-
-| | | |
-
-| | |1 vaga / 75m² de área em espaços não cobertos |
-
-|Número adicional de | |essenciais ao exercício da atividade |
-
-|vagas de estacionamento | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| |Vias de ligação regional, Arteriais | |
-
-| |ou coletoras |1 vaga / 300m² de área líquida |
-
-| | | |
-
-| | |1 vaga / 50m² de área em espaços não cobertos |
-
-| | |essenciais ao exercício da atividade |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-|Número mínimo de vagas para carga e|1.500m² < área líquida<3.000m² |1 vaga |
-
-|descarga | | |
-
-| | | |
-
-| | | |
-
-| |Área líquida ( 3.000m² |1 vaga / 3.000m², desprezando-se as frações |
-
-| |Hotéis, apart-hotéis, policínicas, hospitais, |1 vaga |
-
-|Área de Embarque e Desembarque |pronto-socorros, maternidades, estabelecimento de ensino| |
-
-| |superior e cursos pré-vestibulares. | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| |Escolas de 1º e 2º graus, maternal e pré escolar |1 vaga / 400m² de área líquida, desprezando-se as |
-
-| | |frações |
-
-|Relocação do controle de acesso | |
-
-| |Conforme Anexo IX da Lei nº 7166/96 |
+|  | Vias locais |  |
+| --- | --- | --- |
+|  |  | 1 vaga / 450m² de área líquida |
+|  |  |  |
+|  |  | 1 vaga / 75m² de área em espaços não cobertos |
+| Número adicional de |  | essenciais ao exercício da atividade |
+| vagas de estacionamento |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | Vias de ligação regional, Arteriais |  |
+|  | ou coletoras | 1 vaga / 300m² de área líquida |
+|  |  |  |
+|  |  | 1 vaga / 50m² de área em espaços não cobertos |
+|  |  | essenciais ao exercício da atividade |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| Número mínimo de vagas para carga e | 1.500m² < área líquida<3.000m² | 1 vaga |
+| descarga |  |  |
+|  |  |  |
+|  |  |  |
+|  | Área líquida ( 3.000m² | 1 vaga / 3.000m², desprezando-se as frações |
+|  | Hotéis, apart-hotéis, policínicas, hospitais, | 1 vaga |
+| Área de Embarque e Desembarque | pronto-socorros, maternidades, estabelecimento de ensino |  |
+|  | superior e cursos pré-vestibulares. |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | Escolas de 1º e 2º graus, maternal e pré escolar | 1 vaga / 400m² de área líquida, desprezando-se as |
+|  |  | frações |
+| Relocação do controle de acesso |  |  |
+|  | Conforme Anexo IX da Lei nº 7166/96 |  |
 
 ANEXO VIII DA LEI Nº 8.137
 
 CLASSIFICAÇÃO DE USOS NA ADE DE SANTA TEREZA
 
-| | | |
-
-|RAMO DE ATIVIDADE |GRUPO I |GRUPO II |
-
-| | Área: <50m², com exceção | Área: <300m²|
-
-| | | |
-
-| |- Adm. de loterias |- Estabelecimentos Bancários |
-
-| |- Adm. Seguros e Resseguro | |
-
-| |- Adm. de Cartões de Crédito | |
-
-|INSTITUIÇÕES DE CRÉDITO, SEGURO,|- Arrendamento Mercantil | |
-
-|CAPITALIZAÇÃO, COMÉRCIO E |- Caixas Eletrônicos e Postos de Atendimento| |
-
-|ADMINISTRAÇÃO DE VALORES |Bancário (<150m²) | |
-
-|IMOBILIÁRIOS |- Casas de Câmbio | |
-
-| |- Crédito Habitacional | |
-
-| |- Distribuidoras e Corretoras de Títulos e | |
-
-| |Valores | |
-
-| |- Fundos de Investimento | |
-
-| |- Instituições de Aplicação Financeira, | |
-
-| |Financiamento, Investimento e Crédito | |
-
-| |- Sociedade de Capitalização | |
-
-| | Área: <50m² | |
-
-| |- Adm. de Imóveis | |
-
-|COMÉRCIO E ADMINISTRAÇÃO DE |- Compra, Venda e Corretagem de Imóveis | |
-
-|IMÓVEIS |- Empreendimentos Imobiliários | |
-
-| |- Incorporação de Imóveis | |
-
-| | Área: <150m²,com exceção | Área: <300m², com exceção |
-
-| | | |
-
-| |- Cafeterias |- Albergues |
-
-| |- Casas de Chá |- Restaurantes |
-
-|SERVIÇOS DE ALOJAMENTO E |- Casas de Doces |- Bar (150m²) |
-
-|ALIMENTAÇÃO |- Casas de Sucos e Vitaminas | |
-
-| |- Lanches em Trailer (<30m²) | |
-
-| |- Sorveterias | |
-
-| |- Lanchonete |- Grupo I >150m² a <300m² |
-
-| |- Pensões | |
-
-| | Área: <100m² | Área: <100m², com exceção |
-
-| | | |
-
-| |- Chaveiros |- Lavanderias e Tinturarias |
-
-| |- Dedetização |- Toalheiro |
-
-| |- Escritório de Limpeza e Conservação de |- Adm. de Condomínios (50m²) |
-
-| |Edifícios |- Buffets (sem limite de área pré- definido) |
-
-|SERVIÇOS DOMICILIARES |- Jardinagem e Paisagismo |- Casas de Recepção e Salões de Festa (sem limite |
-
-| |- Lavanderias Self-Service |de área pré-definido) |
-
-| |- Locação de Artigos para Festas | |
-
-| |- Postos de Recebimento de Pequenas | |
-
-| |Mercadorias | |
-
-| |- Produção de Húmus | |
-
-| | Área: <100m² | Área: <100m², com exceção |
-
-| | | |
-
-| |- Montagem de Molduras e Quadros |- Reparação de Veículos, excluindo |
-
-|SERVIÇOS DE REPARAÇÃO E |- Reparação de Artigos de Couro e Similares |Lanternagem e Pintura (150m²) |
-
-|CONSERVAÇÃO |- Reparação de Bicicletas |- Serviços de Vidraçaria |
-
-| |- Reparação de Instalações de Gás, Elétricas|- Serviços de Reparação de Móveis |
-
-| |e Hidráulicas |- Serviços de Corte e Vinco em |
-
-| | |Embalagens |
-
-| |- Reparação de Aparelhos Eletrônicos |- Serviços Gerais de Pintura |
-
-| |- Reparação e Conservação de Ferramentas | |
-
-| |- Reparação e Conservação de Máquinas, | |
-
-| |Aparelhos e Artigos de Uso Doméstico e | |
-
-| |Pessoal | |
-
-| |- Reparação e Instalação de Antenas | |
-
-| |- Reparação e Instalação de Computadores, | |
-
-|SERVIÇOS DE REPARAÇÃO E |Periféricos e Impressoras | |
-
-|CONSERVAÇÃO |- Serviços de Esterilização | |
-
-| |- Serviços de Montagem de Quiosques | |
-
-| | Área: <100m² | Área: sem limite pré-definido, |
-
-| | |com exceção |
-
-| |- Agências de Casamento | |
-
-| |- Barbeiros |- Academias de Ginástica e Esportivas |
-
-| |- Centros de Estética |- Escolas de Dança, Música e Natação |
-
-| |- Confecções e Reparação de Artigos de |- Serviço Funerário (100m²) |
-
-| |Vestuário Sob Medida | |
-
-| |- Cursos Aula Particular | |
-
-|SERVIÇOS PESSOAIS |- Curso de Datilografia | |
-
-| |- Curso de Informática | |
-
-| |- Cursos Diversos | |
-
-| |- Estilista | |
-
-| |- Escola de Mergulho | |
-
-| |- Estúdios Fotográficos | |
-
-| |- Locação de Artigos de Vestuário | |
-
-| |- Massagens, Saunas, Duchas e Banhos | |
-
-| |- Salões de Beleza | |
-
-| |- Salões de Engraxate | |
-
-| |- Serviços Exotéricos | |
-
-| | Área: <100m² | Área: sem limite pré-definido |
-
-| | | |
-
-| |- Locação de Filmes e Discos |- Cinemas, Teatros e Auditórios |
-
-|SERVIÇOS DE DIVERSÃO E |- Locação de Livros | |
-
-|COMUNICAÇÃO |- Locação de Fitas de Vídeo-Game | |
-
-| |- Casas Lotéricas | |
-
-| |- Estúdios de Gravação | |
-
-| |- Prestação de Serviços por Telefone | |
-
-| |- Serviços de Tele-Informática | |
-
-| | Área:<100m² | Área:<100m²|
-
-| | | |
-
-| |- Agências de Publicidade e Propaganda | |
-
-| |- Consultórios | |
-
-| |- Consultórios Veterinários | |
-
-|SERVIÇOS TÉCNICO-PROFISSIONAIS |- Escritórios |- Serviços Gráficos, Editoriais e de |
-
-| |- Estúdios de Escultura, Desenho e Pintura |Reprodução |
-
-| |Artística |- Serviços de Silk-Screen |
-
-| |- Profissionais Autônomos |- Laboratórios |
-
-| |- Sedes Administrativas de Construtoras |- Leiloeiros |
-
-| |- Serviços de Acupuntura | |
-
-| |- Serviços de Auditoria | |
-
-| |- Serviços de Fotolito e Microfilmagem | |
-
-| |- Serviços de Investigação Particular | |
-
-| |- Serviços de Organização e Promoção de | |
-
-| |Eventos | |
-
-| |- Serviços de Tradução e Documentação | |
-
-| |- Laboratórios de Prótese Dentária | |
-
-| |- Laboratório Fotográfico | |
-
-| |- Postos de Coleta de Materiais Biológicos | |
-
-| |- Provedores Internet | |
-
-| |- Serviços de Decoração | |
-
-| |- Serviços de Editoração Eletrônica | |
-
-| |- Serviços de Jornalismo e Comunicação | |
-
-| |- Serviços de Litografia | |
-
-|SERVIÇOS TÉCNICO-PROFISSIONAIS |- Serviços de Nutricionismo | |
-
-| |- Serviços de Reprografia | |
-
-| |- Serviços de Serigrafia | |
-
-| |- Empreiteira de Serviços de Construção | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | Área: <50m² | |
-
-| | | |
-
-|SERVIÇOS AUXILIARES DA |- Assistência Técnico-Rural | |
-
-|AGRICULTURA |- Combate a Pragas | |
-
-| |- Reflorestamento | |
-
-| | Área: <50m² | Área: <100m² |
-
-| | | |
-
-|SERVIÇOS AUXILIARES DE |- Locação e Arrendamento de Bicicletas |- Transportes Escolares |
-
-|TRANSPORTE |- Escritório de Transporte de Mudança e |- Borracharia |
-
-| |Valores, sem pátio de veículos |- Capotaria |
-
-| | Área: <50m² | |
-
-| | | |
-
-| |- Agências de Intercâmbio Cultural e Viagens| |
-
-| |- Agências de Turismo | |
-
-| |- Confecção de Carimbos | |
-
-| |- Serviços de Comunicação e Programação | |
-
-|SERVIÇOS AUXILIARES DE INDÚSTRIA|Visual | |
-
-|E COMÉRCIO |- Adm. de Tickets, Vales, Cartões, e Fichas | |
-
-| |- Adm. de Consórcios | |
-
-| |- Agências de Trabalho Avulso, Diaristas | |
-
-| |- Locação, Compra e Venda de Telefones | |
-
-| |- Locação de Marcas e Patentes | |
-
-| |- Locação e Venda de Telões | |
-
-| |- Posto de Intermediação de Serviços | |
-
-| |- Serviços de Vigilância | |
-
-| | Área: <50m² | Área: <50m²|
-
-| | | |
-
-|OUTROS SERVIÇOS |- Gravação de Jóias |- Vitrificação |
-
-| |- Lapidação de Jóias | |
-
-| | Área: <150m² | |
-
-| | | |
-
-| |- Asilos | |
-
-|SERVIÇOS DE USO COLETIVO: |- Associações Beneficentes | |
-
-|ASSISTÊNCIA SOCIAL |- Creches | |
-
-| |- Entidades de Assistência e Promoção Social| |
-
-| |- Entidades de Atendimento não Asilar | |
-
-| |- Orfanatos |- Grupo I >150m² a <400m² |
-
-| | | Área: <50m² |
-
-|SERVIÇOS DE USO COLETIVO: | | |
-
-|ÓRGÃOS DE PREVIDÊNCIA | |- Previdência Privada |
-
-| | |- Previdência Pública |
-
-| | | Área: <50m²|
-
-|SERVIÇOS DE USO COLETIVO: | | |
-
-|ENTIDADES DE CLASSE E SINDICAIS | |- Associações |
-
-| | |- Confederações |
-
-| | |- Conselhos |
-
-| | |- Federações |
-
-| | |- Organizações de Assistência a Empresas |
-
-| | |- Sindicatos |
-
-| | Área: <150m² | Área: sem limite pré-definido |
-
-|SERVIÇOS DE USO COLETIVO: | | |
-
-|INSTITUIÇÕES CIENTÍFICAS, |- Mostras Artesanais e Folclóricas |- Associações Culturais, Filosóficas e |
-
-|CULTURAIS, TECNOLÓGICAS E |- Aquários |Científicas |
-
-|FILOSÓFICAS | |- Bibliotecas |
-
-| | |- Centros de Documentação |
-
-| | |- Centros de Pesquisa |
-
-| | |- Estabelecimentos de Cultura Artística |
-
-| | |- Museus |
-
-| | | |
-
-| | |- Grupo I maior que o estipulado |
-
-| | | Área: sem limite pré-definido |
-
-| | | |
-
-| | |- Confederações e Federações |
-
-|SERVIÇOS DE USO COLETIVO: | |- Ligas Desportivas e Recreativas |
-
-|ENTIDADES DESPORTIVAS E | |- Associações Desportivas e |
-
-|RECREATIVAS | |Recreativas |
-
-| | |- Praças e Quadras de Esporte |
-
-| | |- Clubes |
-
-| | |- Escolas de Esportes |
-
-| | Área: <100m² | |
-
-| | | |
-
-|SERVIÇOS DE USO COLETIVO: |- Associações Religiosas | |
-
-|INSTITUIÇÕES RELIGIOSAS |- Congregações Religiosas | |
-
-| |- Órgãos Administrativos de Instituições | |
-
-| |Religiosas Seminários Religiosos | |
-
-| |- Templos |- Grupo I >100m² a < 400m² |
-
-| | | Área: |
-
-|SERVIÇOS DE USO COLETIVO: | |<50m² |
-
-|ORGANIZAÇÕES CÍVICAS E POLÍTICAS| | |
-
-|Retificado em 30/12/2000 | |- Comitês Políticos |
-
-| | |- Diretórios Políticos |
-
-| | |- Sedes de Partidos Políticos |
-
-| | Área: <150m² | Área: |
-
-|SERVIÇOS DE USO COLETIVO: | |<50m² |
-
-|DEFESA DE INTERESSE COLETIVO |- Associações de Bairros | |
-
-| |- Associações de Moradores |- Cooperativas |
-
-| | |- Sedes de Movimentos Sociais |
-
-| | |- Diretórios Estudantis |
-
-| | Área: <150m² | Área: <150m², com exceção |
-
-| | | |
-
-| |- Postos de Saúde Pública |- Clínicas Especializadas |
-
-| |- Postos de Vacinação |- Clínicas Odontológicas |
-
-| |- Serviços de Enfermagem |- Institutos de Fisioterapia |
-
-| | |- Clínicas Veterinárias |
-
-|SERVIÇOS DE USO COLETIVO: | |- Serviços de Ambulância |
-
-|SERVIÇOS DE SAÚDE | |- Serviço Veterinário de Embelezamento e Vacinação |
-
-| | |- Bancos de Sangue |
-
-| | |- Laboratórios de Anál. Clínica |
-
-| | |- Laboratório Radiológico |
-
-| | |- Maternidade (sem limite de área pré- definido) |
-
-| | |- Clínica de Fisioterapia |
-
-| | |- Policlínica (sem limite de área pré- |
-
-| | |definido) |
-
-| | | |
-
-| | |- Grupo I >150m² < 400m² |
-
-| | Área: <150m² | Área: < 400|
-
-| | |m² |
-
-| |- Institutos para Cegos | |
-
-| |- Institutos para Portadores de Deficiência |- Centros de Formação Profissional |
-
-|SERVIÇOS DE USO COLETIVO: |- Institutos para Surdos-Mudos |- Cursos Pré-Vestibular |
-
-|SERVIÇOS DE EDUCAÇÃO |- Jardins de Infância e Maternais |- Cursos Supletivos |
-
-| |- Pré-Primário | |
-
-| |- Escolas de Excepcionais | |
-
-| |- Escolas de Idiomas | |
-
-| |- Escolas de Primeiro Grau | |
-
-| |- Escolas de Segundo Grau | |
-
-| | |- Grupo I >150m² a <400m² |
-
-| | | |
-
-| | Área: <50m² | Área: <50m², com exceção |
-
-| | | |
-
-| |- Agências de Correios e Telégrafos |- Cartórios |
-
-| |- Postos Policiais |- Delegacias de polícia (150m²) |
-
-| |- Postos Telefônicos | |
-
-|SERVIÇOS DE USO COLETIVO: |- Representação Diplomática | |
-
-|SERVIÇOS PÚBLICOS |- Representação de Organismos Internacionais| |
-
-| |- Postos de Atendimento de Empresas de | |
-
-| |Energia Elétrica e de Telecomunicações | |
-
-| |- Postos de Identificação | |
-
-| | Área: <150m² | Área: <150m², com exceção |
-
-| | | |
-
-| |- Antiquários |- Colchões |
-
-| |- Abrasivos |- Show Room |
-
-| |- Açougues |- Vidraçarias |
-
-| |- Pescados |- Produtos Agropecuários |
-
-| |- Aves Abatidas |- Artigos de Uso Comercial |
-
-| |- Aparelhos Elétricos e Eletrônicos |- Artefatos de Madeira |
-
-| |- Aparelhos e Artigos de Cine-Foto |- Máquinas de Pequeno Porte, Sem |
-
-| |- Aparelhos de Uso Pessoal |Incômodo Ambiental |
-
-| |- Aquários e Peixes Ornamentais |- Materiais de Acabamento de |
-
-| |- Armarinhos |Edificações |
-
-| |- Artesanato |- Materiais de Serigrafia e Silk-Screen |
-
-| |- Artigos de Apicultura |- Produtos de Origem Animal |
-
-| |- Artigos de Borracha e Couro |- Produtos de Origem Vegetal |
-
-| |- Artigos de Caça e Pesca |- Produtos de Origem Mineral |
-
-| |- Artigos de Cama, Mesa e Banho |- Animais |
-
-| |- Artigos de Conveniência |- Tintas |
-
-| |- Artigos Desportivos e Recreativos |- Materiais de Construção, Madeira e |
-
-| |- Artigos de Escritório |Sucata |
-
-| |- Artigos de Gesso |- Móveis, Instalações e Equipamentos Usados |
-
-| |- Artigos de Uso Doméstico e Pessoal |- Super-Mercados (sem limite de área pré-definido) |
-
-| |- Artigos de Vestuário | |
-
-| |- Artigos de Madeira | |
-
-| |- Artigos, Materiais e Equipamentos Médicos,| |
-
-| |Odontológicos, Laboratoriais e Hospitalares | |
-
-| |- Artigos e Produtos Veterinários | |
-
-| |- Artigos Esotéricos | |
-
-|USO COMERCIAL |- Artigos e Suprimentos de Informática | |
-
-| |- Artigos Importados | |
-
-| |- Artigos para Camping | |
-
-| |- Artigos para Decoração | |
-
-| |- Artigos para Festas | |
-
-| |- Artigos para Forração | |
-
-| |- Artigos para Pintura Artística | |
-
-| |- Artigos para Piscina | |
-
-| |- Artigos Religiosos | |
-
-| |- Artigos para Sorveteria | |
-
-| |- Bazares | |
-
-| |- Bebidas | |
-
-| |- Bicicletas | |
-
-| |- Bijuterias | |
-
-| |- Bombonnières | |
-
-| |- Brinquedos | |
-
-| |- Cestas de Alimentação | |
-
-| |- Confeitarias | |
-
-| |- Copiadoras | |
-
-| |- Cortinas | |
-
-| |- Cosméticos | |
-
-| |- Drogarias e Farmácias | |
-
-| |- Eletrodomésticos | |
-
-| |- Essências, Corantes e Especiarias | |
-
-| |- Embalagens | |
-
-| |- Equipamentos de Pequeno Porte Sem Incômodo| |
-
-| |Ambiental | |
-
-| |- Equipamentos de Segurança de Uso Pessoal | |
-
-| |- Equipamentos e Materiais Elétricos e |- Grupo I >150m² a <300m² |
-
-| |Eletrônicos | |
-
-| |- Ferragens | |
-
-| |- Ferramentas | |
-
-| |- Floriculturas | |
-
-| |- Gelo | |
-
-| |- Instrumentos Musicais | |
-
-| |- Joalherias e Relojoarias | |
-
-| |- Jornais e Revistas | |
-
-| |- Laticínios e Frios | |
-
-| |- Livrarias e Papelarias | |
-
-| |- Lubrificantes | |
-
-| |- Materiais Plásticos | |
-
-| |- Mercearias | |
-
-| |- Metais e Pedras Preciosas Para Joalherias | |
-
-| |- Móveis | |
-
-| |- Molduras | |
-
-| |- Objetos de Arte e Adornos | |
-
-| |- Óticas | |
-
-| |- Padarias | |
-
-| |- Perfumarias | |
-
-| |- Presentes | |
-
-| |- Produtos Alimentícios | |
-
-| |- Produtos de Limpeza | |
-
-| |- Produtos Naturais | |
-
-| |- Programas para Computadores | |
-
-| |- Roupas Especiais de Segurança | |
-
-| |- Sapatarias | |
-
-| |- Tabacarias | |
-
-| |- Tapetes | |
-
-|USO COMERCIAL (cont.) |- Tecidos | |
-
-| |- Peças e Acessórios Para Bicicletas | |
-
-| |- Pequenos Animais Não Abatidos | |
-
-| |- Produtos Preparados e/ou | |
-
-| |Comercializados em Equipamentos Compactos | |
-
-| |Tipo: Jornais, Refrigerantes, | |
-
-| |Pipocas, Balas, Churros, etc | |
-
-| |- Produtos Hortifrutigrangeiros | |
-
-| |- Quitandas | |
-
-| |- Toldos | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | |- Grupo I >150m² a <300m² |
-
-| | | |
-
-| | | |
+|  |  |  |
+| --- | --- | --- |
+| RAMO DE ATIVIDADE | GRUPO I | GRUPO II |
+|  | Área: <50m², com exceção | Área: <300m² |
+|  |  |  |
+|  | - Adm. de loterias | - Estabelecimentos Bancários |
+|  | - Adm. Seguros e Resseguro |  |
+|  | - Adm. de Cartões de Crédito |  |
+| INSTITUIÇÕES DE CRÉDITO, SEGURO, | - Arrendamento Mercantil |  |
+| CAPITALIZAÇÃO, COMÉRCIO E | - Caixas Eletrônicos e Postos de Atendimento |  |
+| ADMINISTRAÇÃO DE VALORES | Bancário (<150m²) |  |
+| IMOBILIÁRIOS | - Casas de Câmbio |  |
+|  | - Crédito Habitacional |  |
+|  | - Distribuidoras e Corretoras de Títulos e |  |
+|  | Valores |  |
+|  | - Fundos de Investimento |  |
+|  | - Instituições de Aplicação Financeira, |  |
+|  | Financiamento, Investimento e Crédito |  |
+|  | - Sociedade de Capitalização |  |
+|  | Área: <50m² |  |
+|  | - Adm. de Imóveis |  |
+| COMÉRCIO E ADMINISTRAÇÃO DE | - Compra, Venda e Corretagem de Imóveis |  |
+| IMÓVEIS | - Empreendimentos Imobiliários |  |
+|  | - Incorporação de Imóveis |  |
+|  | Área: <150m²,com exceção | Área: <300m², com exceção |
+|  |  |  |
+|  | - Cafeterias | - Albergues |
+|  | - Casas de Chá | - Restaurantes |
+| SERVIÇOS DE ALOJAMENTO E | - Casas de Doces | - Bar (150m²) |
+| ALIMENTAÇÃO | - Casas de Sucos e Vitaminas |  |
+|  | - Lanches em Trailer (<30m²) |  |
+|  | - Sorveterias |  |
+|  | - Lanchonete | - Grupo I >150m² a <300m² |
+|  | - Pensões |  |
+|  | Área: <100m² | Área: <100m², com exceção |
+|  |  |  |
+|  | - Chaveiros | - Lavanderias e Tinturarias |
+|  | - Dedetização | - Toalheiro |
+|  | - Escritório de Limpeza e Conservação de | - Adm. de Condomínios (50m²) |
+|  | Edifícios | - Buffets (sem limite de área pré- definido) |
+| SERVIÇOS DOMICILIARES | - Jardinagem e Paisagismo | - Casas de Recepção e Salões de Festa (sem limite |
+|  | - Lavanderias Self-Service | de área pré-definido) |
+|  | - Locação de Artigos para Festas |  |
+|  | - Postos de Recebimento de Pequenas |  |
+|  | Mercadorias |  |
+|  | - Produção de Húmus |  |
+|  | Área: <100m² | Área: <100m², com exceção |
+|  |  |  |
+|  | - Montagem de Molduras e Quadros | - Reparação de Veículos, excluindo |
+| SERVIÇOS DE REPARAÇÃO E | - Reparação de Artigos de Couro e Similares | Lanternagem e Pintura (150m²) |
+| CONSERVAÇÃO | - Reparação de Bicicletas | - Serviços de Vidraçaria |
+|  | - Reparação de Instalações de Gás, Elétricas | - Serviços de Reparação de Móveis |
+|  | e Hidráulicas | - Serviços de Corte e Vinco em |
+|  |  | Embalagens |
+|  | - Reparação de Aparelhos Eletrônicos | - Serviços Gerais de Pintura |
+|  | - Reparação e Conservação de Ferramentas |  |
+|  | - Reparação e Conservação de Máquinas, |  |
+|  | Aparelhos e Artigos de Uso Doméstico e |  |
+|  | Pessoal |  |
+|  | - Reparação e Instalação de Antenas |  |
+|  | - Reparação e Instalação de Computadores, |  |
+| SERVIÇOS DE REPARAÇÃO E | Periféricos e Impressoras |  |
+| CONSERVAÇÃO | - Serviços de Esterilização |  |
+|  | - Serviços de Montagem de Quiosques |  |
+|  | Área: <100m² | Área: sem limite pré-definido, |
+|  |  | com exceção |
+|  | - Agências de Casamento |  |
+|  | - Barbeiros | - Academias de Ginástica e Esportivas |
+|  | - Centros de Estética | - Escolas de Dança, Música e Natação |
+|  | - Confecções e Reparação de Artigos de | - Serviço Funerário (100m²) |
+|  | Vestuário Sob Medida |  |
+|  | - Cursos Aula Particular |  |
+| SERVIÇOS PESSOAIS | - Curso de Datilografia |  |
+|  | - Curso de Informática |  |
+|  | - Cursos Diversos |  |
+|  | - Estilista |  |
+|  | - Escola de Mergulho |  |
+|  | - Estúdios Fotográficos |  |
+|  | - Locação de Artigos de Vestuário |  |
+|  | - Massagens, Saunas, Duchas e Banhos |  |
+|  | - Salões de Beleza |  |
+|  | - Salões de Engraxate |  |
+|  | - Serviços Exotéricos |  |
+|  | Área: <100m² | Área: sem limite pré-definido |
+|  |  |  |
+|  | - Locação de Filmes e Discos | - Cinemas, Teatros e Auditórios |
+| SERVIÇOS DE DIVERSÃO E | - Locação de Livros |  |
+| COMUNICAÇÃO | - Locação de Fitas de Vídeo-Game |  |
+|  | - Casas Lotéricas |  |
+|  | - Estúdios de Gravação |  |
+|  | - Prestação de Serviços por Telefone |  |
+|  | - Serviços de Tele-Informática |  |
+|  | Área:<100m² | Área:<100m² |
+|  |  |  |
+|  | - Agências de Publicidade e Propaganda |  |
+|  | - Consultórios |  |
+|  | - Consultórios Veterinários |  |
+| SERVIÇOS TÉCNICO-PROFISSIONAIS | - Escritórios | - Serviços Gráficos, Editoriais e de |
+|  | - Estúdios de Escultura, Desenho e Pintura | Reprodução |
+|  | Artística | - Serviços de Silk-Screen |
+|  | - Profissionais Autônomos | - Laboratórios |
+|  | - Sedes Administrativas de Construtoras | - Leiloeiros |
+|  | - Serviços de Acupuntura |  |
+|  | - Serviços de Auditoria |  |
+|  | - Serviços de Fotolito e Microfilmagem |  |
+|  | - Serviços de Investigação Particular |  |
+|  | - Serviços de Organização e Promoção de |  |
+|  | Eventos |  |
+|  | - Serviços de Tradução e Documentação |  |
+|  | - Laboratórios de Prótese Dentária |  |
+|  | - Laboratório Fotográfico |  |
+|  | - Postos de Coleta de Materiais Biológicos |  |
+|  | - Provedores Internet |  |
+|  | - Serviços de Decoração |  |
+|  | - Serviços de Editoração Eletrônica |  |
+|  | - Serviços de Jornalismo e Comunicação |  |
+|  | - Serviços de Litografia |  |
+| SERVIÇOS TÉCNICO-PROFISSIONAIS | - Serviços de Nutricionismo |  |
+|  | - Serviços de Reprografia |  |
+|  | - Serviços de Serigrafia |  |
+|  | - Empreiteira de Serviços de Construção |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | Área: <50m² |  |
+|  |  |  |
+| SERVIÇOS AUXILIARES DA | - Assistência Técnico-Rural |  |
+| AGRICULTURA | - Combate a Pragas |  |
+|  | - Reflorestamento |  |
+|  | Área: <50m² | Área: <100m² |
+|  |  |  |
+| SERVIÇOS AUXILIARES DE | - Locação e Arrendamento de Bicicletas | - Transportes Escolares |
+| TRANSPORTE | - Escritório de Transporte de Mudança e | - Borracharia |
+|  | Valores, sem pátio de veículos | - Capotaria |
+|  | Área: <50m² |  |
+|  |  |  |
+|  | - Agências de Intercâmbio Cultural e Viagens |  |
+|  | - Agências de Turismo |  |
+|  | - Confecção de Carimbos |  |
+|  | - Serviços de Comunicação e Programação |  |
+| SERVIÇOS AUXILIARES DE INDÚSTRIA | Visual |  |
+| E COMÉRCIO | - Adm. de Tickets, Vales, Cartões, e Fichas |  |
+|  | - Adm. de Consórcios |  |
+|  | - Agências de Trabalho Avulso, Diaristas |  |
+|  | - Locação, Compra e Venda de Telefones |  |
+|  | - Locação de Marcas e Patentes |  |
+|  | - Locação e Venda de Telões |  |
+|  | - Posto de Intermediação de Serviços |  |
+|  | - Serviços de Vigilância |  |
+|  | Área: <50m² | Área: <50m² |
+|  |  |  |
+| OUTROS SERVIÇOS | - Gravação de Jóias | - Vitrificação |
+|  | - Lapidação de Jóias |  |
+|  | Área: <150m² |  |
+|  |  |  |
+|  | - Asilos |  |
+| SERVIÇOS DE USO COLETIVO: | - Associações Beneficentes |  |
+| ASSISTÊNCIA SOCIAL | - Creches |  |
+|  | - Entidades de Assistência e Promoção Social |  |
+|  | - Entidades de Atendimento não Asilar |  |
+|  | - Orfanatos | - Grupo I >150m² a <400m² |
+|  |  | Área: <50m² |
+| SERVIÇOS DE USO COLETIVO: |  |  |
+| ÓRGÃOS DE PREVIDÊNCIA |  | - Previdência Privada |
+|  |  | - Previdência Pública |
+|  |  | Área: <50m² |
+| SERVIÇOS DE USO COLETIVO: |  |  |
+| ENTIDADES DE CLASSE E SINDICAIS |  | - Associações |
+|  |  | - Confederações |
+|  |  | - Conselhos |
+|  |  | - Federações |
+|  |  | - Organizações de Assistência a Empresas |
+|  |  | - Sindicatos |
+|  | Área: <150m² | Área: sem limite pré-definido |
+| SERVIÇOS DE USO COLETIVO: |  |  |
+| INSTITUIÇÕES CIENTÍFICAS, | - Mostras Artesanais e Folclóricas | - Associações Culturais, Filosóficas e |
+| CULTURAIS, TECNOLÓGICAS E | - Aquários | Científicas |
+| FILOSÓFICAS |  | - Bibliotecas |
+|  |  | - Centros de Documentação |
+|  |  | - Centros de Pesquisa |
+|  |  | - Estabelecimentos de Cultura Artística |
+|  |  | - Museus |
+|  |  |  |
+|  |  | - Grupo I maior que o estipulado |
+|  |  | Área: sem limite pré-definido |
+|  |  |  |
+|  |  | - Confederações e Federações |
+| SERVIÇOS DE USO COLETIVO: |  | - Ligas Desportivas e Recreativas |
+| ENTIDADES DESPORTIVAS E |  | - Associações Desportivas e |
+| RECREATIVAS |  | Recreativas |
+|  |  | - Praças e Quadras de Esporte |
+|  |  | - Clubes |
+|  |  | - Escolas de Esportes |
+|  | Área: <100m² |  |
+|  |  |  |
+| SERVIÇOS DE USO COLETIVO: | - Associações Religiosas |  |
+| INSTITUIÇÕES RELIGIOSAS | - Congregações Religiosas |  |
+|  | - Órgãos Administrativos de Instituições |  |
+|  | Religiosas Seminários Religiosos |  |
+|  | - Templos | - Grupo I >100m² a < 400m² |
+|  |  | Área: |
+| SERVIÇOS DE USO COLETIVO: |  | <50m² |
+| ORGANIZAÇÕES CÍVICAS E POLÍTICAS |  |  |
+| Retificado em 30/12/2000 |  | - Comitês Políticos |
+|  |  | - Diretórios Políticos |
+|  |  | - Sedes de Partidos Políticos |
+|  | Área: <150m² | Área: |
+| SERVIÇOS DE USO COLETIVO: |  | <50m² |
+| DEFESA DE INTERESSE COLETIVO | - Associações de Bairros |  |
+|  | - Associações de Moradores | - Cooperativas |
+|  |  | - Sedes de Movimentos Sociais |
+|  |  | - Diretórios Estudantis |
+|  | Área: <150m² | Área: <150m², com exceção |
+|  |  |  |
+|  | - Postos de Saúde Pública | - Clínicas Especializadas |
+|  | - Postos de Vacinação | - Clínicas Odontológicas |
+|  | - Serviços de Enfermagem | - Institutos de Fisioterapia |
+|  |  | - Clínicas Veterinárias |
+| SERVIÇOS DE USO COLETIVO: |  | - Serviços de Ambulância |
+| SERVIÇOS DE SAÚDE |  | - Serviço Veterinário de Embelezamento e Vacinação |
+|  |  | - Bancos de Sangue |
+|  |  | - Laboratórios de Anál. Clínica |
+|  |  | - Laboratório Radiológico |
+|  |  | - Maternidade (sem limite de área pré- definido) |
+|  |  | - Clínica de Fisioterapia |
+|  |  | - Policlínica (sem limite de área pré- |
+|  |  | definido) |
+|  |  |  |
+|  |  | - Grupo I >150m² < 400m² |
+|  | Área: <150m² | Área: < 400 |
+|  |  | m² |
+|  | - Institutos para Cegos |  |
+|  | - Institutos para Portadores de Deficiência | - Centros de Formação Profissional |
+| SERVIÇOS DE USO COLETIVO: | - Institutos para Surdos-Mudos | - Cursos Pré-Vestibular |
+| SERVIÇOS DE EDUCAÇÃO | - Jardins de Infância e Maternais | - Cursos Supletivos |
+|  | - Pré-Primário |  |
+|  | - Escolas de Excepcionais |  |
+|  | - Escolas de Idiomas |  |
+|  | - Escolas de Primeiro Grau |  |
+|  | - Escolas de Segundo Grau |  |
+|  |  | - Grupo I >150m² a <400m² |
+|  |  |  |
+|  | Área: <50m² | Área: <50m², com exceção |
+|  |  |  |
+|  | - Agências de Correios e Telégrafos | - Cartórios |
+|  | - Postos Policiais | - Delegacias de polícia (150m²) |
+|  | - Postos Telefônicos |  |
+| SERVIÇOS DE USO COLETIVO: | - Representação Diplomática |  |
+| SERVIÇOS PÚBLICOS | - Representação de Organismos Internacionais |  |
+|  | - Postos de Atendimento de Empresas de |  |
+|  | Energia Elétrica e de Telecomunicações |  |
+|  | - Postos de Identificação |  |
+|  | Área: <150m² | Área: <150m², com exceção |
+|  |  |  |
+|  | - Antiquários | - Colchões |
+|  | - Abrasivos | - Show Room |
+|  | - Açougues | - Vidraçarias |
+|  | - Pescados | - Produtos Agropecuários |
+|  | - Aves Abatidas | - Artigos de Uso Comercial |
+|  | - Aparelhos Elétricos e Eletrônicos | - Artefatos de Madeira |
+|  | - Aparelhos e Artigos de Cine-Foto | - Máquinas de Pequeno Porte, Sem |
+|  | - Aparelhos de Uso Pessoal | Incômodo Ambiental |
+|  | - Aquários e Peixes Ornamentais | - Materiais de Acabamento de |
+|  | - Armarinhos | Edificações |
+|  | - Artesanato | - Materiais de Serigrafia e Silk-Screen |
+|  | - Artigos de Apicultura | - Produtos de Origem Animal |
+|  | - Artigos de Borracha e Couro | - Produtos de Origem Vegetal |
+|  | - Artigos de Caça e Pesca | - Produtos de Origem Mineral |
+|  | - Artigos de Cama, Mesa e Banho | - Animais |
+|  | - Artigos de Conveniência | - Tintas |
+|  | - Artigos Desportivos e Recreativos | - Materiais de Construção, Madeira e |
+|  | - Artigos de Escritório | Sucata |
+|  | - Artigos de Gesso | - Móveis, Instalações e Equipamentos Usados |
+|  | - Artigos de Uso Doméstico e Pessoal | - Super-Mercados (sem limite de área pré-definido) |
+|  | - Artigos de Vestuário |  |
+|  | - Artigos de Madeira |  |
+|  | - Artigos, Materiais e Equipamentos Médicos, |  |
+|  | Odontológicos, Laboratoriais e Hospitalares |  |
+|  | - Artigos e Produtos Veterinários |  |
+|  | - Artigos Esotéricos |  |
+| USO COMERCIAL | - Artigos e Suprimentos de Informática |  |
+|  | - Artigos Importados |  |
+|  | - Artigos para Camping |  |
+|  | - Artigos para Decoração |  |
+|  | - Artigos para Festas |  |
+|  | - Artigos para Forração |  |
+|  | - Artigos para Pintura Artística |  |
+|  | - Artigos para Piscina |  |
+|  | - Artigos Religiosos |  |
+|  | - Artigos para Sorveteria |  |
+|  | - Bazares |  |
+|  | - Bebidas |  |
+|  | - Bicicletas |  |
+|  | - Bijuterias |  |
+|  | - Bombonnières |  |
+|  | - Brinquedos |  |
+|  | - Cestas de Alimentação |  |
+|  | - Confeitarias |  |
+|  | - Copiadoras |  |
+|  | - Cortinas |  |
+|  | - Cosméticos |  |
+|  | - Drogarias e Farmácias |  |
+|  | - Eletrodomésticos |  |
+|  | - Essências, Corantes e Especiarias |  |
+|  | - Embalagens |  |
+|  | - Equipamentos de Pequeno Porte Sem Incômodo |  |
+|  | Ambiental |  |
+|  | - Equipamentos de Segurança de Uso Pessoal |  |
+|  | - Equipamentos e Materiais Elétricos e | - Grupo I >150m² a <300m² |
+|  | Eletrônicos |  |
+|  | - Ferragens |  |
+|  | - Ferramentas |  |
+|  | - Floriculturas |  |
+|  | - Gelo |  |
+|  | - Instrumentos Musicais |  |
+|  | - Joalherias e Relojoarias |  |
+|  | - Jornais e Revistas |  |
+|  | - Laticínios e Frios |  |
+|  | - Livrarias e Papelarias |  |
+|  | - Lubrificantes |  |
+|  | - Materiais Plásticos |  |
+|  | - Mercearias |  |
+|  | - Metais e Pedras Preciosas Para Joalherias |  |
+|  | - Móveis |  |
+|  | - Molduras |  |
+|  | - Objetos de Arte e Adornos |  |
+|  | - Óticas |  |
+|  | - Padarias |  |
+|  | - Perfumarias |  |
+|  | - Presentes |  |
+|  | - Produtos Alimentícios |  |
+|  | - Produtos de Limpeza |  |
+|  | - Produtos Naturais |  |
+|  | - Programas para Computadores |  |
+|  | - Roupas Especiais de Segurança |  |
+|  | - Sapatarias |  |
+|  | - Tabacarias |  |
+|  | - Tapetes |  |
+| USO COMERCIAL (cont.) | - Tecidos |  |
+|  | - Peças e Acessórios Para Bicicletas |  |
+|  | - Pequenos Animais Não Abatidos |  |
+|  | - Produtos Preparados e/ou |  |
+|  | Comercializados em Equipamentos Compactos |  |
+|  | Tipo: Jornais, Refrigerantes, |  |
+|  | Pipocas, Balas, Churros, etc |  |
+|  | - Produtos Hortifrutigrangeiros |  |
+|  | - Quitandas |  |
+|  | - Toldos |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  | - Grupo I >150m² a <300m² |
+|  |  |  |
+|  |  |  |
 
 ANEXO IX
 
@@ -4088,37 +2996,23 @@ ANEXO XI - PARÂMETROS URBANÍSTICOS E USOS ADMISSÍVEIS MEDIANTE OUTORGA ONEROS
 
 Republicado em 30/12/2000
 
-|PARÂMETROS (1) |Área 1 |Área 2 |
-
-| |Declividade até 30% |Declividade | |
-
-| | |> 30 até 47% | |
-
-|Lote mínimo |1.000m² |1.000m² |
-
-|Coeficiente de Aproveitamento |1,2 ou 1,5 (2) |1,0 ou 1,2 (2) |
-
-|Quota de Terreno por Unidade Residencial |60m² |90m² |
-
-|Taxa de Ocupação |0,5 |0,4 |
-
-|Taxa de Permeabilização |30%, vedada a substituição da área permeável obrigatória pela caixa de captação e |
-
-| |drenagem referida no art. 50 da Lei 7166/96 |
-
-|Afastamentos | Valores de “b” para cálculo de afastamentos: |
-
-| |- para H ( 30 m, b=2 |
-
-| |- para H > 30 m, b=3 |
-
-|USOS |
-
-| Residencial |- unifamiliar e multifamiliar |
-
-| Não Residenciais |Grupo I |- todas as atividades |
-
-| |Grupos II e III |- todas as atividades (3) , desde que licenciadas pelo COMAM |
+| PARÂMETROS (1) | Área 1 | Área 2 |  |
+| --- | --- | --- | --- |
+|  | Declividade até 30% | Declividade |  |
+|  |  | > 30 até 47% |  |
+| Lote mínimo | 1.000m² | 1.000m² |  |
+| Coeficiente de Aproveitamento | 1,2 ou 1,5 (2) | 1,0 ou 1,2 (2) |  |
+| Quota de Terreno por Unidade Residencial | 60m² | 90m² |  |
+| Taxa de Ocupação | 0,5 | 0,4 |  |
+| Taxa de Permeabilização | 30%, vedada a substituição da área permeável obrigatória pela caixa de captação e |  |  |
+|  | drenagem referida no art. 50 da Lei 7166/96 |  |  |
+| Afastamentos | Valores de “b” para cálculo de afastamentos: |  |  |
+|  | - para H ( 30 m, b=2 |  |  |
+|  | - para H > 30 m, b=3 |  |  |
+| USOS |  |  |  |
+| Residencial | - unifamiliar e multifamiliar |  |  |
+| Não Residenciais | Grupo I | - todas as atividades |  |
+|  | Grupos II e III | - todas as atividades (3) , desde que licenciadas pelo COMAM |  |
 
 (1) A utilização de qualquer parâmetro urbanístico mais permissivo que o estabelecido pelo zoneamento da Lei 7166/96 determina a observância dos demais parâmetros constantes deste Anexo.
 
@@ -4260,25 +3154,17 @@ Anexo XIV - Parâmetros urbanísticos para AEIS-1
 
 Anexo XIV acrescentado pela Lei nº 10.716, de 20/1/2014 (Art. 9º)
 
-| |AEIS-1 |
-
-|Coeficiente de aproveitamento |2,8 (v. nota 1) |
-
-| |2,5 (v. nota 2) |
-
-| |1,7 (v. nota 3) |
-
-|Quota de terreno por unidade habitacional |- |
-
-|Taxa de Permeabilidade |Conforme art. 160. |
-
-|Destinação das unidades habitacionais por faixa de renda |70% - até 3 (três) salários mínimos |
-
-|(v. nota 4) | |
-
-| |30% - acima de 3 (três) e até 6 (seis) |
-
-| |salários mínimos |
+|  | AEIS-1 |
+| --- | --- |
+| Coeficiente de aproveitamento | 2,8 (v. nota 1) |
+|  | 2,5 (v. nota 2) |
+|  | 1,7 (v. nota 3) |
+| Quota de terreno por unidade habitacional | - |
+| Taxa de Permeabilidade | Conforme art. 160. |
+| Destinação das unidades habitacionais por faixa de renda | 70% - até 3 (três) salários mínimos |
+| (v. nota 4) |  |
+|  | 30% - acima de 3 (três) e até 6 (seis) |
+|  | salários mínimos |
 
 Nota 1. Coeficiente aplicável para lotes que atendam às seguintes condições: a) estejam inseridos em empreendimentos que abarquem, no mínimo, 2/3 (dois terços) da área da mancha de AEIS-1, incluídas nessa fração as Áreas de Preservação Permanente vinculadas aos mesmos, bem como as áreas transferidas ao Município por força da legislação relativa ao parcelamento do solo; b) que sejam destinados a edificações de uso misto nas quais o pavimento térreo seja ocupado por atividades de uso não residencial voltadas para o logradouro público, exceto estacionamento.
 

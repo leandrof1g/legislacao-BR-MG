@@ -208,9 +208,9 @@ ANEXO I
 
 (a que se refere o art. 16 do Decreto nº 17.065, de 20 de fevereiro de 2019)
 
-|Penalidades por infrações à Lei nº 9.336, de 6 de fevereiro de 2007 |
-
-| |
+| Penalidades por infrações à Lei nº 9.336, de 6 de fevereiro de 2007 |
+| --- |
+|  |
 
 item |Infração |Dispositivo Legal |Notificação Prévia |Prazo para atendimento |Multa – Valor-Base
 

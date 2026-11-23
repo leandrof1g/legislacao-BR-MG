@@ -122,7 +122,7 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Retificação publicada em 28/04/2005
 

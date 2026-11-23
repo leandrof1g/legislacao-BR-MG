@@ -174,10 +174,5 @@ Fernando Damata Pimentel
 
 Prefeito de Belo Horizonte
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]

@@ -30,9 +30,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO III MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|abril |Mês da Conscientização da Doença de Parkinson, denominado Tulipa Vermelha |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| abril | Mês da Conscientização da Doença de Parkinson, denominado Tulipa Vermelha |
 
 ”.
 

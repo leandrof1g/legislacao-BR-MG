@@ -30,19 +30,19 @@ O Prefeito de Belo Horizonte, no uso de suas atribuições legais, e tendo em vi
 
 **Art. 2º** - A Receita será realizada na forma da legislação em vigor, segundo as seguintes estimativas:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 3º** - A Despesa será realizada na forma da Legislação em vigor, observada a fixação constante do seguinte detalhamento: R$1,00
 
 a) Despesas por Categorias Econômicas
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 b) Despesas por Programas de Trabalho
 
 PROGRAMÁTICA ATIVIDADE/PROJETO DOTAÇÃO
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Parágrafo único** - Os recursos financeiros do Tesouro Municipal para o custeio das atividades administrativas e investimentos serão repassados pelo sistema de provisão de crédito, tendo em vista a aprovação da JUCOF - Junta de Coordenação Orçamentária e Financeira e as disponibilidades de tesouraria.
 

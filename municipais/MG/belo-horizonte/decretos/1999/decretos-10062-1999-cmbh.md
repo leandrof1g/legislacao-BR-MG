@@ -226,140 +226,73 @@ XXI - Operar microcomputadores e/ou terminais para pesquisas necessárias a comp
 
 ANEXO III
 
-|CÓDIGO |ATIVIDADE |DESCRIÇÃO |PONTOS |PONTOS |
-
-| | | |POSITIVOS |NEGATIVOS |
-
-|01 |Vistoria |Constatação de irregularidade na área de atuação do |06 |07 |
-
-| | |Fiscal de Limpeza Urbana em blitz. | | |
-
-|02 |Constatação de |Constatação de irregularidade fora da área de |06 |07 |
-
-| |irregularidade |atuação da SLU. Fiscalização integrada. | | |
-
-|03 |Advertência verbal |Constatação de infração que, face as circunstâncias,|06 |07 |
-
-| | |seja considerada involuntária e sem gravidade, | | |
-
-| | |seguida de orientação pedagógica, anotada em | | |
-
-| | |formulário próprio. | | |
-
-|04 |Emissão de Notificação|Emissão e entrega de NA via correio. |06 |07 |
-
-| |de advertência (NA) | | | |
-
-| |via correio | | | |
-
-|05 |Notificação de |Emissão e entrega de NA no local da irregularidade. |08 |09 |
-
-| |Advertência no local | | | |
-
-|06 |Emissão de NA em outro|Emissão e entrega de NA fora do local da |08 |09 |
-
-| |local |irregularidade. | | |
-
-|07 |Conferência |Conferência de NA e Advertência Verbal expedidas. |06 |07 |
-
-| | |Na conferência, a vistoria não é pontuada. | | |
-
-|08 |Nota de serviço ou |Necessárias à tramitação de Nota de Serviço ou |06 |07 |
-
-| |processo de |originária de Processo de Fiscalização. | | |
-
-| |fiscalização | | | |
-
-|09 |Campanha educativa |Número de visitas realizadas para Campanha Educativa|02 |03 |
-
-| | |com ou sem a distribuição de material, com | | |
-
-| | |identificação dos dados do responsável. | | |
-
-| | |Pontuação por visita. | | |
-
-| | |Obs.: Não serão considerados, para efeito de | | |
-
-| | |pontuação, os impressos deixados em caixas de | | |
-
-| | |correio. | | |
-
-|10 |Metas coletivas |Realização de campanha educativa com distribuição de|. |... |
-
-| | |material sem a identificação dos dados do | | |
-
-| | |responsável. |.. | |
-
-| | |Pontuação por hora de acordo com o valor dia/mês. | | |
-
-| | |Ex.: Vilas, favelas, córregos, fiscalização | | |
-
-| | |integrada, implantação de coleta, etc... | | |
-
-|11 |Emissão de auto de |Emissão de auto de infração por autuação do munícipe|08 |09 |
-
-| |infração |ou entidade, por descumprimento do RLU. | | |
-
-|12 |Plantão interno |Trabalho executado dentro das dependências da SLU, |... |... |
-
-| | |por determinação do Coordenador de Fiscalização, das| | |
-
-| | |Chefias de Seção e Divisão ou participação docente | | |
-
-| | |ou discente em atividade de treinamento, | | |
-
-| | |aperfeiçoamento, seminários e similares. | | |
-
-| | |Pontuação por hora de acordo com o valor dia/mês. | | |
-
-| | |Obs.: Não serão pontuadas as horas destinadas ao | | |
-
-| | |preenchimento de NA, AI, BOLMAP, croqui, etc... | | |
-
-|13 |Plantão externo |Trabalho executado por determinação do Coordenador |... |... |
-
-| | |de Fiscalização ou das Chefias de Seção e Divisão de| | |
-
-| | |locais externos, visando sanar focos de | | |
-
-| | |irregularidade que exijam fiscalização educativa e | | |
-
-| | |ostensiva. | | |
-
-| | |Pontuação por hora de acordo com o valor dia/mês. | | |
-
-|14 |Técnico Fiscal |Trabalho executado em atividades técnico fiscal por |... |... |
-
-| | |designação do Superintendente de Limpeza Urbana. | | |
-
-| | |Pontuação por hora de acordo com o valor dia/mês. | | |
-
-|15 |Pesquisa |Trabalho executado por determinação do Coordenador |--- |--- |
-
-| | |de Fiscalização ou das Chefias de Seção e Divisão | | |
-
-| | |visando localizar e identificar os titulares de | | |
-
-| | |infrações. | | |
-
-| | |Pontuação por hora de acordo com o valor dia/mês. | | |
-
-|16 |Réplica e tréplica |Por trabalho executado na elaboração de réplica e |10 |11 |
-
-| |fiscal |tréplica fiscal em processos do contencioso | | |
-
-| | |Administrativo Fiscal. | | |
-
-|17 |Coordenação de |Por trabalho executado em conformidade com |... |... |
-
-| |Fiscalização |atribuições definidas no anexo II. | | |
-
-| | |Pontuação por hora de acordo com o valor dia/mês. | | |
-
-|18 |Avaliação do |Dez por cento por cada item da avaliação da chefia |--- |100% |
-
-| |coordenador de |(total de 10 itens). | | |
-
-| |fiscalização | | | |
-
-|19 |Avaliação do fiscal |Pontos obtidos no mês |--- |20% |
+| CÓDIGO | ATIVIDADE | DESCRIÇÃO | PONTOS | PONTOS |
+| --- | --- | --- | --- | --- |
+|  |  |  | POSITIVOS | NEGATIVOS |
+| 01 | Vistoria | Constatação de irregularidade na área de atuação do | 06 | 07 |
+|  |  | Fiscal de Limpeza Urbana em blitz. |  |  |
+| 02 | Constatação de | Constatação de irregularidade fora da área de | 06 | 07 |
+|  | irregularidade | atuação da SLU. Fiscalização integrada. |  |  |
+| 03 | Advertência verbal | Constatação de infração que, face as circunstâncias, | 06 | 07 |
+|  |  | seja considerada involuntária e sem gravidade, |  |  |
+|  |  | seguida de orientação pedagógica, anotada em |  |  |
+|  |  | formulário próprio. |  |  |
+| 04 | Emissão de Notificação | Emissão e entrega de NA via correio. | 06 | 07 |
+|  | de advertência (NA) |  |  |  |
+|  | via correio |  |  |  |
+| 05 | Notificação de | Emissão e entrega de NA no local da irregularidade. | 08 | 09 |
+|  | Advertência no local |  |  |  |
+| 06 | Emissão de NA em outro | Emissão e entrega de NA fora do local da | 08 | 09 |
+|  | local | irregularidade. |  |  |
+| 07 | Conferência | Conferência de NA e Advertência Verbal expedidas. | 06 | 07 |
+|  |  | Na conferência, a vistoria não é pontuada. |  |  |
+| 08 | Nota de serviço ou | Necessárias à tramitação de Nota de Serviço ou | 06 | 07 |
+|  | processo de | originária de Processo de Fiscalização. |  |  |
+|  | fiscalização |  |  |  |
+| 09 | Campanha educativa | Número de visitas realizadas para Campanha Educativa | 02 | 03 |
+|  |  | com ou sem a distribuição de material, com |  |  |
+|  |  | identificação dos dados do responsável. |  |  |
+|  |  | Pontuação por visita. |  |  |
+|  |  | Obs.: Não serão considerados, para efeito de |  |  |
+|  |  | pontuação, os impressos deixados em caixas de |  |  |
+|  |  | correio. |  |  |
+| 10 | Metas coletivas | Realização de campanha educativa com distribuição de | . | ... |
+|  |  | material sem a identificação dos dados do |  |  |
+|  |  | responsável. | .. |  |
+|  |  | Pontuação por hora de acordo com o valor dia/mês. |  |  |
+|  |  | Ex.: Vilas, favelas, córregos, fiscalização |  |  |
+|  |  | integrada, implantação de coleta, etc... |  |  |
+| 11 | Emissão de auto de | Emissão de auto de infração por autuação do munícipe | 08 | 09 |
+|  | infração | ou entidade, por descumprimento do RLU. |  |  |
+| 12 | Plantão interno | Trabalho executado dentro das dependências da SLU, | ... | ... |
+|  |  | por determinação do Coordenador de Fiscalização, das |  |  |
+|  |  | Chefias de Seção e Divisão ou participação docente |  |  |
+|  |  | ou discente em atividade de treinamento, |  |  |
+|  |  | aperfeiçoamento, seminários e similares. |  |  |
+|  |  | Pontuação por hora de acordo com o valor dia/mês. |  |  |
+|  |  | Obs.: Não serão pontuadas as horas destinadas ao |  |  |
+|  |  | preenchimento de NA, AI, BOLMAP, croqui, etc... |  |  |
+| 13 | Plantão externo | Trabalho executado por determinação do Coordenador | ... | ... |
+|  |  | de Fiscalização ou das Chefias de Seção e Divisão de |  |  |
+|  |  | locais externos, visando sanar focos de |  |  |
+|  |  | irregularidade que exijam fiscalização educativa e |  |  |
+|  |  | ostensiva. |  |  |
+|  |  | Pontuação por hora de acordo com o valor dia/mês. |  |  |
+| 14 | Técnico Fiscal | Trabalho executado em atividades técnico fiscal por | ... | ... |
+|  |  | designação do Superintendente de Limpeza Urbana. |  |  |
+|  |  | Pontuação por hora de acordo com o valor dia/mês. |  |  |
+| 15 | Pesquisa | Trabalho executado por determinação do Coordenador | --- | --- |
+|  |  | de Fiscalização ou das Chefias de Seção e Divisão |  |  |
+|  |  | visando localizar e identificar os titulares de |  |  |
+|  |  | infrações. |  |  |
+|  |  | Pontuação por hora de acordo com o valor dia/mês. |  |  |
+| 16 | Réplica e tréplica | Por trabalho executado na elaboração de réplica e | 10 | 11 |
+|  | fiscal | tréplica fiscal em processos do contencioso |  |  |
+|  |  | Administrativo Fiscal. |  |  |
+| 17 | Coordenação de | Por trabalho executado em conformidade com | ... | ... |
+|  | Fiscalização | atribuições definidas no anexo II. |  |  |
+|  |  | Pontuação por hora de acordo com o valor dia/mês. |  |  |
+| 18 | Avaliação do | Dez por cento por cada item da avaliação da chefia | --- | 100% |
+|  | coordenador de | (total de 10 itens). |  |  |
+|  | fiscalização |  |  |  |
+| 19 | Avaliação do fiscal | Pontos obtidos no mês | --- | 20% |

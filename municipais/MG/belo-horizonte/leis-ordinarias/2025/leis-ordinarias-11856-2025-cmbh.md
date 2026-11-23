@@ -42,9 +42,9 @@ SEMANA COMEMORATIVA
 
 C - Semanas comemorativas de março:
 
-|DATA |COMEMORAÇÃO |
-
-|terceira semana de março |Semana da Neurodiversidade |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| terceira semana de março | Semana da Neurodiversidade |
 
 .”.
 

@@ -54,16 +54,11 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no caput do art. 4º da Lei |
-
-|nº 11.277, de 28 de dezembro de 2020: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0050 |5.500.000,00 |
-
-|2302.10.302.203.2.894.3390.0050 |13.274.424,00 |
-
-|2302.10.302.203.2.894.3391.0050 |1.488.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |20.262.424,00 |
+| I.1 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no caput do art. 4º da Lei |  |
+| --- | --- |
+| nº 11.277, de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0050 | 5.500.000,00 |
+| 2302.10.302.203.2.894.3390.0050 | 13.274.424,00 |
+| 2302.10.302.203.2.894.3391.0050 | 1.488.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 20.262.424,00 |

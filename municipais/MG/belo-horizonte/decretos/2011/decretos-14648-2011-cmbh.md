@@ -282,79 +282,48 @@ ANEXO I - A
 
 PONTUAÇÃO POR EXPEDIENTES FISCAIS
 
-|CÓDIGO |ATIVIDADE |DESCRIÇÃO DA ATIVIDADE |PONTUAÇÃO |
-
-| | | |Múltiplo da tabela do § |
-
-| | | |2º, Art. 4º da |
-
-| | | |Lei nº 10.308/11 |
-
-|01.01.01 |Atendimento de Expediente |Por execução de ação fiscal completa, de acordo com roteiro |2,13 |
-
-| |Fiscal |próprio, incluindo lavratura de documentos e demais atos | |
-
-| | |necessários à instrução e conclusão do Expediente Fiscal | |
-
-| | |para um determinado local, por vistoria. | |
+| CÓDIGO | ATIVIDADE | DESCRIÇÃO DA ATIVIDADE | PONTUAÇÃO |
+| --- | --- | --- | --- |
+|  |  |  | Múltiplo da tabela do § |
+|  |  |  | 2º, Art. 4º da |
+|  |  |  | Lei nº 10.308/11 |
+| 01.01.01 | Atendimento de Expediente | Por execução de ação fiscal completa, de acordo com roteiro | 2,13 |
+|  | Fiscal | próprio, incluindo lavratura de documentos e demais atos |  |
+|  |  | necessários à instrução e conclusão do Expediente Fiscal |  |
+|  |  | para um determinado local, por vistoria. |  |
 
 ANEXO I - B
 
 PONTUAÇÃO POR HORA JORNADA
 
-|CÓDIGO |ATIVIDADE |DESCRIÇÃO DA ATIVIDADE |PONTUAÇÃO |
-
-| | | |Y = nº total de pontos |
-
-| | | |possíveis referente as |
-
-| | | |atividades (375) |
-
-| | | |X = total de dias úteis do |
-
-| | | |mês em referência. |
-
-|02.02.01 |Plantão interno e externo |Por hora / jornada de efetivo trabalho fiscal, em cumprimento | |
-
-| | |de plantões internos ou externos, determinadas pela Gerência | |
-
-| | |imediata e comprovadas em relatório, não sendo computado outros| |
-
-| | |pontos no período. | |
-
-|02.02.02 |Atividades Técnico-fiscais |Atividades técnico-fiscais ou técnico-científicas, determinadas| |
-
-| | |pela Gerência imediata, comprovadas em relatório. | |
-
-|02.02.03 |Participar ou atuar em Juntas |Atuar em Junta de Julgamento, de Recurso Fiscal e afins, por | |
-
-| |e outros afins |designação expressa para este fim ou participar de audiências, | |
-
-| | |por determinação ou autorização da Gerência imediata. | |
-
-|02.02.04 |Planejar, elaborar e ministrar|Planejar, elaborar e ministrar curso, seminário e treinamento, | |
-
-| |cursos e outros |por determinação superior; | |
-
-|02.02.05 |Participar de reuniões, cursos|Participação em reunião de trabalho, curso, seminário, | |
-
-| |e outros |treinamento, conselhos, comissões e afins, por determinação ou | |
-
-| | |autorização da Gerência imediata. | |
-
-|02.02.06 |Elaboração de parecer fiscal |Elaboração de parecer fiscal em processo e em consulta | |
-
-| | |formulada por munícipe e/ou por pessoa jurídica sobre a | |
-
-| | |legislação municipal, assim como contencioso advindo do | |
-
-| | |Ministério Público e Judiciário em qualquer esfera de Governo | |
-
-|02.02.07 |Coordenação de Fiscalização | | |
-
-| | |Coordenação das atividades fiscais; | |
-
-| | | | |
+| CÓDIGO | ATIVIDADE | DESCRIÇÃO DA ATIVIDADE | PONTUAÇÃO |
+| --- | --- | --- | --- |
+|  |  |  | Y = nº total de pontos |
+|  |  |  | possíveis referente as |
+|  |  |  | atividades (375) |
+|  |  |  | X = total de dias úteis do |
+|  |  |  | mês em referência. |
+| 02.02.01 | Plantão interno e externo | Por hora / jornada de efetivo trabalho fiscal, em cumprimento |  |
+|  |  | de plantões internos ou externos, determinadas pela Gerência |  |
+|  |  | imediata e comprovadas em relatório, não sendo computado outros |  |
+|  |  | pontos no período. |  |
+| 02.02.02 | Atividades Técnico-fiscais | Atividades técnico-fiscais ou técnico-científicas, determinadas |  |
+|  |  | pela Gerência imediata, comprovadas em relatório. |  |
+| 02.02.03 | Participar ou atuar em Juntas | Atuar em Junta de Julgamento, de Recurso Fiscal e afins, por |  |
+|  | e outros afins | designação expressa para este fim ou participar de audiências, |  |
+|  |  | por determinação ou autorização da Gerência imediata. |  |
+| 02.02.04 | Planejar, elaborar e ministrar | Planejar, elaborar e ministrar curso, seminário e treinamento, |  |
+|  | cursos e outros | por determinação superior; |  |
+| 02.02.05 | Participar de reuniões, cursos | Participação em reunião de trabalho, curso, seminário, |  |
+|  | e outros | treinamento, conselhos, comissões e afins, por determinação ou |  |
+|  |  | autorização da Gerência imediata. |  |
+| 02.02.06 | Elaboração de parecer fiscal | Elaboração de parecer fiscal em processo e em consulta |  |
+|  |  | formulada por munícipe e/ou por pessoa jurídica sobre a |  |
+|  |  | legislação municipal, assim como contencioso advindo do |  |
+|  |  | Ministério Público e Judiciário em qualquer esfera de Governo |  |
+| 02.02.07 | Coordenação de Fiscalização |  |  |
+|  |  | Coordenação das atividades fiscais; |  |
+|  |  |  |  |
 
 ANEXO II
 

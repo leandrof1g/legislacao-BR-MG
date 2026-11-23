@@ -48,58 +48,33 @@ ANEXO
 
 IV.20 – Gabinete do Vice-Prefeito – GVP:
 
-|GVP |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |1 |GAVP.DAM2.A.001 |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |2 |GAVP.DAM3.A.001 a GAVP.DAM3.A.002 |
-
-|DAM-4 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-5 |LIMITADO |0 |- |
-
-| |AMPLO |4 |GAVP.DAM5.A.001 a GAVP.DAM5.A.004 |
-
-|DAM-6 |LIMITADO |0 |- |
-
-| |AMPLO |4 |GAVP.DAM6.A.001 a GAVP.DAM6.A.004 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |2 |GAVP.DAM7.A.001 a GAVP.DAM7.A.002 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |2 |GAVP.DAM9.A.001 a GAVP.DAM9.A.002 |
-
-|FCA-1 |LIMITADO |0 |- |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |0 |- |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |0 |- |
-
-|TOTAL DE CARGOS |15 | |
+| GVP |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | GAVP.DAM2.A.001 |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 2 | GAVP.DAM3.A.001 a GAVP.DAM3.A.002 |
+| DAM-4 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-5 | LIMITADO | 0 | - |
+|  | AMPLO | 4 | GAVP.DAM5.A.001 a GAVP.DAM5.A.004 |
+| DAM-6 | LIMITADO | 0 | - |
+|  | AMPLO | 4 | GAVP.DAM6.A.001 a GAVP.DAM6.A.004 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 2 | GAVP.DAM7.A.001 a GAVP.DAM7.A.002 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 2 | GAVP.DAM9.A.001 a GAVP.DAM9.A.002 |
+| FCA-1 | LIMITADO | 0 | - |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 0 | - |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 0 | - |
+| TOTAL DE CARGOS | 15 |  |  |
 
 ”

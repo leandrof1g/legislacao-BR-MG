@@ -52,30 +52,21 @@ ANEXO
 
 I – Acréscimo de recursos por remanejamento de créditos orçamentários nas seguintes dotações do orçamento vigente a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Assistência Social, |
-
-|Segurança Alimentar e Cidadania - SMASAC : |
-
-|R$ |
-
-|1000.14.422.127.2.840.3171.0100 |3.464,00 |
-
-|1000.14.422.127.2.840.3371.0300 |161.721,00 |
-
-|1000.14.422.127.2.840.4471.0400 |9.740,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |174.925,00 |
+| I.1 – A favor da Secretaria Municipal de Assistência Social, |  |
+| --- | --- |
+| Segurança Alimentar e Cidadania - SMASAC : |  |
+| R$ |  |
+| 1000.14.422.127.2.840.3171.0100 | 3.464,00 |
+| 1000.14.422.127.2.840.3371.0300 | 161.721,00 |
+| 1000.14.422.127.2.840.4471.0400 | 9.740,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 174.925,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Consórcio da Mulher - CSM: |
-
-|R$ |
-
-|1020.14.422.127.2.840.3171.0100 |3.464,00 |
-
-|1020.14.422.127.2.840.3371.0300 |161.721,00 |
-
-|1020.14.422.127.2.840.4471.0400 |9.740,00 |
-
-|TOTAL DA ANULAÇÃO |174.925,00 |
+| II.1 – Consórcio da Mulher - CSM: |  |
+| --- | --- |
+| R$ |  |
+| 1020.14.422.127.2.840.3171.0100 | 3.464,00 |
+| 1020.14.422.127.2.840.3371.0300 | 161.721,00 |
+| 1020.14.422.127.2.840.4471.0400 | 9.740,00 |
+| TOTAL DA ANULAÇÃO | 174.925,00 |

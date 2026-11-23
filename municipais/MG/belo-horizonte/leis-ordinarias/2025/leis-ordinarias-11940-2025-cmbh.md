@@ -242,13 +242,11 @@ ANEXO I
 
 QUANTITATIVO DOS EMPREGOS PÚBLICOS DE AGENTE COMUNITÁRIO DE SAÚDE - ACS - E AGENTE DE COMBATE A ENDEMIAS – ACE
 
-|EMPREGO PÚBLICO |QUANTITATIVO |
-
-|Agente Comunitário de Saúde |2.700 |
-
-|Agente de Combate a Endemias |1.574 |
-
-|Agente de Combate a Endemias II (em vacância) |129 |
+| EMPREGO PÚBLICO | QUANTITATIVO |
+| --- | --- |
+| Agente Comunitário de Saúde | 2.700 |
+| Agente de Combate a Endemias | 1.574 |
+| Agente de Combate a Endemias II (em vacância) | 129 |
 
 ANEXO II
 
@@ -276,53 +274,31 @@ V - apoiar as instâncias de supervisão, coordenação técnica e gerenciamento
 
 ANEXO III TABELA DE SALÁRIO-BASE DOS EMPREGOS PÚBLICOS DE ACS, ACE E ACE II
 
-|Agente Comunitário de Saúde (ACS) / Agente de Combate a Endemias (ACE) |
-
-|Escolaridade |Classe |Nível |
-
-| |
-
-|Escolaridade |Classe |Nível |
-
-| |
-
-|Escolaridade |Classe |Nível |
-
-| |
-
-|Escolaridade |Classe |Nível |
-
-| | |
-
-|1 |1 |
-
-|2 |2 |
-
-|3 |2 |
-
-|4 |2 |
-
-|5 |3 |
-
-|6 |4 |
-
-|7 |5 |
-
-|8 |6 |
-
-|9 |7 |
-
-|10 |8 |
-
-|11 |9 |
-
-|12 |10 |
-
-|13 |11 |
-
-|14 |12 |
-
-|15 |13 |
+| Agente Comunitário de Saúde (ACS) / Agente de Combate a Endemias (ACE) |  |  |
+| --- | --- | --- |
+| Escolaridade | Classe | Nível |
+|  |  |  |
+| Escolaridade | Classe | Nível |
+|  |  |  |
+| Escolaridade | Classe | Nível |
+|  |  |  |
+| Escolaridade | Classe | Nível |
+|  |  |  |
+| 1 | 1 |  |
+| 2 | 2 |  |
+| 3 | 2 |  |
+| 4 | 2 |  |
+| 5 | 3 |  |
+| 6 | 4 |  |
+| 7 | 5 |  |
+| 8 | 6 |  |
+| 9 | 7 |  |
+| 10 | 8 |  |
+| 11 | 9 |  |
+| 12 | 10 |  |
+| 13 | 11 |  |
+| 14 | 12 |  |
+| 15 | 13 |  |
 
 ## Observações da CMBH
 

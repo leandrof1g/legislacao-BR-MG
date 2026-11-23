@@ -128,95 +128,60 @@ FATORES DE PONDERAÇÃO DAS METAS DE OTIMIZAÇÃO DOS SERVIÇOS PÚBLICOS DE FIS
 
 01 - Fiscais Integrados por território de designação (02 metas propostas, totalizando 10 pontos = 510 UPFIs)
 
-|Meta 1 |Fator de Ponderação (FP1) |UPFIs a serem pagas no semestre|
-
-| | |(B1) |
-
-|Atender, no âmbito do território de sua designação, nos prazos |7,5 |382,5 |
-
-|estabelecidos, 85% dos SACWEB recebidos, com a devida informação no | | |
-
-|sistema. | | |
-
-|Meta 2 |Fator de Ponderação (FP2) |UPFIs a serem pagas no semestre|
-
-| | |(B2) |
-
-|Atender, no âmbito do território de sua designação, no primeiro |2,5 |127,5 |
-
-|semestre do ano em curso, 98% dos SACWEB que se encontram fora do | | |
-
-|prazo, com a devida informação no sistema. | | |
+| Meta 1 | Fator de Ponderação (FP1) | UPFIs a serem pagas no semestre |
+| --- | --- | --- |
+|  |  | (B1) |
+| Atender, no âmbito do território de sua designação, nos prazos | 7,5 | 382,5 |
+| estabelecidos, 85% dos SACWEB recebidos, com a devida informação no |  |  |
+| sistema. |  |  |
+| Meta 2 | Fator de Ponderação (FP2) | UPFIs a serem pagas no semestre |
+|  |  | (B2) |
+| Atender, no âmbito do território de sua designação, no primeiro | 2,5 | 127,5 |
+| semestre do ano em curso, 98% dos SACWEB que se encontram fora do |  |  |
+| prazo, com a devida informação no sistema. |  |  |
 
 RESULTADO FINAL = B1 + B2 = Total de UPFIs a serem pagas ao final do semestre.
 
 02 - Fiscais Integrados ocupantes de cargos em comissão nas unidades de Fiscalização das Secretarias de Administração Regional Municipal e nas Juntas Integradas de Julgamento Fiscal (03 metas propostas, totalizando 10 pontos = 510 UPFIs)
 
-|Meta 1 |Fator de Ponderação (FP1) |UPFIs a serem pagas no semestre |
-
-| | |(B1) |
-
-|Encaminhar à SMAFIS 100% dos relatórios dos Planos de Ação elaborados |4 |204 |
-
-|por aquela Secretaria, e que se encontram em execução no período, nos | | |
-
-|prazos e padrões previstos nos mesmos. | | |
-
-|Meta 2 |Fator de Ponderação (FP2) |UPFIs a serem pagas no semestre |
-
-| | |(B2) |
-
-|Providenciar para que a demanda de SACWEB aberta ou existente no |3 |153 |
-
-|semestre, exceto os SAC’s ainda dentro do prazo no final do último mês | | |
-
-|de apuração, seja atendida no primeiro semestre do ano em curso, com a | | |
-
-|devida informação no sistema. | | |
-
-|Meta 3 |Fator de Ponderação (FP3) |UPFIs a serem pagas no semestre |
-
-| | |(B3) |
-
-|Providenciar para que as respostas no SACWEB sejam registradas, com |3 |153 |
-
-|nível de qualidade dentro dos padrões estabelecidos, em 95% dos casos | | |
-
-|nas amostras coletadas pelas áreas afins da SMAFIS. | | |
+| Meta 1 | Fator de Ponderação (FP1) | UPFIs a serem pagas no semestre |
+| --- | --- | --- |
+|  |  | (B1) |
+| Encaminhar à SMAFIS 100% dos relatórios dos Planos de Ação elaborados | 4 | 204 |
+| por aquela Secretaria, e que se encontram em execução no período, nos |  |  |
+| prazos e padrões previstos nos mesmos. |  |  |
+| Meta 2 | Fator de Ponderação (FP2) | UPFIs a serem pagas no semestre |
+|  |  | (B2) |
+| Providenciar para que a demanda de SACWEB aberta ou existente no | 3 | 153 |
+| semestre, exceto os SAC’s ainda dentro do prazo no final do último mês |  |  |
+| de apuração, seja atendida no primeiro semestre do ano em curso, com a |  |  |
+| devida informação no sistema. |  |  |
+| Meta 3 | Fator de Ponderação (FP3) | UPFIs a serem pagas no semestre |
+|  |  | (B3) |
+| Providenciar para que as respostas no SACWEB sejam registradas, com | 3 | 153 |
+| nível de qualidade dentro dos padrões estabelecidos, em 95% dos casos |  |  |
+| nas amostras coletadas pelas áreas afins da SMAFIS. |  |  |
 
 RESULTADO FINAL = B1 + B2 + B3 = Total de UPFIs a serem pagas ao final do semestre.
 
 03 - Fiscais Integrados, inclusive os liberados para o exercício de mandato eletivo em diretoria executiva de entidade sindical representativa de classe, Técnicos Fiscais e ocupantes de cargos em comissão na SMAFIS e na Junta Integrada de Recursos Fiscais (03 metas propostas, totalizando 10 pontos = 510 UPFIs)
 
-|Meta 1 |Fator de Ponderação (FP1) |UPFIs a serem pagas no semestre |
-
-| | |(B1) |
-
-|Tomar as providências necessárias para que 100% das metas previstas |4 |204 |
-
-|para os territórios, relativas à demanda do SACWEB, sejam cumpridas no | | |
-
-|âmbito do Município. | | |
-
-|Meta 2 |Fator de Ponderação (FP2) |UPFIs a serem pagas no semestre |
-
-| | |(B2) |
-
-|Elaborar, dentro dos padrões estabelecidos pelo Governo, os planos de |3 |153 |
-
-|ação relativos às diversas áreas fiscais, no que tange ao planejamento,| | |
-
-|acompanhamento, monitoramento e suporte, com a devida consolidação dos | | |
-
-|resultados. | | |
-
-|Meta 3 |Fator de Ponderação (FP3) |UPFIs a serem pagas no semestre |
-
-| | |(B3) |
-
-|Entregar à SMAFIS, dentro dos prazos previstos, os relatórios mensais|3 |153 |
-
-|relativos ao desempenho de sua área de atuação. | | |
+| Meta 1 | Fator de Ponderação (FP1) | UPFIs a serem pagas no semestre |
+| --- | --- | --- |
+|  |  | (B1) |
+| Tomar as providências necessárias para que 100% das metas previstas | 4 | 204 |
+| para os territórios, relativas à demanda do SACWEB, sejam cumpridas no |  |  |
+| âmbito do Município. |  |  |
+| Meta 2 | Fator de Ponderação (FP2) | UPFIs a serem pagas no semestre |
+|  |  | (B2) |
+| Elaborar, dentro dos padrões estabelecidos pelo Governo, os planos de | 3 | 153 |
+| ação relativos às diversas áreas fiscais, no que tange ao planejamento, |  |  |
+| acompanhamento, monitoramento e suporte, com a devida consolidação dos |  |  |
+| resultados. |  |  |
+| Meta 3 | Fator de Ponderação (FP3) | UPFIs a serem pagas no semestre |
+|  |  | (B3) |
+| Entregar à SMAFIS, dentro dos prazos previstos, os relatórios mensais | 3 | 153 |
+| relativos ao desempenho de sua área de atuação. |  |  |
 
 RESULTADO FINAL = B1 + B2 + B3 = Total de UPFIs a serem pagas ao final do semestre.
 

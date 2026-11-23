@@ -76,7 +76,7 @@ a) Popular - Padrão de acabamento nitidamente inferior ao Baixo; valor igual a 
 
 b) Luxo - Padrão de acabamento muito superior ao alto, com emprêgo generalizado de materiais nobres; valor igual a 140o/a do alto.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **§ 2º** - Barracões térreos de padrão muito inferior ao tipo popular serão avaliados por 40% do valor do tipo Baixo e suas características estão descritas no anexo III.
 

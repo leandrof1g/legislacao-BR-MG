@@ -116,20 +116,13 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|Prova |Disciplina |Nº de Questões |
-
-|Legislação Interna |Plano de Carreira |7 (sete) |
-
-| |Estatuto da Guarda Municipal |8 (oito) |
-
-| |Procedimentos Operacionais |15 (quinze) |
-
-|Legislação Específica |Constituição Federal, Declaração dos Direitos |10 (dez) |
-
-| |Humanos, Legislação de Trânsito, Uso legal e | |
-
-| |progressivo da força e emprego de equipamentos | |
-
-| |letais e não letais | |
-
-|Subtotal | |40 (quarenta) |
+| Prova | Disciplina | Nº de Questões |
+| --- | --- | --- |
+| Legislação Interna | Plano de Carreira | 7 (sete) |
+|  | Estatuto da Guarda Municipal | 8 (oito) |
+|  | Procedimentos Operacionais | 15 (quinze) |
+| Legislação Específica | Constituição Federal, Declaração dos Direitos | 10 (dez) |
+|  | Humanos, Legislação de Trânsito, Uso legal e |  |
+|  | progressivo da força e emprego de equipamentos |  |
+|  | letais e não letais |  |
+| Subtotal |  | 40 (quarenta) |

@@ -86,33 +86,21 @@ Publicado no DOM de 03/07/2004
 
 ANEXO ÚNICO DO DECRETO Nº 11.751/2004
 
-|PREFEITURA MUNICIPAL DE BELO HORIZONTE |
-
-|UNIDADE ORÇAMENTÁRIA: |
-
-|Cadastro de Logradouros/Hidrômetros para Processamento de Despesas de Água e Esgoto |
-
-|Matrícula Imóvel |
-
-|Nome do Órgão |Endereço |Dotação Orçamentária |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
-
-| | | |
+| PREFEITURA MUNICIPAL DE BELO HORIZONTE |  |  |
+| --- | --- | --- |
+| UNIDADE ORÇAMENTÁRIA: |  |  |
+| Cadastro de Logradouros/Hidrômetros para Processamento de Despesas de Água e Esgoto |  |  |
+| Matrícula Imóvel |  |  |
+| Nome do Órgão | Endereço | Dotação Orçamentária |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 Local e Data
 

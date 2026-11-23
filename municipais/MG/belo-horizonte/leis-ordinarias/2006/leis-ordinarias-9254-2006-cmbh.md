@@ -46,19 +46,14 @@ III - Laboratório Distrital Venda Nova, criado pelo inciso II do art. 18 do Dec
 
 CARGOS DE PROVIMENTO EFETIVO E FUNÇÕES PÚBLICAS DA ÁREA DA SAÚDE DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CLASSES |NÚMERO DE CARGOS |
-
-|(...) |(...) |
-
-|FUNÇÃO PÚBLICA |NÚMERO DE FUNÇÕES |
-
-|Gerente de Unidade de Saúde 1 |155 |
-
-|Gerente de Unidade de Saúde 2 |55 |
-
-|Gerente de Unidade de Saúde 3 |23 |
-
-|Total |233 |
+| CLASSES | NÚMERO DE CARGOS |
+| --- | --- |
+| (...) | (...) |
+| FUNÇÃO PÚBLICA | NÚMERO DE FUNÇÕES |
+| Gerente de Unidade de Saúde 1 | 155 |
+| Gerente de Unidade de Saúde 2 | 55 |
+| Gerente de Unidade de Saúde 3 | 23 |
+| Total | 233 |
 
 .” (NR)
 

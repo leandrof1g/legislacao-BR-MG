@@ -58,137 +58,76 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da |R$ |
-
-|Lei nº 11.442, de 29 de dezembro de 2022: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.1800.04.122.166.2.900.449052.500 |390.802,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-| |
-
-|0604.1100.19.572.302.2.905.449039.501 |1.400.000,00 |
-
-|0604.1901.19.572.302.2.905.339040.500 |300.000,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.1100.16.482.225.1.231.449051.755 |1.300.000,00 |
-
-|Fundação Municipal de Cultura - FMC |
-
-|3103.1100.13.122.146.2.900.339037.500 |75.813,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-| |
-
-|4001.5701.28.846.088.3.091.339039.500 |1.000.000,00 |
-
-|4001.5701.28.846.088.3.091.339093.500 |100.000,00 |
-
-|4001.5702.04.122.007.2.124.339040.500 |250.000,00 |
-
-|Fundo Previdenciário – BHPREV |
-
-|0614.1100.09.122.026.2.871.449052.802 |172.000,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.3303.10.302.030.2.620.449052.659 |536.184,00 |
-
-|2301.3304.10.302.030.2.875.449052.659 |49.507,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.301.157.2.690.339034.621 |3.000.000,00 |
-
-|2302.3401.10.302.114.2.893.335043.621 |697.866,52 |
-
-|2302.3401.10.302.114.2.894.339039.500 |10.440.943,42 |
-
-|2302.3401.10.302.114.2.894.339139.621 |8.832,37 |
-
-|2302.3401.10.303.117.2.895.339032.621 |261.560,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |19.983.508,31 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da | R$ |
+| --- | --- |
+| Lei nº 11.442, de 29 de dezembro de 2022: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.1800.04.122.166.2.900.449052.500 | 390.802,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+|  |  |
+| 0604.1100.19.572.302.2.905.449039.501 | 1.400.000,00 |
+| 0604.1901.19.572.302.2.905.339040.500 | 300.000,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.1100.16.482.225.1.231.449051.755 | 1.300.000,00 |
+| Fundação Municipal de Cultura - FMC |  |
+| 3103.1100.13.122.146.2.900.339037.500 | 75.813,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+|  |  |
+| 4001.5701.28.846.088.3.091.339039.500 | 1.000.000,00 |
+| 4001.5701.28.846.088.3.091.339093.500 | 100.000,00 |
+| 4001.5702.04.122.007.2.124.339040.500 | 250.000,00 |
+| Fundo Previdenciário – BHPREV |  |
+| 0614.1100.09.122.026.2.871.449052.802 | 172.000,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.3303.10.302.030.2.620.449052.659 | 536.184,00 |
+| 2301.3304.10.302.030.2.875.449052.659 | 49.507,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.301.157.2.690.339034.621 | 3.000.000,00 |
+| 2302.3401.10.302.114.2.893.335043.621 | 697.866,52 |
+| 2302.3401.10.302.114.2.894.339039.500 | 10.440.943,42 |
+| 2302.3401.10.302.114.2.894.339139.621 | 8.832,37 |
+| 2302.3401.10.303.117.2.895.339032.621 | 261.560,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 19.983.508,31 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.1800.04.122.166.1.323.339035.500 |390.802,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.1901.19.572.085.2.602.449040.501 |700.000,00 |
-
-|0604.1901.19.572.085.2.602.449051.501 |300.000,00 |
-
-|0604.1901.19.572.085.2.602.449052.501 |100.000,00 |
-
-|0604.1901.19.572.085.2.605.339040.500 |300.000,00 |
-
-|0604.1902.19.572.085.2.603.449040.501 |300.000,00 |
-
-|Fundo Previdenciário – BHPREV |
-
-|0614.1100.99.997.999.9.999.999999.802 |172.000,00 |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.2000.04.129.013.2.052.339039.500 |1.350.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.1100.13.391.155.2.375.339030.500 |75.813,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.1100.16.482.226.1.207.449061.755 |1.300.000,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.3301.10.122.030.2.900.339035.659 |6.845,00 |
-
-|2301.3301.10.122.030.2.900.339139.659 |48.000,00 |
-
-|2301.3301.10.122.030.2.900.449052.659 |289.085,00 |
-
-|2301.3301.10.122.030.2.900.449092.659 |10.000,00 |
-
-|2301.3303.10.302.030.2.620.339037.659 |87.854,00 |
-
-|2301.3303.10.302.030.2.620.449092.659 |42.057,00 |
-
-|2301.3303.10.302.030.2.620.449040.659 |1.850,00 |
-
-|2301.3304.10.302.030.2.875.449051.659 |50.000,00 |
-
-|2301.3304.10.302.030.2.875.449092.659 |50.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.302.114.2.891.339030.621 |43.063,64 |
-
-|2302.3401.10.302.114.2.894.339039.621 |3.574.540,96 |
-
-|2302.3401.10.302.114.2.902.336783.500 |10.440.943,42 |
-
-|2302.3401.10.304.028.2.829.339039.621 |114,29 |
-
-|2302.3401.10.305.028.2.829.339030.621 |350.000,00 |
-
-|2302.3401.10.304.028.2.829.339040.621 |540,00 |
-
-|TOTAL DA ANULAÇÃO |19.983.508,31 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.1800.04.122.166.1.323.339035.500 | 390.802,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.1901.19.572.085.2.602.449040.501 | 700.000,00 |
+| 0604.1901.19.572.085.2.602.449051.501 | 300.000,00 |
+| 0604.1901.19.572.085.2.602.449052.501 | 100.000,00 |
+| 0604.1901.19.572.085.2.605.339040.500 | 300.000,00 |
+| 0604.1902.19.572.085.2.603.449040.501 | 300.000,00 |
+| Fundo Previdenciário – BHPREV |  |
+| 0614.1100.99.997.999.9.999.999999.802 | 172.000,00 |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.2000.04.129.013.2.052.339039.500 | 1.350.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.1100.13.391.155.2.375.339030.500 | 75.813,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.1100.16.482.226.1.207.449061.755 | 1.300.000,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.3301.10.122.030.2.900.339035.659 | 6.845,00 |
+| 2301.3301.10.122.030.2.900.339139.659 | 48.000,00 |
+| 2301.3301.10.122.030.2.900.449052.659 | 289.085,00 |
+| 2301.3301.10.122.030.2.900.449092.659 | 10.000,00 |
+| 2301.3303.10.302.030.2.620.339037.659 | 87.854,00 |
+| 2301.3303.10.302.030.2.620.449092.659 | 42.057,00 |
+| 2301.3303.10.302.030.2.620.449040.659 | 1.850,00 |
+| 2301.3304.10.302.030.2.875.449051.659 | 50.000,00 |
+| 2301.3304.10.302.030.2.875.449092.659 | 50.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.302.114.2.891.339030.621 | 43.063,64 |
+| 2302.3401.10.302.114.2.894.339039.621 | 3.574.540,96 |
+| 2302.3401.10.302.114.2.902.336783.500 | 10.440.943,42 |
+| 2302.3401.10.304.028.2.829.339039.621 | 114,29 |
+| 2302.3401.10.305.028.2.829.339030.621 | 350.000,00 |
+| 2302.3401.10.304.028.2.829.339040.621 | 540,00 |
+| TOTAL DA ANULAÇÃO | 19.983.508,31 |
 
 ANEXO II
 
@@ -246,24 +185,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.273.988.804,36 |
-
-|Valor do Decreto publicado nesta data |R$ 19.983.508,31 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.293.972.312,67 |
-
-|Saldo atual de créditos suplementares |R$ 420.194.875,53 |
-
-|Percentual utilizado |75,49% |
-
-|Atualizado em 27/11/2023 às 11:31:45 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.273.988.804,36 |
+| Valor do Decreto publicado nesta data | R$ 19.983.508,31 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.293.972.312,67 |
+| Saldo atual de créditos suplementares | R$ 420.194.875,53 |
+| Percentual utilizado | 75,49% |
+| Atualizado em 27/11/2023 às 11:31:45 |  |

@@ -42,9 +42,9 @@ DIA COMEMORATIVO
 
 K - Dias comemorativos de novembro
 
-|DATA |COMEMORAÇÃO |
-
-|primeiro sábado de novembro |Dia da Cultura Gospel |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| primeiro sábado de novembro | Dia da Cultura Gospel |
 
 ”.
 

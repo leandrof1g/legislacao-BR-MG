@@ -52,28 +52,20 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Superintendência de Limpeza Urbana – SLU –, |
-
-|conforme autorização contida no § 2º do art. 4º da Lei nº 11.277,|
-
-|de 28 de dezembro de 2020: |
-
-|R$ |
-
-|2708.17.512.228.2.538.3390.0030 |10.077,00 |
-
-|2708.17.512.228.2.538.4490.0030 |151.400,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |161.477,00 |
+| I.1 – A favor da Superintendência de Limpeza Urbana – SLU –, |  |
+| --- | --- |
+| conforme autorização contida no § 2º do art. 4º da Lei nº 11.277, |  |
+| de 28 de dezembro de 2020: |  |
+| R$ |  |
+| 2708.17.512.228.2.538.3390.0030 | 10.077,00 |
+| 2708.17.512.228.2.538.4490.0030 | 151.400,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 161.477,00 |
 
 II – Anulação da seguinte dotação orçamentáriaa a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item |
-
-|I.1 da tabela anterior: |
-
-|R$ |
-
-|2708.17.512.228.2.538.3390.0000 |161.477,00 |
-
-|TOTAL DA ANULAÇÃO |161.477,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item |  |
+| --- | --- |
+| I.1 da tabela anterior: |  |
+| R$ |  |
+| 2708.17.512.228.2.538.3390.0000 | 161.477,00 |
+| TOTAL DA ANULAÇÃO | 161.477,00 |

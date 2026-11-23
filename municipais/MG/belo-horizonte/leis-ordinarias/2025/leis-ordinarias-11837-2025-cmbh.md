@@ -36,9 +36,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 N - Dias comemorativos móveis:
 
-|DATA |COMEMORAÇÃO |
-
-|terça-feira subsequente ao Dia Nacional de Ação de Graças |Dia Municipal de Doar |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| terça-feira subsequente ao Dia Nacional de Ação de Graças | Dia Municipal de Doar |
 
 .”.
 

@@ -60,25 +60,17 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do §1º|R$ |
-
-|do art. 43, da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei nº | |
-
-|11.644, de 29 de dezembro de 2023: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2817.449052.1.710.610 |200.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2890.449052.1.710.610 |194.502,00 |
-
-|3300.15.452.0059.2890.339039.1.710.610 |45.000,00 |
-
-|3300.15.452.0059.2890.339030.1.710.610 |45.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |484.502,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do §1º | R$ |
+| --- | --- |
+| do art. 43, da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei nº |  |
+| 11.644, de 29 de dezembro de 2023: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2817.449052.1.710.610 | 200.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2890.449052.1.710.610 | 194.502,00 |
+| 3300.15.452.0059.2890.339039.1.710.610 | 45.000,00 |
+| 3300.15.452.0059.2890.339030.1.710.610 | 45.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 484.502,00 |
 
 ANEXO II
 
@@ -110,24 +102,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 483.525.303,72 |
-
-|Valor do Decreto publicado nesta data |R$ 484.502,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 484.009.805,72 |
-
-|Saldo atual de créditos suplementares |R$ 1.499.322.966,68 |
-
-|Percentual utilizado |24,40% |
-
-|Atualizado em 08/08/2024 às 14:19:12 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 483.525.303,72 |
+| Valor do Decreto publicado nesta data | R$ 484.502,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 484.009.805,72 |
+| Saldo atual de créditos suplementares | R$ 1.499.322.966,68 |
+| Percentual utilizado | 24,40% |
+| Atualizado em 08/08/2024 às 14:19:12 |  |

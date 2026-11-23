@@ -204,7 +204,7 @@ ANEXO II A QUE SE REFERE A LEI Nº 6206/92
 
 TABELA DE VENCIMENTOS DE SALÁRIOS DO GRUPO DE CARGOS OU EMPREGOS DA ÁREA DE SAÚDE
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

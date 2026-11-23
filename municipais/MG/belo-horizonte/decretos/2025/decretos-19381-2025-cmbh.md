@@ -58,77 +58,46 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.122.0085.2900.339047.1.501.000 |10.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.339093.1.749.000 |1.100,00 |
-
-|3103.13.391.0155.2375.339093.2.749.000 |2.007,57 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2534.339037.1.500.000 |361.000,00 |
-
-|3000.27.812.0101.2106.339037.1.500.000 |21.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0227.1403.449051.1.500.000 |665.310,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |
-
-|3302.26.452.0305.2910.336045.1.500.000 |18.000.000,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.339037.1.500.000 |36.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |19.096.417,57 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.122.0085.2900.339047.1.501.000 | 10.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.339093.1.749.000 | 1.100,00 |
+| 3103.13.391.0155.2375.339093.2.749.000 | 2.007,57 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2534.339037.1.500.000 | 361.000,00 |
+| 3000.27.812.0101.2106.339037.1.500.000 | 21.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0227.1403.449051.1.500.000 | 665.310,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte – SUMOB |  |
+| 3302.26.452.0305.2910.336045.1.500.000 | 18.000.000,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.339037.1.500.000 | 36.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 19.096.417,57 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.0085.2602.449040.1.501.000 |10.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.449093.1.749.000 |1.100,00 |
-
-|3103.13.391.0155.2375.449093.2.749.000 |2.007,57 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.813.0101.2545.339039.1.500.000 |382.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.1.500.000 |7.000.000,00 |
-
-|2700.04.122.0233.1219.449030.1.500.000 |1.000.000,00 |
-
-|2700.15.451.0062.1330.449051.1.500.000 |665.310,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0007.2900.339039.1.500.000 |36.000,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|3503.26.452.0060.2567.319091.1.500.000 |10.000.000,00 |
-
-|TOTAL DA ANULAÇÃO |19.096.417,57 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.0085.2602.449040.1.501.000 | 10.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.449093.1.749.000 | 1.100,00 |
+| 3103.13.391.0155.2375.449093.2.749.000 | 2.007,57 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.813.0101.2545.339039.1.500.000 | 382.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.1.500.000 | 7.000.000,00 |
+| 2700.04.122.0233.1219.449030.1.500.000 | 1.000.000,00 |
+| 2700.15.451.0062.1330.449051.1.500.000 | 665.310,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0007.2900.339039.1.500.000 | 36.000,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3503.26.452.0060.2567.319091.1.500.000 | 10.000.000,00 |
+| TOTAL DA ANULAÇÃO | 19.096.417,57 |
 
 ANEXO II
 
@@ -172,24 +141,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.070.408.374,52 |
-
-|Valor do Decreto publicado nesta data |R$ 19.096.417,57 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.089.504.792,09 |
-
-|Saldo atual de créditos suplementares |R$ 1.175.876.005,21 |
-
-|Percentual utilizado |48,09% |
-
-|Atualizado em 25/11/2025 às 11:26:54 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.070.408.374,52 |
+| Valor do Decreto publicado nesta data | R$ 19.096.417,57 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.089.504.792,09 |
+| Saldo atual de créditos suplementares | R$ 1.175.876.005,21 |
+| Percentual utilizado | 48,09% |
+| Atualizado em 25/11/2025 às 11:26:54 |  |

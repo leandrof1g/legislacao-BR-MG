@@ -54,14 +54,10 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor do Hospital Metropolitano Odilon Behrens – HMOB |
-
-|–, conforme autorização contida no inciso I do § 1º do art. 43 |
-
-|da Lei Federal nº 4.320, de 17 de março de 1964: |
-
-|R$ |
-
-|2301.10.122.030.2.900.3390.0006 |1.339.579,59 |
-
-|TOTAL DE SUPLEMENTAÇÃO |1.339.579,59 |
+| I.1 – A favor do Hospital Metropolitano Odilon Behrens – HMOB |  |
+| --- | --- |
+| –, conforme autorização contida no inciso I do § 1º do art. 43 |  |
+| da Lei Federal nº 4.320, de 17 de março de 1964: |  |
+| R$ |  |
+| 2301.10.122.030.2.900.3390.0006 | 1.339.579,59 |
+| TOTAL DE SUPLEMENTAÇÃO | 1.339.579,59 |

@@ -48,26 +48,16 @@ ANEXO ÚNICO
 
 TABELA DE PREÇOS
 
-|Descrição |Valores |
-
-|URNAS | |
-
-|"B" ADULTO |R$ 212,77 |
-
-|"B" MENOR |R$ 200,16 |
-
-|"A" ADULTO |R$ 232,01 |
-
-|"A" MENOR |R$ 222,16 |
-
-|ESPECIAL |R$ 383,85 |
-
-|EXTRA |R$ 711,57 |
-
-|EXTRA ESPECIAL |R$1.553,21 |
-
-|SUPER EXTRA |R$ 3.247,08 |
-
-|SUPER LUXO |R$5.736,78 |
-
-|EXTRA HORIZONTE |R$5.894,27 |
+| Descrição | Valores |
+| --- | --- |
+| URNAS |  |
+| "B" ADULTO | R$ 212,77 |
+| "B" MENOR | R$ 200,16 |
+| "A" ADULTO | R$ 232,01 |
+| "A" MENOR | R$ 222,16 |
+| ESPECIAL | R$ 383,85 |
+| EXTRA | R$ 711,57 |
+| EXTRA ESPECIAL | R$1.553,21 |
+| SUPER EXTRA | R$ 3.247,08 |
+| SUPER LUXO | R$5.736,78 |
+| EXTRA HORIZONTE | R$5.894,27 |

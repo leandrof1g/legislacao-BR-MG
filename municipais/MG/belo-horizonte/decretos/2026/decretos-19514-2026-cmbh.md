@@ -76,71 +76,40 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.449052.2.571.000 |1.544.768,83 |
-
-|2200.12.122.0140.2317.339093.2.570.000 |192.020,19 |
-
-|2200.12.122.0140.2317.449093.2.570.000 |291.198,34 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0317.1334.339039.2.751.000 |104.969,64 |
-
-|2100.06.181.0109.2803.339039.2.501.784 |152.191,32 |
-
-|2100.06.122.0317.1334.339040.2.751.000 |991.311,72 |
-
-|2100.06.181.0109.2803.339030.2.501.784 |111.459,99 |
-
-|2100.06.181.0109.2803.339030.2.701.000 |123.124,98 |
-
-|2100.06.181.0109.2803.339039.2.701.000 |453.617,52 |
-
-|2100.06.181.0109.2803.339093.2.702.000 |10.102,91 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.122.0146.2338.339039.2.501.784 |80.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2933.339039.2.700.000 |60.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449051.2.751.000 |3.000.000,00 |
-
-|2700.18.541.0073.1202.449093.2.500.000 |349.721,20 |
-
-|2700.18.541.0073.1202.449093.2.700.000 |179,14 |
-
-|2700.18.541.0073.1202.449093.2.700.540 |420.400,92 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.541.0307.2913.339030.2.710.620 |17.481,56 |
-
-|2500.18.541.0307.2913.449052.2.710.620 |132.518,44 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2900.445052.2.501.784 |1.831,00 |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |
-
-|2703.16.482.0007.2900.339039.2.501.784 |140.000,00 |
-
-|2703.16.482.0007.2900.449052.2.501.784 |210.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |8.386.897,70 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.449052.2.571.000 | 1.544.768,83 |
+| 2200.12.122.0140.2317.339093.2.570.000 | 192.020,19 |
+| 2200.12.122.0140.2317.449093.2.570.000 | 291.198,34 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0317.1334.339039.2.751.000 | 104.969,64 |
+| 2100.06.181.0109.2803.339039.2.501.784 | 152.191,32 |
+| 2100.06.122.0317.1334.339040.2.751.000 | 991.311,72 |
+| 2100.06.181.0109.2803.339030.2.501.784 | 111.459,99 |
+| 2100.06.181.0109.2803.339030.2.701.000 | 123.124,98 |
+| 2100.06.181.0109.2803.339039.2.701.000 | 453.617,52 |
+| 2100.06.181.0109.2803.339093.2.702.000 | 10.102,91 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.122.0146.2338.339039.2.501.784 | 80.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2933.339039.2.700.000 | 60.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449051.2.751.000 | 3.000.000,00 |
+| 2700.18.541.0073.1202.449093.2.500.000 | 349.721,20 |
+| 2700.18.541.0073.1202.449093.2.700.000 | 179,14 |
+| 2700.18.541.0073.1202.449093.2.700.540 | 420.400,92 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.541.0307.2913.339030.2.710.620 | 17.481,56 |
+| 2500.18.541.0307.2913.449052.2.710.620 | 132.518,44 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2900.445052.2.501.784 | 1.831,00 |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte – URBEL |  |
+| 2703.16.482.0007.2900.339039.2.501.784 | 140.000,00 |
+| 2703.16.482.0007.2900.449052.2.501.784 | 210.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 8.386.897,70 |
 
 ANEXO II
 
@@ -232,26 +201,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento)|
-
-|abertura de créditos suplementares referentes às despesas não |do valor do Orçamento |
-
-|contidas nos arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 445.621.593,84 |
-
-|Valor do decreto publicado nesta data |R$ 8.386.897,70 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 454.008.491,54 |
-
-|Saldo atual de créditos suplementares |R$ 2.038.426.576,06 |
-
-|Percentual utilizado |18,22% |
-
-|Atualizado em 10/03/2026 às 15:08:13 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares referentes às despesas não | do valor do Orçamento |
+| contidas nos arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 445.621.593,84 |
+| Valor do decreto publicado nesta data | R$ 8.386.897,70 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 454.008.491,54 |
+| Saldo atual de créditos suplementares | R$ 2.038.426.576,06 |
+| Percentual utilizado | 18,22% |
+| Atualizado em 10/03/2026 às 15:08:13 |  |

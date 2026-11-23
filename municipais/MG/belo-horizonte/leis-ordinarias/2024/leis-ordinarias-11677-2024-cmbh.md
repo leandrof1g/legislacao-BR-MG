@@ -264,39 +264,31 @@ QUANTITATIVO DE CARGOS INTEGRANTES DESTE PLANO DE CARREIRA
 
 I - Administração Direta
 
-|CARGO |NÚMERO DE VAGAS |
-
-|AGENTE SANITÁRIO |186 |
-
-|CIRURGIÃO-DENTISTA |615 |
-
-|ENFERMEIRO |1.768 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |1.954 |
+| CARGO | NÚMERO DE VAGAS |
+| --- | --- |
+| AGENTE SANITÁRIO | 186 |
+| CIRURGIÃO-DENTISTA | 615 |
+| ENFERMEIRO | 1.768 |
+| TÉCNICO SUPERIOR DE SAÚDE | 1.954 |
 
 II - Hospital Metropolitano Odilon Behrens - HOB
 
-|CARGO |NÚMERO DE VAGAS |
-
-|TÉCNICO SUPERIOR DE SAÚDE |135 |
-
-|ENFERMEIRO |236 |
-
-|CIRURGIÃO-DENTISTA |20 |
+| CARGO | NÚMERO DE VAGAS |
+| --- | --- |
+| TÉCNICO SUPERIOR DE SAÚDE | 135 |
+| ENFERMEIRO | 236 |
+| CIRURGIÃO-DENTISTA | 20 |
 
 ANEXO II
 
 JORNADAS DOS CARGOS INTEGRANTES DESTE PLANO DE CARREIRA
 
-|CARGOS |JORNADAS SEMANAIS |
-
-|Agente Sanitário |30 e 40 horas |
-
-|Técnico Superior de Saúde |20, 24, 30 e 40 horas |
-
-|Cirurgião-Dentista |20, 24 e 40 horas |
-
-|Enfermeiro |20, 24, 30 e 40 horas |
+| CARGOS | JORNADAS SEMANAIS |
+| --- | --- |
+| Agente Sanitário | 30 e 40 horas |
+| Técnico Superior de Saúde | 20, 24, 30 e 40 horas |
+| Cirurgião-Dentista | 20, 24 e 40 horas |
+| Enfermeiro | 20, 24, 30 e 40 horas |
 
 ANEXO III
 
@@ -338,312 +330,160 @@ ANEXO IV
 
 TABELAS DE VENCIMENTOS DOS CARGOS INTEGRANTES DESTE PLANO DE CARREIRA
 
-|AGENTE SANITÁRIO |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 30 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 20 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 24 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
-
-| |
-
-|JORNADA DE 40 HORAS SEMANAIS (valores em R$) |
-
-|Classe |Nível |
+| AGENTE SANITÁRIO |  |
+| --- | --- |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Class | Nível |
+| e |  |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (Valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 30 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 20 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 24 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
+|  |  |
+| JORNADA DE 40 HORAS SEMANAIS (valores em R$) |  |
+| Classe | Nível |
 
 |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 | |C |8.674,44 |9.108,16 |9.563,57 |10.041,75 |10.543,83 |11.071,03 |11.624,58 |12.205,81 |12.816,10 |13.456,90 |14.129,75 |14.836,23 |15.578,05 |16.356,95 |17.174,80 |18.033,54 | |B |8.261,37 |8.674,44 |9.108,16 |9.563,57 |10.041,75 |10.543,83 |11.071,03 |11.624,58 |12.205,81 |12.816,10 |13.456,90 |14.129,75 |14.836,23 |15.578,05 |16.356,95 |17.174,80 | |A |7.867,97 |8.261,37 |8.674,44 |9.108,16 |9.563,57 |10.041,75 |10.543,83 |11.071,03 |11.624,58 |12.205,81 |12.816,10 |13.456,90 |14.129,75 |14.836,23 |15.578,05 |16.356,95 | |Tabelas de vencimentos do cargo de Cirurgião-Dentista, da administração direta e do HOB com redação dada pela Lei nº 12.148, de 29/9/2026 (Art. 52)

@@ -66,35 +66,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I |R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. | |
-
-|48 da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.0302.1334.339035.2.751.000 |300.000,00 |
-
-|2100.06.122.0302.1334.339039.2.751.000 |150.000,00 |
-
-|2100.06.122.0302.1334.339040.2.751.000 |56.214,00 |
-
-|2100.06.122.0242.2881.339039.2.710.610 |100.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.212.0005.2758.339039.2.706.510 |600.000,00 |
-
-|Fundo Municipal de Cultura – FPC |
-
-|3101.13.392.0170.2369.339031.2.719.000 |9.770.000,00 |
-
-|3101.13.392.0170.2369.339036.2.719.000 |2.634.160,50 |
-
-|3101.13.392.0170.2369.339039.2.719.000 |3.517.588,34 |
-
-|TOTAL DA SUPLEMENTAÇÃO |17.127.962,84 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. |  |
+| 48 da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.0302.1334.339035.2.751.000 | 300.000,00 |
+| 2100.06.122.0302.1334.339039.2.751.000 | 150.000,00 |
+| 2100.06.122.0302.1334.339040.2.751.000 | 56.214,00 |
+| 2100.06.122.0242.2881.339039.2.710.610 | 100.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.212.0005.2758.339039.2.706.510 | 600.000,00 |
+| Fundo Municipal de Cultura – FPC |  |
+| 3101.13.392.0170.2369.339031.2.719.000 | 9.770.000,00 |
+| 3101.13.392.0170.2369.339036.2.719.000 | 2.634.160,50 |
+| 3101.13.392.0170.2369.339039.2.719.000 | 3.517.588,34 |
+| TOTAL DA SUPLEMENTAÇÃO | 17.127.962,84 |
 
 ANEXO II
 

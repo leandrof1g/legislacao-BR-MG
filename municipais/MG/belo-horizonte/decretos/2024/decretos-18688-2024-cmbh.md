@@ -66,27 +66,18 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º do |R$ |
-
-|art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei nº 11.594, de | |
-
-|22 de setembro de 2023: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0019.2308.339039.660 |1.966.951,22 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0146.2338.339093.500 |24.379,30 |
-
-|3100.13.392.0146.2338.339093.701 |172.034,42 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.0059.2566.449051.754 |2.691.456,64 |
-
-|TOTAL DA SUPLEMENTAÇÃO |4.854.821,58 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º do | R$ |
+| --- | --- |
+| art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei nº 11.594, de |  |
+| 22 de setembro de 2023: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0019.2308.339039.660 | 1.966.951,22 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0146.2338.339093.500 | 24.379,30 |
+| 3100.13.392.0146.2338.339093.701 | 172.034,42 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.0059.2566.449051.754 | 2.691.456,64 |
+| TOTAL DA SUPLEMENTAÇÃO | 4.854.821,58 |
 
 ANEXO II
 

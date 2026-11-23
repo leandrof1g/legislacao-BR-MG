@@ -192,15 +192,12 @@ II - posteriormente, sobre ela serão aplicadas as circunstâncias agravantes e 
 
 **Art. 18** retificado em 28/11/2003
 
-|Vantagem Auferida |Alíquota |
-
-|Ausência de Vantagem |0,5% |
-
-|Vantagem Individual |1% |
-
-|Vantagem Coletiva |2% |
-
-|Vantagem Difusa |3% |
+| Vantagem Auferida | Alíquota |
+| --- | --- |
+| Ausência de Vantagem | 0,5% |
+| Vantagem Individual | 1% |
+| Vantagem Coletiva | 2% |
+| Vantagem Difusa | 3% |
 
 **Art. 19** - Com relação à vantagem auferida, serão consideradas quatro situações:
 

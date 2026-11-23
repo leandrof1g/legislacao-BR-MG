@@ -430,9 +430,9 @@ ANEXO I
 
 CARGO DA ÁREA DE ATIVIDADES DE ADMINISTRAÇÃO GERAL DA PREFEITURA DE BELO HORIZONTE REGIDO POR ESTA LEI
 
-|CARGO |QUANTITATIVO |
-
-|Agente Executivo Governamental |2.146 |
+| CARGO | QUANTITATIVO |
+| --- | --- |
+| Agente Executivo Governamental | 2.146 |
 
 ANEXO I
 
@@ -444,21 +444,18 @@ AGENTE EXECUTIVO GOVERNAMENTAL
 
 A - CARGO PÚBLICO
 
-|CARGO PÚBLICO |QUANTITATIVO |
-
-|Agente Executivo Governamental |1.589 |
+| CARGO PÚBLICO | QUANTITATIVO |
+| --- | --- |
+| Agente Executivo Governamental | 1.589 |
 
 B - EMPREGO PÚBLICO - QUADRO TRANSITÓRIO
 
-|ÓRGÃO |QUANTITATIVO |
-
-|SLU |84 |
-
-|Sudecap |62 |
-
-|HOB |25 |
-
-|TOTAL |171 |
+| ÓRGÃO | QUANTITATIVO |
+| --- | --- |
+| SLU | 84 |
+| Sudecap | 62 |
+| HOB | 25 |
+| TOTAL | 171 |
 
 Anexo I com redação dada pela Lei nº 11.376, de 4/7/2022 (art. 25, I)
 
@@ -472,29 +469,26 @@ AGENTE EXECUTIVO GOVERNAMENTAL
 
 A - CARGO PÚBLICO
 
-|CARGO PÚBLICO |QUANTITATIVO |
-
-|Agente Executivo Governamental |1.588 |
+| CARGO PÚBLICO | QUANTITATIVO |
+| --- | --- |
+| Agente Executivo Governamental | 1.588 |
 
 A - CARGO PÚBLICO:
 
-|CARGO PÚBLICO |QUANTITATIVO |
-
-|Agente Executivo Governamental |1.617 |
+| CARGO PÚBLICO | QUANTITATIVO |
+| --- | --- |
+| Agente Executivo Governamental | 1.617 |
 
 Tabela A com redação dada pela Lei nº 11.539, de 5/7/2023 (Art. 64, VII)
 
 B - EMPREGO PÚBLICO - QUADRO TRANSITÓRIO
 
-|ÓRGÃO |QUANTITATIVO |
-
-|SLU |84 |
-
-|Sudecap |62 |
-
-|HOB |26 |
-
-|TOTAL |172 |
+| ÓRGÃO | QUANTITATIVO |
+| --- | --- |
+| SLU | 84 |
+| Sudecap | 62 |
+| HOB | 26 |
+| TOTAL | 172 |
 
 Anexo I com redação dada pela Lei nº 11.491, de 10/5/2023 (Art. 28)
 
@@ -526,34 +520,20 @@ TABELA DE VENCIMENTOS-BASE DO CARGO DE PROVIMENTO EFETIVO DE AGENTE EXECUTIVO GO
 
 (Valores em R$)
 
-|AGENTE EXECUTIVO GOVERNAMENTAL |
-
-|JORNADA DE 30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|Classe |Nível |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Classe |Nível |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL | | | | | |
-
-|1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 | |ASSISTENTE ADMINISTRATIVO |1.925,95 |2.022,25 |2.123,36 |2.229,53 |2.341,00 |2.458,05 |2.580,96 |2.710,00 |2.845,50 |2.987,78 |3.137,17 |3.294,03 |3.458,73 |3.631,67 |3.813,2 | |
+| AGENTE EXECUTIVO GOVERNAMENTAL |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| JORNADA DE 30 HORAS SEMANAIS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Classe | Nível |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Classe | Nível |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Classe | Nível |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Classe | Nível |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | NÍVEL |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | NÍVEL |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |  | ASSISTENTE ADMINISTRATIVO | 1.925,95 | 2.022,25 | 2.123,36 | 2.229,53 | 2.341,00 | 2.458,05 | 2.580,96 | 2.710,00 | 2.845,50 | 2.987,78 | 3.137,17 | 3.294,03 | 3.458,73 | 3.631,67 | 3.813,2 |  |

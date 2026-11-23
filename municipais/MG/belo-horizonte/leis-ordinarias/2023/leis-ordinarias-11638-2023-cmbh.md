@@ -36,9 +36,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO II SEMANA COMEMORATIVA I - Semanas comemorativas de setembro:
 
-|DATA |COMEMORAÇÃO |
-
-|11 a 17 de setembro |Semana Municipal do Lian Gong na Promoção da Saúde |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 11 a 17 de setembro | Semana Municipal do Lian Gong na Promoção da Saúde |
 
 .”.
 

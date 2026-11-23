@@ -32,51 +32,39 @@ reais reais), com os seguintes programas de trabalho:
 
 I - Para a Secretaria Municipal de Governo, Planejamento e Coordenação Geral - SCOPLAM, no valor de R$322.206,00 (trezentos e vinte e dois mil, duzentos e seis reais ):
 
-|0600.030090202.504 - 3132 - Fonte 03.00 |294.576,00 |
-
-|0600.110633542.546 - 3120 - Fonte 03.00 |1.140,00 |
-
-|0600.110633542.546 - 3132 - Fonte 03.00 |26.490,00 |
+| 0600.030090202.504 - 3132 - Fonte 03.00 | 294.576,00 |
+| --- | --- |
+| 0600.110633542.546 - 3120 - Fonte 03.00 | 1.140,00 |
+| 0600.110633542.546 - 3132 - Fonte 03.00 | 26.490,00 |
 
 II - Para a Secretaria Municipal de Planejamento e Coordenação Geral - SMPL, no valor de R$115.277,00 (cento e quinze mil, duzentos e setenta e sete reais):
 
-|0602.030090212.505 - 3120 - Fonte 03.00 |5.130,00 |
-
-|0602.030090212.505 - 3132 - Fonte 03.00 |50.280,00 |
-
-|0602.030090212.505 - 4120 - Fonte 04.00 |14.700,00 |
-
-|0602.030090302.517 - 3132 - Fonte 03.00 |9.150,00 |
-
-|0602.030090402.518 - 3120 - Fonte 03.00 |600,00 |
-
-|0602.030090402.518 - 3132 - Fonte 03.00 |10.250,00 |
-
-|0602.030090402.519 - 3120 - Fonte 03.00 |2.100,00 |
-
-|0602.030090402.519 - 3131 - Fonte 03.00 |1.617,00 |
-
-|0602.030090402.519 - 3132 - Fonte 03.00 |21.450,00 |
+| 0602.030090212.505 - 3120 - Fonte 03.00 | 5.130,00 |
+| --- | --- |
+| 0602.030090212.505 - 3132 - Fonte 03.00 | 50.280,00 |
+| 0602.030090212.505 - 4120 - Fonte 04.00 | 14.700,00 |
+| 0602.030090302.517 - 3132 - Fonte 03.00 | 9.150,00 |
+| 0602.030090402.518 - 3120 - Fonte 03.00 | 600,00 |
+| 0602.030090402.518 - 3132 - Fonte 03.00 | 10.250,00 |
+| 0602.030090402.519 - 3120 - Fonte 03.00 | 2.100,00 |
+| 0602.030090402.519 - 3131 - Fonte 03.00 | 1.617,00 |
+| 0602.030090402.519 - 3132 - Fonte 03.00 | 21.450,00 |
 
 III - Para a Secretaria Municipal de Modernização Administrativa e Informação - SMMAI, no valor de R$27.178,00 (vinte e sete mil, cento e setenta e oito reais):
 
-|0603.030090442.520 - 3120 - Fonte 03.00 |2.700,00 |
-
-|0603.030090442.520 - 3131 - Fonte 03.00 |1.078,00 |
-
-|0603.030090442.520 - 3132 - Fonte 03.00 |14.400,00 |
-
-|0603.030090442.520 - 4120 - Fonte 04.00 |9.000,00 |
+| 0603.030090442.520 - 3120 - Fonte 03.00 | 2.700,00 |
+| --- | --- |
+| 0603.030090442.520 - 3131 - Fonte 03.00 | 1.078,00 |
+| 0603.030090442.520 - 3132 - Fonte 03.00 | 14.400,00 |
+| 0603.030090442.520 - 4120 - Fonte 04.00 | 9.000,00 |
 
 **Art.2º** - Os recursos necessários à execução do disposto no artigo anterior, decorrerão da anulação parcial das seguintes dotações do Orçamento Fiscal da Prefeitura, no valor de R$464.661,00 (quatrocentos e sessenta e quatro mil, seiscentos e sessenta e um reais):
 
-|1600.110633542.118 - 3132 - Fonte 03.00 |27.630,00 |
-
-|1800.030090212.013 - 3132 - Fonte 03.00 |73.000,00 |
-
-|1800.030090402.164 - 3132 - Fonte 03.00 |69.455,00 |
-
-|1800.030090452.071 - 3132 - Fonte 03.00 |294.576,00 |
+| 1600.110633542.118 - 3132 - Fonte 03.00 | 27.630,00 |
+| --- | --- |
+| 1800.030090212.013 - 3132 - Fonte 03.00 | 73.000,00 |
+| 1800.030090402.164 - 3132 - Fonte 03.00 | 69.455,00 |
+| 1800.030090452.071 - 3132 - Fonte 03.00 | 294.576,00 |
 
 **Art.3º** - Revogadas as disposições em contrário, este Decreto entra em vigor na data de sua publicação.
 

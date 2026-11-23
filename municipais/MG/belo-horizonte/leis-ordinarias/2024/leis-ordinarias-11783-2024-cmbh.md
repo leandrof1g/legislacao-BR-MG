@@ -316,7 +316,7 @@ ANEXO I
 
 PERÍMETRO DE APLICAÇÃO DESTA LEI
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO II
 
@@ -326,75 +326,42 @@ FÓRMULAS PARA CÁLCULOS DOS VALORES
 
 Republicado em 7/5/2025
 
-|Infração em relação ao projeto |Valor devido para regularização a título de |
-
-|aprovado ou com baixa de construção |ônus urbanístico |
-
-|I |Edificar no afastamento frontal|0,1 x VPITBI x A¹ x PD, sendo: |
-
-| |mínimo em vias arteriais |VPITBI - valor do metro quadrado de terreno |
-
-| | |conforme parâmetro utilizado para o cálculo do|
-
-| | |ITBI; |
-
-| | |A¹ - parte do nível que invade o afastamento |
-
-| | |frontal como prolongamento do passeio; |
-
-| | |PD - pé direito padrão, considerado 3,0m para |
-
-| | |cada pavimento. |
-
-|II |Número de vagas de carga e |0,05 x VPITBI x NV, sendo: |
-
-| |descarga |VPITBI - valor do metro quadrado de terreno |
-
-| | |conforme parâmetro utilizado para o cálculo do|
-
-| | |ITBI; |
-
-| | |NV - número de vagas aprovadas em projeto |
-
-| | |destinadas a outra utilização ou ausência do |
-
-| | |número mínimo de vagas de carga e descarga, |
-
-| | |conforme a lei vigente, para edificações que |
-
-| | |não possuem aprovação. |
-
-|III |Descumprir taxa de |0,1 x VPITBI x A², sendo: |
-
-| |permeabilidade mínima |VPITBI - valor do metro quadrado de terreno |
-
-| | |conforme parâmetro utilizado para o cálculo do|
-
-| | |ITBI; |
-
-| | |A² - área permeável aprovada em projeto |
-
-| | |destinada a outra utilização ou área permeável|
-
-| | |devida, conforme a lei vigente. |
-
-|IV |Infrações não previstas pelos |Infração leve: 0,3% do valor do metro quadrado|
-
-| |itens I a III, qualificadas |do imóvel conforme parâmetro utilizado para o |
-
-| |como leves, médias e graves, |cálculo do ITBI; |
-
-| |conforme regulamento |Infração média: 0,6% do valor do metro |
-
-| | |quadrado do imóvel conforme parâmetro |
-
-| | |utilizado para o cálculo do ITBI; |
-
-| | |Infração grave: 1,0% valor do metro quadrado |
-
-| | |do imóvel conforme parâmetro utilizado para o |
-
-| | |cálculo do ITBI. |
+| Infração em relação ao projeto | Valor devido para regularização a título de |  |
+| --- | --- | --- |
+| aprovado ou com baixa de construção | ônus urbanístico |  |
+| I | Edificar no afastamento frontal | 0,1 x VPITBI x A¹ x PD, sendo: |
+|  | mínimo em vias arteriais | VPITBI - valor do metro quadrado de terreno |
+|  |  | conforme parâmetro utilizado para o cálculo do |
+|  |  | ITBI; |
+|  |  | A¹ - parte do nível que invade o afastamento |
+|  |  | frontal como prolongamento do passeio; |
+|  |  | PD - pé direito padrão, considerado 3,0m para |
+|  |  | cada pavimento. |
+| II | Número de vagas de carga e | 0,05 x VPITBI x NV, sendo: |
+|  | descarga | VPITBI - valor do metro quadrado de terreno |
+|  |  | conforme parâmetro utilizado para o cálculo do |
+|  |  | ITBI; |
+|  |  | NV - número de vagas aprovadas em projeto |
+|  |  | destinadas a outra utilização ou ausência do |
+|  |  | número mínimo de vagas de carga e descarga, |
+|  |  | conforme a lei vigente, para edificações que |
+|  |  | não possuem aprovação. |
+| III | Descumprir taxa de | 0,1 x VPITBI x A², sendo: |
+|  | permeabilidade mínima | VPITBI - valor do metro quadrado de terreno |
+|  |  | conforme parâmetro utilizado para o cálculo do |
+|  |  | ITBI; |
+|  |  | A² - área permeável aprovada em projeto |
+|  |  | destinada a outra utilização ou área permeável |
+|  |  | devida, conforme a lei vigente. |
+| IV | Infrações não previstas pelos | Infração leve: 0,3% do valor do metro quadrado |
+|  | itens I a III, qualificadas | do imóvel conforme parâmetro utilizado para o |
+|  | como leves, médias e graves, | cálculo do ITBI; |
+|  | conforme regulamento | Infração média: 0,6% do valor do metro |
+|  |  | quadrado do imóvel conforme parâmetro |
+|  |  | utilizado para o cálculo do ITBI; |
+|  |  | Infração grave: 1,0% valor do metro quadrado |
+|  |  | do imóvel conforme parâmetro utilizado para o |
+|  |  | cálculo do ITBI. |
 
 ## Observações da CMBH
 

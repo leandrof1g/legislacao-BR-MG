@@ -3004,17 +3004,7 @@ Técnico de Classificação de Cargos II
 
 Veterinário II
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO VIII (Art. 61)
 
@@ -3358,13 +3348,7 @@ CLASSIFICAÇÃO DE CARGOS
 
 DISTRIBUIÇÃO NUMÉRICA DOS CARGOS
 
-DO QUADRO PERMANENTE I [pic]
-
-[pic]
-
-[pic]
-
-[pic]
+DO QUADRO PERMANENTE I *[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO Nº XI (Art. 52, § 2º)
 
@@ -3476,20 +3460,5 @@ TOTAIS .........................................................................
 
 OBS.: O número de cargos previstos no Quadro Permanente II, no total de 212, nos termos dos arts. 56 e 60, é igual ao número de vagas existentes nas classes correspondentes no Quadro Permanente I, no total de 212.
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]

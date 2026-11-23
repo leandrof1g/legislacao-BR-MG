@@ -52,17 +52,13 @@ ANEXO I
 
 “ANEXO I (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|Atividade |Faixa de horário de funcionamento |
-
-|Padarias e lanchonetes (vedado o consumo no local) |5h às 22h |
-
-|(...) |(...) |
-
-|Estabelecimentos que possuam estacionamento |Sem restrição de horário |
-
-|internalizado poderão fazer retirada no | |
-
-|formato drive-thru | |
+| Atividade | Faixa de horário de funcionamento |
+| --- | --- |
+| Padarias e lanchonetes (vedado o consumo no local) | 5h às 22h |
+| (...) | (...) |
+| Estabelecimentos que possuam estacionamento | Sem restrição de horário |
+| internalizado poderão fazer retirada no |  |
+| formato drive-thru |  |
 
 ”
 
@@ -72,6 +68,7 @@ ANEXO II
 
 “ANEXO II (a que se refere o art. 4º do Decreto nº 17.361, de 22 de maio de 2020)
 
-|SUSPENSO POR PRAZO INDETERMINADO |
+| SUSPENSO POR PRAZO INDETERMINADO |
+| --- |
 
 ”

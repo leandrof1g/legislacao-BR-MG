@@ -46,9 +46,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 J – Semanas comemorativas de outubro
 
-|DATA |COMEMORAÇÃO |
-
-|Semana que contenha o dia 16/10 |Semana Municipal de Reanimação Cardiopulmonar |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Semana que contenha o dia 16/10 | Semana Municipal de Reanimação Cardiopulmonar |
 
 .”.
 

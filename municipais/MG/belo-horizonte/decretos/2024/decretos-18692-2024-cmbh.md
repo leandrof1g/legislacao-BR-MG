@@ -58,39 +58,27 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei nº |R$ |
-
-|11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL | |
-
-|3000.27.813.0101.2545.339039.500 |100.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE | |
-
-|2800.04.122.0217.2853.445042.500 |128.055,00 |
-
-|TOTAL SUPLEMENTAÇÃO |228.055,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei nº | R$ |
+| --- | --- |
+| 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.813.0101.2545.339039.500 | 100.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0217.2853.445042.500 | 128.055,00 |
+| TOTAL SUPLEMENTAÇÃO | 228.055,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de emendas |R$ |
-
-|previstas inicialmente nos órgãos relacionados abaixo, conforme autorização contida no art. | |
-
-|20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de | |
-
-|dezembro de 2023: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL | |
-
-|3000.27.812.0101.2545.339039.500 |100.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE | |
-
-|2800.04.122.0141.2852.339039.500 |128.055,00 |
-
-|TOTAL ANULAÇÃO |228.055,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de emendas | R$ |
+| --- | --- |
+| previstas inicialmente nos órgãos relacionados abaixo, conforme autorização contida no art. |  |
+| 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de |  |
+| dezembro de 2023: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.500 | 100.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.0141.2852.339039.500 | 128.055,00 |
+| TOTAL ANULAÇÃO | 228.055,00 |
 
 ANEXO II
 
@@ -118,22 +106,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 170.400.546,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 7.587.091,00 |
-
-|Valor do Decreto publicado nesta data |R$ 228.055,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 7.815.146,00 |
-
-|Saldo atual de créditos suplementares |R$ 162.585.400,00 |
-
-|Percentual utilizado |4,59% |
-
-|Atualizado em 18/04/2024 às 11:09:34 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 170.400.546,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 7.587.091,00 |
+| Valor do Decreto publicado nesta data | R$ 228.055,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 7.815.146,00 |
+| Saldo atual de créditos suplementares | R$ 162.585.400,00 |
+| Percentual utilizado | 4,59% |
+| Atualizado em 18/04/2024 às 11:09:34 |  |

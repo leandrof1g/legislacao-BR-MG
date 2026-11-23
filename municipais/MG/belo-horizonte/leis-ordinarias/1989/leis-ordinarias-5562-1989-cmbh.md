@@ -3992,29 +3992,19 @@ ANEXO IV
 
 QUADRO DE CORRELAÇÃO
 
-|ATUAL |PROPOSTO |QUALIFICAÇÃO |
-
-|Oficial Redator |Técnico de Nível Médio I, II, III |2º Grau |
-
-|Técnico em Equipamento Odontológico |Técnico de Nível Médio I, II, III |2º Grau Técnico |
-
-|Psicólogo |Técnico Superior de En-sino I, II, |Psicólogo |
-
-| |III | |
-
-|Técnico em Zoo-Botâni-ca |Técnico Superior de Serviços Públicos|Biólogo |
-
-| |I, II, III | |
-
-|Capelão |Técnico Superior de Serviços Públicos|Nível Superior |
-
-| |I, II, III | |
-
-|Mensageiro |Auxiliar de Serviço Administrativo |1ª/4ª Série do 1º Grau |
-
-|Secretário de Estabe-lecimento de |Agente de Administração III |2º Grau |
-
-|Ensino I e II | | |
+| ATUAL | PROPOSTO | QUALIFICAÇÃO |
+| --- | --- | --- |
+| Oficial Redator | Técnico de Nível Médio I, II, III | 2º Grau |
+| Técnico em Equipamento Odontológico | Técnico de Nível Médio I, II, III | 2º Grau Técnico |
+| Psicólogo | Técnico Superior de En-sino I, II, | Psicólogo |
+|  | III |  |
+| Técnico em Zoo-Botâni-ca | Técnico Superior de Serviços Públicos | Biólogo |
+|  | I, II, III |  |
+| Capelão | Técnico Superior de Serviços Públicos | Nível Superior |
+|  | I, II, III |  |
+| Mensageiro | Auxiliar de Serviço Administrativo | 1ª/4ª Série do 1º Grau |
+| Secretário de Estabe-lecimento de | Agente de Administração III | 2º Grau |
+| Ensino I e II |  |  |
 
 **Art. 72** - Fica alterado para 8,35 SMR e 12,80 SMR, respectivamente, a partir de janeiro e maio de 1989, o vencimento do cargo em comissão de Secretário da Junta de Recursos Fiscais, previsto no Anexo I - B da Lei n° 5447, de 30 de novembro de 1988.
 

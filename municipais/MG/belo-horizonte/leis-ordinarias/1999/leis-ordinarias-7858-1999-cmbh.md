@@ -56,22 +56,14 @@ ANEXO
 
 TABELA DE SEGURO
 
-| |Valor do Seguro |
-
-|FAIXA DE |(Em Salários Mínimos) |
-
-|IDADE | |
-
-| |Por |Por |Por |
-
-| |Invalidez |Invalidez |Morte |
-
-| |temporária |permanente | |
-
-|De 0 a 20 anos |250 |300 |500 |
-
-|De 21 a 40 anos |200 |250 |450 |
-
-|De 41 a 65 anos |150 |200 |400 |
-
-|Acima de 65 anos |100 |150 |350 |
+|  | Valor do Seguro |  |  |
+| --- | --- | --- | --- |
+| FAIXA DE | (Em Salários Mínimos) |  |  |
+| IDADE |  |  |  |
+|  | Por | Por | Por |
+|  | Invalidez | Invalidez | Morte |
+|  | temporária | permanente |  |
+| De 0 a 20 anos | 250 | 300 | 500 |
+| De 21 a 40 anos | 200 | 250 | 450 |
+| De 41 a 65 anos | 150 | 200 | 400 |
+| Acima de 65 anos | 100 | 150 | 350 |

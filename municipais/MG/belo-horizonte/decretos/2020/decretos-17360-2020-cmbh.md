@@ -56,16 +56,11 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos da Prefeitura de Belo Horizonte, conforme autorização contida no |
-
-|inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964: |
-
-|R$ |
-
-|3103.13.122.146.2.906.4490.0430 |67.233,11 |
-
-|2302.10.302.203.2.894.3390.0350 |400.000,00 |
-
-|2302.10.305.028.2.829.4490.0450 |15.500,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |482.733,11 |
+| I.1 – A favor de diversos órgãos da Prefeitura de Belo Horizonte, conforme autorização contida no |  |
+| --- | --- |
+| inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964: |  |
+| R$ |  |
+| 3103.13.122.146.2.906.4490.0430 | 67.233,11 |
+| 2302.10.302.203.2.894.3390.0350 | 400.000,00 |
+| 2302.10.305.028.2.829.4490.0450 | 15.500,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 482.733,11 |

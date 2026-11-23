@@ -32,169 +32,89 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 PARÂMETROS RELATIVOS AOS COMPARTIMENTOS DAS UNIDADES PRIVATIVAS DAS EDIFICAÇÕES DE USO RESIDENCIAL MULTIFAMILIARES
 
-|Parâmetros |Área |Dimensão |Área Mínima do |Pé-Direi|Largura | |
-
-|Compartimentos |Mínima |Mínima |Vão de |to |Mínima dos |Observações |
-
-| |(m2) |(m) |Iluminação e |Mínimo |Vãos de | |
-
-| | | |Ventilação em |(m) |Acesso | |
-
-| | | |Relação à Área | |(m) | |
-
-| | | |do Piso do | | | |
-
-| | | |Compartimento | | | |
-
-|Estar |12,00 |2,40 |1/6 ou 1/5*¹ |2,60 |0,70*² |*1 - quando o |
-
-| | | | | | |compartimento |
-
-| | | | | | |estiver sendo |
-
-| | | | | | |iluminado através |
-
-| | | | | | |de varanda. |
-
-| | | | | | |*2 - a largura |
-
-| | | | | | |mínima de um dos |
-
-| | | | | | |vãos de acesso |
-
-| | | | | | |externo deverá ser |
-
-| | | | | | |de 0,80m. |
-
-|Dormitórios |8,00*¹ |2,00*¹ |1/6 ou 1/5*² |2,60 |0,70 |*1 - VETADO |
-
-| | | | | | |*2 - quando o |
-
-| | | | | | |compartimento |
-
-| | | | | | |estiver sendo |
-
-| | | | | | |iluminado através |
-
-| | | | | | |de varanda. |
-
-|Manuseio de |4,00 |1,80 |1/8 ou 1/6 *¹ |2,30 |0,70*² |*1 - quando o |
-
-|alimentos | | | | | |compartimento |
-
-| | | | | | |estiver sendo |
-
-| | | | | | |iluminado através |
-
-| | | | | | |da área de serviço |
-
-| | | | | | |ou varanda |
-
-| | | | | | |sanitária, ficando |
-
-| | | | | | |este com a área |
-
-| | | | | | |mínima de 1,80m2. |
-
-| | | | | | |*2 - a largura |
-
-| | | | | | |mínima de um dos |
-
-| | | | | | |vãos de acesso |
-
-| | | | | | |externo deverá ser |
-
-| | | | | | |de 0,80m. |
-
-|Área de serviço*1 |- |0,90 |- |2,30 |0,80 |*1 - pode ser |
-
-| | | | | | |conjugada com a |
-
-| | | | | | |cozinha. |
-
-|Parâmetros |Área |Dimensão |Área Mínima do |Pé-Direi|Largura |Observações |
-
-| |Mínima |Mínima |Vão de |to |Mínima dos | |
-
-|Compartimentos |(m2) |(m) |Iluminação e |Mínimo |Vãos de | |
-
-| | | |Ventilação em |(m) |Acesso | |
-
-| | | |Relação à Área | |(m) | |
-
-| | | |do Piso do | | | |
-
-| | | |Compartimento | | | |
-
-|Instalação |2,40*¹ |1,20 |- |2,30 |0,60*² |*1 - é facultada a |
-
-|sanitária | | | | | |instalação de |
-
-|principal | | | | | |lavatório externo à|
-
-| | | | | | |instalação |
-
-| | | | | | |sanitária. |
-
-| | | | | | | |
-
-| | | | | | |*2 - pelo menos uma|
-
-| | | | | | |das instalações |
-
-| | | | | | |sanitárias deverá |
-
-| | | | | | |ter vão de acesso |
-
-| | | | | | |com largura mínima |
-
-| | | | | | |de 0,70m. |
-
-|Instalação |1,50 |1,00 |1/8 |2,30 |0,60 |- |
-
-|sanitária | | | | | | |
-
-|secundária | | | | | | |
-
-|Circulação |- |0,90 |- |2,30 |- |- |
-
-|Rampa* |- |0,90 |- |2,30 |- |*pelo menos uma das|
-
-| | | | | | |rampas com |
-
-| | | | | | |declividade máxima |
-
-| | | | | | |= 8,33% para |
-
-| | | | | | |garantia de |
-
-| | | | | | |acessibilidade a |
-
-| | | | | | |pessoa com |
-
-| | | | | | |deficiência ou |
-
-| | | | | | |mobilidade reduzida|
-
-| | | | | | |e de 15% para as |
-
-| | | | | | |demais rampas. |
-
-|Escada* |- |0,80 |- |2,30 |- |*havendo passagem |
-
-| | | | | | |sob escada, altura |
-
-| | | | | | |do vão |
-
-| | | | | | |h = 2,10m. |
-
-|Abrigo/Área de |- |2,30 x 4,50|- |2,20* |- |*pé-direito mínimo |
-
-|estacionamento de | | | | | |em relação a |
-
-|veículos | |por vaga | | | |qualquer elemento |
-
-| | | | | | |construtivo. |
+| Parâmetros | Área | Dimensão | Área Mínima do | Pé-Direi | Largura |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Compartimentos | Mínima | Mínima | Vão de | to | Mínima dos | Observações |
+|  | (m2) | (m) | Iluminação e | Mínimo | Vãos de |  |
+|  |  |  | Ventilação em | (m) | Acesso |  |
+|  |  |  | Relação à Área |  | (m) |  |
+|  |  |  | do Piso do |  |  |  |
+|  |  |  | Compartimento |  |  |  |
+| Estar | 12,00 | 2,40 | 1/6 ou 1/5*¹ | 2,60 | 0,70*² | *1 - quando o |
+|  |  |  |  |  |  | compartimento |
+|  |  |  |  |  |  | estiver sendo |
+|  |  |  |  |  |  | iluminado através |
+|  |  |  |  |  |  | de varanda. |
+|  |  |  |  |  |  | *2 - a largura |
+|  |  |  |  |  |  | mínima de um dos |
+|  |  |  |  |  |  | vãos de acesso |
+|  |  |  |  |  |  | externo deverá ser |
+|  |  |  |  |  |  | de 0,80m. |
+| Dormitórios | 8,00*¹ | 2,00*¹ | 1/6 ou 1/5*² | 2,60 | 0,70 | *1 - VETADO |
+|  |  |  |  |  |  | *2 - quando o |
+|  |  |  |  |  |  | compartimento |
+|  |  |  |  |  |  | estiver sendo |
+|  |  |  |  |  |  | iluminado através |
+|  |  |  |  |  |  | de varanda. |
+| Manuseio de | 4,00 | 1,80 | 1/8 ou 1/6 *¹ | 2,30 | 0,70*² | *1 - quando o |
+| alimentos |  |  |  |  |  | compartimento |
+|  |  |  |  |  |  | estiver sendo |
+|  |  |  |  |  |  | iluminado através |
+|  |  |  |  |  |  | da área de serviço |
+|  |  |  |  |  |  | ou varanda |
+|  |  |  |  |  |  | sanitária, ficando |
+|  |  |  |  |  |  | este com a área |
+|  |  |  |  |  |  | mínima de 1,80m2. |
+|  |  |  |  |  |  | *2 - a largura |
+|  |  |  |  |  |  | mínima de um dos |
+|  |  |  |  |  |  | vãos de acesso |
+|  |  |  |  |  |  | externo deverá ser |
+|  |  |  |  |  |  | de 0,80m. |
+| Área de serviço*1 | - | 0,90 | - | 2,30 | 0,80 | *1 - pode ser |
+|  |  |  |  |  |  | conjugada com a |
+|  |  |  |  |  |  | cozinha. |
+| Parâmetros | Área | Dimensão | Área Mínima do | Pé-Direi | Largura | Observações |
+|  | Mínima | Mínima | Vão de | to | Mínima dos |  |
+| Compartimentos | (m2) | (m) | Iluminação e | Mínimo | Vãos de |  |
+|  |  |  | Ventilação em | (m) | Acesso |  |
+|  |  |  | Relação à Área |  | (m) |  |
+|  |  |  | do Piso do |  |  |  |
+|  |  |  | Compartimento |  |  |  |
+| Instalação | 2,40*¹ | 1,20 | - | 2,30 | 0,60*² | *1 - é facultada a |
+| sanitária |  |  |  |  |  | instalação de |
+| principal |  |  |  |  |  | lavatório externo à |
+|  |  |  |  |  |  | instalação |
+|  |  |  |  |  |  | sanitária. |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  | *2 - pelo menos uma |
+|  |  |  |  |  |  | das instalações |
+|  |  |  |  |  |  | sanitárias deverá |
+|  |  |  |  |  |  | ter vão de acesso |
+|  |  |  |  |  |  | com largura mínima |
+|  |  |  |  |  |  | de 0,70m. |
+| Instalação | 1,50 | 1,00 | 1/8 | 2,30 | 0,60 | - |
+| sanitária |  |  |  |  |  |  |
+| secundária |  |  |  |  |  |  |
+| Circulação | - | 0,90 | - | 2,30 | - | - |
+| Rampa* | - | 0,90 | - | 2,30 | - | *pelo menos uma das |
+|  |  |  |  |  |  | rampas com |
+|  |  |  |  |  |  | declividade máxima |
+|  |  |  |  |  |  | = 8,33% para |
+|  |  |  |  |  |  | garantia de |
+|  |  |  |  |  |  | acessibilidade a |
+|  |  |  |  |  |  | pessoa com |
+|  |  |  |  |  |  | deficiência ou |
+|  |  |  |  |  |  | mobilidade reduzida |
+|  |  |  |  |  |  | e de 15% para as |
+|  |  |  |  |  |  | demais rampas. |
+| Escada* | - | 0,80 | - | 2,30 | - | *havendo passagem |
+|  |  |  |  |  |  | sob escada, altura |
+|  |  |  |  |  |  | do vão |
+|  |  |  |  |  |  | h = 2,10m. |
+| Abrigo/Área de | - | 2,30 x 4,50 | - | 2,20* | - | *pé-direito mínimo |
+| estacionamento de |  |  |  |  |  | em relação a |
+| veículos |  | por vaga |  |  |  | qualquer elemento |
+|  |  |  |  |  |  | construtivo. |
 
 .”.
 

@@ -336,287 +336,148 @@ I - TABELAS DE VENCIMENTOS E SALÁRIOS-BASE, COM VIGÊNCIA A PARTIR DE 1º DE AG
 
 A - Área de Atividades de Administração Geral:
 
-|ANALISTA DE POLÍTICAS PÚBLICAS E |
-
-|ANALISTA DE PLANEJAMENTO E GESTÃO GOVERNAMENTAL |
-
-|30 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|30 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|40 HORAS SEMANAIS |
-
-|Class|Nível |
-
-|e | |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |TRANSITÓRIO |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|Class|NÍVEL |
-
-|e | |
-
-| |
-
-|Class|NÍVEL |
-
-|e | |
-
-| |
-
-|Class|NÍVEL |
-
-|e | |
-
-| |
-
-|Class|NÍVEL |
-
-|e | |
-
-| |
-
-|Class|NÍVEL |
-
-|e | |
-
-| |1 |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |TRANSITÓRIO |
-
-| |NÍVEL |
-
-| |1 |
-
-| |1 |
-
-| |1 |
-
-| |
-
-|Class|NÍVEL |
-
-|e | |
-
-| |
-
-|Class|NÍVEL |
-
-|e | |
-
-| |
-
-|Class|NÍVEL |
-
-|e | |
-
-| |1 |
-
-| |NÍVEL |
-
-| |
-
-|Class|Nível |
-
-|e | |
-
-| |
-
-|Class|Nível |
-
-|e | |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |2 |3 |4 |5 |
-
-|DAM-1 |1 |377,00 |489,72 |866,73 |1.733,45 |
-
-|DAM-2 |1,5 |377,01 |923,09 |1.300,09 |2.600,20 |
-
-|DAM-3 |2 |408,93 |1.324,54 |1.733,46 |3.466,93 |
-
-|DAM-4 |3 |511,33 |2.088,87 |2.600,20 |5.200,39 |
-
-|DAM-5 |4 |1.065,43 |2.401,50 |3.466,93 |6.933,85 |
-
-|DAM-6 |5 |1.065,43 |3.268,23 |4.333,66 |8.667,31 |
-
-|DAM-7 |6 |1.065,43 |4.134,96 |5.200,39 |10.400,78 |
-
-|DAM-8 |7 |1.065,43 |5.001,69 |6.067,13 |12.134,24 |
-
-|DAM-9 |8 |1.065,43 |5.868,43 |6.933,85 |13.867,70 |
+| ANALISTA DE POLÍTICAS PÚBLICAS E |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| ANALISTA DE PLANEJAMENTO E GESTÃO GOVERNAMENTAL |  |  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  |  |  |  |  |  |
+| 30 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 40 HORAS SEMANAIS |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | TRANSITÓRIO |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | NÍVEL |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | NÍVEL |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | NÍVEL |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | NÍVEL |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | NÍVEL |  |  |  |  |
+| e |  |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | TRANSITÓRIO |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | NÍVEL |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | NÍVEL |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | NÍVEL |  |  |  |  |
+| e |  |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Class | Nível |  |  |  |  |
+| e |  |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 |  |  |  |  |
+|  | NÍVEL |  |  |  |  |
+|  | 1 | 2 | 3 | 4 | 5 |
+| DAM-1 | 1 | 377,00 | 489,72 | 866,73 | 1.733,45 |
+| DAM-2 | 1,5 | 377,01 | 923,09 | 1.300,09 | 2.600,20 |
+| DAM-3 | 2 | 408,93 | 1.324,54 | 1.733,46 | 3.466,93 |
+| DAM-4 | 3 | 511,33 | 2.088,87 | 2.600,20 | 5.200,39 |
+| DAM-5 | 4 | 1.065,43 | 2.401,50 | 3.466,93 | 6.933,85 |
+| DAM-6 | 5 | 1.065,43 | 3.268,23 | 4.333,66 | 8.667,31 |
+| DAM-7 | 6 | 1.065,43 | 4.134,96 | 5.200,39 | 10.400,78 |
+| DAM-8 | 7 | 1.065,43 | 5.001,69 | 6.067,13 | 12.134,24 |
+| DAM-9 | 8 | 1.065,43 | 5.868,43 | 6.933,85 | 13.867,70 |
 
 ANEXO VIII
 
@@ -628,97 +489,59 @@ COM VIGÊNCIA A PARTIR DE 1º DE AGOSTO DE 2024:
 
 I - Secretaria Municipal de Educação:
 
-|CARGO PÚBLICO EM COMISSÃO |VENCIMENTO-BASE |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO EXCLUSIVA | |
-
-|SECRETÁRIO ESCOLAR I |1.529,20 |667,75 |2.196,95 |
-
-|SECRETÁRIO ESCOLAR II |1.567,89 |1.042,87 |2.610,76 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL I |3.500,53 |2.318,56 |5.819,09 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL II |3.640,56 |2.666,33 |6.306,90 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL III |3.780,60 |3.014,13 |6.794,73 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL IV |3.925,14 |3.361,91 |7.287,05 |
-
-|VICE-DIRETOR DE ESCOLA MUNICIPAL V |4.069,68 |3.709,69 |7.779,38 |
-
-|DIRETOR DE ESCOLA MUNICIPAL I |3.780,59 |2.782,28 |6.562,87 |
-
-|DIRETOR DE ESCOLA MUNICIPAL II |3.925,14 |3.130,04 |7.055,18 |
-
-|DIRETOR DE ESCOLA MUNICIPAL III |4.069,68 |3.477,84 |7.547,52 |
-
-|DIRETOR DE ESCOLA MUNICIPAL IV |4.254,60 |3.825,62 |8.080,22 |
-
-|DIRETOR DE ESCOLA MUNICIPAL V |4.439,58 |4.173,40 |8.612,98 |
-
-|DIRETOR DE EMEI I |3.500,53 |2.318,56 |5.819,09 |
-
-|DIRETOR DE EMEI II |3.640,56 |2.666,33 |6.306,90 |
-
-|DIRETOR DE EMEI III |3.780,60 |3.014,13 |6.794,73 |
-
-|DIRETOR DE EMEI IV |3.920,66 |3.361,92 |7.282,57 |
-
-|DIRETOR DE EMEI V |4.060,70 |3.709,69 |7.770,41 |
-
-|VICE-DIRETOR DE EMEI I |3.349,29 |1.664,13 |5.013,41 |
-
-|VICE-DIRETOR DE EMEI II |3.487,97 |2.010,83 |5.498,81 |
-
-|VICE-DIRETOR DE EMEI III |3.626,66 |2.357,52 |5.984,17 |
-
-|VICE-DIRETOR DE EMEI IV |3.765,33 |2.704,21 |6.469,53 |
-
-|VICE-DIRETOR DE EMEI V |3.904,01 |3.050,90 |6.954,91 |
-
-|COORDENADOR PEDAGÓGICO GERAL I |3.349,29 |961,14 |4.310,43 |
-
-|COORDENADOR PEDAGÓGICO GERAL II |3.589,08 |1.281,51 |4.870,60 |
-
-|DIRETOR DE CENTRO DE APERFEIÇOAMENTO |4.439,55 |4.173,40 |8.612,96 |
-
-|PROFISSIONAL DA EDUCAÇÃO | | | |
-
-|VICE-DIRETOR DE CENTRO DE APERFEIÇOAMENTO |4.069,68 |3.709,69 |7.779,38 |
-
-|PROFISSIONAL DA EDUCAÇÃO | | | |
-
-|COORDENADOR DE PROJETOS ESPECIAIS DA |2.492,46 |2.492,46 |4.984,92 |
-
-|EDUCAÇÃO | | | |
+| CARGO PÚBLICO EM COMISSÃO | VENCIMENTO-BASE | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO EXCLUSIVA |  |
+| SECRETÁRIO ESCOLAR I | 1.529,20 | 667,75 | 2.196,95 |
+| SECRETÁRIO ESCOLAR II | 1.567,89 | 1.042,87 | 2.610,76 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL I | 3.500,53 | 2.318,56 | 5.819,09 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL II | 3.640,56 | 2.666,33 | 6.306,90 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL III | 3.780,60 | 3.014,13 | 6.794,73 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL IV | 3.925,14 | 3.361,91 | 7.287,05 |
+| VICE-DIRETOR DE ESCOLA MUNICIPAL V | 4.069,68 | 3.709,69 | 7.779,38 |
+| DIRETOR DE ESCOLA MUNICIPAL I | 3.780,59 | 2.782,28 | 6.562,87 |
+| DIRETOR DE ESCOLA MUNICIPAL II | 3.925,14 | 3.130,04 | 7.055,18 |
+| DIRETOR DE ESCOLA MUNICIPAL III | 4.069,68 | 3.477,84 | 7.547,52 |
+| DIRETOR DE ESCOLA MUNICIPAL IV | 4.254,60 | 3.825,62 | 8.080,22 |
+| DIRETOR DE ESCOLA MUNICIPAL V | 4.439,58 | 4.173,40 | 8.612,98 |
+| DIRETOR DE EMEI I | 3.500,53 | 2.318,56 | 5.819,09 |
+| DIRETOR DE EMEI II | 3.640,56 | 2.666,33 | 6.306,90 |
+| DIRETOR DE EMEI III | 3.780,60 | 3.014,13 | 6.794,73 |
+| DIRETOR DE EMEI IV | 3.920,66 | 3.361,92 | 7.282,57 |
+| DIRETOR DE EMEI V | 4.060,70 | 3.709,69 | 7.770,41 |
+| VICE-DIRETOR DE EMEI I | 3.349,29 | 1.664,13 | 5.013,41 |
+| VICE-DIRETOR DE EMEI II | 3.487,97 | 2.010,83 | 5.498,81 |
+| VICE-DIRETOR DE EMEI III | 3.626,66 | 2.357,52 | 5.984,17 |
+| VICE-DIRETOR DE EMEI IV | 3.765,33 | 2.704,21 | 6.469,53 |
+| VICE-DIRETOR DE EMEI V | 3.904,01 | 3.050,90 | 6.954,91 |
+| COORDENADOR PEDAGÓGICO GERAL I | 3.349,29 | 961,14 | 4.310,43 |
+| COORDENADOR PEDAGÓGICO GERAL II | 3.589,08 | 1.281,51 | 4.870,60 |
+| DIRETOR DE CENTRO DE APERFEIÇOAMENTO | 4.439,55 | 4.173,40 | 8.612,96 |
+| PROFISSIONAL DA EDUCAÇÃO |  |  |  |
+| VICE-DIRETOR DE CENTRO DE APERFEIÇOAMENTO | 4.069,68 | 3.709,69 | 7.779,38 |
+| PROFISSIONAL DA EDUCAÇÃO |  |  |  |
+| COORDENADOR DE PROJETOS ESPECIAIS DA | 2.492,46 | 2.492,46 | 4.984,92 |
+| EDUCAÇÃO |  |  |  |
 
 II - Secretaria Municipal de Saúde:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO EXCLUSIVA | |
-
-|COORDENADOR DE SERVIÇO DE |892,66 |892,66 |1.785,32 |
-
-|CONTROLE DE ZOONOSES | | | |
-
-|ENCARREGADO DE SERVIÇO DE |667,74 |667,74 |1.335,48 |
-
-|CONTROLE DE ZOONOSES | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO EXCLUSIVA |  |
+| COORDENADOR DE SERVIÇO DE | 892,66 | 892,66 | 1.785,32 |
+| CONTROLE DE ZOONOSES |  |  |  |
+| ENCARREGADO DE SERVIÇO DE | 667,74 | 667,74 | 1.335,48 |
+| CONTROLE DE ZOONOSES |  |  |  |
 
 III - Fundação Municipal de Cultura:
 
-|CARGO PÚBLICO EM COMISSÃO |PISO DE REMUNERAÇÃO |GRATIFICAÇÃO DE DEDICAÇÃO|REMUNERAÇÃO TOTAL |
-
-| | |EXCLUSIVA | |
-
-|COORDENADOR DE UNIDADE CULTURAL |2.860,21 |2.860,21 |5.720,42 |
-
-|NÍVEL 1 | | | |
-
-|COORDENADOR DE UNIDADE CULTURAL |3.120,22 |3.120,22 |6.240,45 |
-
-|NÍVEL 2 | | | |
+| CARGO PÚBLICO EM COMISSÃO | PISO DE REMUNERAÇÃO | GRATIFICAÇÃO DE DEDICAÇÃO | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | EXCLUSIVA |  |
+| COORDENADOR DE UNIDADE CULTURAL | 2.860,21 | 2.860,21 | 5.720,42 |
+| NÍVEL 1 |  |  |  |
+| COORDENADOR DE UNIDADE CULTURAL | 3.120,22 | 3.120,22 | 6.240,45 |
+| NÍVEL 2 |  |  |  |
 
 ANEXO IX
 
@@ -728,19 +551,14 @@ GRATIFICAÇÃO E CLASSIFICAÇÃO DAS FUNÇÕES GRATIFICADAS DE COORDENAÇÃO E A
 
 COM VIGÊNCIA A PARTIR DE 1º DE AGOSTO DE 2024:
 
-|NÍVEL |VALOR |FCA-UNITÁRIO |
-
-|FCA-1 |693,39 |1 |
-
-|FCA-2 |1.040,09 |1,5 |
-
-|FCA-3 |1.386,77 |2 |
-
-|FCA-4 |1.733,46 |2,5 |
-
-|FCA-5 |2.080,15 |3 |
-
-|FCA-6 |2.773,54 |4 |
+| NÍVEL | VALOR | FCA-UNITÁRIO |
+| --- | --- | --- |
+| FCA-1 | 693,39 | 1 |
+| FCA-2 | 1.040,09 | 1,5 |
+| FCA-3 | 1.386,77 | 2 |
+| FCA-4 | 1.733,46 | 2,5 |
+| FCA-5 | 2.080,15 | 3 |
+| FCA-6 | 2.773,54 | 4 |
 
 ANEXO X
 
@@ -752,121 +570,96 @@ COM VIGÊNCIA A PARTIR DE 1º DE AGOSTO DE 2024:
 
 A - Conselheiro Tutelar:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|CONSELHEIRO TUTELAR |5.200,39 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| CONSELHEIRO TUTELAR | 5.200,39 |
 
 B - Controlador de Tesouraria dos Restaurantes Populares:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|CONTROLADOR DE TESOURARIA DOS RESTAURANTES POPULARES |1.747,33 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| CONTROLADOR DE TESOURARIA DOS RESTAURANTES POPULARES | 1.747,33 |
 
 C - Coordenador de Proteção Social e Cidadania:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|COORDENADOR DE PROTEÇÃO SOCIAL E CIDADANIA |2.209,32 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| COORDENADOR DE PROTEÇÃO SOCIAL E CIDADANIA | 2.209,32 |
 
 D - Coordenador de Centro de Referência de Assistência Social, de Centro de Referência Especializado de Assistência Social e de Unidade de Acolhimento Institucional:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|COORDENADOR DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL |2.209,32 |
-
-|COORDENADOR DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE |2.209,32 |
-
-|ASSISTÊNCIA SOCIAL | |
-
-|COORDENADOR DE ACOLHIMENTO INSTITUCIONAL |2.209,32 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| COORDENADOR DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL | 2.209,32 |
+| COORDENADOR DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE | 2.209,32 |
+| ASSISTÊNCIA SOCIAL |  |
+| COORDENADOR DE ACOLHIMENTO INSTITUCIONAL | 2.209,32 |
 
 E - Coordenador do Núcleo de Atendimento às Medidas Socioeducativas e Protetivas:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|COORDENADOR DO NÚCLEO DE ATENDIMENTO ÀS MEDIDAS |2.064,79 |
-
-|SOCIOEDUCATIVAS E PROTETIVAS | |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| COORDENADOR DO NÚCLEO DE ATENDIMENTO ÀS MEDIDAS | 2.064,79 |
+| SOCIOEDUCATIVAS E PROTETIVAS |  |
 
 F - Gerente de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|GERENTE DE UNIDADE DE SAÚDE I |4.243,39 |
-
-|GERENTE DE UNIDADE DE SAÚDE II |4.671,32 |
-
-|GERENTE DE UNIDADE DE SAÚDE III |5.104,52 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| GERENTE DE UNIDADE DE SAÚDE I | 4.243,39 |
+| GERENTE DE UNIDADE DE SAÚDE II | 4.671,32 |
+| GERENTE DE UNIDADE DE SAÚDE III | 5.104,52 |
 
 G - Gerente Adjunto de Unidade de Saúde:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE I |2.122,07 |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE II |2.335,65 |
-
-|GERENTE ADJUNTO DE UNIDADE DE SAÚDE III |2.552,27 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE I | 2.122,07 |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE II | 2.335,65 |
+| GERENTE ADJUNTO DE UNIDADE DE SAÚDE III | 2.552,27 |
 
 H - Gestor Administrativo e Financeiro Escolar:
 
-|FUNÇÃO GRATIFICADA |VENCIMENTO-BASE |GRATIFICAÇÃO DE |REMUNERAÇÃO TOTAL |
-
-| | |DEDICAÇÃO EXCLUSIVA | |
-
-|GESTOR ADMINISTRATIVO E FINANCEIRO |1.762,10 |1.456,28 |3.218,38 |
-
-|ESCOLAR I | | | |
-
-|GESTOR ADMINISTRATIVO E FINANCEIRO |1.762,10 |1.601,91 |3.364,01 |
-
-|ESCOLAR II | | | |
-
-|GESTOR ADMINISTRATIVO E FINANCEIRO |1.762,10 |1.762,10 |3.524,21 |
-
-|ESCOLAR III | | | |
-
-|GESTOR ADMINISTRATIVO E FINANCEIRO |1.762,10 |1.938,30 |3.700,40 |
-
-|ESCOLAR IV | | | |
-
-|GESTOR ADMINISTRATIVO E FINANCEIRO |1.762,10 |2.132,13 |3.894,23 |
-
-|ESCOLAR V | | | |
+| FUNÇÃO GRATIFICADA | VENCIMENTO-BASE | GRATIFICAÇÃO DE | REMUNERAÇÃO TOTAL |
+| --- | --- | --- | --- |
+|  |  | DEDICAÇÃO EXCLUSIVA |  |
+| GESTOR ADMINISTRATIVO E FINANCEIRO | 1.762,10 | 1.456,28 | 3.218,38 |
+| ESCOLAR I |  |  |  |
+| GESTOR ADMINISTRATIVO E FINANCEIRO | 1.762,10 | 1.601,91 | 3.364,01 |
+| ESCOLAR II |  |  |  |
+| GESTOR ADMINISTRATIVO E FINANCEIRO | 1.762,10 | 1.762,10 | 3.524,21 |
+| ESCOLAR III |  |  |  |
+| GESTOR ADMINISTRATIVO E FINANCEIRO | 1.762,10 | 1.938,30 | 3.700,40 |
+| ESCOLAR IV |  |  |  |
+| GESTOR ADMINISTRATIVO E FINANCEIRO | 1.762,10 | 2.132,13 | 3.894,23 |
+| ESCOLAR V |  |  |  |
 
 I - Hospital Metropolitano Odilon Behrens - HOB:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|GERENTE DE UNIDADE DE SAÚDE I |4.142,72 |
-
-|GERENTE DE UNIDADE DE SAÚDE II |4.560,50 |
-
-|GERENTE DE UNIDADE DE SAÚDE III |4.983,42 |
-
-|COORDENADOR DE APOIO GERENCIAL |2.024,32 |
-
-|COORDENADOR DE EQUIPE |2.392,38 |
-
-|COORDENADOR DE ESPECIALIDADES E ENSINO |2.576,41 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| GERENTE DE UNIDADE DE SAÚDE I | 4.142,72 |
+| GERENTE DE UNIDADE DE SAÚDE II | 4.560,50 |
+| GERENTE DE UNIDADE DE SAÚDE III | 4.983,42 |
+| COORDENADOR DE APOIO GERENCIAL | 2.024,32 |
+| COORDENADOR DE EQUIPE | 2.392,38 |
+| COORDENADOR DE ESPECIALIDADES E ENSINO | 2.576,41 |
 
 J - Supervisor das Atividades Operacionais de Campo:
 
-|FUNÇÃO GRATIFICADA |GRATIFICAÇÃO |
-
-|SUPERVISOR DAS ATIVIDADES OPERACIONAIS DE CAMPO |462,16 |
+| FUNÇÃO GRATIFICADA | GRATIFICAÇÃO |
+| --- | --- |
+| SUPERVISOR DAS ATIVIDADES OPERACIONAIS DE CAMPO | 462,16 |
 
 ANEXO XI
 
 (a que se refere esta lei)
 
-|GRAU DE INSALUBRIDADE |
-
-|(VALORES EM R$) |
-
-|VIGÊNCIA |MÍNIMO |MÉDIO |MÁXIMO |
-
-|1º/8/24 |133,56 |267,12 |534,25 |
+| GRAU DE INSALUBRIDADE |  |  |  |
+| --- | --- | --- | --- |
+| (VALORES EM R$) |  |  |  |
+| VIGÊNCIA | MÍNIMO | MÉDIO | MÁXIMO |
+| 1º/8/24 | 133,56 | 267,12 | 534,25 |
 
 ANEXO XII
 
@@ -874,63 +667,36 @@ ANEXO XII
 
 Tabela de reposicionamento dos postos hierárquicos na GCMBH
 
-|MATRIZ DE REORGANIZAÇÃO DE NÍVEIS |
-
-|COLUNA 1 |COLUNA 2 |COLUNA 3 |
-
-|TEMPO DE EXERCÍCIO NA CARREIRA DE FUNÇÃO DE COORDENAÇÃO ATÉ 9|NÍVEL POR |NÍVEL POR ESCOLARIDADE |
-
-|DE JANEIRO DE 2019 |MÉRITO | |
-
-|1 nível |0 |0 |
-
-| | |1 |
-
-| | |2 |
-
-| | |3 |
-
-| | |4 |
-
-| |1 |0 |
-
-| | |1 |
-
-| | |2 |
-
-| | |3 |
-
-| | |4 |
-
-| |2 |0 |
-
-| | |1 |
-
-| | |2 |
-
-| | |3 |
-
-| | |4 |
-
-| |3 |0 |
-
-| | |1 |
-
-| | |2 |
-
-| | |3 |
-
-| | |4 |
-
-| |4 |0 |
-
-| | |1 |
-
-| | |2 |
-
-| | |3 |
-
-| | |4 |
+| MATRIZ DE REORGANIZAÇÃO DE NÍVEIS |  |  |
+| --- | --- | --- |
+| COLUNA 1 | COLUNA 2 | COLUNA 3 |
+| TEMPO DE EXERCÍCIO NA CARREIRA DE FUNÇÃO DE COORDENAÇÃO ATÉ 9 | NÍVEL POR | NÍVEL POR ESCOLARIDADE |
+| DE JANEIRO DE 2019 | MÉRITO |  |
+| 1 nível | 0 | 0 |
+|  |  | 1 |
+|  |  | 2 |
+|  |  | 3 |
+|  |  | 4 |
+|  | 1 | 0 |
+|  |  | 1 |
+|  |  | 2 |
+|  |  | 3 |
+|  |  | 4 |
+|  | 2 | 0 |
+|  |  | 1 |
+|  |  | 2 |
+|  |  | 3 |
+|  |  | 4 |
+|  | 3 | 0 |
+|  |  | 1 |
+|  |  | 2 |
+|  |  | 3 |
+|  |  | 4 |
+|  | 4 | 0 |
+|  |  | 1 |
+|  |  | 2 |
+|  |  | 3 |
+|  |  | 4 |
 
 ANEXO XIII
 
@@ -960,19 +726,14 @@ ANEXO XIV
 
 E - TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS EFETIVOS DE ENGENHEIRO E DE ARQUITETO
 
-|CARGOS |40 HORAS SEMANAIS |
-
-| |NÍVEL |
-
-| |1 |
-
-|Arquiteto |162 |
-
-|Engenheiro |249 |
-
-|Geógrafo |30 |
-
-|Geólogo |30 |
+| CARGOS | 40 HORAS SEMANAIS |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+| Arquiteto | 162 |
+| Engenheiro | 249 |
+| Geógrafo | 30 |
+| Geólogo | 30 |
 
 .”.
 
@@ -1036,21 +797,15 @@ ANEXO XVII
 
 Tabela de vencimentos dos cargos de Geógrafo e de Geólogo
 
-|CARGOS |30 HORAS SEMANAIS |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-|[...] |[...] |
-
-|Engenheiro |31 |
-
-|Arquiteto |5 |
+| CARGOS | 30 HORAS SEMANAIS |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+| [...] | [...] |
+| Engenheiro | 31 |
+| Arquiteto | 5 |
 
 .”.
 
@@ -1092,13 +847,11 @@ ANEXO XX
 
 A - Empregos públicos efetivos da Sudecap/Número de vagas:
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|[...] |[...] |
-
-|Engenheiro |121 |
-
-|Arquiteto |41 |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| [...] | [...] |
+| Engenheiro | 121 |
+| Arquiteto | 41 |
 
 .”.
 

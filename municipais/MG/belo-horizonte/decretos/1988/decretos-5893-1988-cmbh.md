@@ -1554,21 +1554,15 @@ TABELA I A QUE SE REFERE O ARTIGO 13, INCISO II
 
 DO DECRETO Nº 5893 DE 16 DE MARÇO DE 1988
 
-|NÍVEIS MÁXIMOS DE SOM, EM dB(A) |
-
-|ZONA DE USO E OCUPAÇÃO DO SOLO DA PROPRIEDADE ONDE SE DÁ O |HORÁRIOS |
-
-|SUPOSTO INCÔMODO (1) | |
-
-| |DIURNO | *VESPERTINO |* NOTURNO |
-
-|ZR1 - ZR2 - SE1 - SE2 |55 |50 |45 |
-
-|ZR3 - ZR4 - ZR4A - ZR4B - ZR5 - SE4 |60 |55 |50 |
-
-|ZR6 - ZC1 |65 |60 |55 |
-
-|ZC2 - ZC3 - ZC4 - ZC5 - ZC6 - ZI - SE3 |70 |60 |60 |
+| NÍVEIS MÁXIMOS DE SOM, EM dB(A) |  |  |  |
+| --- | --- | --- | --- |
+| ZONA DE USO E OCUPAÇÃO DO SOLO DA PROPRIEDADE ONDE SE DÁ O | HORÁRIOS |  |  |
+| SUPOSTO INCÔMODO (1) |  |  |  |
+|  | DIURNO | *VESPERTINO | * NOTURNO |
+| ZR1 - ZR2 - SE1 - SE2 | 55 | 50 | 45 |
+| ZR3 - ZR4 - ZR4A - ZR4B - ZR5 - SE4 | 60 | 55 | 50 |
+| ZR6 - ZC1 | 65 | 60 | 55 |
+| ZC2 - ZC3 - ZC4 - ZC5 - ZC6 - ZI - SE3 | 70 | 60 | 60 |
 
 1) De acordo com à Lei Municipal nº 4034, de 25 de março de 1985.
 
@@ -1576,25 +1570,17 @@ TABELA 1 A QUE SE REFERE O ARTIGO 13, INCISO II NÍVEIS MÁXIMOS DE SOM EM dB(A)
 
 Tabela 1 com redação dada pelo Decreto nº 9.139, de 7/3/1997 (Art. 1º)
 
-|LOCAL DA PROPRIEDADE ONDE SE DÁ O SUPOSTO INCÔMODO |HORÁRIOS |
-
-|ZONA DE USO E OCUPAÇÃO DO |CLASSIFICAÇÃO DAS VIAS (1)|DIURNO |VESPERTINO |NOTURNO |
-
-|SOLO (1) | |(07:00 ÁS 19:00) |(19:00 ÀS 22:00) |(22:00 ÀS 07:00) |
-
-|ZPAM |TODAS AS VIAS |55 Db(A) |50 dB(A) |45 dB(A) |
-
-|ZP1 | | | | |
-
-|ZP2 | | | | |
-
-|DEMAIS ZONAS DE USO |LOCAL |60 dB(A) |55 dB(A) |50 dB(A) |
-
-| |COLETORA |65 dB(A) |60 dB(A) |55 dB(A) |
-
-| |LIGAÇÃO REGIONAL E |70 dB(A) |60 dB(A) |55 dB(A) |
-
-| |ARTERIAL | | | |
+| LOCAL DA PROPRIEDADE ONDE SE DÁ O SUPOSTO INCÔMODO | HORÁRIOS |  |  |  |
+| --- | --- | --- | --- | --- |
+| ZONA DE USO E OCUPAÇÃO DO | CLASSIFICAÇÃO DAS VIAS (1) | DIURNO | VESPERTINO | NOTURNO |
+| SOLO (1) |  | (07:00 ÁS 19:00) | (19:00 ÀS 22:00) | (22:00 ÀS 07:00) |
+| ZPAM | TODAS AS VIAS | 55 Db(A) | 50 dB(A) | 45 dB(A) |
+| ZP1 |  |  |  |  |
+| ZP2 |  |  |  |  |
+| DEMAIS ZONAS DE USO | LOCAL | 60 dB(A) | 55 dB(A) | 50 dB(A) |
+|  | COLETORA | 65 dB(A) | 60 dB(A) | 55 dB(A) |
+|  | LIGAÇÃO REGIONAL E | 70 dB(A) | 60 dB(A) | 55 dB(A) |
+|  | ARTERIAL |  |  |  |
 
 (1) DE ACORDO COM A LEI MUNICIPAL Nº 7.166, DE 27 DE AGOSTO DE 1996
 

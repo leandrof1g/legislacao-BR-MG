@@ -74,69 +74,39 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei | |
-
-|nº 11.442, de 29 de dezembro de 2022: | |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – | |
-
-|SMASAC | |
-
-|1000.2500.14.422.127.2.840.449051.700 |9.191.713,00 |
-
-|1000.2500.14.422.127.2.840.449052.700 |600.000,00 |
-
-|Secretaria Municipal de Educação – SMED | |
-
-|2200.0100.12.361.168.2.926.449052.571 |1.111.264,56 |
-
-|2200.0100.12.365.169.2.926.449052.571 |327.337,89 |
-
-|2200.0200.12.361.168.2.926.449052.571 |136.672,10 |
-
-|2200.0300.12.361.168.2.926.449052.571 |80.643,03 |
-
-|2200.0300.12.365.169.2.926.449052.571 |161.864,03 |
-
-|2200.0400.12.365.169.2.926.449052.571 |109.112,63 |
-
-|2200.0600.12.361.168.2.926.449052.571 |432.236,10 |
-
-|2200.0800.12.361.168.2.926.449052.571 |215.463,83 |
-
-|2200.0900.12.361.168.2.926.449052.571 |35.176,25 |
-
-|Fundo Municipal de Saúde – FMS | |
-
-|2302.3401.10.302.114.2.891.339030.621 |115.690,00 |
-
-|2302.3401.10.302.114.2.891.339039.621 |205.070,00 |
-
-|2302.3401.10.302.114.2.894.339039.621 |3.181.243,89 |
-
-|2302.3401.10.304.028.2.829.339030.621 |14.603,93 |
-
-|Secretaria Municipal de Meio Ambiente – SMMA | |
-
-|2500.1100.18.541.307.2.913.339039.500 |414.500,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI | |
-
-|2700.1100.08.244.019.1.220.449093.500 |110.343,41 |
-
-|2700.1100.08.244.019.1.220.449093.754 |135.386,56 |
-
-|2700.1100.08.244.019.1.220.449093.700 |1.037.342,25 |
-
-|2700.1100.08.244.019.1.220.449093.665 |255,42 |
-
-|Fundação Municipal de Cultura – FMC | |
-
-|3103.1100.13.122.146.2.900.339039.501 |70.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |17.685.918,88 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei |  |
+| nº 11.442, de 29 de dezembro de 2022: |  |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – |  |
+| SMASAC |  |
+| 1000.2500.14.422.127.2.840.449051.700 | 9.191.713,00 |
+| 1000.2500.14.422.127.2.840.449052.700 | 600.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.0100.12.361.168.2.926.449052.571 | 1.111.264,56 |
+| 2200.0100.12.365.169.2.926.449052.571 | 327.337,89 |
+| 2200.0200.12.361.168.2.926.449052.571 | 136.672,10 |
+| 2200.0300.12.361.168.2.926.449052.571 | 80.643,03 |
+| 2200.0300.12.365.169.2.926.449052.571 | 161.864,03 |
+| 2200.0400.12.365.169.2.926.449052.571 | 109.112,63 |
+| 2200.0600.12.361.168.2.926.449052.571 | 432.236,10 |
+| 2200.0800.12.361.168.2.926.449052.571 | 215.463,83 |
+| 2200.0900.12.361.168.2.926.449052.571 | 35.176,25 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.302.114.2.891.339030.621 | 115.690,00 |
+| 2302.3401.10.302.114.2.891.339039.621 | 205.070,00 |
+| 2302.3401.10.302.114.2.894.339039.621 | 3.181.243,89 |
+| 2302.3401.10.304.028.2.829.339030.621 | 14.603,93 |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.1100.18.541.307.2.913.339039.500 | 414.500,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.1100.08.244.019.1.220.449093.500 | 110.343,41 |
+| 2700.1100.08.244.019.1.220.449093.754 | 135.386,56 |
+| 2700.1100.08.244.019.1.220.449093.700 | 1.037.342,25 |
+| 2700.1100.08.244.019.1.220.449093.665 | 255,42 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.1100.13.122.146.2.900.339039.501 | 70.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 17.685.918,88 |
 
 ANEXO II
 
@@ -198,27 +168,18 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração do saldo de crédito suplementar passível de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 205.270.666,73 |
-
-|Valor do Decreto publicado nesta data |R$ 17.685.918,88 |
-
-|Saldo atual de créditos suplementares |R$ 1.491.210.602,59 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 222.956.585,61 |
-
-|Percentual utilizado |13,01% |
-
-|Atualizado em 20/03/2023 às 11:58:55 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 205.270.666,73 |
+| Valor do Decreto publicado nesta data | R$ 17.685.918,88 |
+| Saldo atual de créditos suplementares | R$ 1.491.210.602,59 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 222.956.585,61 |
+| Percentual utilizado | 13,01% |
+| Atualizado em 20/03/2023 às 11:58:55 |  |
 
 ## Observações da CMBH
 

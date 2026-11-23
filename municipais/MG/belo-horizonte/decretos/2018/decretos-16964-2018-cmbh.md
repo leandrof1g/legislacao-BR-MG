@@ -114,19 +114,14 @@ ANEXO
 
 (a que se refere o § 2º do art. 6º do Decreto nº 16.964, de 28 de agosto de 2018)
 
-|METROS LINEARES DO MURO TRATADO |ÁREA DO ESPAÇO DE IDENTIFICAÇÃO|ÁREA DE DIVULGAÇÃO DAS MARCAS DAS |
-
-| |DO PROGRAMA |ENTIDADES PARCEIRAS |
-
-|Até 50m |Até 1,5m2 |Até 0,18m2 |
-
-|Mais de 50m e até 100m |Até 3m2 |Até 0,32m2 |
-
-|Mais de 100m e até 200m ¹ |Até 5m2 |Até 0,5m2 |
-
-|¹ A cada 100m lineares de muro tratado adicionais, poderá ser destinada nova área para identificação e|
-
-|divulgação das marcas das entidades parceiras. |
+| METROS LINEARES DO MURO TRATADO | ÁREA DO ESPAÇO DE IDENTIFICAÇÃO | ÁREA DE DIVULGAÇÃO DAS MARCAS DAS |
+| --- | --- | --- |
+|  | DO PROGRAMA | ENTIDADES PARCEIRAS |
+| Até 50m | Até 1,5m2 | Até 0,18m2 |
+| Mais de 50m e até 100m | Até 3m2 | Até 0,32m2 |
+| Mais de 100m e até 200m ¹ | Até 5m2 | Até 0,5m2 |
+| ¹ A cada 100m lineares de muro tratado adicionais, poderá ser destinada nova área para identificação e |  |  |
+| divulgação das marcas das entidades parceiras. |  |  |
 
 (*) Republicação em virtude de incorreção verificada no original encaminhado à DTEL/GP.
 

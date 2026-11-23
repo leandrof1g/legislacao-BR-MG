@@ -630,135 +630,76 @@ Secretário Municipal de Finanças
 
 ANEXO I TABELA GERAL DE DOCUMENTOS DE USO DA GERÊNCIA DE TRIBUTOS IMOBILIÁRIOS
 
-|N° |DESCRIÇÃO |N° |DESCRIÇÃO |
-
-|01 |Procuração ou Autorização |22 |Lei, Decreto ou Ato Decl. de Utilidade Pública |
-
-|02 |Documento de identidade |23 |Laudo técnico topográfico |
-
-|03 |Guia de IPTU |24 |Conta de fornecimento de energia elétrica |
-
-|04 |Matrícula Imobiliária |25 |Conta de fornecimento de água e esgoto |
-
-|05 |Convenção de Condomínio |26 |Conta de telefone fixo |
-
-|06 |Contrato particular de promessa de compra e venda ou de permuta |27 |Cópia autenticada de registro no órgão ou |
-
-| | | |conselho setorial |
-
-|07 |Escritura pública de Compra e Venda ou de permuta |28 |Memorial descritivo do imóvel |
-
-| | |29 |Despacho de reconhecimento de imunidade |
-
-|08 |Escritura Pública de instituição de direito real |30 |Certidão de nascimento |
-
-|09 |Certidão Vintenária de Domínio |31 |Documento. de participação em campanha |
-
-| | | |(ex-combatente) |
-
-|10 |Certidão Negativa de Ônus | | |
-
-|11 |Certidão Negativa de Propriedade |32 |Certidão de óbito (Ex-combatente) |
-
-|12 |Cartão de Inscrição no CPF |33 |Certidão de Baixa e Habite-se |
-
-|13 |Cartão de Inscrição no CNPJ |34 |Alvará de construção |
-
-|14 |Ato de constituição ou de alteração de disposições estatutárias ou |35 |Comunicado de início de obra |
-
-| |contratuais pessoas jurídicas e fundações | | |
-
-| | |36 |Cópia de Planta (CP) |
-
-| | |37 |Certidão de demolição |
-
-|15 |Termo de imissão provisória na posse |38 |Certidão de origem |
-
-|16 |Termo de imissão definitiva na posse |39 |Certidão de numeração |
-
-|17 |Escritura pública de desapropriação |40 |Concessão de numeração |
-
-|18 |Declaração do órgão desapropriador |41 |Informação Básica |
-
-|19 |Formal de partilha (judicial) |42 |Planta particular (PL) |
-
-|20 |Decisão Judicial Final |43 |Informação indicando a zona de uso do imóvel |
-
-|21 |Decisão Judicial Liminar | | |
-
-|44 |Levantamento planimétrico (1:1000), na coordenada UTM-SAD 69, elaborado por| | |
-
-| |profissional habilitado, em 2 vias, incluindo a área original. | | |
-
-|45 |Documento que atesta a cessão do imóvel para entidade religiosa, | | |
-
-| |assistencial ou de educação, cujo cedente deverá ser o contribuinte | | |
-
-| |constante do cadastro imobiliário. | | |
-
-|46 |Relatório de atividades sócio-assistenciais desenvolvidas pela entidade | | |
-
-| |religiosa ou comprovante de inscrição no Conselho Municipal de | | |
-
-| |Assistência-Social | | |
-
-|47 |Declaração de entidade ocupante de imóveis desapropriados para instalação | | |
-
-| |de escola pública ou posto de saúde | | |
-
-|48 |Atestado expedido por federações esportivas estaduais comprovando a | | |
-
-| |participação de entidade esportiva, há mais de 5 (cinco) anos, em | | |
-
-| |competições de, pelo menos, quatro modalidades de esportes olímpicos | | |
-
-| |promovidos pelas respectivas federações | | |
-
-|49 |Laudo favorável à concessão de isenção atestando a conservação do imóvel | | |
-
-| |segundo as condições que determinaram seu tombamento. | | |
-
-|50 |Declaração - Taxa de Coleta de Resíduos Sólidos Sólidos - TCR (AnexoII) | | |
-
-|51 |Declaração - Desdobramento de Lançamento em Partes Residencial e Não | | |
-
-| |Residencial (AnexoII) | | |
-
-|52 |Declaração - Extensão de Imunidade Tributária (AnexoII) | | |
-
-|53 |Declaração - Lançamento Predial (AnexoII) | | |
-
-|54 |Declaração - Redução de Alíquota (AnexoII) | | |
-
-|55 |Declaração - Área de Construção Não Condominial (AnexoII) | | |
-
-|56 |Declaração - Número de Economias (AnexoII) | | |
-
-|57 |Declaração - Ano de Construção (AnexoII) | | |
-
-|58 |Declaração - Cancelamento de Parte (AnexoII) | | |
-
-|59 |Outros documentos de interesse da Fiscalização Tributária (AnexoII) | | |
+| N° | DESCRIÇÃO | N° | DESCRIÇÃO |
+| --- | --- | --- | --- |
+| 01 | Procuração ou Autorização | 22 | Lei, Decreto ou Ato Decl. de Utilidade Pública |
+| 02 | Documento de identidade | 23 | Laudo técnico topográfico |
+| 03 | Guia de IPTU | 24 | Conta de fornecimento de energia elétrica |
+| 04 | Matrícula Imobiliária | 25 | Conta de fornecimento de água e esgoto |
+| 05 | Convenção de Condomínio | 26 | Conta de telefone fixo |
+| 06 | Contrato particular de promessa de compra e venda ou de permuta | 27 | Cópia autenticada de registro no órgão ou |
+|  |  |  | conselho setorial |
+| 07 | Escritura pública de Compra e Venda ou de permuta | 28 | Memorial descritivo do imóvel |
+|  |  | 29 | Despacho de reconhecimento de imunidade |
+| 08 | Escritura Pública de instituição de direito real | 30 | Certidão de nascimento |
+| 09 | Certidão Vintenária de Domínio | 31 | Documento. de participação em campanha |
+|  |  |  | (ex-combatente) |
+| 10 | Certidão Negativa de Ônus |  |  |
+| 11 | Certidão Negativa de Propriedade | 32 | Certidão de óbito (Ex-combatente) |
+| 12 | Cartão de Inscrição no CPF | 33 | Certidão de Baixa e Habite-se |
+| 13 | Cartão de Inscrição no CNPJ | 34 | Alvará de construção |
+| 14 | Ato de constituição ou de alteração de disposições estatutárias ou | 35 | Comunicado de início de obra |
+|  | contratuais pessoas jurídicas e fundações |  |  |
+|  |  | 36 | Cópia de Planta (CP) |
+|  |  | 37 | Certidão de demolição |
+| 15 | Termo de imissão provisória na posse | 38 | Certidão de origem |
+| 16 | Termo de imissão definitiva na posse | 39 | Certidão de numeração |
+| 17 | Escritura pública de desapropriação | 40 | Concessão de numeração |
+| 18 | Declaração do órgão desapropriador | 41 | Informação Básica |
+| 19 | Formal de partilha (judicial) | 42 | Planta particular (PL) |
+| 20 | Decisão Judicial Final | 43 | Informação indicando a zona de uso do imóvel |
+| 21 | Decisão Judicial Liminar |  |  |
+| 44 | Levantamento planimétrico (1:1000), na coordenada UTM-SAD 69, elaborado por |  |  |
+|  | profissional habilitado, em 2 vias, incluindo a área original. |  |  |
+| 45 | Documento que atesta a cessão do imóvel para entidade religiosa, |  |  |
+|  | assistencial ou de educação, cujo cedente deverá ser o contribuinte |  |  |
+|  | constante do cadastro imobiliário. |  |  |
+| 46 | Relatório de atividades sócio-assistenciais desenvolvidas pela entidade |  |  |
+|  | religiosa ou comprovante de inscrição no Conselho Municipal de |  |  |
+|  | Assistência-Social |  |  |
+| 47 | Declaração de entidade ocupante de imóveis desapropriados para instalação |  |  |
+|  | de escola pública ou posto de saúde |  |  |
+| 48 | Atestado expedido por federações esportivas estaduais comprovando a |  |  |
+|  | participação de entidade esportiva, há mais de 5 (cinco) anos, em |  |  |
+|  | competições de, pelo menos, quatro modalidades de esportes olímpicos |  |  |
+|  | promovidos pelas respectivas federações |  |  |
+| 49 | Laudo favorável à concessão de isenção atestando a conservação do imóvel |  |  |
+|  | segundo as condições que determinaram seu tombamento. |  |  |
+| 50 | Declaração - Taxa de Coleta de Resíduos Sólidos Sólidos - TCR (AnexoII) |  |  |
+| 51 | Declaração - Desdobramento de Lançamento em Partes Residencial e Não |  |  |
+|  | Residencial (AnexoII) |  |  |
+| 52 | Declaração - Extensão de Imunidade Tributária (AnexoII) |  |  |
+| 53 | Declaração - Lançamento Predial (AnexoII) |  |  |
+| 54 | Declaração - Redução de Alíquota (AnexoII) |  |  |
+| 55 | Declaração - Área de Construção Não Condominial (AnexoII) |  |  |
+| 56 | Declaração - Número de Economias (AnexoII) |  |  |
+| 57 | Declaração - Ano de Construção (AnexoII) |  |  |
+| 58 | Declaração - Cancelamento de Parte (AnexoII) |  |  |
+| 59 | Outros documentos de interesse da Fiscalização Tributária (AnexoII) |  |  |
 
 ANEXO II
 
 MODELOS DE DECLARAÇÕES
 
-|DECLARAÇÃO - TAXA DE COLETA DE RESÍDUOS SÓLIDOS - TCR |
-
-|(TIPO 23) |
-
-|Processo |
-
-|Índice Cadastral |
-
-|Contribuinte |
-
-|CPF/CNPJ |
-
-|Representante |
-
-|CPF |
+| DECLARAÇÃO - TAXA DE COLETA DE RESÍDUOS SÓLIDOS - TCR |
+| --- |
+| (TIPO 23) |
+| Processo |
+| Índice Cadastral |
+| Contribuinte |
+| CPF/CNPJ |
+| Representante |
+| CPF |
 
 Eu,_____________________________________________________________________________, juntamente com o pedido de revisão do IPTU do imóvel acima identificado, especificamente, quanto à TAXA DE COLETA DE RESÍDUOS SÓLIDOS - TCR, declaro:
 
@@ -788,19 +729,14 @@ ______________________________________
 
 Contribuinte ou Representante
 
-|DECLARAÇÃO - DESDOBRAMENTO DE LANÇAMENTO PARTES RESIDENCIAL E NÃO RESIDENCIAL - (TIPO 04) |
-
-|Processo |
-
-|Índice Cadastral |
-
-|Contribuinte |
-
-|CPF/CNPJ |
-
-|Representante |
-
-|CPF |
+| DECLARAÇÃO - DESDOBRAMENTO DE LANÇAMENTO PARTES RESIDENCIAL E NÃO RESIDENCIAL - (TIPO 04) |
+| --- |
+| Processo |
+| Índice Cadastral |
+| Contribuinte |
+| CPF/CNPJ |
+| Representante |
+| CPF |
 
 Eu,____________________________________________________________, juntamente com o pedido de revisão do lançamento do IPTU do imóvel acima identificado, especificamente, quanto ao desdobramento em economias, declaro que:
 
@@ -808,19 +744,17 @@ Eu,____________________________________________________________, juntamente com 
 
 Compondo a parte residencial, indico o nome de 01 (um) ocupante de cada residência e a data em que teve início essa ocupação:
 
-|OCUPANTE (Nome Completo) |DATA DE OCUPAÇÃO |
-
-| |____/____/____ |
-
-| |____/____/____ |
-
-| |____/____/____ |
-
-| |____/____/____ |
+| OCUPANTE (Nome Completo) | DATA DE OCUPAÇÃO |
+| --- | --- |
+|  | ____/____/____ |
+|  | ____/____/____ |
+|  | ____/____/____ |
+|  | ____/____/____ |
 
 compondo a parte não residencial, indico o nome de 01 (um) ocupante de cada não residência, a respectiva atividade exercida e a data em que teve início essa ocupação:
 
-|OCUPANTE |ATIVIDADE |DATA DE OCUPAÇÃO | |
+| OCUPANTE | ATIVIDADE | DATA DE OCUPAÇÃO |  |
+| --- | --- | --- | --- |
 
 Ciente de que as afirmações acima serão verificadas por Auditor Fiscal da PBH e que a apresentação de informações falsas ao Fisco Municipal sujeita o contribuinte a multa, conforme previsto em legislação específica, firmo esta declaração.
 
@@ -830,21 +764,15 @@ ______________________________________
 
 Contribuinte ou Representante
 
-|DECLARAÇÃO - EXTENSÃO DE IMUNIDADE TRIBUTÁRIA |
-
-|(TIPO 13) |
-
-|Processo |
-
-|Índice Cadastral |
-
-|Contribuinte |
-
-|CPF/CNPJ |
-
-|Representante |
-
-|CPF |
+| DECLARAÇÃO - EXTENSÃO DE IMUNIDADE TRIBUTÁRIA |
+| --- |
+| (TIPO 13) |
+| Processo |
+| Índice Cadastral |
+| Contribuinte |
+| CPF/CNPJ |
+| Representante |
+| CPF |
 
 Eu,__________________________________________________________________, juntamente com o pedido de revisão do lançamento do IPTU do imóvel acima identificado, especificamente, quanto à extensão de imunidade tributária, declaro que: 1) [___] esse imóvel é composto pelo total de [___] ocupações residenciais e [___] não residenciais;
 
@@ -852,19 +780,17 @@ Eu,__________________________________________________________________, juntament
 
 Compondo a parte residencial, indico o nome de 01 (um) ocupante de cada residência e a data em que teve início essa ocupação:
 
-|OCUPANTE (Nome Completo) |DATA DE OCUPAÇÃO |
-
-| |____/____/____ |
-
-| |____/____/____ |
-
-| |____/____/____ |
-
-| |____/____/____ |
+| OCUPANTE (Nome Completo) | DATA DE OCUPAÇÃO |
+| --- | --- |
+|  | ____/____/____ |
+|  | ____/____/____ |
+|  | ____/____/____ |
+|  | ____/____/____ |
 
 Compondo a parte não residencial, indico o nome de 01 (um) ocupante de cada não residência, a respectiva atividade exercida e a data em que teve início essa ocupação:
 
-|OCUPANTE |ATIVIDADE |DATA DE OCUPAÇÃO | |
+| OCUPANTE | ATIVIDADE | DATA DE OCUPAÇÃO |  |
+| --- | --- | --- | --- |
 
 Ciente de que as afirmações acima serão verificadas por Auditor Fiscal da PBH e que a apresentação de informações falsas ao Fisco Municipal sujeita o contribuinte a multa, conforme previsto em legislação específica, firmo esta declaração.
 
@@ -874,21 +800,15 @@ ______________________________________
 
 Contribuinte ou Representante
 
-|DECLARAÇÃO PARA LANÇAMENTO PREDIAL |
-
-|(TIPO 16) |
-
-|Processo |
-
-|Índice Cadastral |
-
-|Contribuinte |
-
-|CPF/CNPJ |
-
-|Representante |
-
-|CPF |
+| DECLARAÇÃO PARA LANÇAMENTO PREDIAL |
+| --- |
+| (TIPO 16) |
+| Processo |
+| Índice Cadastral |
+| Contribuinte |
+| CPF/CNPJ |
+| Representante |
+| CPF |
 
 Eu, ______________________________________________________________, juntamente com o pedido de alteração do lançamento do IPTU do imóvel acima identificado para predial, a partir de _________, declaro que:
 
@@ -922,53 +842,34 @@ ______________________________________________
 
 Contribuinte ou Representante
 
-|DECLARAÇÃO - NÚMERO DE ECONOMIAS |
-
-|(TIPO 18) |
-
-|Processo |
-
-|Índice Cadastral |
-
-|Contribuinte |
-
-|CPF/CNPJ |
-
-|Representante |
-
-|CPF |
+| DECLARAÇÃO - NÚMERO DE ECONOMIAS |
+| --- |
+| (TIPO 18) |
+| Processo |
+| Índice Cadastral |
+| Contribuinte |
+| CPF/CNPJ |
+| Representante |
+| CPF |
 
 Eu, ____________________________________________________________________________, juntamente com o pedido de revisão do lançamento do IPTU do imóvel acima identificado, especificamente, quanto ao número de economias, declaro que: 1- [___] esse imóvel é ocupado exclusivamente por uma única residência; 2- [___] esse imóvel é ocupado exclusivamente por uma única não residência; 3- [___] esse imóvel é ocupado por [___] residências e por [___] não residências.
 
-|OCUPANTE (Nome Completo) |DATA DE OCUPAÇÃO |
-
-| |____/____/____ |
-
-| |____/____/____ |
-
-| |____/____/____ |
-
-| |Compondo a parte não residencial, |
-
-| |indico o nome de 01 (um) ocupante de |
-
-| |cada não residência, a respectiva |
-
-| |atividade exercida e a data em que |
-
-| |teve início essa ocupação: |
-
-|OCUPANTE |ATIVIDADE |DATA DE OCUPAÇÃO |
-
-| | | |
-
-| | | |
-
-| | |4- Justificando o pedido de |
-
-| | |cancelamento de economia, informo |
-
-| | |que não mais existe: |
+| OCUPANTE (Nome Completo) | DATA DE OCUPAÇÃO |  |
+| --- | --- | --- |
+|  | ____/____/____ |  |
+|  | ____/____/____ |  |
+|  | ____/____/____ |  |
+|  | Compondo a parte não residencial, |  |
+|  | indico o nome de 01 (um) ocupante de |  |
+|  | cada não residência, a respectiva |  |
+|  | atividade exercida e a data em que |  |
+|  | teve início essa ocupação: |  |
+| OCUPANTE | ATIVIDADE | DATA DE OCUPAÇÃO |
+|  |  |  |
+|  |  |  |
+|  |  | 4- Justificando o pedido de |
+|  |  | cancelamento de economia, informo |
+|  |  | que não mais existe: |
 
 A- [___] a residência, que foi ocupada por ___________________________ até ____/____/______
 
@@ -986,21 +887,15 @@ ______________________________________
 
 Contribuinte ou Representante
 
-|DECLARAÇÃO - REDUÇÃO DE ALÍQUOTA |
-
-|(TIPO 19) |
-
-|Processo |
-
-|Índice Cadastral |
-
-|Contribuinte |
-
-|CPF/CNPJ |
-
-|Representante |
-
-|CPF |
+| DECLARAÇÃO - REDUÇÃO DE ALÍQUOTA |
+| --- |
+| (TIPO 19) |
+| Processo |
+| Índice Cadastral |
+| Contribuinte |
+| CPF/CNPJ |
+| Representante |
+| CPF |
 
 Eu, _____________________________________________________, para subsidiar a análise do pedido de redução de alíquota do lançamento do IPTU do imóvel acima identificado declaro que:
 
@@ -1018,21 +913,15 @@ ______________________________________
 
 Contribuinte ou Representante
 
-|DECLARAÇÃO - ÁREA DE CONSTRUÇÃO NÃO CONDOMINIAL |
-
-|(TIPO 01) |
-
-|Processo |
-
-|Índice Cadastral |
-
-|Contribuinte |
-
-|CPF/CNPJ |
-
-|Representante |
-
-|CPF |
+| DECLARAÇÃO - ÁREA DE CONSTRUÇÃO NÃO CONDOMINIAL |
+| --- |
+| (TIPO 01) |
+| Processo |
+| Índice Cadastral |
+| Contribuinte |
+| CPF/CNPJ |
+| Representante |
+| CPF |
 
 Eu,_____________________________________________________________________, juntamente com o pedido de revisão do IPTU do imóvel acima identificado, declaro as seguintes construções cobertas existentes nesse terreno, efetivamente ocupadas ou em condições de serem ocupadas, com as respectivas áreas:
 
@@ -1062,21 +951,15 @@ _____________________________________
 
 Contribuinte ou Representante
 
-|DECLARAÇÃO - ANO DE CONSTRUÇÃO |
-
-|(TIPO 07) |
-
-|Processo |
-
-|Índice Cadastral |
-
-|Contribuinte |
-
-|CPF/CNPJ |
-
-|Representante |
-
-|CPF |
+| DECLARAÇÃO - ANO DE CONSTRUÇÃO |
+| --- |
+| (TIPO 07) |
+| Processo |
+| Índice Cadastral |
+| Contribuinte |
+| CPF/CNPJ |
+| Representante |
+| CPF |
 
 Eu, ____________________________________________________________________________, juntamente com o pedido de revisão do IPTU do imóvel acima identificado, declaro que a construção existente nesse lote:
 
@@ -1100,21 +983,15 @@ ______________________________________
 
 Contribuinte ou Representante
 
-|DECLARAÇÃO - CANCELAMENTO DE PARTE |
-
-|(TIPO 22) |
-
-|Processo |
-
-|Índice Cadastral |
-
-|Contribuinte |
-
-|CPF/CNPJ |
-
-|Representante |
-
-|CPF |
+| DECLARAÇÃO - CANCELAMENTO DE PARTE |
+| --- |
+| (TIPO 22) |
+| Processo |
+| Índice Cadastral |
+| Contribuinte |
+| CPF/CNPJ |
+| Representante |
+| CPF |
 
 Eu, ____________________________________________________________________________, juntamente com o pedido de revisão do IPTU do imóvel acima identificado, especificamente, quanto ao cancelamento de parte, declaro que:
 
@@ -1122,7 +999,8 @@ Eu, ____________________________________________________________________________
 
 2-[___] nesse imóvel, desde ____/____/____, não mais existe a parte não residencial, que era ocupada por: ______________________________ exercendo as seguintes atividades:
 
-|Atividade |Responsável | |
+| Atividade | Responsável |  |
+| --- | --- | --- |
 
 3 - Declaro ainda, que a construção foi modificada de modo que, após a reforma, só serve para ocupação [___] exclusivamente residencial [____] exclusivamente não residencial.
 

@@ -70,10 +70,5 @@ Prefeito de Belo Horizonte
 
 (Originária do Projeto de Lei nº 1.181/06, de autoria do Executivo)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]
-
-[pic]
-
-[pic]

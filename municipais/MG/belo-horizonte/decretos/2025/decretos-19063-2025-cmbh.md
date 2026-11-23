@@ -58,81 +58,48 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2900.339093.1.500.000 |180.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.391.0155.2375.449093.1.701.000 |5.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.339039.1.500.000 |870.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0233.2811.339039.1.500.000 |10.100.000,00 |
-
-|2700.04.122.0227.1403.449051.1.500.000 |350.000,00 |
-
-|2700.04.122.0233.1219.449051.1.710.610 |220.000,00 |
-
-|2700.15.451.0062.1230.449051.2.752.000 |6.000.000,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0096.2004.339040.1.500.000 |118.139,00 |
-
-|0201.04.122.0096.2004.339037.1.500.000 |825.870,65 |
-
-|0201.04.122.0096.2004.339039.1.500.000 |57.727,81 |
-
-|TOTAL DA SUPLEMENTAÇÃO |18.726.737,46 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2900.339093.1.500.000 | 180.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.391.0155.2375.449093.1.701.000 | 5.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.339039.1.500.000 | 870.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0233.2811.339039.1.500.000 | 10.100.000,00 |
+| 2700.04.122.0227.1403.449051.1.500.000 | 350.000,00 |
+| 2700.04.122.0233.1219.449051.1.710.610 | 220.000,00 |
+| 2700.15.451.0062.1230.449051.2.752.000 | 6.000.000,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0096.2004.339040.1.500.000 | 118.139,00 |
+| 0201.04.122.0096.2004.339037.1.500.000 | 825.870,65 |
+| 0201.04.122.0096.2004.339039.1.500.000 | 57.727,81 |
+| TOTAL DA SUPLEMENTAÇÃO | 18.726.737,46 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.339037.1.500.000 |170.000,00 |
-
-|2505.04.122.0165.2816.339093.1.500.000 |10.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.391.0155.2375.339039.1.701.000 |5.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0073.1202.449051.1.500.000 |200.000,00 |
-
-|2700.15.451.0233.1396.449051.1.500.000 |620.000,00 |
-
-|2700.15.451.0227.1403.449051.1.500.000 |350.000,00 |
-
-|2700.15.451.0062.1230.449092.1.710.010 |110.000,00 |
-
-|2700.17.512.0066.1400.449093.1.710.010 |110.000,00 |
-
-|2700.15.451.0084.2035.339039.1.500.000 |50.000,00 |
-
-|2700.15.452.0057.2770.339039.1.500.000 |10.100.000,00 |
-
-|2700.15.451.0233.1396.449051.2.752.000 |6.000.000,00 |
-
-|Gabinete do Prefeito – GP |
-
-|0201.04.122.0007.2900.339037.1.500.000 |1.001.737,46 |
-
-|TOTAL DA ANULAÇÃO |18.726.737,46 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.339037.1.500.000 | 170.000,00 |
+| 2505.04.122.0165.2816.339093.1.500.000 | 10.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.391.0155.2375.339039.1.701.000 | 5.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0073.1202.449051.1.500.000 | 200.000,00 |
+| 2700.15.451.0233.1396.449051.1.500.000 | 620.000,00 |
+| 2700.15.451.0227.1403.449051.1.500.000 | 350.000,00 |
+| 2700.15.451.0062.1230.449092.1.710.010 | 110.000,00 |
+| 2700.17.512.0066.1400.449093.1.710.010 | 110.000,00 |
+| 2700.15.451.0084.2035.339039.1.500.000 | 50.000,00 |
+| 2700.15.452.0057.2770.339039.1.500.000 | 10.100.000,00 |
+| 2700.15.451.0233.1396.449051.2.752.000 | 6.000.000,00 |
+| Gabinete do Prefeito – GP |  |
+| 0201.04.122.0007.2900.339037.1.500.000 | 1.001.737,46 |
+| TOTAL DA ANULAÇÃO | 18.726.737,46 |
 
 ANEXO II
 
@@ -180,24 +147,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 92.591.223,80 |
-
-|Valor do Decreto publicado nesta data |R$ 18.726.737,46 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 111.317.961,26 |
-
-|Saldo atual de créditos suplementares |R$ 2.154.062.836,04 |
-
-|Percentual utilizado |4,91% |
-
-|Atualizado em 10/04/2025 às 11:56:43 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 92.591.223,80 |
+| Valor do Decreto publicado nesta data | R$ 18.726.737,46 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 111.317.961,26 |
+| Saldo atual de créditos suplementares | R$ 2.154.062.836,04 |
+| Percentual utilizado | 4,91% |
+| Atualizado em 10/04/2025 às 11:56:43 |  |

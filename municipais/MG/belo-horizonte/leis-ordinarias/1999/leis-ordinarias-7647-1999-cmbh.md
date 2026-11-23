@@ -208,75 +208,45 @@ ANTES DE ENTRAR NO ELEVADOR, VERIFIQUE SE ELE SE ENCONTRA PARADO NESTE ANDAR”
 
 **Art. 17** - A infração do disposto nesta Lei sujeita o proprietário às seguintes multas, em Unidade Fiscal de Referência (UFIR):
 
-|Infração |Multa em UFIR |
-
-|I - (VETADO) |
-
-|II - permissão de instalação ou conservação/modernização/reforma de aparelho de transporte por empresas não| |
-
-|registradas na Prefeitura e/ou no CREA |72 |
-
-|III - utilização indevida de aparelho de transporte |72 |
-
-|IV - ausência do livro obrigatório de registro de ocorrências no local onde está instalado o aparelho de | |
-
-|transporte |24 |
-
-|V - funcionamento de aparelho de transporte sem ascensorista (ou operador) nos casos em que tal é | |
-
-|obrigatório |24 |
-
-|VI - permissão de instalação ou funcionamento de aparelho de transporte desprovido de condições de | |
-
-|segurança |168 |
-
-|VII - paralisação injustificada de aparelho de transporte por mais de 24 (vinte quatro) horas | |
-
-| |72 |
-
-|VIII - desrespeito a auto de interdição ou embargo de aparelho de transporte |240 |
-
-|IX - (VETADO) |
+| Infração | Multa em UFIR |
+| --- | --- |
+| I - (VETADO) |  |
+| II - permissão de instalação ou conservação/modernização/reforma de aparelho de transporte por empresas não |  |
+| registradas na Prefeitura e/ou no CREA | 72 |
+| III - utilização indevida de aparelho de transporte | 72 |
+| IV - ausência do livro obrigatório de registro de ocorrências no local onde está instalado o aparelho de |  |
+| transporte | 24 |
+| V - funcionamento de aparelho de transporte sem ascensorista (ou operador) nos casos em que tal é |  |
+| obrigatório | 24 |
+| VI - permissão de instalação ou funcionamento de aparelho de transporte desprovido de condições de |  |
+| segurança | 168 |
+| VII - paralisação injustificada de aparelho de transporte por mais de 24 (vinte quatro) horas |  |
+|  | 72 |
+| VIII - desrespeito a auto de interdição ou embargo de aparelho de transporte | 240 |
+| IX - (VETADO) |  |
 
 **Art. 18** - A empresa instaladora ou conservadora sujeita-se às seguintes multas:
 
-|Infração |Multa em UFIR |
-
-|I - exercício de atividades sem o devido licenciamento na Prefeitura |240 |
-
-|II - (VETADO) |
-
-|III - instalação ou conservação/modernização/reforma de aparelho de transporte em inadequadas condições de | |
-
-|funcionamento ou de segurança |240 |
-
-|IV - falta de painel numerado em braille |24 |
-
-|V - falta de comunicação à Prefeitura de defeitos que afetem o funcionamento ou a segurança de aparelho | |
-
-|de transporte, quando o proprietário se negar a permitir os necessários reparos | |
-
-| |120 |
-
-|VI - falta de comunicação à Prefeitura de assunção ou transferência de responsabilidade por aparelho de | |
-
-|transporte |24 |
-
-|VII - falta de inspeção anual de aparelho de transporte |480 |
-
-|VIII - falta ou insuficiência de serviço de prontidão |120 |
-
-|IX - desrespeito a auto de interdição ou embargo de aparelho de transporte |240 |
-
-|X - (VETADO) |
-
-|XI - deixar de fornecer ou preencher o livro obrigatório de registro de ocorrências |72 |
-
-|XII - manter paralisado o aparelho de transporte por mais de 12 (doze) horas, sob alegação injustificada | |
-
-| |240 |
-
-|XIII - deixar de fornecer documentos previstos no art. 11, § 4º |480 |
+| Infração | Multa em UFIR |
+| --- | --- |
+| I - exercício de atividades sem o devido licenciamento na Prefeitura | 240 |
+| II - (VETADO) |  |
+| III - instalação ou conservação/modernização/reforma de aparelho de transporte em inadequadas condições de |  |
+| funcionamento ou de segurança | 240 |
+| IV - falta de painel numerado em braille | 24 |
+| V - falta de comunicação à Prefeitura de defeitos que afetem o funcionamento ou a segurança de aparelho |  |
+| de transporte, quando o proprietário se negar a permitir os necessários reparos |  |
+|  | 120 |
+| VI - falta de comunicação à Prefeitura de assunção ou transferência de responsabilidade por aparelho de |  |
+| transporte | 24 |
+| VII - falta de inspeção anual de aparelho de transporte | 480 |
+| VIII - falta ou insuficiência de serviço de prontidão | 120 |
+| IX - desrespeito a auto de interdição ou embargo de aparelho de transporte | 240 |
+| X - (VETADO) |  |
+| XI - deixar de fornecer ou preencher o livro obrigatório de registro de ocorrências | 72 |
+| XII - manter paralisado o aparelho de transporte por mais de 12 (doze) horas, sob alegação injustificada |  |
+|  | 240 |
+| XIII - deixar de fornecer documentos previstos no art. 11, § 4º | 480 |
 
 **Art. 19** - A qualquer outra infração a dispositivos legais ou regulamentares não indicada expressamente nos artigos 17 e 18 corresponderá multa de 24 (vinte e quatro) UFIRs renovável, na persistência da falta, a cada 30 (trinta) dias, e aplicável em dobro nas reincidências.
 

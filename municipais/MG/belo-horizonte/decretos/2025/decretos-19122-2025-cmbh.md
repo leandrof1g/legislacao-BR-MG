@@ -58,127 +58,71 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei |R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.445042.2.621.000 |106.330,00 |
-
-|TOTAL |106.330,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.844.0091.3089.329022.1.500.000 |2.000.000,00 |
-
-|4001.28.843.0091.3501.469071.1.500.000 |10.000.000,00 |
-
-|4001.28.844.0091.3089.329021.1.500.000 |4.500.000,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2930.339093.1.700.510 |30.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0227.1403.449051.1.754.791 |200.000,00 |
-
-|2700.17.512.0066.1203.449051.1.500.000 |150.000,00 |
-
-|2700.15.451.0062.1330.449051.1.500.000 |1.300.000,00 |
-
-|2700.17.512.0066.1203.449051.2.754.790 |28.080,00 |
-
-|2700.18.541.0073.1202.449051.1.754.790 |2.900.000,00 |
-
-|2700.13.392.0146.1215.339139.1.500.000 |1.559.882,41 |
-
-|TOTAL |22.667.962,41 |
-
-|I.1.3 – A favor do seguinte órgão, conforme autorização contida no art. 19 da Lei |R$ |
-
-|nº 11.742, de 13 de setembro de 2024, e no art. 7º da Lei nº 11.802, de 3 de | |
-
-|janeiro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.335043.1.500.000 |500.000,00 |
-
-|TOTAL |500.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |23.274.292,41 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.445042.2.621.000 | 106.330,00 |
+| TOTAL | 106.330,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.844.0091.3089.329022.1.500.000 | 2.000.000,00 |
+| 4001.28.843.0091.3501.469071.1.500.000 | 10.000.000,00 |
+| 4001.28.844.0091.3089.329021.1.500.000 | 4.500.000,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2930.339093.1.700.510 | 30.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0227.1403.449051.1.754.791 | 200.000,00 |
+| 2700.17.512.0066.1203.449051.1.500.000 | 150.000,00 |
+| 2700.15.451.0062.1330.449051.1.500.000 | 1.300.000,00 |
+| 2700.17.512.0066.1203.449051.2.754.790 | 28.080,00 |
+| 2700.18.541.0073.1202.449051.1.754.790 | 2.900.000,00 |
+| 2700.13.392.0146.1215.339139.1.500.000 | 1.559.882,41 |
+| TOTAL | 22.667.962,41 |
+| I.1.3 – A favor do seguinte órgão, conforme autorização contida no art. 19 da Lei | R$ |
+| nº 11.742, de 13 de setembro de 2024, e no art. 7º da Lei nº 11.802, de 3 de |  |
+| janeiro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.335043.1.500.000 | 500.000,00 |
+| TOTAL | 500.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 23.274.292,41 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.449092.2.621.000 |106.330,00 |
-
-|TOTAL |106.330,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.319013.1.500.000 |5.000.000,00 |
-
-|2302.10.305.0028.2829.319011.1.500.000 |3.000.000,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449051.1.700.000 |30.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1330.449051.1.754.791 |200.000,00 |
-
-|2700.15.451.0233.1396.449051.1.500.000 |1.450.000,00 |
-
-|2700.15.451.0227.1403.449051.1.500.000 |1.559.882,41 |
-
-|2700.15.451.0062.1230.449051.1.754.790 |2.900.000,00 |
-
-|2700.15.451.0062.1230.449051.2.754.790 |28.080,00 |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.04.129.0013.2052.319011.1.500.000 |3.000.000,00 |
-
-|0800.04.122.0105.2900.319011.1.500.000 |500.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.04.122.0007.3010.319094.1.500.000 |5.000.000,00 |
-
-|TOTAL |22.667.962,41 |
-
-|I.2.3 – Em contrapartida à suplementação relacionada no item I.1.3, anulação de |R$ |
-
-|emenda prevista inicialmente no órgão relacionado abaixo, conforme autorização | |
-
-|contida no art. 19 da Lei nº 11.742, de 13 de setembro de 2024 e no art. 7º da Lei | |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339039.1.500.000 |500.000,00 |
-
-|TOTAL |500.000,00 |
-
-|TOTAL DA ANULAÇÃO |23.274.292,41 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.449092.2.621.000 | 106.330,00 |
+| TOTAL | 106.330,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.319013.1.500.000 | 5.000.000,00 |
+| 2302.10.305.0028.2829.319011.1.500.000 | 3.000.000,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449051.1.700.000 | 30.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1330.449051.1.754.791 | 200.000,00 |
+| 2700.15.451.0233.1396.449051.1.500.000 | 1.450.000,00 |
+| 2700.15.451.0227.1403.449051.1.500.000 | 1.559.882,41 |
+| 2700.15.451.0062.1230.449051.1.754.790 | 2.900.000,00 |
+| 2700.15.451.0062.1230.449051.2.754.790 | 28.080,00 |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.04.129.0013.2052.319011.1.500.000 | 3.000.000,00 |
+| 0800.04.122.0105.2900.319011.1.500.000 | 500.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.04.122.0007.3010.319094.1.500.000 | 5.000.000,00 |
+| TOTAL | 22.667.962,41 |
+| I.2.3 – Em contrapartida à suplementação relacionada no item I.1.3, anulação de | R$ |
+| emenda prevista inicialmente no órgão relacionado abaixo, conforme autorização |  |
+| contida no art. 19 da Lei nº 11.742, de 13 de setembro de 2024 e no art. 7º da Lei |  |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339039.1.500.000 | 500.000,00 |
+| TOTAL | 500.000,00 |
+| TOTAL DA ANULAÇÃO | 23.274.292,41 |
 
 ANEXO II
 
@@ -228,72 +172,45 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 4º, limite de 15% do valor|
-
-|abertura de créditos suplementares para o Fundo Municipal de |total do Orçamento: |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 3.398.071.195,95 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 50.101.947,84 |
-
-|Valor do Decreto publicado nesta data |R$ 106.330,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 50.208.277,84 |
-
-|Saldo atual de créditos suplementares |R$ 3.347.862.918,11 |
-
-|Percentual utilizado |1,48% |
-
-|Atualizado em 27/05/2025 às 11:17:35 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 4º, limite de 15% do valor |
+| abertura de créditos suplementares para o Fundo Municipal de | total do Orçamento: |
+| Saúde. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 3.398.071.195,95 |
+| Total de créditos suplementares abertos anteriormente | R$ 50.101.947,84 |
+| Valor do Decreto publicado nesta data | R$ 106.330,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 50.208.277,84 |
+| Saldo atual de créditos suplementares | R$ 3.347.862.918,11 |
+| Percentual utilizado | 1,48% |
+| Atualizado em 27/05/2025 às 11:17:35 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 138.946.135,08 |
-
-|Valor do Decreto publicado nesta data |R$ 22.667.962,41 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 161.614.097,49 |
-
-|Saldo atual de créditos suplementares |R$ 2.103.766.699,81 |
-
-|Percentual utilizado |7,13% |
-
-|Atualizado em 27/05/2025 às 11:17:35 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 138.946.135,08 |
+| Valor do Decreto publicado nesta data | R$ 22.667.962,41 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 161.614.097,49 |
+| Saldo atual de créditos suplementares | R$ 2.103.766.699,81 |
+| Percentual utilizado | 7,13% |
+| Atualizado em 27/05/2025 às 11:17:35 |  |
 
 III.3 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 7º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 7º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 192.497.922,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 11.267.957,00 |
-
-|Valor do Decreto publicado nesta data |R$ 500.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 11.767.957,00 |
-
-|Saldo atual de créditos suplementares |R$ 180.729.965,00 |
-
-|Percentual utilizado |6,11% |
-
-|Atualizado em 27/05/2025 às 11:17:35 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 192.497.922,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 11.267.957,00 |
+| Valor do Decreto publicado nesta data | R$ 500.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 11.767.957,00 |
+| Saldo atual de créditos suplementares | R$ 180.729.965,00 |
+| Percentual utilizado | 6,11% |
+| Atualizado em 27/05/2025 às 11:17:35 |  |

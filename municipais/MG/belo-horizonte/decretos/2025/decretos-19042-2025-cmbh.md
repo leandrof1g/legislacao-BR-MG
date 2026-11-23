@@ -58,37 +58,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339030.1.500.000 |5.434.636,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0227.1403.449092.1.500.000 |382.474,00 |
-
-|2700.17.512.0227.1403.449051.1.500.000 |150.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |5.967.110,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| --- | --- |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339030.1.500.000 | 5.434.636,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0227.1403.449092.1.500.000 | 382.474,00 |
+| 2700.17.512.0227.1403.449051.1.500.000 | 150.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 5.967.110,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2702.339039.1.500.000 |5.434.636,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.1.500.000 |532.474,00 |
-
-|TOTAL DA ANULAÇÃO |5.967.110,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2702.339039.1.500.000 | 5.434.636,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.1.500.000 | 532.474,00 |
+| TOTAL DA ANULAÇÃO | 5.967.110,00 |
 
 ANEXO II
 
@@ -116,24 +105,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 74.369.079,50 |
-
-|Valor do Decreto publicado nesta data |R$ 5.967.110,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 80.336.189,50 |
-
-|Saldo atual de créditos suplementares |R$ 2.185.044.607,80 |
-
-|Percentual utilizado |3,55% |
-
-|Atualizado em 21/03/2025 às 07:51:44 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 74.369.079,50 |
+| Valor do Decreto publicado nesta data | R$ 5.967.110,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 80.336.189,50 |
+| Saldo atual de créditos suplementares | R$ 2.185.044.607,80 |
+| Percentual utilizado | 3,55% |
+| Atualizado em 21/03/2025 às 07:51:44 |  |

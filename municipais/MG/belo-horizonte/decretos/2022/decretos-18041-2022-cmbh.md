@@ -52,110 +52,61 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Segurança e Prevenção – SMSP –, conforme autorização |
-
-|contida nos arts. 1º e 3º da Lei nº 11.377, de 8 de julho de 2022: |
-
-|R$ |
-
-|2100.06.181.109.2.803.3390.0000 |20.000,00 |
-
-|TOTAL |20.000,00 |
-
-|I.2 – A favor da Secretaria Municipal de Obras e Infraestrutura – SMOBI –, conforme autorização |
-
-|contida nos arts. 1º e 3º da Lei nº 11.377, de 8 de julho de 2022: |
-
-|R$ |
-
-|2700.18.541.233.2.811.4490.0000 |233.220,00 |
-
-|TOTAL |233.220,00 |
-
-|I.3 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida nos arts. 1º e 3º |
-
-|da Lei nº 11.377, de 8 de julho de 2022: |
-
-|R$ |
-
-|2302.10.305.028.2.829.3350.0000 |300.000,00 |
-
-|2302.10.301.157.2.902.3367.0000 |150.000,00 |
-
-|2302.10.301.157.2.690.3390.0000 |1.289.220,00 |
-
-|2302.10.301.157.2.902.3367.0000 |354.610,00 |
-
-|2302.10.301.157.2.902.4567.0000 |1.289.220,00 |
-
-|2302.10.302.114.2.894.3390.0000 |2.468.610,00 |
-
-|2302.10.302.114.2.894.3391.0000 |150.000,00 |
-
-|2302.10.305.028.2.829.3390.0000 |345.000,00 |
-
-|TOTAL |6.346.660,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |6.599.880,00 |
+| I.1 – A favor da Secretaria Municipal de Segurança e Prevenção – SMSP –, conforme autorização |  |
+| --- | --- |
+| contida nos arts. 1º e 3º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| R$ |  |
+| 2100.06.181.109.2.803.3390.0000 | 20.000,00 |
+| TOTAL | 20.000,00 |
+| I.2 – A favor da Secretaria Municipal de Obras e Infraestrutura – SMOBI –, conforme autorização |  |
+| contida nos arts. 1º e 3º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| R$ |  |
+| 2700.18.541.233.2.811.4490.0000 | 233.220,00 |
+| TOTAL | 233.220,00 |
+| I.3 – A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida nos arts. 1º e 3º |  |
+| da Lei nº 11.377, de 8 de julho de 2022: |  |
+| R$ |  |
+| 2302.10.305.028.2.829.3350.0000 | 300.000,00 |
+| 2302.10.301.157.2.902.3367.0000 | 150.000,00 |
+| 2302.10.301.157.2.690.3390.0000 | 1.289.220,00 |
+| 2302.10.301.157.2.902.3367.0000 | 354.610,00 |
+| 2302.10.301.157.2.902.4567.0000 | 1.289.220,00 |
+| 2302.10.302.114.2.894.3390.0000 | 2.468.610,00 |
+| 2302.10.302.114.2.894.3391.0000 | 150.000,00 |
+| 2302.10.305.028.2.829.3390.0000 | 345.000,00 |
+| TOTAL | 6.346.660,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 6.599.880,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1: |
-
-|Anulação de emendas previstas inicialmente na Secretaria Municipal de Segurança e Prevenção – SMSP|
-
-|–, conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |
-
-|R$ |
-
-|2100.06.181.109.2.803.3390.0000 |20.000,00 |
-
-|TOTAL |20.000,00 |
-
-| | |
-
-|II.2 – Em contrapartida às suplementações relacionadas no item I.2: |
-
-|Anulação de emendas previstas inicialmente na Secretaria Municipal de Obras e Infraestrutura – |
-
-|SMOBI –, conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |
-
-|R$ |
-
-|2700.15.451.233.1.396.4490.0000 |25.000,00 |
-
-|2700.18.541.073.1.202.4490.0000 |208.220,00 |
-
-|TOTAL |233.220,00 |
-
-| | |
-
-|II.3 – Em contrapartida às suplementações relacionadas no item I.3: |
-
-|Anulação de emendas previstas inicialmente no Fundo Municipal de Saúde – FMS –, conforme |
-
-|autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |
-
-|R$ |
-
-|2302.10.122.117.1.216.4490.0000 |1.699.220,00 |
-
-|2302.10.301.157.2.690.3390.0000 |300.000,00 |
-
-|2302.10.122.117.2.662.3390.0000 |300.000,00 |
-
-|2302.10.301.157.2.690.3390.0000 |144.610,00 |
-
-|2302.10.301.157.2.690.4490.0000 |60.000,00 |
-
-|2302.10.302.114.2.891.3350.0000 |480.000,00 |
-
-|2302.10.302.114.2.891.3390.0000 |1.933.830,00 |
-
-|2302.10.302.114.2.894.3390.0000 |1.084.000,00 |
-
-|2302.10.304.028.2.829.3390.0000 |345.000,00 |
-
-|TOTAL |6.346.660,00 |
-
-|TOTAL DA ANULAÇÃO |6.599.880,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1: |  |
+| --- | --- |
+| Anulação de emendas previstas inicialmente na Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| –, conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| R$ |  |
+| 2100.06.181.109.2.803.3390.0000 | 20.000,00 |
+| TOTAL | 20.000,00 |
+|  |  |
+| II.2 – Em contrapartida às suplementações relacionadas no item I.2: |  |
+| Anulação de emendas previstas inicialmente na Secretaria Municipal de Obras e Infraestrutura – |  |
+| SMOBI –, conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| R$ |  |
+| 2700.15.451.233.1.396.4490.0000 | 25.000,00 |
+| 2700.18.541.073.1.202.4490.0000 | 208.220,00 |
+| TOTAL | 233.220,00 |
+|  |  |
+| II.3 – Em contrapartida às suplementações relacionadas no item I.3: |  |
+| Anulação de emendas previstas inicialmente no Fundo Municipal de Saúde – FMS –, conforme |  |
+| autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| R$ |  |
+| 2302.10.122.117.1.216.4490.0000 | 1.699.220,00 |
+| 2302.10.301.157.2.690.3390.0000 | 300.000,00 |
+| 2302.10.122.117.2.662.3390.0000 | 300.000,00 |
+| 2302.10.301.157.2.690.3390.0000 | 144.610,00 |
+| 2302.10.301.157.2.690.4490.0000 | 60.000,00 |
+| 2302.10.302.114.2.891.3350.0000 | 480.000,00 |
+| 2302.10.302.114.2.891.3390.0000 | 1.933.830,00 |
+| 2302.10.302.114.2.894.3390.0000 | 1.084.000,00 |
+| 2302.10.304.028.2.829.3390.0000 | 345.000,00 |
+| TOTAL | 6.346.660,00 |
+| TOTAL DA ANULAÇÃO | 6.599.880,00 |

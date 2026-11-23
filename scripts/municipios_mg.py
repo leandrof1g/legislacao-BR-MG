@@ -294,6 +294,43 @@ def ocr(bruto):
         return "\f".join(textos)
 
 
+AVISO_IMAGEM = "*[imagem no documento original — ver `fonte_texto`]*"
+
+
+def ajustar_md(md):
+    """Converte as linhas de tabela do antiword ("|a |b |", separadas por linha em branco) em tabelas GFM
+    e troca os marcadores [pic] por um aviso de imagem."""
+    linhas = md.split("\n")
+    saida, bloco = [], []
+
+    def fechar():
+        if not bloco:
+            return
+        celulas = [[c.strip().replace("|", "\\|") for c in l.strip().strip("|").split("|")] for l in bloco]
+        n = max(len(c) for c in celulas)
+        celulas = [c + [""] * (n - len(c)) for c in celulas]
+        if saida and saida[-1].strip():
+            saida.append("")
+        saida.append("| " + " | ".join(celulas[0]) + " |")
+        saida.append("|" + " --- |" * n)
+        saida.extend("| " + " | ".join(c) + " |" for c in celulas[1:])
+        saida.append("")
+        bloco.clear()
+
+    for linha in linhas:
+        if re.fullmatch(r"\s*\|.*\|\s*", linha):
+            bloco.append(linha)
+        elif not linha.strip() and bloco:
+            continue
+        else:
+            fechar()
+            saida.append(linha)
+    fechar()
+    md = "\n".join(saida)
+    md = re.sub(r"(?:\[pic\]\s*)+", AVISO_IMAGEM + "\n\n", md)
+    return re.sub(r"\n{3,}", "\n\n", md)
+
+
 def texto_para_md(texto):
     """Texto corrido (um parágrafo por linha, como sai do antiword) em Markdown, com artigos em negrito."""
     paragrafos = [re.sub(r"\s+", " ", p).strip() for p in re.split(r"\n\s*\n|\n(?=\S)", texto)]
@@ -304,7 +341,7 @@ def texto_para_md(texto):
         p = re.sub(r"^(Art\.?\s*\d+[º°o]?(?:-[A-Z])?\.?|Par[áa]grafo [úu]nico\.?|§\s*\d+[º°o]?\.?)",
                    r"**\1**", p, flags=re.I)
         saida.append(p)
-    return "\n\n".join(saida) + "\n"
+    return ajustar_md("\n\n".join(saida) + "\n")
 
 
 def rtf_para_texto(rtf):

@@ -52,34 +52,23 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I – A favor de diversos órgãos do Poder Executivo, conforme |
-
-|autorização contida no inciso I do § 1º do art. 4º da Lei nº|
-
-|11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|1011.08.244.020.2.878.3190.0000 |152.100,00 |
-
-|1011.08.244.020.2.878.3190.0000 |124.600,00 |
-
-|1011.08.244.020.2.878.3190.0000 |143.400,00 |
-
-|2302.10.301.157.2.690.3190.0050 |2.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |422.100,00 |
+| I – A favor de diversos órgãos do Poder Executivo, conforme |  |
+| --- | --- |
+| autorização contida no inciso I do § 1º do art. 4º da Lei nº |  |
+| 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 1011.08.244.020.2.878.3190.0000 | 152.100,00 |
+| 1011.08.244.020.2.878.3190.0000 | 124.600,00 |
+| 1011.08.244.020.2.878.3190.0000 | 143.400,00 |
+| 2302.10.301.157.2.690.3190.0050 | 2.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 422.100,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II – Em contrapartida às suplementações relacionadas no item|
-
-|I: |
-
-|R$ |
-
-|0800.04.129.013.2.052.3190.0000 |420.100,00 |
-
-|2302.10.301.157.2.690.3390.0050 |2.000,00 |
-
-|TOTAL DA ANULAÇÃO |422.100,00 |
+| II – Em contrapartida às suplementações relacionadas no item |  |
+| --- | --- |
+| I: |  |
+| R$ |  |
+| 0800.04.129.013.2.052.3190.0000 | 420.100,00 |
+| 2302.10.301.157.2.690.3390.0050 | 2.000,00 |
+| TOTAL DA ANULAÇÃO | 422.100,00 |

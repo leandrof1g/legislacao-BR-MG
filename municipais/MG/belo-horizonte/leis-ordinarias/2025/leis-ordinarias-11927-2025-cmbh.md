@@ -38,9 +38,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 J - Dias comemorativos de outubro
 
-|DATA |COMEMORAÇÃO |
-
-|19/10 |Dia Municipal do Cientista do Estado |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 19/10 | Dia Municipal do Cientista do Estado |
 
 .”.
 

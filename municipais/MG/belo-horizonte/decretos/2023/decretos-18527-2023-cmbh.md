@@ -60,31 +60,20 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § 1º |R$ |
-
-|do art. 43, da Lei federal nº 4.320, de 17 de março de 1964, no art. 4º da Lei nº | |
-
-|11.442, de 29 de dezembro de 2022, e no art. 66 da Lei nº 11.539, de 5 de julho de | |
-
-|2023: | |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.3301.10.122.030.2.900.319011.659 |540.000,00 |
-
-|2301.3301.10.122.030.2.900.339046.659 |270.000,00 |
-
-|2301.3303.10.302.030.2.620.319113.659 |200.000,00 |
-
-|2301.3303.10.302.030.2.620.339046.659 |315.000,00 |
-
-|2301.3304.10.302.030.2.875.319011.659 |11.700.000,00 |
-
-|2301.3304.10.302.030.2.875.319113.659 |1.560.000,00 |
-
-|2301.3304.10.302.030.2.875.339046.659 |1.100.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |15.685.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § 1º | R$ |
+| --- | --- |
+| do art. 43, da Lei federal nº 4.320, de 17 de março de 1964, no art. 4º da Lei nº |  |
+| 11.442, de 29 de dezembro de 2022, e no art. 66 da Lei nº 11.539, de 5 de julho de |  |
+| 2023: |  |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.3301.10.122.030.2.900.319011.659 | 540.000,00 |
+| 2301.3301.10.122.030.2.900.339046.659 | 270.000,00 |
+| 2301.3303.10.302.030.2.620.319113.659 | 200.000,00 |
+| 2301.3303.10.302.030.2.620.339046.659 | 315.000,00 |
+| 2301.3304.10.302.030.2.875.319011.659 | 11.700.000,00 |
+| 2301.3304.10.302.030.2.875.319113.659 | 1.560.000,00 |
+| 2301.3304.10.302.030.2.875.339046.659 | 1.100.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 15.685.000,00 |
 
 ANEXO II
 
@@ -110,22 +99,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 66 da Lei nº 11.539, de 5 de julho de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |
-
-|Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |
-
-|empregados públicos da administração direta e indireta do Poder Executivo |
-
-|Limite total autorizado |261.693.719,44 |
-
-|Total de créditos suplementares abertos anteriormente |175.501.716,00 |
-
-|Valor do Decreto publicado nesta data |15.685.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |191.186.716,00 |
-
-|Saldo atual do limite autorizado |70.507.003,44 |
-
-|Percentual utilizado |73,06% |
-
-|Atualizado em 20/11/2023 às 11:13:30 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |  |
+| --- | --- |
+| Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |  |
+| empregados públicos da administração direta e indireta do Poder Executivo |  |
+| Limite total autorizado | 261.693.719,44 |
+| Total de créditos suplementares abertos anteriormente | 175.501.716,00 |
+| Valor do Decreto publicado nesta data | 15.685.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | 191.186.716,00 |
+| Saldo atual do limite autorizado | 70.507.003,44 |
+| Percentual utilizado | 73,06% |
+| Atualizado em 20/11/2023 às 11:13:30 |  |

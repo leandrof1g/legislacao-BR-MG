@@ -52,22 +52,17 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Secretaria Municipal de Assuntos Institucionais e Comunicação Social, conforme |
-
-|autorização contida no caput do art. 4º da Lei nº 11.014, de 30 de dezembro de 2016: |
-
-|R$ |
-
-|3200.04.131.015.2.007.4490.0400 |195.000,00 |
-
-|TOTAL | |
+| I.1 – A favor da Secretaria Municipal de Assuntos Institucionais e Comunicação Social, conforme |  |
+| --- | --- |
+| autorização contida no caput do art. 4º da Lei nº 11.014, de 30 de dezembro de 2016: |  |
+| R$ |  |
+| 3200.04.131.015.2.007.4490.0400 | 195.000,00 |
+| TOTAL |  |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida à suplementação relacionada no item I.1 da tabela anterior: |
-
-|R$ |
-
-|2700.17.512.243.1.203.4490.0430 |195.000,00 |
-
-|TOTAL | |
+| II.1 – Em contrapartida à suplementação relacionada no item I.1 da tabela anterior: |  |
+| --- | --- |
+| R$ |  |
+| 2700.17.512.243.1.203.4490.0430 | 195.000,00 |
+| TOTAL |  |

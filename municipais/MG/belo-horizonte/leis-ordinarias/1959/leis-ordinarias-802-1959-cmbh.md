@@ -2584,7 +2584,8 @@ A 2ª zona compreende as demais áreas do município.
 
 ANEXO Nº. 10
 
-|AQUISIÇÕES |MOVIMENTO DO EMPRÊGO DOS SELOS |
+| AQUISIÇÕES | MOVIMENTO DO EMPRÊGO DOS SELOS |
+| --- | --- |
 
 SELOS ADQUIRIDOS |Dia |Mês |Ano |Nº do ingresso
 

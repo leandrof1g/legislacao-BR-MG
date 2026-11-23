@@ -104,35 +104,25 @@ b) auto-avaliação.
 
 I - para apuração da assiduidade do servidor, serão atribuídos no máximo 10 (dez) pontos, considerando-se as faltas injustificadas, conforme tabela abaixo:
 
-|NÚMERO DE FALTAS |PONTUAÇÃO |
-
-|Nenhuma falta |10 (dez) pontos |
-
-|De 1 (um) a 5 (cinco) faltas |8 (oito) pontos |
-
-|De 6 (seis) a 8 (oito) faltas |6 (seis) pontos |
-
-|De 9 (nove) a 11 (onze) faltas |4 (quatro) pontos |
-
-|De 12 (doze) a 13 (treze) faltas |2 (dois) pontos |
-
-|De 14 (quatorze) a 15 (quinze) faltas |0 (zero) ponto |
+| NÚMERO DE FALTAS | PONTUAÇÃO |
+| --- | --- |
+| Nenhuma falta | 10 (dez) pontos |
+| De 1 (um) a 5 (cinco) faltas | 8 (oito) pontos |
+| De 6 (seis) a 8 (oito) faltas | 6 (seis) pontos |
+| De 9 (nove) a 11 (onze) faltas | 4 (quatro) pontos |
+| De 12 (doze) a 13 (treze) faltas | 2 (dois) pontos |
+| De 14 (quatorze) a 15 (quinze) faltas | 0 (zero) ponto |
 
 II - para apuração das penalidades disciplinares, após o término do devido processo administrativo disciplinar, serão atribuídos 10 (dez) pontos, conforme tabela abaixo:
 
-|PENALIDADE |PONTUAÇÃO |
-
-|Nenhuma penalidade |10 (dez) pontos |
-
-|Repreensão |8 (oito) pontos |
-
-|Suspensão de 1 (um) a 29 (vinte e nove) dias |6 (seis) pontos |
-
-|Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias |4 (quatro) pontos |
-
-|Suspensão de 45 (quarenta e cinco) dias a 59 (cinqüenta e nove) dias |2 (dois) pontos |
-
-|Suspensão acima de 60 (sessenta) dias |0 (zero) ponto |
+| PENALIDADE | PONTUAÇÃO |
+| --- | --- |
+| Nenhuma penalidade | 10 (dez) pontos |
+| Repreensão | 8 (oito) pontos |
+| Suspensão de 1 (um) a 29 (vinte e nove) dias | 6 (seis) pontos |
+| Suspensão de 30 (trinta) a 44 (quarenta e quatro) dias | 4 (quatro) pontos |
+| Suspensão de 45 (quarenta e cinco) dias a 59 (cinqüenta e nove) dias | 2 (dois) pontos |
+| Suspensão acima de 60 (sessenta) dias | 0 (zero) ponto |
 
 III - para apuração dos demais quesitos do formulário da avaliação de desempenho serão atribuídos 80 (oitenta) pontos.
 

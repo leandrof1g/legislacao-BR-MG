@@ -58,109 +58,62 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei| |
-
-|nº 11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|3802.08.306.0132.2120.339030.1.500.000 |263.078,90 |
-
-|3802.20.608.0308.2121.339039.1.500.000 |5.745,00 |
-
-|3802.23.692.0132.2307.339139.1.500.000 |12.020,86 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0020.2409.339048.1.500.000 |60.720,00 |
-
-|3701.08.245.0019.2308.339039.1.500.000 |824.700,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|3801.12.306.0132.2761.339030.1.552.000 |1.100.000,00 |
-
-|Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN |
-
-|3800.08.122.0123.2900.339014.1.500.000 |9.263,25 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.275.528,01 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei |  |
+| nº 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 3802.08.306.0132.2120.339030.1.500.000 | 263.078,90 |
+| 3802.20.608.0308.2121.339039.1.500.000 | 5.745,00 |
+| 3802.23.692.0132.2307.339139.1.500.000 | 12.020,86 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0020.2409.339048.1.500.000 | 60.720,00 |
+| 3701.08.245.0019.2308.339039.1.500.000 | 824.700,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 3801.12.306.0132.2761.339030.1.552.000 | 1.100.000,00 |
+| Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN |  |
+| 3800.08.122.0123.2900.339014.1.500.000 | 9.263,25 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.275.528,01 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, conforme| |
-
-|autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |
-
-|1010.23.692.0132.2307.339039.1.500.000 |1.000,00 |
-
-|1010.20.608.0308.2121.339039.1.500.000 |1.000,00 |
-
-|1010.23.692.0132.2307.339037.1.500.000 |1.000,00 |
-
-|1010.08.306.0132.2120.339039.1.500.000 |1.000,00 |
-
-|1010.20.608.0308.2121.339037.1.500.000 |1.000,00 |
-
-|1010.08.306.0308.2334.339039.1.500.000 |845,00 |
-
-|1010.20.608.0308.2939.339037.1.500.000 |341,25 |
-
-|3802.23.691.0308.2305.339039.1.500.000 |12.300,00 |
-
-|3802.23.692.0132.2307.339035.1.500.000 |8.900,00 |
-
-|3802.23.692.0132.2307.339039.1.500.000 |30.000,00 |
-
-|3802.20.608.0308.2121.339030.1.500.000 |24.800,00 |
-
-|1010.08.306.0132.2120.339093.1.500.000 |1.000,00 |
-
-|1010.11.333.0308.2121.339039.1.500.000 |1.000,00 |
-
-|1010.20.608.0308.2121.339092.1.500.000 |1.000,00 |
-
-|1010.23.691.0308.2305.339014.1.500.000 |1.050,00 |
-
-|1010.23.691.0308.2305.339030.1.500.000 |2.771,00 |
-
-|1010.11.333.0308.2923.339030.1.500.000 |1.001,00 |
-
-|1010.11.333.0308.2923.339092.1.500.000 |1.000,00 |
-
-|3802.08.306.0308.2334.339039.1.500.000 |70.000,00 |
-
-|3802.20.608.0308.2121.339093.1.500.000 |4.636,05 |
-
-|3802.11.333.0308.2923.339093.1.500.000 |7.384,81 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.0113.2327.339040.1.500.000 |60.720,00 |
-
-|1011.08.245.0020.2409.339048.1.500.000 |824.700,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|1014.12.306.0132.2761.339030.1.552.000 |1.100.000,00 |
-
-|1014.08.306.0132.2761.339040.1.500.000 |14.049,00 |
-
-|1014.08.306.0132.2761.339030.1.500.000 |71.429,90 |
-
-|1014.12.306.0132.2761.339030.1.500.000 |11.600,00 |
-
-|1014.08.306.0132.2761.339092.1.500.000 |3.000,00 |
-
-|3801.08.306.0132.2761.339039.1.500.000 |17.000,00 |
-
-|TOTAL DA ANULAÇÃO |2.275.528,01 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente nos órgãos relacionados abaixo, conforme |  |
+| autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Fundo Municipal de Segurança Alimentar e Nutricional – FUMUSAN |  |
+| 1010.23.692.0132.2307.339039.1.500.000 | 1.000,00 |
+| 1010.20.608.0308.2121.339039.1.500.000 | 1.000,00 |
+| 1010.23.692.0132.2307.339037.1.500.000 | 1.000,00 |
+| 1010.08.306.0132.2120.339039.1.500.000 | 1.000,00 |
+| 1010.20.608.0308.2121.339037.1.500.000 | 1.000,00 |
+| 1010.08.306.0308.2334.339039.1.500.000 | 845,00 |
+| 1010.20.608.0308.2939.339037.1.500.000 | 341,25 |
+| 3802.23.691.0308.2305.339039.1.500.000 | 12.300,00 |
+| 3802.23.692.0132.2307.339035.1.500.000 | 8.900,00 |
+| 3802.23.692.0132.2307.339039.1.500.000 | 30.000,00 |
+| 3802.20.608.0308.2121.339030.1.500.000 | 24.800,00 |
+| 1010.08.306.0132.2120.339093.1.500.000 | 1.000,00 |
+| 1010.11.333.0308.2121.339039.1.500.000 | 1.000,00 |
+| 1010.20.608.0308.2121.339092.1.500.000 | 1.000,00 |
+| 1010.23.691.0308.2305.339014.1.500.000 | 1.050,00 |
+| 1010.23.691.0308.2305.339030.1.500.000 | 2.771,00 |
+| 1010.11.333.0308.2923.339030.1.500.000 | 1.001,00 |
+| 1010.11.333.0308.2923.339092.1.500.000 | 1.000,00 |
+| 3802.08.306.0308.2334.339039.1.500.000 | 70.000,00 |
+| 3802.20.608.0308.2121.339093.1.500.000 | 4.636,05 |
+| 3802.11.333.0308.2923.339093.1.500.000 | 7.384,81 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.0113.2327.339040.1.500.000 | 60.720,00 |
+| 1011.08.245.0020.2409.339048.1.500.000 | 824.700,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 1014.12.306.0132.2761.339030.1.552.000 | 1.100.000,00 |
+| 1014.08.306.0132.2761.339040.1.500.000 | 14.049,00 |
+| 1014.08.306.0132.2761.339030.1.500.000 | 71.429,90 |
+| 1014.12.306.0132.2761.339030.1.500.000 | 11.600,00 |
+| 1014.08.306.0132.2761.339092.1.500.000 | 3.000,00 |
+| 3801.08.306.0132.2761.339039.1.500.000 | 17.000,00 |
+| TOTAL DA ANULAÇÃO | 2.275.528,01 |
 
 ANEXO II
 
@@ -188,20 +141,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |R$ 2.049.027.226,93 |
-
-|Total de créditos especiais abertos anteriormente |R$ 1.194.509.954,73 |
-
-|Valor do Decreto publicado nesta data |R$ 2.275.528,01 |
-
-|Valor total dos créditos especiais abertos no exercício |R$ 1.196.785.482,74 |
-
-|Saldo atual do limite autorizado |R$ 852.241.744,19 |
-
-|Percentual utilizado |58,41% |
-
-|Atualizado em 16/10/2025 às 11:40:55 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | R$ 2.049.027.226,93 |
+| Total de créditos especiais abertos anteriormente | R$ 1.194.509.954,73 |
+| Valor do Decreto publicado nesta data | R$ 2.275.528,01 |
+| Valor total dos créditos especiais abertos no exercício | R$ 1.196.785.482,74 |
+| Saldo atual do limite autorizado | R$ 852.241.744,19 |
+| Percentual utilizado | 58,41% |
+| Atualizado em 16/10/2025 às 11:40:55 |  |

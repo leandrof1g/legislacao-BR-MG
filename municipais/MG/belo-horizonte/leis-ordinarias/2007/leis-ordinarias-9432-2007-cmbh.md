@@ -454,29 +454,19 @@ A avaliação dos valores constantes do Anexo de Metas Fiscais, previstas na Lei
 
 Valores em R$1.000,00
 
-| | | |Valores Realizados - |
-
-|ESPECIFICAÇÃO |Metas Previstas na Lei de |Valores Realizados (1) |Relatório de |
-
-| |Diretrizes Orçamentárias | |Gestão Fiscal (2) |
-
-| |-LDO/2006 | | |
-
-|Receita Fiscal |3.252.232 |3.077.514 |3.077.514 |
-
-|Despesa Fiscal |3.250.062 |2.988.027 |2.988.027 |
-
-|Resultado Primário |2.170 |89.488 |89.488 |
-
-|Resultado Nominal |14.820 |54.978 |54.978 |
-
-|Dívida Consolidada |738.000 |688.712 |688.712 |
-
-|Deduções |(262.120) |(235.149) |- |
-
-|Dívida Consolidada Líquida | | | |
-
-| |475.880 |453.563 |688.712 |
+|  |  |  | Valores Realizados - |
+| --- | --- | --- | --- |
+| ESPECIFICAÇÃO | Metas Previstas na Lei de | Valores Realizados (1) | Relatório de |
+|  | Diretrizes Orçamentárias |  | Gestão Fiscal (2) |
+|  | -LDO/2006 |  |  |
+| Receita Fiscal | 3.252.232 | 3.077.514 | 3.077.514 |
+| Despesa Fiscal | 3.250.062 | 2.988.027 | 2.988.027 |
+| Resultado Primário | 2.170 | 89.488 | 89.488 |
+| Resultado Nominal | 14.820 | 54.978 | 54.978 |
+| Dívida Consolidada | 738.000 | 688.712 | 688.712 |
+| Deduções | (262.120) | (235.149) | - |
+| Dívida Consolidada Líquida |  |  |  |
+|  | 475.880 | 453.563 | 688.712 |
 
 (1) Os critérios de cálculo da LDO/2006.
 
@@ -492,73 +482,41 @@ Demonstrativos dos Resultados Primário e Nominal
 
 Valores Correntes em R$1.000,00
 
-|RECEITAS FISCAIS |2005 |2006 |2007 |2008 |2009 |2010 |
-
-|Receitas Correntes |2.903.279 |3.049.298 |3.591.381 |3.881.075 |4.275.306 |4.660.390 |
-
-|Receitas de Capital |56.526 |182.309 |283.302 |387.678 |373.432 |369.447 |
-
-|(-) Dedução para o Fundo de Manutenção e |82.168 |88.119 |122.154 |162.125 |208.863 |213.510 |
-
-|Desenvolvimento da Educação Básica e de Valorização | | | | | | |
-
-|dos Profissionais da Educação - FUNDEB | | | | | | |
-
-|Subtotal |2.877.637 |3.143.488 |3.752.529 |4.106.628 |4.439.875 |4.816.327 |
-
-| (-) Receita de Operações de Crédito |14.759 |43.361 |81.348 |135.581 |135.581 |108.464 |
-
-| (-) Rendimentos de Aplicações Financeiras |20.635 |22.450 |25.764 |27.654 |30.344 |33.295 |
-
-| (-) Alienação de Bens |700 |163 |1.500 |1.610 |1.767 |1.938 |
-
-|Subtotal |36.094 |65.974 |108.612 |164.845 |167.692 |143.697 |
-
-|TOTAL DAS RECEITAS FISCAIS |2.841.543 |3.077.514 |3.643.917 |3.941.783 |4.272.183 |4.672.630 |
-
-|DESPESAS FISCAIS | | | | | | |
-
-|Despesas Correntes |2.615.720 |2.575.637 |3.096.180 |3.313.878 |3.556.534 |3.816.106 |
-
-|(-) Juros e Encargos da Dívida |44.442 |43.800 |70.990 |76.949 |80.200 |80.964 |
-
-|Subtotal |2.571.278 |2.531.837 |3.025.190 |3.236.929 |3.476.334 |3.735.142 |
-
-|Despesas de Capital |297.392 |509.079 |655.523 |765.327 |796.915 |841.491 |
-
-|(-) Amortização de Dívida |42.311 |52.890 |80.617 |64.194 |80.232 |103.265 |
-
-|Subtotal |255.081 |456.189 |574.906 |701.133 |716.683 |738.226 |
-
-|TOTAL DAS DESPESAS FISCAIS |2.826.359 |2.988.026 |3.600.096 |3.938.062 |4.193.017 |4.473.368 |
-
-|RESULTADO PRIMÁRIO |15.184 |89.488 |43.821 |3.721 |79.166 |199.262 |
-
-| | | | | | | |
-
-|RESULTADO NOMINAL | | | | | | |
-
-|ESPECIFICAÇÃO |2005 |2006 |2007 |2008 |2009 |2010 |
-
-|I - DÍVIDA CONSOLIDADA |633.734 |688.712 |689.443 |760.829 |816.178 |821.377 |
-
-|(-) Disponibilidade de Caixa |30.686 |26.653 |27.452 |28.276 |29.124 |29.998 |
-
-|(-) Aplicações Financeiras |62.248 |47.794 |49.228 |50.705 |52.226 |53.793 |
-
-|(-) Demais Ativos Financeiros |123.757 |160.703 |165.524 |170.489 |175.604 |180.872 |
-
-|(+) Restos a Pagar Processados |306.281 |298.542 |260.000 |240.000 |244.800 |249.696 |
-
-|Saldo de Dedução a transportar (*) |- |- |- |- |- |- |
-
-|II - DÍVIDA CONSOLIDADA LÍQUIDA |633.734 |688.712 |689.443 |760.829 |816.178 |821.377 |
-
-| | | | | | | |
-
-|III - DÍVIDA FISCAL LÍQUIDA |633.734 |688.712 |689.443 |760.829 |816.178 |821.377 |
-
-|RESULTADO NOMINAL | |54.978 |731 |71.386 |55.349 |5.199 |
+| RECEITAS FISCAIS | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Receitas Correntes | 2.903.279 | 3.049.298 | 3.591.381 | 3.881.075 | 4.275.306 | 4.660.390 |
+| Receitas de Capital | 56.526 | 182.309 | 283.302 | 387.678 | 373.432 | 369.447 |
+| (-) Dedução para o Fundo de Manutenção e | 82.168 | 88.119 | 122.154 | 162.125 | 208.863 | 213.510 |
+| Desenvolvimento da Educação Básica e de Valorização |  |  |  |  |  |  |
+| dos Profissionais da Educação - FUNDEB |  |  |  |  |  |  |
+| Subtotal | 2.877.637 | 3.143.488 | 3.752.529 | 4.106.628 | 4.439.875 | 4.816.327 |
+| (-) Receita de Operações de Crédito | 14.759 | 43.361 | 81.348 | 135.581 | 135.581 | 108.464 |
+| (-) Rendimentos de Aplicações Financeiras | 20.635 | 22.450 | 25.764 | 27.654 | 30.344 | 33.295 |
+| (-) Alienação de Bens | 700 | 163 | 1.500 | 1.610 | 1.767 | 1.938 |
+| Subtotal | 36.094 | 65.974 | 108.612 | 164.845 | 167.692 | 143.697 |
+| TOTAL DAS RECEITAS FISCAIS | 2.841.543 | 3.077.514 | 3.643.917 | 3.941.783 | 4.272.183 | 4.672.630 |
+| DESPESAS FISCAIS |  |  |  |  |  |  |
+| Despesas Correntes | 2.615.720 | 2.575.637 | 3.096.180 | 3.313.878 | 3.556.534 | 3.816.106 |
+| (-) Juros e Encargos da Dívida | 44.442 | 43.800 | 70.990 | 76.949 | 80.200 | 80.964 |
+| Subtotal | 2.571.278 | 2.531.837 | 3.025.190 | 3.236.929 | 3.476.334 | 3.735.142 |
+| Despesas de Capital | 297.392 | 509.079 | 655.523 | 765.327 | 796.915 | 841.491 |
+| (-) Amortização de Dívida | 42.311 | 52.890 | 80.617 | 64.194 | 80.232 | 103.265 |
+| Subtotal | 255.081 | 456.189 | 574.906 | 701.133 | 716.683 | 738.226 |
+| TOTAL DAS DESPESAS FISCAIS | 2.826.359 | 2.988.026 | 3.600.096 | 3.938.062 | 4.193.017 | 4.473.368 |
+| RESULTADO PRIMÁRIO | 15.184 | 89.488 | 43.821 | 3.721 | 79.166 | 199.262 |
+|  |  |  |  |  |  |  |
+| RESULTADO NOMINAL |  |  |  |  |  |  |
+| ESPECIFICAÇÃO | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 |
+| I - DÍVIDA CONSOLIDADA | 633.734 | 688.712 | 689.443 | 760.829 | 816.178 | 821.377 |
+| (-) Disponibilidade de Caixa | 30.686 | 26.653 | 27.452 | 28.276 | 29.124 | 29.998 |
+| (-) Aplicações Financeiras | 62.248 | 47.794 | 49.228 | 50.705 | 52.226 | 53.793 |
+| (-) Demais Ativos Financeiros | 123.757 | 160.703 | 165.524 | 170.489 | 175.604 | 180.872 |
+| (+) Restos a Pagar Processados | 306.281 | 298.542 | 260.000 | 240.000 | 244.800 | 249.696 |
+| Saldo de Dedução a transportar (*) | - | - | - | - | - | - |
+| II - DÍVIDA CONSOLIDADA LÍQUIDA | 633.734 | 688.712 | 689.443 | 760.829 | 816.178 | 821.377 |
+|  |  |  |  |  |  |  |
+| III - DÍVIDA FISCAL LÍQUIDA | 633.734 | 688.712 | 689.443 | 760.829 | 816.178 | 821.377 |
+| RESULTADO NOMINAL |  | 54.978 | 731 | 71.386 | 55.349 | 5.199 |
 
 (*) De acordo com a Portaria nº 633/06 da STN, quando o saldo da dedução for positivo, a Dívida Consolidada Líquida se equivale à Dívida Consolidada.
 
@@ -566,69 +524,39 @@ Demonstrativos dos Resultados Primário e Nominal
 
 Valores em R$1.000,00 - Preços Médios de 2007
 
-|RECEITAS FISCAIS |2005 |2006 |2007 |2008 |2009 |2010 |
-
-|Receitas Correntes |3.144.176 |3.162.904 |3.591.381 |3.713.947 |3.915.026 |4.083.884 |
-
-|Receitas de Capital |61.216 |189.101 |283.302 |370.983 |341.963 |323.745 |
-
-|(-) Dedução para o FUNDEB |88.986 |91.402 |122.154 |155.143 |191.262 |187.098 |
-
-|Subtotal |3.116.406 |3.260.603 |3.752.529 |3.929.787 |4.065.727 |4.220.531 |
-
-| (-) Receita de Operações de Crédito |22.347 |44.976 |81.348 |129.742 |124.155 |95.047 |
-
-| (-) Rendimentos de Aplicações Financeiras |758 |23.287 |25.764 |26.463 |27.787 |29.176 |
-
-| (-) Alienação de Bens |39.089 |169 |1.500 |1.541 |1.618 |1.699 |
-
-|Subtotal |62.194 |68.432 |108.612 |157.746 |153.560 |125.922 |
-
-|TOTAL DAS RECEITAS FISCAIS |3.054.212 |3.192.171 |3.643.917 |3.772.041 |3.912.167 |4.094.609 |
-
-|DESPESAS FISCAIS | | | | | | |
-
-|Despesas Correntes |2.832.758 |2.671.596 |3.096.180 |3.171.175 |3.256.825 |3.344.041 |
-
-|(-) Juros e Encargos da Dívida |46.098 |45.432 |70.990 |73.635 |73.441 |70.949 |
-
-|Subtotal |2.786.660 |2.626.164 |3.025.190 |3.097.540 |3.183.384 |3.273.092 |
-
-|Despesas de Capital |310.775 |528.046 |655.523 |732.370 |729.759 |737.396 |
-
-|(-) Amortização de Dívida |46.205 |54.860 |80.617 |61.430 |73.471 |90.491 |
-
-|Subtotal |264.570 |473.186 |574.906 |670.940 |656.288 |646.905 |
-
-|TOTAL DAS DESPESAS FISCAIS |3.051.230 |3.099.350 |3.600.096 |3.768.480 |3.839.672 |3.919.997 |
-
-|RESULTADO PRIMÁRIO |2.982 |92.821 |43.821 |3.561 |72.495 |174.612 |
-
-| | | | | | | |
-
-|RESULTADO NOMINAL | | | | | | |
-
-|ESPECIFICAÇÃO |2005 |2006 |2007 |2008 |2009 |2010 |
-
-|I - DÍVIDA CONSOLIDADA |686.318 |714.371 |689.443 |728.066 |747.398 |719.770 |
-
-|(-) Disponibilidade de Caixa |33.232 |27.646 |27.452 |27.058 |26.670 |26.287 |
-
-|(-) Aplicações Financeiras |67.413 |49.575 |49.228 |48.521 |47.825 |47.139 |
-
-|(-) Demais Ativos Financeiros |134.025 |166.690 |165.524 |163.148 |160.806 |158.498 |
-
-|(+) Restos a Pagar Processados |331.694 |309.665 |260.000 |229.665 |224.171 |218.808 |
-
-|Saldo de Dedução a transportar (*) |- |- |- |- |- |- |
-
-|II - DÍVIDA CONSOLIDADA LÍQUIDA |686.318 |714.371 |689.443 |728.066 |747.398 |719.770 |
-
-| | | | | | | |
-
-|III - DÍVIDA FISCAL LÍQUIDA |686.318 |714.371 |689.443 |728.066 |747.398 |719.770 |
-
-|RESULTADO NOMINAL | |28.053 |-24.928 |38.623 |19.332 |-27.628 |
+| RECEITAS FISCAIS | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Receitas Correntes | 3.144.176 | 3.162.904 | 3.591.381 | 3.713.947 | 3.915.026 | 4.083.884 |
+| Receitas de Capital | 61.216 | 189.101 | 283.302 | 370.983 | 341.963 | 323.745 |
+| (-) Dedução para o FUNDEB | 88.986 | 91.402 | 122.154 | 155.143 | 191.262 | 187.098 |
+| Subtotal | 3.116.406 | 3.260.603 | 3.752.529 | 3.929.787 | 4.065.727 | 4.220.531 |
+| (-) Receita de Operações de Crédito | 22.347 | 44.976 | 81.348 | 129.742 | 124.155 | 95.047 |
+| (-) Rendimentos de Aplicações Financeiras | 758 | 23.287 | 25.764 | 26.463 | 27.787 | 29.176 |
+| (-) Alienação de Bens | 39.089 | 169 | 1.500 | 1.541 | 1.618 | 1.699 |
+| Subtotal | 62.194 | 68.432 | 108.612 | 157.746 | 153.560 | 125.922 |
+| TOTAL DAS RECEITAS FISCAIS | 3.054.212 | 3.192.171 | 3.643.917 | 3.772.041 | 3.912.167 | 4.094.609 |
+| DESPESAS FISCAIS |  |  |  |  |  |  |
+| Despesas Correntes | 2.832.758 | 2.671.596 | 3.096.180 | 3.171.175 | 3.256.825 | 3.344.041 |
+| (-) Juros e Encargos da Dívida | 46.098 | 45.432 | 70.990 | 73.635 | 73.441 | 70.949 |
+| Subtotal | 2.786.660 | 2.626.164 | 3.025.190 | 3.097.540 | 3.183.384 | 3.273.092 |
+| Despesas de Capital | 310.775 | 528.046 | 655.523 | 732.370 | 729.759 | 737.396 |
+| (-) Amortização de Dívida | 46.205 | 54.860 | 80.617 | 61.430 | 73.471 | 90.491 |
+| Subtotal | 264.570 | 473.186 | 574.906 | 670.940 | 656.288 | 646.905 |
+| TOTAL DAS DESPESAS FISCAIS | 3.051.230 | 3.099.350 | 3.600.096 | 3.768.480 | 3.839.672 | 3.919.997 |
+| RESULTADO PRIMÁRIO | 2.982 | 92.821 | 43.821 | 3.561 | 72.495 | 174.612 |
+|  |  |  |  |  |  |  |
+| RESULTADO NOMINAL |  |  |  |  |  |  |
+| ESPECIFICAÇÃO | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 |
+| I - DÍVIDA CONSOLIDADA | 686.318 | 714.371 | 689.443 | 728.066 | 747.398 | 719.770 |
+| (-) Disponibilidade de Caixa | 33.232 | 27.646 | 27.452 | 27.058 | 26.670 | 26.287 |
+| (-) Aplicações Financeiras | 67.413 | 49.575 | 49.228 | 48.521 | 47.825 | 47.139 |
+| (-) Demais Ativos Financeiros | 134.025 | 166.690 | 165.524 | 163.148 | 160.806 | 158.498 |
+| (+) Restos a Pagar Processados | 331.694 | 309.665 | 260.000 | 229.665 | 224.171 | 218.808 |
+| Saldo de Dedução a transportar (*) | - | - | - | - | - | - |
+| II - DÍVIDA CONSOLIDADA LÍQUIDA | 686.318 | 714.371 | 689.443 | 728.066 | 747.398 | 719.770 |
+|  |  |  |  |  |  |  |
+| III - DÍVIDA FISCAL LÍQUIDA | 686.318 | 714.371 | 689.443 | 728.066 | 747.398 | 719.770 |
+| RESULTADO NOMINAL |  | 28.053 | -24.928 | 38.623 | 19.332 | -27.628 |
 
 (*) De acordo com a Portaria nº 633/06 da STN, quando o saldo da dedução for positivo, a Dívida Consolidada Líquida se equivale à Dívida Consolidada.
 
@@ -636,11 +564,10 @@ O cálculo dos resultados nominal e primário servirá para a apuração das met
 
 Adotou-se, para a definição das metas fiscais, o cenário econômico projetado no Projeto de Lei de Diretrizes Orçamentárias da União para 2008, à qual compete constitucionalmente a definição de políticas macroeconômicas, conforme a tabela a seguir.
 
-|Variáveis |2008 |2009 |2010 |
-
-|Crescimento do PIB |5,0% |5,0% |5,00% |
-
-|Inflação |4,5% |4,5% |4,5% |
+| Variáveis | 2008 | 2009 | 2010 |
+| --- | --- | --- | --- |
+| Crescimento do PIB | 5,0% | 5,0% | 5,00% |
+| Inflação | 4,5% | 4,5% | 4,5% |
 
 Para a execução da projeção da receita para os exercícios de 2008 a 2010, foram aplicados os parâmetros indicados na tabela anterior, a partir de uma reestimativa da receita fixada para o exercício de 2007, elaborada considerando a efetiva arrecadação até março deste ano e uma projeção baseada no comparativo com a execução de anos anteriores.
 
@@ -656,53 +583,31 @@ I.3 - EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO DO MUNICÍPIO DE BELO HORIZONTE - PERÍ
 
 Valores em R$1,00
 
-|DISCRIMINAÇÃO |2004 |2005 |2006 |
-
-|I - Variações Ativas - Prefeitura de Belo Horizonte - |4.895.692.577,05 |4.612.809.949,98 |5.259.437.026,04 |
-
-|PBH | | | |
-
-|I.1 - Resultantes da Execução Orçamentária |2.719.031.553,12 |3.003.091.813,93 |3.297.590.748,18 |
-
-|1 - Receita Orçamentária |2.587.158.202,19 |2.877.636.926,56 |3.143.488.046,00 |
-
-|Receitas Correntes |2.592.794.393,15 |2.903.279.106,61 |3.049.298.562,40 |
-
-|Receitas de Capital |69.203.558,71 |56.526.177,27 |182.308.638,64 |
-
-|Dedução de Receitas para o Fundo de Manutenção e |(74.839.749,67) |(82.168.357,32) |(88.119.155,04) |
-
-|Desenvolvimento do Ensino Fundamental e de Valorização | | | |
-
-|do Magistério - FUNDEF | | | |
-
-|2 - Mutações Patrimoniais |131.873.350,93 |125.454.887,37 |154.102.702,18 |
-
-|I.2 - Independentes da Execução Orçamentária |2.176.661.023,93 |1.609.718.136,05 |1.961.846.277,86 |
-
-|II - Variações Ativas - CMBH |73.485.383,86 |84.467.142,23 |1.913.402,87 |
-
-|III - Total das Variações Ativas |4.969.177.960,91 |4.697.277.092,21 |5.261.350.428,91 |
-
-|I - Variações Passivas - PBH |3.880.753.383,06 |4.206.058.897,76 |4.983.433.000,75 |
-
-|I.1 - Resultantes da Execução Orçamentária |2.627.622.599,13 |2.902.800.173,86 |3.253.475.892,69 |
-
-|1 - Despesa Orçamentária |2.447.063.275,25 |2.745.963.317,70 |3.096.024.926,76 |
-
-|Despesas Correntes |2.101.619.058,94 |2.448.969.084,77 |2.553.990.530,82 |
-
-|Despesas de Capital |345.444.216,31 |296.994.232,93 |542.034.395,94 |
-
-|2 - Mutações Patrimoniais |180.559.323,88 |156.836.856,16 |157.450.965,93 |
-
-|I.2 - Independentes da Execução Orçamentária |1.253.130.783,93 |1.303.258.723,90 |1.729.957.108,06 |
-
-|II - Variações Passivas - CMBH |66.844.147,98 |89.324.779,34 |82.869.866,00 |
-
-|Resultado Patrimonial do Exercício |1.021.580.429,87 |401.893.415,11 |195.047.562,16 |
-
-|III - Total das Variações Passivas |3.947.597.531,04 |4.295.383.677,10 |5.066.302.866,75 |
+| DISCRIMINAÇÃO | 2004 | 2005 | 2006 |
+| --- | --- | --- | --- |
+| I - Variações Ativas - Prefeitura de Belo Horizonte - | 4.895.692.577,05 | 4.612.809.949,98 | 5.259.437.026,04 |
+| PBH |  |  |  |
+| I.1 - Resultantes da Execução Orçamentária | 2.719.031.553,12 | 3.003.091.813,93 | 3.297.590.748,18 |
+| 1 - Receita Orçamentária | 2.587.158.202,19 | 2.877.636.926,56 | 3.143.488.046,00 |
+| Receitas Correntes | 2.592.794.393,15 | 2.903.279.106,61 | 3.049.298.562,40 |
+| Receitas de Capital | 69.203.558,71 | 56.526.177,27 | 182.308.638,64 |
+| Dedução de Receitas para o Fundo de Manutenção e | (74.839.749,67) | (82.168.357,32) | (88.119.155,04) |
+| Desenvolvimento do Ensino Fundamental e de Valorização |  |  |  |
+| do Magistério - FUNDEF |  |  |  |
+| 2 - Mutações Patrimoniais | 131.873.350,93 | 125.454.887,37 | 154.102.702,18 |
+| I.2 - Independentes da Execução Orçamentária | 2.176.661.023,93 | 1.609.718.136,05 | 1.961.846.277,86 |
+| II - Variações Ativas - CMBH | 73.485.383,86 | 84.467.142,23 | 1.913.402,87 |
+| III - Total das Variações Ativas | 4.969.177.960,91 | 4.697.277.092,21 | 5.261.350.428,91 |
+| I - Variações Passivas - PBH | 3.880.753.383,06 | 4.206.058.897,76 | 4.983.433.000,75 |
+| I.1 - Resultantes da Execução Orçamentária | 2.627.622.599,13 | 2.902.800.173,86 | 3.253.475.892,69 |
+| 1 - Despesa Orçamentária | 2.447.063.275,25 | 2.745.963.317,70 | 3.096.024.926,76 |
+| Despesas Correntes | 2.101.619.058,94 | 2.448.969.084,77 | 2.553.990.530,82 |
+| Despesas de Capital | 345.444.216,31 | 296.994.232,93 | 542.034.395,94 |
+| 2 - Mutações Patrimoniais | 180.559.323,88 | 156.836.856,16 | 157.450.965,93 |
+| I.2 - Independentes da Execução Orçamentária | 1.253.130.783,93 | 1.303.258.723,90 | 1.729.957.108,06 |
+| II - Variações Passivas - CMBH | 66.844.147,98 | 89.324.779,34 | 82.869.866,00 |
+| Resultado Patrimonial do Exercício | 1.021.580.429,87 | 401.893.415,11 | 195.047.562,16 |
+| III - Total das Variações Passivas | 3.947.597.531,04 | 4.295.383.677,10 | 5.066.302.866,75 |
 
 I.3 - EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO DO MUNICÍPIO DE BELO HORIZONTE - PERÍODO 2004/2006 (art. 4º, § 2º, inciso III, da Lei Complementar Federal nº 101/00)
 
@@ -710,27 +615,18 @@ Demonstrativo da Origem e da Aplicação dos Recursos Obtidos com a Alienação 
 
 Valores em R$
 
-|Receitas |2004 |2005 |2006 |
-
-|Receita de Capital |421.200,00 |699.985,90 |162.696,56 |
-
-|Alienação de Ativos |421.200,00 |699.985,90 |162.696,56 |
-
-|Alienação de Bens Móveis |1.200,00 |699.985,90 |157.341,00 |
-
-|Alienação de Bens Imóveis |420.000,00 |0 |5.355,56 |
-
-|Despesas |2004 |2005 |2006 |
-
-|Empenhada |421.200,00 |699.985,90 |162.696,56 |
-
-|Liquidada |421.200,00 |699.985,90 |162.696,56 |
-
-|Paga |421.200,00 |699.985,90 |162.696,56 |
-
-|Saldo Financeiro |2004 |2005 |2006 |
-
-| |0 |0 |0 |
+| Receitas | 2004 | 2005 | 2006 |
+| --- | --- | --- | --- |
+| Receita de Capital | 421.200,00 | 699.985,90 | 162.696,56 |
+| Alienação de Ativos | 421.200,00 | 699.985,90 | 162.696,56 |
+| Alienação de Bens Móveis | 1.200,00 | 699.985,90 | 157.341,00 |
+| Alienação de Bens Imóveis | 420.000,00 | 0 | 5.355,56 |
+| Despesas | 2004 | 2005 | 2006 |
+| Empenhada | 421.200,00 | 699.985,90 | 162.696,56 |
+| Liquidada | 421.200,00 | 699.985,90 | 162.696,56 |
+| Paga | 421.200,00 | 699.985,90 | 162.696,56 |
+| Saldo Financeiro | 2004 | 2005 | 2006 |
+|  | 0 | 0 | 0 |
 
 I.4 - AVALIAÇÃO DA SITUAÇÃO FINANCEIRA E ATUARIAL DO REGIME PRÓPRIO DE PREVIDÊNCIA (art. 4º, § 2º, inciso IV, alínea "a", da Lei Complementar Federal nº 101/00)
 
@@ -866,9 +762,9 @@ TABELA 1
 
 QUANTIDADE DE PARTICIPANTES
 
-|ATIVOS |APOSENTADOS |PENSIONISTAS |
-
-|25.058 | 7.662 |2.681 |
+| ATIVOS | APOSENTADOS | PENSIONISTAS |
+| --- | --- | --- |
+| 25.058 | 7.662 | 2.681 |
 
 Fonte: base de dados da PBH.
 
@@ -884,29 +780,19 @@ TABELA 2
 
 SERVIDORES ATIVOS POR FAIXA ETÁRIA
 
-|FAIXA ETÁRIA |% DE SERVIDORES ATIVOS |
-
-|18 a 25 anos |2,84 |
-
-|26 a 30 anos |6,84 |
-
-|31 a 35 anos |10,32 |
-
-|36 a 40 anos |15,88 |
-
-|41 a 45 anos |22,92 |
-
-|46 a 50 anos |17,34 |
-
-|51 a 55 anos |12,50 |
-
-|56 a 60 anos |7,55 |
-
-|61 a 65 anos |3,05 |
-
-|66 a 70 anos |0,76 |
-
-|70 anos |0,00 |
+| FAIXA ETÁRIA | % DE SERVIDORES ATIVOS |
+| --- | --- |
+| 18 a 25 anos | 2,84 |
+| 26 a 30 anos | 6,84 |
+| 31 a 35 anos | 10,32 |
+| 36 a 40 anos | 15,88 |
+| 41 a 45 anos | 22,92 |
+| 46 a 50 anos | 17,34 |
+| 51 a 55 anos | 12,50 |
+| 56 a 60 anos | 7,55 |
+| 61 a 65 anos | 3,05 |
+| 66 a 70 anos | 0,76 |
+| 70 anos | 0,00 |
 
 Fonte: base de dados da PBH.
 
@@ -916,23 +802,16 @@ TABELA 3
 
 SERVIDORES ATIVOS POR TEMPO DE SERVIÇO
 
-|TEMPO DE SERVIÇO |% DE SERVIDORES ATIVOS |
-
-|0 a 5 anos |27,09 |
-
-|6 a 10 anos |13,28 |
-
-|11 a 15 anos |22,83 |
-
-|16 a 20 anos |17,51 |
-
-|21 a 25 anos |9,14 |
-
-|26 a 30 anos |7,19 |
-
-|31 a 35 anos |2,54 |
-
-|35 anos |0,42 |
+| TEMPO DE SERVIÇO | % DE SERVIDORES ATIVOS |
+| --- | --- |
+| 0 a 5 anos | 27,09 |
+| 6 a 10 anos | 13,28 |
+| 11 a 15 anos | 22,83 |
+| 16 a 20 anos | 17,51 |
+| 21 a 25 anos | 9,14 |
+| 26 a 30 anos | 7,19 |
+| 31 a 35 anos | 2,54 |
+| 35 anos | 0,42 |
 
 Fonte: base de dados da PBH.
 
@@ -944,17 +823,13 @@ TABELA 4
 
 SERVIDORES ATIVOS POR FAIXA DE REMUNERAÇÃO
 
-|REMUNERAÇÃO |% DE SERVIDORES ATIVOS |
-
-|R$350,00 a R$840,55 |20,60 |
-
-|R$840,56 a R$1.050,00 |8,80 |
-
-|R$1.050,01 a R$1.400,91 |12,48 |
-
-|R$1.400,92 a R$2.801,82 |34,91 |
-
-|Acima de R$2.801,82 |23,21 |
+| REMUNERAÇÃO | % DE SERVIDORES ATIVOS |
+| --- | --- |
+| R$350,00 a R$840,55 | 20,60 |
+| R$840,56 a R$1.050,00 | 8,80 |
+| R$1.050,01 a R$1.400,91 | 12,48 |
+| R$1.400,92 a R$2.801,82 | 34,91 |
+| Acima de R$2.801,82 | 23,21 |
 
 Fonte: base de dados da PBH.
 
@@ -968,17 +843,13 @@ SERVIDORES ATIVOS
 
 1 Valores em R$
 
-|DISCRIMINAÇÃO |FEMININO |MASCULINO |GERAL |
-
-|Quantidade |19.012 |6.046 |25.058 |
-
-|Idade média atual |44 |42 |44 |
-
-|Idade média de admissão no serviço público |31 |30 |31 |
-
-|Salário médio |2.061,30 |2.200,88 |2.094,98 |
-
-|Folha mensal |39.189.345,08 |13.306.544,36 |52.495.889,44 |
+| DISCRIMINAÇÃO | FEMININO | MASCULINO | GERAL |
+| --- | --- | --- | --- |
+| Quantidade | 19.012 | 6.046 | 25.058 |
+| Idade média atual | 44 | 42 | 44 |
+| Idade média de admissão no serviço público | 31 | 30 | 31 |
+| Salário médio | 2.061,30 | 2.200,88 | 2.094,98 |
+| Folha mensal | 39.189.345,08 | 13.306.544,36 | 52.495.889,44 |
 
 Fonte: base de dados da PBH.
 
@@ -992,15 +863,12 @@ SERVIDORES APOSENTADOS
 
 Valores em R$
 
-|DISCRIMINAÇÃO |FEMININO |MASCULINO |GERAL |
-
-|População |4.952 |2.710 |7.662 |
-
-|Benefício médio |1.878,63 |1.865,16 |1.873,87 |
-
-|Idade média atual |61 |69 |64 |
-
-|Folha mensal |9.302.989,26 |5.054.574,25 |14.357.563,51 |
+| DISCRIMINAÇÃO | FEMININO | MASCULINO | GERAL |
+| --- | --- | --- | --- |
+| População | 4.952 | 2.710 | 7.662 |
+| Benefício médio | 1.878,63 | 1.865,16 | 1.873,87 |
+| Idade média atual | 61 | 69 | 64 |
+| Folha mensal | 9.302.989,26 | 5.054.574,25 | 14.357.563,51 |
 
 Fonte: base de dados da PBH.
 
@@ -1010,17 +878,13 @@ TABELA 7
 
 11 APOSENTADOS POR VALOR DE FAIXA DE BENEFÍCIO
 
-|REMUNERAÇÃO |% DE APOSENTADOS |
-
-|R$350,00 a R$840,55 |31,25 |
-
-|R$840,56 a R$1.050,00 |6,33 |
-
-|R$1.050,01 a R$1.400,91 |11,43 |
-
-|R$1.400,92 a R$2.801,82 |33,83 |
-
-|Acima de R$2.801,82 |17,16 |
+| REMUNERAÇÃO | % DE APOSENTADOS |
+| --- | --- |
+| R$350,00 a R$840,55 | 31,25 |
+| R$840,56 a R$1.050,00 | 6,33 |
+| R$1.050,01 a R$1.400,91 | 11,43 |
+| R$1.400,92 a R$2.801,82 | 33,83 |
+| Acima de R$2.801,82 | 17,16 |
 
 Fonte: base de dados da PBH.
 
@@ -1034,15 +898,12 @@ PENSIONISTAS
 
 1 Valores em R$
 
-|DISCRIMINAÇÃO |FEMININO |MASCULINO |GERAL |
-
-|População |2.321 |360 |2.681 |
-
-|Benefício médio |1.109,71 |907,37 |1.082,54 |
-
-|Idade média atual |67 |38 |63 |
-
-|Folha mensal |2.575.629,02 |326.652,97 |2.902.282,00 |
+| DISCRIMINAÇÃO | FEMININO | MASCULINO | GERAL |
+| --- | --- | --- | --- |
+| População | 2.321 | 360 | 2.681 |
+| Benefício médio | 1.109,71 | 907,37 | 1.082,54 |
+| Idade média atual | 67 | 38 | 63 |
+| Folha mensal | 2.575.629,02 | 326.652,97 | 2.902.282,00 |
 
 Fonte: base de dados da PBH.
 
@@ -1052,17 +913,13 @@ TABELA 9
 
 PENSIONISTAS POR VALOR DE FAIXA DE BENEFÍCIO
 
-|REMUNERAÇÃO |% DE PENSIONISTAS |
-
-|R$350,00 a R$840,55 |70,23 |
-
-|R$840,56 a R$1.050,00 |6,27 |
-
-|R$1.050,01 a R$1.400,91 |5,41 |
-
-|R$1.400,92 a R$2.801,82 |9,10 |
-
-|Acima de R$2.801,82 |8,99 |
+| REMUNERAÇÃO | % DE PENSIONISTAS |
+| --- | --- |
+| R$350,00 a R$840,55 | 70,23 |
+| R$840,56 a R$1.050,00 | 6,27 |
+| R$1.050,01 a R$1.400,91 | 5,41 |
+| R$1.400,92 a R$2.801,82 | 9,10 |
+| Acima de R$2.801,82 | 8,99 |
 
 Fonte: base de dados da PBH.
 
@@ -1080,29 +937,19 @@ CUSTEIO PREVIDENCIÁRIO
 
 1 Valores em R$
 
-|CUSTO NORMAL |CUSTO ANUAL |% SOBRE A FOLHA DE ATIVOS |
-
-|Aposentadorias com reversão ao dependente |161.466.856,73 |23,66% |
-
-|Invalidez com reversão ao dependente |16.310.472,85 |2,39% |
-
-|Pensão de ativos |27.707.330,44 |4,06% |
-
-|Auxílios |21.224.088,10 |3,11% |
-
-|CUSTO ANUAL LÍQUIDO NORMAL |226.708.748,12 |33,22% |
-
-|Administração do Plano |13.648.931,25 |2,00% |
-
-|CUSTO ANUAL NORMAL TOTAL |240.357.679,37 |35,22% |
-
-|CUSTO SUPLEMENTAR |CUSTO |% SOBRE A FOLHA DE ATIVOS |
-
-|Em 35 anos |467.798.500,51 |68,77% |
-
-|CUSTEIO TOTAL |CUSTO |% SOBRE A FOLHA DE ATIVOS |
-
-|Em 35 anos |708.156.179,88 |103,77% |
+| CUSTO NORMAL | CUSTO ANUAL | % SOBRE A FOLHA DE ATIVOS |
+| --- | --- | --- |
+| Aposentadorias com reversão ao dependente | 161.466.856,73 | 23,66% |
+| Invalidez com reversão ao dependente | 16.310.472,85 | 2,39% |
+| Pensão de ativos | 27.707.330,44 | 4,06% |
+| Auxílios | 21.224.088,10 | 3,11% |
+| CUSTO ANUAL LÍQUIDO NORMAL | 226.708.748,12 | 33,22% |
+| Administração do Plano | 13.648.931,25 | 2,00% |
+| CUSTO ANUAL NORMAL TOTAL | 240.357.679,37 | 35,22% |
+| CUSTO SUPLEMENTAR | CUSTO | % SOBRE A FOLHA DE ATIVOS |
+| Em 35 anos | 467.798.500,51 | 68,77% |
+| CUSTEIO TOTAL | CUSTO | % SOBRE A FOLHA DE ATIVOS |
+| Em 35 anos | 708.156.179,88 | 103,77% |
 
 É importante destacar que o ativo informado pela PBH foi de R$54.261.790,81 (cinqüenta e quatro milhões, duzentos e sessenta e um mil, setecentos e noventa reais, oitenta e um centavos), referente a outubro de 2006, sobre o qual os responsáveis pela avaliação atuarial não fizeram qualquer avaliação. O valor utilizado neste estudo refere-se ao ativo informado, capitalizado à taxa de juros mensal, equivalente a 6% (seis por cento) ao ano, até a data da elaboração deste relatório.
 
@@ -1112,13 +959,11 @@ TABELA 11
 
 COMPARATIVO DA QUANTIDADE DE PARTICIPANTES
 
-|AVALIAÇÃO ATUARIAL |DATA-BASE |ATIVOS |APOSENTADOS |PENSIONISTAS |
-
-|03/2005 |10/2004 |23.239 |7.509 |2.436 |
-
-|05/2006 |10/2005 |24.044 |7.609 |2.545 |
-
-|12/2006 |10/2006 |25.058 |7.662 |2.681 |
+| AVALIAÇÃO ATUARIAL | DATA-BASE | ATIVOS | APOSENTADOS | PENSIONISTAS |
+| --- | --- | --- | --- | --- |
+| 03/2005 | 10/2004 | 23.239 | 7.509 | 2.436 |
+| 05/2006 | 10/2005 | 24.044 | 7.609 | 2.545 |
+| 12/2006 | 10/2006 | 25.058 | 7.662 | 2.681 |
 
 Fonte: base de dados da PBH e DRAA anteriores.
 
@@ -1130,13 +975,11 @@ COMPARATIVO DO SALÁRIO E DO BENEFÍCIO MÉDIOS
 
 1 Valores em R$
 
-|AVALIAÇÃO ATUARIAL |DATA-BASE |ATIVOS |APOSENTADOS |PENSIONISTAS |
-
-|03/2005 |10/2004 |1.668,11 |1.586,84 |962,36 |
-
-|05/2006 |10/2005 |1.798,68 |1.770,41 |999,76 |
-
-|12/2006 |10/2006 |2.094,98 |1.873,87 |1.082,54 |
+| AVALIAÇÃO ATUARIAL | DATA-BASE | ATIVOS | APOSENTADOS | PENSIONISTAS |
+| --- | --- | --- | --- | --- |
+| 03/2005 | 10/2004 | 1.668,11 | 1.586,84 | 962,36 |
+| 05/2006 | 10/2005 | 1.798,68 | 1.770,41 | 999,76 |
+| 12/2006 | 10/2006 | 2.094,98 | 1.873,87 | 1.082,54 |
 
 Fonte: base de dados da PBH e DRAA anteriores.
 
@@ -1146,23 +989,16 @@ TABELA 13
 
 COMPARATIVO DO CUSTO NORMAL
 
-|CUSTO NORMAL |AVALIAÇÃO (*) |
-
-| |MAR/2005 |MAI/2006 |DEZ/2006 |
-
-|Aposentadorias com reversão |22,23% |18,40% |23,66% |
-
-|Invalidez com reversão |5,80% |1,68% |2,39% |
-
-|Pensão de ativos |4,19% |4,23% |4,06% |
-
-|Auxílios |3,46% |2,51% |3,11% |
-
-|CUSTO ANUAL LÍQUIDO NORMAL |35,68% |26,82% |33,22% |
-
-|Administração do Plano |2,00% |2,00% |2,00% |
-
-|CUSTO ANUAL NORMAL TOTAL |37,68% |28,82% |35,22% |
+| CUSTO NORMAL | AVALIAÇÃO (*) |  |  |
+| --- | --- | --- | --- |
+|  | MAR/2005 | MAI/2006 | DEZ/2006 |
+| Aposentadorias com reversão | 22,23% | 18,40% | 23,66% |
+| Invalidez com reversão | 5,80% | 1,68% | 2,39% |
+| Pensão de ativos | 4,19% | 4,23% | 4,06% |
+| Auxílios | 3,46% | 2,51% | 3,11% |
+| CUSTO ANUAL LÍQUIDO NORMAL | 35,68% | 26,82% | 33,22% |
+| Administração do Plano | 2,00% | 2,00% | 2,00% |
+| CUSTO ANUAL NORMAL TOTAL | 37,68% | 28,82% | 35,22% |
 
 (*) Correspondem às datas-base no mês de outubro de 2004, de 2005 e de 2006.
 
@@ -1172,33 +1008,21 @@ O cálculo do custo normal de aposentadoria deste estudo levou em consideração
 
 DEMONSTRATIVO DAS RECEITAS REALIZADAS E DESPESAS EMPENHADAS DO REGIME PRÓPRIO DE PREVIDÊNCIA Valores em R$1,00
 
-|Receitas |Previsão 2006 |Realizado 2006 |
-
-|I - Receita Previdenciária |219.131.288 |202.427.031 |
-
-|Contribuição do Servidor Ativo |70.189.042 |61.684.368 |
-
-|Contribuição do Servidor Inativo e Pensionista |2.169.326 |4.303.120 |
-
-|Contribuição Previdenciária Patronal |145.808.713 |135.254.844 |
-
-|Receita Patrimonial |818.436 |1.114.034 |
-
-|Outras Receitas Correntes |145.771 |70.665 |
-
-|Total (I) |219.131.288 |202.427.031 |
-
-|Despesas |219.131.288 |231.852.783 |
-
-|II - Despesa Previdenciária |219.131.288 |231.852.783 |
-
-|Gestão Previdenciária Municipal |219.131.288 |231.852.783 |
-
-|Reserva Orçamentária do RPPS | | |
-
-|Total (II) |219.131.288 |231.852.783 |
-
-|Resultado Previdenciário (I-II) |0 |(29.425.752) |
+| Receitas | Previsão 2006 | Realizado 2006 |
+| --- | --- | --- |
+| I - Receita Previdenciária | 219.131.288 | 202.427.031 |
+| Contribuição do Servidor Ativo | 70.189.042 | 61.684.368 |
+| Contribuição do Servidor Inativo e Pensionista | 2.169.326 | 4.303.120 |
+| Contribuição Previdenciária Patronal | 145.808.713 | 135.254.844 |
+| Receita Patrimonial | 818.436 | 1.114.034 |
+| Outras Receitas Correntes | 145.771 | 70.665 |
+| Total (I) | 219.131.288 | 202.427.031 |
+| Despesas | 219.131.288 | 231.852.783 |
+| II - Despesa Previdenciária | 219.131.288 | 231.852.783 |
+| Gestão Previdenciária Municipal | 219.131.288 | 231.852.783 |
+| Reserva Orçamentária do RPPS |  |  |
+| Total (II) | 219.131.288 | 231.852.783 |
+| Resultado Previdenciário (I-II) | 0 | (29.425.752) |
 
 I.5 - DEMONSTRATIVO DA ESTIMATIVA DA RENÚNCIA DE RECEITA
 
@@ -1218,49 +1042,41 @@ Quadro-Resumo da Renúncia Fiscal
 
 1 - Isenções
 
-|IPTU (total) |R$6.000.000,00 |
-
-|IPTU (parcial) |R$4.500.000,00 |
-
-|ISSQN - autônomos |R$2.160.000,00 |
-
-|ISSQN - microempresas |R$49.050,00 |
-
-|ISSQN - empresas (art. 2º da Lei nº 5.839, 28 de dezembro de 1990) |R$24.000,00 |
-
-|ISSQN - empresas (art. 1º da Lei nº 9.145/06) |R$11.600.000,00 |
-
-|Taxa de Fiscalização de Localização e Funcionamento |R$1.800.000,00 |
-
-|Taxa de Fiscalização Sanitária |R$460.000,00 |
-
-|Taxa de Fiscalização de Engenhos de Publicidade |R$2.060.000,00 |
-
-|Total de Isenções |R$28.653.050,00 |
+| IPTU (total) | R$6.000.000,00 |
+| --- | --- |
+| IPTU (parcial) | R$4.500.000,00 |
+| ISSQN - autônomos | R$2.160.000,00 |
+| ISSQN - microempresas | R$49.050,00 |
+| ISSQN - empresas (art. 2º da Lei nº 5.839, 28 de dezembro de 1990) | R$24.000,00 |
+| ISSQN - empresas (art. 1º da Lei nº 9.145/06) | R$11.600.000,00 |
+| Taxa de Fiscalização de Localização e Funcionamento | R$1.800.000,00 |
+| Taxa de Fiscalização Sanitária | R$460.000,00 |
+| Taxa de Fiscalização de Engenhos de Publicidade | R$2.060.000,00 |
+| Total de Isenções | R$28.653.050,00 |
 
 2 - Remissões
 
-|Total de Remissões |R$1.545.000,00 |
+| Total de Remissões | R$1.545.000,00 |
+| --- | --- |
 
 3 - Desconto pelo Pagamento Antecipado de IPTU
 
-|Total de Desconto |R$16.700.000,00 |
+| Total de Desconto | R$16.700.000,00 |
+| --- | --- |
 
 4 - Incentivo Cultural
 
-|Total de Lei de Incentivo à Cultura |R$6.000.000,00 |
+| Total de Lei de Incentivo à Cultura | R$6.000.000,00 |
+| --- | --- |
 
 Total da Renúncia
 
-|Isenções |R$28.653.050,00 |
-
-|Remissões |R$1.545.000,00 |
-
-|Desconto pelo Pagamento Antecipado de IPTU |R$16.700.000,00 |
-
-|Incentivo Cultural |R$6.000.000,00 |
-
-|Total |R$52.898.050,00 |
+| Isenções | R$28.653.050,00 |
+| --- | --- |
+| Remissões | R$1.545.000,00 |
+| Desconto pelo Pagamento Antecipado de IPTU | R$16.700.000,00 |
+| Incentivo Cultural | R$6.000.000,00 |
+| Total | R$52.898.050,00 |
 
 I.6 - DEMONSTRATIVO DA ESTIMATIVA DA MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO
 

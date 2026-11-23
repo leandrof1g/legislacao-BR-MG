@@ -68,39 +68,24 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da | |
-
-|Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.126.0302.2938.339037.2.700.000 |457.810,38 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339092.2.600.510 |9.119.016,00 |
-
-|2302.10.302.0114.2936.339092.2.600.520 |11.147.423,00 |
-
-|Secretaria Municipal de Cultura – SMC |
-
-|3100.13.392.0154.2930.339031.2.700.510 |500.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.0244.1244.449051.2.754.791 |1.567.275,61 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.0086.2629.339039.2.501.778 |782.963,02 |
-
-|2805.23.695.0086.2629.339039.2.501.784 |114.029,09 |
-
-|2805.23.695.0086.2629.339039.2.749.778 |247.710,58 |
-
-|TOTAL DA SUPLEMENTAÇÃO |23.936.227,68 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da |  |
+| Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.126.0302.2938.339037.2.700.000 | 457.810,38 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339092.2.600.510 | 9.119.016,00 |
+| 2302.10.302.0114.2936.339092.2.600.520 | 11.147.423,00 |
+| Secretaria Municipal de Cultura – SMC |  |
+| 3100.13.392.0154.2930.339031.2.700.510 | 500.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.0244.1244.449051.2.754.791 | 1.567.275,61 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.0086.2629.339039.2.501.778 | 782.963,02 |
+| 2805.23.695.0086.2629.339039.2.501.784 | 114.029,09 |
+| 2805.23.695.0086.2629.339039.2.749.778 | 247.710,58 |
+| TOTAL DA SUPLEMENTAÇÃO | 23.936.227,68 |
 
 ANEXO II
 

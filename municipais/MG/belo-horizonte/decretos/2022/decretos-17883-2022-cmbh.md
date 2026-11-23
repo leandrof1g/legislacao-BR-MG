@@ -234,82 +234,44 @@ ANEXO
 
 (a que se referem o caput e o § 1º do art. 14 do Decreto nº 17.883, de 23 de fevereiro de 2022)
 
-|Tabela de Descontos Progressivos para Filmagens e Gravações - Belo Horizonte Film Commission |
-
-|Percentual de desconto em relação aos serviços não compulsórios de outorga de uso privativo dos bens de uso |
-
-|especial do Município. |
-
-|Descrição |Nível 1 – produção independente. |Nível 2 – produção não independente. |
-
-| |O valor será definido por diária de até doze horas. Caso a determinação do valor |
-
-| |seja estabelecida por horas, será calculado o desconto em cima do valor das |
-
-| |horas. |
-
-|Curta-metragem ou Documentário|100% (cem por cento). |80% (oitenta por cento). |
-
-|Animação ou Games |95% (noventa e cinco por cento). |60% (sessenta por cento). |
-
-|Longa-metragem Baixo Orçamento|90% (noventa por cento). |80% (oitenta por cento). |
-
-|ou Websérie | | |
-
-|Série, Programa de TV, |70% (setenta por cento). |50% (cinquenta por cento). |
-
-|Telefilme ou Longa Metragem | | |
-
-|Publicidade e Institucional |x |10% (dez por cento). |
-
-|Para fins deste decreto, considera-se: |
-
-|Produtora Brasileira Independente: produtora brasileira que atenda aos seguintes requisitos, cumulativamente: |
-
-|a) não ser controladora, controlada ou coligada a programadoras, empacotadoras, distribuidoras ou |
-
-|concessionárias de serviço de radiodifusão de sons e imagens; |
-
-|b) não estar vinculada a instrumento que, direta ou indiretamente, confira ou objetive conferir a sócios |
-
-|minoritários, quando eles forem programadoras, empacotadoras, distribuidoras ou concessionárias de serviços de |
-
-|radiodifusão de sons e imagens, direito de veto comercial ou qualquer tipo de interferência comercial sobre os |
-
-|conteúdos produzidos; |
-
-|c) não manter vínculo de exclusividade que a impeça de produzir ou comercializar para terceiros os conteúdos |
-
-|audiovisuais por ela produzidos; |
-
-|Filme Independente: é produzido com pouca ou nenhuma interferência de um grande estúdio de cinema. Além de ser |
-
-|produzido e distribuído por empresas de entretenimento independentes, os filmes independentes também são |
-
-|produzidos ou distribuídos por subsidiárias de grandes estúdios de cinema. Filmes independentes são, por vezes, |
-
-|distinguíveis por seu conteúdo e estilo, e pela maneira em que a visão artística pessoal dos cineastas é |
-
-|mostrada. Normalmente, mas não sempre, os filmes independentes são feitos com orçamentos consideravelmente mais |
-
-|baixos. Em geral, a comercialização de filmes independentes é caracterizada por lançamentos limitados (em poucas|
-
-|salas de cinema), mas também podem ter grandes campanhas de marketing e terem um grande lançamento. Filmes |
-
-|independentes são, muitas vezes, exibidos em festivais de cinema antes do lançamento nos cinemas. |
-
-|Longa Metragem de Baixo Orçamento: um conjunto de produções que compartilham de características comuns quanto a |
-
-|suas condições de viabilização econômica, geralmente debilitadas diante das premissas criativas do roteiro ou da|
-
-|proposta do filme. Nesse sentido, observa-se que a captação de recursos é geralmente realizada em etapas, a |
-
-|viabilização da obra está intrinsecamente ligada à necessidade de parcerias e apoios para sua efetivação e que |
-
-|muito raramente são pagos cachês acima da média de mercado. Além disso, entende-se que no Brasil somente em |
-
-|casos bastante específicos os orçamentos totais destas produções ultrapassam os valores: R$6.000.000,00 (seis |
-
-|milhões de reais) para animação, R$3.000.000,00 (três milhões de reais) para ficção e R$1.000.000,00 (um milhão |
-
-|de reais) para documentário. |
+| Tabela de Descontos Progressivos para Filmagens e Gravações - Belo Horizonte Film Commission |  |  |
+| --- | --- | --- |
+| Percentual de desconto em relação aos serviços não compulsórios de outorga de uso privativo dos bens de uso |  |  |
+| especial do Município. |  |  |
+| Descrição | Nível 1 – produção independente. | Nível 2 – produção não independente. |
+|  | O valor será definido por diária de até doze horas. Caso a determinação do valor |  |
+|  | seja estabelecida por horas, será calculado o desconto em cima do valor das |  |
+|  | horas. |  |
+| Curta-metragem ou Documentário | 100% (cem por cento). | 80% (oitenta por cento). |
+| Animação ou Games | 95% (noventa e cinco por cento). | 60% (sessenta por cento). |
+| Longa-metragem Baixo Orçamento | 90% (noventa por cento). | 80% (oitenta por cento). |
+| ou Websérie |  |  |
+| Série, Programa de TV, | 70% (setenta por cento). | 50% (cinquenta por cento). |
+| Telefilme ou Longa Metragem |  |  |
+| Publicidade e Institucional | x | 10% (dez por cento). |
+| Para fins deste decreto, considera-se: |  |  |
+| Produtora Brasileira Independente: produtora brasileira que atenda aos seguintes requisitos, cumulativamente: |  |  |
+| a) não ser controladora, controlada ou coligada a programadoras, empacotadoras, distribuidoras ou |  |  |
+| concessionárias de serviço de radiodifusão de sons e imagens; |  |  |
+| b) não estar vinculada a instrumento que, direta ou indiretamente, confira ou objetive conferir a sócios |  |  |
+| minoritários, quando eles forem programadoras, empacotadoras, distribuidoras ou concessionárias de serviços de |  |  |
+| radiodifusão de sons e imagens, direito de veto comercial ou qualquer tipo de interferência comercial sobre os |  |  |
+| conteúdos produzidos; |  |  |
+| c) não manter vínculo de exclusividade que a impeça de produzir ou comercializar para terceiros os conteúdos |  |  |
+| audiovisuais por ela produzidos; |  |  |
+| Filme Independente: é produzido com pouca ou nenhuma interferência de um grande estúdio de cinema. Além de ser |  |  |
+| produzido e distribuído por empresas de entretenimento independentes, os filmes independentes também são |  |  |
+| produzidos ou distribuídos por subsidiárias de grandes estúdios de cinema. Filmes independentes são, por vezes, |  |  |
+| distinguíveis por seu conteúdo e estilo, e pela maneira em que a visão artística pessoal dos cineastas é |  |  |
+| mostrada. Normalmente, mas não sempre, os filmes independentes são feitos com orçamentos consideravelmente mais |  |  |
+| baixos. Em geral, a comercialização de filmes independentes é caracterizada por lançamentos limitados (em poucas |  |  |
+| salas de cinema), mas também podem ter grandes campanhas de marketing e terem um grande lançamento. Filmes |  |  |
+| independentes são, muitas vezes, exibidos em festivais de cinema antes do lançamento nos cinemas. |  |  |
+| Longa Metragem de Baixo Orçamento: um conjunto de produções que compartilham de características comuns quanto a |  |  |
+| suas condições de viabilização econômica, geralmente debilitadas diante das premissas criativas do roteiro ou da |  |  |
+| proposta do filme. Nesse sentido, observa-se que a captação de recursos é geralmente realizada em etapas, a |  |  |
+| viabilização da obra está intrinsecamente ligada à necessidade de parcerias e apoios para sua efetivação e que |  |  |
+| muito raramente são pagos cachês acima da média de mercado. Além disso, entende-se que no Brasil somente em |  |  |
+| casos bastante específicos os orçamentos totais destas produções ultrapassam os valores: R$6.000.000,00 (seis |  |  |
+| milhões de reais) para animação, R$3.000.000,00 (três milhões de reais) para ficção e R$1.000.000,00 (um milhão |  |  |
+| de reais) para documentário. |  |  |

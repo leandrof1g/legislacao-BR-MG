@@ -64,29 +64,19 @@ Padrão Popular - 0,1 UFPBH por m²
 
 2.2 – Galpões
 
-| | |
-
-| |Nº DE UFPBH POR M2 |
-
-| | |
-
-|PADRÃO DE ACABEMENTO | |
-
-| | |
-
-| |ÁREA CONSTRUÍDA |
-
-| |ATÉ 30m² |ACIMA DE 300 ATÉ 50 m² |ACIMA DE 500 m² |
-
-|LUXO |1,0 |1,5 |2,0 |
-
-|ALTO |0,5 |1,0 |1,7 |
-
-|NORMAL |0,25 |0,7 |1,5 |
-
-|BAIXO |0,15 |0,5 |1,0 |
-
-|POPULAR |0,1 |0,2 |0,5 |
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | Nº DE UFPBH POR M2 |  |  |
+|  |  |  |  |
+| PADRÃO DE ACABEMENTO |  |  |  |
+|  |  |  |  |
+|  | ÁREA CONSTRUÍDA |  |  |
+|  | ATÉ 30m² | ACIMA DE 300 ATÉ 50 m² | ACIMA DE 500 m² |
+| LUXO | 1,0 | 1,5 | 2,0 |
+| ALTO | 0,5 | 1,0 | 1,7 |
+| NORMAL | 0,25 | 0,7 | 1,5 |
+| BAIXO | 0,15 | 0,5 | 1,0 |
+| POPULAR | 0,1 | 0,2 | 0,5 |
 
 2.3 - Garagem: 0,5 por m²
 

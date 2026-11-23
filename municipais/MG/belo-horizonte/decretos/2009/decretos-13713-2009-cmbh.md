@@ -60,6 +60,5 @@ Marcio Araujo de Lacerda
 
 Prefeito de Belo Horizonte
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]

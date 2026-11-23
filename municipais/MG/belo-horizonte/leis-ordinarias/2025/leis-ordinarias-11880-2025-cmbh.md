@@ -36,11 +36,10 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I DIA COMEMORATIVO G - Dias comemorativos de julho:
 
-|DATA |COMEMORAÇÃO |
-
-|13/7 |Dia Municipal da Conscientização sobre o Transtorno do Déficit de Atenção com |
-
-| |Hiperatividade - TDAH |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 13/7 | Dia Municipal da Conscientização sobre o Transtorno do Déficit de Atenção com |
+|  | Hiperatividade - TDAH |
 
 ”.
 

@@ -434,11 +434,10 @@ CARGOS DE PROVIMENTO EFETIVO DA CARREIRA DOS SERVIDORES DA
 
 VIGILÂNCIA SANITÁRIA DA PREFEITURA DE BELO HORIZONTE
 
-|Cargo |Quantitativo |
-
-|Fiscal Sanitário Municipal de Nível Superior |60 |
-
-|Fiscal Sanitário Municipal |106 |
+| Cargo | Quantitativo |
+| --- | --- |
+| Fiscal Sanitário Municipal de Nível Superior | 60 |
+| Fiscal Sanitário Municipal | 106 |
 
 Anexo I com redação dada pela Lei nº 11.373, de 4/7/2022 (Art. 43)
 
@@ -482,50 +481,32 @@ TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO DA
 
 VIGILÂNCIA SANITÁRIA DA PREFEITURA DE BELO HORIZONTE
 
-|Níveis de Vencimento |Fiscal Sanitário |Fiscal Sanitário Municipal de Nível |
-
-| |Municipal |Superior |
-
-|1 |748,12 |1.082,05 |
-
-|2 |785,53 |1.136,15 |
-
-|3 |824,80 |1.192,96 |
-
-|4 |866,04 |1.252,61 |
-
-|5 |909,34 |1.315,24 |
-
-|6 |954,81 |1.381,00 |
-
-|7 |1.002,55 |1.450,05 |
-
-|8 |1.052,68 |1.522,55 |
-
-|9 |1.105,31 |1.598,68 |
-
-|10 |1.160,58 |1.678,61 |
-
-|11 |1.218,61 |1.762,55 |
-
-|12 |1.279,54 |1.850,67 |
-
-|13 |1.343,52 |1.943,21 |
-
-|14 |1.410,69 |2.040,37 |
-
-|15 |1.481,23 |2.142,38 |
+| Níveis de Vencimento | Fiscal Sanitário | Fiscal Sanitário Municipal de Nível |
+| --- | --- | --- |
+|  | Municipal | Superior |
+| 1 | 748,12 | 1.082,05 |
+| 2 | 785,53 | 1.136,15 |
+| 3 | 824,80 | 1.192,96 |
+| 4 | 866,04 | 1.252,61 |
+| 5 | 909,34 | 1.315,24 |
+| 6 | 954,81 | 1.381,00 |
+| 7 | 1.002,55 | 1.450,05 |
+| 8 | 1.052,68 | 1.522,55 |
+| 9 | 1.105,31 | 1.598,68 |
+| 10 | 1.160,58 | 1.678,61 |
+| 11 | 1.218,61 | 1.762,55 |
+| 12 | 1.279,54 | 1.850,67 |
+| 13 | 1.343,52 | 1.943,21 |
+| 14 | 1.410,69 | 2.040,37 |
+| 15 | 1.481,23 | 2.142,38 |
 
 ANEXO III
 
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO DA VIGILÂNCIA SANITÁRIA DA PREFEITURA DE BELO HORIZONTE
 
-|CARGOS |NÍVEL |
-
-| |TRANSITÓRIO |5 |6 |
-
-|Fiscal Sanitário Municipal |24,00 |48,00 |96,00 |
-
-|Fiscal Sanitário Municipal de Nível |24,00 |48,00 |96,00 |
-
-|Superior | | | |
+| CARGOS | NÍVEL |  |  |
+| --- | --- | --- | --- |
+|  | TRANSITÓRIO | 5 | 6 |
+| Fiscal Sanitário Municipal | 24,00 | 48,00 | 96,00 |
+| Fiscal Sanitário Municipal de Nível | 24,00 | 48,00 | 96,00 |
+| Superior |  |  |  |

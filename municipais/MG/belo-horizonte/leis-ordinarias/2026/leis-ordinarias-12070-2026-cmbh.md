@@ -42,9 +42,9 @@ SEMANA COMEMORATIVA
 
 I - Semanas comemorativas de setembro:
 
-|DATA |COMEMORAÇÃO |
-
-|Primeira semana de setembro |Semana Municipal de Atualização do Cadastro Único |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Primeira semana de setembro | Semana Municipal de Atualização do Cadastro Único |
 
 ”.
 

@@ -50,59 +50,34 @@ ANEXO
 
 IV.3 – Secretaria Municipal de Cultura – SMC:
 
-|SMC |
-
-|CARGO / FUNÇÃO – NÍVEL |RECRUTAMENTO |QTDE. |CODIFICAÇÃO |
-
-|DAM-1 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-2 |LIMITADO |0 |- |
-
-| |AMPLO |0 |- |
-
-|DAM-3 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMCU.DAM3.A.001 |
-
-|DAM-4 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMCU.DAM4.A.001 |
-
-|DAM-5 |LIMITADO |1 |SMCU.DAM5.L.001 |
-
-| |AMPLO |4 |SMCU.DAM5.A.001 a SMCU.DAM5.A.004 |
-
-|DAM-6 |LIMITADO |0 | |
-
-| |AMPLO |1 |SMCU.DAM6.A.001 |
-
-|DAM-7 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMCU.DAM7.A.001 |
-
-|DAM-8 |LIMITADO |0 |- |
-
-| |AMPLO |1 |SMCU.DAM8.A.001 |
-
-|DAM-9 |LIMITADO |0 |- |
-
-| |AMPLO |3 |SMCU.DAM9.A.001 a SMCU.DAM9.A.003 |
-
-|FCA-1 |LIMITADO |1 |SMCU.FCA1.001 |
-
-|FCA-2 |LIMITADO |0 |- |
-
-|FCA-3 |LIMITADO |0 |- |
-
-|FCA-4 |LIMITADO |1 |SMCU.FCA4.001 |
-
-|FCA-5 |LIMITADO |0 |- |
-
-|FCA-6 |LIMITADO |2 |SMCU.FCA6.001 a SMCU.FCA6.002 |
-
-|TOTAL DE CARGOS |17 | |
+| SMC |  |  |  |
+| --- | --- | --- | --- |
+| CARGO / FUNÇÃO – NÍVEL | RECRUTAMENTO | QTDE. | CODIFICAÇÃO |
+| DAM-1 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-2 | LIMITADO | 0 | - |
+|  | AMPLO | 0 | - |
+| DAM-3 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMCU.DAM3.A.001 |
+| DAM-4 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMCU.DAM4.A.001 |
+| DAM-5 | LIMITADO | 1 | SMCU.DAM5.L.001 |
+|  | AMPLO | 4 | SMCU.DAM5.A.001 a SMCU.DAM5.A.004 |
+| DAM-6 | LIMITADO | 0 |  |
+|  | AMPLO | 1 | SMCU.DAM6.A.001 |
+| DAM-7 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMCU.DAM7.A.001 |
+| DAM-8 | LIMITADO | 0 | - |
+|  | AMPLO | 1 | SMCU.DAM8.A.001 |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 3 | SMCU.DAM9.A.001 a SMCU.DAM9.A.003 |
+| FCA-1 | LIMITADO | 1 | SMCU.FCA1.001 |
+| FCA-2 | LIMITADO | 0 | - |
+| FCA-3 | LIMITADO | 0 | - |
+| FCA-4 | LIMITADO | 1 | SMCU.FCA4.001 |
+| FCA-5 | LIMITADO | 0 | - |
+| FCA-6 | LIMITADO | 2 | SMCU.FCA6.001 a SMCU.FCA6.002 |
+| TOTAL DE CARGOS | 17 |  |  |
 
 ”
 

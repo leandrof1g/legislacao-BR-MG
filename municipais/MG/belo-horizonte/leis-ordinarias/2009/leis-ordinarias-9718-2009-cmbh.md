@@ -98,11 +98,10 @@ III - a Coordenadoria Municipal de Defesa Civil. (NR)”.
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|Secretário Municipal Regional |Secretário Adjunto de Administração |9 |
-
-| |Regional | |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| Secretário Municipal Regional | Secretário Adjunto de Administração | 9 |
+|  | Regional |  |
 
 (NR)”.
 
@@ -112,19 +111,14 @@ QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER E
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|Secretário Municipal de Coordenação |Secretário Municipal |01 |
-
-|Gerente de 2º Nível |Gerente de 2º Nível |03 |
-
-|Gerente de 3º Nível |Gerente de 3º Nível |03 |
-
-|Assessor I |Assessor I |10 |
-
-|Assessor II |Assessor II |20 |
-
-|Assessor III |Assessor III |02 |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| Secretário Municipal de Coordenação | Secretário Municipal | 01 |
+| Gerente de 2º Nível | Gerente de 2º Nível | 03 |
+| Gerente de 3º Nível | Gerente de 3º Nível | 03 |
+| Assessor I | Assessor I | 10 |
+| Assessor II | Assessor II | 20 |
+| Assessor III | Assessor III | 02 |
 
 (NR)”.
 

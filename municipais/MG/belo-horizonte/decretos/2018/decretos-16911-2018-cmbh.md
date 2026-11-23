@@ -68,38 +68,22 @@ ANEXO
 
 (a que se refere o art. 5º do Decreto nº 16.911, de 21 de maio de 2018)
 
-| Item |Descrição da infração |Dispositiv|Notific|Prazo |Multa | | | |
-
-| | |o |ação |para | | | | |
-
-| | |infringido|Prévia |atendim| | | | |
-
-| | | Lei | |ento | | | | |
-
-| | |10.920/16 | | | | | | |
-
-|2 |Deixar de sinalizar o |§ 2º do |Sim |10 dias|500,00 |5 dias |- |Interdição da |
-
-| |local de instalação do |art. 1º | | | | | |piscina a partir |
-
-| |dispositivo que | | | | | | |da segunda |
-
-| |interrompa o processo de| | | | | | |reincidência |
-
-| |sucção da bomba | | | | | | | |
-
-|3 |Não possuir bombas de |Art. 2º |Sim |30 dias|500,00 |5 dias |- |Interdição da |
-
-| |sucção que interrompam o| | | | | | |piscina a partir |
-
-| |processo | | | | | | |da segunda |
-
-| |automaticamente, sempre | | | | | | |reincidência |
-
-| |que o ralo for | | | | | | | |
-
-| |obstruído, para piscinas| | | | | | | |
-
-| |construídas a partir de | | | | | | | |
-
-| |01 de junho de 2016 | | | | | | | |
+| Item | Descrição da infração | Dispositiv | Notific | Prazo | Multa |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | o | ação | para |  |  |  |  |
+|  |  | infringido | Prévia | atendim |  |  |  |  |
+|  |  | Lei |  | ento |  |  |  |  |
+|  |  | 10.920/16 |  |  |  |  |  |  |
+| 2 | Deixar de sinalizar o | § 2º do | Sim | 10 dias | 500,00 | 5 dias | - | Interdição da |
+|  | local de instalação do | art. 1º |  |  |  |  |  | piscina a partir |
+|  | dispositivo que |  |  |  |  |  |  | da segunda |
+|  | interrompa o processo de |  |  |  |  |  |  | reincidência |
+|  | sucção da bomba |  |  |  |  |  |  |  |
+| 3 | Não possuir bombas de | Art. 2º | Sim | 30 dias | 500,00 | 5 dias | - | Interdição da |
+|  | sucção que interrompam o |  |  |  |  |  |  | piscina a partir |
+|  | processo |  |  |  |  |  |  | da segunda |
+|  | automaticamente, sempre |  |  |  |  |  |  | reincidência |
+|  | que o ralo for |  |  |  |  |  |  |  |
+|  | obstruído, para piscinas |  |  |  |  |  |  |  |
+|  | construídas a partir de |  |  |  |  |  |  |  |
+|  | 01 de junho de 2016 |  |  |  |  |  |  |  |

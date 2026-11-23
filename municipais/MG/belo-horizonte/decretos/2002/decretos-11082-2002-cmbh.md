@@ -124,7 +124,7 @@ V - as Juntas de Julgamento e Recursos Fiscais;
 
 **Parágrafo único** - Considera-se apto à progressão o servidor cuja pontuação total for igual ou superior à média dos resultados alcançados pelo grupo menos o desvio padrão, apurado conforme as seguintes fórmulas:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 onde:
 
@@ -210,15 +210,7 @@ Secretário Municipal da Coordenação de Administração e Recursos Humanos
 
 ANEXOS
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

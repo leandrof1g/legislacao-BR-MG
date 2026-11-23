@@ -92,41 +92,25 @@ O Prefeito de Belo Horizonte, no exercício de suas atribuições legais, em esp
 
 “ANEXO II Código de Indexação de Informação Classificada – Categorias
 
-|CATEGORIAS |CÓDIGO NUMÉRICO |
-
-|Administração Regional |01 |
-
-|Controle Interno |02 |
-
-|Cultura/ Lazer/ Esporte/ Turismo |03 |
-
-|Defesa e Segurança |04 |
-
-|Desenvolvimento |05 |
-
-|Educação |06 |
-
-|Governo/ Relações Institucionais/ Relações Internacionais |07 |
-
-|Jurídico |08 |
-
-|Meio ambiente |09 |
-
-|Obras/ Infraestrutura/ Habitação |10 |
-
-|Orçamento/ Finanças |11 |
-
-|Planejamento/ Recursos Humanos/ Previdência |12 |
-
-|Políticas Sociais |13 |
-
-|Saneamento/ Urbanismo |14 |
-
-|Saúde |15 |
-
-|Tecnologia/ Informação/ Comunicação |16 |
-
-|Transportes e trânsito |17 |
+| CATEGORIAS | CÓDIGO NUMÉRICO |
+| --- | --- |
+| Administração Regional | 01 |
+| Controle Interno | 02 |
+| Cultura/ Lazer/ Esporte/ Turismo | 03 |
+| Defesa e Segurança | 04 |
+| Desenvolvimento | 05 |
+| Educação | 06 |
+| Governo/ Relações Institucionais/ Relações Internacionais | 07 |
+| Jurídico | 08 |
+| Meio ambiente | 09 |
+| Obras/ Infraestrutura/ Habitação | 10 |
+| Orçamento/ Finanças | 11 |
+| Planejamento/ Recursos Humanos/ Previdência | 12 |
+| Políticas Sociais | 13 |
+| Saneamento/ Urbanismo | 14 |
+| Saúde | 15 |
+| Tecnologia/ Informação/ Comunicação | 16 |
+| Transportes e trânsito | 17 |
 
 Obs.: 1. Categorias: representam os aspectos ou temas correlacionados à informação classificada em grau de sigilo, e serão indicadas pela autoridade classificadora. 2. Composição no Código de Indexação: 2 (dois) dígitos = código numérico.”. (NR)
 

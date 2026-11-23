@@ -54,24 +54,15 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I – A favor de diversos órgãos do Poder Executivo, conforme autorização contida no inciso II do § |
-
-|1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º da Lei nº |
-
-|11.336, de 30 de dezembro de 2021: |
-
-|R$ |
-
-|2200.12.365.169.2.542.3390.0030 |25.000,00 |
-
-|2200.12.361.168.2.046.3390.0030 |25.000,00 |
-
-|2200.12.361.168.2.046.3390.0030 |25.000,00 |
-
-|2200.12.361.168.2.046.3390.0030 |71.000,00 |
-
-|2200.12.365.169.2.542.3390.0030 |25.000,00 |
-
-|2805.23.695.086.2.629.3390.0030 |550.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |721.000,00 |
+| I – A favor de diversos órgãos do Poder Executivo, conforme autorização contida no inciso II do § |  |
+| --- | --- |
+| 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do art. 4º da Lei nº |  |
+| 11.336, de 30 de dezembro de 2021: |  |
+| R$ |  |
+| 2200.12.365.169.2.542.3390.0030 | 25.000,00 |
+| 2200.12.361.168.2.046.3390.0030 | 25.000,00 |
+| 2200.12.361.168.2.046.3390.0030 | 25.000,00 |
+| 2200.12.361.168.2.046.3390.0030 | 71.000,00 |
+| 2200.12.365.169.2.542.3390.0030 | 25.000,00 |
+| 2805.23.695.086.2.629.3390.0030 | 550.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 721.000,00 |

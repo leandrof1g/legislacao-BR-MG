@@ -72,67 +72,38 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei | |
-
-|n° 11.442, de 29 de dezembro de 2022: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.1100.19.572.302.2.905.449052.501 |2.319.048,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0100.15.451.233.1.208.449051.704 |350.000,00 |
-
-|2700.0100.15.451.233.1.208.449051.750 |200.000,00 |
-
-|2700.0200.15.451.233.1.208.449051.704 |400.000,00 |
-
-|2700.0300.15.451.233.1.208.449051.704 |400.000,00 |
-
-|2700.0300.15.451.233.1.208.449051.750 |200.000,00 |
-
-|2700.0400.15.451.233.1.208.449051.704 |482.314,34 |
-
-|2700.0400.15.451.233.1.208.449051.750 |242.516,92 |
-
-|2700.0600.15.451.233.1.208.449051.704 |400.000,00 |
-
-|2700.0700.15.451.233.1.208.449051.704 |400.000,00 |
-
-|2700.0800.15.451.233.1.208.449051.704 |400.000,00 |
-
-|2700.0800.15.451.233.1.208.449051.750 |200.000,00 |
-
-|2700.0900.15.451.233.1.208.449051.704 |400.000,00 |
-
-|2700.0900.15.451.233.1.208.449051.750 |200.000,00 |
-
-|2700.1100.17.512.066.1.400.449051.700 |736.047,00 |
-
-|2700.0500.15.451.233.1.208.449051.704 |400.000,00 |
-
-|2700.1100.17.512.066.1.203.449093.700 |143.303,49 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.2900.06.181.109.2.803.339093.702 |1,76 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.1100.08.244.113.2.916.339039.660 |14.370,46 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.302.114.2.891.339030.621 |180.171,06 |
-
-|2302.3401.10.305.028.2.829.339030.621 |20.700,00 |
-
-|2302.3401.10.302.114.2.891.449093.621 |7.074,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |8.095.547,03 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º da Lei |  |
+| n° 11.442, de 29 de dezembro de 2022: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.1100.19.572.302.2.905.449052.501 | 2.319.048,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0100.15.451.233.1.208.449051.704 | 350.000,00 |
+| 2700.0100.15.451.233.1.208.449051.750 | 200.000,00 |
+| 2700.0200.15.451.233.1.208.449051.704 | 400.000,00 |
+| 2700.0300.15.451.233.1.208.449051.704 | 400.000,00 |
+| 2700.0300.15.451.233.1.208.449051.750 | 200.000,00 |
+| 2700.0400.15.451.233.1.208.449051.704 | 482.314,34 |
+| 2700.0400.15.451.233.1.208.449051.750 | 242.516,92 |
+| 2700.0600.15.451.233.1.208.449051.704 | 400.000,00 |
+| 2700.0700.15.451.233.1.208.449051.704 | 400.000,00 |
+| 2700.0800.15.451.233.1.208.449051.704 | 400.000,00 |
+| 2700.0800.15.451.233.1.208.449051.750 | 200.000,00 |
+| 2700.0900.15.451.233.1.208.449051.704 | 400.000,00 |
+| 2700.0900.15.451.233.1.208.449051.750 | 200.000,00 |
+| 2700.1100.17.512.066.1.400.449051.700 | 736.047,00 |
+| 2700.0500.15.451.233.1.208.449051.704 | 400.000,00 |
+| 2700.1100.17.512.066.1.203.449093.700 | 143.303,49 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.2900.06.181.109.2.803.339093.702 | 1,76 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.1100.08.244.113.2.916.339039.660 | 14.370,46 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.302.114.2.891.339030.621 | 180.171,06 |
+| 2302.3401.10.305.028.2.829.339030.621 | 20.700,00 |
+| 2302.3401.10.302.114.2.891.449093.621 | 7.074,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 8.095.547,03 |
 
 ANEXO II
 
@@ -192,24 +163,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração do saldo de crédito suplementar passível de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.073.795.857,04 |
-
-|Valor do Decreto publicado nesta data |R$ 8.095.547,03 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.081.891.404,07 |
-
-|Saldo atual de créditos suplementares |R$ 632.275.784,13 |
-
-|Percentual utilizado |63,11% |
-
-|Atualizado em 26/10/2023 às 14:31:34 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.073.795.857,04 |
+| Valor do Decreto publicado nesta data | R$ 8.095.547,03 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.081.891.404,07 |
+| Saldo atual de créditos suplementares | R$ 632.275.784,13 |
+| Percentual utilizado | 63,11% |
+| Atualizado em 26/10/2023 às 14:31:34 |  |

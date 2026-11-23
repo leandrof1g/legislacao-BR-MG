@@ -142,47 +142,28 @@ Recursos Ordinários do Tesouro
 
 Valores em R$1,00
 
-|ÓRGÃO |LIMITE | |ÓRGÃO |LIMITE |
-
-|GP |14.319.724 | |URBEL |3.777.000 |
-
-|GVP |267.475 | |FMHP |13.162.353 |
-
-|PGM |8.796.796 | |SLU |359.333.671 |
-
-|FPGM |1.522.500 | |FUMPDEC |527.145 |
-
-|SMPOG |36.130.583 | |SMDE |4.571.840 |
-
-|PRODABEL |35.185.811 | |BELOTUR |16.990.619 |
-
-|SMFA |27.674.486 | |FMPDC |2.531.678 |
-
-|FMAATM |1.624.717 | |FMT |686.450 |
-
-|SMASAC/FUNDOS |351.740.902 | |SMEL |11.164.755 |
-
-|SMGO |269.904 | |SMC |1.883.762 |
-
-|SMSP |16.597.000 | |FPC |11.940.000 |
-
-|SMED |1.008.960.136 | |FPPC-BH |1.000.000 |
-
-|FMS |603.358.754 | |FMC |41.109.838 |
-
-|FUMSD |150.000 | |SMAICS |49.204.005 |
-
-|CTGM |2.513.112 | |SMPU |41.635.340 |
-
-|SMMA |2.993.144 | |FCENTRALIDADES |200.000 |
-
-|FDA |2.152.000 | |SUMOB |2.000.000 |
-
-|FPMZB |28.975.580 | |FMU |93.682.650 |
-
-|SMOBI |138.683.204 | |BHTRANS |35.222.068 |
-
-|SUDECAP |29.637.128 | |EGM-SMFA |158.393.684 |
+| ÓRGÃO | LIMITE |  | ÓRGÃO | LIMITE |
+| --- | --- | --- | --- | --- |
+| GP | 14.319.724 |  | URBEL | 3.777.000 |
+| GVP | 267.475 |  | FMHP | 13.162.353 |
+| PGM | 8.796.796 |  | SLU | 359.333.671 |
+| FPGM | 1.522.500 |  | FUMPDEC | 527.145 |
+| SMPOG | 36.130.583 |  | SMDE | 4.571.840 |
+| PRODABEL | 35.185.811 |  | BELOTUR | 16.990.619 |
+| SMFA | 27.674.486 |  | FMPDC | 2.531.678 |
+| FMAATM | 1.624.717 |  | FMT | 686.450 |
+| SMASAC/FUNDOS | 351.740.902 |  | SMEL | 11.164.755 |
+| SMGO | 269.904 |  | SMC | 1.883.762 |
+| SMSP | 16.597.000 |  | FPC | 11.940.000 |
+| SMED | 1.008.960.136 |  | FPPC-BH | 1.000.000 |
+| FMS | 603.358.754 |  | FMC | 41.109.838 |
+| FUMSD | 150.000 |  | SMAICS | 49.204.005 |
+| CTGM | 2.513.112 |  | SMPU | 41.635.340 |
+| SMMA | 2.993.144 |  | FCENTRALIDADES | 200.000 |
+| FDA | 2.152.000 |  | SUMOB | 2.000.000 |
+| FPMZB | 28.975.580 |  | FMU | 93.682.650 |
+| SMOBI | 138.683.204 |  | BHTRANS | 35.222.068 |
+| SUDECAP | 29.637.128 |  | EGM-SMFA | 158.393.684 |
 
 ANEXO II
 
@@ -192,43 +173,26 @@ Emendas Impositivas
 
 Valores em R$1,00
 
-|ÓRGÃO |EMENDA IMPOSITIVA |
-
-|PRODABEL |490.000 |
-
-|SMFA |389.808 |
-
-|SMASAC/FUNDOS |12.419.828 |
-
-|SMSP |1.190.627 |
-
-|SMED |2.313.305 |
-
-|FMS |43.315.219 |
-
-|FUMSD |304.610 |
-
-|SMMA |1.579.000 |
-
-|FPMZB |556.923 |
-
-|SMOBI |14.706.822 |
-
-|SUDECAP |5.519.882 |
-
-|FMHP |100.000 |
-
-|SLU |50.000 |
-
-|SMDE |1.394.610 |
-
-|BELOTUR |429.000 |
-
-|SMEL |1.220.220 |
-
-|SMC |630.000 |
-
-|FMC |1.040.000 |
+| ÓRGÃO | EMENDA IMPOSITIVA |
+| --- | --- |
+| PRODABEL | 490.000 |
+| SMFA | 389.808 |
+| SMASAC/FUNDOS | 12.419.828 |
+| SMSP | 1.190.627 |
+| SMED | 2.313.305 |
+| FMS | 43.315.219 |
+| FUMSD | 304.610 |
+| SMMA | 1.579.000 |
+| FPMZB | 556.923 |
+| SMOBI | 14.706.822 |
+| SUDECAP | 5.519.882 |
+| FMHP | 100.000 |
+| SLU | 50.000 |
+| SMDE | 1.394.610 |
+| BELOTUR | 429.000 |
+| SMEL | 1.220.220 |
+| SMC | 630.000 |
+| FMC | 1.040.000 |
 
 ANEXO III
 
@@ -238,6 +202,5 @@ Cronograma de Execução Mensal de Desembolso
 
 Valores em R$1.000,00
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]

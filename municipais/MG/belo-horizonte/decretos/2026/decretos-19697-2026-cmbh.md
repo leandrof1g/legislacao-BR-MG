@@ -70,18 +70,12 @@ ANEXO
 
 TABELA DE PREÇOS PÚBLICOS – PASSEIO DE TURISMO NÁUTICO NA LAGOA DA PAMPULHA
 
-|Categoria |Valor |
-
-|Inteira |R$ 20,00 |
-
-|Meia-entrada (nos termos da legislação e do art. 2º) |R$ 10,00 |
-
-|Morador do Município de Belo Horizonte (mediante comprovação de |R$ 12,00 |
-
-|residência) | |
-
-|Público não pagante (gratuidades previstas no art. 3º) |Gratuito |
-
-|Ações educativas e promocionais (mediante ato da Belotur) |Gratuito ou |
-
-| |subsidiado |
+| Categoria | Valor |
+| --- | --- |
+| Inteira | R$ 20,00 |
+| Meia-entrada (nos termos da legislação e do art. 2º) | R$ 10,00 |
+| Morador do Município de Belo Horizonte (mediante comprovação de | R$ 12,00 |
+| residência) |  |
+| Público não pagante (gratuidades previstas no art. 3º) | Gratuito |
+| Ações educativas e promocionais (mediante ato da Belotur) | Gratuito ou |
+|  | subsidiado |

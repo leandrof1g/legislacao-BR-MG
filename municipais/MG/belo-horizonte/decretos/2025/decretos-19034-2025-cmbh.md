@@ -58,131 +58,73 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei |R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0117.1216.449051.1.500.000 |19.871,00 |
-
-|2302.10.305.0117.1216.449092.1.500.000 |12.800,00 |
-
-|TOTAL |32.671,00 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da |R$ |
-
-|Lei nº 11.802, de 3 de janeiro de 2025: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.336783.1.500.000 |8.690.780,00 |
-
-|2200.12.361.0168.2080.339040.1.500.000 |3.620.780,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.122.0085.2900.339047.1.501.000 |2.500,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1330.449051.1.500.000 |9.200.000,00 |
-
-|2700.15.451.0227.1403.449051.1.759.000 |500.000,00 |
-
-|TOTAL |22.014.060,00 |
-
-|I.1.3 – A favor do seguinte órgão, conforme autorização contida no art. 19 da Lei |R$ |
-
-|nº 11.742, de 13 de setembro de 2024, e no art. 7º da Lei nº 11.802, de 3 de | |
-
-|janeiro de 2025: | |
-
-|2200.12.365.0169.2041.339039.1.500.000 |100.000,00 |
-
-|2200.12.365.0169.2542.339039.1.500.000 |350.000,00 |
-
-|2200.12.365.0169.2046.339039.1.500.000 |50.000,00 |
-
-|2200.12.361.0168.2046.339039.1.500.000 |200.000,00 |
-
-|2200.12.365.0169.2046.445052.1.500.000 |150.000,00 |
-
-|2200.12.361.0168.2046.445052.1.500.000 |50.000,00 |
-
-|2200.12.361.0168.2046.445042.1.500.000 |301.250,00 |
-
-|2200.12.365.0169.2542.445042.1.500.000 |513.000,00 |
-
-|2200.12.365.0169.2542.445052.1.500.000 |400.000,00 |
-
-|2200.12.365.0169.2046.445042.1.500.000 |100.000,00 |
-
-|TOTAL |2.214.250,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |24.260.981,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0117.1216.449051.1.500.000 | 19.871,00 |
+| 2302.10.305.0117.1216.449092.1.500.000 | 12.800,00 |
+| TOTAL | 32.671,00 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 6º da | R$ |
+| Lei nº 11.802, de 3 de janeiro de 2025: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.336783.1.500.000 | 8.690.780,00 |
+| 2200.12.361.0168.2080.339040.1.500.000 | 3.620.780,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.122.0085.2900.339047.1.501.000 | 2.500,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1330.449051.1.500.000 | 9.200.000,00 |
+| 2700.15.451.0227.1403.449051.1.759.000 | 500.000,00 |
+| TOTAL | 22.014.060,00 |
+| I.1.3 – A favor do seguinte órgão, conforme autorização contida no art. 19 da Lei | R$ |
+| nº 11.742, de 13 de setembro de 2024, e no art. 7º da Lei nº 11.802, de 3 de |  |
+| janeiro de 2025: |  |
+| 2200.12.365.0169.2041.339039.1.500.000 | 100.000,00 |
+| 2200.12.365.0169.2542.339039.1.500.000 | 350.000,00 |
+| 2200.12.365.0169.2046.339039.1.500.000 | 50.000,00 |
+| 2200.12.361.0168.2046.339039.1.500.000 | 200.000,00 |
+| 2200.12.365.0169.2046.445052.1.500.000 | 150.000,00 |
+| 2200.12.361.0168.2046.445052.1.500.000 | 50.000,00 |
+| 2200.12.361.0168.2046.445042.1.500.000 | 301.250,00 |
+| 2200.12.365.0169.2542.445042.1.500.000 | 513.000,00 |
+| 2200.12.365.0169.2542.445052.1.500.000 | 400.000,00 |
+| 2200.12.365.0169.2046.445042.1.500.000 | 100.000,00 |
+| TOTAL | 2.214.250,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 24.260.981,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0117.1216.449051.1.500.000 |32.671,00 |
-
-|TOTAL |32.671,00 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.0169.2046.339039.1.500.000 |12.311.560,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.122.0085.2900.449052.1.501.000 |2.500,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0233.1396.449051.1.500.000 |9.200.000,00 |
-
-|2700.17.512.0066.1400.449051.1.759.000 |500.000,00 |
-
-|TOTAL |22.014.060,00 |
-
-|I.2.3 – Em contrapartida às suplementações relacionadas no item I.1.3, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339030.1.500.000 |50.000,00 |
-
-|2200.12.361.0168.2080.339039.1.500.000 |150.000,00 |
-
-|2200.12.122.0140.2317.449051.1.500.000 |301.250,00 |
-
-|2200.12.365.0169.2542.339039.1.500.000 |660.000,00 |
-
-|2200.12.365.0169.2542.449052.1.500.000 |300.000,00 |
-
-|2200.12.365.0169.2046.339039.1.500.000 |433.000,00 |
-
-|2200.12.361.0168.2046.339039.1.500.000 |200.000,00 |
-
-|2200.12.122.0140.2317.449052.1.500.000 |50.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.12.365.0169.1211.449051.1.500.000 |70.000,00 |
-
-|TOTAL |2.214.250,00 |
-
-|TOTAL DA ANULAÇÃO |24.260.981,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0117.1216.449051.1.500.000 | 32.671,00 |
+| TOTAL | 32.671,00 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.0169.2046.339039.1.500.000 | 12.311.560,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.122.0085.2900.449052.1.501.000 | 2.500,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0233.1396.449051.1.500.000 | 9.200.000,00 |
+| 2700.17.512.0066.1400.449051.1.759.000 | 500.000,00 |
+| TOTAL | 22.014.060,00 |
+| I.2.3 – Em contrapartida às suplementações relacionadas no item I.1.3, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339030.1.500.000 | 50.000,00 |
+| 2200.12.361.0168.2080.339039.1.500.000 | 150.000,00 |
+| 2200.12.122.0140.2317.449051.1.500.000 | 301.250,00 |
+| 2200.12.365.0169.2542.339039.1.500.000 | 660.000,00 |
+| 2200.12.365.0169.2542.449052.1.500.000 | 300.000,00 |
+| 2200.12.365.0169.2046.339039.1.500.000 | 433.000,00 |
+| 2200.12.361.0168.2046.339039.1.500.000 | 200.000,00 |
+| 2200.12.122.0140.2317.449052.1.500.000 | 50.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.12.365.0169.1211.449051.1.500.000 | 70.000,00 |
+| TOTAL | 2.214.250,00 |
+| TOTAL DA ANULAÇÃO | 24.260.981,00 |
 
 ANEXO II
 
@@ -228,77 +170,50 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 4º, limite de 15% do valor|
-
-|abertura de créditos suplementares para o Fundo Municipal de |total do Orçamento: |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 3.398.071.195,95 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 19.900.631,98 |
-
-|Valor do Decreto publicado nesta data |R$ 32.671,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 19.933.302,98 |
-
-|Saldo atual de créditos suplementares |R$ 3.378.137.892,97 |
-
-|Percentual utilizado |0,59% |
-
-|Atualizado em 18/03/2025 às 10:12:39 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 4º, limite de 15% do valor |
+| abertura de créditos suplementares para o Fundo Municipal de | total do Orçamento: |
+| Saúde. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 3.398.071.195,95 |
+| Total de créditos suplementares abertos anteriormente | R$ 19.900.631,98 |
+| Valor do Decreto publicado nesta data | R$ 32.671,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 19.933.302,98 |
+| Saldo atual de créditos suplementares | R$ 3.378.137.892,97 |
+| Percentual utilizado | 0,59% |
+| Atualizado em 18/03/2025 às 10:12:39 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado |Art. 6º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 2.265.380.797,30 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 52.355.019,50 |
-
-|Valor do Decreto publicado nesta data |R$ 22.014.060,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 74.369.079,50 |
-
-|Saldo atual de créditos suplementares |R$ 2.191.011.717,80 |
-
-|Percentual utilizado |3,28% |
-
-|Atualizado em 18/03/2025 às 13:34:48 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.802, de 03/01/2025 – Limite autorizado | Art. 6º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 2.265.380.797,30 |
+| Total de créditos suplementares abertos anteriormente | R$ 52.355.019,50 |
+| Valor do Decreto publicado nesta data | R$ 22.014.060,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 74.369.079,50 |
+| Saldo atual de créditos suplementares | R$ 2.191.011.717,80 |
+| Percentual utilizado | 3,28% |
+| Atualizado em 18/03/2025 às 13:34:48 |  |
 
 Item III.2 retificado em 22/3/2025
 
 III.3 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 7º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 7º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 192.497.922,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.679.457,00 |
-
-|Valor do Decreto publicado nesta data |R$ 2.214.250,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 3.893.707,00 |
-
-|Saldo atual de créditos suplementares |R$ 188.604.215,00 |
-
-|Percentual utilizado |2,02% |
-
-|Atualizado em 18/03/2025 às 10:15:50 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 192.497.922,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.679.457,00 |
+| Valor do Decreto publicado nesta data | R$ 2.214.250,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 3.893.707,00 |
+| Saldo atual de créditos suplementares | R$ 188.604.215,00 |
+| Percentual utilizado | 2,02% |
+| Atualizado em 18/03/2025 às 10:15:50 |  |
 
 ## Observações da CMBH
 

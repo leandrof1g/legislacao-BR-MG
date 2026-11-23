@@ -96,13 +96,11 @@ FUNDAÇÃO DE PARQUES MUNICIPAIS
 
 CARGOS DE PROVIMENTO EFETIVO
 
-|NOME DO CARGO |NÚMERO DE VAGAS |
-
-|Técnico de Nível Superior |31 |
-
-|Técnico de Nível Médio |18 |
-
-|Assistente Administrativo |80 |
+| NOME DO CARGO | NÚMERO DE VAGAS |
+| --- | --- |
+| Técnico de Nível Superior | 31 |
+| Técnico de Nível Médio | 18 |
+| Assistente Administrativo | 80 |
 
 **Art. 9º** - O Anexo IV da Lei nº 9.011/05 passa a vigorar com a seguinte redação:
 
@@ -112,15 +110,12 @@ FUNDAÇÃO MUNICIPAL DE CULTURA
 
 CARGOS DE PROVIMENTO EFETIVO
 
-|NOME DO CARGO |NÚMERO DE VAGAS |
-
-|Técnico de Nível Superior |135 |
-
-|Técnico de Nível Médio |18 |
-
-|Técnico Cultural de Nível Médio |28 |
-
-|Assistente Administrativo |94 |
+| NOME DO CARGO | NÚMERO DE VAGAS |
+| --- | --- |
+| Técnico de Nível Superior | 135 |
+| Técnico de Nível Médio | 18 |
+| Técnico Cultural de Nível Médio | 28 |
+| Assistente Administrativo | 94 |
 
 “(NR)
 
@@ -170,39 +165,24 @@ XVII - tratar com zelo e urbanidade o cidadão.
 
 4. TABELA DE VENCIMENTOS-BASE DO CARGO DE PROVIMENTO EFETIVO DE TÉCNICO CULTURAL DE NÍVEL MÉDIO - JORNADA DE 6 HORAS DIÁRIAS
 
-|TÉCNICO CULTURAL DE NÍVEL MÉDIO |
-
-|NÍVEL |VENCIMENTO-BASE |
-
-|1 |675,00 |
-
-|2 |708,75 |
-
-|3 |744,19 |
-
-|4 |781,40 |
-
-|5 |820,47 |
-
-|6 |861,49 |
-
-|7 |904,56 |
-
-|8 |949,49 |
-
-|9 |997,28 |
-
-|10 |1.047,15 |
-
-|11 |1.099,50 |
-
-|12 |1.154,48 |
-
-|13 |1.212,20 |
-
-|14 |1.272,81 |
-
-|15 |1.336,45 |
+| TÉCNICO CULTURAL DE NÍVEL MÉDIO |  |
+| --- | --- |
+| NÍVEL | VENCIMENTO-BASE |
+| 1 | 675,00 |
+| 2 | 708,75 |
+| 3 | 744,19 |
+| 4 | 781,40 |
+| 5 | 820,47 |
+| 6 | 861,49 |
+| 7 | 904,56 |
+| 8 | 949,49 |
+| 9 | 997,28 |
+| 10 | 1.047,15 |
+| 11 | 1.099,50 |
+| 12 | 1.154,48 |
+| 13 | 1.212,20 |
+| 14 | 1.272,81 |
+| 15 | 1.336,45 |
 
 **Art. 11** - Fica o Executivo autorizado a abrir crédito adicional ao orçamento vigente, no valor de R$8.871.013,70 (oito milhões, oitocentos e setenta e um mil, treze reais e setenta centavos), conforme o disposto nos arts. 40 a 46 da Lei Federal nº 4.320, de 17 de março de 1964.
 

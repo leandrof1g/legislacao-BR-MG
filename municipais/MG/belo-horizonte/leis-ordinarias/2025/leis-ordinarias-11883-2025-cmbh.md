@@ -38,9 +38,9 @@ DIA COMEMORATIVO
 
 H - Dias comemorativos de agosto:
 
-|DATA |COMEMORAÇÃO |
-
-|3/8 |Dia Municipal do Atirador Desportivo |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 3/8 | Dia Municipal do Atirador Desportivo |
 
 ”.
 

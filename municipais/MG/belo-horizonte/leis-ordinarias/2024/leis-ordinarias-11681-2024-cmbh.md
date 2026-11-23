@@ -34,9 +34,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO II SEMANA COMEMORATIVA [...] E - Semanas comemorativas de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|semana que contenha o dia 30/5 |Semana de Conscientização sobre a Esclerose Múltipla |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| semana que contenha o dia 30/5 | Semana de Conscientização sobre a Esclerose Múltipla |
 
 .”.
 

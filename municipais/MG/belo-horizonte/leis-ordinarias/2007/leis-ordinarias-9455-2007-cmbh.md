@@ -30,43 +30,26 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **§ 1º** - Após a incorporação prevista no caput deste artigo, os vencimentos-base previstos na Tabela de vencimentos-base do Plano de Carreira da Área de Atividades de Engenharia e Arquitetura para os cargos públicos efetivos de Engenheiro e Arquiteto, cujos ocupantes exercerem a opção prevista no caput deste artigo, serão alterados para os seguintes valores:
 
-|NÍVEL |JORNADA DE |JORNADA DE |
-
-| |8 HORAS |6 HORAS |
-
-| |VENCIMENTO-BASE |VENCIMENTO-BASE |
-
-| |(EM R$) |(EM R$) |
-
-|1 |3.150,00 |2.160,00 |
-
-|2 |3.307,50 |2.268,00 |
-
-|3 |3.472,88 |2.381,40 |
-
-|4 |3.646,52 |2.500,47 |
-
-|5 |3.828,84 |2.625,49 |
-
-|6 |4.020,29 |2.756,77 |
-
-|7 |4.221,30 |2.894,61 |
-
-|8 |4.432,37 |3.039,34 |
-
-|9 |4.653,98 |3.191,30 |
-
-|10 |4.886,68 |3.350,87 |
-
-|11 |5.131,02 |3.518,41 |
-
-|12 |5.387,57 |3.694,33 |
-
-|13 |5.656,95 |3.879,05 |
-
-|14 |5.939,79 |4.073,00 |
-
-|15 |6.236,78 |4.276,65 |
+| NÍVEL | JORNADA DE | JORNADA DE |
+| --- | --- | --- |
+|  | 8 HORAS | 6 HORAS |
+|  | VENCIMENTO-BASE | VENCIMENTO-BASE |
+|  | (EM R$) | (EM R$) |
+| 1 | 3.150,00 | 2.160,00 |
+| 2 | 3.307,50 | 2.268,00 |
+| 3 | 3.472,88 | 2.381,40 |
+| 4 | 3.646,52 | 2.500,47 |
+| 5 | 3.828,84 | 2.625,49 |
+| 6 | 4.020,29 | 2.756,77 |
+| 7 | 4.221,30 | 2.894,61 |
+| 8 | 4.432,37 | 3.039,34 |
+| 9 | 4.653,98 | 3.191,30 |
+| 10 | 4.886,68 | 3.350,87 |
+| 11 | 5.131,02 | 3.518,41 |
+| 12 | 5.387,57 | 3.694,33 |
+| 13 | 5.656,95 | 3.879,05 |
+| 14 | 5.939,79 | 4.073,00 |
+| 15 | 6.236,78 | 4.276,65 |
 
 **§ 2º** - Aplica-se o disposto neste artigo aos servidores aposentados nos cargos públicos de Engenheiro e Arquiteto, integrantes do Plano de Carreira da Área de Atividades de Engenharia e Arquitetura, e aos pensionistas cujos benefícios previdenciários sejam oriundos desses cargos públicos, e que façam jus à paridade dos seus proventos e pensões com a remuneração atribuída ao cargo público efetivo do qual derive o benefício previdenciário respectivo, observada a condição de integralidade ou de proporcionalidade que lhes for atribuída por ocasião da concessão do benefício previdenciário inicial, em conformidade com o disposto no art. 40 da Constituição Federal.
 

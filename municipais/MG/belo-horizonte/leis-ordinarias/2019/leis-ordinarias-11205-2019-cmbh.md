@@ -366,15 +366,12 @@ ANEXO I
 
 Tabela de vencimentos e salários-base do cargo público de Advogado Público Autárquico
 
-|JORNADA DE 30 HORAS SEMANAIS – Valores em R$ |
-
-|NÍVEIS |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-|Analista de Políticas Públicas |1.043 |
+| JORNADA DE 30 HORAS SEMANAIS – Valores em R$ |  |
+| --- | --- |
+| NÍVEIS | 1 |
+|  | NÍVEL |
+|  | 1 |
+| Analista de Políticas Públicas | 1.043 |
 
 ADI nº 1.0000.20.510935-8/000 – Procedência do pedido – ANEXO II declarado inconstitucional.
 

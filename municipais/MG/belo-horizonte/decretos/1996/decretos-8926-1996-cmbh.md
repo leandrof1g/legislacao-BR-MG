@@ -302,30 +302,18 @@ ANEXO A QUE SE REFERE O DECRETO N° 8.926/96
 
 PARÂMETROS URBANÍSTICOS POR SUB-ÁREAS
 
-| |COEFICIENTE |TAXA DE |QUOTAS DE |GABARITO |ALTURA |AFASTAMENTO |
-
-| |DE APROVEITAMENTO |OCUPAÇÃO |TERRENO/ | |NAS |LATERAL OU |
-
-| | | |UNIDADE | |DIVISAS |FUNDOS |
-
-| | | |HABITACIONAL | | | |
-
-|SUBÁREA 1 | | |60m² |2 pavimentos e |6 m – |1,50 m quando h ≤ |
-
-| | | | |h máx =6 m |incluído o |6,00 m |
-
-|40m²²<A1<120m²² |1,6 |0,8 | | |muro | |
-
-| | | | | | | |
-
-|120m²≤A1≤240m² |1,2 |0,6 | | | | |
-
-|SUBÁREA 2 | | |40 m² |Térreo + 2 |6 m – |1,50 m quando h ≤ |
-
-| | | | |pavimentos e h |incluído o |6,00 m |
-
-|40 m²≤A1<120 |1,6 |08 | |máx = 9,00 m |muro | |
-
-| | | | | | |2,30 m quando 6 < h ≤|
-
-|120 m²≤A1≤240 m² |1,2 |06 | | | |9,00 m |
+|  | COEFICIENTE | TAXA DE | QUOTAS DE | GABARITO | ALTURA | AFASTAMENTO |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | DE APROVEITAMENTO | OCUPAÇÃO | TERRENO/ |  | NAS | LATERAL OU |
+|  |  |  | UNIDADE |  | DIVISAS | FUNDOS |
+|  |  |  | HABITACIONAL |  |  |  |
+| SUBÁREA 1 |  |  | 60m² | 2 pavimentos e | 6 m – | 1,50 m quando h ≤ |
+|  |  |  |  | h máx =6 m | incluído o | 6,00 m |
+| 40m²²<A1<120m²² | 1,6 | 0,8 |  |  | muro |  |
+|  |  |  |  |  |  |  |
+| 120m²≤A1≤240m² | 1,2 | 0,6 |  |  |  |  |
+| SUBÁREA 2 |  |  | 40 m² | Térreo + 2 | 6 m – | 1,50 m quando h ≤ |
+|  |  |  |  | pavimentos e h | incluído o | 6,00 m |
+| 40 m²≤A1<120 | 1,6 | 08 |  | máx = 9,00 m | muro |  |
+|  |  |  |  |  |  | 2,30 m quando 6 < h ≤ |
+| 120 m²≤A1≤240 m² | 1,2 | 06 |  |  |  | 9,00 m |

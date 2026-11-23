@@ -50,6 +50,5 @@ ANEXO
 
 Desenho de caricatura de mãos
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
-[pic]

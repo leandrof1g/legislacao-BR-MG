@@ -270,11 +270,10 @@ ANEXO I
 
 CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE ENGENHARIA E ARQUITETURA DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CARGOS/EMPREGOS |QUANTITATIVO |
-
-|Arquiteto |208 |
-
-|Engenheiro |415 |
+| CARGOS/EMPREGOS | QUANTITATIVO |
+| --- | --- |
+| Arquiteto | 208 |
+| Engenheiro | 415 |
 
 Anexo I com redação dada pela Lei nº 11.539, de 5/7/2023 (Art. 64, VI)
 
@@ -284,15 +283,12 @@ ANEXO I
 
 CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE ENGENHARIA E ARQUITETURA DA PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CARGOS/EMPREGOS |QUANTITATIVO |
-
-|Arquiteto |162 |
-
-|Engenheiro |249 |
-
-|Geógrafo |30 |
-
-|Geólogo |30 |
+| CARGOS/EMPREGOS | QUANTITATIVO |
+| --- | --- |
+| Arquiteto | 162 |
+| Engenheiro | 249 |
+| Geógrafo | 30 |
+| Geólogo | 30 |
 
 Anexo I com redação dada pela Lei nº 11.678, de 2/4/2024 (Art. 29)
 
@@ -422,155 +418,92 @@ ANEXO III A QUE SE REFERE A LEI Nº 7.971
 
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE ENGENHARIA E ARQUITETURA DA PREFEITURA MUNICIPAL DE BELO HORIZONTE COM JORNADA DE 8 HORAS
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO IV A QUE SE REFERE A LEI Nº 7.971
 
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE ENGENHARIA E ARQUITETURA DA PREFEITURA MUNICIPAL DE BELO HORIZONTE COM JORNADA DE 6 HORAS
 
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ANEXO III
 
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE ATIVIDADES DE ENGENHARIA E ARQUITETURA DA PREFEITURA MUNICIPAL DE BELO HORIZONTE COM JORNADA DE 8 HORAS
 
-|CARGOS |40 HORAS SEMANAIS |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-|Encarregado de Serviços |48,00 |
-
-|Auxiliar de Gabinete |48,00 |
-
-|Coordenador de Fiscalização |48,00 |
-
-|Oficial Gabinete Prefeito |48,00 |
-
-|Supervisor de Segurança |48,00 |
-
-|Assistente |78,00 |
-
-|Chefe de Setor |78,00 |
-
-|Secretário Geral Junta Julgamento Fiscal |78,00 |
-
-|Supervisor de Alimentação Escolar |78,00 |
-
-|Assessor I |78,00 |
-
-|Chefe de Seção |78,00 |
-
-|Secretário Junta Recursos Fiscais |78,00 |
-
-|Secretário de Estabelecimento de Ensino "A" |78,00 |
-
-|Secretário de Estabelecimento de Ensino "B" |78,00 |
-
-|Secretário de Estabelecimento de Ensino "C" |78,00 |
-
-|Vice-Diretor de Estabelecimento de Ensino "A" |130,00 |
-
-|Assessor II |130,00 |
-
-|Assessor Jurídico |130,00 |
-
-|Chefe de Serviço |130,00 |
-
-|Assessor III |150,00 |
-
-|Chefe de Gabinete Secretário |150,00 |
-
-|Coordenador Direitos Humanos e Cidadania |150,00 |
-
-|Coordenador Pol. Remuneração Rel. Trabalho |150,00 |
-
-|Coordenador Proteção Defesa Consumidor |150,00 |
-
-|Diretor de Departamento |150,00 |
-
-|Presidente Junta Julgamento Fiscal |150,00 |
-
-|Gerente de Centros de Saúde |150,00 |
-
-|Gerente de Unidades de Referência Distrital ou Municipal |150,00 |
-
-|Gerente de Centros de Referência Secundária e de Urgência |150,00 |
-
-|Gerente de Unidade de Apoio Comunitário |150,00 |
-
-|Diretor de Estabelecimento de Ensino "A" |150,00 |
-
-|Vice-Diretor de Estabelecimento de Ensino "B" |150,00 |
-
-|Coordenador de Centro de Educação Infantil |150,00 |
-
-|Coordenador de Oficina Pública Profissionalizante |150,00 |
-
-|Diretor de Estabelecimento de Ensino "B" |150,00 |
-
-|Vice-Diretor de Estabelecimento de Ensino "C" |150,00 |
-
-|Diretor de Estabelecimento de Ensino "C" |150,00 |
-
-|Auditor I, II, III |65,00 |
-
-|Procurador Fiscal I, II, III |65,00 |
-
-|Procurador Municipal I, II, III |65,00 |
-
-|Engenheiro I, II, III |65,00 |
-
-|Arquiteto I, II, III |65,00 |
+| CARGOS | 40 HORAS SEMANAIS |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+| Encarregado de Serviços | 48,00 |
+| Auxiliar de Gabinete | 48,00 |
+| Coordenador de Fiscalização | 48,00 |
+| Oficial Gabinete Prefeito | 48,00 |
+| Supervisor de Segurança | 48,00 |
+| Assistente | 78,00 |
+| Chefe de Setor | 78,00 |
+| Secretário Geral Junta Julgamento Fiscal | 78,00 |
+| Supervisor de Alimentação Escolar | 78,00 |
+| Assessor I | 78,00 |
+| Chefe de Seção | 78,00 |
+| Secretário Junta Recursos Fiscais | 78,00 |
+| Secretário de Estabelecimento de Ensino "A" | 78,00 |
+| Secretário de Estabelecimento de Ensino "B" | 78,00 |
+| Secretário de Estabelecimento de Ensino "C" | 78,00 |
+| Vice-Diretor de Estabelecimento de Ensino "A" | 130,00 |
+| Assessor II | 130,00 |
+| Assessor Jurídico | 130,00 |
+| Chefe de Serviço | 130,00 |
+| Assessor III | 150,00 |
+| Chefe de Gabinete Secretário | 150,00 |
+| Coordenador Direitos Humanos e Cidadania | 150,00 |
+| Coordenador Pol. Remuneração Rel. Trabalho | 150,00 |
+| Coordenador Proteção Defesa Consumidor | 150,00 |
+| Diretor de Departamento | 150,00 |
+| Presidente Junta Julgamento Fiscal | 150,00 |
+| Gerente de Centros de Saúde | 150,00 |
+| Gerente de Unidades de Referência Distrital ou Municipal | 150,00 |
+| Gerente de Centros de Referência Secundária e de Urgência | 150,00 |
+| Gerente de Unidade de Apoio Comunitário | 150,00 |
+| Diretor de Estabelecimento de Ensino "A" | 150,00 |
+| Vice-Diretor de Estabelecimento de Ensino "B" | 150,00 |
+| Coordenador de Centro de Educação Infantil | 150,00 |
+| Coordenador de Oficina Pública Profissionalizante | 150,00 |
+| Diretor de Estabelecimento de Ensino "B" | 150,00 |
+| Vice-Diretor de Estabelecimento de Ensino "C" | 150,00 |
+| Diretor de Estabelecimento de Ensino "C" | 150,00 |
+| Auditor I, II, III | 65,00 |
+| Procurador Fiscal I, II, III | 65,00 |
+| Procurador Municipal I, II, III | 65,00 |
+| Engenheiro I, II, III | 65,00 |
+| Arquiteto I, II, III | 65,00 |
 
 BEPREM
 
-|CARGOS |VALOR DO ABONO |
-
-|Encarregado de Serviços |48,00 |
-
-|Coordenador de Turno |78,00 |
-
-|Secretária |78,00 |
-
-|Chefe de Seção |78,00 |
-
-|Coordenador Informações Tec. Mod. Administrativa |130,00 |
-
-|Administrador |150,00 |
-
-|Chefe de Gabinete |150,00 |
-
-|Gerente |150,00 |
+| CARGOS | VALOR DO ABONO |
+| --- | --- |
+| Encarregado de Serviços | 48,00 |
+| Coordenador de Turno | 78,00 |
+| Secretária | 78,00 |
+| Chefe de Seção | 78,00 |
+| Coordenador Informações Tec. Mod. Administrativa | 130,00 |
+| Administrador | 150,00 |
+| Chefe de Gabinete | 150,00 |
+| Gerente | 150,00 |
 
 FUNDAÇÃO ZOOBOTÂNICA
 
-|CARGOS |VALOR DO ABONO |
-
-|Encarregado de Serviços |48,00 |
-
-|Chefe de Setor |78,00 |
-
-|Chefe de Seção |78,00 |
-
-|Assessor I |78,00 |
-
-|Assistente |78,00 |
-
-|Chefe de Serviço |130,00 |
-
-|Assessor II |130,00 |
-
-|Assessor III |150,00 |
+| CARGOS | VALOR DO ABONO |
+| --- | --- |
+| Encarregado de Serviços | 48,00 |
+| Chefe de Setor | 78,00 |
+| Chefe de Seção | 78,00 |
+| Assessor I | 78,00 |
+| Assistente | 78,00 |
+| Chefe de Serviço | 130,00 |
+| Assessor II | 130,00 |
+| Assessor III | 150,00 |
 
 Anexo VI retificado em 02/06/2000
 
@@ -580,17 +513,13 @@ ANEXO VII
 
 Tabela de vencimentos dos cargos de Geógrafo e de Geólogo
 
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
+|  | 1 |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
 
 |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 | |GEÓLOGO/ GEÓGRAFO |10.302,00 |10.817,10 |11.357,96 |11.925,85 |12.522,15 |13.148,25 |13.805,67 |14.495,95 |15.220,75 |15.981,78 |16.780,87 |17.619,92 |18.500,91 |19.425,96 |20.397,26 |21.417,12 | |Anexo VII com redação dada pela Lei nº 11.914, de 30/10/2025 (Art. 16 com redação dada pelo art. 124)
 

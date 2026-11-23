@@ -64,67 +64,42 @@ ANEXO I
 
 Grupo I – Parque Municipal das Mangabeiras e Serra do Curral, para eventos acima de 50 pessoas:
 
-|Parque |Descrição |Unid |Total (R$) |
-
-|Parque Municipal das Mangabeiras |Perola Redonda, Perola Quadrada, Teatro de |Hora |R$ 331,00 |
-
-| |Arena, Teatro de Gramado (Recepções, | | |
-
-| |formaturas). | | |
-
-| |Ilhas do Passatempo |Hora |R$ 35,00 |
-
-| |Palco da Seresta e CEAM |Hora |R$ 172,00 |
-
-| |Praça de Eventos |Dia |R$ 8.307,00 |
-
-| |Platô Superior do Estacionamento Sul |Hora |R$ 2.830,00 |
-
-| |Mirante Mangabeiras |Hora |R$ 417,00 |
-
-|Parque da Serra do Curral |Praça Carlos Drumont |Hora |R$ 300,00 |
-
-| |Mirante 3 |Hora |R$ 330,00 |
+| Parque | Descrição | Unid | Total (R$) |
+| --- | --- | --- | --- |
+| Parque Municipal das Mangabeiras | Perola Redonda, Perola Quadrada, Teatro de | Hora | R$ 331,00 |
+|  | Arena, Teatro de Gramado (Recepções, |  |  |
+|  | formaturas). |  |  |
+|  | Ilhas do Passatempo | Hora | R$ 35,00 |
+|  | Palco da Seresta e CEAM | Hora | R$ 172,00 |
+|  | Praça de Eventos | Dia | R$ 8.307,00 |
+|  | Platô Superior do Estacionamento Sul | Hora | R$ 2.830,00 |
+|  | Mirante Mangabeiras | Hora | R$ 417,00 |
+| Parque da Serra do Curral | Praça Carlos Drumont | Hora | R$ 300,00 |
+|  | Mirante 3 | Hora | R$ 330,00 |
 
 Nota: Em eventos de médio e grande porte o período de montagem e desmontagem de estrutura será cobrado na mesma proporção do preço público estabelecido para duração do evento.
 
 Grupo II- Demais Unidades da Fundação de Parques, para eventos acima de 50 pessoas:
 
-|Parque Municipal |Valor |
-
-|Parque Municipal Juscelino Kubitscheck |R$1,00 por m² por hora de evento |
-
-|Parque Jacques Cousteau |R$0,50 por m² por hora de evento |
-
-|Parque Aggeo Pio Sobrinho |R$0,50 por m² por hora de evento |
-
-|Parque Rosinha Cadar |R$1,00 por m² por hora de evento |
-
-|Parque Mosteiro Tom Jobim |R$1,00 por m² por hora de evento |
-
-|Parque Professor Amílcar Viana Martins |R$0,50 por m² por hora de evento |
-
-|Parque Jornalista Eduardo Couri |R$1,00 por m² por hora de evento |
-
-|Parque Julien Rien |R$1,00 por m² por hora de evento |
-
-|Parque Municipal Fazenda Lagoa do Nado |R$0,50 por m² por hora de evento |
-
-|Parque Ecológico e de Lazer do Bairro Caiçara |R$0,50 por m² por hora de evento |
-
-|Parque Ecológico Renato Azeredo |R$0,50 por m² por hora de evento |
-
-|Parque Professor Marcos Mazzoni |R$0,50 por m² por hora de evento |
-
-|Parque Cássia Eller |R$0,50 por m² por hora de evento |
-
-|Parque Municipal Ursulina de Andrade Mello |R$0,50 por m² por hora de evento |
-
-|Parque Ecológico Vencesli Firmino da Silva |R$0,50 por m² por hora de evento |
-
-|Parque Professor Guilherme Lage |R$0,50 por m² por hora de evento |
-
-|Demais parques |R$0,40 por m² por hora de evento |
+| Parque Municipal | Valor |
+| --- | --- |
+| Parque Municipal Juscelino Kubitscheck | R$1,00 por m² por hora de evento |
+| Parque Jacques Cousteau | R$0,50 por m² por hora de evento |
+| Parque Aggeo Pio Sobrinho | R$0,50 por m² por hora de evento |
+| Parque Rosinha Cadar | R$1,00 por m² por hora de evento |
+| Parque Mosteiro Tom Jobim | R$1,00 por m² por hora de evento |
+| Parque Professor Amílcar Viana Martins | R$0,50 por m² por hora de evento |
+| Parque Jornalista Eduardo Couri | R$1,00 por m² por hora de evento |
+| Parque Julien Rien | R$1,00 por m² por hora de evento |
+| Parque Municipal Fazenda Lagoa do Nado | R$0,50 por m² por hora de evento |
+| Parque Ecológico e de Lazer do Bairro Caiçara | R$0,50 por m² por hora de evento |
+| Parque Ecológico Renato Azeredo | R$0,50 por m² por hora de evento |
+| Parque Professor Marcos Mazzoni | R$0,50 por m² por hora de evento |
+| Parque Cássia Eller | R$0,50 por m² por hora de evento |
+| Parque Municipal Ursulina de Andrade Mello | R$0,50 por m² por hora de evento |
+| Parque Ecológico Vencesli Firmino da Silva | R$0,50 por m² por hora de evento |
+| Parque Professor Guilherme Lage | R$0,50 por m² por hora de evento |
+| Demais parques | R$0,40 por m² por hora de evento |
 
 Nota: Em eventos de médio e grande porte o período de montagem e desmontagem de estrutura será cobrado na mesma proporção do preço público estabelecido para duração do evento.
 
@@ -134,36 +109,24 @@ ANEXO II
 
 Grupo I – Parque das Mangabeiras
 
-|Ingresso de Veículos |
-
-|Automóvel |Unidade/Dia |R$ 3,20 |
-
-|Motocicleta |Unidade/Dia |R$ 1,85 |
-
-|Ônibus de Turismo e demais veículos |Unidade/Dia |R$ 10,00 |
-
-|Diversos |
-
-|Ração para peixe |Pacote |R$ 2,10 |
-
-|Fornecimento de peteca |Hora |R$ 18,00 |
-
-|Fornecimento de bola de futebol de salão, handebol e basquete |Hora |R$ 5,00 |
-
-|Serviço de Transporte interno |Pessoa |R$ 2,00 |
-
-|Quadra Peteca |Hora |R$ 11,00 |
-
-|Quadra Poliesportiva |Hora |R$ 19,00 |
-
-|Quadra de Tênis |Hora |R$ 30,00 |
-
-|Sala de Multimeios (Cursos, exposições e Congêneres, etc.). |Hora |R$ 67,00 |
+| Ingresso de Veículos |  |  |
+| --- | --- | --- |
+| Automóvel | Unidade/Dia | R$ 3,20 |
+| Motocicleta | Unidade/Dia | R$ 1,85 |
+| Ônibus de Turismo e demais veículos | Unidade/Dia | R$ 10,00 |
+| Diversos |  |  |
+| Ração para peixe | Pacote | R$ 2,10 |
+| Fornecimento de peteca | Hora | R$ 18,00 |
+| Fornecimento de bola de futebol de salão, handebol e basquete | Hora | R$ 5,00 |
+| Serviço de Transporte interno | Pessoa | R$ 2,00 |
+| Quadra Peteca | Hora | R$ 11,00 |
+| Quadra Poliesportiva | Hora | R$ 19,00 |
+| Quadra de Tênis | Hora | R$ 30,00 |
+| Sala de Multimeios (Cursos, exposições e Congêneres, etc.). | Hora | R$ 67,00 |
 
 Grupo II – Todos os Parques
 
-|Produção de Qualidade Material Foto Cinematográfico com Finalidade Comercial |
-
-|De 2º a 6º feira, das 08:00 às 18:00h |Dia |R$ 29,00 |
-
-|Sábado, das 08:00 às 18:00h |Dia |R$ 38,00 |
+| Produção de Qualidade Material Foto Cinematográfico com Finalidade Comercial |  |  |
+| --- | --- | --- |
+| De 2º a 6º feira, das 08:00 às 18:00h | Dia | R$ 29,00 |
+| Sábado, das 08:00 às 18:00h | Dia | R$ 38,00 |

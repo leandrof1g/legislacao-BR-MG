@@ -36,9 +36,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO III MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|julho |Julho Neon - Mês de Conscientização sobre a Saúde Bucal |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| julho | Julho Neon - Mês de Conscientização sobre a Saúde Bucal |
 
 .”.
 

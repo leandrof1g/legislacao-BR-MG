@@ -72,21 +72,15 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **§ 6º** - Os empregados públicos optantes por este Plano de Carreira na forma do § 2º do art. 2º desta Lei serão posicionados, observado o grau de escolaridade exigido para o seu emprego público, nos seguintes níveis de salários-base da Tabela do Anexo III desta Lei:
 
-| | |
-
-|Grau de escolaridade exigido para o |Nível de salário-base no qual será |
-
-|provimento do emprego público |posicionado o empregado público optante|
-
-| |por este Plano de Carreira na Tabela de|
-
-| |Salários-Base do Anexo III |
-
-|Fundamental |Nível 2 |
-
-|Médio |Nível 6 |
-
-|Superior |Nível 2 |
+|  |  |
+| --- | --- |
+| Grau de escolaridade exigido para o | Nível de salário-base no qual será |
+| provimento do emprego público | posicionado o empregado público optante |
+|  | por este Plano de Carreira na Tabela de |
+|  | Salários-Base do Anexo III |
+| Fundamental | Nível 2 |
+| Médio | Nível 6 |
+| Superior | Nível 2 |
 
 **§ 7º** - Os empregados públicos efetivos, admitidos nos empregos públicos efetivos integrantes da estrutura funcional da SUDECAP após a publicação desta Lei, serão posicionados no nível 1 da Tabela de Salários-Base do Anexo III.
 
@@ -384,31 +378,23 @@ III - R$600,000 (seiscentos reais), para o Coordenador de NEPE classificado como
 
 I - emprego público cuja escolaridade seja a de nível Fundamental ou Médio:
 
-|NEPE |Valor da Gratificação |
-
-|(classificação conforme incisos do § 8º |(em R$) |
-
-|deste artigo) | |
-
-|I |R$240,00 |
-
-|II |R$205,00 |
-
-|III |R$171,00 |
+| NEPE | Valor da Gratificação |
+| --- | --- |
+| (classificação conforme incisos do § 8º | (em R$) |
+| deste artigo) |  |
+| I | R$240,00 |
+| II | R$205,00 |
+| III | R$171,00 |
 
 II - emprego público cuja escolaridade seja a de nível Superior:
 
-|NEPE |Valor da Gratificação |
-
-|(classificação conforme incisos do § 8º |(em R$) |
-
-|deste artigo) | |
-
-|I |R$360,00 |
-
-|II |R$308,00 |
-
-|III |R$257,00 |
+| NEPE | Valor da Gratificação |
+| --- | --- |
+| (classificação conforme incisos do § 8º | (em R$) |
+| deste artigo) |  |
+| I | R$360,00 |
+| II | R$308,00 |
+| III | R$257,00 |
 
 **§ 10** - As vantagens remuneratórias pagas em decorrência do disposto neste artigo não se incorporam às remunerações dos empregados públicos efetivos da SUDECAP, em qualquer hipótese, exceto para fins de desconto de imposto de renda e contribuição previdenciária, e não servirão como base de cálculo de outras vantagens, salvo, neste último caso, a sua incidência para fins de férias e do respectivo terço constitucional, bem como da gratificação natalina.
 
@@ -472,165 +458,90 @@ ANEXO I
 
 A - EMPREGOS PÚBLICOS EFETIVOS DA SUDECAP / NÚMERO DE VAGAS
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Auxiliar de Apoio Operacional |104 |
-
-|Oficial de Serviços |73 |
-
-|Auxiliar Administrativo |19 |
-
-|Agente de Operações e Controle |51 |
-
-|Agente de Apoio Administrativo |65 |
-
-|Agente de Apoio Técnico |1 |
-
-|Auxiliar de Saúde |2 |
-
-|Telefonista |2 |
-
-|Motorista |72 |
-
-|Assistente Técnico |81 |
-
-|Assistente Administrativo |76 |
-
-| |96 |
-
-| |Número com redação dada pela Lei nº |
-
-| |10.252, de 12/9/2011 (Art. 21) |
-
-|Engenheiro |173 |
-
-| |218 |
-
-| |Número com redação dada pela Lei nº |
-
-| |10.252, de 12/9/2011 (Art. 21) |
-
-|Arquiteto |53 |
-
-| |63 |
-
-| |Número com redação dada pela Lei nº |
-
-| |10.252, de 12/9/2011 (Art. 21) |
-
-|Advogado |26 |
-
-| |36 |
-
-| |Número com redação dada pela Lei nº |
-
-| |10.252, de 12/9/2011 (Art. 21) |
-
-|Técnico de Nível Superior |56 |
-
-| |66 |
-
-| |Número com redação dada pela Lei nº |
-
-| |10.252, de 12/9/2011 (Art. 21) |
-
-|Médico do Trabalho |1 |
-
-|Cirurgião-Dentista |1 |
-
-|TOTAL |856 |
-
-| |951 |
-
-| |Número com redação dada pela Lei nº |
-
-| |10.252, de 12/9/2011 (Art. 21) |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Auxiliar de Apoio Operacional | 104 |
+| Oficial de Serviços | 73 |
+| Auxiliar Administrativo | 19 |
+| Agente de Operações e Controle | 51 |
+| Agente de Apoio Administrativo | 65 |
+| Agente de Apoio Técnico | 1 |
+| Auxiliar de Saúde | 2 |
+| Telefonista | 2 |
+| Motorista | 72 |
+| Assistente Técnico | 81 |
+| Assistente Administrativo | 76 |
+|  | 96 |
+|  | Número com redação dada pela Lei nº |
+|  | 10.252, de 12/9/2011 (Art. 21) |
+| Engenheiro | 173 |
+|  | 218 |
+|  | Número com redação dada pela Lei nº |
+|  | 10.252, de 12/9/2011 (Art. 21) |
+| Arquiteto | 53 |
+|  | 63 |
+|  | Número com redação dada pela Lei nº |
+|  | 10.252, de 12/9/2011 (Art. 21) |
+| Advogado | 26 |
+|  | 36 |
+|  | Número com redação dada pela Lei nº |
+|  | 10.252, de 12/9/2011 (Art. 21) |
+| Técnico de Nível Superior | 56 |
+|  | 66 |
+|  | Número com redação dada pela Lei nº |
+|  | 10.252, de 12/9/2011 (Art. 21) |
+| Médico do Trabalho | 1 |
+| Cirurgião-Dentista | 1 |
+| TOTAL | 856 |
+|  | 951 |
+|  | Número com redação dada pela Lei nº |
+|  | 10.252, de 12/9/2011 (Art. 21) |
 
 B - POSICIONAMENTO DOS EMPREGOS PÚBLICOS EFETIVOS DA ESTRUTURA FUNCIONAL DA SUDECAP NA DATA DA PUBLICAÇÃO DESTA LEI CUJOS TITULARES OPTEM POR ESTE PLANO DE CARREIRA
 
-|EMPREGO PÚBLICO EFETIVO ATUAL |EMPREGO PÚBLICO PROPOSTO |
-
-|Auxiliar de Serviços |Auxiliar de Apoio Operacional / em Extinção|
-
-|Operador de Rádio |Extinto |
-
-|Oficial de Serviços |Oficial de Serviços / em Extinção |
-
-|Operador de Máquinas | |
-
-|Motociclista | |
-
-|Mecânico de Veículos | |
-
-|Mecânico de Máquinas | |
-
-|Soldador |Extinto |
-
-|Torneiro Mecânico |Extinto |
-
-|Auxiliar de Administração |Auxiliar Administrativo / em Extinção |
-
-|Auxiliar de Saúde |Auxiliar de Saúde / em Extinção |
-
-|Telefonista |Telefonista / Em Extinção |
-
-|Encarregado de Serviços |Agente de Operações e Controle/ em Extinção|
-
-|Agente de Administração |Agente de Apoio Administrativo / em |
-
-| |Extinção |
-
-|Desenhista - Nível Fundamental |Agente de Apoio Técnico / em Extinção |
-
-|Motorista |Motorista / em Extinção |
-
-|Motorista de Veículos Pesados | |
-
-|Desenhista - Nível Médio |Assistente Técnico |
-
-|Técnico de Contabilidade | |
-
-|Técnico de Estradas | |
-
-|Técnico de Edificações | |
-
-|Técnico de Laboratório | |
-
-|Supervisor de Segurança do Trabalho | |
-
-|Topógrafo | |
-
-|Assistente Técnico | |
-
-|Auxiliar Técnico | |
-
-|Assistente de Administração |Assistente Administrativo |
-
-|Engenheiro |Engenheiro |
-
-|Arquiteto |Arquiteto |
-
-|Advogado |Advogado |
-
-|Administrador |Técnico de Nível Superior |
-
-|Bibliotecário | |
-
-|Contador | |
-
-|Economista | |
-
-|Psicólogo | |
-
-|Sociólogo | |
-
-|Geólogo | |
-
-|Técnico de Comunicação Social | |
-
-|Médico do Trabalho |Médico do Trabalho |
-
-|Cirurgião-Dentista |Cirurgião-Dentista / em Extinção |
+| EMPREGO PÚBLICO EFETIVO ATUAL | EMPREGO PÚBLICO PROPOSTO |
+| --- | --- |
+| Auxiliar de Serviços | Auxiliar de Apoio Operacional / em Extinção |
+| Operador de Rádio | Extinto |
+| Oficial de Serviços | Oficial de Serviços / em Extinção |
+| Operador de Máquinas |  |
+| Motociclista |  |
+| Mecânico de Veículos |  |
+| Mecânico de Máquinas |  |
+| Soldador | Extinto |
+| Torneiro Mecânico | Extinto |
+| Auxiliar de Administração | Auxiliar Administrativo / em Extinção |
+| Auxiliar de Saúde | Auxiliar de Saúde / em Extinção |
+| Telefonista | Telefonista / Em Extinção |
+| Encarregado de Serviços | Agente de Operações e Controle/ em Extinção |
+| Agente de Administração | Agente de Apoio Administrativo / em |
+|  | Extinção |
+| Desenhista - Nível Fundamental | Agente de Apoio Técnico / em Extinção |
+| Motorista | Motorista / em Extinção |
+| Motorista de Veículos Pesados |  |
+| Desenhista - Nível Médio | Assistente Técnico |
+| Técnico de Contabilidade |  |
+| Técnico de Estradas |  |
+| Técnico de Edificações |  |
+| Técnico de Laboratório |  |
+| Supervisor de Segurança do Trabalho |  |
+| Topógrafo |  |
+| Assistente Técnico |  |
+| Auxiliar Técnico |  |
+| Assistente de Administração | Assistente Administrativo |
+| Engenheiro | Engenheiro |
+| Arquiteto | Arquiteto |
+| Advogado | Advogado |
+| Administrador | Técnico de Nível Superior |
+| Bibliotecário |  |
+| Contador |  |
+| Economista |  |
+| Psicólogo |  |
+| Sociólogo |  |
+| Geólogo |  |
+| Técnico de Comunicação Social |  |
+| Médico do Trabalho | Médico do Trabalho |
+| Cirurgião-Dentista | Cirurgião-Dentista / em Extinção |
 
 ANEXO I
 
@@ -638,79 +549,48 @@ Anexo I com redação dada pela Lei nº 11.224, de 19/3/2020 (Art. 27)
 
 A - EMPREGOS PÚBLICOS EFETIVOS DA SUDECAP / NÚMERO DE VAGAS
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Auxiliar de Apoio Operacional |104 |
-
-|Oficial de Serviços |73 |
-
-|Auxiliar Administrativo |19 |
-
-|Agente de Operações e Controle |51 |
-
-|Agente de Apoio Administrativo |65 |
-
-|Agente de Apoio Técnico |1 |
-
-|Auxiliar de Saúde |2 |
-
-|Telefonista |2 |
-
-|Motorista |72 |
-
-|Assistente Técnico |81 |
-
-|Assistente Administrativo |96 |
-
-|Engenheiro |220 |
-
-|Arquiteto |63 |
-
-|Advogado Público Autárquico |36 |
-
-|Técnico de Nível Superior |64 |
-
-|Médico do Trabalho |1 |
-
-|Cirurgião-Dentista |1 |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Auxiliar de Apoio Operacional | 104 |
+| Oficial de Serviços | 73 |
+| Auxiliar Administrativo | 19 |
+| Agente de Operações e Controle | 51 |
+| Agente de Apoio Administrativo | 65 |
+| Agente de Apoio Técnico | 1 |
+| Auxiliar de Saúde | 2 |
+| Telefonista | 2 |
+| Motorista | 72 |
+| Assistente Técnico | 81 |
+| Assistente Administrativo | 96 |
+| Engenheiro | 220 |
+| Arquiteto | 63 |
+| Advogado Público Autárquico | 36 |
+| Técnico de Nível Superior | 64 |
+| Médico do Trabalho | 1 |
+| Cirurgião-Dentista | 1 |
 
 ANEXO I
 
 A - EMPREGOS PÚBLICOS EFETIVOS DA SUDECAP / NÚMERO DE VAGAS
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Auxiliar de Apoio Operacional |104 |
-
-|Oficial de Serviços |73 |
-
-|Auxiliar Administrativo |19 |
-
-|Agente de Operações e Controle |51 |
-
-|Agente de Apoio Administrativo |65 |
-
-|Agente de Apoio Técnico |1 |
-
-|Auxiliar de Saúde |2 |
-
-|Telefonista |2 |
-
-|Motorista |72 |
-
-|Assistente Técnico |81 |
-
-|Engenheiro |220 |
-
-|Arquiteto |63 |
-
-|Advogado Público Autárquico |36 |
-
-|Técnico de Nível Superior |64 |
-
-|Médico do Trabalho |1 |
-
-|Cirurgião-Dentista |1 |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Auxiliar de Apoio Operacional | 104 |
+| Oficial de Serviços | 73 |
+| Auxiliar Administrativo | 19 |
+| Agente de Operações e Controle | 51 |
+| Agente de Apoio Administrativo | 65 |
+| Agente de Apoio Técnico | 1 |
+| Auxiliar de Saúde | 2 |
+| Telefonista | 2 |
+| Motorista | 72 |
+| Assistente Técnico | 81 |
+| Engenheiro | 220 |
+| Arquiteto | 63 |
+| Advogado Público Autárquico | 36 |
+| Técnico de Nível Superior | 64 |
+| Médico do Trabalho | 1 |
+| Cirurgião-Dentista | 1 |
 
 Anexo I com redação dada pela Lei nº 11.376, de 4/7/2022 (Art. 25, V)
 
@@ -718,41 +598,25 @@ ANEXO I
 
 A - EMPREGOS PÚBLICOS EFETIVOS DA SUDECAP/NÚMERO DE VAGAS:
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Auxiliar de Apoio Operacional |104 |
-
-|Oficial de Serviços |73 |
-
-|Auxiliar Administrativo |19 |
-
-|Agente de Operações e Controle |51 |
-
-|Agente de Apoio Administrativo |65 |
-
-|Agente de Apoio Técnico |1 |
-
-|Auxiliar de Saúde |2 |
-
-|Telefonista |2 |
-
-|Motorista |72 |
-
-|Assistente Técnico |81 |
-
-|Cirurgião-Dentista |1 |
-
-|Engenheiro |121 |
-
-|Acrescentado pela Lei nº 11.678, de 2/4/2024 (Art. 36) |Acrescentado pela Lei nº 11.678, de |
-
-| |2/4/2024 (Art. 36) |
-
-|Arquiteto |41 |
-
-|Acrescentado pela Lei nº 11.678, de 2/4/2024 (Art. 36) |Acrescentado pela Lei nº 11.678, de |
-
-| |2/4/2024 (Art. 36) |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Auxiliar de Apoio Operacional | 104 |
+| Oficial de Serviços | 73 |
+| Auxiliar Administrativo | 19 |
+| Agente de Operações e Controle | 51 |
+| Agente de Apoio Administrativo | 65 |
+| Agente de Apoio Técnico | 1 |
+| Auxiliar de Saúde | 2 |
+| Telefonista | 2 |
+| Motorista | 72 |
+| Assistente Técnico | 81 |
+| Cirurgião-Dentista | 1 |
+| Engenheiro | 121 |
+| Acrescentado pela Lei nº 11.678, de 2/4/2024 (Art. 36) | Acrescentado pela Lei nº 11.678, de |
+|  | 2/4/2024 (Art. 36) |
+| Arquiteto | 41 |
+| Acrescentado pela Lei nº 11.678, de 2/4/2024 (Art. 36) | Acrescentado pela Lei nº 11.678, de |
+|  | 2/4/2024 (Art. 36) |
 
 Tabela A com redação dada pela Lei nº 11.539, de 5/7/2023 (Art. 64, V)
 
@@ -1072,71 +936,40 @@ A - TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS EFETIVOS DE AUXILIAR ADMINIS
 
 JORNADA DE 40 HORAS SEMANAIS (VALORES EM R$)
 
-| | | | | | |ARQUITETO | | | |
-
-|NÍVEL |AUXILIAR |AGENTE DE APOIO |AGENTE DE APOIO|ASSISTENTE |ASSISTENTE | |ENGENHEIRO |ADVOGADO |TÉCNICO NÍVEL |
-
-| |ADMINISTRATIVO |ADMINISTRATIVO |TÉCNICO |TÉCNICO |ADMINISTRATIVO | | | |SUPERIOR |
-
-| | | | | | | | | | |
-
-|1 |680,00 |800,00 |800,00 |950,00 |950,00 |3.000,00 |3.000,00 |3.000,00 |3.000,00 |
-
-| | | | | | | | | | |
-
-|2 |714,00 |840,00 |840,00 |997,50 |997,50 |3.150,00 |3.150,00 |3.150,00 |3.150,00 |
-
-| | | | | | | | | | |
-
-|3 |749,70 |882,00 |882,00 |1.047,38 |1.047,38 |3.307,50 |3.307,50 |3.307,50 |3.307,50 |
-
-| | | | | | | | | | |
-
-|4 |787,19 |926,10 |926,10 |1.099,74 |1.099,74 |3.472,88 |3.472,88 |3.472,88 |3.472,88 |
-
-| | | | | | | | | | |
-
-|5 |826,54 |972,41 |972,41 |1.154,73 |1.154,73 |3.646,52 |3.646,52 |3.646,52 |3.646,52 |
-
-| | | | | | | | | | |
-
-|6 |867,87 |1.021,03 |1.021,03 |1.212,47 |1.212,47 |3.828,84 |3.828,84 |3.828,84 |3.828,84 |
-
-| | | | | | | | | | |
-
-|7 |911,27 |1.072,08 |1.072,08 |1.273,09 |1.273,09 |4.020,29 |4.020,29 |4.020,29 |4.020,29 |
-
-| | | | | | | | | | |
-
-|8 |956,83 |1.125,68 |1.125,68 |1.336,75 |1.336,75 |4.221,30 |4.221,30 |4.221,30 |4.221,30 |
-
-| | | | | | | | | | |
-
-|9 |1.004,67 |1.181,96 |1.181,96 |1.403,58 |1.403,58 |4.432,37 |4.432,37 |4.432,37 |4.432,37 |
-
-| | | | | | | | | | |
-
-|10 |1.054,90 |1.241,06 |1.241,06 |1.473,76 |1.473,76 |4.653,98 |4.653,98 |4.653,98 |4.653,98 |
-
-| | | | | | | | | | |
-
-|11 |1.107,65 |1.303,12 |1.303,12 |1.547,45 |1.547,45 |4.886,68 |4.886,68 |4.886,68 |4.886,68 |
-
-| | | | | | | | | | |
-
-|12 |1.163,03 |1.368,27 |1.368,27 |1.624,82 |1.624,82 |5.131,02 |5.131,02 |5.131,02 |5.131,02 |
-
-| | | | | | | | | | |
-
-|13 |1.221,18 |1.436,69 |1.436,69 |1.706,06 |1.706,06 |5.387,57 |5.387,57 |5.387,57 |5.387,57 |
-
-| | | | | | | | | | |
-
-|14 |1.282,24 |1.508,52 |1.508,52 |1.791,37 |1.791,37 |5.656,95 |5.656,95 |5.656,95 |5.656,95 |
-
-| | | | | | | | | | |
-
-|15 |1.346,35 |1.583,95 |1.583,95 |1.880,94 |1.880,94 |5.939,79 |5.939,79 |5.939,79 |5.939,79 |
+|  |  |  |  |  |  | ARQUITETO |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| NÍVEL | AUXILIAR | AGENTE DE APOIO | AGENTE DE APOIO | ASSISTENTE | ASSISTENTE |  | ENGENHEIRO | ADVOGADO | TÉCNICO NÍVEL |
+|  | ADMINISTRATIVO | ADMINISTRATIVO | TÉCNICO | TÉCNICO | ADMINISTRATIVO |  |  |  | SUPERIOR |
+|  |  |  |  |  |  |  |  |  |  |
+| 1 | 680,00 | 800,00 | 800,00 | 950,00 | 950,00 | 3.000,00 | 3.000,00 | 3.000,00 | 3.000,00 |
+|  |  |  |  |  |  |  |  |  |  |
+| 2 | 714,00 | 840,00 | 840,00 | 997,50 | 997,50 | 3.150,00 | 3.150,00 | 3.150,00 | 3.150,00 |
+|  |  |  |  |  |  |  |  |  |  |
+| 3 | 749,70 | 882,00 | 882,00 | 1.047,38 | 1.047,38 | 3.307,50 | 3.307,50 | 3.307,50 | 3.307,50 |
+|  |  |  |  |  |  |  |  |  |  |
+| 4 | 787,19 | 926,10 | 926,10 | 1.099,74 | 1.099,74 | 3.472,88 | 3.472,88 | 3.472,88 | 3.472,88 |
+|  |  |  |  |  |  |  |  |  |  |
+| 5 | 826,54 | 972,41 | 972,41 | 1.154,73 | 1.154,73 | 3.646,52 | 3.646,52 | 3.646,52 | 3.646,52 |
+|  |  |  |  |  |  |  |  |  |  |
+| 6 | 867,87 | 1.021,03 | 1.021,03 | 1.212,47 | 1.212,47 | 3.828,84 | 3.828,84 | 3.828,84 | 3.828,84 |
+|  |  |  |  |  |  |  |  |  |  |
+| 7 | 911,27 | 1.072,08 | 1.072,08 | 1.273,09 | 1.273,09 | 4.020,29 | 4.020,29 | 4.020,29 | 4.020,29 |
+|  |  |  |  |  |  |  |  |  |  |
+| 8 | 956,83 | 1.125,68 | 1.125,68 | 1.336,75 | 1.336,75 | 4.221,30 | 4.221,30 | 4.221,30 | 4.221,30 |
+|  |  |  |  |  |  |  |  |  |  |
+| 9 | 1.004,67 | 1.181,96 | 1.181,96 | 1.403,58 | 1.403,58 | 4.432,37 | 4.432,37 | 4.432,37 | 4.432,37 |
+|  |  |  |  |  |  |  |  |  |  |
+| 10 | 1.054,90 | 1.241,06 | 1.241,06 | 1.473,76 | 1.473,76 | 4.653,98 | 4.653,98 | 4.653,98 | 4.653,98 |
+|  |  |  |  |  |  |  |  |  |  |
+| 11 | 1.107,65 | 1.303,12 | 1.303,12 | 1.547,45 | 1.547,45 | 4.886,68 | 4.886,68 | 4.886,68 | 4.886,68 |
+|  |  |  |  |  |  |  |  |  |  |
+| 12 | 1.163,03 | 1.368,27 | 1.368,27 | 1.624,82 | 1.624,82 | 5.131,02 | 5.131,02 | 5.131,02 | 5.131,02 |
+|  |  |  |  |  |  |  |  |  |  |
+| 13 | 1.221,18 | 1.436,69 | 1.436,69 | 1.706,06 | 1.706,06 | 5.387,57 | 5.387,57 | 5.387,57 | 5.387,57 |
+|  |  |  |  |  |  |  |  |  |  |
+| 14 | 1.282,24 | 1.508,52 | 1.508,52 | 1.791,37 | 1.791,37 | 5.656,95 | 5.656,95 | 5.656,95 | 5.656,95 |
+|  |  |  |  |  |  |  |  |  |  |
+| 15 | 1.346,35 | 1.583,95 | 1.583,95 | 1.880,94 | 1.880,94 | 5.939,79 | 5.939,79 | 5.939,79 | 5.939,79 |
 
 Colunas referentes aos cargos de Engenheiro e Arquiteto excluídas pela Lei nº 11.678, de 2/4/2024 (Art. 38)
 
@@ -1146,39 +979,24 @@ OFICIAL DE SERVIÇOS E MOTORISTA
 
 JORNADA DE 44 HORAS SEMANAIS (VALORES EM R$)
 
-| | | | | |
-
-|NÍVEL |AUXILIAR DE APOIO OPERACIONAL |OFICIAL DE SERVIÇOS |AGENTE DE OPERAÇÕES E CONTROLE |MOTORISTA |
-
-|1 |600,00 |680,00 |750,00 |750,00 |
-
-|2 |630,00 |714,00 |787,50 |787,50 |
-
-|3 |661,50 |749,70 |826,88 |826,88 |
-
-|4 |694,58 |787,19 |868,22 |868,22 |
-
-|5 |729,30 |826,54 |911,63 |911,63 |
-
-|6 |765,77 |867,87 |957,21 |957,21 |
-
-|7 |804,06 |911,27 |1.005,07 |1.005,07 |
-
-|8 |844,26 |956,83 |1.055,33 |1.055,33 |
-
-|9 |886,47 |1.004,67 |1.108,09 |1.108,09 |
-
-|10 |930,80 |1.054,90 |1.163,50 |1.163,50 |
-
-|11 |977,34 |1.107,65 |1.221,67 |1.221,67 |
-
-|12 |1.026,20 |1.163,03 |1.282,75 |1.282,75 |
-
-|13 |1.077,51 |1.221,18 |1.346,89 |1.346,89 |
-
-|14 |1.131,39 |1.282,24 |1.414,24 |1.414,24 |
-
-|15 |1.187,96 |1.346,35 |1.484,95 |1.484,95 |
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| NÍVEL | AUXILIAR DE APOIO OPERACIONAL | OFICIAL DE SERVIÇOS | AGENTE DE OPERAÇÕES E CONTROLE | MOTORISTA |
+| 1 | 600,00 | 680,00 | 750,00 | 750,00 |
+| 2 | 630,00 | 714,00 | 787,50 | 787,50 |
+| 3 | 661,50 | 749,70 | 826,88 | 826,88 |
+| 4 | 694,58 | 787,19 | 868,22 | 868,22 |
+| 5 | 729,30 | 826,54 | 911,63 | 911,63 |
+| 6 | 765,77 | 867,87 | 957,21 | 957,21 |
+| 7 | 804,06 | 911,27 | 1.005,07 | 1.005,07 |
+| 8 | 844,26 | 956,83 | 1.055,33 | 1.055,33 |
+| 9 | 886,47 | 1.004,67 | 1.108,09 | 1.108,09 |
+| 10 | 930,80 | 1.054,90 | 1.163,50 | 1.163,50 |
+| 11 | 977,34 | 1.107,65 | 1.221,67 | 1.221,67 |
+| 12 | 1.026,20 | 1.163,03 | 1.282,75 | 1.282,75 |
+| 13 | 1.077,51 | 1.221,18 | 1.346,89 | 1.346,89 |
+| 14 | 1.131,39 | 1.282,24 | 1.414,24 | 1.414,24 |
+| 15 | 1.187,96 | 1.346,35 | 1.484,95 | 1.484,95 |
 
 C - TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS EFETIVOS DE
 
@@ -1186,96 +1004,59 @@ TELEFONISTA E AUXILIAR DE SAÚDE
 
 JORNADA DE 30 HORAS SEMANAIS (VALORES EM R$)
 
-| | | |
-
-|NÍVEL |TELEFONISTA |AUXILIAR DE SAÚDE |
-
-|1 |600,00 |600,00 |
-
-|2 |630,00 |630,00 |
-
-|3 |661,50 |661,50 |
-
-|4 |694,58 |694,58 |
-
-|5 |729,30 |729,30 |
-
-|6 |765,77 |765,77 |
-
-|7 |804,06 |804,06 |
-
-|8 |844,26 |844,26 |
-
-|9 |886,47 |886,47 |
-
-|10 |930,80 |930,80 |
-
-|11 |977,34 |977,34 |
-
-|12 |1.026,20 |1.026,20 |
-
-|13 |1.077,51 |1.077,51 |
-
-|14 |1.131,39 |1.131,39 |
-
-|15 |1.187,96 |1.187,96 |
+|  |  |  |
+| --- | --- | --- |
+| NÍVEL | TELEFONISTA | AUXILIAR DE SAÚDE |
+| 1 | 600,00 | 600,00 |
+| 2 | 630,00 | 630,00 |
+| 3 | 661,50 | 661,50 |
+| 4 | 694,58 | 694,58 |
+| 5 | 729,30 | 729,30 |
+| 6 | 765,77 | 765,77 |
+| 7 | 804,06 | 804,06 |
+| 8 | 844,26 | 844,26 |
+| 9 | 886,47 | 886,47 |
+| 10 | 930,80 | 930,80 |
+| 11 | 977,34 | 977,34 |
+| 12 | 1.026,20 | 1.026,20 |
+| 13 | 1.077,51 | 1.077,51 |
+| 14 | 1.131,39 | 1.131,39 |
+| 15 | 1.187,96 | 1.187,96 |
 
 D - TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS EFETIVOS DE MÉDICO DO TRABALHO E CIRURGIÃO-DENTISTA
 
 JORNADA DE 20 HORAS SEMANAIS (VALORES EM R$)
 
-|NÍVEL |MÉDICODOTRABALHO |CIRURGIÃO-DENTISTA |
-
-|1 |1.763,00 |1.245,00 |
-
-|2 |1.851,15 |1.307,25 |
-
-|3 |1.943,71 |1.372,61 |
-
-|4 |2.040,89 |1.441,24 |
-
-|5 |2.142,94 |1.513,31 |
-
-|6 |2.250,08 |1.588,97 |
-
-|7 |2.362,59 |1.668,42 |
-
-|8 |2.480,72 |1.751,84 |
-
-|9 |2.604,75 |1.839,43 |
-
-|10 |2.734,99 |1.931,40 |
-
-|11 |2.871,74 |2.027,97 |
-
-|12 |3.015,33 |2.129,37 |
-
-|13 |3.166,09 |2.235,84 |
-
-|14 |3.324,40 |2.347,63 |
-
-|15 |3.490,62 |2.465,01 |
+| NÍVEL | MÉDICODOTRABALHO | CIRURGIÃO-DENTISTA |
+| --- | --- | --- |
+| 1 | 1.763,00 | 1.245,00 |
+| 2 | 1.851,15 | 1.307,25 |
+| 3 | 1.943,71 | 1.372,61 |
+| 4 | 2.040,89 | 1.441,24 |
+| 5 | 2.142,94 | 1.513,31 |
+| 6 | 2.250,08 | 1.588,97 |
+| 7 | 2.362,59 | 1.668,42 |
+| 8 | 2.480,72 | 1.751,84 |
+| 9 | 2.604,75 | 1.839,43 |
+| 10 | 2.734,99 | 1.931,40 |
+| 11 | 2.871,74 | 2.027,97 |
+| 12 | 3.015,33 | 2.129,37 |
+| 13 | 3.166,09 | 2.235,84 |
+| 14 | 3.324,40 | 2.347,63 |
+| 15 | 3.490,62 | 2.465,01 |
 
 E - TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS EFETIVOS DE ENGENHEIRO E DE ARQUITETO
 
-|CARGOS |40 HORAS SEMANAIS |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
+| CARGOS | 40 HORAS SEMANAIS |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
 
 |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 |17 |18 | |ASSISTENTE TÉCNICO |2.900,00 |3.045,00 |3.197,25 |3.357,11 |3.524,97 |3.701,22 |3.886,28 |4.080,59 |4.284,62 |4.498,85 |4.723,79 |4.959,98 |5.207,98 |5.468,38 |5.741,80 |6.028,89 |6.330,34 |6.646,85 | |.”.

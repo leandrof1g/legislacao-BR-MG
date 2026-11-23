@@ -60,53 +60,31 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § 1º|R$ |
-
-|do art. 43, da Lei federal nº 4.320, de 17 de março de 1964, no art. 4º da Lei nº | |
-
-|11.442, de 29 de dezembro de 2022, e no art. 66 da Lei nº 11.539, de 5 de julho de | |
-
-|2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.0600.10.305.028.2.829.319011.604 |256.600,00 |
-
-|2302.0900.10.301.157.2.690.319011.604 |984.600,00 |
-
-|2302.0100.10.301.157.2.690.319011.604 |1.137.900,00 |
-
-|2302.0200.10.301.157.2.690.319011.604 |464.700,00 |
-
-|2302.0300.10.301.157.2.690.319011.604 |781.400,00 |
-
-|2302.0400.10.301.157.2.690.319011.604 |1.168.100,00 |
-
-|2302.0500.10.301.157.2.690.319011.604 |883.100,00 |
-
-|2302.0600.10.301.157.2.690.319011.604 |876.500,00 |
-
-|2302.0700.10.301.157.2.690.319011.604 |884.400,00 |
-
-|2302.0800.10.301.157.2.690.319011.604 |649.400,00 |
-
-|2302.0200.10.305.028.2.829.319011.604 |58.000,00 |
-
-|2302.0700.10.305.028.2.829.319011.604 |71.300,00 |
-
-|2302.0100.10.305.028.2.829.319011.604 |68.600,00 |
-
-|2302.0500.10.305.028.2.829.319011.604 |79.200,00 |
-
-|2302.0800.10.305.028.2.829.319011.604 |84.400,00 |
-
-|2302.0300.10.305.028.2.829.319011.604 |129.400,00 |
-
-|2302.0400.10.305.028.2.829.319011.604 |84.500,00 |
-
-|2302.0900.10.305.028.2.829.319011.604 |134.700,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |8.796.800,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso II do § 1º | R$ |
+| --- | --- |
+| do art. 43, da Lei federal nº 4.320, de 17 de março de 1964, no art. 4º da Lei nº |  |
+| 11.442, de 29 de dezembro de 2022, e no art. 66 da Lei nº 11.539, de 5 de julho de |  |
+| 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.0600.10.305.028.2.829.319011.604 | 256.600,00 |
+| 2302.0900.10.301.157.2.690.319011.604 | 984.600,00 |
+| 2302.0100.10.301.157.2.690.319011.604 | 1.137.900,00 |
+| 2302.0200.10.301.157.2.690.319011.604 | 464.700,00 |
+| 2302.0300.10.301.157.2.690.319011.604 | 781.400,00 |
+| 2302.0400.10.301.157.2.690.319011.604 | 1.168.100,00 |
+| 2302.0500.10.301.157.2.690.319011.604 | 883.100,00 |
+| 2302.0600.10.301.157.2.690.319011.604 | 876.500,00 |
+| 2302.0700.10.301.157.2.690.319011.604 | 884.400,00 |
+| 2302.0800.10.301.157.2.690.319011.604 | 649.400,00 |
+| 2302.0200.10.305.028.2.829.319011.604 | 58.000,00 |
+| 2302.0700.10.305.028.2.829.319011.604 | 71.300,00 |
+| 2302.0100.10.305.028.2.829.319011.604 | 68.600,00 |
+| 2302.0500.10.305.028.2.829.319011.604 | 79.200,00 |
+| 2302.0800.10.305.028.2.829.319011.604 | 84.400,00 |
+| 2302.0300.10.305.028.2.829.319011.604 | 129.400,00 |
+| 2302.0400.10.305.028.2.829.319011.604 | 84.500,00 |
+| 2302.0900.10.305.028.2.829.319011.604 | 134.700,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 8.796.800,00 |
 
 ANEXO II
 
@@ -132,22 +110,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 66 da Lei nº 11.539, de 5 de julho de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |
-
-|Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |
-
-|empregados públicos da administração direta e indireta do Poder Executivo |
-
-|Limite total autorizado |R$ 261.693.719,44 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 191.186.716,00 |
-
-|Valor do Decreto publicado nesta data |R$ 8.796.800,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 199.983.516,00 |
-
-|Saldo atual do limite autorizado |R$ 61.710.203,44 |
-
-|Percentual utilizado |76,42% |
-
-|Atualizado em 29/11/2023 às 11:32:22 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2023 |  |
+| --- | --- |
+| Art. 66 da Lei nº 11.539, de 05/07/2023 – Concede reajustes remuneratórios aos servidores e |  |
+| empregados públicos da administração direta e indireta do Poder Executivo |  |
+| Limite total autorizado | R$ 261.693.719,44 |
+| Total de créditos suplementares abertos anteriormente | R$ 191.186.716,00 |
+| Valor do Decreto publicado nesta data | R$ 8.796.800,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 199.983.516,00 |
+| Saldo atual do limite autorizado | R$ 61.710.203,44 |
+| Percentual utilizado | 76,42% |
+| Atualizado em 29/11/2023 às 11:32:22 |  |

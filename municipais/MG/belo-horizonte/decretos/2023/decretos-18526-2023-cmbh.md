@@ -62,43 +62,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do|R$ |
-
-|§ 1º do art. 43, da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º da | |
-
-|Lei nº 11.442, de 29 de dezembro de 2022: | |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|1014.1100.08.306.132.2.761.339030.552 |1.000.000,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.3301.10.122.030.2.900.339034.659 |110.000,00 |
-
-|2301.3301.10.122.030.2.900.339036.659 |15.000,00 |
-
-|2301.3301.10.122.030.2.900.339037.659 |1.152.000,00 |
-
-|2301.3303.10.302.030.2.620.339030.659 |650.000,00 |
-
-|2301.3303.10.302.030.2.620.339034.659 |420.000,00 |
-
-|2301.3303.10.302.030.2.620.339036.659 |15.000,00 |
-
-|2301.3303.10.302.030.2.620.339039.659 |845.000,00 |
-
-|2301.3304.10.302.030.2.875.339030.659 |4.006.000,00 |
-
-|2301.3304.10.302.030.2.875.339034.659 |2.500.000,00 |
-
-|2301.3304.10.302.030.2.875.339036.659 |1.780.000,00 |
-
-|2301.3304.10.302.030.2.875.339037.659 |435.000,00 |
-
-|2301.3304.10.302.030.2.875.339039.659 |1.062.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |13.990.000,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do | R$ |
+| --- | --- |
+| § 1º do art. 43, da Lei federal nº 4.320, de 17 de março de 1964, e no art. 4º da |  |
+| Lei nº 11.442, de 29 de dezembro de 2022: |  |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 1014.1100.08.306.132.2.761.339030.552 | 1.000.000,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.3301.10.122.030.2.900.339034.659 | 110.000,00 |
+| 2301.3301.10.122.030.2.900.339036.659 | 15.000,00 |
+| 2301.3301.10.122.030.2.900.339037.659 | 1.152.000,00 |
+| 2301.3303.10.302.030.2.620.339030.659 | 650.000,00 |
+| 2301.3303.10.302.030.2.620.339034.659 | 420.000,00 |
+| 2301.3303.10.302.030.2.620.339036.659 | 15.000,00 |
+| 2301.3303.10.302.030.2.620.339039.659 | 845.000,00 |
+| 2301.3304.10.302.030.2.875.339030.659 | 4.006.000,00 |
+| 2301.3304.10.302.030.2.875.339034.659 | 2.500.000,00 |
+| 2301.3304.10.302.030.2.875.339036.659 | 1.780.000,00 |
+| 2301.3304.10.302.030.2.875.339037.659 | 435.000,00 |
+| 2301.3304.10.302.030.2.875.339039.659 | 1.062.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 13.990.000,00 |
 
 ANEXO II
 
@@ -130,24 +113,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.259.998.804,36 |
-
-|Valor do Decreto publicado nesta data |R$ 13.990.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.273.988.804,36 |
-
-|Saldo atual de créditos suplementares |R$ 440.178.383,84 |
-
-|Percentual utilizado |74,32% |
-
-|Atualizado em 20/11/2023 às 12:02:58 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.259.998.804,36 |
+| Valor do Decreto publicado nesta data | R$ 13.990.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.273.988.804,36 |
+| Saldo atual de créditos suplementares | R$ 440.178.383,84 |
+| Percentual utilizado | 74,32% |
+| Atualizado em 20/11/2023 às 12:02:58 |  |

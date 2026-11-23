@@ -40,4 +40,5 @@ ANEXO
 
 (a que se refere o art. 1º do Decreto nº 17.078, de 21 de março de 2019)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

@@ -156,39 +156,30 @@ ATRIBUIÇÕES ESPECÍFICAS, ENTRE OUTRAS: - orientar consulentes em pesquisas bi
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES
 
-|CARGO PREVISTO NA |CARGO PREVISTO NESTA LEI |QUANTIDADE DE |
-
-|LEGISLAÇÃO ANTERIOR | |VAGAS |
-
-|GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO |
-
-| | |20 |
-
-| |Secretário Municipal |18 |
-
-|Secretário Municipal |Secretário Municipal Regional | |
-
-|Adjunto |Secretário Municipal Adjunto de |1 |
-
-| |Administração e Recursos Humanos |1 |
-
-| |Secretário Municipal Adjunto de Governo | |
+| CARGO PREVISTO NA | CARGO PREVISTO NESTA LEI | QUANTIDADE DE |
+| --- | --- | --- |
+| LEGISLAÇÃO ANTERIOR |  | VAGAS |
+| GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO |  |  |
+|  |  | 20 |
+|  | Secretário Municipal | 18 |
+| Secretário Municipal | Secretário Municipal Regional |  |
+| Adjunto | Secretário Municipal Adjunto de | 1 |
+|  | Administração e Recursos Humanos | 1 |
+|  | Secretário Municipal Adjunto de Governo |  |
 
 (...)
 
-|Chefe Adjunto da | | |
-
-|Assessoria de | | |
-
-|Comunicação Social |Chefe Adjunto de Imprensa |1 |
-
-| |Chefe de Cerimonial e Mobilização |1 |
+| Chefe Adjunto da |  |  |
+| --- | --- | --- |
+| Assessoria de |  |  |
+| Comunicação Social | Chefe Adjunto de Imprensa | 1 |
+|  | Chefe de Cerimonial e Mobilização | 1 |
 
 (...)
 
-|Chefe de Gabinete do |Secretário Municipal de Governo |1 |
-
-|Vice-Prefeito | | |
+| Chefe de Gabinete do | Secretário Municipal de Governo | 1 |
+| --- | --- | --- |
+| Vice-Prefeito |  |  |
 
 (...)
 

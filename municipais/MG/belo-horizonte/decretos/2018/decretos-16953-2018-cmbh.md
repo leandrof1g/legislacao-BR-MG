@@ -52,62 +52,37 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos, conforme autorização contida |
-
-|no caput do art. 4º da Lei nº 11.097, de 29 de dezembro de 2017: |
-
-|R$ |
-
-|2200.12.122.140.2.317.3390.0300 |11.630.685,00 |
-
-|2400.04.124.012.2.366.3390.0300 |10.000,00 |
-
-|2700.12.361.168.1.211.4490.0400 |45.116,00 |
-
-|2700.12.361.168.1.211.4490.0400 |45.970,00 |
-
-|TOTAL |11.731.771,00 |
-
-|I.2 – A favor do Fundo Municipal de Saúde, conforme autorização |
-
-|contida no inciso II do § 1º do art. 4º da Lei nº 11.097, de 29 de |
-
-|dezembro de 2017: |
-
-|R$ |
-
-|2302.10.301.157.2.690.3390.0150 |68.051.805,00 |
-
-|2302.10.302.203.2.894.3391.0300 |114.396.000,00 |
-
-|TOTAL |182.447.805,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |194.179.576,00 |
+| I.1 – A favor de diversos órgãos, conforme autorização contida |  |
+| --- | --- |
+| no caput do art. 4º da Lei nº 11.097, de 29 de dezembro de 2017: |  |
+| R$ |  |
+| 2200.12.122.140.2.317.3390.0300 | 11.630.685,00 |
+| 2400.04.124.012.2.366.3390.0300 | 10.000,00 |
+| 2700.12.361.168.1.211.4490.0400 | 45.116,00 |
+| 2700.12.361.168.1.211.4490.0400 | 45.970,00 |
+| TOTAL | 11.731.771,00 |
+| I.2 – A favor do Fundo Municipal de Saúde, conforme autorização |  |
+| contida no inciso II do § 1º do art. 4º da Lei nº 11.097, de 29 de |  |
+| dezembro de 2017: |  |
+| R$ |  |
+| 2302.10.301.157.2.690.3390.0150 | 68.051.805,00 |
+| 2302.10.302.203.2.894.3391.0300 | 114.396.000,00 |
+| TOTAL | 182.447.805,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 194.179.576,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1 da |
-
-|tabela anterior: |
-
-|R$ |
-
-|2700.17.512.066.1.203.4490.0480 |91.086,00 |
-
-|2700.26.452.062.1.270.4430.0480 |11.640.685,00 |
-
-|TOTAL |11.731.771,00 |
-
-|II.2 – Em contrapartida às suplementações relacionadas no item I.2 da |
-
-|tabela anterior: |
-
-|R$ |
-
-|2302.10.122.117.2.895.3390.0100 |68.051.805,00 |
-
-|2302.10.302.203.2.894.3391.0350 |114.396.000,00 |
-
-|TOTAL |182.447.805,00 |
-
-|TOTAL DA ANULAÇÃO |194.179.576,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 da |  |
+| --- | --- |
+| tabela anterior: |  |
+| R$ |  |
+| 2700.17.512.066.1.203.4490.0480 | 91.086,00 |
+| 2700.26.452.062.1.270.4430.0480 | 11.640.685,00 |
+| TOTAL | 11.731.771,00 |
+| II.2 – Em contrapartida às suplementações relacionadas no item I.2 da |  |
+| tabela anterior: |  |
+| R$ |  |
+| 2302.10.122.117.2.895.3390.0100 | 68.051.805,00 |
+| 2302.10.302.203.2.894.3391.0350 | 114.396.000,00 |
+| TOTAL | 182.447.805,00 |
+| TOTAL DA ANULAÇÃO | 194.179.576,00 |

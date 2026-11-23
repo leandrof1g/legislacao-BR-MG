@@ -46,124 +46,69 @@ ANEXO
 
 II.1 – Fase 1
 
-|Fase 1 – abertura a partir de 25 de maio de 2020 |
-
-|Poderão reabrir apenas os estabelecimentos comerciais com acesso direto de pedestres ao logradouro |
-
-|público. |
-
-| |
-
-|(informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH) |
-
-|Atividade |Faixa de horário de funcionamento |
-
-| |Segunda a sexta-feira |Sábado, domingo e feriado |
-
-|Artigos de bomboniere e semelhantes |7h às 21h |7h às 21h |
-
-|Artigos de iluminação |11h às 19h |9h às 19h |
-
-|Artigos de cama, mesa e banho |11h às 19h |9h às 19h |
-
-|Utensílios, móveis e equipamentos |11h às 19h |9h às 19h |
-
-|domésticos, exceto eletrodomésticos e | | |
-
-|equipamentos de áudio e vídeo | | |
-
-|Tecidos e armarinho |11h às 19h |9h às 19h |
-
-|Artigos de tapeçaria, cortinas e persianas |11h às 19h |9h às 19h |
-
-|Produtos de limpeza e conservação |11h às 19h |9h às 19h |
-
-|Artigos de papelaria, livraria e |11h às 19h |9h às 19h |
-
-|fotográficos | | |
-
-|Brinquedos e artigos recreativos |11h às 19h |9h às 19h |
-
-|Bicicletas e triciclos, peças e acessórios |11h às 19h |9h às 19h |
-
-|Cosméticos, produtos de perfumaria e de |11h às 19h |9h às 19h |
-
-|higiene pessoal | | |
-
-|Veículos automotores, independentemente do |8h às 17h |8h às 17h |
-
-|tipo de acesso | | |
-
-|Peças e acessórios para veículos |8h às 17h |8h às 17h |
-
-|automotores | | |
-
-|Pneumáticos e câmaras-de-ar |8h às 17h |8h às 17h |
-
-|Comércio atacadista da cadeia de comércio |5h às 17h |5h às 17h |
-
-|varejista da fase 1 | | |
-
-|Cabeleireiros, manicure e pedicure |7h às 21h |7h às 21h |
-
-|Centros de comércio popular instituídos a |11h às 19h |9h às 19h |
-
-|qualquer tempo por Operações Urbanas | | |
-
-|visando a inclusão produtiva de camelôs, | | |
-
-|desde que localizados no Hipercentro ou em | | |
-
-|Venda Nova | | |
+| Fase 1 – abertura a partir de 25 de maio de 2020 |  |  |
+| --- | --- | --- |
+| Poderão reabrir apenas os estabelecimentos comerciais com acesso direto de pedestres ao logradouro |  |  |
+| público. |  |  |
+|  |  |  |
+| (informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH) |  |  |
+| Atividade | Faixa de horário de funcionamento |  |
+|  | Segunda a sexta-feira | Sábado, domingo e feriado |
+| Artigos de bomboniere e semelhantes | 7h às 21h | 7h às 21h |
+| Artigos de iluminação | 11h às 19h | 9h às 19h |
+| Artigos de cama, mesa e banho | 11h às 19h | 9h às 19h |
+| Utensílios, móveis e equipamentos | 11h às 19h | 9h às 19h |
+| domésticos, exceto eletrodomésticos e |  |  |
+| equipamentos de áudio e vídeo |  |  |
+| Tecidos e armarinho | 11h às 19h | 9h às 19h |
+| Artigos de tapeçaria, cortinas e persianas | 11h às 19h | 9h às 19h |
+| Produtos de limpeza e conservação | 11h às 19h | 9h às 19h |
+| Artigos de papelaria, livraria e | 11h às 19h | 9h às 19h |
+| fotográficos |  |  |
+| Brinquedos e artigos recreativos | 11h às 19h | 9h às 19h |
+| Bicicletas e triciclos, peças e acessórios | 11h às 19h | 9h às 19h |
+| Cosméticos, produtos de perfumaria e de | 11h às 19h | 9h às 19h |
+| higiene pessoal |  |  |
+| Veículos automotores, independentemente do | 8h às 17h | 8h às 17h |
+| tipo de acesso |  |  |
+| Peças e acessórios para veículos | 8h às 17h | 8h às 17h |
+| automotores |  |  |
+| Pneumáticos e câmaras-de-ar | 8h às 17h | 8h às 17h |
+| Comércio atacadista da cadeia de comércio | 5h às 17h | 5h às 17h |
+| varejista da fase 1 |  |  |
+| Cabeleireiros, manicure e pedicure | 7h às 21h | 7h às 21h |
+| Centros de comércio popular instituídos a | 11h às 19h | 9h às 19h |
+| qualquer tempo por Operações Urbanas |  |  |
+| visando a inclusão produtiva de camelôs, |  |  |
+| desde que localizados no Hipercentro ou em |  |  |
+| Venda Nova |  |  |
 
 II.2 – Fase 2
 
-|Fase 2 – abertura a partir de 8 de junho de 2020 |
-
-|Poderão reabrir apenas os estabelecimentos comerciais com acesso direto de pedestres ao logradouro |
-
-|público |
-
-| |
-
-|(informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH) |
-
-|Atividade |Faixa de horário de funcionamento |
-
-| |Segunda a sexta-feira |Sábado, domingo e feriado |
-
-|Artigos e equipamentos esportivos |11h às 19h |9h às 19h |
-
-|Artigos de uso pessoal, exceto vestuário e|11h às 19h |9h às 19h |
-
-|acessórios | | |
-
-|Artigos e alimentos para animais, exceto |11h às 19h |9h às 19h |
-
-|comércio varejista de animais vivos | | |
-
-|Artigos usados de atividades autorizadas a|11h às 19h |9h às 19h |
-
-|funcionar | | |
-
-|Bebidas, exceto para consumo no local |11h às 19h |9h às 19h |
-
-|Tabacaria, exceto para consumo no local |11h às 19h |9h às 19h |
-
-|Embalagens em geral |11h às 19h |9h às 19h |
-
-|Instrumentos musicais e acessórios |11h às 19h |9h às 19h |
-
-|Lubrificantes |11h às 19h |9h às 19h |
-
-|Objetos de arte e decoração |11h às 19h |9h às 19h |
-
-|Plantas e flores naturais |11h às 19h |9h às 19h |
-
-|Armas e munições |11h às 19h |9h às 19h |
-
-|Comércio atacadista da cadeia de comércio |5h às 17h |5h às 17h |
-
-|varejista da fase 2 | | |
+| Fase 2 – abertura a partir de 8 de junho de 2020 |  |  |
+| --- | --- | --- |
+| Poderão reabrir apenas os estabelecimentos comerciais com acesso direto de pedestres ao logradouro |  |  |
+| público |  |  |
+|  |  |  |
+| (informações sobre protocolos de vigilância sanitária disponíveis no Portal da PBH) |  |  |
+| Atividade | Faixa de horário de funcionamento |  |
+|  | Segunda a sexta-feira | Sábado, domingo e feriado |
+| Artigos e equipamentos esportivos | 11h às 19h | 9h às 19h |
+| Artigos de uso pessoal, exceto vestuário e | 11h às 19h | 9h às 19h |
+| acessórios |  |  |
+| Artigos e alimentos para animais, exceto | 11h às 19h | 9h às 19h |
+| comércio varejista de animais vivos |  |  |
+| Artigos usados de atividades autorizadas a | 11h às 19h | 9h às 19h |
+| funcionar |  |  |
+| Bebidas, exceto para consumo no local | 11h às 19h | 9h às 19h |
+| Tabacaria, exceto para consumo no local | 11h às 19h | 9h às 19h |
+| Embalagens em geral | 11h às 19h | 9h às 19h |
+| Instrumentos musicais e acessórios | 11h às 19h | 9h às 19h |
+| Lubrificantes | 11h às 19h | 9h às 19h |
+| Objetos de arte e decoração | 11h às 19h | 9h às 19h |
+| Plantas e flores naturais | 11h às 19h | 9h às 19h |
+| Armas e munições | 11h às 19h | 9h às 19h |
+| Comércio atacadista da cadeia de comércio | 5h às 17h | 5h às 17h |
+| varejista da fase 2 |  |  |
 
 ”.

@@ -34,23 +34,16 @@ CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE EDUCAÇÃO DA
 
 PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CLASSES |NÚMERO DE CARGOS |
-
-|1. Professor Municipal |12.100 |
-
-| | |
-
-|2. Auxiliar de Biblioteca Escolar |600 |
-
-| | |
-
-|5. Auxiliar de Secretaria Escolar |850 |
-
-| | |
-
-|6. Educador Infantil |4.900 |
-
-|TOTAL |20.510 |
+| CLASSES | NÚMERO DE CARGOS |
+| --- | --- |
+| 1. Professor Municipal | 12.100 |
+|  |  |
+| 2. Auxiliar de Biblioteca Escolar | 600 |
+|  |  |
+| 5. Auxiliar de Secretaria Escolar | 850 |
+|  |  |
+| 6. Educador Infantil | 4.900 |
+| TOTAL | 20.510 |
 
 **Art. 2º** - Para atender ao disposto nesta Lei, fica o Poder Executivo autorizado a adaptar seus instrumentos de planejamento financeiro e, nos termos dos artigos 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17 de março de 1964, a abrir crédito adicional no valor de R$74.244.192,00 (setenta e quatro milhões, duzentos e quarenta e quatro mil, cento e noventa e dois reais) ao orçamento corrente, bem como reabri-lo pelo seu saldo para o exercício seguinte.
 

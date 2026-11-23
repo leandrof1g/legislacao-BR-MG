@@ -62,25 +62,17 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.0085.2602.339139.2.501.784 |1.000.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339030.2.621.000 |99.900,00 |
-
-|2302.10.302.0114.2936.339039.2.621.000 |149.891,95 |
-
-|2302.10.302.0114.2936.339092.2.621.000 |12.546,42 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.262.338,37 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.0085.2602.339139.2.501.784 | 1.000.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339030.2.621.000 | 99.900,00 |
+| 2302.10.302.0114.2936.339039.2.621.000 | 149.891,95 |
+| 2302.10.302.0114.2936.339092.2.621.000 | 12.546,42 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.262.338,37 |
 
 ANEXO II
 

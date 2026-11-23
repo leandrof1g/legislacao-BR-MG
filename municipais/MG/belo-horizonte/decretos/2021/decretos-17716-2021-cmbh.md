@@ -60,20 +60,13 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor de diversos órgãos da PBH, conforme autorização |
-
-|contida no caput do art. 4º da Lei nº 11.277, de 28 de dezembro |
-
-|de 2020: |
-
-| R$ |
-
-|3100.13.122.146.2.917.3390.0030 |14.700,00 |
-
-|2302.10.302.114.2.892.3390.0050 |18.372.998,91 |
-
-|2302.10.302.114.2.893.3390.0050 |55.648,95 |
-
-|2302.10.302.203.2.894.3390.0050 |51.847.009,26 |
-
-|TOTAL DA SUPLEMENTAÇÃO |70.290.357,12 |
+| I.1 – A favor de diversos órgãos da PBH, conforme autorização |  |
+| --- | --- |
+| contida no caput do art. 4º da Lei nº 11.277, de 28 de dezembro |  |
+| de 2020: |  |
+| R$ |  |
+| 3100.13.122.146.2.917.3390.0030 | 14.700,00 |
+| 2302.10.302.114.2.892.3390.0050 | 18.372.998,91 |
+| 2302.10.302.114.2.893.3390.0050 | 55.648,95 |
+| 2302.10.302.203.2.894.3390.0050 | 51.847.009,26 |
+| TOTAL DA SUPLEMENTAÇÃO | 70.290.357,12 |

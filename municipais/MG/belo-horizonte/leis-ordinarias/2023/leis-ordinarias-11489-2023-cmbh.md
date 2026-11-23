@@ -240,392 +240,237 @@ ANEXO I
 
 PERIODICIDADE DA PUBLICAÇÃO DOS ÍNDICES
 
-|Índice |Sigla |Periodicidade |
-
-|Índice de Liquidez Corrente |ILC |Quadrimestral |
-
-|Índice de Liquidez Imediata |ILI |Quadrimestral |
-
-|Índice de Situação Financeira Líquida |ISFL |Quadrimestral |
-
-|Índice de Comprometimento da Receita Corrente Líquida com as Despesas de Pessoal |IDP-RCL |Quadrimestral |
-
-|Índice do Resultado Orçamentário |IRO |Quadrimestral |
-
-|Índice de Comportamento da Arrecadação |ICA |Quadrimestral |
-
-|Índice de Comportamento da Execução da Despesa |ICD |Quadrimestral |
-
-|Índice entre a Receita e a Despesa |IRD |Quadrimestral |
-
-|Índice de Empréstimos Tomados em Relação à Receita Corrente Líquida |IETR |Quadrimestral |
-
-|Índice de Amortização de Dívidas em Relação à Receita Corrente Líquida |IAD |Quadrimestral |
-
-|Índice de Dívida Consolidada Líquida |IDCL |Quadrimestral |
-
-|Índice de Restos a Pagar em Relação à Disponibilidade de Caixa |IRPDC |Quadrimestral |
-
-|Índice de Restos a Pagar em Relação às Despesas Orçamentárias |IRPMD |Quadrimestral |
+| Índice | Sigla | Periodicidade |
+| --- | --- | --- |
+| Índice de Liquidez Corrente | ILC | Quadrimestral |
+| Índice de Liquidez Imediata | ILI | Quadrimestral |
+| Índice de Situação Financeira Líquida | ISFL | Quadrimestral |
+| Índice de Comprometimento da Receita Corrente Líquida com as Despesas de Pessoal | IDP-RCL | Quadrimestral |
+| Índice do Resultado Orçamentário | IRO | Quadrimestral |
+| Índice de Comportamento da Arrecadação | ICA | Quadrimestral |
+| Índice de Comportamento da Execução da Despesa | ICD | Quadrimestral |
+| Índice entre a Receita e a Despesa | IRD | Quadrimestral |
+| Índice de Empréstimos Tomados em Relação à Receita Corrente Líquida | IETR | Quadrimestral |
+| Índice de Amortização de Dívidas em Relação à Receita Corrente Líquida | IAD | Quadrimestral |
+| Índice de Dívida Consolidada Líquida | IDCL | Quadrimestral |
+| Índice de Restos a Pagar em Relação à Disponibilidade de Caixa | IRPDC | Quadrimestral |
+| Índice de Restos a Pagar em Relação às Despesas Orçamentárias | IRPMD | Quadrimestral |
 
 ANEXO II
 
 IDENTIFICAÇÃO DE VARIÁVEIS
 
-|Variável |Sigla |Significado |
-
-|Amortização e Encargos |AE |Compreende o valor da despesa orçamentária decorrente do pagamento e/ou refinanciamento do |
-
-| | |principal e da atualização monetária ou cambial da dívida pública interna e externa, |
-
-| | |contratual ou mobiliária; e do pagamento de juros, comissões e outros encargos de operações|
-
-| | |de crédito internas e externas contratadas, assim como da dívida pública mobiliária. |
-
-| | |(Manual de Contabilidade Aplicado ao Setor Público - MCASP, 8ª edição, pp. 77 e 78) |
-
-|Ativo Circulante |AC |Ativo que satisfaz qualquer dos critérios a seguir: |
-
-| | |(a) espera-se que seja realizado, ou pretende-se que seja mantido com o propósito de ser |
-
-| | |vendido ou consumido no decurso normal do ciclo operacional da entidade; |
-
-| | |(b) está mantido essencialmente com o propósito de ser negociado; |
-
-| | |(c) espera-se que seja realizado até 12 (doze) meses após a data das demonstrações |
-
-| | |contábeis; |
-
-| | |(d) é caixa ou equivalente de caixa, a menos que sua troca ou uso para liquidação de |
-
-| | |passivo se encontre vedada durante pelo menos 12 (doze) meses após a data do balanço. |
-
-| | |(MCASP, 8ª edição, p. 441) |
-
-|Ativo Financeiro |AF |Compreende os créditos e valores realizáveis independentemente de autorização orçamentária |
-
-| | |e os valores numerários. (art. 105, § 1°, da Lei nº 4.320/64) |
-
-|Caixa e Equivalentes de |Disp |Compreende o somatório dos valores em caixa e em bancos, assim como os equivalentes, que |
-
-|Caixa | |representam recursos com livre movimentação para aplicação nas operações da entidade e para|
-
-| | |os quais não haja restrições para uso imediato. (MCASP, 8ª edição, p. 441) |
-
-|Despesa com Pessoal |DP |Compreende o somatório dos gastos do ente da Federação com os ativos, os inativos e os |
-
-| | |pensionistas, relativos a mandatos eletivos, cargos, funções ou empregos, civis, militares |
-
-| | |e membros de Poder, com quaisquer espécies remuneratórias, tais como vencimentos e |
-
-| | |vantagens, fixas e variáveis, subsídios, proventos da aposentadoria, reformas e pensões, |
-
-| | |inclusive adicionais, gratificações, horas extras e vantagens pessoais de qualquer |
-
-| | |natureza, assim como encargos sociais e contribuições recolhidos pelo ente às entidades de |
-
-| | |Previdência. A despesa total com pessoal será apurada somando-se a realizada no mês em |
-
-| | |referência com as dos 11 (onze) meses imediatamente anteriores, adotando-se o regime de |
-
-| | |competência, independentemente de empenho. (art. 18 da Lei Complementar n° 101/00) |
-
-|Despesa Fixada (dotação |DF |Demonstra os valores dos créditos iniciais conforme consta na Lei Orçamentária Anual (LOA).|
-
-|inicial) | |(MCASP, 8ª edição, p. 425) |
-
-|Despesa Realizada |DR |Compreende o somatório das despesas orçamentárias empenhadas no período, inclusive as que |
-
-|(empenhada) | |estejam em liquidação, já liquidadas ou pagas. (MCASP, 8ª edição, p. 426) |
-
-|Montante da Dívida |MDC |Montante total, apurado sem duplicidade, das obrigações financeiras do ente da Federação, |
-
-|Consolidada | |assumidas em virtude de leis, contratos, convênios ou tratados e da realização de operações|
-
-| | |de crédito, para amortização em prazo superior a 12 (doze) meses. (art. 29, I, da Lei |
-
-| | |Complementar n° 101/00) |
-
-|Operações de Crédito |OC |Compromissos financeiros assumidos em razão de mútuo, abertura de crédito, emissão e aceite|
-
-| | |de título, aquisição financiada de bens, recebimento antecipado de valores provenientes da |
-
-| | |venda a termo de bens e serviços, arrendamento mercantil e outras operações assemelhadas, |
-
-| | |inclusive com o uso de derivativos financeiros. (art. 29, III, da Lei Complementar n° |
-
-| | |101/00) |
-
-|Passivo Circulante |PC |Compreende as obrigações conhecidas e estimadas que atendam a qualquer um dos seguintes |
-
-| | |critérios: tenham prazos estabelecidos ou esperados dentro do ciclo operacional da |
-
-| | |entidade; sejam mantidos primariamente para negociação; tenham prazos estabelecidos ou |
-
-| | |esperados no curto prazo; sejam valores de terceiros ou retenções em nome deles, quando a |
-
-| | |entidade do setor público for fiel depositária, independentemente do prazo de |
-
-| | |exigibilidade. (MCASP, 8ª edição, p. 442) |
-
-|Passivo Financeiro |PF |Compreende as dívidas fundadas e outros pagamentos independentemente de autorização |
-
-| | |orçamentária. (art. 105, § 3°, da Lei n° 4.320/64) |
-
-|Receita Corrente Líquida |RCL |Somatório das receitas tributárias, de contribuições, patrimoniais, industriais, |
-
-| | |agropecuárias, de serviços, transferências correntes e outras receitas correntes, deduzida |
-
-| | |a contribuição dos servidores para o custeio do seu sistema de Previdência e Assistência |
-
-| | |Social e as receitas provenientes da compensação financeira citada no § 9° do art. 201 da |
-
-| | |Constituição da República Federativa do Brasil - CRFB. A RCL será apurada somando-se as |
-
-| | |receitas arrecadadas no mês em referência e nos 11 (onze) anteriores, excluídas as |
-
-| | |duplicidades. (art. 2° da Lei Complementar n° 101/00) |
-
-|Receita Prevista (previsão |RecP |Demonstra os valores da previsão inicial das receitas conforme consta na Lei Orçamentária |
-
-|inicial da receita) | |Anual. (MCASP, 8ª edição, p. 423) |
-
-|Receita Realizada |RR |Compreende o somatório das receitas arrecadadas no período diretamente pelo órgão, ou por |
-
-| | |meio de outras instituições como, por exemplo, a rede bancária. (MCASP, 8ª edição, p. 423) |
-
-|Restos a Pagar |RP |Despesas empenhadas, mas não pagas, até o dia 31 de dezembro, distinguindo-se as |
-
-| | |processadas das não processadas. (art. 36 da Lei nº 4.320/64) |
+| Variável | Sigla | Significado |
+| --- | --- | --- |
+| Amortização e Encargos | AE | Compreende o valor da despesa orçamentária decorrente do pagamento e/ou refinanciamento do |
+|  |  | principal e da atualização monetária ou cambial da dívida pública interna e externa, |
+|  |  | contratual ou mobiliária; e do pagamento de juros, comissões e outros encargos de operações |
+|  |  | de crédito internas e externas contratadas, assim como da dívida pública mobiliária. |
+|  |  | (Manual de Contabilidade Aplicado ao Setor Público - MCASP, 8ª edição, pp. 77 e 78) |
+| Ativo Circulante | AC | Ativo que satisfaz qualquer dos critérios a seguir: |
+|  |  | (a) espera-se que seja realizado, ou pretende-se que seja mantido com o propósito de ser |
+|  |  | vendido ou consumido no decurso normal do ciclo operacional da entidade; |
+|  |  | (b) está mantido essencialmente com o propósito de ser negociado; |
+|  |  | (c) espera-se que seja realizado até 12 (doze) meses após a data das demonstrações |
+|  |  | contábeis; |
+|  |  | (d) é caixa ou equivalente de caixa, a menos que sua troca ou uso para liquidação de |
+|  |  | passivo se encontre vedada durante pelo menos 12 (doze) meses após a data do balanço. |
+|  |  | (MCASP, 8ª edição, p. 441) |
+| Ativo Financeiro | AF | Compreende os créditos e valores realizáveis independentemente de autorização orçamentária |
+|  |  | e os valores numerários. (art. 105, § 1°, da Lei nº 4.320/64) |
+| Caixa e Equivalentes de | Disp | Compreende o somatório dos valores em caixa e em bancos, assim como os equivalentes, que |
+| Caixa |  | representam recursos com livre movimentação para aplicação nas operações da entidade e para |
+|  |  | os quais não haja restrições para uso imediato. (MCASP, 8ª edição, p. 441) |
+| Despesa com Pessoal | DP | Compreende o somatório dos gastos do ente da Federação com os ativos, os inativos e os |
+|  |  | pensionistas, relativos a mandatos eletivos, cargos, funções ou empregos, civis, militares |
+|  |  | e membros de Poder, com quaisquer espécies remuneratórias, tais como vencimentos e |
+|  |  | vantagens, fixas e variáveis, subsídios, proventos da aposentadoria, reformas e pensões, |
+|  |  | inclusive adicionais, gratificações, horas extras e vantagens pessoais de qualquer |
+|  |  | natureza, assim como encargos sociais e contribuições recolhidos pelo ente às entidades de |
+|  |  | Previdência. A despesa total com pessoal será apurada somando-se a realizada no mês em |
+|  |  | referência com as dos 11 (onze) meses imediatamente anteriores, adotando-se o regime de |
+|  |  | competência, independentemente de empenho. (art. 18 da Lei Complementar n° 101/00) |
+| Despesa Fixada (dotação | DF | Demonstra os valores dos créditos iniciais conforme consta na Lei Orçamentária Anual (LOA). |
+| inicial) |  | (MCASP, 8ª edição, p. 425) |
+| Despesa Realizada | DR | Compreende o somatório das despesas orçamentárias empenhadas no período, inclusive as que |
+| (empenhada) |  | estejam em liquidação, já liquidadas ou pagas. (MCASP, 8ª edição, p. 426) |
+| Montante da Dívida | MDC | Montante total, apurado sem duplicidade, das obrigações financeiras do ente da Federação, |
+| Consolidada |  | assumidas em virtude de leis, contratos, convênios ou tratados e da realização de operações |
+|  |  | de crédito, para amortização em prazo superior a 12 (doze) meses. (art. 29, I, da Lei |
+|  |  | Complementar n° 101/00) |
+| Operações de Crédito | OC | Compromissos financeiros assumidos em razão de mútuo, abertura de crédito, emissão e aceite |
+|  |  | de título, aquisição financiada de bens, recebimento antecipado de valores provenientes da |
+|  |  | venda a termo de bens e serviços, arrendamento mercantil e outras operações assemelhadas, |
+|  |  | inclusive com o uso de derivativos financeiros. (art. 29, III, da Lei Complementar n° |
+|  |  | 101/00) |
+| Passivo Circulante | PC | Compreende as obrigações conhecidas e estimadas que atendam a qualquer um dos seguintes |
+|  |  | critérios: tenham prazos estabelecidos ou esperados dentro do ciclo operacional da |
+|  |  | entidade; sejam mantidos primariamente para negociação; tenham prazos estabelecidos ou |
+|  |  | esperados no curto prazo; sejam valores de terceiros ou retenções em nome deles, quando a |
+|  |  | entidade do setor público for fiel depositária, independentemente do prazo de |
+|  |  | exigibilidade. (MCASP, 8ª edição, p. 442) |
+| Passivo Financeiro | PF | Compreende as dívidas fundadas e outros pagamentos independentemente de autorização |
+|  |  | orçamentária. (art. 105, § 3°, da Lei n° 4.320/64) |
+| Receita Corrente Líquida | RCL | Somatório das receitas tributárias, de contribuições, patrimoniais, industriais, |
+|  |  | agropecuárias, de serviços, transferências correntes e outras receitas correntes, deduzida |
+|  |  | a contribuição dos servidores para o custeio do seu sistema de Previdência e Assistência |
+|  |  | Social e as receitas provenientes da compensação financeira citada no § 9° do art. 201 da |
+|  |  | Constituição da República Federativa do Brasil - CRFB. A RCL será apurada somando-se as |
+|  |  | receitas arrecadadas no mês em referência e nos 11 (onze) anteriores, excluídas as |
+|  |  | duplicidades. (art. 2° da Lei Complementar n° 101/00) |
+| Receita Prevista (previsão | RecP | Demonstra os valores da previsão inicial das receitas conforme consta na Lei Orçamentária |
+| inicial da receita) |  | Anual. (MCASP, 8ª edição, p. 423) |
+| Receita Realizada | RR | Compreende o somatório das receitas arrecadadas no período diretamente pelo órgão, ou por |
+|  |  | meio de outras instituições como, por exemplo, a rede bancária. (MCASP, 8ª edição, p. 423) |
+| Restos a Pagar | RP | Despesas empenhadas, mas não pagas, até o dia 31 de dezembro, distinguindo-se as |
+|  |  | processadas das não processadas. (art. 36 da Lei nº 4.320/64) |
 
 ANEXO III
 
 ÍNDICES
 
-|Índice |Sigla |Objetivo |Fórmula |Resultado de Referência |
-
-|Índice de Liquidez Corrente|ILC |Determinar quanto o Município possui | |≥ 1 (maior ou igual a 1)|
-
-| | |de disponibilidades e créditos para |[pic] | |
-
-| | |cada unidade de obrigações exigíveis.| | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-|Índice de Liquidez Imediata|ILI |Determinar quanto o Município possui |[pic] |≥ 1 (maior ou igual a 1)|
-
-| | |de disponibilidade imediata ou de | | |
-
-| | |alta liquidez para cada unidade de | | |
-
-| | |obrigações exigíveis. | | |
-
-|Índice de Liquidez | |Mensurar as condições da execução |[pic] |≤ 1 (menor ou igual a 1)|
-
-|Financeira Líquida |ISFL |financeira do ente público, apontando| | |
-
-| | |a relação do que se arrecada com o | | |
-
-| | |que se gasta. | | |
-
-|Índice de Resultado |IRO |Analisar a execução das receitas e |[pic] |≤1 (menor ou igual a 1) |
-
-|Orçamentário | |das despesas previstas na LOA, com | | |
-
-| | |relação à arrecadação total, | | |
-
-| | |observando se a arrecadação suporta | | |
-
-| | |as despesas realizadas, assim como se| | |
-
-| | |o resultado entre a receita e a | | |
-
-| | |despesa (superávit ou déficit) guarda| | |
-
-| | |correspondência com a arrecadação | | |
-
-| | |real durante a execução do orçamento.| | |
-
-|Índice de Comprometimento |IDP-RCL |Mensurar se o ente público está em |[pic] |≤ 0,6 (menor ou igual a |
-
-|da Receita Corrente Líquida| |boas condições de comprometimento de | |0,6) |
-
-|com Despesas com Pessoal | |suas receitas correntes com seus | | |
-
-| | |gastos com pessoal. | | |
-
-| | | | | |
-
-| | | | | |
-
-| | | | | |
-
-|Índice de Empréstimos |IETR |Verificar o impacto do ingresso de | |≤ 0,16 (menor ou igual a|
-
-|Tomados em Relação à | |operações de créditos sobre o |[pic] |0,16) |
-
-|Receita Corrente Líquida | |montante da RCL, visando atender ao | | |
-
-| | |disposto no art. 7° da Resolução n° | | |
-
-| | |43/01, do Senado Federal, que | | |
-
-| | |estabelece que o montante global | | |
-
-| | |realizado em um exercício financeiro | | |
-
-| | |deve ser menor ou igual a 16% | | |
-
-| | |(dezesseis por cento) da RCL. | | |
-
-|Índice de Amortização de |IAD |Verificar o impacto sobre a RCL com a|[pic] |≤ 0,115 (menor ou igual |
-
-|Dívida em Relação à Receita| |consequente amortização da dívida, em| |a 0,115) |
-
-|Corrente Líquida | |atendimento ao disposto no art. 7° da| | |
-
-| | |Resolução n° 43/01 do Senado Federal,| | |
-
-| | |que limita o comprometimento anual em| | |
-
-| | |até 11,5% (onze vírgula cinco por | | |
-
-| | |cento) da RCL. | | |
-
-|Índice de Dívida |IDCL |Verificar o nível do endividamento, |[pic] |≤1,2 (menor ou igual a |
-
-|Consolidada Líquida | |possibilitando a comparação entre | |1,2) |
-
-| | |períodos, devendo demonstrar o | | |
-
-| | |atendimento ao limite disposto na | | |
-
-| | |Resolução n° 40/01 do Senado Federal.| | |
-
-|Índice de Comportamento da |ICA |Demonstrar se existe diferença, a |[pic] |≥ 0 (maior ou igual a 0)|
-
-|Arrecadação | |menor ou a maior, da receita prevista| | |
-
-| | |com a receita arrecadada. Serve para | | |
-
-| | |apontar as incongruências na | | |
-
-| | |elaboração da LOA e no comportamento | | |
-
-| | |da arrecadação. Demonstra se o | | |
-
-| | |orçamento, no caso a previsão das | | |
-
-| | |receitas, foi superestimado ou | | |
-
-| | |subestimado. | | |
-
-|Índice de Comportamento da |ICD |Demonstrar qual é a diferença entre a|[pic] |≤ 0 (menor ou igual a 0)|
-
-|Execução da Despesa | |despesa fixada e a despesa realizada,| | |
-
-| | |em relação à despesa fixada total. | | |
-
-| | |Possibilita a correção das distorções| | |
-
-| | |orçamentárias e pode orientar quanto | | |
-
-| | |à necessidade de estipular novas | | |
-
-| | |metas para o orçamento, via aprovação| | |
-
-| | |legislativa. | | |
-
-|Índice entre Receita e |IRD |Verificar o déficit ou superávit do |[pic] |≥ 1 (maior ou igual a 1)|
-
-|Despesa | |Município, demonstrando o desempenho | | |
-
-| | |financeiro do ente ou entidade em um | | |
-
-| | |exercício fiscal. | | |
-
-|Índice de Restos a Pagar |IRPDC |Demonstrar a capacidade financeira de|[pic] |≤ 1 (menor ou igual a 1)|
-
-|Cobertos por | |cobertura dos compromissos | | |
-
-|Disponibilidade de Caixa | |financeiros assumidos em um exercício| | |
-
-| | |fiscal, atendendo às exigências | | |
-
-| | |contida no art. 42 da Lei | | |
-
-| | |Complementar nº 101/00, que imputa a | | |
-
-| | |obrigação de que despesas que | | |
-
-| | |ultrapassem os exercícios fiscais | | |
-
-| | |devem ter, até o último dia do | | |
-
-| | |mandato, dividendos suficientes para | | |
-
-| | |sua cobertura. | | |
-
-|Índice de Restos a Pagar em|IRPMD |Verificar quanto da despesa de cada | |≤ 1 (menor ou igual a 1)|
-
-|Relação à Despesa | |ano representam os restos a pagar. | | |
-
-| | | | | |
-
-| | | |[pic] | |
+| Índice | Sigla | Objetivo | Fórmula | Resultado de Referência |
+| --- | --- | --- | --- | --- |
+| Índice de Liquidez Corrente | ILC | Determinar quanto o Município possui |  | ≥ 1 (maior ou igual a 1) |
+|  |  | de disponibilidades e créditos para | *[imagem no documento original — ver `fonte_texto`]*
+
+|  |
+|  |  | cada unidade de obrigações exigíveis. |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| Índice de Liquidez Imediata | ILI | Determinar quanto o Município possui | *[imagem no documento original — ver `fonte_texto`]*
+
+| ≥ 1 (maior ou igual a 1) |
+|  |  | de disponibilidade imediata ou de |  |  |
+|  |  | alta liquidez para cada unidade de |  |  |
+|  |  | obrigações exigíveis. |  |  |
+| Índice de Liquidez |  | Mensurar as condições da execução | *[imagem no documento original — ver `fonte_texto`]*
+
+| ≤ 1 (menor ou igual a 1) |
+| Financeira Líquida | ISFL | financeira do ente público, apontando |  |  |
+|  |  | a relação do que se arrecada com o |  |  |
+|  |  | que se gasta. |  |  |
+| Índice de Resultado | IRO | Analisar a execução das receitas e | *[imagem no documento original — ver `fonte_texto`]*
+
+| ≤1 (menor ou igual a 1) |
+| Orçamentário |  | das despesas previstas na LOA, com |  |  |
+|  |  | relação à arrecadação total, |  |  |
+|  |  | observando se a arrecadação suporta |  |  |
+|  |  | as despesas realizadas, assim como se |  |  |
+|  |  | o resultado entre a receita e a |  |  |
+|  |  | despesa (superávit ou déficit) guarda |  |  |
+|  |  | correspondência com a arrecadação |  |  |
+|  |  | real durante a execução do orçamento. |  |  |
+| Índice de Comprometimento | IDP-RCL | Mensurar se o ente público está em | *[imagem no documento original — ver `fonte_texto`]*
+
+| ≤ 0,6 (menor ou igual a |
+| da Receita Corrente Líquida |  | boas condições de comprometimento de |  | 0,6) |
+| com Despesas com Pessoal |  | suas receitas correntes com seus |  |  |
+|  |  | gastos com pessoal. |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| Índice de Empréstimos | IETR | Verificar o impacto do ingresso de |  | ≤ 0,16 (menor ou igual a |
+| Tomados em Relação à |  | operações de créditos sobre o | *[imagem no documento original — ver `fonte_texto`]*
+
+| 0,16) |
+| Receita Corrente Líquida |  | montante da RCL, visando atender ao |  |  |
+|  |  | disposto no art. 7° da Resolução n° |  |  |
+|  |  | 43/01, do Senado Federal, que |  |  |
+|  |  | estabelece que o montante global |  |  |
+|  |  | realizado em um exercício financeiro |  |  |
+|  |  | deve ser menor ou igual a 16% |  |  |
+|  |  | (dezesseis por cento) da RCL. |  |  |
+| Índice de Amortização de | IAD | Verificar o impacto sobre a RCL com a | *[imagem no documento original — ver `fonte_texto`]*
+
+| ≤ 0,115 (menor ou igual |
+| Dívida em Relação à Receita |  | consequente amortização da dívida, em |  | a 0,115) |
+| Corrente Líquida |  | atendimento ao disposto no art. 7° da |  |  |
+|  |  | Resolução n° 43/01 do Senado Federal, |  |  |
+|  |  | que limita o comprometimento anual em |  |  |
+|  |  | até 11,5% (onze vírgula cinco por |  |  |
+|  |  | cento) da RCL. |  |  |
+| Índice de Dívida | IDCL | Verificar o nível do endividamento, | *[imagem no documento original — ver `fonte_texto`]*
+
+| ≤1,2 (menor ou igual a |
+| Consolidada Líquida |  | possibilitando a comparação entre |  | 1,2) |
+|  |  | períodos, devendo demonstrar o |  |  |
+|  |  | atendimento ao limite disposto na |  |  |
+|  |  | Resolução n° 40/01 do Senado Federal. |  |  |
+| Índice de Comportamento da | ICA | Demonstrar se existe diferença, a | *[imagem no documento original — ver `fonte_texto`]*
+
+| ≥ 0 (maior ou igual a 0) |
+| Arrecadação |  | menor ou a maior, da receita prevista |  |  |
+|  |  | com a receita arrecadada. Serve para |  |  |
+|  |  | apontar as incongruências na |  |  |
+|  |  | elaboração da LOA e no comportamento |  |  |
+|  |  | da arrecadação. Demonstra se o |  |  |
+|  |  | orçamento, no caso a previsão das |  |  |
+|  |  | receitas, foi superestimado ou |  |  |
+|  |  | subestimado. |  |  |
+| Índice de Comportamento da | ICD | Demonstrar qual é a diferença entre a | *[imagem no documento original — ver `fonte_texto`]*
+
+| ≤ 0 (menor ou igual a 0) |
+| Execução da Despesa |  | despesa fixada e a despesa realizada, |  |  |
+|  |  | em relação à despesa fixada total. |  |  |
+|  |  | Possibilita a correção das distorções |  |  |
+|  |  | orçamentárias e pode orientar quanto |  |  |
+|  |  | à necessidade de estipular novas |  |  |
+|  |  | metas para o orçamento, via aprovação |  |  |
+|  |  | legislativa. |  |  |
+| Índice entre Receita e | IRD | Verificar o déficit ou superávit do | *[imagem no documento original — ver `fonte_texto`]*
+
+| ≥ 1 (maior ou igual a 1) |
+| Despesa |  | Município, demonstrando o desempenho |  |  |
+|  |  | financeiro do ente ou entidade em um |  |  |
+|  |  | exercício fiscal. |  |  |
+| Índice de Restos a Pagar | IRPDC | Demonstrar a capacidade financeira de | *[imagem no documento original — ver `fonte_texto`]*
+
+| ≤ 1 (menor ou igual a 1) |
+| Cobertos por |  | cobertura dos compromissos |  |  |
+| Disponibilidade de Caixa |  | financeiros assumidos em um exercício |  |  |
+|  |  | fiscal, atendendo às exigências |  |  |
+|  |  | contida no art. 42 da Lei |  |  |
+|  |  | Complementar nº 101/00, que imputa a |  |  |
+|  |  | obrigação de que despesas que |  |  |
+|  |  | ultrapassem os exercícios fiscais |  |  |
+|  |  | devem ter, até o último dia do |  |  |
+|  |  | mandato, dividendos suficientes para |  |  |
+|  |  | sua cobertura. |  |  |
+| Índice de Restos a Pagar em | IRPMD | Verificar quanto da despesa de cada |  | ≤ 1 (menor ou igual a 1) |
+| Relação à Despesa |  | ano representam os restos a pagar. |  |  |
+|  |  |  |  |  |
+|  |  |  | *[imagem no documento original — ver `fonte_texto`]*
+
+|  |
 
 ANEXO IV
 
 LOCALIZAÇÃO DE VARIÁVEIS
 
-|Variável |Sigla |Nome/Balancete |Código Contábil |
-
-|Ativo Circulante |AC |Ativo Circulante |1.1.0.0.0.00.00 |
-
-|Passivo Circulante |PC |Passivo Circulante |2.1.0.0.0.00.00 |
-
-|Disp. + Vinculados em Conta Corrente |DISP |Caixa e Equivalentes de Caixa |1.1.1.1.1.01.00 |
-
-|Receita Realizada |RR |Receita Realizada |6.2.1.2.0.00.00 |
-
-|Despesa com Pessoal |DP |Despesa com Pessoal |Anexo I RGF |
-
-|Operações de Crédito |OC |Operações de Crédito |Soma coluna de crédito: |
-
-| | | |2.1.2.1+2.1.2.3+2.2.2.1+2.2.2.3 |
-
-|Receita Corrente Líquida |RCL |Receita Corrente Líquida |Anexo III - RREO |
-
-|Montante da Dívida Consolidada |MDC |Montante da Dívida Consolidada |Soma do Saldo Final: |
-
-| | | |2.1.2.1+2.1.2.3+2.1.2.5+2.2.2.1+2|
-
-| | | |.2.2.3 |
-
-|Receita Arrecadada |RA |Receita Realizada |6.2.1.2.0.00.00 |
-
-|Receita Prevista |RecP |Previsão Inicial da Receita |5.2.1.1.0.00.00 |
-
-|Despesa Realizada |DR |Crédito Empenhado a Liquidar |6.2.2.1.3.01.00 |
-
-|Despesa Prevista |DPrev |Dotação Inicial |5.2.2.1.1.00.00 |
-
-|Despesa Empenhada |DE |Crédito Empenhado a Liquidar |6.2.2.1.3.01.00 |
-
-|Restos a Pagar |RP |Restos a Pagar |Soma do Saldo Final: 5.3.1.7+ |
-
-| | | |5.3.2.7 |
-
-|Amortização e Encargos |AE |Amortização e Encargos |Soma de débito: |
-
-| | | |2.1.2.1+2.1.2.3+2.1.2.5+2.2.2.1+2|
-
-| | | |.2.2.3 |
+| Variável | Sigla | Nome/Balancete | Código Contábil |
+| --- | --- | --- | --- |
+| Ativo Circulante | AC | Ativo Circulante | 1.1.0.0.0.00.00 |
+| Passivo Circulante | PC | Passivo Circulante | 2.1.0.0.0.00.00 |
+| Disp. + Vinculados em Conta Corrente | DISP | Caixa e Equivalentes de Caixa | 1.1.1.1.1.01.00 |
+| Receita Realizada | RR | Receita Realizada | 6.2.1.2.0.00.00 |
+| Despesa com Pessoal | DP | Despesa com Pessoal | Anexo I RGF |
+| Operações de Crédito | OC | Operações de Crédito | Soma coluna de crédito: |
+|  |  |  | 2.1.2.1+2.1.2.3+2.2.2.1+2.2.2.3 |
+| Receita Corrente Líquida | RCL | Receita Corrente Líquida | Anexo III - RREO |
+| Montante da Dívida Consolidada | MDC | Montante da Dívida Consolidada | Soma do Saldo Final: |
+|  |  |  | 2.1.2.1+2.1.2.3+2.1.2.5+2.2.2.1+2 |
+|  |  |  | .2.2.3 |
+| Receita Arrecadada | RA | Receita Realizada | 6.2.1.2.0.00.00 |
+| Receita Prevista | RecP | Previsão Inicial da Receita | 5.2.1.1.0.00.00 |
+| Despesa Realizada | DR | Crédito Empenhado a Liquidar | 6.2.2.1.3.01.00 |
+| Despesa Prevista | DPrev | Dotação Inicial | 5.2.2.1.1.00.00 |
+| Despesa Empenhada | DE | Crédito Empenhado a Liquidar | 6.2.2.1.3.01.00 |
+| Restos a Pagar | RP | Restos a Pagar | Soma do Saldo Final: 5.3.1.7+ |
+|  |  |  | 5.3.2.7 |
+| Amortização e Encargos | AE | Amortização e Encargos | Soma de débito: |
+|  |  |  | 2.1.2.1+2.1.2.3+2.1.2.5+2.2.2.1+2 |
+|  |  |  | .2.2.3 |

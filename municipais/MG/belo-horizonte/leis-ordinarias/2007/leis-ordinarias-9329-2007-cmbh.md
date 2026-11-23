@@ -342,103 +342,60 @@ ANEXO I
 
 A – EMPREGOS PÚBLICOS EFETIVOS DA SLU / NÚMERO DE VAGAS
 
-| |NÚMERO DE VAGAS |
-
-|EMPREGO PÚBLICO EFETIVO | |
-
-|Gari de Varrição |745 |
-
-|Gari de Serviços Complementares |209 |
-
-|Gari de Coleta |320 |
-
-|Auxiliar de Apoio Operacional |61 |
-
-|Telefonista |2 |
-
-|Operador de Rádio |2 |
-
-|Auxiliar Administrativo |2 |
-
-|Auxiliar de Operação e Controle |216 |
-
-|Oficial de Serviços |21 |
-
-|Oficial de Manutenção |41 |
-
-|Operador de Máquinas Pesadas |02 |
-
-|Motorista |109 |
-
-|Fiscal de Limpeza Urbana |175 |
-
-|Agente de Operação e Controle |120 |
-
-|Cadastrador |30 |
-
-|Assistente Administrativo |165 |
-
-|Técnico de Nível Médio |84 |
-
-|Engenheiro |74 |
-
-|Arquiteto |10 |
-
-|Advogado |20 |
-
-|Médico do Trabalho |4 |
-
-|Técnico de Nível Superior |70 |
-
-|TOTAL |2482 |
+|  | NÚMERO DE VAGAS |
+| --- | --- |
+| EMPREGO PÚBLICO EFETIVO |  |
+| Gari de Varrição | 745 |
+| Gari de Serviços Complementares | 209 |
+| Gari de Coleta | 320 |
+| Auxiliar de Apoio Operacional | 61 |
+| Telefonista | 2 |
+| Operador de Rádio | 2 |
+| Auxiliar Administrativo | 2 |
+| Auxiliar de Operação e Controle | 216 |
+| Oficial de Serviços | 21 |
+| Oficial de Manutenção | 41 |
+| Operador de Máquinas Pesadas | 02 |
+| Motorista | 109 |
+| Fiscal de Limpeza Urbana | 175 |
+| Agente de Operação e Controle | 120 |
+| Cadastrador | 30 |
+| Assistente Administrativo | 165 |
+| Técnico de Nível Médio | 84 |
+| Engenheiro | 74 |
+| Arquiteto | 10 |
+| Advogado | 20 |
+| Médico do Trabalho | 4 |
+| Técnico de Nível Superior | 70 |
+| TOTAL | 2482 |
 
 ANEXO I
 
 A - EMPREGOS PÚBLICOS EFETIVOS DA SLU / NÚMERO DE VAGAS
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Gari de Varrição |745 |
-
-|Gari de Serviços Complementares |209 |
-
-|Gari de Coleta |320 |
-
-|Auxiliar de Apoio Operacional |61 |
-
-|Telefonista |2 |
-
-|Operador de Rádio |2 |
-
-|Auxiliar Administrativo |2 |
-
-|Auxiliar de Operação e Controle |216 |
-
-|Oficial de Serviços |21 |
-
-|Oficial de Manutenção |41 |
-
-|Operador de Máquinas Pesadas |2 |
-
-|Motorista |109 |
-
-|Fiscal de Limpeza Urbana |175 |
-
-|Agente de Operação e Controle |120 |
-
-|Cadastrador |30 |
-
-|Técnico de Nível Médio |84 |
-
-|Engenheiro |74 |
-
-|Arquiteto |10 |
-
-|Advogado |20 |
-
-|Médico do Trabalho |4 |
-
-|Técnico de Nível Superior |70 |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Gari de Varrição | 745 |
+| Gari de Serviços Complementares | 209 |
+| Gari de Coleta | 320 |
+| Auxiliar de Apoio Operacional | 61 |
+| Telefonista | 2 |
+| Operador de Rádio | 2 |
+| Auxiliar Administrativo | 2 |
+| Auxiliar de Operação e Controle | 216 |
+| Oficial de Serviços | 21 |
+| Oficial de Manutenção | 41 |
+| Operador de Máquinas Pesadas | 2 |
+| Motorista | 109 |
+| Fiscal de Limpeza Urbana | 175 |
+| Agente de Operação e Controle | 120 |
+| Cadastrador | 30 |
+| Técnico de Nível Médio | 84 |
+| Engenheiro | 74 |
+| Arquiteto | 10 |
+| Advogado | 20 |
+| Médico do Trabalho | 4 |
+| Técnico de Nível Superior | 70 |
 
 Item A com redação dada pela Lei nº 11.376, de 4/7/2022 (Art. 25, VI)
 
@@ -446,153 +403,85 @@ ANEXO I
 
 A - EMPREGOS PÚBLICOS EFETIVOS DA SLU/NÚMERO DE VAGAS:
 
-|EMPREGO PÚBLICO EFETIVO |NÚMERO DE VAGAS |
-
-|Gari de Varrição |745 |
-
-|Gari de Serviços Complementares |209 |
-
-|Gari de Coleta |320 |
-
-|Auxiliar de Apoio Operacional |61 |
-
-|Telefonista |2 |
-
-|Operador de Rádio |2 |
-
-|Auxiliar Administrativo |2 |
-
-|Auxiliar de Operação e Controle |216 |
-
-|Oficial de Serviços |21 |
-
-|Oficial de Manutenção |41 |
-
-|Operador de Máquinas Pesadas |2 |
-
-|Motorista |109 |
-
-|Fiscal de Limpeza Urbana |175 |
-
-|Agente de Operação e Controle |120 |
-
-|Cadastrador |30 |
-
-|Técnico de Nível Médio |84 |
-
-|Médico do Trabalho |4 |
-
-|Engenheiro |31 |
-
-|Acrescentado pela Lei nº 11.678, de 2/4/2024 (Art.|Acrescentado pela Lei nº 11.678, de 2/4/2024 |
-
-|32) |(Art. 32) |
-
-|Arquiteto |5 |
-
-|Acrescentado pela Lei nº 11.678, de 2/4/2024 (Art.|Acrescentado pela Lei nº 11.678, de 2/4/2024 |
-
-|32) |(Art. 32) |
+| EMPREGO PÚBLICO EFETIVO | NÚMERO DE VAGAS |
+| --- | --- |
+| Gari de Varrição | 745 |
+| Gari de Serviços Complementares | 209 |
+| Gari de Coleta | 320 |
+| Auxiliar de Apoio Operacional | 61 |
+| Telefonista | 2 |
+| Operador de Rádio | 2 |
+| Auxiliar Administrativo | 2 |
+| Auxiliar de Operação e Controle | 216 |
+| Oficial de Serviços | 21 |
+| Oficial de Manutenção | 41 |
+| Operador de Máquinas Pesadas | 2 |
+| Motorista | 109 |
+| Fiscal de Limpeza Urbana | 175 |
+| Agente de Operação e Controle | 120 |
+| Cadastrador | 30 |
+| Técnico de Nível Médio | 84 |
+| Médico do Trabalho | 4 |
+| Engenheiro | 31 |
+| Acrescentado pela Lei nº 11.678, de 2/4/2024 (Art. | Acrescentado pela Lei nº 11.678, de 2/4/2024 |
+| 32) | (Art. 32) |
+| Arquiteto | 5 |
+| Acrescentado pela Lei nº 11.678, de 2/4/2024 (Art. | Acrescentado pela Lei nº 11.678, de 2/4/2024 |
+| 32) | (Art. 32) |
 
 Tabela A com redação dada pela Lei nº 11.539, de 5/7/2023 (Art. 64, IV)
 
 B - POSICIONAMENTO DOS EMPREGOS PÚBLICOS EFETIVOS DA ESTRUTURA FUNCIONAL DA SLU NA DATA DA PUBLICAÇÃO DESTA LEI CUJOS TITULARES OPTEM POR ESTE PLANO DE CARREIRA
 
-| | |
-
-|EMPREGO PÚBLICO EFETIVO ATUAL |EMPREGO PÚBLICO PROPOSTO |
-
-|Gari I |Gari de Varrição / Em Extinção |
-
-|Gari II |Gari de Serviços Complementares / Em Extinção |
-
-|Gari III |Gari de Coleta / Em Extinção |
-
-|Auxiliar de Serviços |Auxiliar de Apoio Operacional / Em Extinção |
-
-|Operador de Rádio |Operador de Rádio / Em Extinção |
-
-|Telefonista |Telefonista / Em Extinção |
-
-|Contínuo |Auxiliar Administrativo / Em Extinção |
-
-|Monitor de Turma |Auxiliar de Operação E Controle / Em Extinção |
-
-|Fiscal de Pátio | |
-
-|Oficial de Serviços |Oficial de Serviços / Em Extinção |
-
-|Operador de Máquinas Pesadas |Operador de Máquinas Pesadas / Em Extinção |
-
-|Auxiliar de Manutenção |Oficial de Manutenção / Em Extinção |
-
-|Oficial de Manutenção | |
-
-|Motorista |Motorista / Em Extinção |
-
-|Desenhista Copista |Extinto |
-
-|Fiscal de Limpeza Urbana |Fiscal de Limpeza Urbana |
-
-|Coordenador de Fiscalização | |
-
-|Encarregado |Agente de Operação e Controle |
-
-| | |
-
-|EMPREGO PÚBLICO EFETIVO ATUAL |EMPREGO PÚBLICO PROPOSTO |
-
-|Escriturário |Assistente Administrativo |
-
-|Agente Administrativo | |
-
-|Cadastrador |Cadastrador |
-
-|Auxiliar de Enfermagem do Trabalho |Técnico de Nível Médio |
-
-|Auxiliar Técnico | |
-
-|Desenhista | |
-
-|Técnico de Contabilidade | |
-
-|Técnico de Laboratório | |
-
-|Técnico de Segurança do Trabalho | |
-
-|Topógrafo |Extinto |
-
-|Assistente Técnico |Extinto |
-
-|Administrador |Técnico de Nível Superior |
-
-|Analista de Mobilização Social e Educação para Limpeza Urbana | |
-
-|Assistente Social | |
-
-|Biólogo | |
-
-|Contador | |
-
-|Economista | |
-
-|Pedagogo | |
-
-|Psicólogo | |
-
-|Comunicador Social | |
-
-|Técnico em Memória e Pesquisa | |
-
-|Arquiteto |Arquiteto |
-
-|Engenheiro |Engenheiro |
-
-|Engenheiro de Segurança Trabalho | |
-
-|Médico do Trabalho |Médico do Trabalho |
-
-|Advogado |Advogado |
+|  |  |
+| --- | --- |
+| EMPREGO PÚBLICO EFETIVO ATUAL | EMPREGO PÚBLICO PROPOSTO |
+| Gari I | Gari de Varrição / Em Extinção |
+| Gari II | Gari de Serviços Complementares / Em Extinção |
+| Gari III | Gari de Coleta / Em Extinção |
+| Auxiliar de Serviços | Auxiliar de Apoio Operacional / Em Extinção |
+| Operador de Rádio | Operador de Rádio / Em Extinção |
+| Telefonista | Telefonista / Em Extinção |
+| Contínuo | Auxiliar Administrativo / Em Extinção |
+| Monitor de Turma | Auxiliar de Operação E Controle / Em Extinção |
+| Fiscal de Pátio |  |
+| Oficial de Serviços | Oficial de Serviços / Em Extinção |
+| Operador de Máquinas Pesadas | Operador de Máquinas Pesadas / Em Extinção |
+| Auxiliar de Manutenção | Oficial de Manutenção / Em Extinção |
+| Oficial de Manutenção |  |
+| Motorista | Motorista / Em Extinção |
+| Desenhista Copista | Extinto |
+| Fiscal de Limpeza Urbana | Fiscal de Limpeza Urbana |
+| Coordenador de Fiscalização |  |
+| Encarregado | Agente de Operação e Controle |
+|  |  |
+| EMPREGO PÚBLICO EFETIVO ATUAL | EMPREGO PÚBLICO PROPOSTO |
+| Escriturário | Assistente Administrativo |
+| Agente Administrativo |  |
+| Cadastrador | Cadastrador |
+| Auxiliar de Enfermagem do Trabalho | Técnico de Nível Médio |
+| Auxiliar Técnico |  |
+| Desenhista |  |
+| Técnico de Contabilidade |  |
+| Técnico de Laboratório |  |
+| Técnico de Segurança do Trabalho |  |
+| Topógrafo | Extinto |
+| Assistente Técnico | Extinto |
+| Administrador | Técnico de Nível Superior |
+| Analista de Mobilização Social e Educação para Limpeza Urbana |  |
+| Assistente Social |  |
+| Biólogo |  |
+| Contador |  |
+| Economista |  |
+| Pedagogo |  |
+| Psicólogo |  |
+| Comunicador Social |  |
+| Técnico em Memória e Pesquisa |  |
+| Arquiteto | Arquiteto |
+| Engenheiro | Engenheiro |
+| Engenheiro de Segurança Trabalho |  |
+| Médico do Trabalho | Médico do Trabalho |
+| Advogado | Advogado |
 
 ANEXO II
 
@@ -982,121 +871,69 @@ A – TABELA DE SALÁRIOS-BASE DO EMPREGO PÚBLICO EFETIVO DE MÉDICO DO TRABALH
 
 JORNADA DE 20 HORAS SEMANAIS (VALORES EM R$)
 
-| | |
-
-|NÍVEL |MÉDICO DO TRABALHO |
-
-| | |
-
-|1 |1.763,00 |
-
-| | |
-
-|2 |1.851,15 |
-
-| | |
-
-|3 |1.943,71 |
-
-| | |
-
-|4 |2.040,89 |
-
-| | |
-
-|5 |2.142,94 |
-
-| | |
-
-|6 |2.250,08 |
-
-| | |
-
-|7 |2.362,59 |
-
-| | |
-
-|8 |2.480,72 |
-
-| | |
-
-|9 |2.604,75 |
-
-| | |
-
-|10 |2.734,99 |
-
-| | |
-
-|11 |2.871,74 |
-
-| | |
-
-|12 |3.015,33 |
-
-| | |
-
-|13 |3.166,09 |
-
-| | |
-
-|14 |3.324,40 |
-
-| | |
-
-|15 |3.490,62 |
+|  |  |
+| --- | --- |
+| NÍVEL | MÉDICO DO TRABALHO |
+|  |  |
+| 1 | 1.763,00 |
+|  |  |
+| 2 | 1.851,15 |
+|  |  |
+| 3 | 1.943,71 |
+|  |  |
+| 4 | 2.040,89 |
+|  |  |
+| 5 | 2.142,94 |
+|  |  |
+| 6 | 2.250,08 |
+|  |  |
+| 7 | 2.362,59 |
+|  |  |
+| 8 | 2.480,72 |
+|  |  |
+| 9 | 2.604,75 |
+|  |  |
+| 10 | 2.734,99 |
+|  |  |
+| 11 | 2.871,74 |
+|  |  |
+| 12 | 3.015,33 |
+|  |  |
+| 13 | 3.166,09 |
+|  |  |
+| 14 | 3.324,40 |
+|  |  |
+| 15 | 3.490,62 |
 
 ANEXO III
 
 TABELAS DE SALÁRIOS-BASE DA SUPERINTENDÊNCIA DE LIMPEZA URBANA DE BELO HORIZONTE – SLU
 
-|CARGO |TABELA DE VENCIMENTOS-BASE (Valores em R$) – JORNADA 20 HORAS SEMANAIS |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |2 |
-
-| | |NÍVEL |
-
-| |1 |2 |3 |4 |5 |6 |7 |8 |
-
-|1 |460,00 |930,00 |930,00 |930,00 |3.000,00 |3.000,00 |3.000,00 |3.000,00 |
-
-|2 |483,00 |976,50 |976,50 |976,50 |3.150,00 |3.150,00 |3.150,00 |3.150,00 |
-
-|3 |507,15 |1.025,33 |1.025,33 |1.025,33 |3.307,50 |3.307,50 |3.307,50 |3.307,50 |
-
-|4 |532,51 |1.076,59 |1.076,59 |1.076,59 |3.472,88 |3.472,88 |3.472,88 |3.472,88 |
-
-|5 |559,13 |1.130,42 |1.130,42 |1.130,42 |3.646,52 |3.646,52 |3.646,52 |3.646,52 |
-
-|6 |587,09 |1.186,94 |1.186,94 |1.186,94 |3.828,84 |3.828,84 |3.828,84 |3.828,84 |
-
-|7 |616,44 |1.246,29 |1.246,29 |1.246,29 |4.020,29 |4.020,29 |4.020,29 |4.020,29 |
-
-|8 |647,27 |1.308,60 |1.308,60 |1.308,60 |4.221,30 |4.221,30 |4.221,30 |4.221,30 |
-
-|9 |679,63 |1.374,03 |1.374,03 |1.374,03 |4.432,37 |4.432,37 |4.432,37 |4.432,37 |
-
-|10 |713,61 |1.442,74 |1.442,74 |1.442,74 |4.653,98 |4.653,98 |4.653,98 |4.653,98 |
-
-|11 |749,29 |1.514,87 |1.514,87 |1.514,87 |4.886,68 |4.886,68 |4.886,68 |4.886,68 |
-
-|12 |786,76 |1.590,62 |1.590,62 |1.590,62 |5.131,02 |5.131,02 |5.131,02 |5.131,02 |
-
-|13 |826,09 |1.670,15 |1.670,15 |1.670,15 |5.387,57 |5.387,57 |5.387,57 |5.387,57 |
-
-|14 |867,40 |1.753,65 |1.753,65 |1.753,65 |5.656,95 |5.656,95 |5.656,95 |5.656,95 |
-
-|15 |910,77 |1.841,34 |1.841,34 |1.841,34 |5.939,79 |5.939,79 |5.939,79 |5.939,79 |
+| CARGO | TABELA DE VENCIMENTOS-BASE (Valores em R$) – JORNADA 20 HORAS SEMANAIS |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | NÍVEL |  |  |  |  |  |  |  |
+|  | 1 |  |  |  |  |  |  |  |
+|  | NÍVEL |  |  |  |  |  |  |  |
+|  | 1 |  |  |  |  |  |  |  |
+|  | NÍVEL |  |  |  |  |  |  |  |
+|  | 1 | 2 |  |  |  |  |  |  |
+|  |  | NÍVEL |  |  |  |  |  |  |
+|  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 1 | 460,00 | 930,00 | 930,00 | 930,00 | 3.000,00 | 3.000,00 | 3.000,00 | 3.000,00 |
+| 2 | 483,00 | 976,50 | 976,50 | 976,50 | 3.150,00 | 3.150,00 | 3.150,00 | 3.150,00 |
+| 3 | 507,15 | 1.025,33 | 1.025,33 | 1.025,33 | 3.307,50 | 3.307,50 | 3.307,50 | 3.307,50 |
+| 4 | 532,51 | 1.076,59 | 1.076,59 | 1.076,59 | 3.472,88 | 3.472,88 | 3.472,88 | 3.472,88 |
+| 5 | 559,13 | 1.130,42 | 1.130,42 | 1.130,42 | 3.646,52 | 3.646,52 | 3.646,52 | 3.646,52 |
+| 6 | 587,09 | 1.186,94 | 1.186,94 | 1.186,94 | 3.828,84 | 3.828,84 | 3.828,84 | 3.828,84 |
+| 7 | 616,44 | 1.246,29 | 1.246,29 | 1.246,29 | 4.020,29 | 4.020,29 | 4.020,29 | 4.020,29 |
+| 8 | 647,27 | 1.308,60 | 1.308,60 | 1.308,60 | 4.221,30 | 4.221,30 | 4.221,30 | 4.221,30 |
+| 9 | 679,63 | 1.374,03 | 1.374,03 | 1.374,03 | 4.432,37 | 4.432,37 | 4.432,37 | 4.432,37 |
+| 10 | 713,61 | 1.442,74 | 1.442,74 | 1.442,74 | 4.653,98 | 4.653,98 | 4.653,98 | 4.653,98 |
+| 11 | 749,29 | 1.514,87 | 1.514,87 | 1.514,87 | 4.886,68 | 4.886,68 | 4.886,68 | 4.886,68 |
+| 12 | 786,76 | 1.590,62 | 1.590,62 | 1.590,62 | 5.131,02 | 5.131,02 | 5.131,02 | 5.131,02 |
+| 13 | 826,09 | 1.670,15 | 1.670,15 | 1.670,15 | 5.387,57 | 5.387,57 | 5.387,57 | 5.387,57 |
+| 14 | 867,40 | 1.753,65 | 1.753,65 | 1.753,65 | 5.656,95 | 5.656,95 | 5.656,95 | 5.656,95 |
+| 15 | 910,77 | 1.841,34 | 1.841,34 | 1.841,34 | 5.939,79 | 5.939,79 | 5.939,79 | 5.939,79 |
 
 Colunas referentes aos cargos de Engenheiro e Arquiteto excluídas pela Lei nº 11.678, de 2/4/2024 (Art. 34)
 
@@ -1104,45 +941,30 @@ D – TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS EFETIVOS DE OPERADOR DE R�
 
 JORNADA DE 30HORAS SEMANAIS (VALORES EM R$)
 
-|Nível | |Telefonista |
-
-| |Operador de Rádio | |
-
-|1 |460,00 |460,00 |
-
-|2 |483,00 |483,00 |
-
-|3 |507,15 |507,15 |
-
-|4 |532,51 |532,51 |
-
-|5 |559,13 |559,13 |
-
-|6 |587,09 |587,09 |
-
-|7 |616,44 |616,44 |
-
-|8 |647,27 |647,27 |
-
-|9 |679,63 |679,63 |
-
-|10 |713,61 |713,61 |
-
-|11 |749,29 |749,29 |
-
-|12 |786,76 |786,76 |
-
-|13 |826,09 |826,09 |
-
-|14 |867,40 |867,40 |
-
-|15 |910,77 |910,77 |
+| Nível |  | Telefonista |
+| --- | --- | --- |
+|  | Operador de Rádio |  |
+| 1 | 460,00 | 460,00 |
+| 2 | 483,00 | 483,00 |
+| 3 | 507,15 | 507,15 |
+| 4 | 532,51 | 532,51 |
+| 5 | 559,13 | 559,13 |
+| 6 | 587,09 | 587,09 |
+| 7 | 616,44 | 616,44 |
+| 8 | 647,27 | 647,27 |
+| 9 | 679,63 | 679,63 |
+| 10 | 713,61 | 713,61 |
+| 11 | 749,29 | 749,29 |
+| 12 | 786,76 | 786,76 |
+| 13 | 826,09 | 826,09 |
+| 14 | 867,40 | 867,40 |
+| 15 | 910,77 | 910,77 |
 
 E - TABELA DE SALÁRIOS-BASE DOS EMPREGOS PÚBLICOS EFETIVOS DE ENGENHEIRO E DE ARQUITETO
 
-|CARGOS |40 HORAS SEMANAIS |
-
-| |NÍVEL |
+| CARGOS | 40 HORAS SEMANAIS |
+| --- | --- |
+|  | NÍVEL |
 
 |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 | |ENGENHEIRO
 

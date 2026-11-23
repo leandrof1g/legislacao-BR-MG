@@ -28,39 +28,33 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 1º** - O valor do vale-refeição atribuído aos servidores e empregados públicos integrantes do quadro de pessoal da Administração Direta do Poder Executivo, da Fundação Municipal de Parques, da Fundação Municipal de Cultura, da Fundação Zôo-Botânica - FZB, da Superintendência de Limpeza Urbana de Belo Horizonte - SLU, e da Superintendência de Desenvolvimento da Capital - SUDECAP, será reajustado nas seguintes datas e valores:
 
-|VALE-REFEIÇÃO (EM R$ - POR DIA EFETIVAMENTE TRABALHADO) |
-
-|1º DE JULHO DE 2009 |1º DE JANEIRO DE 2010 |1º DE AGOSTO DE 2010 |
-
-|7,00 |9,00 |10,00 |
+| VALE-REFEIÇÃO (EM R$ - POR DIA EFETIVAMENTE TRABALHADO) |  |  |
+| --- | --- | --- |
+| 1º DE JULHO DE 2009 | 1º DE JANEIRO DE 2010 | 1º DE AGOSTO DE 2010 |
+| 7,00 | 9,00 | 10,00 |
 
 **§ 1º** - O valor do vale-refeição atribuído aos servidores e empregados públicos integrantes do quadro de pessoal da Beneficência da Prefeitura de Belo Horizonte - BEPREM será reajustado nas seguintes datas e valores:
 
-|VALE-REFEIÇÃO (EM R$ - POR DIA EFETIVAMENTE TRABALHADO) |
-
-|1º DE JANEIRO DE 2010 |1º DE AGOSTO DE 2010 |
-
-|9,00 |10,00 |
+| VALE-REFEIÇÃO (EM R$ - POR DIA EFETIVAMENTE TRABALHADO) |  |
+| --- | --- |
+| 1º DE JANEIRO DE 2010 | 1º DE AGOSTO DE 2010 |
+| 9,00 | 10,00 |
 
 **§ 2º** - A partir de 1° de julho de 2009, fica instituído o vale-lanche, beneficio de natureza indenizatória devido aos servidores e empregados públicos integrantes dos quadros de pessoal da Fundação Zôo-Botânica - FZB, da SLU e da SUDECAP, a ser pago por dia de trabalho efetivo, nas condições definidas em instrumento próprio, mediante ato dos Titulares daquelas entidades, nos seguintes valores:
 
-|VALE-LANCHE (EM R$ - POR DIA EFETIVAMENTE TRABALHADO) |
-
-|FZB |SLU |SUDECAP |
-
-|3,00 |3,00 |3,00 |
+| VALE-LANCHE (EM R$ - POR DIA EFETIVAMENTE TRABALHADO) |  |  |
+| --- | --- | --- |
+| FZB | SLU | SUDECAP |
+| 3,00 | 3,00 | 3,00 |
 
 **Art. 2º** - A partir de 1° de setembro de 2009, a jornada complementar, instituída no art. 5° da Lei n° 6.560, de 28 de fevereiro de 1994, e suas alterações, devida aos ocupantes do cargo público efetivo de Educador Infantil, integrante do Plano de Carreira da Área de Atividades de Educação, instituída pela Lei n° 7.235, de 27 de dezembro de 1996, será paga nos seguintes valores e conforme as seguintes jornadas:
 
-|JORNADA COMPLEMENTAR PRESTADA |VALOR (EM R$) |
-
-| | | |
-
-|DIÁRIA |SEMANAL | |
-
-|01h30min |07h30min |283,26 |
-
-|04h18min |21h30min |812,00 |
+| JORNADA COMPLEMENTAR PRESTADA | VALOR (EM R$) |  |
+| --- | --- | --- |
+|  |  |  |
+| DIÁRIA | SEMANAL |  |
+| 01h30min | 07h30min | 283,26 |
+| 04h18min | 21h30min | 812,00 |
 
 **Art. 3º** - A partir de 1° de janeiro de 2010, fica instituído o Abono de Estímulo à Fixação Profissional, a ser pago uma vez ao final de cada semestre aos servidores e empregados públicos ocupantes dos cargos e empregos públicos de Educador Infantil, Pedagogo, Técnico Superior de Educação nas funções de Supervisor Pedagógico ou Orientador Educacional e Professor Municipal, integrantes da Área de Atividades de Educação, em efetivo exercício das atribuições dos seus cargos e empregos públicos nas Escolas municipais e Unidades Municipais de Educação Infantil - UMEls - que, por conta de suas singularidades, estejam incluídas no rol constante do regulamento desta Lei, devendo os referidos servidores e empregados públicos cumprirem as seguintes condições ao longo do semestre letivo de competência:
 
@@ -84,33 +78,24 @@ Inciso III com redação dada pela Lei n° 10.572, de 13/12/2012 (Art. 9°)
 
 **§ 1º** - O Abono de Estímulo à Fixação Profissional será pago aos servidores e empregados públicos referidos no caput deste artigo em cada vínculo efetivo de que for detentor e/ou nas hipóteses de cumprimento de extensão de jornada ou jornada complementar, desde que, em cada uma dessas hipóteses, estejam atendidos os requisitos estabelecidos nos seus incisos I a IlI, nos seguintes valores:
 
-|CARGOS E EMPREGOS PÚBLICOS |ABONO DE ESTÍMULO À FIXAÇÃO PROFISSIONAL (em R$) |
-
-|Educador Infantil |500,00 |
-
-|Pedagogo |800,00 |
-
-|Técnico Superior de Educação em exercício de Supervisão |800,00 |
-
-|Pedagógica ou orientação Educacional | |
-
-|Professor Municipal |800,00 |
+| CARGOS E EMPREGOS PÚBLICOS | ABONO DE ESTÍMULO À FIXAÇÃO PROFISSIONAL (em R$) |
+| --- | --- |
+| Educador Infantil | 500,00 |
+| Pedagogo | 800,00 |
+| Técnico Superior de Educação em exercício de Supervisão | 800,00 |
+| Pedagógica ou orientação Educacional |  |
+| Professor Municipal | 800,00 |
 
 **§ 1º** - O Abono de Estímulo à Fixação Profissional será pago aos servidores e empregados públicos referidos no caput deste artigo em cada vínculo efetivo de que for detentor e/ou na hipótese de cumprimento de extensão de jornada, desde que, em cada uma dessas hipóteses, estejam atendidos os requisitos estabelecidos nos seus incisos I a III, nos seguintes valores:
 
-|CARGOS E EMPREGOS PÚBLICOS |ABONO DE ESTÍMULO |
-
-| |À FIXAÇÃO PROFISSIONAL (em R$) |
-
-|Professor para a Educação Infantil |800,00 |
-
-|Pedagogo |800,00 |
-
-|Técnico Superior de Educação em exercício de Supervisão |800,00 |
-
-|Pedagógica ou Orientação Educacional | |
-
-|Professor Municipal |800,00 |
+| CARGOS E EMPREGOS PÚBLICOS | ABONO DE ESTÍMULO |
+| --- | --- |
+|  | À FIXAÇÃO PROFISSIONAL (em R$) |
+| Professor para a Educação Infantil | 800,00 |
+| Pedagogo | 800,00 |
+| Técnico Superior de Educação em exercício de Supervisão | 800,00 |
+| Pedagógica ou Orientação Educacional |  |
+| Professor Municipal | 800,00 |
 
 **§ 1°** com redação dada pela Lei n° 10.572, de 13/12/2012 (Art. 9°)
 
@@ -142,31 +127,23 @@ II - ocupantes de cargo público em comissão de Diretor de Estabelecimento de E
 
 **§ 2º** - Será pago 1 (um) Prêmio por Participação em Reunião Pedagógica a cada mês, limitado em 10 (dez) Prêmios a cada ano, conforme o regulamento desta Lei, nos seguintes valores:
 
-|CARGOS E EMPREGOS PÚBLICOS |PRÊMIO POR PARTICIPAÇÃO EM REUNIÃO PEDAGÓGICA (EM R$) |
-
-|Educador Infantil |80,00 |
-
-|Pedagogo |100,00 |
-
-|Técnico Superior de Educação / Supervisor Pedagógico ou Orientador|100,00 |
-
-|Educacional | |
-
-|Professor Municipal |100,00 |
+| CARGOS E EMPREGOS PÚBLICOS | PRÊMIO POR PARTICIPAÇÃO EM REUNIÃO PEDAGÓGICA (EM R$) |
+| --- | --- |
+| Educador Infantil | 80,00 |
+| Pedagogo | 100,00 |
+| Técnico Superior de Educação / Supervisor Pedagógico ou Orientador | 100,00 |
+| Educacional |  |
+| Professor Municipal | 100,00 |
 
 **§ 2º** - Será pago 1 (um) Prêmio por Participação em Reunião Pedagógica a cada mês, limitado a 10 (dez) prêmios a cada ano, conforme o regulamento desta lei, nos seguintes valores:
 
-|CARGOS E EMPREGOS PÚBLICOS |PRÊMIO POR PARTICIPAÇÃO EM REUNIÃO PEDAGÓGICA (em R$) |
-
-|Professor para a Educação Infantil |100,00 |
-
-|Pedagogo |100,00 |
-
-|Técnico Superior de Educação em exercício de Supervisão |100,00 |
-
-|Pedagógica ou Orientação Educacional | |
-
-|Professor Municipal |100,00 |
+| CARGOS E EMPREGOS PÚBLICOS | PRÊMIO POR PARTICIPAÇÃO EM REUNIÃO PEDAGÓGICA (em R$) |
+| --- | --- |
+| Professor para a Educação Infantil | 100,00 |
+| Pedagogo | 100,00 |
+| Técnico Superior de Educação em exercício de Supervisão | 100,00 |
+| Pedagógica ou Orientação Educacional |  |
+| Professor Municipal | 100,00 |
 
 **§ 2°** com redação dada pela Lei n° 10.572, de 13/12/2012 (Art. 10)
 
@@ -226,133 +203,82 @@ IV - cópia do ato autorizativo referente ao credenciamento da instituição que
 
 **Art. 7º** - A partir de 1° de setembro de 2009, os vencimentos-base previstos para os cargos públicos efetivos de Assistente Administrativo, Técnico de Serviços Públicos e Assistente de Procuradoria previstos na Tabela do Anexo III do Plano de Carreira da Área de Atividades de Administração Geral, instituído pela Lei n° 8.690, de 19 de novembro de 2003, observada em relação a esses cargos a opção prevista no § 4° do art. 2° da Lei n° 9.469, de 14 de dezembro de 2007, e os vencimentos-base previstos na Tabela do § 7° do art. 2° da Lei n° 9.469/07 para os cargos públicos efetivos de Técnico de Nível Médio e Assistente Administrativo, por força do disposto no § 2° do art. 139 da Lei n° 9.011, de 1° de janeiro de 2005, integrantes do quadro de pessoal da Fundação Municipal de Cultura e da Fundação de Parques Municipais, passam a ser os seguintes:
 
-| |VENCIMENTOS-BASE (EM R$) |
-
-|NÍVEL |JORNADA DE 30 HORAS SEMANAIS |JORNADA DE 40 HORAS SEMANAIS |
-
-|1 |785,12 |1.300,00 |
-
-|2 |824,38 |1.365,00 |
-
-|3 |865,60 |1.433,25 |
-
-|4 |908,87 |1.504,91 |
-
-|5 |954,32 |1.580,16 |
-
-|6 |1.002,03 |1.659,17 |
-
-|7 |1.052,14 |1.742,12 |
-
-|8 |1.104,74 |1.829,23 |
-
-|9 |1.159,98 |1.920,69 |
-
-|10 |1.217,98 |2.016,73 |
-
-|11 |1.278,88 |2.117,56 |
-
-|12 |1.342,82 |2.223,44 |
-
-|13 |1.409,96 |2.334,61 |
-
-|14 |1.480,46 |2.451,34 |
-
-|15 |1.554,48 |2.573,91 |
+|  | VENCIMENTOS-BASE (EM R$) |  |
+| --- | --- | --- |
+| NÍVEL | JORNADA DE 30 HORAS SEMANAIS | JORNADA DE 40 HORAS SEMANAIS |
+| 1 | 785,12 | 1.300,00 |
+| 2 | 824,38 | 1.365,00 |
+| 3 | 865,60 | 1.433,25 |
+| 4 | 908,87 | 1.504,91 |
+| 5 | 954,32 | 1.580,16 |
+| 6 | 1.002,03 | 1.659,17 |
+| 7 | 1.052,14 | 1.742,12 |
+| 8 | 1.104,74 | 1.829,23 |
+| 9 | 1.159,98 | 1.920,69 |
+| 10 | 1.217,98 | 2.016,73 |
+| 11 | 1.278,88 | 2.117,56 |
+| 12 | 1.342,82 | 2.223,44 |
+| 13 | 1.409,96 | 2.334,61 |
+| 14 | 1.480,46 | 2.451,34 |
+| 15 | 1.554,48 | 2.573,91 |
 
 **Art. 8º** - A partir de 1 ° de setembro de 2009, os vencimentos-base previstos na Tabela do Anexo VIII da Lei n° 9.154, de 12 de janeiro de 2006, para o cargo público efetivo de Assistente Administrativo, integrante do quadro de pessoal da Beneficência da Prefeitura de Belo Horizonte - BEPREM, em jornada de 6 (seis) horas diárias, passam a ser os seguintes:
 
-|NÍVEL |VENCIMENTOS-BASE (EM R$) |
-
-|1 |785,12 |
-
-|2 |824,38 |
-
-|3 |865,60 |
-
-|4 |908,87 |
-
-|5 |954,32 |
-
-|6 |1.002,03 |
-
-|7 |1.052,14 |
-
-|8 |1.104,74 |
-
-|9 |1.159,98 |
-
-|10 |1.217,98 |
-
-|11 |1.278,88 |
-
-|12 |1.342,82 |
-
-|13 |1.409,96 |
-
-|14 |1.480,46 |
-
-|15 |1.554,48 |
+| NÍVEL | VENCIMENTOS-BASE (EM R$) |
+| --- | --- |
+| 1 | 785,12 |
+| 2 | 824,38 |
+| 3 | 865,60 |
+| 4 | 908,87 |
+| 5 | 954,32 |
+| 6 | 1.002,03 |
+| 7 | 1.052,14 |
+| 8 | 1.104,74 |
+| 9 | 1.159,98 |
+| 10 | 1.217,98 |
+| 11 | 1.278,88 |
+| 12 | 1.342,82 |
+| 13 | 1.409,96 |
+| 14 | 1.480,46 |
+| 15 | 1.554,48 |
 
 **Art. 9º** - A partir de 1° de setembro de 2009, a Tabela do § 3° do art. 12 da Lei n° 9.443, de 18 de outubro de 2007, passa a ter a seguinte redação:
 
 “§ 3º -
 
-|CARGOS PÚBLICOS |CLINOV / CLINOB (EM R$) |
-
-|AUXILIAR ADMINISTRATIVO |70,00 |
-
-|MOTORISTA |70,00 |
-
-|TELEFONISTA |70,00 |
-
-|ASSISTENTE ADMINISTRATIVO |130,00 |
-
-|ANALISTA DE POLITICAS PÚBLICAS |250,00 |
-
-|AGENTE DE SERVIÇOS DE SAÚDE |90,00 |
-
-|TÉCNICO DE SERVIÇOS DE SAÚDE |130,00 |
-
-|TÉCNICO SUPERIOR DE SAÚDE |250,00 |
-
-|CIRURGIÃO-DENTISTA |250,00 |
+| CARGOS PÚBLICOS | CLINOV / CLINOB (EM R$) |
+| --- | --- |
+| AUXILIAR ADMINISTRATIVO | 70,00 |
+| MOTORISTA | 70,00 |
+| TELEFONISTA | 70,00 |
+| ASSISTENTE ADMINISTRATIVO | 130,00 |
+| ANALISTA DE POLITICAS PÚBLICAS | 250,00 |
+| AGENTE DE SERVIÇOS DE SAÚDE | 90,00 |
+| TÉCNICO DE SERVIÇOS DE SAÚDE | 130,00 |
+| TÉCNICO SUPERIOR DE SAÚDE | 250,00 |
+| CIRURGIÃO-DENTISTA | 250,00 |
 
 (NR)”
 
 **Art. 10** - A partir de 1° de setembro de 2009, os vencimentos-base previstos para os cargos públicos efetivos de Jardineiro, Tratador de Animais, Agente de Visitação, Assistente Administrativo e Técnico de Serviço Público na Tabela do Anexo III-A do Plano de Carreira da FZB/BH, instituído pela Lei n° 9.241/06, os salários-base previstos na Tabela do Anexo III da Lei n° 9.329, de 29 de janeiro de 2007, para os empregos públicos efetivos de Cadastrador, Técnico de Nível Médio Assistente Administrativo e Agente de Operação e Controle, integrantes do Plano de Carreira da SLU, e os salários-base previstos para os empregos públicos efetivos de Assistente Técnico e Assistente Administrativo na Tabela do Anexo III da Lei n° 9.330/07, integrantes do Plano de Carreira da SUDECAP, passam a ser os seguintes:
 
-|NÍVEL |SALÁRIOS-BASE (EM R$) |
-
-|1 |1.300,00 |
-
-|2 |1.365,00 |
-
-|3 |1.433,25 |
-
-|4 |1.504,91 |
-
-|5 |1.580,16 |
-
-|6 |1.659,17 |
-
-|7 |1.742,12 |
-
-|8 |1.829,23 |
-
-|9 |1.920,69 |
-
-|10 |2.016,73 |
-
-|11 |2.117,56 |
-
-|12 |2.223,44 |
-
-|13 |2.334,61 |
-
-|14 |2.451,34 |
-
-|15 |2.573,91 |
+| NÍVEL | SALÁRIOS-BASE (EM R$) |
+| --- | --- |
+| 1 | 1.300,00 |
+| 2 | 1.365,00 |
+| 3 | 1.433,25 |
+| 4 | 1.504,91 |
+| 5 | 1.580,16 |
+| 6 | 1.659,17 |
+| 7 | 1.742,12 |
+| 8 | 1.829,23 |
+| 9 | 1.920,69 |
+| 10 | 2.016,73 |
+| 11 | 2.117,56 |
+| 12 | 2.223,44 |
+| 13 | 2.334,61 |
+| 14 | 2.451,34 |
+| 15 | 2.573,91 |
 
 **Art. 11** - O prazo para o exercício das opções previstas no caput e no § 2° do art. 1° da Lei n° 9.469/07, conferido aos servidores ocupantes do cargo público efetivo de Analista de Políticas Públicas, integrantes do Plano de Carreira da Área de Atividades de Administração Geral, instituído pela Lei n° 8.690, de 19 de novembro de 2003, e suas alterações, bem como aos servidores aposentados no referido cargo público de Analista de Políticas Públicas e aos pensionistas cujos benefícios previdenciários sejam oriundos desse cargo público, fica reaberto por mais 90 (noventa) dias contados da publicação desta Lei, nos termos do seu regulamento, sendo que os efeitos financeiros decorrentes dessa opção iniciar-se-ão exclusivamente a partir do seu exercício pelo servidor.
 
@@ -370,39 +296,24 @@ IV - cópia do ato autorizativo referente ao credenciamento da instituição que
 
 **§ 1º** - Após a incorporação prevista no caput deste artigo, os vencimentos-base previstos na Tabela do Anexo III do Plano de Carreira da Área de Atividades de Tributação, instituído pela Lei n° 7.645/99, para o cargo público efetivo de Analista Fazendário, em cumprimento da jornada de 40 horas semanais, cujos ocupantes exercerem a opção prevista no caput deste artigo, serão reajustados para os seguintes valores:
 
-|ANALISTA FAZENDÁRIO |
-
-|NÍVEL |VENCIMENTOS-BASE (EM R$) |
-
-|1 |3.039,62 |
-
-|2 |3.191,60 |
-
-|3 |3.351,18 |
-
-|4 |3.518,73 |
-
-|5 |3.694,67 |
-
-|6 |3.879,41 |
-
-|7 |4.073,38 |
-
-|8 |4.277,04 |
-
-|9 |4.490,90 |
-
-|10 |4.715,44 |
-
-|11 |4.951,21 |
-
-|12 |5.198,77 |
-
-|13 |5.458,71 |
-
-|14 |5.731,65 |
-
-|15 |6.018,23 |
+| ANALISTA FAZENDÁRIO |  |
+| --- | --- |
+| NÍVEL | VENCIMENTOS-BASE (EM R$) |
+| 1 | 3.039,62 |
+| 2 | 3.191,60 |
+| 3 | 3.351,18 |
+| 4 | 3.518,73 |
+| 5 | 3.694,67 |
+| 6 | 3.879,41 |
+| 7 | 4.073,38 |
+| 8 | 4.277,04 |
+| 9 | 4.490,90 |
+| 10 | 4.715,44 |
+| 11 | 4.951,21 |
+| 12 | 5.198,77 |
+| 13 | 5.458,71 |
+| 14 | 5.731,65 |
+| 15 | 6.018,23 |
 
 **§ 2º** - Aplica-se o disposto neste artigo aos servidores aposentados no cargo público de Analista Fazendário, com jornada de 40 horas semanais, integrantes do Plano de Carreira da Área de Atividades de Tributação, e aos pensionistas cujos benefícios previdenciários sejam oriundos desses cargos públicos, e que façam jus à paridade dos seus proventos e pensões com a remuneração atribuída ao cargo público efetivo do qual derive o benefício previdenciário respectivo, observada a condição de integralidade ou de proporcionalidade que lhes for atribuída por ocasião da concessão do beneficio previdenciário inicial, em conformidade com o disposto no art. 40 da Constituição Federal.
 
@@ -414,39 +325,24 @@ IV - cópia do ato autorizativo referente ao credenciamento da instituição que
 
 **§ 1º** - Após a incorporação prevista no caput deste artigo, os vencimentos-base previstos na Tabela do Anexo V do Plano de Carreira da Área de Atividades Jurídicas para o cargo público efetivo de Procurador Municipal, cujos ocupantes exercerem a opção prevista no caput deste artigo, serão reajustados para os seguintes valores:
 
-|PROCURADOR MUNICIPAL |
-
-|NÍVEL |VENCIMENTOS-BASE (EM R$) |
-
-|1 |5.910,00 |
-
-|2 |6.205,50 |
-
-|3 |6.515,78 |
-
-|4 |6.841,56 |
-
-|5 |7.183,64 |
-
-|6 |7.542,82 |
-
-|7 |7.919,97 |
-
-|8 |8.315,96 |
-
-|9 |8.731,76 |
-
-|10 |9.168,35 |
-
-|11 |9.626,77 |
-
-|12 |10.108,11 |
-
-|13 |10.613,51 |
-
-|14 |11.144,19 |
-
-|15 |11.701,40 |
+| PROCURADOR MUNICIPAL |  |
+| --- | --- |
+| NÍVEL | VENCIMENTOS-BASE (EM R$) |
+| 1 | 5.910,00 |
+| 2 | 6.205,50 |
+| 3 | 6.515,78 |
+| 4 | 6.841,56 |
+| 5 | 7.183,64 |
+| 6 | 7.542,82 |
+| 7 | 7.919,97 |
+| 8 | 8.315,96 |
+| 9 | 8.731,76 |
+| 10 | 9.168,35 |
+| 11 | 9.626,77 |
+| 12 | 10.108,11 |
+| 13 | 10.613,51 |
+| 14 | 11.144,19 |
+| 15 | 11.701,40 |
 
 **§ 2º** - Aplica-se o disposto neste artigo aos servidores aposentados no cargo público de Procurador Municipal que tenham optado pelo Plano de Carreira da Área de Atividades Jurídicas, e aos pensionistas cujos benefícios previdenciários sejam oriundos desses cargos públicos, e que façam jus à paridade dos seus proventos e pensões com a remuneração atribuída ao cargo público efetivo do qual derive o benefício previdenciário respectivo, observada a condição de integralidade ou de proporcionalidade que lhes for atribuída por ocasião da concessão do benefício previdenciário inicial, em conformidade com o disposto no art. 40 da Constituição Federal.
 
@@ -458,11 +354,10 @@ IV - cópia do ato autorizativo referente ao credenciamento da instituição que
 
 **Art. 15** - A partir de 1° de janeiro de 2010, o vencimento-base do cargo público efetivo de Guarda Municipal, disciplinado na Lei n° 9.319, de 19 de janeiro de 2007, e suas alterações, será reajustado para os seguintes valores a partir das seguintes datas:
 
-|VENCIMENTO-BASE (EM R$) |
-
-|1º DE JANEIRO DE 2010 |1º DE JANEIRO DE 2011 |
-
-|627,00 |735,00 |
+| VENCIMENTO-BASE (EM R$) |  |
+| --- | --- |
+| 1º DE JANEIRO DE 2010 | 1º DE JANEIRO DE 2011 |
+| 627,00 | 735,00 |
 
 **Art. 16** – VETADO
 

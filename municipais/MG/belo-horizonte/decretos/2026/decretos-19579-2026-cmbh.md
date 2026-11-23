@@ -58,81 +58,48 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei |R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339034.1.604.000 |10.000.000,00 |
-
-|2302.10.301.0310.2902.456782.1.634.790 |68.943,20 |
-
-|2302.10.305.0028.2829.339034.1.604.000 |5.000.000,00 |
-
-|TOTAL |15.068.943,20 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 8º da |R$ |
-
-|Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.126.0302.2938.339037.1.500.000 |370.000,00 |
-
-|0604.19.126.0302.2938.339030.1.500.000 |40.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339030.1.500.000 |50.000,00 |
-
-|2302.10.301.0310.2902.456782.1.500.000 |100.000,00 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.392.0154.2371.339039.1.500.000 |70.000,00 |
-
-|TOTAL |630.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |15.698.943,20 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339034.1.604.000 | 10.000.000,00 |
+| 2302.10.301.0310.2902.456782.1.634.790 | 68.943,20 |
+| 2302.10.305.0028.2829.339034.1.604.000 | 5.000.000,00 |
+| TOTAL | 15.068.943,20 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 8º da | R$ |
+| Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.126.0302.2938.339037.1.500.000 | 370.000,00 |
+| 0604.19.126.0302.2938.339030.1.500.000 | 40.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339030.1.500.000 | 50.000,00 |
+| 2302.10.301.0310.2902.456782.1.500.000 | 100.000,00 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.392.0154.2371.339039.1.500.000 | 70.000,00 |
+| TOTAL | 630.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 15.698.943,20 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.319011.1.604.000 |15.000.000,00 |
-
-|2302.10.302.0117.1216.449051.1.634.790 |68.943,20 |
-
-|TOTAL |15.068.943,20 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de|R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.0302.2938.339040.1.500.000 |35.000,00 |
-
-|0604.19.126.0302.2938.339039.1.500.000 |305.000,00 |
-
-|0604.19.572.0302.2938.339039.1.500.000 |70.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.449052.1.500.000 |150.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.244.0020.2409.339039.1.500.000 |70.000,00 |
-
-|TOTAL |630.000,00 |
-
-|TOTAL DA ANULAÇÃO |15.698.943,20 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.319011.1.604.000 | 15.000.000,00 |
+| 2302.10.302.0117.1216.449051.1.634.790 | 68.943,20 |
+| TOTAL | 15.068.943,20 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.0302.2938.339040.1.500.000 | 35.000,00 |
+| 0604.19.126.0302.2938.339039.1.500.000 | 305.000,00 |
+| 0604.19.572.0302.2938.339039.1.500.000 | 70.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.449052.1.500.000 | 150.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.244.0020.2409.339039.1.500.000 | 70.000,00 |
+| TOTAL | 630.000,00 |
+| TOTAL DA ANULAÇÃO | 15.698.943,20 |
 
 ANEXO II
 
@@ -170,48 +137,30 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado |Limite de 15% (quinze por cento) |
-
-|para abertura de créditos suplementares para o Fundo Municipal|do valor do orçamento. |
-
-|de Saúde. | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 3.738.652.601,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 216.867.782,33 |
-
-|Valor do decreto publicado nesta data |R$ 15.068.943,20 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 231.936.725,53 |
-
-|Saldo atual de créditos suplementares |R$ 3.506.715.875,87 |
-
-|Percentual utilizado |6,20% |
-
-|Atualizado em 28/04/2026 às 19:50:49 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado | Limite de 15% (quinze por cento) |
+| para abertura de créditos suplementares para o Fundo Municipal | do valor do orçamento. |
+| de Saúde. |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 3.738.652.601,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 216.867.782,33 |
+| Valor do decreto publicado nesta data | R$ 15.068.943,20 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 231.936.725,53 |
+| Saldo atual de créditos suplementares | R$ 3.506.715.875,87 |
+| Percentual utilizado | 6,20% |
+| Atualizado em 28/04/2026 às 19:50:49 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 8º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 207.210.703,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 6.608.676,86 |
-
-|Valor do decreto publicado nesta data |R$ 630.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 7.238.676,86 |
-
-|Saldo atual de créditos suplementares |R$ 199.972.026,14 |
-
-|Percentual utilizado |3,49% |
-
-|Atualizado em 28/04/2026 às 19:51:33 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 8º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 207.210.703,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 6.608.676,86 |
+| Valor do decreto publicado nesta data | R$ 630.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 7.238.676,86 |
+| Saldo atual de créditos suplementares | R$ 199.972.026,14 |
+| Percentual utilizado | 3,49% |
+| Atualizado em 28/04/2026 às 19:51:33 |  |

@@ -64,29 +64,19 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da | |
-
-|Lei nº 11.594, de 22 de setembro de 2023: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339034.621 |19.802.046,18 |
-
-|2302.10.305.0028.2829.339030.621 |1.242,65 |
-
-|2302.10.304.0028.2829.339030.621 |15.108,38 |
-
-|Fundação Municipal de Cultura – FMC |
-
-|3103.13.391.0155.2375.339039.701 |375.000,00 |
-
-|Fundo de Desenvolvimento Urbano das Centralidades – FC |
-
-|3301.04.122.0059.2566.339035.501 |24.906.103,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |45.099.500,21 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da |  |
+| Lei nº 11.594, de 22 de setembro de 2023: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339034.621 | 19.802.046,18 |
+| 2302.10.305.0028.2829.339030.621 | 1.242,65 |
+| 2302.10.304.0028.2829.339030.621 | 15.108,38 |
+| Fundação Municipal de Cultura – FMC |  |
+| 3103.13.391.0155.2375.339039.701 | 375.000,00 |
+| Fundo de Desenvolvimento Urbano das Centralidades – FC |  |
+| 3301.04.122.0059.2566.339035.501 | 24.906.103,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 45.099.500,21 |
 
 ANEXO II
 

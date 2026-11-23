@@ -152,7 +152,7 @@ Prefeito de Belo Horizonte
 
 (Originária do Projeto de Lei nº 414/01, de autoria do Executivo)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 Anexo I retificado em 09/07/2005
 

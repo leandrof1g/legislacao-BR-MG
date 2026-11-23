@@ -44,9 +44,9 @@ DIA COMEMORATIVO
 
 I - Dias comemorativos de setembro:
 
-|DATA |COMEMORAÇÃO |
-
-|23/9 |Dia Municipal da Língua de Sinais |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 23/9 | Dia Municipal da Língua de Sinais |
 
 ”.
 

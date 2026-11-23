@@ -458,146 +458,76 @@ Prefeito de Belo Horizonte
 
 ANEXO II
 
-| |Descrição da infração |Dispositivo infringido |Notificação |Prazo para atendimento e|Aplicação de Multa |OUTRAS PENALIDADES |
-
-| | |(Lei nº 8.616, e Anexo I |Prévia |correção | | |
-
-| | |deste Decreto) | | | | |
-
-| | | | | |Graduação |Detalhamento |Valor (R$) | |
-
-| | | | | |da Sanção | | | |
-
-| | | | | | | | | |
-
-| | | | | | | | | |
-
-| | | | | | | | | |
-
-|1 |Participar em feira sem licenciamento |Art. 167 e art. 168 da |-- |-- |G |imediata |1.514,65 |Apreensão imediata do |
-
-| | |Lei | | | | | |produto |
-
-|2 |Trabalhar com materiais diferentes dos |Art. 171, I, da Lei e |-- |-- |G |Imediata |1.514,65 |Apreensão imediata do |
-
-| |licenciados |art. 19, I e XVI do Anexo| | | | | |produto; suspensão na 1ª |
-
-| | |I deste Dec. | | | | | |reincidência e cassação na |
-
-| | | | | | | | |2ª reincidência. |
-
-|3 |Não respeitar o local demarcado para a |Art. 171, II da Lei e |-- |-- |M |imediata |504,88 |Suspensão na 1ª |
-
-| |instalação da barraca |art. 19, II, do Anexo I I| | | | | |reincidência. |
-
-| | |deste Dec. | | | | | |Cassação na 2ª |
-
-| | | | | | | | |reincidência. |
-
-|4 |Não manter rigoroso asseio pessoal |Art. 171, III, da Lei e |-- |-- |L |imediata |189,33 |Cassação a partir da 3ª |
-
-| | |art. 19, III do Anexo I | | | | | |reincidência |
-
-| | |deste Dec. | | | | | | |
-
-|5 |Não respeitar e cumprir o horário de |Art. 171, IV da Lei , e |-- |-- |M |imediata |504,88 |Suspensão na 2ª |
-
-| |funcionamento da feira |art. 19, IV, do Anexo I | | | | | |reincidência. Cassação na |
-
-| | |deste Dec. | | | | | |3ª reincidência. |
-
-|6 |Utilizar equipamento diverso do aprovado |Art. 171, V da Lei e art.|Sim |1 dia de feira |G |-- |1.514,65 |Suspensão na 2ª |
-
-| |pelo Executivo |19, V, do Anexo I deste | | | | | |reincidência. Cassação na |
-
-| | |Dec. | | | | | |3ª reincidência |
-
-|7 |Explorar atividade por auxiliar não |Art. 172, VI da Lei e Art. |-- |-- |G |-- |1.514,65 |Suspensão na 1ª |
-
-| |previsto no § 3º do art. 123 da Lei |20 VI deste Dec. | | | | | |reincidência. Cassação na|
-
-| |8.616/03 | | | | | | |2ª reincidência |
-
-|8 |Não manter o equipamento em bom estado de|Art. 171, VII, da Lei e art.|Sim |1 dia de feira |M |-- |504,88 |Suspensão na 3ª |
-
-| |higiene ou conservação |19, VII, do Anexo I deste | | | | | |reincidência. Cassação na|
-
-| | |Dec. | | | | | |4ª reincidência. |
-
-|9 |Não manter plaquetas com o nome, preço e |Art. 171, VIII da Lei e |Sim |1 dia de feira |L |-- |189,33 |Cassação na 4ª |
-
-| |classificação dos produtos |art.19, VIII do Anexo I | | | | | |reincidência. |
-
-| | |deste Dec. | | | | | | |
-
-|10 |Não manter placas e equipamentos de |Art. 167 e art. 168 da Lei |Sim |1 dia de feira |L |-- |189,33 |Cassação na 4ª |
-
-| |prevenção e combate a incêndios, | | | | | | |reincidência |
-
-|11 |Não manter balança nivelada e aferida, |Art. 171, IX, da Lei e art. |Sim |1 dia de feira |M |-- |504,88 |Apreensão imediata da |
-
-| |quando for o caso |19, IX, do Anexo I deste | | | | | |balança. Suspensão na 2ª|
-
-| | |Decreto. | | | | | |reincidência. Cassação na|
-
-| | | | | | | | |2ª reincidência. |
-
-|12 |Não tratar o público com urbanidade |Art. 171, XI, da Lei e art. |-- |-- |M |imediata |504,88 |Suspensão na 2ª |
-
-| | |19, XI, do Anexo I deste | | | | | |reincidência. Cassação na|
-
-| | |Dec. | | | | | |3ª reincidência. |
-
-|13 |Não afixar cartazes e avisos de interesse público quando determinado pelo Executivo |
-
-|ANEXO III |
-
-|PREÇOS PÚBLICOS |
-
-|PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS |
-
-|(Permissão de Uso do Espaço Público) |
-
-|1 – Para comercialização de mercadorias em feiras permanentes |
-
-|1 1 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de |R$59,88 p/feirante p/mês |
-
-|Administração Regional Municipal Barreiro | |
-
-|1 2 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de |R$85,34 p/feirante p/mês |
-
-|Administração Regional Municipal Centro-Sul | |
-
-|1 3 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de |R$59,32 p/feirante p/mês |
-
-|Administração Regional Municipal Leste | |
-
-|1.4 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de |R$58,62 p/feirante p/mês |
-
-|Administração Regional Municipal Nordeste | |
-
-|1.5 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de |R$72,99 p/feirante p/mês |
-
-|Administração Regional Municipal Noroeste | |
-
-|1.6 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de |R$68,29 p/feirante p/mês |
-
-|Administração Regional Municipal Norte | |
-
-|1 7 – barracas/tendas nas Feiras Regionais Permanentes da Secretaria de |R$77,04 p/feirante p/mês |
-
-|Administração Regional Municipal Oeste | |
-
-|1 8 – barracas/tendas nas Feiras Regionais Permanentes da Secretaria de |R$62,43 p/feirante p/mês |
-
-|Administração Regional Municipal Pampulha | |
-
-|1.8.1 - barracas/tendas na Feira de Convivência do Mineirão – Secretaria de |R$122,41 p/feirante p/mês |
-
-|Administração Regional Municipal Pampulha | |
-
-|Item 1.8.1 acrescentado pelo Decreto n° 15.829, de 29/12/2014 (Art. 1°) | |
-
-|1 9 – barracas/tendas nas Feiras Regionais Permanentes da Secretaria de |R$57,67 p/feirante p/mês |
-
-|Administração Regional Municipal Venda Nova | |
+|  | Descrição da infração | Dispositivo infringido | Notificação | Prazo para atendimento e | Aplicação de Multa | OUTRAS PENALIDADES |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | (Lei nº 8.616, e Anexo I | Prévia | correção |  |  |  |  |
+|  |  | deste Decreto) |  |  |  |  |  |  |
+|  |  |  |  |  | Graduação | Detalhamento | Valor (R$) |  |
+|  |  |  |  |  | da Sanção |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+| 1 | Participar em feira sem licenciamento | Art. 167 e art. 168 da | -- | -- | G | imediata | 1.514,65 | Apreensão imediata do |
+|  |  | Lei |  |  |  |  |  | produto |
+| 2 | Trabalhar com materiais diferentes dos | Art. 171, I, da Lei e | -- | -- | G | Imediata | 1.514,65 | Apreensão imediata do |
+|  | licenciados | art. 19, I e XVI do Anexo |  |  |  |  |  | produto; suspensão na 1ª |
+|  |  | I deste Dec. |  |  |  |  |  | reincidência e cassação na |
+|  |  |  |  |  |  |  |  | 2ª reincidência. |
+| 3 | Não respeitar o local demarcado para a | Art. 171, II da Lei e | -- | -- | M | imediata | 504,88 | Suspensão na 1ª |
+|  | instalação da barraca | art. 19, II, do Anexo I I |  |  |  |  |  | reincidência. |
+|  |  | deste Dec. |  |  |  |  |  | Cassação na 2ª |
+|  |  |  |  |  |  |  |  | reincidência. |
+| 4 | Não manter rigoroso asseio pessoal | Art. 171, III, da Lei e | -- | -- | L | imediata | 189,33 | Cassação a partir da 3ª |
+|  |  | art. 19, III do Anexo I |  |  |  |  |  | reincidência |
+|  |  | deste Dec. |  |  |  |  |  |  |
+| 5 | Não respeitar e cumprir o horário de | Art. 171, IV da Lei , e | -- | -- | M | imediata | 504,88 | Suspensão na 2ª |
+|  | funcionamento da feira | art. 19, IV, do Anexo I |  |  |  |  |  | reincidência. Cassação na |
+|  |  | deste Dec. |  |  |  |  |  | 3ª reincidência. |
+| 6 | Utilizar equipamento diverso do aprovado | Art. 171, V da Lei e art. | Sim | 1 dia de feira | G | -- | 1.514,65 | Suspensão na 2ª |
+|  | pelo Executivo | 19, V, do Anexo I deste |  |  |  |  |  | reincidência. Cassação na |
+|  |  | Dec. |  |  |  |  |  | 3ª reincidência |
+| 7 | Explorar atividade por auxiliar não | Art. 172, VI da Lei e Art. | -- | -- | G | -- | 1.514,65 | Suspensão na 1ª |
+|  | previsto no § 3º do art. 123 da Lei | 20 VI deste Dec. |  |  |  |  |  | reincidência. Cassação na |
+|  | 8.616/03 |  |  |  |  |  |  | 2ª reincidência |
+| 8 | Não manter o equipamento em bom estado de | Art. 171, VII, da Lei e art. | Sim | 1 dia de feira | M | -- | 504,88 | Suspensão na 3ª |
+|  | higiene ou conservação | 19, VII, do Anexo I deste |  |  |  |  |  | reincidência. Cassação na |
+|  |  | Dec. |  |  |  |  |  | 4ª reincidência. |
+| 9 | Não manter plaquetas com o nome, preço e | Art. 171, VIII da Lei e | Sim | 1 dia de feira | L | -- | 189,33 | Cassação na 4ª |
+|  | classificação dos produtos | art.19, VIII do Anexo I |  |  |  |  |  | reincidência. |
+|  |  | deste Dec. |  |  |  |  |  |  |
+| 10 | Não manter placas e equipamentos de | Art. 167 e art. 168 da Lei | Sim | 1 dia de feira | L | -- | 189,33 | Cassação na 4ª |
+|  | prevenção e combate a incêndios, |  |  |  |  |  |  | reincidência |
+| 11 | Não manter balança nivelada e aferida, | Art. 171, IX, da Lei e art. | Sim | 1 dia de feira | M | -- | 504,88 | Apreensão imediata da |
+|  | quando for o caso | 19, IX, do Anexo I deste |  |  |  |  |  | balança. Suspensão na 2ª |
+|  |  | Decreto. |  |  |  |  |  | reincidência. Cassação na |
+|  |  |  |  |  |  |  |  | 2ª reincidência. |
+| 12 | Não tratar o público com urbanidade | Art. 171, XI, da Lei e art. | -- | -- | M | imediata | 504,88 | Suspensão na 2ª |
+|  |  | 19, XI, do Anexo I deste |  |  |  |  |  | reincidência. Cassação na |
+|  |  | Dec. |  |  |  |  |  | 3ª reincidência. |
+| 13 | Não afixar cartazes e avisos de interesse público quando determinado pelo Executivo |  |  |  |  |  |  |  |
+| ANEXO III |  |  |  |  |  |  |  |  |
+| PREÇOS PÚBLICOS |  |  |  |  |  |  |  |  |
+| PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS |  |  |  |  |  |  |  |  |
+| (Permissão de Uso do Espaço Público) |  |  |  |  |  |  |  |  |
+| 1 – Para comercialização de mercadorias em feiras permanentes |  |  |  |  |  |  |  |  |
+| 1 1 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de | R$59,88 p/feirante p/mês |  |  |  |  |  |  |  |
+| Administração Regional Municipal Barreiro |  |  |  |  |  |  |  |  |
+| 1 2 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de | R$85,34 p/feirante p/mês |  |  |  |  |  |  |  |
+| Administração Regional Municipal Centro-Sul |  |  |  |  |  |  |  |  |
+| 1 3 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de | R$59,32 p/feirante p/mês |  |  |  |  |  |  |  |
+| Administração Regional Municipal Leste |  |  |  |  |  |  |  |  |
+| 1.4 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de | R$58,62 p/feirante p/mês |  |  |  |  |  |  |  |
+| Administração Regional Municipal Nordeste |  |  |  |  |  |  |  |  |
+| 1.5 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de | R$72,99 p/feirante p/mês |  |  |  |  |  |  |  |
+| Administração Regional Municipal Noroeste |  |  |  |  |  |  |  |  |
+| 1.6 - barracas/tendas nas Feiras Regionais Permanentes da Secretaria de | R$68,29 p/feirante p/mês |  |  |  |  |  |  |  |
+| Administração Regional Municipal Norte |  |  |  |  |  |  |  |  |
+| 1 7 – barracas/tendas nas Feiras Regionais Permanentes da Secretaria de | R$77,04 p/feirante p/mês |  |  |  |  |  |  |  |
+| Administração Regional Municipal Oeste |  |  |  |  |  |  |  |  |
+| 1 8 – barracas/tendas nas Feiras Regionais Permanentes da Secretaria de | R$62,43 p/feirante p/mês |  |  |  |  |  |  |  |
+| Administração Regional Municipal Pampulha |  |  |  |  |  |  |  |  |
+| 1.8.1 - barracas/tendas na Feira de Convivência do Mineirão – Secretaria de | R$122,41 p/feirante p/mês |  |  |  |  |  |  |  |
+| Administração Regional Municipal Pampulha |  |  |  |  |  |  |  |  |
+| Item 1.8.1 acrescentado pelo Decreto n° 15.829, de 29/12/2014 (Art. 1°) |  |  |  |  |  |  |  |  |
+| 1 9 – barracas/tendas nas Feiras Regionais Permanentes da Secretaria de | R$57,67 p/feirante p/mês |  |  |  |  |  |  |  |
+| Administração Regional Municipal Venda Nova |  |  |  |  |  |  |  |  |

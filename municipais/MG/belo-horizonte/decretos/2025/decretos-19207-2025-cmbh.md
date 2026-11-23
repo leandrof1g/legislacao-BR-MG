@@ -58,37 +58,26 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei |R$ |
-
-|nº 11.802, de 3 de janeiro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339034.1.500.000 |24.000.000,00 |
-
-|2302.10.302.0114.2936.317170.1.621.000 |5.456.851,35 |
-
-|2302.10.126.0117.2662.339040.2.634.791 |940.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |30.396.851,35 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.802, de 3 de janeiro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339034.1.500.000 | 24.000.000,00 |
+| 2302.10.302.0114.2936.317170.1.621.000 | 5.456.851,35 |
+| 2302.10.126.0117.2662.339040.2.634.791 | 940.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 30.396.851,35 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.319011.1.500.000 |9.000.000,00 |
-
-|2302.10.302.0114.2936.339032.1.621.000 |5.456.851,35 |
-
-|2302.10.301.0157.2690.339046.1.500.000 |15.000.000,00 |
-
-|2302.10.302.0117.1216.449051.2.634.791 |940.000,00 |
-
-|TOTAL DA ANULAÇÃO |30.396.851,35 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.319011.1.500.000 | 9.000.000,00 |
+| 2302.10.302.0114.2936.339032.1.621.000 | 5.456.851,35 |
+| 2302.10.301.0157.2690.339046.1.500.000 | 15.000.000,00 |
+| 2302.10.302.0117.1216.449051.2.634.791 | 940.000,00 |
+| TOTAL DA ANULAÇÃO | 30.396.851,35 |
 
 ANEXO II
 
@@ -116,26 +105,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.802, de 3 de janeiro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |
-
-|Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para |Art. 4º, limite de 15% do valor|
-
-|abertura de créditos suplementares para o Fundo Municipal de |total do Orçamento: |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 22.653.807.973,00 |
-
-|Limite total anual autorizado |R$ 3.398.071.195,95 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 91.798.480,21 |
-
-|Valor do Decreto publicado nesta data |R$ 30.396.851,35 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 122.195.331,56 |
-
-|Saldo atual de créditos suplementares |R$ 3.275.875.864,39 |
-
-|Percentual utilizado |3,60% |
-
-|Atualizado em 29/07/2025 às 11:30:36 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2025 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.802, de 03/01/2025 – Limite autorizado para | Art. 4º, limite de 15% do valor |
+| abertura de créditos suplementares para o Fundo Municipal de | total do Orçamento: |
+| Saúde. |  |
+| Base de cálculo anual | R$ 22.653.807.973,00 |
+| Limite total anual autorizado | R$ 3.398.071.195,95 |
+| Total de créditos suplementares abertos anteriormente | R$ 91.798.480,21 |
+| Valor do Decreto publicado nesta data | R$ 30.396.851,35 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 122.195.331,56 |
+| Saldo atual de créditos suplementares | R$ 3.275.875.864,39 |
+| Percentual utilizado | 3,60% |
+| Atualizado em 29/07/2025 às 11:30:36 |  |

@@ -52,30 +52,21 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, |
-
-|conforme autorização contida no caput do art. 4º da Lei nº 11.211,|
-
-|de 26 de dezembro de 2019: |
-
-|R$ |
-
-|1011.08.242.020.2.403.3390.0340 |294.556,00 |
-
-|1011.08.244.020.2.403.3390.0340 |1.107.413,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.401.969,00 |
+| I.1 – A favor do Fundo Municipal de Assistência Social – FMAS –, |  |
+| --- | --- |
+| conforme autorização contida no caput do art. 4º da Lei nº 11.211, |  |
+| de 26 de dezembro de 2019: |  |
+| R$ |  |
+| 1011.08.242.020.2.403.3390.0340 | 294.556,00 |
+| 1011.08.244.020.2.403.3390.0340 | 1.107.413,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.401.969,00 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-|II.1 – Em contrapartida às suplementações relacionadas no item I.1|
-
-|da tabela anterior: |
-
-|R$ |
-
-|1011.08.244.019.2.308.3390.0340 |380.000,00 |
-
-|1011.08.244.020.2.878.3390.0340 |1.021.969,00 |
-
-|TOTAL DA ANULAÇÃO |1.401.969,00 |
+| II.1 – Em contrapartida às suplementações relacionadas no item I.1 |  |
+| --- | --- |
+| da tabela anterior: |  |
+| R$ |  |
+| 1011.08.244.019.2.308.3390.0340 | 380.000,00 |
+| 1011.08.244.020.2.878.3390.0340 | 1.021.969,00 |
+| TOTAL DA ANULAÇÃO | 1.401.969,00 |

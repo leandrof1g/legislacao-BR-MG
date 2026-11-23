@@ -52,4 +52,5 @@ Maria do Pilar Lacerda Almeida e Silva
 
 Secretária Municipal de Educação
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

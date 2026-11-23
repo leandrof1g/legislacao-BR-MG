@@ -40,9 +40,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 H - Dias comemorativos de agosto:
 
-|DATA |COMEMORAÇÃO |
-
-|7/8 |Dia Municipal de Luta contra o Feminicídio |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 7/8 | Dia Municipal de Luta contra o Feminicídio |
 
 .”.
 

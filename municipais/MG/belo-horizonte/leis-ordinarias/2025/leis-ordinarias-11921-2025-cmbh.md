@@ -32,9 +32,9 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 I - Dias comemorativos de setembro:
 
-|SETEMBRO |COMEMORAÇÃO |
-
-|21/9 |Dia Municipal do Córrego Cercadinho |
+| SETEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 21/9 | Dia Municipal do Córrego Cercadinho |
 
 ”.
 

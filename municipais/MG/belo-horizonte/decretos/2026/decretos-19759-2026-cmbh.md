@@ -58,83 +58,49 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei |R$ |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.449052.1.500.000 |28.200,00 |
-
-|2302.10.126.0117.2662.449040.2.634.790 |150.599,00 |
-
-|2302.10.302.0114.2951.339039.1.500.000 |5.883.973,78 |
-
-|2302.10.302.0117.1216.449051.1.634.791 |38.850,00 |
-
-|2302.10.302.0114.2951.339139.1.621.000 |265.000,00 |
-
-|TOTAL |6.366.622,78 |
-
-|I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da |R$ |
-
-|Lei nº 11.939, de 29 de dezembro de 2025: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte - PRODABEL |
-
-|0604.19.572.0085.2602.319011.1.500.000 |3.000.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.319011.1.604.000 |957.000,00 |
-
-|TOTAL |3.957.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |10.323.622,78 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 4º da Lei | R$ |
+| --- | --- |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.449052.1.500.000 | 28.200,00 |
+| 2302.10.126.0117.2662.449040.2.634.790 | 150.599,00 |
+| 2302.10.302.0114.2951.339039.1.500.000 | 5.883.973,78 |
+| 2302.10.302.0117.1216.449051.1.634.791 | 38.850,00 |
+| 2302.10.302.0114.2951.339139.1.621.000 | 265.000,00 |
+| TOTAL | 6.366.622,78 |
+| I.1.2 – A favor dos seguintes órgãos, conforme autorização contida no art. 5º da | R$ |
+| Lei nº 11.939, de 29 de dezembro de 2025: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte - PRODABEL |  |
+| 0604.19.572.0085.2602.319011.1.500.000 | 3.000.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.319011.1.604.000 | 957.000,00 |
+| TOTAL | 3.957.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 10.323.622,78 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.99.999.0999.9999.999999.1.500.000 |2.883.973,78 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.339030.1.500.000 |25.000,00 |
-
-|2302.10.301.0157.2690.449052.1.500.000 |3.200,00 |
-
-|2302.10.302.0117.1216.449051.2.634.790 |150.599,00 |
-
-|2302.10.126.0117.2662.339040.1.634.791 |38.850,00 |
-
-|2302.10.302.0114.2951.339039.1.621.000 |265.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449051.1.500.000 |3.000.000,00 |
-
-|TOTAL |6.366.622,78 |
-
-|I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.19.572.0085.2602.339040.1.500.000 |3.000.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.319011.1.604.000 |957.000,00 |
-
-|TOTAL |3.957.000,00 |
-
-|TOTAL DA ANULAÇÃO |10.323.622,78 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.99.999.0999.9999.999999.1.500.000 | 2.883.973,78 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.339030.1.500.000 | 25.000,00 |
+| 2302.10.301.0157.2690.449052.1.500.000 | 3.200,00 |
+| 2302.10.302.0117.1216.449051.2.634.790 | 150.599,00 |
+| 2302.10.126.0117.2662.339040.1.634.791 | 38.850,00 |
+| 2302.10.302.0114.2951.339039.1.621.000 | 265.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449051.1.500.000 | 3.000.000,00 |
+| TOTAL | 6.366.622,78 |
+| I.2.2 – Em contrapartida às suplementações relacionadas no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.19.572.0085.2602.339040.1.500.000 | 3.000.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.319011.1.604.000 | 957.000,00 |
+| TOTAL | 3.957.000,00 |
+| TOTAL DA ANULAÇÃO | 10.323.622,78 |
 
 ANEXO II
 
@@ -168,52 +134,32 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para|Limite de 15% (quinze por cento) |
-
-|abertura de créditos suplementares para o Fundo Municipal de |do valor do orçamento. |
-
-|Saúde. | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 3.738.652.601,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 481.847.074,68 |
-
-|Valor do decreto publicado nesta data |R$ 6.366.622,78 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 488.213.697,46 |
-
-|Saldo atual de créditos suplementares |R$ 3.250.438.903,94 |
-
-|Percentual utilizado |13,06% |
-
-|Atualizado em 28/09/2026 às 12:52:45 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 15% (quinze por cento) |
+| abertura de créditos suplementares para o Fundo Municipal de | do valor do orçamento. |
+| Saúde. |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 3.738.652.601,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 481.847.074,68 |
+| Valor do decreto publicado nesta data | R$ 6.366.622,78 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 488.213.697,46 |
+| Saldo atual de créditos suplementares | R$ 3.250.438.903,94 |
+| Percentual utilizado | 13,06% |
+| Atualizado em 28/09/2026 às 12:52:45 |  |
 
 III.2 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 5º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |do valor do Orçamento |
-
-|e Encargos Sociais (código 01) | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 146.019.777,94 |
-
-|Valor do decreto publicado nesta data |R$ 3.957.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 149.976.777,94 |
-
-|Saldo atual de créditos suplementares |R$ 2.342.458.289,66 |
-
-|Percentual utilizado |6,02% |
-
-|Atualizado em 28/09/2026 às 12:53:22 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | do valor do Orçamento |
+| e Encargos Sociais (código 01) |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 146.019.777,94 |
+| Valor do decreto publicado nesta data | R$ 3.957.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 149.976.777,94 |
+| Saldo atual de créditos suplementares | R$ 2.342.458.289,66 |
+| Percentual utilizado | 6,02% |
+| Atualizado em 28/09/2026 às 12:53:22 |  |

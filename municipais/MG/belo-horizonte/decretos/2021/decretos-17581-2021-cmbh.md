@@ -54,16 +54,11 @@ ANEXO
 
 I – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1 – A favor dos Encargos Gerais do Município da Secretaria |
-
-|Municipal de Fazenda – EGM-SMFA, conforme autorização contida no |
-
-|inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março |
-
-|de 1964: |
-
-|R$ |
-
-|4001.28.846.089.3.137.3390.0000 |20.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |20.000.000,00 |
+| I.1 – A favor dos Encargos Gerais do Município da Secretaria |  |
+| --- | --- |
+| Municipal de Fazenda – EGM-SMFA, conforme autorização contida no |  |
+| inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março |  |
+| de 1964: |  |
+| R$ |  |
+| 4001.28.846.089.3.137.3390.0000 | 20.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 20.000.000,00 |

@@ -298,17 +298,13 @@ ANEXO II A QUE SE REFERE A LEI Nº 6.104
 
 UF - UNIDADE FISCAL DA PBH
 
-|INFRAÇÃO/GRUPO |PRIMÁRIO |1ª |2ª |3ª |4ª |
-
-|1 |01 UF |02 UF |03 UF |04 UF |05 UF |
-
-|2 |02 UF |03 UF |04 UF |05 UF |CASSAÇÃO |
-
-|3 |03 UF |04 UF |05 UF |06 UF |CASSAÇÃO |
-
-|4 |04 UF |05 UF |06 UF |CASSAÇÃO |--- |
-
-|5 |05 UF |06 UF |CASSAÇÃO |--- |--- |
+| INFRAÇÃO/GRUPO | PRIMÁRIO | 1ª | 2ª | 3ª | 4ª |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 01 UF | 02 UF | 03 UF | 04 UF | 05 UF |
+| 2 | 02 UF | 03 UF | 04 UF | 05 UF | CASSAÇÃO |
+| 3 | 03 UF | 04 UF | 05 UF | 06 UF | CASSAÇÃO |
+| 4 | 04 UF | 05 UF | 06 UF | CASSAÇÃO | --- |
+| 5 | 05 UF | 06 UF | CASSAÇÃO | --- | --- |
 
 ## Observações da CMBH
 

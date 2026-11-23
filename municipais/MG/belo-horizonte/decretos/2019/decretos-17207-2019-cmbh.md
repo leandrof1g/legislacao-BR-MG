@@ -52,16 +52,11 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor do Fundo Municipal de Saúde – FMSA –, conforme autorização contida no inciso II do § 1º |
-
-|do art. 4º da Lei nº 11.145, de 26 de dezembro de 2018: |
-
-|R$ |
-
-|2302.10.302.114.2.892.3390.0350 |12.019.153,00 |
-
-|2302.10.302.203.2.894.3390.0350 |112.701.554,00 |
-
-|2302.10.302.203.2.894.3391.0350 |3.765.321,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |128.486.028,00 |
+| I.1 – A favor do Fundo Municipal de Saúde – FMSA –, conforme autorização contida no inciso II do § 1º |  |
+| --- | --- |
+| do art. 4º da Lei nº 11.145, de 26 de dezembro de 2018: |  |
+| R$ |  |
+| 2302.10.302.114.2.892.3390.0350 | 12.019.153,00 |
+| 2302.10.302.203.2.894.3390.0350 | 112.701.554,00 |
+| 2302.10.302.203.2.894.3391.0350 | 3.765.321,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 128.486.028,00 |

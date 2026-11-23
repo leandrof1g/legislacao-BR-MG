@@ -68,47 +68,28 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei | |
-
-|nº 11.939, de 29 de dezembro de 2025: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2812.449092.2.710.610 |166.792,50 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2046.339039.2.550.000 |5.386.795,30 |
-
-|2200.12.365.0169.2046.339039.2.550.000 |3.294.525,69 |
-
-|2200.12.361.0168.2080.456782.2.550.000 |681.080,39 |
-
-|2200.12.365.0316.2948.456782.2.550.000 |7.708.352,45 |
-
-|2200.12.122.0140.2317.449051.2.550.000 |3.038.424,88 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.245.0020.2403.339039.2.660.000 |679.567,90 |
-
-|3701.08.245.0020.2403.339039.2.661.000 |614.490,00 |
-
-|3701.08.245.0020.2878.339039.2.661.000 |290.075,00 |
-
-|3701.08.244.0019.2405.339037.2.660.000 |1.463.353,48 |
-
-|3701.08.244.0113.2327.339039.2.660.000 |41.629,54 |
-
-|3701.08.244.0113.2327.449052.2.660.000 |11.051,61 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.0228.2537.449052.2.700.000 |2.418,68 |
-
-|TOTAL DA SUPLEMENTAÇÃO |23.378.557,42 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 6º da Lei |  |
+| nº 11.939, de 29 de dezembro de 2025: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2812.449092.2.710.610 | 166.792,50 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2046.339039.2.550.000 | 5.386.795,30 |
+| 2200.12.365.0169.2046.339039.2.550.000 | 3.294.525,69 |
+| 2200.12.361.0168.2080.456782.2.550.000 | 681.080,39 |
+| 2200.12.365.0316.2948.456782.2.550.000 | 7.708.352,45 |
+| 2200.12.122.0140.2317.449051.2.550.000 | 3.038.424,88 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.245.0020.2403.339039.2.660.000 | 679.567,90 |
+| 3701.08.245.0020.2403.339039.2.661.000 | 614.490,00 |
+| 3701.08.245.0020.2878.339039.2.661.000 | 290.075,00 |
+| 3701.08.244.0019.2405.339037.2.660.000 | 1.463.353,48 |
+| 3701.08.244.0113.2327.339039.2.660.000 | 41.629,54 |
+| 3701.08.244.0113.2327.449052.2.660.000 | 11.051,61 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.0228.2537.449052.2.700.000 | 2.418,68 |
+| TOTAL DA SUPLEMENTAÇÃO | 23.378.557,42 |
 
 ANEXO II
 
@@ -168,26 +149,16 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 6º da Lei nº 11.939, de 29 de dezembro de 2025:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |
-
-|Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para |Limite de 10% (dez por cento) |
-
-|abertura de créditos suplementares para despesas não contidas nos |do valor do Orçamento |
-
-|arts. 4º e 5º da LOA 2026 | |
-
-|Base de cálculo anual |R$ 24.924.350.676,00 |
-
-|Limite total anual autorizado |R$ 2.492.435.067,60 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 321.141.793,93 |
-
-|Valor do decreto publicado nesta data |R$ 23.378.557,42 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 344.520.351,35 |
-
-|Saldo atual de créditos suplementares |R$ 2.147.914.716,25 |
-
-|Percentual utilizado |13,82% |
-
-|Atualizado em 20/02/2026 às 15:18:03 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2026 |  |
+| --- | --- |
+| Art. 6º da Lei nº 11.939, de 29/12/2025 – Limite autorizado para | Limite de 10% (dez por cento) |
+| abertura de créditos suplementares para despesas não contidas nos | do valor do Orçamento |
+| arts. 4º e 5º da LOA 2026 |  |
+| Base de cálculo anual | R$ 24.924.350.676,00 |
+| Limite total anual autorizado | R$ 2.492.435.067,60 |
+| Total de créditos suplementares abertos anteriormente | R$ 321.141.793,93 |
+| Valor do decreto publicado nesta data | R$ 23.378.557,42 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 344.520.351,35 |
+| Saldo atual de créditos suplementares | R$ 2.147.914.716,25 |
+| Percentual utilizado | 13,82% |
+| Atualizado em 20/02/2026 às 15:18:03 |  |

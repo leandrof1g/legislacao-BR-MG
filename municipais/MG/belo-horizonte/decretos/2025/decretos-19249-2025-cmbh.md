@@ -58,33 +58,24 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § |R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei | |
-
-|nº 11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Mobilidade Urbana – FMU |
-
-|3502.26.452.0060.2837.339039.1.500.000 |1.500.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.500.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no inciso III do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 da Lei |  |
+| nº 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Mobilidade Urbana – FMU |  |
+| 3502.26.452.0060.2837.339039.1.500.000 | 1.500.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.500.000,00 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1: |R$ |
-
-|Anulação de recursos previstos inicialmente no órgão relacionado abaixo, conforme | |
-
-|autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|3503.26.452.0060.2567.339047.1.500.000 |1.047.650,00 |
-
-|3503.26.452.0060.2567.339092.1.500.000 |452.350,00 |
-
-|TOTAL DA ANULAÇÃO |1.500.000,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos previstos inicialmente no órgão relacionado abaixo, conforme |  |
+| autorização contida no art. 31 da Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 3503.26.452.0060.2567.339047.1.500.000 | 1.047.650,00 |
+| 3503.26.452.0060.2567.339092.1.500.000 | 452.350,00 |
+| TOTAL DA ANULAÇÃO | 1.500.000,00 |
 
 ANEXO II
 
@@ -108,20 +99,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos especiais abertos anteriormente |1.030.146.166,09 |
-
-|Valor do Decreto publicado nesta data |1.500.000,00 |
-
-|Valor total dos créditos especiais abertos no exercício |1.031.646.166,09 |
-
-|Saldo atual do limite autorizado |1.017.381.060,84 |
-
-|Percentual utilizado |50,35% |
-
-|Atualizado em 19/08/2025 às 14:48:30 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos especiais abertos anteriormente | 1.030.146.166,09 |
+| Valor do Decreto publicado nesta data | 1.500.000,00 |
+| Valor total dos créditos especiais abertos no exercício | 1.031.646.166,09 |
+| Saldo atual do limite autorizado | 1.017.381.060,84 |
+| Percentual utilizado | 50,35% |
+| Atualizado em 19/08/2025 às 14:48:30 |  |

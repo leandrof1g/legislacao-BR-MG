@@ -58,49 +58,32 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 1º da Lei|R$ |
-
-|nº 11.377, de 8 de julho de 2022: | |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.04.122.217.2.853.3390.0000 |50.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.122.117.2.662.3390.0000 |24.248,57 |
-
-|2302.10.122.117.2.662.3390.0000 |22.221,24 |
-
-|2302.10.302.114.2.891.3390.0000 |1.289.220,00 |
-
-|2302.10.302.114.2.893.3390.0000 |510,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.386.199,81 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 1º da Lei | R$ |
+| --- | --- |
+| nº 11.377, de 8 de julho de 2022: |  |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.04.122.217.2.853.3390.0000 | 50.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.122.117.2.662.3390.0000 | 24.248,57 |
+| 2302.10.122.117.2.662.3390.0000 | 22.221,24 |
+| 2302.10.302.114.2.891.3390.0000 | 1.289.220,00 |
+| 2302.10.302.114.2.893.3390.0000 | 510,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.386.199,81 |
 
 I.2 – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, conforme | |
-
-|autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: | |
-
-|Secretaria Municipal de Meio Ambiente – SMMA |
-
-|2500.18.541.307.2.913.3390.0000 |50.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.122.117.1.216.4490.0000 |24.248,57 |
-
-|2302.10.122.117.1.216.4490.0000 |22.221,24 |
-
-|2302.10.301.157.2.690.3390.0000 |1.289.220,00 |
-
-|2302.10.302.114.2.893.4490.0000 |510,00 |
-
-|TOTAL DA ANULAÇÃO |1.386.199,81 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, conforme |  |
+| autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| Secretaria Municipal de Meio Ambiente – SMMA |  |
+| 2500.18.541.307.2.913.3390.0000 | 50.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.122.117.1.216.4490.0000 | 24.248,57 |
+| 2302.10.122.117.1.216.4490.0000 | 22.221,24 |
+| 2302.10.301.157.2.690.3390.0000 | 1.289.220,00 |
+| 2302.10.302.114.2.893.4490.0000 | 510,00 |
+| TOTAL DA ANULAÇÃO | 1.386.199,81 |
 
 ANEXO II
 
@@ -140,16 +123,11 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 1º da Lei nº 11.377, de 8 de julho de 2022:
 
-| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2022 |
-
-|Art. 1º da Lei nº 11.377, de 08/07/2022 – Emendas Parlamentares Individuais |
-
-|Limite total autorizado |R$ 64.153.793,00 |
-
-|Valor dos créditos suplementares abertos no exercício |R$ 63.336.114,61 |
-
-|Saldos de créditos suplementares |R$ 817.678,39 |
-
-|Percentual utilizado |98,73% |
-
-|Atualizado em 15/12/2022 às 12:05:44 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS 2022 |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.377, de 08/07/2022 – Emendas Parlamentares Individuais |  |
+| Limite total autorizado | R$ 64.153.793,00 |
+| Valor dos créditos suplementares abertos no exercício | R$ 63.336.114,61 |
+| Saldos de créditos suplementares | R$ 817.678,39 |
+| Percentual utilizado | 98,73% |
+| Atualizado em 15/12/2022 às 12:05:44 |  |

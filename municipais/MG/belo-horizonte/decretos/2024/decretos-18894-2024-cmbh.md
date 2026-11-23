@@ -58,29 +58,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação da seguinte dotação orçamentária a que se refere o art. 1º:
 
-|I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 1º da Lei nº |R$ |
-
-|11.767, de 30 de outubro de 2024: | |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.813.0101.2545.339039.1.500.000 |170.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |170.000,00 |
+| I.1.1 – A favor do seguinte órgão, conforme autorização contida no art. 1º da Lei nº | R$ |
+| --- | --- |
+| 11.767, de 30 de outubro de 2024: |  |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.813.0101.2545.339039.1.500.000 | 170.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 170.000,00 |
 
 I.2 – Anulação da seguinte dotação orçamentária a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1: |R$ |
-
-|Anulação de emenda prevista inicialmente no órgão relacionado abaixo, conforme | |
-
-|autorização contida no art. 2º da Lei nº 11.767, de 30 de outubro de 2024: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.243.0019.2647.339039.1.500.000 |170.000,00 |
-
-|TOTAL DA ANULAÇÃO |170.000,00 |
+| I.2.1 – Em contrapartida à suplementação relacionada no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de emenda prevista inicialmente no órgão relacionado abaixo, conforme |  |
+| autorização contida no art. 2º da Lei nº 11.767, de 30 de outubro de 2024: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.243.0019.2647.339039.1.500.000 | 170.000,00 |
+| TOTAL DA ANULAÇÃO | 170.000,00 |
 
 ANEXO II
 
@@ -104,20 +97,13 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 1º da Lei nº 11.767, de 30 de outubro de 2024:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 1º da Lei nº 11.767, de 30/10/2024 – Emendas Parlamentares Individuais |
-
-|Limite total anual autorizado |R$ 18.398.324,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 960.000,00 |
-
-|Valor do Decreto publicado nesta data |R$ 170.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.130.000,00 |
-
-|Saldo atual de créditos suplementares |R$ 17.268.324,00 |
-
-|Percentual utilizado |6,14% |
-
-|Atualizado em 03/12/2024 às 10:41:08 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 1º da Lei nº 11.767, de 30/10/2024 – Emendas Parlamentares Individuais |  |
+| Limite total anual autorizado | R$ 18.398.324,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 960.000,00 |
+| Valor do Decreto publicado nesta data | R$ 170.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.130.000,00 |
+| Saldo atual de créditos suplementares | R$ 17.268.324,00 |
+| Percentual utilizado | 6,14% |
+| Atualizado em 03/12/2024 às 10:41:08 |  |

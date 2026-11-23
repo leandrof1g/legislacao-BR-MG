@@ -58,85 +58,50 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei nº |R$ |
-
-|11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de | |
-
-|2024: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2902.336783.500 |150.000,00 |
-
-|2302.10.301.0157.2902.336783.500 |101.110,00 |
-
-|2302.10.301.0157.2902.336783.500 |100.000,00 |
-
-|2302.10.301.0157.2902.336783.500 |65.000,00 |
-
-|2302.10.301.0157.2902.336783.500 |65.000,00 |
-
-|2302.10.301.0157.2902.336783.500 |63.055,00 |
-
-|2302.10.301.0157.2902.336783.500 |50.000,00 |
-
-|2302.10.301.0157.2902.336783.500 |250.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.813.0101.2545.339039.500 |50.000,00 |
-
-|3000.27.813.0101.2545.339039.500 |50.000,00 |
-
-|3000.27.813.0101.2545.339039.500 |300.000,00 |
-
-|3000.27.813.0101.2545.339039.500 |50.000,00 |
-
-|3000.27.813.0101.2545.339039.500 |175.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |1.469.165,00 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 20 da Lei nº | R$ |
+| --- | --- |
+| 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de |  |
+| 2024: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2902.336783.500 | 150.000,00 |
+| 2302.10.301.0157.2902.336783.500 | 101.110,00 |
+| 2302.10.301.0157.2902.336783.500 | 100.000,00 |
+| 2302.10.301.0157.2902.336783.500 | 65.000,00 |
+| 2302.10.301.0157.2902.336783.500 | 65.000,00 |
+| 2302.10.301.0157.2902.336783.500 | 63.055,00 |
+| 2302.10.301.0157.2902.336783.500 | 50.000,00 |
+| 2302.10.301.0157.2902.336783.500 | 250.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.813.0101.2545.339039.500 | 50.000,00 |
+| 3000.27.813.0101.2545.339039.500 | 50.000,00 |
+| 3000.27.813.0101.2545.339039.500 | 300.000,00 |
+| 3000.27.813.0101.2545.339039.500 | 50.000,00 |
+| 3000.27.813.0101.2545.339039.500 | 175.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 1.469.165,00 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação |R$ |
-
-|de emendas previstas inicialmente nos órgãos relacionados abaixo, conforme | |
-
-|autorização contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no | |
-
-|art. 7º da Lei nº 11.644, de 29 de dezembro de 2024: | |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339039.500 |250.000,00 |
-
-|2302.10.301.0157.2690.339030.500 |65.000,00 |
-
-|2302.10.301.0157.2690.339030.500 |65.000,00 |
-
-|2302.10.301.0157.2690.339030.500 |63.055,00 |
-
-|2302.10.301.0157.2690.339030.500 |100.000,00 |
-
-|2302.10.301.0157.2690.339030.500 |101.110,00 |
-
-|2302.10.301.0157.2690.339030.500 |150.000,00 |
-
-|2302.10.301.0157.2690.339039.500 |50.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.0101.2545.339039.500 |50.000,00 |
-
-|3000.27.812.0101.2545.339039.500 |50.000,00 |
-
-|3000.27.812.0101.2545.339039.500 |300.000,00 |
-
-|3000.27.812.0101.2545.339039.500 |50.000,00 |
-
-|3000.27.812.0101.2545.339039.500 |175.000,00 |
-
-|TOTAL DA ANULAÇÃO |1.469.165,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de emendas previstas inicialmente nos órgãos relacionados abaixo, conforme |  |
+| autorização contida no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no |  |
+| art. 7º da Lei nº 11.644, de 29 de dezembro de 2024: |  |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339039.500 | 250.000,00 |
+| 2302.10.301.0157.2690.339030.500 | 65.000,00 |
+| 2302.10.301.0157.2690.339030.500 | 65.000,00 |
+| 2302.10.301.0157.2690.339030.500 | 63.055,00 |
+| 2302.10.301.0157.2690.339030.500 | 100.000,00 |
+| 2302.10.301.0157.2690.339030.500 | 101.110,00 |
+| 2302.10.301.0157.2690.339030.500 | 150.000,00 |
+| 2302.10.301.0157.2690.339039.500 | 50.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.0101.2545.339039.500 | 50.000,00 |
+| 3000.27.812.0101.2545.339039.500 | 50.000,00 |
+| 3000.27.812.0101.2545.339039.500 | 300.000,00 |
+| 3000.27.812.0101.2545.339039.500 | 50.000,00 |
+| 3000.27.812.0101.2545.339039.500 | 175.000,00 |
+| TOTAL DA ANULAÇÃO | 1.469.165,00 |
 
 ANEXO II
 
@@ -164,22 +129,14 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 20 da Lei nº 11.594, de 22 de setembro de 2023, e no art. 7º da Lei nº 11.644, de 29 de dezembro de 2024:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |
-
-|adequação das programações para atendimento e viabilização das emendas individuais. |
-
-|Limite total anual autorizado |R$ 170.400.546,00 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 0,00 |
-
-|Valor do Decreto publicado nesta data |R$ 1.469.165,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.469.165,00 |
-
-|Saldo atual de créditos suplementares |R$ 168.931.381,00 |
-
-|Percentual utilizado |0,86% |
-
-|Atualizado em 19/02/2024 às 14:57:53 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 7º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para suplementações que objetivem a |  |
+| adequação das programações para atendimento e viabilização das emendas individuais. |  |
+| Limite total anual autorizado | R$ 170.400.546,00 |
+| Total de créditos suplementares abertos anteriormente | R$ 0,00 |
+| Valor do Decreto publicado nesta data | R$ 1.469.165,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.469.165,00 |
+| Saldo atual de créditos suplementares | R$ 168.931.381,00 |
+| Percentual utilizado | 0,86% |
+| Atualizado em 19/02/2024 às 14:57:53 |  |

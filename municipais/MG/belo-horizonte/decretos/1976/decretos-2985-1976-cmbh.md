@@ -62,13 +62,7 @@ Evando Barbosa
 
 Secretário Municipal da Fazenda
 
-[pic]
-
-[pic]
-
-[pic]
-
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 ## Observações da CMBH
 

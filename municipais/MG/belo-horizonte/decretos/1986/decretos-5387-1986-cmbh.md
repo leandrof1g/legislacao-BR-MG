@@ -76,4 +76,5 @@ Secretário Municipal de Esportes
 
 Anexo no serviço de Documentação da SMAD
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

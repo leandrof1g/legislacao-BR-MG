@@ -64,21 +64,15 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei | |
-
-|nº 11.594, de 22 de setembro de 2023: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.28.844.0091.3089.469071.2.502.000 |39.311.421,06 |
-
-|4001.28.844.0091.3089.329021.2.711.000 |21.972.803,90 |
-
-|4001.28.844.0091.3089.329021.2.718.000 |7.052.752,40 |
-
-|TOTAL DA SUPLEMENTAÇÃO |68.336.977,36 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 49 da Lei |  |
+| nº 11.594, de 22 de setembro de 2023: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.28.844.0091.3089.469071.2.502.000 | 39.311.421,06 |
+| 4001.28.844.0091.3089.329021.2.711.000 | 21.972.803,90 |
+| 4001.28.844.0091.3089.329021.2.718.000 | 7.052.752,40 |
+| TOTAL DA SUPLEMENTAÇÃO | 68.336.977,36 |
 
 ANEXO II
 

@@ -38,9 +38,9 @@ DIA COMEMORATIVO
 
 D – Dias comemorativos de abril:
 
-|DATA |COMEMORAÇÃO |
-
-|2/4 |Dia da Maternidade Atípica |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 2/4 | Dia da Maternidade Atípica |
 
 .”.
 

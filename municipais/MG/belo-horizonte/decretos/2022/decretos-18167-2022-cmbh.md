@@ -62,57 +62,33 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do §|R$ |
-
-|1º do art. 43, da Lei Federal nº 4.320, de 17 de março de 1964 e no caput do art. 4º| |
-
-|da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.17.512.066.1.400.4490.0030 |11.000.000,00 |
-
-|Superintendência de Limpeza Urbana – SLU |
-
-|2708.17.512.228.2.538.3390.0000 |136.426,95 |
-
-|2708.17.512.228.2.538.3390.0000 |1.203.911,16 |
-
-|2708.17.512.046.2.539.3390.0000 |922.445,00 |
-
-|2708.17.512.228.2.538.3390.0000 |813.147,18 |
-
-|2708.17.512.228.2.538.3390.0000 |330.794,55 |
-
-|2708.17.512.046.2.539.3390.0000 |764.754,00 |
-
-|2708.17.512.228.2.538.3390.0000 |261.308,76 |
-
-|2708.17.512.228.2.538.3390.0000 |559.440,28 |
-
-|2708.17.512.228.2.538.3390.0000 |900.110,33 |
-
-|2708.17.512.046.2.539.3390.0000 |45.320,68 |
-
-|2708.17.512.228.2.538.3390.0000 |901.808,15 |
-
-|2708.17.512.228.2.538.3390.0000 |555.372,65 |
-
-|2708.17.512.046.2.537.3390.0000 |1.244.377,81 |
-
-|Secretaria Municipal de Política Urbana – SMPU | |
-
-|3300.15.452.059.2.890.3390.0000 |1.680.000,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM -SMFA |
-
-|4001.28.846.089.3.137.3190.0000 |5.000.000,00 |
-
-|4001.28.846.089.3.137.3390.0000 |3.000.000,00 |
-
-|4001.28.846.089.3.137.4490.0000 |1.791.242,60 |
-
-|TOTAL DA SUPLEMENTAÇÃO |31.110.460,10 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do § | R$ |
+| --- | --- |
+| 1º do art. 43, da Lei Federal nº 4.320, de 17 de março de 1964 e no caput do art. 4º |  |
+| da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.17.512.066.1.400.4490.0030 | 11.000.000,00 |
+| Superintendência de Limpeza Urbana – SLU |  |
+| 2708.17.512.228.2.538.3390.0000 | 136.426,95 |
+| 2708.17.512.228.2.538.3390.0000 | 1.203.911,16 |
+| 2708.17.512.046.2.539.3390.0000 | 922.445,00 |
+| 2708.17.512.228.2.538.3390.0000 | 813.147,18 |
+| 2708.17.512.228.2.538.3390.0000 | 330.794,55 |
+| 2708.17.512.046.2.539.3390.0000 | 764.754,00 |
+| 2708.17.512.228.2.538.3390.0000 | 261.308,76 |
+| 2708.17.512.228.2.538.3390.0000 | 559.440,28 |
+| 2708.17.512.228.2.538.3390.0000 | 900.110,33 |
+| 2708.17.512.046.2.539.3390.0000 | 45.320,68 |
+| 2708.17.512.228.2.538.3390.0000 | 901.808,15 |
+| 2708.17.512.228.2.538.3390.0000 | 555.372,65 |
+| 2708.17.512.046.2.537.3390.0000 | 1.244.377,81 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.059.2.890.3390.0000 | 1.680.000,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM -SMFA |  |
+| 4001.28.846.089.3.137.3190.0000 | 5.000.000,00 |
+| 4001.28.846.089.3.137.3390.0000 | 3.000.000,00 |
+| 4001.28.846.089.3.137.4490.0000 | 1.791.242,60 |
+| TOTAL DA SUPLEMENTAÇÃO | 31.110.460,10 |
 
 ANEXO II
 
@@ -148,36 +124,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite de |Inciso I do § 1º do art. 4º, |Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |15% do valor total do |limite de 15% do total do |4º, limite de 15% do total |
-
-|– Limites autorizados |Orçamento: |Orçamento do Grupo 1 – |do Orçamento do Fundo |
-
-|para abertura de | |Pessoal e Encargos Sociais: |Municipal de Saúde – FMS: |
-
-|créditos | | | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.094.838.591,73 |R$ 211.263.468,88 |R$ 549.445.452,89 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 1.206.312.093,92 |R$ 672.728.839,82 |R$ 177.771.699,76 |
-
-|suplementares | | | |
-
-|Percentual utilizado |47,58% |23,90% |75,55% |
-
-|Atualizado em 21/11/2022 às 20:32:52 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite de | Inciso I do § 1º do art. 4º, | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | 15% do valor total do | limite de 15% do total do | 4º, limite de 15% do total |
+| – Limites autorizados | Orçamento: | Orçamento do Grupo 1 – | do Orçamento do Fundo |
+| para abertura de |  | Pessoal e Encargos Sociais: | Municipal de Saúde – FMS: |
+| créditos |  |  |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.094.838.591,73 | R$ 211.263.468,88 | R$ 549.445.452,89 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 1.206.312.093,92 | R$ 672.728.839,82 | R$ 177.771.699,76 |
+| suplementares |  |  |  |
+| Percentual utilizado | 47,58% | 23,90% | 75,55% |
+| Atualizado em 21/11/2022 às 20:32:52 |  |  |  |

@@ -52,42 +52,27 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-| I – A favor dos seguintes órgãos, conforme autorização contida nos artigos 1º e|R$ |
-
-|3º da Lei nº 11.377, de 8 de julho de 2022: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.812.4490.0000 |50.000,00 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.18.541.233.2.811.3390.0000 |15.458,93 |
-
-|2702.18.541.233.2.811.3390.0000 |4.181,30 |
-
-|2702.04.122.233.1.219.4490.0000 |40.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |109.640,23 |
+| I – A favor dos seguintes órgãos, conforme autorização contida nos artigos 1º e | R$ |
+| --- | --- |
+| 3º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.812.4490.0000 | 50.000,00 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.18.541.233.2.811.3390.0000 | 15.458,93 |
+| 2702.18.541.233.2.811.3390.0000 | 4.181,30 |
+| 2702.04.122.233.1.219.4490.0000 | 40.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 109.640,23 |
 
 II – Anulação das seguintes dotações orçamentárias a que se refere o art. 2º:
 
-| II – Em contrapartida às suplementações relacionadas no item I: |R$ |
-
-|Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, | |
-
-|conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022:| |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.812.3390.0000 |50.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.18.541.233.2.811.4490.0000 |19.640,23 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.122.117.1.216.4490.0000 |40.000,00 |
-
-|TOTAL DA ANULAÇÃO |109.640,23 |
+| II – Em contrapartida às suplementações relacionadas no item I: | R$ |
+| --- | --- |
+| Anulação de emendas previstas inicialmente nos órgãos relacionados abaixo, |  |
+| conforme autorização contida no art. 2º da Lei nº 11.377, de 8 de julho de 2022: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.812.3390.0000 | 50.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.18.541.233.2.811.4490.0000 | 19.640,23 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.122.117.1.216.4490.0000 | 40.000,00 |
+| TOTAL DA ANULAÇÃO | 109.640,23 |

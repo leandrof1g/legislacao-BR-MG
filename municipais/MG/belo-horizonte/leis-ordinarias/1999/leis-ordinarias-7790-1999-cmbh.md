@@ -48,7 +48,7 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 5º** - O cargo de provimento efetivo de Auxiliar de Secretaria Escolar terá 15 (quinze) níveis na tabela de vencimentos, cujos valores são os seguintes:
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
 
 **Art. 6º** - Fica o Executivo autorizado a abrir crédito suplementar ao Orçamento, até o limite necessário ao cumprimento das medidas previstas nesta Lei.
 

@@ -38,13 +38,11 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 **Art. 4º** - Os Corregedores Municipais em efetivo exercício de suas funções passam a ter o vencimento de acordo com o Anexo I desta Lei.
 
-|CARGO |VENCIMENTO |
-
-|Corregedor Municipal I |R$ 3.325,00 |
-
-|Corregedor Municipal II |R$ 3.500,00 |
-
-|Corregedor Municipal III |R$ 3.675,00 |
+| CARGO | VENCIMENTO |
+| --- | --- |
+| Corregedor Municipal I | R$ 3.325,00 |
+| Corregedor Municipal II | R$ 3.500,00 |
+| Corregedor Municipal III | R$ 3.675,00 |
 
 **Art. 4º** revogado pela Lei nº 9.418, de 27/7/2007 (Art. 8º)
 
@@ -74,13 +72,11 @@ O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO DA ADMINISTRAÇÃO DIRETA DO EXECUTIVO E DE CORRELAÇÃO COM OS CARGOS ANTERIORES
 
-|CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR |CARGO PREVISTO NESTA LEI |QUANTIDADE DE VAGAS |
-
-|GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO | | |
-
-|Diretor de Departamento |Gerente de 1º Nível |261 (NR)". |
-
-| | |Número de vagas retificado em 07/04/2004 |
+| CARGO PREVISTO NA LEGISLAÇÃO ANTERIOR | CARGO PREVISTO NESTA LEI | QUANTIDADE DE VAGAS |
+| --- | --- | --- |
+| GRUPO DE DIREÇÃO, CHEFIA E EXECUÇÃO |  |  |
+| Diretor de Departamento | Gerente de 1º Nível | 261 (NR)". |
+|  |  | Número de vagas retificado em 07/04/2004 |
 
 **Art. 11** - Para atender às despesas decorrentes da execução desta Lei, fica o Executivo autorizado a abrir crédito especial e suplementar, na forma dos arts. 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17 de março de 1964.
 

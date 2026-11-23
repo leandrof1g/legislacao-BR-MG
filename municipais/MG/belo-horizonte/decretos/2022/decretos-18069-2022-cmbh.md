@@ -58,50 +58,28 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 - A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º|R$ |
-
-|do art. 43 da Lei Federal no 4.320, de 17 de março de 1964, e no caput do art. 4º da| |
-
-|Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte - URBEL |
-
-|2703.16.482.007.2.900.3390.0007 |14.951,57 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A - BELOTUR |
-
-|2805.23.695.086.2.900.3390.0007 |25.519,07 |
-
-|2805.23.695.086.2.900.3390.0030 |416.576,72 |
-
-|2805.23.695.086.2.900.4490.0030 |152.100,00 |
-
-|TOTAL |609.147,36 |
-
-|I.2 - A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no |R$ |
-
-|inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no | |
-
-|inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2302.10.301.157.2.690.3390.0050 |351.684,75 |
-
-|2302.10.302.114.2.891.3350.0050 |8.176.972,80 |
-
-|2302.10.302.114.2.891.3390.0050 |860,29 |
-
-|2302.10.302.114.2.893.3390.0050 |246.459,05 |
-
-|2302.10.302.114.2.893.4490.0050 |581,00 |
-
-|2302.10.302.114.2.894.3390.0050 |108.859,72 |
-
-|2302.10.302.114.2.894.3391.0050 |347.200,00 |
-
-|2302.10.303.117.2.895.3390.0050 |313.772,41 |
-
-|2302.10.305.028.2.829.3390.0050 |218.025,40 |
-
-|TOTAL |9.764.415,42 |
-
-|TOTAL DA SUPLEMENTAÇÃO |10.373.562,78 |
+| I.1 - A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei Federal no 4.320, de 17 de março de 1964, e no caput do art. 4º da |  |
+| Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte - URBEL |  |
+| 2703.16.482.007.2.900.3390.0007 | 14.951,57 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A - BELOTUR |  |
+| 2805.23.695.086.2.900.3390.0007 | 25.519,07 |
+| 2805.23.695.086.2.900.3390.0030 | 416.576,72 |
+| 2805.23.695.086.2.900.4490.0030 | 152.100,00 |
+| TOTAL | 609.147,36 |
+| I.2 - A favor do Fundo Municipal de Saúde – FMS –, conforme autorização contida no | R$ |
+| inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no |  |
+| inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2302.10.301.157.2.690.3390.0050 | 351.684,75 |
+| 2302.10.302.114.2.891.3350.0050 | 8.176.972,80 |
+| 2302.10.302.114.2.891.3390.0050 | 860,29 |
+| 2302.10.302.114.2.893.3390.0050 | 246.459,05 |
+| 2302.10.302.114.2.893.4490.0050 | 581,00 |
+| 2302.10.302.114.2.894.3390.0050 | 108.859,72 |
+| 2302.10.302.114.2.894.3391.0050 | 347.200,00 |
+| 2302.10.303.117.2.895.3390.0050 | 313.772,41 |
+| 2302.10.305.028.2.829.3390.0050 | 218.025,40 |
+| TOTAL | 9.764.415,42 |
+| TOTAL DA SUPLEMENTAÇÃO | 10.373.562,78 |

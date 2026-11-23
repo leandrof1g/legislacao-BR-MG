@@ -50,30 +50,19 @@ ANEXO
 
 “
 
-|GRUPO I – PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS (autorização, permissão ou |
-
-|concessão): |
-
-|(...) |
-
-|12.1 – Feiras Livres, Feira Orgânica, Feira Modelo, Direto da Roça e Feira da Agricultura Urbana: |
-
-|12.1.1 – Barreiro |R$53,41 p/m² p/exercício |
-
-|12.1.2 – Centro-Sul |R$76,12 p/m² p/exercício |
-
-|12.1.3 – Leste |R$52,91 p/m² p/exercício |
-
-|12.1.4 – Nordeste |R$52,28 p/m² p/exercício |
-
-|12.1.5 – Noroeste |R$65,10 p/m² p/exercício |
-
-|12.1.6 – Norte |R$60,91 p/m² p/exercício |
-
-|12.1.7 – Oeste |R$68,72 p/m² p/exercício |
-
-|12.1.8 – Pampulha |R$55,69 p/m² p/exercício |
-
-|12.1.9 – Venda Nova |R$51,44 p/m² p/exercício |
+| GRUPO I – PELO USO E OCUPAÇÃO DE VIAS, LOGRADOUROS E/OU PASSEIOS PÚBLICOS (autorização, permissão ou |  |
+| --- | --- |
+| concessão): |  |
+| (...) |  |
+| 12.1 – Feiras Livres, Feira Orgânica, Feira Modelo, Direto da Roça e Feira da Agricultura Urbana: |  |
+| 12.1.1 – Barreiro | R$53,41 p/m² p/exercício |
+| 12.1.2 – Centro-Sul | R$76,12 p/m² p/exercício |
+| 12.1.3 – Leste | R$52,91 p/m² p/exercício |
+| 12.1.4 – Nordeste | R$52,28 p/m² p/exercício |
+| 12.1.5 – Noroeste | R$65,10 p/m² p/exercício |
+| 12.1.6 – Norte | R$60,91 p/m² p/exercício |
+| 12.1.7 – Oeste | R$68,72 p/m² p/exercício |
+| 12.1.8 – Pampulha | R$55,69 p/m² p/exercício |
+| 12.1.9 – Venda Nova | R$51,44 p/m² p/exercício |
 
 ”.

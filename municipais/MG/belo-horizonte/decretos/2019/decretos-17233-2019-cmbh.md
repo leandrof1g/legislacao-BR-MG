@@ -52,16 +52,11 @@ ANEXO
 
 I – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1 – A favor da Empresa de Transportes e Trânsito de Belo Horizonte |
-
-|– BHTRANS –, conforme autorização contida no art. 43 da Lei federal |
-
-|nº 4.320, de 17 de março de 1964: |
-
-|R$ |
-
-|2709.26.452.060.2.567.3190.0107 |5.000.000,00 |
-
-|2709.26.452.060.2.567.3390.0307 |1.000.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |6.000.000,00 |
+| I.1 – A favor da Empresa de Transportes e Trânsito de Belo Horizonte |  |
+| --- | --- |
+| – BHTRANS –, conforme autorização contida no art. 43 da Lei federal |  |
+| nº 4.320, de 17 de março de 1964: |  |
+| R$ |  |
+| 2709.26.452.060.2.567.3190.0107 | 5.000.000,00 |
+| 2709.26.452.060.2.567.3390.0307 | 1.000.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 6.000.000,00 |

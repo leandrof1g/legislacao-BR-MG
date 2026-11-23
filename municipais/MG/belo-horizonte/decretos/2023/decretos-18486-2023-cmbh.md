@@ -58,141 +58,78 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da |R$ |
-
-|Lei nº 11.442, de 29 de dezembro de 2022: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.1100.19.572.302.2.905.449052.501 |310.000,00 |
-
-|0604.1901.19.572.302.2.905.339040.500 |250.000,00 |
-
-|0604.1902.19.572.085.2.603.339040.500 |500.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.1100.12.365.169.2.542.456782.550 |30.000.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0800.15.451.233.1.396.449051.500 |287.780,00 |
-
-|2700.0800.18.541.244.1.244.449051.500 |40.000,00 |
-
-|2700.1100.04.122.233.1.219.339030.500 |643.425,00 |
-
-|2700.1100.15.451.062.1.230.449051.500 |184.541,00 |
-
-|2700.1100.15.451.233.1.208.449051.500 |1.000.000,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico – SMDE |
-
-|2800.1100.04.122.141.2.852.339036.500 |300.000,00 |
-
-|2800.1100.11.334.237.2.404.449093.701 |3.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.1100.27.812.101.2.545.339039.500 |214.948,00 |
-
-|3000.1100.27.813.101.2.545.339030.500 |2.008,00 |
-
-|3000.1100.27.813.101.2.545.339039.500 |10.000,00 |
-
-|3000.1100.27.813.101.2.545.449052.500 |757,00 |
-
-|3000.1100.27.812.101.2.545.339030.500 |12.000,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.5300.04.131.015.2.007.339039.500 |7.897.748,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.5702.04.122.007.2.124.339039.500 |400.000,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.3304.10.302.030.2.875.339030.659 |1.000.000,00 |
-
-|2301.3304.10.302.030.2.875.339036.659 |1.600.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.302.114.2.891.339039.500 |847.800,00 |
-
-|2302.3401.10.302.114.2.891.339139.500 |75.000,00 |
-
-|2302.3401.10.303.117.2.895.339032.621 |356.421,24 |
-
-|TOTAL DA SUPLEMENTAÇÃO |45.935.428,24 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º da | R$ |
+| --- | --- |
+| Lei nº 11.442, de 29 de dezembro de 2022: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.1100.19.572.302.2.905.449052.501 | 310.000,00 |
+| 0604.1901.19.572.302.2.905.339040.500 | 250.000,00 |
+| 0604.1902.19.572.085.2.603.339040.500 | 500.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.1100.12.365.169.2.542.456782.550 | 30.000.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0800.15.451.233.1.396.449051.500 | 287.780,00 |
+| 2700.0800.18.541.244.1.244.449051.500 | 40.000,00 |
+| 2700.1100.04.122.233.1.219.339030.500 | 643.425,00 |
+| 2700.1100.15.451.062.1.230.449051.500 | 184.541,00 |
+| 2700.1100.15.451.233.1.208.449051.500 | 1.000.000,00 |
+| Secretaria Municipal de Desenvolvimento Econômico – SMDE |  |
+| 2800.1100.04.122.141.2.852.339036.500 | 300.000,00 |
+| 2800.1100.11.334.237.2.404.449093.701 | 3.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.812.101.2.545.339039.500 | 214.948,00 |
+| 3000.1100.27.813.101.2.545.339030.500 | 2.008,00 |
+| 3000.1100.27.813.101.2.545.339039.500 | 10.000,00 |
+| 3000.1100.27.813.101.2.545.449052.500 | 757,00 |
+| 3000.1100.27.812.101.2.545.339030.500 | 12.000,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.5300.04.131.015.2.007.339039.500 | 7.897.748,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.5702.04.122.007.2.124.339039.500 | 400.000,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.3304.10.302.030.2.875.339030.659 | 1.000.000,00 |
+| 2301.3304.10.302.030.2.875.339036.659 | 1.600.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.302.114.2.891.339039.500 | 847.800,00 |
+| 2302.3401.10.302.114.2.891.339139.500 | 75.000,00 |
+| 2302.3401.10.303.117.2.895.339032.621 | 356.421,24 |
+| TOTAL DA SUPLEMENTAÇÃO | 45.935.428,24 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |
-
-|0604.1901.19.572.085.2.605.339040.500 |250.000,00 |
-
-|0604.1902.19.572.085.2.603.449040.501 |310.000,00 |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.2000.04.129.013.2.052.339039.500 |400.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.1100.12.365.169.2.542.336783.550 |30.000.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0600.04.122.233.1.219.449051.500 |1.643.425,00 |
-
-|2700.1100.15.451.233.1.202.449051.500 |512.321,00 |
-
-|Fundo Municipal de Turismo – FUMTUR |
-
-|2808.1100.23.695.086.2.900.339039.701 |3.000,00 |
-
-|Fundo Municipal de Proteção e Defesa do Consumidor – FMPDC |
-
-|2809.1100.04.121.141.2.904.339036.500 |300.000,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.1100.27.812.101.2.534.339039.500 |239.713,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |
-
-|4002.5801.04.122.014.2.850.319113.500 |500.000,00 |
-
-|4002.5801.04.331.014.2.710.339049.500 |7.897.748,00 |
-
-|Hospital Metropolitano Odilon Behrens – HMOB |
-
-|2301.3303.10.302.030.2.620.339030.659 |1.000.000,00 |
-
-|2301.3304.10.302.030.2.875.319011.659 |1.600.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.301.157.2.690.339039.621 |66.183,58 |
-
-|2302.3401.10.302.114.2.893.339039.621 |54.449,00 |
-
-|2302.3401.10.302.114.2.902.336783.500 |922.800,00 |
-
-|2302.3401.10.303.117.2.895.339030.621 |1.414,00 |
-
-|2302.3401.10.305.028.2.829.339030.621 |215.182,26 |
-
-|2302.3401.10.305.028.2.829.339092.621 |19.192,40 |
-
-|TOTAL DA ANULAÇÃO |45.935.428,24 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Empresa de Informática e Informação do Município de Belo Horizonte – PRODABEL |  |
+| 0604.1901.19.572.085.2.605.339040.500 | 250.000,00 |
+| 0604.1902.19.572.085.2.603.449040.501 | 310.000,00 |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.2000.04.129.013.2.052.339039.500 | 400.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.1100.12.365.169.2.542.336783.550 | 30.000.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0600.04.122.233.1.219.449051.500 | 1.643.425,00 |
+| 2700.1100.15.451.233.1.202.449051.500 | 512.321,00 |
+| Fundo Municipal de Turismo – FUMTUR |  |
+| 2808.1100.23.695.086.2.900.339039.701 | 3.000,00 |
+| Fundo Municipal de Proteção e Defesa do Consumidor – FMPDC |  |
+| 2809.1100.04.121.141.2.904.339036.500 | 300.000,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.812.101.2.534.339039.500 | 239.713,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão – EGM-SMPOG |  |
+| 4002.5801.04.122.014.2.850.319113.500 | 500.000,00 |
+| 4002.5801.04.331.014.2.710.339049.500 | 7.897.748,00 |
+| Hospital Metropolitano Odilon Behrens – HMOB |  |
+| 2301.3303.10.302.030.2.620.339030.659 | 1.000.000,00 |
+| 2301.3304.10.302.030.2.875.319011.659 | 1.600.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.301.157.2.690.339039.621 | 66.183,58 |
+| 2302.3401.10.302.114.2.893.339039.621 | 54.449,00 |
+| 2302.3401.10.302.114.2.902.336783.500 | 922.800,00 |
+| 2302.3401.10.303.117.2.895.339030.621 | 1.414,00 |
+| 2302.3401.10.305.028.2.829.339030.621 | 215.182,26 |
+| 2302.3401.10.305.028.2.829.339092.621 | 19.192,40 |
+| TOTAL DA ANULAÇÃO | 45.935.428,24 |
 
 ANEXO II
 
@@ -250,24 +187,15 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 1.027.860.428,80 |
-
-|Valor do Decreto publicado nesta data |R$ 45.935.428,24 |
-
-|Saldo atual de créditos suplementares |R$ 640.371.331,16 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 1.073.795.857,04 |
-
-|Percentual utilizado |62,64% |
-
-|Atualizado em 25/10/2023 às 17:47:02 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 1.027.860.428,80 |
+| Valor do Decreto publicado nesta data | R$ 45.935.428,24 |
+| Saldo atual de créditos suplementares | R$ 640.371.331,16 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 1.073.795.857,04 |
+| Percentual utilizado | 62,64% |
+| Atualizado em 25/10/2023 às 17:47:02 |  |

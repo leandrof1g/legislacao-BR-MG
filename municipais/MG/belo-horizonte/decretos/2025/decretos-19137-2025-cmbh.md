@@ -66,35 +66,22 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|§ 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da | |
-
-|Lei nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.0109.2803.339039.2.702.000 |46.790,12 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.302.0114.2936.339030.2.621.000 |2.436,50 |
-
-|2302.10.302.0114.2936.339039.2.621.000 |382.845,51 |
-
-|2302.10.302.0114.2936.449052.2.621.000 |83.192,79 |
-
-|2302.10.302.0114.2936.445042.2.621.000 |2.309.226,00 |
-
-|2302.10.302.0114.2936.449152.2.621.000 |980.695,00 |
-
-|Fundo Municipal de Habitação Popular – FMHP |
-
-|2704.16.482.0225.1231.449051.2.755.000 |3.883.298,98 |
-
-|2704.16.482.0226.1207.442042.2.759.709 |16.041.942,92 |
-
-|TOTAL DA SUPLEMENTAÇÃO |23.730.427,82 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da |  |
+| Lei nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.0109.2803.339039.2.702.000 | 46.790,12 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.302.0114.2936.339030.2.621.000 | 2.436,50 |
+| 2302.10.302.0114.2936.339039.2.621.000 | 382.845,51 |
+| 2302.10.302.0114.2936.449052.2.621.000 | 83.192,79 |
+| 2302.10.302.0114.2936.445042.2.621.000 | 2.309.226,00 |
+| 2302.10.302.0114.2936.449152.2.621.000 | 980.695,00 |
+| Fundo Municipal de Habitação Popular – FMHP |  |
+| 2704.16.482.0225.1231.449051.2.755.000 | 3.883.298,98 |
+| 2704.16.482.0226.1207.442042.2.759.709 | 16.041.942,92 |
+| TOTAL DA SUPLEMENTAÇÃO | 23.730.427,82 |
 
 ANEXO II
 

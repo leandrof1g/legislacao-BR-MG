@@ -34,9 +34,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 “ANEXO I DIA COMEMORATIVO E - Dias comemorativos de maio:
 
-|DATA |COMEMORAÇÃO |
-
-|21/05 |Dia Municipal da Vila São Rafael |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| 21/05 | Dia Municipal da Vila São Rafael |
 
 .”.
 

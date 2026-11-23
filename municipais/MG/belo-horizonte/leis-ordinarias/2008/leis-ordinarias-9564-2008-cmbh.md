@@ -34,11 +34,10 @@ CARGOS DE PROVIMENTO EFETIVO DA ÁREA DE EDUCAÇÃO DA
 
 PREFEITURA MUNICIPAL DE BELO HORIZONTE
 
-|CLASSES |NÚMERO DE CARGOS |
-
-|6. Educador Infantil |2.250 |
-
-|TOTAL |16.060 |
+| CLASSES | NÚMERO DE CARGOS |
+| --- | --- |
+| 6. Educador Infantil | 2.250 |
+| TOTAL | 16.060 |
 
 **Art. 2º** - Para atender ao disposto nesta Lei, fica o Poder Executivo autorizado a adaptar seus instrumentos de planejamento financeiro e, nos termos dos arts. 40 a 43, 45 e 46 da Lei Federal nº 4.320, de 17 de março de 1964, a abrir crédito adicional no valor de R$ 10.367.407,50 (dez milhões, trezentos e sessenta e sete mil quatrocentos e sete reais e cinqüenta centavos) ao orçamento corrente, bem como reabri-lo pelo seu saldo para o exercício seguinte.
 

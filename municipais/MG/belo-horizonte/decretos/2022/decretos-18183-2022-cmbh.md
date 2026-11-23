@@ -66,63 +66,36 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do|R$ |
-
-|§ 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do | |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.812.3390.0006 |680.113,00 |
-
-|2505.18.541.073.2.812.4490.0006 |65.500,00 |
-
-|2505.18.541.073.2.812.3390.0006 |115.900,00 |
-
-|2505.04.122.165.2.816.3390.0006 |637.529,00 |
-
-|2505.04.122.165.2.816.4490.0006 |68.485,00 |
-
-|2505.04.122.165.2.816.3390.0006 |21.348,00 |
-
-|2505.18.541.073.2.812.3390.0006 |143.900,00 |
-
-|2505.18.541.073.2.812.3390.0006 |128.666,00 |
-
-|2505.18.541.073.2.812.3390.0006 |89.837,00 |
-
-|2505.18.541.073.2.900.3390.0006 |138.677,00 |
-
-|2505.18.541.073.2.900.4490.0006 |65.586,00 |
-
-|2505.18.541.073.2.580.4490.0006 |46.636,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.131.015.2.007.3390.0000 |800.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.059.2.890.3390.0000 |1.680.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.900.3390.0000 |800.000,00 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.08.244.233.1.220.4491.0040 |4.613,74 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.157.2.690.3390.0050 |788.012,87 |
-
-|2302.10.302.114.2.891.3390.0050 |500.000,00 |
-
-|2302.10.303.117.2.895.3390.0050 |251.031,45 |
-
-|TOTAL DA SUPLEMENTAÇÃO |7.025.835,06 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso II do | R$ |
+| --- | --- |
+| § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, e no caput do |  |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.812.3390.0006 | 680.113,00 |
+| 2505.18.541.073.2.812.4490.0006 | 65.500,00 |
+| 2505.18.541.073.2.812.3390.0006 | 115.900,00 |
+| 2505.04.122.165.2.816.3390.0006 | 637.529,00 |
+| 2505.04.122.165.2.816.4490.0006 | 68.485,00 |
+| 2505.04.122.165.2.816.3390.0006 | 21.348,00 |
+| 2505.18.541.073.2.812.3390.0006 | 143.900,00 |
+| 2505.18.541.073.2.812.3390.0006 | 128.666,00 |
+| 2505.18.541.073.2.812.3390.0006 | 89.837,00 |
+| 2505.18.541.073.2.900.3390.0006 | 138.677,00 |
+| 2505.18.541.073.2.900.4490.0006 | 65.586,00 |
+| 2505.18.541.073.2.580.4490.0006 | 46.636,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.131.015.2.007.3390.0000 | 800.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.059.2.890.3390.0000 | 1.680.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.900.3390.0000 | 800.000,00 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.08.244.233.1.220.4491.0040 | 4.613,74 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.157.2.690.3390.0050 | 788.012,87 |
+| 2302.10.302.114.2.891.3390.0050 | 500.000,00 |
+| 2302.10.303.117.2.895.3390.0050 | 251.031,45 |
+| TOTAL DA SUPLEMENTAÇÃO | 7.025.835,06 |
 
 ANEXO II
 
@@ -174,36 +147,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do art.|Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|4º, limite de 15% do |4º, limite de 15% do total |
-
-|– Limites autorizados |Orçamento: |total do Orçamento do |do Orçamento do Fundo |
-
-|para abertura de | |Grupo 1 – Pessoal e |Municipal de Saúde – FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 1.398.229.599,76 |R$ 225.895.100,00 |R$ 554.847.770,82 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 902.921.085,89 |R$ 658.097.208,70 |R$ 172.369.381,83 |
-
-|suplementares | | | |
-
-|Percentual utilizado |60,76% |25,55% |76,30% |
-
-|Atualizado em 06/12/2022 às 15:18:26 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do art. | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | 4º, limite de 15% do | 4º, limite de 15% do total |
+| – Limites autorizados | Orçamento: | total do Orçamento do | do Orçamento do Fundo |
+| para abertura de |  | Grupo 1 – Pessoal e | Municipal de Saúde – FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 1.398.229.599,76 | R$ 225.895.100,00 | R$ 554.847.770,82 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 902.921.085,89 | R$ 658.097.208,70 | R$ 172.369.381,83 |
+| suplementares |  |  |  |
+| Percentual utilizado | 60,76% | 25,55% | 76,30% |
+| Atualizado em 06/12/2022 às 15:18:26 |  |  |  |

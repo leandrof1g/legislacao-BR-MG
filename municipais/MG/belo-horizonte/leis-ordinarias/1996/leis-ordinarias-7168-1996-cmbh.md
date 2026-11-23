@@ -178,10 +178,8 @@ ANEXO ÚNICO
 
 TABELA DE PISO DE REMUNERAÇÃO
 
-|VENCIMENTOS |
-
-|Cargos Efetivos |Pisos de |
-
-| |Remuneraçã|
-
-| |o |
+| VENCIMENTOS |  |
+| --- | --- |
+| Cargos Efetivos | Pisos de |
+|  | Remuneraçã |
+|  | o |

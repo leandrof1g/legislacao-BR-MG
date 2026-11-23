@@ -38,9 +38,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 I - Dias comemorativos de setembro:
 
-|SETEMBRO |COMEMORAÇÃO |
-
-|21/9 |Dia do Florescer da Autoestima da Mulher |
+| SETEMBRO | COMEMORAÇÃO |
+| --- | --- |
+| 21/9 | Dia do Florescer da Autoestima da Mulher |
 
 .”.
 

@@ -24,7 +24,9 @@ LEI Nº 3.884, DE 17 DE OUTUBRO DE 1984
 
 Republicada em 20/10/1984
 
-Retificada em 24/10/1984 e 5/1/1985 [pic] Reorganiza o Jardim Zoológico Sargento Sílvio Hollenbach, cria cargos de provimento em comissão e dá outras providências.
+Retificada em 24/10/1984 e 5/1/1985 *[imagem no documento original — ver `fonte_texto`]*
+
+Reorganiza o Jardim Zoológico Sargento Sílvio Hollenbach, cria cargos de provimento em comissão e dá outras providências.
 
 O Povo do Município de Belo Horizonte, por seus representantes, decreta e eu sanciono a seguinte Lei:
 

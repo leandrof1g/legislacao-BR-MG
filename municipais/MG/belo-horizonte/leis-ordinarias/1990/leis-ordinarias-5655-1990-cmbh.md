@@ -50,21 +50,15 @@ Agente de Serviços de Saúde I 1° grau incompleto
 
 **Art. 2º** retificado em 12/04/1991
 
-|Para enquadramento no cargo |Qualificação |
-
-|ou emprego de: | |
-
-|Agente de Serviço de Saúde III |Primeiro grau e habilitação específica |
-
-|Agente de Serviço de Saúde II |Primeiro grau |
-
-|Agente de Serviço de Saúde I |Primeiro grau incompleto |
-
-|Técnico de Serviço de Saúde III |Habilitação específica e mais de 7 anos de exercício |
-
-|Técnico de Serviço de Saúde II |Habilitação específica e de 3 a 7 anos de exercício |
-
-|Técnico de Serviço de Saúde I |Habilitação específica e menos de 3 anos de exercício |
+| Para enquadramento no cargo | Qualificação |
+| --- | --- |
+| ou emprego de: |  |
+| Agente de Serviço de Saúde III | Primeiro grau e habilitação específica |
+| Agente de Serviço de Saúde II | Primeiro grau |
+| Agente de Serviço de Saúde I | Primeiro grau incompleto |
+| Técnico de Serviço de Saúde III | Habilitação específica e mais de 7 anos de exercício |
+| Técnico de Serviço de Saúde II | Habilitação específica e de 3 a 7 anos de exercício |
+| Técnico de Serviço de Saúde I | Habilitação específica e menos de 3 anos de exercício |
 
 **§ 1º** com redação dada pela Lei nº 5.858, de 19/2/1991 (Art. 2º)
 
@@ -80,13 +74,11 @@ Auxiliar Sanitário I Até 3 (três) anos completos
 
 **§ 2º** - Os ocupantes dos cargos ou empregos atuais de Auxiliar de Serviços Gerais, Auxiliar de Serviço Administrativo, Ajudante de Serviço Público e Oficial de Serviço Público I ou II, que prestam serviços específicos de controle e/ou guarda de endemias ou zoonoses, serão enquadrados nos cargos ou empregos de Auxiliar Sanitário I e II, de acordo com o tempo de exercício na função, assim estabelecido:
 
-|Para enquadramento no cargo ou emprego de: |Tempo de efetivo exercício até 31/12/88 no cargo ou emprego |
-
-| |correlacionado com o proposto |
-
-|Auxiliar Sanitário II |Mais de 3 (três) anos |
-
-|Auxiliar Sanitário I |Até 3 (três) anos completos " |
+| Para enquadramento no cargo ou emprego de: | Tempo de efetivo exercício até 31/12/88 no cargo ou emprego |
+| --- | --- |
+|  | correlacionado com o proposto |
+| Auxiliar Sanitário II | Mais de 3 (três) anos |
+| Auxiliar Sanitário I | Até 3 (três) anos completos " |
 
 **§ 2º** com redação dada pela Lei nº 5.858, de 19/2/1991 (Art. 3º)
 

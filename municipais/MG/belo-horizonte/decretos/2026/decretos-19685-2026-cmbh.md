@@ -58,4 +58,5 @@ ANEXO
 
 (a que se refere o art. 1º do Decreto nº 19.685, de 10 de agosto de 2026)
 
-[pic]
+*[imagem no documento original — ver `fonte_texto`]*
+

@@ -176,64 +176,35 @@ ANEXO I
 
 PARÂMETROS MÍNIMOS RELATIVOS AO MOBILIÁRIO E À CIRCULAÇÃO A SEREM CONSIDERADOS NAS UNIDADES RESIDENCIAIS MULTIFAMILIARES
 
-|Compartimentos ou cômodo único |Móvel ou equipamento |Dimensões |Circulação |
-
-| | |Largura |Profundidade |Diâmetro | |
-
-| |Sofá |2,00 |0,80 |- |0,60 |
-
-| | | | | | |
-
-|Estar | | | | | |
-
-| |Estante/armário para TV |1,20 |0,50 |- |0,60 |
-
-| |Mesa retangular ou mesa redonda |1,20 |0,80 |- |0,75 |
-
-| | |- |- |0,95 |0,75 |
-
-|Primeiro Dormitório (*Os demais dormitórios|Cama de casal |1,40 |1,90 |- |0,95 |
-
-|deverão ter área mínima de 6m²) | | | | | |
-
-| |Guarda-roupa |1,60 |0,53 |- |0,55 |
-
-| |Criado-mudo |0,50 |0,50 |- |0,55 |
-
-| |Pia |1,20 |0,50 |- |0,85 |
-
-|Cozinha | | | | | |
-
-| |Fogão |0,55 |0,60 |- |0,85 |
-
-| |Geladeira |0,70 |0,75 |- |0,85 |
-
-| |Tanque |0,55 |0,55 |- |0,60 |
-
-|Área de serviço | | | | | |
-
-| |Máquina de lavar roupa |0,65 |0,65 |- |0,60 |
-
-| |Lavatório ou lavatório com bancada |0,40 |0,30 |- |0,50 |
-
-| | | | | | |
-
-| | | | | | |
-
-|Banheiro (*O lavatório pode ser externo ao | | | | | |
-
-|cômodo do banheiro) | | | | | |
-
-| | |0,80 |0,55 |- |0,50 |
-
-| |Espaço para vaso sanitário (caixa |0,60 |0,65 |- |0,45 |
-
-| |acoplada) ou espaço para vaso | | | | |
-
-| |sanitário (descarga) | | | | |
-
-| | |0,60 |0,60 |- |0,50 |
-
-| |Box quadrado ou box retangular |0,80 |0,90 |- |0,50 |
-
-| | |0,70 |0,90 |- |0,50 |
+| Compartimentos ou cômodo único | Móvel ou equipamento | Dimensões | Circulação |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Largura | Profundidade | Diâmetro |  |
+|  | Sofá | 2,00 | 0,80 | - | 0,60 |
+|  |  |  |  |  |  |
+| Estar |  |  |  |  |  |
+|  | Estante/armário para TV | 1,20 | 0,50 | - | 0,60 |
+|  | Mesa retangular ou mesa redonda | 1,20 | 0,80 | - | 0,75 |
+|  |  | - | - | 0,95 | 0,75 |
+| Primeiro Dormitório (*Os demais dormitórios | Cama de casal | 1,40 | 1,90 | - | 0,95 |
+| deverão ter área mínima de 6m²) |  |  |  |  |  |
+|  | Guarda-roupa | 1,60 | 0,53 | - | 0,55 |
+|  | Criado-mudo | 0,50 | 0,50 | - | 0,55 |
+|  | Pia | 1,20 | 0,50 | - | 0,85 |
+| Cozinha |  |  |  |  |  |
+|  | Fogão | 0,55 | 0,60 | - | 0,85 |
+|  | Geladeira | 0,70 | 0,75 | - | 0,85 |
+|  | Tanque | 0,55 | 0,55 | - | 0,60 |
+| Área de serviço |  |  |  |  |  |
+|  | Máquina de lavar roupa | 0,65 | 0,65 | - | 0,60 |
+|  | Lavatório ou lavatório com bancada | 0,40 | 0,30 | - | 0,50 |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Banheiro (*O lavatório pode ser externo ao |  |  |  |  |  |
+| cômodo do banheiro) |  |  |  |  |  |
+|  |  | 0,80 | 0,55 | - | 0,50 |
+|  | Espaço para vaso sanitário (caixa | 0,60 | 0,65 | - | 0,45 |
+|  | acoplada) ou espaço para vaso |  |  |  |  |
+|  | sanitário (descarga) |  |  |  |  |
+|  |  | 0,60 | 0,60 | - | 0,50 |
+|  | Box quadrado ou box retangular | 0,80 | 0,90 | - | 0,50 |
+|  |  | 0,70 | 0,90 | - | 0,50 |

@@ -250,11 +250,10 @@ ANEXO I
 
 CARGOS PÚBLICOS EFETIVOS DA ÁREA DE ATIVIDADES DA CULTURA
 
-|Cargo |Quantitativo |
-
-|Técnico Cultural de Nível Médio |28 |
-
-|Técnico de Nível Médio |18 |
+| Cargo | Quantitativo |
+| --- | --- |
+| Técnico Cultural de Nível Médio | 28 |
+| Técnico de Nível Médio | 18 |
 
 ANEXO II
 
@@ -360,16 +359,12 @@ TABELA DE VENCIMENTO-BASE
 
 Tabela de vencimento-base dos servidores públicos efetivos integrantes do quadro de pessoal da área de atividades da Cultura, a partir de 1º de junho de 2023:
 
-|CARGOS |TABELA DE VENCIMENTOS-BASE |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
-
-| |1 |
-
-| |NÍVEL |
+| CARGOS | TABELA DE VENCIMENTOS-BASE |
+| --- | --- |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
+|  | 1 |
+|  | NÍVEL |
 
 |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |16 | |A |4.000,00 |4.200,00 |4.410,00 |4.630,50 |4.862,03 |5.105,13 |5.360,38 |5.628,40 |5.909,82 |6.205,31 |6.515,58 |6.841,36 |7.183,43 |7.542,60 |7.919,73 |8.315,71 | |T |3.006,46 |3.156,79 |3.314,62 |3.480,36 |3.654,37 |3.837,09 |4.028,95 |4.230,39 |4.441,91 |4.664,01 |4.897,21 |5.142,07 |5.399,17 |5.669,13 |5.952,59 |6.250,22 | |Anexo III com redação dada pela Lei nº 11.914, de 30/10/2025 (Art. 106 com redação no art. 124)

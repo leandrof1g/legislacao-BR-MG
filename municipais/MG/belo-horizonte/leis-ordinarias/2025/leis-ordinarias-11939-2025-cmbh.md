@@ -34,277 +34,158 @@ II - o Orçamento da Seguridade Social referente aos poderes do Município, seus
 
 **Art. 2º** - A receita total da administração direta e indireta dos orçamentos Fiscal e da Seguridade Social é estimada em R$24.137.660.518,00 (vinte e quatro bilhões, cento e trinta e sete milhões, seiscentos e sessenta mil quinhentos e dezoito reais), decorrerá da arrecadação de tributos, de transferências constitucionais, de rendas e de outras receitas correntes e de capital previstas na legislação em vigor e obedecerá aos seguintes desdobramentos da origem de recursos: R$1,00
 
-|I - Receita Total do Orçamento Fiscal |17.351.669.683,00 |
-
-|II - Receita Total do Orçamento da Seguridade Social | 6.785.990.835,00 |
-
-|RECEITA TOTAL DA ADMINISTRAÇÃO DIRETA E INDIRETA |24.137.660.518,00 |
+| I - Receita Total do Orçamento Fiscal | 17.351.669.683,00 |
+| --- | --- |
+| II - Receita Total do Orçamento da Seguridade Social | 6.785.990.835,00 |
+| RECEITA TOTAL DA ADMINISTRAÇÃO DIRETA E INDIRETA | 24.137.660.518,00 |
 
 **Parágrafo único** - O desdobramento da receita total estimada, no que diz respeito à classificação econômica, tem a seguinte especificação: R$1,00
 
-|1. RECEITAS CORRENTES...................................................... |22.427.399.214,00 |
-
-|Impostos, Taxas e Contribuição de Melhorias |8.523.844.033,00 |
-
-|Receitas de Contribuições |847.372.147,00 |
-
-|Receita Patrimonial |1.585.838.728,00 |
-
-|Receita Agropecuária |12.030,00 |
-
-|Receita de Serviços |130.695.098,00 |
-
-|Transferências Correntes |10.894.589.513,00 |
-
-|Outras Receitas Correntes |445.047.665,00 |
-
-| | |
-
-|2. RECEITAS DE CAPITAL....................................................... |1.058.286.681,00 |
-
-|Operações de Crédito |887.569.871,00 |
-
-|Alienação de Bens |1.165.107,00 |
-
-|Transferências de Capital |56.756.306,00 |
-
-|Outras Receitas de Capital |112.795.397,00 |
-
-| | |
-
-|3. RECEITAS INTRAORÇAMENTÁRIAS CORRENTES.......... |1.523.219.856,00 |
-
-|Receitas de Contribuições |877.866.797,00 |
-
-|Receita de Serviços |566.343.517,00 |
-
-|Transferências Correntes |300.000,00 |
-
-|Outras Receitas Correntes |78.709.542,00 |
-
-| | |
-
-|4. RECEITAS INTRAORÇAMENTÁRIAS DE CAPITAL........... |9.525.352,00 |
-
-|Outras Receitas de Capital | 9.525.352,00 |
-
-| | |
-
-|5. DEDUÇÃO DE TRANSFERÊNCIAS CONSTITUCIONAIS PARA O ENSINO |- 880.770.585,00 |
-
-|BÁSICO........................................................ | |
-
-| | |
-
-|RECEITA TOTAL POR CLASSIFICAÇÃO ECONÔMICA........ |24.137.660.518,00 |
+| 1. RECEITAS CORRENTES...................................................... | 22.427.399.214,00 |
+| --- | --- |
+| Impostos, Taxas e Contribuição de Melhorias | 8.523.844.033,00 |
+| Receitas de Contribuições | 847.372.147,00 |
+| Receita Patrimonial | 1.585.838.728,00 |
+| Receita Agropecuária | 12.030,00 |
+| Receita de Serviços | 130.695.098,00 |
+| Transferências Correntes | 10.894.589.513,00 |
+| Outras Receitas Correntes | 445.047.665,00 |
+|  |  |
+| 2. RECEITAS DE CAPITAL....................................................... | 1.058.286.681,00 |
+| Operações de Crédito | 887.569.871,00 |
+| Alienação de Bens | 1.165.107,00 |
+| Transferências de Capital | 56.756.306,00 |
+| Outras Receitas de Capital | 112.795.397,00 |
+|  |  |
+| 3. RECEITAS INTRAORÇAMENTÁRIAS CORRENTES.......... | 1.523.219.856,00 |
+| Receitas de Contribuições | 877.866.797,00 |
+| Receita de Serviços | 566.343.517,00 |
+| Transferências Correntes | 300.000,00 |
+| Outras Receitas Correntes | 78.709.542,00 |
+|  |  |
+| 4. RECEITAS INTRAORÇAMENTÁRIAS DE CAPITAL........... | 9.525.352,00 |
+| Outras Receitas de Capital | 9.525.352,00 |
+|  |  |
+| 5. DEDUÇÃO DE TRANSFERÊNCIAS CONSTITUCIONAIS PARA O ENSINO | - 880.770.585,00 |
+| BÁSICO........................................................ |  |
+|  |  |
+| RECEITA TOTAL POR CLASSIFICAÇÃO ECONÔMICA........ | 24.137.660.518,00 |
 
 **Art. 3º** - A despesa total, no valor de R$24.924.350.676,00 (vinte e quatro bilhões, novecentos e vinte e quatro milhões, trezentos e cinquenta mil seiscentos e setenta e seis reais), é assim discriminada:
 
 R$1,00
 
-|I - Despesa Total do Orçamento Fiscal |14.063.272.970,00 |
-
-|II - Despesa Total do Orçamento da Seguridade Social |10.861.077.706,00 |
-
-|DESPESA TOTAL DA ADMINISTRAÇÃO DIRETA E INDIRETA |24.924.350.676,00 |
+| I - Despesa Total do Orçamento Fiscal | 14.063.272.970,00 |
+| --- | --- |
+| II - Despesa Total do Orçamento da Seguridade Social | 10.861.077.706,00 |
+| DESPESA TOTAL DA ADMINISTRAÇÃO DIRETA E INDIRETA | 24.924.350.676,00 |
 
 I - as despesas serão realizadas segundo a discriminação dos anexos desta lei e apresentam a seguinte composição por órgão:
 
 R$1,00
 
-|DISTRIBUIÇÃO DA DESPESA POR UNIDADE ORÇAMENTÁRIA |
-
-|Legislativo Municipal |540.270.000,00 |
-
-|Gabinete do Prefeito |82.998.302,00 |
-
-|Procuradoria-Geral do Município |98.953.861,00 |
-
-|Fundo da Procuradoria-Geral do Município |3.713.000,00 |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão |269.518.107,00 |
-
-|Empresa de Informática e Informação do Município de Belo Horizonte S.A. |233.219.481,00 |
-
-|Fundo Financeiro |2.296.680.178,00 |
-
-|Fundo Previdenciário - BHPrev |42.389.643,00 |
-
-|Secretaria Municipal de Fazenda |174.625.883,00 |
-
-|Fundo de Modernização e Aprimoramento Adm. Tributária do Município |11.441.997,00 |
-
-|Secretaria Municipal de Governo |7.690.586,00 |
-
-|Secretaria Municipal de Segurança e Prevenção |537.951.274,00 |
-
-|Secretaria Municipal de Educação |4.178.905.777,00 |
-
-|Hospital Metropolitano Odilon Behrens |567.470.850,00 |
-
-|Fundo Municipal de Saúde |7.423.726.826,00 |
-
-|Controladoria-Geral do Município |30.577.460,00 |
-
-|Secretaria Municipal de Meio Ambiente |71.065.581,00 |
-
-|Fundo Municipal de Defesa Ambiental |4.070.000,00 |
-
-|Fundo de Operação do Parque das Mangabeiras |200.000,00 |
-
-|Fundação de Parques Municipais e Zoobotânica |112.870.351,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura |1.316.623.499,00 |
-
-|Superintendência de Desenvolvimento da Capital |148.767.628,00 |
-
-|Companhia Urbanizadora e de Habitação de Belo Horizonte |82.130.145,00 |
-
-|Fundo Municipal de Habitação Popular |307.574.024,00 |
-
-|Fundo da Operação Urbana BH Morar/Capitão Eduardo |50.000,00 |
-
-|Superintendência de Limpeza Urbana |674.429.341,00 |
-
-|Fundo Municipal de Proteção e Defesa Civil |1.199.555,00 |
-
-|Secretaria Municipal de Desenvolvimento Econômico |20.501.940,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S.A. |70.978.189,00 |
-
-|Fundo Municipal de Desenvolvimento Econômico |681.677,00 |
-
-|Fundo Municipal de Turismo |205.522,00 |
-
-|Fundo Municipal de Proteção e Defesa do Consumidor |3.367.818,00 |
-
-|Fundo Municipal do Trabalho |798.975,00 |
-
-|Secretaria Municipal de Esportes e Lazer |55.930.889,00 |
-
-|Secretaria Municipal de Cultura |19.440.070,00 |
-
-|Fundo Municipal de Cultura |30.610.728,00 |
-
-|Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte |20.000,00 |
-
-|Fundação Municipal de Cultura |94.270.611,00 |
-
-|Secretaria Municipal de Política Urbana |248.178.056,00 |
-
-|Fundo de Desenvolvimento Urbano das Centralidades |13.822.064,00 |
-
-|Secretaria Municipal de Administração Logística e Patrimonial |43.139.804,00 |
-
-|Secretaria Municipal de Mobilidade Urbana |326.473.976,00 |
-
-|Superintendência de Mobilidade do Município de Belo Horizonte |809.692.965,00 |
-
-|Fundo Municipal de Mobilidade Urbana |221.146.910,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte S.A. |298.667.322,00 |
-
-|Secretaria Municipal de Relações Institucionais |52.396.269,00 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos |109.010.208,00 |
-
-|Fundo Municipal de Assistência Social |417.051.331,00 |
-
-|Fundo Municipal dos Direitos da Criança e do Adolescente |25.999.400,00 |
-
-|Fundo Municipal do Idoso |38.302.000,00 |
-
-|Fundo Municipal de Proteção e Defesa das Minorias |201.000,00 |
-
-|Fundo Municipal do Auxílio de Transporte Escolar |64.000,00 |
-
-|Fundo Municipal dos Direitos da Mulher |1.000,00 |
-
-|Fundo Municipal Sobre Drogas |601.000,00 |
-
-|Secretaria Municipal de Segurança Alimentar e Nutricional |41.041.025,00 |
-
-|Fundo Municipal de Alimentação Escolar |90.141.216,00 |
-
-|Fundo Municipal de Segurança Alimentar e Nutricional |82.679.320,00 |
-
-|Secretaria-Geral |4.921.984,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda |1.625.763.632,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão |104.751.498,00 |
-
-|Subtotal |24.069.965.748,00 |
-
-|Reserva de Contingência |20.721.071,00 |
-
-|Reserva de Recursos para Emendas Individuais |282.159,00 |
-
-|Reserva de Contingência - RPPS |833.381.698,00 |
-
-|Subtotal |854.384.928,00 |
-
-|TOTAL GERAL DA DESPESA |24.924.350.676,00 |
+| DISTRIBUIÇÃO DA DESPESA POR UNIDADE ORÇAMENTÁRIA |  |
+| --- | --- |
+| Legislativo Municipal | 540.270.000,00 |
+| Gabinete do Prefeito | 82.998.302,00 |
+| Procuradoria-Geral do Município | 98.953.861,00 |
+| Fundo da Procuradoria-Geral do Município | 3.713.000,00 |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão | 269.518.107,00 |
+| Empresa de Informática e Informação do Município de Belo Horizonte S.A. | 233.219.481,00 |
+| Fundo Financeiro | 2.296.680.178,00 |
+| Fundo Previdenciário - BHPrev | 42.389.643,00 |
+| Secretaria Municipal de Fazenda | 174.625.883,00 |
+| Fundo de Modernização e Aprimoramento Adm. Tributária do Município | 11.441.997,00 |
+| Secretaria Municipal de Governo | 7.690.586,00 |
+| Secretaria Municipal de Segurança e Prevenção | 537.951.274,00 |
+| Secretaria Municipal de Educação | 4.178.905.777,00 |
+| Hospital Metropolitano Odilon Behrens | 567.470.850,00 |
+| Fundo Municipal de Saúde | 7.423.726.826,00 |
+| Controladoria-Geral do Município | 30.577.460,00 |
+| Secretaria Municipal de Meio Ambiente | 71.065.581,00 |
+| Fundo Municipal de Defesa Ambiental | 4.070.000,00 |
+| Fundo de Operação do Parque das Mangabeiras | 200.000,00 |
+| Fundação de Parques Municipais e Zoobotânica | 112.870.351,00 |
+| Secretaria Municipal de Obras e Infraestrutura | 1.316.623.499,00 |
+| Superintendência de Desenvolvimento da Capital | 148.767.628,00 |
+| Companhia Urbanizadora e de Habitação de Belo Horizonte | 82.130.145,00 |
+| Fundo Municipal de Habitação Popular | 307.574.024,00 |
+| Fundo da Operação Urbana BH Morar/Capitão Eduardo | 50.000,00 |
+| Superintendência de Limpeza Urbana | 674.429.341,00 |
+| Fundo Municipal de Proteção e Defesa Civil | 1.199.555,00 |
+| Secretaria Municipal de Desenvolvimento Econômico | 20.501.940,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S.A. | 70.978.189,00 |
+| Fundo Municipal de Desenvolvimento Econômico | 681.677,00 |
+| Fundo Municipal de Turismo | 205.522,00 |
+| Fundo Municipal de Proteção e Defesa do Consumidor | 3.367.818,00 |
+| Fundo Municipal do Trabalho | 798.975,00 |
+| Secretaria Municipal de Esportes e Lazer | 55.930.889,00 |
+| Secretaria Municipal de Cultura | 19.440.070,00 |
+| Fundo Municipal de Cultura | 30.610.728,00 |
+| Fundo de Proteção do Patrimônio Cultural do Município de Belo Horizonte | 20.000,00 |
+| Fundação Municipal de Cultura | 94.270.611,00 |
+| Secretaria Municipal de Política Urbana | 248.178.056,00 |
+| Fundo de Desenvolvimento Urbano das Centralidades | 13.822.064,00 |
+| Secretaria Municipal de Administração Logística e Patrimonial | 43.139.804,00 |
+| Secretaria Municipal de Mobilidade Urbana | 326.473.976,00 |
+| Superintendência de Mobilidade do Município de Belo Horizonte | 809.692.965,00 |
+| Fundo Municipal de Mobilidade Urbana | 221.146.910,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte S.A. | 298.667.322,00 |
+| Secretaria Municipal de Relações Institucionais | 52.396.269,00 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos | 109.010.208,00 |
+| Fundo Municipal de Assistência Social | 417.051.331,00 |
+| Fundo Municipal dos Direitos da Criança e do Adolescente | 25.999.400,00 |
+| Fundo Municipal do Idoso | 38.302.000,00 |
+| Fundo Municipal de Proteção e Defesa das Minorias | 201.000,00 |
+| Fundo Municipal do Auxílio de Transporte Escolar | 64.000,00 |
+| Fundo Municipal dos Direitos da Mulher | 1.000,00 |
+| Fundo Municipal Sobre Drogas | 601.000,00 |
+| Secretaria Municipal de Segurança Alimentar e Nutricional | 41.041.025,00 |
+| Fundo Municipal de Alimentação Escolar | 90.141.216,00 |
+| Fundo Municipal de Segurança Alimentar e Nutricional | 82.679.320,00 |
+| Secretaria-Geral | 4.921.984,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda | 1.625.763.632,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Planejamento, Orçamento e Gestão | 104.751.498,00 |
+| Subtotal | 24.069.965.748,00 |
+| Reserva de Contingência | 20.721.071,00 |
+| Reserva de Recursos para Emendas Individuais | 282.159,00 |
+| Reserva de Contingência - RPPS | 833.381.698,00 |
+| Subtotal | 854.384.928,00 |
+| TOTAL GERAL DA DESPESA | 24.924.350.676,00 |
 
 II - as despesas serão realizadas segundo a discriminação dos anexos desta lei e apresentam a seguinte composição por função de governo:
 
 R$1,00
 
-|DISTRIBUIÇÃO DA DESPESA POR FUNÇÃO DE GOVERNO |
-
-|Administração Direta e Indireta |
-
-|Legislativa |523.180.000,00 |
-
-|Administração |986.842.310,00 |
-
-|Segurança Pública |570.897.913,00 |
-
-|Assistência Social |513.720.209,00 |
-
-|Previdência Social |2.356.159.821,00 |
-
-|Saúde |7.991.197.676,00 |
-
-|Trabalho |8.767.589,00 |
-
-|Educação |4.290.980.602,00 |
-
-|Cultura |151.599.527,00 |
-
-|Direitos da Cidadania |112.335.740,00 |
-
-|Urbanismo |1.116.861.699,00 |
-
-|Habitação |397.677.806,00 |
-
-|Saneamento |1.049.889.642,00 |
-
-|Gestão Ambiental |289.172.295,00 |
-
-|Ciência e Tecnologia |236.412.394,00 |
-
-|Agricultura |38.820.155,00 |
-
-|Comércio e Serviços |111.253.981,00 |
-
-|Transporte |1.655.982.156,00 |
-
-|Desporto e Lazer |55.930.889,00 |
-
-|Encargos Especiais |1.612.283.344,00 |
-
-|Subtotal |24.069.965.748,00 |
-
-|Reserva de Contingência |20.721.071,00 |
-
-|Reserva de Recursos para Emendas Individuais |282.159,00 |
-
-|Reserva de Contingência - RPPS |833.381.698,00 |
-
-|Subtotal |854.384.928,00 |
-
-|TOTAL GERAL DA DESPESA |24.924.350.676,00 |
+| DISTRIBUIÇÃO DA DESPESA POR FUNÇÃO DE GOVERNO |  |
+| --- | --- |
+| Administração Direta e Indireta |  |
+| Legislativa | 523.180.000,00 |
+| Administração | 986.842.310,00 |
+| Segurança Pública | 570.897.913,00 |
+| Assistência Social | 513.720.209,00 |
+| Previdência Social | 2.356.159.821,00 |
+| Saúde | 7.991.197.676,00 |
+| Trabalho | 8.767.589,00 |
+| Educação | 4.290.980.602,00 |
+| Cultura | 151.599.527,00 |
+| Direitos da Cidadania | 112.335.740,00 |
+| Urbanismo | 1.116.861.699,00 |
+| Habitação | 397.677.806,00 |
+| Saneamento | 1.049.889.642,00 |
+| Gestão Ambiental | 289.172.295,00 |
+| Ciência e Tecnologia | 236.412.394,00 |
+| Agricultura | 38.820.155,00 |
+| Comércio e Serviços | 111.253.981,00 |
+| Transporte | 1.655.982.156,00 |
+| Desporto e Lazer | 55.930.889,00 |
+| Encargos Especiais | 1.612.283.344,00 |
+| Subtotal | 24.069.965.748,00 |
+| Reserva de Contingência | 20.721.071,00 |
+| Reserva de Recursos para Emendas Individuais | 282.159,00 |
+| Reserva de Contingência - RPPS | 833.381.698,00 |
+| Subtotal | 854.384.928,00 |
+| TOTAL GERAL DA DESPESA | 24.924.350.676,00 |
 
 **Art. 4º** - Para ajustes na programação orçamentária do Fundo Municipal de Saúde, fica o Executivo autorizado a abrir créditos suplementares até o limite de 15% (quinze por cento) do valor do orçamento.
 

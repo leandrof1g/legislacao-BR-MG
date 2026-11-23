@@ -76,9 +76,9 @@ LXXXVII - Mês das Quadrilhas Juninas.”.
 
 MÊS COMEMORATIVO
 
-|DATA |COMEMORAÇÃO |
-
-|Junho |Mês das Quadrilhas Juninas |
+| DATA | COMEMORAÇÃO |
+| --- | --- |
+| Junho | Mês das Quadrilhas Juninas |
 
 .”.
 

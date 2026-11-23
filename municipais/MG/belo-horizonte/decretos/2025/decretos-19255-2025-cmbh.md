@@ -64,33 +64,21 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do §|R$ |
-
-|1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei | |
-
-|nº 11.742, de 13 de setembro de 2024: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.0168.2080.339032.2.550.000 |13.020.075,48 |
-
-|2200.12.365.0169.2542.339032.2.550.000 |16.457.937,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.0028.2829.339030.2.621.000 |26.774,58 |
-
-|2302.10.302.0114.2936.339030.2.621.000 |16.240,00 |
-
-|2302.10.302.0114.2936.339032.2.621.000 |137.190,00 |
-
-|2302.10.304.0028.2829.339030.2.621.000 |4.283,40 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449193.2.754.790 |76.652,58 |
-
-|TOTAL DA SUPLEMENTAÇÃO |29.739.153,04 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § | R$ |
+| --- | --- |
+| 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei |  |
+| nº 11.742, de 13 de setembro de 2024: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.0168.2080.339032.2.550.000 | 13.020.075,48 |
+| 2200.12.365.0169.2542.339032.2.550.000 | 16.457.937,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.0028.2829.339030.2.621.000 | 26.774,58 |
+| 2302.10.302.0114.2936.339030.2.621.000 | 16.240,00 |
+| 2302.10.302.0114.2936.339032.2.621.000 | 137.190,00 |
+| 2302.10.304.0028.2829.339030.2.621.000 | 4.283,40 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449193.2.754.790 | 76.652,58 |
+| TOTAL DA SUPLEMENTAÇÃO | 29.739.153,04 |
 
 ANEXO II
 

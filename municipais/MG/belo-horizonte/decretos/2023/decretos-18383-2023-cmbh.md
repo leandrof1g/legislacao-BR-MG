@@ -62,93 +62,54 @@ Leonardo Maurício Colombini Lima
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º |R$ |
-
-|da Lei nº 11.442, de 29 de dezembro de 2022: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.0100.08.244.020.2.878.319011.500 |68.100,00 |
-
-|1011.0200.08.244.020.2.878.319011.500 |66.800,00 |
-
-|1011.0400.08.244.020.2.878.319011.500 |63.700,00 |
-
-|1011.0500.08.244.020.2.878.319011.500 |47.800,00 |
-
-|1011.0600.08.244.020.2.878.319011.500 |72.900,00 |
-
-|1011.0700.08.244.020.2.878.319011.500 |51.700,00 |
-
-|1011.0800.08.244.020.2.878.319011.500 |63.700,00 |
-
-|Fundo Municipal de Alimentação Escolar – FMAE |
-
-|1014.1100.08.306.132.2.761.339030.500 |8.000.000,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.302.114.2.891.339139.621 |46.184,02 |
-
-|2302.3401.10.302.114.2.893.339039.621 |680.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.1100.06.182.164.2.541.319011.500 |244.700,00 |
-
-|2700.1100.06.182.164.2.541.319004.500 |127.000,00 |
-
-|Superintendência de Desenvolvimento da Capital – SUDECAP |
-
-|2702.0400.04.122.233.1.219.449051.500 |106.240,20 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.1100.27.812.101.2.545.339039.500 |274.891,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.5701.04.122.007.2.069.335041.500 |139.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |10.052.715,22 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no art. 4º | R$ |
+| --- | --- |
+| da Lei nº 11.442, de 29 de dezembro de 2022: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.0100.08.244.020.2.878.319011.500 | 68.100,00 |
+| 1011.0200.08.244.020.2.878.319011.500 | 66.800,00 |
+| 1011.0400.08.244.020.2.878.319011.500 | 63.700,00 |
+| 1011.0500.08.244.020.2.878.319011.500 | 47.800,00 |
+| 1011.0600.08.244.020.2.878.319011.500 | 72.900,00 |
+| 1011.0700.08.244.020.2.878.319011.500 | 51.700,00 |
+| 1011.0800.08.244.020.2.878.319011.500 | 63.700,00 |
+| Fundo Municipal de Alimentação Escolar – FMAE |  |
+| 1014.1100.08.306.132.2.761.339030.500 | 8.000.000,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.302.114.2.891.339139.621 | 46.184,02 |
+| 2302.3401.10.302.114.2.893.339039.621 | 680.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.1100.06.182.164.2.541.319011.500 | 244.700,00 |
+| 2700.1100.06.182.164.2.541.319004.500 | 127.000,00 |
+| Superintendência de Desenvolvimento da Capital – SUDECAP |  |
+| 2702.0400.04.122.233.1.219.449051.500 | 106.240,20 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.812.101.2.545.339039.500 | 274.891,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.5701.04.122.007.2.069.335041.500 | 139.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 10.052.715,22 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação|R$ |
-
-|de recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |
-
-|0600.1600.04.122.014.2.809.319011.500 |371.700,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.1100.08.244.113.2.327.319011.500 |434.700,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.3401.10.301.157.2.690.339092.621 |637.202,00 |
-
-|2302.3401.10.302.114.2.891.339092.621 |46.184,02 |
-
-|2302.3401.10.305.028.2.829.339039.621 |42.798,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.0800.04.122.044.1.219.449051.500 |106.240,20 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.1100.27.813.101.2.545.339039.500 |274.891,00 |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.5701.28.843.091.3.501.329022.500 |8.000.000,00 |
-
-|4001.5701.99.999.999.1.000.999999.500 |139.000,00 |
-
-|TOTAL DA ANULAÇÃO |10.052.715,22 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação | R$ |
+| --- | --- |
+| de recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Planejamento, Orçamento e Gestão – SMPOG |  |
+| 0600.1600.04.122.014.2.809.319011.500 | 371.700,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.1100.08.244.113.2.327.319011.500 | 434.700,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.3401.10.301.157.2.690.339092.621 | 637.202,00 |
+| 2302.3401.10.302.114.2.891.339092.621 | 46.184,02 |
+| 2302.3401.10.305.028.2.829.339039.621 | 42.798,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.0800.04.122.044.1.219.449051.500 | 106.240,20 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.1100.27.813.101.2.545.339039.500 | 274.891,00 |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.5701.28.843.091.3.501.329022.500 | 8.000.000,00 |
+| 4001.5701.99.999.999.1.000.999999.500 | 139.000,00 |
+| TOTAL DA ANULAÇÃO | 10.052.715,22 |
 
 8 ANEXO II
 
@@ -194,24 +155,15 @@ Despesas com o fornecimento de alimentação para as Unidades de Pronto Atendime
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado no art. 4º da Lei nº 11.442, de 29 de dezembro de 2022:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |
-
-|Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado |Art. 4º, limite de 10% do valor |
-
-|para abertura de créditos suplementares. |total do Orçamento: |
-
-|Base de cálculo anual |R$ 17.141.671.882,00 |
-
-|Limite total anual autorizado |R$ 1.714.167.188,20 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 524.922.509,18 |
-
-|Valor do Decreto publicado nesta data |R$ 10.052.715,22 |
-
-|Saldo atual de créditos suplementares |R$ 1.179.191.963,80 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 534.975.224,40 |
-
-|Percentual utilizado |31,21% |
-
-|Atualizado em 13/07/2023 às 10:44:40 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2023 |  |
+| --- | --- |
+| Art. 4º da Lei nº 11.442, de 29/12/2022 – Limite autorizado | Art. 4º, limite de 10% do valor |
+| para abertura de créditos suplementares. | total do Orçamento: |
+| Base de cálculo anual | R$ 17.141.671.882,00 |
+| Limite total anual autorizado | R$ 1.714.167.188,20 |
+| Total de créditos suplementares abertos anteriormente | R$ 524.922.509,18 |
+| Valor do Decreto publicado nesta data | R$ 10.052.715,22 |
+| Saldo atual de créditos suplementares | R$ 1.179.191.963,80 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 534.975.224,40 |
+| Percentual utilizado | 31,21% |
+| Atualizado em 13/07/2023 às 10:44:40 |  |

@@ -60,31 +60,20 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º|R$ |
-
-|do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei nº | |
-
-|11.742, de 13 de setembro de 2024. | |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.0073.2580.339030.2.500.000 |21.273,40 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.0157.2690.449052.2.500.000 |115.607,00 |
-
-|2302.10.305.0028.2829.449052.2.500.000 |36.218,00 |
-
-|2302.10.302.0114.2936.449052.2.500.000 |51.907,69 |
-
-|2302.10.301.0117.1216.449051.2.500.000 |175.000,00 |
-
-|2302.10.301.0117.1216.449093.2.500.000 |75.000,00 |
-
-|2302.10.302.0117.1216.449093.2.500.000 |38.732,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |513.738,09 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso I do § 1º | R$ |
+| --- | --- |
+| do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 48 da Lei nº |  |
+| 11.742, de 13 de setembro de 2024. |  |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.0073.2580.339030.2.500.000 | 21.273,40 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.0157.2690.449052.2.500.000 | 115.607,00 |
+| 2302.10.305.0028.2829.449052.2.500.000 | 36.218,00 |
+| 2302.10.302.0114.2936.449052.2.500.000 | 51.907,69 |
+| 2302.10.301.0117.1216.449051.2.500.000 | 175.000,00 |
+| 2302.10.301.0117.1216.449093.2.500.000 | 75.000,00 |
+| 2302.10.302.0117.1216.449093.2.500.000 | 38.732,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 513.738,09 |
 
 ANEXO II
 

@@ -32,39 +32,24 @@ O Prefeito de Belo Horizonte, no uso de suas atribuições legais, e tendo em vi
 
 R$1,00
 
-|1 - RECEITAS CORRENTES |93.600.000 |
-
-| | |
-
-|- RECEITAS DE CONTRIBUIÇÕES |93.600.000 |
-
-|- CONTRIBUIÇÕES SOCIAIS |93.600.000 |
-
-|- CONTRIBUIÇÕES PREVIDENCIÁRIAS PATRONAIS |70.700.000 |
-
-|- CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL - PBH |70.670.000 |
-
-|- CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL – BEPREM |20.000 |
-
-|- CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL - FZB |10.000 |
-
-|- RECEITAS DE CONTRIBUIÇÕES PREVIDENCIÁRIAS SEGURADAS |22.900.000 |
-
-|- CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR ATIVO – PBH |16.824.000 |
-
-|- CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR INATIVO – PBH |4.704.000 |
-
-|- CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR ATIVO – BEPREM |380.000 |
-
-|- CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR INATIVO – BEPREM |4.000 |
-
-|- CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR ATIVO – FZB |94.000 |
-
-|- CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR INATIVO - FZB |1.000 |
-
-|- CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR ATIVO – CÂMARA |890.000 |
-
-|- CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR INATIVO – CÂMARA |3.000 | |
+| 1 - RECEITAS CORRENTES | 93.600.000 |  |
+| --- | --- | --- |
+|  |  |  |
+| - RECEITAS DE CONTRIBUIÇÕES | 93.600.000 |  |
+| - CONTRIBUIÇÕES SOCIAIS | 93.600.000 |  |
+| - CONTRIBUIÇÕES PREVIDENCIÁRIAS PATRONAIS | 70.700.000 |  |
+| - CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL - PBH | 70.670.000 |  |
+| - CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL – BEPREM | 20.000 |  |
+| - CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL - FZB | 10.000 |  |
+| - RECEITAS DE CONTRIBUIÇÕES PREVIDENCIÁRIAS SEGURADAS | 22.900.000 |  |
+| - CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR ATIVO – PBH | 16.824.000 |  |
+| - CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR INATIVO – PBH | 4.704.000 |  |
+| - CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR ATIVO – BEPREM | 380.000 |  |
+| - CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR INATIVO – BEPREM | 4.000 |  |
+| - CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR ATIVO – FZB | 94.000 |  |
+| - CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR INATIVO - FZB | 1.000 |  |
+| - CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR ATIVO – CÂMARA | 890.000 |  |
+| - CONTRIBUIÇÕES PREVIDENCIÁRIAS DO SERVIDOR INATIVO – CÂMARA | 3.000 |  |
 
 **Art. 3º** - A Despesa será realizada na forma da legislação em vigor, observada a fixação constante do seguinte detalhamento:
 
@@ -72,35 +57,26 @@ a) Despesas por Categorias Econômicas
 
 R$1,00
 
-|1 - DESPESAS CORRENTES |93.600.000 |
-
-| | |
-
-|- Transferências Correntes |93.600.000 | |
+| 1 - DESPESAS CORRENTES | 93.600.000 |  |
+| --- | --- | --- |
+|  |  |  |
+| - Transferências Correntes | 93.600.000 |  |
 
 b) Despesas por Programas de Trabalho
 
 PROGRAMÁTICA ATIVIDADE/PROJETO DOTAÇÃO
 
-|09.00 - 080824952.002 |Encargos com Inativos e Pensionistas |
-
-| |Educação |21.019.000 |
-
-|09.00 - 150824952.001 |Encargos com Inativos e Pensionistas | |
-
-| |PBH |72.550.000 |
-
-|09.00 - 150824952.003 |Encargos com Pensionistas - BEPREM |11.000 |
-
-|09.00 - 150824952.004 |Encargos com Pensionistas - Câmara |10.000 |
-
-|09.00 - 150824952.005 |Encargos com Pensionistas - FZB |10.000 |
-
-| | | |
-
-| |TOTAL.................................................|93.600.000 |
-
-| |.... | |
+| 09.00 - 080824952.002 | Encargos com Inativos e Pensionistas |  |
+| --- | --- | --- |
+|  | Educação | 21.019.000 |
+| 09.00 - 150824952.001 | Encargos com Inativos e Pensionistas |  |
+|  | PBH | 72.550.000 |
+| 09.00 - 150824952.003 | Encargos com Pensionistas - BEPREM | 11.000 |
+| 09.00 - 150824952.004 | Encargos com Pensionistas - Câmara | 10.000 |
+| 09.00 - 150824952.005 | Encargos com Pensionistas - FZB | 10.000 |
+|  |  |  |
+|  | TOTAL................................................. | 93.600.000 |
+|  | .... |  |
 
 **Parágrafo único** - Os recursos financeiros do Tesouro Municipal para o custeio das atividades administrativas e investimentos serão repassados pelo sistema de provisão de crédito, tendo em vista a aprovação da JUCOF - Junta de Coordenação Orçamentária e Financeira e as disponibilidades de tesouraria.
 

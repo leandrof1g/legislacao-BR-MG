@@ -50,7 +50,8 @@ Prefeito de Belo Horizonte
 
 ANEXO ÚNICO
 
-|Item |
+| Item |
+| --- |
 
 1 | Colocar ou instalar qualquer obstáculo físico ou equipamento no logradouro público ou projetado sobre ele. |Art. 6º-A, art. 17 | - | - |L |Obstáculo móvel |297,53 |1 dia |Sim | Sim |Apreensão e multa imediata; interdição do estabelecimento comercial na 2ª reincidência; cassação do Alvará de Localização e Funcionamento - ALF na 3ª reincidência. | | | | | | |M |Obstáculo fixo |1.041,37 | | | | | | | | | | |G |churrasqueiras, recipientes de refrigeração e outros similares. |1.785,20 |a cada constatação | | | | |
 

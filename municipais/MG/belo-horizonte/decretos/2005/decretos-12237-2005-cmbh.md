@@ -218,18 +218,12 @@ Anexo Único acrescentado pelo Decreto nº 13.666, de 5/8/2009 (Art. 6º)
 
 Cota de Contratação de acordo com o número de empregados da empresa que concorre ao título Empresa Cidadã – Selo de Reconhecimento Social.
 
-|Número de Empregados da |Número de Contratações |
-
-|Empresa |/ ano |
-
-|Até 30 |01 |
-
-|De 31 a 50 |02 |
-
-|De 51 a 100 |04 |
-
-|De 101 a 200 |06 |
-
-|De 201 a 300 |08 |
-
-|Mais de 300 |10 |
+| Número de Empregados da | Número de Contratações |
+| --- | --- |
+| Empresa | / ano |
+| Até 30 | 01 |
+| De 31 a 50 | 02 |
+| De 51 a 100 | 04 |
+| De 101 a 200 | 06 |
+| De 201 a 300 | 08 |
+| Mais de 300 | 10 |

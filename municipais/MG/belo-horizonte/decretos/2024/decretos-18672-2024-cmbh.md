@@ -58,41 +58,28 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor da Câmara Municipal – CM, conforme autorização contida no art. 5º |R$ |
-
-|da Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|0101.01.031.0001.2001.319011.500 |4.500.000,00 |
-
-|0101.01.031.0001.2001.319092.500 |1.700.000,00 |
-
-|0101.01.031.0001.2001.319094.500 |1.015.000,00 |
-
-|SUBTOTAL |7.215.000,00 |
-
-|I.1.2 – A favor da Câmara Municipal – CM, conforme autorização contida no art. 6º |R$ |
-
-|da Lei nº 11.644, de 29 de dezembro de 2023: | |
-
-|0101.01.031.0001.2001.449040.500 |3.827.000,00 |
-
-|0101.01.031.0001.2920.339039.500 |4.250.000,00 |
-
-|SUBTOTAL |8.077.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |15.292.000,00 |
+| I.1.1 – A favor da Câmara Municipal – CM, conforme autorização contida no art. 5º | R$ |
+| --- | --- |
+| da Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| 0101.01.031.0001.2001.319011.500 | 4.500.000,00 |
+| 0101.01.031.0001.2001.319092.500 | 1.700.000,00 |
+| 0101.01.031.0001.2001.319094.500 | 1.015.000,00 |
+| SUBTOTAL | 7.215.000,00 |
+| I.1.2 – A favor da Câmara Municipal – CM, conforme autorização contida no art. 6º | R$ |
+| da Lei nº 11.644, de 29 de dezembro de 2023: |  |
+| 0101.01.031.0001.2001.449040.500 | 3.827.000,00 |
+| 0101.01.031.0001.2920.339039.500 | 4.250.000,00 |
+| SUBTOTAL | 8.077.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 15.292.000,00 |
 
 I.2 – Anulação da dotação orçamentária a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas nos itens I.1.1 e I.1.2, |R$ |
-
-|anulação de recursos orçamentários anteriormente previstos no seguinte órgão: | |
-
-|Câmara Municipal – CM |
-
-|0101.01.031.0001.2001.339039.500 |15.292.000,00 |
-
-|TOTAL DA ANULAÇÃO |15.292.000,00 |
+| I.2.1 – Em contrapartida às suplementações relacionadas nos itens I.1.1 e I.1.2, | R$ |
+| --- | --- |
+| anulação de recursos orçamentários anteriormente previstos no seguinte órgão: |  |
+| Câmara Municipal – CM |  |
+| 0101.01.031.0001.2001.339039.500 | 15.292.000,00 |
+| TOTAL DA ANULAÇÃO | 15.292.000,00 |
 
 ANEXO II
 
@@ -116,48 +103,27 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização do limite anual total autorizado nos artigos 5º e 6º da Lei nº 11.644, de 29 de dezembro de 2023:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para |Art. 5º, limite de 10% do |
-
-|abertura de créditos suplementares para o grupo de despesa Pessoal |valor total do Orçamento: |
-
-|e Encargos Sociais. | |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 47.100.000,00 |
-
-|Valor do Decreto publicado nesta data |R$ 7.215.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 54.315.000,00 |
-
-|Saldo atual de créditos suplementares |R$ 1.929.017.772,40 |
-
-|Percentual utilizado |2,74% |
-
-|Atualizado em 21/03/2024 às 10:10:41 |
-
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |
-
-|Art. 6º da Lei nº 11.644, de 29/12/2023 - Limite autorizado para |Art. 6º, limite de 10% do |
-
-|abertura de créditos suplementares. |valor total do Orçamento: |
-
-|Base de cálculo anual |R$ 19.833.327.724,00 |
-
-|Limite total anual autorizado |R$ 1.983.332.772,40 |
-
-|Total de créditos suplementares abertos anteriormente |R$ 187.109.911,73 |
-
-|Valor do Decreto publicado nesta data |R$ 8.077.000,00 |
-
-|Valor total dos créditos suplementares abertos no exercício |R$ 195.186.911,73 |
-
-|Saldo atual de créditos suplementares |R$ 1.788.145.860,67 |
-
-|Percentual utilizado |9,84% |
-
-|Atualizado em 21/03/2024 às 10:10:41 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| --- | --- |
+| Art. 5º da Lei nº 11.644, de 29/12/2023 – Limite autorizado para | Art. 5º, limite de 10% do |
+| abertura de créditos suplementares para o grupo de despesa Pessoal | valor total do Orçamento: |
+| e Encargos Sociais. |  |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 47.100.000,00 |
+| Valor do Decreto publicado nesta data | R$ 7.215.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 54.315.000,00 |
+| Saldo atual de créditos suplementares | R$ 1.929.017.772,40 |
+| Percentual utilizado | 2,74% |
+| Atualizado em 21/03/2024 às 10:10:41 |  |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2024 |  |
+| Art. 6º da Lei nº 11.644, de 29/12/2023 - Limite autorizado para | Art. 6º, limite de 10% do |
+| abertura de créditos suplementares. | valor total do Orçamento: |
+| Base de cálculo anual | R$ 19.833.327.724,00 |
+| Limite total anual autorizado | R$ 1.983.332.772,40 |
+| Total de créditos suplementares abertos anteriormente | R$ 187.109.911,73 |
+| Valor do Decreto publicado nesta data | R$ 8.077.000,00 |
+| Valor total dos créditos suplementares abertos no exercício | R$ 195.186.911,73 |
+| Saldo atual de créditos suplementares | R$ 1.788.145.860,67 |
+| Percentual utilizado | 9,84% |
+| Atualizado em 21/03/2024 às 10:10:41 |  |

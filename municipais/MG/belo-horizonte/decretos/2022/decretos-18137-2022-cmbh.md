@@ -58,277 +58,146 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do art. |R$ |
-
-|4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Procuradoria-Geral do Município – PGM |
-
-|0500.04.062.003.2.028.3390.0000 |200.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.122.109.2.802.3390.0000 |10.100,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.168.2.046.3390.0000 |1.667.213,00 |
-
-|2200.12.361.168.2.046.4450.0000 |787.543,00 |
-
-|2200.12.361.168.2.046.4450.0000 |775.959,00 |
-
-|2200.12.361.168.2.080.3390.0000 |113.400,00 |
-
-|2200.12.366.168.2.080.3390.0000 |23.800,00 |
-
-|2200.12.361.168.2.046.4450.0000 |62.265,00 |
-
-|2200.12.361.168.2.080.3390.0000 |307.300,00 |
-
-|2200.12.365.169.2.046.3390.0000 |283.218,00 |
-
-|2200.12.361.168.2.046.3390.0000 |459.746,00 |
-
-|2200.12.361.168.2.046.4450.0000 |518.853,00 |
-
-|2200.12.361.168.2.702.4450.0000 |68.104,00 |
-
-|2200.12.365.169.2.046.3390.0000 |181.550,00 |
-
-|2200.12.365.169.2.046.4450.0000 |1.005.780,00 |
-
-|2200.12.365.169.2.542.3390.0000 |25.300,00 |
-
-|2200.12.361.168.2.046.3390.0000 |446.598,00 |
-
-|2200.12.361.168.2.046.4450.0000 |572.739,00 |
-
-|2200.12.361.168.2.080.3390.0000 |145.500,00 |
-
-|2200.12.365.169.2.046.4450.0000 |300.662,00 |
-
-|2200.12.361.168.2.046.3390.0000 |324.995,00 |
-
-|2200.12.361.168.2.046.4450.0000 |752.056,00 |
-
-|2200.12.365.169.2.046.3390.0000 |184.910,00 |
-
-|2200.12.365.169.2.046.4450.0000 |34.200,00 |
-
-|2200.12.361.168.2.046.3390.0000 |787.858,00 |
-
-|2200.12.361.168.2.046.4450.0000 |1.170.666,00 |
-
-|2200.12.365.169.2.046.3390.0000 |179.870,00 |
-
-|2200.12.365.169.2.046.4450.0000 |47.314,00 |
-
-|2200.12.365.169.2.542.3390.0000 |141.100,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.900.3390.0000 |9.000,00 |
-
-|2505.18.541.073.2.580.3390.0000 |2.625,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.06.182.164.2.541.3390.0000 |65.000,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|2709.26.452.060.2.567.3190.0000 |12.000.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.900.3350.0000 |2.500,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.101.2.106.4490.0000 |102.979,28 |
-
-|TOTAL |23.760.703,28 |
-
-|I.1.2 - A favor dos seguintes órgãos, conforme autorização contida no inciso I do |R$ |
-
-|art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.169.2.542.3191.0005 |971.400,00 |
-
-|2200.12.365.169.2.542.3191.0005 |1.040.100,00 |
-
-|2200.12.365.169.2.542.3191.0005 |1.128.700,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.06.182.164.2.541.3190.0000 |3.562.200,00 |
-
-|2700.15.452.057.2.770.3191.0000 |223.400,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.900.3190.0000 |485.000,00 |
-
-|Secretaria Municipal de Política Urbana – SMPU |
-
-|3300.15.452.059.2.571.3190.0000 |551.200,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.020.2.878.3190.0000 |301.300,00 |
-
-|1011.08.244.020.2.878.3190.0000 |286.800,00 |
-
-|1011.08.244.020.2.878.3190.0000 |208.900,00 |
-
-|1011.08.244.020.2.878.3190.0000 |278.800,00 |
-
-|1011.08.244.020.2.878.3190.0000 |185.900,00 |
-
-|1011.08.244.020.2.878.3190.0000 |208.700,00 |
-
-|1011.08.244.020.2.878.3190.0000 |331.500,00 |
-
-|1011.08.244.020.2.878.3190.0000 |166.400,00 |
-
-|1011.08.244.020.2.878.3190.0000 |277.200,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.305.028.2.829.3190.0000 |224.500,00 |
-
-|2302.10.305.028.2.829.3190.0000 |180.000,00 |
-
-|2302.10.302.114.2.891.3191.0000 |35.000,00 |
-
-|2302.10.305.028.2.829.3190.0000 |1.630.000,00 |
-
-|2302.10.305.028.2.829.3190.0000 |175.000,00 |
-
-|2302.10.305.028.2.829.3190.0000 |130.000,00 |
-
-|2302.10.305.028.2.829.3190.0000 |280.000,00 |
-
-|2302.10.122.117.2.662.3190.0000 |700.000,00 |
-
-|TOTAL |13.562.000,00 |
-
-|I.1.3 – A favor do Fundo Municipal de Saúde – FMS, conforme autorização contida no |R$ |
-
-|inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: | |
-
-|2302.10.302.114.2.891.3390.0000 |8.000,00 |
-
-|2302.10.122.117.2.662.3390.0000 |22.700,00 |
-
-|TOTAL |30.700,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |37.353.403,28 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no caput do art. | R$ |
+| --- | --- |
+| 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Procuradoria-Geral do Município – PGM |  |
+| 0500.04.062.003.2.028.3390.0000 | 200.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.122.109.2.802.3390.0000 | 10.100,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.168.2.046.3390.0000 | 1.667.213,00 |
+| 2200.12.361.168.2.046.4450.0000 | 787.543,00 |
+| 2200.12.361.168.2.046.4450.0000 | 775.959,00 |
+| 2200.12.361.168.2.080.3390.0000 | 113.400,00 |
+| 2200.12.366.168.2.080.3390.0000 | 23.800,00 |
+| 2200.12.361.168.2.046.4450.0000 | 62.265,00 |
+| 2200.12.361.168.2.080.3390.0000 | 307.300,00 |
+| 2200.12.365.169.2.046.3390.0000 | 283.218,00 |
+| 2200.12.361.168.2.046.3390.0000 | 459.746,00 |
+| 2200.12.361.168.2.046.4450.0000 | 518.853,00 |
+| 2200.12.361.168.2.702.4450.0000 | 68.104,00 |
+| 2200.12.365.169.2.046.3390.0000 | 181.550,00 |
+| 2200.12.365.169.2.046.4450.0000 | 1.005.780,00 |
+| 2200.12.365.169.2.542.3390.0000 | 25.300,00 |
+| 2200.12.361.168.2.046.3390.0000 | 446.598,00 |
+| 2200.12.361.168.2.046.4450.0000 | 572.739,00 |
+| 2200.12.361.168.2.080.3390.0000 | 145.500,00 |
+| 2200.12.365.169.2.046.4450.0000 | 300.662,00 |
+| 2200.12.361.168.2.046.3390.0000 | 324.995,00 |
+| 2200.12.361.168.2.046.4450.0000 | 752.056,00 |
+| 2200.12.365.169.2.046.3390.0000 | 184.910,00 |
+| 2200.12.365.169.2.046.4450.0000 | 34.200,00 |
+| 2200.12.361.168.2.046.3390.0000 | 787.858,00 |
+| 2200.12.361.168.2.046.4450.0000 | 1.170.666,00 |
+| 2200.12.365.169.2.046.3390.0000 | 179.870,00 |
+| 2200.12.365.169.2.046.4450.0000 | 47.314,00 |
+| 2200.12.365.169.2.542.3390.0000 | 141.100,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.900.3390.0000 | 9.000,00 |
+| 2505.18.541.073.2.580.3390.0000 | 2.625,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.06.182.164.2.541.3390.0000 | 65.000,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 2709.26.452.060.2.567.3190.0000 | 12.000.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.900.3350.0000 | 2.500,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.101.2.106.4490.0000 | 102.979,28 |
+| TOTAL | 23.760.703,28 |
+| I.1.2 - A favor dos seguintes órgãos, conforme autorização contida no inciso I do | R$ |
+| art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.169.2.542.3191.0005 | 971.400,00 |
+| 2200.12.365.169.2.542.3191.0005 | 1.040.100,00 |
+| 2200.12.365.169.2.542.3191.0005 | 1.128.700,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.06.182.164.2.541.3190.0000 | 3.562.200,00 |
+| 2700.15.452.057.2.770.3191.0000 | 223.400,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.900.3190.0000 | 485.000,00 |
+| Secretaria Municipal de Política Urbana – SMPU |  |
+| 3300.15.452.059.2.571.3190.0000 | 551.200,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.020.2.878.3190.0000 | 301.300,00 |
+| 1011.08.244.020.2.878.3190.0000 | 286.800,00 |
+| 1011.08.244.020.2.878.3190.0000 | 208.900,00 |
+| 1011.08.244.020.2.878.3190.0000 | 278.800,00 |
+| 1011.08.244.020.2.878.3190.0000 | 185.900,00 |
+| 1011.08.244.020.2.878.3190.0000 | 208.700,00 |
+| 1011.08.244.020.2.878.3190.0000 | 331.500,00 |
+| 1011.08.244.020.2.878.3190.0000 | 166.400,00 |
+| 1011.08.244.020.2.878.3190.0000 | 277.200,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.305.028.2.829.3190.0000 | 224.500,00 |
+| 2302.10.305.028.2.829.3190.0000 | 180.000,00 |
+| 2302.10.302.114.2.891.3191.0000 | 35.000,00 |
+| 2302.10.305.028.2.829.3190.0000 | 1.630.000,00 |
+| 2302.10.305.028.2.829.3190.0000 | 175.000,00 |
+| 2302.10.305.028.2.829.3190.0000 | 130.000,00 |
+| 2302.10.305.028.2.829.3190.0000 | 280.000,00 |
+| 2302.10.122.117.2.662.3190.0000 | 700.000,00 |
+| TOTAL | 13.562.000,00 |
+| I.1.3 – A favor do Fundo Municipal de Saúde – FMS, conforme autorização contida no | R$ |
+| inciso II do art. 4º da Lei nº 11.336, de 30 de dezembro de 2021: |  |
+| 2302.10.302.114.2.891.3390.0000 | 8.000,00 |
+| 2302.10.122.117.2.662.3390.0000 | 22.700,00 |
+| TOTAL | 30.700,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 37.353.403,28 |
 
 I.2 – Anulação das dotações orçamentárias a que se refere o art. 2º:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Procuradoria-Geral do Município – PGM |
-
-|0500.04.062.003.2.010.3390.0000 |200.000,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.181.109.2.803.3390.0000 |10.100,00 |
-
-|2100.06.301.109.2.803.3190.0000 |65.000,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.361.168.2.080.3390.0000 |3.722.354,00 |
-
-|2200.12.365.169.2.542.3390.0000 |162.920,00 |
-
-|2200.12.361.168.2.080.3390.0000 |4.879.319,00 |
-
-|2200.12.365.169.2.542.3390.0000 |1.872.806,00 |
-
-|2200.12.122.140.2.317.3390.0000 |731.100,00 |
-
-|Fundação de Parques Municipais e Zoobotânica – FPMZB |
-
-|2505.18.541.073.2.812.3390.0000 |2.625,00 |
-
-|2505.18.541.073.2.580.3390.0000 |9.000,00 |
-
-|Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |
-
-|2709.26.452.060.2.567.3390.0000 |12.000.000,00 |
-
-|Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |
-
-|2805.23.695.086.2.900.3390.0000 |2.500,00 |
-
-|Secretaria Municipal de Esportes e Lazer – SMEL |
-
-|3000.27.812.101.2.106.3390.0000 |102.979,28 |
-
-|TOTAL |23.760.703,28 |
-
-|I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos nos seguintes órgãos: | |
-
-|Secretaria Municipal de Fazenda – SMFA |
-
-|0800.04.129.013.2.052.3190.0000 |3.004.100,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.127.2.334.3190.0000 |166.400,00 |
-
-|Secretaria Municipal de Segurança e Prevenção – SMSP |
-
-|2100.06.301.109.2.803.3190.0000 |1.043.100,00 |
-
-|2100.12.361.109.2.803.3190.0000 |551.200,00 |
-
-|2100.12.361.109.2.803.3191.0000 |223.400,00 |
-
-|Secretaria Municipal de Educação – SMED |
-
-|2200.12.365.169.2.542.3190.0005 |2.011.500,00 |
-
-|2200.12.361.168.2.080.3190.0005 |1.128.700,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.244.113.2.327.3190.0000 |331.500,00 |
-
-|1011.08.244.019.2.327.3190.0000 |882.300,00 |
-
-|1011.08.244.020.2.327.3190.0000 |865.300,00 |
-
-|Fundo Municipal de Saúde – FMS |
-
-|2302.10.301.157.2.690.3190.0000 |1.809.500,00 |
-
-|2302.10.301.157.2.690.3190.0000 |1.545.000,00 |
-
-|TOTAL |13.562.000,00 |
-
-|I.2.3 – Em contrapartida às suplementações relacionadas no item I.1.3, anulação de |R$ |
-
-|recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde – FMS: | |
-
-|2302.10.122.117.1.216.4490.0000 |22.700,00 |
-
-|2302.10.301.157.2.690.3190.0000 |8.000,00 |
-
-|TOTAL |30.700,00 |
-
-|TOTAL DA ANULAÇÃO |37.353.403,28 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1, anulação de | R$ |
+| --- | --- |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Procuradoria-Geral do Município – PGM |  |
+| 0500.04.062.003.2.010.3390.0000 | 200.000,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.181.109.2.803.3390.0000 | 10.100,00 |
+| 2100.06.301.109.2.803.3190.0000 | 65.000,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.361.168.2.080.3390.0000 | 3.722.354,00 |
+| 2200.12.365.169.2.542.3390.0000 | 162.920,00 |
+| 2200.12.361.168.2.080.3390.0000 | 4.879.319,00 |
+| 2200.12.365.169.2.542.3390.0000 | 1.872.806,00 |
+| 2200.12.122.140.2.317.3390.0000 | 731.100,00 |
+| Fundação de Parques Municipais e Zoobotânica – FPMZB |  |
+| 2505.18.541.073.2.812.3390.0000 | 2.625,00 |
+| 2505.18.541.073.2.580.3390.0000 | 9.000,00 |
+| Empresa de Transportes e Trânsito de Belo Horizonte – BHTRANS |  |
+| 2709.26.452.060.2.567.3390.0000 | 12.000.000,00 |
+| Empresa Municipal de Turismo de Belo Horizonte S/A – BELOTUR |  |
+| 2805.23.695.086.2.900.3390.0000 | 2.500,00 |
+| Secretaria Municipal de Esportes e Lazer – SMEL |  |
+| 3000.27.812.101.2.106.3390.0000 | 102.979,28 |
+| TOTAL | 23.760.703,28 |
+| I.2.2 – Em contrapartida à suplementação relacionada no item I.1.2, anulação de | R$ |
+| recursos orçamentários anteriormente previstos nos seguintes órgãos: |  |
+| Secretaria Municipal de Fazenda – SMFA |  |
+| 0800.04.129.013.2.052.3190.0000 | 3.004.100,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.127.2.334.3190.0000 | 166.400,00 |
+| Secretaria Municipal de Segurança e Prevenção – SMSP |  |
+| 2100.06.301.109.2.803.3190.0000 | 1.043.100,00 |
+| 2100.12.361.109.2.803.3190.0000 | 551.200,00 |
+| 2100.12.361.109.2.803.3191.0000 | 223.400,00 |
+| Secretaria Municipal de Educação – SMED |  |
+| 2200.12.365.169.2.542.3190.0005 | 2.011.500,00 |
+| 2200.12.361.168.2.080.3190.0005 | 1.128.700,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.244.113.2.327.3190.0000 | 331.500,00 |
+| 1011.08.244.019.2.327.3190.0000 | 882.300,00 |
+| 1011.08.244.020.2.327.3190.0000 | 865.300,00 |
+| Fundo Municipal de Saúde – FMS |  |
+| 2302.10.301.157.2.690.3190.0000 | 1.809.500,00 |
+| 2302.10.301.157.2.690.3190.0000 | 1.545.000,00 |
+| TOTAL | 13.562.000,00 |
+| I.2.3 – Em contrapartida às suplementações relacionadas no item I.1.3, anulação de | R$ |
+| recursos orçamentários anteriormente previstos no Fundo Municipal de Saúde – FMS: |  |
+| 2302.10.122.117.1.216.4490.0000 | 22.700,00 |
+| 2302.10.301.157.2.690.3190.0000 | 8.000,00 |
+| TOTAL | 30.700,00 |
+| TOTAL DA ANULAÇÃO | 37.353.403,28 |
 
 ANEXO II
 
@@ -400,36 +269,21 @@ SALDO ATUAL DE CRÉDITOS SUPLEMENTARES
 
 III.1 – Demonstração dos saldos de créditos suplementares passíveis de abertura no presente exercício e o percentual de utilização dos limites anuais totais autorizados no art. 4º da Lei nº 11.336, de 30 de dezembro de 2021:
 
-|DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |
-
-|Art. 4.º da Lei nº |Caput do art. 4º, limite|Inciso I do § 1º do art. |Inciso II do § 1º do art. |
-
-|11.336, de 30/12/2021 |de 15% do valor total do|4º, limite de 15% do |4º, limite de 15% do total |
-
-|- Limites autorizados |Orçamento: |total do Orçamento do |do Orçamento do Fundo |
-
-|para abertura de | |Grupo 1 - Pessoal e |Municipal de Saúde - FMS: |
-
-|créditos | |Encargos Sociais: | |
-
-|suplementares. | | | |
-
-|Base de cálculo anual |R$ 15.341.004.571,00 |R$ 5.893.282.058,00 |R$ 4.848.114.351,00 |
-
-|Limites totais anuais |R$ 2.301.150.685,65 |R$ 883.992.308,70 |R$ 727.217.152,65 |
-
-|autorizados | | | |
-
-|Valor dos créditos |R$ 896.372.742,59 |R$ 158.682.068,88 |R$ 475.668.461,83 |
-
-|suplementares abertos | | | |
-
-|no exercício | | | |
-
-|Saldos de créditos |R$ 1.404.777.943,06 |R$ 725.310.239,82 |R$ 251.548.690,82 |
-
-|suplementares | | | |
-
-|Percentual utilizado |38,95% |17,95% |65,41% |
-
-|Atualizado em 27/10/2022 às 13:51:19 |
+| DEMONSTRATIVO DOS SALDOS DE CRÉDITOS SUPLEMENTARES AUTORIZADOS – LOA 2022 |  |  |  |
+| --- | --- | --- | --- |
+| Art. 4.º da Lei nº | Caput do art. 4º, limite | Inciso I do § 1º do art. | Inciso II do § 1º do art. |
+| 11.336, de 30/12/2021 | de 15% do valor total do | 4º, limite de 15% do | 4º, limite de 15% do total |
+| - Limites autorizados | Orçamento: | total do Orçamento do | do Orçamento do Fundo |
+| para abertura de |  | Grupo 1 - Pessoal e | Municipal de Saúde - FMS: |
+| créditos |  | Encargos Sociais: |  |
+| suplementares. |  |  |  |
+| Base de cálculo anual | R$ 15.341.004.571,00 | R$ 5.893.282.058,00 | R$ 4.848.114.351,00 |
+| Limites totais anuais | R$ 2.301.150.685,65 | R$ 883.992.308,70 | R$ 727.217.152,65 |
+| autorizados |  |  |  |
+| Valor dos créditos | R$ 896.372.742,59 | R$ 158.682.068,88 | R$ 475.668.461,83 |
+| suplementares abertos |  |  |  |
+| no exercício |  |  |  |
+| Saldos de créditos | R$ 1.404.777.943,06 | R$ 725.310.239,82 | R$ 251.548.690,82 |
+| suplementares |  |  |  |
+| Percentual utilizado | 38,95% | 17,95% | 65,41% |
+| Atualizado em 27/10/2022 às 13:51:19 |  |  |  |

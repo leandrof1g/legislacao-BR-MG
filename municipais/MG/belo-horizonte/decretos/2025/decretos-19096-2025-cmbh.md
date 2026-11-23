@@ -58,75 +58,45 @@ MOVIMENTAÇÕES ORÇAMENTÁRIAS
 
 I.1 – Suplementação das seguintes dotações orçamentárias a que se refere o art. 1º:
 
-|I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III|R$ |
-
-|do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31| |
-
-|da Lei nº 11.801, de 2 de janeiro de 2025: | |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|3701.08.243.0019.2647.339039.1.500.000 |1.380.000,00 |
-
-|Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |
-
-|3400.04.122.0007.2808.339039.1.500.000 |132.224,00 |
-
-|Fundo Municipal de Mobilidade Urbana – FMU |
-
-|3502.26.452.0060.2837.339039.1.500.000 |500.000,00 |
-
-|Secretaria Municipal de Relações Institucionais – SMRI |
-
-|3600.04.122.0007.2900.339039.1.500.000 |229.064,70 |
-
-|Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |
-
-|3700.14.422.0127.2928.339039.1.500.000 |400.000,00 |
-
-|3700.14.422.0127.2840.339037.1.500.000 |129.000,00 |
-
-|Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN |
-
-|3800.08.122.0123.2900.339014.1.500.000 |15.000,00 |
-
-|TOTAL DA SUPLEMENTAÇÃO |2.785.288,70 |
+| I.1.1 – A favor dos seguintes órgãos, conforme autorização contida no inciso III | R$ |
+| --- | --- |
+| do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, e no art. 31 |  |
+| da Lei nº 11.801, de 2 de janeiro de 2025: |  |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 3701.08.243.0019.2647.339039.1.500.000 | 1.380.000,00 |
+| Secretaria Municipal de Administração Logística e Patrimonial – SMALOG |  |
+| 3400.04.122.0007.2808.339039.1.500.000 | 132.224,00 |
+| Fundo Municipal de Mobilidade Urbana – FMU |  |
+| 3502.26.452.0060.2837.339039.1.500.000 | 500.000,00 |
+| Secretaria Municipal de Relações Institucionais – SMRI |  |
+| 3600.04.122.0007.2900.339039.1.500.000 | 229.064,70 |
+| Secretaria Municipal de Assistência Social e Direitos Humanos – SMASDH |  |
+| 3700.14.422.0127.2928.339039.1.500.000 | 400.000,00 |
+| 3700.14.422.0127.2840.339037.1.500.000 | 129.000,00 |
+| Secretaria Municipal de Segurança Alimentar e Nutricional – SMSAN |  |
+| 3800.08.122.0123.2900.339014.1.500.000 | 15.000,00 |
+| TOTAL DA SUPLEMENTAÇÃO | 2.785.288,70 |
 
 I.2 – Anulação das seguintes dotações orçamentárias do orçamento vigente, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964:
 
-|I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: |R$ |
-
-|Anulação de recursos orçamentários anteriormente previstos nos seguintes | |
-
-|órgãos: | |
-
-|Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |
-
-|4001.04.122.0007.2924.339039.1.500.000 |132.224,00 |
-
-|Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |
-
-|1000.14.422.0127.2928.339039.1.500.000 |400.000,00 |
-
-|1000.14.422.0127.2840.339039.1.500.000 |4.100,00 |
-
-|1000.14.422.0127.2840.339037.1.500.000 |124.900,00 |
-
-|1000.08.122.0123.2900.339014.1.500.000 |15.000,00 |
-
-|Fundo Municipal de Assistência Social – FMAS |
-
-|1011.08.243.0019.2647.339039.1.500.000 |1.380.000,00 |
-
-|Secretaria Municipal de Obras e Infraestrutura – SMOBI |
-
-|2700.15.451.0062.1230.449051.1.500.000 |500.000,00 |
-
-|Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |
-
-|3200.04.122.0093.2900.339039.1.500.000 |229.064,70 |
-
-|TOTAL DA ANULAÇÃO |2.785.288,70 |
+| I.2.1 – Em contrapartida às suplementações relacionadas no item I.1.1: | R$ |
+| --- | --- |
+| Anulação de recursos orçamentários anteriormente previstos nos seguintes |  |
+| órgãos: |  |
+| Encargos Gerais do Município da Secretaria Municipal de Fazenda – EGM-SMFA |  |
+| 4001.04.122.0007.2924.339039.1.500.000 | 132.224,00 |
+| Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania – SMASAC |  |
+| 1000.14.422.0127.2928.339039.1.500.000 | 400.000,00 |
+| 1000.14.422.0127.2840.339039.1.500.000 | 4.100,00 |
+| 1000.14.422.0127.2840.339037.1.500.000 | 124.900,00 |
+| 1000.08.122.0123.2900.339014.1.500.000 | 15.000,00 |
+| Fundo Municipal de Assistência Social – FMAS |  |
+| 1011.08.243.0019.2647.339039.1.500.000 | 1.380.000,00 |
+| Secretaria Municipal de Obras e Infraestrutura – SMOBI |  |
+| 2700.15.451.0062.1230.449051.1.500.000 | 500.000,00 |
+| Secretaria Municipal de Assuntos Institucionais e Comunicação Social – SMAICS |  |
+| 3200.04.122.0093.2900.339039.1.500.000 | 229.064,70 |
+| TOTAL DA ANULAÇÃO | 2.785.288,70 |
 
 ANEXO II
 
@@ -160,20 +130,13 @@ SALDO ATUAL DE CRÉDITO ESPECIAL
 
 III.1 – Demonstração do saldo de crédito especial passível de abertura no presente exercício e o percentual de utilização do limite total autorizado no art. 31 da Lei nº 11.801, de 2 de janeiro de 2025:
 
-|DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |
-
-|Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |
-
-|Limite total autorizado |2.049.027.226,93 |
-
-|Total de créditos suplementares abertos anteriormente |810.779.783,47 |
-
-|Valor do Decreto publicado nesta data |2.785.288,70 |
-
-|Valor total dos créditos suplementares abertos no exercício |813.565.072,17 |
-
-|Saldo atual do limite autorizado |1.235.462.154,76 |
-
-|Percentual utilizado |39,70% |
-
-|Atualizado em 06/05/2025 às 11:13:06 |
+| DEMONSTRATIVO DO SALDO DE CRÉDITO ESPECIAL AUTORIZADO 2025 |  |
+| --- | --- |
+| Art. 31 da Lei nº 11.801, de 2 de janeiro de 2025. |  |
+| Limite total autorizado | 2.049.027.226,93 |
+| Total de créditos suplementares abertos anteriormente | 810.779.783,47 |
+| Valor do Decreto publicado nesta data | 2.785.288,70 |
+| Valor total dos créditos suplementares abertos no exercício | 813.565.072,17 |
+| Saldo atual do limite autorizado | 1.235.462.154,76 |
+| Percentual utilizado | 39,70% |
+| Atualizado em 06/05/2025 às 11:13:06 |  |

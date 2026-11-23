@@ -60,17 +60,13 @@ ANEXO II
 
 Parâmetros urbanísticos aplicáveis aos terrenos de propriedade pública situados em AEIS-1
 
-|Coeficiente de aproveitamento |2,8 (v. nota 1) |
-
-| |2,5 (v. nota 2) |
-
-| |1,7 (v. nota 3) |
-
-|Quota de terreno por unidade habitacional |- |
-
-|Taxa de Permeabilidade |Conforme art. 160 da Lei nº 9.959/10. |
-
-|Afastamento lateral e de fundos |Conforme Anexo VII da Lei nº 7.166/96, considerada a variável “b”=8 |
+| Coeficiente de aproveitamento | 2,8 (v. nota 1) |
+| --- | --- |
+|  | 2,5 (v. nota 2) |
+|  | 1,7 (v. nota 3) |
+| Quota de terreno por unidade habitacional | - |
+| Taxa de Permeabilidade | Conforme art. 160 da Lei nº 9.959/10. |
+| Afastamento lateral e de fundos | Conforme Anexo VII da Lei nº 7.166/96, considerada a variável “b”=8 |
 
 Nota 1. Coeficiente aplicável para lotes que atendam às seguintes condições: a) estejam inseridos em empreendimentos que abarquem, no mínimo, 2/3 (dois terços) da área da mancha de AEIS-1, incluídas nessa fração as áreas transferidas ao Município por força da legislação relativa ao parcelamento do solo; b) que sejam destinados a edificações de uso misto nas quais o pavimento térreo seja ocupado por atividades de uso não residencial voltadas para o logradouro público, exceto estacionamento.
 
