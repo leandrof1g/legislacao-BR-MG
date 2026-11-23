@@ -41,6 +41,7 @@ RAIZ = os.path.abspath(os.path.join(AQUI, ".."))
 RAIZ_MUN = os.path.join(RAIZ, "municipais", "MG")
 CONFIG = os.path.join(AQUI, "municipios_mg.json")
 IBGE_MG = os.path.join(AQUI, "ibge_municipios_mg.json")
+CBMMG = os.path.join(AQUI, "municipios_cbmmg.json")  # municípios com unidade do Corpo de Bombeiros
 COBERTURA = os.path.join(RAIZ_MUN, "COBERTURA.md")
 POP_MINIMA = 30000
 DIAS_DESCOBERTA = 30
@@ -149,8 +150,17 @@ def ja_no_acervo():
     return achados
 
 
+def municipios_cbmmg():
+    if not os.path.exists(CBMMG):
+        return {}
+    with open(CBMMG, encoding="utf-8") as f:
+        return json.load(f)["municipios"]
+
+
 def descobrir(forcar=False):
     cfg = carregar_config()
+    if set(municipios_cbmmg()) - set(cfg["municipios"]):
+        forcar = True
     if not forcar and cfg.get("atualizado_em"):
         idade = (HOJE - dt.date.fromisoformat(cfg["atualizado_em"])).days
         if idade < DIAS_DESCOBERTA:
@@ -159,7 +169,8 @@ def descobrir(forcar=False):
         nomes = {m["codigo_ibge"]: m["nome"] for m in json.load(f)}
     pops = populacoes()
     existentes = ja_no_acervo()
-    alvo = {c for c, p in pops.items() if p > cfg.get("pop_minima", POP_MINIMA)} | set(existentes)
+    cbmmg = municipios_cbmmg()
+    alvo = {c for c, p in pops.items() if p > cfg.get("pop_minima", POP_MINIMA)} | set(existentes) | set(cbmmg)
     if not pops and cfg["municipios"]:
         print("[descoberta] sem dados de população; mantendo a lista anterior", flush=True)
         return cfg
@@ -208,7 +219,47 @@ def contar_normas(pasta):
     return sum(a.endswith(".md") for _, _, arqs in os.walk(base) for a in arqs) if os.path.isdir(base) else 0
 
 
+FONTES_PROPRIAS = {"3106200": "SIL da CMBH (coletor próprio)"}  # código IBGE -> coletor específico
+
+
+def escrever_cobertura_cbmmg(cfg):
+    """Relatório só dos municípios com unidade do CBMMG, na ordem de população."""
+    cbmmg = municipios_cbmmg()
+    if not cbmmg:
+        return
+    levantamento = {}
+    arq = os.path.join(AQUI, "fontes_mg.json")
+    if os.path.exists(arq):
+        with open(arq, encoding="utf-8") as f:
+            levantamento = {r["codigo_ibge"]: r.get("classificacao", "") for r in json.load(f)}
+    linhas = ["# Legislação dos municípios com unidade do CBMMG", "",
+              "Municípios onde o Corpo de Bombeiros Militar de Minas Gerais tem unidade instalada (batalhão, "
+              "companhia, pelotão, posto avançado ou brigada municipal), segundo "
+              "[bombeiros.mg.gov.br/unidades-cbmmg](https://www.bombeiros.mg.gov.br/unidades-cbmmg). "
+              "Gerado por `scripts/municipios_mg.py`.", "",
+              "| Município | Unidade | Tipo | População | Fonte da legislação | Normas no acervo | Atualização automática |",
+              "| --- | --- | --- | ---: | --- | ---: | :---: |"]
+    tot = com = 0
+    for codigo, u in sorted(cbmmg.items(), key=lambda kv: -((cfg["municipios"].get(kv[0]) or {}).get("populacao") or 0)):
+        m = cfg["municipios"].get(codigo) or {"pasta": pasta_municipio(u["nome"])}
+        n = contar_normas(m["pasta"])
+        if codigo in FONTES_PROPRIAS:
+            fonte, auto = FONTES_PROPRIAS[codigo], "sim"
+        elif m.get("sapl"):
+            fonte, auto = f"SAPL ([{m['sapl']}](https://{m['sapl']}))", "sim"
+        else:
+            fonte, auto = (levantamento.get(codigo) or "a levantar") + " — sem coletor", "não"
+        pop = f"{m['populacao']:,}".replace(",", ".") if m.get("populacao") else "—"
+        linhas.append(f"| {u['nome']} | {u['unidade']} ({u['comando']}) | {u['tipo']} | {pop} | {fonte} | {n} | {auto} |")
+        tot += 1
+        com += auto == "sim" and n > 0
+    linhas[4:4] = [f"**{com} de {tot}** municípios com legislação no acervo e atualização automática.", ""]
+    with open(os.path.join(RAIZ_MUN, "CBMMG.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(linhas) + "\n")
+
+
 def escrever_cobertura(cfg):
+    escrever_cobertura_cbmmg(cfg)
     linhas = ["# Cobertura municipal — Minas Gerais", "",
               f"Municípios com mais de {cfg.get('pop_minima', POP_MINIMA):,} habitantes (IBGE) e os que já "
               "estavam no acervo. Gerado por `scripts/municipios_mg.py`; a lista editável é "

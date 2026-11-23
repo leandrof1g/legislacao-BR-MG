@@ -1,0 +1,612 @@
+{
+ "atualizacao_fonte": "2026-01-22",
+ "fonte": "https://www.bombeiros.mg.gov.br/unidades-cbmmg",
+ "municipios": {
+  "3101508": {
+   "comando": "3º COB",
+   "nome": "Além Paraíba",
+   "tipo": "Posto Avançado BM",
+   "unidade": "4º BBM"
+  },
+  "3101607": {
+   "comando": "6º COB",
+   "nome": "Alfenas",
+   "tipo": "Companhia BM",
+   "unidade": "1ª Cia Ind"
+  },
+  "3101706": {
+   "comando": "5º COB",
+   "nome": "Almenara",
+   "tipo": "Pelotão BM",
+   "unidade": "6º BBM"
+  },
+  "3102605": {
+   "comando": "6º COB",
+   "nome": "Andradas",
+   "tipo": "Posto Avançado BM",
+   "unidade": "1ª Cia Ind"
+  },
+  "3103405": {
+   "comando": "5º COB",
+   "nome": "Araçuaí",
+   "tipo": "Pelotão BM",
+   "unidade": "6º BBM"
+  },
+  "3103504": {
+   "comando": "2º COB",
+   "nome": "Araguari",
+   "tipo": "Companhia BM",
+   "unidade": "5º BBM"
+  },
+  "3104007": {
+   "comando": "2º COB",
+   "nome": "Araxá",
+   "tipo": "Companhia BM",
+   "unidade": "8º BBM"
+  },
+  "3104205": {
+   "comando": "1º COB",
+   "nome": "Arcos",
+   "tipo": "Posto Avançado BM",
+   "unidade": "10º BBM"
+  },
+  "3104601": {
+   "comando": "3º COB",
+   "nome": "Astolfo Dutra",
+   "tipo": "Brigada Municipal",
+   "unidade": "4º BBM"
+  },
+  "3105608": {
+   "comando": "3º COB",
+   "nome": "Barbacena",
+   "tipo": "Companhia Ind. BM",
+   "unidade": "2ª Cia Ind"
+  },
+  "3106200": {
+   "comando": "1º COB / CEB",
+   "nome": "Belo Horizonte",
+   "tipo": "Batalhão BM / 1ª CEOA / PQBRN / PCIF / PBS / PBRESC",
+   "unidade": "1º BBM / 3º BBM / BOA / BEMAD"
+  },
+  "3106705": {
+   "comando": "1º COB",
+   "nome": "Betim",
+   "tipo": "Posto Avançado BM",
+   "unidade": "2º BBM"
+  },
+  "3107109": {
+   "comando": "6º COB",
+   "nome": "Boa Esperança",
+   "tipo": "Posto Avançado BM",
+   "unidade": "9º BBM"
+  },
+  "3107307": {
+   "comando": "4º COB",
+   "nome": "Bocaiúva",
+   "tipo": "Posto Avançado BM",
+   "unidade": "7º BBM"
+  },
+  "3107406": {
+   "comando": "1º COB",
+   "nome": "Bom Despacho",
+   "tipo": "Pelotão BM",
+   "unidade": "10º BBM"
+  },
+  "3111200": {
+   "comando": "1º COB",
+   "nome": "Campo Belo",
+   "tipo": "Posto Avançado BM",
+   "unidade": "10º BBM"
+  },
+  "3111507": {
+   "comando": "2º COB",
+   "nome": "Campos Altos",
+   "tipo": "Posto Avançado BM",
+   "unidade": "8º BBM"
+  },
+  "3112307": {
+   "comando": "4º COB",
+   "nome": "Capelinha",
+   "tipo": "Pelotão BM",
+   "unidade": "6ª Cia Ind"
+  },
+  "3113206": {
+   "comando": "3º COB",
+   "nome": "Carandaí",
+   "tipo": "Brigada Municipal",
+   "unidade": "2ª Cia Ind"
+  },
+  "3113404": {
+   "comando": "5º COB",
+   "nome": "Caratinga",
+   "tipo": "Pelotão BM",
+   "unidade": "11º BBM"
+  },
+  "3115300": {
+   "comando": "3º COB",
+   "nome": "Cataguases",
+   "tipo": "Posto Avançado BM",
+   "unidade": "4º BBM"
+  },
+  "3118007": {
+   "comando": "3º COB",
+   "nome": "Congonhas",
+   "tipo": "Posto Avançado BM",
+   "unidade": "2ª Cia Ind"
+  },
+  "3118304": {
+   "comando": "3º COB",
+   "nome": "Conselheiro Lafaiete",
+   "tipo": "Companhia BM",
+   "unidade": "2ª Cia Ind"
+  },
+  "3118403": {
+   "comando": "5º COB",
+   "nome": "Conselheiro Pena",
+   "tipo": "Brigada Municipal",
+   "unidade": "6º BBM"
+  },
+  "3118601": {
+   "comando": "1º COB",
+   "nome": "Contagem",
+   "tipo": "Batalhão BM",
+   "unidade": "2º BBM"
+  },
+  "3119401": {
+   "comando": "5º COB",
+   "nome": "Coronel Fabriciano",
+   "tipo": "Pelotão BM",
+   "unidade": "11º BBM"
+  },
+  "3120904": {
+   "comando": "1º COB",
+   "nome": "Curvelo",
+   "tipo": "Pelotão BM",
+   "unidade": "5ª Cia Ind"
+  },
+  "3121605": {
+   "comando": "4º COB",
+   "nome": "Diamantina",
+   "tipo": "Companhia Ind. BM",
+   "unidade": "6ª Cia Ind"
+  },
+  "3122306": {
+   "comando": "1º COB",
+   "nome": "Divinópolis",
+   "tipo": "Batalhão BM",
+   "unidade": "10º BBM"
+  },
+  "3125101": {
+   "comando": "6º COB",
+   "nome": "Extrema",
+   "tipo": "Pelotão BM",
+   "unidade": "7ª Cia Ind"
+  },
+  "3126109": {
+   "comando": "1º COB",
+   "nome": "Formiga",
+   "tipo": "Companhia BM",
+   "unidade": "10º BBM"
+  },
+  "3126703": {
+   "comando": "4º COB",
+   "nome": "Francisco Sá",
+   "tipo": "Posto Avançado BM",
+   "unidade": "7º BBM"
+  },
+  "3127107": {
+   "comando": "2º COB",
+   "nome": "Frutal",
+   "tipo": "Pelotão BM",
+   "unidade": "8º BBM"
+  },
+  "3127701": {
+   "comando": "5º COB",
+   "nome": "Governador Valadares",
+   "tipo": "Batalhão BM",
+   "unidade": "6º BBM"
+  },
+  "3128006": {
+   "comando": "5º COB",
+   "nome": "Guanhães",
+   "tipo": "Posto Avançado BM",
+   "unidade": "6º BBM"
+  },
+  "3128709": {
+   "comando": "6º COB",
+   "nome": "Guaxupé",
+   "tipo": "Pelotão BM",
+   "unidade": "1ª Cia Ind"
+  },
+  "3131208": {
+   "comando": "5º COB",
+   "nome": "Ipanema",
+   "tipo": "Brigada Municipal",
+   "unidade": "11º BBM"
+  },
+  "3131307": {
+   "comando": "5º COB",
+   "nome": "Ipatinga",
+   "tipo": "Batalhão BM",
+   "unidade": "11º BBM"
+  },
+  "3131703": {
+   "comando": "5º COB",
+   "nome": "Itabira",
+   "tipo": "Pelotão BM",
+   "unidade": "11º BBM"
+  },
+  "3131901": {
+   "comando": "1º COB",
+   "nome": "Itabirito",
+   "tipo": "Brigada Municipal",
+   "unidade": "1º BBM"
+  },
+  "3132404": {
+   "comando": "6º COB",
+   "nome": "Itajubá",
+   "tipo": "Pelotão BM",
+   "unidade": "7ª Cia Ind"
+  },
+  "3133303": {
+   "comando": "5º COB",
+   "nome": "Itaobim",
+   "tipo": "Pelotão BM",
+   "unidade": "6º BBM"
+  },
+  "3133808": {
+   "comando": "1º COB",
+   "nome": "Itaúna",
+   "tipo": "Pelotão BM",
+   "unidade": "10º BBM"
+  },
+  "3134202": {
+   "comando": "2º COB",
+   "nome": "Ituiutaba",
+   "tipo": "Pelotão BM",
+   "unidade": "5º BBM"
+  },
+  "3134400": {
+   "comando": "2º COB",
+   "nome": "Iturama",
+   "tipo": "Pelotão BM",
+   "unidade": "8º BBM"
+  },
+  "3135100": {
+   "comando": "4º COB",
+   "nome": "Janaúba",
+   "tipo": "Pelotão BM",
+   "unidade": "7º BBM"
+  },
+  "3135209": {
+   "comando": "4º COB",
+   "nome": "Januária",
+   "tipo": "Pelotão BM",
+   "unidade": "7º BBM"
+  },
+  "3136207": {
+   "comando": "5º COB",
+   "nome": "João Monlevade",
+   "tipo": "Posto Avançado BM",
+   "unidade": "11º BBM"
+  },
+  "3136306": {
+   "comando": "2º COB",
+   "nome": "João Pinheiro",
+   "tipo": "Pelotão BM",
+   "unidade": "12º BBM"
+  },
+  "3136603": {
+   "comando": "1º COB",
+   "nome": "Nova União",
+   "tipo": "Posto Avançado BM",
+   "unidade": "3º BBM"
+  },
+  "3136652": {
+   "comando": "1º COB",
+   "nome": "Juatuba",
+   "tipo": "Pelotão BM",
+   "unidade": "2º BBM"
+  },
+  "3136702": {
+   "comando": "3º COB",
+   "nome": "Juiz de Fora",
+   "tipo": "Batalhão BM / PEMAD",
+   "unidade": "4º BBM"
+  },
+  "3137601": {
+   "comando": "1º COB",
+   "nome": "Lagoa Santa",
+   "tipo": "Companhia BM",
+   "unidade": "3º BBM"
+  },
+  "3138203": {
+   "comando": "6º COB",
+   "nome": "Lavras",
+   "tipo": "Companhia BM",
+   "unidade": "9º BBM"
+  },
+  "3138401": {
+   "comando": "3º COB",
+   "nome": "Leopoldina",
+   "tipo": "Pelotão BM",
+   "unidade": "4º BBM"
+  },
+  "3139003": {
+   "comando": "6º COB",
+   "nome": "Machado",
+   "tipo": "Posto Avançado BM",
+   "unidade": "1ª Cia Ind"
+  },
+  "3139409": {
+   "comando": "5º COB",
+   "nome": "Manhuaçu",
+   "tipo": "Companhia BM",
+   "unidade": "11º BBM"
+  },
+  "3140001": {
+   "comando": "1º COB",
+   "nome": "Mariana",
+   "tipo": "Posto Avançado BM",
+   "unidade": "1º BBM"
+  },
+  "3141009": {
+   "comando": "4º COB",
+   "nome": "Mato Verde",
+   "tipo": "Brigada Municipal",
+   "unidade": "7º BBM"
+  },
+  "3143302": {
+   "comando": "4º COB / CEOA",
+   "nome": "Montes Claros",
+   "tipo": "Batalhão BM / 3ª CEOA / PEMAD / PBRESC",
+   "unidade": "7º BBM"
+  },
+  "3143906": {
+   "comando": "3º COB",
+   "nome": "Muriaé",
+   "tipo": "Pelotão BM",
+   "unidade": "4º BBM"
+  },
+  "3145208": {
+   "comando": "1º COB",
+   "nome": "Nova Serrana",
+   "tipo": "Companhia BM",
+   "unidade": "10º BBM"
+  },
+  "3145604": {
+   "comando": "1º COB",
+   "nome": "Oliveira",
+   "tipo": "Pelotão BM",
+   "unidade": "10º BBM"
+  },
+  "3146107": {
+   "comando": "1º COB",
+   "nome": "Ouro Preto",
+   "tipo": "Companhia BM",
+   "unidade": "1º BBM"
+  },
+  "3147006": {
+   "comando": "2º COB",
+   "nome": "Paracatu",
+   "tipo": "Pelotão BM",
+   "unidade": "12º BBM"
+  },
+  "3147105": {
+   "comando": "1º COB",
+   "nome": "Pará de Minas",
+   "tipo": "Companhia BM",
+   "unidade": "10º BBM"
+  },
+  "3147303": {
+   "comando": "6º COB",
+   "nome": "Paraisópolis",
+   "tipo": "Brigada Municipal",
+   "unidade": "7ª Cia Ind"
+  },
+  "3147907": {
+   "comando": "6º COB",
+   "nome": "Passos",
+   "tipo": "Companhia BM",
+   "unidade": "1ª Cia Ind"
+  },
+  "3148004": {
+   "comando": "2º COB",
+   "nome": "Patos de Minas",
+   "tipo": "Batalhão BM",
+   "unidade": "12º BBM"
+  },
+  "3148103": {
+   "comando": "2º COB",
+   "nome": "Patrocínio",
+   "tipo": "Companhia BM",
+   "unidade": "12º BBM"
+  },
+  "3151206": {
+   "comando": "4º COB",
+   "nome": "Pirapora",
+   "tipo": "Pelotão BM",
+   "unidade": "6ª Cia Ind"
+  },
+  "3151503": {
+   "comando": "6º COB",
+   "nome": "Piumhi",
+   "tipo": "Pelotão BM",
+   "unidade": "1ª Cia Ind"
+  },
+  "3151800": {
+   "comando": "6º COB",
+   "nome": "Poços de Caldas",
+   "tipo": "Companhia Ind. BM",
+   "unidade": "1ª Cia Ind"
+  },
+  "3152105": {
+   "comando": "5º COB",
+   "nome": "Ponte Nova",
+   "tipo": "Pelotão BM",
+   "unidade": "11º BBM"
+  },
+  "3152501": {
+   "comando": "6º COB",
+   "nome": "Pouso Alegre",
+   "tipo": "Companhia Ind. BM",
+   "unidade": "7ª Cia Ind"
+  },
+  "3154309": {
+   "comando": "5º COB",
+   "nome": "Resplendor",
+   "tipo": "Pelotão BM",
+   "unidade": "6º BBM"
+  },
+  "3154606": {
+   "comando": "1º COB",
+   "nome": "Ribeirão das Neves",
+   "tipo": "Pelotão BM",
+   "unidade": "2º BBM"
+  },
+  "3155603": {
+   "comando": "4º COB",
+   "nome": "Rio Pardo de Minas",
+   "tipo": "Brigada Municipal",
+   "unidade": "7º BBM"
+  },
+  "3156700": {
+   "comando": "1º COB",
+   "nome": "Sabará",
+   "tipo": "Companhia BM",
+   "unidade": "3º BBM"
+  },
+  "3156908": {
+   "comando": "2º COB",
+   "nome": "Sacramento",
+   "tipo": "Pelotão BM",
+   "unidade": "8º BBM"
+  },
+  "3157005": {
+   "comando": "4º COB",
+   "nome": "Salinas",
+   "tipo": "Pelotão BM",
+   "unidade": "7º BBM"
+  },
+  "3157807": {
+   "comando": "1º COB",
+   "nome": "Santa Luzia",
+   "tipo": "Pelotão BM",
+   "unidade": "3º BBM"
+  },
+  "3161908": {
+   "comando": "5º COB",
+   "nome": "São Gonçalo do Rio Abaixo",
+   "tipo": "Posto Avançado BM",
+   "unidade": "11º BBM"
+  },
+  "3162500": {
+   "comando": "3º COB",
+   "nome": "São João del Rei",
+   "tipo": "Pelotão BM",
+   "unidade": "2ª Cia Ind"
+  },
+  "3162807": {
+   "comando": "5º COB",
+   "nome": "São João Evangelista",
+   "tipo": "Pelotão BM",
+   "unidade": "6º BBM"
+  },
+  "3163706": {
+   "comando": "6º COB",
+   "nome": "São Lourenço",
+   "tipo": "Pelotão BM",
+   "unidade": "9º BBM"
+  },
+  "3164704": {
+   "comando": "6º COB",
+   "nome": "São Sebastião do Paraíso",
+   "tipo": "Pelotão BM",
+   "unidade": "1ª Cia Ind"
+  },
+  "3167202": {
+   "comando": "1º COB",
+   "nome": "Sete Lagoas",
+   "tipo": "Companhia Ind. BM",
+   "unidade": "5ª Cia Ind"
+  },
+  "3168606": {
+   "comando": "5º COB",
+   "nome": "Teófilo Otoni",
+   "tipo": "Companhia BM",
+   "unidade": "6º BBM"
+  },
+  "3168705": {
+   "comando": "5º COB",
+   "nome": "Timóteo",
+   "tipo": "Pelotão BM",
+   "unidade": "11º BBM"
+  },
+  "3169307": {
+   "comando": "6º COB",
+   "nome": "Três Corações",
+   "tipo": "Pelotão BM",
+   "unidade": "9º BBM"
+  },
+  "3169356": {
+   "comando": "4º COB",
+   "nome": "Três Marias",
+   "tipo": "Pelotão BM",
+   "unidade": "6ª Cia Ind"
+  },
+  "3169604": {
+   "comando": "2º COB",
+   "nome": "Tupaciguara",
+   "tipo": "Posto Avançado BM",
+   "unidade": "5º BBM"
+  },
+  "3169901": {
+   "comando": "3º COB",
+   "nome": "Ubá",
+   "tipo": "Companhia BM",
+   "unidade": "4º BBM"
+  },
+  "3170107": {
+   "comando": "2º COB / CEB",
+   "nome": "Uberaba",
+   "tipo": "Batalhão BM / 4ª CEOA / PEMAD / PBRESC",
+   "unidade": "8º BBM"
+  },
+  "3170206": {
+   "comando": "2º COB",
+   "nome": "Uberlândia",
+   "tipo": "Batalhão BM",
+   "unidade": "5º BBM"
+  },
+  "3170404": {
+   "comando": "2º COB",
+   "nome": "Unaí",
+   "tipo": "Companhia BM",
+   "unidade": "12º BBM"
+  },
+  "3170701": {
+   "comando": "6º COB / CEB",
+   "nome": "Varginha",
+   "tipo": "Batalhão BM / 2ª CEOA / PBRESC",
+   "unidade": "9º BBM"
+  },
+  "3171006": {
+   "comando": "2º COB",
+   "nome": "Vazante",
+   "tipo": "Brigada Municipal",
+   "unidade": "12º BBM"
+  },
+  "3171204": {
+   "comando": "1º COB",
+   "nome": "Vespasiano",
+   "tipo": "Pelotão BM",
+   "unidade": "3º BBM"
+  },
+  "3171303": {
+   "comando": "3º COB",
+   "nome": "Viçosa",
+   "tipo": "Pelotão BM",
+   "unidade": "4º BBM"
+  }
+ }
+}
