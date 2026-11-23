@@ -1,0 +1,80 @@
+---
+titulo: "Decreto nº 9687, de 13/12/2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "9687"
+data: "2021-12-13"
+ementa: "ABRE CREDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$154.000.00"
+situacao: "Em vigor"
+revogada: null
+publicacao: ""
+municipio: "Salinas"
+uf: "MG"
+codigo_ibge: "3157005"
+orgao: "Prefeitura Municipal"
+versao_texto: "arquivo publicado"
+fonte: "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples"
+fonte_texto: "https://www.salinas.mg.gov.br/publicos/9687_10113950.pdf"
+id_instar: "CBPoxz"
+atualizado_na_fonte: ""
+sha256_fonte: "f5a5a29d770a29f52aae8b57392a1127bf9e1018c6366e4a51318ed8409c2a46"
+baixado_em: "2026-11-23"
+---
+
+# Decreto nº 9687, de 13/12/2021
+
+MUNICÍPIO: SALINAS FOLHA: 1
+
+O PREFEITO MUNICIPAL de SALINAS, no uso de suas atribuições legais, nos termos da Lei No 4320/64 e,
+
+Lei Municipal Nº 2624 / 2020 CONSIDERANDO: a preencher. DECRETA: Artigo 1º - Ficam abertos creditos Adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente: 02 PODER EXECUTIVO 02.03 SECRETARIA MUN.DE GESTÃO FAZENDARIA 02.03.01 SECRETARIA MUN. DE GESTÃO FAZENDARI
+
+04.129 Administracao de Receitas 04.129.0048 ADMINISTRAÇÃO TRIBUTÁRIA 04.129.0048.2037 Despesas C/Departamento de Fiscalização 3.1.90.04.00 096 Contratação por Tempo Determinado 4.000.00
+
+02.05 SECRETARIA MUNICIPAL DE DESEN. ECONOMICO 02.05.01 SECRETARIA MUNICIPAL DE DESEN. ECONOMICO 23 Comercio e Servicos 23.691 Promocao Comercial 23.691.0005 DESENVOLVIMENTO ECONÔMICO 23.691.0005.1041 AQUIS.MOVEIS E EQUIPAMENTOS P/SEC.DESEN 4.4.90.52.00 205 Equipamento e Material Permanente 5.000.00 1.24.00 Outras Transferências de Convênios 5.000.00 02.07 SEC.MUN DE DESENVOLVIMENTO SOCIAL 02.07.02 FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL 08 Assistencia Social 08.122 Administracao Geral 08.122.0017 Sistema Unico de Assistência Social 08.122.0017.2216 MANUT DE SERV.REGIONALIZADOS P/ACOLHIM. 3.1.90.13.00 517 Obrigações Patronais 4.000.00
+
+02.08 SEC.MUN.DE OBRAS PUBL TRANSP E TRANSITO 02.08.01 SEC. MUN. DE OBRAS PUB.TRANSP.E TRANSITO 15 Urbanismo 15.452 Servicos Urbanos 15.452.0152 LIMPEZA URBANA 15.452.0152.2276 MANUT.DE DESPESA C/LIMPEZA URBANA 3.1.90.04.00 616 Contratação por Tempo Determinado 13.000.00 1.00.00 Recursos Ordinários 13.000.00 3.1.90.11.00 617 Vencimentos e Vant. Fixas- Pessoal Civil 55.000.00 1.00.00 Recursos Ordinários 55.000.00
+
+26.782 Transporte Rodoviario 26.782.0262 CONSERVAÇÃO DE RODOVIAS E ESTRADAS VICI 26.782.0262.2302 MANUT DE DESPESAS C/ESTRADAS VICINAIS 3.1.90.04.00 677 Contratação por Tempo Determinado 8.000.00 1.00.00 Recursos Ordinários 8.000.00 3.1.90.11.00 678 Vencimentos e Vant. Fixas- Pessoal Civil 20.000.00
+
+MUNICÍPIO: SALINAS FOLHA: 2
+
+1.00.00 Recursos Ordinários 20.000.00 02.09 SECRETARIA MUN. DE EDUCAÇÃO E CULTURA 02.09.01 SEC. MUNICIPAL DE EDUCACAO E CULTURA 12 Educacao 12.122 Administracao Geral 12.122.0041 ADMINISTRAÇÃO PÚBLICA MUNICIPAL 12.122.0041.2310 DESPESAS DE CUSTEIO C/SECRETARIA DE EDU 3.1.90.04.00 728 Contratação por Tempo Determinado 20.000.00 1.01.00 Recursos Próprios - Educação mínimo 20.000.00 02.06 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 02.06.01 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 18 Gestao Ambiental 18.541 Preservacao e Conservacao Ambiental 18.541.0181 PRESERVAÇÃO DO MEIO AMBIENTE 18.541.0181.2154 MANUT.DE ATIVIDADES C/PRESERVAÇÃO DO ME 3.3.90.30.00 1345 Material de Consumo 5.000.00 1.00.00 Recursos Ordinários 5.000.00 20 Agricultura 20.605 Abastecimento 20.605.0202 APOIO AS ATIVIDADES DIRETAMENTE PRODUTI 20.605.0202.2160 MANUT.DE DESPESA C/MERCADO MUNICIPAL 3.1.90.11.00 1356 Vencimentos e Vant. Fixas- Pessoal Civil 15.000.00 1.00.00 Recursos Ordinários 15.000.00 02.11 SECRETARIA MUNICIPAL DE TRANSPORTE E TRÂ 02.11.01 SECRETARIA MUNICIPAL DE TRANSPORTE E TRÂ
+
+26.122 Administracao Geral 26.122.0046 SUPERVISÃO E COORDENAÇÃO SUPERIOR 26.122.0046.2382 MANUT DE DESPESAS C/DEPTO DE TRANSPORTE 3.1.90.04.00 1372 Contratação por Tempo Determinado 5.000.00 1.00.00 Recursos Ordinários 5.000.00
+
+TOTAL DOS CRÉDITOS: R$ 154.000.00
+
+**Artigo 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4320/64: 02 PODER EXECUTIVO 02.03 SECRETARIA MUN.DE GESTÃO FAZENDARIA 02.03.01 SECRETARIA MUN. DE GESTÃO FAZENDARI
+
+04.129 Administracao de Receitas 04.129.0048 ADMINISTRAÇÃO TRIBUTÁRIA 04.129.0048.2037 Despesas C/Departamento de Fiscalização 3.1.90.94.00 098 Indenizações e Restituições Trabalhistas 4.000.00
+
+02.05 SECRETARIA MUNICIPAL DE DESEN. ECONOMICO 02.05.01 SECRETARIA MUNICIPAL DE DESEN. ECONOMICO 23 Comercio e Servicos
+
+MUNICÍPIO: SALINAS FOLHA: 3
+
+23.695 Turismo 23.695.0232 PROMOÇÃO DO DESENVOLVIMENTO DO TURISMO 23.695.0232.2138 MANUT. DE ATIVIDADES C/MUSEU DA CACHAÇA 3.1.90.13.00 268 Obrigações Patronais 5.000.00 1.24.00 Outras Transferências de Convênios 5.000.00 02.07 SEC.MUN DE DESENVOLVIMENTO SOCIAL 02.07.02 FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL 08 Assistencia Social 08.122 Administracao Geral 08.122.0017 Sistema Unico de Assistência Social 08.122.0017.2236 MANUT DE DESPESA C/ATIV.BOLSA FAMILIA 3.1.90.04.00 525 Contratação por Tempo Determinado 4.000.00
+
+02.08 SEC.MUN.DE OBRAS PUBL TRANSP E TRANSITO 02.08.01 SEC. MUN. DE OBRAS PUB.TRANSP.E TRANSITO
+
+26.782 Transporte Rodoviario 26.782.0262 CONSERVAÇÃO DE RODOVIAS E ESTRADAS VICI 26.782.0262.2302 MANUT DE DESPESAS C/ESTRADAS VICINAIS 3.3.90.30.00 679 Material de Consumo 20.000.00 1.00.00 Recursos Ordinários 20.000.00 02.09 SECRETARIA MUN. DE EDUCAÇÃO E CULTURA 02.09.01 SEC. MUNICIPAL DE EDUCACAO E CULTURA 12 Educacao 12.122 Administracao Geral 12.122.0041 ADMINISTRAÇÃO PÚBLICA MUNICIPAL 12.122.0041.2310 DESPESAS DE CUSTEIO C/SECRETARIA DE EDU 3.3.90.39.00 736 Outros Serv. Terceiros - Pessoa Jurídica 20.000.00 1.01.00 Recursos Próprios - Educação mínimo 20.000.00 02.02 SECRETARIA MUN. DE AÇÕES GOVERNAMENTAIS 02.02.01 SECRETARIA MUN.DE AÇÕES GOVERNAMENTAIS
+
+04.122 Administracao Geral 04.122.0413 APOIO A ADMINISTRAÇÃO PÚBLICA 04.122.0413.1058 CONSTRUÇÃO DO CENTRO ADMINISTRATIVO 4.4.90.51.00 1244 Obras e Instalações 8.000.00 1.00.00 Recursos Ordinários 8.000.00 04.121 Planejamento e Orcamento 04.121.0412 PROGRAMA DE PLANEJAMENTO E GESTÃO 04.121.0412.2030 MANUT.DE DESPESA C/PLANEJAMENTO 3.1.90.11.00 1246 Vencimentos e Vant. Fixas- Pessoal Civil 83.000.00 1.00.00 Recursos Ordinários 83.000.00 02.06 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 02.06.01 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 20 Agricultura 20.605 Abastecimento 20.605.0202 APOIO AS ATIVIDADES DIRETAMENTE PRODUTI 20.605.0202.1073 CONSTRUÇÃO/REFORMA DO MERCADO MUNICIPAL 4.4.90.51.00 1320 Obras e Instalações 5.000.00
+
+MUNICÍPIO: SALINAS FOLHA: 4
+
+1.00.00 Recursos Ordinários 5.000.00 02.11 SECRETARIA MUNICIPAL DE TRANSPORTE E TRÂ 02.11.01 SECRETARIA MUNICIPAL DE TRANSPORTE E TRÂ
+
+26.122 Administracao Geral 26.122.0046 SUPERVISÃO E COORDENAÇÃO SUPERIOR 26.122.0046.2382 MANUT DE DESPESAS C/DEPTO DE TRANSPORTE 3.3.90.30.00 1375 Material de Consumo 5.000.00 1.00.00 Recursos Ordinários 5.000.00
+
+TOTAL: R$ 154.000.00
+
+**Artigo 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação.
+
+SALINAS, 13 DE DEZEMBRO DE 2021
+
+JOAQUIM NERES XAVIER DIAS CPF: 579.132.346-87 Prefeito Municipal
+
+## Anexos
+
+- [Anexo 1](https://www.salinas.mg.gov.br/portal/download/legislacao/CGPoxz/)

@@ -1,0 +1,68 @@
+---
+titulo: "Decreto nº 9703, de 27/12/2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "9703"
+data: "2021-12-27"
+ementa: "ABRE CREDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$167.100.00"
+situacao: "Em vigor"
+revogada: null
+publicacao: ""
+municipio: "Salinas"
+uf: "MG"
+codigo_ibge: "3157005"
+orgao: "Prefeitura Municipal"
+versao_texto: "arquivo publicado"
+fonte: "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples"
+fonte_texto: "https://www.salinas.mg.gov.br/publicos/9703_10115051.pdf"
+id_instar: "GhPo-P"
+atualizado_na_fonte: ""
+sha256_fonte: "c735c0daca03f20ff705a77b63c87da5db10de710efface5052ece6cbd8b6382"
+baixado_em: "2026-11-23"
+---
+
+# Decreto nº 9703, de 27/12/2021
+
+MUNICÍPIO: SALINAS FOLHA: 1
+
+O PREFEITO MUNICIPAL de SALINAS, no uso de suas atribuições legais, nos termos da Lei No 4320/64 e,
+
+Lei Municipal Nº 2624 / 2020 CONSIDERANDO: a preencher. DECRETA: Artigo 1º - Ficam abertos creditos Adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente: 02 PODER EXECUTIVO 02.01 GABINETE E SECRETARIA DO PREFEITO 02.01.01 GABINETE E SECRETARIA DO PREFEITO
+
+04.122 Administracao Geral 04.122.0046 SUPERVISÃO E COORDENAÇÃO SUPERIOR 04.122.0046.2022 MANUT.DE DESPESAS C/GABINETE DO PREFEIT 3.3.90.30.00 057 Material de Consumo 2.000.00 1.00.00 Recursos Ordinários 2.000.00 02.03 SECRETARIA MUN.DE GESTÃO FAZENDARIA 02.03.01 SECRETARIA MUN. DE GESTÃO FAZENDARI
+
+04.061 Acao Judiciaria 04.061.0044 JULGAMENTO ADMINIST.DE DIREITOS RECLAMA 04.061.0044.2040 SENTENÇA JUDICIAL E ACORDOS ADMINISTRAT 3.3.90.91.00 076 Sentenças Judiciais 91.000.00 1.00.00 Recursos Ordinários 91.000.00 02.09 SECRETARIA MUN. DE EDUCAÇÃO E CULTURA 02.09.01 SEC. MUNICIPAL DE EDUCACAO E CULTURA 12 Educacao 12.361 Ensino Fundamental 12.361.0122 ATENDIMENTO AO ENSINO FUNDAMENTAL 12.361.0122.2326 MANUTENÇÃO DE ATIVIDADES C/ENSINO FUNDA 3.1.90.04.00 772 Contratação por Tempo Determinado 1.200.00 1.18.00 Transf. FUNDEB Aplicação Remuneração 1.200.00 12.361.0128 TRANSPORTE ESCOLAR 12.361.0128.2336 DESPESAS C/MANUT.DO TRANSPORTE ESCOLAR 3.1.90.04.00 802 Contratação por Tempo Determinado 14.800.00 1.18.00 Transf. FUNDEB Aplicação Remuneração 14.800.00 12.365 Educacao Infantil 12.365.0124 ATENDIMENTO AO ENSINO INFANTIL 12.365.0124.2364 MANUT DE ATIVIDADES C/ENSINO INFANTIL 3.1.90.04.00 869 Contratação por Tempo Determinado 18.100.00 1.18.00 Transf. FUNDEB Aplicação Remuneração 18.100.00 3.1.90.11.00 870 Vencimentos e Vant. Fixas- Pessoal Civil 34.000.00 1.01.00 Recursos Próprios - Educação mínimo 34.000.00 12.365.0124.2369 PAGTO DE PROFESSORES DO ENSINO INFANTIL 3.1.90.11.00 891 Vencimentos e Vant. Fixas- Pessoal Civil 2.000.00 1.18.00 Transf. FUNDEB Aplicação Remuneração 2.000.00 02.02 SECRETARIA MUN. DE AÇÕES GOVERNAMENTAIS 02.02.01 SECRETARIA MUN.DE AÇÕES GOVERNAMENTAIS
+
+MUNICÍPIO: SALINAS FOLHA: 2
+
+04.181 Policiamento 04.181.0061 APOIO AS POLICIAS MILITAR E CIVIL 04.181.0061.2088 DESPESA C/CUSTEIO DA GUARDA MUNICIPAL 3.3.90.30.00 1287 Material de Consumo 1.000.00 1.00.00 Recursos Ordinários 1.000.00 02.06 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 02.06.01 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 20 Agricultura 20.122 Administracao Geral 20.122.0046 SUPERVISÃO E COORDENAÇÃO SUPERIOR 20.122.0046.2142 MANUT.DE DESPESA C/DEPTO DE DESENV.AGRI 3.3.90.30.00 1329 Material de Consumo 3.000.00 1.00.00 Recursos Ordinários 3.000.00
+
+TOTAL DOS CRÉDITOS: R$ 167.100.00
+
+**Artigo 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4320/64: 02 PODER EXECUTIVO 02.01 GABINETE E SECRETARIA DO PREFEITO 02.01.01 GABINETE E SECRETARIA DO PREFEITO
+
+04.131 Comunicacao Social 04.131.0413 APOIO A ADMINISTRAÇÃO PÚBLICA 04.131.0413.2026 MANUT.DE ATIV.C/ASSESSORIA DE COMUNICAÇ 3.3.90.39.00 075 Outros Serv. Terceiros - Pessoa Jurídica 2.000.00 1.00.00 Recursos Ordinários 2.000.00 02.03 SECRETARIA MUN.DE GESTÃO FAZENDARIA 02.03.01 SECRETARIA MUN. DE GESTÃO FAZENDARI
+
+04.123 Administracao Financeira 04.123.0048 ADMINISTRAÇÃO TRIBUTÁRIA 04.123.0048.1023 AQUIS.DE MOVEIS E EQUIP.P/SEC.FAZENDA 4.4.90.52.00 077 Equipamento e Material Permanente 20.000.00 1.00.00 Recursos Ordinários 20.000.00 04.129 Administracao de Receitas 04.129.0041 ADMINISTRAÇÃO PÚBLICA MUNICIPAL 04.129.0041.2042 MANUTENÇÃO DE CUSTEIO C/CONTABILIDADE 3.3.90.35.00 092 Serviços de Consultoria 11.000.00 1.00.00 Recursos Ordinários 11.000.00 28 Encargos Especiais 28.843 Servico da Divida Interna 28.843.0281 CONTROLE DA DÍVIDA 28.843.0281.2046 ENGARGOS DA DÍVIDA INTERNA 3.2.90.22.00 109 Outros Encargos S. Dívida Por Contrato 10.000.00 1.00.00 Recursos Ordinários 10.000.00 02.07 SEC.MUN DE DESENVOLVIMENTO SOCIAL 02.07.01 SEC.MUN DE DESENVOLVIMENTO SOCIAL
+
+MUNICÍPIO: SALINAS FOLHA: 3
+
+08 Assistencia Social 08.244 Assistencia Comunitaria 08.244.0801 ASSISTÊNCIA SOCIAL GERAL 08.244.0801.1109 AQUIS.DE MOVEIS E EQUIPAMENTOS P/O PAA. 4.4.90.52.00 351 Equipamento e Material Permanente 10.000.00 1.00.00 Recursos Ordinários 10.000.00 08.244.0801.2235 Manut.do Banco de Alimentos 3.3.90.32.00 371 Material, Bem ou Serviço p/Dist.Gratuita 40.000.00 1.00.00 Recursos Ordinários 40.000.00 02.09 SECRETARIA MUN. DE EDUCAÇÃO E CULTURA 02.09.01 SEC. MUNICIPAL DE EDUCACAO E CULTURA 12 Educacao 12.361 Ensino Fundamental 12.361.0122 ATENDIMENTO AO ENSINO FUNDAMENTAL 12.361.0122.2326 MANUTENÇÃO DE ATIVIDADES C/ENSINO FUNDA 3.3.90.39.00 780 Outros Serv. Terceiros - Pessoa Jurídica 3.200.00 1.19.00 Transf. FUNDEB Aplicação Outras 3.200.00 12.361.0122.2330 PAGTO DE PROF.DO ENSINO FUNDAM.FUNDEB 6 3.1.90.94.00 787 Indenizações e Restituições Trabalhistas 11.500.00 1.18.00 Transf. FUNDEB Aplicação Remuneração 11.500.00 12.361.0122.2332 MANUT.DE ATIV.C/ENSINO FUNDAM/ FUNDEB-4 3.1.90.11.00 789 Vencimentos e Vant. Fixas- Pessoal Civil 21.400.00 1.19.00 Transf. FUNDEB Aplicação Outras 21.400.00 12.365 Educacao Infantil 12.365.0124 ATENDIMENTO AO ENSINO INFANTIL 12.365.0124.2366 PAGTO DE PROF. DO ENSINO INFANTIL-FUNDE 3.1.90.13.00 881 Obrigações Patronais 34.000.00 1.01.00 Recursos Próprios - Educação mínimo 34.000.00 02.02 SECRETARIA MUN. DE AÇÕES GOVERNAMENTAIS 02.02.01 SECRETARIA MUN.DE AÇÕES GOVERNAMENTAIS
+
+04.181 Policiamento 04.181.0061 APOIO AS POLICIAS MILITAR E CIVIL 04.181.0061.2088 DESPESA C/CUSTEIO DA GUARDA MUNICIPAL 3.3.90.36.00 1288 Outros Serviços Terceiros- Pessoa Física 1.000.00 1.00.00 Recursos Ordinários 1.000.00 02.06 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 02.06.01 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 20 Agricultura 20.122 Administracao Geral 20.122.0046 SUPERVISÃO E COORDENAÇÃO SUPERIOR 20.122.0046.2142 MANUT.DE DESPESA C/DEPTO DE DESENV.AGRI 3.3.90.39.00 1332 Outros Serv. Terceiros - Pessoa Jurídica 3.000.00 1.00.00 Recursos Ordinários 3.000.00
+
+TOTAL: R$ 167.100.00
+
+**Artigo 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua
+
+MUNICÍPIO: SALINAS FOLHA: 4
+
+publicação.
+
+SALINAS, 27 DE DEZEMBRO DE 2021
+
+JOAQUIM NERES XAVIER DIAS CPF: 579.132.346-87 Prefeito Municipal
+
+## Anexos
+
+- [Anexo 1](https://www.salinas.mg.gov.br/portal/download/legislacao/snPo-P/)

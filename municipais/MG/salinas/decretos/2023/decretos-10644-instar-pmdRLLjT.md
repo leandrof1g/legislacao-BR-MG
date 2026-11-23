@@ -1,0 +1,102 @@
+---
+titulo: "Decreto nº 10644, de 29/09/2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "10644"
+data: "2023-09-29"
+ementa: "ABRE CREDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$237.900,00"
+situacao: "Em vigor"
+revogada: null
+publicacao: ""
+municipio: "Salinas"
+uf: "MG"
+codigo_ibge: "3157005"
+orgao: "Prefeitura Municipal"
+versao_texto: "arquivo publicado"
+fonte: "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples"
+fonte_texto: "https://www.salinas.mg.gov.br/publicos/10644_01104512.pdf"
+id_instar: "dRLLjT"
+atualizado_na_fonte: ""
+sha256_fonte: "b069c8110e1d9b834611567e0906ee7829c58e49c5b38dcad719a84f06e1b7ac"
+baixado_em: "2026-11-23"
+---
+
+# Decreto nº 10644, de 29/09/2023
+
+MUNICÍPIO: SALINAS FOLHA: 1
+
+O PREFEITO MUNICIPAL de SALINAS, no uso de suas atribuições legais, nos termos da Lei No 4320/64 e,
+
+Lei Municipal Nº 2727 / 2023 CONSIDERANDO: REALIZAÇAO DE DESPESAS A QUAL NÃO FOI PREVISTA O SUFICENTE NA DOTAÇÃO, SENDO NECESSARIO A SUPLEMENTAÇÃO. DECRETA: Artigo 1º - Ficam abertos creditos Adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente: 02 PODER EXECUTIVO 02.02 SECRETARIA MUN. DE GOVERNO 02.02.01 SECRETARIA MUN.DE GOVERNO 04 Administracao 04.122 Administracao Geral 04.122.0041 ADMINISTRAÇÃO PÚBLICA MUNICIPAL 04.122.0041.2052 MANUT.DE ATIVIDADES C/A SECRETARIA DE A 3.1.90.94.00 107 Indenizações e Restituições Trabalhistas 11.000,00 1.500.000.0000 Recursos não vinculados de Impostos 11.000,00 02.03 SECRETARIA MUN.DE PLANEJAMENTO E GESTÃO 02.03.01 SECRETARIA MUN. DE GESTÃO FAZENDARI 04 Administracao 04.129 Administracao de Receitas 04.129.0048 ADMINISTRAÇÃO TRIBUTÁRIA 04.129.0048.2037 Despesas C/Departamento de Fiscalização 3.3.90.46.00 204 Auxílio-alimentação 3.000,00
+
+04.129.0048.2047 MANUT DE DESPESAS C/SETOR TRIBUTÁRIO 3.1.90.04.00 206 Contratação por Tempo Determinado 14.000,00
+
+02.05 SECRETARIA MUNICIPAL DE DESEN. ECONOMIC 02.05.01 SECRETARIA MUNICIPAL DE DESEN. ECONOMIC 23 Comercio e Servicos 23.695 Turismo 23.695.0232 PROMOÇÃO DO DESENVOLVIMENTO DO TURISMO 23.695.0232.2138 MANUT. DE ATIVIDADES C/MUSEU DA CACHAÇA 3.3.90.46.00 309 Auxílio-alimentação 3.000,00
+
+02.06 SEC. MUN. DESEN.AGRICOLA E MEIO AMBIE 02.06.01 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 20 Agricultura 20.122 Administracao Geral 20.122.0046 SUPERVISÃO E COORDENAÇÃO SUPERIOR 20.122.0046.2142 MANUT.DE DESPESA C/DEPTO DE DESENV.AGRI 3.1.90.04.00 339 Contratação por Tempo Determinado 5.000,00
+
+02.07 SEC.MUN DE DESENVOLVIMENTO SOCIAL E PO 02.07.01 SEC.MUN DE DESENVOLVIMENTO SOCIAL 14 Direitos da Cidadania 14.244 Assistencia Comunitaria 14.244.0018 Defesa dos Direitos e Cidadania 14.244.0018.2186 MANUT DE ATIVIDADES C/CONSELHO TUTELAR 3.3.90.36.00 437 Outros Serviços Terceiros- Pessoa Física 8.000,00
+
+02.07.02 FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+MUNICÍPIO: SALINAS FOLHA: 2
+
+08 Assistencia Social 08.122 Administracao Geral 08.122.0017 Sistema Unico de Assistência Social 08.122.0017.2216 MANUT DE SERV.REGIONALIZADOS P/ACOLHIM. 3.1.90.04.00 588 Contratação por Tempo Determinado 20.000,00 1.501.000.0000 Outros Recursos não Vinculados 20.000,00 08.122.0806 GESTÃO DA POLITICA DE ASSISTÊNCIA SOCIA 08.122.0806.1103 AQUIS.DE MOVEIS E EQUIPAM.P/FUNDO MUN.A 4.4.90.52.00 617 Equipamento e Material Permanente 9.400,00 1.500.000.0000 Recursos não vinculados de Impostos 9.400,00 02.08 SEC.MUN.DE OBRAS PUBLICAS 02.08.01 SEC. MUN. DE OBRAS PUB.TRANSP.E TRANSIT 25 Energia 25.481 Habitacao Rural 25.481.0254 ELETRIFICAÇÃO RURAL E URBANA 25.481.0254.2296 MANUT DAS ATIV.C/SERV.ELETRIC.RURAL E U 3.3.90.39.00 733 Outros Serv. Terceiros - Pessoa Jurídica 15.000,00
+
+26 Transporte 26.782 Transporte Rodoviario 26.782.0262 CONSERVAÇÃO DE RODOVIAS E ESTRADAS VICI 26.782.0262.2302 MANUT DE DESPESAS C/ESTRADAS VICINAIS 3.1.90.04.00 745 Contratação por Tempo Determinado 6.000,00
+
+3.3.90.30.00 747 Material de Consumo 50.000,00 1.500.000.0000 Recursos não vinculados de Impostos 50.000,00 02.09 SECRETARIA MUN. DE EDUCAÇÃO 02.09.01 SEC. MUNICIPAL DE EDUCACAO E CULTURA 12 Educacao 12.122 Administracao Geral 12.122.0041 ADMINISTRAÇÃO PÚBLICA MUNICIPAL 12.122.0041.2310 DESPESAS DE CUSTEIO C/SECRETARIA DE EDU 3.1.90.94.00 759 Indenizações e Restituições Trabalhistas 3.000,00
+
+3.3.90.46.00 766 Auxílio-alimentação 15.000,00
+
+12.361 Ensino Fundamental 12.361.0122 ATENDIMENTO AO ENSINO FUNDAMENTAL 12.361.0122.2331 Pagto de Profissionais da Educ. do Ensi 3.1.90.11.00 820 Vencimentos e Vant. Fixas- Pessoal Civil 55.000,00 1.540.000.0000 Transferências do FUNDEB - Impostos / 55.000,00 12.361.0122.2333 Manut.de Desp.C/Ensino Fundamental - 30 3.3.90.46.00 832 Auxílio-alimentação 5.000,00 1.540.000.0000 Transferências do FUNDEB - Impostos / 5.000,00 12.365 Educacao Infantil 12.365.0124 ATENDIMENTO AO ENSINO INFANTIL 12.365.0124.2364 MANUT DE ATIVIDADES C/ENSINO INFANTIL 3.1.90.94.00 897 Indenizações e Restituições Trabalhistas 1.500,00 1.500.000.0000 Recursos não vinculados de Impostos 1.500,00 3.3.90.46.00 903 Auxílio-alimentação 14.000,00
+
+TOTAL DOS CRÉDITOS: R$ 237.900,00
+
+MUNICÍPIO: SALINAS FOLHA: 3
+
+**Artigo 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4320/64: 02 PODER EXECUTIVO 02.02 SECRETARIA MUN. DE GOVERNO 02.02.01 SECRETARIA MUN.DE GOVERNO 04 Administracao 04.061 Acao Judiciaria 04.061.0044 JULGAMENTO ADMINIST.DE DIREITOS RECLAMA 04.061.0044.2048 PAGAMENTO DE SENTENÇAS JUDICIAIS E ACOR 3.3.90.91.00 095 Sentenças Judiciais 5.000,00
+
+04.122 Administracao Geral 04.122.0414 MODERNIZAÇÃO E INTEGRAÇÃO DA INFORMATIC 04.122.0414.2071 Despesas C/Projeto Cidades Digitais 3.3.90.39.00 140 Outros Serv. Terceiros - Pessoa Jurídica 3.000,00
+
+04.181 Policiamento 04.181.0061 APOIO AS POLICIAS MILITAR E CIVIL 04.181.0061.1038 AQUIS.DE EQUIP.P/SEGUR.PUBLICA-OLHO VIV 4.4.90.52.00 147 Equipamento e Material Permanente 6.000,00
+
+02.03 SECRETARIA MUN.DE PLANEJAMENTO E GESTÃO 02.03.01 SECRETARIA MUN. DE GESTÃO FAZENDARI 04 Administracao 04.129 Administracao de Receitas 04.129.0048 ADMINISTRAÇÃO TRIBUTÁRIA 04.129.0048.2047 MANUT DE DESPESAS C/SETOR TRIBUTÁRIO 3.3.90.40.00 214 Serv. de TI e Comunicação - PJ 8.000,00
+
+02.05 SECRETARIA MUNICIPAL DE DESEN. ECONOMIC 02.05.01 SECRETARIA MUNICIPAL DE DESEN. ECONOMIC 22 Industria 22.661 Promocao Industrial 22.661.0221 PROMOÇÃO AO DESENVOLVIMENTO INDUSTRIAL 22.661.0221.2115 PAGAMENTO DO SEGURO SAFRA 3.3.90.36.00 225 Outros Serviços Terceiros- Pessoa Física 5.000,00
+
+23 Comercio e Servicos 23.695 Turismo 23.695.0232 PROMOÇÃO DO DESENVOLVIMENTO DO TURISMO 23.695.0232.2135 APOIO AO CIRCUITO TURISTICO DA CAC 3.3.70.41.00 299 Contribuições 6.000,00
+
+23.695.0232.2136 MANUT.DE DESPESA C/TERMINAL RODOVIARIO 3.3.90.30.00 302 Material de Consumo 10.000,00 1.500.000.0000 Recursos não vinculados de Impostos 10.000,00 23.695.0232.2138 MANUT. DE ATIVIDADES C/MUSEU DA CACHAÇA 3.1.90.13.00 305 Obrigações Patronais 10.000,00 1.500.000.0000 Recursos não vinculados de Impostos 10.000,00 3.3.90.30.00 306 Material de Consumo 3.000,00
+
+MUNICÍPIO: SALINAS FOLHA: 4
+
+02.06 SEC. MUN. DESEN.AGRICOLA E MEIO AMBIE 02.06.01 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 20 Agricultura 20.605 Abastecimento 20.605.0203 PROMOÇÃO DA PRODUÇÃO ANIMAL 20.605.0203.2159 Despesas com Atividades do SIM(Sistema 3.3.90.36.00 379 Outros Serviços Terceiros- Pessoa Física 5.000,00
+
+02.07 SEC.MUN DE DESENVOLVIMENTO SOCIAL E PO 02.07.01 SEC.MUN DE DESENVOLVIMENTO SOCIAL 14 Direitos da Cidadania 14.244 Assistencia Comunitaria 14.244.0018 Defesa dos Direitos e Cidadania 14.244.0018.2186 MANUT DE ATIVIDADES C/CONSELHO TUTELAR 3.3.90.30.00 435 Material de Consumo 8.000,00
+
+14.244.0018.2261 Manut. de Despesas C/Guarda Mirin Munic 3.1.90.94.00 499 Indenizações e Restituições Trabalhistas 4.500,00 1.500.000.0000 Recursos não vinculados de Impostos 4.500,00 02.07.02 FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL 08 Assistencia Social 08.122 Administracao Geral 08.122.0017 Sistema Unico de Assistência Social 08.122.0017.1098 Construção/Reforma do CASI 4.4.90.51.00 508 Obras e Instalações 9.400,00 1.500.000.0000 Recursos não vinculados de Impostos 9.400,00 02.08 SEC.MUN.DE OBRAS PUBLICAS 02.08.01 SEC. MUN. DE OBRAS PUB.TRANSP.E TRANSIT 15 Urbanismo 15.452 Servicos Urbanos 15.452.0152 LIMPEZA URBANA 15.452.0152.2276 MANUT.DE DESPESA C/LIMPEZA URBANA 3.3.90.30.00 689 Material de Consumo 19.000,00 1.500.000.0000 Recursos não vinculados de Impostos 19.000,00 15.452.0154 PARQUES E JARDINS 15.452.0154.2282 MANUT.DE DESPESAS C/SERVIÇOS URBANOS-PA 3.3.90.39.00 701 Outros Serv. Terceiros - Pessoa Jurídica 15.000,00
+
+17 Saneamento 17.511 Saneamento Basico Rural 17.511.0171 SISTEMA DE AGUA E ESGOTO 17.511.0171.2294 MANUT.DE DESPESA C/ABASTECIMENTO D"AGUA 3.1.90.11.00 727 Vencimentos e Vant. Fixas- Pessoal Civil 6.000,00
+
+02.09 SECRETARIA MUN. DE EDUCAÇÃO 02.09.01 SEC. MUNICIPAL DE EDUCACAO E CULTURA 12 Educacao 12.361 Ensino Fundamental 12.361.0122 ATENDIMENTO AO ENSINO FUNDAMENTAL 12.361.0122.2333 Manut.de Desp.C/Ensino Fundamental - 30 3.3.90.39.00 831 Outros Serv. Terceiros - Pessoa Jurídica 10.000,00
+
+MUNICÍPIO: SALINAS FOLHA: 5
+
+1.540.000.0000 Transferências do FUNDEB - Impostos / 10.000,00 12.361.0128 TRANSPORTE ESCOLAR 12.361.0128.2336 DESPESAS C/MANUT.DO TRANSPORTE ESCOLAR 3.1.90.04.00 837 Contratação por Tempo Determinado 15.000,00
+
+12.365 Educacao Infantil 12.365.0124 ATENDIMENTO AO ENSINO INFANTIL 12.365.0124.1250 CONST/AMPLIAÇÃO E REFORMA DE PREDIOS EN 4.4.90.51.00 888 Obras e Instalações 10.000,00 1.540.000.0000 Transferências do FUNDEB - Impostos / 10.000,00 12.365.0124.1251 CONSTRUÇÃO DE PREDIO PROINFANCIA-FNDE/M 4.4.90.51.00 889 Obras e Instalações 20.000,00 1.501.000.0000 Outros Recursos não Vinculados 20.000,00 12.365.0124.2364 MANUT DE ATIVIDADES C/ENSINO INFANTIL 3.3.90.39.00 902 Outros Serv. Terceiros - Pessoa Jurídica 20.000,00 1.540.000.0000 Transferências do FUNDEB - Impostos / 20.000,00 12.365.0124.2367 MANUT. DE ATIVIDADES COM ENSINO INFANTI 3.1.90.04.00 907 Contratação por Tempo Determinado 14.000,00
+
+3.3.90.46.00 916 Auxílio-alimentação 20.000,00 1.540.000.0000 Transferências do FUNDEB - Impostos / 20.000,00 02.10 SECRETARIA MUNICIPAL DE ESPORTE E JUVEN 02.10.01 SECRETARIA MUNICIPAL DE ESPORTE E LAZER 27 Desporto e Lazer 27.812 Desporto Comunitario 27.812.0271 DESPORTO AMADOR E PROFISSIONAL 27.812.0271.1267 AMPLIAÇÃO E REFORMA DO ESTADIO MUNICIPA 4.4.90.51.00 940 Obras e Instalações 6.000,00
+
+TOTAL: R$ 237.900,00
+
+**Artigo 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação.
+
+SALINAS, 29 DE SETEMBRO DE 2023
+
+JOAQUIM NERES XAVIER DIAS CPF: 579.132.346-87 Prefeito Municipal
+
+## Anexos
+
+- [Anexo 1](https://www.salinas.mg.gov.br/portal/download/legislacao/nCLLjT/)

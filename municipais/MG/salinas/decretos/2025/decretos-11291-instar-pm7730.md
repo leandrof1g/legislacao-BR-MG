@@ -1,0 +1,45 @@
+---
+titulo: "Decreto nº 11291, de 11/03/2025"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "11291"
+data: "2025-03-11"
+ementa: "Nomeia candidato aprovado no Processo Seletivo Público, Edital 01/2023."
+situacao: "Em vigor"
+revogada: null
+publicacao: ""
+municipio: "Salinas"
+uf: "MG"
+codigo_ibge: "3157005"
+orgao: "Prefeitura Municipal"
+versao_texto: "página do ato no portal (Instar)"
+fonte: "https://www.salinas.mg.gov.br/portal/leis_decretos/7730/"
+fonte_texto: "https://www.salinas.mg.gov.br/portal/leis_decretos/7730/"
+id_instar: "7730"
+atualizado_na_fonte: "29/05/2026"
+sha256_fonte: "73f3756178a229f5d5e5c7c4f772a432a117e3f8475f4c2a4f66b339d1ca1675"
+baixado_em: "2026-11-23"
+---
+
+# Decreto nº 11291, de 11/03/2025
+
+Nomeia candidato aprovado no Processo Seletivo Público, Edital 01/2023.
+
+O PREFEITO MUNICIPAL DE SALINAS, no uso de suas atribuições legais e considerando a Homologação do resultado final do Processo Seletivo Público Nº 001/2023, para contratação de Agentes Comunitários de Saúde e Agente de Combate às Endemias; por meio do Decreto 10.799 de 23 de janeiro de 2024;  
+  
+DECRETA:
+
+**Art. 1º** - Fica nomeada, a partir desta data, a candidata abaixo relacionada, com a respectiva ordem de classificação e área de abrangência conforme Anexo V do Edital 01/2023:  
+  
+CARGO 008 - AGENTE COMUNITÁRIO DE SAÚDE UBS NOVA FÁTIMA - ÁREA I
+
+<table>  	<tbody>  		<tr>  			<td>Juliana Teixeira Coelho</td>  			<td>Classificação 8</td>  		</tr>  	</tbody>  </table>
+
+**Art. 2º** - Este decreto entra em vigor na data de sua publicação.  
+  
+Registre-se, publique-se e cumpra-se.  
+  
+Salinas, 11 de março de 2025.
+
+JOAQUIM NERES XAVIER DIAS  
+Prefeito Municipal

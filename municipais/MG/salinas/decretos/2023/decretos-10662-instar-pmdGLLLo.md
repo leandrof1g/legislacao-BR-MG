@@ -1,0 +1,48 @@
+---
+titulo: "Decreto nº 10662, de 16/10/2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "10662"
+data: "2023-10-16"
+ementa: "ABRE CREDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$155.000,00"
+situacao: "Em vigor"
+revogada: null
+publicacao: ""
+municipio: "Salinas"
+uf: "MG"
+codigo_ibge: "3157005"
+orgao: "Prefeitura Municipal"
+versao_texto: "arquivo publicado"
+fonte: "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples"
+fonte_texto: "https://www.salinas.mg.gov.br/publicos/10662_28113130.pdf"
+id_instar: "dGLLLo"
+atualizado_na_fonte: ""
+sha256_fonte: "80250d58e6bc0b470e6acbf05195eb2373cfe2a808b421f22855b5946a8e3035"
+baixado_em: "2026-11-23"
+---
+
+# Decreto nº 10662, de 16/10/2023
+
+UF: MINAS GERAIS MUNICÍPIO: SALINAS FOLHA: 1
+
+DECRETO No:10662 /2023 ENTIDADE: CONSOLIDADA ABRE CREDITO ADICIONAL SUPLEMENTAR
+
+O PREFEITO MUNICIPAL de SALINAS, no uso de suas atribuições legais, nos termos da Lei No 4320/64 e,
+
+Lei Municipal Nº 2727 / 2023 CONSIDERANDO: Necessidade de reforço de dotações orçamentárias, por meio de excesso de arrecadação, nos termos do
+
+art. 43, § 1º, II, da Lei Federal nº 4.320/1964 DECRETA: Artigo 1º - Ficam abertos creditos Adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente: 02 PODER EXECUTIVO 02.12 FUNDO MUNICIPAL DE SAUDE 02.12.01 FUNDO MUNICIPAL DE SAUDE 10 Saude 10.302 Assist. Hospitalar e Ambulatorial 10.302.0109 Gestão da Atenção Especializada 10.302.0109.2418 MANUT.DE DESPESAS C/HOSPITAL MUNICIPAL- 3.3.90.30.00 1183 Material de Consumo 70.000,00 1.632.000.0000 Transf. Est. Ref. Conv.Inst Cong. 70.000,00 10.302.0109.2430 DESPESAS COM A HEMODIALISE 3.3.50.43.00 1233 Subvenções Sociais 85.000,00 1.605.000.0000 Assist.Financ Uniao compl. pagto piso 85.000,00
+
+TOTAL: R$ 155.000,00
+
+**Artigo 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4320/64. Por Excesso de Arrecadação: R$ 155.000,00
+
+**Artigo 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação.
+
+SALINAS, 16 DE OUTUBRO DE 2023
+
+JOAQUIM NERES XAVIER DIAS CPF: 579.132.346-87 Prefeito Municipal
+
+## Anexos
+
+- [Anexo 1](https://www.salinas.mg.gov.br/portal/download/legislacao/qRLLLo/)

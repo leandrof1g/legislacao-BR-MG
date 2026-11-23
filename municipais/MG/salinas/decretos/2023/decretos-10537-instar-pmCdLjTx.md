@@ -1,0 +1,78 @@
+---
+titulo: "Decreto nº 10537, de 07/07/2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "10537"
+data: "2023-07-07"
+ementa: "ABRE CREDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$1.262.800,00"
+situacao: "Em vigor"
+revogada: null
+publicacao: ""
+municipio: "Salinas"
+uf: "MG"
+codigo_ibge: "3157005"
+orgao: "Prefeitura Municipal"
+versao_texto: "arquivo publicado"
+fonte: "https://www.salinas.mg.gov.br/portal/leis_decretos/1/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples"
+fonte_texto: "https://www.salinas.mg.gov.br/publicos/10537_24113555.pdf"
+id_instar: "CdLjTx"
+atualizado_na_fonte: ""
+sha256_fonte: "6149cb089d768790bdbd7dd7d7d8f36a73c4ea5129e5845f1893222ae74b8f08"
+baixado_em: "2026-11-23"
+---
+
+# Decreto nº 10537, de 07/07/2023
+
+MUNICÍPIO: SALINAS FOLHA: 1
+
+O PREFEITO MUNICIPAL de SALINAS, no uso de suas atribuições legais, nos termos da Lei No 4320/64 e,
+
+Lei Municipal Nº 2727 / 2023 CONSIDERANDO: REALIZAÇAO DE DESPESAS A QUAL NÃO FOI PREVISTA O SUFICENTE NA DOTAÇÃO, SENDO NECESSARIO A SUPLEMENTAÇÃO. DECRETA: Artigo 1º - Ficam abertos creditos Adicionais SUPLEMENTARES para suprir as seguintes dotações do orçamento vigente: 02 PODER EXECUTIVO 02.01 GABINETE E SECRETARIA DO PREFEITO 02.01.01 GABINETE E SECRETARIA DO PREFEITO
+
+04.122.0046 SUPERVISÃO E COORDENAÇÃO SUPERIOR 04.122.0046.1011 AQUIS.DE BENS MOVEIS P/GABINETE DO PREF 4.4.90.52.00 053 Equipamento e Material Permanente 30.000,00 1.500.000.0000 Recursos não vinculados de Impostos 30.000,00 04.131 Comunicacao Social 04.131.0413 APOIO A ADMINISTRAÇÃO PÚBLICA 04.131.0413.2026 MANUT.DE ATIV.C/ASSESSORIA DE COMUNICAÇ 3.3.90.39.00 093 Outros Serv. Terceiros - Pessoa Jurídica 70.000,00 1.500.000.0000 Recursos não vinculados de Impostos 70.000,00 02.02 SECRETARIA MUN. DE GOVERNO 02.02.01 SECRETARIA MUN.DE GOVERNO
+
+04.122.0041 ADMINISTRAÇÃO PÚBLICA MUNICIPAL 04.122.0041.1027 AQUIS.DE MOVEIS E EQUIP.P/SEC.ADMINISTR 4.4.90.52.00 104 Equipamento e Material Permanente 17.500,00 1.754.000.0000 Recursos de Operações de Crédito 17.500,00 04.122.0413 APOIO A ADMINISTRAÇÃO PÚBLICA 04.122.0413.2069 Manutenção de Atividades C/PROCON 3.3.90.39.00 135 Outros Serv. Terceiros - Pessoa Jurídica 18.000,00 1.500.000.0000 Recursos não vinculados de Impostos 18.000,00 02.05 SECRETARIA MUNICIPAL DE DESEN. ECONOMIC 02.05.01 SECRETARIA MUNICIPAL DE DESEN. ECONOMIC 23 Comercio e Servicos 23.691 Promocao Comercial 23.691.0005 DESENVOLVIMENTO ECONÔMICO 23.691.0005.2106 MANUT DE DESPESAS C/SECRETARIA DE TURIS 3.3.90.39.00 252 Outros Serv. Terceiros - Pessoa Jurídica 500,00 1.501.000.0000 Outros Recursos não Vinculados 500,00 02.06 SEC. MUN. DESEN.AGRICOLA E MEIO AMBIE 02.06.01 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 20 Agricultura 20.605 Abastecimento 20.605.0202 APOIO AS ATIVIDADES DIRETAMENTE PRODUTI 20.605.0202.2160 MANUT.DE DESPESA C/MERCADO MUNICIPAL 3.3.90.39.00 354 Outros Serv. Terceiros - Pessoa Jurídica 20.000,00
+
+MUNICÍPIO: SALINAS FOLHA: 2
+
+1.500.000.0000 Recursos não vinculados de Impostos 20.000,00 02.08 SEC.MUN.DE OBRAS PUBLICAS 02.08.01 SEC. MUN. DE OBRAS PUB.TRANSP.E TRANSIT
+
+04.122.0046 SUPERVISÃO E COORDENAÇÃO SUPERIOR 04.122.0046.2274 MANUTENÇÃO DE ATIVIDADES C/SECRETARIA 3.3.90.36.00 682 Outros Serviços Terceiros- Pessoa Física 8.600,00 1.500.000.0000 Recursos não vinculados de Impostos 8.600,00 15 Urbanismo 15.452 Servicos Urbanos 15.452.0152 LIMPEZA URBANA 15.452.0152.2276 MANUT.DE DESPESA C/LIMPEZA URBANA 3.3.90.39.00 691 Outros Serv. Terceiros - Pessoa Jurídica 60.000,00 1.500.000.0000 Recursos não vinculados de Impostos 60.000,00 15.452.0154 PARQUES E JARDINS 15.452.0154.2282 MANUT.DE DESPESAS C/SERVIÇOS URBANOS-PA 3.3.90.30.00 699 Material de Consumo 10.000,00 1.500.000.0000 Recursos não vinculados de Impostos 10.000,00 26 Transporte 26.782 Transporte Rodoviario 26.782.0262 CONSERVAÇÃO DE RODOVIAS E ESTRADAS VICI 26.782.0262.2302 MANUT DE DESPESAS C/ESTRADAS VICINAIS 3.3.90.30.00 747 Material de Consumo 9.000,00 1.704.000.0000 Transf.União Ref.Comp.Fin.Exploração 9.000,00 02.09 SECRETARIA MUN. DE EDUCAÇÃO 02.09.01 SEC. MUNICIPAL DE EDUCACAO E CULTURA 12 Educacao 12.122 Administracao Geral 12.122.0041 ADMINISTRAÇÃO PÚBLICA MUNICIPAL 12.122.0041.1191 AQUIS.DE EQUIPAMENTOS E VEICULOS P/SECR 4.4.90.52.00 753 Equipamento e Material Permanente 279.000,00 1.500.000.0000 Recursos não vinculados de Impostos 279.000,00 12.306 Alimentacao e Nutricao 12.306.0121 PROGRAMA DE ALIMENTAÇÃO ESCOLAR 12.306.0121.2322 DESPESAS DE MANUTENÇÃO DA MERENDA ESCOL 3.3.90.30.00 787 Material de Consumo 200.000,00 1.550.000.0000 Transferência do Salário-Educação 200.000,00 12.361 Ensino Fundamental 12.361.0122 ATENDIMENTO AO ENSINO FUNDAMENTAL 12.361.0122.2326 MANUTENÇÃO DE ATIVIDADES C/ENSINO FUNDA 3.3.90.30.00 809 Material de Consumo 110.200,00 1.500.000.0000 Recursos não vinculados de Impostos 110.200,00 12.361.0122.2334 AQUIS.DE MATERIAIS DIDATICOS PEDAGOGICO 3.3.90.30.00 833 Material de Consumo 80.000,00 1.500.000.0000 Recursos não vinculados de Impostos 80.000,00 12.361.0128 TRANSPORTE ESCOLAR 12.361.0128.2336 DESPESAS C/MANUT.DO TRANSPORTE ESCOLAR
+
+MUNICÍPIO: SALINAS FOLHA: 3
+
+3.3.90.39.00 842 Outros Serv. Terceiros - Pessoa Jurídica 250.000,00 1.500.000.0000 Recursos não vinculados de Impostos 250.000,00 12.365 Educacao Infantil 12.365.0124 ATENDIMENTO AO ENSINO INFANTIL 12.365.0124.2364 MANUT DE ATIVIDADES C/ENSINO INFANTIL 3.3.90.30.00 899 Material de Consumo 50.000,00 1.500.000.0000 Recursos não vinculados de Impostos 50.000,00 12.365.0124.2367 MANUT. DE ATIVIDADES COM ENSINO INFANTI 3.3.90.30.00 912 Material de Consumo 50.000,00 1.500.000.0000 Recursos não vinculados de Impostos 50.000,00
+
+TOTAL DOS CRÉDITOS: R$ 1.262.800,00
+
+**Artigo 2º** - Para Atender ao disposto no(s) artigo(s) acima, utilizar-se-a como recurso o abaixo descrito, nos termos do artigo 43, parágrafo 1º da Lei 4320/64: 02 PODER EXECUTIVO 02.02 SECRETARIA MUN. DE GOVERNO 02.02.01 SECRETARIA MUN.DE GOVERNO
+
+04.122.0042 EDIFICAÇÕES PÚBLICAS 04.122.0042.1029 CONSTRUÇÃO E REFORMA DO PREDIO DA ADMIN 4.4.90.51.00 118 Obras e Instalações 117.500,00 1.500.000.0000 Recursos não vinculados de Impostos 100.000,00 1.754.000.0000 Recursos de Operações de Crédito 17.500,00 02.06 SEC. MUN. DESEN.AGRICOLA E MEIO AMBIE 02.06.01 SEC. MUN. DESEN.AGRICOLA E AMBIENTAL 20 Agricultura 20.605 Abastecimento 20.605.0202 APOIO AS ATIVIDADES DIRETAMENTE PRODUTI 20.605.0202.2160 MANUT.DE DESPESA C/MERCADO MUNICIPAL 3.3.90.36.00 353 Outros Serviços Terceiros- Pessoa Física 6.000,00 1.500.000.0000 Recursos não vinculados de Impostos 6.000,00 20.605.0202.2164 PAGAMENTO DO SEGURO SAFRA 3.3.90.39.00 361 Outros Serv. Terceiros - Pessoa Jurídica 14.000,00 1.500.000.0000 Recursos não vinculados de Impostos 14.000,00 02.08 SEC.MUN.DE OBRAS PUBLICAS 02.08.01 SEC. MUN. DE OBRAS PUB.TRANSP.E TRANSIT
+
+04.122.0046 SUPERVISÃO E COORDENAÇÃO SUPERIOR 04.122.0046.1129 REFORMA E RESTAURAÇÃO DE PREDIOS PUBLIC 4.4.90.51.00 675 Obras e Instalações 10.000,00 1.500.000.0000 Recursos não vinculados de Impostos 10.000,00 15 Urbanismo 15.452 Servicos Urbanos 15.452.0151 PLANEJAMENTO URBANO 15.452.0151.1135 AQUIS.DE EQUIP.E VEICULOS P/LIMPEZA URB
+
+MUNICÍPIO: SALINAS FOLHA: 4
+
+4.4.90.52.00 685 Equipamento e Material Permanente 25.000,00 1.500.000.0000 Recursos não vinculados de Impostos 25.000,00 15.452.0153 SERVIÇOS FUNERARIOS 15.452.0153.1139 CONSTRUÇÃO E AMPLIA.REFORMA DO CEMITERI 4.4.90.51.00 693 Obras e Instalações 500,00 1.501.000.0000 Outros Recursos não Vinculados 500,00 17 Saneamento 17.304 Vigilancia Sanitaria 17.304.0172 SANEAMENTO GERAL 17.304.0172.2292 MANUT DE DESPESAS C/SANEAMENTO BASICO 3.3.90.39.00 720 Outros Serv. Terceiros - Pessoa Jurídica 8.600,00 1.500.000.0000 Recursos não vinculados de Impostos 8.600,00 17.511 Saneamento Basico Rural 17.511.0171 SISTEMA DE AGUA E ESGOTO 17.511.0171.1163 CONSTRUÇÃO DE BARRAGENS E POÇOS DE ABAS 4.4.90.51.00 721 Obras e Instalações 2.878,00 1.704.000.0000 Transf.União Ref.Comp.Fin.Exploração 2.878,00 17.511.0171.1171 AQUIS.DE MOVEIS P/ATIV.ABAST.D"AGUA 4.4.90.52.00 725 Equipamento e Material Permanente 16.800,00 1.500.000.0000 Recursos não vinculados de Impostos 15.000,00 1.704.000.0000 Transf.União Ref.Comp.Fin.Exploração 1.800,00 26 Transporte 26.782 Transporte Rodoviario 26.782.0262 CONSERVAÇÃO DE RODOVIAS E ESTRADAS VICI 26.782.0262.1185 AQUIS.DE EQUIP.E VEICULOS P/ESTRADAS VI 4.4.90.52.00 742 Equipamento e Material Permanente 20.000,00 1.500.000.0000 Recursos não vinculados de Impostos 20.000,00 02.09 SECRETARIA MUN. DE EDUCAÇÃO 02.09.01 SEC. MUNICIPAL DE EDUCACAO E CULTURA 12 Educacao 12.122 Administracao Geral 12.122.0041 ADMINISTRAÇÃO PÚBLICA MUNICIPAL 12.122.0041.1193 AQUIS.DE MOVEIS E EQUIP.P/BIBLIOTECAS M 4.4.90.52.00 754 Equipamento e Material Permanente 22.000,00 1.500.000.0000 Recursos não vinculados de Impostos 22.000,00 12.306 Alimentacao e Nutricao 12.306.0121 PROGRAMA DE ALIMENTAÇÃO ESCOLAR 12.306.0121.2322 DESPESAS DE MANUTENÇÃO DA MERENDA ESCOL 3.3.90.30.00 787 Material de Consumo 80.000,00 1.500.000.0000 Recursos não vinculados de Impostos 80.000,00 12.361 Ensino Fundamental 12.361.0122 ATENDIMENTO AO ENSINO FUNDAMENTAL 12.361.0122.1197 AQUIS.DE EQUIPAMENTOS E VEICULOS P/ENSI 4.4.90.52.00 792 Equipamento e Material Permanente 9.000,00 1.550.000.0000 Transferência do Salário-Educação 9.000,00 12.361.0122.1199 CONST.DE POÇOS ARTESIANOS NAS ESCOLAS M 4.4.90.51.00 793 Obras e Instalações 61.200,00 1.500.000.0000 Recursos não vinculados de Impostos 61.200,00
+
+MUNICÍPIO: SALINAS FOLHA: 5
+
+12.361.0122.1201 CONSTRUÇÃO/AMPLIAÇÃO REFORMA DE PREDIOS 4.4.90.51.00 794 Obras e Instalações 9.000,00 1.550.000.0000 Transferência do Salário-Educação 9.000,00 12.361.0122.1203 REFORMA E AMPLIA.ESC.CANTINHO,JACURUTU, 4.4.90.51.00 795 Obras e Instalações 12.300,00 1.550.000.0000 Transferência do Salário-Educação 12.300,00 12.361.0122.2326 MANUTENÇÃO DE ATIVIDADES C/ENSINO FUNDA 3.1.90.11.00 805 Vencimentos e Vant. Fixas- Pessoal Civil 300.000,00 1.500.000.0000 Recursos não vinculados de Impostos 300.000,00 3.1.90.13.00 806 Obrigações Patronais 250.000,00 1.500.000.0000 Recursos não vinculados de Impostos 250.000,00 3.3.90.14.00 808 Diárias - Pessoal Civil 8.000,00 1.550.000.0000 Transferência do Salário-Educação 8.000,00 3.3.90.33.00 810 Passagens e Despesas com Locomoção 7.300,00 1.550.000.0000 Transferência do Salário-Educação 7.300,00 3.3.90.39.00 812 Outros Serv. Terceiros - Pessoa Jurídica 35.000,00 1.550.000.0000 Transferência do Salário-Educação 35.000,00 12.361.0128 TRANSPORTE ESCOLAR 12.361.0128.1225 AQUISIÇÃO DE ONIBUS ESCOLARES-FNDE/MEC 4.4.90.52.00 836 Equipamento e Material Permanente 56.000,00 1.500.000.0000 Recursos não vinculados de Impostos 56.000,00 12.361.0128.2336 DESPESAS C/MANUT.DO TRANSPORTE ESCOLAR 3.3.90.30.00 840 Material de Consumo 45.000,00 1.550.000.0000 Transferência do Salário-Educação 45.000,00 12.362 Ensino Medio 12.362.0125 ATENDIMENTO AOS JOVENS E ADULTOS 12.362.0125.2352 DESPESA C/MANUT DO PRE-VESTIBULAR COMUN 3.1.90.04.00 850 Contratação por Tempo Determinado 10.000,00 1.500.000.0000 Recursos não vinculados de Impostos 10.000,00 12.362.0125.2356 MANUT DE ATIVIDADES DA EDUCAÇÃO DE J 3.3.90.30.00 854 Material de Consumo 22.000,00 1.500.000.0000 Recursos não vinculados de Impostos 22.000,00 3.3.90.39.00 856 Outros Serv. Terceiros - Pessoa Jurídica 18.000,00 1.500.000.0000 Recursos não vinculados de Impostos 18.000,00 12.365 Educacao Infantil 12.365.0124 ATENDIMENTO AO ENSINO INFANTIL 12.365.0124.1248 AQUIS. DE EQUIP.E MÓVEIS P/ENS.INFANTIL 4.4.90.52.00 886 Equipamento e Material Permanente 13.000,00 1.550.000.0000 Transferência do Salário-Educação 13.000,00 12.365.0124.1250 CONST/AMPLIAÇÃO E REFORMA DE PREDIOS EN 4.4.90.51.00 888 Obras e Instalações 25.000,00 1.550.000.0000 Transferência do Salário-Educação 25.000,00 12.365.0124.2364 MANUT DE ATIVIDADES C/ENSINO INFANTIL 3.3.90.36.00 901 Outros Serviços Terceiros- Pessoa Física 10.400,00 1.550.000.0000 Transferência do Salário-Educação 10.400,00 3.3.90.39.00 902 Outros Serv. Terceiros - Pessoa Jurídica 26.000,00 1.550.000.0000 Transferência do Salário-Educação 26.000,00 02.11 SECRETARIA MUNICIPAL DE TRANSPORTE E TR
+
+MUNICÍPIO: SALINAS FOLHA: 6
+
+02.11.01 SECRETARIA MUNICIPAL DE TRANSPORTE E TR 26 Transporte 26.482 Habitacao Urbana 26.482.0261 VIAS URBANAS 26.482.0261.1180 OBRAS E REFORMAS DE SINALIZAÇÃO DE TRÂN 4.4.90.51.00 1000 Obras e Instalações 4.322,00 1.704.000.0000 Transf.União Ref.Comp.Fin.Exploração 4.322,00 02.02 SECRETARIA MUN. DE GOVERNO 02.02.01 SECRETARIA MUN.DE GOVERNO
+
+04.122.0413 APOIO A ADMINISTRAÇÃO PÚBLICA 04.122.0413.1058 CONSTRUÇÃO DO CENTRO ADMINISTRATIVO 4.4.90.51.00 1469 Obras e Instalações 18.000,00 1.500.000.0000 Recursos não vinculados de Impostos 18.000,00
+
+TOTAL: R$ 1.262.800,00
+
+**Artigo 3º** - Revogadas as disposições em contrário, entra este Decreto em vigor, na data de sua publicação.
+
+SALINAS, 7 DE JULHO DE 2023
+
+JOAQUIM NERES XAVIER DIAS CPF: 579.132.346-87 Prefeito Municipal
+
+## Anexos
+
+- [Anexo 1](https://www.salinas.mg.gov.br/portal/download/legislacao/sBLjTx/)
