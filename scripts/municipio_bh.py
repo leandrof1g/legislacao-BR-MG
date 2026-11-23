@@ -219,7 +219,24 @@ def cabecalho(md):
 def coletar(registrar, tempo_max=0):
     prazo = time.monotonic() + tempo_max * 60 if tempo_max else None
     estado = carregar_estado()
+    pendentes = estado.setdefault("pendentes", {})
+
+    def tentar(item):
+        """Grava; normas que falharem ficam pendentes e são tentadas de novo nas próximas execuções."""
+        if gravar(item, registrar) == "ok":
+            pendentes.pop(item["id"], None)
+        else:
+            pendentes[item["id"]] = item
+
     try:
+        # 0) normas que falharam antes
+        for item in list(pendentes.values()):
+            if prazo and time.monotonic() > prazo:
+                raise TempoEsgotado()
+            if os.path.exists(caminho_md(item)):
+                pendentes.pop(item["id"], None)
+            else:
+                tentar(item)
         # 1) novidades: ano corrente e anterior, sempre
         for tipo in TIPOS:
             for ano in (HOJE.year, HOJE.year - 1):
@@ -227,7 +244,7 @@ def coletar(registrar, tempo_max=0):
                     if not os.path.exists(caminho_md(item)):
                         if prazo and time.monotonic() > prazo:
                             raise TempoEsgotado()
-                        gravar(item, registrar)
+                        tentar(item)
         # 2) revalidação em rodízio do que já existe
         arquivos = sorted(glob.glob(os.path.join(PASTA, "*", "*", "*-cmbh.md")))
         hoje = [a for i, a in enumerate(arquivos) if i % CICLO == HOJE.toordinal() % CICLO]
@@ -257,7 +274,7 @@ def coletar(registrar, tempo_max=0):
                         continue
                     if prazo and time.monotonic() > prazo:
                         raise TempoEsgotado()
-                    gravar(item, registrar)
+                    tentar(item)
                 estado["concluidos"][chave] = HOJE.isoformat()
                 salvar_estado(estado)
     except TempoEsgotado:

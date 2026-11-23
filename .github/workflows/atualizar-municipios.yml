@@ -38,7 +38,7 @@ jobs:
           python-version: "3.13"
 
       - name: Dependências do sistema
-        run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils tesseract-ocr tesseract-ocr-por antiword
+        run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils tesseract-ocr tesseract-ocr-por antiword catdoc
 
       - name: Coletar
         run: python3 -I scripts/atualizar.py --esferas bh --tempo-max "${{ inputs.tempo || '320' }}"

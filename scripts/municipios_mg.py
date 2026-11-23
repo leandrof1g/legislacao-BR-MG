@@ -307,14 +307,42 @@ def texto_para_md(texto):
     return "\n\n".join(saida) + "\n"
 
 
+def rtf_para_texto(rtf):
+    """Texto de um RTF: remove grupos de controle, decodifica \\'xx (cp1252) e \\uN."""
+    rtf = re.sub(r"\{\\\*[^{}]*(\{[^{}]*\}[^{}]*)*\}", "", rtf)
+    rtf = re.sub(r"\{\\(fonttbl|colortbl|stylesheet|info|pict)[^{}]*(\{[^{}]*\}[^{}]*)*\}", "", rtf)
+    rtf = re.sub(r"\\(par|line|sect|page)\b ?", "\n", rtf)
+    rtf = re.sub(r"\\tab\b ?", "\t", rtf)
+    rtf = re.sub(r"\\'([0-9a-fA-F]{2})", lambda m: bytes([int(m[1], 16)]).decode("cp1252", "replace"), rtf)
+    rtf = re.sub(r"\\u(-?\d+)\??", lambda m: chr(int(m[1]) % 65536), rtf)
+    rtf = re.sub(r"\\[a-zA-Z]+-?\d* ?", "", rtf)
+    return re.sub(r"[{}]", "", rtf).replace("\\\\", "\\")
+
+
+def _executar(cmd, bruto, sufixo):
+    with tempfile.NamedTemporaryFile(suffix=sufixo) as f:
+        f.write(bruto)
+        f.flush()
+        try:
+            r = subprocess.run(cmd + [f.name], capture_output=True, timeout=300)
+        except (OSError, subprocess.TimeoutExpired):
+            return ""
+        return r.stdout.decode("utf-8", "replace")
+
+
 def word_para_texto(bruto):
-    """Texto de .doc (antiword) ou .docx (XML do documento). Vazio se não for Word ou faltar a ferramenta."""
-    if bruto.startswith(b"\xd0\xcf\x11\xe0") and shutil.which("antiword"):
-        with tempfile.NamedTemporaryFile(suffix=".doc") as f:
-            f.write(bruto)
-            f.flush()
-            r = subprocess.run(["antiword", "-m", "UTF-8.txt", "-w", "0", f.name], capture_output=True, timeout=300)
-            return r.stdout.decode("utf-8", "replace")
+    """Texto de .doc (antiword, depois catdoc), .docx (XML do documento) ou .rtf. Vazio se não reconhecer."""
+    def util(t):
+        return len(re.sub(r"\W", "", t)) >= 80
+    if bruto.startswith(b"\xd0\xcf\x11\xe0"):
+        for cmd in (["antiword", "-m", "UTF-8.txt", "-w", "0"], ["catdoc", "-d", "utf-8", "-w"]):
+            if shutil.which(cmd[0]):
+                texto = _executar(cmd, bruto, ".doc")
+                if util(texto):
+                    return texto
+        return ""
+    if bruto.lstrip()[:5] == b"{\\rtf":
+        return rtf_para_texto(bruto.decode("latin-1"))
     if bruto.startswith(b"PK"):
         import io
         import zipfile
@@ -333,6 +361,8 @@ def converter(bruto, url, ctype):
     texto = word_para_texto(bruto)
     if len(re.sub(r"\W", "", texto)) >= 80:
         return texto_para_md(texto), None
+    if bruto.startswith(b"\xd0\xcf\x11\xe0") or bruto.lstrip()[:5] == b"{\\rtf":
+        return None, "documento Word/RTF sem texto extraível"
     try:
         corpo, motivo = comum.documento_para_md(bruto, url, ctype)
     except Exception as e:  # noqa: BLE001 — ex.: .doc sem conversor no Linux
