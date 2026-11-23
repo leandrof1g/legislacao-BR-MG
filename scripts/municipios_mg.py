@@ -219,7 +219,9 @@ def contar_normas(pasta):
     return sum(a.endswith(".md") for _, _, arqs in os.walk(base) for a in arqs) if os.path.isdir(base) else 0
 
 
-FONTES_PROPRIAS = {"3106200": "SIL da CMBH (coletor próprio)"}  # código IBGE -> coletor específico
+FONTES_PROPRIAS = {"3106200": "SIL da CMBH (coletor próprio)", "3106705": "Instar da prefeitura",
+                   "3147907": "Instar da prefeitura", "3147006": "Instar da prefeitura",
+                   "3157005": "Instar da prefeitura e da câmara"}  # código IBGE -> coletor específico
 
 
 def escrever_cobertura_cbmmg(cfg):

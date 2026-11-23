@@ -40,6 +40,7 @@ import baixar_federal as fed  # noqa: E402
 import comum  # noqa: E402
 import mg  # noqa: E402
 import municipio_bh  # noqa: E402
+import municipio_instar  # noqa: E402
 import municipios_mg  # noqa: E402
 
 RAIZ = os.path.abspath(os.path.join(AQUI, ".."))
@@ -456,6 +457,7 @@ def main():
     ordem = [("mg", lambda: minas(a.ciclo, not a.sem_revalidacao, a.workers)),
              ("municipios", lambda: municipios(a.tempo_municipios, 8)),
              ("bh", lambda: municipio_bh.coletar(registrar, (PRAZO - time.monotonic()) / 60 if PRAZO else 0)),
+             ("instar", lambda: municipio_instar.coletar(registrar, (PRAZO - time.monotonic()) / 60 if PRAZO else 0)),
              ("federal", lambda: federal(a.ciclo, not a.sem_revalidacao, a.workers))]
     for nome, fn in ordem:
         if nome not in esferas:
