@@ -1,0 +1,66 @@
+---
+titulo: "Lei Ordinária nº 1283, de 23/09/2014"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "1283"
+data: "2014-09-23"
+ementa: "DISPÕE SOBRE AUTORIZAÇÃO PARA ABERTURA DE CRÉDITO ESPECIAL SUPLEMENTAR E DA OUTRAS PROVIDENCIAS."
+municipio: "Carneirinho"
+uf: "MG"
+codigo_ibge: "3114550"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.carneirinho.mg.leg.br/norma/5316"
+fonte_texto: "https://sapl.carneirinho.mg.leg.br/media/sapl/public/normajuridica/2014/5316/5316_texto_integral.pdf"
+sha256_fonte: "77d798c1ded8ad055aeda1f2f9a1e9c5fce9c051b68437cac623d03f57682202"
+baixado_em: "2026-11-24"
+---
+
+# Lei Ordinária nº 1283, de 23/09/2014
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CND|26.042.515/0001-48 e ADM: 2012/2016
+
+LEI NI.283, DE 23 DE SETEMBRO DE 2014
+
+Dispõe sobre autorização para abertura de crédito especial suplementar e da outras providencias.
+
+Willian Martins Maia, Prefeito do Município de Carneirinho, listado de Minas Gerais, no uso de suas atribuições legais, em especial nos termos da Lei Orgânica ncia laz saber que a Câmara Municipal, por seus representantes aprovou e ele, sanciona a seguinte Lei:
+
+**Art. 1º** - Fica o Poder Executivo autorizado a proceder à abertura de um crédito especial suplementar no valor de R$57.500,00 (cinquenta c sete mil c quinhentos reais), destinados a sup Slementação de dotações consignadas no orçamento da despesa vigente para o corrente exercício, a saber:
+
+02- na Executivo
+
+02.10 = Secretaria Municipal de Obras e Serviços Urbanos 02. ê 02 — Obras e Instalações 15.451.0016.1105. —- Reforma e Ampliação das Praças Públicas- SEDE/DISTRITOS 4.4.90.51.00 — Obras e Instalações iii einer R$53.000,00
+
+02:12. - Secretaria Municipal de Saúde-ldo.Munic.de Saúde 02.12.02 - Atendimento Ambulatorial to. ae 0012.2062 = Consórcios Públicos Destinados à Saúde 1.70.00 — Rateio pela Participação em Consórcio Público.......... R$ 4.500,00 TO Ea Essiiasicocinissasiiaseasasenaaaro cansnirisepoando constsaoagaraimastacadasa soa cecrssosseoro RBS 7.500,00
+
+**Art. 2º** - O valor do crédito adicional especial de que trata O a a , será coberto com o produto da redução parcial da dotação do rçamento vigente, a saber:
+
+1º
+
+02- nc RR
+
+02.10 - Secretaria Municipal de Obras e Serviços Urbanos
+
+02.1 o 02 — Obras e Insta flições : 26,782.0016.1053 — Pavimentação e Recapeamento Asfáltica / 4.4.90.5 1.00 — Obras e li MsLtiádões rena caras R$9 7.500,00
+
+Av Armbraulino Leandro Barbosa; 284; Centro — Corneirinho —- MG — CEP: 38290-000 Site: naus contos dou br =Fone/ Fe (34)3454-0200 / 3454-0218
+
+Eus
+
+. END) 25.042 515/0001-48 er ADM: 2013 /2016
+
+Contabilidade, proceder revisão no. PP = LDO e LOA, visando as adequações Contabilidade Pública) e normas “do Si ICOM-Sistema informatizado de Contas
+
+**Art. 4º** - Esta Lei entra em vigor na data de sua publicação.
+
+Ens
+
+Prefeitura Municipal
+
+aNnetri inho, 23 de setembro de 20!4.
+
+Registrada no livro próprio, publicada por afixação no local de costume nesta
+
+Av Ambroulino Leandro Barbosa 284, Centro — Corneirinho — MG — CEP: 38290-000 Siters É uno gou br — Fone / Fox (D4)3454-0200 / 3454-0218

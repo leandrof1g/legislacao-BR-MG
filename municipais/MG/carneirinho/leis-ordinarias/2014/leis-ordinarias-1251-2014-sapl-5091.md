@@ -1,0 +1,72 @@
+---
+titulo: "Lei Ordinária nº 1251, de 24/03/2014"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "1251"
+data: "2014-03-24"
+ementa: "DISPÕE SOBRE AUTORIZAÇÃO PARA ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR E DA OUTRAS PROVIDENCIAS."
+municipio: "Carneirinho"
+uf: "MG"
+codigo_ibge: "3114550"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.carneirinho.mg.leg.br/norma/5091"
+fonte_texto: "https://sapl.carneirinho.mg.leg.br/media/sapl/public/normajuridica/2014/5091/5091_texto_integral.pdf"
+sha256_fonte: "be39d568f5bbb480579c0c9a524985725571e530f42a31250585aa3a93382bfc"
+baixado_em: "2026-11-24"
+---
+
+# Lei Ordinária nº 1251, de 24/03/2014
+
+LEI N°1.251, DE 24 DE MARÇO DE 2014 Dispõe sobre autorização para abertura de crédito adicional suplementar e dá outras providencias. Willian Martins Maia, Prefeito do Município de Carneirinho, Estado de Minas Gerais, no uso de suas atribuições legais, em especial nos termos da Lei Orgânica Municipal, faz saber que a Câmara Municipal, por seus representantes aprovou e ele, sanciona a seguinte Lei:
+
+Art. Io - Pica o Poder Executivo autorizado a proceder à abertura de um crédito adicional suplementar no valor de R$1.186.500,00 (um milhão, cento e oitenta e seis mil e quinhentos reais), destinados a suplementação das dotações consignadas no orçamento da despesa vigente para o corrente exercício, a saber:
+
+02- Poder Executivo 02.01 - Gabinete do Prefeito 02.01.01 - Gabinete do Prefeito e suas Dependências 04.122.0002.2004 - Manutenção do Gabinete e suas Dependências F-21 4.4.90.52.00 - Equipamentos e Material Permanente...................R$ 42.000,00
+
+02.02 - Secretaria Municipal de Governo 02.02.01 - Sub-Prefeitura São Sebastião do Pontal 04.122.0002.2005 - Manutenção da Sub-Prefeitura SS do Pontal F-32 e 35 3.3.90.30.00 - Material de Consumo.............................................R$ 15.000,00 3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica.....R$ 6.500,00
+
+02.04 - Secretaria Municipal de Administração 02.04.01 - Administração Geral 04.122.0002.2008 - Manutenção da Secretaria Municipal de Administração F-57e 60 3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica....R$ 150.000,00 4.4.90.52.00 - Equipamento e Material Permanente....................R$ 60.
+
+02.07 - Secretaria Municipal de Educação 02.07.04 - Ensino Fundamental
+
+Ao. Am braulino Leandro Barbosa, 284, Centro - Carneirinho - M G - CEP: 38290-000 Site: www.carneirinho.m g.goo.br - Fone / Fax: (34)3454-0200 / 3454-0218
+
+1~h lu !Wc PREFEITURA MUNICIPAL DE CARNEIRINHO
+
+ADM: 2013 / 2016
+
+12.361.0004.2029 - Manutenção do Ensino Fundamental F - lll e 115 3.3.90.30.00 - Material de Consumo...........................................R$ 213.000,00 3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica....R$ 485.000,00
+
+02.10 - Secretaria Municipal de Obras e Serviços Urbanos 02.10.01 - Administração da Secretaria de Obras e Serviços Urbanos 04.122.0016.1097 - Expansão e Melhorias da Sec.Munc.de Obras e Serviços Urbanos F-225 4.4.90.51.00 - Obras e Instalações...............................................R$ 200.000,00
+
+02.11 - Secretaria Municipal de Serviços Rurais 02.11.01 - Administração da Secretaria de Serviços Rurais 26.122.0002.2016 - Manutenção da Secretaria Mun.de Serviços Rurais F-268 3.3.90.30.00 - Material de Consumo......................................... R$ 15.000,00 TOTAL........................................................................................R$1.186.500,00
+
+**Art. 2o** - O valor do crédito adicional suplementar de que trata o artigo Io, será coberto com o produto da redução parcial da dotação do orçamento vigente, a saber:
+
+02- Poder Executivo 02.04 - Secretaria Municipal de Administração 02.04.01 - Administração Geral 04.122.0016.1005 - Expansão e Melhorias das Instalações do Paço Municipal F-61 4.4.90.51.00 - Obras e Instalações................................................R$ 100.000,00
+
+02.06 - Secretaria Municipal de Assuntos Extraordinários 02.06.01 - Ações Estratégicas 04.122.0002.2011 - Manutenção da Secret.de Assuntos Extraordinários F-78, 79 e 82 3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil....R$ 3.1.90.13.00 - Obrigações Patronais.............................................R$ 3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica....R$ 02.07 - Secretaria Municipal de Educação 02.07.04 - Ensino Fundamental
+
+Ao. Am braulino Leandro Barbosa, 284, Centro - Carneirinho - M G - CEP: Site: www .carneirinho.m g.goo.br - Fone / Fax: (34)3454-0200 / 3454-0218
+
+12.361.0016.1008 - Expansão e Melhorias nas Escolas Municipais F-120 4.4.90.51.00 - Obras e Instalações...............................................R$ 141.500,00
+
+02.09 - Secretaria Municipal de Assistência Social e Habitação 02.09.02 - Manutenção do Centro de Convivência do Idoso 08.241.0016.1045 - Expansão e Melhorias do Centro de Convivência do Idoso F-200 4.4.90.51.00 - Obras e Instalações................................................R$ 20.000,00
+
+02.10 - Secretaria Municipal de Obras e Serviços Urbanos 02.10.02 - Obras e Instalações 15.451.0016.1069 - Constr., Arborização e Iluminação de Passarela na Av.Firmino L.Oliveira F-243 4.4.90.51.00 - Obras e Instalações................................................R$ 150.000,00
+
+17.512.0016.1081 - Construção de Aterro Sanitário F-249 4.4.90.51.00 - Obras e Instalações................................................R$ 30.000,00
+
+02.13 - Secretaria Munic.de Desenvolvimento, Indústria, Comércio e Esporte 02.13.01 - Administração da Sec.Desenv.,Ind. e Comércio 23.122.0002.2018 - Manutenção da Sec.Desenv.,Ind.Com.e Esporte F-367 e 368 3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil....R$ 40.000,00 3.1.90.13.00 - Obrigações Patronais.............................................R$ 9.000,00 02.13.02 - Manutenção da Indústria e Comércio 22.662.0016.1077 - Aquisição de Imóvel p/Instalação da Fábrica de Pré- Moldados F-374 4.4.90.61.00 - Aquisição de Imóveis............................................R$ 30.000,00 22.662.0016.1078 - Construção da Fábrica de Pré-Moldados F-375 4.4.90.51.00 - Obras e Instalações...............................................R$ 110.000,00 23.661.0015.2059 - Apoio a Indústria e Comércio F-376, 377, 379 e 380 3.3.50.43.00 - Subvenções Sociais...............................................R$ 45.000,00
+
+Av. Am braulino Leandro Barbosa, 284, Centro - Carneirinho - M G - CEP: 38290-000 Site: www .carneirinho.m g.gop.br - Fone / Fax: (34)3454-0200 / 3454-0218
+
+3.3.90.30.00 - Material de Consumo............................................ R$ 13.500,00 3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica....R$ 9.000,00 4.4.90.52.00 - Equipamento e Material Permanente..................... RS 19.000,00 02.13.03 - Manutenção do Esporte e Lazer 27.812.0016.1013 - Expansão e Melhorias da Quadra José Tiago Alvarenga em SSP F-392 4.4.90.51.00 - Obras e Instalações................................................R$ 80.000,00 27.812.0016.1024 - Expansão e Melhorias no Estádio Juvenal José de Queiroz F-393 4.4.90.51.00 - Obras e Instalações................................................R$ 50.000,00 r
+
+27.812.0016.1025 - Expansão e Melhorias da Area de Lazer Bairro Jardim Primavera F-394 4.4.90.51.00 - Obras e Instalações................................................R$ 80.000,00 02.14 - Secret.Munic.Meio Ambiente,Agrop.,Agric. e Apoio às Associações 02.14.03 - Manutenção da Agropecuária e Agricultura 20.601.0016.1050 - Construção de Barracões p/Comunidades Rurais F-411 4.4.90.51.00 - Obras e Instalações R$ 60.000,00 20.602.0015.2061 - Manutenção da Agropecuária e Agricultura F-413 e 414 3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil...R$ 100.000,00 3.1.90.13.00 - Obrigações Patronais............................................R$ 28.000,00 TOTAL........................................................ ............................... R$1.186.500,00
+
+**Art. 3o** - Esta Lei üja e n vigor na data de sua publicação,
+
+Prefeitura de Cameirinho, 24 de março de 2014 William »ns Maia Prefeito" icipal Registrada no livro próprio, publicada por afixação no local de costume nesta Prefeitura e arquivada na data supra. Neide Ferreiwde Souza Assessora de Gabinete I
+
+Ao. Am braulino Leandro Barbosa, 284, Centro - Cameirinho - M G - CEP: 38290-000 Site: www.carneirinho.m g.goo.br - Fone / Fax: (34)3454-0200 / 3454-0218

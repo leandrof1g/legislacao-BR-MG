@@ -1,0 +1,40 @@
+---
+titulo: "Lei Ordinária nº 850, de 19/08/1998"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "850"
+data: "1998-08-19"
+ementa: "Autoriza assinatura de Convênio com PM-MG/6ª CIA Polícia Florestal."
+municipio: "Delfim Moreira"
+uf: "MG"
+codigo_ibge: "3121100"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.delfimmoreira.mg.leg.br/norma/705"
+fonte_texto: "https://sapl.delfimmoreira.mg.leg.br/media/sapl/public/normajuridica/1998/705/lei_n-_850_-_1998.pdf"
+sha256_fonte: "385e09ef8b3e0a7d986ec0ee1b2ea17c395a0fa08be6ee893cdf30105fe917b6"
+baixado_em: "2026-11-24"
+---
+
+# Lei Ordinária nº 850, de 19/08/1998
+
+PREFEITURA MUNICIPAL DE DELFIM MOREIRA ESTADO DE MINAS GERAIS CNPJ nº 18.025.924/0001-08
+
+LEI N.º 850 / 1998
+
+“AUTORIZA ASSINATURA DE CONVÊNIO COM PM-MG/6ª CIA. POLÍCIA FLORESTAL.”
+
+A Câmara Municipal de Delfim Moreira, por seus representantes legais aprovou e, eu, Prefeito Municipal sanciono a seguinte Lei:
+
+**Art. 1º** - Fica o Poder Executivo Municipal autorizado a firmar convênio com a PM-MG/6ª CIA Polícia Florestal, Grupo de Polícia Florestal de Itajubá, visando à execução do Policiamento Ambiental (florestal, de mananciais, caça e pesca) no Município.
+
+**Art. 2º** As despesas decorrentes da assinatura deste convênio, correrão por conta de dotações próprias do orçamento vigente, suplementadas se necessário.
+
+**Art. 3º** - Esta lei entrará em vigor na data de sua publicação.
+
+**Art. 4º** - Revogam-se as disposições em contrário.
+
+Delfim Moreira, 19 de agosto de 1998.
+
+Pedro Paulo Alkmin de Oliveira Prefeito Municipal
+
+Avenida Tancredo de Almeida Neves, nº 56, Itagyba Delfim Moreira – MG
