@@ -1,0 +1,62 @@
+---
+titulo: "Decreto nº -"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "-"
+data: ""
+ementa: "Decretos 2010"
+situacao: "Em vigor"
+revogada: null
+publicacao: ""
+municipio: "Passos"
+uf: "MG"
+codigo_ibge: "3147907"
+orgao: "Prefeitura Municipal"
+versao_texto: "arquivo publicado"
+fonte: "https://www.passos.mg.gov.br/portal/leis_decretos/1/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/A/data-decrescente/simples"
+fonte_texto: "https://www.passos.mg.gov.br/publicos/decretos_2010___decreto_740_80247.pdf"
+id_instar: "KRPAwo"
+atualizado_na_fonte: ""
+sha256_fonte: "ded4b04758419259138d0cce237439a61fdd51a6f838bfdbab132407b685e183"
+baixado_em: "2026-11-25"
+---
+
+# Decreto nº -
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+MUNICÍPIO DE PASSOS PREFEITURA MUNICIPAL
+
+No
+
+atribuições que lhe são conferidas pelo art. 72,
+
+em comissão de Supervisor II do Setor de. Apoio Adir
+
+Administração.
+
+ESTADO DE MINAS GERAIS
+
+DECRETO Nº 740/2010
+
+Exonera o senhor Marcos Antônio de Sá, do cargo em comissão de Supervisor II do Setor de Apoio Administrativo.
+
+O Prefeito Municipal de Passos, Estado de Minas Gerais, no uso das sos:VIII e XII, da Lei Orgânica Municipal,
+
+on ado-o senhor. Marcos Antônio de Sá, do cargo inistrativo, da Secretaria Municipal de
+
+**Art. 2º** Este Decreto entra em vigor na data de sua publicação.
+
+Prefeitura Municipal de Passos, aos 17 de novembro de 2010.
+
+r
+
+JOSÉ HERNANI SILV RA Prefeito Municibal /
+
+NILTON FERNANDO PA SILVEIRA Secretário, Municipal de Administração
+
+PRAÇA GERALDO DA SILVA MAIA, 175 — CENTRO - PASSOS — MINAS GERAIS FONE: (35) 3522-6665 — CEP 37900-900
+
+## Anexos
+
+- [Anexo 1](https://www.passos.mg.gov.br/portal/download/legislacao/hGPAwo/)
