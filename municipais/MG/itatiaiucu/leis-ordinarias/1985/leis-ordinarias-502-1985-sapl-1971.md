@@ -1,0 +1,40 @@
+---
+titulo: "Lei Ordinária nº 502, de 04/03/1985"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "502"
+data: "1985-03-04"
+ementa: "Autoriza alienação de veículo"
+municipio: "Itatiaiuçu"
+uf: "MG"
+codigo_ibge: "3133709"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.itatiaiucu.mg.leg.br/norma/1971"
+fonte_texto: "https://sapl.itatiaiucu.mg.leg.br/media/sapl/public/normajuridica/1985/1971/lei_502.pdf"
+sha256_fonte: "e6adb98ddb27bf5cb67e6782523f6c2ae438ff2f00bfe102268065e295d32db5"
+baixado_em: "2026-11-25"
+---
+
+# Lei Ordinária nº 502, de 04/03/1985
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA MUNICIPAL DE ITATIAIUÇU
+
+PRAÇA ANTÔNIO QUIRINO DA SILVA, 404 35.685 - ITATIAIUÇU - MG
+
+Lai Nº 502, DE 04/03/1985
+
+Autoriza alienação de veículo.
+
+A Camara Municipal de Itatiaiuçu, Estado de Minas Gerais, de
+
+retou e eu; Prefeito Municipal, sanciono a se eguinte lei: árt. 1º - Fica o Chefe do Executivo Munic cipal autorizado a |! alienar através de concorrencia, o veículo Volkswagem Passat, ano !
+
+de fabricação 1982, modelo 33, 05 passageiros, cor preta, chassi nº
+
+ao de propriedade do Patrimônio Municipal. ari. 2º - O lance mínimo para aquisição do veículo de que ! trata O artigo 1º será de Cr;-13.000.000 (treze milhões de cruzei -
+
+ADC. 3º - itevozgadas as disposições em contrário, esta lo! 4 entrará em vigor na data de sua publicação. ProrslTUNA MUNICIPAL DE ITATÍIATUÇU, ESTADO DE MINAS GERAIS, mil Ol Di MARÇO DE 1985.
+
+- LLSUN nas DA a

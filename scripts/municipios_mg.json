@@ -326,7 +326,7 @@
    "sapl_manual": false
   },
   "3114550": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Carneirinho",
    "normas_na_fonte": 9250,
    "pasta": "carneirinho",
@@ -461,7 +461,7 @@
    "sapl_manual": false
   },
   "3123528": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Durandé",
    "normas_na_fonte": 152,
    "pasta": "durande",
