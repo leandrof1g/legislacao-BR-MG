@@ -263,7 +263,7 @@
    "sapl_manual": false
   },
   "3111804": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Canápolis",
    "normas_na_fonte": 2984,
    "pasta": "canapolis",
@@ -515,7 +515,7 @@
    "sapl_manual": false
   },
   "3126208": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Formoso",
    "normas_na_fonte": 772,
    "pasta": "formoso",
@@ -668,7 +668,7 @@
    "sapl_manual": false
   },
   "3133709": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Itatiaiuçu",
    "normas_na_fonte": 2525,
    "pasta": "itatiaiucu",
@@ -704,7 +704,7 @@
    "sapl_manual": false
   },
   "3134806": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Jacuí",
    "normas_na_fonte": 527,
    "pasta": "jacui",

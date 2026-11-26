@@ -4,12 +4,12 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 
 | Município | População | Fonte automática | Normas no acervo | Carga inicial |
 | --- | ---: | --- | ---: | :---: |
-| Belo Horizonte | 2.315.560 | **sem fonte automática** | 35238 | — |
+| Belo Horizonte | 2.315.560 | **sem fonte automática** | 35242 | — |
 | Uberlândia | 713.224 | **sem fonte automática** | 0 | — |
 | Contagem | 621.863 | SAPL ([sapl.contagem.mg.leg.br](https://sapl.contagem.mg.leg.br)) | 3637 | completa |
 | Juiz de Fora | 540.756 | **sem fonte automática** | 0 | — |
 | Montes Claros | 414.240 | SAPL ([sapl.montesclaros.mg.leg.br](https://sapl.montesclaros.mg.leg.br)) | 24 | completa |
-| Betim | 411.846 | **sem fonte automática** | 446 | — |
+| Betim | 411.846 | **sem fonte automática** | 448 | — |
 | Uberaba | 337.836 | **sem fonte automática** | 0 | — |
 | Ribeirão das Neves | 329.794 | **sem fonte automática** | 2 | — |
 | Governador Valadares | 257.171 | **sem fonte automática** | 0 | — |
@@ -29,7 +29,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Barbacena | 125.317 | **sem fonte automática** | 0 | — |
 | Araguari | 117.808 | SAPL ([sapl.araguari.mg.leg.br](https://sapl.araguari.mg.leg.br)) | 93 | completa |
 | Itabira | 113.343 | **sem fonte automática** | 0 | — |
-| Passos | 111.939 | **sem fonte automática** | 2146 | — |
+| Passos | 111.939 | **sem fonte automática** | 3604 | — |
 | Nova Lima | 111.697 | SAPL ([sapl.novalima.mg.leg.br](https://sapl.novalima.mg.leg.br)) | 26 | completa |
 | Araxá | 111.691 | SAPL ([sapl.araxa.mg.leg.br](https://sapl.araxa.mg.leg.br)) | 9576 | completa |
 | Nova Serrana | 105.552 | SAPL ([sapl.novaserrana.mg.leg.br](https://sapl.novaserrana.mg.leg.br)) | 0 | completa |
@@ -40,7 +40,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Ituiutaba | 102.217 | **sem fonte automática** | 0 | — |
 | Itaúna | 97.669 | SAPL ([sapl.itauna.mg.leg.br](https://sapl.itauna.mg.leg.br)) | 7145 | completa |
 | Pará de Minas | 97.139 | SAPL ([sapl.parademinas.mg.leg.br](https://sapl.parademinas.mg.leg.br)) | 3603 | completa |
-| Paracatu | 94.023 | **sem fonte automática** | 211 | — |
+| Paracatu | 94.023 | **sem fonte automática** | 317 | — |
 | Itajubá | 93.073 | **sem fonte automática** | 0 | — |
 | Manhuaçu | 91.886 | SAPL ([sapl.manhuacu.mg.leg.br](https://sapl.manhuacu.mg.leg.br)) | 5960 | em andamento |
 | São João del Rei | 90.225 | **sem fonte automática** | 0 | — |
@@ -89,7 +89,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Santa Rita do Sapucaí | 40.635 | **sem fonte automática** | 0 | — |
 | Andradas | 40.553 | SAPL ([sapl.andradas.mg.leg.br](https://sapl.andradas.mg.leg.br)) | 945 | completa |
 | Almenara | 40.364 | **sem fonte automática** | 0 | — |
-| Salinas | 40.178 | **sem fonte automática** | 3185 | — |
+| Salinas | 40.178 | **sem fonte automática** | 3193 | — |
 | Boa Esperança | 39.848 | **sem fonte automática** | 0 | — |
 | Capelinha | 39.626 | **sem fonte automática** | 0 | — |
 | Oliveira | 39.262 | **sem fonte automática** | 0 | — |
@@ -112,7 +112,7 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Taiobeiras | 33.050 | **sem fonte automática** | 0 | — |
 | Itamarandiba | 32.948 | SAPL ([sapl.itamarandiba.mg.leg.br](https://sapl.itamarandiba.mg.leg.br)) | 11 | completa |
 | Guanhães | 32.244 | **sem fonte automática** | 0 | — |
-| Ouro Fino | 32.094 | SAPL ([sapl.ourofino.mg.leg.br](https://sapl.ourofino.mg.leg.br)) | 3538 | em andamento |
+| Ouro Fino | 32.094 | SAPL ([sapl.ourofino.mg.leg.br](https://sapl.ourofino.mg.leg.br)) | 3704 | em andamento |
 | Brasília de Minas | 32.025 | **sem fonte automática** | 0 | — |
 | Carangola | 31.240 | SAPL ([sapl.carangola.mg.leg.br](https://sapl.carangola.mg.leg.br)) | 1 | completa |
 | Pompéu | 31.047 | SAPL ([sapl.pompeu.mg.leg.br](https://sapl.pompeu.mg.leg.br)) | 0 | completa |
@@ -148,8 +148,8 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | Tocantins | 16.185 | SAPL ([sapl.tocantins.mg.leg.br](https://sapl.tocantins.mg.leg.br)) | 198 | em andamento |
 | São João Evangelista | 15.315 | **sem fonte automática** | 0 | — |
 | Astolfo Dutra | 14.138 | **sem fonte automática** | 0 | — |
-| Campos Altos | 12.979 | SAPL ([sapl.camposaltos.mg.leg.br](https://sapl.camposaltos.mg.leg.br)) | 2346 | em andamento |
-| Itatiaiuçu | 12.966 | SAPL ([sapl.itatiaiucu.mg.leg.br](https://sapl.itatiaiucu.mg.leg.br)) | 2272 | em andamento |
+| Campos Altos | 12.979 | SAPL ([sapl.camposaltos.mg.leg.br](https://sapl.camposaltos.mg.leg.br)) | 2709 | em andamento |
+| Itatiaiuçu | 12.966 | SAPL ([sapl.itatiaiucu.mg.leg.br](https://sapl.itatiaiucu.mg.leg.br)) | 2398 | completa |
 | Itapeva | 12.692 | SAPL ([sapl.itapeva.mg.leg.br](https://sapl.itapeva.mg.leg.br)) | 1322 | completa |
 | Dores do Indaiá | 12.630 | SAPL ([sapl.doresdoindaia.mg.leg.br](https://sapl.doresdoindaia.mg.leg.br)) | 2809 | completa |
 | Cambuquira | 12.313 | SAPL ([sapl.cambuquira.mg.leg.br](https://sapl.cambuquira.mg.leg.br)) | 138 | completa |
@@ -157,20 +157,20 @@ Municípios com mais de 30.000 habitantes (IBGE) e os que já estavam no acervo.
 | São Gonçalo do Rio Abaixo | 11.850 | **sem fonte automática** | 0 | — |
 | Carmo da Mata | 11.019 | SAPL ([sapl.carmodamata.mg.leg.br](https://sapl.carmodamata.mg.leg.br)) | 30 | completa |
 | Pedralva | 10.760 | SAPL ([sapl.pedralva.mg.leg.br](https://sapl.pedralva.mg.leg.br)) | 1464 | completa |
-| Canápolis | 10.608 | SAPL ([sapl.canapolis.mg.leg.br](https://sapl.canapolis.mg.leg.br)) | 2327 | em andamento |
+| Canápolis | 10.608 | SAPL ([sapl.canapolis.mg.leg.br](https://sapl.canapolis.mg.leg.br)) | 2703 | completa |
 | Pedras de Maria da Cruz | 10.433 | SAPL ([sapl.pedrasdemariadacruz.mg.leg.br](https://sapl.pedrasdemariadacruz.mg.leg.br)) | 154 | completa |
 | Carneirinho | 9.422 | SAPL ([sapl.carneirinho.mg.leg.br](https://sapl.carneirinho.mg.leg.br)) | 6239 | completa |
 | Limeira do Oeste | 8.687 | SAPL ([sapl.limeiradooeste.mg.leg.br](https://sapl.limeiradooeste.mg.leg.br)) | 2711 | completa |
-| Delfim Moreira | 7.952 | SAPL ([sapl.delfimmoreira.mg.leg.br](https://sapl.delfimmoreira.mg.leg.br)) | 1392 | em andamento |
-| Formoso | 7.949 | SAPL ([sapl.formoso.mg.leg.br](https://sapl.formoso.mg.leg.br)) | 660 | em andamento |
+| Delfim Moreira | 7.952 | SAPL ([sapl.delfimmoreira.mg.leg.br](https://sapl.delfimmoreira.mg.leg.br)) | 1500 | em andamento |
+| Formoso | 7.949 | SAPL ([sapl.formoso.mg.leg.br](https://sapl.formoso.mg.leg.br)) | 736 | completa |
 | Durandé | 7.817 | SAPL ([sapl.durande.mg.leg.br](https://sapl.durande.mg.leg.br)) | 133 | completa |
-| Jacuí | 7.495 | SAPL ([sapl.jacui.mg.leg.br](https://sapl.jacui.mg.leg.br)) | 424 | em andamento |
-| Cabeceira Grande | 6.627 | SAPL ([sapl.cabeceiragrande.mg.leg.br](https://sapl.cabeceiragrande.mg.leg.br)) | 11 | em andamento |
-| São Sebastião da Bela Vista | 6.387 | SAPL ([sapl.saosebastiaodabelavista.mg.leg.br](https://sapl.saosebastiaodabelavista.mg.leg.br)) | 1 | em andamento |
-| Heliodora | 6.134 | SAPL ([sapl.heliodora.mg.leg.br](https://sapl.heliodora.mg.leg.br)) | 2 | em andamento |
+| Jacuí | 7.495 | SAPL ([sapl.jacui.mg.leg.br](https://sapl.jacui.mg.leg.br)) | 524 | completa |
+| Cabeceira Grande | 6.627 | SAPL ([sapl.cabeceiragrande.mg.leg.br](https://sapl.cabeceiragrande.mg.leg.br)) | 141 | em andamento |
+| São Sebastião da Bela Vista | 6.387 | SAPL ([sapl.saosebastiaodabelavista.mg.leg.br](https://sapl.saosebastiaodabelavista.mg.leg.br)) | 1069 | em andamento |
+| Heliodora | 6.134 | SAPL ([sapl.heliodora.mg.leg.br](https://sapl.heliodora.mg.leg.br)) | 288 | em andamento |
 | Nova União | 5.909 | **sem fonte automática** | 0 | — |
 | Bonfinópolis de Minas | 5.528 | SAPL ([sapl.bonfinopolisdeminas.mg.leg.br](https://sapl.bonfinopolisdeminas.mg.leg.br)) | 1 | em andamento |
-| Cana Verde | 5.272 | SAPL ([sapl.canaverde.mg.leg.br](https://sapl.canaverde.mg.leg.br)) | 7 | em andamento |
+| Cana Verde | 5.272 | SAPL ([sapl.canaverde.mg.leg.br](https://sapl.canaverde.mg.leg.br)) | 63 | em andamento |
 | Natércia | 4.691 | SAPL ([sapl.natercia.mg.leg.br](https://sapl.natercia.mg.leg.br)) | 1 | em andamento |
 | Claraval | 4.658 | SAPL ([sapl.claraval.mg.leg.br](https://sapl.claraval.mg.leg.br)) | 3 | em andamento |
 | Santana do Jacaré | 4.214 | SAPL ([sapl.santanadojacare.mg.leg.br](https://sapl.santanadojacare.mg.leg.br)) | 5 | em andamento |
