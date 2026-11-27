@@ -10,17 +10,19 @@ municipio: "Belo Horizonte"
 uf: "MG"
 codigo_ibge: "3106200"
 id_norma: "2c907f76909bf2d70190a69031dc0056"
-versao_texto: "publicada pela CMBH"
+versao_texto: "atualizada (CMBH)"
 fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11712/2024"
-fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76909bf2d70190a690d0450059"
-id_documento: "2c907f76909bf2d70190a690d0450059"
-sha256_fonte: "5ba2022f18290dcd64c79bc801a298af3635e4794d26db42bd1bab08fe92d638"
-baixado_em: "2026-10-23"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a1e3a31801a21243eb3101ac"
+id_documento: "2c907f76a1e3a31801a21243eb3101ac"
+sha256_fonte: "f1bdfeab3b8ef40bf5366e5f5bfa0a85a968b71239eb44fccdde8d467a609c8d"
+baixado_em: "2026-11-27"
 ---
 
 # Lei Ordinária nº 11712, de 11/07/2024
 
 LEI Nº 11.712, DE 11 DE JULHO DE 2024
+
+REVOGADA PELA LEI Nº 12.189, DE 24/11/2026 (ART. 6º, II)
 
 Declara o valor ecológico, paisagístico e cultural da área conhecida como Mata do Jardim América.
 

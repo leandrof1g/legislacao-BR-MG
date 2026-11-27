@@ -10,12 +10,12 @@ municipio: "Belo Horizonte"
 uf: "MG"
 codigo_ibge: "3106200"
 id_norma: "2c907f76a10b73fb01a19c56603f02e8"
-versao_texto: "publicada pela CMBH"
+versao_texto: "atualizada (CMBH)"
 fonte: "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/19814/2026"
-fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a10b73fb01a19c5808ba02ef"
-id_documento: "2c907f76a10b73fb01a19c5808ba02ef"
-sha256_fonte: "4bd8da29e5b38e556e74b4de68a923db0f83263d2c44371849ec7c90190cc75b"
-baixado_em: "2026-11-02"
+fonte_texto: "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a1e3a31801a21cdde57d01fc"
+id_documento: "2c907f76a1e3a31801a21cdde57d01fc"
+sha256_fonte: "14eeb047fed421fad257516128ac59652c68e8ab1d6b619860a3a46fea92a75e"
+baixado_em: "2026-11-27"
 ---
 
 # Decreto nº 19814/2026
@@ -186,8 +186,8 @@ IV.26 – Secretaria Municipal de Mobilidade Urbana – SMMUR
 |  | AMPLO | 2 | SMMU.DAM7.A.001 a SMMU.DAM7.A.002 |
 | DAM-8 | LIMITADO | 0 | - |
 |  | AMPLO | 1 | SMMU.DAM8.A.001 |
-| DAM-9 | LIMITADO | 3 | SMMU.DAM9.A.001 a SMMU.DAM9.A.003 |
-|  | AMPLO | 0 | - |
+| DAM-9 | LIMITADO | 0 | - |
+|  | AMPLO | 3 | SMMU.DAM9.A.001 a SMMU.DAM9.A.003 |
 | FCA-1 | LIMITADO | 0 | - |
 | FCA-2 | LIMITADO | 1 | SMMU.FCA2.001 |
 | FCA-3 | LIMITADO | 0 | - |
@@ -196,4 +196,10 @@ IV.26 – Secretaria Municipal de Mobilidade Urbana – SMMUR
 | FCA-6 | LIMITADO | 2 | SMMU.FCA6.001 a SMMU.FCA6.002 |
 | TOTAL DE CARGOS | 24 |  |  |
 
+Item IV.26 retificado em 27/11/2026
+
 ”
+
+## Observações da CMBH
+
+Retificado em 27/11/2026.
