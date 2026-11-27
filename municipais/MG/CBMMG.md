@@ -11,7 +11,7 @@ Municípios onde o Corpo de Bombeiros Militar de Minas Gerais tem unidade instal
 | Contagem | 2º BBM (1º COB) | Batalhão BM | 621.863 | SAPL ([sapl.contagem.mg.leg.br](https://sapl.contagem.mg.leg.br)) | 3637 | sim |
 | Juiz de Fora | 4º BBM (3º COB) | Batalhão BM / PEMAD | 540.756 | não encontrado — sem coletor | 0 | não |
 | Montes Claros | 7º BBM (4º COB / CEOA) | Batalhão BM / 3ª CEOA / PEMAD / PBRESC | 414.240 | SAPL ([sapl.montesclaros.mg.leg.br](https://sapl.montesclaros.mg.leg.br)) | 24 | sim |
-| Betim | 2º BBM (1º COB) | Posto Avançado BM | 411.846 | Instar da prefeitura | 448 | sim |
+| Betim | 2º BBM (1º COB) | Posto Avançado BM | 411.846 | Instar da prefeitura | 450 | sim |
 | Uberaba | 8º BBM (2º COB / CEB) | Batalhão BM / 4ª CEOA / PEMAD / PBRESC | 337.836 | Leis Municipais — sem coletor | 0 | não |
 | Ribeirão das Neves | 2º BBM (1º COB) | Pelotão BM | 329.794 | Leis Municipais — sem coletor | 2 | não |
 | Governador Valadares | 6º BBM (5º COB) | Batalhão BM | 257.171 | site próprio — sem coletor | 0 | não |
@@ -30,7 +30,7 @@ Municípios onde o Corpo de Bombeiros Militar de Minas Gerais tem unidade instal
 | Barbacena | 2ª Cia Ind (3º COB) | Companhia Ind. BM | 125.317 | Leis Municipais — sem coletor | 0 | não |
 | Araguari | 5º BBM (2º COB) | Companhia BM | 117.808 | SAPL ([sapl.araguari.mg.leg.br](https://sapl.araguari.mg.leg.br)) | 93 | sim |
 | Itabira | 11º BBM (5º COB) | Pelotão BM | 113.343 | site próprio — sem coletor | 0 | não |
-| Passos | 1ª Cia Ind (6º COB) | Companhia BM | 111.939 | Instar da prefeitura | 3604 | sim |
+| Passos | 1ª Cia Ind (6º COB) | Companhia BM | 111.939 | Instar da prefeitura | 5098 | sim |
 | Araxá | 8º BBM (2º COB) | Companhia BM | 111.691 | SAPL ([sapl.araxa.mg.leg.br](https://sapl.araxa.mg.leg.br)) | 9576 | sim |
 | Nova Serrana | 10º BBM (1º COB) | Companhia BM | 105.552 | SAPL ([sapl.novaserrana.mg.leg.br](https://sapl.novaserrana.mg.leg.br)) | 0 | sim |
 | Lavras | 9º BBM (6º COB) | Companhia BM | 104.761 | SAPL ([sapl.lavras.mg.leg.br](https://sapl.lavras.mg.leg.br)) | 8924 | sim |
@@ -40,9 +40,9 @@ Municípios onde o Corpo de Bombeiros Militar de Minas Gerais tem unidade instal
 | Ituiutaba | 5º BBM (2º COB) | Pelotão BM | 102.217 | site próprio — sem coletor | 0 | não |
 | Itaúna | 10º BBM (1º COB) | Pelotão BM | 97.669 | SAPL ([sapl.itauna.mg.leg.br](https://sapl.itauna.mg.leg.br)) | 7145 | sim |
 | Pará de Minas | 10º BBM (1º COB) | Companhia BM | 97.139 | SAPL ([sapl.parademinas.mg.leg.br](https://sapl.parademinas.mg.leg.br)) | 3603 | sim |
-| Paracatu | 12º BBM (2º COB) | Pelotão BM | 94.023 | Instar da prefeitura | 317 | sim |
+| Paracatu | 12º BBM (2º COB) | Pelotão BM | 94.023 | Instar da prefeitura | 419 | sim |
 | Itajubá | 7ª Cia Ind (6º COB) | Pelotão BM | 93.073 | site próprio — sem coletor | 0 | não |
-| Manhuaçu | 11º BBM (5º COB) | Companhia BM | 91.886 | SAPL ([sapl.manhuacu.mg.leg.br](https://sapl.manhuacu.mg.leg.br)) | 5960 | sim |
+| Manhuaçu | 11º BBM (5º COB) | Companhia BM | 91.886 | SAPL ([sapl.manhuacu.mg.leg.br](https://sapl.manhuacu.mg.leg.br)) | 5961 | sim |
 | São João del Rei | 2ª Cia Ind (3º COB) | Pelotão BM | 90.225 | não encontrado — sem coletor | 0 | não |
 | Patrocínio | 12º BBM (2º COB) | Companhia BM | 89.826 | SAPL ([sapl.patrocinio.mg.leg.br](https://sapl.patrocinio.mg.leg.br)) | 3069 | sim |
 | Caratinga | 11º BBM (5º COB) | Pelotão BM | 87.360 | site próprio — sem coletor | 0 | não |
@@ -78,7 +78,7 @@ Municípios onde o Corpo de Bombeiros Militar de Minas Gerais tem unidade instal
 | Arcos | 10º BBM (1º COB) | Posto Avançado BM | 41.416 | SAPL ([sapl.arcos.mg.leg.br](https://sapl.arcos.mg.leg.br)) | 4659 | sim |
 | Andradas | 1ª Cia Ind (6º COB) | Posto Avançado BM | 40.553 | SAPL ([sapl.andradas.mg.leg.br](https://sapl.andradas.mg.leg.br)) | 945 | sim |
 | Almenara | 6º BBM (5º COB) | Pelotão BM | 40.364 | site próprio — sem coletor | 0 | não |
-| Salinas | 7º BBM (4º COB) | Pelotão BM | 40.178 | Instar da prefeitura e da câmara | 3193 | sim |
+| Salinas | 7º BBM (4º COB) | Pelotão BM | 40.178 | Instar da prefeitura e da câmara | 3201 | sim |
 | Boa Esperança | 9º BBM (6º COB) | Posto Avançado BM | 39.848 | não encontrado — sem coletor | 0 | não |
 | Capelinha | 6ª Cia Ind (4º COB) | Pelotão BM | 39.626 | site próprio — sem coletor | 0 | não |
 | Oliveira | 10º BBM (1º COB) | Pelotão BM | 39.262 | site próprio — sem coletor | 0 | não |
@@ -103,7 +103,7 @@ Municípios onde o Corpo de Bombeiros Militar de Minas Gerais tem unidade instal
 | Resplendor | 6º BBM (5º COB) | Pelotão BM | 17.226 | SAPL ([sapl.resplendor.mg.leg.br](https://sapl.resplendor.mg.leg.br)) | 0 | sim |
 | São João Evangelista | 6º BBM (5º COB) | Pelotão BM | 15.315 | a levantar — sem coletor | 0 | não |
 | Astolfo Dutra | 4º BBM (3º COB) | Brigada Municipal | 14.138 | a levantar — sem coletor | 0 | não |
-| Campos Altos | 8º BBM (2º COB) | Posto Avançado BM | 12.979 | SAPL ([sapl.camposaltos.mg.leg.br](https://sapl.camposaltos.mg.leg.br)) | 2709 | sim |
+| Campos Altos | 8º BBM (2º COB) | Posto Avançado BM | 12.979 | SAPL ([sapl.camposaltos.mg.leg.br](https://sapl.camposaltos.mg.leg.br)) | 3040 | sim |
 | Mato Verde | 7º BBM (4º COB) | Brigada Municipal | 12.038 | a levantar — sem coletor | 0 | não |
 | São Gonçalo do Rio Abaixo | 11º BBM (5º COB) | Posto Avançado BM | 11.850 | a levantar — sem coletor | 0 | não |
 | Nova União | 3º BBM (1º COB) | Posto Avançado BM | 5.909 | a levantar — sem coletor | 0 | não |

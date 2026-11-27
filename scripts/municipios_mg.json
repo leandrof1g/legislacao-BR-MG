@@ -272,7 +272,7 @@
    "sapl_manual": false
   },
   "3111903": {
-   "carga_completa": false,
+   "carga_completa": true,
    "nome": "Cana Verde",
    "normas_na_fonte": 708,
    "pasta": "cana-verde",

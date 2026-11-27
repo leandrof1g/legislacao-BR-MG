@@ -1,0 +1,1434 @@
+---
+titulo: "Lei orçamentaria anual nº 740, de 03/11/2008"
+tipo: "Lei orçamentaria anual"
+tipo_na_fonte: "Lei orçamentaria anual"
+numero: "740"
+data: "2008-11-03"
+ementa: "APROVA O ORÇAMENTO DO MUNICIPIO DE CANA VERDE PARA O EXERCICIO FINANCEIRO DE 2009"
+municipio: "Cana Verde"
+uf: "MG"
+codigo_ibge: "3111903"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.canaverde.mg.leg.br/norma/176"
+fonte_texto: "https://sapl.canaverde.mg.leg.br/media/sapl/public/normajuridica/2008/176/lei_no_740-2008_-_aprova_o_orcamento_do_municipio_de_cana_verde_para_o_exercicio_financeiro_de_2009.pdf"
+sha256_fonte: "427887e2a8d1b8307c475ea637d1a26e98e1d50a5912b58792b1081b9b560fc0"
+baixado_em: "2026-11-27"
+---
+
+# Lei orçamentaria anual nº 740, de 03/11/2008
+
+I'RLFEIIUR:\ MUNICIPAL DE CANA VERDE PRAÇA NEMÉSIO MONTEIRO. 12 CENTRO -• C.•\NÀ VERDE \1(; C'\I'J 18.244.426/0001.36 - prnevWnavinet.eouLbr (5)iS6 1202
+
+LEI MUNICIPAL N.° 740/2008
+
+O Povo do Município de Cana Verde, Estado de Minas Gerais, por seus representantes,
+
+decretou. e eu em seu nome sanciono a seguinte Lei:
+
+**Art. 1°** - Fica aprovado o Orçamento do Município de Cana Verde - MG para o exercício financeiro de 2009, discriminado pela Lei de Diretrizes Orçamentárias e que estima a Receita e fixa a Despesa em R$ 10.500.000,00 (Dez milhões e quinhentos mil reais).
+
+**Art. 2°** - A receita será realizada mediante arrecadação de tributos, rendas e outras receitas na forma da legislação em vigor, observando o seguinte desdobramento:
+
+RECEITA CORRENTE R$ 8.625308,70 Receita Tributária 365.000,00 Receita de Contribuições 140.000.00 Receita Patrimonial 70.000,00 Transferências Correntes 7.925.`308,70 Outras Receitas. Correntes 125.000,00
+
+RECEITA DE CAPITAL R$ 2.700.000,00 Alienação de Bens 50.000,00 Transferência de Capital 2.650.000,00
+
+DEDUÇÕES DA RECEITA CORRENTE (FUNDI-,',F) (- ) R$ 825.308,70
+
+Total R$ 825.308,70
+
+**Art. 30** - A Despesa será realizada de acordo com a programação estabelecida nos quadros abaixo distribuídos por órgãos da administração e conforme o seguinte desdobramento:
+
+DESPESAS POR UNIDADE ORÇAMENTÁRIA
+
+1.0 1 .1 - Câmara Municipal 284.400,00 1.01 .2 - Câmara Municipal Dpto Administrativo 141.600,00 2.0 1 .1 - Gabinete do Prefeito 351.900,00 2.02. 1 - Secretaria Municipal de Administração 541.800,00 2.03.1 - Secretaria Municipal de Fazenda 539.500,00 2.04.1 - Secretaria Municipal de Educação 1.781.200.00 2.04.2 - F.U.N.D.E.B 670.000,00 2.05.1 - Secretaria Municipal de Saúde 2.588.800,00 2.06.1 - Secretaria Mun. Transp. Serviços Urbanos 1 .291.600,00
+
+4 (• iÇo/o FOLHA 0001
+
+PREFEITURA MUNICIPAL DE DEMONSTRATIVO DA RECEITA ESTIMADA ORCAMENTO CANA VERDE —MG 2.009
+
+CODIGO FICHA ESPEC1FICACAO DA RECEITA RECEITA ESTIMADA
+
+1000.00.00 RECEITAS CORRENTES 8.625.308.70
+
+1100.00.00 RECEITA TRIBUTARIA 365.000.00
+
+1110.00.00 IMPOSTOS 275.000.00
+
+1112,00.00 Inosto Sobre o Patrionio e a Renda 195.000.00 1112.02.00 1 Imposto s/Prooried.Predial Territ.Urbana 65.000.00
+
+10112.04.00 IMPS!RENDA PROVENTOS QUALQUER NATUREZA 80,000,00 1112.04.31 2 Imo. Renda Ret. nas Fortes s/Rend. Trab. 80.000.00 1112.08.00 3 In.s!Transm.Inter Vivos Bens Imoveis 50.000,00
+
+1113.00.00 Imoostos sobre a Producao e a Circulacao 80.000,00 1113.05.00 4 Imoostos sI Servicos Qualquer Natureza 80.000.00
+
+1120.00.00 TAXAS 80.000.00
+
+1121.00.00 Taxas oelo Exercicio Poder de Policia 35.000.00 1121.25.00 5 Taxa Lic.o/Func.Estab.Com.Ind.Prest.Serv 10.000,00 1121.32.00 6 Taxa de Aorovacao Proj. de Constr, Civil 2.000.00
+
+' 1121.99.00 Outras Taxas Pelo Exerc.Poder de Policia 23.000.00 1121.99.01 7 Taxa de Exoediente 23.000.00
+
+1122.00.00 Taxas nela Prestacan de Servicos 45.000.00 1122.28.00 8 Taxa de Cemiterios 15.000.00 9 Taxa de Limoeza Publica 15.000.0(3 122.99.00 122.90.00 1') Outras Taxas nela Prestar-ao de Servicos 15.000.00
+
+1130.00.00 CONTRIBUICAO DE MELHORIAS 10.000.00 1130.04.00 11 Contrib.Melh.Pavim,Obras Comolementares 10.000.00
+
+1200.00.00 RECEITA DE CONTRIBUICOES 140.000.00
+
+1220.00.00 CONTRIBUICOES ECONOMICAS: 140,000.00 1220.29,00 12 Contrib. o/ Custeio do Serv.Ilum.Publica 140.000.00
+
+1300.00.00 RECEITA PATRIMONIAL 70.000.00
+
+1320.00.00 RECEITAS DE VALORES MOBILIAMOS 70.000.00
+
+1321.00.00 JUROS E TITULOS DE RENDA
+
+1124.00.00 FUNDOS DE INVESTIMENTOS 70.000.00 1324.01.00 13 Fundos de Investimentos Renda Fixa 50.000.00 1324.03.00 14 Fundos de Acnes 20.000.00
+
+MEPIORY Informatica Ltda Belo Horizonte - P16 Telefone 3112126-6338
+
+FOLHA 0002
+
+PREFEITURA MUNICIPAL DE DEMONSTRATIVO DA RECEITA ESTIMADA ORCAMENTO CANA VERDE —MG 2.009
+
+CODIGO FICHA ESPECIFICACAO DA RECEITA RECEITA ESTIMADA
+
+1700.00.00 TRANSFERENCIAS CORRENTES 7.925.308.70
+
+1720.00.00 TRANSFERENCIAS INTERGOVERNAMENTAIS 7.925.308.70
+
+1721.00.00 Transferencias da Uniao 5.430.308.70
+
+7'21.01.12 1721.01.00 Particivacao na Receita da Uniao 4.097.058,00 1721.01.02 15 Cota-Parte Fundo Partic.dos Municioios 3.997.058.00 1721.01.05 16 Cota-Parte do Imo.s/Prao.Terr.Rural 20.000.00 17 Cota-Parte IPI Estados Exo.Prod.Industr. 40.000.00 721.01.13 18 CIDE - COMP. FINAN. ESFORCO EXPORTADOR 40. 000. 00
+
+1721. 09. 00 Outras Transferencias da Uniao
+
+1721.22.00 TRANSFERENCIA CONPENSACAO FINANCEIRA: 495.000.00 1721.22.11 19 Cota-Parte da Comoens.Financ.Rec.Hidrico 430.000.00 1721.22.20 20 Cota Parte Como. Em, Rec, Minerais CFEN 20.000.00 1721.22.70 21 Cota Parte Fundo ESD. do Petroleo - FEP 45.000.00
+
+1721.33.00 Trasnf.Rec.do Sist.Unico de Saude - SUS 572.000.00 1721.33.06 22 Acoes Basicas de Viailancia Sanitaria 20.000,00 1721.33.10 23 Piso de Atencao Basica (PAS Fixo) 105.000,00 1721.33.31 24 Programa de Saude da Família (PSF) 350.000.00 1721.33.32 25 Proor. Agentes Camunit. da Saude (PACS) 12.000.00 1721.33.33 26 Ecidemioloqia e Controle de Doancas 40.000.00 1721.33.35 27 Propr. Combate a Carencia Nutricionais 15.000.00 1721.33.37 28 Programa de Saude Bucal 30.000.00 1721.34.00 29 Trasnf.Rec.Fundo Nac.Assist.Social-FNAS 76.250.70
+
+t 721.35.00 1721.35.01 30 Trasnf.Rec.Fundo Nac,Ües.Educ.-FNDE TRANSFERENCIA SALARIO EDUCACAO 125.000.00 60,000 .00 1721,35.02 31 TRANSF. NOS. DIN. DIREITO ESCOLA - PDDE 15.000.00 1721.35.03 32 TRANSE. PROG. NAC. ALIMENT, ESCOLAR-PNAE 20.000.00
+
+. 1721.35.04 33 TRANSF. NOS. NAC. TRANSP. ESCOLAR-PNATE 20.000.00 l( 1C 4t'L.L ,..)..) 34 OUTRAS TRANSE. DIRETAS DO F.N.D.E. 10.000,00 1721. 36. 00 35 Transl, Fin. ICMS Desoneracoes Lei 87/96 65.000.00
+
+1722. 00. 00 Transferencias dos Estados 1.625.000.00
+
+1722.01.00 ParticiDacao na Receita dos Estados 1.340.000.00 1722. 01. 01 36 Transf.dos Estados da Cota-Parte do ICMS 1.200.000.00 1722.01.02 37 Transf.dos Estados da Cota-Parte do IPVA 100.000,00 1722.01.04 38 Cota-Parte do IPI sobre Exoortacao 40.000.00 1722.33.00 39 Transf.Rec.Est.o/Proqramas de Saude 55.000.00 1722.35.00 40 TRANSE. REC. ESTADO P1 NOS. EDUCACAO 25.000.00
+
+1722.99.00 Outras Transferencias dos Estados 205.000.00 1722.99.0 1 41 TRANSE. ASSISTENCIA SOCIAL 120.000.00 1722.99.02 42 OUTRAS TRANSFERENCIAS DO ESTADO 85. 000. 00
+
+MEMORY Informatica Ltda Belo Horizonte - MG Telefone 13112126-6388
+
+FOLHA 0003
+
+PREFEITURA MUNICIPAL DE DEMONSTRATIVO DA RECEITA ESTIMADA ORCAMENTO CANA VERDE —MC 2.009
+
+COlIGO FICHA ESPECIFICACAO DA RECEITA RECEITA ESTIMADA
+
+1724,00.00 Transferencias Multjqovernaentais 870.000.00 1724.01.00 43 Transferencias de Recursos do FUNDEF 870.000.00
+
+1900.00.00 OUTRAS RECEITAS CORRENTES 125,000.00
+
+1910.00.00 MULTAS E JUROS DE MORA 16.000.00
+
+1911.00.00 Multas e Juros de Mora dos Tributos 6.000.00 911.38.00 44 Multas Juros Mora lo.sfPr.Ter.Urb. 1PTU 3.000.00 911.40.00 45 Multas e Juros Mora Imo, s/ Serv. - 155 1.500.00 1911.99,00 46 Multas e Juros de Mora Outros Tributos 1.500.00
+
+1919.00.00 MULTAS DE OUTRAS ORIGENS 10.000.00 1919.15.00 47 MULTAS DE TRANSITO 10,000.00
+
+1920.00.00 INDENIZACOES E RESTITUICOES 90.000.00
+
+1922100.00 RESTITUICOES 90.000.00 1922.01.00 48 Restituicoes de Convenios 1.000.00
+
+1922.99.00 Outras Restituicoes 89,000.00 1922.99.01 49 SALARIO FAMILIA 64.000.00 1922.99.02 50 SALARIO MATERNIDADE 15.000.00 1922.99.03 51 RESTITUICAO SERVIDORES 5.000.00 1922.99.04 52 OUTRAS RESTITUICAO 5.000,00
+
+1930.00.00 RECEITA DA DIVIDA ATIVA 17,000.00
+
+0931.00.00 1931.11.00 53 Receita da Divida Ativa Tributaria Rec, D.Ativa Igw.s/Prop.Ter.Urbana -IPTU 17,000.00 15.000.00 1931.13,00 54 Rec, Divida Ativa Imo. s/ Servicos - 159 2.000,00
+
+1990.00.00 RECEITAS DIVERSAS 2.000.00 1990.98.00 55 Descontos Obtidos 2.000.00
+
+2000.00,00 RECEITAS DE CAPITAL 2.700000,00
+
+2200.00.00 ALIENACAO DE BENS 50.000,00
+
+2210.00.00 ALIENACAO DE BENS MOVEIS 50.000,00 2219.00.00 56 Alienacao de Outros Bens Moveis 50.00000
+
+2400.00.00 TRANSFERENCIAS DE CAPITAL 2,650.000.00
+
+2420.00.00 TRANSFERENCIAS INTERGOVERNAMENTAIS 50.000,00
+
+2421.00,00 TRANSFERENCIAS DA UNIAO 50,000.00 2421.02,00 57 Transf,Recursos Destin. Proa. Educacao 50.000.00
+
+MEMORY Inforeatica Ltda Belo Horizonte - MC Telefone (31)2126-6388
+
+FOLHA 0004
+
+PREFEITURA MUNICIPAL DE : DEMONSTRATIVO DA RECEITA ESTIMADA : ORCANENTO CANA VERDE —MB 2.009
+
+C0DI60 FICHA ESPECIFICACAO DA RECEITA RECEITA ESTIMADA
+
+2470.00.00 TRANSFERENCIAS DE CONVENIOS 2.600.000.00
+
+2471.00.00 TRANSF, CONV, C/ UN1AO E ENTIDADES 1.700.000.00
+
+2471.02.00 Transf. Conv. Uniao Dest, Proa. Educacao 200.000.00 2471.02.20 58 Outros Conv. Uniao sara Educacac 200.000,00 2471.03.10 59 Conv. Ministerio da Saude o! S.aneaeento 300.000.00
+
+0 471.99.00 471.99.09 60 Outras Transferencias Convenios Uniao OUTRAS TRANSFERENCIAS DA JNIAÜ 1.200.000,00 1.200.000.00
+
+2472.00.00 TRANSF.CONV,C/ESTADO E DIST, FEDERAL 900.000.00 2472.02.00 61 Transf.Conv.Estados Dest.f'ro.Educacao 100.000.00 2472.99.00 62 Outras Transf. de Convenio dos Estados 800.000.00
+
+9000.00,00 Deducoes da Receita Corrente -825.308.70
+
+9700.00.00 DEDUCAO TRANSFERECIAS CORRENTES -825.308.70
+
+9720.00.00 DEDUCAO TRANSFERECIAS INTERGOVERN. -825.308.70
+
+9721.00.00 DEDUCAO TRANSFERECIAS DA UNIAO -624.308.70
+
+9721.01.00 Deducao de Receita o! Formacao do FUNDEF -614.558.70 9721,01.02 63 Deducao de Rec. p1 Fora. do FUNDEF-FPM -599.558.70 9721.01.05 64 Deducao de Rec.o/Form do FUNDEB-ITR -3.000,00 9721.01.12 65 Deducao Rec p/Foracao FUNDEF-IPI Eort -6.000,00 66 Deducao Fundeb COMP, FINAN. ESF. Eorta -6,000.00 I721.01.13 721.36.00 67 Ded. ICMS DESON 87/96 o/Foracaa FUNDEB -9.750.00
+
+9722.00.00 DEDUCAO TRANSFERECIAS DO ESTADO -201.000.00
+
+9722,01.00 Deducao de Receita si Formacao do FUNDEF -201.000,00 9722.01.01 68 Deducao da Receita do FUNDEF-ICMS -180.000.00 9722.01.02 69 Deducao da Rec pHori FUNDEB IPVA -15.000.00 9722.01.04 70 Deducao da Rec. do FUNDEF - IPI Export. -6.000.00
+
+TOTAL GERAL DA RECEITA 10.500.000.00
+
+MENORY Inforeatica Ltda Belo Horizonte - M6 Telefone 31)2126-6388
+
+FOLHA 0001
+
+PREFEITURA MUNICIPAL DE RECEITA E DESPESA, SEGUNDO AS CATEGORIAS ECONOMICAS ORCANENTO CANA VERDE —Mt3 2.009 Anexa 1. Lei 4.320/64
+
+RECEITA VALOR VALOR DESPESA VALOR VALOR
+
+RECEITAS CORRENTES DESPESAS CORRENTES RECEITA TRIBUTARIA 365.000,08 PESSOAL E ENCARGOS SOCIAIS 4.545.280.00 RECEITA DE CONTRIDUICOES 140.000.00 JUROS E ENCARGOS DA DIVIDA 61.500,00 RECEITA PATRIMONIAL 70.000.00 OUTRAS DESPESAS CORRENTES 3.695.220.00 8.301.000, 00 TRAWSFERENCIAS CORRENTES 7,925.308,70 OUTRAS RECEITAS CORRENTES 125.000.00 8.625.308,70 Deducoeo da Receita Corrente -825.308.70 7.800.000400
+
+-581.000,00 Scit
+
+TOTAL 8.301.000.00 1 O T A L 8.301 .000.00
+
+Deficit do Orcaeento Corrente 501800.00
+
+RECEITAS DE CAPITAL DESPESAS DE CAPITAL ALIENACAO DE DENS 50.000.00 INVESTIMENTOS 1.779.000,00 TRANSFERENCIAS DE CAPITAL 2.650.000.00 2.700.000,00 AMORTILACAO DA DIVIDA 240.000.00 2.019.000,00 RESERVA DE CONTINSENCIA 180.008.80
+
+2.700.000,09 2.708.008.80
+
+TOTAL 10.500.000.00 1 O 1 A 1 10. 500. 000. 00
+
+RESUMO
+
+RECEITAS CORRENTES 8.625.308.70 DESPESAS CORRENTES 8. 301. 000. 00 RECEITAS RE CAPITAL 2.700.000.00 DESPESAS DE CAPITAL 2.019.000.00 RECEITAS DE RETIFICACAÜ -825.308.70 RESERVA DE CONTINBEUCIA 180.000.00
+
+TOTAL 10.509.000.00 T O T A L 10. 500.000.00
+
+MEMORO Inforatica Ltda Dele Horizonte - MO Telefone t312126-6388
+
+SJL!Ifl vJ.,.L
+
+PREFEITURA MUNICIPAL DE SUMARIO GERAL DA RECEITA POR FONTES ORCAMENTO CANA VERDE —M6 E DA DESPESA POR FUNCAO DE GOVERNO 2.009
+
+FONTES DA RECEITA FUNdES DE GOVERNO
+
+£SPECIFICACAO VALOR VALOR ESPECIFICACAO VALOR VALOR
+
+1-RECEITAS CORRENTES Ol-Leqislatíva 426.000.00
+
+1.1-RECEITA TRIBUTARIA 385.000,00 02-Judiciaria 1.500.00
+
+1.2-RECEITA DE CONTRIDUICOES 140.00000 04-Adinistracao 2.284.650.00
+
+1.3-RECEITA PATRIMONIAL 70.000,00 06-Seuuranca Publica 12.900.00
+
+1.7-TRANSFERENCIAS CORRENTES 7.925.308.70 08-Assistncia Social 397.850,00
+
+\*OUTRAS RECEITAS CORRENTES 125.000.00 8.62.308.70 10-Saude 2.286.800.00
+
+2-RECEITAS DE CAPITAL 11-Trabalho 50.500,00
+
+2.2-ALIEHACAO DE BENS 50.000.00 12-Educacao 2.451.210.00
+
+2.4-TRANSFERENCIAS DE CAPITAL 2.650.000.00 2.700.000,00 13-Cultura 137.500,00
+
+9-Dedocoes da Receita Correftte 15-Urbanismo 568.600.00
+
+9,7-DEDICAO TRANSFERECIAS CORRENTE -825.308.70 -825.308.70 16-Rabitacan 2.500.00
+
+17-Saneaaento 302.000.00
+
+18-Gestao Aabieotal 1,500.00
+
+20-Aoriculttira 170.000.00
+
+22-Industria 5001 00
+
+24-Casunicacoes 8.500,00
+
+26-Transoorte 411.000.00
+
+27-Desoorto e Lazer 201.500,00
+
+2O-Encaros Esoeciais 305.0001 00
+
+99-Reserva de Continqencia 180.000.00
+
+OTAL 10.500.000,00 TOTA1 10.500 .000.00
+
+EM0RY Inforsatica Ltda Belo Horizonte - O Telefone (03112126-6388 FOLHA 0001
+
+PREFEITURA MUNICIPAL DE
+
+- NfflURELWIJ Dt'Ef EiUUU (TEUI1b LUJNUNTL iURCAENTtíT CANA VERDE —MG : CONSOLIDACAO GERAL 2.009
+
+Anexo 2. Lei 4.320/64
+
+CODIGO ESPEC IF ICACAO DESDOBRAMENTO NATUREZA CATEGORIA ECONOMICA
+
+3.0.00.00 DESPESAS CORRENTES 8.301.000.00 3.1.00.00 PESSOAL E ENCARGOS SOCIAIS 4. 545. 280. 00 3.1.90.00 Aplicacoes Diretas 4.545.280.00 3.1.90.01 Aposentadorias e Reformas 100.000.00 3.1.90.09 Salario Familia 47.3 10.00 3.1.90.09.01 Salario Familia Servidores 45.450.00 3.1.90.09.04 Salario Familia Camara 1.060.00 3.1.90.09.05 Baiano Familia Conselho Tutelar 300.00 3.1.90.11 Yenc. Vantaqens Fixas-Pessoal Civil 3.576.300.00 3.1.90.11.01 Servidores Municipais 2.604.800.00 3.1.90.11.02 Vereadores 218. 400. 00 3.1.90.11.03 Secretariado 541. 600. 00 3.1.90.11.04 Contratados 1.500.00 3.1.90.11.05 Servidor Camara 15.000.00 3.1.90.11.06 Prefeito/Vice 195.000.00
+
+9 1.90.13 2.00.00 3.2.90.00 Obniqacoes Patronais JUROS E ENCARGOS DA DIVIDA Aplicacoes Diretas 821.670.00
+
+60.500.00 60.500.00
+
+3,2.90.21 Juros Sobre a Divida por Contrato 60.000.00 3.2.90.22 Outros Enc. SI Divida p/ Contrato 500,00 3.2.90.22.01 Juros Despesas Orcamentanias 500.00 3.3.00.00 OUTRAS DESPESAS CORRENTES 3.695.220.00 3.3.50.00 Transf. Inst.Pniv.s/Fins Lucrativas 41.000.00 3.3. 50. 43 Subvencoes Sociais 41.000.00 3.3.50.43.01 Subvencao Social 5.0.9. 9.500.00 3.3.50.43.02 Subv. Social Creche Nova Esperanca 9.500.00 3.3.50.43.03 Subv. Social Vila Vic. Carlos A Sob 9.500.00 3.3.50.43.04 Sub. Social Assoc. Com, Sao E Assis 1.000.00 3.3.50.43.05 Subvencao/Convenio APAE 1.000.00 3.3. 50. 43. 07 Subvencao para As, ao Idoso 500.00 3.3.50.43.08 Sub. Assoc. Moremba em Progresso 9.500.00 3.3.50.43.09 Convenio com A.P.A.E. 500.00 3.3.70.00 Transf. Instit.Multiqov.Nacionais 6.500.00 3.3.70.41 Contribuicoes 6.500.00
+
+Ç '.90.00 Aplicacoes Diretas 3.647.720.00 133.90.14 Dianias - Civil 64.100.00 3, 3. 90. 30 Material de Consumo 1.083.500.00 3.3.90.30.01 Material de Consumo 986. 500.00 3.3.90.30.02 Material Med/Hosp/Odon/Laboratorial 35.000.00 383.90.30.03 Cesta Basica p1 familias carentes 12.000.00 3.3.90.30.04 Merenda Escolar 50.000.00 3.3.90.32 Material de Distribuicao Gratuita 197.180.00 383,90.32.01 Medicamentos 95.000.00 3.3.90.32.02 Material Escolar, etc 25.000.00 3.3.90.32.03 Trofeus. Medalhas Bolas etc 2.500.00 3.3.90.32.04 Material de Construcao 74.580.00 3.3.90.32.05 Material Distnib. Gratuita 100.00 3.3.90.33 Passagens e Despesas c/ Locomocao 3.000.00 3.3.90.35 Servicos de Consultaria 44.500.00
+
+MEMORY Informatica Ltda Belo Horizonte - MB Telefone (31)2126-6388
+
+FOLHA 0002
+
+PREFEITURA MUNICIPAL DE NATUREZA DA DESPESA SEGUNDO AS CATEGORIAS ECONOMICAS ORCAMENTO CANA VERDE —MG : CONSOLIDACAO GERAL 2.009
+
+Anexo 2. Lei 4.320/64
+
+CODISO ESPECIFICACAO DESDOBRAMENTO NATUREZA CATEGORIA ECONOMICA
+
+3.3.90.36 Outros Serv.Terceiros-Pessoa Fisica 873.300.00 3.3.90.36.01 Locacao de Imoveis 11.000.00 3.3.90.36.02 Conselho Tutelar 30.000.00 3.3.90.36.04 Consultas Medicas Carentes e exames 4.000.00 3.3.90.36.05 Outros Serv.Terceiros Pessoa Fisica 328.300.00 3.3.90.36.06 Contratados Proq. Saude Familia 500.000.00 3.3.90.39 Outros Serv.Terceiros-Pessoa Juridi 1. 074. 500. 00 3.3.90.39.01 Exames.Cons., internacoes. Passagem 100.000.00 3.3.90.39.02 Auxilio Funeral 10.000.00 3.90,39.03 Outros Serv, Terc. Pessoa Juridica 943. 500. 00 .3.90.39.04 Undime 1.000.00 3.3.90.39.05 Publicidade e Publicacoes o/Nunicip 20.000.00 3.3.90.41 Contribuicoes 109.000.00 3.3.90.42 Auxilios 100.00 3.3.90.43 Subvencoes Sociais 500.00 3.3.90.47 Obriqacoes Tributar.e Contributivas 60.000.00 3.3,90.48 Outros Aux.Financ.a Pessoas Fisicas 20.000.00 3.3.90.91 Sentencas Judiciais 10.000.00 3.3.90.92 Despesas de Exercicios Anteriores 1.940.00 3.3. 90. 93 Indenizacoes e Restituicoes 106.100.00 3.3.90.93.01 Rest. desoesas em Viagens o/Municip 5 1.600.00 3.3.90.93.02 Rest. Passagens 4.500.00 3.3.90.93.03 Rest. Consultas Medicas e Exames 20.000.00 3.3.90.93.04 Restit. Saldo de Convenios, IPTUetc 30. 000. 00
+
+4.0.00.00 DESPESAS DE CAPITAL 2.019.000.00 4.4.00.00 INVESTIMENTOS 1.779.000.00 4.4.90.00 Aplicacoes Diretas 1.779.000.00 .90.51 Obras e Instalacoes 1.019.000.00 .4.90.51.01 Obras e Instalacoes Dom, Publico 648.500.00 4.4.90.51.02 Obras e Instalacoes Doa.Patrimonial 370.500.00 4.4.90.52 Eouipamentos e Material Permanente 698.000.00 4.4.90.52.01 Eauip.Mat.Permanente Dom.Publico 99.500.00 4.4.90.52.02 Euuip.Mat.Perman. Dom. Patrimonial 598.500.00 4.4.90.61 Aquisicao de Imoveis 62.000.00 4 .4 .90 .61. 01 Aquisicao Imoveis Dom. Publico 1.000.00 4.4.90.61.02 Aquisicao Imoveis Dom. Patrimonial 61.000.00 4.6.00.00 AMORTIZAC4O DA DIVIDA 240.000.00 4.6.90.00 Aplicacoes Diretas 240.000.00 4.6.90.71 Princioal Div. Contratual Resgatado 240.000.00
+
+9 .9. 99. 00 Reserva de Continqencia 180.000.00 9,9.99,99 Reserva de Continqencia 180.000.00 9.9.99.99.99 Reserva de Continqencia 180.000.00
+
+TOTAL 10.500.000 9 00
+
+MEMORY Informatica Ltda Belo Horizonte - M6 Telefone (31)2126-6388
+
+FOLHA 0001
+
+PREFEITURA MUNICIPAL DE • PROGRAMA DE TRABALHO DO GOVERNO - DEMONSTRATIVO DE FUNCOES. ORCANENTO CANA VERDE —MB : PROGRAMAS E SUEPROGRAMAS POR PROJETOS E ATIVIDADES 2.009
+
+Anexo 7. Lei 4.320/64
+
+CODIGO ESPECIFICACAO PROJETOS ATIVIDADES TOTAL
+
+01 Legislativa 6.000.00 420.000,00 426,000.00 01.031 Acao LeQisiativa 284.400,00 284.400.00 01.031.0084 MANUT. ATIVIDADES CAMARA MUNICIPAL 284.400,00 284.400.00 01.122 Adinistracao Geral 6.000.00 135.600,00 141.600.00 01.122.0013 PLANEJAMENTO E COORDENACAO GERAL 6.000.00 135.600,00 141.600,00
+
+02 Judiciaria 1.500,00 1.500.00 02.062 Defesa Inter. Publ. Proc.Judiciario 1.500,00 1.500.00 02.062.0023 PESQUISA E DIFUSAÜ TEGNOLOGICA 1.500,00 1.500.00 o 04 Administracao 30.000.00 2.254.650,00 2.284,650.00 04,122 Adiinistracao Geral 30.000.00 2.191.050,00 2.221.050.00 04.122.0004 MANUTENCAO ENSINO FUNDAMENTAL 5.000.00 £23.500,00 128,500.00 04.122.0013 PLANEJAMENTO E COORDENACAO GERAL 25,000.00 1.976.050,00 2.001.050.00 04.122.0019 EXPANSAO E MODERNIZACAO VIARIA 500,00 500.00 04.122.0045 PASEP 60.000,00 60.000.00 04.122.0063 ARRECADAO E CONTROLE DE TRIBUTOS 31.000,00 31,000.00 04.123 Adrinistracao Financeira 9.000,00 9.000.00 04.123.0063 ARRECADAO E CONTROLE DE TRIBUTOS 9.000,00 9.000.00 04.124 Controle Interno 53.600,00 53.600.00 04.124.0013 PLANEJAMENTO E COORDENACAO GERAL 53.600,00 53.600.00 04.695 Turismo 1.000,00 1.000.00 04.695.0013 PLANEJAMENTO E COORDENACAO GERAL 1.00000 1.000.00
+
+06 Seouranca Publica 12.900,00 12.900.00 06.181 Policiamento 12.400,00 12.400.00 06.181,0013 PLANEJAMENTO E COORDENACAO GERAL 11.400,00 11.400.00 06.181,0041 POLICIA CIVIL 500,00 500.00 06.181.0084 C.O.N.S.E.P. - CON. MUN. SEG. PUBLI 500,00 500.00 06.182 Defesa Civil 500,00 500.00 06.182.0019 DEFESA CIVIL 500,00 500.00
+
+08 Assistencia Social 24.500.00 373.350,00 397.850.00 08.122 AÃinlstracao Geral 23.500.00 143.170,00 166.670.00 08.122.0013 PLANEJAMENTO E COORDENACAO GERAL 23.000.00 101.200,00 124.200.00 08.122.0048 CONS, MUNIC, DIREITOS CRIANCA E ADO 500.00 41.970,00 42.470.00 09.241 Assistencia ao Idoso 500,00 500.00 08.241.0028 ATENCAO ESPECIAL AO IDOSO 500,00 500.00 08.242 Assist. ao Portador de Deficiencia 500,00 500.00 08.242.0045 Protecao Social Esoecial 500,00 500.00 08.243 Assist. a Crianca e ao Adolescente 500.00 29.500,00 30.000.00 08.243.0011 PETI - PROG. ERRAD. TRAB. INFANTIL 500,00 29.500,00 30.000.00 09.244 Assistencia Comunitaria 500.00 199.680 9 00 200.180,00 08.244.0016 CADASTRAMENTO UNICO 1.500,00 1.500.00 08.244.0021 APOIO AO SERVECO DE OBRAS SOCIAIS 39.000,00 39.000.00 08.244.0045 Protecao Social Esoecial 500,00 500.00 08.244.0090 ASSIST. A FAMILIA/BENEFICIOS EVENTU 147.080,00 147.080.00 08.244.0138 PROTECAO SOCIAL 12.100,00 12.100.00
+
+MENOR? Informatica Ltda Belo Horizonte - NG Telefone (31)2126-6388
+
+FOLHA 0002 )
+
+PREFEITURA MUNICIPAL DE PROGRAMA DE TRABALHO DO GOVERNO - DEMONSTRATIVO DE FUNCOES. : ORCAMENTO CANA VERDE —Me : PROGRAMAS E SUBPROGRAMAS POR PROJETOS E ATIVIDADES 2,009
+
+Anexo 7. Lei 4.320/64
+
+CODIGO ESPECIFICACAO PROJETOS ATIVIDADES TOTAL
+
+10 Saude 337.000.00 1.949.800,00 2,286.800.00 10.301 Atencao Basica 335,500.00 1.892.700,00 2.228.200.00 10.301.0013 PLANEJAMENTO E COORDENACAO GERAL 180.500.00 62.200 00 242.700.00 10.301.0027 SAUDE DA FANILIA 150,000.00 567.000,00 ' 717.000.00 10.301.0035 ATENCAO E PROMOCAO DA SAUDE 5.000.00 1.224.500,00 1.229.500.00 10.301.0087 DISTRIBUICAO DE MEDICAMENTOS 39.000 00 39.000.00 10.304 Viqilancia Sanitaria 1.000.00 '1 4.100,00 5.100.00 10,304.0033 VIGILANCIA E PRÜTECAO A SAUDE 1.000.00 4.100,00 5.100.00 10.305 Viqilancia Epidemioloqica 500.00 48.000 00 48.500.00 10.305.0033 VIGILANCIA E PROTECRO A SAUDE 500.00 '1 48.000,00 48.500.00 10.306 Alimentacao e Nutrican 5.000,00 5,000.00 10.306.0038 MELHORIA DA ALIMENT. DA POPULACAO 5.000,00 5.000.00
+
+11 Trabalho 50.000.00 500,00 50.500.00 11.334 Fomento ao Tabalho 50.000.00 500,00 50.500.00 11.334.8047 APOIO A COOPERATIVAS DE TRABALHO 50.000.00 500,00 50.500.00
+
+12 Educacao 344.000.00 2.107.200,00 2.451.200.00 12.306 Alimentacao e Nutricao 50.000,00 50.000.00 12.306.0094 MERENDA ESCOLAR 50.000 00 50.000.00 12.361 Ensino Fundamental 242.000.00 1.862.700 '1 00 2.104.700.00 12.361,0004 MANUTENCAG ENSINO FUNDAMENTAL 85.000.00 '1 1.038.200,00 1.123.200.00 12.361.0013 PLANEJAMENTO E COORDENACAO GERAL 30.000.00 23.500,00 53.500.08 12.361.0014 MINAS OLIMPICA NOVA GERACAO 26.080,00 26.000.00 12.361.0036 Manutencao do F.U.N.D.E.B. 50.000.00 620.080,00 670.000.08 12.361.0060 BIBLIOTECA ESCOLAR 5.000,00 5.000.00 12.361.0095 TRANSPORTE ESCOLAR 72.000.00 155.000,00 227.000.00 12.365 Educacao Infantil 102.000.00 175.500,00 277.500.00 12.385.0099 PRE-ESCOLAR 102.000.00 175.500,00 277.500.08 12.366 Educacao de Jovens e Adultos 18.000,00 18,000.00 12.366.0010 Educacao de Jovens e Adultos 18.000 00 18.000.00 12.367 Educacao Esaeciai 1.000,00 ' 1.000.00 12.367.0096 EDUCACAO FISICA E MENTAL 1.000,00 1.000.00
+
+13 Cultura 8.000.00 129,500,00 137,500.00 13.392 Difusao Cultural 8.000.00 129.500,00 137.500.00 13.392.0008 ACRO CULTURAL 8.000.00 129.500,00 137.500.00
+
+15 Urbanismo 152.500.00 416.100,00 568.800.00 15.451 Infra-estrutura Urbana 120.000.00 23.000,00 143.000.00 15.451.0112 PAVINENTACAO 120.000.00 23.000,00 143.000.00 15.452 Servicos Urbanos 32.500.00 393.100,00 425.600.00 15.452.0110 ELETRIFICAC#O URBANA 10.000.00 260.000,00 270.000.00 15.452.0121 LIMPEZA PUBLICA 500.00 111.100,00 111.600.00 15.452.0128 Parques e Jardins 22.000.00 22.000,00 44.000,00
+
+16 Habitacao 2.500,00 2.500.00 16.481 Habitacan Rural 1.000,00 1.000.00 16.481.0117 Casas a/Carentes, inclusive Ponular 1.0001 00 1.000.00
+
+MEMORY Informatica Ltda Belo Horizonte - M6 Telefone (31)2126-6388
+
+FOLHA 0003
+
+PREFEITURA MUNICIPAL DE PROGRAMA DE TRABALHO DO GOVERNO - DEMONSTRATIVO DE FUNCOES. ORCAMENTO CANA VERDE —MG : PROGRAMAS E SUBPROURAMAS POR PROJETOS E ATIVIDADES 2.009
+
+Anexo 7. Lei 4.320/64
+
+CODIGO ESPECIFICACAO PROJETOS ATIVIDADES TOTAL
+
+16.482 Habitacao Urbana 1.500,00 1.500.00 16.482.0111 OBRAS PUBLICAS 500,00 500,00 16.482.0117 Casas o/ Carentes,inclusive Pooular 1.000,00 1.000.00
+
+17 Saneamento 215,000,00 87.000,00 302.000.00 17.511 Saneamento Basico Rural 10.000.00 18.500,00 28.500.00 17.511.0114 DISTRIBUICAO DE AGUA 10.000.00 18.500,00 28.500.00 17.512 Saneamento Basico Urbano 205.000.00 68.500,00 273,500.00 17.512.0114 DISTRTBUICAO DE AGUA 50.000,00 50.000.00 17.512.0118 ESGOTO SANITARIO 205.000.00 18.500,00 223.500.00
+
+18 Gestao Ambiental 1.000.00 500,00 1.500.00 18.541 Preservacao e Conservacao Ambiental 1.000.00 500,00 1.500.00 18.541.0115 PRESERVACAO DO MEIO AMBIENTE 1.000.00 500,00 1.500.00
+
+20 Agricultura 400.000.00 70.000,00 470.000.00 20.606 Extensao Rural 400.000.00 70.000,00 470.000.00 20.606.0071 ASSISTENCIA A ZONA RURAL 400.000.00 70.000,00 470.000.00
+
+22 Industria 500,00 500.00 22.661 Promocao Industrial 500,00 500.00 22.661.0127 PLANO DE INCENTIVO A INDUSTRIA 500,00 500.00
+
+24 Comunicacoes 1.000.00 7.500,00 8.500.00 24.722 Telecomunicacoes 1.000.00 7.500,00 8.500.00 24.722.0130 TELEFONIA FIXA E CELULAR 5.500,00 5.500.00 24.722.0135 TELECENTROS 1.000.00 2.000,00 3.000.00
+
+26 Transporte 5.000.00 406.000,00 411.000.00 26.782 Transporte Rodoviario 5.000.00 405.000,00 410.000,00 26.782.0132 ESTRADAS VICINAIS 5.000.00 405.000,00 410.000.00 26.784 Transoorte Hidroviario 1.000,00 1.000.00 26.784.0103 Transoorte Hidroviario 1.000,00 1.000.00
+
+27 Desoorto e Lazer 201,500,00 201.500.00 27.812 DesDorto Comunitario 201.500,00 201.500.00 27.812.0100 ESPORTE E LAZER 201.500,00 201.500.00
+
+29 Encargos Esoeciais 305.000,00 305.000.00 28.843 Servico da Divida Interna 300.000,00 300.000.00 28.843.0136 PARCELAMENTO DA DIVIDA 300.000,00 300.000.00 28.846 Outros Encargos Esoeciais 5.000,00 5.000.00 28.946.0000 ENCARGOS ESPECIAIS 5.000,00 5.000.00
+
+99 Reserva de Contingencia 180. 000. 00 99.999 reserva de Contingencia 180.000,00 99.999.9999 RESERVA DE CONTINGENCIA 180.000.00
+
+MEMORY Informatica Ltda Belo Horizonte - MG Telefone (31)2126-6388
+
+FOLHA 0004
+
+PREFEITURA MUNICIPAL DE - : PROGRAMA DE TRABALHO DO GOVERNO - DEMONSTRATIVO DE FUNCOES. : ORCAMENTO CANA VERDE —MG PROGRAMAS E SUBPROGRAMAS POR PROJETOS E ATIVIDADES 2.009
+
+Anexo 7. Lei 4.320/64
+
+CODIGO ESPECIFICACAO PROJETOS ATIVIDADES TOTAL
+
+TOTAL 1.778.500.00 8.541.50000 10.500.000.00
+
+MEMORY Informatica Ltda Belo Horizonte - MG Telefone (31)212-6388
+
+rolhA 001 •-r .- -- PREF'E ITUPA t'UNtCIPAL, DE ENÏ11IVU Iê DESPESA AUT(RJ1A» : 0RCMJlÜ : CANA VEfrÏ,E : 2.009 1. a --» ---'
+
+fOD111 ØI ftESPES4 FICHA ESPECIFICAÇA0 D1 DESPESA hESPESAMJTuk!ZA)A
+
+P00E: 1E15101V0 426.000,00 Cova uidpd 4C Cana Verde 4à. 0%. 00 c\*r Munl'ip,i 24.400,00
+
+1e10i i84.400,00 01 .t31 Acao Leativa 2144 400.&Q
+
+• 01.031.W54 1AI41T. II1V10ADES C1104 MUNICIPm, 204,400.0 014031.0054.2001 Manutenao Corou Levislativo t\*ar 244.400.00
+
+VQn. Vnt.tis F :a Peioat C1 21.40),0) 3. .90.11.02 1 çente P1ítuc 2U.40o,0t) 3.1.90.13 2 ti:oes PtroRai 4b.00000
+
+3.3.90.31) 11.teri%1 deCompo 00 3.3.90.30.01 3 Material d Consumo 8.000.00 3. 3190.1,135 4 Servicoi de Cr,nuiton.a 12.000,00
+
+1.01.2 rta.etoRóginistríAm Catara 141.600.00
+
+01 Litv 14.t00,0t) 01-122 idistrcao ti(ra 141.600.00 01.122.0013 F1JA?tEWfli t COORDENAM b€RhI. 141 .600.00 01. .122.0013.1001 EQUIpakentos para Casara ?1unicia1 6.000.00
+
+4.4.90.52 EQserto iMatpriai Persaiwntt 6.000 f 00 4.. 5 iqtip.ftatran. OOM. Parni. 6.04)0,00
+
+01.122.0013.2002 tlariuiencao Car n';i'a1 135,600.(4) o 3.1.90.09 1 .0b0,) 3.1.90.09.04 1arto i1i ad( 1.060.00
+
+3. 119(1.11 Vnc. Vantagens ix -Pçcai Civ' 16.500,00 V.1.90. 11.04 1 £ontratado 1.500,00 3.1.90.11 .05 Servidor Casara 15.00,00 3.1 • 0. i3 9 Obrigaçoes í'atronai 10100! 00 3.3.90.14 10 Olarias - Civil 4.000,00
+
+3.3.90.30 Material de C\*o 1 .000,00 3.3.90.30.01 11 Materí41 de Conui 15.000.00
+
+3.3.90.36 outros Física 50.000.00 3.3.50.36.05, 127 Outros Srv,Terceiro; Pessoa F1ica 50.000,00
+
+3.330.39 onfros spyv. Ter ceir-Peita Juridi 29.000.00 3,330.390 11 outrosSrv. Teu, Poa 1uri4ct 29.000 ,oO 3.3.90.92 14 gespesas de Exerricias Antêripres 940.00
+
+440RY Iorsaia U e1t Hor1zonte £111 Teeiove (31)2126-633
+
+FOLHAn>0y
+
+PIEFEfTURA MUNICIPAL DE E0SWr1Y0 IN DESPESA OIVRIZA0A t i'4Hf$it1 CANA VERDE 2.009
+
+CODlp3t DA DESfi FirCHA ESPECIEICACAQ D1 DESPESA ftSf'ES AUR1LW
+
+3.3.90.93 Indenízacoes e Retjtucoeg 3.,90.93.01 J5 Reit. V.jen etc
+
+2 P9ER EXECIfliVi) 9.894.000.00 2.01 A1P4EÏE DO PREFE1FQ 351.90O,O 2.01,1 ibitwte do Prefeito 351.900.00
+
+04 Ad01f1151tracae 351.904).00 \*1122 Adminiqfl-ÃCão ser -31 31.900.00 04.172.0013 P1E10€10 E COO 4440 I3ER1 31 .00.00 04.122.0013.1002 fieladeira, Koveis, Coputaor etc 2.000,00
+
+4.4.90.52 Equipamentos e Nate11i Permanefitê 2.000,00 4.4.90.52.02 16 Eqnp t.Feri. Dote. Patrionia1 2.000,00
+
+04.122.0013.2003 4anuteacao ÇAinete do 'refeito 349.900,00
+
+3.1.90.09 1rio íaiIi 300.00 ..1.30.09.01 12 SaJrio Família Servidores 300,00
+
+3.1.90.11 Venc. çantaçens r aPesoai Civil 257.000,00 3.1.90.11.01 10 Servidores Municipaie 21,000,00 3.1.90.11.03 19 secret a r iado 41.000,00 3.1.90.11.06 20 f'rrdeito/Vce 195.000,00 3.1.90,13 21 0brice3 Patronais 54.000,00 3.3.90.14 22 fliad. - Civil 500.00
+
+3.3.90.30 Materi1 de cnumo 500,00 3.3.90.30.01 3 tsri! de Cono 500,00 3.3.90.3 14 Peri e Depe; c/ Loc3co 2.000,00
+
+3.3.90.3 Outros Serv.Trc ros-Pesoa Física 300,Oo 3,3.90.36.05 25 Outros sery.Ter(eíTsj5 Pessoa Fisica 300.00
+
+0utro Se .Terc ro-Peoa Juridi 30000 3,3.90.39.03 26 Outros Serv. Ter(. Pesa Juridi'a 300,00
+
+3.3.90.93 Indenizaçoes e Rettito,CO95 35.000,00 3.3.90.9t.01 27 Rest. em VDen p/1uni.:ip 35.0007 00
+
+2.02 SECRETrIRTA NU1C. DE 41MIP4ISTRACAO 541 .80O00 2.02.1 SURETARIA PIUtilC. DE At1NJSTRCAD 541.800,00
+
+04 Adiiístraco 52'9.4000 04.122 1i;tr4cao 6er1 529.400,00 04.122.0013 P1NEJE$T0 E CO0RDENRCtO 6941 529.400,00 04.122.0013.1003 efor na Sede do Nuncipio 5000
+
+MENORY Jnforatica itda belo Honzonte - NF Telefone 31)21266388
+
+FOLHA 0003 :PREFEITURA MUNICIPAL DE; ; DE$QNSTRMIVO DA DESPESA AUTORIZADA : ORCANENYO CANA VERDE —I1$3: 2.009 , q
+
+CODIGO DA DESPESA FICHA ESPECIFICACÃO DA DESPESA DESPESA AUTORIZADA
+
+4.4.90.51 Obras e instalacoes 500,00 4.4.90.51.02 28 Obras e Instalacoes Doa,Patriio1aJ 500,00
+
+4.4.90.61 Aquisicao de Isoveis 04.12240013.1004 Maquinas,1.pres,Notocic,Veiculo ptc 6.000,00
+
+44.90.52 EuÂpa.entos e Material Permanente 6.000,00 4.4.90.52.02 29 Equ&p.flat.Pertan, Doe. Patreonial 6.000,00 o04.122.0013.2004 $anutencao Depart. Administrativo 522.900,00 3.1.90.01 30 Aposentadorias e Reformas 37.000,00
+
+3.1.90.09 Salario Faaiha 1.000,00 341.90.09.01 31 Salario família Servidores 1.000,00
+
+1.1.90.11 Venc. Vantaqeøs Fixas-Pessoal Civil 181.200,00 3.1.90.11.01 32 Servidores Plunicipais 150.000,00 3.1.90.11.03 33 Secretariado 31.200,00 1.1.90.13 34 Obrigacoes Patronais 38.100,00 3,3.90.14 35 piarias - Civil 6.000,00
+
+3.3M30 Material de Consuso 30.000,00 3.3.90.30.01 36 Material de Consuao 30.000,00
+
+3.3.90.32 Material de Dístribuicao Gratuita 100,00 3.3.90.32.05 37 Material Distrib. Gratuita 100,00 3.3.90.33 38 Passagens e Despesas c/ Locosocao 800,00 3.3.90.35 39 Servicos de Consultoria 10.000,00
+
+3.3.90.36 Outros Serv.Terceiros-Peuoa Fisica 32M0,00 3.3.90. 36.01 40 Locacao de leoveis 6.000,00 3.1.90.36.05 41 Outros Serv.Ierceiros Pessoa F.ska 26.000,00
+
+3.3.90.39 Outros Ser v.Terceiroa'Pessoa Juridi 180.000,00 3.3.90.39.03 42 Outros Serv. Terc. Pessoa Jurídica 160.000,00 3.3.90.39.05 43 Publicidade e Publicacoes p/Municip 20.000,00 3.3.90.91 44 Sentencas Judiciais 5.000,00
+
+3.3.90,93 Indenizaoe; e Restituicoas 2.000,00 3.3.90.93.01 45 Rest. despesas es Viagens pfllunicip 2.000,00
+
+06 Segurança Publica 12.400,00 06.181 Pol iciaaento 12.400,00 06.181.0013 PLANEJAMENTO E COORDENACAO OERAI 11.400,00 06. 181.00,13.2006 Convenio coa Policia Militar 11 .400,00
+
+3.3. 90. 30 Material de Consuao 9.000,00
+
+PIEPIORY lrtforsatica Ltda Belo Horizonte '- N6 Telefone (31)21264388
+
+FOLHA 0004 '1 f
+
+PREFEITURA MUNICIPAL D: 04 DESPESA 411T0f11.1U0 041ET0 CANA VERDE —Pft 2.009
+
+COOliiO DA D€SrEiA 1CHA ESPECIF!CACIW DA DESPESA DESPESA AUT0R! 7 À
+
+3.3.90.3(.Ót 48 Material Cnio
+
+Outros Ser Tr ir1Pe!oa Fitci 1.500.00 49 í'utr; &prvjerceirú Pessoa Fica
+
+:3,3,90.39 0itros er Ter irPeçço Jiidt 00,00 50 putrij5 Ser. Terc. pessoa Juridicii 3,3. 90.42 1001 00
+
+• 06.181.0041.2008 POLICIA CIVIL C'wenio Pol í cia Civil 500 v 00 500,00
+
+Material de Crtsua 500,00 3.3.90.30.01 53 1tenI de fonivao 500,00
+
+%. i81.00fl4 C.ÍLN.S.E.P. - CON. NIJN. SER. PUL! 500,00 06.181.0084.2009 500,00 3.3 70.41 54 Cortra 500,00
+
+2.0 8CRET9,14 MWICIFAL 0I FAZEN0h 539.5t'000 2.03.1 SECRETARIA MUNICIPAL DA FAZENOb 539.500,00
+
+04 oenitrcao 234. §001 00 044122 1nistrEa4Geral fl5.500,00 04. 122.o004 N4U1TEt4CW EN!NÜ F14ENTA1. 500,00 04.122.04.1010 ec 5.000.00
+
+4.4.90.52 Euipn1c Nter1 Peranerit 5.000,00 4.4.90.52.02 Eup.Mat.Pern. 0o. Ptri 5,000,00 04.122.0004.2010 manotencao secretaria de fAzend3, 123.500,00
+
+3.1.90,09 S!ario Filia 50(1,00 1.1.90.09.01 51aro fasilía Servidores 500,00
+
+3.1.90.11 Vend. vantagens x-Pee0a1 Civil 500,00 .90.11.01 Srvre Municipais 60.000,00 3. 11,03 Scretrdo 37.500,00 3.1. 90.13 ObTígacoes Ptrona 208500 00 3.3.90,14 000,00
+
+3.3.19,0 Ni material de Conuo 3.000.00 3,3.90.3V .01 material &' Consulki 3.000,00 04.122.0013 PLNEJHET0 E CdIIWOEN4CAO E}4L 6.00000 04. 22.0013.200 tnwenio co\* AP apo,A?iPl E CM1I 6.000,00 3.3.70.41 55 Contric 6.000,00
+
+04. 122.0045 FASEP 60.000,00 04.122.0045.2011 trib11ce pua P.A.S.E.P 60.000,
+
+!41M0RY Inforfatica Uda Bei Hori.mte 46 Telefone 02126-638
+
+FOLHA 0005 :PREFE I TURA MUNICIPAL : DEMONSTRATIVO DA DESPESA AUTORIZADA : ORCANENTO : : CANA VERDE MB: —Me.- 1 2.009 .',
+
+CDDT6O DA DESPESA C90160 FICHA ESPECIFICACAO DA DESPESA DESPESA AUTORIZADA
+
+3.3.90,47 56 Obrigacoes Tributar,e Contributivas 60.000,00
+
+04.122.0063 ARRECADAO E CONTROLE DE TRIBUTOS 31.000900 04. W.0063.2012 Adinlstracao Financeira 31.000,00 3.3.90.92 57 Deesas de Exeuicios Anteriores 1.000,00
+
+3,3.90.93 Indenizacoes e Restituicoes 30.000,00 3.3.90.93.04 58 Restit. Saldo de Convenios, lPTUetc 30,000,00
+
+604.123 Adainistracao Financeira 9.000,00 04.123.0063 ARRECADAO E CONTROLE DE TR1RUTO9 9.000,00 04.123.0063,2013 Adainistraceo Financeira 9.000,00
+
+3.2.90.22 Outros Enc. 5/ Dívida p1 Contrat. 500,00 3.2.90.22.01 62 JUROS DESPESAS iCAMENTARlftS 500,00
+
+3.3.90.30 Material de Consumo 500,00 3.3.90.30.01 63 Material de Consumo 500,00
+
+3.3,90.39 Outros Serv.Terceiros-Pessoa Juridi 8.000,00 3.3.90.39.03 64 Outros Serv. Terc. Pessoa Juridica 8.000,00
+
+28 Encarqos Espedais 305.000,00 28.943 Servico da Dívida Interna 34)0,000,00 28,843.0136 PARCELAMENTO DA DIVIDA 300.000,00 28.843.0136.2014 Ruitacao Uniao,8DN,IN55,F6T5,1PSEfl 300.000,00 3.2.90.21 65 Juros Sobre a Divida por Contrato 60.000,00 4.6.90.71 66 Principal Div. Contratual Resgatado 240.000,00
+
+28.846 Outros Encargos Espedais 5.000,00 28.846.0000 ENCARGOS ESPECIAIS 5.000,00 28.846.0000.2015 •Pagasento de Precatorios 5.000,00 3.3.90,91 67 Sentencas Judicíai.s 5.000,00
+
+2.04 SECRETARIA MUNICIPAL 0€ EOUCACAO 2.451.200,00 2.04.1 SECRETARIA DE EDUCACAO 1.781.200,00
+
+12 Eduacao 1,781.200,00 12.306 Aizentacao e Nutricao 50.000,4)0 12.306.0094 MERENDA ESCOLAR 50.000,00 12.306.0094.2016 Merenda Escolar Ensino Fundamental 50.000.00
+
+3.3.90.30 Material de Consumo 50.000,00 3.3.90.30.04 68 Merenda Escolar 50.000,00
+
+12.361 Ensino Fundamental 1.434.700100 12.361.0004 NANUTENCAO ENSINO FUNDAMENTAL 1.123,200,00 12,361.0004.1005 Estaz,tes,Comp.,Plotocic.,Veiculo etc 30.000,00
+
+MEPIORY Inforaat.ca Ltda Belo Horizonte - 8 Telefone (31)2126-6388
+
+F1Hg OJ6 ;P1Er'EXTuRA MUNICIPAL DE DoNmATrt'a DA DESPESA ÜTDRIIbA : RCAFNT : CANA VEPDE \*MC : : : 2,003 e
+
+CUDI& DA DESPEM FICHA ESPECIFICAM DA DSESA DESPESA AUTORIZADA
+
+4.4.0.52 Equip.entcv e l4teria1 Permanente 30.000,0 4.4.90.52.02 69 Eçuip. Mat. ran.Do.. Ptron1ai 30.00O00
+
+12.361.0004.1006 Coostuca.!Refor.f4p1iac.w Eceia 55.0ke00\* 4.4.90.51 e intaoes 55.00000 4.4.90.51.()1 70 Obras e Inttalacoeç Do.. Publico
+
+12.J61.0(O4.2017 Narwtencae do Ensino FundaentI 1.038.200ft)0 3,1.90.01 71 Apofentadwiís e Refor.as
+
+3.1.90.09 salarírjF1i 1I.G0000 3.1.90.0901 72 Stri4. Faailza Servidores 11.00000
+
+3.1.90.1 Venc. hotams fixas-Pessoal Civil 646.000.00 3.1.90.11.01 73 Seridores muflicípais 605.000,00 3.1.90.11.03 Secretariado 41.0009 00 3.1.90.13 74 obrigacoes Patronais 135.000,00 3.3.90.14 75 í,iaria Civil 6.200,00
+
+3.3.90.30 Naterial de Consolo 130.000,00 3.3.90.30.01 76 Materí.í1 de torueo 130I00000
+
+3.3.90.32 iatpria1 de Dtr1bufrao 6ratuita 25.000,00 3.3.90.32.02 77 1atffla1 Eco1ar 25.000100 3,3,90.35 73 Serviços de Consultoria 9.000,00
+
+3.3.90.36 Outros Fisica 5.000,00 3.3.90.3L0 79 Nitrog Peèa Fisica 15.000,00
+
+3.3,90.39 outros Serv.Terreiros-Pessoa Jvrdi 50.000,00 3.3,90.39,03 90 Outros Serv. lerc. Pessoa juridira i4),000,00
+
+12.361 £0013 PLANEJAMENTO E COORDE$ACAU 6EA1 53,500,00 12.361.0013.1007 tovic para aslicao de Esco1a. 30.000,00
+
+4.4.90.61 Aqucao de 1oveis 30.000,Oo 4.4 .90.M.02 RI Aqui;ico Igoveis Doa. Patrionia1
+
+12.361,0013.2018 Setor Adjnistrativo 1duccao 23,500,01) 3.3.90.14 82 harias - Civil 3.50O00
+
+3.3.90.30 Material de Conuo 3.000,00 3.3.90.30.01 83 Mateii de Coosu. 3,000,00 3.3.90.35 34 Seis. de (:u1torja 3.000,00
+
+3,3.90.36 Outros Serv.(erceiToc-Peoa fí;ica 5.000,00
+
+IIEPIORY toti LtdBelo HorIzr.oe -- 06 Telefone (3I)2126-388
+
+FOLHA 0007 ;1PEFITUR UICPL DE A ESESA ATORIZA DA ORCAEN1O CANA VERDE —ME: 2.009 :
+
+CDD1O DA 1ESPESA FICHA ESPEC1FICACA9 DA D€SPESA DESPESA áUTORIZADA
+
+3.3.90.36.05 85 Outros Spry.Te(fetros Pessoa Física S.,00O,00
+
+3,390,39 Üutri Serv.Terceiro Pecj Juri 3.3.90.39.03 86 0utrs Serv. ler. Pessoa Jurihca 5.000,00 3.3.90.3904 17 Undime 1.000.00
+
+3.3.%.93 I ndênizaçoese Rtttucc' t .000.00 3.3.0.93.01 88 kest. dospesas e. Vlaaen5 p/h4unui;
+
+12.3).0(4 UNS 0L1MP1C( t404M ,ERA(40 26.000.00 12.31.0014.2019 Pnut. 01045 Uii.:a Nova er.:t 2.000.00
+
+3.3.9030 tat:eri1 COPSURO 0,00 3.3.90.30.1 39 Pteria1 de Conuts 6. 000, (iO
+
+3.3.90.36 Outros Serv.Tercero-Pessoa Fsia 70.000.00 .3.3.90.36.05 90 Outros Sen.Teriros Pessoa Física 20. 000,00
+
+12. 61 81L10TECA ESCOLAR .00& 00 12.3 1. 0060. 1008 itea Escolar Municipal 5.000,(AO
+
+4.4.90.52 Euipento5 e material Perma112mite 5.000,00 ',4,90.52.02 91 E4u Oc,s. Ptroni 5.00,00
+
+12.361.0095 TRANSPORTE ESCOLAR 227.04)0.00 12.361.0095.1009 ui1co Veiculo Tranpove Ecf1,3 72.000,00
+
+4,430.52 iuefto! e material Perlanetite 12.000,00 o 4.4.90.52.02 2 Equiç.Iiat.Peuian. DL trioniai 12.000.00
+
+12.36i .095.2020 ntteao 1ruofe Ecoar
+
+3.3.90.30 Material de Coogum 110.000.00 3.3.90.30.01 93 Material de 1 (0.000.0k'
+
+3.3.0.36 Outros rv.ïerceiroe-Peso.' FisIc 15.000.00 3.3.90.3.05 94 outrás sery.TimeirviPesvm filiri. 15.000.00
+
+3.3.90.39 outros Serv,terce r-Peoa Jnidi 30.000.00 3.3.90.39.0.3 95 turo Sev. Tet. Pessoa iuru1ici 30. 0v4, .'M4
+
+12.365 Edu(mo 10ant11 277.500.00 12.365.0099 PRE-EI3CUIA$? 277.5tW. 00 12.365.0099.1009 e ateri1 ?er.anente 2.000.00
+
+4.4.90.52 tentos e material Penente 2.000,00 4.4.90.52.01 uip.itt.Per,anmte \*.P1L1'cc' 2.000,00 12.365.0099.1010 CtIConc1uao de Escola Lntntii 50.000,00
+
+H1WY Inforoatica ltda seio 1ft?oR0 ttj Telefone (31}2bi8
+
+1 t04 0008
+
+PREFEITURA MUNICIPAL DE
+
+CANA VERDE
+
+-
+
+COMO DA DESPESA FICRÃ E$PECiF1CCAO DA DESPESA DEtPES4 AUTORIZADA
+
+4.90.51 0br; e Ins t alic oês 50.000.00 4.490.51.02 % tra e Jnt are oPatroud .000.00
+
+12 65.0099 1011 Contr. guadra Creche Ptwici,aI 50.000.00
+
+4.4.90.52 Equítos emateriA Pernnte 50.000.00 4.441.52.01 E.tnent P10 50.000,00 12.365.0099.2021 Pre-EEo1r Rede P101 175.500.00
+
+3.1.90..09 Salario FM1ia IÂM IO0 3.1.90.419.01 97 Salario rai1a Servidores 1.600,00
+
+3.1490.11 Venc. Vnteis Fixas-Pessoal Civil 140,000,410 3,1.90.11.01 98 Sérvidofm Munici pais 140.000,00 3.1.90.13 99 Obriq~es P a tronais 29.400,00 3.3.90.14 100 Olarias Civil - 1.000.00
+
+3.3,90.30 materíA de Conuao L5410,00 3.3.90,30.01 101 flá tta rizil de foriráuau 1.500.00
+
+3.3.90.36 Outros ervJpreiros4ess'a Fi1ca 1.000.00 3.3.90.36.05 102 0troe ServJemtres Pessoa Fs1ca 1.000.00
+
+3.3.90.39 Out r os Serv.lereir esso iuici 1.000,00 3,3.941.39.03 103 Outros Serv. Terc. Pessoa Joridicp 1.000.00
+
+• 12.366 Educacão de 3overts e Adultos 113.000.00 12.366.0010 Ed,caao de Jovens e Adultos 113.000.410 12.366,0010.2022 Edcacao de Jovena e Adultos 18.0410,00
+
+3.3.90.30 ma terial de Cónsoio 500.410 3.3.90.30.411 104 flteriai de Consuo 500,00
+
+3.3.90.36 00r0 Ser rcrcsoa Ftr, 17.000.00 3.3.90.36.05 15 Outros 1ev.Tercetro Pessoa f1 ~ ka i7.(w0,00
+
+3.3.90.39 Outros Serv.ierceir s-Pessoa Jurhui 3.3.90.39.03 106 Outros Serv. Terc. Pessoa Juridica 500.00
+
+12.367 Eduacao Esoedal 1.00000 12.367.00% EJIUCACAITI FISICA E IENTA4. 1.000.00 12.367.0096.2023 Convenio (i.P.A.E. 1.000400
+
+3.3.50.43 bvencoes Sociais 1.000100 3.3.50.43.05 101 &bvenaofConveoio A?IW 1.4100,00
+
+2.04.2 FJLN.0.E.B. ÇN. 000.410
+
+ME$IY Joforsatia Ilda Belo Horizonte - 146 Telelone (31)2126-6388
+
+fOLHA 0009 PREF'EiTWA MUNICIPAL DE: DEMONSTRATIVO OA O P!E1A WTORIZAiA : ORCAH€NTO t 1 CANA VERDE 2.009
+
+COM DA DESPESA FICHA ESPECIFICAÇÃO DA DESPESA tESPESA AUTORI ZAO
+
+12 Educacao 670.000.00 12.361 Ensino Frnda4ent31 674),000,00 12.361.0036 Manutenao do F.U.N.D.E.L 670,000,00 12.361.0036.1026 Veículos, Equipa., Motockleta et 50.000,00
+
+4.4.30.52 Euipaento e P1te1 Peranante 50 '300 • 4)0
+
+Erili.Nat.Per\*a. Oo\*. Ptron:ak 50.000.00 12.361.0036.2045 11nutøcaG do F'inde 620.000.00 • 3.1.90.09 Salarxo F?i1i 1.000.00 3.1.90.09.01 Slrio lia SrmIore 7.000,00
+
+3.1.90.11 Vent, Vann F a»Poa1 Civil 463.000.00 3.1.90.11.01 ser vidores 1unicia 463.000.00 3.1.90.13 0hriomes PatroNis 90.000.00 3.3.90.14 olarias - civil 2.000,00
+
+3.3.90,30 14terii de Comão 20.000.04) 3.3.90,30.4)1 Í4at'ri1 de Corwuio 3.3.90.35 de COOSU1tQrI 5.000.00
+
+3.3.90.36 00tr0 Serv.Terceiro Peiioa Fisic 13.000,00 3.3.90.36.05 Outros Sprv.Terceiros Pessoa física 13 .00u. 4)0
+
+3.3.90439 Outros Se?v.Terceiro Peo Juridi 10.000.00 3.3.90.39.03 Outroo Sent. Ter. Pessoa Jundia 10.000.00
+
+• 3.3.9093 Indenimoes i Retitu:coes 2.000.04) 3,3.90.93.01 Rest. despegas ei Viaeens p/Mmii 2.000!00 2.0 SECRETARIA MUNICIPAL DE SAUDE 2.50.800. 00 2.05.1 SECRETARIA tW1C UAt. 0€ 5AD0€
+
+10 saude 10.301 Atenuo togica 2.22H.200,00 10.301.0013 P1.AiJAP1E$TO E UQUENAÇA0 GERAL 242.100.00 10.301 .0013. 1011 Veiculo-Motocicleta. coaputador etc l'\*4)00p00
+
+4.4. Yf4.52 EQuuerLtos e Hatert.'d Permanente 10.0(40.00 4.4.90.52.02 108 Equiç.Nat.ferrt. t)oa. Patrísonial 10,000.00
+
+10.301.0013.1012 Cwt, Rei. (ent.Saude/F i s iot/Faraaci 170.000.00
+
+4.4.90.51 Obras e int\*1acoe 4.4.90.51.02 109 obras e Instalacoes 09.Patr:onia1 1?0.000.00
+
+10.301.0013.1050 Auuicoet Imoveís oaT3 Saude 500,4)0
+
+?IENURY ÁfiforRatitâ Uda pelo Horizonte - ielelone 226-3
+
+.-- -\_.-s íOI.HR VOlt) o PREEITUR MUNICIPAL DE; 1DEMONSTRATIVO DA DESPESA AUTORIZADA 1 CANA VERDE —116:
+
+C011160 DA DESPESA FICHA ESPECDICACAU DA DESPESA DESPESA AUll)11A0A
+
+4.4.90,61 Aouisicao de heoveis 30.00 4.4.90.61.01 Aau:ícao Inoveis Oos. Publico YX1.t'Q 10.301.0013.2024 Setor Administrativo da Saude
+
+3.1.90.09 S1arto Faia' lia 5(30.00 3.1.90.09.01 Salario Faiiia Servidores 500,00
+
+• 3.1.90,11 Yenc. Vantagens Fixaa-Pessoal Civil 41.000,00
+
+- 3.1,90.11.03 110 Secretariado 41.000.00 3.1.90.13 111 Obrioacoes Patronais 8.7009 00 3.3.90.14 112 Diarias Civil 5.000.00
+
+3.3.90.30 14teria1 de £o,uao 2.000,00 3.3.90.30.01 113 Material de CoMuio 2,00.00 3.:4.90.33 114 Pauaoeng e õesmas c/ totoiio(ao 500,00 3.3.90.35 115 ServKos de Consultoria 500•0)
+
+3.3.90.36 Outros Serv.tercelros-pessoa filiça 2.000.00 3.3.90.36.05 116 Outros 9erv.Tercetros Pessoa Fsica 2.000.00
+
+3.3.90.39 Outros Serv.Terceiroe'4essoa JurIdi 1,000,00 3.3,90.39.03 117 Outros Serv. Terc. Peuoa Juridica 1,000.00
+
+3.3.90.93 1ndeniroes e veituicoes 1.000,00 3.3.90.93.01 118 Rut. des Vwn D!UIIIC19 1.000.00
+
+10.301.0027 SAUDE DA FAULIA 117.000.00 10.301.0027.1013 Condusau Nova Sede do ltW 140.000,00
+
+4.4.90.51 Obras e Instalacoes 140.000.00 4.4.90.51.02 119 Obras e Insta1aoes Doa.Patrilonkal 140.000,00
+
+10.301.0027.1014 Aauis, Motoddeta. Equinas. 01 P9 10.000,00
+
+4.4.90.51 Obras o hstaiacops 10.000.00 4.4.90.51.02 120 Obras e Instalacops Uo,Patriaosii 10.000,00
+
+104301.0027.2025 Planiit, Proorasa Saude FastlU - PSF 567.000.00
+
+3.1.90.09 Salario Fa111a 2.600.00 3.1.90.09.01 121 Salarics Ia.i1ia Servidores 2.600.00 3.1.90.13 122 Obri&o&s Patronais 60.000900 3.3.90.14 123 fliarias - Civil 2.400,00
+
+3,3.90.36 Outros Serv.rerc ros-Pessoa Flsica 500.000,00 3.3.90.36.06 124 Contratados Proo, Saude lasilia 500.000,00
+
+3.3.90.39 Üuttos Serv.Terceiros-Pessoa .luriói 2.Ot)0.00
+
+€1ORY Inforsatica Ltda e10 IlorUonte - 116 Telefona (31)663H8
+
+F01Ht 0011 PREFEITURA 4ILJNICXPAL DE 1
+
+o : 0RCA4i4I0 CANA VERDE 2.009 :
+
+Iffi DESPESA FICHA ESPECIFICACAO Df 01SPESI% A0 0120A
+
+3.3.90.39.03 125 outros Serv. Ter. Pessoa Jurídica
+
+10.301.0035 hTti4Cn0 E PJ4C9 04 541OE 1.229.500,00 10.30.0035.105 Eouip.p! !aude. Fit..Aabi1.labor 5.000.00
+
+4.4.90.52 Equinaents e $tria1 Permanente 5.000,00 4.4.30.52.02 126 Eirá D. W.Peratn. Dos. Patriffioniai 5.Ot\*.00
+
+1301.0035.2026 llanutencao Servicos Saude 1.224.500.0 • 3.1.90.09 Salno vagilia 8.500.00 3.1.90.09.01 177 S41r10 Eaia 5e71ore 81500,0
+
+3.1.90.11 '/enc. Var1taee fi% s-Pesoai Civil 551.900.00 3.1.t4. 11. 0 1213 servídores Munícipais 551.000.00 3.1,90.13 131 Obracoes htronai5 116.000.00 3.3.90.14 132 Diarías - Civil S.0ftG.0O
+
+3.3.90.30 erial de Coniso 3.3.90.30.01 133 Material de Cossuso 160.0ft0.04J 3.73 M. 30.()2 139 Pateria1 Ned/H f0/1aborato la! 35.000.00
+
+3.3.90.32 Matéria) de O tilbuicao 6ratutta 95.000.00 3.3.90.32.01 135 MeÉcamentos 95.000,00
+
+3.3.90.36 Outros 13erv.Terceiros-Pe110a risica 39.000,00 3.3.90.36.04 136 Consulta de Carentes e exames etc 4.000,00 3.3.90.36.05 137 Outros Serv.terceiros Pessoa Ftska 35.000,00
+
+3.3.90.39 Outros Serv.lerceiros-Pessoa Juridi 170.000.00 3.3.90.39,01 138 Eases, Consultas. ia tnacoe; etc 100.000,00 3.3.90,39.03 Out ros Srv. feic. Pessoa Juriduta 70.000,00
+
+3.3.90.93 Indenors e 25.000,00 3.3.80,93.01 140 Pnt. despesas es Ytaoens n/Munkip 2.00000 3.3.90.93,02 141 Rest. Pç3ç1S 3.000.00 3.3190.93.03 142 Ret. Corru!tau Medicas e Evase 20.00o,00
+
+10.301.00137 OISTRIBUICOtI DE $E131CÀIENTÜ1 39.000,00 10.3\*1.00137.2027 Farsada Rasica 39.0i10. 00 3.3.90.41 143 Contribuicoes 39.000,00
+
+10.304 Viodancua Sanaria 5.100.00 10.304.0033 VI11ANCIA E Pf0EECAO A SAUDE 5.100.00 10.304.0033.1028 uaoasentos ul Viu.aua 1.000,90
+
+4.4.90.52 Eutusentos e flater ia! Peranente 1.000.00 4.4.90.52.01 Eoulp.iiat ,Perunento 0,3\*.POUico CO 1 .000.0t)
+
+1110f3 itilomatica ttda Belo Wúrizonte - 113 Telefone 0112126-63813
+
+1 fU0A 0012 ;REEITURA MUNICIPAL DE DEflO$$WAI1VO bA DESP€SA UJR1A!1 : OkCME$TO : CANA VERDE —MG: 2.009 ix -t 1 p ...1
+
+CtIIU$Ü DA DESPESA FICHA ESPECIFICAUID DA DESPESA 0ESPEA AUTOPIZAOA
+
+10.304.0033.2028 V011an. e Proteco Saude .100.00 3.1.90.0 410ri Ía.t1ia 500.00 3.1.90.09.01 144 SaUriça F1ia Servidores 500,(Wi
+
+3.1.90.11 Venc. Yantiens Fixas—Pessoal Civil 500,00 3.1.90.11.01 45 Servidores Muni »i 500.00 3.1.90.13 146 0bdqaoes Patronais 100.00
+
+3.3.90.30 Material de Conuat 2,000.00 3.3.90.30.01 147 material de Consuio 2.000.00
+
+3.3.90.36 Outros Serv.Tercezr oa Fiica 500.00 3.3.90.3b.05 148 Outros Serv.lerceiros Pessoa '1sita 500.00
+
+3.3.90.39 Outros 1erv.Tererus-Pesoa Jttd1 300,00 3.3.90.39.03 149 Outros Serv. Teu.. pessoa 500.00
+
+10.305 Vioi1ancu Enide\*io1ooc 411.500,00 10.305.0033 vI8110:A E PROTECAO A SAUDE 40.500.00 1305.0033.1016 6e1a00ir, Co.i\*itador, $ess etc 300.00
+
+4.4.90.52 Euuip\*ntos e Hateria Peraanente 500,00 4.4.90.52.02 150 Equip.Nt. r\*i. Dos. Patri#onu 500
+
+10.305.0033.2029 Vtf1ancie Eptd'aica 48.000,00
+
+3.1.90.09 Sa1rio FasIlia 1.000.00 9 3.1.90.09.01 151 Salarlo Foilis Servidores 1.000.00
+
+3.t.90.1 ?enc. Vantauensfixas-Pessoal Civil 32.800.00 3.1.90.11.01 152 Servidores munirtuail 32.800,00 3.. 1.90.13 153 0hricoes tronai 6.700,00 3.3.90.14 134 Maria - civil 1.500,00
+
+3.3.90.30 hter1 de Consumo 4.000.00 3.3.90.30.01 155 Material de CQnsueo 4.000,00
+
+3.3.90.36 Outros Serv.Tercetros-Pessoa Fisica 500.00 3.3,90.36.05 156 Outros Serv.Ter'eiros Pessoa Física 500,00
+
+3.3.90.39 Outros Sery.Terceiros-Pessoa JurIOi 1.500,00 3.3.90.39.03 151 Outros Srv. Terc. Pessoa Juridica 1.500.00
+
+10, 30 Alimentam e lltsticao 5.000.00 14E1HORIA DA ptlfIiNf. DA PW4JLACAO 5.000400 10.34J6.003.2030 Carendas mutriciouis,
+
+IIENORYIntorntica ltda 3e10 Horizonte - iu íeleIot' C31l230i3
+
+íü10 íXW 1 1
+
+PREFEITURA MUNICIPAL DE: : 1 : t43TAl1VU 0 bESE3A 0RiíAi4 CANA VERDE —MG: : : 2.0U9 1 1 , --
+
+COW(5U DA DEPESA FICHA E6P1iCIRCCA$1 øí ØFft DESPESA 0J1BRI?!
+
+material de (nmin 3.3.90,30101 158 N3er1a) de únu\*c,
+
+17 Saneasento 302.004),00 17.11 Saneento Raico Rural 28.500.00
+
+• 17.511.0114 bISJRUIeAO 11€ MWk 28.50,0) E.511.01i4.1út7 fba, Ru Rural, Pocos Artesinc.s 10.000.00
+
+4.4.90.51 Obras e 1n1coee O.000.00 4.4.90.51.01 159 Obras e lnt1aoe Oo.. Publico 10.000.00
+
+17.511.0114.2031 Abastecimento de Auua 18.510.00
+
+3.3.90.30 $ater,i1 de Coi,u.o 1000100 3.3.90,3001 160 Material de Conueo 10.000,00
+
+3.3.90.36 Outros Serv.3erceiros-Pessoa Fica 3500.00 3.3.90.36.05 161 Outros Sery.Terceiroi Peesoa Física 1.500.00
+
+3.3.90.39 Outros Serv erceiros-esso Jurídi 5.000.0 3,3.90.39.03 162 Outros Ser. lerc. Poa Jurdica 5.000.00
+
+17.512 Saneamento Sasico Urbano 273.500.00 17.512.0114 OIWÍRIBLJICAD 0€ hbIM 50.000,00 17.512,0114.2032 Ahastecioento de Awaa 50.000,00
+
+3.3.90.39 Outro SerY.Terceiros-Pe!oa Juridi
+
+o 17.512.0118 3.3.90.33.03 163 Outroe Serv, Terc. Pessoa Jurídica 50.000900
+
+MOTO SAkITAIIIO E31500.00 17.512.0118.1018 Sar,.8asíco.Eeoto,8anb,Cana1 .Corre 200.000,00
+
+4.4.90.51 Obras a 1ftsia1aroç 200.000.0v 4.4.90.51.01 164 Obras e Instalaçoes Doa. Publíco 200.000.00
+
+11.512.0119. t033 Boaba para m. Eou1aaentos etc 5.000.00
+
+4.4.90.52 Eaulpa.entos e material Pereanente 5,00000 4.4.90.52.01 €quip.t4at.Peraanante loi.1'ub1ico 5.000.00 17.512.0118.2033 Esuoto Sanitario Urbano 18.500100
+
+3.3.90.30 atet131 de Conttso 15.000.00 3.3.90.30.01 165 HateriaI de Consumo 15.000.00
+
+3.3.90.36 Outros rvJurc ros-Pessoa hsica 500.00 3. 3. 90.36.05 166 Outros Serv,lercelros Pessoa Fisira 501),10
+
+3.3.90.39 Outros Serv.Tarceiros-Pessoa Juridi 3.004,00
+
+1EI101' Informatica ltda Rolo Hor1onte - NO 1etom (3)2126-63i9
+
+FULHI 0(U4
+
+PREFEITURA MUNICIPAL DE DIMWISTRATIVÜ DA LESPES AHHW11AW : ORtAMENIO : : CANA VERDE 2.009
+
+COMO DA DESPESA FICHA €8PECIF1CACAO DA DESPESA 1ESPESA AUTORIZADA
+
+3.3.90.39.03 167 Outro; Serv, leu. Peisoa Jurídica 3.000.00
+
+2.06 SEC. flUN. TRA9. E SEPV, URU 1.291.600t 00 2.06.1 SEC. NUNS TRANSP. E SERV. U113N0 1.291.600.00
+
+04 Adeinistrca 416.500.00 04.122 Adainistracao 6eral 426.500.00 04.122.0013 PLANEJAMENTO E C00DENâCA0 0ERtI. 426.500.0')
+
+o 04.122.0013.1034 Equipamentos ura eretaria 3.000,00
+
+4.4.90.52 Equipamentos e Material Peranete 4)00,00 4.4.90.52.02 Equip.Nat.Pertn. 0ti. Patrimonial 3.000.00 04.122.0013.2034 Nanut. Iiec. Transu. e Urbanos 423 .500.00
+
+3.1.90.09 Salario Fasilia 4.000,00 3,1 .30.09.01 Salarío Fa.i1ta Servidores 4 .OuO.00
+
+3.1.90.11 Venc. Vantagens Fias-Pesoal Civil 34)1.200.00 3.1.90.11.01 Servidores Municipais 210. 000 3.1.90.11.03 Secretariado 31.2o0.00 3.1.90.13 170 obrioacoes Patronais A53. 30.00
+
+3.3.90.30 Material de Consumo 40. 000.00 3.3.90.30,01 171 Material de Consumo 40.000,00
+
+3.3.90.36 outros Ser.Terc ros-Pessoa Fiica 5.000.00 3.3.90.36.05 172 Outros Serv.Teueiros Pesara físiça 5,000.00
+
+Outros Serv.lerceiros-Pes;c.a Juridi 10, 000, 00 3.3.90.39.03 173 Outros Serv. Teu. Pessoa Jurídica 10.000,00
+
+15 Urbanismo 448.600,00 15.451 Infra-estrutura Urbana 23.000,00 15.451.0112 PAVlMEI(iACA'J 23.000,00 15.451.0112.2036 $ariutencao Vias urbanas 23.000.00
+
+3.3.90.30 Material de Consumo 20.000.00 3.3.90.30.01 179 Material de Conauo 20.04)0,00
+
+3.3.90.36 Outro; Ser rcro;-Pessoa Física 2.000.00 3.3.90.36.05 10 Outros Serv.Terceuos Pessoa Física 2.000,00
+
+3,3.90.39 Outros Serv,Teueiros-Pessoa Jurldi 1.000.00 3.3.90.39.03 181 Outro; Serv. Terc. Pessoa Jurídica 1.000,00
+
+15.452 Servico; Urbano; 425.600.00 15.452.0110 ELETRIFICACÍIO UPJANA 270.000,00 15.452.0110.1021 Si;teu Eletrico Urbano 10.000,00
+
+NEMORY Intorsatica t.tda Belo Horizonte - 86 Telefone (31)2126-6388
+
+PREFEITURA MUNICIPAL DE 0ITTTV0 04 Der-WESA AVURfiA0A CANA VEROF
+
+C90I89 Dft ESESPESA FItIffi ESPEC1FICAC0 EA DESPtSR D€SPESA AUTORIZAM
+
+4.4.90,52 e Material Permanente 10.000900 4.4.90.52.01 192 Equp 1.leraanente Do\*.Publico 10.000,00
+
+15.452.0110.2037 Fornec. Eneraa para o flinipio 260.00000
+
+3.3.90.39 outro Serv. Tercei ros-Pe3o Juridi 260.000,00 3.3.90.39.03 183 Outros Serv. ierc. Pessoa Juridzca 260.000.00
+
+• 15.452.0121 LimPEZA PUBLICA 111.600.00 15.452.0121,1010 Eu1paent, lixeiras ptc 500II00
+
+4.4.90.52 EqttIpaento; e Materiai Perojaionte 500,00 4.4,90.52.01 Eqnp.Nat.Permaente 0o,PuoIic 54)0,00
+
+4.490.52 Equipaaentoe e Material PerRanente 15.452.0121,2038 Ianutenco Aterro Contro1do 4.500.00
+
+3,3.90.30 material de Cso 1.000,00 3.3.90.30.01 184 Material de Cersu. 1.000.00
+
+Outro er.ierceiro5-Poa Fiica 300,00 3.3.90.36.05 185 Outros Serv.Terceiro Pps,.;oa Fica 3.000.00
+
+3.3,90.39 Outros 8erv.fereiros-Peuoa JuriIl 500,00 3.3.90.39.02 186 Butros Serv. Terc. Pessoa Juridca 500,00
+
+106.600.00 o 15.452.0121.2039 Coleta Urbêna de Lixo
+
+3,1.90.09 Saluio Fasilia 2.000,00 2.1.90,09.01 187 Salario Familia Servidores 2.000.00
+
+3.1.90.11 Venc. Vantaoens Fixas-Pesoa1 Civil 60.000.00 3.1.90.11.01 198 Servidores Nuidpais 60.000000 3.1.90.13 189 0briacoes Patronais 12.600.00
+
+.3.90.30 ifaterial de Constso 22.000900 3.3.90.30.01 190 flateriã1 de Consote 22.000900
+
+3.3190.36 Outr's Serv.Terceiro-Peuoa Fisica 6.000.00 3,3.90.36.05 191 Outros Serv.Terce'r Pessoa fha
+
+3.3.90.39 Outros Serv.Tercairos-Pessoa Juridi 4.000.00 3.3.90.39.03 192 Outros Serv. lerc. Pessoa Juridica 4100.00
+
+15.452.0128 Parques e Jardins 44.000,00 15.452.0128. 1022 Reforta Pracas e Jardins 22.000.00
+
+8ENÜ1Y 1noratc ítoa Selo Horizonte - PIO ïeielorse (3t2176-6388
+
+fULPIA (1016
+
+PPEFEI lURA MUN XCI PAL DE :
+
+-: CANA VERDE
+
+C00160 QA iiSPEU FICHA ESPECI1CCA0 DA )EPESA ESP1iA AUTÜkI7.MR
+
+4.490.51 Obra e Instalarces 22.000.00 4.4.90.51.01 193 Obras e Ett4ce 0cm, ubi:o
+
+. 15 452 .012.2040 Hrwtei?o fraue e Jrdiç 22.Q0100
+
+3.3.9i).30 Nater11 0c Cnuo 6.000 .04) 3.3.90.30.01 1$7matefiá de Cori. 6.04)0.00
+
+• 3.3.90.36 3.3.90.3M5 Outros Serv.1erceiros-Pess Fisfc 198 Outros Serv.Terceíns Pea Fsc 1.00000 7.000,01)
+
+3.3.90.39 0Jtro! erv.Terc ros-Peo Juridi 9.000.00 3.3.90.39.03 P9 Üutro Ser. Ter. P ndica 9.000.00
+
+24 Cmuniccoes 5.500.00 24.722 ieiesunccoe 5.500,00 24.722.0130 ÏEIEFÜNIA FIXA E CELULAR 5.00,00 24.722.0130.2042 Teni Rural e Tansa. Televo
+
+3.3,90.;30 Mtert1 de consufo 5t'0.00 20 P1teri de C'nuw 500.0'.'
+
+3.3.90.36 ourorv.Terc\*ir,Peoa FjSIÇR 1
+
+33b.05 204 êutros SerMerceiros 2.500.00
+
+3,31 .9039 Outros Serv.Tercet Juridi 2.000,00 3.3.90.39.03 205 ÜuUo; IJer'. ïerc, Jridc 2 00.00
+
+o 4.49O.52 EQuipatenoç e oateriai Fereanente 500.00 4.4.90.52.01 206 Euip.t.Perneite ø.ubIico 500.00
+
+4.4.90.52 Eqt!tpaent e literíaf Perianente
+
+26 rrnorte 411.0')0.00 26,72 Trarr&wrte 1vtario
+
+3.3.90.30 material de Conum
+
+3.3.90.39 Outros erv.Terceír 4'essoa Juri1l 26.7B2.0132 ETRDS VICINAIS 410.000.00 2.182.0132.1025 çonstnicao de pontes e 5.000,00
+
+W. 51 obraí e lrstala.:oefi 5.000.00 4.4.90.1.01 207 0órs e intaes 0c0. Pub1i 000.00
+
+M.M.0132,2043 Panutencao E9rad Vcini
+
+3.1.90.11 Ven. Vantiliens ft !-'esso1 Civil
+
+?ftP1ÜPY 1nfort.t Mía ?k' Horunte $6 1100w 02126-6t
+
+fix.MA 0)1I
+
+PREFEITURA MUNICIPAL DE: DA 015PESA 4UTO1ZA CANA VERDE —$16: 1t 2.009 • a
+
+CODI8À) DA 0E5PE FICHA ESPECIFICAÇÁO DA DESPESA DESPESA AlfÜWDA
+
+3.3.90.30 material de Const.o 290.000,00 3.3.90.3001 212 Material de 1onsuo 290.000.00
+
+Outros erv.ierce1ros-Pessta Filca J.J.90.d6.0 213 Outroí sery.ferceiros Pessoa hlca 55.000.00
+
+3.3.90.3 Outro sery.brceítos-vema Jurjd 60.000.00
+
+o 26.784 3.3.90.39.03 214 Outros Serv. Terc Pessoa Juridifa
+
+Trar,otte Hidrvio 0,04)0O.)
+
+1.000,09 26.784.0103 Transporte H$doria 1.000,00 26.184.0103.2044 lran5porte Krario Ria 8rande 1.00000
+
+3.3.41). 30 Material de Coosu 5(10.90 3.3.90.30.01 215 Material de Conswo 500.90
+
+3.3.90.39 Outros Serv.Terceiros-Pessoa Jurldã 500.00 33.90.39.03 216 Outros Serv, f. Pesiaoa Juridica
+
+2.07 SECREAk$A MUI1C. DE PLfIEJMMEN10 141.500.00 2.07.1 SECRET. IIIØHCIPÀL DE PLANEJIEWU 141,500.00
+
+04 Adaínlstracao 141.500.90 04.122 Adiínistracae Serai 141.500.00 04.122.0013 PtMEJAMEHTO E CUURDENAChO 8ERttI. 141.500.00 04.122.0013.1003 Eouipasentos para Secretaria 4.000100
+
+4.4.90.52 Epuipaentos e Material Pereanente 4.000.00 4.4.90.52.01 Euíp.Ptat.Persanente 0o.Pebtico 4.000,00 04.122.0013.2003 Manuten. Secretaria de Planeiar.ento 1"7.5u0.00
+
+3.i.0I09 Salrio íae1ia 500,00 3.1.90.09.01 ialario Failía 8ervidore S00(10
+
+3.1.90.11 vem. V.ntauen; Fixas-Pessoal tivl 101.000.00 3.1.90.11.01 Servidores Municipais 60.000.00 3.1.90.11.03 Secretariada 41.000.00 3.1.90.13 Obritiacoes Patronale 21.000,00
+
+3.3.90,30 Material d. Consumo 5.000.00 3.3.90.30.01 Material de Conuao 5000.00
+
+3.3.90.36 Q\*itro rv.ierceirosPessoa Fiíca 5.01)0.00 3.3.90.36.05 Outros Serv.Terceiros Pessoa Flstca 5,000104
+
+3.3.90.39 Outros Serv.Terceiros-Pessoa Juridi 5.000.00 3.3.90.39.03 Outros Serv. fer€. Pessoa Jurídica 5.000.00
+
+1$EPIORY Inforiatica Ltda Belo Hor1tmte - Mli Telefone i)26-6Mti
+
+UU4 0018
+
+i P R EF E 1 1UPA tIUNICJP(-L DE DEtftNSï#T1Y0 M1ESF.S UíÜJULAíA 01LAMENTÜ : CANA VERDE 2009
+
+CDiItiJ DA DESPES A FICHA ESF'ECiF(CÁCtt há USPESA IMPF-5A AUTORRAM
+
+1;n4 Vntoen Fi -Fesoa (,iyll 2.08 HUL 1W ASSISTE004 5øCU1. 41..3.00 2,08.1 FU000 t01C1PAL AssiSTE#CIA 500 A1 3271 1 Y1.00
+
+06 Srna Publica 06.12 De fesa Civil 500 1 00 0.1820019 WFESR CiVIL 500.00 06,102.O019.2046 anutncao Seni. to i?5a C'II 500,0
+
+3I3.90P30 mater ial de Consu\*ii 54)4),00 3.3.90.30.0 M a t e rial de Cot,uc 5 00.(W
+
+08 Assisteficia Soi.il 273.50.O0 0.122 êM inístraçao 6er1 42.470,00
+
+3.3.030 Material de Consumo 08.122.0048 CM. N1JC. DWÀW5 CRI A NCAE AOJJ 42.670.00 ffi,122.064Mé27 E quipakentos oI Gm elho Tutlai rW0,1.00
+
+4.4.90.52 o M a lêrt ~ 1, Pert;ente 4.4.90.52.01 238 Eauip.flat.Per\*anerie 0i\*.Publico
+
+08.122.0048.2(49 t:ons.Tutelar Crinc/4deente 41.709 00
+
+3.1.90.09 Salario Fa.lha 3009 00 3.1.90.09.05 239 Baiano íat lia Conselho Tuteir 300100 3J.90.I3 241) obrigacoes Patronais 5,670,00 • 3.3.90.30 ?iaterial de Conuo 5.000,00 3.3.90.30.01 241 Material de £nsu\* 5.000,00
+
+3.3.90.36 Outros Ser TerteltotPessoa Fiia 30.5001 00 3.3.90.36.02 242 Conselho Tutelar 30.0 CM) ,0'3 3,2.90.35.05 243 Outros Ser.Tereiros Pessoa Fisica 500,00
+
+3.3.90139 Gutros Serv,Tercetros-P seoa Juridi 00 13.90.29.03 244 Outros 9erv, Terc. Peoa Juridiu 500,00
+
+('8.241 Assitencla ao idoso 500.00 i8.241.0028 ATEN(Ü Ef'EClAt. AO IDOSO 500.00 08.241.0028.2050 Asisteacta ao 1(1(150 Lei 1074103 - 5t)0)
+
+3.3.50.43 Subvencoes sociais 500 7 00 .3.50,43.07 245 Subvencao para As. ao Idoso
+
+08.242 A ssist. ao Portador de Oeficieni:ta 5009 00 08.242.0045 Ptecao Seda! Especial 5O0 P00
+
+MEMURY 1nforatica Ltda 8eIo i1orionte - M Telefone (31)2126-6388
+
+FOL}U 0019 ; 1PFiTURA MUNICIPAL DE; EMONSTRóTIVO DA DESPESA AUTORIZA04 opcÇtnEnro : : CANA VERDE 2.009
+
+COPIGO PA DESPES FICHA ESPECIÍICAC0 DA DESPESA !WSPESA A11E01,740
+
+08.24.0045.2051 maflutenc ao Cwiveno c' ÇPE 50000
+
+3.3.50.43 Sub nue Sociais 500,00 50.43.09 46 Crnenio c 500,00
+
+08.243 Ait. a Criança e aç, Adolescenté 30.O0000 0243.001 PET! - PRÜG. ERRO. TRAB. tF14T11 0.00O,00 '8.243,t)01hlO28 Eqtip Prog. Errad. Trab. Infantil 500,0(1
+
+1 4.4.90.52 Equipmntos e Matefial Prmrente 500400 4.4,90.52.01 247 Equ.Mt.Peiannte 00.Pubtico 500,00
+
+08.243.0011.205? Mrt. Proo, Errid. Trab. lnhntH 29.500,)4)
+
+3,3.90.30 Material, de Cunsuíto 20.000,00 3.30,0i 148 Material de Consumo 20.000,00
+
+3.3.90.36 Outros Serv.Trcert-Pesoa Visita 9.000,Oft h3.90.35.05 249 Outrr.s Srv.Tercro Pea Fiia 9.000,00
+
+3.3.90.39 Outros Serv. Terce 1r-Pessoa Jur;d 500,00 3,3.90.39.03 250 Outros Serv. Terc. Pessoa Juriit.a 500,00
+
+1)8.244 4çSátencia Cmunitaria Z00. 180,00 08.244.003.6 CcTRhiEN1U t!NICO 3. .500,00 09. 244. 00 16. 2053 1anut. Cadatrasnto Unicc. .500,00
+
+• 90.30 NaterI d Consuo 500,u0 3.3.90.30.01 25! Material de (:Onu1c 500,00
+
+3.3.90.36 Nit(os Serv. Ter ceir -Pessoa Fiica 500,00 3.3I90.3.05 252 Outros Ser'.Terceiros Pese-0a flska 5001 00
+
+3.3.90.39 Outros Serv.Terceiro Pessoa Juridi 500,00 3.3.90.39.03 253 outros Serv. lerc. Pesm4 iundica 50000
+
+08.244.0021 APOIO AO SERVICO DE ORAS SDCIhL 39. 000,00 06.244.002! .2054 subvemês Sociais FUautri'a 39.000,00
+
+3.3.50.43 subvençoes Sociais 39.000,00 3.3.50.43.01 254 Subvencao Social 5.13.5. 9.500,00 3.3.50.43.02 255 Subv. Social Creche Nova Esperaca 9500,40 3.3.50.43.03 256 Sub. Social Vi)a Vi(. Carlos A Sob 3.50000 3,3.50,43.04 257 Subvencao Social Amic. Sao F Asis 3. .000,00
+
+3.3.50.43.02 258 Sub. Asoc. ftoremba em Prouresso 9.500.00
+
+0.244.0045 Protecao Social Especial 500,00 02.244.0045.1029 Orientacao e Aioio SociofaiIir 500,00
+
+MNDRV Inf rmatica Lida Blo Hort.one M6 1e1e1on 3021266388
+
+F0LH 0020 a .
+
+PREFEITURA MUNICIPAL DE DE0STRAIIVO DA DESPÍA 0T0RIZ1Dh i 0RCAEN1t1 i CANA VERDE —MG : 29
+
+C00160 )A DESPESA 1CHA ESPEC!flCACPJJ DA OE3PiSA DESPESA 4100R12ABA
+
+4.4,90,52 quipets e Ptteri1 Pe4r\*r4 4.4.90.52,01 262 Equp.flt.PeTIanent' 0.,PubIico 5O,00
+
+08.244.0090 ASSIST. A FAM1L!4/8UtEFC1t EVEPIÍU 147.001 06 OS. 244.0090,2057 Nr4it, Atividt1e5 Ait. Soci1 47.080,00
+
+3.3.90.30 Material de CofisuRo 34.000,09 3-3-90.30.01 2155 erla1 de Consuio 22.000,00 3.330.3f). 03 20 Cesta 8c p/ faniliãs cAreptes 12.0009 00
+
+3.3.9032 NtérIA de Distïibuica Gjt'j,ta /4.50,00 3.3.90.32.04 268 ater1 de Contruco 74.5809 00
+
+3.3,90,36 0utro Serv.Terceiro-Pea Fiic; 6.000,00 3.3.90.36.01 20 Loccao de lacsveís P/ DaiQd 5.000,00 3.3,90.36.05 270 Outros Sierv.Terçeiros Peoa Fc 1.000.00
+
+.3,9039 Outros ierv.Ter( roPesoa Juridi 11.000.00 3.3.90.39.02 271 Auxilie Fnr1 10.009.00 3.3.90.39,03 272 Outro erv, Terc. Psoa Juridiça 1.000,00 3.3.90.40 273 Outros Auz.Financ,a Pessoas Vlsica 20.001 00
+
+3.3.90.93 Indeniza~ e Restituioe 1.500,09 3,3.90.93.021 214 Ret. Pa%sagenç. 1.500,00
+
+08,244.013 PPOTECAO SOCIAL 12.100.00
+
+S 08.244.0138.2058 Protecao Aten. integral as FMils 9.10000 3.1.90.09 Salario Fasflia 500,00
+
+311.90.11 Ven. Vata ns F as-PesoaI Civil .5001 00 3.1.90.11.01 275 Servidores Kunicipais 500,00 3.1.90.13 276 Dbrigacoe Patrois 100.00 3.3.9014 277 Dirias - Civil 2.000,00
+
+3.3.90.30 Material de Consusio 1.000,00 3.3.90.30.01 279 Ptena1 de Consuma 1.000,00
+
+3.3,90.36 Outros v.Teeir-Pesoa Física 5.000,00 3.3.90.36.05 279 Outros Serv.Terceios Pessoa Física 5.000100
+
+0f.244.0I38.2O59 Jnduso produt;v e enf. Pobre 3.000,00
+
+3.:3.90.30 material de Corsuo 1.0901 00 3.3.90.3i).01 239 faterzaJ de Corsuo 1.000,00
+
+3,190.39 Outros Serv.Terc roPeso Juridi 2.009.00 3.3.90.39.03 2131 D'.'tros Seiv, Ter(- Pessoa Joridíca 2.000,00
+
+$EW)fiY Infortica LP,CU gelo Horizonte - M6 Telefone (31)245-6388
+
+FOLHA )02
+
+: PREFEITURA MUNICIPAL. DE: DEMONSTRATIVO DA DESPESA AUTORIZADA : ORCAtENTO : CANA VERDE
+
+..
+
+C0DIO DA DESPESA FICHA ESPECIFTCACAO A DESPESA DPEA AUT9RI14DA
+
+1! Trabalho 50.500,00 11.334 Foento ao Tabalhc' 50.500100 11.334.0047 APtIID A COOPEPATIVAS DE TRABALHO 1134,0047.1039 Cn1usa0 salgoes p/ 6er. Epeo 50.000,00
+
+4.4.90.51 Obras e Instiaoes 50.00000 4,4.90.51."I Obras e 1naacoe5 Do,, PubIieo 50.O0000 11.334.0047.2039 !c,centívo a Oeraao de Emprego 500,00 • 3.3.90.30 Material de ÇQn5u110 00 3.3.90.30.01 1teria1 de Censs.wio 500,00
+
+3.3.90.30 Miteri31 de Consust
+
+3.3.90.36 tiutu; v.Terceir -Pes5o Fi1
+
+3.3.90.39 OuttoeServ.Tetceiros soa Ju!i'i
+
+16 HibitdCao 2500,01) 36.481 Habitação Rural, 1.000,00 16.481.0117 Ca;as p/Carents, inclusive Popular 1.000100 16,481.0117.1030 Const./Refora de $oradia Carentes 1.000,00
+
+4.4.90.51 obras e 1nst1acc'es 1.000,00 4.4.90.51.01 282 Obras e Jnta1acoes O. PubIr 1.000,00
+
+16.4B? Hahitacao Orbana 1.500,00 • 16.482.0111 OBRAS PUBLICAS 500,00 16 482.0111.1031 Lote para Carentes 500,00
+
+4.4.0.61 Auitcao de Isovei 5(X,00 4.4.90.61.01 2f3 Aquisico Isoveis Dos. Publico 500,00
+
+16.482.0117 CaiwS 01 Carentes,inc1tie Pooølar 1,1)00,00 16.482.0117.1032 Construeao/Reforsa MoradiaÉ4reatPs 1.000,1)0
+
+4.4.90.51 Obras e 1nta1ace 1. XX) ,00 4.4.90.51.01 204 úbm e Instalacttes Do.. Publico 1.000,00
+
+2.08.2 SECWW DE ASSITENCIA SOCIAJ. 124.200.00
+
+08 Assistencia Socai 124.200100 08.122 1inistucao Gerai 124.200,00 08.122.0013 PLANE1ANEY0 E COOfrDENACAO 6RAL 124.200,00 0.122.0013.1047 Cont. Centro Ref. Assist. Social 13.000.00
+
+4.4.90.51 Obras e 1ntaiacoes 13.0009 00
+
+14E$ORY 1rforialia Ltda selo Hnnt M6 Telefone (31)2126638
+
+ÍOLHA 0022
+
+PEFEITURA MUNICIPAL DE:
+
+: CANA VERDE ONSTRhIJVO PIEM PA DESPESA 4UTORIZADA ÜRt1ENT0 2.009 ••---'
+
+CO(IO LIA DESPESA VICHA EP1CIÍ!CAC0 DA DESPESA DEPA UTOIZAD4
+
+4.4.90.5101 Obra, e hstalaçucç DOL Publico 13.000) 08122.0013.1048 Eq'iipaentoCoputador 10,0000
+
+4.490.52 tquipento e Pt.teril Penrte t0.0000) 4.4.94),2.0l EquipNaPernente oe.Puhlico 1000000 0822.00iL2O47 Setor Ainttíativo 45s13t. Social 9e.200,00
+
+3.1.90.09 Saiario Fan lia 200100 3.130.1)9.01 Sala'ia 1i1ia Servidores 200,00
+
+3.1.9011 Venc. Vantagens Fixas-Peçoa1 Ci'1 66.000100 3.1.90 11.01 Servidores municipais 25.Ó00,00 3.1.90. 1h03 Seretanado 41)00.00 raco atunai; t401)0,00 3.3.90.4 »iaria - Civil 1.000,00
+
+3,3.9010 14teri1 de Consumo 1.000,00 33V.O1 Nateriai de CnuE 1.000100 2.3.9ii.35 Servicos de 1k1onu1toria 5.000,00
+
+3.3.90.36 outros 5er terceirob-Peoa risica 13.000,00 30.36.05 outros serv.TercPiros Pe;eo Fui
+
+3.330.39 Outros Sr.Tercelro-Penoa Juridi 3,000,00 3.3.90.39.03 outros terv. Terc. Pessoa Jurídica 3.000,00 08.122.01.2048 Maflutençao Celh uniciat 1.000100
+
+. 313.90.30 NRteyial de Consuec 1.000100 3.3.90.30.01 ateriat de 1000 06II22.00i3.205 nut. Centro. Ref, P5510 Social 4.000.00
+
+3.3.0.30 'tteriat de Con.uo 1.000.00 9030.01Material de Coriirn\* 1.000,00
+
+313.30.36 0utto Sery,Tercei -Psoa r'iica 500,00 3.3.90,36.05 Ntro5 Sery.Terceíros Pessoa Fisiça 500,00
+
+.330.39 Outros Serv.Terce1r-Peoa Juridi 500,00 3.330.39.03 Outro; Serv. Terc. Pe350a Juriic 500,00 2.1)9 SECRETARIA MUt4I0P. ESPORTE E 41ER 6i.200,00 2.09.1 SECRETARIA PIUNWIP. ESPORTE E LAZER 261.21)0,00
+
+1)4 Alairitracac' 59.71001 00 04.122 Ad\*tn;tracio Geral 59.700.00 04.122.0013 PI$EJRE$TO E C00RDEMf0 GERAL 59.700,00 04.122.0013.2061 Setor Adoiníst. Eorte e 1er 59.700,00
+
+3.1.90.09 1;rio Fai1ia 100,00
+
+ENORY lnIc.riica Ltda pelo ticri.onte - M6 lelefone (31)2I26-638
+
+PREFEITURA MUNICIPAL DE : : OEONSTRAT1VO DA DESPESA AtJTÍJI1hOA CANA VERDE —MG:
+
+CDDI6O O1 OSPESA FICHA ESPECIRCACA0 DA OESPSA DEP€SA ASIOR1ZA1A
+
+.90.09.0i 1. 2$9 Saiario Faii;a Servidores 100,0v)
+
+3.I.9011 t'enc. Vantagens í Peso1 1:ivfl 45.20O,00 3.1.90,11.1 2% Servidores municipais 14.0000O 3.1.30,11.03 erretriado 31.2009 01) 3.1.90,13 ?9i abrigacoes PAr~is 9.500,00
+
+3.3.90,30 MateríA de Consume 500,(4)
+
+o 3.3.90.30.01 292 Material de Consumo, 500,00
+
+3.3,90.32 Material de I)i'tribuicao Gratuita 2.50,O0 33.90.',.32.03 293 Troeus, MedaNas etc 2.500,00
+
+3.3.30.36 Outros Serv.Terc ros-Pesoa Fisica ljOO,00 3.3.90.36.05 294 Outro ,erv.Terceiro Peoa Física 1.300,00
+
+3.3.90.39 gutros Serv. Ter e vos -Pessoa Joridi 600,00 3.3.90.9.d3 235 Outros Serv. Ter Pessoa jurAdICA 6001 00
+
+27 !eporto e lazer 10i.O0,0ø 27.812 Desporto Çolunitario 201.500,00 27.812.0100 ESPORTE E LAZER 201.50Q00 27.812.0100.1010 Equipazentos Esportivos 0C 1.00000
+
+4.4.90,5? Equipaento Material Peranite 1.000,00 4. 4. gol 52.O1 Euip.tt.rinirnte Do.Publico 1 .04)0,00 27.812,0100, 1037 Aiio'..,p/pnt.areasesportes 30.000.00
+
+o 4.4.90.61 Ajiqicao de i#oveis 30.000,00 4.4.90.61.02 315 Aquiçiçao Isoveis Doa. triiontl 30.000,00
+
+27.B12.0100. 1038 Vestiario Cao Futebol Lona Piir 500,00
+
+4.4.90.51 Obras e instalacoes 500.00 4,4490.51.01 0hr2 e lnsa1acoes Doa. Publico 500,00 27.8,0100,1050 QU3dras dê Esoorte, 3inasios et( 170.000,00
+
+4.4.90.51 Obras e Intalacoes 170.000,00 4.4.90.51.01 óhràs e Instalaçoeii Dos. Publico 170.00010{ 2.10 SCETIs M010p41 DE CURA 806.50110) 2.10.1 SECRErARIA MUNICIPAL DE 0BiS 806.500,00
+
+04 Admknstrao 216.0001 00 04.122 (dntiaco 6erai 216.000100 04.122.0013 PLANIJM€NTO E WORDEI MACA9 URAL 215.500,00 04.122.0013,1010 Computador, aesa, equipamentos et.: 4.00000
+
+4.4.90.52 Equipntor v Material Fer3,an(nt 4.0(M),00
+
+MEMORY Iniorsatica Ilda Belo Horizonte — M43 íeielone (31)215-6381
+
+FOLHA 0024
+
+PREFEI113R MUNICIPAL DE 7 : DE MONSTRATIVO DA LEPFSA AUTORIZADA CANA VERDE -M6 7 :
+
+cootcü üÃ DESPESA F1OA ESPEC1F!CCA1i DA KSPESA DESPESA A1t1011A0
+
+4.4.90.52.01 Eq.Nat.fernete hA.pUblico 4.000,00 04.122.0013.1017 Desr,o. I m ovéis ur bario e Rural 500,00
+
+4.4.90.5 1 iticai de Tenvei s 4.4.90.61.02 Aqiicao I goveis DOÊ . patri60h1 A1 500,00 0.122.00í3.2034 Malwtencdo Seretara de obr35 211.00000 3.1.90.01 Aposentadotias e Refor zasi 52.fX0100
+
+.3.1.90.09 Sa1rli, Fa1ia 2.0000Ú 3.1.90.09.01 S1aiio Fu.ilia Servidores 2.000.00
+
+3.18.11 Venc. Vanta gens Fixas-Pessoal Civil 131.000,00 3.1.90.11.01 Servidtre fnicipak 90.000,00 3.1.90.11.03 Secretariado 41 .00000 3.1,90.13 0hriga(ops Patronais 26.000,00 04.122.001 EXPAP4A0 E MOPE RWIWA0 VIARIA 500,00 04,122.0019.2035 C:e.iterio .unipa1
+
+:13'. 9 0. 30 Ma terial do Consuffirj 500. Ou 3.3.90. 30.01 Material de Cúuo
+
+15 11rba1110 120.000.00 15.41 1nfa-estrutura Urbana 120.000,00 1.451,0112 PAVl1ENïACAD 1.n.000,00 15.41.0112.1020 €tc 120.000,00
+
+4.4.90.51 Obras e 120,0)0,00
+
+o 4.4.90.51.01 obrat e Inta1awe Do\*. Publico 120.000,00
+
+20 riultftra 470.000,00 20.606 Extenao Roral 470.000,00 20.606.0071 ASSI1TENUA A ZONA RURAL 470.000,00 20.606.0071.1023 Pat.Agric.,Trator,Carrea,Retro pte 400.000,00
+
+4.4.90.52 Eu ipaRen~ os e material Peranent 400.000100 414.i0.52.02 ,C Eu.Mat.feran 0, PatriwçidaJ 400.000900 20.606.0071.2041 Convenio tn EJt.4.T.E.R. 70.000,00 3.2.90.41 Contri bui(oe: 70.000,00
+
+22 Industria 500,04) 22.661 Prcoxao 1ndtria1 50,00 22.66.0127 11AKO DE INCENTIVO A II001J?1A 500400 22.661.0127.1024 1ove1 para 0strito 1n&itriai 500,00
+
+4.4.90.61 Autcat de Ioveis 500,00 4.4,90.41.02 Aquiicao )sovei ioa. Patriaoni1 500100 2.1! SECRT. ?WN1I DE RCURS0 HUA11i 2.500.00 2.11.1 SECRETARiA ?iJIC. RECURSOS 4V O AMOS 82.500,O0
+
+E$0RY 1nfor13tica Uda tielo Horizonte - N6 Telefone 0212639
+
+FOLHA 0025
+
+: PRËFE1TURA MUNICIPAL DE: »E$OtISTRRTIVO DA DESPESA AUTORIZADA ORCAMENTO : CANA VERDE 2,009 '1 , ,\_
+
+CODISO DA DESPESA FICHA ESPECIFICACAO DA DESPESA IWSPESA AUTORIZADA
+
+04 Adnitracao 82.500,00 04.122 Ad\*initracao üeral 82.500,00 04.122.0013 PLANEJANEWTO E COORDENACAO fiERAL 82.500,00 04.122.0013.1010 Cosputadore'. mesas, eqiijpaoer4tm e 2.000,00
+
+4.4.90.52 Equipaunto; e Material Peraanente 2.0009 00 4.4.90.52.01 EquipJ1at.Per.annte Dos.Puh1io 2.0009 00 04. 122.001 3,200) flanut. Sec. Nu", Recursos Huam 80h5009 00
+
+3.1.9009 Salario Fa\*i11a 500,00 3.1.90.09.01 Salario FaElia Servidores 500,00
+
+3.1.90.11 Venc. Vantagens Fxa€-Pe;aa1 Civil 61.000,00 3.1.90.11.01 Servidores Municipais 20.000.00 3.1.90.11.03 Secretariado 41.000,00 3.1.90.13 ObrigacMS Patronais 12.000,00
+
+3.3.90.30 Material de Consuio 3.0000 00 3.3.90.30.01 Ateriai de Consumo 3.000 9 00
+
+3.3.90.36 Outros Serv.Terceiro 4esoa físca 2.000,00 3.3.90.36.05 Outros Serv.Terceiros Pessoa Física 2.000,00
+
+3.3.90.39 Outros Serv.Iercelros-Pessoa Jurídi 2.000,00 3.3.90.39.03 Outro Serv. Terc. Pessoa Juridica 2.000,00 2.12 SECRETARIA MUNICIPAL DE TURISMO 4.650,00
+
+o 2.12.1 SECRE1ARIA MUNICIPAL DE TURISMO 4.650,00
+
+04 Adminlstracao 3.150,00 04.122 Adaínistracan Geral 2.150,00 04.122.0013 PLANEJAMENTO E COOROENACAO GERAL 2.150,00 04,122.0013.2061 Manutencao Secretaria de Turismo 2.150,00
+
+3.1.90.09 Salario Familia 50,00 3.1.90.09.01 Salario Família Sevidores 50,00
+
+3.1.90.11 Venc Yantaens Fixas-Pessoal Civil 500,00 3.1.90.11.03 Secretariado 500100 3.1.90.13 Obrieacoes Patronais 100,00
+
+3.3.90.30 Material de Consumo 500,00 3.3.90.30.01 Material de Consumo 500,00
+
+3.3.90.36 Outros Serv.Terceirou-Pessoa Física 500100 3.3.90.36.05 Outros Serv.Terceiro; Pessoa flsica 500,00
+
+3.3.90.39 Outro; erv.Terceiros-Pessoa Jundi 500,00
+
+MENORY Inforsatica Ltda Belo Horizonte M6 Telefone (31)2126-6388
+
+FOLHA 002
+
+: PREF:1 TURA MuNICIPAI. DE 0Ef4ONSTR4TIVO 1Ji DESPESA 43it0R17í» ORCAMENTO CAMA VERDE —MG 2,009
+
+C0D160 0i DESPESA ricu ESPECIF IC9,40 DESPEÇA JTORfl%\*
+
+3. Vil 90. 39.03 Outros Ser, Terc. Pessoa Juridica 500,00 04.65 Te r i são 1.000,00 04. 695. 0 1 PU3UEJ3t1ENTt) E CODRDENACAO 6ER1L 1.000,00 04 5. 00 13 .2062 Dív01g.c43 Turietic. 140(l0,00
+
+3.3.90.30 Material de Consuno 500,00 3,3,91,3(t.(j1 $ateï ia! de CoMu'
+
+3. 31,9O .39 Outros 5ery.TprceiroPega Juridi 500,00 3.90.39.03 OutTrã Serv. Terc. Peoa Juridiçj 50000 o 6sta0 Aabiental 1.5Ú0.P0 18.41 Pervacac e cneervaco Affibípiltal 1.500,00 2.541.0115 PRES&t'AO DO 3t1O AMPIEMQ 3.500.00 18, 541.0115. 1036 Preç.., Manut.N centes , "(It#tes et 1.000.00
+
+4.4.90.31 Obras e 1ftta10e 1.000,00 4.4.90.1.01 fltras e inta1acoe Me. Publico 1 .00t',Oo 19341 .0115.2067 nttIPreier.'. $ nte(Fote etc 500,00
+
+3.3.90.30 Material de çonSURO 00,00 3.3.90.30.01 Material Je ÇOnUmI 504 00 2.13 ECRUAJlf1 MUNICIPAL DE C1Jir1Íí 214.900,00 .. 4) Z. 1 1 SECRETARIA WUClPAL &E CVLTU1 234.900,00
+
+04 Idínit.tacao 74.400.00 04,122 Adamístracão Geral 74.400,00 122.0013 PiAN}JAflENTO E C R0(NCA0 GERAL 74. 400.00 04.122.002.2061 Mutencao Secretaria de Cultura 74.400,00
+
+311-9A10 Sa1ato }la 600,00 3. 1.90.09.0I lario Fa\*ilia Servtde3 ,0')
+
+3.1.90. i 1 Yenc. Yoen Fixas—Peso—ai Civil 61 .0Cu),00 3.1.90.11.01 Servidores Munici,rai 20.000,00 3.1.90.11.03 Secretariada 41.000,00 3. 1 .90.13 obrigacoes Patronie 12.30000
+
+13 Cultura 13m001 (0) 13.392 Difusao Cultural 137.500,00 13.392.0008 ACAO CULTURAL 131.500 ,00 13.392.0008.1034 Instrumentos Fanfarra Mttni.:tpal 3, 0xp00
+
+4.4.90.52 quipento e Matarial Perarieite 3.000,00 4.4.90.52.02 Equip.t1at.Peuian. DOM. Ptictrdai 3.000,00 33.392..0O0. 1035 Cosjtadore, íj Litean, qui 5.000,00
+
+4.4.90.52 Equipaentc!3 e Matetial Permanente 5.000.0(x
+
+MEMY 1rforatia ttda te1n Horizonte - N Telefone (31)2126-631113
+
+FOLHA (t027 • .--•.-- PREFEITURA MUNICIPAL DE: fEONSTRT1VO DÀ OESES AU1ORUAOA 0RCA#ENT0 CANA VERDE M C5 2.009 1 , -
+
+COíil'O DA DESPESA FICHA ESPECIFICACAI) DA DESPESA D€SPEA AtT(RUAA
+
+4.4,9032d0 Eq'up.$at.Porianente Doa.Publica 3.00O,O0 13.392. 00812063 rartfrra do. Nsica 1.000,00
+
+3.390.3O Material de Consumo 1.000100 3.3.90.30.01 material de Conu. 1.000O0 13.312.0008.2064 &ibvencao Corporatoe9 fluiçau 500,00 3.3.90.43 Subvenoe Sociais 500,00 13.392.0005.2065 Manutwa0 Atividades (:u1turai 127.000,00
+
+3.3.90.0 Material de tonuao 2.000,00 33.90.30.01 Raterit de COiSUE\* 2.000,00
+
+3,3.9036 Outros Serv.Terceiro-Pessoa FiJca 5.000,00 3.3.90.36.05 Outros Serv.Tercefros Pessoa Física 5.000900
+
+3.3.90.39 Outros Serv.Tereiro-Peoa Juridi 120.000k00 Outros Serv. Terc. Pessoa Jurídica 120.000,04) 13.392.0008.2066 Biblioteca Publica flunicipI 1.000,00
+
+3.3.90.30 Material de Cons'rno 500,00 3.3.90.30.01 Caterial de Consu m o 5000 04)
+
+3,3.90.36 Outros Serv.ferceiros--Pessoa Fisica 200,00 3.3.90.31.05 outros er'.Terceiro Pessoa Fzsica 200,00
+
+3.3,90.39 outros S v.Ter iroPsoa Juridi 300,00 3.3.90.39.03 Outro Setv, Terc. Pessoa Juridica 300,00
+
+24 Cunioe 3.000,00 24.722 Te1ec'uncues 3.04)0,00 24.722.0135 TELECENTkS 3.000,00 24.722.01S.1033 Teieentrs Counitaru 1.000,00
+
+4.4.0.52 E0ipakentos e Material Perinent 1.0009 00 4.4.90.52.02 Equip.at.Per\*n, Doa, Patrimonial 1.00000 4. 722,0135.2060 Planutenao Telecentros Counitario 2.oOO,00
+
+3.3.90.30 Nterial de Conuio 1,000900 3.3.90,30.01 Nteríal de Cnuo 1.000,00
+
+3.3.9036 Outros Serv.Terciro4'sse Física 5^00 3.3.90.36.05 Outros Serv.Terceios Pessoa Física 500,00
+
+3.3.90.39 Outros 5rv.Terceiro-Pessi o urdi 500,00 3.3.90.39.03 Outros Serv. Terc. Pessoa Jurídica 2.14 PROCURADORIA GERAL MIjtW;1P41. 111.500,00 2.14.1 PROCURADORIA GERAL PtUI1C1P91 iii .500,00
+
+1E$0RY lnforaatica ltda Pelo Horronte 06 Telefone (31)2126-6351
+
+FOLHA 002v - e'ç----.--- -. PREFEITURA MUNICIPAL DE: : 2 : E11JNSTQ11V0 DA DE-SP1E9A AUY0R1IIO/ : URCAHE$Tfl CANA VERDE —MG: 2.009
+
+coDlao DA DESPESA FICHA ESPECIFICACAO OESPESA DESPESA AUTORIZADA
+
+04 Atr 111.500,00 04.122 AdfinitrEac Gerai 111,500,Ou 04.122.0013 PIANEJIENTD E CDORDENAC40 GERAL UliOO,00 04.122.0013.1062 para Setor 3.000,00
+
+4.4.90,52 EquipaientoshateríA Ptraianente 3.\*90 4.4.90.52.01 Eqtnp.Mat.Perrant DLPub1;co 3.000,00 04.122.0013,2061 Mrutencao Proitirdoria Muni(lpal O8.500,00
+
+o 3.1,90.09 3a1arto ?ai1ia 500,00 3.1.90.09.01 Salario Família Servidores 500,00
+
+3.1.90.11 Venc. Vantaqên F! Peoa1 Civil 62.000r oo 3.1.91),i1.01 Serviduro5 gunicipais 21.000.00 3.!. 90. 11 .03 Secreta 41 .000,00 3.i.90. 11 3 Obrigaces Patrona 13.000,00
+
+3,3.90.30 Material de Conuo 1 .000,00 1.3.90.30.01 flaerial de Contrno 1. coo ,00 3 3.90.36 Outros Serv.Terc ro-Peoa Fliia 2.000,00 3.3005 Outtos Serv.Terceiro Pessoa íi.iica 2.000 00
+
+3.3.90.39 outros Serv.Terceiros-Peoa Jtuii 30.000,00 3.3. 90 . 39 03 Outros Serv. Te'c. Pessoa juridici 30.000,04) 2.15 CW1OLADÜ1A INTERNA 55,100,00 2, 15-1 CONTLAOORIA 11LERA 55.100,0€'
+
+M9 02 02.062 Judicíayia Defesa Inter. Publ. Proc.Judiciirio 1.500,00 02.062.0023 PESQUISA E OIFIJSAQ TF.COLO1CA 1.5000 00 02.062.0023.2'055 FROCOU - DEFESA DO C0N9U9tW 1.500,00
+
+3.3.90.30 Material de Cnsuo 500,00 3,3.90.30.01 N .Rterial de Cotuo 500,00
+
+3.3.90.36 out(os Fiica 5001 00 3.3.90,36.05 Outros Serv.Terceim Pessoa F'ilca 500,00
+
+Outros Serv.Ter' ros-Pes%oa Juridi 500,00 3.3.90.39.03 Outro; Sery, Terc. Pessoa Jjridir.a 500,00
+
+04 Ad\*instracao 53.600,00 04.124 Controle Interno 53.600,00 04.124.0013 P1EJAP11NTÜ E CDORDENACAO 6EPL 53,6%, f 04) 04.124.0013.204)5 Nutenco Controladoria interna 53.600,00
+
+3.1.90.09 Salario Fa1ia 500100
+
+IIEMORY InforANtiç2 LtÔ pel o Wori7.ente 6 Telefone (312126-$38
+
+FOLhA 0029
+
+:PREFEITURA MUNICIPAL DE. E05TT1Vt }W DESPESA ALÉTOPULAD4 URCAPÇEJTO g CANA VERDE 2.009
+
+C119I6O DA DESPESA FICHA EPECWICAC0 DA DESPESA DESPESA AUTORIZADA
+
+3.1.90.09.01 Salario Fa21a servidore¥
+
+3.1.90.11 Venc. Vantoens rixa PeoaJ Civil 42.0),00 3.1.90.11.01 Servidores uniai 1.000,00 3.1.90.11.03 Secretariado 41,000,00 ti. 1. 90. 13 ObriqaÇO25 P atronais
+
+3.3.90.30 material de Consuffig Imoto 3.3490.30.01 Material de Con'wo ,0000U
+
+3,3.90.36 Otitros Sv.Terceiro-Pesoa Fisica 500.00 3.3.90.36.03 Outros Serv,Terr.eiro Pessoa Fic 500,00
+
+3.3.90.39 ¶3e'. Terei ros-Pess',a !urid flutrós Serv. Tec Pessoa Juridica 1.000,0')
+
+ti RESEkVA DE CQ$TIN6ENCIA 180.000,00 3.03 ESER1IA DE C01TIN6ECIA io.o0o,00 3.03.3 RESERVA DE CONTINGEWlA i80.00000
+
+99 Reserva de Corit'Inenia 180.000.00 39,999 Teserva de Continencia 180.000,00 99.999 RESERVA DE C0N1196ENCIA 180.000.00 99.999.9999,9999 Reserva de Continqencia 180.000,00
+
+9.939.99 Reserva de Continjencia 1 Bom- 0,00 9,9.99.99.99 Reserva de Continqenci 180,00000
+
+CI3TAL GERAL DA DESPESA 10.500.00180
+
+PlE$001 !nfwatica Ltda Belo 4orizonte - Nú Telefone (31)2126-638
+
+PREFEITURA MUNICIPAL DE CANA VERDE PRAÇA NEMESIO MONTEIRO, 12 CENTRO - CANA VERDE /MC CNPJ 18.244.426/0001-56 prefeituracanaverdebotmaiLcom (35) 3865-1202
+
+ANEXO 1— DESCRIÇÃO DOS CARGOS COMISSIONADOS E ESTRUTURA ORGANIZACIONAL
+
+Nome do Cargo Símbolo Vagas Vencimento Símbolo Nível Secretaria Municipal de Administração Secretario Municipal de Administração SEA 01 SEC - '.. Encarregado Setor de Licitações e Contratos ESL 01 VSC IV Auxiliar de Secretaria AAD 02 VSC 1 Chefe de Controle de Compras ECC 01 VSC V 2 Secretaria Municipal de Planejamento Secretário Municipal de Planejamento e Gestão SMP 01 SEC - Auxiliar do Setor de Planejamento ASP 01 VSC III Assessor Administrativo AAD 01 VSC VII Auxiliar de Secretaria AAD 01 VSC 1 Auxiliar de Contabilidade ACT 02 VSC IV Coordenador do Setor de Arquivo Geral CSA 02 VSC IV 3-, Secretaria Municipal de Fazenda Secretario Municipal de Fazenda SMF 01 SEC - Chefe do Setor de Arrecadação e Fiscalização ESA 01 VSC V Auxiliar de Tesouraria ATE 01 VSC IV 4 Secretaria Municipal de Educação Secretario Municipal de Educação .- SME 01 SEC - Encarregado do Setor de Educação ESE 01 VSC IV ;\ Auxiliar de Secretaria AAD 02 VSC 1 5 Secretaria Municipal de Saúde Secretario Municipal de Saúde SMS 01 SEC - Chefe do Serviço de Enfermagem CSE 01 VSC V Chefe do Setor de Laboratório, Farmácia e Bioquímica CSL 01 VSC V \ Encarregado Centro de Saúde ECS 01 VSC 1V Auxiliar de Secretaria AAD 02 VSC 1 6 Secretaria Municipal de Cultura Secretario Municipal de Cultura SME 01 SEC - Chefe do Setor de Cultura CSE 01 VSC V Auxiliar de Secretaria AAD 02 VSC 1 Instrutor Musical IMU 02 VSC II 7 Secretaria Municipal de Assistência Social Secretario Municipal de Assistência Social SMA 01 SEC - Chefe do Setor de Assistência Social CSA 01 VSC V Encarregado do Fundo Municipal de Assistência Social SFM 01 VSC IV Auxiliar de Secretaria AAD 02 VSC 1 Assistente Social ASS 01 VSC IV Encarregado do Serviço de Psicologia PS! 01 VSC IV 8 Secretaria Municipal de Obras Secretario Municipal de Obras SMO 01 SEC - Diretor do Departamento de Engenharia DSE 01 VSC VII
+
+PREFEITURA MUNICIPAL DE CANA VERDE PRAÇA NEMÉSIO MONTEIRO, 12 CENTRO CANA VERDE /MG CNPJ 18.244.426/0001-56 prefeituracanaverde@hotmail.com (35) 3865-1202
+
+Chefe do Setor de Engenharia CSE 01 VSC V Encarregado de Topografia ETO 01 VSC IV Chefe do Setor de Obras e Infra-Estrutura CSO 01 VSC V Encarregado de Almoxarifado EAL 01 VSC IV Auxiliar de Secretaria AAD 05 VSC 1 9 Procuradoria Geral Municipal Procurador Geral Municipal PMU 01 SEC - Assessor Jurídico Municipal AJM 01 VSC VI Auxiliar de Secretaria AAD 01 VSC 1 10 Gabinete do Prefeito Chefe de Gabinete GAB 01 SEC - Motorista do Gabinete do Prefeito MGP 01 VSC III Secretária Recepcionista SER 01 VSC II 11 Controladoria Interna Controlador Interno CIN 01 SEC - Supervisor de Controle Interno SCI 01 VSC III Auxiliar de Secretaria AAD 01 VSC 1 12 Secretaria Municipal de Recursos Humanos Secretario Municipal de Recursos Humanos SRH 01 SEC - Auxiliar de Recursos Humanos ARH 01 VSC III Auxiliar de Secretaria AAD 02 VSC 1 13 Secretaria Municipal Turismo Secretario Municipal Turismo SMT 01 SEC Auxiliar de Secretaria AAD 01 VSC 1 14 Secretaria Municipal de Esportes Secretario Municipal de Esportes SME 01 SEC - Treinador de esportes especializados TEE 02 VSC 1 Treinador futebol crianças e adolescentes TFCA 01 VSC 1 Auxiliar de Secretaria AAD 02 VSC 1 Chefe do Setor de Esportes CSE 01 VSC V 15 Secretaria Municipal de Transportes e Serviços Urbanos Secretario Municipal de Transportes e Serviços Urbanos SMT 01 SEC - Chefe do Setor de Transportes CST 01 VSC V Chefe do Setor de Serviços Urbanos CST 01 VSC V Auxiliar de Secretaria AAD 01 VSC 1
+
+Prefeitura Municipal de -: a erde, em i3 de novembro de 2008.
+
+Antonio Carlos Cipriano Carneiro Prefeito Municipal

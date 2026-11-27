@@ -1,0 +1,156 @@
+---
+titulo: "Decreto Legislativo nº 1, de 03/03/2020"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "1"
+data: "2020-03-03"
+ementa: "Homologa o Resultado final do Concurso Público 001/2019 realizado pela Câmara Municipal de Cana Verde"
+municipio: "Cana Verde"
+uf: "MG"
+codigo_ibge: "3111903"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.canaverde.mg.leg.br/norma/499"
+fonte_texto: "https://sapl.canaverde.mg.leg.br/media/sapl/public/normajuridica/2020/499/decreto_legislativo_no_01-2020_homologa_resultado_do_concurso_01-2019_.pdf"
+sha256_fonte: "6db7282782d8f94501cec141780631f82c3d05086a4499274e73ab36c232cad6"
+baixado_em: "2026-11-27"
+---
+
+# Decreto Legislativo nº 1, de 03/03/2020
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PAR CÂMARA MUNICIPAL DE CANA VERDE
+
+camaracanaverdeQhotmail.com
+
+DECRETO Nº 01/2020.
+
+“Homologa Concurso Público da Câmara Municipal de Cana Verde e dá outras providências”
+
+O Presidente da Câmara Municipal de Cana Verde, no uso de suas atribuições legais, e, atendendo ao preceito estatuído no artigo 37, incisos I, II e II da Constituição Federal do Brasil, e ainda,
+
+CONSIDERANDO especialmente as disposições contidas nas Leis Municipais: LC 01/2009, LC 984/2018 e Lei Municipal 1.001/2019.
+
+CONSIDERANDO o Edital de Concurso nº 01/2019 de 10 de setembro de 2019.
+
+CONSIDERANDO o resultado final do Concurso, apresentado pela JCM — Consultoria Municipal Ltda. em 21 de fevereiro de 2020.
+
+DECRETA:
+
+**Art. 1º** - Fica homologado o Concurso Público da Câmara Municipal de Cana Verde-MG, realizado no dia 26 de janeiro de 2020, que aprovou os seguintes candidatos:
+
+AUXILIAR DE SERVIÇOS GERAIS.
+
+INSC. NOME TOTAL CLASS. 0199 EDILAINE FIRMINO BARBOSA MARQUES 93,0 1º 0216 GLEICE KELLY DE ANDRADE 93,0 2º
+
+ama unicigdl de Card vonds - 14 ão Batista Cartego Presider:
+
+camaracanaverdeOhotmail.com
+
+0132 RAFAEL HENRIQUE DA SILVA SOUZA 93,0 3º
+
+0021 ALANIS CAROLINA DE OLIVEIRA MOREIRA 92,0 4º
+
+0211 ANDREISA FREIRE 86,0 5º 0079 SIMONE MARCIA RODRIGUES 83,0 6º 0030 KESLEY DAMIANA APARECIDA DE PAULA 83,0 7º 0110 LAUANA FERREIRA RESENDE CHAGAS 79,0 8º 0082 DELANE ANTONIO DE OLIVEIRA 78,0 9º 0224 ELEN MARIA DOS REIS 76,0 10º 0220 BETANIA DE OLIVEIRA RODRIGUES 71,0 Hº 0171 SAMUEL SANTOS DONIZETTI 70,0 12º 0225 JUNIA ANACLETO DE FARIA GONÇALVES 68,0 13º
+
+0231 ELISSSANDRA ROSA ISIDORO DOS SANTOS 68,0 14º 0187 LETICIA TEODORO DA PAIXAO 65,0 15º 0022 DALVANA CATER DA SILVA 65,0 16º
+
+0174 EQUITERIA FLAVIANE DE MORAIS BORGES 64,0 17º
+
+0173 TALUANA FERNANDA PEREIRA 64,0 18º 219 FERNANDA CRISTINA FERREIRA SOUSA 62,0 19º 0240 ANNA FLAVIA CARVALHO DE ALMEIDA 60,0 20º 0235 CAROLINE EUGÊNIO DE SALES 59,0 21º 0131 EBBER ROSALINO NUNES Sd po 0172 POLYANA DA SILVA DIAS 56,0 23º
+
+CNPJ: 23.7883.368/0001-79 Tel: (35)3865-1527
+
+camaracanaverdeQhotmail.com
+
+0133 IVALDO SILVIO DE CARVALHO
+
+0164 ADEJENAINE ROSA DE SOUZA MORAIS 0039 JAQUELINE ALEXANDRE 0067 ALFRISA APARECIDA DIAS
+
+0045 LILIANE APARECIDA CRUZ
+
+CONTADOR
+
+INSC NOME 0190 LUCIANO JOÃO AVELAR
+
+0196 ALISSON MATEUS MACHADO 0215 ALANY FLAVIA DA SILVA 0205 JÔNATAS ASSUNÇÃO SOUSA
+
+0055 ROSILENE LOPES DE RESENDE
+
+56,0 24º 56,0 25º 56,0 26º 54,0 27º
+
+52,0 28º
+
+CLASS. 88,5 1º Kas 2º 70,5 3º 70,0 4º
+
+66,5 5º
+
+0123 RANDERSON HENRIQUE DE ALMEIDA MARTINS 64,0 6º
+
+0068 ALMIR SILVA
+
+0097 ELAINE GARCIA DE MORAIS GONZAGA
+
+SS Te
+
+51,0 8º
+
+camaracanaverdeOhotmail.com
+
+PROCURADOR LEGISLATIVO
+
+INSC NOME 0001 VITHOR HENRIQUE FIGUEIREDO COSTA 0151 ALEX BRUNO NASCIMENTO RODRIGUES 0020 JULIANA MARIA GOUVEA 0150 ELLEN FIRMINO 0127 CAMILA MIGUEL MAIA 0006 CLAUDIO MESSIAS VIOLA JUNIOR 0210 EDWARD DE ALMEIDA E SILVA JÚNIOR 0206 RENÊ MORAIS DA COSTA BRAGA 0009 DANIEL EDSON ALVES E SILVA 0108 KAROLINE DOVAL MARÇANO 0165 MICHEL ANTÔNIO RODRIGUES 0060 PLACÍDIO FERREIRA DA SILVA 0125 LÍVIA GARCIA FREIRE 0213 MATHEUS FREIRE LINO
+
+0065 ADRIANO ALVES DOS SANTOS
+
+CLASS. 89,0 1º DO, ar 84,0 3º 83,0 4º 83,0 5º 80,0 6º 79,0 7º 75,0 8º 74,0 9º JL,5 MP Tao 11º 65,0 12º 64,0 13º 60,5 14º
+
+60,5 15º
+
+camaracanaverdeOhotmail.com
+
+SECRETÁRIO LEGISLATIVO.
+
+INSC NOME
+
+0179 BÁRBARA COUTINHO MOURÃO CAVALCANTI 0130 JULIMAR MÁRCIO DE OLIVEIRA
+
+0084 JOYCE ALLANA REIS
+
+0089 MATHIAS SCHINEIDER BARBOSA GARCIA 0138 DANIELA MENDES DE OLIVEIRA
+
+0115 LUCIANA MARIA ARRIEL SOARES
+
+0222 SUELEN CASARINO DE OLIVEIRA SILVA 0234 ANDRÉ DE BASTOS CARDOSO
+
+0167 CARLA CRISTINA DE ALMEIDA FLAVIO 0158 MARIANA CURVELLO FERREIRA
+
+0057 ALVARO DE ALMEIDA CARVALHO
+
+0088 SUZANA BORGES CARVALHO DA SILVA 0166 RENATO KENEDY DE MORAIS
+
+0203 PEDRO HENRIQUE CARDOSO DE MORAIS 0099 ANA CECÍLIA CUSTÓDIO
+
+0188 WENDELL BARBOSA CARDOSO
+
+0085 KELY MARA ELIAS COSTA
+
+CLASS. 89,0 1º 83,0 2º 78,5 3º 77,5 4º Tao Tao 6º Tao TO 71,5 8º 67,0 9º 64,5 10º 60,5 11º 60,0 12º 59,0 13º 57,5 14º 56,5 15º ds 16º
+
+e Do má
+
+camaracanaverdeQhotmail.com
+
+0077 SILMARA RODRIGUES SILVA 54,5 18º 0221 ISABELLA DÉBORA GONÇALVES 54,5 19º 0124 ÁTILA BARBOSA DE ALMEIDA 53,5 20º 0223 ALEX FELIPE DE OLIVEIRA FREIRE 50,5 21º
+
+0081 ELIANA APARECIDA CARDOSO DE MORAIS 50,0 22º
+
+**Art. 2º** - Os candidatos serão convocados de acordo com a necessidade da Câmara Municipal de Cana Verde, para preenchimento das respectivas vagas.
+
+**Art. 3º** - O concurso ora homologado terá validade de 02 (dois) anos, podendo ser prorrogável uma vez, por igual período, nos termos do inciso III, art. 37 da Constituição Federal.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação. Registre-se, publique-se e cumpra-se.
+
+Cana Verde, 03 de março de 2020.
+
+JOÃO BATISTA CARDOSO - PRESIDENTE DA CÂMARA.
